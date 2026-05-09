@@ -90,7 +90,7 @@ Komisja łatwiej śledzi tok argumentacji, pytania dotyczą meritum zamiast niej
 Student improwizuje kolejność prezentowanych treści, odczytuje długie fragmenty z ekranu i pomija sekcję ograniczeń badania, aby „zmieścić się w czasie”.
 
 **Konsekwencje:**  
-Wzrasta obciążenie poznawcze odbiorców, spada wiarygodność naukowa (brak transparentności ograniczeń), a dyskusja przenosi się na błędy prezentacyjne zamiast jakości wyników.
+Wzrasta obciążenie poznawcze odbiorców, spada wiarygodność naukowa (brak transparentności ograniczeń), a dyskusja przenosi się na błędy prezentacyjne zamiast na jakość wyników.
 
 ### Przykład 2: Psychoedukacja dla rodziców (komunikacja z odbiorcą niespecjalistycznym)
 

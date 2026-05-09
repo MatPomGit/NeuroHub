@@ -42,6 +42,10 @@ Specjalista używa genogramu jako narzędzia etykietowania („toksyczna rodzina
 ## Perspektywa nieoczywista
 
 Nieoczywiste ujęcie zakłada, że genogram może być narzędziem budowania sprawczości, a nie tylko diagnozy. Gdy rodzina widzi powtarzalne wzorce, łatwiej odróżnia „to, co odziedziczone” od „tego, co można dziś zmienić”.
+## Powiązane artykuły (cross-linki)
+
+- `psychotherapy/systemy_rodzinne` — podstawy dynamiki systemowej.
+- `relacje/relacje_rodzinne` — dynamika relacji i konflikty.
 
 ## Podsumowanie
 

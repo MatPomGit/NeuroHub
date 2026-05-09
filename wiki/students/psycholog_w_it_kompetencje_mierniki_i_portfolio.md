@@ -46,6 +46,10 @@ Kandydat przedstawia wyłącznie ogólne hasła („umiem komunikację”, „ro
 ## Perspektywa nieoczywista
 
 Nieoczywiste, lecz praktyczne ujęcie mówi, że pierwszą przewagą psychologa w IT nie jest „czytanie emocji”, ale **redukcja kosztu błędnej decyzji**. Osoba, która umie powstrzymać zespół przed nadinterpretacją danych, często wnosi większą wartość niż osoba generująca efektowne, lecz słabo zwalidowane pomysły.
+## Powiązane artykuły (cross-linki)
+
+- `students/psycholog_w_it` — role i kompetencje psychologa w technologii.
+- `students/sciezki_kariery` — ścieżki rozwoju zawodowego.
 
 ## Podsumowanie
 

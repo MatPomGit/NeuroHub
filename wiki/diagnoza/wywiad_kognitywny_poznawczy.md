@@ -54,18 +54,10 @@ Metaanalizy pokazują, że techniki wywiadu kognitywnego zwykle podnoszą liczb�
 
 ## 5. Dobra praktyka i częste błędy
 
-### Dobra praktyka
-
-Psycholog prowadzi rozmowę neutralnie, korzysta głównie z pytań otwartych, jawnie oznacza poziom pewności wypowiedzi badanego („pewne”, „raczej”, „niepewne”) i porównuje uzyskane dane z dokumentacją oraz obserwacją kliniczną.
-
-**Konsekwencja:** większa użyteczność danych do formułowania hipotez i mniejsze ryzyko nadinterpretacji.
-
-### Zła praktyka
-
-Diagnosta szybko przechodzi do pytań zamkniętych i sugerujących („Czy to było tak, że…?”), przerywa narrację oraz traktuje pojedynczy szczegół jako dowód rozstrzygający.
-
-**Konsekwencja:** wzrost ryzyka błędu pamięciowego, efektu potwierdzenia i fałszywej pewności diagnostycznej.
-
+| Praktyka | Opis | Konsekwencja |
+| :--- | :--- | :--- |
+| **Dobra** | Psycholog prowadzi rozmowę neutralnie, korzysta głównie z pytań otwartych, jawnie oznacza poziom pewności wypowiedzi badanego („pewne”, „raczej”, „niepewne”) i porównuje uzyskane dane z dokumentacją oraz obserwacją kliniczną. | Większa użyteczność danych do formułowania hipotez i mniejsze ryzyko nadinterpretacji. |
+| **Zła** | Diagnosta szybko przechodzi do pytań zamkniętych i sugerujących („Czy to było tak, że…?”), przerywa narrację oraz traktuje pojedynczy szczegół jako dowód rozstrzygający. | Wzrost ryzyka błędu pamięciowego, efektu potwierdzenia i fałszywej pewności diagnostycznej. |
 ---
 
 ## 6. Ograniczenia i diagnoza różnicowa

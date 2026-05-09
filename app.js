@@ -2213,7 +2213,7 @@ function scheduleNextPsychologyReminder() {
  */
 function shouldAskForReminderPermission() {
   const promptAlreadyShown = localStorage.getItem(REMINDER_PERMISSION_PROMPT_KEY) === '1';
-  if (promptAlreadyShown) return true;
+  if (promptAlreadyShown) return false;
 
   const userAcceptedPrompt = window.confirm(
     'Czy chcesz włączyć codzienne powiadomienia PsyHub?\n\n' +

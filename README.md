@@ -141,3 +141,8 @@ Dodatkowo wypisywany jest raport zbiorczy (`errors / warnings / ok`) i zwracany 
 Opcjonalnie możesz zmienić próg objętości:
 
 - `node tools/check_content.js --min-chars 800`
+
+## Standard nazewnictwa treści wiki
+
+Konwencja nazewnictwa dla `wiki/**` jest opisana w `docs/content-conventions.md`.
+

@@ -406,6 +406,58 @@ function runBibliographyHeaderCheck(siteConfig, report) {
   pushOk(report, 'bibliography-header', `Sprawdzono nagłówek bibliografii w plikach wiki: ${checkedCount}.`);
 }
 
+/* Sprawdza konwencję nazewnictwa plików i katalogów wiki (snake_case, ASCII, język polski). */
+function runWikiNamingConventionCheck(report) {
+  const wikiRoot = path.join(repoRoot, 'wiki');
+  const allowedSegmentPattern = /^[a-z0-9_]+$/;
+  const asciiPattern = /^[\x00-\x7F]+$/;
+  const forbiddenEnglishTokens = new Set([
+    'feedback', 'reacting', 'criticism', 'cognitive', 'biology', 'philosophy', 'school',
+    'individual', 'diffs', 'positive', 'psychology', 'health', 'forensic', 'child', 'family'
+  ]);
+  let checkedSegments = 0;
+
+  function walk(dirPath) {
+    const entries = fs.readdirSync(dirPath, { withFileTypes: true });
+    entries.forEach(entry => {
+      const absolutePath = path.join(dirPath, entry.name);
+      if (entry.isDirectory()) {
+        walk(absolutePath);
+      } else if (!entry.isFile() || !entry.name.endsWith('.md')) {
+        return;
+      }
+
+      const relativePath = path.relative(repoRoot, absolutePath).replace(/\\/g, '/');
+      const segments = relativePath.replace(/^wiki\//, '').replace(/\.md$/i, '').split('/');
+
+      segments.forEach(segment => {
+        checkedSegments += 1;
+
+        if (!asciiPattern.test(segment)) {
+          pushError(report, 'wiki-naming-convention', `Segment zawiera znaki spoza ASCII: "${segment}"`, { relativePath });
+        }
+        if (!allowedSegmentPattern.test(segment)) {
+          pushError(report, 'wiki-naming-convention', `Segment nie spełnia snake_case: "${segment}"`, { relativePath });
+        }
+
+        const segmentTokens = segment.split('_').filter(Boolean);
+        const englishToken = segmentTokens.find(token => forbiddenEnglishTokens.has(token));
+        if (englishToken) {
+          pushWarning(
+            report,
+            'wiki-naming-convention',
+            `Segment zawiera angielski token "${englishToken}" — zalecana polska nazwa.`,
+            { relativePath }
+          );
+        }
+      });
+    });
+  }
+
+  walk(wikiRoot);
+  pushOk(report, 'wiki-naming-convention', `Sprawdzono segmenty nazw wiki: ${checkedSegments}.`);
+}
+
 /* Wypisuje raport szczegółowy oraz podsumowanie errors/warnings/ok. */
 function printReport(report) {
   report.errors.forEach(issue => {
@@ -460,6 +512,8 @@ function main() {
     runMinimumVolumeCheck(siteConfig, report, minChars);
     runDuplicatesAndDeadEntriesCheck(siteConfig, report);
     runInternalMarkdownLinksCheck(siteConfig, report);
+    runBibliographyHeaderCheck(siteConfig, report);
+    runWikiNamingConventionCheck(report);
     runBibliographyHeaderCheck(siteConfig, report);
 
     printReport(report);

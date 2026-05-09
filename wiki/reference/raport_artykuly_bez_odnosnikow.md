@@ -678,7 +678,7 @@ Poniżej znajdują się bezpośrednie odnośniki do artykułów bez linków przy
 
 ### reacting_to_criticism
 
-- [`reacting_to_criticism/czym_jest_krytyka_i_feedback.md`](../reacting_to_criticism/czym_jest_krytyka_i_feedback.md)
+- [`reacting_to_criticism/czym_jest_krytyka_i_informacja_zwrotna.md`](../reacting_to_criticism/czym_jest_krytyka_i_informacja_zwrotna.md)
 - [`reacting_to_criticism/granice_i_asertywnosc.md`](../reacting_to_criticism/granice_i_asertywnosc.md)
 - [`reacting_to_criticism/jak_nie_brac_do_siebie_opinii_innych.md`](../reacting_to_criticism/jak_nie_brac_do_siebie_opinii_innych.md)
 - [`reacting_to_criticism/mentalizacja_i_intencje_nadawcy.md`](../reacting_to_criticism/mentalizacja_i_intencje_nadawcy.md)
@@ -855,7 +855,7 @@ Poniżej znajdują się bezpośrednie odnośniki do artykułów bez linków przy
 - [`temperament/kliniczne.md`](../temperament/kliniczne.md)
 - [`temperament/modele.md`](../temperament/modele.md)
 - [`temperament/pomiar.md`](../temperament/pomiar.md)
-- [`temperament/razvoj.md`](../temperament/razvoj.md)
+- [`temperament/rozwoj.md`](../temperament/rozwoj.md)
 - [`temperament/strelau.md`](../temperament/strelau.md)
 - [`temperament/temperament_a_kariera.md`](../temperament/temperament_a_kariera.md)
 - [`temperament/temperament_a_psychopat.md`](../temperament/temperament_a_psychopat.md)

@@ -2135,7 +2135,7 @@ function setupSpeechControls() {
     if (!text) return;
 
     const utterance = new SpeechSynthesisUtterance(text);
-    utterance.lang = 'pl-PL';
+    utterance.lang = document.documentElement.lang || 'pl-PL';
     utterance.rate = 1;
     utterance.pitch = 1;
 

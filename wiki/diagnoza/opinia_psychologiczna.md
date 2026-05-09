@@ -10,7 +10,7 @@ evidenceCutoffDate: 2025-12-31
 
 Opinia psychologiczna to dokument o wysokiej wadze decyzyjnej: wpływa na terapię, edukację, orzecznictwo i planowanie wsparcia. W praktyce najlepsze opinie łączą trzy elementy: **rzetelność metodologiczną**, **jasność komunikacji** i **odpowiedzialność etyczną** [1,2].
 
-Ciekawostka praktyczna: zespoły interdyscyplinarne najwyżej oceniają opinie, które zawierają zalecenia operacyjne (kto, co, kiedy, jak mierzyć efekt), a najniżej te, które kończą się ogólnikiem „zaleca się terapię” [2,3].
+Zespoły interdyscyplinarne najwyżej oceniają opinie, które zawierają zalecenia operacyjne (kto, co, kiedy, jak mierzyć efekt), a najniżej te, które kończą się ogólnikiem „zaleca się terapię” [2,3].
 
 ---
 

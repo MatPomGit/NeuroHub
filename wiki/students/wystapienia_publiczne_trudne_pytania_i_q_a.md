@@ -6,18 +6,18 @@ evidenceCutoffDate: 2026-05-01
 
 # Wystąpienia publiczne: jak odpowiadać na trudne pytania bez utraty wiarygodności
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 
 Dla psychologa część Q&A często decyduje o ocenie całego wystąpienia. Odbiorcy sprawdzają nie tylko wiedzę merytoryczną, ale też jakość myślenia pod presją, kulturę dyskusji i etykę argumentacji.
 
-## Definicje kluczowych pojęć
+## Definicje
 
 - **Q&A (questions and answers)** — segment pytań i odpowiedzi po prezentacji.
 - **Kalibracja pewności** — dopasowanie siły twierdzenia do jakości dowodów.
 - **Parafraza kontrolna** — krótkie powtórzenie pytania własnymi słowami w celu upewnienia się, że zostało poprawnie zrozumiane.
 - **Defensywność komunikacyjna** — styl odpowiedzi, który chroni ego mówcy kosztem jakości dialogu.
 
-## Część analityczna
+## Analiza
 
 ### 1. Dlaczego ludzie „blokują się” w Q&A
 

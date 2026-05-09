@@ -1045,7 +1045,7 @@ function setupArticleToc(area, pageId) {
   const isMobileViewport = window.matchMedia(`(max-width: ${MOBILE_BREAKPOINT}px)`).matches;
   /* Na urządzeniach mobilnych umieszczamy TOC w rozwijanym panelu, aby był widoczny i nie zajmował stale miejsca. */
   tocHost.innerHTML = isMobileViewport
-    ? `<details class="article-toc-mobile" open>
+    ? `<details class="article-toc-mobile">
         <summary class="article-toc-mobile-summary">Spis treści</summary>
         <ul class="article-toc-list">${tocItems}</ul>
       </details>`

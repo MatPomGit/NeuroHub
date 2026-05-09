@@ -459,6 +459,20 @@ em{color:var(--goldl)}
 .article-toc-link{display:block;padding:.22rem .35rem;border-radius:6px;color:var(--t2);text-decoration:none;font-size:.82rem;line-height:1.45}
 .article-toc-link:hover{color:var(--t1);background:var(--bg3)}
 .article-toc-link.is-active{background:var(--goldt);color:var(--goldl);font-weight:600}
+
+.article-toc-mobile{display:grid;gap:.55rem}
+.article-toc-mobile-summary{
+  cursor:pointer;
+  font-size:.78rem;
+  letter-spacing:.08em;
+  text-transform:uppercase;
+  color:var(--t3);
+  font-weight:700;
+  list-style:none;
+}
+.article-toc-mobile-summary::-webkit-details-marker{display:none}
+.article-toc-mobile-summary::after{content:'▾';float:right;opacity:.75}
+.article-toc-mobile[open] .article-toc-mobile-summary::after{content:'▴'}
 .article-hero-actions{display:flex;justify-content:flex-end;margin:.45rem 0 .2rem}
 .btn-copy-link{
   border:1px solid var(--border);
@@ -914,6 +928,8 @@ em{color:var(--goldl)}
   .prog-bar{left:0}
   .btn-menu{display:flex;align-items:center}
   .content{padding:1.6rem 1.2rem 3.5rem}
+  .article-layout{gap:1rem}
+  .article-toc{position:relative;top:auto;padding:.65rem .72rem}
   .home-hero h1{font-size:2.1rem}
   .page-hero h1{font-size:2rem}
 

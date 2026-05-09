@@ -1042,10 +1042,17 @@ function setupArticleToc(area, pageId) {
     </li>`;
   }).join('');
 
-  tocHost.innerHTML = `
-    <h2 class="article-toc-title">Spis treści</h2>
-    <ul class="article-toc-list">${tocItems}</ul>
-  `;
+  const isMobileViewport = window.matchMedia(`(max-width: ${MOBILE_BREAKPOINT}px)`).matches;
+  /* Na urządzeniach mobilnych umieszczamy TOC w rozwijanym panelu, aby był widoczny i nie zajmował stale miejsca. */
+  tocHost.innerHTML = isMobileViewport
+    ? `<details class="article-toc-mobile">
+        <summary class="article-toc-mobile-summary">Spis treści</summary>
+        <ul class="article-toc-list">${tocItems}</ul>
+      </details>`
+    : `
+        <h2 class="article-toc-title">Spis treści</h2>
+        <ul class="article-toc-list">${tocItems}</ul>
+      `;
 
   tocHost.addEventListener('click', event => {
     const link = event.target.closest('.article-toc-link');
@@ -1058,16 +1065,20 @@ function setupArticleToc(area, pageId) {
 
   articleTocHeadings = headings;
   articleTocCurrentPageId = pageId;
-  articleTocObserver = new IntersectionObserver(entries => {
-    const visible = entries
-      .filter(entry => entry.isIntersecting)
-      .sort((a, b) => a.boundingClientRect.top - b.boundingClientRect.top);
-    if (!visible.length) return;
-    const activeHeading = visible[0].target;
-    setActiveTocItem(activeHeading.id);
-  }, { rootMargin: '-10% 0px -70% 0px', threshold: [0, 1] });
 
-  headings.forEach(heading => articleTocObserver.observe(heading));
+  /* Na mobile pomijamy IntersectionObserver, aby zmniejszyć koszt renderowania na długich artykułach. */
+  if (!isMobileViewport) {
+    articleTocObserver = new IntersectionObserver(entries => {
+      const visible = entries
+        .filter(entry => entry.isIntersecting)
+        .sort((a, b) => a.boundingClientRect.top - b.boundingClientRect.top);
+      if (!visible.length) return;
+      const activeHeading = visible[0].target;
+      setActiveTocItem(activeHeading.id);
+    }, { rootMargin: '-10% 0px -70% 0px', threshold: [0, 1] });
+
+    headings.forEach(heading => articleTocObserver.observe(heading));
+  }
 
   const { sectionId } = parseRouteHash(window.location.hash);
   if (sectionId) {

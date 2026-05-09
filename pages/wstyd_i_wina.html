@@ -1,0 +1,902 @@
+<!doctype html>
+<html lang="pl" data-theme="borowka">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Emocje wstydu i winy w różnych kulturach</title>
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5/dist/reveal.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5/dist/theme/black.css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="icon" href="https://www.vizja.pl/favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="https://www.vizja.pl/favicon.ico" type="image/x-icon">
+  <link rel="apple-touch-icon" sizes="180x180" href="https://www.vizja.pl/apple-touch-icon.png">
+
+  <style>
+    :root {
+      --bg-main: #0f172a;
+      --bg-secondary: #111827;
+      --accent: #38bdf8;
+      --accent-2: #a855f7;
+      --text: #f8fafc;
+      --muted: #cbd5e1;
+      --danger: #fb7185;
+      --success: #34d399;
+      --warning: #fbbf24;
+    }
+
+    body {
+      font-family: "Inter", "Segoe UI", sans-serif;
+      transition: background 0.5s;
+    }
+
+    .reveal {
+      color: var(--text);
+      font-size: 30px;
+    }
+
+    .reveal h1,
+    .reveal h2,
+    .reveal h3 {
+      text-transform: none;
+      color: white;
+      letter-spacing: -0.03em;
+    }
+
+    .reveal h1 {
+      font-size: 2.3em;
+      line-height: 1.1;
+    }
+
+    .reveal h2 {
+      font-size: 1.6em;
+      color: var(--accent);
+      margin-bottom: 30px;
+    }
+
+    .reveal h3 {
+      color: var(--accent-2);
+      font-size: 1em;
+    }
+
+    .subtitle {
+      color: var(--muted);
+      font-size: 0.9em;
+      margin-top: 20px;
+    }
+
+    .authors {
+      margin-top: 35px;
+      font-size: 0.65em;
+      color: #dbeafe;
+      line-height: 1.7;
+    }
+
+    .footer {
+      position: absolute;
+      bottom: 15px;
+      left: 30px;
+      font-size: 0.42em;
+      color: #94a3b8;
+    }
+
+    .grid-2 {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 28px;
+      align-items: start;
+    }
+
+    .card {
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.08);
+      border-radius: 20px;
+      padding: 22px;
+      backdrop-filter: blur(8px);
+      box-shadow: 0 10px 30px rgba(0,0,0,0.35);
+      transition: translate 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
+    }
+
+    .card:hover {
+      translate: 0 -5px;
+      box-shadow: 0 20px 45px rgba(0,0,0,0.5);
+      border-color: rgba(255,255,255,0.2);
+    }
+
+    .highlight {
+      color: var(--accent);
+      font-weight: 700;
+    }
+
+    ul li,
+    ol li {
+      margin-bottom: 12px;
+    }
+
+    .metric-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 18px;
+      margin-top: 25px;
+    }
+
+    .metric {
+      background: linear-gradient(135deg, rgba(56,189,248,0.18), rgba(168,85,247,0.15));
+      border-radius: 18px;
+      padding: 18px;
+      text-align: center;
+      transition: scale 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .metric:hover {
+      scale: 1.07;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.4);
+    }
+
+    .metric .value {
+      font-size: 1.5em;
+      font-weight: 800;
+      color: white;
+    }
+
+    .metric .label {
+      font-size: 0.55em;
+      color: var(--muted);
+      margin-top: 10px;
+    }
+
+    .timeline {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 18px;
+      margin-top: 35px;
+    }
+
+    .timeline .step {
+      background: rgba(255,255,255,0.05);
+      border-left: 5px solid var(--accent);
+      border-radius: 16px;
+      padding: 18px;
+      text-align: left;
+    }
+
+    .timeline .year {
+      color: var(--warning);
+      font-weight: 700;
+      margin-bottom: 10px;
+    }
+
+    .big-quote {
+      font-size: 1.15em;
+      line-height: 1.5;
+      color: #e2e8f0;
+      margin-top: 40px;
+    }
+
+    .warning {
+      color: var(--warning);
+      margin-top: 25px;
+      font-weight: 700;
+    }
+
+    .timer {
+      position: fixed;
+      top: 14px;
+      right: 18px;
+      z-index: 9999;
+      background: rgba(15, 23, 42, 0.85);
+      color: white;
+      border: 1px solid rgba(255,255,255,0.15);
+      border-radius: 14px;
+      padding: 10px 16px;
+      font-size: 20px;
+      font-weight: 600;
+      backdrop-filter: blur(8px);
+      box-shadow: 0 10px 20px rgba(0,0,0,0.35);
+    }
+
+    .pill {
+      display: inline-block;
+      background: rgba(56,189,248,0.18);
+      border: 1px solid rgba(56,189,248,0.4);
+      padding: 8px 14px;
+      border-radius: 999px;
+      margin: 6px;
+      font-size: 0.55em;
+      transition: translate 0.2s ease, scale 0.2s ease, background 0.2s ease;
+    }
+
+    .pill:hover {
+      translate: 0 -3px;
+      scale: 1.1;
+      background: rgba(56,189,248,0.32);
+    }
+
+    .small {
+      font-size: 0.72em;
+      color: var(--muted);
+    }
+
+    .center {
+      text-align: center;
+    }
+
+    /* ── MOTYWY KOLORYSTYCZNE ────────────────────────────── */
+
+    /* Borówka (domyślny) */
+    [data-theme="borowka"] {
+      --bg-main:      #0f172a;
+      --bg-secondary: #111827;
+      --accent:       #38bdf8;
+      --accent-2:     #a855f7;
+      --text:         #f8fafc;
+      --muted:        #cbd5e1;
+      --danger:       #fb7185;
+      --success:      #34d399;
+      --warning:      #fbbf24;
+    }
+    [data-theme="borowka"] body {
+      background: radial-gradient(circle at top, #1e293b 0%, #020617 70%);
+    }
+
+    /* Matcha */
+    [data-theme="matcha"] {
+      --bg-main:      #071a0e;
+      --bg-secondary: #0d2115;
+      --accent:       #34d399;
+      --accent-2:     #86efac;
+      --text:         #f0fdf4;
+      --muted:        #bbf7d0;
+      --danger:       #fb7185;
+      --success:      #6ee7b7;
+      --warning:      #fde68a;
+    }
+    [data-theme="matcha"] body {
+      background: radial-gradient(circle at top, #0d3320 0%, #020d05 70%);
+    }
+    [data-theme="matcha"] .reveal h2 { color: var(--accent); }
+    [data-theme="matcha"] .reveal h3 { color: var(--accent-2); }
+    [data-theme="matcha"] .metric {
+      background: linear-gradient(135deg, rgba(52,211,153,0.18), rgba(134,239,172,0.15));
+    }
+    [data-theme="matcha"] .timeline .step { border-left-color: var(--accent); }
+
+    /* Mango */
+    [data-theme="mango"] {
+      --bg-main:      #1a0800;
+      --bg-secondary: #1f0d00;
+      --accent:       #fb923c;
+      --accent-2:     #f472b6;
+      --text:         #fff7ed;
+      --muted:        #fed7aa;
+      --danger:       #ef4444;
+      --success:      #34d399;
+      --warning:      #fbbf24;
+    }
+    [data-theme="mango"] body {
+      background: radial-gradient(circle at top, #3d1200 0%, #0c0200 70%);
+    }
+    [data-theme="mango"] .reveal h2 { color: var(--accent); }
+    [data-theme="mango"] .reveal h3 { color: var(--accent-2); }
+    [data-theme="mango"] .metric {
+      background: linear-gradient(135deg, rgba(251,146,60,0.18), rgba(244,114,182,0.15));
+    }
+    [data-theme="mango"] .timeline .step { border-left-color: var(--accent); }
+
+    /* Śliwka */
+    [data-theme="sliwka"] {
+      --bg-main:      #0e0018;
+      --bg-secondary: #140020;
+      --accent:       #c084fc;
+      --accent-2:     #fbbf24;
+      --text:         #faf5ff;
+      --muted:        #e9d5ff;
+      --danger:       #fb7185;
+      --success:      #34d399;
+      --warning:      #fcd34d;
+    }
+    [data-theme="sliwka"] body {
+      background: radial-gradient(circle at top, #2a003d 0%, #050008 70%);
+    }
+    [data-theme="sliwka"] .reveal h2 { color: var(--accent); }
+    [data-theme="sliwka"] .reveal h3 { color: var(--accent-2); }
+    [data-theme="sliwka"] .metric {
+      background: linear-gradient(135deg, rgba(192,132,252,0.18), rgba(251,191,36,0.15));
+    }
+    [data-theme="sliwka"] .timeline .step { border-left-color: var(--accent); }
+
+    /* Kokos */
+    [data-theme="kokos"] {
+      --bg-main:      #030f1a;
+      --bg-secondary: #05182a;
+      --accent:       #67e8f9;
+      --accent-2:     #e0f2fe;
+      --text:         #f0f9ff;
+      --muted:        #bae6fd;
+      --danger:       #fb7185;
+      --success:      #34d399;
+      --warning:      #fbbf24;
+    }
+    [data-theme="kokos"] body {
+      background: radial-gradient(circle at top, #0c2a40 0%, #00080f 70%);
+    }
+    [data-theme="kokos"] .reveal h2 { color: var(--accent); }
+    [data-theme="kokos"] .reveal h3 { color: var(--accent-2); }
+    [data-theme="kokos"] .metric {
+      background: linear-gradient(135deg, rgba(103,232,249,0.18), rgba(224,242,254,0.15));
+    }
+    [data-theme="kokos"] .timeline .step { border-left-color: var(--accent); }
+
+    /* ── PRZEŁĄCZNIK MOTYWÓW ─────────────────────────────── */
+    .theme-switcher {
+      position: fixed;
+      top: 14px;
+      left: 18px;
+      z-index: 9999;
+      display: flex;
+      gap: 8px;
+      align-items: center;
+      background: rgba(15, 23, 42, 0.75);
+      border: 1px solid rgba(255,255,255,0.12);
+      border-radius: 14px;
+      padding: 8px 12px;
+      backdrop-filter: blur(8px);
+    }
+
+    .theme-btn {
+      width: 20px;
+      height: 20px;
+      border-radius: 50%;
+      border: 2px solid rgba(255,255,255,0.3);
+      cursor: pointer;
+      transition: transform 0.2s, border-color 0.2s;
+      flex-shrink: 0;
+    }
+
+    .theme-btn:hover { transform: scale(1.25); border-color: rgba(255,255,255,0.7); }
+    .theme-btn.active { transform: scale(1.25); border-color: white; }
+
+    .theme-btn[data-t="borowka"] { background: linear-gradient(135deg, #38bdf8, #a855f7); }
+    .theme-btn[data-t="matcha"]  { background: linear-gradient(135deg, #34d399, #86efac); }
+    .theme-btn[data-t="mango"]   { background: linear-gradient(135deg, #fb923c, #f472b6); }
+    .theme-btn[data-t="sliwka"]  { background: linear-gradient(135deg, #c084fc, #fbbf24); }
+    .theme-btn[data-t="kokos"]   { background: linear-gradient(135deg, #67e8f9, #e0f2fe); }
+
+    /* ── ANIMACJE WEJŚCIA ────────────────────────────────── */
+
+    @keyframes slideUp {
+      from { opacity: 0; transform: translateY(36px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    @keyframes slideLeft {
+      from { opacity: 0; transform: translateX(-36px); }
+      to   { opacity: 1; transform: translateX(0); }
+    }
+
+    @keyframes popIn {
+      0%   { opacity: 0; transform: scale(0.72); }
+      75%  { transform: scale(1.07); }
+      100% { opacity: 1; transform: scale(1); }
+    }
+
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(20px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    /* h1 / h2 */
+    .reveal .slides section.present h1    { animation: fadeUp  0.7s ease         both; }
+    .reveal .slides section.present h2    { animation: slideUp 0.45s ease        both; }
+
+    /* Karty w gridzie – z opóźnieniem kaskadowym */
+    .reveal .slides section.present .grid-2 .card:nth-child(1) { animation: slideUp 0.5s ease 0.05s both; }
+    .reveal .slides section.present .grid-2 .card:nth-child(2) { animation: slideUp 0.5s ease 0.18s both; }
+    .reveal .slides section.present .grid-2 .card:nth-child(3) { animation: slideUp 0.5s ease 0.31s both; }
+    .reveal .slides section.present .grid-2 .card:nth-child(4) { animation: slideUp 0.5s ease 0.44s both; }
+
+    /* Pojedyncze karty (bezpośrednie dzieci section) */
+    .reveal .slides section.present > .card { animation: slideUp 0.5s ease 0.1s both; }
+
+    /* Kroki osi czasu */
+    .reveal .slides section.present .timeline .step:nth-child(1) { animation: slideLeft 0.5s ease 0.1s  both; }
+    .reveal .slides section.present .timeline .step:nth-child(2) { animation: slideLeft 0.5s ease 0.25s both; }
+    .reveal .slides section.present .timeline .step:nth-child(3) { animation: slideLeft 0.5s ease 0.4s  both; }
+    .reveal .slides section.present .timeline .step:nth-child(4) { animation: slideLeft 0.5s ease 0.55s both; }
+
+    /* Metryki */
+    .reveal .slides section.present .metric:nth-child(1) { animation: popIn 0.55s cubic-bezier(.34,1.56,.64,1) 0.15s both; }
+    .reveal .slides section.present .metric:nth-child(2) { animation: popIn 0.55s cubic-bezier(.34,1.56,.64,1) 0.3s  both; }
+    .reveal .slides section.present .metric:nth-child(3) { animation: popIn 0.55s cubic-bezier(.34,1.56,.64,1) 0.45s both; }
+    .reveal .slides section.present .metric:nth-child(4) { animation: popIn 0.55s cubic-bezier(.34,1.56,.64,1) 0.6s  both; }
+
+    /* Pigułki */
+    .reveal .slides section.present .pill:nth-child(1) { animation: popIn 0.4s cubic-bezier(.34,1.56,.64,1) 0.1s both; }
+    .reveal .slides section.present .pill:nth-child(2) { animation: popIn 0.4s cubic-bezier(.34,1.56,.64,1) 0.2s both; }
+    .reveal .slides section.present .pill:nth-child(3) { animation: popIn 0.4s cubic-bezier(.34,1.56,.64,1) 0.3s both; }
+    .reveal .slides section.present .pill:nth-child(4) { animation: popIn 0.4s cubic-bezier(.34,1.56,.64,1) 0.4s both; }
+    .reveal .slides section.present .pill:nth-child(5) { animation: popIn 0.4s cubic-bezier(.34,1.56,.64,1) 0.5s both; }
+
+    /* Pozostałe elementy */
+    .reveal .slides section.present .big-quote { animation: fadeUp  0.7s ease 0.2s both; }
+    .reveal .slides section.present .warning   { animation: slideUp 0.5s ease 0.5s both; }
+    .reveal .slides section.present .authors   { animation: fadeUp  0.7s ease 0.4s both; }
+    .reveal .slides section.present .subtitle  { animation: fadeUp  0.6s ease 0.2s both; }
+  </style>
+</head>
+<body>
+
+<div class="theme-switcher" id="themeSwitcher">
+  <button class="theme-btn active" data-t="borowka" title="Borówka"></button>
+  <button class="theme-btn"        data-t="matcha"  title="Matcha"></button>
+  <button class="theme-btn"        data-t="mango"   title="Mango"></button>
+  <button class="theme-btn"        data-t="sliwka"  title="Śliwka"></button>
+  <button class="theme-btn"        data-t="kokos"   title="Kokos"></button>
+</div>
+
+<div class="timer" id="timer">20:00</div>
+
+<div class="reveal">
+  <div class="slides">
+
+    <section>
+      <h1>Emocje wstydu i winy<br>w różnych kulturach</h1>
+      <div class="subtitle">Metaanaliza problematyki badawczej</div>
+
+      <div class="authors">
+        Anna Perkuta · Ewelina Borzewska · Izabela Rybka · Julia Bladowska<br>
+        Kamila Naruszewicz · Kamila Rauer · Krzysztof Lindorf · Lucyna Pelc<br>
+        Małgorzata Różańska · Mateusz Pomianek
+      </div>
+
+      <div class="subtitle">
+        Uniwersytet Vizja, Warszawa · 14 czerwca 2026
+      </div>
+
+      <div class="footer">wersja 1.2 „maniakalny kartofel”</div>
+    </section>
+
+    <section>
+      <h2>Plan prezentacji</h2>
+      <div class="card">
+        <ol>
+          <li>Wprowadzenie i cele przeglądu</li>
+          <li>Podstawy teoretyczne</li>
+          <li>Metodologie i wyzwania</li>
+          <li>Kluczowe odkrycia empiryczne</li>
+          <li>Perspektywy teoretyczne</li>
+          <li>Konwergencje i rozbieżności</li>
+          <li>Ograniczenia i kierunki dalszych badań</li>
+          <li>Wnioski i implikacje praktyczne</li>
+        </ol>
+      </div>
+    </section>
+
+    <section>
+      <h2>Wprowadzenie i cele przeglądu</h2>
+      <div class="grid-2">
+        <div class="card">
+          <h3>Dlaczego wstyd i wina?</h3>
+          <ul>
+            <li>Fundamentalne emocje samoświadomościowe</li>
+            <li>Regulacja zachowań społecznych</li>
+            <li>Silna zmienność międzykulturowa</li>
+            <li>Znaczenie dla psychoterapii i edukacji</li>
+          </ul>
+        </div>
+
+        <div class="card">
+          <h3>Cele przeglądu</h3>
+          <ul>
+            <li>Perspektywa antropologiczna</li>
+            <li>Synteza teorii psychologii kulturowej</li>
+            <li>Przegląd 30 publikacji</li>
+            <li>Identyfikacja luk badawczych</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Klasyczne rozróżnienia</h2>
+
+      <div class="grid-2">
+        <div class="card">
+          <h3>Kultury wstydu</h3>
+          <ul>
+            <li>Zewnętrzna orientacja moralna</li>
+            <li>Publiczne potępienie jako regulator</li>
+            <li>Centralność utraty twarzy</li>
+            <li>Archetyp: Japonia</li>
+          </ul>
+        </div>
+
+        <div class="card">
+          <h3>Kultury winy</h3>
+          <ul>
+            <li>Wewnętrzna orientacja moralna</li>
+            <li>Znaczenie sumienia</li>
+            <li>Indywidualna odpowiedzialność</li>
+            <li>Archetyp: Zachód</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="warning">
+        Współczesne badania zakwestionowały prosty podział kultur wstydu i winy.
+      </div>
+    </section>
+
+    <section>
+      <h2>Ewolucja perspektyw teoretycznych</h2>
+
+      <div class="timeline">
+        <div class="step">
+          <div class="year">Lata 40.–70.</div>
+          <strong>Esencjalizm</strong><br>
+          Prosty podział Benedict.
+        </div>
+
+        <div class="step">
+          <div class="year">Lata 80.–90.</div>
+          <strong>Korekty empiryczne</strong><br>
+          Badania wielowymiarowe.
+        </div>
+
+        <div class="step">
+          <div class="year">2000–2010</div>
+          <strong>Kontekstualizm</strong><br>
+          Ocena poznawcza i ewolucja.
+        </div>
+
+        <div class="step">
+          <div class="year">2010–dziś</div>
+          <strong>Modele zintegrowane</strong><br>
+          Podejścia ekosocjalne.
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Metodologie badawcze</h2>
+
+      <div class="grid-2">
+        <div class="card">
+          <h3>Kwestionariusze i scenariusze</h3>
+          <p class="small">Systematyczne porównania między kulturami.</p>
+        </div>
+
+        <div class="card">
+          <h3>Wywiady etnograficzne</h3>
+          <p class="small">Wgląd w znaczenia kulturowe emocji.</p>
+        </div>
+
+        <div class="card">
+          <h3>MMFA</h3>
+          <p class="small">Niezmienność pomiarowa i analiza czynnikowa.</p>
+        </div>
+
+        <div class="card">
+          <h3>Badania narracyjne</h3>
+          <p class="small">Lokalne systemy znaczeń emocji.</p>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Wyzwania metodologiczne</h2>
+
+      <div class="card">
+        <ol>
+          <li><span class="highlight">Ekwiwalencja semantyczna</span> – czy pojęcia emocji są porównywalne?</li>
+          <li><span class="highlight">Próbkowanie kulturowe</span> – dominacja badań USA–Azja Wschodnia.</li>
+          <li><span class="highlight">Badania przekrojowe</span> – brak perspektywy longitudinalnej.</li>
+          <li><span class="highlight">Fragmentacja analiz</span> – słaba integracja neurobiologii i kultury.</li>
+        </ol>
+      </div>
+    </section>
+
+    <section>
+      <h2>Indywidualizm vs kolektywizm</h2>
+
+      <div class="big-quote">
+        Kultury kolektywistyczne wykazują wyższy poziom wstydu, natomiast relacja kolektywizm–wina pozostaje bardziej złożona.
+      </div>
+
+      <div class="metric-grid">
+        <div class="metric">
+          <div class="value">85%</div>
+          <div class="label">Wstyd<br>kolektywizm</div>
+        </div>
+
+        <div class="metric">
+          <div class="value">45%</div>
+          <div class="label">Wstyd<br>indywidualizm</div>
+        </div>
+
+        <div class="metric">
+          <div class="value">60%</div>
+          <div class="label">Wina<br>kolektywizm</div>
+        </div>
+
+        <div class="metric">
+          <div class="value">65%</div>
+          <div class="label">Wina<br>indywidualizm</div>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Różnice międzykulturowe</h2>
+
+      <div class="grid-2">
+        <div class="card">
+          <h3>Chiny vs Kanada</h3>
+          <p>Silniejszy i trwalszy wstyd w Chinach. W Kanadzie silniejsze motywacje naprawcze związane z winą.</p>
+        </div>
+
+        <div class="card">
+          <h3>Turcja vs Niemcy</h3>
+          <p>W Turcji wstyd wzmacnia perspektywę społeczną, w Niemczech większą rolę odgrywa wina.</p>
+        </div>
+
+        <div class="card">
+          <h3>Włochy vs USA</h3>
+          <p>Większe nakładanie się wstydu i zakłopotania we Włoszech.</p>
+        </div>
+
+        <div class="card center">
+          <div style="font-size:4em">🌍</div>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Konteksty wywołujące emocje</h2>
+
+      <div class="grid-2">
+        <div class="card">
+          <h3>Wzorce uniwersalne</h3>
+          <ul>
+            <li>Wstyd przy publicznych niepowodzeniach</li>
+            <li>Wina przy naruszeniu norm moralnych</li>
+            <li>Wspólne zachowania naprawcze</li>
+          </ul>
+        </div>
+
+        <div class="card">
+          <h3>Różnice kulturowe</h3>
+          <ul>
+            <li>Wstyd prywatny w kulturze chińskiej</li>
+            <li>Silniejszy wpływ religijności w ZEA</li>
+            <li>Wpływ globalizacji i akulturacji</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Semantyka i konceptualizacja</h2>
+
+      <div class="card">
+        <p>
+          Terminy emocjonalne nie są prostymi translacjami. Reprezentują odmienne konceptualizacje moralności, relacji społecznych i self.
+        </p>
+
+        <div style="margin-top:30px">
+          <span class="pill">xiū</span>
+          <span class="pill">羞耻</span>
+          <span class="pill">wstyd</span>
+          <span class="pill">guilt</span>
+          <span class="pill">Rarámuri</span>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>4 perspektywy teoretyczne</h2>
+
+      <div class="grid-2">
+        <div class="card">
+          <h3>T1 · Teoria oceny poznawczej</h3>
+          <p>Ocena sytuacji i zgodności z normami.</p>
+        </div>
+
+        <div class="card">
+          <h3>T2 · Podejście społeczno-funkcjonalne</h3>
+          <p>Emocje jako regulatory zachowań społecznych.</p>
+        </div>
+
+        <div class="card">
+          <h3>T3 · Perspektywa ewolucyjna</h3>
+          <p>Wstyd jako mechanizm adaptacyjny.</p>
+        </div>
+
+        <div class="card">
+          <h3>T4 · Konstruktywizm</h3>
+          <p>Emocje jako produkty praktyk i języka.</p>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Konwergencje i rozbieżności</h2>
+
+      <div class="grid-2">
+        <div class="card">
+          <h3>Konwergencje</h3>
+          <ul>
+            <li>Wyższy wstyd w kulturach kolektywistycznych</li>
+            <li>Uniwersalne funkcje ewolucyjne</li>
+            <li>Powtarzalne wzorce sytuacyjne</li>
+          </ul>
+        </div>
+
+        <div class="card">
+          <h3>Rozbieżności</h3>
+          <ul>
+            <li>Niespójna relacja kolektywizm–wina</li>
+            <li>Spór o uniwersalność emocji</li>
+            <li>Różnice w relacji wstyd–wina</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Przyszłe kierunki badań</h2>
+
+      <div class="timeline">
+        <div class="step">
+          <strong>Rozszerzenie kulturowe</strong>
+        </div>
+
+        <div class="step">
+          <strong>Nowe metodologie</strong>
+        </div>
+
+        <div class="step">
+          <strong>Badania podłużne</strong>
+        </div>
+
+        <div class="step">
+          <strong>Integracja poziomów</strong>
+        </div>
+      </div>
+
+      <div class="center" style="margin-top:35px">
+        <span class="pill">Neuroobrazowanie</span>
+        <span class="pill">MMFA</span>
+        <span class="pill">Akulturacja</span>
+        <span class="pill">Psychoterapia</span>
+        <span class="pill">Intersekcjonalność</span>
+      </div>
+    </section>
+
+    <section>
+      <h2>Wnioski</h2>
+
+      <div class="card">
+        <ul>
+          <li>Kultury kolektywistyczne wykazują wyższy poziom wstydu.</li>
+          <li>Relacja z winą jest wielowymiarowa i zależna od kontekstu.</li>
+          <li>Emocje są osadzone w języku i kulturze.</li>
+          <li>Najbardziej obiecujące są modele integrujące neurobiologię, psychologię i kulturę.</li>
+        </ul>
+      </div>
+    </section>
+
+    <section>
+      <h1>Dziękujemy za uwagę</h1>
+      <div class="subtitle">Pytania i dyskusja</div>
+
+      <div class="authors">
+        Anna Perkuta · Ewelina Borzewska · Izabela Rybka · Julia Bladowska · Kamila Naruszewicz<br>
+        Kamila Rauer · Krzysztof Lindorf · Lucyna Pelc · Małgorzata Różańska · Mateusz Pomianek
+      </div>
+    </section>
+
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/reveal.js@5/dist/reveal.js"></script>
+
+<script>
+  Reveal.initialize({
+    hash: true,
+    slideNumber: true,
+    transition: 'slide',
+    backgroundTransition: 'fade'
+  });
+
+  // ── Timer (startuje dopiero od 2. slajdu) ────────────────
+  let totalSeconds = 20 * 60;
+  let timerRunning = false;
+  const timer = document.getElementById('timer');
+
+  function renderTimer() {
+    const m = Math.floor(totalSeconds / 60);
+    const s = totalSeconds % 60;
+    timer.textContent = String(m).padStart(2, '0') + ':' + String(s).padStart(2, '0');
+  }
+
+  function tickTimer() {
+    if (totalSeconds > 0) {
+      totalSeconds--;
+    } else {
+      timer.style.background = 'rgba(127,29,29,0.95)';
+      timer.style.color = '#fecaca';
+    }
+    renderTimer();
+  }
+
+  renderTimer(); // pokaż 20:00 bez odliczania
+
+  // ── Ponowne odtworzenie animacji CSS ─────────────────────
+  function replayAnimations(slide) {
+    const els = slide.querySelectorAll(
+      'h1, h2, .card, .timeline .step, .metric, .pill, .big-quote, .warning, .authors, .subtitle'
+    );
+    els.forEach(el => {
+      el.style.animation = 'none';
+      void el.offsetHeight; // wymuś reflow
+      el.style.animation = '';
+    });
+  }
+
+  // ── Animacja liczników (count-up) ────────────────────────
+  function animateCounters(slide) {
+    slide.querySelectorAll('.metric .value').forEach(el => {
+      const raw    = el.textContent.trim();
+      const target = parseInt(raw);
+      if (isNaN(target)) return;
+      const suffix = raw.replace(/[0-9]/g, '');
+      let cur = 0;
+      el.textContent = '0' + suffix;
+      const step = Math.max(1, Math.ceil(target / 35));
+      const id = setInterval(() => {
+        cur = Math.min(cur + step, target);
+        el.textContent = cur + suffix;
+        if (cur >= target) clearInterval(id);
+      }, 35);
+    });
+  }
+
+  // ── Obsługa zmiany slajdu ────────────────────────────────
+  Reveal.on('slidechanged', event => {
+    // Uruchom timer dopiero od 2. slajdu
+    if (!timerRunning && event.indexh >= 1) {
+      timerRunning = true;
+      setInterval(tickTimer, 1000);
+    }
+    replayAnimations(event.currentSlide);
+    animateCounters(event.currentSlide);
+  });
+
+  // Animacje na pierwszym slajdzie
+  Reveal.on('ready', () => {
+    replayAnimations(Reveal.getCurrentSlide());
+  });
+
+  // ── Przełącznik motywów ──────────────────────────────────
+  const htmlEl    = document.documentElement;
+  const themeBtns = document.querySelectorAll('.theme-btn');
+
+  themeBtns.forEach(btn => {
+    btn.addEventListener('click', () => {
+      const theme = btn.dataset.t;
+      htmlEl.setAttribute('data-theme', theme);
+      themeBtns.forEach(b => b.classList.toggle('active', b === btn));
+      localStorage.setItem('wstyd-theme', theme);
+    });
+  });
+
+  const savedTheme = localStorage.getItem('wstyd-theme');
+  if (savedTheme) {
+    htmlEl.setAttribute('data-theme', savedTheme);
+    themeBtns.forEach(b => b.classList.toggle('active', b.dataset.t === savedTheme));
+  }
+</script>
+
+</body>
+</html>

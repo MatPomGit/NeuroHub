@@ -377,7 +377,7 @@ function runBibliographyHeaderCheck(siteConfig, report) {
   const collected = collectObjects(siteConfig);
   const { idToFile } = buildFileIdIndexes(collected);
   const candidateFiles = new Set();
-  const requiredHeaderRegex = /^##\s+Bibliografia\s*$/mi;
+  const requiredHeaderRegex = /^##\s+Bibliografia\s*$/m;
 
   collected.forEach(({ value }) => {
     const resolved = resolveEntryFile(value, idToFile);

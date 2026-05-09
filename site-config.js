@@ -668,6 +668,7 @@ window.SITE_CONFIG = {
       items: [
         { id: 'diagnoza/etapy_diagnozy', label: 'Etapy i cele diagnozy', file: 'wiki/diagnoza/etapy_diagnozy.md' },
         { id: 'diagnoza/wywiad_psychologiczny', label: 'Wywiad psychologiczny', file: 'wiki/diagnoza/wywiad_psychologiczny.md' },
+        { id: 'diagnoza/wywiad_kognitywny_poznawczy', label: 'Wywiad kognitywny (poznawczy)', file: 'wiki/diagnoza/wywiad_kognitywny_poznawczy.md' },
         { id: 'diagnoza/diagnoza_techniki_rozmowy_psychologicznej', label: 'Techniki rozmowy psychologicznej', file: 'wiki/diagnoza/diagnoza_techniki_rozmowy_psychologicznej.md' },
         { id: 'diagnoza/obserwacja_kliniczna', label: 'Obserwacja kliniczna', file: 'wiki/diagnoza/obserwacja_kliniczna.md' },
         { id: 'diagnoza/formulowanie_przypadku', label: 'Formułowanie przypadku', file: 'wiki/diagnoza/formulowanie_przypadku.md' },
@@ -2170,6 +2171,7 @@ window.SITE_CONFIG = {
     diagnoza: [
       { file: 'wiki/diagnoza/etapy_diagnozy.md',                 label: 'Etapy i cele diagnozy',              status: 'live' },
       { file: 'wiki/diagnoza/wywiad_psychologiczny.md',          label: 'Wywiad psychologiczny',              status: 'live' },
+      { file: 'wiki/diagnoza/wywiad_kognitywny_poznawczy.md',     label: 'Wywiad kognitywny (poznawczy)',       status: 'live' },
       { file: 'wiki/diagnoza/diagnoza_techniki_rozmowy_psychologicznej.md', label: 'Techniki rozmowy psychologicznej', status: 'live' },
       { file: 'wiki/diagnoza/obserwacja_kliniczna.md',           label: 'Obserwacja kliniczna',               status: 'live' },
       { file: 'wiki/diagnoza/formulowanie_przypadku.md',         label: 'Formułowanie przypadku',             status: 'live' },

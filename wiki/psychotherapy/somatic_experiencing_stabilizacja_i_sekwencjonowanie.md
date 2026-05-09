@@ -53,7 +53,7 @@ SE działa najbezpieczniej i najskuteczniej jako proces sekwencyjny. Stabilizacj
 
 ## Bibliografia
 
-1. Payne, P., Levine, P. A., & Crane-Godreau, M. A. (2015). *Frontiers in Psychology, 6*, 93.
+1. Payne, P., Levine, P. A., & Crane-Godreau, M. A. (2015). Somatic experiencing: using interoception and proprioception as core elements of trauma therapy. *Frontiers in Psychology, 6*, 93.
 2. Van der Kolk, B. A. (2014). *The Body Keeps the Score*. Viking.
 3. Ogden, P., Minton, K., & Pain, C. (2006). *Trauma and the Body*. Norton.
 4. Siegel, D. J. (2020). *The Developing Mind* (3rd ed.). Guilford Press.

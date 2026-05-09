@@ -1483,6 +1483,7 @@ window.SITE_CONFIG = {
         { id: 'wiki-index/seminarium_dyplomowe', label: 'WIKI - Seminarium dyplomowe',               wiki: 'seminarium_dyplomowe' },
         { id: 'wiki-index/podstawy_pomocy',      label: 'WIKI - Podstawy pomocy psychologicznej',    wiki: 'podstawy_pomocy'      },
         { id: 'wiki-index/dodatkowe_strony',     label: 'WIKI - Dodatkowe strony',                   wiki: 'dodatkowe_strony'     },
+        { id: 'wiki-index/instrukcje_lab_pdf',   label: 'WIKI - Instrukcje laboratoryjne PDF',       wiki: 'instrukcje_lab_pdf'   },
       ]
     },
     {
@@ -3612,6 +3613,34 @@ window.SITE_CONFIG = {
             { label: 'Przyjaźń', href: 'pages/przyjazn.html', status: 'xlink', desc: 'Dodatkowa strona HTML: przyjazn.html.' },
             { label: 'Raport neuroróżnorodności', href: 'pages/Raport_neuroroznorodnosci.html', status: 'xlink', desc: 'Dodatkowa strona HTML: Raport_neuroroznorodnosci.html.' },
             { label: 'Diagnoza - prezentacja', href: 'pages/diagnoza_prezentacja.html', status: 'xlink', desc: 'Dodatkowa strona HTML: diagnoza_prezentacja.html.' },
+            { label: 'Diagnoza - prezentacja (wersja 2)', href: 'pages/diagnoza_prezentacja_2.html', status: 'xlink', desc: 'Dodatkowa strona HTML: diagnoza_prezentacja_2.html.' },
+          ]
+        }
+      ]
+    },
+
+    instrukcje_lab_pdf: {
+      title: 'WIKI - Instrukcje laboratoryjne PDF',
+      intro: 'Moduł zbierający instrukcje laboratoryjne w formacie PDF z katalogu /labs. Umożliwia wybór pliku z listy oraz wygodne podglądanie materiału bez opuszczania portalu.',
+      sections: [
+        {
+          type: 'pdfLabBrowser',
+          title: 'Wybór instrukcji laboratoryjnej',
+          files: [
+            { id: 'labs/neuro_lab1', label: 'Neuropsychologia — lab 1', href: 'labs/neuro_lab1.pdf' },
+            { id: 'labs/neuro_lab2', label: 'Neuropsychologia — lab 2', href: 'labs/neuro_lab2.pdf' },
+            { id: 'labs/neuro_lab3', label: 'Neuropsychologia — lab 3', href: 'labs/neuro_lab3.pdf' },
+            { id: 'labs/neuro_lab4', label: 'Neuropsychologia — lab 4', href: 'labs/neuro_lab4.pdf' },
+            { id: 'labs/diagnoza_lab2', label: 'Diagnoza psychologiczna — lab 2', href: 'labs/diagnoza_lab2.pdf' },
+            { id: 'labs/diagnoza_lab3', label: 'Diagnoza psychologiczna — lab 3', href: 'labs/diagnoza_lab3.pdf' },
+            { id: 'labs/diagnoza_lab4', label: 'Diagnoza psychologiczna — lab 4', href: 'labs/diagnoza_lab4.pdf' },
+            { id: 'labs/diagnoza_lab5', label: 'Diagnoza psychologiczna — lab 5', href: 'labs/diagnoza_lab5.pdf' },
+            { id: 'labs/psych_pozn_lab1', label: 'Psychologia poznawcza — lab 1', href: 'labs/psych_pozn_lab1.pdf' },
+            { id: 'labs/psych_pozn_lab2', label: 'Psychologia poznawcza — lab 2', href: 'labs/psych_pozn_lab2.pdf' },
+            { id: 'labs/psych_pozn_lab3', label: 'Psychologia poznawcza — lab 3', href: 'labs/psych_pozn_lab3.pdf' },
+            { id: 'labs/psych_pozn_lab4', label: 'Psychologia poznawcza — lab 4', href: 'labs/psych_pozn_lab4.pdf' },
+            { id: 'labs/psych_pozn_lab5', label: 'Psychologia poznawcza — lab 5', href: 'labs/psych_pozn_lab5.pdf' },
+            { id: 'labs/psych_pozn_lab6', label: 'Psychologia poznawcza — lab 6', href: 'labs/psych_pozn_lab6.pdf' }
           ]
         }
       ]

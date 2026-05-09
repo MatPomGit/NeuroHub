@@ -1116,8 +1116,8 @@ function getWeekStartMonday(date = new Date()) {
 /* Buduje deterministyczny zestaw 7 ciekawostek aktualny od poniedziałku 00:00. */
 function getWeeklyFactsMap(facts, weekStart = getWeekStartMonday()) {
   if (!Array.isArray(facts) || facts.length === 0) return new Map();
-  const dayMs = 24 * 60 * 60 * 1000;
-  const weekSeed = Math.floor(weekStart.getTime() / dayMs);
+  const MILLISECONDS_IN_A_DAY = 24 * 60 * 60 * 1000;
+  const weekSeed = Math.floor(weekStart.getTime() / MILLISECONDS_IN_A_DAY);
   const orderedDays = [1, 2, 3, 4, 5, 6, 0];
   const map = new Map();
 

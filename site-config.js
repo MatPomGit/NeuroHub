@@ -668,6 +668,7 @@ window.SITE_CONFIG = {
       items: [
         { id: 'diagnoza/etapy_diagnozy', label: 'Etapy i cele diagnozy', file: 'wiki/diagnoza/etapy_diagnozy.md' },
         { id: 'diagnoza/wywiad_psychologiczny', label: 'Wywiad psychologiczny', file: 'wiki/diagnoza/wywiad_psychologiczny.md' },
+        { id: 'diagnoza/diagnoza_techniki_rozmowy_psychologicznej', label: 'Techniki rozmowy psychologicznej', file: 'wiki/diagnoza/diagnoza_techniki_rozmowy_psychologicznej.md' },
         { id: 'diagnoza/obserwacja_kliniczna', label: 'Obserwacja kliniczna', file: 'wiki/diagnoza/obserwacja_kliniczna.md' },
         { id: 'diagnoza/formulowanie_przypadku', label: 'Formułowanie przypadku', file: 'wiki/diagnoza/formulowanie_przypadku.md' },
         { id: 'diagnoza/techniki_projekcyjne', label: 'Techniki projekcyjne', file: 'wiki/diagnoza/techniki_projekcyjne.md' },
@@ -864,7 +865,6 @@ window.SITE_CONFIG = {
         { id: 'diagnostics/neuropsych_battery',label: 'Baterie neuropsychologiczne',file: 'wiki/diagnostics/neuropsych_battery.md'},
         { id: 'diagnostics/rdoc',              label: 'Model RDoC',                  file: 'wiki/diagnostics/rdoc.md'              },
         { id: 'diagnostics/scid_v',            label: 'SCID-5 / SCID-V',             file: 'wiki/diagnostics/scid_v.md'            },
-        { id: 'diagnostics/diagnoza_techniki_rozmowy_psychologicznej', label: 'Diagnoza: techniki rozmowy psychologicznej', file: 'wiki/diagnoza_techniki_rozmowy_psychologicznej.md' },
         { id: 'diagnostics/apis_zr',           label: 'APIS-ZR - zastosowanie w diagnozie', file: 'wiki/diagnostics/apis_zr.md' },
       ]
     },
@@ -2170,6 +2170,7 @@ window.SITE_CONFIG = {
     diagnoza: [
       { file: 'wiki/diagnoza/etapy_diagnozy.md',                 label: 'Etapy i cele diagnozy',              status: 'live' },
       { file: 'wiki/diagnoza/wywiad_psychologiczny.md',          label: 'Wywiad psychologiczny',              status: 'live' },
+      { file: 'wiki/diagnoza/diagnoza_techniki_rozmowy_psychologicznej.md', label: 'Techniki rozmowy psychologicznej', status: 'live' },
       { file: 'wiki/diagnoza/obserwacja_kliniczna.md',           label: 'Obserwacja kliniczna',               status: 'live' },
       { file: 'wiki/diagnoza/formulowanie_przypadku.md',         label: 'Formułowanie przypadku',             status: 'live' },
       { file: 'wiki/diagnoza/techniki_projekcyjne.md',           label: 'Techniki projekcyjne',               status: 'live' },
@@ -2686,6 +2687,7 @@ window.SITE_CONFIG = {
           articles: [
             { label: 'Etapy i cele diagnozy', id: 'diagnoza/etapy_diagnozy', status: 'live' },
             { label: 'Wywiad psychologiczny', id: 'diagnoza/wywiad_psychologiczny', status: 'live' },
+            { label: 'Techniki rozmowy psychologicznej', id: 'diagnoza/diagnoza_techniki_rozmowy_psychologicznej', status: 'live' },
             { label: 'Obserwacja kliniczna', id: 'diagnoza/obserwacja_kliniczna', status: 'live' },
             { label: 'Formułowanie przypadku', id: 'diagnoza/formulowanie_przypadku', status: 'live' },
           ]

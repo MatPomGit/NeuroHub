@@ -54,8 +54,8 @@ Opinia psychologiczna jest dokumentem **chronionym tajemnicą zawodową** i moż
    - Kto zlecił badanie i w jakim celu
    - Pytania diagnostyczne, na które opinia ma odpowiedzieć
 
-3. **Zastosowane metody badania**
-   - Wykaz narzędzi diagnostycznych (testy, wywiady, obserwacja)
+3. **Testy i metody badania**
+   - Wykaz narzędzi badawczych (testy, wywiady, obserwacja)
    - Daty i okoliczności przeprowadzenia poszczególnych badań
 
 4. **Wyniki i ich interpretacja**

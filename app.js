@@ -1099,7 +1099,15 @@ async function loadDailyPsychologyFacts() {
   if (!response.ok) throw new Error('Nie udało się pobrać ciekawostek Daily Psychology.');
   const payload = await response.json();
   const facts = Array.isArray(payload?.facts) ? payload.facts : [];
-  dailyPsychologyFactsCache = facts.filter(item => item?.title && item?.message);
+  dailyPsychologyFactsCache = facts
+    .filter(item => item?.title && (item?.message || item?.lead || item?.body))
+    .map(item => ({
+      /* Ujednolicamy schemat danych: JSON może zawierać lead/body zamiast message. */
+      title: item.title,
+      message: item.message || item.lead || '',
+      body: item.body || '',
+      source: item.source || ''
+    }));
   return dailyPsychologyFactsCache;
 }
 
@@ -1194,7 +1202,7 @@ function renderDailyPsychology(id, item) {
       </div>
       <div class="daily-card-title">${(weeklyFactFallback?.title || curiosity.title)}</div>
       <div class="daily-card-lead">${(weeklyFactFallback?.message || curiosity.lead)}</div>
-      <div class="daily-card-body">${weeklyFactFallback?.source ? `<p><strong>Źródło:</strong> ${weeklyFactFallback.source}</p>` : bodyParas}</div>
+      <div class="daily-card-body">${weeklyFactFallback?.body ? `<p>${weeklyFactFallback.body}</p>` : bodyParas}${weeklyFactFallback?.source ? `<p><strong>Źródło:</strong> ${weeklyFactFallback.source}</p>` : ''}</div>
     </div>
 
     <div class="daily-card">
@@ -1223,7 +1231,7 @@ function renderDailyPsychology(id, item) {
       if (!titleNode || !leadNode || !bodyNode) return;
       titleNode.textContent = fact.title;
       leadNode.textContent = fact.message;
-      bodyNode.innerHTML = fact.source ? `<p><strong>Źródło:</strong> ${fact.source}</p>` : '';
+      bodyNode.innerHTML = `${fact.body ? `<p>${fact.body}</p>` : ''}${fact.source ? `<p><strong>Źródło:</strong> ${fact.source}</p>` : ''}`;
     })
     .catch(() => {
       /* Cichy fallback: gdy JSON nie jest dostępny, pozostaje treść lokalna z daily-psychology.js. */

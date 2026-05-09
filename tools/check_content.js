@@ -458,6 +458,83 @@ function runWikiNamingConventionCheck(report) {
   pushOk(report, 'wiki-naming-convention', `Sprawdzono segmenty nazw wiki: ${checkedSegments}.`);
 }
 
+/*
+ * Kontroluje spójność sekcji "Cytat badacza" z bibliografią.
+ * Jeśli sekcja istnieje, wymagamy sekcji bibliografii oraz metadanych autora i roku
+ * możliwych do dopasowania do wpisu bibliograficznego.
+ */
+function runResearcherQuoteBibliographyCheck(siteConfig, report) {
+  const collected = collectObjects(siteConfig);
+  const idToFileMap = buildIdToFileMap(collected);
+  const candidateFiles = new Set();
+
+  collected.forEach(({ value }) => {
+    const resolvedFile = resolveEntryFile(value, idToFileMap);
+    if (resolvedFile && resolvedFile.endsWith('.md')) {
+      candidateFiles.add(resolvedFile);
+    }
+  });
+
+  let checkedFiles = 0;
+  candidateFiles.forEach(markdownFile => {
+    const absFilePath = path.join(repoRoot, markdownFile);
+    if (!fs.existsSync(absFilePath)) return;
+
+    const content = fs.readFileSync(absFilePath, 'utf8');
+    const hasResearcherQuoteSection = /^##\s+Cytat badacza\s*$/im.test(content);
+    if (!hasResearcherQuoteSection) return;
+    checkedFiles += 1;
+
+    const bibliographyHeaderMatch = /^##\s+Bibliografia\s*$/im.exec(content);
+    if (!bibliographyHeaderMatch) {
+      pushError(
+        report,
+        'researcher-quote-bibliography',
+        `Plik ${markdownFile} zawiera sekcję "Cytat badacza", ale nie ma sekcji "## Bibliografia".`
+      );
+      return;
+    }
+
+    const bibliographyStartIndex = bibliographyHeaderMatch.index + bibliographyHeaderMatch[0].length;
+    const bibliographyText = content.slice(bibliographyStartIndex).split(/\n##\s+/)[0];
+
+    const quoteSectionMatch = content.match(/##\s+Cytat badacza\s*([\s\S]*?)(?:\n##\s+|$)/i);
+    const quoteSectionText = quoteSectionMatch ? quoteSectionMatch[1] : '';
+    const authorMatch = quoteSectionText.match(/[-*]\s*autor\s*:\s*(.+)/i);
+    const yearMatch = quoteSectionText.match(/[-*]\s*rok\s*:\s*(\d{4})/i);
+
+    if (!authorMatch || !yearMatch) {
+      pushError(
+        report,
+        'researcher-quote-bibliography',
+        `Plik ${markdownFile} ma sekcję "Cytat badacza" bez wymaganych metadanych autora i roku.`
+      );
+      return;
+    }
+
+    const authorName = authorMatch[1].trim();
+    const escapedAuthor = authorName.replace(/[.*+?^${}()|[\\\]\\\\]/g, '\\$&');
+    const year = yearMatch[1];
+    const authorRegex = new RegExp(`\\b${escapedAuthor}\\b`, 'i');
+
+    const bibliographyHasMatchingEntry = authorRegex.test(bibliographyText) && bibliographyText.includes(year);
+
+    if (!bibliographyHasMatchingEntry) {
+      pushError(
+        report,
+        'researcher-quote-bibliography',
+        `Plik ${markdownFile}: brak odpowiadającego wpisu bibliograficznego dla cytatu (${authorMatch[1].trim()}, ${year}).`
+      );
+    }
+  });
+
+  pushOk(
+    report,
+    'researcher-quote-bibliography',
+    `Sprawdzono sekcję "Cytat badacza" w plikach: ${checkedFiles}.`
+  );
+}
+
 /* Wypisuje raport szczegółowy oraz podsumowanie errors/warnings/ok. */
 function printReport(report) {
   report.errors.forEach(issue => {
@@ -514,6 +591,7 @@ function main() {
     runInternalMarkdownLinksCheck(siteConfig, report);
     runWikiNamingConventionCheck(report);
     runBibliographyHeaderCheck(siteConfig, report);
+    runResearcherQuoteBibliographyCheck(siteConfig, report);
 
     printReport(report);
     process.exit(report.errors.length > 0 ? 1 : 0);

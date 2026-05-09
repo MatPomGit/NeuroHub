@@ -33,7 +33,7 @@ Badania nad przekazem transgeneracyjnym pokazują, że style przywiązania, spos
 
 ### 4. Granice zakresu względem terapii systemowej
 
-Aby ograniczyć duplikację treści, ten artykuł koncentruje się na **mechanice relacji rodzinnych** (role, granice, sprzężenia zwrotne, triangulacja). Z kolei artykuł `psychotherapy/systemowa` pełni funkcję przeglądu szkół i technik terapii systemowej w szerszym ujęciu (para, rodzina, kontekst instytucjonalny). Taki podział porządkuje materiał: tutaj odpowiadamy na pytanie „jak działa system rodzinny”, a w tekście przekrojowym — „jakie są główne nurty i narzędzia interwencji systemowej”.
+Niniejszy artykuł koncentruje się na mechanice relacji rodzinnych (role, granice, sprzężenia zwrotne, triangulacja), natomiast artykuł `psychotherapy/systemowa` stanowi przegląd szkół i technik terapii systemowej w szerszym ujęciu. Taki podział pozwala na szczegółową analizę działania systemu rodzinnego w tym miejscu, przy jednoczesnym zachowaniu przekrojowego charakteru tekstu o nurtach interwencji.
 
 ## Dobra praktyka
 

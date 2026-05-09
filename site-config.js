@@ -46,7 +46,7 @@ window.SITE_CONFIG = {
   },
 
   measurementToolsByDomain: {
-    diagnostics: [
+    tests: [
       {
         id: 'mmse',
         name: 'Mini-Mental State Examination (MMSE)',
@@ -851,21 +851,21 @@ window.SITE_CONFIG = {
     },
 
     {
-      section: 'Diagnoza psychologiczna',
-      domainKey: 'diagnostics',
+      section: 'Testy psychologiczne',
+      domainKey: 'tests',
       items: [
-        { id: 'diagnostics/testy_przeglad',    label: 'Testy - przegląd',           file: 'wiki/diagnostics/testy_przeglad.md'    },
-        { id: 'diagnostics/mmse_moca',         label: 'Testy przesiewowe',          file: 'wiki/diagnostics/mmse_moca.md'         },
-        { id: 'diagnostics/testy_wykonawcze',  label: 'Testy wyk. - przegląd',      file: 'wiki/diagnostics/testy_wykonawcze.md'  },
-        { id: 'diagnostics/testy_pamieci',     label: 'Testy pamięci',              file: 'wiki/diagnostics/testy_pamieci.md'     },
-        { id: 'diagnostics/testy_uwagi',       label: 'Testy uwagi',                file: 'wiki/diagnostics/testy_uwagi.md'       },
-        { id: 'diagnostics/testy_jezyka',      label: 'Testy językowe',             file: 'wiki/diagnostics/testy_jezyka.md'      },
-        { id: 'diagnostics/wais',              label: 'Skale Wechslera (WAIS/WISC)',file: 'wiki/diagnostics/wais.md'              },
-        { id: 'diagnostics/wisc_v',            label: 'WISC-V - opis testu',        file: 'wiki/diagnostics/wisc_v.md'            },
-        { id: 'diagnostics/neuropsych_battery',label: 'Baterie neuropsychologiczne',file: 'wiki/diagnostics/neuropsych_battery.md'},
-        { id: 'diagnostics/rdoc',              label: 'Model RDoC',                  file: 'wiki/diagnostics/rdoc.md'              },
-        { id: 'diagnostics/scid_v',            label: 'SCID-5 / SCID-V',             file: 'wiki/diagnostics/scid_v.md'            },
-        { id: 'diagnostics/apis_zr',           label: 'APIS-ZR - zastosowanie w diagnozie', file: 'wiki/diagnostics/apis_zr.md' },
+        { id: 'diagnostics/testy_przeglad',    label: 'Testy - przegląd',           file: 'wiki/tests/testy_przeglad.md'    },
+        { id: 'diagnostics/mmse_moca',         label: 'Testy przesiewowe',          file: 'wiki/tests/mmse_moca.md'         },
+        { id: 'diagnostics/testy_wykonawcze',  label: 'Testy wyk. - przegląd',      file: 'wiki/tests/testy_wykonawcze.md'  },
+        { id: 'diagnostics/testy_pamieci',     label: 'Testy pamięci',              file: 'wiki/tests/testy_pamieci.md'     },
+        { id: 'diagnostics/testy_uwagi',       label: 'Testy uwagi',                file: 'wiki/tests/testy_uwagi.md'       },
+        { id: 'diagnostics/testy_jezyka',      label: 'Testy językowe',             file: 'wiki/tests/testy_jezyka.md'      },
+        { id: 'diagnostics/wais',              label: 'Skale Wechslera (WAIS/WISC)',file: 'wiki/tests/wais.md'              },
+        { id: 'diagnostics/wisc_v',            label: 'WISC-V - opis testu',        file: 'wiki/tests/wisc_v.md'            },
+        { id: 'diagnostics/neuropsych_battery',label: 'Baterie neuropsychologiczne',file: 'wiki/tests/neuropsych_battery.md'},
+        { id: 'diagnostics/rdoc',              label: 'Model RDoC',                  file: 'wiki/tests/rdoc.md'              },
+        { id: 'diagnostics/scid_v',            label: 'SCID-5 / SCID-V',             file: 'wiki/tests/scid_v.md'            },
+        { id: 'diagnostics/apis_zr',           label: 'APIS-ZR - zastosowanie w diagnozie', file: 'wiki/tests/apis_zr.md' },
       ]
     },
     {
@@ -1602,18 +1602,18 @@ window.SITE_CONFIG = {
       { file: 'wiki/disorders/adhd.md',      label: 'ADHD',                   status: 'live' },
       { file: 'wiki/disorders/asd.md',       label: 'Spektrum autyzmu (ASD)', status: 'live' },
     ],
-    diagnostics: [
-      { file: 'wiki/diagnostics/testy_przeglad.md',   label: 'Testy - przegląd',      status: 'live' },
-      { file: 'wiki/diagnostics/mmse_moca.md',        label: 'MMSE i MoCA',           status: 'live' },
-      { file: 'wiki/diagnostics/testy_wykonawcze.md', label: 'Testy funkcji wyk.',    status: 'live' },
-      { file: 'wiki/diagnostics/testy_pamieci.md',    label: 'Testy pamięci',         status: 'live' },
-      { file: 'wiki/diagnostics/testy_uwagi.md',      label: 'Testy uwagi',           status: 'live' },
-      { file: 'wiki/diagnostics/testy_jezyka.md',     label: 'Testy językowe',        status: 'live' },
-      { file: 'wiki/diagnostics/wais.md',             label: 'Skale Wechslera (WAIS/WISC)', status: 'live' },
-      { file: 'wiki/diagnostics/wisc_v.md',           label: 'WISC-V - opis testu',         status: 'live' },
-      { file: 'wiki/diagnostics/neuropsych_battery.md',label: 'Baterie neuropsychologiczne', status: 'live' },
-      { file: 'wiki/diagnostics/rdoc.md',              label: 'Model RDoC',                  status: 'live' },
-      { file: 'wiki/diagnostics/scid_v.md',            label: 'SCID-5 / SCID-V',             status: 'live' },
+    tests: [
+      { file: 'wiki/tests/testy_przeglad.md',   label: 'Testy - przegląd',      status: 'live' },
+      { file: 'wiki/tests/mmse_moca.md',        label: 'MMSE i MoCA',           status: 'live' },
+      { file: 'wiki/tests/testy_wykonawcze.md', label: 'Testy funkcji wyk.',    status: 'live' },
+      { file: 'wiki/tests/testy_pamieci.md',    label: 'Testy pamięci',         status: 'live' },
+      { file: 'wiki/tests/testy_uwagi.md',      label: 'Testy uwagi',           status: 'live' },
+      { file: 'wiki/tests/testy_jezyka.md',     label: 'Testy językowe',        status: 'live' },
+      { file: 'wiki/tests/wais.md',             label: 'Skale Wechslera (WAIS/WISC)', status: 'live' },
+      { file: 'wiki/tests/wisc_v.md',           label: 'WISC-V - opis testu',         status: 'live' },
+      { file: 'wiki/tests/neuropsych_battery.md',label: 'Baterie neuropsychologiczne', status: 'live' },
+      { file: 'wiki/tests/rdoc.md',              label: 'Model RDoC',                  status: 'live' },
+      { file: 'wiki/tests/scid_v.md',            label: 'SCID-5 / SCID-V',             status: 'live' },
     ],
     psychometrics: [
       { file: 'wiki/psychometrics/psychometria_wprowadzenie.md', label: 'Psychometria', status: 'live' },

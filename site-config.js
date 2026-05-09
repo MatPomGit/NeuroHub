@@ -1482,7 +1482,7 @@ window.SITE_CONFIG = {
         { id: 'wiki-index/nvc',                  label: 'WIKI - Porozumiewanie się bez przemocy',    wiki: 'nvc'                  },
         { id: 'wiki-index/seminarium_dyplomowe', label: 'WIKI - Seminarium dyplomowe',               wiki: 'seminarium_dyplomowe' },
         { id: 'wiki-index/podstawy_pomocy',      label: 'WIKI - Podstawy pomocy psychologicznej',    wiki: 'podstawy_pomocy'      },
-        { id: 'wiki-index/dodatkowe_strony',   label: 'WIKI - Dodatkowe strony',                  wiki: 'dodatkowe_strony'     },
+        { id: 'wiki-index/dodatkowe_strony',     label: 'WIKI - Dodatkowe strony',                   wiki: 'dodatkowe_strony'     },
       ]
     },
     {

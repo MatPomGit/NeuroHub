@@ -6,18 +6,18 @@ evidenceCutoffDate: 2026-05-01
 
 # Somatic Experiencing w praktyce: stabilizacja, sekwencjonowanie i kryteria bezpieczeństwa
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 
 W pracy z traumą największe ryzyko kliniczne pojawia się wtedy, gdy tempo interwencji wyprzedza zdolność pacjenta do samoregulacji. Dlatego praktyczne wdrożenie Somatic Experiencing (SE) wymaga jasnego planu sekwencyjnego: stabilizacja, dopiero potem pogłębianie przetwarzania.
 
-## Definicje kluczowych pojęć
+## Definicje
 
 - **Okno tolerancji** — zakres pobudzenia, w którym osoba zachowuje zdolność do refleksji i kontaktu.
 - **Stabilizacja** — zestaw interwencji budujących poczucie bezpieczeństwa i kontrolę nad pobudzeniem.
 - **Sekwencjonowanie** — uporządkowanie etapów terapii tak, aby minimalizować ryzyko przestymulowania.
 - **Dysocjacja** — zaburzenie ciągłości doświadczenia świadomości, pamięci lub odczuwania ciała.
 
-## Część analityczna
+## Analiza
 
 ### 1. Dlaczego stabilizacja jest pierwsza
 

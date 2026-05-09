@@ -1090,6 +1090,44 @@ function renderSpecializationTest(id, item) {
 
 /* ── Daily Psychology renderer ───────────────────── */
 let dailySelectedDay = null; /* null = today */
+let dailyPsychologyFactsCache = null;
+
+/* Pobiera i buforuje listę ciekawostek do sekcji Daily Psychology. */
+async function loadDailyPsychologyFacts() {
+  if (dailyPsychologyFactsCache) return dailyPsychologyFactsCache;
+  const response = await fetch(REMINDER_FACTS_URL, { cache: 'no-store' });
+  if (!response.ok) throw new Error('Nie udało się pobrać ciekawostek Daily Psychology.');
+  const payload = await response.json();
+  const facts = Array.isArray(payload?.facts) ? payload.facts : [];
+  dailyPsychologyFactsCache = facts.filter(item => item?.title && item?.message);
+  return dailyPsychologyFactsCache;
+}
+
+/* Zwraca lokalny poniedziałek 00:00 dla tygodnia wskazanej daty. */
+function getWeekStartMonday(date = new Date()) {
+  const weekStart = new Date(date);
+  weekStart.setHours(0, 0, 0, 0);
+  const day = weekStart.getDay();
+  const diffToMonday = day === 0 ? 6 : day - 1;
+  weekStart.setDate(weekStart.getDate() - diffToMonday);
+  return weekStart;
+}
+
+/* Buduje deterministyczny zestaw 7 ciekawostek aktualny od poniedziałku 00:00. */
+function getWeeklyFactsMap(facts, weekStart = getWeekStartMonday()) {
+  if (!Array.isArray(facts) || facts.length === 0) return new Map();
+  const dayMs = 24 * 60 * 60 * 1000;
+  const weekSeed = Math.floor(weekStart.getTime() / dayMs);
+  const orderedDays = [1, 2, 3, 4, 5, 6, 0];
+  const map = new Map();
+
+  orderedDays.forEach((dayNumber, offset) => {
+    const index = (weekSeed + offset) % facts.length;
+    map.set(dayNumber, facts[index]);
+  });
+
+  return map;
+}
 
 function renderDailyPsychology(id, item) {
   const area = document.getElementById('content');
@@ -1117,6 +1155,9 @@ function renderDailyPsychology(id, item) {
   const entry = orderedData.find(e => e.day === displayDay) || orderedData[0];
   const curiosity = pickDailyVariant(entry.curiosityVariants, entry.day) || entry.curiosity;
   const exercise = pickDailyVariant(entry.exerciseVariants, entry.day) || entry.exercise;
+
+  /* Domyślnie renderujemy treść lokalną; po pobraniu danych podmieniamy ciekawostkę na wariant tygodniowy. */
+  const weeklyFactFallback = null;
 
   const typeLabels = {
     reflection: 'Refleksja', challenge: 'Wyzwanie', bodyscan: 'Skan ciała',
@@ -1151,9 +1192,9 @@ function renderDailyPsychology(id, item) {
         <span class="daily-card-icon">🧠</span>
         <span class="daily-card-label curiosity">Ciekawostka psychologiczna</span>
       </div>
-      <div class="daily-card-title">${curiosity.title}</div>
-      <div class="daily-card-lead">${curiosity.lead}</div>
-      <div class="daily-card-body">${bodyParas}</div>
+      <div class="daily-card-title">${(weeklyFactFallback?.title || curiosity.title)}</div>
+      <div class="daily-card-lead">${(weeklyFactFallback?.message || curiosity.lead)}</div>
+      <div class="daily-card-body">${weeklyFactFallback?.source ? `<p><strong>Źródło:</strong> ${weeklyFactFallback.source}</p>` : bodyParas}</div>
     </div>
 
     <div class="daily-card">
@@ -1169,6 +1210,24 @@ function renderDailyPsychology(id, item) {
   </div>`;
   window.scrollTo(0, 0);
   animateContentIn();
+
+  /* Asynchroniczna aktualizacja: odświeża ciekawostkę raz na tydzień (poniedziałek, 00:00 czasu lokalnego). */
+  loadDailyPsychologyFacts()
+    .then(facts => {
+      const weeklyFacts = getWeeklyFactsMap(facts, getWeekStartMonday(new Date()));
+      const fact = weeklyFacts.get(entry.day);
+      if (!fact) return;
+      const titleNode = area.querySelector('.daily-card .daily-card-title');
+      const leadNode = area.querySelector('.daily-card .daily-card-lead');
+      const bodyNode = area.querySelector('.daily-card .daily-card-body');
+      if (!titleNode || !leadNode || !bodyNode) return;
+      titleNode.textContent = fact.title;
+      leadNode.textContent = fact.message;
+      bodyNode.innerHTML = fact.source ? `<p><strong>Źródło:</strong> ${fact.source}</p>` : '';
+    })
+    .catch(() => {
+      /* Cichy fallback: gdy JSON nie jest dostępny, pozostaje treść lokalna z daily-psychology.js. */
+    });
 }
 
 window.selectDailyDay = function(day) {

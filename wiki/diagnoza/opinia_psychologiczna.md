@@ -16,7 +16,7 @@ Zespoły interdyscyplinarne najwyżej oceniają opinie, które zawierają zalece
 
 ## 2. Definicje i rozróżnienia
 
-- **Opinia psychologiczna** – formalny dokument kończący proces diagnostyczny, odpowiadający na pytanie zleceniodawcy w granicach kompetencji psychologa [1,4].
+- **Opinia psychologiczna** – formalny dokument kończący proces diagnostyczny, odpowiadający na pytanie zleceniodawcy w granicach kompetencji psychologa [1,5,9].
 - **Diagnoza funkcjonalna** – opis mechanizmów i warunków podtrzymujących trudności; nie ogranicza się do etykiety klasyfikacyjnej [1].
 - **Rekomendacja kliniczna** – wskazanie działania opartego na danych z badania i aktualnej wiedzy naukowej [2,5].
 

@@ -1,372 +1,151 @@
 /* ══════════════════════════════════════════════════
-   PSYCHOLOGIA CODZIENNEJ — dane tygodniowe
+   PSYCHOLOGIA CODZIENNA — dane tygodniowe
    Plik: daily-psychology.js
-   Każdy wpis zawiera:
-     - day:        0=niedziela … 6=sobota (Date.getDay)
-     - dayName:    polska nazwa dnia
-     - theme:      temat dnia
-     - emoji:      ikona dnia
-     - curiosity:  { title, lead, body }   ← ciekawostka psychologiczna
-     - exercise:   { title, type, steps }  ← ćwiczenie nad sobą
-        type: 'reflection' | 'challenge' | 'bodyscan' | 'writing' | 'mindfulness' | 'social' | 'creative'
+   Moduł udostępnia wyłącznie metadane dni oraz ćwiczenia.
+   Ciekawostki są ładowane z pliku data_psychology_reminders.json.
 ══════════════════════════════════════════════════ */
 (function () {
   'use strict';
 
-  const DAILY_PSYCHOLOGY = [
+  /*
+    Uwaga implementacyjna:
+    - curiosity zawiera neutralny placeholder bez treści przykładowej,
+      aby renderer mógł bezpiecznie działać do czasu podmiany danych z JSON.
+    - curiosityVariants pozostaje puste, by wyeliminować lokalne przykłady ciekawostek.
+  */
+  const curiosityPlaceholder = {
+    title: 'Ciekawostka ładowana z bazy przypomnień',
+    lead: 'Treść zostanie pobrana z data_psychology_reminders.json.',
+    body: []
+  };
 
-    /* ─── Poniedziałek (1) ─────────────────────────── */
+  const DAILY_PSYCHOLOGY = [
     {
       day: 1,
       dayName: 'Poniedziałek',
       theme: 'Efekt reflektora i samoświadomość',
       emoji: '🔦',
-      curiosity: {
-        title: 'Efekt reflektora – inni patrzą na nas o wiele mniej, niż myślimy',
-        lead: 'Thomas Gilovich i Kenneth Savitsky (1999) poprosili studentów, by weszli do wypełnionej sali w krępującym t-shircie z Barry Manilowem. Studenci szacowali, że połowa sali to zauważyła – w rzeczywistości mniej niż jedna czwarta.',
-        body: [
-          'Efekt reflektora (spotlight effect) to tendencja do przeceniania tego, jak bardzo nasza wygląd, zachowanie czy błędy są dostrzegane przez innych. Wynika z czegoś prostego: dla nas samych jesteśmy centrum uwagi, więc zakładamy, że jesteśmy nim dla wszystkich.',
-          'W kontekście zawodowym: strach przed oceną kolegów po fachu, wstyd po nieudanej sesji terapeutycznej lub „zły" dzień w pracy – często opierają się na iluzji, że wszyscy to widzą i pamiętają. Efekt reflektora napędza perfekcjonizm, a perfekcjonizm – wypalenie zawodowe.',
-          'Wyjście poza własny reflektor to nie cynizm ani obojętność – to uwalniające uznanie, że świat nie obraca się wokół naszych potknięć.'
-        ]
-      },
+      curiosity: curiosityPlaceholder,
       exercise: {
         title: 'Wyjdź spod reflektora',
         type: 'social',
         intro: 'To ćwiczenie może być niekomfortowe – i właśnie o to w nim chodzi.',
         steps: [
-          'Wybierz jedno drobne działanie, które normalnie odkładasz przez lęk przed oceną: zagadaj do nieznajomego o drogę, usiądź sam/a w kawiarni bez telefonu i książki, zapytaj o coś głupiego w sklepie.',
-          'Zrób to. Obserwuj swoje myśli <em>przed</em>, <em>w trakcie</em> i <em>po</em>.',
-          'Wieczorem zapisz: ilu ludzi faktycznie zwróciło na Ciebie uwagę? Jak długo trwał dyskomfort? Co poczułeś/aś, gdy minął?',
-          '<strong>Refleksja:</strong> Każde małe wyjście z cienia własnego reflektora wzmacnia odporność na osąd – kluczową kompetencję w pracy psychologa, który musi być obecny dla klienta, nie dla własnego wizerunku.'
+          'Wybierz jedno drobne działanie, które normalnie odkładasz przez lęk przed oceną.',
+          'Zrób to i obserwuj swoje myśli przed, w trakcie oraz po działaniu.',
+          'Wieczorem zapisz, co faktycznie się wydarzyło i czego się nauczyłeś/aś.'
         ]
       }
     },
-
-    /* ─── Wtorek (2) ───────────────────────────────── */
     {
       day: 2,
       dayName: 'Wtorek',
       theme: 'Okno tolerancji i regulacja emocjonalna',
       emoji: '🪟',
-      curiosity: {
-        title: 'Okno tolerancji – gdzie mieszka nasza równowaga',
-        lead: 'Dan Siegel wprowadził pojęcie „window of tolerance" – optymalnego pasma pobudzenia, w którym mózg przetwarza doświadczenia efektywnie, bez uciekania w nadmierne pobudzenie lub odrętwienie.',
-        body: [
-          'Gdy jesteśmy wewnątrz okna: myślimy jasno, czujemy emocje bez bycia przez nie pochłoniętymi, jesteśmy zdolni do empatii i rozwiązywania problemów. Gdy wypadamy <em>powyżej</em> okna (hiperpobudzenie) – pojawia się panika, agresja, chaos myśli. Gdy wypadamy <em>poniżej</em> (hipopobudzenie) – odrętwienie, dysocjacja, pustka.',
-          'Dla psychologów i studentów psychologii okno tolerancji jest szczególnie ważne z dwóch powodów: po pierwsze, praca z traumą klientów może nas wytrącać z równowagi; po drugie, presja akademicka i zawodowa stale testuje nasze własne okno. Zrozumienie swoich regulatorów to podstawa higieny psychicznej.',
-          '<strong>Sygnały hiperpobudzenia:</strong> napięte ramiona, szybki oddech, gonitwa myśli, drażliwość.<br><strong>Sygnały hipopobudzenia:</strong> zmęczenie bez przyczyny, trudność z koncentracją, poczucie odcięcia od emocji.'
-        ]
-      },
+      curiosity: curiosityPlaceholder,
       exercise: {
         title: 'Skan okna tolerancji',
         type: 'bodyscan',
         intro: 'Potrzebujesz 10 minut i cichego miejsca.',
         steps: [
-          'Usiądź wygodnie. Zamknij oczy lub skieruj wzrok na podłogę. Zrób trzy powolne oddechy: wdech 4 sekundy, wydech 6 sekund.',
-          'Zeskanuj ciało od stóp do głowy. Pytaj się: <em>Gdzie czuję napięcie? Gdzie czuję ciepło lub spokój? Gdzie czuję pustkę lub odcięcie?</em>',
-          'Oceń w skali 1–10 swoje obecne pobudzenie: 1 = całkowite odrętwienie, 10 = pełna panika. Gdzie leży Twoje okno tolerancji dziś?',
-          'Jeśli jesteś powyżej okna: 5 powolnych wydechów przez usta. Jeśli poniżej: 10 szybkich przysiadów lub energiczne potrząśnięcie dłońmi.',
-          '<strong>Refleksja:</strong> Zapisz, co pomaga Ci wracać do okna. To jest Twój osobisty repertuar regulacji.'
+          'Wykonaj trzy spokojne oddechy z dłuższym wydechem.',
+          'Zeskanuj ciało i oceń poziom pobudzenia w skali 1–10.',
+          'Dobierz krótką interwencję regulacyjną adekwatnie do poziomu pobudzenia.'
         ]
       }
     },
-
-    /* ─── Środa (3) ───────────────────────────────── */
     {
       day: 3,
       dayName: 'Środa',
-      theme: 'Neurony lustrzane i empatia ucieleśniona',
+      theme: 'Empatia ucieleśniona',
       emoji: '🪞',
-      curiosity: {
-        title: 'Neurony lustrzane – mózg, który odgrywa cudze emocje',
-        lead: 'Giacomo Rizzolatti odkrył w latach 90. komórki nerwowe, które aktywują się zarówno gdy wykonujemy czynność, jak i gdy obserwujemy kogoś innego wykonującego tę samą czynność. Nazwano je neuronami lustrzanymi.',
-        body: [
-          'Choć ich rola w ludzkiej empatii jest wciąż przedmiotem debat (mózg ludzki jest znacznie bardziej złożony niż mózg makaków, u których dokonano odkrycia), neurony lustrzane stały się metaforą dla <em>ucieleśnionej symulacji</em> – hipotezy, że rozumiemy innych, bo wewnętrznie „odgrywamy" ich stany.',
-          'W praktyce klinicznej oznacza to, że empatia nie jest tylko intelektualnym „rozumieniem" klienta. Coś w naszym ciele rezonuje z jego ciałem. Psychologowie często opisują uczucie, że „niosą" emocje klienta po sesji – to właśnie ta rezonans cielesny.',
-          'Z tego powodu superwizja i dbałość o własne ciało to nie luksus, lecz narzędzie pracy. Ciało jest pierwszym instrumentem psychologa.'
-        ]
-      },
+      curiosity: curiosityPlaceholder,
       exercise: {
-        title: 'Świadome lustrzanie',
+        title: 'Świadome słuchanie ciałem',
         type: 'social',
-        intro: 'Ćwiczenie na cały dzień – nie wymaga specjalnego czasu, tylko uwagi.',
+        intro: 'Ćwiczenie na cały dzień – wymaga jedynie uważności.',
         steps: [
-          'W pierwszej rozmowie dnia zwróć uwagę nie tylko na <em>słowa</em>, ale na <em>ciało</em> rozmówcy: rytm oddechu, napięcie ramion, tempo mówienia.',
-          'Delikatnie (nienachalnie) dopasuj swój rytm oddechu i tempo głosu do rozmówcy. Nie naśladuj ruchów – słuchaj <em>ciałem</em>.',
-          'Wieczorem zapisz: Co poczułeś/aś w ciele podczas rozmowy? Czy „zabrałeś/zabrałaś" czyjąś emocję ze sobą? Jak długo trwała?',
-          '<strong>Refleksja:</strong> Rozpoznanie rezonansów emocjonalnych to pierwsza linia obrony przed zmęczeniem empatycznym (compassion fatigue). Zanim nauczysz się „zdejmować" emocje klienta, naucz się je rozpoznawać.'
+          'Podczas rozmowy obserwuj tempo mowy i oddechu rozmówcy.',
+          'Dopasuj własny rytm komunikacji w sposób naturalny i nienachalny.',
+          'Po rozmowie zanotuj swoje odczucia i poziom obciążenia emocjonalnego.'
         ]
       }
     },
-
-    /* ─── Czwartek (4) ─────────────────────────────── */
     {
       day: 4,
       dayName: 'Czwartek',
-      theme: 'Efekt Pigmaliona i siła oczekiwań',
+      theme: 'Siła oczekiwań',
       emoji: '🌱',
-      curiosity: {
-        title: 'Efekt Pigmaliona – oczekiwania, które kształtują rzeczywistość',
-        lead: 'Robert Rosenthal i Lenore Jacobson wykazali w 1968 roku, że uczniowie, od których nauczyciele oczekiwali większych postępów (nawet bezpodstawnie), faktycznie osiągali lepsze wyniki. Oczekiwania stały się samospełniającą przepowiednią.',
-        body: [
-          'Mechanizm jest czterostopniowy: (1) mamy oczekiwanie, (2) zmieniamy zachowanie wobec danej osoby (cieplej, z większą uwagą), (3) ona reaguje na to zmienione zachowanie, (4) co potwierdza nasze oczekiwanie. Cykl zamknięty.',
-          'Dla psychologa i studenta psychologii ten efekt działa w dwie strony. Wobec klientów: wiara w możliwość zmiany (nawet gdy klient w nią nie wierzy) jest aktywnym czynnikiem terapeutycznym. Wobec siebie: jeśli wierzysz, że „nie jesteś wystarczająco dobry/a", twoje zachowanie zacznie to potwierdzać.',
-          'Efekt Pigmaliona w odwrotnym kierunku – tzw. <em>efekt Golema</em> – pokazuje, że niskie oczekiwania wobec siebie lub innych realnie obniżają wyniki. To naukowy argument za pracą nad własnym wewnętrznym krytykiem.'
-        ]
-      },
+      curiosity: curiosityPlaceholder,
       exercise: {
         title: 'List od przyszłego siebie',
         type: 'writing',
         intro: 'Potrzebujesz 15 minut i kartki.',
         steps: [
-          'Napisz krótki list do siebie – ale z perspektywy <em>siebie za 5 lat</em>, który/która osiągnął/osiągnęła ważny cel zawodowy lub osobisty.',
-          'W liście zawrzyj: co tamten „przyszły Ty" wie teraz, czego Ty dziś nie dostrzegasz? Jakiego wsparcia potrzebowałeś/aś na tej drodze? Co okazało się łatwiejsze niż myślałeś/aś?',
-          'Przeczytaj list. Zaznacz jedno zdanie, które najbardziej rezonuje. Wróć do niego wieczorem.',
-          '<strong>Refleksja:</strong> Ćwiczenie aktywuje efekt Pigmaliona skierowany ku sobie – tworzysz żywy obraz kompetentnej wersji siebie, co subtelnie wpływa na dzisiejsze decyzje.'
+          'Napisz list z perspektywy siebie za 5 lat.',
+          'Zaznacz jedno wspierające zdanie, które dziś możesz wdrożyć.',
+          'Wróć do tego zdania wieczorem i oceń jego wpływ na decyzje.'
         ]
       }
     },
-
-    /* ─── Piątek (5) ──────────────────────────────── */
     {
       day: 5,
       dayName: 'Piątek',
-      theme: 'Sieć trybu domyślnego i moc nicnierobienia',
+      theme: 'Regeneracja poznawcza',
       emoji: '🌊',
-      curiosity: {
-        title: 'Sieć trybu domyślnego – mózg, który pracuje na „biegu jałowym"',
-        lead: 'Marcus Raichle odkrył, że mózg wcale nie „wypoczywa" gdy nie wykonujemy zadania. Uruchamia się wtedy sieć trybu domyślnego (default mode network, DMN) – i to właśnie wtedy zachodzą procesy kluczowe dla zdrowia psychicznego.',
-        body: [
-          'DMN jest aktywna podczas błądzenia myślami, fantazjowania, przetwarzania wspomnień i wyobrażania przyszłości. Badania wykazały, że właśnie wtedy mózg konsoliduje wiedzę, przetwarza emocjonalne doświadczenia i buduje spójne poczucie tożsamości.',
-          'Paradoks naszych czasów: ciągła stymulacja (smartfon, podcast, powiadomienia) skutecznie blokuje DMN. Studenci psychologii i psychologowie, którzy nie dają sobie czasu na „nicnierobienie", mogą odczuwać chroniczne wyczerpanie właśnie dlatego, że ich mózg nigdy nie dostaje przestrzeni do przetwarzania.',
-          'Dobra wiadomość: 20–30 minut dziennie bez bodźców zewnętrznych wystarczy, by DMN mogła zrobić swoje. To nie lenistwo – to higiena neurologiczna.'
-        ]
-      },
+      curiosity: curiosityPlaceholder,
       exercise: {
         title: 'Dwadzieścia minut bez ekranu',
         type: 'mindfulness',
-        intro: 'Koniec tygodnia pracy – czas dać mózgowi oddech.',
+        intro: 'Koniec tygodnia pracy – czas na reset układu nerwowego.',
         steps: [
-          'Odłóż telefon, wyłącz muzykę i powiadomienia. Ustaw timer na 20 minut.',
-          'Wyjdź na spacer lub usiądź przy oknie. Nie masz zadania. Możesz obserwować, rozmyślać lub po prostu być. Opór, który poczujesz po kilku minutach, jest normalny.',
-          'Nie oceniaj, o czym myślisz. Nie planuj celowo. Pozwól umysłowi wędrować.',
-          'Po 20 minutach zapisz jedno zdanie: co się pojawiło? Jakiś niezwiązany pomysł? Dawna myśl? Rozwiązanie problemu?',
-          '<strong>Refleksja:</strong> Wiele przełomowych obserwacji klinicznych pochodzi z chwil poza gabinetem. Mózg w trybie domyślnym integruje wiedzę, której świadoma analiza nie dosięgnie.'
+          'Odłóż ekran i ustaw timer na 20 minut.',
+          'Pozwól myślom swobodnie płynąć bez oceniania i planowania.',
+          'Po zakończeniu zapisz jedno najważniejsze spostrzeżenie.'
         ]
       }
     },
-
-    /* ─── Sobota (6) ─────────────────────────────── */
     {
       day: 6,
       dayName: 'Sobota',
-      theme: 'Nastawienie na wzrost i strefa komfortu',
+      theme: 'Nastawienie na wzrost',
       emoji: '🚀',
-      curiosity: {
-        title: 'Growth mindset – mózg lubi się uczyć na błędach, jeśli mu na to pozwolisz',
-        lead: 'Carol Dweck przez dekady badała dwie przekonania o zdolnościach: <em>fixed mindset</em> (zdolności są wrodzone i stałe) i <em>growth mindset</em> (zdolności można rozwijać). Wynik jest jednoznaczny: mindset dosłownie zmienia trajektorię życia.',
-        body: [
-          'Osoby z fixed mindset unikają wyzwań, bo porażka zagraża ich tożsamości („jestem głupy/a"). Osoby z growth mindset traktują porażkę jako dane – informację zwrotną, nie wyrok. Różnica nie leży w inteligencji, lecz w <em>interpretacji trudności</em>.',
-          'Dla psychologów growth mindset jest szczególnie ważny z powodu tzw. <em>syndromu impostora</em> – powszechnego wśród ludzi sukcesu poczucia, że jest się oszustem, który zaraz zostanie zdemaskowany. Badania pokazują, że nawet doświadczeni terapeuci i naukowcy zmagają się z tym przekonaniem.',
-          'Neurobiologicznie: gdy popełniamy błąd i traktujemy go jako lekcję, hipokamp koduje to doświadczenie jako wartościowe. Gdy traktujemy błąd jako zagrożenie, ciało migdałowate blokuje przetwarzanie. Mózg dosłownie uczy się lepiej pod jednym warunkiem: bezpieczeństwa porażki.'
-        ]
-      },
+      curiosity: curiosityPlaceholder,
       exercise: {
-        title: 'Celowo zrób coś, w czym jesteś kiepski/a',
+        title: 'Eksperyment niedoskonałości',
         type: 'challenge',
-        intro: 'To ćwiczenie jest z gatunku „wyjście ze strefy komfortu" – i to jest właśnie jego cel.',
+        intro: 'Ćwiczenie rozwijające tolerancję błędu i uczenie się.',
         steps: [
-          'Wybierz jedną aktywność, w której jesteś słaby/a i która nie zagraża Twojemu bezpieczeństwu (nowy przepis kulinarny, próba taneczna, rysowanie, gra na instrumencie, nowy sport, pisanie wiersza).',
-          'Rób to przez 30 minut. Naprawdę postaraj się – ale bez presji na efekt. Zwróć uwagę: co mówi Twój wewnętrzny krytyk?',
-          'Zatrzymaj się i zapisz: jakie zdania pojawiły się w głowie? <em>„Jestem do niczego"</em> czy <em>„To jest trudne, ale mogę się poprawić"</em>? Skąd pochodzi ten głos?',
-          'Zakończ ćwiczenie z jednym pozytywnym spostrzeżeniem: czego się <em>nauczyłeś/aś</em>, nawet jeśli efekt był słaby?',
-          '<strong>Refleksja:</strong> Sabotażysta wewnętrzny, który pojawia się gdy jesteś kiepski/a w czymś nowym, to ten sam głos, który mówi Twoim klientom, że zmiana jest niemożliwa. Znając go z autopsji, skuteczniej z nim pracujesz w gabinecie.'
+          'Wybierz aktywność, w której jesteś początkujący/a.',
+          'Pracuj przez 30 minut, koncentrując się na informacji zwrotnej.',
+          'Zapisz jedną rzecz, której się nauczyłeś/aś.'
         ]
       }
     },
-         /* ─── Niedziela (0) ────────────────────────────── */
     {
       day: 0,
       dayName: 'Niedziela',
       theme: 'Autonarracja i tożsamość',
       emoji: '🌙',
-      curiosity: {
-        title: 'Narracyjna tożsamość – jesteś historią, którą sobie opowiadasz',
-        lead: 'Dan McAdams wykazał, że tożsamość człowieka nie jest gotową „etykietą", lecz żywą opowieścią – personal myth – którą nieustannie piszemy i przepisujemy.',
-        body: [
-          'Każdy z nas konstruuje wewnętrzną narrację swojego życia: kto jest bohaterem, jakie były zwroty akcji, co nas ukształtowało. Badania McAdamsa pokazują, że osoby psychicznie prężne charakteryzują się historiami z motywem <em>odkupienia</em> – trudne doświadczenia prowadzą do czegoś lepszego – podczas gdy narracje <em>skażenia</em> (dobre zdarzenia kończą się źle) korelują z depresją.',
-          'Dla psychologa ta wiedza jest podwójna: rozumiesz mechanizm klientów, ale równie ważne jest uświadomienie sobie własnej narracji. Jak opowiadasz swój wybór zawodu? Czy jest to historia powołania, ucieczki, czy może wciąż niedomkniętego pytania?'
-        ]
-      },
+      curiosity: curiosityPlaceholder,
       exercise: {
-        title: 'Trzyzdaniowa historia bohatera',
+        title: 'Trzyzdaniowa historia tygodnia',
         type: 'writing',
-        intro: 'Niedziela to dobry czas na refleksję, zanim nowy tydzień nabierze własnej dynamiki.',
+        intro: 'Niedzielna refleksja i domknięcie tygodnia.',
         steps: [
-          'Weź kartkę lub otwórz notatnik. Napisz trzy zdania streszczające swoje życie zawodowe z perspektywy bohatera, który <strong>pokonuje trudności</strong>, a nie ofiary, która im ulega. Zacznij od: <em>„Wybrałem/wybrałam tę drogę, bo…"</em>',
-          'Przeczytaj to, co napisałeś/aś, na głos. Co czujesz? Gdzie brzmi prawdziwie, a gdzie czujesz opór?',
-          'Dopisz jedno zdanie o tym, co chcesz, by znalazło się w tej historii za rok – nie osiągnięcie, lecz jakość: jak chcesz <em>być</em>, nie co chcesz <em>mieć</em>.',
-          '<strong>Refleksja:</strong> Narracja nie jest kłamstwem ani życzeniem – jest soczewką. Zmiana języka, którym opisujesz siebie, realnie zmienia Twoje działania.'
+          'Napisz trzy zdania podsumowujące tydzień z perspektywy sprawczości.',
+          'Wskaż jeden element, który chcesz kontynuować.',
+          'Zapisz jeden priorytet na poniedziałek.'
         ]
       }
     }
   ];
 
-  /* Dodatkowe warianty treści dla każdego dnia tygodnia.
-     Dzięki temu ten sam dzień może prezentować różne materiały przy kolejnych wejściach. */
-  const DAILY_VARIANTS = {
-    1: {
-      curiosity: [{
-        title: 'Błąd atrybucji – jak szybko oceniamy intencje innych',
-        lead: 'Fundamental attribution error sprawia, że cudze zachowania tłumaczymy „charakterem", a własne – sytuacją.',
-        body: [
-          'W praktyce oznacza to, że spóźnionego klienta łatwo uznać za „niezmotywowanego", zamiast zauważyć możliwe obciążenia kontekstowe.',
-          'Świadome zatrzymanie osądu i zadanie pytania o kontekst obniża napięcie relacyjne i poprawia jakość kontaktu.'
-        ]
-      }],
-      exercise: [{
-        title: 'Ćwiczenie: 3 alternatywne wyjaśnienia',
-        type: 'reflection',
-        intro: 'Krótki trening poznawczy na poniedziałkowy start.',
-        steps: [
-          'Wybierz jedną sytuację, która dziś Cię zirytowała.',
-          'Zapisz trzy alternatywne wyjaśnienia zachowania drugiej osoby (bez etykietowania).',
-          'Sprawdź, czy któreś wyjaśnienie obniża poziom napięcia choćby o 10%.'
-        ]
-      }]
-    },
-    2: {
-      curiosity: [{
-        title: 'Nerw błędny i poczucie bezpieczeństwa',
-        lead: 'Teoria poliwagalna podkreśla, że regulacja zaczyna się od sygnałów bezpieczeństwa płynących z ciała.',
-        body: [
-          'Kontakt wzrokowy, spokojny ton głosu i wydłużony wydech aktywują układ sprzyjający współregulacji.',
-          'To dlatego jakość obecności terapeuty bywa równie ważna jak technika.'
-        ]
-      }],
-      exercise: [{
-        title: 'Oddech 4-6 z kotwicą sensoryczną',
-        type: 'mindfulness',
-        intro: 'Mikrointerwencja na przeciążenie poznawcze.',
-        steps: [
-          'Przez 2 minuty oddychaj rytmem 4 sekundy wdechu / 6 sekund wydechu.',
-          'Jednocześnie nazwij 5 rzeczy, które widzisz, 4 które słyszysz i 3 które czujesz dotykiem.',
-          'Oceń poziom pobudzenia przed i po ćwiczeniu.'
-        ]
-      }]
-    },
-    3: {
-      curiosity: [{
-        title: 'Synchronia interpersonalna wzmacnia zaufanie',
-        lead: 'Badania nad synchronią pokazują, że dopasowanie rytmu interakcji zwiększa poczucie bycia rozumianym.',
-        body: [
-          'Nie chodzi o „technikę sprzedażową", lecz o naturalne dostrojenie tempa i pauz.',
-          'Uważna synchronia wspiera przymierze terapeutyczne i redukuje dystans.'
-        ]
-      }],
-      exercise: [{
-        title: 'Aktywne pauzy',
-        type: 'social',
-        intro: 'Ćwiczenie jakości słuchania.',
-        steps: [
-          'W jednej rozmowie celowo wydłuż pauzę o 2 sekundy po wypowiedzi drugiej osoby.',
-          'Nie dopowiadaj od razu – pozwól drugiej stronie rozwinąć myśl.',
-          'Zanotuj, jak zmieniła się głębokość rozmowy.'
-        ]
-      }]
-    },
-    4: {
-      curiosity: [{
-        title: 'Samowspółczucie a skuteczność',
-        lead: 'Kristin Neff pokazała, że samowspółczucie nie obniża ambicji – stabilizuje motywację po porażce.',
-        body: [
-          'Osoby samowspółczujące szybciej wracają do działania, bo nie marnują zasobów na autokrytykę.',
-          'To szczególnie ważne w zawodach pomocowych, gdzie perfekcjonizm bywa normą.'
-        ]
-      }],
-      exercise: [{
-        title: 'Przeramowanie krytyka',
-        type: 'writing',
-        intro: 'Krótki zapis poznawczo-emocjonalny.',
-        steps: [
-          'Zapisz jedno samokrytyczne zdanie, które dziś się pojawiło.',
-          'Przepisz je w wersji wspierającej, ale realistycznej.',
-          'Dopisz mikro-krok, który wykonasz jeszcze dziś.'
-        ]
-      }]
-    },
-    5: {
-      curiosity: [{
-        title: 'Mikroodpoczynek chroni funkcje wykonawcze',
-        lead: 'Krótkie przerwy regeneracyjne (2–5 minut) mogą poprawiać koncentrację i jakość decyzji.',
-        body: [
-          'To nie strata czasu: mózg odzyskuje zdolność hamowania impulsów i planowania.',
-          'W praktyce klinicznej przekłada się to na lepszą obecność i mniej automatyzmów.'
-        ]
-      }],
-      exercise: [{
-        title: 'Protokół 3x3',
-        type: 'challenge',
-        intro: 'Szybka regeneracja pod koniec tygodnia.',
-        steps: [
-          '3 minuty: odejdź od ekranu i rozluźnij barki.',
-          '3 minuty: spokojny marsz lub rozciąganie.',
-          '3 minuty: zapis jednej najważniejszej myśli z tygodnia.'
-        ]
-      }]
-    },
-    6: {
-      curiosity: [{
-        title: 'Efekt nowicjusza i uczenie się',
-        lead: 'Początkujący częściej popełniają błędy, ale szybciej kalibrują strategie, gdy mają bezpieczne warunki.',
-        body: [
-          'Uczenie się przyspiesza, gdy skupiamy się na informacji zwrotnej zamiast na autoprezentacji.',
-          'To dobra przeciwwaga dla „muszę wypaść idealnie".'
-        ]
-      }],
-      exercise: [{
-        title: 'Eksperyment „pierwszej wersji”',
-        type: 'creative',
-        intro: 'Weekendowy trening tolerancji niedoskonałości.',
-        steps: [
-          'Wykonaj celowo niedoskonałą „wersję 1.0” dowolnego zadania twórczego.',
-          'Po 20 minutach zatrzymaj się i wypisz 3 rzeczy, które już działają.',
-          'Dopiero potem nanieś jedną poprawkę.'
-        ]
-      }]
-    },
-    0: {
-      curiosity: [{
-        title: 'Bilans tygodnia a dobrostan',
-        lead: 'Krótka autorefleksja pod koniec tygodnia zwiększa poczucie sprawczości i sensu.',
-        body: [
-          'Systematyczne domykanie tygodnia porządkuje pamięć epizodyczną i redukuje przeciążenie.',
-          'To prosty rytuał, który wspiera odporność psychiczną.'
-        ]
-      }],
-      exercise: [{
-        title: 'Niedzielny reset 3 pól',
-        type: 'reflection',
-        intro: 'Domknięcie tygodnia i przygotowanie poniedziałku.',
-        steps: [
-          'Pole 1: Co było najważniejsze w mijającym tygodniu?',
-          'Pole 2: Co chcę odpuścić w kolejnym?',
-          'Pole 3: Jaki jeden priorytet ustawiam na poniedziałek?'
-        ]
-      }]
-    }
-  };
-
-  /* Łączymy podstawowy materiał z wariantami, zachowując kompatybilność starego API. */
-  const DAILY_PSYCHOLOGY_ENRICHED = DAILY_PSYCHOLOGY.map(entry => {
-    const variants = DAILY_VARIANTS[entry.day] || {};
-    return {
-      ...entry,
-      curiosityVariants: [entry.curiosity, ...(variants.curiosity || [])],
-      exerciseVariants: [entry.exercise, ...(variants.exercise || [])]
-    };
-  });
+  const DAILY_PSYCHOLOGY_ENRICHED = DAILY_PSYCHOLOGY.map((entry) => ({
+    ...entry,
+    curiosityVariants: [],
+    exerciseVariants: [entry.exercise]
+  }));
 
   window.DAILY_PSYCHOLOGY = DAILY_PSYCHOLOGY_ENRICHED;
 }());

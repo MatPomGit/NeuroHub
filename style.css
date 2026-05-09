@@ -988,3 +988,52 @@ em{color:var(--goldl)}
     transform:none;
   }
 }
+
+/* Link pomijania nawigacji poprawia dostępność dla użytkowników klawiatury i czytników ekranu. */
+.skip-link{
+  position:fixed;
+  top:10px;
+  left:10px;
+  transform:translateY(-180%);
+  background:var(--gold);
+  color:#111;
+  padding:.45rem .7rem;
+  border-radius:8px;
+  font-weight:700;
+  z-index:1200;
+}
+.skip-link:focus-visible{transform:translateY(0);}
+
+/* Panel sterowania syntezą mowy zapewnia prostą obsługę czytania treści artykułu. */
+.speech-controls{display:flex;align-items:center;gap:.35rem;margin-left:.75rem;}
+.speech-btn{
+  border:1px solid var(--border);
+  background:var(--bg3);
+  color:var(--t2);
+  border-radius:8px;
+  padding:.3rem .55rem;
+  font-size:.68rem;
+  font-weight:600;
+  cursor:pointer;
+}
+.speech-btn:hover{border-color:var(--gold);color:var(--t1)}
+.speech-btn.is-active{background:var(--goldt);border-color:rgba(201,162,39,.45);color:var(--gold)}
+
+@media (max-width: 900px){
+  /* Na mobile sterowanie czytaniem jest przypięte i łatwo dostępne pod kciukiem. */
+  .speech-controls{
+    position:fixed;
+    left:10px;
+    right:10px;
+    bottom:10px;
+    margin-left:0;
+    padding:.45rem;
+    border:1px solid var(--border);
+    border-radius:10px;
+    background:color-mix(in srgb, var(--bg2) 90%, transparent);
+    backdrop-filter:blur(8px);
+    z-index:600;
+    justify-content:space-between;
+  }
+  .speech-btn{font-size:.72rem;flex:1;}
+}

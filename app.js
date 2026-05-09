@@ -2050,6 +2050,130 @@ function addKeywordLinksToRenderedArticle(container, currentId) {
   });
 }
 
+
+/* ── Dostępność: czytanie treści na głos (Web Speech API) ───────────── */
+const speechState = {
+  synth: window.speechSynthesis || null,
+  utterance: null,
+  isSpeaking: false,
+  autoNext: localStorage.getItem('psyhub-speech-auto-next') === '1',
+};
+
+/* Zbiera czytelny tekst z głównego kontenera treści, pomijając elementy nawigacyjne i dekoracyjne. */
+function getReadableContentText() {
+  const content = document.getElementById('content');
+  if (!content) return '';
+  const clone = content.cloneNode(true);
+  clone.querySelectorAll('script, style, nav, .article-nav, .pnav, .toc').forEach(node => node.remove());
+  return (clone.textContent || '').replace(/\s+/g, ' ').trim();
+}
+
+/* Synchronizuje stan wizualny i ARIA przycisków czytania, aby poprawnie komunikować aktywność. */
+function updateSpeechButtonState(isSpeaking) {
+  const toggleBtn = document.getElementById('speechToggle');
+  if (!toggleBtn) return;
+  toggleBtn.classList.toggle('is-active', isSpeaking);
+  toggleBtn.setAttribute('aria-pressed', isSpeaking ? 'true' : 'false');
+  toggleBtn.setAttribute('aria-label', isSpeaking ? 'Wstrzymaj czytanie bieżącego artykułu' : 'Rozpocznij czytanie bieżącego artykułu');
+  toggleBtn.textContent = isSpeaking ? '⏸ Pauza czytania' : '▶ Czytaj artykuł';
+}
+
+/* Aktualizuje przycisk automatycznego przejścia do kolejnego artykułu po zakończeniu odczytu. */
+function updateAutoNextButtonState() {
+  const autoNextBtn = document.getElementById('speechAutoNext');
+  if (!autoNextBtn) return;
+  autoNextBtn.classList.toggle('is-active', speechState.autoNext);
+  autoNextBtn.setAttribute('aria-pressed', speechState.autoNext ? 'true' : 'false');
+  autoNextBtn.setAttribute('aria-label', speechState.autoNext
+    ? 'Automatyczne przejście do kolejnego artykułu włączone'
+    : 'Automatyczne przejście do kolejnego artykułu wyłączone');
+  autoNextBtn.textContent = speechState.autoNext ? 'Auto-next: ON' : 'Auto-next: OFF';
+}
+
+/* Zatrzymuje syntezę mowy i resetuje lokalny stan czytania. */
+function stopReadingContent() {
+  if (!speechState.synth) return;
+  speechState.isSpeaking = false;
+  speechState.synth.cancel();
+  speechState.utterance = null;
+  updateSpeechButtonState(false);
+}
+
+/* Inicjalizuje obsługę syntezy mowy dla bieżącej treści artykułu. */
+function setupSpeechControls() {
+  const toggleBtn = document.getElementById('speechToggle');
+  const stopBtn = document.getElementById('speechStop');
+  const autoNextBtn = document.getElementById('speechAutoNext');
+  if (!toggleBtn || !stopBtn || !autoNextBtn) return;
+
+  if (!speechState.synth || typeof SpeechSynthesisUtterance === 'undefined') {
+    toggleBtn.disabled = true;
+    stopBtn.disabled = true;
+    autoNextBtn.disabled = true;
+    toggleBtn.title = 'Przeglądarka nie wspiera syntezy mowy';
+    return;
+  }
+
+  updateAutoNextButtonState();
+
+  toggleBtn.addEventListener('click', () => {
+    if (speechState.isSpeaking) {
+      speechState.synth.pause();
+      speechState.isSpeaking = false;
+      updateSpeechButtonState(false);
+      return;
+    }
+
+    if (speechState.synth.paused) {
+      speechState.synth.resume();
+      speechState.isSpeaking = true;
+      updateSpeechButtonState(true);
+      return;
+    }
+
+    const text = getReadableContentText();
+    if (!text) return;
+
+    const utterance = new SpeechSynthesisUtterance(text);
+    utterance.lang = document.documentElement.lang || 'pl-PL';
+    utterance.rate = 1;
+    utterance.pitch = 1;
+
+    utterance.onstart = () => {
+      speechState.isSpeaking = true;
+      updateSpeechButtonState(true);
+    };
+    utterance.onend = () => {
+      speechState.isSpeaking = false;
+      speechState.utterance = null;
+      updateSpeechButtonState(false);
+
+      /* Po zakończeniu odczytu opcjonalnie przechodzimy dalej, jeśli istnieje kolejny artykuł. */
+      if (speechState.autoNext && current) {
+        const { next } = prevNext(current);
+        if (next?.id) window.setTimeout(() => navigate(next.id), 550);
+      }
+    };
+    utterance.onerror = () => {
+      speechState.isSpeaking = false;
+      speechState.utterance = null;
+      updateSpeechButtonState(false);
+    };
+
+    speechState.utterance = utterance;
+    speechState.synth.cancel();
+    speechState.synth.speak(utterance);
+  });
+
+  stopBtn.addEventListener('click', stopReadingContent);
+  autoNextBtn.addEventListener('click', () => {
+    speechState.autoNext = !speechState.autoNext;
+    localStorage.setItem('psyhub-speech-auto-next', speechState.autoNext ? '1' : '0');
+    updateAutoNextButtonState();
+  });
+  window.addEventListener('hashchange', stopReadingContent);
+}
+
 /* ── Sidebar mobile ────────────────────────── */
 function openSidebar()  { document.getElementById('sidebar').classList.add('open');  document.getElementById('overlay').classList.add('open'); }
 function closeSidebar() { document.getElementById('sidebar').classList.remove('open'); document.getElementById('overlay').classList.remove('open'); }
@@ -2336,6 +2460,7 @@ window.addEventListener('DOMContentLoaded', ()=>{
   void applySearchUi();
   void ensureFullTextSearchIndex();
   setupGlobalInteractions();
+  setupSpeechControls();
   void initMobilePsychologyReminders();
   animateSidebar();
   const { pageId } = parseRouteHash(window.location.hash);

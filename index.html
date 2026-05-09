@@ -26,6 +26,7 @@
   <script src="seo-runtime.js" defer></script>
 </head>
 <body>
+<a class="skip-link" href="#content">Przejdź do treści głównej</a>
 
 <!-- ══ SIDEBAR ══════════════════════════════ -->
 <aside class="sidebar" id="sidebar">
@@ -88,9 +89,14 @@
       <a href="#" id="breadcrumbHomeLink">PsyHub</a>
     </nav>
     <div class="topbar-next" id="topbarNextStep" aria-live="polite"></div>
+    <div class="speech-controls" aria-label="Czytanie treści na głos">
+      <button type="button" class="speech-btn" id="speechToggle" aria-pressed="false" aria-label="Rozpocznij czytanie bieżącego artykułu" title="Rozpocznij czytanie artykułu">▶ Czytaj artykuł</button>
+      <button type="button" class="speech-btn" id="speechStop" aria-label="Zatrzymaj czytanie" title="Zatrzymaj czytanie artykułu">■ Stop</button>
+      <button type="button" class="speech-btn" id="speechAutoNext" aria-pressed="false" aria-label="Automatyczne przejście do kolejnego artykułu wyłączone" title="Automatyczne przejście do kolejnego artykułu">Auto-next: OFF</button>
+    </div>
   </header>
 
-  <section class="content" id="content" aria-live="polite">
+  <section class="content" id="content" aria-live="polite" tabindex="-1">
     <div class="loading"><div class="spinner"></div>Ładowanie…</div>
   </section>
 </main>

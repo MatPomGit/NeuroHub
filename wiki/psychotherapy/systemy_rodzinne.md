@@ -1,6 +1,6 @@
 ---
 lastReviewed: 2026-04-20
-reviewCycleMonths: 24
+reviewCycleMonths: 12
 evidenceCutoffDate: 2026-03-31
 ---
 
@@ -30,6 +30,10 @@ Rodziny o granicach rozmytych mogą doświadczać nadmiernego uwikłania i trudn
 ### 3. Dziedziczenie wzorców międzypokoleniowych
 
 Badania nad przekazem transgeneracyjnym pokazują, że style przywiązania, sposoby regulacji emocji i strategie rozwiązywania konfliktów mogą być wzmacniane przez modelowanie społeczne i uczenie relacyjne.
+
+### 4. Granice zakresu względem terapii systemowej
+
+Aby ograniczyć duplikację treści, ten artykuł koncentruje się na **mechanice relacji rodzinnych** (role, granice, sprzężenia zwrotne, triangulacja). Z kolei artykuł `psychotherapy/systemowa` pełni funkcję przeglądu szkół i technik terapii systemowej w szerszym ujęciu (para, rodzina, kontekst instytucjonalny). Taki podział porządkuje materiał: tutaj odpowiadamy na pytanie „jak działa system rodzinny”, a w tekście przekrojowym — „jakie są główne nurty i narzędzia interwencji systemowej”.
 
 ## Dobra praktyka
 

@@ -1,6 +1,6 @@
 ---
 lastReviewed: 2026-04-20
-reviewCycleMonths: 24
+reviewCycleMonths: 12
 evidenceCutoffDate: 2026-03-31
 ---
 
@@ -30,6 +30,10 @@ Interocepcja (odczuwanie stanów wewnętrznych) i propriocepcja (czucie pozycji 
 ### 3. Znaczenie tempa terapii
 
 W SE tempo interwencji jest kluczowe. Zbyt szybka aktywacja może nasilić dysocjację lub lęk, natomiast zbyt wolna — utrwalać unikanie. Dlatego terapeuta stale kalibruje poziom obciążenia, łącząc pracę z ciałem i krótkie elementy narracyjne.
+
+### 4. Aktualność źródeł i granice dowodów
+
+W obszarze terapii traumy baza badań szybko się rozwija, dlatego wnioski praktyczne powinny być cyklicznie rewidowane. W tym artykule utrzymano równowagę między literaturą klasyczną i nowszymi opracowaniami, ale rekomendowane jest okresowe sprawdzanie nowych metaanaliz oraz badań porównawczych dotyczących skuteczności i bezpieczeństwa interwencji somatycznych.
 
 ## Dobra praktyka
 

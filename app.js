@@ -2234,8 +2234,24 @@ window.addEventListener('DOMContentLoaded', ()=>{
   const THEMES = [DEFAULT_THEME, 'light', 'sepia'];
   const stored = localStorage.getItem('psyhub-theme') || DEFAULT_THEME;
   const active  = THEMES.includes(stored) ? stored : DEFAULT_THEME;
+  const DEFAULT_FONT_SCALE = 'normal';
+  const FONT_SCALES = [DEFAULT_FONT_SCALE, 'large', 'xlarge'];
+  const storedFontScale = localStorage.getItem('psyhub-font-scale') || DEFAULT_FONT_SCALE;
+  const activeFontScale = FONT_SCALES.includes(storedFontScale) ? storedFontScale : DEFAULT_FONT_SCALE;
 
   function themeAttr(theme) { return theme === DEFAULT_THEME ? '' : theme; }
+  /* Ustawia atrybut skali czcionki i zapamiętuje wybór użytkownika w localStorage. */
+  function applyFontScale(scale) {
+    if (scale === DEFAULT_FONT_SCALE) {
+      delete document.documentElement.dataset.fontScale;
+    } else {
+      document.documentElement.dataset.fontScale = scale;
+    }
+    document.querySelectorAll('.font-btn').forEach(btn => {
+      btn.classList.toggle('is-active', btn.dataset.fontScale === scale);
+    });
+    localStorage.setItem('psyhub-font-scale', scale);
+  }
 
   function applyTheme(theme) {
     document.documentElement.dataset.theme = themeAttr(theme);
@@ -2247,12 +2263,20 @@ window.addEventListener('DOMContentLoaded', ()=>{
 
   // Apply immediately (before DOMContentLoaded to avoid flash)
   document.documentElement.dataset.theme = themeAttr(active);
+  if (activeFontScale !== DEFAULT_FONT_SCALE) {
+    document.documentElement.dataset.fontScale = activeFontScale;
+  }
 
   window.addEventListener('DOMContentLoaded', () => {
     // Sync button states
     document.querySelectorAll('.theme-btn').forEach(btn => {
       btn.classList.toggle('is-active', btn.dataset.theme === active);
       btn.addEventListener('click', () => applyTheme(btn.dataset.theme));
+    });
+    /* Rejestruje zmianę wielkości czcionki i odtwarza aktywny stan przycisków. */
+    document.querySelectorAll('.font-btn').forEach(btn => {
+      btn.classList.toggle('is-active', btn.dataset.fontScale === activeFontScale);
+      btn.addEventListener('click', () => applyFontScale(btn.dataset.fontScale));
     });
   });
 })();

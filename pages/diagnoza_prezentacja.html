@@ -1,0 +1,860 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Diagnoza psychologiczna – prezentacja wyników</title>
+  <style>
+    :root {
+      --bg: #0f172a;
+      --panel: #111827;
+      --panel-light: #1e293b;
+      --accent: #38bdf8;
+      --accent-2: #818cf8;
+      --text: #e5e7eb;
+      --muted: #94a3b8;
+      --success: #22c55e;
+      --warning: #f59e0b;
+      --danger: #ef4444;
+      --border: rgba(255,255,255,0.08);
+      --shadow: 0 10px 30px rgba(0,0,0,0.35);
+      --radius: 22px;
+    }
+
+    * {
+      box-sizing: border-box;
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      font-family: Inter, Arial, sans-serif;
+      background: linear-gradient(180deg, #020617 0%, #0f172a 100%);
+      color: var(--text);
+      line-height: 1.7;
+    }
+
+    .hero {
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 60px 24px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .hero::before,
+    .hero::after {
+      content: "";
+      position: absolute;
+      width: 500px;
+      height: 500px;
+      border-radius: 50%;
+      filter: blur(90px);
+      opacity: 0.25;
+    }
+
+    .hero::before {
+      background: var(--accent);
+      top: -120px;
+      left: -100px;
+    }
+
+    .hero::after {
+      background: var(--accent-2);
+      bottom: -150px;
+      right: -120px;
+    }
+
+    .hero-content {
+      position: relative;
+      z-index: 2;
+      max-width: 1100px;
+      width: 100%;
+      display: grid;
+      grid-template-columns: 1.3fr 0.7fr;
+      gap: 40px;
+      align-items: center;
+    }
+
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      background: rgba(56, 189, 248, 0.12);
+      color: var(--accent);
+      border: 1px solid rgba(56, 189, 248, 0.25);
+      padding: 10px 18px;
+      border-radius: 999px;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+
+    h1 {
+      font-size: clamp(2.8rem, 5vw, 5rem);
+      line-height: 1.05;
+      margin: 0 0 20px;
+    }
+
+    .lead {
+      color: var(--muted);
+      font-size: 1.15rem;
+      max-width: 720px;
+    }
+
+    .authors {
+      margin-top: 30px;
+      color: #cbd5e1;
+      font-weight: 600;
+    }
+
+    .quick-nav {
+      background: rgba(15, 23, 42, 0.75);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 28px;
+      backdrop-filter: blur(10px);
+      box-shadow: var(--shadow);
+    }
+
+    .quick-nav h3 {
+      margin-top: 0;
+      margin-bottom: 20px;
+      font-size: 1.2rem;
+    }
+
+    .quick-nav a {
+      display: block;
+      color: var(--text);
+      text-decoration: none;
+      padding: 12px 14px;
+      border-radius: 12px;
+      margin-bottom: 10px;
+      background: rgba(255,255,255,0.03);
+      transition: 0.2s ease;
+      border: 1px solid transparent;
+    }
+
+    .quick-nav a:hover {
+      transform: translateX(6px);
+      border-color: rgba(56, 189, 248, 0.3);
+      background: rgba(56, 189, 248, 0.08);
+    }
+
+    main {
+      max-width: 1300px;
+      margin: auto;
+      padding: 40px 24px 120px;
+    }
+
+    section {
+      margin-bottom: 42px;
+      background: rgba(17, 24, 39, 0.82);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 40px;
+      backdrop-filter: blur(10px);
+      box-shadow: var(--shadow);
+    }
+
+    section h2 {
+      font-size: 2rem;
+      margin-top: 0;
+      margin-bottom: 24px;
+    }
+
+    .section-subtitle {
+      color: var(--muted);
+      margin-bottom: 30px;
+      max-width: 900px;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+    }
+
+    .card {
+      background: linear-gradient(180deg, rgba(30,41,59,0.95), rgba(15,23,42,0.95));
+      border: 1px solid var(--border);
+      border-radius: 18px;
+      padding: 24px;
+    }
+
+    .card h3 {
+      margin-top: 0;
+      color: #f8fafc;
+    }
+
+    ul {
+      padding-left: 20px;
+    }
+
+    li {
+      margin-bottom: 10px;
+    }
+
+    .timeline {
+      position: relative;
+      padding-left: 30px;
+    }
+
+    .timeline::before {
+      content: "";
+      position: absolute;
+      left: 8px;
+      top: 0;
+      bottom: 0;
+      width: 3px;
+      background: linear-gradient(var(--accent), var(--accent-2));
+    }
+
+    .timeline-item {
+      position: relative;
+      margin-bottom: 32px;
+      padding-left: 22px;
+    }
+
+    .timeline-item::before {
+      content: "";
+      position: absolute;
+      left: -2px;
+      top: 7px;
+      width: 16px;
+      height: 16px;
+      border-radius: 50%;
+      background: var(--accent);
+      box-shadow: 0 0 0 6px rgba(56,189,248,0.15);
+    }
+
+    .tag-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-top: 16px;
+    }
+
+    .tag {
+      background: rgba(129,140,248,0.15);
+      border: 1px solid rgba(129,140,248,0.3);
+      color: #c7d2fe;
+      padding: 10px 14px;
+      border-radius: 999px;
+      font-size: 0.9rem;
+    }
+
+    .quote {
+      border-left: 4px solid var(--accent);
+      padding: 20px;
+      background: rgba(56,189,248,0.08);
+      border-radius: 0 14px 14px 0;
+      margin-top: 24px;
+      color: #dbeafe;
+    }
+
+    .diagnosis-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 20px;
+    }
+
+    .diagnosis-box {
+      padding: 22px;
+      border-radius: 18px;
+      background: rgba(255,255,255,0.03);
+      border: 1px solid var(--border);
+    }
+
+    .score {
+      font-size: 2.4rem;
+      font-weight: 800;
+      margin: 14px 0;
+    }
+
+    .success { color: var(--success); }
+    .warning { color: var(--warning); }
+    .danger { color: var(--danger); }
+
+    .process {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 18px;
+    }
+
+    .process-step {
+      padding: 22px;
+      border-radius: 16px;
+      background: rgba(255,255,255,0.03);
+      border: 1px solid var(--border);
+      position: relative;
+      overflow: hidden;
+    }
+
+    .process-step span {
+      font-size: 3rem;
+      font-weight: 900;
+      opacity: 0.15;
+      position: absolute;
+      right: 16px;
+      top: 8px;
+    }
+
+    .recommendation {
+      border-left: 5px solid var(--accent-2);
+      padding: 20px 24px;
+      background: rgba(129,140,248,0.08);
+      border-radius: 0 16px 16px 0;
+      margin-bottom: 20px;
+    }
+
+    .footer {
+      text-align: center;
+      color: var(--muted);
+      padding: 50px 20px 70px;
+    }
+
+    @media (max-width: 900px) {
+      .hero-content {
+        grid-template-columns: 1fr;
+      }
+
+      section {
+        padding: 28px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header class="hero">
+    <div class="hero-content">
+      <div>
+        <div class="badge">Diagnoza psychologiczna · wywiad diagnostyczny</div>
+        <h1>Prezentacja wyników badania psychologicznego</h1>
+        <p class="lead">
+          Interaktywna prezentacja wyników wywiadu diagnostycznego obejmującego analizę kliniczną,
+          kodowanie CBT, wyniki SCID-V-SD oraz hipotezę diagnostyczną dotyczącą funkcjonowania osoby badanej.
+        </p>
+        <div class="authors">
+          Katarzyna Estkowska · Agnieszka Szymańska · Anna Łężniak-Seruga · Mateusz Pomianek<br />
+          Uniwersytet Vizja · 2026
+        </div>
+      </div>
+
+      <nav class="quick-nav">
+        <h3>Plan prezentacji</h3>
+        <a href="#metodologia">Cel i metodologia badania</a>
+        <a href="#osoba">Charakterystyka osoby badanej</a>
+        <a href="#wywiad">Przebieg wywiadu</a>
+        <a href="#cbt">Analiza CBT</a>
+        <a href="#obszary">Obszary diagnostyczne</a>
+        <a href="#scid">SCID-V-SD</a>
+        <a href="#profil">Profil kliniczny</a>
+        <a href="#hipoteza">Hipoteza diagnostyczna</a>
+        <a href="#rekomendacje">Rekomendacje terapeutyczne</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section id="metodologia">
+      <h2>Cel i metodologia badania</h2>
+      <p class="section-subtitle">
+        Badanie miało charakter diagnostyczno-dydaktyczny i koncentrowało się na analizie funkcjonowania psychospołecznego pacjentki oraz formułowaniu hipotez klinicznych.
+      </p>
+
+      <div class="grid">
+        <div class="card">
+          <h3>Cel badania</h3>
+          <ul>
+            <li>Zebranie danych diagnostycznych</li>
+            <li>Ocena funkcjonowania psychospołecznego</li>
+            <li>Formułowanie hipotez klinicznych</li>
+            <li>Doskonalenie kompetencji diagnostycznych</li>
+          </ul>
+        </div>
+
+        <div class="card">
+          <h3>Narzędzia</h3>
+          <ul>
+            <li>Wywiad kliniczny ustrukturyzowany</li>
+            <li>Obserwacja behawioralna</li>
+            <li>SCID-V-SD</li>
+            <li>Kodowanie CBT</li>
+          </ul>
+        </div>
+
+        <div class="card">
+          <h3>Parametry sesji</h3>
+          <ul>
+            <li>Wywiad: 23 minuty</li>
+            <li>SCID-V-SD: około 30 minut</li>
+            <li>Kontekst: zaliczenie akademickie</li>
+            <li>Anonimowość zachowana</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="tag-list">
+        <div class="tag">EMO – emocje</div>
+        <div class="tag">COG – poznania</div>
+        <div class="tag">BEH – zachowania</div>
+        <div class="tag">SOM – reakcje somatyczne</div>
+        <div class="tag">REL – relacje</div>
+        <div class="tag">DIST – zniekształcenia poznawcze</div>
+        <div class="tag">DEF – mechanizmy obronne</div>
+      </div>
+    </section>
+
+    <section id="osoba">
+      <h2>Charakterystyka osoby badanej</h2>
+
+      <div class="grid">
+        <div class="card">
+          <h3>Dane podstawowe</h3>
+          <ul>
+            <li>Kobieta, 41 lat</li>
+            <li>Zamężna</li>
+            <li>Jedno dziecko – syn Piotr</li>
+            <li>Pracuje jako sekretarka w poradni psychologiczno-pedagogicznej</li>
+          </ul>
+        </div>
+
+        <div class="card">
+          <h3>Zgłaszane trudności</h3>
+          <ul>
+            <li>Stres w kontakcie z klientami</li>
+            <li>Konflikty z synem</li>
+            <li>Poczucie przeciążenia rolami</li>
+            <li>Brak czasu dla siebie</li>
+          </ul>
+        </div>
+
+        <div class="card">
+          <h3>Zasoby</h3>
+          <ul>
+            <li>Dobre relacje zawodowe</li>
+            <li>Humor jako strategia radzenia sobie</li>
+            <li>Motywacja do zmiany</li>
+            <li>Wspólne aktywności z synem</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="quote">
+        Styl wypowiedzi pacjentki ewoluował od krótkich i chaotycznych zdań do bardziej otwartej narracji. Widoczne było unikanie części tematów dotyczących relacji małżeńskiej.
+      </div>
+    </section>
+
+    <section id="wywiad">
+      <h2>Przebieg wywiadu diagnostycznego</h2>
+
+      <div class="timeline">
+        <div class="timeline-item">
+          <h3>Otwarcie i kontrakt</h3>
+          <p>Wyjaśnienie celu badania, uzyskanie zgody na nagranie oraz ustanowienie bezpiecznych ram diagnostycznych.</p>
+        </div>
+
+        <div class="timeline-item">
+          <h3>Eksploracja pracy</h3>
+          <p>Analiza stresu zawodowego, relacji z klientami oraz pierwsze oznaczanie kategorii emocjonalnych i behawioralnych.</p>
+        </div>
+
+        <div class="timeline-item">
+          <h3>Obszar rodzinny</h3>
+          <p>Eksploracja relacji z synem, mężem i matką wraz z analizą wzorców komunikacyjnych.</p>
+        </div>
+
+        <div class="timeline-item">
+          <h3>Tożsamość i zasoby</h3>
+          <p>Pytania dotyczące potrzeb własnych, wzorców rodzinnych oraz sposobów regulacji emocji.</p>
+        </div>
+
+        <div class="timeline-item">
+          <h3>Zamknięcie</h3>
+          <p>Podsumowanie rozmowy oraz utrwalenie poczucia bezpieczeństwa i dobrowolności udziału.</p>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Zastosowane techniki rozmowy</h2>
+
+      <div class="process">
+        <div class="process-step">
+          <span>01</span>
+          <h3>Facylitacja</h3>
+          <p>Podtrzymywanie kontaktu i zachęcanie do rozwijania wypowiedzi.</p>
+        </div>
+
+        <div class="process-step">
+          <span>02</span>
+          <h3>Parafraza</h3>
+          <p>Odzwierciedlenie treści wypowiedzi i weryfikacja rozumienia.</p>
+        </div>
+
+        <div class="process-step">
+          <span>03</span>
+          <h3>Odzwierciedlenie emocji</h3>
+          <p>Walidacja przeżyć emocjonalnych i budowanie przymierza terapeutycznego.</p>
+        </div>
+
+        <div class="process-step">
+          <span>04</span>
+          <h3>Sondowanie i klaryfikacja</h3>
+          <p>Pogłębianie i doprecyzowywanie kluczowych obszarów diagnostycznych.</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="cbt">
+      <h2>Analiza CBT i kodowanie wieloetykietowe</h2>
+
+      <div class="quote">
+        „Kilka razy Piotrek, Piotrek, a potem już zaczyna wszystko we mnie buzować…”
+      </div>
+
+      <div class="diagnosis-grid" style="margin-top: 28px;">
+        <div class="diagnosis-box">
+          <h3>BEH</h3>
+          <p>Eskalacja konfliktu i reakcje impulsywne.</p>
+        </div>
+
+        <div class="diagnosis-box">
+          <h3>EMO</h3>
+          <p>Frustracja, złość i poczucie bezsilności.</p>
+        </div>
+
+        <div class="diagnosis-box">
+          <h3>COG</h3>
+          <p>Przekonanie o nieskuteczności metod wychowawczych.</p>
+        </div>
+
+        <div class="diagnosis-box">
+          <h3>REL</h3>
+          <p>Manipulacja emocjonalna i konfliktowe wzorce relacyjne.</p>
+        </div>
+
+        <div class="diagnosis-box">
+          <h3>DIST</h3>
+          <p>Katastrofizacja i przewidywanie konfliktu.</p>
+        </div>
+
+        <div class="diagnosis-box">
+          <h3>DEF</h3>
+          <p>Separacja jako krótkoterminowa strategia redukcji napięcia.</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="obszary">
+      <h2>Kluczowe obszary diagnostyczne</h2>
+
+      <div class="grid">
+        <div class="card">
+          <h3>Sfera zawodowa</h3>
+          <ul>
+            <li>Lęk przed roszczeniowymi klientami</li>
+            <li>Somatyzacja stresu</li>
+            <li>Przeciążenie poznawcze</li>
+            <li>Humor jako strategia regulacji napięcia</li>
+          </ul>
+        </div>
+
+        <div class="card">
+          <h3>Relacja z synem</h3>
+          <ul>
+            <li>Błędne koło konfliktu</li>
+            <li>Katastrofizacja skutków stawiania granic</li>
+            <li>Fuzja emocjonalna</li>
+            <li>Wspólne aktywności jako zasób relacyjny</li>
+          </ul>
+        </div>
+
+        <div class="card">
+          <h3>Relacja z mężem i matką</h3>
+          <ul>
+            <li>Eskalacja konfliktów</li>
+            <li>Nierówny podział obowiązków</li>
+            <li>Szantaż emocjonalny</li>
+            <li>Powielanie wzorców podporządkowania</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section id="scid">
+      <h2>Wyniki testu SCID-V-SD</h2>
+      <p class="section-subtitle">
+        Ocena jakości i kompletności danych z wywiadu: 3/4 – dobra.
+      </p>
+
+      <div class="diagnosis-grid">
+        <div class="diagnosis-box">
+          <h3>Osobowość unikająca</h3>
+          <div class="score success">11 / 14</div>
+          <p>Spełnione kryteria: 4/7</p>
+        </div>
+
+        <div class="diagnosis-box">
+          <h3>Osobowość zależna</h3>
+          <div class="score warning">5 / 14</div>
+          <p>Widoczne cechy zależnościowe.</p>
+        </div>
+
+        <div class="diagnosis-box">
+          <h3>Cechy borderline</h3>
+          <div class="score danger">cechy</div>
+          <p>Wymagana pogłębiona diagnostyka.</p>
+        </div>
+
+        <div class="diagnosis-box">
+          <h3>Wiązka A i B</h3>
+          <div class="score">1–4 / 14</div>
+          <p>Brak pełnych przesłanek diagnostycznych.</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="profil">
+      <h2>Profil kliniczny</h2>
+
+      <div class="grid">
+        <div class="card">
+          <h3>Objawy emocjonalne</h3>
+          <ul>
+            <li>Chroniczne napięcie</li>
+            <li>Drażliwość i wybuchy gniewu</li>
+            <li>Lęk przed oceną</li>
+            <li>Poczucie winy</li>
+          </ul>
+        </div>
+
+        <div class="card">
+          <h3>Objawy poznawcze</h3>
+          <ul>
+            <li>Niska samoocena</li>
+            <li>Katastrofizacja</li>
+            <li>Czytanie w myślach</li>
+            <li>Dychotomiczne myślenie</li>
+          </ul>
+        </div>
+
+        <div class="card">
+          <h3>Objawy behawioralne</h3>
+          <ul>
+            <li>Unikanie konfrontacji</li>
+            <li>Impulsywne reakcje</li>
+            <li>Tłumienie potrzeb</li>
+            <li>Brak systematycznej samoopieki</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="tag-list">
+        <div class="tag">Empatia</div>
+        <div class="tag">Motywacja do zmiany</div>
+        <div class="tag">Stabilność zawodowa</div>
+        <div class="tag">Częściowy wgląd</div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Dominujące przekonania i zniekształcenia poznawcze</h2>
+
+      <div class="grid">
+        <div class="card">
+          <h3>Przekonania automatyczne</h3>
+          <ul>
+            <li>„Muszę poświęcać się dla innych”</li>
+            <li>„Konflikt prowadzi do katastrofy”</li>
+            <li>„Moje potrzeby są mniej ważne”</li>
+            <li>„Ludzie oceniają mnie negatywnie”</li>
+          </ul>
+        </div>
+
+        <div class="card">
+          <h3>Zniekształcenia poznawcze</h3>
+          <ul>
+            <li>Czytanie w myślach</li>
+            <li>Katastrofizacja</li>
+            <li>Personalizacja</li>
+            <li>Uogólnienia i etykietowanie</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section id="hipoteza">
+      <h2>Hipoteza kliniczna i mechanizmy podtrzymujące</h2>
+
+      <div class="recommendation">
+        <h3>Hipoteza główna</h3>
+        <p>
+          Struktura osobowości zależno-unikającej z cechami chwiejności emocjonalnej.
+        </p>
+      </div>
+
+      <div class="grid">
+        <div class="card">
+          <h3>Osobowość unikająca</h3>
+          <ul>
+            <li>Lęk przed krytyką i odrzuceniem</li>
+            <li>Poczucie niższości</li>
+            <li>Zahamowanie interpersonalne</li>
+          </ul>
+        </div>
+
+        <div class="card">
+          <h3>Osobowość zależna</h3>
+          <ul>
+            <li>Trudności decyzyjne</li>
+            <li>Silna potrzeba aprobaty</li>
+            <li>Rezygnacja z własnych potrzeb</li>
+          </ul>
+        </div>
+
+        <div class="card">
+          <h3>Cechy borderline</h3>
+          <ul>
+            <li>Impulsywność</li>
+            <li>Wybuchy gniewu</li>
+            <li>Poczucie pustki</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="quote">
+        Mechanizmy podtrzymujące obejmują nieasertywność, tłumienie emocji, błędne koło konfliktu oraz utrwalony schemat poświęcenia i podporządkowania.
+      </div>
+    </section>
+
+    <section>
+      <h2>Ocena wywiadu diagnostycznego</h2>
+
+      <div class="grid">
+        <div class="card">
+          <h3>Mocne strony</h3>
+          <ul>
+            <li>Poprawny kontrakt diagnostyczny</li>
+            <li>Aktywne słuchanie</li>
+            <li>Walidacja emocji</li>
+            <li>Holistyczna eksploracja</li>
+            <li>Wieloetykietowe kodowanie CBT</li>
+          </ul>
+        </div>
+
+        <div class="card">
+          <h3>Obszary do poprawy</h3>
+          <ul>
+            <li>Zbyt wczesne podsumowania</li>
+            <li>Pytania sugerujące</li>
+            <li>Niedostateczna eksploracja relacji małżeńskiej</li>
+            <li>Brak pytań o historię leczenia</li>
+            <li>Ograniczone adnotacje niewerbalne</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Regulacja emocji: zasoby i deficyty</h2>
+
+      <div class="grid">
+        <div class="card">
+          <h3>Dominujące emocje</h3>
+          <ul>
+            <li>Lęk</li>
+            <li>Frustracja</li>
+            <li>Złość</li>
+            <li>Poczucie winy</li>
+            <li>Zmęczenie psychiczne</li>
+          </ul>
+        </div>
+
+        <div class="card">
+          <h3>Zasoby regulacyjne</h3>
+          <ul>
+            <li>Spacery i ruch</li>
+            <li>Humor</li>
+            <li>Gotowanie z synem</li>
+            <li>Separacja sytuacyjna</li>
+          </ul>
+        </div>
+
+        <div class="card">
+          <h3>Deficyty</h3>
+          <ul>
+            <li>Ruminacje</li>
+            <li>Tłumienie emocji</li>
+            <li>Brak samoopieki</li>
+            <li>Nierozpoznawanie sygnałów emocjonalnych</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section id="rekomendacje">
+      <h2>Rekomendacje terapeutyczne</h2>
+
+      <div class="recommendation">
+        <h3>Psychoterapia indywidualna</h3>
+        <p>
+          CBT zintegrowane z terapią schematów, trening asertywności, restrukturyzacja poznawcza oraz praca nad regulacją emocji.
+        </p>
+      </div>
+
+      <div class="recommendation">
+        <h3>Terapia systemowa i małżeńska</h3>
+        <p>
+          Praca nad komunikacją, wspólnym frontem wychowawczym oraz redystrybucją obowiązków rodzinnych.
+        </p>
+      </div>
+
+      <div class="recommendation">
+        <h3>Pogłębienie diagnostyki</h3>
+        <p>
+          Dalsze badania kwestionariuszowe, pełne SCID-5-PD oraz konsultacja psychiatryczna w razie nasilonych objawów.
+        </p>
+      </div>
+
+      <div class="quote">
+        Prognoza została oceniona jako umiarkowanie pomyślna ze względu na zachowaną motywację do zmiany oraz częściowy wgląd pacjentki.
+      </div>
+    </section>
+
+    <section>
+      <h2>Wnioski końcowe</h2>
+
+      <div class="process">
+        <div class="process-step">
+          <span>1</span>
+          <p>Wywiad dostarczył wielowymiarowego materiału klinicznego obejmującego funkcjonowanie rodzinne, zawodowe i emocjonalne.</p>
+        </div>
+
+        <div class="process-step">
+          <span>2</span>
+          <p>Analiza CBT ujawniła utrwalony wzorzec unikania, niskiej samooceny i trudności regulacyjnych.</p>
+        </div>
+
+        <div class="process-step">
+          <span>3</span>
+          <p>SCID-V-SD wskazuje na dominujące cechy osobowości unikającej z elementami zależności i chwiejności emocjonalnej.</p>
+        </div>
+
+        <div class="process-step">
+          <span>4</span>
+          <p>Zalecane jest długoterminowe oddziaływanie terapeutyczne z pogłębioną diagnostyką kliniczną.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <h2>Dziękujemy za uwagę</h2>
+    <p>Pytania i dyskusja</p>
+    <p>Katarzyna Estkowska · Agnieszka Szymańska · Anna Łężniak-Fasola · Mateusz Pomianek</p>
+  </footer>
+</body>
+</html>

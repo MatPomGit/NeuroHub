@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Przyjaźń — psychologia bliskich relacji nieromantycznych</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #fafaf9; color: #292524; scroll-behavior: smooth; }
+        .chart-container { position: relative; width: 100%; max-width: 700px; margin-left: auto; margin-right: auto; height: 50vh; max-height: 450px; }
+        @media (max-width: 640px) { .chart-container { height: 40vh; max-height: 350px; } }
+        .glass-panel { background: rgba(255, 255, 255, 0.85); backdrop-filter: blur(10px); border: 1px solid rgba(229, 231, 235, 0.5); }
+        .nav-link.active { background-color: #0f766e; color: white; }
+        .tab-btn.active { border-bottom: 2px solid #0f766e; color: #0f766e; font-weight: bold; }
+        .knapp-btn.active-up { background-color: #10b981; color: white; }
+        .knapp-btn.active-down { background-color: #f43f5e; color: white; }
+    </style>
+</head>
+<body class="flex flex-col md:flex-row min-h-screen">
+
+<!-- Chosen Palette: Warm Neutrals with Teal and Rose Accents (Stone-50 background, Teal-700 primary, Rose-500 secondary) -->
+<!-- Application Structure Plan: Zastosowano układ typu "Dashboard/Single Page Scroll" z bocznym panelem nawigacyjnym na desktopach (górnym na urządzeniach mobilnych). Struktura dzieli się na 5 logicznych sekcji tematycznych: Fundamenty (wprowadzenie i Arystoteles), Dynamika (interaktywny Model Knappa), Zaufanie i Demografia (wykresy cyklu życia i różnice płciowe), Specyfika FWB (interaktywne zakładki dla skomplikowanego zjawiska) oraz Zdrowie i Praktyka (rekomendacje kliniczne). Taki układ ułatwia eksplorację obszernego tekstu, zachęcając do interakcji z konkretnymi teoriami (jak model Knappa) i chronologicznie prowadzi przez aspekty psychologii przyjaźni. -->
+<!-- Visualization & Content Choices: 1. Arystoteles (Goal: Inform) -> Chart.js Doughnut: wizualizuje równe, ale jakościowo różne typy przyjaźni. 2. Model Knappa (Goal: Process/Change) -> Interaktywna lista + panel detali (JS): pozwala na eksplorację 10 faz bez przytłaczania ścianą tekstu. 3. Cykl Życia/Liczba Dunbara (Goal: Change over time) -> Chart.js Line Chart: obrazuje dynamikę wielkości sieci społecznej. 4. Rekomendacje Kliniczne (Goal: Compare) -> Przełączalne panele (JS): wyraźny kontrast między dobrą a złą praktyką. Użyto wyłącznie znaków Unicode zamiast SVG dla ikonografii. -->
+<!-- CONFIRMATION: NO SVG graphics used. NO Mermaid JS used. -->
+
+    <nav class="w-full md:w-64 bg-stone-100 border-b md:border-b-0 md:border-r border-stone-200 md:h-screen md:sticky top-0 p-6 flex flex-col z-50">
+        <div class="text-2xl mb-8 text-teal-800 font-bold">🤝 Psychologia Przyjaźni</div>
+        <div class="flex md:flex-col gap-2 overflow-x-auto md:overflow-visible pb-2 md:pb-0">
+            <a href="#fundamenty" class="nav-link active px-4 py-2 rounded-lg text-sm transition-colors whitespace-nowrap">1. Fundamenty</a>
+            <a href="#dynamika" class="nav-link px-4 py-2 rounded-lg text-sm transition-colors whitespace-nowrap">2. Dynamika Relacji</a>
+            <a href="#zaufanie" class="nav-link px-4 py-2 rounded-lg text-sm transition-colors whitespace-nowrap">3. Zaufanie i Życie</a>
+            <a href="#fwb" class="nav-link px-4 py-2 rounded-lg text-sm transition-colors whitespace-nowrap">4. Relacje FWB</a>
+            <a href="#zdrowie" class="nav-link px-4 py-2 rounded-lg text-sm transition-colors whitespace-nowrap">5. Zdrowie i Praktyka</a>
+        </div>
+        <div class="mt-auto hidden md:block text-xs text-stone-400">Stan wiedzy: 31.12.2025</div>
+    </nav>
+
+    <main class="flex-1 p-6 md:p-12 overflow-y-auto">
+        
+        <header class="mb-16">
+            <h1 class="text-4xl md:text-5xl font-extrabold text-stone-800 mb-4">Przyjaźń: Psychologia Bliskich Relacji Nieromantycznych</h1>
+            <p class="text-xl text-stone-600 max-w-3xl">Interaktywny raport analizujący kluczowe funkcje przyjaźni dla dobrostanu psychicznego i fizycznego przez całe życie. Eksploruj modele teoretyczne, dynamikę rozwoju więzi oraz współczesne wyzwania relacyjne.</p>
+        </header>
+
+        <section id="fundamenty" class="mb-24 scroll-mt-12">
+            <div class="mb-8">
+                <h2 class="text-3xl font-bold text-teal-700 mb-4">1. Definicja i Fundamenty Teoretyczne</h2>
+                <p class="text-lg text-stone-700">Ta sekcja wprowadza w podstawowe pojęcia definiujące przyjaźń w psychologii społecznej. Dowiesz się tutaj, czym przyjaźń różni się od innych relacji i poznasz klasyczną typologię Arystotelesa, która wciąż stanowi podstawę dla zrozumienia motywacji w relacjach.</p>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-12">
+                <div class="glass-panel p-6 rounded-xl shadow-sm border-t-4 border-t-teal-500">
+                    <div class="text-3xl mb-3">🔄</div>
+                    <h3 class="text-xl font-bold mb-2">Wzajemność</h3>
+                    <p class="text-stone-600">Obopólna troska o dobrostan drugiej osoby oraz gotowość do świadczenia wsparcia w sytuacjach kryzysowych i codziennych.</p>
+                </div>
+                <div class="glass-panel p-6 rounded-xl shadow-sm border-t-4 border-t-teal-500">
+                    <div class="text-3xl mb-3">🕊️</div>
+                    <h3 class="text-xl font-bold mb-2">Dobrowolność</h3>
+                    <p class="text-stone-600">Całkowity brak zewnętrznych, instytucjonalnych czy prawnych przymusów podtrzymywania relacji.</p>
+                </div>
+                <div class="glass-panel p-6 rounded-xl shadow-sm border-t-4 border-t-teal-500">
+                    <div class="text-3xl mb-3">⚖️</div>
+                    <h3 class="text-xl font-bold mb-2">Równość (Horyzontalność)</h3>
+                    <p class="text-stone-600">Partnerzy dysponują podobną władzą i statusem, co sprzyja otwartej i szczerej komunikacji.</p>
+                </div>
+            </div>
+
+            <div class="bg-white p-8 rounded-2xl shadow-sm border border-stone-100 flex flex-col md:flex-row items-center gap-8">
+                <div class="w-full md:w-1/2">
+                    <h3 class="text-2xl font-bold mb-4">Typologia Arystotelesowska</h3>
+                    <p class="mb-4 text-stone-600">Historyczne fundamenty opisał Arystoteles w <em>Etyce Nikomachejskiej</em>. Jego podział pozostaje aktualny w dzisiejszej analizie motywacji nawiązywania relacji. Najeżdżając na wykres, poznasz szczegóły każdego z trzech typów.</p>
+                    <ul class="space-y-3 text-stone-700">
+                        <li><span class="inline-block w-3 h-3 rounded-full bg-yellow-400 mr-2"></span><strong>Dla przyjemności:</strong> Skupiona na wspólnym hobby i doraźnym afekcie.</li>
+                        <li><span class="inline-block w-3 h-3 rounded-full bg-blue-400 mr-2"></span><strong>Dla użytku:</strong> Motywowana pragmatyzmem i obustronnymi korzyściami.</li>
+                        <li><span class="inline-block w-3 h-3 rounded-full bg-purple-500 mr-2"></span><strong>Dla cnoty:</strong> Najwyższa forma, oparta na wzajemnym podziwie dla wartości.</li>
+                    </ul>
+                </div>
+                <div class="w-full md:w-1/2">
+                    <div class="chart-container">
+                        <canvas id="aristotleChart"></canvas>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="dynamika" class="mb-24 scroll-mt-12">
+            <div class="mb-8">
+                <h2 class="text-3xl font-bold text-teal-700 mb-4">2. Model Knappa — Dynamika Relacji</h2>
+                <p class="text-lg text-stone-700">Przyjaźń to proces, a nie stały stan. Poniższe interaktywne narzędzie prezentuje Model Marka Knappa (1978), dzielący życie relacji na fazy zbliżania się i oddalania. <strong>Kliknij poszczególne fazy</strong>, aby zrozumieć mechanizmy psychologiczne stojące za budowaniem i rozpadem więzi.</p>
+            </div>
+
+            <div class="flex flex-col lg:flex-row gap-8 bg-stone-100 p-6 md:p-8 rounded-2xl">
+                <div class="w-full lg:w-1/3">
+                    <h3 class="text-xl font-bold mb-4 text-emerald-600">📈 Fazy budowania (Coming Together)</h3>
+                    <div class="flex flex-col gap-2 mb-8">
+                        <button class="knapp-btn w-full text-left px-4 py-3 bg-white rounded shadow-sm border-l-4 border-stone-300 hover:border-emerald-400 transition" data-phase="1" data-type="up">1. Inicjacja</button>
+                        <button class="knapp-btn w-full text-left px-4 py-3 bg-white rounded shadow-sm border-l-4 border-stone-300 hover:border-emerald-400 transition" data-phase="2" data-type="up">2. Eksperymentowanie</button>
+                        <button class="knapp-btn w-full text-left px-4 py-3 bg-white rounded shadow-sm border-l-4 border-stone-300 hover:border-emerald-400 transition" data-phase="3" data-type="up">3. Intensyfikacja</button>
+                        <button class="knapp-btn w-full text-left px-4 py-3 bg-white rounded shadow-sm border-l-4 border-stone-300 hover:border-emerald-400 transition" data-phase="4" data-type="up">4. Integracja</button>
+                        <button class="knapp-btn w-full text-left px-4 py-3 bg-white rounded shadow-sm border-l-4 border-stone-300 hover:border-emerald-400 transition" data-phase="5" data-type="up">5. Wiązanie</button>
+                    </div>
+
+                    <h3 class="text-xl font-bold mb-4 text-rose-600">📉 Fazy rozpadu (Coming Apart)</h3>
+                    <div class="flex flex-col gap-2">
+                        <button class="knapp-btn w-full text-left px-4 py-3 bg-white rounded shadow-sm border-l-4 border-stone-300 hover:border-rose-400 transition" data-phase="6" data-type="down">6. Różnicowanie</button>
+                        <button class="knapp-btn w-full text-left px-4 py-3 bg-white rounded shadow-sm border-l-4 border-stone-300 hover:border-rose-400 transition" data-phase="7" data-type="down">7. Ograniczanie</button>
+                        <button class="knapp-btn w-full text-left px-4 py-3 bg-white rounded shadow-sm border-l-4 border-stone-300 hover:border-rose-400 transition" data-phase="8" data-type="down">8. Stagnacja</button>
+                        <button class="knapp-btn w-full text-left px-4 py-3 bg-white rounded shadow-sm border-l-4 border-stone-300 hover:border-rose-400 transition" data-phase="9" data-type="down">9. Unikanie</button>
+                        <button class="knapp-btn w-full text-left px-4 py-3 bg-white rounded shadow-sm border-l-4 border-stone-300 hover:border-rose-400 transition" data-phase="10" data-type="down">10. Zakończenie</button>
+                    </div>
+                </div>
+
+                <div class="w-full lg:w-2/3">
+                    <div class="sticky top-12 bg-white p-8 rounded-xl shadow-lg border border-stone-200 h-96 flex flex-col justify-center items-center text-center transition-all duration-300" id="knappDisplay">
+                        <div class="text-6xl mb-6">👆</div>
+                        <h3 class="text-2xl font-bold text-stone-800 mb-4">Wybierz fazę z menu po lewej</h3>
+                        <p class="text-stone-500">Poznaj charakterystykę procesu oraz mechanizmy psychologiczne działające na każdym etapie rozwoju przyjaźni.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="zaufanie" class="mb-24 scroll-mt-12">
+            <div class="mb-8">
+                <h2 class="text-3xl font-bold text-teal-700 mb-4">3. Zaufanie, Płeć i Cykl Życia</h2>
+                <p class="text-lg text-stone-700">Jak budujemy intymność emocjonalną? Jak styl przyjaźni zmienia się w zależności od naszej płci oraz wieku? Ta sekcja analizuje teorię penetracji społecznej oraz ewolucję naszych sieci społecznych na przestrzeni całego życia (z uwzględnieniem słynnej liczby Dunbara).</p>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
+                <div class="bg-indigo-50 p-6 rounded-2xl">
+                    <h3 class="text-xl font-bold mb-4 text-indigo-900">Teoria Penetracji Społecznej (Altman & Taylor)</h3>
+                    <p class="text-indigo-800 mb-4">Kluczem do głębi relacji jest stopniowe odkrywanie warstw osobowości poprzez wzajemne samoujawnianie (self-disclosure).</p>
+                    <div class="bg-white p-4 rounded-xl shadow-sm mb-4">
+                        <strong class="block text-stone-800 mb-1">🛡️ Filary Zaufania:</strong>
+                        <ul class="list-disc pl-5 text-stone-600 text-sm space-y-1">
+                            <li><strong>Przewidywalność:</strong> Spójność zachowań przyjaciela.</li>
+                            <li><strong>Życzliwość:</strong> Pewność, że słabości nie zostaną wykorzystane.</li>
+                            <li><strong>Uczciwość:</strong> Autentyczność i brak manipulacji.</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="bg-stone-50 border border-stone-200 p-6 rounded-2xl">
+                    <h3 class="text-xl font-bold mb-4 text-stone-800">Styl przyjaźni a płeć</h3>
+                    <div class="space-y-4">
+                        <div class="flex items-start gap-4">
+                            <div class="text-3xl">🗣️</div>
+                            <div>
+                                <h4 class="font-bold">Kobiety („Twarzą w twarz”)</h4>
+                                <p class="text-sm text-stone-600">Skupione na intymności werbalnej, empatii emocjonalnej i otwartym omawianiu problemów.</p>
+                            </div>
+                        </div>
+                        <div class="flex items-start gap-4">
+                            <div class="text-3xl">🏃‍♂️</div>
+                            <div>
+                                <h4 class="font-bold">Mężczyźni („Ramię w ramię”)</h4>
+                                <p class="text-sm text-stone-600">Budowane wokół wspólnych aktywności (sport, praca). Wsparcie ma częściej charakter instrumentalny.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="bg-white p-8 rounded-2xl shadow-sm border border-stone-100">
+                <h3 class="text-2xl font-bold mb-2">Rozwój Sieci Społecznej w Cyklu Życia</h3>
+                <p class="text-stone-600 mb-6">Wizualizacja oparta na badaniach rozwojowych. Zwróć uwagę na stabilizację w dorosłości wokół "Liczby Dunbara" (ok. 5 najbliższych przyjaciół) oraz zjawisko selektywności socjoemocjonalnej w starości.</p>
+                <div class="chart-container">
+                    <canvas id="lifespanChart"></canvas>
+                </div>
+            </div>
+        </section>
+
+        <section id="fwb" class="mb-24 scroll-mt-12">
+            <div class="mb-8">
+                <h2 class="text-3xl font-bold text-teal-700 mb-4">4. Zjawisko Seksu w Przyjaźni (Friends with Benefits)</h2>
+                <p class="text-lg text-stone-700">Relacje FWB to skomplikowana hybryda łącząca przyjaźń z interakcjami seksualnymi bez romantycznych zobowiązań. Sukces tego typu relacji silnie zależy od komunikacji i psychologicznego "kontraktowania". Użyj poniższych zakładek, aby zgłębić ten temat.</p>
+            </div>
+
+            <div class="bg-white rounded-2xl shadow-sm border border-stone-200 overflow-hidden">
+                <div class="flex border-b border-stone-200 bg-stone-50">
+                    <button class="tab-btn active flex-1 py-4 px-4 text-center text-stone-600 hover:bg-stone-100 transition" data-target="fwb-motywacje">Motywacje</button>
+                    <button class="tab-btn flex-1 py-4 px-4 text-center text-stone-600 hover:bg-stone-100 transition" data-target="fwb-strategie">Strategie Komunikacyjne</button>
+                    <button class="tab-btn flex-1 py-4 px-4 text-center text-stone-600 hover:bg-stone-100 transition" data-target="fwb-ryzyka">Wyzwania i Ryzyka</button>
+                </div>
+                
+                <div class="p-8">
+                    <div id="fwb-motywacje" class="tab-content block">
+                        <h3 class="text-2xl font-bold mb-4 flex items-center gap-2">🎯 Dlaczego ludzie decydują się na FWB?</h3>
+                        <p class="mb-4">Zgodnie z badaniami (np. Bisson & Levine, 2009), istnieje kilka głównych ścieżek wejścia w relację Friends with Benefits:</p>
+                        <ul class="space-y-4">
+                            <li class="p-4 bg-stone-50 rounded-lg"><strong>Zastępcza bliskość:</strong> Głównym celem jest zaspokojenie potrzeb fizjologicznych i bliskości fizycznej, z jednoczesnym unikaniem obciążeń emocjonalnych typowych dla związku.</li>
+                            <li class="p-4 bg-stone-50 rounded-lg"><strong>Przejściowa (Transition):</strong> Wykorzystanie seksu jako etapu do testowania potencjału relacji na pełnoprawny związek romantyczny.</li>
+                            <li class="p-4 bg-stone-50 rounded-lg"><strong>Bezpieczeństwo:</strong> Preferowanie intymności z osobą już znaną i budzącą zaufanie, w opozycji do ryzyka związanego z przygodnymi kontaktami (one-night stands).</li>
+                        </ul>
+                    </div>
+                    
+                    <div id="fwb-strategie" class="tab-content hidden">
+                        <h3 class="text-2xl font-bold mb-4 flex items-center gap-2">💬 Jak utrzymać taką relację?</h3>
+                        <p class="mb-4">Udane relacje FWB opierają się na specyficznych i jasnych mechanizmach negocjacyjnych (często trudniejszych niż w tradycyjnych związkach):</p>
+                        <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+                            <div class="border border-stone-200 p-4 rounded-lg border-t-4 border-t-teal-500">
+                                <h4 class="font-bold mb-2">1. Kontraktowanie (Ground Rules)</h4>
+                                <p class="text-sm text-stone-600">Ustalenie jasnych zasad dotyczących wyłączności (lub jej braku), częstotliwości spotkań oraz sposobu informowania o ewentualnej zmianie uczuć.</p>
+                            </div>
+                            <div class="border border-stone-200 p-4 rounded-lg border-t-4 border-t-teal-500">
+                                <h4 class="font-bold mb-2">2. Zarządzanie emocjami</h4>
+                                <p class="text-sm text-stone-600">Umiejętność odróżnienia pożądania od przywiązania. Osoby o unikowym stylu przywiązania częściej deklarują satysfakcję w FWB.</p>
+                            </div>
+                            <div class="border border-stone-200 p-4 rounded-lg border-t-4 border-t-teal-500">
+                                <h4 class="font-bold mb-2">3. Strategia wyjścia (Exit Strategy)</h4>
+                                <p class="text-sm text-stone-600">Uzgodnienie, co stanie się z przyjaźnią, gdy komponent seksualny wygaśnie (powrót do fazy intensyfikacji bez seksu).</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div id="fwb-ryzyka" class="tab-content hidden">
+                        <h3 class="text-2xl font-bold mb-4 flex items-center gap-2">⚠️ Zagrożenia psychologiczne</h3>
+                        <p class="mb-4 text-stone-700">Wprowadzenie sfery seksualnej do przyjaźni drastycznie zmienia skrypt relacji, co niesie ze sobą określone ryzyka:</p>
+                        <ul class="list-disc pl-5 space-y-3 text-stone-700">
+                            <li><strong>Asymetria zaangażowania:</strong> Największe ryzyko pojawia się, gdy u jednej ze stron rozwiną się jednostronne uczucia romantyczne ("unrequited love"), naruszając filar równości.</li>
+                            <li><strong>Zagrożenie dla przyjaźni:</strong> W razie konfliktu lub trudności z zakończeniem sfery seksualnej, ryzykujemy utratę ważnej bazy wsparcia (przyjaciela).</li>
+                            <li><strong>Avoidance of relationship talk:</strong> Częste i paradoksalne unikanie rozmów o statusie relacji w obawie przed jej zniszczeniem, co ostatecznie prowadzi do degradacji zaufania i komunikacji.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="zdrowie" class="mb-12 scroll-mt-12">
+            <div class="mb-8">
+                <h2 class="text-3xl font-bold text-teal-700 mb-4">5. Wpływ na Zdrowie i Praktyka Kliniczna</h2>
+                <p class="text-lg text-stone-700">Ostatnia sekcja prezentuje dowody na to, jak przyjaźń wpływa na naszą fizjologię (hipoteza bufora stresowego) oraz przedstawia interaktywne zestawienie rekomendacji dla psychologów i terapeutów pracujących z problemami w relacjach.</p>
+            </div>
+
+            <div class="bg-gradient-to-r from-teal-800 to-emerald-700 rounded-2xl p-8 text-white mb-8 shadow-lg">
+                <h3 class="text-2xl font-bold mb-4 flex items-center gap-3">🩺 Bufor Stresowy (Stress-Buffering Hypothesis)</h3>
+                <p class="mb-6 text-teal-50">Silna sieć wsparcia społecznego to nie tylko komfort psychiczny, ale mierzalne korzyści biologiczne. Meta-analizy (np. Holt-Lunstad, 2010) potwierdzają, że jakość relacji bezpośrednio wydłuża życie.</p>
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-4 text-center">
+                    <div class="bg-white/20 rounded-lg p-4 backdrop-blur-sm">
+                        <div class="text-3xl mb-2">📉</div>
+                        <div class="font-bold">Niższy Kortyzol</div>
+                        <div class="text-sm text-teal-100 mt-1">W sytuacjach trudnych i kryzysowych.</div>
+                    </div>
+                    <div class="bg-white/20 rounded-lg p-4 backdrop-blur-sm">
+                        <div class="text-3xl mb-2">❤️</div>
+                        <div class="font-bold">Szybsza Regeneracja</div>
+                        <div class="text-sm text-teal-100 mt-1">Poprawa parametrów układu krążenia.</div>
+                    </div>
+                    <div class="bg-white/20 rounded-lg p-4 backdrop-blur-sm">
+                        <div class="text-3xl mb-2">🛡️</div>
+                        <div class="font-bold">Odporność</div>
+                        <div class="text-sm text-teal-100 mt-1">Zwiększona odporność immunologiczna.</div>
+                    </div>
+                </div>
+            </div>
+
+            <h3 class="text-2xl font-bold mb-4">Praktyka Kliniczna: Praca z relacjami</h3>
+            <div class="flex flex-col md:flex-row gap-4 mb-8">
+                <button id="btn-good-practice" class="flex-1 bg-emerald-100 text-emerald-800 font-bold py-3 px-6 rounded-lg border-2 border-emerald-500 transition hover:bg-emerald-200">Pokaz Dobre Praktyki</button>
+                <button id="btn-bad-practice" class="flex-1 bg-white text-stone-600 font-bold py-3 px-6 rounded-lg border-2 border-stone-200 transition hover:bg-rose-50">Pokaż Złe Praktyki</button>
+            </div>
+
+            <div id="practice-display" class="bg-white p-6 border-l-4 border-emerald-500 rounded-r-lg shadow-sm">
+                <!-- Content injected via JS -->
+            </div>
+
+        </section>
+
+        <footer class="border-t border-stone-200 pt-8 mt-16 text-sm text-stone-500">
+            <h4 class="font-bold mb-4 text-stone-700 text-base">Bibliografia Wybrana (APA 7)</h4>
+            <ul class="space-y-2">
+                <li>Bisson, M. A., & Levine, T. R. (2009). Negotiating a Friends with Benefits Relationship. <em>Archives of Sexual Behavior, 38</em>(1), 66–73.</li>
+                <li>Carstensen, L. L. (1992). Social and emotional patterns in adulthood. <em>Psychology and Aging, 7</em>(3), 331–338.</li>
+                <li>Dunbar, R. I. M. (2010). <em>How Many Friends Does One Person Need?</em> Harvard University Press.</li>
+                <li>Holt-Lunstad, J., Smith, T. B., & Layton, J. B. (2010). Social relationships and mortality risk. <em>PLoS Medicine, 7</em>(7).</li>
+                <li>Knapp, M. L. (1978). <em>Social Intercourse: From Greeting to Goodbye</em>. Allyn & Bacon.</li>
+            </ul>
+        </footer>
+
+    </main>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const sections = document.querySelectorAll('section');
+            const navLinks = document.querySelectorAll('.nav-link');
+
+            window.addEventListener('scroll', () => {
+                let current = '';
+                sections.forEach(section => {
+                    const sectionTop = section.offsetTop;
+                    const sectionHeight = section.clientHeight;
+                    if (scrollY >= (sectionTop - 200)) {
+                        current = section.getAttribute('id');
+                    }
+                });
+
+                navLinks.forEach(link => {
+                    link.classList.remove('active');
+                    if (link.getAttribute('href').includes(current)) {
+                        link.classList.add('active');
+                    }
+                });
+            });
+
+            const aristotleCtx = document.getElementById('aristotleChart').getContext('2d');
+            new Chart(aristotleCtx, {
+                type: 'doughnut',
+                data: {
+                    labels: ['Dla przyjemności (Zabawa/Afekt)', 'Dla użytku (Pragmatyzm/Korzyść)', 'Dla cnoty (Szacunek/Wartości)'],
+                    datasets: [{
+                        data: [33, 33, 34],
+                        backgroundColor: [
+                            'rgba(250, 204, 21, 0.8)', 
+                            'rgba(96, 165, 250, 0.8)', 
+                            'rgba(168, 85, 247, 0.8)' 
+                        ],
+                        borderColor: ['#facc15', '#60a5fa', '#a855f7'],
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: { position: 'bottom' },
+                        tooltip: {
+                            callbacks: {
+                                label: function(context) {
+                                    let descriptions = [
+                                        "Oparta na wspólnej zabawie i afekcie. Częsta, ale ulotna.",
+                                        "Oparta na wzajemnych korzyściach. Wygasa gdy znika korzyść.",
+                                        "Najtrwalsza. Oparta na podziwie dla charakteru."
+                                    ];
+                                    return descriptions[context.dataIndex];
+                                }
+                            }
+                        }
+                    }
+                }
+            });
+
+            const lifespanCtx = document.getElementById('lifespanChart').getContext('2d');
+            new Chart(lifespanCtx, {
+                type: 'line',
+                data: {
+                    labels: ['Dzieciństwo', 'Adolescencja', 'Wczesna Dorosłość', 'Środkowa Dorosłość', 'Starość'],
+                    datasets: [{
+                        label: 'Liczba bliskich relacji (wew. krąg wsparcia)',
+                        data: [3, 12, 8, 5, 4],
+                        borderColor: '#0f766e',
+                        backgroundColor: 'rgba(15, 118, 110, 0.1)',
+                        borderWidth: 3,
+                        pointBackgroundColor: '#0f766e',
+                        pointRadius: 6,
+                        pointHoverRadius: 8,
+                        fill: true,
+                        tension: 0.4
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        y: { 
+                            beginAtZero: true, 
+                            title: { display: true, text: 'Szacunkowa wielkość sieci bliskich przyjaciół' }
+                        },
+                        x: {
+                             title: { display: true, text: 'Etap życia' }
+                        }
+                    },
+                    plugins: {
+                        tooltip: {
+                            callbacks: {
+                                afterLabel: function(context) {
+                                    const notes = [
+                                        "Relacje sytuacyjne, nauka kooperacji.",
+                                        "Intensywne, dramatyczne; zastępują rodzinę.",
+                                        "Selekcja naturalna relacji.",
+                                        "Stabilizacja wokół Liczby Dunbara (~5 osób).",
+                                        "Teoria selektywności socjoemocjonalnej (jakość > ilość)."
+                                    ];
+                                    return notes[context.dataIndex];
+                                }
+                            }
+                        }
+                    }
+                }
+            });
+
+            const knappData = {
+                1: { title: "Inicjacja", desc: "Bardzo krótkie interakcje, ocena atrakcyjności i bezpieczeństwa.", mech: "Filtrowanie percepcyjne, pierwsze wrażenie.", emoji: "👀" },
+                2: { title: "Eksperymentowanie", desc: "Szukanie wspólnych mianowników poprzez small talk.", mech: "Testowanie podobieństw, redukcja niepewności.", emoji: "🗣️" },
+                3: { title: "Intensyfikacja", desc: "Przejście do osobistych zwierzeń, używanie języka „my”.", mech: "Zwiększone samoujawnianie (self-disclosure).", emoji: "🤝" },
+                4: { title: "Integracja", desc: "Wspólna tożsamość społeczna; otoczenie postrzega was jako jedność.", mech: "Synchroniczność zachowań, fuzja tożsamości.", emoji: "🧩" },
+                5: { title: "Wiązanie", desc: "Publiczne lub formalne potwierdzenie więzi.", mech: "Zobowiązanie instytucjonalne/społeczne.", emoji: "🔗" },
+                6: { title: "Różnicowanie", desc: "Nadmierne skupienie na różnicach; powrót do „ja” z „my”.", mech: "Walka o autonomię i przestrzeń osobistą.", emoji: "✂️" },
+                7: { title: "Ograniczanie", desc: "Redukcja komunikacji do tematów bezpiecznych i powierzchownych.", mech: "Unikanie konfliktów poprzez dystans werbalny.", emoji: "🚧" },
+                8: { title: "Stagnacja", desc: "Brak rozwoju; relacja trwa jedynie z przyzwyczajenia.", mech: "Poczucie utknięcia, brak entuzjazmu.", emoji: "🧊" },
+                9: { title: "Unikanie", desc: "Aktywne tworzenie dystansu fizycznego i emocjonalnego.", mech: "Bariery komunikacyjne, ignorowanie.", emoji: "🏃" },
+                10: { title: "Zakończenie", desc: "Oficjalny lub ostateczny naturalny koniec relacji.", mech: "Separacja fizyczna i psychologiczna.", emoji: "🚪" }
+            };
+
+            const knappBtns = document.querySelectorAll('.knapp-btn');
+            const knappDisplay = document.getElementById('knappDisplay');
+
+            knappBtns.forEach(btn => {
+                btn.addEventListener('click', (e) => {
+                    knappBtns.forEach(b => {
+                        b.classList.remove('active-up', 'active-down');
+                        b.style.borderLeftColor = '';
+                    });
+                    
+                    const phase = btn.getAttribute('data-phase');
+                    const type = btn.getAttribute('data-type');
+                    const data = knappData[phase];
+
+                    if(type === 'up') {
+                        btn.classList.add('active-up');
+                        knappDisplay.className = 'sticky top-12 bg-emerald-50 p-8 rounded-xl shadow-lg border border-emerald-200 h-96 flex flex-col justify-center items-center text-center transition-all duration-300';
+                    } else {
+                        btn.classList.add('active-down');
+                        knappDisplay.className = 'sticky top-12 bg-rose-50 p-8 rounded-xl shadow-lg border border-rose-200 h-96 flex flex-col justify-center items-center text-center transition-all duration-300';
+                    }
+
+                    knappDisplay.innerHTML = `
+                        <div class="text-6xl mb-4">${data.emoji}</div>
+                        <div class="text-sm uppercase tracking-widest text-stone-500 mb-2">Faza ${phase}</div>
+                        <h3 class="text-2xl font-bold text-stone-800 mb-4">${data.title}</h3>
+                        <p class="text-stone-700 mb-4 text-lg font-medium">${data.desc}</p>
+                        <div class="bg-white/60 p-4 rounded-lg w-full text-sm text-stone-600 border border-white/50">
+                            <strong>Mechanizm:</strong> ${data.mech}
+                        </div>
+                    `;
+                });
+            });
+
+            const tabBtns = document.querySelectorAll('.tab-btn');
+            const tabContents = document.querySelectorAll('.tab-content');
+
+            tabBtns.forEach(btn => {
+                btn.addEventListener('click', () => {
+                    tabBtns.forEach(b => b.classList.remove('active', 'border-teal-600', 'text-teal-700'));
+                    tabContents.forEach(c => {
+                        c.classList.remove('block');
+                        c.classList.add('hidden');
+                    });
+
+                    btn.classList.add('active', 'border-teal-600', 'text-teal-700');
+                    const targetId = btn.getAttribute('data-target');
+                    document.getElementById(targetId).classList.remove('hidden');
+                    document.getElementById(targetId).classList.add('block');
+                });
+            });
+
+            const goodPracticeBtn = document.getElementById('btn-good-practice');
+            const badPracticeBtn = document.getElementById('btn-bad-practice');
+            const practiceDisplay = document.getElementById('practice-display');
+
+            const clinicalData = {
+                good: `
+                    <h4 class="text-xl font-bold text-emerald-800 mb-4 flex items-center gap-2">✅ Dobre Praktyki Terapeutyczne</h4>
+                    <ul class="space-y-4">
+                        <li><strong>Analiza Funkcjonalna:</strong> Badanie funkcji, jaką relacja (w tym FWB lub toksyczna) pełni dla pacjenta, by zrozumieć jego niezaspokojone potrzeby.</li>
+                        <li><strong>Psychoedukacja:</strong> Nauczanie o negocjowaniu granic w relacjach, zarządzaniu emocjami oraz mechanizmach komunikacji (np. kontraktowanie w FWB).</li>
+                        <li><strong>Zrozumienie Kontekstu:</strong> Analiza, czy dane zachowanie (np. unikanie) wynika z uwarunkowań kulturowych, lęku przed bliskością, czy jest świadomym wyborem adaptacyjnym.</li>
+                    </ul>
+                `,
+                bad: `
+                    <h4 class="text-xl font-bold text-rose-800 mb-4 flex items-center gap-2">❌ Złe Praktyki (Błędy)</h4>
+                    <ul class="space-y-4">
+                        <li><strong>Moralizowanie:</strong> Ocenianie wyborów relacyjnych pacjenta (np. sugerowanie z góry, że seks niszczy przyjaźń, lub potępianie relacji FWB).</li>
+                        <li><strong>Szablonowość:</strong> Stosowanie sztywnych wzorców "zdrowej relacji" i nakazywanie zerwania więzi bez zrozumienia jej mechanizmu buforującego dla pacjenta.</li>
+                        <li><strong>Ignorowanie Potrzeb:</strong> Pomijanie istotności potrzeb instrumentalnych i seksualnych pacjenta na rzecz wyłącznie idealistycznych wizji przyjaźni.</li>
+                    </ul>
+                `
+            };
+
+            practiceDisplay.innerHTML = clinicalData.good;
+
+            goodPracticeBtn.addEventListener('click', () => {
+                goodPracticeBtn.className = 'flex-1 bg-emerald-100 text-emerald-800 font-bold py-3 px-6 rounded-lg border-2 border-emerald-500 transition hover:bg-emerald-200';
+                badPracticeBtn.className = 'flex-1 bg-white text-stone-600 font-bold py-3 px-6 rounded-lg border-2 border-stone-200 transition hover:bg-rose-50';
+                practiceDisplay.className = 'bg-white p-6 border-l-4 border-emerald-500 rounded-r-lg shadow-sm transition-all';
+                practiceDisplay.innerHTML = clinicalData.good;
+            });
+
+            badPracticeBtn.addEventListener('click', () => {
+                badPracticeBtn.className = 'flex-1 bg-rose-100 text-rose-800 font-bold py-3 px-6 rounded-lg border-2 border-rose-500 transition hover:bg-rose-200';
+                goodPracticeBtn.className = 'flex-1 bg-white text-stone-600 font-bold py-3 px-6 rounded-lg border-2 border-stone-200 transition hover:bg-emerald-50';
+                practiceDisplay.className = 'bg-white p-6 border-l-4 border-rose-500 rounded-r-lg shadow-sm transition-all';
+                practiceDisplay.innerHTML = clinicalData.bad;
+            });
+        });
+    </script>
+</body>
+</html>

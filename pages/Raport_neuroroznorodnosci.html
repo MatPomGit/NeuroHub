@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Raport: Neuroróżnorodność w Społeczeństwie i Biznesie</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        .chart-container {
+            position: relative;
+            width: 100%;
+            max-width: 700px;
+            margin-left: auto;
+            margin-right: auto;
+            height: 350px;
+            max-height: 400px;
+        }
+        @media (min-width: 768px) {
+            .chart-container { height: 400px; }
+        }
+        .tab-content { display: none; }
+        .tab-content.active { display: block; animation: fadeIn 0.5s ease-in-out; }
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+    </style>
+</head>
+<body class="bg-stone-50 text-stone-800 font-sans antialiased leading-relaxed">
+
+<!-- Chosen Palette: Warm Neutrals with Teal and Amber accents (bg-stone-50, text-stone-800, teal-600, amber-500) -->
+<!-- Application Structure Plan: The SPA is divided into a narrative flow: 1. Global context (Society), 2. Industry deep-dive (IT & Professions), 3. Interactive insights (Traits mapping). This dashboard approach guides the user from macro statistics down to micro professional characteristics, prioritizing readability and interactive discovery. -->
+<!-- Visualization & Content Choices: 1. Doughnut Chart (Chart.js) for societal breakdown (proportions). 2. Bar Chart (Chart.js) for comparing neurodivergence across professions (comparison). 3. Interactive Tabbed Interface for mapping traits to job performance (engagement/details). NO SVG or Mermaid used. -->
+<!-- CONFIRMATION: NO SVG graphics used. NO Mermaid JS used. -->
+
+<nav class="bg-white shadow-sm sticky top-0 z-50">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="flex justify-between h-16 items-center">
+            <div class="text-xl font-bold text-teal-700 tracking-tight">
+                🧠 NeuroData Insight
+            </div>
+            <div class="flex space-x-6 text-sm font-medium text-stone-500">
+                <a href="#spoleczenstwo" class="hover:text-teal-600 transition-colors">Społeczeństwo</a>
+                <a href="#zawody" class="hover:text-teal-600 transition-colors">Zawody i IT</a>
+                <a href="#cechy" class="hover:text-teal-600 transition-colors">Cechy a Praca</a>
+            </div>
+        </div>
+    </div>
+</nav>
+
+<header class="max-w-4xl mx-auto px-4 py-16 text-center">
+    <h1 class="text-4xl md:text-5xl font-extrabold text-stone-900 mb-6 tracking-tight">
+        Neuroróżnorodność:<br><span class="text-teal-600">Niewykorzystany Potencjał Rynku Pracy</span>
+    </h1>
+    <p class="text-lg md:text-xl text-stone-600 mb-8 max-w-2xl mx-auto">
+        Neuroróżnorodność odnosi się do naturalnych wariacji w ludzkim mózgu w zakresie uczenia się, nastroju, uwagi i innych funkcji umysłowych. Ten interaktywny raport analizuje występowanie tych cech w populacji ogólnej oraz ich niezwykłą koncentrację w specyficznych sektorach, takich jak informatyka (IT).
+    </p>
+</header>
+
+<main class="max-w-6xl mx-auto px-4 pb-24 space-y-24">
+
+    <section id="spoleczenstwo" class="bg-white rounded-2xl shadow-sm border border-stone-100 p-8 md:p-12">
+        <div class="mb-10 text-center max-w-3xl mx-auto">
+            <h2 class="text-3xl font-bold text-stone-800 mb-4">Skala Zjawiska w Społeczeństwie</h2>
+            <p class="text-stone-600">
+                Ta sekcja przedstawia globalne statystyki dotyczące występowania różnych typów neuroatypowości. Pozwala to zrozumieć, że nie mówimy o marginesie, lecz o znaczącym odsetku populacji (szacunkowo 15-20%), z którym spotykamy się każdego dnia. Wartości w poniższym zestawieniu mogą się częściowo pokrywać (tzw. współwystępowanie).
+            </p>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
+            <div class="chart-container">
+                <canvas id="societyChart"></canvas>
+            </div>
+            
+            <div class="space-y-6">
+                <div class="bg-stone-50 p-6 rounded-xl border-l-4 border-teal-500">
+                    <div class="text-4xl font-black text-teal-600 mb-2">20%</div>
+                    <h3 class="text-lg font-bold text-stone-800">Globalnej Populacji</h3>
+                    <p class="text-stone-600 text-sm mt-2">Szacuje się, że 1 na 5 osób na świecie jest neuroatypowa. Największą grupę stanowią osoby z dysleksją.</p>
+                </div>
+                
+                <div class="grid grid-cols-2 gap-4">
+                    <div class="bg-white border border-stone-200 p-4 rounded-lg text-center">
+                        <div class="text-2xl font-bold text-stone-700">10%</div>
+                        <div class="text-sm font-medium text-stone-500 mt-1">Dysleksja</div>
+                    </div>
+                    <div class="bg-white border border-stone-200 p-4 rounded-lg text-center">
+                        <div class="text-2xl font-bold text-stone-700">5%</div>
+                        <div class="text-sm font-medium text-stone-500 mt-1">ADHD</div>
+                    </div>
+                    <div class="bg-white border border-stone-200 p-4 rounded-lg text-center">
+                        <div class="text-2xl font-bold text-stone-700">2%</div>
+                        <div class="text-sm font-medium text-stone-500 mt-1">Spektrum Autyzmu</div>
+                    </div>
+                    <div class="bg-white border border-stone-200 p-4 rounded-lg text-center">
+                        <div class="text-2xl font-bold text-stone-700">~3%</div>
+                        <div class="text-sm font-medium text-stone-500 mt-1">Inne (np. Dyspraksja)</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="zawody" class="bg-stone-900 rounded-2xl shadow-lg p-8 md:p-12 text-stone-100">
+        <div class="mb-10 text-center max-w-3xl mx-auto">
+            <h2 class="text-3xl font-bold text-white mb-4">Dystrybucja w Konkretnych Zawodach</h2>
+            <p class="text-stone-300">
+                Poniższy wykres pozwala porównać średni odsetek osób neuroatypowych w różnych środowiskach zawodowych. Wyraźnie widać asymetryczną koncentrację w branżach technicznych (IT) oraz kreatywnych. Środowiska te naturalnie przyciągają specyficzne profile poznawcze ze względu na charakter wykonywanych zadań.
+            </p>
+        </div>
+
+        <div class="chart-container mb-10">
+            <canvas id="professionsChart"></canvas>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+            <div class="bg-stone-800 p-6 rounded-xl border border-stone-700 hover:border-teal-400 transition-colors">
+                <div class="text-3xl mb-3">💻</div>
+                <h3 class="text-xl font-bold text-white mb-2">Branża IT (Informatyka)</h3>
+                <p class="text-stone-400 text-sm">Nawet do 30% pracowników. IT przyciąga osoby w spektrum autyzmu i z ADHD m.in. dzięki zapotrzebowaniu na rozpoznawanie wzorców, głębokie skupienie (hiperfocus) oraz logiczne rozwiązywanie problemów.</p>
+            </div>
+            <div class="bg-stone-800 p-6 rounded-xl border border-stone-700 hover:border-amber-400 transition-colors">
+                <div class="text-3xl mb-3">🚀</div>
+                <h3 class="text-xl font-bold text-white mb-2">Przedsiębiorczość</h3>
+                <p class="text-stone-400 text-sm">Badania wskazują, że osoby z ADHD są nawet 300% bardziej skłonne do zakładania własnych firm. Ryzyko, dynamiczne środowisko i potrzeba ciągłej stymulacji to ich naturalne środowisko.</p>
+            </div>
+            <div class="bg-stone-800 p-6 rounded-xl border border-stone-700 hover:border-teal-400 transition-colors">
+                <div class="text-3xl mb-3">🎨</div>
+                <h3 class="text-xl font-bold text-white mb-2">Sztuka i Projektowanie</h3>
+                <p class="text-stone-400 text-sm">Wysoki odsetek osób z dysleksją (architektura, grafika). Myślenie przestrzenne, nieszablonowe podejście i wizualne przetwarzanie informacji to ich ogromne atuty.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="cechy" class="bg-white rounded-2xl shadow-sm border border-stone-100 p-8 md:p-12">
+        <div class="mb-10 text-center max-w-3xl mx-auto">
+            <h2 class="text-3xl font-bold text-stone-800 mb-4">Interaktywna Mapa Kompetencji</h2>
+            <p class="text-stone-600">
+                Wybierz typ neuroatypowości poniżej, aby poznać jego unikalne mocne strony w miejscu pracy oraz przykładowe zawody, w których te cechy dają przewagę konkurencyjną. Ta sekcja ma na celu zmianę postrzegania neuroróżnorodności z perspektywy deficytów na perspektywę unikalnych talentów.
+            </p>
+        </div>
+
+        <div class="flex flex-wrap justify-center gap-4 mb-8" id="tab-buttons">
+            <button class="px-6 py-3 rounded-full text-sm font-bold transition-all bg-teal-600 text-white shadow-md" data-target="tab-adhd">ADHD</button>
+            <button class="px-6 py-3 rounded-full text-sm font-bold transition-all bg-stone-100 text-stone-600 hover:bg-stone-200" data-target="tab-asd">Spektrum Autyzmu (ASD)</button>
+            <button class="px-6 py-3 rounded-full text-sm font-bold transition-all bg-stone-100 text-stone-600 hover:bg-stone-200" data-target="tab-dys">Dysleksja</button>
+        </div>
+
+        <div class="bg-stone-50 rounded-xl p-8 border border-stone-200 min-h-[250px]">
+            
+            <div id="tab-adhd" class="tab-content active">
+                <div class="flex items-center gap-4 mb-6">
+                    <div class="text-4xl">⚡</div>
+                    <h3 class="text-2xl font-bold text-stone-800">ADHD (Zespół nadpobudliwości psychoruchowej)</h3>
+                </div>
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                    <div>
+                        <h4 class="font-bold text-teal-700 mb-2 uppercase text-xs tracking-wider">Kluczowe Przewagi Biznesowe</h4>
+                        <ul class="space-y-2 text-stone-700">
+                            <li>• <span class="font-bold">Hiperfocus:</span> Zdolność do niezwykle głębokiego skupienia na interesującym, stymulującym zadaniu (np. programowanie, gaszenie pożarów w projekcie).</li>
+                            <li>• <span class="font-bold">Innowacyjność:</span> Szybkie generowanie nieszablonowych pomysłów (burze mózgów).</li>
+                            <li>• <span class="font-bold">Odporność na kryzys:</span> Świetne działanie pod presją czasu i w chaosie.</li>
+                        </ul>
+                    </div>
+                    <div>
+                        <h4 class="font-bold text-amber-600 mb-2 uppercase text-xs tracking-wider">Idealne Role (IT / Biznes)</h4>
+                        <p class="text-stone-700 leading-relaxed">
+                            Startup Founder, Agile Coach, DevSecOps (reagowanie na incydenty), UX Researcher, Sprzedaż B2B, Game Developer.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div id="tab-asd" class="tab-content">
+                <div class="flex items-center gap-4 mb-6">
+                    <div class="text-4xl">🧩</div>
+                    <h3 class="text-2xl font-bold text-stone-800">Spektrum Autyzmu (np. Zespół Aspergera)</h3>
+                </div>
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                    <div>
+                        <h4 class="font-bold text-teal-700 mb-2 uppercase text-xs tracking-wider">Kluczowe Przewagi Biznesowe</h4>
+                        <ul class="space-y-2 text-stone-700">
+                            <li>• <span class="font-bold">Rozpoznawanie wzorców:</span> Błyskawiczne zauważanie anomalii w kodzie lub dużych zbiorach danych.</li>
+                            <li>• <span class="font-bold">Uwaga na detale:</span> Ekstremalna precyzja i obniżony wskaźnik błędów w powtarzalnych, logicznych zadaniach.</li>
+                            <li>• <span class="font-bold">Uczciwość i lojalność:</span> Bezpośrednia komunikacja oparta na faktach, wysoka etyka pracy.</li>
+                        </ul>
+                    </div>
+                    <div>
+                        <h4 class="font-bold text-amber-600 mb-2 uppercase text-xs tracking-wider">Idealne Role (IT / Biznes)</h4>
+                        <p class="text-stone-700 leading-relaxed">
+                            Data Scientist, Tester Oprogramowania (QA), Backend Developer, Analityk Cyberbezpieczeństwa, Inżynier Systemowy.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div id="tab-dys" class="tab-content">
+                <div class="flex items-center gap-4 mb-6">
+                    <div class="text-4xl">👁️</div>
+                    <h3 class="text-2xl font-bold text-stone-800">Dysleksja</h3>
+                </div>
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                    <div>
+                        <h4 class="font-bold text-teal-700 mb-2 uppercase text-xs tracking-wider">Kluczowe Przewagi Biznesowe</h4>
+                        <ul class="space-y-2 text-stone-700">
+                            <li>• <span class="font-bold">Myślenie systemowe:</span> Zdolność do widzenia "wielkiego obrazu" (big picture) i łączenia odległych faktów.</li>
+                            <li>• <span class="font-bold">Inteligencja wizualno-przestrzenna:</span> Doskonałe radzenie sobie z architekturą systemów i designem.</li>
+                            <li>• <span class="font-bold">Rozwiązywanie problemów:</span> Wymyślanie skrótów i optymalizacji procesów z powodu konieczności omijania trudności związanych z czytaniem/pisaniem.</li>
+                        </ul>
+                    </div>
+                    <div>
+                        <h4 class="font-bold text-amber-600 mb-2 uppercase text-xs tracking-wider">Idealne Role (IT / Biznes)</h4>
+                        <p class="text-stone-700 leading-relaxed">
+                            Architekt IT, UI/UX Designer, Product Manager, Inżynier Sprzętu, Dyrektor Kreatywny.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+</main>
+
+<footer class="bg-stone-900 text-stone-400 py-8 text-center text-sm mt-12 border-t border-stone-800">
+    <div class="max-w-6xl mx-auto px-4">
+        <p>Interaktywny Raport utworzony dla celów analitycznych i edukacyjnych.</p>
+        <p class="mt-2 text-xs">Dane bazują na agregacji globalnych badań dotyczących neuroróżnorodności na rynku pracy (m.in. Harvard Business Review, dysleksja.pl, raporty branżowe IT).</p>
+    </div>
+</footer>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        
+        Chart.defaults.font.family = 'ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif';
+        Chart.defaults.color = '#78716c'; 
+        
+        const ctxSociety = document.getElementById('societyChart').getContext('2d');
+        new Chart(ctxSociety, {
+            type: 'doughnut',
+            data: {
+                labels: ['Dysleksja (10%)', 'ADHD (5%)', 'Spektrum Autyzmu (2%)', 'Inne (3%)', 'Neurotypowi (80%)'],
+                datasets: [{
+                    data: [10, 5, 2, 3, 80],
+                    backgroundColor: [
+                        '#0d9488', 
+                        '#f59e0b', 
+                        '#3f6212', 
+                        '#78716c', 
+                        '#e7e5e4'  
+                    ],
+                    borderWidth: 0,
+                    hoverOffset: 10
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                cutout: '65%',
+                plugins: {
+                    legend: {
+                        position: 'right',
+                        labels: {
+                            generateLabels: function(chart) {
+                                const original = Chart.overrides.pie.plugins.legend.labels.generateLabels;
+                                const labelsOriginal = original.call(this, chart);
+                                labelsOriginal.forEach(label => {
+                                    if(label.text.length > 16) {
+                                        label.text = label.text.substring(0, 16) + '...';
+                                    }
+                                });
+                                return labelsOriginal;
+                            }
+                        }
+                    },
+                    tooltip: {
+                        callbacks: {
+                            label: function(context) {
+                                return ' ' + context.label.split(' (')[0] + ': ' + context.raw + '% populacji';
+                            }
+                        }
+                    }
+                }
+            }
+        });
+
+        const ctxProfessions = document.getElementById('professionsChart').getContext('2d');
+        new Chart(ctxProfessions, {
+            type: 'bar',
+            data: {
+                labels: ['Ogół Społeczeństwa', 'Branża IT / Tech', 'Przedsiębiorcy', 'Przemysł Kreatywny', 'Administracja/Biurowe'],
+                datasets: [{
+                    label: 'Szacunkowy % osób neuroatypowych',
+                    data: [20, 30, 25, 28, 12],
+                    backgroundColor: [
+                        'rgba(168, 162, 158, 0.6)', 
+                        'rgba(13, 148, 136, 0.9)', 
+                        'rgba(245, 158, 11, 0.8)', 
+                        'rgba(63, 98, 18, 0.7)',   
+                        'rgba(168, 162, 158, 0.4)'  
+                    ],
+                    borderColor: [
+                        '#a8a29e', '#0d9488', '#f59e0b', '#3f6212', '#a8a29e'
+                    ],
+                    borderWidth: 1,
+                    borderRadius: 4
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        max: 40,
+                        grid: { color: '#44403c', drawBorder: false },
+                        ticks: {
+                            callback: function(value) { return value + '%'; },
+                            color: '#a8a29e'
+                        }
+                    },
+                    x: {
+                        grid: { display: false },
+                        ticks: { color: '#d6d3d1' }
+                    }
+                },
+                plugins: {
+                    legend: { display: false },
+                    tooltip: {
+                        backgroundColor: 'rgba(28, 25, 23, 0.9)',
+                        titleColor: '#fff',
+                        bodyColor: '#e7e5e4',
+                        padding: 12,
+                        callbacks: {
+                            label: function(context) {
+                                return context.raw + '% pracowników';
+                            }
+                        }
+                    }
+                }
+            }
+        });
+
+        const tabButtons = document.querySelectorAll('#tab-buttons button');
+        const tabContents = document.querySelectorAll('.tab-content');
+
+        tabButtons.forEach(button => {
+            button.addEventListener('click', () => {
+                
+                tabButtons.forEach(btn => {
+                    btn.classList.remove('bg-teal-600', 'text-white', 'shadow-md');
+                    btn.classList.add('bg-stone-100', 'text-stone-600');
+                });
+                
+                button.classList.remove('bg-stone-100', 'text-stone-600');
+                button.classList.add('bg-teal-600', 'text-white', 'shadow-md');
+
+                
+                tabContents.forEach(content => {
+                    content.classList.remove('active');
+                });
+
+                
+                const targetId = button.getAttribute('data-target');
+                document.getElementById(targetId).classList.add('active');
+            });
+        });
+    });
+</script>
+
+</body>
+</html>

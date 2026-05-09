@@ -47,6 +47,10 @@ Prelegent odpowiada impulsywnie, przerywa pytającemu i przedstawia pewne wniosk
 ## Perspektywa nieoczywista
 
 Najtrudniejsze pytania bywają nie zagrożeniem, lecz sygnałem jakości audytorium. Krytyczne pytanie zwiększa wartość wystąpienia, jeśli mówca potraktuje je jako okazję do doprecyzowania granic wiedzy, a nie walkę o status.
+## Powiązane artykuły (cross-linki)
+
+- `students/wystapienia_publiczne_autoprezentacja` — psychologia skutecznego przekazu.
+- `spoleczna/perswazja` — mechanizmy wpływu społecznego.
 
 ## Podsumowanie
 

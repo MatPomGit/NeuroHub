@@ -749,6 +749,26 @@ em{color:var(--goldl)}
 .art-badge:is(.is-disabled,.planned){background:var(--bg4);color:var(--t3);border-color:var(--border)}
 .art-badge.wiki{background:var(--goldt);color:var(--gold);border-color:rgba(201,162,39,.3)}
 .art-badge.xlink{background:rgba(91,140,184,.15);color:var(--blue);border-color:rgba(91,140,184,.3)}
+/* Moduł podglądu instrukcji laboratoryjnych PDF. */
+.pdf-lab-browser{display:grid;gap:.9rem}
+.pdf-lab-controls{display:flex;flex-wrap:wrap;gap:.6rem;align-items:center}
+.pdf-lab-controls label{font-size:.86rem;color:var(--t2)}
+.pdf-lab-controls select{
+  min-width:260px;max-width:100%;
+  background:var(--bg2);color:var(--t1);border:1px solid var(--border);
+  border-radius:8px;padding:.42rem .55rem;font:inherit;
+}
+.pdf-lab-controls a{
+  font-size:.82rem;text-decoration:none;
+  padding:.42rem .62rem;border-radius:8px;
+  border:1px solid rgba(91,140,184,.35);color:var(--blue);background:rgba(91,140,184,.1);
+}
+.pdf-lab-viewer-wrap{display:grid;gap:.5rem}
+.pdf-lab-viewer-wrap iframe{
+  width:100%;height:72vh;min-height:520px;
+  border:1px solid var(--border);border-radius:10px;background:var(--bg2);
+}
+.pdf-lab-mobile-hint{margin:0;font-size:.8rem;color:var(--t3);display:none}
 
 /* ═══════════════════════════════════════════
    GLOSSARY
@@ -940,6 +960,11 @@ em{color:var(--goldl)}
     padding:.18rem .5rem;
     margin-top:.18rem;
   }
+  .pdf-lab-controls{align-items:stretch}
+  .pdf-lab-controls select{min-width:0;width:100%}
+  .pdf-lab-controls a{text-align:center}
+  .pdf-lab-viewer-wrap iframe{height:58vh;min-height:320px}
+  .pdf-lab-mobile-hint{display:block}
 }
 @media(min-width:901px){
   .ttest-layout{

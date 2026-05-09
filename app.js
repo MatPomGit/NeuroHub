@@ -1217,9 +1217,9 @@ function renderDailyPsychology(id, item) {
       const weeklyFacts = getWeeklyFactsMap(facts, getWeekStartMonday(new Date()));
       const fact = weeklyFacts.get(entry.day);
       if (!fact) return;
-      const titleNode = area.querySelector('.daily-card .daily-card-title');
-      const leadNode = area.querySelector('.daily-card .daily-card-lead');
-      const bodyNode = area.querySelector('.daily-card .daily-card-body');
+      const titleNode = area.querySelector('.daily-card:first-of-type .daily-card-title');
+      const leadNode = area.querySelector('.daily-card:first-of-type .daily-card-lead');
+      const bodyNode = area.querySelector('.daily-card:first-of-type .daily-card-body');
       if (!titleNode || !leadNode || !bodyNode) return;
       titleNode.textContent = fact.title;
       leadNode.textContent = fact.message;

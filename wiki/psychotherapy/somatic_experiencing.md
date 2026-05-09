@@ -33,7 +33,7 @@ W SE tempo interwencji jest kluczowe. Zbyt szybka aktywacja może nasilić dysoc
 
 ### 4. Aktualność źródeł i granice dowodów
 
-W obszarze terapii traumy baza badań szybko się rozwija, dlatego wnioski praktyczne powinny być cyklicznie rewidowane. W tym artykule utrzymano równowagę między literaturą klasyczną i nowszymi opracowaniami, ale rekomendowane jest okresowe sprawdzanie nowych metaanaliz oraz badań porównawczych dotyczących skuteczności i bezpieczeństwa interwencji somatycznych.
+W obszarze terapii traumy baza dowodowa ewoluuje dynamicznie, co wymaga regularnej rewizji wniosków praktycznych. Artykuł uwzględnia zarówno literaturę klasyczną, jak i współczesne opracowania, jednak zaleca się systematyczne śledzenie nowych metaanaliz oraz badań porównawczych dotyczących skuteczności i bezpieczeństwa interwencji somatycznych.
 
 ## Dobra praktyka
 

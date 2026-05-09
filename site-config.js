@@ -1482,6 +1482,7 @@ window.SITE_CONFIG = {
         { id: 'wiki-index/nvc',                  label: 'WIKI - Porozumiewanie się bez przemocy',    wiki: 'nvc'                  },
         { id: 'wiki-index/seminarium_dyplomowe', label: 'WIKI - Seminarium dyplomowe',               wiki: 'seminarium_dyplomowe' },
         { id: 'wiki-index/podstawy_pomocy',      label: 'WIKI - Podstawy pomocy psychologicznej',    wiki: 'podstawy_pomocy'      },
+        { id: 'wiki-index/dodatkowe_strony',     label: 'WIKI - Dodatkowe strony',                   wiki: 'dodatkowe_strony'     },
       ]
     },
     {
@@ -3598,6 +3599,21 @@ window.SITE_CONFIG = {
             { label: 'Dobre praktyki w pisaniu pracy',   id: 'ppd/dobre_praktyki',  status: 'live', desc: 'Organizacja czasu, zarządzanie danymi, relacja z promotorem, dobrostan.' },
           ]
         },
+      ]
+    },
+
+    dodatkowe_strony: {
+      title: 'WIKI - Dodatkowe strony',
+      intro: 'Zbiór dodatkowych materiałów HTML umieszczonych w katalogu /pages. Sekcja ułatwia szybki dostęp do stron pomocniczych i raportów.',
+      sections: [
+        {
+          title: 'Strony HTML w katalogu /pages',
+          articles: [
+            { label: 'Przyjaźń', href: 'pages/przyjazn.html', status: 'xlink', desc: 'Dodatkowa strona HTML: przyjazn.html.' },
+            { label: 'Raport neuroróżnorodności', href: 'pages/Raport_neuroroznorodnosci.html', status: 'xlink', desc: 'Dodatkowa strona HTML: Raport_neuroroznorodnosci.html.' },
+            { label: 'Diagnoza - prezentacja', href: 'pages/diagnoza_prezentacja.html', status: 'xlink', desc: 'Dodatkowa strona HTML: diagnoza_prezentacja.html.' },
+          ]
+        }
       ]
     },
 

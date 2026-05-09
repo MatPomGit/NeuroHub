@@ -1461,10 +1461,21 @@ function artCard(art) {
   const isEmpty = art.id && emptyArticles.has(art.id);
   const effectiveStatus = isEmpty ? 'is-empty' : (art.status === 'planned' ? 'is-disabled' : art.status);
   const lbl = {live:'dostępny','is-disabled':'planowany',wiki:'wiki',xlink:'wspólny ↗','is-empty':'pusty'};
-  const clickable = (isEmpty || art.status==='live'||art.status==='wiki'||art.status==='xlink') && art.id;
-  const click = clickable ? `onclick="navigate('${art.id}')"` : '';
+  // Obsługa dwóch typów kart: nawigacja wewnętrzna (id) i odnośniki do stron HTML (href).
+  const clickableById = (isEmpty || art.status==='live'||art.status==='wiki'||art.status==='xlink') && art.id;
+  const clickableByHref = art.status === 'xlink' && art.href;
+  const click = clickableById ? `onclick="navigate('${art.id}')"` : '';
   const artid = art.id ? `data-artid="${art.id}"` : '';
   const desc = art.desc ? `<div class="art-desc">${art.desc}</div>` : '';
+
+  if (clickableByHref && !clickableById) {
+    return `<a class="art-card ${effectiveStatus}" href="${q(art.href)}" target="_blank" rel="noopener noreferrer">
+      <div class="art-dot ${effectiveStatus}"></div>
+      <div class="art-body"><div class="art-lbl">${art.label}</div>${desc}</div>
+      <span class="art-badge ${effectiveStatus}">${lbl[effectiveStatus]||effectiveStatus}</span>
+    </a>`;
+  }
+
   return `<div class="art-card ${effectiveStatus}" ${artid} ${click}>
     <div class="art-dot ${effectiveStatus}"></div>
     <div class="art-body"><div class="art-lbl">${art.label}</div>${desc}</div>

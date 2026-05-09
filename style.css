@@ -562,7 +562,7 @@ em{color:var(--goldl)}
 
 /* KOMPONENTY: .ttest-* */
 /* Poszerzamy kontener testów, aby pytania i odpowiedzi nie układały się w zbyt wąskiej kolumnie. */
-.ttest-wrap{max-width:1320px;width:min(100%,1320px)}
+.ttest-wrap{max-width:1480px;width:min(100%,1480px)}
 .ttest-layout{
   display:grid;
   gap:1rem;
@@ -924,8 +924,8 @@ em{color:var(--goldl)}
 }
 @media(min-width:901px){
   .ttest-layout{
-    /* Na desktopie panel boczny ma stałą, przewidywalną szerokość, a kolumna pytań otrzymuje więcej miejsca. */
-    grid-template-columns:minmax(280px,340px) minmax(0,1fr);
+    /* Na desktopie zwężamy panel boczny i poszerzamy obszar główny, aby pytania oraz odpowiedzi były czytelniejsze. */
+    grid-template-columns:minmax(220px,280px) minmax(0,1fr);
     grid-template-areas:"side main";
     align-items:start;
   }

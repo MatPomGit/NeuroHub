@@ -6,18 +6,18 @@ evidenceCutoffDate: 2026-05-01
 
 # Psycholog w IT: kompetencje, mierniki i portfolio wejścia do branży
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 
 Wiele osób kończących psychologię pyta nie „czy” mogą pracować w IT, ale „jak” przejść od wiedzy akademickiej do roli produktowej. Najczęstsza trudność polega na braku przełożenia kompetencji psychologicznych na język zespołów technologicznych: metryki, eksperyment, ryzyko i decyzja biznesowa.
 
-## Definicje kluczowych pojęć
+## Definicje
 
 - **Portfolio kompetencyjne** — zestaw przykładów projektów pokazujących sposób myślenia badawczego i jakość wnioskowania.
 - **Miernik wiodący (leading indicator)** — wskaźnik sygnalizujący zmianę wcześniej niż wynik końcowy.
 - **Miernik wynikowy (lagging indicator)** — wskaźnik opisujący rezultat po czasie (np. retencja kwartalna).
 - **Triangulacja danych** — łączenie co najmniej dwóch źródeł danych dla mocniejszego wniosku.
 
-## Część analityczna
+## Analiza
 
 ### 1. Kompetencje psychologa, które IT realnie kupuje
 

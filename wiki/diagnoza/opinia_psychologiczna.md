@@ -45,6 +45,9 @@ Wyniki należy przedstawiać problemowo (np. poznanie, emocje, funkcjonowanie sp
 ### 3.4. Integracja i interpretacja
 
 Tu odpowiadamy na pytanie: **jak dane z różnych źródeł układają się w spójny model funkcjonowania?** Wnioski wymagają wskazania danych wspierających i alternatywnych interpretacji [2].
+3. **Testy i metody badania**
+   - Wykaz narzędzi badawczych (testy, wywiady, obserwacja)
+   - Daty i okoliczności przeprowadzenia poszczególnych badań
 
 ### 3.5. Wnioski funkcjonalne
 

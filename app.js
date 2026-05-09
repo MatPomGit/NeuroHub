@@ -2104,7 +2104,53 @@ const speechState = {
   utterance: null,
   isSpeaking: false,
   autoNext: localStorage.getItem('psyhub-speech-auto-next') === '1',
+  voiceMode: localStorage.getItem('psyhub-speech-voice-mode') === 'alt' ? 'alt' : 'natural',
 };
+
+
+
+/* Wybiera najlepszy głos dla języka polskiego, preferując naturalniejsze głosy systemowe. */
+function choosePreferredVoice(mode) {
+  if (!speechState.synth?.getVoices) return null;
+  const allVoices = speechState.synth.getVoices();
+  const polishVoices = allVoices.filter(v => (v.lang || '').toLowerCase().startsWith('pl'));
+  const voices = polishVoices.length ? polishVoices : allVoices;
+  if (!voices.length) return null;
+
+  const scored = voices.map((voice, index) => {
+    const name = (voice.name || '').toLowerCase();
+    const lang = (voice.lang || '').toLowerCase();
+    let score = 0;
+
+    if (lang.startsWith('pl')) score += 90;
+    if (voice.localService) score += 25;
+    if (voice.default) score += 20;
+
+    if (mode === 'natural') {
+      if (/natural|premium|enhanced|neural|online/.test(name)) score += 30;
+      if (/google|microsoft|zosia|agnieszka/.test(name)) score += 15;
+    } else {
+      if (/alt|alternative|anna|ewa|marek|paulina|zofia/.test(name)) score += 28;
+      if (/google|microsoft|apple/.test(name)) score += 10;
+      score -= index;
+    }
+
+    return { voice, score };
+  }).sort((a, b) => b.score - a.score);
+
+  return scored[0]?.voice || null;
+}
+
+/* Aktualizuje etykietę przełącznika stylu głosu i stan ARIA. */
+function updateVoiceModeButtonState() {
+  const voiceModeBtn = document.getElementById('speechVoiceMode');
+  if (!voiceModeBtn) return;
+  const isAlt = speechState.voiceMode === 'alt';
+  voiceModeBtn.classList.toggle('is-active', isAlt);
+  voiceModeBtn.setAttribute('aria-pressed', isAlt ? 'true' : 'false');
+  voiceModeBtn.setAttribute('aria-label', isAlt ? 'Tryb głosu alternatywny' : 'Tryb głosu naturalny');
+  voiceModeBtn.textContent = isAlt ? 'Głos: alternatywny' : 'Głos: naturalny';
+}
 
 /* Zbiera czytelny tekst z głównego kontenera treści, pomijając elementy nawigacyjne i dekoracyjne. */
 function getReadableContentText() {
@@ -2151,17 +2197,20 @@ function setupSpeechControls() {
   const toggleBtn = document.getElementById('speechToggle');
   const stopBtn = document.getElementById('speechStop');
   const autoNextBtn = document.getElementById('speechAutoNext');
-  if (!toggleBtn || !stopBtn || !autoNextBtn) return;
+  const voiceModeBtn = document.getElementById('speechVoiceMode');
+  if (!toggleBtn || !stopBtn || !autoNextBtn || !voiceModeBtn) return;
 
   if (!speechState.synth || typeof SpeechSynthesisUtterance === 'undefined') {
     toggleBtn.disabled = true;
     stopBtn.disabled = true;
     autoNextBtn.disabled = true;
+    voiceModeBtn.disabled = true;
     toggleBtn.title = 'Przeglądarka nie wspiera syntezy mowy';
     return;
   }
 
   updateAutoNextButtonState();
+  updateVoiceModeButtonState();
 
   toggleBtn.addEventListener('click', () => {
     if (speechState.isSpeaking) {
@@ -2183,8 +2232,10 @@ function setupSpeechControls() {
 
     const utterance = new SpeechSynthesisUtterance(text);
     utterance.lang = document.documentElement.lang || 'pl-PL';
-    utterance.rate = 1;
-    utterance.pitch = 1;
+    const selectedVoice = choosePreferredVoice(speechState.voiceMode);
+    if (selectedVoice) utterance.voice = selectedVoice;
+    utterance.rate = speechState.voiceMode === 'alt' ? 0.96 : 1.02;
+    utterance.pitch = speechState.voiceMode === 'alt' ? 1.1 : 1;
 
     utterance.onstart = () => {
       speechState.isSpeaking = true;
@@ -2218,6 +2269,19 @@ function setupSpeechControls() {
     localStorage.setItem('psyhub-speech-auto-next', speechState.autoNext ? '1' : '0');
     updateAutoNextButtonState();
   });
+
+  voiceModeBtn.addEventListener('click', () => {
+    speechState.voiceMode = speechState.voiceMode === 'natural' ? 'alt' : 'natural';
+    localStorage.setItem('psyhub-speech-voice-mode', speechState.voiceMode);
+    updateVoiceModeButtonState();
+
+    /* Jeśli czytanie trwa, restartujemy je z nowymi parametrami głosu. */
+    if (speechState.isSpeaking) {
+      stopReadingContent();
+      toggleBtn.click();
+    }
+  });
+
   window.addEventListener('hashchange', stopReadingContent);
 }
 
@@ -2541,8 +2605,11 @@ window.addEventListener('DOMContentLoaded', ()=>{
 
   function applyTheme(theme) {
     document.documentElement.dataset.theme = themeAttr(theme);
+    /* Synchronizuje stan aktywności motywów dla stylowania i czytników ekranu. */
     document.querySelectorAll('.theme-btn').forEach(btn => {
-      btn.classList.toggle('is-active', btn.dataset.theme === theme);
+      const isActive = btn.dataset.theme === theme;
+      btn.classList.toggle('is-active', isActive);
+      btn.setAttribute('aria-pressed', isActive ? 'true' : 'false');
     });
     localStorage.setItem('psyhub-theme', theme);
   }
@@ -2556,7 +2623,9 @@ window.addEventListener('DOMContentLoaded', ()=>{
   window.addEventListener('DOMContentLoaded', () => {
     // Sync button states
     document.querySelectorAll('.theme-btn').forEach(btn => {
-      btn.classList.toggle('is-active', btn.dataset.theme === active);
+      const isActive = btn.dataset.theme === active;
+      btn.classList.toggle('is-active', isActive);
+      btn.setAttribute('aria-pressed', isActive ? 'true' : 'false');
       btn.addEventListener('click', () => applyTheme(btn.dataset.theme));
     });
     /* Rejestruje zmianę wielkości czcionki i odtwarza aktywny stan przycisków. */

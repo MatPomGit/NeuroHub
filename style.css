@@ -108,10 +108,29 @@ a:hover{text-decoration:underline}
 strong{color:var(--t1);font-weight:600}
 em{color:var(--goldl)}
 
+/* Klasa techniczna: ukrywa etykietę wizualnie, pozostawiając ją dostępną dla czytników ekranu. */
+.sr-only{
+  position:absolute;
+  width:1px;
+  height:1px;
+  padding:0;
+  margin:-1px;
+  overflow:hidden;
+  clip:rect(0,0,0,0);
+  white-space:nowrap;
+  border:0;
+}
+
 /* Globalny styl :focus-visible dla kluczowych elementów sterowania i pól formularzy. */
 :is(
   .nav-item,
   .nav-item-btn,
+  .theme-btn,
+  .font-btn,
+  .speech-btn,
+  .btn-menu,
+  .s-filter-btn,
+  .s-logo,
   .test-btn,
   .daily-day-btn,
   .pnav-btn,

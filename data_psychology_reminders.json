@@ -1,0 +1,191 @@
+{
+  "version": 1,
+  "locale": "pl-PL",
+  "deliveryWindow": {
+    "startHour": 7,
+    "endHour": 8,
+    "timezone": "local"
+  },
+  "facts": [
+    {
+      "id": "fact-001",
+      "title": "Sen wspiera pamięć",
+      "message": "Podczas snu wolnofalowego mózg konsoliduje nowe informacje. Krótka powtórka wieczorem zwykle pomaga zapamiętać więcej następnego dnia.",
+      "source": "Diekelmann, S., & Born, J. (2010). The memory function of sleep. Nature Reviews Neuroscience."
+    },
+    {
+      "id": "fact-002",
+      "title": "Krótki spacer obniża napięcie",
+      "message": "Już kilkanaście minut umiarkowanego ruchu może obniżać poziom stresu i poprawiać nastrój dzięki zmianom neurochemicznym i regulacji pobudzenia.",
+      "source": "Salmon, P. (2001). Effects of physical exercise on anxiety, depression, and sensitivity to stress. Clinical Psychology Review."
+    },
+    {
+      "id": "fact-003",
+      "title": "Efekt ekspozycji działa subtelnie",
+      "message": "Częsty kontakt z bodźcem zwykle zwiększa jego lubienie — o ile bodziec nie jest silnie awersyjny od początku.",
+      "source": "Zajonc, R. B. (1968). Attitudinal effects of mere exposure. Journal of Personality and Social Psychology."
+    },
+    {
+      "id": "fact-004",
+      "title": "Nazwanie emocji pomaga je regulować",
+      "message": "Precyzyjne nazwanie emocji (np. „jestem rozdrażniony”, a nie tylko „źle się czuję”) bywa związane z lepszą samoregulacją.",
+      "source": "Lieberman, M. D. et al. (2007). Putting feelings into words. Psychological Science."
+    },
+    {
+      "id": "fact-005",
+      "title": "Wdzięczność wzmacnia dobrostan",
+      "message": "Regularne ćwiczenia wdzięczności wiążą się z wyższym poziomem dobrostanu i bardziej adaptacyjnym stylem myślenia.",
+      "source": "Emmons, R. A., & McCullough, M. E. (2003). Counting blessings versus burdens. Journal of Personality and Social Psychology."
+    },
+    {
+      "id": "fact-006",
+      "title": "Wielozadaniowość ma koszt poznawczy",
+      "message": "Przełączanie uwagi między zadaniami obniża efektywność i zwiększa liczbę błędów. Mózg płaci „podatek” za każde przełączenie kontekstu.",
+      "source": "Monsell, S. (2003). Task switching. Trends in Cognitive Sciences."
+    },
+    {
+      "id": "fact-007",
+      "title": "Wsparcie społeczne chroni przed stresem",
+      "message": "Jakość relacji społecznych jest jednym z najsilniejszych predyktorów zdrowia psychicznego i fizycznego.",
+      "source": "Holt-Lunstad, J. et al. (2010). Social relationships and mortality risk. PLoS Medicine."
+    },
+    {
+      "id": "fact-008",
+      "title": "Oddech wydłużony na wydechu uspokaja",
+      "message": "Wydłużenie fazy wydechu może wspierać aktywację przywspółczulną i obniżenie pobudzenia autonomicznego.",
+      "source": "Laborde, S. et al. (2017). Heart rate variability and autonomic regulation. Frontiers in Psychology."
+    },
+    {
+      "id": "fact-009",
+      "title": "Sen i emocje są silnie powiązane",
+      "message": "Niedobór snu zwiększa reaktywność emocjonalną i utrudnia kontrolę poznawczą nad impulsywnymi reakcjami.",
+      "source": "Yoo, S.-S. et al. (2007). The human emotional brain without sleep. Current Biology."
+    },
+    {
+      "id": "fact-010",
+      "title": "Małe cele zwiększają wytrwałość",
+      "message": "Dzielenie dużego celu na krótkie etapy poprawia poczucie sprawstwa i wspiera utrzymanie motywacji.",
+      "source": "Bandura, A. (1997). Self-efficacy: The exercise of control."
+    },
+    {
+      "id": "fact-011",
+      "title": "Efekt Zeigarnik",
+      "message": "Niedokończone zadania częściej wracają do świadomości niż zakończone, dlatego warto domykać małe etapy pracy.",
+      "source": "Zeigarnik, B. (1927). Über das Behalten erledigter und unerledigter Handlungen."
+    },
+    {
+      "id": "fact-012",
+      "title": "Implementacja intencji działa",
+      "message": "Plan typu „jeśli X, to zrobię Y” znacząco zwiększa szansę wykonania działania, bo redukuje koszt decyzji w chwili działania.",
+      "source": "Gollwitzer, P. M. (1999). Implementation intentions. American Psychologist."
+    },
+    {
+      "id": "fact-013",
+      "title": "Efekt testowania",
+      "message": "Aktywne odtwarzanie wiedzy (np. quiz) zwykle daje trwalsze uczenie niż samo ponowne czytanie materiału.",
+      "source": "Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning. Psychological Science."
+    },
+    {
+      "id": "fact-014",
+      "title": "Samowspółczucie wspiera odporność",
+      "message": "Osoby praktykujące samowspółczucie częściej szybciej wracają do równowagi po porażce niż osoby o wysokiej samokrytyce.",
+      "source": "Neff, K. D. (2003). Self-compassion: An alternative conceptualization. Self and Identity."
+    },
+    {
+      "id": "fact-015",
+      "title": "Mikroprzerwy poprawiają wydajność",
+      "message": "Krótkie przerwy w pracy poznawczej pomagają utrzymać koncentrację i ograniczają narastanie zmęczenia mentalnego.",
+      "source": "Kim, S. et al. (2017). Micro-break activities at work. PLOS ONE."
+    },
+    {
+      "id": "fact-016",
+      "title": "Efekt oczekiwań placebo",
+      "message": "Pozytywne oczekiwania wobec interwencji mogą wywoływać mierzalne zmiany w odczuwaniu objawów i dobrostanie.",
+      "source": "Benedetti, F. (2014). Placebo Effects."
+    },
+    {
+      "id": "fact-017",
+      "title": "Uważność obniża ruminacje",
+      "message": "Regularny trening mindfulness bywa związany ze spadkiem nawykowego zamartwiania i lepszą regulacją uwagi.",
+      "source": "Keng, S.-L. et al. (2011). Effects of mindfulness on psychological health. Clinical Psychology Review."
+    },
+    {
+      "id": "fact-018",
+      "title": "Pamięć robocza ma ograniczoną pojemność",
+      "message": "Przeciążenie pamięci roboczej pogarsza rozumowanie i podejmowanie decyzji, dlatego warto porcjować informacje.",
+      "source": "Cowan, N. (2010). The magical mystery four. Current Directions in Psychological Science."
+    },
+    {
+      "id": "fact-019",
+      "title": "Zielone otoczenie wspiera regenerację",
+      "message": "Kontakt z naturą może przyspieszać regenerację zasobów uwagi i obniżać napięcie psychofizjologiczne.",
+      "source": "Berman, M. G. et al. (2008). The cognitive benefits of interacting with nature. Psychological Science."
+    },
+    {
+      "id": "fact-020",
+      "title": "Synchronizacja społeczna buduje więź",
+      "message": "Wspólne rytmy ruchu (np. marsz, taniec) często zwiększają poczucie przynależności i współpracy.",
+      "source": "Hove, M. J., & Risen, J. L. (2009). It's all in the timing. Social Cognition."
+    },
+    {
+      "id": "fact-021",
+      "title": "Negativity bias",
+      "message": "Negatywne informacje zwykle silniej przyciągają uwagę niż pozytywne, co może zniekształcać ocenę sytuacji.",
+      "source": "Baumeister, R. F. et al. (2001). Bad is stronger than good. Review of General Psychology."
+    },
+    {
+      "id": "fact-022",
+      "title": "Sen REM i kreatywność",
+      "message": "Faza REM sprzyja bardziej odległym skojarzeniom, co może wspierać twórcze rozwiązywanie problemów.",
+      "source": "Cai, D. J. et al. (2009). REM, not incubation, improves creativity. PNAS."
+    },
+    {
+      "id": "fact-023",
+      "title": "Reappraisal działa",
+      "message": "Zmiana interpretacji sytuacji stresowej (reappraisal) może obniżać pobudzenie i wspierać adaptacyjne działanie.",
+      "source": "Gross, J. J. (1998). The emerging field of emotion regulation. Review of General Psychology."
+    },
+    {
+      "id": "fact-024",
+      "title": "Kontakt wzrokowy a pamięć",
+      "message": "Adekwatny kontakt wzrokowy bywa powiązany z lepszym kodowaniem treści społecznych w rozmowie.",
+      "source": "Doherty-Sneddon, G. et al. (2002). Gaze aversion and memory. Cognitive Processing."
+    },
+    {
+      "id": "fact-025",
+      "title": "Muzyka a nastrój",
+      "message": "Słuchanie muzyki dobranej do celu regulacyjnego może skutecznie modulować nastrój i pobudzenie.",
+      "source": "Thoma, M. V. et al. (2013). The effect of music on the human stress response. PLOS ONE."
+    },
+    {
+      "id": "fact-026",
+      "title": "Efekt świeżości i pierwszeństwa",
+      "message": "Pozycja informacji w sekwencji wpływa na pamięć: lepiej pamiętamy początek i koniec listy niż środek.",
+      "source": "Murdock, B. B. (1962). The serial position effect. Journal of Experimental Psychology."
+    },
+    {
+      "id": "fact-027",
+      "title": "Nawyki tworzą się kontekstowo",
+      "message": "Powtarzanie działania w stałym kontekście ułatwia automatyzację nawyku i zmniejsza koszt samokontroli.",
+      "source": "Lally, P. et al. (2010). How are habits formed. European Journal of Social Psychology."
+    },
+    {
+      "id": "fact-028",
+      "title": "Praktyka rozłożona w czasie",
+      "message": "Uczenie rozłożone na krótsze sesje zwykle daje lepsze rezultaty długoterminowe niż „zakuwanie” jednorazowe.",
+      "source": "Cepeda, N. J. et al. (2006). Distributed practice in verbal recall tasks. Psychological Bulletin."
+    },
+    {
+      "id": "fact-029",
+      "title": "Efekt bycia obserwowanym",
+      "message": "Sama obecność innych może poprawiać wykonanie prostych zadań i pogarszać trudne (facylitacja społeczna).",
+      "source": "Zajonc, R. B. (1965). Social facilitation. Science."
+    },
+    {
+      "id": "fact-030",
+      "title": "Humor jako bufor stresu",
+      "message": "Adekwatny humor bywa adaptacyjną strategią radzenia sobie, zmniejszając subiektywne napięcie.",
+      "source": "Martin, R. A. (2007). The Psychology of Humor."
+    }
+  ]
+}

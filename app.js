@@ -2139,45 +2139,61 @@ async function loadReminderFacts() {
   return reminderFactsCache;
 }
 
-/* Wylicza deterministycznie ciekawostkę dnia na podstawie daty lokalnej. */
-function pickReminderFactForDate(facts, date = new Date()) {
-  if (!Array.isArray(facts) || facts.length === 0) return null;
-  const key = Number(date.toISOString().slice(0, 10).replace(/-/g, ''));
-  return facts[key % facts.length] || facts[0];
+const REMINDER_LAST_SENT_KEY = 'psyhub-last-reminder-date';
+const REMINDER_PERMISSION_PROMPT_KEY = 'psyhub-reminder-permission-prompt-shown';
+
+/* Zwraca datę lokalną w formacie YYYY-MM-DD (bez ryzyka przesunięcia przez UTC). */
+function getLocalDateKey(date = new Date()) {
+  const year = date.getFullYear();
+  const month = String(date.getMonth() + 1).padStart(2, '0');
+  const day = String(date.getDate()).padStart(2, '0');
+  return `${year}-${month}-${day}`;
 }
 
-/* Oblicza czas do kolejnego powiadomienia w oknie 07:00–08:00 czasu lokalnego. */
+/* Losuje ciekawostkę dnia na podstawie bieżącej puli. */
+function pickRandomReminderFact(facts) {
+  if (!Array.isArray(facts) || facts.length === 0) return null;
+  const randomIndex = Math.floor(Math.random() * facts.length);
+  return facts[randomIndex] || facts[0];
+}
+
+/* Oblicza czas do kolejnego uruchomienia przypomnienia (następna 08:00 czasu lokalnego). */
 function getDelayUntilNextReminder(now = new Date()) {
   const next = new Date(now);
-  const isBeforeWindow = now.getHours() < 7;
-  const isInWindow = now.getHours() >= 7 && now.getHours() < 8;
+  const hasReachedMorningReminder = now.getHours() >= 8;
 
-  if (isBeforeWindow) {
-    next.setHours(7, 0, 0, 0);
-  } else if (isInWindow) {
-    next.setHours(now.getHours(), now.getMinutes(), now.getSeconds(), now.getMilliseconds());
-  } else {
+  if (hasReachedMorningReminder) {
     next.setDate(next.getDate() + 1);
-    next.setHours(7, 0, 0, 0);
   }
 
+  next.setHours(8, 0, 0, 0);
   return Math.max(0, next.getTime() - now.getTime());
 }
 
 /* Wyświetla mobilne powiadomienie z naukową ciekawostką psychologiczną. */
 async function showPsychologyReminderNotification() {
   if (!('Notification' in window) || Notification.permission !== 'granted') return;
+
+  const todayKey = getLocalDateKey(new Date());
+  const lastSentDate = localStorage.getItem(REMINDER_LAST_SENT_KEY);
+
+  /* Blokada wielokrotnej wysyłki tego samego dnia (np. po odświeżeniach karty). */
+  if (lastSentDate === todayKey) return;
+
   const facts = await loadReminderFacts();
-  const fact = pickReminderFactForDate(facts);
+  const fact = pickRandomReminderFact(facts);
   if (!fact) return;
 
   const sourceSuffix = fact.source ? `
 Źródło: ${fact.source}` : '';
   new Notification(`🧠 ${fact.title}`, {
     body: `${fact.message}${sourceSuffix}`,
-    tag: `psyhub-fact-${new Date().toISOString().slice(0, 10)}`,
+    tag: `psyhub-fact-${todayKey}`,
     renotify: false
   });
+
+  /* Zapis daty wykonujemy dopiero po utworzeniu powiadomienia. */
+  localStorage.setItem(REMINDER_LAST_SENT_KEY, todayKey);
 }
 
 /* Planuje kolejne przypomnienie; po wysłaniu ustawia harmonogram na następny dzień. */
@@ -2190,12 +2206,32 @@ function scheduleNextPsychologyReminder() {
   }, delay);
 }
 
+
+/*
+ * Buduje przyjazny komunikat wyjaśniający korzyści z włączenia powiadomień.
+ * Zwraca wartość true, gdy użytkownik chce przejść do systemowego okna zgody.
+ */
+function shouldAskForReminderPermission() {
+  const promptAlreadyShown = localStorage.getItem(REMINDER_PERMISSION_PROMPT_KEY) === '1';
+  if (promptAlreadyShown) return true;
+
+  const userAcceptedPrompt = window.confirm(
+    'Czy chcesz włączyć codzienne powiadomienia PsyHub?\n\n' +
+    'Będziesz otrzymywać jedną, losową ciekawostkę psychologiczną każdego dnia o 08:00.'
+  );
+
+  localStorage.setItem(REMINDER_PERMISSION_PROMPT_KEY, '1');
+  return userAcceptedPrompt;
+}
+
 /* Inicjalizuje przypomnienia wyłącznie na urządzeniach mobilnych. */
 async function initMobilePsychologyReminders() {
   const isMobileViewport = window.matchMedia(`(max-width: ${MOBILE_BREAKPOINT}px)`).matches;
   if (!isMobileViewport || !('Notification' in window)) return;
 
   if (Notification.permission === 'default') {
+    if (!shouldAskForReminderPermission()) return;
+
     try {
       await Notification.requestPermission();
     } catch (_) {

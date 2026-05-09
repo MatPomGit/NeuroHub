@@ -2122,6 +2122,91 @@ function animateSidebar() {
   });
 }
 
+
+/* ── Mobilne przypomnienia o ciekawostkach psychologicznych ───────────── */
+const REMINDER_FACTS_URL = 'data_psychology_reminders.json';
+let reminderFactsCache = null;
+let reminderTimerId = null;
+
+/* Pobiera listę ciekawostek naukowych z pliku JSON i buforuje wynik. */
+async function loadReminderFacts() {
+  if (reminderFactsCache) return reminderFactsCache;
+  const response = await fetch(REMINDER_FACTS_URL, { cache: 'no-store' });
+  if (!response.ok) throw new Error('Nie udało się pobrać listy ciekawostek.');
+  const payload = await response.json();
+  const facts = Array.isArray(payload?.facts) ? payload.facts : [];
+  reminderFactsCache = facts.filter(item => item?.title && item?.message);
+  return reminderFactsCache;
+}
+
+/* Wylicza deterministycznie ciekawostkę dnia na podstawie daty lokalnej. */
+function pickReminderFactForDate(facts, date = new Date()) {
+  if (!Array.isArray(facts) || facts.length === 0) return null;
+  const key = Number(date.toISOString().slice(0, 10).replace(/-/g, ''));
+  return facts[key % facts.length] || facts[0];
+}
+
+/* Oblicza czas do kolejnego powiadomienia w oknie 07:00–08:00 czasu lokalnego. */
+function getDelayUntilNextReminder(now = new Date()) {
+  const next = new Date(now);
+  const isBeforeWindow = now.getHours() < 7;
+  const isInWindow = now.getHours() >= 7 && now.getHours() < 8;
+
+  if (isBeforeWindow) {
+    next.setHours(7, 0, 0, 0);
+  } else if (isInWindow) {
+    next.setHours(now.getHours(), now.getMinutes(), now.getSeconds(), now.getMilliseconds());
+  } else {
+    next.setDate(next.getDate() + 1);
+    next.setHours(7, 0, 0, 0);
+  }
+
+  return Math.max(0, next.getTime() - now.getTime());
+}
+
+/* Wyświetla mobilne powiadomienie z naukową ciekawostką psychologiczną. */
+async function showPsychologyReminderNotification() {
+  if (!('Notification' in window) || Notification.permission !== 'granted') return;
+  const facts = await loadReminderFacts();
+  const fact = pickReminderFactForDate(facts);
+  if (!fact) return;
+
+  const sourceSuffix = fact.source ? `
+Źródło: ${fact.source}` : '';
+  new Notification(`🧠 ${fact.title}`, {
+    body: `${fact.message}${sourceSuffix}`,
+    tag: `psyhub-fact-${new Date().toISOString().slice(0, 10)}`,
+    renotify: false
+  });
+}
+
+/* Planuje kolejne przypomnienie; po wysłaniu ustawia harmonogram na następny dzień. */
+function scheduleNextPsychologyReminder() {
+  window.clearTimeout(reminderTimerId);
+  const delay = getDelayUntilNextReminder(new Date());
+  reminderTimerId = window.setTimeout(async () => {
+    await showPsychologyReminderNotification();
+    scheduleNextPsychologyReminder();
+  }, delay);
+}
+
+/* Inicjalizuje przypomnienia wyłącznie na urządzeniach mobilnych. */
+async function initMobilePsychologyReminders() {
+  const isMobileViewport = window.matchMedia(`(max-width: ${MOBILE_BREAKPOINT}px)`).matches;
+  if (!isMobileViewport || !('Notification' in window)) return;
+
+  if (Notification.permission === 'default') {
+    try {
+      await Notification.requestPermission();
+    } catch (_) {
+      return;
+    }
+  }
+
+  if (Notification.permission !== 'granted') return;
+  scheduleNextPsychologyReminder();
+}
+
 /* ── Boot ──────────────────────────────────── */
 window.addEventListener('DOMContentLoaded', ()=>{
   /* Wczesna walidacja konfiguracji ułatwia wychwycenie braków podczas uruchomienia aplikacji. */
@@ -2137,6 +2222,7 @@ window.addEventListener('DOMContentLoaded', ()=>{
   void applySearchUi();
   void ensureFullTextSearchIndex();
   setupGlobalInteractions();
+  void initMobilePsychologyReminders();
   animateSidebar();
   const { pageId } = parseRouteHash(window.location.hash);
   navigate(pageId && pageMap.has(pageId) ? pageId : SITE_CONFIG.defaultPage, true);

@@ -478,11 +478,12 @@ function runResearcherQuoteBibliographyCheck(siteConfig, report) {
       return;
     }
 
-    const normalizedAuthor = authorMatch[1].trim().toLowerCase();
+    const authorName = authorMatch[1].trim();
+    const escapedAuthor = authorName.replace(/[.*+?^${}()|[\\\]\\\\]/g, '\\$&');
     const year = yearMatch[1];
-    const bibliographyHasMatchingEntry = bibliographyText
-      .toLowerCase()
-      .includes(normalizedAuthor) && bibliographyText.includes(year);
+    const authorRegex = new RegExp(`\\b${escapedAuthor}\\b`, 'i');
+
+    const bibliographyHasMatchingEntry = authorRegex.test(bibliographyText) && bibliographyText.includes(year);
 
     if (!bibliographyHasMatchingEntry) {
       pushError(

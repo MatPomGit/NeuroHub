@@ -108,7 +108,7 @@ Naukowo prowadzona diagnoza psychologiczna wymaga: jasnego pytania, hipotez alte
 3. World Health Organization. (2022). *World Mental Health Report: Transforming Mental Health for All*.
 4. Paluchowski, W. J. (2007). *Diagnoza psychologiczna. Podejście ilościowe i jakościowe*. Scholar.
 5. American Psychiatric Association. (2022). *DSM-5-TR*.
-6. Kahneman, D. (2011). *Thinking, Fast and Slow*.
+6. Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.
 7. Meyer, G. J., et al. (2001). Psychological testing and psychological assessment. *American Psychologist, 56*(2), 128–165.
 8. Kazdin, A. E. (2017). *Research Design in Clinical Psychology* (5th ed.). Pearson.
 9. Ustawa z dnia 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów (Dz.U. 2001 nr 73 poz. 763).

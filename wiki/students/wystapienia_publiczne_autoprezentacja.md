@@ -38,7 +38,7 @@ W autoprezentacji warto odróżnić dwie strategie:
 - **Strategia „maski” (sztuczny obraz siebie)** — mówca buduje personę idealną: zawsze pewną, bezbłędną, emocjonalnie „wypolerowaną”.  
 - **Strategia „autentycznej profesjonalności”** — mówca pokazuje realny styl myślenia, granice wiedzy i sposób dochodzenia do wniosków, przy zachowaniu standardu zawodowego.
 
-Pierwsza strategia bywa skuteczna krótkoterminowo (silne pierwsze wrażenie), ale kosztowna psychologicznie: zwiększa samokontrolę, lęk przed „zdemaskowaniem” i sztywność reakcji na pytania. Druga strategia częściej buduje trwałe zaufanie, bo odbiorcy widzą nie tylko „wynik”, lecz także proces rozumowania i etykę pracy.
+Pierwsza strategia bywa skuteczna krótkoterminowo (silne pierwsze wrażenie), ale kosztowna psychologicznie: zwiększa samomonitorowanie, lęk przed „zdemaskowaniem” i sztywność reakcji na pytania. Druga strategia częściej buduje trwałe zaufanie, bo odbiorcy widzą nie tylko „wynik”, lecz także proces rozumowania i etykę pracy.
 
 ## Jak przygotować się psychologicznie do wystąpienia? (konkretne wskazówki)
 

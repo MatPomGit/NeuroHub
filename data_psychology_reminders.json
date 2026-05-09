@@ -10,721 +10,841 @@
     {
       "id": "fact-001",
       "title": "Sen wspiera pamięć",
-      "message": "Podczas snu wolnofalowego mózg konsoliduje nowe informacje. Krótka powtórka wieczorem zwykle pomaga zapamiętać więcej następnego dnia.",
+      "lead": "Podczas snu wolnofalowego mózg konsoliduje nowe informacje.",
+      "body": "Krótka powtórka wieczorem zwykle pomaga zapamiętać więcej następnego dnia. Traktuj regenerację jako część systemu działania, a nie nagrodę po wykonaniu wszystkiego. Stała pora snu, mniej bodźców wieczorem i krótka powtórka materiału przed odpoczynkiem mogą wspierać pamięć, emocje i trafność decyzji. Dziś wybierz jedną wieczorną czynność, która ułatwi mózgowi zamknięcie dnia.",
       "source": "Diekelmann, S., & Born, J. (2010). The memory function of sleep. Nature Reviews Neuroscience."
     },
     {
       "id": "fact-002",
       "title": "Krótki spacer obniża napięcie",
-      "message": "Już kilkanaście minut umiarkowanego ruchu może obniżać poziom stresu i poprawiać nastrój dzięki zmianom neurochemicznym i regulacji pobudzenia.",
+      "lead": "Już kilkanaście minut umiarkowanego ruchu może obniżać poziom stresu i poprawiać nastrój dzięki zmianom neurochemicznym i regulacji pobudzenia.",
+      "body": "Sygnały z ciała wpływają na napięcie, energię i sposób interpretowania sytuacji. Zmiana pozycji, rytmu oddechu, tempa ruchu albo bodźców dźwiękowych bywa prostym sposobem regulacji bez długiego analizowania problemu. Zanim zaczniesz roztrząsać sprawę, sprawdź, czy ciało nie potrzebuje ruchu, jedzenia, odpoczynku albo ciszy.",
       "source": "Salmon, P. (2001). Effects of physical exercise on anxiety, depression, and sensitivity to stress. Clinical Psychology Review."
     },
     {
       "id": "fact-003",
       "title": "Efekt ekspozycji działa subtelnie",
-      "message": "Częsty kontakt z bodźcem zwykle zwiększa jego lubienie — o ile bodziec nie jest silnie awersyjny od początku.",
+      "lead": "Częsty kontakt z bodźcem zwykle zwiększa jego lubienie — o ile bodziec nie jest silnie awersyjny od początku.",
+      "body": "Relacje wzmacnia przewidywalność, jasność intencji i gotowość do naprawy kontaktu. Nie wystarczy mieć dobre zamiary; druga osoba potrzebuje jeszcze czytelnych sygnałów, konkretnych próśb i respektowania granic. Wybierz jedną potrzebę lub granicę i sformułuj ją prostym zdaniem bez oskarżania.",
       "source": "Zajonc, R. B. (1968). Attitudinal effects of mere exposure. Journal of Personality and Social Psychology."
     },
     {
       "id": "fact-004",
       "title": "Nazwanie emocji pomaga je regulować",
-      "message": "Precyzyjne nazwanie emocji (np. „jestem rozdrażniony”, a nie tylko „źle się czuję”) bywa związane z lepszą samoregulacją.",
+      "lead": "Precyzyjne nazwanie emocji (np.",
+      "body": "„jestem rozdrażniony”, a nie tylko „źle się czuję”) bywa związane z lepszą samoregulacją. Emocja jest sygnałem, nie automatycznym poleceniem. Pomaga ją nazwać, oddzielić od faktów i sprawdzić, czy wymaga działania, rozmowy, odpoczynku, korekty granic czy jedynie przeczekania fali pobudzenia. Nazwij jedną emocję precyzyjnie i dopisz, jaką informację może nieść bez zmieniania jej w wyrok.",
       "source": "Lieberman, M. D. et al. (2007). Putting feelings into words. Psychological Science."
     },
     {
       "id": "fact-005",
       "title": "Wdzięczność wzmacnia dobrostan",
-      "message": "Regularne ćwiczenia wdzięczności wiążą się z wyższym poziomem dobrostanu i bardziej adaptacyjnym stylem myślenia.",
+      "lead": "Regularne ćwiczenia wdzięczności wiążą się z wyższym poziomem dobrostanu i bardziej adaptacyjnym stylem myślenia.",
+      "body": "Emocja jest sygnałem, nie automatycznym poleceniem. Pomaga ją nazwać, oddzielić od faktów i sprawdzić, czy wymaga działania, rozmowy, odpoczynku, korekty granic czy jedynie przeczekania fali pobudzenia. Nazwij jedną emocję precyzyjnie i dopisz, jaką informację może nieść bez zmieniania jej w wyrok.",
       "source": "Emmons, R. A., & McCullough, M. E. (2003). Counting blessings versus burdens. Journal of Personality and Social Psychology."
     },
     {
       "id": "fact-006",
       "title": "Wielozadaniowość ma koszt poznawczy",
-      "message": "Przełączanie uwagi między zadaniami obniża efektywność i zwiększa liczbę błędów. Mózg płaci „podatek” za każde przełączenie kontekstu.",
+      "lead": "Przełączanie uwagi między zadaniami obniża efektywność i zwiększa liczbę błędów.",
+      "body": "Mózg płaci „podatek” za każde przełączenie kontekstu. Uwaga ma ograniczoną pojemność, więc warto projektować otoczenie zamiast stale testować siłę woli. Mniej przełączeń, mniej domyślnych rozpraszaczy i krótsze bloki pracy zwykle poprawiają jakość myślenia. Usuń jeden zbędny bodziec z miejsca pracy albo ustaw jedną korzystną opcję jako domyślną.",
       "source": "Monsell, S. (2003). Task switching. Trends in Cognitive Sciences."
     },
     {
       "id": "fact-007",
       "title": "Wsparcie społeczne chroni przed stresem",
-      "message": "Jakość relacji społecznych jest jednym z najsilniejszych predyktorów zdrowia psychicznego i fizycznego.",
+      "lead": "Jakość relacji społecznych jest jednym z najsilniejszych predyktorów zdrowia psychicznego i fizycznego.",
+      "body": "Wysokie pobudzenie zawęża uwagę i zwiększa impulsywność. Dlatego przy trudnym zadaniu warto najpierw obniżyć napięcie lub dopasować poziom wyzwania, a dopiero potem oczekiwać od siebie precyzyjnego myślenia. W sytuacji presji zrób krótką pauzę i wybierz następny ruch dopiero po spadku napięcia o choćby jeden stopień.",
       "source": "Holt-Lunstad, J. et al. (2010). Social relationships and mortality risk. PLoS Medicine."
     },
     {
       "id": "fact-008",
       "title": "Oddech wydłużony na wydechu uspokaja",
-      "message": "Wydłużenie fazy wydechu może wspierać aktywację przywspółczulną i obniżenie pobudzenia autonomicznego.",
+      "lead": "Wydłużenie fazy wydechu może wspierać aktywację przywspółczulną i obniżenie pobudzenia autonomicznego.",
+      "body": "Wysokie pobudzenie zawęża uwagę i zwiększa impulsywność. Dlatego przy trudnym zadaniu warto najpierw obniżyć napięcie lub dopasować poziom wyzwania, a dopiero potem oczekiwać od siebie precyzyjnego myślenia. W sytuacji presji zrób krótką pauzę i wybierz następny ruch dopiero po spadku napięcia o choćby jeden stopień.",
       "source": "Laborde, S. et al. (2017). Heart rate variability and autonomic regulation. Frontiers in Psychology."
     },
     {
       "id": "fact-009",
       "title": "Sen i emocje są silnie powiązane",
-      "message": "Niedobór snu zwiększa reaktywność emocjonalną i utrudnia kontrolę poznawczą nad impulsywnymi reakcjami.",
+      "lead": "Niedobór snu zwiększa reaktywność emocjonalną i utrudnia kontrolę poznawczą nad impulsywnymi reakcjami.",
+      "body": "Traktuj regenerację jako część systemu działania, a nie nagrodę po wykonaniu wszystkiego. Stała pora snu, mniej bodźców wieczorem i krótka powtórka materiału przed odpoczynkiem mogą wspierać pamięć, emocje i trafność decyzji. Dziś wybierz jedną wieczorną czynność, która ułatwi mózgowi zamknięcie dnia.",
       "source": "Yoo, S.-S. et al. (2007). The human emotional brain without sleep. Current Biology."
     },
     {
       "id": "fact-010",
       "title": "Małe cele zwiększają wytrwałość",
-      "message": "Dzielenie dużego celu na krótkie etapy poprawia poczucie sprawstwa i wspiera utrzymanie motywacji.",
+      "lead": "Dzielenie dużego celu na krótkie etapy poprawia poczucie sprawstwa i wspiera utrzymanie motywacji.",
+      "body": "Trwałe zasady potrzebują przekładu na małe, obserwowalne działania. Im dokładniej wiadomo, kiedy, gdzie i od czego zacząć, tym mniejszy opór startu i mniejsza zależność od chwilowej motywacji. Zamień jedną ogólną intencję na regułę typu: po konkretnej sytuacji wykonuję konkretny mały krok.",
       "source": "Bandura, A. (1997). Self-efficacy: The exercise of control."
     },
     {
       "id": "fact-011",
       "title": "Efekt Zeigarnik",
-      "message": "Niedokończone zadania częściej wracają do świadomości niż zakończone, dlatego warto domykać małe etapy pracy.",
+      "lead": "Niedokończone zadania częściej wracają do świadomości niż zakończone, dlatego warto domykać małe etapy pracy.",
+      "body": "W praktyce ta obserwacja pomaga projektować codzienne warunki działania bardziej świadomie. Mała korekta sposobu myślenia, komunikacji lub otoczenia może mieć większy efekt niż jednorazowa próba radykalnej zmiany. Wybierz jeden szczegół sytuacji, na który masz wpływ, i popraw go dziś minimalnym krokiem.",
       "source": "Zeigarnik, B. (1927). Über das Behalten erledigter und unerledigter Handlungen."
     },
     {
       "id": "fact-012",
       "title": "Implementacja intencji działa",
-      "message": "Plan typu „jeśli X, to zrobię Y” znacząco zwiększa szansę wykonania działania, bo redukuje koszt decyzji w chwili działania.",
+      "lead": "Plan typu „jeśli X, to zrobię Y” znacząco zwiększa szansę wykonania działania, bo redukuje koszt decyzji w chwili działania.",
+      "body": "Oceny bywają przesuwane przez pierwszą informację, aktualny stan ciała, presję czasu i sposób opisania problemu. Dobre decyzje często zaczynają się od spowolnienia automatycznej interpretacji. Przed ważnym wyborem zapisz alternatywną ramę problemu oraz koszt działania i zaniechania.",
       "source": "Gollwitzer, P. M. (1999). Implementation intentions. American Psychologist."
     },
     {
       "id": "fact-013",
       "title": "Efekt testowania",
-      "message": "Aktywne odtwarzanie wiedzy (np. quiz) zwykle daje trwalsze uczenie niż samo ponowne czytanie materiału.",
+      "lead": "Aktywne odtwarzanie wiedzy (np.",
+      "body": "quiz) zwykle daje trwalsze uczenie niż samo ponowne czytanie materiału. Uczenie jest skuteczniejsze, gdy wymaga aktywnego wydobywania, porządkowania i sprawdzania luk. Samo czytanie daje często złudzenie znajomości, natomiast pytania, quizy i tłumaczenie własnymi słowami pokazują realny poziom rozumienia. Po nauce zapisz trzy pytania i odpowiedz na nie bez zaglądania do materiału.",
       "source": "Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning. Psychological Science."
     },
     {
       "id": "fact-014",
       "title": "Samowspółczucie wspiera odporność",
-      "message": "Osoby praktykujące samowspółczucie częściej szybciej wracają do równowagi po porażce niż osoby o wysokiej samokrytyce.",
+      "lead": "Osoby praktykujące samowspółczucie częściej szybciej wracają do równowagi po porażce niż osoby o wysokiej samokrytyce.",
+      "body": "Emocja jest sygnałem, nie automatycznym poleceniem. Pomaga ją nazwać, oddzielić od faktów i sprawdzić, czy wymaga działania, rozmowy, odpoczynku, korekty granic czy jedynie przeczekania fali pobudzenia. Nazwij jedną emocję precyzyjnie i dopisz, jaką informację może nieść bez zmieniania jej w wyrok.",
       "source": "Neff, K. D. (2003). Self-compassion: An alternative conceptualization. Self and Identity."
     },
     {
       "id": "fact-015",
       "title": "Mikroprzerwy poprawiają wydajność",
-      "message": "Krótkie przerwy w pracy poznawczej pomagają utrzymać koncentrację i ograniczają narastanie zmęczenia mentalnego.",
+      "lead": "Krótkie przerwy w pracy poznawczej pomagają utrzymać koncentrację i ograniczają narastanie zmęczenia mentalnego.",
+      "body": "Uwaga ma ograniczoną pojemność, więc warto projektować otoczenie zamiast stale testować siłę woli. Mniej przełączeń, mniej domyślnych rozpraszaczy i krótsze bloki pracy zwykle poprawiają jakość myślenia. Usuń jeden zbędny bodziec z miejsca pracy albo ustaw jedną korzystną opcję jako domyślną.",
       "source": "Kim, S. et al. (2017). Micro-break activities at work. PLOS ONE."
     },
     {
       "id": "fact-016",
       "title": "Efekt oczekiwań placebo",
-      "message": "Pozytywne oczekiwania wobec interwencji mogą wywoływać mierzalne zmiany w odczuwaniu objawów i dobrostanie.",
+      "lead": "Pozytywne oczekiwania wobec interwencji mogą wywoływać mierzalne zmiany w odczuwaniu objawów i dobrostanie.",
+      "body": "Emocja jest sygnałem, nie automatycznym poleceniem. Pomaga ją nazwać, oddzielić od faktów i sprawdzić, czy wymaga działania, rozmowy, odpoczynku, korekty granic czy jedynie przeczekania fali pobudzenia. Nazwij jedną emocję precyzyjnie i dopisz, jaką informację może nieść bez zmieniania jej w wyrok.",
       "source": "Benedetti, F. (2014). Placebo Effects."
     },
     {
       "id": "fact-017",
       "title": "Uważność obniża ruminacje",
-      "message": "Regularny trening mindfulness bywa związany ze spadkiem nawykowego zamartwiania i lepszą regulacją uwagi.",
+      "lead": "Regularny trening mindfulness bywa związany ze spadkiem nawykowego zamartwiania i lepszą regulacją uwagi.",
+      "body": "Emocja jest sygnałem, nie automatycznym poleceniem. Pomaga ją nazwać, oddzielić od faktów i sprawdzić, czy wymaga działania, rozmowy, odpoczynku, korekty granic czy jedynie przeczekania fali pobudzenia. Nazwij jedną emocję precyzyjnie i dopisz, jaką informację może nieść bez zmieniania jej w wyrok.",
       "source": "Keng, S.-L. et al. (2011). Effects of mindfulness on psychological health. Clinical Psychology Review."
     },
     {
       "id": "fact-018",
       "title": "Pamięć robocza ma ograniczoną pojemność",
-      "message": "Przeciążenie pamięci roboczej pogarsza rozumowanie i podejmowanie decyzji, dlatego warto porcjować informacje.",
+      "lead": "Przeciążenie pamięci roboczej pogarsza rozumowanie i podejmowanie decyzji, dlatego warto porcjować informacje.",
+      "body": "Uczenie jest skuteczniejsze, gdy wymaga aktywnego wydobywania, porządkowania i sprawdzania luk. Samo czytanie daje często złudzenie znajomości, natomiast pytania, quizy i tłumaczenie własnymi słowami pokazują realny poziom rozumienia. Po nauce zapisz trzy pytania i odpowiedz na nie bez zaglądania do materiału.",
       "source": "Cowan, N. (2010). The magical mystery four. Current Directions in Psychological Science."
     },
     {
       "id": "fact-019",
       "title": "Zielone otoczenie wspiera regenerację",
-      "message": "Kontakt z naturą może przyspieszać regenerację zasobów uwagi i obniżać napięcie psychofizjologiczne.",
+      "lead": "Kontakt z naturą może przyspieszać regenerację zasobów uwagi i obniżać napięcie psychofizjologiczne.",
+      "body": "Wysokie pobudzenie zawęża uwagę i zwiększa impulsywność. Dlatego przy trudnym zadaniu warto najpierw obniżyć napięcie lub dopasować poziom wyzwania, a dopiero potem oczekiwać od siebie precyzyjnego myślenia. W sytuacji presji zrób krótką pauzę i wybierz następny ruch dopiero po spadku napięcia o choćby jeden stopień.",
       "source": "Berman, M. G. et al. (2008). The cognitive benefits of interacting with nature. Psychological Science."
     },
     {
       "id": "fact-020",
       "title": "Synchronizacja społeczna buduje więź",
-      "message": "Wspólne rytmy ruchu (np. marsz, taniec) często zwiększają poczucie przynależności i współpracy.",
+      "lead": "Wspólne rytmy ruchu (np.",
+      "body": "marsz, taniec) często zwiększają poczucie przynależności i współpracy. Sygnały z ciała wpływają na napięcie, energię i sposób interpretowania sytuacji. Zmiana pozycji, rytmu oddechu, tempa ruchu albo bodźców dźwiękowych bywa prostym sposobem regulacji bez długiego analizowania problemu. Zanim zaczniesz roztrząsać sprawę, sprawdź, czy ciało nie potrzebuje ruchu, jedzenia, odpoczynku albo ciszy.",
       "source": "Hove, M. J., & Risen, J. L. (2009). It's all in the timing. Social Cognition."
     },
     {
       "id": "fact-021",
       "title": "Negativity bias",
-      "message": "Negatywne informacje zwykle silniej przyciągają uwagę niż pozytywne, co może zniekształcać ocenę sytuacji.",
+      "lead": "Negatywne informacje zwykle silniej przyciągają uwagę niż pozytywne, co może zniekształcać ocenę sytuacji.",
+      "body": "W praktyce ta obserwacja pomaga projektować codzienne warunki działania bardziej świadomie. Mała korekta sposobu myślenia, komunikacji lub otoczenia może mieć większy efekt niż jednorazowa próba radykalnej zmiany. Wybierz jeden szczegół sytuacji, na który masz wpływ, i popraw go dziś minimalnym krokiem.",
       "source": "Baumeister, R. F. et al. (2001). Bad is stronger than good. Review of General Psychology."
     },
     {
       "id": "fact-022",
       "title": "Sen REM i kreatywność",
-      "message": "Faza REM sprzyja bardziej odległym skojarzeniom, co może wspierać twórcze rozwiązywanie problemów.",
+      "lead": "Faza REM sprzyja bardziej odległym skojarzeniom, co może wspierać twórcze rozwiązywanie problemów.",
+      "body": "Traktuj regenerację jako część systemu działania, a nie nagrodę po wykonaniu wszystkiego. Stała pora snu, mniej bodźców wieczorem i krótka powtórka materiału przed odpoczynkiem mogą wspierać pamięć, emocje i trafność decyzji. Dziś wybierz jedną wieczorną czynność, która ułatwi mózgowi zamknięcie dnia.",
       "source": "Cai, D. J. et al. (2009). REM, not incubation, improves creativity. PNAS."
     },
     {
       "id": "fact-023",
       "title": "Reappraisal działa",
-      "message": "Zmiana interpretacji sytuacji stresowej (reappraisal) może obniżać pobudzenie i wspierać adaptacyjne działanie.",
+      "lead": "Zmiana interpretacji sytuacji stresowej (reappraisal) może obniżać pobudzenie i wspierać adaptacyjne działanie.",
+      "body": "Wysokie pobudzenie zawęża uwagę i zwiększa impulsywność. Dlatego przy trudnym zadaniu warto najpierw obniżyć napięcie lub dopasować poziom wyzwania, a dopiero potem oczekiwać od siebie precyzyjnego myślenia. W sytuacji presji zrób krótką pauzę i wybierz następny ruch dopiero po spadku napięcia o choćby jeden stopień.",
       "source": "Gross, J. J. (1998). The emerging field of emotion regulation. Review of General Psychology."
     },
     {
       "id": "fact-024",
       "title": "Kontakt wzrokowy a pamięć",
-      "message": "Adekwatny kontakt wzrokowy bywa powiązany z lepszym kodowaniem treści społecznych w rozmowie.",
+      "lead": "Adekwatny kontakt wzrokowy bywa powiązany z lepszym kodowaniem treści społecznych w rozmowie.",
+      "body": "Uczenie jest skuteczniejsze, gdy wymaga aktywnego wydobywania, porządkowania i sprawdzania luk. Samo czytanie daje często złudzenie znajomości, natomiast pytania, quizy i tłumaczenie własnymi słowami pokazują realny poziom rozumienia. Po nauce zapisz trzy pytania i odpowiedz na nie bez zaglądania do materiału.",
       "source": "Doherty-Sneddon, G. et al. (2002). Gaze aversion and memory. Cognitive Processing."
     },
     {
       "id": "fact-025",
       "title": "Muzyka a nastrój",
-      "message": "Słuchanie muzyki dobranej do celu regulacyjnego może skutecznie modulować nastrój i pobudzenie.",
+      "lead": "Słuchanie muzyki dobranej do celu regulacyjnego może skutecznie modulować nastrój i pobudzenie.",
+      "body": "Sygnały z ciała wpływają na napięcie, energię i sposób interpretowania sytuacji. Zmiana pozycji, rytmu oddechu, tempa ruchu albo bodźców dźwiękowych bywa prostym sposobem regulacji bez długiego analizowania problemu. Zanim zaczniesz roztrząsać sprawę, sprawdź, czy ciało nie potrzebuje ruchu, jedzenia, odpoczynku albo ciszy.",
       "source": "Thoma, M. V. et al. (2013). The effect of music on the human stress response. PLOS ONE."
     },
     {
       "id": "fact-026",
       "title": "Efekt świeżości i pierwszeństwa",
-      "message": "Pozycja informacji w sekwencji wpływa na pamięć: lepiej pamiętamy początek i koniec listy niż środek.",
+      "lead": "Pozycja informacji w sekwencji wpływa na pamięć: lepiej pamiętamy początek i koniec listy niż środek.",
+      "body": "Uczenie jest skuteczniejsze, gdy wymaga aktywnego wydobywania, porządkowania i sprawdzania luk. Samo czytanie daje często złudzenie znajomości, natomiast pytania, quizy i tłumaczenie własnymi słowami pokazują realny poziom rozumienia. Po nauce zapisz trzy pytania i odpowiedz na nie bez zaglądania do materiału.",
       "source": "Murdock, B. B. (1962). The serial position effect. Journal of Experimental Psychology."
     },
     {
       "id": "fact-027",
       "title": "Nawyki tworzą się kontekstowo",
-      "message": "Powtarzanie działania w stałym kontekście ułatwia automatyzację nawyku i zmniejsza koszt samokontroli.",
+      "lead": "Powtarzanie działania w stałym kontekście ułatwia automatyzację nawyku i zmniejsza koszt samokontroli.",
+      "body": "Trwałe zasady potrzebują przekładu na małe, obserwowalne działania. Im dokładniej wiadomo, kiedy, gdzie i od czego zacząć, tym mniejszy opór startu i mniejsza zależność od chwilowej motywacji. Zamień jedną ogólną intencję na regułę typu: po konkretnej sytuacji wykonuję konkretny mały krok.",
       "source": "Lally, P. et al. (2010). How are habits formed. European Journal of Social Psychology."
     },
     {
       "id": "fact-028",
       "title": "Praktyka rozłożona w czasie",
-      "message": "Uczenie rozłożone na krótsze sesje zwykle daje lepsze rezultaty długoterminowe niż „zakuwanie” jednorazowe.",
+      "lead": "Uczenie rozłożone na krótsze sesje zwykle daje lepsze rezultaty długoterminowe niż „zakuwanie” jednorazowe.",
+      "body": "Uczenie jest skuteczniejsze, gdy wymaga aktywnego wydobywania, porządkowania i sprawdzania luk. Samo czytanie daje często złudzenie znajomości, natomiast pytania, quizy i tłumaczenie własnymi słowami pokazują realny poziom rozumienia. Po nauce zapisz trzy pytania i odpowiedz na nie bez zaglądania do materiału.",
       "source": "Cepeda, N. J. et al. (2006). Distributed practice in verbal recall tasks. Psychological Bulletin."
     },
     {
       "id": "fact-029",
       "title": "Efekt bycia obserwowanym",
-      "message": "Sama obecność innych może poprawiać wykonanie prostych zadań i pogarszać trudne (facylitacja społeczna).",
+      "lead": "Sama obecność innych może poprawiać wykonanie prostych zadań i pogarszać trudne (facylitacja społeczna).",
+      "body": "Relacje wzmacnia przewidywalność, jasność intencji i gotowość do naprawy kontaktu. Nie wystarczy mieć dobre zamiary; druga osoba potrzebuje jeszcze czytelnych sygnałów, konkretnych próśb i respektowania granic. Wybierz jedną potrzebę lub granicę i sformułuj ją prostym zdaniem bez oskarżania.",
       "source": "Zajonc, R. B. (1965). Social facilitation. Science."
     },
     {
       "id": "fact-030",
       "title": "Humor jako bufor stresu",
-      "message": "Adekwatny humor bywa adaptacyjną strategią radzenia sobie, zmniejszając subiektywne napięcie.",
+      "lead": "Adekwatny humor bywa adaptacyjną strategią radzenia sobie, zmniejszając subiektywne napięcie.",
+      "body": "Wysokie pobudzenie zawęża uwagę i zwiększa impulsywność. Dlatego przy trudnym zadaniu warto najpierw obniżyć napięcie lub dopasować poziom wyzwania, a dopiero potem oczekiwać od siebie precyzyjnego myślenia. W sytuacji presji zrób krótką pauzę i wybierz następny ruch dopiero po spadku napięcia o choćby jeden stopień.",
       "source": "Martin, R. A. (2007). The Psychology of Humor."
     },
     {
       "id": "fact-031",
       "title": "Stan flow wymaga równowagi",
-      "message": "Największe zaangażowanie pojawia się zwykle wtedy, gdy poziom wyzwania jest wysoki, ale nadal dopasowany do umiejętności. Zbyt łatwe zadania nudzą, a zbyt trudne nasilają napięcie.",
+      "lead": "Największe zaangażowanie pojawia się zwykle wtedy, gdy poziom wyzwania jest wysoki, ale nadal dopasowany do umiejętności.",
+      "body": "Zbyt łatwe zadania nudzą, a zbyt trudne nasilają napięcie. Wysokie pobudzenie zawęża uwagę i zwiększa impulsywność. Dlatego przy trudnym zadaniu warto najpierw obniżyć napięcie lub dopasować poziom wyzwania, a dopiero potem oczekiwać od siebie precyzyjnego myślenia. W sytuacji presji zrób krótką pauzę i wybierz następny ruch dopiero po spadku napięcia o choćby jeden stopień.",
       "source": "Csikszentmihalyi, M. (1990). Flow: The Psychology of Optimal Experience."
     },
     {
       "id": "fact-032",
       "title": "Autonomia wzmacnia motywację",
-      "message": "Ludzie częściej utrzymują wysiłek, gdy czują sprawstwo i rozumieją sens działania. Kontrola zewnętrzna może działać krótkoterminowo, ale bywa słabsza dla motywacji trwałej.",
+      "lead": "Ludzie częściej utrzymują wysiłek, gdy czują sprawstwo i rozumieją sens działania.",
+      "body": "Kontrola zewnętrzna może działać krótkoterminowo, ale bywa słabsza dla motywacji trwałej. Traktuj regenerację jako część systemu działania, a nie nagrodę po wykonaniu wszystkiego. Stała pora snu, mniej bodźców wieczorem i krótka powtórka materiału przed odpoczynkiem mogą wspierać pamięć, emocje i trafność decyzji. Dziś wybierz jedną wieczorną czynność, która ułatwi mózgowi zamknięcie dnia.",
       "source": "Deci, E. L., & Ryan, R. M. (2000). The what and why of goal pursuits. Psychological Inquiry."
     },
     {
       "id": "fact-033",
       "title": "Informacja zwrotna działa najlepiej konkretnie",
-      "message": "Feedback jest najbardziej pomocny, gdy wskazuje konkretne zachowanie, kryterium jakości i możliwy następny krok, zamiast ogólnej oceny osoby.",
+      "lead": "Feedback jest najbardziej pomocny, gdy wskazuje konkretne zachowanie, kryterium jakości i możliwy następny krok, zamiast ogólnej oceny osoby.",
+      "body": "W praktyce ta obserwacja pomaga projektować codzienne warunki działania bardziej świadomie. Mała korekta sposobu myślenia, komunikacji lub otoczenia może mieć większy efekt niż jednorazowa próba radykalnej zmiany. Wybierz jeden szczegół sytuacji, na który masz wpływ, i popraw go dziś minimalnym krokiem.",
       "source": "Hattie, J., & Timperley, H. (2007). The power of feedback. Review of Educational Research."
     },
     {
       "id": "fact-034",
       "title": "Przerwy pomagają uwadze selektywnej",
-      "message": "Długie utrzymywanie uwagi na jednym bodźcu prowadzi do spadku czujności. Krótkie odświeżenie kontekstu może przywracać wykrywanie istotnych sygnałów.",
+      "lead": "Długie utrzymywanie uwagi na jednym bodźcu prowadzi do spadku czujności.",
+      "body": "Krótkie odświeżenie kontekstu może przywracać wykrywanie istotnych sygnałów. Uwaga ma ograniczoną pojemność, więc warto projektować otoczenie zamiast stale testować siłę woli. Mniej przełączeń, mniej domyślnych rozpraszaczy i krótsze bloki pracy zwykle poprawiają jakość myślenia. Usuń jeden zbędny bodziec z miejsca pracy albo ustaw jedną korzystną opcję jako domyślną.",
       "source": "Ariga, A., & Lleras, A. (2011). Brief and rare mental breaks keep you focused. Cognition."
     },
     {
       "id": "fact-035",
       "title": "Pisanie ekspresywne porządkuje emocje",
-      "message": "Kilka krótkich sesji pisania o trudnych doświadczeniach może pomagać w nadaniu im struktury i zmniejszać obciążenie poznawcze związane z unikaniem tematu.",
+      "lead": "Kilka krótkich sesji pisania o trudnych doświadczeniach może pomagać w nadaniu im struktury i zmniejszać obciążenie poznawcze związane z unikaniem tematu.",
+      "body": "Emocja jest sygnałem, nie automatycznym poleceniem. Pomaga ją nazwać, oddzielić od faktów i sprawdzić, czy wymaga działania, rozmowy, odpoczynku, korekty granic czy jedynie przeczekania fali pobudzenia. Nazwij jedną emocję precyzyjnie i dopisz, jaką informację może nieść bez zmieniania jej w wyrok.",
       "source": "Pennebaker, J. W., & Beall, S. K. (1986). Confronting a traumatic event. Journal of Abnormal Psychology."
     },
     {
       "id": "fact-036",
       "title": "Efekt Dunninga-Krugera ostrzega przed pewnością",
-      "message": "Przy niskich kompetencjach ludzie mogą przeceniać własne wykonanie, bo brakuje im narzędzi do trafnej samooceny. Warto porównywać intuicję z obiektywną informacją zwrotną.",
+      "lead": "Przy niskich kompetencjach ludzie mogą przeceniać własne wykonanie, bo brakuje im narzędzi do trafnej samooceny.",
+      "body": "Warto porównywać intuicję z obiektywną informacją zwrotną. W praktyce ta obserwacja pomaga projektować codzienne warunki działania bardziej świadomie. Mała korekta sposobu myślenia, komunikacji lub otoczenia może mieć większy efekt niż jednorazowa próba radykalnej zmiany. Wybierz jeden szczegół sytuacji, na który masz wpływ, i popraw go dziś minimalnym krokiem.",
       "source": "Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it. Journal of Personality and Social Psychology."
     },
     {
       "id": "fact-037",
       "title": "Ciekawość wspiera uczenie",
-      "message": "Gdy pytanie budzi ciekawość, mózg efektywniej koduje informacje związane z odpowiedzią, a czasem także materiał poboczny obecny w tym samym kontekście.",
+      "lead": "Gdy pytanie budzi ciekawość, mózg efektywniej koduje informacje związane z odpowiedzią, a czasem także materiał poboczny obecny w tym samym kontekście.",
+      "body": "Uczenie jest skuteczniejsze, gdy wymaga aktywnego wydobywania, porządkowania i sprawdzania luk. Samo czytanie daje często złudzenie znajomości, natomiast pytania, quizy i tłumaczenie własnymi słowami pokazują realny poziom rozumienia. Po nauce zapisz trzy pytania i odpowiedz na nie bez zaglądania do materiału.",
       "source": "Gruber, M. J. et al. (2014). States of curiosity modulate hippocampus-dependent learning. Neuron."
     },
     {
       "id": "fact-038",
       "title": "Nastawienie na rozwój zmienia reakcję na błąd",
-      "message": "Traktowanie zdolności jako rozwijalnych sprzyja szukaniu strategii po porażce, zamiast interpretowania błędu jako dowodu braku talentu.",
+      "lead": "Traktowanie zdolności jako rozwijalnych sprzyja szukaniu strategii po porażce, zamiast interpretowania błędu jako dowodu braku talentu.",
+      "body": "W praktyce ta obserwacja pomaga projektować codzienne warunki działania bardziej świadomie. Mała korekta sposobu myślenia, komunikacji lub otoczenia może mieć większy efekt niż jednorazowa próba radykalnej zmiany. Wybierz jeden szczegół sytuacji, na który masz wpływ, i popraw go dziś minimalnym krokiem.",
       "source": "Dweck, C. S. (2006). Mindset: The New Psychology of Success."
     },
     {
       "id": "fact-039",
       "title": "Błąd planowania jest powszechny",
-      "message": "Ludzie często niedoszacowują czasu potrzebnego na zadanie, bo skupiają się na idealnym scenariuszu, a pomijają typowe zakłócenia i wcześniejsze doświadczenia.",
+      "lead": "Ludzie często niedoszacowują czasu potrzebnego na zadanie, bo skupiają się na idealnym scenariuszu, a pomijają typowe zakłócenia i wcześniejsze doświadczenia.",
+      "body": "Oceny bywają przesuwane przez pierwszą informację, aktualny stan ciała, presję czasu i sposób opisania problemu. Dobre decyzje często zaczynają się od spowolnienia automatycznej interpretacji. Przed ważnym wyborem zapisz alternatywną ramę problemu oraz koszt działania i zaniechania.",
       "source": "Buehler, R. et al. (1994). Exploring the planning fallacy. Journal of Personality and Social Psychology."
     },
     {
       "id": "fact-040",
       "title": "Decyzje zależą od ramy opisu",
-      "message": "Ta sama informacja może prowadzić do innych wyborów, gdy zostanie przedstawiona jako zysk albo strata. Warto przepisać problem w kilku ramach przed ważną decyzją.",
+      "lead": "Ta sama informacja może prowadzić do innych wyborów, gdy zostanie przedstawiona jako zysk albo strata.",
+      "body": "Warto przepisać problem w kilku ramach przed ważną decyzją. Oceny bywają przesuwane przez pierwszą informację, aktualny stan ciała, presję czasu i sposób opisania problemu. Dobre decyzje często zaczynają się od spowolnienia automatycznej interpretacji. Przed ważnym wyborem zapisz alternatywną ramę problemu oraz koszt działania i zaniechania.",
       "source": "Tversky, A., & Kahneman, D. (1981). The framing of decisions. Science."
     },
     {
       "id": "fact-041",
       "title": "Dysonans poznawczy motywuje do uzasadnień",
-      "message": "Gdy zachowanie nie pasuje do przekonań, pojawia się napięcie psychiczne. Umysł często redukuje je przez zmianę interpretacji, a nie przez obiektywną korektę przekonania.",
+      "lead": "Gdy zachowanie nie pasuje do przekonań, pojawia się napięcie psychiczne.",
+      "body": "Umysł często redukuje je przez zmianę interpretacji, a nie przez obiektywną korektę przekonania. Wysokie pobudzenie zawęża uwagę i zwiększa impulsywność. Dlatego przy trudnym zadaniu warto najpierw obniżyć napięcie lub dopasować poziom wyzwania, a dopiero potem oczekiwać od siebie precyzyjnego myślenia. W sytuacji presji zrób krótką pauzę i wybierz następny ruch dopiero po spadku napięcia o choćby jeden stopień.",
       "source": "Festinger, L. (1957). A Theory of Cognitive Dissonance."
     },
     {
       "id": "fact-042",
       "title": "Efekt potwierdzenia zawęża ocenę",
-      "message": "Mamy tendencję do łatwiejszego zauważania danych zgodnych z wcześniejszym przekonaniem. Przy ważnych ocenach warto aktywnie szukać informacji, które mogłyby nam zaprzeczyć.",
+      "lead": "Mamy tendencję do łatwiejszego zauważania danych zgodnych z wcześniejszym przekonaniem.",
+      "body": "Przy ważnych ocenach warto aktywnie szukać informacji, które mogłyby nam zaprzeczyć. W praktyce ta obserwacja pomaga projektować codzienne warunki działania bardziej świadomie. Mała korekta sposobu myślenia, komunikacji lub otoczenia może mieć większy efekt niż jednorazowa próba radykalnej zmiany. Wybierz jeden szczegół sytuacji, na który masz wpływ, i popraw go dziś minimalnym krokiem.",
       "source": "Nickerson, R. S. (1998). Confirmation bias: A ubiquitous phenomenon. Review of General Psychology."
     },
     {
       "id": "fact-043",
       "title": "Ruminacje podtrzymują obniżony nastrój",
-      "message": "Powtarzalne analizowanie przyczyn i skutków złego samopoczucia, bez przejścia do działania, może wydłużać epizody obniżonego nastroju.",
+      "lead": "Powtarzalne analizowanie przyczyn i skutków złego samopoczucia, bez przejścia do działania, może wydłużać epizody obniżonego nastroju.",
+      "body": "Emocja jest sygnałem, nie automatycznym poleceniem. Pomaga ją nazwać, oddzielić od faktów i sprawdzić, czy wymaga działania, rozmowy, odpoczynku, korekty granic czy jedynie przeczekania fali pobudzenia. Nazwij jedną emocję precyzyjnie i dopisz, jaką informację może nieść bez zmieniania jej w wyrok.",
       "source": "Nolen-Hoeksema, S. (2000). The role of rumination in depressive disorders. Journal of Abnormal Psychology."
     },
     {
       "id": "fact-044",
       "title": "Ekspozycja pomaga oswajać lęk",
-      "message": "Stopniowy i bezpieczny kontakt z bodźcem lękowym może zmniejszać unikanie oraz uczyć mózg, że przewidywana katastrofa nie musi nastąpić.",
+      "lead": "Stopniowy i bezpieczny kontakt z bodźcem lękowym może zmniejszać unikanie oraz uczyć mózg, że przewidywana katastrofa nie musi nastąpić.",
+      "body": "Relacje wzmacnia przewidywalność, jasność intencji i gotowość do naprawy kontaktu. Nie wystarczy mieć dobre zamiary; druga osoba potrzebuje jeszcze czytelnych sygnałów, konkretnych próśb i respektowania granic. Wybierz jedną potrzebę lub granicę i sformułuj ją prostym zdaniem bez oskarżania.",
       "source": "Foa, E. B., & Kozak, M. J. (1986). Emotional processing of fear. Psychological Bulletin."
     },
     {
       "id": "fact-045",
       "title": "Samokontrola zależy od środowiska",
-      "message": "Łatwiej utrzymać cel, gdy otoczenie ogranicza pokusy i wzmacnia pożądane zachowanie. Projektowanie kontekstu bywa skuteczniejsze niż poleganie wyłącznie na sile woli.",
+      "lead": "Łatwiej utrzymać cel, gdy otoczenie ogranicza pokusy i wzmacnia pożądane zachowanie.",
+      "body": "Projektowanie kontekstu bywa skuteczniejsze niż poleganie wyłącznie na sile woli. Trwałe zasady potrzebują przekładu na małe, obserwowalne działania. Im dokładniej wiadomo, kiedy, gdzie i od czego zacząć, tym mniejszy opór startu i mniejsza zależność od chwilowej motywacji. Zamień jedną ogólną intencję na regułę typu: po konkretnej sytuacji wykonuję konkretny mały krok.",
       "source": "Duckworth, A. L. et al. (2016). Situational strategies for self-control. Perspectives on Psychological Science."
     },
     {
       "id": "fact-046",
       "title": "Intencje społeczne budują zaufanie",
-      "message": "Zaufanie rośnie, gdy druga osoba komunikuje kompetencję, życzliwość i przewidywalność. Brak jasności co do intencji zwiększa ostrożność w relacji.",
+      "lead": "Zaufanie rośnie, gdy druga osoba komunikuje kompetencję, życzliwość i przewidywalność.",
+      "body": "Brak jasności co do intencji zwiększa ostrożność w relacji. Relacje wzmacnia przewidywalność, jasność intencji i gotowość do naprawy kontaktu. Nie wystarczy mieć dobre zamiary; druga osoba potrzebuje jeszcze czytelnych sygnałów, konkretnych próśb i respektowania granic. Wybierz jedną potrzebę lub granicę i sformułuj ją prostym zdaniem bez oskarżania.",
       "source": "Mayer, R. C. et al. (1995). An integrative model of organizational trust. Academy of Management Review."
     },
     {
       "id": "fact-047",
       "title": "Poczucie sensu sprzyja odporności",
-      "message": "Interpretowanie trudności w szerszym kontekście wartości i celów może pomagać znosić dyskomfort oraz utrzymywać kierunek działania mimo przeszkód.",
+      "lead": "Interpretowanie trudności w szerszym kontekście wartości i celów może pomagać znosić dyskomfort oraz utrzymywać kierunek działania mimo przeszkód.",
+      "body": "Traktuj regenerację jako część systemu działania, a nie nagrodę po wykonaniu wszystkiego. Stała pora snu, mniej bodźców wieczorem i krótka powtórka materiału przed odpoczynkiem mogą wspierać pamięć, emocje i trafność decyzji. Dziś wybierz jedną wieczorną czynność, która ułatwi mózgowi zamknięcie dnia.",
       "source": "Frankl, V. E. (1959). Man's Search for Meaning."
     },
     {
       "id": "fact-048",
       "title": "Samoocena i sprawczość to nie to samo",
-      "message": "Wysoka samoocena oznacza ogólną pozytywną ocenę siebie, a poczucie własnej skuteczności dotyczy przekonania, że potrafię wykonać konkretne zadanie.",
+      "lead": "Wysoka samoocena oznacza ogólną pozytywną ocenę siebie, a poczucie własnej skuteczności dotyczy przekonania, że potrafię wykonać konkretne zadanie.",
+      "body": "Trwałe zasady potrzebują przekładu na małe, obserwowalne działania. Im dokładniej wiadomo, kiedy, gdzie i od czego zacząć, tym mniejszy opór startu i mniejsza zależność od chwilowej motywacji. Zamień jedną ogólną intencję na regułę typu: po konkretnej sytuacji wykonuję konkretny mały krok.",
       "source": "Bandura, A. (1977). Self-efficacy: Toward a unifying theory. Psychological Review."
     },
     {
       "id": "fact-049",
       "title": "Uczenie przez wyjaśnianie pogłębia rozumienie",
-      "message": "Tłumaczenie materiału własnymi słowami ujawnia luki w wiedzy i zmusza do organizowania informacji w spójną strukturę.",
+      "lead": "Tłumaczenie materiału własnymi słowami ujawnia luki w wiedzy i zmusza do organizowania informacji w spójną strukturę.",
+      "body": "Uczenie jest skuteczniejsze, gdy wymaga aktywnego wydobywania, porządkowania i sprawdzania luk. Samo czytanie daje często złudzenie znajomości, natomiast pytania, quizy i tłumaczenie własnymi słowami pokazują realny poziom rozumienia. Po nauce zapisz trzy pytania i odpowiedz na nie bez zaglądania do materiału.",
       "source": "Chi, M. T. H. et al. (1994). Eliciting self-explanations improves understanding. Cognitive Science."
     },
     {
       "id": "fact-050",
       "title": "Emocje wpływają na uwagę",
-      "message": "Silne pobudzenie emocjonalne zawęża pole uwagi na bodźcach uznanych za istotne. Pomaga to w zagrożeniu, ale może utrudniać analizę szerszego obrazu.",
+      "lead": "Silne pobudzenie emocjonalne zawęża pole uwagi na bodźcach uznanych za istotne.",
+      "body": "Pomaga to w zagrożeniu, ale może utrudniać analizę szerszego obrazu. Wysokie pobudzenie zawęża uwagę i zwiększa impulsywność. Dlatego przy trudnym zadaniu warto najpierw obniżyć napięcie lub dopasować poziom wyzwania, a dopiero potem oczekiwać od siebie precyzyjnego myślenia. W sytuacji presji zrób krótką pauzę i wybierz następny ruch dopiero po spadku napięcia o choćby jeden stopień.",
       "source": "Easterbrook, J. A. (1959). The effect of emotion on cue utilization. Psychological Review."
     },
     {
       "id": "fact-051",
       "title": "Bezpieczeństwo psychologiczne wspiera zespoły",
-      "message": "Zespoły uczą się szybciej, gdy członkowie mogą mówić o błędach, pytaniach i ryzykach bez obawy przed upokorzeniem lub karą społeczną.",
+      "lead": "Zespoły uczą się szybciej, gdy członkowie mogą mówić o błędach, pytaniach i ryzykach bez obawy przed upokorzeniem lub karą społeczną.",
+      "body": "Relacje wzmacnia przewidywalność, jasność intencji i gotowość do naprawy kontaktu. Nie wystarczy mieć dobre zamiary; druga osoba potrzebuje jeszcze czytelnych sygnałów, konkretnych próśb i respektowania granic. Wybierz jedną potrzebę lub granicę i sformułuj ją prostym zdaniem bez oskarżania.",
       "source": "Edmondson, A. (1999). Psychological safety and learning behavior in work teams. Administrative Science Quarterly."
     },
     {
       "id": "fact-052",
       "title": "Efekt zakotwiczenia przesuwa oceny",
-      "message": "Pierwsza liczba lub sugestia potrafi wpływać na późniejsze szacunki, nawet gdy jest arbitralna. Przy wycenach i planach warto zaczynać od niezależnych danych bazowych.",
+      "lead": "Pierwsza liczba lub sugestia potrafi wpływać na późniejsze szacunki, nawet gdy jest arbitralna.",
+      "body": "Przy wycenach i planach warto zaczynać od niezależnych danych bazowych. Oceny bywają przesuwane przez pierwszą informację, aktualny stan ciała, presję czasu i sposób opisania problemu. Dobre decyzje często zaczynają się od spowolnienia automatycznej interpretacji. Przed ważnym wyborem zapisz alternatywną ramę problemu oraz koszt działania i zaniechania.",
       "source": "Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty. Science."
     },
     {
       "id": "fact-053",
       "title": "Nazwy kategorii kierują spostrzeganiem",
-      "message": "Etykiety pojęciowe pomagają porządkować świat, ale mogą też ukrywać różnice między osobami lub zjawiskami wrzuconymi do tej samej kategorii.",
+      "lead": "Etykiety pojęciowe pomagają porządkować świat, ale mogą też ukrywać różnice między osobami lub zjawiskami wrzuconymi do tej samej kategorii.",
+      "body": "W praktyce ta obserwacja pomaga projektować codzienne warunki działania bardziej świadomie. Mała korekta sposobu myślenia, komunikacji lub otoczenia może mieć większy efekt niż jednorazowa próba radykalnej zmiany. Wybierz jeden szczegół sytuacji, na który masz wpływ, i popraw go dziś minimalnym krokiem.",
       "source": "Tajfel, H. (1969). Cognitive aspects of prejudice. Journal of Social Issues."
     },
     {
       "id": "fact-054",
       "title": "Perspektywa czasowa zmienia priorytety",
-      "message": "Gdy ludzie postrzegają czas jako ograniczony, częściej wybierają cele emocjonalnie znaczące zamiast eksploracyjnych lub odłożonych na przyszłość.",
+      "lead": "Gdy ludzie postrzegają czas jako ograniczony, częściej wybierają cele emocjonalnie znaczące zamiast eksploracyjnych lub odłożonych na przyszłość.",
+      "body": "Emocja jest sygnałem, nie automatycznym poleceniem. Pomaga ją nazwać, oddzielić od faktów i sprawdzić, czy wymaga działania, rozmowy, odpoczynku, korekty granic czy jedynie przeczekania fali pobudzenia. Nazwij jedną emocję precyzyjnie i dopisz, jaką informację może nieść bez zmieniania jej w wyrok.",
       "source": "Carstensen, L. L. (2006). The influence of a sense of time on human development. Science."
     },
     {
       "id": "fact-055",
       "title": "Rytuały redukują niepewność",
-      "message": "Powtarzalne rytuały przed ważnym zadaniem mogą obniżać napięcie, bo dają poczucie struktury i przewidywalności w sytuacji wyniku częściowo poza kontrolą.",
+      "lead": "Powtarzalne rytuały przed ważnym zadaniem mogą obniżać napięcie, bo dają poczucie struktury i przewidywalności w sytuacji wyniku częściowo poza kontrolą.",
+      "body": "Wysokie pobudzenie zawęża uwagę i zwiększa impulsywność. Dlatego przy trudnym zadaniu warto najpierw obniżyć napięcie lub dopasować poziom wyzwania, a dopiero potem oczekiwać od siebie precyzyjnego myślenia. W sytuacji presji zrób krótką pauzę i wybierz następny ruch dopiero po spadku napięcia o choćby jeden stopień.",
       "source": "Norton, M. I., & Gino, F. (2014). Rituals alleviate grieving. Journal of Experimental Psychology: General."
     },
     {
       "id": "fact-056",
       "title": "Senność pogarsza ocenę ryzyka",
-      "message": "Zmęczenie i niedobór snu osłabiają funkcje wykonawcze, przez co decyzje mogą stawać się bardziej impulsywne i mniej wrażliwe na konsekwencje.",
+      "lead": "Zmęczenie i niedobór snu osłabiają funkcje wykonawcze, przez co decyzje mogą stawać się bardziej impulsywne i mniej wrażliwe na konsekwencje.",
+      "body": "Traktuj regenerację jako część systemu działania, a nie nagrodę po wykonaniu wszystkiego. Stała pora snu, mniej bodźców wieczorem i krótka powtórka materiału przed odpoczynkiem mogą wspierać pamięć, emocje i trafność decyzji. Dziś wybierz jedną wieczorną czynność, która ułatwi mózgowi zamknięcie dnia.",
       "source": "Killgore, W. D. S. (2010). Effects of sleep deprivation on cognition. Progress in Brain Research."
     },
     {
       "id": "fact-057",
       "title": "Prospołeczność poprawia dobrostan",
-      "message": "Działania na rzecz innych, nawet niewielkie, często zwiększają pozytywny afekt i poczucie więzi, szczególnie gdy są dobrowolne i konkretne.",
+      "lead": "Działania na rzecz innych, nawet niewielkie, często zwiększają pozytywny afekt i poczucie więzi, szczególnie gdy są dobrowolne i konkretne.",
+      "body": "Emocja jest sygnałem, nie automatycznym poleceniem. Pomaga ją nazwać, oddzielić od faktów i sprawdzić, czy wymaga działania, rozmowy, odpoczynku, korekty granic czy jedynie przeczekania fali pobudzenia. Nazwij jedną emocję precyzyjnie i dopisz, jaką informację może nieść bez zmieniania jej w wyrok.",
       "source": "Aknin, L. B. et al. (2013). Prosocial spending and well-being. Journal of Personality and Social Psychology."
     },
     {
       "id": "fact-058",
       "title": "Metapoznanie pomaga uczyć się skuteczniej",
-      "message": "Monitorowanie własnego zrozumienia pozwala wybierać lepsze strategie nauki. Samo poczucie znajomości materiału bywa mylące bez próby odtworzenia.",
+      "lead": "Monitorowanie własnego zrozumienia pozwala wybierać lepsze strategie nauki.",
+      "body": "Samo poczucie znajomości materiału bywa mylące bez próby odtworzenia. Uczenie jest skuteczniejsze, gdy wymaga aktywnego wydobywania, porządkowania i sprawdzania luk. Samo czytanie daje często złudzenie znajomości, natomiast pytania, quizy i tłumaczenie własnymi słowami pokazują realny poziom rozumienia. Po nauce zapisz trzy pytania i odpowiedz na nie bez zaglądania do materiału.",
       "source": "Dunlosky, J. et al. (2013). Improving students' learning with effective learning techniques. Psychological Science in the Public Interest."
     },
     {
       "id": "fact-059",
       "title": "Stres może mobilizować albo przeciążać",
-      "message": "Umiarkowany poziom pobudzenia bywa pomocny przy prostych zadaniach, ale zbyt wysokie pobudzenie pogarsza wykonanie, zwłaszcza gdy zadanie jest złożone.",
+      "lead": "Umiarkowany poziom pobudzenia bywa pomocny przy prostych zadaniach, ale zbyt wysokie pobudzenie pogarsza wykonanie, zwłaszcza gdy zadanie jest złożone.",
+      "body": "Wysokie pobudzenie zawęża uwagę i zwiększa impulsywność. Dlatego przy trudnym zadaniu warto najpierw obniżyć napięcie lub dopasować poziom wyzwania, a dopiero potem oczekiwać od siebie precyzyjnego myślenia. W sytuacji presji zrób krótką pauzę i wybierz następny ruch dopiero po spadku napięcia o choćby jeden stopień.",
       "source": "Yerkes, R. M., & Dodson, J. D. (1908). The relation of strength of stimulus to rapidity of habit-formation. Journal of Comparative Neurology and Psychology."
     },
     {
       "id": "fact-060",
       "title": "Tożsamość wspiera zmianę nawyków",
-      "message": "Zachowania łatwiej utrzymać, gdy pasują do obrazu siebie. Formuła „jestem osobą, która…” może wzmacniać konsekwencję bardziej niż sam odległy wynik.",
+      "lead": "Zachowania łatwiej utrzymać, gdy pasują do obrazu siebie.",
+      "body": "Formuła „jestem osobą, która…” może wzmacniać konsekwencję bardziej niż sam odległy wynik. Trwałe zasady potrzebują przekładu na małe, obserwowalne działania. Im dokładniej wiadomo, kiedy, gdzie i od czego zacząć, tym mniejszy opór startu i mniejsza zależność od chwilowej motywacji. Zamień jedną ogólną intencję na regułę typu: po konkretnej sytuacji wykonuję konkretny mały krok.",
       "source": "Oyserman, D. et al. (2007). Identity-based motivation. Journal of Personality and Social Psychology."
     },
     {
       "id": "fact-061",
       "title": "Ciekawość wzmacnia uczenie",
-      "message": "Gdy temat budzi ciekawość, mózg łatwiej koduje nowe informacje, także te poboczne. Zacznij naukę od pytania, które naprawdę chcesz rozwiązać.",
+      "lead": "Gdy temat budzi ciekawość, mózg łatwiej koduje nowe informacje, także te poboczne.",
+      "body": "Zacznij naukę od pytania, które naprawdę chcesz rozwiązać. Uczenie jest skuteczniejsze, gdy wymaga aktywnego wydobywania, porządkowania i sprawdzania luk. Samo czytanie daje często złudzenie znajomości, natomiast pytania, quizy i tłumaczenie własnymi słowami pokazują realny poziom rozumienia. Po nauce zapisz trzy pytania i odpowiedz na nie bez zaglądania do materiału.",
       "source": "Gruber, M. J. et al. (2014). States of curiosity modulate hippocampus-dependent learning via the dopaminergic circuit. Neuron."
     },
     {
       "id": "fact-062",
       "title": "Efekt generowania",
-      "message": "Informacje, które samodzielnie wytwarzasz zamiast tylko czytać, zwykle zostają w pamięci dłużej. Warto dopowiadać definicje własnymi słowami.",
+      "lead": "Informacje, które samodzielnie wytwarzasz zamiast tylko czytać, zwykle zostają w pamięci dłużej.",
+      "body": "Warto dopowiadać definicje własnymi słowami. Uczenie jest skuteczniejsze, gdy wymaga aktywnego wydobywania, porządkowania i sprawdzania luk. Samo czytanie daje często złudzenie znajomości, natomiast pytania, quizy i tłumaczenie własnymi słowami pokazują realny poziom rozumienia. Po nauce zapisz trzy pytania i odpowiedz na nie bez zaglądania do materiału.",
       "source": "Slamecka, N. J., & Graf, P. (1978). The generation effect. Journal of Experimental Psychology: Human Learning and Memory."
     },
     {
       "id": "fact-063",
       "title": "Nastrój wpływa na pamięć",
-      "message": "Łatwiej przypominamy sobie treści zgodne z aktualnym nastrojem. Przy złym dniu umysł może selektywnie podsuwać bardziej negatywne wspomnienia.",
+      "lead": "Łatwiej przypominamy sobie treści zgodne z aktualnym nastrojem.",
+      "body": "Przy złym dniu umysł może selektywnie podsuwać bardziej negatywne wspomnienia. Uczenie jest skuteczniejsze, gdy wymaga aktywnego wydobywania, porządkowania i sprawdzania luk. Samo czytanie daje często złudzenie znajomości, natomiast pytania, quizy i tłumaczenie własnymi słowami pokazują realny poziom rozumienia. Po nauce zapisz trzy pytania i odpowiedz na nie bez zaglądania do materiału.",
       "source": "Bower, G. H. (1981). Mood and memory. American Psychologist."
     },
     {
       "id": "fact-064",
       "title": "Efekt zakotwiczenia",
-      "message": "Pierwsza liczba lub informacja może nieproporcjonalnie wpływać na późniejszą ocenę. Przy decyzjach warto świadomie sprawdzać alternatywne punkty odniesienia.",
+      "lead": "Pierwsza liczba lub informacja może nieproporcjonalnie wpływać na późniejszą ocenę.",
+      "body": "Przy decyzjach warto świadomie sprawdzać alternatywne punkty odniesienia. Oceny bywają przesuwane przez pierwszą informację, aktualny stan ciała, presję czasu i sposób opisania problemu. Dobre decyzje często zaczynają się od spowolnienia automatycznej interpretacji. Przed ważnym wyborem zapisz alternatywną ramę problemu oraz koszt działania i zaniechania.",
       "source": "Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. Science."
     },
     {
       "id": "fact-065",
       "title": "Przerwa inkubacyjna pomaga rozwiązywać problemy",
-      "message": "Odejście od trudnego zadania na jakiś czas może ułatwić znalezienie rozwiązania, zwłaszcza gdy wcześniej poświęcono mu realny wysiłek poznawczy.",
+      "lead": "Odejście od trudnego zadania na jakiś czas może ułatwić znalezienie rozwiązania, zwłaszcza gdy wcześniej poświęcono mu realny wysiłek poznawczy.",
+      "body": "W praktyce ta obserwacja pomaga projektować codzienne warunki działania bardziej świadomie. Mała korekta sposobu myślenia, komunikacji lub otoczenia może mieć większy efekt niż jednorazowa próba radykalnej zmiany. Wybierz jeden szczegół sytuacji, na który masz wpływ, i popraw go dziś minimalnym krokiem.",
       "source": "Sio, U. N., & Ormerod, T. C. (2009). Does incubation enhance problem solving? Psychological Bulletin."
     },
     {
       "id": "fact-066",
       "title": "Pamięć jest rekonstrukcyjna",
-      "message": "Wspomnienia nie są prostymi nagraniami. Przywołując zdarzenie, mózg częściowo je rekonstruuje, dlatego szczegóły mogą zmieniać się z czasem.",
+      "lead": "Wspomnienia nie są prostymi nagraniami.",
+      "body": "Przywołując zdarzenie, mózg częściowo je rekonstruuje, dlatego szczegóły mogą zmieniać się z czasem. Uczenie jest skuteczniejsze, gdy wymaga aktywnego wydobywania, porządkowania i sprawdzania luk. Samo czytanie daje często złudzenie znajomości, natomiast pytania, quizy i tłumaczenie własnymi słowami pokazują realny poziom rozumienia. Po nauce zapisz trzy pytania i odpowiedz na nie bez zaglądania do materiału.",
       "source": "Bartlett, F. C. (1932). Remembering: A Study in Experimental and Social Psychology."
     },
     {
       "id": "fact-067",
       "title": "Fałszywe wspomnienia mogą być przekonujące",
-      "message": "Sugestywne pytania i późniejsze informacje potrafią zmieniać relację z pamięci. Pewność wspomnienia nie zawsze oznacza jego dokładność.",
+      "lead": "Sugestywne pytania i późniejsze informacje potrafią zmieniać relację z pamięci.",
+      "body": "Pewność wspomnienia nie zawsze oznacza jego dokładność. Relacje wzmacnia przewidywalność, jasność intencji i gotowość do naprawy kontaktu. Nie wystarczy mieć dobre zamiary; druga osoba potrzebuje jeszcze czytelnych sygnałów, konkretnych próśb i respektowania granic. Wybierz jedną potrzebę lub granicę i sformułuj ją prostym zdaniem bez oskarżania.",
       "source": "Loftus, E. F., & Palmer, J. C. (1974). Reconstruction of automobile destruction. Journal of Verbal Learning and Verbal Behavior."
     },
     {
       "id": "fact-068",
       "title": "Język kształtuje uwagę",
-      "message": "Kategorie obecne w języku mogą wpływać na to, jak szybko rozróżniamy bodźce, np. odcienie kolorów. Słowa bywają narzędziami percepcji.",
+      "lead": "Kategorie obecne w języku mogą wpływać na to, jak szybko rozróżniamy bodźce, np.",
+      "body": "odcienie kolorów. Słowa bywają narzędziami percepcji. W praktyce ta obserwacja pomaga projektować codzienne warunki działania bardziej świadomie. Mała korekta sposobu myślenia, komunikacji lub otoczenia może mieć większy efekt niż jednorazowa próba radykalnej zmiany. Wybierz jeden szczegół sytuacji, na który masz wpływ, i popraw go dziś minimalnym krokiem.",
       "source": "Winawer, J. et al. (2007). Russian blues reveal effects of language on color discrimination. PNAS."
     },
     {
       "id": "fact-069",
       "title": "Efekt posiadania podnosi wartość rzeczy",
-      "message": "Ludzie często wyżej wyceniają przedmioty, które już posiadają, niż identyczne przedmioty, których nie mają. Własność zmienia punkt odniesienia.",
+      "lead": "Ludzie często wyżej wyceniają przedmioty, które już posiadają, niż identyczne przedmioty, których nie mają.",
+      "body": "Własność zmienia punkt odniesienia. W praktyce ta obserwacja pomaga projektować codzienne warunki działania bardziej świadomie. Mała korekta sposobu myślenia, komunikacji lub otoczenia może mieć większy efekt niż jednorazowa próba radykalnej zmiany. Wybierz jeden szczegół sytuacji, na który masz wpływ, i popraw go dziś minimalnym krokiem.",
       "source": "Kahneman, D. et al. (1990). Experimental tests of the endowment effect and the Coase theorem. Journal of Political Economy."
     },
     {
       "id": "fact-070",
       "title": "Decyzje męczą kontrolę poznawczą",
-      "message": "Wiele drobnych decyzji może obniżać jakość kolejnych wyborów. Ograniczanie nieistotnych decyzji pomaga zachować zasoby na sprawy ważne.",
+      "lead": "Wiele drobnych decyzji może obniżać jakość kolejnych wyborów.",
+      "body": "Ograniczanie nieistotnych decyzji pomaga zachować zasoby na sprawy ważne. Oceny bywają przesuwane przez pierwszą informację, aktualny stan ciała, presję czasu i sposób opisania problemu. Dobre decyzje często zaczynają się od spowolnienia automatycznej interpretacji. Przed ważnym wyborem zapisz alternatywną ramę problemu oraz koszt działania i zaniechania.",
       "source": "Vohs, K. D. et al. (2008). Making choices impairs subsequent self-control. Journal of Personality and Social Psychology."
     },
     {
       "id": "fact-071",
       "title": "Pisanie ekspresywne porządkuje emocje",
-      "message": "Krótki zapis trudnych przeżyć może wspierać organizowanie doświadczeń i obniżać napięcie, zwłaszcza gdy obejmuje sens i znaczenie zdarzeń.",
+      "lead": "Krótki zapis trudnych przeżyć może wspierać organizowanie doświadczeń i obniżać napięcie, zwłaszcza gdy obejmuje sens i znaczenie zdarzeń.",
+      "body": "Traktuj regenerację jako część systemu działania, a nie nagrodę po wykonaniu wszystkiego. Stała pora snu, mniej bodźców wieczorem i krótka powtórka materiału przed odpoczynkiem mogą wspierać pamięć, emocje i trafność decyzji. Dziś wybierz jedną wieczorną czynność, która ułatwi mózgowi zamknięcie dnia.",
       "source": "Pennebaker, J. W., & Beall, S. K. (1986). Confronting a traumatic event. Journal of Abnormal Psychology."
     },
     {
       "id": "fact-072",
       "title": "Awe poszerza perspektywę",
-      "message": "Doświadczenie zachwytu może zmniejszać koncentrację na sobie i zwiększać poczucie więzi z czymś większym niż własne bieżące sprawy.",
+      "lead": "Doświadczenie zachwytu może zmniejszać koncentrację na sobie i zwiększać poczucie więzi z czymś większym niż własne bieżące sprawy.",
+      "body": "W praktyce ta obserwacja pomaga projektować codzienne warunki działania bardziej świadomie. Mała korekta sposobu myślenia, komunikacji lub otoczenia może mieć większy efekt niż jednorazowa próba radykalnej zmiany. Wybierz jeden szczegół sytuacji, na który masz wpływ, i popraw go dziś minimalnym krokiem.",
       "source": "Keltner, D., & Haidt, J. (2003). Approaching awe, a moral, spiritual, and aesthetic emotion. Cognition and Emotion."
     },
     {
       "id": "fact-073",
       "title": "Rozmowa z nieznajomym może poprawić nastrój",
-      "message": "Krótkie, życzliwe interakcje z osobami spoza bliskiego kręgu bywają bardziej korzystne dla samopoczucia, niż przewidujemy.",
+      "lead": "Krótkie, życzliwe interakcje z osobami spoza bliskiego kręgu bywają bardziej korzystne dla samopoczucia, niż przewidujemy.",
+      "body": "Emocja jest sygnałem, nie automatycznym poleceniem. Pomaga ją nazwać, oddzielić od faktów i sprawdzić, czy wymaga działania, rozmowy, odpoczynku, korekty granic czy jedynie przeczekania fali pobudzenia. Nazwij jedną emocję precyzyjnie i dopisz, jaką informację może nieść bez zmieniania jej w wyrok.",
       "source": "Epley, N., & Schroeder, J. (2014). Mistakenly seeking solitude. Journal of Experimental Psychology: General."
     },
     {
       "id": "fact-074",
       "title": "Efekt reflektora jest zawyżony",
-      "message": "Zwykle przeceniamy to, jak bardzo inni zauważają nasze potknięcia, wygląd lub zachowanie. Większość ludzi jest zajęta własną perspektywą.",
+      "lead": "Zwykle przeceniamy to, jak bardzo inni zauważają nasze potknięcia, wygląd lub zachowanie.",
+      "body": "Większość ludzi jest zajęta własną perspektywą. W praktyce ta obserwacja pomaga projektować codzienne warunki działania bardziej świadomie. Mała korekta sposobu myślenia, komunikacji lub otoczenia może mieć większy efekt niż jednorazowa próba radykalnej zmiany. Wybierz jeden szczegół sytuacji, na który masz wpływ, i popraw go dziś minimalnym krokiem.",
       "source": "Gilovich, T. et al. (2000). The spotlight effect in social judgment. Journal of Personality and Social Psychology."
     },
     {
       "id": "fact-075",
       "title": "Iluzja przejrzystości utrudnia komunikację",
-      "message": "Ludzie często zakładają, że ich emocje i intencje są dla innych bardziej widoczne, niż faktycznie są. Jasne nazywanie potrzeb zmniejsza nieporozumienia.",
+      "lead": "Ludzie często zakładają, że ich emocje i intencje są dla innych bardziej widoczne, niż faktycznie są.",
+      "body": "Jasne nazywanie potrzeb zmniejsza nieporozumienia. Emocja jest sygnałem, nie automatycznym poleceniem. Pomaga ją nazwać, oddzielić od faktów i sprawdzić, czy wymaga działania, rozmowy, odpoczynku, korekty granic czy jedynie przeczekania fali pobudzenia. Nazwij jedną emocję precyzyjnie i dopisz, jaką informację może nieść bez zmieniania jej w wyrok.",
       "source": "Gilovich, T. et al. (1998). The illusion of transparency. Journal of Personality and Social Psychology."
     },
     {
       "id": "fact-076",
       "title": "Kontrast zmienia ocenę",
-      "message": "Oceniamy bodźce względem tego, co było tuż przed nimi. Ten sam wysiłek, koszt lub smak może wydawać się inny po silnym punkcie porównania.",
+      "lead": "Oceniamy bodźce względem tego, co było tuż przed nimi.",
+      "body": "Ten sam wysiłek, koszt lub smak może wydawać się inny po silnym punkcie porównania. Oceny bywają przesuwane przez pierwszą informację, aktualny stan ciała, presję czasu i sposób opisania problemu. Dobre decyzje często zaczynają się od spowolnienia automatycznej interpretacji. Przed ważnym wyborem zapisz alternatywną ramę problemu oraz koszt działania i zaniechania.",
       "source": "Helson, H. (1964). Adaptation-Level Theory."
     },
     {
       "id": "fact-077",
       "title": "Ciało wpływa na myślenie",
-      "message": "Postawa, ruch i sygnały z ciała mogą subtelnie modulować emocje oraz ocenę sytuacji. Poznanie nie dzieje się wyłącznie „w głowie”.",
+      "lead": "Postawa, ruch i sygnały z ciała mogą subtelnie modulować emocje oraz ocenę sytuacji.",
+      "body": "Poznanie nie dzieje się wyłącznie „w głowie”. Sygnały z ciała wpływają na napięcie, energię i sposób interpretowania sytuacji. Zmiana pozycji, rytmu oddechu, tempa ruchu albo bodźców dźwiękowych bywa prostym sposobem regulacji bez długiego analizowania problemu. Zanim zaczniesz roztrząsać sprawę, sprawdź, czy ciało nie potrzebuje ruchu, jedzenia, odpoczynku albo ciszy.",
       "source": "Barsalou, L. W. (2008). Grounded cognition. Annual Review of Psychology."
     },
     {
       "id": "fact-078",
       "title": "Perspektywa trzeciej osoby zmniejsza dystres",
-      "message": "Opisywanie trudnej sytuacji z większego dystansu, jak obserwator, może ograniczać ruminacje i ułatwiać bardziej zrównoważoną ocenę.",
+      "lead": "Opisywanie trudnej sytuacji z większego dystansu, jak obserwator, może ograniczać ruminacje i ułatwiać bardziej zrównoważoną ocenę.",
+      "body": "Wysokie pobudzenie zawęża uwagę i zwiększa impulsywność. Dlatego przy trudnym zadaniu warto najpierw obniżyć napięcie lub dopasować poziom wyzwania, a dopiero potem oczekiwać od siebie precyzyjnego myślenia. W sytuacji presji zrób krótką pauzę i wybierz następny ruch dopiero po spadku napięcia o choćby jeden stopień.",
       "source": "Kross, E., & Ayduk, O. (2011). Making meaning out of negative experiences by self-distancing. Current Directions in Psychological Science."
     },
     {
       "id": "fact-079",
       "title": "Emocje są krótkie, ruminacje je przedłużają",
-      "message": "Pierwotna fala emocji często trwa krócej niż opowieść, którą później wokół niej budujemy. Powracające interpretacje mogą podtrzymywać pobudzenie.",
+      "lead": "Pierwotna fala emocji często trwa krócej niż opowieść, którą później wokół niej budujemy.",
+      "body": "Powracające interpretacje mogą podtrzymywać pobudzenie. Wysokie pobudzenie zawęża uwagę i zwiększa impulsywność. Dlatego przy trudnym zadaniu warto najpierw obniżyć napięcie lub dopasować poziom wyzwania, a dopiero potem oczekiwać od siebie precyzyjnego myślenia. W sytuacji presji zrób krótką pauzę i wybierz następny ruch dopiero po spadku napięcia o choćby jeden stopień.",
       "source": "Nolen-Hoeksema, S. (2000). The role of rumination in depressive disorders and mixed anxiety/depressive symptoms. Journal of Abnormal Psychology."
     },
     {
       "id": "fact-080",
       "title": "Efekt „halo” zniekształca ocenę",
-      "message": "Jedna pozytywna cecha osoby, np. atrakcyjność lub pewność siebie, może wpływać na ocenę innych, niepowiązanych kompetencji.",
+      "lead": "Jedna pozytywna cecha osoby, np.",
+      "body": "atrakcyjność lub pewność siebie, może wpływać na ocenę innych, niepowiązanych kompetencji. W praktyce ta obserwacja pomaga projektować codzienne warunki działania bardziej świadomie. Mała korekta sposobu myślenia, komunikacji lub otoczenia może mieć większy efekt niż jednorazowa próba radykalnej zmiany. Wybierz jeden szczegół sytuacji, na który masz wpływ, i popraw go dziś minimalnym krokiem.",
       "source": "Thorndike, E. L. (1920). A constant error in psychological ratings. Journal of Applied Psychology."
     },
     {
       "id": "fact-081",
       "title": "Niedobór obciąża uwagę",
-      "message": "Poczucie niedoboru czasu, pieniędzy lub zasobów zawęża uwagę na pilnych problemach, często kosztem planowania długoterminowego.",
+      "lead": "Poczucie niedoboru czasu, pieniędzy lub zasobów zawęża uwagę na pilnych problemach, często kosztem planowania długoterminowego.",
+      "body": "Oceny bywają przesuwane przez pierwszą informację, aktualny stan ciała, presję czasu i sposób opisania problemu. Dobre decyzje często zaczynają się od spowolnienia automatycznej interpretacji. Przed ważnym wyborem zapisz alternatywną ramę problemu oraz koszt działania i zaniechania.",
       "source": "Mullainathan, S., & Shafir, E. (2013). Scarcity: Why Having Too Little Means So Much."
     },
     {
       "id": "fact-082",
       "title": "Efekt domyślnej opcji jest silny",
-      "message": "Ludzie często pozostają przy opcji ustawionej jako domyślna, nawet gdy alternatywy są dostępne. Projektowanie wyboru realnie wpływa na zachowanie.",
+      "lead": "Ludzie często pozostają przy opcji ustawionej jako domyślna, nawet gdy alternatywy są dostępne.",
+      "body": "Projektowanie wyboru realnie wpływa na zachowanie. Uwaga ma ograniczoną pojemność, więc warto projektować otoczenie zamiast stale testować siłę woli. Mniej przełączeń, mniej domyślnych rozpraszaczy i krótsze bloki pracy zwykle poprawiają jakość myślenia. Usuń jeden zbędny bodziec z miejsca pracy albo ustaw jedną korzystną opcję jako domyślną.",
       "source": "Johnson, E. J., & Goldstein, D. (2003). Do defaults save lives? Science."
     },
     {
       "id": "fact-083",
       "title": "Poczucie kontroli łagodzi stres",
-      "message": "Stresory są zwykle mniej obciążające, gdy mamy choćby częściowe poczucie wpływu. Mały zakres decyzji może znacząco zmienić reakcję organizmu.",
+      "lead": "Stresory są zwykle mniej obciążające, gdy mamy choćby częściowe poczucie wpływu.",
+      "body": "Mały zakres decyzji może znacząco zmienić reakcję organizmu. Wysokie pobudzenie zawęża uwagę i zwiększa impulsywność. Dlatego przy trudnym zadaniu warto najpierw obniżyć napięcie lub dopasować poziom wyzwania, a dopiero potem oczekiwać od siebie precyzyjnego myślenia. W sytuacji presji zrób krótką pauzę i wybierz następny ruch dopiero po spadku napięcia o choćby jeden stopień.",
       "source": "Thompson, S. C. (1981). Will it hurt less if I can control it? Psychological Bulletin."
     },
     {
       "id": "fact-084",
       "title": "Samodeterminacja wzmacnia motywację",
-      "message": "Motywacja jest trwalsza, gdy działanie wspiera autonomię, kompetencję i relacje. Sama presja zewnętrzna często działa krótkoterminowo.",
+      "lead": "Motywacja jest trwalsza, gdy działanie wspiera autonomię, kompetencję i relacje.",
+      "body": "Sama presja zewnętrzna często działa krótkoterminowo. Relacje wzmacnia przewidywalność, jasność intencji i gotowość do naprawy kontaktu. Nie wystarczy mieć dobre zamiary; druga osoba potrzebuje jeszcze czytelnych sygnałów, konkretnych próśb i respektowania granic. Wybierz jedną potrzebę lub granicę i sformułuj ją prostym zdaniem bez oskarżania.",
       "source": "Deci, E. L., & Ryan, R. M. (2000). The what and why of goal pursuits. Psychological Inquiry."
     },
     {
       "id": "fact-085",
       "title": "Konkretny feedback działa lepiej niż pochwała ogólna",
-      "message": "Informacja zwrotna jest bardziej użyteczna, gdy wskazuje konkretne zachowanie i następny krok, zamiast ogólnego „dobrze” albo „źle”.",
+      "lead": "Informacja zwrotna jest bardziej użyteczna, gdy wskazuje konkretne zachowanie i następny krok, zamiast ogólnego „dobrze” albo „źle”.",
+      "body": "W praktyce ta obserwacja pomaga projektować codzienne warunki działania bardziej świadomie. Mała korekta sposobu myślenia, komunikacji lub otoczenia może mieć większy efekt niż jednorazowa próba radykalnej zmiany. Wybierz jeden szczegół sytuacji, na który masz wpływ, i popraw go dziś minimalnym krokiem.",
       "source": "Hattie, J., & Timperley, H. (2007). The power of feedback. Review of Educational Research."
     },
     {
       "id": "fact-086",
       "title": "Efekt końca szczytu kształtuje wspomnienia",
-      "message": "Ocena doświadczenia zależy mocno od najbardziej intensywnego momentu i zakończenia, a nie tylko od średniej przyjemności lub przykrości.",
+      "lead": "Ocena doświadczenia zależy mocno od najbardziej intensywnego momentu i zakończenia, a nie tylko od średniej przyjemności lub przykrości.",
+      "body": "W praktyce ta obserwacja pomaga projektować codzienne warunki działania bardziej świadomie. Mała korekta sposobu myślenia, komunikacji lub otoczenia może mieć większy efekt niż jednorazowa próba radykalnej zmiany. Wybierz jeden szczegół sytuacji, na który masz wpływ, i popraw go dziś minimalnym krokiem.",
       "source": "Kahneman, D. et al. (1993). When more pain is preferred to less. Psychological Science."
     },
     {
       "id": "fact-087",
       "title": "Przewidywanie emocji bywa nietrafne",
-      "message": "Często przeceniamy siłę i czas trwania przyszłych reakcji emocjonalnych. Zarówno porażki, jak i sukcesy zwykle bledną szybciej, niż zakładamy.",
+      "lead": "Często przeceniamy siłę i czas trwania przyszłych reakcji emocjonalnych.",
+      "body": "Zarówno porażki, jak i sukcesy zwykle bledną szybciej, niż zakładamy. Emocja jest sygnałem, nie automatycznym poleceniem. Pomaga ją nazwać, oddzielić od faktów i sprawdzić, czy wymaga działania, rozmowy, odpoczynku, korekty granic czy jedynie przeczekania fali pobudzenia. Nazwij jedną emocję precyzyjnie i dopisz, jaką informację może nieść bez zmieniania jej w wyrok.",
       "source": "Wilson, T. D., & Gilbert, D. T. (2003). Affective forecasting. Advances in Experimental Social Psychology."
     },
     {
       "id": "fact-088",
       "title": "Wspólna uwaga buduje porozumienie",
-      "message": "Kiedy dwie osoby kierują uwagę na ten sam obiekt lub problem, łatwiej synchronizują znaczenia, intencje i dalsze działanie.",
+      "lead": "Kiedy dwie osoby kierują uwagę na ten sam obiekt lub problem, łatwiej synchronizują znaczenia, intencje i dalsze działanie.",
+      "body": "Uwaga ma ograniczoną pojemność, więc warto projektować otoczenie zamiast stale testować siłę woli. Mniej przełączeń, mniej domyślnych rozpraszaczy i krótsze bloki pracy zwykle poprawiają jakość myślenia. Usuń jeden zbędny bodziec z miejsca pracy albo ustaw jedną korzystną opcję jako domyślną.",
       "source": "Tomasello, M. (1995). Joint attention as social cognition. In Joint Attention: Its Origins and Role in Development."
     },
     {
       "id": "fact-089",
       "title": "Samopotwierdzenie redukuje defensywność",
-      "message": "Przypomnienie sobie ważnych wartości może zmniejszać reakcję obronną na krytyczne informacje i ułatwiać bardziej otwartą analizę faktów.",
+      "lead": "Przypomnienie sobie ważnych wartości może zmniejszać reakcję obronną na krytyczne informacje i ułatwiać bardziej otwartą analizę faktów.",
+      "body": "Trwałe zasady potrzebują przekładu na małe, obserwowalne działania. Im dokładniej wiadomo, kiedy, gdzie i od czego zacząć, tym mniejszy opór startu i mniejsza zależność od chwilowej motywacji. Zamień jedną ogólną intencję na regułę typu: po konkretnej sytuacji wykonuję konkretny mały krok.",
       "source": "Cohen, G. L., & Sherman, D. K. (2014). The psychology of change: Self-affirmation and social psychological intervention. Annual Review of Psychology."
     },
     {
       "id": "fact-090",
       "title": "Ciepło i kompetencja dominują w ocenie ludzi",
-      "message": "W pierwszych ocenach społecznych szczególnie ważne są dwa wymiary: czy ktoś ma dobre intencje i czy potrafi skutecznie działać.",
+      "lead": "W pierwszych ocenach społecznych szczególnie ważne są dwa wymiary: czy ktoś ma dobre intencje i czy potrafi skutecznie działać.",
+      "body": "Relacje wzmacnia przewidywalność, jasność intencji i gotowość do naprawy kontaktu. Nie wystarczy mieć dobre zamiary; druga osoba potrzebuje jeszcze czytelnych sygnałów, konkretnych próśb i respektowania granic. Wybierz jedną potrzebę lub granicę i sformułuj ją prostym zdaniem bez oskarżania.",
       "source": "Fiske, S. T. et al. (2007). Universal dimensions of social cognition: Warmth and competence. Trends in Cognitive Sciences."
     },
     {
       "id": "fact-091",
       "title": "Wartości porządkują decyzje",
-      "message": "Gdy wybór jest trudny, odwołanie się do własnych wartości zmniejsza chaos decyzyjny. Pytanie „jaka osoba chcę być w tej sytuacji?” często daje stabilniejszy kierunek niż chwilowy nastrój.",
+      "lead": "Gdy wybór jest trudny, odwołanie się do własnych wartości zmniejsza chaos decyzyjny.",
+      "body": "Pytanie „jaka osoba chcę być w tej sytuacji?” często daje stabilniejszy kierunek niż chwilowy nastrój. Emocja jest sygnałem, nie automatycznym poleceniem. Pomaga ją nazwać, oddzielić od faktów i sprawdzić, czy wymaga działania, rozmowy, odpoczynku, korekty granic czy jedynie przeczekania fali pobudzenia. Nazwij jedną emocję precyzyjnie i dopisz, jaką informację może nieść bez zmieniania jej w wyrok.",
       "source": "Hayes, S. C. et al. (1999). Acceptance and Commitment Therapy: An Experiential Approach to Behavior Change."
     },
     {
       "id": "fact-092",
       "title": "Granice chronią zasoby psychiczne",
-      "message": "Jasne granice w relacjach i pracy pomagają ograniczać przeciążenie, frustrację i poczucie przymusu. Dobre „nie” często chroni możliwość powiedzenia prawdziwego „tak”.",
+      "lead": "Jasne granice w relacjach i pracy pomagają ograniczać przeciążenie, frustrację i poczucie przymusu.",
+      "body": "Dobre „nie” często chroni możliwość powiedzenia prawdziwego „tak”. Relacje wzmacnia przewidywalność, jasność intencji i gotowość do naprawy kontaktu. Nie wystarczy mieć dobre zamiary; druga osoba potrzebuje jeszcze czytelnych sygnałów, konkretnych próśb i respektowania granic. Wybierz jedną potrzebę lub granicę i sformułuj ją prostym zdaniem bez oskarżania.",
       "source": "Deci, E. L., & Ryan, R. M. (2000). The what and why of goal pursuits. Psychological Inquiry."
     },
     {
       "id": "fact-093",
       "title": "Żal po decyzji bywa sygnałem, nie wyrokiem",
-      "message": "Regret może wskazywać, czego naprawdę cenisz, ale nie powinien automatycznie unieważniać wcześniejszego wyboru. Warto pytać: „czego ta emocja mnie uczy?”, a nie tylko „co zrobiłem źle?”.",
+      "lead": "Regret może wskazywać, czego naprawdę cenisz, ale nie powinien automatycznie unieważniać wcześniejszego wyboru.",
+      "body": "Warto pytać: „czego ta emocja mnie uczy?”, a nie tylko „co zrobiłem źle?”. Emocja jest sygnałem, nie automatycznym poleceniem. Pomaga ją nazwać, oddzielić od faktów i sprawdzić, czy wymaga działania, rozmowy, odpoczynku, korekty granic czy jedynie przeczekania fali pobudzenia. Nazwij jedną emocję precyzyjnie i dopisz, jaką informację może nieść bez zmieniania jej w wyrok.",
       "source": "Zeelenberg, M., & Pieters, R. (2007). A theory of regret regulation. Journal of Consumer Psychology."
     },
     {
       "id": "fact-094",
       "title": "Długofalowe cele potrzebują krótkich rytuałów",
-      "message": "Duże zmiany rzadko utrzymują się samą motywacją. Małe, powtarzalne rytuały zakotwiczone w dniu pomagają przenieść zasady z deklaracji do praktyki.",
+      "lead": "Duże zmiany rzadko utrzymują się samą motywacją.",
+      "body": "Małe, powtarzalne rytuały zakotwiczone w dniu pomagają przenieść zasady z deklaracji do praktyki. Trwałe zasady potrzebują przekładu na małe, obserwowalne działania. Im dokładniej wiadomo, kiedy, gdzie i od czego zacząć, tym mniejszy opór startu i mniejsza zależność od chwilowej motywacji. Zamień jedną ogólną intencję na regułę typu: po konkretnej sytuacji wykonuję konkretny mały krok.",
       "source": "Wood, W., & Neal, D. T. (2007). A new look at habits and the habit-goal interface. Psychological Review."
     },
     {
       "id": "fact-095",
       "title": "Porównania społeczne wymagają higieny",
-      "message": "Porównywanie się z innymi może motywować albo podcinać sprawczość. Najbardziej użyteczne pytanie brzmi: „co mogę z tego wziąć dla siebie?”, zamiast „czy jestem gorszy?”.",
+      "lead": "Porównywanie się z innymi może motywować albo podcinać sprawczość.",
+      "body": "Najbardziej użyteczne pytanie brzmi: „co mogę z tego wziąć dla siebie?”, zamiast „czy jestem gorszy?”. Relacje wzmacnia przewidywalność, jasność intencji i gotowość do naprawy kontaktu. Nie wystarczy mieć dobre zamiary; druga osoba potrzebuje jeszcze czytelnych sygnałów, konkretnych próśb i respektowania granic. Wybierz jedną potrzebę lub granicę i sformułuj ją prostym zdaniem bez oskarżania.",
       "source": "Festinger, L. (1954). A theory of social comparison processes. Human Relations."
     },
     {
       "id": "fact-096",
       "title": "Nie każda myśl zasługuje na działanie",
-      "message": "Myśli są zdarzeniami psychicznymi, nie poleceniami. Dystans poznawczy pomaga zauważyć impuls bez natychmiastowego podporządkowania mu zachowania.",
+      "lead": "Myśli są zdarzeniami psychicznymi, nie poleceniami.",
+      "body": "Dystans poznawczy pomaga zauważyć impuls bez natychmiastowego podporządkowania mu zachowania. W praktyce ta obserwacja pomaga projektować codzienne warunki działania bardziej świadomie. Mała korekta sposobu myślenia, komunikacji lub otoczenia może mieć większy efekt niż jednorazowa próba radykalnej zmiany. Wybierz jeden szczegół sytuacji, na który masz wpływ, i popraw go dziś minimalnym krokiem.",
       "source": "Beck, J. S. (2011). Cognitive Behavior Therapy: Basics and Beyond."
     },
     {
       "id": "fact-097",
       "title": "Autonomia wzmacnia motywację",
-      "message": "Ludzie zwykle trwalej angażują się w działania, które rozumieją jako własny wybór. Poczucie autonomii jest jednym z podstawowych składników zdrowej motywacji.",
+      "lead": "Ludzie zwykle trwalej angażują się w działania, które rozumieją jako własny wybór.",
+      "body": "Poczucie autonomii jest jednym z podstawowych składników zdrowej motywacji. Trwałe zasady potrzebują przekładu na małe, obserwowalne działania. Im dokładniej wiadomo, kiedy, gdzie i od czego zacząć, tym mniejszy opór startu i mniejsza zależność od chwilowej motywacji. Zamień jedną ogólną intencję na regułę typu: po konkretnej sytuacji wykonuję konkretny mały krok.",
       "source": "Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation. American Psychologist."
     },
     {
       "id": "fact-098",
       "title": "Dobra zasada jest konkretna",
-      "message": "Zasada „będę o siebie dbać” jest zbyt ogólna, by prowadzić zachowanie. Bardziej działa wersja: „po pracy robię 20 minut bez ekranu przed kolejnym obowiązkiem”.",
+      "lead": "Zasada „będę o siebie dbać” jest zbyt ogólna, by prowadzić zachowanie.",
+      "body": "Bardziej działa wersja: „po pracy robię 20 minut bez ekranu przed kolejnym obowiązkiem”. Trwałe zasady potrzebują przekładu na małe, obserwowalne działania. Im dokładniej wiadomo, kiedy, gdzie i od czego zacząć, tym mniejszy opór startu i mniejsza zależność od chwilowej motywacji. Zamień jedną ogólną intencję na regułę typu: po konkretnej sytuacji wykonuję konkretny mały krok.",
       "source": "Gollwitzer, P. M., & Sheeran, P. (2006). Implementation intentions and goal achievement. Advances in Experimental Social Psychology."
     },
     {
       "id": "fact-099",
       "title": "Środowisko często wygrywa z silną wolą",
-      "message": "Najłatwiej utrzymać dobre zasady, gdy otoczenie wspiera pożądane zachowanie. Zmiana bodźców wokół siebie bywa skuteczniejsza niż ciągłe testowanie samokontroli.",
+      "lead": "Najłatwiej utrzymać dobre zasady, gdy otoczenie wspiera pożądane zachowanie.",
+      "body": "Zmiana bodźców wokół siebie bywa skuteczniejsza niż ciągłe testowanie samokontroli. Oceny bywają przesuwane przez pierwszą informację, aktualny stan ciała, presję czasu i sposób opisania problemu. Dobre decyzje często zaczynają się od spowolnienia automatycznej interpretacji. Przed ważnym wyborem zapisz alternatywną ramę problemu oraz koszt działania i zaniechania.",
       "source": "Thaler, R. H., & Sunstein, C. R. (2008). Nudge: Improving Decisions About Health, Wealth, and Happiness."
     },
     {
       "id": "fact-100",
       "title": "Odpoczynek nie jest nagrodą za wyczerpanie",
-      "message": "Regeneracja działa najlepiej, gdy jest planowana przed skrajnym spadkiem zasobów. Traktowanie odpoczynku jako elementu systemu chroni przed cyklem przeciążenia i odrabiania strat.",
+      "lead": "Regeneracja działa najlepiej, gdy jest planowana przed skrajnym spadkiem zasobów.",
+      "body": "Traktowanie odpoczynku jako elementu systemu chroni przed cyklem przeciążenia i odrabiania strat. W praktyce ta obserwacja pomaga projektować codzienne warunki działania bardziej świadomie. Mała korekta sposobu myślenia, komunikacji lub otoczenia może mieć większy efekt niż jednorazowa próba radykalnej zmiany. Wybierz jeden szczegół sytuacji, na który masz wpływ, i popraw go dziś minimalnym krokiem.",
       "source": "Sonnentag, S., & Fritz, C. (2007). The Recovery Experience Questionnaire. Journal of Occupational Health Psychology."
     },
     {
       "id": "fact-101",
       "title": "Asertywność zmniejsza koszt ukrytej złości",
-      "message": "Wyrażanie potrzeb wprost, bez agresji i uległości, ogranicza narastanie urazy. Asertywna komunikacja jest formą regulacji relacji, nie tylko techniką mówienia.",
+      "lead": "Wyrażanie potrzeb wprost, bez agresji i uległości, ogranicza narastanie urazy.",
+      "body": "Asertywna komunikacja jest formą regulacji relacji, nie tylko techniką mówienia. Relacje wzmacnia przewidywalność, jasność intencji i gotowość do naprawy kontaktu. Nie wystarczy mieć dobre zamiary; druga osoba potrzebuje jeszcze czytelnych sygnałów, konkretnych próśb i respektowania granic. Wybierz jedną potrzebę lub granicę i sformułuj ją prostym zdaniem bez oskarżania.",
       "source": "Alberti, R. E., & Emmons, M. L. (2008). Your Perfect Right: Assertiveness and Equality in Your Life and Relationships."
     },
     {
       "id": "fact-102",
       "title": "Decyzje pod wpływem głodu bywają krótszowzroczne",
-      "message": "Stan ciała wpływa na ocenę sytuacji. Zmęczenie, głód i napięcie mogą przesuwać decyzje ku szybkiej uldze, dlatego ważnych spraw nie warto rozstrzygać w biologicznym deficycie.",
+      "lead": "Stan ciała wpływa na ocenę sytuacji.",
+      "body": "Zmęczenie, głód i napięcie mogą przesuwać decyzje ku szybkiej uldze, dlatego ważnych spraw nie warto rozstrzygać w biologicznym deficycie. Wysokie pobudzenie zawęża uwagę i zwiększa impulsywność. Dlatego przy trudnym zadaniu warto najpierw obniżyć napięcie lub dopasować poziom wyzwania, a dopiero potem oczekiwać od siebie precyzyjnego myślenia. W sytuacji presji zrób krótką pauzę i wybierz następny ruch dopiero po spadku napięcia o choćby jeden stopień.",
       "source": "Danziger, S. et al. (2011). Extraneous factors in judicial decisions. PNAS."
     },
     {
       "id": "fact-103",
       "title": "Dziennik pomaga zauważać wzorce",
-      "message": "Krótki zapis sytuacji, emocji i reakcji ułatwia wykrycie powtarzalnych schematów. Bez notatek wiele wzorców znika w pamięci jako „po prostu taki dzień”.",
+      "lead": "Krótki zapis sytuacji, emocji i reakcji ułatwia wykrycie powtarzalnych schematów.",
+      "body": "Bez notatek wiele wzorców znika w pamięci jako „po prostu taki dzień”. Emocja jest sygnałem, nie automatycznym poleceniem. Pomaga ją nazwać, oddzielić od faktów i sprawdzić, czy wymaga działania, rozmowy, odpoczynku, korekty granic czy jedynie przeczekania fali pobudzenia. Nazwij jedną emocję precyzyjnie i dopisz, jaką informację może nieść bez zmieniania jej w wyrok.",
       "source": "Pennebaker, J. W., & Chung, C. K. (2011). Expressive writing: Connections to physical and mental health. Oxford Handbook of Health Psychology."
     },
     {
       "id": "fact-104",
       "title": "Samoocena stabilizuje się przez działanie zgodne z zasadami",
-      "message": "Poczucie własnej wartości jest bardziej stabilne, gdy opiera się na spójności zachowania z wartościami, a mniej na chwilowej aprobacie innych.",
+      "lead": "Poczucie własnej wartości jest bardziej stabilne, gdy opiera się na spójności zachowania z wartościami, a mniej na chwilowej aprobacie innych.",
+      "body": "Trwałe zasady potrzebują przekładu na małe, obserwowalne działania. Im dokładniej wiadomo, kiedy, gdzie i od czego zacząć, tym mniejszy opór startu i mniejsza zależność od chwilowej motywacji. Zamień jedną ogólną intencję na regułę typu: po konkretnej sytuacji wykonuję konkretny mały krok.",
       "source": "Crocker, J., & Wolfe, C. T. (2001). Contingencies of self-worth. Psychological Review."
     },
     {
       "id": "fact-105",
       "title": "Najpierw regulacja, potem rozmowa",
-      "message": "W silnym pobudzeniu trudniej słuchać, rozumować i hamować impulsy. Krótka pauza przed trudną rozmową często poprawia jej jakość bardziej niż najlepszy argument.",
+      "lead": "W silnym pobudzeniu trudniej słuchać, rozumować i hamować impulsy.",
+      "body": "Krótka pauza przed trudną rozmową często poprawia jej jakość bardziej niż najlepszy argument. Wysokie pobudzenie zawęża uwagę i zwiększa impulsywność. Dlatego przy trudnym zadaniu warto najpierw obniżyć napięcie lub dopasować poziom wyzwania, a dopiero potem oczekiwać od siebie precyzyjnego myślenia. W sytuacji presji zrób krótką pauzę i wybierz następny ruch dopiero po spadku napięcia o choćby jeden stopień.",
       "source": "Gross, J. J. (2015). Emotion regulation: Current status and future prospects. Psychological Inquiry."
     },
     {
       "id": "fact-106",
       "title": "Tożsamość wzmacnia nawyki",
-      "message": "Zachowanie jest trwalsze, gdy pasuje do obrazu siebie. „Jestem osobą, która dotrzymuje małych obietnic” może działać silniej niż samo „muszę się zmobilizować”.",
+      "lead": "Zachowanie jest trwalsze, gdy pasuje do obrazu siebie.",
+      "body": "„Jestem osobą, która dotrzymuje małych obietnic” może działać silniej niż samo „muszę się zmobilizować”. Trwałe zasady potrzebują przekładu na małe, obserwowalne działania. Im dokładniej wiadomo, kiedy, gdzie i od czego zacząć, tym mniejszy opór startu i mniejsza zależność od chwilowej motywacji. Zamień jedną ogólną intencję na regułę typu: po konkretnej sytuacji wykonuję konkretny mały krok.",
       "source": "Oyserman, D. (2009). Identity-based motivation. Psychological Bulletin."
     },
     {
       "id": "fact-107",
       "title": "Mądre współczucie obejmuje też siebie",
-      "message": "Pomaganie innym bez uwzględnienia własnych granic sprzyja wyczerpaniu. Zdrowa troska łączy empatię z oceną realnych zasobów.",
+      "lead": "Pomaganie innym bez uwzględnienia własnych granic sprzyja wyczerpaniu.",
+      "body": "Zdrowa troska łączy empatię z oceną realnych zasobów. Relacje wzmacnia przewidywalność, jasność intencji i gotowość do naprawy kontaktu. Nie wystarczy mieć dobre zamiary; druga osoba potrzebuje jeszcze czytelnych sygnałów, konkretnych próśb i respektowania granic. Wybierz jedną potrzebę lub granicę i sformułuj ją prostym zdaniem bez oskarżania.",
       "source": "Figley, C. R. (1995). Compassion Fatigue: Coping with Secondary Traumatic Stress Disorder in Those Who Treat the Traumatized."
     },
     {
       "id": "fact-108",
       "title": "Zasada dwóch minut obniża opór startu",
-      "message": "Rozpoczęcie działania od wersji bardzo małej zmniejsza tarcie psychologiczne. Często najtrudniejszy jest nie wysiłek, lecz przejście od zamiaru do pierwszego ruchu.",
+      "lead": "Rozpoczęcie działania od wersji bardzo małej zmniejsza tarcie psychologiczne.",
+      "body": "Często najtrudniejszy jest nie wysiłek, lecz przejście od zamiaru do pierwszego ruchu. Sygnały z ciała wpływają na napięcie, energię i sposób interpretowania sytuacji. Zmiana pozycji, rytmu oddechu, tempa ruchu albo bodźców dźwiękowych bywa prostym sposobem regulacji bez długiego analizowania problemu. Zanim zaczniesz roztrząsać sprawę, sprawdź, czy ciało nie potrzebuje ruchu, jedzenia, odpoczynku albo ciszy.",
       "source": "Fogg, B. J. (2020). Tiny Habits: The Small Changes That Change Everything."
     },
     {
       "id": "fact-109",
       "title": "Uwaga jest formą inwestycji",
-      "message": "To, czemu regularnie poświęcasz uwagę, wpływa na emocje, priorytety i poczucie rzeczywistości. Higiena uwagi jest praktyczną zasadą dbania o psychikę.",
+      "lead": "To, czemu regularnie poświęcasz uwagę, wpływa na emocje, priorytety i poczucie rzeczywistości.",
+      "body": "Higiena uwagi jest praktyczną zasadą dbania o psychikę. Emocja jest sygnałem, nie automatycznym poleceniem. Pomaga ją nazwać, oddzielić od faktów i sprawdzić, czy wymaga działania, rozmowy, odpoczynku, korekty granic czy jedynie przeczekania fali pobudzenia. Nazwij jedną emocję precyzyjnie i dopisz, jaką informację może nieść bez zmieniania jej w wyrok.",
       "source": "Davenport, T. H., & Beck, J. C. (2001). The Attention Economy."
     },
     {
       "id": "fact-110",
       "title": "Dobre relacje potrzebują naprawy, nie perfekcji",
-      "message": "Konflikty są naturalne, ale znaczenie ma sposób naprawiania zerwań kontaktu. Przeprosiny, doprecyzowanie intencji i powrót do rozmowy budują zaufanie bardziej niż brak potknięć.",
+      "lead": "Konflikty są naturalne, ale znaczenie ma sposób naprawiania zerwań kontaktu.",
+      "body": "Przeprosiny, doprecyzowanie intencji i powrót do rozmowy budują zaufanie bardziej niż brak potknięć. Relacje wzmacnia przewidywalność, jasność intencji i gotowość do naprawy kontaktu. Nie wystarczy mieć dobre zamiary; druga osoba potrzebuje jeszcze czytelnych sygnałów, konkretnych próśb i respektowania granic. Wybierz jedną potrzebę lub granicę i sformułuj ją prostym zdaniem bez oskarżania.",
       "source": "Gottman, J. M., & Silver, N. (1999). The Seven Principles for Making Marriage Work."
     },
     {
       "id": "fact-111",
       "title": "Niepewność można trenować",
-      "message": "Unikanie niepewności krótkoterminowo uspokaja, ale długoterminowo zawęża życie. Stopniowe wystawianie się na małe dawki niepewności wzmacnia tolerancję dyskomfortu.",
+      "lead": "Unikanie niepewności krótkoterminowo uspokaja, ale długoterminowo zawęża życie.",
+      "body": "Stopniowe wystawianie się na małe dawki niepewności wzmacnia tolerancję dyskomfortu. W praktyce ta obserwacja pomaga projektować codzienne warunki działania bardziej świadomie. Mała korekta sposobu myślenia, komunikacji lub otoczenia może mieć większy efekt niż jednorazowa próba radykalnej zmiany. Wybierz jeden szczegół sytuacji, na który masz wpływ, i popraw go dziś minimalnym krokiem.",
       "source": "Dugas, M. J. et al. (1998). Intolerance of uncertainty and worry. Behaviour Research and Therapy."
     },
     {
       "id": "fact-112",
       "title": "Wstyd maleje w bezpiecznym ujawnieniu",
-      "message": "Wstyd rośnie w izolacji i tajemnicy. Rozmowa z zaufaną osobą może przywracać proporcje i zmniejszać poczucie bycia „jedynym takim przypadkiem”.",
+      "lead": "Wstyd rośnie w izolacji i tajemnicy.",
+      "body": "Rozmowa z zaufaną osobą może przywracać proporcje i zmniejszać poczucie bycia „jedynym takim przypadkiem”. Emocja jest sygnałem, nie automatycznym poleceniem. Pomaga ją nazwać, oddzielić od faktów i sprawdzić, czy wymaga działania, rozmowy, odpoczynku, korekty granic czy jedynie przeczekania fali pobudzenia. Nazwij jedną emocję precyzyjnie i dopisz, jaką informację może nieść bez zmieniania jej w wyrok.",
       "source": "Brown, B. (2006). Shame resilience theory. Families in Society."
     },
     {
       "id": "fact-113",
       "title": "Wybieraj kryteria sukcesu zależne od ciebie",
-      "message": "Cele oparte wyłącznie na wyniku są podatne na frustrację. Kryteria procesu, takie jak regularność, jakość pracy i uczciwy wysiłek, dają większą kontrolę nad kierunkiem działania.",
+      "lead": "Cele oparte wyłącznie na wyniku są podatne na frustrację.",
+      "body": "Kryteria procesu, takie jak regularność, jakość pracy i uczciwy wysiłek, dają większą kontrolę nad kierunkiem działania. Trwałe zasady potrzebują przekładu na małe, obserwowalne działania. Im dokładniej wiadomo, kiedy, gdzie i od czego zacząć, tym mniejszy opór startu i mniejsza zależność od chwilowej motywacji. Zamień jedną ogólną intencję na regułę typu: po konkretnej sytuacji wykonuję konkretny mały krok.",
       "source": "Dweck, C. S. (2006). Mindset: The New Psychology of Success."
     },
     {
       "id": "fact-114",
       "title": "Ciekawość rozbraja automatyczne oceny",
-      "message": "Zamiana natychmiastowego osądu na pytanie pomaga zobaczyć więcej danych. Ciekawość wobec siebie i innych zmniejsza sztywność interpretacji.",
+      "lead": "Zamiana natychmiastowego osądu na pytanie pomaga zobaczyć więcej danych.",
+      "body": "Ciekawość wobec siebie i innych zmniejsza sztywność interpretacji. Uczenie jest skuteczniejsze, gdy wymaga aktywnego wydobywania, porządkowania i sprawdzania luk. Samo czytanie daje często złudzenie znajomości, natomiast pytania, quizy i tłumaczenie własnymi słowami pokazują realny poziom rozumienia. Po nauce zapisz trzy pytania i odpowiedz na nie bez zaglądania do materiału.",
       "source": "Kashdan, T. B. et al. (2004). Curiosity and exploration. Journal of Personality Assessment."
     },
     {
       "id": "fact-115",
       "title": "Zasada „wystarczająco dobrze” chroni przed paraliżem",
-      "message": "Perfekcjonizm często maskuje lęk przed oceną i opóźnia działanie. Ustalenie progu „wystarczająco dobrze” pozwala kończyć zadania bez rezygnacji z jakości.",
+      "lead": "Perfekcjonizm często maskuje lęk przed oceną i opóźnia działanie.",
+      "body": "Ustalenie progu „wystarczająco dobrze” pozwala kończyć zadania bez rezygnacji z jakości. Trwałe zasady potrzebują przekładu na małe, obserwowalne działania. Im dokładniej wiadomo, kiedy, gdzie i od czego zacząć, tym mniejszy opór startu i mniejsza zależność od chwilowej motywacji. Zamień jedną ogólną intencję na regułę typu: po konkretnej sytuacji wykonuję konkretny mały krok.",
       "source": "Frost, R. O. et al. (1990). The dimensions of perfectionism. Cognitive Therapy and Research."
     },
     {
       "id": "fact-116",
       "title": "Wdzięczność nie wyklucza ambicji",
-      "message": "Docenianie tego, co już jest dobre, może współistnieć z rozwojem. Wdzięczność stabilizuje punkt startu, a nie musi oznaczać rezygnacji ze zmiany.",
+      "lead": "Docenianie tego, co już jest dobre, może współistnieć z rozwojem.",
+      "body": "Wdzięczność stabilizuje punkt startu, a nie musi oznaczać rezygnacji ze zmiany. Emocja jest sygnałem, nie automatycznym poleceniem. Pomaga ją nazwać, oddzielić od faktów i sprawdzić, czy wymaga działania, rozmowy, odpoczynku, korekty granic czy jedynie przeczekania fali pobudzenia. Nazwij jedną emocję precyzyjnie i dopisz, jaką informację może nieść bez zmieniania jej w wyrok.",
       "source": "Emmons, R. A., & McCullough, M. E. (2003). Counting blessings versus burdens. Journal of Personality and Social Psychology."
     },
     {
       "id": "fact-117",
       "title": "Prawdziwy priorytet widać w kalendarzu",
-      "message": "Deklarowane wartości stają się realne dopiero wtedy, gdy dostają czas i uwagę. Kalendarz często pokazuje uczciwszy obraz priorytetów niż same intencje.",
+      "lead": "Deklarowane wartości stają się realne dopiero wtedy, gdy dostają czas i uwagę.",
+      "body": "Kalendarz często pokazuje uczciwszy obraz priorytetów niż same intencje. Trwałe zasady potrzebują przekładu na małe, obserwowalne działania. Im dokładniej wiadomo, kiedy, gdzie i od czego zacząć, tym mniejszy opór startu i mniejsza zależność od chwilowej motywacji. Zamień jedną ogólną intencję na regułę typu: po konkretnej sytuacji wykonuję konkretny mały krok.",
       "source": "Locke, E. A., & Latham, G. P. (2002). Building a practically useful theory of goal setting. American Psychologist."
     },
     {
       "id": "fact-118",
       "title": "Przebaczenie nie musi oznaczać zgody na powtórkę",
-      "message": "Przebaczenie może zmniejszać ciężar emocjonalny, ale nie wymaga zniesienia granic ani powrotu do zaufania bez zmiany zachowania drugiej strony.",
+      "lead": "Przebaczenie może zmniejszać ciężar emocjonalny, ale nie wymaga zniesienia granic ani powrotu do zaufania bez zmiany zachowania drugiej strony.",
+      "body": "Emocja jest sygnałem, nie automatycznym poleceniem. Pomaga ją nazwać, oddzielić od faktów i sprawdzić, czy wymaga działania, rozmowy, odpoczynku, korekty granic czy jedynie przeczekania fali pobudzenia. Nazwij jedną emocję precyzyjnie i dopisz, jaką informację może nieść bez zmieniania jej w wyrok.",
       "source": "Worthington, E. L. (2005). Handbook of Forgiveness."
     },
     {
       "id": "fact-119",
       "title": "Najlepsza rada zależy od kontekstu",
-      "message": "Zasady życiowe są użyteczne, gdy pasują do sytuacji, zasobów i kosztów. Dojrzałość polega nie tylko na posiadaniu zasad, lecz także na wiedzy, kiedy którą zastosować.",
+      "lead": "Zasady życiowe są użyteczne, gdy pasują do sytuacji, zasobów i kosztów.",
+      "body": "Dojrzałość polega nie tylko na posiadaniu zasad, lecz także na wiedzy, kiedy którą zastosować. W praktyce ta obserwacja pomaga projektować codzienne warunki działania bardziej świadomie. Mała korekta sposobu myślenia, komunikacji lub otoczenia może mieć większy efekt niż jednorazowa próba radykalnej zmiany. Wybierz jeden szczegół sytuacji, na który masz wpływ, i popraw go dziś minimalnym krokiem.",
       "source": "Baltes, P. B., & Staudinger, U. M. (2000). Wisdom: A metaheuristic to orchestrate mind and virtue. American Psychologist."
     },
     {
       "id": "fact-120",
       "title": "Spójność daje ulgę poznawczą",
-      "message": "Gdy działania są zgodne z przekonaniami, spada napięcie wynikające z dysonansu. Dlatego małe akty uczciwości wobec siebie potrafią dawać nieproporcjonalnie duże poczucie porządku.",
+      "lead": "Gdy działania są zgodne z przekonaniami, spada napięcie wynikające z dysonansu.",
+      "body": "Dlatego małe akty uczciwości wobec siebie potrafią dawać nieproporcjonalnie duże poczucie porządku. Wysokie pobudzenie zawęża uwagę i zwiększa impulsywność. Dlatego przy trudnym zadaniu warto najpierw obniżyć napięcie lub dopasować poziom wyzwania, a dopiero potem oczekiwać od siebie precyzyjnego myślenia. W sytuacji presji zrób krótką pauzę i wybierz następny ruch dopiero po spadku napięcia o choćby jeden stopień.",
       "source": "Festinger, L. (1957). A Theory of Cognitive Dissonance."
     }
   ]

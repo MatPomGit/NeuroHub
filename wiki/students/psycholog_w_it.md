@@ -1,6 +1,6 @@
 ---
 lastReviewed: 2026-05-02
-reviewCycleMonths: 18
+reviewCycleMonths: 12
 evidenceCutoffDate: 2026-04-30
 ---
 
@@ -36,6 +36,10 @@ W zespołach produktowych częste są: efekt potwierdzenia, zakotwiczenie i sele
 ### 3) Etyka i ryzyko szkody
 
 W praktyce IT psycholog styka się z projektowaniem mechanizmów retencji, personalizacji i notyfikacji. Kluczowe pytanie brzmi: czy wzrost zaangażowania wynika z lepszej wartości produktu, czy z eksploatowania podatności poznawczych użytkownika. To rozróżnienie ma konsekwencje prawne, reputacyjne i kliniczne (np. nasilenie kompulsywnego używania aplikacji).
+
+### 4) Aktualizacja źródeł w obszarze HCI/UX
+
+Obszar HCI/UX charakteryzuje się wysoką dynamiką metodologiczną, co wymaga corocznej weryfikacji źródeł. Proces ten obejmuje uwzględnianie nowych wytycznych instytucjonalnych, replikacji badań oraz raportów dotyczących ryzyka projektowego i etycznego, co pozwala zachować operacyjną wartość rekomendacji dla zespołów produktowych.
 
 ## Statystyki i dane, które warto znać
 

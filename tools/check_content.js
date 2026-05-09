@@ -372,6 +372,40 @@ function runInternalMarkdownLinksCheck(siteConfig, report) {
   pushOk(report, 'internal-markdown-links', `Sprawdzono linki markdown: ${checkedLinks}.`);
 }
 
+/* Sprawdza, czy pliki wiki zawierają obowiązkowy nagłówek "## Bibliografia". */
+function runBibliographyHeaderCheck(siteConfig, report) {
+  const collected = collectObjects(siteConfig);
+  const { idToFile } = buildFileIdIndexes(collected);
+  const candidateFiles = new Set();
+  const requiredHeaderRegex = /^##\s+Bibliografia\s*$/m;
+
+  collected.forEach(({ value }) => {
+    const resolved = resolveEntryFile(value, idToFile);
+    if (resolved && resolved.endsWith('.md') && resolved.startsWith('wiki/')) {
+      candidateFiles.add(resolved);
+    }
+  });
+
+  let checkedCount = 0;
+  candidateFiles.forEach(markdownFile => {
+    const absFilePath = path.join(repoRoot, markdownFile);
+    if (!fs.existsSync(absFilePath)) return;
+
+    const content = fs.readFileSync(absFilePath, 'utf8');
+    checkedCount += 1;
+
+    if (!requiredHeaderRegex.test(content)) {
+      pushError(
+        report,
+        'bibliography-header',
+        `Brak obowiązkowej sekcji "## Bibliografia" w pliku: ${markdownFile}`
+      );
+    }
+  });
+
+  pushOk(report, 'bibliography-header', `Sprawdzono nagłówek bibliografii w plikach wiki: ${checkedCount}.`);
+}
+
 /* Sprawdza konwencję nazewnictwa plików i katalogów wiki (snake_case, ASCII, język polski). */
 function runWikiNamingConventionCheck(report) {
   const wikiRoot = path.join(repoRoot, 'wiki');
@@ -479,6 +513,7 @@ function main() {
     runDuplicatesAndDeadEntriesCheck(siteConfig, report);
     runInternalMarkdownLinksCheck(siteConfig, report);
     runWikiNamingConventionCheck(report);
+    runBibliographyHeaderCheck(siteConfig, report);
 
     printReport(report);
     process.exit(report.errors.length > 0 ? 1 : 0);

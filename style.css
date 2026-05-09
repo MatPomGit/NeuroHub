@@ -924,12 +924,20 @@ em{color:var(--goldl)}
 }
 @media(min-width:901px){
   .ttest-layout{
-    /* Na desktopie zwężamy panel boczny i poszerzamy obszar główny, aby pytania oraz odpowiedzi były czytelniejsze. */
-    grid-template-columns:minmax(220px,280px) minmax(0,1fr);
+    /* Na desktopie ustawiamy wyraźnie szerszy panel główny dla pytań i odpowiedzi. */
+    grid-template-columns:minmax(260px,320px) minmax(0,1fr);
     grid-template-areas:"side main";
     align-items:start;
   }
+  .ttest-layout--setup{
+    /* Ekran konfiguracji wymaga szerszej kolumny kategorii, aby etykiety nie ściskały się do kilku znaków. */
+    grid-template-columns:minmax(360px,460px) minmax(0,1fr);
+  }
   .ttest-topic-list{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .ttest-category-block .ttest-topic-list{
+    /* W obrębie pojedynczej kategorii utrzymujemy jeden temat w wierszu dla lepszej czytelności. */
+    grid-template-columns:1fr;
+  }
   .ttest-main{max-width:none}
   .test-actions.ttest-sticky,
   .ttest-nav.ttest-sticky{padding:.55rem .65rem;border:1px solid var(--border);border-radius:10px;background:rgba(9,9,15,.9);backdrop-filter:blur(8px)}

@@ -6,18 +6,18 @@ evidenceCutoffDate: 2026-05-01
 
 # Systemy rodzinne: genogram i budowanie hipotez klinicznych
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 
 W pracy systemowej genogram pełni funkcję narzędzia analitycznego, nie tylko dokumentacyjnego. Umożliwia śledzenie wzorców międzypokoleniowych i formułowanie hipotez o mechanizmach podtrzymujących aktualny objaw.
 
-## Definicje kluczowych pojęć
+## Definicje
 
 - **Genogram** — graficzna mapa struktury rodziny i kluczowych relacji na przestrzeni pokoleń.
 - **Hipoteza kliniczna** — robocze wyjaśnienie mechanizmu problemu, które podlega weryfikacji.
 - **Sprzężenie zwrotne** — proces, w którym reakcja jednego członka rodziny wpływa na kolejne reakcje systemu.
 - **Lojalność międzypokoleniowa** — utrwalony wzorzec zobowiązań i ról przekazywanych między pokoleniami.
 
-## Część analityczna
+## Analiza
 
 ### 1. Jak genogram wspiera rozumienie objawu
 

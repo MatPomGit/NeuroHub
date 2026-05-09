@@ -43,7 +43,8 @@
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
         <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
       </svg>
-      <input type="text" id="searchInput" placeholder="Szukaj artykułu…" autocomplete="off">
+      <label class="sr-only" for="searchInput">Wyszukaj artykuł</label>
+      <input type="text" id="searchInput" placeholder="Szukaj artykułu…" autocomplete="off" aria-describedby="searchResults">
     </div>
     <div class="s-filter-shortcuts" id="searchFilterShortcuts" aria-label="Skróty filtrów wyszukiwania">
       <button type="button" class="s-filter-btn" data-filter="tests">Tylko testy</button>
@@ -58,9 +59,9 @@
   <div class="s-footer">
     <span>PsyHub v3.2</span>
     <div class="theme-btns">
-      <button class="theme-btn is-active" data-theme="dark"  title="Motyw ciemny"></button>
-      <button class="theme-btn"        data-theme="light" title="Motyw jasny"></button>
-      <button class="theme-btn"        data-theme="sepia" title="Motyw sepia"></button>
+      <button class="theme-btn is-active" data-theme="dark"  title="Motyw ciemny" aria-label="Włącz motyw ciemny" aria-pressed="true"></button>
+      <button class="theme-btn"        data-theme="light" title="Motyw jasny" aria-label="Włącz motyw jasny" aria-pressed="false"></button>
+      <button class="theme-btn"        data-theme="sepia" title="Motyw sepia" aria-label="Włącz motyw sepia" aria-pressed="false"></button>
     </div>
     <div class="font-size-controls" aria-label="Ustawienia wielkości czcionki">
       <button type="button" class="font-btn" data-font-scale="normal" title="Standardowa wielkość czcionki" aria-label="Standardowa wielkość czcionki">A</button>

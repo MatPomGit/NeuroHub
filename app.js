@@ -2541,8 +2541,11 @@ window.addEventListener('DOMContentLoaded', ()=>{
 
   function applyTheme(theme) {
     document.documentElement.dataset.theme = themeAttr(theme);
+    /* Synchronizuje stan aktywności motywów dla stylowania i czytników ekranu. */
     document.querySelectorAll('.theme-btn').forEach(btn => {
-      btn.classList.toggle('is-active', btn.dataset.theme === theme);
+      const isActive = btn.dataset.theme === theme;
+      btn.classList.toggle('is-active', isActive);
+      btn.setAttribute('aria-pressed', isActive ? 'true' : 'false');
     });
     localStorage.setItem('psyhub-theme', theme);
   }
@@ -2556,7 +2559,9 @@ window.addEventListener('DOMContentLoaded', ()=>{
   window.addEventListener('DOMContentLoaded', () => {
     // Sync button states
     document.querySelectorAll('.theme-btn').forEach(btn => {
-      btn.classList.toggle('is-active', btn.dataset.theme === active);
+      const isActive = btn.dataset.theme === active;
+      btn.classList.toggle('is-active', isActive);
+      btn.setAttribute('aria-pressed', isActive ? 'true' : 'false');
       btn.addEventListener('click', () => applyTheme(btn.dataset.theme));
     });
     /* Rejestruje zmianę wielkości czcionki i odtwarza aktywny stan przycisków. */

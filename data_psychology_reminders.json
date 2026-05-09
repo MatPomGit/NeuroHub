@@ -186,6 +186,546 @@
       "title": "Humor jako bufor stresu",
       "message": "Adekwatny humor bywa adaptacyjną strategią radzenia sobie, zmniejszając subiektywne napięcie.",
       "source": "Martin, R. A. (2007). The Psychology of Humor."
+    },
+    {
+      "id": "fact-031",
+      "title": "Stan flow wymaga równowagi",
+      "message": "Największe zaangażowanie pojawia się zwykle wtedy, gdy poziom wyzwania jest wysoki, ale nadal dopasowany do umiejętności. Zbyt łatwe zadania nudzą, a zbyt trudne nasilają napięcie.",
+      "source": "Csikszentmihalyi, M. (1990). Flow: The Psychology of Optimal Experience."
+    },
+    {
+      "id": "fact-032",
+      "title": "Autonomia wzmacnia motywację",
+      "message": "Ludzie częściej utrzymują wysiłek, gdy czują sprawstwo i rozumieją sens działania. Kontrola zewnętrzna może działać krótkoterminowo, ale bywa słabsza dla motywacji trwałej.",
+      "source": "Deci, E. L., & Ryan, R. M. (2000). The what and why of goal pursuits. Psychological Inquiry."
+    },
+    {
+      "id": "fact-033",
+      "title": "Informacja zwrotna działa najlepiej konkretnie",
+      "message": "Feedback jest najbardziej pomocny, gdy wskazuje konkretne zachowanie, kryterium jakości i możliwy następny krok, zamiast ogólnej oceny osoby.",
+      "source": "Hattie, J., & Timperley, H. (2007). The power of feedback. Review of Educational Research."
+    },
+    {
+      "id": "fact-034",
+      "title": "Przerwy pomagają uwadze selektywnej",
+      "message": "Długie utrzymywanie uwagi na jednym bodźcu prowadzi do spadku czujności. Krótkie odświeżenie kontekstu może przywracać wykrywanie istotnych sygnałów.",
+      "source": "Ariga, A., & Lleras, A. (2011). Brief and rare mental breaks keep you focused. Cognition."
+    },
+    {
+      "id": "fact-035",
+      "title": "Pisanie ekspresywne porządkuje emocje",
+      "message": "Kilka krótkich sesji pisania o trudnych doświadczeniach może pomagać w nadaniu im struktury i zmniejszać obciążenie poznawcze związane z unikaniem tematu.",
+      "source": "Pennebaker, J. W., & Beall, S. K. (1986). Confronting a traumatic event. Journal of Abnormal Psychology."
+    },
+    {
+      "id": "fact-036",
+      "title": "Efekt Dunninga-Krugera ostrzega przed pewnością",
+      "message": "Przy niskich kompetencjach ludzie mogą przeceniać własne wykonanie, bo brakuje im narzędzi do trafnej samooceny. Warto porównywać intuicję z obiektywną informacją zwrotną.",
+      "source": "Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it. Journal of Personality and Social Psychology."
+    },
+    {
+      "id": "fact-037",
+      "title": "Ciekawość wspiera uczenie",
+      "message": "Gdy pytanie budzi ciekawość, mózg efektywniej koduje informacje związane z odpowiedzią, a czasem także materiał poboczny obecny w tym samym kontekście.",
+      "source": "Gruber, M. J. et al. (2014). States of curiosity modulate hippocampus-dependent learning. Neuron."
+    },
+    {
+      "id": "fact-038",
+      "title": "Nastawienie na rozwój zmienia reakcję na błąd",
+      "message": "Traktowanie zdolności jako rozwijalnych sprzyja szukaniu strategii po porażce, zamiast interpretowania błędu jako dowodu braku talentu.",
+      "source": "Dweck, C. S. (2006). Mindset: The New Psychology of Success."
+    },
+    {
+      "id": "fact-039",
+      "title": "Błąd planowania jest powszechny",
+      "message": "Ludzie często niedoszacowują czasu potrzebnego na zadanie, bo skupiają się na idealnym scenariuszu, a pomijają typowe zakłócenia i wcześniejsze doświadczenia.",
+      "source": "Buehler, R. et al. (1994). Exploring the planning fallacy. Journal of Personality and Social Psychology."
+    },
+    {
+      "id": "fact-040",
+      "title": "Decyzje zależą od ramy opisu",
+      "message": "Ta sama informacja może prowadzić do innych wyborów, gdy zostanie przedstawiona jako zysk albo strata. Warto przepisać problem w kilku ramach przed ważną decyzją.",
+      "source": "Tversky, A., & Kahneman, D. (1981). The framing of decisions. Science."
+    },
+    {
+      "id": "fact-041",
+      "title": "Dysonans poznawczy motywuje do uzasadnień",
+      "message": "Gdy zachowanie nie pasuje do przekonań, pojawia się napięcie psychiczne. Umysł często redukuje je przez zmianę interpretacji, a nie przez obiektywną korektę przekonania.",
+      "source": "Festinger, L. (1957). A Theory of Cognitive Dissonance."
+    },
+    {
+      "id": "fact-042",
+      "title": "Efekt potwierdzenia zawęża ocenę",
+      "message": "Mamy tendencję do łatwiejszego zauważania danych zgodnych z wcześniejszym przekonaniem. Przy ważnych ocenach warto aktywnie szukać informacji, które mogłyby nam zaprzeczyć.",
+      "source": "Nickerson, R. S. (1998). Confirmation bias: A ubiquitous phenomenon. Review of General Psychology."
+    },
+    {
+      "id": "fact-043",
+      "title": "Ruminacje podtrzymują obniżony nastrój",
+      "message": "Powtarzalne analizowanie przyczyn i skutków złego samopoczucia, bez przejścia do działania, może wydłużać epizody obniżonego nastroju.",
+      "source": "Nolen-Hoeksema, S. (2000). The role of rumination in depressive disorders. Journal of Abnormal Psychology."
+    },
+    {
+      "id": "fact-044",
+      "title": "Ekspozycja pomaga oswajać lęk",
+      "message": "Stopniowy i bezpieczny kontakt z bodźcem lękowym może zmniejszać unikanie oraz uczyć mózg, że przewidywana katastrofa nie musi nastąpić.",
+      "source": "Foa, E. B., & Kozak, M. J. (1986). Emotional processing of fear. Psychological Bulletin."
+    },
+    {
+      "id": "fact-045",
+      "title": "Samokontrola zależy od środowiska",
+      "message": "Łatwiej utrzymać cel, gdy otoczenie ogranicza pokusy i wzmacnia pożądane zachowanie. Projektowanie kontekstu bywa skuteczniejsze niż poleganie wyłącznie na sile woli.",
+      "source": "Duckworth, A. L. et al. (2016). Situational strategies for self-control. Perspectives on Psychological Science."
+    },
+    {
+      "id": "fact-046",
+      "title": "Intencje społeczne budują zaufanie",
+      "message": "Zaufanie rośnie, gdy druga osoba komunikuje kompetencję, życzliwość i przewidywalność. Brak jasności co do intencji zwiększa ostrożność w relacji.",
+      "source": "Mayer, R. C. et al. (1995). An integrative model of organizational trust. Academy of Management Review."
+    },
+    {
+      "id": "fact-047",
+      "title": "Poczucie sensu sprzyja odporności",
+      "message": "Interpretowanie trudności w szerszym kontekście wartości i celów może pomagać znosić dyskomfort oraz utrzymywać kierunek działania mimo przeszkód.",
+      "source": "Frankl, V. E. (1959). Man's Search for Meaning."
+    },
+    {
+      "id": "fact-048",
+      "title": "Samoocena i sprawczość to nie to samo",
+      "message": "Wysoka samoocena oznacza ogólną pozytywną ocenę siebie, a poczucie własnej skuteczności dotyczy przekonania, że potrafię wykonać konkretne zadanie.",
+      "source": "Bandura, A. (1977). Self-efficacy: Toward a unifying theory. Psychological Review."
+    },
+    {
+      "id": "fact-049",
+      "title": "Uczenie przez wyjaśnianie pogłębia rozumienie",
+      "message": "Tłumaczenie materiału własnymi słowami ujawnia luki w wiedzy i zmusza do organizowania informacji w spójną strukturę.",
+      "source": "Chi, M. T. H. et al. (1994). Eliciting self-explanations improves understanding. Cognitive Science."
+    },
+    {
+      "id": "fact-050",
+      "title": "Emocje wpływają na uwagę",
+      "message": "Silne pobudzenie emocjonalne zawęża pole uwagi na bodźcach uznanych za istotne. Pomaga to w zagrożeniu, ale może utrudniać analizę szerszego obrazu.",
+      "source": "Easterbrook, J. A. (1959). The effect of emotion on cue utilization. Psychological Review."
+    },
+    {
+      "id": "fact-051",
+      "title": "Bezpieczeństwo psychologiczne wspiera zespoły",
+      "message": "Zespoły uczą się szybciej, gdy członkowie mogą mówić o błędach, pytaniach i ryzykach bez obawy przed upokorzeniem lub karą społeczną.",
+      "source": "Edmondson, A. (1999). Psychological safety and learning behavior in work teams. Administrative Science Quarterly."
+    },
+    {
+      "id": "fact-052",
+      "title": "Efekt zakotwiczenia przesuwa oceny",
+      "message": "Pierwsza liczba lub sugestia potrafi wpływać na późniejsze szacunki, nawet gdy jest arbitralna. Przy wycenach i planach warto zaczynać od niezależnych danych bazowych.",
+      "source": "Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty. Science."
+    },
+    {
+      "id": "fact-053",
+      "title": "Nazwy kategorii kierują spostrzeganiem",
+      "message": "Etykiety pojęciowe pomagają porządkować świat, ale mogą też ukrywać różnice między osobami lub zjawiskami wrzuconymi do tej samej kategorii.",
+      "source": "Tajfel, H. (1969). Cognitive aspects of prejudice. Journal of Social Issues."
+    },
+    {
+      "id": "fact-054",
+      "title": "Perspektywa czasowa zmienia priorytety",
+      "message": "Gdy ludzie postrzegają czas jako ograniczony, częściej wybierają cele emocjonalnie znaczące zamiast eksploracyjnych lub odłożonych na przyszłość.",
+      "source": "Carstensen, L. L. (2006). The influence of a sense of time on human development. Science."
+    },
+    {
+      "id": "fact-055",
+      "title": "Rytuały redukują niepewność",
+      "message": "Powtarzalne rytuały przed ważnym zadaniem mogą obniżać napięcie, bo dają poczucie struktury i przewidywalności w sytuacji wyniku częściowo poza kontrolą.",
+      "source": "Norton, M. I., & Gino, F. (2014). Rituals alleviate grieving. Journal of Experimental Psychology: General."
+    },
+    {
+      "id": "fact-056",
+      "title": "Senność pogarsza ocenę ryzyka",
+      "message": "Zmęczenie i niedobór snu osłabiają funkcje wykonawcze, przez co decyzje mogą stawać się bardziej impulsywne i mniej wrażliwe na konsekwencje.",
+      "source": "Killgore, W. D. S. (2010). Effects of sleep deprivation on cognition. Progress in Brain Research."
+    },
+    {
+      "id": "fact-057",
+      "title": "Prospołeczność poprawia dobrostan",
+      "message": "Działania na rzecz innych, nawet niewielkie, często zwiększają pozytywny afekt i poczucie więzi, szczególnie gdy są dobrowolne i konkretne.",
+      "source": "Aknin, L. B. et al. (2013). Prosocial spending and well-being. Journal of Personality and Social Psychology."
+    },
+    {
+      "id": "fact-058",
+      "title": "Metapoznanie pomaga uczyć się skuteczniej",
+      "message": "Monitorowanie własnego zrozumienia pozwala wybierać lepsze strategie nauki. Samo poczucie znajomości materiału bywa mylące bez próby odtworzenia.",
+      "source": "Dunlosky, J. et al. (2013). Improving students' learning with effective learning techniques. Psychological Science in the Public Interest."
+    },
+    {
+      "id": "fact-059",
+      "title": "Stres może mobilizować albo przeciążać",
+      "message": "Umiarkowany poziom pobudzenia bywa pomocny przy prostych zadaniach, ale zbyt wysokie pobudzenie pogarsza wykonanie, zwłaszcza gdy zadanie jest złożone.",
+      "source": "Yerkes, R. M., & Dodson, J. D. (1908). The relation of strength of stimulus to rapidity of habit-formation. Journal of Comparative Neurology and Psychology."
+    },
+    {
+      "id": "fact-060",
+      "title": "Tożsamość wspiera zmianę nawyków",
+      "message": "Zachowania łatwiej utrzymać, gdy pasują do obrazu siebie. Formuła „jestem osobą, która…” może wzmacniać konsekwencję bardziej niż sam odległy wynik.",
+      "source": "Oyserman, D. et al. (2007). Identity-based motivation. Journal of Personality and Social Psychology."
+    },
+    {
+      "id": "fact-061",
+      "title": "Ciekawość wzmacnia uczenie",
+      "message": "Gdy temat budzi ciekawość, mózg łatwiej koduje nowe informacje, także te poboczne. Zacznij naukę od pytania, które naprawdę chcesz rozwiązać.",
+      "source": "Gruber, M. J. et al. (2014). States of curiosity modulate hippocampus-dependent learning via the dopaminergic circuit. Neuron."
+    },
+    {
+      "id": "fact-062",
+      "title": "Efekt generowania",
+      "message": "Informacje, które samodzielnie wytwarzasz zamiast tylko czytać, zwykle zostają w pamięci dłużej. Warto dopowiadać definicje własnymi słowami.",
+      "source": "Slamecka, N. J., & Graf, P. (1978). The generation effect. Journal of Experimental Psychology: Human Learning and Memory."
+    },
+    {
+      "id": "fact-063",
+      "title": "Nastrój wpływa na pamięć",
+      "message": "Łatwiej przypominamy sobie treści zgodne z aktualnym nastrojem. Przy złym dniu umysł może selektywnie podsuwać bardziej negatywne wspomnienia.",
+      "source": "Bower, G. H. (1981). Mood and memory. American Psychologist."
+    },
+    {
+      "id": "fact-064",
+      "title": "Efekt zakotwiczenia",
+      "message": "Pierwsza liczba lub informacja może nieproporcjonalnie wpływać na późniejszą ocenę. Przy decyzjach warto świadomie sprawdzać alternatywne punkty odniesienia.",
+      "source": "Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. Science."
+    },
+    {
+      "id": "fact-065",
+      "title": "Przerwa inkubacyjna pomaga rozwiązywać problemy",
+      "message": "Odejście od trudnego zadania na jakiś czas może ułatwić znalezienie rozwiązania, zwłaszcza gdy wcześniej poświęcono mu realny wysiłek poznawczy.",
+      "source": "Sio, U. N., & Ormerod, T. C. (2009). Does incubation enhance problem solving? Psychological Bulletin."
+    },
+    {
+      "id": "fact-066",
+      "title": "Pamięć jest rekonstrukcyjna",
+      "message": "Wspomnienia nie są prostymi nagraniami. Przywołując zdarzenie, mózg częściowo je rekonstruuje, dlatego szczegóły mogą zmieniać się z czasem.",
+      "source": "Bartlett, F. C. (1932). Remembering: A Study in Experimental and Social Psychology."
+    },
+    {
+      "id": "fact-067",
+      "title": "Fałszywe wspomnienia mogą być przekonujące",
+      "message": "Sugestywne pytania i późniejsze informacje potrafią zmieniać relację z pamięci. Pewność wspomnienia nie zawsze oznacza jego dokładność.",
+      "source": "Loftus, E. F., & Palmer, J. C. (1974). Reconstruction of automobile destruction. Journal of Verbal Learning and Verbal Behavior."
+    },
+    {
+      "id": "fact-068",
+      "title": "Język kształtuje uwagę",
+      "message": "Kategorie obecne w języku mogą wpływać na to, jak szybko rozróżniamy bodźce, np. odcienie kolorów. Słowa bywają narzędziami percepcji.",
+      "source": "Winawer, J. et al. (2007). Russian blues reveal effects of language on color discrimination. PNAS."
+    },
+    {
+      "id": "fact-069",
+      "title": "Efekt posiadania podnosi wartość rzeczy",
+      "message": "Ludzie często wyżej wyceniają przedmioty, które już posiadają, niż identyczne przedmioty, których nie mają. Własność zmienia punkt odniesienia.",
+      "source": "Kahneman, D. et al. (1990). Experimental tests of the endowment effect and the Coase theorem. Journal of Political Economy."
+    },
+    {
+      "id": "fact-070",
+      "title": "Decyzje męczą kontrolę poznawczą",
+      "message": "Wiele drobnych decyzji może obniżać jakość kolejnych wyborów. Ograniczanie nieistotnych decyzji pomaga zachować zasoby na sprawy ważne.",
+      "source": "Vohs, K. D. et al. (2008). Making choices impairs subsequent self-control. Journal of Personality and Social Psychology."
+    },
+    {
+      "id": "fact-071",
+      "title": "Pisanie ekspresywne porządkuje emocje",
+      "message": "Krótki zapis trudnych przeżyć może wspierać organizowanie doświadczeń i obniżać napięcie, zwłaszcza gdy obejmuje sens i znaczenie zdarzeń.",
+      "source": "Pennebaker, J. W., & Beall, S. K. (1986). Confronting a traumatic event. Journal of Abnormal Psychology."
+    },
+    {
+      "id": "fact-072",
+      "title": "Awe poszerza perspektywę",
+      "message": "Doświadczenie zachwytu może zmniejszać koncentrację na sobie i zwiększać poczucie więzi z czymś większym niż własne bieżące sprawy.",
+      "source": "Keltner, D., & Haidt, J. (2003). Approaching awe, a moral, spiritual, and aesthetic emotion. Cognition and Emotion."
+    },
+    {
+      "id": "fact-073",
+      "title": "Rozmowa z nieznajomym może poprawić nastrój",
+      "message": "Krótkie, życzliwe interakcje z osobami spoza bliskiego kręgu bywają bardziej korzystne dla samopoczucia, niż przewidujemy.",
+      "source": "Epley, N., & Schroeder, J. (2014). Mistakenly seeking solitude. Journal of Experimental Psychology: General."
+    },
+    {
+      "id": "fact-074",
+      "title": "Efekt reflektora jest zawyżony",
+      "message": "Zwykle przeceniamy to, jak bardzo inni zauważają nasze potknięcia, wygląd lub zachowanie. Większość ludzi jest zajęta własną perspektywą.",
+      "source": "Gilovich, T. et al. (2000). The spotlight effect in social judgment. Journal of Personality and Social Psychology."
+    },
+    {
+      "id": "fact-075",
+      "title": "Iluzja przejrzystości utrudnia komunikację",
+      "message": "Ludzie często zakładają, że ich emocje i intencje są dla innych bardziej widoczne, niż faktycznie są. Jasne nazywanie potrzeb zmniejsza nieporozumienia.",
+      "source": "Gilovich, T. et al. (1998). The illusion of transparency. Journal of Personality and Social Psychology."
+    },
+    {
+      "id": "fact-076",
+      "title": "Kontrast zmienia ocenę",
+      "message": "Oceniamy bodźce względem tego, co było tuż przed nimi. Ten sam wysiłek, koszt lub smak może wydawać się inny po silnym punkcie porównania.",
+      "source": "Helson, H. (1964). Adaptation-Level Theory."
+    },
+    {
+      "id": "fact-077",
+      "title": "Ciało wpływa na myślenie",
+      "message": "Postawa, ruch i sygnały z ciała mogą subtelnie modulować emocje oraz ocenę sytuacji. Poznanie nie dzieje się wyłącznie „w głowie”.",
+      "source": "Barsalou, L. W. (2008). Grounded cognition. Annual Review of Psychology."
+    },
+    {
+      "id": "fact-078",
+      "title": "Perspektywa trzeciej osoby zmniejsza dystres",
+      "message": "Opisywanie trudnej sytuacji z większego dystansu, jak obserwator, może ograniczać ruminacje i ułatwiać bardziej zrównoważoną ocenę.",
+      "source": "Kross, E., & Ayduk, O. (2011). Making meaning out of negative experiences by self-distancing. Current Directions in Psychological Science."
+    },
+    {
+      "id": "fact-079",
+      "title": "Emocje są krótkie, ruminacje je przedłużają",
+      "message": "Pierwotna fala emocji często trwa krócej niż opowieść, którą później wokół niej budujemy. Powracające interpretacje mogą podtrzymywać pobudzenie.",
+      "source": "Nolen-Hoeksema, S. (2000). The role of rumination in depressive disorders and mixed anxiety/depressive symptoms. Journal of Abnormal Psychology."
+    },
+    {
+      "id": "fact-080",
+      "title": "Efekt „halo” zniekształca ocenę",
+      "message": "Jedna pozytywna cecha osoby, np. atrakcyjność lub pewność siebie, może wpływać na ocenę innych, niepowiązanych kompetencji.",
+      "source": "Thorndike, E. L. (1920). A constant error in psychological ratings. Journal of Applied Psychology."
+    },
+    {
+      "id": "fact-081",
+      "title": "Niedobór obciąża uwagę",
+      "message": "Poczucie niedoboru czasu, pieniędzy lub zasobów zawęża uwagę na pilnych problemach, często kosztem planowania długoterminowego.",
+      "source": "Mullainathan, S., & Shafir, E. (2013). Scarcity: Why Having Too Little Means So Much."
+    },
+    {
+      "id": "fact-082",
+      "title": "Efekt domyślnej opcji jest silny",
+      "message": "Ludzie często pozostają przy opcji ustawionej jako domyślna, nawet gdy alternatywy są dostępne. Projektowanie wyboru realnie wpływa na zachowanie.",
+      "source": "Johnson, E. J., & Goldstein, D. (2003). Do defaults save lives? Science."
+    },
+    {
+      "id": "fact-083",
+      "title": "Poczucie kontroli łagodzi stres",
+      "message": "Stresory są zwykle mniej obciążające, gdy mamy choćby częściowe poczucie wpływu. Mały zakres decyzji może znacząco zmienić reakcję organizmu.",
+      "source": "Thompson, S. C. (1981). Will it hurt less if I can control it? Psychological Bulletin."
+    },
+    {
+      "id": "fact-084",
+      "title": "Samodeterminacja wzmacnia motywację",
+      "message": "Motywacja jest trwalsza, gdy działanie wspiera autonomię, kompetencję i relacje. Sama presja zewnętrzna często działa krótkoterminowo.",
+      "source": "Deci, E. L., & Ryan, R. M. (2000). The what and why of goal pursuits. Psychological Inquiry."
+    },
+    {
+      "id": "fact-085",
+      "title": "Konkretny feedback działa lepiej niż pochwała ogólna",
+      "message": "Informacja zwrotna jest bardziej użyteczna, gdy wskazuje konkretne zachowanie i następny krok, zamiast ogólnego „dobrze” albo „źle”.",
+      "source": "Hattie, J., & Timperley, H. (2007). The power of feedback. Review of Educational Research."
+    },
+    {
+      "id": "fact-086",
+      "title": "Efekt końca szczytu kształtuje wspomnienia",
+      "message": "Ocena doświadczenia zależy mocno od najbardziej intensywnego momentu i zakończenia, a nie tylko od średniej przyjemności lub przykrości.",
+      "source": "Kahneman, D. et al. (1993). When more pain is preferred to less. Psychological Science."
+    },
+    {
+      "id": "fact-087",
+      "title": "Przewidywanie emocji bywa nietrafne",
+      "message": "Często przeceniamy siłę i czas trwania przyszłych reakcji emocjonalnych. Zarówno porażki, jak i sukcesy zwykle bledną szybciej, niż zakładamy.",
+      "source": "Wilson, T. D., & Gilbert, D. T. (2003). Affective forecasting. Advances in Experimental Social Psychology."
+    },
+    {
+      "id": "fact-088",
+      "title": "Wspólna uwaga buduje porozumienie",
+      "message": "Kiedy dwie osoby kierują uwagę na ten sam obiekt lub problem, łatwiej synchronizują znaczenia, intencje i dalsze działanie.",
+      "source": "Tomasello, M. (1995). Joint attention as social cognition. In Joint Attention: Its Origins and Role in Development."
+    },
+    {
+      "id": "fact-089",
+      "title": "Samopotwierdzenie redukuje defensywność",
+      "message": "Przypomnienie sobie ważnych wartości może zmniejszać reakcję obronną na krytyczne informacje i ułatwiać bardziej otwartą analizę faktów.",
+      "source": "Cohen, G. L., & Sherman, D. K. (2014). The psychology of change: Self-affirmation and social psychological intervention. Annual Review of Psychology."
+    },
+    {
+      "id": "fact-090",
+      "title": "Ciepło i kompetencja dominują w ocenie ludzi",
+      "message": "W pierwszych ocenach społecznych szczególnie ważne są dwa wymiary: czy ktoś ma dobre intencje i czy potrafi skutecznie działać.",
+      "source": "Fiske, S. T. et al. (2007). Universal dimensions of social cognition: Warmth and competence. Trends in Cognitive Sciences."
+    },
+    {
+      "id": "fact-091",
+      "title": "Wartości porządkują decyzje",
+      "message": "Gdy wybór jest trudny, odwołanie się do własnych wartości zmniejsza chaos decyzyjny. Pytanie „jaka osoba chcę być w tej sytuacji?” często daje stabilniejszy kierunek niż chwilowy nastrój.",
+      "source": "Hayes, S. C. et al. (1999). Acceptance and Commitment Therapy: An Experiential Approach to Behavior Change."
+    },
+    {
+      "id": "fact-092",
+      "title": "Granice chronią zasoby psychiczne",
+      "message": "Jasne granice w relacjach i pracy pomagają ograniczać przeciążenie, frustrację i poczucie przymusu. Dobre „nie” często chroni możliwość powiedzenia prawdziwego „tak”.",
+      "source": "Deci, E. L., & Ryan, R. M. (2000). The what and why of goal pursuits. Psychological Inquiry."
+    },
+    {
+      "id": "fact-093",
+      "title": "Żal po decyzji bywa sygnałem, nie wyrokiem",
+      "message": "Regret może wskazywać, czego naprawdę cenisz, ale nie powinien automatycznie unieważniać wcześniejszego wyboru. Warto pytać: „czego ta emocja mnie uczy?”, a nie tylko „co zrobiłem źle?”.",
+      "source": "Zeelenberg, M., & Pieters, R. (2007). A theory of regret regulation. Journal of Consumer Psychology."
+    },
+    {
+      "id": "fact-094",
+      "title": "Długofalowe cele potrzebują krótkich rytuałów",
+      "message": "Duże zmiany rzadko utrzymują się samą motywacją. Małe, powtarzalne rytuały zakotwiczone w dniu pomagają przenieść zasady z deklaracji do praktyki.",
+      "source": "Wood, W., & Neal, D. T. (2007). A new look at habits and the habit-goal interface. Psychological Review."
+    },
+    {
+      "id": "fact-095",
+      "title": "Porównania społeczne wymagają higieny",
+      "message": "Porównywanie się z innymi może motywować albo podcinać sprawczość. Najbardziej użyteczne pytanie brzmi: „co mogę z tego wziąć dla siebie?”, zamiast „czy jestem gorszy?”.",
+      "source": "Festinger, L. (1954). A theory of social comparison processes. Human Relations."
+    },
+    {
+      "id": "fact-096",
+      "title": "Nie każda myśl zasługuje na działanie",
+      "message": "Myśli są zdarzeniami psychicznymi, nie poleceniami. Dystans poznawczy pomaga zauważyć impuls bez natychmiastowego podporządkowania mu zachowania.",
+      "source": "Beck, J. S. (2011). Cognitive Behavior Therapy: Basics and Beyond."
+    },
+    {
+      "id": "fact-097",
+      "title": "Autonomia wzmacnia motywację",
+      "message": "Ludzie zwykle trwalej angażują się w działania, które rozumieją jako własny wybór. Poczucie autonomii jest jednym z podstawowych składników zdrowej motywacji.",
+      "source": "Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation. American Psychologist."
+    },
+    {
+      "id": "fact-098",
+      "title": "Dobra zasada jest konkretna",
+      "message": "Zasada „będę o siebie dbać” jest zbyt ogólna, by prowadzić zachowanie. Bardziej działa wersja: „po pracy robię 20 minut bez ekranu przed kolejnym obowiązkiem”.",
+      "source": "Gollwitzer, P. M., & Sheeran, P. (2006). Implementation intentions and goal achievement. Advances in Experimental Social Psychology."
+    },
+    {
+      "id": "fact-099",
+      "title": "Środowisko często wygrywa z silną wolą",
+      "message": "Najłatwiej utrzymać dobre zasady, gdy otoczenie wspiera pożądane zachowanie. Zmiana bodźców wokół siebie bywa skuteczniejsza niż ciągłe testowanie samokontroli.",
+      "source": "Thaler, R. H., & Sunstein, C. R. (2008). Nudge: Improving Decisions About Health, Wealth, and Happiness."
+    },
+    {
+      "id": "fact-100",
+      "title": "Odpoczynek nie jest nagrodą za wyczerpanie",
+      "message": "Regeneracja działa najlepiej, gdy jest planowana przed skrajnym spadkiem zasobów. Traktowanie odpoczynku jako elementu systemu chroni przed cyklem przeciążenia i odrabiania strat.",
+      "source": "Sonnentag, S., & Fritz, C. (2007). The Recovery Experience Questionnaire. Journal of Occupational Health Psychology."
+    },
+    {
+      "id": "fact-101",
+      "title": "Asertywność zmniejsza koszt ukrytej złości",
+      "message": "Wyrażanie potrzeb wprost, bez agresji i uległości, ogranicza narastanie urazy. Asertywna komunikacja jest formą regulacji relacji, nie tylko techniką mówienia.",
+      "source": "Alberti, R. E., & Emmons, M. L. (2008). Your Perfect Right: Assertiveness and Equality in Your Life and Relationships."
+    },
+    {
+      "id": "fact-102",
+      "title": "Decyzje pod wpływem głodu bywają krótszowzroczne",
+      "message": "Stan ciała wpływa na ocenę sytuacji. Zmęczenie, głód i napięcie mogą przesuwać decyzje ku szybkiej uldze, dlatego ważnych spraw nie warto rozstrzygać w biologicznym deficycie.",
+      "source": "Danziger, S. et al. (2011). Extraneous factors in judicial decisions. PNAS."
+    },
+    {
+      "id": "fact-103",
+      "title": "Dziennik pomaga zauważać wzorce",
+      "message": "Krótki zapis sytuacji, emocji i reakcji ułatwia wykrycie powtarzalnych schematów. Bez notatek wiele wzorców znika w pamięci jako „po prostu taki dzień”.",
+      "source": "Pennebaker, J. W., & Chung, C. K. (2011). Expressive writing: Connections to physical and mental health. Oxford Handbook of Health Psychology."
+    },
+    {
+      "id": "fact-104",
+      "title": "Samoocena stabilizuje się przez działanie zgodne z zasadami",
+      "message": "Poczucie własnej wartości jest bardziej stabilne, gdy opiera się na spójności zachowania z wartościami, a mniej na chwilowej aprobacie innych.",
+      "source": "Crocker, J., & Wolfe, C. T. (2001). Contingencies of self-worth. Psychological Review."
+    },
+    {
+      "id": "fact-105",
+      "title": "Najpierw regulacja, potem rozmowa",
+      "message": "W silnym pobudzeniu trudniej słuchać, rozumować i hamować impulsy. Krótka pauza przed trudną rozmową często poprawia jej jakość bardziej niż najlepszy argument.",
+      "source": "Gross, J. J. (2015). Emotion regulation: Current status and future prospects. Psychological Inquiry."
+    },
+    {
+      "id": "fact-106",
+      "title": "Tożsamość wzmacnia nawyki",
+      "message": "Zachowanie jest trwalsze, gdy pasuje do obrazu siebie. „Jestem osobą, która dotrzymuje małych obietnic” może działać silniej niż samo „muszę się zmobilizować”.",
+      "source": "Oyserman, D. (2009). Identity-based motivation. Psychological Bulletin."
+    },
+    {
+      "id": "fact-107",
+      "title": "Mądre współczucie obejmuje też siebie",
+      "message": "Pomaganie innym bez uwzględnienia własnych granic sprzyja wyczerpaniu. Zdrowa troska łączy empatię z oceną realnych zasobów.",
+      "source": "Figley, C. R. (1995). Compassion Fatigue: Coping with Secondary Traumatic Stress Disorder in Those Who Treat the Traumatized."
+    },
+    {
+      "id": "fact-108",
+      "title": "Zasada dwóch minut obniża opór startu",
+      "message": "Rozpoczęcie działania od wersji bardzo małej zmniejsza tarcie psychologiczne. Często najtrudniejszy jest nie wysiłek, lecz przejście od zamiaru do pierwszego ruchu.",
+      "source": "Fogg, B. J. (2020). Tiny Habits: The Small Changes That Change Everything."
+    },
+    {
+      "id": "fact-109",
+      "title": "Uwaga jest formą inwestycji",
+      "message": "To, czemu regularnie poświęcasz uwagę, wpływa na emocje, priorytety i poczucie rzeczywistości. Higiena uwagi jest praktyczną zasadą dbania o psychikę.",
+      "source": "Davenport, T. H., & Beck, J. C. (2001). The Attention Economy."
+    },
+    {
+      "id": "fact-110",
+      "title": "Dobre relacje potrzebują naprawy, nie perfekcji",
+      "message": "Konflikty są naturalne, ale znaczenie ma sposób naprawiania zerwań kontaktu. Przeprosiny, doprecyzowanie intencji i powrót do rozmowy budują zaufanie bardziej niż brak potknięć.",
+      "source": "Gottman, J. M., & Silver, N. (1999). The Seven Principles for Making Marriage Work."
+    },
+    {
+      "id": "fact-111",
+      "title": "Niepewność można trenować",
+      "message": "Unikanie niepewności krótkoterminowo uspokaja, ale długoterminowo zawęża życie. Stopniowe wystawianie się na małe dawki niepewności wzmacnia tolerancję dyskomfortu.",
+      "source": "Dugas, M. J. et al. (1998). Intolerance of uncertainty and worry. Behaviour Research and Therapy."
+    },
+    {
+      "id": "fact-112",
+      "title": "Wstyd maleje w bezpiecznym ujawnieniu",
+      "message": "Wstyd rośnie w izolacji i tajemnicy. Rozmowa z zaufaną osobą może przywracać proporcje i zmniejszać poczucie bycia „jedynym takim przypadkiem”.",
+      "source": "Brown, B. (2006). Shame resilience theory. Families in Society."
+    },
+    {
+      "id": "fact-113",
+      "title": "Wybieraj kryteria sukcesu zależne od ciebie",
+      "message": "Cele oparte wyłącznie na wyniku są podatne na frustrację. Kryteria procesu, takie jak regularność, jakość pracy i uczciwy wysiłek, dają większą kontrolę nad kierunkiem działania.",
+      "source": "Dweck, C. S. (2006). Mindset: The New Psychology of Success."
+    },
+    {
+      "id": "fact-114",
+      "title": "Ciekawość rozbraja automatyczne oceny",
+      "message": "Zamiana natychmiastowego osądu na pytanie pomaga zobaczyć więcej danych. Ciekawość wobec siebie i innych zmniejsza sztywność interpretacji.",
+      "source": "Kashdan, T. B. et al. (2004). Curiosity and exploration. Journal of Personality Assessment."
+    },
+    {
+      "id": "fact-115",
+      "title": "Zasada „wystarczająco dobrze” chroni przed paraliżem",
+      "message": "Perfekcjonizm często maskuje lęk przed oceną i opóźnia działanie. Ustalenie progu „wystarczająco dobrze” pozwala kończyć zadania bez rezygnacji z jakości.",
+      "source": "Frost, R. O. et al. (1990). The dimensions of perfectionism. Cognitive Therapy and Research."
+    },
+    {
+      "id": "fact-116",
+      "title": "Wdzięczność nie wyklucza ambicji",
+      "message": "Docenianie tego, co już jest dobre, może współistnieć z rozwojem. Wdzięczność stabilizuje punkt startu, a nie musi oznaczać rezygnacji ze zmiany.",
+      "source": "Emmons, R. A., & McCullough, M. E. (2003). Counting blessings versus burdens. Journal of Personality and Social Psychology."
+    },
+    {
+      "id": "fact-117",
+      "title": "Prawdziwy priorytet widać w kalendarzu",
+      "message": "Deklarowane wartości stają się realne dopiero wtedy, gdy dostają czas i uwagę. Kalendarz często pokazuje uczciwszy obraz priorytetów niż same intencje.",
+      "source": "Locke, E. A., & Latham, G. P. (2002). Building a practically useful theory of goal setting. American Psychologist."
+    },
+    {
+      "id": "fact-118",
+      "title": "Przebaczenie nie musi oznaczać zgody na powtórkę",
+      "message": "Przebaczenie może zmniejszać ciężar emocjonalny, ale nie wymaga zniesienia granic ani powrotu do zaufania bez zmiany zachowania drugiej strony.",
+      "source": "Worthington, E. L. (2005). Handbook of Forgiveness."
+    },
+    {
+      "id": "fact-119",
+      "title": "Najlepsza rada zależy od kontekstu",
+      "message": "Zasady życiowe są użyteczne, gdy pasują do sytuacji, zasobów i kosztów. Dojrzałość polega nie tylko na posiadaniu zasad, lecz także na wiedzy, kiedy którą zastosować.",
+      "source": "Baltes, P. B., & Staudinger, U. M. (2000). Wisdom: A metaheuristic to orchestrate mind and virtue. American Psychologist."
+    },
+    {
+      "id": "fact-120",
+      "title": "Spójność daje ulgę poznawczą",
+      "message": "Gdy działania są zgodne z przekonaniami, spada napięcie wynikające z dysonansu. Dlatego małe akty uczciwości wobec siebie potrafią dawać nieproporcjonalnie duże poczucie porządku.",
+      "source": "Festinger, L. (1957). A Theory of Cognitive Dissonance."
     }
   ]
 }

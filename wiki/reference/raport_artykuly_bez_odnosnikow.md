@@ -700,7 +700,6 @@ Poniżej znajdują się bezpośrednie odnośniki do artykułów bez linków przy
 - [`reference/listy_wielopoziomowe.md`](../reference/listy_wielopoziomowe.md)
 - [`reference/literatura.md`](../reference/literatura.md)
 - [`reference/mapa_powiazan_nowe_artykuly.md`](../reference/mapa_powiazan_nowe_artykuly.md)
-- [`reference/przeglad_redakcyjny_pakietu_2026_04.md`](../reference/przeglad_redakcyjny_pakietu_2026_04.md)
 - [`reference/przepisy_zawod.md`](../reference/przepisy_zawod.md)
 - [`reference/raport_artykuly_bez_odnosnikow.md`](../reference/raport_artykuly_bez_odnosnikow.md)
 - [`reference/skale_i_akronimy.md`](../reference/skale_i_akronimy.md)

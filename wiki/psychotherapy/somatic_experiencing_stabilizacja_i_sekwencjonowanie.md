@@ -42,6 +42,10 @@ Praca koncentruje się od razu na najbardziej obciążającym fragmencie histori
 ## Perspektywa nieoczywista
 
 Wysoka intensywność emocjonalna sesji bywa mylona z „głęboką pracą”. Tymczasem z perspektywy neurobiologii skuteczniejsza jest często praca o mniejszej amplitudzie, ale większej powtarzalności regulacyjnej — to ona wzmacnia trwałą elastyczność układu nerwowego.
+## Powiązane artykuły (cross-linki)
+
+- `psychotherapy/somatic_experiencing` — podstawy regulacji układu nerwowego w SE.
+- `psychopathology/trauma_ptsd` — kliniczny obraz traumy i PTSD.
 
 ## Podsumowanie
 

@@ -31,7 +31,7 @@ Wystąpienia oceniane jako klarowne mają zwykle prosty szkielet: teza → argum
 
 Badania nad wiarygodnością mówcy wskazują, że odbiorcy lepiej reagują na prelegenta, który łączy kompetencję z autentycznością. Nadmiernie „wytrenowana”, sztuczna ekspresja obniża zaufanie.
 
-### 4. Sztuczny obraz siebie a „pokazywanie siebie”
+### 4. Sztuczny obraz siebie a autentyczna profesjonalność
 
 W autoprezentacji warto odróżnić dwie strategie:
 

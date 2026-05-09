@@ -462,7 +462,7 @@ function runResearcherQuoteBibliographyCheck(siteConfig, report) {
     }
 
     const bibliographyStartIndex = bibliographyHeaderMatch.index + bibliographyHeaderMatch[0].length;
-    const bibliographyText = content.slice(bibliographyStartIndex);
+    const bibliographyText = content.slice(bibliographyStartIndex).split(/\n##\s+/)[0];
 
     const quoteSectionMatch = content.match(/##\s+Cytat badacza\s*([\s\S]*?)(?:\n##\s+|$)/i);
     const quoteSectionText = quoteSectionMatch ? quoteSectionMatch[1] : '';

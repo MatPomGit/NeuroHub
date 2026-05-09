@@ -512,7 +512,6 @@ function main() {
     runMinimumVolumeCheck(siteConfig, report, minChars);
     runDuplicatesAndDeadEntriesCheck(siteConfig, report);
     runInternalMarkdownLinksCheck(siteConfig, report);
-    runBibliographyHeaderCheck(siteConfig, report);
     runWikiNamingConventionCheck(report);
     runBibliographyHeaderCheck(siteConfig, report);
 

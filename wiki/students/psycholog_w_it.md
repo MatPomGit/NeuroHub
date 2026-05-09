@@ -39,7 +39,7 @@ W praktyce IT psycholog styka się z projektowaniem mechanizmów retencji, perso
 
 ### 4) Aktualizacja źródeł w obszarze HCI/UX
 
-W praktyce redakcyjnej warto traktować obszar HCI/UX jako szybko zmienny metodologicznie. Oznacza to coroczną rewizję źródeł: uzupełnianie artykułu o nowe wytyczne instytucjonalne, repliki badań oraz raporty dotyczące ryzyka projektowego i etycznego. Dzięki temu rekomendacje zachowują wartość operacyjną dla zespołów produktowych.
+Obszar HCI/UX charakteryzuje się wysoką dynamiką metodologiczną, co wymaga corocznej weryfikacji źródeł. Proces ten obejmuje uwzględnianie nowych wytycznych instytucjonalnych, replikacji badań oraz raportów dotyczących ryzyka projektowego i etycznego, co pozwala zachować operacyjną wartość rekomendacji dla zespołów produktowych.
 
 ## Statystyki i dane, które warto znać
 

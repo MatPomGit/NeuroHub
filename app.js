@@ -2093,8 +2093,8 @@ function updateAutoNextButtonState() {
 /* Zatrzymuje syntezę mowy i resetuje lokalny stan czytania. */
 function stopReadingContent() {
   if (!speechState.synth) return;
-  speechState.synth.cancel();
   speechState.isSpeaking = false;
+  speechState.synth.cancel();
   speechState.utterance = null;
   updateSpeechButtonState(false);
 }

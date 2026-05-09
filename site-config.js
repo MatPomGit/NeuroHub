@@ -1117,7 +1117,7 @@ window.SITE_CONFIG = {
         { id: 'psychotherapy/rebt',                    label: 'REBT - racjonalna terapia',            file: 'wiki/psychotherapy/rebt.md'                     },
         { id: 'psychotherapy/psychologiczne_mechanizmy_przebaczenia', label: 'Mechanizmy przebaczenia po przemocy emocjonalnej', file: 'wiki/psychotherapy/psychologiczne_mechanizmy_przebaczenia.md' },
         { id: 'psychotherapy/superwizja',              label: 'Superwizja w psychoterapii',           file: 'wiki/psychotherapy/superwizja.md'           },
-        { id: 'psychotherapy/kontenerowanie_emocji',   label: 'Kontenerowanie emocji w terapii',      file: 'wiki/kontenerowanie_emocji.md'           },
+        { id: 'psychotherapy/kontenerowanie_emocji',   label: 'Kontenerowanie emocji w terapii',      file: 'wiki/psychotherapy/kontenerowanie_emocji.md'           },
       ]
     },
     {
@@ -1171,7 +1171,7 @@ window.SITE_CONFIG = {
         { id: 'suicidology/biologiczne_neurobiologiczne_podstawy', label: 'Biologiczne i neurobiologiczne podstawy', file: 'wiki/suicidology/biologiczne_neurobiologiczne_podstawy_zachowan_suicydalnych.md' },
         { id: 'suicidology/genetyczne_i_epigenetyczne_uwarunkowania', label: 'Genetyczne i epigenetyczne uwarunkowania', file: 'wiki/suicidology/genetyczne_i_epigenetyczne_uwarunkowania_suicydalnosci.md' },
         { id: 'suicidology/psychopatologia_a_ryzyko',  label: 'Psychopatologia, a ryzyko samobójstwa', file: 'wiki/suicidology/psychopatologia_a_ryzyko_samobojstwa.md' },
-        { id: 'suicidology/trauma_ace_i_stres_chroniczny', label: 'Trauma ACE i stres chroniczny', file: 'wiki/trauma_ace_i_stres_chroniczny_a_ryzyko_samobojstwa.md' },
+        { id: 'suicidology/trauma_ace_i_stres_chroniczny', label: 'Trauma ACE i stres chroniczny', file: 'wiki/suicidology/trauma_ace_i_stres_chroniczny_a_ryzyko_samobojstwa.md' },
       ]
     },
     {
@@ -1503,7 +1503,6 @@ window.SITE_CONFIG = {
         { id: 'reference/przepisy_zawod',     label: 'Przepisy i zasady pracy psychologa', file: 'wiki/reference/przepisy_zawod.md'     },
         { id: 'reference/etyka_psychologa',   label: 'Etyka zawodowa psychologa i psychoterapeuty', file: 'wiki/reference/etyka_psychologa.md' },
         { id: 'reference/mapa_powiazan_nowe_artykuly', label: 'Mapa powiązań nowych artykułów', file: 'wiki/reference/mapa_powiazan_nowe_artykuly.md' },
-        { id: 'reference/przeglad_redakcyjny_pakietu_2026_04', label: 'Przegląd redakcyjny pakietu (IV 2026)', file: 'wiki/reference/przeglad_redakcyjny_pakietu_2026_04.md' },
       ]
     },
   ],
@@ -1883,7 +1882,6 @@ window.SITE_CONFIG = {
       { file: 'wiki/reference/przepisy_zawod.md',       label: 'Przepisy i zasady pracy psychologa',          status: 'live' },
       { file: 'wiki/reference/etyka_psychologa.md',     label: 'Etyka zawodowa psychologa i psychoterapeuty', status: 'live' },
       { file: 'wiki/reference/mapa_powiazan_nowe_artykuly.md', label: 'Mapa powiązań nowych artykułów', status: 'live' },
-      { file: 'wiki/reference/przeglad_redakcyjny_pakietu_2026_04.md', label: 'Przegląd redakcyjny pakietu (IV 2026)', status: 'live' },
     ],
     geropsychology: [
       { file: 'wiki/geropsychology/wprowadzenie.md',               label: 'Psychologia starości',  status: 'live' },

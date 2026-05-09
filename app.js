@@ -1438,11 +1438,17 @@ function renderWiki(id, wikiKey) {
   setBreadcrumb({...item, section:'Encyklopedie', label:cfg.title});
 
   const isGloss = cfg.sections.length===1 && cfg.sections[0].isGlossary;
-  let body = isGloss ? renderGlossHTML(cfg.sections[0].entries) : cfg.sections.map(sec=>`
+  const hasPdfLabBrowser = cfg.sections.some(sec => sec.type === 'pdfLabBrowser');
+  let body = isGloss ? renderGlossHTML(cfg.sections[0].entries) : cfg.sections.map(sec => {
+    if (sec.type === 'pdfLabBrowser') {
+      return renderPdfLabBrowser(sec);
+    }
+    return `
     <div class="wiki-sec">
       <div class="wiki-sec-title">${sec.title}</div>
       <div class="art-grid">${sec.articles.map(artCard).join('')}</div>
-    </div>`).join('');
+    </div>`;
+  }).join('');
 
   area.innerHTML = `<div class="rendered">
     <div class="wiki-hdr">
@@ -1454,7 +1460,48 @@ function renderWiki(id, wikiKey) {
   </div>`;
   window.scrollTo(0,0);
   updateEmptyIndicators();
+  if (hasPdfLabBrowser) setupPdfLabBrowserInteractions();
   animateWikiIn();
+}
+
+/* Renderuje moduł wyboru i podglądu instrukcji PDF z katalogu labs. */
+function renderPdfLabBrowser(section) {
+  const files = Array.isArray(section.files) ? section.files : [];
+  if (!files.length) {
+    return `<div class="wiki-sec"><div class="wiki-sec-title">${section.title || 'Instrukcje laboratoryjne'}</div><p>Brak dostępnych plików PDF.</p></div>`;
+  }
+  const optionsHtml = files.map((file, index) =>
+    `<option value="${q(file.href)}" ${index === 0 ? 'selected' : ''}>${q(file.label)}</option>`
+  ).join('');
+  const firstHref = files[0].href;
+  return `<div class="wiki-sec pdf-lab-browser">
+    <div class="wiki-sec-title">${q(section.title || 'Instrukcje laboratoryjne')}</div>
+    <div class="pdf-lab-controls">
+      <label for="pdfLabSelect">Wybierz plik PDF:</label>
+      <select id="pdfLabSelect">${optionsHtml}</select>
+      <a id="pdfLabOpenNewTab" href="${q(firstHref)}" target="_blank" rel="noopener noreferrer">Otwórz w nowej karcie</a>
+    </div>
+    <div class="pdf-lab-viewer-wrap">
+      <iframe id="pdfLabViewer" src="${q(firstHref)}#view=FitH" title="Podgląd instrukcji laboratoryjnej PDF"></iframe>
+      <p class="pdf-lab-mobile-hint">Na urządzeniach mobilnych podgląd osadzony może być ograniczony — użyj przycisku „Otwórz w nowej karcie”.</p>
+    </div>
+  </div>`;
+}
+
+/* Synchronizuje wybór pliku PDF pomiędzy listą, osadzonym podglądem i linkiem nowej karty. */
+function setupPdfLabBrowserInteractions() {
+  const select = document.getElementById('pdfLabSelect');
+  const viewer = document.getElementById('pdfLabViewer');
+  const openNewTabLink = document.getElementById('pdfLabOpenNewTab');
+  if (!select || !viewer || !openNewTabLink) return;
+
+  const updatePdfSelection = () => {
+    const selectedPdf = select.value;
+    viewer.src = `${selectedPdf}#view=FitH`;
+    openNewTabLink.href = selectedPdf;
+  };
+
+  select.addEventListener('change', updatePdfSelection);
 }
 
 function artCard(art) {

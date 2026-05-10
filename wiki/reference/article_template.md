@@ -38,7 +38,7 @@
 
 ## Bibliografia
 > Format zgodny z APA 7.
-> Sekcja `## Bibliografia` powinna zawsze zamykać artykuł.
+<!-- Sekcja ## Bibliografia powinna zawsze zamykać artykuł. -->
 
 - Autor, A. A., & Autor, B. B. (Rok). Tytuł artykułu. *Tytuł Czasopisma, wolumin*(numer), xx-xx. https://doi.org/xx.xxxx/xxxxx
 - Autor, A. A. (Rok). *Tytuł książki* (wydanie). Wydawnictwo.

@@ -1,4 +1,4 @@
-﻿/*
+/*
  * app.js â€” gĹ‚Ăłwne ĹşrĂłdĹ‚o logiki SPA w projekcie PsyHub.
  * Plik odpowiada za routing, renderowanie widokĂłw i obsĹ‚ugÄ™ interakcji UI.
  */

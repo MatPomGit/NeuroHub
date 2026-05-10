@@ -1,26 +1,26 @@
-/*
- * app.js — główne źródło logiki SPA w projekcie PsyHub.
- * Plik odpowiada za routing, renderowanie widoków i obsługę interakcji UI.
+﻿/*
+ * app.js â€” gĹ‚Ăłwne ĹşrĂłdĹ‚o logiki SPA w projekcie PsyHub.
+ * Plik odpowiada za routing, renderowanie widokĂłw i obsĹ‚ugÄ™ interakcji UI.
  */
 
-/* ══════════════════════════════════════════════════
+/* â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
    MINI MARKDOWN PARSER
-══════════════════════════════════════════════════ */
+â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• */
 function md2html(src, currentFilePath = '') {
   const esc = s => s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
-  /* Escapuje wartości atrybutów HTML, aby bezpiecznie wstawiać href. */
+  /* Escapuje wartoĹ›ci atrybutĂłw HTML, aby bezpiecznie wstawiaÄ‡ href. */
   const escAttr = s => String(s || '').replace(/&/g,'&amp;').replace(/"/g,'&quot;');
   const footnoteDefs = new Map();
   const footnoteOrder = [];
   const footnoteIndex = new Map();
 
-  /* Wyodrębnia definicje przypisów z końca/środka dokumentu i usuwa je z treści głównej. */
+  /* WyodrÄ™bnia definicje przypisĂłw z koĹ„ca/Ĺ›rodka dokumentu i usuwa je z treĹ›ci gĹ‚Ăłwnej. */
   src = src.replace(/^\[\^([^\]\s]+)\]:\s*(.+)$/gm, (_, id, content) => {
     footnoteDefs.set(id, content.trim());
     return '';
   });
 
-  /* Rejestruje pierwsze użycie identyfikatora przypisu i zwraca jego numer porządkowy. */
+  /* Rejestruje pierwsze uĹĽycie identyfikatora przypisu i zwraca jego numer porzÄ…dkowy. */
   const getFootnoteNumber = id => {
     if (!footnoteIndex.has(id)) {
       footnoteOrder.push(id);
@@ -29,7 +29,7 @@ function md2html(src, currentFilePath = '') {
     return footnoteIndex.get(id);
   };
 
-  /* Renderuje inline markdown; opcjonalnie zamienia odwołania [^id] na superskrypty z kotwicami. */
+  /* Renderuje inline markdown; opcjonalnie zamienia odwoĹ‚ania [^id] na superskrypty z kotwicami. */
   const inl = (s, opts = { parseFootnotes: true }) => {
     s = esc(s);
     s = s
@@ -65,7 +65,7 @@ function md2html(src, currentFilePath = '') {
   src = src.replace(/((?:^>.*\n?)+)/gm, blk => {
     return `<blockquote><p>${inl(blk.replace(/^>\s?/gm,'').trim())}</p></blockquote>\n`;
   });
-  /* Renderuje listy wielopoziomowe (UL/OL) na podstawie wcięć i typu markerów. */
+  /* Renderuje listy wielopoziomowe (UL/OL) na podstawie wciÄ™Ä‡ i typu markerĂłw. */
   const renderNestedListBlock = (block) => {
     const lines = block
       .split('\n')
@@ -127,7 +127,7 @@ function md2html(src, currentFilePath = '') {
     return html + '\n';
   };
 
-  /* Przetwarza kolejne bloki list i zachowuje pozostałe linie bez zmian. */
+  /* Przetwarza kolejne bloki list i zachowuje pozostaĹ‚e linie bez zmian. */
   const renderNestedLists = (markdown) => {
     const lines = markdown.split('\n');
     const out = [];
@@ -150,7 +150,7 @@ function md2html(src, currentFilePath = '') {
     return out.join('\n');
   };
   src = renderNestedLists(src);
-  /* Normalizuje granice bloków HTML, żeby parser akapitów nie wyświetlał tagów jako tekstu. */
+  /* Normalizuje granice blokĂłw HTML, ĹĽeby parser akapitĂłw nie wyĹ›wietlaĹ‚ tagĂłw jako tekstu. */
   src = src
     .replace(/([^\n])\n(<(?:h[1-4]|blockquote|ul|ol|pre|div|hr)\b[^>]*>)/g, '$1\n\n$2')
     .replace(/(<\/(?:h[1-4]|blockquote|ul|ol|pre|div)>|<hr>)\n?(?=\S)/g, '$1\n\n');
@@ -161,13 +161,13 @@ function md2html(src, currentFilePath = '') {
     return `<p>${inl(blk.replace(/\n/g,' '))}</p>`;
   }).join('\n');
 
-  /* Dodaje końcową sekcję przypisów w kolejności pierwszego cytowania wraz z linkiem powrotnym. */
+  /* Dodaje koĹ„cowÄ… sekcjÄ™ przypisĂłw w kolejnoĹ›ci pierwszego cytowania wraz z linkiem powrotnym. */
   if (footnoteOrder.length) {
     const footnotesHtml = footnoteOrder.map(id => {
       const no = footnoteIndex.get(id);
-      const rawContent = footnoteDefs.get(id) || 'Brak opisu źródła.';
+      const rawContent = footnoteDefs.get(id) || 'Brak opisu ĹşrĂłdĹ‚a.';
       const renderedContent = inl(rawContent, { parseFootnotes: false });
-      return `<li id="fn-${id}">${renderedContent} <a class="fn-back" href="#fnref-${id}" aria-label="Powrót do cytowania ${no}">↩</a></li>`;
+      return `<li id="fn-${id}">${renderedContent} <a class="fn-back" href="#fnref-${id}" aria-label="PowrĂłt do cytowania ${no}">â†©</a></li>`;
     }).join('');
     src += `\n<section class="footnotes"><h2>Przypisy</h2><ol>${footnotesHtml}</ol></section>`;
   }
@@ -175,7 +175,7 @@ function md2html(src, currentFilePath = '') {
   return src;
 }
 
-/* Buduje mapę ścieżka-pliku -> id strony dla artykułów znajdujących się w nawigacji. */
+/* Buduje mapÄ™ Ĺ›cieĹĽka-pliku -> id strony dla artykuĹ‚Ăłw znajdujÄ…cych siÄ™ w nawigacji. */
 function buildArticleFileToIdMap() {
   if (articleFileToIdMapCache) return articleFileToIdMapCache;
   const map = new Map();
@@ -187,7 +187,7 @@ function buildArticleFileToIdMap() {
   return articleFileToIdMapCache;
 }
 
-/* Normalizuje ścieżki do wspólnego formatu porównawczego (slash, brak prefiksu "./"). */
+/* Normalizuje Ĺ›cieĹĽki do wspĂłlnego formatu porĂłwnawczego (slash, brak prefiksu "./"). */
 function normalizePathForArticleLookup(rawPath) {
   return String(rawPath || '')
     .replace(/\\/g, '/')
@@ -195,7 +195,7 @@ function normalizePathForArticleLookup(rawPath) {
     .replace(/\/{2,}/g, '/');
 }
 
-/* Upraszcza segmenty "." oraz ".." w ścieżce względnej bez dostępu do API Node. */
+/* Upraszcza segmenty "." oraz ".." w Ĺ›cieĹĽce wzglÄ™dnej bez dostÄ™pu do API Node. */
 function normalizeRelativePath(baseDir, rawTarget) {
   const baseSegments = normalizePathForArticleLookup(baseDir).split('/').filter(Boolean);
   const targetSegments = normalizePathForArticleLookup(rawTarget).split('/').filter(Boolean);
@@ -211,7 +211,7 @@ function normalizeRelativePath(baseDir, rawTarget) {
   return output.join('/');
 }
 
-/* Tłumaczy odnośniki markdown do formy hash-route, jeśli wskazują istniejące artykuły PsyHub. */
+/* TĹ‚umaczy odnoĹ›niki markdown do formy hash-route, jeĹ›li wskazujÄ… istniejÄ…ce artykuĹ‚y PsyHub. */
 function resolveArticleLinkHref(rawHref, currentFilePath) {
   const href = String(rawHref || '').trim();
   if (!href) return href;
@@ -247,14 +247,14 @@ function resolveArticleLinkHref(rawHref, currentFilePath) {
   return href;
 }
 
-/* ══════════════════════════════════════════════════
+/* â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
    PAGE MAP & ROUTING
-══════════════════════════════════════════════════ */
+â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• */
 var pageMap = new Map();
 var articleFileToIdMapCache = null;
 var mdCache = new Map();
 
-/* Pobiera treść artykułu, stosując kilka wariantów ścieżki dla zgodności z różnymi środowiskami hostingu. */
+/* Pobiera treĹ›Ä‡ artykuĹ‚u, stosujÄ…c kilka wariantĂłw Ĺ›cieĹĽki dla zgodnoĹ›ci z rĂłĹĽnymi Ĺ›rodowiskami hostingu. */
 async function fetchArticleMarkdown(filePath) {
   const normalized = String(filePath || '').trim();
   const candidates = [
@@ -277,10 +277,10 @@ async function fetchArticleMarkdown(filePath) {
     }
   }
 
-  throw lastError || new Error(`Nie udało się pobrać pliku: ${normalized}`);
+  throw lastError || new Error(`Nie udaĹ‚o siÄ™ pobraÄ‡ pliku: ${normalized}`);
 }
 
-var emptyArticles = new Set();   /* IDs of articles whose files są puste lub niedostępne. */
+var emptyArticles = new Set();   /* IDs of articles whose files sÄ… puste lub niedostÄ™pne. */
 var testAnswers = [];
 var testCurrentIndex = 0;
 var testAttemptState = { started: false, completed: false };
@@ -294,7 +294,7 @@ const SPECIALIZATION_TEST_COUNTER_KEY = 'psyhub-specialization-test-counter';
 const RECENT_PAGES_KEY = 'psyhub-recent-pages';
 const RECENT_PAGES_LIMIT = 5;
 
-/* Zwraca klucz daty (YYYY-MM-DD) w lokalnej strefie użytkownika do licznika dziennego. */
+/* Zwraca klucz daty (YYYY-MM-DD) w lokalnej strefie uĹĽytkownika do licznika dziennego. */
 function getTodayDateKey() {
   const now = new Date();
   const y = now.getFullYear();
@@ -303,7 +303,7 @@ function getTodayDateKey() {
   return `${y}-${m}-${d}`;
 }
 
-/* Odczytuje licznik z localStorage i zwraca bezpieczny obiekt z wartościami domyślnymi. */
+/* Odczytuje licznik z localStorage i zwraca bezpieczny obiekt z wartoĹ›ciami domyĹ›lnymi. */
 function readSpecializationTestCounter() {
   try {
     const raw = localStorage.getItem(SPECIALIZATION_TEST_COUNTER_KEY);
@@ -317,12 +317,12 @@ function readSpecializationTestCounter() {
   }
 }
 
-/* Zapisuje zaktualizowany licznik wszystkich i dziennych ukończeń testu specjalizacji. */
+/* Zapisuje zaktualizowany licznik wszystkich i dziennych ukoĹ„czeĹ„ testu specjalizacji. */
 function writeSpecializationTestCounter(counter) {
   localStorage.setItem(SPECIALIZATION_TEST_COUNTER_KEY, JSON.stringify(counter));
 }
 
-/* Rejestruje zakończone podejście dokładnie raz na jedno przejście testu. */
+/* Rejestruje zakoĹ„czone podejĹ›cie dokĹ‚adnie raz na jedno przejĹ›cie testu. */
 function registerCompletedSpecializationAttempt() {
   if (testAttemptState.completed) return;
   const counter = readSpecializationTestCounter();
@@ -333,7 +333,7 @@ function registerCompletedSpecializationAttempt() {
   testAttemptState.completed = true;
 }
 
-/* Odczytuje listę ostatnio odwiedzonych stron i filtruje niepoprawne wpisy. */
+/* Odczytuje listÄ™ ostatnio odwiedzonych stron i filtruje niepoprawne wpisy. */
 function readRecentPages() {
   try {
     const raw = localStorage.getItem(RECENT_PAGES_KEY);
@@ -348,19 +348,19 @@ function readRecentPages() {
   }
 }
 
-/* Zapisuje listę ostatnio odwiedzonych stron w localStorage. */
+/* Zapisuje listÄ™ ostatnio odwiedzonych stron w localStorage. */
 function writeRecentPages(ids) {
   localStorage.setItem(RECENT_PAGES_KEY, JSON.stringify(ids.slice(0, RECENT_PAGES_LIMIT)));
 }
 
-/* Dodaje stronę do historii ostatnich wizyt, przenosząc ją na początek listy. */
+/* Dodaje stronÄ™ do historii ostatnich wizyt, przenoszÄ…c jÄ… na poczÄ…tek listy. */
 function addRecentPage(id) {
   if (!id || !pageMap.has(id)) return;
   const deduped = [id, ...readRecentPages().filter(existingId => existingId !== id)];
   writeRecentPages(deduped);
 }
 
-/* Zwraca kolejną stronę w tym samym dziale jako proponowany „następny krok”. */
+/* Zwraca kolejnÄ… stronÄ™ w tym samym dziale jako proponowany â€žnastÄ™pny krokâ€ť. */
 function getNextStepItem(id) {
   const activeId = id || SITE_CONFIG.defaultPage;
   const activeItem = pageMap.get(activeId);
@@ -372,20 +372,20 @@ function getNextStepItem(id) {
   return section.items[idx + 1] || null;
 }
 
-/* Aktualizuje skrót „następny krok” w topbarze zależnie od bieżącej strony. */
+/* Aktualizuje skrĂłt â€žnastÄ™pny krokâ€ť w topbarze zaleĹĽnie od bieĹĽÄ…cej strony. */
 function updateTopbarNextStep(id) {
   const host = document.getElementById('topbarNextStep');
   if (!host) return;
   const nextItem = getNextStepItem(id);
   if (!nextItem) {
-    host.innerHTML = `<button type="button" class="next-step-btn" onclick="navigate('students/testy_teoretyczne')">
-      <span class="next-step-label">Następny krok</span>
-      <span class="next-step-title">Sprawdź się testem</span>
+    host.innerHTML = `<button type="button" class="next-step-btn" onclick="navigate('dla_studentow/testy_teoretyczne')">
+      <span class="next-step-label">NastÄ™pny krok</span>
+      <span class="next-step-title">SprawdĹş siÄ™ testem</span>
     </button>`;
     return;
   }
   host.innerHTML = `<button type="button" class="next-step-btn" onclick="navigate('${q(nextItem.id)}')">
-    <span class="next-step-label">Następny krok</span>
+    <span class="next-step-label">NastÄ™pny krok</span>
     <span class="next-step-title">${q(nextItem.label)}</span>
   </button>`;
 }
@@ -397,22 +397,22 @@ function buildPageMap() {
       pageMap.set(item.id, {
         ...item,
         section: sec.section,
-        /* Jawny domainKey z konfiguracji ma pierwszeństwo; fallback utrzymuje kompatybilność starszych wpisów. */
+        /* Jawny domainKey z konfiguracji ma pierwszeĹ„stwo; fallback utrzymuje kompatybilnoĹ›Ä‡ starszych wpisĂłw. */
         domainKey: item.domainKey || sec.domainKey || inferDomainKeyFromId(item.id),
       });
 }
 
-/* Wyznacza klucz dziedziny z identyfikatora strony jako mechanizm zgodności wstecznej. */
+/* Wyznacza klucz dziedziny z identyfikatora strony jako mechanizm zgodnoĹ›ci wstecznej. */
 function inferDomainKeyFromId(id) {
   return typeof id === 'string' ? (id.split('/')[0] || '') : '';
 }
 
-/* Zwraca klucz dziedziny wpisu z preferencją dla jawnego domainKey. */
+/* Zwraca klucz dziedziny wpisu z preferencjÄ… dla jawnego domainKey. */
 function getDomainKeyForItem(id, item) {
   return item?.domainKey || pageMap.get(id)?.domainKey || inferDomainKeyFromId(id);
 }
 
-/* Parsuje prosty frontmatter YAML (key: value) i zwraca metadane oraz treść bez nagłówka. */
+/* Parsuje prosty frontmatter YAML (key: value) i zwraca metadane oraz treĹ›Ä‡ bez nagĹ‚Ăłwka. */
 function parseArticleFrontmatter(rawText) {
   if (typeof rawText !== 'string' || !rawText.startsWith('---\n')) {
     return { metadata: {}, body: rawText };
@@ -439,7 +439,7 @@ function parseArticleFrontmatter(rawText) {
   return { metadata, body };
 }
 
-/* Formatuje datę do postaci MM.RRRR; dla błędnych wartości zwraca null. */
+/* Formatuje datÄ™ do postaci MM.RRRR; dla bĹ‚Ä™dnych wartoĹ›ci zwraca null. */
 function formatMonthYear(value) {
   if (!value) return null;
   const parsed = new Date(`${value}T00:00:00Z`);
@@ -449,7 +449,7 @@ function formatMonthYear(value) {
   return `${month}.${year}`;
 }
 
-/* Wyciąga rok z pełnej daty ISO albo liczby zapisanej jako tekst. */
+/* WyciÄ…ga rok z peĹ‚nej daty ISO albo liczby zapisanej jako tekst. */
 function extractYear(value) {
   if (typeof value === 'number' && Number.isFinite(value)) return String(Math.trunc(value));
   if (typeof value !== 'string') return null;
@@ -461,7 +461,7 @@ function extractYear(value) {
   return String(parsed.getUTCFullYear());
 }
 
-/* Oblicza liczbę pełnych miesięcy między datą referencyjną a podaną datą. */
+/* Oblicza liczbÄ™ peĹ‚nych miesiÄ™cy miÄ™dzy datÄ… referencyjnÄ… a podanÄ… datÄ…. */
 function monthsSince(value, referenceDate = new Date()) {
   const parsed = new Date(`${value}T00:00:00Z`);
   if (Number.isNaN(parsed.getTime())) return null;
@@ -470,7 +470,7 @@ function monthsSince(value, referenceDate = new Date()) {
   return (yearsDiff * 12) + monthsDiff;
 }
 
-/* Buduje badge metadanych artykułu oraz neutralny komunikat o potrzebie przeglądu. */
+/* Buduje badge metadanych artykuĹ‚u oraz neutralny komunikat o potrzebie przeglÄ…du. */
 function renderArticleReviewMetaBadges(metadata) {
   const lastReviewed = formatMonthYear(metadata?.lastReviewed);
   const cutoffYear = extractYear(metadata?.evidenceCutoffDate);
@@ -482,13 +482,13 @@ function renderArticleReviewMetaBadges(metadata) {
 
   const badges = [];
   if (lastReviewed) badges.push(`<span class="review-meta-badge">Zweryfikowano: ${q(lastReviewed)}</span>`);
-  if (cutoffYear) badges.push(`<span class="review-meta-badge">Przegląd źródeł do: ${q(cutoffYear)}</span>`);
-  if (isStale) badges.push('<span class="review-meta-badge is-stale">Wymaga przeglądu literatury</span>');
+  if (cutoffYear) badges.push(`<span class="review-meta-badge">PrzeglÄ…d ĹşrĂłdeĹ‚ do: ${q(cutoffYear)}</span>`);
+  if (isStale) badges.push('<span class="review-meta-badge is-stale">Wymaga przeglÄ…du literatury</span>');
 
   return `<div class="review-meta-badges">${badges.join('')}</div>`;
 }
 
-/* Buduje badge metadanych karty narzędzia pomiarowego wraz z flagą przeterminowania. */
+/* Buduje badge metadanych karty narzÄ™dzia pomiarowego wraz z flagÄ… przeterminowania. */
 function renderToolReviewMetaBadges(tool) {
   const lastReviewed = formatMonthYear(tool?.lastReviewed);
   const sourceYear = extractYear(tool?.primarySourceYear);
@@ -499,13 +499,13 @@ function renderToolReviewMetaBadges(tool) {
 
   const badges = [];
   if (lastReviewed) badges.push(`<span class="review-meta-badge">Zweryfikowano: ${q(lastReviewed)}</span>`);
-  if (sourceYear) badges.push(`<span class="review-meta-badge">Przegląd źródeł do: ${q(sourceYear)}</span>`);
-  if (isStale) badges.push('<span class="review-meta-badge is-stale">Wymaga przeglądu literatury</span>');
+  if (sourceYear) badges.push(`<span class="review-meta-badge">PrzeglÄ…d ĹşrĂłdeĹ‚ do: ${q(sourceYear)}</span>`);
+  if (isStale) badges.push('<span class="review-meta-badge is-stale">Wymaga przeglÄ…du literatury</span>');
 
   return `<div class="review-meta-badges">${badges.join('')}</div>`;
 }
 
-/* Weryfikuje konfigurację nav i ostrzega o sekcjach bez jawnego domainKey. */
+/* Weryfikuje konfiguracjÄ™ nav i ostrzega o sekcjach bez jawnego domainKey. */
 function warnAboutMissingDomainKeys() {
   if (!Array.isArray(SITE_CONFIG?.nav)) return;
   SITE_CONFIG.nav.forEach(section => {
@@ -515,11 +515,11 @@ function warnAboutMissingDomainKeys() {
   });
 }
 
-/* Waliduje konfigurację narzędzi pomiarowych i raportuje problemy z poziomem error/warn. */
+/* Waliduje konfiguracjÄ™ narzÄ™dzi pomiarowych i raportuje problemy z poziomem error/warn. */
 function runMeasurementToolsConfigValidation(options = {}) {
   const validator = window.MeasurementToolsConfigValidator?.validateMeasurementToolsConfig;
   if (typeof validator !== 'function') {
-    console.warn('[PsyHub][measurement-tools][warn] validator/unavailable | Nie znaleziono modułu walidatora.');
+    console.warn('[PsyHub][measurement-tools][warn] validator/unavailable | Nie znaleziono moduĹ‚u walidatora.');
     return { allIssues: [], errors: [], warnings: [], isValid: true };
   }
 
@@ -534,14 +534,14 @@ function runMeasurementToolsConfigValidation(options = {}) {
   });
 
   if (report.errors.length === 0 && report.warnings.length === 0) {
-    console.info('[PsyHub][measurement-tools][ok] Walidacja konfiguracji zakończona bez uwag.');
+    console.info('[PsyHub][measurement-tools][ok] Walidacja konfiguracji zakoĹ„czona bez uwag.');
   }
 
   return report;
 }
 
-/* ── Empty article indicator refresh ──────── */
-const EMPTY_BANNER_HTML = `<div class="empty-banner"><span class="empty-banner-icon">⚠</span><div class="empty-banner-text">Artykuł jeszcze nie zawiera treści — zostanie uzupełniony wkrótce.</div></div>`;
+/* â”€â”€ Empty article indicator refresh â”€â”€â”€â”€â”€â”€â”€â”€ */
+const EMPTY_BANNER_HTML = `<div class="empty-banner"><span class="empty-banner-icon">âš </span><div class="empty-banner-text">ArtykuĹ‚ jeszcze nie zawiera treĹ›ci â€” zostanie uzupeĹ‚niony wkrĂłtce.</div></div>`;
 
 function isBodyEmpty(text) {
   const h1m = text.match(/^#\s+(.+)$/m);
@@ -573,59 +573,59 @@ function updateEmptyIndicators() {
 }
 
 
-/* Mapa topików porządkująca sekcje w bardziej czytelną, hierarchiczną nawigację boczną. */
+/* Mapa topikĂłw porzÄ…dkujÄ…ca sekcje w bardziej czytelnÄ…, hierarchicznÄ… nawigacjÄ™ bocznÄ…. */
 const SIDEBAR_TOPIC_GROUPS = [
   {
     id: 'fundamenty',
     label: 'Fundamenty psychologii',
     colorClass: 'topic-fundamenty',
-    sections: ['Wprowadzenie', 'Filozofia', 'Dla studentów', 'Seminarium dyplomowe', 'Eksperyment psychologiczny']
+    sections: ['Wprowadzenie', 'Filozofia', 'Dla studentĂłw', 'Seminarium dyplomowe', 'Eksperyment psychologiczny']
   },
   {
     id: 'procesy',
-    label: 'Procesy psychiczne i różnice indywidualne',
+    label: 'Procesy psychiczne i rĂłĹĽnice indywidualne',
     colorClass: 'topic-procesy',
-    sections: ['Funkcje poznawcze', 'Emocje i motywacje', 'Temperament', 'Różnice indywidualne', 'Psychologia pozytywna']
+    sections: ['Funkcje poznawcze', 'Emocje i motywacje', 'Temperament', 'RĂłĹĽnice indywidualne', 'Psychologia pozytywna']
   },
   {
     id: 'rozwoj-spoleczenstwo',
-    label: 'Rozwój, relacje i społeczeństwo',
+    label: 'RozwĂłj, relacje i spoĹ‚eczeĹ„stwo',
     colorClass: 'topic-rozwoj',
-    sections: ['Psychologia Rozwojowa', 'Psychologia Społeczna', 'Psychologia Kulturowa', 'Relacje i związki', 'Psychologia szkolna i edukacyjna', 'Psychologia osób z niepełnosprawnością', 'Psychologia osób w podeszłym wieku']
+    sections: ['Psychologia Rozwojowa', 'Psychologia SpoĹ‚eczna', 'Psychologia Kulturowa', 'Relacje i zwiÄ…zki', 'Psychologia szkolna i edukacyjna', 'Psychologia osĂłb z niepeĹ‚nosprawnoĹ›ciÄ…', 'Psychologia osĂłb w podeszĹ‚ym wieku']
   },
   {
     id: 'klinika',
     label: 'Klinika, zdrowie i pomoc',
     colorClass: 'topic-klinika',
-    sections: ['Psychopatologia', 'Zaburzenia kliniczne', 'Przypadki kliniczne', 'Diagnoza psychologiczna (proces)', 'Diagnoza psychologiczna', 'Psychometria', 'Psychoterapia', 'Psychologia zdrowia', 'Psychosomatyka', 'Podstawy pomocy psychologicznej', 'Suicydologia', 'Wstęp do psychologii klinicznej dziecka']
+    sections: ['Psychopatologia', 'Zaburzenia kliniczne', 'Przypadki kliniczne', 'Diagnoza psychologiczna (proces)', 'Diagnoza psychologiczna', 'Psychometria', 'Psychoterapia', 'Psychologia zdrowia', 'Psychosomatyka', 'Podstawy pomocy psychologicznej', 'Suicydologia', 'WstÄ™p do psychologii klinicznej dziecka']
   },
   {
     id: 'neuro',
     label: 'Neuro i biologiczne podstawy',
     colorClass: 'topic-neuro',
-    sections: ['Biologiczne podstawy zachowania', 'Neurobiologia', 'Farmakologia', 'Neuroróżnorodność']
+    sections: ['Biologiczne podstawy zachowania', 'Neurobiologia', 'Farmakologia', 'NeurorĂłĹĽnorodnoĹ›Ä‡']
   },
   {
     id: 'specjalizacje',
     label: 'Specjalizacje i konteksty stosowane',
     colorClass: 'topic-specjalizacje',
-    sections: ['Psychologia Uzależnień', 'Etyka zawodowa', 'Psychologia sądowa i opiniowanie', 'Seksuologia', 'Resocjalizacja', 'Instytucje pomocy dziecku i rodzinie', 'Reagowanie na krytykę', 'Psychologia nadmiernego jedzenia']
+    sections: ['Psychologia UzaleĹĽnieĹ„', 'Etyka zawodowa', 'Psychologia sÄ…dowa i opiniowanie', 'Seksuologia', 'Resocjalizacja', 'Instytucje pomocy dziecku i rodzinie', 'Reagowanie na krytykÄ™', 'Psychologia nadmiernego jedzenia']
   },
   {
     id: 'technologia',
     label: 'Technologia, media i nowe obszary',
     colorClass: 'topic-technologia',
-    sections: ['Psychologia gier wideo', 'Psychologia Sztucznej Inteligencji', 'Psychologia technologii i dobrostan cyfrowy', 'Robotyka afektywna i kognitywistyka', 'E-terapia', 'Ekrany, książki,, a natura', 'Porozumiewanie się bez przemocy (NVC)', 'Arteterapia', 'Animaloterapia']
+    sections: ['Psychologia gier wideo', 'Psychologia Sztucznej Inteligencji', 'Psychologia technologii i dobrostan cyfrowy', 'Robotyka afektywna i kognitywistyka', 'E-terapia', 'Ekrany, ksiÄ…ĹĽki,, a natura', 'Porozumiewanie siÄ™ bez przemocy (NVC)', 'Arteterapia', 'Animaloterapia']
   },
   {
     id: 'zasoby',
-    label: 'Zasoby i słowniki',
+    label: 'Zasoby i sĹ‚owniki',
     colorClass: 'topic-zasoby',
     sections: ['Encyklopedie', 'Referencje']
   }
 ];
 
-/* Grupuje sekcje konfiguracji nawigacji do topików; sekcje nieprzypisane trafiają do grupy „Pozostałe”. */
+/* Grupuje sekcje konfiguracji nawigacji do topikĂłw; sekcje nieprzypisane trafiajÄ… do grupy â€žPozostaĹ‚eâ€ť. */
 function buildSidebarTopicGroups() {
   const sectionMap = new Map(SITE_CONFIG.nav.map(section => [section.section, section]));
   const consumed = new Set();
@@ -646,7 +646,7 @@ function buildSidebarTopicGroups() {
   if (leftoverSections.length > 0) {
     groups.push({
       id: 'pozostale',
-      label: 'Pozostałe',
+      label: 'PozostaĹ‚e',
       colorClass: 'topic-pozostale',
       sections: leftoverSections
     });
@@ -655,14 +655,14 @@ function buildSidebarTopicGroups() {
   return groups;
 }
 
-/* ── Sidebar rendering ─────────────────────── */
+/* â”€â”€ Sidebar rendering â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
 function renderSidebar() {
   const nav = document.getElementById('sidebarNav');
   const active = current || SITE_CONFIG.defaultPage;
   const activeItem = pageMap.get(active);
   const activeSec  = activeItem ? activeItem.section : null;
   let html = '';
-  /* Buduje dwupoziomową strukturę: topik (kolor) → sekcja (zwijana lista artykułów). */
+  /* Buduje dwupoziomowÄ… strukturÄ™: topik (kolor) â†’ sekcja (zwijana lista artykuĹ‚Ăłw). */
   const topicGroups = buildSidebarTopicGroups();
   topicGroups.forEach((topic, topicIndex) => {
     html += `<section class="sidebar-topic ${topic.colorClass}" data-topic="${q(topic.id)}">`;
@@ -679,7 +679,7 @@ function renderSidebar() {
       html += `</button><div class="nav-items" id="${panelId}" role="group" aria-labelledby="${triggerId}">`;
       for (const item of sec.items) {
         if (item.href) {
-          html += `<a class="nav-item nav-item-external" href="${q(item.href)}" target="_blank" rel="noopener noreferrer">${item.label} ↗</a>`;
+          html += `<a class="nav-item nav-item-external" href="${q(item.href)}" target="_blank" rel="noopener noreferrer">${item.label} â†—</a>`;
         } else {
           const cls = ['nav-item', item.wiki?'is-wiki':'', item.kind === 'test' ? 'nav-item-test' : '', item.id===active?'is-active':''].filter(Boolean).join(' ');
           html += `<button type="button" class="${cls} nav-item-btn" data-action="navigate" data-id="${item.id}">${item.label}</button>`;
@@ -692,7 +692,7 @@ function renderSidebar() {
   });
   nav.innerHTML = html;
 }
-/* Bezpiecznie escapuje tekst do atrybutów HTML; akceptuje także wartości niebędące stringiem. */
+/* Bezpiecznie escapuje tekst do atrybutĂłw HTML; akceptuje takĹĽe wartoĹ›ci niebÄ™dÄ…ce stringiem. */
 function q(value){
   return String(value ?? '')
     .replace(/&/g,'&amp;')
@@ -700,7 +700,7 @@ function q(value){
 }
 
 function toggleGroup(group) {
-  /* Przełącza jedną grupę i synchronizuje stan aria-expanded wszystkich nagłówków. */
+  /* PrzeĹ‚Ä…cza jednÄ… grupÄ™ i synchronizuje stan aria-expanded wszystkich nagĹ‚ĂłwkĂłw. */
   if (!group) return;
   const isOpen = group.classList.contains('open');
   document.querySelectorAll('.nav-group').forEach(g => {
@@ -734,7 +734,7 @@ function setActive(id) {
   }
 }
 
-/* Obsługuje kliknięcia i skróty klawiaturowe dla elementów sidebaru przez delegację zdarzeń. */
+/* ObsĹ‚uguje klikniÄ™cia i skrĂłty klawiaturowe dla elementĂłw sidebaru przez delegacjÄ™ zdarzeĹ„. */
 function setupSidebarInteractions() {
   const nav = document.getElementById('sidebarNav');
   if (!nav) return;
@@ -774,13 +774,13 @@ function setupSidebarInteractions() {
   });
 }
 
-/* ── Navigate ──────────────────────────────── */
+/* â”€â”€ Navigate â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
 function navigate(id, replaceHistory) {
   const normalizedId = normalizePageId(id);
   if (!normalizedId) return;
   const item = pageMap.get(normalizedId);
   if (!item) return;
-  /* Dla każdej zmiany podstrony wymuszamy start od góry, aby UX było przewidywalne. */
+  /* Dla kaĹĽdej zmiany podstrony wymuszamy start od gĂłry, aby UX byĹ‚o przewidywalne. */
   window.scrollTo(0, 0);
   cleanupArticleTocObserver();
   current = normalizedId;
@@ -798,40 +798,40 @@ function navigate(id, replaceHistory) {
   else                 renderHome();
 }
 
-/* ── Load markdown ─────────────────────────── */
+/* â”€â”€ Load markdown â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
 async function loadMd(id, item) {
   const area = document.getElementById('content');
-  area.innerHTML = '<div class="loading"><div class="spinner"></div>Ładowanie…</div>';
+  area.innerHTML = '<div class="loading"><div class="spinner"></div>Ĺadowanieâ€¦</div>';
   setBreadcrumb(item);
   if (mdCache.has(item.file)) {
     try {
       renderMd(mdCache.get(item.file), id, item);
       prefetch(id);
     } catch (e) {
-      console.error('[PsyHub] Błąd renderowania artykułu z cache:', item.file, e);
-      area.innerHTML = '<div class="error-box"><h2>Błąd renderowania treści</h2><p>Artykuł istnieje, ale wystąpił błąd podczas wyświetlania. Sprawdź konsolę deweloperską.</p></div>';
+      console.error('[PsyHub] BĹ‚Ä…d renderowania artykuĹ‚u z cache:', item.file, e);
+      area.innerHTML = '<div class="error-box"><h2>BĹ‚Ä…d renderowania treĹ›ci</h2><p>ArtykuĹ‚ istnieje, ale wystÄ…piĹ‚ bĹ‚Ä…d podczas wyĹ›wietlania. SprawdĹş konsolÄ™ deweloperskÄ….</p></div>';
     }
     return;
   }
 
   let markdownText = null;
   try {
-    /* Pobieramy markdown przez helper z fallbackami ścieżek, aby zwiększyć niezawodność na hostingu statycznym. */
+    /* Pobieramy markdown przez helper z fallbackami Ĺ›cieĹĽek, aby zwiÄ™kszyÄ‡ niezawodnoĹ›Ä‡ na hostingu statycznym. */
     const fetched = await fetchArticleMarkdown(item.file);
     markdownText = fetched.text;
     mdCache.set(item.file, markdownText);
     const parsed = parseArticleFrontmatter(markdownText);
     if (isBodyEmpty(parsed.body)) { emptyArticles.add(id); updateEmptyIndicators(); }
   } catch (e) {
-    /* Brak pliku/HTTP błąd — traktujemy jako artykuł w przygotowaniu. */
+    /* Brak pliku/HTTP bĹ‚Ä…d â€” traktujemy jako artykuĹ‚ w przygotowaniu. */
     emptyArticles.add(id);
     updateEmptyIndicators();
     const title = item.label;
     const {prev,next} = prevNext(id);
-    const prevB = prev ? `<button class="pnav-btn" onclick="navigate('${prev.id}')"><span>← ${prev.label}</span></button>`
-                       : `<button class="pnav-btn" disabled><span>←</span></button>`;
-    const nextB = next ? `<button class="pnav-btn" onclick="navigate('${next.id}')"><span>${next.label} →</span></button>`
-                       : `<button class="pnav-btn" disabled><span>→</span></button>`;
+    const prevB = prev ? `<button class="pnav-btn" onclick="navigate('${prev.id}')"><span>â† ${prev.label}</span></button>`
+                       : `<button class="pnav-btn" disabled><span>â†</span></button>`;
+    const nextB = next ? `<button class="pnav-btn" onclick="navigate('${next.id}')"><span>${next.label} â†’</span></button>`
+                       : `<button class="pnav-btn" disabled><span>â†’</span></button>`;
     const domainKey = getDomainKeyForItem(id, item);
     const planItems = (SITE_CONFIG.plans || {})[domainKey] || [];
     const plansHtml = planItems.length ? renderPlans(planItems, id) : '';
@@ -847,6 +847,7 @@ async function loadMd(id, item) {
       <div class="page-nav">${prevB}${nextB}</div>
     </div>`;
     window.scrollTo(0,0);
+      setupMeasurementToolsSection(area);
     animateContentIn();
     return;
   }
@@ -855,9 +856,9 @@ async function loadMd(id, item) {
     renderMd(markdownText, id, item);
     prefetch(id);
   } catch (e) {
-    /* Awaria renderowania nie oznacza braku pliku — pokazujemy precyzyjny komunikat. */
-    console.error('[PsyHub] Błąd renderowania artykułu:', item.file, e);
-    area.innerHTML = '<div class="error-box"><h2>Błąd renderowania treści</h2><p>Artykuł został wczytany, ale nie udało się go wyrenderować. Sprawdź konsolę deweloperską.</p></div>';
+    /* Awaria renderowania nie oznacza braku pliku â€” pokazujemy precyzyjny komunikat. */
+    console.error('[PsyHub] BĹ‚Ä…d renderowania artykuĹ‚u:', item.file, e);
+    area.innerHTML = '<div class="error-box"><h2>BĹ‚Ä…d renderowania treĹ›ci</h2><p>ArtykuĹ‚ zostaĹ‚ wczytany, ale nie udaĹ‚o siÄ™ go wyrenderowaÄ‡. SprawdĹş konsolÄ™ deweloperskÄ….</p></div>';
   }
 }
 
@@ -871,10 +872,10 @@ function renderMd(text, id, item) {
   const title = h1m ? h1m[1] : item.label;
   const body  = h1m ? articleText.slice(articleText.indexOf(h1m[0])+h1m[0].length) : articleText;
   const {prev,next} = prevNext(id);
-  const prevB = prev ? `<button class="pnav-btn" onclick="navigate('${prev.id}')"><span>← ${prev.label}</span></button>`
-                     : `<button class="pnav-btn" disabled><span>←</span></button>`;
-  const nextB = next ? `<button class="pnav-btn" onclick="navigate('${next.id}')"><span>${next.label} →</span></button>`
-                     : `<button class="pnav-btn" disabled><span>→</span></button>`;
+  const prevB = prev ? `<button class="pnav-btn" onclick="navigate('${prev.id}')"><span>â† ${prev.label}</span></button>`
+                     : `<button class="pnav-btn" disabled><span>â†</span></button>`;
+  const nextB = next ? `<button class="pnav-btn" onclick="navigate('${next.id}')"><span>${next.label} â†’</span></button>`
+                     : `<button class="pnav-btn" disabled><span>â†’</span></button>`;
 
   // domain plans block
   const domainKey = getDomainKeyForItem(id, item);
@@ -887,7 +888,7 @@ function renderMd(text, id, item) {
   if (isEmpty) emptyArticles.add(id);
   const emptyBanner = isEmpty ? EMPTY_BANNER_HTML : '';
   const articleReviewMetaHtml = renderArticleReviewMetaBadges(metadata);
-  /* Nadajemy klasę animacji tylko tytułowi artykułu, aby styl był kontrolowany centralnie w CSS. */
+  /* Nadajemy klasÄ™ animacji tylko tytuĹ‚owi artykuĹ‚u, aby styl byĹ‚ kontrolowany centralnie w CSS. */
 
   area.innerHTML = `<div class="rendered">
     <div class="page-hero">
@@ -913,10 +914,11 @@ function renderMd(text, id, item) {
   addKeywordLinksToRenderedArticle(area.querySelector('.md'), id);
   setupArticleToc(area, id);
   setupCopyLinkButton(area, id);
+  setupMeasurementToolsSection(area);
   animateContentIn();
 }
 
-/* Czyści obserwatora TOC, aby uniknąć wycieków i konfliktów między podstronami. */
+/* CzyĹ›ci obserwatora TOC, aby uniknÄ…Ä‡ wyciekĂłw i konfliktĂłw miÄ™dzy podstronami. */
 function cleanupArticleTocObserver() {
   if (articleTocObserver) {
     articleTocObserver.disconnect();
@@ -926,7 +928,7 @@ function cleanupArticleTocObserver() {
   articleTocCurrentPageId = null;
 }
 
-/* Normalizuje tekst nagłówka do postaci bezpiecznego identyfikatora HTML. */
+/* Normalizuje tekst nagĹ‚Ăłwka do postaci bezpiecznego identyfikatora HTML. */
 function slugifyHeading(text) {
   return (text || '')
     .toLowerCase()
@@ -939,24 +941,24 @@ function slugifyHeading(text) {
 /* Rozdziela hash na identyfikator strony i opcjonalny identyfikator sekcji. */
 function parseRouteHash(rawHash) {
   const cleanHash = (rawHash || '').replace(/^#/, '');
-  /* Dekodujemy hash defensywnie (np. %2F), aby działały także linki kopiowane z różnych źródeł. */
+  /* Dekodujemy hash defensywnie (np. %2F), aby dziaĹ‚aĹ‚y takĹĽe linki kopiowane z rĂłĹĽnych ĹşrĂłdeĹ‚. */
   let decodedHash = cleanHash;
   try {
     decodedHash = decodeURIComponent(cleanHash);
   } catch (_) {
-    /* Gdy hash ma niepoprawne kodowanie, zachowujemy wartość surową zamiast przerywać routing. */
+    /* Gdy hash ma niepoprawne kodowanie, zachowujemy wartoĹ›Ä‡ surowÄ… zamiast przerywaÄ‡ routing. */
     decodedHash = cleanHash;
   }
   const [pageId, sectionId] = decodedHash.split('::');
   return { pageId: normalizePageId(pageId), sectionId: sectionId || '' };
 }
 
-/* Składa hash routingu strony z opcjonalnym identyfikatorem sekcji artykułu. */
+/* SkĹ‚ada hash routingu strony z opcjonalnym identyfikatorem sekcji artykuĹ‚u. */
 function buildRouteHash(pageId, sectionId) {
   return `#${pageId}${sectionId ? `::${sectionId}` : ''}`;
 }
 
-/* Normalizuje identyfikator strony z URL (obsługuje m.in. #/id/, #id.md i nadmiarowe spacje). */
+/* Normalizuje identyfikator strony z URL (obsĹ‚uguje m.in. #/id/, #id.md i nadmiarowe spacje). */
 function normalizePageId(rawPageId) {
   if (typeof rawPageId !== 'string') return '';
   const trimmed = rawPageId.trim();
@@ -967,7 +969,7 @@ function normalizePageId(rawPageId) {
     .replace(/\.md$/i, '');
 }
 
-/* Ustawia klasę aktywnego elementu TOC na podstawie aktualnej sekcji artykułu. */
+/* Ustawia klasÄ™ aktywnego elementu TOC na podstawie aktualnej sekcji artykuĹ‚u. */
 function setActiveTocItem(sectionId) {
   document.querySelectorAll('.article-toc-link').forEach(link => {
     const isActive = link.dataset.sectionId === sectionId;
@@ -977,7 +979,7 @@ function setActiveTocItem(sectionId) {
   });
 }
 
-/* Przewija do wskazanego nagłówka artykułu i synchronizuje zaznaczenie TOC. */
+/* Przewija do wskazanego nagĹ‚Ăłwka artykuĹ‚u i synchronizuje zaznaczenie TOC. */
 function scrollToArticleSection(sectionId) {
   if (!sectionId) return;
   const target = document.getElementById(sectionId);
@@ -986,7 +988,7 @@ function scrollToArticleSection(sectionId) {
   setActiveTocItem(sectionId);
 }
 
-/* Konfiguruje przycisk kopiowania bezpośredniego linku do aktualnie otwartego artykułu. */
+/* Konfiguruje przycisk kopiowania bezpoĹ›redniego linku do aktualnie otwartego artykuĹ‚u. */
 function setupCopyLinkButton(area, pageId) {
   const copyBtn = area.querySelector('#copyArticleLinkButton');
   if (!copyBtn) return;
@@ -1006,13 +1008,13 @@ function setupCopyLinkButton(area, pageId) {
         copyBtn.classList.remove('is-copied');
       }, 1200);
     } catch (_) {
-      /* Gdy Clipboard API zawiedzie, robimy fallback przez prompt dla kompatybilności. */
-      window.prompt('Skopiuj link ręcznie:', articleUrl.toString());
+      /* Gdy Clipboard API zawiedzie, robimy fallback przez prompt dla kompatybilnoĹ›ci. */
+      window.prompt('Skopiuj link rÄ™cznie:', articleUrl.toString());
     }
   });
 }
 
-/* Buduje TOC z nagłówków H2/H3 i aktywuje podświetlanie sekcji podczas przewijania. */
+/* Buduje TOC z nagĹ‚ĂłwkĂłw H2/H3 i aktywuje podĹ›wietlanie sekcji podczas przewijania. */
 function setupArticleToc(area, pageId) {
   cleanupArticleTocObserver();
   const tocHost = area.querySelector('#articleToc');
@@ -1043,14 +1045,14 @@ function setupArticleToc(area, pageId) {
   }).join('');
 
   const isMobileViewport = window.matchMedia(`(max-width: ${MOBILE_BREAKPOINT}px)`).matches;
-  /* Na urządzeniach mobilnych umieszczamy TOC w rozwijanym panelu, aby był widoczny i nie zajmował stale miejsca. */
+  /* Na urzÄ…dzeniach mobilnych umieszczamy TOC w rozwijanym panelu, aby byĹ‚ widoczny i nie zajmowaĹ‚ stale miejsca. */
   tocHost.innerHTML = isMobileViewport
     ? `<details class="article-toc-mobile">
-        <summary class="article-toc-mobile-summary">Spis treści</summary>
+        <summary class="article-toc-mobile-summary">Spis treĹ›ci</summary>
         <ul class="article-toc-list">${tocItems}</ul>
       </details>`
     : `
-        <h2 class="article-toc-title">Spis treści</h2>
+        <h2 class="article-toc-title">Spis treĹ›ci</h2>
         <ul class="article-toc-list">${tocItems}</ul>
       `;
 
@@ -1066,7 +1068,7 @@ function setupArticleToc(area, pageId) {
   articleTocHeadings = headings;
   articleTocCurrentPageId = pageId;
 
-  /* Na mobile pomijamy IntersectionObserver, aby zmniejszyć koszt renderowania na długich artykułach. */
+  /* Na mobile pomijamy IntersectionObserver, aby zmniejszyÄ‡ koszt renderowania na dĹ‚ugich artykuĹ‚ach. */
   if (!isMobileViewport) {
     articleTocObserver = new IntersectionObserver(entries => {
       const visible = entries
@@ -1093,27 +1095,27 @@ const testsUI = window.PsyHubTestsUI || null;
 function renderSpecializationTest(id, item) {
   if (!testsUI || typeof testsUI.renderSpecializationTest !== 'function') {
     const area = document.getElementById('content');
-    area.innerHTML = '<div class="error-box"><h2>Błąd ładowania modułu</h2><p>Nie udało się wczytać interfejsu testów.</p></div>';
+    area.innerHTML = '<div class="error-box"><h2>BĹ‚Ä…d Ĺ‚adowania moduĹ‚u</h2><p>Nie udaĹ‚o siÄ™ wczytaÄ‡ interfejsu testĂłw.</p></div>';
     return;
   }
   return testsUI.renderSpecializationTest(id, item);
 }
 
-/* ── Daily Psychology renderer ───────────────────── */
+/* â”€â”€ Daily Psychology renderer â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
 let dailySelectedDay = null; /* null = today */
 let dailyPsychologyFactsCache = null;
 
-/* Pobiera i buforuje listę ciekawostek do sekcji Daily Psychology. */
+/* Pobiera i buforuje listÄ™ ciekawostek do sekcji Daily Psychology. */
 async function loadDailyPsychologyFacts() {
   if (dailyPsychologyFactsCache) return dailyPsychologyFactsCache;
   const response = await fetch(REMINDER_FACTS_URL, { cache: 'no-store' });
-  if (!response.ok) throw new Error('Nie udało się pobrać ciekawostek Daily Psychology.');
+  if (!response.ok) throw new Error('Nie udaĹ‚o siÄ™ pobraÄ‡ ciekawostek Daily Psychology.');
   const payload = await response.json();
   const facts = Array.isArray(payload?.facts) ? payload.facts : [];
   dailyPsychologyFactsCache = facts
     .filter(item => item?.title && (item?.message || item?.lead || item?.body))
     .map(item => ({
-      /* Ujednolicamy schemat danych: JSON może zawierać lead/body zamiast message. */
+      /* Ujednolicamy schemat danych: JSON moĹĽe zawieraÄ‡ lead/body zamiast message. */
       title: item.title,
       message: item.message || item.lead || '',
       body: item.body || '',
@@ -1122,7 +1124,7 @@ async function loadDailyPsychologyFacts() {
   return dailyPsychologyFactsCache;
 }
 
-/* Zwraca lokalny poniedziałek 00:00 dla tygodnia wskazanej daty. */
+/* Zwraca lokalny poniedziaĹ‚ek 00:00 dla tygodnia wskazanej daty. */
 function getWeekStartMonday(date = new Date()) {
   const weekStart = new Date(date);
   weekStart.setHours(0, 0, 0, 0);
@@ -1132,7 +1134,7 @@ function getWeekStartMonday(date = new Date()) {
   return weekStart;
 }
 
-/* Buduje deterministyczny zestaw 7 ciekawostek aktualny od poniedziałku 00:00. */
+/* Buduje deterministyczny zestaw 7 ciekawostek aktualny od poniedziaĹ‚ku 00:00. */
 function getWeeklyFactsMap(facts, weekStart = getWeekStartMonday()) {
   if (!Array.isArray(facts) || facts.length === 0) return new Map();
   const MILLISECONDS_IN_A_DAY = 24 * 60 * 60 * 1000;
@@ -1153,14 +1155,14 @@ function renderDailyPsychology(id, item) {
   setBreadcrumb(item);
   const data = window.DAILY_PSYCHOLOGY;
   if (!data) {
-    area.innerHTML = '<div class="error-box"><h2>Błąd ładowania modułu</h2><p>Nie udało się wczytać danych psychologii codziennej.</p></div>';
+    area.innerHTML = '<div class="error-box"><h2>BĹ‚Ä…d Ĺ‚adowania moduĹ‚u</h2><p>Nie udaĹ‚o siÄ™ wczytaÄ‡ danych psychologii codziennej.</p></div>';
     return;
   }
-  /* Porządek tygodnia w UI zaczynamy od poniedziałku niezależnie od lokalizacji. */
+  /* PorzÄ…dek tygodnia w UI zaczynamy od poniedziaĹ‚ku niezaleĹĽnie od lokalizacji. */
   const WEEK_ORDER_MONDAY_FIRST = [1, 2, 3, 4, 5, 6, 0];
   const sortByMondayFirst = (entries) =>
     [...entries].sort((a, b) => WEEK_ORDER_MONDAY_FIRST.indexOf(a.day) - WEEK_ORDER_MONDAY_FIRST.indexOf(b.day));
-  /* Stabilny wybór wariantu na podstawie aktualnej daty i numeru dnia. */
+  /* Stabilny wybĂłr wariantu na podstawie aktualnej daty i numeru dnia. */
   const pickDailyVariant = (variants, dayNumber) => {
     if (!Array.isArray(variants) || variants.length === 0) return null;
     const dateKey = new Date().toISOString().slice(0, 10).replace(/-/g, '');
@@ -1168,25 +1170,25 @@ function renderDailyPsychology(id, item) {
     return variants[Math.abs(seed) % variants.length];
   };
 
-  const today = new Date().getDay(); /* 0=niedziela … 6=sobota */
+  const today = new Date().getDay(); /* 0=niedziela â€¦ 6=sobota */
   const orderedData = sortByMondayFirst(data);
   const displayDay = (dailySelectedDay !== null) ? dailySelectedDay : today;
   const entry = orderedData.find(e => e.day === displayDay) || orderedData[0];
   const curiosity = pickDailyVariant(entry.curiosityVariants, entry.day) || entry.curiosity;
   const exercise = pickDailyVariant(entry.exerciseVariants, entry.day) || entry.exercise;
 
-  /* Domyślnie renderujemy treść lokalną; po pobraniu danych podmieniamy ciekawostkę na wariant tygodniowy. */
+  /* DomyĹ›lnie renderujemy treĹ›Ä‡ lokalnÄ…; po pobraniu danych podmieniamy ciekawostkÄ™ na wariant tygodniowy. */
   const weeklyFactFallback = null;
 
   const typeLabels = {
-    reflection: 'Refleksja', challenge: 'Wyzwanie', bodyscan: 'Skan ciała',
-    writing: 'Pisanie', mindfulness: 'Uważność', social: 'Wyzwanie społeczne', creative: 'Kreatywność'
+    reflection: 'Refleksja', challenge: 'Wyzwanie', bodyscan: 'Skan ciaĹ‚a',
+    writing: 'Pisanie', mindfulness: 'UwaĹĽnoĹ›Ä‡', social: 'Wyzwanie spoĹ‚eczne', creative: 'KreatywnoĹ›Ä‡'
   };
 
   const navBtns = orderedData.map(e => {
     const isToday = e.day === today;
     const isActive = e.day === displayDay;
-    const todayMark = isToday ? `<span class="daily-today-label">dziś</span>` : '';
+    const todayMark = isToday ? `<span class="daily-today-label">dziĹ›</span>` : '';
     return `<button class="daily-day-btn${isActive ? ' is-active' : ''}" onclick="selectDailyDay(${e.day})">${e.emoji} ${e.dayName}${todayMark}</button>`;
   }).join('');
 
@@ -1200,7 +1202,7 @@ function renderDailyPsychology(id, item) {
     <div class="page-hero">
       <span class="chapter-lbl">${item.section || ''}</span>
       <h1>Psychologia Codzienna</h1>
-      <p class="lead">Codzienna dawka wiedzy psychologicznej i pracy nad sobą — zależnie od dnia tygodnia.</p>
+      <p class="lead">Codzienna dawka wiedzy psychologicznej i pracy nad sobÄ… â€” zaleĹĽnie od dnia tygodnia.</p>
     </div>
     <div class="daily-nav">${navBtns}</div>
     <div class="daily-day-badge">${entry.emoji} ${entry.dayName}</div>
@@ -1208,18 +1210,18 @@ function renderDailyPsychology(id, item) {
 
     <div class="daily-card">
       <div class="daily-card-hdr">
-        <span class="daily-card-icon">🧠</span>
+        <span class="daily-card-icon">đź§ </span>
         <span class="daily-card-label curiosity">Ciekawostka psychologiczna</span>
       </div>
       <div class="daily-card-title">${(weeklyFactFallback?.title || curiosity.title)}</div>
       <div class="daily-card-lead">${(weeklyFactFallback?.message || curiosity.lead)}</div>
-      <div class="daily-card-body">${weeklyFactFallback?.body ? `<p>${weeklyFactFallback.body}</p>` : bodyParas}${weeklyFactFallback?.source ? `<p><strong>Źródło:</strong> ${weeklyFactFallback.source}</p>` : ''}</div>
+      <div class="daily-card-body">${weeklyFactFallback?.body ? `<p>${weeklyFactFallback.body}</p>` : bodyParas}${weeklyFactFallback?.source ? `<p><strong>ĹąrĂłdĹ‚o:</strong> ${weeklyFactFallback.source}</p>` : ''}</div>
     </div>
 
     <div class="daily-card">
       <div class="daily-card-hdr">
-        <span class="daily-card-icon">✏️</span>
-        <span class="daily-card-label exercise">Praca nad sobą</span>
+        <span class="daily-card-icon">âśŹď¸Ź</span>
+        <span class="daily-card-label exercise">Praca nad sobÄ…</span>
       </div>
       <div class="daily-card-title">${exercise.title}</div>
       <span class="daily-exercise-type ${exercise.type}">${typeLabels[exercise.type] || exercise.type}</span>
@@ -1230,7 +1232,7 @@ function renderDailyPsychology(id, item) {
   window.scrollTo(0, 0);
   animateContentIn();
 
-  /* Asynchroniczna aktualizacja: odświeża ciekawostkę raz na tydzień (poniedziałek, 00:00 czasu lokalnego). */
+  /* Asynchroniczna aktualizacja: odĹ›wieĹĽa ciekawostkÄ™ raz na tydzieĹ„ (poniedziaĹ‚ek, 00:00 czasu lokalnego). */
   loadDailyPsychologyFacts()
     .then(facts => {
       const weeklyFacts = getWeeklyFactsMap(facts, getWeekStartMonday(new Date()));
@@ -1242,26 +1244,26 @@ function renderDailyPsychology(id, item) {
       if (!titleNode || !leadNode || !bodyNode) return;
       titleNode.textContent = fact.title;
       leadNode.textContent = fact.message;
-      bodyNode.innerHTML = `${fact.body ? `<p>${fact.body}</p>` : ''}${fact.source ? `<p><strong>Źródło:</strong> ${fact.source}</p>` : ''}`;
+      bodyNode.innerHTML = `${fact.body ? `<p>${fact.body}</p>` : ''}${fact.source ? `<p><strong>ĹąrĂłdĹ‚o:</strong> ${fact.source}</p>` : ''}`;
     })
     .catch(() => {
-      /* Cichy fallback: gdy JSON nie jest dostępny, pozostaje treść lokalna z daily-psychology.js. */
+      /* Cichy fallback: gdy JSON nie jest dostÄ™pny, pozostaje treĹ›Ä‡ lokalna z daily-psychology.js. */
     });
 }
 
 window.selectDailyDay = function(day) {
   dailySelectedDay = day;
-  if (current === 'students/psychologia_codziennej') {
+  if (current === 'dla_studentow/psychologia_codziennej') {
     renderDailyPsychology(current, pageMap.get(current));
   }
 };
 
-/* ── Theoretical Test renderer ──────────────────────── */
+/* â”€â”€ Theoretical Test renderer â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
 
 function renderTheoreticalTest(id, item) {
   if (!testsUI || typeof testsUI.renderTheoreticalTest !== 'function') {
     const area = document.getElementById('content');
-    area.innerHTML = '<div class="error-box"><h2>Błąd ładowania modułu</h2><p>Nie udało się wczytać interfejsu testów.</p></div>';
+    area.innerHTML = '<div class="error-box"><h2>BĹ‚Ä…d Ĺ‚adowania moduĹ‚u</h2><p>Nie udaĹ‚o siÄ™ wczytaÄ‡ interfejsu testĂłw.</p></div>';
     return;
   }
   return testsUI.renderTheoreticalTest(id, item);
@@ -1276,7 +1278,7 @@ function renderPlans(items, currentId) {
     const cls    = ['plan-item', effectiveStatus].join(' ');
     const navTo  = fileId ? `onclick="navigate('${fileId}')"` : '';
     const artid  = fileId ? `data-artid="${fileId}"` : '';
-    const badge  = isEmpty ? 'pusty' : (it.status==='live' ? 'dostępny' : 'planowany');
+    const badge  = isEmpty ? 'pusty' : (it.status==='live' ? 'dostÄ™pny' : 'planowany');
     return `<div class="${cls}" ${artid} ${effectiveStatus==='live'||effectiveStatus==='is-empty' ? navTo : ''}>
       <div class="plan-dot ${effectiveStatus}"></div>
       <span class="plan-label">${it.label}</span>
@@ -1284,19 +1286,19 @@ function renderPlans(items, currentId) {
     </div>`;
   }).join('');
   return `<div class="plans-section">
-    <h2>Artykuły w tym dziale</h2>
+    <h2>ArtykuĹ‚y w tym dziale</h2>
     <div class="plans-grid">${rows}</div>
   </div>`;
 }
 
-/* Zwraca znormalizowaną etykietę tekstową dla pól, które mogą nie mieć danych. */
+/* Zwraca znormalizowanÄ… etykietÄ™ tekstowÄ… dla pĂłl, ktĂłre mogÄ… nie mieÄ‡ danych. */
 function renderToolField(value, missingLabel) {
   const cleanedValue = typeof value === 'string' ? value.trim() : value;
   if (!cleanedValue) return `<span class="tool-missing">${q(missingLabel)}</span>`;
   return q(cleanedValue);
 }
 
-/* Renderuje listę pozycji źródłowych dla danych metodologicznych narzędzia. */
+/* Renderuje listÄ™ pozycji ĹşrĂłdĹ‚owych dla danych metodologicznych narzÄ™dzia. */
 function renderToolListField(values, missingLabel) {
   if (!Array.isArray(values) || values.length === 0) {
     return `<span class="tool-missing">${q(missingLabel)}</span>`;
@@ -1305,20 +1307,158 @@ function renderToolListField(values, missingLabel) {
   return `<ul class="measurement-tool-source-list">${values.map(value => `<li>${q(value)}</li>`).join('')}</ul>`;
 }
 
+/* Normalizuje token filtrĂłw, aby porĂłwnania byĹ‚y stabilne i odporne na wielkoĹ›Ä‡ liter. */
+function normalizeToolFilterToken(value) {
+  return String(value || '').trim().toLowerCase();
+}
+
+/* Zwraca unikalne wartoĹ›ci pola narzÄ™dzi posortowane alfabetycznie. */
+function getUniqueToolFieldValues(tools, fieldName) {
+  const values = Array.from(new Set(
+    (Array.isArray(tools) ? tools : [])
+      .map(tool => normalizeToolFilterToken(tool?.[fieldName]))
+      .filter(Boolean)
+  ));
+  return values.sort((a, b) => a.localeCompare(b, 'pl'));
+}
+
+/* Buduje UI filtrĂłw i eksportu dla katalogu narzÄ™dzi pomiarowych. */
+function renderMeasurementToolsControls(tools, domainKey) {
+  const typeOptions = getUniqueToolFieldValues(tools, 'type');
+  const licenseOptions = getUniqueToolFieldValues(tools, 'license');
+  const evidenceOptions = getUniqueToolFieldValues(tools, 'evidenceLevel');
+
+  const makeOptionsHtml = values => values
+    .map(value => `<option value="${q(value)}">${q(value)}</option>`)
+    .join('');
+
+  return `<div class="measurement-tools-controls">
+    <div class="measurement-tools-filters">
+      <label class="measurement-tools-filter">
+        <span>Typ</span>
+        <select class="measurement-tools-filter-select" data-filter="type" onchange="applyMeasurementToolFilters(this.closest('.measurement-tools-section'))">
+          <option value="">Wszystkie</option>
+          ${makeOptionsHtml(typeOptions)}
+        </select>
+      </label>
+      <label class="measurement-tools-filter">
+        <span>Licencja</span>
+        <select class="measurement-tools-filter-select" data-filter="license" onchange="applyMeasurementToolFilters(this.closest('.measurement-tools-section'))">
+          <option value="">Wszystkie</option>
+          ${makeOptionsHtml(licenseOptions)}
+        </select>
+      </label>
+      <label class="measurement-tools-filter">
+        <span>Evidence level</span>
+        <select class="measurement-tools-filter-select" data-filter="evidence" onchange="applyMeasurementToolFilters(this.closest('.measurement-tools-section'))">
+          <option value="">Wszystkie</option>
+          ${makeOptionsHtml(evidenceOptions)}
+        </select>
+      </label>
+    </div>
+    <div class="measurement-tools-actions">
+      <button type="button" class="measurement-tools-export-btn" onclick="exportMeasurementTools('csv', this)">Eksport CSV</button>
+      <button type="button" class="measurement-tools-export-btn" onclick="exportMeasurementTools('json', this)">Eksport JSON</button>
+    </div>
+  </div>`;
+}
+
+/* NakĹ‚ada filtry na karty narzÄ™dzi i aktualizuje licznik widocznych wynikĂłw. */
+function applyMeasurementToolFilters(sectionElement) {
+  const section = sectionElement || document.querySelector('.measurement-tools-section');
+  if (!section) return;
+
+  const filterType = normalizeToolFilterToken(section.querySelector('[data-filter="type"]')?.value);
+  const filterLicense = normalizeToolFilterToken(section.querySelector('[data-filter="license"]')?.value);
+  const filterEvidence = normalizeToolFilterToken(section.querySelector('[data-filter="evidence"]')?.value);
+
+  const cards = Array.from(section.querySelectorAll('.measurement-tool-card[data-tool-index]'));
+  let visibleCount = 0;
+
+  cards.forEach(card => {
+    const typeToken = normalizeToolFilterToken(card.dataset.toolType);
+    const licenseToken = normalizeToolFilterToken(card.dataset.toolLicense);
+    const evidenceToken = normalizeToolFilterToken(card.dataset.toolEvidence);
+
+    const isVisible = (!filterType || typeToken === filterType)
+      && (!filterLicense || licenseToken === filterLicense)
+      && (!filterEvidence || evidenceToken === filterEvidence);
+
+    card.hidden = !isVisible;
+    if (isVisible) visibleCount += 1;
+  });
+
+  const countElement = section.querySelector('.measurement-tools-count');
+  if (countElement) {
+    countElement.textContent = `Widoczne narzÄ™dzia: ${visibleCount} / ${cards.length}`;
+  }
+}
+
+/* Przygotowuje dane aktualnie widocznych narzÄ™dzi do eksportu. */
+function getVisibleMeasurementToolsForExport(section) {
+  const domainKey = section?.dataset?.domainKey;
+  const allTools = (SITE_CONFIG.measurementToolsByDomain || {})[domainKey] || [];
+  const visibleIndexes = Array.from(section.querySelectorAll('.measurement-tool-card[data-tool-index]'))
+    .filter(card => !card.hidden)
+    .map(card => Number(card.dataset.toolIndex))
+    .filter(index => Number.isInteger(index) && index >= 0);
+
+  return visibleIndexes.map(index => allTools[index]).filter(Boolean);
+}
+
+/* Tworzy i pobiera plik eksportu dla narzÄ™dzi (CSV/JSON). */
+function exportMeasurementTools(format, triggerElement) {
+  const section = triggerElement?.closest('.measurement-tools-section') || document.querySelector('.measurement-tools-section');
+  if (!section) return;
+
+  const tools = getVisibleMeasurementToolsForExport(section);
+  if (!tools.length) return;
+
+  const domainKey = section.dataset.domainKey || 'tools';
+  const stamp = new Date().toISOString().slice(0, 10);
+
+  let content = '';
+  let mimeType = '';
+  let fileExtension = '';
+
+  if (format === 'json') {
+    content = JSON.stringify(tools, null, 2);
+    mimeType = 'application/json;charset=utf-8';
+    fileExtension = 'json';
+  } else {
+    const headers = ['id', 'name', 'type', 'evidenceLevel', 'license', 'population', 'ageRange', 'administrationTime'];
+    const escapeCsv = value => `"${String(value ?? '').replace(/"/g, '""')}"`;
+    const rows = tools.map(tool => headers.map(header => escapeCsv(tool?.[header])).join(','));
+    content = [headers.join(','), ...rows].join('\n');
+    mimeType = 'text/csv;charset=utf-8';
+    fileExtension = 'csv';
+  }
+
+  const blob = new Blob([content], { type: mimeType });
+  const url = URL.createObjectURL(blob);
+  const anchor = document.createElement('a');
+  anchor.href = url;
+  anchor.download = `measurement_tools_${domainKey}_${stamp}.${fileExtension}`;
+  document.body.appendChild(anchor);
+  anchor.click();
+  anchor.remove();
+  URL.revokeObjectURL(url);
+}
+
 /* Buduje zwijalny blok z rozszerzonymi informacjami metodologicznymi. */
 function renderMethodologyDetails(tool) {
   return `<details class="measurement-methodology-details">
-    <summary class="measurement-methodology-summary">Pokaż metodologię</summary>
+    <summary class="measurement-methodology-summary">PokaĹĽ metodologiÄ™</summary>
     <div class="measurement-methodology-content">
-      <h4 class="measurement-methodology-title">Szczegóły metodologiczne</h4>
+      <h4 class="measurement-methodology-title">SzczegĂłĹ‚y metodologiczne</h4>
       <div class="measurement-tool-meta"><strong>Typ dowodu:</strong> ${renderToolField(tool.evidenceType, 'brak danych o typie dowodu')}</div>
-      <div class="measurement-tool-meta"><strong>Informacje o próbie:</strong> ${renderToolField(tool.sampleInfo, 'brak danych o próbie')}</div>
+      <div class="measurement-tool-meta"><strong>Informacje o prĂłbie:</strong> ${renderToolField(tool.sampleInfo, 'brak danych o prĂłbie')}</div>
       <div class="measurement-tool-meta"><strong>Kraj norm:</strong> ${renderToolField(tool.normCountry, 'brak danych o kraju norm')}</div>
       <div class="measurement-tool-meta"><strong>Rok norm:</strong> ${renderToolField(tool.normYear, 'brak danych o roku norm')}</div>
-      <div class="measurement-tool-meta"><strong>Informacja o wielkości efektu:</strong> ${renderToolField(tool.effectSizeInfo, 'brak danych o wielkości efektu')}</div>
+      <div class="measurement-tool-meta"><strong>Informacja o wielkoĹ›ci efektu:</strong> ${renderToolField(tool.effectSizeInfo, 'brak danych o wielkoĹ›ci efektu')}</div>
       <div class="measurement-tool-meta"><strong>Kluczowe publikacje:</strong> ${renderToolListField(tool.sourceRefs, 'brak wskazanych publikacji')}</div>
-      <div class="measurement-tool-meta"><strong>Rzetelność:</strong> ${renderToolField(tool.reliability, 'brak danych o rzetelności')}</div>
-      <div class="measurement-tool-meta"><strong>Trafność:</strong> ${renderToolField(tool.validity, 'brak danych o trafności')}</div>
+      <div class="measurement-tool-meta"><strong>RzetelnoĹ›Ä‡:</strong> ${renderToolField(tool.reliability, 'brak danych o rzetelnoĹ›ci')}</div>
+      <div class="measurement-tool-meta"><strong>TrafnoĹ›Ä‡:</strong> ${renderToolField(tool.validity, 'brak danych o trafnoĹ›ci')}</div>
       <div class="measurement-tool-meta"><strong>Normy:</strong> ${renderToolField(tool.normsInfo, 'brak danych o normach')}</div>
       <div class="measurement-tool-meta"><strong>Ograniczenia:</strong> ${renderToolField(tool.limitations, 'brak danych o ograniczeniach')}</div>
       <div class="measurement-tool-meta"><strong>Uwagi etyczne:</strong> ${renderToolField(tool.ethicalNotes, 'brak danych etycznych')}</div>
@@ -1327,32 +1467,32 @@ function renderMethodologyDetails(tool) {
   </details>`;
 }
 
-/* Buduje zestaw ostrzeżeń dla narzędzia, jeśli wymaga licencji lub uprawnień. */
+/* Buduje zestaw ostrzeĹĽeĹ„ dla narzÄ™dzia, jeĹ›li wymaga licencji lub uprawnieĹ„. */
 function renderToolWarnings(tool) {
   const warnings = [];
   const license = (tool.license || '').trim();
   const requiresPermissions = Boolean(tool.requiresPermissions);
 
   if (!license || license === 'do_ustalenia') {
-    warnings.push('Licencja nieokreślona');
+    warnings.push('Licencja nieokreĹ›lona');
   } else if (license === 'komercyjna' || license === 'instytucjonalna') {
     warnings.push('Wymaga licencji');
   }
 
   if (requiresPermissions) {
-    warnings.push('Wymaga uprawnień');
+    warnings.push('Wymaga uprawnieĹ„');
   }
 
   if (warnings.length === 0) return '';
   return `<div class="measurement-tool-alerts">${warnings.map(text => `<span class="tool-alert-badge">${q(text)}</span>`).join('')}</div>`;
 }
 
-/* Renderuje sekcję narzędzi pomiarowych dla aktualnej dziedziny wraz ze stanem pustym. */
+/* Renderuje sekcjÄ™ narzÄ™dzi pomiarowych dla aktualnej dziedziny wraz ze stanem pustym. */
 function renderMeasurementTools(domainKey, currentId) {
   const tools = (SITE_CONFIG.measurementToolsByDomain || {})[domainKey];
   const domainUpdateMeta = (SITE_CONFIG.measurementToolsDomainUpdates || {})[domainKey] || {};
 
-  // Formatuje datę ISO do czytelnej postaci PL dla sekcji aktualizacji.
+  // Formatuje datÄ™ ISO do czytelnej postaci PL dla sekcji aktualizacji.
   const formattedUpdatedAt = (() => {
     if (!domainUpdateMeta.updatedAt) return null;
     const parsed = new Date(`${domainUpdateMeta.updatedAt}T00:00:00Z`);
@@ -1364,13 +1504,15 @@ function renderMeasurementTools(domainKey, currentId) {
 
   if (!Array.isArray(tools) || tools.length === 0) {
     return `<div class="plans-section measurement-tools-section">
-      <h2>Narzędzia pomiarowe</h2>
+      <h2>NarzÄ™dzia pomiarowe</h2>
       ${lastUpdatedHtml}
-      <div class="plans-empty-state">Spis narzędzi w przygotowaniu</div>
+      <div class="plans-empty-state">Spis narzÄ™dzi w przygotowaniu</div>
     </div>`;
   }
 
-  const rows = tools.map(tool => {
+  const controlsHtml = renderMeasurementToolsControls(tools, domainKey);
+
+  const rows = tools.map((tool, toolIndex) => {
     const relatedLinks = Array.isArray(tool.articleLinks)
       ? tool.articleLinks.map(articleId => {
           const article = pageMap.get(articleId);
@@ -1396,30 +1538,39 @@ function renderMeasurementTools(domainKey, currentId) {
     const warningsHtml = renderToolWarnings(tool);
     const toolReviewMetaHtml = renderToolReviewMetaBadges(tool);
 
-    return `<article class="plan-item live measurement-tool-card">
+    return `<article class="plan-item live measurement-tool-card" data-tool-index="${toolIndex}" data-tool-type="${q(normalizeToolFilterToken(tool.type))}" data-tool-license="${q(normalizeToolFilterToken(tool.license))}" data-tool-evidence="${q(normalizeToolFilterToken(tool.evidenceLevel))}">
       <div class="plan-dot live"></div>
       <div class="measurement-tool-body">
-        <h3 class="measurement-tool-name">${q(tool.name || 'Narzędzie bez nazwy')}</h3>
+        <h3 class="measurement-tool-name">${q(tool.name || 'NarzÄ™dzie bez nazwy')}</h3>
         ${toolReviewMetaHtml}
         ${warningsHtml}
-        <div class="measurement-tool-meta"><strong>Typ:</strong> ${q(tool.type || '—')}</div>
-        <div class="measurement-tool-meta"><strong>Mierzone konstrukty:</strong> ${q((tool.constructs || []).join(', ') || '—')}</div>
-        <div class="measurement-tool-meta"><strong>Czas badania:</strong> ${q(tool.administrationTime || '—')}</div>
-        <div class="measurement-tool-meta"><strong>Grupa docelowa:</strong> ${q(tool.population || '—')}</div>
-        <div class="measurement-tool-meta"><strong>Status licencji:</strong> ${renderToolField(tool.license === 'do_ustalenia' ? '' : tool.license, 'licencja nieokreślona')}</div>
-        <div class="measurement-tool-links"><strong>Powiązane artykuły:</strong> ${relatedLinks}</div>
-        <div class="measurement-tool-links"><strong>Artykuły metodologiczne:</strong> ${methodologyLinks}</div>
+        <div class="measurement-tool-meta"><strong>Typ:</strong> ${q(tool.type || 'â€”')}</div>
+        <div class="measurement-tool-meta"><strong>Mierzone konstrukty:</strong> ${q((tool.constructs || []).join(', ') || 'â€”')}</div>
+        <div class="measurement-tool-meta"><strong>Czas badania:</strong> ${q(tool.administrationTime || 'â€”')}</div>
+        <div class="measurement-tool-meta"><strong>Grupa docelowa:</strong> ${q(tool.population || 'â€”')}</div>
+        <div class="measurement-tool-meta"><strong>Status licencji:</strong> ${renderToolField(tool.license === 'do_ustalenia' ? '' : tool.license, 'licencja nieokreĹ›lona')}</div>
+        <div class="measurement-tool-links"><strong>PowiÄ…zane artykuĹ‚y:</strong> ${relatedLinks}</div>
+        <div class="measurement-tool-links"><strong>ArtykuĹ‚y metodologiczne:</strong> ${methodologyLinks}</div>
         ${renderMethodologyDetails(tool)}
       </div>
     </article>`;
   }).join('');
 
-  return `<div class="plans-section measurement-tools-section">
-    <h2>Narzędzia pomiarowe</h2>
+  return `<div class="plans-section measurement-tools-section" data-domain-key="${q(domainKey)}">
+    <h2>NarzÄ™dzia pomiarowe</h2>
     ${lastUpdatedHtml}
+    ${controlsHtml}
+    <p class="measurement-tools-count" aria-live="polite"></p>
     <div class="plans-grid measurement-tools-grid">${rows}</div>
-    <p class="measurement-tools-footer">Materiał edukacyjny, nie instrukcja samodzielnej diagnozy.</p>
+    <p class="measurement-tools-footer">MateriaĹ‚ edukacyjny, nie instrukcja samodzielnej diagnozy.</p>
   </div>`;
+}
+
+/* Inicjalizuje stan filtrĂłw narzÄ™dzi po wyrenderowaniu strony artykuĹ‚u. */
+function setupMeasurementToolsSection(area) {
+  const section = area?.querySelector('.measurement-tools-section');
+  if (!section) return;
+  applyMeasurementToolFilters(section);
 }
 
 function prevNext(id) {
@@ -1440,7 +1591,7 @@ function prefetch(id) {
   }
 }
 
-/* ── Wiki index ────────────────────────────── */
+/* â”€â”€ Wiki index â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
 function renderWiki(id, wikiKey) {
   const cfg  = SITE_CONFIG.wikis[wikiKey];
   const area = document.getElementById('content');
@@ -1475,11 +1626,11 @@ function renderWiki(id, wikiKey) {
   animateWikiIn();
 }
 
-/* Renderuje moduł wyboru i podglądu instrukcji PDF z katalogu labs. */
+/* Renderuje moduĹ‚ wyboru i podglÄ…du instrukcji PDF z katalogu labs. */
 function renderPdfLabBrowser(section) {
   const files = Array.isArray(section.files) ? section.files : [];
   if (!files.length) {
-    return `<div class="wiki-sec"><div class="wiki-sec-title">${section.title || 'Instrukcje laboratoryjne'}</div><p>Brak dostępnych plików PDF.</p></div>`;
+    return `<div class="wiki-sec"><div class="wiki-sec-title">${section.title || 'Instrukcje laboratoryjne'}</div><p>Brak dostÄ™pnych plikĂłw PDF.</p></div>`;
   }
   const optionsHtml = files.map((file, index) =>
     `<option value="${q(file.href)}" ${index === 0 ? 'selected' : ''}>${q(file.label)}</option>`
@@ -1490,16 +1641,16 @@ function renderPdfLabBrowser(section) {
     <div class="pdf-lab-controls">
       <label for="pdfLabSelect">Wybierz plik PDF:</label>
       <select id="pdfLabSelect">${optionsHtml}</select>
-      <a id="pdfLabOpenNewTab" href="${q(firstHref)}" target="_blank" rel="noopener noreferrer">Otwórz w nowej karcie</a>
+      <a id="pdfLabOpenNewTab" href="${q(firstHref)}" target="_blank" rel="noopener noreferrer">OtwĂłrz w nowej karcie</a>
     </div>
     <div class="pdf-lab-viewer-wrap">
-      <iframe id="pdfLabViewer" src="${q(firstHref)}#view=FitH" title="Podgląd instrukcji laboratoryjnej PDF"></iframe>
-      <p class="pdf-lab-mobile-hint">Na urządzeniach mobilnych podgląd osadzony może być ograniczony — użyj przycisku „Otwórz w nowej karcie”.</p>
+      <iframe id="pdfLabViewer" src="${q(firstHref)}#view=FitH" title="PodglÄ…d instrukcji laboratoryjnej PDF"></iframe>
+      <p class="pdf-lab-mobile-hint">Na urzÄ…dzeniach mobilnych podglÄ…d osadzony moĹĽe byÄ‡ ograniczony â€” uĹĽyj przycisku â€žOtwĂłrz w nowej karcieâ€ť.</p>
     </div>
   </div>`;
 }
 
-/* Synchronizuje wybór pliku PDF pomiędzy listą, osadzonym podglądem i linkiem nowej karty. */
+/* Synchronizuje wybĂłr pliku PDF pomiÄ™dzy listÄ…, osadzonym podglÄ…dem i linkiem nowej karty. */
 function setupPdfLabBrowserInteractions() {
   const select = document.getElementById('pdfLabSelect');
   const viewer = document.getElementById('pdfLabViewer');
@@ -1518,8 +1669,8 @@ function setupPdfLabBrowserInteractions() {
 function artCard(art) {
   const isEmpty = art.id && emptyArticles.has(art.id);
   const effectiveStatus = isEmpty ? 'is-empty' : (art.status === 'planned' ? 'is-disabled' : art.status);
-  const lbl = {live:'dostępny','is-disabled':'planowany',wiki:'wiki',xlink:'wspólny ↗','is-empty':'pusty'};
-  // Obsługa dwóch typów kart: nawigacja wewnętrzna (id) i odnośniki do stron HTML (href).
+  const lbl = {live:'dostÄ™pny','is-disabled':'planowany',wiki:'wiki',xlink:'wspĂłlny â†—','is-empty':'pusty'};
+  // ObsĹ‚uga dwĂłch typĂłw kart: nawigacja wewnÄ™trzna (id) i odnoĹ›niki do stron HTML (href).
   const clickableById = (isEmpty || art.status==='live'||art.status==='wiki'||art.status==='xlink') && art.id;
   const clickableByHref = art.status === 'xlink' && art.href;
   const click = clickableById ? `onclick="navigate('${art.id}')"` : '';
@@ -1541,7 +1692,7 @@ function artCard(art) {
   </div>`;
 }
 
-/* ── Glossary ──────────────────────────────── */
+/* â”€â”€ Glossary â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
 function renderGlossHTML(entries) {
   const groups = {};
   for (const e of entries) { const l=e.term[0].toUpperCase(); (groups[l]=groups[l]||[]).push(e); }
@@ -1554,7 +1705,7 @@ function renderGlossHTML(entries) {
       <div class="gloss-letter">${l}</div>
       ${groups[l].map(e=>`
         <div class="gloss-entry">
-          <div class="gloss-term">${e.term}${e.link?`<span class="gloss-go" onclick="navigate('${e.link}')">→ artykuł</span>`:''}</div>
+          <div class="gloss-term">${e.term}${e.link?`<span class="gloss-go" onclick="navigate('${e.link}')">â†’ artykuĹ‚</span>`:''}</div>
           <div class="gloss-def">${e.def}</div>
         </div>`).join('')}
     </div>`).join('');
@@ -1565,7 +1716,7 @@ window.filterGloss = function(l){
   document.querySelectorAll('.gloss-group').forEach(g=>{ g.style.display=(l==='Wszystkie'||g.dataset.letter===l)?'':'none'; });
 };
 
-/* ── Home ──────────────────────────────────── */
+/* â”€â”€ Home â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
 function renderHome() {
   const area = document.getElementById('content');
   setBreadcrumb(null);
@@ -1575,51 +1726,51 @@ function renderHome() {
   const domains   = SITE_CONFIG.nav.filter(s => !excludedSections.has(s.section));
   const totalPlan = Object.values(SITE_CONFIG.plans||{}).flat().filter(p=>p.status==='planned').length;
 
-  const icons = {'Neurobiologia':'🧬','Funkcje Poznawcze':'🧩','Zaburzenia Kliniczne':'⚕️',
-    'Dla Studentów':'🎓',
-    'Przypadki Kliniczne':'📋','Diagnostyka':'📊','Psychometria':'📏','Farmakologia':'💊',
-    'Różnice Indywidualne':'👤','Temperament':'🌡️','Emocje i Motywacja':'❤️',
-    'Biologiczne Podstawy':'🔬','Psychoterapia':'🛋️','Psychopatologia':'🔍',
-    'Suicydologia':'🆘','Seksuologia':'💜','Arteterapia':'🎨','Animaloterapia':'🐾'};
+  const icons = {'Neurobiologia':'đź§¬','Funkcje Poznawcze':'đź§©','Zaburzenia Kliniczne':'âš•ď¸Ź',
+    'Dla StudentĂłw':'đźŽ“',
+    'Przypadki Kliniczne':'đź“‹','Diagnostyka':'đź“Š','Psychometria':'đź“Ź','Farmakologia':'đź’Š',
+    'RĂłĹĽnice Indywidualne':'đź‘¤','Temperament':'đźŚˇď¸Ź','Emocje i Motywacja':'âť¤ď¸Ź',
+    'Biologiczne Podstawy':'đź”¬','Psychoterapia':'đź›‹ď¸Ź','Psychopatologia':'đź”Ť',
+    'Suicydologia':'đź†','Seksuologia':'đź’ś','Arteterapia':'đźŽ¨','Animaloterapia':'đźľ'};
   const cards = domains.map(sec=>{
     const cnt = sec.items.filter(i=>i.file).length;
     const navId = sec.items[0]?.id||'';
     return `<div class="domain-card" onclick="navigate('${navId}')">
-      <div class="d-icon">${icons[sec.section]||'📖'}</div>
+      <div class="d-icon">${icons[sec.section]||'đź“–'}</div>
       <div class="d-name">${sec.section}</div>
       <span class="d-count">${cnt} art.</span>
     </div>`;
   }).join('');
 
-  /* Karty scenariuszy kierujące od razu do konkretnych modułów z SITE_CONFIG.nav. */
+  /* Karty scenariuszy kierujÄ…ce od razu do konkretnych moduĹ‚Ăłw z SITE_CONFIG.nav. */
   const startScenarios = [
     {
       title: 'Nauka od podstaw',
-      id: 'intro/definicja',
-      emoji: '📘',
-      goal: 'Zacznij od fundamentów psychologii.',
+      id: 'wstep_do_psychologii/definicja',
+      emoji: 'đź“',
+      goal: 'Zacznij od fundamentĂłw psychologii.',
       benefit: 'W 10 minut zbudujesz kontekst do dalszej nauki.'
     },
     {
-      title: 'Sprawdź się testem',
-      id: 'students/testy_teoretyczne',
-      emoji: '🧪',
-      goal: 'Zweryfikuj, co już pamiętasz.',
+      title: 'SprawdĹş siÄ™ testem',
+      id: 'dla_studentow/testy_teoretyczne',
+      emoji: 'đź§Ş',
+      goal: 'Zweryfikuj, co juĹĽ pamiÄ™tasz.',
       benefit: 'Szybko zobaczysz luki i priorytety nauki.'
     },
     {
-      title: 'Szybka powtórka',
-      id: 'students/psychologia_codziennej',
-      emoji: '⚡',
-      goal: 'Powtórz jedną małą porcję wiedzy.',
-      benefit: 'Utrzymasz regularność bez długiej sesji.'
+      title: 'Szybka powtĂłrka',
+      id: 'dla_studentow/psychologia_codziennej',
+      emoji: 'âšˇ',
+      goal: 'PowtĂłrz jednÄ… maĹ‚Ä… porcjÄ™ wiedzy.',
+      benefit: 'Utrzymasz regularnoĹ›Ä‡ bez dĹ‚ugiej sesji.'
     },
     {
       title: 'Przejrzyj Wiki',
       id: 'wiki-index/slownik',
-      emoji: '🧭',
-      goal: 'Znajdź temat lub termin w kilka sekund.',
-      benefit: 'Skrócisz czas szukania potrzebnej informacji.'
+      emoji: 'đź§­',
+      goal: 'ZnajdĹş temat lub termin w kilka sekund.',
+      benefit: 'SkrĂłcisz czas szukania potrzebnej informacji.'
     }
   ];
   const startCardsHtml = startScenarios
@@ -1632,7 +1783,7 @@ function renderHome() {
     </button>`)
     .join('');
 
-  /* Renderuje komponent „Ostatnio odwiedzane” na podstawie localStorage. */
+  /* Renderuje komponent â€žOstatnio odwiedzaneâ€ť na podstawie localStorage. */
   const recentItems = readRecentPages()
     .filter(id => id !== '__home__')
     .slice(0, RECENT_PAGES_LIMIT)
@@ -1643,18 +1794,18 @@ function renderHome() {
         <span class="recent-section">${item.section || 'PsyHub'}</span>
         <span class="recent-title">${item.label}</span>
       </button>`).join('')}</div>`
-    : `<p class="recent-empty">Tu pojawią się ostatnio otwierane strony. Zacznij od jednej karty „Start tutaj”.</p>`;
+    : `<p class="recent-empty">Tu pojawiÄ… siÄ™ ostatnio otwierane strony. Zacznij od jednej karty â€žStart tutajâ€ť.</p>`;
 
   area.innerHTML = `<div class="rendered">
     <div class="home-hero">
       <div class="home-eyebrow">Portal Wiedzy Psychologicznej</div>
       <h1>Witaj w <span>PsyHub</span></h1>
-      <p>Wybierz ścieżkę i zacznij od razu. Krótkie kroki pomogą Ci uczyć się szybciej i z mniejszym stresem.</p>
+      <p>Wybierz Ĺ›cieĹĽkÄ™ i zacznij od razu. KrĂłtkie kroki pomogÄ… Ci uczyÄ‡ siÄ™ szybciej i z mniejszym stresem.</p>
       <div class="home-stats">
-        <div><div class="stat-val">${totalMd}</div><div class="stat-lbl">Artykułów</div></div>
+        <div><div class="stat-val">${totalMd}</div><div class="stat-lbl">ArtykuĹ‚Ăłw</div></div>
         <div><div class="stat-val">${totalPlan}</div><div class="stat-lbl">Zaplanowanych</div></div>
         <div><div class="stat-val">${totalWiki}</div><div class="stat-lbl">Encyklopedii</div></div>
-        <div><div class="stat-val">${domains.length}</div><div class="stat-lbl">Działów</div></div>
+        <div><div class="stat-val">${domains.length}</div><div class="stat-lbl">DziaĹ‚Ăłw</div></div>
       </div>
     </div>
     <section class="home-block">
@@ -1667,17 +1818,17 @@ function renderHome() {
     <section class="home-block">
       <div class="home-block-head">
         <h2>Ostatnio odwiedzane</h2>
-        <p>Wróć do materiałów, które już przeglądałeś.</p>
+        <p>WrĂłÄ‡ do materiaĹ‚Ăłw, ktĂłre juĹĽ przeglÄ…daĹ‚eĹ›.</p>
       </div>
       ${recentHtml}
     </section>
-    <div><div class="domains-h2">Działy tematyczne</div><div class="domain-grid">${cards}</div></div>
+    <div><div class="domains-h2">DziaĹ‚y tematyczne</div><div class="domain-grid">${cards}</div></div>
   </div>`;
   window.scrollTo(0,0);
   animateHomeCards();
 }
 
-/* ── Breadcrumb ────────────────────────────── */
+/* â”€â”€ Breadcrumb â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
 function setBreadcrumb(item) {
   const bc = document.getElementById('breadcrumb');
   if (!bc) return;
@@ -1702,7 +1853,7 @@ function setBreadcrumb(item) {
   updateTopbarNextStep(item.id);
 }
 
-/* ── Search ────────────────────────────────── */
+/* â”€â”€ Search â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
 const SEARCH_UI_STATE_KEY = 'psyhub-search-ui-state';
 const SEARCH_METRICS_KEY = 'psyhub-search-metrics-v1';
 let searchIndex = [];
@@ -1713,7 +1864,7 @@ let searchSessionState = null;
 let lastMeasuredSearchQuery = '';
 const searchUiState = { query: '', filters: { tests: false, wiki: false, beginner: false } };
 
-/* Standaryzuje tokeny tekstowe, żeby ranking działał stabilnie dla polskich znaków i wielkości liter. */
+/* Standaryzuje tokeny tekstowe, ĹĽeby ranking dziaĹ‚aĹ‚ stabilnie dla polskich znakĂłw i wielkoĹ›ci liter. */
 function normalizeSearchText(value) {
   return (value || '')
     .toLowerCase()
@@ -1724,7 +1875,7 @@ function normalizeSearchText(value) {
     .trim();
 }
 
-/* Konwertuje markdown na "surowy" tekst, aby indeks pełnotekstowy nie zawierał znaczników. */
+/* Konwertuje markdown na "surowy" tekst, aby indeks peĹ‚notekstowy nie zawieraĹ‚ znacznikĂłw. */
 function markdownToPlainText(markdown) {
   return (markdown || '')
     .replace(/^---[\s\S]*?---/m, ' ')
@@ -1743,7 +1894,7 @@ function markdownToPlainText(markdown) {
     .trim();
 }
 
-/* Zwraca krótki fragment treści z pierwszym wystąpieniem zapytania (snippet do listy wyników). */
+/* Zwraca krĂłtki fragment treĹ›ci z pierwszym wystÄ…pieniem zapytania (snippet do listy wynikĂłw). */
 function getFullTextSnippet(entry, queryTokens) {
   if (!entry?.plainText) return '';
   const normalizedText = entry.normalizedText || '';
@@ -1764,7 +1915,7 @@ function getFullTextSnippet(entry, queryTokens) {
   const start = Math.max(0, firstIdx - snippetRadius);
   const end = Math.min(entry.plainText.length, firstIdx + firstToken.length + snippetRadius);
   const raw = entry.plainText.slice(start, end).trim();
-  return `${start > 0 ? '…' : ''}${q(raw)}${end < entry.plainText.length ? '…' : ''}`;
+  return `${start > 0 ? 'â€¦' : ''}${q(raw)}${end < entry.plainText.length ? 'â€¦' : ''}`;
 }
 
 /* Buduje indeks wyszukiwania oparty o metadane sekcji i elementu nawigacji. */
@@ -1781,7 +1932,7 @@ function rebuildSearchIndex() {
       normalizedLevel: normalizeSearchText(item.level || ''),
     }));
 
-  /* Tworzy indeks słów kluczowych -> ID artykułu dla szybkiego linkowania wewnątrz treści. */
+  /* Tworzy indeks sĹ‚Ăłw kluczowych -> ID artykuĹ‚u dla szybkiego linkowania wewnÄ…trz treĹ›ci. */
   keywordLinkIndex = new Map();
   searchIndex.forEach(entry => {
     const phrases = [entry.label, ...(entry.keywords || [])]
@@ -1793,12 +1944,12 @@ function rebuildSearchIndex() {
       keywordLinkIndex.set(normalized, entry.id);
     });
   });
-  /* Po przebudowie podstawowego indeksu zerujemy indeks pełnotekstowy i ładujemy go ponownie. */
+  /* Po przebudowie podstawowego indeksu zerujemy indeks peĹ‚notekstowy i Ĺ‚adujemy go ponownie. */
   searchFullTextIndex = new Map();
   searchFullTextLoadPromise = null;
 }
 
-/* Ładuje treść plików MD i buduje indeks pełnotekstowy używany przez wyszukiwarkę. */
+/* Ĺaduje treĹ›Ä‡ plikĂłw MD i buduje indeks peĹ‚notekstowy uĹĽywany przez wyszukiwarkÄ™. */
 async function ensureFullTextSearchIndex() {
   if (searchFullTextLoadPromise) return searchFullTextLoadPromise;
   const markdownEntries = searchIndex.filter(entry => {
@@ -1812,7 +1963,7 @@ async function ensureFullTextSearchIndex() {
       try {
         let markdownText = mdCache.get(item.file);
         if (!markdownText) {
-          /* Używamy tej samej logiki fallbacków, aby indeks pełnotekstowy nie gubił pojedynczych artykułów. */
+          /* UĹĽywamy tej samej logiki fallbackĂłw, aby indeks peĹ‚notekstowy nie gubiĹ‚ pojedynczych artykuĹ‚Ăłw. */
           const fetched = await fetchArticleMarkdown(item.file);
           markdownText = fetched.text;
           mdCache.set(item.file, markdownText);
@@ -1824,14 +1975,14 @@ async function ensureFullTextSearchIndex() {
           normalizedText: normalizeSearchText(plainText),
         });
       } catch (_) {
-        /* Pomijamy błędne pliki, aby wyszukiwarka nadal działała na pozostałych treściach. */
+        /* Pomijamy bĹ‚Ä™dne pliki, aby wyszukiwarka nadal dziaĹ‚aĹ‚a na pozostaĹ‚ych treĹ›ciach. */
       }
     }));
   })();
   return searchFullTextLoadPromise;
 }
 
-/* Ocenia wynik na podstawie dopasowań tytułu, sekcji i tagów słów kluczowych. */
+/* Ocenia wynik na podstawie dopasowaĹ„ tytuĹ‚u, sekcji i tagĂłw sĹ‚Ăłw kluczowych. */
 function scoreSearchItem(entry, queryTokens) {
   let score = 0;
   const fullText = searchFullTextIndex.get(entry.id);
@@ -1849,7 +2000,7 @@ function scoreSearchItem(entry, queryTokens) {
   return score;
 }
 
-/* Filtruje wyniki według aktywnych skrótów, zachowując stan UI między odświeżeniami. */
+/* Filtruje wyniki wedĹ‚ug aktywnych skrĂłtĂłw, zachowujÄ…c stan UI miÄ™dzy odĹ›wieĹĽeniami. */
 function matchesActiveFilters(entry) {
   if (searchUiState.filters.tests && entry.type !== 'test') return false;
   if (searchUiState.filters.wiki && entry.type !== 'wiki') return false;
@@ -1857,11 +2008,11 @@ function matchesActiveFilters(entry) {
   return true;
 }
 
-/* Renderuje etykiety kontekstowe przy wynikach, żeby użytkownik szybciej rozpoznał kontekst. */
+/* Renderuje etykiety kontekstowe przy wynikach, ĹĽeby uĹĽytkownik szybciej rozpoznaĹ‚ kontekst. */
 function renderSearchMetaTags(entry) {
-  const typeLabelMap = { article: 'artykuł', wiki: 'wiki', test: 'test' };
+  const typeLabelMap = { article: 'artykuĹ‚', wiki: 'wiki', test: 'test' };
   const safeSection = q(entry.section || 'Inne');
-  const safeType = q(typeLabelMap[entry.type] || entry.type || 'materiał');
+  const safeType = q(typeLabelMap[entry.type] || entry.type || 'materiaĹ‚');
   const typeCls = entry.type ? `type-${entry.type}` : '';
   return `<span class="s-search-item-meta">
     <span class="s-search-tag">${safeSection}</span>
@@ -1869,7 +2020,7 @@ function renderSearchMetaTags(entry) {
   </span>`;
 }
 
-/* Podpowiada tematy powiązane, gdy nie znaleziono dopasowań do zapytania. */
+/* Podpowiada tematy powiÄ…zane, gdy nie znaleziono dopasowaĹ„ do zapytania. */
 function getRelatedSearchSuggestions(queryTokens) {
   if (!queryTokens.length) return [];
   const suggestions = searchIndex
@@ -1934,7 +2085,7 @@ function writeSearchMetrics(metrics) {
   localStorage.setItem(SEARCH_METRICS_KEY, JSON.stringify(metrics));
 }
 
-/* Rejestruje nowe "podejście" użytkownika do znalezienia treści. */
+/* Rejestruje nowe "podejĹ›cie" uĹĽytkownika do znalezienia treĹ›ci. */
 function startSearchSessionIfNeeded(query) {
   if (!query || query === lastMeasuredSearchQuery) return;
   const metrics = readSearchMetrics();
@@ -1948,7 +2099,7 @@ function startSearchSessionIfNeeded(query) {
   lastMeasuredSearchQuery = query;
 }
 
-/* Rejestruje ekspozycję wyników, aby można było policzyć CTR listy wyników. */
+/* Rejestruje ekspozycjÄ™ wynikĂłw, aby moĹĽna byĹ‚o policzyÄ‡ CTR listy wynikĂłw. */
 function trackSearchResultImpressions(resultCount) {
   if (!resultCount) return;
   const metrics = readSearchMetrics();
@@ -1956,7 +2107,7 @@ function trackSearchResultImpressions(resultCount) {
   writeSearchMetrics(metrics);
 }
 
-/* Rejestruje kliknięcie wyniku i czas do pierwszego sukcesu od rozpoczęcia wyszukiwania. */
+/* Rejestruje klikniÄ™cie wyniku i czas do pierwszego sukcesu od rozpoczÄ™cia wyszukiwania. */
 function trackSearchResultClick() {
   const metrics = readSearchMetrics();
   metrics.searchResultClicks += 1;
@@ -1968,14 +2119,14 @@ function trackSearchResultClick() {
   writeSearchMetrics(metrics);
 }
 
-/* Rejestruje użycie akcji "kopiuj link" jako osobny wskaźnik adopcji funkcji. */
+/* Rejestruje uĹĽycie akcji "kopiuj link" jako osobny wskaĹşnik adopcji funkcji. */
 function trackCopyLinkUsage() {
   const metrics = readSearchMetrics();
   metrics.copyLinkUses += 1;
   writeSearchMetrics(metrics);
 }
 
-/* Aktualizuje listę wyników i fallback "Nie znaleziono" wraz z podpowiedziami. */
+/* Aktualizuje listÄ™ wynikĂłw i fallback "Nie znaleziono" wraz z podpowiedziami. */
 async function applySearchUi() {
   const input = document.getElementById('searchInput');
   const nav = document.getElementById('sidebarNav');
@@ -2017,8 +2168,8 @@ async function applySearchUi() {
       ? `<div class="s-empty-suggestions">${suggestions.map(s => `<button type="button" data-id="${q(s.id)}">${q(s.label)}</button>`).join('')}</div>`
       : '';
     results.innerHTML = `<div class="s-search-empty">
-      <strong>Nie znaleziono wyników.</strong>
-      <div>Spróbuj innej frazy lub skorzystaj z tematów powiązanych:</div>
+      <strong>Nie znaleziono wynikĂłw.</strong>
+      <div>SprĂłbuj innej frazy lub skorzystaj z tematĂłw powiÄ…zanych:</div>
       ${suggestionHtml}
     </div>`;
     results.classList.add('is-visible');
@@ -2043,7 +2194,7 @@ async function applySearchUi() {
   results.classList.add('is-visible');
 }
 
-/* Podmienia słowa kluczowe na odnośniki do powiązanych artykułów w treści aktualnej strony. */
+/* Podmienia sĹ‚owa kluczowe na odnoĹ›niki do powiÄ…zanych artykuĹ‚Ăłw w treĹ›ci aktualnej strony. */
 function addKeywordLinksToRenderedArticle(container, currentId) {
   const currentItem = pageMap.get(currentId);
   if (!currentItem || !container) return;
@@ -2062,7 +2213,7 @@ function addKeywordLinksToRenderedArticle(container, currentId) {
     .slice(0, 6);
   if (!linkTargets.length) return;
 
-  /* Escapuje literały RegExp, aby bezpiecznie tworzyć wzorce dla fraz wielowyrazowych. */
+  /* Escapuje literaĹ‚y RegExp, aby bezpiecznie tworzyÄ‡ wzorce dla fraz wielowyrazowych. */
   const escapeRegExp = value => value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 
   const walker = document.createTreeWalker(container, NodeFilter.SHOW_TEXT, {
@@ -2109,7 +2260,7 @@ function addKeywordLinksToRenderedArticle(container, currentId) {
 }
 
 
-/* ── Dostępność: czytanie treści na głos (Web Speech API) ───────────── */
+/* â”€â”€ DostÄ™pnoĹ›Ä‡: czytanie treĹ›ci na gĹ‚os (Web Speech API) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
 const speechState = {
   synth: window.speechSynthesis || null,
   utterance: null,
@@ -2127,12 +2278,12 @@ const SPEECH_VOICE_PRESETS = {
   deep: { label: 'Niski', rate: 0.8, pitch: 0.74, boostNatural: 10, boostAlt: 8, boostDefault: 14, preferredNames: ['deep', 'male', 'low', 'marek', 'grzegorz', 'jan'] },
 };
 
-/* Zwraca aktywny preset głosu albo bezpieczną wartość domyślną, gdy stan jest niepoprawny. */
+/* Zwraca aktywny preset gĹ‚osu albo bezpiecznÄ… wartoĹ›Ä‡ domyĹ›lnÄ…, gdy stan jest niepoprawny. */
 function getVoicePreset(mode) {
   return SPEECH_VOICE_PRESETS[mode] || SPEECH_VOICE_PRESETS.natural;
 }
 
-/* Wybiera najlepszy głos dla języka polskiego, preferując naturalniejsze głosy systemowe. */
+/* Wybiera najlepszy gĹ‚os dla jÄ™zyka polskiego, preferujÄ…c naturalniejsze gĹ‚osy systemowe. */
 function choosePreferredVoice(mode) {
   const preset = getVoicePreset(mode);
   if (!speechState.synth?.getVoices) return null;
@@ -2167,16 +2318,16 @@ function choosePreferredVoice(mode) {
   return scored[0]?.voice || null;
 }
 
-/* Aktualizuje etykietę przełącznika stylu głosu i stan ARIA. */
+/* Aktualizuje etykietÄ™ przeĹ‚Ä…cznika stylu gĹ‚osu i stan ARIA. */
 function updateVoiceModeButtonState() {
   const voiceModeSelect = document.getElementById('speechVoiceMode');
   if (!voiceModeSelect) return;
   const selectedPreset = getVoicePreset(speechState.voiceMode);
   voiceModeSelect.value = speechState.voiceMode in SPEECH_VOICE_PRESETS ? speechState.voiceMode : 'natural';
-  voiceModeSelect.setAttribute('aria-label', `Wybrany styl głosu: ${selectedPreset.label}`);
+  voiceModeSelect.setAttribute('aria-label', `Wybrany styl gĹ‚osu: ${selectedPreset.label}`);
 }
 
-/* Zbiera czytelny tekst z głównego kontenera treści, pomijając elementy nawigacyjne i dekoracyjne. */
+/* Zbiera czytelny tekst z gĹ‚Ăłwnego kontenera treĹ›ci, pomijajÄ…c elementy nawigacyjne i dekoracyjne. */
 function getReadableContentText() {
   const content = document.getElementById('content');
   if (!content) return '';
@@ -2185,29 +2336,29 @@ function getReadableContentText() {
   return (clone.textContent || '').replace(/\s+/g, ' ').trim();
 }
 
-/* Synchronizuje stan wizualny i ARIA przycisków czytania, aby poprawnie komunikować aktywność. */
+/* Synchronizuje stan wizualny i ARIA przyciskĂłw czytania, aby poprawnie komunikowaÄ‡ aktywnoĹ›Ä‡. */
 function updateSpeechButtonState(isSpeaking) {
   const toggleBtn = document.getElementById('speechToggle');
   if (!toggleBtn) return;
   toggleBtn.classList.toggle('is-active', isSpeaking);
   toggleBtn.setAttribute('aria-pressed', isSpeaking ? 'true' : 'false');
-  toggleBtn.setAttribute('aria-label', isSpeaking ? 'Wstrzymaj czytanie bieżącego artykułu' : 'Rozpocznij czytanie bieżącego artykułu');
-  toggleBtn.textContent = isSpeaking ? '⏸ Pauza czytania' : '▶ Czytaj artykuł';
+  toggleBtn.setAttribute('aria-label', isSpeaking ? 'Wstrzymaj czytanie bieĹĽÄ…cego artykuĹ‚u' : 'Rozpocznij czytanie bieĹĽÄ…cego artykuĹ‚u');
+  toggleBtn.textContent = isSpeaking ? 'âŹ¸ Pauza czytania' : 'â–¶ Czytaj artykuĹ‚';
 }
 
-/* Aktualizuje przycisk automatycznego przejścia do kolejnego artykułu po zakończeniu odczytu. */
+/* Aktualizuje przycisk automatycznego przejĹ›cia do kolejnego artykuĹ‚u po zakoĹ„czeniu odczytu. */
 function updateAutoNextButtonState() {
   const autoNextBtn = document.getElementById('speechAutoNext');
   if (!autoNextBtn) return;
   autoNextBtn.classList.toggle('is-active', speechState.autoNext);
   autoNextBtn.setAttribute('aria-pressed', speechState.autoNext ? 'true' : 'false');
   autoNextBtn.setAttribute('aria-label', speechState.autoNext
-    ? 'Automatyczne przejście do kolejnego artykułu włączone'
-    : 'Automatyczne przejście do kolejnego artykułu wyłączone');
+    ? 'Automatyczne przejĹ›cie do kolejnego artykuĹ‚u wĹ‚Ä…czone'
+    : 'Automatyczne przejĹ›cie do kolejnego artykuĹ‚u wyĹ‚Ä…czone');
   autoNextBtn.textContent = speechState.autoNext ? 'Auto-next: ON' : 'Auto-next: OFF';
 }
 
-/* Steruje widocznością panelu opcji czytania i aktualizuje semantykę ARIA przycisku zwijania. */
+/* Steruje widocznoĹ›ciÄ… panelu opcji czytania i aktualizuje semantykÄ™ ARIA przycisku zwijania. */
 function updateSpeechOptionsPanelState() {
   const optionsPanel = document.getElementById('speechOptionsPanel');
   const optionsToggleBtn = document.getElementById('speechOptionsToggle');
@@ -2217,12 +2368,12 @@ function updateSpeechOptionsPanelState() {
   optionsPanel.classList.toggle('is-collapsed', isCollapsed);
   optionsToggleBtn.setAttribute('aria-expanded', isCollapsed ? 'false' : 'true');
   optionsToggleBtn.setAttribute('aria-label', isCollapsed
-    ? 'Rozwiń panel opcji czytania na głos'
-    : 'Zwiń panel opcji czytania na głos');
-  optionsToggleBtn.textContent = isCollapsed ? 'Opcje ▼' : 'Opcje ▲';
+    ? 'RozwiĹ„ panel opcji czytania na gĹ‚os'
+    : 'ZwiĹ„ panel opcji czytania na gĹ‚os');
+  optionsToggleBtn.textContent = isCollapsed ? 'Opcje â–Ľ' : 'Opcje â–˛';
 }
 
-/* Zatrzymuje syntezę mowy i resetuje lokalny stan czytania. */
+/* Zatrzymuje syntezÄ™ mowy i resetuje lokalny stan czytania. */
 function stopReadingContent() {
   if (!speechState.synth) return;
   speechState.isSpeaking = false;
@@ -2231,7 +2382,7 @@ function stopReadingContent() {
   updateSpeechButtonState(false);
 }
 
-/* Inicjalizuje obsługę syntezy mowy dla bieżącej treści artykułu. */
+/* Inicjalizuje obsĹ‚ugÄ™ syntezy mowy dla bieĹĽÄ…cej treĹ›ci artykuĹ‚u. */
 function setupSpeechControls() {
   const toggleBtn = document.getElementById('speechToggle');
   const stopBtn = document.getElementById('speechStop');
@@ -2246,7 +2397,7 @@ function setupSpeechControls() {
     stopBtn.disabled = true;
     autoNextBtn.disabled = true;
     voiceModeSelect.disabled = true;
-    toggleBtn.title = 'Przeglądarka nie wspiera syntezy mowy';
+    toggleBtn.title = 'PrzeglÄ…darka nie wspiera syntezy mowy';
     return;
   }
 
@@ -2289,7 +2440,7 @@ function setupSpeechControls() {
       speechState.utterance = null;
       updateSpeechButtonState(false);
 
-      /* Po zakończeniu odczytu opcjonalnie przechodzimy dalej, jeśli istnieje kolejny artykuł. */
+      /* Po zakoĹ„czeniu odczytu opcjonalnie przechodzimy dalej, jeĹ›li istnieje kolejny artykuĹ‚. */
       if (speechState.autoNext && current) {
         const { next } = prevNext(current);
         if (next?.id) window.setTimeout(() => navigate(next.id), 550);
@@ -2318,7 +2469,7 @@ function setupSpeechControls() {
     localStorage.setItem('psyhub-speech-voice-mode', speechState.voiceMode);
     updateVoiceModeButtonState();
 
-    /* Jeśli czytanie trwa, restartujemy je z nowymi parametrami głosu. */
+    /* JeĹ›li czytanie trwa, restartujemy je z nowymi parametrami gĹ‚osu. */
     if (speechState.isSpeaking) {
       stopReadingContent();
       toggleBtn.click();
@@ -2334,11 +2485,11 @@ function setupSpeechControls() {
   window.addEventListener('hashchange', stopReadingContent);
 }
 
-/* ── Sidebar mobile ────────────────────────── */
+/* â”€â”€ Sidebar mobile â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
 function openSidebar()  { document.getElementById('sidebar').classList.add('open');  document.getElementById('overlay').classList.add('open'); }
 function closeSidebar() { document.getElementById('sidebar').classList.remove('open'); document.getElementById('overlay').classList.remove('open'); }
 
-/* Rejestruje globalne akcje UI bez inline handlerów, w tym skróty klawiaturowe. */
+/* Rejestruje globalne akcje UI bez inline handlerĂłw, w tym skrĂłty klawiaturowe. */
 function setupGlobalInteractions() {
   const logo = document.getElementById('sidebarLogo');
   const overlay = document.getElementById('overlay');
@@ -2360,7 +2511,7 @@ function setupGlobalInteractions() {
   });
 }
 
-/* Rejestruje obsługę wyszukiwania i skrótów filtrów, utrzymując stan w pamięci i localStorage. */
+/* Rejestruje obsĹ‚ugÄ™ wyszukiwania i skrĂłtĂłw filtrĂłw, utrzymujÄ…c stan w pamiÄ™ci i localStorage. */
 function setupSearchInteractions() {
   const input = document.getElementById('searchInput');
   const results = document.getElementById('searchResults');
@@ -2389,13 +2540,13 @@ function setupSearchInteractions() {
   });
 }
 
-/* ── Progress bar ──────────────────────────── */
+/* â”€â”€ Progress bar â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
 window.addEventListener('scroll',()=>{
   const h=document.body.scrollHeight-window.innerHeight;
   document.getElementById('progFill').style.width=(h>0?Math.min(100,window.scrollY/h*100):0)+'%';
 });
 
-/* ── Anime.js Animations ───────────────────── */
+/* â”€â”€ Anime.js Animations â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
 function animateContentIn() {
   anime({
     targets: '#content .rendered',
@@ -2485,16 +2636,16 @@ function animateSidebar() {
 }
 
 
-/* ── Mobilne przypomnienia o ciekawostkach psychologicznych ───────────── */
+/* â”€â”€ Mobilne przypomnienia o ciekawostkach psychologicznych â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
 const REMINDER_FACTS_URL = 'data_psychology_reminders.json';
 let reminderFactsCache = null;
 let reminderTimerId = null;
 
-/* Pobiera listę ciekawostek naukowych z pliku JSON i buforuje wynik. */
+/* Pobiera listÄ™ ciekawostek naukowych z pliku JSON i buforuje wynik. */
 async function loadReminderFacts() {
   if (reminderFactsCache) return reminderFactsCache;
   const response = await fetch(REMINDER_FACTS_URL, { cache: 'no-store' });
-  if (!response.ok) throw new Error('Nie udało się pobrać listy ciekawostek.');
+  if (!response.ok) throw new Error('Nie udaĹ‚o siÄ™ pobraÄ‡ listy ciekawostek.');
   const payload = await response.json();
   const facts = Array.isArray(payload?.facts) ? payload.facts : [];
   reminderFactsCache = facts.filter(item => item?.title && item?.message);
@@ -2504,7 +2655,7 @@ async function loadReminderFacts() {
 const REMINDER_LAST_SENT_KEY = 'psyhub-last-reminder-date';
 const REMINDER_PERMISSION_PROMPT_KEY = 'psyhub-reminder-permission-prompt-shown';
 
-/* Zwraca datę lokalną w formacie YYYY-MM-DD (bez ryzyka przesunięcia przez UTC). */
+/* Zwraca datÄ™ lokalnÄ… w formacie YYYY-MM-DD (bez ryzyka przesuniÄ™cia przez UTC). */
 function getLocalDateKey(date = new Date()) {
   const year = date.getFullYear();
   const month = String(date.getMonth() + 1).padStart(2, '0');
@@ -2512,14 +2663,14 @@ function getLocalDateKey(date = new Date()) {
   return `${year}-${month}-${day}`;
 }
 
-/* Losuje ciekawostkę dnia na podstawie bieżącej puli. */
+/* Losuje ciekawostkÄ™ dnia na podstawie bieĹĽÄ…cej puli. */
 function pickRandomReminderFact(facts) {
   if (!Array.isArray(facts) || facts.length === 0) return null;
   const randomIndex = Math.floor(Math.random() * facts.length);
   return facts[randomIndex] || facts[0];
 }
 
-/* Oblicza czas do kolejnego uruchomienia przypomnienia (następna 08:00 czasu lokalnego). */
+/* Oblicza czas do kolejnego uruchomienia przypomnienia (nastÄ™pna 08:00 czasu lokalnego). */
 function getDelayUntilNextReminder(now = new Date()) {
   const next = new Date(now);
   const hasReachedMorningReminder = now.getHours() >= 8;
@@ -2532,14 +2683,14 @@ function getDelayUntilNextReminder(now = new Date()) {
   return Math.max(0, next.getTime() - now.getTime());
 }
 
-/* Wyświetla mobilne powiadomienie z naukową ciekawostką psychologiczną. */
+/* WyĹ›wietla mobilne powiadomienie z naukowÄ… ciekawostkÄ… psychologicznÄ…. */
 async function showPsychologyReminderNotification() {
   if (!('Notification' in window) || Notification.permission !== 'granted') return;
 
   const todayKey = getLocalDateKey(new Date());
   const lastSentDate = localStorage.getItem(REMINDER_LAST_SENT_KEY);
 
-  /* Blokada wielokrotnej wysyłki tego samego dnia (np. po odświeżeniach karty). */
+  /* Blokada wielokrotnej wysyĹ‚ki tego samego dnia (np. po odĹ›wieĹĽeniach karty). */
   if (lastSentDate === todayKey) return;
 
   const facts = await loadReminderFacts();
@@ -2547,8 +2698,8 @@ async function showPsychologyReminderNotification() {
   if (!fact) return;
 
   const sourceSuffix = fact.source ? `
-Źródło: ${fact.source}` : '';
-  new Notification(`🧠 ${fact.title}`, {
+ĹąrĂłdĹ‚o: ${fact.source}` : '';
+  new Notification(`đź§  ${fact.title}`, {
     body: `${fact.message}${sourceSuffix}`,
     tag: `psyhub-fact-${todayKey}`,
     renotify: false
@@ -2558,7 +2709,7 @@ async function showPsychologyReminderNotification() {
   localStorage.setItem(REMINDER_LAST_SENT_KEY, todayKey);
 }
 
-/* Planuje kolejne przypomnienie; po wysłaniu ustawia harmonogram na następny dzień. */
+/* Planuje kolejne przypomnienie; po wysĹ‚aniu ustawia harmonogram na nastÄ™pny dzieĹ„. */
 function scheduleNextPsychologyReminder() {
   window.clearTimeout(reminderTimerId);
   const delay = getDelayUntilNextReminder(new Date());
@@ -2570,23 +2721,23 @@ function scheduleNextPsychologyReminder() {
 
 
 /*
- * Buduje przyjazny komunikat wyjaśniający korzyści z włączenia powiadomień.
- * Zwraca wartość true, gdy użytkownik chce przejść do systemowego okna zgody.
+ * Buduje przyjazny komunikat wyjaĹ›niajÄ…cy korzyĹ›ci z wĹ‚Ä…czenia powiadomieĹ„.
+ * Zwraca wartoĹ›Ä‡ true, gdy uĹĽytkownik chce przejĹ›Ä‡ do systemowego okna zgody.
  */
 function shouldAskForReminderPermission() {
   const promptAlreadyShown = localStorage.getItem(REMINDER_PERMISSION_PROMPT_KEY) === '1';
   if (promptAlreadyShown) return false;
 
   const userAcceptedPrompt = window.confirm(
-    'Czy chcesz włączyć codzienne powiadomienia PsyHub?\n\n' +
-    'Będziesz otrzymywać jedną, losową ciekawostkę psychologiczną każdego dnia o 08:00.'
+    'Czy chcesz wĹ‚Ä…czyÄ‡ codzienne powiadomienia PsyHub?\n\n' +
+    'BÄ™dziesz otrzymywaÄ‡ jednÄ…, losowÄ… ciekawostkÄ™ psychologicznÄ… kaĹĽdego dnia o 08:00.'
   );
 
   localStorage.setItem(REMINDER_PERMISSION_PROMPT_KEY, '1');
   return userAcceptedPrompt;
 }
 
-/* Inicjalizuje przypomnienia wyłącznie na urządzeniach mobilnych. */
+/* Inicjalizuje przypomnienia wyĹ‚Ä…cznie na urzÄ…dzeniach mobilnych. */
 async function initMobilePsychologyReminders() {
   const isMobileViewport = window.matchMedia(`(max-width: ${MOBILE_BREAKPOINT}px)`).matches;
   if (!isMobileViewport || !('Notification' in window)) return;
@@ -2605,13 +2756,13 @@ async function initMobilePsychologyReminders() {
   scheduleNextPsychologyReminder();
 }
 
-/* ── Boot ──────────────────────────────────── */
+/* â”€â”€ Boot â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
 window.addEventListener('DOMContentLoaded', ()=>{
-  /* Wczesna walidacja konfiguracji ułatwia wychwycenie braków podczas uruchomienia aplikacji. */
+  /* Wczesna walidacja konfiguracji uĹ‚atwia wychwycenie brakĂłw podczas uruchomienia aplikacji. */
   warnAboutMissingDomainKeys();
   runMeasurementToolsConfigValidation({ strict: false });
   buildPageMap();
-  pageMap.set('__home__',{id:'__home__',label:'Strona główna',section:''});
+  pageMap.set('__home__',{id:'__home__',label:'Strona gĹ‚Ăłwna',section:''});
   loadSearchUiState();
   rebuildSearchIndex();
   renderSidebar();
@@ -2627,7 +2778,7 @@ window.addEventListener('DOMContentLoaded', ()=>{
   navigate(pageId && pageMap.has(pageId) ? pageId : SITE_CONFIG.defaultPage, true);
 });
 
-/* ── Theme switcher ────────────────────────── */
+/* â”€â”€ Theme switcher â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
 (function() {
   const DEFAULT_THEME = 'dark';
   const THEMES = [DEFAULT_THEME, 'light', 'sepia', 'ocean', 'forest', 'sunset'];
@@ -2639,7 +2790,7 @@ window.addEventListener('DOMContentLoaded', ()=>{
   const activeFontScale = FONT_SCALES.includes(storedFontScale) ? storedFontScale : DEFAULT_FONT_SCALE;
 
   function themeAttr(theme) { return theme === DEFAULT_THEME ? '' : theme; }
-  /* Ustawia atrybut skali czcionki i zapamiętuje wybór użytkownika w localStorage. */
+  /* Ustawia atrybut skali czcionki i zapamiÄ™tuje wybĂłr uĹĽytkownika w localStorage. */
   function applyFontScale(scale) {
     if (scale === DEFAULT_FONT_SCALE) {
       delete document.documentElement.dataset.fontScale;
@@ -2654,7 +2805,7 @@ window.addEventListener('DOMContentLoaded', ()=>{
 
   function applyTheme(theme) {
     document.documentElement.dataset.theme = themeAttr(theme);
-    /* Synchronizuje stan aktywności motywów dla stylowania i czytników ekranu. */
+    /* Synchronizuje stan aktywnoĹ›ci motywĂłw dla stylowania i czytnikĂłw ekranu. */
     document.querySelectorAll('.theme-btn').forEach(btn => {
       const isActive = btn.dataset.theme === theme;
       btn.classList.toggle('is-active', isActive);
@@ -2677,7 +2828,7 @@ window.addEventListener('DOMContentLoaded', ()=>{
       btn.setAttribute('aria-pressed', isActive ? 'true' : 'false');
       btn.addEventListener('click', () => applyTheme(btn.dataset.theme));
     });
-    /* Rejestruje zmianę wielkości czcionki i odtwarza aktywny stan przycisków. */
+    /* Rejestruje zmianÄ™ wielkoĹ›ci czcionki i odtwarza aktywny stan przyciskĂłw. */
     document.querySelectorAll('.font-btn').forEach(btn => {
       btn.classList.toggle('is-active', btn.dataset.fontScale === activeFontScale);
       btn.addEventListener('click', () => applyFontScale(btn.dataset.fontScale));
@@ -2702,3 +2853,5 @@ window.addEventListener('hashchange', () => {
     scrollToArticleSection(sectionId);
   }
 });
+
+

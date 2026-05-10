@@ -1,82 +1,82 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
 
-# Standard redakcyjny przypisów i bibliografii (v1)
+# Standard redakcyjny przypisĂłw i bibliografii (v1)
 
-Ten dokument definiuje minimalny standard cytowania dla treści w `wiki/**/*.md`.
+Ten dokument definiuje minimalny standard cytowania dla treĹ›ci w `wiki/**/*.md`.
 
 ## Zakres stosowania
 
-- Obowiązuje wszystkie nowe i aktualizowane artykuły.
-- Priorytet wdrożenia (iteracja 1): `wiki/diagnostics`, `wiki/psychometrics`, `wiki/forensic_psychology`.
+- Priorytet wdroĹĽenia (iteracja 1): `wiki/testy`, `wiki/psychometria`, `wiki/psychologia_sadowa`.
 
-## Zasady obowiązkowe
+## Zasady obowiÄ…zkowe
 
-1. Każde twierdzenie faktograficzne, kliniczne, prawne lub statystyczne, które może być kwestionowane, musi mieć odwołanie przypisowe w tekście: `[^id]`.
-2. Definicje przypisów umieszczamy na końcu artykułu po nagłówku `## Bibliografia (APA 7)`.
-3. Każda pozycja bibliograficzna ma format APA 7.
-4. Gdy dostępny jest DOI lub stabilny URL, należy go dodać na końcu wpisu.
-5. Identyfikatory przypisów powinny być krótkie i jednoznaczne, np. `[^nasreddine2005]`, `[^kpk]`.
+1. KaĹĽde twierdzenie faktograficzne, kliniczne, prawne lub statystyczne, ktĂłre moĹĽe byÄ‡ kwestionowane, musi mieÄ‡ odwoĹ‚anie przypisowe w tekĹ›cie: `[^id]`.
+2. Definicje przypisĂłw umieszczamy na koĹ„cu artykuĹ‚u po nagĹ‚Ăłwku `## Bibliografia (APA 7)`.
+3. KaĹĽda pozycja bibliograficzna ma format APA 7.
+4. Gdy dostÄ™pny jest DOI lub stabilny URL, naleĹĽy go dodaÄ‡ na koĹ„cu wpisu.
+5. Identyfikatory przypisĂłw powinny byÄ‡ krĂłtkie i jednoznaczne, np. `[^nasreddine2005]`, `[^kpk]`.
 
 ## Minimalny szablon
 
 ```md
-Treść twierdzenia wymagającego źródła.[^id]
+TreĹ›Ä‡ twierdzenia wymagajÄ…cego ĹşrĂłdĹ‚a.[^id]
 
 ## Bibliografia (APA 7)
 
-[^id]: Nazwisko, I. I. (Rok). Tytuł. *Czasopismo, tom*(numer), strony. https://doi.org/...
+[^id]: Nazwisko, I. I. (Rok). TytuĹ‚. *Czasopismo, tom*(numer), strony. https://doi.org/...
 ```
 
 ## Plan iteracyjny
 
-- Iteracja 1 (zrealizowana częściowo): wdrożenie wzorca w wybranych artykułach działów wysokiego ryzyka.
-- Iteracja 2: rozszerzenie na pozostałe pliki w wymienionych działach.
-- Iteracja 3: rozszerzenie na resztę `wiki/**`.
+- Iteracja 1 (zrealizowana czÄ™Ĺ›ciowo): wdroĹĽenie wzorca w wybranych artykuĹ‚ach dziaĹ‚Ăłw wysokiego ryzyka.
+- Iteracja 2: rozszerzenie na pozostaĹ‚e pliki w wymienionych dziaĹ‚ach.
+- Iteracja 3: rozszerzenie na resztÄ™ `wiki/**`.
 
 
 ## Wprowadzenie
 
-Temat tego artykułu jest istotny dla praktyki psychologicznej, ponieważ łączy perspektywę teoretyczną z codziennymi decyzjami klinicznymi lub edukacyjnymi. W literaturze podkreśla się, że trafne rozumienie zjawiska wymaga uwzględnienia kontekstu biologicznego, społecznego i kulturowego. W niniejszym opracowaniu przyjmujemy podejście oparte na dowodach, oddzielając ustalenia empiryczne od interpretacji. Taki porządek ułatwia ocenę jakości argumentów i ogranicza ryzyko uproszczeń. Dzięki temu czytelnik może przełożyć wiedzę teoretyczną na bardziej świadome działania praktyczne.
+Temat tego artykuĹ‚u jest istotny dla praktyki psychologicznej, poniewaĹĽ Ĺ‚Ä…czy perspektywÄ™ teoretycznÄ… z codziennymi decyzjami klinicznymi lub edukacyjnymi. W literaturze podkreĹ›la siÄ™, ĹĽe trafne rozumienie zjawiska wymaga uwzglÄ™dnienia kontekstu biologicznego, spoĹ‚ecznego i kulturowego. W niniejszym opracowaniu przyjmujemy podejĹ›cie oparte na dowodach, oddzielajÄ…c ustalenia empiryczne od interpretacji. Taki porzÄ…dek uĹ‚atwia ocenÄ™ jakoĹ›ci argumentĂłw i ogranicza ryzyko uproszczeĹ„. DziÄ™ki temu czytelnik moĹĽe przeĹ‚oĹĽyÄ‡ wiedzÄ™ teoretycznÄ… na bardziej Ĺ›wiadome dziaĹ‚ania praktyczne.
 
 
 ## Definicje
 
-W tym artykule kluczowe pojęcia są rozumiane w sposób operacyjny, tak aby można je było stosować w badaniach i praktyce. Definicja zjawiska obejmuje zarówno jego kryteria rozpoznania, jak i granice pojęciowe odróżniające je od konstruktów pokrewnych. Warto pamiętać, że część terminów ma kilka konkurencyjnych ujęć, zależnie od szkoły teoretycznej. Dlatego podczas interpretacji wyników należy zawsze wskazać, którą definicję przyjęto i dlaczego. Taka precyzja terminologiczna zwiększa porównywalność danych oraz jakość wnioskowania.
+W tym artykule kluczowe pojÄ™cia sÄ… rozumiane w sposĂłb operacyjny, tak aby moĹĽna je byĹ‚o stosowaÄ‡ w badaniach i praktyce. Definicja zjawiska obejmuje zarĂłwno jego kryteria rozpoznania, jak i granice pojÄ™ciowe odrĂłĹĽniajÄ…ce je od konstruktĂłw pokrewnych. Warto pamiÄ™taÄ‡, ĹĽe czÄ™Ĺ›Ä‡ terminĂłw ma kilka konkurencyjnych ujÄ™Ä‡, zaleĹĽnie od szkoĹ‚y teoretycznej. Dlatego podczas interpretacji wynikĂłw naleĹĽy zawsze wskazaÄ‡, ktĂłrÄ… definicjÄ™ przyjÄ™to i dlaczego. Taka precyzja terminologiczna zwiÄ™ksza porĂłwnywalnoĹ›Ä‡ danych oraz jakoĹ›Ä‡ wnioskowania.
 
 
 ## Analiza
 
-Mechanizmy omawianego zjawiska najlepiej wyjaśniać na kilku poziomach: poznawczym, emocjonalnym, behawioralnym i środowiskowym. Dane empiryczne zwykle pokazują, że efekt końcowy wynika z interakcji wielu czynników, a nie z pojedynczej przyczyny. Z perspektywy metodologicznej warto uwzględnić zarówno wyniki badań przekrojowych, jak i podłużnych, ponieważ odpowiadają one na różne pytania. Ograniczeniem bywa heterogeniczność prób i narzędzi pomiarowych, która utrudnia bezpośrednie porównania między badaniami. Mimo tych ograniczeń spójny obraz zjawiska można uzyskać, łącząc dane ilościowe, jakościowe i kliniczne.
+Mechanizmy omawianego zjawiska najlepiej wyjaĹ›niaÄ‡ na kilku poziomach: poznawczym, emocjonalnym, behawioralnym i Ĺ›rodowiskowym. Dane empiryczne zwykle pokazujÄ…, ĹĽe efekt koĹ„cowy wynika z interakcji wielu czynnikĂłw, a nie z pojedynczej przyczyny. Z perspektywy metodologicznej warto uwzglÄ™dniÄ‡ zarĂłwno wyniki badaĹ„ przekrojowych, jak i podĹ‚uĹĽnych, poniewaĹĽ odpowiadajÄ… one na rĂłĹĽne pytania. Ograniczeniem bywa heterogenicznoĹ›Ä‡ prĂłb i narzÄ™dzi pomiarowych, ktĂłra utrudnia bezpoĹ›rednie porĂłwnania miÄ™dzy badaniami. Mimo tych ograniczeĹ„ spĂłjny obraz zjawiska moĹĽna uzyskaÄ‡, Ĺ‚Ä…czÄ…c dane iloĹ›ciowe, jakoĹ›ciowe i kliniczne.
 
 
 ## Dobra praktyka
 
-Dobrą praktyką jest rozpoczynanie pracy od jasnego celu, kryteriów oceny postępów oraz wspólnego języka używanego przez specjalistę i odbiorcę interwencji. W praktyce oznacza to regularny monitoring efektów, krótkie cykle informacji zwrotnej i gotowość do modyfikacji planu działania. Wysoką skuteczność wspiera także psychoedukacja, która zwiększa poczucie sprawstwa i rozumienie procesu zmiany. Istotne jest ponadto respektowanie granic etycznych oraz uwzględnianie różnic indywidualnych. Konsekwencją takiego podejścia jest większa trwałość rezultatów i mniejsze ryzyko działań pozornych.
+DobrÄ… praktykÄ… jest rozpoczynanie pracy od jasnego celu, kryteriĂłw oceny postÄ™pĂłw oraz wspĂłlnego jÄ™zyka uĹĽywanego przez specjalistÄ™ i odbiorcÄ™ interwencji. W praktyce oznacza to regularny monitoring efektĂłw, krĂłtkie cykle informacji zwrotnej i gotowoĹ›Ä‡ do modyfikacji planu dziaĹ‚ania. WysokÄ… skutecznoĹ›Ä‡ wspiera takĹĽe psychoedukacja, ktĂłra zwiÄ™ksza poczucie sprawstwa i rozumienie procesu zmiany. Istotne jest ponadto respektowanie granic etycznych oraz uwzglÄ™dnianie rĂłĹĽnic indywidualnych. KonsekwencjÄ… takiego podejĹ›cia jest wiÄ™ksza trwaĹ‚oĹ›Ä‡ rezultatĂłw i mniejsze ryzyko dziaĹ‚aĹ„ pozornych.
 
 
-## Zła praktyka
+## ZĹ‚a praktyka
 
-Częstym błędem jest stosowanie jednego schematu postępowania niezależnie od kontekstu, potrzeb i możliwości danej osoby lub grupy. Problemem bywa również opieranie decyzji na intuicji bez sprawdzania jakości danych i aktualnych rekomendacji. W praktyce prowadzi to do nietrafnych interwencji, spadku motywacji oraz utraty zaufania do procesu wsparcia. Złą praktyką jest także pomijanie czynników systemowych, takich jak warunki środowiskowe czy bariery organizacyjne. Konsekwencje obejmują nie tylko słabsze efekty, ale również ryzyko wtórnej szkody psychologicznej.
+CzÄ™stym bĹ‚Ä™dem jest stosowanie jednego schematu postÄ™powania niezaleĹĽnie od kontekstu, potrzeb i moĹĽliwoĹ›ci danej osoby lub grupy. Problemem bywa rĂłwnieĹĽ opieranie decyzji na intuicji bez sprawdzania jakoĹ›ci danych i aktualnych rekomendacji. W praktyce prowadzi to do nietrafnych interwencji, spadku motywacji oraz utraty zaufania do procesu wsparcia. ZĹ‚Ä… praktykÄ… jest takĹĽe pomijanie czynnikĂłw systemowych, takich jak warunki Ĺ›rodowiskowe czy bariery organizacyjne. Konsekwencje obejmujÄ… nie tylko sĹ‚absze efekty, ale rĂłwnieĹĽ ryzyko wtĂłrnej szkody psychologicznej.
 
 
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
+Nieoczywista perspektywa polega na przesuniÄ™ciu uwagi z pytania â€žco jest nie takâ€ť na pytanie â€žjakie warunki podtrzymujÄ… aktualny wzorzec funkcjonowaniaâ€ť. Taki punkt widzenia pozwala dostrzec, ĹĽe czÄ™Ĺ›Ä‡ zachowaĹ„ ocenianych jako problemowe peĹ‚ni funkcjÄ™ adaptacyjnÄ… w krĂłtkim horyzoncie czasu. W badaniach oznacza to potrzebÄ™ analizy kosztĂłw i korzyĹ›ci z perspektywy uczestnika, a nie wyĹ‚Ä…cznie obserwatora. W praktyce moĹĽe to prowadziÄ‡ do bardziej realistycznych celĂłw i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudnoĹ›ci, lecz porzÄ…dkuje je w kategoriach funkcji i kontekstu.
 
 
 ## Podsumowanie
 
-Najważniejszy wniosek jest taki, że rzetelne rozumienie omawianego tematu wymaga łączenia definicji, danych empirycznych i konsekwencji praktycznych. Skuteczne działania opierają się na dopasowaniu metod do celu, monitorowaniu efektów oraz świadomym zarządzaniu ograniczeniami. Jednocześnie należy zachować ostrożność wobec nadmiernych uogólnień, bo jakość wniosków zależy od kontekstu i jakości pomiaru. Włączenie perspektywy alternatywnej zwiększa trafność diagnozy i użyteczność interwencji. Ostatecznie to właśnie integracja wiedzy teoretycznej z praktyką decyduje o wartości edukacyjnej i klinicznej artykułu.
+NajwaĹĽniejszy wniosek jest taki, ĹĽe rzetelne rozumienie omawianego tematu wymaga Ĺ‚Ä…czenia definicji, danych empirycznych i konsekwencji praktycznych. Skuteczne dziaĹ‚ania opierajÄ… siÄ™ na dopasowaniu metod do celu, monitorowaniu efektĂłw oraz Ĺ›wiadomym zarzÄ…dzaniu ograniczeniami. JednoczeĹ›nie naleĹĽy zachowaÄ‡ ostroĹĽnoĹ›Ä‡ wobec nadmiernych uogĂłlnieĹ„, bo jakoĹ›Ä‡ wnioskĂłw zaleĹĽy od kontekstu i jakoĹ›ci pomiaru. WĹ‚Ä…czenie perspektywy alternatywnej zwiÄ™ksza trafnoĹ›Ä‡ diagnozy i uĹĽytecznoĹ›Ä‡ interwencji. Ostatecznie to wĹ‚aĹ›nie integracja wiedzy teoretycznej z praktykÄ… decyduje o wartoĹ›ci edukacyjnej i klinicznej artykuĹ‚u.
 
 
 ## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
+3. NÄ™cka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
 4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
 5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+

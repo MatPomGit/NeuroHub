@@ -1,28 +1,28 @@
-# Raport: artykuły bez odnośników wewnętrznych
+﻿ďż˝# Raport: artyku9y bez odno9:nikBw wewnďż˝"trznych
 
 Data analizy: 2026-04-29
 
-Łącznie artykułów `.md` w `wiki/`: **701**.
+9ďż˝ďż˝&cznie artyku9Bw `.md` w `wiki/`: **701**.
 
-Artykuły bez żadnego odnośnika przychodzącego: **645**.
+Artyku9y bez 9=adnego odno9:nika przychodzďż˝&cego: **645**.
 
-## Zestawienie według folderów
+## Zestawienie wed9ug folderBw
 
-| Folder | Liczba artykułów bez odnośników |
+| Folder | Liczba artyku9Bw bez odno9:nikBw |
 |---|---:|
 | `(root)` | 3 |
 | `affective_robotics` | 12 |
-| `ai_psychology` | 12 |
+| `psychologia_ai` | 12 |
 | `animaltherapy` | 7 |
 | `artetherapy` | 8 |
 | `biology` | 10 |
-| `cases` | 3 |
-| `child_clinical_intro` | 12 |
-| `child_family_support_institutions` | 12 |
+| `przypadki_kliniczne` | 3 |
+| `psychologia_kliniczna_dziecka` | 12 |
+| `instytucje_wsparcia_dziecka_i_rodziny` | 12 |
 | `cognitive` | 28 |
 | `diagnostics` | 12 |
 | `diagnoza` | 8 |
-| `disability_psychology` | 12 |
+| `psychologia_niepelnosprawnosci` | 12 |
 | `disorders` | 9 |
 | `e_therapy` | 12 |
 | `eksperyment_psychologiczny` | 12 |
@@ -30,15 +30,15 @@ Artykuły bez żadnego odnośnika przychodzącego: **645**.
 | `etyka` | 12 |
 | `forensic_psychology` | 12 |
 | `game_psychology` | 12 |
-| `geropsychology` | 12 |
+| `geropsychologia` | 12 |
 | `health_psychology` | 24 |
 | `individual_diffs` | 9 |
-| `intro` | 4 |
+| `wstep_do_psychologii` | 4 |
 | `kulturowa` | 12 |
-| `media_nature` | 12 |
+| `ekrany_ksiazki_i_natura` | 12 |
 | `neuro` | 15 |
 | `neurodiversity` | 13 |
-| `nvc` | 12 |
+| `porozumiewanie_sie_bez_przemocy` | 12 |
 | `overeating_psychology` | 12 |
 | `pharmacology` | 10 |
 | `philosophy` | 28 |
@@ -48,13 +48,13 @@ Artykuły bez żadnego odnośnika przychodzącego: **645**.
 | `psychofarmakologia` | 1 |
 | `psychometrics` | 14 |
 | `psychopathology` | 18 |
-| `psychosomatics` | 14 |
+| `psychosomatyka` | 14 |
 | `psychotherapy` | 18 |
-| `reacting_to_criticism` | 13 |
+| `reagowanie_na_krytyke` | 13 |
 | `reference` | 13 |
 | `relacje` | 12 |
 | `resilience_mobbing` | 12 |
-| `resocialization` | 12 |
+| `resocjalizacja` | 12 |
 | `rozwojowa` | 12 |
 | `school_psychology` | 13 |
 | `sexology` | 14 |
@@ -65,9 +65,9 @@ Artykuły bez żadnego odnośnika przychodzącego: **645**.
 | `temperament` | 12 |
 | `uzaleznienia` | 11 |
 
-## Podlinkowane zestawienie artykułów
+## Podlinkowane zestawienie artyku9Bw
 
-Poniżej znajdują się bezpośrednie odnośniki do artykułów bez linków przychodzących (ułatwia ręczne podpinanie we właściwych miejscach na stronie):
+Poni9=ej znajdujďż˝& siďż˝" bezpo9:rednie odno9:niki do artyku9Bw bez linkBw przychodzďż˝&cych (u9atwia rďż˝"czne podpinanie we w9a9:ciwych miejscach na stronie):
 
 ### (root)
 
@@ -77,134 +77,134 @@ Poniżej znajdują się bezpośrednie odnośniki do artykułów bez linków przy
 
 ### affective_robotics
 
-- [`affective_robotics/dolina_niesamowitosci.md`](../affective_robotics/dolina_niesamowitosci.md)
-- [`affective_robotics/emocje_robotow.md`](../affective_robotics/emocje_robotow.md)
-- [`affective_robotics/historia_robotyki_afektywnej.md`](../affective_robotics/historia_robotyki_afektywnej.md)
-- [`affective_robotics/interfejsy_mozg_maszyna.md`](../affective_robotics/interfejsy_mozg_maszyna.md)
-- [`affective_robotics/kognitywistyka_obliczeniowa.md`](../affective_robotics/kognitywistyka_obliczeniowa.md)
-- [`affective_robotics/percepcja_robotow.md`](../affective_robotics/percepcja_robotow.md)
-- [`affective_robotics/przyszlosc_robotyki_afektywnej.md`](../affective_robotics/przyszlosc_robotyki_afektywnej.md)
-- [`affective_robotics/roboty_spoleczne.md`](../affective_robotics/roboty_spoleczne.md)
-- [`affective_robotics/roboty_w_opiece.md`](../affective_robotics/roboty_w_opiece.md)
-- [`affective_robotics/swiadomosc_maszyn.md`](../affective_robotics/swiadomosc_maszyn.md)
-- [`affective_robotics/wprowadzenie.md`](../affective_robotics/wprowadzenie.md)
-- [`affective_robotics/wspolpraca_czlowiek_robot.md`](../affective_robotics/wspolpraca_czlowiek_robot.md)
+- [`affective_robotics/dolina_niesamowitosci.md`](../robotyka_afektywna/dolina_niesamowitosci.md)
+- [`affective_robotics/emocje_robotow.md`](../robotyka_afektywna/emocje_robotow.md)
+- [`affective_robotics/historia_robotyki_afektywnej.md`](../robotyka_afektywna/historia_robotyki_afektywnej.md)
+- [`affective_robotics/interfejsy_mozg_maszyna.md`](../robotyka_afektywna/interfejsy_mozg_maszyna.md)
+- [`affective_robotics/kognitywistyka_obliczeniowa.md`](../robotyka_afektywna/kognitywistyka_obliczeniowa.md)
+- [`affective_robotics/percepcja_robotow.md`](../robotyka_afektywna/percepcja_robotow.md)
+- [`affective_robotics/przyszlosc_robotyki_afektywnej.md`](../robotyka_afektywna/przyszlosc_robotyki_afektywnej.md)
+- [`affective_robotics/roboty_spoleczne.md`](../robotyka_afektywna/roboty_spoleczne.md)
+- [`affective_robotics/roboty_w_opiece.md`](../robotyka_afektywna/roboty_w_opiece.md)
+- [`affective_robotics/swiadomosc_maszyn.md`](../robotyka_afektywna/swiadomosc_maszyn.md)
+- [`affective_robotics/wprowadzenie.md`](../robotyka_afektywna/wprowadzenie.md)
+- [`affective_robotics/wspolpraca_czlowiek_robot.md`](../robotyka_afektywna/wspolpraca_czlowiek_robot.md)
 
-### ai_psychology
+### psychologia_ai
 
-- [`ai_psychology/ai_emocje.md`](../ai_psychology/ai_emocje.md)
-- [`ai_psychology/ai_poznawcze.md`](../ai_psychology/ai_poznawcze.md)
-- [`ai_psychology/ai_w_terapii.md`](../ai_psychology/ai_w_terapii.md)
-- [`ai_psychology/antropomorfizacja_ai.md`](../ai_psychology/antropomorfizacja_ai.md)
-- [`ai_psychology/czlowiek_a_ai.md`](../ai_psychology/czlowiek_a_ai.md)
-- [`ai_psychology/decyzje_ai.md`](../ai_psychology/decyzje_ai.md)
-- [`ai_psychology/etyka_ai.md`](../ai_psychology/etyka_ai.md)
-- [`ai_psychology/historia_ai.md`](../ai_psychology/historia_ai.md)
-- [`ai_psychology/przyszlosc_ai.md`](../ai_psychology/przyszlosc_ai.md)
-- [`ai_psychology/uprzedzenia_ai.md`](../ai_psychology/uprzedzenia_ai.md)
-- [`ai_psychology/wprowadzenie.md`](../ai_psychology/wprowadzenie.md)
-- [`ai_psychology/zaufanie_do_ai.md`](../ai_psychology/zaufanie_do_ai.md)
+- [`psychologia_ai/ai_emocje.md`](../psychologia_ai/ai_emocje.md)
+- [`psychologia_ai/ai_poznawcze.md`](../psychologia_ai/ai_poznawcze.md)
+- [`psychologia_ai/ai_w_terapii.md`](../psychologia_ai/ai_w_terapii.md)
+- [`psychologia_ai/antropomorfizacja_ai.md`](../psychologia_ai/antropomorfizacja_ai.md)
+- [`psychologia_ai/czlowiek_a_ai.md`](../psychologia_ai/czlowiek_a_ai.md)
+- [`psychologia_ai/decyzje_ai.md`](../psychologia_ai/decyzje_ai.md)
+- [`psychologia_ai/etyka_ai.md`](../psychologia_ai/etyka_ai.md)
+- [`psychologia_ai/historia_ai.md`](../psychologia_ai/historia_ai.md)
+- [`psychologia_ai/przyszlosc_ai.md`](../psychologia_ai/przyszlosc_ai.md)
+- [`psychologia_ai/uprzedzenia_ai.md`](../psychologia_ai/uprzedzenia_ai.md)
+- [`psychologia_ai/wprowadzenie.md`](../psychologia_ai/wprowadzenie.md)
+- [`psychologia_ai/zaufanie_do_ai.md`](../psychologia_ai/zaufanie_do_ai.md)
 
 ### animaltherapy
 
-- [`animaltherapy/aat_zastosowania.md`](../animaltherapy/aat_zastosowania.md)
-- [`animaltherapy/animaloterapia_wprowadzenie.md`](../animaltherapy/animaloterapia_wprowadzenie.md)
-- [`animaltherapy/dogoterapia.md`](../animaltherapy/dogoterapia.md)
-- [`animaltherapy/etyka_aat.md`](../animaltherapy/etyka_aat.md)
-- [`animaltherapy/felinoterapia.md`](../animaltherapy/felinoterapia.md)
-- [`animaltherapy/hipoterapia.md`](../animaltherapy/hipoterapia.md)
-- [`animaltherapy/mechanizmy_aat.md`](../animaltherapy/mechanizmy_aat.md)
+- [`animaltherapy/aat_zastosowania.md`](../animaloterapia/aat_zastosowania.md)
+- [`animaltherapy/animaloterapia_wprowadzenie.md`](../animaloterapia/animaloterapia_wprowadzenie.md)
+- [`animaltherapy/dogoterapia.md`](../animaloterapia/dogoterapia.md)
+- [`animaltherapy/etyka_aat.md`](../animaloterapia/etyka_aat.md)
+- [`animaltherapy/felinoterapia.md`](../animaloterapia/felinoterapia.md)
+- [`animaltherapy/hipoterapia.md`](../animaloterapia/hipoterapia.md)
+- [`animaltherapy/mechanizmy_aat.md`](../animaloterapia/mechanizmy_aat.md)
 
 ### artetherapy
 
-- [`artetherapy/art_therapy.md`](../artetherapy/art_therapy.md)
-- [`artetherapy/arteterapia_wprowadzenie.md`](../artetherapy/arteterapia_wprowadzenie.md)
-- [`artetherapy/biblioterapia.md`](../artetherapy/biblioterapia.md)
-- [`artetherapy/dmt.md`](../artetherapy/dmt.md)
-- [`artetherapy/drameterapia.md`](../artetherapy/drameterapia.md)
-- [`artetherapy/mechanizmy.md`](../artetherapy/mechanizmy.md)
-- [`artetherapy/muzykoterapia.md`](../artetherapy/muzykoterapia.md)
-- [`artetherapy/zastosowania.md`](../artetherapy/zastosowania.md)
+- [`artetherapy/art_therapy.md`](../arteterapia/art_therapy.md)
+- [`artetherapy/arteterapia_wprowadzenie.md`](../arteterapia/arteterapia_wprowadzenie.md)
+- [`artetherapy/biblioterapia.md`](../arteterapia/biblioterapia.md)
+- [`artetherapy/dmt.md`](../arteterapia/dmt.md)
+- [`artetherapy/drameterapia.md`](../arteterapia/drameterapia.md)
+- [`artetherapy/mechanizmy.md`](../arteterapia/mechanizmy.md)
+- [`artetherapy/muzykoterapia.md`](../arteterapia/muzykoterapia.md)
+- [`artetherapy/zastosowania.md`](../arteterapia/zastosowania.md)
 
 ### biology
 
-- [`biology/biologiczne_podstawy.md`](../biology/biologiczne_podstawy.md)
-- [`biology/chronobiologia.md`](../biology/chronobiologia.md)
-- [`biology/chronopsychologia.md`](../biology/chronopsychologia.md)
-- [`biology/epigenetyka.md`](../biology/epigenetyka.md)
-- [`biology/ewolucja.md`](../biology/ewolucja.md)
-- [`biology/genetyka_beh.md`](../biology/genetyka_beh.md)
-- [`biology/hormony.md`](../biology/hormony.md)
-- [`biology/mikrobiom.md`](../biology/mikrobiom.md)
-- [`biology/psychofizjologia.md`](../biology/psychofizjologia.md)
-- [`biology/transmisja_genetyczna_zaburzen_psychicznych.md`](../biology/transmisja_genetyczna_zaburzen_psychicznych.md)
+- [`biology/biologiczne_podstawy.md`](../biologia/biologiczne_podstawy.md)
+- [`biology/chronobiologia.md`](../biologia/chronobiologia.md)
+- [`biology/chronopsychologia.md`](../biologia/chronopsychologia.md)
+- [`biology/epigenetyka.md`](../biologia/epigenetyka.md)
+- [`biology/ewolucja.md`](../biologia/ewolucja.md)
+- [`biology/genetyka_beh.md`](../biologia/genetyka_beh.md)
+- [`biology/hormony.md`](../biologia/hormony.md)
+- [`biology/mikrobiom.md`](../biologia/mikrobiom.md)
+- [`biology/psychofizjologia.md`](../biologia/psychofizjologia.md)
+- [`biology/transmisja_genetyczna_zaburzen_psychicznych.md`](../biologia/transmisja_genetyczna_zaburzen_psychicznych.md)
 
-### cases
+### przypadki_kliniczne
 
-- [`cases/gage.md`](../cases/gage.md)
-- [`cases/hm.md`](../cases/hm.md)
-- [`cases/tan.md`](../cases/tan.md)
+- [`przypadki_kliniczne/gage.md`](../przypadki_kliniczne/gage.md)
+- [`przypadki_kliniczne/hm.md`](../przypadki_kliniczne/hm.md)
+- [`przypadki_kliniczne/tan.md`](../przypadki_kliniczne/tan.md)
 
-### child_clinical_intro
+### psychologia_kliniczna_dziecka
 
-- [`child_clinical_intro/bledy_diagnostyczne_i_iatrogenia.md`](../child_clinical_intro/bledy_diagnostyczne_i_iatrogenia.md)
-- [`child_clinical_intro/cbt_dzieci_i_mlodziez.md`](../child_clinical_intro/cbt_dzieci_i_mlodziez.md)
-- [`child_clinical_intro/czym_jest_psychologia_kliniczna_dziecka.md`](../child_clinical_intro/czym_jest_psychologia_kliniczna_dziecka.md)
-- [`child_clinical_intro/czynniki_ryzyka_i_ochronne.md`](../child_clinical_intro/czynniki_ryzyka_i_ochronne.md)
-- [`child_clinical_intro/diagnoza_roznicowa_neurorozwojowa.md`](../child_clinical_intro/diagnoza_roznicowa_neurorozwojowa.md)
-- [`child_clinical_intro/formulowanie_przypadku_4p.md`](../child_clinical_intro/formulowanie_przypadku_4p.md)
-- [`child_clinical_intro/interwencje_rodzicielskie_pmt.md`](../child_clinical_intro/interwencje_rodzicielskie_pmt.md)
-- [`child_clinical_intro/norma_rozwojowa_a_objaw.md`](../child_clinical_intro/norma_rozwojowa_a_objaw.md)
-- [`child_clinical_intro/przywiazanie_i_relacje_opiekuncze.md`](../child_clinical_intro/przywiazanie_i_relacje_opiekuncze.md)
-- [`child_clinical_intro/regulacja_emocji_i_samokontrola.md`](../child_clinical_intro/regulacja_emocji_i_samokontrola.md)
-- [`child_clinical_intro/wspolpraca_rodzina_szkola_system.md`](../child_clinical_intro/wspolpraca_rodzina_szkola_system.md)
-- [`child_clinical_intro/wywiad_kliniczny_z_dzieckiem_i_rodzina.md`](../child_clinical_intro/wywiad_kliniczny_z_dzieckiem_i_rodzina.md)
+- [`psychologia_kliniczna_dziecka/bledy_diagnostyczne_i_iatrogenia.md`](../psychologia_kliniczna_dziecka/bledy_diagnostyczne_i_iatrogenia.md)
+- [`psychologia_kliniczna_dziecka/cbt_dzieci_i_mlodziez.md`](../psychologia_kliniczna_dziecka/cbt_dzieci_i_mlodziez.md)
+- [`psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka.md`](../psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka.md)
+- [`psychologia_kliniczna_dziecka/czynniki_ryzyka_i_ochronne.md`](../psychologia_kliniczna_dziecka/czynniki_ryzyka_i_ochronne.md)
+- [`psychologia_kliniczna_dziecka/diagnoza_roznicowa_neurorozwojowa.md`](../psychologia_kliniczna_dziecka/diagnoza_roznicowa_neurorozwojowa.md)
+- [`psychologia_kliniczna_dziecka/formulowanie_przypadku_4p.md`](../psychologia_kliniczna_dziecka/formulowanie_przypadku_4p.md)
+- [`psychologia_kliniczna_dziecka/interwencje_rodzicielskie_pmt.md`](../psychologia_kliniczna_dziecka/interwencje_rodzicielskie_pmt.md)
+- [`psychologia_kliniczna_dziecka/norma_rozwojowa_a_objaw.md`](../psychologia_kliniczna_dziecka/norma_rozwojowa_a_objaw.md)
+- [`psychologia_kliniczna_dziecka/przywiazanie_i_relacje_opiekuncze.md`](../psychologia_kliniczna_dziecka/przywiazanie_i_relacje_opiekuncze.md)
+- [`psychologia_kliniczna_dziecka/regulacja_emocji_i_samokontrola.md`](../psychologia_kliniczna_dziecka/regulacja_emocji_i_samokontrola.md)
+- [`psychologia_kliniczna_dziecka/wspolpraca_rodzina_szkola_system.md`](../psychologia_kliniczna_dziecka/wspolpraca_rodzina_szkola_system.md)
+- [`psychologia_kliniczna_dziecka/wywiad_kliniczny_z_dzieckiem_i_rodzina.md`](../psychologia_kliniczna_dziecka/wywiad_kliniczny_z_dzieckiem_i_rodzina.md)
 
-### child_family_support_institutions
+### instytucje_wsparcia_dziecka_i_rodziny
 
-- [`child_family_support_institutions/bledy_systemowe_i_dobre_praktyki.md`](../child_family_support_institutions/bledy_systemowe_i_dobre_praktyki.md)
-- [`child_family_support_institutions/interwencja_kryzysowa_i_niebieska_karta.md`](../child_family_support_institutions/interwencja_kryzysowa_i_niebieska_karta.md)
-- [`child_family_support_institutions/koordynacja_miedzyinstytucjonalna.md`](../child_family_support_institutions/koordynacja_miedzyinstytucjonalna.md)
-- [`child_family_support_institutions/mapa_systemu_wsparcia.md`](../child_family_support_institutions/mapa_systemu_wsparcia.md)
-- [`child_family_support_institutions/ngo_i_programy_srodowiskowe.md`](../child_family_support_institutions/ngo_i_programy_srodowiskowe.md)
-- [`child_family_support_institutions/ochrona_zdrowia_psychicznego_dzieci.md`](../child_family_support_institutions/ochrona_zdrowia_psychicznego_dzieci.md)
-- [`child_family_support_institutions/osrodek_pomocy_spolecznej_i_praca_socjalna.md`](../child_family_support_institutions/osrodek_pomocy_spolecznej_i_praca_socjalna.md)
-- [`child_family_support_institutions/piecza_zastepcza_i_asysta_rodziny.md`](../child_family_support_institutions/piecza_zastepcza_i_asysta_rodziny.md)
-- [`child_family_support_institutions/poradnia_psychologiczno_pedagogiczna.md`](../child_family_support_institutions/poradnia_psychologiczno_pedagogiczna.md)
-- [`child_family_support_institutions/prawa_dziecka_i_standardy_ochrony.md`](../child_family_support_institutions/prawa_dziecka_i_standardy_ochrony.md)
-- [`child_family_support_institutions/sad_rodzinny_i_kurator.md`](../child_family_support_institutions/sad_rodzinny_i_kurator.md)
-- [`child_family_support_institutions/szkola_jako_instytucja_wsparcia.md`](../child_family_support_institutions/szkola_jako_instytucja_wsparcia.md)
+- [`instytucje_wsparcia_dziecka_i_rodziny/bledy_systemowe_i_dobre_praktyki.md`](../instytucje_wsparcia_dziecka_i_rodziny/bledy_systemowe_i_dobre_praktyki.md)
+- [`instytucje_wsparcia_dziecka_i_rodziny/interwencja_kryzysowa_i_niebieska_karta.md`](../instytucje_wsparcia_dziecka_i_rodziny/interwencja_kryzysowa_i_niebieska_karta.md)
+- [`instytucje_wsparcia_dziecka_i_rodziny/koordynacja_miedzyinstytucjonalna.md`](../instytucje_wsparcia_dziecka_i_rodziny/koordynacja_miedzyinstytucjonalna.md)
+- [`instytucje_wsparcia_dziecka_i_rodziny/mapa_systemu_wsparcia.md`](../instytucje_wsparcia_dziecka_i_rodziny/mapa_systemu_wsparcia.md)
+- [`instytucje_wsparcia_dziecka_i_rodziny/ngo_i_programy_srodowiskowe.md`](../instytucje_wsparcia_dziecka_i_rodziny/ngo_i_programy_srodowiskowe.md)
+- [`instytucje_wsparcia_dziecka_i_rodziny/ochrona_zdrowia_psychicznego_dzieci.md`](../instytucje_wsparcia_dziecka_i_rodziny/ochrona_zdrowia_psychicznego_dzieci.md)
+- [`instytucje_wsparcia_dziecka_i_rodziny/osrodek_pomocy_spolecznej_i_praca_socjalna.md`](../instytucje_wsparcia_dziecka_i_rodziny/osrodek_pomocy_spolecznej_i_praca_socjalna.md)
+- [`instytucje_wsparcia_dziecka_i_rodziny/piecza_zastepcza_i_asysta_rodziny.md`](../instytucje_wsparcia_dziecka_i_rodziny/piecza_zastepcza_i_asysta_rodziny.md)
+- [`instytucje_wsparcia_dziecka_i_rodziny/poradnia_psychologiczno_pedagogiczna.md`](../instytucje_wsparcia_dziecka_i_rodziny/poradnia_psychologiczno_pedagogiczna.md)
+- [`instytucje_wsparcia_dziecka_i_rodziny/prawa_dziecka_i_standardy_ochrony.md`](../instytucje_wsparcia_dziecka_i_rodziny/prawa_dziecka_i_standardy_ochrony.md)
+- [`instytucje_wsparcia_dziecka_i_rodziny/sad_rodzinny_i_kurator.md`](../instytucje_wsparcia_dziecka_i_rodziny/sad_rodzinny_i_kurator.md)
+- [`instytucje_wsparcia_dziecka_i_rodziny/szkola_jako_instytucja_wsparcia.md`](../instytucje_wsparcia_dziecka_i_rodziny/szkola_jako_instytucja_wsparcia.md)
 
 ### cognitive
 
-- [`cognitive/architektury_kognitywne.md`](../cognitive/architektury_kognitywne.md)
-- [`cognitive/efekt_ramowania.md`](../cognitive/efekt_ramowania.md)
-- [`cognitive/eksperyment_posnera.md`](../cognitive/eksperyment_posnera.md)
-- [`cognitive/exploration_exploitation_dilemma.md`](../cognitive/exploration_exploitation_dilemma.md)
-- [`cognitive/funkcje_wykonawcze.md`](../cognitive/funkcje_wykonawcze.md)
-- [`cognitive/hda.md`](../cognitive/hda.md)
-- [`cognitive/iluzje.md`](../cognitive/iluzje.md)
-- [`cognitive/jezyk.md`](../cognitive/jezyk.md)
-- [`cognitive/maly_albert.md`](../cognitive/maly_albert.md)
-- [`cognitive/myslenie.md`](../cognitive/myslenie.md)
-- [`cognitive/nasa_tlx.md`](../cognitive/nasa_tlx.md)
-- [`cognitive/nauki_kognitywne.md`](../cognitive/nauki_kognitywne.md)
-- [`cognitive/pamiec.md`](../cognitive/pamiec.md)
-- [`cognitive/pamiec_dlugotrwala.md`](../cognitive/pamiec_dlugotrwala.md)
-- [`cognitive/percepcja.md`](../cognitive/percepcja.md)
-- [`cognitive/podejmowanie_decyzji.md`](../cognitive/podejmowanie_decyzji.md)
-- [`cognitive/przetwarzanie_predyktywne.md`](../cognitive/przetwarzanie_predyktywne.md)
-- [`cognitive/przyklad_testu_stroopa.md`](../cognitive/przyklad_testu_stroopa.md)
-- [`cognitive/swiadomosc.md`](../cognitive/swiadomosc.md)
-- [`cognitive/teoria_perspektywy.md`](../cognitive/teoria_perspektywy.md)
-- [`cognitive/test_stroopa.md`](../cognitive/test_stroopa.md)
-- [`cognitive/ucielesnienie.md`](../cognitive/ucielesnienie.md)
-- [`cognitive/uczenie.md`](../cognitive/uczenie.md)
-- [`cognitive/uklad_siatkowaty.md`](../cognitive/uklad_siatkowaty.md)
-- [`cognitive/uwaga.md`](../cognitive/uwaga.md)
-- [`cognitive/uwaga_mimowolna.md`](../cognitive/uwaga_mimowolna.md)
-- [`cognitive/wyobraznia.md`](../cognitive/wyobraznia.md)
-- [`cognitive/zmeczenie_poznawcze.md`](../cognitive/zmeczenie_poznawcze.md)
+- [`cognitive/architektury_kognitywne.md`](../poznawcza/architektury_kognitywne.md)
+- [`cognitive/efekt_ramowania.md`](../poznawcza/efekt_ramowania.md)
+- [`cognitive/eksperyment_posnera.md`](../poznawcza/eksperyment_posnera.md)
+- [`cognitive/exploration_exploitation_dilemma.md`](../poznawcza/exploration_exploitation_dilemma.md)
+- [`cognitive/funkcje_wykonawcze.md`](../poznawcza/funkcje_wykonawcze.md)
+- [`cognitive/hda.md`](../poznawcza/hda.md)
+- [`cognitive/iluzje.md`](../poznawcza/iluzje.md)
+- [`cognitive/jezyk.md`](../poznawcza/jezyk.md)
+- [`cognitive/maly_albert.md`](../poznawcza/maly_albert.md)
+- [`cognitive/myslenie.md`](../poznawcza/myslenie.md)
+- [`cognitive/nasa_tlx.md`](../poznawcza/nasa_tlx.md)
+- [`cognitive/nauki_kognitywne.md`](../poznawcza/nauki_kognitywne.md)
+- [`cognitive/pamiec.md`](../poznawcza/pamiec.md)
+- [`cognitive/pamiec_dlugotrwala.md`](../poznawcza/pamiec_dlugotrwala.md)
+- [`cognitive/percepcja.md`](../poznawcza/percepcja.md)
+- [`cognitive/podejmowanie_decyzji.md`](../poznawcza/podejmowanie_decyzji.md)
+- [`cognitive/przetwarzanie_predyktywne.md`](../poznawcza/przetwarzanie_predyktywne.md)
+- [`cognitive/przyklad_testu_stroopa.md`](../poznawcza/przyklad_testu_stroopa.md)
+- [`cognitive/swiadomosc.md`](../poznawcza/swiadomosc.md)
+- [`cognitive/teoria_perspektywy.md`](../poznawcza/teoria_perspektywy.md)
+- [`cognitive/test_stroopa.md`](../poznawcza/test_stroopa.md)
+- [`cognitive/ucielesnienie.md`](../poznawcza/ucielesnienie.md)
+- [`cognitive/uczenie.md`](../poznawcza/uczenie.md)
+- [`cognitive/uklad_siatkowaty.md`](../poznawcza/uklad_siatkowaty.md)
+- [`cognitive/uwaga.md`](../poznawcza/uwaga.md)
+- [`cognitive/uwaga_mimowolna.md`](../poznawcza/uwaga_mimowolna.md)
+- [`cognitive/wyobraznia.md`](../poznawcza/wyobraznia.md)
+- [`cognitive/zmeczenie_poznawcze.md`](../poznawcza/zmeczenie_poznawcze.md)
 
 ### diagnostics
 
@@ -232,47 +232,47 @@ Poniżej znajdują się bezpośrednie odnośniki do artykułów bez linków przy
 - [`diagnoza/techniki_projekcyjne.md`](../diagnoza/techniki_projekcyjne.md)
 - [`diagnoza/wywiad_psychologiczny.md`](../diagnoza/wywiad_psychologiczny.md)
 
-### disability_psychology
+### psychologia_niepelnosprawnosci
 
-- [`disability_psychology/autyzm_niepelnosprawnosc.md`](../disability_psychology/autyzm_niepelnosprawnosc.md)
-- [`disability_psychology/inkluzja_spoleczna.md`](../disability_psychology/inkluzja_spoleczna.md)
-- [`disability_psychology/jakosc_zycia.md`](../disability_psychology/jakosc_zycia.md)
-- [`disability_psychology/modele_niepelnosprawnosci.md`](../disability_psychology/modele_niepelnosprawnosci.md)
-- [`disability_psychology/niepelnosprawnosc_intelektualna.md`](../disability_psychology/niepelnosprawnosc_intelektualna.md)
-- [`disability_psychology/niepelnosprawnosc_ruchowa.md`](../disability_psychology/niepelnosprawnosc_ruchowa.md)
-- [`disability_psychology/niepelnosprawnosc_sluchowa.md`](../disability_psychology/niepelnosprawnosc_sluchowa.md)
-- [`disability_psychology/niepelnosprawnosc_wzrokowa.md`](../disability_psychology/niepelnosprawnosc_wzrokowa.md)
-- [`disability_psychology/rehabilitacja_psychologiczna.md`](../disability_psychology/rehabilitacja_psychologiczna.md)
-- [`disability_psychology/rodzina_i_opiekunowie.md`](../disability_psychology/rodzina_i_opiekunowie.md)
-- [`disability_psychology/stres_i_adaptacja.md`](../disability_psychology/stres_i_adaptacja.md)
-- [`disability_psychology/wprowadzenie.md`](../disability_psychology/wprowadzenie.md)
+- [`psychologia_niepelnosprawnosci/autyzm_niepelnosprawnosc.md`](../psychologia_niepelnosprawnosci/autyzm_niepelnosprawnosc.md)
+- [`psychologia_niepelnosprawnosci/inkluzja_spoleczna.md`](../psychologia_niepelnosprawnosci/inkluzja_spoleczna.md)
+- [`psychologia_niepelnosprawnosci/jakosc_zycia.md`](../psychologia_niepelnosprawnosci/jakosc_zycia.md)
+- [`psychologia_niepelnosprawnosci/modele_niepelnosprawnosci.md`](../psychologia_niepelnosprawnosci/modele_niepelnosprawnosci.md)
+- [`psychologia_niepelnosprawnosci/niepelnosprawnosc_intelektualna.md`](../psychologia_niepelnosprawnosci/niepelnosprawnosc_intelektualna.md)
+- [`psychologia_niepelnosprawnosci/niepelnosprawnosc_ruchowa.md`](../psychologia_niepelnosprawnosci/niepelnosprawnosc_ruchowa.md)
+- [`psychologia_niepelnosprawnosci/niepelnosprawnosc_sluchowa.md`](../psychologia_niepelnosprawnosci/niepelnosprawnosc_sluchowa.md)
+- [`psychologia_niepelnosprawnosci/niepelnosprawnosc_wzrokowa.md`](../psychologia_niepelnosprawnosci/niepelnosprawnosc_wzrokowa.md)
+- [`psychologia_niepelnosprawnosci/rehabilitacja_psychologiczna.md`](../psychologia_niepelnosprawnosci/rehabilitacja_psychologiczna.md)
+- [`psychologia_niepelnosprawnosci/rodzina_i_opiekunowie.md`](../psychologia_niepelnosprawnosci/rodzina_i_opiekunowie.md)
+- [`psychologia_niepelnosprawnosci/stres_i_adaptacja.md`](../psychologia_niepelnosprawnosci/stres_i_adaptacja.md)
+- [`psychologia_niepelnosprawnosci/wprowadzenie.md`](../psychologia_niepelnosprawnosci/wprowadzenie.md)
 
 ### disorders
 
-- [`disorders/adhd.md`](../disorders/adhd.md)
-- [`disorders/afazje.md`](../disorders/afazje.md)
-- [`disorders/agnozja.md`](../disorders/agnozja.md)
-- [`disorders/amnezje.md`](../disorders/amnezje.md)
-- [`disorders/apraksja.md`](../disorders/apraksja.md)
-- [`disorders/asd.md`](../disorders/asd.md)
-- [`disorders/neglect.md`](../disorders/neglect.md)
-- [`disorders/otepienia.md`](../disorders/otepienia.md)
-- [`disorders/tbi.md`](../disorders/tbi.md)
+- [`disorders/adhd.md`](../zaburzenia/adhd.md)
+- [`disorders/afazje.md`](../zaburzenia/afazje.md)
+- [`disorders/agnozja.md`](../zaburzenia/agnozja.md)
+- [`disorders/amnezje.md`](../zaburzenia/amnezje.md)
+- [`disorders/apraksja.md`](../zaburzenia/apraksja.md)
+- [`disorders/asd.md`](../zaburzenia/asd.md)
+- [`disorders/neglect.md`](../zaburzenia/neglect.md)
+- [`disorders/otepienia.md`](../zaburzenia/otepienia.md)
+- [`disorders/tbi.md`](../zaburzenia/tbi.md)
 
 ### e_therapy
 
-- [`e_therapy/aplikacje_zdrowia_psychicznego.md`](../e_therapy/aplikacje_zdrowia_psychicznego.md)
-- [`e_therapy/chatboty_terapeutyczne.md`](../e_therapy/chatboty_terapeutyczne.md)
-- [`e_therapy/dostepnosc_cyfrowa.md`](../e_therapy/dostepnosc_cyfrowa.md)
-- [`e_therapy/e_terapia_dzieci.md`](../e_therapy/e_terapia_dzieci.md)
-- [`e_therapy/etyka_e_terapii.md`](../e_therapy/etyka_e_terapii.md)
-- [`e_therapy/historia_e_terapii.md`](../e_therapy/historia_e_terapii.md)
-- [`e_therapy/platformy_e_terapii.md`](../e_therapy/platformy_e_terapii.md)
-- [`e_therapy/przyszlosc_e_terapii.md`](../e_therapy/przyszlosc_e_terapii.md)
-- [`e_therapy/skutecznosc_e_terapii.md`](../e_therapy/skutecznosc_e_terapii.md)
-- [`e_therapy/terapia_online.md`](../e_therapy/terapia_online.md)
-- [`e_therapy/vr_terapia.md`](../e_therapy/vr_terapia.md)
-- [`e_therapy/wprowadzenie.md`](../e_therapy/wprowadzenie.md)
+- [`e_therapy/aplikacje_zdrowia_psychicznego.md`](../e_terapia/aplikacje_zdrowia_psychicznego.md)
+- [`e_therapy/chatboty_terapeutyczne.md`](../e_terapia/chatboty_terapeutyczne.md)
+- [`e_therapy/dostepnosc_cyfrowa.md`](../e_terapia/dostepnosc_cyfrowa.md)
+- [`e_therapy/e_terapia_dzieci.md`](../e_terapia/e_terapia_dzieci.md)
+- [`e_therapy/etyka_e_terapii.md`](../e_terapia/etyka_e_terapii.md)
+- [`e_therapy/historia_e_terapii.md`](../e_terapia/historia_e_terapii.md)
+- [`e_therapy/platformy_e_terapii.md`](../e_terapia/platformy_e_terapii.md)
+- [`e_therapy/przyszlosc_e_terapii.md`](../e_terapia/przyszlosc_e_terapii.md)
+- [`e_therapy/skutecznosc_e_terapii.md`](../e_terapia/skutecznosc_e_terapii.md)
+- [`e_therapy/terapia_online.md`](../e_terapia/terapia_online.md)
+- [`e_therapy/vr_terapia.md`](../e_terapia/vr_terapia.md)
+- [`e_therapy/wprowadzenie.md`](../e_terapia/wprowadzenie.md)
 
 ### eksperyment_psychologiczny
 
@@ -291,18 +291,18 @@ Poniżej znajdują się bezpośrednie odnośniki do artykułów bez linków przy
 
 ### emotions
 
-- [`emotions/aleksytymia.md`](../emotions/aleksytymia.md)
-- [`emotions/emocje_spoleczne.md`](../emotions/emocje_spoleczne.md)
-- [`emotions/emocje_wprowadzenie.md`](../emotions/emocje_wprowadzenie.md)
-- [`emotions/inteligencja_emocjonalna.md`](../emotions/inteligencja_emocjonalna.md)
-- [`emotions/motywacja.md`](../emotions/motywacja.md)
-- [`emotions/neurobiologia.md`](../emotions/neurobiologia.md)
-- [`emotions/pozytywne_emocje.md`](../emotions/pozytywne_emocje.md)
-- [`emotions/regulacja.md`](../emotions/regulacja.md)
-- [`emotions/stres_emocje.md`](../emotions/stres_emocje.md)
-- [`emotions/teorie.md`](../emotions/teorie.md)
-- [`emotions/wspolczucie.md`](../emotions/wspolczucie.md)
-- [`emotions/wstyd_wina.md`](../emotions/wstyd_wina.md)
+- [`emotions/aleksytymia.md`](../emocje/aleksytymia.md)
+- [`emotions/emocje_spoleczne.md`](../emocje/emocje_spoleczne.md)
+- [`emotions/emocje_wprowadzenie.md`](../emocje/emocje_wprowadzenie.md)
+- [`emotions/inteligencja_emocjonalna.md`](../emocje/inteligencja_emocjonalna.md)
+- [`emotions/motywacja.md`](../emocje/motywacja.md)
+- [`emotions/neurobiologia.md`](../emocje/neurobiologia.md)
+- [`emotions/pozytywne_emocje.md`](../emocje/pozytywne_emocje.md)
+- [`emotions/regulacja.md`](../emocje/regulacja.md)
+- [`emotions/stres_emocje.md`](../emocje/stres_emocje.md)
+- [`emotions/teorie.md`](../emocje/teorie.md)
+- [`emotions/wspolczucie.md`](../emocje/wspolczucie.md)
+- [`emotions/wstyd_wina.md`](../emocje/wstyd_wina.md)
 
 ### etyka
 
@@ -321,94 +321,94 @@ Poniżej znajdują się bezpośrednie odnośniki do artykułów bez linków przy
 
 ### forensic_psychology
 
-- [`forensic_psychology/biegly_a_sad.md`](../forensic_psychology/biegly_a_sad.md)
-- [`forensic_psychology/etyka_opiniowania.md`](../forensic_psychology/etyka_opiniowania.md)
-- [`forensic_psychology/metodologia_opinii.md`](../forensic_psychology/metodologia_opinii.md)
-- [`forensic_psychology/narzedzia_diagnostyczne.md`](../forensic_psychology/narzedzia_diagnostyczne.md)
-- [`forensic_psychology/ocena_wiarygodnosci.md`](../forensic_psychology/ocena_wiarygodnosci.md)
-- [`forensic_psychology/opinia_cywilna.md`](../forensic_psychology/opinia_cywilna.md)
-- [`forensic_psychology/opinia_karna.md`](../forensic_psychology/opinia_karna.md)
-- [`forensic_psychology/opinia_rodzinna.md`](../forensic_psychology/opinia_rodzinna.md)
-- [`forensic_psychology/opiniowanie_nieletnich.md`](../forensic_psychology/opiniowanie_nieletnich.md)
-- [`forensic_psychology/podstawy_prawne.md`](../forensic_psychology/podstawy_prawne.md)
-- [`forensic_psychology/rola_bieglego.md`](../forensic_psychology/rola_bieglego.md)
-- [`forensic_psychology/wprowadzenie.md`](../forensic_psychology/wprowadzenie.md)
+- [`forensic_psychology/biegly_a_sad.md`](../psychologia_sadowa/biegly_a_sad.md)
+- [`forensic_psychology/etyka_opiniowania.md`](../psychologia_sadowa/etyka_opiniowania.md)
+- [`forensic_psychology/metodologia_opinii.md`](../psychologia_sadowa/metodologia_opinii.md)
+- [`forensic_psychology/narzedzia_diagnostyczne.md`](../psychologia_sadowa/narzedzia_diagnostyczne.md)
+- [`forensic_psychology/ocena_wiarygodnosci.md`](../psychologia_sadowa/ocena_wiarygodnosci.md)
+- [`forensic_psychology/opinia_cywilna.md`](../psychologia_sadowa/opinia_cywilna.md)
+- [`forensic_psychology/opinia_karna.md`](../psychologia_sadowa/opinia_karna.md)
+- [`forensic_psychology/opinia_rodzinna.md`](../psychologia_sadowa/opinia_rodzinna.md)
+- [`forensic_psychology/opiniowanie_nieletnich.md`](../psychologia_sadowa/opiniowanie_nieletnich.md)
+- [`forensic_psychology/podstawy_prawne.md`](../psychologia_sadowa/podstawy_prawne.md)
+- [`forensic_psychology/rola_bieglego.md`](../psychologia_sadowa/rola_bieglego.md)
+- [`forensic_psychology/wprowadzenie.md`](../psychologia_sadowa/wprowadzenie.md)
 
 ### game_psychology
 
-- [`game_psychology/agresja_a_gry.md`](../game_psychology/agresja_a_gry.md)
-- [`game_psychology/efekty_poznawcze.md`](../game_psychology/efekty_poznawcze.md)
-- [`game_psychology/esport.md`](../game_psychology/esport.md)
-- [`game_psychology/flow_i_immersja.md`](../game_psychology/flow_i_immersja.md)
-- [`game_psychology/gender_w_grach.md`](../game_psychology/gender_w_grach.md)
-- [`game_psychology/gry_a_dzieci.md`](../game_psychology/gry_a_dzieci.md)
-- [`game_psychology/gry_spolecznosciowe.md`](../game_psychology/gry_spolecznosciowe.md)
-- [`game_psychology/gry_terapeutyczne.md`](../game_psychology/gry_terapeutyczne.md)
-- [`game_psychology/klasyfikacja_gier.md`](../game_psychology/klasyfikacja_gier.md)
-- [`game_psychology/motywacja_gracza.md`](../game_psychology/motywacja_gracza.md)
-- [`game_psychology/uzaleznienie_od_gier.md`](../game_psychology/uzaleznienie_od_gier.md)
-- [`game_psychology/wprowadzenie.md`](../game_psychology/wprowadzenie.md)
+- [`game_psychology/agresja_a_gry.md`](../psychologia_gier/agresja_a_gry.md)
+- [`game_psychology/efekty_poznawcze.md`](../psychologia_gier/efekty_poznawcze.md)
+- [`game_psychology/esport.md`](../psychologia_gier/esport.md)
+- [`game_psychology/flow_i_immersja.md`](../psychologia_gier/flow_i_immersja.md)
+- [`game_psychology/gender_w_grach.md`](../psychologia_gier/gender_w_grach.md)
+- [`game_psychology/gry_a_dzieci.md`](../psychologia_gier/gry_a_dzieci.md)
+- [`game_psychology/gry_spolecznosciowe.md`](../psychologia_gier/gry_spolecznosciowe.md)
+- [`game_psychology/gry_terapeutyczne.md`](../psychologia_gier/gry_terapeutyczne.md)
+- [`game_psychology/klasyfikacja_gier.md`](../psychologia_gier/klasyfikacja_gier.md)
+- [`game_psychology/motywacja_gracza.md`](../psychologia_gier/motywacja_gracza.md)
+- [`game_psychology/uzaleznienie_od_gier.md`](../psychologia_gier/uzaleznienie_od_gier.md)
+- [`game_psychology/wprowadzenie.md`](../psychologia_gier/wprowadzenie.md)
 
-### geropsychology
+### geropsychologia
 
-- [`geropsychology/adaptacja_do_starosci.md`](../geropsychology/adaptacja_do_starosci.md)
-- [`geropsychology/aktywnosc_poznawcza.md`](../geropsychology/aktywnosc_poznawcza.md)
-- [`geropsychology/demencja.md`](../geropsychology/demencja.md)
-- [`geropsychology/depresja_starszych.md`](../geropsychology/depresja_starszych.md)
-- [`geropsychology/interwencje_terapeutyczne.md`](../geropsychology/interwencje_terapeutyczne.md)
-- [`geropsychology/jakosc_zycia_starszych.md`](../geropsychology/jakosc_zycia_starszych.md)
-- [`geropsychology/opieka_nad_opiekunami.md`](../geropsychology/opieka_nad_opiekunami.md)
-- [`geropsychology/relacje_spoleczne_starszych.md`](../geropsychology/relacje_spoleczne_starszych.md)
-- [`geropsychology/samotnosc.md`](../geropsychology/samotnosc.md)
-- [`geropsychology/starzenie_poznawcze.md`](../geropsychology/starzenie_poznawcze.md)
-- [`geropsychology/umieranie_smierc.md`](../geropsychology/umieranie_smierc.md)
-- [`geropsychology/wprowadzenie.md`](../geropsychology/wprowadzenie.md)
+- [`geropsychologia/adaptacja_do_starosci.md`](../geropsychologia/adaptacja_do_starosci.md)
+- [`geropsychologia/aktywnosc_poznawcza.md`](../geropsychologia/aktywnosc_poznawcza.md)
+- [`geropsychologia/demencja.md`](../geropsychologia/demencja.md)
+- [`geropsychologia/depresja_starszych.md`](../geropsychologia/depresja_starszych.md)
+- [`geropsychologia/interwencje_terapeutyczne.md`](../geropsychologia/interwencje_terapeutyczne.md)
+- [`geropsychologia/jakosc_zycia_starszych.md`](../geropsychologia/jakosc_zycia_starszych.md)
+- [`geropsychologia/opieka_nad_opiekunami.md`](../geropsychologia/opieka_nad_opiekunami.md)
+- [`geropsychologia/relacje_spoleczne_starszych.md`](../geropsychologia/relacje_spoleczne_starszych.md)
+- [`geropsychologia/samotnosc.md`](../geropsychologia/samotnosc.md)
+- [`geropsychologia/starzenie_poznawcze.md`](../geropsychologia/starzenie_poznawcze.md)
+- [`geropsychologia/umieranie_smierc.md`](../geropsychologia/umieranie_smierc.md)
+- [`geropsychologia/wprowadzenie.md`](../geropsychologia/wprowadzenie.md)
 
 ### health_psychology
 
-- [`health_psychology/adherencja.md`](../health_psychology/adherencja.md)
-- [`health_psychology/aktywnosc_fizyczna.md`](../health_psychology/aktywnosc_fizyczna.md)
-- [`health_psychology/bol.md`](../health_psychology/bol.md)
-- [`health_psychology/bol_chroniczny.md`](../health_psychology/bol_chroniczny.md)
-- [`health_psychology/choroby_przewlekle.md`](../health_psychology/choroby_przewlekle.md)
-- [`health_psychology/choroby_ukladu_krazenia.md`](../health_psychology/choroby_ukladu_krazenia.md)
-- [`health_psychology/cukrzyca.md`](../health_psychology/cukrzyca.md)
-- [`health_psychology/dieta_zdrowie.md`](../health_psychology/dieta_zdrowie.md)
-- [`health_psychology/interwencje_zdrowotne.md`](../health_psychology/interwencje_zdrowotne.md)
-- [`health_psychology/jakosc_zycia.md`](../health_psychology/jakosc_zycia.md)
-- [`health_psychology/komunikacja_medyczna.md`](../health_psychology/komunikacja_medyczna.md)
-- [`health_psychology/model_biopsychospoleczny.md`](../health_psychology/model_biopsychospoleczny.md)
-- [`health_psychology/placebo.md`](../health_psychology/placebo.md)
-- [`health_psychology/promocja_zdrowia.md`](../health_psychology/promocja_zdrowia.md)
-- [`health_psychology/psychoneuroimmunologia.md`](../health_psychology/psychoneuroimmunologia.md)
-- [`health_psychology/psychoonkologia.md`](../health_psychology/psychoonkologia.md)
-- [`health_psychology/radzenie_sobie.md`](../health_psychology/radzenie_sobie.md)
-- [`health_psychology/rehabilitacja.md`](../health_psychology/rehabilitacja.md)
-- [`health_psychology/sen_zdrowie.md`](../health_psychology/sen_zdrowie.md)
-- [`health_psychology/styl_zycia.md`](../health_psychology/styl_zycia.md)
-- [`health_psychology/wsparcie_spoleczne.md`](../health_psychology/wsparcie_spoleczne.md)
-- [`health_psychology/wypalenie_zawodowe.md`](../health_psychology/wypalenie_zawodowe.md)
-- [`health_psychology/zachowania_zdrowotne.md`](../health_psychology/zachowania_zdrowotne.md)
-- [`health_psychology/zdrowie_wprowadzenie.md`](../health_psychology/zdrowie_wprowadzenie.md)
+- [`health_psychology/adherencja.md`](../psychologia_zdrowia/adherencja.md)
+- [`health_psychology/aktywnosc_fizyczna.md`](../psychologia_zdrowia/aktywnosc_fizyczna.md)
+- [`health_psychology/bol.md`](../psychologia_zdrowia/bol.md)
+- [`health_psychology/bol_chroniczny.md`](../psychologia_zdrowia/bol_chroniczny.md)
+- [`health_psychology/choroby_przewlekle.md`](../psychologia_zdrowia/choroby_przewlekle.md)
+- [`health_psychology/choroby_ukladu_krazenia.md`](../psychologia_zdrowia/choroby_ukladu_krazenia.md)
+- [`health_psychology/cukrzyca.md`](../psychologia_zdrowia/cukrzyca.md)
+- [`health_psychology/dieta_zdrowie.md`](../psychologia_zdrowia/dieta_zdrowie.md)
+- [`health_psychology/interwencje_zdrowotne.md`](../psychologia_zdrowia/interwencje_zdrowotne.md)
+- [`health_psychology/jakosc_zycia.md`](../psychologia_zdrowia/jakosc_zycia.md)
+- [`health_psychology/komunikacja_medyczna.md`](../psychologia_zdrowia/komunikacja_medyczna.md)
+- [`health_psychology/model_biopsychospoleczny.md`](../psychologia_zdrowia/model_biopsychospoleczny.md)
+- [`health_psychology/placebo.md`](../psychologia_zdrowia/placebo.md)
+- [`health_psychology/promocja_zdrowia.md`](../psychologia_zdrowia/promocja_zdrowia.md)
+- [`health_psychology/psychoneuroimmunologia.md`](../psychologia_zdrowia/psychoneuroimmunologia.md)
+- [`health_psychology/psychoonkologia.md`](../psychologia_zdrowia/psychoonkologia.md)
+- [`health_psychology/radzenie_sobie.md`](../psychologia_zdrowia/radzenie_sobie.md)
+- [`health_psychology/rehabilitacja.md`](../psychologia_zdrowia/rehabilitacja.md)
+- [`health_psychology/sen_zdrowie.md`](../psychologia_zdrowia/sen_zdrowie.md)
+- [`health_psychology/styl_zycia.md`](../psychologia_zdrowia/styl_zycia.md)
+- [`health_psychology/wsparcie_spoleczne.md`](../psychologia_zdrowia/wsparcie_spoleczne.md)
+- [`health_psychology/wypalenie_zawodowe.md`](../psychologia_zdrowia/wypalenie_zawodowe.md)
+- [`health_psychology/zachowania_zdrowotne.md`](../psychologia_zdrowia/zachowania_zdrowotne.md)
+- [`health_psychology/zdrowie_wprowadzenie.md`](../psychologia_zdrowia/zdrowie_wprowadzenie.md)
 
 ### individual_diffs
 
-- [`individual_diffs/ciemna_triada.md`](../individual_diffs/ciemna_triada.md)
-- [`individual_diffs/genetyka.md`](../individual_diffs/genetyka.md)
-- [`individual_diffs/inteligencja.md`](../individual_diffs/inteligencja.md)
-- [`individual_diffs/kreatywnosc.md`](../individual_diffs/kreatywnosc.md)
-- [`individual_diffs/osobowosc.md`](../individual_diffs/osobowosc.md)
-- [`individual_diffs/plec_psychologia.md`](../individual_diffs/plec_psychologia.md)
-- [`individual_diffs/reiss_motivation_profile.md`](../individual_diffs/reiss_motivation_profile.md)
-- [`individual_diffs/roznice_wprowadzenie.md`](../individual_diffs/roznice_wprowadzenie.md)
-- [`individual_diffs/style_poznawcze.md`](../individual_diffs/style_poznawcze.md)
+- [`individual_diffs/ciemna_triada.md`](../roznice_indywidualne/ciemna_triada.md)
+- [`individual_diffs/genetyka.md`](../roznice_indywidualne/genetyka.md)
+- [`individual_diffs/inteligencja.md`](../roznice_indywidualne/inteligencja.md)
+- [`individual_diffs/kreatywnosc.md`](../roznice_indywidualne/kreatywnosc.md)
+- [`individual_diffs/osobowosc.md`](../roznice_indywidualne/osobowosc.md)
+- [`individual_diffs/plec_psychologia.md`](../roznice_indywidualne/plec_psychologia.md)
+- [`individual_diffs/reiss_motivation_profile.md`](../roznice_indywidualne/reiss_motivation_profile.md)
+- [`individual_diffs/roznice_wprowadzenie.md`](../roznice_indywidualne/roznice_wprowadzenie.md)
+- [`individual_diffs/style_poznawcze.md`](../roznice_indywidualne/style_poznawcze.md)
 
-### intro
+### wstep_do_psychologii
 
-- [`intro/definicja.md`](../intro/definicja.md)
-- [`intro/etyka_badan_psychologicznych.md`](../intro/etyka_badan_psychologicznych.md)
-- [`intro/historia.md`](../intro/historia.md)
-- [`intro/nurty_psychologii.md`](../intro/nurty_psychologii.md)
+- [`wstep_do_psychologii/definicja.md`](../wstep_do_psychologii/definicja.md)
+- [`wstep_do_psychologii/etyka_badan_psychologicznych.md`](../wstep_do_psychologii/etyka_badan_psychologicznych.md)
+- [`wstep_do_psychologii/historia.md`](../wstep_do_psychologii/historia.md)
+- [`wstep_do_psychologii/nurty_psychologii.md`](../wstep_do_psychologii/nurty_psychologii.md)
 
 ### kulturowa
 
@@ -425,20 +425,20 @@ Poniżej znajdują się bezpośrednie odnośniki do artykułów bez linków przy
 - [`kulturowa/wprowadzenie.md`](../kulturowa/wprowadzenie.md)
 - [`kulturowa/wschodnia_zachodnia.md`](../kulturowa/wschodnia_zachodnia.md)
 
-### media_nature
+### ekrany_ksiazki_i_natura
 
-- [`media_nature/czas_ekranowy.md`](../media_nature/czas_ekranowy.md)
-- [`media_nature/czytanie_fikcja_empatia.md`](../media_nature/czytanie_fikcja_empatia.md)
-- [`media_nature/czytanie_ksiazek.md`](../media_nature/czytanie_ksiazek.md)
-- [`media_nature/ekrany_funkcje_poznawcze.md`](../media_nature/ekrany_funkcje_poznawcze.md)
-- [`media_nature/gleboke_czytanie.md`](../media_nature/gleboke_czytanie.md)
-- [`media_nature/gory_psychologia.md`](../media_nature/gory_psychologia.md)
-- [`media_nature/las_shinrin_yoku.md`](../media_nature/las_shinrin_yoku.md)
-- [`media_nature/natura_psychologia.md`](../media_nature/natura_psychologia.md)
-- [`media_nature/smartfony_psychologia.md`](../media_nature/smartfony_psychologia.md)
-- [`media_nature/tablety_dzieci.md`](../media_nature/tablety_dzieci.md)
-- [`media_nature/telewizja_psychologia.md`](../media_nature/telewizja_psychologia.md)
-- [`media_nature/wprowadzenie.md`](../media_nature/wprowadzenie.md)
+- [`ekrany_ksiazki_i_natura/czas_ekranowy.md`](../ekrany_ksiazki_i_natura/czas_ekranowy.md)
+- [`ekrany_ksiazki_i_natura/czytanie_fikcja_empatia.md`](../ekrany_ksiazki_i_natura/czytanie_fikcja_empatia.md)
+- [`ekrany_ksiazki_i_natura/czytanie_ksiazek.md`](../ekrany_ksiazki_i_natura/czytanie_ksiazek.md)
+- [`ekrany_ksiazki_i_natura/ekrany_funkcje_poznawcze.md`](../ekrany_ksiazki_i_natura/ekrany_funkcje_poznawcze.md)
+- [`ekrany_ksiazki_i_natura/gleboke_czytanie.md`](../ekrany_ksiazki_i_natura/gleboke_czytanie.md)
+- [`ekrany_ksiazki_i_natura/gory_psychologia.md`](../ekrany_ksiazki_i_natura/gory_psychologia.md)
+- [`ekrany_ksiazki_i_natura/las_shinrin_yoku.md`](../ekrany_ksiazki_i_natura/las_shinrin_yoku.md)
+- [`ekrany_ksiazki_i_natura/natura_psychologia.md`](../ekrany_ksiazki_i_natura/natura_psychologia.md)
+- [`ekrany_ksiazki_i_natura/smartfony_psychologia.md`](../ekrany_ksiazki_i_natura/smartfony_psychologia.md)
+- [`ekrany_ksiazki_i_natura/tablety_dzieci.md`](../ekrany_ksiazki_i_natura/tablety_dzieci.md)
+- [`ekrany_ksiazki_i_natura/telewizja_psychologia.md`](../ekrany_ksiazki_i_natura/telewizja_psychologia.md)
+- [`ekrany_ksiazki_i_natura/wprowadzenie.md`](../ekrany_ksiazki_i_natura/wprowadzenie.md)
 
 ### neuro
 
@@ -460,93 +460,93 @@ Poniżej znajdują się bezpośrednie odnośniki do artykułów bez linków przy
 
 ### neurodiversity
 
-- [`neurodiversity/adhd.md`](../neurodiversity/adhd.md)
-- [`neurodiversity/dyskalkulia.md`](../neurodiversity/dyskalkulia.md)
-- [`neurodiversity/dysleksja.md`](../neurodiversity/dysleksja.md)
-- [`neurodiversity/dyspraksja.md`](../neurodiversity/dyspraksja.md)
-- [`neurodiversity/hiperleksja.md`](../neurodiversity/hiperleksja.md)
-- [`neurodiversity/identyfikacja_i_diagnoza.md`](../neurodiversity/identyfikacja_i_diagnoza.md)
-- [`neurodiversity/model_mocnych_stron.md`](../neurodiversity/model_mocnych_stron.md)
-- [`neurodiversity/neurozroznorodnosc_w_pracy.md`](../neurodiversity/neurozroznorodnosc_w_pracy.md)
-- [`neurodiversity/profil_sensoryczny.md`](../neurodiversity/profil_sensoryczny.md)
-- [`neurodiversity/spektrum_autyzmu.md`](../neurodiversity/spektrum_autyzmu.md)
-- [`neurodiversity/tourette.md`](../neurodiversity/tourette.md)
-- [`neurodiversity/wprowadzenie.md`](../neurodiversity/wprowadzenie.md)
-- [`neurodiversity/wsparcie_interwencje.md`](../neurodiversity/wsparcie_interwencje.md)
+- [`neurodiversity/adhd.md`](../neuroroznorodnosc/adhd.md)
+- [`neurodiversity/dyskalkulia.md`](../neuroroznorodnosc/dyskalkulia.md)
+- [`neurodiversity/dysleksja.md`](../neuroroznorodnosc/dysleksja.md)
+- [`neurodiversity/dyspraksja.md`](../neuroroznorodnosc/dyspraksja.md)
+- [`neurodiversity/hiperleksja.md`](../neuroroznorodnosc/hiperleksja.md)
+- [`neurodiversity/identyfikacja_i_diagnoza.md`](../neuroroznorodnosc/identyfikacja_i_diagnoza.md)
+- [`neurodiversity/model_mocnych_stron.md`](../neuroroznorodnosc/model_mocnych_stron.md)
+- [`neurodiversity/neurozroznorodnosc_w_pracy.md`](../neuroroznorodnosc/neurozroznorodnosc_w_pracy.md)
+- [`neurodiversity/profil_sensoryczny.md`](../neuroroznorodnosc/profil_sensoryczny.md)
+- [`neurodiversity/spektrum_autyzmu.md`](../neuroroznorodnosc/spektrum_autyzmu.md)
+- [`neurodiversity/tourette.md`](../neuroroznorodnosc/tourette.md)
+- [`neurodiversity/wprowadzenie.md`](../neuroroznorodnosc/wprowadzenie.md)
+- [`neurodiversity/wsparcie_interwencje.md`](../neuroroznorodnosc/wsparcie_interwencje.md)
 
-### nvc
+### porozumiewanie_sie_bez_przemocy
 
-- [`nvc/autoempatia.md`](../nvc/autoempatia.md)
-- [`nvc/cztery_komponenty.md`](../nvc/cztery_komponenty.md)
-- [`nvc/empatia_nvc.md`](../nvc/empatia_nvc.md)
-- [`nvc/jezyk_szakala_i_zyrafy.md`](../nvc/jezyk_szakala_i_zyrafy.md)
-- [`nvc/nvc_w_konfliktach.md`](../nvc/nvc_w_konfliktach.md)
-- [`nvc/nvc_w_wychowaniu.md`](../nvc/nvc_w_wychowaniu.md)
-- [`nvc/obserwacja.md`](../nvc/obserwacja.md)
-- [`nvc/potrzeby.md`](../nvc/potrzeby.md)
-- [`nvc/praktyka_nvc.md`](../nvc/praktyka_nvc.md)
-- [`nvc/prosba_i_zadanie.md`](../nvc/prosba_i_zadanie.md)
-- [`nvc/uczucia.md`](../nvc/uczucia.md)
-- [`nvc/wprowadzenie.md`](../nvc/wprowadzenie.md)
+- [`porozumiewanie_sie_bez_przemocy/autoempatia.md`](../porozumiewanie_sie_bez_przemocy/autoempatia.md)
+- [`porozumiewanie_sie_bez_przemocy/cztery_komponenty.md`](../porozumiewanie_sie_bez_przemocy/cztery_komponenty.md)
+- [`porozumiewanie_sie_bez_przemocy/empatia_porozumiewanie_sie_bez_przemocy.md`](../porozumiewanie_sie_bez_przemocy/empatia_porozumiewanie_sie_bez_przemocy.md)
+- [`porozumiewanie_sie_bez_przemocy/jezyk_szakala_i_zyrafy.md`](../porozumiewanie_sie_bez_przemocy/jezyk_szakala_i_zyrafy.md)
+- [`porozumiewanie_sie_bez_przemocy/porozumiewanie_sie_bez_przemocy_w_konfliktach.md`](../porozumiewanie_sie_bez_przemocy/porozumiewanie_sie_bez_przemocy_w_konfliktach.md)
+- [`porozumiewanie_sie_bez_przemocy/porozumiewanie_sie_bez_przemocy_w_wychowaniu.md`](../porozumiewanie_sie_bez_przemocy/porozumiewanie_sie_bez_przemocy_w_wychowaniu.md)
+- [`porozumiewanie_sie_bez_przemocy/obserwacja.md`](../porozumiewanie_sie_bez_przemocy/obserwacja.md)
+- [`porozumiewanie_sie_bez_przemocy/potrzeby.md`](../porozumiewanie_sie_bez_przemocy/potrzeby.md)
+- [`porozumiewanie_sie_bez_przemocy/praktyka_porozumiewanie_sie_bez_przemocy.md`](../porozumiewanie_sie_bez_przemocy/praktyka_porozumiewanie_sie_bez_przemocy.md)
+- [`porozumiewanie_sie_bez_przemocy/prosba_i_zadanie.md`](../porozumiewanie_sie_bez_przemocy/prosba_i_zadanie.md)
+- [`porozumiewanie_sie_bez_przemocy/uczucia.md`](../porozumiewanie_sie_bez_przemocy/uczucia.md)
+- [`porozumiewanie_sie_bez_przemocy/wprowadzenie.md`](../porozumiewanie_sie_bez_przemocy/wprowadzenie.md)
 
 ### overeating_psychology
 
-- [`overeating_psychology/czym_jest_nadmierne_jedzenie.md`](../overeating_psychology/czym_jest_nadmierne_jedzenie.md)
-- [`overeating_psychology/diagnoza_roznicowa_bed_bulimia.md`](../overeating_psychology/diagnoza_roznicowa_bed_bulimia.md)
-- [`overeating_psychology/farmakoterapia_i_wskazania.md`](../overeating_psychology/farmakoterapia_i_wskazania.md)
-- [`overeating_psychology/interwencje_poznawczo_behawioralne.md`](../overeating_psychology/interwencje_poznawczo_behawioralne.md)
-- [`overeating_psychology/mindfulness_i_regulacja_apetytu.md`](../overeating_psychology/mindfulness_i_regulacja_apetytu.md)
-- [`overeating_psychology/neurobiologia_nagrody_i_glodu.md`](../overeating_psychology/neurobiologia_nagrody_i_glodu.md)
-- [`overeating_psychology/obraz_ciala_i_samokrytycyzm.md`](../overeating_psychology/obraz_ciala_i_samokrytycyzm.md)
-- [`overeating_psychology/profilaktyka_nawrotow.md`](../overeating_psychology/profilaktyka_nawrotow.md)
-- [`overeating_psychology/regulacja_emocji_i_jedzenie.md`](../overeating_psychology/regulacja_emocji_i_jedzenie.md)
-- [`overeating_psychology/rodzinne_wzorce_jedzenia.md`](../overeating_psychology/rodzinne_wzorce_jedzenia.md)
-- [`overeating_psychology/srodowisko_zywieniowe_i_nawyki.md`](../overeating_psychology/srodowisko_zywieniowe_i_nawyki.md)
-- [`overeating_psychology/stres_i_jedzenie_kompulsywne.md`](../overeating_psychology/stres_i_jedzenie_kompulsywne.md)
+- [`overeating_psychology/czym_jest_nadmierne_jedzenie.md`](../psychologia_nadmiernego_jedzenia/czym_jest_nadmierne_jedzenie.md)
+- [`overeating_psychology/diagnoza_roznicowa_bed_bulimia.md`](../psychologia_nadmiernego_jedzenia/diagnoza_roznicowa_bed_bulimia.md)
+- [`overeating_psychology/farmakoterapia_i_wskazania.md`](../psychologia_nadmiernego_jedzenia/farmakoterapia_i_wskazania.md)
+- [`overeating_psychology/interwencje_poznawczo_behawioralne.md`](../psychologia_nadmiernego_jedzenia/interwencje_poznawczo_behawioralne.md)
+- [`overeating_psychology/mindfulness_i_regulacja_apetytu.md`](../psychologia_nadmiernego_jedzenia/mindfulness_i_regulacja_apetytu.md)
+- [`overeating_psychology/neurobiologia_nagrody_i_glodu.md`](../psychologia_nadmiernego_jedzenia/neurobiologia_nagrody_i_glodu.md)
+- [`overeating_psychology/obraz_ciala_i_samokrytycyzm.md`](../psychologia_nadmiernego_jedzenia/obraz_ciala_i_samokrytycyzm.md)
+- [`overeating_psychology/profilaktyka_nawrotow.md`](../psychologia_nadmiernego_jedzenia/profilaktyka_nawrotow.md)
+- [`overeating_psychology/regulacja_emocji_i_jedzenie.md`](../psychologia_nadmiernego_jedzenia/regulacja_emocji_i_jedzenie.md)
+- [`overeating_psychology/rodzinne_wzorce_jedzenia.md`](../psychologia_nadmiernego_jedzenia/rodzinne_wzorce_jedzenia.md)
+- [`overeating_psychology/srodowisko_zywieniowe_i_nawyki.md`](../psychologia_nadmiernego_jedzenia/srodowisko_zywieniowe_i_nawyki.md)
+- [`overeating_psychology/stres_i_jedzenie_kompulsywne.md`](../psychologia_nadmiernego_jedzenia/stres_i_jedzenie_kompulsywne.md)
 
 ### pharmacology
 
-- [`pharmacology/anxiolityki.md`](../pharmacology/anxiolityki.md)
-- [`pharmacology/ketamina.md`](../pharmacology/ketamina.md)
-- [`pharmacology/neurofarmakologia.md`](../pharmacology/neurofarmakologia.md)
-- [`pharmacology/neurofarmakologia_behawioralna.md`](../pharmacology/neurofarmakologia_behawioralna.md)
-- [`pharmacology/nootropiki.md`](../pharmacology/nootropiki.md)
-- [`pharmacology/przeciwdepresyjne.md`](../pharmacology/przeciwdepresyjne.md)
-- [`pharmacology/przeciwpsychotyczne.md`](../pharmacology/przeciwpsychotyczne.md)
-- [`pharmacology/psychodeliki.md`](../pharmacology/psychodeliki.md)
-- [`pharmacology/stabilizatory.md`](../pharmacology/stabilizatory.md)
-- [`pharmacology/uzaleznienia_farm.md`](../pharmacology/uzaleznienia_farm.md)
+- [`pharmacology/anxiolityki.md`](../farmakologia/anxiolityki.md)
+- [`pharmacology/ketamina.md`](../farmakologia/ketamina.md)
+- [`pharmacology/neurofarmakologia.md`](../farmakologia/neurofarmakologia.md)
+- [`pharmacology/neurofarmakologia_behawioralna.md`](../farmakologia/neurofarmakologia_behawioralna.md)
+- [`pharmacology/nootropiki.md`](../farmakologia/nootropiki.md)
+- [`pharmacology/przeciwdepresyjne.md`](../farmakologia/przeciwdepresyjne.md)
+- [`pharmacology/przeciwpsychotyczne.md`](../farmakologia/przeciwpsychotyczne.md)
+- [`pharmacology/psychodeliki.md`](../farmakologia/psychodeliki.md)
+- [`pharmacology/stabilizatory.md`](../farmakologia/stabilizatory.md)
+- [`pharmacology/uzaleznienia_farm.md`](../farmakologia/uzaleznienia_farm.md)
 
 ### philosophy
 
-- [`philosophy/asymetria_dobra_i_bolu.md`](../philosophy/asymetria_dobra_i_bolu.md)
-- [`philosophy/cien_antropiczny.md`](../philosophy/cien_antropiczny.md)
-- [`philosophy/efilizm.md`](../philosophy/efilizm.md)
-- [`philosophy/egocentryczny_dylemat.md`](../philosophy/egocentryczny_dylemat.md)
-- [`philosophy/egzystencjalizm.md`](../philosophy/egzystencjalizm.md)
-- [`philosophy/eliminatywizm_materialny.md`](../philosophy/eliminatywizm_materialny.md)
-- [`philosophy/epistemologia.md`](../philosophy/epistemologia.md)
-- [`philosophy/etyka.md`](../philosophy/etyka.md)
-- [`philosophy/fenomenologia.md`](../philosophy/fenomenologia.md)
-- [`philosophy/filozofia_czlowieka.md`](../philosophy/filozofia_czlowieka.md)
-- [`philosophy/filozofia_jezyka.md`](../philosophy/filozofia_jezyka.md)
-- [`philosophy/filozofia_nauki.md`](../philosophy/filozofia_nauki.md)
-- [`philosophy/filozofia_umyslu.md`](../philosophy/filozofia_umyslu.md)
-- [`philosophy/filozoficzne_zombie.md`](../philosophy/filozoficzne_zombie.md)
-- [`philosophy/hermeneutyka.md`](../philosophy/hermeneutyka.md)
-- [`philosophy/horror_panpsychizmu.md`](../philosophy/horror_panpsychizmu.md)
-- [`philosophy/logika.md`](../philosophy/logika.md)
-- [`philosophy/mozg_boltzmanna.md`](../philosophy/mozg_boltzmanna.md)
-- [`philosophy/niemoralnosc_braku_zgody.md`](../philosophy/niemoralnosc_braku_zgody.md)
-- [`philosophy/odpowiedzialnosc_epistemiczna.md`](../philosophy/odpowiedzialnosc_epistemiczna.md)
-- [`philosophy/ontologia.md`](../philosophy/ontologia.md)
-- [`philosophy/paradoksalny_determinizm.md`](../philosophy/paradoksalny_determinizm.md)
-- [`philosophy/pesymizm_biologiczny.md`](../philosophy/pesymizm_biologiczny.md)
-- [`philosophy/podswiadomy_nihilizm.md`](../philosophy/podswiadomy_nihilizm.md)
-- [`philosophy/pusty_indywidualizm.md`](../philosophy/pusty_indywidualizm.md)
-- [`philosophy/realizm_modalny.md`](../philosophy/realizm_modalny.md)
-- [`philosophy/redukcjonizm_tozsamosci.md`](../philosophy/redukcjonizm_tozsamosci.md)
-- [`philosophy/wprowadzenie.md`](../philosophy/wprowadzenie.md)
+- [`philosophy/asymetria_dobra_i_bolu.md`](../filozofia/asymetria_dobra_i_bolu.md)
+- [`philosophy/cien_antropiczny.md`](../filozofia/cien_antropiczny.md)
+- [`philosophy/efilizm.md`](../filozofia/efilizm.md)
+- [`philosophy/egocentryczny_dylemat.md`](../filozofia/egocentryczny_dylemat.md)
+- [`philosophy/egzystencjalizm.md`](../filozofia/egzystencjalizm.md)
+- [`philosophy/eliminatywizm_materialny.md`](../filozofia/eliminatywizm_materialny.md)
+- [`philosophy/epistemologia.md`](../filozofia/epistemologia.md)
+- [`philosophy/etyka.md`](../filozofia/etyka.md)
+- [`philosophy/fenomenologia.md`](../filozofia/fenomenologia.md)
+- [`philosophy/filozofia_czlowieka.md`](../filozofia/filozofia_czlowieka.md)
+- [`philosophy/filozofia_jezyka.md`](../filozofia/filozofia_jezyka.md)
+- [`philosophy/filozofia_nauki.md`](../filozofia/filozofia_nauki.md)
+- [`philosophy/filozofia_umyslu.md`](../filozofia/filozofia_umyslu.md)
+- [`philosophy/filozoficzne_zombie.md`](../filozofia/filozoficzne_zombie.md)
+- [`philosophy/hermeneutyka.md`](../filozofia/hermeneutyka.md)
+- [`philosophy/horror_panpsychizmu.md`](../filozofia/horror_panpsychizmu.md)
+- [`philosophy/logika.md`](../filozofia/logika.md)
+- [`philosophy/mozg_boltzmanna.md`](../filozofia/mozg_boltzmanna.md)
+- [`philosophy/niemoralnosc_braku_zgody.md`](../filozofia/niemoralnosc_braku_zgody.md)
+- [`philosophy/odpowiedzialnosc_epistemiczna.md`](../filozofia/odpowiedzialnosc_epistemiczna.md)
+- [`philosophy/ontologia.md`](../filozofia/ontologia.md)
+- [`philosophy/paradoksalny_determinizm.md`](../filozofia/paradoksalny_determinizm.md)
+- [`philosophy/pesymizm_biologiczny.md`](../filozofia/pesymizm_biologiczny.md)
+- [`philosophy/podswiadomy_nihilizm.md`](../filozofia/podswiadomy_nihilizm.md)
+- [`philosophy/pusty_indywidualizm.md`](../filozofia/pusty_indywidualizm.md)
+- [`philosophy/realizm_modalny.md`](../filozofia/realizm_modalny.md)
+- [`philosophy/redukcjonizm_tozsamosci.md`](../filozofia/redukcjonizm_tozsamosci.md)
+- [`philosophy/wprowadzenie.md`](../filozofia/wprowadzenie.md)
 
 ### podstawy_pomocy
 
@@ -567,34 +567,34 @@ Poniżej znajdują się bezpośrednie odnośniki do artykułów bez linków przy
 
 ### positive_psychology
 
-- [`positive_psychology/3p_optymizmu_seligmana.md`](../positive_psychology/3p_optymizmu_seligmana.md)
-- [`positive_psychology/interwencje_pozytywne.md`](../positive_psychology/interwencje_pozytywne.md)
-- [`positive_psychology/mindfulness.md`](../positive_psychology/mindfulness.md)
-- [`positive_psychology/model_perma.md`](../positive_psychology/model_perma.md)
-- [`positive_psychology/optymizm_nadzieja.md`](../positive_psychology/optymizm_nadzieja.md)
-- [`positive_psychology/przeplyw_flow.md`](../positive_psychology/przeplyw_flow.md)
-- [`positive_psychology/relacje_pozytywne.md`](../positive_psychology/relacje_pozytywne.md)
-- [`positive_psychology/sens_i_cel.md`](../positive_psychology/sens_i_cel.md)
-- [`positive_psychology/sily_charakteru.md`](../positive_psychology/sily_charakteru.md)
-- [`positive_psychology/szczescie_dobrostan.md`](../positive_psychology/szczescie_dobrostan.md)
-- [`positive_psychology/wdziecznosc.md`](../positive_psychology/wdziecznosc.md)
-- [`positive_psychology/wprowadzenie.md`](../positive_psychology/wprowadzenie.md)
-- [`positive_psychology/wspolczucie_dla_siebie.md`](../positive_psychology/wspolczucie_dla_siebie.md)
+- [`positive_psychology/3p_optymizmu_seligmana.md`](../psychologia_pozytywna/3p_optymizmu_seligmana.md)
+- [`positive_psychology/interwencje_pozytywne.md`](../psychologia_pozytywna/interwencje_pozytywne.md)
+- [`positive_psychology/mindfulness.md`](../psychologia_pozytywna/mindfulness.md)
+- [`positive_psychology/model_perma.md`](../psychologia_pozytywna/model_perma.md)
+- [`positive_psychology/optymizm_nadzieja.md`](../psychologia_pozytywna/optymizm_nadzieja.md)
+- [`positive_psychology/przeplyw_flow.md`](../psychologia_pozytywna/przeplyw_flow.md)
+- [`positive_psychology/relacje_pozytywne.md`](../psychologia_pozytywna/relacje_pozytywne.md)
+- [`positive_psychology/sens_i_cel.md`](../psychologia_pozytywna/sens_i_cel.md)
+- [`positive_psychology/sily_charakteru.md`](../psychologia_pozytywna/sily_charakteru.md)
+- [`positive_psychology/szczescie_dobrostan.md`](../psychologia_pozytywna/szczescie_dobrostan.md)
+- [`positive_psychology/wdziecznosc.md`](../psychologia_pozytywna/wdziecznosc.md)
+- [`positive_psychology/wprowadzenie.md`](../psychologia_pozytywna/wprowadzenie.md)
+- [`positive_psychology/wspolczucie_dla_siebie.md`](../psychologia_pozytywna/wspolczucie_dla_siebie.md)
 
 ### ppd
 
-- [`ppd/analizy_statystyczne.md`](../ppd/analizy_statystyczne.md)
-- [`ppd/bledy_badawcze.md`](../ppd/bledy_badawcze.md)
-- [`ppd/dobre_praktyki.md`](../ppd/dobre_praktyki.md)
-- [`ppd/etyka_badan.md`](../ppd/etyka_badan.md)
-- [`ppd/metodologia_badan.md`](../ppd/metodologia_badan.md)
-- [`ppd/narzedzia_badawcze.md`](../ppd/narzedzia_badawcze.md)
-- [`ppd/obrona_pracy.md`](../ppd/obrona_pracy.md)
-- [`ppd/opis_wynikow.md`](../ppd/opis_wynikow.md)
-- [`ppd/pomiary_psychologiczne.md`](../ppd/pomiary_psychologiczne.md)
-- [`ppd/przeglad_literatury.md`](../ppd/przeglad_literatury.md)
-- [`ppd/struktura_pracy.md`](../ppd/struktura_pracy.md)
-- [`ppd/wprowadzenie.md`](../ppd/wprowadzenie.md)
+- [`ppd/analizy_statystyczne.md`](../seminarium_dyplomowe/analizy_statystyczne.md)
+- [`ppd/bledy_badawcze.md`](../seminarium_dyplomowe/bledy_badawcze.md)
+- [`ppd/dobre_praktyki.md`](../seminarium_dyplomowe/dobre_praktyki.md)
+- [`ppd/etyka_badan.md`](../seminarium_dyplomowe/etyka_badan.md)
+- [`ppd/metodologia_badan.md`](../seminarium_dyplomowe/metodologia_badan.md)
+- [`ppd/narzedzia_badawcze.md`](../seminarium_dyplomowe/narzedzia_badawcze.md)
+- [`ppd/obrona_pracy.md`](../seminarium_dyplomowe/obrona_pracy.md)
+- [`ppd/opis_wynikow.md`](../seminarium_dyplomowe/opis_wynikow.md)
+- [`ppd/pomiary_psychologiczne.md`](../seminarium_dyplomowe/pomiary_psychologiczne.md)
+- [`ppd/przeglad_literatury.md`](../seminarium_dyplomowe/przeglad_literatury.md)
+- [`ppd/struktura_pracy.md`](../seminarium_dyplomowe/struktura_pracy.md)
+- [`ppd/wprowadzenie.md`](../seminarium_dyplomowe/wprowadzenie.md)
 
 ### psychofarmakologia
 
@@ -602,95 +602,95 @@ Poniżej znajdują się bezpośrednie odnośniki do artykułów bez linków przy
 
 ### psychometrics
 
-- [`psychometrics/ados.md`](../psychometrics/ados.md)
-- [`psychometrics/bdi_2.md`](../psychometrics/bdi_2.md)
-- [`psychometrics/cfa_efa.md`](../psychometrics/cfa_efa.md)
-- [`psychometrics/diva.md`](../psychometrics/diva.md)
-- [`psychometrics/invariancja.md`](../psychometrics/invariancja.md)
-- [`psychometrics/irt.md`](../psychometrics/irt.md)
-- [`psychometrics/mmpi.md`](../psychometrics/mmpi.md)
-- [`psychometrics/narzedzia_kliniczne.md`](../psychometrics/narzedzia_kliniczne.md)
-- [`psychometrics/normalizacja.md`](../psychometrics/normalizacja.md)
-- [`psychometrics/psychometria_wprowadzenie.md`](../psychometrics/psychometria_wprowadzenie.md)
-- [`psychometrics/rzetelnosc.md`](../psychometrics/rzetelnosc.md)
-- [`psychometrics/teoria_ct.md`](../psychometrics/teoria_ct.md)
-- [`psychometrics/test_matryc_ravena.md`](../psychometrics/test_matryc_ravena.md)
-- [`psychometrics/trafnosc.md`](../psychometrics/trafnosc.md)
+- [`psychometrics/ados.md`](../psychometria/ados.md)
+- [`psychometrics/bdi_2.md`](../psychometria/bdi_2.md)
+- [`psychometrics/cfa_efa.md`](../psychometria/cfa_efa.md)
+- [`psychometrics/diva.md`](../psychometria/diva.md)
+- [`psychometrics/invariancja.md`](../psychometria/invariancja.md)
+- [`psychometrics/irt.md`](../psychometria/irt.md)
+- [`psychometrics/mmpi.md`](../psychometria/mmpi.md)
+- [`psychometrics/narzedzia_kliniczne.md`](../psychometria/narzedzia_kliniczne.md)
+- [`psychometrics/normalizacja.md`](../psychometria/normalizacja.md)
+- [`psychometrics/psychometria_wprowadzenie.md`](../psychometria/psychometria_wprowadzenie.md)
+- [`psychometrics/rzetelnosc.md`](../psychometria/rzetelnosc.md)
+- [`psychometrics/teoria_ct.md`](../psychometria/teoria_ct.md)
+- [`psychometrics/test_matryc_ravena.md`](../psychometria/test_matryc_ravena.md)
+- [`psychometrics/trafnosc.md`](../psychometria/trafnosc.md)
 
 ### psychopathology
 
-- [`psychopathology/depresja_poporodowa.md`](../psychopathology/depresja_poporodowa.md)
-- [`psychopathology/dezintegracja_pozytywna.md`](../psychopathology/dezintegracja_pozytywna.md)
-- [`psychopathology/formulowanie_przypadku.md`](../psychopathology/formulowanie_przypadku.md)
-- [`psychopathology/intelektualizacja.md`](../psychopathology/intelektualizacja.md)
-- [`psychopathology/klasyfikacje.md`](../psychopathology/klasyfikacje.md)
-- [`psychopathology/neurorozwojowe.md`](../psychopathology/neurorozwojowe.md)
-- [`psychopathology/objawy_ogolne.md`](../psychopathology/objawy_ogolne.md)
-- [`psychopathology/ocd.md`](../psychopathology/ocd.md)
-- [`psychopathology/przymus_powtarzania.md`](../psychopathology/przymus_powtarzania.md)
-- [`psychopathology/psychopatologia_wprowadzenie.md`](../psychopathology/psychopatologia_wprowadzenie.md)
-- [`psychopathology/psychozy.md`](../psychopathology/psychozy.md)
-- [`psychopathology/uzaleznienia_psych.md`](../psychopathology/uzaleznienia_psych.md)
-- [`psychopathology/wiktymizacja.md`](../psychopathology/wiktymizacja.md)
-- [`psychopathology/wyuczona_bezradnosc.md`](../psychopathology/wyuczona_bezradnosc.md)
-- [`psychopathology/zaburzenia_lekowe.md`](../psychopathology/zaburzenia_lekowe.md)
-- [`psychopathology/zaburzenia_nastroju.md`](../psychopathology/zaburzenia_nastroju.md)
-- [`psychopathology/zaburzenia_odzywiania.md`](../psychopathology/zaburzenia_odzywiania.md)
-- [`psychopathology/zaburzenia_osobowosci.md`](../psychopathology/zaburzenia_osobowosci.md)
+- [`psychopathology/depresja_poporodowa.md`](../psychopatologia/depresja_poporodowa.md)
+- [`psychopathology/dezintegracja_pozytywna.md`](../psychopatologia/dezintegracja_pozytywna.md)
+- [`psychopathology/formulowanie_przypadku.md`](../psychopatologia/formulowanie_przypadku.md)
+- [`psychopathology/intelektualizacja.md`](../psychopatologia/intelektualizacja.md)
+- [`psychopathology/klasyfikacje.md`](../psychopatologia/klasyfikacje.md)
+- [`psychopathology/neurorozwojowe.md`](../psychopatologia/neurorozwojowe.md)
+- [`psychopathology/objawy_ogolne.md`](../psychopatologia/objawy_ogolne.md)
+- [`psychopathology/ocd.md`](../psychopatologia/ocd.md)
+- [`psychopathology/przymus_powtarzania.md`](../psychopatologia/przymus_powtarzania.md)
+- [`psychopathology/psychopatologia_wprowadzenie.md`](../psychopatologia/psychopatologia_wprowadzenie.md)
+- [`psychopathology/psychozy.md`](../psychopatologia/psychozy.md)
+- [`psychopathology/uzaleznienia_psych.md`](../psychopatologia/uzaleznienia_psych.md)
+- [`psychopathology/wiktymizacja.md`](../psychopatologia/wiktymizacja.md)
+- [`psychopathology/wyuczona_bezradnosc.md`](../psychopatologia/wyuczona_bezradnosc.md)
+- [`psychopathology/zaburzenia_lekowe.md`](../psychopatologia/zaburzenia_lekowe.md)
+- [`psychopathology/zaburzenia_nastroju.md`](../psychopatologia/zaburzenia_nastroju.md)
+- [`psychopathology/zaburzenia_odzywiania.md`](../psychopatologia/zaburzenia_odzywiania.md)
+- [`psychopathology/zaburzenia_osobowosci.md`](../psychopatologia/zaburzenia_osobowosci.md)
 
-### psychosomatics
+### psychosomatyka
 
-- [`psychosomatics/aleksytymia.md`](../psychosomatics/aleksytymia.md)
-- [`psychosomatics/bol_psychosomatyczny.md`](../psychosomatics/bol_psychosomatyczny.md)
-- [`psychosomatics/choroby_autoimmunologiczne.md`](../psychosomatics/choroby_autoimmunologiczne.md)
-- [`psychosomatics/diagnoza_psychosomatyczna.md`](../psychosomatics/diagnoza_psychosomatyczna.md)
-- [`psychosomatics/historia.md`](../psychosomatics/historia.md)
-- [`psychosomatics/modele_psychosomatyczne.md`](../psychosomatics/modele_psychosomatyczne.md)
-- [`psychosomatics/os_hpa.md`](../psychosomatics/os_hpa.md)
-- [`psychosomatics/psychodermatologia.md`](../psychosomatics/psychodermatologia.md)
-- [`psychosomatics/psychogastroenterologia.md`](../psychosomatics/psychogastroenterologia.md)
-- [`psychosomatics/psychokardiologia.md`](../psychosomatics/psychokardiologia.md)
-- [`psychosomatics/somatyzacja.md`](../psychosomatics/somatyzacja.md)
-- [`psychosomatics/terapia_psychosomatyczna.md`](../psychosomatics/terapia_psychosomatyczna.md)
-- [`psychosomatics/uklad_oddechowy.md`](../psychosomatics/uklad_oddechowy.md)
-- [`psychosomatics/wprowadzenie.md`](../psychosomatics/wprowadzenie.md)
+- [`psychosomatyka/aleksytymia.md`](../psychosomatyka/aleksytymia.md)
+- [`psychosomatyka/bol_psychosomatyczny.md`](../psychosomatyka/bol_psychosomatyczny.md)
+- [`psychosomatyka/choroby_autoimmunologiczne.md`](../psychosomatyka/choroby_autoimmunologiczne.md)
+- [`psychosomatyka/diagnoza_psychosomatyczna.md`](../psychosomatyka/diagnoza_psychosomatyczna.md)
+- [`psychosomatyka/historia.md`](../psychosomatyka/historia.md)
+- [`psychosomatyka/modele_psychosomatyczne.md`](../psychosomatyka/modele_psychosomatyczne.md)
+- [`psychosomatyka/os_hpa.md`](../psychosomatyka/os_hpa.md)
+- [`psychosomatyka/psychodermatologia.md`](../psychosomatyka/psychodermatologia.md)
+- [`psychosomatyka/psychogastroenterologia.md`](../psychosomatyka/psychogastroenterologia.md)
+- [`psychosomatyka/psychokardiologia.md`](../psychosomatyka/psychokardiologia.md)
+- [`psychosomatyka/somatyzacja.md`](../psychosomatyka/somatyzacja.md)
+- [`psychosomatyka/terapia_psychosomatyczna.md`](../psychosomatyka/terapia_psychosomatyczna.md)
+- [`psychosomatyka/uklad_oddechowy.md`](../psychosomatyka/uklad_oddechowy.md)
+- [`psychosomatyka/wprowadzenie.md`](../psychosomatyka/wprowadzenie.md)
 
 ### psychotherapy
 
-- [`psychotherapy/act.md`](../psychotherapy/act.md)
-- [`psychotherapy/aktywacja_behawioralna.md`](../psychotherapy/aktywacja_behawioralna.md)
-- [`psychotherapy/cbt.md`](../psychotherapy/cbt.md)
-- [`psychotherapy/dbt.md`](../psychotherapy/dbt.md)
-- [`psychotherapy/gestalt.md`](../psychotherapy/gestalt.md)
-- [`psychotherapy/heksafleks_act.md`](../psychotherapy/heksafleks_act.md)
-- [`psychotherapy/humanist.md`](../psychotherapy/humanist.md)
-- [`psychotherapy/logoterapia_frankl.md`](../psychotherapy/logoterapia_frankl.md)
-- [`psychotherapy/psychoanaliza_fromma.md`](../psychotherapy/psychoanaliza_fromma.md)
-- [`psychotherapy/psychodyn.md`](../psychotherapy/psychodyn.md)
-- [`psychotherapy/psychologia_zimbardo.md`](../psychotherapy/psychologia_zimbardo.md)
-- [`psychotherapy/psychologiczne_mechanizmy_przebaczenia.md`](../psychotherapy/psychologiczne_mechanizmy_przebaczenia.md)
-- [`psychotherapy/psychoterapia_wprowadzenie.md`](../psychotherapy/psychoterapia_wprowadzenie.md)
-- [`psychotherapy/rebt.md`](../psychotherapy/rebt.md)
-- [`psychotherapy/skutecznosc.md`](../psychotherapy/skutecznosc.md)
-- [`psychotherapy/sojusz.md`](../psychotherapy/sojusz.md)
-- [`psychotherapy/superwizja.md`](../psychotherapy/superwizja.md)
-- [`psychotherapy/trening_umiejetnosci_spolecznych.md`](../psychotherapy/trening_umiejetnosci_spolecznych.md)
+- [`psychotherapy/act.md`](../psychoterapia/act.md)
+- [`psychotherapy/aktywacja_behawioralna.md`](../psychoterapia/aktywacja_behawioralna.md)
+- [`psychotherapy/cbt.md`](../psychoterapia/cbt.md)
+- [`psychotherapy/dbt.md`](../psychoterapia/dbt.md)
+- [`psychotherapy/gestalt.md`](../psychoterapia/gestalt.md)
+- [`psychotherapy/heksafleks_act.md`](../psychoterapia/heksafleks_act.md)
+- [`psychotherapy/humanist.md`](../psychoterapia/humanist.md)
+- [`psychotherapy/logoterapia_frankl.md`](../psychoterapia/logoterapia_frankl.md)
+- [`psychotherapy/psychoanaliza_fromma.md`](../psychoterapia/psychoanaliza_fromma.md)
+- [`psychotherapy/psychodyn.md`](../psychoterapia/psychodyn.md)
+- [`psychotherapy/psychologia_zimbardo.md`](../psychoterapia/psychologia_zimbardo.md)
+- [`psychotherapy/psychologiczne_mechanizmy_przebaczenia.md`](../psychoterapia/psychologiczne_mechanizmy_przebaczenia.md)
+- [`psychotherapy/psychoterapia_wprowadzenie.md`](../psychoterapia/psychoterapia_wprowadzenie.md)
+- [`psychotherapy/rebt.md`](../psychoterapia/rebt.md)
+- [`psychotherapy/skutecznosc.md`](../psychoterapia/skutecznosc.md)
+- [`psychotherapy/sojusz.md`](../psychoterapia/sojusz.md)
+- [`psychotherapy/superwizja.md`](../psychoterapia/superwizja.md)
+- [`psychotherapy/trening_umiejetnosci_spolecznych.md`](../psychoterapia/trening_umiejetnosci_spolecznych.md)
 
-### reacting_to_criticism
+### reagowanie_na_krytyke
 
-- [`reacting_to_criticism/czym_jest_krytyka_i_informacja_zwrotna.md`](../reacting_to_criticism/czym_jest_krytyka_i_informacja_zwrotna.md)
-- [`reacting_to_criticism/granice_i_asertywnosc.md`](../reacting_to_criticism/granice_i_asertywnosc.md)
-- [`reacting_to_criticism/jak_nie_brac_do_siebie_opinii_innych.md`](../reacting_to_criticism/jak_nie_brac_do_siebie_opinii_innych.md)
-- [`reacting_to_criticism/mentalizacja_i_intencje_nadawcy.md`](../reacting_to_criticism/mentalizacja_i_intencje_nadawcy.md)
-- [`reacting_to_criticism/mikrointerwencje_w_czasie_rzeczywistym.md`](../reacting_to_criticism/mikrointerwencje_w_czasie_rzeczywistym.md)
-- [`reacting_to_criticism/model_sbi_nvc_w_praktyce.md`](../reacting_to_criticism/model_sbi_nvc_w_praktyce.md)
-- [`reacting_to_criticism/najczestsze_bledy_po_krytyce.md`](../reacting_to_criticism/najczestsze_bledy_po_krytyce.md)
-- [`reacting_to_criticism/neurobiologia_stresu_oceny.md`](../reacting_to_criticism/neurobiologia_stresu_oceny.md)
-- [`reacting_to_criticism/plan_30_dni_trening_odpornosci.md`](../reacting_to_criticism/plan_30_dni_trening_odpornosci.md)
-- [`reacting_to_criticism/samowspolczucie_i_act.md`](../reacting_to_criticism/samowspolczucie_i_act.md)
-- [`reacting_to_criticism/schematy_poznawcze_i_znieksztalcenia.md`](../reacting_to_criticism/schematy_poznawcze_i_znieksztalcenia.md)
-- [`reacting_to_criticism/style_reagowania_na_krytyke.md`](../reacting_to_criticism/style_reagowania_na_krytyke.md)
-- [`reacting_to_criticism/trudne_rozmowy_w_pracy.md`](../reacting_to_criticism/trudne_rozmowy_w_pracy.md)
+- [`reagowanie_na_krytyke/czym_jest_krytyka_i_informacja_zwrotna.md`](../reagowanie_na_krytyke/czym_jest_krytyka_i_informacja_zwrotna.md)
+- [`reagowanie_na_krytyke/granice_i_asertywnosc.md`](../reagowanie_na_krytyke/granice_i_asertywnosc.md)
+- [`reagowanie_na_krytyke/jak_nie_brac_do_siebie_opinii_innych.md`](../reagowanie_na_krytyke/jak_nie_brac_do_siebie_opinii_innych.md)
+- [`reagowanie_na_krytyke/mentalizacja_i_intencje_nadawcy.md`](../reagowanie_na_krytyke/mentalizacja_i_intencje_nadawcy.md)
+- [`reagowanie_na_krytyke/mikrointerwencje_w_czasie_rzeczywistym.md`](../reagowanie_na_krytyke/mikrointerwencje_w_czasie_rzeczywistym.md)
+- [`reagowanie_na_krytyke/model_sbi_porozumiewanie_sie_bez_przemocy_w_praktyce.md`](../reagowanie_na_krytyke/model_sbi_porozumiewanie_sie_bez_przemocy_w_praktyce.md)
+- [`reagowanie_na_krytyke/najczestsze_bledy_po_krytyce.md`](../reagowanie_na_krytyke/najczestsze_bledy_po_krytyce.md)
+- [`reagowanie_na_krytyke/neurobiologia_stresu_oceny.md`](../reagowanie_na_krytyke/neurobiologia_stresu_oceny.md)
+- [`reagowanie_na_krytyke/plan_30_dni_trening_odpornosci.md`](../reagowanie_na_krytyke/plan_30_dni_trening_odpornosci.md)
+- [`reagowanie_na_krytyke/samowspolczucie_i_act.md`](../reagowanie_na_krytyke/samowspolczucie_i_act.md)
+- [`reagowanie_na_krytyke/schematy_poznawcze_i_znieksztalcenia.md`](../reagowanie_na_krytyke/schematy_poznawcze_i_znieksztalcenia.md)
+- [`reagowanie_na_krytyke/style_reagowania_na_krytyke.md`](../reagowanie_na_krytyke/style_reagowania_na_krytyke.md)
+- [`reagowanie_na_krytyke/trudne_rozmowy_w_pracy.md`](../reagowanie_na_krytyke/trudne_rozmowy_w_pracy.md)
 
 ### reference
 
@@ -724,33 +724,33 @@ Poniżej znajdują się bezpośrednie odnośniki do artykułów bez linków przy
 
 ### resilience_mobbing
 
-- [`resilience_mobbing/budowanie_odpornosci.md`](../resilience_mobbing/budowanie_odpornosci.md)
-- [`resilience_mobbing/fazy_wypalenia.md`](../resilience_mobbing/fazy_wypalenia.md)
-- [`resilience_mobbing/mobbing_definicja.md`](../resilience_mobbing/mobbing_definicja.md)
-- [`resilience_mobbing/mobbing_interwencja.md`](../resilience_mobbing/mobbing_interwencja.md)
-- [`resilience_mobbing/mobbing_skutki.md`](../resilience_mobbing/mobbing_skutki.md)
-- [`resilience_mobbing/modele_odpornosci.md`](../resilience_mobbing/modele_odpornosci.md)
-- [`resilience_mobbing/odpornosc_wprowadzenie.md`](../resilience_mobbing/odpornosc_wprowadzenie.md)
-- [`resilience_mobbing/profilaktyka_wypalenia.md`](../resilience_mobbing/profilaktyka_wypalenia.md)
-- [`resilience_mobbing/przemoc_psychiczna.md`](../resilience_mobbing/przemoc_psychiczna.md)
-- [`resilience_mobbing/wsparcie_psychologiczne.md`](../resilience_mobbing/wsparcie_psychologiczne.md)
-- [`resilience_mobbing/wypalenie_zawodowe.md`](../resilience_mobbing/wypalenie_zawodowe.md)
-- [`resilience_mobbing/wypalenie_zawody.md`](../resilience_mobbing/wypalenie_zawody.md)
+- [`resilience_mobbing/budowanie_odpornosci.md`](../rezyliencja_i_mobbing/budowanie_odpornosci.md)
+- [`resilience_mobbing/fazy_wypalenia.md`](../rezyliencja_i_mobbing/fazy_wypalenia.md)
+- [`resilience_mobbing/mobbing_definicja.md`](../rezyliencja_i_mobbing/mobbing_definicja.md)
+- [`resilience_mobbing/mobbing_interwencja.md`](../rezyliencja_i_mobbing/mobbing_interwencja.md)
+- [`resilience_mobbing/mobbing_skutki.md`](../rezyliencja_i_mobbing/mobbing_skutki.md)
+- [`resilience_mobbing/modele_odpornosci.md`](../rezyliencja_i_mobbing/modele_odpornosci.md)
+- [`resilience_mobbing/odpornosc_wprowadzenie.md`](../rezyliencja_i_mobbing/odpornosc_wprowadzenie.md)
+- [`resilience_mobbing/profilaktyka_wypalenia.md`](../rezyliencja_i_mobbing/profilaktyka_wypalenia.md)
+- [`resilience_mobbing/przemoc_psychiczna.md`](../rezyliencja_i_mobbing/przemoc_psychiczna.md)
+- [`resilience_mobbing/wsparcie_psychologiczne.md`](../rezyliencja_i_mobbing/wsparcie_psychologiczne.md)
+- [`resilience_mobbing/wypalenie_zawodowe.md`](../rezyliencja_i_mobbing/wypalenie_zawodowe.md)
+- [`resilience_mobbing/wypalenie_zawody.md`](../rezyliencja_i_mobbing/wypalenie_zawody.md)
 
-### resocialization
+### resocjalizacja
 
-- [`resocialization/desistance_i_zmiana_tozsamosci.md`](../resocialization/desistance_i_zmiana_tozsamosci.md)
-- [`resocialization/diagnoza_ryzyka_i_potrzeb.md`](../resocialization/diagnoza_ryzyka_i_potrzeb.md)
-- [`resocialization/edukacja_i_aktywizacja_zawodowa.md`](../resocialization/edukacja_i_aktywizacja_zawodowa.md)
-- [`resocialization/etyka_i_prawa_czlowieka.md`](../resocialization/etyka_i_prawa_czlowieka.md)
-- [`resocialization/ewaluacja_skutecznosci_programow.md`](../resocialization/ewaluacja_skutecznosci_programow.md)
-- [`resocialization/model_rnr_w_praktyce.md`](../resocialization/model_rnr_w_praktyce.md)
-- [`resocialization/podstawy_resocjalizacji.md`](../resocialization/podstawy_resocjalizacji.md)
-- [`resocialization/praca_z_uzaleznieniami_w_resocjalizacji.md`](../resocialization/praca_z_uzaleznieniami_w_resocjalizacji.md)
-- [`resocialization/readaptacja_postpenitencjarna.md`](../resocialization/readaptacja_postpenitencjarna.md)
-- [`resocialization/resocjalizacja_nieletnich.md`](../resocialization/resocjalizacja_nieletnich.md)
-- [`resocialization/sprawiedliwosc_naprawcza_mediacje.md`](../resocialization/sprawiedliwosc_naprawcza_mediacje.md)
-- [`resocialization/trening_umiejetnosci_spolecznych_i_samokontroli.md`](../resocialization/trening_umiejetnosci_spolecznych_i_samokontroli.md)
+- [`resocjalizacja/desistance_i_zmiana_tozsamosci.md`](../resocjalizacja/desistance_i_zmiana_tozsamosci.md)
+- [`resocjalizacja/diagnoza_ryzyka_i_potrzeb.md`](../resocjalizacja/diagnoza_ryzyka_i_potrzeb.md)
+- [`resocjalizacja/edukacja_i_aktywizacja_zawodowa.md`](../resocjalizacja/edukacja_i_aktywizacja_zawodowa.md)
+- [`resocjalizacja/etyka_i_prawa_czlowieka.md`](../resocjalizacja/etyka_i_prawa_czlowieka.md)
+- [`resocjalizacja/ewaluacja_skutecznosci_programow.md`](../resocjalizacja/ewaluacja_skutecznosci_programow.md)
+- [`resocjalizacja/model_rnr_w_praktyce.md`](../resocjalizacja/model_rnr_w_praktyce.md)
+- [`resocjalizacja/podstawy_resocjalizacji.md`](../resocjalizacja/podstawy_resocjalizacji.md)
+- [`resocjalizacja/praca_z_uzaleznieniami_w_resocjalizacji.md`](../resocjalizacja/praca_z_uzaleznieniami_w_resocjalizacji.md)
+- [`resocjalizacja/readaptacja_postpenitencjarna.md`](../resocjalizacja/readaptacja_postpenitencjarna.md)
+- [`resocjalizacja/resocjalizacja_nieletnich.md`](../resocjalizacja/resocjalizacja_nieletnich.md)
+- [`resocjalizacja/sprawiedliwosc_naprawcza_mediacje.md`](../resocjalizacja/sprawiedliwosc_naprawcza_mediacje.md)
+- [`resocjalizacja/trening_umiejetnosci_spolecznych_i_samokontroli.md`](../resocjalizacja/trening_umiejetnosci_spolecznych_i_samokontroli.md)
 
 ### rozwojowa
 
@@ -769,36 +769,36 @@ Poniżej znajdują się bezpośrednie odnośniki do artykułów bez linków przy
 
 ### school_psychology
 
-- [`school_psychology/adhd_w_szkole.md`](../school_psychology/adhd_w_szkole.md)
-- [`school_psychology/bullying.md`](../school_psychology/bullying.md)
-- [`school_psychology/inteligencja_wieloraka.md`](../school_psychology/inteligencja_wieloraka.md)
-- [`school_psychology/interwencje_szkolne.md`](../school_psychology/interwencje_szkolne.md)
-- [`school_psychology/klimat_szkolny.md`](../school_psychology/klimat_szkolny.md)
-- [`school_psychology/motywacja_szkolna.md`](../school_psychology/motywacja_szkolna.md)
-- [`school_psychology/ocenianie_i_feedback.md`](../school_psychology/ocenianie_i_feedback.md)
-- [`school_psychology/relacje_nauczyciel_uczen.md`](../school_psychology/relacje_nauczyciel_uczen.md)
-- [`school_psychology/strefa_najblizszego_rozwoju.md`](../school_psychology/strefa_najblizszego_rozwoju.md)
-- [`school_psychology/stres_szkolny.md`](../school_psychology/stres_szkolny.md)
-- [`school_psychology/teorie_uczenia_sie.md`](../school_psychology/teorie_uczenia_sie.md)
-- [`school_psychology/trudnosci_w_uczeniu_sie.md`](../school_psychology/trudnosci_w_uczeniu_sie.md)
-- [`school_psychology/wprowadzenie.md`](../school_psychology/wprowadzenie.md)
+- [`school_psychology/adhd_w_szkole.md`](../psychologia_szkolna/adhd_w_szkole.md)
+- [`school_psychology/bullying.md`](../psychologia_szkolna/bullying.md)
+- [`school_psychology/inteligencja_wieloraka.md`](../psychologia_szkolna/inteligencja_wieloraka.md)
+- [`school_psychology/interwencje_szkolne.md`](../psychologia_szkolna/interwencje_szkolne.md)
+- [`school_psychology/klimat_szkolny.md`](../psychologia_szkolna/klimat_szkolny.md)
+- [`school_psychology/motywacja_szkolna.md`](../psychologia_szkolna/motywacja_szkolna.md)
+- [`school_psychology/ocenianie_i_feedback.md`](../psychologia_szkolna/ocenianie_i_feedback.md)
+- [`school_psychology/relacje_nauczyciel_uczen.md`](../psychologia_szkolna/relacje_nauczyciel_uczen.md)
+- [`school_psychology/strefa_najblizszego_rozwoju.md`](../psychologia_szkolna/strefa_najblizszego_rozwoju.md)
+- [`school_psychology/stres_szkolny.md`](../psychologia_szkolna/stres_szkolny.md)
+- [`school_psychology/teorie_uczenia_sie.md`](../psychologia_szkolna/teorie_uczenia_sie.md)
+- [`school_psychology/trudnosci_w_uczeniu_sie.md`](../psychologia_szkolna/trudnosci_w_uczeniu_sie.md)
+- [`school_psychology/wprowadzenie.md`](../psychologia_szkolna/wprowadzenie.md)
 
 ### sexology
 
-- [`sexology/dda_a_seksualnosc.md`](../sexology/dda_a_seksualnosc.md)
-- [`sexology/dysfunkcje.md`](../sexology/dysfunkcje.md)
-- [`sexology/emocjonalne_zaangazowanie_w_seksie.md`](../sexology/emocjonalne_zaangazowanie_w_seksie.md)
-- [`sexology/hiperseksualnosc_mechanizm.md`](../sexology/hiperseksualnosc_mechanizm.md)
-- [`sexology/modele_odpowiedzi.md`](../sexology/modele_odpowiedzi.md)
-- [`sexology/orientacja.md`](../sexology/orientacja.md)
-- [`sexology/przemoc_w_dziecinstwie_a_seksualnosc.md`](../sexology/przemoc_w_dziecinstwie_a_seksualnosc.md)
-- [`sexology/psychologia_seksu.md`](../sexology/psychologia_seksu.md)
-- [`sexology/rozw_seksualny.md`](../sexology/rozw_seksualny.md)
-- [`sexology/seksuologia_wprowadzenie.md`](../sexology/seksuologia_wprowadzenie.md)
-- [`sexology/terapia_seksualna.md`](../sexology/terapia_seksualna.md)
-- [`sexology/tozsamosc_plciowa.md`](../sexology/tozsamosc_plciowa.md)
-- [`sexology/trauma_seksualna.md`](../sexology/trauma_seksualna.md)
-- [`sexology/wstyd_ciala_a_pozycje.md`](../sexology/wstyd_ciala_a_pozycje.md)
+- [`sexology/dda_a_seksualnosc.md`](../seksuologia/dda_a_seksualnosc.md)
+- [`sexology/dysfunkcje.md`](../seksuologia/dysfunkcje.md)
+- [`sexology/emocjonalne_zaangazowanie_w_seksie.md`](../seksuologia/emocjonalne_zaangazowanie_w_seksie.md)
+- [`sexology/hiperseksualnosc_mechanizm.md`](../seksuologia/hiperseksualnosc_mechanizm.md)
+- [`sexology/modele_odpowiedzi.md`](../seksuologia/modele_odpowiedzi.md)
+- [`sexology/orientacja.md`](../seksuologia/orientacja.md)
+- [`sexology/przemoc_w_dziecinstwie_a_seksualnosc.md`](../seksuologia/przemoc_w_dziecinstwie_a_seksualnosc.md)
+- [`sexology/psychologia_seksu.md`](../seksuologia/psychologia_seksu.md)
+- [`sexology/rozw_seksualny.md`](../seksuologia/rozw_seksualny.md)
+- [`sexology/seksuologia_wprowadzenie.md`](../seksuologia/seksuologia_wprowadzenie.md)
+- [`sexology/terapia_seksualna.md`](../seksuologia/terapia_seksualna.md)
+- [`sexology/tozsamosc_plciowa.md`](../seksuologia/tozsamosc_plciowa.md)
+- [`sexology/trauma_seksualna.md`](../seksuologia/trauma_seksualna.md)
+- [`sexology/wstyd_ciala_a_pozycje.md`](../seksuologia/wstyd_ciala_a_pozycje.md)
 
 ### spoleczna
 
@@ -818,33 +818,33 @@ Poniżej znajdują się bezpośrednie odnośniki do artykułów bez linków przy
 
 ### students
 
-- [`students/etyka_studenta.md`](../students/etyka_studenta.md)
-- [`students/wybor_specjalnosci.md`](../students/wybor_specjalnosci.md)
+- [`students/etyka_studenta.md`](../dla_studentow/etyka_studenta.md)
+- [`students/wybor_specjalnosci.md`](../dla_studentow/wybor_specjalnosci.md)
 
 ### suicidology
 
-- [`suicidology/biologiczne_neurobiologiczne_podstawy_zachowan_suicydalnych.md`](../suicidology/biologiczne_neurobiologiczne_podstawy_zachowan_suicydalnych.md)
-- [`suicidology/epidemiologia.md`](../suicidology/epidemiologia.md)
-- [`suicidology/genetyczne_i_epigenetyczne_uwarunkowania_suicydalnosci.md`](../suicidology/genetyczne_i_epigenetyczne_uwarunkowania_suicydalnosci.md)
-- [`suicidology/interwencja.md`](../suicidology/interwencja.md)
-- [`suicidology/media.md`](../suicidology/media.md)
-- [`suicidology/nssi.md`](../suicidology/nssi.md)
-- [`suicidology/ocena_ryzyka.md`](../suicidology/ocena_ryzyka.md)
-- [`suicidology/postvention.md`](../suicidology/postvention.md)
-- [`suicidology/profilaktyka.md`](../suicidology/profilaktyka.md)
-- [`suicidology/psychopatologia_a_ryzyko_samobojstwa.md`](../suicidology/psychopatologia_a_ryzyko_samobojstwa.md)
-- [`suicidology/suicydologia_wprowadzenie.md`](../suicidology/suicydologia_wprowadzenie.md)
-- [`suicidology/teorie.md`](../suicidology/teorie.md)
+- [`suicidology/biologiczne_neurobiologiczne_podstawy_zachowan_suicydalnych.md`](../suicydologia/biologiczne_neurobiologiczne_podstawy_zachowan_suicydalnych.md)
+- [`suicidology/epidemiologia.md`](../suicydologia/epidemiologia.md)
+- [`suicidology/genetyczne_i_epigenetyczne_uwarunkowania_suicydalnosci.md`](../suicydologia/genetyczne_i_epigenetyczne_uwarunkowania_suicydalnosci.md)
+- [`suicidology/interwencja.md`](../suicydologia/interwencja.md)
+- [`suicidology/media.md`](../suicydologia/media.md)
+- [`suicidology/nssi.md`](../suicydologia/nssi.md)
+- [`suicidology/ocena_ryzyka.md`](../suicydologia/ocena_ryzyka.md)
+- [`suicidology/postvention.md`](../suicydologia/postvention.md)
+- [`suicidology/profilaktyka.md`](../suicydologia/profilaktyka.md)
+- [`suicidology/psychopatologia_a_ryzyko_samobojstwa.md`](../suicydologia/psychopatologia_a_ryzyko_samobojstwa.md)
+- [`suicidology/suicydologia_wprowadzenie.md`](../suicydologia/suicydologia_wprowadzenie.md)
+- [`suicidology/teorie.md`](../suicydologia/teorie.md)
 
 ### technology_psychology
 
-- [`technology_psychology/fomo_i_nomofobia.md`](../technology_psychology/fomo_i_nomofobia.md)
-- [`technology_psychology/higiena_cyfrowa.md`](../technology_psychology/higiena_cyfrowa.md)
-- [`technology_psychology/psychoedukacja_rodzinna.md`](../technology_psychology/psychoedukacja_rodzinna.md)
-- [`technology_psychology/technologia_a_sen.md`](../technology_psychology/technologia_a_sen.md)
-- [`technology_psychology/technostres.md`](../technology_psychology/technostres.md)
-- [`technology_psychology/zdrada_technologii.md`](../technology_psychology/zdrada_technologii.md)
-- [`technology_psychology/zmeczenie_cyfrowe.md`](../technology_psychology/zmeczenie_cyfrowe.md)
+- [`technology_psychology/fomo_i_nomofobia.md`](../psychologia_technologii/fomo_i_nomofobia.md)
+- [`technology_psychology/higiena_cyfrowa.md`](../psychologia_technologii/higiena_cyfrowa.md)
+- [`technology_psychology/psychoedukacja_rodzinna.md`](../psychologia_technologii/psychoedukacja_rodzinna.md)
+- [`technology_psychology/technologia_a_sen.md`](../psychologia_technologii/technologia_a_sen.md)
+- [`technology_psychology/technostres.md`](../psychologia_technologii/technostres.md)
+- [`technology_psychology/zdrada_technologii.md`](../psychologia_technologii/zdrada_technologii.md)
+- [`technology_psychology/zmeczenie_cyfrowe.md`](../psychologia_technologii/zmeczenie_cyfrowe.md)
 
 ### temperament
 
@@ -877,49 +877,52 @@ Poniżej znajdują się bezpośrednie odnośniki do artykułów bez linków przy
 
 ## Uwagi metodologiczne
 
-- Raport uwzględnia wyłącznie odnośniki Markdown w postaci `[etykieta](ścieżka)` pomiędzy plikami `.md` w `wiki/`.
-- Nie uwzględniono odwołań generowanych dynamicznie przez kod aplikacji ani nawigacji budowanej poza treścią Markdown.
-- Wynik „bez odnośników” oznacza brak linków **przychodzących** z innych artykułów.
+- Raport uwzglďż˝"dnia wy9ďż˝&cznie odno9:niki Markdown w postaci `[etykieta](9:cie9=ka)` pomiďż˝"dzy plikami `.md` w `wiki/`.
+- Nie uwzglďż˝"dniono odwo9a9 generowanych dynamicznie przez kod aplikacji ani nawigacji budowanej poza tre9:ciďż˝& Markdown.
+- Wynik ďż˝~bez odno9:nikBwďż˝e oznacza brak linkBw **przychodzďż˝&cych** z innych artyku9Bw.
 
 ## Wprowadzenie
 
-Temat tego artykułu jest istotny dla praktyki psychologicznej, ponieważ łączy perspektywę teoretyczną z codziennymi decyzjami klinicznymi lub edukacyjnymi. W literaturze podkreśla się, że trafne rozumienie zjawiska wymaga uwzględnienia kontekstu biologicznego, społecznego i kulturowego. W niniejszym opracowaniu przyjmujemy podejście oparte na dowodach, oddzielając ustalenia empiryczne od interpretacji. Taki porządek ułatwia ocenę jakości argumentów i ogranicza ryzyko uproszczeń. Dzięki temu czytelnik może przełożyć wiedzę teoretyczną na bardziej świadome działania praktyczne.
+Temat tego artyku9u jest istotny dla praktyki psychologicznej, poniewa9= 9ďż˝&czy perspektywďż˝" teoretycznďż˝& z codziennymi decyzjami klinicznymi lub edukacyjnymi. W literaturze podkre9:la siďż˝", 9=e trafne rozumienie zjawiska wymaga uwzglďż˝"dnienia kontekstu biologicznego, spo9ecznego i kulturowego. W niniejszym opracowaniu przyjmujemy podej9:cie oparte na dowodach, oddzielajďż˝&c ustalenia empiryczne od interpretacji. Taki porzďż˝&dek u9atwia ocenďż˝" jako9:ci argumentBw i ogranicza ryzyko uproszcze9. Dziďż˝"ki temu czytelnik mo9=e prze9o9=yďż˝! wiedzďż˝" teoretycznďż˝& na bardziej 9:wiadome dzia9ania praktyczne.
 
 
 ## Definicje
 
-W tym artykule kluczowe pojęcia są rozumiane w sposób operacyjny, tak aby można je było stosować w badaniach i praktyce. Definicja zjawiska obejmuje zarówno jego kryteria rozpoznania, jak i granice pojęciowe odróżniające je od konstruktów pokrewnych. Warto pamiętać, że część terminów ma kilka konkurencyjnych ujęć, zależnie od szkoły teoretycznej. Dlatego podczas interpretacji wyników należy zawsze wskazać, którą definicję przyjęto i dlaczego. Taka precyzja terminologiczna zwiększa porównywalność danych oraz jakość wnioskowania.
+W tym artykule kluczowe pojďż˝"cia sďż˝& rozumiane w sposBb operacyjny, tak aby mo9=na je by9o stosowaďż˝! w badaniach i praktyce. Definicja zjawiska obejmuje zarBwno jego kryteria rozpoznania, jak i granice pojďż˝"ciowe odrB9=niajďż˝&ce je od konstruktBw pokrewnych. Warto pamiďż˝"taďż˝!, 9=e czďż˝"9:ďż˝! terminBw ma kilka konkurencyjnych ujďż˝"ďż˝!, zale9=nie od szko9y teoretycznej. Dlatego podczas interpretacji wynikBw nale9=y zawsze wskazaďż˝!, ktBrďż˝& definicjďż˝" przyjďż˝"to i dlaczego. Taka precyzja terminologiczna zwiďż˝"ksza porBwnywalno9:ďż˝! danych oraz jako9:ďż˝! wnioskowania.
 
 
 ## Analiza
 
-Mechanizmy omawianego zjawiska najlepiej wyjaśniać na kilku poziomach: poznawczym, emocjonalnym, behawioralnym i środowiskowym. Dane empiryczne zwykle pokazują, że efekt końcowy wynika z interakcji wielu czynników, a nie z pojedynczej przyczyny. Z perspektywy metodologicznej warto uwzględnić zarówno wyniki badań przekrojowych, jak i podłużnych, ponieważ odpowiadają one na różne pytania. Ograniczeniem bywa heterogeniczność prób i narzędzi pomiarowych, która utrudnia bezpośrednie porównania między badaniami. Mimo tych ograniczeń spójny obraz zjawiska można uzyskać, łącząc dane ilościowe, jakościowe i kliniczne.
+Mechanizmy omawianego zjawiska najlepiej wyja9:niaďż˝! na kilku poziomach: poznawczym, emocjonalnym, behawioralnym i 9:rodowiskowym. Dane empiryczne zwykle pokazujďż˝&, 9=e efekt ko9cowy wynika z interakcji wielu czynnikBw, a nie z pojedynczej przyczyny. Z perspektywy metodologicznej warto uwzglďż˝"dniďż˝! zarBwno wyniki bada9 przekrojowych, jak i pod9u9=nych, poniewa9= odpowiadajďż˝& one na rB9=ne pytania. Ograniczeniem bywa heterogeniczno9:ďż˝! prBb i narzďż˝"dzi pomiarowych, ktBra utrudnia bezpo9:rednie porBwnania miďż˝"dzy badaniami. Mimo tych ogranicze9 spBjny obraz zjawiska mo9=na uzyskaďż˝!, 9ďż˝&czďż˝&c dane ilo9:ciowe, jako9:ciowe i kliniczne.
 
 
 ## Dobra praktyka
 
-Dobrą praktyką jest rozpoczynanie pracy od jasnego celu, kryteriów oceny postępów oraz wspólnego języka używanego przez specjalistę i odbiorcę interwencji. W praktyce oznacza to regularny monitoring efektów, krótkie cykle informacji zwrotnej i gotowość do modyfikacji planu działania. Wysoką skuteczność wspiera także psychoedukacja, która zwiększa poczucie sprawstwa i rozumienie procesu zmiany. Istotne jest ponadto respektowanie granic etycznych oraz uwzględnianie różnic indywidualnych. Konsekwencją takiego podejścia jest większa trwałość rezultatów i mniejsze ryzyko działań pozornych.
+Dobrďż˝& praktykďż˝& jest rozpoczynanie pracy od jasnego celu, kryteriBw oceny postďż˝"pBw oraz wspBlnego jďż˝"zyka u9=ywanego przez specjalistďż˝" i odbiorcďż˝" interwencji. W praktyce oznacza to regularny monitoring efektBw, krBtkie cykle informacji zwrotnej i gotowo9:ďż˝! do modyfikacji planu dzia9ania. Wysokďż˝& skuteczno9:ďż˝! wspiera tak9=e psychoedukacja, ktBra zwiďż˝"ksza poczucie sprawstwa i rozumienie procesu zmiany. Istotne jest ponadto respektowanie granic etycznych oraz uwzglďż˝"dnianie rB9=nic indywidualnych. Konsekwencjďż˝& takiego podej9:cia jest wiďż˝"ksza trwa9o9:ďż˝! rezultatBw i mniejsze ryzyko dzia9a9 pozornych.
 
 
-## Zła praktyka
+## Z9a praktyka
 
-Częstym błędem jest stosowanie jednego schematu postępowania niezależnie od kontekstu, potrzeb i możliwości danej osoby lub grupy. Problemem bywa również opieranie decyzji na intuicji bez sprawdzania jakości danych i aktualnych rekomendacji. W praktyce prowadzi to do nietrafnych interwencji, spadku motywacji oraz utraty zaufania do procesu wsparcia. Złą praktyką jest także pomijanie czynników systemowych, takich jak warunki środowiskowe czy bariery organizacyjne. Konsekwencje obejmują nie tylko słabsze efekty, ale również ryzyko wtórnej szkody psychologicznej.
+Czďż˝"stym b9ďż˝"dem jest stosowanie jednego schematu postďż˝"powania niezale9=nie od kontekstu, potrzeb i mo9=liwo9:ci danej osoby lub grupy. Problemem bywa rBwnie9= opieranie decyzji na intuicji bez sprawdzania jako9:ci danych i aktualnych rekomendacji. W praktyce prowadzi to do nietrafnych interwencji, spadku motywacji oraz utraty zaufania do procesu wsparcia. Z9ďż˝& praktykďż˝& jest tak9=e pomijanie czynnikBw systemowych, takich jak warunki 9:rodowiskowe czy bariery organizacyjne. Konsekwencje obejmujďż˝& nie tylko s9absze efekty, ale rBwnie9= ryzyko wtBrnej szkody psychologicznej.
 
 
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
+Nieoczywista perspektywa polega na przesuniďż˝"ciu uwagi z pytania ďż˝~co jest nie takďż˝e na pytanie ďż˝~jakie warunki podtrzymujďż˝& aktualny wzorzec funkcjonowaniaďż˝e. Taki punkt widzenia pozwala dostrzec, 9=e czďż˝"9:ďż˝! zachowa9 ocenianych jako problemowe pe9ni funkcjďż˝" adaptacyjnďż˝& w krBtkim horyzoncie czasu. W badaniach oznacza to potrzebďż˝" analizy kosztBw i korzy9:ci z perspektywy uczestnika, a nie wy9ďż˝&cznie obserwatora. W praktyce mo9=e to prowadziďż˝! do bardziej realistycznych celBw i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudno9:ci, lecz porzďż˝&dkuje je w kategoriach funkcji i kontekstu.
 
 
 ## Podsumowanie
 
-Najważniejszy wniosek jest taki, że rzetelne rozumienie omawianego tematu wymaga łączenia definicji, danych empirycznych i konsekwencji praktycznych. Skuteczne działania opierają się na dopasowaniu metod do celu, monitorowaniu efektów oraz świadomym zarządzaniu ograniczeniami. Jednocześnie należy zachować ostrożność wobec nadmiernych uogólnień, bo jakość wniosków zależy od kontekstu i jakości pomiaru. Włączenie perspektywy alternatywnej zwiększa trafność diagnozy i użyteczność interwencji. Ostatecznie to właśnie integracja wiedzy teoretycznej z praktyką decyduje o wartości edukacyjnej i klinicznej artykułu.
+Najwa9=niejszy wniosek jest taki, 9=e rzetelne rozumienie omawianego tematu wymaga 9ďż˝&czenia definicji, danych empirycznych i konsekwencji praktycznych. Skuteczne dzia9ania opierajďż˝& siďż˝" na dopasowaniu metod do celu, monitorowaniu efektBw oraz 9:wiadomym zarzďż˝&dzaniu ograniczeniami. Jednocze9:nie nale9=y zachowaďż˝! ostro9=no9:ďż˝! wobec nadmiernych uogBlnie9, bo jako9:ďż˝! wnioskBw zale9=y od kontekstu i jako9:ci pomiaru. W9ďż˝&czenie perspektywy alternatywnej zwiďż˝"ksza trafno9:ďż˝! diagnozy i u9=yteczno9:ďż˝! interwencji. Ostatecznie to w9a9:nie integracja wiedzy teoretycznej z praktykďż˝& decyduje o warto9:ci edukacyjnej i klinicznej artyku9u.
 
 
 ## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
+3. Nďż˝"cka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
 4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
 5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+
+
+

@@ -1,120 +1,121 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
 
-# Katalog narzędzi pomiarowych — zasady operacyjne
+# Katalog narzÄ™dzi pomiarowych â€” zasady operacyjne
 
 ## Cel dokumentu
 
-Ten dokument porządkuje sposób dodawania i utrzymania wpisów w katalogu narzędzi pomiarowych (`measurementToolsByDomain` w `site-config.js`) tak, aby dane były spójne, audytowalne i użyteczne w UI.
+Ten dokument porzÄ…dkuje sposĂłb dodawania i utrzymania wpisĂłw w katalogu narzÄ™dzi pomiarowych (`measurementToolsByDomain` w `site-config.js`) tak, aby dane byĹ‚y spĂłjne, audytowalne i uĹĽyteczne w UI.
 
-## Checklista dodawania nowego narzędzia
+## Checklista dodawania nowego narzÄ™dzia
 
-> Uzupełnij wszystkie kroki przed oznaczeniem wpisu jako gotowego.
+> UzupeĹ‚nij wszystkie kroki przed oznaczeniem wpisu jako gotowego.
 
-1. **Wybierz dziedzinę** i sprawdź, czy istnieje sekcja domeny w `measurementToolsByDomain`.
-2. **Uzupełnij pola identyfikacyjne:** `id`, `name`, `type`.
-3. **Uzupełnij pola merytoryczne:** `constructs`, `population`, `ageRange`, `administrationTime`, `scoring`.
-4. **Uzupełnij pola jakościowe:** `evidenceLevel`, `reliability`, `validity`, `normsInfo`, `limitations`.
-5. **Uzupełnij pola zgodności i bezpieczeństwa:** `ethicalNotes`, `contraindications`, `license`, `requiresPermissions`.
+1. **Wybierz dziedzinÄ™** i sprawdĹş, czy istnieje sekcja domeny w `measurementToolsByDomain`.
+2. **UzupeĹ‚nij pola identyfikacyjne:** `id`, `name`, `type`.
+3. **UzupeĹ‚nij pola merytoryczne:** `constructs`, `population`, `ageRange`, `administrationTime`, `scoring`.
+4. **UzupeĹ‚nij pola jakoĹ›ciowe:** `evidenceLevel`, `reliability`, `validity`, `normsInfo`, `limitations`.
+5. **UzupeĹ‚nij pola zgodnoĹ›ci i bezpieczeĹ„stwa:** `ethicalNotes`, `contraindications`, `license`, `requiresPermissions`.
 6. **Dodaj pola referencyjne:** `articleLinks`, `methodologyLinks`, `language`.
-7. **Zweryfikuj słowniki kontrolowane** (`type`, `evidenceLevel`, `license`) względem `measurementToolsControlledVocabulary`.
-8. **Dodaj minimum 1 link merytoryczny** w `methodologyLinks` (np. artykuł o rzetelności/trafności/normalizacji).
-9. **Zaktualizuj datę domeny** w `measurementToolsDomainUpdates.<domain>.updatedAt` (format `YYYY-MM-DD`).
-10. **Sprawdź UI** — czy wpis renderuje się poprawnie i czy widoczna jest sekcja „Ostatnia aktualizacja (dziedzina)”.
+7. **Zweryfikuj sĹ‚owniki kontrolowane** (`type`, `evidenceLevel`, `license`) wzglÄ™dem `measurementToolsControlledVocabulary`.
+8. **Dodaj minimum 1 link merytoryczny** w `methodologyLinks` (np. artykuĹ‚ o rzetelnoĹ›ci/trafnoĹ›ci/normalizacji).
+9. **Zaktualizuj datÄ™ domeny** w `measurementToolsDomainUpdates.<domain>.updatedAt` (format `YYYY-MM-DD`).
+10. **SprawdĹş UI** â€” czy wpis renderuje siÄ™ poprawnie i czy widoczna jest sekcja â€žOstatnia aktualizacja (dziedzina)â€ť.
 
-## Definition of Done (DoD) dla wpisu narzędzia
+## Definition of Done (DoD) dla wpisu narzÄ™dzia
 
-Wpis uznajemy za ukończony tylko wtedy, gdy:
+Wpis uznajemy za ukoĹ„czony tylko wtedy, gdy:
 
-- zawiera komplet pól obowiązkowych:
+- zawiera komplet pĂłl obowiÄ…zkowych:
   - `id`, `name`, `type`, `constructs`, `population`, `ageRange`, `administrationTime`, `scoring`,
   - `evidenceLevel`, `license`, `requiresPermissions`, `language`,
   - `articleLinks`, `methodologyLinks`,
   - `reliability`, `validity`, `normsInfo`, `limitations`, `ethicalNotes`, `contraindications`;
-- zawiera **co najmniej 1 link do artykułu merytorycznego** (`methodologyLinks.length >= 1`);
-- używa wartości ze słowników kontrolowanych (`measurementToolsControlledVocabulary`);
+- zawiera **co najmniej 1 link do artykuĹ‚u merytorycznego** (`methodologyLinks.length >= 1`);
+- uĹĽywa wartoĹ›ci ze sĹ‚ownikĂłw kontrolowanych (`measurementToolsControlledVocabulary`);
 - dla dziedziny wpisu ustawiono aktualne `updatedAt`.
 
 ## Ostatnia aktualizacja per dziedzina (`updatedAt`)
 
-W każdej dziedzinie utrzymujemy metadane aktualizacji:
+W kaĹĽdej dziedzinie utrzymujemy metadane aktualizacji:
 
 - lokalizacja: `measurementToolsDomainUpdates.<domain>.updatedAt` w `site-config.js`;
 - format: `YYYY-MM-DD` (ISO);
-- zasada: przy każdej zmianie wpisów narzędzi w domenie aktualizujemy odpowiadającą datę `updatedAt`.
+- zasada: przy kaĹĽdej zmianie wpisĂłw narzÄ™dzi w domenie aktualizujemy odpowiadajÄ…cÄ… datÄ™ `updatedAt`.
 
-## Cykliczny przegląd katalogu (kwartalny)
+## Cykliczny przeglÄ…d katalogu (kwartalny)
 
-Przegląd wykonujemy raz na kwartał (Q1/Q2/Q3/Q4):
+PrzeglÄ…d wykonujemy raz na kwartaĹ‚ (Q1/Q2/Q3/Q4):
 
-1. Przegląd kompletności pól obowiązkowych.
-2. Przegląd aktualności linków (`articleLinks` i `methodologyLinks`).
-3. Weryfikacja jakości opisów (`reliability`, `validity`, `limitations`, `ethicalNotes`).
-4. Aktualizacja `updatedAt` dla każdej dziedziny, w której wykonano zmianę.
+1. PrzeglÄ…d kompletnoĹ›ci pĂłl obowiÄ…zkowych.
+2. PrzeglÄ…d aktualnoĹ›ci linkĂłw (`articleLinks` i `methodologyLinks`).
+3. Weryfikacja jakoĹ›ci opisĂłw (`reliability`, `validity`, `limitations`, `ethicalNotes`).
+4. Aktualizacja `updatedAt` dla kaĹĽdej dziedziny, w ktĂłrej wykonano zmianÄ™.
 
-### Procedura oznaczania wpisów „do rewizji”
+### Procedura oznaczania wpisĂłw â€ždo rewizjiâ€ť
 
-Wpis oznaczamy jako „do rewizji”, gdy:
+Wpis oznaczamy jako â€ždo rewizjiâ€ť, gdy:
 
-- brakuje pola obowiązkowego,
+- brakuje pola obowiÄ…zkowego,
 - brak linku merytorycznego,
-- link prowadzi do nieistniejącego artykułu,
-- opis jakościowy jest nieaktualny lub niespójny.
+- link prowadzi do nieistniejÄ…cego artykuĹ‚u,
+- opis jakoĹ›ciowy jest nieaktualny lub niespĂłjny.
 
 Sugerowany workflow:
 
-1. Dodać etykietę roboczą `DO_REWIZJI` w opisie problemu (issue / TODO zespołu).
-2. Uzupełnić brakujące pola i/lub poprawić linki.
-3. Po poprawce: usunąć etykietę `DO_REWIZJI`, zaktualizować `updatedAt`, zweryfikować render w UI.
+1. DodaÄ‡ etykietÄ™ roboczÄ… `DO_REWIZJI` w opisie problemu (issue / TODO zespoĹ‚u).
+2. UzupeĹ‚niÄ‡ brakujÄ…ce pola i/lub poprawiÄ‡ linki.
+3. Po poprawce: usunÄ…Ä‡ etykietÄ™ `DO_REWIZJI`, zaktualizowaÄ‡ `updatedAt`, zweryfikowaÄ‡ render w UI.
 
-## Uwagi końcowe
+## Uwagi koĹ„cowe
 
-- Katalog ma charakter edukacyjny i nie zastępuje pełnej procedury diagnostycznej.
-- Zmiany merytoryczne powinny być konsultowane z osobą odpowiedzialną za obszar psychometrii/diagnostyki.
+- Katalog ma charakter edukacyjny i nie zastÄ™puje peĹ‚nej procedury diagnostycznej.
+- Zmiany merytoryczne powinny byÄ‡ konsultowane z osobÄ… odpowiedzialnÄ… za obszar psychometrii/diagnostyki.
 
 
 ## Wprowadzenie
 
-Temat tego artykułu jest istotny dla praktyki psychologicznej, ponieważ łączy perspektywę teoretyczną z codziennymi decyzjami klinicznymi lub edukacyjnymi. W literaturze podkreśla się, że trafne rozumienie zjawiska wymaga uwzględnienia kontekstu biologicznego, społecznego i kulturowego. W niniejszym opracowaniu przyjmujemy podejście oparte na dowodach, oddzielając ustalenia empiryczne od interpretacji. Taki porządek ułatwia ocenę jakości argumentów i ogranicza ryzyko uproszczeń. Dzięki temu czytelnik może przełożyć wiedzę teoretyczną na bardziej świadome działania praktyczne.
+Temat tego artykuĹ‚u jest istotny dla praktyki psychologicznej, poniewaĹĽ Ĺ‚Ä…czy perspektywÄ™ teoretycznÄ… z codziennymi decyzjami klinicznymi lub edukacyjnymi. W literaturze podkreĹ›la siÄ™, ĹĽe trafne rozumienie zjawiska wymaga uwzglÄ™dnienia kontekstu biologicznego, spoĹ‚ecznego i kulturowego. W niniejszym opracowaniu przyjmujemy podejĹ›cie oparte na dowodach, oddzielajÄ…c ustalenia empiryczne od interpretacji. Taki porzÄ…dek uĹ‚atwia ocenÄ™ jakoĹ›ci argumentĂłw i ogranicza ryzyko uproszczeĹ„. DziÄ™ki temu czytelnik moĹĽe przeĹ‚oĹĽyÄ‡ wiedzÄ™ teoretycznÄ… na bardziej Ĺ›wiadome dziaĹ‚ania praktyczne.
 
 
 ## Definicje
 
-W tym artykule kluczowe pojęcia są rozumiane w sposób operacyjny, tak aby można je było stosować w badaniach i praktyce. Definicja zjawiska obejmuje zarówno jego kryteria rozpoznania, jak i granice pojęciowe odróżniające je od konstruktów pokrewnych. Warto pamiętać, że część terminów ma kilka konkurencyjnych ujęć, zależnie od szkoły teoretycznej. Dlatego podczas interpretacji wyników należy zawsze wskazać, którą definicję przyjęto i dlaczego. Taka precyzja terminologiczna zwiększa porównywalność danych oraz jakość wnioskowania.
+W tym artykule kluczowe pojÄ™cia sÄ… rozumiane w sposĂłb operacyjny, tak aby moĹĽna je byĹ‚o stosowaÄ‡ w badaniach i praktyce. Definicja zjawiska obejmuje zarĂłwno jego kryteria rozpoznania, jak i granice pojÄ™ciowe odrĂłĹĽniajÄ…ce je od konstruktĂłw pokrewnych. Warto pamiÄ™taÄ‡, ĹĽe czÄ™Ĺ›Ä‡ terminĂłw ma kilka konkurencyjnych ujÄ™Ä‡, zaleĹĽnie od szkoĹ‚y teoretycznej. Dlatego podczas interpretacji wynikĂłw naleĹĽy zawsze wskazaÄ‡, ktĂłrÄ… definicjÄ™ przyjÄ™to i dlaczego. Taka precyzja terminologiczna zwiÄ™ksza porĂłwnywalnoĹ›Ä‡ danych oraz jakoĹ›Ä‡ wnioskowania.
 
 
 ## Analiza
 
-Mechanizmy omawianego zjawiska najlepiej wyjaśniać na kilku poziomach: poznawczym, emocjonalnym, behawioralnym i środowiskowym. Dane empiryczne zwykle pokazują, że efekt końcowy wynika z interakcji wielu czynników, a nie z pojedynczej przyczyny. Z perspektywy metodologicznej warto uwzględnić zarówno wyniki badań przekrojowych, jak i podłużnych, ponieważ odpowiadają one na różne pytania. Ograniczeniem bywa heterogeniczność prób i narzędzi pomiarowych, która utrudnia bezpośrednie porównania między badaniami. Mimo tych ograniczeń spójny obraz zjawiska można uzyskać, łącząc dane ilościowe, jakościowe i kliniczne.
+Mechanizmy omawianego zjawiska najlepiej wyjaĹ›niaÄ‡ na kilku poziomach: poznawczym, emocjonalnym, behawioralnym i Ĺ›rodowiskowym. Dane empiryczne zwykle pokazujÄ…, ĹĽe efekt koĹ„cowy wynika z interakcji wielu czynnikĂłw, a nie z pojedynczej przyczyny. Z perspektywy metodologicznej warto uwzglÄ™dniÄ‡ zarĂłwno wyniki badaĹ„ przekrojowych, jak i podĹ‚uĹĽnych, poniewaĹĽ odpowiadajÄ… one na rĂłĹĽne pytania. Ograniczeniem bywa heterogenicznoĹ›Ä‡ prĂłb i narzÄ™dzi pomiarowych, ktĂłra utrudnia bezpoĹ›rednie porĂłwnania miÄ™dzy badaniami. Mimo tych ograniczeĹ„ spĂłjny obraz zjawiska moĹĽna uzyskaÄ‡, Ĺ‚Ä…czÄ…c dane iloĹ›ciowe, jakoĹ›ciowe i kliniczne.
 
 
 ## Dobra praktyka
 
-Dobrą praktyką jest rozpoczynanie pracy od jasnego celu, kryteriów oceny postępów oraz wspólnego języka używanego przez specjalistę i odbiorcę interwencji. W praktyce oznacza to regularny monitoring efektów, krótkie cykle informacji zwrotnej i gotowość do modyfikacji planu działania. Wysoką skuteczność wspiera także psychoedukacja, która zwiększa poczucie sprawstwa i rozumienie procesu zmiany. Istotne jest ponadto respektowanie granic etycznych oraz uwzględnianie różnic indywidualnych. Konsekwencją takiego podejścia jest większa trwałość rezultatów i mniejsze ryzyko działań pozornych.
+DobrÄ… praktykÄ… jest rozpoczynanie pracy od jasnego celu, kryteriĂłw oceny postÄ™pĂłw oraz wspĂłlnego jÄ™zyka uĹĽywanego przez specjalistÄ™ i odbiorcÄ™ interwencji. W praktyce oznacza to regularny monitoring efektĂłw, krĂłtkie cykle informacji zwrotnej i gotowoĹ›Ä‡ do modyfikacji planu dziaĹ‚ania. WysokÄ… skutecznoĹ›Ä‡ wspiera takĹĽe psychoedukacja, ktĂłra zwiÄ™ksza poczucie sprawstwa i rozumienie procesu zmiany. Istotne jest ponadto respektowanie granic etycznych oraz uwzglÄ™dnianie rĂłĹĽnic indywidualnych. KonsekwencjÄ… takiego podejĹ›cia jest wiÄ™ksza trwaĹ‚oĹ›Ä‡ rezultatĂłw i mniejsze ryzyko dziaĹ‚aĹ„ pozornych.
 
 
-## Zła praktyka
+## ZĹ‚a praktyka
 
-Częstym błędem jest stosowanie jednego schematu postępowania niezależnie od kontekstu, potrzeb i możliwości danej osoby lub grupy. Problemem bywa również opieranie decyzji na intuicji bez sprawdzania jakości danych i aktualnych rekomendacji. W praktyce prowadzi to do nietrafnych interwencji, spadku motywacji oraz utraty zaufania do procesu wsparcia. Złą praktyką jest także pomijanie czynników systemowych, takich jak warunki środowiskowe czy bariery organizacyjne. Konsekwencje obejmują nie tylko słabsze efekty, ale również ryzyko wtórnej szkody psychologicznej.
+CzÄ™stym bĹ‚Ä™dem jest stosowanie jednego schematu postÄ™powania niezaleĹĽnie od kontekstu, potrzeb i moĹĽliwoĹ›ci danej osoby lub grupy. Problemem bywa rĂłwnieĹĽ opieranie decyzji na intuicji bez sprawdzania jakoĹ›ci danych i aktualnych rekomendacji. W praktyce prowadzi to do nietrafnych interwencji, spadku motywacji oraz utraty zaufania do procesu wsparcia. ZĹ‚Ä… praktykÄ… jest takĹĽe pomijanie czynnikĂłw systemowych, takich jak warunki Ĺ›rodowiskowe czy bariery organizacyjne. Konsekwencje obejmujÄ… nie tylko sĹ‚absze efekty, ale rĂłwnieĹĽ ryzyko wtĂłrnej szkody psychologicznej.
 
 
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
+Nieoczywista perspektywa polega na przesuniÄ™ciu uwagi z pytania â€žco jest nie takâ€ť na pytanie â€žjakie warunki podtrzymujÄ… aktualny wzorzec funkcjonowaniaâ€ť. Taki punkt widzenia pozwala dostrzec, ĹĽe czÄ™Ĺ›Ä‡ zachowaĹ„ ocenianych jako problemowe peĹ‚ni funkcjÄ™ adaptacyjnÄ… w krĂłtkim horyzoncie czasu. W badaniach oznacza to potrzebÄ™ analizy kosztĂłw i korzyĹ›ci z perspektywy uczestnika, a nie wyĹ‚Ä…cznie obserwatora. W praktyce moĹĽe to prowadziÄ‡ do bardziej realistycznych celĂłw i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudnoĹ›ci, lecz porzÄ…dkuje je w kategoriach funkcji i kontekstu.
 
 
 ## Podsumowanie
 
-Najważniejszy wniosek jest taki, że rzetelne rozumienie omawianego tematu wymaga łączenia definicji, danych empirycznych i konsekwencji praktycznych. Skuteczne działania opierają się na dopasowaniu metod do celu, monitorowaniu efektów oraz świadomym zarządzaniu ograniczeniami. Jednocześnie należy zachować ostrożność wobec nadmiernych uogólnień, bo jakość wniosków zależy od kontekstu i jakości pomiaru. Włączenie perspektywy alternatywnej zwiększa trafność diagnozy i użyteczność interwencji. Ostatecznie to właśnie integracja wiedzy teoretycznej z praktyką decyduje o wartości edukacyjnej i klinicznej artykułu.
+NajwaĹĽniejszy wniosek jest taki, ĹĽe rzetelne rozumienie omawianego tematu wymaga Ĺ‚Ä…czenia definicji, danych empirycznych i konsekwencji praktycznych. Skuteczne dziaĹ‚ania opierajÄ… siÄ™ na dopasowaniu metod do celu, monitorowaniu efektĂłw oraz Ĺ›wiadomym zarzÄ…dzaniu ograniczeniami. JednoczeĹ›nie naleĹĽy zachowaÄ‡ ostroĹĽnoĹ›Ä‡ wobec nadmiernych uogĂłlnieĹ„, bo jakoĹ›Ä‡ wnioskĂłw zaleĹĽy od kontekstu i jakoĹ›ci pomiaru. WĹ‚Ä…czenie perspektywy alternatywnej zwiÄ™ksza trafnoĹ›Ä‡ diagnozy i uĹĽytecznoĹ›Ä‡ interwencji. Ostatecznie to wĹ‚aĹ›nie integracja wiedzy teoretycznej z praktykÄ… decyduje o wartoĹ›ci edukacyjnej i klinicznej artykuĹ‚u.
 
 
 ## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
+3. NÄ™cka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
 4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
 5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+

@@ -10,10 +10,13 @@ Obsługiwane tryby:
 """
 
 import argparse
+from datetime import date
 import os
 import re
 import sys
 from pathlib import Path
+
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
 
 # Spróbuj zaimportować chardet (opcjonalnie) – jeśli brak, użyj prostszej metody.
 try:
@@ -100,6 +103,14 @@ def normalize_heading(heading: str):
     """Normalizuje nagłówek do porównań: małe litery i pojedyncze spacje."""
     lowered = heading.casefold()
     return " ".join(lowered.split())
+
+
+def slugify_title(text: str):
+    """Tworzy bezpieczny slug snake_case na podstawie tytułu artykułu."""
+    lowered = text.casefold()
+    normalized = re.sub(r"[^a-z0-9]+", "_", lowered)
+    normalized = re.sub(r"_+", "_", normalized).strip("_")
+    return normalized or "nowy_artykul"
 
 
 def validate_required_sections(filepath: Path, strict: bool = False):
@@ -196,9 +207,32 @@ def validate_editorial_requirements(filepath: Path, strict: bool = False):
     return True
 
 
-def build_article_template(title: str):
+def build_article_template(
+    title: str,
+    domain: str | None = None,
+    slug: str | None = None,
+    with_metadata: bool = False,
+):
     """Buduje treść szablonu nowego artykułu z wymaganymi sekcjami."""
-    lines = [
+    lines = []
+
+    if with_metadata:
+        today = date.today().isoformat()
+        lines.extend(
+            [
+                "---",
+                f'title: "{title}"',
+                f"domain: {domain or 'do_uzupelnienia'}",
+                f"slug: {slug or slugify_title(title)}",
+                f"createdAt: {today}",
+                f"updatedAt: {today}",
+                "status: draft",
+                "---",
+                "",
+            ]
+        )
+
+    lines.extend([
         f"# {title}",
         "",
         "## Wprowadzenie",
@@ -236,12 +270,38 @@ def build_article_template(title: str):
         "## Bibliografia",
         "",
         "",
-    ]
+    ])
     return "\n".join(lines).rstrip() + "\n"
 
 
-def create_new_article(output_path: Path, title: str, force: bool):
+def resolve_output_path(
+    output_path: Path | None,
+    domain: str | None,
+    slug: str | None,
+    title: str,
+):
+    """Wyznacza docelową ścieżkę zapisu szablonu artykułu."""
+    if output_path:
+        return output_path
+
+    if not domain:
+        raise ValueError("Podaj output albo --domain dla automatycznej lokalizacji pliku.")
+
+    final_slug = slug or slugify_title(title)
+    return PROJECT_ROOT / "wiki" / domain / f"{final_slug}.md"
+
+
+def create_new_article(
+    output_path: Path | None,
+    title: str,
+    force: bool,
+    domain: str | None = None,
+    slug: str | None = None,
+    with_metadata: bool = False,
+):
     """Tworzy nowy plik .md na bazie szablonu artykułu."""
+    output_path = resolve_output_path(output_path, domain, slug, title)
+
     if output_path.suffix.lower() != ".md":
         raise ValueError("Tryb new-article wymaga ścieżki zakończonej rozszerzeniem .md")
 
@@ -251,7 +311,15 @@ def create_new_article(output_path: Path, title: str, force: bool):
         )
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
-    output_path.write_text(build_article_template(title), encoding="utf-8")
+    output_path.write_text(
+        build_article_template(
+            title=title,
+            domain=domain,
+            slug=slug,
+            with_metadata=with_metadata,
+        ),
+        encoding="utf-8",
+    )
     print(f"Utworzono nowy artykuł: {output_path}")
 
 
@@ -287,11 +355,28 @@ def parse_args(argv):
     new_article_parser = subparsers.add_parser(
         "new-article", help="Tworzy nowy szablon artykułu Markdown."
     )
-    new_article_parser.add_argument("output", help="Ścieżka wyjściowa pliku .md")
+    new_article_parser.add_argument(
+        "output",
+        nargs="?",
+        help="Ścieżka wyjściowa pliku .md (opcjonalna, gdy używasz --domain).",
+    )
     new_article_parser.add_argument(
         "--title",
         default="Nowy artykuł",
         help="Tytuł dokumentu (nagłówek H1).",
+    )
+    new_article_parser.add_argument(
+        "--domain",
+        help="Domena wiki (np. neuro). Gdy podana bez output, plik trafi do wiki/<domain>/<slug>.md.",
+    )
+    new_article_parser.add_argument(
+        "--slug",
+        help="Slug pliku bez rozszerzenia (snake_case). Gdy brak, generowany z --title.",
+    )
+    new_article_parser.add_argument(
+        "--with-metadata",
+        action="store_true",
+        help="Dodaje frontmatter z metadanymi (title/domain/slug/daty/status).",
     )
     new_article_parser.add_argument(
         "--force",
@@ -325,7 +410,15 @@ def main(argv=None):
 
     if args.command == "new-article":
         try:
-            create_new_article(Path(args.output), args.title, args.force)
+            output_path = Path(args.output) if args.output else None
+            create_new_article(
+                output_path=output_path,
+                title=args.title,
+                force=args.force,
+                domain=args.domain,
+                slug=args.slug,
+                with_metadata=args.with_metadata,
+            )
             return 0
         except (ValueError, FileExistsError) as error:
             print(f"❌ {error}", file=sys.stderr)

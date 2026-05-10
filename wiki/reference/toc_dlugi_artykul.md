@@ -1,37 +1,37 @@
-# Referencja TOC: długi artykuł i nawigacja hash
+﻿# Referencja TOC: dĹ‚ugi artykuĹ‚ i nawigacja hash
 
 ## Wprowadzenie
-To jest artykuł testowy dla spisu treści (TOC). Zawiera wiele nagłówków drugiego i trzeciego poziomu, aby zweryfikować aktywną sekcję podczas przewijania oraz zachowanie hash navigation.
+To jest artykuĹ‚ testowy dla spisu treĹ›ci (TOC). Zawiera wiele nagĹ‚ĂłwkĂłw drugiego i trzeciego poziomu, aby zweryfikowaÄ‡ aktywnÄ… sekcjÄ™ podczas przewijania oraz zachowanie hash navigation.
 
 ## Mechanika TOC w artykule
-TOC powinien automatycznie wykrywać nagłówki `##` i `###`, a następnie budować z nich mapę nawigacyjną po dokumencie.
+TOC powinien automatycznie wykrywaÄ‡ nagĹ‚Ăłwki `##` i `###`, a nastÄ™pnie budowaÄ‡ z nich mapÄ™ nawigacyjnÄ… po dokumencie.
 
-### Generowanie identyfikatorów sekcji
-Każdy nagłówek wymaga stabilnego identyfikatora URL. Najczęściej stosuje się „slug” oparty na tekście nagłówka.
+### Generowanie identyfikatorĂłw sekcji
+KaĹĽdy nagĹ‚Ăłwek wymaga stabilnego identyfikatora URL. NajczÄ™Ĺ›ciej stosuje siÄ™ â€žslugâ€ť oparty na tekĹ›cie nagĹ‚Ăłwka.
 
-### Dedupikacja identycznych nagłówków
-Jeżeli dwa nagłówki mają taki sam tekst, identyfikatory muszą być rozróżnione sufiksami liczbowymi.
+### Dedupikacja identycznych nagĹ‚ĂłwkĂłw
+JeĹĽeli dwa nagĹ‚Ăłwki majÄ… taki sam tekst, identyfikatory muszÄ… byÄ‡ rozrĂłĹĽnione sufiksami liczbowymi.
 
 ## Zachowanie podczas przewijania
-Aktywna sekcja TOC powinna aktualizować się zgodnie z tym, który nagłówek jest aktualnie widoczny w oknie.
+Aktywna sekcja TOC powinna aktualizowaÄ‡ siÄ™ zgodnie z tym, ktĂłry nagĹ‚Ăłwek jest aktualnie widoczny w oknie.
 
 ### Dobra praktyka
-Wykorzystanie `IntersectionObserver` zwykle obniża koszt obliczeniowy względem ręcznego nasłuchiwania scrolla dla każdego piksela.
+Wykorzystanie `IntersectionObserver` zwykle obniĹĽa koszt obliczeniowy wzglÄ™dem rÄ™cznego nasĹ‚uchiwania scrolla dla kaĹĽdego piksela.
 
-### Częsty błąd
-Ustawienie zbyt agresywnego `rootMargin` może powodować „migotanie” aktywnej sekcji.
+### CzÄ™sty bĹ‚Ä…d
+Ustawienie zbyt agresywnego `rootMargin` moĹĽe powodowaÄ‡ â€žmigotanieâ€ť aktywnej sekcji.
 
 ## Integracja z hash navigation
-Kliknięcie elementu TOC powinno aktualizować hash URL i przewijać użytkownika do właściwej sekcji.
+KlikniÄ™cie elementu TOC powinno aktualizowaÄ‡ hash URL i przewijaÄ‡ uĹĽytkownika do wĹ‚aĹ›ciwej sekcji.
 
-### Stabilność linków bezpośrednich
-Użytkownik wchodzący na adres z hashem sekcji powinien od razu trafić do właściwego miejsca w tekście.
+### StabilnoĹ›Ä‡ linkĂłw bezpoĹ›rednich
+UĹĽytkownik wchodzÄ…cy na adres z hashem sekcji powinien od razu trafiÄ‡ do wĹ‚aĹ›ciwego miejsca w tekĹ›cie.
 
-### Niezależność od routingu strony
-Hash sekcji nie może rozbijać mechanizmu przełączania artykułów. Routing strony i routing sekcji muszą współistnieć.
+### NiezaleĹĽnoĹ›Ä‡ od routingu strony
+Hash sekcji nie moĹĽe rozbijaÄ‡ mechanizmu przeĹ‚Ä…czania artykuĹ‚Ăłw. Routing strony i routing sekcji muszÄ… wspĂłĹ‚istnieÄ‡.
 
 ## Dodatkowe przypadki graniczne
-Testuj także dłuższe treści, aby upewnić się, że podświetlenie aktywnej sekcji działa w środkowej i końcowej części dokumentu.
+Testuj takĹĽe dĹ‚uĹĽsze treĹ›ci, aby upewniÄ‡ siÄ™, ĹĽe podĹ›wietlenie aktywnej sekcji dziaĹ‚a w Ĺ›rodkowej i koĹ„cowej czÄ™Ĺ›ci dokumentu.
 
 ### Fragment A
 Rozbudowany akapit testowy 1: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pulvinar, lorem eu ullamcorper consequat, nisl magna convallis nisi, vitae vulputate sem purus vel lorem.
@@ -43,13 +43,13 @@ Rozbudowany akapit testowy 2: Integer id erat et sem dignissim fermentum. Curabi
 Rozbudowany akapit testowy 3: Proin convallis ante nec ligula varius, vitae posuere sem luctus. Morbi luctus volutpat mauris, non convallis est interdum at.
 
 ## Perspektywa nieoczywista
-TOC jest nie tylko narzędziem UX. W praktyce badawczej może służyć jako „model poznawczy” dokumentu: ujawnia strukturę argumentu, wskazuje luki logiczne i ułatwia krytyczną ocenę narracji.
+TOC jest nie tylko narzÄ™dziem UX. W praktyce badawczej moĹĽe sĹ‚uĹĽyÄ‡ jako â€žmodel poznawczyâ€ť dokumentu: ujawnia strukturÄ™ argumentu, wskazuje luki logiczne i uĹ‚atwia krytycznÄ… ocenÄ™ narracji.
 
 ## Podsumowanie
 Kluczowe kryteria akceptacyjne:
-- TOC tworzy się automatycznie z `##` i `###`.
-- Aktywna sekcja podświetla się podczas przewijania.
-- Linkowanie sekcji nie psuje routingu artykułów.
+- TOC tworzy siÄ™ automatycznie z `##` i `###`.
+- Aktywna sekcja podĹ›wietla siÄ™ podczas przewijania.
+- Linkowanie sekcji nie psuje routingu artykuĹ‚Ăłw.
 
 ## Bibliografia
 1. Mozilla Developer Network. (2025). *Intersection Observer API*.
@@ -59,19 +59,20 @@ Kluczowe kryteria akceptacyjne:
 
 ## Definicje
 
-W tym artykule kluczowe pojęcia są rozumiane w sposób operacyjny, tak aby można je było stosować w badaniach i praktyce. Definicja zjawiska obejmuje zarówno jego kryteria rozpoznania, jak i granice pojęciowe odróżniające je od konstruktów pokrewnych. Warto pamiętać, że część terminów ma kilka konkurencyjnych ujęć, zależnie od szkoły teoretycznej. Dlatego podczas interpretacji wyników należy zawsze wskazać, którą definicję przyjęto i dlaczego. Taka precyzja terminologiczna zwiększa porównywalność danych oraz jakość wnioskowania.
+W tym artykule kluczowe pojÄ™cia sÄ… rozumiane w sposĂłb operacyjny, tak aby moĹĽna je byĹ‚o stosowaÄ‡ w badaniach i praktyce. Definicja zjawiska obejmuje zarĂłwno jego kryteria rozpoznania, jak i granice pojÄ™ciowe odrĂłĹĽniajÄ…ce je od konstruktĂłw pokrewnych. Warto pamiÄ™taÄ‡, ĹĽe czÄ™Ĺ›Ä‡ terminĂłw ma kilka konkurencyjnych ujÄ™Ä‡, zaleĹĽnie od szkoĹ‚y teoretycznej. Dlatego podczas interpretacji wynikĂłw naleĹĽy zawsze wskazaÄ‡, ktĂłrÄ… definicjÄ™ przyjÄ™to i dlaczego. Taka precyzja terminologiczna zwiÄ™ksza porĂłwnywalnoĹ›Ä‡ danych oraz jakoĹ›Ä‡ wnioskowania.
 
 
 ## Analiza
 
-Mechanizmy omawianego zjawiska najlepiej wyjaśniać na kilku poziomach: poznawczym, emocjonalnym, behawioralnym i środowiskowym. Dane empiryczne zwykle pokazują, że efekt końcowy wynika z interakcji wielu czynników, a nie z pojedynczej przyczyny. Z perspektywy metodologicznej warto uwzględnić zarówno wyniki badań przekrojowych, jak i podłużnych, ponieważ odpowiadają one na różne pytania. Ograniczeniem bywa heterogeniczność prób i narzędzi pomiarowych, która utrudnia bezpośrednie porównania między badaniami. Mimo tych ograniczeń spójny obraz zjawiska można uzyskać, łącząc dane ilościowe, jakościowe i kliniczne.
+Mechanizmy omawianego zjawiska najlepiej wyjaĹ›niaÄ‡ na kilku poziomach: poznawczym, emocjonalnym, behawioralnym i Ĺ›rodowiskowym. Dane empiryczne zwykle pokazujÄ…, ĹĽe efekt koĹ„cowy wynika z interakcji wielu czynnikĂłw, a nie z pojedynczej przyczyny. Z perspektywy metodologicznej warto uwzglÄ™dniÄ‡ zarĂłwno wyniki badaĹ„ przekrojowych, jak i podĹ‚uĹĽnych, poniewaĹĽ odpowiadajÄ… one na rĂłĹĽne pytania. Ograniczeniem bywa heterogenicznoĹ›Ä‡ prĂłb i narzÄ™dzi pomiarowych, ktĂłra utrudnia bezpoĹ›rednie porĂłwnania miÄ™dzy badaniami. Mimo tych ograniczeĹ„ spĂłjny obraz zjawiska moĹĽna uzyskaÄ‡, Ĺ‚Ä…czÄ…c dane iloĹ›ciowe, jakoĹ›ciowe i kliniczne.
 
 
 ## Dobra praktyka
 
-Dobrą praktyką jest rozpoczynanie pracy od jasnego celu, kryteriów oceny postępów oraz wspólnego języka używanego przez specjalistę i odbiorcę interwencji. W praktyce oznacza to regularny monitoring efektów, krótkie cykle informacji zwrotnej i gotowość do modyfikacji planu działania. Wysoką skuteczność wspiera także psychoedukacja, która zwiększa poczucie sprawstwa i rozumienie procesu zmiany. Istotne jest ponadto respektowanie granic etycznych oraz uwzględnianie różnic indywidualnych. Konsekwencją takiego podejścia jest większa trwałość rezultatów i mniejsze ryzyko działań pozornych.
+DobrÄ… praktykÄ… jest rozpoczynanie pracy od jasnego celu, kryteriĂłw oceny postÄ™pĂłw oraz wspĂłlnego jÄ™zyka uĹĽywanego przez specjalistÄ™ i odbiorcÄ™ interwencji. W praktyce oznacza to regularny monitoring efektĂłw, krĂłtkie cykle informacji zwrotnej i gotowoĹ›Ä‡ do modyfikacji planu dziaĹ‚ania. WysokÄ… skutecznoĹ›Ä‡ wspiera takĹĽe psychoedukacja, ktĂłra zwiÄ™ksza poczucie sprawstwa i rozumienie procesu zmiany. Istotne jest ponadto respektowanie granic etycznych oraz uwzglÄ™dnianie rĂłĹĽnic indywidualnych. KonsekwencjÄ… takiego podejĹ›cia jest wiÄ™ksza trwaĹ‚oĹ›Ä‡ rezultatĂłw i mniejsze ryzyko dziaĹ‚aĹ„ pozornych.
 
 
-## Zła praktyka
+## ZĹ‚a praktyka
 
-Częstym błędem jest stosowanie jednego schematu postępowania niezależnie od kontekstu, potrzeb i możliwości danej osoby lub grupy. Problemem bywa również opieranie decyzji na intuicji bez sprawdzania jakości danych i aktualnych rekomendacji. W praktyce prowadzi to do nietrafnych interwencji, spadku motywacji oraz utraty zaufania do procesu wsparcia. Złą praktyką jest także pomijanie czynników systemowych, takich jak warunki środowiskowe czy bariery organizacyjne. Konsekwencje obejmują nie tylko słabsze efekty, ale również ryzyko wtórnej szkody psychologicznej.
+CzÄ™stym bĹ‚Ä™dem jest stosowanie jednego schematu postÄ™powania niezaleĹĽnie od kontekstu, potrzeb i moĹĽliwoĹ›ci danej osoby lub grupy. Problemem bywa rĂłwnieĹĽ opieranie decyzji na intuicji bez sprawdzania jakoĹ›ci danych i aktualnych rekomendacji. W praktyce prowadzi to do nietrafnych interwencji, spadku motywacji oraz utraty zaufania do procesu wsparcia. ZĹ‚Ä… praktykÄ… jest takĹĽe pomijanie czynnikĂłw systemowych, takich jak warunki Ĺ›rodowiskowe czy bariery organizacyjne. Konsekwencje obejmujÄ… nie tylko sĹ‚absze efekty, ale rĂłwnieĹĽ ryzyko wtĂłrnej szkody psychologicznej.
+

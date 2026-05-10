@@ -1,25 +1,25 @@
-# Referencja parsera: listy wielopoziomowe
+﻿# Referencja parsera: listy wielopoziomowe
 
 ## Kontekst testu
-Ten artykuł referencyjny zawiera przypadki graniczne dla parsera Markdown w PsyHub. Celem jest sprawdzenie, czy zagnieżdżone listy numerowane i nienumerowane renderują się stabilnie.
+Ten artykuĹ‚ referencyjny zawiera przypadki graniczne dla parsera Markdown w PsyHub. Celem jest sprawdzenie, czy zagnieĹĽdĹĽone listy numerowane i nienumerowane renderujÄ… siÄ™ stabilnie.
 
 ## Przypadek 1: lista nienumerowana z trzema poziomami
-- Poziom 1 — diagnoza
-  - Poziom 2 — wywiad kliniczny
-    - Poziom 3 — pytania o objawy
-    - Poziom 3 — pytania o zasoby
-  - Poziom 2 — obserwacja zachowania
-- Poziom 1 — plan interwencji
+- Poziom 1 â€” diagnoza
+  - Poziom 2 â€” wywiad kliniczny
+    - Poziom 3 â€” pytania o objawy
+    - Poziom 3 â€” pytania o zasoby
+  - Poziom 2 â€” obserwacja zachowania
+- Poziom 1 â€” plan interwencji
 
 ### Dobra praktyka
-- Utrzymuj spójne wcięcia (2 spacje).
-  - Dzięki temu parser nie „gubi” poziomu.
+- Utrzymuj spĂłjne wciÄ™cia (2 spacje).
+  - DziÄ™ki temu parser nie â€žgubiâ€ť poziomu.
 
-### Zła praktyka
-- Mieszanie wcięć przypadkowo.
+### ZĹ‚a praktyka
+- Mieszanie wciÄ™Ä‡ przypadkowo.
    - Jeden poziom ma 3 spacje, a kolejny 2.
 
-Konsekwencja: użytkownik otrzymuje niejednoznaczną strukturę i trudniej śledzić logikę listy.
+Konsekwencja: uĹĽytkownik otrzymuje niejednoznacznÄ… strukturÄ™ i trudniej Ĺ›ledziÄ‡ logikÄ™ listy.
 
 ## Przypadek 2: lista numerowana z trzema poziomami
 1. Etap konceptualizacji
@@ -28,58 +28,59 @@ Konsekwencja: użytkownik otrzymuje niejednoznaczną strukturę i trudniej śled
       2. Kryteria nasilenia
    2. Hipotezy robocze
 2. Etap planowania
-   1. Wybór narzędzi
+   1. WybĂłr narzÄ™dzi
 
 ## Przypadek 3: listy mieszane
 1. Proces badawczy
-   - Dobór próby
-   - Walidacja narzędzia
-     1. Rzetelność
-     2. Trafność
+   - DobĂłr prĂłby
+   - Walidacja narzÄ™dzia
+     1. RzetelnoĹ›Ä‡
+     2. TrafnoĹ›Ä‡
 2. Raportowanie
    - Ograniczenia
    - Implikacje praktyczne
 
 ### Perspektywa nieoczywista
-W praktyce edukacyjnej listy pełnią rolę „mikro-struktury argumentu”. To nie tylko formatowanie, ale narzędzie epistemiczne: dobrze ułożona lista porządkuje relacje przyczynowo-skutkowe i obniża koszt poznawczy analizy tekstu.
+W praktyce edukacyjnej listy peĹ‚niÄ… rolÄ™ â€žmikro-struktury argumentuâ€ť. To nie tylko formatowanie, ale narzÄ™dzie epistemiczne: dobrze uĹ‚oĹĽona lista porzÄ…dkuje relacje przyczynowo-skutkowe i obniĹĽa koszt poznawczy analizy tekstu.
 
 ## Podsumowanie
-Parser powinien poprawnie obsłużyć:
-- 2–3 poziomy zagnieżdżeń,
-- zmianę typu listy (UL ↔ OL),
-- przejrzystość semantyczną bez utraty czytelności.
+Parser powinien poprawnie obsĹ‚uĹĽyÄ‡:
+- 2â€“3 poziomy zagnieĹĽdĹĽeĹ„,
+- zmianÄ™ typu listy (UL â†” OL),
+- przejrzystoĹ›Ä‡ semantycznÄ… bez utraty czytelnoĹ›ci.
 
 ## Bibliografia
 1. Gruber, J. (2004). *Markdown* (specyfikacja pierwotna).
 2. CommonMark. (2024). *CommonMark Spec*.
-3. W3C. (2021). *HTML Living Standard* — sekcje dotyczące list.
+3. W3C. (2021). *HTML Living Standard* â€” sekcje dotyczÄ…ce list.
 
 
 ## Wprowadzenie
 
-Temat tego artykułu jest istotny dla praktyki psychologicznej, ponieważ łączy perspektywę teoretyczną z codziennymi decyzjami klinicznymi lub edukacyjnymi. W literaturze podkreśla się, że trafne rozumienie zjawiska wymaga uwzględnienia kontekstu biologicznego, społecznego i kulturowego. W niniejszym opracowaniu przyjmujemy podejście oparte na dowodach, oddzielając ustalenia empiryczne od interpretacji. Taki porządek ułatwia ocenę jakości argumentów i ogranicza ryzyko uproszczeń. Dzięki temu czytelnik może przełożyć wiedzę teoretyczną na bardziej świadome działania praktyczne.
+Temat tego artykuĹ‚u jest istotny dla praktyki psychologicznej, poniewaĹĽ Ĺ‚Ä…czy perspektywÄ™ teoretycznÄ… z codziennymi decyzjami klinicznymi lub edukacyjnymi. W literaturze podkreĹ›la siÄ™, ĹĽe trafne rozumienie zjawiska wymaga uwzglÄ™dnienia kontekstu biologicznego, spoĹ‚ecznego i kulturowego. W niniejszym opracowaniu przyjmujemy podejĹ›cie oparte na dowodach, oddzielajÄ…c ustalenia empiryczne od interpretacji. Taki porzÄ…dek uĹ‚atwia ocenÄ™ jakoĹ›ci argumentĂłw i ogranicza ryzyko uproszczeĹ„. DziÄ™ki temu czytelnik moĹĽe przeĹ‚oĹĽyÄ‡ wiedzÄ™ teoretycznÄ… na bardziej Ĺ›wiadome dziaĹ‚ania praktyczne.
 
 
 ## Definicje
 
-W tym artykule kluczowe pojęcia są rozumiane w sposób operacyjny, tak aby można je było stosować w badaniach i praktyce. Definicja zjawiska obejmuje zarówno jego kryteria rozpoznania, jak i granice pojęciowe odróżniające je od konstruktów pokrewnych. Warto pamiętać, że część terminów ma kilka konkurencyjnych ujęć, zależnie od szkoły teoretycznej. Dlatego podczas interpretacji wyników należy zawsze wskazać, którą definicję przyjęto i dlaczego. Taka precyzja terminologiczna zwiększa porównywalność danych oraz jakość wnioskowania.
+W tym artykule kluczowe pojÄ™cia sÄ… rozumiane w sposĂłb operacyjny, tak aby moĹĽna je byĹ‚o stosowaÄ‡ w badaniach i praktyce. Definicja zjawiska obejmuje zarĂłwno jego kryteria rozpoznania, jak i granice pojÄ™ciowe odrĂłĹĽniajÄ…ce je od konstruktĂłw pokrewnych. Warto pamiÄ™taÄ‡, ĹĽe czÄ™Ĺ›Ä‡ terminĂłw ma kilka konkurencyjnych ujÄ™Ä‡, zaleĹĽnie od szkoĹ‚y teoretycznej. Dlatego podczas interpretacji wynikĂłw naleĹĽy zawsze wskazaÄ‡, ktĂłrÄ… definicjÄ™ przyjÄ™to i dlaczego. Taka precyzja terminologiczna zwiÄ™ksza porĂłwnywalnoĹ›Ä‡ danych oraz jakoĹ›Ä‡ wnioskowania.
 
 
 ## Analiza
 
-Mechanizmy omawianego zjawiska najlepiej wyjaśniać na kilku poziomach: poznawczym, emocjonalnym, behawioralnym i środowiskowym. Dane empiryczne zwykle pokazują, że efekt końcowy wynika z interakcji wielu czynników, a nie z pojedynczej przyczyny. Z perspektywy metodologicznej warto uwzględnić zarówno wyniki badań przekrojowych, jak i podłużnych, ponieważ odpowiadają one na różne pytania. Ograniczeniem bywa heterogeniczność prób i narzędzi pomiarowych, która utrudnia bezpośrednie porównania między badaniami. Mimo tych ograniczeń spójny obraz zjawiska można uzyskać, łącząc dane ilościowe, jakościowe i kliniczne.
+Mechanizmy omawianego zjawiska najlepiej wyjaĹ›niaÄ‡ na kilku poziomach: poznawczym, emocjonalnym, behawioralnym i Ĺ›rodowiskowym. Dane empiryczne zwykle pokazujÄ…, ĹĽe efekt koĹ„cowy wynika z interakcji wielu czynnikĂłw, a nie z pojedynczej przyczyny. Z perspektywy metodologicznej warto uwzglÄ™dniÄ‡ zarĂłwno wyniki badaĹ„ przekrojowych, jak i podĹ‚uĹĽnych, poniewaĹĽ odpowiadajÄ… one na rĂłĹĽne pytania. Ograniczeniem bywa heterogenicznoĹ›Ä‡ prĂłb i narzÄ™dzi pomiarowych, ktĂłra utrudnia bezpoĹ›rednie porĂłwnania miÄ™dzy badaniami. Mimo tych ograniczeĹ„ spĂłjny obraz zjawiska moĹĽna uzyskaÄ‡, Ĺ‚Ä…czÄ…c dane iloĹ›ciowe, jakoĹ›ciowe i kliniczne.
 
 
 ## Dobra praktyka
 
-Dobrą praktyką jest rozpoczynanie pracy od jasnego celu, kryteriów oceny postępów oraz wspólnego języka używanego przez specjalistę i odbiorcę interwencji. W praktyce oznacza to regularny monitoring efektów, krótkie cykle informacji zwrotnej i gotowość do modyfikacji planu działania. Wysoką skuteczność wspiera także psychoedukacja, która zwiększa poczucie sprawstwa i rozumienie procesu zmiany. Istotne jest ponadto respektowanie granic etycznych oraz uwzględnianie różnic indywidualnych. Konsekwencją takiego podejścia jest większa trwałość rezultatów i mniejsze ryzyko działań pozornych.
+DobrÄ… praktykÄ… jest rozpoczynanie pracy od jasnego celu, kryteriĂłw oceny postÄ™pĂłw oraz wspĂłlnego jÄ™zyka uĹĽywanego przez specjalistÄ™ i odbiorcÄ™ interwencji. W praktyce oznacza to regularny monitoring efektĂłw, krĂłtkie cykle informacji zwrotnej i gotowoĹ›Ä‡ do modyfikacji planu dziaĹ‚ania. WysokÄ… skutecznoĹ›Ä‡ wspiera takĹĽe psychoedukacja, ktĂłra zwiÄ™ksza poczucie sprawstwa i rozumienie procesu zmiany. Istotne jest ponadto respektowanie granic etycznych oraz uwzglÄ™dnianie rĂłĹĽnic indywidualnych. KonsekwencjÄ… takiego podejĹ›cia jest wiÄ™ksza trwaĹ‚oĹ›Ä‡ rezultatĂłw i mniejsze ryzyko dziaĹ‚aĹ„ pozornych.
 
 
-## Zła praktyka
+## ZĹ‚a praktyka
 
-Częstym błędem jest stosowanie jednego schematu postępowania niezależnie od kontekstu, potrzeb i możliwości danej osoby lub grupy. Problemem bywa również opieranie decyzji na intuicji bez sprawdzania jakości danych i aktualnych rekomendacji. W praktyce prowadzi to do nietrafnych interwencji, spadku motywacji oraz utraty zaufania do procesu wsparcia. Złą praktyką jest także pomijanie czynników systemowych, takich jak warunki środowiskowe czy bariery organizacyjne. Konsekwencje obejmują nie tylko słabsze efekty, ale również ryzyko wtórnej szkody psychologicznej.
+CzÄ™stym bĹ‚Ä™dem jest stosowanie jednego schematu postÄ™powania niezaleĹĽnie od kontekstu, potrzeb i moĹĽliwoĹ›ci danej osoby lub grupy. Problemem bywa rĂłwnieĹĽ opieranie decyzji na intuicji bez sprawdzania jakoĹ›ci danych i aktualnych rekomendacji. W praktyce prowadzi to do nietrafnych interwencji, spadku motywacji oraz utraty zaufania do procesu wsparcia. ZĹ‚Ä… praktykÄ… jest takĹĽe pomijanie czynnikĂłw systemowych, takich jak warunki Ĺ›rodowiskowe czy bariery organizacyjne. Konsekwencje obejmujÄ… nie tylko sĹ‚absze efekty, ale rĂłwnieĹĽ ryzyko wtĂłrnej szkody psychologicznej.
 
 
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
+Nieoczywista perspektywa polega na przesuniÄ™ciu uwagi z pytania â€žco jest nie takâ€ť na pytanie â€žjakie warunki podtrzymujÄ… aktualny wzorzec funkcjonowaniaâ€ť. Taki punkt widzenia pozwala dostrzec, ĹĽe czÄ™Ĺ›Ä‡ zachowaĹ„ ocenianych jako problemowe peĹ‚ni funkcjÄ™ adaptacyjnÄ… w krĂłtkim horyzoncie czasu. W badaniach oznacza to potrzebÄ™ analizy kosztĂłw i korzyĹ›ci z perspektywy uczestnika, a nie wyĹ‚Ä…cznie obserwatora. W praktyce moĹĽe to prowadziÄ‡ do bardziej realistycznych celĂłw i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudnoĹ›ci, lecz porzÄ…dkuje je w kategoriach funkcji i kontekstu.
+

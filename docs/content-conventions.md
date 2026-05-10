@@ -12,17 +12,17 @@ W całym katalogu `wiki/**` stosujemy **jedną konwencję**:
 Przykład poprawny:
 
 - `wiki/temperament/rozwoj.md`
-- `wiki/reacting_to_criticism/czym_jest_krytyka_i_informacja_zwrotna.md`
+- `wiki/reagowanie_na_krytyke/czym_jest_krytyka_i_informacja_zwrotna.md`
 
 Przykład niepoprawny:
 
 - `wiki/temperament/razvoj.md` (literówka i niespójność językowa)
-- `wiki/reacting_to_criticism/czym_jest_krytyka_i_feedback.md` (mieszanka polskiego i angielskiego)
+- `wiki/reagowanie_na_krytyke/czym_jest_krytyka_i_feedback.md` (mieszanka polskiego i angielskiego)
 
 ## Mapa rename (pierwsza fala porządkowania)
 
 - `wiki/temperament/razvoj.md` → `wiki/temperament/rozwoj.md`
-- `wiki/reacting_to_criticism/czym_jest_krytyka_i_feedback.md` → `wiki/reacting_to_criticism/czym_jest_krytyka_i_informacja_zwrotna.md`
+- `wiki/reagowanie_na_krytyke/czym_jest_krytyka_i_feedback.md` → `wiki/reagowanie_na_krytyke/czym_jest_krytyka_i_informacja_zwrotna.md`
 
 ## Walidacja
 

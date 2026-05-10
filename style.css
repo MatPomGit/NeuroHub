@@ -958,6 +958,42 @@ em{color:var(--goldl)}
 }
 .tool-missing{color:var(--rose);font-style:italic}
 .measurement-tools-updated{margin:.1rem 0 .9rem;font-size:.8rem;color:var(--t2)}
+.measurement-tools-controls{
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:space-between;
+  gap:.8rem;
+  margin:.35rem 0 .75rem;
+  padding:.68rem .72rem;
+  border:1px solid var(--border);
+  border-radius:10px;
+  background:var(--bg2);
+}
+.measurement-tools-filters{display:flex;flex-wrap:wrap;gap:.55rem}
+.measurement-tools-filter{display:flex;flex-direction:column;gap:.22rem;font-size:.74rem;color:var(--t2)}
+.measurement-tools-filter-select{
+  min-width:150px;
+  background:var(--bg3);
+  color:var(--t1);
+  border:1px solid var(--border);
+  border-radius:8px;
+  padding:.34rem .5rem;
+  font:inherit;
+}
+.measurement-tools-actions{display:flex;flex-wrap:wrap;gap:.5rem;align-items:flex-end}
+.measurement-tools-export-btn{
+  border:1px solid rgba(91,140,184,.42);
+  background:rgba(91,140,184,.12);
+  color:var(--blue);
+  border-radius:8px;
+  padding:.36rem .62rem;
+  font:inherit;
+  font-size:.78rem;
+  cursor:pointer;
+  transition:all var(--ease);
+}
+.measurement-tools-export-btn:hover{background:rgba(91,140,184,.2);border-color:var(--blue)}
+.measurement-tools-count{margin:.2rem 0 .5rem;font-size:.78rem;color:var(--t3)}
 .measurement-tools-footer{
   margin-top:1rem;
   padding:.7rem .85rem;
@@ -1035,6 +1071,8 @@ em{color:var(--goldl)}
   .pdf-lab-controls a{text-align:center}
   .pdf-lab-viewer-wrap iframe{height:58vh;min-height:320px}
   .pdf-lab-mobile-hint{display:block}
+  .measurement-tools-controls{align-items:stretch}
+  .measurement-tools-filter-select{min-width:0;width:100%}
 }
 @media(min-width:901px){
   .ttest-layout{

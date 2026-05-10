@@ -54,7 +54,7 @@ Nieoczywista perspektywa mówi, że najważniejsza nie jest „dominacja” jedn
 ## Powiązane artykuły (cross-linki)
 
 - `neuro/lateralizacja` — rozszerzenie zagadnienia asymetrii funkcjonalnej.
-- `cases/split_brain` — klasyczne obserwacje po komisurotomii.
+- `przypadki_kliniczne/split_brain` — klasyczne obserwacje po komisurotomii.
 - `cognitive/system1_system2` — dwa tryby przetwarzania informacji.
 - `neuro/neuronauka_poznawcza` — sieciowe ujęcie procesów poznawczych.
 - `reference/mapa_powiazan_nowe_artykuly` — mapa relacji między nowymi tekstami.

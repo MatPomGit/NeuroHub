@@ -56,7 +56,7 @@ Nieoczywiste podejście zakłada, że „dysfunkcyjny” objaw bywa jednocześni
 - `psychotherapy/systemowa` — podstawy terapii systemowej i rodzinnej.
 - `relacje/relacje_rodzinne` — dynamika relacji i konflikty.
 - `uzaleznienia/rodzina_w_uzaleznieniach` — rola rodziny w podtrzymywaniu i leczeniu uzależnień.
-- `psychotherapy/somatic_experiencing` — regulacja pobudzenia w pracy z traumą relacyjną.
+- `doswiadczenie_somatyczne/wprowadzenie_do_doswiadczenia_somatycznego` — regulacja pobudzenia w pracy z traumą relacyjną; odsyła do Somatic Experiencing.
 - `reference/mapa_powiazan_nowe_artykuly` — mapa relacji między nowymi tekstami.
 
 ## Podsumowanie

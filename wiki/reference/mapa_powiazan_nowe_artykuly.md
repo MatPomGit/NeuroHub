@@ -1,55 +1,56 @@
----
+﻿---
 lastReviewed: 2026-04-20
 reviewCycleMonths: 12
 evidenceCutoffDate: 2026-03-31
 ---
 
-# Mapa powiązań: nowe artykuły i istniejące działy
+# Mapa powiďż˝&za9: nowe artyku9y i istniejďż˝&ce dzia9y
 
 ## Wprowadzenie
 
-Poniższa mapa porządkuje relacje między nowo dodanymi artykułami a aktualnymi działami PsyHub. Celem jest ułatwienie nawigacji, ograniczenie duplikacji treści i wzmocnienie spójności merytorycznej całego portalu.
+Poni9=sza mapa porzďż˝&dkuje relacje miďż˝"dzy nowo dodanymi artyku9ami a aktualnymi dzia9ami PsyHub. Celem jest u9atwienie nawigacji, ograniczenie duplikacji tre9:ci i wzmocnienie spBjno9:ci merytorycznej ca9ego portalu.
 
 ## Definicje
 
-- **Odnośnik krzyżowy** — celowe połączenie tematyczne między artykułami (identyfikatorami stron).
-- **Węzeł główny** — nowy artykuł stanowiący punkt wejścia do grupy tematów.
-- **Węzeł wspierający** — istniejący artykuł, który pogłębia wybrany aspekt tematu.
+- **Odno9:nik krzy9=owy** ďż˝ celowe po9ďż˝&czenie tematyczne miďż˝"dzy artyku9ami (identyfikatorami stron).
+- **Wďż˝"ze9 g9Bwny** ďż˝ nowy artyku9 stanowiďż˝&cy punkt wej9:cia do grupy tematBw.
+- **Wďż˝"ze9 wspierajďż˝&cy** ďż˝ istniejďż˝&cy artyku9, ktBry pog9ďż˝"bia wybrany aspekt tematu.
 
 ## Analiza
 
-| Nowy artykuł (węzeł główny) | Najbliższe działy | Odnośniki do istniejących artykułów | Uzasadnienie powiązania |
-|---|---|---|---|
-| [`psychotherapy/somatic_experiencing`](../psychotherapy/somatic_experiencing.md) | Psychoterapia, Psychopatologia, Psychologia zdrowia | [`psychotherapy/emdr`](../psychotherapy/emdr.md), [`psychotherapy/systemowa`](../psychotherapy/systemowa.md), [`psychopathology/trauma_ptsd`](../psychopathology/trauma_ptsd.md), [`health_psychology/stres`](../health_psychology/stres.md) | Wspólny rdzeń: trauma, regulacja pobudzenia, interwencje kliniczne. |
-| [`psychotherapy/systemy_rodzinne`](../psychotherapy/systemy_rodzinne.md) | Psychoterapia, Relacje, Uzależnienia | [`psychotherapy/systemowa`](../psychotherapy/systemowa.md), [`relacje/relacje_rodzinne`](../relacje/relacje_rodzinne.md), [`uzaleznienia/rodzina_w_uzaleznieniach`](../uzaleznienia/rodzina_w_uzaleznieniach.md) | Wspólny rdzeń: dynamika rodziny, role, granice, sprzężenia zwrotne. |
-| [`students/wystapienia_publiczne_autoprezentacja`](../students/wystapienia_publiczne_autoprezentacja.md) | Dla studentów, Psychologia społeczna | [`students/sciezki_kariery`](../students/sciezki_kariery.md), [`spoleczna/perswazja`](../spoleczna/perswazja.md), [`spoleczna/ja_i_samoocena`](../spoleczna/ja_i_samoocena.md) | Wspólny rdzeń: wpływ społeczny, lęk przed oceną, kompetencje zawodowe. |
-| [`students/psycholog_w_it`](../students/psycholog_w_it.md) | Dla studentów, Psychologia technologii i dobrostan cyfrowy | [`students/sciezki_kariery`](../students/sciezki_kariery.md), [`technology_psychology/technologia_w_pracy`](../technology_psychology/technologia_w_pracy.md), [`technology_psychology/algorytmy_a_samoocena`](../technology_psychology/algorytmy_a_samoocena.md) | Wspólny rdzeń: ścieżki kariery, metodologia badań, etyka technologii. |
-| [`neuro/zachowanie_i_dwie_polkule_mozgu`](../neuro/zachowanie_i_dwie_polkule_mozgu.md) | Neurobiologia, Funkcje poznawcze, Przypadki kliniczne | [`neuro/lateralizacja`](../neuro/lateralizacja.md), [`cases/split_brain`](../cases/split_brain.md), [`cognitive/system1_system2`](../cognitive/system1_system2.md), [`neuro/neuronauka_poznawcza`](../neuro/neuronauka_poznawcza.md) | Wspólny rdzeń: lateralizacja, integracja międzypółkulowa, neuromity. |
+| Nowy artyku9 (wďż˝"ze9 g9Bwny) | Najbli9=sze dzia9y | Odno9:niki do istniejďż˝&cych artyku9Bw | Uzasadnienie powiďż˝&zania |
+| --- | --- | --- | --- |
+| [`doswiadczenie_somatyczne/wprowadzenie_do_doswiadczenia_somatycznego`](../doswiadczenie_somatyczne/wprowadzenie_do_doswiadczenia_somatycznego.md) | Somatic Experiencing, Psychopatologia, Psychologia zdrowia | [`psychotherapy/emdr`](../psychoterapia/emdr.md), [`psychotherapy/systemowa`](../psychoterapia/systemowa.md), [`psychopathology/trauma_ptsd`](../psychopatologia/trauma_ptsd.md), [`health_psychology/stres`](../psychologia_zdrowia/stres.md) | WspBlny rdze9: trauma, regulacja pobudzenia, interwencje kliniczne. |
+| [`psychotherapy/systemy_rodzinne`](../psychoterapia/systemy_rodzinne.md) | Psychoterapia, Relacje, Uzale9=nienia | [`psychotherapy/systemowa`](../psychoterapia/systemowa.md), [`relacje/relacje_rodzinne`](../relacje/relacje_rodzinne.md), [`uzaleznienia/rodzina_w_uzaleznieniach`](../uzaleznienia/rodzina_w_uzaleznieniach.md) | WspBlny rdze9: dynamika rodziny, role, granice, sprzďż˝"9=enia zwrotne. |
+| [`students/wystapienia_publiczne_autoprezentacja`](../dla_studentow/wystapienia_publiczne_autoprezentacja.md) | Dla studentBw, Psychologia spo9eczna | [`students/sciezki_kariery`](../dla_studentow/sciezki_kariery.md), [`spoleczna/perswazja`](../spoleczna/perswazja.md), [`spoleczna/ja_i_samoocena`](../spoleczna/ja_i_samoocena.md) | WspBlny rdze9: wp9yw spo9eczny, lďż˝"k przed ocenďż˝&, kompetencje zawodowe. |
+| [`students/psycholog_w_it`](../dla_studentow/psycholog_w_it.md) | Dla studentBw, Psychologia technologii i dobrostan cyfrowy | [`students/sciezki_kariery`](../dla_studentow/sciezki_kariery.md), [`technology_psychology/technologia_w_pracy`](../psychologia_technologii/technologia_w_pracy.md), [`technology_psychology/algorytmy_a_samoocena`](../psychologia_technologii/algorytmy_a_samoocena.md) | WspBlny rdze9: 9:cie9=ki kariery, metodologia bada9, etyka technologii. |
+| [`neuro/zachowanie_i_dwie_polkule_mozgu`](../neuro/zachowanie_i_dwie_polkule_mozgu.md) | Neurobiologia, Funkcje poznawcze, Przypadki kliniczne | [`neuro/lateralizacja`](../neuro/lateralizacja.md), [`przypadki_kliniczne/split_brain`](../przypadki_kliniczne/split_brain.md), [`cognitive/system1_system2`](../poznawcza/system1_system2.md), [`neuro/neuronauka_poznawcza`](../neuro/neuronauka_poznawcza.md) | WspBlny rdze9: lateralizacja, integracja miďż˝"dzypB9kulowa, neuromity. |
 
 ## Dobra praktyka
 
-Redaktor publikując nowy materiał od razu dodaje 3–5 odnośników krzyżowych do działów pokrewnych i sprawdza, czy linkowane teksty nie powielają definicji.
+Redaktor publikujďż˝&c nowy materia9 od razu dodaje 3ďż˝5 odno9:nikBw krzy9=owych do dzia9Bw pokrewnych i sprawdza, czy linkowane teksty nie powielajďż˝& definicji.
 
-**Konsekwencje:** krótsza ścieżka nawigacji użytkownika, wyższa spójność pojęciowa, mniej osieroconych artykułów.
+**Konsekwencje:** krBtsza 9:cie9=ka nawigacji u9=ytkownika, wy9=sza spBjno9:ďż˝! pojďż˝"ciowa, mniej osieroconych artyku9Bw.
 
-## Zła praktyka
+## Z9a praktyka
 
-Nowe teksty są publikowane bez mapy powiązań, a podobne treści są rozwijane równolegle w kilku działach.
+Nowe teksty sďż˝& publikowane bez mapy powiďż˝&za9, a podobne tre9:ci sďż˝& rozwijane rBwnolegle w kilku dzia9ach.
 
-**Konsekwencje:** duplikacje, niespójność terminologiczna, trudniejsza aktualizacja źródeł.
+**Konsekwencje:** duplikacje, niespBjno9:ďż˝! terminologiczna, trudniejsza aktualizacja 9_rBde9.
 
 ## Perspektywa nieoczywista
 
-Odnośniki krzyżowe nie są tylko elementem UX. W projekcie edukacyjnym pełnią funkcję „struktury epistemicznej”: pokazują, że wiedza psychologiczna jest siecią zależności między poziomem biologicznym, społecznym, klinicznym i zawodowym.
+Odno9:niki krzy9=owe nie sďż˝& tylko elementem UX. W projekcie edukacyjnym pe9niďż˝& funkcjďż˝" ďż˝~struktury epistemicznejďż˝e: pokazujďż˝&, 9=e wiedza psychologiczna jest sieciďż˝& zale9=no9:ci miďż˝"dzy poziomem biologicznym, spo9ecznym, klinicznym i zawodowym.
 
 ## Podsumowanie
 
-Nowe artykuły zostały osadzone w istniejącym ekosystemie PsyHub poprzez mapę relacji tematycznych. Taki układ ułatwia czytelnikom przechodzenie od definicji do zastosowań oraz wspiera dalszą rozbudowę portalu bez utraty spójności.
+Nowe artyku9y zosta9y osadzone w istniejďż˝&cym ekosystemie PsyHub poprzez mapďż˝" relacji tematycznych. Taki uk9ad u9atwia czytelnikom przechodzenie od definicji do zastosowa9 oraz wspiera dalszďż˝& rozbudowďż˝" portalu bez utraty spBjno9:ci.
 
-
-Dla przeglądu treści wymagających dalszego podlinkowania zobacz raport: [`raport_artykuly_bez_odnosnikow`](./raport_artykuly_bez_odnosnikow.md).
+Dla przeglďż˝&du tre9:ci wymagajďż˝&cych dalszego podlinkowania zobacz raport: [`raport_artykuly_bez_odnosnikow`](./raport_artykuly_bez_odnosnikow.md).
 
 ## Bibliografia
 
 1. American Psychological Association. (2020). *Publication Manual of the American Psychological Association* (7th ed.).
 2. Norman, D. A. (2013). *The Design of Everyday Things* (Revised and Expanded). Basic Books.
+
+

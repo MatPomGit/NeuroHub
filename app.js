@@ -2120,11 +2120,11 @@ const speechState = {
 };
 
 const SPEECH_VOICE_PRESETS = {
-  natural: { label: 'Naturalny', rate: 1.02, pitch: 1, boostNatural: 30, boostAlt: 0 },
-  alt: { label: 'Alternatywny', rate: 0.96, pitch: 1.1, boostNatural: 0, boostAlt: 28 },
-  calm: { label: 'Spokojny', rate: 0.9, pitch: 0.95, boostNatural: 10, boostAlt: 5 },
-  dynamic: { label: 'Dynamiczny', rate: 1.12, pitch: 1.08, boostNatural: 22, boostAlt: 8 },
-  deep: { label: 'Niski', rate: 0.88, pitch: 0.82, boostNatural: 8, boostAlt: 6 },
+  natural: { label: 'Naturalny', rate: 1.0, pitch: 1.0, boostNatural: 34, boostAlt: 0, boostDefault: 18, preferredNames: ['natural', 'premium', 'neural', 'online'] },
+  alt: { label: 'Alternatywny', rate: 0.93, pitch: 1.12, boostNatural: 0, boostAlt: 36, boostDefault: 8, preferredNames: ['alt', 'alternative', 'anna', 'ewa', 'paulina', 'zofia'] },
+  calm: { label: 'Spokojny', rate: 0.84, pitch: 0.9, boostNatural: 12, boostAlt: 12, boostDefault: 16, preferredNames: ['calm', 'soft', 'female', 'sandra', 'magda'] },
+  dynamic: { label: 'Dynamiczny', rate: 1.18, pitch: 1.12, boostNatural: 26, boostAlt: 10, boostDefault: 12, preferredNames: ['dynamic', 'fast', 'expressive', 'neural', 'online'] },
+  deep: { label: 'Niski', rate: 0.8, pitch: 0.74, boostNatural: 10, boostAlt: 8, boostDefault: 14, preferredNames: ['deep', 'male', 'low', 'marek', 'grzegorz', 'jan'] },
 };
 
 /* Zwraca aktywny preset głosu albo bezpieczną wartość domyślną, gdy stan jest niepoprawny. */
@@ -2154,6 +2154,12 @@ function choosePreferredVoice(mode) {
 
     if (/natural|premium|enhanced|neural|online/.test(name)) score += preset.boostNatural;
     if (/alt|alternative|anna|ewa|marek|paulina|zofia/.test(name)) score += preset.boostAlt;
+    if (/default|standard|system/.test(name)) score += preset.boostDefault || 0;
+    if (Array.isArray(preset.preferredNames)) {
+      preset.preferredNames.forEach(token => {
+        if (name.includes(token)) score += 14;
+      });
+    }
     if (/google|microsoft|apple/.test(name)) score += 10;
     score -= index;
 

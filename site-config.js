@@ -31,7 +31,7 @@ window.SITE_CONFIG = {
   //     effectSizeInfo, sourceRefs.
   //  2) Wartości pól type/evidenceLevel/license/evidenceType muszą pochodzić
   //     ze słownika.
-  //  3) Dla domen bez opracowanych wpisów używamy listy TODO w todoDomains.
+  //  3) Dla domen bez opracowanych wpisów używamy listy TODO w `docs/TODO.md` oraz listy todoDomains.
   //  4) Pole primarySourceYear zapisujemy jako rok (YYYY) pierwszej publikacji
   //     wersji bazowej narzędzia; jeśli w projekcie narzędzie jest definiowane
   //     przez oficjalną rewizję (np. ADOS-2, DIVA-5), wpisujemy rok tej rewizji.
@@ -789,7 +789,7 @@ window.SITE_CONFIG = {
         { id: 'neuro/podstawy_neurologii',               label: 'Podstawy neurologii',                    file: 'wiki/neuro/podstawy_neurologii.md'               },
         { id: 'neuro/pien_mozgu',                        label: 'Pień mózgu i móżdżek',                   file: 'wiki/neuro/pien_mozgu.md'                        },
         { id: 'neuro/eye_tracking',                      label: 'Eye tracking - śledzenie wzroku',        file: 'wiki/neuro/eye_tracking.md'                      },
-        { id: 'neuro/Muse',                              label: 'Muse S - neurofeedback i EEG',           file: 'wiki/neuro/Muse.md'                              },
+        { id: 'neuro/muse',                              label: 'Muse S - neurofeedback i EEG',           file: 'wiki/neuro/muse.md'                              },
       ]
     },
     {
@@ -1538,7 +1538,7 @@ window.SITE_CONFIG = {
       { file: 'wiki/neuro/przesilenie_wiosenne.md', label: 'Neurobiologia przesilenia wiosennego', status: 'live' },
       { file: 'wiki/neuro/cykl_miesiaczkowy.md', label: 'Neuropsychologia cyklu miesiączkowego', status: 'live' },
       { file: 'wiki/neuro/eye_tracking.md',        label: 'Eye tracking - śledzenie wzroku',         status: 'live' },
-      { file: 'wiki/neuro/Muse.md',                label: 'Muse S - neurofeedback i EEG',            status: 'live' },
+      { file: 'wiki/neuro/muse.md',                label: 'Muse S - neurofeedback i EEG',            status: 'live' },
       { file: 'wiki/neuro/rehabilitacja_neuropsychologiczna.md', label: 'Rehabilitacja neuropsychologiczna', status: 'live' },
       { file: 'wiki/neuro/neuronauka_poznawcza.md', label: 'Neuronauka poznawcza', status: 'live' },
       { file: 'wiki/neuro/podstawy_neurologii.md', label: 'Podstawy neurologii',                 status: 'live' },

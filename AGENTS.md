@@ -42,12 +42,32 @@ Każdy nowy lub aktualizowany artykuł powinien (o ile temat na to pozwala) zawi
 2. Uwzględniaj źródła naukowe wysokiej jakości (np. artykuły recenzowane, podręczniki akademickie, raporty instytucji naukowych).
 3. Dbaj o aktualność źródeł oraz równowagę między klasycznymi pozycjami a nowszymi badaniami.
 4. Jeśli używasz danych liczbowych, wskaż ich źródło bezpośrednio w treści.
+5. Sekcja `## Bibliografia` musi znajdować się na końcu artykułu (ostatni rozdział).
 
 ## Zasady argumentacji
 1. Nie powielaj bezrefleksyjnie popularnych opinii.
 2. Pokazuj alternatywne interpretacje i ograniczenia prezentowanych podejść.
 3. Wskazuj konsekwencje praktyczne omawianych teorii.
 4. Jeżeli temat jest kontrowersyjny, przedstaw argumenty wielu stron oraz krótką ocenę jakości dowodów.
+
+
+## Zasady integralności treści i lokalizacji plików
+1. **Nie usuwaj istniejącej treści bez uzasadnienia merytorycznego**
+   - Przy aktualizacji artykułu zachowuj dotychczasowe, wartościowe fragmenty.
+   - Jeżeli przenosisz treści między sekcjami, integruj je w odpowiednich rozdziałach zamiast kasować.
+
+2. **Integracja zamiast nadpisywania**
+   - Nowe treści dopisuj tak, aby rozwijały istniejący wywód i nie tworzyły duplikatów.
+   - W przypadku konfliktu treści wybieraj wersję lepiej udokumentowaną źródłowo, a słabszą scalaj lub skracaj z zachowaniem sensu.
+
+3. **Zakaz treści generycznych**
+   - Nie dodawaj akapitów ogólnikowych, które mogłyby pasować do dowolnego tematu.
+   - Każdy nowy fragment musi być ściśle związany z tematem pliku i oparty na literaturze przedmiotu.
+
+4. **Nazewnictwo i umiejscowienie plików wiki**
+   - Nazwy plików i katalogów muszą być w `snake_case`, małymi literami i bez spacji.
+   - Artykuł umieszczaj wyłącznie w folderze odpowiadającym jego tematyce (np. diagnoza → `wiki/diagnoza/`, relacje → `wiki/relacje/`).
+   - Przy zmianie nazwy lub lokalizacji pliku zaktualizuj wszystkie odwołania (linki wewnętrzne, `site-config.js`, raporty referencyjne).
 
 ## Dodatkowe zasady redakcyjne
 1. Unikaj sensacyjności i języka stygmatyzującego.
@@ -60,4 +80,8 @@ Każdy nowy lub aktualizowany artykuł powinien (o ile temat na to pozwala) zawi
 - [ ] Czy dodano przykłady dobrej i złej praktyki?
 - [ ] Czy przedstawiono perspektywę nieoczywistą, popartą argumentami?
 - [ ] Czy artykuł zawiera sekcję Bibliografia z wiarygodnymi źródłami?
+- [ ] Czy sekcja „## Bibliografia” jest ostatnim rozdziałem artykułu?
 - [ ] Czy całość utrzymuje wysoki poziom jakościowy i edukacyjny?
+- [ ] Czy podczas edycji zachowano i zintegrowano wartościową treść istniejącą wcześniej?
+- [ ] Czy uniknięto generycznych akapitów niedopasowanych do tematu?
+- [ ] Czy nazwa i lokalizacja pliku wiki są zgodne z tematyką oraz konwencją snake_case?

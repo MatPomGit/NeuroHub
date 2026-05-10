@@ -2115,13 +2115,28 @@ const speechState = {
   utterance: null,
   isSpeaking: false,
   autoNext: localStorage.getItem('psyhub-speech-auto-next') === '1',
-  voiceMode: localStorage.getItem('psyhub-speech-voice-mode') === 'alt' ? 'alt' : 'natural',
+  voiceMode: localStorage.getItem('psyhub-speech-voice-mode') || 'natural',
+  optionsCollapsed: localStorage.getItem('psyhub-speech-options-collapsed') === '1',
 };
+
+const SPEECH_VOICE_PRESETS = {
+  natural: { label: 'Naturalny', rate: 1.02, pitch: 1, boostNatural: 30, boostAlt: 0 },
+  alt: { label: 'Alternatywny', rate: 0.96, pitch: 1.1, boostNatural: 0, boostAlt: 28 },
+  calm: { label: 'Spokojny', rate: 0.9, pitch: 0.95, boostNatural: 10, boostAlt: 5 },
+  dynamic: { label: 'Dynamiczny', rate: 1.12, pitch: 1.08, boostNatural: 22, boostAlt: 8 },
+  deep: { label: 'Niski', rate: 0.88, pitch: 0.82, boostNatural: 8, boostAlt: 6 },
+};
+
+/* Zwraca aktywny preset głosu albo bezpieczną wartość domyślną, gdy stan jest niepoprawny. */
+function getVoicePreset(mode) {
+  return SPEECH_VOICE_PRESETS[mode] || SPEECH_VOICE_PRESETS.natural;
+}
 
 
 
 /* Wybiera najlepszy głos dla języka polskiego, preferując naturalniejsze głosy systemowe. */
 function choosePreferredVoice(mode) {
+  const preset = getVoicePreset(mode);
   if (!speechState.synth?.getVoices) return null;
   const allVoices = speechState.synth.getVoices();
   const polishVoices = allVoices.filter(v => (v.lang || '').toLowerCase().startsWith('pl'));
@@ -2137,14 +2152,10 @@ function choosePreferredVoice(mode) {
     if (voice.localService) score += 25;
     if (voice.default) score += 20;
 
-    if (mode === 'natural') {
-      if (/natural|premium|enhanced|neural|online/.test(name)) score += 30;
-      if (/google|microsoft|zosia|agnieszka/.test(name)) score += 15;
-    } else {
-      if (/alt|alternative|anna|ewa|marek|paulina|zofia/.test(name)) score += 28;
-      if (/google|microsoft|apple/.test(name)) score += 10;
-      score -= index;
-    }
+    if (/natural|premium|enhanced|neural|online/.test(name)) score += preset.boostNatural;
+    if (/alt|alternative|anna|ewa|marek|paulina|zofia/.test(name)) score += preset.boostAlt;
+    if (/google|microsoft|apple/.test(name)) score += 10;
+    score -= index;
 
     return { voice, score };
   }).sort((a, b) => b.score - a.score);
@@ -2154,13 +2165,11 @@ function choosePreferredVoice(mode) {
 
 /* Aktualizuje etykietę przełącznika stylu głosu i stan ARIA. */
 function updateVoiceModeButtonState() {
-  const voiceModeBtn = document.getElementById('speechVoiceMode');
-  if (!voiceModeBtn) return;
-  const isAlt = speechState.voiceMode === 'alt';
-  voiceModeBtn.classList.toggle('is-active', isAlt);
-  voiceModeBtn.setAttribute('aria-pressed', isAlt ? 'true' : 'false');
-  voiceModeBtn.setAttribute('aria-label', isAlt ? 'Tryb głosu alternatywny' : 'Tryb głosu naturalny');
-  voiceModeBtn.textContent = isAlt ? 'Głos: alternatywny' : 'Głos: naturalny';
+  const voiceModeSelect = document.getElementById('speechVoiceMode');
+  if (!voiceModeSelect) return;
+  const selectedPreset = getVoicePreset(speechState.voiceMode);
+  voiceModeSelect.value = speechState.voiceMode in SPEECH_VOICE_PRESETS ? speechState.voiceMode : 'natural';
+  voiceModeSelect.setAttribute('aria-label', `Wybrany styl głosu: ${selectedPreset.label}`);
 }
 
 /* Zbiera czytelny tekst z głównego kontenera treści, pomijając elementy nawigacyjne i dekoracyjne. */
@@ -2194,6 +2203,21 @@ function updateAutoNextButtonState() {
   autoNextBtn.textContent = speechState.autoNext ? 'Auto-next: ON' : 'Auto-next: OFF';
 }
 
+/* Steruje widocznością panelu opcji czytania i aktualizuje semantykę ARIA przycisku zwijania. */
+function updateSpeechOptionsPanelState() {
+  const optionsPanel = document.getElementById('speechOptionsPanel');
+  const optionsToggleBtn = document.getElementById('speechOptionsToggle');
+  if (!optionsPanel || !optionsToggleBtn) return;
+
+  const isCollapsed = speechState.optionsCollapsed;
+  optionsPanel.classList.toggle('is-collapsed', isCollapsed);
+  optionsToggleBtn.setAttribute('aria-expanded', isCollapsed ? 'false' : 'true');
+  optionsToggleBtn.setAttribute('aria-label', isCollapsed
+    ? 'Rozwiń panel opcji czytania na głos'
+    : 'Zwiń panel opcji czytania na głos');
+  optionsToggleBtn.textContent = isCollapsed ? 'Opcje ▼' : 'Opcje ▲';
+}
+
 /* Zatrzymuje syntezę mowy i resetuje lokalny stan czytania. */
 function stopReadingContent() {
   if (!speechState.synth) return;
@@ -2208,20 +2232,23 @@ function setupSpeechControls() {
   const toggleBtn = document.getElementById('speechToggle');
   const stopBtn = document.getElementById('speechStop');
   const autoNextBtn = document.getElementById('speechAutoNext');
-  const voiceModeBtn = document.getElementById('speechVoiceMode');
-  if (!toggleBtn || !stopBtn || !autoNextBtn || !voiceModeBtn) return;
+  const voiceModeSelect = document.getElementById('speechVoiceMode');
+  const optionsToggleBtn = document.getElementById('speechOptionsToggle');
+  if (!toggleBtn || !stopBtn || !autoNextBtn || !voiceModeSelect || !optionsToggleBtn) return;
 
   if (!speechState.synth || typeof SpeechSynthesisUtterance === 'undefined') {
     toggleBtn.disabled = true;
+    optionsToggleBtn.disabled = true;
     stopBtn.disabled = true;
     autoNextBtn.disabled = true;
-    voiceModeBtn.disabled = true;
+    voiceModeSelect.disabled = true;
     toggleBtn.title = 'Przeglądarka nie wspiera syntezy mowy';
     return;
   }
 
   updateAutoNextButtonState();
   updateVoiceModeButtonState();
+  updateSpeechOptionsPanelState();
 
   toggleBtn.addEventListener('click', () => {
     if (speechState.isSpeaking) {
@@ -2245,8 +2272,9 @@ function setupSpeechControls() {
     utterance.lang = document.documentElement.lang || 'pl-PL';
     const selectedVoice = choosePreferredVoice(speechState.voiceMode);
     if (selectedVoice) utterance.voice = selectedVoice;
-    utterance.rate = speechState.voiceMode === 'alt' ? 0.96 : 1.02;
-    utterance.pitch = speechState.voiceMode === 'alt' ? 1.1 : 1;
+    const voicePreset = getVoicePreset(speechState.voiceMode);
+    utterance.rate = voicePreset.rate;
+    utterance.pitch = voicePreset.pitch;
 
     utterance.onstart = () => {
       speechState.isSpeaking = true;
@@ -2281,8 +2309,8 @@ function setupSpeechControls() {
     updateAutoNextButtonState();
   });
 
-  voiceModeBtn.addEventListener('click', () => {
-    speechState.voiceMode = speechState.voiceMode === 'natural' ? 'alt' : 'natural';
+  voiceModeSelect.addEventListener('change', () => {
+    speechState.voiceMode = voiceModeSelect.value;
     localStorage.setItem('psyhub-speech-voice-mode', speechState.voiceMode);
     updateVoiceModeButtonState();
 
@@ -2291,6 +2319,12 @@ function setupSpeechControls() {
       stopReadingContent();
       toggleBtn.click();
     }
+  });
+
+  optionsToggleBtn.addEventListener('click', () => {
+    speechState.optionsCollapsed = !speechState.optionsCollapsed;
+    localStorage.setItem('psyhub-speech-options-collapsed', speechState.optionsCollapsed ? '1' : '0');
+    updateSpeechOptionsPanelState();
   });
 
   window.addEventListener('hashchange', stopReadingContent);

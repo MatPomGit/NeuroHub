@@ -1080,6 +1080,22 @@ em{color:var(--goldl)}
 @media(max-width:900px){
   :root{--sw:272px}
   .sidebar{transform:translateX(-100%)}
+
+  /* Mobilna dostępność: zwiększamy obszary klikalne linków i przycisków nawigacji do minimum 44px. */
+  .nav-item,
+  .nav-group-hdr,
+  .pnav-btn,
+  .nav-item-btn{
+    min-height:44px;
+  }
+
+  /* Mobilna dostępność: większy pionowy odstęp zapobiega przypadkowym kliknięciom sąsiednich linków. */
+  .nav-item,
+  .nav-group-hdr,
+  .pnav-btn{
+    padding-top:.52rem;
+    padding-bottom:.52rem;
+  }
   .sidebar.open{transform:translateX(0)}
   .main{margin-left:0}
   .prog-bar{left:0}

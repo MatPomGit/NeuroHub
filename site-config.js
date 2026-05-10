@@ -1,4 +1,4 @@
-﻿/**
+/**
  * site-config.js - PsyHub v3.2 "bulbulgator"
  * Jedyne 9_rBd9o prawdy: nawigacja, mapowanie plikBw MD, definicje WIKI.
  *

@@ -1064,6 +1064,26 @@ em{color:var(--goldl)}
 .speech-btn:hover{border-color:var(--gold);color:var(--t1)}
 .speech-btn.is-active{background:var(--goldt);border-color:rgba(201,162,39,.45);color:var(--gold)}
 .speech-collapse-btn{min-width:84px;}
+.speech-voice-select-wrap{
+  display:flex;
+  align-items:center;
+  gap:.3rem;
+  padding:.3rem .45rem;
+  border:1px solid var(--border);
+  border-radius:8px;
+  background:var(--bg3);
+  color:var(--t2);
+  font-size:.68rem;
+  font-weight:600;
+}
+.speech-voice-select{
+  border:1px solid var(--border);
+  border-radius:6px;
+  background:var(--bg2);
+  color:var(--t1);
+  font-size:.68rem;
+  padding:.18rem .3rem;
+}
 
 @media (max-width: 900px){
   /* Na mobile sterowanie czytaniem jest przypięte i łatwo dostępne pod kciukiem. */
@@ -1086,4 +1106,10 @@ em{color:var(--goldl)}
   .speech-options-panel.is-collapsed{display:none;}
   .speech-btn{font-size:.72rem;flex:1;}
   .speech-collapse-btn{flex:unset;}
+  .speech-voice-select-wrap{
+    width:100%;
+    justify-content:space-between;
+    font-size:.72rem;
+  }
+  .speech-voice-select{font-size:.72rem;}
 }

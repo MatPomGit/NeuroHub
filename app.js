@@ -2116,6 +2116,7 @@ const speechState = {
   isSpeaking: false,
   autoNext: localStorage.getItem('psyhub-speech-auto-next') === '1',
   voiceMode: localStorage.getItem('psyhub-speech-voice-mode') === 'alt' ? 'alt' : 'natural',
+  optionsCollapsed: localStorage.getItem('psyhub-speech-options-collapsed') === '1',
 };
 
 
@@ -2194,6 +2195,21 @@ function updateAutoNextButtonState() {
   autoNextBtn.textContent = speechState.autoNext ? 'Auto-next: ON' : 'Auto-next: OFF';
 }
 
+/* Steruje widocznością panelu opcji czytania i aktualizuje semantykę ARIA przycisku zwijania. */
+function updateSpeechOptionsPanelState() {
+  const optionsPanel = document.getElementById('speechOptionsPanel');
+  const optionsToggleBtn = document.getElementById('speechOptionsToggle');
+  if (!optionsPanel || !optionsToggleBtn) return;
+
+  const isCollapsed = speechState.optionsCollapsed;
+  optionsPanel.classList.toggle('is-collapsed', isCollapsed);
+  optionsToggleBtn.setAttribute('aria-expanded', isCollapsed ? 'false' : 'true');
+  optionsToggleBtn.setAttribute('aria-label', isCollapsed
+    ? 'Rozwiń panel opcji czytania na głos'
+    : 'Zwiń panel opcji czytania na głos');
+  optionsToggleBtn.textContent = isCollapsed ? 'Opcje ▼' : 'Opcje ▲';
+}
+
 /* Zatrzymuje syntezę mowy i resetuje lokalny stan czytania. */
 function stopReadingContent() {
   if (!speechState.synth) return;
@@ -2209,7 +2225,8 @@ function setupSpeechControls() {
   const stopBtn = document.getElementById('speechStop');
   const autoNextBtn = document.getElementById('speechAutoNext');
   const voiceModeBtn = document.getElementById('speechVoiceMode');
-  if (!toggleBtn || !stopBtn || !autoNextBtn || !voiceModeBtn) return;
+  const optionsToggleBtn = document.getElementById('speechOptionsToggle');
+  if (!toggleBtn || !stopBtn || !autoNextBtn || !voiceModeBtn || !optionsToggleBtn) return;
 
   if (!speechState.synth || typeof SpeechSynthesisUtterance === 'undefined') {
     toggleBtn.disabled = true;
@@ -2222,6 +2239,7 @@ function setupSpeechControls() {
 
   updateAutoNextButtonState();
   updateVoiceModeButtonState();
+  updateSpeechOptionsPanelState();
 
   toggleBtn.addEventListener('click', () => {
     if (speechState.isSpeaking) {
@@ -2291,6 +2309,12 @@ function setupSpeechControls() {
       stopReadingContent();
       toggleBtn.click();
     }
+  });
+
+  optionsToggleBtn.addEventListener('click', () => {
+    speechState.optionsCollapsed = !speechState.optionsCollapsed;
+    localStorage.setItem('psyhub-speech-options-collapsed', speechState.optionsCollapsed ? '1' : '0');
+    updateSpeechOptionsPanelState();
   });
 
   window.addEventListener('hashchange', stopReadingContent);

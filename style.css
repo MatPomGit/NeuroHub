@@ -1049,6 +1049,8 @@ em{color:var(--goldl)}
 
 /* Panel sterowania syntezą mowy zapewnia prostą obsługę czytania treści artykułu. */
 .speech-controls{display:flex;align-items:center;gap:.35rem;margin-left:.75rem;}
+.speech-options-panel{display:flex;align-items:center;gap:.35rem;}
+.speech-options-panel.is-collapsed{display:none;}
 .speech-btn{
   border:1px solid var(--border);
   background:var(--bg3);
@@ -1061,6 +1063,7 @@ em{color:var(--goldl)}
 }
 .speech-btn:hover{border-color:var(--gold);color:var(--t1)}
 .speech-btn.is-active{background:var(--goldt);border-color:rgba(201,162,39,.45);color:var(--gold)}
+.speech-collapse-btn{min-width:84px;}
 
 @media (max-width: 900px){
   /* Na mobile sterowanie czytaniem jest przypięte i łatwo dostępne pod kciukiem. */
@@ -1076,7 +1079,11 @@ em{color:var(--goldl)}
     background:color-mix(in srgb, var(--bg2) 90%, transparent);
     backdrop-filter:blur(8px);
     z-index:600;
-    justify-content:space-between;
+    justify-content:flex-start;
+    flex-wrap:wrap;
   }
+  .speech-options-panel{width:100%;display:flex;gap:.35rem;}
+  .speech-options-panel.is-collapsed{display:none;}
   .speech-btn{font-size:.72rem;flex:1;}
+  .speech-collapse-btn{flex:unset;}
 }

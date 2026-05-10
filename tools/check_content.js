@@ -92,6 +92,14 @@ function buildIdToFileMap(collected) {
 
 /* Próbuje rozwiązać wpis do ścieżki pliku, korzystając z file albo id. */
 function resolveEntryFile(entry, idToFileMap) {
+  /* Obsługa wpisów typu xlink: lokalne podstrony HTML też traktujemy jako poprawne podpięcia. */
+  if (typeof entry.href === 'string' && entry.href.trim()) {
+    const href = entry.href.trim();
+    if (!/^https?:\/\//i.test(href)) {
+      return href.replace(/^\.\//, '');
+    }
+  }
+
   if (typeof entry.file === 'string' && entry.file.trim()) {
     return entry.file.trim();
   }

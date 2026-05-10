@@ -48,6 +48,11 @@ Od tego momentu:
 - `pre-commit` waliduje nowe pliki `.md` dodane do indeksu,
 - `pre-push` waliduje nowe pliki `.md` względem gałęzi upstream.
 
+
+## Proces utrzymania jakości treści
+
+Utrzymanie jakości treści realizujemy iteracyjnie w czterech etapach: **(1) standaryzacja nazw**, **(2) uzupełnienie struktury artykułów**, **(3) cytaty i bibliografia**, **(4) walidacja automatyczna**. Szczegółowy audyt postępu, statusy kryteriów jakości oraz priorytety aktualizacji są prowadzone w `wiki/reference/content_audit.md`. Artykuł uznajemy za ukończony dopiero po spełnieniu Definition of Done: komplet sekcji, rzetelne źródła oraz spójne nazewnictwo.
+
 ## Kryteria „gotowości do publikacji”
 
 Artykuł uznaje się za gotowy do publikacji, gdy spełnia wszystkie kryteria:

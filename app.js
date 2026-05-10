@@ -2536,7 +2536,7 @@ function setupMobileChaptersPanel() {
   });
 
   document.addEventListener('keydown', (event) => {
-    if (event.key === 'Escape') closePanel();
+    if (event.key === 'Escape' && panel.classList.contains('open')) closePanel();
   });
 }
 

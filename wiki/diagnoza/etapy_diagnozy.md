@@ -101,7 +101,7 @@ Naukowo prowadzona diagnoza psychologiczna wymaga: jasnego pytania, hipotez alte
 
 ---
 
-## 8. Bibliografia
+## Bibliografia
 
 1. Stemplewska-Żakowicz, K. (2009). *Diagnoza psychologiczna. Diagnozowanie jako kompetencja profesjonalna*. GWP.
 2. Hunsley, J., & Mash, E. J. (2007). Evidence-based assessment. *Annual Review of Clinical Psychology, 3*, 29–51.

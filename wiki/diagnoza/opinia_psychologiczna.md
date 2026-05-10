@@ -127,7 +127,7 @@ Rzetelna opinia psychologiczna to dokument, który łączy naukową dyscyplinę 
 
 ---
 
-## 9. Bibliografia
+## Bibliografia
 3. Sattler, J. M. (2014). *Foundations of Behavioral, Social, and Clinical Assessment of Children*. Jerome M. Sattler Publisher.
 1. Paluchowski, W. J. (2007). *Diagnoza psychologiczna. Podejście ilościowe i jakościowe*. Scholar.
 2. Hunsley, J., & Mash, E. J. (2007). Evidence-based assessment. *Annual Review of Clinical Psychology, 3*, 29–51.

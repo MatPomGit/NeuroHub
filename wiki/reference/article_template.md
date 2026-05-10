@@ -27,8 +27,18 @@
 ## Podsumowanie
 - Zbierz najważniejsze wnioski praktyczne i teoretyczne.
 
+
+<!--
+## Zasady edycji istniejących artykułów
+- Zachowuj wartościową treść zastaną i integruj ją w poprawnych sekcjach zamiast usuwać.
+- Jeśli porządkujesz strukturę, przenoś akapity do adekwatnych rozdziałów i usuwaj jedynie duplikaty lub treści błędne.
+- Unikaj treści generycznych; każdy dodany akapit musi odnosić się bezpośrednio do tematu artykułu.
+- Przy tworzeniu nowego artykułu dopasuj folder wiki do tematu i stosuj nazwy plików w `snake_case` (małe litery).
+-->
+
 ## Bibliografia
 > Format zgodny z APA 7.
+<!-- Sekcja ## Bibliografia powinna zawsze zamykać artykuł. -->
 
 - Autor, A. A., & Autor, B. B. (Rok). Tytuł artykułu. *Tytuł Czasopisma, wolumin*(numer), xx-xx. https://doi.org/xx.xxxx/xxxxx
 - Autor, A. A. (Rok). *Tytuł książki* (wydanie). Wydawnictwo.

@@ -442,7 +442,7 @@ Poniżej znajdują się bezpośrednie odnośniki do artykułów bez linków przy
 
 ### neuro
 
-- [`neuro/Muse.md`](../neuro/Muse.md)
+- [`neuro/muse.md`](../neuro/muse.md)
 - [`neuro/anatomia.md`](../neuro/anatomia.md)
 - [`neuro/cykl_miesiaczkowy.md`](../neuro/cykl_miesiaczkowy.md)
 - [`neuro/eye_tracking.md`](../neuro/eye_tracking.md)
@@ -598,7 +598,7 @@ Poniżej znajdują się bezpośrednie odnośniki do artykułów bez linków przy
 
 ### psychofarmakologia
 
-- [`psychofarmakologia/README.md`](../psychofarmakologia/README.md)
+- [`psychofarmakologia/spis_tresci.md`](../psychofarmakologia/spis_tresci.md)
 
 ### psychometrics
 

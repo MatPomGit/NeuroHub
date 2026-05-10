@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Eksperyment n-back | PsyHub</title>
+  <style>
+    :root { color-scheme: dark light; }
+    body { font-family: Inter, system-ui, sans-serif; margin: 0; background: #0f172a; color: #e2e8f0; }
+    main { max-width: 820px; margin: 2rem auto; padding: 1.5rem; }
+    .card { background: #1e293b; border: 1px solid #334155; border-radius: 16px; padding: 1rem 1.25rem; margin-bottom: 1rem; }
+    label, select, button { font-size: 1rem; }
+    select, button { border-radius: 10px; border: 1px solid #475569; padding: .45rem .75rem; }
+    button { cursor: pointer; background: #0ea5e9; color: #082f49; font-weight: 700; }
+    button.secondary { background: #334155; color: #e2e8f0; }
+    .stimulus { font-size: 4rem; text-align: center; font-weight: 700; min-height: 6rem; }
+    .status { color: #93c5fd; }
+    .result { font-family: "JetBrains Mono", monospace; white-space: pre-wrap; }
+    .controls { display: flex; flex-wrap: wrap; gap: .5rem; }
+  </style>
+</head>
+<body>
+<main>
+  <h1>Eksperyment zadania n-back</h1>
+  <p>Uproszczony moduł treningowo-eksperymentalny: prezentowane są litery, a badany odpowiada, czy aktualny bodziec jest taki sam jak <em>n</em> pozycji wcześniej.</p>
+
+  <section class="card" aria-label="Ustawienia eksperymentu">
+    <label for="nLevel">Poziom n-back:</label>
+    <select id="nLevel">
+      <option value="1">1-back</option>
+      <option value="2" selected>2-back</option>
+      <option value="3">3-back</option>
+    </select>
+    <label for="trialCount">Liczba prób:</label>
+    <select id="trialCount">
+      <option value="20">20</option>
+      <option value="30" selected>30</option>
+      <option value="40">40</option>
+    </select>
+    <div class="controls" style="margin-top: .75rem;">
+      <button id="startBtn" type="button">Start</button>
+      <button id="matchBtn" type="button" class="secondary" disabled>Dopasowanie (spacja)</button>
+    </div>
+  </section>
+
+  <section class="card" aria-live="polite">
+    <p class="status" id="status">Status: oczekiwanie na start.</p>
+    <div class="stimulus" id="stimulus">—</div>
+  </section>
+
+  <section class="card">
+    <h2>Wynik</h2>
+    <div class="result" id="result">Brak danych.</div>
+  </section>
+</main>
+
+<script>
+  // Stała z literami używanymi do generowania kolejnych bodźców.
+  const LETTERS = ['B', 'F', 'H', 'K', 'M', 'Q', 'R', 'T', 'X'];
+
+  const nLevelEl = document.getElementById('nLevel');
+  const trialCountEl = document.getElementById('trialCount');
+  const startBtn = document.getElementById('startBtn');
+  const matchBtn = document.getElementById('matchBtn');
+  const statusEl = document.getElementById('status');
+  const stimulusEl = document.getElementById('stimulus');
+  const resultEl = document.getElementById('result');
+
+  let experimentState = null;
+
+  // Funkcja losująca jedną literę z puli bodźców.
+  function pickRandomLetter() {
+    return LETTERS[Math.floor(Math.random() * LETTERS.length)];
+  }
+
+  // Funkcja inicjalizująca pełny stan pojedynczej sesji n-back.
+  function createExperimentState(nLevel, trialCount) {
+    return {
+      nLevel,
+      trialCount,
+      currentIndex: -1,
+      sequence: [],
+      userResponses: [],
+      timerId: null,
+      stimulusDurationMs: 1800,
+      isiMs: 400
+    };
+  }
+
+  // Funkcja obsługująca reakcję badanego w bieżącej próbie.
+  function registerMatchResponse() {
+    if (!experimentState || experimentState.currentIndex < 0) return;
+    experimentState.userResponses[experimentState.currentIndex] = true;
+    statusEl.textContent = `Status: zaznaczono dopasowanie dla próby ${experimentState.currentIndex + 1}.`;
+  }
+
+  // Funkcja wyliczająca podstawowe statystyki trafności po zakończeniu zadania.
+  function computeSummary(state) {
+    let hits = 0, misses = 0, falseAlarms = 0, correctRejections = 0;
+
+    for (let i = 0; i < state.trialCount; i += 1) {
+      const isTarget = i >= state.nLevel && state.sequence[i] === state.sequence[i - state.nLevel];
+      const answered = Boolean(state.userResponses[i]);
+
+      if (isTarget && answered) hits += 1;
+      else if (isTarget && !answered) misses += 1;
+      else if (!isTarget && answered) falseAlarms += 1;
+      else correctRejections += 1;
+    }
+
+    const accuracy = ((hits + correctRejections) / state.trialCount) * 100;
+    return { hits, misses, falseAlarms, correctRejections, accuracy };
+  }
+
+  // Funkcja finalizująca sesję i prezentująca podsumowanie wyników.
+  function finishExperiment() {
+    const summary = computeSummary(experimentState);
+    statusEl.textContent = 'Status: zakończono eksperyment.';
+    stimulusEl.textContent = '✓';
+    matchBtn.disabled = true;
+    resultEl.textContent =
+`n-back: ${experimentState.nLevel}\nPróby: ${experimentState.trialCount}\nHit: ${summary.hits}\nMiss: ${summary.misses}\nFalse Alarm: ${summary.falseAlarms}\nCorrect Rejection: ${summary.correctRejections}\nAccuracy: ${summary.accuracy.toFixed(1)}%`;
+    experimentState = null;
+  }
+
+  // Funkcja uruchamiająca kolejne próby w ustalonym rytmie czasowym.
+  function runNextTrial() {
+    if (!experimentState) return;
+
+    experimentState.currentIndex += 1;
+    if (experimentState.currentIndex >= experimentState.trialCount) {
+      finishExperiment();
+      return;
+    }
+
+    const letter = pickRandomLetter();
+    experimentState.sequence.push(letter);
+    experimentState.userResponses.push(false);
+
+    stimulusEl.textContent = letter;
+    statusEl.textContent = `Status: próba ${experimentState.currentIndex + 1} / ${experimentState.trialCount}.`;
+
+    experimentState.timerId = setTimeout(() => {
+      stimulusEl.textContent = '•';
+      experimentState.timerId = setTimeout(runNextTrial, experimentState.isiMs);
+    }, experimentState.stimulusDurationMs);
+  }
+
+  // Funkcja rozpoczynająca nową sesję n-back na podstawie ustawień formularza.
+  function startExperiment() {
+    const nLevel = Number(nLevelEl.value);
+    const trialCount = Number(trialCountEl.value);
+
+    if (experimentState?.timerId) clearTimeout(experimentState.timerId);
+    experimentState = createExperimentState(nLevel, trialCount);
+
+    resultEl.textContent = 'Trwa zbieranie danych...';
+    matchBtn.disabled = false;
+    runNextTrial();
+  }
+
+  startBtn.addEventListener('click', startExperiment);
+  matchBtn.addEventListener('click', registerMatchResponse);
+
+  // Skrót klawiaturowy (spacja) zwiększa ergonomię badania i ogranicza opóźnienie reakcji.
+  window.addEventListener('keydown', (event) => {
+    if (event.code === 'Space' && experimentState) {
+      event.preventDefault();
+      registerMatchResponse();
+    }
+  });
+</script>
+</body>
+</html>

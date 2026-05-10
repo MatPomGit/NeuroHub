@@ -2132,8 +2132,6 @@ function getVoicePreset(mode) {
   return SPEECH_VOICE_PRESETS[mode] || SPEECH_VOICE_PRESETS.natural;
 }
 
-
-
 /* Wybiera najlepszy głos dla języka polskiego, preferując naturalniejsze głosy systemowe. */
 function choosePreferredVoice(mode) {
   const preset = getVoicePreset(mode);

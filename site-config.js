@@ -64,7 +64,7 @@ window.SITE_CONFIG = {
         methodologyLinks: ['psychometrics/rzetelnosc', 'psychometrics/trafnosc', 'psychometrics/normalizacja', 'diagnostics/testy_przeglad'],
         primarySourceYear: 1975,
         reliability: 'Wysoka stabilnosc wynikow w badaniach przesiewowych seniorow.',
-        validity: 'Dobra trafnosc przesiewowa dla otepienia; ograniczona czulosďż˝! dla MCI.',
+        validity: 'Dobra trafnosc przesiewowa dla otepienia; ograniczona czulosc dla MCI.',
         normsInfo: 'Normy zalezne od wieku i wyksztalcenia; interpretacja wymaga tabel lokalnych.',
         limitations: 'Wynik zalezy od edukacji, deficytow sensorycznych i kompetencji jezykowych.',
         ethicalNotes: 'Nie powinien byc jedyna podstawa decyzji klinicznych lub prawnych.',
@@ -365,11 +365,11 @@ window.SITE_CONFIG = {
         language: ['pl', 'en'],
         articleLinks: ['diagnostics/testy_uwagi', 'diagnostics/testy_wykonawcze'],
         methodologyLinks: ['psychometrics/rzetelnosc', 'diagnostics/testy_uwagi', 'psychometrics/normalizacja'],
-        /* Wyjatek redakcyjny: dla TMT podawane sa rBzne daty l_rBdlowe (1l44/1l45); przyjmujemy 1l44 jako rok wersji bazowej Army Individual Test Battery. */
+        /* Wyjatek redakcyjny: dla TMT podawane sa rozne daty zrodlowe (1944/1945); przyjmujemy 1944 jako rok wersji bazowej Army Individual Test Battery. */
         primarySourceYear: 1944,
         reliability: 'Umiarkowana stabilnosc; czesc B bardziej wrazliwa na czynniki sytuacyjne.',
         validity: 'Dobra trafnosc do oceny przetwarzania i elastycznosci poznawczej.',
-        normsInfo: 'Wyniki nalezy odnosiďż˝! do norm wieku i edukacji.',
+        normsInfo: 'Wyniki nalezy odnosic do norm wieku i edukacji.',
         limitations: 'Wynik zalezy od sprawnosci motorycznej i umiejetnosci wzrokowo-przestrzennych.',
         ethicalNotes: 'Unikac nadinterpretacji pojedynczego wskaznika B-A.',
         contraindications: 'Przeciwwskazane przy istotnych zaburzeniach motoryki reki dominujacej.',

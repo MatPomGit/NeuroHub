@@ -2488,6 +2488,57 @@ function setupSpeechControls() {
 /* â”€â”€ Sidebar mobile â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
 function openSidebar()  { document.getElementById('sidebar').classList.add('open');  document.getElementById('overlay').classList.add('open'); }
 function closeSidebar() { document.getElementById('sidebar').classList.remove('open'); document.getElementById('overlay').classList.remove('open'); }
+function getMainSections() {
+  if (!Array.isArray(SITE_CONFIG?.nav)) return [];
+  return SITE_CONFIG.nav
+    .map(section => {
+      const firstItem = Array.isArray(section?.items) ? section.items.find(item => item?.id) : null;
+      if (!section?.section || !firstItem?.id) return null;
+      return { label: section.section, id: firstItem.id };
+    })
+    .filter(Boolean);
+}
+
+/* Buduje mobilny panel rozdziałów i obsługuje szybkie przejście do głównych sekcji. */
+function setupMobileChaptersPanel() {
+  const panel = document.getElementById('mobileChaptersPanel');
+  const list = document.getElementById('mobileChaptersList');
+  const toggleBtn = document.getElementById('mobileChaptersButton');
+  if (!panel || !list || !toggleBtn) return;
+
+  const sections = getMainSections();
+  list.innerHTML = sections.map(section => (
+    `<button type="button" class="mobile-chapter-item" data-section-id="${q(section.id)}">${q(section.label)}</button>`
+  )).join('');
+
+  const closePanel = () => {
+    panel.classList.remove('open');
+    panel.hidden = true;
+    toggleBtn.setAttribute('aria-expanded', 'false');
+  };
+
+  const openPanel = () => {
+    panel.hidden = false;
+    panel.classList.add('open');
+    toggleBtn.setAttribute('aria-expanded', 'true');
+  };
+
+  toggleBtn.addEventListener('click', () => {
+    if (panel.classList.contains('open')) closePanel();
+    else openPanel();
+  });
+
+  list.addEventListener('click', (event) => {
+    const button = event.target.closest('[data-section-id]');
+    if (!button) return;
+    navigate(button.dataset.sectionId);
+    closePanel();
+  });
+
+  document.addEventListener('keydown', (event) => {
+    if (event.key === 'Escape') closePanel();
+  });
+}
 
 /* Rejestruje globalne akcje UI bez inline handlerĂłw, w tym skrĂłty klawiaturowe. */
 function setupGlobalInteractions() {
@@ -2771,6 +2822,7 @@ window.addEventListener('DOMContentLoaded', ()=>{
   void applySearchUi();
   void ensureFullTextSearchIndex();
   setupGlobalInteractions();
+  setupMobileChaptersPanel();
   setupSpeechControls();
   void initMobilePsychologyReminders();
   animateSidebar();
@@ -2853,5 +2905,4 @@ window.addEventListener('hashchange', () => {
     scrollToArticleSection(sectionId);
   }
 });
-
 

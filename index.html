@@ -89,6 +89,9 @@
         <line x1="3" y1="18" x2="21" y2="18"/>
       </svg>
     </button>
+    <button class="btn-mobile-chapters" id="mobileChaptersButton" type="button" aria-label="Pokaż główne rozdziały" aria-expanded="false" aria-controls="mobileChaptersPanel">
+      Rozdziały
+    </button>
     <nav class="breadcrumb" id="breadcrumb" aria-label="Okruszki nawigacji">
       <a href="#" id="breadcrumbHomeLink">PsyHub</a>
     </nav>
@@ -111,6 +114,9 @@
       </div>
     </div>
   </header>
+  <section class="mobile-chapters-panel" id="mobileChaptersPanel" aria-label="Główne rozdziały serwisu" hidden>
+    <div class="mobile-chapters-list" id="mobileChaptersList"></div>
+  </section>
 
   <section class="content" id="content" aria-live="polite" tabindex="-1">
     <div class="loading"><div class="spinner"></div>Ładowanie…</div>

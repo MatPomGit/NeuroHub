@@ -22,9 +22,9 @@ Poni9=sza mapa porzďż˝&dkuje relacje miďż˝"dzy nowo dodanymi artyku9ami a
 | --- | --- | --- | --- |
 | [`doswiadczenie_somatyczne/wprowadzenie_do_doswiadczenia_somatycznego`](../doswiadczenie_somatyczne/wprowadzenie_do_doswiadczenia_somatycznego.md) | Somatic Experiencing, Psychopatologia, Psychologia zdrowia | [`psychotherapy/emdr`](../psychoterapia/emdr.md), [`psychotherapy/systemowa`](../psychoterapia/systemowa.md), [`psychopathology/trauma_ptsd`](../psychopatologia/trauma_ptsd.md), [`health_psychology/stres`](../psychologia_zdrowia/stres.md) | WspBlny rdze9: trauma, regulacja pobudzenia, interwencje kliniczne. |
 | [`psychotherapy/systemy_rodzinne`](../psychoterapia/systemy_rodzinne.md) | Psychoterapia, Relacje, Uzale9=nienia | [`psychotherapy/systemowa`](../psychoterapia/systemowa.md), [`relacje/relacje_rodzinne`](../relacje/relacje_rodzinne.md), [`uzaleznienia/rodzina_w_uzaleznieniach`](../uzaleznienia/rodzina_w_uzaleznieniach.md) | WspBlny rdze9: dynamika rodziny, role, granice, sprzďż˝"9=enia zwrotne. |
-| [`students/wystapienia_publiczne_autoprezentacja`](../dla_studentow/wystapienia_publiczne_autoprezentacja.md) | Dla studentBw, Psychologia spo9eczna | [`students/sciezki_kariery`](../dla_studentow/sciezki_kariery.md), [`spoleczna/perswazja`](../spoleczna/perswazja.md), [`spoleczna/ja_i_samoocena`](../spoleczna/ja_i_samoocena.md) | WspBlny rdze9: wp9yw spo9eczny, lďż˝"k przed ocenďż˝&, kompetencje zawodowe. |
+| [`students/wystapienia_publiczne_autoprezentacja`](../dla_studentow/wystapienia_publiczne_autoprezentacja.md) | Dla studentBw, Psychologia spo9eczna | [`students/sciezki_kariery`](../dla_studentow/sciezki_kariery.md), [`spoleczna/perswazja`](../psychologia_spoleczna/perswazja.md), [`spoleczna/ja_i_samoocena`](../psychologia_spoleczna/ja_i_samoocena.md) | WspBlny rdze9: wp9yw spo9eczny, lďż˝"k przed ocenďż˝&, kompetencje zawodowe. |
 | [`students/psycholog_w_it`](../dla_studentow/psycholog_w_it.md) | Dla studentBw, Psychologia technologii i dobrostan cyfrowy | [`students/sciezki_kariery`](../dla_studentow/sciezki_kariery.md), [`technology_psychology/technologia_w_pracy`](../psychologia_technologii/technologia_w_pracy.md), [`technology_psychology/algorytmy_a_samoocena`](../psychologia_technologii/algorytmy_a_samoocena.md) | WspBlny rdze9: 9:cie9=ki kariery, metodologia bada9, etyka technologii. |
-| [`neuro/zachowanie_i_dwie_polkule_mozgu`](../neuro/zachowanie_i_dwie_polkule_mozgu.md) | Neurobiologia, Funkcje poznawcze, Przypadki kliniczne | [`neuro/lateralizacja`](../neuro/lateralizacja.md), [`przypadki_kliniczne/split_brain`](../przypadki_kliniczne/split_brain.md), [`cognitive/system1_system2`](../poznawcza/system1_system2.md), [`neuro/neuronauka_poznawcza`](../neuro/neuronauka_poznawcza.md) | WspBlny rdze9: lateralizacja, integracja miďż˝"dzypB9kulowa, neuromity. |
+| [`neuro/zachowanie_i_dwie_polkule_mozgu`](../neuropsychologia/zachowanie_i_dwie_polkule_mozgu.md) | Neurobiologia, Funkcje poznawcze, Przypadki kliniczne | [`neuro/lateralizacja`](../neuropsychologia/lateralizacja.md), [`przypadki_kliniczne/split_brain`](../przypadki_kliniczne/split_brain.md), [`cognitive/system1_system2`](../psychologia_poznawcza/system1_system2.md), [`neuro/neuronauka_poznawcza`](../neuropsychologia/neuronauka_poznawcza.md) | WspBlny rdze9: lateralizacja, integracja miďż˝"dzypB9kulowa, neuromity. |
 
 ## Dobra praktyka
 
@@ -52,5 +52,7 @@ Dla przeglďż˝&du tre9:ci wymagajďż˝&cych dalszego podlinkowania zobacz rap
 
 1. American Psychological Association. (2020). *Publication Manual of the American Psychological Association* (7th ed.).
 2. Norman, D. A. (2013). *The Design of Everyday Things* (Revised and Expanded). Basic Books.
+
+
 
 

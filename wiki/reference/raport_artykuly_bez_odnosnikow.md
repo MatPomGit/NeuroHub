@@ -177,34 +177,34 @@ Poni9=ej znajdujďż˝& siďż˝" bezpo9:rednie odno9:niki do artyku9Bw bez li
 
 ### cognitive
 
-- [`cognitive/architektury_kognitywne.md`](../poznawcza/architektury_kognitywne.md)
-- [`cognitive/efekt_ramowania.md`](../poznawcza/efekt_ramowania.md)
-- [`cognitive/eksperyment_posnera.md`](../poznawcza/eksperyment_posnera.md)
-- [`cognitive/exploration_exploitation_dilemma.md`](../poznawcza/exploration_exploitation_dilemma.md)
-- [`cognitive/funkcje_wykonawcze.md`](../poznawcza/funkcje_wykonawcze.md)
-- [`cognitive/hda.md`](../poznawcza/hda.md)
-- [`cognitive/iluzje.md`](../poznawcza/iluzje.md)
-- [`cognitive/jezyk.md`](../poznawcza/jezyk.md)
-- [`cognitive/maly_albert.md`](../poznawcza/maly_albert.md)
-- [`cognitive/myslenie.md`](../poznawcza/myslenie.md)
-- [`cognitive/nasa_tlx.md`](../poznawcza/nasa_tlx.md)
-- [`cognitive/nauki_kognitywne.md`](../poznawcza/nauki_kognitywne.md)
-- [`cognitive/pamiec.md`](../poznawcza/pamiec.md)
-- [`cognitive/pamiec_dlugotrwala.md`](../poznawcza/pamiec_dlugotrwala.md)
-- [`cognitive/percepcja.md`](../poznawcza/percepcja.md)
-- [`cognitive/podejmowanie_decyzji.md`](../poznawcza/podejmowanie_decyzji.md)
-- [`cognitive/przetwarzanie_predyktywne.md`](../poznawcza/przetwarzanie_predyktywne.md)
-- [`cognitive/przyklad_testu_stroopa.md`](../poznawcza/przyklad_testu_stroopa.md)
-- [`cognitive/swiadomosc.md`](../poznawcza/swiadomosc.md)
-- [`cognitive/teoria_perspektywy.md`](../poznawcza/teoria_perspektywy.md)
-- [`cognitive/test_stroopa.md`](../poznawcza/test_stroopa.md)
-- [`cognitive/ucielesnienie.md`](../poznawcza/ucielesnienie.md)
-- [`cognitive/uczenie.md`](../poznawcza/uczenie.md)
-- [`cognitive/uklad_siatkowaty.md`](../poznawcza/uklad_siatkowaty.md)
-- [`cognitive/uwaga.md`](../poznawcza/uwaga.md)
-- [`cognitive/uwaga_mimowolna.md`](../poznawcza/uwaga_mimowolna.md)
-- [`cognitive/wyobraznia.md`](../poznawcza/wyobraznia.md)
-- [`cognitive/zmeczenie_poznawcze.md`](../poznawcza/zmeczenie_poznawcze.md)
+- [`cognitive/architektury_kognitywne.md`](../psychologia_poznawcza/architektury_kognitywne.md)
+- [`cognitive/efekt_ramowania.md`](../psychologia_poznawcza/efekt_ramowania.md)
+- [`cognitive/eksperyment_posnera.md`](../psychologia_poznawcza/eksperyment_posnera.md)
+- [`cognitive/exploration_exploitation_dilemma.md`](../psychologia_poznawcza/exploration_exploitation_dilemma.md)
+- [`cognitive/funkcje_wykonawcze.md`](../psychologia_poznawcza/funkcje_wykonawcze.md)
+- [`cognitive/hda.md`](../psychologia_poznawcza/hda.md)
+- [`cognitive/iluzje.md`](../psychologia_poznawcza/iluzje.md)
+- [`cognitive/jezyk.md`](../psychologia_poznawcza/jezyk.md)
+- [`cognitive/maly_albert.md`](../psychologia_poznawcza/maly_albert.md)
+- [`cognitive/myslenie.md`](../psychologia_poznawcza/myslenie.md)
+- [`cognitive/nasa_tlx.md`](../psychologia_poznawcza/nasa_tlx.md)
+- [`cognitive/nauki_kognitywne.md`](../psychologia_poznawcza/nauki_kognitywne.md)
+- [`cognitive/pamiec.md`](../psychologia_poznawcza/pamiec.md)
+- [`cognitive/pamiec_dlugotrwala.md`](../psychologia_poznawcza/pamiec_dlugotrwala.md)
+- [`cognitive/percepcja.md`](../psychologia_poznawcza/percepcja.md)
+- [`cognitive/podejmowanie_decyzji.md`](../psychologia_poznawcza/podejmowanie_decyzji.md)
+- [`cognitive/przetwarzanie_predyktywne.md`](../psychologia_poznawcza/przetwarzanie_predyktywne.md)
+- [`cognitive/przyklad_testu_stroopa.md`](../psychologia_poznawcza/przyklad_testu_stroopa.md)
+- [`cognitive/swiadomosc.md`](../psychologia_poznawcza/swiadomosc.md)
+- [`cognitive/teoria_perspektywy.md`](../psychologia_poznawcza/teoria_perspektywy.md)
+- [`cognitive/test_stroopa.md`](../psychologia_poznawcza/test_stroopa.md)
+- [`cognitive/ucielesnienie.md`](../psychologia_poznawcza/ucielesnienie.md)
+- [`cognitive/uczenie.md`](../psychologia_poznawcza/uczenie.md)
+- [`cognitive/uklad_siatkowaty.md`](../psychologia_poznawcza/uklad_siatkowaty.md)
+- [`cognitive/uwaga.md`](../psychologia_poznawcza/uwaga.md)
+- [`cognitive/uwaga_mimowolna.md`](../psychologia_poznawcza/uwaga_mimowolna.md)
+- [`cognitive/wyobraznia.md`](../psychologia_poznawcza/wyobraznia.md)
+- [`cognitive/zmeczenie_poznawcze.md`](../psychologia_poznawcza/zmeczenie_poznawcze.md)
 
 ### diagnostics
 
@@ -442,21 +442,21 @@ Poni9=ej znajdujďż˝& siďż˝" bezpo9:rednie odno9:niki do artyku9Bw bez li
 
 ### neuro
 
-- [`neuro/muse.md`](../neuro/muse.md)
-- [`neuro/anatomia.md`](../neuro/anatomia.md)
-- [`neuro/cykl_miesiaczkowy.md`](../neuro/cykl_miesiaczkowy.md)
-- [`neuro/eye_tracking.md`](../neuro/eye_tracking.md)
-- [`neuro/kora_prefrontalna.md`](../neuro/kora_prefrontalna.md)
-- [`neuro/myelinizacja.md`](../neuro/myelinizacja.md)
-- [`neuro/neuron.md`](../neuro/neuron.md)
-- [`neuro/neuroobrazowanie.md`](../neuro/neuroobrazowanie.md)
-- [`neuro/pien_mozgu.md`](../neuro/pien_mozgu.md)
-- [`neuro/plastycznosc.md`](../neuro/plastycznosc.md)
-- [`neuro/podstawy_neurologii.md`](../neuro/podstawy_neurologii.md)
-- [`neuro/przesilenie_wiosenne.md`](../neuro/przesilenie_wiosenne.md)
-- [`neuro/rehabilitacja_neuropsychologiczna.md`](../neuro/rehabilitacja_neuropsychologiczna.md)
-- [`neuro/systemy.md`](../neuro/systemy.md)
-- [`neuro/uklad_limbiczny.md`](../neuro/uklad_limbiczny.md)
+- [`neuro/muse.md`](../neuropsychologia/muse.md)
+- [`neuro/anatomia.md`](../neuropsychologia/anatomia.md)
+- [`neuro/cykl_miesiaczkowy.md`](../neuropsychologia/cykl_miesiaczkowy.md)
+- [`neuro/eye_tracking.md`](../neuropsychologia/eye_tracking.md)
+- [`neuro/kora_prefrontalna.md`](../neuropsychologia/kora_prefrontalna.md)
+- [`neuro/myelinizacja.md`](../neuropsychologia/myelinizacja.md)
+- [`neuro/neuron.md`](../neuropsychologia/neuron.md)
+- [`neuro/neuroobrazowanie.md`](../neuropsychologia/neuroobrazowanie.md)
+- [`neuro/pien_mozgu.md`](../neuropsychologia/pien_mozgu.md)
+- [`neuro/plastycznosc.md`](../neuropsychologia/plastycznosc.md)
+- [`neuro/podstawy_neurologii.md`](../neuropsychologia/podstawy_neurologii.md)
+- [`neuro/przesilenie_wiosenne.md`](../neuropsychologia/przesilenie_wiosenne.md)
+- [`neuro/rehabilitacja_neuropsychologiczna.md`](../neuropsychologia/rehabilitacja_neuropsychologiczna.md)
+- [`neuro/systemy.md`](../neuropsychologia/systemy.md)
+- [`neuro/uklad_limbiczny.md`](../neuropsychologia/uklad_limbiczny.md)
 
 ### neurodiversity
 
@@ -754,18 +754,18 @@ Poni9=ej znajdujďż˝& siďż˝" bezpo9:rednie odno9:niki do artyku9Bw bez li
 
 ### rozwojowa
 
-- [`rozwojowa/adolescencja.md`](../rozwojowa/adolescencja.md)
-- [`rozwojowa/doroslosc.md`](../rozwojowa/doroslosc.md)
-- [`rozwojowa/metody_podluzne.md`](../rozwojowa/metody_podluzne.md)
-- [`rozwojowa/niemowlectwo.md`](../rozwojowa/niemowlectwo.md)
-- [`rozwojowa/plastycznosc_mozgu.md`](../rozwojowa/plastycznosc_mozgu.md)
-- [`rozwojowa/przywiazanie.md`](../rozwojowa/przywiazanie.md)
-- [`rozwojowa/rodzicielstwo.md`](../rozwojowa/rodzicielstwo.md)
-- [`rozwojowa/rozwoj_jezyka.md`](../rozwojowa/rozwoj_jezyka.md)
-- [`rozwojowa/teorie_rozwoju.md`](../rozwojowa/teorie_rozwoju.md)
-- [`rozwojowa/tozsamosc.md`](../rozwojowa/tozsamosc.md)
-- [`rozwojowa/trauma_rozwojowa.md`](../rozwojowa/trauma_rozwojowa.md)
-- [`rozwojowa/wiek_szkolny.md`](../rozwojowa/wiek_szkolny.md)
+- [`rozwojowa/adolescencja.md`](../psychologia_rozwojowa/adolescencja.md)
+- [`rozwojowa/doroslosc.md`](../psychologia_rozwojowa/doroslosc.md)
+- [`rozwojowa/metody_podluzne.md`](../psychologia_rozwojowa/metody_podluzne.md)
+- [`rozwojowa/niemowlectwo.md`](../psychologia_rozwojowa/niemowlectwo.md)
+- [`rozwojowa/plastycznosc_mozgu.md`](../psychologia_rozwojowa/plastycznosc_mozgu.md)
+- [`rozwojowa/przywiazanie.md`](../psychologia_rozwojowa/przywiazanie.md)
+- [`rozwojowa/rodzicielstwo.md`](../psychologia_rozwojowa/rodzicielstwo.md)
+- [`rozwojowa/rozwoj_jezyka.md`](../psychologia_rozwojowa/rozwoj_jezyka.md)
+- [`rozwojowa/teorie_rozwoju.md`](../psychologia_rozwojowa/teorie_rozwoju.md)
+- [`rozwojowa/tozsamosc.md`](../psychologia_rozwojowa/tozsamosc.md)
+- [`rozwojowa/trauma_rozwojowa.md`](../psychologia_rozwojowa/trauma_rozwojowa.md)
+- [`rozwojowa/wiek_szkolny.md`](../psychologia_rozwojowa/wiek_szkolny.md)
 
 ### school_psychology
 
@@ -802,19 +802,19 @@ Poni9=ej znajdujďż˝& siďż˝" bezpo9:rednie odno9:niki do artyku9Bw bez li
 
 ### spoleczna
 
-- [`spoleczna/agresja.md`](../spoleczna/agresja.md)
-- [`spoleczna/atrakcyjnosc.md`](../spoleczna/atrakcyjnosc.md)
-- [`spoleczna/dynamika_grupowa.md`](../spoleczna/dynamika_grupowa.md)
-- [`spoleczna/eksperyment_wiezienny.md`](../spoleczna/eksperyment_wiezienny.md)
-- [`spoleczna/hejt_w_sieci.md`](../spoleczna/hejt_w_sieci.md)
-- [`spoleczna/konformizm.md`](../spoleczna/konformizm.md)
-- [`spoleczna/manipulacja.md`](../spoleczna/manipulacja.md)
-- [`spoleczna/manosfera_feminizm.md`](../spoleczna/manosfera_feminizm.md)
-- [`spoleczna/percepcja_spoleczna.md`](../spoleczna/percepcja_spoleczna.md)
-- [`spoleczna/postawy.md`](../spoleczna/postawy.md)
-- [`spoleczna/stereotypy.md`](../spoleczna/stereotypy.md)
-- [`spoleczna/zachowania_prospoleczne.md`](../spoleczna/zachowania_prospoleczne.md)
-- [`spoleczna/zdrowe_poczucie_wlasnej_wartosci.md`](../spoleczna/zdrowe_poczucie_wlasnej_wartosci.md)
+- [`spoleczna/agresja.md`](../psychologia_spoleczna/agresja.md)
+- [`spoleczna/atrakcyjnosc.md`](../psychologia_spoleczna/atrakcyjnosc.md)
+- [`spoleczna/dynamika_grupowa.md`](../psychologia_spoleczna/dynamika_grupowa.md)
+- [`spoleczna/eksperyment_wiezienny.md`](../psychologia_spoleczna/eksperyment_wiezienny.md)
+- [`spoleczna/hejt_w_sieci.md`](../psychologia_spoleczna/hejt_w_sieci.md)
+- [`spoleczna/konformizm.md`](../psychologia_spoleczna/konformizm.md)
+- [`spoleczna/manipulacja.md`](../psychologia_spoleczna/manipulacja.md)
+- [`spoleczna/manosfera_feminizm.md`](../psychologia_spoleczna/manosfera_feminizm.md)
+- [`spoleczna/percepcja_spoleczna.md`](../psychologia_spoleczna/percepcja_spoleczna.md)
+- [`spoleczna/postawy.md`](../psychologia_spoleczna/postawy.md)
+- [`spoleczna/stereotypy.md`](../psychologia_spoleczna/stereotypy.md)
+- [`spoleczna/zachowania_prospoleczne.md`](../psychologia_spoleczna/zachowania_prospoleczne.md)
+- [`spoleczna/zdrowe_poczucie_wlasnej_wartosci.md`](../psychologia_spoleczna/zdrowe_poczucie_wlasnej_wartosci.md)
 
 ### students
 
@@ -923,6 +923,8 @@ Najwa9=niejszy wniosek jest taki, 9=e rzetelne rozumienie omawianego tematu wyma
 3. Nďż˝"cka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
 4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
 5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+
+
 
 
 

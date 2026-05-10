@@ -1794,18 +1794,18 @@ function renderHome() {
         <span class="recent-section">${item.section || 'PsyHub'}</span>
         <span class="recent-title">${item.label}</span>
       </button>`).join('')}</div>`
-    : `<p class="recent-empty">Tu pojawiÄ… siÄ™ ostatnio otwierane strony. Zacznij od jednej karty â€žStart tutajâ€ť.</p>`;
+    : `<p class="recent-empty">Tu pojawią się ostatnio otwierane strony. Zacznij od jednej karty „Start tutaj”.</p>`;
 
   area.innerHTML = `<div class="rendered">
     <div class="home-hero">
       <div class="home-eyebrow">Portal Wiedzy Psychologicznej</div>
       <h1>Witaj w <span>PsyHub</span></h1>
-      <p>Wybierz Ĺ›cieĹĽkÄ™ i zacznij od razu. KrĂłtkie kroki pomogÄ… Ci uczyÄ‡ siÄ™ szybciej i z mniejszym stresem.</p>
+      <p>Wybierz ścieżkę i zacznij od razu. Krótkie kroki pomogą Ci uczyć się szybciej i z mniejszym stresem.</p>
       <div class="home-stats">
-        <div><div class="stat-val">${totalMd}</div><div class="stat-lbl">ArtykuĹ‚Ăłw</div></div>
+        <div><div class="stat-val">${totalMd}</div><div class="stat-lbl">Artykułów</div></div>
         <div><div class="stat-val">${totalPlan}</div><div class="stat-lbl">Zaplanowanych</div></div>
         <div><div class="stat-val">${totalWiki}</div><div class="stat-lbl">Encyklopedii</div></div>
-        <div><div class="stat-val">${domains.length}</div><div class="stat-lbl">DziaĹ‚Ăłw</div></div>
+        <div><div class="stat-val">${domains.length}</div><div class="stat-lbl">Działów</div></div>
       </div>
     </div>
     <section class="home-block">

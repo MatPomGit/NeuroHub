@@ -1,39 +1,39 @@
 ﻿# Szablon artykuĹ‚u (APA 7)
 
 ## Wprowadzenie i kontekst
-- KrĂłtko opisz tĹ‚o tematu, jego znaczenie i aktualnoĹ›Ä‡.
-- JeĹ›li podajesz dane liczbowe, dodaj ĹşrĂłdĹ‚o w tekĹ›cie (Autor, rok).
+ Krótko opisz tło tematu, jego znaczenie i aktualność.
+ Jeśli podajesz dane liczbowe, dodaj źródło w tekście (Autor, rok).
 
 ## Definicje
-- Zdefiniuj kluczowe pojÄ™cia operacyjnie.
-- WskaĹĽ ewentualne rĂłĹĽnice definicyjne miÄ™dzy podejĹ›ciami.
+ Zdefiniuj kluczowe pojęcia operacyjnie.
+ Wskaż ewentualne różnice definicyjne między podejściami.
 
 ## Analiza mechanizmĂłw
-- Opisz mechanizmy przyczynowo-skutkowe i zaleĹĽnoĹ›ci miÄ™dzy zmiennymi.
+ Opisz mechanizmy przyczynowo-skutkowe i zależności między zmiennymi.
 - Oddziel ustalenia empiryczne od interpretacji.
 
-## Dobra praktyka
-- Podaj co najmniej jeden przykĹ‚ad poprawnego postÄ™powania.
+ Podaj co najmniej jeden przykład poprawnego postępowania.
+ Krótko opisz konsekwencje pozytywne.
 - KrĂłtko opisz konsekwencje pozytywne.
 
-## ZĹ‚a praktyka / czÄ™sty bĹ‚Ä…d
-- Podaj co najmniej jeden czÄ™sty bĹ‚Ä…d.
+ Podaj co najmniej jeden częsty błąd.
+ Krótko opisz konsekwencje negatywne.
 - KrĂłtko opisz konsekwencje negatywne.
 
-## Perspektywa nieoczywista
+ Przedstaw alternatywne ujęcie problemu.
 - Przedstaw alternatywne ujÄ™cie problemu.
 - Uzasadnij je argumentami i danymi.
-
-## Podsumowanie
-- Zbierz najwaĹĽniejsze wnioski praktyczne i teoretyczne.
-
+ Zachowuj wartościową treść zastaną i integruj ją w poprawnych sekcjach zamiast usuwać.
+ Jeśli porządkujesz strukturę, przenoś akapity do adekwatnych rozdziałów i usuwaj jedynie duplikaty lub treści błędne.
+ Unikaj treści generycznych; każdy dodany akapit musi odnosić się bezpośrednio do tematu artykułu.
+ Przy tworzeniu nowego artykułu dopasuj folder wiki do tematu i stosuj nazwy plików w `snake_case` (małe litery).
 
 <!--
 ## Zasady edycji istniejÄ…cych artykuĹ‚Ăłw
 - Zachowuj wartoĹ›ciowÄ… treĹ›Ä‡ zastanÄ… i integruj jÄ… w poprawnych sekcjach zamiast usuwaÄ‡.
-- JeĹ›li porzÄ…dkujesz strukturÄ™, przenoĹ› akapity do adekwatnych rozdziaĹ‚Ăłw i usuwaj jedynie duplikaty lub treĹ›ci bĹ‚Ä™dne.
-- Unikaj treĹ›ci generycznych; kaĹĽdy dodany akapit musi odnosiÄ‡ siÄ™ bezpoĹ›rednio do tematu artykuĹ‚u.
-- Przy tworzeniu nowego artykuĹ‚u dopasuj folder wiki do tematu i stosuj nazwy plikĂłw w `snake_case` (maĹ‚e litery).
+ Autor, A. A. (Rok). *Tytuł artykułu. *Tytuł Czasopisma, wolumin*(numer), xx-xx. https://doi.org/xx.xxxx/xxxxx
+ Autor, A. A. (Rok). *Tytuł książki* (wydanie). Wydawnictwo.
+ Instytucja. (Rok). *Tytuł raportu*. URL
 -->
 
 ## Bibliografia

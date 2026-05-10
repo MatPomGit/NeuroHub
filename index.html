@@ -62,6 +62,9 @@
       <button class="theme-btn is-active" data-theme="dark"  title="Motyw ciemny" aria-label="Włącz motyw ciemny" aria-pressed="true"></button>
       <button class="theme-btn"        data-theme="light" title="Motyw jasny" aria-label="Włącz motyw jasny" aria-pressed="false"></button>
       <button class="theme-btn"        data-theme="sepia" title="Motyw sepia" aria-label="Włącz motyw sepia" aria-pressed="false"></button>
+      <button class="theme-btn"        data-theme="ocean" title="Motyw ocean" aria-label="Włącz motyw ocean" aria-pressed="false"></button>
+      <button class="theme-btn"        data-theme="forest" title="Motyw forest" aria-label="Włącz motyw forest" aria-pressed="false"></button>
+      <button class="theme-btn"        data-theme="sunset" title="Motyw sunset" aria-label="Włącz motyw sunset" aria-pressed="false"></button>
     </div>
     <div class="font-size-controls" aria-label="Ustawienia wielkości czcionki">
       <button type="button" class="font-btn" data-font-scale="normal" title="Standardowa wielkość czcionki" aria-label="Standardowa wielkość czcionki">A</button>
@@ -92,9 +95,20 @@
     <div class="topbar-next" id="topbarNextStep" aria-live="polite"></div>
     <div class="speech-controls" aria-label="Czytanie treści na głos">
       <button type="button" class="speech-btn" id="speechToggle" aria-pressed="false" aria-label="Rozpocznij czytanie bieżącego artykułu" title="Rozpocznij czytanie artykułu">▶ Czytaj artykuł</button>
-      <button type="button" class="speech-btn" id="speechStop" aria-label="Zatrzymaj czytanie" title="Zatrzymaj czytanie artykułu">■ Stop</button>
-      <button type="button" class="speech-btn" id="speechAutoNext" aria-pressed="false" aria-label="Automatyczne przejście do kolejnego artykułu wyłączone" title="Automatyczne przejście do kolejnego artykułu">Auto-next: OFF</button>
-      <button type="button" class="speech-btn" id="speechVoiceMode" aria-pressed="false" aria-label="Tryb głosu naturalny" title="Przełącz preferowany styl głosu">Głos: naturalny</button>
+      <button type="button" class="speech-btn speech-collapse-btn" id="speechOptionsToggle" aria-expanded="true" aria-controls="speechOptionsPanel" aria-label="Zwiń panel opcji czytania na głos" title="Zwiń lub rozwiń opcje czytania">Opcje ▲</button>
+      <div class="speech-options-panel" id="speechOptionsPanel">
+        <button type="button" class="speech-btn" id="speechStop" aria-label="Zatrzymaj czytanie" title="Zatrzymaj czytanie artykułu">■ Stop</button>
+        <button type="button" class="speech-btn" id="speechAutoNext" aria-pressed="false" aria-label="Automatyczne przejście do kolejnego artykułu wyłączone" title="Automatyczne przejście do kolejnego artykułu">Auto-next: OFF</button>
+        <label class="speech-voice-select-wrap" for="speechVoiceMode">Głos:
+          <select class="speech-voice-select" id="speechVoiceMode" aria-label="Wybierz styl głosu czytającego">
+            <option value="natural">Naturalny</option>
+            <option value="alt">Alternatywny</option>
+            <option value="calm">Spokojny</option>
+            <option value="dynamic">Dynamiczny</option>
+            <option value="deep">Niski</option>
+          </select>
+        </label>
+      </div>
     </div>
   </header>
 

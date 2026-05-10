@@ -61,7 +61,7 @@ Psycholog prowadzi badanie rozwoju osób starszych i stosuje polską adaptację 
 - mniejsze ryzyko stygmatyzacji,
 - większa użyteczność wyniku dla planowania wsparcia psychologicznego.
 
-## Przykład złej praktyki (częsty błąd)
+### Przykład złej praktyki (częsty błąd)
 
 Instytucja szkoleniowa używa pojedynczego wyniku 3D-WS do rankingowania kandydatów na liderów i komunikuje rezultat jako obiektywną miarę „dojrzałości moralnej”, bez omówienia ograniczeń metody.
 

@@ -42,4 +42,28 @@
 - [ ] **Nowa zakładka z 12 artykułami „Wystąpienia publiczne i autoprezentacja”**
 - [ ] **Nowa zakładka z 12 artykułami „Psycholog w IT”**
 
+## Backlog jakości kodu (audyt 2026-05-10)
 
+- [ ] **Literówka/encoding w etykiecie nawigacji (`site-config.js`)**
+  **Cel:** poprawić zniekształconą etykietę `Interwencja kryzysowa i dz ~Niebieska Kartadz e` na poprawną językowo formę.
+  **Uzasadnienie:** aktualna treść wygląda na artefakt kodowania i obniża czytelność UI.
+  **Zakres:** skorygować etykietę w obu miejscach konfiguracji (sekcja `nav` i `plans`), a następnie uruchomić walidację konfiguracji.
+  **Akceptacja:** brak zniekształconych znaków w etykiecie + `python3 tools/check_config.py --strict-nav-plan` kończy się bez nowych błędów.
+
+- [ ] **Usunięcie błędu jakości danych: uszkodzone znaki w wielu labelach (`site-config.js`)**
+  **Cel:** naprawić wszystkie wpisy typu `rBznicowa`, `nawrotBw` i podobne artefakty kodowania.
+  **Uzasadnienie:** to błąd merytoryczny i UX (niepoprawne nazwy artykułów mogą utrudniać wyszukiwanie i indeksowanie).
+  **Zakres:** przygotować listę wystąpień (regex dla nietypowych sekwencji), poprawić wartości i uruchomić kontrolę regresji dla wyszukiwarki.
+  **Akceptacja:** brak wykryć wzorców artefaktów kodowania w `site-config.js` oraz przejście `node tools/check_content.js`.
+
+- [ ] **Korekta komentarza do kodu (mojibake) w `app.js`**
+  **Cel:** poprawić komentarze przy `getVoicePreset` i `choosePreferredVoice`, które zawierają zniekształcone polskie znaki.
+  **Uzasadnienie:** komentarze są częścią dokumentacji technicznej; obecna forma utrudnia utrzymanie.
+  **Zakres:** podmienić komentarze na poprawną polszczyznę i dodać krótki sanity-check kodowania UTF-8 dla plików JS w narzędziach CI.
+  **Akceptacja:** komentarze są czytelne po otwarciu pliku i nie zawierają ciągów `gĹ`/`Ä`.
+
+- [ ] **Ulepszenie testu: wykrywanie artefaktów kodowania w konfiguracji**
+  **Cel:** dodać test automatyczny, który blokuje commity z uszkodzonymi znakami w labelach i opisach `site-config.js`.
+  **Uzasadnienie:** obecne testy nie łapią regresji encodingu, mimo że problem już występuje.
+  **Zakres:** rozszerzyć `tools/lint-measurement-tools-config.js` lub dodać nowy test w `tools/run-node-tests.js`, który skanuje `site-config.js` pod kątem podejrzanych sekwencji (np. `~N`, `Bz`, `Ĺ`, `Ä`).
+  **Akceptacja:** test failuje na aktualnych danych z artefaktami i przechodzi po ich poprawie.

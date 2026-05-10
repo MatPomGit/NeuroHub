@@ -2626,7 +2626,7 @@ window.addEventListener('DOMContentLoaded', ()=>{
 /* ── Theme switcher ────────────────────────── */
 (function() {
   const DEFAULT_THEME = 'dark';
-  const THEMES = [DEFAULT_THEME, 'light', 'sepia'];
+  const THEMES = [DEFAULT_THEME, 'light', 'sepia', 'ocean', 'forest', 'sunset'];
   const stored = localStorage.getItem('psyhub-theme') || DEFAULT_THEME;
   const active  = THEMES.includes(stored) ? stored : DEFAULT_THEME;
   const DEFAULT_FONT_SCALE = 'normal';

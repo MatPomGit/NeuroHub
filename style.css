@@ -95,6 +95,78 @@
   --focus-bg: rgba(232,188,90,.14);
 }
 
+[data-theme="ocean"] {
+  --bg:      #07131c;
+  --bg2:     #0b1c28;
+  --bg3:     #102838;
+  --bg4:     #153447;
+  --border:  #1e4459;
+  --bord2:   #28546d;
+  --t1: #eef8ff;
+  --t2: #b7d3e5;
+  --t3: #87a8be;
+  --gold:    #56c9d9;
+  --goldt:   rgba(86,201,217,.14);
+  --goldl:   #89ecf4;
+  --blue:    #69aee8;
+  --teal:    #52c3b8;
+  --rose:    #d07b9e;
+  --green:   #69b88b;
+  --purple:  #8fa8f4;
+  --topbar-bg: rgba(7,19,28,.93);
+  --hover-subtle: rgba(255,255,255,.04);
+  --focus-ring: 0 0 0 2px rgba(86,201,217,.48);
+  --focus-bg: rgba(86,201,217,.14);
+}
+
+[data-theme="forest"] {
+  --bg:      #0d1510;
+  --bg2:     #132018;
+  --bg3:     #1a2a20;
+  --bg4:     #213427;
+  --border:  #2a4633;
+  --bord2:   #355640;
+  --t1: #eef8ef;
+  --t2: #c0d7c4;
+  --t3: #93b09a;
+  --gold:    #8ccd67;
+  --goldt:   rgba(140,205,103,.14);
+  --goldl:   #c9f29d;
+  --blue:    #7db7d8;
+  --teal:    #6ac2a2;
+  --rose:    #c87f91;
+  --green:   #8ccd67;
+  --purple:  #a891e0;
+  --topbar-bg: rgba(13,21,16,.93);
+  --hover-subtle: rgba(255,255,255,.035);
+  --focus-ring: 0 0 0 2px rgba(140,205,103,.44);
+  --focus-bg: rgba(140,205,103,.13);
+}
+
+[data-theme="sunset"] {
+  --bg:      #1f1110;
+  --bg2:     #2a1714;
+  --bg3:     #36201c;
+  --bg4:     #442722;
+  --border:  #55322d;
+  --bord2:   #69413a;
+  --t1: #fff1ea;
+  --t2: #e2c3b8;
+  --t3: #bc988a;
+  --gold:    #ff9b4d;
+  --goldt:   rgba(255,155,77,.14);
+  --goldl:   #ffc98c;
+  --blue:    #7bb4e8;
+  --teal:    #6ec3c6;
+  --rose:    #f08fa0;
+  --green:   #96c77e;
+  --purple:  #c08ef0;
+  --topbar-bg: rgba(31,17,16,.93);
+  --hover-subtle: rgba(255,255,255,.04);
+  --focus-ring: 0 0 0 2px rgba(255,155,77,.46);
+  --focus-bg: rgba(255,155,77,.14);
+}
+
 /* ═══════════════════════════════════════════
    LAYOUT + RESET
 ═══════════════════════════════════════════ */
@@ -374,6 +446,9 @@ em{color:var(--goldl)}
 .theme-btn[data-theme="dark"]{background:#09090f}
 .theme-btn[data-theme="light"]{background:#f5f5f0}
 .theme-btn[data-theme="sepia"]{background:#1a1510}
+.theme-btn[data-theme="ocean"]{background:linear-gradient(135deg,#0b1c28,#56c9d9)}
+.theme-btn[data-theme="forest"]{background:linear-gradient(135deg,#132018,#8ccd67)}
+.theme-btn[data-theme="sunset"]{background:linear-gradient(135deg,#2a1714,#ff9b4d)}
 .font-size-controls{display:flex;gap:.3rem;align-items:center}
 .font-btn{
   min-width:30px;height:30px;padding:0 .35rem;border-radius:7px;border:1px solid var(--border);

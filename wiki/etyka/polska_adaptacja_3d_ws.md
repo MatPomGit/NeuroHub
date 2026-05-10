@@ -4,7 +4,7 @@ reviewCycleMonths: 24
 evidenceCutoffDate: 2026-05-10
 ---
 
-# Polska adaptacja trójwymiarowej skali mądrości (3D-WS): aspekty etyczne i metodologiczne
+# Polska adaptacja Trójwymiarowej Skali Mądrości (3D-WS): aspekty etyczne i metodologiczne
 
 ## Wprowadzenie i kontekst
 

@@ -2238,6 +2238,7 @@ function setupSpeechControls() {
 
   if (!speechState.synth || typeof SpeechSynthesisUtterance === 'undefined') {
     toggleBtn.disabled = true;
+    optionsToggleBtn.disabled = true;
     stopBtn.disabled = true;
     autoNextBtn.disabled = true;
     voiceModeSelect.disabled = true;

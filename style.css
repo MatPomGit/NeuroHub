@@ -933,19 +933,7 @@ em{color:var(--goldl)}
   .home-hero h1{font-size:2.1rem}
   .page-hero h1{font-size:2rem}
 
-  /* Mobilnie zwiększamy strefę dotyku i kontrast elementów nawigacji (zakładek). */
-  .nav-group-hdr{padding:.7rem 1rem .45rem}
-  .ng-label{font-size:.68rem;letter-spacing:.16em}
-  .nav-item{
-    padding:.5rem 1rem .5rem 1.35rem;
-    font-size:.88rem;
-    min-height:42px;
-    align-items:center;
-  }
-  .nav-item.is-wiki{
-    font-size:.84rem;
-    padding-left:1.7rem;
-  }
+  /* Zachowujemy wygląd elementów nawigacji zgodny z web (desktop), aby interfejs był spójny między urządzeniami. */
   .nav-item-test{
     border-left-width:3px;
     box-shadow:inset 0 0 0 1px rgba(91,140,184,.25);
@@ -966,16 +954,7 @@ em{color:var(--goldl)}
     padding:.85rem .9rem;
     gap:.65rem;
   }
-  .art-lbl{font-size:.94rem;line-height:1.45}
-  .art-desc{font-size:.83rem;line-height:1.6}
-  /* Na mobile etykiety zachowują te same parametry co na web (desktop),
-     aby wygląd statusów był spójny między urządzeniami. */
-  .art-badge,
-  .plan-badge{
-    font-size:.62rem;
-    padding:.18rem .5rem;
-    margin-top:.18rem;
-  }
+  /* Opisy i etykiety kart dziedziczą parametry wersji web (desktop). */
   .pdf-lab-controls{align-items:stretch}
   .pdf-lab-controls select{min-width:0;width:100%}
   .pdf-lab-controls a{text-align:center}
@@ -1008,21 +987,25 @@ em{color:var(--goldl)}
   .content{padding:1.15rem .85rem 3rem}
   .topbar{padding:0 .8rem}
   .breadcrumb{font-size:.74rem}
-  .topbar-next{display:none}
+  /* Wersja mobilna ma zachować ten sam zestaw kontrolek co web, dlatego nie ukrywamy nawigacji „dalej”. */
+  .topbar-next{display:flex}
+  /* Utrzymujemy desktopowy układ panelu prawego paska, aby interfejs był jednolity z wersją web. */
+  .topbar-right{flex-wrap:nowrap}
+  .speech-controls{
+    left:8px;
+    right:8px;
+    bottom:8px;
+    gap:.4rem;
+    padding:.4rem;
+  }
+  .speech-btn{padding:.42rem .45rem}
 
   .art-card,
   .plan-item{
     flex-wrap:wrap;
     align-items:flex-start;
   }
-  /* Wąskie ekrany: usuwamy dodatkowe odsunięcie etykiet,
-     żeby pozycjonowanie było zgodne z wersją web. */
-  .art-badge,
-  .plan-badge{
-    margin-left:0;
-  }
   .art-body{flex:1 1 100%}
-  .art-lbl{font-size:.96rem}
 
   .page-hero{padding-bottom:1.3rem;margin-bottom:1.5rem}
   .wiki-hdr{padding-bottom:1.3rem;margin-bottom:1.5rem}

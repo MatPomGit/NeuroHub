@@ -52,7 +52,7 @@ Wynik 3D-WS nie jest „etykietą osoby”, ale opisem funkcjonowania w określo
 
 ## Praktyczne przykłady
 
-## Przykład dobrej praktyki
+### Przykład dobrej praktyki
 
 Psycholog prowadzi badanie rozwoju osób starszych i stosuje polską adaptację 3D-WS jako jedno z kilku narzędzi (obok wywiadu, pomiaru dobrostanu i funkcjonowania poznawczego). W raporcie podkreśla, że wynik skali dotyczy trzech wymiarów mądrości i nie stanowi globalnej oceny wartości osoby.
 

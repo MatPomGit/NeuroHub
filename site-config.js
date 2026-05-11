@@ -1049,7 +1049,7 @@ window.SITE_CONFIG = {
         { id: 'psychologia_niepelnosprawnosci/niepelnosprawnosc_wzrokowa',    label: 'Niepelnosprawnosc wzrokowa',             file: 'wiki/psychologia_niepelnosprawnosci/niepelnosprawnosc_wzrokowa.md'    },
         { id: 'psychologia_niepelnosprawnosci/niepelnosprawnosc_sluchowa',    label: 'Niepelnosprawnosc sluchowa',             file: 'wiki/psychologia_niepelnosprawnosci/niepelnosprawnosc_sluchowa.md'    },
         { id: 'psychologia_niepelnosprawnosci/autyzm_niepelnosprawnosc',      label: 'Spektrum autyzmu i niepelnosprawnosc',   file: 'wiki/psychologia_niepelnosprawnosci/autyzm_niepelnosprawnosc.md'      },
-        { id: 'psychologia_niepelnosprawnosci/jakosc_zycia',                  label: 'Jakosc zycia osBb z niepelnosprawnoscia',file: 'wiki/psychologia_niepelnosprawnosci/jakosc_zycia.md'                  },
+        { id: 'psychologia_niepelnosprawnosci/jakosc_zycia',                  label: 'Jakosc zycia osob z niepelnosprawnoscia',file: 'wiki/psychologia_niepelnosprawnosci/jakosc_zycia.md'                  },
         { id: 'psychologia_niepelnosprawnosci/stres_i_adaptacja',             label: 'Stres, adaptacja i radzenie sobie',      file: 'wiki/psychologia_niepelnosprawnosci/stres_i_adaptacja.md'             },
         { id: 'psychologia_niepelnosprawnosci/rodzina_i_opiekunowie',         label: 'Rodzina i opiekunowie',                  file: 'wiki/psychologia_niepelnosprawnosci/rodzina_i_opiekunowie.md'         },
         { id: 'psychologia_niepelnosprawnosci/rehabilitacja_psychologiczna',  label: 'Rehabilitacja psychologiczna',           file: 'wiki/psychologia_niepelnosprawnosci/rehabilitacja_psychologiczna.md'  },
@@ -1063,7 +1063,7 @@ window.SITE_CONFIG = {
         { id: 'geropsychologia/wprowadzenie',               label: 'Psychologia starosci - wprow.',       file: 'wiki/geropsychologia/wprowadzenie.md'               },
         { id: 'geropsychologia/starzenie_poznawcze',        label: 'Starzenie sie poznawcze',             file: 'wiki/geropsychologia/starzenie_poznawcze.md'        },
         { id: 'geropsychologia/demencja',                   label: 'Demencja i ch. neurodegeneracyjne',   file: 'wiki/geropsychologia/demencja.md'                   },
-        { id: 'geropsychologia/depresja_starszych',         label: 'Depresja u osBb starszych',           file: 'wiki/geropsychologia/depresja_starszych.md'         },
+        { id: 'geropsychologia/depresja_starszych',         label: 'Depresja u osob starszych',           file: 'wiki/geropsychologia/depresja_starszych.md'         },
         { id: 'geropsychologia/samotnosc',                  label: 'Samotnosc i izolacja spoleczna',      file: 'wiki/geropsychologia/samotnosc.md'                  },
         { id: 'geropsychologia/jakosc_zycia_starszych',     label: 'Jakosc zycia w starosci',             file: 'wiki/geropsychologia/jakosc_zycia_starszych.md'     },
         { id: 'geropsychologia/aktywnosc_poznawcza',        label: 'Aktywnosc poznawcza i trening umyslu',file: 'wiki/geropsychologia/aktywnosc_poznawcza.md'        },
@@ -3146,8 +3146,8 @@ window.SITE_CONFIG = {
     },
 
     geropsychology: {
-      title: 'WIKI - Psychologia osBb w podeszlym wieku',
-      intro: 'Psychologia osBb w podeszlym wieku bada procesy starzenia sie, zdrowie psychiczne, funkcjonowanie poznawcze i spoleczne seniorBw - od demencji i depresji po adaptacje do starosci i wsparcie opiekunBw.',
+      title: 'WIKI - Psychologia osob w podeszlym wieku',
+      intro: 'Psychologia osob w podeszlym wieku bada procesy starzenia sie, zdrowie psychiczne, funkcjonowanie poznawcze i spoleczne seniorBw - od demencji i depresji po adaptacje do starosci i wsparcie opiekunBw.',
       sections: [
         {
           title: 'Podstawy i wprowadzenie',
@@ -3160,7 +3160,7 @@ window.SITE_CONFIG = {
           title: 'Zaburzenia i choroby',
           articles: [
             { label: 'Demencja i choroby neurodegeneracyjne', id: 'geropsychologia/demencja',               status: 'live' },
-            { label: 'Depresja u osBb starszych',             id: 'geropsychologia/depresja_starszych',     status: 'live' },
+            { label: 'Depresja u osob starszych',             id: 'geropsychologia/depresja_starszych',     status: 'live' },
           ]
         },
         {

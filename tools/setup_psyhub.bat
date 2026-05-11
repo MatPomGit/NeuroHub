@@ -5,11 +5,11 @@ setlocal enabledelayedexpansion
 echo.
 echo  â•”â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•-
 echo  â•‘  PsyHub v3.0 "ATLAS"” Generator struktury plików   â•‘
-echo  â•‘  Uruchom w folderze, w którym ma powstaÄ‡ portal.     â•‘
+echo  â•‘  Uruchom w folderze, w którym ma powstać portal.     â•‘
 echo  â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•ť
 echo.
 
-:: â”€â”€ SprawdĹş czy index.html już istnieje â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+:: â”€â”€ Sprawdłş czy index.html już istnieje â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 if exist "index.html" (
   echo  [INFO]  Znaleziono istniejący projekt w tym folderze.
   echo          Skrypt utworzy tylko brakujace pliki i foldery.
@@ -80,7 +80,7 @@ call :mkmd "wiki\neuro\kora_prefrontalna.md"    "Kora przedczołowa"            
 call :mkmd "wiki\neuro\uklad_limbiczny.md"      "Układ limbiczny"              "Neurobiologia"
 
 :: â”€â”€ FUNKCJE POZNAWCZE â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
-call :mkmd "wiki\poznawcza\pamiec.md"               "PamięÄ‡"                          "Funkcje Poznawcze"
+call :mkmd "wiki\poznawcza\pamiec.md"               "Pamięć"                          "Funkcje Poznawcze"
 call :mkmd "wiki\poznawcza\uwaga.md"                "Uwaga"                           "Funkcje Poznawcze"
 call :mkmd "wiki\poznawcza\jezyk.md"                "Język"                           "Funkcje Poznawcze"
 call :mkmd "wiki\poznawcza\funkcje_wykonawcze.md"   "Funkcje wykonawcze"              "Funkcje Poznawcze"
@@ -88,8 +88,8 @@ call :mkmd "wiki\poznawcza\percepcja.md"            "Percepcja i gnozja"        
 call :mkmd "wiki\poznawcza\zmeczenie_poznawcze.md"  "Zmęczenie poznawcze"             "Funkcje Poznawcze"
 call :mkmd "wiki\poznawcza\myslenie.md"             "Myślenie i rozumowanie"          "Funkcje Poznawcze"
 call :mkmd "wiki\poznawcza\uczenie.md"              "Uczenie się"                     "Funkcje Poznawcze"
-call :mkmd "wiki\poznawcza\wyobraznia.md"           "WyobraĹşnia i reprezentacje"      "Funkcje Poznawcze"
-call :mkmd "wiki\poznawcza\swiadomosc.md"           "Ĺšwiadomoć i metapoznanie"       "Funkcje Poznawcze"
+call :mkmd "wiki\poznawcza\wyobraznia.md"           "Wyobrałşnia i reprezentacje"      "Funkcje Poznawcze"
+call :mkmd "wiki\poznawcza\swiadomosc.md"           "łšwiadomoć i metapoznanie"       "Funkcje Poznawcze"
 call :mkmd "wiki\poznawcza\podejmowanie_decyzji.md" "Podejmowanie decyzji"            "Funkcje Poznawcze"
 
 :: â”€â”€ ZABURZENIA KLINICZNE â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
@@ -139,7 +139,7 @@ call :mkmd "wiki\farmakologia\uzaleznienia_farm.md"    "Farmakoterapia uzależni
 call :mkmd "wiki\farmakologia\psychodeliki.md"         "Psychodeliki w terapii"         "Farmakologia"
 call :mkmd "wiki\farmakologia\nootropiki.md"           "Nootropiki i leki kognitywne"   "Farmakologia"
 
-:: â”€â”€ RĂ“Ĺ»NICE INDYWIDUALNE â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+:: â”€â”€ RĂ“ł»NICE INDYWIDUALNE â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 call :mkmd "wiki\roznice_indywidualne\roznice_wprowadzenie.md"   "Różnice indywidualne” wprowadzenie"   "Różnice Indywidualne"
 call :mkmd "wiki\roznice_indywidualne\inteligencja.md"           "Inteligencja"                         "Różnice Indywidualne"
 call :mkmd "wiki\roznice_indywidualne\osobowosc.md"              "Osobowoć"                             "Różnice Indywidualne"

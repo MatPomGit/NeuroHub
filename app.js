@@ -1703,7 +1703,7 @@ function renderGlossHTML(entries) {
       <div class="gloss-letter">${l}</div>
       ${groups[l].map(e=>`
         <div class="gloss-entry">
-          <div class="gloss-term">${e.term}${e.link?` <button type="button" class="gloss-go" onclick="navigate('${e.link}')" aria-label="Otwórz artykuł powiązany: ${q(e.term)}">→ artykuł</button>`:''}</div>
+          <div class="gloss-term">${e.term}${e.link?` <button type="button" role="link" class="gloss-go" onclick="navigate('${e.link}')" aria-label="Otwórz artykuł powiązany: ${q(e.term)}">→ artykuł</button>`:''}</div>
           <div class="gloss-def">${e.def}</div>
         </div>`).join('')}
     </div>`).join('');

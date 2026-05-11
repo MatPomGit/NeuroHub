@@ -13,7 +13,6 @@
     // psuły wykrywanie rozszerzenia .md i blokowały fallback do RAW.
     const withoutQueryOrHash = String(rawPath || '').split('#')[0].split('?')[0];
     return withoutQueryOrHash
-      .replace(/^﻿/, '')
       .trim()
       .replace(/\\/g, '/')
       .replace(/^\.\//, '')

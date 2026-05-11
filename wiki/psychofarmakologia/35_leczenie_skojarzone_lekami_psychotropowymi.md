@@ -1,14 +1,14 @@
 # 35. Leczenie skojarzone za pomocą leków psychotropowych
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Leczenie skojarzone może być zasadne przy częściowej odpowiedzi, oporności lub złożonym obrazie objawowym. Wymaga jednak jasnej hipotezy mechanistycznej i planu monitorowania.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
 - **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
 - **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Każdy dodatkowy lek zwiększa ryzyko interakcji farmakokinetycznych i farmakodynamicznych, dlatego łączenie powinno być czasowo i klinicznie uzasadnione.
 
 ## Praktyczne przykłady

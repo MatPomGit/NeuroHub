@@ -99,7 +99,7 @@ Hipoteza Sapira-Whorfa w swej słabej, empirycznie umiarkowanej wersji zyska trw
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Boroditsky, L. (2001). Does language shape thought? English and Mandarin speakers' conceptions of time. *Cognitive Psychology, 43*(1), 1–22.
 - Boroditsky, L., Schmidt, L. A., & Phillips, W. (2003). Sex, syntax, and semantics. In D. Gentner & S. Goldin-Meadow (Eds.), *Language in Mind* (pp. 61–79). MIT Press.

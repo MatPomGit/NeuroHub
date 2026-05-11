@@ -6,10 +6,10 @@ evidenceCutoffDate: 2025-12-31
 
 # Urazy głowy (TBI)
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Traumatyczne uszkodzenie mózgu (TBI) obejmuje szerokie spektrum: od łagodnego wstrząśnienia po ciężkie urazy z trwałą niepełnosprawnością. W neuropsychologii kluczowe jest różnicowanie objawów ostrych i długoterminowych.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **TBI** – uszkodzenie mózgu spowodowane siłą mechaniczną działającą z zewnątrz.
 - **mTBI (łagodne TBI)** – zwykle GCS 13–15, często bez zmian w standardowym obrazowaniu.
 - **DAI** – rozlane uszkodzenie aksonalne wynikające z sił przyspieszenia–opóźnienia.

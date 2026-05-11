@@ -120,7 +120,7 @@ MI wykazuje skuteczność w bardzo krótkim formacie (1–4 sesje), co czyni go 
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Amrhein, P. C., Miller, W. R., Yahne, C. E., Palmer, M., & Fulcher, L. (2003). Client commitment language during motivational interviewing predicts drug use outcomes. *Journal of Consulting and Clinical Psychology, 71*(5), 862–878.
 - Burke, B. L., Arkowitz, H., & Menchola, M. (2003). The efficacy of motivational interviewing: A meta-analysis of controlled clinical trials. *Journal of Consulting and Clinical Psychology, 71*(5), 843–861.

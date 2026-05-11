@@ -6,10 +6,10 @@ evidenceCutoffDate: 2025-12-31
 
 # Raportowanie wyników i ograniczeń
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Raport końcowy powinien umożliwiać niezależnemu badaczowi odtworzenie logiki projektu: od pytania badawczego przez procedurę do wniosków. Raportowanie selektywne jest jednym z głównych źródeł błędu poznawczego w nauce stosowanej.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Raportowanie kompletne** – przedstawienie wyników głównych, ubocznych i nieistotnych.
 - **Wielkość efektu** – miara siły zależności niezależna od samego p-value.
 - **Ograniczenie badania** – czynnik obniżający pewność wniosków lub możliwość generalizacji.

@@ -142,7 +142,7 @@ Diagnoza psychologiczna jest narzędziem - wartość zależy od sposobu użycia.
 
 ---
 
-## Literatura zalecana
+## Bibliografia zalecana
 
 - Corrigan, P. W. (2007). *How clinical diagnosis might exacerbate the stigma of mental illness*. Social Work, 52(1), 31–39.
 - Goffman, E. (1963). *Stigma: Notes on the Management of Spoiled Identity*. Prentice-Hall. [wyd. pol. 2005]

@@ -6,10 +6,10 @@ evidenceCutoffDate: 2025-12-31
 
 # Analiza danych i wnioskowanie
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Analiza danych jest etapem testowania hipotez, a nie poszukiwania „najlepiej wyglądającego” wyniku. Jakość wnioskowania zależy od zgodności między planem analizy, własnościami danych i trafnością projektu.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Wnioskowanie statystyczne** – ocena, na ile obserwowany efekt może odzwierciedlać populację.
 - **Wielkość efektu** – miara praktycznej siły zależności.
 - **Analiza wrażliwości** – sprawdzanie, czy wniosek utrzymuje się przy różnych założeniach.

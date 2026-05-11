@@ -1,14 +1,14 @@
 # 22. Farmakoterapia zespołów otępiennych
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 W otępieniach farmakoterapia ma głównie charakter objawowy i spowalniający przebieg wybranych domen funkcjonowania. Obejmuje leki prokognitywne oraz ostrożne leczenie objawów behawioralnych i psychotycznych.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
 - **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
 - **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Priorytetem jest bezpieczeństwo: minimalizacja obciążenia antycholinergicznego, ryzyka upadków i interakcji. Interwencje środowiskowe oraz wsparcie opiekunów są równie ważne jak leki.
 
 ## Praktyczne przykłady

@@ -1,14 +1,14 @@
 # Regulacja emocji a jedzenie
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Jedzenie bywa strategią szybkiego obniżania napięcia, zwłaszcza gdy brakuje repertuaru innych metod samoregulacji.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Regulacja emocji**: proces wpływania na to, jakie emocje odczuwamy i jak je wyrażamy.
 - **Unikanie doświadczania**: próba wygaszenia emocji bez ich przetwarzania.
 - **Tolerancja dyskomfortu**: zdolność wytrzymywania trudnych stanów bez działań impulsywnych.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Im wyższa impulsywność negatywna, tym częściej pojawia się jedzenie pod wpływem emocji. Praca terapeutyczna koncentruje się na wydłużeniu „przerwy” między emocją a reakcją.
 
 ## Dobra praktyka

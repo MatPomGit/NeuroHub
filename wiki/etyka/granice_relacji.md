@@ -121,7 +121,7 @@ Gutheil i Gabbard proponują analizę granic przez pryzmat **kontinuum** - od ry
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Gutheil, T. G., & Gabbard, G. O. (1993). The concept of boundaries in clinical practice. *American Journal of Psychiatry, 150*(2), 188–196.
 - Pope, K. S. (1994). *Sexual involvement with therapists*. APA.

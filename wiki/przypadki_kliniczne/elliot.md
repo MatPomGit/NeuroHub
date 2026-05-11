@@ -10,11 +10,11 @@ Przypadek, który pokazał, że wysoki iloraz inteligencji nie chroni przed kata
 
 *USA, opisywany od lat 90. XX w.*
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 
 Elliot (w literaturze także E.V.R.) przeszedł operację guza mózgu, po której rozwinęły się głębokie zaburzenia podejmowania decyzji i funkcjonowania społeczno-zawodowego. Jego ogólna inteligencja, język i pamięć robocza pozostawały relatywnie dobre.
 
-## Definicje kluczowych pojęć
+## Definicje
 
 - **vmPFC/OFC:** brzuszno-przyśrodkowa i oczodołowo-czołowa część kory przedczołowej, kluczowa dla wartościowania i decyzji społecznych.
 - **Hipoteza markerów somatycznych:** decyzje są wspierane przez sygnały emocjonalno-cielesne „oznaczające” opcje jako korzystne lub ryzykowne.

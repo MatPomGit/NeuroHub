@@ -1,14 +1,14 @@
 # Neurobiologia nagrody i głodu
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Równowaga między układem homeostatycznym i hedonicznym wyjaśnia, dlaczego osoba syta nadal może jeść.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Głód homeostatyczny**: potrzeba energetyczna organizmu.
 - **Głód hedoniczny**: motywacja do jedzenia dla przyjemności.
 - **Sensytyzacja nagrody**: wzrost reaktywności na bodźce żywieniowe.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Dopamina wzmacnia uczenie skojarzeń „bodziec–nagroda”. Stres i niedobór snu zwiększają reaktywność na wysokoenergetyczne pokarmy, osłabiając kontrolę wykonawczą.
 
 ## Dobra praktyka

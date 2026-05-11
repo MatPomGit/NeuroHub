@@ -1,14 +1,14 @@
 # 19. Farmakoterapia zespołów lękowych
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 W zaburzeniach lękowych leczeniem pierwszego rzutu są zwykle SSRI/SNRI oraz psychoterapia, zwłaszcza CBT. Benzodiazepiny mają rolę ograniczoną czasowo i sytuacyjnie.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
 - **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
 - **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Dobór terapii powinien uwzględniać podtyp zaburzenia, wzorzec unikania, współchorobowość i preferencje pacjenta. Leczenie farmakologiczne jest najbardziej efektywne, gdy wspiera aktywną ekspozycję i zmianę nawyków.
 
 ## Praktyczne przykłady

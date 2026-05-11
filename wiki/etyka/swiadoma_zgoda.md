@@ -108,7 +108,7 @@ Pisemna zgoda nie jest wymagana przez polskie prawo w każdym przypadku, jednak 
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Appelbaum, P. S., & Grisso, T. (1988). Assessing patients' capacities to consent to treatment. *New England Journal of Medicine, 319*(25), 1635–1638.
 - Faden, R. R., & Beauchamp, T. L. (1986). *A history and theory of informed consent*. Oxford University Press.

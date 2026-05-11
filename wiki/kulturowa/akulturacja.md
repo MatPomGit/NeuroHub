@@ -120,7 +120,7 @@ Akulturacja jest wielowymiarowym, dynamicznym procesem, który nie przebiega lin
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Berry, J. W. (1997). Immigration, acculturation, and adaptation. *Applied Psychology: An International Review, 46*(1), 5–34.
 - Berry, J. W., Phinney, J. S., Sam, D. L., & Vedder, P. (Eds.). (2006). *Immigrant Youth in Cultural Transition*. Lawrence Erlbaum Associates.

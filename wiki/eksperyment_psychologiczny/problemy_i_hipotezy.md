@@ -6,10 +6,10 @@ evidenceCutoffDate: 2025-12-31
 
 # Problem badawczy i hipotezy
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Problem badawczy wyznacza granice interpretacji całego eksperymentu. Jeśli pytanie jest nieprecyzyjne, nie da się konsekwentnie zoperacjonalizować zmiennych ani dobrać adekwatnej analizy.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Problem badawczy** – sformułowane naukowo pytanie wynikające z luki w literaturze.
 - **Hipoteza konfirmacyjna** – przewidywanie testowane zgodnie z planem przed analizą danych.
 - **Hipoteza eksploracyjna** – przewidywanie generowane lub rozwijane po analizie.

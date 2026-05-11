@@ -103,7 +103,7 @@ Stereotypy są produktem ubocznym poznawczej kategoryzacji - mechanizmu ewolucyj
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Allport, G. W. (1954). *The Nature of Prejudice*. Addison-Wesley.
 - Greenwald, A. G., McGhee, D. E., & Schwartz, J. L. K. (1998). Measuring individual differences in implicit cognition: The implicit association test. *Journal of Personality and Social Psychology, 74*(6), 1464–1480.

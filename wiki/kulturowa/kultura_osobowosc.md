@@ -118,7 +118,7 @@ Osobowość jest zarówno biologicznie zakorzeniona, jak i kulturowo ukształtow
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Cheung, F. M., Leung, K., Zhang, J. X., Sun, H. F., Gan, Y. Q., Song, W. Z., & Xie, D. (2001). Indigenous Chinese personality constructs. *Journal of Cross-Cultural Psychology, 32*(4), 407–433.
 - Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation. *Psychological Review, 98*(2), 224–253.

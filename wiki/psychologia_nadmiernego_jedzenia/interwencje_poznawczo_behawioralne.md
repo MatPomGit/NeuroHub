@@ -1,14 +1,14 @@
 # Interwencje poznawczo-behawioralne
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 CBT-E pozostaje jedną z najlepiej przebadanych metod pracy z nadmiernym jedzeniem i zaburzeniami odżywiania.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **CBT-E**: rozszerzony model terapii poznawczo-behawioralnej zaburzeń odżywiania.
 - **Ekspozycja na bodźce żywieniowe**: uczenie tolerowania impulsu bez kompulsji.
 - **Formulacja przypadku**: indywidualny model podtrzymywania objawów.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Skuteczność rośnie, gdy terapia obejmuje regularny rytm jedzenia, restrukturyzację przekonań i zapobieganie nawrotom. Decydująca jest praca domowa i monitorowanie danych.
 
 ## Dobra praktyka

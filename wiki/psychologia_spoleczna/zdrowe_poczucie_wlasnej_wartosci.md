@@ -117,7 +117,7 @@ Zdrowe poczucie własnej wartości nie oznacza bycia „najlepszym” ani ciąg�
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Kernis, M. H. (2003). Toward a conceptualization of optimal self-esteem. *Psychological Inquiry, 14*(1), 1–26.
 - Leary, M. R. (2004). The curse of the self: Self-awareness, egotism, and the quality of human life. Oxford University Press.

@@ -141,7 +141,7 @@ Trauma rozwojowa nie jest wyłącznie problemem przeszłości - jest biologiczni
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Felitti, V. J., Anda, R. F., Nordenberg, D., et al. (1998). Relationship of childhood abuse and household dysfunction to many of the leading causes of death in adults. *American Journal of Preventive Medicine*, 14(4), 245–258.
 - Herman, J. L. (1992). *Trauma and Recovery*. Basic Books.

@@ -139,7 +139,7 @@ Uzależnienie jest w istocie chorobą rodzinną. Bez zrozumienia systemowej dyna
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Miller, W. R., Meyers, R. J., & Tonigan, J. S. (1999). Engaging the unmotivated in treatment for alcohol problems: A comparison of three strategies for intervention through family members. *Journal of Consulting and Clinical Psychology, 67*(5), 688–697.
 - Minuchin, S. (1974). *Families and Family Therapy*. Harvard University Press.

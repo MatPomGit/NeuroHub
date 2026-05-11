@@ -1,14 +1,14 @@
 # Stres i jedzenie kompulsywne
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Przewlekły stres zwiększa zapotrzebowanie na szybkie źródła ulgi i nasila jedzenie impulsywne.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Stres chroniczny**: długotrwałe obciążenie przekraczające zasoby regulacyjne.
 - **Jedzenie kompulsywne**: epizody utraty kontroli nad ilością jedzenia.
 - **Allostaza**: koszt fizjologiczny ciągłego dostosowania do stresu.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Kortyzol i deprywacja regeneracji zwiększają preferencję pokarmów wysokocukrowych i tłustych. Wysokie obciążenie poznawcze osłabia planowanie i samokontrolę.
 
 ## Dobra praktyka

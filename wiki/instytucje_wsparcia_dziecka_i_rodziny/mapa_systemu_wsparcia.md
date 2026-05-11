@@ -1,14 +1,14 @@
 # Mapa systemu wsparcia
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 System pomocy dziecku i rodzinie obejmuje ochronę zdrowia, edukację, pomoc społeczną, wymiar sprawiedliwości i organizacje społeczne.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **System wsparcia**: sieć instytucji realizujących komplementarne zadania pomocowe.
 - **Dostępność pomocy**: realna możliwość skorzystania z usług adekwatnych do potrzeb.
 - **Koordynacja przypadku**: uzgodnione działania wielu podmiotów wobec jednej rodziny.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Skuteczność systemu zależy od ciągłości informacji i jasnego podziału ról. Fragmentacja zwiększa ryzyko „krążenia” rodziny między instytucjami bez realnej poprawy.
 
 ## Dobra praktyka

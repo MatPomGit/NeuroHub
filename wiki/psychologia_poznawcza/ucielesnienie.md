@@ -116,7 +116,7 @@ Ucieleśnione poznanie zrewolucjonizowało rozumienie relacji umysłu i ciała, 
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Barsalou, L. W. (1999). Perceptual symbol systems. *Behavioral and Brain Sciences, 22*(4), 577–609.
 - Bargh, J. A., & Sartori, G. (Eds.). (2008). Social embodiment. *Advances in Experimental Social Psychology, 43*.

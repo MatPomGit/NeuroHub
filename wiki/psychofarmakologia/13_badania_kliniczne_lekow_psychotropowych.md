@@ -1,14 +1,14 @@
 # 13. Badania kliniczne leków psychotropowych
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Badania kliniczne psychofarmakologii obejmują fazy I–IV, z naciskiem na randomizację, zaślepienie i standaryzowane skale objawowe. Coraz ważniejsze są też punkty końcowe funkcjonalne i jakości życia.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
 - **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
 - **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Ograniczeniem klasycznych RCT jest niska reprezentatywność populacji rzeczywistej. Dlatego rośnie rola badań pragmatycznych, danych rejestrowych i analiz bezpieczeństwa długoterminowego.
 
 ## Praktyczne przykłady

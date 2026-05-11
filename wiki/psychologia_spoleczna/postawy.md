@@ -100,7 +100,7 @@ Postawy kształtują się przez uczenie się, ekspozycję i socjalizację; są p
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Ajzen, I., & Fishbein, M. (1977). Attitude–behavior relations: A theoretical analysis and review of empirical research. *Psychological Bulletin, 84*(5), 888–918.
 - Cialdini, R. B. (1984). *Influence: The Psychology of Persuasion*. William Morrow.

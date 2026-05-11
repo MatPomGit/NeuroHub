@@ -10,7 +10,7 @@ evidenceCutoffDate: 2026-03-31
 
 Terapia systemowa jest jednym z najlepiej zbadanych empirycznie podejść do problemów psychologicznych osadzonych w kontekście relacyjnym. Metaanalizy obejmujące ponad 50 lat badań klinicznych wykazują jej skuteczność w szerokim spektrum problemów - od zaburzeń zachowania u dzieci i adolescentów, przez uzależnienia, depresję i zaburzenia odżywiania, aż po schizofrenię i choroby somatyczne. Niniejszy artykuł omawia kluczowe obszary zastosowań klinicznych terapii systemowej, główne techniki używane w praktyce oraz aktualny stan wiedzy o jej skuteczności.
 
-## Definicje kluczowych pojęć
+## Definicje
 
 - **Terapia skoncentrowana na rozwiązaniach** (*solution-focused brief therapy, SFBT*) - krótkoterminowe podejście systemowe skupiające się na wyjątkach od problemu i na konstruowaniu pożądanej przyszłości, a nie na analizie przyczyn trudności.
 - **Pytanie o cud** (*miracle question*) - technika SFBT: „Załóżmy, że jutro rano budzisz się i problem zniknął. Skąd wiesz, że tak się stało? Co jest inne?" - prowokuje wyobraźnię rozwiązania zamiast analizy problemu.

@@ -110,7 +110,7 @@ Ocena ryzyka samobójczego (*suicide risk assessment*) jest obszarem, w którym 
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Beauchamp, T. L., & Childress, J. F. (2019). *Principles of biomedical ethics* (8th ed.). Oxford University Press.
 - Dimidjian, S., & Hollon, S. D. (2010). How would we know if psychotherapy were harmful? *American Psychologist, 65*(1), 21–33.

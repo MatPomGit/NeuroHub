@@ -114,7 +114,7 @@ Wstyd jest często **niewidzialnym** w gabinecie - pacjenci ukrywają go pod gni
 
 ---
 
-## Literatura
+## Bibliografia
 
 1. Tangney, J. P., & Dearing, R. L. (2002). *Shame and Guilt*. Guilford Press.
 2. Gilbert, P. (2010). *The Compassionate Mind*. Constable.

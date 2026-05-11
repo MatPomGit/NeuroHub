@@ -1,14 +1,14 @@
 # NGO i programy środowiskowe
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Organizacje społeczne uzupełniają system publiczny, szczególnie w obszarze elastycznych form wsparcia.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **NGO**: podmioty niepubliczne realizujące cele społeczne.
 - **Program środowiskowy**: pomoc osadzona lokalnie, blisko codzienności rodziny.
 - **Niski próg dostępu**: łatwe i szybkie wejście do pomocy.
 
-## Analiza mechanizmów i zależności
+## Analiza
 NGO często szybciej odpowiadają na potrzeby niestandardowe, ale wymagają koordynacji z systemem publicznym, aby uniknąć dublowania usług.
 
 ## Dobra praktyka

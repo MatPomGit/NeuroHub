@@ -85,7 +85,7 @@ Interesujące wyniki przyniosły badania porównawcze:
 - Rodzice dzieci z wysokim BI powinni być edukowani o ryzyku nadopiekuńczości
 - Nauczyciele - o potrzebie dostosowania tempa wprowadzania nowości
 
-## Literatura
+## Bibliografia
 
 - Kagan, J., & Snidman, N. (1991). Infant predictors of inhibited and uninhibited profiles. *Psychological Science, 2*(1), 40–44.
 - Kagan, J. (1994). *Galen's Prophecy: Temperament in Human Nature*. Basic Books.

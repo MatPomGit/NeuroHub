@@ -10,7 +10,7 @@ evidenceCutoffDate: 2026-03-31
 
 Rodzina nie jest statycznym tworem - zmienia się przez całe życie swoich członków. Monica McGoldrick i Elizabeth Carter opisały w klasycznym modelu **cyklu życia rodziny** kolejne fazy, przez które przechodzi większość rodzin w kulturze zachodniej, oraz związane z każdą fazą zadania rozwojowe i kryzysy normatywne. Kryzys w tym ujęciu nie jest patologią - jest przewidywalnym momentem reorganizacji systemu, w którym dotychczasowe struktury i wzorce nie pasują do nowych wymagań. Rozumienie tych tranzycji pozwala terapeucie odróżnić normalne trudności przejściowe od głębszych problemów strukturalnych.
 
-## Definicje kluczowych pojęć
+## Definicje
 
 - **Cykl życia rodziny** (*family life cycle*) - sekwencja przewidywalnych faz i tranzycji przez które przechodzi typowa rodzina; model zaproponowany przez McGoldrick i Carter (1980) opisuje sześć głównych faz dla rodzin zachodnich.
 - **Kryzys normatywny** (*normative crisis*) - przewidywalny, typowy kryzys związany z tranzycją między fazami (np. narodziny dziecka, odejście dziecka z domu, emerytura); dotyka zdecydowanej większości rodzin.

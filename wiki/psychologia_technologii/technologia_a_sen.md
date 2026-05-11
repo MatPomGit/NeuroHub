@@ -6,11 +6,11 @@ evidenceCutoffDate: 2026-03-31
 
 # Technologia a sen i regeneracja psychiczna
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 
 Sen jest podstawowym mechanizmem regeneracji emocjonalnej i poznawczej. Współczesne technologie wpływają na sen wielotorowo: przez światło, pobudzenie poznawcze, dostępność społeczną i nieregularność rytmu dobowego. Dlatego analiza relacji technologia–sen wymaga perspektywy biopsychospołecznej.
 
-## Definicje kluczowych pojęć
+## Definicje
 
 - **Higiena snu** - zespół zachowań i warunków środowiskowych sprzyjających zasypianiu i utrzymaniu snu.
 - **Opóźnienie fazy snu** - przesunięcie pory zasypiania i budzenia na późniejsze godziny.

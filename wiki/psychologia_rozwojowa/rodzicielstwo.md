@@ -113,7 +113,7 @@ Style rodzicielskie nie determinują w sposób mechaniczny losów dziecka - temp
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Baumrind, D. (1966). Effects of authoritative parental control on child behavior. *Child Development*, 37(4), 887–907.
 - Baumrind, D. (1971). Current patterns of parental authority. *Developmental Psychology Monographs*, 4(1, Pt. 2).

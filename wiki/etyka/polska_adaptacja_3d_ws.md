@@ -6,13 +6,13 @@ evidenceCutoffDate: 2026-05-10
 
 # Polska adaptacja Trójwymiarowej Skali Mądrości (3D-WS): aspekty etyczne i metodologiczne
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 
 Trójwymiarowa Skala Mądrości (3D-WS, *Three-Dimensional Wisdom Scale*) została opracowana przez Monikę Ardelt jako narzędzie do pomiaru mądrości rozumianej wielowymiarowo: poznawczo, refleksyjnie i afektywnie. Polska adaptacja autorstwa Stanisławy Steuden, Aleksandry Brudek i Piotra Janowskiego (2016) ma szczególne znaczenie nie tylko psychometryczne, ale także etyczne: pozwala prowadzić diagnozę i badania z użyciem narzędzia językowo i kulturowo adekwatnego dla polskich badanych.
 
 Z perspektywy etyki psychologii kluczowe pytanie brzmi: czy wolno interpretować wyniki dotyczące tak wrażliwego konstruktu jak „mądrość” bez dowodów na rzetelność, trafność i równoważność kulturową narzędzia? Odpowiedź metodologiczna i etyczna jest zgodna: nie.
 
-## Definicje kluczowych pojęć
+## Definicje
 
 ### Mądrość (w modelu 3D-WS)
 

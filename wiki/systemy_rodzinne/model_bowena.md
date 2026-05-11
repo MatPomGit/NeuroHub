@@ -10,7 +10,7 @@ evidenceCutoffDate: 2026-03-31
 
 Murray Bowen stworzył jeden z najbardziej rozbudowanych i intelektualnie spójnych modeli w historii terapii rodzin. Pracując w Narodowym Instytucie Zdrowia Psychicznego (NIMH) w latach pięćdziesiątych XX wieku, obserwował rodziny z pacjentem chorującym na schizofrenię. Zauważył, że stopień emocjonalnego „zlania" rodziny (ang. *fusion*) - czyli trudności w oddzieleniu własnego „ja" od „my" rodzinnego - korelował z poziomem dysfunkcji klinicznej. Na tej podstawie zbudował teorię obejmującą osiem wzajemnie powiązanych koncepcji, z których najważniejszą jest **różnicowanie jaźni**.
 
-## Definicje kluczowych pojęć
+## Definicje
 
 - **Różnicowanie jaźni** (*differentiation of self*) - zdolność do utrzymania własnego punktu widzenia, wartości i tożsamości w warunkach emocjonalnego nacisku rodzinnego lub interpersonalnego, bez zrywania relacji.
 - **Emocjonalne zlanie** (*fusion*) - stan, w którym granice między „ja" poszczególnych osób są zatarte; decyzje i emocje jednej osoby są nieodróżnialne od decyzji i emocji innych.

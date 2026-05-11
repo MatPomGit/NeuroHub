@@ -6,11 +6,11 @@ evidenceCutoffDate: 2026-04-30
 
 # Psycholog w IT: role, kompetencje i granice wpływu
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 
 Rynek technologiczny od kilku lat wyraźnie przesuwa rolę psychologa z obszaru wyłącznie HR w stronę pracy produktowej, badawczej i systemowej. Psycholog jest dziś potrzebny tam, gdzie zespół musi rozumieć zachowanie użytkownika, ograniczać błędy decyzyjne i projektować rozwiązania bezpieczne poznawczo. W praktyce oznacza to udział w UX Research, service design, people analytics, badaniach nad zaufaniem do AI oraz projektowaniu procesów pracy zespołowej.
 
-## Definicje kluczowych pojęć
+## Definicje
 
 - **UX Research** - systematyczne badanie doświadczeń użytkownika z użyciem metod jakościowych i ilościowych.
 - **People Analytics** - analiza danych o pracy i dobrostanie zespołów w celu poprawy decyzji organizacyjnych.

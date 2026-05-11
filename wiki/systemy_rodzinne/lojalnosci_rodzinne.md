@@ -10,7 +10,7 @@ evidenceCutoffDate: 2026-03-31
 
 Ivan Boszormenyi-Nagy, węgierski psychiatra pracujący w Stanach Zjednoczonych, stworzył w latach sześćdziesiątych i siedemdziesiątych XX wieku podejście określane jako terapia kontekstualna lub kontekstualnie-etyczna. Jego centralne pojęcie - **niewidzialne lojalności** (*invisible loyalties*) - opisuje ukryte zobowiązania, które jednostka zaciąga wobec rodziny i które mogą przez całe życie kierować jej wyborami, nierzadko wbrew jej świadomym intencjom. W tej perspektywie objaw kliniczny - samodestrukcja, powtarzanie wzorców, niemożność odejścia z toksycznych relacji - bywa wyrazem głębokiej, nierozwiązanej lojalności, której podmiot nawet nie jest świadomy.
 
-## Definicje kluczowych pojęć
+## Definicje
 
 - **Lojalność rodzinna** (*family loyalty*) - poczucie zobowiązania wobec rodziny, które może przejawiać się jako miłość i oddanie, ale też jako nieświadome powielanie jej wzorców lub „spłacanie długów" generacyjnych.
 - **Niewidzialne lojalności** (*invisible loyalties*) - ukryte zobowiązania, które kierują zachowaniem osoby bez jej świadomości; mogą dotyczyć deceased members (nieżyjących przodków), zaniedbanych lub skrzywdzonych członków rodziny.

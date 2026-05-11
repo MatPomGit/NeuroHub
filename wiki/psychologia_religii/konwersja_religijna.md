@@ -6,10 +6,10 @@ evidenceCutoffDate: 2026-03-31
 
 # Konwersja religijna
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Konwersja religijna jest procesem zmiany tożsamości, sieci społecznych i sposobu interpretowania własnej biografii. W psychologii religii odchodzi się dziś od uproszczonego obrazu konwersji jako jednego, nagłego aktu. Coraz częściej opisuje się ją jako kontinuum: od powolnej zmiany praktyk i przekonań, przez okres ambiwalencji, po stabilizację nowej tożsamości religijnej lub światopoglądowej. W niniejszym opracowaniu rozdzielamy fakty empiryczne od interpretacji teologicznych.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Konwersja religijna**: relatywnie trwała zmiana afiliacji, praktyk i autoidentyfikacji religijnej, połączona ze zmianą narracji o sobie.
 - **Dekonwersja**: proces odchodzenia od dotychczasowej tradycji religijnej, niekiedy zakończony nową afiliacją, a niekiedy sekularyzacją.
 - **Tożsamość narracyjna**: sposób organizowania życiorysu w spójną opowieść nadającą sens wydarzeniom kryzysowym i przełomowym.

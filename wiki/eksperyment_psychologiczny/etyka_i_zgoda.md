@@ -6,10 +6,10 @@ evidenceCutoffDate: 2025-12-31
 
 # Etyka badania i świadoma zgoda
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Etyka w badaniach psychologicznych chroni uczestnika i jednocześnie wzmacnia jakość naukową projektu. Procedura etyczna nie jest dodatkiem administracyjnym, lecz warunkiem wiarygodnego gromadzenia danych.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Świadoma zgoda** – dobrowolna decyzja uczestnika podjęta na podstawie zrozumiałej informacji.
 - **Minimalizacja ryzyka** – projektowanie procedur ograniczających szkody psychiczne i fizyczne.
 - **Poufność** – ochrona tożsamości i danych uczestnika.

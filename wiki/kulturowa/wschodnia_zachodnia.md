@@ -123,7 +123,7 @@ Porównanie psychologii Wschodu i Zachodu ujawnia, że sposób, w jaki postrzega
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Kabat-Zinn, J. (1990). *Full Catastrophe Living*. Delacorte Press.
 - Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation. *Psychological Review, 98*(2), 224–253.

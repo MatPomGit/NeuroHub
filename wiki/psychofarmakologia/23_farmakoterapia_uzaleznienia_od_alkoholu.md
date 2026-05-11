@@ -1,14 +1,14 @@
 # 23. Farmakoterapia uzależnienia od alkoholu
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Leczenie uzależnienia od alkoholu obejmuje fazę detoksykacji i leczenie podtrzymujące (m.in. redukcja głodu, zmniejszenie ryzyka nawrotu). Farmakoterapia jest skuteczniejsza, gdy jest osadzona w planie psychoterapeutycznym i społecznym.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
 - **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
 - **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Wybór leku zależy od celu pacjenta, stanu wątroby, współchorobowości psychicznej i historii nawrotów. W praktyce warto stosować model redukcji szkód tam, gdzie abstynencja nie jest od razu możliwa.
 
 ## Praktyczne przykłady

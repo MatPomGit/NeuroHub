@@ -10,11 +10,11 @@ Przypadek, który pokazał, że pamięć epizodyczna i semantyczna mogą rozpaś
 
 *Kanada, od 1981 r.*
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 
 K.C. doznał ciężkiego urazu czaszkowo-mózgowego w wypadku motocyklowym. Po urazie utracił zdolność przywoływania osobistych wspomnień epizodycznych, przy względnie zachowanej części wiedzy ogólnej o świecie i o sobie.
 
-## Definicje kluczowych pojęć
+## Definicje
 
 - **Pamięć epizodyczna:** pamięć zdarzeń osadzonych w czasie i miejscu, z komponentem „ponownego przeżywania”.
 - **Pamięć semantyczna:** wiedza faktograficzna, niezależna od konkretnego kontekstu autobiograficznego.

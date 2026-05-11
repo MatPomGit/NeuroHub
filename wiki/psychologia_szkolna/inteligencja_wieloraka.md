@@ -6,7 +6,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Teoria inteligencji wielorakich
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 
 Przez większą część XX wieku inteligencja była rozumiana jako jednolita, ogólna zdolność poznawcza - czynnik *g* w modelu Spearmana - mierzalna za pomocą standaryzowanych testów IQ. W 1983 roku Howard Gardner zaproponował radykalnie odmienne ujęcie, które zrewolucjonizowało myślenie o zdolnościach uczniów i organizacji nauczania. Jego **Teoria Inteligencji Wielorakich** (*Theory of Multiple Intelligences*, MI) zakłada, że inteligencja nie jest jednorodna, lecz składa się z kilku odrębnych, względnie niezależnych zdolności.
 

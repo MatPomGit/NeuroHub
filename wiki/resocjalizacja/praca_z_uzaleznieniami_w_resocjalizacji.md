@@ -1,14 +1,14 @@
 # Praca z uzależnieniami
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Uzależnienia są częstym czynnikiem podtrzymującym konflikt z prawem i wymagają leczenia równoległego do resocjalizacji.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Współchorobowość**: współwystępowanie uzależnienia i innych trudności psychicznych/społecznych.
 - **Leczenie zintegrowane**: równoczesna praca nad uzależnieniem i zachowaniami przestępczymi.
 - **Redukcja szkód**: ograniczanie konsekwencji ryzykownych zachowań.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Brak leczenia uzależnienia znacząco podnosi ryzyko recydywy. Najlepsze efekty daje połączenie terapii motywacyjnej, CBT i wsparcia środowiskowego.
 
 ## Dobra praktyka

@@ -164,7 +164,7 @@ Techniki projekcyjne stanowią wartościowy element arsenału diagnostycznego ps
 
 ---
 
-## Literatura zalecana
+## Bibliografia zalecana
 
 - Meyer, G. J., & Archer, R. P. (2001). *The hard science of Rorschach research*. Psychological Assessment, 13(4), 486–502.
 - Lilienfeld, S. O., Wood, J. M., & Garb, H. N. (2000). *The scientific status of projective techniques*. Psychological Science in the Public Interest, 1(2), 27–66.

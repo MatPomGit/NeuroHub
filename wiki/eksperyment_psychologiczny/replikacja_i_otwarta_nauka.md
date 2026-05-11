@@ -6,10 +6,10 @@ evidenceCutoffDate: 2025-12-31
 
 # Replikacja i otwarta nauka
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Kryzys replikacyjny w psychologii ujawnił, że pojedyncza publikacja nie jest wystarczającym dowodem trwałości efektu. Otwarta nauka porządkuje cykl badawczy tak, aby wyniki były sprawdzalne, porównywalne i możliwe do odtworzenia.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Replikacja bezpośrednia** – możliwie wierne powtórzenie oryginalnego badania.
 - **Replikacja konceptualna** – testowanie tego samego mechanizmu inną metodą.
 - **Prerejestracja** – publiczny zapis hipotez, procedur i planu analitycznego przed analizą danych.

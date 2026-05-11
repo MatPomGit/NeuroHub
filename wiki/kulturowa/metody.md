@@ -114,7 +114,7 @@ Takie podejście minimalizuje ryzyko *imposed etic* przy zachowaniu możliwości
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Berry, J. W. (1969). On cross-cultural comparability. *International Journal of Psychology, 4*(2), 119–128.
 - Berry, J. W. (1989). Imposed etics–emics–derived etics: The operationalization of a compelling idea. *International Journal of Psychology, 24*(6), 721–735.

@@ -6,10 +6,10 @@ evidenceCutoffDate: 2025-12-31
 
 # Operacjonalizacja zmiennych
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Operacjonalizacja łączy teorię z pomiarem. Jej jakość decyduje, czy wynik badania rzeczywiście dotyczy postulowanego konstruktu, czy tylko wygodnego wskaźnika zastępczego.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Definicja teoretyczna** – znaczenie pojęcia na poziomie modelu naukowego.
 - **Definicja operacyjna** – konkretna procedura pomiaru konstruktu.
 - **Trafność konstruktu** – zgodność wskaźnika z badanym pojęciem.

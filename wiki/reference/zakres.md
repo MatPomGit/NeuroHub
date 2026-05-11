@@ -6,7 +6,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Zakres wiedzy â€” Neuropsychologia kliniczna
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Poniższy zakres porządkuje treł›ci kształ‚cenia na ł›cieżce neuropsychologii klinicznej. Celem jest poł‚ączenie wiedzy teoretycznej, umiejetnoł›ci diagnostycznych i kompetencji etycznych potrzebnych w pracy klinicznej i badawczej.
 
 ## Definicje kluczowych pojeć

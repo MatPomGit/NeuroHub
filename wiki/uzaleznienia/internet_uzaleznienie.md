@@ -139,7 +139,7 @@ Uzależnienie od internetu i nowych technologii jest realnym zjawiskiem kliniczn
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Andreassen, C. S., Pallesen, S., & Griffiths, M. D. (2017). The relationship between addictive use of social media, narcissism, and self-esteem. *Addictive Behaviors, 64*, 287–293.
 - Przybylski, A. K., Murayama, K., DeHaan, C. R., & Gladwell, V. (2013). Motivational, emotional, and behavioral correlates of fear of missing out. *Computers in Human Behavior, 29*(4), 1841–1848.

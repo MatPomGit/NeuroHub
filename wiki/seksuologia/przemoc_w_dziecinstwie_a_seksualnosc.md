@@ -111,7 +111,7 @@ Przemoc w dzieciństwie może znacząco wpływać na seksualność osoby dorosł
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Felitti, V. J., Anda, R. F., Nordenberg, D., et al. (1998). Relationship of childhood abuse and household dysfunction to many leading causes of death in adults.
 - Briere, J., & Scott, C. (2015). *Principles of Trauma Therapy* (2nd ed.).

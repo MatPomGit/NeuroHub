@@ -10,11 +10,11 @@ Przypadek neurologiczny, który radykalnie zmienił rozumienie roli ciała migda
 
 *Iowa, USA, badania od lat 90. XX w. do współczesności*
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 
 S.M. to kobieta z obustronnymi uszkodzeniami ciała migdałowatego, spowodowanymi rzadką chorobą genetyczną (chorobą Urbacha–Wiethego). Jej przypadek stał się jednym z najlepiej opisanych „naturalnych eksperymentów” w neuronauce emocji.
 
-## Definicje kluczowych pojęć
+## Definicje
 
 - **Ciało migdałowate (amygdala):** struktura układu limbicznego związana m.in. z wykrywaniem bodźców istotnych biologicznie, uczeniem lękowym i orientacją na zagrożenie.
 - **Warunkowanie strachu:** proces uczenia, w którym neutralny bodziec zaczyna wywoływać reakcję lękową po skojarzeniu z bodźcem awersyjnym.

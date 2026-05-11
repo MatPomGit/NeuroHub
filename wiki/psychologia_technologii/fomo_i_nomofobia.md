@@ -6,11 +6,11 @@ evidenceCutoffDate: 2026-03-31
 
 # FOMO i nomofobia
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 
 Współczesne środowisko cyfrowe wzmacnia dwie pokrewne, lecz odrębne trudności: FOMO (fear of missing out) i nomofobię (lęk przed brakiem dostępu do telefonu). Oba zjawiska są związane z potrzebą przynależności, kontroli i przewidywalności, ale ich przebieg zależy od cech osoby, kontekstu społecznego i wzorca używania technologii.
 
-## Definicje kluczowych pojęć
+## Definicje
 
 - **FOMO** - obawa, że inne osoby doświadczają ważnych wydarzeń, relacji lub informacji, z których jednostka jest wykluczona.
 - **Nomofobia** - lęk lub silny dyskomfort pojawiający się przy braku telefonu, internetu, baterii lub sygnału sieciowego.

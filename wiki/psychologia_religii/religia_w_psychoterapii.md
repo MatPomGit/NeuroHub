@@ -6,10 +6,10 @@ evidenceCutoffDate: 2026-03-31
 
 # Religia w psychoterapii
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Temat religii w psychoterapii bywa źródłem nieporozumień: część klinicystów unika go z obawy przed naruszeniem neutralności, a część przecenia jego znaczenie i próbuje prowadzić terapię w sposób normatywny światopoglądowo. Oba podejścia są problematyczne. Współczesny standard opiera się na zasadzie klinicznej adekwatności: religia jest włączana do procesu wtedy, gdy jest ważna dla problemu, zasobów i celów pacjenta.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Wrażliwość religijna w terapii**: kompetencja rozpoznawania, kiedy przekonania i praktyki religijne pełnią funkcję zasobu, a kiedy podtrzymują cierpienie.
 - **Neutralność światopoglądowa terapeuty**: postawa nienarzucania pacjentowi przekonań religijnych ani antyreligijnych.
 - **Integracja duchowości**: świadome włączanie języka wartości i praktyk religijnych pacjenta do terapii, jeśli jest to klinicznie uzasadnione.

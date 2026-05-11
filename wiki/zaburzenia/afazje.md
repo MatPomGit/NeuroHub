@@ -6,10 +6,10 @@ evidenceCutoffDate: 2025-12-31
 
 # Afazje
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Afazja to nabyte zaburzenie języka wynikające z uszkodzenia mózgu, najczęściej po udarze lewej półkuli. Obraz kliniczny bywa niejednorodny, dlatego współczesna diagnoza łączy klasyczne typologie z podejściem sieciowym.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Afazja** – zaburzenie rozumienia i/lub produkcji języka po uszkodzeniu OUN.
 - **Anomia** – trudność w nazywaniu obiektów i doborze słów.
 - **Agramatyzm** – uproszczenie struktury składniowej wypowiedzi.

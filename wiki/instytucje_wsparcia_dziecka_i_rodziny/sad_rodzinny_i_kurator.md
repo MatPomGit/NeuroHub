@@ -1,14 +1,14 @@
 # Sąd rodzinny i kurator
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Sąd rodzinny porządkuje odpowiedzialność prawną, a kurator monitoruje realizację decyzji i bezpieczeństwo dziecka.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Kurator sądowy**: organ wykonujący nadzór i wsparcie w środowisku.
 - **Dobro dziecka**: nadrzędna zasada postępowania rodzinnego.
 - **Nadzór kuratorski**: kontrola realizacji obowiązków opiekuńczo-wychowawczych.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Skuteczność nadzoru rośnie, gdy łączy kontrolę z pracą motywacyjną i współpracą usługową. Sankcja bez wsparcia rzadko zmienia wzorzec rodziny.
 
 ## Dobra praktyka

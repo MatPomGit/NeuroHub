@@ -1,14 +1,14 @@
 # Błędy systemowe i dobre praktyki
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Analiza błędów systemowych pozwala redukować ryzyko i poprawiać jakość usług dla dzieci i rodzin.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Błąd systemowy**: niepowodzenie wynikające z konstrukcji procesu, nie z pojedynczej osoby.
 - **Uczenie się organizacyjne**: stałe doskonalenie na podstawie danych i zdarzeń niepożądanych.
 - **Audyt jakości**: uporządkowana ocena zgodności działań ze standardami.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Najczęstsze błędy to fragmentacja informacji, brak właściciela sprawy i niedostateczny follow-up. Dobre praktyki obejmują check-listy, superwizję i analizę przypadków sentinelowych.
 
 ## Dobra praktyka

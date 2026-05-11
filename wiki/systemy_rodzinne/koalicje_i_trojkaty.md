@@ -10,7 +10,7 @@ evidenceCutoffDate: 2026-03-31
 
 Relacje interpersonalne rzadko rozgrywają się wyłącznie między dwiema osobami. Gdy napięcie między dwiema stronami przekracza możliwość jego zniesienia, niemal odruchowo pojawia się tendencja do wciągania trzeciej osoby - dziecka, dziadka, przyjaciela, a nawet tematu, alkoholu czy choroby - które chwilowo zmniejsza ciśnienie relacyjne. Mechanizm ten, opisany szczegółowo przez Murraya Bowena i rozwinięty przez wielu innych terapeutów systemowych, nosi nazwę **triangulacji**. Jest jednym z najczęstszych i najbardziej szkodliwych wzorców, z którymi spotykają się terapeuci rodzinni.
 
-## Definicje kluczowych pojęć
+## Definicje
 
 - **Triada** - naturalna, stabilna konfiguracja trzech osób w systemie; według Bowena to triada, a nie diada, jest podstawową jednostką stabilności emocjonalnej systemu.
 - **Triangulacja** - aktywny proces wciągania trzeciej osoby lub elementu (tematu, substancji, aktywności) w napięcie dwójki ludzi, w celu regulacji emocjonalnego nasilenia tej relacji.

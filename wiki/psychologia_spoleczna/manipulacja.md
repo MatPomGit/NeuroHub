@@ -237,7 +237,7 @@ Technologia stworzyła nowe narzędzia manipulacji o bezprecedensowej skali:
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Cialdini, R. B. (2009). *Wywieranie wpływu na ludzi. Teoria i praktyka* (wyd. 6). GWP.
 - Freedman, J. L., & Fraser, S. C. (1966). Compliance without pressure: The foot-in-the-door technique. *Journal of Personality and Social Psychology, 4*(2), 195–202.

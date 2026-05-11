@@ -108,7 +108,7 @@ Teoria przywiązania odsłania, w jaki sposób relacyjny kontekst wczesnego dzie
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Ainsworth, M. D. S., Blehar, M. C., Waters, E., & Wall, S. (1978). *Patterns of Attachment*. Erlbaum.
 - Bartholomew, K., & Horowitz, L. M. (1991). Attachment styles among young adults. *Journal of Personality and Social Psychology*, 61(2), 226–244.

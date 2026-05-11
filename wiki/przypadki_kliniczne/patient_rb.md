@@ -10,11 +10,11 @@ Klasyczny przypadek „czystej” amnezji po niedokrwiennym uszkodzeniu pola CA1
 
 *USA, opis od 1986 r.*
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 
 R.B. doznał epizodu niedokrwienia mózgu po zabiegu kardiochirurgicznym. Po incydencie rozwinęła się utrwalona amnezja anterogradna o umiarkowanym nasileniu.
 
-## Definicje kluczowych pojęć
+## Definicje
 
 - **Pole CA1 hipokampa:** podregion hipokampa szczególnie wrażliwy na niedotlenienie i niedokrwienie.
 - **Amnezja anterogradna:** trudność w tworzeniu nowych wspomnień deklaratywnych.

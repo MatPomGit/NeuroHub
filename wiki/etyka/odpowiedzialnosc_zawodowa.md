@@ -166,7 +166,7 @@ Polskie prawo i dobre praktyki sugerują przechowywanie dokumentacji przez **min
 
 ---
 
-## Literatura
+## Bibliografia
 
 1. Ustawa z dnia 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów. *Dz.U. 2001 nr 73 poz. 763*.
 2. Polskie Towarzystwo Psychologiczne (2018). *Kodeks Etyczno-Zawodowy Psychologa*. PTP.

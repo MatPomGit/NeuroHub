@@ -128,7 +128,7 @@ Dokumentacja jest objęta **tajemnicą zawodową** i podlega przepisom RODO (roz
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Morrison, J. (2014). *Wywiad diagnostyczny. Podręcznik DSM-5*. Wydawnictwo UJ.
 - Sheehan, D. V. i in. (1998). The Mini-International Neuropsychiatric Interview. *Journal of Clinical Psychiatry, 59*(Suppl. 20), 22–33.

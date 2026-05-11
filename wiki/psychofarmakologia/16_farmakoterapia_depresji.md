@@ -1,14 +1,14 @@
 # 16. Farmakoterapia depresji
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Farmakoterapia depresji obejmuje leczenie ostrej fazy, konsolidację remisji i profilaktykę nawrotów. Wybór leku zależy od obrazu klinicznego, historii odpowiedzi, chorób współistniejących i bezpieczeństwa.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
 - **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
 - **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
 
-## Analiza mechanizmów i zależności
+## Analiza
 W depresji opornej uzasadnione są strategie augmentacji, łączenia interwencji biologicznych i psychoterapii oraz ocena czynników podtrzymujących (sen, używki, ból, stres przewlekły).
 
 ## Praktyczne przykłady

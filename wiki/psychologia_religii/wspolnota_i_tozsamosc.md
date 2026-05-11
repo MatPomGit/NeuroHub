@@ -6,10 +6,10 @@ evidenceCutoffDate: 2026-03-31
 
 # Wspólnota i tożsamość religijna
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Tożsamość religijna nie rozwija się w izolacji, lecz w relacjach. Wspólnota dostarcza języka, norm, rytuałów i modeli roli, dzięki którym jednostka interpretuje siebie i świat. Psychologia społeczna religii pokazuje, że ten proces może być zarówno ochronny, jak i ryzykowny: ta sama dynamika grupowa może wzmacniać wsparcie i sens albo prowadzić do konformizmu i wykluczenia.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Tożsamość religijna**: część tożsamości osobistej i społecznej związana z przynależnością, przekonaniami i praktykami religijnymi.
 - **Tożsamość społeczna**: poczucie "kim jesteśmy" wynikające z członkostwa w grupie.
 - **Kapitał społeczny wspólnoty**: sieć relacji zaufania i wzajemności, która ułatwia wsparcie w sytuacjach kryzysowych.

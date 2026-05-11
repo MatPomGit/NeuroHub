@@ -1,6 +1,6 @@
 # Szablon artykuł‚u (APA 7)
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 
 - Krótko opisz tło tematu, jego znaczenie i aktualność.
 - Jeśli podajesz dane liczbowe, dodaj źródło w tekście (Autor, rok).

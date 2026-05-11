@@ -154,7 +154,7 @@ Recovery jest możliwe - dla większości osób z uzależnieniem, z lub bez form
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Kelly, J. F., Bergman, B., Hoeppner, B., Vilsaint, C., & White, W. (2017). Prevalence and pathways of recovery from drug and alcohol problems in the United States population. *Drug and Alcohol Dependence, 181*, 162–169.
 - Prochaska, J. O., & DiClemente, C. C. (1984). *The Transtheoretical Approach: Crossing Traditional Boundaries of Therapy*. Dow Jones-Irwin.

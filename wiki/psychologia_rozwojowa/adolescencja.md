@@ -109,7 +109,7 @@ Adolescencja jest ewolucyjnie uwarunkowanym, neuronalnie zdefiniowanym oknem, w 
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Arnett, J. J. (2000). Emerging adulthood: A theory of development from the late teens through the twenties. *American Psychologist, 55*(5), 469–480.
 - Chein, J., Albert, D., O'Brien, L., Uckert, K., & Steinberg, L. (2011). Peers increase adolescent risk taking by enhancing activity in the brain's reward circuitry. *Developmental Science, 14*(2), F1–F10.

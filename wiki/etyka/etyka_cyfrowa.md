@@ -148,7 +148,7 @@ Pojawienie się platform takich jak BetterHelp, Talkspace (za granicą) lub Mind
 
 ---
 
-## Literatura
+## Bibliografia
 
 1. American Psychological Association (2020). *Guidelines for the Practice of Telepsychology*. APA.
 2. Simpson, S. G., & Reid, C. L. (2014). Therapeutic alliance in videoconferencing psychotherapy: A review. *Australian Journal of Rural Health, 22*(6), 280–299.

@@ -6,10 +6,10 @@ evidenceCutoffDate: 2025-12-31
 
 # Testy neuropsychologiczne - przegląd
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Testy neuropsychologiczne służą do opisu profilu funkcji poznawczych, planowania rehabilitacji i monitorowania zmian w czasie. Ich interpretacja wymaga łączenia wyniku testowego z wywiadem, obserwacją kliniczną i danymi medycznymi.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Standaryzacja** – jednolita procedura przeprowadzania i oceniania testu.
 - **Normalizacja** – opracowanie norm dla określonych grup populacyjnych.
 - **Rzetelność testu** – stabilność i powtarzalność wyniku.

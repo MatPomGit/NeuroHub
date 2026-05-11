@@ -6,10 +6,10 @@ evidenceCutoffDate: 2025-12-31
 
 # Język
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Neuropsychologia języka opisuje, jak mózg przetwarza fonologię, składnię, semantykę i pragmatykę. Współczesne modele odchodzą od prostego lokalizacjonizmu na rzecz ujęcia sieciowego, które lepiej wyjaśnia zróżnicowane profile kliniczne.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Fonologia** – przetwarzanie dźwięków mowy.
 - **Semantyka** – przetwarzanie znaczenia słów i zdań.
 - **Składnia** – reguły budowania struktury zdania.

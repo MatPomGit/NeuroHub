@@ -114,7 +114,7 @@ Agresja jest zjawiskiem wielodeterminowanym: biologiczne predyspozycje (testoste
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Anderson, C. A., & Bushman, B. J. (2002). Human aggression. *Annual Review of Psychology, 53*, 27–51.
 - Bandura, A., Ross, D., & Ross, S. A. (1961). Transmission of aggression through imitation of aggressive models. *Journal of Abnormal and Social Psychology, 63*(3), 575–582.

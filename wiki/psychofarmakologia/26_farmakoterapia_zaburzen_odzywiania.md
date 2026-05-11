@@ -1,14 +1,14 @@
 # 26. Farmakoterapia zaburzeń odżywiania
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 W zaburzeniach odżywiania farmakoterapia ma rolę wspierającą i zależy od podtypu klinicznego oraz stanu somatycznego. Najwyższym priorytetem pozostaje bezpieczeństwo metaboliczne i interwencje psychoterapeutyczne.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
 - **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
 - **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Skuteczność leków jest zwykle umiarkowana; większe znaczenie ma łączenie farmakoterapii z terapią żywieniową, rodzinną i monitorowaniem medycznym.
 
 ## Praktyczne przykłady

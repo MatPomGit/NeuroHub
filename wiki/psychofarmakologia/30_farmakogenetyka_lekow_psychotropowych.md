@@ -1,14 +1,14 @@
 # 30. Farmakogenetyka leków psychotropowych
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Farmakogenetyka analizuje, jak warianty genetyczne wpływają na metabolizm, skuteczność i tolerancję leków psychotropowych. Najczęściej dotyczy genów enzymów CYP oraz wybranych markerów farmakodynamicznych.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
 - **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
 - **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
 
-## Analiza mechanizmów i zależności
+## Analiza
 W praktyce klinicznej testy mają największą wartość u pacjentów z nietypową tolerancją, wieloma niepowodzeniami leczenia lub wysokim ryzykiem interakcji. Nie zastępują jednak oceny klinicznej.
 
 ## Praktyczne przykłady

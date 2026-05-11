@@ -1,14 +1,14 @@
 # 27. Farmakologiczne leczenie zaburzeń seksualnych
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Farmakologiczne leczenie zaburzeń seksualnych wymaga precyzyjnej diagnostyki różnicowej: biologicznej, psychologicznej i relacyjnej. W psychiatrii szczególnie ważne jest odróżnienie objawów choroby od działań niepożądanych leków.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
 - **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
 - **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Modyfikacja psychofarmakoterapii (np. zmiana leku, dawki, strategii augmentacji) bywa równie ważna jak leczenie bezpośrednio ukierunkowane na funkcje seksualne.
 
 ## Praktyczne przykłady

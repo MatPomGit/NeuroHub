@@ -6,10 +6,10 @@ evidenceCutoffDate: 2025-12-31
 
 # Przykład testu Stroopa (wersja tekstowa)
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Test Stroopa jest klasycznym narzędziem badania hamowania poznawczego i kontroli uwagi. Wersja poniższa ma charakter dydaktyczny i nie zastępuje standaryzowanych narzędzi klinicznych.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Efekt Stroopa** – wydłużenie czasu reakcji i/lub wzrost błędów w warunku niezgodnym.
 - **Interferencja** – konflikt między automatycznym czytaniem słowa a zadaniem nazwania koloru atramentu.
 - **Hamowanie reakcji** – zdolność powstrzymania dominującej odpowiedzi.

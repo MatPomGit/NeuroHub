@@ -1,14 +1,14 @@
 # Mindfulness i regulacja apetytu
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Techniki uważności pomagają zauważyć impuls przed automatycznym działaniem.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Mindfulness**: celowa, nieoceniająca uwaga na bieżące doświadczenie.
 - **Jedzenie uważne**: świadome rozpoznawanie sygnałów głodu, sytości i smaku.
 - **Defuzja poznawcza**: dystansowanie się od myśli imperatywnych.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Uważność zmniejsza reaktywność na bodźce i wspiera hamowanie reakcji impulsywnej. Najlepiej działa jako komponent programu, a nie samodzielne narzędzie.
 
 ## Dobra praktyka

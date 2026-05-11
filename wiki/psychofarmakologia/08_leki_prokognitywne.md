@@ -1,14 +1,14 @@
 # 8. Leki prokognitywne
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Leki prokognitywne mają na celu poprawę funkcji poznawczych: uwagi, pamięci roboczej, szybkości przetwarzania i funkcji wykonawczych. W praktyce psychiatrycznej ich skuteczność bywa umiarkowana i zależna od diagnozy oraz profilu deficytu.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
 - **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
 - **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Interwencje farmakologiczne są najbardziej wartościowe, gdy łączy się je z remediacją poznawczą, higieną snu i treningiem funkcjonalnym. W izolacji efekt transferu do codziennego funkcjonowania bywa ograniczony.
 
 ## Praktyczne przykłady

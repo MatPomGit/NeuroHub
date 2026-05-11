@@ -1,14 +1,14 @@
 # 17. Farmakoterapia zaburzeń ze spektrum autyzmu
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 W ASD farmakoterapia ma charakter objawowy i wspierający: nie „leczy rdzenia” spektrum, ale może redukować drażliwość, impulsywność, zaburzenia snu czy współwystępujący lęk/ADHD.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
 - **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
 - **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Decyzje terapeutyczne wymagają oceny funkcjonalnej, profilu sensorycznego i obciążeń somatycznych. Priorytetem pozostają interwencje rozwojowe, edukacyjne i środowiskowe.
 
 ## Praktyczne przykłady

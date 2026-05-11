@@ -131,7 +131,7 @@ Kształtowanie tożsamości to dynamiczny, całożyciowy proces eksploracji i za
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Cass, V. C. (1979). Homosexual identity formation: A theoretical model. *Journal of Homosexuality*, 4(3), 219–235.
 - Erikson, E. H. (1950). *Childhood and Society*. Norton.

@@ -1,14 +1,14 @@
 # Środowisko żywieniowe i nawyki
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Nawyki żywieniowe kształtuje przede wszystkim otoczenie: dostępność, cena, ekspozycja i rutyna dnia.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Architektura wyboru**: sposób organizacji środowiska wpływający na decyzje.
 - **Nawyk**: automatyczna reakcja na powtarzalny bodziec.
 - **Bodziec wyzwalający**: sygnał uruchamiający zachowanie.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Powtarzalna ekspozycja na jedzenie wysokoprzetworzone zwiększa automatyzm sięgania po przekąski. Interwencje działają najlepiej, gdy modyfikują kontekst, a nie tylko intencję.
 
 ## Dobra praktyka

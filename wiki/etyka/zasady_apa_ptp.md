@@ -90,7 +90,7 @@ Zarówno kodeks APA, jak i kodeks PTP wyrażają wspólne wartości etyki zawodo
 
 ---
 
-## Literatura
+## Bibliografia
 
 - American Psychological Association. (2017). *Ethical principles of psychologists and code of conduct*. APA.
 - Polskie Towarzystwo Psychologiczne. (2018). *Kodeks Etyczno-Zawodowy Psychologa*. PTP.

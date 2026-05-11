@@ -93,7 +93,7 @@ Psychologia kulturowa przypomina, że umysł nie jest izolowanym mechanizmem - j
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Bruner, J. (1990). *Acts of Meaning*. Harvard University Press.
 - Cole, M. (1996). *Cultural Psychology: A Once and Future Discipline*. Harvard University Press.

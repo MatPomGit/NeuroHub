@@ -6,10 +6,10 @@ evidenceCutoffDate: 2026-03-31
 
 # Metodologia badań w psychologii religii
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Psychologia religii od lat zmaga się z paradoksem: mamy dużą liczbę badań, ale ich porównywalność bywa ograniczona przez różnice definicyjne i narzędziowe. Ten artykuł ma charakter roboczego przewodnika metodologicznego dla autorów i redaktorów kategorii. Celem jest poprawa jakości wnioskowania, a nie tylko zwiększanie liczby publikacji lub cytowań.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Operacjonalizacja religijności**: jawne określenie, czy badamy przekonania, praktyki, afiliację, doświadczenie duchowe, czy konflikty religijne.
 - **Rzetelność pomiaru**: stopień, w jakim narzędzie daje stabilne i spójne wyniki.
 - **Trafność konstruktu**: stopień, w jakim narzędzie rzeczywiście mierzy to, co deklaruje.

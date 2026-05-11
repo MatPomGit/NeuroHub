@@ -141,7 +141,7 @@ Terapia grupowa w uzależnieniach działa wieloma kanałami jednocześnie: reduk
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Humphreys, K. (2004). *Circles of Recovery: Self-Help Organizations for Addictions*. Cambridge University Press.
 - Yalom, I. D., & Leszcz, M. (2005). *The Theory and Practice of Group Psychotherapy* (5th ed.). Basic Books.

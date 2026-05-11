@@ -96,7 +96,7 @@ Atrakcyjność interpersonalna jest wypadkową czynników sytuacyjnych (bliskoś
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Buss, D. M. (1989). Sex differences in human mate preferences: Evolutionary hypotheses tested in 37 cultures. *Behavioral and Brain Sciences, 12*(1), 1–14.
 - Byrne, D. (1971). *The Attraction Paradigm*. Academic Press.

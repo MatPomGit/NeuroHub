@@ -101,7 +101,7 @@ Wymiar indywidualizm–kolektywizm jest jednym z najlepiej udokumentowanych wymi
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Hofstede, G. (2001). *Culture's Consequences: Comparing Values, Behaviors, Institutions and Organizations Across Nations* (2nd ed.). Sage.
 - Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation. *Psychological Review, 98*(2), 224–253.

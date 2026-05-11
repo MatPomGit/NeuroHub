@@ -1,14 +1,14 @@
 # Model RNR w praktyce
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Model Risk-Need-Responsivity jest podstawowym standardem projektowania programów resocjalizacyjnych.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Risk**: intensywność interwencji adekwatna do poziomu ryzyka.
 - **Need**: praca nad potrzebami kryminogennymi.
 - **Responsivity**: dopasowanie metody do stylu uczenia i możliwości osoby.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Największe efekty przynoszą programy wysokiej zgodności z RNR i dobrą jakością realizacji. Kluczowe jest aktywne uczenie umiejętności, nie tylko przekaz norm.
 
 ## Dobra praktyka

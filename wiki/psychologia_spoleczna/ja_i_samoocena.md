@@ -107,7 +107,7 @@ Ja i samoocena to wielowymiarowe konstrukty łączące procesy poznawcze, emocjo
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review, 84*(2), 191–215.
 - Baumeister, R. F. (1998). The self. W: D. T. Gilbert, S. T. Fiske & G. Lindzey (red.), *The Handbook of Social Psychology* (t. 1, s. 680–740). McGraw-Hill.

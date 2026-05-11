@@ -1,14 +1,14 @@
 # Czym jest nadmierne jedzenie?
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Nadmierne jedzenie to nie tylko „brak silnej woli”, ale złożony wzorzec regulacji napięcia, nagrody i nawyku. W praktyce klinicznej trzeba odróżniać epizodyczne przejadanie od utrwalonego problemu wpływającego na zdrowie somatyczne i funkcjonowanie psychospołeczne.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Nadmierne jedzenie**: spożywanie pokarmu ponad potrzeby fizjologiczne, zwykle pod wpływem bodźców emocjonalnych lub środowiskowych.
 - **Jedzenie kompulsywne**: powtarzalne epizody utraty kontroli nad ilością jedzenia.
 - **Regulacja emocji przez jedzenie**: używanie pokarmu do obniżenia napięcia, smutku lub lęku.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Wzorzec rozwija się najczęściej przez sprzężenie trzech procesów: wysokiej reaktywności na bodźce żywieniowe, niskiej tolerancji dyskomfortu emocjonalnego oraz automatyzacji zachowania. Im częściej jedzenie przynosi krótkoterminową ulgę, tym silniejsze staje się uczenie nawykowe i tym trudniej przerwać cykl.
 
 ## Dobra praktyka

@@ -10,7 +10,7 @@ evidenceCutoffDate: 2026-03-31
 
 W każdej rodzinie - zdrowej i dysfunkcyjnej - jej członkowie pełnią określone funkcje i role, które organizują życie grupy. Role te nie są przypisywane świadomie, lecz wyłaniają się z wzajemnych potrzeb systemu. W rodzinach zmagających się z chronicznym stresem, uzależnieniem, chorobą lub innymi kryzysami, role stają się jednak sztywne i determinują zachowanie jednostki kosztem jej indywidualnego rozwoju. Virginia Satir, Sharon Wegscheider-Cruse i wielu innych terapeutów systemowych opisało charakterystyczne role pojawiające się w rodzinach dysfunkcyjnych - jako schematy rozumiane nie patologicznie, lecz adaptacyjnie: jako odpowiedzi na potrzeby systemu w trudnych warunkach.
 
-## Definicje kluczowych pojęć
+## Definicje
 
 - **Rola rodzinna** - stabilny, powtarzalny wzorzec zachowania, uczuć i postaw, który dana osoba prezentuje w kontekście rodzinnym, często niezależnie od innych sytuacji społecznych.
 - **Kozioł ofiarny** (*scapegoat*) - osoba wskazana przez system jako źródło problemu; jej „złe zachowanie" skupia uwagę rodziny i paradoksalnie stabilizuje system, odwracając uwagę od głębszych napięć.

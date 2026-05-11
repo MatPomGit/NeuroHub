@@ -6,10 +6,10 @@ evidenceCutoffDate: 2026-03-31
 
 # Pozytywny wpływ religii na psychikę człowieka
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Religia i duchowość mogą pełnić ważną funkcję ochronną dla psychiki, szczególnie w sytuacjach stresu, straty i choroby. Psychologia religii nie traktuje tego wpływu jako uniwersalnego, ale jako warunkowy: korzystny efekt pojawia się najczęściej wtedy, gdy religijność wzmacnia sens, więź i regulację emocji. Celem artykułu jest pokazanie mechanizmów, a nie promowanie określonego światopoglądu.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Pozytywny coping religijny**: strategie oparte na nadziei, zaufaniu i aktywnym poszukiwaniu sensu.
 - **Dobrostan psychiczny**: względnie stabilne poczucie sensu, sprawstwa i równowagi emocjonalnej.
 - **Wsparcie wspólnotowe**: praktyczna i emocjonalna pomoc otrzymywana w sieci relacji społecznych.

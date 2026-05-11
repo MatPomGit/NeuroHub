@@ -1,14 +1,14 @@
 # 20. Farmakoterapia zespołów stresowych
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 W PTSD i pokrewnych zespołach stresowych farmakoterapia jest interwencją wspomagającą, a nie substytutem terapii ukierunkowanej na traumę. Najwięcej danych dotyczy wybranych leków przeciwdepresyjnych.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
 - **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
 - **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Istotna jest ostrożność wobec leków o potencjale uzależniającym i koncentracja na poprawie snu, nadpobudliwości autonomicznej oraz współwystępujących objawów depresyjno-lękowych.
 
 ## Praktyczne przykłady

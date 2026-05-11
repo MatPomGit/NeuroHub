@@ -1,14 +1,14 @@
 # 28. Farmakoterapia zaburzeń snu
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Leczenie zaburzeń snu powinno zaczynać się od diagnostyki przyczyny (insomnia, zaburzenia rytmu, bezdech, RLS, parasomnie). Farmakoterapia jest elementem szerszego planu obejmującego higienę snu i CBT-I.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
 - **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
 - **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Celem nie jest tylko skrócenie latencji snu, lecz poprawa jakości i funkcjonowania dziennego. Długotrwała sedacja bez modyfikacji czynników podtrzymujących zwykle daje słabe efekty.
 
 ## Praktyczne przykłady

@@ -1,14 +1,14 @@
 # Trening umiejętności społecznych i samokontroli
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Deficyty samokontroli i kompetencji społecznych zwiększają ryzyko impulsywnych zachowań naruszających normy.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Samokontrola**: zdolność hamowania impulsywnych reakcji.
 - **Umiejętności społeczne**: repertuar zachowań służących konstruktywnej komunikacji i współpracy.
 - **Trening behawioralny**: nauka przez modelowanie, ćwiczenie i informację zwrotną.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Trwała zmiana wymaga wielokrotnej praktyki w sytuacjach zbliżonych do realnych. Sama wiedza deklaratywna nie przekłada się automatycznie na zachowanie.
 
 ## Dobra praktyka

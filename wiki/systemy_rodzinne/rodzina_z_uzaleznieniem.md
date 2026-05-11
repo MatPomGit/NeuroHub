@@ -10,7 +10,7 @@ evidenceCutoffDate: 2026-03-31
 
 Uzależnienie od substancji lub zachowania rzadko dotyczy wyłącznie jednostki. Badania kliniczne od lat siedemdziesiątych XX wieku konsekwentnie wskazują, że rodzina osoby uzależnionej współtworzy i podtrzymuje dynamikę uzależnienia - często wbrew własnym intencjom. Każdy członek rodziny adaptuje się do obecności uzależnienia, rozwijając strategie przeżycia, które z kolei stają się częścią systemu podtrzymującego problem. Terapeuci określają tę dynamikę mianem **współuzależnienia** lub - bardziej systemowo - **rodziny jako systemu uzależnieniowego**. Zrozumienie tej dynamiki jest warunkiem skutecznej pomocy zarówno osobie uzależnionej, jak i całej rodzinie.
 
-## Definicje kluczowych pojęć
+## Definicje
 
 - **Współuzależnienie** (*codependency*) - wzorzec zachowania, w którym bliski osoby uzależnionej organizuje swoje życie wokół problemów uzależnionego: kontroluje, ratuje, ukrywa konsekwencje, rezygnuje z własnych potrzeb.
 - **Enabling** (*umożliwianie*) - zachowania bliskich, które nieświadomie ułatwiają kontynuowanie uzależnienia: opłacanie długów, kłamanie w imieniu uzależnionego, minimalizowanie problemu.

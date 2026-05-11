@@ -1,14 +1,14 @@
 # Prawa dziecka i standardy ochrony
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Standardy ochrony dziecka są fundamentem etycznym i prawnym wszystkich działań pomocowych.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Najlepszy interes dziecka**: nadrzędne kryterium decyzji.
 - **Standardy ochrony małoletnich**: procedury zapobiegania krzywdzeniu i reagowania.
 - **Uczestnictwo dziecka**: uwzględnianie głosu dziecka adekwatnie do wieku.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Naruszenia praw dziecka często wynikają z „dobrej intencji” bez procedur i superwizji. Ochrona wymaga jasnych kanałów zgłaszania i reagowania.
 
 ## Dobra praktyka

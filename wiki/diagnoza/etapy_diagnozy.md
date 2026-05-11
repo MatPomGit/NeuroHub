@@ -6,7 +6,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Etapy i cele diagnozy psychologicznej
 
-## 1. Wprowadzenie i kontekst
+## 1. Wprowadzenie
 
 Diagnoza psychologiczna jest procesem naukowym, którego celem jest nie tylko klasyfikacja objawów, ale przede wszystkim **wyjaśnienie mechanizmów funkcjonowania człowieka w kontekście biologicznym, poznawczym i społecznym**. W nowoczesnych standardach oceny klinicznej podkreśla się zasadę *evidence-based assessment* (EBA), czyli łączenie danych z wielu źródeł oraz ciągłe testowanie hipotez diagnostycznych [1,2].
 
@@ -14,7 +14,7 @@ Warto pamiętać, że na świecie niemal **1 na 8 osób** żyje z zaburzeniem ps
 
 ---
 
-## 2. Definicje kluczowych pojęć
+## 2. Definicje
 
 - **Diagnoza psychologiczna** – uporządkowany proces zbierania, integracji i interpretacji danych o funkcjonowaniu osoby, prowadzony w celu opisu, wyjaśnienia, rokowania i planowania interwencji [1,4].
 - **Hipoteza diagnostyczna** – robocze wyjaśnienie obserwowanych trudności, które podlega empirycznej weryfikacji.

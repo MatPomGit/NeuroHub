@@ -6,10 +6,10 @@ evidenceCutoffDate: 2026-03-31
 
 # Rozwój religijności
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Rozwój religijności to długotrwały proces, w którym zmieniają się przekonania, praktyki, emocje religijne i funkcja wiary w codziennym życiu. Współczesne badania odchodzą od modelu liniowego, zakładającego nieuchronny wzrost lub spadek religijności z wiekiem. Coraz częściej mówi się o trajektoriach: okresach stabilizacji, kryzysu, rekonfiguracji i ponownej integracji. Taki obraz lepiej odpowiada danym podłużnym i obserwacjom klinicznym.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Rozwój religijności**: zmiana jakości i funkcji religijności w czasie życia, a nie tylko zmiana jej nasilenia.
 - **Religijność wewnętrzna**: orientacja, w której wiara stanowi zintegrowaną część tożsamości i systemu wartości.
 - **Religijność zewnętrzna**: orientacja, w której praktyki religijne pełnią głównie funkcje społeczne, statusowe lub instrumentalne.

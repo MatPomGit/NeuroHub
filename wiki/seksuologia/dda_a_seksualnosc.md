@@ -100,7 +100,7 @@ Wpływ DDA na seksualność dorosłych najczęściej dotyczy obszaru zaufania, g
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Cermak, T. L. (1986). Diagnosing and treating co-dependence.
 - Woititz, J. G. (1983). *Adult Children of Alcoholics*.

@@ -10,11 +10,11 @@ Przypadek amnezji po uszkodzeniu wzgórza, który uzupełnił klasyczne dane z H
 
 *USA, od 1960 r.*
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 
 N.A. doznał urazu mózgu po przypadkowym penetrującym uszkodzeniu okolicy międzymózgowia. W efekcie rozwinęła się wyraźna amnezja anterogradna przy relatywnie łagodniejszym obrazie niż u H.M.
 
-## Definicje kluczowych pojęć
+## Definicje
 
 - **Diencephalic amnesia (amnezja międzymózgowiowa):** zaburzenia pamięci związane głównie z uszkodzeniami wzgórza i ciał suteczkowatych.
 - **Konsolidacja pamięci:** proces stabilizacji śladu pamięciowego po kodowaniu.

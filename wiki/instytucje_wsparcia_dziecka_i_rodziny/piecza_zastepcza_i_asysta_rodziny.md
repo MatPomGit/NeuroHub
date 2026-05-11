@@ -1,14 +1,14 @@
 # Piecza zastępcza i asysta rodziny
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Piecza i asysta mają chronić dziecko oraz odbudowywać kompetencje opiekuńczo-wychowawcze systemu rodzinnego.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Piecza zastępcza**: czasowa lub długoterminowa opieka poza rodziną biologiczną.
 - **Asysta rodziny**: wsparcie mające umożliwić bezpieczne funkcjonowanie dziecka w rodzinie.
 - **Plan permanencji**: decyzja o trwałym, stabilnym rozwiązaniu opieki.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Długie okresy niepewności opiekuńczej pogarszają rokowanie rozwojowe. Kluczowe są stabilność relacji, przewidywalność i praca nad traumą.
 
 ## Dobra praktyka

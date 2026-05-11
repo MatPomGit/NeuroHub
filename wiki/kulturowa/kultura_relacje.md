@@ -128,7 +128,7 @@ Kultura przenika każdy aspekt relacji interpersonalnych - od tego, co rozumiemy
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Hall, E. T. (1976). *Beyond Culture*. Anchor Books/Doubleday.
 - Gupta, U., & Singh, P. (1982). Exploratory study of love and liking and type of marriages. *Indian Journal of Applied Psychology, 19*(2), 92–97.

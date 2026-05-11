@@ -1,14 +1,14 @@
 # Diagnoza ryzyka i potrzeb
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Diagnoza ryzyka recydywy oraz potrzeb kryminogennych jest warunkiem efektywnego planowania oddziaływań.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Ryzyko recydywy**: prawdopodobieństwo ponownego naruszenia prawa.
 - **Potrzeby kryminogenne**: modyfikowalne czynniki powiązane z przestępczością.
 - **Czynniki ochronne**: zasoby obniżające ryzyko.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Narzędzia aktuarialne zwiększają trafność predykcji, ale wymagają interpretacji klinicznej i aktualizacji danych. Decyzje powinny opierać się na wielu źródłach.
 
 ## Dobra praktyka

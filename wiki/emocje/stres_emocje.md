@@ -120,7 +120,7 @@ Regulacja emocji jest więc **integralną częścią radzenia sobie ze stresem**
 
 ---
 
-## Literatura
+## Bibliografia
 
 1. Lazarus, R. S., & Folkman, S. (1984). *Stress, Appraisal, and Coping*. Springer.
 2. Lazarus, R. S. (1991). *Emotion and Adaptation*. Oxford University Press.

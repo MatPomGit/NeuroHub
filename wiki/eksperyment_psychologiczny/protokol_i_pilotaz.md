@@ -6,10 +6,10 @@ evidenceCutoffDate: 2025-12-31
 
 # Protokół badania i pilotaż
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Protokół badania to szczegółowa specyfikacja wykonania eksperymentu, a pilotaż jest testem jego odporności w realnych warunkach. W projektach R&D pilotaż ogranicza koszt błędów wykrywanych dopiero po starcie badania głównego.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Protokół badania** – dokument opisujący cele, procedurę, role i kryteria jakości.
 - **Pilotaż** – ograniczone wdrożenie próbne przed badaniem właściwym.
 - **Kryteria gotowości (go/no-go)** – progi jakościowe warunkujące start badania głównego.

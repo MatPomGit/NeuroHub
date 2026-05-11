@@ -1,14 +1,14 @@
 # Ochrona zdrowia psychicznego dzieci
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 System ochrony zdrowia psychicznego dzieci wymaga szybkiej triage, ciągłości opieki i współpracy ze środowiskiem dziecka.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Triage**: priorytetyzacja pilności i typu pomocy.
 - **Opieka środowiskowa**: wsparcie realizowane blisko miejsca życia dziecka.
 - **Ciągłość opieki**: spójność działań między poziomami systemu.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Największe ryzyko kliniczne dotyczy luk przejściowych: wypis, zmiana placówki, brak komunikacji z rodziną i szkołą. Integracja danych i planu leczenia jest krytyczna.
 
 ## Dobra praktyka

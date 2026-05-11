@@ -127,7 +127,7 @@ Formułowanie przypadku klinicznego jest fundamentalnym narzędziem pracy psycho
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Beck, A. T., Rush, A. J., Shaw, B. F., & Emery, G. (1979). *Cognitive Therapy of Depression*. Guilford Press.
 - Engel, G. L. (1977). The need for a new medical model: A challenge for biomedicine. *Science, 196*(4286), 129–136.

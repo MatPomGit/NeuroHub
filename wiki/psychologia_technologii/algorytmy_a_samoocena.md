@@ -6,11 +6,11 @@ evidenceCutoffDate: 2026-03-31
 
 # Algorytmy personalizacji a samoocena
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 
 Algorytmy personalizacji porządkują treści na podstawie przewidywanego zaangażowania użytkownika. Z perspektywy psychologicznej oznacza to selekcję bodźców, które częściej aktywują emocje, porównania społeczne i ocenę własnej wartości. W konsekwencji środowisko informacyjne nie jest neutralne: współkształtuje to, jak człowiek widzi siebie.
 
-## Definicje kluczowych pojęć
+## Definicje
 
 - **Algorytm personalizacji** - model rekomendacyjny, który dopasowuje treści do historii zachowań, preferencji i sygnałów kontekstowych użytkownika.
 - **Samoocena** - względnie trwała ocena własnej wartości; może mieć komponent globalny i domenowy.

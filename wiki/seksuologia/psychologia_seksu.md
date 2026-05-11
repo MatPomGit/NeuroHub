@@ -106,7 +106,7 @@ Psychologia seksu pokazuje, że satysfakcja seksualna jest wypadkową biologii, 
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Basson, R. (2000). The female sexual response: A different model. *Journal of Sex & Marital Therapy, 26*(1), 51–65.
 - Brotto, L. A., & Basson, R. (2014). Group mindfulness-based therapy significantly improves sexual desire in women. *Behavior Research and Therapy, 57*, 43–54.

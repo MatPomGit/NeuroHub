@@ -1,9 +1,9 @@
 # Rola traumy, adverse childhood experiences (ACE) i stresu chronicznego w ryzyku samobójstwa
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Trauma oraz długotrwały stres należą do najsilniejszych, a zarazem często niedoszacowanych predyktorów zachowań suicydalnych. Szczególne znaczenie mają **adverse childhood experiences (ACE)**, czyli niekorzystne doświadczenia z dzieciństwa (np. przemoc, zaniedbanie, chaos rodzinny), które wpływają na rozwój regulacji emocji, wzorców przywiązania i neurobiologii stresu.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Trauma** – doświadczenie przekraczające zdolność jednostki do adaptacyjnego przetwarzania zdarzenia i poczucia bezpieczeństwa.
 - **ACE** – skumulowane niekorzystne doświadczenia we wczesnym okresie życia, zwiększające ryzyko zaburzeń psychicznych i somatycznych.
 - **Stres chroniczny** – długotrwałe obciążenie psychofizjologiczne bez adekwatnej regeneracji.

@@ -6,10 +6,10 @@ evidenceCutoffDate: 2026-03-31
 
 # Rytuały i zdrowie
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Rytuały religijne od wieków pełnią funkcję regulowania napięcia, wzmacniania więzi i porządkowania czasu społecznego. Współczesna psychologia i psychofizjologia badają je nie tylko jako praktyki kulturowe, ale też jako powtarzalne sekwencje działań wpływające na emocje, uwagę i zachowanie zdrowotne. Kluczowe pytanie brzmi nie "czy rytuał działa", lecz "w jakich warunkach działa ochronnie, a kiedy utrwala sztywność i lęk".
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Rytuał religijny**: zrytualizowana praktyka o ustalonej formie, znaczeniu symbolicznym i zakorzenieniu wspólnotowym.
 - **Synchronia rytualna**: jednoczesne wykonywanie działań przez grupę, sprzyjające poczuciu jedności i koordynacji społecznej.
 - **Regulacja allostatyczna**: adaptacyjne dostrajanie układu stresu przez powtarzalne wzorce zachowania i przewidywalność środowiska.

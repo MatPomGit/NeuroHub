@@ -1,14 +1,14 @@
 # 31. Psychofarmakoterapia wieku dziecięco-młodzieżowego
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 U dzieci i młodzieży farmakoterapia wymaga uwzględnienia odrębnej farmakokinetyki, neurorozwoju i wpływu leczenia na dojrzewanie psychospołeczne. Decyzje powinny być podejmowane w modelu rodzina–klinicyści–pacjent.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
 - **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
 - **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
 
-## Analiza mechanizmów i zależności
+## Analiza
 W schizofrenii, depresji i ChAD konieczne jest łączenie leków z terapiami psychospołecznymi oraz monitorowanie wzrostu, masy ciała, snu, funkcjonowania szkolnego i ryzyka samobójczego.
 
 ## Praktyczne przykłady

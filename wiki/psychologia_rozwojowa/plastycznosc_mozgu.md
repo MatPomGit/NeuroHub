@@ -115,7 +115,7 @@ Plastyczność mózgu nie jest przywilejem tylko dziecięcego umysłu - jest fun
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Bliss, T. V., & Lømo, T. (1973). Long-lasting potentiation of synaptic transmission. *Journal of Physiology, 232*(2), 331–356.
 - Curtiss, S. (1977). *Genie: A Psycholinguistic Study of a Modern-Day Wild Child*. Academic Press.

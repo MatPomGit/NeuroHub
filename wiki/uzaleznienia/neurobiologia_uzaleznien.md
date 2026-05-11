@@ -145,7 +145,7 @@ Neurobiologia uzależnień ujawnia, że nałóg jest głęboko zakorzeniony w ob
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Koob, G. F., & Volkow, N. D. (2016). Neurobiology of addiction: A neurocircuitry analysis. *The Lancet Psychiatry, 3*(8), 760–773.
 - Nestler, E. J. (2005). Is there a common molecular pathway for addiction? *Nature Neuroscience, 8*(11), 1445–1449.

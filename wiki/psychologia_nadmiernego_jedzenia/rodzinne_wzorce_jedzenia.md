@@ -1,14 +1,14 @@
 # Rodzinne wzorce jedzenia
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Rodzina kształtuje reguły jedzenia, język wokół ciała i sposoby radzenia sobie z napięciem.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Modelowanie rodzinne**: uczenie przez obserwację zachowań dorosłych.
 - **Kontrola żywieniowa**: sztywne sterowanie dostępem do pokarmu.
 - **Responsywne karmienie**: reagowanie na sygnały głodu i sytości.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Nadmierna kontrola i moralizowanie jedzenia mogą osłabiać sygnały interoceptywne dziecka. Współregulacja i przewidywalne rytuały sprzyjają stabilizacji.
 
 ## Dobra praktyka

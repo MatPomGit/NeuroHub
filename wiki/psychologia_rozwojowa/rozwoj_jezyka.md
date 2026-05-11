@@ -118,7 +118,7 @@ Akwizycja języka jest procesem wyłaniającym się na styku biologii i kultury.
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Bruner, J. (1983). *Child's Talk: Learning to Use Language*. Norton.
 - Chomsky, N. (1959). Review of B.F. Skinner's Verbal Behavior. *Language*, 35(1), 26–58.

@@ -104,7 +104,7 @@ Kultura kształtuje emocje na wielu poziomach jednocześnie: wpływa na to, któ
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Barrett, L. F. (2017). *How Emotions Are Made: The Secret Life of the Brain*. Houghton Mifflin Harcourt.
 - Ekman, P., & Friesen, W. V. (1969). The repertoire of nonverbal behavior: Categories, origins, usage and coding. *Semiotica, 1*(1), 49–98.

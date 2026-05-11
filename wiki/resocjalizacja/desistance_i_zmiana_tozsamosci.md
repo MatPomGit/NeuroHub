@@ -1,14 +1,14 @@
 # Desistance i zmiana tożsamości
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Desistance podkreśla, że trwałe odchodzenie od przestępczości wiąże się ze zmianą tożsamości i relacji społecznych.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Desistance**: proces stopniowego wygaszania aktywności przestępczej.
 - **Tożsamość prospołeczna**: obraz siebie jako osoby zdolnej do legalnego, odpowiedzialnego życia.
 - **Punkt zwrotny**: wydarzenie uruchamiające nową trajektorię życia.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Zmiana zachowania utrzymuje się, gdy osoba tworzy nową narrację życiową i uzyskuje realne role społeczne (praca, rodzicielstwo, edukacja).
 
 ## Dobra praktyka

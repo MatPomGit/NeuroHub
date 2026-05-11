@@ -110,7 +110,7 @@ Wstyd własnego ciała może subtelnie, ale silnie wpływać na wybór pozycji s
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Cash, T. F. (2012). Cognitive-behavioral perspectives on body image.
 - Dove, N. L., Wiederman, M. W. (2000). Cognitive distraction and women’s sexual functioning. *Journal of Sex & Marital Therapy, 26*(1), 67–78.

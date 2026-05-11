@@ -10,11 +10,11 @@ Przypadek wzrokowej agnozji formy, który stał się filarem rozróżnienia na �
 
 *Kanada, badania od lat 90. XX w.*
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 
 D.F. doznała uszkodzenia okolic potyliczno-skroniowych po zatruciu tlenkiem węgla. Po zdarzeniu miała poważne trudności z rozpoznawaniem kształtów obiektów, przy jednocześnie relatywnie lepszym wykonywaniu niektórych czynności chwytania.
 
-## Definicje kluczowych pojęć
+## Definicje
 
 - **Agnozja wzrokowa (forma):** zaburzenie rozpoznawania kształtów i obiektów przy względnie zachowanym widzeniu elementarnym.
 - **Strumień brzuszny („co”):** szlak potyliczno-skroniowy odpowiedzialny głównie za identyfikację obiektów.

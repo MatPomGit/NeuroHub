@@ -29,8 +29,8 @@ Ten dokument określa zasady pracy agenta AI, który tworzy lub modyfikuje treś
 
 Każdy nowy lub aktualizowany artykuł powinien (o ile temat na to pozwala) zawierać:
 
-1. Krótkie wprowadzenie i kontekst.
-2. Definicje kluczowych pojęć.
+1. Krótkie wprowadzenie.
+2. Definicje.
 3. Część analityczną z omówieniem mechanizmów i zależności.
 4. **Praktyczne przykłady**:
    - co najmniej jeden przykład „dobrej praktyki”,

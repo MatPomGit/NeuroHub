@@ -131,7 +131,7 @@ Hiperseksualność w ujęciu psychologicznym najczęściej pełni funkcję regul
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Kafka, M. P. (2010). Hypersexual disorder: A proposed diagnosis for DSM-5. *Archives of Sexual Behavior, 39*(2), 377–400.
 - Bancroft, J., & Vukadinovic, Z. (2004). Sexual addiction, sexual compulsivity, sexual impulsivity. *Journal of Sex Research, 41*(3), 225–234.

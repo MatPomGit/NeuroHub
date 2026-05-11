@@ -6,11 +6,11 @@ evidenceCutoffDate: 2026-03-31
 
 # Psychoedukacja rodzinna w erze ekranów
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 
 Rodzina jest podstawowym środowiskiem uczenia się samoregulacji cyfrowej. W erze ekranów psychoedukacja rodzinna nie polega na prostym „ograniczaniu czasu”, lecz na budowaniu kompetencji: rozumienia mechanizmów platform, emocji związanych z byciem online oraz zasad bezpiecznej i rozwojowej obecności w sieci.
 
-## Definicje kluczowych pojęć
+## Definicje
 
 - **Psychoedukacja rodzinna** - proces przekazywania rodzinie wiedzy i narzędzi wspierających zdrowe funkcjonowanie psychiczne.
 - **Mediacja rodzicielska mediów** - strategie rodziców dotyczące monitorowania, współużywania i omawiania treści cyfrowych.

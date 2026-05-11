@@ -1,14 +1,14 @@
 # 37. Farmakologiczne aspekty terapii elektrowstrząsowej (EW)
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Skuteczność i bezpieczeństwo EW zależą nie tylko od parametrów stymulacji, ale także od farmakoterapii okołozabiegowej. Interakcje obejmują próg drgawkowy, jakość napadu i profil poznawczy po zabiegu.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
 - **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
 - **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Plan leczenia powinien obejmować modyfikację leków zwiększających próg drgawkowy, kontrolę ryzyka sercowo-naczyniowego i opiekę po serii EW. Decyzje muszą być indywidualizowane.
 
 ## Praktyczne przykłady

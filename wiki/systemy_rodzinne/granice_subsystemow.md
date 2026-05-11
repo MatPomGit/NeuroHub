@@ -10,7 +10,7 @@ evidenceCutoffDate: 2026-03-31
 
 Pojęcie granicy (*boundary*) jest jednym z najbardziej operacyjnych narzędzi w terapii systemowej. Salvador Minuchin wprowadził je jako sposób opisu reguł określających, kto uczestniczy w danej interakcji i w jaki sposób. Granice nie są fizyczne - są funkcjonalne i psychologiczne. Można je obserwować w tym, kto mówi do kogo, kto podejmuje jakie decyzje, kto ma dostęp do czyich tajemnic i kto może przekroczyć przestrzeń emocjonalną innej osoby bez jej zaproszenia. Zrozumienie jakości granic w rodzinie jest kluczowe dla zrozumienia zarówno jej mocnych stron, jak i obszarów podatnych na dysfunkcję.
 
-## Definicje kluczowych pojęć
+## Definicje
 
 - **Granica subsystemu** - reguła lub zestaw reguł definiujący, kto jest częścią danego podsystemu i w jaki sposób mogą z nim wchodzić w interakcję osoby spoza niego.
 - **Granica rozmyta** (*diffuse boundary*) - granica zbyt przepuszczalna; brak wyraźnego oddzielenia między podsystemami prowadzi do uwikłania (*enmeshment*).

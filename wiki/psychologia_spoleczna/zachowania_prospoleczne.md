@@ -120,7 +120,7 @@ Zachowania prospołeczne mają wielorakie korzenie: ewolucyjne (selekcja krewnyc
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Batson, C. D., Duncan, B. D., Ackerman, P., Buckley, T., & Birch, K. (1981). Is empathic emotion a source of altruistic motivation? *Journal of Personality and Social Psychology, 40*(2), 290–302.
 - Clary, E. G., Snyder, M., Ridge, R. D., Copeland, J., Stukas, A. A., Haugen, J., & Miene, P. (1998). Understanding and assessing the motivations of volunteers. *Journal of Personality and Social Psychology, 74*(6), 1516–1530.

@@ -1,14 +1,14 @@
 # OPS i praca socjalna
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Ośrodek pomocy społecznej pełni rolę pierwszego kontaktu dla rodzin z problemami bytowymi i opiekuńczymi.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Praca socjalna**: profesjonalne działanie wzmacniające zasoby i samodzielność rodziny.
 - **Asystentura rodziny**: intensywne wsparcie środowiskowe ukierunkowane na poprawę funkcjonowania.
 - **Kontrakt socjalny**: uzgodniony plan celów i zobowiązań.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Najlepsze efekty daje połączenie wsparcia materialnego, edukacji kompetencji i pracy relacyjnej. Sam transfer świadczeń rzadko rozwiązuje problem długoterminowo.
 
 ## Dobra praktyka

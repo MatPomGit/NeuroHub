@@ -106,7 +106,7 @@ Oba systemy klasyfikacyjne ujmują uzależnienie jako wielowymiarowy, przewlekł
 
 ---
 
-## Literatura
+## Bibliografia
 
 - American Psychiatric Association. (2022). *Diagnostic and Statistical Manual of Mental Disorders* (5th ed., text rev.). APA Publishing.
 - Ferguson, C. J. (2017). Everything in moderation: Moderate use of screens unassociated with child behavior problems. *Psychiatric Quarterly, 88*(4), 797–805.

@@ -1,14 +1,14 @@
 # 34. Leczenie zaburzeń psychicznych w przebiegu chorób somatycznych
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 W chorobach somatycznych objawy psychiczne mogą wynikać z choroby podstawowej, jej leczenia lub niezależnej współchorobowości. Farmakoterapia wymaga uwzględnienia osi narządowej i interakcji lek–lek.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
 - **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
 - **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Najlepsze wyniki daje model konsultacyjno-liaison, w którym psychiatria i medycyna somatyczna współtworzą plan leczenia i monitorowania.
 
 ## Praktyczne przykłady

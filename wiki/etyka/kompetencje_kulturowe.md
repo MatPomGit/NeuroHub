@@ -126,7 +126,7 @@ Kimberlé Crenshaw (1989) wprowadziła pojęcie **intersekscjonalności** - toż
 
 ---
 
-## Literatura
+## Bibliografia
 
 1. Sue, D. W., Arredondo, P., & McDavis, R. J. (1992). Multicultural counseling competencies and standards. *Journal of Counseling and Development, 70*(4), 477–486.
 2. Sue, D. W., Capodilupo, C. M., Torino, G. C., Bucceri, J. M., Holder, A. M. B., Nadal, K. L., & Esquilin, M. (2007). Racial microaggressions in everyday life. *American Psychologist, 62*(4), 271–286.

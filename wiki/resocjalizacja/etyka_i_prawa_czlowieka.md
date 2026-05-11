@@ -1,14 +1,14 @@
 # Etyka i prawa człowieka
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Działania resocjalizacyjne muszą respektować godność osoby i standardy praw człowieka.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Godność osoby**: niezbywalna wartość przysługująca każdemu człowiekowi.
 - **Proporcjonalność oddziaływań**: adekwatność środków do celu i ryzyka.
 - **Minimalizacja szkody**: ograniczanie skutków ubocznych interwencji.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Naruszenia praw osłabiają skuteczność programów, zwiększają opór i ryzyko wtórnej marginalizacji. Etyka nie jest przeszkodą, lecz warunkiem efektywności.
 
 ## Dobra praktyka

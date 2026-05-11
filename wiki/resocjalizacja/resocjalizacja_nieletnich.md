@@ -1,14 +1,14 @@
 # Resocjalizacja nieletnich
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Praca z nieletnimi wymaga podejścia rozwojowego i rodzinno-środowiskowego.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Nieletni**: osoba, której odpowiedzialność prawna i rozwój psychospołeczny wymagają odrębnych procedur.
 - **Plastyczność rozwojowa**: większa podatność na zmianę w okresie adolescencji.
 - **Interwencje rodzinne**: metody angażujące opiekunów i środowisko.
 
-## Analiza mechanizmów i zależności
+## Analiza
 U młodzieży czynniki ryzyka są silnie osadzone w kontekście rówieśniczym i rodzinnym. Programy multisystemowe mają przewagę nad izolowanymi oddziaływaniami instytucjonalnymi.
 
 ## Dobra praktyka

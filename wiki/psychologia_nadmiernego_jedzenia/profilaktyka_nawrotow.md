@@ -1,14 +1,14 @@
 # Profilaktyka nawrotów
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Nawrót nie jest porażką, lecz sygnałem, że plan musi lepiej odpowiadać warunkom życia pacjenta.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Nawrót**: powrót do wcześniejszego wzorca objawów po okresie poprawy.
 - **Sygnały ostrzegawcze**: wczesne wskaźniki wzrostu ryzyka nawrotu.
 - **Plan bezpieczeństwa behawioralnego**: zestaw kroków uruchamianych przy sygnałach alarmowych.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Najczęściej nawrót wywołują kumulujące się mikrostresory, spadek snu i przerwanie monitoringu. Skuteczna profilaktyka obejmuje plan „jeśli–to” i sieć wsparcia.
 
 ## Dobra praktyka

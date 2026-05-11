@@ -107,7 +107,7 @@ Perswazja i propaganda operują na tych samych mechanizmach psychologicznych - r
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Brehm, J. W. (1966). *A Theory of Psychological Reactance*. Academic Press.
 - Brignull, H. (2010). Dark patterns: Deception vs. honesty in UI design. W: *A List Apart*.

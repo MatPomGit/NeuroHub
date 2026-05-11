@@ -1,14 +1,14 @@
 # 6. Leki przeciwdepresyjne
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Leki przeciwdepresyjne obejmują m.in. SSRI, SNRI, TLPD, IMAO oraz leki o mechanizmach wieloreceptorowych. Ich skuteczność jest porównywalna grupowo, lecz indywidualna odpowiedź pacjenta pozostaje zróżnicowana.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
 - **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
 - **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Dobór leku powinien uwzględniać profil objawów (np. bezsenność, anergia, lęk), choroby współistniejące, interakcje i wcześniejsze odpowiedzi na leczenie. W depresji opornej rośnie znaczenie strategii augmentacji i interwencji szybkodziałających.
 
 ## Praktyczne przykłady

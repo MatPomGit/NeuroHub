@@ -1,14 +1,14 @@
 # Obraz ciała i samokrytycyzm
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Niezadowolenie z ciała zwiększa ryzyko cykli restrykcja–przejedzenie i podtrzymuje objawy.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Obraz ciała**: poznawczo-emocjonalna reprezentacja własnego ciała.
 - **Samokrytycyzm**: nawyk surowej oceny siebie.
 - **Internalizacja ideału**: przyjęcie społecznych norm wyglądu jako własnego standardu wartości.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Samokrytycyzm nasila emocje awersyjne i obniża samoregulację, co zwiększa podatność na epizody jedzenia emocjonalnego. Interwencje współczujące redukują to ryzyko.
 
 ## Dobra praktyka

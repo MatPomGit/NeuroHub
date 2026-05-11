@@ -6,11 +6,11 @@ evidenceCutoffDate: 2026-03-31
 
 # Technologia w pracy: granice, kontrola i autonomia
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 
 Cyfrowe narzędzia pracy zwiększają szybkość współpracy i skalę koordynacji, ale jednocześnie mogą wzmacniać nadzór, rozmywać granice ról i ograniczać autonomię pracownika. Z perspektywy psychologii pracy kluczowe pytanie brzmi nie „czy używać technologii”, lecz „jak zaprojektować jej użycie, aby wspierała sprawczość, a nie permanentną reaktywność”.
 
-## Definicje kluczowych pojęć
+## Definicje
 
 - **Autonomia pracy** - zakres wpływu pracownika na tempo, kolejność i sposób wykonywania zadań.
 - **Nadzór cyfrowy** - monitorowanie aktywności pracownika przez systemy analityczne, logi, metryki i narzędzia śledzące.

@@ -121,7 +121,7 @@ Zjawisko **podwójnej tożsamości kulturowej** może jednak być zasobem - biku
 
 ---
 
-## Literatura
+## Bibliografia
 
 - American Psychiatric Association (2013). *Diagnostic and Statistical Manual of Mental Disorders* (5th ed.). APA.
 - Benish, S. G., Quintana, S., & Wampold, B. E. (2011). Culturally adapted psychotherapy and the legitimacy of myth. *Journal of Counseling Psychology, 58*(3), 279–289.

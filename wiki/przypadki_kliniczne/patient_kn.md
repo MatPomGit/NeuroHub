@@ -10,11 +10,11 @@ Przypadek zaburzenia świadomości ciała, w którym pacjentka zaprzecza przynal
 
 *Europa, opisy kliniczne od XX w.*
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 
 K.N. (oznaczenie stosowane w literaturze przypadków) prezentowała somatoparafrenię po udarze prawej półkuli: twierdziła, że porażona lewa ręka nie należy do niej.
 
-## Definicje kluczowych pojęć
+## Definicje
 
 - **Somatoparafrenia:** urojenie dotyczące własności części ciała (najczęściej po uszkodzeniach prawej półkuli).
 - **Anosognozja:** brak świadomości własnego deficytu neurologicznego.

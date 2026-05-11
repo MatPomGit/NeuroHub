@@ -104,7 +104,7 @@ Dorosłość i starzenie się to okresy obfitujące zarówno w straty, jak i w z
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Arnett, J. J. (2000). Emerging adulthood. *American Psychologist, 55*(5), 469–480.
 - Baltes, P. B., & Baltes, M. M. (1990). Psychological perspectives on successful aging. W: *Successful Human Aging*. Cambridge University Press.

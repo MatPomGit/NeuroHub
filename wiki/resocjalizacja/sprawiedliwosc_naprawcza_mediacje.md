@@ -1,14 +1,14 @@
 # Sprawiedliwość naprawcza i mediacje
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Sprawiedliwość naprawcza koncentruje się na odpowiedzialności, naprawie szkody i odbudowie relacji społecznych.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Sprawiedliwość naprawcza**: model reagowania na przestępstwo poprzez dialog i naprawę szkody.
 - **Mediacja**: ustrukturyzowane spotkanie stron z udziałem bezstronnego mediatora.
 - **Odpowiedzialność sprawcza**: aktywne uznanie skutków czynu i działania naprawcze.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Programy naprawcze mogą obniżać recydywę i zwiększać satysfakcję pokrzywdzonych, gdy są dobrowolne i profesjonalnie prowadzone.
 
 ## Dobra praktyka

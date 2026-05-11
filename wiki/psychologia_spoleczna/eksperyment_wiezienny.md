@@ -199,7 +199,7 @@ Mimo swoich metodologicznych słabości SPE pozostaje żywym punktem odniesienia
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Zimbardo, P. G. (2007). *The Lucifer Effect: Understanding How Good People Turn Evil*. Random House.
 - Haney, C., Banks, C., & Zimbardo, P. (1973). Interpersonal dynamics in a simulated prison. *International Journal of Criminology and Penology*, 1, 69–97.

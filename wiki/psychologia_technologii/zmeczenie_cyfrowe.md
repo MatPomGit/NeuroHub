@@ -6,11 +6,11 @@ evidenceCutoffDate: 2026-03-31
 
 # Zmęczenie cyfrowe i przeciążenie informacyjne
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 
 Zmęczenie cyfrowe opisuje stan przewlekłego wyczerpania poznawczego i emocjonalnego wynikającego z długotrwałej ekspozycji na bodźce ekranowe, wielość kanałów komunikacji oraz stałą konieczność podejmowania mikodecyzji. W warunkach gospodarki opartej na informacji przeciążenie nie wynika wyłącznie z „dużej liczby danych”, lecz z ich wysokiej zmienności, fragmentaryczności i konkurencji o uwagę.
 
-## Definicje kluczowych pojęć
+## Definicje
 
 - **Zmęczenie cyfrowe** - subiektywnie odczuwane wyczerpanie po interakcji z technologią, obejmujące spadek koncentracji, drażliwość i obniżenie efektywności.
 - **Przeciążenie informacyjne** - sytuacja, w której napływ informacji przekracza zdolność ich selekcji, integracji i wykorzystania decyzyjnego.

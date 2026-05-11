@@ -1,9 +1,9 @@
 # Biologiczne i neurobiologiczne podstawy zachowań suicydalnych
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Zachowania suicydalne (myśli samobójcze, próby samobójcze i samobójstwo dokonane) są zjawiskiem wieloczynnikowym: biologicznym, psychologicznym i społecznym. Współczesne modele psychopatologii podkreślają, że komponent biologiczny nie jest „deterministycznym wyrokiem”, lecz układem podatności, który wchodzi w interakcję z doświadczeniem życiowym, stresem i dostępnością wsparcia. W praktyce klinicznej wiedza neurobiologiczna pomaga lepiej rozumieć mechanizmy ryzyka, precyzyjniej dobierać leczenie i prowadzić bardziej realistyczną psychoedukację.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Suicydalność** – spektrum zjawisk obejmujące ideacje samobójcze, planowanie, zachowania samouszkadzające z intencją śmierci oraz samobójstwo dokonane.
 - **Endofenotyp** – mierzalna cecha pośrednia (np. impulsywność, zaburzenia hamowania reakcji), łącząca mechanizmy biologiczne z objawami klinicznymi.
 - **Neuroprzekaźnictwo serotoninergiczne** – układ neurochemiczny związany m.in. z regulacją nastroju, impulsywności i agresji.

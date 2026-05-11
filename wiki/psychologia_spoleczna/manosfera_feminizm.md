@@ -118,7 +118,7 @@ Manosfera i feminizm to nie tylko zbiory idei, ale też przestrzenie tożsamośc
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Tajfel, H., & Turner, J. C. (1979). An integrative theory of intergroup conflict.
 - Baumeister, R. F., & Leary, M. R. (1995). The need to belong. *Psychological Bulletin, 117*(3), 497–529.

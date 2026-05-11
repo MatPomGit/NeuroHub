@@ -1,14 +1,14 @@
 # 14. Farmakoterapia schizofrenii
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Leczenie schizofrenii opiera się na lekach przeciwpsychotycznych, psychoedukacji i rehabilitacji psychospołecznej. Celem jest nie tylko redukcja objawów pozytywnych, ale także poprawa funkcjonowania poznawczego i społecznego.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
 - **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
 - **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
 
-## Analiza mechanizmów i zależności
+## Analiza
 W praktyce ważna jest wczesna optymalizacja leczenia pierwszego epizodu, wybór drogi podania oraz zapobieganie nawrotom. W oporności leczenia należy rozważyć klozapinę bez zbędnej zwłoki.
 
 ## Praktyczne przykłady

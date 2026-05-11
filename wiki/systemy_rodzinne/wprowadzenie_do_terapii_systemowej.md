@@ -10,7 +10,7 @@ evidenceCutoffDate: 2026-03-31
 
 Terapia systemowa traktuje rodzinę jako żywy, samoregulujący się układ, w którym problemy jednej osoby są nieodłącznym wyrazem relacyjnej dynamiki całej grupy. W centrum tej perspektywy nie stoi pytanie „co jest nie tak z tą osobą?", lecz „jaką funkcję pełni objaw w kontekście całej rodziny?". Podejście systemowe narodziło się w latach pięćdziesiątych XX wieku z połączenia teorii systemów ogólnych Ludwiga von Bertalanffy'ego, cybernetyki Norberta Wienera i obserwacji klinicznych pionierów takich jak Gregory Bateson, Jay Haley, Virginia Satir czy Salvador Minuchin.
 
-## Definicje kluczowych pojęć
+## Definicje
 
 - **System** - zorganizowany zbiór elementów, którego właściwości nie dają się sprowadzić do sumy cech poszczególnych części; rodzina jako system wykazuje emergentne wzorce.
 - **Sprzężenie zwrotne** (*feedback*) - mechanizm, przez który wynik działania jednego elementu systemu modyfikuje wejście kolejnych elementów, tworząc pętle regulacji.

@@ -6,10 +6,10 @@ evidenceCutoffDate: 2026-03-31
 
 # Skrupulatyzm
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Skrupulatyzm to klinicznie istotny problem na przecięciu psychologii religii i psychopatologii. Najczęściej opisuje się go jako postać zaburzenia obsesyjno-kompulsyjnego, w której treść obsesji i kompulsji dotyczy winy moralnej, grzechu, czystości intencji lub lęku przed obrazą sacrum. W praktyce diagnostycznej kluczowe jest odróżnienie skrupulatyzmu od normatywnej religijności: samo wysokie zaangażowanie religijne nie jest objawem zaburzenia.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Skrupulatyzm**: utrwalony wzorzec obsesji religijno-moralnych i kompulsji redukujących lęk, prowadzący do cierpienia, dezorganizacji funkcjonowania albo obu tych skutków.
 - **Obsesje**: natrętne, nawracające myśli, obrazy lub impulsy, doświadczane jako niechciane i trudne do kontrolowania.
 - **Kompulsje**: powtarzalne czynności behawioralne lub akty mentalne wykonywane w celu obniżenia lęku lub zapobieżenia wyobrażonej katastrofie moralnej.

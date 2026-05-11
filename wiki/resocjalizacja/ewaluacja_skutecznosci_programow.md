@@ -1,14 +1,14 @@
 # Ewaluacja skuteczności programów
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Bez ewaluacji nie można odróżnić działań skutecznych od pozornie aktywnych.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Ewaluacja wyników**: pomiar efektów interwencji względem założonych celów.
 - **Fidelity**: stopień zgodności realizacji programu z projektem.
 - **Wskaźniki krótkie i długie**: np. ukończenie programu, recydywa, zatrudnienie.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Skuteczność zależy jednocześnie od jakości projektu i jakości wdrożenia. Program dobry teoretycznie może nie działać przy niskim fidelity.
 
 ## Dobra praktyka

@@ -6,10 +6,10 @@ evidenceCutoffDate: 2026-03-31
 
 # Doświadczenia mistyczne
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Doświadczenia mistyczne należą do najbardziej intrygujących zjawisk badanych na styku psychologii religii, psychologii poznawczej i neuronauki. Klasyczna tradycja opisu tych przeżyć (James) koncentrowała się na ich jakości fenomenologicznej, natomiast współczesna psychologia pyta dodatkowo o ich funkcję regulacyjną, znaczenie dla tożsamości i potencjalne ryzyko kliniczne. W tym opracowaniu oddzielamy dane empiryczne od interpretacji światopoglądowych: psychologia może badać korelaty i konsekwencje przeżyć, ale nie rozstrzyga ich metafizycznego statusu.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Doświadczenie mistyczne**: krótkotrwały lub dłuższy stan świadomości charakteryzujący się poczuciem jedności, przekroczenia zwykłego poczucia Ja, intensywną noetycznością (wrażeniem głębokiego wglądu) i trudnością pełnego ujęcia przeżycia w języku.
 - **Noetyczność**: subiektywne przekonanie, że przeżycie ma walor poznawczy, czyli odsłania istotną prawdę o rzeczywistości lub własnym życiu.
 - **Integracja doświadczenia**: proces włączania przeżycia mistycznego do codziennego funkcjonowania, narracji biograficznej i systemu wartości.

@@ -6,11 +6,11 @@ evidenceCutoffDate: 2026-03-31
 
 # Higiena cyfrowa i profilaktyka przeciążenia
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 
 Higiena cyfrowa to zestaw praktyk regulujących sposób korzystania z technologii tak, aby wspierać zdrowie psychiczne, jakość snu, efektywność poznawczą i relacje społeczne. W ujęciu profilaktycznym nie chodzi o rezygnację z technologii, lecz o redukcję ekspozycji na wzorce używania, które generują chroniczne przeciążenie.
 
-## Definicje kluczowych pojęć
+## Definicje
 
 - **Higiena cyfrowa** - celowe kształtowanie środowiska i nawyków cyfrowych w celu ochrony zasobów poznawczych i emocjonalnych.
 - **Samoregulacja cyfrowa** - zdolność do świadomego rozpoczynania, kontynuowania i kończenia aktywności online zgodnie z celem.

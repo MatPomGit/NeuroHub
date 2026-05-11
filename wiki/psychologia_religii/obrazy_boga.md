@@ -6,10 +6,10 @@ evidenceCutoffDate: 2026-03-31
 
 # Obrazy Boga
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Obraz Boga to jeden z najważniejszych konstruktów psychologii religii, ponieważ łączy sferę przekonań z emocjonalnym doświadczeniem więzi. Dwie osoby mogą deklarować tę samą doktrynę, ale przeżywać Boga skrajnie inaczej: jako źródło bezpieczeństwa albo jako nieustannie karzący autorytet. Z punktu widzenia praktyki klinicznej i duszpasterskiej ta różnica ma znaczenie dla lęku, poczucia winy, samooceny i jakości relacji interpersonalnych.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Obraz Boga (God image)**: emocjonalno-wyobrażeniowy sposób doświadczania Boga, często zakorzeniony w historii przywiązania i doświadczeniach relacyjnych.
 - **Pojęcie Boga (God concept)**: bardziej deklaratywny, poznawczy opis tego, jaki Bóg "jest" według przekonań danej osoby lub tradycji.
 - **Religijne przywiązanie**: ujęcie, w którym relację z Bogiem analizuje się analogicznie do wzorców przywiązania opisywanych w psychologii rozwojowej.

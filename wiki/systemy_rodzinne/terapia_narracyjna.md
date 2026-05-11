@@ -10,7 +10,7 @@ evidenceCutoffDate: 2026-03-31
 
 Terapia narracyjna, opracowana przez Michaela White'a i Davida Epstona w Australii i Nowej Zelandii w latach osiemdziesiątych XX wieku, wyrosła z podejścia systemowego, ale wniosła do niego nowy wymiar: zamiast badać struktury i wzorce, skupiła się na **opowieściach** - historiach, które ludzie i rodziny budują o sobie samych, i które decydują o tym, co postrzegają jako możliwe lub niemożliwe. W perspektywie narracyjnej problemy psychologiczne nie są „w głowie" jednostki ani „w strukturze" rodziny - są zakorzenione w dominujących narracjach, które rodzina przejęła z kultury, społeczeństwa lub własnej historii, i które teraz ograniczają jej możliwości.
 
-## Definicje kluczowych pojęć
+## Definicje
 
 - **Narracja dominująca** (*dominant narrative*) - historia, którą rodzina lub jednostka uznaje za „prawdziwą" opowieść o sobie; może zawierać niewystarczające opisy (np. „jesteśmy rodziną, w której zawsze coś idzie nie tak") i eliminować alternatywne interpretacje.
 - **Zewnętrznienie problemu** (*externalizing*) - fundamentalna technika narracyjna, polegająca na oddzieleniu tożsamości osoby od problemu; „problem jest problemem, osoba nie jest problemem".

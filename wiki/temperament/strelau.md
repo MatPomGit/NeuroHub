@@ -77,7 +77,7 @@ W poradnictwie kariery RTT pomaga:
 - Sześć wymiarów RTT nie pokrywa się bezpośrednio z modelami zachodnimi (np. Wielką Piątką)
 - Słabiej rozwinięte narzędzia obserwacyjne dla dzieci w porównaniu do teorii Kagana
 
-## Literatura
+## Bibliografia
 
 - Strelau, J. (2001). *Psychologia temperamentu*. Wydawnictwo Naukowe PWN.
 - Strelau, J., & Zawadzki, B. (1993). The Formal Characteristics of Behaviour - Temperament Inventory (FCB-TI): Theoretical assumptions and scale construction. *European Journal of Personality, 7*(5), 313–336.

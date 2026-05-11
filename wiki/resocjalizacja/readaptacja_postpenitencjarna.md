@@ -1,14 +1,14 @@
 # Readaptacja postpenitencjarna
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Okres pierwszych miesięcy po opuszczeniu placówki jest najbardziej krytyczny dla utrzymania zmiany.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Readaptacja postpenitencjarna**: wsparcie po zakończeniu izolacji lub programu instytucjonalnego.
 - **Continuity of care**: ciągłość wsparcia między instytucją a środowiskiem.
 - **Case transition**: planowane przekazanie odpowiedzialności między podmiotami.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Ryzyko powrotu do przestępczości rośnie przy bezdomności, braku pracy i zerwaniu leczenia. Potrzebny jest plan przejścia jeszcze przed zwolnieniem.
 
 ## Dobra praktyka

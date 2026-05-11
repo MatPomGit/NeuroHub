@@ -10,7 +10,7 @@ evidenceCutoffDate: 2026-03-31
 
 Trauma - doświadczenie przytłaczające zdolność regulacji emocjonalnej jednostki - nigdy nie dzieje się w próżni społecznej. W zdecydowanej większości przypadków najgłębsza trauma ma charakter relacyjny: dzieje się w relacjach z bliskimi (zaniedbanie, przemoc, nadużycia) lub dotyka systemu rodzinnego jako całości (katastrofa, utrata, migracja, choroba terminalna). Połączenie teorii traumy z myśleniem systemowym pozwala zrozumieć, jak traumatyczne doświadczenia jednej osoby lub pokolenia kształtują dynamikę całego systemu rodzinnego - i dlaczego skuteczna pomoc wymaga nierzadko pracy z całą rodziną, a nie tylko z jednostką.
 
-## Definicje kluczowych pojęć
+## Definicje
 
 - **Trauma relacyjna** (*relational trauma*) - trauma wynikająca z doświadczeń w relacjach interpersonalnych, zwłaszcza z opiekunami we wczesnym dzieciństwie; obejmuje zaniedbanie, nadużycia emocjonalne, fizyczne i seksualne.
 - **Złożone PTSD** (*complex PTSD, C-PTSD*) - konsekwencja przewlekłej, powtarzającej się traumy relacyjnej; charakteryzuje się zaburzeniami regulacji emocji, negatywnym obrazem siebie i trudnościami w relacjach interpersonalnych (Herman, 1992; ICD-11).

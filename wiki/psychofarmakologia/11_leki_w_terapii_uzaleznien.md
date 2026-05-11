@@ -1,14 +1,14 @@
 # 11. Leki stosowane w terapii uzależnień
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Farmakoterapia uzależnień obejmuje leczenie substytucyjne, redukujące głód, awersyjne oraz wspierające utrzymanie abstynencji. Najsilniejsze dane dotyczą leczenia uzależnienia od opioidów, alkoholu i nikotyny.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
 - **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
 - **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Skuteczność rośnie, gdy farmakoterapia jest łączona z interwencjami psychospołecznymi, planem redukcji szkód i monitorowaniem celów pacjenta. Model „all-or-nothing” bywa mniej efektywny niż podejście etapowe.
 
 ## Praktyczne przykłady

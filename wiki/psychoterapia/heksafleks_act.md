@@ -276,7 +276,7 @@ Hayes i współpracownicy zwracają uwagę, że:
 
 Heksafleks ACT jest jednym z najbardziej teoretycznie spójnych i empirycznie zbadanych modeli psychopatologii i terapii w ramach trzeciej fali terapii behawioralnych. Integruje six wzajemnie powiązanych procesów - akceptację, defuzję, kontakt z chwilą obecną, Obserwujące Ja, klaryfikację wartości i zaangażowane działanie - w unified model elastyczności psychologicznej. Jego siłą jest zarówno precyzja teoretyczna (zakorzeniona w RFT), jak i bogata toolbox technik klinicznych, dostępnych dla terapeutów z różnych orientacji. Baza empiryczna, choć rozwijana, wskazuje na skuteczność ACT w szerokim spektrum zaburzeń, ze szczególną mocą w bólu przewlekłym, depresji i zaburzeniach lękowych.
 
-## Literatura kluczowa
+## Bibliografia kluczowa
 
 - Hayes, S. C., Strosahl, K. D., & Wilson, K. G. (1999). *Acceptance and Commitment Therapy: An Experiential Approach to Behavior Change*. Guilford Press.
 - Hayes, S. C., Luoma, J. B., Bond, F. W., Masuda, A., & Lillis, J. (2006). Acceptance and commitment therapy: Model, processes and outcomes. *Behaviour Research and Therapy, 44*(1), 1–25.

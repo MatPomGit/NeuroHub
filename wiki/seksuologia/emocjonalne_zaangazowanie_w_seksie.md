@@ -109,7 +109,7 @@ To, czy seks wymaga emocjonalnego zaangażowania, zależy od wielu czynników: p
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Hazan, C., & Shaver, P. (1987). Romantic love conceptualized as an attachment process. *Journal of Personality and Social Psychology, 52*(3), 511–524.
 - Mikulincer, M., & Shaver, P. R. (2016). *Attachment in Adulthood* (2nd ed.). Guilford Press.

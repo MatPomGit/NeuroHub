@@ -1,14 +1,14 @@
 # 15. Farmakoterapia choroby afektywnej dwubiegunowej
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 W ChAD leczenie powinno być fazowo-specyficzne: inne priorytety obowiązują w manii, depresji dwubiegunowej i profilaktyce nawrotów. Podstawą jest stabilizacja nastroju i minimalizacja destabilizacji polekowej.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
 - **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
 - **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Szczególną ostrożność wymaga stosowanie leków przeciwdepresyjnych, które u części pacjentów mogą zwiększać ryzyko przełączenia fazy. Decyzje powinny opierać się na historii przebiegu choroby i wcześniejszych odpowiedziach.
 
 ## Praktyczne przykłady

@@ -6,10 +6,10 @@ evidenceCutoffDate: 2026-03-31
 
 # Religia a moralność i etyka postępowania człowieka
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Relacja między religią a moralnością jest jednym z klasycznych tematów psychologii moralnej i psychologii religii. Spór nie dotyczy tylko tego, czy religia wzmacnia zachowania prospołeczne, ale także jak kształtuje motywację moralną: przez lęk przed sankcją, przez identyfikację z normą grupową czy przez uwewnętrznione wartości. W analizie psychologicznej kluczowe jest rozróżnienie między deklaracją moralną a realnym zachowaniem.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Moralność**: system ocen dobra i zła regulujący zachowanie wobec innych i wobec siebie.
 - **Etyka postępowania**: praktyczny sposób wdrażania norm moralnych w codziennych decyzjach.
 - **Internalizacja norm**: proces, w którym reguły grupowe stają się osobistym przekonaniem moralnym.

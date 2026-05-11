@@ -1,14 +1,14 @@
 # Diagnoza różnicowa: BED i bulimia
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Rzetelna diagnoza wymaga różnicowania BED, bulimii i przejściowego przejadania bez obrazu klinicznego.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **BED**: nawracające epizody objadania bez regularnych zachowań kompensacyjnych.
 - **Bulimia nervosa**: epizody objadania z zachowaniami kompensacyjnymi.
 - **Zachowania kompensacyjne**: m.in. prowokowanie wymiotów, środki przeczyszczające, skrajna aktywność.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Błąd diagnostyczny wynika często z koncentracji na masie ciała zamiast na wzorcu zachowania i funkcji objawu. Kluczowe jest badanie częstotliwości, utraty kontroli i konsekwencji medycznych.
 
 ## Dobra praktyka

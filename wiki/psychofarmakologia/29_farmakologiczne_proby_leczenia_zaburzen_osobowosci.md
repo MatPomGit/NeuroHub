@@ -1,14 +1,14 @@
 # 29. Farmakologiczne próby leczenia zaburzeń osobowości
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 W zaburzeniach osobowości nie ma leków „na osobowość”; farmakoterapia dotyczy objawów docelowych i współchorobowości. Największą wartość terapeutyczną mają interwencje psychoterapeutyczne długoterminowe.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
 - **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
 - **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Leki można rozważać przy nasilonej impulsywności, labilności afektywnej, objawach lękowo-depresyjnych lub krótkotrwałych dekompensacjach, ale z jasnym planem i ograniczeniem polipragmazji.
 
 ## Praktyczne przykłady

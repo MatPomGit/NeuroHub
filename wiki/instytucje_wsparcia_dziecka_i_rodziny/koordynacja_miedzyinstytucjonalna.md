@@ -1,14 +1,14 @@
 # Koordynacja międzyinstytucjonalna
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Koordynacja to praktyczna zdolność instytucji do wspólnego planowania, realizacji i ewaluacji pomocy.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Case management**: prowadzenie sprawy przez wyznaczonego koordynatora.
 - **Interoperacyjność**: możliwość współdziałania procedur i informacji.
 - **Plan zintegrowany**: jeden dokument celów i odpowiedzialności.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Bez wspólnych wskaźników sukcesu instytucje realizują różne cele, co obniża efektywność. Spotkania międzysektorowe powinny kończyć się decyzjami operacyjnymi.
 
 ## Dobra praktyka

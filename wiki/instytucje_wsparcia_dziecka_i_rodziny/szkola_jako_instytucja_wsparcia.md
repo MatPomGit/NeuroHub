@@ -1,14 +1,14 @@
 # Szkoła jako instytucja wsparcia
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Szkoła jest kluczowym miejscem wczesnej identyfikacji trudności i codziennej profilaktyki.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Wsparcie szkolne**: działania pedagogiczne, psychologiczne i wychowawcze na terenie szkoły.
 - **Uniwersalna profilaktyka**: programy dla całej społeczności szkolnej.
 - **Interwencja selektywna**: wsparcie dla grup podwyższonego ryzyka.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Skuteczne szkoły łączą programy SEL, współpracę z rodziną i jasne procedury kryzysowe. Samo „odsyłanie” ucznia do specjalisty nie wystarcza.
 
 ## Dobra praktyka

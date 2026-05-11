@@ -126,7 +126,7 @@ Wyniki są jednak wrażliwe na skalę i kontekst badania - pojawia się kwestia 
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Cross, S. E., Bacon, P. L., & Morris, M. L. (2000). The relational-interdependent self-construal and relationships. *Journal of Personality and Social Psychology, 78*(4), 791–808.
 - Goffman, E. (1955). On face-work: An analysis of ritual elements in social interaction. *Psychiatry, 18*(3), 213–231.

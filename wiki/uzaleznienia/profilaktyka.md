@@ -133,7 +133,7 @@ Profilaktyka uzależnień jest dziedziną, w której rozbieżność między prak
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Botvin, G. J., Baker, E., Dusenbury, L., Botvin, E. M., & Diaz, T. (1995). Long-term follow-up results of a randomized drug abuse prevention trial in a white middle-class population. *JAMA, 273*(14), 1106–1112.
 - Ennett, S. T., Tobler, N. S., Ringwalt, C. L., & Flewelling, R. L. (1994). How effective is Drug Abuse Resistance Education? *American Journal of Public Health, 84*(9), 1394–1401.

@@ -133,7 +133,7 @@ Część badaczy preferuje terminy opisowe: **traumatyczne przywiązanie**, **wy
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Beattie, M. (1987). *Codependent No More*. Hazelden. [Wyd. pol.: *Koniec współuzależnienia*. Wydawnictwo Czarna Owca]
 - Bowen, M. (1978). *Family Therapy in Clinical Practice*. Jason Aronson.

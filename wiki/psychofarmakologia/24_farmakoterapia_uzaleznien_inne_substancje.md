@@ -1,14 +1,14 @@
 # 24. Farmakoterapia zaburzeń używania substancji innych niż alkohol
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Farmakoterapia uzależnień od opioidów, nikotyny i części innych substancji opiera się na zmniejszaniu śmiertelności, głodu i szkód zdrowotnych. W wielu przypadkach celem klinicznym jest stabilizacja, a nie natychmiastowa abstynencja.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
 - **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
 - **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Najlepsze wyniki uzyskuje się dzięki łączeniu leków z opieką środowiskową, redukcją szkód, leczeniem współchorobowości i wsparciem społecznym.
 
 ## Praktyczne przykłady

@@ -480,7 +480,9 @@ window.SITE_CONFIG = {
         { id: 'dla_studentow/winietki_kliniczne',     label: 'Winietki kliniczne',        custom: 'theoretical_test', presetTopic: 'winiety_kliniczne', kind: 'test' },
         { id: 'dla_studentow/testy_dyplomowe',        label: 'Testy dyplomowe',           custom: 'theoretical_test', presetTopic: 'egzamin_dyplomowy', kind: 'test' },
         /**{ id: 'dla_studentow/monopoly_psychologiczne', href: 'https://matpomgit.github.io/Psychopoly/', label: 'Monopoly Psychologiczne' },*/
-      ]
+          { id: 'dla_studentow/psycholog_w_it_kompetencje_mierniki_i_portfolio', label: 'Psycholog w IT - kompetencje, mierniki i portfolio', file: 'wiki/dla_studentow/psycholog_w_it_kompetencje_mierniki_i_portfolio.md' },
+          { id: 'dla_studentow/wystapienia_publiczne_trudne_pytania_i_q_a', label: 'Wystapienia publiczne - trudne pytania i Q&A', file: 'wiki/dla_studentow/wystapienia_publiczne_trudne_pytania_i_q_a.md' },
+        ]
     },
     {
       section: 'Filozofia',
@@ -605,7 +607,10 @@ window.SITE_CONFIG = {
         { id: 'psychologia_religii/skrupulatyzm',            label: 'Skrupulatyzm i objawy OCD',                file: 'wiki/psychologia_religii/skrupulatyzm.md'            },
         { id: 'psychologia_religii/religia_w_psychoterapii', label: 'Religia i duchowosc w psychoterapii',      file: 'wiki/psychologia_religii/religia_w_psychoterapii.md' },
         { id: 'psychologia_religii/metodologia_badan',       label: 'Metodologia badal psychologii religii',    file: 'wiki/psychologia_religii/metodologia_badan.md'       },
-      ]
+          { id: 'psychologia_religii/negatywny_wplyw_religii', label: 'Negatywny wpływ religii na życie, rozwój i moralność', file: 'wiki/psychologia_religii/negatywny_wplyw_religii_na_zycie_rozwoj_i_moralnosc.md' },
+          { id: 'psychologia_religii/pozytywny_wplyw_religii', label: 'Pozytywny wpływ religii na psychikę', file: 'wiki/psychologia_religii/pozytywny_wplyw_religii_na_psychike.md' },
+          { id: 'psychologia_religii/religia_moralnosc_etyka', label: 'Religia a moralność i etyka postępowania', file: 'wiki/psychologia_religii/religia_a_moralnosc_i_etyka_postepowania.md' },
+        ]
     },
     {
       section: 'Psychologia uzaleznien',
@@ -660,7 +665,8 @@ window.SITE_CONFIG = {
         { id: 'etyka/etyka_badan',               label: 'Etyka badal naukowych',                 file: 'wiki/etyka/etyka_badan.md'               },
         { id: 'etyka/etyka_cyfrowa',             label: 'Etyka w psychologii cyfrowej',          file: 'wiki/etyka/etyka_cyfrowa.md'             },
         { id: 'etyka/odpowiedzialnosc_zawodowa', label: 'Odpowiedzialnosc zawodowa',             file: 'wiki/etyka/odpowiedzialnosc_zawodowa.md' },
-      ]
+          { id: 'etyka/polska_adaptacja_3d_ws', label: 'Polska adaptacja 3D-WS', file: 'wiki/etyka/polska_adaptacja_3d_ws.md' },
+        ]
     },
     {
       section: 'Diagnoza psychologiczna',
@@ -848,7 +854,9 @@ window.SITE_CONFIG = {
         { id: 'psychopatologia/intelektualizacja',            label: 'Intelektualizacja emocji',        file: 'wiki/psychopatologia/intelektualizacja.md'             },
         { id: 'psychopatologia/dezintegracja_pozytywna',      label: 'Dezintegracja pozytywna',         file: 'wiki/psychopatologia/dezintegracja_pozytywna.md'       },
         { id: 'psychopatologia/klasyfikacje',                 label: 'Klasyfikacje ICD-11 i DSM-5-TR',  file: 'wiki/psychopatologia/klasyfikacje.md'                  },
-      ]
+          { id: 'psychopatologia/psychopatia',                  label: 'Psychopatia',                    file: 'wiki/psychopatologia/psychopatia.md'                  },
+          { id: 'psychopatologia/socjopatia',                   label: 'Socjopatia',                     file: 'wiki/psychopatologia/socjopatia.md'                   },
+        ]
     },
 
     {
@@ -1118,7 +1126,9 @@ window.SITE_CONFIG = {
         { id: 'psychoterapia/psychologiczne_mechanizmy_przebaczenia', label: 'Mechanizmy przebaczenia po przemocy emocjonalnej', file: 'wiki/psychoterapia/psychologiczne_mechanizmy_przebaczenia.md' },
         { id: 'psychoterapia/superwizja',              label: 'Superwizja w psychoterapii',           file: 'wiki/psychoterapia/superwizja.md'           },
         { id: 'psychoterapia/kontenerowanie_emocji',   label: 'Kontenerowanie emocji w terapii',      file: 'wiki/psychoterapia/kontenerowanie_emocji.md'           },
-      ]
+          { id: 'psychoterapia/systemy_rodzinne_genogram', label: 'Systemy rodzinne - genogram i hipotezy kliniczne', file: 'wiki/psychoterapia/systemy_rodzinne_genogram_i_hipotezy_kliniczne.md' },
+          { id: 'psychoterapia/heksafleks_act', label: 'Heksafleks - model ACT', file: 'wiki/psychoterapia/heksafleks_act.md' },
+        ]
     },
     {
       section: 'Farmakologia',
@@ -1134,7 +1144,48 @@ window.SITE_CONFIG = {
         { id: 'farmakologia/ketamina',                    label: 'Ketamina w psychiatrii',           file: 'wiki/farmakologia/ketamina.md'                    },
         { id: 'farmakologia/psychodeliki',                label: 'Psychodeliki w terapii',           file: 'wiki/farmakologia/psychodeliki.md'                },
         { id: 'farmakologia/nootropiki',                  label: 'Nootropiki i kognitywne',          file: 'wiki/farmakologia/nootropiki.md'                  },
-      ]
+          // PSYCHOFARMAKOLOGIA - podstawy teoretyczne
+          { id: 'psychofarmakologia/spis_tresci',                            label: 'Psychofarmakologia - spis treści',                         file: 'wiki/psychofarmakologia/spis_tresci.md'                            },
+          { id: 'psychofarmakologia/01_rys_historyczny_psychofarmakologii_klinicznej', label: '01. Rys historyczny psychofarmakologii klinicznej', file: 'wiki/psychofarmakologia/01_rys_historyczny_psychofarmakologii_klinicznej.md' },
+          { id: 'psychofarmakologia/02_anatomia_funkcjonalna_mozgu', label: '02. Anatomia funkcjonalna mózgu', file: 'wiki/psychofarmakologia/02_anatomia_funkcjonalna_mozgu.md' },
+          { id: 'psychofarmakologia/03_podstawy_neurochemii_oun', label: '03. Podstawy neurochemii OUN', file: 'wiki/psychofarmakologia/03_podstawy_neurochemii_oun.md' },
+          { id: 'psychofarmakologia/04_aktualna_nomenklatura_lekow_psychotropowych', label: '04. Aktualna nomenklatura leków psychotropowych', file: 'wiki/psychofarmakologia/04_aktualna_nomenklatura_lekow_psychotropowych.md' },
+          // PSYCHOFARMAKOLOGIA - klasy leków
+          { id: 'psychofarmakologia/05_leki_przeciwpsychotyczne', label: '05. Leki przeciwpsychotyczne', file: 'wiki/psychofarmakologia/05_leki_przeciwpsychotyczne.md' },
+          { id: 'psychofarmakologia/06_leki_przeciwdepresyjne', label: '06. Leki przeciwdepresyjne', file: 'wiki/psychofarmakologia/06_leki_przeciwdepresyjne.md' },
+          { id: 'psychofarmakologia/07_leki_normotymiczne', label: '07. Leki normotymiczne', file: 'wiki/psychofarmakologia/07_leki_normotymiczne.md' },
+          { id: 'psychofarmakologia/08_leki_prokognitywne', label: '08. Leki prokognitywne', file: 'wiki/psychofarmakologia/08_leki_prokognitywne.md' },
+          { id: 'psychofarmakologia/09_leki_anksjolityczne_i_nasenne', label: '09. Leki anksjolityczne i nasenne', file: 'wiki/psychofarmakologia/09_leki_anksjolityczne_i_nasenne.md' },
+          { id: 'psychofarmakologia/10_leki_stymulujace', label: '10. Leki stymulujące', file: 'wiki/psychofarmakologia/10_leki_stymulujace.md' },
+          { id: 'psychofarmakologia/11_leki_w_terapii_uzaleznien', label: '11. Leki w terapii uzaleznień', file: 'wiki/psychofarmakologia/11_leki_w_terapii_uzaleznien.md' },
+          { id: 'psychofarmakologia/12_inne_leki_psychotropowe_lub_stosowane_w_psychiatrii', label: '12. Inne leki psychotropowe lub stosowane w psychiatrii', file: 'wiki/psychofarmakologia/12_inne_leki_psychotropowe_lub_stosowane_w_psychiatrii.md' },
+          { id: 'psychofarmakologia/13_badania_kliniczne_lekow_psychotropowych', label: '13. Badania kliniczne leków psychotropowych', file: 'wiki/psychofarmakologia/13_badania_kliniczne_lekow_psychotropowych.md' },
+          // PSYCHOFARMAKOLOGIA - stosowanie kliniczne
+          { id: 'psychofarmakologia/14_farmakoterapia_schizofrenii', label: '14. Farmakoterapia schizofrenii', file: 'wiki/psychofarmakologia/14_farmakoterapia_schizofrenii.md' },
+          { id: 'psychofarmakologia/15_farmakoterapia_chad', label: '15. Farmakoterapia CHĄD', file: 'wiki/psychofarmakologia/15_farmakoterapia_chad.md' },
+          { id: 'psychofarmakologia/16_farmakoterapia_depresji', label: '16. Farmakoterapia depresji', file: 'wiki/psychofarmakologia/16_farmakoterapia_depresji.md' },
+          { id: 'psychofarmakologia/17_farmakoterapia_asd', label: '17. Farmakoterapia ASD', file: 'wiki/psychofarmakologia/17_farmakoterapia_asd.md' },
+          { id: 'psychofarmakologia/18_farmakoterapia_ocd', label: '18. Farmakoterapia OCD', file: 'wiki/psychofarmakologia/18_farmakoterapia_ocd.md' },
+          { id: 'psychofarmakologia/19_farmakoterapia_zespolow_lekowych', label: '19. Farmakoterapia zespołów lękowych', file: 'wiki/psychofarmakologia/19_farmakoterapia_zespolow_lekowych.md' },
+          { id: 'psychofarmakologia/20_farmakoterapia_zespolow_stresowych', label: '20. Farmakoterapia zespołów stresowych', file: 'wiki/psychofarmakologia/20_farmakoterapia_zespolow_stresowych.md' },
+          { id: 'psychofarmakologia/21_farmakoterapia_adhd_dzieci_dorosli', label: '21. Farmakoterapia ADHD dzieci i dorosłych', file: 'wiki/psychofarmakologia/21_farmakoterapia_adhd_dzieci_dorosli.md' },
+          { id: 'psychofarmakologia/22_farmakoterapia_zespolow_otepiennych', label: '22. Farmakoterapia zespołów otępiennych', file: 'wiki/psychofarmakologia/22_farmakoterapia_zespolow_otepiennych.md' },
+          { id: 'psychofarmakologia/23_farmakoterapia_uzaleznienia_od_alkoholu', label: '23. Farmakoterapia uzaleznienia od alkoholu', file: 'wiki/psychofarmakologia/23_farmakoterapia_uzaleznienia_od_alkoholu.md' },
+          { id: 'psychofarmakologia/24_farmakoterapia_uzaleznien_inne_substancje', label: '24. Farmakoterapia uzaleznień inne substancje', file: 'wiki/psychofarmakologia/24_farmakoterapia_uzaleznien_inne_substancje.md' },
+          { id: 'psychofarmakologia/26_farmakoterapia_zaburzen_odzywiania', label: '26. Farmakoterapia zaburzen odzywiania', file: 'wiki/psychofarmakologia/26_farmakoterapia_zaburzen_odzywiania.md' },
+          { id: 'psychofarmakologia/27_farmakologiczne_leczenie_zaburzen_seksualnych', label: '27. Farmakologiczne leczenie zaburzen seksualnych', file: 'wiki/psychofarmakologia/27_farmakologiczne_leczenie_zaburzen_seksualnych.md' },
+          { id: 'psychofarmakologia/28_farmakoterapia_zaburzen_snu', label: '28. Farmakoterapia zaburzen snu', file: 'wiki/psychofarmakologia/28_farmakoterapia_zaburzen_snu.md' },
+          { id: 'psychofarmakologia/29_farmakologiczne_proby_leczenia_zaburzen_osobowosci', label: '29. Farmakologiczne proby leczenia zaburzen osobowosci', file: 'wiki/psychofarmakologia/29_farmakologiczne_proby_leczenia_zaburzen_osobowosci.md' },
+          // PSYCHOFARMAKOLOGIA - populacje specjalne
+          { id: 'psychofarmakologia/30_farmakogenetyka_lekow_psychotropowych', label: '30. Farmakogenetyka leków psychotropowych', file: 'wiki/psychofarmakologia/30_farmakogenetyka_lekow_psychotropowych.md' },
+          { id: 'psychofarmakologia/31_psychofarmakoterapia_wieku_dziecieco_mlodziezowego', label: '31. Psychofarmakoterapia wieku dziecięco-młodziezowego', file: 'wiki/psychofarmakologia/31_psychofarmakoterapia_wieku_dziecieco_mlodziezowego.md' },
+          { id: 'psychofarmakologia/32_psychofarmakoterapia_wieku_podeszlego', label: '32. Psychofarmakoterapia wieku podeszłego', file: 'wiki/psychofarmakologia/32_psychofarmakoterapia_wieku_podeszlego.md' },
+          { id: 'psychofarmakologia/33_psychofarmakoterapia_ciazy_i_okresu_okoloporodowego', label: '33. Psychofarmakoterapia ciazy i okresu okoloporodowego', file: 'wiki/psychofarmakologia/33_psychofarmakoterapia_ciazy_i_okresu_okoloporodowego.md' },
+          { id: 'psychofarmakologia/34_leczenie_zaburzen_psychicznych_w_chorobach_somatycznych', label: '34. Leczenie zaburzen psychicznych w chorobach somatycznych', file: 'wiki/psychofarmakologia/34_leczenie_zaburzen_psychicznych_w_chorobach_somatycznych.md' },
+          { id: 'psychofarmakologia/35_leczenie_skojarzone_lekami_psychotropowymi', label: '35. Leczenie skojarzone lekami psychotropowymi', file: 'wiki/psychofarmakologia/35_leczenie_skojarzone_lekami_psychotropowymi.md' },
+          { id: 'psychofarmakologia/36_psychofarmakoterapia_zgodna_z_zaleceniami', label: '36. Psychofarmakoterapia zgodna z zaleceniami', file: 'wiki/psychofarmakologia/36_psychofarmakoterapia_zgodna_z_zaleceniami.md' },
+          { id: 'psychofarmakologia/37_farmakologiczne_aspekty_terapii_elektrowstrzasowej', label: '37. Farmakologiczne aspekty terapii elektrowstrzasowej', file: 'wiki/psychofarmakologia/37_farmakologiczne_aspekty_terapii_elektrowstrzasowej.md' },
+        ]
     },
     {
       section: 'Psychologia pozytywna',
@@ -1460,7 +1511,8 @@ window.SITE_CONFIG = {
         { id: 'somatic_experiencing/granice_zgoda_i_tempo_pracy', label: 'Granice, zgoda i tempo pracy', file: 'wiki/doswiadczenie_somatyczne/granice_zgoda_i_tempo_pracy.md' },
         { id: 'somatic_experiencing/przewlekly_bol_i_objawy_somatyczne', label: 'Przewlekly bol i objawy somatyczne', file: 'wiki/doswiadczenie_somatyczne/przewlekly_bol_i_objawy_somatyczne.md' },
         { id: 'somatic_experiencing/integracja_z_innymi_terapiami_traumy', label: 'Integracja Somatic Experiencing z innymi terapiami traumy', file: 'wiki/doswiadczenie_somatyczne/integracja_z_innymi_terapiami_traumy.md' },
-      ]
+          { id: 'somatic_experiencing/stabilizacja_i_sekwencjonowanie', label: 'Stabilizacja i sekwencjonowanie w Somatic Experiencing', file: 'wiki/doswiadczenie_somatyczne/stabilizacja_i_sekwencjonowanie.md' },
+        ]
     },
     {
       section: 'Systemy Rodzinne',

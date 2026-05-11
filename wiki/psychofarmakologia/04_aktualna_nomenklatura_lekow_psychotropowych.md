@@ -1,14 +1,14 @@
 # 4. Przegląd aktualnej nomenklatury leków psychotropowych i wprowadzenie do nomenklatury opartej na neuronauce
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Klasyczna nomenklatura (np. „przeciwpsychotyczne”, „przeciwdepresyjne”) jest praktyczna, ale bywa myląca, bo nie odzwierciedla pełnego spektrum działania. Nomenklatura oparta na neuronauce (NbN) porządkuje leki według celu molekularnego, mechanizmu i domen objawowych.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
 - **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
 - **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
 
-## Analiza mechanizmów i zależności
+## Analiza
 NbN wspiera myślenie mechanistyczne, ułatwia świadome leczenie poza pierwotnym wskazaniem i redukuje stygmatyzujące etykiety. Ograniczeniem jest złożoność i konieczność aktualizacji wraz z postępem badań.
 
 ## Praktyczne przykłady

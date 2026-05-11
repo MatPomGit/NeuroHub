@@ -10,7 +10,7 @@ evidenceCutoffDate: 2026-03-31
 
 Salvador Minuchin rozwinął model terapii strukturalnej pracując z rodzinami z niskich warstw społecznych w Nowym Jorku w latach sześćdziesiątych XX wieku. Jego przełomowe dzieło *Families and Family Therapy* (1974) stało się jednym z najczęściej cytowanych tekstów w historii terapii rodzinnej. Minuchin wychodził z założenia, że za każdą rodziną stoi konkretna *struktura* - niewidoczny zbiór zasad organizujących wzajemne relacje - i że zmiana struktury prowadzi do zmiany symptomów szybciej niż analiza historii rodziny lub praca z emocjami.
 
-## Definicje kluczowych pojęć
+## Definicje
 
 - **Struktura rodzinna** - nieformalne zasady i wzorce regulujące, kto, z kim i jak wchodzi w interakcję; struktura jest niewidoczna, ale przejawia się w powtarzalnych sekwencjach zachowań.
 - **Podsystem** (*subsystem*) - wyróżniona część systemu rodzinnego spełniająca określone funkcje: podsystem małżeński (partnerski), rodzicielski i dziecięcy.

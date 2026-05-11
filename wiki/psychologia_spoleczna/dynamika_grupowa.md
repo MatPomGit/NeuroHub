@@ -103,7 +103,7 @@ Dynamika grupowa obejmuje zjawiska od tworzenia norm i ról (Tuckman), przez os�
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Darley, J. M., & Latané, B. (1968). Bystander intervention in emergencies: Diffusion of responsibility. *Journal of Personality and Social Psychology, 8*(4), 377–383.
 - Latané, B., Williams, K., & Harkins, S. (1979). Many hands make light the work: The causes and consequences of social loafing. *Journal of Personality and Social Psychology, 37*(6), 823–832.

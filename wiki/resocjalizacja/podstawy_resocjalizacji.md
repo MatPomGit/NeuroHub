@@ -1,14 +1,14 @@
 # Podstawy resocjalizacji
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Resocjalizacja obejmuje procesy zmiany zachowania, tożsamości i warunków społecznych podtrzymujących naruszenia norm.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Resocjalizacja**: planowa zmiana umożliwiająca funkcjonowanie zgodne z prawem i normami społecznymi.
 - **Czynniki kryminogenne**: zmienne zwiększające ryzyko recydywy.
 - **Readaptacja społeczna**: powrót do ról rodzinnych, edukacyjnych i zawodowych.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Skuteczna resocjalizacja łączy oddziaływania indywidualne z modyfikacją środowiska po opuszczeniu placówki. Sam nadzór formalny jest niewystarczający.
 
 ## Dobra praktyka

@@ -6,10 +6,10 @@ evidenceCutoffDate: 2026-03-31
 
 # Negatywny wpływ religii na życie, rozwój i moralność człowieka
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Religia może pełnić funkcję ochronną, ale w określonych warunkach staje się czynnikiem ryzyka dla zdrowia psychicznego, rozwoju autonomii i jakości decyzji moralnych. Psychologia religii analizuje te zjawiska funkcjonalnie: nie ocenia doktryn, lecz sprawdza, kiedy praktyki i przekonania podtrzymują lęk, wstyd, przemoc symboliczną lub społeczne wykluczenie. W tym artykule oddzielamy dane empiryczne od ocen światopoglądowych.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Religijny autorytaryzm**: sztywny wzorzec podporządkowania normom i przywództwu religijnemu, ograniczający krytyczny namysł.
 - **Przemoc duchowa**: używanie języka religijnego do kontroli, zawstydzania lub utrzymywania zależności.
 - **Moral injury (uraz moralny)**: długotrwałe cierpienie psychiczne po doświadczeniu lub współudziale w działaniach sprzecznych z własnym kodeksem moralnym.

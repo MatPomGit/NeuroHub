@@ -161,7 +161,7 @@ Obserwacja kliniczna jest niezbędnym elementem całościowej diagnozy psycholog
 
 ---
 
-## Literatura zalecana
+## Bibliografia zalecana
 
 - Othmer, E., & Othmer, S. C. (2002). *The Clinical Interview Using DSM-IV-TR*. American Psychiatric Publishing.
 - Morrison, J. (2014). *Wywiad diagnostyczny. Podręcznik DSM-5*. Wydawnictwo UJ.

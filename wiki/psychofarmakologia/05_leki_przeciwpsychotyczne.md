@@ -1,14 +1,14 @@
 # 5. Leki przeciwpsychotyczne
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Leki przeciwpsychotyczne działają głównie przez antagonizm lub częściowy agonizm receptorów D2, często z dodatkowym wpływem na receptory serotoninowe. Różnią się profilem działań niepożądanych: pozapiramidowych, metabolicznych, sedacyjnych i prolaktynowych.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
 - **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
 - **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
 
-## Analiza mechanizmów i zależności
+## Analiza
 W doborze klinicznym należy ważyć skuteczność objawową, profil działań niepożądanych, preferencje pacjenta oraz formę podania (doustna vs LAI). Klozapina pozostaje lekiem o najwyższej skuteczności w lekooporności, ale wymaga ścisłego monitorowania.
 
 ## Praktyczne przykłady

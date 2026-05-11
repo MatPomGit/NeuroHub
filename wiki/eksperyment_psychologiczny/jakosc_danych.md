@@ -6,10 +6,10 @@ evidenceCutoffDate: 2025-12-31
 
 # Kontrola jakości i zarządzanie danymi
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Dane o niskiej jakości nie stają się wiarygodne dzięki zaawansowanej statystyce. W psychologii eksperymentalnej jakość danych musi być projektowana od początku: od formularza zbierania po archiwizację.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Data Management Plan (DMP)** – plan cyklu życia danych: zbieranie, przechowywanie, przetwarzanie, udostępnianie.
 - **Walidacja danych** – automatyczne i ręczne reguły wykrywania błędów.
 - **Outlier** – obserwacja skrajna, która może być prawidłowa lub błędna.

@@ -1,14 +1,14 @@
 # 21. Farmakoterapia ADHD u dzieci i dorosłych
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 W ADHD farmakoterapia redukuje objawy osiowe i poprawia funkcjonowanie szkolne, zawodowe oraz społeczne. Skuteczność potwierdzono zarówno dla stymulantów, jak i części leków niestymulujących.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
 - **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
 - **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Różnice wieku wpływają na cele terapii: u dzieci dominują cele rozwojowe i szkolne, u dorosłych - organizacja pracy, regulacja emocji i bezpieczeństwo prowadzenia pojazdów.
 
 ## Praktyczne przykłady

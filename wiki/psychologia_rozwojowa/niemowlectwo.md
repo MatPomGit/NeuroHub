@@ -103,7 +103,7 @@ Niemowlęctwo i wczesne dzieciństwo są fundamentem całego późniejszego rozw
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Baillargeon, R. (1986). Representing the existence and the location of hidden objects. *Cognition, 23*(1), 21–41.
 - Bowlby, J. (1969). *Attachment and Loss: Vol. 1*. Basic Books.

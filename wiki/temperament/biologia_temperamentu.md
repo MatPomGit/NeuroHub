@@ -82,7 +82,7 @@ Epigenetyka dostarcza modelu *jak środowisko moduluje ekspresję genów tempera
 - Badania Meaney'a nad szczurami (metylacja NR3C1 u potomstwa stresowanych matek) mają odpowiedniki u ludzi
 - Opieka matczyna wysokiej jakości buforuje genetyczną podatność na wysoki neurotyzm
 
-## Literatura
+## Bibliografia
 
 - Kagan, J. (1994). *Galen's Prophecy*. Basic Books.
 - Eysenck, H. J. (1967). *The Biological Basis of Personality*. Charles C Thomas.

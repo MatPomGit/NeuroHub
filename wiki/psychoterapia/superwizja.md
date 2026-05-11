@@ -228,7 +228,7 @@ Dobrze prowadzona superwizja sprawia, że terapeuta staje się lepszy, spokojnie
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Hawkins, P., & Shohet, R. (2012). *Supervision in the Helping Professions* (4th ed.). Open University Press.
 - Bernard, J. M., & Goodyear, R. K. (2014). *Fundamentals of Clinical Supervision* (5th ed.). Pearson.

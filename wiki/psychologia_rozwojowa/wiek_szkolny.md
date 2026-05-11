@@ -119,7 +119,7 @@ Wiek szkolny to okres skokowego wzrostu kompetencji logicznych i społecznych. M
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Baron-Cohen, S. (1995). *Mindblindness: An Essay on Autism and Theory of Mind*. MIT Press.
 - Coie, J. D., Dodge, K. A., & Coppotelli, H. (1982). Dimensions and types of social status. *Developmental Psychology, 18*(4), 557–570.

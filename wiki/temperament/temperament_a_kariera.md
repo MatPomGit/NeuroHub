@@ -85,7 +85,7 @@ W coachingu kariery uwzględnienie temperamentu pozwala:
 
 Osoba z wysoką RE i niską WT pracująca w call center (wysoka stymulacja, nieprzewidywalność) doświadcza chronicznego stresu i wyczerpania. Coaching może obejmować: identyfikację zawodów niskostymulacyjnych, strategie buforowania bodźców w aktualnej pracy, lub stopniowe przejście do innej roli.
 
-## Literatura
+## Bibliografia
 
 - Strelau, J. (2001). *Psychologia temperamentu*. Wydawnictwo Naukowe PWN.
 - Maslach, C., Schaufeli, W. B., & Leiter, M. P. (2001). Job burnout. *Annual Review of Psychology, 52*, 397–422.

@@ -119,7 +119,7 @@ Seligman i in. (2005) - wieczorne zapisywanie trzech pozytywnych wydarzeń i ich
 
 ---
 
-## Literatura
+## Bibliografia
 
 1. Fredrickson, B. L. (2001). The role of positive emotions in positive psychology: The broaden-and-build theory. *American Psychologist, 56*(3), 218–226.
 2. Fredrickson, B. L. (2009). *Positivity: Groundbreaking Research Reveals How to Embrace the Hidden Strength of Positive Emotions*. Crown.

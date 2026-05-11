@@ -1,9 +1,9 @@
 # Genetyczne i epigenetyczne uwarunkowania suicydalności
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Genetyka i epigenetyka suicydalności stanowią obszar dynamicznie rozwijanych badań translacyjnych. Najważniejszy wniosek z ostatnich dekad jest jednoznaczny: nie istnieje „gen samobójstwa”. Zamiast prostego modelu przyczynowego mamy układ wielu wariantów genetycznych o małym efekcie, które wchodzą w interakcję z doświadczeniem życiowym, stresem i psychopatologią.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Dziedziczność (heritability)** – część zróżnicowania cechy w populacji, którą statystycznie wyjaśniają różnice genetyczne.
 - **GWAS** – badania asocjacyjne całego genomu, identyfikujące warianty związane z ryzykiem.
 - **Epigenetyka** – modyfikacje regulacji ekspresji genów bez zmiany sekwencji DNA (np. metylacja DNA).

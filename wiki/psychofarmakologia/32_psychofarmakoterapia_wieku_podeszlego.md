@@ -1,14 +1,14 @@
 # 32. Psychofarmakoterapia u chorych w wieku podeszłym
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 U osób starszych zmienia się dystrybucja, metabolizm i eliminacja leków, a wielochorobowość zwiększa ryzyko interakcji. Zasada „start low, go slow” pozostaje praktycznie kluczowa.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
 - **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
 - **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Równie ważna jest regularna depreskrypcja i ograniczanie obciążenia antycholinergicznego, które może pogarszać poznanie i funkcjonowanie.
 
 ## Praktyczne przykłady

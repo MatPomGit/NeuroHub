@@ -140,7 +140,7 @@ W Polsce każda instytucja naukowa prowadząca badania empiryczne powinna posiad
 
 ---
 
-## Literatura
+## Bibliografia
 
 1. Milgram, S. (1963). Behavioral study of obedience. *Journal of Abnormal and Social Psychology, 67*(4), 371–378.
 2. World Medical Association (2013). *Declaration of Helsinki: Ethical Principles for Medical Research Involving Human Subjects*. WMA.

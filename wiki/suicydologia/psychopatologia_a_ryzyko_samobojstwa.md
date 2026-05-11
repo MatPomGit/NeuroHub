@@ -1,9 +1,9 @@
 # Psychopatologia a ryzyko samobójstwa: zaburzenia nastroju, psychotyczne i osobowości
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Ryzyko samobójstwa jest nierównomiernie rozłożone między rozpoznaniami psychiatrycznymi. Najwyższe wartości obserwuje się zwykle w zaburzeniach nastroju, wybranych zaburzeniach psychotycznych oraz części zaburzeń osobowości. Jednocześnie sam diagnoza nie wystarcza do prognozowania: kluczowe są dynamika objawów, współchorobowość, historia prób samobójczych, używanie substancji i czynniki środowiskowe.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Ryzyko krótkoterminowe (acute risk)** – prawdopodobieństwo gwałtownego pogorszenia i zachowania suicydalnego w najbliższych godzinach/dniach.
 - **Ryzyko długoterminowe (chronic risk)** – utrwalona podatność wynikająca z historii choroby, cech osobowości i nawrotowości.
 - **Współchorobowość** – równoczesne występowanie więcej niż jednego zaburzenia (np. depresja + uzależnienie).

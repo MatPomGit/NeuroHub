@@ -124,7 +124,7 @@ Uzależnienia u młodzieży są wynikiem interakcji neurobiologicznej podatnośc
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Casey, B. J., Jones, R. M., & Hare, T. A. (2008). The adolescent brain. *Annals of the New York Academy of Sciences, 1124*, 111–126.
 - Chambers, R. A., Taylor, J. R., & Potenza, M. N. (2003). Developmental neurocircuitry of motivation in adolescence. *American Journal of Psychiatry, 160*(6), 1041–1052.

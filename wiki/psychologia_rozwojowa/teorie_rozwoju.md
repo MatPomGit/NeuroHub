@@ -126,7 +126,7 @@ Styl przywiązania ukształtowany we wczesnym dzieciństwie wpływa na później
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Ainsworth, M. D. S., Blehar, M., Waters, E., & Wall, S. (1978). *Patterns of Attachment*. Erlbaum.
 - Bowlby, J. (1969). *Attachment and Loss: Vol. 1. Attachment*. Basic Books.

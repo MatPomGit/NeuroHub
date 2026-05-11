@@ -1,14 +1,14 @@
 # Farmakoterapia i wskazania
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Farmakoterapia może być rozważana jako wsparcie, gdy objawy są nasilone lub współwystępują zaburzenia nastroju i impulsywności.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Farmakoterapia wspomagająca**: leczenie lekami jako element planu wielomodalnego.
 - **Wskazania kliniczne**: kryteria, przy których korzyści przewyższają ryzyko.
 - **Monitorowanie bezpieczeństwa**: regularna ocena działań niepożądanych i skuteczności.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Leki nie zastępują pracy psychoterapeutycznej i zmiany środowiska. Ich rola polega zwykle na zmniejszeniu nasilenia objawów, aby pacjent mógł skuteczniej korzystać z terapii.
 
 ## Dobra praktyka

@@ -117,7 +117,7 @@ Eksperymenty Ascha i Milgrama ukazują, że konformizm i posłuszeństwo są gł
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Asch, S. E. (1951). Effects of group pressure upon the modification and distortion of judgments. W: H. Guetzkow (red.), *Groups, Leadership and Men* (s. 177–190). Carnegie Press.
 - Deutsch, M., & Gerard, H. B. (1955). A study of normative and informational social influences upon individual judgment. *Journal of Abnormal and Social Psychology, 51*(3), 629–636.

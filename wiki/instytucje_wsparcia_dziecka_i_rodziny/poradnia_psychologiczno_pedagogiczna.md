@@ -1,14 +1,14 @@
 # Poradnia psychologiczno-pedagogiczna
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Poradnia wspiera diagnozę i planowanie pomocy edukacyjno-psychologicznej dla dzieci i młodzieży.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Orzeczenie/opinia**: formalny dokument wskazujący potrzeby i zalecenia wsparcia.
 - **Diagnoza funkcjonalna**: ocena mocnych stron i trudności w kontekście szkolnym i domowym.
 - **Wczesna interwencja**: szybkie wsparcie zapobiegające utrwalaniu trudności.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Największą wartość ma przełożenie wyników diagnozy na konkretne działania szkoły i rodziny. Sama diagnoza bez wdrożenia zaleceń ma ograniczoną skuteczność.
 
 ## Dobra praktyka

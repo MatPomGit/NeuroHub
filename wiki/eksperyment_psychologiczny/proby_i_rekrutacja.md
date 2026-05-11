@@ -6,10 +6,10 @@ evidenceCutoffDate: 2025-12-31
 
 # Dobór próby i rekrutacja
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Dobór próby określa granice generalizacji wyników. Nawet metodologicznie poprawny eksperyment może mieć ograniczoną wartość, jeśli rekrutacja jest stronnicza lub niedostatecznie udokumentowana.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Populacja docelowa** – grupa, do której odnosimy wnioski.
 - **Kryteria włączenia/wyłączenia** – jawne warunki kwalifikacji uczestnika.
 - **Moc statystyczna** – prawdopodobieństwo wykrycia rzeczywistego efektu.

@@ -105,7 +105,7 @@ Tajemnica zawodowa jest zarówno obowiązkiem prawnym, jak i etycznym filarem re
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Ustawa z dnia 8 czerwca 2001 r. o zawodzie psychologa. Dz.U. 2001 nr 73 poz. 763.
 - Ustawa z dnia 28 lipca 2023 r. o ochronie małoletnich. Dz.U. 2023 poz. 1606.

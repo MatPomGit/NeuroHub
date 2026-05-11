@@ -105,7 +105,7 @@ Depresja ma silne temperamentalne korzenie:
 - DBT szczególnie przydatna przy wysokiej reaktywności emocjonalnej
 - Terapia schematu przy trwałych wzorcach wynikających z temperamentu × wczesnodziecięce doświadczenia
 
-## Literatura
+## Bibliografia
 
 - Strelau, J., & Zawadzki, B. (2005). Trauma and temperament as predictors of posttraumatic stress disorder. *European Psychologist, 10*(2), 124–135.
 - Rothbart, M. K., & Bates, J. E. (2006). Temperament. In W. Damon & R. M. Lerner (Eds.), *Handbook of Child Psychology*, Vol. 3 (6th ed., pp. 99–166). Wiley.

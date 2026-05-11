@@ -6,10 +6,10 @@ evidenceCutoffDate: 2026-03-31
 
 # Coping religijny
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Coping religijny opisuje to, jak ludzie wykorzystują przekonania, praktyki i relacje duchowe do radzenia sobie ze stresem. W psychologii klinicznej temat jest istotny, ponieważ religia może być zarówno zasobem ochronnym, jak i źródłem dodatkowego obciążenia. W praktyce dobrze widać to u osób po diagnozie ciężkiej choroby, po stracie bliskich lub w kryzysach egzystencjalnych. Dlatego analizując coping religijny, trzeba pytać nie tylko o intensywność religijności, ale przede wszystkim o jakość stosowanych strategii.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Coping religijny pozytywny**: strategie oparte na zaufaniu, poszukiwaniu sensu, wsparciu wspólnotowym i współpracy z obrazem Boga jako źródłem oparcia.
 - **Coping religijny negatywny**: strategie oparte na lęku, karzących interpretacjach, poczuciu opuszczenia przez Boga lub przewlekłym konflikcie religijno-moralnym.
 - **Religious struggle**: napięcie duchowe dotyczące wątpliwości, winy, gniewu wobec Boga, konfliktów wspólnotowych lub poczucia duchowej porażki.

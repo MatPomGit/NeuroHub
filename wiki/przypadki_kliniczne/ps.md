@@ -10,11 +10,11 @@ Przypadek „czytania bez pisania”, który odegrał ważną rolę w rozumieniu
 
 *Europa, klasyczne opisy neurologiczne*
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 
 P.S. (oznaczenie przypadków w literaturze) prezentował/a czystą aleksję: istotnie upośledzone czytanie przy względnie zachowanym pisaniu i mowie spontanicznej.
 
-## Definicje kluczowych pojęć
+## Definicje
 
 - **Czysta aleksja (alexia without agraphia):** zaburzenie czytania bez współwystępującej agrafii.
 - **Obszar wzrokowej formy słowa (VWFA):** region potyliczno-skroniowy lewej półkuli zaangażowany w szybkie rozpoznawanie słów pisanych.

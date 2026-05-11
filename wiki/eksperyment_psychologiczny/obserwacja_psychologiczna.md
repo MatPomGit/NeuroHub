@@ -6,10 +6,10 @@ evidenceCutoffDate: 2025-12-31
 
 # Obserwacja psychologiczna w praktyce
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Obserwacja pozwala badać zachowanie w czasie rzeczywistym i w kontekście społecznym. W eksperymencie może pełnić funkcję głównego pomiaru albo źródła danych uzupełniających.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Obserwacja ustrukturyzowana** – rejestracja zachowań według zdefiniowanego systemu kodowania.
 - **Jednostka obserwacji** – przedział czasu, epizod lub zdarzenie używane do kodowania.
 - **Rzetelność międzyobserwatorska** – stopień zgodności między niezależnymi koderami.

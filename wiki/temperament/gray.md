@@ -100,7 +100,7 @@ Wysokie BIS wiąże się z:
 
 Narzędzie ma polskie adaptacje i jest szeroko stosowane w badaniach klinicznych.
 
-## Literatura
+## Bibliografia
 
 - Gray, J. A. (1982). *The Neuropsychology of Anxiety*. Oxford University Press.
 - Gray, J. A., & McNaughton, N. (2000). *The Neuropsychology of Anxiety* (2nd ed.). Oxford University Press.

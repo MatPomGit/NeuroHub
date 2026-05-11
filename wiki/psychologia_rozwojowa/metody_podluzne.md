@@ -116,7 +116,7 @@ Badania podłużne są złotym standardem psychologii rozwojowej, gdyż jako jed
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Caspi, A., Moffitt, T. E., i in. (2003). Influence of life stress on depression. *Science, 301*, 386–389.
 - Elder, G. H. (1998). The life course as developmental theory. *Child Development, 69*(1), 1–12.

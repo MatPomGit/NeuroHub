@@ -128,7 +128,7 @@ Dokumentacja chroni zarówno klienta (transparentność), jak i psychologa (wyka
 
 ---
 
-## Literatura
+## Bibliografia
 
 1. Kitchener, K. S. (1984). Intuition, critical evaluation, and ethical principles: The foundation for ethical decisions in counseling psychology. *Counseling Psychologist, 12*(3), 43–55.
 2. Beauchamp, T. L., & Childress, J. F. (2019). *Principles of Biomedical Ethics* (8th ed.). Oxford University Press.

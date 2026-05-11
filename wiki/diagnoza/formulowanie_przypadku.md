@@ -179,7 +179,7 @@ Dobrze skonstruowane formułowanie ma bezpośrednie przełożenie na:
 
 ---
 
-## Literatura zalecana
+## Bibliografia zalecana
 
 - Eells, T. D. (Ed.). (2007). *Handbook of Psychotherapy Case Formulation* (2nd ed.). Guilford Press.
 - Bieling, P. J., & Kuyken, W. (2003). Is cognitive case formulation science or science fiction? *Clinical Psychology: Science and Practice*, 10(1), 52–69.

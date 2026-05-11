@@ -1,14 +1,14 @@
 # Edukacja i aktywizacja zawodowa
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Edukacja oraz praca są kluczowymi czynnikami ochronnymi po opuszczeniu instytucji.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Aktywizacja zawodowa**: działania zwiększające zdolność i gotowość do podjęcia pracy.
 - **Kapitał ludzki**: kompetencje i kwalifikacje zwiększające szanse zatrudnienia.
 - **Czynnik ochronny**: zasób obniżający ryzyko recydywy.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Legalne źródło dochodu i poczucie sprawstwa zmniejszają presję na powrót do zachowań niezgodnych z prawem. Potrzebne jest wsparcie przejścia na rynek pracy.
 
 ## Dobra praktyka

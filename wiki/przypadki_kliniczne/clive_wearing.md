@@ -10,11 +10,11 @@ Muzykolog i dyrygent, u którego wirusowe zapalenie mózgu doprowadziło do jedn
 
 *Wielka Brytania, od 1985 r.*
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 
 Clive Wearing po przebytym opryszczkowym zapaleniu mózgu utracił zdolność trwałego zapisywania nowych wspomnień oraz znaczną część pamięci autobiograficznej sprzed choroby. Jego przypadek jest klasycznym materiałem do nauczania neuropsychologii pamięci.
 
-## Definicje kluczowych pojęć
+## Definicje
 
 - **Amnezja anterogradna:** niezdolność tworzenia nowych wspomnień deklaratywnych.
 - **Amnezja retrogradna:** utrata części wspomnień sprzed uszkodzenia mózgu.

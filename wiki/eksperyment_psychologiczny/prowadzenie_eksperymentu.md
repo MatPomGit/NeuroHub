@@ -6,10 +6,10 @@ evidenceCutoffDate: 2025-12-31
 
 # Prowadzenie sesji eksperymentalnej
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Prowadzenie sesji eksperymentalnej jest etapem, w którym założenia metodologiczne stają się realnym kontaktem z uczestnikiem. W tej fazie nawet drobne odstępstwa proceduralne mogą obniżyć trafność wewnętrzną i utrudnić replikację wyników.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Standaryzacja procedury** – realizowanie wszystkich sesji według tego samego protokołu.
 - **Randomizacja** – losowy przydział uczestników do warunków badawczych.
 - **Zaślepienie (blinding)** – ograniczenie wiedzy o warunku badawczym u uczestnika, badacza lub analityka.

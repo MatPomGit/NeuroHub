@@ -138,7 +138,7 @@ Krytyki modelu Marlatta obejmują:
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Bowen, S., Chawla, N., Collins, S. E., Witkiewitz, K., Hsu, S., Grow, J., … Marlatt, G. A. (2009). Mindfulness-based relapse prevention for substance use disorders. *Substance Abuse, 30*(4), 295–305.
 - Bowen, S., Witkiewitz, K., Clifasefi, S. L., Grow, J., Chawla, N., Hsu, S. H., … Larimer, M. E. (2014). Relative efficacy of mindfulness-based relapse prevention, standard relapse prevention, and treatment as usual for substance use disorders. *JAMA Psychiatry, 71*(5), 547–556.

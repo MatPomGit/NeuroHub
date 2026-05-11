@@ -148,7 +148,7 @@ Ciemna Triada stanowi ważne narzędzie pojęciowe pozwalające łączyć psycho
 
 ---
 
-## Literatura
+## Bibliografia
 
 - Paulhus, D. L., & Williams, K. M. (2002). The dark triad of personality: Narcissism, Machiavellianism, and psychopathy. *Journal of Research in Personality*, 36(6), 556–563.
 - Jones, D. N., & Paulhus, D. L. (2014). Introducing the Short Dark Triad (SD3): A brief measure of dark personality traits. *Assessment*, 21(1), 28–41.

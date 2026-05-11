@@ -6,10 +6,10 @@ evidenceCutoffDate: 2026-03-31
 
 # Religijność i duchowość: podobieństwa oraz różnice
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 W debacie publicznej pojęcia religijności i duchowości bywają używane zamiennie, co utrudnia interpretację wyników badań. W psychologii warto je rozdzielać, ponieważ opisują odmienne mechanizmy regulacji emocji i tożsamości. Rozróżnienie to ma znaczenie praktyczne: inaczej planuje się wsparcie dla osoby zakorzenionej we wspólnocie religijnej, a inaczej dla osoby budującej indywidualny, nieinstytucjonalny system sensu.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Religijność instytucjonalna**: uczestnictwo w rytuałach i normach wspólnoty.
 - **Religijność wewnętrzna**: osobiste znaczenie wiary, niezależne od presji społecznej.
 - **Duchowość egzystencjalna**: poszukiwanie sensu, celu i spójności autobiograficznej.

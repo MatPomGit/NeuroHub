@@ -118,7 +118,7 @@ Wyższa IE nauczycieli koreluje z:
 
 ---
 
-## Literatura
+## Bibliografia
 
 1. Mayer, J. D., & Salovey, P. (1990). Emotional intelligence. *Imagination, Cognition and Personality, 9*(3), 185–211.
 2. Goleman, D. (1995). *Emotional Intelligence: Why It Can Matter More Than IQ*. Bantam Books.

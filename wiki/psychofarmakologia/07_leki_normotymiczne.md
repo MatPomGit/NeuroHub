@@ -1,14 +1,14 @@
 # 7. Leki normotymiczne
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Leki normotymiczne stabilizują przebieg choroby afektywnej dwubiegunowej, ograniczając nawroty manii i depresji. Do głównych należą lit, walproinian, karbamazepina i lamotrygina, często w schematach łączonych z lekami przeciwpsychotycznymi.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
 - **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
 - **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Różnice między lekami dotyczą fazy, w której działają najlepiej, oraz profilu bezpieczeństwa (tarczycowego, nerkowego, hepatologicznego, teratogennego). Lit ma najsilniejsze dane dotyczące redukcji ryzyka samobójstwa.
 
 ## Praktyczne przykłady

@@ -77,7 +77,7 @@ Mimo słabości, PEN wywarł ogromny wpływ na psychologię różnicową:
 - Zainspirował biologiczne teorie Graya, Zuckermana i innych
 - Wyznaczył kierunek badań genetycznych nad osobowością
 
-## Literatura
+## Bibliografia
 
 - Eysenck, H. J. (1967). *The Biological Basis of Personality*. Charles C Thomas.
 - Eysenck, H. J., & Eysenck, M. W. (1985). *Personality and Individual Differences*. Plenum.

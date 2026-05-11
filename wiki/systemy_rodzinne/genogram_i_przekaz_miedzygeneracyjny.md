@@ -10,7 +10,7 @@ evidenceCutoffDate: 2026-03-31
 
 Genogram to graficzne narzędzie diagnostyczne używane w terapii rodzinnej i medycynie, które umożliwia wizualizację relacji rodzinnych i wzorców funkcjonowania w co najmniej trzech pokoleniach. Murray Bowen jako jeden z pierwszych zastosował go systematycznie w psychoterapii, a Monica McGoldrick i Randy Gerson skodyfikowali jego użycie w standardowej pracy *Genograms in Family Assessment* (1985). Narzędzie to pozwala terapeucie - i samej rodzinie - zobaczyć powtarzające się wzorce, które w codziennym życiu pozostają niewidoczne lub są traktowane jako „normalne". Genogram ujawnia, że wiele problemów, z jakimi zgłasza się klient, ma długą historię sięgającą poprzednich pokoleń.
 
-## Definicje kluczowych pojęć
+## Definicje
 
 - **Genogram** - szczegółowa mapa relacyjna rodziny obejmująca co najmniej trzy pokolenia; zawiera dane o urodzinach, śmierciach, małżeństwach, rozstaniach, migracjach, zawodach, diagnozach i znaczących wydarzeniach życiowych.
 - **Przekaz międzypokoleniowy** (*intergenerational transmission*) - proces, przez który wzorce zachowania, style przywiązania, nierozwiązane konflikty i strategie radzenia sobie są przenoszone z pokolenia na pokolenie przez modelowanie, wychowanie i nieświadome identyfikacje.

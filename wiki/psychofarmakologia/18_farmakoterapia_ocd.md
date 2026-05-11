@@ -1,14 +1,14 @@
 # 18. Farmakoterapia zespołu obsesyjno-kompulsyjnego
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Leczenie OCD opiera się głównie na SSRI w wyższych dawkach terapeutycznych oraz na terapii ERP. W części przypadków stosuje się augmentację lekami przeciwpsychotycznymi.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
 - **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
 - **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Odpowiedź w OCD często pojawia się później niż w depresji, dlatego kluczowa jest cierpliwa ocena efektu i dobra psychoedukacja. Farmakoterapia i ERP mają największą skuteczność w modelu łączonym.
 
 ## Praktyczne przykłady

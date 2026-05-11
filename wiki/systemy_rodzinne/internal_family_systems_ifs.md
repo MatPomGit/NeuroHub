@@ -10,7 +10,7 @@ evidenceCutoffDate: 2026-03-31
 
 Internal Family Systems (IFS) to model terapeutyczny opracowany przez Richarda C. Schwartza w latach osiemdziesiątych XX wieku. Schwartz, pracując początkowo jako terapeuta rodzinny, zaczął dostrzegać, że jego klienci opisują wewnętrzne konflikty w sposób niezwykle zbliżony do dynamiki rodzinnej: różne „głosy" lub „części" walczyły ze sobą o pierwszeństwo, chroniły się nawzajem lub były przez siebie izolowane. Postanowił zastosować do wewnętrznego świata człowieka tę samą logikę, którą stosował do pracy z rodzinami zewnętrznymi. W efekcie powstał model zakładający, że psychika każdego człowieka jest złożoną, wielopoziomową rodziną wewnętrzną.
 
-## Definicje kluczowych pojęć
+## Definicje
 
 - **Części** (*parts*) - względnie odrębne podstruktury psychiki, posiadające własne perspektywy, emocje, przekonania i zamiary; IFS zakłada, że żadna część nie jest z natury „zła", lecz każda pełni jakąś funkcję adaptacyjną.
 - **Wygnańcy** (*exiles*) - części noszące traumę, wstyd i niezaspokojoną potrzebę; zwykle zostały zepchnięte przez inne części do nieświadomości, by chronić system przed przeciążeniem.

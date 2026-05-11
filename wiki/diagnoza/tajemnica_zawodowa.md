@@ -140,7 +140,7 @@ Tajemnica zawodowa nie jest przeszkodą w pracy diagnostycznej - jest jej fundam
 
 ---
 
-## Literatura zalecana
+## Bibliografia zalecana
 
 - Ustawa o zawodzie psychologa i samorządzie zawodowym psychologów (Dz.U. 2001 nr 73 poz. 763).
 - Kodeks etyczno-zawodowy psychologa PTP (2018).

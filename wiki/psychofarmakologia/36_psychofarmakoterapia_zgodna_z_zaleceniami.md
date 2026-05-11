@@ -1,14 +1,14 @@
 # 36. Psychofarmakoterapia zgodnie z zaleceniami
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Psychofarmakoterapia oparta na zaleceniach łączy dowody naukowe, doświadczenie kliniczne i preferencje pacjenta. Wytyczne porządkują decyzje, ale nie zastępują osądu klinicznego.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
 - **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
 - **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
 
-## Analiza mechanizmów i zależności
+## Analiza
 W praktyce konieczne jest krytyczne czytanie wytycznych: analiza jakości dowodów, konfliktów interesów i zgodności z lokalnym kontekstem systemowym.
 
 ## Praktyczne przykłady

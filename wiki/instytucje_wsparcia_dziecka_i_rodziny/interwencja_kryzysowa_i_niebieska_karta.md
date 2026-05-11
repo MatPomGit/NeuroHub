@@ -1,14 +1,14 @@
 # Interwencja kryzysowa i „Niebieska Karta”
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 W sytuacjach przemocy i ostrego kryzysu liczy się szybkość, bezpieczeństwo i koordynacja służb.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Interwencja kryzysowa**: krótkoterminowe działania stabilizujące i ochronne.
 - **Niebieska Karta**: procedura dokumentowania i przeciwdziałania przemocy domowej.
 - **Plan bezpieczeństwa**: konkretne kroki ochrony dziecka i opiekuna.
 
-## Analiza mechanizmów i zależności
+## Analiza
 Wysokie ryzyko błędu pojawia się, gdy instytucje traktują przemoc jako „konflikt rodzinny”. Konieczna jest ocena zagrożenia i jasna ścieżka decyzji.
 
 ## Dobra praktyka

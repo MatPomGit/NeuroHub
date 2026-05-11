@@ -1683,7 +1683,7 @@ function artCard(art) {
     </a>`;
   }
 
-  return `<button type="button" class="art-card ${effectiveStatus}" ${artid} ${click}>
+  return `<button type="button" role="link" class="art-card ${effectiveStatus}" ${artid} ${click}>
     <div class="art-dot ${effectiveStatus}"></div>
     <div class="art-body"><div class="art-lbl">${art.label}</div>${desc}</div>
     <span class="art-badge ${effectiveStatus}">${lbl[effectiveStatus]||effectiveStatus}</span>

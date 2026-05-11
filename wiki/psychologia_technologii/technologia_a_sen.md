@@ -12,10 +12,10 @@ Sen jest podstawowym mechanizmem regeneracji emocjonalnej i poznawczej. Współc
 
 ## Definicje kluczowych pojęć
 
-- **Higiena snu** — zespół zachowań i warunków środowiskowych sprzyjających zasypianiu i utrzymaniu snu.
-- **Opóźnienie fazy snu** — przesunięcie pory zasypiania i budzenia na późniejsze godziny.
-- **Arousal poznawczy** — podwyższona aktywacja mentalna (ruminacje, planowanie, bodźce informacyjne) utrudniająca wyciszenie.
-- **Social jetlag** — rozbieżność między biologicznym rytmem snu a harmonogramem społecznym.
+- **Higiena snu** - zespół zachowań i warunków środowiskowych sprzyjających zasypianiu i utrzymaniu snu.
+- **Opóźnienie fazy snu** - przesunięcie pory zasypiania i budzenia na późniejsze godziny.
+- **Arousal poznawczy** - podwyższona aktywacja mentalna (ruminacje, planowanie, bodźce informacyjne) utrudniająca wyciszenie.
+- **Social jetlag** - rozbieżność między biologicznym rytmem snu a harmonogramem społecznym.
 
 ## Część analityczna: mechanizmy i zależności
 
@@ -29,7 +29,7 @@ Aktywności ekranowe o wysokim ładunku emocjonalnym (konflikty online, szybkie 
 
 ### 3. Mechanizm behawioralny
 
-„Revenge bedtime procrastination” — odkładanie snu w celu odzyskania czasu dla siebie po obciążającym dniu — bywa wzmacniane przez łatwą dostępność mediów. Krótkoterminowo daje ulgę, długoterminowo zwiększa deficyt snu.
+„Revenge bedtime procrastination” - odkładanie snu w celu odzyskania czasu dla siebie po obciążającym dniu - bywa wzmacniane przez łatwą dostępność mediów. Krótkoterminowo daje ulgę, długoterminowo zwiększa deficyt snu.
 
 ### 4. Zależności kliniczne
 

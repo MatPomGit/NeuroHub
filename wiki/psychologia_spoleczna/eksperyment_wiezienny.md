@@ -8,7 +8,7 @@ evidenceCutoffDate: 2025-12-31
 
 ## Wprowadzenie
 
-**Stanfordzki Eksperyment Więzienny** (*Stanford Prison Experiment*, SPE) to jedno z najbardziej znanych — i najbardziej kontrowersyjnych — badań w historii psychologii. Przeprowadzony w sierpniu **1971 roku** przez Philipa Zimbardo i jego zespół na Uniwersytecie Stanforda, eksperyment miał zbadać psychologiczne skutki odgrywania ról więziennych. Wyniki zaskoczyły samych badaczy i do dziś inspirują dyskusje o granicach etyki naukowej, naturze zła i sile sytuacji.
+**Stanfordzki Eksperyment Więzienny** (*Stanford Prison Experiment*, SPE) to jedno z najbardziej znanych - i najbardziej kontrowersyjnych - badań w historii psychologii. Przeprowadzony w sierpniu **1971 roku** przez Philipa Zimbardo i jego zespół na Uniwersytecie Stanforda, eksperyment miał zbadać psychologiczne skutki odgrywania ról więziennych. Wyniki zaskoczyły samych badaczy i do dziś inspirują dyskusje o granicach etyki naukowej, naturze zła i sile sytuacji.
 
 > **Kluczowe pytanie badawcze:** Czy zwykli, zdrowi psychicznie ludzie mogą zacząć zachowywać się okrutnie, jeśli zostaną umieszczeni w roli strażnika lub więźnia?
 
@@ -18,12 +18,12 @@ evidenceCutoffDate: 2025-12-31
 
 ### Rekrutacja uczestników
 
-Philip Zimbardo, Craig Haney i Curtis Banks wybrali **24 spośród ponad 70 ochotników** — studentów płci męskiej, sprawdzonych pod kątem zdrowia psychicznego i braku przeszłości kryminalnej. Uczestnicy zostali **losowo** podzieleni na dwie grupy:
+Philip Zimbardo, Craig Haney i Curtis Banks wybrali **24 spośród ponad 70 ochotników** - studentów płci męskiej, sprawdzonych pod kątem zdrowia psychicznego i braku przeszłości kryminalnej. Uczestnicy zostali **losowo** podzieleni na dwie grupy:
 
 - **12 więźniów**
 - **12 strażników**
 
-Losowanie miało gwarantować, że obydwie grupy były jednorodne pod względem cech osobowości — żadna z ról nie wynikała z predyspozycji jednostki.
+Losowanie miało gwarantować, że obydwie grupy były jednorodne pod względem cech osobowości - żadna z ról nie wynikała z predyspozycji jednostki.
 
 ### Symulowane więzienie
 
@@ -36,21 +36,21 @@ W podziemiach Wydziału Psychologii Stanford'u urządzono prowizoryczne więzien
 
 ### Zaplanowany czas i przerwanie
 
-Badanie miało trwać **dwa tygodnie**. Zostało przerwane po **zaledwie sześciu dniach** (14 sierpnia 1971 r.) — pod wpływem nacisku Christiny Maslach, przyszłej żony Zimbardo, która po odwiedzeniu więzienia uznała warunki za skandaliczne i moralnie niedopuszczalne.
+Badanie miało trwać **dwa tygodnie**. Zostało przerwane po **zaledwie sześciu dniach** (14 sierpnia 1971 r.) - pod wpływem nacisku Christiny Maslach, przyszłej żony Zimbardo, która po odwiedzeniu więzienia uznała warunki za skandaliczne i moralnie niedopuszczalne.
 
 ---
 
-## Przebieg — chronologia wydarzeń
+## Przebieg - chronologia wydarzeń
 
 ### Dni 1–2: Chaos i pierwsze „aresztowania"
 
-Eksperyment zaczął się od niespodziewanych domowych „aresztowań" — detektywi z Wydziału Policji Palo Alto przyszli do domów uczestników z nakazami, zakuli ich w kajdanki i zawieźli na posterunek, skąd trafili do „więzienia". Cel: **maksymalne wczucie się w rolę** od samego początku.
+Eksperyment zaczął się od niespodziewanych domowych „aresztowań" - detektywi z Wydziału Policji Palo Alto przyszli do domów uczestników z nakazami, zakuli ich w kajdanki i zawieźli na posterunek, skąd trafili do „więzienia". Cel: **maksymalne wczucie się w rolę** od samego początku.
 
 Pierwsze godziny upłynęły względnie spokojnie. Strażnicy przejęli procedury, więźniowie były posłuszni.
 
 ### Dni 2–3: Eskalacja przemocy psychologicznej
 
-Już w nocy drugiego dnia więźniowie zbuntowali się — zbarykadowali się w celach i zerwali numery identyfikacyjne. Strażnicy, bez żadnych instrukcji o stosowaniu siły, **sami** zdecydowali się użyć gaśnic z dwutlenkiem węgla do stłumienia buntu.
+Już w nocy drugiego dnia więźniowie zbuntowali się - zbarykadowali się w celach i zerwali numery identyfikacyjne. Strażnicy, bez żadnych instrukcji o stosowaniu siły, **sami** zdecydowali się użyć gaśnic z dwutlenkiem węgla do stłumienia buntu.
 
 Kolejne godziny przyniosły narastającą inwencję strażników:
 - Zmuszanie do ćwiczeń i pompek jako kary
@@ -68,11 +68,11 @@ Kilku uczestników zaczęło przejawiać objawy **poważnego kryzysu psychiczneg
 - Jeden z uczestników (numer 8612) musiał zostać zwolniony już drugiego dnia z powodu ostrego ataku lękowego
 - Łącznie z badania wycofano 5 uczestników przed jego zakończeniem
 
-Część strażników — zwłaszcza na nocnej zmianie, gdy jak sądzili, nikt ich nie obserwuje — zachowywała się szczególnie brutalnie. Część natomiast pozostawała względnie spokojna i nie angażowała się w prześladowania.
+Część strażników - zwłaszcza na nocnej zmianie, gdy jak sądzili, nikt ich nie obserwuje - zachowywała się szczególnie brutalnie. Część natomiast pozostawała względnie spokojna i nie angażowała się w prześladowania.
 
 ### Dzień 6: Przerwanie eksperymentu
 
-Po inspekcji Christiny Maslach i jej konfrontacji z Zimbardo badanie zostało zakończone. Zimbardo przyznał później, że sam wchłonął rolę superintendenta w stopniu, który uniemożliwiał mu chłodną ocenę sytuacji — pełnił funkcję zarządcy więzienia, a nie obiektywnego badacza.
+Po inspekcji Christiny Maslach i jej konfrontacji z Zimbardo badanie zostało zakończone. Zimbardo przyznał później, że sam wchłonął rolę superintendenta w stopniu, który uniemożliwiał mu chłodną ocenę sytuacji - pełnił funkcję zarządcy więzienia, a nie obiektywnego badacza.
 
 ---
 
@@ -80,7 +80,7 @@ Po inspekcji Christiny Maslach i jej konfrontacji z Zimbardo badanie zostało za
 
 ### Efekt sytuacyjny vs. dyspozycjonalny
 
-Centralny wniosek Zimbardo — że **sytuacja pokonuje dyspozycję** — stał się fundamentem jego późniejszej teorii **efektu Lucyfera**:
+Centralny wniosek Zimbardo - że **sytuacja pokonuje dyspozycję** - stał się fundamentem jego późniejszej teorii **efektu Lucyfera**:
 
 > *Zwykli, dobrzy ludzie mogą czynić zło, gdy zostaną umieszczeni w odpowiednim kontekście instytucjonalnym i roli.*
 
@@ -92,7 +92,7 @@ Czynniki sytuacyjne, które Zimbardo uznał za kluczowe:
 | **Internalizacja roli** | Szybkie przejęcie oczekiwań związanych z rolą strażnika/więźnia |
 | **Dehumanizacja** | Postrzeganie więźniów jako mniej wartościowych; numeryczne identyfikatory |
 | **Konformizm grupowy** | Presja normatywna grupy strażników; brak sprzeciwu wobec nadużyć |
-| **Stopniowe zaangażowanie** | Małe kroki w dół eskalacji moralnej — „noga w drzwiach" okrucieństwa |
+| **Stopniowe zaangażowanie** | Małe kroki w dół eskalacji moralnej - „noga w drzwiach" okrucieństwa |
 | **Posłuszeństwo wobec systemu** | Akceptacja autorytetu instytucji i ról narzuconych z zewnątrz |
 
 ### Porównanie z eksperymentem Milgrama
@@ -112,13 +112,13 @@ SPE jest często zestawiany z **eksperymentami Stanleya Milgrama** (1961–1963)
 
 ### Zarzuty dotyczące instruowania uczestników
 
-W 2019 roku, po opublikowaniu nagrań i relacji asystentów, wyszło na jaw, że asystent Zimbardo — David Jaffe — **aktywnie instruował strażników**, jak mają się zachowywać (sugerował, by byli „twardzi" i asertywni). Kwestionuje to podstawowy wniosek o spontanicznym okrucieństwie.
+W 2019 roku, po opublikowaniu nagrań i relacji asystentów, wyszło na jaw, że asystent Zimbardo - David Jaffe - **aktywnie instruował strażników**, jak mają się zachowywać (sugerował, by byli „twardzi" i asertywni). Kwestionuje to podstawowy wniosek o spontanicznym okrucieństwie.
 
 ### Brak kontroli i replikowalności
 
 - Mała próba (24 osoby) dobrana nielosowo w sensie populacyjnym
 - Brak grupy kontrolnej
-- Eksperyment nigdy nie został w pełni zreplikowany — próba BBC Prison Study (Haslam i Reicher, 2001–2002) dała odmienne wyniki: więźniowie zorganizowali się i zakwestionowali władzę strażników, a strażnicy wykazywali tendencję do solidaryzowania się z więźniami
+- Eksperyment nigdy nie został w pełni zreplikowany - próba BBC Prison Study (Haslam i Reicher, 2001–2002) dała odmienne wyniki: więźniowie zorganizowali się i zakwestionowali władzę strażników, a strażnicy wykazywali tendencję do solidaryzowania się z więźniami
 
 ### BBC Prison Study jako kontrprzykład
 
@@ -134,7 +134,7 @@ SPE jest dziś **paradygmatycznym przykładem badania nieetycznego**. Nie mógł
 
 - Brak możliwości prawdziwego wycofania się z eksperymentu (jeden z uczestników przez wiele godzin nie mógł uzyskać zgody na odejście)
 - Brak przejrzystej procedury rezygnacji
-- Zimbardo pełniący podwójną rolę badacza i uczestnika (superintendent) — fundamentalny konflikt interesów
+- Zimbardo pełniący podwójną rolę badacza i uczestnika (superintendent) - fundamentalny konflikt interesów
 - Brak niezależnego komitetu etycznego monitorującego przebieg badania
 
 ---
@@ -148,9 +148,9 @@ Zimbardo był biegłym sądowym w procesach żołnierzy oskarżonych o znęcanie
 ### Efekt Lucyfera (2007)
 
 W swojej przełomowej książce *The Lucifer Effect: Understanding How Good People Turn Evil* Zimbardo rozwinął model trójpoziomowy:
-1. **Poziom indywidualny** — cechy osoby
-2. **Poziom sytuacyjny** — struktury i role
-3. **Poziom systemowy** — instytucje i ideologie tworzące konteksty opresji
+1. **Poziom indywidualny** - cechy osoby
+2. **Poziom sytuacyjny** - struktury i role
+3. **Poziom systemowy** - instytucje i ideologie tworzące konteksty opresji
 
 ### Edukacja i organizacje
 
@@ -175,12 +175,12 @@ Warto pamiętać, że adaptacje filmowe często dramatyzują i upraszczają prze
 
 Mimo swoich metodologicznych słabości SPE pozostaje żywym punktem odniesienia w debatach o:
 
-- **Etyce badań naukowych** — bezpośrednio przyczynił się do zaostrzenia regulacji dotyczących badań z udziałem ludzi (IRB, zasady APA)
-- **Reformie więziennictwa** — humanizacja warunków odbywania kary, szkolenia dla strażników
-- **Psychologii zła i ludobójstwa** — mechanizmy dehumanizacji w kontekście historycznym (Holocaust, Rwanda)
-- **Przywództwie i kulturze organizacyjnej** — jak systemy tworzą warunki do nadużyć i co to oznacza dla liderów
+- **Etyce badań naukowych** - bezpośrednio przyczynił się do zaostrzenia regulacji dotyczących badań z udziałem ludzi (IRB, zasady APA)
+- **Reformie więziennictwa** - humanizacja warunków odbywania kary, szkolenia dla strażników
+- **Psychologii zła i ludobójstwa** - mechanizmy dehumanizacji w kontekście historycznym (Holocaust, Rwanda)
+- **Przywództwie i kulturze organizacyjnej** - jak systemy tworzą warunki do nadużyć i co to oznacza dla liderów
 
-> **Wniosek krytyczny:** Eksperyment stanfordzki jest jednocześnie ważny i problematyczny — ważny jako ilustracja sił sytuacyjnych i potęgi ról społecznych, problematyczny jako nauka ze względu na poważne wady metodologiczne. Jego wartość leży dziś przede wszystkim w sferze pedagogicznej i etycznej, nie empirycznej.
+> **Wniosek krytyczny:** Eksperyment stanfordzki jest jednocześnie ważny i problematyczny - ważny jako ilustracja sił sytuacyjnych i potęgi ról społecznych, problematyczny jako nauka ze względu na poważne wady metodologiczne. Jego wartość leży dziś przede wszystkim w sferze pedagogicznej i etycznej, nie empirycznej.
 
 ---
 

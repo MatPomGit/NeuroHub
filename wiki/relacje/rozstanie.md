@@ -12,9 +12,9 @@ Zakończenie bliskiej relacji romantycznej należy do najbardziej bolesnych doś
 
 ## Psychologiczne konsekwencje rozstania
 
-### Ból społeczny — neurobiologia utraty
+### Ból społeczny - neurobiologia utraty
 
-Badania neurobiologiczne (Eisenberger, 2012) pokazują, że ból emocjonalny związany z odrzuceniem aktywuje te same struktury mózgu co ból fizyczny — przednią korę zakrętu obręczy (ACC) i wyspę (insula). **Ból po rozstaniu jest zatem biologicznie realny**, a nie jedynie metaforyczny.
+Badania neurobiologiczne (Eisenberger, 2012) pokazują, że ból emocjonalny związany z odrzuceniem aktywuje te same struktury mózgu co ból fizyczny - przednią korę zakrętu obręczy (ACC) i wyspę (insula). **Ból po rozstaniu jest zatem biologicznie realny**, a nie jedynie metaforyczny.
 
 ### Reakcja żałoby po związku
 
@@ -40,7 +40,7 @@ Choć model Kübler-Ross (1969) dotyczył żałoby po śmierci, jest często ada
 | **Depresja** | Smutek, apatia, płakanie, wycofanie społeczne, ruminacje |
 | **Akceptacja** | Pogodzenie z utratą, stopniowy powrót do życia, tworzenie nowych planów |
 
-> Fazy nie muszą następować kolejno — mogą się przeplatać i powracać.
+> Fazy nie muszą następować kolejno - mogą się przeplatać i powracać.
 
 ### Dual Process Model (DPM) Stroebbe i Schut
 
@@ -48,7 +48,7 @@ Model Podwójnego Procesu (*Dual Process Model*, 2010) wyróżnia dwa tryby radz
 - **Orientacja na stratę** (*loss-oriented*): skupienie na bólu, tęsknocie, przeżywaniu żałoby
 - **Orientacja na przywracanie** (*restoration-oriented*): planowanie nowego życia, nowych ról, przyszłości
 
-Zdrowe radzenie sobie polega na **oscylowaniu** między tymi dwoma trybami — żałoba i odbudowa naprzemiennie.
+Zdrowe radzenie sobie polega na **oscylowaniu** między tymi dwoma trybami - żałoba i odbudowa naprzemiennie.
 
 ---
 
@@ -82,7 +82,7 @@ Po rozstaniu wiele osób doświadcza **intruzywnych myśli** o byłym partnerze:
 
 ### Mechanizm „żalu po niepełnej utracie"
 
-Pojęcie *ambiguous loss* (Boss, 1999) — straty bez jasnego zakończenia — dobrze opisuje sytuację, gdy były partner jest nadal dostępny w mediach społecznościowych lub w życiu codziennym. Taka „półobecność" utrudnia psychologiczne odwiązanie.
+Pojęcie *ambiguous loss* (Boss, 1999) - straty bez jasnego zakończenia - dobrze opisuje sytuację, gdy były partner jest nadal dostępny w mediach społecznościowych lub w życiu codziennym. Taka „półobecność" utrudnia psychologiczne odwiązanie.
 
 ---
 
@@ -149,7 +149,7 @@ Nie ma jednego „właściwego" czasu na nową relację. Badania sugerują, że 
 
 ## Podsumowanie
 
-Rozstanie to złożone doświadczenie, które angażuje całego człowieka — ciało, emocje, myśli i tożsamość. Żałoba relacyjna jest normalna i potrzebna. Kluczem jest jej przeżywanie (a nie tłumienie), szukanie wsparcia i — z czasem — nadanie sensu temu, co się stało.
+Rozstanie to złożone doświadczenie, które angażuje całego człowieka - ciało, emocje, myśli i tożsamość. Żałoba relacyjna jest normalna i potrzebna. Kluczem jest jej przeżywanie (a nie tłumienie), szukanie wsparcia i - z czasem - nadanie sensu temu, co się stało.
 
 ---
 

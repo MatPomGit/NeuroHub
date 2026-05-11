@@ -10,7 +10,7 @@ Mózgowe struktury i obwody odpowiedzialne za powstawanie, modulację i regulacj
 
 ## Układ limbiczny
 
-Historycznie termin **układ limbiczny** (MacLean, 1952) opisywał zbiór struktur mózgowych zaangażowanych w emocje i pamięć: ciało migdałowate, hipokamp, kora obręczy, przegroda, podwzgórze i kora śródwęchowa. Współcześnie koncepcja jest krytykowana jako zbyt uproszczona — emocje angażują rozległą sieć obwodów korowych i podkorowych.
+Historycznie termin **układ limbiczny** (MacLean, 1952) opisywał zbiór struktur mózgowych zaangażowanych w emocje i pamięć: ciało migdałowate, hipokamp, kora obręczy, przegroda, podwzgórze i kora śródwęchowa. Współcześnie koncepcja jest krytykowana jako zbyt uproszczona - emocje angażują rozległą sieć obwodów korowych i podkorowych.
 
 ## Ciało migdałowate (amygdala)
 
@@ -22,15 +22,15 @@ LeDoux (1996) opisał **dwie drogi przetwarzania strachu**: szybka droga *podkor
 
 ## Kora przedczołowa (PFC)
 
-**Przyśrodkowa kora przedczołowa** (mPFC) i **kora oczodołowo-czołowa** (OFC) modulują reaktywność ciała migdałowatego i są zaangażowane w ocenę emocjonalną (appraisal), ekspresję emocji i regulację — w szczególności reappraisal. Uszkodzenie OFC (jak u Phineasa Gage'a) powoduje emocjonalne odhamowanie i zaburzenia decyzji.
+**Przyśrodkowa kora przedczołowa** (mPFC) i **kora oczodołowo-czołowa** (OFC) modulują reaktywność ciała migdałowatego i są zaangażowane w ocenę emocjonalną (appraisal), ekspresję emocji i regulację - w szczególności reappraisal. Uszkodzenie OFC (jak u Phineasa Gage'a) powoduje emocjonalne odhamowanie i zaburzenia decyzji.
 
 ## Oś HPA i stres
 
-**Oś podwzgórze–przysadka–kora nadnerczy** (HPA) reguluje odpowiedź stresową. W odpowiedzi na zagrożenie: podwzgórze wydziela CRH → przysadka — ACTH → kora nadnerczy — **kortyzol**. Kortyzol mobilizuje energię, ale przewlekła aktywacja osi HPA uszkadza hipokamp (apoptoza neuronów) i wiąże się z depresją i PTSD.
+**Oś podwzgórze–przysadka–kora nadnerczy** (HPA) reguluje odpowiedź stresową. W odpowiedzi na zagrożenie: podwzgórze wydziela CRH → przysadka - ACTH → kora nadnerczy - **kortyzol**. Kortyzol mobilizuje energię, ale przewlekła aktywacja osi HPA uszkadza hipokamp (apoptoza neuronów) i wiąże się z depresją i PTSD.
 
 ## Przetwarzanie nagrody
 
-**Jądro półleżące** i mezolimbiczny układ dopaminowy kodują wartość nagród i motywację do działania. Ciało migdałowate przypisuje wartość emocjonalną bodzcom — warunkowanie strachu i nagrody to dwa oblicza tej samej struktury.
+**Jądro półleżące** i mezolimbiczny układ dopaminowy kodują wartość nagród i motywację do działania. Ciało migdałowate przypisuje wartość emocjonalną bodzcom - warunkowanie strachu i nagrody to dwa oblicza tej samej struktury.
 
 ## Bibliografia
 

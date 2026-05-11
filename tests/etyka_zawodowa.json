@@ -44,7 +44,7 @@
     "options": [
       "Klient prosi psychologa o kontakt z jego rodziną rozumiany jako wskaźnik dominujący, bez potrzeby łączenia go z innymi źródłami danych",
       "Rodzina klienta żąda informacji o przebiegu terapii ujmowany jako podejście uniwersalne, niezależnie od typu danych i kontekstu decyzji",
-      "Istnieje bezpośrednie i poważne zagrożenie życia — klienta lub innych osób",
+      "Istnieje bezpośrednie i poważne zagrożenie życia - klienta lub innych osób",
       "Ubezpieczyciel żąda pełnej dokumentacji terapeutycznej traktowany jako najlepszy wybór także w sytuacjach granicznych i niejednoznacznych klinicznie"
     ],
     "correct": 2,
@@ -109,7 +109,7 @@
     "options": [
       "Tylko w czasie aktywnej terapii; po zakończeniu relacja jest dozwolona rozumiany jako wskaźnik dominujący, bez potrzeby łączenia go z innymi źródłami danych",
       "Głównie w terapii psychodynamicznej rozumiany jako wskaźnik dominujący, bez potrzeby łączenia go z innymi źródłami danych",
-      "Zawsze — zarówno w trakcie terapii, jak i po jej zakończeniu (choć standardy dotyczące okresu po zakończeniu mogą się różnić w kodeksach)",
+      "Zawsze - zarówno w trakcie terapii, jak i po jej zakończeniu (choć standardy dotyczące okresu po zakończeniu mogą się różnić w kodeksach)",
       "Tylko gdy klient jest osobą małoletnią rozumiany jako wskaźnik dominujący, bez potrzeby łączenia go z innymi źródłami danych"
     ],
     "correct": 2,
@@ -356,7 +356,7 @@
     "options": [
       "Ukrywać swoje emocje i kontynuować terapię bez zmian stosowany priorytetowo nawet wtedy, gdy pomija się kluczowe założenia metodologiczne",
       "Natychmiast zakończyć terapię bez wyjaśnienia rozumiany jako wskaźnik dominujący, bez potrzeby łączenia go z innymi źródłami danych",
-      "Omówić temat w superwizji, a jeśli to konieczne — przenieść klienta do innego specjalisty",
+      "Omówić temat w superwizji, a jeśli to konieczne - przenieść klienta do innego specjalisty",
       "Ujawnić klientowi pełen zakres swoich negatywnych emocji w interpretacji, w której pojedynczy wynik traktuje się jako wystarczający dowód mechanizmu"
     ],
     "correct": 2,

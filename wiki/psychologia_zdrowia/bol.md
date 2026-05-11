@@ -8,7 +8,7 @@ evidenceCutoffDate: 2025-12-31
 
 **Ból** jest doświadczeniem jednocześnie sensorycznym i emocjonalnym. Oznacza to, że na jego nasilenie wpływają nie tylko sygnały z ciała, ale też uwaga, znaczenie nadawane objawom, wcześniejsze doświadczenia i kontekst społeczny.
 
-Psychologia bólu nie neguje biologii — pokazuje, że ból zawsze powstaje w ramach **modelu biopsychospołecznego**.
+Psychologia bólu nie neguje biologii - pokazuje, że ból zawsze powstaje w ramach **modelu biopsychospołecznego**.
 
 ## Co kształtuje odczuwanie bólu?
 

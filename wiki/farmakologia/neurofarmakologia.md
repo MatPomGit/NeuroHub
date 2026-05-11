@@ -6,7 +6,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Neurofarmakologia
 
-Nauka o tym, jak substancje chemiczne — leki, neuroprzekaźniki i substancje psychoaktywne — wpływają na układ nerwowy, jego funkcje i zachowanie człowieka.
+Nauka o tym, jak substancje chemiczne - leki, neuroprzekaźniki i substancje psychoaktywne - wpływają na układ nerwowy, jego funkcje i zachowanie człowieka.
 
 ## Definicja i zakres
 
@@ -14,7 +14,7 @@ Nauka o tym, jak substancje chemiczne — leki, neuroprzekaźniki i substancje p
 
 ## Mechanizmy działania leków na synapsy
 
-**Agoniści receptorów** naśladują działanie neuroprzekaźnika — wiążą się z receptorem i go aktywują. Przykłady: morfina (receptory opioidowe), benzodiazepiny (wzmacniają GABA).
+**Agoniści receptorów** naśladują działanie neuroprzekaźnika - wiążą się z receptorem i go aktywują. Przykłady: morfina (receptory opioidowe), benzodiazepiny (wzmacniają GABA).
 
 **Antagoniści receptorów** blokują receptor bez aktywacji. Przykład: haloperidol blokujący receptory D2 dopaminergiczne.
 
@@ -26,25 +26,25 @@ Nauka o tym, jak substancje chemiczne — leki, neuroprzekaźniki i substancje p
 
 ### Układ dopaminergiczny
 
-Dopamina działa przez receptory D1–D5 w kluczowych szlakach. *Szlak mezolimbiczny* (VTA → jądro półleżące) to układ nagrody — kluczowy w uzależnieniach i psychozach. *Szlak nigrostriatalny* (istota czarna → prążkowie) kontroluje ruch — jego degeneracja powoduje chorobę Parkinsona.
+Dopamina działa przez receptory D1–D5 w kluczowych szlakach. *Szlak mezolimbiczny* (VTA → jądro półleżące) to układ nagrody - kluczowy w uzależnieniach i psychozach. *Szlak nigrostriatalny* (istota czarna → prążkowie) kontroluje ruch - jego degeneracja powoduje chorobę Parkinsona.
 
 > **Hipoteza dopaminowa schizofrenii:** nadmierna aktywność szlaku mezolimbicznego leży u podłoża objawów wytwórczych. Leki przeciwpsychotyczne blokują receptory D2.
 
 ### Układ serotoninergiczny
 
-Neurony serotoninergiczne mają ciała w jądrach szwu (raphe nuclei) i wysyłają projekcje do całego mózgu. SSRI (fluoksetyna, sertralina) hamują wychwyt zwrotny 5-HT — stosowane w depresji, zaburzeniach lękowych i OCD. LSD i psylocybina są agonistami receptorów 5-HT2A i powodują halucynacje.
+Neurony serotoninergiczne mają ciała w jądrach szwu (raphe nuclei) i wysyłają projekcje do całego mózgu. SSRI (fluoksetyna, sertralina) hamują wychwyt zwrotny 5-HT - stosowane w depresji, zaburzeniach lękowych i OCD. LSD i psylocybina są agonistami receptorów 5-HT2A i powodują halucynacje.
 
 ### Układ GABA-ergiczny
 
-Benzodiazepiny (diazepam, lorazepam) są pozytywnymi modulatorami allosterycznymi GABA-A — stosowane jako anksjolityki i leki nasenne z ryzykiem uzależnienia. Alkohol etylowy potencjuje działanie GABA-A i hamuje receptory NMDA.
+Benzodiazepiny (diazepam, lorazepam) są pozytywnymi modulatorami allosterycznymi GABA-A - stosowane jako anksjolityki i leki nasenne z ryzykiem uzależnienia. Alkohol etylowy potencjuje działanie GABA-A i hamuje receptory NMDA.
 
 ### Układ glutaminianergiczny
 
-Ketamina — antagonista receptorów NMDA — jest środkiem anestezjologicznym i w małych dawkach szybkodziałającym lekiem przeciwdepresyjnym. Memantyna (umiarkowany antagonista NMDA) służy do leczenia otępienia w chorobie Alzheimera.
+Ketamina - antagonista receptorów NMDA - jest środkiem anestezjologicznym i w małych dawkach szybkodziałającym lekiem przeciwdepresyjnym. Memantyna (umiarkowany antagonista NMDA) służy do leczenia otępienia w chorobie Alzheimera.
 
 ## Psychofarmakologia kliniczna
 
-**Leki przeciwpsychotyczne I generacji (typowe)** — haloperidol, chlorpromazyna — działają przez blokadę D2. Skuteczne na objawy wytwórcze, ale wywołują silne objawy pozapiramidowe (EPS). **II generacja (atypowe)** — klozapina, risperidon, olanzapina — blokują D2 + 5-HT2A. Lepszy profil dla objawów negatywnych, ryzyko zespołu metabolicznego.
+**Leki przeciwpsychotyczne I generacji (typowe)** - haloperidol, chlorpromazyna - działają przez blokadę D2. Skuteczne na objawy wytwórcze, ale wywołują silne objawy pozapiramidowe (EPS). **II generacja (atypowe)** - klozapina, risperidon, olanzapina - blokują D2 + 5-HT2A. Lepszy profil dla objawów negatywnych, ryzyko zespołu metabolicznego.
 
 **Leki przeciwdepresyjne:** SSRI (fluoksetyna, sertralina, escitalopram), SNRI (wenlafaksyna, duloksetyna), trójpierścieniowe TLPD (amitryptylina) i inhibitory MAO. Mechanizmy różne, ale wszystkie ostatecznie zwiększają dostępność monoamin w synapsie.
 
@@ -56,7 +56,7 @@ Ketamina — antagonista receptorów NMDA — jest środkiem anestezjologicznym 
 
 ## Farmakologia uzależnień
 
-Uzależnienie jest zaburzeniem układu nagrody, związanym ze szlakiem mezolimbicznym (VTA → nucleus accumbens). Każda substancja psychoaktywna — bezpośrednio lub pośrednio — powoduje **uwalnianie dopaminy** w tym szlaku. Chroniczne stosowanie prowadzi do *neuroadaptacji* — zmian liczby i czułości receptorów — powodując tolerancję i objawy abstynencyjne przy odstawieniu.
+Uzależnienie jest zaburzeniem układu nagrody, związanym ze szlakiem mezolimbicznym (VTA → nucleus accumbens). Każda substancja psychoaktywna - bezpośrednio lub pośrednio - powoduje **uwalnianie dopaminy** w tym szlaku. Chroniczne stosowanie prowadzi do *neuroadaptacji* - zmian liczby i czułości receptorów - powodując tolerancję i objawy abstynencyjne przy odstawieniu.
 
 
 ## Wprowadzenie

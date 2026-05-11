@@ -4,7 +4,7 @@ reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
 
-# Test Matryc Ravena (Raven’s Progressive Matrices) — kompleksowe omówienie
+# Test Matryc Ravena (Raven’s Progressive Matrices) - kompleksowe omówienie
 
 ## 1. Czym jest Test Matryc Ravena?
 
@@ -99,10 +99,10 @@ Nawet test niewerbalny może być obciążony czynnikami sytuacyjnymi. Dlatego i
 
 Zazwyczaj przechodzi się przez etapy:
 
-1. **Wynik surowy** — liczba poprawnych odpowiedzi.
-2. **Przeliczenie na normy** — np. centyle, sten, iloraz odchyleniowy (zależnie od podręcznika).
-3. **Interpretacja przedziałowa** — osadzenie wyniku w przedziale ufności i błędzie pomiaru.
-4. **Integracja kliniczna** — powiązanie z celem diagnozy i innymi danymi.
+1. **Wynik surowy** - liczba poprawnych odpowiedzi.
+2. **Przeliczenie na normy** - np. centyle, sten, iloraz odchyleniowy (zależnie od podręcznika).
+3. **Interpretacja przedziałowa** - osadzenie wyniku w przedziale ufności i błędzie pomiaru.
+4. **Integracja kliniczna** - powiązanie z celem diagnozy i innymi danymi.
 
 Kluczowe: ten sam wynik surowy może mieć inne znaczenie dla różnych grup wiekowych i edukacyjnych.
 

@@ -8,9 +8,9 @@ evidenceCutoffDate: 2025-12-31
 
 ## Wprowadzenie
 
-Diagnoza psychologiczna i psychiatryczna pełni kluczową rolę w organizowaniu opieki nad zdrowiem psychicznym — umożliwia komunikację między specjalistami, dostęp do leczenia i wsparcia oraz prowadzenie badań naukowych. Jednocześnie **etykieta diagnostyczna niesie ze sobą poważne ryzyko stygmatyzacji** — społecznego i psychologicznego napiętnowania osoby na podstawie rozpoznania.
+Diagnoza psychologiczna i psychiatryczna pełni kluczową rolę w organizowaniu opieki nad zdrowiem psychicznym - umożliwia komunikację między specjalistami, dostęp do leczenia i wsparcia oraz prowadzenie badań naukowych. Jednocześnie **etykieta diagnostyczna niesie ze sobą poważne ryzyko stygmatyzacji** - społecznego i psychologicznego napiętnowania osoby na podstawie rozpoznania.
 
-> „Diagnoza może otworzyć drzwi do pomocy i zamknąć drzwi do szacunku." — Corrigan (2007)
+> „Diagnoza może otworzyć drzwi do pomocy i zamknąć drzwi do szacunku." - Corrigan (2007)
 
 ---
 
@@ -18,12 +18,12 @@ Diagnoza psychologiczna i psychiatryczna pełni kluczową rolę w organizowaniu 
 
 ### Mechanizm etykietowania (Goffman, 1963)
 
-Erving Goffman opisał *stygmat* jako „mocno dyskredytujący atrybut" — cechę, która redukuje człowieka do jednego wymiaru i oddziela go od reszty społeczeństwa. Diagnoza psychiatryczna może działać jako stygmat społeczny.
+Erving Goffman opisał *stygmat* jako „mocno dyskredytujący atrybut" - cechę, która redukuje człowieka do jednego wymiaru i oddziela go od reszty społeczeństwa. Diagnoza psychiatryczna może działać jako stygmat społeczny.
 
 Trzy wymiary stygmatyzacji:
-1. **Stereotyp** — uproszczone przekonania o osobach z daną diagnozą (np. „są niebezpieczni", „są słabi")
-2. **Uprzedzenie** — emocjonalne odrzucenie oparte na stereotypie
-3. **Dyskryminacja** — działania ograniczające prawa i możliwości
+1. **Stereotyp** - uproszczone przekonania o osobach z daną diagnozą (np. „są niebezpieczni", „są słabi")
+2. **Uprzedzenie** - emocjonalne odrzucenie oparte na stereotypie
+3. **Dyskryminacja** - działania ograniczające prawa i możliwości
 
 ### Rodzaje stygmatyzacji
 
@@ -65,14 +65,14 @@ Strach przed etykietą diagnostyczną jest jedną z głównych barier w szukaniu
 ### Tożsamość chorobowa (*illness identity*)
 
 Yanos i in. (2010) wyróżniają cztery wzorce:
-1. **Ówłaśnianie (engulfment)** — diagnoza staje się centralną cechą tożsamości
-2. **Odrzucenie** — negowanie diagnozy, unikanie leczenia
-3. **Obojętność** — diagnoza traktowana jak neutralna informacja
-4. **Transformacja** — włączenie diagnozy do tożsamości bez jej dominacji; zdrowszy wariant
+1. **Ówłaśnianie (engulfment)** - diagnoza staje się centralną cechą tożsamości
+2. **Odrzucenie** - negowanie diagnozy, unikanie leczenia
+3. **Obojętność** - diagnoza traktowana jak neutralna informacja
+4. **Transformacja** - włączenie diagnozy do tożsamości bez jej dominacji; zdrowszy wariant
 
 ### Perspektywa neurodywersji
 
-Ruch neurodywersji (szczególnie w kontekście autyzmu, ADHD, dysleksji) kwestionuje patologizujące etykiety — proponuje postrzeganie różnic neurologicznych jako naturalnej zmienności ludzkiego mózgu, a nie zaburzeń wymagających „naprawienia". Diagnoza w tym ujęciu służy dostępowi do wsparcia, nie definiowaniu wartości człowieka.
+Ruch neurodywersji (szczególnie w kontekście autyzmu, ADHD, dysleksji) kwestionuje patologizujące etykiety - proponuje postrzeganie różnic neurologicznych jako naturalnej zmienności ludzkiego mózgu, a nie zaburzeń wymagających „naprawienia". Diagnoza w tym ujęciu służy dostępowi do wsparcia, nie definiowaniu wartości człowieka.
 
 ---
 
@@ -80,12 +80,12 @@ Ruch neurodywersji (szczególnie w kontekście autyzmu, ADHD, dysleksji) kwestio
 
 ### Zasady przekazywania wyników
 
-1. **Normalizacja** — wyjaśnij, że wiele osób doświadcza podobnych trudności
-2. **Psychoedukacja** — czym jest dane zaburzenie, jak się manifestuje, co pomaga
-3. **Perspektywa funkcjonalna** — opisuj w kategoriach trudności i zasobów, nie defektów
-4. **Oddzielenie osoby od diagnozy** — „doświadcza depresji", nie „jest depresyjny/a"
-5. **Zachowanie kontroli** — daj osobie czas na przetworzenie informacji i zadawanie pytań
-6. **Rokowanie** — podkreśl możliwość zmiany i skuteczność leczenia
+1. **Normalizacja** - wyjaśnij, że wiele osób doświadcza podobnych trudności
+2. **Psychoedukacja** - czym jest dane zaburzenie, jak się manifestuje, co pomaga
+3. **Perspektywa funkcjonalna** - opisuj w kategoriach trudności i zasobów, nie defektów
+4. **Oddzielenie osoby od diagnozy** - „doświadcza depresji", nie „jest depresyjny/a"
+5. **Zachowanie kontroli** - daj osobie czas na przetworzenie informacji i zadawanie pytań
+6. **Rokowanie** - podkreśl możliwość zmiany i skuteczność leczenia
 
 ### Język zorientowany na osobę (*person-first language*)
 
@@ -93,11 +93,11 @@ Ruch neurodywersji (szczególnie w kontekście autyzmu, ADHD, dysleksji) kwestio
 - „osoba z diagnozą schizofrenii" zamiast „schizofrenik"
 - „osoba doświadczająca depresji" zamiast „depresyjny pacjent"
 
-Uwaga: część społeczności, zwłaszcza autystyczna, preferuje tożsamościowy język (*identity-first*): „autystyczna osoba" zamiast „osoba z autyzmem" — respektuj preferencje rozmówcy.
+Uwaga: część społeczności, zwłaszcza autystyczna, preferuje tożsamościowy język (*identity-first*): „autystyczna osoba" zamiast „osoba z autyzmem" - respektuj preferencje rozmówcy.
 
 ---
 
-## Redukcja stygmatyzacji — strategie
+## Redukcja stygmatyzacji - strategie
 
 ### Na poziomie indywidualnym (klient)
 
@@ -109,7 +109,7 @@ Uwaga: część społeczności, zwłaszcza autystyczna, preferuje tożsamościow
 ### Na poziomie społecznym (psycholog, instytucja)
 
 - Ostrożność w formułowaniu etykiet w opiniach (proporcjonalność)
-- Edukacja społeczna i kampanie antystygmatyzacyjne (np. „Schizofrenia — Otwórzcie Drzwi")
+- Edukacja społeczna i kampanie antystygmatyzacyjne (np. „Schizofrenia - Otwórzcie Drzwi")
 - Trening wrażliwości dla pracowników szkół, służby zdrowia, pracodawców
 - Polityka antydyskryminacyjna w instytucjach
 
@@ -132,13 +132,13 @@ Thomas Szasz (1961), R. D. Laing i inni krytykowali diagnozę psychiatryczną ja
 
 ### Biomedykalizacja
 
-Rosnące wpływy psychiatrii biologicznej sprzyjają postrzeganiu zaburzeń wyłącznie jako dysfunkcji mózgu — co może redukować sprawczość osoby i pomijać kontekst społeczny jej trudności.
+Rosnące wpływy psychiatrii biologicznej sprzyjają postrzeganiu zaburzeń wyłącznie jako dysfunkcji mózgu - co może redukować sprawczość osoby i pomijać kontekst społeczny jej trudności.
 
 ---
 
 ## Podsumowanie
 
-Diagnoza psychologiczna jest narzędziem — wartość zależy od sposobu użycia. Odpowiedzialne diagnozowanie wymaga świadomości ryzyka etykietowania, orientacji na zasoby i funkcjonowanie, a nie deficyty, oraz aktywnej pracy na rzecz redukcji stygmatyzacji — zarówno w relacji z klientem, jak i w szerszym kontekście społecznym.
+Diagnoza psychologiczna jest narzędziem - wartość zależy od sposobu użycia. Odpowiedzialne diagnozowanie wymaga świadomości ryzyka etykietowania, orientacji na zasoby i funkcjonowanie, a nie deficyty, oraz aktywnej pracy na rzecz redukcji stygmatyzacji - zarówno w relacji z klientem, jak i w szerszym kontekście społecznym.
 
 ---
 

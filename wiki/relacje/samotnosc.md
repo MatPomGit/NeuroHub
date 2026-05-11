@@ -6,7 +6,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Samotność i izolacja społeczna
 
-Samotność to subiektywne odczucie braku satysfakcjonujących relacji społecznych — jedno z najpoważniejszych wyzwań zdrowotnych współczesności.
+Samotność to subiektywne odczucie braku satysfakcjonujących relacji społecznych - jedno z najpoważniejszych wyzwań zdrowotnych współczesności.
 
 ## Definicja i rodzaje samotności
 
@@ -17,7 +17,7 @@ Robert Weiss (1973) wyróżnił dwa rodzaje samotności:
 | **Samotność emocjonalna** | brak bliskiej, intymnej więzi z jedną osobą | partnera, bliskiego przyjaciela |
 | **Samotność społeczna** | brak poczucia przynależności do grupy | sieci społecznej, wspólnoty |
 
-Obie formy są odrębne i niezależne — można mieć wielu znajomych i odczuwać samotność emocjonalną (brak intymności), lub mieć partnera i odczuwać samotność społeczną (brak przynależności).
+Obie formy są odrębne i niezależne - można mieć wielu znajomych i odczuwać samotność emocjonalną (brak intymności), lub mieć partnera i odczuwać samotność społeczną (brak przynależności).
 
 > Samotność ≠ bycie samemu. Można być otoczonym ludźmi i czuć się samotnym; można być sam i czuć się spełnionym.
 
@@ -34,7 +34,7 @@ Obie formy są odrębne i niezależne — można mieć wielu znajomych i odczuwa
 Samotność jest określana przez badaczy jako **epidemia zdrowia publicznego**:
 - W USA ok. **61%** dorosłych deklaruje samotność (Cigna, 2020)
 - W Polsce ok. **30–40%** osób czuje się samotnych regularnie
-- Wzrost samotności obserwowany od lat 80. — mimo wzrostu technologicznej łączności
+- Wzrost samotności obserwowany od lat 80. - mimo wzrostu technologicznej łączności
 - Pandemia COVID-19 nasilila problem, szczególnie u młodzieży i seniorów
 
 ### Paradoks mediów społecznościowych
@@ -43,7 +43,7 @@ Korzystanie z mediów społecznościowych jest ambiwalentne:
 - Pasywne przeglądanie (scrolling) → wzrost samotności i depresji
 - Aktywne interakcje (rozmowy, wspólne aktywności) → redukcja samotności
 
-## Samotność a zdrowie — Cacioppo i Patrick
+## Samotność a zdrowie - Cacioppo i Patrick
 
 John Cacioppo i William Patrick (2008, *Loneliness: Human Nature and the Need for Social Connection*) wykazali, że **samotność jest porównywalnym zagrożeniem zdrowotnym jak palenie papierosów**:
 
@@ -66,7 +66,7 @@ Mechanizm: chroniczna samotność aktywuje **biologiczną czujność** (hypervig
 
 ### Seniorzy
 - Samotność wynikająca ze straty (śmierć partnera, przyjaciół, zmiana mobilności)
-- Tzw. *widowhood effect* — śmierć partnera dramatycznie zwiększa ryzyko depresji i śmierci
+- Tzw. *widowhood effect* - śmierć partnera dramatycznie zwiększa ryzyko depresji i śmierci
 - Brak generatywnych ról zawodowych po przejściu na emeryturę
 
 ### Osoby z niepełnosprawnościami i chorobami przewlekłymi

@@ -1,7 +1,7 @@
 # Neurobiologia stresu oceny społecznej: dlaczego krytyka potrafi „boleć fizycznie”
 
 ## Wprowadzenie
-Ciekawostka kliniczna: część osób najpierw zauważa sygnały ciała (np. napięcie szczęki), a dopiero po chwili identyfikuje emocję — to odwrócona kolejność, która bywa bardzo użyteczna diagnostycznie.
+Ciekawostka kliniczna: część osób najpierw zauważa sygnały ciała (np. napięcie szczęki), a dopiero po chwili identyfikuje emocję - to odwrócona kolejność, która bywa bardzo użyteczna diagnostycznie.
 
 Warto podkreślić, że reakcja na krytykę nie jest wyłącznie „cechą charakteru”, ale także wyuczonym nawykiem. Dobra wiadomość jest taka, że nawyki można trenować etapami, zaczynając od krótkich interwencji w codziennych rozmowach.
 
@@ -12,10 +12,10 @@ Ciekawostka: w badaniach neuroobrazowych odrzucenie społeczne aktywuje części
 ## Definicje
 Definicje pełnią tu rolę „mapy pojęciowej”: pomagają oddzielić język potoczny od precyzyjnego opisu psychologicznego. Dzięki temu łatwiej uniknąć nieporozumień, szczególnie gdy rozmowa dotyczy emocji i odpowiedzialności.
 
-- **Stres oceny społecznej** — reakcja psychofizjologiczna wywołana ryzykiem negatywnej oceny przez innych.
-- **Oś HPA** — układ podwzgórze–przysadka–nadnercza, regulujący m.in. wydzielanie kortyzolu.
-- **Reaktywność autonomiczna** — zmiany pracy układu współczulnego i przywspółczulnego (tętno, oddech, napięcie mięśniowe).
-- **Neurocepcja** — szybka, często nieświadoma ocena sygnałów bezpieczeństwa lub zagrożenia w otoczeniu.
+- **Stres oceny społecznej** - reakcja psychofizjologiczna wywołana ryzykiem negatywnej oceny przez innych.
+- **Oś HPA** - układ podwzgórze–przysadka–nadnercza, regulujący m.in. wydzielanie kortyzolu.
+- **Reaktywność autonomiczna** - zmiany pracy układu współczulnego i przywspółczulnego (tętno, oddech, napięcie mięśniowe).
+- **Neurocepcja** - szybka, często nieświadoma ocena sygnałów bezpieczeństwa lub zagrożenia w otoczeniu.
 
 ## Analiza
 ### Fakty empiryczne
@@ -27,16 +27,16 @@ W badaniach procesowych regularnie obserwuje się, że jakość reakcji na ocen�
 
 W sytuacji krytyki mózg wykonuje błyskawiczną kalkulację: „Czy grozi mi utrata statusu, relacji albo wpływu?”. Jeśli odpowiedź brzmi „tak”, uruchamiane są trzy warstwy reakcji:
 
-1. **Warstwa poznawcza** — zawężenie uwagi i wzrost selektywności na bodźce negatywne.
-2. **Warstwa emocjonalna** — lęk, wstyd albo złość, zależnie od wcześniejszych doświadczeń.
-3. **Warstwa somatyczna** — przyspieszone tętno, napięcie karku, płytszy oddech, dyskomfort trzewny.
+1. **Warstwa poznawcza** - zawężenie uwagi i wzrost selektywności na bodźce negatywne.
+2. **Warstwa emocjonalna** - lęk, wstyd albo złość, zależnie od wcześniejszych doświadczeń.
+3. **Warstwa somatyczna** - przyspieszone tętno, napięcie karku, płytszy oddech, dyskomfort trzewny.
 
 Kluczowa zależność: im większa nieprzewidywalność i niejasność komunikatu krytycznego, tym silniejsza odpowiedź stresowa. Dlatego ta sama treść podana w stylu „atakującym” wywoła zwykle większą reaktywność niż w formie precyzyjnego feedbacku.
 
 ### Interpretacje autora
 Z perspektywy praktycznej oznacza to konieczność pracy na dwóch poziomach naraz: jednostkowym (samoregulacja) i systemowym (normy komunikacji w zespole lub rodzinie). Pominięcie któregoś z poziomów zwykle ogranicza trwałość efektów.
 
-W praktyce klinicznej i edukacyjnej same dane nie podejmują decyzji — robi to człowiek, który nadaje im znaczenie. Dlatego kluczowe jest łączenie dowodów naukowych z kontekstem sytuacyjnym, etapem rozwoju i zasobami relacyjnymi uczestników rozmowy.
+W praktyce klinicznej i edukacyjnej same dane nie podejmują decyzji - robi to człowiek, który nadaje im znaczenie. Dlatego kluczowe jest łączenie dowodów naukowych z kontekstem sytuacyjnym, etapem rozwoju i zasobami relacyjnymi uczestników rozmowy.
 
 ## Dobra praktyka
 Wdrożenie dobrej praktyki jest skuteczniejsze, gdy umawiamy się na konkretne wskaźniki zmiany, np. krótszy czas wygaszania napięcia po trudnej rozmowie. Taka operacjonalizacja ułatwia monitorowanie postępu i korygowanie planu.

@@ -1,4 +1,4 @@
-# Psychofarmakologia kliniczna — pakiet artykułów
+# Psychofarmakologia kliniczna - pakiet artykułów
 
 Poniżej znajduje się zestaw artykułów opracowanych do modułu psychofarmakologii.
 

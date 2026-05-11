@@ -6,7 +6,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Układy i sieci mózgowe
 
-Funkcjonalne organizacje mózgu — od układów neuroprzekaźnikowych po wielkoskalowe sieci kory, które współpracują w realizacji złożonych funkcji poznawczych.
+Funkcjonalne organizacje mózgu - od układów neuroprzekaźnikowych po wielkoskalowe sieci kory, które współpracują w realizacji złożonych funkcji poznawczych.
 
 ![Cztery kluczowe neuroprzekaźniki w mózgu](/assets/4-neurotrasmitery.jpg)
 *Grafika: dopamina, serotonina, noradrenalina i acetylocholina w kontekście działania układów mózgowych.*
@@ -18,15 +18,15 @@ Neurony wytwarzające dany neuroprzekaźnik tworzą rozległe układy projektuj�
 
 **Układ dopaminergiczny** obejmuje jądra podstawy (istota czarna, obszar brzuszny nakrywki) projektujące na korę przedczołową i jądra podstawy. Odpowiada za motywację, nagrodę i ruch.
 
-**Układ serotoninergiczny** — neurony z jąder szwu (raphe nuclei) projektują na korę, hipokamp i ciało migdałowate. Reguluje nastrój, sen i apetyt.
+**Układ serotoninergiczny** - neurony z jąder szwu (raphe nuclei) projektują na korę, hipokamp i ciało migdałowate. Reguluje nastrój, sen i apetyt.
 
-**Układ cholinergiczny** — przednie jądro podstawy (NBM) projektuje na korę. Kluczowy dla pamięci, uwagi i uczenia się.
+**Układ cholinergiczny** - przednie jądro podstawy (NBM) projektuje na korę. Kluczowy dla pamięci, uwagi i uczenia się.
 
-**Układ noradrenergiczny** — miejsce sinawe (locus coeruleus) wysyła projekcje na cały mózg. Reguluje uwagę, pobudzenie, czujność i reakcję stresową.
+**Układ noradrenergiczny** - miejsce sinawe (locus coeruleus) wysyła projekcje na cały mózg. Reguluje uwagę, pobudzenie, czujność i reakcję stresową.
 
 ## Sieci wielkoskalowe
 
-Badania fMRI w spoczynku (rs-fMRI) ujawniły, że mózg zorganizowany jest w sieci funkcjonalne — obszary, które aktywują się razem.
+Badania fMRI w spoczynku (rs-fMRI) ujawniły, że mózg zorganizowany jest w sieci funkcjonalne - obszary, które aktywują się razem.
 
 > **Sieć trybu domyślnego (DMN)** jest aktywna, gdy nie wykonujemy zadania zewnętrznie ukierunkowanego. Obejmuje tylną korę obręczy, precuneus, skroniowy biegun i przyśrodkową korę przedczołową. Zaangażowana w myślenie o sobie, przeszłości/przyszłości i teorię umysłu. Zaburzona w depresji, Alzheimerze i autyzmie.
 

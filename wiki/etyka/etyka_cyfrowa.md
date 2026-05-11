@@ -6,13 +6,13 @@ evidenceCutoffDate: 2025-12-31
 
 # Etyka w psychologii cyfrowej i e-terapii
 
-Dynamiczny rozwój technologii cyfrowych zmienił oblicze praktyki psychologicznej. **E-terapia**, aplikacje zdrowia psychicznego, sztuczna inteligencja w diagnostyce i media społecznościowe tworzą nowe możliwości, ale też zupełnie nowe dylematy etyczne. Istniejące kodeksy etyczne były pisane w erze analogowej — ich zastosowanie do przestrzeni cyfrowej wymaga aktywnej interpretacji.
+Dynamiczny rozwój technologii cyfrowych zmienił oblicze praktyki psychologicznej. **E-terapia**, aplikacje zdrowia psychicznego, sztuczna inteligencja w diagnostyce i media społecznościowe tworzą nowe możliwości, ale też zupełnie nowe dylematy etyczne. Istniejące kodeksy etyczne były pisane w erze analogowej - ich zastosowanie do przestrzeni cyfrowej wymaga aktywnej interpretacji.
 
 ## Prywatność i RODO w terapii online
 
 ### Specyfika danych psychologicznych
 
-Dane terapeutyczne należą do **szczególnych kategorii danych osobowych** (art. 9 RODO) — danych dotyczących zdrowia. Ich przetwarzanie wymaga:
+Dane terapeutyczne należą do **szczególnych kategorii danych osobowych** (art. 9 RODO) - danych dotyczących zdrowia. Ich przetwarzanie wymaga:
 - Wyraźnej zgody osoby, której dane dotyczą
 - Lub innej podstawy prawnej (np. ochrona żywotnych interesów)
 - Ścisłego przestrzegania zasad minimalizacji i ograniczenia celu
@@ -29,26 +29,26 @@ Dane terapeutyczne należą do **szczególnych kategorii danych osobowych** (art
 
 ### Kiedy RODO stwarza problem
 
-- Terapia z klientem za granicą — które prawo stosować?
-- Nagrywanie sesji (za wiedzą i zgodą klienta) — jak przechowywać?
-- Notatki kliniczne w chmurze — czy Amazon/Google jest dostatecznie bezpieczny?
+- Terapia z klientem za granicą - które prawo stosować?
+- Nagrywanie sesji (za wiedzą i zgodą klienta) - jak przechowywać?
+- Notatki kliniczne w chmurze - czy Amazon/Google jest dostatecznie bezpieczny?
 
 ## Bezpieczeństwo danych klinicznych
 
 ### Zagrożenia specyficzne dla e-terapii
 
-1. **Włamanie do platformy** — wyciek wrażliwych danych klinicznych
-2. **Phishing** — podszywanie się pod psychologa lub klienta
-3. **Podsłuchiwanie sesji** — niezabezpieczone połączenie Wi-Fi
-4. **Zagubienie urządzenia** — niechroniony laptop z notatkami
-5. **Błąd ludzki** — wysłanie dokumentacji do niewłaściwego adresata
+1. **Włamanie do platformy** - wyciek wrażliwych danych klinicznych
+2. **Phishing** - podszywanie się pod psychologa lub klienta
+3. **Podsłuchiwanie sesji** - niezabezpieczone połączenie Wi-Fi
+4. **Zagubienie urządzenia** - niechroniony laptop z notatkami
+5. **Błąd ludzki** - wysłanie dokumentacji do niewłaściwego adresata
 
 ### Rekomendacje praktyczne
 
 - Używać platform zatwierdzonych dla ochrony zdrowia (nie ogólnych Zoom, ale Zoom for Healthcare lub dedykowanych platform)
 - Szyfrować lokalne notatki kliniczne
 - Używać menedżera haseł i 2FA
-- Mieć pisemny **Incident Response Plan** — co zrobić w razie naruszenia
+- Mieć pisemny **Incident Response Plan** - co zrobić w razie naruszenia
 
 ## Relacja terapeutyczna w środowisku cyfrowym
 
@@ -58,7 +58,7 @@ Relacja terapeutyczna przez ekran różni się od kontaktu bezpośredniego:
 
 | Aspekt | Kontakt twarzą w twarz | E-terapia |
 |---|---|---|
-| **Komunikacja niewerbalna** | Pełna — ciało, ruch, bliskość | Ograniczona — twarz, górna część ciała |
+| **Komunikacja niewerbalna** | Pełna - ciało, ruch, bliskość | Ograniczona - twarz, górna część ciała |
 | **Przestrzeń terapeutyczna** | Kontrolowana przez terapeutę | Częściowo u klienta (dom, biuro) |
 | **Przerwy techniczne** | Nie dotyczy | Rozłączenie może zakłócić kryzys |
 | **Kontekst klienta** | Niewidoczny | Czasem widoczny (dom, rodzina w tle) |
@@ -76,25 +76,25 @@ Badania (Simpson i in., 2021) wskazują, że **sojusz terapeutyczny w e-terapii 
 ### Media społecznościowe
 
 Psycholog i klient mogą być „znajomymi" w mediach społecznościowych. Etyczne problemy:
-- Klient widzi prywatne posty terapeuty — zaciera granice między rolami
-- Terapeuta może przypadkowo zobaczyć profil klienta — informacje poza kontekstem terapeutycznym
+- Klient widzi prywatne posty terapeuty - zaciera granice między rolami
+- Terapeuta może przypadkowo zobaczyć profil klienta - informacje poza kontekstem terapeutycznym
 - **Zasada ogólna**: relacje w mediach społecznościowych z klientami są **niedopuszczalne** w trakcie terapii
 
 ### Selfie z klientem
 
 Klient prosi o wspólne zdjęcie po sesji. Terapeuta może czuć społeczną presję do akceptacji.
 - Narusza granice relacji terapeutycznej
-- Może prowadzić do udostępnienia w mediach — naruszenie poufności
+- Może prowadzić do udostępnienia w mediach - naruszenie poufności
 - Zachowanie jasnych granic jest profesjonalne i chroni obie strony
 
 ### Komunikacja między sesjami
 
-Czy klient może pisać do terapeuty między sesjami? E-mail, SMS, WhatsApp — każde medium ma inne implikacje:
+Czy klient może pisać do terapeuty między sesjami? E-mail, SMS, WhatsApp - każde medium ma inne implikacje:
 - Pilne kryzysy wymagają jasnych procedur (numer telefonu kryzysowego)
-- Zwykła komunikacja między sesjami — uzgodniona z góry, z jasnymi granicami czasowymi
+- Zwykła komunikacja między sesjami - uzgodniona z góry, z jasnymi granicami czasowymi
 - Brak jasnych granic prowadzi do przekroczenia granic roli i wypalenia terapeuty
 
-## Sztuczna inteligencja w diagnostyce — ryzyka etyczne
+## Sztuczna inteligencja w diagnostyce - ryzyka etyczne
 
 ### Zastosowania AI w psychologii
 
@@ -109,7 +109,7 @@ Czy klient może pisać do terapeuty między sesjami? E-mail, SMS, WhatsApp — 
 |---|---|
 | **Bias algorytmiczny** | AI trenowane na danych z populacji dominującej może dawać gorsze wyniki dla mniejszości |
 | **Odpowiedzialność** | Kto odpowiada za błąd algorytmu? Twórca? Psycholog? |
-| **Brak relacji** | AI nie może zapewnić terapeutycznej relacji — substytut, nie terapeuta |
+| **Brak relacji** | AI nie może zapewnić terapeutycznej relacji - substytut, nie terapeuta |
 | **Prywatność danych** | Platformy komercyjne mogą wykorzystywać dane do celów niemedycznych |
 | **Nierówność dostępu** | AI może pogłębiać nierówności, jeśli dostęp jest uzależniony od zasobów finansowych |
 
@@ -124,7 +124,7 @@ Czy klient może pisać do terapeuty między sesjami? E-mail, SMS, WhatsApp — 
 
 ### Dylemat tożsamości
 
-Czy można prowadzić terapię z osobą, której tożsamości nie znamy? W Polsce — prawnie problematyczne. Etycznie:
+Czy można prowadzić terapię z osobą, której tożsamości nie znamy? W Polsce - prawnie problematyczne. Etycznie:
 - Anonimowość może ułatwiać ujawnienie (mniej wstydu, mniejsze ryzyko stygmatyzacji)
 - Ale uniemożliwia interwencję kryzysową, weryfikację wieku, ocenę ryzyka
 
@@ -139,8 +139,8 @@ Co gdy klient w trakcie sesji online ujawnia myśli suicydalne i nagle się roz�
 
 Pojawienie się platform takich jak BetterHelp, Talkspace (za granicą) lub Mindgram, Psycholodzy.pl (Polska) rodzi pytania etyczne:
 
-- **Konflikt interesów**: platformy zarabiają na abonamentach — mogą preferować długie terapie
-- **Prywatność danych**: dane sprzedawane do celów marketingowych (BetterHelp — ugoda FTC 2023)
+- **Konflikt interesów**: platformy zarabiają na abonamentach - mogą preferować długie terapie
+- **Prywatność danych**: dane sprzedawane do celów marketingowych (BetterHelp - ugoda FTC 2023)
 - **Kwalifikacje terapeutów**: weryfikacja może być niewystarczająca
 - **Presja finansowa**: niska stawka za sesję może wpływać na jakość i etyczność pracy
 

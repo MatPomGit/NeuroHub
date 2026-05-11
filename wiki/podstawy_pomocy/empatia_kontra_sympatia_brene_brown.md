@@ -17,7 +17,7 @@ Artykuł porządkuje te pojęcia i pokazuje, jak stosować empatię w sposób do
 ## 1) Definicje: odruch współodczuwania vs odruch „pocieszania z góry”
 
 ### Empatia
-Empatia to świadoma gotowość do wejścia w perspektywę drugiej osoby i bycia z nią w tym, co przeżywa — bez naprawiania jej na siłę, bez umniejszania jej doświadczenia i bez przenoszenia rozmowy na siebie.
+Empatia to świadoma gotowość do wejścia w perspektywę drugiej osoby i bycia z nią w tym, co przeżywa - bez naprawiania jej na siłę, bez umniejszania jej doświadczenia i bez przenoszenia rozmowy na siebie.
 
 W praktyce empatia oznacza:
 
@@ -70,7 +70,7 @@ Psychologicznie to ogromna różnica:
 - empatia obniża poczucie izolacji,
 - sympatia (w formie „złotych rad”) może wzmacniać wstyd i samotność.
 
-W sytuacjach bólu emocjonalnego to właśnie **kontakt** działa regulująco na układ nerwowy — niekoniecznie szybkie rozwiązanie problemu.
+W sytuacjach bólu emocjonalnego to właśnie **kontakt** działa regulująco na układ nerwowy - niekoniecznie szybkie rozwiązanie problemu.
 
 ---
 
@@ -124,7 +124,7 @@ Empatia nie oznacza brania odpowiedzialności za czyjeś życie. To obecność i
 
 ---
 
-## 6) Język empatii i język sympatii — szybkie porównanie
+## 6) Język empatii i język sympatii - szybkie porównanie
 
 | Sytuacja | Reakcja sympatyczna (dystans) | Reakcja empatyczna (połączenie) |
 |---|---|---|
@@ -154,7 +154,7 @@ W pracy pomocowej to fundament profilaktyki wypalenia.
 
 ## 8) Empatia jako praktyka odwagi
 
-Według Brené Brown empatia wymaga odwagi, bo kontakt z cudzym bólem uruchamia także nasze własne doświadczenia bezradności, straty i wstydu. Łatwiej jest doradzać lub pocieszać „z góry”, trudniej — pozostać obecnym.
+Według Brené Brown empatia wymaga odwagi, bo kontakt z cudzym bólem uruchamia także nasze własne doświadczenia bezradności, straty i wstydu. Łatwiej jest doradzać lub pocieszać „z góry”, trudniej - pozostać obecnym.
 
 Dlatego empatia jest wyborem:
 
@@ -168,7 +168,7 @@ Dlatego empatia jest wyborem:
 
 - **W relacji partnerskiej**: zamiast „uspokój się”, powiedz „widzę, że to dla Ciebie ważne”.
 - **W pracy**: zamiast „dowieziesz, nie panikuj”, powiedz „co teraz najbardziej Cię blokuje?”.
-- **W rodzicielstwie**: zamiast „nie przesadzaj”, powiedz „widzę, że jest Ci trudno — jestem obok”.
+- **W rodzicielstwie**: zamiast „nie przesadzaj”, powiedz „widzę, że jest Ci trudno - jestem obok”.
 - **W przyjaźni**: zamiast serii porad, zapytaj „jak mogę Ci teraz najlepiej towarzyszyć?”.
 
 Małe zmiany języka prowadzą do dużych zmian jakości więzi.

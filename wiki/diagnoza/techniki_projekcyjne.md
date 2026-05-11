@@ -10,12 +10,12 @@ evidenceCutoffDate: 2025-12-31
 
 Techniki projekcyjne to **metody diagnostyczne, w których osoba badana odpowiada na niejednoznaczny, słabo ustrukturyzowany materiał bodźcowy** (plamy atramentowe, obrazki, niedokończone zdania). Według klasycznej teorii projekcji (Freud, Frank 1939) niejednoznaczność bodźca sprawia, że odpowiedzi odzwierciedlają **nieświadome treści, potrzeby, konflikty i wzorce relacyjne** respondenta.
 
-> „Techniki projekcyjne są X-rayem duszy." — powiedzenie kliniczne
+> „Techniki projekcyjne są X-rayem duszy." - powiedzenie kliniczne
 
 Kryteria wyróżniające techniki projekcyjne (Frank, 1939):
 1. Materiał bodźcowy jest niejednoznaczny
 2. Odpowiedź jest swobodna, nieustrukturyzowana
-3. Całość sytuacji jest zawoalowana — osoba nie wie, co jest mierzone
+3. Całość sytuacji jest zawoalowana - osoba nie wie, co jest mierzone
 
 ---
 
@@ -26,12 +26,12 @@ Kryteria wyróżniające techniki projekcyjne (Frank, 1939):
 **Materiał**: 10 tablic z symetrycznymi plamami atramentowymi (5 czarno-białych, 2 z czerwienią, 3 wielokolorowe).
 
 **Procedura**:
-1. Faza swobodna — „Co to może być?"
-2. Faza dociekań — powrót do kart: „Gdzie Pan widział X?"
+1. Faza swobodna - „Co to może być?"
+2. Faza dociekań - powrót do kart: „Gdzie Pan widział X?"
 
 **Systemy kodowania**:
-- *Comprehensive System* (Exner, 1974–2003) — najszerzej stosowany, silnie standaryzowany
-- *Rorschach Performance Assessment System* (R-PAS, 2011) — aktualizacja CS oparta na metaanalizach
+- *Comprehensive System* (Exner, 1974–2003) - najszerzej stosowany, silnie standaryzowany
+- *Rorschach Performance Assessment System* (R-PAS, 2011) - aktualizacja CS oparta na metaanalizach
 
 **Wskaźniki diagnostyczne**:
 - Determinanty: forma (F), ruch (M, FM), kolor (C, CF, FC), zacienienie
@@ -47,13 +47,13 @@ Kryteria wyróżniające techniki projekcyjne (Frank, 1939):
 
 **Materiał**: 31 obrazków przedstawiających nieokreślone postaci w wieloznacznych sytuacjach interpersonalnych.
 
-**Procedura**: Osoba badana konstruuje opowiadanie — co się dzieje, co doprowadziło do tej sytuacji, co się wydarzy.
+**Procedura**: Osoba badana konstruuje opowiadanie - co się dzieje, co doprowadziło do tej sytuacji, co się wydarzy.
 
 **Analiza**: Identyfikacja narratora z bohaterem, tematy potrzeb i nacisków (*needs and press*), style relacji, mechanizmy obronne.
 
 **Współczesne wersje**:
 - *Roberts Apperception Test* (dzieci)
-- *Social Cognition and Object Relations Scale* (SCORS) — rzetelna metoda kodowania
+- *Social Cognition and Object Relations Scale* (SCORS) - rzetelna metoda kodowania
 
 **Zastosowanie**: dynamika motywacji, wzorce relacyjne, struktura narracyjna.
 
@@ -64,10 +64,10 @@ Kryteria wyróżniające techniki projekcyjne (Frank, 1939):
 Techniki oparte na rysunku zakładają, że graficzne przedstawienie zawiera dane o stanie psychicznym, samoocenie, relacjach.
 
 **Techniki**:
-- **Dom–Drzewo–Osoba (HTP)** — Buck, 1948; Hammer, 1958
-- **Rysunek rodziny** — Corman; analiza ról i relacji w rodzinie
-- **Kinetic Family Drawing (KFD)** — Burns & Kaufman; rodzina w ruchu
-- **Rysunek postaci ludzkiej (DAP)** — Machover, 1949
+- **Dom–Drzewo–Osoba (HTP)** - Buck, 1948; Hammer, 1958
+- **Rysunek rodziny** - Corman; analiza ról i relacji w rodzinie
+- **Kinetic Family Drawing (KFD)** - Burns & Kaufman; rodzina w ruchu
+- **Rysunek postaci ludzkiej (DAP)** - Machover, 1949
 
 **Wymiary analizy**:
 - Wielkość i umiejscowienie
@@ -75,7 +75,7 @@ Techniki oparte na rysunku zakładają, że graficzne przedstawienie zawiera dan
 - Siła kreski, nacisk, wymazywanie
 - Kolejność rysowania
 
-**Ważne**: Interpretacja rysunków projekcyjnych jest wysoce spekulatywna bez dodatkowych danych — wymagają włączenia w szerszy kontekst diagnostyczny.
+**Ważne**: Interpretacja rysunków projekcyjnych jest wysoce spekulatywna bez dodatkowych danych - wymagają włączenia w szerszy kontekst diagnostyczny.
 
 ---
 
@@ -85,7 +85,7 @@ Techniki oparte na rysunku zakładają, że graficzne przedstawienie zawiera dan
 
 **Analiza**: Treść odpowiedzi, emocjonalny ładunek, spójność/niespójność z innymi danymi.
 
-**Skale**: *Sacks Sentence Completion Test* — 50 bodźców, 15 obszarów (rodzina, seks, relacje, samoocena).
+**Skale**: *Sacks Sentence Completion Test* - 50 bodźców, 15 obszarów (rodzina, seks, relacje, samoocena).
 
 **Zalety**: Szybka administracja, bogaty materiał jakościowy.
 
@@ -101,47 +101,47 @@ Mniej powszechny; oparty na wyborze twarzy – osoba wybiera najbardziej i najmn
 
 ### Hipoteza projekcji (Frank, 1939)
 
-Niejednoznaczny materiał bodźcowy aktywuje **projekcję** — przeniesienie wewnętrznych treści psychicznych na zewnętrzny obiekt. Osoba „widzi" w plamie to, co nosi w sobie.
+Niejednoznaczny materiał bodźcowy aktywuje **projekcję** - przeniesienie wewnętrznych treści psychicznych na zewnętrzny obiekt. Osoba „widzi" w plamie to, co nosi w sobie.
 
 ### Perspektywa psychodynamiczna
 
-Techniki projekcyjne odsłaniają **treści nieświadome** — wyparte, dysocjowane lub nieznane badanemu. Szczególnie skuteczne tam, gdzie obrony blokują dostęp do samoopisu w kwestionariuszach.
+Techniki projekcyjne odsłaniają **treści nieświadome** - wyparte, dysocjowane lub nieznane badanemu. Szczególnie skuteczne tam, gdzie obrony blokują dostęp do samoopisu w kwestionariuszach.
 
 ### Perspektywa poznawcza (Exner)
 
-Rorschach jako zadanie rozwiązywania problemu — ujawnia **styl rozwiązywania problemów percepcyjnych**, organizację percepcji i tolerancję niejednoznaczności.
+Rorschach jako zadanie rozwiązywania problemu - ujawnia **styl rozwiązywania problemów percepcyjnych**, organizację percepcji i tolerancję niejednoznaczności.
 
 ---
 
-## Rzetelność i trafność — kontrowersje
+## Rzetelność i trafność - kontrowersje
 
 ### Argumenty za
 
 - *Comprehensive System* (Exner) osiąga zadowalające wskaźniki rzetelności sędziów-kompetentów (ICC > 0,85 dla głównych wskaźników)
 - R-PAS poprawił problemy metodologiczne CS
 - Meta-analizy (Hiller, Rosenthal i in.): r ≈ 0,29 trafności predyktywnej (porównywalna do MMPI)
-- SCORS (TAT) — rzetelność między-oceniaczowa > 0,80
+- SCORS (TAT) - rzetelność między-oceniaczowa > 0,80
 
 ### Argumenty przeciw (Lilienfeld, 2000; Wood i in., 2003)
 
 - Wiele wskaźników Rorschacha ma niskie rzetelności lub trafności
 - CS pathologizuje populację normalną (normy z przestarzałych grup)
-- Subiektywność interpretacji — wpływ szkoły, doświadczenia klinicysty
-- Konfirmacyjne nastawienie — interpretator szuka potwierdzenia hipotezy
+- Subiektywność interpretacji - wpływ szkoły, doświadczenia klinicysty
+- Konfirmacyjne nastawienie - interpretator szuka potwierdzenia hipotezy
 - Stosowane jako „złoty standard" mimo braku wystarczających dowodów
 
 ### Aktualny konsensus
 
-Techniki projekcyjne są **uzasadnione jako element wielometodowej baterii diagnostycznej** — nigdy jako jedyne narzędzie. Rekomenduje się stosowanie znormalizowanych systemów kodowania (R-PAS, SCORS) z opublikowanymi normami.
+Techniki projekcyjne są **uzasadnione jako element wielometodowej baterii diagnostycznej** - nigdy jako jedyne narzędzie. Rekomenduje się stosowanie znormalizowanych systemów kodowania (R-PAS, SCORS) z opublikowanymi normami.
 
 ---
 
 ## Zasady etycznego stosowania
 
 1. **Kompetencje**: stosowanie wyłącznie po specjalistycznym szkoleniu (certyfikaty Rorschach)
-2. **Wielometodowość**: nigdy interpretować w izolacji — zawsze w połączeniu z wywiadem i kwestionariuszami
+2. **Wielometodowość**: nigdy interpretować w izolacji - zawsze w połączeniu z wywiadem i kwestionariuszami
 3. **Komunikacja wyników**: ostrożność w formułowaniu wniosków; unikanie pathologizacji
-4. **Poufność materiału bodźcowego**: w szczególności Rorschach — nie publikować tablic w jawnych raportach
+4. **Poufność materiału bodźcowego**: w szczególności Rorschach - nie publikować tablic w jawnych raportach
 5. **Świadoma zgoda**: poinformowanie o procedurze (bez ujawniania hipotez)
 
 ---
@@ -160,7 +160,7 @@ Techniki projekcyjne są **uzasadnione jako element wielometodowej baterii diagn
 
 ## Podsumowanie
 
-Techniki projekcyjne stanowią wartościowy element arsenału diagnostycznego psychologa klinicznego — pod warunkiem stosowania znormalizowanych systemów kodowania, osadzenia wyników w kontekście wielometodowym oraz krytycznej świadomości ograniczeń empirycznych. Ich największą siłą jest dostęp do danych jakościowych i dynamicznych, których kwestionariusze samoopisu nie mogą dostarczyć.
+Techniki projekcyjne stanowią wartościowy element arsenału diagnostycznego psychologa klinicznego - pod warunkiem stosowania znormalizowanych systemów kodowania, osadzenia wyników w kontekście wielometodowym oraz krytycznej świadomości ograniczeń empirycznych. Ich największą siłą jest dostęp do danych jakościowych i dynamicznych, których kwestionariusze samoopisu nie mogą dostarczyć.
 
 ---
 

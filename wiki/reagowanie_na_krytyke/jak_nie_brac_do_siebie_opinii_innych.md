@@ -12,10 +12,10 @@ evidenceCutoffDate: 2026-04-20
 Celem artykułu jest pokazanie, jak regulować reakcję na opinie innych bez popadania ani w nadwrażliwość, ani w defensywny cynizm.
 
 ## Definicje
-- **Opinia** — subiektywna interpretacja osoby oceniającej; może zawierać ziarno danych, ale nie jest równoważna faktowi.
-- **Feedback rozwojowy** — informacja zwrotna oparta na obserwowalnych zachowaniach, osadzona w kontekście i zawierająca kierunek poprawy.
-- **Personalizacja poznawcza** — zniekształcenie polegające na nadmiernym odnoszeniu neutralnych lub ogólnych komunikatów do siebie.
-- **Mentalizacja** — zdolność widzenia, że wypowiedź drugiej osoby wynika także z jej stanu psychicznego, historii i celów.
+- **Opinia** - subiektywna interpretacja osoby oceniającej; może zawierać ziarno danych, ale nie jest równoważna faktowi.
+- **Feedback rozwojowy** - informacja zwrotna oparta na obserwowalnych zachowaniach, osadzona w kontekście i zawierająca kierunek poprawy.
+- **Personalizacja poznawcza** - zniekształcenie polegające na nadmiernym odnoszeniu neutralnych lub ogólnych komunikatów do siebie.
+- **Mentalizacja** - zdolność widzenia, że wypowiedź drugiej osoby wynika także z jej stanu psychicznego, historii i celów.
 
 ## Analiza
 ### 1) Dlaczego opinie bolą bardziej niż „powinny”?

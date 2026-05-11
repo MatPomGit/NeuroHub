@@ -10,17 +10,17 @@ Klasyczne i współczesne wyjaśnienia powstawania, struktury i funkcji emocji.
 
 ## Czym są emocje?
 
-*Emocje* to złożone stany psychofizyczne obejmujące komponent subiektywny (przeżycie), fizjologiczny (pobudzenie autonomiczne) i behawioralny (ekspresja i działanie). Są adaptacyjne — ewolucyjnie kształtowane systemy reagowania na istotne zdarzenia.
+*Emocje* to złożone stany psychofizyczne obejmujące komponent subiektywny (przeżycie), fizjologiczny (pobudzenie autonomiczne) i behawioralny (ekspresja i działanie). Są adaptacyjne - ewolucyjnie kształtowane systemy reagowania na istotne zdarzenia.
 
 ## Teoria Jamesa-Langego
 
-William James i Carl Lange (1884) zaproponowali kontraintuicyjną teorię: **emocja jest świadomością zmian somatycznych**. Nie boimy się niedźwiedzia i dlatego uciekamy — uciekamy i dlatego czujemy strach. Emocje są percepcją zmian ciała.
+William James i Carl Lange (1884) zaproponowali kontraintuicyjną teorię: **emocja jest świadomością zmian somatycznych**. Nie boimy się niedźwiedzia i dlatego uciekamy - uciekamy i dlatego czujemy strach. Emocje są percepcją zmian ciała.
 
 > Teoria Jamesa-Langego przewiduje, że zakłócenie informacji zwrotnej z ciała (uszkodzenia rdzenia kręgowego) powinno osłabiać emocje. Badania Hohmann (1966) częściowo potwierdziły tę hipotezę.
 
 ## Teoria Cannona-Barda
 
-Walter Cannon (1927) zakwestionował Jamesa: zmiany fizjologiczne są zbyt wolne i zbyt niespecyficzne, by różnicować emocje. Wzgórze jednocześnie wysyła sygnały do kory (subiektywne przeżycie) i do ciała (reakcja fizjologiczna) — oba procesy biegną **równolegle, niezależnie**.
+Walter Cannon (1927) zakwestionował Jamesa: zmiany fizjologiczne są zbyt wolne i zbyt niespecyficzne, by różnicować emocje. Wzgórze jednocześnie wysyła sygnały do kory (subiektywne przeżycie) i do ciała (reakcja fizjologiczna) - oba procesy biegną **równolegle, niezależnie**.
 
 ## Teoria dwuczynnikowa Schachtera i Singera
 
@@ -28,7 +28,7 @@ Stanley Schachter i Jerome Singer (1962): emocja = niespecyficzne **pobudzenie f
 
 ## Teorie oceny (appraisal theories)
 
-Lazarus (1966), Frijda, Scherer — emocje są wynikiem **oceny znaczenia zdarzenia** dla dobrostanu jednostki. Pierwotna ocena: czy zdarzenie jest istotne i korzystne/szkodliwe? Wtórna ocena: jakie mam zasoby, by sobie poradzić? Teoria wyjaśnia różnice indywidualne w reakcjach emocjonalnych.
+Lazarus (1966), Frijda, Scherer - emocje są wynikiem **oceny znaczenia zdarzenia** dla dobrostanu jednostki. Pierwotna ocena: czy zdarzenie jest istotne i korzystne/szkodliwe? Wtórna ocena: jakie mam zasoby, by sobie poradzić? Teoria wyjaśnia różnice indywidualne w reakcjach emocjonalnych.
 
 ## Podstawowe emocje Ekmana
 
@@ -36,7 +36,7 @@ Paul Ekman (1972) na podstawie badań transkultowych wyróżnił **6 podstawowyc
 
 ## Konstruktywistyczna teoria emocji
 
-Lisa Feldman Barrett (2017) kwestionuje istnienie dyskretnch emocji biologicznych — emocje są **aktywnie konstruowane** przez mózg z interocepcji, wcześniejszych doświadczeń i kontekstu kulturowego. Emocja to predykcja, nie odczyt stanu ciała.
+Lisa Feldman Barrett (2017) kwestionuje istnienie dyskretnch emocji biologicznych - emocje są **aktywnie konstruowane** przez mózg z interocepcji, wcześniejszych doświadczeń i kontekstu kulturowego. Emocja to predykcja, nie odczyt stanu ciała.
 
 ## Bibliografia
 

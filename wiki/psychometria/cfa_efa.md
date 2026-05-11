@@ -6,7 +6,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Analiza czynnikowa (EFA i CFA)
 
-Analiza czynnikowa to metoda statystyczna służąca do wykrywania ukrytych (latentnych) struktur w danych — grup zmiennych obserwowalnych, które korelują ze sobą, bo mają wspólne przyczyny (czynniki). Jest fundamentem tworzenia i walidacji testów psychologicznych.
+Analiza czynnikowa to metoda statystyczna służąca do wykrywania ukrytych (latentnych) struktur w danych - grup zmiennych obserwowalnych, które korelują ze sobą, bo mają wspólne przyczyny (czynniki). Jest fundamentem tworzenia i walidacji testów psychologicznych.
 
 ## Eksploracyjna analiza czynnikowa (EFA)
 
@@ -16,11 +16,11 @@ Analiza czynnikowa to metoda statystyczna służąca do wykrywania ukrytych (lat
 
 1. **Ocena korelacji:** Macierz korelacji powinna zawierać korelacje umiarkowane do wysokich. Test Bartletta sprawdza, czy macierz różni się od macierzy jednostkowej (brak czynników).
 
-2. **Ekstrakcja czynników:** Metody: analiza składowych głównych (PCA — technicznie nie jest EFA), analiza czynnikowa metodą głównych osi (PAF), metoda maksymalnego prawdopodobieństwa (ML).
+2. **Ekstrakcja czynników:** Metody: analiza składowych głównych (PCA - technicznie nie jest EFA), analiza czynnikowa metodą głównych osi (PAF), metoda maksymalnego prawdopodobieństwa (ML).
 
-3. **Wyznaczenie liczby czynników:** Kryterium Kaisera (eigenvalue > 1), wykres osypiska (scree plot), analiza równoległa (parallel analysis — najbardziej wiarygodna), MAP Vealicera.
+3. **Wyznaczenie liczby czynników:** Kryterium Kaisera (eigenvalue > 1), wykres osypiska (scree plot), analiza równoległa (parallel analysis - najbardziej wiarygodna), MAP Vealicera.
 
-4. **Rotacja:** Zmiana orientacji czynników w celu uzyskania prostszej struktury (każda zmienna ładuje wysoko tylko na jeden czynnik). Rotacja ortogonalna (Varimax) zakłada niezależność czynników. Rotacja skośna (Oblimin, Promax) zezwala na korelacje między czynnikami — bardziej realistyczna w psychologii.
+4. **Rotacja:** Zmiana orientacji czynników w celu uzyskania prostszej struktury (każda zmienna ładuje wysoko tylko na jeden czynnik). Rotacja ortogonalna (Varimax) zakłada niezależność czynników. Rotacja skośna (Oblimin, Promax) zezwala na korelacje między czynnikami - bardziej realistyczna w psychologii.
 
 5. **Interpretacja:** Ładunki czynnikowe > |0,30|–|0,40| uznaje się za znaczące. Każdy czynnik powinien mieć co najmniej 3 pozycje z wysokimi ładunkami.
 
@@ -28,7 +28,7 @@ Analiza czynnikowa to metoda statystyczna służąca do wykrywania ukrytych (lat
 
 ## Konfirmacyjna analiza czynnikowa (CFA)
 
-**CFA** testuje *a priori* zdefiniowany model — który czynnik ładuje które zmienne, jakie są korelacje między czynnikami. Wymaga wcześniejszej teorii lub wyników EFA.
+**CFA** testuje *a priori* zdefiniowany model - który czynnik ładuje które zmienne, jakie są korelacje między czynnikami. Wymaga wcześniejszej teorii lub wyników EFA.
 
 ### Wskaźniki dopasowania modelu
 
@@ -40,7 +40,7 @@ Analiza czynnikowa to metoda statystyczna służąca do wykrywania ukrytych (lat
 | RMSEA | < 0.06 (95% CI < 0.10) |
 | SRMR | < 0.08 |
 
-Żaden pojedynczy wskaźnik nie jest wystarczający — interpretuje się zawsze komplet.
+Żaden pojedynczy wskaźnik nie jest wystarczający - interpretuje się zawsze komplet.
 
 ### Modele zagnieżdżone
 
@@ -48,17 +48,17 @@ CFA pozwala porównywać modele zagnieżdżone (jeden jest szczególnym przypadk
 
 ## Inwariancja pomiarowa a CFA
 
-CFA jest narzędziem do badania **inwariancji pomiarowej** — czy test mierzy to samo konstrukty u różnych grup. Etapy:
+CFA jest narzędziem do badania **inwariancji pomiarowej** - czy test mierzy to samo konstrukty u różnych grup. Etapy:
 1. Model konfiguracyjny (ta sama struktura, dowolne ładunki)
-2. Inwariancja metryczna (równe ładunki — warunkuje porównanie korelacji)
-3. Inwariancja skalarna (równe progi/intercepty — warunkuje porównanie średnich)
+2. Inwariancja metryczna (równe ładunki - warunkuje porównanie korelacji)
+3. Inwariancja skalarna (równe progi/intercepty - warunkuje porównanie średnich)
 4. Inwariancja resztkowa (równe residua)
 
 ## Modele bifaktorowe
 
 **Model bifaktorowy** zakłada jeden czynnik ogólny (g) i kilka czynników specyficznych, przy czym każda zmienna ładuje zarówno na g jak i jeden czynnik specyficzny. Popularny w modelowaniu inteligencji (g + zdolności specyficzne) i psychopatologii (p-faktor).
 
-## EFA vs CFA — kiedy stosować?
+## EFA vs CFA - kiedy stosować?
 
 **EFA:** Nowe narzędzia bez ustalonej struktury; eksploracja danych; generowanie hipotez.
 
@@ -73,7 +73,7 @@ Najlepsza praktyka: EFA na połowie próby, CFA na drugiej połowie (split-sampl
 - Badanie struktury dystresu psychologicznego (modele internalizing/externalizing)
 - Analiza struktury kwestionariusza MMPI
 
-> **Podsumowanie:** Analiza czynnikowa jest podstawową metodą budowania i walidacji narzędzi pomiarowych w psychologii. Właściwe stosowanie EFA i CFA wymaga zrozumienia założeń, wskaźników dopasowania i ograniczeń — szczególnie wrażliwości na wielkość próby i specyfikę danych.
+> **Podsumowanie:** Analiza czynnikowa jest podstawową metodą budowania i walidacji narzędzi pomiarowych w psychologii. Właściwe stosowanie EFA i CFA wymaga zrozumienia założeń, wskaźników dopasowania i ograniczeń - szczególnie wrażliwości na wielkość próby i specyfikę danych.
 
 
 ## Wprowadzenie

@@ -4,13 +4,13 @@ reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
 
-# SCID-5 / SCID-V — ustrukturyzowany wywiad kliniczny DSM-5
+# SCID-5 / SCID-V - ustrukturyzowany wywiad kliniczny DSM-5
 
 ## 1. Czym jest SCID-5?
 
 **SCID-5** (ang. *Structured Clinical Interview for DSM-5*) to ustrukturyzowany wywiad diagnostyczny oparty na kryteriach DSM-5. W polskiej praktyce często spotyka się zapis **SCID-V** (rzymska „piątka”). Narzędzie służy do systematycznej oceny obecności zaburzeń psychicznych poprzez standaryzowane pytania i reguły decyzyjne.
 
-SCID nie jest testem samoopisowym ani „quizem” — to prowadzony przez przeszkolonego diagnostę proces kliniczny, który:
+SCID nie jest testem samoopisowym ani „quizem” - to prowadzony przez przeszkolonego diagnostę proces kliniczny, który:
 
 - porządkuje zbieranie informacji diagnostycznych,
 - zmniejsza ryzyko pominięcia kluczowych objawów,
@@ -156,7 +156,7 @@ Warto raportować: wersję SCID, sposób szkolenia raterów, procedurę superwiz
 
 ## 11. Podsumowanie
 
-SCID-5 (SCID-V) to jedno z najważniejszych narzędzi porządkujących diagnozę według DSM-5. Jego największą siłą jest standaryzacja, a największym ryzykiem — pokusa nadmiernego uproszczenia obrazu klinicznego. Najlepsze rezultaty daje stosowanie SCID jako części **wielometodowej, wieloźródłowej** diagnozy, osadzonej w relacji klinicznej i kontekście życia pacjenta.
+SCID-5 (SCID-V) to jedno z najważniejszych narzędzi porządkujących diagnozę według DSM-5. Jego największą siłą jest standaryzacja, a największym ryzykiem - pokusa nadmiernego uproszczenia obrazu klinicznego. Najlepsze rezultaty daje stosowanie SCID jako części **wielometodowej, wieloźródłowej** diagnozy, osadzonej w relacji klinicznej i kontekście życia pacjenta.
 
 
 

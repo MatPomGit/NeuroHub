@@ -4,7 +4,7 @@ reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
 
-# Teoria przywiązania — od kołyski po dorosłość
+# Teoria przywiązania - od kołyski po dorosłość
 
 Teoria przywiązania (*attachment theory*) jest jednym z najbardziej wpływowych i empirycznie potwierdzonych paradygmatów współczesnej psychologii. Wyjaśnia, w jaki sposób wczesnodziecięce relacje z opiekunami kształtują regulację emocjonalną, wzorce interpersonalne i podatność na zaburzenia psychiczne przez całe życie.
 
@@ -17,14 +17,14 @@ Teoria przywiązania (*attachment theory*) jest jednym z najbardziej wpływowych
 ### Kluczowe założenia
 
 - **System przywiązania** jest ewolucyjnie zaprogramowanym układem behawioralnym. Gdy dziecko wyczuwa zagrożenie, aktywuje zachowania przywiązaniowe (płacz, poszukiwanie bliskości), które sprowadzają opiekuna i przywracają poczucie bezpieczeństwa.
-- **Bezpieczna baza** (*secure base*) — dostępny i responsywny opiekun umożliwia dziecku eksplorację otoczenia, wiedząc, że w razie potrzeby może do niego powrócić.
-- **Wewnętrzne modele operacyjne** (*internal working models*, IWM) — mentalne reprezentacje siebie i innych, budowane na podstawie powtarzających się interakcji z opiekunem. IWM stają się schematami poznawczo-afektywnymi kształtującymi relacje przez całe życie.
+- **Bezpieczna baza** (*secure base*) - dostępny i responsywny opiekun umożliwia dziecku eksplorację otoczenia, wiedząc, że w razie potrzeby może do niego powrócić.
+- **Wewnętrzne modele operacyjne** (*internal working models*, IWM) - mentalne reprezentacje siebie i innych, budowane na podstawie powtarzających się interakcji z opiekunem. IWM stają się schematami poznawczo-afektywnymi kształtującymi relacje przez całe życie.
 
 ---
 
 ## Ainsworth: cztery style przywiązania
 
-**Mary Ainsworth** (1913–1999) opracowała eksperymentalną procedurę badawczą — **Sytuację Obcą** (*Strange Situation Procedure*, SSP) — pozwalającą na ustandaryzowaną obserwację zachowań przywiązaniowych u dzieci w wieku 12–18 miesięcy.
+**Mary Ainsworth** (1913–1999) opracowała eksperymentalną procedurę badawczą - **Sytuację Obcą** (*Strange Situation Procedure*, SSP) - pozwalającą na ustandaryzowaną obserwację zachowań przywiązaniowych u dzieci w wieku 12–18 miesięcy.
 
 ### Procedura Sytuacji Obcej
 
@@ -42,7 +42,7 @@ Eksperyment obejmuje serię 8 epizodów (każdy trwa 3 minuty), w których dziec
 | **Ambiwalentny/oporny** | C | Silny dystres; trudny do uspokojenia przy powrocie; mieszanina gniewu i szukania kontaktu | Hiperaktywacja systemu przywiązania |
 | **Zdezorganizowany** | D | Brak spójnej strategii; stereotypie, zamrożenie, chaotyczne podejście–ucieczka | Brak strategii regulacji; opiekun jest źródłem i rozwiązaniem strachu |
 
-Styl D wyróżnili **Main i Solomon** (1986) — jest on związany z doświadczeniem maltreatmentu lub poważnymi traumami opiekunów.
+Styl D wyróżnili **Main i Solomon** (1986) - jest on związany z doświadczeniem maltreatmentu lub poważnymi traumami opiekunów.
 
 ---
 
@@ -50,10 +50,10 @@ Styl D wyróżnili **Main i Solomon** (1986) — jest on związany z doświadcze
 
 Współczesna neuronauka przywiązania ujawniła biologiczne podstawy więzi:
 
-- **Oksytocyna i wazopresyna** — neuropeptydy regulujące zachowania prospołeczne, zaufanie i tworzenie trwałych par. Uwalniają się podczas kontaktu fizycznego (dotyk, karmienie).
-- **Układ nagrody** — bliskość opiekuna aktywuje układ dopaminergiczny (jądro półleżące, VTA), tworząc neurobiologiczne podłoże motywacji do utrzymywania bliskości.
-- **Ciało migdałowate** — u dzieci z pozabezpiecznym przywiązaniem wykazuje podwyższoną reaktywność na sygnały emocjonalne, co koreluje z trudnościami regulacyjnymi w dorosłości.
-- **Kora oczodołowo-czołowa** — mediuje związek między wczesnymi doświadczeniami a IWM; podatna na epigenetyczne modyfikacje pod wpływem środowiska opiekuńczego.
+- **Oksytocyna i wazopresyna** - neuropeptydy regulujące zachowania prospołeczne, zaufanie i tworzenie trwałych par. Uwalniają się podczas kontaktu fizycznego (dotyk, karmienie).
+- **Układ nagrody** - bliskość opiekuna aktywuje układ dopaminergiczny (jądro półleżące, VTA), tworząc neurobiologiczne podłoże motywacji do utrzymywania bliskości.
+- **Ciało migdałowate** - u dzieci z pozabezpiecznym przywiązaniem wykazuje podwyższoną reaktywność na sygnały emocjonalne, co koreluje z trudnościami regulacyjnymi w dorosłości.
+- **Kora oczodołowo-czołowa** - mediuje związek między wczesnymi doświadczeniami a IWM; podatna na epigenetyczne modyfikacje pod wpływem środowiska opiekuńczego.
 
 Badania **Meaney** na szczurach wykazały, że jakość opieki matczynej wpływa na metylację genów regulujących oś HPA, kształtując biologiczną podatność na stres u potomstwa.
 
@@ -61,9 +61,9 @@ Badania **Meaney** na szczurach wykazały, że jakość opieki matczynej wpływa
 
 ## Ciągłość przywiązania przez życie
 
-### Dorosłe przywiązanie — kwestionariusz AAI
+### Dorosłe przywiązanie - kwestionariusz AAI
 
-**George, Kaplan i Main** (1985) opracowali **Adult Attachment Interview** (AAI) — narracyjny wywiad mierzący organizację wspomnień dotyczących dzieciństwa. Klucz oceny leży nie w treści wspomnień (historia nie musi być szczęśliwa), lecz w **spójności narracji** (kryteria Grice'a: jasność, ilość, jakość, istotność).
+**George, Kaplan i Main** (1985) opracowali **Adult Attachment Interview** (AAI) - narracyjny wywiad mierzący organizację wspomnień dotyczących dzieciństwa. Klucz oceny leży nie w treści wspomnień (historia nie musi być szczęśliwa), lecz w **spójności narracji** (kryteria Grice'a: jasność, ilość, jakość, istotność).
 
 | Klasyfikacja AAI | Korelat SSP u dziecka | Charakterystyka narracji |
 |---|---|---|
@@ -95,10 +95,10 @@ Wyróżnione style różnią się w zakresie: samoujawniania, tolerancji blisko�
 
 Teoria przywiązania ma kluczowe zastosowania kliniczne:
 
-- **Terapia skupiona na emocjach** (*EFT*, Johnson) — reorganizuje wzorce przywiązania w parach i rodzinach
-- **Interwencje dla rodziców** — programy CPS (Circle of Parents), ABC (Attachment and Biobehavioral Catch-up) zwiększają responsywność opiekunów i bezpieczeństwo dzieci
-- **Dorośli w psychoterapii** — relacja terapeutyczna może funkcjonować jako korektywne doświadczenie przywiązania (Bowlby, 1988); wzorce IWM powtarzają się w przeniesieniu
-- **Trauma i przywiązanie** — zdezorganizowane przywiązanie predysponuje do PTSD, BPD i zaburzeń dysocjacyjnych
+- **Terapia skupiona na emocjach** (*EFT*, Johnson) - reorganizuje wzorce przywiązania w parach i rodzinach
+- **Interwencje dla rodziców** - programy CPS (Circle of Parents), ABC (Attachment and Biobehavioral Catch-up) zwiększają responsywność opiekunów i bezpieczeństwo dzieci
+- **Dorośli w psychoterapii** - relacja terapeutyczna może funkcjonować jako korektywne doświadczenie przywiązania (Bowlby, 1988); wzorce IWM powtarzają się w przeniesieniu
+- **Trauma i przywiązanie** - zdezorganizowane przywiązanie predysponuje do PTSD, BPD i zaburzeń dysocjacyjnych
 
 ---
 

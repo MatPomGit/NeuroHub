@@ -19,10 +19,10 @@ Inwariancja pomiarowa jest warunkiem wstępnym:
 
 ## Model hierarchiczny inwariancji (Millsap i Kwok)
 
-Inwariancja jest badana etapami — każdy kolejny jest silniejszy od poprzedniego:
+Inwariancja jest badana etapami - każdy kolejny jest silniejszy od poprzedniego:
 
 ### 1. Inwariancja konfiguracyjna
-Ten sam wzorzec ładowań czynnikowych (które pytania dotyczą których konstruktów) — ale parametry mogą się różnić między grupami. Jest to model bazowy; jego dobre dopasowanie potwierdza, że ta sama struktura czynnikowa jest sensowna w obu grupach.
+Ten sam wzorzec ładowań czynnikowych (które pytania dotyczą których konstruktów) - ale parametry mogą się różnić między grupami. Jest to model bazowy; jego dobre dopasowanie potwierdza, że ta sama struktura czynnikowa jest sensowna w obu grupach.
 
 ### 2. Inwariancja metryczna (słaba)
 Ładunki czynnikowe są równe we wszystkich grupach. Oznacza to, że "jednostka" skali latentnej ma to samo znaczenie w obu grupach. Pozwala porównywać korelacje i kowariancje, ale nie średnie.
@@ -33,7 +33,7 @@ Ten sam wzorzec ładowań czynnikowych (które pytania dotyczą których konstru
 ### 4. Inwariancja resztkowa (ścisła)
 Wariancje reszt (błędów) są równe. Bardzo restrykcyjne kryterium; najczęściej nie jest wymagane do większości celów badawczych.
 
-> **Ważna uwaga:** Częściowa inwariancja (partial invariance) — gdy większość ładunków/interceptów jest równa, ale kilka nie — jest często wystarczająca do porównywania grup po uwzględnieniu niezmiennych pozycji.
+> **Ważna uwaga:** Częściowa inwariancja (partial invariance) - gdy większość ładunków/interceptów jest równa, ale kilka nie - jest często wystarczająca do porównywania grup po uwzględnieniu niezmiennych pozycji.
 
 ## Procedura testowania w CFA
 
@@ -43,23 +43,23 @@ Wariancje reszt (błędów) są równe. Bardzo restrykcyjne kryterium; najczęś
 4. Nałóż ograniczenie równości na **residua** → model ścisły (opcjonalnie)
 
 ### Ocena pogorszenia dopasowania
-Tradycyjnie: test chi² różnicy. Ale chi² jest wrażliwy na wielkość próby — przy N > 300 prawie zawsze istotny.
+Tradycyjnie: test chi² różnicy. Ale chi² jest wrażliwy na wielkość próby - przy N > 300 prawie zawsze istotny.
 
 Lepsze podejście: ΔCFI ≥ −0.010 i/lub ΔRMSEA ≥ 0.015 sygnalizują problematyczne pogorszenie (Cheung i Rensvold).
 
 ## Inwariancja a DIF
 
-**DIF (Differential Item Functioning)** w IRT i brak inwariancji skalarnej w CFA są powiązanymi konceptami — oba oznaczają, że pozycja zachowuje się inaczej dla różnych grup po kontroli za poziom cechy.
+**DIF (Differential Item Functioning)** w IRT i brak inwariancji skalarnej w CFA są powiązanymi konceptami - oba oznaczają, że pozycja zachowuje się inaczej dla różnych grup po kontroli za poziom cechy.
 
-DIF jest bardziej powszechny w badaniach adaptacji testów, inwariancja pomiarowa — w badaniach porównawczych.
+DIF jest bardziej powszechny w badaniach adaptacji testów, inwariancja pomiarowa - w badaniach porównawczych.
 
 ## Przykłady badań
 
 - **Wielka Piątka:** Badania cross-kulturowe (Schmitt i in., 2007) wykazały częściową, ale nie pełną inwariancję NEO-PI między 56 krajami. Wyciąganie wniosków o "narodowym charakterze" bez uwzględnienia inwariancji jest ryzykowne.
 
-- **PHQ-9 (skala depresji):** Badania wykazały inwariancję metryczną między płciami, ale brak pełnej inwariancji skalarnej — kobiety mają wyższe intercepty dla pozycji o smutku, co wynika ze zróżnicowania w wyrażaniu emocji, nie tylko w depresji.
+- **PHQ-9 (skala depresji):** Badania wykazały inwariancję metryczną między płciami, ale brak pełnej inwariancji skalarnej - kobiety mają wyższe intercepty dla pozycji o smutku, co wynika ze zróżnicowania w wyrażaniu emocji, nie tylko w depresji.
 
-- **Testy inteligencji:** Badania Flynn effect (wzrost IQ w czasie) sugerują, że część wzrostu może odzwierciedlać zmiany w sposobie podejścia do testów, nie prawdziwy wzrost inteligencji — problem inwariancji w czasie.
+- **Testy inteligencji:** Badania Flynn effect (wzrost IQ w czasie) sugerują, że część wzrostu może odzwierciedlać zmiany w sposobie podejścia do testów, nie prawdziwy wzrost inteligencji - problem inwariancji w czasie.
 
 ## Implikacje praktyczne
 
@@ -68,7 +68,7 @@ Klinicyści i badacze powinni:
 - Traktować sceptycznie porównania międzykulturowe bez dowodów inwariancji
 - Przy adaptacji testu do nowej kultury standardowo przeprowadzać analizę inwariancji
 
-> **Podsumowanie:** Inwariancja pomiarowa jest metodologicznym fundamentem porównawczych badań psychologicznych. Jej brak nie dyskwalifikuje narzędzia — może też ujawnić ważne różnice między grupami. Kluczem jest świadomość ograniczeń i raportowanie wyników analiz inwariancji.
+> **Podsumowanie:** Inwariancja pomiarowa jest metodologicznym fundamentem porównawczych badań psychologicznych. Jej brak nie dyskwalifikuje narzędzia - może też ujawnić ważne różnice między grupami. Kluczem jest świadomość ograniczeń i raportowanie wyników analiz inwariancji.
 
 
 ## Wprowadzenie

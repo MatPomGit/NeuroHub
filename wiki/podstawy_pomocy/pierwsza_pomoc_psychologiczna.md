@@ -8,22 +8,22 @@ evidenceCutoffDate: 2025-12-31
 
 ## Czym jest pierwsza pomoc psychologiczna?
 
-**Pierwsza pomoc psychologiczna** (PPP; ang. *Psychological First Aid*, PFA) to opartą na dowodach metodę wsparcia dla osób doświadczających ostrego stresu po wydarzeniach traumatycznych lub katastrofach. Opracowana m.in. przez WHO, NCTSN i inne organizacje, stanowi standard reagowania w sytuacjach masowych — klęskach żywiołowych, aktach terroru, wypadkach i katastrofach przemysłowych.
+**Pierwsza pomoc psychologiczna** (PPP; ang. *Psychological First Aid*, PFA) to opartą na dowodach metodę wsparcia dla osób doświadczających ostrego stresu po wydarzeniach traumatycznych lub katastrofach. Opracowana m.in. przez WHO, NCTSN i inne organizacje, stanowi standard reagowania w sytuacjach masowych - klęskach żywiołowych, aktach terroru, wypadkach i katastrofach przemysłowych.
 
-PPP **nie jest terapią** — to humanitarna, ludzka interwencja skierowana na zaspokojenie podstawowych potrzeb i przywrócenie poczucia bezpieczeństwa.
+PPP **nie jest terapią** - to humanitarna, ludzka interwencja skierowana na zaspokojenie podstawowych potrzeb i przywrócenie poczucia bezpieczeństwa.
 
 ---
 
 ## Osiem komponentów PFA (NCTSN/NCPTSD)
 
-1. **Kontakt i zaangażowanie** — nawiązanie relacji w sposób spokojny, nieintruzywy, pełen szacunku
-2. **Bezpieczeństwo i komfort** — zapewnienie fizycznego bezpieczeństwa, informacji i podstawowych potrzeb (woda, ciepło, schronienie)
-3. **Stabilizacja** — uspokojenie osób przytłoczonych emocjami, przywrócenie zdolności do funkcjonowania
-4. **Zbieranie informacji** — zrozumienie aktualnych potrzeb, trosk i priorytetów osoby
-5. **Praktyczna pomoc** — konkretne działania adresujące bezpośrednie potrzeby (np. kontakt z rodziną)
-6. **Połączenie ze wsparciem społecznym** — ułatwienie kontaktu z bliskimi, społecznością, grupami wsparcia
-7. **Informacje na temat radzenia sobie ze stresem** — normalizacja reakcji, psychoedukacja
-8. **Połączenie z dalszymi usługami** — przekierowanie do specjalistycznej pomocy, jeśli potrzebna
+1. **Kontakt i zaangażowanie** - nawiązanie relacji w sposób spokojny, nieintruzywy, pełen szacunku
+2. **Bezpieczeństwo i komfort** - zapewnienie fizycznego bezpieczeństwa, informacji i podstawowych potrzeb (woda, ciepło, schronienie)
+3. **Stabilizacja** - uspokojenie osób przytłoczonych emocjami, przywrócenie zdolności do funkcjonowania
+4. **Zbieranie informacji** - zrozumienie aktualnych potrzeb, trosk i priorytetów osoby
+5. **Praktyczna pomoc** - konkretne działania adresujące bezpośrednie potrzeby (np. kontakt z rodziną)
+6. **Połączenie ze wsparciem społecznym** - ułatwienie kontaktu z bliskimi, społecznością, grupami wsparcia
+7. **Informacje na temat radzenia sobie ze stresem** - normalizacja reakcji, psychoedukacja
+8. **Połączenie z dalszymi usługami** - przekierowanie do specjalistycznej pomocy, jeśli potrzebna
 
 ---
 
@@ -57,7 +57,7 @@ PPP jest przeznaczona dla:
 
 ## PPP a debriefing psychologiczny
 
-Przez lata powszechnie stosowany był **debriefing psychologiczny** (CISD) — ustrukturyzowana rozmowa grupowa w 24–72 h po zdarzeniu, wymagająca opowiadania o przeżyciach. Badania wykazały jednak, że może on **podnosić ryzyko PTSD** u niektórych osób. PPP zastąpiła debriefing jako bardziej bezpieczna i skuteczna alternatywa.
+Przez lata powszechnie stosowany był **debriefing psychologiczny** (CISD) - ustrukturyzowana rozmowa grupowa w 24–72 h po zdarzeniu, wymagająca opowiadania o przeżyciach. Badania wykazały jednak, że może on **podnosić ryzyko PTSD** u niektórych osób. PPP zastąpiła debriefing jako bardziej bezpieczna i skuteczna alternatywa.
 
 ---
 

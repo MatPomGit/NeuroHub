@@ -8,11 +8,11 @@ evidenceCutoffDate: 2025-12-31
 
 ## Dlaczego klasyfikacja gier jest ważna?
 
-Gry wideo, podobnie jak filmy czy programy telewizyjne, zawierają treści o bardzo zróżnicowanym charakterze — od bajek dla niemowląt po gry pełne brutalnej przemocy, treści seksualnych lub hazardu. Systemy klasyfikacji wiekowej i oceny treści gier powstały jako odpowiedź na potrzebę informowania rodziców o tym, co zawierają gry, i ochrony dzieci przed nieodpowiednimi treściami. Psychologia odgrywa w tym kontekście podwójną rolę: dostarcza podstaw naukowych dla decyzji klasyfikacyjnych i bada skuteczność systemów klasyfikacji.
+Gry wideo, podobnie jak filmy czy programy telewizyjne, zawierają treści o bardzo zróżnicowanym charakterze - od bajek dla niemowląt po gry pełne brutalnej przemocy, treści seksualnych lub hazardu. Systemy klasyfikacji wiekowej i oceny treści gier powstały jako odpowiedź na potrzebę informowania rodziców o tym, co zawierają gry, i ochrony dzieci przed nieodpowiednimi treściami. Psychologia odgrywa w tym kontekście podwójną rolę: dostarcza podstaw naukowych dla decyzji klasyfikacyjnych i bada skuteczność systemów klasyfikacji.
 
 > **Fakt:** Systemy klasyfikacji gier powstały w dużej mierze jako reakcja na kontrowersje wokół gier z lat 90., takich jak *Mortal Kombat* i *Night Trap*, które pokazywały brutalną przemoc i treści seksualne bez jakichkolwiek ostrzeżeń dla konsumentów.
 
-## System PEGI — Pan European Game Information
+## System PEGI - Pan European Game Information
 
 **PEGI** (Pan European Game Information) to europejski system klasyfikacji gier, obowiązujący w Polsce i 38 innych krajach europejskich. Działa od 2003 roku pod patronatem Interactive Software Federation of Europe (ISFE).
 
@@ -28,7 +28,7 @@ PEGI wyróżnia pięć kategorii wiekowych:
 
 ### Deskryptory treści PEGI
 
-Oprócz kategorii wiekowej, system PEGI stosuje **deskryptory** — ikony ostrzegające o konkretnych typach treści:
+Oprócz kategorii wiekowej, system PEGI stosuje **deskryptory** - ikony ostrzegające o konkretnych typach treści:
 
 - Przemoc
 - Wulgarny język
@@ -41,7 +41,7 @@ Oprócz kategorii wiekowej, system PEGI stosuje **deskryptory** — ikony ostrze
 
 Deskryptor „Zakupy w grze" został dodany w 2018 roku w odpowiedzi na rosnącą popularność mikrotransakcji i loot boxów w grach kierowanych do dzieci.
 
-## System ESRB — Entertainment Software Rating Board
+## System ESRB - Entertainment Software Rating Board
 
 **ESRB** (Entertainment Software Rating Board) to północnoamerykański system klasyfikacji gier, obowiązujący w USA i Kanadzie. Działa od 1994 roku i jest dobrowolnym systemem samoregulacji branży.
 
@@ -67,11 +67,11 @@ ESRB stosuje ponad 30 deskryptorów, m.in.:
 - Real Gambling (prawdziwy hazard)
 - In-Game Purchases (zakupy w grze)
 
-> **Fakt:** Gry z ratingiem AO (Adults Only) są praktycznie nieobecne w sprzedaży — główne sieci handlowe (GameStop, Walmart) oraz konsole (PlayStation, Xbox, Nintendo) odmawiają ich dystrybucji. Deweloperzy zazwyczaj modyfikują gry, by uniknąć ratingu AO.
+> **Fakt:** Gry z ratingiem AO (Adults Only) są praktycznie nieobecne w sprzedaży - główne sieci handlowe (GameStop, Walmart) oraz konsole (PlayStation, Xbox, Nintendo) odmawiają ich dystrybucji. Deweloperzy zazwyczaj modyfikują gry, by uniknąć ratingu AO.
 
 ## Polskie prawo a klasyfikacja gier
 
-W Polsce system PEGI nie ma charakteru prawnie obowiązkowego — jest dobrowolnym systemem samoregulacji branży. Niemniej:
+W Polsce system PEGI nie ma charakteru prawnie obowiązkowego - jest dobrowolnym systemem samoregulacji branży. Niemniej:
 
 - **Ustawa o ochronie nieletnich** zobowiązuje sprzedawców do niesprzedawania gier oznaczonych PEGI 18 osobom poniżej 18. roku życia
 - **Kodeks karny** penalizuje udostępnianie treści pornograficznych i treści gloryfikujących przemoc wobec dzieci
@@ -79,13 +79,13 @@ W Polsce system PEGI nie ma charakteru prawnie obowiązkowego — jest dobrowoln
 
 Polska jest sygnatariuszem europejskiego kodeksu PEGI, co oznacza zobowiązanie branży gamingowej do stosowania oznakowania PEGI. W praktyce przestrzeganie tych norm jest nierówne, szczególnie w przypadku sprzedaży online i platform cyfrowych.
 
-## Loot boxy — kwestia klasyfikacji hazardu
+## Loot boxy - kwestia klasyfikacji hazardu
 
 Kontrowersja dotycząca loot boxów (skrzynek z losową zawartością) jest jednym z najbardziej aktualnych problemów klasyfikacyjnych:
 
 ### Czym są loot boxy?
 
-Loot boxy to płatne mikrotransakcje w grach, oferujące losową zawartość (wirtualne przedmioty, postaci, stroje). Gracz płaci realne pieniądze, nie wiedząc, co otrzyma — mechanizm zbliżony do loterii lub automatów do gry.
+Loot boxy to płatne mikrotransakcje w grach, oferujące losową zawartość (wirtualne przedmioty, postaci, stroje). Gracz płaci realne pieniądze, nie wiedząc, co otrzyma - mechanizm zbliżony do loterii lub automatów do gry.
 
 ### Kontrowersje dotyczące klasyfikacji jako hazard
 
@@ -116,9 +116,9 @@ Badania wskazują na istotną lukę między klasyfikacją a rzeczywistym dostęp
 - Główne źródło dostępu: rodzice kupujący gry dziecku lub nie monitorujący zakupów online
 - Dystrybucja cyfrowa (Steam, App Store) jest trudniejsza do kontrolowania niż sprzedaż fizyczna
 
-> **Fakt:** Eksperyment FTC (Federal Trade Commission) w USA wykazał, że sprzedawcy cyfrowi sprzedawali gry M-rated (dla dorosłych) 13-letnim dzieciom w 87% przypadków prób zakupu online — znacznie częściej niż w sklepach fizycznych.
+> **Fakt:** Eksperyment FTC (Federal Trade Commission) w USA wykazał, że sprzedawcy cyfrowi sprzedawali gry M-rated (dla dorosłych) 13-letnim dzieciom w 87% przypadków prób zakupu online - znacznie częściej niż w sklepach fizycznych.
 
-## Przykład kliniczny — rola klasyfikacji w pracy klinicznej
+## Przykład kliniczny - rola klasyfikacji w pracy klinicznej
 
 **Przypadek rodziców Szymona, 10 lat:**
 

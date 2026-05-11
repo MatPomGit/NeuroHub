@@ -18,7 +18,7 @@ Program CBT ukierunkowany na myślenie antyspołeczne, z treningiem zachowań al
 Nadmierna intensywność wobec osób niskiego ryzyka. Konsekwencja: iatrogenny wzrost ryzyka przez kontakt z grupą wysokiego ryzyka.
 
 ## Perspektywa nieoczywista
-Nieoczywiste: „więcej interwencji” nie zawsze znaczy „lepiej” — liczy się dopasowanie.
+Nieoczywiste: „więcej interwencji” nie zawsze znaczy „lepiej” - liczy się dopasowanie.
 
 ## Implikacje praktyczne
 ### Dla specjalistów

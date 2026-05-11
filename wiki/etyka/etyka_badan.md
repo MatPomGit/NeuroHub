@@ -6,16 +6,16 @@ evidenceCutoffDate: 2025-12-31
 
 # Etyka badań naukowych w psychologii
 
-Etyka badań naukowych reguluje sposób, w jaki psychologowie projektują i przeprowadzają badania. Jej naruszenia — od historycznych skandali po współczesne problemy z integralnością danych — ukształtowały szeroki zestaw norm, procedur i instytucji mających chronić uczestników i wiarygodność nauki.
+Etyka badań naukowych reguluje sposób, w jaki psychologowie projektują i przeprowadzają badania. Jej naruszenia - od historycznych skandali po współczesne problemy z integralnością danych - ukształtowały szeroki zestaw norm, procedur i instytucji mających chronić uczestników i wiarygodność nauki.
 
 ## Historia: skandale, które zmieniły naukę
 
 ### Eksperyment Milgrama (1961–1963)
 
-Stanley Milgram badał posłuszeństwo wobec autorytetu. Uczestnicy wierzyli, że zadają bolesne wstrząsy elektryczne innej osobie na polecenie eksperymentatora. Wyniki były wstrząsające — 65% uczestników zadało maksymalną dawkę (450 V). Badanie ujawniło mroczny aspekt natury ludzkiej, ale jego etyczny wymiar był równie problematyczny:
+Stanley Milgram badał posłuszeństwo wobec autorytetu. Uczestnicy wierzyli, że zadają bolesne wstrząsy elektryczne innej osobie na polecenie eksperymentatora. Wyniki były wstrząsające - 65% uczestników zadało maksymalną dawkę (450 V). Badanie ujawniło mroczny aspekt natury ludzkiej, ale jego etyczny wymiar był równie problematyczny:
 
-- **Brak pełnej świadomej zgody** — uczestnicy nie wiedzieli, na czym naprawdę polega badanie
-- **Silny stres psychologiczny** — uczestnicy płakali, drżeli, protestowali
+- **Brak pełnej świadomej zgody** - uczestnicy nie wiedzieli, na czym naprawdę polega badanie
+- **Silny stres psychologiczny** - uczestnicy płakali, drżeli, protestowali
 - **Brak możliwości wycofania się** (eksperymentator naciskał: *„Proszę kontynuować"*)
 - Późniejszy debriefing zmniejszył szkodę, ale jej nie eliminował
 
@@ -24,11 +24,11 @@ Stanley Milgram badał posłuszeństwo wobec autorytetu. Uczestnicy wierzyli, ż
 Philip Zimbardo podzielił ochotników na „strażników" i „więźniów" w symulowanym więzieniu. Po kilku dniach „strażnicy" stosowali psychiczne znęcanie się. Zimbardo przerwał eksperyment po 6 z planowanych 14 dniach.
 
 Problemy etyczne:
-- Brak niezależnego nadzoru — Zimbardo sam był „naczelnikiem więzienia"
+- Brak niezależnego nadzoru - Zimbardo sam był „naczelnikiem więzienia"
 - Eskalacja przemocy była obserwowana i tolerowana zbyt długo
 - Późniejsze rewizje (Le Texier, 2019) wykazały, że „strażnicy" byli instruowani, by być brutalnymi
 
-Oba badania stały się ikonami etyki badań — przykładami tego, czego nie wolno powtórzyć.
+Oba badania stały się ikonami etyki badań - przykładami tego, czego nie wolno powtórzyć.
 
 ## Deklaracja Helsińska i regulacje międzynarodowe
 
@@ -62,20 +62,20 @@ W badaniach z dziećmi, osobami z demencją lub w ostrej fazie psychotycznej pe�
 ## Debriefing
 
 **Debriefing** (omówienie po badaniu) to procedura przeprowadzana po sesji eksperymentalnej, gdy:
-- Stosowano **dezinformację** (*deception*) — ujawnia prawdziwy cel i metody
-- Badanie miało potencjalnie stresujące elementy — zapewnia wsparcie i kontekst
+- Stosowano **dezinformację** (*deception*) - ujawnia prawdziwy cel i metody
+- Badanie miało potencjalnie stresujące elementy - zapewnia wsparcie i kontekst
 - Uczestnik może mieć pytania lub obawy
 
 Dobry debriefing:
 1. Ujawnia wszystkie ukryte elementy badania
 2. Wyjaśnia naukowy cel i konieczność dezinformacji
 3. Sprawdza stan emocjonalny uczestnika
-4. Daje możliwość wycofania danych (w Polsce — trudne regulacyjnie, ale etycznie wskazane)
+4. Daje możliwość wycofania danych (w Polsce - trudne regulacyjnie, ale etycznie wskazane)
 5. Podaje kontakt w razie dalszych pytań
 
 ## Dezinformacja w badaniach (*deception*)
 
-Dezinformacja jest etycznie problematyczna, ale czasem niezbędna — pełna wiedza uczestnika o hipotezie falsyfikowałaby wyniki (reaktywność, efekt społecznej pożądalności).
+Dezinformacja jest etycznie problematyczna, ale czasem niezbędna - pełna wiedza uczestnika o hipotezie falsyfikowałaby wyniki (reaktywność, efekt społecznej pożądalności).
 
 ### Warunki dopuszczalności dezinformacji (APA, 2017)
 
@@ -91,14 +91,14 @@ Przykład niedopuszczalny: dezinformacja prowadząca do silnego dystresu emocjon
 
 ### Rozróżnienie kluczowe
 
-- **Anonimowość** — dane nie zawierają żadnych identyfikatorów umożliwiających identyfikację uczestnika; nie jest możliwe powiązanie danych z osobą nawet przez badacza
-- **Poufność** — badacz zna tożsamość, ale zobowiązuje się do nieujawniania powiązań
+- **Anonimowość** - dane nie zawierają żadnych identyfikatorów umożliwiających identyfikację uczestnika; nie jest możliwe powiązanie danych z osobą nawet przez badacza
+- **Poufność** - badacz zna tożsamość, ale zobowiązuje się do nieujawniania powiązań
 
 ### RODO w badaniach psychologicznych
 
 **Rozporządzenie RODO** (GDPR, 2018) nakłada na badaczy obowiązki:
 - Podstawa prawna przetwarzania danych (zgoda lub uzasadniony interes naukowy)
-- Minimalizacja danych — zbieraj tylko to, co niezbędne
+- Minimalizacja danych - zbieraj tylko to, co niezbędne
 - Ograniczenie czasu przechowywania
 - Pseudoanonimizacja i szyfrowanie
 - Prawa uczestnika: dostęp, korekta, usunięcie
@@ -108,16 +108,16 @@ Przykład niedopuszczalny: dezinformacja prowadząca do silnego dystresu emocjon
 ### Kryzys replikacji w psychologii
 
 Projekt Replikacji Otwartej Nauki (*Open Science Collaboration*, 2015) wykazał, że tylko **36–39% efektów** z prestiżowych badań psychologicznych udało się replikować. Wywołało to debatę o:
-- Selektywnym raportowaniu wyników (*HARKing* — Hypothesizing After Results are Known)
-- *P-hackingu* — manipulacji analizą danych w celu uzyskania p < .05
+- Selektywnym raportowaniu wyników (*HARKing* - Hypothesizing After Results are Known)
+- *P-hackingu* - manipulacji analizą danych w celu uzyskania p < .05
 - Niskiej mocy statystycznej badań (*underpowered studies*)
 
 ### Open Science jako odpowiedź
 
 Ruch **Open Science** propaguje:
-- **Preregistrację** — rejestrację hipotez i planu analiz **przed** zbieraniem danych
-- **Open data** — publiczne udostępnianie surowych danych
-- **Open materials** — udostępnianie narzędzi i procedur
+- **Preregistrację** - rejestrację hipotez i planu analiz **przed** zbieraniem danych
+- **Open data** - publiczne udostępnianie surowych danych
+- **Open materials** - udostępnianie narzędzi i procedur
 - **Replikacje** jako wartościowe publikacje, nie tylko nowości
 
 ## Komitety etyki badań (KEB)

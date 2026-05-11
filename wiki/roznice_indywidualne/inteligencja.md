@@ -6,7 +6,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Inteligencja
 
-Psychologiczne koncepcje inteligencji — od czynnika *g* Spearmana po modele hierarchiczne i teorie wielorakie.
+Psychologiczne koncepcje inteligencji - od czynnika *g* Spearmana po modele hierarchiczne i teorie wielorakie.
 
 ## Czym jest inteligencja?
 
@@ -16,14 +16,14 @@ Psychologiczne koncepcje inteligencji — od czynnika *g* Spearmana po modele hi
 
 ## Czynnik *g* Spearmana
 
-Charles Spearman (1904) zauważył, że wyniki różnych testów poznawczych **korelują dodatnio** — osoby lepsze w jednym zadaniu są zwykle lepsze i w innych. Wnioskował o istnieniu **czynnika g** (ogólna zdolność umysłowa), który odzwierciedla zdolność do abstrakcyjnego wnioskowania i uczenia się. Obok *g* wyodrębnił czynniki specyficzne (*s*).
+Charles Spearman (1904) zauważył, że wyniki różnych testów poznawczych **korelują dodatnio** - osoby lepsze w jednym zadaniu są zwykle lepsze i w innych. Wnioskował o istnieniu **czynnika g** (ogólna zdolność umysłowa), który odzwierciedla zdolność do abstrakcyjnego wnioskowania i uczenia się. Obok *g* wyodrębnił czynniki specyficzne (*s*).
 
 ## Model CHC (Cattell-Horn-Carroll)
 
-**Model CHC** jest dominującą hierarchiczną teorią inteligencji. Wyróżnia trzy warstwy: czynnik g (warstwa III), kilkanaście szerokich zdolności (warstwa II — *Gf, Gc, Gsm, Glr, Gv, Ga, Gs, Gq*) i setki wąskich zdolności (warstwa I). Kluczowe szerokie zdolności:
+**Model CHC** jest dominującą hierarchiczną teorią inteligencji. Wyróżnia trzy warstwy: czynnik g (warstwa III), kilkanaście szerokich zdolności (warstwa II - *Gf, Gc, Gsm, Glr, Gv, Ga, Gs, Gq*) i setki wąskich zdolności (warstwa I). Kluczowe szerokie zdolności:
 
-- **Gf** (inteligencja płynna) — rozumowanie indukcyjne i dedukcyjne, abstrakcja, niezależna od doświadczenia;
-- **Gc** (inteligencja skrystalizowana) — wiedza ogólna i słownictwo, rośnie przez całe życie;
+- **Gf** (inteligencja płynna) - rozumowanie indukcyjne i dedukcyjne, abstrakcja, niezależna od doświadczenia;
+- **Gc** (inteligencja skrystalizowana) - wiedza ogólna i słownictwo, rośnie przez całe życie;
 - **Gsm** (pamięć robocza), **Gs** (szybkość przetwarzania).
 
 ## Teoria wielorakich inteligencji Gardnera

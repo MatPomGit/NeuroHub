@@ -8,7 +8,7 @@ evidenceCutoffDate: 2025-12-31
 
 ## Wprowadzenie
 
-DDA (Dorosłe Dzieci Alkoholików) to osoby, które dorastały w rodzinie z problemem alkoholowym i często wyniosły z tego środowiska specyficzne wzorce regulacji emocji, granic i relacji. W dorosłości wzorce te mogą wpływać także na seksualność — zarówno w obszarze pożądania, jak i bliskości, zaufania czy poczucia bezpieczeństwa.
+DDA (Dorosłe Dzieci Alkoholików) to osoby, które dorastały w rodzinie z problemem alkoholowym i często wyniosły z tego środowiska specyficzne wzorce regulacji emocji, granic i relacji. W dorosłości wzorce te mogą wpływać także na seksualność - zarówno w obszarze pożądania, jak i bliskości, zaufania czy poczucia bezpieczeństwa.
 
 Ważne: DDA nie jest formalną diagnozą psychiatryczną, lecz użytecznym opisem doświadczeń rozwojowych i ich długofalowych skutków.
 
@@ -60,7 +60,7 @@ Znane z dzieciństwa dynamiki (chaos, niedostępność emocjonalna, kontrola) by
 - seks „dla świętego spokoju” zamiast z autentycznej potrzeby,
 - szybkie przechodzenie od idealizacji do rozczarowania.
 
-To wzorce modyfikowalne — nie „wyrok na relacje”.
+To wzorce modyfikowalne - nie „wyrok na relacje”.
 
 ---
 

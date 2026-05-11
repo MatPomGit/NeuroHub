@@ -8,7 +8,7 @@ evidenceCutoffDate: 2025-12-31
 
 ## Wprowadzenie
 
-Uzależnienie przez długi czas rozumiano przede wszystkim jako słabość woli lub problem moralny. Przełom w rozumieniu nałogu przyniosło stopniowe mapowanie mózgowych podstaw motywacji i nagrody. Dziś wiemy, że uzależnienie to **choroba mózgu** — przewlekła, nawracająca, polegająca na patologicznych zmianach w obwodach neuronalnych odpowiedzialnych za nagradzanie, uczenie się, kontrolę impulsów i regulację emocji. Pionierkami tego podejścia są Nora Volkow i George Koob.
+Uzależnienie przez długi czas rozumiano przede wszystkim jako słabość woli lub problem moralny. Przełom w rozumieniu nałogu przyniosło stopniowe mapowanie mózgowych podstaw motywacji i nagrody. Dziś wiemy, że uzależnienie to **choroba mózgu** - przewlekła, nawracająca, polegająca na patologicznych zmianach w obwodach neuronalnych odpowiedzialnych za nagradzanie, uczenie się, kontrolę impulsów i regulację emocji. Pionierkami tego podejścia są Nora Volkow i George Koob.
 
 ---
 
@@ -19,20 +19,20 @@ Uzależnienie przez długi czas rozumiano przede wszystkim jako słabość woli 
 Kluczowym substratem neurobiologicznym uzależnienia jest **mezolimbiczny szlak dopaminowy** (*mesolimbic dopamine pathway*), nazywany też układem nagrody (*reward system*):
 
 - Neurony dopaminergiczne zlokalizowane w **brzusznym obszarze nakrywki** (*Ventral Tegmental Area*, VTA)
-- Projekcje do **jądra półleżącego** (*nucleus accumbens*, NAcc) — centrum nagrody
+- Projekcje do **jądra półleżącego** (*nucleus accumbens*, NAcc) - centrum nagrody
 - Dalsze projekcje do **kory przedczołowej** (*prefrontal cortex*, PFC), **ciała migdałowatego** (*amygdala*) i **hipokampa**
 
 ### Rola dopaminy
 
-Dopamina jest neuroprzekaźnikiem **predykcji nagrody i motywacji** — nie tyle przyjemności samej w sobie, co sygnałem „to warto powtórzyć". Schultz i współpracownicy (1997) wykazali, że neurony dopaminergiczne:
+Dopamina jest neuroprzekaźnikiem **predykcji nagrody i motywacji** - nie tyle przyjemności samej w sobie, co sygnałem „to warto powtórzyć". Schultz i współpracownicy (1997) wykazali, że neurony dopaminergiczne:
 
 1. Odpowiadają na **nieoczekiwaną nagrodę** (peak dopamine release)
-2. Z czasem uczenia się — przenoszą aktywność na **sygnał poprzedzający** nagrodę (cue)
-3. Generują **błąd predykcji nagrody** (*reward prediction error*): jeśli nagroda jest mniejsza niż oczekiwana — aktywność spada poniżej linii bazowej
+2. Z czasem uczenia się - przenoszą aktywność na **sygnał poprzedzający** nagrodę (cue)
+3. Generują **błąd predykcji nagrody** (*reward prediction error*): jeśli nagroda jest mniejsza niż oczekiwana - aktywność spada poniżej linii bazowej
 
 ---
 
-## Jądro półleżące — nucleus accumbens
+## Jądro półleżące - nucleus accumbens
 
 **Nucleus accumbens** (NAcc) jest centralnym węzłem układu nagrody. Wyróżnia się dwa subregiony:
 
@@ -41,7 +41,7 @@ Dopamina jest neuroprzekaźnikiem **predykcji nagrody i motywacji** — nie tyle
 | **Core** (rdzeń) | Uczenie się nagrody, warunkowanie pawłowowskie |
 | **Shell** (powłoka) | Nowość, salience, regulacja motywacyjna |
 
-Substancje psychoaktywne i zachowania nagradzające powodują gwałtowne wyrzuty dopaminy w NAcc — wielokrotnie wyższe niż naturalne nagrody (jedzenie, seks). Powtarzana ekspozycja prowadzi do adaptacji układu.
+Substancje psychoaktywne i zachowania nagradzające powodują gwałtowne wyrzuty dopaminy w NAcc - wielokrotnie wyższe niż naturalne nagrody (jedzenie, seks). Powtarzana ekspozycja prowadzi do adaptacji układu.
 
 ---
 
@@ -49,15 +49,15 @@ Substancje psychoaktywne i zachowania nagradzające powodują gwałtowne wyrzuty
 
 ### Tolerancja
 
-Przy powtarzanej ekspozycji na substancję układ dopaminowy **downreguluje** receptory D2 w NAcc — zmniejsza się liczba receptorów lub ich wrażliwość. Efektem jest:
+Przy powtarzanej ekspozycji na substancję układ dopaminowy **downreguluje** receptory D2 w NAcc - zmniejsza się liczba receptorów lub ich wrażliwość. Efektem jest:
 
 - Osłabienie odpowiedzi na standardową dawkę
 - Potrzeba zwiększenia dawki dla uzyskania tego samego efektu
-- Ogólna anhedonia — naturalne nagrody przestają być satysfakcjonujące
+- Ogólna anhedonia - naturalne nagrody przestają być satysfakcjonujące
 
 ### Sensitizacja behawioralna
 
-Paradoksalnie, równolegle z tolerancją na efekty subiektywne, obserwuje się **sensitizację behawioralną** — nasilenie reaktywności lokomotorycznej i odpowiedzi motywacyjnej na sygnały związane z substancją (cues). Oznacza to: substancja sprawia coraz mniej przyjemności, lecz głód wywoływany przez bodźce środowiskowe jest coraz silniejszy. To wyjaśnia nawrót po długim okresie abstynencji.
+Paradoksalnie, równolegle z tolerancją na efekty subiektywne, obserwuje się **sensitizację behawioralną** - nasilenie reaktywności lokomotorycznej i odpowiedzi motywacyjnej na sygnały związane z substancją (cues). Oznacza to: substancja sprawia coraz mniej przyjemności, lecz głód wywoływany przez bodźce środowiskowe jest coraz silniejszy. To wyjaśnia nawrót po długim okresie abstynencji.
 
 ---
 
@@ -67,13 +67,13 @@ Długotrwałe używanie substancji powoduje **trwałe zmiany strukturalne i funk
 
 ### Zmiany synaptyczne
 
-- **ΔFosB** — białko transkrypcyjne gromadzące się w NAcc przy przewlekłej ekspozycji; aktywuje geny odpowiedzialne za plastyczność synaptyczną i zwiększa craving
+- **ΔFosB** - białko transkrypcyjne gromadzące się w NAcc przy przewlekłej ekspozycji; aktywuje geny odpowiedzialne za plastyczność synaptyczną i zwiększa craving
 - Zmiana proporcji receptorów AMPA do NMDA w NAcc: tzw. **„ciche synapsy"** tworzą mocniejsze enkody pamięci narkotykowej
 - Reorganizacja dendrytyczna w PFC i ciele migdałowatym
 
 ### Zmiany w myelinizacji
 
-Badania neuroobrazowe wykazują zmniejszenie gęstości istoty białej w drogach łączących PFC z układem limbicznym — co koreluje z osłabioną kontrolą impulsów.
+Badania neuroobrazowe wykazują zmniejszenie gęstości istoty białej w drogach łączących PFC z układem limbicznym - co koreluje z osłabioną kontrolą impulsów.
 
 ---
 
@@ -81,11 +81,11 @@ Badania neuroobrazowe wykazują zmniejszenie gęstości istoty białej w drogach
 
 Kora przedczołowa (*prefrontal cortex*, PFC) pełni funkcję **górnej regulacji** (*top-down control*) nad impulsami z układu limbicznego:
 
-- **Orbitofronto-kora** (OFC) — wycena nagrody, elastyczność zachowania, decyzje oparte na wartościach
-- **Przednia kora zakrętu obręczy** (ACC) — monitoring błędów, detekcja konfliktu
-- **Grzbietowo-boczna PFC** (dlPFC) — planowanie, hamowanie impulsów, pamięć robocza
+- **Orbitofronto-kora** (OFC) - wycena nagrody, elastyczność zachowania, decyzje oparte na wartościach
+- **Przednia kora zakrętu obręczy** (ACC) - monitoring błędów, detekcja konfliktu
+- **Grzbietowo-boczna PFC** (dlPFC) - planowanie, hamowanie impulsów, pamięć robocza
 
-W uzależnieniu aktywność PFC jest **trwale obniżona** — szczególnie w odpowiedzi na narkotykowe cues i podczas podejmowania decyzji. To wyjaśnia osłabioną kontrolę wolicjonalną charakterystyczną dla uzależnienia.
+W uzależnieniu aktywność PFC jest **trwale obniżona** - szczególnie w odpowiedzi na narkotykowe cues i podczas podejmowania decyzji. To wyjaśnia osłabioną kontrolę wolicjonalną charakterystyczną dla uzależnienia.
 
 ---
 
@@ -101,8 +101,8 @@ Nora Volkow i George Koob rozwinęli **neurobiologiczny model choroby uzależnie
 ### 2. Withdrawal/Negative Affect (abstynencja/negatywny afekt)
 
 - Zmniejszona aktywność dopaminergiczna w NAcc (dysphoria, anhedonia)
-- Aktywacja osi stresu (CRF, kortyzol) — uczucie niepokoju, drażliwości
-- Aktywacja ciała migdałowatego — lęk i awersja
+- Aktywacja osi stresu (CRF, kortyzol) - uczucie niepokoju, drażliwości
+- Aktywacja ciała migdałowatego - lęk i awersja
 
 ### 3. Preoccupation/Anticipation (preokupacja/anticipacja)
 
@@ -131,17 +131,17 @@ Model ten stanowi podstawę dla farmakoterapii:
 
 ## Implikacje kliniczne
 
-1. **Destigmatyzacja** — uzależnienie jest chorobą mózgu, nie wadą charakteru; ważne dla terapii i nastawienia terapeuty
-2. **Nawroty** — są neurologicznie przewidywalne (sensitizacja cue-reaktywności) i nie oznaczają porażki leczenia
-3. **Czas abstynencji a neuroplastyczność** — mózg ma zdolność do częściowej regeneracji; zmiany w gęstości D2 i funkcjach PFC poprawiają się po miesiącach abstynencji
-4. **Farmakoterapia** — wiedza neurobiologiczna uzasadnia stosowanie leków: naltrekson, akamprozat, buprenorfina, metadon
-5. **Podwójna diagnoza** — neurobiologiczne nakładanie się uzależnień i zaburzeń psychicznych (ADHD, depresja) wymaga jednoczesnego leczenia obu
+1. **Destigmatyzacja** - uzależnienie jest chorobą mózgu, nie wadą charakteru; ważne dla terapii i nastawienia terapeuty
+2. **Nawroty** - są neurologicznie przewidywalne (sensitizacja cue-reaktywności) i nie oznaczają porażki leczenia
+3. **Czas abstynencji a neuroplastyczność** - mózg ma zdolność do częściowej regeneracji; zmiany w gęstości D2 i funkcjach PFC poprawiają się po miesiącach abstynencji
+4. **Farmakoterapia** - wiedza neurobiologiczna uzasadnia stosowanie leków: naltrekson, akamprozat, buprenorfina, metadon
+5. **Podwójna diagnoza** - neurobiologiczne nakładanie się uzależnień i zaburzeń psychicznych (ADHD, depresja) wymaga jednoczesnego leczenia obu
 
 ---
 
 ## Podsumowanie
 
-Neurobiologia uzależnień ujawnia, że nałóg jest głęboko zakorzeniony w obwodach neuronalnych odpowiedzialnych za przeżycie i uczenie się. Substancje psychoaktywne „przejmują" ewolucyjnie stare mechanizmy nagrody, pozostawiając trwałe ślady w strukturze i funkcji mózgu. Ta wiedza nie determinizuje ani nie usprawiedliwia — ale tworzy fundament dla skutecznej, opartej na dowodach terapii.
+Neurobiologia uzależnień ujawnia, że nałóg jest głęboko zakorzeniony w obwodach neuronalnych odpowiedzialnych za przeżycie i uczenie się. Substancje psychoaktywne „przejmują" ewolucyjnie stare mechanizmy nagrody, pozostawiając trwałe ślady w strukturze i funkcji mózgu. Ta wiedza nie determinizuje ani nie usprawiedliwia - ale tworzy fundament dla skutecznej, opartej na dowodach terapii.
 
 ---
 

@@ -6,16 +6,16 @@ evidenceCutoffDate: 2025-12-31
 
 # Etyka badań naukowych w psychologii
 
-Prowadzenie badań naukowych wiąże się z odpowiedzialnością wobec uczestników, nauki i społeczeństwa. Naruszenia etyki badań — od braku świadomej zgody po fabrykację danych — mogą wyrządzić realne krzywdy i podważyć zaufanie do całej dyscypliny.
+Prowadzenie badań naukowych wiąże się z odpowiedzialnością wobec uczestników, nauki i społeczeństwa. Naruszenia etyki badań - od braku świadomej zgody po fabrykację danych - mogą wyrządzić realne krzywdy i podważyć zaufanie do całej dyscypliny.
 
 ## Fundamenty etyki badawczej
 
-Współczesne zasady etyki badań naukowych wywodzą się m.in. z historycznych nadużyć — eksperymentów medycznych w czasach nazizmu, badania Tuskegee czy Stanfordzkiego Eksperymentu Więziennego. W odpowiedzi na te zdarzenia sformułowano kluczowe dokumenty:
+Współczesne zasady etyki badań naukowych wywodzą się m.in. z historycznych nadużyć - eksperymentów medycznych w czasach nazizmu, badania Tuskegee czy Stanfordzkiego Eksperymentu Więziennego. W odpowiedzi na te zdarzenia sformułowano kluczowe dokumenty:
 
-- **Kodeks Norymberski (1947)** — dobrowolna zgoda jako bezwzględny wymóg
-- **Deklaracja Helsińska (1964, aktualizowana)** — standardy badań z udziałem ludzi
-- **Raport Belmonta (1979)** — trzy zasady: szacunek dla osób, dobroczynność, sprawiedliwość
-- **Kodeks Etyczny APA** — szczegółowe wytyczne dla psychologów
+- **Kodeks Norymberski (1947)** - dobrowolna zgoda jako bezwzględny wymóg
+- **Deklaracja Helsińska (1964, aktualizowana)** - standardy badań z udziałem ludzi
+- **Raport Belmonta (1979)** - trzy zasady: szacunek dla osób, dobroczynność, sprawiedliwość
+- **Kodeks Etyczny APA** - szczegółowe wytyczne dla psychologów
 
 ## Główne zasady etyki badań
 
@@ -55,10 +55,10 @@ Po badaniu, w którym zastosowano **deception** (oszustwo) lub były poruszane t
 ### 5. Specjalne środki ostrożności przy grupach wrażliwych
 
 Grupy wymagające dodatkowej troski:
-- **Dzieci i młodzież** — wymagana zgoda rodziców/opiekunów prawnych + zgoda dziecka (assent)
-- **Osoby z zaburzeniami psychicznymi lub intelektualnymi** — ocena zdolności do wyrażenia zgody
-- **Więźniowie i inne grupy pod przymusem** — szczególna dbałość o dobrowolność
-- **Osoby doświadczające kryzysu** — procedura bezpieczeństwa (np. screening suicydalności z planem działania)
+- **Dzieci i młodzież** - wymagana zgoda rodziców/opiekunów prawnych + zgoda dziecka (assent)
+- **Osoby z zaburzeniami psychicznymi lub intelektualnymi** - ocena zdolności do wyrażenia zgody
+- **Więźniowie i inne grupy pod przymusem** - szczególna dbałość o dobrowolność
+- **Osoby doświadczające kryzysu** - procedura bezpieczeństwa (np. screening suicydalności z planem działania)
 
 ## Komisja Etyczna (IRB / Bioethics Committee)
 
@@ -81,16 +81,16 @@ Wniosek do komisji etycznej zawiera: opis badania, formularz zgody, narzędzia, 
 | **Fałszowanie danych** | Manipulacja istniejącymi danymi w celu uzyskania oczekiwanych wyników |
 | **Plagiat** | Przywłaszczenie cudzych idei lub tekstu bez cytowania |
 | **p-hacking** | Wielokrotne testowanie analiz w celu uzyskania p < 0,05 |
-| **HARKing** | Hypothesizing After Results are Known — przedstawianie post-hoc hipotez jako a priori |
+| **HARKing** | Hypothesizing After Results are Known - przedstawianie post-hoc hipotez jako a priori |
 | **Selektywne raportowanie** | Publikowanie tylko pozytywnych wyników |
 | **Autoplagiat** | Ponowne publikowanie własnych materiałów bez wskazania |
 
 ### Dobre praktyki transparentności
 
 - **Preregistracja** hipotez i analiz (OSF, ClinicalTrials.gov)
-- **Open data** — udostępnianie anonimizowanych danych do weryfikacji
-- **Open materials** — udostępnianie kwestionariuszy i procedur
-- **Raportowanie wszystkich wyników** — nie tylko istotnych statystycznie
+- **Open data** - udostępnianie anonimizowanych danych do weryfikacji
+- **Open materials** - udostępnianie kwestionariuszy i procedur
+- **Raportowanie wszystkich wyników** - nie tylko istotnych statystycznie
 
 ## Specyfika badań online
 

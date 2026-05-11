@@ -4,7 +4,7 @@ reviewCycleMonths: 18
 evidenceCutoffDate: 2026-03-31
 ---
 
-# Psychologia religii — wprowadzenie
+# Psychologia religii - wprowadzenie
 
 ## Wprowadzenie i kontekst
 Psychologia religii bada, jak przekonania religijne, praktyki duchowe i relacje we wspólnocie wpływają na poznanie, emocje oraz zachowanie. Dyscyplina łączy metody psychologii społecznej, klinicznej i rozwojowej, a jej celem nie jest ocena prawdziwości doktryn, lecz opis mechanizmów psychicznych. We współczesnych badaniach coraz wyraźniej widać, że religijność nie działa jako jednorodny czynnik: jej wpływ zależy od jakości relacji, typu praktyk i kontekstu kulturowego.

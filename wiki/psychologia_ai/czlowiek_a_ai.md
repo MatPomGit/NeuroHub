@@ -10,9 +10,9 @@ evidenceCutoffDate: 2025-12-31
 
 Interakcja człowiek-AI (Human-AI Interaction, HAI) to dynamiczny obszar badań zajmujący się tym, w jaki sposób ludzie komunikują się z systemami sztucznej inteligencji, jak te systemy na nich wpływają i jak można projektować AI tak, by relacja ta była efektywna, bezpieczna i korzystna dla użytkownika. Jest to poszerzone ujęcie klasycznej dziedziny interakcji człowiek-komputer (HCI), uwzględniające specyficzne właściwości systemów AI: autonomię, uczenie się, nieprzewidywalność i zdolność do prowadzenia dialogu.
 
-Interakcja z AI różni się fundamentalnie od interakcji z tradycznym oprogramowaniem. Klasyczne programy wykonują dokładnie to, co im każe użytkownik; systemy AI posiadają własną „agencję" — podejmują decyzje, uczą się na błędach i potrafią zaskakiwać.
+Interakcja z AI różni się fundamentalnie od interakcji z tradycznym oprogramowaniem. Klasyczne programy wykonują dokładnie to, co im każe użytkownik; systemy AI posiadają własną „agencję" - podejmują decyzje, uczą się na błędach i potrafią zaskakiwać.
 
-> **Fakt:** Badania firmy Google z 2022 roku wykazały, że użytkownicy asystentów głosowych w ciągu pierwszego roku używania znacząco zmieniają swoje wzorce komunikacji — skracają zdania, mówią bardziej imperatywnie i częściej używają słów kluczowych niż pełnych zdań.
+> **Fakt:** Badania firmy Google z 2022 roku wykazały, że użytkownicy asystentów głosowych w ciągu pierwszego roku używania znacząco zmieniają swoje wzorce komunikacji - skracają zdania, mówią bardziej imperatywnie i częściej używają słów kluczowych niż pełnych zdań.
 
 ## Modalności interakcji
 
@@ -20,15 +20,15 @@ Współczesna interakcja człowiek-AI przyjmuje wiele form, a każda z nich nies
 
 ### Interfejsy głosowe
 
-Asystenci głosowi — Siri, Alexa, Google Assistant, Cortana — zmieniają sposób, w jaki ludzie myślą o komunikacji z maszyną. Głos jest najbardziej naturalnym medium komunikacji, co powoduje, że użytkownicy szybciej przypisują asystentom cechy ludzkie i angażują emocjonalnie. Badania pokazują wyższy poziom zaufania i przywiązania do interfejsów głosowych niż tekstowych.
+Asystenci głosowi - Siri, Alexa, Google Assistant, Cortana - zmieniają sposób, w jaki ludzie myślą o komunikacji z maszyną. Głos jest najbardziej naturalnym medium komunikacji, co powoduje, że użytkownicy szybciej przypisują asystentom cechy ludzkie i angażują emocjonalnie. Badania pokazują wyższy poziom zaufania i przywiązania do interfejsów głosowych niż tekstowych.
 
 ### Interfejsy tekstowe i chatboty
 
-Chatboty i modele konwersacyjne (jak ChatGPT) oferują komunikację tekstową. Anonimowość tekstu może paradoksalnie sprzyjać większej otwartości użytkowników — efekt znany z wcześniejszych badań nad komunikacją przez internet (efekt rozhamowania online).
+Chatboty i modele konwersacyjne (jak ChatGPT) oferują komunikację tekstową. Anonimowość tekstu może paradoksalnie sprzyjać większej otwartości użytkowników - efekt znany z wcześniejszych badań nad komunikacją przez internet (efekt rozhamowania online).
 
 ### Roboty fizyczne
 
-Roboty humanoidy, roboty do opieki nad osobami starszymi i roboty edukacyjne angażują dodatkowy wymiar — obecność fizyczną. Cielesność robota uruchamia specyficzne mechanizmy psychologiczne: efekt kontaktu fizycznego (dotyku), efekt Uncanny Valley oraz normy i intuicje dotyczące przestrzeni osobistej.
+Roboty humanoidy, roboty do opieki nad osobami starszymi i roboty edukacyjne angażują dodatkowy wymiar - obecność fizyczną. Cielesność robota uruchamia specyficzne mechanizmy psychologiczne: efekt kontaktu fizycznego (dotyku), efekt Uncanny Valley oraz normy i intuicje dotyczące przestrzeni osobistej.
 
 ### Systemy rekomendacyjne i algorytmy decyzyjne
 
@@ -38,11 +38,11 @@ Wielu ludzi nie zdaje sobie sprawy, że na co dzień wchodzi w interakcję z AI 
 
 ### Atrybucja intencji i sprawczości
 
-Jednym z najbardziej udokumentowanych zjawisk w badaniach nad HAI jest spontaniczna atrybucja intencji i sprawczości systemom AI. Ludzie pytają: „Dlaczego AI to zrobiła?" — zakładając, że za zachowaniem systemu stoi cel, wola, a nawet uczucia. Ten mechanizm jest głęboko zakorzeniony w ewolucyjnie ukształtowanej tendencji do „agentyzmu" — wykrywania sprawczości nawet tam, gdzie jej nie ma.
+Jednym z najbardziej udokumentowanych zjawisk w badaniach nad HAI jest spontaniczna atrybucja intencji i sprawczości systemom AI. Ludzie pytają: „Dlaczego AI to zrobiła?" - zakładając, że za zachowaniem systemu stoi cel, wola, a nawet uczucia. Ten mechanizm jest głęboko zakorzeniony w ewolucyjnie ukształtowanej tendencji do „agentyzmu" - wykrywania sprawczości nawet tam, gdzie jej nie ma.
 
 ### Teoria umysłu wobec AI
 
-Teoria umysłu — zdolność przypisywania innym podmiotom stanów mentalnych — jest aktywowana przez ludzi podczas interakcji z AI niemal automatycznie. Badania wykazują, że:
+Teoria umysłu - zdolność przypisywania innym podmiotom stanów mentalnych - jest aktywowana przez ludzi podczas interakcji z AI niemal automatycznie. Badania wykazują, że:
 
 1. Użytkownicy instynktownie zadają sobie pytanie „Co AI teraz myśli?"
 2. Odpowiedzi systemu interpretowane są przez pryzmat intencji i przekonań
@@ -51,9 +51,9 @@ Teoria umysłu — zdolność przypisywania innym podmiotom stanów mentalnych �
 
 ### Efekt komputera jako partnera społecznego (CASA)
 
-Byron Reeves i Clifford Nass w przełomowej książce „The Media Equation" (1996) wykazali, że ludzie traktują media — w tym komputery i TV — zgodnie z normami społecznymi, jakby były prawdziwymi aktorami społecznymi. Efekt CASA (Computers Are Social Actors) był wielokrotnie replikowany i rozszerzony na systemy AI.
+Byron Reeves i Clifford Nass w przełomowej książce „The Media Equation" (1996) wykazali, że ludzie traktują media - w tym komputery i TV - zgodnie z normami społecznymi, jakby były prawdziwymi aktorami społecznymi. Efekt CASA (Computers Are Social Actors) był wielokrotnie replikowany i rozszerzony na systemy AI.
 
-> **Fakt:** W eksperymentach Reedsa i Nassa użytkownicy oceniający komputer wysoko w testach wydajności, gdy byli pytani o ocenę przez ten sam komputer, dawali wyższe oceny niż gdy pytał inny komputer — dokładnie tak jak z ludźmi.
+> **Fakt:** W eksperymentach Reedsa i Nassa użytkownicy oceniający komputer wysoko w testach wydajności, gdy byli pytani o ocenę przez ten sam komputer, dawali wyższe oceny niż gdy pytał inny komputer - dokładnie tak jak z ludźmi.
 
 ## Czynniki wpływające na jakość interakcji
 
@@ -77,7 +77,7 @@ Jakość interakcji człowiek-AI zależy od wielu czynników, zarówno po stroni
 
 Rosnąca obecność AI w życiu codziennym zmienia dynamikę ludzkich relacji. Badacze identyfikują kilka niepokojących trendów:
 
-- **Zastępowanie relacji ludzkich przez AI**: niektóre osoby — zwłaszcza zmagające się z lękiem społecznym — preferują kontakt z chatbotem od kontaktu z człowiekiem
+- **Zastępowanie relacji ludzkich przez AI**: niektóre osoby - zwłaszcza zmagające się z lękiem społecznym - preferują kontakt z chatbotem od kontaktu z człowiekiem
 - **Obniżenie progu tolerancji dla ludzkich niedoskonałości**: kontakt z zawsze uprzejmą, cierpliwą AI może sprawić, że ludzkie ograniczenia stają się mniej akceptowalne
 - **Nowe formy intymności**: aplikacje takie jak Replika (AI companion) umożliwiają budowanie „przyjaźni" z wirtualną postacią
 
@@ -91,7 +91,7 @@ Z drugiej strony, AI może wzmacniać relacje ludzkie:
 
 ### Manipulacja i perswazja algorytmiczna
 
-Systemy AI mogą być — i są — projektowane do wywierania wpływu na przekonania i zachowania użytkowników. Algorytmy mediów społecznościowych są optymalizowane pod kątem zaangażowania, co prowadzi do:
+Systemy AI mogą być - i są - projektowane do wywierania wpływu na przekonania i zachowania użytkowników. Algorytmy mediów społecznościowych są optymalizowane pod kątem zaangażowania, co prowadzi do:
 
 - Tworzenia baniek informacyjnych i echo chambers
 - Wzmacniania emocji negatywnych (oburzenie, lęk), które generują więcej kliknięć
@@ -99,7 +99,7 @@ Systemy AI mogą być — i są — projektowane do wywierania wpływu na przeko
 
 ### Depersonalizacja relacji
 
-Gdy AI przejmuje coraz więcej funkcji relacyjnych — odpowiadanie na pytania, udzielanie wsparcia emocjonalnego, prowadzenie rozmów — istnieje ryzyko depersonalizacji tych relacji i stopniowej utraty umiejętności interpersonalnych.
+Gdy AI przejmuje coraz więcej funkcji relacyjnych - odpowiadanie na pytania, udzielanie wsparcia emocjonalnego, prowadzenie rozmów - istnieje ryzyko depersonalizacji tych relacji i stopniowej utraty umiejętności interpersonalnych.
 
 ## Projektowanie AI zorientowane na człowieka (Human-Centered AI)
 
@@ -124,7 +124,7 @@ W Polsce interakcja człowiek-AI jest badana przede wszystkim w kontekście eduk
 
 ## Podsumowanie
 
-Interakcja człowiek-AI jest złożonym zjawiskiem, kształtowanym przez głęboko zakorzenione mechanizmy psychologiczne — atrybucję sprawczości, teorię umysłu, potrzebę relacji społecznych. Rozumienie tych mechanizmów jest kluczowe dla projektowania systemów AI, które rzeczywiście służą ludzkim potrzebom, nie zaś je eksploatują czy naruszają. Wraz z upowszechnianiem się AI pytania o jakość tej interakcji stają się jednym z centralnych wyzwań naszych czasów.
+Interakcja człowiek-AI jest złożonym zjawiskiem, kształtowanym przez głęboko zakorzenione mechanizmy psychologiczne - atrybucję sprawczości, teorię umysłu, potrzebę relacji społecznych. Rozumienie tych mechanizmów jest kluczowe dla projektowania systemów AI, które rzeczywiście służą ludzkim potrzebom, nie zaś je eksploatują czy naruszają. Wraz z upowszechnianiem się AI pytania o jakość tej interakcji stają się jednym z centralnych wyzwań naszych czasów.
 
 
 ## Wprowadzenie

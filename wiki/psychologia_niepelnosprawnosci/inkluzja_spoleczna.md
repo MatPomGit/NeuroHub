@@ -6,17 +6,17 @@ evidenceCutoffDate: 2025-12-31
 
 # Inkluzja społeczna i prawa
 
-**Inkluzja społeczna** oznacza pełne i równoprawne uczestnictwo osób z niepełnosprawnościami we wszystkich sferach życia — edukacji, pracy, kulturze, polityce i życiu codziennym. To więcej niż integracja: chodzi nie o „wpuszczenie" do istniejącego systemu, lecz o zbudowanie takiego, który jest dostępny dla wszystkich od początku.
+**Inkluzja społeczna** oznacza pełne i równoprawne uczestnictwo osób z niepełnosprawnościami we wszystkich sferach życia - edukacji, pracy, kulturze, polityce i życiu codziennym. To więcej niż integracja: chodzi nie o „wpuszczenie" do istniejącego systemu, lecz o zbudowanie takiego, który jest dostępny dla wszystkich od początku.
 
 ## Podstawy prawne
 
 ### Konwencja ONZ o Prawach Osób z Niepełnosprawnościami (CRPD, 2006)
 Fundamentalny dokument prawa międzynarodowego ratyfikowany przez Polskę w 2012 r. Kluczowe zasady:
 
-- **art. 19** — prawo do niezależnego życia i włączenia w społeczeństwo,
-- **art. 24** — prawo do inkluzywnej edukacji,
-- **art. 27** — prawo do pracy i zatrudnienia,
-- **art. 29** — prawo do uczestnictwa w życiu politycznym i publicznym.
+- **art. 19** - prawo do niezależnego życia i włączenia w społeczeństwo,
+- **art. 24** - prawo do inkluzywnej edukacji,
+- **art. 27** - prawo do pracy i zatrudnienia,
+- **art. 29** - prawo do uczestnictwa w życiu politycznym i publicznym.
 
 ### Prawo polskie
 - Ustawa o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (1997),
@@ -84,7 +84,7 @@ Wsparcie: dofinansowanie PFRON, job coaching, pracownia chroniona, firmy społec
 
 ## Podsumowanie
 
-Inkluzja społeczna to nie przywilej, lecz prawo i warunek godnego życia. Jej realizacja wymaga wielopoziomowych zmian — prawnych, architektonicznych, edukacyjnych i kulturowych. Psycholog odgrywa ważną rolę zarówno w indywidualnym wsparciu osób z niepełnosprawnościami, jak i w budowaniu środowisk, które rzeczywiście są otwarte na wszystkich.
+Inkluzja społeczna to nie przywilej, lecz prawo i warunek godnego życia. Jej realizacja wymaga wielopoziomowych zmian - prawnych, architektonicznych, edukacyjnych i kulturowych. Psycholog odgrywa ważną rolę zarówno w indywidualnym wsparciu osób z niepełnosprawnościami, jak i w budowaniu środowisk, które rzeczywiście są otwarte na wszystkich.
 
 
 ## Wprowadzenie

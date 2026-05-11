@@ -70,8 +70,8 @@ U młodzieży długotrwała ekspozycja na hejt zwiększa ryzyko objawów depresy
 ---
 
 ## 5. Strategie interwencji
-1. **Nie eskalować konfliktu** — unikać impulsywnej odpowiedzi „w afekcie”.
-2. **Dokumentować incydenty** — zrzuty ekranu, daty, linki.
+1. **Nie eskalować konfliktu** - unikać impulsywnej odpowiedzi „w afekcie”.
+2. **Dokumentować incydenty** - zrzuty ekranu, daty, linki.
 3. **Blokować i zgłaszać** konta naruszające zasady.
 4. **Włączać wsparcie** (rodzina, szkoła, zaufane osoby, specjaliści).
 5. **W razie gróźb karalnych** korzystać z procedur prawnych.

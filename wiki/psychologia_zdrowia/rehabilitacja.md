@@ -37,13 +37,13 @@ Rehabilitacja psychologiczna dąży do:
 Przekazywanie pacjentowi i rodzinie wiedzy o mechanizmach choroby, jej następstwach psychologicznych i procesie zdrowienia. Zmniejsza lęk, buduje realistyczne oczekiwania.
 
 ### Trening funkcji poznawczych
-Ćwiczenia uwagi, pamięci, planowania — zwłaszcza po udarach i TBI. Stosuje się zadania komputerowe i papierowe, a także trening kompensacyjny (techniki zewnętrzne: notatki, alerty, rutyny).
+Ćwiczenia uwagi, pamięci, planowania - zwłaszcza po udarach i TBI. Stosuje się zadania komputerowe i papierowe, a także trening kompensacyjny (techniki zewnętrzne: notatki, alerty, rutyny).
 
 ### Terapia psychologiczna
 CBT, ACT i terapia narracyjna pomagają przetwarzać stratę, radzić sobie z lękiem o przyszłość i na nowo konstruować tożsamość.
 
 ### Trening umiejętności społecznych
-Praca nad komunikacją, asertywnością i nawiązywaniem relacji — szczególnie po długiej izolacji lub zmianach w wyglądzie i funkcjonowaniu.
+Praca nad komunikacją, asertywnością i nawiązywaniem relacji - szczególnie po długiej izolacji lub zmianach w wyglądzie i funkcjonowaniu.
 
 ### Rehabilitacja zawodowa
 Ocena możliwości powrotu do pracy lub zmiana ścieżki zawodowej; współpraca z doradcą zawodowym.
@@ -59,11 +59,11 @@ Rehabilitacja jest znacznie skuteczniejsza, gdy angażuje bliskich. Rodzina moż
 
 ## Fazy rehabilitacji
 
-1. **Ocena** — diagnoza neuropsychologiczna, ocena funkcjonalna i identyfikacja celów.
-2. **Wczesna interwencja** — stabilizacja, psychoedukacja, wsparcie emocjonalne.
-3. **Intensywna rehabilitacja** — trenig funkcji, terapia, ćwiczenie umiejętności.
-4. **Utrzymanie i generalizacja** — przenoszenie efektów do codziennego życia.
-5. **Monitoring** — długoterminowe kontrole i wsparcie w razie nawrotów trudności.
+1. **Ocena** - diagnoza neuropsychologiczna, ocena funkcjonalna i identyfikacja celów.
+2. **Wczesna interwencja** - stabilizacja, psychoedukacja, wsparcie emocjonalne.
+3. **Intensywna rehabilitacja** - trenig funkcji, terapia, ćwiczenie umiejętności.
+4. **Utrzymanie i generalizacja** - przenoszenie efektów do codziennego życia.
+5. **Monitoring** - długoterminowe kontrole i wsparcie w razie nawrotów trudności.
 
 ## Przykład
 

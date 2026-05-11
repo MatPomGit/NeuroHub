@@ -4,11 +4,11 @@ reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
 
-# Terapia online — sesje wideo, telefoniczne i przez czat
+# Terapia online - sesje wideo, telefoniczne i przez czat
 
 ## Formy synchronicznej terapii na odległość
 
-Terapia online w sensie węższym oznacza prowadzenie sesji terapeutycznych za pomocą środków komunikacji synchronicznej — wideokonferencji, rozmowy telefonicznej lub czatu tekstowego w czasie rzeczywistym. Każda z tych form ma odrębne właściwości, wskazania i ograniczenia kliniczne.
+Terapia online w sensie węższym oznacza prowadzenie sesji terapeutycznych za pomocą środków komunikacji synchronicznej - wideokonferencji, rozmowy telefonicznej lub czatu tekstowego w czasie rzeczywistym. Każda z tych form ma odrębne właściwości, wskazania i ograniczenia kliniczne.
 
 **Terapia wideo** (wideokonferencja) jest dziś dominującą formą terapii online. Programy takie jak Zoom, Microsoft Teams, Google Meet lub specjalistyczne platformy kliniczne (Doxy.me, SimplePractice, Cliniko) umożliwiają sesję audio-wideo zbliżoną doświadczeniowo do spotkania twarzą w twarz. Badania wskazują, że większość klientów ocenia sojusz terapeutyczny jako zbliżony do poziomu sesji stacjonarnych.
 
@@ -42,11 +42,11 @@ Prowadzenie sesji wideo wymaga od terapeuty odpowiedniego przygotowania technicz
 
 Prowadzenie psychoterapii online wymaga adaptacji technik terapeutycznych do medium. Kilka obserwacji klinicznych:
 
-**Kontakt wzrokowy** — w terapii wideo naturalne utrzymanie kontaktu wzrokowego jest fizycznie niemożliwe: patrzenie w oczy rozmówcy na ekranie oznacza oderwanie wzroku od kamery. Terapeuta i klient muszą zaakceptować tę specyfikę.
+**Kontakt wzrokowy** - w terapii wideo naturalne utrzymanie kontaktu wzrokowego jest fizycznie niemożliwe: patrzenie w oczy rozmówcy na ekranie oznacza oderwanie wzroku od kamery. Terapeuta i klient muszą zaakceptować tę specyfikę.
 
-**Tempo i milczenie** — opóźnienia sieciowe (nawet 100–200 ms) mogą zakłócać naturalny rytm rozmowy. Terapeuta powinien świadomie zarządzać pauzami, być bardziej eksplicytny w potwierdzaniu i weryfikacji zrozumienia.
+**Tempo i milczenie** - opóźnienia sieciowe (nawet 100–200 ms) mogą zakłócać naturalny rytm rozmowy. Terapeuta powinien świadomie zarządzać pauzami, być bardziej eksplicytny w potwierdzaniu i weryfikacji zrozumienia.
 
-**Efekt online disinhibition** — środowisko online sprzyja większej otwartości i ujawnianiu głębokich treści (efekt odhamowania online, Suler, 2004). Jest to potencjalnie terapeutycznie korzystne, ale może też prowadzić do przesycenia sesji materiałem i retraumatyzacji bez odpowiedniego wsparcia.
+**Efekt online disinhibition** - środowisko online sprzyja większej otwartości i ujawnianiu głębokich treści (efekt odhamowania online, Suler, 2004). Jest to potencjalnie terapeutycznie korzystne, ale może też prowadzić do przesycenia sesji materiałem i retraumatyzacji bez odpowiedniego wsparcia.
 
 ## Wskazania i przeciwwskazania
 
@@ -64,13 +64,13 @@ Prowadzenie psychoterapii online wymaga adaptacji technik terapeutycznych do med
 - Kryzysy wymagające natychmiastowej interwencji fizycznej
 - Znaczące bariery technologiczne po stronie klienta
 
-## Terapia telefoniczna — specyfika i zastosowania
+## Terapia telefoniczna - specyfika i zastosowania
 
-Rozmowa telefoniczna jest bardziej dostępna technologicznie niż wideo i może być stosowana jako pierwsza linia wsparcia lub w sytuacjach kryzysowych (telefony zaufania). Brak obrazu paradoksalnie sprzyja skupieniu na głosie, tonie i treści wypowiedzi — niektórzy klienci lepiej wyrażają trudne emocje bez „obserwacji" twarzy.
+Rozmowa telefoniczna jest bardziej dostępna technologicznie niż wideo i może być stosowana jako pierwsza linia wsparcia lub w sytuacjach kryzysowych (telefony zaufania). Brak obrazu paradoksalnie sprzyja skupieniu na głosie, tonie i treści wypowiedzi - niektórzy klienci lepiej wyrażają trudne emocje bez „obserwacji" twarzy.
 
 ## Podsumowanie
 
-Terapia online w formach synchronicznych — wideo, telefon, czat — jest dojrzałą, skuteczną i etycznie możliwą formą świadczenia pomocy psychologicznej. Jej sprawne prowadzenie wymaga specyficznych kompetencji technicznych i klinicznych, a przede wszystkim świadomości zarówno możliwości, jak i ograniczeń, które niesie ze sobą medium cyfrowe.
+Terapia online w formach synchronicznych - wideo, telefon, czat - jest dojrzałą, skuteczną i etycznie możliwą formą świadczenia pomocy psychologicznej. Jej sprawne prowadzenie wymaga specyficznych kompetencji technicznych i klinicznych, a przede wszystkim świadomości zarówno możliwości, jak i ograniczeń, które niesie ze sobą medium cyfrowe.
 
 
 ## Wprowadzenie

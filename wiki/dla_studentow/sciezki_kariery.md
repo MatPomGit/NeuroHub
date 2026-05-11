@@ -4,7 +4,7 @@ reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
 
-# Ścieżki kariery po psychologii — przewodnik praktyczny
+# Ścieżki kariery po psychologii - przewodnik praktyczny
 
 Współczesny rynek pracy dla absolwentów psychologii jest zróżnicowany i wielosektorowy: obejmuje ochronę zdrowia, edukację, biznes, badania, technologie cyfrowe i sektor publiczny. Kluczowe znaczenie ma świadome planowanie ścieżki kompetencyjnej już na etapie studiów.
 
@@ -45,19 +45,19 @@ Obszary: uczelnie, think tanki, badania kliniczne, laboratoria kognitywne i neur
 
 ## 2. Przykładowe profile kariery
 
-### Profil A — psycholog kliniczny
+### Profil A - psycholog kliniczny
 1. Studia magisterskie z psychologii.  
 2. Staże i praktyki kliniczne.  
 3. Specjalizacja/kształcenie podyplomowe oraz superwizja.  
 4. Budowanie niszy (np. zaburzenia lękowe, neuropsychologia, psychotraumatologia).
 
-### Profil B — psycholog w HR/organizacji
+### Profil B - psycholog w HR/organizacji
 1. Staż w dziale HR lub firmie doradczej.  
 2. Szkolenia z AC/DC, interview behawioralnego, analityki HR.  
 3. Rozwój kompetencji biznesowych (KPI, efektywność interwencji).  
 4. Specjalizacja w obszarze talent management, learning & development albo employer branding.
 
-### Profil C — psycholog badacz (R&D)
+### Profil C - psycholog badacz (R&D)
 1. Zaangażowanie w koła naukowe i projekty badawcze.  
 2. Umiejętności analizy danych (R/Python/SPSS).  
 3. Publikacje i udział w konferencjach.  
@@ -66,9 +66,9 @@ Obszary: uczelnie, think tanki, badania kliniczne, laboratoria kognitywne i neur
 ## 3. Jak podjąć decyzję: model 3D
 
 Użyteczny model decyzyjny:
-- **Domena** — z jaką populacją i problemami chcesz pracować?
-- **Działanie** — czy bliższa jest Ci diagnoza, terapia, edukacja, badania czy projektowanie rozwiązań?
-- **Dynamika pracy** — preferujesz pracę indywidualną, zespołową, projektową czy dyżurową?
+- **Domena** - z jaką populacją i problemami chcesz pracować?
+- **Działanie** - czy bliższa jest Ci diagnoza, terapia, edukacja, badania czy projektowanie rozwiązań?
+- **Dynamika pracy** - preferujesz pracę indywidualną, zespołową, projektową czy dyżurową?
 
 Im większa zgodność tych trzech wymiarów, tym większa szansa na stabilny rozwój i mniejsze ryzyko wypalenia.
 

@@ -6,7 +6,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Terapia poznawczo-behawioralna (CBT)
 
-Najlepiej zbadana empirycznie forma psychoterapii — model poznawczy, techniki i zastosowania kliniczne.
+Najlepiej zbadana empirycznie forma psychoterapii - model poznawczy, techniki i zastosowania kliniczne.
 
 ## Model poznawczy Becka
 
@@ -16,11 +16,11 @@ Najlepiej zbadana empirycznie forma psychoterapii — model poznawczy, techniki 
 
 ## Techniki poznawcze
 
-**Identyfikacja automatycznych myśli** — dziennik myśli, śledzenie myśli w konkretnych sytuacjach (model ABC). **Testowanie rzeczywistości** — traktowanie myśli jako hipotez, szukanie dowodów za i przeciw. **Restrukturyzacja poznawcza** — formułowanie bardziej zrównoważonych, realistycznych interpretacji. **Eksperymenty behawioralne** — weryfikacja przewidywań wynikających z przekonań przez działanie.
+**Identyfikacja automatycznych myśli** - dziennik myśli, śledzenie myśli w konkretnych sytuacjach (model ABC). **Testowanie rzeczywistości** - traktowanie myśli jako hipotez, szukanie dowodów za i przeciw. **Restrukturyzacja poznawcza** - formułowanie bardziej zrównoważonych, realistycznych interpretacji. **Eksperymenty behawioralne** - weryfikacja przewidywań wynikających z przekonań przez działanie.
 
 ## Techniki behawioralne
 
-**Ekspozycja** z zapobieganiem reakcji (ERP) — stopniowe, systematyczne konfrontowanie się z lękowymi bodźcami bez angażowania zachowań unikowych (kluczowe w fobiach, OCD, PTSD). **Aktywizacja behawioralna** — planowanie przyjemnych i nagradzających aktywności (przeciwdziała błędnemu kołu depresji). **Trening umiejętności** — rozwijanie kompetencji społecznych, asertywności i rozwiązywania problemów.
+**Ekspozycja** z zapobieganiem reakcji (ERP) - stopniowe, systematyczne konfrontowanie się z lękowymi bodźcami bez angażowania zachowań unikowych (kluczowe w fobiach, OCD, PTSD). **Aktywizacja behawioralna** - planowanie przyjemnych i nagradzających aktywności (przeciwdziała błędnemu kołu depresji). **Trening umiejętności** - rozwijanie kompetencji społecznych, asertywności i rozwiązywania problemów.
 
 ## Podstawy empiryczne
 
@@ -28,7 +28,7 @@ CBT ma **najsilniejsze dowody spośród wszystkich form psychoterapii** dla: dep
 
 ## Trzecia fala CBT
 
-Podejścia trzeciej fali uzupełniają klasyczne CBT: **ACT** (Acceptance and Commitment Therapy, Hayes) — akceptacja myśli bez ich zmieniania; **MBCT** (Mindfulness-Based CBT) — profilaktyka nawrotów depresji; **DBT** (Linehan) — regulacja emocji i tolerancja dystresu w BPD.
+Podejścia trzeciej fali uzupełniają klasyczne CBT: **ACT** (Acceptance and Commitment Therapy, Hayes) - akceptacja myśli bez ich zmieniania; **MBCT** (Mindfulness-Based CBT) - profilaktyka nawrotów depresji; **DBT** (Linehan) - regulacja emocji i tolerancja dystresu w BPD.
 
 
 ## Wprowadzenie

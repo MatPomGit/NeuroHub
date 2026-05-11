@@ -10,7 +10,7 @@ evidenceCutoffDate: 2025-12-31
 
 Współczesne dzieci dorastają w środowisku, w którym gry wideo są tak samo naturalną częścią krajobrazu jak telewizja dla poprzednich pokoleń. Według badań Pew Research Center (2022), 97% chłopców i 83% dziewcząt w wieku 13–17 lat regularnie gra w gry wideo w Stanach Zjednoczonych. W Polsce odsetek grających nastolatków jest podobny. Ta powszechność sprawia, że pytania o wpływ gier na rozwój dzieci i nastolatków mają fundamentalne znaczenie dla rodziców, pedagogów i klinicystów.
 
-> **Fakt:** Średni wiek gracza wideo w Polsce to 32 lata — co oznacza, że gry przestały być wyłącznie domeną dzieci i nastolatków. Niemniej jednak to właśnie w tej grupie wiekowej wpływ gier na rozwój jest najbardziej intensywnie badany.
+> **Fakt:** Średni wiek gracza wideo w Polsce to 32 lata - co oznacza, że gry przestały być wyłącznie domeną dzieci i nastolatków. Niemniej jednak to właśnie w tej grupie wiekowej wpływ gier na rozwój jest najbardziej intensywnie badany.
 
 ## Efekty rozwojowe grania u dzieci
 
@@ -39,7 +39,7 @@ Gry oferują dzieciom bogate środowisko do nauki regulacji emocji, ale efekt za
 - Gry wymagające opanowania (szachy, puzzle) uczą tolerancji frustracji
 - Gry z elementami empatii (opieka nad postaciami) mogą rozwijać empatię i teorię umysłu
 - Gry o dużej intensywności emocjonalnej mogą nasilać reaktywność emocjonalną u dzieci o niskiej tolerancji na stres
-- Gry z mechaniką przegranej mogą uczyć radzenia sobie z porażką — jeśli kontekst jest odpowiedni
+- Gry z mechaniką przegranej mogą uczyć radzenia sobie z porażką - jeśli kontekst jest odpowiedni
 
 ### Rozwój społeczny
 
@@ -62,19 +62,19 @@ Dzieci poniżej 7. roku życia mogą mieć trudności z wyraźnym odróżnieniem
 
 Zdolność do regulacji emocji wzrasta z wiekiem i jest zależna od dojrzałości kory przedczołowej. U nastolatków, szczególnie wczesnych (11–14 lat), kora przedczołowa jest wciąż w trakcie intensywnego rozwoju, co może predysponować do silniejszych reakcji emocjonalnych na treści w grach.
 
-## Czas przed ekranem — rekomendacje i kontrowersje
+## Czas przed ekranem - rekomendacje i kontrowersje
 
 ### Wytyczne organizacji zdrowotnych
 
 Rekomendacje dotyczące czasu przed ekranem (screen time) dla dzieci:
 
 - **WHO (2019)**: brak siedzących gier ekranowych dla dzieci poniżej 2 lat, poniżej 1 godziny dziennie dla dzieci 3–4 lat
-- **American Academy of Pediatrics (AAP)**: dla dzieci 6+ — ustalenie spójnych limitów, dbanie o równowagę z innymi aktywnościami
+- **American Academy of Pediatrics (AAP)**: dla dzieci 6+ - ustalenie spójnych limitów, dbanie o równowagę z innymi aktywnościami
 - Brak ścisłych rekomendacji godzinowych dla nastolatków przy odpowiedniej jakości snu i aktywności fizycznej
 
 ### Kontrowersje wokół screen time
 
-Badanie Przybylskiego i Weinsteina (2017) na próbie ponad 120 000 nastolatków sugeruje, że szkodliwe skutki dla dobrostanu pojawiają się dopiero po przekroczeniu pewnego progu czasu (efekt krzywoliniowy) — umiarkowane ilości gier (1–2 godziny dziennie) wiążą się z wyższym dobrostanem niż granie zero godzin lub ponad 5 godzin dziennie.
+Badanie Przybylskiego i Weinsteina (2017) na próbie ponad 120 000 nastolatków sugeruje, że szkodliwe skutki dla dobrostanu pojawiają się dopiero po przekroczeniu pewnego progu czasu (efekt krzywoliniowy) - umiarkowane ilości gier (1–2 godziny dziennie) wiążą się z wyższym dobrostanem niż granie zero godzin lub ponad 5 godzin dziennie.
 
 > **Fakt:** Według badań Pediatric Sleep Council, każda godzina grania po 21:00 wydłuża czas zasypiania u nastolatków średnio o 15 minut. Niedobór snu jest jednym z najpoważniejszych niekorzystnych skutków nadmiernego grania u młodzieży.
 
@@ -90,10 +90,10 @@ Badania wykazują, że **styl rodzicielski** i **zaangażowanie rodziców** w ż
 
 ### Praktyczne strategie rodzicielskie
 
-1. Poznaj gry, w które gra twoje dziecko — zapytaj, poproś o prezentację
+1. Poznaj gry, w które gra twoje dziecko - zapytaj, poproś o prezentację
 2. Ustal razem z dzieckiem zasady grania (czas, godziny, typy gier)
 3. Używaj systemu PEGI przy wyborze gier adekwatnych do wieku
-4. Utrzymuj konsekwencję — zasady, w które gracz może ufać
+4. Utrzymuj konsekwencję - zasady, w które gracz może ufać
 5. Twórz alternatywne aktywności angażujące te same potrzeby (kompetencja, przygoda, społeczność)
 
 ## Gry edukacyjne

@@ -30,15 +30,15 @@ To, *kiedy* obserwujemy najlepsze wyniki, zależy od **chronotypu**.
 
 Chronotyp określa preferowaną porę aktywności i snu:
 
-- **Typ poranny (skowronek)** — lepsze funkcjonowanie poznawcze wcześnie.
-- **Typ wieczorny (sowa)** — szczyt wydajności przesunięty na późniejsze godziny.
-- **Typ pośredni** — bardziej elastyczny profil dzienny.
+- **Typ poranny (skowronek)** - lepsze funkcjonowanie poznawcze wcześnie.
+- **Typ wieczorny (sowa)** - szczyt wydajności przesunięty na późniejsze godziny.
+- **Typ pośredni** - bardziej elastyczny profil dzienny.
 
 Problem pojawia się wtedy, gdy wymagania społeczne (np. bardzo wczesne godziny zajęć) są niezgodne z chronotypem. To zjawisko nazywa się **społecznym jet lagiem** i wiąże się z gorszym nastrojem, koncentracją, wydolnością poznawczą i regeneracją.
 
 ## Jak człowiek odczuwa czas? (czas psychologiczny)
 
-Człowiek nie odbiera czasu jak zegar. W psychologii mówi się o **czasie psychologicznym** — subiektywnym poczuciu trwania, tempa i kolejności zdarzeń.
+Człowiek nie odbiera czasu jak zegar. W psychologii mówi się o **czasie psychologicznym** - subiektywnym poczuciu trwania, tempa i kolejności zdarzeń.
 
 ### 1) Szacowanie krótkich odcinków czasu
 
@@ -75,7 +75,7 @@ Dlatego okresy monotonne często „kurczą się” we wspomnieniach, a okresy p
 
 ## 2. Czas i podejmowanie decyzji
 
-Ludzie zwykle **dyskontują przyszłość** — nagrody odroczone bywają mniej atrakcyjne niż natychmiastowe. To wpływa na:
+Ludzie zwykle **dyskontują przyszłość** - nagrody odroczone bywają mniej atrakcyjne niż natychmiastowe. To wpływa na:
 
 - oszczędzanie i planowanie,
 - nawyki zdrowotne,
@@ -100,7 +100,7 @@ Planowanie nauki zgodnie z rytmem dobowym może poprawiać efekty:
 
 1. Najtrudniejsze zadania poznawcze wykonuj w okresie najwyższej czujności.
 2. Powtórki materiału rozkładaj na kilka dni i łącz z regularnym snem.
-3. Unikaj nauki „do oporu” kosztem snu — konsolidacja pamięci zachodzi głównie podczas snu.
+3. Unikaj nauki „do oporu” kosztem snu - konsolidacja pamięci zachodzi głównie podczas snu.
 4. Stosuj bloki pracy z przerwami, bo subiektywnie „krótsze” sesje łatwiej utrzymać bez spadku koncentracji.
 
 ## Chronopsychologia emocji i zdrowia psychicznego

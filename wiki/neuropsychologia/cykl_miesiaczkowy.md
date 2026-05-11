@@ -6,7 +6,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Neuropsychologia cyklu miesiączkowego
 
-Cykl miesiączkowy to nie tylko zjawisko reprodukcyjne — to dynamicznie zmieniające się środowisko neurochemiczne, które wpływa na funkcje poznawcze, nastrój, reaktywność emocjonalną i aktywność mózgu kobiety. Neuropsychologia cyklu miesiączkowego bada, w jaki sposób wahania hormonalne modulują pracę mózgu przez całą dobę cyklu.
+Cykl miesiączkowy to nie tylko zjawisko reprodukcyjne - to dynamicznie zmieniające się środowisko neurochemiczne, które wpływa na funkcje poznawcze, nastrój, reaktywność emocjonalną i aktywność mózgu kobiety. Neuropsychologia cyklu miesiączkowego bada, w jaki sposób wahania hormonalne modulują pracę mózgu przez całą dobę cyklu.
 
 ## Fazy cyklu miesiączkowego
 
@@ -19,7 +19,7 @@ Standardowy cykl trwa **około 28 dni** (zakres: 21–35 dni) i obejmuje cztery 
 | Owulacyjna | dzień 14 | Szczyt LH i E2 | Pęknięcie pęcherzyka, uwolnienie komórki jajowej |
 | Lutealna | dni 15–28 | Progesteron (P4), E2 | Ciałko żółte, przygotowanie endometrium |
 
-> **Uwaga kliniczna:** Wahania między fazą folikularną a lutealną są szczególnie istotne neuropsychologicznie — progesteron i jego metabolity wykazują silne działanie neuroaktywne przez receptory GABA-A i NMDA.
+> **Uwaga kliniczna:** Wahania między fazą folikularną a lutealną są szczególnie istotne neuropsychologicznie - progesteron i jego metabolity wykazują silne działanie neuroaktywne przez receptory GABA-A i NMDA.
 
 ## Hormony płciowe jako neuromodulatory
 
@@ -27,20 +27,20 @@ Standardowy cykl trwa **około 28 dni** (zakres: 21–35 dni) i obejmuje cztery 
 
 **Estradiol** jest głównym estrogenem w okresie reprodukcyjnym. Jego receptory (ERα, ERβ) znajdują się w obszarach mózgu bezpośrednio związanych z poznaniem i emocjami:
 
-- **Hipokamp** — regulacja plastyczności synaptycznej, LTP, gęstości kolców dendrytycznych
-- **Kora przedczołowa** — modulacja funkcji wykonawczych i pamięci roboczej
-- **Ciało migdałowate** — zmiana progu reaktywności na bodźce emocjonalne
-- **Jądro szwu** — regulacja układu serotoninergicznego
+- **Hipokamp** - regulacja plastyczności synaptycznej, LTP, gęstości kolców dendrytycznych
+- **Kora przedczołowa** - modulacja funkcji wykonawczych i pamięci roboczej
+- **Ciało migdałowate** - zmiana progu reaktywności na bodźce emocjonalne
+- **Jądro szwu** - regulacja układu serotoninergicznego
 
 Estradiol zwiększa syntezę serotoniny (wzrost ekspresji TPH2), zmniejsza jej wychwyt zwrotny (regulacja SERT) i zwiększa wrażliwość receptorów 5-HT2A. Ten mechanizm wyjaśnia poprawę nastroju w fazie folikularnej przy rosnącym poziomie E2.
 
 ### Progesteron i allopregnanolon
 
-**Progesteron (P4)** w fazie lutealnej metabolizowany jest do **allopregnanolonu (ALLO)** — neuroaktywnego steroidu o działaniu podobnym do benzodiazepin. ALLO jest pozytywnym allosterycznym modulatorem receptorów GABA-A, co powoduje:
+**Progesteron (P4)** w fazie lutealnej metabolizowany jest do **allopregnanolonu (ALLO)** - neuroaktywnego steroidu o działaniu podobnym do benzodiazepin. ALLO jest pozytywnym allosterycznym modulatorem receptorów GABA-A, co powoduje:
 
 - Nasilenie działania hamującego GABA w mózgu
 - Działanie anksjolityczne i uspokajające
-- U wrażliwych kobiet — efekt paradoksalny: lęk, dysforię (zwłaszcza przy gwałtownych wahaniach ALLO)
+- U wrażliwych kobiet - efekt paradoksalny: lęk, dysforię (zwłaszcza przy gwałtownych wahaniach ALLO)
 
 > **Paradoks ALLO w PMDD:** Kobiety z przedmiesiączkowym zaburzeniem dysforycznym (PMDD) mają prawidłowe stężenia ALLO, ale ich neurony wykazują zmienioną subjednostkową kompozycję receptorów GABA-A (δ→γ), co odwraca działanie ALLO z uspokajającego na pobudzające.
 
@@ -87,7 +87,7 @@ Cykl miesiączkowy moduluje reaktywność ciała migdałowatego:
 
 **Oś podwzgórze–przysadka–nadnercza (HPA)** wykazuje wyraźne różnice aktywności w zależności od fazy cyklu:
 
-Estradiol **nasila** odpowiedź osi HPA — kobiety w fazie folikularnej wykazują wyższe stężenia kortyzolu po stresie psychospołecznym niż w fazie lutealnej. Natomiast progesteron i ALLO **tłumią** reaktywność HPA poprzez działanie GABAergiczne na ciało migdałowate i PVN podwzgórza.
+Estradiol **nasila** odpowiedź osi HPA - kobiety w fazie folikularnej wykazują wyższe stężenia kortyzolu po stresie psychospołecznym niż w fazie lutealnej. Natomiast progesteron i ALLO **tłumią** reaktywność HPA poprzez działanie GABAergiczne na ciało migdałowate i PVN podwzgórza.
 
 > **Implikacja kliniczna:** Kobiety z PTSD lub zaburzeniami lękowymi mogą doświadczać nasilenia objawów w fazie folikularnej (wysokie E2 → wyższa reaktywność HPA), a względnej ulgi w środkowej fazie lutealnej (ALLO tłumi HPA).
 
@@ -97,7 +97,7 @@ Estradiol **nasila** odpowiedź osi HPA — kobiety w fazie folikularnej wykazuj
 
 ### Neurobiologia PMDD
 
-- **Zmieniona wrażliwość na ALLO:** Subjednostkowa zmiana receptorów GABA-A (δ→γ2) powoduje, że ALLO zamiast wyciszać — pobudza neurony
+- **Zmieniona wrażliwość na ALLO:** Subjednostkowa zmiana receptorów GABA-A (δ→γ2) powoduje, że ALLO zamiast wyciszać - pobudza neurony
 - **Hiperaktywność ciała migdałowatego:** fMRI wykazuje zwiększoną odpowiedź na negatywne bodźce emocjonalne w fazie lutealnej
 - **Dysfunkcja serotoninergiczna:** Zmniejszona transporterowa dostępność serotoniny (SERT) i zaburzona synteza 5-HT w fazie lutealnej
 - **Genetyczny wariant ESR1:** Polimorfizmy genu receptora estrogenowego α (ESR1) są powiązane z PMDD
@@ -137,7 +137,7 @@ Bóle menstruacyjne (dysmenorrhea) mają komponenty zarówno obwodowe (prostagla
 
 - Dysmenorrhea pierwotna wiąże się ze zmianami w neuronalnym przetwarzaniu bólu (fenomen centralnej sensytyzacji)
 - Kobiety z dysmenorrhea wykazują zmienioną gęstość istoty szarej w obszarach przetwarzania bólu (ACC, wyspie, wzgórzu)
-- Przewlekła dysmenorrhea może prowadzić do trwałych zmian neuroplastycznych — analogicznie do bólu przewlekłego
+- Przewlekła dysmenorrhea może prowadzić do trwałych zmian neuroplastycznych - analogicznie do bólu przewlekłego
 
 ## Neuroplastyczność związana z cyklem
 
@@ -148,7 +148,7 @@ Cykl miesiączkowy jest fascynującym modelem **krótkoterminowej neuroplastyczn
 - Mielinizacja włókien kory obręczy i hipokampa jest modulowana przez estrogeny (ERβ na oligodendrocytach)
 - Proliferacja komórek ziarnistych zakrętu zębatego jest wyższa przy wysokim E2
 
-> **Perspektywa ewolucyjna:** Cykliczne zmiany neuropsychologiczne mogą być adaptacyjne — np. szczyty płynności werbalnej i rozpoznawania emocji wokół owulacji mogą sprzyjać aktywnościom społecznym i wyborowi partnera.
+> **Perspektywa ewolucyjna:** Cykliczne zmiany neuropsychologiczne mogą być adaptacyjne - np. szczyty płynności werbalnej i rozpoznawania emocji wokół owulacji mogą sprzyjać aktywnościom społecznym i wyborowi partnera.
 
 ## Cykl miesiączkowy a zaburzenia psychiczne
 
@@ -165,7 +165,7 @@ Wiele zaburzeń psychicznych wykazuje nasilenie objawów związane z fazą cyklu
 
 ### Padaczka katamenialna
 
-**Padaczka katamenialna** — napady padaczkowe z wyraźną preferencją perimenstrualną lub owulacyjną. Mechanizmy:
+**Padaczka katamenialna** - napady padaczkowe z wyraźną preferencją perimenstrualną lub owulacyjną. Mechanizmy:
 
 1. **Nagły spadek ALLO** po lutealizie → utrata modulacji GABA-A → obniżony próg napadowy
 2. **Wzrost estradiolu** bez progesteronu (cykl anovulacyjny) → dominacja ekscytatoryczna
@@ -175,10 +175,10 @@ Wiele zaburzeń psychicznych wykazuje nasilenie objawów związane z fazą cyklu
 
 Przy ocenie neuropsychologicznej kobiet w wieku reprodukcyjnym należy uwzględnić:
 
-- **Faza cyklu podczas badania** — najlepiej standaryzować badania w tej samej fazie (folikularnej) lub przeprowadzać dwufazowo
-- **Prospektywne dzienniki objawów** — co najmniej 2 cykle dla potwierdzenia PMDD (skale: DRSP, PMR-C, C-SSRS)
+- **Faza cyklu podczas badania** - najlepiej standaryzować badania w tej samej fazie (folikularnej) lub przeprowadzać dwufazowo
+- **Prospektywne dzienniki objawów** - co najmniej 2 cykle dla potwierdzenia PMDD (skale: DRSP, PMR-C, C-SSRS)
 - **Różnicowanie PMDD vs. zaostrzenie przedmiesiączkowe** innych zaburzeń (depresja, lęk, ADHD)
-- **Anamneza ginekologiczna** — regularność cykli, antykoncepcja hormonalna, PCOS, endometrioza
+- **Anamneza ginekologiczna** - regularność cykli, antykoncepcja hormonalna, PCOS, endometrioza
 
 > **Praktyczna wskazówka:** Kobiety z ADHD często doświadczają wyraźnego nasilenia objawów w fazie lutealnej (E2 moduluje dopaminę i noradrenalinę w PFC). Ocena neuropsychologiczna ADHD powinna uwzględniać fazę cyklu lub być przeprowadzana wielokrotnie.
 
@@ -195,11 +195,11 @@ Stosowanie hormonalnych środków antykoncepcyjnych eliminuje naturalne wahania 
 
 Neuropsychologia cyklu miesiączkowego ma praktyczne implikacje:
 
-1. **Standaryzacja badań neuropsychologicznych** — kontrola fazy cyklu zwiększa rzetelność pomiarów
-2. **Planowanie terapii farmakologicznych** — np. SSRIs stosowane w trybie lutealnym (LPT) jako leczenie PMDD
-3. **Edukacja i psychoedukacja** — rozumienie biologicznego podłoża zmienności nastroju i koncentracji zmniejsza autostygmatyzację
-4. **Diagnostyka różnicowa** — odróżnienie PMDD od zaburzenia depresyjnego lub dwubiegunowego wymaga obserwacji przez co najmniej 2 cykle
-5. **Medycyna precyzyjna** — odpowiedź na leki psychotropowe może zależeć od fazy cyklu i statusu hormonalnego
+1. **Standaryzacja badań neuropsychologicznych** - kontrola fazy cyklu zwiększa rzetelność pomiarów
+2. **Planowanie terapii farmakologicznych** - np. SSRIs stosowane w trybie lutealnym (LPT) jako leczenie PMDD
+3. **Edukacja i psychoedukacja** - rozumienie biologicznego podłoża zmienności nastroju i koncentracji zmniejsza autostygmatyzację
+4. **Diagnostyka różnicowa** - odróżnienie PMDD od zaburzenia depresyjnego lub dwubiegunowego wymaga obserwacji przez co najmniej 2 cykle
+5. **Medycyna precyzyjna** - odpowiedź na leki psychotropowe może zależeć od fazy cyklu i statusu hormonalnego
 
 
 ## Wprowadzenie

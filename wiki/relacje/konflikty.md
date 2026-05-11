@@ -8,9 +8,9 @@ evidenceCutoffDate: 2025-12-31
 
 ## Wprowadzenie
 
-Konflikt jest nieuchronnym elementem każdej bliskiej relacji. Badania Gottmana wykazały, że **69% konfliktów par to konflikty nierozwiązywalne** — dotyczą trwałych różnic charakteru, wartości lub potrzeb. Kluczem do zdrowia relacji nie jest eliminacja konfliktów, lecz **sposób, w jaki para z nimi się zmaga**. Destrukcyjny konflikt niszczy związek; konstruktywnie zarządzany — pogłębia zrozumienie i umacnia więź.
+Konflikt jest nieuchronnym elementem każdej bliskiej relacji. Badania Gottmana wykazały, że **69% konfliktów par to konflikty nierozwiązywalne** - dotyczą trwałych różnic charakteru, wartości lub potrzeb. Kluczem do zdrowia relacji nie jest eliminacja konfliktów, lecz **sposób, w jaki para z nimi się zmaga**. Destrukcyjny konflikt niszczy związek; konstruktywnie zarządzany - pogłębia zrozumienie i umacnia więź.
 
-> „Szczęśliwe pary nie są parami bez konfliktów. To pary, które potrafią konstruktywnie walczyć." — John Gottman
+> „Szczęśliwe pary nie są parami bez konfliktów. To pary, które potrafią konstruktywnie walczyć." - John Gottman
 
 ---
 
@@ -66,15 +66,15 @@ W kontekście relacji par **kolaboracja** jest najbardziej adaptacyjna długoter
 
 ## Dom Zdrowej Relacji Gottmana
 
-John Gottman zaproponował metaforę **„Sound Relationship House" (Dom Zdrowej Relacji)** — siedmiowarstwowy model zdrowego związku, w którym zarządzanie konfliktem jest jedną z warstw:
+John Gottman zaproponował metaforę **„Sound Relationship House" (Dom Zdrowej Relacji)** - siedmiowarstwowy model zdrowego związku, w którym zarządzanie konfliktem jest jedną z warstw:
 
-1. **Mapy miłości** — znajomość wewnętrznego świata partnera
-2. **Życzliwość i podziw** — budowanie kultury docenienia
-3. **Zwroty ku sobie nawzajem** — odpowiadanie na „przetargi emocjonalne"
-4. **Perspektywa pozytywna** — pozytywna ocena motywacji partnera
-5. **Zarządzanie konfliktem** — deeskalacja, kompromis, tolerancja błędów
-6. **Realizacja marzeń** — wspieranie celów życiowych partnera
-7. **Wspólne znaczenia** — rytuały, mity i narracje budujące tożsamość pary
+1. **Mapy miłości** - znajomość wewnętrznego świata partnera
+2. **Życzliwość i podziw** - budowanie kultury docenienia
+3. **Zwroty ku sobie nawzajem** - odpowiadanie na „przetargi emocjonalne"
+4. **Perspektywa pozytywna** - pozytywna ocena motywacji partnera
+5. **Zarządzanie konfliktem** - deeskalacja, kompromis, tolerancja błędów
+6. **Realizacja marzeń** - wspieranie celów życiowych partnera
+7. **Wspólne znaczenia** - rytuały, mity i narracje budujące tożsamość pary
 
 Warstwy 1–4 tworzą **fundament** zaufania i bliskości, bez którego zarządzanie konfliktem (warstwa 5) jest niemożliwe lub powierzchowne.
 
@@ -82,11 +82,11 @@ Warstwy 1–4 tworzą **fundament** zaufania i bliskości, bez którego zarządz
 
 ## Flooding i regulacja fizjologiczna
 
-Podczas intensywnych kłótni może dochodzić do **fizjologicznego zalania** (*flooding*) — stanu wzbudzenia autonomicznego układu nerwowego (tętno > 100/min), w którym zdolność do empatii, logicznego myślenia i efektywnej komunikacji jest poważnie zaburzona.
+Podczas intensywnych kłótni może dochodzić do **fizjologicznego zalania** (*flooding*) - stanu wzbudzenia autonomicznego układu nerwowego (tętno > 100/min), w którym zdolność do empatii, logicznego myślenia i efektywnej komunikacji jest poważnie zaburzona.
 
 Gottman zaleca:
 1. **Rozpoznanie sygnałów zalania** (przyspieszone serce, napięcie mięśni, zawężenie uwagi)
-2. **Uzgodnioną przerwę** — minimum 20–30 minut bez myślenia o konflikcie
+2. **Uzgodnioną przerwę** - minimum 20–30 minut bez myślenia o konflikcie
 3. **Aktywne techniki relaksacyjne** (oddech, ruch fizyczny)
 4. **Powrót do rozmowy** z zamiarem rozumienia, nie wygrania
 
@@ -99,30 +99,30 @@ Gottman zaleca:
 - **Partner żądający**: nalega na rozmowę, presja na zmianę, eskalacja emocjonalna
 - **Partner wycofujący**: ucieczka, milczenie, zmiana tematu, zamknięcie się
 
-Wzorzec tworzy **samowzmacniającą się spiralę** — im bardziej jeden partner się wycofuje, tym silniej drugi nalega; im silniej naciska, tym większe wycofanie. Przerywanie wzorca wymaga interwencji na poziomie obu stron jednocześnie.
+Wzorzec tworzy **samowzmacniającą się spiralę** - im bardziej jeden partner się wycofuje, tym silniej drugi nalega; im silniej naciska, tym większe wycofanie. Przerywanie wzorca wymaga interwencji na poziomie obu stron jednocześnie.
 
 ---
 
 ## Strategie konstruktywnego rozwiązywania konfliktów
 
 ### Miękkie rozpoczęcie (*Soft Start-Up*)
-Gottman radzi rozpoczynać trudne rozmowy od wyrażenia własnych potrzeb i uczuć zamiast od skargi lub oskarżenia. Przykład: „Czuję się samotny, kiedy wieczorami siedzisz przy komputerze — potrzebuję naszego wspólnego czasu" zamiast „Nigdy nie masz dla mnie czasu."
+Gottman radzi rozpoczynać trudne rozmowy od wyrażenia własnych potrzeb i uczuć zamiast od skargi lub oskarżenia. Przykład: „Czuję się samotny, kiedy wieczorami siedzisz przy komputerze - potrzebuję naszego wspólnego czasu" zamiast „Nigdy nie masz dla mnie czasu."
 
 ### Skrypt: DEAR MAN (DBT)
 Marsha Linehan w ramach Dialectical Behavior Therapy zaproponowała strukturę asertywnej rozmowy:
-- **D**escribe — opisz sytuację
-- **E**xpress — wyraź uczucia
-- **A**ssert — powiedz, o co prosisz
-- **R**einforce — wyjaśnij korzyści dla obu stron
+- **D**escribe - opisz sytuację
+- **E**xpress - wyraź uczucia
+- **A**ssert - powiedz, o co prosisz
+- **R**einforce - wyjaśnij korzyści dla obu stron
 
 ### Przyjmowanie wpływu partnera
-Gottman podkreśla, że gotowość do **przyjmowania wpływu** (*accepting influence*) — uwzględniania perspektywy i potrzeb partnera — jest kluczowa dla mężczyzn (w jego badaniach to oni statystycznie częściej odmawiają przyjęcia wpływu, co koreluje z rozpadem związku).
+Gottman podkreśla, że gotowość do **przyjmowania wpływu** (*accepting influence*) - uwzględniania perspektywy i potrzeb partnera - jest kluczowa dla mężczyzn (w jego badaniach to oni statystycznie częściej odmawiają przyjęcia wpływu, co koreluje z rozpadem związku).
 
 ---
 
-## Konflikty nierozwiązywalne — dialog zamiast rozwiązania
+## Konflikty nierozwiązywalne - dialog zamiast rozwiązania
 
-Dla 69% problemów nierozwiązywalnych Gottman proponuje nie szukanie rozwiązania, lecz **budowanie dialogu** — wzajemne rozumienie marzeń i wartości stojących za każdym stanowiskiem. Pytania pomocnicze:
+Dla 69% problemów nierozwiązywalnych Gottman proponuje nie szukanie rozwiązania, lecz **budowanie dialogu** - wzajemne rozumienie marzeń i wartości stojących za każdym stanowiskiem. Pytania pomocnicze:
 - „Co dla ciebie symbolicznie oznacza ta kwestia?"
 - „Jaka potrzeba lub wartość jest dla ciebie tutaj stawką?"
 - „Jakie minimum jest dla ciebie bezwzględnie konieczne?"

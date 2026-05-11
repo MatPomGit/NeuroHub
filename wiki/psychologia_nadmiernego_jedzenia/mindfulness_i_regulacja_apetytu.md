@@ -28,7 +28,7 @@ Wprowadzaj uważność etapowo i łącz z protokołami CBT/ACT.
 Ćwicz krótkie rytuały rodzinne przed jedzeniem (pauza 30 sekund, ocena głodu 0–10).
 
 ## Ocena jakości dowodów
-Dowody dla mindfulness jako dodatku do terapii są **umiarkowane**; jako monoterapii dla ciężkich przypadków — **wstępne**.
+Dowody dla mindfulness jako dodatku do terapii są **umiarkowane**; jako monoterapii dla ciężkich przypadków - **wstępne**.
 
 ## Podsumowanie
 Uważność wzmacnia samoregulację, ale wymaga osadzenia w szerszym planie.

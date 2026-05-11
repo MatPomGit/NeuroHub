@@ -4,7 +4,7 @@ reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
 
-# Temperament Kagana — zahamowanie behawioralne i inhibicja
+# Temperament Kagana - zahamowanie behawioralne i inhibicja
 
 Jerome Kagan zidentyfikował **zahamowanie behawioralne** jako jeden z najstabilniejszych i najlepiej przebadanych wymiarów temperamentu wczesnodziecięcego, powiązany z biologiczną reaktywnością i długoterminowym ryzykiem lękowym.
 
@@ -22,7 +22,7 @@ Główne odkrycie Kagana: **reaktywność niemowląt na nowość** (w wieku 4 mi
 - Długotrwałego okresu adaptacji do nowości
 - Podwyższonego pobudzenia fizjologicznego (przyspieszone tętno, wzrost kortyzolu, napięcie mięśni)
 
-Przeciwieństwem BI jest **brak zahamowania behawioralnego** (*behavioural uninhibition*) — zbliżanie się do nowości z ciekawością i pozytywnym afektem.
+Przeciwieństwem BI jest **brak zahamowania behawioralnego** (*behavioural uninhibition*) - zbliżanie się do nowości z ciekawością i pozytywnym afektem.
 
 ### Epidemiologia
 
@@ -45,7 +45,7 @@ Kagan wiązał BI z **nadreaktywnością ciała migdałowatego** (*amygdala*):
 - Wyższe wartości tętna spoczynkowego i mniejsza zmienność rytmu serca
 - Większa aktywacja prawej półkuli czołowej w EEG (asymetria frontalna)
 
-Badania neuroimagingowe (Schwartz i in., 2003) wykazały, że dorośli z historią BI w dzieciństwie wykazują większą aktywację amygdali na twarze nieznajomych — nawet po kilkunastu latach.
+Badania neuroimagingowe (Schwartz i in., 2003) wykazały, że dorośli z historią BI w dzieciństwie wykazują większą aktywację amygdali na twarze nieznajomych - nawet po kilkunastu latach.
 
 ## Stabilność zahamowania behawioralnego
 
@@ -69,7 +69,7 @@ Powiązanie BI z fobią społeczną jest jednym z najlepiej udokumentowanych zwi
 
 ## Neofobia i strach przed nowością
 
-BI obejmuje komponent *neofobii* — ogólnej niechęci do nowych doświadczeń, wykraczającej poza kontakty społeczne. Dzieci z wysokim BI unikają nowych potraw, zabawek, środowisk. Kagan uznał BI za przejaw **ogólnej wrażliwości na niepewność**.
+BI obejmuje komponent *neofobii* - ogólnej niechęci do nowych doświadczeń, wykraczającej poza kontakty społeczne. Dzieci z wysokim BI unikają nowych potraw, zabawek, środowisk. Kagan uznał BI za przejaw **ogólnej wrażliwości na niepewność**.
 
 ## Różnice kulturowe w BI
 
@@ -83,7 +83,7 @@ Interesujące wyniki przyniosły badania porównawcze:
 - Wczesna identyfikacja dzieci z wysokim BI umożliwia interwencję profilaktyczną
 - **Trening społeczny** oparty na stopniowej ekspozycji jest efektywny
 - Rodzice dzieci z wysokim BI powinni być edukowani o ryzyku nadopiekuńczości
-- Nauczyciele — o potrzebie dostosowania tempa wprowadzania nowości
+- Nauczyciele - o potrzebie dostosowania tempa wprowadzania nowości
 
 ## Literatura
 

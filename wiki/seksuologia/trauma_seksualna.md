@@ -6,7 +6,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Trauma seksualna
 
-Psychologiczne skutki nadużycia seksualnego — wpływ na seksualność, zdrowie psychiczne i podejście terapeutyczne.
+Psychologiczne skutki nadużycia seksualnego - wpływ na seksualność, zdrowie psychiczne i podejście terapeutyczne.
 
 ## Definicja i formy
 
@@ -16,7 +16,7 @@ Psychologiczne skutki nadużycia seksualnego — wpływ na seksualność, zdrowi
 
 ## Psychologiczne skutki traumy seksualnej
 
-**PTSD i C-PTSD** — intruzywne wspomnienia, unikanie, nadmierna czujność, negatywne zmiany w poznaniu i nastroju. **Depresja, zaburzenia lękowe** — wstyd, poczucie winy, niskie poczucie własnej wartości. **Dysocjacja** — odcięcie od ciała i doświadczeń seksualnych; w ciężkich formach: zaburzenie dysocjacyjne tożsamości (DID).
+**PTSD i C-PTSD** - intruzywne wspomnienia, unikanie, nadmierna czujność, negatywne zmiany w poznaniu i nastroju. **Depresja, zaburzenia lękowe** - wstyd, poczucie winy, niskie poczucie własnej wartości. **Dysocjacja** - odcięcie od ciała i doświadczeń seksualnych; w ciężkich formach: zaburzenie dysocjacyjne tożsamości (DID).
 
 **Skutki seksualne**: unikanie intymności, dysfunkcje seksualne (ból, trudności z podnieceniem, orgazmem), kompulsywne zachowania seksualne (hypersexuality jako forma unikania lub samoukojenia), trudności z zaufaniem i granicami w relacjach.
 
@@ -28,10 +28,10 @@ Trauma seksualna, szczególnie we wczesnym dzieciństwie, może zakłócić **be
 
 **Traumainformowana terapia** (trauma-informed care) opiera się na bezpieczeństwie, wiarygodności, wyborze i władzy, współpracy i wzmocnieniu. Konkretne modalności:
 
-- **TF-CBT** (Trauma-Focused CBT) — szczególnie dla dzieci i adolescentów, angażuje opiekunów;
-- **EMDR** — przetwarzanie traumatycznych wspomnień;
-- **Somatic Experiencing** (Levine) — praca z odpowiedzią ciała na traumę;
-- **DBT** — regulacja emocji i tolerancja dystresu przy współwystępującym BPD lub NSSI.
+- **TF-CBT** (Trauma-Focused CBT) - szczególnie dla dzieci i adolescentów, angażuje opiekunów;
+- **EMDR** - przetwarzanie traumatycznych wspomnień;
+- **Somatic Experiencing** (Levine) - praca z odpowiedzią ciała na traumę;
+- **DBT** - regulacja emocji i tolerancja dystresu przy współwystępującym BPD lub NSSI.
 
 Terapia seksualna po traumie jest możliwa i skuteczna, ale powinna być starannie dozowana i prowadzona przez terapeutę znającego dynamikę traumy.
 

@@ -12,10 +12,10 @@ Kompetencje wystąpień publicznych są kluczowe dla psychologów: w psychoeduka
 
 ## Definicje
 
-- **Autoprezentacja** — strategiczne kształtowanie sposobu, w jaki jesteśmy postrzegani przez innych.
-- **Lęk przed oceną** — napięcie wynikające z przewidywania negatywnej oceny społecznej.
-- **Obciążenie poznawcze odbiorcy** — poziom trudności, jaki słuchacz musi pokonać, by zrozumieć komunikat.
-- **Spójność werbalno-niewerbalna** — zgodność treści wypowiedzi z tonem głosu, mimiką i postawą ciała.
+- **Autoprezentacja** - strategiczne kształtowanie sposobu, w jaki jesteśmy postrzegani przez innych.
+- **Lęk przed oceną** - napięcie wynikające z przewidywania negatywnej oceny społecznej.
+- **Obciążenie poznawcze odbiorcy** - poziom trudności, jaki słuchacz musi pokonać, by zrozumieć komunikat.
+- **Spójność werbalno-niewerbalna** - zgodność treści wypowiedzi z tonem głosu, mimiką i postawą ciała.
 
 ## Analiza
 
@@ -35,8 +35,8 @@ Badania nad wiarygodnością mówcy wskazują, że odbiorcy lepiej reagują na p
 
 W autoprezentacji warto odróżnić dwie strategie:
 
-- **Strategia „maski” (sztuczny obraz siebie)** — mówca buduje personę idealną: zawsze pewną, bezbłędną, emocjonalnie „wypolerowaną”.  
-- **Strategia „autentycznej profesjonalności”** — mówca pokazuje realny styl myślenia, granice wiedzy i sposób dochodzenia do wniosków, przy zachowaniu standardu zawodowego.
+- **Strategia „maski” (sztuczny obraz siebie)** - mówca buduje personę idealną: zawsze pewną, bezbłędną, emocjonalnie „wypolerowaną”.  
+- **Strategia „autentycznej profesjonalności”** - mówca pokazuje realny styl myślenia, granice wiedzy i sposób dochodzenia do wniosków, przy zachowaniu standardu zawodowego.
 
 Pierwsza strategia bywa skuteczna krótkoterminowo (silne pierwsze wrażenie), ale kosztowna psychologicznie: zwiększa samomonitorowanie, lęk przed „zdemaskowaniem” i sztywność reakcji na pytania. Druga strategia częściej buduje trwałe zaufanie, bo odbiorcy widzą nie tylko „wynik”, lecz także proces rozumowania i etykę pracy.
 
@@ -142,11 +142,11 @@ Nieoczywista perspektywa zakłada, że skuteczna autoprezentacja jest przede wsz
 
 ## Powiązane artykuły (cross-linki)
 
-- `students/sciezki_kariery` — kompetencje transferowalne na rynku pracy.
-- `spoleczna/perswazja` — mechanizmy wpływu i etyka komunikacji.
-- `spoleczna/ja_i_samoocena` — poczucie własnej wartości a ekspozycja społeczna.
-- `students/psycholog_w_it` — prezentacja wyników badań i komunikacja z zespołami technicznymi.
-- `reference/mapa_powiazan_nowe_artykuly` — mapa relacji między nowymi tekstami.
+- `students/sciezki_kariery` - kompetencje transferowalne na rynku pracy.
+- `spoleczna/perswazja` - mechanizmy wpływu i etyka komunikacji.
+- `spoleczna/ja_i_samoocena` - poczucie własnej wartości a ekspozycja społeczna.
+- `students/psycholog_w_it` - prezentacja wyników badań i komunikacja z zespołami technicznymi.
+- `reference/mapa_powiazan_nowe_artykuly` - mapa relacji między nowymi tekstami.
 
 ## Podsumowanie
 

@@ -58,7 +58,7 @@ Badania neuroobrazowe ujawniają podobieństwa między uzależnieniem od gier a 
 
 ### Układ nagrody
 
-Granie aktywuje mezolimbiczny układ dopaminergiczny — ten sam, który jest zaangażowany w uzależnienia od substancji psychoaktywnych. Badania fMRI wykazały, że u osób z IGD:
+Granie aktywuje mezolimbiczny układ dopaminergiczny - ten sam, który jest zaangażowany w uzależnienia od substancji psychoaktywnych. Badania fMRI wykazały, że u osób z IGD:
 
 - Widok materiałów związanych z grami wywołuje wzmożoną aktywację jądra półleżącego
 - Kora przedczołowa (odpowiedzialna za kontrolę impulsów) wykazuje zmniejszoną aktywność
@@ -81,7 +81,7 @@ Zaburzona regulacja dopaminergiczna i serotoninergiczna jest kluczowym mechanizm
 Rozwojowi uzależnienia od gier sprzyjają:
 
 - Wysoka impulsywność i słaba kontrola hamowania
-- Objawy ADHD — bardzo silny czynnik ryzyka (nawet 5-krotnie wyższe ryzyko IGD)
+- Objawy ADHD - bardzo silny czynnik ryzyka (nawet 5-krotnie wyższe ryzyko IGD)
 - Depresja, lęk i niska samoocena
 - Niedostateczne zaspokojenie potrzeb autonomii i kompetencji w realnym życiu
 - Dysfunkcjonalne środowisko rodzinne (konflikty, brak nadzoru rodzicielskiego)
@@ -92,7 +92,7 @@ Rozwojowi uzależnienia od gier sprzyjają:
 
 **Przypadek Marka, 17 lat:**
 
-Marek trafił do poradni psychologicznej po tym, jak jego rodzice zauważyli, że przez ostatnie pół roku praktycznie nie wychodzi z domu. Gra codziennie od 12 do 16 godzin, zaniedbał szkołę (nie zaliczył roku), zrezygnował z treningu koszykówki, którą wcześniej uprawiał przez 5 lat. Przy próbach ograniczania grania przez rodziców staje się agresywny, nie śpi w nocy. Marek twierdzi, że w grze jest „kimś" — ma najwyższy ranking na serwerze, a jego wirtualna gildia liczy na niego. Mówi: „W szkole jestem nikim, w grze wszyscy mnie szanują." Wywiad ujawnił wcześniejszą historię dokuczania przez rówieśników i depresji.
+Marek trafił do poradni psychologicznej po tym, jak jego rodzice zauważyli, że przez ostatnie pół roku praktycznie nie wychodzi z domu. Gra codziennie od 12 do 16 godzin, zaniedbał szkołę (nie zaliczył roku), zrezygnował z treningu koszykówki, którą wcześniej uprawiał przez 5 lat. Przy próbach ograniczania grania przez rodziców staje się agresywny, nie śpi w nocy. Marek twierdzi, że w grze jest „kimś" - ma najwyższy ranking na serwerze, a jego wirtualna gildia liczy na niego. Mówi: „W szkole jestem nikim, w grze wszyscy mnie szanują." Wywiad ujawnił wcześniejszą historię dokuczania przez rówieśników i depresji.
 
 ## Leczenie i interwencje
 

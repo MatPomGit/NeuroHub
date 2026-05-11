@@ -24,8 +24,8 @@ Te same osoby są badane wielokrotnie na przestrzeni lat lub dekad. Pozwala śle
 
 **Ograniczenia:**
 - Wysoki koszt i czasochłonność
-- **Attrition** (wykruszanie się uczestników) — nielosowy charakter rezygnacji zaburza reprezentatywność
-- Efekty retestowania — wielokrotne stosowanie tych samych narzędzi poprawia wyniki niezależnie od prawdziwego rozwoju
+- **Attrition** (wykruszanie się uczestników) - nielosowy charakter rezygnacji zaburza reprezentatywność
+- Efekty retestowania - wielokrotne stosowanie tych samych narzędzi poprawia wyniki niezależnie od prawdziwego rozwoju
 
 ### Plan sekwencyjny (*sequential/cohort-sequential design*)
 
@@ -41,13 +41,13 @@ Te same osoby są badane wielokrotnie na przestrzeni lat lub dekad. Pozwala śle
 
 ## Efekty kohorty i okresu historycznego
 
-**Efekt kohorty** — osoby urodzone w tym samym roku podzielają wspólne doświadczenia historyczne (np. pandemia COVID-19, reforma edukacji), które mogą wpływać na wyniki niezależnie od wieku biologicznego.
+**Efekt kohorty** - osoby urodzone w tym samym roku podzielają wspólne doświadczenia historyczne (np. pandemia COVID-19, reforma edukacji), które mogą wpływać na wyniki niezależnie od wieku biologicznego.
 
-**Efekt okresu historycznego** — zdarzenia dotykają wszystkich żyjących jednocześnie (np. zmiana standardów żywieniowych, dostęp do internetu). W planie podłużnym jest trudny do oddzielenia od efektu dojrzewania.
+**Efekt okresu historycznego** - zdarzenia dotykają wszystkich żyjących jednocześnie (np. zmiana standardów żywieniowych, dostęp do internetu). W planie podłużnym jest trudny do oddzielenia od efektu dojrzewania.
 
-**Efekt wieku** — zmiany wynikające z procesów biologicznych lub normatywnych doświadczeń wiązanych z etapem życia.
+**Efekt wieku** - zmiany wynikające z procesów biologicznych lub normatywnych doświadczeń wiązanych z etapem życia.
 
-> Klasyczny przykład konfuzji kohorty z wiekiem: plany poprzeczne przez długi czas wskazywały na drastyczny spadek inteligencji po 60. roku życia. Badania podłużne (Schaie, Seattle Longitudinal Study) wykazały, że większość tego spadku to efekt kohorty — starsze osoby miały po prostu niższy poziom wykształcenia, nie gorszy mózg.
+> Klasyczny przykład konfuzji kohorty z wiekiem: plany poprzeczne przez długi czas wskazywały na drastyczny spadek inteligencji po 60. roku życia. Badania podłużne (Schaie, Seattle Longitudinal Study) wykazały, że większość tego spadku to efekt kohorty - starsze osoby miały po prostu niższy poziom wykształcenia, nie gorszy mózg.
 
 ---
 
@@ -91,11 +91,11 @@ Badanie 268 studentów Harvardu, kontynuowane przez George'a Vaillanta. Kluczowy
 
 Badania podłużne generują szczególne wyzwania etyczne:
 
-- **Anonimowość a identyfikowalność** — konieczność śledzenia uczestników przez lata wymaga przechowywania danych identyfikacyjnych, co tworzy napięcie z ochroną prywatności
-- **Prawo do wycofania się** — uczestnik musi mieć możliwość rezygnacji na każdym etapie bez konsekwencji
-- **Odkrycia incydentalne** — badacz może uzyskać dane kliniczne (np. diagnoza choroby) — obowiązek informowania uczestnika
-- **Zgoda dynamiczna** — zgoda wyrażona w dzieciństwie przez rodziców wymaga ponownej akceptacji przez dorosłego uczestnika
-- **Wrażliwość danych** — dane o zachowaniach, zdrowiu psychicznym i dochodach wymagają szczególnych zabezpieczeń
+- **Anonimowość a identyfikowalność** - konieczność śledzenia uczestników przez lata wymaga przechowywania danych identyfikacyjnych, co tworzy napięcie z ochroną prywatności
+- **Prawo do wycofania się** - uczestnik musi mieć możliwość rezygnacji na każdym etapie bez konsekwencji
+- **Odkrycia incydentalne** - badacz może uzyskać dane kliniczne (np. diagnoza choroby) - obowiązek informowania uczestnika
+- **Zgoda dynamiczna** - zgoda wyrażona w dzieciństwie przez rodziców wymaga ponownej akceptacji przez dorosłego uczestnika
+- **Wrażliwość danych** - dane o zachowaniach, zdrowiu psychicznym i dochodach wymagają szczególnych zabezpieczeń
 
 ---
 
@@ -103,16 +103,16 @@ Badania podłużne generują szczególne wyzwania etyczne:
 
 Współczesna psychologia rozwojowa sięga po nowe strategie:
 
-- **Intensive longitudinal methods** — wielokrotne, codzienne pomiary (experience sampling, ESM) ujawniające zmienność wewnątrzosobniczą
-- **Badania kohortowe oparte na rejestrach** — Skandynawia i jej rejestry administracyjne pozwalają śledzić całe populacje przez pokolenia
-- **Genomika i epigenetyka** — badania GWAS i metylacja DNA jako moderatory trajektorii rozwojowych
-- **Modele wielopoziomowe (HLM)** — umożliwiają analizę zmienności zarówno między osobami, jak i wewnątrz osób w czasie
+- **Intensive longitudinal methods** - wielokrotne, codzienne pomiary (experience sampling, ESM) ujawniające zmienność wewnątrzosobniczą
+- **Badania kohortowe oparte na rejestrach** - Skandynawia i jej rejestry administracyjne pozwalają śledzić całe populacje przez pokolenia
+- **Genomika i epigenetyka** - badania GWAS i metylacja DNA jako moderatory trajektorii rozwojowych
+- **Modele wielopoziomowe (HLM)** - umożliwiają analizę zmienności zarówno między osobami, jak i wewnątrz osób w czasie
 
 ---
 
 ## Podsumowanie
 
-Badania podłużne są złotym standardem psychologii rozwojowej, gdyż jako jedyne pozwalają bezpośrednio obserwować zmianę w czasie i identyfikować wczesne predyktory późniejszych wyników. Ich największe ograniczenia — attrition i efekty retestowania — można minimalizować, ale nie eliminować. Plan sekwencyjny stanowi najsilniejszy metodologicznie kompromis, pozwalający rozdzielić wpływ wieku, kohorty i okresu historycznego. Wyniki wielkich badań podłużnych XX wieku fundamentalnie zmieniły naszą wiedzę o tym, jak wczesne doświadczenia kształtują całe życie.
+Badania podłużne są złotym standardem psychologii rozwojowej, gdyż jako jedyne pozwalają bezpośrednio obserwować zmianę w czasie i identyfikować wczesne predyktory późniejszych wyników. Ich największe ograniczenia - attrition i efekty retestowania - można minimalizować, ale nie eliminować. Plan sekwencyjny stanowi najsilniejszy metodologicznie kompromis, pozwalający rozdzielić wpływ wieku, kohorty i okresu historycznego. Wyniki wielkich badań podłużnych XX wieku fundamentalnie zmieniły naszą wiedzę o tym, jak wczesne doświadczenia kształtują całe życie.
 
 ---
 

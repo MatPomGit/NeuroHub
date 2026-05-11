@@ -18,9 +18,9 @@ Dobre relacje społeczne:
 - zwiększają motywację do aktywności,
 - poprawiają przestrzeganie zaleceń medycznych.
 
-Izolacja społeczna działa odwrotnie — nasila stres, bierność i objawy somatyczne.
+Izolacja społeczna działa odwrotnie - nasila stres, bierność i objawy somatyczne.
 
-## Samotność a izolacja — to nie to samo
+## Samotność a izolacja - to nie to samo
 
 - **Izolacja społeczna**: obiektywnie mała liczba kontaktów.
 - **Samotność**: subiektywne poczucie braku bliskiej więzi.
@@ -96,7 +96,7 @@ Technologie (komunikatory, rozmowy wideo, grupy online) mogą skutecznie podtrzy
 
 ## Podsumowanie
 
-Relacje społeczne w starości są nie dodatkiem, ale podstawowym zasobem zdrowia. Dobra sieć wsparcia nie musi być duża — wystarczy, że jest stabilna, wzajemna i oparta na szacunku. Wzmacnianie więzi to jedna z najskuteczniejszych interwencji poprawiających dobrostan seniorów.
+Relacje społeczne w starości są nie dodatkiem, ale podstawowym zasobem zdrowia. Dobra sieć wsparcia nie musi być duża - wystarczy, że jest stabilna, wzajemna i oparta na szacunku. Wzmacnianie więzi to jedna z najskuteczniejszych interwencji poprawiających dobrostan seniorów.
 
 
 ## Wprowadzenie

@@ -6,8 +6,8 @@
  * na podstawie aktualnie wyrenderowanego artykułu.
  */
 (function setupSeoRuntime() {
-  const DEFAULT_TITLE = 'PsyHub — Portal Wiedzy Psychologicznej';
-  const DEFAULT_DESCRIPTION = 'PsyHub — portal wiedzy psychologicznej z artykułami, testami i materiałami edukacyjnymi.';
+  const DEFAULT_TITLE = 'PsyHub - Portal Wiedzy Psychologicznej';
+  const DEFAULT_DESCRIPTION = 'PsyHub - portal wiedzy psychologicznej z artykułami, testami i materiałami edukacyjnymi.';
 
   function ensureMeta(selector, attributes) {
     let element = document.head.querySelector(selector);
@@ -41,7 +41,7 @@
       content.querySelector('.page-hero h1')?.textContent ||
       content.querySelector('h1')?.textContent
     );
-    const title = titleText ? `${titleText} — PsyHub` : DEFAULT_TITLE;
+    const title = titleText ? `${titleText} - PsyHub` : DEFAULT_TITLE;
     const description = buildDescription(content);
     const canonicalUrl = window.location.href;
 

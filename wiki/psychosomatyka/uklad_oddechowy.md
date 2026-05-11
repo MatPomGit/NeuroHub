@@ -6,7 +6,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Psychosomatyka układu oddechowego
 
-Oddychanie jest wyjątkową funkcją ciała — jedyną autonomiczną (niezależną od woli), która równocześnie podlega świadomej kontroli. Układ oddechowy jest niezwykle wrażliwym czujnikiem stanów emocjonalnych i jednym z głównych narządów wyrażających reakcje psychosomatyczne.
+Oddychanie jest wyjątkową funkcją ciała - jedyną autonomiczną (niezależną od woli), która równocześnie podlega świadomej kontroli. Układ oddechowy jest niezwykle wrażliwym czujnikiem stanów emocjonalnych i jednym z głównych narządów wyrażających reakcje psychosomatyczne.
 
 ## Oddychanie jako most ciało–umysł
 
@@ -17,9 +17,9 @@ Każda emocja natychmiastowo zmienia wzorzec oddechu:
 - Smutek → szlochy, westchnienia, zatrzymywanie oddechu
 - Spokój → oddech głęboki, wolny, przeponowy
 
-Ponieważ oddychanie może być kontrolowane świadomie, stanowi **bezpośredni wejście do regulacji układu autonomicznego** — techniki oddechowe są najprostszą i najbardziej dostępną formą wpływu na stan fizjologiczny.
+Ponieważ oddychanie może być kontrolowane świadomie, stanowi **bezpośredni wejście do regulacji układu autonomicznego** - techniki oddechowe są najprostszą i najbardziej dostępną formą wpływu na stan fizjologiczny.
 
-## Astma oskrzelowa — paradygmatyczna choroba psychosomatyczna
+## Astma oskrzelowa - paradygmatyczna choroba psychosomatyczna
 
 Astma jest klasyczną chorobą psychosomatyczną w ujęciu Franza Alexandra. Choć podłoże jest immunologiczne (nadreaktywność oskrzeli, IgE), czynniki psychologiczne mają udowodniony wpływ na jej przebieg.
 
@@ -30,11 +30,11 @@ Astma jest klasyczną chorobą psychosomatyczną w ujęciu Franza Alexandra. Cho
 
 **Profil psychologiczny:** Badania pokazują wyższe wskaźniki lęku, aleksytymii i trudności w regulacji emocji u pacjentów z astmą. Jednak typowy „profil osobowości astmatycznej" (nadmierna zależność od matki, jak opisywał Alexander) nie został potwierdzony.
 
-**Astma a lęk napadowy:** Nakładanie się jest bardzo częste — oba stany wywołują duszność, tachykardię i poczucie śmierci. Leczenie lęku poprawia kontrolę astmy.
+**Astma a lęk napadowy:** Nakładanie się jest bardzo częste - oba stany wywołują duszność, tachykardię i poczucie śmierci. Leczenie lęku poprawia kontrolę astmy.
 
 ## Hiperwentylacja i zespół hiperwentylacyjny
 
-Hiperwentylacja — nadmierne oddychanie prowadzące do hipokapnii (spadek CO₂ we krwi) — powoduje:
+Hiperwentylacja - nadmierne oddychanie prowadzące do hipokapnii (spadek CO₂ we krwi) - powoduje:
 
 - alkalozę oddechową → skurcz naczyń mózgowych → zawroty, mroczki
 - parestezje, mrowienie ust i kończyn
@@ -49,13 +49,13 @@ Zespół hiperwentylacyjny jest najczęstszą przyczyną duszności czynnościow
 
 Kaszel czynnościowy (bez organicznej przyczyny) jest często powiązany z lękiem, stresem i zaburzeniami głosu. Drażnienie gardła może być odpowiedzią ochronną na doświadczenie wstydliwe lub traumatyczne.
 
-Dysfonia czynnościowa i utrata głosu (afonia konwersyjna) — utrata zdolności mówienia bez organicznego powodu, klasycznie wiązana z „niemożnością" powiedzenia czegoś.
+Dysfonia czynnościowa i utrata głosu (afonia konwersyjna) - utrata zdolności mówienia bez organicznego powodu, klasycznie wiązana z „niemożnością" powiedzenia czegoś.
 
 ## Nocna duszność i sen
 
 Zaburzenia snu, szczególnie bezsenność i koszmary nocne (PTSD), mogą wywoływać nocne epizody duszności. Bezdech senny nasilany stresem tworzy pętlę: zły sen → wyższy stres → wyższy kortyzol → gorszy sen.
 
-## Techniki oddechowe — interwencje psychosomatyczne
+## Techniki oddechowe - interwencje psychosomatyczne
 
 | Technika | Mechanizm | Zastosowanie |
 |---|---|---|
@@ -73,7 +73,7 @@ Badania obrazowania mózgu pokazują, że świadome, wolne oddychanie aktywuje:
 - wyspę i krtań (interocepcja i świadomość ciała)
 - hamuje ciało migdałowate (zmniejsza reaktywność lękową)
 
-> **Podsumowanie:** Każdy oddech jest psychosomatyczny. Praca z oddechem to jedno z najpotężniejszych i najbardziej dostępnych narzędzi terapeutycznych — od doraźnego opanowania ataku paniki po długoterminową regulację układu nerwowego.
+> **Podsumowanie:** Każdy oddech jest psychosomatyczny. Praca z oddechem to jedno z najpotężniejszych i najbardziej dostępnych narzędzi terapeutycznych - od doraźnego opanowania ataku paniki po długoterminową regulację układu nerwowego.
 
 
 ## Wprowadzenie

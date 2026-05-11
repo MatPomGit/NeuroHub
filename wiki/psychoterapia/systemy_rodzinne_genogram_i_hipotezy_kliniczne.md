@@ -12,10 +12,10 @@ W pracy systemowej genogram pełni funkcję narzędzia analitycznego, nie tylko 
 
 ## Definicje
 
-- **Genogram** — graficzna mapa struktury rodziny i kluczowych relacji na przestrzeni pokoleń.
-- **Hipoteza kliniczna** — robocze wyjaśnienie mechanizmu problemu, które podlega weryfikacji.
-- **Sprzężenie zwrotne** — proces, w którym reakcja jednego członka rodziny wpływa na kolejne reakcje systemu.
-- **Lojalność międzypokoleniowa** — utrwalony wzorzec zobowiązań i ról przekazywanych między pokoleniami.
+- **Genogram** - graficzna mapa struktury rodziny i kluczowych relacji na przestrzeni pokoleń.
+- **Hipoteza kliniczna** - robocze wyjaśnienie mechanizmu problemu, które podlega weryfikacji.
+- **Sprzężenie zwrotne** - proces, w którym reakcja jednego członka rodziny wpływa na kolejne reakcje systemu.
+- **Lojalność międzypokoleniowa** - utrwalony wzorzec zobowiązań i ról przekazywanych między pokoleniami.
 
 ## Analiza
 
@@ -44,8 +44,8 @@ Specjalista używa genogramu jako narzędzia etykietowania („toksyczna rodzina
 Nieoczywiste ujęcie zakłada, że genogram może być narzędziem budowania sprawczości, a nie tylko diagnozy. Gdy rodzina widzi powtarzalne wzorce, łatwiej odróżnia „to, co odziedziczone” od „tego, co można dziś zmienić”.
 ## Powiązane artykuły (cross-linki)
 
-- `psychotherapy/systemy_rodzinne` — podstawy dynamiki systemowej.
-- `relacje/relacje_rodzinne` — dynamika relacji i konflikty.
+- `psychotherapy/systemy_rodzinne` - podstawy dynamiki systemowej.
+- `relacje/relacje_rodzinne` - dynamika relacji i konflikty.
 
 ## Podsumowanie
 

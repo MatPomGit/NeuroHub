@@ -39,15 +39,15 @@ Anderson i współpracownicy (2010) przeprowadzili meta-analizę 136 artykułów
 Markey, Males i Ferguson przeprowadzili szereg meta-analiz podważających te wnioski:
 
 - Efekty są statystycznie istotne, ale bardzo małe (r ≈ 0,15–0,20), porównywalne do wpływu jedzenia cukru na hiperaktywność
-- Wiele badań cierpi na błąd publikacji (publication bias) — wyniki negatywne rzadziej są publikowane
+- Wiele badań cierpi na błąd publikacji (publication bias) - wyniki negatywne rzadziej są publikowane
 - Stosowane miary agresji (np. dobieranie głośności hałasu dla innego gracza) mają niską trafność ekologiczną
 - Korekta o zmienne zakłócające (trait hostility, płeć) redukuje efekty do nieistotności
 
 > **Fakt:** Sąd Najwyższy USA w sprawie Brown v. Entertainment Merchants Association (2011) orzekł, że badania nad agresją i grami nie spełniają standardu dowodowego wymaganego do ograniczenia sprzedaży gier nieletnim.
 
-## Hipoteza katharsis — dowody i obalenie
+## Hipoteza katharsis - dowody i obalenie
 
-Hipoteza katharsis pochodzi od starożytnej koncepcji Arystotelesa i sugeruje, że odgrywanie agresji w bezpiecznym środowisku (jak gra wideo) redukuje rzeczywistą agresywność. Wielu graczy intuicyjnie wierzy w ten mechanizm — „grami rozładowuję stres".
+Hipoteza katharsis pochodzi od starożytnej koncepcji Arystotelesa i sugeruje, że odgrywanie agresji w bezpiecznym środowisku (jak gra wideo) redukuje rzeczywistą agresywność. Wielu graczy intuicyjnie wierzy w ten mechanizm - „grami rozładowuję stres".
 
 Badania empiryczne nie potwierdzają klasycznej hipotezy katharsis. Eksperyment Bushman (2002) wykazał, że gracze którzy grali w agresywne gry i traktowali to jako katharsis, wykazywali *wyższy* poziom agresji po graniu niż inne grupy. Teoria ekscytacji-transferu sugeruje, że pobudzenie wzbudzone podczas gry „przenosi się" na późniejsze zachowanie.
 
@@ -82,7 +82,7 @@ Związek między grami a agresją nie jest prosty i zależy od wielu zmienników
 - **Środowisko rodzinne**: silna więź z rodzicami bufuje negatywne efekty gier przemocowych
 - **Czas trwania**: krótkotrwałe efekty laboratoryjne mogą nie przekładać się na długoterminowe zmiany
 
-> **Fakt:** Badanie Przybylskiego i Weinsteina (2019) na reprezentatywnej próbie 1004 brytyjskich nastolatków wykazało, że czas spędzany w grach nie przewiduje agresji — wbrew wcześniejszym eksperymentalnym ustaleniom.
+> **Fakt:** Badanie Przybylskiego i Weinsteina (2019) na reprezentatywnej próbie 1004 brytyjskich nastolatków wykazało, że czas spędzany w grach nie przewiduje agresji - wbrew wcześniejszym eksperymentalnym ustaleniom.
 
 ## Model frustracji-agresji w kontekście gier
 

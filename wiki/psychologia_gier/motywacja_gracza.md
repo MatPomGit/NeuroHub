@@ -8,9 +8,9 @@ evidenceCutoffDate: 2025-12-31
 
 ## Dlaczego ludzie grają?
 
-Pytanie o motywacje graczy jest jednym z najważniejszych w psychologii gier wideo. Zrozumienie, co przyciąga miliardy ludzi do wirtualnych światów, ma kluczowe znaczenie zarówno dla projektantów gier, jak i dla klinicystów pracujących z osobami, u których granie staje się problemem. Odpowiedź jest złożona — gry angażują jednocześnie potrzeby poznawcze, emocjonalne i społeczne na sposób, który rzadko osiąga inne media.
+Pytanie o motywacje graczy jest jednym z najważniejszych w psychologii gier wideo. Zrozumienie, co przyciąga miliardy ludzi do wirtualnych światów, ma kluczowe znaczenie zarówno dla projektantów gier, jak i dla klinicystów pracujących z osobami, u których granie staje się problemem. Odpowiedź jest złożona - gry angażują jednocześnie potrzeby poznawcze, emocjonalne i społeczne na sposób, który rzadko osiąga inne media.
 
-> **Fakt:** Badanie Yee (2006) na próbie ponad 30 000 graczy MMORPG wykazało, że motywacje do grania są złożone i wielowymiarowe — żadna pojedyncza motywacja nie wyjaśnia zachowania więcej niż 20% graczy.
+> **Fakt:** Badanie Yee (2006) na próbie ponad 30 000 graczy MMORPG wykazało, że motywacje do grania są złożone i wielowymiarowe - żadna pojedyncza motywacja nie wyjaśnia zachowania więcej niż 20% graczy.
 
 ## Teoria Autodeterminacji (SDT) w kontekście gier
 
@@ -68,7 +68,7 @@ Skupia się na osiągnięciach w grze: zdobywaniu punktów, rang, tytułów, ko�
 
 ### Explorer (Odkrywca)
 
-Motywowany odkrywaniem świata gry — map, mechanik, historii, ukrytych sekretów. Interesuje go głębokość i złożoność środowiska.
+Motywowany odkrywaniem świata gry - map, mechanik, historii, ukrytych sekretów. Interesuje go głębokość i złożoność środowiska.
 
 *Typowe zachowanie*: eksploracja każdego zakątka, czytanie opisów przedmiotów, testowanie mechanik.
 
@@ -80,7 +80,7 @@ Dla niego gra jest przede wszystkim pretekstem do relacji z innymi ludźmi. Inte
 
 ### Killer (Wojownik)
 
-Czerpie satysfakcję z dominacji nad innymi graczami — zarówno poprzez walkę, jak i przez wpływanie na ich doświadczenia (pozytywnie lub negatywnie).
+Czerpie satysfakcję z dominacji nad innymi graczami - zarówno poprzez walkę, jak i przez wpływanie na ich doświadczenia (pozytywnie lub negatywnie).
 
 *Typowe zachowanie*: PvP, griefer, rywalizacja rankingowa.
 
@@ -90,9 +90,9 @@ Czerpie satysfakcję z dominacji nad innymi graczami — zarówno poprzez walkę
 
 Kluczowe rozróżnienie w psychologii motywacji to podział na:
 
-**Motywację wewnętrzną (intrinsic motivation)**: działanie dla samej przyjemności płynącej z aktywności — radość z rozwiązywania zagadek, satysfakcja z opanowania mechanik, ciekawość narracyjna.
+**Motywację wewnętrzną (intrinsic motivation)**: działanie dla samej przyjemności płynącej z aktywności - radość z rozwiązywania zagadek, satysfakcja z opanowania mechanik, ciekawość narracyjna.
 
-**Motywację zewnętrzną (extrinsic motivation)**: działanie dla zewnętrznych nagród — punkty, rankingi, itemy, akceptacja społeczna.
+**Motywację zewnętrzną (extrinsic motivation)**: działanie dla zewnętrznych nagród - punkty, rankingi, itemy, akceptacja społeczna.
 
 Paradoks overcalculation (efekt nadmiernego uzasadniania) sugeruje, że dodawanie zewnętrznych nagród do aktywności, która jest wewnętrznie motywująca, może osłabić motywację wewnętrzną. Zbyt agresywna monetyzacja gier (pay-to-win, loot boxy) może zniszczyć wewnętrzną radość z grania.
 
@@ -100,10 +100,10 @@ Paradoks overcalculation (efekt nadmiernego uzasadniania) sugeruje, że dodawani
 
 Teoria Atkinsona i McClellanda o motywacji osiągnięć dobrze opisuje zachowania graczy zorientowanych na rywalizację:
 
-- Gracze z wysoką motywacją osiągnięć preferują zadania o umiarkowanym poziomie trudności — ani zbyt łatwe (nudne), ani zbyt trudne (frustrujące)
+- Gracze z wysoką motywacją osiągnięć preferują zadania o umiarkowanym poziomie trudności - ani zbyt łatwe (nudne), ani zbyt trudne (frustrujące)
 - Wybierają tryby gry gdzie mogą demonstrować swoje umiejętności
 - Są bardziej podatni na tilt (emocjonalne rozregulowanie po porażce)
-- Silnie reagują na feedback społeczny — rankingi i porównania z innymi
+- Silnie reagują na feedback społeczny - rankingi i porównania z innymi
 
 ## Gry jako zaspokojenie niezaspokojonych potrzeb
 
@@ -111,7 +111,7 @@ Jedną z klinicznie najważniejszych obserwacji jest to, że gry często służ�
 
 To zjawisko jest ambiwalentne klinicznie:
 
-- Z jednej strony może być adaptacyjne — gra daje szanse na sukces i przynależność
+- Z jednej strony może być adaptacyjne - gra daje szanse na sukces i przynależność
 - Z drugiej strony może utrwalać unikanie wyzwań w realnym życiu
 
 Zrozumienie, jakie potrzeby pacjent zaspokaja poprzez granie, jest kluczem do skutecznej interwencji klinicznej.
@@ -135,7 +135,7 @@ Badania Kirley i Williams (2019) wykazały, że gracze motywowani ucieczką wyka
 
 ## Podsumowanie
 
-Motywacje graczy są wielowymiarowe i głęboko zakorzenione w podstawowych potrzebach psychologicznych. Teoria SDT dostarcza najlepiej ugruntowanych ram teoretycznych do rozumienia, dlaczego gry są tak angażujące. Klinicysta pracujący z graczem powinien dokładnie zbadać profil motywacyjny swojego pacjenta — może to być kluczem zarówno do zrozumienia mechanizmu problemu, jak i do znalezienia skutecznych interwencji.
+Motywacje graczy są wielowymiarowe i głęboko zakorzenione w podstawowych potrzebach psychologicznych. Teoria SDT dostarcza najlepiej ugruntowanych ram teoretycznych do rozumienia, dlaczego gry są tak angażujące. Klinicysta pracujący z graczem powinien dokładnie zbadać profil motywacyjny swojego pacjenta - może to być kluczem zarówno do zrozumienia mechanizmu problemu, jak i do znalezienia skutecznych interwencji.
 
 
 ## Wprowadzenie

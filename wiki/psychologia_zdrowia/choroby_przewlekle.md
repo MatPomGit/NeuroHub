@@ -43,7 +43,7 @@ Najsilniejsze czynniki ochronne to:
 - wsparcie społeczne,
 - poczucie wpływu na codzienne wybory.
 
-Pomaga podejście małych kroków: zamiast „zmieniam całe życie od jutra” — konkretne, wykonalne cele tygodniowe.
+Pomaga podejście małych kroków: zamiast „zmieniam całe życie od jutra” - konkretne, wykonalne cele tygodniowe.
 
 ## Rola psychologa
 

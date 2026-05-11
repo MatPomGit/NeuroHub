@@ -10,10 +10,10 @@ Ciekawostka: badania nad konfliktem interpersonalnym pokazują, że ludzie częs
 ## Definicje
 Definicje pełnią tu rolę „mapy pojęciowej”: pomagają oddzielić język potoczny od precyzyjnego opisu psychologicznego. Dzięki temu łatwiej uniknąć nieporozumień, szczególnie gdy rozmowa dotyczy emocji i odpowiedzialności.
 
-- **Krytyka** — komunikat oceniający zachowanie, decyzję lub efekt działania, który może mieć charakter konstruktywny albo deprecjonujący.
-- **Styl reagowania** — względnie stały wzorzec poznawczo-emocjonalno-behawioralny uruchamiany w sytuacji oceny społecznej.
-- **Regulacja emocji** — proces monitorowania i modyfikowania intensywności emocji tak, by działanie było zgodne z celem długoterminowym.
-- **Asertywność** — umiejętność wyrażania stanowiska i granic bez naruszania granic drugiej strony.
+- **Krytyka** - komunikat oceniający zachowanie, decyzję lub efekt działania, który może mieć charakter konstruktywny albo deprecjonujący.
+- **Styl reagowania** - względnie stały wzorzec poznawczo-emocjonalno-behawioralny uruchamiany w sytuacji oceny społecznej.
+- **Regulacja emocji** - proces monitorowania i modyfikowania intensywności emocji tak, by działanie było zgodne z celem długoterminowym.
+- **Asertywność** - umiejętność wyrażania stanowiska i granic bez naruszania granic drugiej strony.
 
 ## Analiza
 ### Fakty empiryczne
@@ -41,7 +41,7 @@ Styl konstruktywny nie oznacza zgadzania się z każdą oceną. Oznacza **selekt
 ### Interpretacje autora
 Z perspektywy praktycznej oznacza to konieczność pracy na dwóch poziomach naraz: jednostkowym (samoregulacja) i systemowym (normy komunikacji w zespole lub rodzinie). Pominięcie któregoś z poziomów zwykle ogranicza trwałość efektów.
 
-W praktyce klinicznej i edukacyjnej same dane nie podejmują decyzji — robi to człowiek, który nadaje im znaczenie. Dlatego kluczowe jest łączenie dowodów naukowych z kontekstem sytuacyjnym, etapem rozwoju i zasobami relacyjnymi uczestników rozmowy.
+W praktyce klinicznej i edukacyjnej same dane nie podejmują decyzji - robi to człowiek, który nadaje im znaczenie. Dlatego kluczowe jest łączenie dowodów naukowych z kontekstem sytuacyjnym, etapem rozwoju i zasobami relacyjnymi uczestników rozmowy.
 
 ## Dobra praktyka
 Wdrożenie dobrej praktyki jest skuteczniejsze, gdy umawiamy się na konkretne wskaźniki zmiany, np. krótszy czas wygaszania napięcia po trudnej rozmowie. Taka operacjonalizacja ułatwia monitorowanie postępu i korygowanie planu.
@@ -63,7 +63,7 @@ Lepsza regulacja emocji i precyzyjniejsza komunikacja zwiększają przewidywalno
 ## Zła praktyka
 Warto zauważyć, że zła praktyka często wynika nie ze „złej woli”, lecz z braku umiejętności regulacyjnych i presji czasu. Dlatego sama krytyka zachowania bez nauki alternatywy rzadko przynosi trwałą poprawę.
 
-Najczęstszy błąd to „odpowiedź z automatu” — natychmiastowe usprawiedliwianie się albo kontratak, zanim doprecyzujemy treść krytyki.
+Najczęstszy błąd to „odpowiedź z automatu” - natychmiastowe usprawiedliwianie się albo kontratak, zanim doprecyzujemy treść krytyki.
 
 **Przykład:** „Ty zawsze się czepiasz, więc nie będę tego słuchać.”
 
@@ -79,7 +79,7 @@ Brak regulacji i brak struktury rozmowy zwykle nasilają napięcie, utrudniają 
 
 Taki punkt widzenia przesuwa akcent z pytania „kto zawinił?” na pytanie „jak skonstruować warunki, by reakcja była bardziej adaptacyjna?”. To podejście zwykle lepiej wspiera uczenie się i odpowiedzialność długoterminową.
 
-Dominujące podejście traktuje odporność na krytykę jako cechę jednostki („musisz być silniejszy/a psychicznie”). Podejście alternatywne — lepiej wspierane przez badania nad klimatem organizacyjnym — podkreśla, że jakość reakcji na krytykę jest **współtworzona przez środowisko**.
+Dominujące podejście traktuje odporność na krytykę jako cechę jednostki („musisz być silniejszy/a psychicznie”). Podejście alternatywne - lepiej wspierane przez badania nad klimatem organizacyjnym - podkreśla, że jakość reakcji na krytykę jest **współtworzona przez środowisko**.
 
 Innymi słowy: nawet dobrze wyregulowana emocjonalnie osoba może reagować defensywnie w systemie, który nagradza zawstydzanie i niepewność. Dlatego interwencja powinna obejmować zarówno trening jednostki, jak i standardy komunikacyjne zespołu.
 

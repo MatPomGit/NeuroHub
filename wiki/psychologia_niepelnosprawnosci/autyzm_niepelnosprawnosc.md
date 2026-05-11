@@ -6,7 +6,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Spektrum autyzmu i niepełnosprawność
 
-**Spektrum autyzmu (ASD)** to neurorozwojowe zróżnicowanie charakteryzujące się odmiennym wzorcem przetwarzania społecznego, komunikacji i sensoryki. Termin „spektrum" podkreśla ogromne zróżnicowanie — od osób wymagających intensywnego wsparcia po te żyjące w pełni samodzielnie. W kontekście niepełnosprawności autyzm jest rozumiany zarówno jako kondycja wymagająca wsparcia, jak i część neuroróżnorodności.
+**Spektrum autyzmu (ASD)** to neurorozwojowe zróżnicowanie charakteryzujące się odmiennym wzorcem przetwarzania społecznego, komunikacji i sensoryki. Termin „spektrum" podkreśla ogromne zróżnicowanie - od osób wymagających intensywnego wsparcia po te żyjące w pełni samodzielnie. W kontekście niepełnosprawności autyzm jest rozumiany zarówno jako kondycja wymagająca wsparcia, jak i część neuroróżnorodności.
 
 ## Autyzm jako niepełnosprawność i jako tożsamość
 
@@ -20,16 +20,16 @@ Istnieje napięcie między dwiema perspektywami:
 Różnorodność ASD obejmuje m.in.:
 
 - **Komunikacja:** może być werbalna, nielinearna lub alternatywna (AAC); trudności w domyślnej interpretacji niewerbalnej.
-- **Interakcje społeczne:** odmienne, nie deficytowe — np. preferencja głębszych tematów, trudności w small-talku.
+- **Interakcje społeczne:** odmienne, nie deficytowe - np. preferencja głębszych tematów, trudności w small-talku.
 - **Sensoryka:** hiper- lub hiposensytywność na dźwięk, światło, dotyk, smak.
 - **Rutyna i elastyczność:** silna potrzeba przewidywalności, trudności z nagłymi zmianami.
 - **Zainteresowania:** często intensywne, specjalistyczne (special interests).
 
 ## Poziomy wsparcia (DSM-5)
 
-- **Poziom 1:** wymaga wsparcia — trudności w inicjowaniu interakcji, problemy z elastycznością.
-- **Poziom 2:** wymaga znaczącego wsparcia — wyraźne deficyty komunikacyjne, ograniczone inicjowanie.
-- **Poziom 3:** wymaga bardzo znaczącego wsparcia — poważne trudności komunikacyjne, minimalne inicjowanie.
+- **Poziom 1:** wymaga wsparcia - trudności w inicjowaniu interakcji, problemy z elastycznością.
+- **Poziom 2:** wymaga znaczącego wsparcia - wyraźne deficyty komunikacyjne, ograniczone inicjowanie.
+- **Poziom 3:** wymaga bardzo znaczącego wsparcia - poważne trudności komunikacyjne, minimalne inicjowanie.
 
 ## Często współwystępujące warunki
 
@@ -40,7 +40,7 @@ Różnorodność ASD obejmuje m.in.:
 - Zaburzenia snu,
 - Trudności z integracją sensoryczną.
 
-## Interwencje — co działa?
+## Interwencje - co działa?
 
 ### Podejścia neuropotwierdzające (neurodiversity-affirming)
 Nacisk na dostosowanie środowiska i akceptację, a nie na „wygaszanie" autystycznych zachowań:
@@ -57,7 +57,7 @@ Kontakt z innymi autystycznymi osobami buduje tożsamość, obniża izolację i 
 
 ## Diagnoza u dorosłych i późna diagnoza
 
-Coraz więcej osób — szczególnie kobiet i osób AFAB — otrzymuje diagnozę w dorosłości. Późna diagnoza często przynosi ulgę i wyjaśnienie doświadczeń życiowych, ale wiąże się też z żałobą za latami bez wsparcia.
+Coraz więcej osób - szczególnie kobiet i osób AFAB - otrzymuje diagnozę w dorosłości. Późna diagnoza często przynosi ulgę i wyjaśnienie doświadczeń życiowych, ale wiąże się też z żałobą za latami bez wsparcia.
 
 ## Podsumowanie
 

@@ -16,11 +16,11 @@ Fundamentalne ramy psychometryczne opisujące relację między wynikiem obserwow
 
 ## Rzetelność w ramach CTT
 
-Rzetelność (r) definiuje się jako proporcja wariancji wyniku prawdziwego do wariancji wyniku obserwowanego: **r = σ²T / σ²X = 1 – σ²E / σ²X**. Wartość rzetelności 1,0 oznacza brak błędu — wynik obserwowany równa się wynikowi prawdziwemu.
+Rzetelność (r) definiuje się jako proporcja wariancji wyniku prawdziwego do wariancji wyniku obserwowanego: **r = σ²T / σ²X = 1 – σ²E / σ²X**. Wartość rzetelności 1,0 oznacza brak błędu - wynik obserwowany równa się wynikowi prawdziwemu.
 
 ## Formy równoległe, tau-równoważne i kongeneryczne
 
-CTT wyróżnia hierarchię modeli: **formy równoległe** (parallel forms) — te same wyniki prawdziwe i równe wariancje błędu; **testy tau-równoważne** — te same wyniki prawdziwe, ale różne wariancje błędu; **testy kongeneryczne** — liniowa transformacja wyników prawdziwych. Alfa Cronbacha jest dokładna tylko dla modelu tau-równoważnego; w modelach kongenerycznych lepsza jest omega McDonalda.
+CTT wyróżnia hierarchię modeli: **formy równoległe** (parallel forms) - te same wyniki prawdziwe i równe wariancje błędu; **testy tau-równoważne** - te same wyniki prawdziwe, ale różne wariancje błędu; **testy kongeneryczne** - liniowa transformacja wyników prawdziwych. Alfa Cronbacha jest dokładna tylko dla modelu tau-równoważnego; w modelach kongenerycznych lepsza jest omega McDonalda.
 
 ## Przedziały ufności i SEM
 
@@ -28,7 +28,7 @@ CTT wyróżnia hierarchię modeli: **formy równoległe** (parallel forms) — t
 
 ## Ograniczenia CTT i alternatywy
 
-CTT zakłada, że parametry testów (rzetelność, trudność pozycji) są **specyficzne dla danej próby** — nie można ich generalizować na inne populacje. Alternatywą jest **Teoria Odpowiedzi na Pozycję (IRT)**, która szacuje parametry niezmienne wobec próby i umożliwia adaptacyjne testowanie komputerowe (CAT). Mimo to CTT pozostaje szeroko stosowana ze względu na prostotę obliczeń i niskie wymagania dotyczące liczebności prób.
+CTT zakłada, że parametry testów (rzetelność, trudność pozycji) są **specyficzne dla danej próby** - nie można ich generalizować na inne populacje. Alternatywą jest **Teoria Odpowiedzi na Pozycję (IRT)**, która szacuje parametry niezmienne wobec próby i umożliwia adaptacyjne testowanie komputerowe (CAT). Mimo to CTT pozostaje szeroko stosowana ze względu na prostotę obliczeń i niskie wymagania dotyczące liczebności prób.
 
 ## Zastosowanie kliniczne
 

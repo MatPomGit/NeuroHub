@@ -16,7 +16,7 @@ Celem tego artykułu nie jest wartościowanie całych grup, lecz pokazanie, jak 
 
 ## Czym jest manosfera?
 
-**Manosfera** to zbiorcze określenie społeczności internetowych skupionych wokół tematów męskości, relacji, randkowania i nierówności postrzeganych przez mężczyzn. To środowisko niejednorodne — od grup samopomocowych po przestrzenie o wysokim poziomie wrogości wobec kobiet.
+**Manosfera** to zbiorcze określenie społeczności internetowych skupionych wokół tematów męskości, relacji, randkowania i nierówności postrzeganych przez mężczyzn. To środowisko niejednorodne - od grup samopomocowych po przestrzenie o wysokim poziomie wrogości wobec kobiet.
 
 W wymiarze psychologicznym częste motywy to:
 
@@ -91,11 +91,11 @@ Im silniejsza polaryzacja, tym trudniej budować relacje oparte na wzajemności 
 
 ## Co pomaga wyjść z polaryzacji?
 
-1. **Myślenie probabilistyczne** — unikanie zdań absolutnych o „wszystkich mężczyznach” lub „wszystkich kobietach”.
-2. **Kontakt międzygrupowy** — rozmowa z osobami spoza własnej bańki przy jasnych zasadach bezpieczeństwa.
-3. **Rozdzielanie poziomów analizy** — co jest problemem jednostkowym, a co systemowym.
-4. **Regulacja emocji** — praca nad złością, wstydem i bezradnością przed wejściem w dyskusję.
-5. **Edukacja relacyjna** — kompetencje komunikacji, granic, zgody i rozwiązywania konfliktów.
+1. **Myślenie probabilistyczne** - unikanie zdań absolutnych o „wszystkich mężczyznach” lub „wszystkich kobietach”.
+2. **Kontakt międzygrupowy** - rozmowa z osobami spoza własnej bańki przy jasnych zasadach bezpieczeństwa.
+3. **Rozdzielanie poziomów analizy** - co jest problemem jednostkowym, a co systemowym.
+4. **Regulacja emocji** - praca nad złością, wstydem i bezradnością przed wejściem w dyskusję.
+5. **Edukacja relacyjna** - kompetencje komunikacji, granic, zgody i rozwiązywania konfliktów.
 
 ---
 

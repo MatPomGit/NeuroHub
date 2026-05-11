@@ -6,16 +6,16 @@ evidenceCutoffDate: 2025-12-31
 
 # Obrona pracy magisterskiej
 
-Obrona pracy magisterskiej to formalne zakończenie studiów — moment, w którym student prezentuje swój projekt badawczy przed komisją egzaminacyjną i odpowiada na pytania. Dobrze przygotowana obrona jest przede wszystkim rozmową naukową, nie przesłuchaniem.
+Obrona pracy magisterskiej to formalne zakończenie studiów - moment, w którym student prezentuje swój projekt badawczy przed komisją egzaminacyjną i odpowiada na pytania. Dobrze przygotowana obrona jest przede wszystkim rozmową naukową, nie przesłuchaniem.
 
 ## Czym jest obrona magisterska?
 
 Obrona (egzamin dyplomowy) składa się zazwyczaj z kilku elementów:
 
-1. **Prezentacja pracy** — krótkie (10–15 minut) omówienie badania przez dyplomanta
-2. **Pytania komisji** — promotor, recenzent i dodatkowi egzaminatorzy zadają pytania
-3. **Ocena i deliberacja** — komisja ocenia pracę pisemną, prezentację i odpowiedzi
-4. **Ogłoszenie wyniku** — ocena łączna (praca + egzamin + średnia ze studiów)
+1. **Prezentacja pracy** - krótkie (10–15 minut) omówienie badania przez dyplomanta
+2. **Pytania komisji** - promotor, recenzent i dodatkowi egzaminatorzy zadają pytania
+3. **Ocena i deliberacja** - komisja ocenia pracę pisemną, prezentację i odpowiedzi
+4. **Ogłoszenie wyniku** - ocena łączna (praca + egzamin + średnia ze studiów)
 
 ## Przygotowanie prezentacji
 
@@ -36,7 +36,7 @@ Typowa prezentacja (10–15 minut = 10–15 slajdów):
 
 ### Zasady projektowania slajdów
 
-- **Mniej tekstu, więcej wizualizacji** — każdy slajd = jedna myśl
+- **Mniej tekstu, więcej wizualizacji** - każdy slajd = jedna myśl
 - Używaj czytelnej czcionki (min. 24 pt dla treści, 32 pt dla nagłówków)
 - Kontrastowe kolory tła i tekstu
 - Ograniczona paleta kolorów (2–3 kolory maksymalnie)
@@ -45,7 +45,7 @@ Typowa prezentacja (10–15 minut = 10–15 slajdów):
 
 ### Próba przed obroną
 
-- Ćwicz prezentację kilkakrotnie — na głos, z timerem
+- Ćwicz prezentację kilkakrotnie - na głos, z timerem
 - Spróbuj wytłumaczyć pracę osobie spoza psychologii
 - Przygotuj odpowiedzi na najbardziej prawdopodobne pytania
 
@@ -78,10 +78,10 @@ Komisja zazwyczaj pyta o:
 
 ### Strategia odpowiedzi
 
-1. **Słuchaj uważnie** — upewnij się, że rozumiesz pytanie przed odpowiedzią
-2. **Gdy nie rozumiesz** — poproś o doprecyzowanie: *„Czy mogę prosić o rozwinięcie pytania?"*
-3. **Gdy nie wiesz** — powiedz szczerze: *„Nie uwzględniłem/uwzględniłam tego aspektu, ale to cenne pytanie do dalszych badań"*
-4. **Pilnuj długości odpowiedzi** — 1–3 minuty to optymalny czas; nie monologuj
+1. **Słuchaj uważnie** - upewnij się, że rozumiesz pytanie przed odpowiedzią
+2. **Gdy nie rozumiesz** - poproś o doprecyzowanie: *„Czy mogę prosić o rozwinięcie pytania?"*
+3. **Gdy nie wiesz** - powiedz szczerze: *„Nie uwzględniłem/uwzględniłam tego aspektu, ale to cenne pytanie do dalszych badań"*
+4. **Pilnuj długości odpowiedzi** - 1–3 minuty to optymalny czas; nie monologuj
 5. **Utrzymuj kontakt wzrokowy** z komisją, nie czytaj z notatek
 
 ### Czego unikać
@@ -91,31 +91,31 @@ Komisja zazwyczaj pyta o:
 - Chaotycznych, nieustrukturyzowanych odpowiedzi
 - Ignorowania krytycznych pytań promotora
 
-## Recenzja pracy — jak czytać recenzję
+## Recenzja pracy - jak czytać recenzję
 
 Przed obroną czytasz **recenzję** przygotowaną przez recenzenta (nie promotora). Może ona wskazywać mocne i słabe strony. Przygotuj się na pytania wynikające z uwag recenzenta.
 
-Jeśli recenzent wykazał błąd lub słabość — przyznaj rację i wyjaśnij, jak to ograniczenie wpłynęło na wyniki lub co można byłoby zrobić inaczej. Nie próbuj bronić oczywistych słabości.
+Jeśli recenzent wykazał błąd lub słabość - przyznaj rację i wyjaśnij, jak to ograniczenie wpłynęło na wyniki lub co można byłoby zrobić inaczej. Nie próbuj bronić oczywistych słabości.
 
 ## Stres i zarządzanie nim
 
-Obrona jest stresującym wydarzeniem — ale mieści się w normie. Kilka strategii:
+Obrona jest stresującym wydarzeniem - ale mieści się w normie. Kilka strategii:
 
-- **Przygotowanie zmniejsza lęk** — im lepiej znasz swoją pracę, tym pewniej się czujesz
-- **Techniki oddechowe** — kilka głębokich oddechów przed wejściem na salę
-- **Reframing** — komisja chce, żebyś zdał/zdała, nie żeby oblać
-- **Normalizacja** — nerwowość przed publicznym wystąpieniem jest normalna i nie przeszkadza w dobrym wyniku
-- **Sen i jedzenie** — zadbaj o podstawy: dobrze wyśpij się i nie wchodź na salę głodny/głodna
+- **Przygotowanie zmniejsza lęk** - im lepiej znasz swoją pracę, tym pewniej się czujesz
+- **Techniki oddechowe** - kilka głębokich oddechów przed wejściem na salę
+- **Reframing** - komisja chce, żebyś zdał/zdała, nie żeby oblać
+- **Normalizacja** - nerwowość przed publicznym wystąpieniem jest normalna i nie przeszkadza w dobrym wyniku
+- **Sen i jedzenie** - zadbaj o podstawy: dobrze wyśpij się i nie wchodź na salę głodny/głodna
 
 ## Po obronie
 
 - Zabezpiecz wydruk i plik elektroniczny pracy
 - Upewnij się, że złożono wszystkie dokumenty do dziekanatu
-- Zapisz surowe dane i materiały badawcze — będą potrzebne, jeśli kiedykolwiek wrócisz do tematu lub będziesz chciał/chciała opublikować wyniki
+- Zapisz surowe dane i materiały badawcze - będą potrzebne, jeśli kiedykolwiek wrócisz do tematu lub będziesz chciał/chciała opublikować wyniki
 
 ## Podsumowanie
 
-Obrona pracy magisterskiej to finałowy etap długiego procesu naukowego. Dobrze przygotowany dyplomant, który rozumie swoją pracę, zna jej ograniczenia i potrafi ją zdefendować przed komisją, wychodzi z sali nie tylko z dyplomem — ale też z poczuciem kompetencji badawczej.
+Obrona pracy magisterskiej to finałowy etap długiego procesu naukowego. Dobrze przygotowany dyplomant, który rozumie swoją pracę, zna jej ograniczenia i potrafi ją zdefendować przed komisją, wychodzi z sali nie tylko z dyplomem - ale też z poczuciem kompetencji badawczej.
 
 
 ## Wprowadzenie

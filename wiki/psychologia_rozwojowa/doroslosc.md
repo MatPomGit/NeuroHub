@@ -6,7 +6,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Dorosłość i starzenie się
 
-Dorosłość obejmuje najdłuższy okres ludzkiego życia — od ok. 20. do 80. roku życia lub dłużej. Przez długi czas psychologia traktowała dorosłość jako czas „gotowego" człowieka, skupiając badania na dzieciństwie i adolescencji. Dopiero od lat 70. XX wieku, za sprawą Eriksona, Levinsona, Neugartena i Baltes'a, psychologia biegu życia (*life-span psychology*) ugruntowała pogląd, że **zmiana i rozwój trwają przez całe życie**.
+Dorosłość obejmuje najdłuższy okres ludzkiego życia - od ok. 20. do 80. roku życia lub dłużej. Przez długi czas psychologia traktowała dorosłość jako czas „gotowego" człowieka, skupiając badania na dzieciństwie i adolescencji. Dopiero od lat 70. XX wieku, za sprawą Eriksona, Levinsona, Neugartena i Baltes'a, psychologia biegu życia (*life-span psychology*) ugruntowała pogląd, że **zmiana i rozwój trwają przez całe życie**.
 
 ---
 
@@ -20,11 +20,11 @@ Erikson wyróżnił trzy kryzysy psychospołeczne przypadające na dorosłość:
 | **Środkowa dorosłość** | 40–65 lat | Generatywność vs. stagnacja | Troska |
 | **Późna dorosłość** | 65+ lat | Integralność vs. rozpacz | Mądrość |
 
-**Intymność** — zdolność do głębokiej wzajemności emocjonalnej i seksualnej bez utraty tożsamości. Wymaga wcześniej ukształtowanej stabilnej tożsamości; osoby z rozmytą tożsamością wchodzą w relacje zlewania się (*fusion*) lub unikają bliskości.
+**Intymność** - zdolność do głębokiej wzajemności emocjonalnej i seksualnej bez utraty tożsamości. Wymaga wcześniej ukształtowanej stabilnej tożsamości; osoby z rozmytą tożsamością wchodzą w relacje zlewania się (*fusion*) lub unikają bliskości.
 
-**Generatywność** — troska o następne pokolenie: rodzicielstwo, mentorstwo, twórczość, obywatelskie zaangażowanie. McAdams i St. Aubin (1992) opracowali wielowymiarową skalę generatywności i wykazali jej powiązanie z dobrostanem i społecznym zaangażowaniem.
+**Generatywność** - troska o następne pokolenie: rodzicielstwo, mentorstwo, twórczość, obywatelskie zaangażowanie. McAdams i St. Aubin (1992) opracowali wielowymiarową skalę generatywności i wykazali jej powiązanie z dobrostanem i społecznym zaangażowaniem.
 
-**Integralność** — akceptacja swojego życia jako sensownej całości, bez potrzeby przepisywania historii. Jej brak objawia się jako lęk przed śmiercią i rozpacz nad zmarnowanymi szansami.
+**Integralność** - akceptacja swojego życia jako sensownej całości, bez potrzeby przepisywania historii. Jej brak objawia się jako lęk przed śmiercią i rozpacz nad zmarnowanymi szansami.
 
 ---
 
@@ -33,7 +33,7 @@ Erikson wyróżnił trzy kryzysy psychospołeczne przypadające na dorosłość:
 Pojęcie **kryzysu połowy życia** (*midlife crisis*) spopularyzował Levinson (1978) na podstawie wywiadów z 40 mężczyznami w wieku 35–45 lat. Jednak badania empiryczne na dużych próbach kwestionują jego powszechność:
 
 - Lachman (2004) w badaniu MIDUS (Midlife in the United States) wykazała, że tylko ok. 10–20% dorosłych Amerykanów zgłasza doświadczenie „kryzysu" w środkowej dorosłości.
-- Osoby, które opisują taki kryzys, wcześniej doświadczały częstszych stresujących wydarzeń życiowych — kryzys jest związany z historią stresu, nie z wiekiem biologicznym.
+- Osoby, które opisują taki kryzys, wcześniej doświadczały częstszych stresujących wydarzeń życiowych - kryzys jest związany z historią stresu, nie z wiekiem biologicznym.
 - Kobiety rzadziej opisują kryzys połowy życia, choć więcej z nich wskazuje na przejście menopauzalne jako znaczące
 
 > Wniosek: „Kryzys połowy życia" jest bardziej kulturowym mitem niż uniwersalnym etapem rozwojowym, choć dla niektórych osób środkowa dorosłość jest istotnie trudnym przejściem.
@@ -53,9 +53,9 @@ Baltes i współpracownicy (1987) wprowadzili rozróżnienie między **inteligen
 - Spowolnienie szybkości przetwarzania (Salthouse, 1996)
 - Zmniejszona pojemność pamięci roboczej
 - Trudności z hamowaniem nieistotnych informacji
-- Zmniejszona neuroplastyczność (choć nie jej zanik — patrz artykuł o plastyczności mózgu)
+- Zmniejszona neuroplastyczność (choć nie jej zanik - patrz artykuł o plastyczności mózgu)
 
-**Kompensacja:** Baltes i Baltes (1990) opisali strategię **Selektywnej Optymalizacji z Kompensacją (SOC)** — starsze osoby wybierają mniejszy zakres działań, optymalizują w nim zasoby i kompensują straty nowymi strategiami. Klasyczny przykład: pianista Arthur Rubinstein w późnej starości grał mniej utworów, ale ćwiczył je intensywniej i stosował wolniejsze tempo przed szybkimi fragmentami, by podkreślić kontrast.
+**Kompensacja:** Baltes i Baltes (1990) opisali strategię **Selektywnej Optymalizacji z Kompensacją (SOC)** - starsze osoby wybierają mniejszy zakres działań, optymalizują w nim zasoby i kompensują straty nowymi strategiami. Klasyczny przykład: pianista Arthur Rubinstein w późnej starości grał mniej utworów, ale ćwiczył je intensywniej i stosował wolniejsze tempo przed szybkimi fragmentami, by podkreślić kontrast.
 
 ---
 
@@ -63,11 +63,11 @@ Baltes i współpracownicy (1987) wprowadzili rozróżnienie między **inteligen
 
 Laura Carstensen (1992, 2006) zaproponowała **Teorię Selektywności Społeczno-Emocjonalnej (SST)**, jedną z najbardziej wpływowych teorii starzenia się emocjonalnego.
 
-**Kluczowe założenie:** Percepcja horyzontu czasowego determinuje motywację. Gdy czas jest postrzegany jako ograniczony (starość, choroba terminalna), ludzie priorytetyzują cele emocjonalne — kontakty z bliskimi, pozytywne doświadczenia — a odrzucają cele ekspansywne (poznawanie nowych ludzi, zdobywanie nowej wiedzy).
+**Kluczowe założenie:** Percepcja horyzontu czasowego determinuje motywację. Gdy czas jest postrzegany jako ograniczony (starość, choroba terminalna), ludzie priorytetyzują cele emocjonalne - kontakty z bliskimi, pozytywne doświadczenia - a odrzucają cele ekspansywne (poznawanie nowych ludzi, zdobywanie nowej wiedzy).
 
 **Paradoks starości:** Mimo obiektywnych strat (zdrowotnych, poznawczych, strat społecznych), starsze osoby zgłaszają **wyższe poczucie dobrostanu emocjonalnego** niż osoby w średnim wieku. Badania ESM (experience sampling) potwierdzają, że starsze osoby doświadczają więcej pozytywnych emocji i rzadziej negatywnych w codziennym życiu.
 
-**Efekt pozytywności** — starsze osoby lepiej zapamiętują i dłużej przetwarzają bodźce pozytywne niż negatywne (odwrotnie niż młodsze). Wyjaśniany przez kontrolę uwagi i preferencje przetwarzania.
+**Efekt pozytywności** - starsze osoby lepiej zapamiętują i dłużej przetwarzają bodźce pozytywne niż negatywne (odwrotnie niż młodsze). Wyjaśniany przez kontrolę uwagi i preferencje przetwarzania.
 
 ---
 
@@ -94,13 +94,13 @@ Nie wszystkie zmiany poznawcze towarzyszące starzeniu są patologiczne:
 | Codzienne funkcjonowanie | Niezależne | Postępowa utrata samodzielności |
 | Progresja | Brak lub minimalna | Postępująca |
 
-Alzheimer jest najczęstszą formą demencji (60–70% przypadków) — patologiczne złogi amyloidu beta i sploty neurofibrylaryczne prowadzą do utraty neuronów. Ryzyko podwaja się co 5 lat po 65. roku życia.
+Alzheimer jest najczęstszą formą demencji (60–70% przypadków) - patologiczne złogi amyloidu beta i sploty neurofibrylaryczne prowadzą do utraty neuronów. Ryzyko podwaja się co 5 lat po 65. roku życia.
 
 ---
 
 ## Podsumowanie
 
-Dorosłość i starzenie się to okresy obfitujące zarówno w straty, jak i w zyski. Psychologia biegu życia uczy nas, że trajektoria życia nie jest prostą linią regresji — zmiany mają charakter wielokierunkowy. Dane empiryczne konsekwentnie podważają pesymistyczny stereotyp starości jako etapu wyłącznej degradacji: emocjonalna mądrość, akceptacja skończoności i pogłębione relacje są autentycznymi osiągnięciami, do których wiele osób dochodzi właśnie w późnym etapie życia.
+Dorosłość i starzenie się to okresy obfitujące zarówno w straty, jak i w zyski. Psychologia biegu życia uczy nas, że trajektoria życia nie jest prostą linią regresji - zmiany mają charakter wielokierunkowy. Dane empiryczne konsekwentnie podważają pesymistyczny stereotyp starości jako etapu wyłącznej degradacji: emocjonalna mądrość, akceptacja skończoności i pogłębione relacje są autentycznymi osiągnięciami, do których wiele osób dochodzi właśnie w późnym etapie życia.
 
 ---
 

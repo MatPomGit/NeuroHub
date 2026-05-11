@@ -6,17 +6,17 @@ evidenceCutoffDate: 2025-12-31
 
 # Etyka i dobrostan zwierząt w AAT
 
-Terapia wspomagana przez zwierzęta (AAT) rodzi unikalne pytania etyczne — zwierzę jest uczestnikiem terapii, który nie wyraził zgody i nie rozumie swojej roli. Odpowiedzialna AAT wymaga systematycznego podejścia do dobrostanu zwierząt jako warunku koniecznego, nie opcjonalnego.
+Terapia wspomagana przez zwierzęta (AAT) rodzi unikalne pytania etyczne - zwierzę jest uczestnikiem terapii, który nie wyraził zgody i nie rozumie swojej roli. Odpowiedzialna AAT wymaga systematycznego podejścia do dobrostanu zwierząt jako warunku koniecznego, nie opcjonalnego.
 
 ## Model 5 wolności (Five Freedoms)
 
 Opracowany przez Farm Animal Welfare Council (1979), zaadaptowany do AAT przez organizacje takie jak Pet Partners i EAGALA, model 5 wolności stanowi minimalne standardy dobrostanu:
 
-1. **Wolność od głodu i pragnienia** — stały dostęp do wody, odpowiednie żywienie
-2. **Wolność od dyskomfortu** — właściwe warunki bytowe, miejsca odpoczynku
-3. **Wolność od bólu, choroby i uszkodzeń** — profilaktyczna opieka weterynaryjna
-4. **Wolność do wyrażania naturalnych zachowań** — czas poza sesjami, kontakt z innymi zwierzętami, zabawa
-5. **Wolność od strachu i stresu** — minimalizacja stresujących doświadczeń, możliwość wycofania się
+1. **Wolność od głodu i pragnienia** - stały dostęp do wody, odpowiednie żywienie
+2. **Wolność od dyskomfortu** - właściwe warunki bytowe, miejsca odpoczynku
+3. **Wolność od bólu, choroby i uszkodzeń** - profilaktyczna opieka weterynaryjna
+4. **Wolność do wyrażania naturalnych zachowań** - czas poza sesjami, kontakt z innymi zwierzętami, zabawa
+5. **Wolność od strachu i stresu** - minimalizacja stresujących doświadczeń, możliwość wycofania się
 
 ## Sygnały stresu u psów
 
@@ -40,7 +40,7 @@ Rozpoznawanie sygnałów stresu u psa terapeutycznego jest kluczową kompetencj�
 - Wyraźne napięcie ciała, usztywnienie
 - Zaciśnięte oczy, wysunięty nos ku przodowi
 
-> **Zasada:** Pies terapeutyczny powinien zawsze mieć możliwość wycofania się z interakcji. Sesja musi być przerwana, gdy pies wykazuje wyraźny stres. Nikt — ani terapeuta, ani pacjent — nie powinien "override'ować" sygnałów psa.
+> **Zasada:** Pies terapeutyczny powinien zawsze mieć możliwość wycofania się z interakcji. Sesja musi być przerwana, gdy pies wykazuje wyraźny stres. Nikt - ani terapeuta, ani pacjent - nie powinien "override'ować" sygnałów psa.
 
 ## Wymogi certyfikacyjne
 
@@ -60,7 +60,7 @@ AAT może rodzić konflikty między potrzebami pacjenta a dobrem zwierzęcia. Te
 ## Kwestia zgody zwierzęcia
 
 Zwierzęta nie wyrażają zgody w rozumieniu ludzkim. Etyczne podejście uwzględnia:
-- **Wybór i sprawczość:** Pies powinien mieć możliwość inicjowania kontaktu i wycofania się — sesje z przymusem fizycznym są nieetyczne
+- **Wybór i sprawczość:** Pies powinien mieć możliwość inicjowania kontaktu i wycofania się - sesje z przymusem fizycznym są nieetyczne
 - **Wolontariat:** Dobre programy pozwalają zwierzęciu "odmówić" przez sygnały behawioralne
 - **"Informed consent" przez właściciela:** Odpowiedzialny właściciel-handler jest strażnikiem interesów zwierzęcia
 
@@ -76,11 +76,11 @@ Kontakt ze zwierzętami wiąże się z ryzykiem chorób odzwierzęcych (zoonoz).
 
 Wiodące organizacje (Pet Partners, EAGALA, Delta Society) mają kodeksy etyczne obejmujące:
 - Priorytet dobrostanu zwierzęcia nad wymogami programu
-- Transparentność — dokumentowanie sygnałów stresu i interwencji
-- Odpowiedzialność — procedury raportowania incydentów
+- Transparentność - dokumentowanie sygnałów stresu i interwencji
+- Odpowiedzialność - procedury raportowania incydentów
 - Stałe doskonalenie zawodowe opiekunów
 
-> **Podsumowanie:** Etyczna AAT to terapia, w której dobrostan zwierzęcia nie jest kompromisem, lecz fundamentem. Pies, koń czy kot terapeutyczny to nie narzędzie — to współpracownik, którego autonomia i potrzeby muszą być szanowane. Tylko wtedy interwencja jest zarówno efektywna, jak i etyczna.
+> **Podsumowanie:** Etyczna AAT to terapia, w której dobrostan zwierzęcia nie jest kompromisem, lecz fundamentem. Pies, koń czy kot terapeutyczny to nie narzędzie - to współpracownik, którego autonomia i potrzeby muszą być szanowane. Tylko wtedy interwencja jest zarówno efektywna, jak i etyczna.
 
 
 ## Wprowadzenie

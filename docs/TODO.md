@@ -60,10 +60,10 @@
   **Cel:** poprawić komentarze przy `getVoicePreset` i `choosePreferredVoice`, które zawierają zniekształcone polskie znaki.
   **Uzasadnienie:** komentarze są częścią dokumentacji technicznej; obecna forma utrudnia utrzymanie.
   **Zakres:** podmienić komentarze na poprawną polszczyznę i dodać krótki sanity-check kodowania UTF-8 dla plików JS w narzędziach CI.
-  **Akceptacja:** komentarze są czytelne po otwarciu pliku i nie zawierają ciągów `gĹ`/`Ä`.
+  **Akceptacja:** komentarze są czytelne po otwarciu pliku i nie zawierają ciągów `gł`/`Ä`.
 
 - [ ] **Ulepszenie testu: wykrywanie artefaktów kodowania w konfiguracji**
   **Cel:** dodać test automatyczny, który blokuje commity z uszkodzonymi znakami w labelach i opisach `site-config.js`.
   **Uzasadnienie:** obecne testy nie łapią regresji encodingu, mimo że problem już występuje.
-  **Zakres:** rozszerzyć `tools/lint-measurement-tools-config.js` lub dodać nowy test w `tools/run-node-tests.js`, który skanuje `site-config.js` pod kątem podejrzanych sekwencji (np. `~N`, `Bz`, `Ĺ`, `Ä`).
+  **Zakres:** rozszerzyć `tools/lint-measurement-tools-config.js` lub dodać nowy test w `tools/run-node-tests.js`, który skanuje `site-config.js` pod kątem podejrzanych sekwencji (np. `~N`, `Bz`, `ł`, `Ä`).
   **Akceptacja:** test failuje na aktualnych danych z artefaktami i przechodzi po ich poprawie.

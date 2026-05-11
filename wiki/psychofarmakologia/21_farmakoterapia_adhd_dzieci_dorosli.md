@@ -9,7 +9,7 @@ W ADHD farmakoterapia redukuje objawy osiowe i poprawia funkcjonowanie szkolne, 
 - **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
 
 ## Analiza mechanizmów i zależności
-Różnice wieku wpływają na cele terapii: u dzieci dominują cele rozwojowe i szkolne, u dorosłych — organizacja pracy, regulacja emocji i bezpieczeństwo prowadzenia pojazdów.
+Różnice wieku wpływają na cele terapii: u dzieci dominują cele rozwojowe i szkolne, u dorosłych - organizacja pracy, regulacja emocji i bezpieczeństwo prowadzenia pojazdów.
 
 ## Praktyczne przykłady
 Dobra praktyka: leczenie w modelu wielomodalnym (farmakoterapia + trening umiejętności).

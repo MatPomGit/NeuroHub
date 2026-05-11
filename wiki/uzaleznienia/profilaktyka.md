@@ -8,7 +8,7 @@ evidenceCutoffDate: 2025-12-31
 
 ## Wprowadzenie
 
-Profilaktyka uzależnień to systematyczne działania ukierunkowane na zapobieganie inicjacji używania substancji psychoaktywnych, opóźnienie jej wieku lub redukcję szkód wynikających z używania — u osób, które jeszcze nie rozwinęły uzależnienia lub są w jego wczesnych stadiach. Skuteczna profilaktyka opiera się na rzetelnej wiedzy o **czynnikach ryzyka i czynnikach ochronnych** oraz na interwencjach, których efektywność potwierdzono w badaniach kontrolowanych.
+Profilaktyka uzależnień to systematyczne działania ukierunkowane na zapobieganie inicjacji używania substancji psychoaktywnych, opóźnienie jej wieku lub redukcję szkód wynikających z używania - u osób, które jeszcze nie rozwinęły uzależnienia lub są w jego wczesnych stadiach. Skuteczna profilaktyka opiera się na rzetelnej wiedzy o **czynnikach ryzyka i czynnikach ochronnych** oraz na interwencjach, których efektywność potwierdzono w badaniach kontrolowanych.
 
 ---
 
@@ -24,9 +24,9 @@ Klasyczny podział wywodzi się z modelu medycznego zapobiegania chorobom (Capla
 
 Nowsze podejście SAMHSA (*Substance Abuse and Mental Health Services Administration*) używa klasyfikacji **uniwersalnej, selektywnej i wskazanej**:
 
-- **Uniwersalna** — dla całej populacji bez selekcji
-- **Selektywna** — dla grup podwyższonego ryzyka (np. dzieci alkoholików)
-- **Wskazana** — dla osób wykazujących wczesne oznaki problemu
+- **Uniwersalna** - dla całej populacji bez selekcji
+- **Selektywna** - dla grup podwyższonego ryzyka (np. dzieci alkoholików)
+- **Wskazana** - dla osób wykazujących wczesne oznaki problemu
 
 ---
 
@@ -42,11 +42,11 @@ Kluczowe zasady:
 
 ### Przykłady interwencji harm reduction
 
-- **Programy wymiany igieł** (*needle exchange programs*) — redukcja transmisji HIV i HCV
-- **Nadzorowane miejsca konsumpcji** (*drug consumption rooms*) — funkcjonują m.in. w Niemczech, Holandii, Szwajcarii
-- **Nalokson** — odwrotny agonista opioidowy dostępny bez recepty w profilaktyce przedawkowania
+- **Programy wymiany igieł** (*needle exchange programs*) - redukcja transmisji HIV i HCV
+- **Nadzorowane miejsca konsumpcji** (*drug consumption rooms*) - funkcjonują m.in. w Niemczech, Holandii, Szwajcarii
+- **Nalokson** - odwrotny agonista opioidowy dostępny bez recepty w profilaktyce przedawkowania
 - **Polityka bezpieczniejszego seksu** analogia do harm reduction w obszarze uzależnień
-- **Testowanie substancji** (*drug checking*) — redukcja ryzyka zatrucia nieznanymi substancjami
+- **Testowanie substancji** (*drug checking*) - redukcja ryzyka zatrucia nieznanymi substancjami
 
 ---
 
@@ -73,7 +73,7 @@ Ocena efektów (Faggiano i in., 2010) wykazała umiarkowaną skuteczność w red
 
 ### Krytyka programu D.A.R.E.
 
-**DARE** (*Drug Abuse Resistance Education*) — najbardziej rozpowszechniony program profilaktyczny w USA, prowadzony przez policjantów w szkołach podstawowych — poddano gruntownej ewaluacji. Meta-analizy (Ennett i in., 1994; West & O'Neal, 2004) wykazały, że **DARE nie redukuje używania substancji** i jest istotnie mniej skuteczny niż programy oparte na umiejętnościach życiowych. Pozostaje jednak politycznie popularny, co ilustruje rozbieżność między dowodami naukowymi a polityką zdrowotną.
+**DARE** (*Drug Abuse Resistance Education*) - najbardziej rozpowszechniony program profilaktyczny w USA, prowadzony przez policjantów w szkołach podstawowych - poddano gruntownej ewaluacji. Meta-analizy (Ennett i in., 1994; West & O'Neal, 2004) wykazały, że **DARE nie redukuje używania substancji** i jest istotnie mniej skuteczny niż programy oparte na umiejętnościach życiowych. Pozostaje jednak politycznie popularny, co ilustruje rozbieżność między dowodami naukowymi a polityką zdrowotną.
 
 ---
 
@@ -81,11 +81,11 @@ Ocena efektów (Faggiano i in., 2010) wykazała umiarkowaną skuteczność w red
 
 **SBIRT** (*Screening, Brief Intervention, and Referral to Treatment*) to trzyetapowy model integrujący profilaktykę wtórną z systemem opieki podstawowej:
 
-1. **Screening** — krótkie przesiewowe narzędzia oceny ryzykownego używania (AUDIT, DAST-10, CRAFFT dla młodzieży)
-2. **Brief Intervention** — 5–15-minutowa rozmowa motywacyjna przeprowadzana przez lekarza/pielęgniarkę
-3. **Referral to Treatment** — kierowanie do specjalistycznej pomocy osób z poważnymi problemami
+1. **Screening** - krótkie przesiewowe narzędzia oceny ryzykownego używania (AUDIT, DAST-10, CRAFFT dla młodzieży)
+2. **Brief Intervention** - 5–15-minutowa rozmowa motywacyjna przeprowadzana przez lekarza/pielęgniarkę
+3. **Referral to Treatment** - kierowanie do specjalistycznej pomocy osób z poważnymi problemami
 
-Meta-analizy potwierdzają skuteczność krótkich interwencji dla **alkoholu** — redukcja spożycia o 13–34% (Kaner i in., 2018). Dowody dla innych substancji są mniej jednoznaczne.
+Meta-analizy potwierdzają skuteczność krótkich interwencji dla **alkoholu** - redukcja spożycia o 13–34% (Kaner i in., 2018). Dowody dla innych substancji są mniej jednoznaczne.
 
 ---
 
@@ -101,9 +101,9 @@ Profilaktykę uzależnień w Polsce reguluje przede wszystkim:
 | **Rozporządzenie MEN o profilaktyce szkolnej** | Standardy Programów Profilaktyczno-Wychowawczych |
 
 Kluczowe instytucje:
-- **Krajowe Biuro do Spraw Przeciwdziałania Narkomanii (KBPN)** — koordynacja profilaktyki narkomanii
-- **Państwowa Agencja Rozwiązywania Problemów Alkoholowych (PARPA)** — profilaktyka alkoholowa
-- **Ośrodki Pomocy Społecznej i Poradnie Uzależnień** — lokalna infrastruktura
+- **Krajowe Biuro do Spraw Przeciwdziałania Narkomanii (KBPN)** - koordynacja profilaktyki narkomanii
+- **Państwowa Agencja Rozwiązywania Problemów Alkoholowych (PARPA)** - profilaktyka alkoholowa
+- **Ośrodki Pomocy Społecznej i Poradnie Uzależnień** - lokalna infrastruktura
 
 ---
 

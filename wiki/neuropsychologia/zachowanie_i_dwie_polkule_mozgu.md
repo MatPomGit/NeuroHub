@@ -12,10 +12,10 @@ Popularna kultura często upraszcza temat półkul do hasła „lewa = logika, p
 
 ## Definicje
 
-- **Lateralizacja** — względna dominacja jednej półkuli w określonych funkcjach.
-- **Integracja międzypółkulowa** — koordynacja informacji między półkulami, głównie przez ciało modzelowate.
-- **Specjalizacja funkcjonalna** — preferencja danej sieci neuronalnej do określonego typu przetwarzania.
-- **Neuromit** — popularne przekonanie o mózgu, które nie ma solidnego potwierdzenia empirycznego.
+- **Lateralizacja** - względna dominacja jednej półkuli w określonych funkcjach.
+- **Integracja międzypółkulowa** - koordynacja informacji między półkulami, głównie przez ciało modzelowate.
+- **Specjalizacja funkcjonalna** - preferencja danej sieci neuronalnej do określonego typu przetwarzania.
+- **Neuromit** - popularne przekonanie o mózgu, które nie ma solidnego potwierdzenia empirycznego.
 
 ## Analiza
 
@@ -53,11 +53,11 @@ Nieoczywista perspektywa mówi, że najważniejsza nie jest „dominacja” jedn
 
 ## Powiązane artykuły (cross-linki)
 
-- `neuro/lateralizacja` — rozszerzenie zagadnienia asymetrii funkcjonalnej.
-- `przypadki_kliniczne/split_brain` — klasyczne obserwacje po komisurotomii.
-- `cognitive/system1_system2` — dwa tryby przetwarzania informacji.
-- `neuro/neuronauka_poznawcza` — sieciowe ujęcie procesów poznawczych.
-- `reference/mapa_powiazan_nowe_artykuly` — mapa relacji między nowymi tekstami.
+- `neuro/lateralizacja` - rozszerzenie zagadnienia asymetrii funkcjonalnej.
+- `przypadki_kliniczne/split_brain` - klasyczne obserwacje po komisurotomii.
+- `cognitive/system1_system2` - dwa tryby przetwarzania informacji.
+- `neuro/neuronauka_poznawcza` - sieciowe ujęcie procesów poznawczych.
+- `reference/mapa_powiazan_nowe_artykuly` - mapa relacji między nowymi tekstami.
 
 ## Podsumowanie
 

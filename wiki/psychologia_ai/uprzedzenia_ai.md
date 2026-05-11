@@ -8,11 +8,11 @@ evidenceCutoffDate: 2025-12-31
 
 ## Wprowadzenie: AI jako lustro ludzkich uprzedzeń
 
-Systemy sztucznej inteligencji nie istnieją w próżni — są tworzone przez ludzi, trenowane na danych wytworzonych przez ludzi i wdrażane w kontekstach społecznych uformowanych przez ludzkie decyzje. Nie powinno zatem dziwić, że przejmują one i często wzmacniają uprzedzenia obecne w tych danych i procesach. Co więcej, algorytmy mogą nadawać tym uprzedzeniom nowy, groźniejszy wymiar: pozór obiektywności, naukowego autorytetu i nieuchronności.
+Systemy sztucznej inteligencji nie istnieją w próżni - są tworzone przez ludzi, trenowane na danych wytworzonych przez ludzi i wdrażane w kontekstach społecznych uformowanych przez ludzkie decyzje. Nie powinno zatem dziwić, że przejmują one i często wzmacniają uprzedzenia obecne w tych danych i procesach. Co więcej, algorytmy mogą nadawać tym uprzedzeniom nowy, groźniejszy wymiar: pozór obiektywności, naukowego autorytetu i nieuchronności.
 
 Zrozumienie uprzedzeń algorytmicznych wymaga zarówno technicznej wiedzy o tym, jak systemy uczą się z danych, jak i psychologicznej wiedzy o tym, jak ludzkie uprzedzenia wnikają do tych danych i jak ludzie reagują na stronnicze systemy AI.
 
-> **Fakt:** Badanie przeprowadzone przez ProPublica w 2016 roku ujawniło, że algorytm COMPAS, używany w amerykańskich sądach do oceny ryzyka recydywy, był dwukrotnie bardziej skłonny błędnie klasyfikować czarnych oskarżonych jako wysokie ryzyko niż białych — co wywołało ogólnonarodową debatę o algorytmicznej sprawiedliwości.
+> **Fakt:** Badanie przeprowadzone przez ProPublica w 2016 roku ujawniło, że algorytm COMPAS, używany w amerykańskich sądach do oceny ryzyka recydywy, był dwukrotnie bardziej skłonny błędnie klasyfikować czarnych oskarżonych jako wysokie ryzyko niż białych - co wywołało ogólnonarodową debatę o algorytmicznej sprawiedliwości.
 
 ## Czym są uprzedzenia algorytmiczne?
 
@@ -36,7 +36,7 @@ Pojawiają się gdy benchmarki i miary sukcesu systemu są same w sobie stronnic
 
 ## Błędy poznawcze wzmacniane przez AI
 
-AI nie tylko przejmuje ludzkie uprzedzenia — interakcja z systemami AI aktywuje i wzmacnia specyficzne błędy poznawcze u użytkowników:
+AI nie tylko przejmuje ludzkie uprzedzenia - interakcja z systemami AI aktywuje i wzmacnia specyficzne błędy poznawcze u użytkowników:
 
 ### Błąd potwierdzenia (confirmation bias)
 
@@ -44,7 +44,7 @@ Algorytmy personalizacji dostarczają użytkownikom treści spójnych z ich istn
 
 ### Błąd automatyzacyjny (automation bias)
 
-Opisana wcześniej tendencja do bezkrytycznego przyjmowania rekomendacji systemów automatycznych. W kontekście AI jest szczególnie podstępny, bo systemy AI często wyglądają bardziej kompetentnie niż są w rzeczywistości — generują pewne, dobrze sformułowane odpowiedzi nawet gdy się mylą.
+Opisana wcześniej tendencja do bezkrytycznego przyjmowania rekomendacji systemów automatycznych. W kontekście AI jest szczególnie podstępny, bo systemy AI często wyglądają bardziej kompetentnie niż są w rzeczywistości - generują pewne, dobrze sformułowane odpowiedzi nawet gdy się mylą.
 
 ### Iluzja głębi wyjaśnienia (illusion of explanatory depth)
 
@@ -54,13 +54,13 @@ Użytkownicy AI często przeceniają swoje rozumienie działania systemu. Prosta
 
 Pierwsza rekomendacja AI staje się punktem odniesienia dla dalszych ocen, nawet jeśli jest błędna. Badania wykazują, że lekarze korzystający z systemów diagnostycznych AI trudniej odchodzą od pierwszej sugestii systemu, nawet gdy nowe informacje wskazują na inną diagnozę.
 
-> **Fakt:** Eksperyment przeprowadzony przez badaczy z Harvardu wykazał, że studenci medycyny, którym pokazano diagnozę AI przed badaniem przypadku, rzadziej samodzielnie dochodzili do prawidłowej diagnozy niż studenci nieznający sugestii algorytmu — nawet gdy sugestia AI była błędna.
+> **Fakt:** Eksperyment przeprowadzony przez badaczy z Harvardu wykazał, że studenci medycyny, którym pokazano diagnozę AI przed badaniem przypadku, rzadziej samodzielnie dochodzili do prawidłowej diagnozy niż studenci nieznający sugestii algorytmu - nawet gdy sugestia AI była błędna.
 
 ## Psychologiczne mechanizmy powstawania danych stronniczych
 
-Dane, na których uczą się systemy AI, są produktem ludzkiej aktywności — a ludzka aktywność jest przesiąknięta uprzedzeniami. Kluczowe mechanizmy to:
+Dane, na których uczą się systemy AI, są produktem ludzkiej aktywności - a ludzka aktywność jest przesiąknięta uprzedzeniami. Kluczowe mechanizmy to:
 
-1. **Uprzedzenia przeszłości**: dane historyczne kodują nierówności z przeszłości — nawet jeśli te nierówności były niesprawiedliwe, algorytm traktuje je jako normatywny wzorzec
+1. **Uprzedzenia przeszłości**: dane historyczne kodują nierówności z przeszłości - nawet jeśli te nierówności były niesprawiedliwe, algorytm traktuje je jako normatywny wzorzec
 2. **Efekt pomiaru selektywnego**: rejestrujemy i przechowujemy dane o jednych zjawiskach (np. aresztowaniach) łatwiej niż o innych (np. przestępstwach bez aresztu), co tworzy systematyczne zniekształcenie
 3. **Autoprofetyczne przepowiednie**: algorytm przewidujący, że dana osoba jest ryzykowna, może prowadzić do zachowań, które zwiększają to ryzyko (np. częstsze kontrole policji)
 4. **Nierówna reprezentacja w danych**: grupy mniejszościowe są często niedostatecznie reprezentowane w zbiorach danych, co prowadzi do gorszej wydajności systemu dla tych grup
@@ -89,9 +89,9 @@ Gdy decyzja jest przedstawiana jako wynik „obiektywnego algorytmu", ludzie rza
 
 ### Fatalizm algorytmiczny
 
-Część użytkowników — szczególnie z grup marginalizowanych — wykazuje postawę „i tak nie ma sensu walczyć z algorytmem", co utrudnia dochodzenie sprawiedliwości.
+Część użytkowników - szczególnie z grup marginalizowanych - wykazuje postawę „i tak nie ma sensu walczyć z algorytmem", co utrudnia dochodzenie sprawiedliwości.
 
-> **Fakt:** Badanie opublikowane w Nature Human Behaviour wykazało, że ludzie są bardziej skłonni zaakceptować niesprawiedliwą decyzję algorytmu niż taką samą niesprawiedliwą decyzję podjętą przez człowieka — nawet gdy algorytm został im przedstawiony jako stronniczy.
+> **Fakt:** Badanie opublikowane w Nature Human Behaviour wykazało, że ludzie są bardziej skłonni zaakceptować niesprawiedliwą decyzję algorytmu niż taką samą niesprawiedliwą decyzję podjętą przez człowieka - nawet gdy algorytm został im przedstawiony jako stronniczy.
 
 ## Podejścia do redukcji uprzedzeń algorytmicznych
 
@@ -119,7 +119,7 @@ Eliminacja uprzedzeń algorytmicznych jest technicznie i społecznie skomplikowa
 
 ## Podsumowanie
 
-Uprzedzenia algorytmiczne to jedno z najpilniejszych wyzwań w obszarze AI i psychologii. Rozumienie ich źródeł — zakorzenionych zarówno w danych, jak i w ludzkich procesach poznawczych — jest niezbędnym krokiem do projektowania sprawiedliwych systemów. Psychologia dostarcza tu nieocenionej perspektywy: zarówno w wyjaśnianiu, jak uprzedzenia wnikają do AI, jak i w rozumieniu tego, jak wpływają na ludzi, którzy są ich ofiarami lub narzędziami ich utrwalania.
+Uprzedzenia algorytmiczne to jedno z najpilniejszych wyzwań w obszarze AI i psychologii. Rozumienie ich źródeł - zakorzenionych zarówno w danych, jak i w ludzkich procesach poznawczych - jest niezbędnym krokiem do projektowania sprawiedliwych systemów. Psychologia dostarcza tu nieocenionej perspektywy: zarówno w wyjaśnianiu, jak uprzedzenia wnikają do AI, jak i w rozumieniu tego, jak wpływają na ludzi, którzy są ich ofiarami lub narzędziami ich utrwalania.
 
 
 ## Wprowadzenie

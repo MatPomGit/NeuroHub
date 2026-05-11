@@ -8,7 +8,7 @@ evidenceCutoffDate: 2025-12-31
 
 Zasady dobroczynności (*beneficence*) i nieszkodzenia (*non-maleficence*) stanowią fundament bioetyki i etyki zawodowej psychologa. Sformułowane przez Beauchampa i Childressa w klasycznym dziele *Principles of Biomedical Ethics* (1979, wyd. 8: 2019), wyznaczają ramy odpowiedzialności klinicznej i badawczej.
 
-> „Obowiązek nieszkodzenia — *primum non nocere* — jest być może najstarszą zasadą etyki medycznej. Obowiązek dobroczynności wykracza poza brak szkody: wymaga aktywnego promowania dobrostanu." — Beauchamp & Childress (2019)
+> „Obowiązek nieszkodzenia - *primum non nocere* - jest być może najstarszą zasadą etyki medycznej. Obowiązek dobroczynności wykracza poza brak szkody: wymaga aktywnego promowania dobrostanu." - Beauchamp & Childress (2019)
 
 ---
 
@@ -19,7 +19,7 @@ Choć obie zasady są często wymieniane razem, mają odrębne znaczenie:
 | Zasada | Treść | Przykład w praktyce |
 |---|---|---|
 | **Dobroczynność** (*beneficence*) | Aktywne działanie na rzecz dobrostanu klienta | Stosowanie metod o udowodnionej skuteczności |
-| **Nieszkodzenie** (*non-maleficence*) | Unikanie wyrządzania krzywdy — zamierzonej i niezamierzonej | Nieprowadzenie terapii poza zakresem kompetencji |
+| **Nieszkodzenie** (*non-maleficence*) | Unikanie wyrządzania krzywdy - zamierzonej i niezamierzonej | Nieprowadzenie terapii poza zakresem kompetencji |
 | **Obowiązek opieki** (*duty of care*) | Prawny i etyczny obowiązek zapewnienia należytej staranności | Właściwa ocena ryzyka samobójstwa |
 | **Granice kompetencji** | Praca wyłącznie w obszarach, w których posiada się kwalifikacje | Odesłanie klienta ze złożonym PTSD do specjalisty traumy |
 
@@ -31,11 +31,11 @@ W praktyce klinicznej zasady dobroczynności i nieszkodzenia często wchodzą w 
 
 ### Elementy analizy
 
-1. **Prawdopodobieństwo korzyści** — czy interwencja ma udowodnioną skuteczność dla danego problemu i populacji?
-2. **Wielkość potencjalnej korzyści** — jak znacząca jest poprawa funkcjonowania?
-3. **Prawdopodobieństwo szkody** — jakie są znane działania niepożądane metody?
-4. **Ciężar potencjalnej szkody** — czy skutki uboczne są odwracalne?
-5. **Dostępność alternatyw** — czy istnieją metody o lepszym profilu korzyść/ryzyko?
+1. **Prawdopodobieństwo korzyści** - czy interwencja ma udowodnioną skuteczność dla danego problemu i populacji?
+2. **Wielkość potencjalnej korzyści** - jak znacząca jest poprawa funkcjonowania?
+3. **Prawdopodobieństwo szkody** - jakie są znane działania niepożądane metody?
+4. **Ciężar potencjalnej szkody** - czy skutki uboczne są odwracalne?
+5. **Dostępność alternatyw** - czy istnieją metody o lepszym profilu korzyść/ryzyko?
 
 ---
 
@@ -53,10 +53,10 @@ Sara Dimidjian i Steven Hollon w przełomowym artykule *How would we know if psy
 
 ### Kategorie szkód jatrogennnych
 
-- **Szkody techniczne** — błędna diagnoza, nieadekwatna metoda
-- **Szkody relacyjne** — naruszenie granic, nadużycie przeniesienia
-- **Szkody z zaniechania** — opóźnienie leczenia, brak skierowania
-- **Szkody edukacyjne** — fałszywe przekonania zaszczepione w terapii (np. fałszywe wspomnienia)
+- **Szkody techniczne** - błędna diagnoza, nieadekwatna metoda
+- **Szkody relacyjne** - naruszenie granic, nadużycie przeniesienia
+- **Szkody z zaniechania** - opóźnienie leczenia, brak skierowania
+- **Szkody edukacyjne** - fałszywe przekonania zaszczepione w terapii (np. fałszywe wspomnienia)
 
 ---
 
@@ -71,7 +71,7 @@ Kodeks PTP (2018) i standardy APA (2017) wyraźnie nakładają obowiązek pracy 
 - posiada doświadczenie praktyczne pod superwizją,
 - regularnie aktualizuje wiedzę w danej dziedzinie.
 
-Przekroczenie granic kompetencji — np. prowadzenie terapii traumy bez certyfikacji, stosowanie EMDR bez szkolenia — stanowi naruszenie zasady nieszkodzenia.
+Przekroczenie granic kompetencji - np. prowadzenie terapii traumy bez certyfikacji, stosowanie EMDR bez szkolenia - stanowi naruszenie zasady nieszkodzenia.
 
 ### Obowiązek skierowania
 
@@ -94,7 +94,7 @@ Psycholog zobowiązany jest stosować metody o **udowodnionej skuteczności** (*
 
 ### Kryzys i ryzyko samobójstwa
 
-Ocena ryzyka samobójczego (*suicide risk assessment*) jest obszarem, w którym zasada nieszkodzenia ma szczególne znaczenie. Zaniedbanie przeprowadzenia oceny lub błędna ocena może prowadzić do śmierci klienta — z poważnymi konsekwencjami prawnymi i etycznymi dla psychologa.
+Ocena ryzyka samobójczego (*suicide risk assessment*) jest obszarem, w którym zasada nieszkodzenia ma szczególne znaczenie. Zaniedbanie przeprowadzenia oceny lub błędna ocena może prowadzić do śmierci klienta - z poważnymi konsekwencjami prawnymi i etycznymi dla psychologa.
 
 ---
 
@@ -104,7 +104,7 @@ Ocena ryzyka samobójczego (*suicide risk assessment*) jest obszarem, w którym 
 |---|---|---|
 | Stosowanie metod EBP | APA, PTP, standard opieki | Odpowiedzialność cywilna |
 | Praca w granicach kompetencji | Ustawa o zawodzie psychologa | Postępowanie dyscyplinarne |
-| Obowiązek skierowania | Kodeks PTP | Porzucenie klienta — naruszenie etyki |
+| Obowiązek skierowania | Kodeks PTP | Porzucenie klienta - naruszenie etyki |
 | Ocena ryzyka | Standardy kliniczne | Odpowiedzialność karna |
 | Monitorowanie efektów | APA Standard 3.04 | Kontynuacja szkodliwej terapii |
 

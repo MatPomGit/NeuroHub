@@ -20,7 +20,7 @@ Osoby z wysoką reaktywnością emocjonalną mogą przez całe życie nie rozwin
 
 ### Model kontinuum
 
-Cechy temperamentalne i objawy zaburzeń leżą na wspólnym kontinuum — zaburzenie to **ilościowe nasilenie** cech temperamentalnych, nie oddzielna kategoria. Np. wysoka perseweratywność (RTT) → ruminacja → depresja.
+Cechy temperamentalne i objawy zaburzeń leżą na wspólnym kontinuum - zaburzenie to **ilościowe nasilenie** cech temperamentalnych, nie oddzielna kategoria. Np. wysoka perseweratywność (RTT) → ruminacja → depresja.
 
 ### Model spektrum
 
@@ -39,11 +39,11 @@ Temperament określa **przynależność do spektrum** zaburzeń (np. spektrum in
 
 ### Reaktywność a PTSD
 
-Badania Strelaua i Zawadzkiego (2005) po katastrofach naturalnych w Polsce wykazały, że spośród osób narażonych na podobny stres — osoby z **wysoką reaktywnością emocjonalną i niską wytrzymałością** rozwijały PTSD znacznie częściej. Temperament wyjaśniał ~25% wariancji nasilenia objawów PTSD.
+Badania Strelaua i Zawadzkiego (2005) po katastrofach naturalnych w Polsce wykazały, że spośród osób narażonych na podobny stres - osoby z **wysoką reaktywnością emocjonalną i niską wytrzymałością** rozwijały PTSD znacznie częściej. Temperament wyjaśniał ~25% wariancji nasilenia objawów PTSD.
 
 ## Niska kontrola effortful a ADHD
 
-*Effortful control* (Rothbart) — zdolność do hamowania dominującej reakcji i inicjowania reakcji subdominującej — jest **kluczowym czynnikiem ochronnym**:
+*Effortful control* (Rothbart) - zdolność do hamowania dominującej reakcji i inicjowania reakcji subdominującej - jest **kluczowym czynnikiem ochronnym**:
 
 - Niska *effortful control* w niemowlęctwie → trudności z regulacją uwagi w dzieciństwie
 - Powiązanie z **ADHD** (podtyp nieuwagi i nadpobudliwości)
@@ -60,7 +60,7 @@ Dzieci z niską *effortful control* i wysoką **negatywną emocjonalnością** (
 
 Mechanizm: trudny temperament → frustacja opiekuna → mniej spójne i wrażliwe rodzicielstwo → **pozabezpieczne przywiązanie** → wyższe ryzyko zaburzeń emocjonalnych.
 
-Jednak badania podłużne (Belsky, 1997) wskazują, że temperament niemowlęcia ma relatywnie słaby bezpośredni wpływ na styl przywiązania — wrażliwość opiekunów jest ważniejsza.
+Jednak badania podłużne (Belsky, 1997) wskazują, że temperament niemowlęcia ma relatywnie słaby bezpośredni wpływ na styl przywiązania - wrażliwość opiekunów jest ważniejsza.
 
 ## Zahamowanie behawioralne a fobia społeczna
 
@@ -80,7 +80,7 @@ Wysokie **BAS** (Gray) i wysoka **reaktywność nagrody** wiążą się z:
 - Impulsywnością i poszukiwaniem sensacji
 - **Zaburzeniami eksternalizacyjnymi**: ODD, CD, ADHD podtyp impulsywny
 - Podatnością na uzależnienia (silna wrażliwość na nagrody)
-- Hipomanią i zaburzeniem afektywnym dwubiegunowym (BD) — szczególnie wysoki BAS
+- Hipomanią i zaburzeniem afektywnym dwubiegunowym (BD) - szczególnie wysoki BAS
 
 ## Temperament a depresja
 

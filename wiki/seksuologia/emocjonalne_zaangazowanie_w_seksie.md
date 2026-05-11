@@ -4,13 +4,13 @@ reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
 
-# Emocjonalne zaangażowanie podczas seksu — dlaczego u jednych jest konieczne, a u innych nie?
+# Emocjonalne zaangażowanie podczas seksu - dlaczego u jednych jest konieczne, a u innych nie?
 
 ## Wprowadzenie
 
 Ludzie bardzo różnią się tym, jak łączą seksualność z emocjami. Dla części osób seks bez więzi emocjonalnej jest mało satysfakcjonujący lub wręcz niemożliwy. Dla innych bliskość emocjonalna i seks to dwa odrębne obszary, które mogą, ale nie muszą współwystępować.
 
-Psychologicznie żadna z tych konfiguracji nie jest z definicji „lepsza” — kluczowe są: zgoda, bezpieczeństwo, zgodność oczekiwań i brak szkody dla siebie oraz innych.
+Psychologicznie żadna z tych konfiguracji nie jest z definicji „lepsza” - kluczowe są: zgoda, bezpieczeństwo, zgodność oczekiwań i brak szkody dla siebie oraz innych.
 
 ---
 
@@ -20,9 +20,9 @@ Psychologicznie żadna z tych konfiguracji nie jest z definicji „lepsza” —
 
 Styl przywiązania wpływa na to, jak przeżywamy intymność:
 
-- **bezpieczny** — łatwiejsze łączenie bliskości emocjonalnej i seksualnej,
-- **lękowy** — seks może służyć uzyskaniu potwierdzenia bycia ważnym,
-- **unikający** — większa skłonność do dystansu emocjonalnego przy zachowaniu aktywności seksualnej.
+- **bezpieczny** - łatwiejsze łączenie bliskości emocjonalnej i seksualnej,
+- **lękowy** - seks może służyć uzyskaniu potwierdzenia bycia ważnym,
+- **unikający** - większa skłonność do dystansu emocjonalnego przy zachowaniu aktywności seksualnej.
 
 To nie sztywne reguły, lecz tendencje zwiększające prawdopodobieństwo określonych wzorców.
 
@@ -93,7 +93,7 @@ Najbardziej obciążające są ukryte założenia: „to jest oczywiste”. W pr
 2. **Ustal oczekiwania relacyjne** (wyłączność, tempo, forma kontaktu).
 3. **Mów językiem potrzeb, nie oskarżeń**.
 4. **Sprawdź zgodność wartości** przed wejściem w głębszą intymność.
-5. **Regularnie aktualizuj ustalenia** — potrzeby zmieniają się w czasie.
+5. **Regularnie aktualizuj ustalenia** - potrzeby zmieniają się w czasie.
 
 ---
 

@@ -8,13 +8,13 @@ evidenceCutoffDate: 2025-12-31
 
 ## Wprowadzenie
 
-Osobowość — rozumiana jako względnie trwały wzorzec myślenia, odczuwania i zachowania — jest jednym z fundamentalnych konstruktów psychologii. Pytanie o to, czy cechy osobowości są **universalne**, czy **kulturowo specyficzne**, ma dalekosiężne konsekwencje dla teorii, diagnozy i terapii. Współczesne badania wskazują na złożoną odpowiedź: pewne wymiary osobowości wydają się universalne, lecz ich treść, wartościowanie i powiązania z zachowaniem są głęboko kulturowe.
+Osobowość - rozumiana jako względnie trwały wzorzec myślenia, odczuwania i zachowania - jest jednym z fundamentalnych konstruktów psychologii. Pytanie o to, czy cechy osobowości są **universalne**, czy **kulturowo specyficzne**, ma dalekosiężne konsekwencje dla teorii, diagnozy i terapii. Współczesne badania wskazują na złożoną odpowiedź: pewne wymiary osobowości wydają się universalne, lecz ich treść, wartościowanie i powiązania z zachowaniem są głęboko kulturowe.
 
 ---
 
 ## Czy Wielka Piątka jest universalna?
 
-**Model Pięciu Czynników** (*Big Five*, Wielka Piątka) — obejmujący neurotyczność, ekstrawersję, otwartość na doświadczenie, ugodowość i sumienność — był replikowany w dziesiątkach krajów. McCrae i Costa (1997) na podstawie badań w ponad 50 kulturach argumentowali za jego **transkulturową universalnością**.
+**Model Pięciu Czynników** (*Big Five*, Wielka Piątka) - obejmujący neurotyczność, ekstrawersję, otwartość na doświadczenie, ugodowość i sumienność - był replikowany w dziesiątkach krajów. McCrae i Costa (1997) na podstawie badań w ponad 50 kulturach argumentowali za jego **transkulturową universalnością**.
 
 ### Dowody na universalizm
 
@@ -24,16 +24,16 @@ Osobowość — rozumiana jako względnie trwały wzorzec myślenia, odczuwania 
 
 ### Krytyka i ograniczenia
 
-- Większość badań używała **przetłumaczonych kwestionariuszy** — narzędzia zostały skonstruowane w kulturze zachodniej i mogą nie pokrywać emic wymiarów osobowości innych kultur
-- Badania **leksykalne** w niektórych kulturach (np. chińskiej, filipińskiej) ujawniają wymiary nieobecne w Wielkiej Piątce — np. *interpersonal relatedness* (Cheung, 2001) czy *pahala* (dyspozycyjne cnoty moralne w kulturze filipińskiej)
+- Większość badań używała **przetłumaczonych kwestionariuszy** - narzędzia zostały skonstruowane w kulturze zachodniej i mogą nie pokrywać emic wymiarów osobowości innych kultur
+- Badania **leksykalne** w niektórych kulturach (np. chińskiej, filipińskiej) ujawniają wymiary nieobecne w Wielkiej Piątce - np. *interpersonal relatedness* (Cheung, 2001) czy *pahala* (dyspozycyjne cnoty moralne w kulturze filipińskiej)
 - Wskaźniki **nasilenia** cech różnią się między krajami, co może odzwierciedlać kulturowe normy autodoprezentacji, a nie rzeczywiste różnice
-- Problem próby WEIRD — nadreprezentacja zachodnich uczestników
+- Problem próby WEIRD - nadreprezentacja zachodnich uczestników
 
 ---
 
 ## Kultury honoru
 
-**Kultury honoru** (*cultures of honor*) — opisane przez Richarda Nisbetta i Dov Cohena — charakteryzują się silnym naciskiem na reputację, szczególnie na honor mężczyzny jako obrońcy rodziny i własności. Typowe dla regionów pasterskich (południe USA, kraje basenu Morza Śródziemnego, kultury latynoskie).
+**Kultury honoru** (*cultures of honor*) - opisane przez Richarda Nisbetta i Dov Cohena - charakteryzują się silnym naciskiem na reputację, szczególnie na honor mężczyzny jako obrońcy rodziny i własności. Typowe dla regionów pasterskich (południe USA, kraje basenu Morza Śródziemnego, kultury latynoskie).
 
 ### Cechy kultury honoru
 
@@ -74,12 +74,12 @@ Triandis i współpracownicy zestawili wymiar indywidualizm-kolektywizm z wynika
 
 ---
 
-## Kulturowe skrypty osobowości — Markus i Kitayama
+## Kulturowe skrypty osobowości - Markus i Kitayama
 
 Hazel Markus i Shinobu Kitayama (1991) zaproponowali, że kultury tworzą różne **modele Ja**, które kształtują osobowość:
 
-- **Ja niezależne** (*independent self-construal*) — dominuje w kulturach zachodnich; Ja jest oddzielone od innych, ma unikalne atrybuty, dąży do wyrażania siebie i autonomii
-- **Ja współzależne** (*interdependent self-construal*) — dominuje w kulturach Azji Wschodniej; Ja jest definiowane przez relacje, role i zobowiązania; tożsamość jest relacyjna, nie indywidualna
+- **Ja niezależne** (*independent self-construal*) - dominuje w kulturach zachodnich; Ja jest oddzielone od innych, ma unikalne atrybuty, dąży do wyrażania siebie i autonomii
+- **Ja współzależne** (*interdependent self-construal*) - dominuje w kulturach Azji Wschodniej; Ja jest definiowane przez relacje, role i zobowiązania; tożsamość jest relacyjna, nie indywidualna
 
 ### Konsekwencje dla osobowości
 
@@ -94,7 +94,7 @@ Hazel Markus i Shinobu Kitayama (1991) zaproponowali, że kultury tworzą różn
 
 ## Diaspora i tożsamość kulturowa
 
-Osoby żyjące między kulturami — migranci, diaspora, drugie pokolenie — budują **tożsamości hybrydyczne**. Psychologiczne badania nad biculturalism (Benet-Martínez, 2002) wskazują, że:
+Osoby żyjące między kulturami - migranci, diaspora, drugie pokolenie - budują **tożsamości hybrydyczne**. Psychologiczne badania nad biculturalism (Benet-Martínez, 2002) wskazują, że:
 
 - Osoby **biculturalne** mogą sprawnie przełączać się między ramami kulturowymi w zależności od kontekstu (*frame switching*)
 - Wysoka **integracja kulturowa** (poczucie zgodności obu tożsamości) koreluje z wyższym dobrostanem i kreatywnością
@@ -105,10 +105,10 @@ Osoby żyjące między kulturami — migranci, diaspora, drugie pokolenie — bu
 
 ## Implikacje kliniczne
 
-- **Diagnoza osobowości** — normy kwestionariuszowe powinny uwzględniać tło kulturowe; unikać interpretacji kolektywistycznych wzorców jako zaburzeń osobowości
-- **Zaburzenia osobowości a kultura** — DSM-5 zaznacza, że diagnoza zaburzenia osobowości wymaga, by wzorzec był *deviant from cultural expectations*; kultura wyznacza granicę między cechą a zaburzeniem
-- **Terapia** — techniki terapeutyczne zakładające autonomię i asertywność mogą być kulturowo niezgodne z Ja współzależnym
-- **Praca z diasporą** — konflikty tożsamościowe między pokoleniami wymagają rozumienia obu systemów wartości
+- **Diagnoza osobowości** - normy kwestionariuszowe powinny uwzględniać tło kulturowe; unikać interpretacji kolektywistycznych wzorców jako zaburzeń osobowości
+- **Zaburzenia osobowości a kultura** - DSM-5 zaznacza, że diagnoza zaburzenia osobowości wymaga, by wzorzec był *deviant from cultural expectations*; kultura wyznacza granicę między cechą a zaburzeniem
+- **Terapia** - techniki terapeutyczne zakładające autonomię i asertywność mogą być kulturowo niezgodne z Ja współzależnym
+- **Praca z diasporą** - konflikty tożsamościowe między pokoleniami wymagają rozumienia obu systemów wartości
 
 ---
 

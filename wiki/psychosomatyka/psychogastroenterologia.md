@@ -6,19 +6,19 @@ evidenceCutoffDate: 2025-12-31
 
 # Psychogastroenterologia
 
-Przewód pokarmowy jest jednym z najbardziej podatnych na wpływ psychiki narządów. Nie bez powodu mówi się, że jelita to „drugi mózg" — posiadają własny rozbudowany układ nerwowy (ENS) i są w stałym dialogu z ośrodkowym układem nerwowym poprzez oś jelito–mózg.
+Przewód pokarmowy jest jednym z najbardziej podatnych na wpływ psychiki narządów. Nie bez powodu mówi się, że jelita to „drugi mózg" - posiadają własny rozbudowany układ nerwowy (ENS) i są w stałym dialogu z ośrodkowym układem nerwowym poprzez oś jelito–mózg.
 
-## Entneryczny układ nerwowy — „drugi mózg"
+## Entneryczny układ nerwowy - „drugi mózg"
 
-Jelita posiadają ok. **500 milionów neuronów** — więcej niż rdzeń kręgowy. Enteryczny układ nerwowy (ENS) może działać autonomicznie, bez udziału mózgu, regulując:
+Jelita posiadają ok. **500 milionów neuronów** - więcej niż rdzeń kręgowy. Enteryczny układ nerwowy (ENS) może działać autonomicznie, bez udziału mózgu, regulując:
 
 - perystaltykę i motorykę jelit
 - wydzielanie soków trawiennych
 - przepływ krwi w naczyniach krezkowych
 
-ENS i OUN komunikują się przez **oś jelito–mózg** — dwukierunkowy szlak obejmujący nerw błędny, oś HPA, układ immunologiczny i mikrobiom.
+ENS i OUN komunikują się przez **oś jelito–mózg** - dwukierunkowy szlak obejmujący nerw błędny, oś HPA, układ immunologiczny i mikrobiom.
 
-> **90% serotoniny** produkowane jest w jelitach (enterochromaffinowe komórki EC). Serotonina reguluje motorykę jelit i przekazuje sygnały do mózgu przez nerw błędny — zaburzenia nastroju i zaburzenia trawienne mają wspólne podłoże serotoninergiczne.
+> **90% serotoniny** produkowane jest w jelitach (enterochromaffinowe komórki EC). Serotonina reguluje motorykę jelit i przekazuje sygnały do mózgu przez nerw błędny - zaburzenia nastroju i zaburzenia trawienne mają wspólne podłoże serotoninergiczne.
 
 ## Zespół jelita drażliwego (IBS)
 
@@ -56,13 +56,13 @@ Choroba Crohna i wrzodziejące zapalenie jelita grubego (WZJG) mają podłoże a
 
 ## Dysfagia czynnościowa i globus pharyngis
 
-**Globus pharyngis** — uczucie guzy w gardle bez organicznej przyczyny. Związane z lękiem, depresją, stresem. Nerwowy skurcz gardła jest bezpośrednią reakcją autonomiczną na emocje (ewolucyjny odruch „dławienia się" ze strachu lub smutku).
+**Globus pharyngis** - uczucie guzy w gardle bez organicznej przyczyny. Związane z lękiem, depresją, stresem. Nerwowy skurcz gardła jest bezpośrednią reakcją autonomiczną na emocje (ewolucyjny odruch „dławienia się" ze strachu lub smutku).
 
-Dysfagia czynnościowa — trudności w połykaniu przy prawidłowej anatomii, często u osób z traumą lub zaburzeniami lękowymi.
+Dysfagia czynnościowa - trudności w połykaniu przy prawidłowej anatomii, często u osób z traumą lub zaburzeniami lękowymi.
 
 ## Nudności i wymioty psychogenne
 
-Cykliczne wymioty u dzieci, psychogenne nudności przed stresogennymi sytuacjami, wymioty jako objaw somatyzacji — wszystkie związane z nadreaktywnością osi ANS i brakiem regulacji emocji.
+Cykliczne wymioty u dzieci, psychogenne nudności przed stresogennymi sytuacjami, wymioty jako objaw somatyzacji - wszystkie związane z nadreaktywnością osi ANS i brakiem regulacji emocji.
 
 ## Oś mikrobiom–mózg–zachowanie
 
@@ -75,10 +75,10 @@ Badania ostatniej dekady pokazują, że:
 
 ## Interwencje
 
-- **CBT dla IBS** — dowody klasy A w systematycznych przeglądach Cochrane: redukcja objawów, katastrofizacji i wizyt lekarskich
-- **Hipnoterapia ukierunkowana na jelita** — skuteczna w IBS (50–70% odpowiedź)
-- **MBSR** — redukcja wisceralnej hiperalgezji i reaktywności stresowej
-- **Dieta eliminacyjna z wsparciem psychologicznym** — przy IBS z dominującym składnikiem lękowym
+- **CBT dla IBS** - dowody klasy A w systematycznych przeglądach Cochrane: redukcja objawów, katastrofizacji i wizyt lekarskich
+- **Hipnoterapia ukierunkowana na jelita** - skuteczna w IBS (50–70% odpowiedź)
+- **MBSR** - redukcja wisceralnej hiperalgezji i reaktywności stresowej
+- **Dieta eliminacyjna z wsparciem psychologicznym** - przy IBS z dominującym składnikiem lękowym
 
 > **Podsumowanie:** Jelita słuchają emocji, a mózg słucha jelit. Rozumienie tej dwukierunkowej osi jest podstawą zarówno diagnozy, jak i leczenia zaburzeń czynnościowych przewodu pokarmowego.
 

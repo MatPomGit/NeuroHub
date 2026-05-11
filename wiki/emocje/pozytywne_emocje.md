@@ -12,8 +12,8 @@ Przez większą część historii psychologii emocje pozytywne były traktowane 
 
 Teoria **broaden-and-build** (*poszerzaj i buduj*) głosi, że emocje pozytywne mają odmienną funkcję niż negatywne:
 
-- **Emocje negatywne** (strach, gniew, wstręt) zwężają repertuar myślenia i działania — mobilizują specyficzne zachowania przetrwania (ucieczka, atak, odrzucenie)
-- **Emocje pozytywne** (radość, ciekawość, miłość) **poszerzają** (*broaden*) chwilowy repertuar myśli i działań — tworzą przestrzeń do eksploracji, zabawy i kreatywności
+- **Emocje negatywne** (strach, gniew, wstręt) zwężają repertuar myślenia i działania - mobilizują specyficzne zachowania przetrwania (ucieczka, atak, odrzucenie)
+- **Emocje pozytywne** (radość, ciekawość, miłość) **poszerzają** (*broaden*) chwilowy repertuar myśli i działań - tworzą przestrzeń do eksploracji, zabawy i kreatywności
 
 ### Mechanizm „budowania"
 
@@ -51,7 +51,7 @@ Pojawia się w bezpiecznych, rodzinnych kontekstach. Wywołuje chęć zabawy, dz
 Pojawia się, gdy ktoś przynosi nam korzyść dobrowolnie. Motywuje do odwzajemnienia i wzmacnia więzi społeczne. Silnie koreluje ze zdrowiem psychicznym.
 
 ### 3. Spokój/błogość (*serenity*)
-Stan spokojnego zadowolenia. Sprzyja refleksji i zmianie priorytetów — „jak chciałbym żyć na co dzień?"
+Stan spokojnego zadowolenia. Sprzyja refleksji i zmianie priorytetów - „jak chciałbym żyć na co dzień?"
 
 ### 4. Zainteresowanie/ciekawość (*interest*)
 Wywołuje pragnienie eksploracji i uczenia się. Jest fundamentem kreatywności i innowacji. Csikszentmihalyi wiąże zainteresowanie ze stanem *flow*.
@@ -60,7 +60,7 @@ Wywołuje pragnienie eksploracji i uczenia się. Jest fundamentem kreatywności 
 Pojawia się w trudnych okolicznościach jako oczekiwanie możliwej poprawy. Mobilizuje do działania zmienionego, gdy obecna sytuacja jest nieznośna.
 
 ### 6. Duma (*pride*)
-Pojawia się po osobistym osiągnięciu przypisywanym sobie. Motywuje do dalszych osiągnięć i dzielenia się sukcesem. Różna od pychy — ta ostatnia wiąże się z poczuciem globalnej wyższości.
+Pojawia się po osobistym osiągnięciu przypisywanym sobie. Motywuje do dalszych osiągnięć i dzielenia się sukcesem. Różna od pychy - ta ostatnia wiąże się z poczuciem globalnej wyższości.
 
 ### 7. Rozbawienie (*amusement*)
 Wywołuje śmiech i żart. Pojawia się w bezpiecznych, łagodnych sytuacjach niespójności. Wzmacnia więzi społeczne przez wspólny śmiech.
@@ -92,30 +92,30 @@ Badania epidemiologiczne i eksperymentalne wykazują liczne korzyści zdrowotne:
 
 ### Zdrowie fizyczne
 - Wyższy poziom emocji pozytywnych koreluje z niższą śmiertelnością ogólną (Pressman & Cohen, 2005)
-- Ochrona przed chorobami zakaźnymi — Cohen i in. (2006) wykazali, że osoby z wyższym dobrostanem emocjonalnym rzadziej chorują po ekspozycji na rhinowirusy
+- Ochrona przed chorobami zakaźnymi - Cohen i in. (2006) wykazali, że osoby z wyższym dobrostanem emocjonalnym rzadziej chorują po ekspozycji na rhinowirusy
 - Wolniejsze starzenie się komórkowe (dłuższe telomery)
 
 ### Zdrowie psychiczne
 - Emocje pozytywne chronią przed rozwojem depresji i lęku
 - Są mediatorem w skuteczności psychoterapii
-- Wdzięczność, nadzieja i duma — silne predyktory rezyliencji
+- Wdzięczność, nadzieja i duma - silne predyktory rezyliencji
 
 ## Interwencje wzmacniające pozytywne emocje
 
 Psychologia pozytywna opracowała szereg skutecznych technik:
 
 ### Ćwiczenie wdzięczności
-- **Dziennik wdzięczności** — zapisywanie 3 rzeczy, za które jesteśmy wdzięczni każdego dnia
-- **Wizyta wdzięczności** (Seligman) — napisanie i odczytanie listu wdzięczności osobie, której nigdy nie podziękowaliśmy dostatecznie
+- **Dziennik wdzięczności** - zapisywanie 3 rzeczy, za które jesteśmy wdzięczni każdego dnia
+- **Wizyta wdzięczności** (Seligman) - napisanie i odczytanie listu wdzięczności osobie, której nigdy nie podziękowaliśmy dostatecznie
 
 ### Medytacja życzliwości (*loving-kindness meditation*, LKM)
 Systematyczne generowanie ciepłych uczuć wobec siebie, bliskich, neutralnych osób, trudnych osób i wszystkich istot. Badania wykazują wzrost emocji pozytywnych, empatii i redukcję objawów depresji po 6–8 tygodniach praktyki.
 
 ### Trzy dobre rzeczy (*Three Good Things*)
-Seligman i in. (2005) — wieczorne zapisywanie trzech pozytywnych wydarzeń i ich przyczyn. Wykazano wzrost szczęścia i redukcję depresji trwającą do 6 miesięcy.
+Seligman i in. (2005) - wieczorne zapisywanie trzech pozytywnych wydarzeń i ich przyczyn. Wykazano wzrost szczęścia i redukcję depresji trwającą do 6 miesięcy.
 
 ### Savoring (smakowanie)
-Świadome wydłużanie i wzmacnianie pozytywnych doświadczeń — zatrzymanie się, werbalizacja, dzielenie się z innymi.
+Świadome wydłużanie i wzmacnianie pozytywnych doświadczeń - zatrzymanie się, werbalizacja, dzielenie się z innymi.
 
 ---
 

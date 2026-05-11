@@ -37,9 +37,9 @@ Psychofizjologia bada relacje między procesami psychologicznymi (myślami, emoc
 **ERP** to uśrednione odpowiedzi EEG na powtarzane bodźce. Pozwalają mierzyć czas trwania poszczególnych etapów przetwarzania informacji z milisekundową rozdzielczością.
 
 Kluczowe komponenty:
-- **P300** — pozytywna fala ~300 ms po rzadkim, istotnym bodźcu; marker uwagi i aktualizacji pamięci roboczej
-- **N400** — negatywna fala ~400 ms po semantycznie niespójnym słowie; marker przetwarzania semantycznego
-- **MMN (Mismatch Negativity)** — odpowiedź na odchylenie od standardowego bodźca; nie wymaga uwagi; marker automatycznego przetwarzania słuchowego
+- **P300** - pozytywna fala ~300 ms po rzadkim, istotnym bodźcu; marker uwagi i aktualizacji pamięci roboczej
+- **N400** - negatywna fala ~400 ms po semantycznie niespójnym słowie; marker przetwarzania semantycznego
+- **MMN (Mismatch Negativity)** - odpowiedź na odchylenie od standardowego bodźca; nie wymaga uwagi; marker automatycznego przetwarzania słuchowego
 
 ## Odpowiedź skórno-galwaniczna (EDA/GSR)
 
@@ -47,7 +47,7 @@ Kluczowe komponenty:
 
 Zastosowania:
 - Badanie reakcji lękowych (ekspozycja na bodźce fobiczne)
-- Wykrywanie kłamstw (wariograf — kontrowersyjne)
+- Wykrywanie kłamstw (wariograf - kontrowersyjne)
 - Badanie warunkowania lękowego
 - Biofeedback w terapii zaburzeń lękowych
 
@@ -55,7 +55,7 @@ Zastosowania:
 
 ## Zmienność rytmu serca (HRV)
 
-**HRV** (Heart Rate Variability) mierzy zmienność odstępów między kolejnymi uderzeniami serca. Zdrowe serce nie bije w metronomiowym rytmie — elastycznie reaguje na oddech i wymagania ciała.
+**HRV** (Heart Rate Variability) mierzy zmienność odstępów między kolejnymi uderzeniami serca. Zdrowe serce nie bije w metronomiowym rytmie - elastycznie reaguje na oddech i wymagania ciała.
 
 Wysoka HRV oznacza dominację przywspółczulną (vagal tone) i jest związana z:
 - Zdolnością do regulacji emocji
@@ -67,11 +67,11 @@ Wysoka HRV oznacza dominację przywspółczulną (vagal tone) i jest związana z
 
 Ćwiczenia fizyczne, medytacja, biofeedback HRV i oddychanie kohezyjne (ok. 6 oddechów/minutę) podnoszą HRV.
 
-## Odpowiedzi mięśniowe — EMG
+## Odpowiedzi mięśniowe - EMG
 
 **Elektromiografia (EMG)** mierzy aktywność elektryczną mięśni. W psychofizjologii najczęściej stosowana do pomiaru:
 
-**Wyrazów twarzy:** Elektrody umieszczone na mięśniach twarzy (m. corrugator supercilii — zmarszczenie brwi, m. zygomaticus major — uśmiech) pozwalają mierzyć mikroekspresje nierejestrowane przez kamery. Badania Cacioppo i Petty wykazały, że czytanie tekstu niezgodnego z postawami aktywuje corrugator, nawet przy braku widocznych emocji.
+**Wyrazów twarzy:** Elektrody umieszczone na mięśniach twarzy (m. corrugator supercilii - zmarszczenie brwi, m. zygomaticus major - uśmiech) pozwalają mierzyć mikroekspresje nierejestrowane przez kamery. Badania Cacioppo i Petty wykazały, że czytanie tekstu niezgodnego z postawami aktywuje corrugator, nawet przy braku widocznych emocji.
 
 **Napięcie mięśniowe:** Przewlekłe napięcie mięśni karku i ramion jest biomarkerem stresu chronicznego.
 
@@ -91,7 +91,7 @@ Emocje mają charakterystyczne profile fizjologiczne, choć nakładają się i n
 - **Wstręt:** Obniżenie tętna, wzrost EDA, aktywacja corrugator
 - **Smutek:** Spowolnienie tętna, płacz, aktywacja corrugator
 
-> **Teoria Jamesa-Langego:** Emocje to świadomość zmian fizjologicznych ("biegnę, bo się boję — boję się, bo biegnę"). Nowoczesne badania pokazują, że ciało i umysł kształtują emocje nawzajem — w modelu predykcyjnym mózg interpretuje sygnały ciała przez pryzmat kontekstu i przewidywań.
+> **Teoria Jamesa-Langego:** Emocje to świadomość zmian fizjologicznych ("biegnę, bo się boję - boję się, bo biegnę"). Nowoczesne badania pokazują, że ciało i umysł kształtują emocje nawzajem - w modelu predykcyjnym mózg interpretuje sygnały ciała przez pryzmat kontekstu i przewidywań.
 
 ## Zastosowania kliniczne
 

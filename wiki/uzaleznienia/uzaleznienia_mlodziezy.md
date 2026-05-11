@@ -8,7 +8,7 @@ evidenceCutoffDate: 2025-12-31
 
 ## Wprowadzenie
 
-Adolescencja — okres między 10. a 24. rokiem życia — jest etapem szczególnie wysokiego ryzyka inicjacji i rozwoju uzależnień. Dane epidemiologiczne konsekwentnie wskazują, że **im wcześniej dochodzi do pierwszego kontaktu z substancją psychoaktywną, tym wyższe prawdopodobieństwo rozwinięcia uzależnienia** w dorosłości (Hingson i in., 2006). Zrozumienie biologicznych, psychologicznych i społecznych czynników specyficznych dla tego okresu jest kluczowe dla skutecznej profilaktyki i terapii.
+Adolescencja - okres między 10. a 24. rokiem życia - jest etapem szczególnie wysokiego ryzyka inicjacji i rozwoju uzależnień. Dane epidemiologiczne konsekwentnie wskazują, że **im wcześniej dochodzi do pierwszego kontaktu z substancją psychoaktywną, tym wyższe prawdopodobieństwo rozwinięcia uzależnienia** w dorosłości (Hingson i in., 2006). Zrozumienie biologicznych, psychologicznych i społecznych czynników specyficznych dla tego okresu jest kluczowe dla skutecznej profilaktyki i terapii.
 
 ---
 
@@ -22,8 +22,8 @@ Dane z badania **ESPAD 2019** (European School Survey Project on Alcohol and Oth
 | Papierosy | 41% | 20% |
 | Marihuana/haszysz | 24% | 9% |
 | E-papierosy | 46% | 28% |
-| Leki uspokajające bez recepty | 8% | — |
-| Inne narkotyki | 5% | — |
+| Leki uspokajające bez recepty | 8% | - |
+| Inne narkotyki | 5% | - |
 
 Polska plasuje się powyżej średniej europejskiej pod względem spożycia alkoholu przez młodzież i należy do krajów o najwyższym wskaźniku używania marihuany wśród nastolatków w Europie Środkowo-Wschodniej.
 
@@ -31,9 +31,9 @@ Polska plasuje się powyżej średniej europejskiej pod względem spożycia alko
 
 ## Rozwojowe czynniki ryzyka
 
-### Neurobiologiczna podatność — kora przedczołowa
+### Neurobiologiczna podatność - kora przedczołowa
 
-Kluczowym odkryciem neuronauk ostatnich dwóch dekad jest fakt, że **kora przedczołowa** (*prefrontal cortex*, PFC) — odpowiedzialna za planowanie, kontrolę impulsów, ocenę ryzyka i regulację emocji — dojrzewa strukturalnie i funkcjonalnie dopiero około **25. roku życia** (Casey i in., 2008).
+Kluczowym odkryciem neuronauk ostatnich dwóch dekad jest fakt, że **kora przedczołowa** (*prefrontal cortex*, PFC) - odpowiedzialna za planowanie, kontrolę impulsów, ocenę ryzyka i regulację emocji - dojrzewa strukturalnie i funkcjonalnie dopiero około **25. roku życia** (Casey i in., 2008).
 
 Skutki niedojrzałości PFC u nastolatków:
 - Dominacja **układu limbicznego** nad kontrolą wykonawczą → poszukiwanie nagrody i nowości
@@ -48,7 +48,7 @@ Substancje psychoaktywne używane w tym krytycznym okresie neuroplastyczności m
 - Wczesne zaburzenia zachowania i ADHD (ryzyko 2–4× wyższe)
 - Impulsywność jako cecha temperamentu
 - Niska tolerancja frustracji
-- Poszukiwanie doznań (*sensation seeking*) — Zuckerman (1994)
+- Poszukiwanie doznań (*sensation seeking*) - Zuckerman (1994)
 - Depresja i zaburzenia lękowe (współzachorowalność >50%)
 - Niskie poczucie własnej skuteczności (*self-efficacy*)
 - Historia traumy i nadużyć
@@ -63,13 +63,13 @@ Substancje psychoaktywne używane w tym krytycznym okresie neuroplastyczności m
 
 ### Czynniki rówieśnicze i środowiskowe
 
-Wpływ rówieśników jest szczególnie silny w adolescencji — **badania Gardnera i Steinberga (2005)** wykazały, że obecność rówieśników zwiększa podejmowanie ryzyka u nastolatków dwukrotnie, podczas gdy u dorosłych nie wywiera istotnego wpływu.
+Wpływ rówieśników jest szczególnie silny w adolescencji - **badania Gardnera i Steinberga (2005)** wykazały, że obecność rówieśników zwiększa podejmowanie ryzyka u nastolatków dwukrotnie, podczas gdy u dorosłych nie wywiera istotnego wpływu.
 
 Mechanizmy wpływu rówieśniczego:
-- **Bezpośrednia presja** — propozycje, namawianie
-- **Pośrednie normatywne** — percepcja powszechności używania wśród rówieśników (często przeszacowana)
-- **Modelowanie** — obserwowanie używania przez lubiane osoby
-- **Przynależność** — używanie jako rytuał integracji z grupą
+- **Bezpośrednia presja** - propozycje, namawianie
+- **Pośrednie normatywne** - percepcja powszechności używania wśród rówieśników (często przeszacowana)
+- **Modelowanie** - obserwowanie używania przez lubiane osoby
+- **Przynależność** - używanie jako rytuał integracji z grupą
 
 ---
 
@@ -77,8 +77,8 @@ Mechanizmy wpływu rówieśniczego:
 
 Klasyczna teoria substancji bramkowych (Kandel, 1975) postuluje sekwencję: alkohol/papierosy → marihuana → twarde narkotyki. Późniejsze badania pokazują złożony obraz:
 
-- Sekwencja zachodzi statystycznie, ale nie jest deterministyczna — większość użytkowników marihuany **nie** przechodzi do twardych narkotyków
-- Ważniejszym czynnikiem jest **wspólna podatność** (*common liability model*) — genetyczna i środowiskowa predyspozycja do uzależnień generalizuje się na różne substancje
+- Sekwencja zachodzi statystycznie, ale nie jest deterministyczna - większość użytkowników marihuany **nie** przechodzi do twardych narkotyków
+- Ważniejszym czynnikiem jest **wspólna podatność** (*common liability model*) - genetyczna i środowiskowa predyspozycja do uzależnień generalizuje się na różne substancje
 - Wiek inicjacji (nie konkretna substancja) jest silniejszym predyktorem uzależnienia w dorosłości
 
 ---

@@ -455,7 +455,7 @@ function runWikiNamingConventionCheck(report) {
           pushWarning(
             report,
             'wiki-naming-convention',
-            `Segment zawiera angielski token "${englishToken}" — zalecana polska nazwa.`,
+            `Segment zawiera angielski token "${englishToken}" - zalecana polska nazwa.`,
             { relativePath }
           );
         }

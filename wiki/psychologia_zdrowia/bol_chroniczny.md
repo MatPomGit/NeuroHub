@@ -20,7 +20,7 @@ Ból przewlekły często wiąże się z:
 - wycofaniem społecznym,
 - poczuciem utraty kontroli nad życiem.
 
-Nie są to „dodatkowe” problemy — wzajemnie wzmacniają odczuwanie bólu i pogarszają funkcjonowanie.
+Nie są to „dodatkowe” problemy - wzajemnie wzmacniają odczuwanie bólu i pogarszają funkcjonowanie.
 
 ## Kluczowe mechanizmy podtrzymujące
 
@@ -52,11 +52,11 @@ Całkowite wyeliminowanie bólu bywa możliwe, ale nie może być jedynym mierni
 
 Najczęściej rekomendowane podejścia:
 
-- **CBT bólu** — praca z myślami, zachowaniami i regulacją emocji,
-- **ACT** — akceptacja doznań i działanie zgodne z wartościami,
-- **mindfulness** — redukcja reaktywności na ból,
-- **pacing** — równoważenie aktywności i odpoczynku,
-- **edukacja o bólu** — rozumienie mechanizmów neurofizjologicznych.
+- **CBT bólu** - praca z myślami, zachowaniami i regulacją emocji,
+- **ACT** - akceptacja doznań i działanie zgodne z wartościami,
+- **mindfulness** - redukcja reaktywności na ból,
+- **pacing** - równoważenie aktywności i odpoczynku,
+- **edukacja o bólu** - rozumienie mechanizmów neurofizjologicznych.
 
 Najlepsze efekty osiąga się, gdy interwencje psychologiczne są częścią planu interdyscyplinarnego (lekarz, fizjoterapia, psychoterapia).
 

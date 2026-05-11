@@ -8,17 +8,17 @@ evidenceCutoffDate: 2025-12-31
 
 ## Czym jest komunikacja wspierająca?
 
-**Komunikacja wspierająca** to styl porozumiewania się, który służy budowaniu relacji, redukowaniu napięcia i wzmacnianiu poczucia wartości rozmówcy. W kontekście pomocy psychologicznej jest to podstawowe narzędzie pracy — zarówno w procesie diagnozy, jak i interwencji.
+**Komunikacja wspierająca** to styl porozumiewania się, który służy budowaniu relacji, redukowaniu napięcia i wzmacnianiu poczucia wartości rozmówcy. W kontekście pomocy psychologicznej jest to podstawowe narzędzie pracy - zarówno w procesie diagnozy, jak i interwencji.
 
-Komunikacja wspierająca nie jest zestawem technik do mechanicznego stosowania — to wyraz **autentycznej troski** i **nastawienia na rozumienie**, a nie na ocenianie.
+Komunikacja wspierająca nie jest zestawem technik do mechanicznego stosowania - to wyraz **autentycznej troski** i **nastawienia na rozumienie**, a nie na ocenianie.
 
 ---
 
 ## Kluczowe elementy komunikacji wspierającej
 
 ### Walidacja
-Potwierdzenie, że uczucia i doświadczenia rozmówcy są zrozumiałe i uzasadnione — nawet jeśli pomagający ocenia sytuację inaczej:
-> „Rozumiem, że czujesz się zdradzona — to musiało być naprawdę bolesne."
+Potwierdzenie, że uczucia i doświadczenia rozmówcy są zrozumiałe i uzasadnione - nawet jeśli pomagający ocenia sytuację inaczej:
+> „Rozumiem, że czujesz się zdradzona - to musiało być naprawdę bolesne."
 
 Walidacja **nie oznacza zgody** z działaniem ani przekonaniami klienta. Oznacza uznanie jego przeżyć za prawdziwe.
 
@@ -38,7 +38,7 @@ Zwracanie klientowi tego, co pomagający słyszy i obserwuje:
 > „Mówisz, że dajesz sobie radę, ale słyszę w tym duże zmęczenie."
 
 ### Udzielanie informacji
-Psychoedukacja — przekazywanie wiedzy o procesach psychologicznych w sposób przystępny, bez narzucania:
+Psychoedukacja - przekazywanie wiedzy o procesach psychologicznych w sposób przystępny, bez narzucania:
 > „Czy wiesz, że to, co opisujesz, może być objawem reakcji na stres? Chcesz, żebym wyjaśnił, jak to działa?"
 
 ---

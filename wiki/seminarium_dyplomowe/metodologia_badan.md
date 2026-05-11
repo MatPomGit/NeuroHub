@@ -12,7 +12,7 @@ Metodologia badań jest kręgosłupem pracy naukowej. Bez solidnego projektu naw
 
 ### Podejście ilościowe
 
-Badania ilościowe opierają się na **pomiarze liczbowym** i analizie statystycznej. Celem jest wykrycie prawidłowości, testowanie hipotez i — niekiedy — uogólnienie wyników na populację. Kluczowe cechy:
+Badania ilościowe opierają się na **pomiarze liczbowym** i analizie statystycznej. Celem jest wykrycie prawidłowości, testowanie hipotez i - niekiedy - uogólnienie wyników na populację. Kluczowe cechy:
 - Standaryzowane narzędzia (kwestionariusze, testy)
 - Duże lub umiarkowane próby
 - Dane wyrażone liczbowo (skale, częstości, czasy reakcji)
@@ -28,7 +28,7 @@ Badania jakościowe eksplorują **znaczenia, doświadczenia i procesy** z perspe
 
 ### Podejście mieszane (mixed methods)
 
-Łączy elementy obu podejść w jednym badaniu — pozwala uchwycić zarówno wzorce statystyczne, jak i subiektywne znaczenia.
+Łączy elementy obu podejść w jednym badaniu - pozwala uchwycić zarówno wzorce statystyczne, jak i subiektywne znaczenia.
 
 ## Typy projektów badawczych
 
@@ -42,9 +42,9 @@ Sprawdzają, czy i jak mocno zmienne są ze sobą powiązane, **nie manipulując
 
 W eksperymencie badacz **losowo przydziela** uczestników do warunków i **manipuluje** zmienną niezależną. Pozwala to wyciągać wnioski przyczynowo-skutkowe.
 
-- **Zmienna niezależna (ZN)** — manipulowana przez badacza
-- **Zmienna zależna (ZZ)** — mierzona jako efekt ZN
-- **Zmienne zakłócające** — kontrolowane przez randomizację lub dodatkowe procedury
+- **Zmienna niezależna (ZN)** - manipulowana przez badacza
+- **Zmienna zależna (ZZ)** - mierzona jako efekt ZN
+- **Zmienne zakłócające** - kontrolowane przez randomizację lub dodatkowe procedury
 
 ### Badania quasi-eksperymentalne
 
@@ -69,21 +69,21 @@ Stosowane, gdy temat jest mało zbadany. Celem jest generowanie hipotez, nie ich
 - Operacjonalizacja: wynik w skali BDI-II (Beck Depression Inventory)
 
 Dobra operacjonalizacja jest:
-- **Trafna** — mierzy to, co zamierzamy mierzyć
-- **Rzetelna** — daje stabilne wyniki przy ponownym pomiarze
-- **Uzasadniona** — wynika z przyjętej definicji pojęcia
+- **Trafna** - mierzy to, co zamierzamy mierzyć
+- **Rzetelna** - daje stabilne wyniki przy ponownym pomiarze
+- **Uzasadniona** - wynika z przyjętej definicji pojęcia
 
 ## Dobór próby
 
 ### Metody probabilistyczne
-- **Losowanie proste** — każda osoba z populacji ma równą szansę wyboru
-- **Losowanie warstwowe** — populacja dzielona na warstwy, losowanie w każdej warstwie
-- **Losowanie grupowe (klastrowe)** — losowanie grup (np. szkół), badanie wszystkich członków
+- **Losowanie proste** - każda osoba z populacji ma równą szansę wyboru
+- **Losowanie warstwowe** - populacja dzielona na warstwy, losowanie w każdej warstwie
+- **Losowanie grupowe (klastrowe)** - losowanie grup (np. szkół), badanie wszystkich członków
 
 ### Metody nieprobabilistyczne (najczęstsze w pracach magisterskich)
-- **Próba wygodowa** — osoby łatwo dostępne (studenci, znajomi, grupy online)
-- **Celowa** — dobór ze względu na spełnienie kryterium (np. diagnoza kliniczna)
-- **Kulkowa śniegowa** — uczestnicy rekrutują kolejnych uczestników
+- **Próba wygodowa** - osoby łatwo dostępne (studenci, znajomi, grupy online)
+- **Celowa** - dobór ze względu na spełnienie kryterium (np. diagnoza kliniczna)
+- **Kulkowa śniegowa** - uczestnicy rekrutują kolejnych uczestników
 
 > **Uwaga:** Próba wygodowa ogranicza możliwość uogólniania wyników, ale jest akceptowalna w pracach magisterskich przy odpowiednim omówieniu ograniczeń.
 
@@ -115,7 +115,7 @@ Rozdział metody powinien być tak szczegółowy, by możliwa była **replikacja
 
 ## Podsumowanie
 
-Solidna metodologia to podstawa wiarygodnej pracy magisterskiej. Decyzje metodologiczne należy podejmować świadomie, z pełnym zrozumieniem ich konsekwencji dla interpretacji wyników. Ograniczenia metodologiczne nie dyskwalifikują badania — ważne, by zostały uczciwie opisane w dyskusji.
+Solidna metodologia to podstawa wiarygodnej pracy magisterskiej. Decyzje metodologiczne należy podejmować świadomie, z pełnym zrozumieniem ich konsekwencji dla interpretacji wyników. Ograniczenia metodologiczne nie dyskwalifikują badania - ważne, by zostały uczciwie opisane w dyskusji.
 
 
 ## Wprowadzenie

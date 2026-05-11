@@ -26,7 +26,7 @@ Adaptacja zależy od oceny poznawczej: czy sytuacja jest zagrożeniem, stratą c
 Osoby z niepełnosprawnościami doświadczają **dodatkowego obciążenia** wynikającego z piętna, dyskryminacji i ukrytych stresów tożsamościowych (np. konieczność ukrywania niepełnosprawności lub ciągłego „tłumaczenia" jej innym).
 
 ### Resilience (odporność psychiczna)
-Adaptacja nie jest stałą cechą — to dynamiczny proces. Czynniki budujące resilience:
+Adaptacja nie jest stałą cechą - to dynamiczny proces. Czynniki budujące resilience:
 
 - pozytywne relacje,
 - elastyczne strategie radzenia sobie,
@@ -37,7 +37,7 @@ Adaptacja nie jest stałą cechą — to dynamiczny proces. Czynniki budujące r
 
 **Adaptacyjne:**
 - aktywne szukanie wsparcia i informacji,
-- reinterpretacja — szukanie sensu w sytuacji,
+- reinterpretacja - szukanie sensu w sytuacji,
 - planowanie działań w granicach możliwości,
 - akceptacja ograniczeń bez rezygnacji z wartości,
 - stosowanie humoru i dystansu.
@@ -51,7 +51,7 @@ Adaptacja nie jest stałą cechą — to dynamiczny proces. Czynniki budujące r
 
 ## Post-traumatic growth
 
-Część osób po nabyciu niepełnosprawności raportuje **wzrost posttraumatyczny**: głębsze relacje, przeformułowane priorytety, większą empatię i silniejsze poczucie sensu. Wzrost ten nie neguje cierpienia — może współistnieć z trudnościami.
+Część osób po nabyciu niepełnosprawności raportuje **wzrost posttraumatyczny**: głębsze relacje, przeformułowane priorytety, większą empatię i silniejsze poczucie sensu. Wzrost ten nie neguje cierpienia - może współistnieć z trudnościami.
 
 ## Wsparcie psychologiczne w procesie adaptacji
 
@@ -63,11 +63,11 @@ Część osób po nabyciu niepełnosprawności raportuje **wzrost posttraumatycz
 
 ## Przykład
 
-Mężczyzna, 45 lat, po amputacji kończyny dolnej. Początkowo odmawia protezy i wychodzenia z domu. W terapii ACT pracuje nad opłakiwaniem utraconego ciała, wyznaczaniem nowych wartości życiowych i stopniowym powrotem do aktywności. Po pół roku powrót do pracy i relacji społecznych — zmieniony, ale satysfakcjonujący.
+Mężczyzna, 45 lat, po amputacji kończyny dolnej. Początkowo odmawia protezy i wychodzenia z domu. W terapii ACT pracuje nad opłakiwaniem utraconego ciała, wyznaczaniem nowych wartości życiowych i stopniowym powrotem do aktywności. Po pół roku powrót do pracy i relacji społecznych - zmieniony, ale satysfakcjonujący.
 
 ## Podsumowanie
 
-Stres i adaptacja w kontekście niepełnosprawności to złożone, indywidualne procesy. Żadne doświadczenie niepełnosprawności nie jest z góry skazane na trwałe cierpienie ani na heroiczny triumf — oba wizerunki szkodzą. Psycholog wspiera realistyczną adaptację: akceptację zmian, rozwijanie zasobów i utrzymanie uczestnictwa w tym, co ważne.
+Stres i adaptacja w kontekście niepełnosprawności to złożone, indywidualne procesy. Żadne doświadczenie niepełnosprawności nie jest z góry skazane na trwałe cierpienie ani na heroiczny triumf - oba wizerunki szkodzą. Psycholog wspiera realistyczną adaptację: akceptację zmian, rozwijanie zasobów i utrzymanie uczestnictwa w tym, co ważne.
 
 
 ## Wprowadzenie

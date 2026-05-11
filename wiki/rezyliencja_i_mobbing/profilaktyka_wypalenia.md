@@ -10,7 +10,7 @@ evidenceCutoffDate: 2025-12-31
 
 Profilaktyka wypalenia zawodowego opiera się na fundamentalnym założeniu: wypalenie nie jest wyłącznie problemem jednostki, lecz wynikiem nierównowagi między wymaganiami środowiska pracy a zasobami dostępnymi pracownikowi. Z tego powodu skuteczna profilaktyka musi działać jednocześnie na poziomie indywidualnym, organizacyjnym i systemowym.
 
-Model JD-R (Bakker i Demerouti) dostarcza mapę interwencji: redukcja nadmiernych wymagań i wzmacnianie zasobów to dwa równoległe, uzupełniające się tory działania. Interwencje skupione wyłącznie na jednostce (np. warsztaty radzenia sobie ze stresem) przy jednoczesnym ignorowaniu systemowych przyczyn przeciążenia są niewystarczające — i mogą wręcz generować wtórne poczucie winy: „Skoro wypalasz się mimo szkoleń, problem leży w tobie."
+Model JD-R (Bakker i Demerouti) dostarcza mapę interwencji: redukcja nadmiernych wymagań i wzmacnianie zasobów to dwa równoległe, uzupełniające się tory działania. Interwencje skupione wyłącznie na jednostce (np. warsztaty radzenia sobie ze stresem) przy jednoczesnym ignorowaniu systemowych przyczyn przeciążenia są niewystarczające - i mogą wręcz generować wtórne poczucie winy: „Skoro wypalasz się mimo szkoleń, problem leży w tobie."
 
 > **Fakt:** Przegląd systematyczny Westermann i in. (2009) obejmujący 25 RCT wykazał, że interwencje skoncentrowane na osobie (CBT, relaksacja, mindfulness) mają istotny, choć krótkoterminowy efekt na redukcję wypalenia. Trwałe efekty wymagają interwencji organizacyjnych.
 
@@ -18,16 +18,16 @@ Model JD-R (Bakker i Demerouti) dostarcza mapę interwencji: redukcja nadmiernyc
 
 ### Samoopieka (self-care) jako priorytet
 
-Samoopieka to nie luksus — to zawodowy obowiązek każdego pracownika, a szczególnie osoby pracującej z ludźmi. Obejmuje:
+Samoopieka to nie luksus - to zawodowy obowiązek każdego pracownika, a szczególnie osoby pracującej z ludźmi. Obejmuje:
 
-- regularny sen (7–9 godzin dla dorosłych) — kluczowy dla regeneracji neurologicznej
+- regularny sen (7–9 godzin dla dorosłych) - kluczowy dla regeneracji neurologicznej
 - aktywność fizyczna co najmniej 150 minut tygodniowo (wytyczne WHO)
 - zdrowa dieta wspierająca regulację nastroju i energii
 - regularne przerwy podczas pracy i odejście od ekranu
 - czas na aktywności i relacje niezwiązane z pracą
 - regularne urlopy z prawdziwym odłączeniem od pracy
 
-Samoopieka jest systemem, a nie jednorazowym działaniem. Jej skuteczność zależy od regularności, nie intensywności — lepszy codzienny 20-minutowy spacer niż intensywny weekend SPA raz na kwartał.
+Samoopieka jest systemem, a nie jednorazowym działaniem. Jej skuteczność zależy od regularności, nie intensywności - lepszy codzienny 20-minutowy spacer niż intensywny weekend SPA raz na kwartał.
 
 ### Wyznaczanie granic zawodowych
 
@@ -91,13 +91,13 @@ Wsparcie ze strony przełożonego i kolegów jest silnym zasobem buforującym wy
 - dostępność w momentach kryzysu
 - docenianie pracy i konstruktywny feedback
 
-Programy **grup Balinta** — spotkań, w których pracownicy ochrony zdrowia dzielą się trudnymi przypadkami i wspólnie je przetwarzają — są klasycznym przykładem instytucjonalizacji wsparcia społecznego w miejscu pracy.
+Programy **grup Balinta** - spotkań, w których pracownicy ochrony zdrowia dzielą się trudnymi przypadkami i wspólnie je przetwarzają - są klasycznym przykładem instytucjonalizacji wsparcia społecznego w miejscu pracy.
 
 ### Dostęp do wsparcia psychologicznego
 
 Organizacje powinny zapewniać pracownikom dostęp do profesjonalnego wsparcia psychologicznego:
 
-- **EAP (Employee Assistance Program)** — programy pomocy pracownikom oferujące krótkoterminowe doradztwo psychologiczne
+- **EAP (Employee Assistance Program)** - programy pomocy pracownikom oferujące krótkoterminowe doradztwo psychologiczne
 - psycholog zakładowy dostępny i neutralny (nieidentyfikowany z zarządem)
 - regularne badania przesiewowe dobrostanu psychicznego
 - destigmatyzacja korzystania z pomocy psychologicznej w komunikacji wewnętrznej
@@ -128,7 +128,7 @@ Mazowieckie Centrum Psychiatrii opracowało i wdrożyło w 2021 roku kompleksowy
 
 1. Cykl szkoleń z zakresu rozpoznawania wczesnych objawów wypalenia.
 2. Regularne grupy wsparcia prowadzone przez psychologa (co dwa tygodnie, dobrowolne).
-3. Reorganizację harmonogramów — zniesienie dyżurów 24-godzinnych.
+3. Reorganizację harmonogramów - zniesienie dyżurów 24-godzinnych.
 4. Dostęp do 6 sesji psychologicznych rocznie (w ramach EAP).
 5. Szkolenie kadry kierowniczej z rozpoznawania wypalenia u podwładnych.
 
@@ -136,7 +136,7 @@ Ewaluacja po 12 miesiącach wykazała 18-procentową redukcję wypalenia emocjon
 
 ## Podsumowanie
 
-Profilaktyka wypalenia zawodowego jest inwestycją — w zdrowie pracowników, jakość usług i długoterminową efektywność organizacji. Skuteczne działania wymagają jednoczesnej pracy na poziomie indywidualnym (samoopieka, granice, superwizja), organizacyjnym (zarządzanie obciążeniem, autonomia, wsparcie) i systemowym (polityki publiczne, edukacja zawodowa). Nie istnieje jedno panaceum — dopiero spójna kombinacja tych elementów tworzy środowisko, w którym wypalenie traci grunt pod nogami.
+Profilaktyka wypalenia zawodowego jest inwestycją - w zdrowie pracowników, jakość usług i długoterminową efektywność organizacji. Skuteczne działania wymagają jednoczesnej pracy na poziomie indywidualnym (samoopieka, granice, superwizja), organizacyjnym (zarządzanie obciążeniem, autonomia, wsparcie) i systemowym (polityki publiczne, edukacja zawodowa). Nie istnieje jedno panaceum - dopiero spójna kombinacja tych elementów tworzy środowisko, w którym wypalenie traci grunt pod nogami.
 
 
 ## Wprowadzenie

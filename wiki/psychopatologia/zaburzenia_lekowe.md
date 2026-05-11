@@ -10,7 +10,7 @@ Klasyfikacja, kryteria diagnostyczne i charakterystyka kliniczna zaburzeń lęko
 
 ## Lęk jako konstrukt kliniczny
 
-*Lęk* to wielowymiarowa odpowiedź na antycypowane zagrożenie — obejmuje komponent subiektywny (poczucie zagrożenia), fizjologiczny (pobudzenie autonomiczne: tachykardia, potliwość, napięcie mięśniowe) i behawioralny (unikanie, zamrożenie). Zaburzenia lękowe powstają, gdy lęk jest nieproporcjonalny do obiektywnego zagrożenia lub znacząco zaburza funkcjonowanie.
+*Lęk* to wielowymiarowa odpowiedź na antycypowane zagrożenie - obejmuje komponent subiektywny (poczucie zagrożenia), fizjologiczny (pobudzenie autonomiczne: tachykardia, potliwość, napięcie mięśniowe) i behawioralny (unikanie, zamrożenie). Zaburzenia lękowe powstają, gdy lęk jest nieproporcjonalny do obiektywnego zagrożenia lub znacząco zaburza funkcjonowanie.
 
 > DSM-5 wyróżnia **zaburzenia lękowe** (anxiety disorders) jako odrębną grupę od zaburzeń obsesyjno-kompulsywnych (OCD i pokrewne) i zaburzeń pourazowych (trauma- and stressor-related disorders), choć historycznie były łączone.
 
@@ -24,7 +24,7 @@ Przewlekłe, trudno kontrolowalne **zamartwianie się** dotyczące wielu sfer ż
 
 ## Fobie swoiste i agorafobia
 
-**Fobia swoista** — intensywny, irracjonalny strach przed konkretnym obiektem/sytuacją (pająki, krew, latanie, burza). **Agorafobia** — lęk przed miejscami, z których ucieczka byłaby trudna (tłumy, komunikacja publiczna, przestrzenie otwarte). Leczenie: ekspozycja in vivo, CBT.
+**Fobia swoista** - intensywny, irracjonalny strach przed konkretnym obiektem/sytuacją (pająki, krew, latanie, burza). **Agorafobia** - lęk przed miejscami, z których ucieczka byłaby trudna (tłumy, komunikacja publiczna, przestrzenie otwarte). Leczenie: ekspozycja in vivo, CBT.
 
 ## Fobia społeczna (zaburzenie lękowe społeczne)
 
@@ -32,7 +32,7 @@ Intensywny strach przed oceną negatywną w sytuacjach społecznych. Może być 
 
 ## OCD i zaburzenia pokrewne
 
-**Zaburzenie obsesyjno-kompulsywne** (OCD) — obsesje (natrętne myśli budzące dyskomfort) i kompulsje (rytuały redukujące lęk). DSM-5 wyodrębniło OCD z grupy zaburzeń lękowych. Skuteczne leczenie: ERP (ekspozycja z zapobieganiem rytuałom) + SSRI w wysokich dawkach.
+**Zaburzenie obsesyjno-kompulsywne** (OCD) - obsesje (natrętne myśli budzące dyskomfort) i kompulsje (rytuały redukujące lęk). DSM-5 wyodrębniło OCD z grupy zaburzeń lękowych. Skuteczne leczenie: ERP (ekspozycja z zapobieganiem rytuałom) + SSRI w wysokich dawkach.
 
 
 ## Wprowadzenie

@@ -22,9 +22,9 @@ Koncepcja *person-environment fit* (PE fit) zakłada, że efektywność i satysf
 ## Zawody wysokostymulacyjne
 
 Zawody wymagające działania pod presją, szybkich decyzji i tolerancji na stres wymagają:
-- **Niskiej reaktywności emocjonalnej** (RE) — spokój pod presją
-- **Wysokiej wytrzymałości** (WT) — efektywność w warunkach silnej stymulacji
-- **Wysokiej żwawości** (ŻW) — elastyczność reagowania
+- **Niskiej reaktywności emocjonalnej** (RE) - spokój pod presją
+- **Wysokiej wytrzymałości** (WT) - efektywność w warunkach silnej stymulacji
+- **Wysokiej żwawości** (ŻW) - elastyczność reagowania
 - Wysokiego **BAS** i niskiego **BIS** (Gray)
 
 Osoby z wysoką RE i niską WT w takich zawodach szybciej doświadczają stresu chronicznego i wypalenia.
@@ -32,8 +32,8 @@ Osoby z wysoką RE i niską WT w takich zawodach szybciej doświadczają stresu 
 ## Zawody niskostymulacyjne
 
 Praca badawcza, archiwalna czy twórcza (w ciszy) faworyzuje osoby z:
-- **Wysoką wrażliwością sensoryczną** (WS) — subtelność percepcji
-- **Wysoką perseweratywnością** (PE) — głęboka koncentracja
+- **Wysoką wrażliwością sensoryczną** (WS) - subtelność percepcji
+- **Wysoką perseweratywnością** (PE) - głęboka koncentracja
 - Introwersją (Eysenck)
 
 Ekstrawertycy mogą doświadczać nudy i poszukiwać dodatkowej stymulacji.
@@ -60,7 +60,7 @@ Strelau opisał relację między temperamentem a stylami radzenia sobie (*coping
 
 ### Regulacja stymulacji jako strategia
 
-Strelau podkreśla, że **dobra regulacja stymulacji** — zarządzanie ilością i intensywnością bodźców — jest kluczowa. Osoby z wysokim ZNS mogą celowo szukać środowisk bogatszych w stymulację; osoby z niskim ZNS — minimalizować bodźce i wybierać spokojne środowiska.
+Strelau podkreśla, że **dobra regulacja stymulacji** - zarządzanie ilością i intensywnością bodźców - jest kluczowa. Osoby z wysokim ZNS mogą celowo szukać środowisk bogatszych w stymulację; osoby z niskim ZNS - minimalizować bodźce i wybierać spokojne środowiska.
 
 ## RTT w selekcji pracowników
 
@@ -71,15 +71,15 @@ Strelau podkreśla, że **dobra regulacja stymulacji** — zarządzanie ilości�
 
 Profil pożądany zazwyczaj: niska–umiarkowana RE, wysoka WT, wysoka ŻW, umiarkowana AK.
 
-> Ważne: RTT mierzy temperament, nie kompetencje ani motywację — powinien być stosowany jako jeden z wielu wskaźników, nie jako jedyne kryterium selekcji.
+> Ważne: RTT mierzy temperament, nie kompetencje ani motywację - powinien być stosowany jako jeden z wielu wskaźników, nie jako jedyne kryterium selekcji.
 
 ## Implikacje dla coachingu kariery
 
 W coachingu kariery uwzględnienie temperamentu pozwala:
-1. **Ocenić dopasowanie** — czy aktualne środowisko pracy odpowiada ZNS klienta?
-2. **Identyfikować źródła stresu** — niedopasowanie stymulacyjne vs. interpersonalne
-3. **Planować zmiany** — zmiana zawodu, działu, roli lub stylu pracy
-4. **Opracować strategie regulacji** — jak modulować stymulację w aktualnym środowisku
+1. **Ocenić dopasowanie** - czy aktualne środowisko pracy odpowiada ZNS klienta?
+2. **Identyfikować źródła stresu** - niedopasowanie stymulacyjne vs. interpersonalne
+3. **Planować zmiany** - zmiana zawodu, działu, roli lub stylu pracy
+4. **Opracować strategie regulacji** - jak modulować stymulację w aktualnym środowisku
 
 ### Przykład coachingowy
 
@@ -92,7 +92,7 @@ Osoba z wysoką RE i niską WT pracująca w call center (wysoka stymulacja, niep
 - Holland, J. L. (1997). *Making Vocational Choices* (3rd ed.). Psychological Assessment Resources.
 - Strelau, J., Jaworska, A., Zawadzki, B., & Szczepaniak, P. (2005). *Kwestionariusz Radzenia Sobie w Sytuacjach Stresowych (CISS)*. Pracownia Testów Psychologicznych PTP.
 - Kristof-Brown, A. L., Zimmerman, R. D., & Johnson, E. C. (2005). Consequences of individuals' fit at work. *Personnel Psychology, 58*(2), 281–342.
-- Zawadzki, B., & Strelau, J. (1997). *Formalna Charakterystyka Zachowania — Kwestionariusz Temperamentu*. Pracownia Testów Psychologicznych PTP.
+- Zawadzki, B., & Strelau, J. (1997). *Formalna Charakterystyka Zachowania - Kwestionariusz Temperamentu*. Pracownia Testów Psychologicznych PTP.
 
 
 ## Wprowadzenie

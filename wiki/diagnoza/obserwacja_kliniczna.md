@@ -10,9 +10,9 @@ evidenceCutoffDate: 2025-12-31
 
 Obserwacja kliniczna to **systematyczne, zamierzone i udokumentowane zbieranie informacji o zachowaniu, wyglądzie i funkcjonowaniu osoby badanej** w trakcie bezpośredniego kontaktu z psychologiem. Jest jedną z podstawowych metod diagnostycznych, uzupełniającą dane uzyskane wywiadem i testami psychometrycznymi.
 
-> „To, co widzi doświadczony klinicysta w ciągu pierwszych minut kontaktu, często zawiera więcej diagnostycznych wskazówek niż godzina testowania." — Othmer & Othmer (2002)
+> „To, co widzi doświadczony klinicysta w ciągu pierwszych minut kontaktu, często zawiera więcej diagnostycznych wskazówek niż godzina testowania." - Othmer & Othmer (2002)
 
-Obserwacja nie polega na subiektywnym „wrażeniu" — wymaga systematyczności, wiedzy klinicznej i oddzielenia faktów od interpretacji.
+Obserwacja nie polega na subiektywnym „wrażeniu" - wymaga systematyczności, wiedzy klinicznej i oddzielenia faktów od interpretacji.
 
 ---
 
@@ -28,10 +28,10 @@ Obserwacja nie polega na subiektywnym „wrażeniu" — wymaga systematyczności
 
 ### Według kontekstu
 
-- **Obserwacja w gabinecie** — warunki naturalne spotkania diagnostycznego
-- **Obserwacja w naturalnym środowisku** — dom, szkoła, miejsce pracy
-- **Obserwacja analogowa** — specjalnie zaaranżowana sytuacja (np. zadanie problemowe w laboratorium)
-- **Obserwacja uczestnicząca** — psycholog jest obecny w środowisku klienta (np. na oddziale psychiatrycznym)
+- **Obserwacja w gabinecie** - warunki naturalne spotkania diagnostycznego
+- **Obserwacja w naturalnym środowisku** - dom, szkoła, miejsce pracy
+- **Obserwacja analogowa** - specjalnie zaaranżowana sytuacja (np. zadanie problemowe w laboratorium)
+- **Obserwacja uczestnicząca** - psycholog jest obecny w środowisku klienta (np. na oddziale psychiatrycznym)
 
 ---
 
@@ -48,13 +48,13 @@ Obserwacja nie polega na subiektywnym „wrażeniu" — wymaga systematyczności
 - Aktywność psychomotoryczna: pobudzenie vs. spowolnienie
 - Tiki, stereotypie, manieryzmy
 - Koordynacja, równowaga, chód
-- Kontakt wzrokowy — jego ilość i jakość
+- Kontakt wzrokowy - jego ilość i jakość
 
 ### 3. Afekt i ekspresja emocjonalna
 
-- **Modulacja** — czy afekt jest adekwatny do treści rozmowy?
-- **Zakres** — czy pacjent wyraża różnorodne emocje, czy jest to zakres wąski?
-- **Płynność** — gwałtowne wahania vs. stałość
+- **Modulacja** - czy afekt jest adekwatny do treści rozmowy?
+- **Zakres** - czy pacjent wyraża różnorodne emocje, czy jest to zakres wąski?
+- **Płynność** - gwałtowne wahania vs. stałość
 - Dysocjacja między afektem a treścią wypowiedzi
 
 ### 4. Mowa i język (*Speech*)
@@ -66,7 +66,7 @@ Obserwacja nie polega na subiektywnym „wrażeniu" — wymaga systematyczności
 
 ### 5. Nastrój (*Mood*)
 
-Samoopis stanu emocjonalnego — nastrój jest tym, co pacjent *raportuje*, afekt — tym, co *obserwujemy*. Ważne rozróżnienie!
+Samoopis stanu emocjonalnego - nastrój jest tym, co pacjent *raportuje*, afekt - tym, co *obserwujemy*. Ważne rozróżnienie!
 
 ### 6. Myślenie
 
@@ -90,17 +90,17 @@ Samoopis stanu emocjonalnego — nastrój jest tym, co pacjent *raportuje*, afek
 
 ### Zasady prawidłowego zapisu
 
-1. **Oddzielaj obserwacje od interpretacji** — najpierw opisz fakty, następnie ewentualną interpretację
-2. **Używaj języka behawioralnego** — „pacjent unikał kontaktu wzrokowego i siedział z ramionami skrzyżowanymi" zamiast „pacjent był wrogi"
+1. **Oddzielaj obserwacje od interpretacji** - najpierw opisz fakty, następnie ewentualną interpretację
+2. **Używaj języka behawioralnego** - „pacjent unikał kontaktu wzrokowego i siedział z ramionami skrzyżowanymi" zamiast „pacjent był wrogi"
 3. **Datuj i sygnuj** każdą notatkę
 4. **Cytuj dosłownie** szczególnie diagnostycznie ważne wypowiedzi (w cudzysłowie)
 
 ### Narzędzia dokumentacyjne
 
-- **Formularz MSE** (Mental Status Examination) — standardowy kwestionariusz
-- **Karty obserwacyjne** — tabele kategorii z możliwością zaznaczania
-- **Nagranie wideo** — za zgodą pacjenta, nieocenione w badaniu dzieci
-- **Opisy narracyjne** — swobodny opis zdarzenia, uzupełniony kodowaniem
+- **Formularz MSE** (Mental Status Examination) - standardowy kwestionariusz
+- **Karty obserwacyjne** - tabele kategorii z możliwością zaznaczania
+- **Nagranie wideo** - za zgodą pacjenta, nieocenione w badaniu dzieci
+- **Opisy narracyjne** - swobodny opis zdarzenia, uzupełniony kodowaniem
 
 ---
 
@@ -112,7 +112,7 @@ Samoopis stanu emocjonalnego — nastrój jest tym, co pacjent *raportuje*, afek
 |---|---|
 | Efekt halo | Pierwsze wrażenie zabarwia wszystkie kolejne oceny |
 | Błąd łagodności | Tendencja do oceniania wyżej niż na to wskazują dane |
-| Konfundacja ról | Obserwator jest jednocześnie terapeutą — wpływa na zachowanie |
+| Konfundacja ról | Obserwator jest jednocześnie terapeutą - wpływa na zachowanie |
 | Reaktywność | Osoba badana zmienia zachowanie pod wpływem obserwacji |
 
 ### Sposoby zwiększania rzetelności
@@ -132,7 +132,7 @@ Pacjent ma prawo wiedzieć, że jest obserwowany i jak notatki będą przechowyw
 
 ### Poufność
 
-Dokumentacja obserwacyjna podlega tym samym regułom poufności co cała dokumentacja diagnostyczna — dostęp wyłącznie dla upoważnionych pracowników.
+Dokumentacja obserwacyjna podlega tym samym regułom poufności co cała dokumentacja diagnostyczna - dostęp wyłącznie dla upoważnionych pracowników.
 
 ### Ryzyko etykietowania
 
@@ -140,24 +140,24 @@ Obserwator powinien być świadomy własnych uprzedzeń kulturowych, klasowych i
 
 ---
 
-## Obserwacja dzieci — specyfika
+## Obserwacja dzieci - specyfika
 
 U dzieci obserwacja często dostarcza istotniejszych danych niż wywiad (szczególnie przed 7. rokiem życia). Kluczowe obszary:
 
-- Zabawa swobodna i kierowana — jakość, wyobraźnia, kontakt z dorosłym
+- Zabawa swobodna i kierowana - jakość, wyobraźnia, kontakt z dorosłym
 - Przywiązanie: reakcja na rozstanie z opiekunem i ponowne spotkanie
 - Regulacja emocjonalna: frustracja, oczekiwanie, nagroda
 - Mowa i interakcja rówieśnicza
 
 ### ADOS-2 jako ustrukturyzowana obserwacja
 
-*Autism Diagnostic Observation Schedule* (Lord i in.) to złoty standard w diagnostyce ASD — standaryzowana seria zadań wywołujących naturalne zachowania społeczne i komunikacyjne, ocenianych na podstawie obserwacji przez dwie osoby.
+*Autism Diagnostic Observation Schedule* (Lord i in.) to złoty standard w diagnostyce ASD - standaryzowana seria zadań wywołujących naturalne zachowania społeczne i komunikacyjne, ocenianych na podstawie obserwacji przez dwie osoby.
 
 ---
 
 ## Podsumowanie
 
-Obserwacja kliniczna jest niezbędnym elementem całościowej diagnozy psychologicznej. Jej siła tkwi w bezpośredniości i naturalistyczności danych — umożliwia uchwycenie wzorców zachowania, których pacjent sam może nie być świadomy lub których nie potrafi opisać słowami. Jednocześnie wymaga dyscypliny metodologicznej, świadomości własnych uprzedzeń i etycznej wrażliwości diagnosty.
+Obserwacja kliniczna jest niezbędnym elementem całościowej diagnozy psychologicznej. Jej siła tkwi w bezpośredniości i naturalistyczności danych - umożliwia uchwycenie wzorców zachowania, których pacjent sam może nie być świadomy lub których nie potrafi opisać słowami. Jednocześnie wymaga dyscypliny metodologicznej, świadomości własnych uprzedzeń i etycznej wrażliwości diagnosty.
 
 ---
 

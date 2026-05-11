@@ -8,7 +8,7 @@ evidenceCutoffDate: 2025-12-31
 
 ## Specyfika postępowań rodzinnych
 
-Sprawy rodzinne i opiekuńcze stanowią jeden z najczęstszych i emocjonalnie najtrudniejszych obszarów pracy biegłego psychologa sądowego. W centrum tych postępowań jest dobro dziecka — naczelna zasada polskiego i europejskiego prawa rodzinnego. Zadaniem biegłego jest dostarczenie sądowi obiektywnych danych psychologicznych umożliwiających podejmowanie decyzji zgodnych z tym dobrem.
+Sprawy rodzinne i opiekuńcze stanowią jeden z najczęstszych i emocjonalnie najtrudniejszych obszarów pracy biegłego psychologa sądowego. W centrum tych postępowań jest dobro dziecka - naczelna zasada polskiego i europejskiego prawa rodzinnego. Zadaniem biegłego jest dostarczenie sądowi obiektywnych danych psychologicznych umożliwiających podejmowanie decyzji zgodnych z tym dobrem.
 
 Sprawy rodzinne, w których biegły psycholog wydaje opinię, obejmują:
 - Ustalenie miejsca pobytu dziecka po rozstaniu rodziców
@@ -18,7 +18,7 @@ Sprawy rodzinne, w których biegły psycholog wydaje opinię, obejmują:
 - Umieszczenie dziecka w pieczy zastępczej lub placówce
 - Sprawy o tzw. alienację rodzicielską
 
-> **Fakt:** Sądy polskie kierują do biegłych rocznie kilkanaście tysięcy zleceń opinii psychologicznych w sprawach rodzinnych — czyniąc to jednym z najbardziej obciążonych obszarów pracy psychologów sądowych.
+> **Fakt:** Sądy polskie kierują do biegłych rocznie kilkanaście tysięcy zleceń opinii psychologicznych w sprawach rodzinnych - czyniąc to jednym z najbardziej obciążonych obszarów pracy psychologów sądowych.
 
 ## Ocena kompetencji rodzicielskich
 
@@ -39,7 +39,7 @@ W przypadku małych dzieci (do 3 lat) stosuje się procedury wzorowane na Ainswo
 
 ## Alienacja rodzicielska
 
-Alienacja rodzicielska (*parental alienation*, PA) to zjawisko, w którym jedno z rodziców — zazwyczaj ten, z którym dziecko mieszka — systematycznie podważa relację dziecka z drugim rodzicem: negatywnie o nim mówi, ogranicza kontakty, indukuje lęk lub wrogość wobec drugiego rodzica.
+Alienacja rodzicielska (*parental alienation*, PA) to zjawisko, w którym jedno z rodziców - zazwyczaj ten, z którym dziecko mieszka - systematycznie podważa relację dziecka z drugim rodzicem: negatywnie o nim mówi, ogranicza kontakty, indukuje lęk lub wrogość wobec drugiego rodzica.
 
 W Polsce sądy coraz częściej zlecają ocenę pod kątem alienacji rodzicielskiej. Biegły musi odróżnić prawdziwą alienację (inducowaną przez rodzica) od uzasadnionego dystansu dziecka wynikającego z traumatycznych doświadczeń z danym rodzicem. Błędne zdiagnozowanie alienacji tam, gdzie dziecko faktycznie doświadczyło przemocy, może narazić je na dalsze krzywdzenie.
 
@@ -51,7 +51,7 @@ Badanie dziecka w sprawach rodzinnych jest delikatną procedurą wymagającą sp
 - Koncepcję "dobrego dziecka" (chęć mówienia tego, czego oczekuje dorosły)
 - Możliwość indukowania wspomnień przez rodziców lub innych dorosłych
 
-Badanie nigdy nie powinno koncentrować się na wymuszeniu od dziecka deklaracji, z którym rodzicem chce mieszkać — to zadanie zbyt dużym obciążeniem emocjonalnym i procesowym dla dziecka.
+Badanie nigdy nie powinno koncentrować się na wymuszeniu od dziecka deklaracji, z którym rodzicem chce mieszkać - to zadanie zbyt dużym obciążeniem emocjonalnym i procesowym dla dziecka.
 
 ## Ochrona dziecka przed przemocą i zaniedbaniem
 
@@ -61,7 +61,7 @@ Gdy postępowanie dotyczy krzywdzenia dziecka, biegły ocenia:
 - Ryzyko dalszego krzywdzenia przy określonych formach sprawowania opieki
 - Zasoby i ograniczenia każdego z opiekunów
 
-Szczególną ostrożność wymagają sprawy, w których oskarżenia o przemoc pojawiają się w toku konfliktu rozwodowego — biegły musi odróżnić manipulację proceduralną od autentycznego dziecięcego cierpienia.
+Szczególną ostrożność wymagają sprawy, w których oskarżenia o przemoc pojawiają się w toku konfliktu rozwodowego - biegły musi odróżnić manipulację proceduralną od autentycznego dziecięcego cierpienia.
 
 ## Standardy etyczne i ograniczenia
 
@@ -73,7 +73,7 @@ Opiniowanie rodzinne jest jednym z najbardziej etycznie obciążonych obszarów 
 
 ## Podsumowanie
 
-Opiniowanie w sprawach rodzinnych łączy kompetencje kliniczne (diagnoza zaburzeń, ocena relacji przywiązania), wychowawcze (rozumienie potrzeb dzieci w różnych fazach rozwoju) i etyczne (bezstronność wobec skonfliktowanych stron). Rzetelna opinia w tych sprawach może zadecydować o całym życiu dziecka — i wymaga od biegłego najwyższego poziomu profesjonalizmu oraz pokory wobec złożoności ludzkiego życia rodzinnego.
+Opiniowanie w sprawach rodzinnych łączy kompetencje kliniczne (diagnoza zaburzeń, ocena relacji przywiązania), wychowawcze (rozumienie potrzeb dzieci w różnych fazach rozwoju) i etyczne (bezstronność wobec skonfliktowanych stron). Rzetelna opinia w tych sprawach może zadecydować o całym życiu dziecka - i wymaga od biegłego najwyższego poziomu profesjonalizmu oraz pokory wobec złożoności ludzkiego życia rodzinnego.
 
 
 ## Wprowadzenie

@@ -6,7 +6,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Rehabilitacja psychologiczna
 
-**Rehabilitacja psychologiczna** w kontekście niepełnosprawności to kompleksowy, zindywidualizowany proces wspierania osoby w odzyskaniu lub rozwijaniu sprawności funkcjonalnej, autonomii i uczestnictwa społecznego — z uwzględnieniem jej ograniczeń wynikających z uszkodzenia lub choroby.
+**Rehabilitacja psychologiczna** w kontekście niepełnosprawności to kompleksowy, zindywidualizowany proces wspierania osoby w odzyskaniu lub rozwijaniu sprawności funkcjonalnej, autonomii i uczestnictwa społecznego - z uwzględnieniem jej ograniczeń wynikających z uszkodzenia lub choroby.
 
 ## Czym różni się od rehabilitacji medycznej?
 
@@ -31,7 +31,7 @@ Po uszkodzeniach mózgu (udar, TBI) kluczowe są:
 ### Rehabilitacja emocjonalna i tożsamościowa
 - Praca z żałobą po stracie sprawności.
 - Terapia lęku i depresji współwystępujących z niepełnosprawnością.
-- Przeformułowanie tożsamości — kim jestem poza niepełnosprawnością?
+- Przeformułowanie tożsamości - kim jestem poza niepełnosprawnością?
 
 ### Rehabilitacja społeczna
 - Trening umiejętności społecznych.
@@ -45,11 +45,11 @@ Po uszkodzeniach mózgu (udar, TBI) kluczowe są:
 
 ## Metody psychologiczne stosowane w rehabilitacji
 
-- **CBT** — praca z katastrofizacją bólu, lękiem, depresją.
-- **ACT** — akceptacja ograniczeń przy zachowaniu działania zgodnego z wartościami.
-- **Terapia narracyjna** — przepisanie historii życia z uwzględnieniem nowej rzeczywistości.
-- **Trening uważności (mindfulness)** — regulacja emocji i ból przewlekły.
-- **Biofeedback / neurofeedback** — wspomaganie rehabilitacji neurologicznej.
+- **CBT** - praca z katastrofizacją bólu, lękiem, depresją.
+- **ACT** - akceptacja ograniczeń przy zachowaniu działania zgodnego z wartościami.
+- **Terapia narracyjna** - przepisanie historii życia z uwzględnieniem nowej rzeczywistości.
+- **Trening uważności (mindfulness)** - regulacja emocji i ból przewlekły.
+- **Biofeedback / neurofeedback** - wspomaganie rehabilitacji neurologicznej.
 
 ## Fazy rehabilitacji psychologicznej
 
@@ -63,7 +63,7 @@ Po uszkodzeniach mózgu (udar, TBI) kluczowe są:
 
 ## Znaczenie interdyscyplinarności
 
-Rehabilitacja jest najskuteczniejsza w zespołach złożonych z: psychologa, fizjoterapeuty, neurologa, logopedy, pracownika socjalnego i terapeuty zajęciowego. Psycholog wnosi wiedzę o motywacji, emocjach i procesach uczenia się — niezbędną dla efektywności całego procesu.
+Rehabilitacja jest najskuteczniejsza w zespołach złożonych z: psychologa, fizjoterapeuty, neurologa, logopedy, pracownika socjalnego i terapeuty zajęciowego. Psycholog wnosi wiedzę o motywacji, emocjach i procesach uczenia się - niezbędną dla efektywności całego procesu.
 
 ## Przykład
 

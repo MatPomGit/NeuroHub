@@ -6,7 +6,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Zaburzenia odżywiania
 
-Anoreksja, bulimia, napadowe objadanie się i ARFID — kryteria DSM-5, etiopatogeneza i leczenie.
+Anoreksja, bulimia, napadowe objadanie się i ARFID - kryteria DSM-5, etiopatogeneza i leczenie.
 
 ## Spektrum zaburzeń odżywiania
 
@@ -14,9 +14,9 @@ Zaburzenia odżywiania (*eating disorders*) obejmują szerokie spektrum problem�
 
 ## Jadłowstręt psychiczny (anoreksja, AN)
 
-**Anorexia nervosa** — restrykcja spożycia kalorii prowadząca do znacząco niskiej masy ciała (BMI < 17,5 lub poniżej 5. centyla u dzieci), silny lęk przed przytyciem i zaburzony obraz ciała (*body image distortion*). Typ restrykcyjny vs. typ z napadami objadania/przeczyszczaniem.
+**Anorexia nervosa** - restrykcja spożycia kalorii prowadząca do znacząco niskiej masy ciała (BMI < 17,5 lub poniżej 5. centyla u dzieci), silny lęk przed przytyciem i zaburzony obraz ciała (*body image distortion*). Typ restrykcyjny vs. typ z napadami objadania/przeczyszczaniem.
 
-> Anoreksja ma **najwyższą śmiertelność** spośród wszystkich zaburzeń psychicznych (~5–6% na dekadę) — zarówno z powikłań somatycznych (kacheksja, arytmie, osteoporoza), jak i samobójstwa.
+> Anoreksja ma **najwyższą śmiertelność** spośród wszystkich zaburzeń psychicznych (~5–6% na dekadę) - zarówno z powikłań somatycznych (kacheksja, arytmie, osteoporoza), jak i samobójstwa.
 
 ## Bulimia psychiczna (BN)
 
@@ -24,11 +24,11 @@ Powtarzające się **epizody napadowego objadania** (zjedzenie dużej ilości je
 
 ## Napadowe objadanie się (BED)
 
-**Binge Eating Disorder** — epizody napadowego objadania bez regularnych zachowań kompensacyjnych, z poczuciem wstydu i utratą kontroli. Najczęstsze zaburzenie odżywiania w populacji ogólnej; często współwystępuje z otyłością i depresją.
+**Binge Eating Disorder** - epizody napadowego objadania bez regularnych zachowań kompensacyjnych, z poczuciem wstydu i utratą kontroli. Najczęstsze zaburzenie odżywiania w populacji ogólnej; często współwystępuje z otyłością i depresją.
 
 ## ARFID
 
-**Avoidant/Restrictive Food Intake Disorder** — unikanie pokarmów z powodu sensorycznej wrażliwości (tekstura, zapach), lęku przed zakrztuszeniem/wymiotami lub braku zainteresowania jedzeniem. Bez zaburzeń obrazu ciała. Często u dzieci i przy ASD/ADHD.
+**Avoidant/Restrictive Food Intake Disorder** - unikanie pokarmów z powodu sensorycznej wrażliwości (tekstura, zapach), lęku przed zakrztuszeniem/wymiotami lub braku zainteresowania jedzeniem. Bez zaburzeń obrazu ciała. Często u dzieci i przy ASD/ADHD.
 
 ## Leczenie
 

@@ -6,7 +6,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Biologiczne podłoże temperamentu
 
-Temperament ma silne biologiczne uwarunkowania — genetyczne, neurobiologiczne i neuroendokrynne. Zrozumienie tych podstaw pozwala na precyzyjniejsze modele różnic indywidualnych.
+Temperament ma silne biologiczne uwarunkowania - genetyczne, neurobiologiczne i neuroendokrynne. Zrozumienie tych podstaw pozwala na precyzyjniejsze modele różnic indywidualnych.
 
 ## Genetyka temperamentu
 
@@ -24,13 +24,13 @@ h² ≈ 0.4–0.6 oznacza, że ok. 40–60% wariancji cech temperamentalnych jes
 
 ### Poligeniczność temperamentu
 
-Temperament nie jest wyznaczany przez pojedynczy gen — to cecha **poligeniczna**. Badania GWAS (genome-wide association studies) identyfikują dziesiątki do setek loci genetycznych z małymi efektami. Duże nadzieje wiązano z genem transportera serotoniny (5-HTTLPR) i receptorami dopaminergicznymi (DRD4), ale efekty okazały się małe i trudne do replikacji.
+Temperament nie jest wyznaczany przez pojedynczy gen - to cecha **poligeniczna**. Badania GWAS (genome-wide association studies) identyfikują dziesiątki do setek loci genetycznych z małymi efektami. Duże nadzieje wiązano z genem transportera serotoniny (5-HTTLPR) i receptorami dopaminergicznymi (DRD4), ale efekty okazały się małe i trudne do replikacji.
 
 ## Neurobiologia temperamentu
 
 ### ARAS i pobudzenie korowe
 
-*Wstępujący układ siatkowaty aktywujący* (ARAS) reguluje ogólny poziom pobudzenia kory mózgowej. Eysenck powiązał chroniczne pobudzenie ARAS z introwersją/ekstrawersją. Introwertycy mieliby wyższe bazowe pobudzenie ARAS i unikać nadmiaru stymulacji, ekstrawertycy — poszukiwać jej.
+*Wstępujący układ siatkowaty aktywujący* (ARAS) reguluje ogólny poziom pobudzenia kory mózgowej. Eysenck powiązał chroniczne pobudzenie ARAS z introwersją/ekstrawersją. Introwertycy mieliby wyższe bazowe pobudzenie ARAS i unikać nadmiaru stymulacji, ekstrawertycy - poszukiwać jej.
 
 ### Układ limbiczny i reaktywność emocjonalna
 

@@ -6,11 +6,11 @@ evidenceCutoffDate: 2025-12-31
 
 # Narzędzia kliniczne: PHQ-9, GAD-7, PCL-5
 
-Kwestionariusze przesiewowe i diagnostyczne stanowią nieodłączny element praktyki klinicznej. **PHQ-9**, **GAD-7** i **PCL-5** to trzy spośród najszerzej stosowanych, naukowo zwalidowanych narzędzi samooceny, służących odpowiednio do oceny nasilenia depresji, lęku uogólnionego i objawów PTSD. Łączą wysoką czułość i swoistość z krótkim czasem wypełnienia — co czyni je narzędziami możliwymi do zastosowania rutynowo w każdym kontakcie klinicznym.
+Kwestionariusze przesiewowe i diagnostyczne stanowią nieodłączny element praktyki klinicznej. **PHQ-9**, **GAD-7** i **PCL-5** to trzy spośród najszerzej stosowanych, naukowo zwalidowanych narzędzi samooceny, służących odpowiednio do oceny nasilenia depresji, lęku uogólnionego i objawów PTSD. Łączą wysoką czułość i swoistość z krótkim czasem wypełnienia - co czyni je narzędziami możliwymi do zastosowania rutynowo w każdym kontakcie klinicznym.
 
 ---
 
-## PHQ-9 — Kwestionariusz Zdrowia Pacjenta
+## PHQ-9 - Kwestionariusz Zdrowia Pacjenta
 
 ### Charakterystyka
 
@@ -26,7 +26,7 @@ Kwestionariusze przesiewowe i diagnostyczne stanowią nieodłączny element prak
 | 15–19 | Umiarkowanie ciężka | Intensywna farmakoterapia i/lub psychoterapia |
 | 20–27 | Ciężka depresja | Natychmiastowe leczenie, ocena ryzyka suicydalnego |
 
-> **Pytanie 9** PHQ-9 pyta bezpośrednio o myśli samobójcze lub o skrzywdzenie siebie — zawsze wymaga indywidualnej oceny klinicznej, niezależnie od łącznego wyniku.
+> **Pytanie 9** PHQ-9 pyta bezpośrednio o myśli samobójcze lub o skrzywdzenie siebie - zawsze wymaga indywidualnej oceny klinicznej, niezależnie od łącznego wyniku.
 
 ### Właściwości psychometryczne
 
@@ -43,11 +43,11 @@ Polska wersja PHQ-9 została zwalidowana przez **Marta Makara-Studzińska i wsp�
 
 ---
 
-## GAD-7 — Skala Uogólnionego Lęku
+## GAD-7 - Skala Uogólnionego Lęku
 
 ### Charakterystyka
 
-**Generalized Anxiety Disorder 7-item Scale (GAD-7)** opracowali **Robert Spitzer, Kurt Kroenke, Janet Williams i Bernd Löwe** (2006). Narzędzie zawiera 7 pytań odpowiadających kryteriom DSM-IV dla zaburzenia lękowego uogólnionego, ocenianych na tej samej 4-stopniowej skali (0–3) jak PHQ-9 — za ostatnie dwa tygodnie.
+**Generalized Anxiety Disorder 7-item Scale (GAD-7)** opracowali **Robert Spitzer, Kurt Kroenke, Janet Williams i Bernd Löwe** (2006). Narzędzie zawiera 7 pytań odpowiadających kryteriom DSM-IV dla zaburzenia lękowego uogólnionego, ocenianych na tej samej 4-stopniowej skali (0–3) jak PHQ-9 - za ostatnie dwa tygodnie.
 
 ### Punktacja i interpretacja
 
@@ -67,7 +67,7 @@ Punkt odcięcia **≥ 10** jest najczęściej stosowany w badaniach przesiewowyc
 - **Rzetelność wewnętrzna**: α Cronbacha ≈ 0,92
 - **Zgodność z kliniczną diagnozą GAD**: AUC ≈ 0,91 (Spitzer i in., 2006)
 
-GAD-7 wykazuje również użyteczność jako narzędzie przesiewowe dla innych zaburzeń lękowych: fobii społecznej, zespołu lęku napadowego i PTSD — aczkolwiek z niższą swoistością niż dla GAD.
+GAD-7 wykazuje również użyteczność jako narzędzie przesiewowe dla innych zaburzeń lękowych: fobii społecznej, zespołu lęku napadowego i PTSD - aczkolwiek z niższą swoistością niż dla GAD.
 
 ### Zastosowanie kliniczne
 
@@ -75,7 +75,7 @@ GAD-7 jest rekomendowany przez **NICE** (National Institute for Health and Care 
 
 ---
 
-## PCL-5 — Lista Kontrolna PTSD (wersja DSM-5)
+## PCL-5 - Lista Kontrolna PTSD (wersja DSM-5)
 
 ### Charakterystyka
 
@@ -87,10 +87,10 @@ PCL-5 mierzy cztery skupienia objawów PTSD zgodnie z DSM-5:
 
 | Skupienie | Kryteria DSM-5 | Pozycje PCL-5 | Objawy |
 |---|---|---|---|
-| B — Intruzja | Kryterium B | 1–5 | Wspomnienia natrętne, sny, flashbacki, dystres, reaktywność |
-| C — Unikanie | Kryterium C | 6–7 | Unikanie wspomnień, sytuacji |
-| D — Negatywne zmiany w myśleniu i nastroju | Kryterium D | 8–14 | Amnezja, negatywne przekonania, obwinianie, emocje negatywne, zainteresowania, alienacja, anhedonia |
-| E — Pobudzenie i reaktywność | Kryterium E | 15–20 | Drażliwość, ryzykowne zachowania, czujność, przestrach, koncentracja, sen |
+| B - Intruzja | Kryterium B | 1–5 | Wspomnienia natrętne, sny, flashbacki, dystres, reaktywność |
+| C - Unikanie | Kryterium C | 6–7 | Unikanie wspomnień, sytuacji |
+| D - Negatywne zmiany w myśleniu i nastroju | Kryterium D | 8–14 | Amnezja, negatywne przekonania, obwinianie, emocje negatywne, zainteresowania, alienacja, anhedonia |
+| E - Pobudzenie i reaktywność | Kryterium E | 15–20 | Drażliwość, ryzykowne zachowania, czujność, przestrach, koncentracja, sen |
 
 ### Interpretacja wyników
 
@@ -98,7 +98,7 @@ PCL-5 mierzy cztery skupienia objawów PTSD zgodnie z DSM-5:
 - **Punkt odcięcia dla przesiewu**: ≥ **31–33** punktów (zależy od populacji i celu)
 - **Punkt odcięcia dla badań klinicznych**: ≥ **38** jest bardziej konserwatywny
 
-> Diagnoza PTSD wymaga spełnienia kryteriów DSM-5 w każdym skupieniu — PCL-5 nie zastępuje wywiadu klinicznego ani CAPS-5 (*Clinician-Administered PTSD Scale*).
+> Diagnoza PTSD wymaga spełnienia kryteriów DSM-5 w każdym skupieniu - PCL-5 nie zastępuje wywiadu klinicznego ani CAPS-5 (*Clinician-Administered PTSD Scale*).
 
 ### Właściwości psychometryczne
 
@@ -128,7 +128,7 @@ PCL-5 mierzy cztery skupienia objawów PTSD zgodnie z DSM-5:
 
 ## Polska normalizacja i adaptacja
 
-- **PHQ-9**: Makara-Studzińska i wsp. (2011) — populacja ogólna i kliniczna; wykazano równoważność pomiarową z oryginałem.
+- **PHQ-9**: Makara-Studzińska i wsp. (2011) - populacja ogólna i kliniczna; wykazano równoważność pomiarową z oryginałem.
 - **GAD-7**: wersja polska dostępna w ramach tłumaczenia zatwierdzonego przez autorów; brak opublikowanych polskich norm populacyjnych w dużych próbach na rok 2024.
 - **PCL-5**: Polskie tłumaczenie dostępne przez National Center for PTSD (VA); prace walidacyjne przeprowadziły zespoły **Piotra Ilnickiego** oraz grupy badawcze w Wojskowym Instytucie Medycznym. Dane normatywne dla weteranów i populacji cywilnej są ograniczone i wymagają dalszych badań.
 
@@ -140,7 +140,7 @@ PCL-5 mierzy cztery skupienia objawów PTSD zgodnie z DSM-5:
 
 1. **Nie zastępują diagnozy**: wyniki przesiewowe kierują uwagę klinicysty, ale wymagają weryfikacji w wywiadzie klinicznym.
 2. **Monitorowanie przebiegu leczenia**: regularne pomiary (np. co 2–4 tygodnie) umożliwiają ilościową ocenę odpowiedzi na leczenie.
-3. **Wielokrotne stosowanie**: adaptacja do kolejnych wypełnień — pacjenci mogą uczyć się „odpowiadać lepiej"; ważna jest normalizacja szczerości.
+3. **Wielokrotne stosowanie**: adaptacja do kolejnych wypełnień - pacjenci mogą uczyć się „odpowiadać lepiej"; ważna jest normalizacja szczerości.
 4. **Interpretacja w kontekście**: wynik nie zastępuje relacji terapeutycznej ani oceny ryzyka.
 5. **Dokumentacja**: integracja wyników z dokumentacją kliniczną wspiera ciągłość leczenia i komunikację między specjalistami.
 
@@ -152,7 +152,7 @@ W modelu *Routine Outcome Monitoring* (np. IAPT w Wielkiej Brytanii, PCOMS w USA
 
 ## Podsumowanie
 
-PHQ-9, GAD-7 i PCL-5 tworzą zwarte, komplementarne narzędzie przesiewowe dla trzech najczęstszych kategorii zaburzeń psychicznych: depresji, lęku i PTSD. Ich mocne strony — krótki czas wypełnienia, wysokie właściwości psychometryczne, bezpłatna dostępność i bezpośrednie powiązanie z kryteriami DSM-5 — sprawiają, że są niezastąpione zarówno w rutynowej praktyce klinicznej, jak i w badaniach naukowych. Polska adaptacja narzędzi jest dostępna, choć dane normatywne dla populacji polskiej wymagają dalszego rozwoju.
+PHQ-9, GAD-7 i PCL-5 tworzą zwarte, komplementarne narzędzie przesiewowe dla trzech najczęstszych kategorii zaburzeń psychicznych: depresji, lęku i PTSD. Ich mocne strony - krótki czas wypełnienia, wysokie właściwości psychometryczne, bezpłatna dostępność i bezpośrednie powiązanie z kryteriami DSM-5 - sprawiają, że są niezastąpione zarówno w rutynowej praktyce klinicznej, jak i w badaniach naukowych. Polska adaptacja narzędzi jest dostępna, choć dane normatywne dla populacji polskiej wymagają dalszego rozwoju.
 
 ---
 
@@ -162,7 +162,7 @@ Wpisy bibliograficzne zapisuj konsekwentnie w APA 7 oraz dodawaj DOI/URL i oznac
 
 - Blevins, C. A., Weathers, F. W., Davis, M. T., Witte, T. K., & Domino, J. L. (2015). The Posttraumatic Stress Disorder Checklist for DSM‑5 (PCL‑5): Development and initial psychometric evaluation. *Journal of Traumatic Stress, 28*(6), 489–498.
 - Kroenke, K., Spitzer, R. L., & Williams, J. B. W. (2001). The PHQ‑9: Validity of a brief depression severity measure. *Journal of General Internal Medicine, 16*(9), 606–613.
-- Makara-Studzińska, M., Zinczuk-Zielazna, J., & Karakuła-Juchnowicz, H. (2011). Polska adaptacja PHQ-9 — właściwości psychometryczne. *Current Problems of Psychiatry, 12*(2), 196–202.
+- Makara-Studzińska, M., Zinczuk-Zielazna, J., & Karakuła-Juchnowicz, H. (2011). Polska adaptacja PHQ-9 - właściwości psychometryczne. *Current Problems of Psychiatry, 12*(2), 196–202.
 - Spitzer, R. L., Kroenke, K., Williams, J. B. W., & Löwe, B. (2006). A brief measure for assessing generalized anxiety disorder. *Archives of Internal Medicine, 166*(10), 1092–1097.
 - Weathers, F. W., Litz, B. T., Keane, T. M., Palmieri, P. A., Marx, B. P., & Schnurr, P. P. (2013). *The PTSD Checklist for DSM-5 (PCL-5)*. National Center for PTSD. www.ptsd.va.gov
 - Löwe, B., Decker, O., Müller, S., Brähler, E., Schellberg, D., Herzog, W., & Herzberg, P. Y. (2008). Validation and standardization of the Generalized Anxiety Disorder Screener (GAD-7) in the general population. *Medical Care, 46*(3), 266–274.

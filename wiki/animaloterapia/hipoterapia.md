@@ -10,7 +10,7 @@ Hipoterapia (equine-assisted therapy, EAT) to forma terapii wspomaganej przez zw
 
 ## Historia i definicja
 
-Terapeutyczne korzyści z jazdy konnej były obserwowane już w starożytnej Grecji (Hipokrates opisywał poprawę samopoczucia u jeźdźców). Współczesna hipoterapia jako ustrukturyzowana interwencja medyczna rozwinęła się w Europie i USA w latach 60. XX wieku. Dziś obejmuje szeroki zakres praktyk od klasycznej hipoterapii ruchowej po psychoterapię wspomaganą przez konia (EAGALA — Equine Assisted Growth and Learning Association).
+Terapeutyczne korzyści z jazdy konnej były obserwowane już w starożytnej Grecji (Hipokrates opisywał poprawę samopoczucia u jeźdźców). Współczesna hipoterapia jako ustrukturyzowana interwencja medyczna rozwinęła się w Europie i USA w latach 60. XX wieku. Dziś obejmuje szeroki zakres praktyk od klasycznej hipoterapii ruchowej po psychoterapię wspomaganą przez konia (EAGALA - Equine Assisted Growth and Learning Association).
 
 Rozróżnienie terminologiczne:
 - **Hipoterapia (hippotherapy):** Fizjoterapeuta lub terapeuta zajęciowy używa ruchu konia jako narzędzia terapeutycznego; pacjent jest pasywnym odbiorcą ruchu (szczególnie przy deficytach motorycznych)
@@ -20,18 +20,18 @@ Rozróżnienie terminologiczne:
 ## Mechanizmy terapeutyczne
 
 ### Mechanizmy fizyczne
-Stępujący koń generuje rytmiczne, trójwymiarowe ruchy miednicy i kręgosłupa jeźdźca o częstotliwości ok. 100–110 ruchów/minutę — naśladujące ludzki chód lepiej niż większość urządzeń rehabilitacyjnych. Stymuluje to:
+Stępujący koń generuje rytmiczne, trójwymiarowe ruchy miednicy i kręgosłupa jeźdźca o częstotliwości ok. 100–110 ruchów/minutę - naśladujące ludzki chód lepiej niż większość urządzeń rehabilitacyjnych. Stymuluje to:
 - Propriocepcję i równowagę (ciągła aktywacja układów stabilizujących)
 - Napięcie mięśniowe tułowia (szczególnie mięśnie przykręgosłupowe)
 - Koordynację i symetrię ruchową
 - Czucie głębokie i integrację sensoryczną
 
-> **Dlaczego koń?** Miednicy konia w stępie odpowiada ludzkim ruchom chodu z niezwykłą dokładnością. Dla pacjentów niemogących chodzić hipoterapia daje doświadczenie wzorca ruchowego chodu — to może wspomagać reorganizację reprezentacji ruchowych w mózgu.
+> **Dlaczego koń?** Miednicy konia w stępie odpowiada ludzkim ruchom chodu z niezwykłą dokładnością. Dla pacjentów niemogących chodzić hipoterapia daje doświadczenie wzorca ruchowego chodu - to może wspomagać reorganizację reprezentacji ruchowych w mózgu.
 
 ### Mechanizmy psychologiczne
 - **Masywna stymulacja sensoryczna** (ciepło ciała konia, faktura sierści, rytmiczny ruch, zapach) działa regulująco na układ nerwowy
 - **Odpowiedzialność i sprawczość:** Praca z dużym zwierzęciem wymaga komunikacji i asertywnoeści; pacjent musi być wyraźny i konsekwentny
-- **Więź i zaufanie:** Koń reaguje na stan emocjonalny jeźdźca — jest "biofeedbackiem" emocji
+- **Więź i zaufanie:** Koń reaguje na stan emocjonalny jeźdźca - jest "biofeedbackiem" emocji
 - **Poczucie kompetencji:** Opanowanie jazdy konnej buduje pewność siebie
 
 ## Zastosowania kliniczne
@@ -41,7 +41,7 @@ Najbogatsza baza dowodów. Hipoterapia poprawia:
 - Kontrolę głowy i tułowia
 - Symetrię posturalną
 - Zakres ruchu w biodrach
-- Według niektórych badań — funkcjonalną mobilność i jakość chodu
+- Według niektórych badań - funkcjonalną mobilność i jakość chodu
 
 Przeglądy systematyczne (np. Zadnikar i Kastrin, 2011) potwierdzają znaczące efekty w zakresie równowagi i kontroli tułowia.
 

@@ -6,7 +6,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Podejście humanistyczne w psychoterapii
 
-Terapia skoncentrowana na kliencie, Gestalt i podejście egzystencjalne — nacisk na autonomię, autentyczność i wzrost.
+Terapia skoncentrowana na kliencie, Gestalt i podejście egzystencjalne - nacisk na autonomię, autentyczność i wzrost.
 
 ## Założenia humanistyczne
 
@@ -15,9 +15,9 @@ Terapia skoncentrowana na kliencie, Gestalt i podejście egzystencjalne — naci
 ## Terapia skoncentrowana na kliencie (Person-Centered Therapy)
 
 Carl Rogers (1951) zaproponował, że warunkiem wystarczającym zmiany terapeutycznej jest dostarczenie przez terapeutę trzech **warunków podstawowych**:
-- **Bezwarunkowe pozytywne traktowanie** (*unconditional positive regard*) — akceptacja pacjenta bez oceniania;
-- **Empatia** (*accurate empathic understanding*) — rozumienie subiektywnego świata pacjenta;
-- **Autentyczność/kongruencja** (*genuineness*) — terapeutyczna spójność między doświadczeniem a komunikacją.
+- **Bezwarunkowe pozytywne traktowanie** (*unconditional positive regard*) - akceptacja pacjenta bez oceniania;
+- **Empatia** (*accurate empathic understanding*) - rozumienie subiektywnego świata pacjenta;
+- **Autentyczność/kongruencja** (*genuineness*) - terapeutyczna spójność między doświadczeniem a komunikacją.
 
 > Badania wykazują, że sojusz terapeutyczny (oparty na koncepcji Rogersa) jest jednym z najsilniejszych predyktorów wyniku terapii niezależnie od modalności. Wkład Rogersa jest fundamentem dla wszystkich nurtów terapeutycznych.
 
@@ -27,7 +27,7 @@ Fritz Perls (1951) rozwinął terapię Gestalt, akcentując **świadomość chwi
 
 ## Terapia egzystencjalna i logoterapia
 
-Irvin Yalom (1980) opisał **cztery dane egzystencjalne**: śmierć, wolność, izolacja i bezsens. Terapia egzystencjalna pomaga pacjentom zmierzyć się z tymi kwestiami i znaleźć autentyczne odpowiedzi. **Logoterapia** Viktora Frankla — terapia przez sens, szczególnie użyteczna w obliczu cierpienia i traumy.
+Irvin Yalom (1980) opisał **cztery dane egzystencjalne**: śmierć, wolność, izolacja i bezsens. Terapia egzystencjalna pomaga pacjentom zmierzyć się z tymi kwestiami i znaleźć autentyczne odpowiedzi. **Logoterapia** Viktora Frankla - terapia przez sens, szczególnie użyteczna w obliczu cierpienia i traumy.
 
 ## Zastosowania kliniczne
 

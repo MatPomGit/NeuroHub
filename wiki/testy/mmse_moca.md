@@ -6,15 +6,15 @@ evidenceCutoffDate: 2025-12-31
 
 # Testy przesiewowe
 
-Szybkie narzędzia do wykrywania deficytów poznawczych — MMSE, MoCA, Mini-Cog i inne.
+Szybkie narzędzia do wykrywania deficytów poznawczych - MMSE, MoCA, Mini-Cog i inne.
 
-## MMSE — Mini-Mental State Examination
+## MMSE - Mini-Mental State Examination
 
 Najbardziej rozpowszechniony test przesiewowy.[^folstein1975] Składa się z 30 punktów oceniających orientację w czasie i miejscu (10 pkt), zapamiętywanie i przypominanie (6 pkt), uwagę i liczenie (5 pkt), nazywanie (2 pkt), powtarzanie i rozumienie (4 pkt) oraz pisanie i konstrukcję (3 pkt). Wynik poniżej 24/30 sugeruje patologię, ale wymaga interpretacji z uwzględnieniem wieku i wykształcenia.[^tombaugh1992]
 
 > MMSE jest **niewrażliwy na łagodne deficyty** i ma efekt sufitu u osób z wyższym wykształceniem. Nie wykrywa dobrze dysfunkcji czołowych.[^nasreddine2005]
 
-## MoCA — Montreal Cognitive Assessment
+## MoCA - Montreal Cognitive Assessment
 
 Stworzony jako bardziej wrażliwy zamiennik MMSE.[^nasreddine2005] Poza standardowymi zadaniami obejmuje zadanie z przesunięciem (set-shifting), test zegara (konstrukcja), identyfikację zwierząt, opóźnione przypominanie po zadaniu zakłócającym oraz abstrakcję (podobieństwa). Często stosowany próg przesiewowy to 26/30.[^nasreddine2005]
 

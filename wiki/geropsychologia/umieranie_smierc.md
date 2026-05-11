@@ -18,7 +18,7 @@ Najczęstsze doświadczenia psychiczne w tym okresie obejmują:
 - potrzebę pojednania i domknięcia relacji,
 - pytania egzystencjalne i duchowe.
 
-Nie każda reakcja emocjonalna oznacza zaburzenie — wiele z nich ma charakter normatywny.
+Nie każda reakcja emocjonalna oznacza zaburzenie - wiele z nich ma charakter normatywny.
 
 ## Typowe potrzeby osoby starszej u kresu życia
 
@@ -52,7 +52,7 @@ Rodzina zwykle przechodzi równoległy proces emocjonalny: lęk, zaprzeczenie, s
 
 Otwarte rozmowy o potrzebach i granicach zmniejszają ryzyko konfliktów i poczucia winy po stracie.
 
-## Opieka paliatywna i hospicyjna — perspektywa psychologiczna
+## Opieka paliatywna i hospicyjna - perspektywa psychologiczna
 
 Współczesna opieka paliatywna koncentruje się na jakości życia, nie tylko na leczeniu choroby. Psycholog w zespole paliatywnym:
 

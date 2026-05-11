@@ -30,14 +30,14 @@ Skuteczny wywiad psychosomatyczny obejmuje:
 **Historia psychosocjalna:**
 - Niekorzystne doświadczenia dziecięce (ACE): zaniedbanie, przemoc, utrata rodzica
 - Ważne straty i traum życiowe
-- Relacje rodzinne — wzorce więzi, konflikty, opiekuńczość
+- Relacje rodzinne - wzorce więzi, konflikty, opiekuńczość
 - Sytuacja zawodowa i finansowa
 - Jakość relacji intymnych i wsparcie społeczne
 
 **Stan psychiczny:**
 - Objawy depresji i lęku (PHQ-9, GAD-7)
 - Jakość snu
-- Aleksytymia — trudność w opisywaniu emocji
+- Aleksytymia - trudność w opisywaniu emocji
 - Przekonania dotyczące choroby (illness beliefs)
 
 **Zachowania zdrowotne:**
@@ -60,20 +60,20 @@ Skuteczny wywiad psychosomatyczny obejmuje:
 ## Modele diagnozy psychosomatycznej
 
 ### Model Calgary-Cambridge
-Podkreśla role „choroby" (disease — z perspektywy biomedycznej) i „illness" (z perspektywy pacjenta — jak pacjent przeżywa i interpretuje chorobę). Diagnoza psychosomatyczna wymaga rozumienia obu perspektyw.
+Podkreśla role „choroby" (disease - z perspektywy biomedycznej) i „illness" (z perspektywy pacjenta - jak pacjent przeżywa i interpretuje chorobę). Diagnoza psychosomatyczna wymaga rozumienia obu perspektyw.
 
 ### FIFE (Feelings, Ideas, Functioning, Expectations)
 Cztery pytania do pacjenta:
 
-- **F** — Jakie uczucia towarzyszą panu/pani tej chorobie?
-- **I** — Jakie ma pan/pani własne wyobrażenie o tym, co się dzieje?
-- **F** — Jak choroba wpływa na codzienne funkcjonowanie?
-- **E** — Czego pan/pani oczekuje od tej wizyty?
+- **F** - Jakie uczucia towarzyszą panu/pani tej chorobie?
+- **I** - Jakie ma pan/pani własne wyobrażenie o tym, co się dzieje?
+- **F** - Jak choroba wpływa na codzienne funkcjonowanie?
+- **E** - Czego pan/pani oczekuje od tej wizyty?
 
 ### Model INTERMED
-Wielowymiarowe narzędzie oceny złożoności biopsychospołecznej — stosowane w psychiatrii konsultacyjnej i medycynie psychosomatycznej do identyfikacji pacjentów wymagających zintegrowanej opieki.
+Wielowymiarowe narzędzie oceny złożoności biopsychospołecznej - stosowane w psychiatrii konsultacyjnej i medycynie psychosomatycznej do identyfikacji pacjentów wymagających zintegrowanej opieki.
 
-## Diagnoza różnicowa — kiedy myśleć psychosomatycznie?
+## Diagnoza różnicowa - kiedy myśleć psychosomatycznie?
 
 Sygnały, które powinny nakierować na diagnozę psychosomatyczną:
 
@@ -84,16 +84,16 @@ Sygnały, które powinny nakierować na diagnozę psychosomatyczną:
 - Nasilenie objawów w sytuacjach stresowych
 - Historia traumy lub ACE
 - Współwystępowanie depresji lub lęku
-- Aleksytymia — trudność w opisywaniu emocji
+- Aleksytymia - trudność w opisywaniu emocji
 
 ## Pułapki diagnostyczne
 
-- **Naddiagnoza somatyzacji** — pominięcie rzadkiej choroby organicznej
-- **Dualizm ciało–umysł** — leczenie wyłącznie somatyczne lub wyłącznie psychiatryczne
-- **Iatrogenizacja** — lekarz swoją niepewnością lub nadmierną diagnostyką nasila lęk zdrowotny
-- **Wina pacjenta** — sugerowanie, że objawy są „ze stresu", może być odbierane jako oskarżenie o symulację
+- **Naddiagnoza somatyzacji** - pominięcie rzadkiej choroby organicznej
+- **Dualizm ciało–umysł** - leczenie wyłącznie somatyczne lub wyłącznie psychiatryczne
+- **Iatrogenizacja** - lekarz swoją niepewnością lub nadmierną diagnostyką nasila lęk zdrowotny
+- **Wina pacjenta** - sugerowanie, że objawy są „ze stresu", może być odbierane jako oskarżenie o symulację
 
-> **Podsumowanie:** Diagnoza psychosomatyczna jest sztuką słuchania całego człowieka — jego cierpienia biologicznego, historii życiowej i kontekstu relacyjnego. Wymaga czasu, empatii i gotowości do pracy w modelu biopsychospołecznym.
+> **Podsumowanie:** Diagnoza psychosomatyczna jest sztuką słuchania całego człowieka - jego cierpienia biologicznego, historii życiowej i kontekstu relacyjnego. Wymaga czasu, empatii i gotowości do pracy w modelu biopsychospołecznym.
 
 
 ## Wprowadzenie

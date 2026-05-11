@@ -12,9 +12,9 @@ evidenceCutoffDate: 2025-12-31
 
 Zgodnie z kryteriami **DSM-5** (Diagnostyczny i Statystyczny Podręcznik Zaburzeń Psychicznych, wydanie piąte) ADHD dzieli się na trzy typy prezentacji:
 
-- **typ z przewagą nieuwagi** — dominujące trudności z koncentracją, organizacją i podążaniem za instrukcjami
-- **typ z przewagą nadpobudliwości i impulsywności** — nadmierna aktywność ruchowa, trudności z czekaniem i hamowaniem impulsów
-- **typ mieszany** — spełnianie kryteriów obu powyższych, najczęstszy w praktyce klinicznej
+- **typ z przewagą nieuwagi** - dominujące trudności z koncentracją, organizacją i podążaniem za instrukcjami
+- **typ z przewagą nadpobudliwości i impulsywności** - nadmierna aktywność ruchowa, trudności z czekaniem i hamowaniem impulsów
+- **typ mieszany** - spełnianie kryteriów obu powyższych, najczęstszy w praktyce klinicznej
 
 **ICD-11** (Międzynarodowa Klasyfikacja Chorób) używa zbliżonych kryteriów, klasyfikując zaburzenie w grupie *zaburzeń neurorozwojowych*.
 
@@ -22,7 +22,7 @@ Zgodnie z kryteriami **DSM-5** (Diagnostyczny i Statystyczny Podręcznik Zaburze
 
 ## Profil neurokognitywny
 
-ADHD nie jest wyłącznie problemem z uwagą — jego rdzeniem są deficyty **funkcji wykonawczych** (*executive functions*): planowania, organizacji, inicjowania działań, hamowania impulsów i elastyczności poznawczej. Model **Russella Barkleya** ujmuje ADHD jako zaburzenie samoregulacji i zahamowania behawioralnego.
+ADHD nie jest wyłącznie problemem z uwagą - jego rdzeniem są deficyty **funkcji wykonawczych** (*executive functions*): planowania, organizacji, inicjowania działań, hamowania impulsów i elastyczności poznawczej. Model **Russella Barkleya** ujmuje ADHD jako zaburzenie samoregulacji i zahamowania behawioralnego.
 
 Neurobiologicznie ADHD wiąże się z dysregulacją układu dopaminergicznego i noradrenergicznego, atypowym dojrzewaniem kory przedczołowej oraz zmienioną łącznością sieci funkcjonalnych mózgu, szczególnie sieci domyślnej (*default mode network*). Badania neuroobrazowe konsekwentnie wykazują opóźnienie dojrzewania kory mózgowej u dzieci z ADHD o około 2–3 lata w porównaniu z rówieśnikami.
 
@@ -37,18 +37,18 @@ W środowisku szkolnym uczniowie z ADHD doświadczają trudności w wielu obszar
 - wtórne trudności emocjonalne: obniżona samoocena, frustracja, lęk
 - ryzyko konfliktu z nauczycielami i odrzucenia przez rówieśników
 
-> **Fakt:** Dzieci z ADHD słyszą od dorosłych przeciętnie 20 000 więcej negatywnych komunikatów rocznie niż ich rówieśnicy bez ADHD — co ma poważne konsekwencje dla ich samooceny i motywacji.
+> **Fakt:** Dzieci z ADHD słyszą od dorosłych przeciętnie 20 000 więcej negatywnych komunikatów rocznie niż ich rówieśnicy bez ADHD - co ma poważne konsekwencje dla ich samooceny i motywacji.
 
 ## Dostosowania w środowisku szkolnym
 
 Skuteczna pomoc uczniowi z ADHD w szkole wymaga systematycznych dostosowań środowiskowych:
 
-- preferencyjne miejsce siedzenia — blisko nauczyciela, z dala od okna i drzwi
+- preferencyjne miejsce siedzenia - blisko nauczyciela, z dala od okna i drzwi
 - podział długich zadań na mniejsze kroki z wyraźnymi instrukcjami
 - dodatkowy czas na zadania i sprawdziany
 - możliwość krótkich przerw ruchowych
 - stosowanie wizualnych harmonogramów i list kontrolnych
-- regularne i natychmiastowe informacje zwrotne — częstsze niż u typowych uczniów
+- regularne i natychmiastowe informacje zwrotne - częstsze niż u typowych uczniów
 - współpraca z rodzicami i stosowanie systemu komunikacji szkoła–dom
 
 W Polsce uczniowie z diagnozą ADHD mogą uzyskać orzeczenie o potrzebie kształcenia specjalnego lub opinię PPP, na podstawie której szkoła jest zobowiązana do opracowania **Indywidualnego Programu Edukacyjno-Terapeutycznego** (IPET).
@@ -63,7 +63,7 @@ Współczesne standardy leczenia ADHD opierają się na podejściu **wielomodaln
 
 **Terapia poznawczo-behawioralna** (CBT) jest szczególnie skuteczna u nastolatków i dorosłych z ADHD, ucząc strategii organizacyjnych, zarządzania czasem i regulacji emocji.
 
-**Trening funkcji wykonawczych** — ćwiczenia komputerowe i zadaniowe ukierunkowane na pamięć roboczą i hamowanie — mają umiarkowaną skuteczność i mogą być cennym uzupełnieniem innych metod.
+**Trening funkcji wykonawczych** - ćwiczenia komputerowe i zadaniowe ukierunkowane na pamięć roboczą i hamowanie - mają umiarkowaną skuteczność i mogą być cennym uzupełnieniem innych metod.
 
 ## Kontekst polski
 
@@ -71,7 +71,7 @@ W Polsce diagnoza ADHD jest stawiana przez psychiatrów dzieci i młodzieży lub
 
 ## Podsumowanie
 
-ADHD jest złożonym zaburzeniem neurorozwojowym, które w środowisku szkolnym wymaga wielopoziomowego wsparcia — od dostosowania środowiska fizycznego i organizacji nauczania, przez interwencje behawioralne, aż po farmakoterapię w uzasadnionych przypadkach. Kluczowe jest postrzeganie ucznia z ADHD nie przez pryzmat jego deficytów, lecz z uwzględnieniem jego mocnych stron i potencjału, który odpowiednie wsparcie może pomóc rozwinąć.
+ADHD jest złożonym zaburzeniem neurorozwojowym, które w środowisku szkolnym wymaga wielopoziomowego wsparcia - od dostosowania środowiska fizycznego i organizacji nauczania, przez interwencje behawioralne, aż po farmakoterapię w uzasadnionych przypadkach. Kluczowe jest postrzeganie ucznia z ADHD nie przez pryzmat jego deficytów, lecz z uwzględnieniem jego mocnych stron i potencjału, który odpowiednie wsparcie może pomóc rozwinąć.
 
 
 ## Wprowadzenie

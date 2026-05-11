@@ -17,7 +17,7 @@ W uproszczeniu:
 - hormony stresu modulują działanie układu immunologicznego,
 - długotrwałe przeciążenie może sprzyjać dysregulacji odporności.
 
-To dynamiczny system sprzężeń zwrotnych, a nie prosty „jeden czynnik — jeden efekt”.
+To dynamiczny system sprzężeń zwrotnych, a nie prosty „jeden czynnik - jeden efekt”.
 
 ## Co wiemy o roli stresu?
 

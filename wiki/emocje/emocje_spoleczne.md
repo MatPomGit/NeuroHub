@@ -6,7 +6,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Emocje społeczne i moralne
 
-**Emocje społeczne** to emocje, których doświadczanie i wyrażanie jest uwarunkowane relacjami z innymi ludźmi — zarówno rzeczywistymi, jak i wyobrażonymi lub symbolicznymi. Podzbiorem emocji społecznych są **emocje moralne** — zaangażowane w ocenę i regulację zachowań moralnych. Razem tworzą jeden z najważniejszych systemów regulacyjnych życia społecznego.
+**Emocje społeczne** to emocje, których doświadczanie i wyrażanie jest uwarunkowane relacjami z innymi ludźmi - zarówno rzeczywistymi, jak i wyobrażonymi lub symbolicznymi. Podzbiorem emocji społecznych są **emocje moralne** - zaangażowane w ocenę i regulację zachowań moralnych. Razem tworzą jeden z najważniejszych systemów regulacyjnych życia społecznego.
 
 ## Definicje i klasyfikacje
 
@@ -14,12 +14,12 @@ evidenceCutoffDate: 2025-12-31
 
 Emocje społeczne *wymagają* obecności lub reprezentacji innej osoby jako ich obiektu lub kontekstu. Kluczowi reprezentanci:
 
-- **Wstyd** — reakcja na negatywną ocenę własnego Ja przez (wyobrażonych) innych
-- **Wina** — reakcja na skrzywdzenie innej osoby
-- **Duma** — reakcja na pozytywną ocenę własnych osiągnięć
-- **Zazdrość** — reakcja na posiadanie przez inną osobę czegoś, czego pragniemy
-- **Zawiść** — reakcja na czyjś sukces przy odczuwaniu własnego braku
-- **Zmieszanie** (*embarrassment*) — reakcja na bycie obserwowanym w sytuacji kłopotliwej
+- **Wstyd** - reakcja na negatywną ocenę własnego Ja przez (wyobrażonych) innych
+- **Wina** - reakcja na skrzywdzenie innej osoby
+- **Duma** - reakcja na pozytywną ocenę własnych osiągnięć
+- **Zazdrość** - reakcja na posiadanie przez inną osobę czegoś, czego pragniemy
+- **Zawiść** - reakcja na czyjś sukces przy odczuwaniu własnego braku
+- **Zmieszanie** (*embarrassment*) - reakcja na bycie obserwowanym w sytuacji kłopotliwej
 
 ### Emocje moralne
 
@@ -38,7 +38,7 @@ Haidt proponuje taksonomię opartą na dwóch wymiarach:
 
 ### Oburzenie moralne (*moral outrage*)
 
-Oburzenie pojawia się, gdy ktoś inny naruszy ważną normę moralną. Jest **silnym motywatorem zachowań prospołecznych** — protestów, interwencji, szukania sprawiedliwości. Ewolucyjnie — mechanizm egzekwowania norm w grupie.
+Oburzenie pojawia się, gdy ktoś inny naruszy ważną normę moralną. Jest **silnym motywatorem zachowań prospołecznych** - protestów, interwencji, szukania sprawiedliwości. Ewolucyjnie - mechanizm egzekwowania norm w grupie.
 
 Współczesne badania wskazują, że media społecznościowe amplifikują oburzenie moralne przez:
 - Nagradzanie wyrażania oburzenia (likes, udostępnienia)
@@ -47,11 +47,11 @@ Współczesne badania wskazują, że media społecznościowe amplifikują oburze
 
 ### Pogarda (*contempt*)
 
-Pogarda to emocja hierarchizująca — sygnalizuje ocenę innej osoby jako moralnie lub społecznie niższej. Ekman i Friesen opisali **pogardę** jako jedną z sześciu emocji podstawowych (jednostronne uniesienie kącika ust). W relacjach intymnych jest **najsilniejszym predyktorem rozstania** (Gottman) — bardziej niż konflikt czy gniew.
+Pogarda to emocja hierarchizująca - sygnalizuje ocenę innej osoby jako moralnie lub społecznie niższej. Ekman i Friesen opisali **pogardę** jako jedną z sześciu emocji podstawowych (jednostronne uniesienie kącika ust). W relacjach intymnych jest **najsilniejszym predyktorem rozstania** (Gottman) - bardziej niż konflikt czy gniew.
 
 W kontekście moralnym pogarda może być:
-- Adaptacyjna — sygnalizuje granice moralne, odrzucenie patologicznych zachowań
-- Patologiczna — dehumanizacja, uprzedzenia, wykluczenie grup
+- Adaptacyjna - sygnalizuje granice moralne, odrzucenie patologicznych zachowań
+- Patologiczna - dehumanizacja, uprzedzenia, wykluczenie grup
 
 ### Litość i współczucie (*pity / compassion*)
 
@@ -59,12 +59,12 @@ Chociaż potocznie stosowane wymiennie, mają odmienne struktury:
 
 | | Litość | Współczucie |
 |---|---|---|
-| **Pozycja** | Asymetryczna (wyżej—niżej) | Równorzędna |
+| **Pozycja** | Asymetryczna (wyżej-niżej) | Równorzędna |
 | **Fokus** | Ocena cierpienia innej osoby | Rezonowanie z cierpieniem innej osoby |
 | **Motywacja** | Pomaganie z pozycji wyższości | Pomaganie z poczucia wspólnoty |
 | **Efekt na relację** | Może infantylizować | Wzmacnia więź |
 
-Neff (2003) w badaniach nad samowspółczuciem (*self-compassion*) wykazała, że litość wobec siebie wiąże się z gorszym funkcjonowaniem, podczas gdy współczucie dla siebie — z lepszym.
+Neff (2003) w badaniach nad samowspółczuciem (*self-compassion*) wykazała, że litość wobec siebie wiąże się z gorszym funkcjonowaniem, podczas gdy współczucie dla siebie - z lepszym.
 
 ### Podziw moralny (*moral admiration*)
 
@@ -74,19 +74,19 @@ Emocja pozytywna pojawiająca się, gdy obserwujemy wyjątkową cnotę lub pośw
 
 Jonathan Haidt w przełomowym artykule *The Emotional Dog and Its Rational Tail* (2001) zaproponował **społeczno-intuicjonistyczny model moralności** (*social intuitionist model*):
 
-**Teza:** Osądy moralne są **przede wszystkim intuicyjne i emocjonalne**, a racjonalne uzasadnienia są post hoc — pisane po fakcie, by wyjaśnić intuicję, nie by ją wygenerować.
+**Teza:** Osądy moralne są **przede wszystkim intuicyjne i emocjonalne**, a racjonalne uzasadnienia są post hoc - pisane po fakcie, by wyjaśnić intuicję, nie by ją wygenerować.
 
 ```
 Sytuacja moralna
        ↓
-Intuicja moralna (emocja) — szybka, automatyczna
+Intuicja moralna (emocja) - szybka, automatyczna
        ↓
 Osąd moralny
        ↓
 Racjonalizacja post hoc (uzasadnienie słowne)
 ```
 
-Dowód: **dumbfounding moralny** — badani potępiali fikcyjne zachowania (np. kazirodztwo między dorosłymi bez konsekwencji), ale nie potrafili racjonalnie uzasadnić potępienia — „Wiem, że to złe, po prostu złe" (*harmless taboo violations*).
+Dowód: **dumbfounding moralny** - badani potępiali fikcyjne zachowania (np. kazirodztwo między dorosłymi bez konsekwencji), ale nie potrafili racjonalnie uzasadnić potępienia - „Wiem, że to złe, po prostu złe" (*harmless taboo violations*).
 
 Model Haidta spotkał się z krytyką Greena i innych kognitywistów moralnych, prowadząc do debaty „rozum vs. emocje" w etyce, która trwa do dziś.
 
@@ -100,8 +100,8 @@ Model Haidta spotkał się z krytyką Greena i innych kognitywistów moralnych, 
 
 ### Wdzięczność i wzajemność
 
-- Wdzięczność motywuje do **prosocjalnej wzajemności** — nie tylko wobec dobroczyńcy, ale wobec osób trzecich (**pay it forward effect**)
-- Emmons i McCullough (2003) — cykle wdzięczności napędzają spirale prosocjalne w grupach
+- Wdzięczność motywuje do **prosocjalnej wzajemności** - nie tylko wobec dobroczyńcy, ale wobec osób trzecich (**pay it forward effect**)
+- Emmons i McCullough (2003) - cykle wdzięczności napędzają spirale prosocjalne w grupach
 
 ### Oburzenie i sprawiedliwość
 

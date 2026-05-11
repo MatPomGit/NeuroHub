@@ -50,7 +50,7 @@ Trudność diagnostyczna: objawy psychopatologiczne mogą być maskowane przez o
 
 ## Interwencje psychologiczne
 
-- **Behawioralne:** ABA, pozytywne wzmacnianie, kształtowanie zachowania — kluczowe zwłaszcza w ciężkich stopniach NI.
+- **Behawioralne:** ABA, pozytywne wzmacnianie, kształtowanie zachowania - kluczowe zwłaszcza w ciężkich stopniach NI.
 - **Poznawcze:** dostosowane do poziomu CBT i trening umiejętności.
 - **Komunikacja alternatywna (AAC):** piktogramy, PECS, urządzenia mowy syntetycznej.
 - **Psychoedukacja rodziny:** strategie wsparcia w domu.

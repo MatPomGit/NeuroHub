@@ -1,10 +1,13 @@
 # AGENTS.md
 
 ## Cel dokumentu
+
 Ten dokument określa zasady pracy agenta AI, który tworzy lub modyfikuje treści artykułowe w projekcie **PsyHub**.
 
 ## Standard językowy i styl
+
 1. **Poprawna polszczyzna**
+
    - Pisz zgodnie z zasadami ortografii, interpunkcji i składni języka polskiego.
    - Unikaj kalk językowych i niepotrzebnych anglicyzmów (chyba że termin specjalistyczny wymaga użycia oryginalnej nazwy).
 
@@ -20,10 +23,12 @@ Ten dokument określa zasady pracy agenta AI, który tworzy lub modyfikuje treś
 4. **Ton wypowiedzi**
    - Domyślny język: akademicki i precyzyjny.
    - Poza ścisłymi definicjami dopuszczalny jest swobodniejszy styl, zwięzłe ciekawostki i analogie.
-   - Preferowany ton narracji: „doświadczony profesor prowadzący wykład dla młodych studentów” — rzeczowy, życzliwy, obrazowy i inspirujący.
+   - Preferowany ton narracji: „doświadczony profesor prowadzący wykład dla młodych studentów” - rzeczowy, życzliwy, obrazowy i inspirujący.
 
 ## Struktura artykułów
+
 Każdy nowy lub aktualizowany artykuł powinien (o ile temat na to pozwala) zawierać:
+
 1. Krótkie wprowadzenie i kontekst.
 2. Definicje kluczowych pojęć.
 3. Część analityczną z omówieniem mechanizmów i zależności.
@@ -38,6 +43,7 @@ Każdy nowy lub aktualizowany artykuł powinien (o ile temat na to pozwala) zawi
 7. **Bibliografię**.
 
 ## Bibliografia i źródła
+
 1. Każdy artykuł musi zawierać sekcję **Bibliografia**.
 2. Uwzględniaj źródła naukowe wysokiej jakości (np. artykuły recenzowane, podręczniki akademickie, raporty instytucji naukowych).
 3. Dbaj o aktualność źródeł oraz równowagę między klasycznymi pozycjami a nowszymi badaniami.
@@ -45,13 +51,14 @@ Każdy nowy lub aktualizowany artykuł powinien (o ile temat na to pozwala) zawi
 5. Sekcja `## Bibliografia` musi znajdować się na końcu artykułu (ostatni rozdział).
 
 ## Zasady argumentacji
+
 1. Nie powielaj bezrefleksyjnie popularnych opinii.
 2. Pokazuj alternatywne interpretacje i ograniczenia prezentowanych podejść.
 3. Wskazuj konsekwencje praktyczne omawianych teorii.
 4. Jeżeli temat jest kontrowersyjny, przedstaw argumenty wielu stron oraz krótką ocenę jakości dowodów.
 
-
 ## Zasady integralności treści i lokalizacji plików
+
 1. **Nie usuwaj istniejącej treści bez uzasadnienia merytorycznego**
    - Przy aktualizacji artykułu zachowuj dotychczasowe, wartościowe fragmenty.
    - Jeżeli przenosisz treści między sekcjami, integruj je w odpowiednich rozdziałach zamiast kasować.
@@ -70,11 +77,13 @@ Każdy nowy lub aktualizowany artykuł powinien (o ile temat na to pozwala) zawi
    - Przy zmianie nazwy lub lokalizacji pliku zaktualizuj wszystkie odwołania (linki wewnętrzne, `site-config.js`, raporty referencyjne).
 
 ## Dodatkowe zasady redakcyjne
+
 1. Unikaj sensacyjności i języka stygmatyzującego.
 2. Jeśli to możliwe, stosuj krótkie sekcje i śródtytuły, aby poprawić czytelność.
 3. Przy specjalistycznych pojęciach podawaj zwięzłe objaśnienia dla mniej zaawansowanych czytelników.
 
 ## Lista kontrolna przed zakończeniem pracy nad artykułem
+
 - [ ] Czy tekst jest napisany poprawną polszczyzną?
 - [ ] Czy forma i argumentacja są naukowe i rzetelne?
 - [ ] Czy dodano przykłady dobrej i złej praktyki?

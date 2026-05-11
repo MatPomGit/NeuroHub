@@ -78,7 +78,7 @@ Najlepiej udokumentowane czynniki ochronne:
 
 > Ważne: nawet niewielkie codzienne rytuały (spacer, rozmowa, plan dnia) stabilizują dobrostan i zmniejszają poczucie chaosu.
 
-## Trudności adaptacyjne — sygnały alarmowe
+## Trudności adaptacyjne - sygnały alarmowe
 
 Do konsultacji psychologicznej lub psychiatrycznej powinny skłonić m.in.:
 
@@ -111,7 +111,7 @@ Wczesna interwencja wyraźnie poprawia rokowanie.
 
 ## Podsumowanie
 
-Adaptacja do starości to proces, w którym kluczowe są elastyczność, poczucie wpływu i relacje. Starzenie się nie musi oznaczać biernego „tracenia” — może być etapem dojrzewania, porządkowania priorytetów i budowania nowej jakości życia.
+Adaptacja do starości to proces, w którym kluczowe są elastyczność, poczucie wpływu i relacje. Starzenie się nie musi oznaczać biernego „tracenia” - może być etapem dojrzewania, porządkowania priorytetów i budowania nowej jakości życia.
 
 
 ## Wprowadzenie

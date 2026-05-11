@@ -29,9 +29,9 @@ W literaturze technostres jest definiowany jako negatywny stan psychologiczny zw
 
 W praktyce badawczej warto odróżnić trzy poziomy zjawiska:
 
-1. **Bodźce technologiczne (technostress creators)** — cechy środowiska cyfrowego, które generują presję.
-2. **Proces psychologiczny** — subiektywna ocena obciążenia, utraty kontroli i zasobów.
-3. **Skutki** — objawy afektywne, poznawcze, behawioralne i somatyczne.
+1. **Bodźce technologiczne (technostress creators)** - cechy środowiska cyfrowego, które generują presję.
+2. **Proces psychologiczny** - subiektywna ocena obciążenia, utraty kontroli i zasobów.
+3. **Skutki** - objawy afektywne, poznawcze, behawioralne i somatyczne.
 
 Takie rozumienie pozwala projektować interwencje nie tylko „na użytkowniku”, ale także na architekturze systemu i kulturze organizacyjnej.
 
@@ -43,7 +43,7 @@ Technostres można interpretować jako wynik oceny poznawczej: użytkownik oceni
 
 ## 3.2. Model wymagania–zasoby pracy (JD-R)
 
-W środowisku cyfrowym rosną wymagania (tempo, responsywność, niepewność narzędzi), a zasoby bywają niewystarczające (brak szkoleń, niejasne procedury, przeciążenie informacyjne). Gdy wymagania chronicznie przewyższają zasoby, narasta wyczerpanie i cynizm — dwa filary wypalenia.
+W środowisku cyfrowym rosną wymagania (tempo, responsywność, niepewność narzędzi), a zasoby bywają niewystarczające (brak szkoleń, niejasne procedury, przeciążenie informacyjne). Gdy wymagania chronicznie przewyższają zasoby, narasta wyczerpanie i cynizm - dwa filary wypalenia.
 
 ## 3.3. Conservation of Resources (COR)
 
@@ -53,11 +53,11 @@ Z perspektywy COR technostres jest procesem utraty zasobów: energii uwagi, czas
 
 Najczęściej opisywane „kreatory technostresu” to:
 
-- **Techno-overload** — nadmiar zadań i komunikatów wymuszających przyspieszenie pracy.
-- **Techno-invasion** — „wlewanie się” pracy i powiadomień do czasu prywatnego.
-- **Techno-complexity** — poczucie, że narzędzia są zbyt złożone lub stale się zmieniają.
-- **Techno-uncertainty** — niepewność wynikająca z ciągłych aktualizacji, zmian interfejsów i procedur.
-- **Techno-insecurity** — lęk przed utratą pozycji lub pracy z powodu automatyzacji i AI.
+- **Techno-overload** - nadmiar zadań i komunikatów wymuszających przyspieszenie pracy.
+- **Techno-invasion** - „wlewanie się” pracy i powiadomień do czasu prywatnego.
+- **Techno-complexity** - poczucie, że narzędzia są zbyt złożone lub stale się zmieniają.
+- **Techno-uncertainty** - niepewność wynikająca z ciągłych aktualizacji, zmian interfejsów i procedur.
+- **Techno-insecurity** - lęk przed utratą pozycji lub pracy z powodu automatyzacji i AI.
 
 Wspólnym mianownikiem tych czynników jest chroniczne poczucie braku domknięcia poznawczego: użytkownik „nigdy nie kończy”, tylko ciągle reaguje.
 
@@ -181,11 +181,11 @@ W praktyce oznacza to przesunięcie odpowiedzialności z wyłącznie indywidualn
 
 ## Bibliografia orientacyjna
 
-- Ayyagari, Grover, Purvis — technostress i obciążenie poznawcze.
-- Tarafdar i współpracownicy — klasyczne kreatory technostresu.
-- Lazarus, Folkman — model transakcyjny stresu.
-- Bakker, Demerouti — model JD-R.
-- Hobfoll — Conservation of Resources.
+- Ayyagari, Grover, Purvis - technostress i obciążenie poznawcze.
+- Tarafdar i współpracownicy - klasyczne kreatory technostresu.
+- Lazarus, Folkman - model transakcyjny stresu.
+- Bakker, Demerouti - model JD-R.
+- Hobfoll - Conservation of Resources.
 
 > Uwaga redakcyjna: sekcja bibliograficzna ma charakter orientacyjny i będzie rozwijana o pełne opisy APA w kolejnych aktualizacjach.
 

@@ -12,10 +12,10 @@ Psychologia systemów rodzinnych opisuje rodzinę jako dynamiczny układ wzajemn
 
 ## Definicje
 
-- **System rodzinny** — sieć relacji, ról i reguł, które organizują funkcjonowanie rodziny.
-- **Homeostaza rodzinna** — tendencja systemu do utrzymywania równowagi, także kosztem utrwalania niekorzystnych wzorców.
-- **Granice subsystemów** — stopień oddzielenia między podsystemem rodzicielskim, partnerskim i dziecięcym.
-- **Triangulacja** — włączanie trzeciej osoby (często dziecka) w konflikt dwojga dorosłych.
+- **System rodzinny** - sieć relacji, ról i reguł, które organizują funkcjonowanie rodziny.
+- **Homeostaza rodzinna** - tendencja systemu do utrzymywania równowagi, także kosztem utrwalania niekorzystnych wzorców.
+- **Granice subsystemów** - stopień oddzielenia między podsystemem rodzicielskim, partnerskim i dziecięcym.
+- **Triangulacja** - włączanie trzeciej osoby (często dziecka) w konflikt dwojga dorosłych.
 
 ## Analiza
 
@@ -53,11 +53,11 @@ Nieoczywiste podejście zakłada, że „dysfunkcyjny” objaw bywa jednocześni
 
 ## Powiązane artykuły (cross-linki)
 
-- `psychotherapy/systemowa` — podstawy terapii systemowej i rodzinnej.
-- `relacje/relacje_rodzinne` — dynamika relacji i konflikty.
-- `uzaleznienia/rodzina_w_uzaleznieniach` — rola rodziny w podtrzymywaniu i leczeniu uzależnień.
-- `doswiadczenie_somatyczne/wprowadzenie_do_doswiadczenia_somatycznego` — regulacja pobudzenia w pracy z traumą relacyjną; odsyła do Somatic Experiencing.
-- `reference/mapa_powiazan_nowe_artykuly` — mapa relacji między nowymi tekstami.
+- `psychotherapy/systemowa` - podstawy terapii systemowej i rodzinnej.
+- `relacje/relacje_rodzinne` - dynamika relacji i konflikty.
+- `uzaleznienia/rodzina_w_uzaleznieniach` - rola rodziny w podtrzymywaniu i leczeniu uzależnień.
+- `doswiadczenie_somatyczne/wprowadzenie_do_doswiadczenia_somatycznego` - regulacja pobudzenia w pracy z traumą relacyjną; odsyła do Somatic Experiencing.
+- `reference/mapa_powiazan_nowe_artykuly` - mapa relacji między nowymi tekstami.
 
 ## Podsumowanie
 

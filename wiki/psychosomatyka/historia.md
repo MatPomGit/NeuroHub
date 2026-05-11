@@ -10,7 +10,7 @@ Psychosomatyka jako sformalizowana dyscyplina liczy niespełna sto lat, lecz jej
 
 ## Starożytne i nowożytne korzenie
 
-**Hipokrates** (460–370 p.n.e.) nauczał, że choroba wynika z zaburzenia równowagi czterech humorów i że lekarz powinien badać całego człowieka — ciało, dietę i emocje. Podobnie **Galen** wskazywał na wpływ namiętności duszy na zdrowie fizyczne.
+**Hipokrates** (460–370 p.n.e.) nauczał, że choroba wynika z zaburzenia równowagi czterech humorów i że lekarz powinien badać całego człowieka - ciało, dietę i emocje. Podobnie **Galen** wskazywał na wpływ namiętności duszy na zdrowie fizyczne.
 
 W XVII w. **René Descartes** dokonał radykalnego rozdziału ciała i umysłu (dualizm kartezjański), co na kolejne stulecia ukształtowało myślenie medyczne w kierunku czysto biologicznym. Dopiero XIX w. przyniósł powrót do holistycznego spojrzenia.
 
@@ -31,11 +31,11 @@ W 1939 r. Alexander i współpracownicy założyli *American Psychosomatic Socie
 
 Spekulatywność modeli psychoanalitycznych i trudności z falsyfikacją zaczęły budzić krytykę. Pojawienie się **medycyny behawioralnej** w latach 70. przyniosło podejście empiryczne i operacyjne.
 
-Przełomem był **model biopsychospołeczny George'a Engela** (1977) — zamiast szukać jednej przyczyny, Engel zaproponował uwzględnianie biologicznych, psychologicznych i społecznych wymiarów każdej choroby.
+Przełomem był **model biopsychospołeczny George'a Engela** (1977) - zamiast szukać jednej przyczyny, Engel zaproponował uwzględnianie biologicznych, psychologicznych i społecznych wymiarów każdej choroby.
 
-## Psychoneuroimmunologia — rewolucja lat 80.
+## Psychoneuroimmunologia - rewolucja lat 80.
 
-Robert Ader i Nicholas Cohen w 1975 r. udowodnili, że układ odpornościowy można warunkowo kondycjonować — mysz nauczyła się tłumić odporność na sygnał warunkowy. Odkrycie to zapoczątkowało **psychoneuroimmunologię (PNI)**, która dostarczyła biologicznych podstaw dla psychosomatyki.
+Robert Ader i Nicholas Cohen w 1975 r. udowodnili, że układ odpornościowy można warunkowo kondycjonować - mysz nauczyła się tłumić odporność na sygnał warunkowy. Odkrycie to zapoczątkowało **psychoneuroimmunologię (PNI)**, która dostarczyła biologicznych podstaw dla psychosomatyki.
 
 Kolejne dekady przyniosły:
 
@@ -54,7 +54,7 @@ Dziś psychosomatyka jest oparta na dowodach naukowych i integruje:
 
 W klasyfikacjach DSM-5 i ICD-11 pojawiły się nowe kategorie (np. *somatic symptom disorder*, *functional neurological disorder*), które zastąpiły przestarzałe pojęcia konwersji i hipochondrii.
 
-> **Podsumowanie:** Od psychoanalizy do neuronauki — psychosomatyka przebyła drogę od spekulatywnych teorii do empirycznie ugruntowanej dziedziny łączącej wiedzę o mózgu, ciele i człowieku w relacjach.
+> **Podsumowanie:** Od psychoanalizy do neuronauki - psychosomatyka przebyła drogę od spekulatywnych teorii do empirycznie ugruntowanej dziedziny łączącej wiedzę o mózgu, ciele i człowieku w relacjach.
 
 
 ## Wprowadzenie

@@ -4,9 +4,9 @@ reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
 
-# Wiek szkolny — rozwój psychiczny
+# Wiek szkolny - rozwój psychiczny
 
-Wiek szkolny, obejmujący orientacyjnie lata 6–12, to okres względnej stabilizacji i systematycznego doskonalenia sprawności poznawczych, społecznych i emocjonalnych. Erikson określił to stadium jako kryzysu **pracowitości versus poczucia niższości** — dziecko mierzy swoje kompetencje z wymaganiami szkoły, rówieśników i kultury, budując pierwszą realistyczną samoocenę.
+Wiek szkolny, obejmujący orientacyjnie lata 6–12, to okres względnej stabilizacji i systematycznego doskonalenia sprawności poznawczych, społecznych i emocjonalnych. Erikson określił to stadium jako kryzysu **pracowitości versus poczucia niższości** - dziecko mierzy swoje kompetencje z wymaganiami szkoły, rówieśników i kultury, budując pierwszą realistyczną samoocenę.
 
 ---
 
@@ -22,7 +22,7 @@ Przejście z myślenia przedoperacyjnego do operacji konkretnych to fundamentaln
 | **Szeregowanie** | układanie elementów w porządku | układanie patyczków od najkrótszego do najdłuższego |
 | **Inkluzja klasowa** | rozumienie relacji nadrzędna/podrzędna klasy | „Czy jest więcej kwiatów, czy róż?" |
 
-Piaget zwracał uwagę, że operacje konkretne odnoszą się do realnych obiektów — abstrakcja formalna pojawi się dopiero w adolescencji. Badania Nelsona (1977) wykazały jednak, że wiedza deklaratywna o kategoriach pojawia się wcześniej, niż sugerowały zadania Piageta.
+Piaget zwracał uwagę, że operacje konkretne odnoszą się do realnych obiektów - abstrakcja formalna pojawi się dopiero w adolescencji. Badania Nelsona (1977) wykazały jednak, że wiedza deklaratywna o kategoriach pojawia się wcześniej, niż sugerowały zadania Piageta.
 
 ---
 
@@ -30,7 +30,7 @@ Piaget zwracał uwagę, że operacje konkretne odnoszą się do realnych obiekt�
 
 Wygotskiego koncepcja **ZNR** (strefy najbliższego rozwoju) ma bezpośrednie zastosowanie dydaktyczne: nauczyciel lub bardziej kompetentny rówieśnik może pomóc dziecku osiągnąć to, czego nie byłoby w stanie dokonać samodzielnie.
 
-**Rusztowanie (scaffolding)** — Wood, Bruner i Ross (1976) zidentyfikowali sześć funkcji wsparcia:
+**Rusztowanie (scaffolding)** - Wood, Bruner i Ross (1976) zidentyfikowali sześć funkcji wsparcia:
 
 1. Wzbudzenie zainteresowania zadaniem
 2. Redukowanie stopni swobody (upraszczanie problemu)
@@ -47,8 +47,8 @@ Wycofywanie rusztowania, gdy dziecko jest gotowe do samodzielności, jest kluczo
 
 Piaget wyróżnił dwa etapy rozumowania moralnego w dzieciństwie:
 
-- **Realizm moralny (heteronomia)** — ok. 5–9 lat: zasady są traktowane jako niezmienne i zewnętrznie narzucone; ocena winy opiera się na **rozmiarze szkody materialnej**, nie intencji (ten, kto rozbił 10 talerzy, jest bardziej winny niż ten, który rozbił jeden, nawet jeśli celowo)
-- **Autonomia moralna** — od ok. 10 lat: zasady są konstruowane społecznie; intencja staje się ważniejsza od skutku; zasada wzajemności zastępuje karę ekspiacją
+- **Realizm moralny (heteronomia)** - ok. 5–9 lat: zasady są traktowane jako niezmienne i zewnętrznie narzucone; ocena winy opiera się na **rozmiarze szkody materialnej**, nie intencji (ten, kto rozbił 10 talerzy, jest bardziej winny niż ten, który rozbił jeden, nawet jeśli celowo)
+- **Autonomia moralna** - od ok. 10 lat: zasady są konstruowane społecznie; intencja staje się ważniejsza od skutku; zasada wzajemności zastępuje karę ekspiacją
 
 Kohlberg rozwinął ten schemat. W wieku szkolnym dominują stadia 1–3: od unikania kary przez instrumentalną wzajemność do orientacji na oczekiwania grupy i bycia „dobrym dzieckiem".
 
@@ -66,7 +66,7 @@ W wieku szkolnym rówieśnicy zyskują rosnące znaczenie jako źródła porówn
 | 3 – wzajemne | 10–12 lat | jednoczesne koordynowanie perspektyw w interakcji |
 | 4 – społeczno-symboliczne | 12+ lat | systemy społeczne i role jako kontekst perspektyw |
 
-**Statusy rówieśnicze** (Coie, Dodge & Coppotelli, 1982) — metoda nominacji socjometrycznych wyróżnia dzieci **popularne**, **przeciętne**, **odrzucone**, **zaniedbywane** i **kontrowersyjne**. Status odrzuconego jest powiązany z długoterminowymi trudnościami adaptacyjnymi, szczególnie gdy towarzyszy mu agresja reaktywna.
+**Statusy rówieśnicze** (Coie, Dodge & Coppotelli, 1982) - metoda nominacji socjometrycznych wyróżnia dzieci **popularne**, **przeciętne**, **odrzucone**, **zaniedbywane** i **kontrowersyjne**. Status odrzuconego jest powiązany z długoterminowymi trudnościami adaptacyjnymi, szczególnie gdy towarzyszy mu agresja reaktywna.
 
 ---
 
@@ -90,9 +90,9 @@ Harter (1982) wyróżniła **pięć domen samooceny** w wieku szkolnym:
 
 ## Poznanie społeczne i teoria umysłu
 
-Teoria umysłu (*Theory of Mind*, ToM) — rozumienie, że inni mają przekonania, pragnienia i intencje mogące różnić się od własnych — osiąga swoją podstawową formę ok. 4. roku życia (klasyczne zadanie fałszywego przekonania; Wimmer & Perner, 1983). W wieku szkolnym ToM staje się bardziej wyrafinowana:
+Teoria umysłu (*Theory of Mind*, ToM) - rozumienie, że inni mają przekonania, pragnienia i intencje mogące różnić się od własnych - osiąga swoją podstawową formę ok. 4. roku życia (klasyczne zadanie fałszywego przekonania; Wimmer & Perner, 1983). W wieku szkolnym ToM staje się bardziej wyrafinowana:
 
-- **ToM drugiego rzędu** (co X sądzi, że Y myśli) — ok. 6–7 lat
+- **ToM drugiego rzędu** (co X sądzi, że Y myśli) - ok. 6–7 lat
 - Rozumienie ironii, sarkazmu i kłamstwa białego
 - Wrażliwość na reputację i zarządzanie wizerunkiem
 
@@ -100,7 +100,7 @@ Deficyty ToM wiążą się ze spektrum autyzmu (Baron-Cohen, 1995) oraz trudnoś
 
 ---
 
-## Umiejętności akademickie — podstawy neuropsychologiczne
+## Umiejętności akademickie - podstawy neuropsychologiczne
 
 Nabycie umiejętności czytania i pisania angażuje sieci neuralne łączące kory: wzrokową, słuchową i ruchową. Model **double-deficit** (Wolf & Bowers, 1999) wyróżnia dwie główne drogi trudności w czytaniu:
 
@@ -109,13 +109,13 @@ Nabycie umiejętności czytania i pisania angażuje sieci neuralne łączące ko
 
 Ich jednoczesne wystąpienie tworzy najgłębszą dysleksję.
 
-**Pamięć robocza** jest kluczowa dla postępów matematycznych — dzieci z niską pojemnością pamięci roboczej mają trudności z zadaniami wielokrokowymi nawet przy prawidłowym rozumieniu konceptualnym (Gathercole & Alloway, 2008).
+**Pamięć robocza** jest kluczowa dla postępów matematycznych - dzieci z niską pojemnością pamięci roboczej mają trudności z zadaniami wielokrokowymi nawet przy prawidłowym rozumieniu konceptualnym (Gathercole & Alloway, 2008).
 
 ---
 
 ## Podsumowanie
 
-Wiek szkolny to okres skokowego wzrostu kompetencji logicznych i społecznych. Myślenie operacyjne umożliwia systematyczne rozumowanie, relacje rówieśnicze dostarczają lustrzanego odbicia własnych zdolności, a szkoła stwarza przestrzeń do testowania i konsolidowania tożsamości kompetencyjnej. Wygotskiego perspektywa przypomina, że ten rozwój jest zawsze osadzony w relacji i kulturze — dziecko nie rośnie samo, lecz w nieustannym dialogu z bardziej doświadczonymi innymi.
+Wiek szkolny to okres skokowego wzrostu kompetencji logicznych i społecznych. Myślenie operacyjne umożliwia systematyczne rozumowanie, relacje rówieśnicze dostarczają lustrzanego odbicia własnych zdolności, a szkoła stwarza przestrzeń do testowania i konsolidowania tożsamości kompetencyjnej. Wygotskiego perspektywa przypomina, że ten rozwój jest zawsze osadzony w relacji i kulturze - dziecko nie rośnie samo, lecz w nieustannym dialogu z bardziej doświadczonymi innymi.
 
 ---
 

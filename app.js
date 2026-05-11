@@ -1,6 +1,6 @@
-/*
- * app.js â€” gĹ‚Ăłwne ĹşrĂłdĹ‚o logiki SPA w projekcie PsyHub.
- * Plik odpowiada za routing, renderowanie widokĂłw i obsĹ‚ugÄ™ interakcji UI.
+﻿/*
+ * app.js â€” gł‚owne łşrodł‚o logiki SPA w projekcie PsyHub.
+ * Plik odpowiada za routing, renderowanie widokow i obsł‚uge interakcji UI.
  */
 
 /* â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
@@ -8,19 +8,19 @@
 â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• */
 function md2html(src, currentFilePath = '') {
   const esc = s => s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
-  /* Escapuje wartoĹ›ci atrybutĂłw HTML, aby bezpiecznie wstawiaÄ‡ href. */
+  /* Escapuje wartoł›ci atrybutow HTML, aby bezpiecznie wstawiać href. */
   const escAttr = s => String(s || '').replace(/&/g,'&amp;').replace(/"/g,'&quot;');
   const footnoteDefs = new Map();
   const footnoteOrder = [];
   const footnoteIndex = new Map();
 
-  /* WyodrÄ™bnia definicje przypisĂłw z koĹ„ca/Ĺ›rodka dokumentu i usuwa je z treĹ›ci gĹ‚Ăłwnej. */
+  /* Wyodrebnia definicje przypisow z koł„ca/ł›rodka dokumentu i usuwa je z treł›ci gł‚ownej. */
   src = src.replace(/^\[\^([^\]\s]+)\]:\s*(.+)$/gm, (_, id, content) => {
     footnoteDefs.set(id, content.trim());
     return '';
   });
 
-  /* Rejestruje pierwsze uĹĽycie identyfikatora przypisu i zwraca jego numer porzÄ…dkowy. */
+  /* Rejestruje pierwsze użycie identyfikatora przypisu i zwraca jego numer porządkowy. */
   const getFootnoteNumber = id => {
     if (!footnoteIndex.has(id)) {
       footnoteOrder.push(id);
@@ -29,7 +29,7 @@ function md2html(src, currentFilePath = '') {
     return footnoteIndex.get(id);
   };
 
-  /* Renderuje inline markdown; opcjonalnie zamienia odwoĹ‚ania [^id] na superskrypty z kotwicami. */
+  /* Renderuje inline markdown; opcjonalnie zamienia odwoł‚ania [^id] na superskrypty z kotwicami. */
   const inl = (s, opts = { parseFootnotes: true }) => {
     s = esc(s);
     s = s
@@ -65,7 +65,7 @@ function md2html(src, currentFilePath = '') {
   src = src.replace(/((?:^>.*\n?)+)/gm, blk => {
     return `<blockquote><p>${inl(blk.replace(/^>\s?/gm,'').trim())}</p></blockquote>\n`;
   });
-  /* Renderuje listy wielopoziomowe (UL/OL) na podstawie wciÄ™Ä‡ i typu markerĂłw. */
+  /* Renderuje listy wielopoziomowe (UL/OL) na podstawie wcieć i typu markerow. */
   const renderNestedListBlock = (block) => {
     const lines = block
       .split('\n')
@@ -127,7 +127,7 @@ function md2html(src, currentFilePath = '') {
     return html + '\n';
   };
 
-  /* Przetwarza kolejne bloki list i zachowuje pozostaĹ‚e linie bez zmian. */
+  /* Przetwarza kolejne bloki list i zachowuje pozostał‚e linie bez zmian. */
   const renderNestedLists = (markdown) => {
     const lines = markdown.split('\n');
     const out = [];
@@ -150,7 +150,7 @@ function md2html(src, currentFilePath = '') {
     return out.join('\n');
   };
   src = renderNestedLists(src);
-  /* Normalizuje granice blokĂłw HTML, ĹĽeby parser akapitĂłw nie wyĹ›wietlaĹ‚ tagĂłw jako tekstu. */
+  /* Normalizuje granice blokow HTML, żeby parser akapitow nie wył›wietlał‚ tagow jako tekstu. */
   src = src
     .replace(/([^\n])\n(<(?:h[1-4]|blockquote|ul|ol|pre|div|hr)\b[^>]*>)/g, '$1\n\n$2')
     .replace(/(<\/(?:h[1-4]|blockquote|ul|ol|pre|div)>|<hr>)\n?(?=\S)/g, '$1\n\n');
@@ -161,13 +161,13 @@ function md2html(src, currentFilePath = '') {
     return `<p>${inl(blk.replace(/\n/g,' '))}</p>`;
   }).join('\n');
 
-  /* Dodaje koĹ„cowÄ… sekcjÄ™ przypisĂłw w kolejnoĹ›ci pierwszego cytowania wraz z linkiem powrotnym. */
+  /* Dodaje koł„cową sekcje przypisow w kolejnoł›ci pierwszego cytowania wraz z linkiem powrotnym. */
   if (footnoteOrder.length) {
     const footnotesHtml = footnoteOrder.map(id => {
       const no = footnoteIndex.get(id);
-      const rawContent = footnoteDefs.get(id) || 'Brak opisu ĹşrĂłdĹ‚a.';
+      const rawContent = footnoteDefs.get(id) || 'Brak opisu łşrodł‚a.';
       const renderedContent = inl(rawContent, { parseFootnotes: false });
-      return `<li id="fn-${id}">${renderedContent} <a class="fn-back" href="#fnref-${id}" aria-label="PowrĂłt do cytowania ${no}">â†©</a></li>`;
+      return `<li id="fn-${id}">${renderedContent} <a class="fn-back" href="#fnref-${id}" aria-label="Powrot do cytowania ${no}">â†©</a></li>`;
     }).join('');
     src += `\n<section class="footnotes"><h2>Przypisy</h2><ol>${footnotesHtml}</ol></section>`;
   }
@@ -175,7 +175,7 @@ function md2html(src, currentFilePath = '') {
   return src;
 }
 
-/* Buduje mapÄ™ Ĺ›cieĹĽka-pliku -> id strony dla artykuĹ‚Ăłw znajdujÄ…cych siÄ™ w nawigacji. */
+/* Buduje mape ł›cieżka-pliku -> id strony dla artykuł‚ow znajdujących sie w nawigacji. */
 function buildArticleFileToIdMap() {
   if (articleFileToIdMapCache) return articleFileToIdMapCache;
   const map = new Map();
@@ -187,7 +187,7 @@ function buildArticleFileToIdMap() {
   return articleFileToIdMapCache;
 }
 
-/* Normalizuje Ĺ›cieĹĽki do wspĂłlnego formatu porĂłwnawczego (slash, brak prefiksu "./"). */
+/* Normalizuje ł›cieżki do wspolnego formatu porownawczego (slash, brak prefiksu "./"). */
 function normalizePathForArticleLookup(rawPath) {
   return String(rawPath || '')
     .replace(/\\/g, '/')
@@ -195,7 +195,7 @@ function normalizePathForArticleLookup(rawPath) {
     .replace(/\/{2,}/g, '/');
 }
 
-/* Upraszcza segmenty "." oraz ".." w Ĺ›cieĹĽce wzglÄ™dnej bez dostÄ™pu do API Node. */
+/* Upraszcza segmenty "." oraz ".." w ł›cieżce wzglednej bez dostepu do API Node. */
 function normalizeRelativePath(baseDir, rawTarget) {
   const baseSegments = normalizePathForArticleLookup(baseDir).split('/').filter(Boolean);
   const targetSegments = normalizePathForArticleLookup(rawTarget).split('/').filter(Boolean);
@@ -211,7 +211,7 @@ function normalizeRelativePath(baseDir, rawTarget) {
   return output.join('/');
 }
 
-/* TĹ‚umaczy odnoĹ›niki markdown do formy hash-route, jeĹ›li wskazujÄ… istniejÄ…ce artykuĹ‚y PsyHub. */
+/* Tł‚umaczy odnoł›niki markdown do formy hash-route, jeł›li wskazują istniejące artykuł‚y PsyHub. */
 function resolveArticleLinkHref(rawHref, currentFilePath) {
   const href = String(rawHref || '').trim();
   if (!href) return href;
@@ -254,7 +254,7 @@ var pageMap = new Map();
 var articleFileToIdMapCache = null;
 var mdCache = new Map();
 
-/* Pobiera treĹ›Ä‡ artykuĹ‚u, stosujÄ…c kilka wariantĂłw Ĺ›cieĹĽki dla zgodnoĹ›ci z rĂłĹĽnymi Ĺ›rodowiskami hostingu. */
+/* Pobiera treść artykułu, stosując kilka wariantow ł›cieżki dla zgodnoł›ci z rożnymi ł›rodowiskami hostingu. */
 async function fetchArticleMarkdown(filePath) {
   const normalized = String(filePath || '').trim();
   const candidates = [
@@ -277,10 +277,10 @@ async function fetchArticleMarkdown(filePath) {
     }
   }
 
-  throw lastError || new Error(`Nie udaĹ‚o siÄ™ pobraÄ‡ pliku: ${normalized}`);
+  throw lastError || new Error(`Nie udał‚o sie pobrać pliku: ${normalized}`);
 }
 
-var emptyArticles = new Set();   /* IDs of articles whose files sÄ… puste lub niedostÄ™pne. */
+var emptyArticles = new Set();   /* IDs of articles whose files są puste lub niedostepne. */
 var testAnswers = [];
 var testCurrentIndex = 0;
 var testAttemptState = { started: false, completed: false };
@@ -294,7 +294,7 @@ const SPECIALIZATION_TEST_COUNTER_KEY = 'psyhub-specialization-test-counter';
 const RECENT_PAGES_KEY = 'psyhub-recent-pages';
 const RECENT_PAGES_LIMIT = 5;
 
-/* Zwraca klucz daty (YYYY-MM-DD) w lokalnej strefie uĹĽytkownika do licznika dziennego. */
+/* Zwraca klucz daty (YYYY-MM-DD) w lokalnej strefie użytkownika do licznika dziennego. */
 function getTodayDateKey() {
   const now = new Date();
   const y = now.getFullYear();
@@ -303,7 +303,7 @@ function getTodayDateKey() {
   return `${y}-${m}-${d}`;
 }
 
-/* Odczytuje licznik z localStorage i zwraca bezpieczny obiekt z wartoĹ›ciami domyĹ›lnymi. */
+/* Odczytuje licznik z localStorage i zwraca bezpieczny obiekt z wartoł›ciami domył›lnymi. */
 function readSpecializationTestCounter() {
   try {
     const raw = localStorage.getItem(SPECIALIZATION_TEST_COUNTER_KEY);
@@ -317,12 +317,12 @@ function readSpecializationTestCounter() {
   }
 }
 
-/* Zapisuje zaktualizowany licznik wszystkich i dziennych ukoĹ„czeĹ„ testu specjalizacji. */
+/* Zapisuje zaktualizowany licznik wszystkich i dziennych ukoł„czeł„ testu specjalizacji. */
 function writeSpecializationTestCounter(counter) {
   localStorage.setItem(SPECIALIZATION_TEST_COUNTER_KEY, JSON.stringify(counter));
 }
 
-/* Rejestruje zakoĹ„czone podejĹ›cie dokĹ‚adnie raz na jedno przejĹ›cie testu. */
+/* Rejestruje zakoł„czone podejł›cie dokł‚adnie raz na jedno przejł›cie testu. */
 function registerCompletedSpecializationAttempt() {
   if (testAttemptState.completed) return;
   const counter = readSpecializationTestCounter();
@@ -333,7 +333,7 @@ function registerCompletedSpecializationAttempt() {
   testAttemptState.completed = true;
 }
 
-/* Odczytuje listÄ™ ostatnio odwiedzonych stron i filtruje niepoprawne wpisy. */
+/* Odczytuje liste ostatnio odwiedzonych stron i filtruje niepoprawne wpisy. */
 function readRecentPages() {
   try {
     const raw = localStorage.getItem(RECENT_PAGES_KEY);
@@ -348,19 +348,19 @@ function readRecentPages() {
   }
 }
 
-/* Zapisuje listÄ™ ostatnio odwiedzonych stron w localStorage. */
+/* Zapisuje liste ostatnio odwiedzonych stron w localStorage. */
 function writeRecentPages(ids) {
   localStorage.setItem(RECENT_PAGES_KEY, JSON.stringify(ids.slice(0, RECENT_PAGES_LIMIT)));
 }
 
-/* Dodaje stronÄ™ do historii ostatnich wizyt, przenoszÄ…c jÄ… na poczÄ…tek listy. */
+/* Dodaje strone do historii ostatnich wizyt, przenosząc ją na początek listy. */
 function addRecentPage(id) {
   if (!id || !pageMap.has(id)) return;
   const deduped = [id, ...readRecentPages().filter(existingId => existingId !== id)];
   writeRecentPages(deduped);
 }
 
-/* Zwraca kolejnÄ… stronÄ™ w tym samym dziale jako proponowany â€žnastÄ™pny krokâ€ť. */
+/* Zwraca kolejną strone w tym samym dziale jako proponowany nastepny krokâ€ť. */
 function getNextStepItem(id) {
   const activeId = id || SITE_CONFIG.defaultPage;
   const activeItem = pageMap.get(activeId);
@@ -372,20 +372,20 @@ function getNextStepItem(id) {
   return section.items[idx + 1] || null;
 }
 
-/* Aktualizuje skrĂłt â€žnastÄ™pny krokâ€ť w topbarze zaleĹĽnie od bieĹĽÄ…cej strony. */
+/* Aktualizuje skrot nastepny krokâ€ť w topbarze zależnie od bieżącej strony. */
 function updateTopbarNextStep(id) {
   const host = document.getElementById('topbarNextStep');
   if (!host) return;
   const nextItem = getNextStepItem(id);
   if (!nextItem) {
     host.innerHTML = `<button type="button" class="next-step-btn" onclick="navigate('dla_studentow/testy_teoretyczne')">
-      <span class="next-step-label">NastÄ™pny krok</span>
-      <span class="next-step-title">SprawdĹş siÄ™ testem</span>
+      <span class="next-step-label">Nastepny krok</span>
+      <span class="next-step-title">Sprawdłş sie testem</span>
     </button>`;
     return;
   }
   host.innerHTML = `<button type="button" class="next-step-btn" onclick="navigate('${q(nextItem.id)}')">
-    <span class="next-step-label">NastÄ™pny krok</span>
+    <span class="next-step-label">Nastepny krok</span>
     <span class="next-step-title">${q(nextItem.label)}</span>
   </button>`;
 }
@@ -397,22 +397,22 @@ function buildPageMap() {
       pageMap.set(item.id, {
         ...item,
         section: sec.section,
-        /* Jawny domainKey z konfiguracji ma pierwszeĹ„stwo; fallback utrzymuje kompatybilnoĹ›Ä‡ starszych wpisĂłw. */
+        /* Jawny domainKey z konfiguracji ma pierwszeł„stwo; fallback utrzymuje kompatybilnoł›ć starszych wpisow. */
         domainKey: item.domainKey || sec.domainKey || inferDomainKeyFromId(item.id),
       });
 }
 
-/* Wyznacza klucz dziedziny z identyfikatora strony jako mechanizm zgodnoĹ›ci wstecznej. */
+/* Wyznacza klucz dziedziny z identyfikatora strony jako mechanizm zgodnoł›ci wstecznej. */
 function inferDomainKeyFromId(id) {
   return typeof id === 'string' ? (id.split('/')[0] || '') : '';
 }
 
-/* Zwraca klucz dziedziny wpisu z preferencjÄ… dla jawnego domainKey. */
+/* Zwraca klucz dziedziny wpisu z preferencją dla jawnego domainKey. */
 function getDomainKeyForItem(id, item) {
   return item?.domainKey || pageMap.get(id)?.domainKey || inferDomainKeyFromId(id);
 }
 
-/* Parsuje prosty frontmatter YAML (key: value) i zwraca metadane oraz treĹ›Ä‡ bez nagĹ‚Ăłwka. */
+/* Parsuje prosty frontmatter YAML (key: value) i zwraca metadane oraz treść bez nagł‚owka. */
 function parseArticleFrontmatter(rawText) {
   if (typeof rawText !== 'string' || !rawText.startsWith('---\n')) {
     return { metadata: {}, body: rawText };
@@ -439,7 +439,7 @@ function parseArticleFrontmatter(rawText) {
   return { metadata, body };
 }
 
-/* Formatuje datÄ™ do postaci MM.RRRR; dla bĹ‚Ä™dnych wartoĹ›ci zwraca null. */
+/* Formatuje date do postaci MM.RRRR; dla bł‚ednych wartoł›ci zwraca null. */
 function formatMonthYear(value) {
   if (!value) return null;
   const parsed = new Date(`${value}T00:00:00Z`);
@@ -449,7 +449,7 @@ function formatMonthYear(value) {
   return `${month}.${year}`;
 }
 
-/* WyciÄ…ga rok z peĹ‚nej daty ISO albo liczby zapisanej jako tekst. */
+/* Wyciąga rok z peł‚nej daty ISO albo liczby zapisanej jako tekst. */
 function extractYear(value) {
   if (typeof value === 'number' && Number.isFinite(value)) return String(Math.trunc(value));
   if (typeof value !== 'string') return null;
@@ -461,7 +461,7 @@ function extractYear(value) {
   return String(parsed.getUTCFullYear());
 }
 
-/* Oblicza liczbÄ™ peĹ‚nych miesiÄ™cy miÄ™dzy datÄ… referencyjnÄ… a podanÄ… datÄ…. */
+/* Oblicza liczbe peł‚nych miesiecy miedzy datą referencyjną a podaną datą. */
 function monthsSince(value, referenceDate = new Date()) {
   const parsed = new Date(`${value}T00:00:00Z`);
   if (Number.isNaN(parsed.getTime())) return null;
@@ -470,7 +470,7 @@ function monthsSince(value, referenceDate = new Date()) {
   return (yearsDiff * 12) + monthsDiff;
 }
 
-/* Buduje badge metadanych artykuĹ‚u oraz neutralny komunikat o potrzebie przeglÄ…du. */
+/* Buduje badge metadanych artykułu oraz neutralny komunikat o potrzebie przeglądu. */
 function renderArticleReviewMetaBadges(metadata) {
   const lastReviewed = formatMonthYear(metadata?.lastReviewed);
   const cutoffYear = extractYear(metadata?.evidenceCutoffDate);
@@ -482,13 +482,13 @@ function renderArticleReviewMetaBadges(metadata) {
 
   const badges = [];
   if (lastReviewed) badges.push(`<span class="review-meta-badge">Zweryfikowano: ${q(lastReviewed)}</span>`);
-  if (cutoffYear) badges.push(`<span class="review-meta-badge">PrzeglÄ…d ĹşrĂłdeĹ‚ do: ${q(cutoffYear)}</span>`);
-  if (isStale) badges.push('<span class="review-meta-badge is-stale">Wymaga przeglÄ…du literatury</span>');
+  if (cutoffYear) badges.push(`<span class="review-meta-badge">Przegląd źródeł do: ${q(cutoffYear)}</span>`);
+  if (isStale) badges.push('<span class="review-meta-badge is-stale">Wymaga przeglądu literatury</span>');
 
   return `<div class="review-meta-badges">${badges.join('')}</div>`;
 }
 
-/* Buduje badge metadanych karty narzÄ™dzia pomiarowego wraz z flagÄ… przeterminowania. */
+/* Buduje badge metadanych karty narzedzia pomiarowego wraz z flagą przeterminowania. */
 function renderToolReviewMetaBadges(tool) {
   const lastReviewed = formatMonthYear(tool?.lastReviewed);
   const sourceYear = extractYear(tool?.primarySourceYear);
@@ -499,13 +499,13 @@ function renderToolReviewMetaBadges(tool) {
 
   const badges = [];
   if (lastReviewed) badges.push(`<span class="review-meta-badge">Zweryfikowano: ${q(lastReviewed)}</span>`);
-  if (sourceYear) badges.push(`<span class="review-meta-badge">PrzeglÄ…d ĹşrĂłdeĹ‚ do: ${q(sourceYear)}</span>`);
-  if (isStale) badges.push('<span class="review-meta-badge is-stale">Wymaga przeglÄ…du literatury</span>');
+  if (sourceYear) badges.push(`<span class="review-meta-badge">Przegląd źródeł do: ${q(sourceYear)}</span>`);
+  if (isStale) badges.push('<span class="review-meta-badge is-stale">Wymaga przeglądu literatury</span>');
 
   return `<div class="review-meta-badges">${badges.join('')}</div>`;
 }
 
-/* Weryfikuje konfiguracjÄ™ nav i ostrzega o sekcjach bez jawnego domainKey. */
+/* Weryfikuje konfiguracje nav i ostrzega o sekcjach bez jawnego domainKey. */
 function warnAboutMissingDomainKeys() {
   if (!Array.isArray(SITE_CONFIG?.nav)) return;
   SITE_CONFIG.nav.forEach(section => {
@@ -515,11 +515,11 @@ function warnAboutMissingDomainKeys() {
   });
 }
 
-/* Waliduje konfiguracjÄ™ narzÄ™dzi pomiarowych i raportuje problemy z poziomem error/warn. */
+/* Waliduje konfiguracje narzedzi pomiarowych i raportuje problemy z poziomem error/warn. */
 function runMeasurementToolsConfigValidation(options = {}) {
   const validator = window.MeasurementToolsConfigValidator?.validateMeasurementToolsConfig;
   if (typeof validator !== 'function') {
-    console.warn('[PsyHub][measurement-tools][warn] validator/unavailable | Nie znaleziono moduĹ‚u walidatora.');
+    console.warn('[PsyHub][measurement-tools][warn] validator/unavailable | Nie znaleziono moduł‚u walidatora.');
     return { allIssues: [], errors: [], warnings: [], isValid: true };
   }
 
@@ -534,14 +534,14 @@ function runMeasurementToolsConfigValidation(options = {}) {
   });
 
   if (report.errors.length === 0 && report.warnings.length === 0) {
-    console.info('[PsyHub][measurement-tools][ok] Walidacja konfiguracji zakoĹ„czona bez uwag.');
+    console.info('[PsyHub][measurement-tools][ok] Walidacja konfiguracji zakoł„czona bez uwag.');
   }
 
   return report;
 }
 
 /* â”€â”€ Empty article indicator refresh â”€â”€â”€â”€â”€â”€â”€â”€ */
-const EMPTY_BANNER_HTML = `<div class="empty-banner"><span class="empty-banner-icon">âš </span><div class="empty-banner-text">ArtykuĹ‚ jeszcze nie zawiera treĹ›ci â€” zostanie uzupeĹ‚niony wkrĂłtce.</div></div>`;
+const EMPTY_BANNER_HTML = `<div class="empty-banner"><span class="empty-banner-icon">⚠</span><div class="empty-banner-text">Artykuł jeszcze nie zawiera treści — zostanie uzupełniony wkrótce.</div></div>`;
 
 function isBodyEmpty(text) {
   const h1m = text.match(/^#\s+(.+)$/m);
@@ -573,59 +573,59 @@ function updateEmptyIndicators() {
 }
 
 
-/* Mapa topikĂłw porzÄ…dkujÄ…ca sekcje w bardziej czytelnÄ…, hierarchicznÄ… nawigacjÄ™ bocznÄ…. */
+/* Mapa topikow porządkująca sekcje w bardziej czytelną, hierarchiczną nawigacje boczną. */
 const SIDEBAR_TOPIC_GROUPS = [
   {
     id: 'fundamenty',
     label: 'Fundamenty psychologii',
     colorClass: 'topic-fundamenty',
-    sections: ['Wprowadzenie', 'Filozofia', 'Dla studentĂłw', 'Seminarium dyplomowe', 'Eksperyment psychologiczny']
+    sections: ['Wprowadzenie', 'Filozofia', 'Dla studentow', 'Seminarium dyplomowe', 'Eksperyment psychologiczny']
   },
   {
     id: 'procesy',
-    label: 'Procesy psychiczne i rĂłĹĽnice indywidualne',
+    label: 'Procesy psychiczne i różnice indywidualne',
     colorClass: 'topic-procesy',
-    sections: ['Funkcje poznawcze', 'Emocje i motywacje', 'Temperament', 'RĂłĹĽnice indywidualne', 'Psychologia pozytywna']
+    sections: ['Funkcje poznawcze', 'Emocje i motywacje', 'Temperament', 'Roznice indywidualne', 'Psychologia pozytywna', 'Odpornosc psychiczna']
   },
   {
     id: 'rozwoj-spoleczenstwo',
-    label: 'RozwĂłj, relacje i spoĹ‚eczeĹ„stwo',
+    label: 'Rozwój, relacje i społeczeństwo',
     colorClass: 'topic-rozwoj',
-    sections: ['Psychologia Rozwojowa', 'Psychologia SpoĹ‚eczna', 'Psychologia Kulturowa', 'Relacje i zwiÄ…zki', 'Psychologia szkolna i edukacyjna', 'Psychologia osĂłb z niepeĹ‚nosprawnoĹ›ciÄ…', 'Psychologia osĂłb w podeszĹ‚ym wieku']
+    sections: ['Psychologia Rozwojowa', 'Psychologia spoleczna', 'Psychologia kulturowa', 'Psychologia religii', 'Relacje i zwiazki', 'Psychologia szkolna i edukacyjna', 'Psychologia osob z niepelnosprawnoscia', 'Psychologia osob w podeszlym wieku']
   },
   {
     id: 'klinika',
     label: 'Klinika, zdrowie i pomoc',
     colorClass: 'topic-klinika',
-    sections: ['Psychopatologia', 'Zaburzenia kliniczne', 'Przypadki kliniczne', 'Diagnoza psychologiczna (proces)', 'Diagnoza psychologiczna', 'Psychometria', 'Psychoterapia', 'Psychologia zdrowia', 'Psychosomatyka', 'Podstawy pomocy psychologicznej', 'Suicydologia', 'WstÄ™p do psychologii klinicznej dziecka']
+    sections: ['Psychopatologia', 'Zaburzenia kliniczne', 'Przypadki kliniczne', 'Diagnoza psychologiczna', 'Psychometria', 'Testy psychologiczne', 'Psychoterapia', 'Psychologia zdrowia', 'Psychosomatyka', 'Podstawy pomocy psychologicznej', 'Suicydologia', 'Wstep do psychologii klinicznej dziecka', 'Somatic Experiencing', 'Systemy Rodzinne']
   },
   {
     id: 'neuro',
     label: 'Neuro i biologiczne podstawy',
     colorClass: 'topic-neuro',
-    sections: ['Biologiczne podstawy zachowania', 'Neurobiologia', 'Farmakologia', 'NeurorĂłĹĽnorodnoĹ›Ä‡']
+    sections: ['Biologiczne podstawy zachowania', 'Neurobiologia', 'Farmakologia', 'Neuroroznorodnosc']
   },
   {
     id: 'specjalizacje',
     label: 'Specjalizacje i konteksty stosowane',
     colorClass: 'topic-specjalizacje',
-    sections: ['Psychologia UzaleĹĽnieĹ„', 'Etyka zawodowa', 'Psychologia sÄ…dowa i opiniowanie', 'Seksuologia', 'Resocjalizacja', 'Instytucje pomocy dziecku i rodzinie', 'Reagowanie na krytykÄ™', 'Psychologia nadmiernego jedzenia']
+    sections: ['Psychologia uzaleznien', 'Etyka zawodowa', 'Psychologia sadowa i opiniowanie', 'Seksuologia', 'Resocjalizacja', 'Instytucje pomocy dziecku i rodzinie', 'Reagowanie na krytyke', 'Psychologia nadmiernego jedzenia']
   },
   {
     id: 'technologia',
     label: 'Technologia, media i nowe obszary',
     colorClass: 'topic-technologia',
-    sections: ['Psychologia gier wideo', 'Psychologia Sztucznej Inteligencji', 'Psychologia technologii i dobrostan cyfrowy', 'Robotyka afektywna i kognitywistyka', 'E-terapia', 'Ekrany, ksiÄ…ĹĽki,, a natura', 'Porozumiewanie siÄ™ bez przemocy (NVC)', 'Arteterapia', 'Animaloterapia']
+    sections: ['Psychologia gier wideo', 'Psychologia sztucznej inteligencji', 'Psychologia technologii i dobrostan cyfrowy', 'Robotyka afektywna i kognitywistyka', 'E-terapia', 'Ekrany, ksiazki, a natura', 'Porozumiewanie sie bez przemocy (NVC)', 'Arteterapia', 'Animaloterapia']
   },
   {
     id: 'zasoby',
-    label: 'Zasoby i sĹ‚owniki',
+    label: 'Zasoby i słowniki',
     colorClass: 'topic-zasoby',
     sections: ['Encyklopedie', 'Referencje']
   }
 ];
 
-/* Grupuje sekcje konfiguracji nawigacji do topikĂłw; sekcje nieprzypisane trafiajÄ… do grupy â€žPozostaĹ‚eâ€ť. */
+/* Grupuje sekcje konfiguracji nawigacji do topikow; sekcje nieprzypisane trafiają do grupy â€žPozostał‚eâ€ť. */
 function buildSidebarTopicGroups() {
   const sectionMap = new Map(SITE_CONFIG.nav.map(section => [section.section, section]));
   const consumed = new Set();
@@ -646,7 +646,7 @@ function buildSidebarTopicGroups() {
   if (leftoverSections.length > 0) {
     groups.push({
       id: 'pozostale',
-      label: 'PozostaĹ‚e',
+      label: 'Pozostałe',
       colorClass: 'topic-pozostale',
       sections: leftoverSections
     });
@@ -662,7 +662,7 @@ function renderSidebar() {
   const activeItem = pageMap.get(active);
   const activeSec  = activeItem ? activeItem.section : null;
   let html = '';
-  /* Buduje dwupoziomowÄ… strukturÄ™: topik (kolor) â†’ sekcja (zwijana lista artykuĹ‚Ăłw). */
+  /* Buduje dwupoziomową strukture: topik (kolor) â†’ sekcja (zwijana lista artykuł‚ow). */
   const topicGroups = buildSidebarTopicGroups();
   topicGroups.forEach((topic, topicIndex) => {
     html += `<section class="sidebar-topic ${topic.colorClass}" data-topic="${q(topic.id)}">`;
@@ -679,7 +679,7 @@ function renderSidebar() {
       html += `</button><div class="nav-items" id="${panelId}" role="group" aria-labelledby="${triggerId}">`;
       for (const item of sec.items) {
         if (item.href) {
-          html += `<a class="nav-item nav-item-external" href="${q(item.href)}" target="_blank" rel="noopener noreferrer">${item.label} â†—</a>`;
+          html += `<a class="nav-item nav-item-external" href="${q(item.href)}" target="_blank" rel="noopener noreferrer">${item.label} â†-</a>`;
         } else {
           const cls = ['nav-item', item.wiki?'is-wiki':'', item.kind === 'test' ? 'nav-item-test' : '', item.id===active?'is-active':''].filter(Boolean).join(' ');
           html += `<button type="button" class="${cls} nav-item-btn" data-action="navigate" data-id="${item.id}">${item.label}</button>`;
@@ -692,7 +692,7 @@ function renderSidebar() {
   });
   nav.innerHTML = html;
 }
-/* Bezpiecznie escapuje tekst do atrybutĂłw HTML; akceptuje takĹĽe wartoĹ›ci niebÄ™dÄ…ce stringiem. */
+/* Bezpiecznie escapuje tekst do atrybutow HTML; akceptuje także wartoł›ci niebedące stringiem. */
 function q(value){
   return String(value ?? '')
     .replace(/&/g,'&amp;')
@@ -700,7 +700,7 @@ function q(value){
 }
 
 function toggleGroup(group) {
-  /* PrzeĹ‚Ä…cza jednÄ… grupÄ™ i synchronizuje stan aria-expanded wszystkich nagĹ‚ĂłwkĂłw. */
+  /* Przeł‚ącza jedną grupe i synchronizuje stan aria-expanded wszystkich nagł‚owkow. */
   if (!group) return;
   const isOpen = group.classList.contains('open');
   document.querySelectorAll('.nav-group').forEach(g => {
@@ -734,7 +734,7 @@ function setActive(id) {
   }
 }
 
-/* ObsĹ‚uguje klikniÄ™cia i skrĂłty klawiaturowe dla elementĂłw sidebaru przez delegacjÄ™ zdarzeĹ„. */
+/* Obsł‚uguje klikniecia i skroty klawiaturowe dla elementow sidebaru przez delegacje zdarzeł„. */
 function setupSidebarInteractions() {
   const nav = document.getElementById('sidebarNav');
   if (!nav) return;
@@ -780,7 +780,7 @@ function navigate(id, replaceHistory) {
   if (!normalizedId) return;
   const item = pageMap.get(normalizedId);
   if (!item) return;
-  /* Dla kaĹĽdej zmiany podstrony wymuszamy start od gĂłry, aby UX byĹ‚o przewidywalne. */
+  /* Dla każdej zmiany podstrony wymuszamy start od gory, aby UX był‚o przewidywalne. */
   window.scrollTo(0, 0);
   cleanupArticleTocObserver();
   current = normalizedId;
@@ -801,29 +801,29 @@ function navigate(id, replaceHistory) {
 /* â”€â”€ Load markdown â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
 async function loadMd(id, item) {
   const area = document.getElementById('content');
-  area.innerHTML = '<div class="loading"><div class="spinner"></div>Ĺadowanieâ€¦</div>';
+  area.innerHTML = '<div class="loading"><div class="spinner"></div>ładowanieâ€¦</div>';
   setBreadcrumb(item);
   if (mdCache.has(item.file)) {
     try {
       renderMd(mdCache.get(item.file), id, item);
       prefetch(id);
     } catch (e) {
-      console.error('[PsyHub] BĹ‚Ä…d renderowania artykuĹ‚u z cache:', item.file, e);
-      area.innerHTML = '<div class="error-box"><h2>BĹ‚Ä…d renderowania treĹ›ci</h2><p>ArtykuĹ‚ istnieje, ale wystÄ…piĹ‚ bĹ‚Ä…d podczas wyĹ›wietlania. SprawdĹş konsolÄ™ deweloperskÄ….</p></div>';
+      console.error('[PsyHub] Błąd renderowania artykułu z cache:', item.file, e);
+      area.innerHTML = '<div class="error-box"><h2>Błąd renderowania treści</h2><p>Artykuł istnieje, ale wystąpił błąd podczas wyświetlania. Sprawdź konsolę deweloperską.</p></div>';
     }
     return;
   }
 
   let markdownText = null;
   try {
-    /* Pobieramy markdown przez helper z fallbackami Ĺ›cieĹĽek, aby zwiÄ™kszyÄ‡ niezawodnoĹ›Ä‡ na hostingu statycznym. */
+    /* Pobieramy markdown przez helper z fallbackami ł›cieżek, aby zwiekszyć niezawodnoł›ć na hostingu statycznym. */
     const fetched = await fetchArticleMarkdown(item.file);
     markdownText = fetched.text;
     mdCache.set(item.file, markdownText);
     const parsed = parseArticleFrontmatter(markdownText);
     if (isBodyEmpty(parsed.body)) { emptyArticles.add(id); updateEmptyIndicators(); }
   } catch (e) {
-    /* Brak pliku/HTTP bĹ‚Ä…d â€” traktujemy jako artykuĹ‚ w przygotowaniu. */
+    /* Brak pliku/HTTP bł‚ąd â€” traktujemy jako artykuł‚ w przygotowaniu. */
     emptyArticles.add(id);
     updateEmptyIndicators();
     const title = item.label;
@@ -857,8 +857,8 @@ async function loadMd(id, item) {
     prefetch(id);
   } catch (e) {
     /* Awaria renderowania nie oznacza braku pliku â€” pokazujemy precyzyjny komunikat. */
-    console.error('[PsyHub] BĹ‚Ä…d renderowania artykuĹ‚u:', item.file, e);
-    area.innerHTML = '<div class="error-box"><h2>BĹ‚Ä…d renderowania treĹ›ci</h2><p>ArtykuĹ‚ zostaĹ‚ wczytany, ale nie udaĹ‚o siÄ™ go wyrenderowaÄ‡. SprawdĹş konsolÄ™ deweloperskÄ….</p></div>';
+    console.error('[PsyHub] Błąd renderowania artykułu:', item.file, e);
+    area.innerHTML = '<div class="error-box"><h2>Błąd renderowania treści</h2><p>Artykuł został wczytany, ale nie udało się go wyrenderować. Sprawdź konsolę deweloperską.</p></div>';
   }
 }
 
@@ -888,7 +888,7 @@ function renderMd(text, id, item) {
   if (isEmpty) emptyArticles.add(id);
   const emptyBanner = isEmpty ? EMPTY_BANNER_HTML : '';
   const articleReviewMetaHtml = renderArticleReviewMetaBadges(metadata);
-  /* Nadajemy klasÄ™ animacji tylko tytuĹ‚owi artykuĹ‚u, aby styl byĹ‚ kontrolowany centralnie w CSS. */
+  /* Nadajemy klase animacji tylko tytuł‚owi artykułu, aby styl był‚ kontrolowany centralnie w CSS. */
 
   area.innerHTML = `<div class="rendered">
     <div class="page-hero">
@@ -918,7 +918,7 @@ function renderMd(text, id, item) {
   animateContentIn();
 }
 
-/* CzyĹ›ci obserwatora TOC, aby uniknÄ…Ä‡ wyciekĂłw i konfliktĂłw miÄ™dzy podstronami. */
+/* Czył›ci obserwatora TOC, aby uniknąć wyciekow i konfliktow miedzy podstronami. */
 function cleanupArticleTocObserver() {
   if (articleTocObserver) {
     articleTocObserver.disconnect();
@@ -928,7 +928,7 @@ function cleanupArticleTocObserver() {
   articleTocCurrentPageId = null;
 }
 
-/* Normalizuje tekst nagĹ‚Ăłwka do postaci bezpiecznego identyfikatora HTML. */
+/* Normalizuje tekst nagł‚owka do postaci bezpiecznego identyfikatora HTML. */
 function slugifyHeading(text) {
   return (text || '')
     .toLowerCase()
@@ -941,24 +941,24 @@ function slugifyHeading(text) {
 /* Rozdziela hash na identyfikator strony i opcjonalny identyfikator sekcji. */
 function parseRouteHash(rawHash) {
   const cleanHash = (rawHash || '').replace(/^#/, '');
-  /* Dekodujemy hash defensywnie (np. %2F), aby dziaĹ‚aĹ‚y takĹĽe linki kopiowane z rĂłĹĽnych ĹşrĂłdeĹ‚. */
+  /* Dekodujemy hash defensywnie (np. %2F), aby dział‚ał‚y także linki kopiowane z rożnych łşrodeł‚. */
   let decodedHash = cleanHash;
   try {
     decodedHash = decodeURIComponent(cleanHash);
   } catch (_) {
-    /* Gdy hash ma niepoprawne kodowanie, zachowujemy wartoĹ›Ä‡ surowÄ… zamiast przerywaÄ‡ routing. */
+    /* Gdy hash ma niepoprawne kodowanie, zachowujemy wartoł›ć surową zamiast przerywać routing. */
     decodedHash = cleanHash;
   }
   const [pageId, sectionId] = decodedHash.split('::');
   return { pageId: normalizePageId(pageId), sectionId: sectionId || '' };
 }
 
-/* SkĹ‚ada hash routingu strony z opcjonalnym identyfikatorem sekcji artykuĹ‚u. */
+/* Skł‚ada hash routingu strony z opcjonalnym identyfikatorem sekcji artykułu. */
 function buildRouteHash(pageId, sectionId) {
   return `#${pageId}${sectionId ? `::${sectionId}` : ''}`;
 }
 
-/* Normalizuje identyfikator strony z URL (obsĹ‚uguje m.in. #/id/, #id.md i nadmiarowe spacje). */
+/* Normalizuje identyfikator strony z URL (obsł‚uguje m.in. #/id/, #id.md i nadmiarowe spacje). */
 function normalizePageId(rawPageId) {
   if (typeof rawPageId !== 'string') return '';
   const trimmed = rawPageId.trim();
@@ -969,7 +969,7 @@ function normalizePageId(rawPageId) {
     .replace(/\.md$/i, '');
 }
 
-/* Ustawia klasÄ™ aktywnego elementu TOC na podstawie aktualnej sekcji artykuĹ‚u. */
+/* Ustawia klase aktywnego elementu TOC na podstawie aktualnej sekcji artykułu. */
 function setActiveTocItem(sectionId) {
   document.querySelectorAll('.article-toc-link').forEach(link => {
     const isActive = link.dataset.sectionId === sectionId;
@@ -979,7 +979,7 @@ function setActiveTocItem(sectionId) {
   });
 }
 
-/* Przewija do wskazanego nagĹ‚Ăłwka artykuĹ‚u i synchronizuje zaznaczenie TOC. */
+/* Przewija do wskazanego nagł‚owka artykułu i synchronizuje zaznaczenie TOC. */
 function scrollToArticleSection(sectionId) {
   if (!sectionId) return;
   const target = document.getElementById(sectionId);
@@ -988,7 +988,7 @@ function scrollToArticleSection(sectionId) {
   setActiveTocItem(sectionId);
 }
 
-/* Konfiguruje przycisk kopiowania bezpoĹ›redniego linku do aktualnie otwartego artykuĹ‚u. */
+/* Konfiguruje przycisk kopiowania bezpoł›redniego linku do aktualnie otwartego artykułu. */
 function setupCopyLinkButton(area, pageId) {
   const copyBtn = area.querySelector('#copyArticleLinkButton');
   if (!copyBtn) return;
@@ -1008,13 +1008,13 @@ function setupCopyLinkButton(area, pageId) {
         copyBtn.classList.remove('is-copied');
       }, 1200);
     } catch (_) {
-      /* Gdy Clipboard API zawiedzie, robimy fallback przez prompt dla kompatybilnoĹ›ci. */
-      window.prompt('Skopiuj link rÄ™cznie:', articleUrl.toString());
+      /* Gdy Clipboard API zawiedzie, robimy fallback przez prompt dla kompatybilnoł›ci. */
+      window.prompt('Skopiuj link recznie:', articleUrl.toString());
     }
   });
 }
 
-/* Buduje TOC z nagĹ‚ĂłwkĂłw H2/H3 i aktywuje podĹ›wietlanie sekcji podczas przewijania. */
+/* Buduje TOC z nagł‚owkow H2/H3 i aktywuje podł›wietlanie sekcji podczas przewijania. */
 function setupArticleToc(area, pageId) {
   cleanupArticleTocObserver();
   const tocHost = area.querySelector('#articleToc');
@@ -1045,14 +1045,14 @@ function setupArticleToc(area, pageId) {
   }).join('');
 
   const isMobileViewport = window.matchMedia(`(max-width: ${MOBILE_BREAKPOINT}px)`).matches;
-  /* Na urzÄ…dzeniach mobilnych umieszczamy TOC w rozwijanym panelu, aby byĹ‚ widoczny i nie zajmowaĹ‚ stale miejsca. */
+  /* Na urządzeniach mobilnych umieszczamy TOC w rozwijanym panelu, aby był‚ widoczny i nie zajmował‚ stale miejsca. */
   tocHost.innerHTML = isMobileViewport
     ? `<details class="article-toc-mobile">
-        <summary class="article-toc-mobile-summary">Spis treĹ›ci</summary>
+        <summary class="article-toc-mobile-summary">Spis treł›ci</summary>
         <ul class="article-toc-list">${tocItems}</ul>
       </details>`
     : `
-        <h2 class="article-toc-title">Spis treĹ›ci</h2>
+        <h2 class="article-toc-title">Spis treł›ci</h2>
         <ul class="article-toc-list">${tocItems}</ul>
       `;
 
@@ -1068,7 +1068,7 @@ function setupArticleToc(area, pageId) {
   articleTocHeadings = headings;
   articleTocCurrentPageId = pageId;
 
-  /* Na mobile pomijamy IntersectionObserver, aby zmniejszyÄ‡ koszt renderowania na dĹ‚ugich artykuĹ‚ach. */
+  /* Na mobile pomijamy IntersectionObserver, aby zmniejszyć koszt renderowania na dł‚ugich artykuł‚ach. */
   if (!isMobileViewport) {
     articleTocObserver = new IntersectionObserver(entries => {
       const visible = entries
@@ -1095,7 +1095,7 @@ const testsUI = window.PsyHubTestsUI || null;
 function renderSpecializationTest(id, item) {
   if (!testsUI || typeof testsUI.renderSpecializationTest !== 'function') {
     const area = document.getElementById('content');
-    area.innerHTML = '<div class="error-box"><h2>BĹ‚Ä…d Ĺ‚adowania moduĹ‚u</h2><p>Nie udaĹ‚o siÄ™ wczytaÄ‡ interfejsu testĂłw.</p></div>';
+    area.innerHTML = '<div class="error-box"><h2>Błąd ładowania modułu</h2><p>Nie udało się wczytać interfejsu testow.</p></div>';
     return;
   }
   return testsUI.renderSpecializationTest(id, item);
@@ -1105,17 +1105,17 @@ function renderSpecializationTest(id, item) {
 let dailySelectedDay = null; /* null = today */
 let dailyPsychologyFactsCache = null;
 
-/* Pobiera i buforuje listÄ™ ciekawostek do sekcji Daily Psychology. */
+/* Pobiera i buforuje liste ciekawostek do sekcji Daily Psychology. */
 async function loadDailyPsychologyFacts() {
   if (dailyPsychologyFactsCache) return dailyPsychologyFactsCache;
   const response = await fetch(REMINDER_FACTS_URL, { cache: 'no-store' });
-  if (!response.ok) throw new Error('Nie udaĹ‚o siÄ™ pobraÄ‡ ciekawostek Daily Psychology.');
+  if (!response.ok) throw new Error('Nie udał‚o sie pobrać ciekawostek Daily Psychology.');
   const payload = await response.json();
   const facts = Array.isArray(payload?.facts) ? payload.facts : [];
   dailyPsychologyFactsCache = facts
     .filter(item => item?.title && (item?.message || item?.lead || item?.body))
     .map(item => ({
-      /* Ujednolicamy schemat danych: JSON moĹĽe zawieraÄ‡ lead/body zamiast message. */
+      /* Ujednolicamy schemat danych: JSON może zawierać lead/body zamiast message. */
       title: item.title,
       message: item.message || item.lead || '',
       body: item.body || '',
@@ -1124,7 +1124,7 @@ async function loadDailyPsychologyFacts() {
   return dailyPsychologyFactsCache;
 }
 
-/* Zwraca lokalny poniedziaĹ‚ek 00:00 dla tygodnia wskazanej daty. */
+/* Zwraca lokalny poniedział‚ek 00:00 dla tygodnia wskazanej daty. */
 function getWeekStartMonday(date = new Date()) {
   const weekStart = new Date(date);
   weekStart.setHours(0, 0, 0, 0);
@@ -1134,7 +1134,7 @@ function getWeekStartMonday(date = new Date()) {
   return weekStart;
 }
 
-/* Buduje deterministyczny zestaw 7 ciekawostek aktualny od poniedziaĹ‚ku 00:00. */
+/* Buduje deterministyczny zestaw 7 ciekawostek aktualny od poniedział‚ku 00:00. */
 function getWeeklyFactsMap(facts, weekStart = getWeekStartMonday()) {
   if (!Array.isArray(facts) || facts.length === 0) return new Map();
   const MILLISECONDS_IN_A_DAY = 24 * 60 * 60 * 1000;
@@ -1155,14 +1155,14 @@ function renderDailyPsychology(id, item) {
   setBreadcrumb(item);
   const data = window.DAILY_PSYCHOLOGY;
   if (!data) {
-    area.innerHTML = '<div class="error-box"><h2>BĹ‚Ä…d Ĺ‚adowania moduĹ‚u</h2><p>Nie udaĹ‚o siÄ™ wczytaÄ‡ danych psychologii codziennej.</p></div>';
+    area.innerHTML = '<div class="error-box"><h2>Błąd ładowania modułu</h2><p>Nie udało się wczytać danych psychologii codziennej.</p></div>';
     return;
   }
-  /* PorzÄ…dek tygodnia w UI zaczynamy od poniedziaĹ‚ku niezaleĹĽnie od lokalizacji. */
+  /* Porządek tygodnia w UI zaczynamy od poniedział‚ku niezależnie od lokalizacji. */
   const WEEK_ORDER_MONDAY_FIRST = [1, 2, 3, 4, 5, 6, 0];
   const sortByMondayFirst = (entries) =>
     [...entries].sort((a, b) => WEEK_ORDER_MONDAY_FIRST.indexOf(a.day) - WEEK_ORDER_MONDAY_FIRST.indexOf(b.day));
-  /* Stabilny wybĂłr wariantu na podstawie aktualnej daty i numeru dnia. */
+  /* Stabilny wybor wariantu na podstawie aktualnej daty i numeru dnia. */
   const pickDailyVariant = (variants, dayNumber) => {
     if (!Array.isArray(variants) || variants.length === 0) return null;
     const dateKey = new Date().toISOString().slice(0, 10).replace(/-/g, '');
@@ -1177,18 +1177,18 @@ function renderDailyPsychology(id, item) {
   const curiosity = pickDailyVariant(entry.curiosityVariants, entry.day) || entry.curiosity;
   const exercise = pickDailyVariant(entry.exerciseVariants, entry.day) || entry.exercise;
 
-  /* DomyĹ›lnie renderujemy treĹ›Ä‡ lokalnÄ…; po pobraniu danych podmieniamy ciekawostkÄ™ na wariant tygodniowy. */
+  /* Domył›lnie renderujemy treść lokalną; po pobraniu danych podmieniamy ciekawostke na wariant tygodniowy. */
   const weeklyFactFallback = null;
 
   const typeLabels = {
-    reflection: 'Refleksja', challenge: 'Wyzwanie', bodyscan: 'Skan ciaĹ‚a',
-    writing: 'Pisanie', mindfulness: 'UwaĹĽnoĹ›Ä‡', social: 'Wyzwanie spoĹ‚eczne', creative: 'KreatywnoĹ›Ä‡'
+    reflection: 'Refleksja', challenge: 'Wyzwanie', bodyscan: 'Skan ciał‚a',
+    writing: 'Pisanie', mindfulness: 'Uważnoł›ć', social: 'Wyzwanie społ‚eczne', creative: 'Kreatywnoł›ć'
   };
 
   const navBtns = orderedData.map(e => {
     const isToday = e.day === today;
     const isActive = e.day === displayDay;
-    const todayMark = isToday ? `<span class="daily-today-label">dziĹ›</span>` : '';
+    const todayMark = isToday ? `<span class="daily-today-label">dziś</span>` : '';
     return `<button class="daily-day-btn${isActive ? ' is-active' : ''}" onclick="selectDailyDay(${e.day})">${e.emoji} ${e.dayName}${todayMark}</button>`;
   }).join('');
 
@@ -1202,7 +1202,7 @@ function renderDailyPsychology(id, item) {
     <div class="page-hero">
       <span class="chapter-lbl">${item.section || ''}</span>
       <h1>Psychologia Codzienna</h1>
-      <p class="lead">Codzienna dawka wiedzy psychologicznej i pracy nad sobÄ… â€” zaleĹĽnie od dnia tygodnia.</p>
+      <p class="lead">Codzienna dawka wiedzy psychologicznej i pracy nad sobą â€” zależnie od dnia tygodnia.</p>
     </div>
     <div class="daily-nav">${navBtns}</div>
     <div class="daily-day-badge">${entry.emoji} ${entry.dayName}</div>
@@ -1215,13 +1215,13 @@ function renderDailyPsychology(id, item) {
       </div>
       <div class="daily-card-title">${(weeklyFactFallback?.title || curiosity.title)}</div>
       <div class="daily-card-lead">${(weeklyFactFallback?.message || curiosity.lead)}</div>
-      <div class="daily-card-body">${weeklyFactFallback?.body ? `<p>${weeklyFactFallback.body}</p>` : bodyParas}${weeklyFactFallback?.source ? `<p><strong>ĹąrĂłdĹ‚o:</strong> ${weeklyFactFallback.source}</p>` : ''}</div>
+      <div class="daily-card-body">${weeklyFactFallback?.body ? `<p>${weeklyFactFallback.body}</p>` : bodyParas}${weeklyFactFallback?.source ? `<p><strong>źródło:</strong> ${weeklyFactFallback.source}</p>` : ''}</div>
     </div>
 
     <div class="daily-card">
       <div class="daily-card-hdr">
         <span class="daily-card-icon">âśŹď¸Ź</span>
-        <span class="daily-card-label exercise">Praca nad sobÄ…</span>
+        <span class="daily-card-label exercise">Praca nad sobą</span>
       </div>
       <div class="daily-card-title">${exercise.title}</div>
       <span class="daily-exercise-type ${exercise.type}">${typeLabels[exercise.type] || exercise.type}</span>
@@ -1232,7 +1232,7 @@ function renderDailyPsychology(id, item) {
   window.scrollTo(0, 0);
   animateContentIn();
 
-  /* Asynchroniczna aktualizacja: odĹ›wieĹĽa ciekawostkÄ™ raz na tydzieĹ„ (poniedziaĹ‚ek, 00:00 czasu lokalnego). */
+  /* Asynchroniczna aktualizacja: odł›wieża ciekawostke raz na tydzieł„ (poniedział‚ek, 00:00 czasu lokalnego). */
   loadDailyPsychologyFacts()
     .then(facts => {
       const weeklyFacts = getWeeklyFactsMap(facts, getWeekStartMonday(new Date()));
@@ -1244,10 +1244,10 @@ function renderDailyPsychology(id, item) {
       if (!titleNode || !leadNode || !bodyNode) return;
       titleNode.textContent = fact.title;
       leadNode.textContent = fact.message;
-      bodyNode.innerHTML = `${fact.body ? `<p>${fact.body}</p>` : ''}${fact.source ? `<p><strong>ĹąrĂłdĹ‚o:</strong> ${fact.source}</p>` : ''}`;
+      bodyNode.innerHTML = `${fact.body ? `<p>${fact.body}</p>` : ''}${fact.source ? `<p><strong>źródło:</strong> ${fact.source}</p>` : ''}`;
     })
     .catch(() => {
-      /* Cichy fallback: gdy JSON nie jest dostÄ™pny, pozostaje treĹ›Ä‡ lokalna z daily-psychology.js. */
+      /* Cichy fallback: gdy JSON nie jest dostepny, pozostaje treść lokalna z daily-psychology.js. */
     });
 }
 
@@ -1263,7 +1263,7 @@ window.selectDailyDay = function(day) {
 function renderTheoreticalTest(id, item) {
   if (!testsUI || typeof testsUI.renderTheoreticalTest !== 'function') {
     const area = document.getElementById('content');
-    area.innerHTML = '<div class="error-box"><h2>BĹ‚Ä…d Ĺ‚adowania moduĹ‚u</h2><p>Nie udaĹ‚o siÄ™ wczytaÄ‡ interfejsu testĂłw.</p></div>';
+    area.innerHTML = '<div class="error-box"><h2>Błąd ładowania modułu</h2><p>Nie udało się wczytać interfejsu testow.</p></div>';
     return;
   }
   return testsUI.renderTheoreticalTest(id, item);
@@ -1278,7 +1278,7 @@ function renderPlans(items, currentId) {
     const cls    = ['plan-item', effectiveStatus].join(' ');
     const navTo  = fileId ? `onclick="navigate('${fileId}')"` : '';
     const artid  = fileId ? `data-artid="${fileId}"` : '';
-    const badge  = isEmpty ? 'pusty' : (it.status==='live' ? 'dostÄ™pny' : 'planowany');
+    const badge  = isEmpty ? 'pusty' : (it.status==='live' ? 'dostepny' : 'planowany');
     return `<div class="${cls}" ${artid} ${effectiveStatus==='live'||effectiveStatus==='is-empty' ? navTo : ''}>
       <div class="plan-dot ${effectiveStatus}"></div>
       <span class="plan-label">${it.label}</span>
@@ -1286,19 +1286,19 @@ function renderPlans(items, currentId) {
     </div>`;
   }).join('');
   return `<div class="plans-section">
-    <h2>ArtykuĹ‚y w tym dziale</h2>
+    <h2>Artykuł‚y w tym dziale</h2>
     <div class="plans-grid">${rows}</div>
   </div>`;
 }
 
-/* Zwraca znormalizowanÄ… etykietÄ™ tekstowÄ… dla pĂłl, ktĂłre mogÄ… nie mieÄ‡ danych. */
+/* Zwraca znormalizowaną etykiete tekstową dla pol, ktore mogą nie mieć danych. */
 function renderToolField(value, missingLabel) {
   const cleanedValue = typeof value === 'string' ? value.trim() : value;
   if (!cleanedValue) return `<span class="tool-missing">${q(missingLabel)}</span>`;
   return q(cleanedValue);
 }
 
-/* Renderuje listÄ™ pozycji ĹşrĂłdĹ‚owych dla danych metodologicznych narzÄ™dzia. */
+/* Renderuje liste pozycji łşrodł‚owych dla danych metodologicznych narzedzia. */
 function renderToolListField(values, missingLabel) {
   if (!Array.isArray(values) || values.length === 0) {
     return `<span class="tool-missing">${q(missingLabel)}</span>`;
@@ -1307,12 +1307,12 @@ function renderToolListField(values, missingLabel) {
   return `<ul class="measurement-tool-source-list">${values.map(value => `<li>${q(value)}</li>`).join('')}</ul>`;
 }
 
-/* Normalizuje token filtrĂłw, aby porĂłwnania byĹ‚y stabilne i odporne na wielkoĹ›Ä‡ liter. */
+/* Normalizuje token filtrow, aby porownania był‚y stabilne i odporne na wielkoł›ć liter. */
 function normalizeToolFilterToken(value) {
   return String(value || '').trim().toLowerCase();
 }
 
-/* Zwraca unikalne wartoĹ›ci pola narzÄ™dzi posortowane alfabetycznie. */
+/* Zwraca unikalne wartoł›ci pola narzedzi posortowane alfabetycznie. */
 function getUniqueToolFieldValues(tools, fieldName) {
   const values = Array.from(new Set(
     (Array.isArray(tools) ? tools : [])
@@ -1322,7 +1322,7 @@ function getUniqueToolFieldValues(tools, fieldName) {
   return values.sort((a, b) => a.localeCompare(b, 'pl'));
 }
 
-/* Buduje UI filtrĂłw i eksportu dla katalogu narzÄ™dzi pomiarowych. */
+/* Buduje UI filtrow i eksportu dla katalogu narzedzi pomiarowych. */
 function renderMeasurementToolsControls(tools, domainKey) {
   const typeOptions = getUniqueToolFieldValues(tools, 'type');
   const licenseOptions = getUniqueToolFieldValues(tools, 'license');
@@ -1363,7 +1363,7 @@ function renderMeasurementToolsControls(tools, domainKey) {
   </div>`;
 }
 
-/* NakĹ‚ada filtry na karty narzÄ™dzi i aktualizuje licznik widocznych wynikĂłw. */
+/* Nakł‚ada filtry na karty narzedzi i aktualizuje licznik widocznych wynikow. */
 function applyMeasurementToolFilters(sectionElement) {
   const section = sectionElement || document.querySelector('.measurement-tools-section');
   if (!section) return;
@@ -1390,11 +1390,11 @@ function applyMeasurementToolFilters(sectionElement) {
 
   const countElement = section.querySelector('.measurement-tools-count');
   if (countElement) {
-    countElement.textContent = `Widoczne narzÄ™dzia: ${visibleCount} / ${cards.length}`;
+    countElement.textContent = `Widoczne narzedzia: ${visibleCount} / ${cards.length}`;
   }
 }
 
-/* Przygotowuje dane aktualnie widocznych narzÄ™dzi do eksportu. */
+/* Przygotowuje dane aktualnie widocznych narzedzi do eksportu. */
 function getVisibleMeasurementToolsForExport(section) {
   const domainKey = section?.dataset?.domainKey;
   const allTools = (SITE_CONFIG.measurementToolsByDomain || {})[domainKey] || [];
@@ -1406,7 +1406,7 @@ function getVisibleMeasurementToolsForExport(section) {
   return visibleIndexes.map(index => allTools[index]).filter(Boolean);
 }
 
-/* Tworzy i pobiera plik eksportu dla narzÄ™dzi (CSV/JSON). */
+/* Tworzy i pobiera plik eksportu dla narzedzi (CSV/JSON). */
 function exportMeasurementTools(format, triggerElement) {
   const section = triggerElement?.closest('.measurement-tools-section') || document.querySelector('.measurement-tools-section');
   if (!section) return;
@@ -1448,17 +1448,17 @@ function exportMeasurementTools(format, triggerElement) {
 /* Buduje zwijalny blok z rozszerzonymi informacjami metodologicznymi. */
 function renderMethodologyDetails(tool) {
   return `<details class="measurement-methodology-details">
-    <summary class="measurement-methodology-summary">PokaĹĽ metodologiÄ™</summary>
+    <summary class="measurement-methodology-summary">Pokaż metodologie</summary>
     <div class="measurement-methodology-content">
-      <h4 class="measurement-methodology-title">SzczegĂłĹ‚y metodologiczne</h4>
+      <h4 class="measurement-methodology-title">Szczegoł‚y metodologiczne</h4>
       <div class="measurement-tool-meta"><strong>Typ dowodu:</strong> ${renderToolField(tool.evidenceType, 'brak danych o typie dowodu')}</div>
-      <div class="measurement-tool-meta"><strong>Informacje o prĂłbie:</strong> ${renderToolField(tool.sampleInfo, 'brak danych o prĂłbie')}</div>
+      <div class="measurement-tool-meta"><strong>Informacje o probie:</strong> ${renderToolField(tool.sampleInfo, 'brak danych o probie')}</div>
       <div class="measurement-tool-meta"><strong>Kraj norm:</strong> ${renderToolField(tool.normCountry, 'brak danych o kraju norm')}</div>
       <div class="measurement-tool-meta"><strong>Rok norm:</strong> ${renderToolField(tool.normYear, 'brak danych o roku norm')}</div>
-      <div class="measurement-tool-meta"><strong>Informacja o wielkoĹ›ci efektu:</strong> ${renderToolField(tool.effectSizeInfo, 'brak danych o wielkoĹ›ci efektu')}</div>
+      <div class="measurement-tool-meta"><strong>Informacja o wielkoł›ci efektu:</strong> ${renderToolField(tool.effectSizeInfo, 'brak danych o wielkoł›ci efektu')}</div>
       <div class="measurement-tool-meta"><strong>Kluczowe publikacje:</strong> ${renderToolListField(tool.sourceRefs, 'brak wskazanych publikacji')}</div>
-      <div class="measurement-tool-meta"><strong>RzetelnoĹ›Ä‡:</strong> ${renderToolField(tool.reliability, 'brak danych o rzetelnoĹ›ci')}</div>
-      <div class="measurement-tool-meta"><strong>TrafnoĹ›Ä‡:</strong> ${renderToolField(tool.validity, 'brak danych o trafnoĹ›ci')}</div>
+      <div class="measurement-tool-meta"><strong>Rzetelnoł›ć:</strong> ${renderToolField(tool.reliability, 'brak danych o rzetelnoł›ci')}</div>
+      <div class="measurement-tool-meta"><strong>Trafnoł›ć:</strong> ${renderToolField(tool.validity, 'brak danych o trafnoł›ci')}</div>
       <div class="measurement-tool-meta"><strong>Normy:</strong> ${renderToolField(tool.normsInfo, 'brak danych o normach')}</div>
       <div class="measurement-tool-meta"><strong>Ograniczenia:</strong> ${renderToolField(tool.limitations, 'brak danych o ograniczeniach')}</div>
       <div class="measurement-tool-meta"><strong>Uwagi etyczne:</strong> ${renderToolField(tool.ethicalNotes, 'brak danych etycznych')}</div>
@@ -1467,32 +1467,32 @@ function renderMethodologyDetails(tool) {
   </details>`;
 }
 
-/* Buduje zestaw ostrzeĹĽeĹ„ dla narzÄ™dzia, jeĹ›li wymaga licencji lub uprawnieĹ„. */
+/* Buduje zestaw ostrzeżeł„ dla narzedzia, jeł›li wymaga licencji lub uprawnieł„. */
 function renderToolWarnings(tool) {
   const warnings = [];
   const license = (tool.license || '').trim();
   const requiresPermissions = Boolean(tool.requiresPermissions);
 
   if (!license || license === 'do_ustalenia') {
-    warnings.push('Licencja nieokreĹ›lona');
+    warnings.push('Licencja nieokreślona');
   } else if (license === 'komercyjna' || license === 'instytucjonalna') {
     warnings.push('Wymaga licencji');
   }
 
   if (requiresPermissions) {
-    warnings.push('Wymaga uprawnieĹ„');
+    warnings.push('Wymaga uprawnieł„');
   }
 
   if (warnings.length === 0) return '';
   return `<div class="measurement-tool-alerts">${warnings.map(text => `<span class="tool-alert-badge">${q(text)}</span>`).join('')}</div>`;
 }
 
-/* Renderuje sekcjÄ™ narzÄ™dzi pomiarowych dla aktualnej dziedziny wraz ze stanem pustym. */
+/* Renderuje sekcje narzedzi pomiarowych dla aktualnej dziedziny wraz ze stanem pustym. */
 function renderMeasurementTools(domainKey, currentId) {
   const tools = (SITE_CONFIG.measurementToolsByDomain || {})[domainKey];
   const domainUpdateMeta = (SITE_CONFIG.measurementToolsDomainUpdates || {})[domainKey] || {};
 
-  // Formatuje datÄ™ ISO do czytelnej postaci PL dla sekcji aktualizacji.
+  // Formatuje date ISO do czytelnej postaci PL dla sekcji aktualizacji.
   const formattedUpdatedAt = (() => {
     if (!domainUpdateMeta.updatedAt) return null;
     const parsed = new Date(`${domainUpdateMeta.updatedAt}T00:00:00Z`);
@@ -1504,9 +1504,9 @@ function renderMeasurementTools(domainKey, currentId) {
 
   if (!Array.isArray(tools) || tools.length === 0) {
     return `<div class="plans-section measurement-tools-section">
-      <h2>NarzÄ™dzia pomiarowe</h2>
+      <h2>Narzedzia pomiarowe</h2>
       ${lastUpdatedHtml}
-      <div class="plans-empty-state">Spis narzÄ™dzi w przygotowaniu</div>
+      <div class="plans-empty-state">Spis narzedzi w przygotowaniu</div>
     </div>`;
   }
 
@@ -1541,32 +1541,32 @@ function renderMeasurementTools(domainKey, currentId) {
     return `<article class="plan-item live measurement-tool-card" data-tool-index="${toolIndex}" data-tool-type="${q(normalizeToolFilterToken(tool.type))}" data-tool-license="${q(normalizeToolFilterToken(tool.license))}" data-tool-evidence="${q(normalizeToolFilterToken(tool.evidenceLevel))}">
       <div class="plan-dot live"></div>
       <div class="measurement-tool-body">
-        <h3 class="measurement-tool-name">${q(tool.name || 'NarzÄ™dzie bez nazwy')}</h3>
+        <h3 class="measurement-tool-name">${q(tool.name || 'Narzedzie bez nazwy')}</h3>
         ${toolReviewMetaHtml}
         ${warningsHtml}
         <div class="measurement-tool-meta"><strong>Typ:</strong> ${q(tool.type || 'â€”')}</div>
         <div class="measurement-tool-meta"><strong>Mierzone konstrukty:</strong> ${q((tool.constructs || []).join(', ') || 'â€”')}</div>
         <div class="measurement-tool-meta"><strong>Czas badania:</strong> ${q(tool.administrationTime || 'â€”')}</div>
         <div class="measurement-tool-meta"><strong>Grupa docelowa:</strong> ${q(tool.population || 'â€”')}</div>
-        <div class="measurement-tool-meta"><strong>Status licencji:</strong> ${renderToolField(tool.license === 'do_ustalenia' ? '' : tool.license, 'licencja nieokreĹ›lona')}</div>
-        <div class="measurement-tool-links"><strong>PowiÄ…zane artykuĹ‚y:</strong> ${relatedLinks}</div>
-        <div class="measurement-tool-links"><strong>ArtykuĹ‚y metodologiczne:</strong> ${methodologyLinks}</div>
+        <div class="measurement-tool-meta"><strong>Status licencji:</strong> ${renderToolField(tool.license === 'do_ustalenia' ? '' : tool.license, 'licencja nieokreślona')}</div>
+        <div class="measurement-tool-links"><strong>Powiązane artykuł‚y:</strong> ${relatedLinks}</div>
+        <div class="measurement-tool-links"><strong>Artykuł‚y metodologiczne:</strong> ${methodologyLinks}</div>
         ${renderMethodologyDetails(tool)}
       </div>
     </article>`;
   }).join('');
 
   return `<div class="plans-section measurement-tools-section" data-domain-key="${q(domainKey)}">
-    <h2>NarzÄ™dzia pomiarowe</h2>
+    <h2>Narzedzia pomiarowe</h2>
     ${lastUpdatedHtml}
     ${controlsHtml}
     <p class="measurement-tools-count" aria-live="polite"></p>
     <div class="plans-grid measurement-tools-grid">${rows}</div>
-    <p class="measurement-tools-footer">MateriaĹ‚ edukacyjny, nie instrukcja samodzielnej diagnozy.</p>
+    <p class="measurement-tools-footer">Materiał‚ edukacyjny, nie instrukcja samodzielnej diagnozy.</p>
   </div>`;
 }
 
-/* Inicjalizuje stan filtrĂłw narzÄ™dzi po wyrenderowaniu strony artykuĹ‚u. */
+/* Inicjalizuje stan filtrow narzedzi po wyrenderowaniu strony artykułu. */
 function setupMeasurementToolsSection(area) {
   const section = area?.querySelector('.measurement-tools-section');
   if (!section) return;
@@ -1626,11 +1626,11 @@ function renderWiki(id, wikiKey) {
   animateWikiIn();
 }
 
-/* Renderuje moduĹ‚ wyboru i podglÄ…du instrukcji PDF z katalogu labs. */
+/* Renderuje moduł‚ wyboru i podglądu instrukcji PDF z katalogu labs. */
 function renderPdfLabBrowser(section) {
   const files = Array.isArray(section.files) ? section.files : [];
   if (!files.length) {
-    return `<div class="wiki-sec"><div class="wiki-sec-title">${section.title || 'Instrukcje laboratoryjne'}</div><p>Brak dostÄ™pnych plikĂłw PDF.</p></div>`;
+    return `<div class="wiki-sec"><div class="wiki-sec-title">${section.title || 'Instrukcje laboratoryjne'}</div><p>Brak dostepnych plikow PDF.</p></div>`;
   }
   const optionsHtml = files.map((file, index) =>
     `<option value="${q(file.href)}" ${index === 0 ? 'selected' : ''}>${q(file.label)}</option>`
@@ -1641,16 +1641,16 @@ function renderPdfLabBrowser(section) {
     <div class="pdf-lab-controls">
       <label for="pdfLabSelect">Wybierz plik PDF:</label>
       <select id="pdfLabSelect">${optionsHtml}</select>
-      <a id="pdfLabOpenNewTab" href="${q(firstHref)}" target="_blank" rel="noopener noreferrer">OtwĂłrz w nowej karcie</a>
+      <a id="pdfLabOpenNewTab" href="${q(firstHref)}" target="_blank" rel="noopener noreferrer">Otworz w nowej karcie</a>
     </div>
     <div class="pdf-lab-viewer-wrap">
-      <iframe id="pdfLabViewer" src="${q(firstHref)}#view=FitH" title="PodglÄ…d instrukcji laboratoryjnej PDF"></iframe>
-      <p class="pdf-lab-mobile-hint">Na urzÄ…dzeniach mobilnych podglÄ…d osadzony moĹĽe byÄ‡ ograniczony â€” uĹĽyj przycisku â€žOtwĂłrz w nowej karcieâ€ť.</p>
+      <iframe id="pdfLabViewer" src="${q(firstHref)}#view=FitH" title="Podgląd instrukcji laboratoryjnej PDF"></iframe>
+      <p class="pdf-lab-mobile-hint">Na urządzeniach mobilnych podgląd osadzony może być ograniczony â€” użyj przycisku â€žOtworz w nowej karcieâ€ť.</p>
     </div>
   </div>`;
 }
 
-/* Synchronizuje wybĂłr pliku PDF pomiÄ™dzy listÄ…, osadzonym podglÄ…dem i linkiem nowej karty. */
+/* Synchronizuje wybor pliku PDF pomiedzy listą, osadzonym podglądem i linkiem nowej karty. */
 function setupPdfLabBrowserInteractions() {
   const select = document.getElementById('pdfLabSelect');
   const viewer = document.getElementById('pdfLabViewer');
@@ -1669,8 +1669,8 @@ function setupPdfLabBrowserInteractions() {
 function artCard(art) {
   const isEmpty = art.id && emptyArticles.has(art.id);
   const effectiveStatus = isEmpty ? 'is-empty' : (art.status === 'planned' ? 'is-disabled' : art.status);
-  const lbl = {live:'dostÄ™pny','is-disabled':'planowany',wiki:'wiki',xlink:'wspĂłlny â†—','is-empty':'pusty'};
-  // ObsĹ‚uga dwĂłch typĂłw kart: nawigacja wewnÄ™trzna (id) i odnoĹ›niki do stron HTML (href).
+  const lbl = {live:'dostepny','is-disabled':'planowany',wiki:'wiki',xlink:'wspolny â†-','is-empty':'pusty'};
+  // Obsł‚uga dwoch typow kart: nawigacja wewnetrzna (id) i odnoł›niki do stron HTML (href).
   const clickableById = (isEmpty || art.status==='live'||art.status==='wiki'||art.status==='xlink') && art.id;
   const clickableByHref = art.status === 'xlink' && art.href;
   const click = clickableById ? `onclick="navigate('${art.id}')"` : '';
@@ -1705,7 +1705,7 @@ function renderGlossHTML(entries) {
       <div class="gloss-letter">${l}</div>
       ${groups[l].map(e=>`
         <div class="gloss-entry">
-          <div class="gloss-term">${e.term}${e.link?`<span class="gloss-go" onclick="navigate('${e.link}')">â†’ artykuĹ‚</span>`:''}</div>
+          <div class="gloss-term">${e.term}${e.link?`<span class="gloss-go" onclick="navigate('${e.link}')">â†’ artykuł‚</span>`:''}</div>
           <div class="gloss-def">${e.def}</div>
         </div>`).join('')}
     </div>`).join('');
@@ -1727,9 +1727,9 @@ function renderHome() {
   const totalPlan = Object.values(SITE_CONFIG.plans||{}).flat().filter(p=>p.status==='planned').length;
 
   const icons = {'Neurobiologia':'đź§¬','Funkcje Poznawcze':'đź§©','Zaburzenia Kliniczne':'âš•ď¸Ź',
-    'Dla StudentĂłw':'đźŽ“',
+    'Dla Studentow':'đźŽ“',
     'Przypadki Kliniczne':'đź“‹','Diagnostyka':'đź“Š','Psychometria':'đź“Ź','Farmakologia':'đź’Š',
-    'RĂłĹĽnice Indywidualne':'đź‘¤','Temperament':'đźŚˇď¸Ź','Emocje i Motywacja':'âť¤ď¸Ź',
+    'Rożnice Indywidualne':'đź‘¤','Temperament':'đźŚˇď¸Ź','Emocje i Motywacja':'âť¤ď¸Ź',
     'Biologiczne Podstawy':'đź”¬','Psychoterapia':'đź›‹ď¸Ź','Psychopatologia':'đź”Ť',
     'Suicydologia':'đź†','Seksuologia':'đź’ś','Arteterapia':'đźŽ¨','Animaloterapia':'đźľ'};
   const cards = domains.map(sec=>{
@@ -1742,35 +1742,35 @@ function renderHome() {
     </div>`;
   }).join('');
 
-  /* Karty scenariuszy kierujÄ…ce od razu do konkretnych moduĹ‚Ăłw z SITE_CONFIG.nav. */
+  /* Karty scenariuszy kierujące od razu do konkretnych moduł‚ow z SITE_CONFIG.nav. */
   const startScenarios = [
     {
       title: 'Nauka od podstaw',
       id: 'wstep_do_psychologii/definicja',
       emoji: 'đź“',
-      goal: 'Zacznij od fundamentĂłw psychologii.',
+      goal: 'Zacznij od fundamentow psychologii.',
       benefit: 'W 10 minut zbudujesz kontekst do dalszej nauki.'
     },
     {
-      title: 'SprawdĹş siÄ™ testem',
+      title: 'Sprawdłş sie testem',
       id: 'dla_studentow/testy_teoretyczne',
       emoji: 'đź§Ş',
-      goal: 'Zweryfikuj, co juĹĽ pamiÄ™tasz.',
+      goal: 'Zweryfikuj, co już pamietasz.',
       benefit: 'Szybko zobaczysz luki i priorytety nauki.'
     },
     {
-      title: 'Szybka powtĂłrka',
+      title: 'Szybka powtorka',
       id: 'dla_studentow/psychologia_codziennej',
       emoji: 'âšˇ',
-      goal: 'PowtĂłrz jednÄ… maĹ‚Ä… porcjÄ™ wiedzy.',
-      benefit: 'Utrzymasz regularnoĹ›Ä‡ bez dĹ‚ugiej sesji.'
+      goal: 'Powtorz jedną mał‚ą porcje wiedzy.',
+      benefit: 'Utrzymasz regularnoł›ć bez dł‚ugiej sesji.'
     },
     {
       title: 'Przejrzyj Wiki',
       id: 'wiki-index/slownik',
       emoji: 'đź§­',
-      goal: 'ZnajdĹş temat lub termin w kilka sekund.',
-      benefit: 'SkrĂłcisz czas szukania potrzebnej informacji.'
+      goal: 'Znajdłş temat lub termin w kilka sekund.',
+      benefit: 'Skrocisz czas szukania potrzebnej informacji.'
     }
   ];
   const startCardsHtml = startScenarios
@@ -1818,11 +1818,11 @@ function renderHome() {
     <section class="home-block">
       <div class="home-block-head">
         <h2>Ostatnio odwiedzane</h2>
-        <p>WrĂłÄ‡ do materiaĹ‚Ăłw, ktĂłre juĹĽ przeglÄ…daĹ‚eĹ›.</p>
+        <p>Wroć do materiał‚ow, ktore już przeglądał‚eł›.</p>
       </div>
       ${recentHtml}
     </section>
-    <div><div class="domains-h2">DziaĹ‚y tematyczne</div><div class="domain-grid">${cards}</div></div>
+    <div><div class="domains-h2">Dział‚y tematyczne</div><div class="domain-grid">${cards}</div></div>
   </div>`;
   window.scrollTo(0,0);
   animateHomeCards();
@@ -1864,7 +1864,7 @@ let searchSessionState = null;
 let lastMeasuredSearchQuery = '';
 const searchUiState = { query: '', filters: { tests: false, wiki: false, beginner: false } };
 
-/* Standaryzuje tokeny tekstowe, ĹĽeby ranking dziaĹ‚aĹ‚ stabilnie dla polskich znakĂłw i wielkoĹ›ci liter. */
+/* Standaryzuje tokeny tekstowe, żeby ranking dział‚ał‚ stabilnie dla polskich znakow i wielkoł›ci liter. */
 function normalizeSearchText(value) {
   return (value || '')
     .toLowerCase()
@@ -1875,7 +1875,7 @@ function normalizeSearchText(value) {
     .trim();
 }
 
-/* Konwertuje markdown na "surowy" tekst, aby indeks peĹ‚notekstowy nie zawieraĹ‚ znacznikĂłw. */
+/* Konwertuje markdown na "surowy" tekst, aby indeks peł‚notekstowy nie zawierał‚ znacznikow. */
 function markdownToPlainText(markdown) {
   return (markdown || '')
     .replace(/^---[\s\S]*?---/m, ' ')
@@ -1894,7 +1894,7 @@ function markdownToPlainText(markdown) {
     .trim();
 }
 
-/* Zwraca krĂłtki fragment treĹ›ci z pierwszym wystÄ…pieniem zapytania (snippet do listy wynikĂłw). */
+/* Zwraca krotki fragment treł›ci z pierwszym wystąpieniem zapytania (snippet do listy wynikow). */
 function getFullTextSnippet(entry, queryTokens) {
   if (!entry?.plainText) return '';
   const normalizedText = entry.normalizedText || '';
@@ -1932,7 +1932,7 @@ function rebuildSearchIndex() {
       normalizedLevel: normalizeSearchText(item.level || ''),
     }));
 
-  /* Tworzy indeks sĹ‚Ăłw kluczowych -> ID artykuĹ‚u dla szybkiego linkowania wewnÄ…trz treĹ›ci. */
+  /* Tworzy indeks sł‚ow kluczowych -> ID artykułu dla szybkiego linkowania wewnątrz treł›ci. */
   keywordLinkIndex = new Map();
   searchIndex.forEach(entry => {
     const phrases = [entry.label, ...(entry.keywords || [])]
@@ -1944,12 +1944,12 @@ function rebuildSearchIndex() {
       keywordLinkIndex.set(normalized, entry.id);
     });
   });
-  /* Po przebudowie podstawowego indeksu zerujemy indeks peĹ‚notekstowy i Ĺ‚adujemy go ponownie. */
+  /* Po przebudowie podstawowego indeksu zerujemy indeks peł‚notekstowy i ł‚adujemy go ponownie. */
   searchFullTextIndex = new Map();
   searchFullTextLoadPromise = null;
 }
 
-/* Ĺaduje treĹ›Ä‡ plikĂłw MD i buduje indeks peĹ‚notekstowy uĹĽywany przez wyszukiwarkÄ™. */
+/* ładuje treść plikow MD i buduje indeks peł‚notekstowy używany przez wyszukiwarke. */
 async function ensureFullTextSearchIndex() {
   if (searchFullTextLoadPromise) return searchFullTextLoadPromise;
   const markdownEntries = searchIndex.filter(entry => {
@@ -1963,7 +1963,7 @@ async function ensureFullTextSearchIndex() {
       try {
         let markdownText = mdCache.get(item.file);
         if (!markdownText) {
-          /* UĹĽywamy tej samej logiki fallbackĂłw, aby indeks peĹ‚notekstowy nie gubiĹ‚ pojedynczych artykuĹ‚Ăłw. */
+          /* Używamy tej samej logiki fallbackow, aby indeks peł‚notekstowy nie gubił‚ pojedynczych artykuł‚ow. */
           const fetched = await fetchArticleMarkdown(item.file);
           markdownText = fetched.text;
           mdCache.set(item.file, markdownText);
@@ -1975,14 +1975,14 @@ async function ensureFullTextSearchIndex() {
           normalizedText: normalizeSearchText(plainText),
         });
       } catch (_) {
-        /* Pomijamy bĹ‚Ä™dne pliki, aby wyszukiwarka nadal dziaĹ‚aĹ‚a na pozostaĹ‚ych treĹ›ciach. */
+        /* Pomijamy bł‚edne pliki, aby wyszukiwarka nadal dział‚ał‚a na pozostał‚ych treł›ciach. */
       }
     }));
   })();
   return searchFullTextLoadPromise;
 }
 
-/* Ocenia wynik na podstawie dopasowaĹ„ tytuĹ‚u, sekcji i tagĂłw sĹ‚Ăłw kluczowych. */
+/* Ocenia wynik na podstawie dopasował„ tytuł‚u, sekcji i tagow sł‚ow kluczowych. */
 function scoreSearchItem(entry, queryTokens) {
   let score = 0;
   const fullText = searchFullTextIndex.get(entry.id);
@@ -2000,7 +2000,7 @@ function scoreSearchItem(entry, queryTokens) {
   return score;
 }
 
-/* Filtruje wyniki wedĹ‚ug aktywnych skrĂłtĂłw, zachowujÄ…c stan UI miÄ™dzy odĹ›wieĹĽeniami. */
+/* Filtruje wyniki wedł‚ug aktywnych skrotow, zachowując stan UI miedzy odł›wieżeniami. */
 function matchesActiveFilters(entry) {
   if (searchUiState.filters.tests && entry.type !== 'test') return false;
   if (searchUiState.filters.wiki && entry.type !== 'wiki') return false;
@@ -2008,11 +2008,11 @@ function matchesActiveFilters(entry) {
   return true;
 }
 
-/* Renderuje etykiety kontekstowe przy wynikach, ĹĽeby uĹĽytkownik szybciej rozpoznaĹ‚ kontekst. */
+/* Renderuje etykiety kontekstowe przy wynikach, żeby użytkownik szybciej rozpoznał‚ kontekst. */
 function renderSearchMetaTags(entry) {
-  const typeLabelMap = { article: 'artykuĹ‚', wiki: 'wiki', test: 'test' };
+  const typeLabelMap = { article: 'artykuł', wiki: 'wiki', test: 'test' };
   const safeSection = q(entry.section || 'Inne');
-  const safeType = q(typeLabelMap[entry.type] || entry.type || 'materiaĹ‚');
+  const safeType = q(typeLabelMap[entry.type] || entry.type || 'materiał');
   const typeCls = entry.type ? `type-${entry.type}` : '';
   return `<span class="s-search-item-meta">
     <span class="s-search-tag">${safeSection}</span>
@@ -2020,7 +2020,7 @@ function renderSearchMetaTags(entry) {
   </span>`;
 }
 
-/* Podpowiada tematy powiÄ…zane, gdy nie znaleziono dopasowaĹ„ do zapytania. */
+/* Podpowiada tematy powiązane, gdy nie znaleziono dopasował„ do zapytania. */
 function getRelatedSearchSuggestions(queryTokens) {
   if (!queryTokens.length) return [];
   const suggestions = searchIndex
@@ -2085,7 +2085,7 @@ function writeSearchMetrics(metrics) {
   localStorage.setItem(SEARCH_METRICS_KEY, JSON.stringify(metrics));
 }
 
-/* Rejestruje nowe "podejĹ›cie" uĹĽytkownika do znalezienia treĹ›ci. */
+/* Rejestruje nowe "podejł›cie" użytkownika do znalezienia treł›ci. */
 function startSearchSessionIfNeeded(query) {
   if (!query || query === lastMeasuredSearchQuery) return;
   const metrics = readSearchMetrics();
@@ -2099,7 +2099,7 @@ function startSearchSessionIfNeeded(query) {
   lastMeasuredSearchQuery = query;
 }
 
-/* Rejestruje ekspozycjÄ™ wynikĂłw, aby moĹĽna byĹ‚o policzyÄ‡ CTR listy wynikĂłw. */
+/* Rejestruje ekspozycje wynikow, aby można był‚o policzyć CTR listy wynikow. */
 function trackSearchResultImpressions(resultCount) {
   if (!resultCount) return;
   const metrics = readSearchMetrics();
@@ -2107,7 +2107,7 @@ function trackSearchResultImpressions(resultCount) {
   writeSearchMetrics(metrics);
 }
 
-/* Rejestruje klikniÄ™cie wyniku i czas do pierwszego sukcesu od rozpoczÄ™cia wyszukiwania. */
+/* Rejestruje klikniecie wyniku i czas do pierwszego sukcesu od rozpoczecia wyszukiwania. */
 function trackSearchResultClick() {
   const metrics = readSearchMetrics();
   metrics.searchResultClicks += 1;
@@ -2119,14 +2119,14 @@ function trackSearchResultClick() {
   writeSearchMetrics(metrics);
 }
 
-/* Rejestruje uĹĽycie akcji "kopiuj link" jako osobny wskaĹşnik adopcji funkcji. */
+/* Rejestruje użycie akcji "kopiuj link" jako osobny wskałşnik adopcji funkcji. */
 function trackCopyLinkUsage() {
   const metrics = readSearchMetrics();
   metrics.copyLinkUses += 1;
   writeSearchMetrics(metrics);
 }
 
-/* Aktualizuje listÄ™ wynikĂłw i fallback "Nie znaleziono" wraz z podpowiedziami. */
+/* Aktualizuje liste wynikow i fallback "Nie znaleziono" wraz z podpowiedziami. */
 async function applySearchUi() {
   const input = document.getElementById('searchInput');
   const nav = document.getElementById('sidebarNav');
@@ -2168,8 +2168,8 @@ async function applySearchUi() {
       ? `<div class="s-empty-suggestions">${suggestions.map(s => `<button type="button" data-id="${q(s.id)}">${q(s.label)}</button>`).join('')}</div>`
       : '';
     results.innerHTML = `<div class="s-search-empty">
-      <strong>Nie znaleziono wynikĂłw.</strong>
-      <div>SprĂłbuj innej frazy lub skorzystaj z tematĂłw powiÄ…zanych:</div>
+      <strong>Nie znaleziono wynikow.</strong>
+      <div>Sprobuj innej frazy lub skorzystaj z tematow powiązanych:</div>
       ${suggestionHtml}
     </div>`;
     results.classList.add('is-visible');
@@ -2194,7 +2194,7 @@ async function applySearchUi() {
   results.classList.add('is-visible');
 }
 
-/* Podmienia sĹ‚owa kluczowe na odnoĹ›niki do powiÄ…zanych artykuĹ‚Ăłw w treĹ›ci aktualnej strony. */
+/* Podmienia sł‚owa kluczowe na odnoł›niki do powiązanych artykuł‚ow w treł›ci aktualnej strony. */
 function addKeywordLinksToRenderedArticle(container, currentId) {
   const currentItem = pageMap.get(currentId);
   if (!currentItem || !container) return;
@@ -2213,7 +2213,7 @@ function addKeywordLinksToRenderedArticle(container, currentId) {
     .slice(0, 6);
   if (!linkTargets.length) return;
 
-  /* Escapuje literaĹ‚y RegExp, aby bezpiecznie tworzyÄ‡ wzorce dla fraz wielowyrazowych. */
+  /* Escapuje literał‚y RegExp, aby bezpiecznie tworzyć wzorce dla fraz wielowyrazowych. */
   const escapeRegExp = value => value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 
   const walker = document.createTreeWalker(container, NodeFilter.SHOW_TEXT, {
@@ -2260,7 +2260,7 @@ function addKeywordLinksToRenderedArticle(container, currentId) {
 }
 
 
-/* â”€â”€ DostÄ™pnoĹ›Ä‡: czytanie treĹ›ci na gĹ‚os (Web Speech API) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* â”€â”€ Dostepnoł›ć: czytanie treł›ci na gł‚os (Web Speech API) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
 const speechState = {
   synth: window.speechSynthesis || null,
   utterance: null,
@@ -2278,12 +2278,12 @@ const SPEECH_VOICE_PRESETS = {
   deep: { label: 'Niski', rate: 0.8, pitch: 0.74, boostNatural: 10, boostAlt: 8, boostDefault: 14, preferredNames: ['deep', 'male', 'low', 'marek', 'grzegorz', 'jan'] },
 };
 
-/* Zwraca aktywny preset gĹ‚osu albo bezpiecznÄ… wartoĹ›Ä‡ domyĹ›lnÄ…, gdy stan jest niepoprawny. */
+/* Zwraca aktywny preset głosu albo bezpieczną wartoł›ć domył›lną, gdy stan jest niepoprawny. */
 function getVoicePreset(mode) {
   return SPEECH_VOICE_PRESETS[mode] || SPEECH_VOICE_PRESETS.natural;
 }
 
-/* Wybiera najlepszy gĹ‚os dla jÄ™zyka polskiego, preferujÄ…c naturalniejsze gĹ‚osy systemowe. */
+/* Wybiera najlepszy gł‚os dla jezyka polskiego, preferując naturalniejsze gł‚osy systemowe. */
 function choosePreferredVoice(mode) {
   const preset = getVoicePreset(mode);
   if (!speechState.synth?.getVoices) return null;
@@ -2318,16 +2318,16 @@ function choosePreferredVoice(mode) {
   return scored[0]?.voice || null;
 }
 
-/* Aktualizuje etykietÄ™ przeĹ‚Ä…cznika stylu gĹ‚osu i stan ARIA. */
+/* Aktualizuje etykiete przeł‚ącznika stylu głosu i stan ARIA. */
 function updateVoiceModeButtonState() {
   const voiceModeSelect = document.getElementById('speechVoiceMode');
   if (!voiceModeSelect) return;
   const selectedPreset = getVoicePreset(speechState.voiceMode);
   voiceModeSelect.value = speechState.voiceMode in SPEECH_VOICE_PRESETS ? speechState.voiceMode : 'natural';
-  voiceModeSelect.setAttribute('aria-label', `Wybrany styl gĹ‚osu: ${selectedPreset.label}`);
+  voiceModeSelect.setAttribute('aria-label', `Wybrany styl głosu: ${selectedPreset.label}`);
 }
 
-/* Zbiera czytelny tekst z gĹ‚Ăłwnego kontenera treĹ›ci, pomijajÄ…c elementy nawigacyjne i dekoracyjne. */
+/* Zbiera czytelny tekst z gł‚ownego kontenera treł›ci, pomijając elementy nawigacyjne i dekoracyjne. */
 function getReadableContentText() {
   const content = document.getElementById('content');
   if (!content) return '';
@@ -2336,29 +2336,29 @@ function getReadableContentText() {
   return (clone.textContent || '').replace(/\s+/g, ' ').trim();
 }
 
-/* Synchronizuje stan wizualny i ARIA przyciskĂłw czytania, aby poprawnie komunikowaÄ‡ aktywnoĹ›Ä‡. */
+/* Synchronizuje stan wizualny i ARIA przyciskow czytania, aby poprawnie komunikować aktywnoł›ć. */
 function updateSpeechButtonState(isSpeaking) {
   const toggleBtn = document.getElementById('speechToggle');
   if (!toggleBtn) return;
   toggleBtn.classList.toggle('is-active', isSpeaking);
   toggleBtn.setAttribute('aria-pressed', isSpeaking ? 'true' : 'false');
-  toggleBtn.setAttribute('aria-label', isSpeaking ? 'Wstrzymaj czytanie bieĹĽÄ…cego artykuĹ‚u' : 'Rozpocznij czytanie bieĹĽÄ…cego artykuĹ‚u');
-  toggleBtn.textContent = isSpeaking ? 'âŹ¸ Pauza czytania' : 'â–¶ Czytaj artykuĹ‚';
+  toggleBtn.setAttribute('aria-label', isSpeaking ? 'Wstrzymaj czytanie bieżącego artykułu' : 'Rozpocznij czytanie bieżącego artykułu');
+  toggleBtn.textContent = isSpeaking ? 'âŹ¸ Pauza czytania' : '▶ Czytaj artykuł';
 }
 
-/* Aktualizuje przycisk automatycznego przejĹ›cia do kolejnego artykuĹ‚u po zakoĹ„czeniu odczytu. */
+/* Aktualizuje przycisk automatycznego przejł›cia do kolejnego artykułu po zakoł„czeniu odczytu. */
 function updateAutoNextButtonState() {
   const autoNextBtn = document.getElementById('speechAutoNext');
   if (!autoNextBtn) return;
   autoNextBtn.classList.toggle('is-active', speechState.autoNext);
   autoNextBtn.setAttribute('aria-pressed', speechState.autoNext ? 'true' : 'false');
   autoNextBtn.setAttribute('aria-label', speechState.autoNext
-    ? 'Automatyczne przejĹ›cie do kolejnego artykuĹ‚u wĹ‚Ä…czone'
-    : 'Automatyczne przejĹ›cie do kolejnego artykuĹ‚u wyĹ‚Ä…czone');
+    ? 'Automatyczne przejł›cie do kolejnego artykułu wł‚ączone'
+    : 'Automatyczne przejł›cie do kolejnego artykułu wył‚ączone');
   autoNextBtn.textContent = speechState.autoNext ? 'Auto-next: ON' : 'Auto-next: OFF';
 }
 
-/* Steruje widocznoĹ›ciÄ… panelu opcji czytania i aktualizuje semantykÄ™ ARIA przycisku zwijania. */
+/* Steruje widocznoł›cią panelu opcji czytania i aktualizuje semantyke ARIA przycisku zwijania. */
 function updateSpeechOptionsPanelState() {
   const optionsPanel = document.getElementById('speechOptionsPanel');
   const optionsToggleBtn = document.getElementById('speechOptionsToggle');
@@ -2368,12 +2368,12 @@ function updateSpeechOptionsPanelState() {
   optionsPanel.classList.toggle('is-collapsed', isCollapsed);
   optionsToggleBtn.setAttribute('aria-expanded', isCollapsed ? 'false' : 'true');
   optionsToggleBtn.setAttribute('aria-label', isCollapsed
-    ? 'RozwiĹ„ panel opcji czytania na gĹ‚os'
-    : 'ZwiĹ„ panel opcji czytania na gĹ‚os');
+    ? 'Rozwił„ panel opcji czytania na gł‚os'
+    : 'Zwił„ panel opcji czytania na gł‚os');
   optionsToggleBtn.textContent = isCollapsed ? 'Opcje â–Ľ' : 'Opcje â–˛';
 }
 
-/* Zatrzymuje syntezÄ™ mowy i resetuje lokalny stan czytania. */
+/* Zatrzymuje synteze mowy i resetuje lokalny stan czytania. */
 function stopReadingContent() {
   if (!speechState.synth) return;
   speechState.isSpeaking = false;
@@ -2382,7 +2382,7 @@ function stopReadingContent() {
   updateSpeechButtonState(false);
 }
 
-/* Inicjalizuje obsĹ‚ugÄ™ syntezy mowy dla bieĹĽÄ…cej treĹ›ci artykuĹ‚u. */
+/* Inicjalizuje obsł‚uge syntezy mowy dla bieżącej treł›ci artykułu. */
 function setupSpeechControls() {
   const toggleBtn = document.getElementById('speechToggle');
   const stopBtn = document.getElementById('speechStop');
@@ -2397,7 +2397,7 @@ function setupSpeechControls() {
     stopBtn.disabled = true;
     autoNextBtn.disabled = true;
     voiceModeSelect.disabled = true;
-    toggleBtn.title = 'PrzeglÄ…darka nie wspiera syntezy mowy';
+    toggleBtn.title = 'Przeglądarka nie wspiera syntezy mowy';
     return;
   }
 
@@ -2440,7 +2440,7 @@ function setupSpeechControls() {
       speechState.utterance = null;
       updateSpeechButtonState(false);
 
-      /* Po zakoĹ„czeniu odczytu opcjonalnie przechodzimy dalej, jeĹ›li istnieje kolejny artykuĹ‚. */
+      /* Po zakoł„czeniu odczytu opcjonalnie przechodzimy dalej, jeł›li istnieje kolejny artykuł‚. */
       if (speechState.autoNext && current) {
         const { next } = prevNext(current);
         if (next?.id) window.setTimeout(() => navigate(next.id), 550);
@@ -2469,7 +2469,7 @@ function setupSpeechControls() {
     localStorage.setItem('psyhub-speech-voice-mode', speechState.voiceMode);
     updateVoiceModeButtonState();
 
-    /* JeĹ›li czytanie trwa, restartujemy je z nowymi parametrami gĹ‚osu. */
+    /* Jeł›li czytanie trwa, restartujemy je z nowymi parametrami głosu. */
     if (speechState.isSpeaking) {
       stopReadingContent();
       toggleBtn.click();
@@ -2540,7 +2540,7 @@ function setupMobileChaptersPanel() {
   });
 }
 
-/* Rejestruje globalne akcje UI bez inline handlerĂłw, w tym skrĂłty klawiaturowe. */
+/* Rejestruje globalne akcje UI bez inline handlerow, w tym skroty klawiaturowe. */
 function setupGlobalInteractions() {
   const logo = document.getElementById('sidebarLogo');
   const overlay = document.getElementById('overlay');
@@ -2562,7 +2562,7 @@ function setupGlobalInteractions() {
   });
 }
 
-/* Rejestruje obsĹ‚ugÄ™ wyszukiwania i skrĂłtĂłw filtrĂłw, utrzymujÄ…c stan w pamiÄ™ci i localStorage. */
+/* Rejestruje obsł‚uge wyszukiwania i skrotow filtrow, utrzymując stan w pamieci i localStorage. */
 function setupSearchInteractions() {
   const input = document.getElementById('searchInput');
   const results = document.getElementById('searchResults');
@@ -2692,11 +2692,11 @@ const REMINDER_FACTS_URL = 'data_psychology_reminders.json';
 let reminderFactsCache = null;
 let reminderTimerId = null;
 
-/* Pobiera listÄ™ ciekawostek naukowych z pliku JSON i buforuje wynik. */
+/* Pobiera liste ciekawostek naukowych z pliku JSON i buforuje wynik. */
 async function loadReminderFacts() {
   if (reminderFactsCache) return reminderFactsCache;
   const response = await fetch(REMINDER_FACTS_URL, { cache: 'no-store' });
-  if (!response.ok) throw new Error('Nie udaĹ‚o siÄ™ pobraÄ‡ listy ciekawostek.');
+  if (!response.ok) throw new Error('Nie udał‚o sie pobrać listy ciekawostek.');
   const payload = await response.json();
   const facts = Array.isArray(payload?.facts) ? payload.facts : [];
   reminderFactsCache = facts.filter(item => item?.title && item?.message);
@@ -2706,7 +2706,7 @@ async function loadReminderFacts() {
 const REMINDER_LAST_SENT_KEY = 'psyhub-last-reminder-date';
 const REMINDER_PERMISSION_PROMPT_KEY = 'psyhub-reminder-permission-prompt-shown';
 
-/* Zwraca datÄ™ lokalnÄ… w formacie YYYY-MM-DD (bez ryzyka przesuniÄ™cia przez UTC). */
+/* Zwraca date lokalną w formacie YYYY-MM-DD (bez ryzyka przesuniecia przez UTC). */
 function getLocalDateKey(date = new Date()) {
   const year = date.getFullYear();
   const month = String(date.getMonth() + 1).padStart(2, '0');
@@ -2714,14 +2714,14 @@ function getLocalDateKey(date = new Date()) {
   return `${year}-${month}-${day}`;
 }
 
-/* Losuje ciekawostkÄ™ dnia na podstawie bieĹĽÄ…cej puli. */
+/* Losuje ciekawostke dnia na podstawie bieżącej puli. */
 function pickRandomReminderFact(facts) {
   if (!Array.isArray(facts) || facts.length === 0) return null;
   const randomIndex = Math.floor(Math.random() * facts.length);
   return facts[randomIndex] || facts[0];
 }
 
-/* Oblicza czas do kolejnego uruchomienia przypomnienia (nastÄ™pna 08:00 czasu lokalnego). */
+/* Oblicza czas do kolejnego uruchomienia przypomnienia (nastepna 08:00 czasu lokalnego). */
 function getDelayUntilNextReminder(now = new Date()) {
   const next = new Date(now);
   const hasReachedMorningReminder = now.getHours() >= 8;
@@ -2734,14 +2734,14 @@ function getDelayUntilNextReminder(now = new Date()) {
   return Math.max(0, next.getTime() - now.getTime());
 }
 
-/* WyĹ›wietla mobilne powiadomienie z naukowÄ… ciekawostkÄ… psychologicznÄ…. */
+/* Wył›wietla mobilne powiadomienie z naukową ciekawostką psychologiczną. */
 async function showPsychologyReminderNotification() {
   if (!('Notification' in window) || Notification.permission !== 'granted') return;
 
   const todayKey = getLocalDateKey(new Date());
   const lastSentDate = localStorage.getItem(REMINDER_LAST_SENT_KEY);
 
-  /* Blokada wielokrotnej wysyĹ‚ki tego samego dnia (np. po odĹ›wieĹĽeniach karty). */
+  /* Blokada wielokrotnej wysył‚ki tego samego dnia (np. po odł›wieżeniach karty). */
   if (lastSentDate === todayKey) return;
 
   const facts = await loadReminderFacts();
@@ -2749,7 +2749,7 @@ async function showPsychologyReminderNotification() {
   if (!fact) return;
 
   const sourceSuffix = fact.source ? `
-ĹąrĂłdĹ‚o: ${fact.source}` : '';
+źródło: ${fact.source}` : '';
   new Notification(`đź§  ${fact.title}`, {
     body: `${fact.message}${sourceSuffix}`,
     tag: `psyhub-fact-${todayKey}`,
@@ -2760,7 +2760,7 @@ async function showPsychologyReminderNotification() {
   localStorage.setItem(REMINDER_LAST_SENT_KEY, todayKey);
 }
 
-/* Planuje kolejne przypomnienie; po wysĹ‚aniu ustawia harmonogram na nastÄ™pny dzieĹ„. */
+/* Planuje kolejne przypomnienie; po wysł‚aniu ustawia harmonogram na nastepny dzieł„. */
 function scheduleNextPsychologyReminder() {
   window.clearTimeout(reminderTimerId);
   const delay = getDelayUntilNextReminder(new Date());
@@ -2772,23 +2772,23 @@ function scheduleNextPsychologyReminder() {
 
 
 /*
- * Buduje przyjazny komunikat wyjaĹ›niajÄ…cy korzyĹ›ci z wĹ‚Ä…czenia powiadomieĹ„.
- * Zwraca wartoĹ›Ä‡ true, gdy uĹĽytkownik chce przejĹ›Ä‡ do systemowego okna zgody.
+ * Buduje przyjazny komunikat wyjał›niający korzył›ci z wł‚ączenia powiadomieł„.
+ * Zwraca wartoł›ć true, gdy użytkownik chce przejł›ć do systemowego okna zgody.
  */
 function shouldAskForReminderPermission() {
   const promptAlreadyShown = localStorage.getItem(REMINDER_PERMISSION_PROMPT_KEY) === '1';
   if (promptAlreadyShown) return false;
 
   const userAcceptedPrompt = window.confirm(
-    'Czy chcesz wĹ‚Ä…czyÄ‡ codzienne powiadomienia PsyHub?\n\n' +
-    'BÄ™dziesz otrzymywaÄ‡ jednÄ…, losowÄ… ciekawostkÄ™ psychologicznÄ… kaĹĽdego dnia o 08:00.'
+    'Czy chcesz wł‚ączyć codzienne powiadomienia PsyHub?\n\n' +
+    'Bedziesz otrzymywać jedną, losową ciekawostke psychologiczną każdego dnia o 08:00.'
   );
 
   localStorage.setItem(REMINDER_PERMISSION_PROMPT_KEY, '1');
   return userAcceptedPrompt;
 }
 
-/* Inicjalizuje przypomnienia wyĹ‚Ä…cznie na urzÄ…dzeniach mobilnych. */
+/* Inicjalizuje przypomnienia wył‚ącznie na urządzeniach mobilnych. */
 async function initMobilePsychologyReminders() {
   const isMobileViewport = window.matchMedia(`(max-width: ${MOBILE_BREAKPOINT}px)`).matches;
   if (!isMobileViewport || !('Notification' in window)) return;
@@ -2809,11 +2809,11 @@ async function initMobilePsychologyReminders() {
 
 /* â”€â”€ Boot â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
 window.addEventListener('DOMContentLoaded', ()=>{
-  /* Wczesna walidacja konfiguracji uĹ‚atwia wychwycenie brakĂłw podczas uruchomienia aplikacji. */
+  /* Wczesna walidacja konfiguracji uł‚atwia wychwycenie brakow podczas uruchomienia aplikacji. */
   warnAboutMissingDomainKeys();
   runMeasurementToolsConfigValidation({ strict: false });
   buildPageMap();
-  pageMap.set('__home__',{id:'__home__',label:'Strona gĹ‚Ăłwna',section:''});
+  pageMap.set('__home__',{id:'__home__',label:'Strona główna',section:''});
   loadSearchUiState();
   rebuildSearchIndex();
   renderSidebar();
@@ -2842,7 +2842,7 @@ window.addEventListener('DOMContentLoaded', ()=>{
   const activeFontScale = FONT_SCALES.includes(storedFontScale) ? storedFontScale : DEFAULT_FONT_SCALE;
 
   function themeAttr(theme) { return theme === DEFAULT_THEME ? '' : theme; }
-  /* Ustawia atrybut skali czcionki i zapamiÄ™tuje wybĂłr uĹĽytkownika w localStorage. */
+  /* Ustawia atrybut skali czcionki i zapamietuje wybor użytkownika w localStorage. */
   function applyFontScale(scale) {
     if (scale === DEFAULT_FONT_SCALE) {
       delete document.documentElement.dataset.fontScale;
@@ -2857,7 +2857,7 @@ window.addEventListener('DOMContentLoaded', ()=>{
 
   function applyTheme(theme) {
     document.documentElement.dataset.theme = themeAttr(theme);
-    /* Synchronizuje stan aktywnoĹ›ci motywĂłw dla stylowania i czytnikĂłw ekranu. */
+    /* Synchronizuje stan aktywnoł›ci motywow dla stylowania i czytnikow ekranu. */
     document.querySelectorAll('.theme-btn').forEach(btn => {
       const isActive = btn.dataset.theme === theme;
       btn.classList.toggle('is-active', isActive);
@@ -2880,7 +2880,7 @@ window.addEventListener('DOMContentLoaded', ()=>{
       btn.setAttribute('aria-pressed', isActive ? 'true' : 'false');
       btn.addEventListener('click', () => applyTheme(btn.dataset.theme));
     });
-    /* Rejestruje zmianÄ™ wielkoĹ›ci czcionki i odtwarza aktywny stan przyciskĂłw. */
+    /* Rejestruje zmiane wielkoł›ci czcionki i odtwarza aktywny stan przyciskow. */
     document.querySelectorAll('.font-btn').forEach(btn => {
       btn.classList.toggle('is-active', btn.dataset.fontScale === activeFontScale);
       btn.addEventListener('click', () => applyFontScale(btn.dataset.fontScale));

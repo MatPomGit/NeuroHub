@@ -277,7 +277,7 @@ function ttBuildTopicCatalog(cfg) {
     theoretical: { label: 'Testy teoretyczne', description: 'Klasyczne testy przekrojowe z głównych obszarów psychologii.' },
     specialization: { label: 'Specjalizacje i moduły rozszerzone', description: 'Zestawy przygotowujące do pracy w obszarach specjalistycznych.' },
     clinical_vignettes: { label: 'Winiety kliniczne', description: 'Ćwiczenia na analizie przypadków i decyzjach diagnostycznych.' },
-    diploma_mock: { label: 'Egzamin dyplomowy — mock', description: 'Próbne testy sprawdzające gotowość do egzaminu dyplomowego.' }
+    diploma_mock: { label: 'Egzamin dyplomowy - mock', description: 'Próbne testy sprawdzające gotowość do egzaminu dyplomowego.' }
   };
 
   const categoryMeta = Object.assign({}, defaultMeta, cfg.categoryMeta || {});
@@ -404,9 +404,9 @@ function renderTheoreticalTest(id, item) {
       </section>`;
     }).join('');
     const lenOpts = [
-      { v: 15, label: 'Krótki — 15 pytań' },
-      { v: 30, label: 'Domyślny — 30 pytań' },
-      { v: 60, label: 'Długi — 60 pytań' }
+      { v: 15, label: 'Krótki - 15 pytań' },
+      { v: 30, label: 'Domyślny - 30 pytań' },
+      { v: 60, label: 'Długi - 60 pytań' }
     ].map(o => `<button class="ttest-opt-btn${st.length === o.v ? ' is-active' : ''}" onclick="ttSetLength(${o.v})">${o.label}</button>`).join('');
     const diffOpts = [
       { v: 'easy',   label: 'Łatwy',    desc: '60% łatwych, 30% średnich, 10% trudnych' },
@@ -528,7 +528,7 @@ function renderTheoreticalTest(id, item) {
     area.innerHTML = `<div class="rendered ttest-wrap">
       <div class="page-hero">
         <span class="chapter-lbl">${item.section || ''}</span>
-        <h1>Wynik testu — ${heroTitle}</h1>
+        <h1>Wynik testu - ${heroTitle}</h1>
       </div>
       ${renderTestZoneBanner()}
       <div class="ttest-result-box">

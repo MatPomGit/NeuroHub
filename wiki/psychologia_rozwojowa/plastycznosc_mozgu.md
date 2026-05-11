@@ -6,7 +6,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Plastyczność mózgu a okresy krytyczne
 
-Przez dziesięciolecia dominował pogląd, że dorosły mózg jest strukturą stałą, niezdolną do istotnych zmian po zakończeniu rozwoju. Odkrycia neuronauki z ostatnich trzydziestu lat radykalnie zmieniły ten obraz: **neuroplastyczność** — zdolność mózgu do reorganizacji strukturalnej i funkcjonalnej w odpowiedzi na doświadczenie — jest właściwością mózgu na każdym etapie życia, choć jej mechanizmy i zakres zmieniają się z wiekiem.
+Przez dziesięciolecia dominował pogląd, że dorosły mózg jest strukturą stałą, niezdolną do istotnych zmian po zakończeniu rozwoju. Odkrycia neuronauki z ostatnich trzydziestu lat radykalnie zmieniły ten obraz: **neuroplastyczność** - zdolność mózgu do reorganizacji strukturalnej i funkcjonalnej w odpowiedzi na doświadczenie - jest właściwością mózgu na każdym etapie życia, choć jej mechanizmy i zakres zmieniają się z wiekiem.
 
 ---
 
@@ -14,18 +14,18 @@ Przez dziesięciolecia dominował pogląd, że dorosły mózg jest strukturą st
 
 ### Synaptogeneza i przycinanie synaptyczne (*synaptic pruning*)
 
-Po urodzeniu mózg produkuje nadmiar połączeń synaptycznych — szczyt gęstości synaps przypada na różne regiony w różnym czasie (kora wzrokowa: ok. 8 miesiąc życia; kora przedczołowa: wczesna adolescencja). Następuje **pruning** — eliminacja synaps rzadko używanych zgodnie z zasadą „użyj albo strać" (*use it or lose it*). Doświadczenia selektywnie wzmacniają i utrwalają obwody.
+Po urodzeniu mózg produkuje nadmiar połączeń synaptycznych - szczyt gęstości synaps przypada na różne regiony w różnym czasie (kora wzrokowa: ok. 8 miesiąc życia; kora przedczołowa: wczesna adolescencja). Następuje **pruning** - eliminacja synaps rzadko używanych zgodnie z zasadą „użyj albo strać" (*use it or lose it*). Doświadczenia selektywnie wzmacniają i utrwalają obwody.
 
 ### Długotrwałe wzmocnienie synaptyczne (LTP)
 
-**Long-Term Potentiation (LTP)** — Bliss i Lømo (1973) wykazali, że intensywna stymulacja synapsy prowadzi do trwałego wzrostu jej efektywności. Mechanizm: nasilona aktywność → receptory AMPA → NMDA → kaskada sygnalizacyjna → synteza nowych białek → trwała zmiana strukturalna synapsy. LTP jest uważane za główny molekularny substrat uczenia się i pamięci.
+**Long-Term Potentiation (LTP)** - Bliss i Lømo (1973) wykazali, że intensywna stymulacja synapsy prowadzi do trwałego wzrostu jej efektywności. Mechanizm: nasilona aktywność → receptory AMPA → NMDA → kaskada sygnalizacyjna → synteza nowych białek → trwała zmiana strukturalna synapsy. LTP jest uważane za główny molekularny substrat uczenia się i pamięci.
 
 ### Neurogeneza w dorosłości
 
 Eriksson i in. (1998) wykazali, że nowe neurony powstają w **hipokampie** dorosłego człowieka (zakręt zębaty). Neurogeneza hipokampalna jest regulowana przez:
 - aktywność fizyczną (wzrost)
 - stres chroniczny (hamowanie)
-- leki antydepresyjne (wzrost — hipoteza neurogenezy w depresji)
+- leki antydepresyjne (wzrost - hipoteza neurogenezy w depresji)
 
 ### Reorganizacja map korowych
 
@@ -33,16 +33,16 @@ Plastyczność map korowych była dramatycznie zademonstrowana w badaniach nad o
 
 ---
 
-## Okresy krytyczne — definicja i mechanizmy
+## Okresy krytyczne - definicja i mechanizmy
 
 **Okres krytyczny** (*critical period*) to ograniczone okno czasowe, w którym określone doświadczenie jest **niezbędne** do prawidłowego ukształtowania struktury lub funkcji nerwowej. Brak doświadczenia w tym oknie prowadzi do **trwałych, trudnych lub niemożliwych do korekcji deficytów**.
 
 Mechanizmy biologiczne kończące okresy krytyczne:
 - Wzrost hamowania GABAergicznego (parvalbumin+ interneurony)
-- Dojrzewanie sieci perineuronalnych (PNN) — otoczek proteoglikanowych wokół neuronów
+- Dojrzewanie sieci perineuronalnych (PNN) - otoczek proteoglikanowych wokół neuronów
 - Wzrost białek regulatorowych (np. BDNF)
 
-> Manipulacja tymi mechanizmami może reaktywować plastyczność krytyczną w dojrzałym mózgu — stanowi to cel intensywnych badań terapeutycznych.
+> Manipulacja tymi mechanizmami może reaktywować plastyczność krytyczną w dojrzałym mózgu - stanowi to cel intensywnych badań terapeutycznych.
 
 ---
 
@@ -68,19 +68,19 @@ Wyniki wyjaśniają klinicznie zjawisko **amblyopii** (niedowidzenia): zaćma lu
 | Przykłady | Stereopsja, fonetyka języka pierwszego | Nabywanie L2, przywiązanie |
 | Możliwość późniejszej korekcji | Minimalna | Umiarkowana |
 
-Termin „okres krytyczny" używany jest często zbyt szeroko. Większość okien plastyczności w sferze językowej, emocjonalnej czy muzycznej ma charakter **wrażliwych**, nie krytycznych — opóźnione lub utrudnione doświadczenie zmniejsza efektywność, ale nie całkowicie uniemożliwia nabycia danej kompetencji.
+Termin „okres krytyczny" używany jest często zbyt szeroko. Większość okien plastyczności w sferze językowej, emocjonalnej czy muzycznej ma charakter **wrażliwych**, nie krytycznych - opóźnione lub utrudnione doświadczenie zmniejsza efektywność, ale nie całkowicie uniemożliwia nabycia danej kompetencji.
 
 ---
 
 ## Okresy krytyczne i wrażliwe w sferze językowej
 
-**Hipoteza okresu krytycznego w nabyciu języka** (Lenneberg, 1967) — w oparciu o obserwacje dzieci uczących się języka po izolacji i przypadki afazji — głosi, że pełne opanowanie pierwszego języka wymaga ekspozycji przed lateralizacją mózgu (ok. 12. roku życia).
+**Hipoteza okresu krytycznego w nabyciu języka** (Lenneberg, 1967) - w oparciu o obserwacje dzieci uczących się języka po izolacji i przypadki afazji - głosi, że pełne opanowanie pierwszego języka wymaga ekspozycji przed lateralizacją mózgu (ok. 12. roku życia).
 
-**Przypadek Genie** — dziewczynka izolowana i pozbawiona języka do 13. roku życia; mimo intensywnej rehabilitacji nigdy nie opanowała gramatyki, choć rozwinęła ograniczone słownictwo (Curtiss, 1977).
+**Przypadek Genie** - dziewczynka izolowana i pozbawiona języka do 13. roku życia; mimo intensywnej rehabilitacji nigdy nie opanowała gramatyki, choć rozwinęła ograniczone słownictwo (Curtiss, 1977).
 
 **Język migowy:** Newport i in. wykazali gramatycznie mniej poprawny język migowy u osób uczących się go po 12. roku życia w porównaniu z osobami uczącymi się go od urodzenia.
 
-**Nabycie L2:** Dorosłe osoby uczące się drugiego języka osiągają biegłość semantyczno-leksykalną, ale rzadko osiągają fonetyczną nieodróżnialność od rodzimych użytkowników — wskazuje to na wrażliwy, ale nie krytyczny charakter okna dla fonologii.
+**Nabycie L2:** Dorosłe osoby uczące się drugiego języka osiągają biegłość semantyczno-leksykalną, ale rzadko osiągają fonetyczną nieodróżnialność od rodzimych użytkowników - wskazuje to na wrażliwy, ale nie krytyczny charakter okna dla fonologii.
 
 ---
 
@@ -103,15 +103,15 @@ Dorosły mózg zachowuje zdolność do **experience-dependent plasticity**: bada
 - Wychowanie fizyczne i środowisko wzbogacające (*enriched environment*) wspierają neurogenezę i sieć naczyniową
 
 **Terapia:**
-- **Rehabilitacja po udarze** — intensywna, ukierunkowana terapia ruchowa i mowy w pierwszych miesiącach po udarze wykorzystuje „okno plastyczności pourazowej"
-- **Terapia amblyopii** — kluczowa przed zamknięciem okresu krytycznego (ok. 7–8 lat)
-- **EMDR i psychoterapia** — zmieniają aktywność ciała migdałowatego i wzorce sieci default mode; sugerują plastyczność w obwodach emocjonalnych u dorosłych
+- **Rehabilitacja po udarze** - intensywna, ukierunkowana terapia ruchowa i mowy w pierwszych miesiącach po udarze wykorzystuje „okno plastyczności pourazowej"
+- **Terapia amblyopii** - kluczowa przed zamknięciem okresu krytycznego (ok. 7–8 lat)
+- **EMDR i psychoterapia** - zmieniają aktywność ciała migdałowatego i wzorce sieci default mode; sugerują plastyczność w obwodach emocjonalnych u dorosłych
 
 ---
 
 ## Podsumowanie
 
-Plastyczność mózgu nie jest przywilejem tylko dziecięcego umysłu — jest fundamentalną właściwością układu nerwowego na każdym etapie życia, choć jej mechanizmy, zakres i dostępność różnią się z wiekiem. Okresy krytyczne i wrażliwe wyznaczają okna szczególnej podatności na doświadczenie; ich poznanie ma bezpośrednie zastosowanie kliniczne i edukacyjne. Współczesna neuronauka wskazuje drogi do reaktywowania plastyczności w dojrzałym mózgu — otwierając nowe perspektywy rehabilitacji, uczenia się i leczenia.
+Plastyczność mózgu nie jest przywilejem tylko dziecięcego umysłu - jest fundamentalną właściwością układu nerwowego na każdym etapie życia, choć jej mechanizmy, zakres i dostępność różnią się z wiekiem. Okresy krytyczne i wrażliwe wyznaczają okna szczególnej podatności na doświadczenie; ich poznanie ma bezpośrednie zastosowanie kliniczne i edukacyjne. Współczesna neuronauka wskazuje drogi do reaktywowania plastyczności w dojrzałym mózgu - otwierając nowe perspektywy rehabilitacji, uczenia się i leczenia.
 
 ---
 

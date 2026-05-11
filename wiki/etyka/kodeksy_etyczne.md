@@ -4,7 +4,7 @@ reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
 
-# Kodeksy etyczne w psychologii — przegląd
+# Kodeksy etyczne w psychologii - przegląd
 
 Kodeksy etyczne stanowią fundament profesjonalnej praktyki psychologicznej. Definiują zobowiązania moralne psychologów wobec klientów, współpracowników, nauki i całego społeczeństwa. Poniższy przegląd obejmuje najważniejsze kodeksy obowiązujące na poziomie międzynarodowym i krajowym.
 
@@ -15,11 +15,11 @@ Kodeksy etyczne stanowią fundament profesjonalnej praktyki psychologicznej. Def
 Kodeks etyczny to **usystematyzowany zbiór zasad i reguł postępowania** zawodowego, który:
 
 - wskazuje **wartości fundamentalne** danej profesji (autonomia klienta, dobroczynność, sprawiedliwość)
-- formułuje **egzekwowalne standardy** — reguły, których naruszenie może skutkować sankcją dyscyplinarną
-- pełni funkcję **edukacyjną** — socjalizuje nowych adeptów do norm zawodowych
-- stanowi **ochronę prawną** — wyznacza miarę należytej staranności (*standard of care*)
+- formułuje **egzekwowalne standardy** - reguły, których naruszenie może skutkować sankcją dyscyplinarną
+- pełni funkcję **edukacyjną** - socjalizuje nowych adeptów do norm zawodowych
+- stanowi **ochronę prawną** - wyznacza miarę należytej staranności (*standard of care*)
 
-Kodeksy nie zastępują osobistego osądu moralnego — są narzędziem wspomagającym, a nie automatem decyzyjnym.
+Kodeksy nie zastępują osobistego osądu moralnego - są narzędziem wspomagającym, a nie automatem decyzyjnym.
 
 ---
 
@@ -46,10 +46,10 @@ Kluczowe standardy egzekwowalne dotyczą m.in.:
 
 **Kodeks Etyczno-Zawodowy Psychologa Polskiego Towarzystwa Psychologicznego** (aktualizacja 2018) adaptuje zasady APA do polskich realiów prawnych i kulturowych. Cztery obszary regulacji:
 
-1. **Relacja z klientem** — świadoma zgoda, poufność, zakaz podwójnych ról, zakończenie terapii
-2. **Kompetencje zawodowe** — obowiązek doskonalenia, superwizja, granice kompetencji
-3. **Relacje zawodowe i publiczne** — współpraca, reklama, rzecznictwo społeczne
-4. **Badania i diagnostyka** — rzetelność narzędzi, ochrona danych, etyka publikacji
+1. **Relacja z klientem** - świadoma zgoda, poufność, zakaz podwójnych ról, zakończenie terapii
+2. **Kompetencje zawodowe** - obowiązek doskonalenia, superwizja, granice kompetencji
+3. **Relacje zawodowe i publiczne** - współpraca, reklama, rzecznictwo społeczne
+4. **Badania i diagnostyka** - rzetelność narzędzi, ochrona danych, etyka publikacji
 
 PTP prowadzi **Komisję Etyczną**, która rozpatruje skargi na naruszenia kodeksu i może orzekać nagany, upomnienia lub wykluczenie z towarzystwa.
 
@@ -64,14 +64,14 @@ PTP prowadzi **Komisję Etyczną**, która rozpatruje skargi na naruszenia kodek
 | **Odpowiedzialność** | Odpowiedzialność profesjonalna i naukowa, unikanie szkody |
 | **Integralność** | Uczciwość, bezstronność, unikanie konfliktu interesów |
 
-Meta-kodeks nie jest bezpośrednio stosowany do poszczególnych psychologów — jego implementacja należy do stowarzyszeń krajowych (np. PTP w Polsce).
+Meta-kodeks nie jest bezpośrednio stosowany do poszczególnych psychologów - jego implementacja należy do stowarzyszeń krajowych (np. PTP w Polsce).
 
 ### 4. Inne istotne kodeksy
 
-- **NASW Code of Ethics** (USA) — dla pracowników socjalnych; często stosowany w kontekście wielodyscyplinarnym
-- **BACP Ethical Framework** (Wielka Brytania) — dla doradców i psychoterapeutów; kładzie nacisk na *relację* i *osobę terapeuty*
-- **BPS Code of Ethics and Conduct** (Wielka Brytania) — British Psychological Society; cztery zasady: szacunek, kompetencja, odpowiedzialność, integralność
-- **IUPSYS Universal Declaration of Ethical Principles for Psychologists** (2008) — deklaracja Międzynarodowego Związku Nauk Psychologicznych; globalne aspiracje etyczne
+- **NASW Code of Ethics** (USA) - dla pracowników socjalnych; często stosowany w kontekście wielodyscyplinarnym
+- **BACP Ethical Framework** (Wielka Brytania) - dla doradców i psychoterapeutów; kładzie nacisk na *relację* i *osobę terapeuty*
+- **BPS Code of Ethics and Conduct** (Wielka Brytania) - British Psychological Society; cztery zasady: szacunek, kompetencja, odpowiedzialność, integralność
+- **IUPSYS Universal Declaration of Ethical Principles for Psychologists** (2008) - deklaracja Międzynarodowego Związku Nauk Psychologicznych; globalne aspiracje etyczne
 
 ---
 
@@ -90,7 +90,7 @@ Meta-kodeks nie jest bezpośrednio stosowany do poszczególnych psychologów —
 
 ## Hierarchia norm etycznych i prawnych
 
-Kodeksy etyczne funkcjonują w relacji do prawa — nie są z nim tożsame:
+Kodeksy etyczne funkcjonują w relacji do prawa - nie są z nim tożsame:
 
 ```
 Prawo krajowe (Ustawa o zawodzie psychologa 2001, RODO)
@@ -110,28 +110,28 @@ Zasada **minimalna**: psycholog zawsze postępuje zgodnie z prawem. Zasada **doc
 
 Żaden kodeks nie rozstrzyga każdego możliwego dylematu. Proponowane podejście (wg Kittchener, 1984; Beauchamp & Childress, 2019):
 
-1. **Rozpoznanie dylematu** — identyfikacja konfliktu wartości lub zasad
-2. **Zebranie faktów** — co jest znane, co niepewne?
-3. **Identyfikacja zaangażowanych stron** — klient, rodzina, instytucja, społeczeństwo
-4. **Przegląd zasad i kodeksów** — które reguły są relewantne?
-5. **Konsultacja** — superwizja, opinia prawna, collegium etyczne
-6. **Decyzja i uzasadnienie** — wybór działania z jawnym uzasadnieniem
-7. **Refleksja** — czy decyzja doprowadziła do zamierzonego dobra?
+1. **Rozpoznanie dylematu** - identyfikacja konfliktu wartości lub zasad
+2. **Zebranie faktów** - co jest znane, co niepewne?
+3. **Identyfikacja zaangażowanych stron** - klient, rodzina, instytucja, społeczeństwo
+4. **Przegląd zasad i kodeksów** - które reguły są relewantne?
+5. **Konsultacja** - superwizja, opinia prawna, collegium etyczne
+6. **Decyzja i uzasadnienie** - wybór działania z jawnym uzasadnieniem
+7. **Refleksja** - czy decyzja doprowadziła do zamierzonego dobra?
 
 ---
 
 ## Znaczenie kodeksów w praktyce
 
-- **Zawodowa legitymizacja** — kodeksy sygnalizują opinii publicznej, że psychologia jest zawodem regulowanym i odpowiedzialnym
-- **Ochrona klientów** — wyznaczają standardy minimalne, poniżej których postępowanie jest nieakceptowalne
-- **Wsparcie dla psychologa** — w trudnych sytuacjach kodeks daje oparcie decyzyjne i chroni przed arbitralnymi zarzutami
-- **Ewolucja profesji** — kodeksy są dokumentami żywymi; rewizje odzwierciedlają zmiany społeczne (np. dodanie zagadnień e-terapii, AI, globalizacji)
+- **Zawodowa legitymizacja** - kodeksy sygnalizują opinii publicznej, że psychologia jest zawodem regulowanym i odpowiedzialnym
+- **Ochrona klientów** - wyznaczają standardy minimalne, poniżej których postępowanie jest nieakceptowalne
+- **Wsparcie dla psychologa** - w trudnych sytuacjach kodeks daje oparcie decyzyjne i chroni przed arbitralnymi zarzutami
+- **Ewolucja profesji** - kodeksy są dokumentami żywymi; rewizje odzwierciedlają zmiany społeczne (np. dodanie zagadnień e-terapii, AI, globalizacji)
 
 ---
 
 ## Podsumowanie
 
-Kodeksy etyczne — od APA przez PTP po Meta-Kodeks EFPA — tworzą wielopoziomową strukturę normatywną, która reguluje praktykę psychologiczną w różnych kontekstach kulturowych i prawnych. Ich znajomość i stosowanie nie jest jedynie wymogiem formalnym, lecz wyrazem szacunku dla klientów, współpracowników i zaufania społecznego, na którym opiera się cały zawód psychologa.
+Kodeksy etyczne - od APA przez PTP po Meta-Kodeks EFPA - tworzą wielopoziomową strukturę normatywną, która reguluje praktykę psychologiczną w różnych kontekstach kulturowych i prawnych. Ich znajomość i stosowanie nie jest jedynie wymogiem formalnym, lecz wyrazem szacunku dla klientów, współpracowników i zaufania społecznego, na którym opiera się cały zawód psychologa.
 
 
 ## Wprowadzenie

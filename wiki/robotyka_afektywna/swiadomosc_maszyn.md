@@ -20,9 +20,9 @@ Jednak krytycy wskazują, że test mierzy zdolność do *symulacji* świadomośc
 
 ## Argument chińskiego pokoju
 
-John Searle (1980) sformułował myślowy eksperyment **chińskiego pokoju**: osoba zamknięta w pokoju, manipulując symbolami według reguł bez rozumienia ich znaczenia, może odpowiadać na pytania w języku chińskim tak, jakby go znała. System jako całość zachowuje się jak znający chiński — ale nikt w nim nic nie rozumie.
+John Searle (1980) sformułował myślowy eksperyment **chińskiego pokoju**: osoba zamknięta w pokoju, manipulując symbolami według reguł bez rozumienia ich znaczenia, może odpowiadać na pytania w języku chińskim tak, jakby go znała. System jako całość zachowuje się jak znający chiński - ale nikt w nim nic nie rozumie.
 
-Wniosek Searle'a: **manipulacja symbolami ≠ rozumienie**. Klasyczna AI symboliczna — bez względu na swoją złożoność — nie jest świadoma.
+Wniosek Searle'a: **manipulacja symbolami ≠ rozumienie**. Klasyczna AI symboliczna - bez względu na swoją złożoność - nie jest świadoma.
 
 > **Fakt:** Argument Searle'a wywołał jedną z najintensywniejszych debat w historii filozofii umysłu i kognitywistyki. Do dziś nie ma konsensusu co do jego poprawności.
 
@@ -32,7 +32,7 @@ Giulio Tononi (2004, 2008) zaproponował **teorię zintegrowanej informacji** (*
 
 Implikacje dla maszyn:
 
-- klasyczne komputery sekwencyjne mają bardzo niskie Φ — są zasadniczo nieświadome
+- klasyczne komputery sekwencyjne mają bardzo niskie Φ - są zasadniczo nieświadome
 - sieci neuronowe i mózg mają wyższe Φ
 - pewne architektury obliczeniowe mogłyby w zasadzie mieć wysoką świadomość
 
@@ -46,23 +46,23 @@ Model ten lepiej przekłada się na implementacje komputerowe i jest rozwijany w
 
 ## Filozoficzne zombie i qualia
 
-**Filozoficzne zombie** (p-zombie, Chalmers, 1996) to hipotetyczna istota identyczna z człowiekiem pod każdym względem fizycznym i behawioralnym, lecz pozbawiona subiektywnego doświadczenia — „ciemna w środku". Argument ten wskazuje na tzw. **trudny problem świadomości** (*hard problem*): dlaczego procesy fizyczne wywołują subiektywne przeżycia?
+**Filozoficzne zombie** (p-zombie, Chalmers, 1996) to hipotetyczna istota identyczna z człowiekiem pod każdym względem fizycznym i behawioralnym, lecz pozbawiona subiektywnego doświadczenia - „ciemna w środku". Argument ten wskazuje na tzw. **trudny problem świadomości** (*hard problem*): dlaczego procesy fizyczne wywołują subiektywne przeżycia?
 
-**Qualia** to subiektywne, fenomenalne jakości doświadczenia — to, jak smakuje czekolada, jak wygląda czerwień. Nawet jeśli maszyna przetwarza informację o czerwieni identycznie jak człowiek, nie wiadomo, czy ją „widzi".
+**Qualia** to subiektywne, fenomenalne jakości doświadczenia - to, jak smakuje czekolada, jak wygląda czerwień. Nawet jeśli maszyna przetwarza informację o czerwieni identycznie jak człowiek, nie wiadomo, czy ją „widzi".
 
-> **Fakt:** David Chalmers określa trudny problem świadomości jako fundamentalne wyzwanie nauki — odróżniając go od „łatwych problemów" (mechanizmów percepcji, uwagi, pamięci), które są trudne, ale metodologicznie dostępne.
+> **Fakt:** David Chalmers określa trudny problem świadomości jako fundamentalne wyzwanie nauki - odróżniając go od „łatwych problemów" (mechanizmów percepcji, uwagi, pamięci), które są trudne, ale metodologicznie dostępne.
 
 ## Podmiotowość moralna maszyn
 
-Nawet bez rozstrzygnięcia kwestii świadomości możemy zadać pytanie: czy robot może być **podmiotem moralnym** — obiektem obowiązków etycznych? Kate Darling (MIT Media Lab) argumentuje, że okrucieństwo wobec robotów może wpływać na ludzkie postawy wobec żywych istot, co samo w sobie jest powodem do ochrony robotów.
+Nawet bez rozstrzygnięcia kwestii świadomości możemy zadać pytanie: czy robot może być **podmiotem moralnym** - obiektem obowiązków etycznych? Kate Darling (MIT Media Lab) argumentuje, że okrucieństwo wobec robotów może wpływać na ludzkie postawy wobec żywych istot, co samo w sobie jest powodem do ochrony robotów.
 
 ## Implikacje dla robotyki afektywnej
 
 Kwestia świadomości maszyn ma bezpośrednie implikacje:
 
-- **projektowanie** — czy tworzyć roboty symulujące ból, by ludzie traktowali je ostrożniej?
-- **etyka** — czy wolno „wyłączyć" robota, który wykazuje preferencję trwania?
-- **prawo** — czy roboty powinny mieć status prawny podobny do zwierząt?
+- **projektowanie** - czy tworzyć roboty symulujące ból, by ludzie traktowali je ostrożniej?
+- **etyka** - czy wolno „wyłączyć" robota, który wykazuje preferencję trwania?
+- **prawo** - czy roboty powinny mieć status prawny podobny do zwierząt?
 
 ## Podsumowanie
 

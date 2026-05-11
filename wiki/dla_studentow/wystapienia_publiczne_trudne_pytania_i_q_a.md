@@ -12,10 +12,10 @@ Dla psychologa część Q&A często decyduje o ocenie całego wystąpienia. Odbi
 
 ## Definicje
 
-- **Q&A (questions and answers)** — segment pytań i odpowiedzi po prezentacji.
-- **Kalibracja pewności** — dopasowanie siły twierdzenia do jakości dowodów.
-- **Parafraza kontrolna** — krótkie powtórzenie pytania własnymi słowami w celu upewnienia się, że zostało poprawnie zrozumiane.
-- **Defensywność komunikacyjna** — styl odpowiedzi, który chroni ego mówcy kosztem jakości dialogu.
+- **Q&A (questions and answers)** - segment pytań i odpowiedzi po prezentacji.
+- **Kalibracja pewności** - dopasowanie siły twierdzenia do jakości dowodów.
+- **Parafraza kontrolna** - krótkie powtórzenie pytania własnymi słowami w celu upewnienia się, że zostało poprawnie zrozumiane.
+- **Defensywność komunikacyjna** - styl odpowiedzi, który chroni ego mówcy kosztem jakości dialogu.
 
 ## Analiza
 
@@ -49,12 +49,12 @@ Prelegent odpowiada impulsywnie, przerywa pytającemu i przedstawia pewne wniosk
 Najtrudniejsze pytania bywają nie zagrożeniem, lecz sygnałem jakości audytorium. Krytyczne pytanie zwiększa wartość wystąpienia, jeśli mówca potraktuje je jako okazję do doprecyzowania granic wiedzy, a nie walkę o status.
 ## Powiązane artykuły (cross-linki)
 
-- `students/wystapienia_publiczne_autoprezentacja` — psychologia skutecznego przekazu.
-- `spoleczna/perswazja` — mechanizmy wpływu społecznego.
+- `students/wystapienia_publiczne_autoprezentacja` - psychologia skutecznego przekazu.
+- `spoleczna/perswazja` - mechanizmy wpływu społecznego.
 
 ## Podsumowanie
 
-Profesjonalne Q&A to umiejętność regulacji emocji i precyzyjnej argumentacji. Dobre odpowiedzi nie udają wszechwiedzy — pokazują jakość myślenia, transparentność ograniczeń i szacunek dla rozmówcy.
+Profesjonalne Q&A to umiejętność regulacji emocji i precyzyjnej argumentacji. Dobre odpowiedzi nie udają wszechwiedzy - pokazują jakość myślenia, transparentność ograniczeń i szacunek dla rozmówcy.
 
 ## Bibliografia
 

@@ -6,7 +6,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Demencja i choroby neurodegeneracyjne
 
-Demencja (otępienie) to zespół objawów charakteryzujący się postępującym pogorszeniem funkcji poznawczych, które zaburza codzienne funkcjonowanie. Jest jednym z najważniejszych wyzwań geropsychologii klinicznej i zdrowia publicznego — zarówno ze względu na skalę zjawiska, jak i wielowymiarowy wpływ na pacjentów i ich rodziny.
+Demencja (otępienie) to zespół objawów charakteryzujący się postępującym pogorszeniem funkcji poznawczych, które zaburza codzienne funkcjonowanie. Jest jednym z najważniejszych wyzwań geropsychologii klinicznej i zdrowia publicznego - zarówno ze względu na skalę zjawiska, jak i wielowymiarowy wpływ na pacjentów i ich rodziny.
 
 ## Definicja i epidemiologia
 
@@ -46,13 +46,13 @@ Drugi co do częstości typ:
 ### Demencja z ciałami Lewy'ego (5–10%)
 - Patologia: złogi α-synukleiny (ciała Lewy'ego) w neuronach
 - Charakterystyczne objawy: fluktuacje świadomości, omamy wzrokowe, parkinsonizm, zaburzenia zachowania w fazie REM snu (RBD)
-- Szczególna wrażliwość na neuroleptyki — ryzyko ciężkich działań niepożądanych
+- Szczególna wrażliwość na neuroleptyki - ryzyko ciężkich działań niepożądanych
 
 ### Demencja czołowo-skroniowa (FTD)
 - Zmiany w korze czołowej i skroniowej
 - Dominuje zmiana osobowości i zachowania lub zaburzenia językowe (afazja pierwotna postępująca)
 - Często wcześniejszy wiek zachorowania (55–65 lat) niż w chorobie Alzheimera
-- Pacjenci często nie mają problemów z pamięcią we wczesnych fazach — co utrudnia rozpoznanie
+- Pacjenci często nie mają problemów z pamięcią we wczesnych fazach - co utrudnia rozpoznanie
 
 ### Łagodne zaburzenia poznawcze (MCI)
 Stan pośredni między normalnym starzeniem się a demencją:
@@ -67,7 +67,7 @@ Ocena neuropsychologiczna jest kluczowa w procesie diagnostycznym. Typowe narzę
 
 | Narzędzie | Zakres | Zastosowanie |
 |---|---|---|
-| MMSE (Mini-Mental State Examination) | Orientacja, pamięć, uwaga, mowa, praksja | Przesiewowy (max. 30 pkt; ≤24 — podejrzenie demencji) |
+| MMSE (Mini-Mental State Examination) | Orientacja, pamięć, uwaga, mowa, praksja | Przesiewowy (max. 30 pkt; ≤24 - podejrzenie demencji) |
 | MoCA (Montreal Cognitive Assessment) | Funkcje wykonawcze, pamięć wzrokowa | Czulszy od MMSE dla MCI |
 | CDR (Clinical Dementia Rating) | Ocena stadium (0–3) | Stopniowanie ciężkości |
 | NPI (Neuropsychiatric Inventory) | Objawy behawioralne i psychiatryczne | Ocena BPSD |
@@ -78,7 +78,7 @@ Pełna diagnoza obejmuje:
 - wywiad z pacjentem i opiekunem (historia zmian, tempo progresji)
 - badanie neuropsychologiczne (bateria testów poznawczych)
 - badania laboratoryjne (wykluczenie odwracalnych przyczyn: niedoczynność tarczycy, niedobór B12)
-- neuroobrazowanie (MRI — zaniki, zawały, guzy; PET amyloidowy w wybranych przypadkach)
+- neuroobrazowanie (MRI - zaniki, zawały, guzy; PET amyloidowy w wybranych przypadkach)
 - badanie płynu mózgowo-rdzeniowego (biomarkery tau, Aβ42)
 
 > **Uwaga diagnostyczna:** Depresja u osób starszych może imitować demencję (tzw. pseudodemencja depresyjna). Kluczowe różnicowanie: w depresji pacjent skarży się na zaburzenia pamięci i wykazuje depresyjny afekt; w demencji często bagatelizuje deficyty lub nie jest ich świadomy (anozognozja).
@@ -87,35 +87,35 @@ Pełna diagnoza obejmuje:
 
 Objawy neuropsychiatryczne towarzyszące demencji są równie istotne jak deficyty poznawcze:
 
-- **Depresja** i **lęk** — najczęstsze, szczególnie we wczesnych fazach
-- **Pobudzenie i agresja** — jedno z najtrudniejszych wyzwań opiekuńczych
-- **Wędrowanie** — zagrożenie bezpieczeństwa
-- **Zaburzenia snu** — odwrócony rytm dobowy, bezsenność nocna
-- **Omamy i urojenia** — często w demencji z ciałami Lewy'ego i umiarkowanej AD
-- **Apatia** — utrata inicjatywy, mylona z depresją
+- **Depresja** i **lęk** - najczęstsze, szczególnie we wczesnych fazach
+- **Pobudzenie i agresja** - jedno z najtrudniejszych wyzwań opiekuńczych
+- **Wędrowanie** - zagrożenie bezpieczeństwa
+- **Zaburzenia snu** - odwrócony rytm dobowy, bezsenność nocna
+- **Omamy i urojenia** - często w demencji z ciałami Lewy'ego i umiarkowanej AD
+- **Apatia** - utrata inicjatywy, mylona z depresją
 
 BPSD są główną przyczyną hospitalizacji i umieszczenia w domu opieki.
 
 ## Leczenie i interwencje psychologiczne
 
 ### Leczenie farmakologiczne
-Brak leczenia przyczynowego (z wyjątkiem leków modyfikujących amyloid — lekanumab, donanumab — dostępnych na razie w USA):
+Brak leczenia przyczynowego (z wyjątkiem leków modyfikujących amyloid - lekanumab, donanumab - dostępnych na razie w USA):
 
-- **Inhibitory acetylocholinesterazy** (donepezil, rivastigmina, galantamina) — łagodna i umiarkowana AD; skromny efekt objawowy
-- **Memantyna** (antagonista NMDA) — umiarkowana i ciężka AD
+- **Inhibitory acetylocholinesterazy** (donepezil, rivastigmina, galantamina) - łagodna i umiarkowana AD; skromny efekt objawowy
+- **Memantyna** (antagonista NMDA) - umiarkowana i ciężka AD
 - Leczenie BPSD: ostrożne stosowanie leków przeciwdepresyjnych, przeciwpsychotycznych (ryzyko u osób starszych)
 
 ### Interwencje psychologiczne i niefarmakologiczne
 Coraz więcej dowodów na skuteczność podejść niemedycznych:
 
-- **Trening poznawczy** — ćwiczenia pamięci, uwagi, funkcji wykonawczych; skuteczny w MCI i łagodnej demencji
-- **Terapia reminiscencyjna** — praca ze wspomnieniami, albumami rodzinnymi; poprawia nastrój i poczucie tożsamości
-- **Orientacja w rzeczywistości** — regularne przypominanie daty, miejsca, sytuacji; szczególnie w umiarkowanej demencji
-- **Terapia walidacyjna** (Feil) — empatyczna komunikacja dostosowana do subiektywnej rzeczywistości pacjenta
-- **Muzykoterapia** — aktywacja emocjonalna przez muzykę; zachowane wspomnienia muzyczne nawet w zaawansowanej demencji
-- **Aktywność fizyczna** — spowalnia pogorszenie funkcji poznawczych, poprawia równowagę i redukuje BPSD
+- **Trening poznawczy** - ćwiczenia pamięci, uwagi, funkcji wykonawczych; skuteczny w MCI i łagodnej demencji
+- **Terapia reminiscencyjna** - praca ze wspomnieniami, albumami rodzinnymi; poprawia nastrój i poczucie tożsamości
+- **Orientacja w rzeczywistości** - regularne przypominanie daty, miejsca, sytuacji; szczególnie w umiarkowanej demencji
+- **Terapia walidacyjna** (Feil) - empatyczna komunikacja dostosowana do subiektywnej rzeczywistości pacjenta
+- **Muzykoterapia** - aktywacja emocjonalna przez muzykę; zachowane wspomnienia muzyczne nawet w zaawansowanej demencji
+- **Aktywność fizyczna** - spowalnia pogorszenie funkcji poznawczych, poprawia równowagę i redukuje BPSD
 
-> **W praktyce klinicznej:** Kluczową rolę odgrywa psychoedukacja opiekunów. Zrozumienie mechanizmów choroby zmniejsza konflikty, redukuje wypalenie opiekuna i poprawia jakość opieki. Opiekun powinien rozumieć, że pacjent z demencją nie jest trudny celowo — zachowania wynikają z uszkodzenia mózgu.
+> **W praktyce klinicznej:** Kluczową rolę odgrywa psychoedukacja opiekunów. Zrozumienie mechanizmów choroby zmniejsza konflikty, redukuje wypalenie opiekuna i poprawia jakość opieki. Opiekun powinien rozumieć, że pacjent z demencją nie jest trudny celowo - zachowania wynikają z uszkodzenia mózgu.
 
 ## Prewencja i czynniki ryzyka
 
@@ -136,7 +136,7 @@ Badania sugerują, że ok. 40% przypadków demencji jest potencjalnie zapobiegal
 Czynniki ochronne:
 
 - aktywność umysłowa i fizyczna przez całe życie
-- wysoki poziom edukacji — buduje **rezerwę poznawczą**
+- wysoki poziom edukacji - buduje **rezerwę poznawczą**
 - aktywne życie społeczne
 - dieta śródziemnomorska (MIND diet)
 - dobry sen (clearance amyloidu przez układ glimfatyczny odbywa się głównie podczas snu)
@@ -145,14 +145,14 @@ Czynniki ochronne:
 
 Demencja rodzi szczególne wyzwania etyczne:
 
-- **Zdolność do decydowania** — stopniowe ograniczanie autonomii; konieczność oceny zdolności do wyrażania zgody na leczenie
-- **Pełnomocnictwo medyczne** — planowanie z wyprzedzeniem (advance care planning) gdy pacjent ma jeszcze zachowaną zdolność decydowania
-- **Ujawnienie diagnozy** — prawo pacjenta do informacji vs. tradycja „ochrony" przez rodzinę
-- **Stygmatyzacja** — chorzy na demencję są grupą szczególnie narażoną na naruszenia godności i praw
+- **Zdolność do decydowania** - stopniowe ograniczanie autonomii; konieczność oceny zdolności do wyrażania zgody na leczenie
+- **Pełnomocnictwo medyczne** - planowanie z wyprzedzeniem (advance care planning) gdy pacjent ma jeszcze zachowaną zdolność decydowania
+- **Ujawnienie diagnozy** - prawo pacjenta do informacji vs. tradycja „ochrony" przez rodzinę
+- **Stygmatyzacja** - chorzy na demencję są grupą szczególnie narażoną na naruszenia godności i praw
 
 ## Podsumowanie
 
-Demencja to złożony zespół chorób o wspólnym mianowniku — postępującej utracie funkcji poznawczych. Geropsychologia odgrywa kluczową rolę w diagnostyce różnicowej, planowaniu interwencji i wsparciu opiekunów. Wraz ze starzeniem się populacji znaczenie tej dziedziny będzie tylko rosło.
+Demencja to złożony zespół chorób o wspólnym mianowniku - postępującej utracie funkcji poznawczych. Geropsychologia odgrywa kluczową rolę w diagnostyce różnicowej, planowaniu interwencji i wsparciu opiekunów. Wraz ze starzeniem się populacji znaczenie tej dziedziny będzie tylko rosło.
 
 
 ## Wprowadzenie

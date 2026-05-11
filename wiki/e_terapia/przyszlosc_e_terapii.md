@@ -4,15 +4,15 @@ reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
 
-# Przyszłość e-terapii — trendy i wyzwania
+# Przyszłość e-terapii - trendy i wyzwania
 
 ## E-terapia na skrzyżowaniu technologii i humanizmu
 
-E-terapia nie jest celem samym w sobie — jest narzędziem służącym fundamentalnie ludzkiemu celowi: zmniejszeniu cierpienia i promowaniu zdrowia psychicznego. Przyszłość e-terapii będzie kształtowana przez technologiczne innowacje, zmieniające się oczekiwania społeczne, ewolucję systemów opieki zdrowotnej oraz pogłębioną wiedzę naukową o tym, co w terapii naprawdę działa.
+E-terapia nie jest celem samym w sobie - jest narzędziem służącym fundamentalnie ludzkiemu celowi: zmniejszeniu cierpienia i promowaniu zdrowia psychicznego. Przyszłość e-terapii będzie kształtowana przez technologiczne innowacje, zmieniające się oczekiwania społeczne, ewolucję systemów opieki zdrowotnej oraz pogłębioną wiedzę naukową o tym, co w terapii naprawdę działa.
 
 Kilka równoległych trendów wyznacza trajektorie rozwoju e-terapii w nadchodzącej dekadzie.
 
-> **Fakt:** Raport McKinsey Global Institute (2022) szacuje, że przez cyfryzację opieki zdrowotnej — w tym zdrowia psychicznego — możliwe jest poprawienie dostępu do leczenia dla dodatkowych 150–200 milionów ludzi na świecie, którzy dziś nie otrzymują żadnej pomocy psychologicznej.
+> **Fakt:** Raport McKinsey Global Institute (2022) szacuje, że przez cyfryzację opieki zdrowotnej - w tym zdrowia psychicznego - możliwe jest poprawienie dostępu do leczenia dla dodatkowych 150–200 milionów ludzi na świecie, którzy dziś nie otrzymują żadnej pomocy psychologicznej.
 
 ## Sztuczna inteligencja i personalizacja terapii
 
@@ -22,13 +22,13 @@ Największym pojedynczym trendem jest zastosowanie **sztucznej inteligencji** w 
 - Analizować nagrania sesji i wykrywać markery kliniczne (ton głosu, tempo mowy, aktywność mimiczna)
 - Monitorować pasywnie dane smartfonowe jako *digital biomarkery* zdrowia psychicznego
 
-Duże modele językowe (LLM) kolejnej generacji mogą umożliwić chatboty terapeutyczne o jakości rozmowy zbliżonej do rozmowy z człowiekiem — stawiając pytanie, czy w niektórych kontekstach mogą zastąpić terapeutów, czy jedynie ich uzupełnić.
+Duże modele językowe (LLM) kolejnej generacji mogą umożliwić chatboty terapeutyczne o jakości rozmowy zbliżonej do rozmowy z człowiekiem - stawiając pytanie, czy w niektórych kontekstach mogą zastąpić terapeutów, czy jedynie ich uzupełnić.
 
-## Terapia immersyjna — VR, AR i Metaverse
+## Terapia immersyjna - VR, AR i Metaverse
 
 Wirtualna i rozszerzona rzeczywistość będą coraz szerzej stosowane w terapii. Terapia w środowisku Metaverse (np. Horizon Worlds czy dedykowane przestrzenie terapeutyczne w VR) stwarza możliwości grup wsparcia i terapii grupowej bez barier geograficznych przy zachowaniu poczucia obecności (*presence*).
 
-**Rozszerzona rzeczywistość** (*AR*) umożliwia ekspozycję in vivo wspomaganą wirtualnymi bodźcami — np. nakładanie wirtualnych pająków na realne środowisko podczas terapii fobii. Jest to obiecująca hybryda między ekspozycją wirtualną a realną.
+**Rozszerzona rzeczywistość** (*AR*) umożliwia ekspozycję in vivo wspomaganą wirtualnymi bodźcami - np. nakładanie wirtualnych pająków na realne środowisko podczas terapii fobii. Jest to obiecująca hybryda między ekspozycją wirtualną a realną.
 
 ## Integracja z systemem opieki zdrowotnej
 
@@ -38,7 +38,7 @@ Model **stepped care** przewiduje, że pacjent zaczyna od najmniej intensywnej i
 
 ## Neurotechnologia i biofeedback
 
-Integracja e-terapii z neurotechnologią — urządzeniami do biofeedbacku (EEG, HRV), śledzeniem wzroku (*eye-tracking*), opaski monitorujące parametry fizjologiczne — umożliwi terapię wspieraną danymi biologicznymi w czasie rzeczywistym. Terapeuta będzie mógł monitorować stan pobudzenia pacjenta podczas sesji online i dostosowywać interwencje do jego aktualnych parametrów fizjologicznych.
+Integracja e-terapii z neurotechnologią - urządzeniami do biofeedbacku (EEG, HRV), śledzeniem wzroku (*eye-tracking*), opaski monitorujące parametry fizjologiczne - umożliwi terapię wspieraną danymi biologicznymi w czasie rzeczywistym. Terapeuta będzie mógł monitorować stan pobudzenia pacjenta podczas sesji online i dostosowywać interwencje do jego aktualnych parametrów fizjologicznych.
 
 ## Wyzwania regulacyjne
 
@@ -51,11 +51,11 @@ Szybki rozwój technologiczny wyprzedza regulacje. Kluczowe wyzwania regulacyjne
 
 ## Humanizacja w erze algorytmów
 
-Pomimo technologicznego entuzjazmu, fundamentalnym wyzwaniem pozostaje zachowanie humanistycznej istoty terapii: relacji, empatii, autentycznego spotkania człowieka z człowiekiem. Badania konsekwentnie wskazują, że czynniki wspólne terapii — sojusz terapeutyczny, poczucie bycia zrozumianym, nadzieja — są równie ważne (lub ważniejsze) niż specyficzne techniki. Żaden algorytm nie zastąpi autentycznej obecności terapeuty — przynajmniej nie w dającej się przewidzieć przyszłości.
+Pomimo technologicznego entuzjazmu, fundamentalnym wyzwaniem pozostaje zachowanie humanistycznej istoty terapii: relacji, empatii, autentycznego spotkania człowieka z człowiekiem. Badania konsekwentnie wskazują, że czynniki wspólne terapii - sojusz terapeutyczny, poczucie bycia zrozumianym, nadzieja - są równie ważne (lub ważniejsze) niż specyficzne techniki. Żaden algorytm nie zastąpi autentycznej obecności terapeuty - przynajmniej nie w dającej się przewidzieć przyszłości.
 
 ## Podsumowanie
 
-Przyszłość e-terapii jest ekscytująca i pełna możliwości — ale też obarczona poważnymi pytaniami etycznymi i społecznymi. Kluczowym zadaniem środowiska psychologicznego jest aktywne kształtowanie tej przyszłości: przez badania naukowe, udział w procesach regulacyjnych i nieustanną refleksję nad tym, co w opiece nad zdrowiem psychicznym jest niezbędne — i czego nie można zdigitalizować.
+Przyszłość e-terapii jest ekscytująca i pełna możliwości - ale też obarczona poważnymi pytaniami etycznymi i społecznymi. Kluczowym zadaniem środowiska psychologicznego jest aktywne kształtowanie tej przyszłości: przez badania naukowe, udział w procesach regulacyjnych i nieustanną refleksję nad tym, co w opiece nad zdrowiem psychicznym jest niezbędne - i czego nie można zdigitalizować.
 
 
 ## Wprowadzenie

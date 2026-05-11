@@ -10,7 +10,7 @@ Somatyzacja to proces, w którym cierpienie psychiczne wyraża się poprzez obja
 
 ## Definicja i epidemiologia
 
-**Somatyzacja** — tendencja do przeżywania i komunikowania stresu psychologicznego w postaci objawów somatycznych i szukania pomocy medycznej z ich powodu.
+**Somatyzacja** - tendencja do przeżywania i komunikowania stresu psychologicznego w postaci objawów somatycznych i szukania pomocy medycznej z ich powodu.
 
 Szacunkowe dane:
 
@@ -32,27 +32,27 @@ Trzy komponenty „myśli, uczuć, zachowań":
 ### Zaburzenie pod postacią somatyczną (ICD-11: 6C20–6C21)
 ICD-11 wyróżnia:
 
-- **Zaburzenie bólowe** — dominuje ból psychogennie nasilany
-- **Zaburzenie pod postacią somatyczną** — wieloobjawowe, przewlekłe
+- **Zaburzenie bólowe** - dominuje ból psychogennie nasilany
+- **Zaburzenie pod postacią somatyczną** - wieloobjawowe, przewlekłe
 
 ### Zaburzenie konwersyjne (funkcjonalne zaburzenie neurologiczne)
 Objawy neurologiczne (porażenia, drgawki, utrata czucia, zaburzenia mowy) bez podłoża neurologicznego. Termin „konwersja" sugeruje, że konflikt psychiczny „konwertuje się" na objaw neurologiczny.
 
-> **Uwaga diagnostyczna:** DSM-5 odszedł od wymagania braku organicznego podłoża — skupia się zamiast tego na nieprawidłowych reakcjach poznawczo-emocjonalnych pacjenta. To ważna zmiana: pacjent z prawdziwą chorobą też może somatyzować.
+> **Uwaga diagnostyczna:** DSM-5 odszedł od wymagania braku organicznego podłoża - skupia się zamiast tego na nieprawidłowych reakcjach poznawczo-emocjonalnych pacjenta. To ważna zmiana: pacjent z prawdziwą chorobą też może somatyzować.
 
 ## Mechanizmy somatyzacji
 
 ### Allostaza ciała i interocepcja
-Mózg nieustannie przewiduje i reguluje stany ciała (allostaza). Przy zaburzeniu interocepcji (odczytywania sygnałów ciała) — sygnały neutralne są interpretowane jako groźne. Badania obrazowania (Craig, 2009): nadaktywna wyspa (insula) u pacjentów z SSD.
+Mózg nieustannie przewiduje i reguluje stany ciała (allostaza). Przy zaburzeniu interocepcji (odczytywania sygnałów ciała) - sygnały neutralne są interpretowane jako groźne. Badania obrazowania (Craig, 2009): nadaktywna wyspa (insula) u pacjentów z SSD.
 
 ### Deficyt aleksytymii
-Osoba z aleksytymią nie ma słów dla emocji. „Tłumione" emocje (szczególnie gniew i smutek) rozładowują się przez układ autonomiczny — bóle brzucha, napięcia mięśniowe, bóle głowy.
+Osoba z aleksytymią nie ma słów dla emocji. „Tłumione" emocje (szczególnie gniew i smutek) rozładowują się przez układ autonomiczny - bóle brzucha, napięcia mięśniowe, bóle głowy.
 
 ### Uczenie się i modelowanie
 Dzieci dorastające w rodzinach, gdzie choroba była „dozwolona" formą komunikacji potrzeb, uczą się, że cierpienie somatyczne przyciąga uwagę i opiekę, którą inaczej trudno wyrazić.
 
 ### Rola traum
-Traumy dziecięce (przemoc, zaniedbanie, seksualizacja) wielokrotnie zwiększają ryzyko somatyzacji w dorosłości. Ciało nosi ślad traum — nadreaktywność autonomiczna, hiperczujność na ból, dysregulacja procesów cielesnych.
+Traumy dziecięce (przemoc, zaniedbanie, seksualizacja) wielokrotnie zwiększają ryzyko somatyzacji w dorosłości. Ciało nosi ślad traum - nadreaktywność autonomiczna, hiperczujność na ból, dysregulacja procesów cielesnych.
 
 ## Najczęstsze objawy somatyzacji
 
@@ -75,15 +75,15 @@ Niezbędne jest wykluczenie chorób organicznych, szczególnie:
 ## Leczenie
 
 **Podejście psychologiczne:**
-- Terapia poznawczo-behawioralna (CBT) — zmiana katastrofizacyjnych myśli, modyfikacja zachowań zdrowotnych; metaanalizy potwierdzają skuteczność
+- Terapia poznawczo-behawioralna (CBT) - zmiana katastrofizacyjnych myśli, modyfikacja zachowań zdrowotnych; metaanalizy potwierdzają skuteczność
 - Terapia skoncentrowana na traumie (EMDR, terapia somatyczna)
-- Mindfulness — poprawa interocepcji bez reagowania lękowego
-- Psychoterapia dynamiczna — praca z nierozwiązanymi konfliktami i deficytami aleksytymii
+- Mindfulness - poprawa interocepcji bez reagowania lękowego
+- Psychoterapia dynamiczna - praca z nierozwiązanymi konfliktami i deficytami aleksytymii
 
 **Podejście medyczne:**
 - Leki z grupy SNRI i TCA mają efektywność w SSD niezależnie od depresji
 - Unikanie nadmiernej diagnostyki i iatrogenizacji
-- Regularne, zaplanowane wizyty (nie „na żądanie") — redukują niepotrzebne wizyty
+- Regularne, zaplanowane wizyty (nie „na żądanie") - redukują niepotrzebne wizyty
 
 > **W praktyce klinicznej:** Kluczowe jest walidowanie dolegliwości pacjenta („Pana/Pani ból jest prawdziwy"), wyjaśnienie mechanizmu i stopniowe wprowadzanie interpretacji psychologicznej bez jej narzucania.
 

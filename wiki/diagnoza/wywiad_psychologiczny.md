@@ -8,9 +8,9 @@ evidenceCutoffDate: 2025-12-31
 
 ## Definicja i funkcja
 
-Wywiad psychologiczny to **ustrukturyzowana lub swobodna rozmowa prowadzona przez psychologa** w celu zebrania informacji niezbędnych do postawienia diagnozy, zaplanowania terapii lub wydania opinii. Jest jedną z najstarszych i najszerzej stosowanych metod diagnostycznych — łączy walory jakościowe (głęboki opis) z możliwością standaryzacji.
+Wywiad psychologiczny to **ustrukturyzowana lub swobodna rozmowa prowadzona przez psychologa** w celu zebrania informacji niezbędnych do postawienia diagnozy, zaplanowania terapii lub wydania opinii. Jest jedną z najstarszych i najszerzej stosowanych metod diagnostycznych - łączy walory jakościowe (głęboki opis) z możliwością standaryzacji.
 
-> „Wywiad jest oknem na świat wewnętrzny klienta — jego jakość zależy od umiejętności otwarcia odpowiednich okienek." — Morrison (2014)
+> „Wywiad jest oknem na świat wewnętrzny klienta - jego jakość zależy od umiejętności otwarcia odpowiednich okienek." - Morrison (2014)
 
 ---
 
@@ -26,11 +26,11 @@ Wywiad psychologiczny to **ustrukturyzowana lub swobodna rozmowa prowadzona prze
 
 ### Podział według celu
 
-- **Wywiad diagnostyczny** — identyfikacja zaburzeń i objawów
-- **Wywiad biograficzny** — historia życia, ważne wydarzenia
-- **Wywiad kliniczny** — bieżące funkcjonowanie, motywacja do terapii
-- **Wywiad środowiskowy** — kontekst rodzinny, społeczny, zawodowy
-- **Wywiad orzeczniczy** — na potrzeby opinii sądowej lub orzeczenia
+- **Wywiad diagnostyczny** - identyfikacja zaburzeń i objawów
+- **Wywiad biograficzny** - historia życia, ważne wydarzenia
+- **Wywiad kliniczny** - bieżące funkcjonowanie, motywacja do terapii
+- **Wywiad środowiskowy** - kontekst rodzinny, społeczny, zawodowy
+- **Wywiad orzeczniczy** - na potrzeby opinii sądowej lub orzeczenia
 
 ---
 
@@ -52,7 +52,7 @@ MINI (Sheehan i in., 1998) to krótki, wysoce ustrukturyzowany wywiad diagnostyc
 
 ### Wywiad biograficzny
 
-Umożliwia poznanie **narracji życiowej** pacjenta — ciągłości tożsamości, kluczowych doświadczeń kształtujących osobowość, wzorców relacyjnych. Stosowany w podejściu psychodynamicznym i humanistycznym.
+Umożliwia poznanie **narracji życiowej** pacjenta - ciągłości tożsamości, kluczowych doświadczeń kształtujących osobowość, wzorców relacyjnych. Stosowany w podejściu psychodynamicznym i humanistycznym.
 
 Obszary wywiadu biograficznego:
 1. Wczesne dzieciństwo i relacje z opiekunami
@@ -68,15 +68,15 @@ Obszary wywiadu biograficznego:
 
 Typowy wywiad kliniczny obejmuje następujące fazy:
 
-1. **Otwarcie** — nawiązanie relacji, omówienie zasad poufności, wyjaśnienie celu
-2. **Problem zgłoszeniowy** — „Co skłoniło Panią/Pana do wizyty?"
-3. **Historia obecnych trudności** — kiedy się pojawiły, przebieg, nasilenie
-4. **Historia psychiatryczna i psychologiczna** — wcześniejsze epizody, terapie, hospitalizacje
-5. **Historia medyczna** — choroby somatyczne, leki, substancje psychoaktywne
-6. **Historia rodzinna** — zaburzenia psychiczne w rodzinie, dynamika
-7. **Wywiad biograficzny** — kluczowe etapy życia
-8. **Ocena stanu aktualnego** — nastrój, funkcjonowanie, zasoby
-9. **Zamknięcie** — podsumowanie, pytania klienta, plan dalszego postępowania
+1. **Otwarcie** - nawiązanie relacji, omówienie zasad poufności, wyjaśnienie celu
+2. **Problem zgłoszeniowy** - „Co skłoniło Panią/Pana do wizyty?"
+3. **Historia obecnych trudności** - kiedy się pojawiły, przebieg, nasilenie
+4. **Historia psychiatryczna i psychologiczna** - wcześniejsze epizody, terapie, hospitalizacje
+5. **Historia medyczna** - choroby somatyczne, leki, substancje psychoaktywne
+6. **Historia rodzinna** - zaburzenia psychiczne w rodzinie, dynamika
+7. **Wywiad biograficzny** - kluczowe etapy życia
+8. **Ocena stanu aktualnego** - nastrój, funkcjonowanie, zasoby
+9. **Zamknięcie** - podsumowanie, pytania klienta, plan dalszego postępowania
 
 ---
 
@@ -84,12 +84,12 @@ Typowy wywiad kliniczny obejmuje następujące fazy:
 
 Skuteczny wywiad wymaga więcej niż zadawania pytań. Kluczowe techniki (Gordon, 1977; Miller & Rollnick, 2013):
 
-- **Odzwierciedlanie** (*reflection*) — parafrazowanie treści i emocji klienta
-- **Klaryfikacja** — prośba o doprecyzowanie niejasnych stwierdzeń
-- **Walidacja emocjonalna** — potwierdzenie, że odczucia klienta są zrozumiałe
-- **Otwarte pytania** — zachęcają do rozwinięcia, nie sugerują odpowiedzi
-- **Pytania sondujące** — „Co miał Pan/Pani na myśli mówiąc...?"
-- **Cisza terapeutyczna** — przestrzeń na refleksję klienta
+- **Odzwierciedlanie** (*reflection*) - parafrazowanie treści i emocji klienta
+- **Klaryfikacja** - prośba o doprecyzowanie niejasnych stwierdzeń
+- **Walidacja emocjonalna** - potwierdzenie, że odczucia klienta są zrozumiałe
+- **Otwarte pytania** - zachęcają do rozwinięcia, nie sugerują odpowiedzi
+- **Pytania sondujące** - „Co miał Pan/Pani na myśli mówiąc...?"
+- **Cisza terapeutyczna** - przestrzeń na refleksję klienta
 
 ---
 

@@ -6,11 +6,11 @@ evidenceCutoffDate: 2025-12-31
 
 # Spektrum autyzmu (ASD)
 
-Autyzm nie jest "chorobą" do wyleczenia — to neurodywergentny sposób funkcjonowania mózgu, który wiąże się zarówno z wyzwaniami, jak i unikalnymi mocnymi stronami. Zrozumienie spektrum wymaga odejścia od stereotypów.
+Autyzm nie jest "chorobą" do wyleczenia - to neurodywergentny sposób funkcjonowania mózgu, który wiąże się zarówno z wyzwaniami, jak i unikalnymi mocnymi stronami. Zrozumienie spektrum wymaga odejścia od stereotypów.
 
 ## Historia i ewolucja diagnozy
 
-**Leo Kanner** (1943) opisał 11 dzieci z "autyzmem wczesnodziecięcym" — izolacją społeczną, potrzebą niezmienności, echolalią i wybitnymi wyspami zdolności. **Hans Asperger** (1944, niezależnie) opisał "psychopatię autystyczną" — dzieci z trudnościami społecznymi, lecz normalnym rozwojem mowy i często ponadprzeciętną inteligencją.
+**Leo Kanner** (1943) opisał 11 dzieci z "autyzmem wczesnodziecięcym" - izolacją społeczną, potrzebą niezmienności, echolalią i wybitnymi wyspami zdolności. **Hans Asperger** (1944, niezależnie) opisał "psychopatię autystyczną" - dzieci z trudnościami społecznymi, lecz normalnym rozwojem mowy i często ponadprzeciętną inteligencją.
 
 DSM-5 (2013) zlikwidował oddzielne kategorie (autyzm, Asperger, PDD-NOS) na rzecz jednego **Spectrum Disorder (ASD)** z wymiarem nasilenia. To zmiana odzwierciedlająca rzeczywistość: autyzm to kontinuum, nie odrębne, ostre kategorie.
 
@@ -18,7 +18,7 @@ DSM-5 (2013) zlikwidował oddzielne kategorie (autyzm, Asperger, PDD-NOS) na rze
 
 Częstość ASD wzrosła dramatycznie w statystykach: od 1/10 000 (lata 70.) do ok. **1/36** w najnowszych danych CDC (2023) w USA. Wzrost jest wyjaśniany głównie przez: poszerzenie kryteriów diagnostycznych, wzrost świadomości i dostępności diagnozy, lepszą identyfikację u kobiet, dziewcząt i osób wysoko funkcjonujących. Częściowo mogą grać rolę faktyczne zmiany środowiskowe (ekspozycja na chemikalia, wiek rodzicielski).
 
-**Proporcja płci:** Historycznie 4:1 (chłopcy:dziewczynki). Nowsze dane sugerują, że dziewczynki z ASD są systematycznie niedodiagnozowane — częściowo przez lepsze "maskowanie" (ukrywanie objawów przez imitację zachowań społecznych).
+**Proporcja płci:** Historycznie 4:1 (chłopcy:dziewczynki). Nowsze dane sugerują, że dziewczynki z ASD są systematycznie niedodiagnozowane - częściowo przez lepsze "maskowanie" (ukrywanie objawów przez imitację zachowań społecznych).
 
 ## Kryteria diagnostyczne DSM-5
 
@@ -43,24 +43,24 @@ Częstość ASD wzrosła dramatycznie w statystykach: od 1/10 000 (lata 70.) do 
 
 **Hipoteza E/I (excitation/inhibition):** Dysbalans między pobudzeniem (glutaminian) a hamowaniem (GABA) w obwodach korowych może odpowiadać za hipersynchronię i hipersensytywność sensoryczną w ASD.
 
-**Neurony lustrzane:** Kontrowersyjna teoria "złamanego lustra" (Ramachandran) — dysfunkcja neuronów lustrzanych jako przyczyna deficytów empatii i imitacji. Dowody są mieszane i debata trwa.
+**Neurony lustrzane:** Kontrowersyjna teoria "złamanego lustra" (Ramachandran) - dysfunkcja neuronów lustrzanych jako przyczyna deficytów empatii i imitacji. Dowody są mieszane i debata trwa.
 
-> **Ciekawostka:** Badania wykazują, że osoby z ASD nie mają braku empatii — mają *odmienną* empatię. Mogą intensywnie odczuwać emocje innych (*alexithymia* jest częstym współwystępowaniem), lecz trudniej im interpretować niewyraźne sygnały społeczne. Termin "empatia introwertyczna" (Milton) opisuje, że autystyki często rozumieją się lepiej między sobą niż w relacjach z neurotypowymi.
+> **Ciekawostka:** Badania wykazują, że osoby z ASD nie mają braku empatii - mają *odmienną* empatię. Mogą intensywnie odczuwać emocje innych (*alexithymia* jest częstym współwystępowaniem), lecz trudniej im interpretować niewyraźne sygnały społeczne. Termin "empatia introwertyczna" (Milton) opisuje, że autystyki często rozumieją się lepiej między sobą niż w relacjach z neurotypowymi.
 
 ## Mocne strony i profil poznawczy
 
 ASD nie jest zestawem wyłącznie deficytów. Typowe mocne strony:
 - Szczegółowe, systemowe myślenie (strong systemizing);
-- Wyjątkowa precyzja percepcyjna (embedded figures test — widzenie detali ukrytych w obrazku);
+- Wyjątkowa precyzja percepcyjna (embedded figures test - widzenie detali ukrytych w obrazku);
 - Intensywne, głęboko zaangażowane zainteresowania (hyperfocus);
 - Wysoka wierność pamięciowa w obszarach zainteresowań;
 - Tendency toward literal, honest communication.
 
-**Wyspy zdolności (savant skills):** U ok. 10% osób z ASD (a nawet 50% ze współwystępującą niepełnosprawnością intelektualną) obserwuje się wybitne zdolności w wąskim obszarze (matematyka, muzyka, rysowanie, pamięć encyklopedyczna). Kim Peek — inspiracja dla "Rain Mana" — zapamiętał treść ponad 12 000 książek.
+**Wyspy zdolności (savant skills):** U ok. 10% osób z ASD (a nawet 50% ze współwystępującą niepełnosprawnością intelektualną) obserwuje się wybitne zdolności w wąskim obszarze (matematyka, muzyka, rysowanie, pamięć encyklopedyczna). Kim Peek - inspiracja dla "Rain Mana" - zapamiętał treść ponad 12 000 książek.
 
 ## Współwystępujące zaburzenia
 
-ASD rzadko występuje "samo" — współwystępujące zaburzenia są regułą:
+ASD rzadko występuje "samo" - współwystępujące zaburzenia są regułą:
 - ADHD (ok. 50–70%);
 - Lęk (40–60%);
 - Depresja (szczególnie u dorosłych i wysokofunkcjonujących);
@@ -72,20 +72,20 @@ ASD rzadko występuje "samo" — współwystępujące zaburzenia są regułą:
 ## Diagnoza i ocena
 
 Diagnoza ASD wymaga oceny wielodyscyplinarnej:
-- **ADOS-2** (Autism Diagnostic Observation Schedule) — złoty standard obserwacyjny;
-- **ADI-R** (Autism Diagnostic Interview-Revised) — ustrukturyzowany wywiad;
+- **ADOS-2** (Autism Diagnostic Observation Schedule) - złoty standard obserwacyjny;
+- **ADI-R** (Autism Diagnostic Interview-Revised) - ustrukturyzowany wywiad;
 - Ocena neuropsychologiczna, mowy, SI;
 - Konsultacja lekarska (wykluczenie przyczyn organicznych).
 
 ## Podejście terapeutyczne
 
-**Wczesna interwencja (ABA-based):** Stosowana analiza behawioralna (ABA), szczególnie EIBI (Early Intensive Behavioral Intervention) — intensywne, ustrukturyzowane programy ucząc komunikacji, interakcji i umiejętności adaptacyjnych. Kontrowersje dotyczą historycznych form ABA zmuszających do "normalności" — współczesne podejścia skupiają się na wsparciu QoL, nie "wyleczeniu".
+**Wczesna interwencja (ABA-based):** Stosowana analiza behawioralna (ABA), szczególnie EIBI (Early Intensive Behavioral Intervention) - intensywne, ustrukturyzowane programy ucząc komunikacji, interakcji i umiejętności adaptacyjnych. Kontrowersje dotyczą historycznych form ABA zmuszających do "normalności" - współczesne podejścia skupiają się na wsparciu QoL, nie "wyleczeniu".
 
 **Komunikacja wspomagająca (AAC):** Dla osób niekomunikujących werbalnie.
 
 **Wsparcie sensoryczne i środowiskowe:** Modyfikacje otoczenia zmniejszające bodźce przeciążające.
 
-**Podejście neurodywergencji:** Rosnący ruch autystycznych aktywistów postuluje "nic o nas bez nas" — rezygnację z podejścia "naprawiania" na rzecz wsparcia i akceptacji neurodywergencji.
+**Podejście neurodywergencji:** Rosnący ruch autystycznych aktywistów postuluje "nic o nas bez nas" - rezygnację z podejścia "naprawiania" na rzecz wsparcia i akceptacji neurodywergencji.
 
 
 ## Wprowadzenie

@@ -6,7 +6,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Neuron i synapsa
 
-Podstawowe jednostki układu nerwowego — struktura neuronu, przekazywanie sygnałów, neuroprzekaźniki i mechanizmy plastyczności synaptycznej.
+Podstawowe jednostki układu nerwowego - struktura neuronu, przekazywanie sygnałów, neuroprzekaźniki i mechanizmy plastyczności synaptycznej.
 
 ## Struktura neuronu
 
@@ -16,9 +16,9 @@ Podstawowe jednostki układu nerwowego — struktura neuronu, przekazywanie sygn
 
 ## Potencjał czynnościowy
 
-Sygnał w neuronie to *potencjał czynnościowy* — szybka, samopodtrzymująca się fala depolaryzacji błony komórkowej. Potencjał spoczynkowy wynosi ~−70 mV. Po otwarciu kanałów Na⁺ jony sodu wpływają do komórki i powodują lawinową depolaryzację do ~+30 mV. Następuje repolaryzacja przez wypływ K⁺, a potem przejściowa hiperpolaryzacja (przerwa refrakcyjna).
+Sygnał w neuronie to *potencjał czynnościowy* - szybka, samopodtrzymująca się fala depolaryzacji błony komórkowej. Potencjał spoczynkowy wynosi ~−70 mV. Po otwarciu kanałów Na⁺ jony sodu wpływają do komórki i powodują lawinową depolaryzację do ~+30 mV. Następuje repolaryzacja przez wypływ K⁺, a potem przejściowa hiperpolaryzacja (przerwa refrakcyjna).
 
-Przewodzenie wzdłuż aksonu z osłonką jest *saltatoryjne (skokowe)* — impuls przeskakuje między węzłami Ranviera, co przyspiesza transmisję do 120 m/s w włóknach mielinizowanych.
+Przewodzenie wzdłuż aksonu z osłonką jest *saltatoryjne (skokowe)* - impuls przeskakuje między węzłami Ranviera, co przyspiesza transmisję do 120 m/s w włóknach mielinizowanych.
 
 ## Synapsa i neuroprzekaźniki
 
@@ -37,11 +37,11 @@ Przewodzenie wzdłuż aksonu z osłonką jest *saltatoryjne (skokowe)* — impul
 
 *Plastyczność* to zdolność synaps do zmiany siły w odpowiedzi na aktywność. To podstawa uczenia się i pamięci.
 
-**LTP (Long-Term Potentiation)** — *długotrwała potencjacja*, trwałe wzmocnienie synapsy po wysokiej aktywności. Wymaga aktywacji receptorów NMDA (wpływ Ca²⁺) i kinaz białkowych. To główny mechanizm uczenia się w hipokampie.
+**LTP (Long-Term Potentiation)** - *długotrwała potencjacja*, trwałe wzmocnienie synapsy po wysokiej aktywności. Wymaga aktywacji receptorów NMDA (wpływ Ca²⁺) i kinaz białkowych. To główny mechanizm uczenia się w hipokampie.
 
-**LTD (Long-Term Depression)** — *długotrwała depresja*, osłabienie synapsy przy niskiej aktywności. Może być mechanizmem zapominania lub „czyszczenia" nieużywanych połączeń.
+**LTD (Long-Term Depression)** - *długotrwała depresja*, osłabienie synapsy przy niskiej aktywności. Może być mechanizmem zapominania lub „czyszczenia" nieużywanych połączeń.
 
-> **Reguła Hebba**: „Neurony, które razem się aktywują, razem się łączą." Skorelowana aktywność pre- i postsynaptyczna wzmacnia połączenie — to fundament LTP.
+> **Reguła Hebba**: „Neurony, które razem się aktywują, razem się łączą." Skorelowana aktywność pre- i postsynaptyczna wzmacnia połączenie - to fundament LTP.
 
 
 ## Wprowadzenie

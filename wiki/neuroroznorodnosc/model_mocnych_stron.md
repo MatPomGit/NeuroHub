@@ -8,16 +8,16 @@ evidenceCutoffDate: 2025-12-31
 
 ## Czym jest model mocnych stron?
 
-**Model mocnych stron** (ang. *strengths-based approach*) w neuroróżnorodności to podejście, które zamiast koncentrować się wyłącznie na deficytach i trudnościach osoby neuroatypowej, systematycznie identyfikuje, buduje i celebruje jej zasoby, talenty i potencjał. Jest to perspektywa komplementarna wobec modelu medycznego — nie zaprzecza realności trudności, ale odmawia sprowadzenia człowieka wyłącznie do listy jego objawów.
+**Model mocnych stron** (ang. *strengths-based approach*) w neuroróżnorodności to podejście, które zamiast koncentrować się wyłącznie na deficytach i trudnościach osoby neuroatypowej, systematycznie identyfikuje, buduje i celebruje jej zasoby, talenty i potencjał. Jest to perspektywa komplementarna wobec modelu medycznego - nie zaprzecza realności trudności, ale odmawia sprowadzenia człowieka wyłącznie do listy jego objawów.
 
 Korzenie modelu mocnych stron leżą w:
-- **Psychologii pozytywnej** (Seligman, Csikszentmihalyi) — koncentrującej się na tym, co sprawia, że życie jest warte przeżycia
+- **Psychologii pozytywnej** (Seligman, Csikszentmihalyi) - koncentrującej się na tym, co sprawia, że życie jest warte przeżycia
 - **Filozofii rehabilitacji** i modelu społecznym niepełnosprawności
 - **Nurcie samorzecznictwa** osób neuroatypowych, który od lat 90. XX wieku podważa narrację o autyzmie, ADHD i dysleksji jako czysto deficytowych
 
-> **Fakt:** Badania Hidi i Renninger (2006) nad zainteresowaniami jako zasobem poznawczym wykazują, że zainteresowania stanowią silny czynnik motywacyjny i sprzyjają pogłębionemu uczeniu się — co ma szczególne znaczenie dla osób z ADHD i autyzmem, u których zainteresowania intensywne są często charakterystyczną cechą profilu.
+> **Fakt:** Badania Hidi i Renninger (2006) nad zainteresowaniami jako zasobem poznawczym wykazują, że zainteresowania stanowią silny czynnik motywacyjny i sprzyjają pogłębionemu uczeniu się - co ma szczególne znaczenie dla osób z ADHD i autyzmem, u których zainteresowania intensywne są często charakterystyczną cechą profilu.
 
-## Reframing — zmiana ramy interpretacyjnej
+## Reframing - zmiana ramy interpretacyjnej
 
 **Reframing** to kluczowe narzędzie w podejściu opartym na mocnych stronach. Polega na świadomej zmianie języka opisu z deficytowego na zasobowy, bez zaprzeczania trudnościom.
 
@@ -30,7 +30,7 @@ Przykłady reframingu w neuroróżnorodności:
 | „Pacjent obsesyjnie skupia się na detalach" | „Pacjent wykazuje wyjątkową dbałość o precyzję i głębię ekspertyzy" |
 | „Osoba z dysleksją nie umie czytać" | „Osoba z dysleksją przetwarza informacje wielowymiarowo i myśli obrazami" |
 
-Reframing nie jest zaprzeczaniem trudnościom — jest rozszerzaniem obrazu osoby poza jej najtrudniejsze momenty.
+Reframing nie jest zaprzeczaniem trudnościom - jest rozszerzaniem obrazu osoby poza jej najtrudniejsze momenty.
 
 ## Tożsamość oparta na mocnych stronach
 
@@ -47,7 +47,7 @@ Kontrast z narracją deficytową jest uderzający: osoby, których tożsamość 
 
 ## Profil VIA i mocne strony charakteru
 
-Narzędziem często stosowanym w pracy z osobami neuroatypowymi jest **VIA Survey of Character Strengths** (Peterson, Seligman) — kwestionariusz identyfikujący 24 mocne strony charakteru pogrupowane w 6 cnót. W kontekście neuroróżnorodności VIA może pomóc:
+Narzędziem często stosowanym w pracy z osobami neuroatypowymi jest **VIA Survey of Character Strengths** (Peterson, Seligman) - kwestionariusz identyfikujący 24 mocne strony charakteru pogrupowane w 6 cnót. W kontekście neuroróżnorodności VIA może pomóc:
 
 - Przesunąć rozmowę z ograniczeń na zasoby podczas sesji terapeutycznych
 - Zidentyfikować mocne strony, na których można budować strategie kompensacyjne
@@ -59,24 +59,24 @@ Typowe mocne strony często zgłaszane przez osoby neuroatypowe to m.in.: ciekaw
 
 W środowisku szkolnym podejście oparte na mocnych stronach przekłada się na:
 
-- **Planowanie nauczania z uwzględnieniem pasji ucznia** — angażowanie zainteresowań jako pomostu do nauki trudniejszych treści.
-- **Informacja zwrotna opisowa** — zamiast punktów i ocen, opis konkretnych mocnych stron i kroków do poprawy.
-- **Projektowanie zadań uwzględniające różnorodność modalności** — nie tylko tekst pisany, ale też projekty, prezentacje wideo, modele przestrzenne.
-- **Portfolio mocnych stron** — dokumentowanie osiągnięć ucznia przez pryzmat jego potencjału, nie wyłącznie braków.
+- **Planowanie nauczania z uwzględnieniem pasji ucznia** - angażowanie zainteresowań jako pomostu do nauki trudniejszych treści.
+- **Informacja zwrotna opisowa** - zamiast punktów i ocen, opis konkretnych mocnych stron i kroków do poprawy.
+- **Projektowanie zadań uwzględniające różnorodność modalności** - nie tylko tekst pisany, ale też projekty, prezentacje wideo, modele przestrzenne.
+- **Portfolio mocnych stron** - dokumentowanie osiągnięć ucznia przez pryzmat jego potencjału, nie wyłącznie braków.
 
 ## Ograniczenia i krytyka
 
 Model mocnych stron nie jest wolny od ograniczeń:
 
-- Nieumiejętne stosowanie może prowadzić do **trivializacji trudności** — „masz tyle mocnych stron, że trudności nie są problemem". To fałszywe pocieszenie, które może opóźniać poszukiwanie niezbędnego wsparcia.
-- **Presja na pozytywność** (*toxic positivity*) — wymóg bycia wdzięcznym za swoją neuroatypowość może być alienujący dla osób doświadczających poważnych trudności.
-- Model mocnych stron wymaga solidnego **rozpoznania trudności** jako punktu wyjścia — bez tego zasoby nie są budowane we właściwych miejscach.
+- Nieumiejętne stosowanie może prowadzić do **trivializacji trudności** - „masz tyle mocnych stron, że trudności nie są problemem". To fałszywe pocieszenie, które może opóźniać poszukiwanie niezbędnego wsparcia.
+- **Presja na pozytywność** (*toxic positivity*) - wymóg bycia wdzięcznym za swoją neuroatypowość może być alienujący dla osób doświadczających poważnych trudności.
+- Model mocnych stron wymaga solidnego **rozpoznania trudności** jako punktu wyjścia - bez tego zasoby nie są budowane we właściwych miejscach.
 
 Zdrowe stosowanie modelu mocnych stron to balans: szczere uznanie wyzwań + aktywne poszukiwanie i budowanie zasobów.
 
 ## Podsumowanie
 
-Model mocnych stron w neuroróżnorodności to nie naiwny optymizm, lecz strategiczne i humanistyczne podejście do wspierania osób neuroatypowych. Traktując ludzi jako całość — z ich trudnościami i talentami, słabościami i mocnymi stronami — budujemy interwencje skuteczniejsze i bardziej szanujące godność człowieka niż te, które koncentrują się wyłącznie na „naprawianiu" tego, co nie działa.
+Model mocnych stron w neuroróżnorodności to nie naiwny optymizm, lecz strategiczne i humanistyczne podejście do wspierania osób neuroatypowych. Traktując ludzi jako całość - z ich trudnościami i talentami, słabościami i mocnymi stronami - budujemy interwencje skuteczniejsze i bardziej szanujące godność człowieka niż te, które koncentrują się wyłącznie na „naprawianiu" tego, co nie działa.
 
 
 ## Wprowadzenie

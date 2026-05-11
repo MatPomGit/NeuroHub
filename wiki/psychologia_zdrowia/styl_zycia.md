@@ -37,20 +37,20 @@ Samo posiadanie wiedzy o zdrowotnych skutkach zachowań rzadko wystarczy do zmia
 
 ## Modele psychologiczne zmiany zachowań zdrowotnych
 
-- **Transtheoretical Model (TTM)** — Prochaska i DiClemente: etapy zmiany od prekontemplacji do utrzymania.
-- **Health Belief Model (HBM)** — rola postrzeganego ryzyka i korzyści.
-- **Self-Determination Theory (SDT)** — autonomiczna motywacja vs. zewnętrzna presja.
-- **Theory of Planned Behavior** — rola norm subiektywnych i intencji.
+- **Transtheoretical Model (TTM)** - Prochaska i DiClemente: etapy zmiany od prekontemplacji do utrzymania.
+- **Health Belief Model (HBM)** - rola postrzeganego ryzyka i korzyści.
+- **Self-Determination Theory (SDT)** - autonomiczna motywacja vs. zewnętrzna presja.
+- **Theory of Planned Behavior** - rola norm subiektywnych i intencji.
 - **Implementacyjne intencje** (Gollwitzer): plany „kiedy–wtedy" zwiększają realizację zamierzeń.
 
 ## Interwencje psychologiczne
 
 Skuteczne metody wspierania zmiany stylu życia:
 
-- **Dialog motywujący (MI)** — wzmacnianie autonomicznej motywacji.
-- **CBT-based lifestyle programs** — praca z przekonaniami i planowanie zachowań.
-- **Nudging** (projektowanie środowiska) — ułatwianie zdrowych wyborów domyślnych.
-- **Grupy wsparcia i aplikacje zdrowotne** — społeczne wzmacnianie i monitoring.
+- **Dialog motywujący (MI)** - wzmacnianie autonomicznej motywacji.
+- **CBT-based lifestyle programs** - praca z przekonaniami i planowanie zachowań.
+- **Nudging** (projektowanie środowiska) - ułatwianie zdrowych wyborów domyślnych.
+- **Grupy wsparcia i aplikacje zdrowotne** - społeczne wzmacnianie i monitoring.
 
 ## Przykład
 

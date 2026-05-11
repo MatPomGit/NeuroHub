@@ -8,19 +8,19 @@ evidenceCutoffDate: 2025-12-31
 
 ## Wprowadzenie
 
-Terapia grupowa jest jedną z najszerzej stosowanych i najlepiej udokumentowanych form leczenia uzależnień. Grupy oferują coś, czego terapia indywidualna nie jest w stanie zapewnić: **doświadczenie wspólnoty** — poczucie, że nie jest się samemu ze swoim problemem, że inni rozumieją i przeszli podobną drogę. Od tradycyjnych grup 12-kroków po nowocześniejsze podejścia oparte na dowodach — terapia grupowa pozostaje filarem leczenia uzależnień.
+Terapia grupowa jest jedną z najszerzej stosowanych i najlepiej udokumentowanych form leczenia uzależnień. Grupy oferują coś, czego terapia indywidualna nie jest w stanie zapewnić: **doświadczenie wspólnoty** - poczucie, że nie jest się samemu ze swoim problemem, że inni rozumieją i przeszli podobną drogę. Od tradycyjnych grup 12-kroków po nowocześniejsze podejścia oparte na dowodach - terapia grupowa pozostaje filarem leczenia uzależnień.
 
 ---
 
-## Historia i tradycja AA/NA — 12 kroków
+## Historia i tradycja AA/NA - 12 kroków
 
 ### Anonimowi Alkoholicy (AA)
 
-**Anonimowi Alkoholicy** zostali założeni w 1935 roku przez Billa Wilsona i Boba Smitha w Akron, Ohio. Program opiera się na **12 krokach** — kolejnych etapach pracy nad uznaniem bezsilności wobec alkoholu, odpowiedzialności za wyrządzone szkody i duchowym odrodzeniu.
+**Anonimowi Alkoholicy** zostali założeni w 1935 roku przez Billa Wilsona i Boba Smitha w Akron, Ohio. Program opiera się na **12 krokach** - kolejnych etapach pracy nad uznaniem bezsilności wobec alkoholu, odpowiedzialności za wyrządzone szkody i duchowym odrodzeniu.
 
 #### 12 kroków AA
 
-1. Przyznaliśmy, że jesteśmy bezsilni wobec alkoholu — że nasze życie stało się niekierowalne
+1. Przyznaliśmy, że jesteśmy bezsilni wobec alkoholu - że nasze życie stało się niekierowalne
 2. Uwierzyliśmy, że Siła większa od nas samych może przywrócić nam zdrowie
 3–12. Kolejne kroki prowadzą przez inwentarz moralny, naprawienie krzywd, praktykę duchowości i służenie innym
 
@@ -30,11 +30,11 @@ Oparte na tych samych zasadach, NA rozszerzyły podejście na wszystkie substanc
 
 ### Mechanizmy działania AA/NA
 
-- **Identyfikacja** — „jestem alkoholikiem" usuwa zaprzeczanie
-- **Wspólnota** — doświadczenie przynależności i akceptacji
-- **Sponsor** — indywidualny mentor z doświadczeniem abstynencji
-- **Struktura** — regularne spotkania nadają rytm dniom
-- **Duchowość** — nie religijna, lecz oparta na poddaniu się czemuś większemu niż własne ego
+- **Identyfikacja** - „jestem alkoholikiem" usuwa zaprzeczanie
+- **Wspólnota** - doświadczenie przynależności i akceptacji
+- **Sponsor** - indywidualny mentor z doświadczeniem abstynencji
+- **Struktura** - regularne spotkania nadają rytm dniom
+- **Duchowość** - nie religijna, lecz oparta na poddaniu się czemuś większemu niż własne ego
 
 Badania wskazują, że regularne uczestnictwo w AA/NA **podwaja szansę** na utrzymanie abstynencji rok po leczeniu (Humphreys, 2004).
 
@@ -47,9 +47,9 @@ Badania wskazują, że regularne uczestnictwo w AA/NA **podwaja szansę** na utr
 ### Cztery punkty SMART
 
 1. **Budowanie motywacji** do zmiany i jej utrzymania
-2. **Radzenie sobie z głodem** — techniki dystansowania i rozpraszania
-3. **Zarządzanie myślami, uczuciami i zachowaniami** — techniki CBT
-4. **Równoważenie życia** — budowanie zdrowego trybu życia i długoterminowego dobrostanu
+2. **Radzenie sobie z głodem** - techniki dystansowania i rozpraszania
+3. **Zarządzanie myślami, uczuciami i zachowaniami** - techniki CBT
+4. **Równoważenie życia** - budowanie zdrowego trybu życia i długoterminowego dobrostanu
 
 SMART nie wymaga wyznawania bezsilności ani spiritualności. Uczestnicy są zachęcani do samodzielności i rozwijania własnych zasobów.
 
@@ -61,10 +61,10 @@ Grupowe podejście **poznawczo-behawioralne** (*CBT groups*) koncentruje się na
 
 ### Kluczowe elementy
 
-- **Analiza wyzwalaczy** (*triggers*) — identyfikacja sytuacji wysokiego ryzyka nawrotu
-- **Restrukturyzacja poznawcza** — praca z przekonaniami podtrzymującymi uzależnienie
-- **Trening umiejętności** — asertywność, radzenie sobie ze stresem, odmowa substancji
-- **Zapobieganie nawrotom** — planowanie reakcji na głód i wyzwalacze
+- **Analiza wyzwalaczy** (*triggers*) - identyfikacja sytuacji wysokiego ryzyka nawrotu
+- **Restrukturyzacja poznawcza** - praca z przekonaniami podtrzymującymi uzależnienie
+- **Trening umiejętności** - asertywność, radzenie sobie ze stresem, odmowa substancji
+- **Zapobieganie nawrotom** - planowanie reakcji na głód i wyzwalacze
 
 Grupy CBT mają ustrukturyzowany charakter, zwykle 12–16 sesji, z konkretnymi ćwiczeniami i pracą domową między sesjami.
 
@@ -77,9 +77,9 @@ Irvin Yalom zidentyfikował **11 czynników leczących** w psychoterapii grupowe
 | Czynnik Yaloma | Znaczenie w uzależnieniach |
 |----------------|---------------------------|
 | **Wzbudzanie nadziei** | Obserwacja wyzdrowienia innych; „jeśli jemu się udało, może i mnie się uda" |
-| **Universalność** | „Nie jestem jedynym z tym problemem" — redukcja wstydu i izolacji |
+| **Universalność** | „Nie jestem jedynym z tym problemem" - redukcja wstydu i izolacji |
 | **Przekazywanie informacji** | Psychoedukacja o uzależnieniu, nawrocie, mechanizmach nałogu |
-| **Altruizm** | Pomaganie innym uczestnikom — buduje poczucie wartości |
+| **Altruizm** | Pomaganie innym uczestnikom - buduje poczucie wartości |
 | **Korekcyjne doświadczenie rodzinne** | Grupa jako nowa, zdrowsza „rodzina" |
 | **Uczenie się przez obserwację** | Modelowanie zachowań trzeźwościowych przez bardziej doświadczonych uczestników |
 | **Interpersonalne uczenie się** | Praca nad relacjami w tu-i-teraz grupy |
@@ -94,24 +94,24 @@ Irvin Yalom zidentyfikował **11 czynników leczących** w psychoterapii grupowe
 
 ### Techniki w grupach uzależnień
 
-- **Pytanie o cud** — „Wyobraź sobie, że budzisz się jutro rano i problem zniknął — jak wyglądałoby Twoje życie?"
-- **Skala** — „Na skali 1–10 jak blisko jesteś celu? Co zrobiłoby, że byłbyś o punkt wyżej?"
-- **Wyjątki od problemu** — „Kiedy w ostatnim tygodniu opierałeś się głodowi? Co sprawiło, że to się udało?"
-- **Komplementowanie i uznawanie zasobów** — aktywne wskazywanie mocnych stron uczestników
+- **Pytanie o cud** - „Wyobraź sobie, że budzisz się jutro rano i problem zniknął - jak wyglądałoby Twoje życie?"
+- **Skala** - „Na skali 1–10 jak blisko jesteś celu? Co zrobiłoby, że byłbyś o punkt wyżej?"
+- **Wyjątki od problemu** - „Kiedy w ostatnim tygodniu opierałeś się głodowi? Co sprawiło, że to się udało?"
+- **Komplementowanie i uznawanie zasobów** - aktywne wskazywanie mocnych stron uczestników
 
-SFA jest szczególnie wartościowe w pracy z osobami w prekontemplatacji lub ambiwalencji — zmniejsza opór przez skupienie na przyszłości i możliwościach.
+SFA jest szczególnie wartościowe w pracy z osobami w prekontemplatacji lub ambiwalencji - zmniejsza opór przez skupienie na przyszłości i możliwościach.
 
 ---
 
-## Grupy dla rodzin — Al-Anon, Alateen
+## Grupy dla rodzin - Al-Anon, Alateen
 
 ### Al-Anon
 
 Program samopomocowy dla dorosłych bliskich osób uzależnionych. Opiera się na adaptacji 12 kroków AA. Centralne przesłanie: **oddzielenie własnego zdrowia od choroby bliskiego**.
 
 Kluczowe zasady Al-Anon:
-- *Detachment with love* — emocjonalne oddzielenie bez odrzucenia
-- Nieosądzanie — uzależnienie jako choroba, nie wada moralna
+- *Detachment with love* - emocjonalne oddzielenie bez odrzucenia
+- Nieosądzanie - uzależnienie jako choroba, nie wada moralna
 - Praca nad własnym życiem, nie kontrolowanie uzależnionego
 
 ### Alateen
@@ -120,7 +120,7 @@ Program dla nastolatków wychowywanych w rodzinach z problemem alkoholowym. Rów
 
 ### Grupy DDA
 
-Grupy dla **Dorosłych Dzieci Alkoholików** — praca z traumą dzieciństwa, wzorcami rodzinnymi i tożsamością ukształtowaną w dysfunkcyjnej rodzinie.
+Grupy dla **Dorosłych Dzieci Alkoholików** - praca z traumą dzieciństwa, wzorcami rodzinnymi i tożsamością ukształtowaną w dysfunkcyjnej rodzinie.
 
 ---
 
@@ -137,7 +137,7 @@ Grupy dla **Dorosłych Dzieci Alkoholików** — praca z traumą dzieciństwa, w
 
 ## Podsumowanie
 
-Terapia grupowa w uzależnieniach działa wieloma kanałami jednocześnie: redukuje izolację, buduje poczucie przynależności, dostarcza narzędzi i modeli do naśladowania. Różnorodność podejść — od duchowych 12 kroków po oparte na dowodach CBT i SMART — pozwala dopasować formę do potrzeb, przekonań i etapu zmiany pacjenta.
+Terapia grupowa w uzależnieniach działa wieloma kanałami jednocześnie: redukuje izolację, buduje poczucie przynależności, dostarcza narzędzi i modeli do naśladowania. Różnorodność podejść - od duchowych 12 kroków po oparte na dowodach CBT i SMART - pozwala dopasować formę do potrzeb, przekonań i etapu zmiany pacjenta.
 
 ---
 

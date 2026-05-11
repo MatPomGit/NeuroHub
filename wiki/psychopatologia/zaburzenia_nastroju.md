@@ -6,7 +6,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Zaburzenia nastroju
 
-Depresja, choroba afektywna dwubiegunowa i zaburzenia pokrewne — kryteria diagnostyczne i obraz kliniczny.
+Depresja, choroba afektywna dwubiegunowa i zaburzenia pokrewne - kryteria diagnostyczne i obraz kliniczny.
 
 ## Epizod depresyjny
 
@@ -20,15 +20,15 @@ Co najmniej jeden epizod depresyjny bez historii epizodów maniakalnych lub hipo
 
 ## Choroba afektywna dwubiegunowa (ChAD)
 
-**ChAD I** — co najmniej jeden epizod maniakalny (podwyższony/drażliwy nastrój, ↑ energia, zmniejszona potrzeba snu, gonitwa myśli, grandiozja, ryzykowne zachowania ≥7 dni lub wymagający hospitalizacji). Epizody depresyjne są częstsze i dłuższe niż maniakalne.
+**ChAD I** - co najmniej jeden epizod maniakalny (podwyższony/drażliwy nastrój, ↑ energia, zmniejszona potrzeba snu, gonitwa myśli, grandiozja, ryzykowne zachowania ≥7 dni lub wymagający hospitalizacji). Epizody depresyjne są częstsze i dłuższe niż maniakalne.
 
-**ChAD II** — epizody depresyjne + co najmniej jeden epizod hipomaniakalny (jak mania, ale ≥4 dni, bez hospitalizacji, bez psychozy). Częste błędne diagnozowanie jako MDD.
+**ChAD II** - epizody depresyjne + co najmniej jeden epizod hipomaniakalny (jak mania, ale ≥4 dni, bez hospitalizacji, bez psychozy). Częste błędne diagnozowanie jako MDD.
 
-**Cyklotymia** — fluktuacje nastroju nie spełniające kryteriów pełnych epizodów przez co najmniej 2 lata.
+**Cyklotymia** - fluktuacje nastroju nie spełniające kryteriów pełnych epizodów przez co najmniej 2 lata.
 
 ## Dystymia i PDD
 
-**Trwałe zaburzenie depresyjne** (PDD, dawna dystymia): przewlekle obniżony nastrój przez ≥2 lata z co najmniej 2 objawami towarzyszącymi. *Podwójna depresja* — MDD nałożone na dystymię.
+**Trwałe zaburzenie depresyjne** (PDD, dawna dystymia): przewlekle obniżony nastrój przez ≥2 lata z co najmniej 2 objawami towarzyszącymi. *Podwójna depresja* - MDD nałożone na dystymię.
 
 ## Leczenie
 

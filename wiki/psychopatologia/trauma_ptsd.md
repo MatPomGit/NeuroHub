@@ -6,7 +6,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Trauma i PTSD
 
-Zaburzenie stresowe pourazowe — kryteria diagnostyczne, złożone PTSD i metody leczenia oparte na dowodach.
+Zaburzenie stresowe pourazowe - kryteria diagnostyczne, złożone PTSD i metody leczenia oparte na dowodach.
 
 ## Czym jest trauma?
 
@@ -14,13 +14,13 @@ Zaburzenie stresowe pourazowe — kryteria diagnostyczne, złożone PTSD i metod
 
 ## Kryteria PTSD (DSM-5)
 
-**Kryterium B — intruzje**: nawracające wspomnienia, koszmary senne, flashbacki (dysocjacyjne reminiscencje), intensywny dystres przy ekspozycji na bodźce przypominające traumę.
+**Kryterium B - intruzje**: nawracające wspomnienia, koszmary senne, flashbacki (dysocjacyjne reminiscencje), intensywny dystres przy ekspozycji na bodźce przypominające traumę.
 
-**Kryterium C — unikanie**: unikanie myśli, uczuć lub zewnętrznych przypomnień traumy.
+**Kryterium C - unikanie**: unikanie myśli, uczuć lub zewnętrznych przypomnień traumy.
 
-**Kryterium D — negatywne zmiany poznawcze i nastroju**: amnezja traumatyczna, trwale negatywne przekonania o sobie lub świecie, poczucie winy, alienacja, anhedonia, stępiałość emocjonalna.
+**Kryterium D - negatywne zmiany poznawcze i nastroju**: amnezja traumatyczna, trwale negatywne przekonania o sobie lub świecie, poczucie winy, alienacja, anhedonia, stępiałość emocjonalna.
 
-**Kryterium E — zmiany pobudzenia**: nadmierna czujność, reakcja przestrachowa, zaburzenia koncentracji, snu, drażliwość i zachowania ryzykowne.
+**Kryterium E - zmiany pobudzenia**: nadmierna czujność, reakcja przestrachowa, zaburzenia koncentracji, snu, drażliwość i zachowania ryzykowne.
 
 > Objawy muszą trwać >1 miesiąc i powodować istotne zaburzenie funkcjonowania lub cierpienie.
 
@@ -30,11 +30,11 @@ Zaburzenie stresowe pourazowe — kryteria diagnostyczne, złożone PTSD i metod
 
 ## Leczenie oparte na dowodach
 
-**Prolonged Exposure (PE)** — systematyczna ekspozycja na narrację traumatyczną i bodźce unikane; prowadzi do habitacji i restrukturyzacji pamięci emocjonalnej.
+**Prolonged Exposure (PE)** - systematyczna ekspozycja na narrację traumatyczną i bodźce unikane; prowadzi do habitacji i restrukturyzacji pamięci emocjonalnej.
 
-**Cognitive Processing Therapy (CPT)** — identyfikacja i zmiana „utknięć poznawczych" (stuck points) — fałszywych przekonań wynikających z traumy.
+**Cognitive Processing Therapy (CPT)** - identyfikacja i zmiana „utknięć poznawczych" (stuck points) - fałszywych przekonań wynikających z traumy.
 
-**EMDR** (Eye Movement Desensitization and Reprocessing, Shapiro) — przetwarzanie traumy z jednoczesną stymulacją bilateralną. Skuteczność porównywalna z PE.
+**EMDR** (Eye Movement Desensitization and Reprocessing, Shapiro) - przetwarzanie traumy z jednoczesną stymulacją bilateralną. Skuteczność porównywalna z PE.
 
 Farmakoterapia (SSRI, prazosin w koszmarach nocnych) jest uzupełnieniem psychoterapii.
 

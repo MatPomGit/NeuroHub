@@ -6,7 +6,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Superwizja i odpowiedzialność zawodowa psychologa
 
-Superwizja jest kluczowym mechanizmem podtrzymywania jakości i bezpieczeństwa praktyki psychologicznej. Jednocześnie wpisuje się w szerszy system **odpowiedzialności zawodowej** — etycznej, dyscyplinarnej i prawnej — który chroni klientów i buduje zaufanie do profesji.
+Superwizja jest kluczowym mechanizmem podtrzymywania jakości i bezpieczeństwa praktyki psychologicznej. Jednocześnie wpisuje się w szerszy system **odpowiedzialności zawodowej** - etycznej, dyscyplinarnej i prawnej - który chroni klientów i buduje zaufanie do profesji.
 
 ---
 
@@ -38,8 +38,8 @@ Postępowania etyczne wszczynane są na wniosek klienta, innego psychologa lub z
 
 W Polsce reguluje ją **Ustawa o zawodzie psychologa i samorządzie zawodowym psychologów** z 2001 r. (choć samorząd nadal nie jest w pełni powołany). Projektowany model zakłada:
 
-- **Regionalną izbę psychologów** — prowadzi postępowania dyscyplinarne
-- **Sąd dyscyplinarny** — orzeka kary: upomnienie, nagana, zawieszenie prawa wykonywania zawodu (do 5 lat), pozbawienie prawa wykonywania zawodu
+- **Regionalną izbę psychologów** - prowadzi postępowania dyscyplinarne
+- **Sąd dyscyplinarny** - orzeka kary: upomnienie, nagana, zawieszenie prawa wykonywania zawodu (do 5 lat), pozbawienie prawa wykonywania zawodu
 - **Odwołanie** do wyższego sądu dyscyplinarnego lub sądu powszechnego
 
 ### 3. Odpowiedzialność cywilna
@@ -49,7 +49,7 @@ Psycholog może ponosić odpowiedzialność cywilną za **szkodę wyrządzoną k
 - naruszył standardy należytej staranności (*standard of care*)
 - pomiędzy naruszeniem a szkodą istnieje związek przyczynowy
 
-Kluczowe pojęcia to **malpractice** (zaniedbanie zawodowe) i **negligence** (niedbalstwo). Superwizja jest istotnym elementem ochrony — dokumentuje, że psycholog działał zgodnie z dobrą praktyką lub w razie wątpliwości szukał wsparcia.
+Kluczowe pojęcia to **malpractice** (zaniedbanie zawodowe) i **negligence** (niedbalstwo). Superwizja jest istotnym elementem ochrony - dokumentuje, że psycholog działał zgodnie z dobrą praktyką lub w razie wątpliwości szukał wsparcia.
 
 ### 4. Odpowiedzialność karna
 
@@ -76,11 +76,11 @@ Superwizja regularnie podejmuje tematy z obszaru etyki, m.in.:
 
 Superwizor w kontekście etycznym ma następujące obowiązki:
 
-1. **Utrzymywać kompetencje superwizyjne** — superwizja jest umiejętnością odrębną od terapii; wymaga osobnego szkolenia
-2. **Zawrzeć kontrakt superwizyjny** — jasno określający cele, zakres, poufność i jej granice (np. gdy superwizant działa nieetycznie)
-3. **Modelować postawy etyczne** — własnym zachowaniem demonstrować standardy profesji
+1. **Utrzymywać kompetencje superwizyjne** - superwizja jest umiejętnością odrębną od terapii; wymaga osobnego szkolenia
+2. **Zawrzeć kontrakt superwizyjny** - jasno określający cele, zakres, poufność i jej granice (np. gdy superwizant działa nieetycznie)
+3. **Modelować postawy etyczne** - własnym zachowaniem demonstrować standardy profesji
 4. **Interweniować** gdy superwizant postępuje nieetycznie lub działa poza granicami kompetencji
-5. **Dokumentować superwizję** — notatki z sesji, omawiane przypadki, decyzje i zalecenia
+5. **Dokumentować superwizję** - notatki z sesji, omawiane przypadki, decyzje i zalecenia
 6. **Respektować poufność** superwizanta z zachowaniem wyjątków (ryzyko dla klienta, wymóg prawny)
 
 ### Odpowiedzialność superwizora za działania superwizanta
@@ -97,10 +97,10 @@ Superwizor może ponosić **odpowiedzialność zastępczą** (*vicarious liabili
 
 Odpowiedzialność zawodowa obejmuje również **samorefleksję i samoopiekę**:
 
-- **Samoocena kompetencji** — regularne pytanie: czy jestem wystarczająco kompetentny w tym obszarze?
-- **Dbanie o własny dobrostan** — wypalenie zawodowe, stany emocjonalne superwizanta mogą szkodzić klientom
-- **Superwizja własna** — psychologowie z wieloletnim stażem powinni utrzymywać przynajmniej sporadyczną superwizję lub konsultacje koleżeńskie
-- **Doskonalenie zawodowe** — obowiązek stałego uzupełniania wiedzy i umiejętności (CPD — *Continuing Professional Development*)
+- **Samoocena kompetencji** - regularne pytanie: czy jestem wystarczająco kompetentny w tym obszarze?
+- **Dbanie o własny dobrostan** - wypalenie zawodowe, stany emocjonalne superwizanta mogą szkodzić klientom
+- **Superwizja własna** - psychologowie z wieloletnim stażem powinni utrzymywać przynajmniej sporadyczną superwizję lub konsultacje koleżeńskie
+- **Doskonalenie zawodowe** - obowiązek stałego uzupełniania wiedzy i umiejętności (CPD - *Continuing Professional Development*)
 
 ---
 
@@ -108,22 +108,22 @@ Odpowiedzialność zawodowa obejmuje również **samorefleksję i samoopiekę**:
 
 Rzetelna dokumentacja jest **fundamentem odpowiedzialności zawodowej**:
 
-- **Notatki kliniczne** — odzwierciedlają przebieg diagnozy i terapii, decyzje i ich uzasadnienia
-- **Formularz świadomej zgody** — dowód, że klient był poinformowany o warunkach współpracy
-- **Notatki z konsultacji i superwizji** — dowód działania w dobrej wierze w trudnych przypadkach
-- **Zapis incydentów krytycznych** — dokumentacja sytuacji kryzysowych i podjętych działań
+- **Notatki kliniczne** - odzwierciedlają przebieg diagnozy i terapii, decyzje i ich uzasadnienia
+- **Formularz świadomej zgody** - dowód, że klient był poinformowany o warunkach współpracy
+- **Notatki z konsultacji i superwizji** - dowód działania w dobrej wierze w trudnych przypadkach
+- **Zapis incydentów krytycznych** - dokumentacja sytuacji kryzysowych i podjętych działań
 
 Dokumentacja powinna być:
-- **Obiektywna** — fakty, a nie interpretacje bez podstaw
-- **Terminowa** — tworzona na bieżąco, nie z pamięci po tygodniach
-- **Bezpieczna** — przechowywana zgodnie z RODO i wymaganiami krajowymi (w Polsce min. 20 lat)
-- **Dostępna** — na żądanie klienta lub w procedurach prawnych
+- **Obiektywna** - fakty, a nie interpretacje bez podstaw
+- **Terminowa** - tworzona na bieżąco, nie z pamięci po tygodniach
+- **Bezpieczna** - przechowywana zgodnie z RODO i wymaganiami krajowymi (w Polsce min. 20 lat)
+- **Dostępna** - na żądanie klienta lub w procedurach prawnych
 
 ---
 
 ## Podsumowanie
 
-Superwizja i odpowiedzialność zawodowa tworzą wzajemnie wzmacniający się system jakości w psychologii. Superwizja jest mechanizmem prewencji — pozwala wychwycić problemy etyczne zanim staną się naruszeniami. Systemy odpowiedzialności (etyczna, dyscyplinarna, cywilna, karna) stanowią mechanizmy korekcyjne — gdy prewencja zawiedzie. Psycholog świadomy obu wymiarów buduje praktykę, która jest bezpieczna dla klientów i satysfakcjonująca zawodowo dla niego samego.
+Superwizja i odpowiedzialność zawodowa tworzą wzajemnie wzmacniający się system jakości w psychologii. Superwizja jest mechanizmem prewencji - pozwala wychwycić problemy etyczne zanim staną się naruszeniami. Systemy odpowiedzialności (etyczna, dyscyplinarna, cywilna, karna) stanowią mechanizmy korekcyjne - gdy prewencja zawiedzie. Psycholog świadomy obu wymiarów buduje praktykę, która jest bezpieczna dla klientów i satysfakcjonująca zawodowo dla niego samego.
 
 
 ## Wprowadzenie

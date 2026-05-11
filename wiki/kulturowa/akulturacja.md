@@ -10,7 +10,7 @@ evidenceCutoffDate: 2025-12-31
 
 **Akulturacja** (*acculturation*) to proces psychologicznych i kulturowych zmian zachodzący u jednostek i grup w wyniku kontaktu z kulturą odmienną od własnej. Pojęcie to funkcjonuje w naukach społecznych od końca XIX wieku, jednak psychologiczne ujęcie akulturacji zyskało systematyczny kształt dzięki pracom Johna Berry'ego, który opracował najbardziej wpływowy model strategii akulturacyjnych.
 
-Akulturacja jest nieuchronnym aspektem migracji, globalizacji i wielokulturowości. Nie jest procesem jednorodnym — różne jednostki i grupy przyjmują odmienne strategie wobec nowej kultury, z różnymi konsekwencjami dla dobrostanu i zdrowia psychicznego.
+Akulturacja jest nieuchronnym aspektem migracji, globalizacji i wielokulturowości. Nie jest procesem jednorodnym - różne jednostki i grupy przyjmują odmienne strategie wobec nowej kultury, z różnymi konsekwencjami dla dobrostanu i zdrowia psychicznego.
 
 ---
 
@@ -27,7 +27,7 @@ Berry wyróżnia dwa kluczowe wymiary:
 
 ---
 
-## Model Berry — cztery strategie akulturacyjne
+## Model Berry - cztery strategie akulturacyjne
 
 Połączenie obu wymiarów tworzy cztery strategie akulturacyjne:
 
@@ -38,7 +38,7 @@ Połączenie obu wymiarów tworzy cztery strategie akulturacyjne:
 
 ### Integracja (*integration*)
 
-Jednostka zachowuje swoją tożsamość kulturową, jednocześnie aktywnie uczestnicząc w kulturze przyjmującej. Jest to strategia **biculturalna** — wiąże się z najwyższym dobrostanem psychicznym i najniższym poziomem stresu akulturacyjnego w większości badań.
+Jednostka zachowuje swoją tożsamość kulturową, jednocześnie aktywnie uczestnicząc w kulturze przyjmującej. Jest to strategia **biculturalna** - wiąże się z najwyższym dobrostanem psychicznym i najniższym poziomem stresu akulturacyjnego w większości badań.
 
 ### Asymilacja (*assimilation*)
 
@@ -46,23 +46,23 @@ Jednostka porzuca kulturę pochodzenia na rzecz pełnego przyjęcia kultury domi
 
 ### Separacja (*separation*)
 
-Jednostka utrzymuje kulturę własną, unikając kontaktu z kulturą dominującą. W wersji dobrowolnej — tworzenie enklaw etnicznych; w wersji wymuszonej — segregacja. Może sprzyjać spójności wspólnoty, lecz utrudnia funkcjonowanie w szerszym społeczeństwie.
+Jednostka utrzymuje kulturę własną, unikając kontaktu z kulturą dominującą. W wersji dobrowolnej - tworzenie enklaw etnicznych; w wersji wymuszonej - segregacja. Może sprzyjać spójności wspólnoty, lecz utrudnia funkcjonowanie w szerszym społeczeństwie.
 
 ### Marginalizacja (*marginalization*)
 
-Jednostka nie identyfikuje się ani z kulturą własną, ani z kulturą dominującą. Jest to najrzadziej wybierana strategia — wiąże się z najwyższym ryzykiem depresji, alienacji i problemów psychicznych.
+Jednostka nie identyfikuje się ani z kulturą własną, ani z kulturą dominującą. Jest to najrzadziej wybierana strategia - wiąże się z najwyższym ryzykiem depresji, alienacji i problemów psychicznych.
 
 ---
 
 ## Stres akulturacyjny
 
-**Stres akulturacyjny** (*acculturative stress*) — termin wprowadzony przez Berry'ego — opisuje specyficzne napięcia doświadczane podczas procesu akulturacji. Nie jest tożsamy z ogólnym stresem psychologicznym, lecz wynika bezpośrednio z wyzwań związanych z nawigowaniem między kulturami.
+**Stres akulturacyjny** (*acculturative stress*) - termin wprowadzony przez Berry'ego - opisuje specyficzne napięcia doświadczane podczas procesu akulturacji. Nie jest tożsamy z ogólnym stresem psychologicznym, lecz wynika bezpośrednio z wyzwań związanych z nawigowaniem między kulturami.
 
 ### Źródła stresu akulturacyjnego
 
 - Bariera językowa i trudności w komunikacji
 - Dyskryminacja i rasizm ze strony kultury przyjmującej
-- Żałoba kulturowa (*cultural bereavement*) — tęsknota za utraconym środowiskiem
+- Żałoba kulturowa (*cultural bereavement*) - tęsknota za utraconym środowiskiem
 - Konflikty ról i wartości między kulturą własną a dominującą
 - Niepewność statusu prawnego (imigranci bez dokumentów)
 - Utrata sieci wsparcia społecznego
@@ -93,11 +93,11 @@ Badania wskazują szereg zmiennych moderujących nasilenie stresu akulturacyjneg
 
 ## Akulturacja drugiego pokolenia
 
-Dzieci imigrantów urodzone lub wychowane w kraju przyjmującym — tzw. **drugie pokolenie** — doświadczają specyficznych napięć akulturacyjnych:
+Dzieci imigrantów urodzone lub wychowane w kraju przyjmującym - tzw. **drugie pokolenie** - doświadczają specyficznych napięć akulturacyjnych:
 
 - **Rozbieżność akulturacyjna** (*acculturation gap*): gdy dzieci asymilują się szybciej niż rodzice, dochodzi do konfliktów wokół ról, oczekiwań i wartości
 - **Poczucie marginalności**: nienależenie ani do kultury rodziców, ani do kultury rówieśników
-- **Tożsamość hybrydyczna**: możliwość tworzenia unikalnej tożsamości łączącej elementy obu kultur — potencjalnie zasób, nie tylko obciążenie
+- **Tożsamość hybrydyczna**: możliwość tworzenia unikalnej tożsamości łączącej elementy obu kultur - potencjalnie zasób, nie tylko obciążenie
 - **Język jako arena konfliktu**: używanie języka dominującego w domu postrzegane przez rodziców jako odrzucenie; nacisk na język etniczny przez rówieśników może być stygmatyzujący
 
 ---
@@ -106,17 +106,17 @@ Dzieci imigrantów urodzone lub wychowane w kraju przyjmującym — tzw. **drugi
 
 Wrażliwość na kontekst akulturacyjny jest kluczowym elementem **kompetencji kulturowej** terapeuty:
 
-1. **Wywiad kulturowy** — rozpoznanie strategii akulturacyjnej pacjenta i poziomu stresu akulturacyjnego jako elementu diagnozy
-2. **Tożsamość terapeuty** — uwzględnienie własnej pozycji kulturowej i potencjalnych uprzedzeń
-3. **Dobór interwencji** — techniki oparte na ekspresji emocji mogą być mniej efektywne u pacjentów z kultury, gdzie eksternalizacja uczuć jest nieakceptowana
-4. **Praca z konfliktem pokoleniowym** — terapia rodzinna może wymagać mediacji między różnymi strategiami akulturacyjnymi członków rodziny
-5. **Diagnoza różnicowa** — objawy dystresu akulturacyjnego mogą imitować depresję lub zaburzenia lękowe; ważne jest rozróżnienie
+1. **Wywiad kulturowy** - rozpoznanie strategii akulturacyjnej pacjenta i poziomu stresu akulturacyjnego jako elementu diagnozy
+2. **Tożsamość terapeuty** - uwzględnienie własnej pozycji kulturowej i potencjalnych uprzedzeń
+3. **Dobór interwencji** - techniki oparte na ekspresji emocji mogą być mniej efektywne u pacjentów z kultury, gdzie eksternalizacja uczuć jest nieakceptowana
+4. **Praca z konfliktem pokoleniowym** - terapia rodzinna może wymagać mediacji między różnymi strategiami akulturacyjnymi członków rodziny
+5. **Diagnoza różnicowa** - objawy dystresu akulturacyjnego mogą imitować depresję lub zaburzenia lękowe; ważne jest rozróżnienie
 
 ---
 
 ## Podsumowanie
 
-Akulturacja jest wielowymiarowym, dynamicznym procesem, który nie przebiega linearnie. Model Berry dostarcza użytecznego schematu do rozumienia strategii adaptacyjnych, jednak rzeczywiste doświadczenia imigrantów są bardziej płynne — strategie zmieniają się w czasie i różnią się w zależności od domeny życia. Dla psychologów klinicznych i terapeutów zrozumienie tego procesu jest warunkiem skutecznej pracy z pacjentami w kontekście migracji i wielokulturowości.
+Akulturacja jest wielowymiarowym, dynamicznym procesem, który nie przebiega linearnie. Model Berry dostarcza użytecznego schematu do rozumienia strategii adaptacyjnych, jednak rzeczywiste doświadczenia imigrantów są bardziej płynne - strategie zmieniają się w czasie i różnią się w zależności od domeny życia. Dla psychologów klinicznych i terapeutów zrozumienie tego procesu jest warunkiem skutecznej pracy z pacjentami w kontekście migracji i wielokulturowości.
 
 ---
 

@@ -4,129 +4,129 @@ reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
 
-# Skale i akronimy diagnostyczne â€” szybka Ĺ›ciÄ…ga
+# Skale i akronimy diagnostyczne â€” szybka ł›ciąga
 
-Ten materiaĹ‚ porzÄ…dkuje najczÄ™Ĺ›ciej uĹĽywane skrĂłty testĂłw i skal spotykanych w diagnozie psychologicznej, klinicznej i neuropsychologicznej.
+Ten materiał‚ porządkuje najczeł›ciej używane skroty testow i skal spotykanych w diagnozie psychologicznej, klinicznej i neuropsychologicznej.
 
 ## 1) Przesiew funkcji poznawczych
 
-| SkrĂłt | PeĹ‚na nazwa | Co mierzy | Typowe zastosowanie |
+| Skrot | Peł‚na nazwa | Co mierzy | Typowe zastosowanie |
 |---|---|---|---|
-| MMSE | Mini-Mental State Examination | globalne funkcje poznawcze | przesiew otÄ™pieĹ„, monitorowanie zmian |
-| MoCA | Montreal Cognitive Assessment | funkcje poznawcze (czuĹ‚y na Ĺ‚agodne deficyty) | MCI, diagnostyka rĂłĹĽnicowa |
-| ACE-III | Addenbrookeâ€™s Cognitive Examination III | domeny poznawcze + jÄ™zyk | rĂłĹĽnicowanie profilu otÄ™piennego |
+| MMSE | Mini-Mental State Examination | globalne funkcje poznawcze | przesiew otepieł„, monitorowanie zmian |
+| MoCA | Montreal Cognitive Assessment | funkcje poznawcze (czuł‚y na ł‚agodne deficyty) | MCI, diagnostyka rożnicowa |
+| ACE-III | Addenbrookeâ€™s Cognitive Examination III | domeny poznawcze + jezyk | rożnicowanie profilu otepiennego |
 | CDT | Clock Drawing Test | funkcje wzrokowo-przestrzenne i wykonawcze | szybki przesiew neurologiczny |
 
 ## 2) Inteligencja i profil poznawczy
 
-| SkrĂłt | PeĹ‚na nazwa | Co mierzy | Typowe zastosowanie |
+| Skrot | Peł‚na nazwa | Co mierzy | Typowe zastosowanie |
 |---|---|---|---|
-| WAIS-IV | Wechsler Adult Intelligence Scale | inteligencja dorosĹ‚ych | diagnoza rĂłĹĽnicowa, orzecznictwo |
-| WISC-V | Wechsler Intelligence Scale for Children | inteligencja dzieci i mĹ‚odzieĹĽy | diagnoza szkolna i kliniczna |
-| WPPSI | Wechsler Preschool and Primary Scale | inteligencja maĹ‚ych dzieci | diagnoza rozwojowa |
-| Raven SPM/APM | Ravenâ€™s Progressive Matrices | rozumowanie niewerbalne | przesiew potencjaĹ‚u poznawczego |
+| WAIS-IV | Wechsler Adult Intelligence Scale | inteligencja dorosł‚ych | diagnoza rożnicowa, orzecznictwo |
+| WISC-V | Wechsler Intelligence Scale for Children | inteligencja dzieci i mł‚odzieży | diagnoza szkolna i kliniczna |
+| WPPSI | Wechsler Preschool and Primary Scale | inteligencja mał‚ych dzieci | diagnoza rozwojowa |
+| Raven SPM/APM | Ravenâ€™s Progressive Matrices | rozumowanie niewerbalne | przesiew potencjał‚u poznawczego |
 
-## 3) PamiÄ™Ä‡ i uczenie siÄ™
+## 3) Pamieć i uczenie sie
 
-| SkrĂłt | PeĹ‚na nazwa | Co mierzy | Typowe zastosowanie |
+| Skrot | Peł‚na nazwa | Co mierzy | Typowe zastosowanie |
 |---|---|---|---|
-| WMS-IV | Wechsler Memory Scale | pamiÄ™Ä‡ werbalna i wzrokowa | neuropsychologia kliniczna |
-| AVLT/RAVLT | Rey Auditory Verbal Learning Test | uczenie siÄ™ i pamiÄ™Ä‡ werbalna | urazy, otÄ™pienia, depresja |
-| ROCF | Rey-Osterrieth Complex Figure | pamiÄ™Ä‡ wzrokowa i organizacja percepcyjna | diagnostyka zaburzeĹ„ poznawczych |
+| WMS-IV | Wechsler Memory Scale | pamieć werbalna i wzrokowa | neuropsychologia kliniczna |
+| AVLT/RAVLT | Rey Auditory Verbal Learning Test | uczenie sie i pamieć werbalna | urazy, otepienia, depresja |
+| ROCF | Rey-Osterrieth Complex Figure | pamieć wzrokowa i organizacja percepcyjna | diagnostyka zaburzeł„ poznawczych |
 
 ## 4) Funkcje wykonawcze i uwaga
 
-| SkrĂłt | PeĹ‚na nazwa | Co mierzy | Typowe zastosowanie |
+| Skrot | Peł‚na nazwa | Co mierzy | Typowe zastosowanie |
 |---|---|---|---|
-| TMT A/B | Trail Making Test | tempo, uwaga, przeĹ‚Ä…czanie | ADHD, MCI, uszkodzenia czoĹ‚owe |
-| WCST | Wisconsin Card Sorting Test | elastycznoĹ›Ä‡ poznawcza | ocena funkcji czoĹ‚owych |
+| TMT A/B | Trail Making Test | tempo, uwaga, przeł‚ączanie | ADHD, MCI, uszkodzenia czoł‚owe |
+| WCST | Wisconsin Card Sorting Test | elastycznoł›ć poznawcza | ocena funkcji czoł‚owych |
 | Stroop | Color-Word Test | hamowanie i kontrola interferencji | kontrola poznawcza |
-| CPT | Continuous Performance Test | uwaga ciÄ…gĹ‚a | ADHD, ocena koncentracji |
+| CPT | Continuous Performance Test | uwaga ciągł‚a | ADHD, ocena koncentracji |
 
-## 5) Objawy depresji, lÄ™ku i traumatyczne
+## 5) Objawy depresji, leku i traumatyczne
 
-| SkrĂłt | PeĹ‚na nazwa | Co mierzy | Typowe zastosowanie |
+| Skrot | Peł‚na nazwa | Co mierzy | Typowe zastosowanie |
 |---|---|---|---|
-| PHQ-9 | Patient Health Questionnaire-9 | nasilenie objawĂłw depresji | przesiew POZ, gabinet psychologa |
+| PHQ-9 | Patient Health Questionnaire-9 | nasilenie objawow depresji | przesiew POZ, gabinet psychologa |
 | BDI-II | Beck Depression Inventory-II | nasilenie depresji | monitorowanie terapii |
-| GAD-7 | Generalized Anxiety Disorder-7 | objawy lÄ™ku uogĂłlnionego | przesiew lÄ™ku |
-| STAI | State-Trait Anxiety Inventory | lÄ™k jako stan i cecha | diagnostyka kliniczna i badania |
+| GAD-7 | Generalized Anxiety Disorder-7 | objawy leku uogolnionego | przesiew leku |
+| STAI | State-Trait Anxiety Inventory | lek jako stan i cecha | diagnostyka kliniczna i badania |
 | PCL-5 | PTSD Checklist for DSM-5 | objawy PTSD | diagnostyka i ewaluacja leczenia |
 
-## 6) Funkcjonowanie osobowoĹ›ci i psychopatologia
+## 6) Funkcjonowanie osobowoł›ci i psychopatologia
 
-| SkrĂłt | PeĹ‚na nazwa | Co mierzy | Typowe zastosowanie |
+| Skrot | Peł‚na nazwa | Co mierzy | Typowe zastosowanie |
 |---|---|---|---|
-| MMPI-2 / MMPI-2-RF | Minnesota Multiphasic Personality Inventory | wzorce psychopatologii i osobowoĹ›ci | diagnoza kliniczna, orzecznictwo |
-| MCMI-IV | Millon Clinical Multiaxial Inventory | cechy osobowoĹ›ci i syndromy kliniczne | diagnoza zaburzeĹ„ osobowoĹ›ci |
-| PID-5 | Personality Inventory for DSM-5 | cechy patologiczne osobowoĹ›ci | podejĹ›cie wymiarowe DSM-5 |
+| MMPI-2 / MMPI-2-RF | Minnesota Multiphasic Personality Inventory | wzorce psychopatologii i osobowoł›ci | diagnoza kliniczna, orzecznictwo |
+| MCMI-IV | Millon Clinical Multiaxial Inventory | cechy osobowoł›ci i syndromy kliniczne | diagnoza zaburzeł„ osobowoł›ci |
+| PID-5 | Personality Inventory for DSM-5 | cechy patologiczne osobowoł›ci | podejł›cie wymiarowe DSM-5 |
 
 ## 7) Skale funkcjonowania i ryzyka
 
-| SkrĂłt | PeĹ‚na nazwa | Co mierzy | Typowe zastosowanie |
+| Skrot | Peł‚na nazwa | Co mierzy | Typowe zastosowanie |
 |---|---|---|---|
-| WHODAS 2.0 | WHO Disability Assessment Schedule | poziom funkcjonowania | ocena skutkĂłw zaburzeĹ„ |
+| WHODAS 2.0 | WHO Disability Assessment Schedule | poziom funkcjonowania | ocena skutkow zaburzeł„ |
 | GAF (historycznie) | Global Assessment of Functioning | globalne funkcjonowanie | starsza dokumentacja kliniczna |
-| C-SSRS | Columbia Suicide Severity Rating Scale | ryzyko samobĂłjcze | interwencja kryzysowa |
+| C-SSRS | Columbia Suicide Severity Rating Scale | ryzyko samobojcze | interwencja kryzysowa |
 
 ## 8) Dobre praktyki interpretacji
 
-1. Zawsze interpretuj wynik testu w kontekĹ›cie wywiadu i obserwacji.  
-2. Unikaj diagnozy opartej na pojedynczym narzÄ™dziu.  
-3. W raportach podawaj ograniczenia badania (zmÄ™czenie, motywacja, warunki badania).  
-4. UĹĽywaj aktualnych norm i wersji adaptowanych kulturowo.  
-5. W przypadku badaĹ„ dzieci uwzglÄ™dniaj etap rozwoju i dane ze Ĺ›rodowiska szkolnego/rodzinnego.
+1. Zawsze interpretuj wynik testu w kontekł›cie wywiadu i obserwacji.  
+2. Unikaj diagnozy opartej na pojedynczym narzedziu.  
+3. W raportach podawaj ograniczenia badania (zmeczenie, motywacja, warunki badania).  
+4. Używaj aktualnych norm i wersji adaptowanych kulturowo.  
+5. W przypadku badał„ dzieci uwzgledniaj etap rozwoju i dane ze ł›rodowiska szkolnego/rodzinnego.
 
-## 9) SkrĂłty czÄ™sto mylone
+## 9) Skroty czesto mylone
 
 - **MoCA vs MMSE**: MoCA bywa czulsza na subtelne deficyty.  
-- **PHQ-9 vs BDI-II**: oba mierzÄ… depresjÄ™, ale rĂłĹĽniÄ… siÄ™ przeznaczeniem i kontekstem uĹĽycia.  
-- **WAIS-IV vs WISC-V**: rĂłĹĽne grupy wiekowe i normy.  
-- **PCL-5 vs C-SSRS**: pierwszy dotyczy PTSD, drugi oceny ryzyka samobĂłjczego.
+- **PHQ-9 vs BDI-II**: oba mierzą depresje, ale rożnią sie przeznaczeniem i kontekstem użycia.  
+- **WAIS-IV vs WISC-V**: rożne grupy wiekowe i normy.  
+- **PCL-5 vs C-SSRS**: pierwszy dotyczy PTSD, drugi oceny ryzyka samobojczego.
 
-> Ten dokument ma charakter orientacyjny i edukacyjny; nie zastÄ™puje szkolenia z peĹ‚nej diagnostyki psychologicznej.
+> Ten dokument ma charakter orientacyjny i edukacyjny; nie zastepuje szkolenia z peł‚nej diagnostyki psychologicznej.
 
 
 ## Wprowadzenie
 
-Temat tego artykuĹ‚u jest istotny dla praktyki psychologicznej, poniewaĹĽ Ĺ‚Ä…czy perspektywÄ™ teoretycznÄ… z codziennymi decyzjami klinicznymi lub edukacyjnymi. W literaturze podkreĹ›la siÄ™, ĹĽe trafne rozumienie zjawiska wymaga uwzglÄ™dnienia kontekstu biologicznego, spoĹ‚ecznego i kulturowego. W niniejszym opracowaniu przyjmujemy podejĹ›cie oparte na dowodach, oddzielajÄ…c ustalenia empiryczne od interpretacji. Taki porzÄ…dek uĹ‚atwia ocenÄ™ jakoĹ›ci argumentĂłw i ogranicza ryzyko uproszczeĹ„. DziÄ™ki temu czytelnik moĹĽe przeĹ‚oĹĽyÄ‡ wiedzÄ™ teoretycznÄ… na bardziej Ĺ›wiadome dziaĹ‚ania praktyczne.
+Temat tego artykuł‚u jest istotny dla praktyki psychologicznej, ponieważ ł‚ączy perspektywe teoretyczną z codziennymi decyzjami klinicznymi lub edukacyjnymi. W literaturze podkreł›la sie, że trafne rozumienie zjawiska wymaga uwzglednienia kontekstu biologicznego, społ‚ecznego i kulturowego. W niniejszym opracowaniu przyjmujemy podejł›cie oparte na dowodach, oddzielając ustalenia empiryczne od interpretacji. Taki porządek uł‚atwia ocene jakoł›ci argumentow i ogranicza ryzyko uproszczeł„. Dzieki temu czytelnik może przeł‚ożyć wiedze teoretyczną na bardziej ł›wiadome dział‚ania praktyczne.
 
 
 ## Definicje
 
-W tym artykule kluczowe pojÄ™cia sÄ… rozumiane w sposĂłb operacyjny, tak aby moĹĽna je byĹ‚o stosowaÄ‡ w badaniach i praktyce. Definicja zjawiska obejmuje zarĂłwno jego kryteria rozpoznania, jak i granice pojÄ™ciowe odrĂłĹĽniajÄ…ce je od konstruktĂłw pokrewnych. Warto pamiÄ™taÄ‡, ĹĽe czÄ™Ĺ›Ä‡ terminĂłw ma kilka konkurencyjnych ujÄ™Ä‡, zaleĹĽnie od szkoĹ‚y teoretycznej. Dlatego podczas interpretacji wynikĂłw naleĹĽy zawsze wskazaÄ‡, ktĂłrÄ… definicjÄ™ przyjÄ™to i dlaczego. Taka precyzja terminologiczna zwiÄ™ksza porĂłwnywalnoĹ›Ä‡ danych oraz jakoĹ›Ä‡ wnioskowania.
+W tym artykule kluczowe pojecia są rozumiane w sposob operacyjny, tak aby można je był‚o stosować w badaniach i praktyce. Definicja zjawiska obejmuje zarowno jego kryteria rozpoznania, jak i granice pojeciowe odrożniające je od konstruktow pokrewnych. Warto pamietać, że czeł›ć terminow ma kilka konkurencyjnych ujeć, zależnie od szkoł‚y teoretycznej. Dlatego podczas interpretacji wynikow należy zawsze wskazać, ktorą definicje przyjeto i dlaczego. Taka precyzja terminologiczna zwieksza porownywalnoł›ć danych oraz jakoł›ć wnioskowania.
 
 
 ## Analiza
 
-Mechanizmy omawianego zjawiska najlepiej wyjaĹ›niaÄ‡ na kilku poziomach: poznawczym, emocjonalnym, behawioralnym i Ĺ›rodowiskowym. Dane empiryczne zwykle pokazujÄ…, ĹĽe efekt koĹ„cowy wynika z interakcji wielu czynnikĂłw, a nie z pojedynczej przyczyny. Z perspektywy metodologicznej warto uwzglÄ™dniÄ‡ zarĂłwno wyniki badaĹ„ przekrojowych, jak i podĹ‚uĹĽnych, poniewaĹĽ odpowiadajÄ… one na rĂłĹĽne pytania. Ograniczeniem bywa heterogenicznoĹ›Ä‡ prĂłb i narzÄ™dzi pomiarowych, ktĂłra utrudnia bezpoĹ›rednie porĂłwnania miÄ™dzy badaniami. Mimo tych ograniczeĹ„ spĂłjny obraz zjawiska moĹĽna uzyskaÄ‡, Ĺ‚Ä…czÄ…c dane iloĹ›ciowe, jakoĹ›ciowe i kliniczne.
+Mechanizmy omawianego zjawiska najlepiej wyjał›niać na kilku poziomach: poznawczym, emocjonalnym, behawioralnym i ł›rodowiskowym. Dane empiryczne zwykle pokazują, że efekt koł„cowy wynika z interakcji wielu czynnikow, a nie z pojedynczej przyczyny. Z perspektywy metodologicznej warto uwzglednić zarowno wyniki badał„ przekrojowych, jak i podł‚użnych, ponieważ odpowiadają one na rożne pytania. Ograniczeniem bywa heterogenicznoł›ć prob i narzedzi pomiarowych, ktora utrudnia bezpoł›rednie porownania miedzy badaniami. Mimo tych ograniczeł„ spojny obraz zjawiska można uzyskać, ł‚ącząc dane iloł›ciowe, jakoł›ciowe i kliniczne.
 
 
 ## Dobra praktyka
 
-DobrÄ… praktykÄ… jest rozpoczynanie pracy od jasnego celu, kryteriĂłw oceny postÄ™pĂłw oraz wspĂłlnego jÄ™zyka uĹĽywanego przez specjalistÄ™ i odbiorcÄ™ interwencji. W praktyce oznacza to regularny monitoring efektĂłw, krĂłtkie cykle informacji zwrotnej i gotowoĹ›Ä‡ do modyfikacji planu dziaĹ‚ania. WysokÄ… skutecznoĹ›Ä‡ wspiera takĹĽe psychoedukacja, ktĂłra zwiÄ™ksza poczucie sprawstwa i rozumienie procesu zmiany. Istotne jest ponadto respektowanie granic etycznych oraz uwzglÄ™dnianie rĂłĹĽnic indywidualnych. KonsekwencjÄ… takiego podejĹ›cia jest wiÄ™ksza trwaĹ‚oĹ›Ä‡ rezultatĂłw i mniejsze ryzyko dziaĹ‚aĹ„ pozornych.
+Dobrą praktyką jest rozpoczynanie pracy od jasnego celu, kryteriow oceny postepow oraz wspolnego jezyka używanego przez specjaliste i odbiorce interwencji. W praktyce oznacza to regularny monitoring efektow, krotkie cykle informacji zwrotnej i gotowoł›ć do modyfikacji planu dział‚ania. Wysoką skutecznoł›ć wspiera także psychoedukacja, ktora zwieksza poczucie sprawstwa i rozumienie procesu zmiany. Istotne jest ponadto respektowanie granic etycznych oraz uwzglednianie rożnic indywidualnych. Konsekwencją takiego podejł›cia jest wieksza trwał‚oł›ć rezultatow i mniejsze ryzyko dział‚ał„ pozornych.
 
 
-## ZĹ‚a praktyka
+## Zł‚a praktyka
 
-CzÄ™stym bĹ‚Ä™dem jest stosowanie jednego schematu postÄ™powania niezaleĹĽnie od kontekstu, potrzeb i moĹĽliwoĹ›ci danej osoby lub grupy. Problemem bywa rĂłwnieĹĽ opieranie decyzji na intuicji bez sprawdzania jakoĹ›ci danych i aktualnych rekomendacji. W praktyce prowadzi to do nietrafnych interwencji, spadku motywacji oraz utraty zaufania do procesu wsparcia. ZĹ‚Ä… praktykÄ… jest takĹĽe pomijanie czynnikĂłw systemowych, takich jak warunki Ĺ›rodowiskowe czy bariery organizacyjne. Konsekwencje obejmujÄ… nie tylko sĹ‚absze efekty, ale rĂłwnieĹĽ ryzyko wtĂłrnej szkody psychologicznej.
+Czestym bł‚edem jest stosowanie jednego schematu postepowania niezależnie od kontekstu, potrzeb i możliwoł›ci danej osoby lub grupy. Problemem bywa rownież opieranie decyzji na intuicji bez sprawdzania jakoł›ci danych i aktualnych rekomendacji. W praktyce prowadzi to do nietrafnych interwencji, spadku motywacji oraz utraty zaufania do procesu wsparcia. Zł‚ą praktyką jest także pomijanie czynnikow systemowych, takich jak warunki ł›rodowiskowe czy bariery organizacyjne. Konsekwencje obejmują nie tylko sł‚absze efekty, ale rownież ryzyko wtornej szkody psychologicznej.
 
 
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesuniÄ™ciu uwagi z pytania â€žco jest nie takâ€ť na pytanie â€žjakie warunki podtrzymujÄ… aktualny wzorzec funkcjonowaniaâ€ť. Taki punkt widzenia pozwala dostrzec, ĹĽe czÄ™Ĺ›Ä‡ zachowaĹ„ ocenianych jako problemowe peĹ‚ni funkcjÄ™ adaptacyjnÄ… w krĂłtkim horyzoncie czasu. W badaniach oznacza to potrzebÄ™ analizy kosztĂłw i korzyĹ›ci z perspektywy uczestnika, a nie wyĹ‚Ä…cznie obserwatora. W praktyce moĹĽe to prowadziÄ‡ do bardziej realistycznych celĂłw i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudnoĹ›ci, lecz porzÄ…dkuje je w kategoriach funkcji i kontekstu.
+Nieoczywista perspektywa polega na przesunieciu uwagi z pytania â€žco jest nie takâ€ť na pytanie â€žjakie warunki podtrzymują aktualny wzorzec funkcjonowaniaâ€ť. Taki punkt widzenia pozwala dostrzec, że czeł›ć zachował„ ocenianych jako problemowe peł‚ni funkcje adaptacyjną w krotkim horyzoncie czasu. W badaniach oznacza to potrzebe analizy kosztow i korzył›ci z perspektywy uczestnika, a nie wył‚ącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celow i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudnoł›ci, lecz porządkuje je w kategoriach funkcji i kontekstu.
 
 
 ## Podsumowanie
 
-NajwaĹĽniejszy wniosek jest taki, ĹĽe rzetelne rozumienie omawianego tematu wymaga Ĺ‚Ä…czenia definicji, danych empirycznych i konsekwencji praktycznych. Skuteczne dziaĹ‚ania opierajÄ… siÄ™ na dopasowaniu metod do celu, monitorowaniu efektĂłw oraz Ĺ›wiadomym zarzÄ…dzaniu ograniczeniami. JednoczeĹ›nie naleĹĽy zachowaÄ‡ ostroĹĽnoĹ›Ä‡ wobec nadmiernych uogĂłlnieĹ„, bo jakoĹ›Ä‡ wnioskĂłw zaleĹĽy od kontekstu i jakoĹ›ci pomiaru. WĹ‚Ä…czenie perspektywy alternatywnej zwiÄ™ksza trafnoĹ›Ä‡ diagnozy i uĹĽytecznoĹ›Ä‡ interwencji. Ostatecznie to wĹ‚aĹ›nie integracja wiedzy teoretycznej z praktykÄ… decyduje o wartoĹ›ci edukacyjnej i klinicznej artykuĹ‚u.
+Najważniejszy wniosek jest taki, że rzetelne rozumienie omawianego tematu wymaga ł‚ączenia definicji, danych empirycznych i konsekwencji praktycznych. Skuteczne dział‚ania opierają sie na dopasowaniu metod do celu, monitorowaniu efektow oraz ł›wiadomym zarządzaniu ograniczeniami. Jednoczeł›nie należy zachować ostrożnoł›ć wobec nadmiernych uogolnieł„, bo jakoł›ć wnioskow zależy od kontekstu i jakoł›ci pomiaru. Wł‚ączenie perspektywy alternatywnej zwieksza trafnoł›ć diagnozy i użytecznoł›ć interwencji. Ostatecznie to wł‚ał›nie integracja wiedzy teoretycznej z praktyką decyduje o wartoł›ci edukacyjnej i klinicznej artykuł‚u.
 
 
 ## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. NÄ™cka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
+3. Necka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
 4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
 5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
 

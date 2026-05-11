@@ -6,7 +6,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Granice relacji terapeutycznej
 
-Granice relacji terapeutycznej (*therapeutic boundaries*) to ramy strukturalne i behawioralne, które definiują rolę terapeuty i chronią klienta przed szkodą wynikającą z nadużycia zaufania. Ich utrzymanie jest nie tylko wymogiem etycznym, ale kluczowym czynnikiem terapeutycznym — przejrzyste i przewidywalne granice tworzą przestrzeń bezpieczeństwa, w której możliwa jest zmiana.
+Granice relacji terapeutycznej (*therapeutic boundaries*) to ramy strukturalne i behawioralne, które definiują rolę terapeuty i chronią klienta przed szkodą wynikającą z nadużycia zaufania. Ich utrzymanie jest nie tylko wymogiem etycznym, ale kluczowym czynnikiem terapeutycznym - przejrzyste i przewidywalne granice tworzą przestrzeń bezpieczeństwa, w której możliwa jest zmiana.
 
 ---
 
@@ -15,9 +15,9 @@ Granice relacji terapeutycznej (*therapeutic boundaries*) to ramy strukturalne i
 Thomas Gutheil i Glen Gabbard, autorzy kanonicznego artykułu *The concept of boundaries in clinical practice* (1993, *American Journal of Psychiatry*), definiują granice jako **parametry roli terapeutycznej**, które odróżniają relację terapeutyczną od każdej innej relacji interpersonalnej.
 
 Granice pełnią trzy funkcje:
-1. **Ochronna** — chronią klienta przed nadużyciem władzy i zaufania
-2. **Terapeutyczna** — tworzą bezpieczną przestrzeń do eksploracji
-3. **Modelująca** — uczą klienta zdrowego ustalania granic w relacjach
+1. **Ochronna** - chronią klienta przed nadużyciem władzy i zaufania
+2. **Terapeutyczna** - tworzą bezpieczną przestrzeń do eksploracji
+3. **Modelująca** - uczą klienta zdrowego ustalania granic w relacjach
 
 ---
 
@@ -40,11 +40,11 @@ Kluczowym kryterium jest **dobro klienta** i **cel działania terapeuty**. Przek
 
 ### Typy relacji podwójnych
 
-- **Seksualne** — bezwzględnie zakazane; zawsze stanowią naruszenie
-- **Romantyczne** — zakazane, nawet jeśli nie są seksualne
-- **Towarzyskie / przyjacielskie** — zasadniczo niedopuszczalne; rozmywają granicę roli
-- **Biznesowe** — ryzykowne; tworzą konflikty interesów
-- **Hierarchiczne** — terapeuta jako supervisor lub wykładowca klienta
+- **Seksualne** - bezwzględnie zakazane; zawsze stanowią naruszenie
+- **Romantyczne** - zakazane, nawet jeśli nie są seksualne
+- **Towarzyskie / przyjacielskie** - zasadniczo niedopuszczalne; rozmywają granicę roli
+- **Biznesowe** - ryzykowne; tworzą konflikty interesów
+- **Hierarchiczne** - terapeuta jako supervisor lub wykładowca klienta
 
 ### Dlaczego podwójne role są szkodliwe?
 
@@ -70,7 +70,7 @@ Badania przytaczane przez Pope (1994) i późniejsze metaanalizy wskazują, że:
 
 ## Relacje po zakończeniu terapii
 
-Zakończenie terapii nie znosi etycznych zobowiązań terapeuty. Kodeks APA (2017, Standard 10.08) zakazuje kontaktów seksualnych przez **co najmniej 2 lata** po zakończeniu terapii — i nawet po tym czasie wymaga wykazania, że relacja nie jest wynikiem nadużycia przeniesienia.
+Zakończenie terapii nie znosi etycznych zobowiązań terapeuty. Kodeks APA (2017, Standard 10.08) zakazuje kontaktów seksualnych przez **co najmniej 2 lata** po zakończeniu terapii - i nawet po tym czasie wymaga wykazania, że relacja nie jest wynikiem nadużycia przeniesienia.
 
 Kodeks PTP nie określa sztywnego okresu, ale zakazuje relacji seksualnych z byłymi klientami jako zasadę generalną. Wielu etyków zaleca rozciągnięcie zakazu na **całe życie** w przypadku długoterminowych terapii.
 
@@ -95,7 +95,7 @@ Zasada ogólna: **ujawnienie jest wskazane wtedy, gdy pomaga klientowi, a nie te
 
 ### Upominki
 
-Przyjmowanie drobnych upominków jest etycznie ambiwalentne — zależy od kontekstu kulturowego, wartości upominku i znaczenia symbolicznego. Kosztowne upominki są generalnie niedopuszczalne, gdyż tworzą zobowiązanie i zaburzają neutralność.
+Przyjmowanie drobnych upominków jest etycznie ambiwalentne - zależy od kontekstu kulturowego, wartości upominku i znaczenia symbolicznego. Kosztowne upominki są generalnie niedopuszczalne, gdyż tworzą zobowiązanie i zaburzają neutralność.
 
 ### Kontakt poza gabinetem
 
@@ -112,7 +112,7 @@ Nowe wyzwania etyczne związane z mediami społecznościowymi obejmują:
 
 ## Podsumowanie: Model Gutheila i Gabbarda
 
-Gutheil i Gabbard proponują analizę granic przez pryzmat **kontinuum** — od rygorystycznego neutralności do oczywistego naruszenia. Kluczowe pytania diagnostyczne:
+Gutheil i Gabbard proponują analizę granic przez pryzmat **kontinuum** - od rygorystycznego neutralności do oczywistego naruszenia. Kluczowe pytania diagnostyczne:
 
 1. Czy działanie służy klientowi czy terapeucie?
 2. Czy terapeuta byłby gotów omówić to działanie z superwizorem?

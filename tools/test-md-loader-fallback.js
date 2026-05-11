@@ -54,4 +54,4 @@
   }
 
   console.log('[PsyHub][md-loader] OK: fallback RAW działa dla ścieżek z query stringiem.');
-})();
+})().catch(err => { console.error(err); process.exit(1); });

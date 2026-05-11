@@ -55,9 +55,7 @@ Nieoczywiste, ale dobrze uzasadnione podejście zakłada, że problemem nie jest
 
 
 
-Zmęczenie cyfrowe jest zjawiskiem wieloczynnikowym: poznawczym, emocjonalnym i organizacyjnym. Skuteczna profilaktyka wymaga łączenia higieny indywidualnej z rozwiązaniami zespołowymi i instytucjonalnymi. Kluczowa jest redukcja fragmentacji uwagi oraz tworzenie środowiska, które wspiera domykanie zadań i regenerację.
-
-## Bibliografia
+Zmęczenie cyfrowe jest zjawiskiem wieloczynnikowym: poznawczym, emocjonalnym i organizacyjnym. Skuteczna profilaktyka wymaga łączenia higieny indywidualnej z rozwiązaniami zespołowymi i instytucjonalnymi. Kluczowa jest redukcja fragmentacji uwagi oraz tworzenie środowiska, które wspiera domykanie zadań i regenerację.## Bibliografia
 
 1. Eppler, M. J., & Mengis, J. (2004). The concept of information overload: A review of literature. *The Information Society*, 20(5), 325–344.
 2. Mark, G. (2023). *Attention Span: A Groundbreaking Way to Restore Balance, Happiness and Productivity*. Hanover Square Press.

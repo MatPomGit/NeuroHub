@@ -33,9 +33,7 @@ Utrzymuj kontakt ze szkołą oparty na współpracy, nie tylko na reakcjach kryz
 Dowody dla programów SEL są **silne**.
 
 
-Szkoła może działać jako bufor ryzyka, jeśli ma jasne procedury i kompetentny zespół.
-
-## Bibliografia
+Szkoła może działać jako bufor ryzyka, jeśli ma jasne procedury i kompetentny zespół.## Bibliografia
 - Kazdin, A. E. (2021). *Research Design in Clinical Psychology* (5th ed.). Cambridge University Press.
 - NICE. (2022). *Guidelines and Quality Standards* (wybrane dokumenty dotyczące zdrowia psychicznego i interwencji psychospołecznych).
 - WHO. (2021). *Guidance on community mental health services*. World Health Organization.

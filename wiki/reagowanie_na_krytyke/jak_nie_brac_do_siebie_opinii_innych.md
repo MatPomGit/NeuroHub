@@ -55,9 +55,7 @@ Z perspektywy jakości dowodów najbardziej adaptacyjne są dwa równoległe pro
 - Opinie innych to dane o świecie społecznym, nie automatyczne fakty o tobie.
 - Kluczowa umiejętność to rozdzielenie treści użytecznej od projekcji i etykiet.
 - „Nie brać do siebie” oznacza regulować i filtrować, a nie tłumić emocje.
-- Najskuteczniejsza strategia: konkret, granice, jedno działanie naprawcze, powrót do wartości i celów.
-
-## Bibliografia
+- Najskuteczniejsza strategia: konkret, granice, jedno działanie naprawcze, powrót do wartości i celów.## Bibliografia
 1. Beck, J. S. (2020). *Cognitive Behavior Therapy: Basics and Beyond* (3rd ed.). Guilford Press.
 2. Linehan, M. M. (2015). *DBT Skills Training Manual* (2nd ed.). Guilford Press.
 3. Neff, K. D. (2011). Self-compassion, self-esteem, and well-being. *Social and Personality Psychology Compass*, 5(1), 1–12.

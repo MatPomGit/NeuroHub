@@ -131,9 +131,7 @@ Termin „współuzależnienie" bywa krytykowany:
 
 Część badaczy preferuje terminy opisowe: **traumatyczne przywiązanie**, **wyuczona bezradność** lub **chroniczny stres interpersonalny**.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Beattie, M. (1987). *Codependent No More*. Hazelden. [Wyd. pol.: *Koniec współuzależnienia*. Wydawnictwo Czarna Owca]
 - Bowen, M. (1978). *Family Therapy in Clinical Practice*. Jason Aronson.
@@ -156,12 +154,14 @@ Część badaczy preferuje terminy opisowe: **traumatyczne przywiązanie**, **wy
 
 ## Podsumowanie
 
-## Bibliografia
+Temat "Współuzależnienie" pokazuje, że najbardziej użyteczne jest łączenie perspektywy neurobiologicznej, motywacyjnej i środowiskowej przy planowaniu wsparcia.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak historia pojęcia, dorosłe dzieci alkoholików (dda/acoa) oraz kontrowersje i ograniczenia pojęcia pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
 3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
 4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
 5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
-
-

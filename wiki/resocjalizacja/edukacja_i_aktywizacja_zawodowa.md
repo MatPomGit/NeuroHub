@@ -33,9 +33,7 @@ Wspieraj budowanie rutyny dnia i kompetencji miękkich związanych z zatrudnieni
 Dowody dla programów zatrudnieniowych są **umiarkowane**.
 
 
-Praca i edukacja są praktycznym mostem do trwałej readaptacji.
-
-## Bibliografia
+Praca i edukacja są praktycznym mostem do trwałej readaptacji.## Bibliografia
 - Kazdin, A. E. (2021). *Research Design in Clinical Psychology* (5th ed.). Cambridge University Press.
 - NICE. (2022). *Guidelines and Quality Standards* (wybrane dokumenty dotyczące zdrowia psychicznego i interwencji psychospołecznych).
 - WHO. (2021). *Guidance on community mental health services*. World Health Organization.

@@ -116,17 +116,13 @@ Priorytetem jest bezpieczeństwo, odpowiedzialność i podmiotowość obu stron 
 
 Manosfera i feminizm to nie tylko zbiory idei, ale też przestrzenie tożsamości i emocji. Psychologia pokazuje, że eskalację konfliktu napędzają mechanizmy grupowe, poznawcze skróty i niezaspokojone potrzeby psychiczne. Praktycznym celem nie jest „wygranie debaty”, lecz tworzenie warunków do bardziej dojrzałych, bezpiecznych i opartych na faktach relacji między ludźmi.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Tajfel, H., & Turner, J. C. (1979). An integrative theory of intergroup conflict.
 - Baumeister, R. F., & Leary, M. R. (1995). The need to belong. *Psychological Bulletin, 117*(3), 497–529.
 - Fiske, S. T. (2018). Stereotype content: Warmth and competence endure. *Current Directions in Psychological Science, 27*(2), 67–73.
 - Glick, P., & Fiske, S. T. (1996). The Ambivalent Sexism Inventory. *Journal of Personality and Social Psychology, 70*(3), 491–512.
 - Sunstein, C. R. (2018). *#Republic: Divided Democracy in the Age of Social Media*. Princeton University Press.
-
-
 
 
 

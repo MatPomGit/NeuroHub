@@ -54,9 +54,7 @@ W praktyce badawczej ta perspektywa zachęca do precyzyjnego rozdzielania kompon
 
 
 
-Psychopatia to złożony konstrukt wymiarowy, którego nie należy upraszczać do sensacyjnej etykiety. Rzetelna praca wymaga rozdzielenia pojęć (psychopatia, ASPD, zachowania przestępcze), stosowania wystandaryzowanych narzędzi przez kompetentnych diagnostów oraz ciągłej oceny dynamicznego ryzyka. Najlepsze efekty praktyczne daje podejście integrujące neurobiologię, psychologię rozwojową i analizę kontekstu społecznego.
-
-## Bibliografia
+Psychopatia to złożony konstrukt wymiarowy, którego nie należy upraszczać do sensacyjnej etykiety. Rzetelna praca wymaga rozdzielenia pojęć (psychopatia, ASPD, zachowania przestępcze), stosowania wystandaryzowanych narzędzi przez kompetentnych diagnostów oraz ciągłej oceny dynamicznego ryzyka. Najlepsze efekty praktyczne daje podejście integrujące neurobiologię, psychologię rozwojową i analizę kontekstu społecznego.## Bibliografia
 
 1. Hare, R. D. (2003). *Manual for the Revised Psychopathy Checklist* (2nd ed.). Multi-Health Systems.
 2. Patrick, C. J. (Ed.). (2018). *Handbook of Psychopathy* (2nd ed.). Guilford Press.

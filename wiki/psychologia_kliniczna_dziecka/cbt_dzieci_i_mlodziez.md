@@ -33,9 +33,7 @@ Dominująca narracja często pyta: „jak szybko zredukować objawy?”. Perspek
 To przesunięcie akcentu jest uzasadnione danymi z badań procesowych: trwała poprawa częściej wynika z poprawy relacji, poczucia sprawstwa i jakości środowiska niż z samej krótkotrwałej redukcji symptomu.
 
 
-Na tym etapie spirali kluczowe jest rozumienie, że rzetelna praktyka wymaga równowagi między wiedzą teoretyczną, pokorą epistemiczną i stałą ewaluacją działań. Najbezpieczniejsze decyzje kliniczne wynikają z pracy hipotezowej i współpracy międzyosobowej.
-
-## Bibliografia
+Na tym etapie spirali kluczowe jest rozumienie, że rzetelna praktyka wymaga równowagi między wiedzą teoretyczną, pokorą epistemiczną i stałą ewaluacją działań. Najbezpieczniejsze decyzje kliniczne wynikają z pracy hipotezowej i współpracy międzyosobowej.## Bibliografia
 - Mash, E. J., & Barkley, R. A. (2014). *Child Psychopathology* (3rd ed.). Guilford Press.
 - Kazdin, A. E. (2017). *Research Design in Clinical Psychology* (5th ed.). Pearson.
 - American Psychiatric Association. (2022). *Diagnostic and Statistical Manual of Mental Disorders* (5th ed., text rev.; DSM-5-TR).

@@ -54,9 +54,7 @@ Najważniejsze pytanie nie brzmi "czy religia pomaga", ale "jaką funkcję psych
 - Coping religijny ma dwa oblicza: adaptacyjne i nieadaptacyjne.
 - O kierunku wpływu decydują interpretacje, relacje i elastyczność psychologiczna.
 - W praktyce kluczowe jest różnicowanie pozytywnego i negatywnego coping, a nie ogólny poziom religijności.
-- Najlepsze efekty daje podejście integrujące język wartości pacjenta z metodami opartymi na dowodach.
-
-## Bibliografia
+- Najlepsze efekty daje podejście integrujące język wartości pacjenta z metodami opartymi na dowodach.## Bibliografia
 1. Pargament, K. I., Koenig, H. G., & Perez, L. M. (2000). The many methods of religious coping: Development and initial validation of the RCOPE. *Journal of Clinical Psychology*, 56(4), 519-543.
 2. Pargament, K. I. (2011). *Spiritually Integrated Psychotherapy*. Guilford Press.
 3. Ano, G. G., & Vasconcelles, E. B. (2005). Religious coping and psychological adjustment to stress: A meta-analysis. *Journal of Clinical Psychology*, 61(4), 461-480.

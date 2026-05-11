@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -91,10 +91,19 @@ Sygnały wskazujące na potrzebę działania:
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Samoopieka pomagającego" polega na tym, że skuteczna pomoc nie wynika z samej dobrej intencji, ale z jakości kontaktu, granic, regulacji emocji i adekwatności interwencji do sytuacji osoby wspieranej.
+
+Dopiero wspólna analiza zagadnień takich jak dlaczego samoopieka jest konieczna?, filary samoopieki oraz zobacz też pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
+Temat "Samoopieka pomagającego" pokazuje, że najważniejsze jest traktowanie pomocy jako procesu wymagającego zarówno empatii, jak i struktury, kompetencji oraz samoograniczenia.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak dlaczego samoopieka jest konieczna?, filary samoopieki oraz zobacz też pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

@@ -108,9 +108,7 @@ Ocena ryzyka samobójczego (*suicide risk assessment*) jest obszarem, w którym 
 | Ocena ryzyka | Standardy kliniczne | Odpowiedzialność karna |
 | Monitorowanie efektów | APA Standard 3.04 | Kontynuacja szkodliwej terapii |
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Beauchamp, T. L., & Childress, J. F. (2019). *Principles of biomedical ethics* (8th ed.). Oxford University Press.
 - Dimidjian, S., & Hollon, S. D. (2010). How would we know if psychotherapy were harmful? *American Psychologist, 65*(1), 21–33.
@@ -120,9 +118,19 @@ Ocena ryzyka samobójczego (*suicide risk assessment*) jest obszarem, w którym 
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Dobro i nieszkodzenie w etyce psychologa" polega na tym, że etyka zawodowa nie sprowadza się do mechanicznego stosowania reguł, lecz wymaga ważenia dóbr, ryzyk i odpowiedzialności w warunkach niepewności.
+
+Dopiero wspólna analiza zagadnień takich jak definicje i rozróżnienie, szkody jatrogenne w psychologii oraz szczególne obszary ryzyka pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Dobro i nieszkodzenie w etyce psychologa" pokazuje, że najbardziej dojrzałe wnioski etyczne wynikają z łączenia zasad, kontekstu sytuacyjnego i refleksji nad skutkami decyzji.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak definicje i rozróżnienie, szkody jatrogenne w psychologii oraz szczególne obszary ryzyka pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

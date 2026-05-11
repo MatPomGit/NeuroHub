@@ -33,9 +33,7 @@ Wspieraj realizację zadań domowych bez kontroli i presji; wzmacniaj regularno�
 Dowody dla CBT-E są **silne**; dla krótkich, niestrukturalnych interwencji behawioralnych - **umiarkowane**.
 
 
-CBT działa najlepiej, gdy jest spersonalizowana i konsekwentnie monitorowana.
-
-## Bibliografia
+CBT działa najlepiej, gdy jest spersonalizowana i konsekwentnie monitorowana.## Bibliografia
 - Kazdin, A. E. (2021). *Research Design in Clinical Psychology* (5th ed.). Cambridge University Press.
 - NICE. (2022). *Guidelines and Quality Standards* (wybrane dokumenty dotyczące zdrowia psychicznego i interwencji psychospołecznych).
 - WHO. (2021). *Guidance on community mental health services*. World Health Organization.

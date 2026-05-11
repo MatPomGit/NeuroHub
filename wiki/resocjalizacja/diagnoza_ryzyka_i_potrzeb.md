@@ -33,9 +33,7 @@ Rodzina może wspierać zmianę poprzez stabilność relacji i monitoring sygna�
 Dowody dla standaryzowanej oceny ryzyka są **silne**.
 
 
-Dobra diagnoza porządkuje priorytety i zwiększa skuteczność interwencji.
-
-## Bibliografia
+Dobra diagnoza porządkuje priorytety i zwiększa skuteczność interwencji.## Bibliografia
 - Kazdin, A. E. (2021). *Research Design in Clinical Psychology* (5th ed.). Cambridge University Press.
 - NICE. (2022). *Guidelines and Quality Standards* (wybrane dokumenty dotyczące zdrowia psychicznego i interwencji psychospołecznych).
 - WHO. (2021). *Guidance on community mental health services*. World Health Organization.

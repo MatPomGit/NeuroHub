@@ -64,9 +64,7 @@ Negatywne skutki religii nie wynikają zwykle z samej wiary, lecz z określonej 
 - Religia może działać destrukcyjnie, gdy dominuje lęk, zawstydzanie i autorytaryzm.
 - Największe ryzyko dotyczy obszarów autonomii, zdrowia psychicznego i dojrzałości moralnej.
 - Kluczowa jest analiza funkcjonalna zamiast oceny ideologicznej.
-- Pomoc psychologiczna powinna chronić podmiotowość i granice osoby.
-
-## Bibliografia
+- Pomoc psychologiczna powinna chronić podmiotowość i granice osoby.## Bibliografia
 1. Exline, J. J., & Rose, E. D. (2024). Religious and spiritual struggles in clinical settings. *Current Opinion in Psychology*, 58.
 2. Oakley, L., & Kinmond, K. (2013). *Breaking the Silence on Spiritual Abuse*. Palgrave Macmillan.
 3. Ward, D. J. (2011). The lived experience of spiritual abuse. *Mental Health, Religion & Culture*, 14(9), 899-915.

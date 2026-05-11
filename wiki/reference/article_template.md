@@ -37,9 +37,7 @@
  Autor, A. A. (Rok). *Tytuł artykułu. *Tytuł Czasopisma, wolumin*(numer), xx-xx. https://doi.org/xx.xxxx/xxxxx
  Autor, A. A. (Rok). *Tytuł książki* (wydanie). Wydawnictwo.
  Instytucja. (Rok). *Tytuł raportu*. URL
--->
-
-## Bibliografia
+-->## Bibliografia
 
 > Format zgodny z APA 7.
 <!-- Sekcja ## Bibliografia powinna zawsze zamykać artykuł‚. -->

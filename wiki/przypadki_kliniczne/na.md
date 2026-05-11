@@ -49,9 +49,7 @@ Ta perspektywa sprzyja bardziej realistycznym modelom rehabilitacji: poprawa fun
 
 
 
-N.A. to przypadek fundamentalny dla rozumienia amnezji międzymózgowiowej i sieciowej architektury pamięci. Klinicznie wzmacnia potrzebę wielowymiarowej diagnozy i interwencji opartych na profilu funkcjonalnym, nie wyłącznie na lokalizacji pojedynczego uszkodzenia.
-
-## Bibliografia
+N.A. to przypadek fundamentalny dla rozumienia amnezji międzymózgowiowej i sieciowej architektury pamięci. Klinicznie wzmacnia potrzebę wielowymiarowej diagnozy i interwencji opartych na profilu funkcjonalnym, nie wyłącznie na lokalizacji pojedynczego uszkodzenia.## Bibliografia
 
 1. Teuber, H.-L., Milner, B., & Vaughan, H. G. (1968). Persistent anterograde amnesia after stab wound of the basal brain. *Neuropsychologia*, 6, 267–282.
 2. Squire, L. R., & Zola-Morgan, S. (1991). The medial temporal lobe memory system. *Science*, 253, 1380–1386.

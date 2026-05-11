@@ -57,9 +57,7 @@ To przypomina, że leczenie traumy jest także leczeniem relacji. Ciało reaguje
 
 
 Trauma złożona wymaga relacji, która regulacyjnie „unosi” pacjenta zanim pojawi się gotowość do głębszej pracy. W tym sensie relacja terapeutyczna jest elementem leczenia, nie tylko jego opakowaniem.
-SE dobrze nadaje się do takiej pracy, ponieważ łączy uważność na ciało z uważnością na kontakt. To daje pacjentowi zarówno strukturę, jak i bezpieczeństwo. W praktyce właśnie ta kombinacja bywa najważniejsza.
-
-## Bibliografia
+SE dobrze nadaje się do takiej pracy, ponieważ łączy uważność na ciało z uważnością na kontakt. To daje pacjentowi zarówno strukturę, jak i bezpieczeństwo. W praktyce właśnie ta kombinacja bywa najważniejsza.## Bibliografia
 
 - Herman, J. L. (2015). Trauma and Recovery. Basic Books.
 - Fisher, J. (2017). Healing the Fragmented Selves of Trauma Survivors. Routledge.

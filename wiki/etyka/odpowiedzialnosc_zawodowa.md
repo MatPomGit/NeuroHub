@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -164,9 +164,7 @@ W przypadku sporu prawnego lub etycznego dokumentacja jest kluczowym dowodem. Br
 
 Polskie prawo i dobre praktyki sugerują przechowywanie dokumentacji przez **minimum 5 lat** po zakończeniu terapii (dla dorosłych), **minimum do 18. roku życia** klienta +5 lat (dla dzieci). RODO nakłada limity czasu przechowywania - dokumentacja musi być niszczona bezpiecznie.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 1. Ustawa z dnia 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów. *Dz.U. 2001 nr 73 poz. 763*.
 2. Polskie Towarzystwo Psychologiczne (2018). *Kodeks Etyczno-Zawodowy Psychologa*. PTP.
@@ -177,10 +175,19 @@ Polskie prawo i dobre praktyki sugerują przechowywanie dokumentacji przez **min
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Odpowiedzialność zawodowa i procedury skargowe" polega na tym, że etyka zawodowa nie sprowadza się do mechanicznego stosowania reguł, lecz wymaga ważenia dóbr, ryzyk i odpowiedzialności w warunkach niepewności.
+
+Dopiero wspólna analiza zagadnień takich jak ustawa o zawodzie psychologa w polsce, skargi klientów - jak postępować oraz zapis w dokumentacji a odpowiedzialność pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
+Temat "Odpowiedzialność zawodowa i procedury skargowe" pokazuje, że najbardziej dojrzałe wnioski etyczne wynikają z łączenia zasad, kontekstu sytuacyjnego i refleksji nad skutkami decyzji.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak ustawa o zawodzie psychologa w polsce, skargi klientów - jak postępować oraz zapis w dokumentacji a odpowiedzialność pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

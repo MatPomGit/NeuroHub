@@ -95,9 +95,19 @@ Dział obejmuje dwanaście artykułów pogrupowanych tematycznie:
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Ekrany, książki i natura - psychologia mediów i środowiska" polega na tym, że wpływ środowiska cyfrowego i naturalnego nie jest prostym bilansem szkód i korzyści, lecz zależy od wzorca używania, czasu ekspozycji i funkcji, jaką pełni dane doświadczenie.
+
+Dopiero wspólna analiza zagadnień takich jak czym zajmuje się ta dziedzina?, ramy teoretyczne oraz przegląd artykułów w dziale pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Ekrany, książki i natura - psychologia mediów i środowiska" pokazuje, że najbardziej wartościowe wnioski pojawiają się wtedy, gdy analizuje się wspólnie uwagę, emocje, regenerację i długofalowe nawyki poznawcze.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak czym zajmuje się ta dziedzina?, ramy teoretyczne oraz przegląd artykułów w dziale pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

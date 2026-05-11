@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -101,10 +101,19 @@ Analiza literatury wskazuje na kilka luk: **(1)** Brak ujednoliconych polskich n
 **Rekomendowane źródła:** Dunn W. _Sensory Profile Manual_ (1999); Miller LJ. _Sensational Kids_ (3rd ed., 2014); Baranek G. _Sensory Experiences Questionnaire_ (2009); Chojnicka I. & Pisula E. (2019). _Adaptation and psychometric properties of the Polish SSP-2_ [\[5\]](https://www.researchgate.net/publication/337029206_Adaptation_and_psychometric_properties_of_the_Polish_version_of_the_Short_Sensory_Profile_2#:~:text=scales%2Fquadrants%20and%20the%20overall%20score,by%20the%20children%27s%20age%2C%20gender); Wiśniewska M. (2015). _Profil Sensoryczny Dziecka_ (PTP Gdańsk); Grobelna N. i wsp. (2024). _Phenomenon of sensory processing - przegląd_ [\[28\]](https://ane.pl/index.php/ane/article/download/2556/2503/5026#:~:text=has%20evolved%2C%20leading%20to%20the,including%20sensory%20gating%2C%20electrodermal%20responses)[\[1\]](https://ane.pl/index.php/ane/article/download/2556/2503/5026#:~:text=This%20model%20proposes%20the%20existence,described%20as%3A%20Sensory%20Sensitivity%2C%20character%E2%80%91). Bobrowska M., Liberska H. (2023). _Polska adaptacja HSPS_ [\[7\]](https://www.researchgate.net/publication/378949683_Polska_adaptacja_narzedzia_Highly_Sensitive_Person_Scale#:~:text=Cel%3A%20Wra%C5%BCliwo%C5%9B%C4%87%20przetwarzania%20sensorycznego%20definiowana,Wykluczono%20sze%C5%9B%C4%87). Krzysztofik K. (2022). _SEQ-3.0-PL_ (prace niepublikowane, UAM). Ponadto przydatne: Pearson Assessments ([www.pearsonassessments.com](http://www.pearsonassessments.com)), opisy _Sensory Profile 2_, _AASP_; Western Psych. Services (<www.wpspublish.com>) - informacje o _SPM_ i innych.
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "**Profil sensoryczny u osób neuroróżnorodnych**" polega na tym, że neuroróżnorodność najlepiej rozumieć nie jako prostą listę deficytów, lecz jako odmienny profil przetwarzania, który może generować zarówno trudności, jak i zasoby.
+
+Dopiero wspólna analiza zagadnień takich jak modele teoretyczne profilu sensorycznego, polska, a praktyki międzynarodowe oraz praktyczne wskazówki dla studentów i praktyków pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
+Temat "**Profil sensoryczny u osób neuroróżnorodnych**" pokazuje, że kluczowe pozostaje łączenie wsparcia funkcjonalnego z redukowaniem barier środowiskowych i stygmatyzacji.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak modele teoretyczne profilu sensorycznego, polska, a praktyki międzynarodowe oraz praktyczne wskazówki dla studentów i praktyków pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

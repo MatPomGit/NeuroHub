@@ -33,9 +33,7 @@ Sprawdzaj kompetencje i standardy ochrony dziecka w organizacjach, z których ko
 Dowody dla programów środowiskowych są **umiarkowane**, zależne od jakości wdrożenia.
 
 
-NGO są cennym ogniwem systemu, gdy działają w standardzie i partnerstwie.
-
-## Bibliografia
+NGO są cennym ogniwem systemu, gdy działają w standardzie i partnerstwie.## Bibliografia
 - Kazdin, A. E. (2021). *Research Design in Clinical Psychology* (5th ed.). Cambridge University Press.
 - NICE. (2022). *Guidelines and Quality Standards* (wybrane dokumenty dotyczące zdrowia psychicznego i interwencji psychospołecznych).
 - WHO. (2021). *Guidance on community mental health services*. World Health Organization.

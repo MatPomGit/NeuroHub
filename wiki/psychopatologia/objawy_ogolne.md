@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -40,10 +40,19 @@ MSE jest punktem wyjścia diagnostyki różnicowej: profil objawów kieruje pode
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Objawy ogólne - badanie stanu psychicznego (MSE)" polega na tym, że objawy nabierają znaczenia dopiero wtedy, gdy analizuje się je w przebiegu, kontekście funkcjonowania i relacji do mechanizmów podtrzymujących.
+
+Dopiero wspólna analiza zagadnień takich jak czym jest mse?, domeny mse oraz znaczenie kliniczne pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
+Temat "Objawy ogólne - badanie stanu psychicznego (MSE)" pokazuje, że najbardziej użyteczna perspektywa łączy opis symptomów z rozumieniem procesu, różnicowaniem i planowaniem interwencji.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak czym jest mse?, domeny mse oraz znaczenie kliniczne pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

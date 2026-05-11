@@ -65,9 +65,19 @@ Psychologia zdrowia pomaga przełożyć wiedzę medyczną na **realne codzienne 
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Psychologia zdrowia - wprowadzenie" polega na tym, że stan zdrowia i zachowania zdrowotne są wynikiem współdziałania biologii, interpretacji objawów, relacji z otoczeniem i jakości codziennych nawyków.
+
+Dopiero wspólna analiza zagadnień takich jak czym zajmuje się psychologia zdrowia?, najważniejsze modele teoretyczne (skrót) oraz przykład praktyczny pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Psychologia zdrowia - wprowadzenie" pokazuje, że największą wartość ma łączenie perspektywy medycznej z psychologicznym rozumieniem motywacji, stresu i adaptacji.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak czym zajmuje się psychologia zdrowia?, najważniejsze modele teoretyczne (skrót) oraz przykład praktyczny pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

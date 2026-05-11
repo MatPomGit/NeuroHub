@@ -183,9 +183,7 @@ Jakość rozmowy powinna być regularnie audytowana w superwizji, najlepiej z u�
 ## 12. Wnioski
 Techniki rozmowy psychologicznej są mikrointerwencjami o makroznaczeniu diagnostycznym. Parafraza, odzwierciedlenie, sondowanie, uruchamianie wyobraźni i klaryfikacja nie konkurują ze sobą, lecz tworzą komplementarny repertuar wspierający trafną i etyczną diagnozę. Najwyższą skuteczność osiąga się wtedy, gdy techniki są stosowane intencjonalnie, sekwencyjnie i elastycznie, przy jednoczesnym monitorowaniu obciążenia emocjonalnego oraz jakości danych.
 
----
-
-## Bibliografia orientacyjna (kierunkowa)
+---## Bibliografia orientacyjna (kierunkowa)
 1. Rogers, C. R. (1951). *Client-Centered Therapy*.
 2. Miller, W. R., & Rollnick, S. (2013). *Motivational Interviewing*.
 3. Sommers-Flanagan, J., & Sommers-Flanagan, R. (2016). *Clinical Interviewing*.
@@ -194,9 +192,19 @@ Techniki rozmowy psychologicznej są mikrointerwencjami o makroznaczeniu diagnos
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Techniki rozmowy psychologicznej w diagnozie: parafraza, odzwierciedlenie, sondowanie, uruchamianie wyobraźni, klaryfikacja i interwencje pokrewne" polega na tym, że w diagnozie najwięcej błędów powstaje nie na poziomie pojedynczej techniki, lecz na etapie wnioskowania z danych o różnej jakości i pochodzeniu.
+
+Dopiero wspólna analiza zagadnień takich jak cele rozmowy psychologicznej w diagnozie, klaryfikacja oraz etyka i standardy pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Techniki rozmowy psychologicznej w diagnozie: parafraza, odzwierciedlenie, sondowanie, uruchamianie wyobraźni, klaryfikacja i interwencje pokrewne" pokazuje, że najbardziej użyteczna diagnoza łączy precyzję metodologiczną z uważnością na kontekst, relację i ograniczenia interpretacji.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak cele rozmowy psychologicznej w diagnozie, klaryfikacja oraz etyka i standardy pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

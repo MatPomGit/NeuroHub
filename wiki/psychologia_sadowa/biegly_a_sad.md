@@ -54,9 +54,19 @@ Relacja biegłego z sądem i uczestnikami postępowania jest fundamentem jego ro
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Biegły psycholog a sąd - komunikacja i relacja" polega na tym, że w psychologii sądowej najważniejsze jest nie tylko to, co badany przeżywa, ale również to, jak wiarygodnie można tę informację udokumentować i uzasadnić przed sądem.
+
+Dopiero wspólna analiza zagadnień takich jak rola biegłego na sali sądowej, opinia uzupełniająca i korekta oraz radzenie sobie ze stresem i wypaleniem pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Biegły psycholog a sąd - komunikacja i relacja" pokazuje, że kluczowe pozostaje łączenie standardów naukowych, prawnych i etycznych przy formułowaniu opinii oraz ograniczeń wnioskowania.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak rola biegłego na sali sądowej, opinia uzupełniająca i korekta oraz radzenie sobie ze stresem i wypaleniem pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

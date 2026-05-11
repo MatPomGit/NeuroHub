@@ -111,9 +111,7 @@ Programy psychoedukacyjne i terapeutyczne dla rodziców opierają się na mechan
 
 Style rodzicielskie nie determinują w sposób mechaniczny losów dziecka - temperament, kultura i zasoby środowiskowe stale modulują te zależności. Niemniej konsekwentne dowody empiryczne wskazują, że połączenie ciepła emocjonalnego, jasnych oczekiwań i uzasadnień zasad tworzy optymalne warunki dla rozwijającej się autonomii, kompetencji i dobrostanu. Wiedza o stylach rodzicielskich stanowi fundament pracy profilaktycznej i terapeutycznej z rodzinami.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Baumrind, D. (1966). Effects of authoritative parental control on child behavior. *Child Development*, 37(4), 887–907.
 - Baumrind, D. (1971). Current patterns of parental authority. *Developmental Psychology Monographs*, 4(1, Pt. 2).
@@ -125,9 +123,19 @@ Style rodzicielskie nie determinują w sposób mechaniczny losów dziecka - temp
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Style rodzicielskie i wychowanie" polega na tym, że rozwój nie jest prostą sekwencją etapów, lecz dynamiczną relacją między dojrzewaniem biologicznym, środowiskiem i doświadczeniem uczenia się.
+
+Dopiero wspólna analiza zagadnień takich jak model baumrind: trzy style rodzicielskie, determinanty stylu rodzicielskiego oraz interwencje i programy rodzicielskie pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Style rodzicielskie i wychowanie" pokazuje, że najbardziej trafne podsumowanie wymaga łączenia perspektywy etapowej z analizą różnic indywidualnych, kontekstu i plastyczności.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak model baumrind: trzy style rodzicielskie, determinanty stylu rodzicielskiego oraz interwencje i programy rodzicielskie pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

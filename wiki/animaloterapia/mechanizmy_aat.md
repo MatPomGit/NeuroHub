@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -93,12 +93,19 @@ Mechanizmy biologiczne, psychologiczne i społeczne nie działają niezależnie 
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Mechanizmy terapeutyczne AAT" polega na tym, że o skuteczności nie decyduje samo włączenie zwierzęcia do kontaktu, lecz jakość doboru celu, bezpieczeństwa i relacji.
+
+Dopiero wspólna analiza zagadnień takich jak mechanizmy biologiczne, mechanizmy społeczne oraz integracja mechanizmów pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
+Temat "Mechanizmy terapeutyczne AAT" pokazuje, że największą wartość praktyczną daje łączenie wiedzy o mechanizmie oddziaływania z ostrożnym planowaniem interwencji i oceną efektów.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
-## Bibliografia
+Dopiero wspólna analiza zagadnień takich jak mechanizmy biologiczne, mechanizmy społeczne oraz integracja mechanizmów pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

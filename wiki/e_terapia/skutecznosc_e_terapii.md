@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -54,11 +54,14 @@ Jednym z wyzwań e-terapii jest wysoki wskaźnik rezygnacji (*attrition*). W pro
 
 E-terapia ma solidne podstawy empiryczne szczególnie dla iCBT w depresji i zaburzeniach lękowych. Jej skuteczność jest jednak uwarunkowana licznymi czynnikami - diagnozą, nasileniem, formą wsparcia, motywacją pacjenta i jakością platformy. Rzetelna kwalifikacja pacjentów do e-terapii i monitoring postępu są kluczowe dla uzyskania dobrych wyników klinicznych.
 
-## Perspektywa nieoczywista
 
 ## Podsumowanie
 
-## Bibliografia
+Temat "Skuteczność e-terapii - przegląd badań" pokazuje, że najważniejsze jest traktowanie e-terapii jako środowiska pracy klinicznej z własnymi ograniczeniami i przewagami, a nie jako prostego zamiennika kontaktu bezpośredniego.
+
+W praktyce oznacza to potrzebę łączenia danych, kontekstu i celu działania zamiast opierania się na pojedynczym wskaźniku lub uproszczonej interpretacji.
+
+Dopiero wspólna analiza zagadnień takich jak stan wiedzy empirycznej, czynniki moderujące skuteczność oraz wskaźniki rezygnacji i przestrzegania pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

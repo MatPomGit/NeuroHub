@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -98,9 +98,7 @@ Wysokie BIS wiąże się z:
 - BAS Fun Seeking (4 poz.) - spontaniczne poszukiwanie przyjemności
 - BAS Reward Responsiveness (5 poz.) - pozytywne emocje na nagrodę
 
-Narzędzie ma polskie adaptacje i jest szeroko stosowane w badaniach klinicznych.
-
-## Bibliografia
+Narzędzie ma polskie adaptacje i jest szeroko stosowane w badaniach klinicznych.## Bibliografia
 
 - Gray, J. A. (1982). *The Neuropsychology of Anxiety*. Oxford University Press.
 - Gray, J. A., & McNaughton, N. (2000). *The Neuropsychology of Anxiety* (2nd ed.). Oxford University Press.
@@ -111,10 +109,19 @@ Narzędzie ma polskie adaptacje i jest szeroko stosowane w badaniach klinicznych
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Teoria systemów BIS/BAS Graya" polega na tym, że temperament nie przesądza o losie jednostki, lecz wpływa na sposób reagowania, uczenia się i dopasowania do wymagań środowiska.
+
+Dopiero wspólna analiza zagadnień takich jak geneza teorii, revised reinforcement sensitivity theory (rst, 2004) oraz pomiar bis/bas pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
+Temat "Teoria systemów BIS/BAS Graya" pokazuje, że najbardziej wartościowe jest ujmowanie temperamentu w relacji do rozwoju, stresu i strategii regulacyjnych, a nie jako sztywnej etykiety.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak geneza teorii, revised reinforcement sensitivity theory (rst, 2004) oraz pomiar bis/bas pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

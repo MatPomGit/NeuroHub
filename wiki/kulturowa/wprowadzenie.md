@@ -91,9 +91,7 @@ Psychologia kulturowa ma bezpośrednie zastosowanie w:
 
 Psychologia kulturowa przypomina, że umysł nie jest izolowanym mechanizmem - jest zawsze umysłem **w kulturze**. Rozumienie tego związku jest warunkiem rzetelnej nauki o człowieku oraz skutecznej pomocy psychologicznej w zróżnicowanym kulturowo świecie.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Bruner, J. (1990). *Acts of Meaning*. Harvard University Press.
 - Cole, M. (1996). *Cultural Psychology: A Once and Future Discipline*. Harvard University Press.
@@ -117,9 +115,19 @@ Takie podejście zwiększa nie tylko rzetelność naukową, ale także użyteczn
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Psychologia kulturowa - wprowadzenie" polega na tym, że różnice kulturowe nie są dodatkiem do psychologii ogólnej, lecz zmieniają sposób definiowania normy, motywacji i relacyjności.
+
+Dopiero wspólna analiza zagadnień takich jak czym jest psychologia kulturowa?, główne pytania badawcze oraz zastosowania praktyczne w pracy psychologa pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Psychologia kulturowa - wprowadzenie" pokazuje, że najbardziej trafne wnioski pojawiają się wtedy, gdy unika się etnocentryzmu i analizuje zjawisko w jego własnym kontekście znaczeń.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak czym jest psychologia kulturowa?, główne pytania badawcze oraz zastosowania praktyczne w pracy psychologa pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

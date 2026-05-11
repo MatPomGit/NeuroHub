@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -317,9 +317,7 @@ Warto rozważyć konsultację psychologiczną, jeśli:
 
 Najważniejsza zasada praktyczna brzmi: **technologia powinna wzmacniać autonomię, a nie ją zastępować**. Gdy narzędzie zaczyna kolonizować uwagę, rytm dnia i poczucie własnej wartości, przestaje być wsparciem - staje się systemem wpływu, który wymaga świadomego ograniczania i etycznej korekty.
 
----
-
-## Bibliografia orientacyjna (do dalszego rozwinięcia)
+---## Bibliografia orientacyjna (do dalszego rozwinięcia)
 
 - Literatura o ekonomii uwagi i perswazyjnym projektowaniu interfejsów.
 - Badania nad technostresem, wypaleniem cyfrowym i przeciążeniem poznawczym.
@@ -330,10 +328,19 @@ Najważniejsza zasada praktyczna brzmi: **technologia powinna wzmacniać autonom
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Zdrada technologii (Technology Betrayal): kiedy narzędzia wsparcia stają się źródłem alienacji i kontroli" polega na tym, że technologia oddziałuje psychologicznie nie tylko przez treść, lecz także przez tempo, dostępność, architekturę wyboru i sposób włączania jej w relacje.
+
+Dopiero wspólna analiza zagadnień takich jak streszczenie, zdrowie psychiczne i e‑terapia oraz bibliografia orientacyjna (do dalszego rozwinięcia) pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
+Temat "Zdrada technologii (Technology Betrayal): kiedy narzędzia wsparcia stają się źródłem alienacji i kontroli" pokazuje, że najważniejsze jest traktowanie wpływu technologii jako skutku interakcji między projektem narzędzia a ludzkimi potrzebami i ograniczeniami.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak streszczenie, zdrowie psychiczne i e‑terapia oraz bibliografia orientacyjna (do dalszego rozwinięcia) pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

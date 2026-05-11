@@ -65,7 +65,11 @@ Etyka e-terapii nie jest odrębnym systemem zasad - jest zastosowaniem fundament
 
 ## Podsumowanie
 
-## Bibliografia
+Temat "Etyka e-terapii" pokazuje, że najważniejsze jest traktowanie e-terapii jako środowiska pracy klinicznej z własnymi ograniczeniami i przewagami, a nie jako prostego zamiennika kontaktu bezpośredniego.
+
+W praktyce oznacza to potrzebę łączenia danych, kontekstu i celu działania zamiast opierania się na pojedynczym wskaźniku lub uproszczonej interpretacji.
+
+Dopiero wspólna analiza zagadnień takich jak szczególne wyzwania etyczne środowiska online, kwestie jurysdykcyjne i licencjonowania oraz relacja terapeutyczna online pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

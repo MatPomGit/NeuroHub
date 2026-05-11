@@ -123,9 +123,19 @@ Skuteczne zapobieganie mobbingowi i interwencja wymagają działań na wielu poz
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Interwencja i zapobieganie mobbingowi" polega na tym, że odporność psychiczna nie oznacza braku podatności na zranienie, lecz zdolność do odzyskiwania sprawstwa w warunkach przeciążenia i presji.
+
+Dopiero wspólna analiza zagadnień takich jak dlaczego prewencja jest kluczowa, wsparcie psychologiczne dla ofiar oraz przykład interwencji organizacyjnej pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Interwencja i zapobieganie mobbingowi" pokazuje, że najważniejsze jest łączenie profilaktyki indywidualnej z analizą środowiska pracy, procedur i kultury organizacyjnej.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak dlaczego prewencja jest kluczowa, wsparcie psychologiczne dla ofiar oraz przykład interwencji organizacyjnej pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

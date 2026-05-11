@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -106,9 +106,7 @@ Pisemna zgoda nie jest wymagana przez polskie prawo w każdym przypadku, jednak 
 - podpis klienta (i opiekuna, jeśli dotyczy),
 - informację o możliwości wycofania zgody.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Appelbaum, P. S., & Grisso, T. (1988). Assessing patients' capacities to consent to treatment. *New England Journal of Medicine, 319*(25), 1635–1638.
 - Faden, R. R., & Beauchamp, T. L. (1986). *A history and theory of informed consent*. Oxford University Press.
@@ -118,10 +116,19 @@ Pisemna zgoda nie jest wymagana przez polskie prawo w każdym przypadku, jednak 
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Świadoma zgoda (informed consent)" polega na tym, że etyka zawodowa nie sprowadza się do mechanicznego stosowania reguł, lecz wymaga ważenia dóbr, ryzyk i odpowiedzialności w warunkach niepewności.
+
+Dopiero wspólna analiza zagadnień takich jak trzy komponenty świadomej zgody, zgoda w badaniach vs. terapia oraz dokumentacja pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
+Temat "Świadoma zgoda (informed consent)" pokazuje, że najbardziej dojrzałe wnioski etyczne wynikają z łączenia zasad, kontekstu sytuacyjnego i refleksji nad skutkami decyzji.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak trzy komponenty świadomej zgody, zgoda w badaniach vs. terapia oraz dokumentacja pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

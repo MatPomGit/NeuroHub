@@ -138,9 +138,7 @@ Pracodawca pyta, czy pracownik nadaje się do pełnienia funkcji kierowniczej.
 
 Tajemnica zawodowa nie jest przeszkodą w pracy diagnostycznej - jest jej fundamentem. Psycholog chroniący poufność klientów buduje zaufanie, które jest warunkiem skutecznej pomocy. Jednocześnie znajomość legalnych i etycznych wyjątków od tajemnicy jest niezbędna do odpowiedzialnego postępowania w sytuacjach kryzysowych.
 
----
-
-## Bibliografia zalecana
+---## Bibliografia zalecana
 
 - Ustawa o zawodzie psychologa i samorządzie zawodowym psychologów (Dz.U. 2001 nr 73 poz. 763).
 - Kodeks etyczno-zawodowy psychologa PTP (2018).
@@ -150,9 +148,19 @@ Tajemnica zawodowa nie jest przeszkodą w pracy diagnostycznej - jest jej fundam
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Tajemnica zawodowa psychologa w diagnozie" polega na tym, że w diagnozie najwięcej błędów powstaje nie na poziomie pojedynczej techniki, lecz na etapie wnioskowania z danych o różnej jakości i pochodzeniu.
+
+Dopiero wspólna analiza zagadnień takich jak definicja i znaczenie, tajemnica a dokumentacja diagnostyczna oraz bibliografia zalecana pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Tajemnica zawodowa psychologa w diagnozie" pokazuje, że najbardziej użyteczna diagnoza łączy precyzję metodologiczną z uważnością na kontekst, relację i ograniczenia interpretacji.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak definicja i znaczenie, tajemnica a dokumentacja diagnostyczna oraz bibliografia zalecana pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

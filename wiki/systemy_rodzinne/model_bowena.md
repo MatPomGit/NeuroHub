@@ -57,9 +57,7 @@ Popularna kultura kojarzy "uzdrowienie od toksycznej rodziny" z cięciem kontakt
 
 
 
-Model Bowena wyróżnia się niezwykłą spójnością teoretyczną: osiem koncepcji tworzy sieć wzajemnych powiązań, pozwalającą zrozumieć zarówno historię rodzinną, jak i bieżące zachowania kliniczne. Centralnym pojęciem jest różnicowanie jaźni - zdolność do relacyjności bez utraty tożsamości. Jej rozwijanie jest procesem wieloletniego, uważnego angażowania się w relacje z innymi.
-
-## Bibliografia
+Model Bowena wyróżnia się niezwykłą spójnością teoretyczną: osiem koncepcji tworzy sieć wzajemnych powiązań, pozwalającą zrozumieć zarówno historię rodzinną, jak i bieżące zachowania kliniczne. Centralnym pojęciem jest różnicowanie jaźni - zdolność do relacyjności bez utraty tożsamości. Jej rozwijanie jest procesem wieloletniego, uważnego angażowania się w relacje z innymi.## Bibliografia
 
 1. Bowen, M. (1978). *Family Therapy in Clinical Practice*. Jason Aronson.
 2. Kerr, M. E., & Bowen, M. (1988). *Family Evaluation*. Norton.

@@ -244,9 +244,19 @@ Pień mózgu i móżdżek tworzą biologiczny fundament funkcjonowania psychofiz
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Pień mózgu i móżdżek" polega na tym, że związek mózg-zachowanie jest wielopoziomowy, dlatego pojedyncza struktura lub proces nabiera znaczenia dopiero w kontekście całych sieci funkcjonalnych.
+
+Dopiero wspólna analiza zagadnień takich jak anatomia pnia mózgu, funkcje móżdżku oraz znaczenie kliniczne w neuropsychologii pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Pień mózgu i móżdżek" pokazuje, że najważniejsze jest łączenie wiedzy anatomicznej, poznawczej i klinicznej, aby przełożyć opis mechanizmu na rozumienie funkcjonowania człowieka.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak anatomia pnia mózgu, funkcje móżdżku oraz znaczenie kliniczne w neuropsychologii pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

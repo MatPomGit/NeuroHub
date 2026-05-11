@@ -64,8 +64,6 @@ Eliminatywizm materialny to jedno z najbardziej radykalnych i prowokacyjnych sta
 
 
 
-
-
 ## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).

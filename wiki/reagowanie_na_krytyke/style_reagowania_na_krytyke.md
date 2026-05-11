@@ -90,9 +90,7 @@ W praktyce najwięcej zmienia regularność małych kroków: krótkiej pauzy, do
 
 - Uległość i kontratak redukują napięcie doraźnie, ale zwykle zwiększają koszty długoterminowe.
 - Styl konstruktywny opiera się na regulacji emocji, selekcji informacji i asertywnym dialogu.
-- Skuteczność reagowania na krytykę zależy nie tylko od osoby, lecz także od jakości środowiska relacyjnego.
-
-## Bibliografia
+- Skuteczność reagowania na krytykę zależy nie tylko od osoby, lecz także od jakości środowiska relacyjnego.## Bibliografia
 - Gross, J. J. (2014). Emotion regulation: Conceptual and empirical foundations. In *Handbook of Emotion Regulation* (2nd ed.). Guilford Press.
 
 - Gross, J. J. (2015). Emotion regulation: Current status and future prospects. *Psychological Inquiry*, 26(1), 1–26.

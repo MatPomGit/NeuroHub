@@ -136,9 +136,7 @@ Terapia oparta na teorii Bowena koncentruje się na:
 
 Rodzina to system dynamiczny, który rządzi się własnymi prawami - nie jest prostą sumą jej członków. Rozumienie dynamiki rodzinnej jest kluczowe zarówno dla zdrowia psychicznego jej członków, jak i dla skutecznej terapii. Wzorce ukształtowane w rodzinie towarzyszą nam przez całe życie i wpływają na wszystkie nasze relacje.
 
----
-
-## Bibliografia (APA 7)
+---## Bibliografia (APA 7)
 Wpisy bibliograficzne zapisuj konsekwentnie w APA 7 oraz dodawaj DOI/URL i oznaczenie typu źródła (`[Typ: ...]`) tam, gdzie to możliwe.
 
 
@@ -151,9 +149,19 @@ Wpisy bibliograficzne zapisuj konsekwentnie w APA 7 oraz dodawaj DOI/URL i oznac
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Relacje rodzinne - dynamika systemu" polega na tym, że zjawiska relacyjne rzadko są wyłącznie wynikiem cech partnerów; zwykle podtrzymują je wzorce komunikacji, historia przywiązania i bieżący kontekst stresu.
+
+Dopiero wspólna analiza zagadnień takich jak teoria systemowa murraya bowena, rola dziadków w systemie rodzinnym oraz bibliografia (apa 7) pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Relacje rodzinne - dynamika systemu" pokazuje, że najbardziej użyteczne jest ujmowanie relacji jako systemu współregulacji, negocjacji granic i wzajemnych interpretacji.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak teoria systemowa murraya bowena, rola dziadków w systemie rodzinnym oraz bibliografia (apa 7) pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

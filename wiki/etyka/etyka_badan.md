@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -138,9 +138,7 @@ W Polsce każda instytucja naukowa prowadząca badania empiryczne powinna posiad
 - Ochrona prywatności i danych
 - Specjalne zabezpieczenia dla grup wrażliwych
 
----
-
-## Bibliografia
+---## Bibliografia
 
 1. Milgram, S. (1963). Behavioral study of obedience. *Journal of Abnormal and Social Psychology, 67*(4), 371–378.
 2. World Medical Association (2013). *Declaration of Helsinki: Ethical Principles for Medical Research Involving Human Subjects*. WMA.
@@ -151,10 +149,19 @@ W Polsce każda instytucja naukowa prowadząca badania empiryczne powinna posiad
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Etyka badań naukowych w psychologii" polega na tym, że etyka zawodowa nie sprowadza się do mechanicznego stosowania reguł, lecz wymaga ważenia dóbr, ryzyk i odpowiedzialności w warunkach niepewności.
+
+Dopiero wspólna analiza zagadnień takich jak historia: skandale, które zmieniły naukę, dezinformacja w badaniach (*deception*) oraz komitety etyki badań (keb) pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
+Temat "Etyka badań naukowych w psychologii" pokazuje, że najbardziej dojrzałe wnioski etyczne wynikają z łączenia zasad, kontekstu sytuacyjnego i refleksji nad skutkami decyzji.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak historia: skandale, które zmieniły naukę, dezinformacja w badaniach (*deception*) oraz komitety etyki badań (keb) pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

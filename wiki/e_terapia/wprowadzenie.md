@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -62,11 +62,14 @@ W Polsce psychoterapia online nie doczekała się jeszcze odrębnych uregulowań
 
 E-terapia jest integralną częścią współczesnej oferty pomocy psychologicznej - nie konkuruje z terapią tradycyjną, lecz ją uzupełnia i poszerza. Jej dynamiczny rozwój stawia przed środowiskiem psychologów wyzwania etyczne, technologiczne i regulacyjne, które wymagają systematycznej refleksji i interdyscyplinarnej współpracy.
 
-## Perspektywa nieoczywista
 
 ## Podsumowanie
 
-## Bibliografia
+Temat "E-terapia - wprowadzenie" pokazuje, że najważniejsze jest traktowanie e-terapii jako środowiska pracy klinicznej z własnymi ograniczeniami i przewagami, a nie jako prostego zamiennika kontaktu bezpośredniego.
+
+W praktyce oznacza to potrzebę łączenia danych, kontekstu i celu działania zamiast opierania się na pojedynczym wskaźniku lub uproszczonej interpretacji.
+
+Dopiero wspólna analiza zagadnień takich jak czym jest e-terapia?, korzyści e-terapii oraz regulacje prawne w polsce pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

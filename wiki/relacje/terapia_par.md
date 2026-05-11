@@ -134,9 +134,7 @@ Sesje trwają zazwyczaj 50–90 minut; intensywne programy (np. „Couples Retre
 | IBCT | akceptacja + zmiana | Christensen & Jacobson | ~0,80 |
 | PREP | prewencja | Markman, Stanley | redukcja rozwodów ~30% |
 
----
-
-## Bibliografia (APA 7)
+---## Bibliografia (APA 7)
 Wpisy bibliograficzne zapisuj konsekwentnie w APA 7 oraz dodawaj DOI/URL i oznaczenie typu źródła (`[Typ: ...]`) tam, gdzie to możliwe.
 
 
@@ -147,8 +145,6 @@ Wpisy bibliograficzne zapisuj konsekwentnie w APA 7 oraz dodawaj DOI/URL i oznac
 - Johnson, S. M., Hunsley, J., Greenberg, L., & Schindler, D. (1999). Emotionally focused couples therapy: Status and challenges. *Clinical Psychology: Science and Practice, 6*(1), 67–79.
 - Markman, H. J., Stanley, S. M., & Blumberg, S. L. (2001). *Fighting for Your Marriage*. Jossey-Bass.
 - Shadish, W. R., & Baldwin, S. A. (2003). Meta-analysis of MFT interventions. *Journal of Marital and Family Therapy, 29*(4), 547–570.
-
-
 
 
 

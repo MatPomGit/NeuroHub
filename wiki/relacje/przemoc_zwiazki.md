@@ -134,9 +134,7 @@ W Polsce przemoc domowa jest regulowana przez:
 | Trauma więzi | Dutton & Painter (1981) | wyjaśnienie przywiązania do sprawcy |
 | Trauma zdrady | Freyd (1994) | psychologiczny mechanizm urazu z relacji bliskiej |
 
----
-
-## Bibliografia (APA 7)
+---## Bibliografia (APA 7)
 Wpisy bibliograficzne zapisuj konsekwentnie w APA 7 oraz dodawaj DOI/URL i oznaczenie typu źródła (`[Typ: ...]`) tam, gdzie to możliwe.
 
 
@@ -147,8 +145,6 @@ Wpisy bibliograficzne zapisuj konsekwentnie w APA 7 oraz dodawaj DOI/URL i oznac
 - Walker, L. E. (1979). *The Battered Woman*. Harper & Row.
 - WHO. (2012). *Understanding and Addressing Violence Against Women: Intimate Partner Violence*. World Health Organization.
 - Ustawa z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy w rodzinie (Dz.U. 2005 nr 180 poz. 1493 z późn. zm.).
-
-
 
 
 

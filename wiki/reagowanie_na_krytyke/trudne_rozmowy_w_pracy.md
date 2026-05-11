@@ -80,9 +80,7 @@ W praktyce najwięcej zmienia regularność małych kroków: krótkiej pauzy, do
 
 - Trudna rozmowa powinna jednocześnie chronić relację i standard jakości.
 - Kluczowe są: precyzja faktów, odpowiedzialność, plan naprawczy i zmiana systemowa.
-- Kultura uczenia się z błędów jest lepszym predyktorem długofalowej skuteczności niż kultura strachu.
-
-## Bibliografia
+- Kultura uczenia się z błędów jest lepszym predyktorem długofalowej skuteczności niż kultura strachu.## Bibliografia
 - Gross, J. J. (2014). Emotion regulation: Conceptual and empirical foundations. In *Handbook of Emotion Regulation* (2nd ed.). Guilford Press.
 
 - Edmondson, A. C. (2019). *The Fearless Organization*. Wiley.

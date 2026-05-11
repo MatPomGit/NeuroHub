@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -75,11 +75,14 @@ Przy wyborze platformy do e-terapii terapeuta lub instytucja powinna ocenić:
 
 Ekosystem platform e-terapii jest bogaty, zróżnicowany i stale rosnący. Wybór odpowiedniego narzędzia wymaga refleksji nad potrzebami klinicznymi, wymogami prawnymi i standardami etycznymi - bo platforma, choć jest jedynie narzędziem, kształtuje jakość relacji terapeutycznej i bezpieczeństwo danych wrażliwych, na których spoczywa fundamentalne zaufanie klienta.
 
-## Perspektywa nieoczywista
 
 ## Podsumowanie
 
-## Bibliografia
+Temat "Platformy i narzędzia e-terapii" pokazuje, że najważniejsze jest traktowanie e-terapii jako środowiska pracy klinicznej z własnymi ograniczeniami i przewagami, a nie jako prostego zamiennika kontaktu bezpośredniego.
+
+W praktyce oznacza to potrzebę łączenia danych, kontekstu i celu działania zamiast opierania się na pojedynczym wskaźniku lub uproszczonej interpretacji.
+
+Dopiero wspólna analiza zagadnień takich jak ekosystem cyfrowej zdrowia psychicznego, systemy zarządzania praktyką (ehr/pm) oraz kryteria oceny platform pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

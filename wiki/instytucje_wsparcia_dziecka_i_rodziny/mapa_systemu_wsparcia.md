@@ -33,9 +33,7 @@ Prowadź własną mapę kontaktów i terminów, aby lepiej poruszać się po sys
 Dowody dla modeli koordynacji międzysektorowej są **umiarkowane**; dla działań nieskoordynowanych - **wstępne**.
 
 
-Jakość systemu mierzy się zdolnością do współpracy, nie liczbą instytucji.
-
-## Bibliografia
+Jakość systemu mierzy się zdolnością do współpracy, nie liczbą instytucji.## Bibliografia
 - Kazdin, A. E. (2021). *Research Design in Clinical Psychology* (5th ed.). Cambridge University Press.
 - NICE. (2022). *Guidelines and Quality Standards* (wybrane dokumenty dotyczące zdrowia psychicznego i interwencji psychospołecznych).
 - WHO. (2021). *Guidance on community mental health services*. World Health Organization.

@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -103,9 +103,7 @@ Depresja ma silne temperamentalne korzenie:
 ### Terapia
 - Dostosowanie technik CBT do profilu temperamentalnego (np. wolniejsze tempo ekspozycji u wysoko reaktywnych)
 - DBT szczególnie przydatna przy wysokiej reaktywności emocjonalnej
-- Terapia schematu przy trwałych wzorcach wynikających z temperamentu × wczesnodziecięce doświadczenia
-
-## Bibliografia
+- Terapia schematu przy trwałych wzorcach wynikających z temperamentu × wczesnodziecięce doświadczenia## Bibliografia
 
 - Strelau, J., & Zawadzki, B. (2005). Trauma and temperament as predictors of posttraumatic stress disorder. *European Psychologist, 10*(2), 124–135.
 - Rothbart, M. K., & Bates, J. E. (2006). Temperament. In W. Damon & R. M. Lerner (Eds.), *Handbook of Child Psychology*, Vol. 3 (6th ed., pp. 99–166). Wiley.
@@ -116,10 +114,19 @@ Depresja ma silne temperamentalne korzenie:
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Temperament a psychopatologia" polega na tym, że temperament nie przesądza o losie jednostki, lecz wpływa na sposób reagowania, uczenia się i dopasowania do wymagań środowiska.
+
+Dopiero wspólna analiza zagadnień takich jak modele relacji temperament–zaburzenie, zahamowanie behawioralne a fobia społeczna oraz implikacje dla profilaktyki i terapii pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
+Temat "Temperament a psychopatologia" pokazuje, że najbardziej wartościowe jest ujmowanie temperamentu w relacji do rozwoju, stresu i strategii regulacyjnych, a nie jako sztywnej etykiety.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak modele relacji temperament–zaburzenie, zahamowanie behawioralne a fobia społeczna oraz implikacje dla profilaktyki i terapii pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

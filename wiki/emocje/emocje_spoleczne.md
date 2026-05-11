@@ -121,9 +121,7 @@ Deficyty lub dysregulacja emocji moralnych wiążą się z różnymi formami zac
 
 *W przypadku spektrum autyzmu obniżona empatia poznawcza przy zachowanej afektywnej lub aleksytymii.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 1. Haidt, J. (2001). The emotional dog and its rational tail: A social intuitionist approach to moral judgment. *Psychological Review, 108*(4), 814–834.
 2. Haidt, J. (2003). The moral emotions. In R. J. Davidson, K. R. Scherer, & H. H. Goldsmith (Eds.), *Handbook of Affective Sciences* (pp. 852–870). Oxford University Press.

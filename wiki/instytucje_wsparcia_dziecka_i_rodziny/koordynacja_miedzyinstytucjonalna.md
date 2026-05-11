@@ -33,9 +33,7 @@ Proś o wskazanie jednego koordynatora sprawy i harmonogramu przeglądów.
 Dowody dla case management są **umiarkowane do silnych**.
 
 
-Koordynacja jest kompetencją systemową, którą trzeba projektować i mierzyć.
-
-## Bibliografia
+Koordynacja jest kompetencją systemową, którą trzeba projektować i mierzyć.## Bibliografia
 - Kazdin, A. E. (2021). *Research Design in Clinical Psychology* (5th ed.). Cambridge University Press.
 - NICE. (2022). *Guidelines and Quality Standards* (wybrane dokumenty dotyczące zdrowia psychicznego i interwencji psychospołecznych).
 - WHO. (2021). *Guidance on community mental health services*. World Health Organization.

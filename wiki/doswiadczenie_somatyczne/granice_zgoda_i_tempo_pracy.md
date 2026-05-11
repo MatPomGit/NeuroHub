@@ -57,9 +57,7 @@ To pokazuje, że etyka i skuteczność nie stoją tu w opozycji. Dobre granice p
 
 
 Granice, zgoda i tempo pracy są centralnymi warunkami skutecznego SE. Bez nich nawet dobrze dobrana technika może stać się zbyt intensywna.
-W praktyce oznacza to, że terapeuta musi stale negocjować poziom kontaktu i tempa. To nie jest opóźnianie terapii, lecz jej bezpieczne prowadzenie. Tylko w takim układzie można liczyć na trwałą zmianę.
-
-## Bibliografia
+W praktyce oznacza to, że terapeuta musi stale negocjować poziom kontaktu i tempa. To nie jest opóźnianie terapii, lecz jej bezpieczne prowadzenie. Tylko w takim układzie można liczyć na trwałą zmianę.## Bibliografia
 
 - Levine, P. A. (2010). In an Unspoken Voice: How the Body Releases Trauma and Restores Goodness. North Atlantic Books.
 - Herman, J. L. (2015). Trauma and Recovery. Basic Books.

@@ -43,9 +43,7 @@ W praktyce publikacyjnej p-value bywa traktowane jako główne kryterium jakośc
 
 - Analiza danych wymaga dyscypliny proceduralnej porównywalnej z prowadzeniem sesji.
 - Wiarygodne wnioski opierają się na pełnym kontekście statystycznym i metodologicznym.
-- Rozdzielenie analiz konfirmacyjnych i eksploracyjnych jest warunkiem rzetelności.
-
-## Bibliografia
+- Rozdzielenie analiz konfirmacyjnych i eksploracyjnych jest warunkiem rzetelności.## Bibliografia
 1. Field, A. (2018). *Discovering Statistics Using IBM SPSS Statistics* (5th ed.). Sage.
 2. Gelman, A., & Loken, E. (2014). The statistical crisis in science. *American Scientist, 102*(6), 460–465.
 3. Greenland, S., et al. (2016). Statistical tests, P values, confidence intervals, and power. *European Journal of Epidemiology, 31*, 337–350.

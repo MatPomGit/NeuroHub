@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -87,9 +87,7 @@ Programy ogólnoszkolne (np. podejścia inspirowane modelem Olweusa lub KiVa) s�
 ## 6. Wnioski
 Bullying jest zjawiskiem systemowym, zakorzenionym w normach grupowych i klimacie szkoły. Największą skuteczność osiągają działania długofalowe, które łączą edukację, procedury, wsparcie psychologiczne i odpowiedzialność całej społeczności szkolnej.
 
----
-
-## Bibliografia (wybór)
+---## Bibliografia (wybór)
 1. Olweus, D. (1993). Bullying at school: What we know and what we can do.
 2. Espelage, D. L., & Swearer, S. M. (2003). Research on school bullying and victimization.
 3. Hymel, S., & Swearer, S. M. (2015). Four decades of research on school bullying.
@@ -97,10 +95,19 @@ Bullying jest zjawiskiem systemowym, zakorzenionym w normach grupowych i klimaci
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Bullying w środowisku szkolnym: diagnoza, skutki i profilaktyka" polega na tym, że trudności szkolne rzadko wynikają z pojedynczej cechy ucznia; zwykle odzwierciedlają relację między wymaganiami szkoły, wsparciem, klimatem klasy i profilem rozwojowym dziecka.
+
+Dopiero wspólna analiza zagadnień takich jak czym bullying różni się od konfliktu, skutki psychologiczne oraz bibliografia (wybór) pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
+Temat "Bullying w środowisku szkolnym: diagnoza, skutki i profilaktyka" pokazuje, że najbardziej użyteczne są wnioski, które łączą perspektywę ucznia, nauczyciela i systemu edukacyjnego.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak czym bullying różni się od konfliktu, skutki psychologiczne oraz bibliografia (wybór) pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

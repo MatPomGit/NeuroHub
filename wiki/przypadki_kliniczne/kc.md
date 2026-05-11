@@ -49,9 +49,7 @@ To rozróżnienie ma znaczenie etyczne i kliniczne: wsparcie pacjenta powinno ob
 
 
 
-K.C. jest jednym z kluczowych przypadków dla nowoczesnej nauki o pamięci. Dostarczył silnych dowodów na funkcjonalną odrębność pamięci epizodycznej i semantycznej oraz na związek pamięci autobiograficznej z myśleniem prospektywnym.
-
-## Bibliografia
+K.C. jest jednym z kluczowych przypadków dla nowoczesnej nauki o pamięci. Dostarczył silnych dowodów na funkcjonalną odrębność pamięci epizodycznej i semantycznej oraz na związek pamięci autobiograficznej z myśleniem prospektywnym.## Bibliografia
 
 1. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1–12.
 2. Tulving, E. (2002). Episodic memory: From mind to brain. *Annual Review of Psychology*, 53, 1–25.

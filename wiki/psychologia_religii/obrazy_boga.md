@@ -53,9 +53,7 @@ Zwykle zakłada się, że obraz Boga jest konsekwencją religii. Coraz więcej d
 - Obraz Boga i pojęcie Boga to dwa różne, choć powiązane poziomy funkcjonowania religijnego.
 - Jakość obrazu Boga ma znaczenie dla dobrostanu psychicznego i radzenia sobie ze stresem.
 - Trafna diagnoza wymaga uwzględnienia przywiązania, kultury i aktualnego kontekstu życiowego.
-- Praktyka kliniczna korzysta najbardziej, gdy łączy wrażliwość religijną z precyzją psychologiczną.
-
-## Bibliografia
+- Praktyka kliniczna korzysta najbardziej, gdy łączy wrażliwość religijną z precyzją psychologiczną.## Bibliografia
 1. Hall, T. W., Fujikawa, A. M., Halcrow, S. R., Hill, P. C., & Delaney, H. (2009). Attachment to God and implicit spirituality: Clarifying correspondence and compensation models. *Journal of Psychology and Theology*, 37(2), 114-127.
 2. Granqvist, P., & Kirkpatrick, L. A. (2016). Attachment and religious representations and behavior. In J. Cassidy & P. R. Shaver (Eds.), *Handbook of Attachment* (3rd ed.). Guilford Press.
 3. Davis, E. B., Moriarty, G. L., & Mauch, J. C. (2013). God images and God concepts: Definitions, development, and dynamics. *Psychology of Religion and Spirituality*, 5(1), 51-60.

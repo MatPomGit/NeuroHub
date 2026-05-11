@@ -122,9 +122,7 @@ Programy oparte na **samej informacji o szkodliwości** substancji nie wykazują
 
 Uzależnienia u młodzieży są wynikiem interakcji neurobiologicznej podatności wynikającej z niedojrzałości kory przedczołowej, indywidualnych czynników psychologicznych oraz silnych wpływów środowiskowych. Skuteczna profilaktyka i terapia musi uwzględniać ten wielowymiarowy kontekst, angażować rodzinę i środowisko rówieśnicze, a leczenie powinno być zintegrowane z pomocą psychiatryczną w przypadku współwystępujących zaburzeń.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Casey, B. J., Jones, R. M., & Hare, T. A. (2008). The adolescent brain. *Annals of the New York Academy of Sciences, 1124*, 111–126.
 - Chambers, R. A., Taylor, J. R., & Potenza, M. N. (2003). Developmental neurocircuitry of motivation in adolescence. *American Journal of Psychiatry, 160*(6), 1041–1052.
@@ -135,8 +133,6 @@ Uzależnienia u młodzieży są wynikiem interakcji neurobiologicznej podatnośc
 - Liddle, H. A. (2002). Multidimensional family therapy for adolescent cannabis users. *Cannabis Youth Treatment Series, 5*. SAMHSA.
 - Tobler, N. S. (1992). Drug prevention programs can work: Research findings. *Journal of Addictive Diseases, 11*(3), 1–28.
 - Zuckerman, M. (1994). *Behavioral Expressions and Biosocial Bases of Sensation Seeking*. Cambridge University Press.
-
-
 
 
 

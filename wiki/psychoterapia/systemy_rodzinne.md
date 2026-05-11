@@ -61,9 +61,7 @@ Nieoczywiste podejście zakłada, że „dysfunkcyjny” objaw bywa jednocześni
 
 
 
-Myślenie systemowe przesuwa uwagę z „diagnostyki winy” na analizę wzorców i funkcji objawu. W praktyce zwiększa to szansę trwałej poprawy, ponieważ interwencja obejmuje cały układ relacji, a nie jedynie pojedynczy symptom.
-
-## Bibliografia
+Myślenie systemowe przesuwa uwagę z „diagnostyki winy” na analizę wzorców i funkcji objawu. W praktyce zwiększa to szansę trwałej poprawy, ponieważ interwencja obejmuje cały układ relacji, a nie jedynie pojedynczy symptom.## Bibliografia
 
 1. Bowen, M. (1978). *Family Therapy in Clinical Practice*. Jason Aronson.
 2. Minuchin, S. (1974). *Families and Family Therapy*. Harvard University Press.

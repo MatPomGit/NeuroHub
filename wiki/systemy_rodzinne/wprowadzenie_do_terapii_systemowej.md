@@ -54,9 +54,7 @@ Dominująca narracja kulturowa kładzie nacisk na autonomię jednostki i indywid
 
 
 
-Terapia systemowa rewolucjonizuje sposób myślenia o problemach psychologicznych: przenosi analizę z wnętrza jednostki do przestrzeni między ludźmi. Cyrkularna przyczynowość, homeostaza i pojęcie objawu jako sygnału relacyjnego tworzą spójną logikę interwencji, którą można stosować zarówno w gabinecie, jak i w pracy szkolnej, interwencji kryzysowej i profilaktyce rodzinnej.
-
-## Bibliografia
+Terapia systemowa rewolucjonizuje sposób myślenia o problemach psychologicznych: przenosi analizę z wnętrza jednostki do przestrzeni między ludźmi. Cyrkularna przyczynowość, homeostaza i pojęcie objawu jako sygnału relacyjnego tworzą spójną logikę interwencji, którą można stosować zarówno w gabinecie, jak i w pracy szkolnej, interwencji kryzysowej i profilaktyce rodzinnej.## Bibliografia
 
 1. Bateson, G. (1972). *Steps to an Ecology of Mind*. Chandler Publishing.
 2. Bertalanffy, L. von (1968). *General System Theory*. George Braziller.

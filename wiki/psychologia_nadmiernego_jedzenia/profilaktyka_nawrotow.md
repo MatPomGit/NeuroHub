@@ -33,9 +33,7 @@ Traktuj pogorszenie jako komunikat o potrzebie wsparcia; uruchamiaj wcześniej u
 Dowody dla protokołów zapobiegania nawrotom są **umiarkowane do silnych**.
 
 
-Utrzymanie efektów wymaga planu długoterminowego, nie jednorazowej interwencji.
-
-## Bibliografia
+Utrzymanie efektów wymaga planu długoterminowego, nie jednorazowej interwencji.## Bibliografia
 - Kazdin, A. E. (2021). *Research Design in Clinical Psychology* (5th ed.). Cambridge University Press.
 - NICE. (2022). *Guidelines and Quality Standards* (wybrane dokumenty dotyczące zdrowia psychicznego i interwencji psychospołecznych).
 - WHO. (2021). *Guidance on community mental health services*. World Health Organization.

@@ -97,9 +97,7 @@ Plan na 12 miesięcy:
 
 
 
-Kariera po psychologii nie jest pojedynczą decyzją, lecz sekwencją dobrze zaplanowanych kroków. Najbardziej efektywny model to: **wczesna eksploracja → ukierunkowana praktyka → superwizja i feedback → specjalizacja**.
-
-## Bibliografia
+Kariera po psychologii nie jest pojedynczą decyzją, lecz sekwencją dobrze zaplanowanych kroków. Najbardziej efektywny model to: **wczesna eksploracja → ukierunkowana praktyka → superwizja i feedback → specjalizacja**.## Bibliografia
 
 1. Brown, D. (2016). *Career Information, Career Counseling, and Career Development* (11th ed.). Pearson.  
 2. Lent, R. W., & Brown, S. D. (2013). Social cognitive model of career self-management. *Journal of Counseling Psychology, 60*(4), 557–568.  
@@ -109,4 +107,16 @@ Kariera po psychologii nie jest pojedynczą decyzją, lecz sekwencją dobrze zap
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Ścieżki kariery po psychologii - przewodnik praktyczny" polega na tym, że skuteczne przygotowanie zawodowe nie polega wyłącznie na zdobyciu wiedzy deklaratywnej, ale na uczeniu się podejmowania decyzji w realnym kontekście pracy.
+
+Dopiero wspólna analiza zagadnień takich jak główne segmenty rynku pracy, r&d i nauka oraz typowe błędy na starcie pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
+
+Temat "Ścieżki kariery po psychologii - przewodnik praktyczny" pokazuje, że największą wartość daje przekładanie wiedzy akademickiej na konkretne kompetencje, standardy i nawyki profesjonalne.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak główne segmenty rynku pracy, r&d i nauka oraz typowe błędy na starcie pokazuje pełny zakres omawianego zjawiska.

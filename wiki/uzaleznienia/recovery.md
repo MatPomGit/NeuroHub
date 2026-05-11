@@ -152,9 +152,7 @@ Plan działania na rzecz dobrostanu i zdrowienia - narzędzie self-management, w
 
 Recovery jest możliwe - dla większości osób z uzależnieniem, z lub bez formalnego leczenia. Jest procesem nieliniowym, indywidualnym i wielowymiarowym. Nowoczesne podejście do uzależnień przenosi punkt ciężkości z leczenia choroby na wspieranie procesu budowania pełnego życia. Wiedza o etapach zmiany, czynnikach resilience i wymiarach zdrowia jest niezbędnym narzędziem każdego, kto pracuje z osobami uzależnionymi.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Kelly, J. F., Bergman, B., Hoeppner, B., Vilsaint, C., & White, W. (2017). Prevalence and pathways of recovery from drug and alcohol problems in the United States population. *Drug and Alcohol Dependence, 181*, 162–169.
 - Prochaska, J. O., & DiClemente, C. C. (1984). *The Transtheoretical Approach: Crossing Traditional Boundaries of Therapy*. Dow Jones-Irwin.
@@ -162,8 +160,6 @@ Recovery jest możliwe - dla większości osób z uzależnieniem, z lub bez form
 - White, W. L. (2007). Addiction recovery: Its definition and conceptual boundaries. *Journal of Substance Abuse Treatment, 33*(3), 229–241.
 - Tedeschi, R. G., & Calhoun, L. G. (2004). Posttraumatic growth: Conceptual foundations and empirical evidence. *Psychological Inquiry, 15*(1), 1–18.
 - Snyder, C. R. (2002). Hope theory: Rainbows in the mind. *Psychological Inquiry, 13*(4), 249–275.
-
-
 
 
 

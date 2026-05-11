@@ -49,9 +49,7 @@ To przesuwa paradygmat z „emocje przeszkadzają myśleniu” na „emocje kali
 
 
 
-Elliot pozostaje jednym z najbardziej wpływowych przypadków neuropsychologii decyzji. Jego historia wskazuje, że integralność vmPFC/OFC jest krytyczna dla łączenia wiedzy z działaniem, a diagnoza kliniczna musi obejmować realne funkcjonowanie społeczne, nie tylko wyniki testowe.
-
-## Bibliografia
+Elliot pozostaje jednym z najbardziej wpływowych przypadków neuropsychologii decyzji. Jego historia wskazuje, że integralność vmPFC/OFC jest krytyczna dla łączenia wiedzy z działaniem, a diagnoza kliniczna musi obejmować realne funkcjonowanie społeczne, nie tylko wyniki testowe.## Bibliografia
 
 1. Damasio, A. R. (1994). *Descartes’ Error: Emotion, Reason, and the Human Brain*. Putnam.
 2. Bechara, A., Damasio, H., Damasio, A. R., & Anderson, S. W. (1994). Insensitivity to future consequences following damage to human prefrontal cortex. *Cognition*, 50(1–3), 7–15.

@@ -112,9 +112,7 @@ Hipoteza katharsis (odreagowanie agresji przez aktywność agresywną redukuje n
 
 Agresja jest zjawiskiem wielodeterminowanym: biologiczne predyspozycje (testosteron, MAOA, ciało migdałowate) współdziałają z mechanizmami uczenia się (modelowanie Bandury), procesami poznawczymi (atrybucja wrogości) i czynnikami sytuacyjnymi (frustracja, wskazówki agresywne). Skuteczna redukcja agresji wymaga podejścia wielowymiarowego - od interwencji biologicznych i CBT po zmiany strukturalne ograniczające frustrację i przemoc medialną.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Anderson, C. A., & Bushman, B. J. (2002). Human aggression. *Annual Review of Psychology, 53*, 27–51.
 - Bandura, A., Ross, D., & Ross, S. A. (1961). Transmission of aggression through imitation of aggressive models. *Journal of Abnormal and Social Psychology, 63*(3), 575–582.
@@ -126,9 +124,19 @@ Agresja jest zjawiskiem wielodeterminowanym: biologiczne predyspozycje (testoste
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Agresja" polega na tym, że wiele zjawisk społecznych wydaje się cechą jednostki, choć w rzeczywistości jest produktem norm, sytuacji i architektury relacji.
+
+Dopiero wspólna analiza zagadnień takich jak definicja i rodzaje agresji, społeczno-kognitywna teoria uczenia się - bandura oraz zarządzanie gniewem i redukcja agresji pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Agresja" pokazuje, że najważniejsze jest analizowanie jednocześnie procesów indywidualnych i warunków społecznych, które wzmacniają określone zachowania lub przekonania.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak definicja i rodzaje agresji, społeczno-kognitywna teoria uczenia się - bandura oraz zarządzanie gniewem i redukcja agresji pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

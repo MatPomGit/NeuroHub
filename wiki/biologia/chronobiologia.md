@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -89,10 +89,19 @@ Sen i zdrowie psychiczne są głęboko sprzężone:
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Chronobiologia i sen" polega na tym, że mechanizmy biologiczne rzadko działają w izolacji; ich znaczenie ujawnia się dopiero w powiązaniu z rozwojem, środowiskiem i zachowaniem.
+
+Dopiero wspólna analiza zagadnień takich jak zegary biologiczne - rytmy dobowe, funkcje snu oraz sen a zdrowie psychiczne pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
+Temat "Chronobiologia i sen" pokazuje, że kluczowe pozostaje łączenie poziomu biologicznego z funkcjonalnym, aby uniknąć uproszczenia złożonych zjawisk psychicznych do jednej przyczyny.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak zegary biologiczne - rytmy dobowe, funkcje snu oraz sen a zdrowie psychiczne pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

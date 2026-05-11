@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -38,10 +38,19 @@ Rozumienie różnic indywidualnych ma szerokie zastosowania: w dobrowolnym dorad
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Psychologia różnic indywidualnych - wprowadzenie" polega na tym, że różnice indywidualne mają znaczenie praktyczne dopiero wtedy, gdy opisuje się ich konsekwencje dla uczenia się, relacji i środowiska działania, a nie tylko sam wynik pomiaru.
+
+Dopiero wspólna analiza zagadnień takich jak dlaczego ludzie się różnią?, zdolności specjalne oraz zastosowania pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
+Temat "Psychologia różnic indywidualnych - wprowadzenie" pokazuje, że najważniejsze jest ujmowanie zmienności psychologicznej jako źródła zarówno ryzyka, jak i potencjalnych zasobów.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak dlaczego ludzie się różnią?, zdolności specjalne oraz zastosowania pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

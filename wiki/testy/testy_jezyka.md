@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -78,10 +78,19 @@ Baterie diagnostyczne (np. Philadelphia Naming Test, Peabody Picture Vocabulary 
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Testy językowe w neuropsychologii" polega na tym, że wynik testu ma wartość tylko wtedy, gdy jest interpretowany w kontekście celu badania, ograniczeń narzędzia i pozostałych danych o osobie badanej.
+
+Dopiero wspólna analiza zagadnień takich jak komponenty języka i ich ocena, testy czytania i pisania oraz diagnostyka afazji pierwotnej postępującej (ppa) pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
+Temat "Testy językowe w neuropsychologii" pokazuje, że najważniejsze pozostaje odróżnianie pomiaru od decyzji diagnostycznej oraz łączenie danych testowych z obserwacją i wywiadem.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak komponenty języka i ich ocena, testy czytania i pisania oraz diagnostyka afazji pierwotnej postępującej (ppa) pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

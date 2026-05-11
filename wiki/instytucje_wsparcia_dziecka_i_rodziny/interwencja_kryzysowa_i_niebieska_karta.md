@@ -33,9 +33,7 @@ W razie przemocy dokumentuj zdarzenia i korzystaj z formalnych procedur ochronny
 Dowody dla wieloagencyjnej interwencji kryzysowej są **umiarkowane**; dla działań doraźnych bez follow-up - **wstępne**.
 
 
-W kryzysie pierwsza decyzja dotyczy bezpieczeństwa, dopiero potem terapii.
-
-## Bibliografia
+W kryzysie pierwsza decyzja dotyczy bezpieczeństwa, dopiero potem terapii.## Bibliografia
 - Kazdin, A. E. (2021). *Research Design in Clinical Psychology* (5th ed.). Cambridge University Press.
 - NICE. (2022). *Guidelines and Quality Standards* (wybrane dokumenty dotyczące zdrowia psychicznego i interwencji psychospołecznych).
 - WHO. (2021). *Guidance on community mental health services*. World Health Organization.

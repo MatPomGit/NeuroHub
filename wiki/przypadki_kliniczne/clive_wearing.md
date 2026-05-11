@@ -49,9 +49,7 @@ To argument za modelem „tożsamości rozproszonej”, współtworzonej przez m
 
 
 
-Clive Wearing pozostaje jednym z najmocniejszych dowodów na wielosystemową naturę pamięci. Jego historia łączy neurobiologię (uszkodzenia hipokampa), psychologię poznawczą (dysocjacja pamięci) i praktykę kliniczną (opieka oparta na strukturze środowiska i zachowanych umiejętnościach proceduralnych).
-
-## Bibliografia
+Clive Wearing pozostaje jednym z najmocniejszych dowodów na wielosystemową naturę pamięci. Jego historia łączy neurobiologię (uszkodzenia hipokampa), psychologię poznawczą (dysocjacja pamięci) i praktykę kliniczną (opieka oparta na strukturze środowiska i zachowanych umiejętnościach proceduralnych).## Bibliografia
 
 1. Wilson, B. A., Baddeley, A. D., & Kapur, N. (1995). Dense amnesia in a professional musician following herpes simplex virus encephalitis. *Journal of Clinical and Experimental Neuropsychology*, 17(5), 668–681.
 2. Baddeley, A., & Wilson, B. A. (2002). Prose recall and amnesia: Implications for the structure of working memory. *Neuropsychologia*, 40(10), 1737–1743.

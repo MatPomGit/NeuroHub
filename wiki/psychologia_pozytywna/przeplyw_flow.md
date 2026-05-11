@@ -70,9 +70,19 @@ Teoria przepływu Csikszentmihalyiego dostarcza jednego z najbardziej przekonuj�
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Przepływ (flow) - teoria Csikszentmihalyiego" polega na tym, że dobrostan nie rośnie liniowo wraz z liczbą pozytywnych doświadczeń, lecz zależy od sposobu integrowania zasobów z codziennym funkcjonowaniem i relacjami.
+
+Dopiero wspólna analiza zagadnień takich jak czym jest przepływ?, autotelichność i motywacja wewnętrzna oraz jak kultywować przepływ? pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Przepływ (flow) - teoria Csikszentmihalyiego" pokazuje, że największą wartość ma traktowanie zasobów psychicznych jako praktyk podtrzymujących sens, relacyjność i samoregulację, a nie jako zestawu haseł motywacyjnych.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak czym jest przepływ?, autotelichność i motywacja wewnętrzna oraz jak kultywować przepływ? pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

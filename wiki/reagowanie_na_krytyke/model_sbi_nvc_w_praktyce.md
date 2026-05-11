@@ -79,9 +79,7 @@ W praktyce najwięcej zmienia regularność małych kroków: krótkiej pauzy, do
 
 - SBI i NVC najlepiej działają łącznie: precyzja + relacyjność.
 - Modele nie zastąpią intencji współpracy, ale znacząco zwiększają jej szanse.
-- W środowiskach z nierównowagą władzy techniki komunikacyjne powinny być wsparte rozwiązaniami systemowymi.
-
-## Bibliografia
+- W środowiskach z nierównowagą władzy techniki komunikacyjne powinny być wsparte rozwiązaniami systemowymi.## Bibliografia
 - Gross, J. J. (2014). Emotion regulation: Conceptual and empirical foundations. In *Handbook of Emotion Regulation* (2nd ed.). Guilford Press.
 
 - Gallo, A. (2017). *HBR Guide to Dealing with Conflict*. Harvard Business Review Press.

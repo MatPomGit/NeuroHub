@@ -274,9 +274,7 @@ Hayes i współpracownicy zwracają uwagę, że:
 
 
 
-Heksafleks ACT jest jednym z najbardziej teoretycznie spójnych i empirycznie zbadanych modeli psychopatologii i terapii w ramach trzeciej fali terapii behawioralnych. Integruje six wzajemnie powiązanych procesów - akceptację, defuzję, kontakt z chwilą obecną, Obserwujące Ja, klaryfikację wartości i zaangażowane działanie - w unified model elastyczności psychologicznej. Jego siłą jest zarówno precyzja teoretyczna (zakorzeniona w RFT), jak i bogata toolbox technik klinicznych, dostępnych dla terapeutów z różnych orientacji. Baza empiryczna, choć rozwijana, wskazuje na skuteczność ACT w szerokim spektrum zaburzeń, ze szczególną mocą w bólu przewlekłym, depresji i zaburzeniach lękowych.
-
-## Bibliografia kluczowa
+Heksafleks ACT jest jednym z najbardziej teoretycznie spójnych i empirycznie zbadanych modeli psychopatologii i terapii w ramach trzeciej fali terapii behawioralnych. Integruje six wzajemnie powiązanych procesów - akceptację, defuzję, kontakt z chwilą obecną, Obserwujące Ja, klaryfikację wartości i zaangażowane działanie - w unified model elastyczności psychologicznej. Jego siłą jest zarówno precyzja teoretyczna (zakorzeniona w RFT), jak i bogata toolbox technik klinicznych, dostępnych dla terapeutów z różnych orientacji. Baza empiryczna, choć rozwijana, wskazuje na skuteczność ACT w szerokim spektrum zaburzeń, ze szczególną mocą w bólu przewlekłym, depresji i zaburzeniach lękowych.## Bibliografia kluczowa
 
 - Hayes, S. C., Strosahl, K. D., & Wilson, K. G. (1999). *Acceptance and Commitment Therapy: An Experiential Approach to Behavior Change*. Guilford Press.
 - Hayes, S. C., Luoma, J. B., Bond, F. W., Masuda, A., & Lillis, J. (2006). Acceptance and commitment therapy: Model, processes and outcomes. *Behaviour Research and Therapy, 44*(1), 1–25.
@@ -291,9 +289,19 @@ Heksafleks ACT jest jednym z najbardziej teoretycznie spójnych i empirycznie zb
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Heksafleks ACT - model elastyczności psychologicznej" polega na tym, że skuteczność psychoterapii zależy nie tylko od nazwy nurtu, ale od jakości konceptualizacji, przymierza, dawkowania interwencji i dopasowania do pacjenta.
+
+Dopiero wspólna analiza zagadnień takich jak geneza i podstawy teoretyczne, podstawy empiryczne - przegląd badań oraz bibliografia kluczowa pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Heksafleks ACT - model elastyczności psychologicznej" pokazuje, że najbardziej praktyczne wnioski wynikają z łączenia modelu teoretycznego z uważnością na proces zmiany, relację i ograniczenia danej metody.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak geneza i podstawy teoretyczne, podstawy empiryczne - przegląd badań oraz bibliografia kluczowa pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

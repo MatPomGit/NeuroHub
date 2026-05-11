@@ -116,9 +116,7 @@ Badania wskazują na kluczowe zachowania środowiskowe promujące rozwój język
 
 Akwizycja języka jest procesem wyłaniającym się na styku biologii i kultury. Wrodzone predyspozycje lingwistyczne muszą zostać uruchomione przez responsywne środowisko społeczne. Zrozumienie mechanizmów tego procesu ma fundamentalne znaczenie dla wczesnej interwencji, logopedii, edukacji i terapii zaburzeń komunikacyjnych.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Bruner, J. (1983). *Child's Talk: Learning to Use Language*. Norton.
 - Chomsky, N. (1959). Review of B.F. Skinner's Verbal Behavior. *Language*, 35(1), 26–58.
@@ -129,9 +127,19 @@ Akwizycja języka jest procesem wyłaniającym się na styku biologii i kultury.
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Rozwój języka i komunikacji" polega na tym, że rozwój nie jest prostą sekwencją etapów, lecz dynamiczną relacją między dojrzewaniem biologicznym, środowiskiem i doświadczeniem uczenia się.
+
+Dopiero wspólna analiza zagadnień takich jak teorie akwizycji języka, dwujęzyczność i wielojęzyczność oraz implikacje praktyczne - wspieranie rozwoju językowego pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Rozwój języka i komunikacji" pokazuje, że najbardziej trafne podsumowanie wymaga łączenia perspektywy etapowej z analizą różnic indywidualnych, kontekstu i plastyczności.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak teorie akwizycji języka, dwujęzyczność i wielojęzyczność oraz implikacje praktyczne - wspieranie rozwoju językowego pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

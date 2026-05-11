@@ -60,9 +60,19 @@ Dzisiaj kluczowa jest równowaga między rzetelnym pomiarem a rozumieniem indywi
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Historia neuropsychologii" polega na tym, że podstawowe pojęcia psychologii nabierają wartości dopiero wtedy, gdy pokazuje się ich ograniczenia, zakres stosowania i relacje z metodą badania.
+
+Dopiero wspólna analiza zagadnień takich jak xix wiek: narodziny lokalizacjonizmu, rewolucja neuroobrazowania oraz najnowsze trendy (xxi wiek) pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Historia neuropsychologii" pokazuje, że najważniejsze jest traktowanie psychologii jako nauki o złożonych zależnościach, a nie zbioru prostych definicji.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak xix wiek: narodziny lokalizacjonizmu, rewolucja neuroobrazowania oraz najnowsze trendy (xxi wiek) pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

@@ -55,9 +55,7 @@ Triangulacja jest powszechnie postrzegana jako zjawisko dysfunkcyjne i szkodliwe
 
 
 
-Triangulacja i koalicje są jednymi z najbardziej fundamentalnych i dobrze zbadanych wzorców w terapii systemowej. Zrozumienie, jak trójkąty formują się, stabilizują i transmitują między pokoleniami, pozwala terapeucie precyzyjnie diagnozować i interweniować w złożone systemy rodzinne. Detrianglowanie - wycofywanie się z angażowania emocjonalnego konfliktu innych - jest jedną z kluczowych umiejętności zarówno terapeutów, jak i każdego, kto chce rozwijać dojrzałe relacje.
-
-## Bibliografia
+Triangulacja i koalicje są jednymi z najbardziej fundamentalnych i dobrze zbadanych wzorców w terapii systemowej. Zrozumienie, jak trójkąty formują się, stabilizują i transmitują między pokoleniami, pozwala terapeucie precyzyjnie diagnozować i interweniować w złożone systemy rodzinne. Detrianglowanie - wycofywanie się z angażowania emocjonalnego konfliktu innych - jest jedną z kluczowych umiejętności zarówno terapeutów, jak i każdego, kto chce rozwijać dojrzałe relacje.## Bibliografia
 
 1. Bowen, M. (1978). *Family Therapy in Clinical Practice*. Jason Aronson.
 2. Kerr, M. E., & Bowen, M. (1988). *Family Evaluation*. Norton.

@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -36,10 +36,19 @@ Samoopisy dają informację o percepcji temperamentu; obserwacje - o jego przeja
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Pomiar temperamentu" polega na tym, że temperament nie przesądza o losie jednostki, lecz wpływa na sposób reagowania, uczenia się i dopasowania do wymagań środowiska.
+
+Dopiero wspólna analiza zagadnień takich jak metody pomiaru, dots i dots-r (dimensions of temperament survey) oraz porównanie metod pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
+Temat "Pomiar temperamentu" pokazuje, że najbardziej wartościowe jest ujmowanie temperamentu w relacji do rozwoju, stresu i strategii regulacyjnych, a nie jako sztywnej etykiety.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak metody pomiaru, dots i dots-r (dimensions of temperament survey) oraz porównanie metod pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

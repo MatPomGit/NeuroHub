@@ -46,9 +46,7 @@ Niekiedy uważa się, że rygor jakości danych jest potrzebny tylko w dużych p
 
 - DMP jest dokumentem metodologicznym, nie administracyjnym.
 - Automatyzacja i wersjonowanie powinny zastąpić ręczne operacje.
-- Audytowalność danych jest warunkiem rzetelnego wnioskowania.
-
-## Bibliografia
+- Audytowalność danych jest warunkiem rzetelnego wnioskowania.## Bibliografia
 1. Borer, E. T., et al. (2009). Some simple guidelines for effective data management. *Bulletin of the Ecological Society of America, 90*(2), 205–214.
 2. European Commission. (2016). *Guidelines on FAIR Data Management in Horizon 2020*.
 3. Michener, W. K. (2015). Ecological data sharing. *Ecological Informatics, 29*, 33–44.

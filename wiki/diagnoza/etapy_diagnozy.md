@@ -99,9 +99,7 @@ Diagnoza bywa postrzegana jako „etykietowanie”. Tymczasem w podejściu funkc
 
 Naukowo prowadzona diagnoza psychologiczna wymaga: jasnego pytania, hipotez alternatywnych, wieloźródłowych danych, integracji i odpowiedzialnej informacji zwrotnej. Jej celem nie jest „nazwa problemu”, lecz klinicznie użyteczne zrozumienie mechanizmów.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 1. Stemplewska-Żakowicz, K. (2009). *Diagnoza psychologiczna. Diagnozowanie jako kompetencja profesjonalna*. GWP.
 2. Hunsley, J., & Mash, E. J. (2007). Evidence-based assessment. *Annual Review of Clinical Psychology, 3*, 29–51.

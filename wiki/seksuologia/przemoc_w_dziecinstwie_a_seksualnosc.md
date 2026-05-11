@@ -109,17 +109,13 @@ Celem nie jest dostosowanie osoby do normy, lecz odzyskanie podmiotowości i mo�
 
 Przemoc w dzieciństwie może znacząco wpływać na seksualność osoby dorosłej przez mechanizmy neurobiologiczne, emocjonalne i relacyjne. To, co bywa odczytywane jako „problem seksualny”, często jest przejawem adaptacji do dawnego zagrożenia. Przy odpowiednim wsparciu możliwa jest realna poprawa jakości życia intymnego i relacyjnego.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Felitti, V. J., Anda, R. F., Nordenberg, D., et al. (1998). Relationship of childhood abuse and household dysfunction to many leading causes of death in adults.
 - Briere, J., & Scott, C. (2015). *Principles of Trauma Therapy* (2nd ed.).
 - van der Kolk, B. A. (2014). *The Body Keeps the Score*.
 - Courtois, C. A., & Ford, J. D. (2013). *Treating Complex Traumatic Stress Disorders in Adults*.
 - World Health Organization (2021). *Violence against children* - health consequences and prevention.
-
-
 
 
 

@@ -45,9 +45,7 @@ W debacie metodologicznej deception bywa oceniane wyłącznie negatywnie. Altern
 
 - Etyka i metodologia nie konkurują ze sobą, lecz wzajemnie się wzmacniają.
 - Świadoma zgoda musi być procesem komunikacyjnym, nie jednorazowym podpisem.
-- Najwyższy standard obejmuje jednocześnie ochronę uczestnika i transparentność danych.
-
-## Bibliografia
+- Najwyższy standard obejmuje jednocześnie ochronę uczestnika i transparentność danych.## Bibliografia
 
 1. American Psychological Association. (2017). *Ethical Principles of Psychologists and Code of Conduct*.
 2. Beauchamp, T. L., & Childress, J. F. (2019). *Principles of Biomedical Ethics* (8th ed.). Oxford University Press.

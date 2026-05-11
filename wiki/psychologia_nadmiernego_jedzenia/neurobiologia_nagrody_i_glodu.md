@@ -33,9 +33,7 @@ Wprowadzaj przewidywalność: stałe pory snu, zaplanowane zakupy i ograniczenie
 Dowody neurobiologiczne dla roli snu i stresu są **silne**; skuteczność interwencji opartych wyłącznie na psychoedukacji neurobiologicznej jest **umiarkowana**.
 
 
-Skuteczna praca wymaga połączenia wiedzy o neurobiologii z codzienną organizacją środowiska.
-
-## Bibliografia
+Skuteczna praca wymaga połączenia wiedzy o neurobiologii z codzienną organizacją środowiska.## Bibliografia
 - Kazdin, A. E. (2021). *Research Design in Clinical Psychology* (5th ed.). Cambridge University Press.
 - NICE. (2022). *Guidelines and Quality Standards* (wybrane dokumenty dotyczące zdrowia psychicznego i interwencji psychospołecznych).
 - WHO. (2021). *Guidance on community mental health services*. World Health Organization.

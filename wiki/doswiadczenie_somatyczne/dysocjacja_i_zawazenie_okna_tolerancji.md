@@ -57,9 +57,7 @@ To nie znaczy, że dysocjacja jest korzystna sama w sobie. Oznacza jedynie, że 
 
 
 Praca z dysocjacją wymaga cierpliwości, bardzo małych dawek aktywacji i stałego powrotu do zasobów. Poszerzanie okna tolerancji jest procesem, a nie jednorazową techniką.
-W praktyce klinicznej oznacza to tempo wolniejsze, ale zwykle bezpieczniejsze. Daje to pacjentowi możliwość utrzymania kontaktu bez przeciążenia. To właśnie ten warunek decyduje o realnej skuteczności pracy somatycznej.
-
-## Bibliografia
+W praktyce klinicznej oznacza to tempo wolniejsze, ale zwykle bezpieczniejsze. Daje to pacjentowi możliwość utrzymania kontaktu bez przeciążenia. To właśnie ten warunek decyduje o realnej skuteczności pracy somatycznej.## Bibliografia
 
 - Levine, P. A. (2010). In an Unspoken Voice: How the Body Releases Trauma and Restores Goodness. North Atlantic Books.
 - Herman, J. L. (2015). Trauma and Recovery. Basic Books.

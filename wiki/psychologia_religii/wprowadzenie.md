@@ -59,9 +59,7 @@ Religia może działać jak „technologia pamięci zbiorowej”: rytuały, opow
 - Psychologia religii bada funkcję religijności, a nie prawdziwość doktryn.
 - Wpływ religii na zdrowie psychiczne ma charakter warunkowy i zależy od mechanizmów pośredniczących.
 - Kluczowa jest analiza funkcjonalna: kiedy religijność wspiera adaptację, a kiedy zwiększa obciążenie.
-- Najlepszą praktyką badawczą i kliniczną jest unikanie uogólnień i praca na danych kontekstowych.
-
-## Bibliografia
+- Najlepszą praktyką badawczą i kliniczną jest unikanie uogólnień i praca na danych kontekstowych.## Bibliografia
 1. Pew Research Center. (2023). *Spirituality Among Americans*.
 2. Gallup. (2024). *Religion Around the World: Recent Trends*.
 3. Braam, A. W., & Koenig, H. G. (2019). Religion, spirituality and depression in prospective studies. *Journal of Affective Disorders*.

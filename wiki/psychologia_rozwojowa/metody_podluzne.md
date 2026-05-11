@@ -114,9 +114,7 @@ Współczesna psychologia rozwojowa sięga po nowe strategie:
 
 Badania podłużne są złotym standardem psychologii rozwojowej, gdyż jako jedyne pozwalają bezpośrednio obserwować zmianę w czasie i identyfikować wczesne predyktory późniejszych wyników. Ich największe ograniczenia - attrition i efekty retestowania - można minimalizować, ale nie eliminować. Plan sekwencyjny stanowi najsilniejszy metodologicznie kompromis, pozwalający rozdzielić wpływ wieku, kohorty i okresu historycznego. Wyniki wielkich badań podłużnych XX wieku fundamentalnie zmieniły naszą wiedzę o tym, jak wczesne doświadczenia kształtują całe życie.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Caspi, A., Moffitt, T. E., i in. (2003). Influence of life stress on depression. *Science, 301*, 386–389.
 - Elder, G. H. (1998). The life course as developmental theory. *Child Development, 69*(1), 1–12.
@@ -127,9 +125,19 @@ Badania podłużne są złotym standardem psychologii rozwojowej, gdyż jako jed
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Metody badań podłużnych w psychologii rozwojowej" polega na tym, że rozwój nie jest prostą sekwencją etapów, lecz dynamiczną relacją między dojrzewaniem biologicznym, środowiskiem i doświadczeniem uczenia się.
+
+Dopiero wspólna analiza zagadnień takich jak podstawowe plany badawcze, słynne badania podłużne oraz nowe kierunki metodologiczne pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Metody badań podłużnych w psychologii rozwojowej" pokazuje, że najbardziej trafne podsumowanie wymaga łączenia perspektywy etapowej z analizą różnic indywidualnych, kontekstu i plastyczności.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak podstawowe plany badawcze, słynne badania podłużne oraz nowe kierunki metodologiczne pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

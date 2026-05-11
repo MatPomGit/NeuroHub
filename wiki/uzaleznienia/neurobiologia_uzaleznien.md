@@ -143,9 +143,7 @@ Model ten stanowi podstawę dla farmakoterapii:
 
 Neurobiologia uzależnień ujawnia, że nałóg jest głęboko zakorzeniony w obwodach neuronalnych odpowiedzialnych za przeżycie i uczenie się. Substancje psychoaktywne „przejmują" ewolucyjnie stare mechanizmy nagrody, pozostawiając trwałe ślady w strukturze i funkcji mózgu. Ta wiedza nie determinizuje ani nie usprawiedliwia - ale tworzy fundament dla skutecznej, opartej na dowodach terapii.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Koob, G. F., & Volkow, N. D. (2016). Neurobiology of addiction: A neurocircuitry analysis. *The Lancet Psychiatry, 3*(8), 760–773.
 - Nestler, E. J. (2005). Is there a common molecular pathway for addiction? *Nature Neuroscience, 8*(11), 1445–1449.
@@ -153,8 +151,6 @@ Neurobiologia uzależnień ujawnia, że nałóg jest głęboko zakorzeniony w ob
 - Volkow, N. D., Koob, G. F., & McLellan, A. T. (2016). Neurobiologic advances from the brain disease model of addiction. *New England Journal of Medicine, 374*(4), 363–371.
 - Volkow, N. D., Wang, G. J., Fowler, J. S., & Tomasi, D. (2012). Addiction circuitry in the human brain. *Annual Review of Pharmacology and Toxicology, 52*, 321–336.
 - Robinson, T. E., & Berridge, K. C. (1993). The neural basis of drug craving: An incentive-sensitization theory of addiction. *Brain Research Reviews, 18*(3), 247–291.
-
-
 
 
 

@@ -101,9 +101,7 @@ Badania neuroobrazowe (fMRI) wskazują, że przetwarzanie twarzy osób z outgrup
 
 Stereotypy są produktem ubocznym poznawczej kategoryzacji - mechanizmu ewolucyjnie adaptacyjnego, który w kontekście społecznym prowadzi do uprzedzeń i dyskryminacji. Badania Allporta, Tajfela i Greenwalda odsłaniają zarówno automatyczną, jak i kontrolowaną naturę tych procesów. Redukcja uprzedzeń wymaga interwencji na wielu poziomach: indywidualnym, grupowym i instytucjonalnym.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Allport, G. W. (1954). *The Nature of Prejudice*. Addison-Wesley.
 - Greenwald, A. G., McGhee, D. E., & Schwartz, J. L. K. (1998). Measuring individual differences in implicit cognition: The implicit association test. *Journal of Personality and Social Psychology, 74*(6), 1464–1480.
@@ -114,9 +112,19 @@ Stereotypy są produktem ubocznym poznawczej kategoryzacji - mechanizmu ewolucyj
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Stereotypy i uprzedzenia" polega na tym, że wiele zjawisk społecznych wydaje się cechą jednostki, choć w rzeczywistości jest produktem norm, sytuacji i architektury relacji.
+
+Dopiero wspólna analiza zagadnień takich jak definicje i wzajemne relacje, badania nad stereotypami i uprzedzeniami oraz strategie redukcji stereotypów i uprzedzeń pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Stereotypy i uprzedzenia" pokazuje, że najważniejsze jest analizowanie jednocześnie procesów indywidualnych i warunków społecznych, które wzmacniają określone zachowania lub przekonania.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak definicje i wzajemne relacje, badania nad stereotypami i uprzedzeniami oraz strategie redukcji stereotypów i uprzedzeń pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

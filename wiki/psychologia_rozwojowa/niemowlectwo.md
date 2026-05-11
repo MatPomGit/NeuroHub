@@ -101,9 +101,7 @@ Przykłady krytycznych okien w niemowlęctwie:
 
 Niemowlęctwo i wczesne dzieciństwo są fundamentem całego późniejszego rozwoju - biologicznego, poznawczego i emocjonalnego. Badania ostatnich dekad radykalnie zrewidowały obraz niemowlęcia jako biernego odbiorcy: już od urodzenia dziecko aktywnie konstruuje wiedzę o świecie, wchodzi w złożone relacje społeczne i kształtuje pierwsze reprezentacje siebie i innych. Jakość wczesnych doświadczeń - przede wszystkim wrażliwość opiekuna i bezpieczeństwo przywiązania - pozostawia ślad w strukturach neurobiologicznych i wzorcach zachowania na całe życie.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Baillargeon, R. (1986). Representing the existence and the location of hidden objects. *Cognition, 23*(1), 21–41.
 - Bowlby, J. (1969). *Attachment and Loss: Vol. 1*. Basic Books.
@@ -115,9 +113,19 @@ Niemowlęctwo i wczesne dzieciństwo są fundamentem całego późniejszego rozw
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Niemowlęctwo i wczesne dzieciństwo" polega na tym, że rozwój nie jest prostą sekwencją etapów, lecz dynamiczną relacją między dojrzewaniem biologicznym, środowiskiem i doświadczeniem uczenia się.
+
+Dopiero wspólna analiza zagadnień takich jak rozwój prenatalny, nabywanie języka - kamienie milowe oraz okresy krytyczne i wrażliwe pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Niemowlęctwo i wczesne dzieciństwo" pokazuje, że najbardziej trafne podsumowanie wymaga łączenia perspektywy etapowej z analizą różnic indywidualnych, kontekstu i plastyczności.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak rozwój prenatalny, nabywanie języka - kamienie milowe oraz okresy krytyczne i wrażliwe pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

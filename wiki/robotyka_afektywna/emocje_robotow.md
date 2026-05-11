@@ -76,9 +76,19 @@ Projektowanie i rozpoznawanie emocji w robotach to jedno z najbardziej dynamiczn
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Emocje w robotach - projektowanie i rozpoznawanie" polega na tym, że najciekawsze pytania o robotykę afektywną dotyczą nie tylko tego, czy maszyna rozpoznaje emocje, ale jak ludzie nadają temu rozpoznaniu znaczenie i zaufanie.
+
+Dopiero wspólna analiza zagadnień takich jak czym są emocje w kontekście robotyki?, systemy rozpoznawania emocji oraz wyzwania i kontrowersje pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Emocje w robotach - projektowanie i rozpoznawanie" pokazuje, że największą wartość ma łączenie perspektywy technicznej z analizą relacji człowiek-maszyna, norm społecznych i odpowiedzialności projektowej.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak czym są emocje w kontekście robotyki?, systemy rozpoznawania emocji oraz wyzwania i kontrowersje pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

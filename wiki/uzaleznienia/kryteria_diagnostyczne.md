@@ -104,9 +104,7 @@ Wybór systemu diagnostycznego ma realne konsekwencje dla praktyki:
 
 Oba systemy klasyfikacyjne ujmują uzależnienie jako wielowymiarowy, przewlekły stan charakteryzujący się osłabioną kontrolą, kontynuowaniem używania mimo szkód oraz biologicznymi i psychologicznymi zmianami adaptacyjnymi. DSM-5-TR oferuje precyzyjny, operacyjny wymiar nasilenia, podczas gdy ICD-11 wyróżnia się kontinuum od używania ryzykownego po pełne uzależnienie - co ma szczególną wartość dla działań profilaktycznych i zdrowia publicznego.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - American Psychiatric Association. (2022). *Diagnostic and Statistical Manual of Mental Disorders* (5th ed., text rev.). APA Publishing.
 - Ferguson, C. J. (2017). Everything in moderation: Moderate use of screens unassociated with child behavior problems. *Psychiatric Quarterly, 88*(4), 797–805.
@@ -114,8 +112,6 @@ Oba systemy klasyfikacyjne ujmują uzależnienie jako wielowymiarowy, przewlekł
 - Kellog, S., & White, W. (2014). Linguistic and conceptual evolution in addiction treatment. *Alcoholism Treatment Quarterly, 32*(4), 370–384.
 - World Health Organization. (2019). *International Classification of Diseases* (11th rev.). WHO.
 - Volkow, N. D., Koob, G. F., & McLellan, A. T. (2016). Neurobiologic advances from the brain disease model of addiction. *New England Journal of Medicine, 374*(4), 363–371.
-
-
 
 
 

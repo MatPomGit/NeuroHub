@@ -83,9 +83,19 @@ Czytanie książek jest jedną z niewielu aktywności, która jednocześnie tren
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Czytanie książek a funkcje psychiczne" polega na tym, że wpływ środowiska cyfrowego i naturalnego nie jest prostym bilansem szkód i korzyści, lecz zależy od wzorca używania, czasu ekspozycji i funkcji, jaką pełni dane doświadczenie.
+
+Dopiero wspólna analiza zagadnień takich jak czytanie - najnowsza umiejętność mózgu, redukcja stresu - bibliotherapy oraz czytanie a starzenie się i demencja pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Czytanie książek a funkcje psychiczne" pokazuje, że najbardziej wartościowe wnioski pojawiają się wtedy, gdy analizuje się wspólnie uwagę, emocje, regenerację i długofalowe nawyki poznawcze.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak czytanie - najnowsza umiejętność mózgu, redukcja stresu - bibliotherapy oraz czytanie a starzenie się i demencja pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

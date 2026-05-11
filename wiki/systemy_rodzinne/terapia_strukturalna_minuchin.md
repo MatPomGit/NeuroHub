@@ -56,9 +56,7 @@ Terapia strukturalna jest często postrzegana jako dyrektywna, a nawet konfronta
 
 
 
-Terapia strukturalna Minuchina oferuje spójny, diagnostycznie precyzyjny model rozumienia rodziny przez jej wewnętrzną organizację. Kluczowe pojęcia - granice, podsystemy, hierarchia, uwikłanie i odcięcie - tworzą mapę kliniczną, którą terapeuta może natychmiast zastosować do obserwacji sesyjnych. Interwencje restrukturyzacyjne (enactment, przepisywanie, koalicje tymczasowe) przekształcają terapię z rozmowy o problemie w żywą laboratoryjną pracę ze strukturą systemu.
-
-## Bibliografia
+Terapia strukturalna Minuchina oferuje spójny, diagnostycznie precyzyjny model rozumienia rodziny przez jej wewnętrzną organizację. Kluczowe pojęcia - granice, podsystemy, hierarchia, uwikłanie i odcięcie - tworzą mapę kliniczną, którą terapeuta może natychmiast zastosować do obserwacji sesyjnych. Interwencje restrukturyzacyjne (enactment, przepisywanie, koalicje tymczasowe) przekształcają terapię z rozmowy o problemie w żywą laboratoryjną pracę ze strukturą systemu.## Bibliografia
 
 1. Minuchin, S. (1974). *Families and Family Therapy*. Harvard University Press.
 2. Minuchin, S., & Fishman, H. C. (1981). *Family Therapy Techniques*. Harvard University Press.

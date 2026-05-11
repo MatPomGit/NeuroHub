@@ -137,9 +137,7 @@ Brak zatwierdzonych farmakoterapii; badane: naltrekson (redukcja głodu), SSRI (
 
 Uzależnienie od internetu i nowych technologii jest realnym zjawiskiem klinicznym, choć jego granice diagnostyczne są wciąż precyzowane. Rosnąca część populacji - szczególnie młodej - doświadcza znaczących problemów związanych z kontrolą korzystania z cyfrowych urządzeń. Odpowiedź wymaga podejścia wielopoziomowego: terapeutycznego, edukacyjnego i regulacyjnego.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Andreassen, C. S., Pallesen, S., & Griffiths, M. D. (2017). The relationship between addictive use of social media, narcissism, and self-esteem. *Addictive Behaviors, 64*, 287–293.
 - Przybylski, A. K., Murayama, K., DeHaan, C. R., & Gladwell, V. (2013). Motivational, emotional, and behavioral correlates of fear of missing out. *Computers in Human Behavior, 29*(4), 1841–1848.
@@ -147,8 +145,6 @@ Uzależnienie od internetu i nowych technologii jest realnym zjawiskiem kliniczn
 - World Health Organization. (2019). *International Classification of Diseases* (11th rev.). WHO.
 - Young, K. S. (1998). Internet addiction: The emergence of a new clinical disorder. *CyberPsychology & Behavior, 1*(3), 237–244.
 - Harris, T. (2017). *How Technology Hijacks People's Minds - From a Magician and Google's Design Ethicist*. https://medium.com/thrive-global/how-technology-hijacks-peoples-minds.
-
-
 
 
 

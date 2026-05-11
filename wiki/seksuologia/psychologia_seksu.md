@@ -104,17 +104,13 @@ Zdrowa seksualność nie oznacza „ciągłej gotowości”, ale zdolność do �
 
 Psychologia seksu pokazuje, że satysfakcja seksualna jest wypadkową biologii, psychiki i relacji. Najtrwalsze zmiany pojawiają się wtedy, gdy obok objawów pracujemy też z emocjami, przekonaniami, stylem przywiązania oraz komunikacją między partnerami.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Basson, R. (2000). The female sexual response: A different model. *Journal of Sex & Marital Therapy, 26*(1), 51–65.
 - Brotto, L. A., & Basson, R. (2014). Group mindfulness-based therapy significantly improves sexual desire in women. *Behavior Research and Therapy, 57*, 43–54.
 - Levine, S. B. (2003). The nature of sexual desire: A clinician's perspective. *Archives of Sexual Behavior, 32*(3), 279–285.
 - Metz, M. E., & McCarthy, B. W. (2007). *Coping with Erectile Dysfunction*. New Harbinger.
 - Schnarch, D. (2009). *Intimacy & Desire*. Beaufort Books.
-
-
 
 
 

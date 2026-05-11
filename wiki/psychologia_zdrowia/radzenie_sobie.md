@@ -82,9 +82,19 @@ Coping to dynamiczny, indywidualny proces, a nie stała cecha osoby. Skuteczne r
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Radzenie sobie ze stresem (coping)" polega na tym, że stan zdrowia i zachowania zdrowotne są wynikiem współdziałania biologii, interpretacji objawów, relacji z otoczeniem i jakości codziennych nawyków.
+
+Dopiero wspólna analiza zagadnień takich jak główne strategie copingu, coping elastyczny oraz przykład pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Radzenie sobie ze stresem (coping)" pokazuje, że największą wartość ma łączenie perspektywy medycznej z psychologicznym rozumieniem motywacji, stresu i adaptacji.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak główne strategie copingu, coping elastyczny oraz przykład pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

@@ -98,17 +98,13 @@ W pracy z DDA warto odejść od pytania „co jest ze mną nie tak?” na rzecz 
 
 Wpływ DDA na seksualność dorosłych najczęściej dotyczy obszaru zaufania, granic, regulacji emocji i wstydu. Trudności te są zrozumiałe w kontekście historii rodzinnej i mogą ulec znaczącej poprawie dzięki terapii, psychoedukacji oraz świadomej pracy relacyjnej.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Cermak, T. L. (1986). Diagnosing and treating co-dependence.
 - Woititz, J. G. (1983). *Adult Children of Alcoholics*.
 - Kelley, M. L., Pearson, M. R., Trinh, S., et al. (2010). Maternal and paternal alcoholism and offspring outcomes.
 - Schindler, A., Thomasius, R., Sack, P.-M., et al. (2007). Insecure family bases and adolescent drug abuse.
 - Anda, R. F., Felitti, V. J., Bremner, J. D., et al. (2006). The enduring effects of abuse and related adverse experiences in childhood. *European Archives of Psychiatry and Clinical Neuroscience, 256*(3), 174–186.
-
-
 
 
 

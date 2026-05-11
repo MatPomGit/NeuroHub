@@ -54,9 +54,7 @@ Oznacza to, że celem nie jest sztuczne podnoszenie nastroju, lecz poprawa jako�
 - Model 3P opisuje trzy osie interpretowania porażek: trwałość, zasięg i personalizację.
 - Pesymistyczny styl wyjaśniania zwiększa ryzyko bezradności i obniżenia motywacji.
 - Adaptacyjna reinterpretacja nie polega na zaprzeczaniu faktom, tylko na precyzyjniejszym przypisywaniu przyczyn.
-- W praktyce klinicznej i edukacyjnej 3P działa najlepiej, gdy łączy się go z działaniem behawioralnym oraz korektą warunków środowiskowych.
-
-## Bibliografia
+- W praktyce klinicznej i edukacyjnej 3P działa najlepiej, gdy łączy się go z działaniem behawioralnym oraz korektą warunków środowiskowych.## Bibliografia
 1. Seligman, M. E. P. (1990). *Learned Optimism*. New York: Knopf.
 2. Peterson, C., & Seligman, M. E. P. (1984). *Causal explanations as a risk factor for depression: Theory and evidence*. Psychological Review, 91(3), 347–374.
 3. Abramson, L. Y., Seligman, M. E. P., & Teasdale, J. D. (1978). Learned helplessness in humans: Critique and reformulation. *Journal of Abnormal Psychology*, 87(1), 49–74.

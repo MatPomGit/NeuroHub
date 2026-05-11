@@ -102,9 +102,7 @@ Alzheimer jest najczęstszą formą demencji (60–70% przypadków) - patologicz
 
 Dorosłość i starzenie się to okresy obfitujące zarówno w straty, jak i w zyski. Psychologia biegu życia uczy nas, że trajektoria życia nie jest prostą linią regresji - zmiany mają charakter wielokierunkowy. Dane empiryczne konsekwentnie podważają pesymistyczny stereotyp starości jako etapu wyłącznej degradacji: emocjonalna mądrość, akceptacja skończoności i pogłębione relacje są autentycznymi osiągnięciami, do których wiele osób dochodzi właśnie w późnym etapie życia.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Arnett, J. J. (2000). Emerging adulthood. *American Psychologist, 55*(5), 469–480.
 - Baltes, P. B., & Baltes, M. M. (1990). Psychological perspectives on successful aging. W: *Successful Human Aging*. Cambridge University Press.
@@ -118,9 +116,19 @@ Dorosłość i starzenie się to okresy obfitujące zarówno w straty, jak i w z
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Dorosłość i starzenie się" polega na tym, że rozwój nie jest prostą sekwencją etapów, lecz dynamiczną relacją między dojrzewaniem biologicznym, środowiskiem i doświadczeniem uczenia się.
+
+Dopiero wspólna analiza zagadnień takich jak eriksonowskie stadia dorosłości, emocje i dobrostan w starości: teoria selektywności społeczno-emocjonalnej oraz demencja vs. normalne starzenie się pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Dorosłość i starzenie się" pokazuje, że najbardziej trafne podsumowanie wymaga łączenia perspektywy etapowej z analizą różnic indywidualnych, kontekstu i plastyczności.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak eriksonowskie stadia dorosłości, emocje i dobrostan w starości: teoria selektywności społeczno-emocjonalnej oraz demencja vs. normalne starzenie się pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

@@ -140,17 +140,13 @@ Rosnące wpływy psychiatrii biologicznej sprzyjają postrzeganiu zaburzeń wył
 
 Diagnoza psychologiczna jest narzędziem - wartość zależy od sposobu użycia. Odpowiedzialne diagnozowanie wymaga świadomości ryzyka etykietowania, orientacji na zasoby i funkcjonowanie, a nie deficyty, oraz aktywnej pracy na rzecz redukcji stygmatyzacji - zarówno w relacji z klientem, jak i w szerszym kontekście społecznym.
 
----
-
-## Bibliografia zalecana
+---## Bibliografia zalecana
 
 - Corrigan, P. W. (2007). *How clinical diagnosis might exacerbate the stigma of mental illness*. Social Work, 52(1), 31–39.
 - Goffman, E. (1963). *Stigma: Notes on the Management of Spoiled Identity*. Prentice-Hall. [wyd. pol. 2005]
 - Yanos, P. T., Roe, D., & Lysaker, P. H. (2010). *The impact of illness identity on recovery from severe mental illness*. American Journal of Psychiatric Rehabilitation, 13(2), 73–93.
 - Szasz, T. (1961). *The Myth of Mental Illness*. Harper & Row.
 - Link, B. G., & Phelan, J. C. (2001). *Conceptualizing stigma*. Annual Review of Sociology, 27, 363–385.
-
-
 
 
 

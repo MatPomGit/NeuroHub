@@ -94,9 +94,7 @@ Hong i in. (2000) wykazali, że **bikulturalne** osoby (Chińczycy urodzeni w Ho
 | Kategoryzacja relacyjna vs. taksonomiczna | różnice między kulturami kolektywistycznymi a indywidualistycznymi |
 | Kategoryzacja barw | zgodna z granicami kategorii językowych danej kultury |
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Masuda, T., & Nisbett, R. E. (2006). Culture and change blindness. *Cognitive Science, 30*(2), 381–399.
 - Nisbett, R. E., Peng, K., Choi, I., & Norenzayan, A. (2001). Culture and systems of thought: Holistic versus analytic cognition. *Psychological Review, 108*(2), 291–310.
@@ -118,8 +116,6 @@ W praktyce rekomenduje się:
 - ostrożność przy przypisywaniu różnic percepcyjnych „deficytom”.
 
 To podejście zmniejsza ryzyko błędów diagnostycznych i zwiększa sprawiedliwość pomiaru.
-
-
 
 
 

@@ -55,9 +55,7 @@ Z perspektywy pacjenta powolność często daje coś jeszcze ważniejszego: doś
 
 
 
-Titracja i pendulacja są filarami bezpiecznej pracy w SE. Ich wartość rośnie, gdy terapeuta łączy je z jasnymi celami terapii, monitorowaniem objawów i regularną oceną postępu funkcjonalnego pacjenta. Bez nich łatwo pomylić intensywność z postępem.
-
-## Bibliografia
+Titracja i pendulacja są filarami bezpiecznej pracy w SE. Ich wartość rośnie, gdy terapeuta łączy je z jasnymi celami terapii, monitorowaniem objawów i regularną oceną postępu funkcjonalnego pacjenta. Bez nich łatwo pomylić intensywność z postępem.## Bibliografia
 
 - Levine, P. A. (2010). In an Unspoken Voice. North Atlantic Books.
 - Ogden, P., Minton, K., & Pain, C. (2006). Trauma and the Body. Norton.

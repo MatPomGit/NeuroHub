@@ -1,4 +1,4 @@
-# Psychofarmakologia kliniczna - pakiet artykułów
+﻿# Psychofarmakologia kliniczna - pakiet artykułów
 
 Poniżej znajduje się zestaw artykułów opracowanych do modułu psychofarmakologii.
 
@@ -41,10 +41,17 @@ Poniżej znajduje się zestaw artykułów opracowanych do modułu psychofarmakol
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "spis tresci" polega na tym, że najbardziej użyteczne rozumienie omawianego zjawiska pojawia się wtedy, gdy łączy się opis mechanizmu z analizą funkcji, kontekstu i skutków praktycznych.
+
+W praktyce najwięcej wyjaśnia spojrzenie łączące mechanizm, kontekst i konsekwencje działania.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
+Temat "spis tresci" pokazuje, że najważniejsze wnioski wynikają z integrowania poziomu teorii, danych empirycznych i konsekwencji dla praktyki.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 ## Bibliografia
 

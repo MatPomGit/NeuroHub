@@ -55,9 +55,7 @@ Terapia narracyjna bywa krytykowana za nadmierny optymizm i pomijanie realnych, 
 
 
 
-Terapia narracyjna wnosi do pracy z rodziną perspektywę konstruktywistyczną: problemy są zakorzenione w historiach, a nie w strukturach lub genach. Zewnętrznienie, re-autorstwo i budowanie tożsamości opartej na wartościach i unikalnych wynikach otwierają nowe możliwości terapeutyczne - szczególnie w przypadkach silnej stygmatyzacji, chronicznego poczucia bezradności lub problemów wbudowanych w kulturowe narracje o normie i patologii.
-
-## Bibliografia
+Terapia narracyjna wnosi do pracy z rodziną perspektywę konstruktywistyczną: problemy są zakorzenione w historiach, a nie w strukturach lub genach. Zewnętrznienie, re-autorstwo i budowanie tożsamości opartej na wartościach i unikalnych wynikach otwierają nowe możliwości terapeutyczne - szczególnie w przypadkach silnej stygmatyzacji, chronicznego poczucia bezradności lub problemów wbudowanych w kulturowe narracje o normie i patologii.## Bibliografia
 
 1. White, M., & Epston, D. (1990). *Narrative Means to Therapeutic Ends*. Norton.
 2. White, M. (2007). *Maps of Narrative Practice*. Norton.

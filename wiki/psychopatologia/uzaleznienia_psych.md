@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -115,10 +115,19 @@ Programy **AA (Anonimowi Alkoholicy)** i **NA (Anonimowi Narkomani)** bazują na
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Uzależnienia – aspekty psychologiczne" polega na tym, że objawy nabierają znaczenia dopiero wtedy, gdy analizuje się je w przebiegu, kontekście funkcjonowania i relacji do mechanizmów podtrzymujących.
+
+Dopiero wspólna analiza zagadnień takich jak czym jest uzależnienie?, etapy uzależnienia oraz leczenie uzależnień pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
+Temat "Uzależnienia – aspekty psychologiczne" pokazuje, że najbardziej użyteczna perspektywa łączy opis symptomów z rozumieniem procesu, różnicowaniem i planowaniem interwencji.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak czym jest uzależnienie?, etapy uzależnienia oraz leczenie uzależnień pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

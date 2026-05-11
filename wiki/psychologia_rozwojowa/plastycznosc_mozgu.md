@@ -113,9 +113,7 @@ Dorosły mózg zachowuje zdolność do **experience-dependent plasticity**: bada
 
 Plastyczność mózgu nie jest przywilejem tylko dziecięcego umysłu - jest fundamentalną właściwością układu nerwowego na każdym etapie życia, choć jej mechanizmy, zakres i dostępność różnią się z wiekiem. Okresy krytyczne i wrażliwe wyznaczają okna szczególnej podatności na doświadczenie; ich poznanie ma bezpośrednie zastosowanie kliniczne i edukacyjne. Współczesna neuronauka wskazuje drogi do reaktywowania plastyczności w dojrzałym mózgu - otwierając nowe perspektywy rehabilitacji, uczenia się i leczenia.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Bliss, T. V., & Lømo, T. (1973). Long-lasting potentiation of synaptic transmission. *Journal of Physiology, 232*(2), 331–356.
 - Curtiss, S. (1977). *Genie: A Psycholinguistic Study of a Modern-Day Wild Child*. Academic Press.
@@ -128,9 +126,19 @@ Plastyczność mózgu nie jest przywilejem tylko dziecięcego umysłu - jest fun
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Plastyczność mózgu a okresy krytyczne" polega na tym, że rozwój nie jest prostą sekwencją etapów, lecz dynamiczną relacją między dojrzewaniem biologicznym, środowiskiem i doświadczeniem uczenia się.
+
+Dopiero wspólna analiza zagadnień takich jak mechanizmy neuroplastyczności, okresy wrażliwe vs. krytyczne oraz implikacje dla edukacji i terapii pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Plastyczność mózgu a okresy krytyczne" pokazuje, że najbardziej trafne podsumowanie wymaga łączenia perspektywy etapowej z analizą różnic indywidualnych, kontekstu i plastyczności.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak mechanizmy neuroplastyczności, okresy wrażliwe vs. krytyczne oraz implikacje dla edukacji i terapii pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

@@ -138,9 +138,7 @@ Triangularna teoria miłości ma praktyczne zastosowanie w terapii par:
 | Namiętność | motywacyjny | szczytowa we wczesnej fazie, opada | dopamina, noradrenalina |
 | Zobowiązanie | poznawczy | stopniowo wzrasta | kora przedczołowa |
 
----
-
-## Bibliografia (APA 7)
+---## Bibliografia (APA 7)
 Wpisy bibliograficzne zapisuj konsekwentnie w APA 7 oraz dodawaj DOI/URL i oznaczenie typu źródła (`[Typ: ...]`) tam, gdzie to możliwe.
 
 
@@ -154,8 +152,6 @@ Wpisy bibliograficzne zapisuj konsekwentnie w APA 7 oraz dodawaj DOI/URL i oznac
 - Sprecher, S., & Toro-Morn, M. (2002). A study of men and women from different sides of earth to determine if men are from Mars and women are from Venus in their beliefs about love and romantic relationships. *Sex Roles, 46*(5–6), 131–147.
 - Sternberg, R. J. (1986). A triangular theory of love. *Psychological Review, 93*(2), 119–135.
 - Sternberg, R. J. (1997). Construct validation of a triangular love scale. *European Journal of Social Psychology, 27*(3), 313–335.
-
-
 
 
 

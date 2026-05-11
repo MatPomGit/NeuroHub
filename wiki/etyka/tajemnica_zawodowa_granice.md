@@ -103,9 +103,7 @@ W pracy instytucjonalnej (szpital, poradnia, szkoła) informacje o klientach są
 
 Tajemnica zawodowa jest zarówno obowiązkiem prawnym, jak i etycznym filarem relacji psycholog–klient. Jej granice wyznaczają trzy wartości nadrzędne: **ochrona życia**, **bezpieczeństwo dzieci** i **wymogi wymiaru sprawiedliwości**. Psycholog powinien zawczasu informować klientów o zakresie poufności i jej wyjątkach, co nie tylko wypełnia wymogi etyczne, ale też buduje zaufanie oparte na jasnych regułach.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Ustawa z dnia 8 czerwca 2001 r. o zawodzie psychologa. Dz.U. 2001 nr 73 poz. 763.
 - Ustawa z dnia 28 lipca 2023 r. o ochronie małoletnich. Dz.U. 2023 poz. 1606.
@@ -117,9 +115,19 @@ Tajemnica zawodowa jest zarówno obowiązkiem prawnym, jak i etycznym filarem re
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Tajemnica zawodowa i jej granice" polega na tym, że etyka zawodowa nie sprowadza się do mechanicznego stosowania reguł, lecz wymaga ważenia dóbr, ryzyk i odpowiedzialności w warunkach niepewności.
+
+Dopiero wspólna analiza zagadnień takich jak podstawy prawne w polsce, doktryna tarasoff - obowiązek ostrzegania oraz konsultacje zespołowe pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Tajemnica zawodowa i jej granice" pokazuje, że najbardziej dojrzałe wnioski etyczne wynikają z łączenia zasad, kontekstu sytuacyjnego i refleksji nad skutkami decyzji.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak podstawy prawne w polsce, doktryna tarasoff - obowiązek ostrzegania oraz konsultacje zespołowe pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

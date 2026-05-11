@@ -55,9 +55,7 @@ Nieoczywistym, ale ważnym wnioskiem jest to, że higiena cyfrowa ma wymiar **sp
 
 
 
-Higiena cyfrowa jest narzędziem profilaktyki zdrowia psychicznego, a nie jedynie „modą produktywności”. Najlepsze efekty daje połączenie: (1) zmian środowiska technologicznego, (2) nawyków samoregulacji i (3) norm społecznych respektujących granice.
-
-## Bibliografia
+Higiena cyfrowa jest narzędziem profilaktyki zdrowia psychicznego, a nie jedynie „modą produktywności”. Najlepsze efekty daje połączenie: (1) zmian środowiska technologicznego, (2) nawyków samoregulacji i (3) norm społecznych respektujących granice.## Bibliografia
 
 1. Eyal, N. (2019). *Indistractable: How to Control Your Attention and Choose Your Life*. BenBella Books.
 2. Mark, G., Gudith, D., & Klocke, U. (2008). The cost of interrupted work: More speed and stress. *Proceedings of CHI 2008*, 107–110.

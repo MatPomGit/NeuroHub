@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -235,9 +235,7 @@ Wysokiej jakości badania powinny obejmować projekty podłużne, analizy wielop
 
 ## 7. Podsumowanie
 
-Poczucie szczęścia i ogólny dobrostan psychiczny to konstrukty złożone, wymagające wielowymiarowego pomiaru i ostrożnej interpretacji. Najbardziej wiarygodne podejście badawcze łączy modele hedonistyczne i eudajmonistyczne oraz wykorzystuje zestaw kwestionariuszy dopasowanych do celu badania. Z perspektywy praktycznej oznacza to konieczność łączenia interwencji emocjonalnych, poznawczych i społecznych.
-
-## Bibliografia orientacyjna
+Poczucie szczęścia i ogólny dobrostan psychiczny to konstrukty złożone, wymagające wielowymiarowego pomiaru i ostrożnej interpretacji. Najbardziej wiarygodne podejście badawcze łączy modele hedonistyczne i eudajmonistyczne oraz wykorzystuje zestaw kwestionariuszy dopasowanych do celu badania. Z perspektywy praktycznej oznacza to konieczność łączenia interwencji emocjonalnych, poznawczych i społecznych.## Bibliografia orientacyjna
 
 - Diener i wsp. - subjective well-being i SWLS.
 - Watson, Clark, Tellegen - PANAS.
@@ -252,10 +250,19 @@ Poczucie szczęścia i ogólny dobrostan psychiczny to konstrukty złożone, wym
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Poczucie szczęścia i ogólny dobrostan psychiczny" polega na tym, że dobrostan nie rośnie liniowo wraz z liczbą pozytywnych doświadczeń, lecz zależy od sposobu integrowania zasobów z codziennym funkcjonowaniem i relacjami.
+
+Dopiero wspólna analiza zagadnień takich jak streszczenie, who-5 well-being index oraz bibliografia orientacyjna pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
+Temat "Poczucie szczęścia i ogólny dobrostan psychiczny" pokazuje, że największą wartość ma traktowanie zasobów psychicznych jako praktyk podtrzymujących sens, relacyjność i samoregulację, a nie jako zestawu haseł motywacyjnych.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak streszczenie, who-5 well-being index oraz bibliografia orientacyjna pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

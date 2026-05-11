@@ -197,17 +197,13 @@ Mimo swoich metodologicznych słabości SPE pozostaje żywym punktem odniesienia
 | **Kluczowa krytyka** | Instruowanie strażników; brak kontroli; niemożność replikacji |
 | **Dziedzictwo** | Etyka badań; psychologia zła; reforma więziennictwa |
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Zimbardo, P. G. (2007). *The Lucifer Effect: Understanding How Good People Turn Evil*. Random House.
 - Haney, C., Banks, C., & Zimbardo, P. (1973). Interpersonal dynamics in a simulated prison. *International Journal of Criminology and Penology*, 1, 69–97.
 - Haslam, S. A., & Reicher, S. D. (2003). Beyond Stanford: Questioning a role-based explanation of tyranny. *Dialogue*, 18, 22–25.
 - Blum, B. (2018). The lifespan of a lie. *Medium / Gen*. [krytyczna analiza metodologiczna SPE]
 - Le Texier, T. (2019). Debunking the Stanford Prison Experiment. *American Psychologist*, 74(7), 823–839.
-
-
 
 
 

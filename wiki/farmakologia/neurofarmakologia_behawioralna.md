@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -155,10 +155,19 @@ Shemesh, Y., & Chen, A. (2023). A paradigm shift in translational psychiatry thr
 van der Staay, F. J., Arndt, S. S., & Nordquist, R. E. (2009). Evaluation of animal models of neurobehavioral disorders. *Behavioral and Brain Functions, 5*, 11
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Behawioralna neurofarmakologia" polega na tym, że o wartości leczenia farmakologicznego decyduje nie sama znajomość mechanizmu działania leku, lecz umiejętność dopasowania terapii do profilu objawów, ryzyka i funkcjonowania pacjenta.
+
+Dopiero wspólna analiza zagadnień takich jak streszczenie, behawioralna neurofarmakologia w wybranych zaburzeniach oraz najważniejsza bibliografia pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
+Temat "Behawioralna neurofarmakologia" pokazuje, że najważniejsze jest łączenie wiedzy o mechanizmach działania z monitorowaniem skuteczności, bezpieczeństwa i współpracy terapeutycznej.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak streszczenie, behawioralna neurofarmakologia w wybranych zaburzeniach oraz najważniejsza bibliografia pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

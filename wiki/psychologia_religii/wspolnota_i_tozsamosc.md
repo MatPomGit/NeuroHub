@@ -54,9 +54,7 @@ Wspólnota religijna bywa opisywana wyłącznie jako struktura norm. Z perspekty
 - Tożsamość religijna rozwija się relacyjnie, a nie wyłącznie indywidualnie.
 - Wspólnota może działać ochronnie przez wsparcie i sens, ale też ryzykownie przez presję normatywną.
 - Kluczowe znaczenie ma jakość granic grupowych i poziom inkluzywności.
-- Praktyka psychologiczna powinna wzmacniać zasoby wspólnotowe, jednocześnie chroniąc autonomię jednostki.
-
-## Bibliografia
+- Praktyka psychologiczna powinna wzmacniać zasoby wspólnotowe, jednocześnie chroniąc autonomię jednostki.## Bibliografia
 1. Tajfel, H., & Turner, J. C. (1986). The social identity theory of intergroup behavior. In S. Worchel & W. G. Austin (Eds.), *Psychology of Intergroup Relations*.
 2. Ysseldyk, R., Matheson, K., & Anisman, H. (2010). Religiosity as identity: Toward an understanding of religion from a social identity perspective. *Personality and Social Psychology Review*, 14(1), 60-71.
 3. Putnam, R. D., & Campbell, D. E. (2010). *American Grace: How Religion Divides and Unites Us*. Simon & Schuster.

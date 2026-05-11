@@ -107,17 +107,13 @@ Jeśli temat regularnie prowadzi do cierpienia, zazdrości, wycofania lub konfli
 
 To, czy seks wymaga emocjonalnego zaangażowania, zależy od wielu czynników: przywiązania, socjoseksualności, regulacji emocji, wartości i doświadczeń. Różnorodność jest normą. O jakości relacji decydują nie same preferencje, lecz ich transparentne komunikowanie i wzajemny szacunek.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Hazan, C., & Shaver, P. (1987). Romantic love conceptualized as an attachment process. *Journal of Personality and Social Psychology, 52*(3), 511–524.
 - Mikulincer, M., & Shaver, P. R. (2016). *Attachment in Adulthood* (2nd ed.). Guilford Press.
 - Simpson, J. A., & Gangestad, S. W. (1991). Individual differences in sociosexuality. *Journal of Personality and Social Psychology, 60*(6), 870–883.
 - Birnbaum, G. E. (2010). Bound to interact: The divergent goals and complex interplay of attachment and sexuality. *Personality and Social Psychology Review, 14*(1), 49–59.
 - Impett, E. A., Muise, A., & Peragine, D. (2014). Sexuality in the context of relationships. In *APA Handbook of Sexuality and Psychology*.
-
-
 
 
 

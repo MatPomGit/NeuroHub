@@ -102,9 +102,7 @@ Rozumienie kulturowego wymiaru emocji jest kluczowe dla:
 
 Kultura kształtuje emocje na wielu poziomach jednocześnie: wpływa na to, które emocje są rozpoznawane i nazywane, jak są wyrażane i kiedy, jakie mają znaczenie relacyjne oraz jak są regulowane. Współczesne podejścia łączą biologiczne podstawy afektu z konstruktywistyczną rolą kultury - żadna z tych warstw nie jest wystarczająca sama w sobie.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Barrett, L. F. (2017). *How Emotions Are Made: The Secret Life of the Brain*. Houghton Mifflin Harcourt.
 - Ekman, P., & Friesen, W. V. (1969). The repertoire of nonverbal behavior: Categories, origins, usage and coding. *Semiotica, 1*(1), 49–98.
@@ -120,8 +118,6 @@ Kultura kształtuje emocje na wielu poziomach jednocześnie: wpływa na to, któ
 Kultura wpływa nie tylko na to, **co** ludzie czują, ale też **jak** regulują emocje. W części kultur większą wartość ma kontrola i modulacja ekspresji (np. dla utrzymania harmonii), a w innych autentyczne ujawnianie stanu wewnętrznego traktowane jest jako wskaźnik szczerości i zdrowia psychicznego.
 
 Wniosek praktyczny dla psychologów: strategie regulacji należy oceniać kontekstowo. Ta sama strategia (np. tłumienie ekspresji) może być nieadaptacyjna w jednym środowisku, a funkcjonalna społecznie w innym.
-
-
 
 
 

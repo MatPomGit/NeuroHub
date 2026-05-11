@@ -53,9 +53,7 @@ Spór "czy religię włączać do terapii" jest mniej użyteczny niż pytanie "j
 - Religia w psychoterapii może być zasobem lub czynnikiem ryzyka, zależnie od funkcji psychologicznej.
 - Kluczowe są neutralność światopoglądowa i precyzyjna ocena kliniczna.
 - Integracja treści religijnych powinna wynikać z celów pacjenta i danych z wywiadu.
-- Najlepsze efekty daje połączenie wrażliwości kulturowej, etyki i metod opartych na dowodach.
-
-## Bibliografia
+- Najlepsze efekty daje połączenie wrażliwości kulturowej, etyki i metod opartych na dowodach.## Bibliografia
 1. Pargament, K. I. (2011). *Spiritually Integrated Psychotherapy*. Guilford Press.
 2. Captari, L. E., Hook, J. N., Hoyt, W., et al. (2018). Integrating clients' religion and spirituality within psychotherapy: A comprehensive meta-analysis. *Journal of Clinical Psychology*, 74(11), 1938-1951.
 3. Koenig, H. G. (2023). Religion, spirituality, and mental health: An updated review. *International Review of Psychiatry*, 35(7-8), 583-599.

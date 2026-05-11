@@ -49,9 +49,7 @@ TOC jest nie tylko narzedziem UX. W praktyce badawczej może sł‚użyć jako �
 Kluczowe kryteria akceptacyjne:
 - TOC tworzy sie automatycznie z `##` i `###`.
 - Aktywna sekcja podł›wietla sie podczas przewijania.
-- Linkowanie sekcji nie psuje routingu artykuł‚ow.
-
-## Bibliografia
+- Linkowanie sekcji nie psuje routingu artykuł‚ow.## Bibliografia
 1. Mozilla Developer Network. (2025). *Intersection Observer API*.
 2. WHATWG. (2025). *URL Standard*.
 3. Nielsen, J. (2020). *Web usability heuristics*.

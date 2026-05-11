@@ -41,9 +41,7 @@ Dominująca perspektywa traktuje standaryzację jako „usztywnienie” kontaktu
 
 - Sesja eksperymentalna wymaga takiej samej precyzji jak plan analizy.
 - Kluczowe są: randomizacja, zaślepienie, kontrola środowiska i pełne logowanie odstępstw.
-- Dobrze zaprojektowany workflow sesji zwiększa zarówno rzetelność naukową, jak i bezpieczeństwo uczestnika.
-
-## Bibliografia
+- Dobrze zaprojektowany workflow sesji zwiększa zarówno rzetelność naukową, jak i bezpieczeństwo uczestnika.## Bibliografia
 1. American Psychological Association. (2023). *Publication Manual of the American Psychological Association* (7th ed.).
 2. Good Clinical Practice Network. (2016). *ICH Harmonised Guideline for Good Clinical Practice E6(R2)*.
 3. Kazdin, A. E. (2021). *Research Design in Clinical Psychology* (6th ed.). Pearson.

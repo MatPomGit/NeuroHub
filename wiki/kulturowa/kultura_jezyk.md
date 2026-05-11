@@ -97,9 +97,7 @@ Badania wśród ludów o różnych systemach przestrzennych (allecentric vs egoc
 
 Hipoteza Sapira-Whorfa w swej słabej, empirycznie umiarkowanej wersji zyska trwałe miejsce w psychologii poznawczej i kulturowej. Język nie jest przezroczystym medium - jest aktywnym uczestnikiem procesów percepcji, pamięci, rozumowania i emocji. Różnice między językami tworzą różne „domyślne" sposoby kategoryzowania rzeczywistości, które choć nie uniemożliwiają myślenia poza nimi, istotnie modulują jego bieg.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Boroditsky, L. (2001). Does language shape thought? English and Mandarin speakers' conceptions of time. *Cognitive Psychology, 43*(1), 1–22.
 - Boroditsky, L., Schmidt, L. A., & Phillips, W. (2003). Sex, syntax, and semantics. In D. Gentner & S. Goldin-Meadow (Eds.), *Language in Mind* (pp. 61–79). MIT Press.
@@ -120,8 +118,6 @@ Dlatego w diagnozie i terapii warto:
 - korzystać z tłumaczeń kontekstowych, a nie wyłącznie dosłownych.
 
 Redukuje to ryzyko błędnej konceptualizacji problemu i wzmacnia precyzję interwencji.
-
-
 
 
 

@@ -83,9 +83,19 @@ Rodzina jest fundamentem codziennej opieki i dobrobytu osoby z niepełnosprawno�
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Rodzina i opiekunowie" polega na tym, że najbardziej ograniczające bywają nie same deficyty, lecz bariery środowiskowe, organizacyjne i społeczne, które wzmacniają koszt codziennego funkcjonowania.
+
+Dopiero wspólna analiza zagadnień takich jak rola rodziny - zasoby i funkcje, czynniki ryzyka i ochronne oraz przykład pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Rodzina i opiekunowie" pokazuje, że najważniejsze jest łączenie perspektywy klinicznej z prawami, dostępnością i jakością uczestnictwa w życiu społecznym.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak rola rodziny - zasoby i funkcje, czynniki ryzyka i ochronne oraz przykład pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

@@ -47,9 +47,7 @@ To argument za łączeniem danych obrazowych z oceną funkcjonalną zamiast hier
 
 
 
-R.B. jest jednym z najważniejszych przypadków dla zrozumienia roli CA1 w pamięci deklaratywnej. Wzmacnia podejście sieciowo-lokalizacyjne: liczy się zarówno lokalizacja uszkodzenia, jak i jego wpływ na działanie całego systemu pamięci.
-
-## Bibliografia
+R.B. jest jednym z najważniejszych przypadków dla zrozumienia roli CA1 w pamięci deklaratywnej. Wzmacnia podejście sieciowo-lokalizacyjne: liczy się zarówno lokalizacja uszkodzenia, jak i jego wpływ na działanie całego systemu pamięci.## Bibliografia
 
 1. Zola-Morgan, S., Squire, L. R., & Amaral, D. G. (1986). Human amnesia and the medial temporal region: Enduring memory impairment following a bilateral lesion limited to field CA1 of the hippocampus. *Journal of Neuroscience*, 6(10), 2950–2967.
 2. Squire, L. R. (1992). Memory and the hippocampus: A synthesis from findings with rats, monkeys, and humans. *Psychological Review*, 99(2), 195–231.

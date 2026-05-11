@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -363,10 +363,19 @@ Zhang, F., Huang, C., Yan, W., Ouyang, H., & Liu, W. (2024). Attentional bias mo
 Zhu, J., Li, J., Zhou, L., Xu, L., Pu, C., Huang, B., Zhou, Q., Lin, Y., Tang, Y., Yang, L., & Shi, C. (2024). Eye movements as predictor of cognitive improvement after cognitive remediation therapy in patients with schizophrenia. *Frontiers in Psychiatry, 15*, 1395198.
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Śledzenie wzroku i ruchów gałek ocznych jako biomarkerów zaburzeń" polega na tym, że związek mózg-zachowanie jest wielopoziomowy, dlatego pojedyncza struktura lub proces nabiera znaczenia dopiero w kontekście całych sieci funkcjonalnych.
+
+Dopiero wspólna analiza zagadnień takich jak streszczenie, lęk społeczny oraz najważniejsza bibliografia pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
+Temat "Śledzenie wzroku i ruchów gałek ocznych jako biomarkerów zaburzeń" pokazuje, że najważniejsze jest łączenie wiedzy anatomicznej, poznawczej i klinicznej, aby przełożyć opis mechanizmu na rozumienie funkcjonowania człowieka.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak streszczenie, lęk społeczny oraz najważniejsza bibliografia pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

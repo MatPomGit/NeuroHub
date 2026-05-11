@@ -61,9 +61,7 @@ Cykl życia rodziny często jest prezentowany jako sekwencja „normalnych" i �
 
 
 
-Model cyklu życia rodziny dostarcza terapeucie użytecznej siatki pojęciowej do rozumienia kryzysów i trudności w kontekście przewidywalnych tranzycji rozwojowych. Rozróżnienie między kryzysem normatywnym a paranormatywnym, zrozumienie zadań każdej fazy i wrażliwość na wielopokoleniowy kontekst tranzycji pozwala precyzyjniej diagnozować i projektować interwencje - unikając zarówno nadmiernej patologizacji, jak i bagatelizowania realnych trudności.
-
-## Bibliografia
+Model cyklu życia rodziny dostarcza terapeucie użytecznej siatki pojęciowej do rozumienia kryzysów i trudności w kontekście przewidywalnych tranzycji rozwojowych. Rozróżnienie między kryzysem normatywnym a paranormatywnym, zrozumienie zadań każdej fazy i wrażliwość na wielopokoleniowy kontekst tranzycji pozwala precyzyjniej diagnozować i projektować interwencje - unikając zarówno nadmiernej patologizacji, jak i bagatelizowania realnych trudności.## Bibliografia
 
 1. Carter, E. A., & McGoldrick, M. (Eds.). (1980). *The Family Life Cycle: A Framework for Family Therapy*. Gardner Press.
 2. McGoldrick, M., Garcia Preto, N., & Carter, B. (Eds.). (2016). *The Expanding Family Life Cycle* (5th ed.). Pearson.

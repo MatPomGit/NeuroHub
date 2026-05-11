@@ -59,9 +59,7 @@ To ważny korektor dla narracji, która sprowadza odporność do „siły charak
 
 
 Budowanie zasobów i poczucia bezpieczeństwa to fundament skutecznej pracy metodą SE. Im bardziej zasoby są osadzone w codziennym życiu pacjenta, tym trwalsze są efekty terapii i mniejsze ryzyko nawrotów destabilizacji.
-W tym sensie zasoby nie są techniką pomocniczą, ale podstawą leczenia. To one pozwalają przejść od przetrwania do regulacji. Bez nich późniejsze interwencje są zwykle mniej stabilne i mniej bezpieczne.
-
-## Bibliografia
+W tym sensie zasoby nie są techniką pomocniczą, ale podstawą leczenia. To one pozwalają przejść od przetrwania do regulacji. Bez nich późniejsze interwencje są zwykle mniej stabilne i mniej bezpieczne.## Bibliografia
 
 - Herman, J. L. (2015). Trauma and Recovery. Basic Books.
 - Cloitre, M., et al. (2012). The ISTSS Expert Consensus Treatment Guidelines for Complex PTSD.

@@ -108,17 +108,13 @@ Terapia nie polega na „nauce idealnego seksu”, ale na odbudowie bezpieczeńs
 
 Wstyd własnego ciała może subtelnie, ale silnie wpływać na wybór pozycji seksualnych. Kluczowe pytanie brzmi: czy wybór wynika z autentycznej preferencji, czy z lęku przed oceną. Im więcej akceptacji ciała, komunikacji i elastyczności, tym większa szansa na satysfakcjonującą i bezpieczną intymność.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Cash, T. F. (2012). Cognitive-behavioral perspectives on body image.
 - Dove, N. L., Wiederman, M. W. (2000). Cognitive distraction and women’s sexual functioning. *Journal of Sex & Marital Therapy, 26*(1), 67–78.
 - Masters, W. H., & Johnson, V. E. (1970). *Human Sexual Inadequacy*.
 - Pujols, Y., Meston, C. M., & Seal, B. N. (2010). The association between sexual satisfaction and body image. *The Journal of Sexual Medicine, 7*(2), 905–916.
 - Wiederman, M. W. (2000). Women’s body image self-consciousness during physical intimacy. *Journal of Sex Research, 37*(1), 60–68.
-
-
 
 
 

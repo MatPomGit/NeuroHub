@@ -77,9 +77,19 @@ Opiniowanie w sprawach rodzinnych łączy kompetencje kliniczne (diagnoza zaburz
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Opiniowanie psychologiczne w sprawach rodzinnych i opiekuńczych" polega na tym, że w psychologii sądowej najważniejsze jest nie tylko to, co badany przeżywa, ale również to, jak wiarygodnie można tę informację udokumentować i uzasadnić przed sądem.
+
+Dopiero wspólna analiza zagadnień takich jak specyfika postępowań rodzinnych, alienacja rodzicielska oraz standardy etyczne i ograniczenia pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Opiniowanie psychologiczne w sprawach rodzinnych i opiekuńczych" pokazuje, że kluczowe pozostaje łączenie standardów naukowych, prawnych i etycznych przy formułowaniu opinii oraz ograniczeń wnioskowania.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak specyfika postępowań rodzinnych, alienacja rodzicielska oraz standardy etyczne i ograniczenia pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

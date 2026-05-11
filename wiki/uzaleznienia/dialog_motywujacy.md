@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -118,9 +118,7 @@ MI wykazuje skuteczność w bardzo krótkim formacie (1–4 sesje), co czyni go 
 - Efekty bywają słabsze w populacjach z ciężkimi zaburzeniami psychicznymi współwystępującymi z uzależnieniem.
 - Niektórzy badacze (np. Resnicow i McMaster, 2012) wskazują, że mechanizm działania MI nie jest w pełni wyjaśniony - nie wiadomo, czy zmiana następuje przez zwiększenie mowy zmiany, czy przez czynniki relacyjne.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Amrhein, P. C., Miller, W. R., Yahne, C. E., Palmer, M., & Fulcher, L. (2003). Client commitment language during motivational interviewing predicts drug use outcomes. *Journal of Consulting and Clinical Psychology, 71*(5), 862–878.
 - Burke, B. L., Arkowitz, H., & Menchola, M. (2003). The efficacy of motivational interviewing: A meta-analysis of controlled clinical trials. *Journal of Consulting and Clinical Psychology, 71*(5), 843–861.
@@ -132,10 +130,19 @@ MI wykazuje skuteczność w bardzo krótkim formacie (1–4 sesje), co czyni go 
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Dialog motywujący (Motivational Interviewing)" polega na tym, że uzależnienie najtrafniej rozumieć jako proces regulacyjny i relacyjny, a nie wyłącznie problem substancji lub zachowania.
+
+Dopiero wspólna analiza zagadnień takich jak historia i rozwój, transteoretyczny model zmiany (prochaska i diclemente) oraz ograniczenia i krytyka pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
+Temat "Dialog motywujący (Motivational Interviewing)" pokazuje, że najbardziej użyteczne jest łączenie perspektywy neurobiologicznej, motywacyjnej i środowiskowej przy planowaniu wsparcia.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak historia i rozwój, transteoretyczny model zmiany (prochaska i diclemente) oraz ograniczenia i krytyka pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

@@ -33,9 +33,7 @@ Reaguj wcześnie na sygnały alarmowe (izolacja, ukrywanie jedzenia, kompensacje
 Dowody dla standaryzowanych wywiadów diagnostycznych są **silne**; dla diagnozy opartej tylko na obserwacji klinicznej - **wstępne**.
 
 
-Precyzyjna diagnoza ogranicza ryzyko jatrogenii i skraca drogę do skutecznej pomocy.
-
-## Bibliografia
+Precyzyjna diagnoza ogranicza ryzyko jatrogenii i skraca drogę do skutecznej pomocy.## Bibliografia
 - Kazdin, A. E. (2021). *Research Design in Clinical Psychology* (5th ed.). Cambridge University Press.
 - NICE. (2022). *Guidelines and Quality Standards* (wybrane dokumenty dotyczące zdrowia psychicznego i interwencji psychospołecznych).
 - WHO. (2021). *Guidance on community mental health services*. World Health Organization.

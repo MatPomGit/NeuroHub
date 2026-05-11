@@ -136,9 +136,7 @@ Krytyki modelu Marlatta obejmują:
 - Ograniczona skuteczność u osób z ciężką współzachorowalnością psychiatryczną
 - Model opracowany głównie na populacji uzależnionych od alkoholu - generalizacja wymaga ostrożności
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Bowen, S., Chawla, N., Collins, S. E., Witkiewitz, K., Hsu, S., Grow, J., … Marlatt, G. A. (2009). Mindfulness-based relapse prevention for substance use disorders. *Substance Abuse, 30*(4), 295–305.
 - Bowen, S., Witkiewitz, K., Clifasefi, S. L., Grow, J., Chawla, N., Hsu, S. H., … Larimer, M. E. (2014). Relative efficacy of mindfulness-based relapse prevention, standard relapse prevention, and treatment as usual for substance use disorders. *JAMA Psychiatry, 71*(5), 547–556.
@@ -159,12 +157,14 @@ Krytyki modelu Marlatta obejmują:
 
 ## Podsumowanie
 
-## Bibliografia
+Temat "Zapobieganie nawrotom (Relapse Prevention)" pokazuje, że najbardziej użyteczne jest łączenie perspektywy neurobiologicznej, motywacyjnej i środowiskowej przy planowaniu wsparcia.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak model marlatta i gordon, efekt naruszenia abstynencji (ave) oraz ograniczenia modelu pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
 3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
 4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
 5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
-
-

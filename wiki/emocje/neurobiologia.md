@@ -30,8 +30,6 @@ LeDoux (1996) opisał **dwie drogi przetwarzania strachu**: szybka droga *podkor
 
 ## Przetwarzanie nagrody
 
-**Jądro półleżące** i mezolimbiczny układ dopaminowy kodują wartość nagród i motywację do działania. Ciało migdałowate przypisuje wartość emocjonalną bodzcom - warunkowanie strachu i nagrody to dwa oblicza tej samej struktury.
-
-## Bibliografia
+**Jądro półleżące** i mezolimbiczny układ dopaminowy kodują wartość nagród i motywację do działania. Ciało migdałowate przypisuje wartość emocjonalną bodzcom - warunkowanie strachu i nagrody to dwa oblicza tej samej struktury.## Bibliografia
 
 - Do uzupełnienia na podstawie źródeł cytowanych w artykule.

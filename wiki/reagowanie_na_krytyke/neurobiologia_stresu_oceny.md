@@ -81,9 +81,7 @@ W praktyce najwięcej zmienia regularność małych kroków: krótkiej pauzy, do
 
 - Reakcja na krytykę jest jednocześnie poznawcza, emocjonalna i somatyczna.
 - Najskuteczniejsza sekwencja to: regulacja fizjologii → porządkowanie znaczeń → odpowiedź interpersonalna.
-- Wysoka reaktywność nie jest słabością charakteru; to punkt wyjścia do treningu odporności.
-
-## Bibliografia
+- Wysoka reaktywność nie jest słabością charakteru; to punkt wyjścia do treningu odporności.## Bibliografia
 - Gross, J. J. (2014). Emotion regulation: Conceptual and empirical foundations. In *Handbook of Emotion Regulation* (2nd ed.). Guilford Press.
 
 - Dickerson, S. S., & Kemeny, M. E. (2004). Acute stressors and cortisol responses: A theoretical integration. *Psychological Bulletin*, 130(3), 355–391.

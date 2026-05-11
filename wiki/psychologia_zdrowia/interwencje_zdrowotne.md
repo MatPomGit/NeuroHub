@@ -72,9 +72,19 @@ Skuteczne interwencje zdrowotne są krótkie, konkretne i dopasowane do człowie
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Interwencje zdrowotne w psychologii zdrowia" polega na tym, że stan zdrowia i zachowania zdrowotne są wynikiem współdziałania biologii, interpretacji objawów, relacji z otoczeniem i jakości codziennych nawyków.
+
+Dopiero wspólna analiza zagadnień takich jak co decyduje o skuteczności interwencji?, projektowanie planu zmiany oraz przykład pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Interwencje zdrowotne w psychologii zdrowia" pokazuje, że największą wartość ma łączenie perspektywy medycznej z psychologicznym rozumieniem motywacji, stresu i adaptacji.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak co decyduje o skuteczności interwencji?, projektowanie planu zmiany oraz przykład pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

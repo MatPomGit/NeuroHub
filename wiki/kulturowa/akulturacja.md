@@ -118,9 +118,7 @@ Wrażliwość na kontekst akulturacyjny jest kluczowym elementem **kompetencji k
 
 Akulturacja jest wielowymiarowym, dynamicznym procesem, który nie przebiega linearnie. Model Berry dostarcza użytecznego schematu do rozumienia strategii adaptacyjnych, jednak rzeczywiste doświadczenia imigrantów są bardziej płynne - strategie zmieniają się w czasie i różnią się w zależności od domeny życia. Dla psychologów klinicznych i terapeutów zrozumienie tego procesu jest warunkiem skutecznej pracy z pacjentami w kontekście migracji i wielokulturowości.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Berry, J. W. (1997). Immigration, acculturation, and adaptation. *Applied Psychology: An International Review, 46*(1), 5–34.
 - Berry, J. W., Phinney, J. S., Sam, D. L., & Vedder, P. (Eds.). (2006). *Immigrant Youth in Cultural Transition*. Lawrence Erlbaum Associates.
@@ -142,8 +140,6 @@ Przebieg akulturacji zależy od interakcji cech jednostki i warunków społeczny
 Do istotnych **czynników ryzyka** zalicza się natomiast przewlekłą dyskryminację, niepewność prawną, izolację społeczną i bariery dostępu do opieki psychicznej.
 
 W praktyce interwencje powinny łączyć wsparcie indywidualne z działaniami systemowymi (szkoła, miejsce pracy, polityka lokalna).
-
-
 
 
 

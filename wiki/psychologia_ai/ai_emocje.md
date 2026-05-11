@@ -118,9 +118,19 @@ Relacja AI i emocji jest jednym z najbardziej fascynujących i kontrowersyjnych 
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "AI a emocje i rozumienie emocji" polega na tym, że najważniejsze pytania o AI dotyczą nie tylko sprawności systemu, lecz także tego, jak technologia przekształca uwagę, zaufanie, odpowiedzialność i relacje społeczne.
+
+Dopiero wspólna analiza zagadnień takich jak emocje w centrum relacji człowiek-ai, emocje wywoływane przez ai u ludzi oraz wyzwania i ryzyka emotion ai pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "AI a emocje i rozumienie emocji" pokazuje, że kluczowe pozostaje łączenie perspektywy technologicznej z psychologiczną analizą decyzji, emocji i skutków społecznych.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak emocje w centrum relacji człowiek-ai, emocje wywoływane przez ai u ludzi oraz wyzwania i ryzyka emotion ai pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

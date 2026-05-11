@@ -83,9 +83,7 @@ Dominująca intuicja zakłada, że „im więcej szczegółów, tym lepiej”. P
 
 Wywiad kognitywny to skuteczna metoda zwiększania kompletności relacji o zdarzeniach, o ile jest stosowana zgodnie z zasadami psychologii pamięci i osadzona w szerszym procesie diagnostycznym. Daje najlepsze efekty, gdy diagnosta łączy techniki wydobywania wspomnień z dyscypliną metodologiczną: neutralnością pytań, oceną pewności informacji i triangulacją źródeł.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 1. Fisher, R. P., & Geiselman, R. E. (1992). *Memory-enhancing techniques for investigative interviewing: The Cognitive Interview*. Charles C Thomas.
 2. Memon, A., Meissner, C. A., & Fraser, J. (2010). The cognitive interview: A meta-analytic review and study space analysis of the past 25 years. *Psychology, Public Policy, and Law, 16*(4), 340–372.

@@ -146,9 +146,7 @@ Badania łączą wyższe wyniki makiawelizmu i psychopatii z **trollingiem inter
 
 Ciemna Triada stanowi ważne narzędzie pojęciowe pozwalające łączyć psychologię osobowości, psychologię społeczną i psychopatologię. Jej wartość polega nie na stygmatyzowaniu jednostek, lecz na **zrozumieniu mechanizmów zachowań antyspołecznych** i opracowaniu skutecznych strategii profilaktycznych - od selekcji pracowników po interwencje terapeutyczne.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Paulhus, D. L., & Williams, K. M. (2002). The dark triad of personality: Narcissism, Machiavellianism, and psychopathy. *Journal of Research in Personality*, 36(6), 556–563.
 - Jones, D. N., & Paulhus, D. L. (2014). Introducing the Short Dark Triad (SD3): A brief measure of dark personality traits. *Assessment*, 21(1), 28–41.
@@ -156,8 +154,6 @@ Ciemna Triada stanowi ważne narzędzie pojęciowe pozwalające łączyć psycho
 - Rogoza, R., & Cieciuch, J. (2017). Dark Triad traits and their structure: An empirical approach. *Personality and Individual Differences*, 114, 45–53.
 - Babiak, P., & Hare, R. D. (2006). *Snakes in Suits: When Psychopaths Go to Work*. HarperCollins.
 - Muris, P., Merckelbach, H., Otgaar, H., & Meijer, E. (2017). The malevolent side of human nature: A meta-analysis and critical review of the literature on the Dark Triad (narcissism, Machiavellianism, and psychopathy). *Perspectives on Psychological Science*, 12(2), 183–204.
-
-
 
 
 

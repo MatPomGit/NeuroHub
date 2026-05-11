@@ -910,8 +910,6 @@ Czďż˝"stym b9ďż˝"dem jest stosowanie jednego schematu postďż˝"powania 
 
 
 Najwa9=niejszy wniosek jest taki, 9=e rzetelne rozumienie omawianego tematu wymaga 9ďż˝&czenia definicji, danych empirycznych i konsekwencji praktycznych. Skuteczne dzia9ania opierajďż˝& siďż˝" na dopasowaniu metod do celu, monitorowaniu efektBw oraz 9:wiadomym zarzďż˝&dzaniu ograniczeniami. Jednocze9:nie nale9=y zachowaďż˝! ostro9=no9:ďż˝! wobec nadmiernych uogBlnie9, bo jako9:ďż˝! wnioskBw zale9=y od kontekstu i jako9:ci pomiaru. W9ďż˝&czenie perspektywy alternatywnej zwiďż˝"ksza trafno9:ďż˝! diagnozy i u9=yteczno9:ďż˝! interwencji. Ostatecznie to w9a9:nie integracja wiedzy teoretycznej z praktykďż˝& decyduje o warto9:ci edukacyjnej i klinicznej artyku9u.
-
-
 ## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).

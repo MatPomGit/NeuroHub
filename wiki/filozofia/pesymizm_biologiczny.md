@@ -60,8 +60,6 @@ Pesymizm biologiczny jest filozofią niepopularną, lecz intelektualnie poważn�
 
 
 
-
-
 ## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).

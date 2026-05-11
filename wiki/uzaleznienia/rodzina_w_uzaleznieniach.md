@@ -137,9 +137,7 @@ Kluczowe przesłanie: *„3 C: I didn't Cause it, I can't Control it, I can't Cu
 
 Uzależnienie jest w istocie chorobą rodzinną. Bez zrozumienia systemowej dynamiki - ról, kodependencji, enablingu - leczenie osoby uzależnionej pozostaje niekompletne. Włączanie rodziny w terapię, oferowanie im wsparcia oraz praca z DDA stanowią integralne elementy holistycznego podejścia do uzależnień.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Miller, W. R., Meyers, R. J., & Tonigan, J. S. (1999). Engaging the unmotivated in treatment for alcohol problems: A comparison of three strategies for intervention through family members. *Journal of Consulting and Clinical Psychology, 67*(5), 688–697.
 - Minuchin, S. (1974). *Families and Family Therapy*. Harvard University Press.
@@ -147,8 +145,6 @@ Uzależnienie jest w istocie chorobą rodzinną. Bez zrozumienia systemowej dyna
 - Woititz, J. G. (1983). *Adult Children of Alcoholics*. Health Communications.
 - Kaufman, E., & Kaufmann, P. (Eds.). (1992). *Family Therapy of Drug and Alcohol Abuse* (2nd ed.). Allyn and Bacon.
 - Orford, J., Velleman, R., Natera, G., Templeton, L., & Copello, A. (2013). Addiction in the family is a major but neglected contributor to the global burden of adult ill-health. *Social Science & Medicine, 78*, 70–77.
-
-
 
 
 

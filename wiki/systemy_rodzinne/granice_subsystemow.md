@@ -56,9 +56,7 @@ Kultura terapeutyczna często kładzie nacisk na „zdrowe granice" jako warunek
 
 
 
-Jakość granic subsystemów decyduje o tym, jak sprawnie rodzina reguluje bliskość i dystans, hierarchię i autonomię, wsparcie i niezależność. Granice rozmyte prowadzą do uwikłania, granice sztywne do izolacji, natomiast granice przejrzyste umożliwiają elastyczne funkcjonowanie. Zrozumienie i praca z granicami to jedno z najefektywniejszych narzędzi terapii strukturalnej - zarówno w diagnozie, jak i w projektowaniu interwencji terapeutycznych.
-
-## Bibliografia
+Jakość granic subsystemów decyduje o tym, jak sprawnie rodzina reguluje bliskość i dystans, hierarchię i autonomię, wsparcie i niezależność. Granice rozmyte prowadzą do uwikłania, granice sztywne do izolacji, natomiast granice przejrzyste umożliwiają elastyczne funkcjonowanie. Zrozumienie i praca z granicami to jedno z najefektywniejszych narzędzi terapii strukturalnej - zarówno w diagnozie, jak i w projektowaniu interwencji terapeutycznych.## Bibliografia
 
 1. Minuchin, S. (1974). *Families and Family Therapy*. Harvard University Press.
 2. Olson, D. H., Sprenkle, D. H., & Russell, C. S. (1979). Circumplex Model of Marital and Family Systems. *Family Process, 18*(1), 3–28.

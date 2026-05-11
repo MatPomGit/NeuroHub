@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -80,10 +80,19 @@ Zrozumienie osi HPA pozwala:
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Oś HPA i mechanizmy stresu psychosomatycznego" polega na tym, że związek ciała i psychiki najtrafniej rozumieć jako dwukierunkową regulację, a nie prosty model psychicznej przyczyny objawu somatycznego.
+
+Dopiero wspólna analiza zagadnień takich jak anatomia i fizjologia osi hpa, dysregulacja osi hpa - patologiczne wzorce oraz znaczenie kliniczne dla psychosomatyki pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
+Temat "Oś HPA i mechanizmy stresu psychosomatycznego" pokazuje, że największą wartość ma integrowanie danych biologicznych, emocjonalnych i relacyjnych bez redukcjonizmu w żadną stronę.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak anatomia i fizjologia osi hpa, dysregulacja osi hpa - patologiczne wzorce oraz znaczenie kliniczne dla psychosomatyki pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

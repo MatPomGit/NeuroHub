@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -124,9 +124,7 @@ APA opublikowało w 2017 roku zaktualizowane **Multicultural Guidelines: An Ecol
 
 Kimberlé Crenshaw (1989) wprowadziła pojęcie **intersekscjonalności** - tożsamość jest wielowymiarowa, a opresja działa na przecięciach ras, płci, klasy, seksualności. Kobieta czarna doświadcza świata inaczej niż kobieta biała i inaczej niż czarny mężczyzna - nie jako suma, lecz unikalną konfigurację.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 1. Sue, D. W., Arredondo, P., & McDavis, R. J. (1992). Multicultural counseling competencies and standards. *Journal of Counseling and Development, 70*(4), 477–486.
 2. Sue, D. W., Capodilupo, C. M., Torino, G. C., Bucceri, J. M., Holder, A. M. B., Nadal, K. L., & Esquilin, M. (2007). Racial microaggressions in everyday life. *American Psychologist, 62*(4), 271–286.
@@ -137,10 +135,19 @@ Kimberlé Crenshaw (1989) wprowadziła pojęcie **intersekscjonalności** - toż
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Kompetencje kulturowe w psychologii" polega na tym, że etyka zawodowa nie sprowadza się do mechanicznego stosowania reguł, lecz wymaga ważenia dóbr, ryzyk i odpowiedzialności w warunkach niepewności.
+
+Dopiero wspólna analiza zagadnień takich jak definicja i znaczenie, lgbtq+ w praktyce psychologicznej oraz apa multicultural guidelines (2017) pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
+Temat "Kompetencje kulturowe w psychologii" pokazuje, że najbardziej dojrzałe wnioski etyczne wynikają z łączenia zasad, kontekstu sytuacyjnego i refleksji nad skutkami decyzji.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak definicja i znaczenie, lgbtq+ w praktyce psychologicznej oraz apa multicultural guidelines (2017) pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

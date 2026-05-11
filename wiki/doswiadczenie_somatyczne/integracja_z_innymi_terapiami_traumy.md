@@ -57,9 +57,7 @@ Ta perspektywa przenosi uwagę z rywalizacji szkół na dynamikę procesu. Dzię
 
 
 Somatic Experiencing najlepiej działa jako element integracyjny, wspierający stabilizację i przygotowanie do dalszej pracy traumowej.
-Nie jest to słabość metody, lecz jej kliniczna precyzja. W dobrze zaplanowanej terapii SE może pełnić funkcję fundamentu. Na tym fundamencie można potem budować dalsze etapy leczenia.
-
-## Bibliografia
+Nie jest to słabość metody, lecz jej kliniczna precyzja. W dobrze zaplanowanej terapii SE może pełnić funkcję fundamentu. Na tym fundamencie można potem budować dalsze etapy leczenia.## Bibliografia
 
 - Levine, P. A. (2010). In an Unspoken Voice: How the Body Releases Trauma and Restores Goodness. North Atlantic Books.
 - Herman, J. L. (2015). Trauma and Recovery. Basic Books.

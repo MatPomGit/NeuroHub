@@ -47,9 +47,7 @@ W praktyce edukacyjnej listy peł‚nią role â€žmikro-struktury argumentuâ
 Parser powinien poprawnie obsł‚użyć:
 - 2â€“3 poziomy zagnieżdżeł„,
 - zmiane typu listy (UL â†” OL),
-- przejrzystoł›ć semantyczną bez utraty czytelnoł›ci.
-
-## Bibliografia
+- przejrzystoł›ć semantyczną bez utraty czytelnoł›ci.## Bibliografia
 1. Gruber, J. (2004). *Markdown* (specyfikacja pierwotna).
 2. CommonMark. (2024). *CommonMark Spec*.
 3. W3C. (2021). *HTML Living Standard* â€” sekcje dotyczące list.

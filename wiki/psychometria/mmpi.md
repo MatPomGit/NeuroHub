@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -291,9 +291,7 @@ MMPI nie powinien być używany do „udowadniania pacjentowi, jaki jest”. Naj
 MMPI-3 jest narzędziem, które daje najwięcej wtedy, gdy jest interpretowane hierarchicznie, ostrożnie i w kontekście. Zaczyna się od trafności, przechodzi przez szerokie domeny psychopatologii, a kończy na szczegółach interpersonalnych i funkcjonalnych. Jego siłą są nie tylko skale objawowe, ale także możliwość oceny stylu prezentowania siebie, co ma duże znaczenie w neuropsychologii, psychiatrii, psychologii sądowej i selekcji zawodowej. Oficjalne materiały testu podkreślają, że MMPI-3 został zaprojektowany jako współczesne narzędzie do szerokiej oceny osobowości i psychopatologii, z rozbudowanym raportowaniem dla różnych settingów klinicznych i praktycznych. 9
 
 W najbardziej dojrzałej praktyce MMPI nie służy do tego, by zastąpić myślenie kliniczne. Służy do tego, by je organizować, testować i pogłębiać.
-
-
-## bibliografia
+## Bibliografia
 
 Ben-Porath, Y. S., & Tellegen, A. (2020). *Minnesota Multiphasic Personality Inventory-3 (MMPI-3)*. University of Minnesota Press.
 
@@ -328,10 +326,19 @@ Whitman, M. R., Tylicki, J. L., Mascioli, R., Pickle, J., & Ben-Porath, Y. S. (2
 Whitman, M. R., Tylicki, J. L., & Ben-Porath, Y. S. (2021). Utility of the MMPI-3 validity scales for detecting overreporting and underreporting and their effects on substantive scale validity: A simulation study. *Psychological Assessment, 33*(5), 411-426.
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "MMPI" polega na tym, że wartość narzędzia psychometrycznego nie wynika z samej popularności testu, lecz z jakości jego trafności, rzetelności i adekwatności do konkretnego celu decyzji.
+
+Dopiero wspólna analiza zagadnień takich jak streszczenie, przykłady praktyczne oraz podsumowanie praktyczne pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
+Temat "MMPI" pokazuje, że najważniejsze pozostaje odróżnianie pomiaru od interpretacji oraz świadome uwzględnianie ograniczeń metodologicznych narzędzia.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak streszczenie, przykłady praktyczne oraz podsumowanie praktyczne pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

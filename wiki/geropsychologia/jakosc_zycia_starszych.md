@@ -89,9 +89,19 @@ Jakość życia osób starszych jest wynikiem współdziałania zdrowia, relacji
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Jakość życia osób starszych" polega na tym, że starzenie nie jest jedynie procesem strat, lecz zmianą relacji między zasobami, ograniczeniami i środowiskiem życia.
+
+Dopiero wspólna analiza zagadnień takich jak wymiary jakości życia, paradoks dobrostanu w starości oraz jak wspierać jakość życia? pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Jakość życia osób starszych" pokazuje, że największą wartość ma ujmowanie starzenia na przecięciu biologii, relacji społecznych, zdrowia i poczucia sensu.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak wymiary jakości życia, paradoks dobrostanu w starości oraz jak wspierać jakość życia? pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

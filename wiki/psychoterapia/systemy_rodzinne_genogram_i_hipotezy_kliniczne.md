@@ -49,9 +49,7 @@ Nieoczywiste ujęcie zakłada, że genogram może być narzędziem budowania spr
 
 
 
-Genogram i hipoteza kliniczna są rdzeniem praktycznej pracy systemowej. Największą wartość dają wtedy, gdy prowadzą do konkretnych, małych eksperymentów relacyjnych w codziennym życiu rodziny.
-
-## Bibliografia
+Genogram i hipoteza kliniczna są rdzeniem praktycznej pracy systemowej. Największą wartość dają wtedy, gdy prowadzą do konkretnych, małych eksperymentów relacyjnych w codziennym życiu rodziny.## Bibliografia
 
 1. Bowen, M. (1978). *Family Therapy in Clinical Practice*. Jason Aronson.
 2. McGoldrick, M., Gerson, R., & Petry, S. (2008). *Genograms: Assessment and Intervention* (3rd ed.). Norton.

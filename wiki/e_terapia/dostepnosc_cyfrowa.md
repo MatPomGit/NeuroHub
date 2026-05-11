@@ -51,9 +51,7 @@ Psycholog kliniczny lub terapeuta musi uwzględnić dostęp cyfrowy jako czynnik
 
 ## Perspektywa nieoczywista
 
-Cyfrowe wykluczenie jest realną barierą w dostępie do e-terapii i wymaga systemowej odpowiedzi: regulacyjnej, technicznej i edukacyjnej. Psycholog świadomy tej problematyki może aktywnie wspierać swoich klientów w pokonywaniu barier cyfrowych - lub świadomie wybierać modele opieki, które tych barier nie tworzą.
-
-## Bibliografia
+Cyfrowe wykluczenie jest realną barierą w dostępie do e-terapii i wymaga systemowej odpowiedzi: regulacyjnej, technicznej i edukacyjnej. Psycholog świadomy tej problematyki może aktywnie wspierać swoich klientów w pokonywaniu barier cyfrowych - lub świadomie wybierać modele opieki, które tych barier nie tworzą.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

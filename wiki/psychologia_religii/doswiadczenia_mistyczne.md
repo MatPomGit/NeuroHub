@@ -54,9 +54,7 @@ W debacie publicznej często pyta się, czy doświadczenie mistyczne jest „pra
 - Doświadczenia mistyczne są zjawiskiem względnie częstym, lecz wieloznacznym.
 - O ich wartości psychologicznej decyduje przede wszystkim jakość integracji, a nie sama intensywność przeżycia.
 - Badania neurokognitywne dostarczają użytecznych hipotez, ale nie zamykają sporu interpretacyjnego.
-- Najbardziej rzetelne podejście łączy szacunek dla doświadczenia z precyzyjnym różnicowaniem klinicznym.
-
-## Bibliografia
+- Najbardziej rzetelne podejście łączy szacunek dla doświadczenia z precyzyjnym różnicowaniem klinicznym.## Bibliografia
 1. James, W. (1902/2002). *The Varieties of Religious Experience*. Modern Library.
 2. Hood, R. W., Hill, P. C., & Spilka, B. (2009). *The Psychology of Religion: An Empirical Approach* (4th ed.). Guilford Press.
 3. Yaden, D. B., & Newberg, A. B. (2022). The varieties of spiritual experience: 21st century research and perspectives. *Current Opinion in Psychology*, 47.

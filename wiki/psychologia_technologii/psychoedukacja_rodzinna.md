@@ -55,9 +55,7 @@ Nieoczywista perspektywa mówi, że celem psychoedukacji nie powinno być „wyc
 
 
 
-Skuteczna psychoedukacja rodzinna łączy wiedzę o mediach, komunikację opartą na zaufaniu i spójne normy domowe. Najsilniejszym czynnikiem ochronnym pozostaje jakość relacji rodzic–dziecko: technologia staje się wtedy narzędziem rozwoju, a nie źródłem przewlekłego konfliktu.
-
-## Bibliografia
+Skuteczna psychoedukacja rodzinna łączy wiedzę o mediach, komunikację opartą na zaufaniu i spójne normy domowe. Najsilniejszym czynnikiem ochronnym pozostaje jakość relacji rodzic–dziecko: technologia staje się wtedy narzędziem rozwoju, a nie źródłem przewlekłego konfliktu.## Bibliografia
 
 1. Domoff, S. E., Borgen, A. L., Foley, R. P., & Maffett, A. (2019). Excessive use of mobile devices and children’s physical health. *Human Behavior and Emerging Technologies*, 1(2), 169–175.
 2. Livingstone, S., & Helsper, E. J. (2008). Parental mediation of children’s internet use. *Journal of Broadcasting & Electronic Media*, 52(4), 581–599.

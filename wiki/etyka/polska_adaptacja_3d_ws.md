@@ -79,9 +79,7 @@ Etyczna konsekwencja tej perspektywy jest istotna: niski wynik w danym pomiarze 
 
 Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu. głównych wniosków
 
-Polska adaptacja 3D-WS jest ważnym krokiem w kierunku rzetelnego i etycznego pomiaru mądrości w warunkach polskich. Jej wartość nie polega wyłącznie na „technicznym” tłumaczeniu skali, ale na umożliwieniu bardziej adekwatnego i sprawiedliwego wnioskowania o badanych osobach. W praktyce etycznej najważniejsze jest łączenie wyniku 3D-WS z innymi źródłami danych, transparentne komunikowanie ograniczeń oraz unikanie normatywnego etykietowania ludzi na podstawie pojedynczego wskaźnika.
-
-## Bibliografia
+Polska adaptacja 3D-WS jest ważnym krokiem w kierunku rzetelnego i etycznego pomiaru mądrości w warunkach polskich. Jej wartość nie polega wyłącznie na „technicznym” tłumaczeniu skali, ale na umożliwieniu bardziej adekwatnego i sprawiedliwego wnioskowania o badanych osobach. W praktyce etycznej najważniejsze jest łączenie wyniku 3D-WS z innymi źródłami danych, transparentne komunikowanie ograniczeń oraz unikanie normatywnego etykietowania ludzi na podstawie pojedynczego wskaźnika.## Bibliografia
 
 1. Ardelt, M. (2003). Empirical assessment of a three-dimensional wisdom scale. *Research on Aging, 25*(3), 275–324. https://doi.org/10.1177/0164027503025003004
 2. Steuden, S., Brudek, A., & Janowski, P. (2016). Polska adaptacja Trójwymiarowej Skali Mądrości (3D-WS) Moniki Ardelt. *Roczniki Psychologiczne, 19*(4), 709–728. https://www.kul.pl/files/1479/194/roczniki_psychologiczne_t._19_nr_4_pl._art._s._steuden.pdf

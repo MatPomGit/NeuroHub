@@ -126,9 +126,19 @@ Skutki psychologiczne mobbingu są poważne, wielowymiarowe i długotrwałe. Obe
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Skutki psychologiczne mobbingu" polega na tym, że odporność psychiczna nie oznacza braku podatności na zranienie, lecz zdolność do odzyskiwania sprawstwa w warunkach przeciążenia i presji.
+
+Dopiero wspólna analiza zagadnień takich jak wprowadzenie - skala szkód, długofalowe skutki zawodowe oraz przykład kliniczny pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Skutki psychologiczne mobbingu" pokazuje, że najważniejsze jest łączenie profilaktyki indywidualnej z analizą środowiska pracy, procedur i kultury organizacyjnej.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak wprowadzenie - skala szkód, długofalowe skutki zawodowe oraz przykład kliniczny pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

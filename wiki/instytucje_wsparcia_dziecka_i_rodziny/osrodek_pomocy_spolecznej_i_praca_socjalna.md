@@ -33,9 +33,7 @@ Współpracuj z pracownikiem socjalnym nad realistycznym planem i priorytetami, 
 Dowody dla zintegrowanej pracy socjalnej są **umiarkowane**; dla interwencji wyłącznie świadczeniowych - **wstępne**.
 
 
-Skuteczna pomoc socjalna wymaga relacji, struktury i ciągłości.
-
-## Bibliografia
+Skuteczna pomoc socjalna wymaga relacji, struktury i ciągłości.## Bibliografia
 - Kazdin, A. E. (2021). *Research Design in Clinical Psychology* (5th ed.). Cambridge University Press.
 - NICE. (2022). *Guidelines and Quality Standards* (wybrane dokumenty dotyczące zdrowia psychicznego i interwencji psychospołecznych).
 - WHO. (2021). *Guidance on community mental health services*. World Health Organization.

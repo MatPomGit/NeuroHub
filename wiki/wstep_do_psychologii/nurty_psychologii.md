@@ -71,9 +71,7 @@ To podejście łączy EBM/EBP (evidence-based practice), personalizację oddzia�
 
 Historia nurtów psychologii pokazuje ewolucję od sporów „albo–albo” do podejścia „zarówno–jak i”:  
 **zachowanie + poznanie + emocje + relacje + biologia + kontekst społeczny**.  
-Taki pluralizm metodologiczny zwiększa trafność diagnozy i skuteczność interwencji.
-
-## Bibliografia
+Taki pluralizm metodologiczny zwiększa trafność diagnozy i skuteczność interwencji.## Bibliografia
 
 1. Beck, J. S. (2020). *Cognitive Behavior Therapy: Basics and Beyond* (3rd ed.). Guilford Press.  
 2. Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.  
@@ -85,4 +83,16 @@ Taki pluralizm metodologiczny zwiększa trafność diagnozy i skuteczność inte
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Główne nurty psychologii - mapa paradygmatów" polega na tym, że podstawowe pojęcia psychologii nabierają wartości dopiero wtedy, gdy pokazuje się ich ograniczenia, zakres stosowania i relacje z metodą badania.
+
+Dopiero wspólna analiza zagadnień takich jak strukturalizm i funkcjonalizm - początek psychologii naukowej, psychologia humanistyczna i egzystencjalna - podmiotowość i sens oraz współczesny standard: integracja oparta na dowodach pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
+
+Temat "Główne nurty psychologii - mapa paradygmatów" pokazuje, że najważniejsze jest traktowanie psychologii jako nauki o złożonych zależnościach, a nie zbioru prostych definicji.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak strukturalizm i funkcjonalizm - początek psychologii naukowej, psychologia humanistyczna i egzystencjalna - podmiotowość i sens oraz współczesny standard: integracja oparta na dowodach pokazuje pełny zakres omawianego zjawiska.

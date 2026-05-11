@@ -117,9 +117,7 @@ Ich jednoczesne wystąpienie tworzy najgłębszą dysleksję.
 
 Wiek szkolny to okres skokowego wzrostu kompetencji logicznych i społecznych. Myślenie operacyjne umożliwia systematyczne rozumowanie, relacje rówieśnicze dostarczają lustrzanego odbicia własnych zdolności, a szkoła stwarza przestrzeń do testowania i konsolidowania tożsamości kompetencyjnej. Wygotskiego perspektywa przypomina, że ten rozwój jest zawsze osadzony w relacji i kulturze - dziecko nie rośnie samo, lecz w nieustannym dialogu z bardziej doświadczonymi innymi.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Baron-Cohen, S. (1995). *Mindblindness: An Essay on Autism and Theory of Mind*. MIT Press.
 - Coie, J. D., Dodge, K. A., & Coppotelli, H. (1982). Dimensions and types of social status. *Developmental Psychology, 18*(4), 557–570.
@@ -132,9 +130,19 @@ Wiek szkolny to okres skokowego wzrostu kompetencji logicznych i społecznych. M
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Wiek szkolny - rozwój psychiczny" polega na tym, że rozwój nie jest prostą sekwencją etapów, lecz dynamiczną relacją między dojrzewaniem biologicznym, środowiskiem i doświadczeniem uczenia się.
+
+Dopiero wspólna analiza zagadnień takich jak myślenie operacji konkretnych (piaget), relacje rówieśnicze i grupy społeczne oraz umiejętności akademickie - podstawy neuropsychologiczne pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Wiek szkolny - rozwój psychiczny" pokazuje, że najbardziej trafne podsumowanie wymaga łączenia perspektywy etapowej z analizą różnic indywidualnych, kontekstu i plastyczności.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak myślenie operacji konkretnych (piaget), relacje rówieśnicze i grupy społeczne oraz umiejętności akademickie - podstawy neuropsychologiczne pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

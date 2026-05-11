@@ -55,9 +55,7 @@ Współuzależnienie bywa opisywane jako patologia bliskich osoby uzależnionej 
 
 
 
-Rodzina z uzależnieniem jest systemem, który adaptuje się do chronicznego stresu przez sztywne role, enabling i homeostazę uzależnieniową. Skuteczna pomoc wymaga pracy z całym systemem - nie tylko z osobą uzależnioną. Włączenie rodziny w terapię, praca z enablingiem i budowanie nowych granic relacyjnych są warunkami trwałej zmiany, a nie dodatkiem do „prawdziwego" leczenia.
-
-## Bibliografia
+Rodzina z uzależnieniem jest systemem, który adaptuje się do chronicznego stresu przez sztywne role, enabling i homeostazę uzależnieniową. Skuteczna pomoc wymaga pracy z całym systemem - nie tylko z osobą uzależnioną. Włączenie rodziny w terapię, praca z enablingiem i budowanie nowych granic relacyjnych są warunkami trwałej zmiany, a nie dodatkiem do „prawdziwego" leczenia.## Bibliografia
 
 1. Black, C. (1981). *It Will Never Happen to Me: Growing Up with Addiction as Youngsters, Adolescents, Adults*. MAC Printing and Publications Division.
 2. Wegscheider-Cruse, S. (1981). *Another Chance: Hope and Health for the Alcoholic Family*. Science and Behavior Books.

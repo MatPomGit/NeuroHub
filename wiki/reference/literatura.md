@@ -73,8 +73,6 @@ Czestym bł‚edem jest stosowanie jednego schematu postepowania niezależnie od
 
 
 Najważniejszy wniosek jest taki, że rzetelne rozumienie omawianego tematu wymaga ł‚ączenia definicji, danych empirycznych i konsekwencji praktycznych. Skuteczne dział‚ania opierają sie na dopasowaniu metod do celu, monitorowaniu efektow oraz ł›wiadomym zarządzaniu ograniczeniami. Jednoczeł›nie należy zachować ostrożnoł›ć wobec nadmiernych uogolnieł„, bo jakoł›ć wnioskow zależy od kontekstu i jakoł›ci pomiaru. Wł‚ączenie perspektywy alternatywnej zwieksza trafnoł›ć diagnozy i użytecznoł›ć interwencji. Ostatecznie to wł‚ał›nie integracja wiedzy teoretycznej z praktyką decyduje o wartoł›ci edukacyjnej i klinicznej artykuł‚u.
-
-
 ## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).

@@ -131,9 +131,7 @@ Na podstawie syntezy badań (Flay, 2002; Tobler i in., 2000) sformułowano kryte
 
 Profilaktyka uzależnień jest dziedziną, w której rozbieżność między praktyką a dowodami naukowymi bywa znacząca. Najbardziej obiecujące podejścia łączą wzmacnianie czynników ochronnych (umiejętności społeczno-emocjonalne, więź rodzinna, poczucie własnej skuteczności), wczesną identyfikację ryzyka w systemie opieki zdrowotnej (SBIRT) oraz pragmatyczną filozofię redukcji szkód dla populacji aktywnie używających substancji.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Botvin, G. J., Baker, E., Dusenbury, L., Botvin, E. M., & Diaz, T. (1995). Long-term follow-up results of a randomized drug abuse prevention trial in a white middle-class population. *JAMA, 273*(14), 1106–1112.
 - Ennett, S. T., Tobler, N. S., Ringwalt, C. L., & Flewelling, R. L. (1994). How effective is Drug Abuse Resistance Education? *American Journal of Public Health, 84*(9), 1394–1401.
@@ -143,8 +141,6 @@ Profilaktyka uzależnień jest dziedziną, w której rozbieżność między prak
 - Marlatt, G. A. (1996). Harm reduction: Come as you are. *Addictive Behaviors, 21*(6), 779–788.
 - Tobler, N. S., Roona, M. R., Ochshorn, P., Marshall, D. G., Streke, A. V., & Stackpole, K. M. (2000). School-based adolescent drug prevention programs: 1998 meta-analysis. *Journal of Primary Prevention, 20*(4), 275–336.
 - West, S. L., & O'Neal, K. K. (2004). Project D.A.R.E. outcome effectiveness revisited. *American Journal of Public Health, 94*(6), 1027–1029.
-
-
 
 
 

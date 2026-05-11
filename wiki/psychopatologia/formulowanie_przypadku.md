@@ -125,9 +125,7 @@ Formułowanie jest **hipotezą roboczą**, nie diagnozą ostateczną. Powinno by
 
 Formułowanie przypadku klinicznego jest fundamentalnym narzędziem pracy psychologa i psychoterapeuty. Niezależnie od nurtu - poznawczo-behawioralnego, psychodynamicznego czy systemowego - dobre formułowanie integruje dane biologiczne, psychologiczne i społeczne w model, który *rozumie* pacjenta, nie tylko go klasyfikuje. Model 5P zapewnia dostępne, eklektyczne ramy, które można zastosować w każdym kontekście klinicznym. Kluczem jest traktowanie formułowania jako dynamicznej, współtworzonej hipotezy, która służy przede wszystkim dobrostanowi pacjenta.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Beck, A. T., Rush, A. J., Shaw, B. F., & Emery, G. (1979). *Cognitive Therapy of Depression*. Guilford Press.
 - Engel, G. L. (1977). The need for a new medical model: A challenge for biomedicine. *Science, 196*(4286), 129–136.
@@ -140,9 +138,19 @@ Formułowanie przypadku klinicznego jest fundamentalnym narzędziem pracy psycho
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Formułowanie przypadku klinicznego" polega na tym, że objawy nabierają znaczenia dopiero wtedy, gdy analizuje się je w przebiegu, kontekście funkcjonowania i relacji do mechanizmów podtrzymujących.
+
+Dopiero wspólna analiza zagadnień takich jak formułowanie w terapii poznawczo-behawioralnej - model persons, model 5p - ramy kliniczne oraz etyczne aspekty formułowania pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Formułowanie przypadku klinicznego" pokazuje, że najbardziej użyteczna perspektywa łączy opis symptomów z rozumieniem procesu, różnicowaniem i planowaniem interwencji.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak formułowanie w terapii poznawczo-behawioralnej - model persons, model 5p - ramy kliniczne oraz etyczne aspekty formułowania pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

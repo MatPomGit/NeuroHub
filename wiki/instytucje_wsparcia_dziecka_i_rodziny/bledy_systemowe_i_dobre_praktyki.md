@@ -33,9 +33,7 @@ Jako rodzina pytaj o plan, terminy i odpowiedzialne osoby - to zwiększa przejrz
 Dowody dla interwencji jakościowych w usługach publicznych są **umiarkowane**.
 
 
-System staje się skuteczny wtedy, gdy potrafi uczyć się na własnych błędach.
-
-## Bibliografia
+System staje się skuteczny wtedy, gdy potrafi uczyć się na własnych błędach.## Bibliografia
 - Kazdin, A. E. (2021). *Research Design in Clinical Psychology* (5th ed.). Cambridge University Press.
 - NICE. (2022). *Guidelines and Quality Standards* (wybrane dokumenty dotyczące zdrowia psychicznego i interwencji psychospołecznych).
 - WHO. (2021). *Guidance on community mental health services*. World Health Organization.

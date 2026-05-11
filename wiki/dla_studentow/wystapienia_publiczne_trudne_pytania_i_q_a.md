@@ -54,9 +54,7 @@ Najtrudniejsze pytania bywają nie zagrożeniem, lecz sygnałem jakości audytor
 
 
 
-Profesjonalne Q&A to umiejętność regulacji emocji i precyzyjnej argumentacji. Dobre odpowiedzi nie udają wszechwiedzy - pokazują jakość myślenia, transparentność ograniczeń i szacunek dla rozmówcy.
-
-## Bibliografia
+Profesjonalne Q&A to umiejętność regulacji emocji i precyzyjnej argumentacji. Dobre odpowiedzi nie udają wszechwiedzy - pokazują jakość myślenia, transparentność ograniczeń i szacunek dla rozmówcy.## Bibliografia
 
 1. Leary, M. R. (2019). *The Self and Social Anxiety*. Guilford Press.
 2. Sweller, J., Ayres, P., & Kalyuga, S. (2011). *Cognitive Load Theory*. Springer.

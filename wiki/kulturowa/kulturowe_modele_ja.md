@@ -124,9 +124,7 @@ Wyniki są jednak wrażliwe na skalę i kontekst badania - pojawia się kwestia 
 | Ujawnianie siebie | szerokie, wczesne | stopniowe, kontekstowe |
 | Implikacje kliniczne | cele autonomiczne | cele relacyjne i systemowe |
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Cross, S. E., Bacon, P. L., & Morris, M. L. (2000). The relational-interdependent self-construal and relationships. *Journal of Personality and Social Psychology, 78*(4), 791–808.
 - Goffman, E. (1955). On face-work: An analysis of ritual elements in social interaction. *Psychiatry, 18*(3), 213–231.
@@ -147,8 +145,6 @@ Dlatego użyteczne jest:
 - unikanie patologizowania stylów Ja odmiennych od normy zachodniej.
 
 Kulturowo świadoma praca nad tożsamością zwiększa przymierze terapeutyczne i skuteczność oddziaływań.
-
-
 
 
 

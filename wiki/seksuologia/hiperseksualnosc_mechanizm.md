@@ -129,17 +129,13 @@ Wczesna interwencja zwiększa szansę na trwałą poprawę.
 
 Hiperseksualność w ujęciu psychologicznym najczęściej pełni funkcję regulacyjną - zmniejsza napięcie tu i teraz, ale długoterminowo może podtrzymywać cierpienie. Kluczem terapii jest zrozumienie funkcji zachowania, rozwijanie samoregulacji i budowanie zdrowszych form bliskości.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Kafka, M. P. (2010). Hypersexual disorder: A proposed diagnosis for DSM-5. *Archives of Sexual Behavior, 39*(2), 377–400.
 - Bancroft, J., & Vukadinovic, Z. (2004). Sexual addiction, sexual compulsivity, sexual impulsivity. *Journal of Sex Research, 41*(3), 225–234.
 - Reid, R. C., Garos, S., & Fong, T. (2012). Psychometric development of the Hypersexual Behavior Consequences Scale. *Journal of Behavioral Addictions, 1*(3), 115–122.
 - Walton, M. T., Cantor, J. M., Bhullar, N., & Lykins, A. D. (2017). Hypersexuality: A critical review and introduction to the “sexhavior cycle”. *Archives of Sexual Behavior, 46*(8), 2231–2251.
 - World Health Organization. (2019). ICD-11: Compulsive sexual behaviour disorder.
-
-
 
 
 

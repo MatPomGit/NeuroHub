@@ -57,9 +57,7 @@ Ta kolejność jest mniej spektakularna, ale lepiej respektuje ograniczenia ukł
 
 
 Dokończenie ruchu jest jedną z najbardziej charakterystycznych idei SE. Umożliwia organizmowi odzyskanie sekwencji obronnej bez ponownego wchodzenia w zagrożenie.
-To czyni je praktycznym narzędziem dla pacjentów, którzy czują się „zatrzymani” w ciele. Subtelne domknięcie reakcji może otworzyć drogę do większej swobody. Właśnie dlatego warto traktować je jako poważną, a nie pomocniczą interwencję.
-
-## Bibliografia
+To czyni je praktycznym narzędziem dla pacjentów, którzy czują się „zatrzymani” w ciele. Subtelne domknięcie reakcji może otworzyć drogę do większej swobody. Właśnie dlatego warto traktować je jako poważną, a nie pomocniczą interwencję.## Bibliografia
 
 - Levine, P. A. (2010). In an Unspoken Voice: How the Body Releases Trauma and Restores Goodness. North Atlantic Books.
 - Van der Kolk, B. A. (2014). The Body Keeps the Score. Viking.

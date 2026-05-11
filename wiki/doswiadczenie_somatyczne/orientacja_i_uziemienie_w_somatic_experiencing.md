@@ -57,9 +57,7 @@ To przesuwa punkt ciężkości z analizy na doświadczenie. Taka zmiana bywa mni
 
 
 Orientacja i uziemienie są podstawowymi narzędziami stabilizacji w SE. Ich celem nie jest relaks sam w sobie, lecz zwiększenie dostępności układu nerwowego do bezpiecznego przetwarzania.
-W praktyce mogą stać się pierwszym mostem między przeciążeniem a regulacją. Ich prostota jest zaletą, nie ograniczeniem. To właśnie dlatego warto je stosować konsekwentnie i uważnie.
-
-## Bibliografia
+W praktyce mogą stać się pierwszym mostem między przeciążeniem a regulacją. Ich prostota jest zaletą, nie ograniczeniem. To właśnie dlatego warto je stosować konsekwentnie i uważnie.## Bibliografia
 
 - Levine, P. A. (2010). In an Unspoken Voice: How the Body Releases Trauma and Restores Goodness. North Atlantic Books.
 - Payne, P., Levine, P. A., & Crane-Godreau, M. A. (2015). Somatic experiencing: using interoception and proprioception as core elements of trauma therapy. Frontiers in Psychology, 6, 93.

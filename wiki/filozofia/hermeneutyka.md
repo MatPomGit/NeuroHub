@@ -65,9 +65,19 @@ Hermeneutyka uczy pokory wobec złożoności rozumienia. Psycholog, który wierz
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Hermeneutyka i interpretacja" polega na tym, że siła analizy filozoficznej polega nie tylko na obronie stanowiska, lecz także na ujawnianiu kosztów założeń, granic pojęć i konsekwencji intuicji.
+
+Dopiero wspólna analiza zagadnień takich jak czym jest hermeneutyka?, hans-georg gadamer - fuzja horyzontów oraz hermeneutyka w psychologii i psychoterapii pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Hermeneutyka i interpretacja" pokazuje, że najbardziej wartościowe podsumowanie wymaga odróżnienia tego, co logicznie możliwe, od tego, co epistemicznie uzasadnione i praktycznie doniosłe.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak czym jest hermeneutyka?, hans-georg gadamer - fuzja horyzontów oraz hermeneutyka w psychologii i psychoterapii pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

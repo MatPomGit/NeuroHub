@@ -33,9 +33,7 @@ Pilnuj regularnych kontroli i zgłaszaj objawy niepożądane; nie odstawiaj lek�
 Dowody dla części leków w określonych wskazaniach są **umiarkowane**; dla farmakoterapii jako jedynego leczenia - **wstępne**.
 
 
-Farmakoterapia jest narzędziem pomocniczym, najbardziej skutecznym w modelu zintegrowanym.
-
-## Bibliografia
+Farmakoterapia jest narzędziem pomocniczym, najbardziej skutecznym w modelu zintegrowanym.## Bibliografia
 - Kazdin, A. E. (2021). *Research Design in Clinical Psychology* (5th ed.). Cambridge University Press.
 - NICE. (2022). *Guidelines and Quality Standards* (wybrane dokumenty dotyczące zdrowia psychicznego i interwencji psychospołecznych).
 - WHO. (2021). *Guidance on community mental health services*. World Health Organization.

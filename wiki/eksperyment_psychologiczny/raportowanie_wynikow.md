@@ -42,9 +42,7 @@ W praktyce zespołowej sekcja „ograniczenia” bywa traktowana jako słabość
 
 - Raport powinien być odtwarzalny i kompletny, nie tylko „przekonujący”.
 - Wnioski muszą być proporcjonalne do jakości danych.
-- Ujawnianie ograniczeń zwiększa, a nie zmniejsza wiarygodność naukową.
-
-## Bibliografia
+- Ujawnianie ograniczeń zwiększa, a nie zmniejsza wiarygodność naukową.## Bibliografia
 1. Appelbaum, M., et al. (2018). Journal article reporting standards for quantitative research. *American Psychologist, 73*(1), 3–25.
 2. Cumming, G. (2014). The new statistics. *Psychological Science, 25*(1), 7–29.
 3. Lakens, D. (2022). Sample size justification. *Collabra: Psychology, 8*(1), 33267.

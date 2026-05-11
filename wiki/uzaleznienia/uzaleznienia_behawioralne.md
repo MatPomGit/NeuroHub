@@ -144,9 +144,7 @@ W diagnozie uzależnień behawioralnych należy wykluczyć lub uwzględnić:
 
 Uzależnienia behawioralne stawiają psychologię przed wyzwaniem rozszerzenia modelu uzależnienia poza substancje, zachowując precyzję diagnostyczną i unikając nadpatologizowania normalnych zachowań. Wspólne neurobiologiczne podłoże z uzależnieniami od substancji uzasadnia leczenie podobnymi podejściami: CBT, terapia dialektyczna, farmakoterapia (naltrekson).
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - American Psychiatric Association. (2022). *Diagnostic and Statistical Manual of Mental Disorders* (5th ed., text rev.). APA Publishing.
 - Ferguson, C. J. (2017). Everything in moderation: Moderate use of screens unassociated with child behavior problems. *Psychiatric Quarterly, 88*(4), 797–805.
@@ -154,8 +152,6 @@ Uzależnienia behawioralne stawiają psychologię przed wyzwaniem rozszerzenia m
 - Potenza, M. N. (2008). The neurobiology of pathological gambling and drug addiction. *Philosophical Transactions of the Royal Society B, 363*(1507), 3181–3189.
 - Spence, J. T., & Robbins, A. S. (1992). Workaholism: Definition, measurement, and preliminary results. *Journal of Personality Assessment, 58*(1), 160–178.
 - World Health Organization. (2019). *International Classification of Diseases* (11th rev.). WHO.
-
-
 
 
 

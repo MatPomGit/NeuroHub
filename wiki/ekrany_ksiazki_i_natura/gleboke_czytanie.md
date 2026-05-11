@@ -91,9 +91,19 @@ Głębokie czytanie to kulminacja tego, co mózg potrafi zrobić z językiem pis
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Głębokie czytanie - procesy poznawcze i ich zanikanie" polega na tym, że wpływ środowiska cyfrowego i naturalnego nie jest prostym bilansem szkód i korzyści, lecz zależy od wzorca używania, czasu ekspozycji i funkcji, jaką pełni dane doświadczenie.
+
+Dopiero wspólna analiza zagadnień takich jak procesy poznawcze głębokiego czytania, brak głębokiego czytania - implikacje oraz strategie przywracania głębokiego czytania pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Głębokie czytanie - procesy poznawcze i ich zanikanie" pokazuje, że najbardziej wartościowe wnioski pojawiają się wtedy, gdy analizuje się wspólnie uwagę, emocje, regenerację i długofalowe nawyki poznawcze.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak procesy poznawcze głębokiego czytania, brak głębokiego czytania - implikacje oraz strategie przywracania głębokiego czytania pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

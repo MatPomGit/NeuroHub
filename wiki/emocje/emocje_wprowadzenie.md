@@ -44,8 +44,6 @@ Motywacja to zestaw procesów, które inicjują, ukierunkowują i podtrzymują z
 
 Emocje i procesy poznawcze są głęboko wzajemnie przenikające - to nie dwa odrębne systemy, ale wzajemnie regulujące się komponenty jednego aparatu adaptacyjnego. Emocje zawężają lub poszerzają uwagę, modulują kodowanie i odtwarzanie wspomnień (pamięć emocjonalna jest silniejsza dla zdarzeń naładowanych emocjonalnie), wpływają na oceny ryzyka i prawdopodobieństwa oraz nadają priorytet celom działania.
 
-Zaburzenia regulacji emocjonalnej leżą u podłoża większości zaburzeń psychicznych - od zaburzeń lękowych i depresyjnych, przez zaburzenia osobowości, po uzależnienia i zaburzenia jedzenia.
-
-## Bibliografia
+Zaburzenia regulacji emocjonalnej leżą u podłoża większości zaburzeń psychicznych - od zaburzeń lękowych i depresyjnych, przez zaburzenia osobowości, po uzależnienia i zaburzenia jedzenia.## Bibliografia
 
 - Do uzupełnienia na podstawie źródeł cytowanych w artykule.

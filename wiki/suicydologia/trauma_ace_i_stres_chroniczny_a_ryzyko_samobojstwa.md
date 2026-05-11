@@ -57,9 +57,7 @@ W dyskursie publicznym trauma bywa postrzegana wyłącznie jako „przeszłość
 - ACE, trauma i stres chroniczny istotnie zwiększają ryzyko suicydalne.
 - Najsilniej działają przez dysregulację emocji, beznadziejność, zaburzenia snu i osłabienie wsparcia społecznego.
 - Kluczowe jest podejście trauma-informed: etapowość, stabilizacja i unikanie retraumatyzacji.
-- Praca profilaktyczna powinna łączyć interwencję indywidualną z działaniami systemowymi (szkoła, rodzina, miejsce pracy).
-
-## Bibliografia
+- Praca profilaktyczna powinna łączyć interwencję indywidualną z działaniami systemowymi (szkoła, rodzina, miejsce pracy).## Bibliografia
 1. Felitti, V. J., Anda, R. F., Nordenberg, D., et al. (1998). Relationship of childhood abuse and household dysfunction to many of the leading causes of death in adults. *American Journal of Preventive Medicine*, 14(4), 245–258.
 2. Dube, S. R., Anda, R. F., Felitti, V. J., et al. (2001). Childhood abuse, household dysfunction, and the risk of attempted suicide throughout the life span. *JAMA*, 286(24), 3089–3096.
 3. Devries, K. M., Mak, J. Y., Child, J. C., et al. (2014). Childhood sexual abuse and suicidal behavior: A meta-analysis. *Pediatrics*, 133(5), e1331–e1344.

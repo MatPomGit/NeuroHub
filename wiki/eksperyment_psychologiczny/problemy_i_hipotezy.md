@@ -50,9 +50,7 @@ Dominująca praktyka premiuje hipotezy „efektowe” (czy działa). Alternatywn
 
 - Precyzyjny problem badawczy jest warunkiem poprawnej metodologii.
 - Hipotezy muszą być testowalne, operacyjne i jawnie sklasyfikowane.
-- Większą wartość translacyjną mają hipotezy opisujące mechanizmy i moderatory.
-
-## Bibliografia
+- Większą wartość translacyjną mają hipotezy opisujące mechanizmy i moderatory.## Bibliografia
 
 1. Popper, K. (2002). *The Logic of Scientific Discovery*. Routledge.
 2. Preregistration Task Force. (2021). Preregistration standards in psychology. *Meta-Psychology*.

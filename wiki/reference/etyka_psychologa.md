@@ -159,8 +159,6 @@ Dobrą praktyką jest rozpoczynanie pracy od jasnego celu, kryteriow oceny poste
 Czestym bł‚edem jest stosowanie jednego schematu postepowania niezależnie od kontekstu, potrzeb i możliwoł›ci danej osoby lub grupy. Problemem bywa rownież opieranie decyzji na intuicji bez sprawdzania jakoł›ci danych i aktualnych rekomendacji. W praktyce prowadzi to do nietrafnych interwencji, spadku motywacji oraz utraty zaufania do procesu wsparcia. Zł‚ą praktyką jest także pomijanie czynnikow systemowych, takich jak warunki ł›rodowiskowe czy bariery organizacyjne. Konsekwencje obejmują nie tylko sł‚absze efekty, ale rownież ryzyko wtornej szkody psychologicznej.## Perspektywa nieoczywista
 
 ## PodsumowanieNieoczywista perspektywa polega na przesunieciu uwagi z pytania â€žco jest nie takâ€ť na pytanie â€žjakie warunki podtrzymują aktualny wzorzec funkcjonowaniaâ€ť. Taki punkt widzenia pozwala dostrzec, że czeł›ć zachował„ ocenianych jako problemowe peł‚ni funkcje adaptacyjną w krotkim horyzoncie czasu. W badaniach oznacza to potrzebe analizy kosztow i korzył›ci z perspektywy uczestnika, a nie wył‚ącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celow i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudnoł›ci, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
-
 ## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).

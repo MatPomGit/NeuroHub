@@ -55,9 +55,7 @@ Popularne ujęcie traumy transgeneracyjnej często przybiera formę narracji det
 
 
 
-Trauma relacyjna i jej systemowe następstwa wymagają podejścia integrującego pracę z jednostką i z rodziną. System rodzinny może być zarówno nośnikiem traumy (przez wzorce przekazywane pokoleniowo), jak i zasobem w jej przetwarzaniu. Skuteczna terapia traumy systemowej zmienia nie tylko jednostkę, lecz klimat emocjonalny i wzorce regulacji całej rodziny - tworząc warunki do przerwania transgeneracyjnej transmisji cierpienia.
-
-## Bibliografia
+Trauma relacyjna i jej systemowe następstwa wymagają podejścia integrującego pracę z jednostką i z rodziną. System rodzinny może być zarówno nośnikiem traumy (przez wzorce przekazywane pokoleniowo), jak i zasobem w jej przetwarzaniu. Skuteczna terapia traumy systemowej zmienia nie tylko jednostkę, lecz klimat emocjonalny i wzorce regulacji całej rodziny - tworząc warunki do przerwania transgeneracyjnej transmisji cierpienia.## Bibliografia
 
 1. Herman, J. L. (1992). *Trauma and Recovery*. Basic Books.
 2. Bowlby, J. (1988). *A Secure Base: Parent-Child Attachment and Healthy Human Development*. Basic Books.

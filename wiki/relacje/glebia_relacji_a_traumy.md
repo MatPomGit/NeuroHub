@@ -104,9 +104,7 @@ W psychoterapii ekspozycja na treści traumatyczne jest prowadzona w kontrolowan
 - Najważniejsze są: zgoda, tempo, granice i zdolność regulacji emocji.
 - Kiedy rozmowy o traumie zastępują całą relację, warto zatrzymać się i włączyć profesjonalne wsparcie.
 
----
-
-## Bibliografia (APA 7)
+---## Bibliografia (APA 7)
 Wpisy bibliograficzne zapisuj konsekwentnie w APA 7 oraz dodawaj DOI/URL i oznaczenie typu źródła (`[Typ: ...]`) tam, gdzie to możliwe.
 
 
@@ -115,8 +113,6 @@ Wpisy bibliograficzne zapisuj konsekwentnie w APA 7 oraz dodawaj DOI/URL i oznac
 - Levine, P. A. (2010). *In an Unspoken Voice*. North Atlantic Books.
 - van der Kolk, B. A. (2014). *The Body Keeps the Score*. Viking.
 - Siegel, D. J. (2012). *The Developing Mind* (2nd ed.). Guilford Press.
-
-
 
 
 

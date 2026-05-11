@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -126,9 +126,7 @@ W każdym dylemacie etycznym **dokumentacja procesu decyzyjnego** jest kluczowa:
 
 Dokumentacja chroni zarówno klienta (transparentność), jak i psychologa (wykazanie należytej staranności).
 
----
-
-## Bibliografia
+---## Bibliografia
 
 1. Kitchener, K. S. (1984). Intuition, critical evaluation, and ethical principles: The foundation for ethical decisions in counseling psychology. *Counseling Psychologist, 12*(3), 43–55.
 2. Beauchamp, T. L., & Childress, J. F. (2019). *Principles of Biomedical Ethics* (8th ed.). Oxford University Press.
@@ -139,10 +137,19 @@ Dokumentacja chroni zarówno klienta (transparentność), jak i psychologa (wyka
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Dylematy etyczne w praktyce psychologa" polega na tym, że etyka zawodowa nie sprowadza się do mechanicznego stosowania reguł, lecz wymaga ważenia dóbr, ryzyk i odpowiedzialności w warunkach niepewności.
+
+Dopiero wspólna analiza zagadnień takich jak czym jest dylemat etyczny?, dylematy konfidencjalności oraz dokumentacja i ochrona psychologa pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
+Temat "Dylematy etyczne w praktyce psychologa" pokazuje, że najbardziej dojrzałe wnioski etyczne wynikają z łączenia zasad, kontekstu sytuacyjnego i refleksji nad skutkami decyzji.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak czym jest dylemat etyczny?, dylematy konfidencjalności oraz dokumentacja i ochrona psychologa pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

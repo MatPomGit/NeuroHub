@@ -55,9 +55,7 @@ IFS stoi w wyraźnej opozycji do redukcjonistycznej psychiatrii biologicznej. Sc
 
 
 
-Internal Family Systems oferuje unikalne połączenie teorii systemowej z pracą wewnętrzną i elementami psychologii głębi. Model zakłada, że każda psychika jest zorganizowana jak rodzina - z hierarchiami, sojuszami i wygnaniami - i że zmiana terapeutyczna polega na przywróceniu Jaźni roli lidera tego systemu. Podejście to jest szczególnie wartościowe w pracy z traumą, wstydem i zaburzeniami odżywiania, a jego empiryczna baza systematycznie rośnie.
-
-## Bibliografia
+Internal Family Systems oferuje unikalne połączenie teorii systemowej z pracą wewnętrzną i elementami psychologii głębi. Model zakłada, że każda psychika jest zorganizowana jak rodzina - z hierarchiami, sojuszami i wygnaniami - i że zmiana terapeutyczna polega na przywróceniu Jaźni roli lidera tego systemu. Podejście to jest szczególnie wartościowe w pracy z traumą, wstydem i zaburzeniami odżywiania, a jego empiryczna baza systematycznie rośnie.## Bibliografia
 
 1. Schwartz, R. C. (1995). *Internal Family Systems Therapy*. Guilford Press.
 2. Schwartz, R. C., & Sweezy, M. (2020). *Internal Family Systems Therapy* (2nd ed.). Guilford Press.

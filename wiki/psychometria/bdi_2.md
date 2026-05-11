@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -123,10 +123,17 @@ University of Coimbra, Psychological Assessment Lab. Beck Depression Inventory-I
 Jeżeli chcesz, mogę od razu przygotować drugą część tego tekstu z praktyczną interpretacją pozycji BDI-II, typowymi pułapkami klinicznymi i przykładowym opisem wyniku w opinii psychologicznej.
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "bdi 2" polega na tym, że wartość narzędzia psychometrycznego nie wynika z samej popularności testu, lecz z jakości jego trafności, rzetelności i adekwatności do konkretnego celu decyzji.
+
+W praktyce najwięcej wyjaśnia spojrzenie łączące mechanizm, kontekst i konsekwencje działania.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
+Temat "bdi 2" pokazuje, że najważniejsze pozostaje odróżnianie pomiaru od interpretacji oraz świadome uwzględnianie ograniczeń metodologicznych narzędzia.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 ## Bibliografia
 

@@ -139,9 +139,7 @@ Nie wszystkie dzieci narażone na traumę rozwijają zaburzenia. Kluczowe czynni
 
 Trauma rozwojowa nie jest wyłącznie problemem przeszłości - jest biologicznie inkorporowana w ciało i umysł. Jednak rozumienie neurobiologicznych i relacyjnych mechanizmów traumy otwiera drogę do efektywnych interwencji. Współczesna psychoterapia traumy, integrując podejścia somatyczne, poznawcze i relacyjne, zdolna jest przywrócić regulację, tożsamość i zdolność do bliskich relacji.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Felitti, V. J., Anda, R. F., Nordenberg, D., et al. (1998). Relationship of childhood abuse and household dysfunction to many of the leading causes of death in adults. *American Journal of Preventive Medicine*, 14(4), 245–258.
 - Herman, J. L. (1992). *Trauma and Recovery*. Basic Books.
@@ -152,9 +150,19 @@ Trauma rozwojowa nie jest wyłącznie problemem przeszłości - jest biologiczni
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Trauma rozwojowa" polega na tym, że rozwój nie jest prostą sekwencją etapów, lecz dynamiczną relacją między dojrzewaniem biologicznym, środowiskiem i doświadczeniem uczenia się.
+
+Dopiero wspólna analiza zagadnień takich jak definicja i kontekst kliniczny, diagnoza i trudności diagnostyczne oraz reziliencja i czynniki ochronne pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Trauma rozwojowa" pokazuje, że najbardziej trafne podsumowanie wymaga łączenia perspektywy etapowej z analizą różnic indywidualnych, kontekstu i plastyczności.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak definicja i kontekst kliniczny, diagnoza i trudności diagnostyczne oraz reziliencja i czynniki ochronne pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

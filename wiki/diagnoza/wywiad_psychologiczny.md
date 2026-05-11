@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -126,9 +126,7 @@ Notatki z wywiadu powinny zawierać:
 
 Dokumentacja jest objęta **tajemnicą zawodową** i podlega przepisom RODO (rozporządzenie UE 2016/679).
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Morrison, J. (2014). *Wywiad diagnostyczny. Podręcznik DSM-5*. Wydawnictwo UJ.
 - Sheehan, D. V. i in. (1998). The Mini-International Neuropsychiatric Interview. *Journal of Clinical Psychiatry, 59*(Suppl. 20), 22–33.
@@ -138,10 +136,19 @@ Dokumentacja jest objęta **tajemnicą zawodową** i podlega przepisom RODO (roz
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Wywiad psychologiczny" polega na tym, że w diagnozie najwięcej błędów powstaje nie na poziomie pojedynczej techniki, lecz na etapie wnioskowania z danych o różnej jakości i pochodzeniu.
+
+Dopiero wspólna analiza zagadnień takich jak definicja i funkcja, techniki aktywnego słuchania oraz dokumentacja wywiadu pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
+Temat "Wywiad psychologiczny" pokazuje, że najbardziej użyteczna diagnoza łączy precyzję metodologiczną z uważnością na kontekst, relację i ograniczenia interpretacji.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak definicja i funkcja, techniki aktywnego słuchania oraz dokumentacja wywiadu pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

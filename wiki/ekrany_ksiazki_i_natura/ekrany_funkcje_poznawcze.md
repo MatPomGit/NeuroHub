@@ -93,9 +93,7 @@ Na podstawie dostępnych dowodów badacze formułują kilka ogólnych zaleceń:
 
 
 
-Ekrany cyfrowe są narzędziami o ogromnym potencjale - edukacyjnym, twórczym i społecznym. Jednak środowisko cyfrowe, jeśli nie jest świadomie zarządzane, może stopniowo erodować zasoby poznawcze niezbędne do głębokiej koncentracji, refleksji i długotrwałego zapamiętywania. Rozumienie mechanizmów tych wpływów to pierwszy krok do świadomego korzystania z technologii - nie odrzucenia jej, ale uczynienia z niej prawdziwego narzędzia, a nie pana.
-
-## Bibliografia
+Ekrany cyfrowe są narzędziami o ogromnym potencjale - edukacyjnym, twórczym i społecznym. Jednak środowisko cyfrowe, jeśli nie jest świadomie zarządzane, może stopniowo erodować zasoby poznawcze niezbędne do głębokiej koncentracji, refleksji i długotrwałego zapamiętywania. Rozumienie mechanizmów tych wpływów to pierwszy krok do świadomego korzystania z technologii - nie odrzucenia jej, ale uczynienia z niej prawdziwego narzędzia, a nie pana.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

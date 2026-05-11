@@ -112,9 +112,7 @@ Takie podejście minimalizuje ryzyko *imposed etic* przy zachowaniu możliwości
 | Ograniczenia | trudność porównań, subiektywność badacza | ryzyko *imposed etic*, powierzchowność |
 | Zastosowanie | badania jednej kultury, generowanie teorii | badania porównawcze, testowanie hipotez |
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Berry, J. W. (1969). On cross-cultural comparability. *International Journal of Psychology, 4*(2), 119–128.
 - Berry, J. W. (1989). Imposed etics–emics–derived etics: The operationalization of a compelling idea. *International Journal of Psychology, 24*(6), 721–735.
@@ -140,8 +138,6 @@ W praktyce oznacza to również konieczność dokumentowania decyzji translators
 - Traktowanie tłumaczenia jako pełnej adaptacji kulturowej.
 - Porównywanie średnich bez sprawdzenia inwariancji pomiaru.
 - Pomijanie zmiennych kontekstowych (migracja, status mniejszościowy, normy religijne).
-
-
 
 
 

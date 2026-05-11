@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -36,10 +36,19 @@ Masters i Johnson (1966) opracowali pierwszą terapię seksualną. Współczesne
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Dysfunkcje seksualne" polega na tym, że seksualność najtrafniej opisuje się jako obszar współtworzony przez ciało, znaczenia kulturowe, relacje i doświadczenie bezpieczeństwa.
+
+Dopiero wspólna analiza zagadnień takich jak czym są dysfunkcje seksualne?, zaburzenia u kobiet oraz podejście biopsychospołeczne pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
+Temat "Dysfunkcje seksualne" pokazuje, że najbardziej użyteczne wnioski wynikają z łączenia perspektywy biologicznej, relacyjnej i rozwojowej bez moralizowania i redukcjonizmu.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak czym są dysfunkcje seksualne?, zaburzenia u kobiet oraz podejście biopsychospołeczne pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

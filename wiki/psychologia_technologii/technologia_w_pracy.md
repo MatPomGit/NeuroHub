@@ -55,9 +55,7 @@ Nieoczywiste ujęcie wskazuje, że technologia może **zwiększać autonomię** 
 
 
 
-Wpływ technologii na pracę zależy od równowagi między wymaganiami, kontrolą i normami organizacyjnymi. Ochrona granic oraz transparentne zarządzanie danymi to warunki konieczne, by cyfryzacja wzmacniała produktywność bez kosztu psychologicznego.
-
-## Bibliografia
+Wpływ technologii na pracę zależy od równowagi między wymaganiami, kontrolą i normami organizacyjnymi. Ochrona granic oraz transparentne zarządzanie danymi to warunki konieczne, by cyfryzacja wzmacniała produktywność bez kosztu psychologicznego.## Bibliografia
 
 1. Bakker, A. B., & Demerouti, E. (2017). Job demands–resources theory: Taking stock and looking forward. *Journal of Occupational Health Psychology*, 22(3), 273–285.
 2. Eurofound & ILO. (2017). *Working anytime, anywhere: The effects on the world of work*.

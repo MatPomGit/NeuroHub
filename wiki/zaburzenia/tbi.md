@@ -42,9 +42,7 @@ W dyskusji publicznej dominuje obraz TBI jako problemu sportowego. Alternatywnie
 
 - TBI to grupa heterogenicznych urazów o zróżnicowanej dynamice.
 - Diagnoza wymaga podejścia wielowymiarowego, nie tylko skali GCS.
-- Rehabilitacja powinna być etapowa i oparta na obiektywnych wskaźnikach poprawy.
-
-## Bibliografia
+- Rehabilitacja powinna być etapowa i oparta na obiektywnych wskaźnikach poprawy.## Bibliografia
 1. McCrory, P., et al. (2017). Consensus statement on concussion in sport. *British Journal of Sports Medicine, 51*(11), 838–847.
 2. Menon, D. K., et al. (2010). Position statement: definition of traumatic brain injury. *Archives of Physical Medicine and Rehabilitation, 91*(11), 1637–1640.
 3. Maas, A. I. R., et al. (2017). Traumatic brain injury: integrated approaches to improve prevention, clinical care, and research. *The Lancet Neurology, 16*(12), 987–1048.

@@ -114,9 +114,7 @@ Ucieleśnione poznanie znalazło bezpośrednie zastosowanie w praktyce kliniczne
 
 Ucieleśnione poznanie zrewolucjonizowało rozumienie relacji umysłu i ciała, przesuwając punkt ciężkości z abstrakcyjnych reprezentacji na konkretne, cielesne doświadczenie. Linia od Merleau-Ponty'ego przez Barsalou do Rizzolattiego tworzy spójną narrację: myślimy ciałem, rozumiemy innych przez symulowanie ich cielesnych stanów, a nasze pojęcia i metafory są głęboko zakorzenione w doświadczeniu zmysłowym i motorycznym. Implikacje wykraczają daleko poza akademicką psychologię - docierają do sal terapeutycznych, klas szkolnych i projektowania środowisk sprzyjających ludzkiemu myśleniu.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Barsalou, L. W. (1999). Perceptual symbol systems. *Behavioral and Brain Sciences, 22*(4), 577–609.
 - Bargh, J. A., & Sartori, G. (Eds.). (2008). Social embodiment. *Advances in Experimental Social Psychology, 43*.
@@ -129,9 +127,19 @@ Ucieleśnione poznanie zrewolucjonizowało rozumienie relacji umysłu i ciała, 
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Ucieleśnione poznanie (Embodied Cognition)" polega na tym, że pojedynczy proces poznawczy najczęściej nie wyjaśnia zachowania samodzielnie; jego znaczenie ujawnia się w relacji do obciążenia, celu działania i innych systemów kontroli.
+
+Dopiero wspólna analiza zagadnień takich jak kontrast z klasycznym kogniwiztem, dowody eksperymentalne oraz krytyka i ograniczenia pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Ucieleśnione poznanie (Embodied Cognition)" pokazuje, że najbardziej użyteczne wnioski pojawiają się wtedy, gdy łączy się opis mechanizmu z ograniczeniami zasobów poznawczych i konsekwencjami praktycznymi.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak kontrast z klasycznym kogniwiztem, dowody eksperymentalne oraz krytyka i ograniczenia pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

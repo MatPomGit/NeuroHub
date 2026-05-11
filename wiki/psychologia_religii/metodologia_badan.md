@@ -54,9 +54,7 @@ Wysoka jakość metodologiczna nie musi oznaczać wyłącznie coraz bardziej zł
 - Kluczowa jest wielowymiarowa operacjonalizacja religijności.
 - Projekt badania powinien wynikać z pytania badawczego, zwłaszcza gdy interesuje nas przyczynowość.
 - Kontrola zmiennych zakłócających i transparentne raportowanie to warunek wiarygodności.
-- Metodologia w tej dziedzinie wymaga równowagi między rygorem statystycznym a wrażliwością kulturową.
-
-## Bibliografia
+- Metodologia w tej dziedzinie wymaga równowagi między rygorem statystycznym a wrażliwością kulturową.## Bibliografia
 1. Hill, P. C., et al. (2021). Methodological challenges in the psychology of religion. *Archive for the Psychology of Religion*, 43(3), 187-205.
 2. Paloutzian, R. F., & Park, C. L. (Eds.). (2013). *Handbook of the Psychology of Religion and Spirituality* (2nd ed.). Guilford Press.
 3. Pargament, K. I. (2011). *Spiritually Integrated Psychotherapy*. Guilford Press.

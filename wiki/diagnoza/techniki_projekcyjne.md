@@ -162,9 +162,7 @@ Techniki projekcyjne są **uzasadnione jako element wielometodowej baterii diagn
 
 Techniki projekcyjne stanowią wartościowy element arsenału diagnostycznego psychologa klinicznego - pod warunkiem stosowania znormalizowanych systemów kodowania, osadzenia wyników w kontekście wielometodowym oraz krytycznej świadomości ograniczeń empirycznych. Ich największą siłą jest dostęp do danych jakościowych i dynamicznych, których kwestionariusze samoopisu nie mogą dostarczyć.
 
----
-
-## Bibliografia zalecana
+---## Bibliografia zalecana
 
 - Meyer, G. J., & Archer, R. P. (2001). *The hard science of Rorschach research*. Psychological Assessment, 13(4), 486–502.
 - Lilienfeld, S. O., Wood, J. M., & Garb, H. N. (2000). *The scientific status of projective techniques*. Psychological Science in the Public Interest, 1(2), 27–66.
@@ -173,9 +171,19 @@ Techniki projekcyjne stanowią wartościowy element arsenału diagnostycznego ps
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Techniki projekcyjne" polega na tym, że w diagnozie najwięcej błędów powstaje nie na poziomie pojedynczej techniki, lecz na etapie wnioskowania z danych o różnej jakości i pochodzeniu.
+
+Dopiero wspólna analiza zagadnień takich jak czym są techniki projekcyjne?, rzetelność i trafność - kontrowersje oraz bibliografia zalecana pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Techniki projekcyjne" pokazuje, że najbardziej użyteczna diagnoza łączy precyzję metodologiczną z uważnością na kontekst, relację i ograniczenia interpretacji.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak czym są techniki projekcyjne?, rzetelność i trafność - kontrowersje oraz bibliografia zalecana pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

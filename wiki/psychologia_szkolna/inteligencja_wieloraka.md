@@ -66,9 +66,19 @@ Teoria inteligencji wielorakich Gardnera, mimo kontrowersji naukowych, wywarła 
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Teoria inteligencji wielorakich" polega na tym, że trudności szkolne rzadko wynikają z pojedynczej cechy ucznia; zwykle odzwierciedlają relację między wymaganiami szkoły, wsparciem, klimatem klasy i profilem rozwojowym dziecka.
+
+Dopiero wspólna analiza zagadnień takich jak osiem inteligencji, krytyka teorii oraz porównanie z triadyczną teorią sternberga pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Teoria inteligencji wielorakich" pokazuje, że najbardziej użyteczne są wnioski, które łączą perspektywę ucznia, nauczyciela i systemu edukacyjnego.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak osiem inteligencji, krytyka teorii oraz porównanie z triadyczną teorią sternberga pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

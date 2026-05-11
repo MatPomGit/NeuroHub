@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -58,10 +58,19 @@ W klasyfikacjach DSM-5 i ICD-11 pojawiły się nowe kategorie (np. *somatic symp
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Historia psychosomatyki" polega na tym, że związek ciała i psychiki najtrafniej rozumieć jako dwukierunkową regulację, a nie prosty model psychicznej przyczyny objawu somatycznego.
+
+Dopiero wspólna analiza zagadnień takich jak starożytne i nowożytne korzenie, krytyka psychoanalizy i zwrot ku naukom biologicznym (lata 60.–80.) oraz współczesna psychosomatyka (od lat 90.) pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
+Temat "Historia psychosomatyki" pokazuje, że największą wartość ma integrowanie danych biologicznych, emocjonalnych i relacyjnych bez redukcjonizmu w żadną stronę.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak starożytne i nowożytne korzenie, krytyka psychoanalizy i zwrot ku naukom biologicznym (lata 60.–80.) oraz współczesna psychosomatyka (od lat 90.) pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

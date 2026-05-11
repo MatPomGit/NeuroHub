@@ -226,9 +226,7 @@ Superwizja jest **fundamentem odpowiedzialnej praktyki** psychologicznej i psych
 
 Dobrze prowadzona superwizja sprawia, że terapeuta staje się lepszy, spokojniejszy i bardziej skuteczny - a pacjent otrzymuje opiekę na wyższym poziomie. W polskich realiach dostępność superwizji jest wciąż niewystarczająca w sektorze publicznym, jednak rosnąca świadomość środowiskowa i wymagania akredytacyjne powoli poprawiają ten stan rzeczy.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Hawkins, P., & Shohet, R. (2012). *Supervision in the Helping Professions* (4th ed.). Open University Press.
 - Bernard, J. M., & Goodyear, R. K. (2014). *Fundamentals of Clinical Supervision* (5th ed.). Pearson.
@@ -239,9 +237,19 @@ Dobrze prowadzona superwizja sprawia, że terapeuta staje się lepszy, spokojnie
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Superwizja w psychologii i psychoterapii" polega na tym, że skuteczność psychoterapii zależy nie tylko od nazwy nurtu, ale od jakości konceptualizacji, przymierza, dawkowania interwencji i dopasowania do pacjenta.
+
+Dopiero wspólna analiza zagadnień takich jak czym jest superwizja?, jak wygląda superwizja w polsce? oraz cechy dobrej superwizji pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Superwizja w psychologii i psychoterapii" pokazuje, że najbardziej praktyczne wnioski wynikają z łączenia modelu teoretycznego z uważnością na proces zmiany, relację i ograniczenia danej metody.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak czym jest superwizja?, jak wygląda superwizja w polsce? oraz cechy dobrej superwizji pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -34,10 +34,19 @@ Dobór stabilizatora zależy od: dominującej polarności nawrotów (mania vs. d
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Stabilizatory nastroju" polega na tym, że o wartości leczenia farmakologicznego decyduje nie sama znajomość mechanizmu działania leku, lecz umiejętność dopasowania terapii do profilu objawów, ryzyka i funkcjonowania pacjenta.
+
+Dopiero wspólna analiza zagadnień takich jak lit, lamotrygina oraz zasady kliniczne pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
+Temat "Stabilizatory nastroju" pokazuje, że najważniejsze jest łączenie wiedzy o mechanizmach działania z monitorowaniem skuteczności, bezpieczeństwa i współpracy terapeutycznej.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak lit, lamotrygina oraz zasady kliniczne pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

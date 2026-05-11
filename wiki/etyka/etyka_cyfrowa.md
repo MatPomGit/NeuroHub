@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -146,9 +146,7 @@ Pojawienie się platform takich jak BetterHelp, Talkspace (za granicą) lub Mind
 
 **Zasada**: psycholog wybierając platformę jest odpowiedzialny za weryfikację, że spełnia standardy etyczne i prawne.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 1. American Psychological Association (2020). *Guidelines for the Practice of Telepsychology*. APA.
 2. Simpson, S. G., & Reid, C. L. (2014). Therapeutic alliance in videoconferencing psychotherapy: A review. *Australian Journal of Rural Health, 22*(6), 280–299.
@@ -159,10 +157,19 @@ Pojawienie się platform takich jak BetterHelp, Talkspace (za granicą) lub Mind
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Etyka w psychologii cyfrowej i e-terapii" polega na tym, że etyka zawodowa nie sprowadza się do mechanicznego stosowania reguł, lecz wymaga ważenia dóbr, ryzyk i odpowiedzialności w warunkach niepewności.
+
+Dopiero wspólna analiza zagadnień takich jak prywatność i rodo w terapii online, granice w terapii online oraz platformy komercyjne vs. profesjonalne pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
+Temat "Etyka w psychologii cyfrowej i e-terapii" pokazuje, że najbardziej dojrzałe wnioski etyczne wynikają z łączenia zasad, kontekstu sytuacyjnego i refleksji nad skutkami decyzji.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak prywatność i rodo w terapii online, granice w terapii online oraz platformy komercyjne vs. profesjonalne pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

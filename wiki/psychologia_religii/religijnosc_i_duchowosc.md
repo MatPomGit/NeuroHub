@@ -57,9 +57,7 @@ Z kolei religijność instytucjonalna może działać jak "zewnętrzna pamięć 
 - Religijność i duchowość są powiązane, ale psychologicznie nierównoważne.
 - Każdy z tych stylów ma odmienny profil zasobów i ryzyka.
 - Trafna praktyka wymaga osobnego pomiaru afiliacji, praktyki i doświadczenia egzystencjalnego.
-- Rozróżnienie tych konstruktów poprawia diagnozę i planowanie interwencji.
-
-## Bibliografia
+- Rozróżnienie tych konstruktów poprawia diagnozę i planowanie interwencji.## Bibliografia
 1. Pew Research Center. (2023). *Spirituality and Organized Religion in the U.S.*
 2. VanderWeele, T. J., et al. (2017). Religious service attendance and mortality. *JAMA Internal Medicine*.
 3. Feuille, M., & Pargament, K. I. (2015). Pain, suffering, and religious struggle. *Psychology of Religion and Spirituality*.

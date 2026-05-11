@@ -61,9 +61,7 @@ Nieoczywista perspektywa mówi, że najważniejsza nie jest „dominacja” jedn
 
 
 
-Relacja między zachowaniem a półkulami mózgu jest rzeczywista, lecz subtelna. Nauka wspiera model współpracy i specjalizacji względnej, a nie prostą dychotomię dwóch „oddzielnych umysłów”.
-
-## Bibliografia
+Relacja między zachowaniem a półkulami mózgu jest rzeczywista, lecz subtelna. Nauka wspiera model współpracy i specjalizacji względnej, a nie prostą dychotomię dwóch „oddzielnych umysłów”.## Bibliografia
 
 1. Gazzaniga, M. S. (2000). Cerebral specialization and interhemispheric communication. *Brain, 123*(7), 1293–1326.
 2. Corballis, M. C. (2014). Left brain, right brain: facts and fantasies. *PLoS Biology, 12*(1), e1001767.

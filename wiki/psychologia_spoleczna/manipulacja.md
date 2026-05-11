@@ -235,9 +235,7 @@ Technologia stworzyła nowe narzędzia manipulacji o bezprecedensowej skali:
 | Izolacja | zależność emocjonalna | sekty, związki przemocowe |
 | Autorytet/aureola | heurystyka autorytetu | reklama, propaganda |
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Cialdini, R. B. (2009). *Wywieranie wpływu na ludzi. Teoria i praktyka* (wyd. 6). GWP.
 - Freedman, J. L., & Fraser, S. C. (1966). Compliance without pressure: The foot-in-the-door technique. *Journal of Personality and Social Psychology, 4*(2), 195–202.
@@ -251,9 +249,19 @@ Technologia stworzyła nowe narzędzia manipulacji o bezprecedensowej skali:
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Manipulacja - mechanizmy i metody wpływu" polega na tym, że wiele zjawisk społecznych wydaje się cechą jednostki, choć w rzeczywistości jest produktem norm, sytuacji i architektury relacji.
+
+Dopiero wspólna analiza zagadnień takich jak czym jest manipulacja?, manipulacja w środowiskach cyfrowych oraz ochrona przed manipulacją pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Manipulacja - mechanizmy i metody wpływu" pokazuje, że najważniejsze jest analizowanie jednocześnie procesów indywidualnych i warunków społecznych, które wzmacniają określone zachowania lub przekonania.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak czym jest manipulacja?, manipulacja w środowiskach cyfrowych oraz ochrona przed manipulacją pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

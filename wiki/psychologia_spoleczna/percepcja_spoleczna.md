@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -205,10 +205,19 @@ Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie 
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Percepcja społeczna i atrybucje" polega na tym, że wiele zjawisk społecznych wydaje się cechą jednostki, choć w rzeczywistości jest produktem norm, sytuacji i architektury relacji.
+
+Dopiero wspólna analiza zagadnień takich jak czym jest percepcja społeczna?, schematy i kategorie społeczne oraz dalsze lektury pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
+Temat "Percepcja społeczna i atrybucje" pokazuje, że najważniejsze jest analizowanie jednocześnie procesów indywidualnych i warunków społecznych, które wzmacniają określone zachowania lub przekonania.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak czym jest percepcja społeczna?, schematy i kategorie społeczne oraz dalsze lektury pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

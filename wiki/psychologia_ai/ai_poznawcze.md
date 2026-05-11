@@ -147,8 +147,6 @@ Dobr praktyk jest rozpoczynanie pracy od jasnego celu, kryteri�w oceny post
 Czstym bBdem jest stosowanie jednego schematu postpowania niezale|nie od kontekstu, potrzeb i mo|liwo[ci danej osoby lub grupy. Problemem bywa r�wnie| opieranie decyzji na intuicji bez sprawdzania jako[ci danych i aktualnych rekomendacji. W praktyce prowadzi to do nietrafnych interwencji, spadku motywacji oraz utraty zaufania do procesu wsparcia. ZB praktyk jest tak|e pomijanie czynnik�w systemowych, takich jak warunki [rodowiskowe czy bariery organizacyjne. Konsekwencje obejmuj nie tylko sBabsze efekty, ale r�wnie| ryzyko wt�rnej szkody psychologicznej.## Perspektywa nieoczywista
 
 ## PodsumowanieNieoczywista perspektywa polega na przesuniciu uwagi z pytania co jest nie tak na pytanie jakie warunki podtrzymuj aktualny wzorzec funkcjonowania. Taki punkt widzenia pozwala dostrzec, |e cz[ zachowaD ocenianych jako problemowe peBni funkcj adaptacyjn w kr�tkim horyzoncie czasu. W badaniach oznacza to potrzeb analizy koszt�w i korzy[ci z perspektywy uczestnika, a nie wyBcznie obserwatora. W praktyce mo|e to prowadzi do bardziej realistycznych cel�w i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudno[ci, lecz porzdkuje je w kategoriach funkcji i kontekstu.
-
-
 ## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).

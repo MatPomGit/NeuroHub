@@ -58,9 +58,19 @@ Rola biegłego psychologa sądowego jest wyjątkowa i wielowymiarowa: łączy wi
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Rola i status biegłego psychologa sądowego" polega na tym, że w psychologii sądowej najważniejsze jest nie tylko to, co badany przeżywa, ale również to, jak wiarygodnie można tę informację udokumentować i uzasadnić przed sądem.
+
+Dopiero wspólna analiza zagadnień takich jak definicja i formalna pozycja biegłego, kompetencje biegłego psychologa oraz wynagrodzenie i czas trwania opiniowania pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Rola i status biegłego psychologa sądowego" pokazuje, że kluczowe pozostaje łączenie standardów naukowych, prawnych i etycznych przy formułowaniu opinii oraz ograniczeń wnioskowania.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak definicja i formalna pozycja biegłego, kompetencje biegłego psychologa oraz wynagrodzenie i czas trwania opiniowania pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

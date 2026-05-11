@@ -139,9 +139,7 @@ Dla 69% problemów nierozwiązywalnych Gottman proponuje nie szukanie rozwiązan
 | Demand-withdraw | Christensen & Heavey (1990) | obie strony muszą przerwać wzorzec |
 | Miękkie rozpoczęcie | Gottman | zaczyna od uczucia, nie od ataku |
 
----
-
-## Bibliografia (APA 7)
+---## Bibliografia (APA 7)
 Wpisy bibliograficzne zapisuj konsekwentnie w APA 7 oraz dodawaj DOI/URL i oznaczenie typu źródła (`[Typ: ...]`) tam, gdzie to możliwe.
 
 
@@ -151,8 +149,6 @@ Wpisy bibliograficzne zapisuj konsekwentnie w APA 7 oraz dodawaj DOI/URL i oznac
 - Gottman, J. M., & DeClaire, J. (2001). *The Relationship Cure*. Crown.
 - Linehan, M. M. (1993). *Cognitive-Behavioral Treatment of Borderline Personality Disorder*. Guilford.
 - Thomas, K. W., & Kilmann, R. H. (1974). *Thomas-Kilmann Conflict Mode Instrument*. Xicom.
-
-
 
 
 

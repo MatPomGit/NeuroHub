@@ -95,9 +95,19 @@ Logoterapia Frankla to odpowiedź na fundamentalne pytanie ludzkiej egzystencji:
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Logoterapia - podejście Viktora Frankla" polega na tym, że skuteczność psychoterapii zależy nie tylko od nazwy nurtu, ale od jakości konceptualizacji, przymierza, dawkowania interwencji i dopasowania do pacjenta.
+
+Dopiero wspólna analiza zagadnień takich jak czym jest logoterapia?, techniki terapeutyczne oraz spuścizna i wpływy pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Logoterapia - podejście Viktora Frankla" pokazuje, że najbardziej praktyczne wnioski wynikają z łączenia modelu teoretycznego z uważnością na proces zmiany, relację i ograniczenia danej metody.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak czym jest logoterapia?, techniki terapeutyczne oraz spuścizna i wpływy pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

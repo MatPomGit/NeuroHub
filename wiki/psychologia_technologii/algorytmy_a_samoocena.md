@@ -55,9 +55,7 @@ Nieoczywista perspektywa mówi, że algorytmy mogą również **wzmacniać samoo
 
 
 
-Algorytmy personalizacji wpływają na samoocenę przez selekcję bodźców, sprzężenia zwrotne i normy porównań społecznych. Ryzyko można istotnie ograniczać dzięki świadomemu zarządzaniu feedem, krytycznej analizie wskaźników społecznych i budowaniu samooceny opartej na wartościach wewnętrznych.
-
-## Bibliografia
+Algorytmy personalizacji wpływają na samoocenę przez selekcję bodźców, sprzężenia zwrotne i normy porównań społecznych. Ryzyko można istotnie ograniczać dzięki świadomemu zarządzaniu feedem, krytycznej analizie wskaźników społecznych i budowaniu samooceny opartej na wartościach wewnętrznych.## Bibliografia
 
 1. Fardouly, J., Diedrichs, P. C., Vartanian, L. R., & Halliwell, E. (2015). Social comparisons on social media: The impact of Facebook on young women’s body image concerns and mood. *Body Image*, 13, 38–45.
 2. Kross, E., Verduyn, P., Demiralp, E., et al. (2013). Facebook use predicts declines in subjective well-being in young adults. *PLOS ONE*, 8(8), e69841.

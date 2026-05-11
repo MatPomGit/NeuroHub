@@ -56,9 +56,7 @@ Chatboty terapeutyczne znalazły zastosowania w:
 
 ## Perspektywa nieoczywista
 
-Chatboty terapeutyczne i wsparcie AI są obiecującym, szybko rozwijającym się obszarem cyfrowego zdrowia psychicznego. Ich wartość jako narzędzi wsparcia i psychoedukacji jest empirycznie potwierdzona - szczególnie przy łagodnych objawach. Nie zastępują jednak relacji terapeutycznej z człowiekiem i wymagają odpowiedzialnego wdrażania z uwzględnieniem ograniczeń i ryzyk. Rolą psychologa jest krytyczna ocena tych narzędzi i ich integracja z praktyką kliniczną w sposób służący dobrostanowi pacjentów.
-
-## Bibliografia
+Chatboty terapeutyczne i wsparcie AI są obiecującym, szybko rozwijającym się obszarem cyfrowego zdrowia psychicznego. Ich wartość jako narzędzi wsparcia i psychoedukacji jest empirycznie potwierdzona - szczególnie przy łagodnych objawach. Nie zastępują jednak relacji terapeutycznej z człowiekiem i wymagają odpowiedzialnego wdrażania z uwzględnieniem ograniczeń i ryzyk. Rolą psychologa jest krytyczna ocena tych narzędzi i ich integracja z praktyką kliniczną w sposób służący dobrostanowi pacjentów.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -52,11 +52,14 @@ Personalizacja terapii na podstawie danych *n-of-1* - indywidualnych wzorców za
 
 E-terapia przeszła w ciągu 30 lat drogę od eksperymentalnych e-maili do globalnych platform i chatbotów AI. Jej historia odzwierciedla zarówno możliwości, jak i zagrożenia związane z cyfryzacją opieki zdrowotnej: dostępność, innowację i demokratyzację, ale też ryzyko dehumanizacji, naruszenia prywatności i pogłębienia nierówności.
 
-## Perspektywa nieoczywista
 
 ## Podsumowanie
 
-## Bibliografia
+Temat "Historia e-terapii i telemedycyny psychologicznej" pokazuje, że najważniejsze jest traktowanie e-terapii jako środowiska pracy klinicznej z własnymi ograniczeniami i przewagami, a nie jako prostego zamiennika kontaktu bezpośredniego.
+
+W praktyce oznacza to potrzebę łączenia danych, kontekstu i celu działania zamiast opierania się na pojedynczym wskaźniku lub uproszczonej interpretacji.
+
+Dopiero wspólna analiza zagadnień takich jak prehistoria - telekomunikacja w psychiatrii, era smartfonów i aplikacji oraz przyszłość - sztuczna inteligencja i wirtualna rzeczywistość pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

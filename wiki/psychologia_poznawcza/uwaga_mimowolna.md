@@ -246,9 +246,19 @@ Zaburzenia obu mechanizmów - od ADHD przez PTSD, OCD po neglekt przestrzenny - 
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Uwaga mimowolna - wyrazista i niewyrazista" polega na tym, że pojedynczy proces poznawczy najczęściej nie wyjaśnia zachowania samodzielnie; jego znaczenie ujawnia się w relacji do obciążenia, celu działania i innych systemów kontroli.
+
+Dopiero wspólna analiza zagadnień takich jak podstawowe rozróżnienia terminologiczne, habituacja i odwrażliwienie uwagi mimowolnej oraz metody badawcze pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Uwaga mimowolna - wyrazista i niewyrazista" pokazuje, że najbardziej użyteczne wnioski pojawiają się wtedy, gdy łączy się opis mechanizmu z ograniczeniami zasobów poznawczych i konsekwencjami praktycznymi.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak podstawowe rozróżnienia terminologiczne, habituacja i odwrażliwienie uwagi mimowolnej oraz metody badawcze pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

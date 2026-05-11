@@ -118,9 +118,19 @@ Etyka AI z perspektywy psychologicznej to dziedzina pełna napięć: między teo
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Etyka AI z perspektywy psychologicznej" polega na tym, że najważniejsze pytania o AI dotyczą nie tylko sprawności systemu, lecz także tego, jak technologia przekształca uwagę, zaufanie, odpowiedzialność i relacje społeczne.
+
+Dopiero wspólna analiza zagadnień takich jak dlaczego ai potrzebuje etyki - i dlaczego etyka ai potrzebuje psychologii?, odpowiedzialność moralna w systemach ai oraz wpływ ai na moralność społeczną pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Etyka AI z perspektywy psychologicznej" pokazuje, że kluczowe pozostaje łączenie perspektywy technologicznej z psychologiczną analizą decyzji, emocji i skutków społecznych.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak dlaczego ai potrzebuje etyki - i dlaczego etyka ai potrzebuje psychologii?, odpowiedzialność moralna w systemach ai oraz wpływ ai na moralność społeczną pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

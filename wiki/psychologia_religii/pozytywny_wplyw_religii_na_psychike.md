@@ -64,9 +64,7 @@ Pozytywny wpływ religii na psychikę nie wynika wyłącznie z przekonań, lecz 
 - Religia może wspierać psychikę przez mechanizmy sensotwórcze, emocjonalne i społeczne.
 - Efekt ochronny jest warunkowy i zależy od jakości praktyk oraz relacji.
 - W klinice najważniejsza jest funkcjonalna ocena zasobów religijnych pacjenta.
-- Integracja religijności z psychoterapią powinna być etyczna i oparta na dowodach.
-
-## Bibliografia
+- Integracja religijności z psychoterapią powinna być etyczna i oparta na dowodach.## Bibliografia
 1. Koenig, H. G. (2023). Religion, spirituality, and mental health: An updated review. *International Review of Psychiatry*, 35(7-8), 583-599.
 2. Pargament, K. I. (2011). *Spiritually Integrated Psychotherapy*. Guilford Press.
 3. Ano, G. G., & Vasconcelles, E. B. (2005). Religious coping and adjustment to stress: A meta-analysis. *Journal of Clinical Psychology*, 61(4), 461-480.

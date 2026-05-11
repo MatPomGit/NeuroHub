@@ -135,9 +135,19 @@ Kodeksy etyczne - od APA przez PTP po Meta-Kodeks EFPA - tworzą wielopoziomową
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Kodeksy etyczne w psychologii - przegląd" polega na tym, że etyka zawodowa nie sprowadza się do mechanicznego stosowania reguł, lecz wymaga ważenia dóbr, ryzyk i odpowiedzialności w warunkach niepewności.
+
+Dopiero wspólna analiza zagadnień takich jak czym jest kodeks etyczny?, hierarchia norm etycznych i prawnych oraz znaczenie kodeksów w praktyce pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Kodeksy etyczne w psychologii - przegląd" pokazuje, że najbardziej dojrzałe wnioski etyczne wynikają z łączenia zasad, kontekstu sytuacyjnego i refleksji nad skutkami decyzji.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak czym jest kodeks etyczny?, hierarchia norm etycznych i prawnych oraz znaczenie kodeksów w praktyce pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

@@ -53,9 +53,7 @@ To odwraca popularną hierarchię, w której słowa są ważniejsze od sygnałó
 
 
 
-Neurofizjologia traumy w SE nie jest celem samym w sobie, ale mapą interwencji. Jej praktyczna wartość rośnie, gdy łączy się ją z monitorowaniem objawów, relacją terapeutyczną i elastycznym planem terapii. Wtedy teoria przestaje być abstrakcyjna i staje się narzędziem podejmowania konkretnych decyzji klinicznych.
-
-## Bibliografia
+Neurofizjologia traumy w SE nie jest celem samym w sobie, ale mapą interwencji. Jej praktyczna wartość rośnie, gdy łączy się ją z monitorowaniem objawów, relacją terapeutyczną i elastycznym planem terapii. Wtedy teoria przestaje być abstrakcyjna i staje się narzędziem podejmowania konkretnych decyzji klinicznych.## Bibliografia
 
 - Porges, S. W. (2011). The Polyvagal Theory. Norton.
 - Herman, J. L. (2015). Trauma and Recovery. Basic Books.

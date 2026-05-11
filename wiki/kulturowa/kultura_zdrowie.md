@@ -119,9 +119,7 @@ Zjawisko **podwójnej tożsamości kulturowej** może jednak być zasobem - biku
 | Adaptacja psychoterapii | Wymagana w pracy z pacjentami z odmiennych kręgów kulturowych |
 | Stres akulturacyjny | Rozpoznać jako specyficzny stresor w wywiadzie |
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - American Psychiatric Association (2013). *Diagnostic and Statistical Manual of Mental Disorders* (5th ed.). APA.
 - Benish, S. G., Quintana, S., & Wampold, B. E. (2011). Culturally adapted psychotherapy and the legitimacy of myth. *Journal of Counseling Psychology, 58*(3), 279–289.
@@ -147,8 +145,6 @@ Takie dane pomagają odróżniać różnice kulturowe od zaburzeń wymagających
 ### Ryzyko uproszczeń
 
 Nadmierne skupienie na „egzotyce kulturowej” może zaciemniać obraz kliniczny. Ocena powinna integrować zarówno kontekst kulturowy, jak i klasyczne wskaźniki nasilenia objawów, ryzyka samouszkodzeń oraz funkcjonowania psychospołecznego.
-
-
 
 
 

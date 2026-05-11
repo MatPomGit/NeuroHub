@@ -118,17 +118,13 @@ Lazarus i Folkman wyróżnili dwa główne style radzenia sobie (*coping*):
 
 Regulacja emocji jest więc **integralną częścią radzenia sobie ze stresem** - nie osobnym procesem. Strategie adaptacyjne (przeformułowanie poznawcze, akceptacja) i maladaptacyjne (tłumienie, ruminacja) różnią się skutecznością w zależności od kontekstu.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 1. Lazarus, R. S., & Folkman, S. (1984). *Stress, Appraisal, and Coping*. Springer.
 2. Lazarus, R. S. (1991). *Emotion and Adaptation*. Oxford University Press.
 3. McEwen, B. S. (1998). Stress, adaptation, and disease: Allostasis and allostatic load. *Annals of the New York Academy of Sciences, 840*, 33–44.
 4. Fredrickson, B. L. (2001). The role of positive emotions in positive psychology: The broaden-and-build theory. *American Psychologist, 56*(3), 218–226.
 5. Sapolsky, R. M. (2004). *Why Zebras Don't Get Ulcers* (3rd ed.). Holt Paperbacks.
-6. Gross, J. J. (2015). Emotion regulation: Current status and future prospects. *Psychological Inquiry, 26*(1), 1–26.
-
-## Bibliografia
+6. Gross, J. J. (2015). Emotion regulation: Current status and future prospects. *Psychological Inquiry, 26*(1), 1–26.## Bibliografia
 
 - Do uzupełnienia na podstawie źródeł cytowanych w artykule.

@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -120,9 +120,7 @@ Gutheil i Gabbard proponują analizę granic przez pryzmat **kontinuum** - od ry
 3. Czy jest to wzorzec stopniowego „osuwania się granic" (*slippery slope*)?
 4. Czy klient wyraził na to świadomą zgodę?
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Gutheil, T. G., & Gabbard, G. O. (1993). The concept of boundaries in clinical practice. *American Journal of Psychiatry, 150*(2), 188–196.
 - Pope, K. S. (1994). *Sexual involvement with therapists*. APA.
@@ -133,10 +131,19 @@ Gutheil i Gabbard proponują analizę granic przez pryzmat **kontinuum** - od ry
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Granice relacji terapeutycznej" polega na tym, że etyka zawodowa nie sprowadza się do mechanicznego stosowania reguł, lecz wymaga ważenia dóbr, ryzyk i odpowiedzialności w warunkach niepewności.
+
+Dopiero wspólna analiza zagadnień takich jak definicja i funkcja granic, seksualne nadużycia w relacji terapeutycznej oraz upominki, kontakt poza gabinetem, media społecznościowe pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
+Temat "Granice relacji terapeutycznej" pokazuje, że najbardziej dojrzałe wnioski etyczne wynikają z łączenia zasad, kontekstu sytuacyjnego i refleksji nad skutkami decyzji.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak definicja i funkcja granic, seksualne nadużycia w relacji terapeutycznej oraz upominki, kontakt poza gabinetem, media społecznościowe pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

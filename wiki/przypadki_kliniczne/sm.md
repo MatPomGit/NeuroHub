@@ -52,9 +52,7 @@ To przesuwa akcent z pytania „jak usunąć lęk?” na pytanie „jak przywró
 
 
 
-S.M. dostarczyła mocnych dowodów, że ciało migdałowate jest kluczowe dla detekcji zagrożeń zewnętrznych, ekspresji strachu i społecznej ostrożności. Jednocześnie panika wywołana CO₂ wskazuje, że architektura lęku jest sieciowa, a nie jednowęzłowa. Klinicznie oznacza to konieczność wielopoziomowej oceny ryzyka, łączącej neurobiologię, zachowanie i kontekst środowiskowy.
-
-## Bibliografia
+S.M. dostarczyła mocnych dowodów, że ciało migdałowate jest kluczowe dla detekcji zagrożeń zewnętrznych, ekspresji strachu i społecznej ostrożności. Jednocześnie panika wywołana CO₂ wskazuje, że architektura lęku jest sieciowa, a nie jednowęzłowa. Klinicznie oznacza to konieczność wielopoziomowej oceny ryzyka, łączącej neurobiologię, zachowanie i kontekst środowiskowy.## Bibliografia
 
 1. Adolphs, R., Tranel, D., Damasio, H., & Damasio, A. R. (1994). Impaired recognition of emotion in facial expressions following bilateral damage to the human amygdala. *Nature*, 372, 669–672.
 2. Adolphs, R., Gosselin, F., Buchanan, T. W., Tranel, D., Schyns, P., & Damasio, A. R. (2005). A mechanism for impaired fear recognition after amygdala damage. *Nature*, 433, 68–72.

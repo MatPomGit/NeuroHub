@@ -116,9 +116,7 @@ Osoby żyjące między kulturami - migranci, diaspora, drugie pokolenie - buduj�
 
 Osobowość jest zarówno biologicznie zakorzeniona, jak i kulturowo ukształtowana. Wielka Piątka dostarcza użytecznego, częściowo universalnego rusztowania, lecz nie wyczerpuje bogactwa kulturowych wzorców osobowości. Kultury honoru, twarzy i modele Ja pokazują, że to, co uznajemy za „cechy charakteru", jest głęboko osadzone w systemie wartości i praktyk społecznych danej kultury.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Cheung, F. M., Leung, K., Zhang, J. X., Sun, H. F., Gan, Y. Q., Song, W. Z., & Xie, D. (2001). Indigenous Chinese personality constructs. *Journal of Cross-Cultural Psychology, 32*(4), 407–433.
 - Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation. *Psychological Review, 98*(2), 224–253.
@@ -139,8 +137,6 @@ Rekomendowane działania:
 - łączenie samoopisu z danymi jakościowymi (wywiad, obserwacja, narracja biograficzna).
 
 Takie podejście wzmacnia trafność kliniczną i ogranicza ryzyko nadmiernej patologizacji odmienności kulturowej.
-
-
 
 
 

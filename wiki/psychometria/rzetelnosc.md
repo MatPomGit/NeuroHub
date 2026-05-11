@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -32,9 +32,7 @@ Stopień, w jakim wyniki testu są powtarzalne, spójne i wolne od błędu pomia
 
 ## Czynniki wpływające na rzetelność
 
-Rzetelność zwiększają: większa liczba pozycji testowych, mniejsza niejednoznaczność pytań, standaryzowane warunki badania i jednorodność próby. Obniżają ją: zgadywanie, zmęczenie, hałas, zmienne stany psychofizyczne badanego.[^nunnally1994]
-
-## Bibliografia (APA 7)
+Rzetelność zwiększają: większa liczba pozycji testowych, mniejsza niejednoznaczność pytań, standaryzowane warunki badania i jednorodność próby. Obniżają ją: zgadywanie, zmęczenie, hałas, zmienne stany psychofizyczne badanego.[^nunnally1994]## Bibliografia (APA 7)
 Wpisy bibliograficzne zapisuj konsekwentnie w APA 7 oraz dodawaj DOI/URL i oznaczenie typu źródła (`[Typ: ...]`) tam, gdzie to możliwe.
 
 
@@ -48,10 +46,19 @@ Wpisy bibliograficzne zapisuj konsekwentnie w APA 7 oraz dodawaj DOI/URL i oznac
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Rzetelność pomiaru" polega na tym, że wartość narzędzia psychometrycznego nie wynika z samej popularności testu, lecz z jakości jego trafności, rzetelności i adekwatności do konkretnego celu decyzji.
+
+Dopiero wspólna analiza zagadnień takich jak czym jest rzetelność?, błąd standardowy pomiaru (sem) oraz bibliografia (apa 7) pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
+Temat "Rzetelność pomiaru" pokazuje, że najważniejsze pozostaje odróżnianie pomiaru od interpretacji oraz świadome uwzględnianie ograniczeń metodologicznych narzędzia.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak czym jest rzetelność?, błąd standardowy pomiaru (sem) oraz bibliografia (apa 7) pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

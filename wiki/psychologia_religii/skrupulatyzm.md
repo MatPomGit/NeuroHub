@@ -53,9 +53,7 @@ Wbrew intuicji problemem w skrupulatyzmie nie jest "za dużo religii", lecz szty
 - Skrupulatyzm jest najczęściej wariantem OCD o treści religijno-moralnej.
 - Kluczowy mechanizm to błędne koło obsesji, kompulsji i krótkotrwałej ulgi.
 - Trafna diagnoza wymaga odróżnienia zaburzenia od normatywnej religijności.
-- Najlepsze wyniki daje leczenie oparte na ERP i współpracy uwzględniającej język wartości pacjenta.
-
-## Bibliografia
+- Najlepsze wyniki daje leczenie oparte na ERP i współpracy uwzględniającej język wartości pacjenta.## Bibliografia
 1. American Psychiatric Association. (2022). *Diagnostic and Statistical Manual of Mental Disorders* (5th ed., text rev.).
 2. Abramowitz, J. S., Deacon, B. J., & Whiteside, S. P. H. (2019). *Exposure Therapy for Anxiety* (2nd ed.). Guilford Press.
 3. Abramowitz, J. S., McKay, D., & Taylor, S. (Eds.). (2008). *Obsessive-Compulsive Disorder: Subtypes and Spectrum Conditions*. Elsevier.

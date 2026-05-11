@@ -106,9 +106,7 @@ Teoria przywiązania ma kluczowe zastosowania kliniczne:
 
 Teoria przywiązania odsłania, w jaki sposób relacyjny kontekst wczesnego dzieciństwa odciska swój ślad w strukturze mózgu, wzorcach emocjonalnych i sposobach budowania bliskości przez całe życie. Dziś należy do fundamentów psychologii klinicznej, psychoterapii, a także polityki społecznej nakierowanej na wspieranie rodzicielstwa.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Ainsworth, M. D. S., Blehar, M. C., Waters, E., & Wall, S. (1978). *Patterns of Attachment*. Erlbaum.
 - Bartholomew, K., & Horowitz, L. M. (1991). Attachment styles among young adults. *Journal of Personality and Social Psychology*, 61(2), 226–244.
@@ -122,9 +120,19 @@ Teoria przywiązania odsłania, w jaki sposób relacyjny kontekst wczesnego dzie
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Teoria przywiązania - od kołyski po dorosłość" polega na tym, że rozwój nie jest prostą sekwencją etapów, lecz dynamiczną relacją między dojrzewaniem biologicznym, środowiskiem i doświadczeniem uczenia się.
+
+Dopiero wspólna analiza zagadnień takich jak bowlby: biologiczne korzenie więzi, ciągłość przywiązania przez życie oraz kliniczne implikacje teorii przywiązania pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Teoria przywiązania - od kołyski po dorosłość" pokazuje, że najbardziej trafne podsumowanie wymaga łączenia perspektywy etapowej z analizą różnic indywidualnych, kontekstu i plastyczności.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak bowlby: biologiczne korzenie więzi, ciągłość przywiązania przez życie oraz kliniczne implikacje teorii przywiązania pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

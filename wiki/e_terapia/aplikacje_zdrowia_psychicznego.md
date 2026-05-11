@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -66,13 +66,10 @@ Psycholog lub psychiatra może rekomendować aplikacje mHealth jako:
 
 ## Perspektywa nieoczywista
 
-## Perspektywa nieoczywista
 
 
 
-Aplikacje mHealth stanowią ważny element ekosystemu cyfrowego zdrowia psychicznego - demokratyzując dostęp do narzędzi psychologicznych na niespotykaną dotąd skalę. Ich wartość kliniczna jest jednak zróżnicowana i wymaga krytycznej oceny. Psycholog rekomendujący aplikację pacjentowi powinien znać jej podstawy empiryczne, zakres zastosowań i ograniczenia.
-
-## Bibliografia
+Aplikacje mHealth stanowią ważny element ekosystemu cyfrowego zdrowia psychicznego - demokratyzując dostęp do narzędzi psychologicznych na niespotykaną dotąd skalę. Ich wartość kliniczna jest jednak zróżnicowana i wymaga krytycznej oceny. Psycholog rekomendujący aplikację pacjentowi powinien znać jej podstawy empiryczne, zakres zastosowań i ograniczenia.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

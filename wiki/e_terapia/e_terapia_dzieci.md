@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -55,11 +55,14 @@ E-terapia umożliwia też zdalne narzędzia diagnostyczne i monitoring. Aplikacj
 
 E-terapia dzieci i młodzieży jest obiecującą i dynamicznie rozwijającą się dziedziną. Jej sukces zależy od umiejętnego balansowania między technologiczną innowacją a klinicznymi standardami, dostosowaniem do etapu rozwojowego i kulturowego kontekstu oraz uważnym zarządzaniem kwestiami prawnymi i etycznymi. Terapeuta pracujący zdalnie z młodymi pacjentami musi być szczególnie dobrze przygotowany do nawigowania w tych złożonych obszarach.
 
-## Perspektywa nieoczywista
 
 ## Podsumowanie
 
-## Bibliografia
+Temat "E-terapia dzieci i młodzieży" pokazuje, że najważniejsze jest traktowanie e-terapii jako środowiska pracy klinicznej z własnymi ograniczeniami i przewagami, a nie jako prostego zamiennika kontaktu bezpośredniego.
+
+W praktyce oznacza to potrzebę łączenia danych, kontekstu i celu działania zamiast opierania się na pojedynczym wskaźniku lub uproszczonej interpretacji.
+
+Dopiero wspólna analiza zagadnień takich jak specyfika cyfrowego wsparcia dla młodych, kwestie prawne i etyczne oraz zdalna diagnoza i monitoring pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

@@ -55,9 +55,7 @@ Genogram bywa traktowany jako narzędzie do „odkrywania winy" przodków lub uz
 
 
 
-Genogram i analiza przekazu międzypokoleniowego otwierają wymiar terapeutyczny, którego nie osiąga się przez skupienie wyłącznie na bieżącym problemie. Wzorce wygenerowane przez poprzednie pokolenia - role, emocje, kryzysy, milczenia - tworzą niewidoczny kontekst dla życia klienta. Praca z genogramem jest jednocześnie diagnostyką i interwencją: pozwala nazwać, znormalizować i w końcu świadomie wybrać, co z rodzinnego dziedzictwa chce się kultywować, a czego nie kontynuować.
-
-## Bibliografia
+Genogram i analiza przekazu międzypokoleniowego otwierają wymiar terapeutyczny, którego nie osiąga się przez skupienie wyłącznie na bieżącym problemie. Wzorce wygenerowane przez poprzednie pokolenia - role, emocje, kryzysy, milczenia - tworzą niewidoczny kontekst dla życia klienta. Praca z genogramem jest jednocześnie diagnostyką i interwencją: pozwala nazwać, znormalizować i w końcu świadomie wybrać, co z rodzinnego dziedzictwa chce się kultywować, a czego nie kontynuować.## Bibliografia
 
 1. McGoldrick, M., & Gerson, R. (1985). *Genograms in Family Assessment*. Norton.
 2. McGoldrick, M., Gerson, R., & Petry, S. (2008). *Genograms: Assessment and Intervention* (3rd ed.). Norton.

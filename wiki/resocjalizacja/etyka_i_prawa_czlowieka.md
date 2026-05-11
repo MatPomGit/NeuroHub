@@ -33,9 +33,7 @@ Rodziny powinny znać prawa proceduralne i możliwości odwołania.
 Dowody empiryczne są **umiarkowane**, ale normatywne podstawy praw człowieka są **silne**.
 
 
-Skuteczność i etyka w resocjalizacji powinny być traktowane jako nierozdzielne.
-
-## Bibliografia
+Skuteczność i etyka w resocjalizacji powinny być traktowane jako nierozdzielne.## Bibliografia
 - Kazdin, A. E. (2021). *Research Design in Clinical Psychology* (5th ed.). Cambridge University Press.
 - NICE. (2022). *Guidelines and Quality Standards* (wybrane dokumenty dotyczące zdrowia psychicznego i interwencji psychospołecznych).
 - WHO. (2021). *Guidance on community mental health services*. World Health Organization.

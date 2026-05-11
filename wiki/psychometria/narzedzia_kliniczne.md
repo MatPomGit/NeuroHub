@@ -154,9 +154,7 @@ W modelu *Routine Outcome Monitoring* (np. IAPT w Wielkiej Brytanii, PCOMS w USA
 
 PHQ-9, GAD-7 i PCL-5 tworzą zwarte, komplementarne narzędzie przesiewowe dla trzech najczęstszych kategorii zaburzeń psychicznych: depresji, lęku i PTSD. Ich mocne strony - krótki czas wypełnienia, wysokie właściwości psychometryczne, bezpłatna dostępność i bezpośrednie powiązanie z kryteriami DSM-5 - sprawiają, że są niezastąpione zarówno w rutynowej praktyce klinicznej, jak i w badaniach naukowych. Polska adaptacja narzędzi jest dostępna, choć dane normatywne dla populacji polskiej wymagają dalszego rozwoju.
 
----
-
-## Bibliografia (APA 7)
+---## Bibliografia (APA 7)
 Wpisy bibliograficzne zapisuj konsekwentnie w APA 7 oraz dodawaj DOI/URL i oznaczenie typu źródła (`[Typ: ...]`) tam, gdzie to możliwe.
 
 
@@ -170,9 +168,19 @@ Wpisy bibliograficzne zapisuj konsekwentnie w APA 7 oraz dodawaj DOI/URL i oznac
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Narzędzia kliniczne: PHQ-9, GAD-7, PCL-5" polega na tym, że wartość narzędzia psychometrycznego nie wynika z samej popularności testu, lecz z jakości jego trafności, rzetelności i adekwatności do konkretnego celu decyzji.
+
+Dopiero wspólna analiza zagadnień takich jak phq-9 - kwestionariusz zdrowia pacjenta, tabela porównawcza właściwości psychometrycznych oraz bibliografia (apa 7) pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Narzędzia kliniczne: PHQ-9, GAD-7, PCL-5" pokazuje, że najważniejsze pozostaje odróżnianie pomiaru od interpretacji oraz świadome uwzględnianie ograniczeń metodologicznych narzędzia.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak phq-9 - kwestionariusz zdrowia pacjenta, tabela porównawcza właściwości psychometrycznych oraz bibliografia (apa 7) pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

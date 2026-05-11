@@ -48,9 +48,7 @@ Obserwację często krytykuje się za „mniejszą obiektywność” niż testy 
 
 - Obserwacja jest metodą wymagającą rygoru porównywalnego z eksperymentem laboratoryjnym.
 - Kluczowe są: jasny system kodowania, trening obserwatorów i raportowanie rzetelności.
-- Bez jawnej dokumentacji jakości obserwacja traci wartość dowodową.
-
-## Bibliografia
+- Bez jawnej dokumentacji jakości obserwacja traci wartość dowodową.## Bibliografia
 
 1. Bakeman, R., & Gottman, J. M. (1997). *Observing Interaction* (2nd ed.). Cambridge University Press.
 2. Hallgren, K. A. (2012). Computing inter-rater reliability. *Tutorials in Quantitative Methods for Psychology, 8*(1), 23–34.

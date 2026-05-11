@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -74,11 +74,14 @@ Rozmowa telefoniczna jest bardziej dostępna technologicznie niż wideo i może 
 
 Terapia online w formach synchronicznych - wideo, telefon, czat - jest dojrzałą, skuteczną i etycznie możliwą formą świadczenia pomocy psychologicznej. Jej sprawne prowadzenie wymaga specyficznych kompetencji technicznych i klinicznych, a przede wszystkim świadomości zarówno możliwości, jak i ograniczeń, które niesie ze sobą medium cyfrowe.
 
-## Perspektywa nieoczywista
 
 ## Podsumowanie
 
-## Bibliografia
+Temat "Terapia online - sesje wideo, telefoniczne i przez czat" pokazuje, że najważniejsze jest traktowanie e-terapii jako środowiska pracy klinicznej z własnymi ograniczeniami i przewagami, a nie jako prostego zamiennika kontaktu bezpośredniego.
+
+W praktyce oznacza to potrzebę łączenia danych, kontekstu i celu działania zamiast opierania się na pojedynczym wskaźniku lub uproszczonej interpretacji.
+
+Dopiero wspólna analiza zagadnień takich jak formy synchronicznej terapii na odległość, specyfika relacji terapeutycznej online oraz terapia telefoniczna - specyfika i zastosowania pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

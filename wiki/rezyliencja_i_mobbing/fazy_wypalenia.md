@@ -112,9 +112,19 @@ Wypalenie zawodowe jest procesem fazowym, który można identyfikować i przeryw
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Fazy i wymiary wypalenia zawodowego" polega na tym, że odporność psychiczna nie oznacza braku podatności na zranienie, lecz zdolność do odzyskiwania sprawstwa w warunkach przeciążenia i presji.
+
+Dopiero wspólna analiza zagadnień takich jak wypalenie jako proces, model wymagań i zasobów pracy (jd-r) oraz przykład kliniczny pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Fazy i wymiary wypalenia zawodowego" pokazuje, że najważniejsze jest łączenie profilaktyki indywidualnej z analizą środowiska pracy, procedur i kultury organizacyjnej.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak wypalenie jako proces, model wymagań i zasobów pracy (jd-r) oraz przykład kliniczny pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

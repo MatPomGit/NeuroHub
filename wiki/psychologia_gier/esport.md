@@ -126,9 +126,19 @@ Esport jest pełnoprawną dyscypliną rywalizacyjną, która stawia na zawodnik�
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Esport i psychologia zawodnika" polega na tym, że gry oddziałują nie przez sam fakt istnienia medium, lecz przez strukturę reguł, motywacji, relacji i czasu zaangażowania.
+
+Dopiero wspólna analiza zagadnień takich jak esport jako sport zawodowy, przykład kliniczny oraz esport i young athletes' identity pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Esport i psychologia zawodnika" pokazuje, że najbardziej trafne wnioski wymagają odróżnienia efektów samej gry od efektów kontekstu używania, podatności indywidualnych i funkcji, jaką gra pełni dla użytkownika.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak esport jako sport zawodowy, przykład kliniczny oraz esport i young athletes' identity pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

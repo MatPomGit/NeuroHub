@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -107,10 +107,19 @@ Weź zdanie w języku szakala i przetłumacz je na żyrafę:
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Język szakala i żyrafy" polega na tym, że NVC nie jest techniką grzecznego mówienia, lecz sposobem porządkowania relacji między obserwacją, uczuciami, potrzebami i działaniem.
+
+Dopiero wspólna analiza zagadnień takich jak metafora zwierząt w nvc, dwa uszy żyrafy i dwa uszy szakala oraz praktyczne ćwiczenie pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
+Temat "Język szakala i żyrafy" pokazuje, że największą wartość ma traktowanie komunikacji jako praktyki rozpoznawania potrzeb i odpowiedzialnego wpływu, a nie tylko doboru słów.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak metafora zwierząt w nvc, dwa uszy żyrafy i dwa uszy szakala oraz praktyczne ćwiczenie pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

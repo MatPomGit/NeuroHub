@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -195,10 +195,19 @@ Starsi dorośli są narażeni na specyficzne formy wiktymizacji: przemoc ze stro
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Wiktymizacja" polega na tym, że objawy nabierają znaczenia dopiero wtedy, gdy analizuje się je w przebiegu, kontekście funkcjonowania i relacji do mechanizmów podtrzymujących.
+
+Dopiero wspólna analiza zagadnień takich jak definicje i klasyfikacja, obwinianie ofiary (*victim blaming*) oraz profilaktyka i polityka społeczna pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
+Temat "Wiktymizacja" pokazuje, że najbardziej użyteczna perspektywa łączy opis symptomów z rozumieniem procesu, różnicowaniem i planowaniem interwencji.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak definicje i klasyfikacja, obwinianie ofiary (*victim blaming*) oraz profilaktyka i polityka społeczna pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

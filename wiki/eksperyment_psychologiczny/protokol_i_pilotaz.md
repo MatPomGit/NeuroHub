@@ -50,9 +50,7 @@ Pilotaż bywa postrzegany jako opóźnienie projektu. Alternatywnie można go tr
 
 - Protokół i pilotaż stanowią wspólny system kontroli jakości.
 - Kluczowe są jawne kryteria gotowości i wersjonowanie zmian.
-- Brak formalnego pilotażu zwiększa ryzyko błędów systemowych.
-
-## Bibliografia
+- Brak formalnego pilotażu zwiększa ryzyko błędów systemowych.## Bibliografia
 
 1. Leon, A. C., Davis, L. L., & Kraemer, H. C. (2011). The role and interpretation of pilot studies. *Journal of Psychiatric Research, 45*(5), 626–629.
 2. Moore, G. F., et al. (2015). Process evaluation of complex interventions. *BMJ, 350*, h1258.

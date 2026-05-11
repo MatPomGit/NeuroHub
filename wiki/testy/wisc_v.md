@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -157,10 +157,19 @@ Sam FSIQ nie wystarcza - konieczna jest analiza:
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "WISC-V - Wechsler Intelligence Scale for Children" polega na tym, że wynik testu ma wartość tylko wtedy, gdy jest interpretowany w kontekście celu badania, ograniczeń narzędzia i pozostałych danych o osobie badanej.
+
+Dopiero wspólna analiza zagadnień takich jak informacje ogólne, interpretacja profilowa oraz piśmiennictwo pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
+Temat "WISC-V - Wechsler Intelligence Scale for Children" pokazuje, że najważniejsze pozostaje odróżnianie pomiaru od decyzji diagnostycznej oraz łączenie danych testowych z obserwacją i wywiadem.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak informacje ogólne, interpretacja profilowa oraz piśmiennictwo pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

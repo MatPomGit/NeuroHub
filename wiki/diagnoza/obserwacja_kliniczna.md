@@ -159,9 +159,7 @@ U dzieci obserwacja często dostarcza istotniejszych danych niż wywiad (szczeg�
 
 Obserwacja kliniczna jest niezbędnym elementem całościowej diagnozy psychologicznej. Jej siła tkwi w bezpośredniości i naturalistyczności danych - umożliwia uchwycenie wzorców zachowania, których pacjent sam może nie być świadomy lub których nie potrafi opisać słowami. Jednocześnie wymaga dyscypliny metodologicznej, świadomości własnych uprzedzeń i etycznej wrażliwości diagnosty.
 
----
-
-## Bibliografia zalecana
+---## Bibliografia zalecana
 
 - Othmer, E., & Othmer, S. C. (2002). *The Clinical Interview Using DSM-IV-TR*. American Psychiatric Publishing.
 - Morrison, J. (2014). *Wywiad diagnostyczny. Podręcznik DSM-5*. Wydawnictwo UJ.
@@ -170,9 +168,19 @@ Obserwacja kliniczna jest niezbędnym elementem całościowej diagnozy psycholog
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Obserwacja kliniczna" polega na tym, że w diagnozie najwięcej błędów powstaje nie na poziomie pojedynczej techniki, lecz na etapie wnioskowania z danych o różnej jakości i pochodzeniu.
+
+Dopiero wspólna analiza zagadnień takich jak definicja, rzetelność i trafność obserwacji oraz bibliografia zalecana pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Obserwacja kliniczna" pokazuje, że najbardziej użyteczna diagnoza łączy precyzję metodologiczną z uważnością na kontekst, relację i ograniczenia interpretacji.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak definicja, rzetelność i trafność obserwacji oraz bibliografia zalecana pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

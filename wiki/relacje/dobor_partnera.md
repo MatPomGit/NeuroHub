@@ -117,9 +117,7 @@ Finkel i współpracownicy (2012) w przeglądzie badań konkludują, że randkow
 | Socjokulturowa | homogamia, pole dostępnych partnerów | Kerckhoff, Zentner |
 | Technologiczna | algorytmy, paradoks wyboru, atrakcyjność wizualna | Finkel, Schwartz |
 
----
-
-## Bibliografia (APA 7)
+---## Bibliografia (APA 7)
 Wpisy bibliograficzne zapisuj konsekwentnie w APA 7 oraz dodawaj DOI/URL i oznaczenie typu źródła (`[Typ: ...]`) tam, gdzie to możliwe.
 
 
@@ -133,8 +131,6 @@ Wpisy bibliograficzne zapisuj konsekwentnie w APA 7 oraz dodawaj DOI/URL i oznac
 - Singh, D. (1993). Adaptive significance of female physical attractiveness. *Journal of Personality and Social Psychology, 65*(2), 293–307.
 - Trivers, R. L. (1972). Parental investment and sexual selection. W: B. Campbell (red.), *Sexual Selection and the Descent of Man* (s. 136–179). Aldine.
 - Zentner, M., & Mitura, K. (2012). Stepping out of the caveman's shadow. *Psychological Science, 23*(10), 1176–1185.
-
-
 
 
 

@@ -98,9 +98,19 @@ Góry i wędrówki górskie działają na psychikę wielotorowo: przez fizjologi
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Góry i wędrówki górskie a psychologia" polega na tym, że wpływ środowiska cyfrowego i naturalnego nie jest prostym bilansem szkód i korzyści, lecz zależy od wzorca używania, czasu ekspozycji i funkcji, jaką pełni dane doświadczenie.
+
+Dopiero wspólna analiza zagadnień takich jak góry jako przestrzeń psychologiczna, wyzwanie, ryzyko i poczucie własnej skuteczności oraz programy terapeutyczne w terenie górskim pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Góry i wędrówki górskie a psychologia" pokazuje, że najbardziej wartościowe wnioski pojawiają się wtedy, gdy analizuje się wspólnie uwagę, emocje, regenerację i długofalowe nawyki poznawcze.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak góry jako przestrzeń psychologiczna, wyzwanie, ryzyko i poczucie własnej skuteczności oraz programy terapeutyczne w terenie górskim pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

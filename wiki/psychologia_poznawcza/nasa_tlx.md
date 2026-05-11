@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -126,10 +126,19 @@ Wymiar Mental Demand NASA-TLX koreluje z intrinsic load, zaś Effort - z obcią�
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "NASA Task Load Index (NASA-TLX)" polega na tym, że pojedynczy proces poznawczy najczęściej nie wyjaśnia zachowania samodzielnie; jego znaczenie ujawnia się w relacji do obciążenia, celu działania i innych systemów kontroli.
+
+Dopiero wspólna analiza zagadnień takich jak historia i kontekst powstania, obszary zastosowań oraz nasa-tlx a teoria obciążenia poznawczego pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
+Temat "NASA Task Load Index (NASA-TLX)" pokazuje, że najbardziej użyteczne wnioski pojawiają się wtedy, gdy łączy się opis mechanizmu z ograniczeniami zasobów poznawczych i konsekwencjami praktycznymi.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak historia i kontekst powstania, obszary zastosowań oraz nasa-tlx a teoria obciążenia poznawczego pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

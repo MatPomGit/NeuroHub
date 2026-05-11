@@ -56,9 +56,7 @@ Role rodzinne bywają opisywane jako „maski" lub „fałszywe ja" - coś, czeg
 
 
 
-Role w systemie rodzinnym są odpowiedzią na potrzeby całej grupy, a nie indywidualną patologią. Kozioł ofiarny, bohater, maskotka, stracone dziecko - każda z tych ról pełni funkcję stabilizującą system, ale ogranicza indywidualny rozwój. Terapia systemowa dąży do ujawnienia tych ról, zrozumienia ich funkcji i stworzenia warunków, w których cały system może rozwijać bardziej elastyczne, mniej kosztowne strategie regulacji.
-
-## Bibliografia
+Role w systemie rodzinnym są odpowiedzią na potrzeby całej grupy, a nie indywidualną patologią. Kozioł ofiarny, bohater, maskotka, stracone dziecko - każda z tych ról pełni funkcję stabilizującą system, ale ogranicza indywidualny rozwój. Terapia systemowa dąży do ujawnienia tych ról, zrozumienia ich funkcji i stworzenia warunków, w których cały system może rozwijać bardziej elastyczne, mniej kosztowne strategie regulacji.## Bibliografia
 
 1. Satir, V. (1988). *The New Peoplemaking*. Science and Behavior Books.
 2. Wegscheider-Cruse, S. (1981). *Another Chance: Hope and Health for the Alcoholic Family*. Science and Behavior Books.

@@ -41,9 +41,7 @@ Często zakłada się, że otwarta nauka „spowalnia” projekty R&D. Alternaty
 
 - Replikacja jest testem stabilności efektu, a nie „atakiem” na oryginalnych autorów.
 - Otwarta nauka zwiększa jakość metodologiczną i zmniejsza ryzyko błędów interpretacyjnych.
-- Najbardziej efektywne są praktyki łączone: prerejestracja + otwarte materiały + otwarty kod.
-
-## Bibliografia
+- Najbardziej efektywne są praktyki łączone: prerejestracja + otwarte materiały + otwarty kod.## Bibliografia
 1. Munafò, M. R., et al. (2017). A manifesto for reproducible science. *Nature Human Behaviour, 1*, 0021.
 2. Nosek, B. A., et al. (2018). The preregistration revolution. *PNAS, 115*(11), 2600–2606.
 3. Open Science Collaboration. (2015). Estimating the reproducibility of psychological science. *Science, 349*(6251), aac4716.

@@ -56,9 +56,7 @@ Kulturowo dominujący dyskurs terapeutyczny często sugeruje, że dojrzałość 
 
 
 
-Model lojalności rodzinnych Boszormenyi-Nagya wprowadza do terapii systemowej wymiar etyczny i sprawiedliwościowy. Problemy kliniczne - sabotaż własnego życia, powielanie traumy, niemożność odejścia z destrukcyjnych relacji - są rozumiane jako wyraz nierozwiązanych zobowiązań pokoleniowych. Terapia polega nie na ich odrzuceniu, lecz na uczynieniu ich widzialnymi, zbadaniu i przeprojektowaniu na zasadzie świadomego wyboru, a nie automatycznej lojalności.
-
-## Bibliografia
+Model lojalności rodzinnych Boszormenyi-Nagya wprowadza do terapii systemowej wymiar etyczny i sprawiedliwościowy. Problemy kliniczne - sabotaż własnego życia, powielanie traumy, niemożność odejścia z destrukcyjnych relacji - są rozumiane jako wyraz nierozwiązanych zobowiązań pokoleniowych. Terapia polega nie na ich odrzuceniu, lecz na uczynieniu ich widzialnymi, zbadaniu i przeprojektowaniu na zasadzie świadomego wyboru, a nie automatycznej lojalności.## Bibliografia
 
 1. Boszormenyi-Nagy, I., & Spark, G. M. (1973). *Invisible Loyalties: Reciprocity in Intergenerational Family Therapy*. Harper & Row.
 2. Boszormenyi-Nagy, I., & Krasner, B. R. (1986). *Between Give and Take: A Clinical Guide to Contextual Therapy*. Brunner/Mazel.

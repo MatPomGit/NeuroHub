@@ -33,9 +33,7 @@ Dopytuj o plan po wizycie: kto, kiedy i w jakiej formie kontynuuje pomoc.
 Dowody dla modeli opieki skoordynowanej są **silne**.
 
 
-Skuteczność systemu zależy od płynnych przejść, nie tylko od liczby świadczeń.
-
-## Bibliografia
+Skuteczność systemu zależy od płynnych przejść, nie tylko od liczby świadczeń.## Bibliografia
 - Kazdin, A. E. (2021). *Research Design in Clinical Psychology* (5th ed.). Cambridge University Press.
 - NICE. (2022). *Guidelines and Quality Standards* (wybrane dokumenty dotyczące zdrowia psychicznego i interwencji psychospołecznych).
 - WHO. (2021). *Guidance on community mental health services*. World Health Organization.

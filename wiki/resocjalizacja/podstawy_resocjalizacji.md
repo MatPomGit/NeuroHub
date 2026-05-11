@@ -33,9 +33,7 @@ Wspieraj utrzymanie kontaktów prospołecznych i realistyczny plan po zakończen
 Dowody dla programów opartych na zasadach RNR są **silne**.
 
 
-Resocjalizacja jest procesem społecznym i psychologicznym jednocześnie.
-
-## Bibliografia
+Resocjalizacja jest procesem społecznym i psychologicznym jednocześnie.## Bibliografia
 - Kazdin, A. E. (2021). *Research Design in Clinical Psychology* (5th ed.). Cambridge University Press.
 - NICE. (2022). *Guidelines and Quality Standards* (wybrane dokumenty dotyczące zdrowia psychicznego i interwencji psychospołecznych).
 - WHO. (2021). *Guidance on community mental health services*. World Health Organization.

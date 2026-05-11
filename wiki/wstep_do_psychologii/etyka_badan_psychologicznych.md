@@ -71,9 +71,7 @@ Etyka dotyczy także jakości metodologicznej: nierzetelny projekt może być ni
 
 
 
-Etyka badań psychologicznych nie jest „dodatkiem administracyjnym”, lecz rdzeniem jakości naukowej. Dobrze zaprojektowane badanie chroni uczestników, zwiększa trafność wyników i buduje zaufanie społeczne do psychologii.
-
-## Bibliografia
+Etyka badań psychologicznych nie jest „dodatkiem administracyjnym”, lecz rdzeniem jakości naukowej. Dobrze zaprojektowane badanie chroni uczestników, zwiększa trafność wyników i buduje zaufanie społeczne do psychologii.## Bibliografia
 
 1. American Psychological Association. (2017). *Ethical Principles of Psychologists and Code of Conduct*. APA.  
 2. Beauchamp, T. L., & Childress, J. F. (2019). *Principles of Biomedical Ethics* (8th ed.). Oxford University Press.  
@@ -84,4 +82,16 @@ Etyka badań psychologicznych nie jest „dodatkiem administracyjnym”, lecz rd
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Etyka badań psychologicznych - standardy i praktyka" polega na tym, że podstawowe pojęcia psychologii nabierają wartości dopiero wtedy, gdy pokazuje się ich ograniczenia, zakres stosowania i relacje z metodą badania.
+
+Dopiero wspólna analiza zagadnień takich jak kluczowe zasady etyczne, integralność naukowa oraz najczęstsze naruszenia etyczne pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
+
+Temat "Etyka badań psychologicznych - standardy i praktyka" pokazuje, że najważniejsze jest traktowanie psychologii jako nauki o złożonych zależnościach, a nie zbioru prostych definicji.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak kluczowe zasady etyczne, integralność naukowa oraz najczęstsze naruszenia etyczne pokazuje pełny zakres omawianego zjawiska.

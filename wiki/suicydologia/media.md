@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -87,10 +87,19 @@ Terapeuta, lekarz i nauczyciel powinni:
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Efekt Wertera i Papageno - media a samobójstwa" polega na tym, że w suicydologii najważniejsze jest odchodzenie od prostych wyjaśnień na rzecz wieloczynnikowego rozumienia kryzysu, podatności i dostępnych punktów interwencji.
+
+Dopiero wspólna analiza zagadnień takich jak efekt wertera, bezpieczne raportowanie o samobójstwach (safe messaging guidelines) oraz implikacje dla praktyki klinicznej pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
+Temat "Efekt Wertera i Papageno - media a samobójstwa" pokazuje, że najbardziej praktyczne wnioski pojawiają się wtedy, gdy łączy się ocenę ryzyka z analizą funkcji zachowania, wsparcia i możliwości ochronnych.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak efekt wertera, bezpieczne raportowanie o samobójstwach (safe messaging guidelines) oraz implikacje dla praktyki klinicznej pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

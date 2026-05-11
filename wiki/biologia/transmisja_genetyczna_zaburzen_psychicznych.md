@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -69,9 +69,7 @@ Poniższe wartości pochodzą z metaanaliz i dużych badań rodzinnych/bliźniac
 - Różne kryteria diagnostyczne i metody rekrutacji mogą zmieniać oszacowania.
 - Odziedziczalność zależy od kontekstu środowiskowego danej populacji.
 
----
-
-## Bibliografia (wybór)
+---## Bibliografia (wybór)
 1. Sullivan, P. F., Kendler, K. S., & Neale, M. C. (2003). Schizophrenia as a complex trait: evidence from a meta-analysis of twin studies.
 2. Polderman, T. J. C., et al. (2015). Meta-analysis of the heritability of human traits based on fifty years of twin studies.
 3. Wray, N. R., et al. (2018). Genome-wide association analyses identify 44 risk variants and refine the genetic architecture of major depression.
@@ -80,10 +78,19 @@ Poniższe wartości pochodzą z metaanaliz i dużych badań rodzinnych/bliźniac
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Genetyczna transmisja zaburzeń psychicznych: odziedziczalność i ryzyko rodzinne" polega na tym, że mechanizmy biologiczne rzadko działają w izolacji; ich znaczenie ujawnia się dopiero w powiązaniu z rozwojem, środowiskiem i zachowaniem.
+
+Dopiero wspólna analiza zagadnień takich jak jak rozumieć „genetyczną transmisję”, wnioski kliniczne oraz bibliografia (wybór) pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
+Temat "Genetyczna transmisja zaburzeń psychicznych: odziedziczalność i ryzyko rodzinne" pokazuje, że kluczowe pozostaje łączenie poziomu biologicznego z funkcjonalnym, aby uniknąć uproszczenia złożonych zjawisk psychicznych do jednej przyczyny.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak jak rozumieć „genetyczną transmisję”, wnioski kliniczne oraz bibliografia (wybór) pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

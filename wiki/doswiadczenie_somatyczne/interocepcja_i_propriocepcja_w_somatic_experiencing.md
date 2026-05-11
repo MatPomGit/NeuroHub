@@ -57,9 +57,7 @@ To ważne rozróżnienie, bo samo skupienie na doznaniach nie zawsze jest terape
 
 
 Interocepcja i propriocepcja są podstawowymi kanałami pracy w SE. Odpowiednio dawkowane zwiększają precyzję odczytu sygnałów z ciała i wspierają bezpieczeństwo terapii.
-Ich użycie wymaga jednak wyczucia i stopniowania. Wtedy pomagają nie tylko zrozumieć ciało, ale też odzyskać kontakt z nim bez przeciążenia. To właśnie ten balans stanowi ich największą wartość.
-
-## Bibliografia
+Ich użycie wymaga jednak wyczucia i stopniowania. Wtedy pomagają nie tylko zrozumieć ciało, ale też odzyskać kontakt z nim bez przeciążenia. To właśnie ten balans stanowi ich największą wartość.## Bibliografia
 
 - Levine, P. A. (2010). In an Unspoken Voice: How the Body Releases Trauma and Restores Goodness. North Atlantic Books.
 - Payne, P., Levine, P. A., & Crane-Godreau, M. A. (2015). Somatic experiencing: using interoception and proprioception as core elements of trauma therapy. Frontiers in Psychology, 6, 93.

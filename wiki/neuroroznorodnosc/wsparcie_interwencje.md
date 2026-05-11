@@ -85,9 +85,19 @@ Wsparcie osób neuroatypowych to nie jeden „właściwy" protokół, lecz zesta
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Wsparcie i interwencje w neuroróżnorodności" polega na tym, że neuroróżnorodność najlepiej rozumieć nie jako prostą listę deficytów, lecz jako odmienny profil przetwarzania, który może generować zarówno trudności, jak i zasoby.
+
+Dopiero wspólna analiza zagadnień takich jak podstawy interwencji opartych na dowodach, farmakoterapia oraz podejście wielodyscyplinarne pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Wsparcie i interwencje w neuroróżnorodności" pokazuje, że kluczowe pozostaje łączenie wsparcia funkcjonalnego z redukowaniem barier środowiskowych i stygmatyzacji.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak podstawy interwencji opartych na dowodach, farmakoterapia oraz podejście wielodyscyplinarne pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -71,9 +71,7 @@ Kolejnym wyzwaniem jest **ograniczona predyktywna trafność** niektórych metod
 
 Opinia psychologiczna ma status dowodu w postępowaniu sądowym, a sąd jest zobowiązany odnieść się do niej w uzasadnieniu wyroku. Nie jest ona jednak wiążąca - sąd ocenia ją na równi z innymi dowodami i może odejść od jej konkluzji, jeśli należycie to uzasadni.
 
-Rzetelna opinia psychologiczna może decydować o wolności człowieka, przyznaniu mu prawa opieki nad dzieckiem lub orzeczeniu o jego niepoczytalności. Ciężar odpowiedzialności, jaki spoczywa na biegłym, jest zatem wyjątkowo duży - i stanowi jeden z najpoważniejszych wyzwań w całej psychologii stosowanej.
-
-## Bibliografia (APA 7)
+Rzetelna opinia psychologiczna może decydować o wolności człowieka, przyznaniu mu prawa opieki nad dzieckiem lub orzeczeniu o jego niepoczytalności. Ciężar odpowiedzialności, jaki spoczywa na biegłym, jest zatem wyjątkowo duży - i stanowi jeden z najpoważniejszych wyzwań w całej psychologii stosowanej.## Bibliografia (APA 7)
 
 [^otto2014]: Otto, R. K., & Heilbrun, K. (2014). *The practice of forensic psychology* (2nd ed.). Routledge. https://doi.org/10.4324/9780203108859
 [^heilbrun2002]: Heilbrun, K. (2002). *Principles of forensic mental health assessment*. Kluwer Academic/Plenum Publishers. https://doi.org/10.1007/978-1-4615-1167-5
@@ -85,10 +83,19 @@ Rzetelna opinia psychologiczna może decydować o wolności człowieka, przyznan
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Biegły psycholog w opiniowaniu sądowym - wprowadzenie" polega na tym, że w psychologii sądowej najważniejsze jest nie tylko to, co badany przeżywa, ale również to, jak wiarygodnie można tę informację udokumentować i uzasadnić przed sądem.
+
+Dopiero wspólna analiza zagadnień takich jak czym jest psychologia sądowa?, warsztat biegłego psychologa oraz bibliografia (apa 7) pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
+Temat "Biegły psycholog w opiniowaniu sądowym - wprowadzenie" pokazuje, że kluczowe pozostaje łączenie standardów naukowych, prawnych i etycznych przy formułowaniu opinii oraz ograniczeń wnioskowania.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak czym jest psychologia sądowa?, warsztat biegłego psychologa oraz bibliografia (apa 7) pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

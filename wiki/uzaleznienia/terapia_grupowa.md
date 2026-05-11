@@ -139,9 +139,7 @@ Grupy dla **Dorosłych Dzieci Alkoholików** - praca z traumą dzieciństwa, wzo
 
 Terapia grupowa w uzależnieniach działa wieloma kanałami jednocześnie: redukuje izolację, buduje poczucie przynależności, dostarcza narzędzi i modeli do naśladowania. Różnorodność podejść - od duchowych 12 kroków po oparte na dowodach CBT i SMART - pozwala dopasować formę do potrzeb, przekonań i etapu zmiany pacjenta.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Humphreys, K. (2004). *Circles of Recovery: Self-Help Organizations for Addictions*. Cambridge University Press.
 - Yalom, I. D., & Leszcz, M. (2005). *The Theory and Practice of Group Psychotherapy* (5th ed.). Basic Books.
@@ -149,8 +147,6 @@ Terapia grupowa w uzależnieniach działa wieloma kanałami jednocześnie: reduk
 - Berg, I. K., & Miller, S. D. (1992). *Working with the Problem Drinker: A Solution-Focused Approach*. Norton.
 - Mulder, R., & Murray, G. (2009). The evidence for 12-step programs. *Addiction, 104*(1), 12–13.
 - Connors, G. J., DiClemente, C. C., Velasquez, M. M., & Donovan, D. M. (2012). *Substance Abuse Treatment and the Stages of Change* (2nd ed.). Guilford Press.
-
-
 
 
 

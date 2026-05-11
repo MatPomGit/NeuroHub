@@ -101,9 +101,7 @@ Tajfel wykazał, że nawet podział na grupy według czysto arbitralnych kryteri
 
 Dynamika grupowa obejmuje zjawiska od tworzenia norm i ról (Tuckman), przez osłabienie indywidualnej odpowiedzialności (próżniactwo, efekt widza, deindywiduacja), aż po konflikty i tożsamość grupową (Sherif, Tajfel). Wszystkie te mechanizmy podkreślają jeden ważny wniosek: człowiek w grupie staje się kimś innym niż poza nią - i nie zawsze jest to zmiana na lepsze.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Darley, J. M., & Latané, B. (1968). Bystander intervention in emergencies: Diffusion of responsibility. *Journal of Personality and Social Psychology, 8*(4), 377–383.
 - Latané, B., Williams, K., & Harkins, S. (1979). Many hands make light the work: The causes and consequences of social loafing. *Journal of Personality and Social Psychology, 37*(6), 823–832.
@@ -114,9 +112,19 @@ Dynamika grupowa obejmuje zjawiska od tworzenia norm i ról (Tuckman), przez os�
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Dynamika grupowa" polega na tym, że wiele zjawisk społecznych wydaje się cechą jednostki, choć w rzeczywistości jest produktem norm, sytuacji i architektury relacji.
+
+Dopiero wspólna analiza zagadnień takich jak etapy tworzenia się grupy - model tuckmana, efekt widza (bystander effect) - latané i darley oraz teoria tożsamości społecznej - tajfel i turner pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Dynamika grupowa" pokazuje, że najważniejsze jest analizowanie jednocześnie procesów indywidualnych i warunków społecznych, które wzmacniają określone zachowania lub przekonania.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak etapy tworzenia się grupy - model tuckmana, efekt widza (bystander effect) - latané i darley oraz teoria tożsamości społecznej - tajfel i turner pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

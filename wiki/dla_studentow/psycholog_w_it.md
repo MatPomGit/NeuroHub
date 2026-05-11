@@ -92,9 +92,7 @@ Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie 
 - `students/wystapienia_publiczne_autoprezentacja`
 - `technology_psychology/technologia_w_pracy`
 - `technology_psychology/algorytmy_a_samoocena`
-- `ethics/etyka_algorytmiczna`
-
-## Bibliografia
+- `ethics/etyka_algorytmiczna`## Bibliografia
 
 1. Lazar, J., Feng, J. H., & Hochheiser, H. (2017). *Research Methods in Human-Computer Interaction* (2nd ed.). Morgan Kaufmann.
 2. Salas, E., Reyes, D. L., & McDaniel, S. H. (2018). The science of teamwork in organizations. *Annual Review of Organizational Psychology and Organizational Behavior, 5*, 1–36.

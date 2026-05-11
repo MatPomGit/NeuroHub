@@ -410,9 +410,7 @@ Dla specjalistów zdrowia psychicznego model RDoC oferuje kilka praktycznych zys
 - **Mierzalne miary wynikowe** - konstrukty można mierzyć obiektywnie, niezależnie od subiektywnego raportu pacjenta.
 - **Język naukowy** - ułatwia komunikację z badaczami i integrację wiedzy z neuronauki poznawczej.
 
-Wyzwaniem pozostaje translacja konstruktów badawczych do praktyki klinicznej oraz uwzględnienie czynników psychospołecznych i kulturowych, które tradycyjnie wykraczają poza model neuronaukowy. Integracja RDoC z wymiarowymi podejściami HiTOP i nowymi kryteriami ICD-11, a także rozwój neuropsychiatrii obliczeniowej, wyznaczają obiecującą perspektywę dla psychiatrii i psychologii klinicznej XXI wieku.
-
-## Bibliografia (APA 7)
+Wyzwaniem pozostaje translacja konstruktów badawczych do praktyki klinicznej oraz uwzględnienie czynników psychospołecznych i kulturowych, które tradycyjnie wykraczają poza model neuronaukowy. Integracja RDoC z wymiarowymi podejściami HiTOP i nowymi kryteriami ICD-11, a także rozwój neuropsychiatrii obliczeniowej, wyznaczają obiecującą perspektywę dla psychiatrii i psychologii klinicznej XXI wieku.## Bibliografia (APA 7)
 Wpisy bibliograficzne zapisuj konsekwentnie w APA 7 oraz dodawaj DOI/URL i oznaczenie typu źródła (`[Typ: ...]`) tam, gdzie to możliwe.
 
 
@@ -460,9 +458,19 @@ Wpisy bibliograficzne zapisuj konsekwentnie w APA 7 oraz dodawaj DOI/URL i oznac
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Model RDoC w diagnozie psychologicznej i neuropsychologicznej" polega na tym, że wynik testu ma wartość tylko wtedy, gdy jest interpretowany w kontekście celu badania, ograniczeń narzędzia i pozostałych danych o osobie badanej.
+
+Dopiero wspólna analiza zagadnień takich jak geneza i kontekst historyczny, rdoc w badaniach klinicznych - zastosowania metodologiczne oraz bibliografia (apa 7) pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Model RDoC w diagnozie psychologicznej i neuropsychologicznej" pokazuje, że najważniejsze pozostaje odróżnianie pomiaru od decyzji diagnostycznej oraz łączenie danych testowych z obserwacją i wywiadem.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak geneza i kontekst historyczny, rdoc w badaniach klinicznych - zastosowania metodologiczne oraz bibliografia (apa 7) pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

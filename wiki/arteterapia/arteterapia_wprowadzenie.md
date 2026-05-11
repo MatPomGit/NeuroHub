@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -42,10 +42,19 @@ Pytaniem otwartym pozostaje, jakie składniki arteterapii są aktywne terapeutyc
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Arteterapia - wprowadzenie" polega na tym, że wartość oddziaływań twórczych nie wynika wyłącznie z ekspresji, ale z tego, jak dobrze forma pracy została dopasowana do funkcji klinicznej i możliwości uczestnika.
+
+Dopiero wspólna analiza zagadnień takich jak historia i korzenie, mechanizmy działania oraz podstawy empiryczne i pytania otwarte pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
+Temat "Arteterapia - wprowadzenie" pokazuje, że najważniejsze jest traktowanie technik twórczych jako narzędzi regulacji, symbolizacji i komunikacji, a nie jako uniwersalnej recepty.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak historia i korzenie, mechanizmy działania oraz podstawy empiryczne i pytania otwarte pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

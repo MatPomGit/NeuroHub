@@ -107,9 +107,7 @@ Adolescencja jest okresem podwyższonego ryzyka pierwszego epizodu depresji. Cha
 
 Adolescencja jest ewolucyjnie uwarunkowanym, neuronalnie zdefiniowanym oknem, w którym mózg jest gotowy na eksplorację i podejmowanie ryzyka - właściwości adaptacyjne dla gatunku, ale stanowiące wyzwanie dla jednostki i jej otoczenia. Zrozumienie neurobiologicznych mechanizmów tego okresu pozwala zastąpić oceny moralne (*„są nieodpowiedzialni"*) wyjaśnieniami rozwojowymi i tworzyć środowiska wspierające kształtowanie się tożsamości i stopniowej regulacji emocjonalnej.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Arnett, J. J. (2000). Emerging adulthood: A theory of development from the late teens through the twenties. *American Psychologist, 55*(5), 469–480.
 - Chein, J., Albert, D., O'Brien, L., Uckert, K., & Steinberg, L. (2011). Peers increase adolescent risk taking by enhancing activity in the brain's reward circuitry. *Developmental Science, 14*(2), F1–F10.
@@ -122,9 +120,19 @@ Adolescencja jest ewolucyjnie uwarunkowanym, neuronalnie zdefiniowanym oknem, w 
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Adolescencja - psychologia okresu dorastania" polega na tym, że rozwój nie jest prostą sekwencją etapów, lecz dynamiczną relacją między dojrzewaniem biologicznym, środowiskiem i doświadczeniem uczenia się.
+
+Dopiero wspólna analiza zagadnień takich jak dojrzewanie płciowe i jego psychologiczne skutki, relacje rówieśnicze i zachowania ryzykowne oraz depresja i zaburzenia w adolescencji pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Adolescencja - psychologia okresu dorastania" pokazuje, że najbardziej trafne podsumowanie wymaga łączenia perspektywy etapowej z analizą różnic indywidualnych, kontekstu i plastyczności.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak dojrzewanie płciowe i jego psychologiczne skutki, relacje rówieśnicze i zachowania ryzykowne oraz depresja i zaburzenia w adolescencji pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

@@ -38,8 +38,6 @@ Kora przedczołowa (PFC) moduluje reaktywność ciała migdałowatego. **Reappra
 
 ## Rozwój regulacji emocjonalnej
 
-Zdolność do regulacji emocji rozwija się przez całe dzieciństwo i adolescencję, w miarę dojrzewania kory przedczołowej. Bezpieczny styl przywiązania w dzieciństwie sprzyja lepszej regulacji emocjonalnej w dorosłości.
-
-## Bibliografia
+Zdolność do regulacji emocji rozwija się przez całe dzieciństwo i adolescencję, w miarę dojrzewania kory przedczołowej. Bezpieczny styl przywiązania w dzieciństwie sprzyja lepszej regulacji emocjonalnej w dorosłości.## Bibliografia
 
 - Do uzupełnienia na podstawie źródeł cytowanych w artykule.

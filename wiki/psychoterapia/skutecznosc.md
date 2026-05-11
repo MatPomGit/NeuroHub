@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -42,10 +42,19 @@ W depresji i zaburzeniach lękowych skuteczność psychoterapii (zwłaszcza CBT)
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Skuteczność psychoterapii" polega na tym, że skuteczność psychoterapii zależy nie tylko od nazwy nurtu, ale od jakości konceptualizacji, przymierza, dawkowania interwencji i dopasowania do pacjenta.
+
+Dopiero wspólna analiza zagadnień takich jak czy psychoterapia działa?, terapie empirycznie podparte (ests) oraz psychoterapia a farmakoterapia pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
+Temat "Skuteczność psychoterapii" pokazuje, że najbardziej praktyczne wnioski wynikają z łączenia modelu teoretycznego z uważnością na proces zmiany, relację i ograniczenia danej metody.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak czy psychoterapia działa?, terapie empirycznie podparte (ests) oraz psychoterapia a farmakoterapia pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

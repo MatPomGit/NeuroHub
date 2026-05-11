@@ -64,9 +64,7 @@ Pytanie "czy religia czyni ludzi moralnymi" jest zbyt ogólne. Bardziej trafne j
 - Religia może wzmacniać moralność, ale wpływ jest warunkowy i zależny od sposobu internalizacji norm.
 - Najkorzystniejsze efekty etyczne pojawiają się tam, gdzie normom towarzyszy refleksja i empatia.
 - Największe ryzyko dotyczy moralności opartej wyłącznie na autorytecie i granicach grupowych.
-- W praktyce edukacyjnej i klinicznej warto łączyć wrażliwość religijną z treningiem rozumowania etycznego.
-
-## Bibliografia
+- W praktyce edukacyjnej i klinicznej warto łączyć wrażliwość religijną z treningiem rozumowania etycznego.## Bibliografia
 1. Haidt, J. (2012). *The Righteous Mind*. Pantheon.
 2. Shariff, A. F., Willard, A. K., Andersen, T., & Norenzayan, A. (2016). Religious priming: A meta-analysis with a focus on prosociality. *Personality and Social Psychology Review*, 20(1), 27-48.
 3. Graham, J., & Haidt, J. (2010). Beyond beliefs: Religions bind individuals into moral communities. *Personality and Social Psychology Review*, 14(1), 140-150.

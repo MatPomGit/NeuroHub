@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -81,10 +81,19 @@ Kluczowe jest rozróżnienie: **kodowanie vs. przechowywanie vs. wydobywanie** -
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Amnezje" polega na tym, że opis zaburzenia jest użyteczny dopiero wtedy, gdy łączy kryteria rozpoznania z mechanizmami, funkcjonowaniem i zróżnicowaniem przebiegu.
+
+Dopiero wspólna analiza zagadnień takich jak rodzaje pamięci a amnezje, amnezja psychogenna (dysocjacyjna) oraz diagnoza i ocena neuropsychologiczna pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
+Temat "Amnezje" pokazuje, że najbardziej wartościowe podsumowanie wymaga połączenia obrazu klinicznego z różnicowaniem, rokowaniem i implikacjami dla wsparcia.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak rodzaje pamięci a amnezje, amnezja psychogenna (dysocjacyjna) oraz diagnoza i ocena neuropsychologiczna pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

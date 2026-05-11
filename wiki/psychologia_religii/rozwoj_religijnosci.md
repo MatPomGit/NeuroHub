@@ -54,9 +54,7 @@ Rozwój religijności nie musi oznaczać ruchu "więcej lub mniej religii". Czę
 - Rozwój religijności ma charakter dynamiczny i nieliniowy.
 - Kluczowe są interakcje między rozwojem poznawczym, relacjami i wydarzeniami życiowymi.
 - Pomiar oparty wyłącznie na częstości praktyk jest metodologicznie niewystarczający.
-- Najbardziej adaptacyjne trajektorie łączą autonomię refleksji z osadzeniem społecznym.
-
-## Bibliografia
+- Najbardziej adaptacyjne trajektorie łączą autonomię refleksji z osadzeniem społecznym.## Bibliografia
 1. Fowler, J. W. (1981). *Stages of Faith*. Harper & Row.
 2. King, P. E., & Boyatzis, C. J. (2015). Religious and spiritual development. In M. E. Lamb (Ed.), *Handbook of Child Psychology and Developmental Science* (7th ed.). Wiley.
 3. Granqvist, P. (2020). *Attachment, Religion, and Spirituality: A Wider View*. Guilford Press.

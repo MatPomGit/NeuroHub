@@ -107,9 +107,7 @@ Deborah Tannen (1990) zwraca uwagę na odmienne cele komunikacyjne:
 | NVC | Rosenberg (2003) | obserwacja–uczucia–potrzeby–prośba obniżają defensywność |
 | Demand-withdraw | Christensen & Heavey (1990) | wzorzec żądanie–wycofanie niszczy satysfakcję |
 
----
-
-## Bibliografia (APA 7)
+---## Bibliografia (APA 7)
 Wpisy bibliograficzne zapisuj konsekwentnie w APA 7 oraz dodawaj DOI/URL i oznaczenie typu źródła (`[Typ: ...]`) tam, gdzie to możliwe.
 
 
@@ -119,8 +117,6 @@ Wpisy bibliograficzne zapisuj konsekwentnie w APA 7 oraz dodawaj DOI/URL i oznac
 - Gottman, J. M., & Silver, N. (1999). *The Seven Principles for Making Marriage Work*. Crown.
 - Rosenberg, M. B. (2003). *Nonviolent Communication: A Language of Life*. PuddleDancer Press.
 - Tannen, D. (1990). *You Just Don't Understand: Women and Men in Conversation*. William Morrow.
-
-
 
 
 

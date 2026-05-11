@@ -54,9 +54,7 @@ Rytuały nie są przeciwieństwem racjonalności. Często działają jak psychol
 - Rytuały mogą wspierać zdrowie psychiczne przez mechanizmy poznawcze, społeczne i fizjologiczne.
 - Efekt ochronny zależy od funkcji praktyki, a nie od samej częstotliwości jej wykonywania.
 - W diagnozie i interwencji konieczne jest rozróżnianie rytuałów adaptacyjnych od lękowo-przymusowych.
-- Integracja rytuału z refleksją i wsparciem społecznym daje najlepsze wyniki praktyczne.
-
-## Bibliografia
+- Integracja rytuału z refleksją i wsparciem społecznym daje najlepsze wyniki praktyczne.## Bibliografia
 1. Hobson, N. M., Schroeder, J., Risen, J. L., et al. (2018). The psychology of rituals: An integrative review and process-based framework. *Personality and Social Psychology Review*, 22(3), 260-284.
 2. Norton, M. I., & Gino, F. (2014). Rituals alleviate grieving for loved ones, lovers, and lotteries. *Journal of Experimental Psychology: General*, 143(1), 266-272.
 3. Koenig, H. G. (2023). Religion, spirituality, and mental health: An updated review. *International Review of Psychiatry*, 35(7-8), 583-599.

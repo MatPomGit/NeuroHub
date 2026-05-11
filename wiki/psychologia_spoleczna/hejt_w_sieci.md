@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -83,9 +83,7 @@ W szkołach i organizacjach skuteczne są programy obejmujące równocześnie: e
 ## 6. Wnioski
 Hejt w sieci jest zjawiskiem psychospołecznym, a nie wyłącznie problemem „kultury internetu”. Wymaga wielopoziomowych działań: indywidualnych (regulacja emocji, granice), społecznych (normy i wsparcie) oraz systemowych (moderacja, polityki platform, edukacja cyfrowa).
 
----
-
-## Bibliografia (wybór)
+---## Bibliografia (wybór)
 1. Suler, J. (2004). The online disinhibition effect.
 2. Kowalski, R. M., et al. (2014). Bullying in the digital age.
 3. Hinduja, S., & Patchin, J. W. (2018). Connecting adolescent suicide to the severity of bullying and cyberbullying.
@@ -93,10 +91,19 @@ Hejt w sieci jest zjawiskiem psychospołecznym, a nie wyłącznie problemem „k
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Hejt w sieci: mechanizmy psychologiczne, skutki i interwencje" polega na tym, że wiele zjawisk społecznych wydaje się cechą jednostki, choć w rzeczywistości jest produktem norm, sytuacji i architektury relacji.
+
+Dopiero wspólna analiza zagadnień takich jak definicja i zakres, czynniki ryzyka i czynniki ochronne oraz bibliografia (wybór) pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
+Temat "Hejt w sieci: mechanizmy psychologiczne, skutki i interwencje" pokazuje, że najważniejsze jest analizowanie jednocześnie procesów indywidualnych i warunków społecznych, które wzmacniają określone zachowania lub przekonania.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak definicja i zakres, czynniki ryzyka i czynniki ochronne oraz bibliografia (wybór) pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

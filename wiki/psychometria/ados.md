@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -161,10 +161,19 @@ Pearson Clinical Assessment UK. (2025). *ADOS-2 product overview and training ma
 Weill Cornell Medicine. (2025). *Autism Diagnostic Observation Schedule, Second Edition (ADOS-2) training overview*.
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "ADOS-2 w ujęciu" polega na tym, że wartość narzędzia psychometrycznego nie wynika z samej popularności testu, lecz z jakości jego trafności, rzetelności i adekwatności do konkretnego celu decyzji.
+
+Dopiero wspólna analiza zagadnień takich jak streszczenie, ados-2 u małych dzieci oraz najważniejsza bibliografia pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
+Temat "ADOS-2 w ujęciu" pokazuje, że najważniejsze pozostaje odróżnianie pomiaru od interpretacji oraz świadome uwzględnianie ograniczeń metodologicznych narzędzia.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak streszczenie, ados-2 u małych dzieci oraz najważniejsza bibliografia pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

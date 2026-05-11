@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -72,10 +72,19 @@ Rogersowska **terapeutyczna empatia** (jedna z "trójcy" Rogersa: empatia, bezwa
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Empatia i współczucie" polega na tym, że emocje najtrafniej rozumie się nie jako przeszkodę dla poznania, lecz jako system informacji o potrzebach, zagrożeniach i relacjach.
+
+Dopiero wspólna analiza zagadnień takich jak definicje i rozróżnienia, dysfunkcje empatii oraz empatia w codziennym życiu - praktyczne zastosowanie pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
+Temat "Empatia i współczucie" pokazuje, że największą wartość ma ujmowanie emocji jednocześnie na poziomie doświadczenia, regulacji i konsekwencji interpersonalnych.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak definicje i rozróżnienia, dysfunkcje empatii oraz empatia w codziennym życiu - praktyczne zastosowanie pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

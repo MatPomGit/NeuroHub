@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -186,9 +186,7 @@ Eksperyment Małego Alberta miał bezpośrednie konsekwencje dla rozumienia i le
 - **Terapia ekspozycji** (systematyczna desensytyzacja, ekspozycja z prewencją odpowiedzi) bezpośrednio wynika z logiki odwarunkowania zaproponowanej przez Watsona.
 - **PTSD** jest współcześnie konceptualizowane jako forma warunkowania strachu, gdzie traumatyczne wydarzenie (US) wytwarza skojarzone reakcje lękowe (CR) na neutralne wcześniej bodźce (CS).
 
-> **Paradoks etyczny:** Eksperyment, który nie mógłby zostać przeprowadzony dziś z powodów etycznych, dostarcza modelu terapeutycznego, który pomaga milionom pacjentów z zaburzeniami lękowymi i PTSD.
-
-## Bibliografia
+> **Paradoks etyczny:** Eksperyment, który nie mógłby zostać przeprowadzony dziś z powodów etycznych, dostarcza modelu terapeutycznego, który pomaga milionom pacjentów z zaburzeniami lękowymi i PTSD.## Bibliografia
 
 ### Źródła pierwotne
 
@@ -230,7 +228,16 @@ Eksperyment Małego Alberta miał bezpośrednie konsekwencje dla rozumienia i le
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Eksperyment Małego Alberta" polega na tym, że pojedynczy proces poznawczy najczęściej nie wyjaśnia zachowania samodzielnie; jego znaczenie ujawnia się w relacji do obciążenia, celu działania i innych systemów kontroli.
+
+Dopiero wspólna analiza zagadnień takich jak nagrania archiwalne, wyniki i interpretacja oraz znaczenie dla psychologii klinicznej pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
+Temat "Eksperyment Małego Alberta" pokazuje, że najbardziej użyteczne wnioski pojawiają się wtedy, gdy łączy się opis mechanizmu z ograniczeniami zasobów poznawczych i konsekwencjami praktycznymi.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak nagrania archiwalne, wyniki i interpretacja oraz znaczenie dla psychologii klinicznej pokazuje pełny zakres omawianego zjawiska.

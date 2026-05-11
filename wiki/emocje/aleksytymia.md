@@ -80,8 +80,6 @@ Aleksytymia jest stosunkowo odporna na leczenie. Podejścia z pewną skutecznoś
 
 **Ekspresja artystyczna (arteterapia):** Niebezpośrednia ekspresja emocji przez sztukę może ominąć blokadę werbalną.
 
-**Psychoedukacja:** Nauka "emocjonalnego słownika" - systematyczne rozszerzanie repertuaru pojęciowego dla stanów wewnętrznych.
-
-## Bibliografia
+**Psychoedukacja:** Nauka "emocjonalnego słownika" - systematyczne rozszerzanie repertuaru pojęciowego dla stanów wewnętrznych.## Bibliografia
 
 - Do uzupełnienia na podstawie źródeł cytowanych w artykule.

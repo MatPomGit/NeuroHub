@@ -78,9 +78,19 @@ Specyficzne trudności w uczeniu się są neurologicznie uwarunkowanymi, trwały
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Trudności w uczeniu się" polega na tym, że trudności szkolne rzadko wynikają z pojedynczej cechy ucznia; zwykle odzwierciedlają relację między wymaganiami szkoły, wsparciem, klimatem klasy i profilem rozwojowym dziecka.
+
+Dopiero wspólna analiza zagadnień takich jak definicja i klasyfikacja, dyskalkulia - trudności w matematyce oraz interwencje oparte na dowodach w polskich szkołach pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Trudności w uczeniu się" pokazuje, że najbardziej użyteczne są wnioski, które łączą perspektywę ucznia, nauczyciela i systemu edukacyjnego.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak definicja i klasyfikacja, dyskalkulia - trudności w matematyce oraz interwencje oparte na dowodach w polskich szkołach pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

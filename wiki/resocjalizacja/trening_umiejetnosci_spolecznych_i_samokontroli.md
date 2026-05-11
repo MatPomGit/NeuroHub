@@ -33,9 +33,7 @@ Włączaj moduł treningu umiejętności do większości programów korekcyjnych
 Dowody dla treningów poznawczo-behawioralnych są **silne**.
 
 
-Kompetencje społeczne są trenowalne i kluczowe dla readaptacji.
-
-## Bibliografia
+Kompetencje społeczne są trenowalne i kluczowe dla readaptacji.## Bibliografia
 - Kazdin, A. E. (2021). *Research Design in Clinical Psychology* (5th ed.). Cambridge University Press.
 - NICE. (2022). *Guidelines and Quality Standards* (wybrane dokumenty dotyczące zdrowia psychicznego i interwencji psychospołecznych).
 - WHO. (2021). *Guidance on community mental health services*. World Health Organization.

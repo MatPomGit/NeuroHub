@@ -147,9 +147,7 @@ Przebaczenie - odróżniane od pojednania - to **wewnętrzny proces uwalniania s
 | Odbudowa zaufania | wymaga lat konsekwentnych zachowań, nie deklaracji |
 | Przebaczenie | możliwe niezależnie od kontynuacji związku |
 
----
-
-## Bibliografia (APA 7)
+---## Bibliografia (APA 7)
 Wpisy bibliograficzne zapisuj konsekwentnie w APA 7 oraz dodawaj DOI/URL i oznaczenie typu źródła (`[Typ: ...]`) tam, gdzie to możliwe.
 
 
@@ -162,8 +160,6 @@ Wpisy bibliograficzne zapisuj konsekwentnie w APA 7 oraz dodawaj DOI/URL i oznac
 - Whitty, M. T. (2005). The realness of cybercheating. *Social Science Computer Review, 23*(1), 57–67.
 - Wiederman, M. W. (1997). Extramarital sex: Prevalence and correlates in a national survey. *Journal of Sex Research, 34*(2), 167–174.
 - Worthington, E. L. (2006). *Forgiveness and Reconciliation*. Brunner-Routledge.
-
-
 
 
 

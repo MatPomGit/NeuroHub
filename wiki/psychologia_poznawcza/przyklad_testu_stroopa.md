@@ -40,9 +40,7 @@ Efekt Stroopa bywa interpretowany wyłącznie jako miara „hamowania”. Coraz 
 
 - Stroop jest użyteczny, gdy zachowana jest standaryzacja procedury.
 - Interpretacja powinna uwzględniać kontekst całego profilu poznawczego.
-- W diagnostyce klinicznej należy korzystać z wersji z normami populacyjnymi.
-
-## Bibliografia
+- W diagnostyce klinicznej należy korzystać z wersji z normami populacyjnymi.## Bibliografia
 1. MacLeod, C. M. (1991). Half a century of research on the Stroop effect. *Psychological Bulletin, 109*(2), 163–203.
 2. Scarpina, F., & Tagini, S. (2017). The Stroop Color and Word Test. *Frontiers in Psychology, 8*, 557.
 3. Stroop, J. R. (1935). Studies of interference in serial verbal reactions. *Journal of Experimental Psychology, 18*(6), 643–662.

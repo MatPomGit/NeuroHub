@@ -70,9 +70,7 @@ Terapia systemowa jest często postrzegana jako alternatywa dla farmakoterapii l
 
 
 
-Zastosowania kliniczne terapii systemowej są szerokie i dobrze udokumentowane empirycznie. Od zaburzeń zachowania adolescentów, przez uzależnienia i zaburzenia odżywiania, aż po depresję i schizofrenię - badania potwierdzają skuteczność podejść systemowych jako samodzielnego lub uzupełniającego narzędzia terapeutycznego. Kluczem do skutecznej pracy jest dopasowanie metody do kontekstu klinicznego, angażowanie całego systemu relacyjnego i praca z dynamiką, która podtrzymuje problem - nie tylko z objawem jednostki.
-
-## Bibliografia
+Zastosowania kliniczne terapii systemowej są szerokie i dobrze udokumentowane empirycznie. Od zaburzeń zachowania adolescentów, przez uzależnienia i zaburzenia odżywiania, aż po depresję i schizofrenię - badania potwierdzają skuteczność podejść systemowych jako samodzielnego lub uzupełniającego narzędzia terapeutycznego. Kluczem do skutecznej pracy jest dopasowanie metody do kontekstu klinicznego, angażowanie całego systemu relacyjnego i praca z dynamiką, która podtrzymuje problem - nie tylko z objawem jednostki.## Bibliografia
 
 1. Shadish, W. R., & Baldwin, S. A. (2003). Meta-analysis of MFT interventions. *Journal of Marital and Family Therapy, 29*(4), 547–570.
 2. Carr, A. (2019). Family therapy and systemic interventions for child-focused problems. *Journal of Family Therapy, 41*(2), 153–213.

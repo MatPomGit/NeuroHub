@@ -151,9 +151,7 @@ Nie ma jednego „właściwego" czasu na nową relację. Badania sugerują, że 
 
 Rozstanie to złożone doświadczenie, które angażuje całego człowieka - ciało, emocje, myśli i tożsamość. Żałoba relacyjna jest normalna i potrzebna. Kluczem jest jej przeżywanie (a nie tłumienie), szukanie wsparcia i - z czasem - nadanie sensu temu, co się stało.
 
----
-
-## Bibliografia (APA 7)
+---## Bibliografia (APA 7)
 Wpisy bibliograficzne zapisuj konsekwentnie w APA 7 oraz dodawaj DOI/URL i oznaczenie typu źródła (`[Typ: ...]`) tam, gdzie to możliwe.
 
 
@@ -166,9 +164,19 @@ Wpisy bibliograficzne zapisuj konsekwentnie w APA 7 oraz dodawaj DOI/URL i oznac
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Rozpad związku i żałoba relacyjna" polega na tym, że zjawiska relacyjne rzadko są wyłącznie wynikiem cech partnerów; zwykle podtrzymują je wzorce komunikacji, historia przywiązania i bieżący kontekst stresu.
+
+Dopiero wspólna analiza zagadnień takich jak psychologiczne konsekwencje rozstania, konsekwencje dla zdrowia psychicznego oraz bibliografia (apa 7) pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Rozpad związku i żałoba relacyjna" pokazuje, że najbardziej użyteczne jest ujmowanie relacji jako systemu współregulacji, negocjacji granic i wzajemnych interpretacji.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak psychologiczne konsekwencje rozstania, konsekwencje dla zdrowia psychicznego oraz bibliografia (apa 7) pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

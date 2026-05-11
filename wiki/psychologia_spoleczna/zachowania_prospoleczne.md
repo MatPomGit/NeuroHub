@@ -118,9 +118,7 @@ Feshbach i Feshbach (1969) wykazali ujemną korelację między empatią a agresj
 
 Zachowania prospołeczne mają wielorakie korzenie: ewolucyjne (selekcja krewnych, altruizm odwzajemniony), emocjonalne (empatia, Batson), poznawcze (model decyzyjny Latané-Darleya) i normatywne (wzajemność, odpowiedzialność, sprawiedliwość). Psychologia wolontariatu i modele moralnego rozwoju (Kohlberg, Gilligan) wzbogacają obraz o wymiar indywidualny i kulturowy. Wniosek jest optymistyczny: prospołeczność nie jest wyjątkiem w naturze ludzkiej, lecz fundamentem, na którym zbudowane są współpracujące społeczeństwa.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Batson, C. D., Duncan, B. D., Ackerman, P., Buckley, T., & Birch, K. (1981). Is empathic emotion a source of altruistic motivation? *Journal of Personality and Social Psychology, 40*(2), 290–302.
 - Clary, E. G., Snyder, M., Ridge, R. D., Copeland, J., Stukas, A. A., Haugen, J., & Miene, P. (1998). Understanding and assessing the motivations of volunteers. *Journal of Personality and Social Psychology, 74*(6), 1516–1530.
@@ -134,9 +132,19 @@ Zachowania prospołeczne mają wielorakie korzenie: ewolucyjne (selekcja krewnyc
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Zachowania prospołeczne" polega na tym, że wiele zjawisk społecznych wydaje się cechą jednostki, choć w rzeczywistości jest produktem norm, sytuacji i architektury relacji.
+
+Dopiero wspólna analiza zagadnień takich jak teorie altruizmu, normy społeczne regulujące pomaganie oraz empatia jako fundament zachowań prospołecznych pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Zachowania prospołeczne" pokazuje, że najważniejsze jest analizowanie jednocześnie procesów indywidualnych i warunków społecznych, które wzmacniają określone zachowania lub przekonania.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak teorie altruizmu, normy społeczne regulujące pomaganie oraz empatia jako fundament zachowań prospołecznych pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

@@ -94,9 +94,7 @@ Kluczowe pojęcia:
 
 Atrakcyjność interpersonalna jest wypadkową czynników sytuacyjnych (bliskość, ekspozycja), poznawczych (podobieństwo, wzajemność), biologicznych (sygnały zdrowia i płodności) i kulturowych (normy piękna, role płciowe). Teorie wymiany społecznej i style miłości dodają wymiar dynamiczny - atrakcyjność nie jest stałym stanem, lecz procesem stale reinterpretowanym przez pryzmat kosztów, korzyści i inwestycji.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Buss, D. M. (1989). Sex differences in human mate preferences: Evolutionary hypotheses tested in 37 cultures. *Behavioral and Brain Sciences, 12*(1), 1–14.
 - Byrne, D. (1971). *The Attraction Paradigm*. Academic Press.
@@ -110,9 +108,19 @@ Atrakcyjność interpersonalna jest wypadkową czynników sytuacyjnych (bliskoś
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Atrakcyjność interpersonalna" polega na tym, że wiele zjawisk społecznych wydaje się cechą jednostki, choć w rzeczywistości jest produktem norm, sytuacji i architektury relacji.
+
+Dopiero wspólna analiza zagadnień takich jak czynniki atrakcyjności interpersonalnej, teorie ewolucyjne atrakcyjności oraz teoria wymiany społecznej pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Atrakcyjność interpersonalna" pokazuje, że najważniejsze jest analizowanie jednocześnie procesów indywidualnych i warunków społecznych, które wzmacniają określone zachowania lub przekonania.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak czynniki atrakcyjności interpersonalnej, teorie ewolucyjne atrakcyjności oraz teoria wymiany społecznej pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

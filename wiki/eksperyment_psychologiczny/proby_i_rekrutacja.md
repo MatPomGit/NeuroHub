@@ -50,9 +50,7 @@ Często uważa się, że reprezentatywność jest wyłącznie problemem badań p
 
 - Rekrutacja jest elementem metodologii, nie tylko logistyki.
 - Kluczowe są: jawne kryteria, plan mocy i monitoring utraty uczestników.
-- Transparentny opis ograniczeń próby zwiększa wartość interpretacyjną badania.
-
-## Bibliografia
+- Transparentny opis ograniczeń próby zwiększa wartość interpretacyjną badania.## Bibliografia
 
 1. Cohen, J. (1988). *Statistical Power Analysis for the Behavioral Sciences* (2nd ed.). Erlbaum.
 2. Lakens, D. (2022). Sample size justification. *Collabra: Psychology, 8*(1), 33267.

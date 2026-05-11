@@ -105,9 +105,7 @@ Skuteczna obrona łączy wiedzę o mechanizmach z nawykami krytycznego myślenia
 
 Perswazja i propaganda operują na tych samych mechanizmach psychologicznych - różni je cel i transparentność. Zasady Cialdiniego, techniki propagandy i dark patterns cyfrowe są potężnymi narzędziami wpływu. Teoria szczepionki i wiedza o reaktancji dają odbiorcom narzędzia obrony. W erze cyfrowej, gdzie personalizowane przekazy trafiają do milionów ludzi jednocześnie, alfabetyzm medialny i krytyczne myślenie stają się kompetencjami społecznymi pierwszej potrzeby.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Brehm, J. W. (1966). *A Theory of Psychological Reactance*. Academic Press.
 - Brignull, H. (2010). Dark patterns: Deception vs. honesty in UI design. W: *A List Apart*.
@@ -118,9 +116,19 @@ Perswazja i propaganda operują na tych samych mechanizmach psychologicznych - r
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Perswazja i propaganda" polega na tym, że wiele zjawisk społecznych wydaje się cechą jednostki, choć w rzeczywistości jest produktem norm, sytuacji i architektury relacji.
+
+Dopiero wspólna analiza zagadnień takich jak zasady perswazji - cialdini, reaktancja psychologiczna oraz obrona przed perswazją i propagandą pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Perswazja i propaganda" pokazuje, że najważniejsze jest analizowanie jednocześnie procesów indywidualnych i warunków społecznych, które wzmacniają określone zachowania lub przekonania.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak zasady perswazji - cialdini, reaktancja psychologiczna oraz obrona przed perswazją i propagandą pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

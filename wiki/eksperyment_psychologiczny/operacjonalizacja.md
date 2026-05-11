@@ -50,9 +50,7 @@ Powszechne jest przekonanie, że im więcej wskaźników, tym lepiej. Alternatyw
 
 - Operacjonalizacja jest rdzeniem trafności całego projektu.
 - Kluczowa jest jawna tabela decyzji pomiarowych i ich ograniczeń.
-- Mierzyć należy to, co teoretycznie istotne, a nie tylko to, co technicznie dostępne.
-
-## Bibliografia
+- Mierzyć należy to, co teoretycznie istotne, a nie tylko to, co technicznie dostępne.## Bibliografia
 
 1. Cronbach, L. J., & Meehl, P. E. (1955). Construct validity in psychological tests. *Psychological Bulletin, 52*(4), 281–302.
 2. DeVellis, R. F., & Thorpe, C. T. (2021). *Scale Development* (5th ed.). Sage.

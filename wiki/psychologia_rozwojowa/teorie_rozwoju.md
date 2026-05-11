@@ -124,9 +124,7 @@ Styl przywiązania ukształtowany we wczesnym dzieciństwie wpływa na później
 
 Żadna z omówionych teorii nie wyjaśnia w pełni złożoności rozwoju człowieka. Współczesna psychologia rozwojowa skłania się ku podejściom integracyjnym, które łączą czynniki biologiczne (genetyka, neurobiologia), psychologiczne (poznanie, emocje) i społeczno-kulturowe. Model bioekologiczny Bronfenbrennera i aktualne badania z zakresu neuronauki rozwojowej wskazują, że natura i kultura są nierozłączne w kształtowaniu ludzkiego umysłu.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Ainsworth, M. D. S., Blehar, M., Waters, E., & Wall, S. (1978). *Patterns of Attachment*. Erlbaum.
 - Bowlby, J. (1969). *Attachment and Loss: Vol. 1. Attachment*. Basic Books.
@@ -139,9 +137,19 @@ Styl przywiązania ukształtowany we wczesnym dzieciństwie wpływa na później
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Główne teorie rozwoju psychicznego" polega na tym, że rozwój nie jest prostą sekwencją etapów, lecz dynamiczną relacją między dojrzewaniem biologicznym, środowiskiem i doświadczeniem uczenia się.
+
+Dopiero wspólna analiza zagadnień takich jak teoria stadiów poznawczych jeana piageta, ekologiczny model systemów bronfenbrennera oraz porównanie teorii pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Główne teorie rozwoju psychicznego" pokazuje, że najbardziej trafne podsumowanie wymaga łączenia perspektywy etapowej z analizą różnic indywidualnych, kontekstu i plastyczności.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak teoria stadiów poznawczych jeana piageta, ekologiczny model systemów bronfenbrennera oraz porównanie teorii pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

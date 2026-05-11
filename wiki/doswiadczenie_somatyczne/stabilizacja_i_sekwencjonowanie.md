@@ -50,9 +50,7 @@ Wysoka intensywność emocjonalna sesji bywa mylona z „głęboką pracą”. T
 
 
 
-SE działa najbezpieczniej i najskuteczniej jako proces sekwencyjny. Stabilizacja nie jest „wstępem”, który można pominąć, lecz warunkiem odpowiedzialnej pracy z materiałem traumatycznym.
-
-## Bibliografia
+SE działa najbezpieczniej i najskuteczniej jako proces sekwencyjny. Stabilizacja nie jest „wstępem”, który można pominąć, lecz warunkiem odpowiedzialnej pracy z materiałem traumatycznym.## Bibliografia
 
 1. Payne, P., Levine, P. A., & Crane-Godreau, M. A. (2015). Somatic experiencing: using interoception and proprioception as core elements of trauma therapy. *Frontiers in Psychology, 6*, 93.
 2. Van der Kolk, B. A. (2014). *The Body Keeps the Score*. Viking.

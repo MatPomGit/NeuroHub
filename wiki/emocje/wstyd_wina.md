@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -112,9 +112,7 @@ Paul Gilbert opracował **terapię skoncentrowaną na współczuciu** (CFT) spec
 
 Wstyd jest często **niewidzialnym** w gabinecie - pacjenci ukrywają go pod gniewem, ironią lub obronnym wycofaniem. Uważna identyfikacja wstydu przez terapeutę i **normalizacja** jego doświadczenia bez oceniania są kluczowymi czynnikami zmiany.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 1. Tangney, J. P., & Dearing, R. L. (2002). *Shame and Guilt*. Guilford Press.
 2. Gilbert, P. (2010). *The Compassionate Mind*. Constable.
@@ -125,10 +123,19 @@ Wstyd jest często **niewidzialnym** w gabinecie - pacjenci ukrywają go pod gni
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Wstyd i wina - emocje samoświadome" polega na tym, że emocje najtrafniej rozumie się nie jako przeszkodę dla poznania, lecz jako system informacji o potrzebach, zagrożeniach i relacjach.
+
+Dopiero wspólna analiza zagadnień takich jak różnica między wstydem a winą, empatia a wina oraz praca terapeutyczna ze wstydem pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
+Temat "Wstyd i wina - emocje samoświadome" pokazuje, że największą wartość ma ujmowanie emocji jednocześnie na poziomie doświadczenia, regulacji i konsekwencji interpersonalnych.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak różnica między wstydem a winą, empatia a wina oraz praca terapeutyczna ze wstydem pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

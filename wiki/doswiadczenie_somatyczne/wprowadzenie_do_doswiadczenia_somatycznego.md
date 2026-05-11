@@ -63,9 +63,7 @@ Nieoczywiste ujęcie SE mówi, że metoda nie konkuruje z podejściami opartymi 
 
 
 
-Somatic Experiencing to podejście skoncentrowane na przywracaniu elastyczności układu nerwowego po traumie przez pracę z ciałem, tempem i bezpieczeństwem relacyjnym. Największą wartość daje zwykle w modelu integracyjnym, jako element stabilizacji i pogłębionej psychoterapii. W praktyce jego siła polega na tym, że porządkuje proces leczenia wokół regulacji, a nie wokół presji szybkiego opowiadania o traumie.
-
-## Bibliografia
+Somatic Experiencing to podejście skoncentrowane na przywracaniu elastyczności układu nerwowego po traumie przez pracę z ciałem, tempem i bezpieczeństwem relacyjnym. Największą wartość daje zwykle w modelu integracyjnym, jako element stabilizacji i pogłębionej psychoterapii. W praktyce jego siła polega na tym, że porządkuje proces leczenia wokół regulacji, a nie wokół presji szybkiego opowiadania o traumie.## Bibliografia
 
 1. Levine, P. A. (2010). *In an Unspoken Voice: How the Body Releases Trauma and Restores Goodness*. North Atlantic Books.
 2. Payne, P., Levine, P. A., & Crane-Godreau, M. A. (2015). Somatic experiencing: using interoception and proprioception as core elements of trauma therapy. *Frontiers in Psychology, 6*, 93.

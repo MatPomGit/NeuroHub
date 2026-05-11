@@ -121,9 +121,7 @@ Psychologiczne korelaty Wu Wei:
 
 Porównanie psychologii Wschodu i Zachodu ujawnia, że sposób, w jaki postrzegamy siebie, innych i świat, jest głęboko ukształtowany przez tradycje filozoficzne i religijne danej kultury. Nie chodzi o hierarchię - żaden system nie jest „lepszy" - lecz o rozumienie, że zachodnia psychologia akademicka jest tylko jednym ze sposobów opisu umysłu ludzkiego. Integracja wschodniej mądrości z zachodnim rygorem empirycznym jest jednym z najbardziej obiecujących kierunków współczesnej psychologii.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Kabat-Zinn, J. (1990). *Full Catastrophe Living*. Delacorte Press.
 - Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation. *Psychological Review, 98*(2), 224–253.
@@ -144,8 +142,6 @@ Współczesne badania rekomendują analizę:
 - dynamiki zmian pokoleniowych.
 
 Podejście to pozwala uniknąć stereotypizacji i lepiej wyjaśnia realne mechanizmy psychologiczne.
-
-
 
 
 

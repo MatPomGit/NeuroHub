@@ -53,9 +53,7 @@ Nieoczywiste, lecz praktyczne ujęcie mówi, że pierwszą przewagą psychologa 
 
 
 
-Wejście psychologa do IT jest najbardziej skuteczne, gdy łączy język człowieka z językiem metryk. Portfolio powinno dokumentować nie tyle „co zrobiono”, ile „jak podjęto decyzję i na jakiej jakości dowodach”.
-
-## Bibliografia
+Wejście psychologa do IT jest najbardziej skuteczne, gdy łączy język człowieka z językiem metryk. Portfolio powinno dokumentować nie tyle „co zrobiono”, ile „jak podjęto decyzję i na jakiej jakości dowodach”.## Bibliografia
 
 1. Lazar, J., Feng, J. H., & Hochheiser, H. (2017). *Research Methods in Human-Computer Interaction* (2nd ed.). Morgan Kaufmann.
 2. Nielsen, J. (1994). *Usability Engineering*. Morgan Kaufmann.

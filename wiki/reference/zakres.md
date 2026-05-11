@@ -84,9 +84,7 @@ Programy kształ‚cenia są czesto projektowane gł‚ownie pod kompetencje ind
 
 - Zakres wiedzy powinien integrować nauke, praktyke i etyke.
 - Najwyższą wartoł›ć ma model kształ‚cenia oparty na dowodach i superwizji.
-- Kompetencje interdyscyplinarne są warunkiem nowoczesnej neuropsychologii klinicznej.
-
-## Bibliografia
+- Kompetencje interdyscyplinarne są warunkiem nowoczesnej neuropsychologii klinicznej.## Bibliografia
 1. Bauer, R. M., et al. (2012). Computerized neuropsychological assessment devices. *Archives of Clinical Neuropsychology, 27*(3), 362â€“373.
 2. Bush, S. S., et al. (2005). Symptom validity assessment. *The Clinical Neuropsychologist, 19*(3-4), 419â€“426.
 3. Heilman, K. M., & Valenstein, E. (2011). *Clinical Neuropsychology* (5th ed.). Oxford University Press.

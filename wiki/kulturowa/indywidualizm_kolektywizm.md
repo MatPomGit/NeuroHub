@@ -99,9 +99,7 @@ Badania Heina i Heine'a (2007) pokazują, że samowzmacnianie (*self-enhancement
 
 Wymiar indywidualizm–kolektywizm jest jednym z najlepiej udokumentowanych wymiarów różnicujących kultury i ma szerokie implikacje dla rozumienia poznania, emocji, motywacji i zdrowia psychicznego. Jednocześnie musi być stosowany ostrożnie - jako narzędzie ułatwiające rozumienie tendencji grupowych, nie etykietowania jednostek.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Hofstede, G. (2001). *Culture's Consequences: Comparing Values, Behaviors, Institutions and Organizations Across Nations* (2nd ed.). Sage.
 - Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation. *Psychological Review, 98*(2), 224–253.
@@ -121,8 +119,6 @@ Współczesna literatura podkreśla, że indywidualizm i kolektywizm nie są pro
 - **typ normy** (opisowa vs. powinnościowa).
 
 Praktyczny wniosek: interpretując wyniki badań, należy unikać etykietowania całych społeczeństw jako jednolicie „indywidualistycznych” lub „kolektywistycznych” i analizować zmienność wewnątrzkulturową.
-
-
 
 
 

@@ -68,8 +68,6 @@ Redukcjonizm tożsamości osobowej Parfita to jedno z najbardziej wpływowych st
 
 
 
-
-
 ## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).

@@ -57,9 +57,7 @@ To przesuwa akcent z walki na regulację. Pacjent nie musi natychmiast pozbywać
 
 
 W przewlekłym bólu Somatic Experiencing pomaga przede wszystkim regulować napięcie, odzyskiwać wpływ i ograniczać błędne koło podtrzymywania objawów.
-Nie jest to metoda „na wszystko”, ale może być bardzo użyteczna jako element szerszego planu leczenia. Jej siłą jest łagodność połączona z precyzją. To dobry wybór tam, gdzie przeciążenie jest częścią problemu.
-
-## Bibliografia
+Nie jest to metoda „na wszystko”, ale może być bardzo użyteczna jako element szerszego planu leczenia. Jej siłą jest łagodność połączona z precyzją. To dobry wybór tam, gdzie przeciążenie jest częścią problemu.## Bibliografia
 
 - Levine, P. A. (2010). In an Unspoken Voice: How the Body Releases Trauma and Restores Goodness. North Atlantic Books.
 - Van der Kolk, B. A. (2014). The Body Keeps the Score. Viking.

@@ -54,9 +54,19 @@ Model PERMA to wielowymiarowa, empirycznie zakorzeniona teoria dobrostanu, któr
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Model PERMA - dobrostan według Seligmana" polega na tym, że dobrostan nie rośnie liniowo wraz z liczbą pozytywnych doświadczeń, lecz zależy od sposobu integrowania zasobów z codziennym funkcjonowaniem i relacjami.
+
+Dopiero wspólna analiza zagadnień takich jak geneza modelu perma, r - relacje (*relationships*) oraz rozszerzenie: model perma-v pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Model PERMA - dobrostan według Seligmana" pokazuje, że największą wartość ma traktowanie zasobów psychicznych jako praktyk podtrzymujących sens, relacyjność i samoregulację, a nie jako zestawu haseł motywacyjnych.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak geneza modelu perma, r - relacje (*relationships*) oraz rozszerzenie: model perma-v pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

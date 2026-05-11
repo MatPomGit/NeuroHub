@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -22,9 +22,7 @@ MoCA jest bardziej wrażliwa na łagodne zaburzenia poznawcze (MCI) i lepiej wyk
 
 ## Mini-Cog
 
-Bardzo krótki (3-minutowy) test składający się z zapamiętania 3 słów, rysowania zegara (wskazanie konkretnej godziny) i przypomnienia 3 słów.[^borson2003] Wynik 0–2 sugeruje deficyt. Test jest szczególnie użyteczny w sytuacjach ograniczonego czasu lub gdy pacjent nie mówi danym językiem.
-
-## Bibliografia (APA 7)
+Bardzo krótki (3-minutowy) test składający się z zapamiętania 3 słów, rysowania zegara (wskazanie konkretnej godziny) i przypomnienia 3 słów.[^borson2003] Wynik 0–2 sugeruje deficyt. Test jest szczególnie użyteczny w sytuacjach ograniczonego czasu lub gdy pacjent nie mówi danym językiem.## Bibliografia (APA 7)
 Wpisy bibliograficzne zapisuj konsekwentnie w APA 7 oraz dodawaj DOI/URL i oznaczenie typu źródła (`[Typ: ...]`) tam, gdzie to możliwe.
 
 
@@ -35,10 +33,19 @@ Wpisy bibliograficzne zapisuj konsekwentnie w APA 7 oraz dodawaj DOI/URL i oznac
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Testy przesiewowe" polega na tym, że wynik testu ma wartość tylko wtedy, gdy jest interpretowany w kontekście celu badania, ograniczeń narzędzia i pozostałych danych o osobie badanej.
+
+Dopiero wspólna analiza zagadnień takich jak mmse - mini-mental state examination, mini-cog oraz bibliografia (apa 7) pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
+Temat "Testy przesiewowe" pokazuje, że najważniejsze pozostaje odróżnianie pomiaru od decyzji diagnostycznej oraz łączenie danych testowych z obserwacją i wywiadem.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak mmse - mini-mental state examination, mini-cog oraz bibliografia (apa 7) pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

@@ -33,9 +33,7 @@ Rodziny powinny wspierać odpowiedzialność i konkretne działania naprawcze, n
 Dowody dla sprawiedliwości naprawczej są **umiarkowane**.
 
 
-Naprawa relacyjna może wspierać trwałą zmianę, jeśli jest bezpieczna i dobrowolna.
-
-## Bibliografia
+Naprawa relacyjna może wspierać trwałą zmianę, jeśli jest bezpieczna i dobrowolna.## Bibliografia
 - Kazdin, A. E. (2021). *Research Design in Clinical Psychology* (5th ed.). Cambridge University Press.
 - NICE. (2022). *Guidelines and Quality Standards* (wybrane dokumenty dotyczące zdrowia psychicznego i interwencji psychospołecznych).
 - WHO. (2021). *Guidance on community mental health services*. World Health Organization.

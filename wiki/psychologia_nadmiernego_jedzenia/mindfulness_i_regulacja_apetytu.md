@@ -33,9 +33,7 @@ Wprowadzaj uważność etapowo i łącz z protokołami CBT/ACT.
 Dowody dla mindfulness jako dodatku do terapii są **umiarkowane**; jako monoterapii dla ciężkich przypadków - **wstępne**.
 
 
-Uważność wzmacnia samoregulację, ale wymaga osadzenia w szerszym planie.
-
-## Bibliografia
+Uważność wzmacnia samoregulację, ale wymaga osadzenia w szerszym planie.## Bibliografia
 - Kazdin, A. E. (2021). *Research Design in Clinical Psychology* (5th ed.). Cambridge University Press.
 - NICE. (2022). *Guidelines and Quality Standards* (wybrane dokumenty dotyczące zdrowia psychicznego i interwencji psychospołecznych).
 - WHO. (2021). *Guidance on community mental health services*. World Health Organization.

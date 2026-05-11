@@ -174,9 +174,19 @@ Znajomość typowych błędów badawczych nie ma na celu demotywowania - żadne 
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Typowe błędy badawcze - czego unikać" polega na tym, że najczęstsze trudności w pracy dyplomowej wynikają nie z braku pojedynczej informacji, lecz z jakości planowania, konsekwencji metodologicznej i dyscypliny redakcyjnej.
+
+Dopiero wspólna analiza zagadnień takich jak błędy na etapie projektowania badania, błędy w zbieraniu danych oraz błędy interpretacyjne pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Typowe błędy badawcze - czego unikać" pokazuje, że największą wartość daje traktowanie pracy badawczej jako procesu integrowania pytania, metody, analizy i argumentacji.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak błędy na etapie projektowania badania, błędy w zbieraniu danych oraz błędy interpretacyjne pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

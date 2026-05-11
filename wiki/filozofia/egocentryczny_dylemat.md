@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -91,10 +91,19 @@ To rozróżnienie chroni psychologię jednocześnie przed dogmatyzmem i przed pa
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Egocentryczny dylemat" polega na tym, że siła analizy filozoficznej polega nie tylko na obronie stanowiska, lecz także na ujawnianiu kosztów założeń, granic pojęć i konsekwencji intuicji.
+
+Dopiero wspólna analiza zagadnień takich jak definicja pojęcia i geneza problemu, kontrargumenty i ich ograniczenia oraz kluczowe rozróżnienie pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
+Temat "Egocentryczny dylemat" pokazuje, że najbardziej wartościowe podsumowanie wymaga odróżnienia tego, co logicznie możliwe, od tego, co epistemicznie uzasadnione i praktycznie doniosłe.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak definicja pojęcia i geneza problemu, kontrargumenty i ich ograniczenia oraz kluczowe rozróżnienie pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

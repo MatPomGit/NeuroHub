@@ -88,9 +88,7 @@ Kluczową rolę odgrywa **superwizja etyczna** - regularne konsultacje z doświa
 
 Zarówno kodeks APA, jak i kodeks PTP wyrażają wspólne wartości etyki zawodowej: dobro klienta, uczciwość, szacunek dla autonomii i odpowiedzialność społeczną. Różnią się mechanizmami egzekwowania i osadzeniem w lokalnym kontekście prawnym. Znajomość obu dokumentów jest szczególnie istotna dla psychologów pracujących w środowiskach międzynarodowych lub stosujących narzędzia i metody opracowane w USA.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - American Psychological Association. (2017). *Ethical principles of psychologists and code of conduct*. APA.
 - Polskie Towarzystwo Psychologiczne. (2018). *Kodeks Etyczno-Zawodowy Psychologa*. PTP.
@@ -100,9 +98,19 @@ Zarówno kodeks APA, jak i kodeks PTP wyrażają wspólne wartości etyki zawodo
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Zasady etyczne APA i PTP" polega na tym, że etyka zawodowa nie sprowadza się do mechanicznego stosowania reguł, lecz wymaga ważenia dóbr, ryzyk i odpowiedzialności w warunkach niepewności.
+
+Dopiero wspólna analiza zagadnień takich jak pięć zasad generalnych apa (2017), porównanie apa i ptp oraz kodeksy w codziennej praktyce pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Zasady etyczne APA i PTP" pokazuje, że najbardziej dojrzałe wnioski etyczne wynikają z łączenia zasad, kontekstu sytuacyjnego i refleksji nad skutkami decyzji.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak pięć zasad generalnych apa (2017), porównanie apa i ptp oraz kodeksy w codziennej praktyce pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

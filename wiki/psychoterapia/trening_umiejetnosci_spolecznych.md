@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -178,9 +178,7 @@ W VR i telehealth możliwe jest automatyczne logowanie metryk: czas reakcji, cz�
 
 - Integracja SST z modelami obliczeniowymi (prediction error, active inference) w celu personalizacji treningu.
 - Adaptacyjne systemy VR oparte na uczeniu ze wzmocnieniem.
-- Biomarkery (np. EEG/HRV) jako predyktory uczenia się i generalizacji.
-
-## Bibliografia (rozszerzona)
+- Biomarkery (np. EEG/HRV) jako predyktory uczenia się i generalizacji.## Bibliografia (rozszerzona)
 
 - Argyle, M. (1972). *Social Interaction*.
 - Bandura, A. (1977). *Social Learning Theory*.
@@ -199,10 +197,19 @@ W VR i telehealth możliwe jest automatyczne logowanie metryk: czas reakcji, cz�
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Trening Umiejętności Społecznych (SST)" polega na tym, że skuteczność psychoterapii zależy nie tylko od nazwy nurtu, ale od jakości konceptualizacji, przymierza, dawkowania interwencji i dopasowania do pacjenta.
+
+Dopiero wspólna analiza zagadnień takich jak rys historyczny i podstawy teoretyczne, narzędzia pomiarowe i operacjonalizacja oraz bibliografia (rozszerzona) pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
+Temat "Trening Umiejętności Społecznych (SST)" pokazuje, że najbardziej praktyczne wnioski wynikają z łączenia modelu teoretycznego z uważnością na proces zmiany, relację i ograniczenia danej metody.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak rys historyczny i podstawy teoretyczne, narzędzia pomiarowe i operacjonalizacja oraz bibliografia (rozszerzona) pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

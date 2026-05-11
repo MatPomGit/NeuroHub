@@ -55,9 +55,7 @@ Nieoczywista perspektywa podkreśla, że technologia może także wspierać sen,
 
 
 
-Wpływ technologii na sen jest istotny, ale modyfikowalny. Najlepsze rezultaty przynosi łączenie higieny snu, kontroli bodźców cyfrowych i realistycznej organizacji dnia. Ochrona snu powinna być traktowana jako element profilaktyki zdrowia psychicznego i jakości pracy poznawczej.
-
-## Bibliografia
+Wpływ technologii na sen jest istotny, ale modyfikowalny. Najlepsze rezultaty przynosi łączenie higieny snu, kontroli bodźców cyfrowych i realistycznej organizacji dnia. Ochrona snu powinna być traktowana jako element profilaktyki zdrowia psychicznego i jakości pracy poznawczej.## Bibliografia
 
 1. Cain, N., & Gradisar, M. (2010). Electronic media use and sleep in school-aged children and adolescents: A review. *Sleep Medicine*, 11(8), 735–742.
 2. Exelmans, L., & Van den Bulck, J. (2016). Bedtime mobile phone use and sleep in adults. *Social Science & Medicine*, 148, 93–101.

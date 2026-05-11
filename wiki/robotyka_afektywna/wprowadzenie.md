@@ -89,9 +89,19 @@ Robotyka afektywna i kognitywistyka to dziedziny, które coraz silniej kształtu
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Robotyka afektywna i kognitywistyka - wprowadzenie" polega na tym, że najciekawsze pytania o robotykę afektywną dotyczą nie tylko tego, czy maszyna rozpoznaje emocje, ale jak ludzie nadają temu rozpoznaniu znaczenie i zaufanie.
+
+Dopiero wspólna analiza zagadnień takich jak czym jest robotyka afektywna?, rys historyczny oraz struktura tego działu pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Robotyka afektywna i kognitywistyka - wprowadzenie" pokazuje, że największą wartość ma łączenie perspektywy technicznej z analizą relacji człowiek-maszyna, norm społecznych i odpowiedzialności projektowej.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak czym jest robotyka afektywna?, rys historyczny oraz struktura tego działu pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

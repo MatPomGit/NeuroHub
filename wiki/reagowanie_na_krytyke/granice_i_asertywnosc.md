@@ -33,9 +33,7 @@ Dominująca narracja często pyta: „jak szybko zredukować objawy?”. Perspek
 To przesunięcie akcentu jest uzasadnione danymi z badań procesowych: trwała poprawa częściej wynika z poprawy relacji, poczucia sprawstwa i jakości środowiska niż z samej krótkotrwałej redukcji symptomu.
 
 
-Na tym etapie spirali kluczowe jest rozumienie, że rzetelna praktyka wymaga równowagi między wiedzą teoretyczną, pokorą epistemiczną i stałą ewaluacją działań. Najbezpieczniejsze decyzje kliniczne wynikają z pracy hipotezowej i współpracy międzyosobowej.
-
-## Bibliografia
+Na tym etapie spirali kluczowe jest rozumienie, że rzetelna praktyka wymaga równowagi między wiedzą teoretyczną, pokorą epistemiczną i stałą ewaluacją działań. Najbezpieczniejsze decyzje kliniczne wynikają z pracy hipotezowej i współpracy międzyosobowej.## Bibliografia
 - Gilbert, P. (2010). *Compassion Focused Therapy*. Routledge.
 - Neff, K. D. (2011). Self-compassion, self-esteem, and well-being. *Social and Personality Psychology Compass*, 5(1), 1–12.
 - Hayes, S. C., Strosahl, K. D., & Wilson, K. G. (2012). *Acceptance and Commitment Therapy* (2nd ed.). Guilford Press.

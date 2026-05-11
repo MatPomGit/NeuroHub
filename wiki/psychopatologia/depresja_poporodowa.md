@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -226,10 +226,19 @@ Psychoza poporodowa (ICD-10: F53.1; ICD-11: 6E20.1) to **stan nagły psychiatryc
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Depresja poporodowa" polega na tym, że objawy nabierają znaczenia dopiero wtedy, gdy analizuje się je w przebiegu, kontekście funkcjonowania i relacji do mechanizmów podtrzymujących.
+
+Dopiero wspólna analiza zagadnień takich jak klasyfikacje i oznaczenia kodowe, różnicowanie diagnostyczne oraz podejście kliniczne - praktyczne wskazówki pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
+Temat "Depresja poporodowa" pokazuje, że najbardziej użyteczna perspektywa łączy opis symptomów z rozumieniem procesu, różnicowaniem i planowaniem interwencji.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak klasyfikacje i oznaczenia kodowe, różnicowanie diagnostyczne oraz podejście kliniczne - praktyczne wskazówki pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

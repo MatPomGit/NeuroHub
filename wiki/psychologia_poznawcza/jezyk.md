@@ -40,9 +40,7 @@ W edukacji dominuje mapa „ośrodek = funkcja”. Alternatywnie coraz silniejsz
 
 - Język jest funkcją sieciową, choć modele lokalizacyjne pozostają klinicznie użyteczne.
 - Diagnoza powinna integrować dane behawioralne i neuroobrazowe.
-- Najlepsze decyzje terapeutyczne wynikają z analizy profilu deficytów, nie tylko etykiety nozologicznej.
-
-## Bibliografia
+- Najlepsze decyzje terapeutyczne wynikają z analizy profilu deficytów, nie tylko etykiety nozologicznej.## Bibliografia
 1. Friederici, A. D. (2011). The brain basis of language processing. *Physiological Reviews, 91*(4), 1357–1392.
 2. Hickok, G., & Poeppel, D. (2007). The cortical organization of speech processing. *Nature Reviews Neuroscience, 8*(5), 393–402.
 3. Price, C. J. (2012). A review and synthesis of the first 20 years of PET and fMRI studies of heard speech, spoken language and reading. *NeuroImage, 62*(2), 816–847.

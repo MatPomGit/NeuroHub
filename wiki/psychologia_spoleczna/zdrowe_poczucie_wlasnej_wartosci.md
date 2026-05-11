@@ -115,9 +115,7 @@ W terapii (np. CBT, ACT, terapia schematów) pracuje się m.in. nad przekonaniam
 
 Zdrowe poczucie własnej wartości nie oznacza bycia „najlepszym” ani ciągłego dobrego samopoczucia. Oznacza stabilne poczucie godności, realistyczny ogląd siebie i gotowość do rozwoju bez przemocy wobec samego siebie. To kompetencja, którą można systematycznie budować - poprzez samoakceptację, wartości, relacje i codzienne nawyki.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Kernis, M. H. (2003). Toward a conceptualization of optimal self-esteem. *Psychological Inquiry, 14*(1), 1–26.
 - Leary, M. R. (2004). The curse of the self: Self-awareness, egotism, and the quality of human life. Oxford University Press.
@@ -128,9 +126,19 @@ Zdrowe poczucie własnej wartości nie oznacza bycia „najlepszym” ani ciąg�
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Zdrowe poczucie własnej wartości" polega na tym, że wiele zjawisk społecznych wydaje się cechą jednostki, choć w rzeczywistości jest produktem norm, sytuacji i architektury relacji.
+
+Dopiero wspólna analiza zagadnień takich jak czym jest zdrowe poczucie własnej wartości?, sygnały, że poczucie własnej wartości jest zdrowe oraz wątek kliniczny - kiedy warto szukać pomocy? pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Zdrowe poczucie własnej wartości" pokazuje, że najważniejsze jest analizowanie jednocześnie procesów indywidualnych i warunków społecznych, które wzmacniają określone zachowania lub przekonania.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak czym jest zdrowe poczucie własnej wartości?, sygnały, że poczucie własnej wartości jest zdrowe oraz wątek kliniczny - kiedy warto szukać pomocy? pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

@@ -33,9 +33,7 @@ Współpracuj z kuratorem na bazie konkretów: terminy, zadania, wskaźniki bezp
 Dowody dla modeli łączących kontrolę i wsparcie są **umiarkowane**.
 
 
-Prawo i pomoc powinny działać komplementarnie, nie konkurencyjnie.
-
-## Bibliografia
+Prawo i pomoc powinny działać komplementarnie, nie konkurencyjnie.## Bibliografia
 - Kazdin, A. E. (2021). *Research Design in Clinical Psychology* (5th ed.). Cambridge University Press.
 - NICE. (2022). *Guidelines and Quality Standards* (wybrane dokumenty dotyczące zdrowia psychicznego i interwencji psychospołecznych).
 - WHO. (2021). *Guidance on community mental health services*. World Health Organization.

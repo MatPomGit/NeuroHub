@@ -53,9 +53,7 @@ Zwykle pyta się, czy konwersja jest racjonalna, czy emocjonalna. Lepsze pytanie
 - Konwersja religijna jest procesem, a nie jednorazowym wydarzeniem.
 - O jej skutkach psychologicznych decyduje interakcja czynników poznawczych, emocjonalnych i relacyjnych.
 - Kluczowe znaczenie ma rozróżnienie między wsparciem wspólnotowym a presją grupową.
-- W praktyce klinicznej i badawczej najlepsze rezultaty daje podejście neutralne światopoglądowo i oparte na danych.
-
-## Bibliografia
+- W praktyce klinicznej i badawczej najlepsze rezultaty daje podejście neutralne światopoglądowo i oparte na danych.## Bibliografia
 1. Paloutzian, R. F., & Park, C. L. (Eds.). (2013). *Handbook of the Psychology of Religion and Spirituality* (2nd ed.). Guilford Press.
 2. Hood, R. W., Hill, P. C., & Spilka, B. (2009). *The Psychology of Religion: An Empirical Approach* (4th ed.). Guilford Press.
 3. Lofland, J., & Stark, R. (1965). Becoming a world-saver: A theory of conversion to a deviant perspective. *American Sociological Review*, 30(6), 862-875.

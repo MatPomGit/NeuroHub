@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -83,9 +83,7 @@ Cacioppo i in. (2011) wykazali, że **CBT ukierunkowana na samotność** jest sk
 
 ### Interwencje systemowe
 - Inicjatywy rządowe (np. UK: Minister ds. Samotności od 2018)
-- Programy sąsiedzkie i międzypokoleniowe
-
-## Bibliografia (APA 7)
+- Programy sąsiedzkie i międzypokoleniowe## Bibliografia (APA 7)
 Wpisy bibliograficzne zapisuj konsekwentnie w APA 7 oraz dodawaj DOI/URL i oznaczenie typu źródła (`[Typ: ...]`) tam, gdzie to możliwe.
 
 
@@ -98,10 +96,19 @@ Wpisy bibliograficzne zapisuj konsekwentnie w APA 7 oraz dodawaj DOI/URL i oznac
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Samotność i izolacja społeczna" polega na tym, że zjawiska relacyjne rzadko są wyłącznie wynikiem cech partnerów; zwykle podtrzymują je wzorce komunikacji, historia przywiązania i bieżący kontekst stresu.
+
+Dopiero wspólna analiza zagadnień takich jak definicja i rodzaje samotności, samotność a zdrowie - cacioppo i patrick oraz bibliografia (apa 7) pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
 ## Podsumowanie
 
+Temat "Samotność i izolacja społeczna" pokazuje, że najbardziej użyteczne jest ujmowanie relacji jako systemu współregulacji, negocjacji granic i wzajemnych interpretacji.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak definicja i rodzaje samotności, samotność a zdrowie - cacioppo i patrick oraz bibliografia (apa 7) pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

@@ -129,9 +129,7 @@ Terapie skoncentrowane na tożsamości (m.in. narracyjna, schematów, ACT) pomag
 
 Kształtowanie tożsamości to dynamiczny, całożyciowy proces eksploracji i zaangażowania - nie jednorazowe osiągnięcie. Współczesne modele podkreślają wielowymiarowość tożsamości (osobista, społeczna, etniczna, narracyjna) i jej wrażliwość na kontekst kulturowy, relacyjny i biologiczny. Rozumienie tego procesu jest kluczowe zarówno w psychologii klinicznej, jak i w pracy z adolescentami, parami i osobami w kryzysie.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Cass, V. C. (1979). Homosexual identity formation: A theoretical model. *Journal of Homosexuality*, 4(3), 219–235.
 - Erikson, E. H. (1950). *Childhood and Society*. Norton.
@@ -144,9 +142,19 @@ Kształtowanie tożsamości to dynamiczny, całożyciowy proces eksploracji i za
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Kształtowanie tożsamości" polega na tym, że rozwój nie jest prostą sekwencją etapów, lecz dynamiczną relacją między dojrzewaniem biologicznym, środowiskiem i doświadczeniem uczenia się.
+
+Dopiero wspólna analiza zagadnień takich jak eriksonowska koncepcja tożsamości, tożsamość etniczna i kulturowa oraz kliniczne implikacje pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
-## Bibliografia
+Temat "Kształtowanie tożsamości" pokazuje, że najbardziej trafne podsumowanie wymaga łączenia perspektywy etapowej z analizą różnic indywidualnych, kontekstu i plastyczności.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak eriksonowska koncepcja tożsamości, tożsamość etniczna i kulturowa oraz kliniczne implikacje pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

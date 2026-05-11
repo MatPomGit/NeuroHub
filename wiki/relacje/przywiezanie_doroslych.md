@@ -112,9 +112,7 @@ Relacja terapeutyczna może pełnić funkcję **bezpiecznej bazy** i stworzyć w
 | Model czterokategorialny | Bartholomew & Horowitz (1991) | dwa wymiary: obraz siebie i innych |
 | ECR | Brennan, Clark & Shaver (1998) | lęk i unikanie jako wymiary ciągłe |
 
----
-
-## Bibliografia (APA 7)
+---## Bibliografia (APA 7)
 Wpisy bibliograficzne zapisuj konsekwentnie w APA 7 oraz dodawaj DOI/URL i oznaczenie typu źródła (`[Typ: ...]`) tam, gdzie to możliwe.
 
 
@@ -126,8 +124,6 @@ Wpisy bibliograficzne zapisuj konsekwentnie w APA 7 oraz dodawaj DOI/URL i oznac
 - Hazan, C., & Shaver, P. R. (1987). Romantic love conceptualized as an attachment process. *Journal of Personality and Social Psychology, 52*(3), 511–524.
 - Main, M., Kaplan, N., & Cassidy, J. (1985). Security in infancy, childhood, and adulthood. *Monographs of the Society for Research in Child Development, 50*(1–2), 66–104.
 - van IJzendoorn, M. H. (1995). Adult attachment representations, parental responsiveness, and infant attachment. *Psychological Bulletin, 117*(3), 387–403.
-
-
 
 
 

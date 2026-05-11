@@ -55,9 +55,7 @@ Nieoczywistą, lecz użyteczną perspektywą jest traktowanie FOMO jako **sygna�
 
 
 
-FOMO i nomofobia są zjawiskami granicznymi między normatywną potrzebą kontaktu a nieadaptacyjną zależnością od stałej łączności. Interwencje najskuteczniejsze łączą psychoedukację, trening regulacji emocji, zmianę środowiska cyfrowego i wzmacnianie relacji offline.
-
-## Bibliografia
+FOMO i nomofobia są zjawiskami granicznymi między normatywną potrzebą kontaktu a nieadaptacyjną zależnością od stałej łączności. Interwencje najskuteczniejsze łączą psychoedukację, trening regulacji emocji, zmianę środowiska cyfrowego i wzmacnianie relacji offline.## Bibliografia
 
 1. Elhai, J. D., Dvorak, R. D., Levine, J. C., & Hall, B. J. (2017). Problematic smartphone use: A conceptual overview and systematic review. *Journal of Affective Disorders, 207*, 251–259. DOI: 10.1016/j.jad.2016.08.030.
 2. Johannes, N., Meier, A., & Kühne, R. (2021). Digital wellbeing and everyday life: Toward measurement-based smartphone use research. *Current Opinion in Psychology, 45*, 101290. DOI: 10.1016/j.copsyc.2021.11.008.

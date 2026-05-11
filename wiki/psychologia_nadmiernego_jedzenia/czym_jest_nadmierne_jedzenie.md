@@ -33,9 +33,7 @@ Buduj domowe środowisko bez zawstydzania. Ustalaj wspólne rytmy posiłków i j
 Dowody na skuteczność interwencji wieloskładnikowych (CBT + praca nawykowa + wsparcie środowiskowe) są **silne**. Dowody dla prostych, krótkich diet restrykcyjnych jako jedynego narzędzia są **wstępne** lub negatywne w perspektywie długoterminowej.
 
 
-Nadmierne jedzenie wymaga pracy nad mechanizmem, nie nad samym objawem. Najlepsze wyniki daje podejście biopsychospołeczne i etapowe.
-
-## Bibliografia
+Nadmierne jedzenie wymaga pracy nad mechanizmem, nie nad samym objawem. Najlepsze wyniki daje podejście biopsychospołeczne i etapowe.## Bibliografia
 - Kazdin, A. E. (2021). *Research Design in Clinical Psychology* (5th ed.). Cambridge University Press.
 - NICE. (2022). *Guidelines and Quality Standards* (wybrane dokumenty dotyczące zdrowia psychicznego i interwencji psychospołecznych).
 - WHO. (2021). *Guidance on community mental health services*. World Health Organization.

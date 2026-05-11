@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -75,9 +75,7 @@ W poradnictwie kariery RTT pomaga:
 
 - FCZ-KT(R) jest metodą samoopisu - podatna na zniekształcenia
 - Sześć wymiarów RTT nie pokrywa się bezpośrednio z modelami zachodnimi (np. Wielką Piątką)
-- Słabiej rozwinięte narzędzia obserwacyjne dla dzieci w porównaniu do teorii Kagana
-
-## Bibliografia
+- Słabiej rozwinięte narzędzia obserwacyjne dla dzieci w porównaniu do teorii Kagana## Bibliografia
 
 - Strelau, J. (2001). *Psychologia temperamentu*. Wydawnictwo Naukowe PWN.
 - Strelau, J., & Zawadzki, B. (1993). The Formal Characteristics of Behaviour - Temperament Inventory (FCB-TI): Theoretical assumptions and scale construction. *European Journal of Personality, 7*(5), 313–336.
@@ -88,10 +86,19 @@ W poradnictwie kariery RTT pomaga:
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Regulacyjna teoria temperamentu Strelaua" polega na tym, że temperament nie przesądza o losie jednostki, lecz wpływa na sposób reagowania, uczenia się i dopasowania do wymagań środowiska.
+
+Dopiero wspólna analiza zagadnień takich jak jan strelau i polska szkoła temperamentu, rtt a prawo yerkesa-dodsona oraz krytyka i ograniczenia pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
+Temat "Regulacyjna teoria temperamentu Strelaua" pokazuje, że najbardziej wartościowe jest ujmowanie temperamentu w relacji do rozwoju, stresu i strategii regulacyjnych, a nie jako sztywnej etykiety.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak jan strelau i polska szkoła temperamentu, rtt a prawo yerkesa-dodsona oraz krytyka i ograniczenia pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

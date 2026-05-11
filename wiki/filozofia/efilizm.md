@@ -66,8 +66,6 @@ Efilizm jest filozoficznym ćwiczeniem w konsekwencji: bierze poważnie przesła
 
 
 
-
-
 ## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).

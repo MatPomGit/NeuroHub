@@ -33,9 +33,7 @@ Pytaj dziecko o perspektywę i informuj je o przebiegu procedur w zrozumiałym j
 Dowody dla wdrożonych standardów ochrony są **umiarkowane** (silne przesłanki etyczno-prawne, zróżnicowana jakość badań wdrożeniowych).
 
 
-Prawa dziecka nie są dodatkiem do pomocy - stanowią jej warunek jakościowy.
-
-## Bibliografia
+Prawa dziecka nie są dodatkiem do pomocy - stanowią jej warunek jakościowy.## Bibliografia
 - Kazdin, A. E. (2021). *Research Design in Clinical Psychology* (5th ed.). Cambridge University Press.
 - NICE. (2022). *Guidelines and Quality Standards* (wybrane dokumenty dotyczące zdrowia psychicznego i interwencji psychospołecznych).
 - WHO. (2021). *Guidance on community mental health services*. World Health Organization.

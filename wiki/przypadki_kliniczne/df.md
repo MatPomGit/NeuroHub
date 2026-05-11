@@ -49,9 +49,7 @@ To wspiera ucieleśnione podejście do poznania, w którym inteligencja nie jest
 
 
 
-D.F. dostarczyła jednych z najbardziej przekonujących danych na temat funkcjonalnego podziału przetwarzania wzrokowego. Klinicznie jej przypadek przypomina, że ocena pacjenta powinna obejmować zarówno to, co umie on opisać, jak i to, co potrafi skutecznie zrobić.
-
-## Bibliografia
+D.F. dostarczyła jednych z najbardziej przekonujących danych na temat funkcjonalnego podziału przetwarzania wzrokowego. Klinicznie jej przypadek przypomina, że ocena pacjenta powinna obejmować zarówno to, co umie on opisać, jak i to, co potrafi skutecznie zrobić.## Bibliografia
 
 1. Milner, A. D., Goodale, M. A. (1995). *The Visual Brain in Action*. Oxford University Press.
 2. Goodale, M. A., Milner, A. D., Jakobson, L. S., & Carey, D. P. (1991). A neurological dissociation between perceiving objects and grasping them. *Nature*, 349, 154–156.

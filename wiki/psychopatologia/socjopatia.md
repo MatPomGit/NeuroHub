@@ -54,9 +54,7 @@ Ta perspektywa nie neguje odpowiedzialności jednostki; raczej uzupełnia ją o 
 
 
 
-Socjopatia jest pojęciem użytecznym opisowo, ale nieprecyzyjnym diagnostycznie. W praktyce klinicznej i badawczej bezpieczniej operować kategoriami ASPD oraz wymiarową oceną cech psychopatycznych i czynników ryzyka. Najwyższą wartość mają strategie łączące rzetelną diagnozę, ocenę ryzyka, interwencje ukierunkowane na mechanizmy oraz działania systemowe. Takie podejście zwiększa skuteczność pomocy, a jednocześnie ogranicza stygmatyzację.
-
-## Bibliografia
+Socjopatia jest pojęciem użytecznym opisowo, ale nieprecyzyjnym diagnostycznie. W praktyce klinicznej i badawczej bezpieczniej operować kategoriami ASPD oraz wymiarową oceną cech psychopatycznych i czynników ryzyka. Najwyższą wartość mają strategie łączące rzetelną diagnozę, ocenę ryzyka, interwencje ukierunkowane na mechanizmy oraz działania systemowe. Takie podejście zwiększa skuteczność pomocy, a jednocześnie ogranicza stygmatyzację.## Bibliografia
 
 1. American Psychiatric Association. (2022). *Diagnostic and Statistical Manual of Mental Disorders* (5th ed., text rev.; DSM-5-TR).
 2. World Health Organization. (2019/2022). *ICD-11 for Mortality and Morbidity Statistics*.

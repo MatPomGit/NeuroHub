@@ -126,9 +126,7 @@ Osoba z kultury niskokontekstowej może interpretować pośredniość jako niesz
 
 Kultura przenika każdy aspekt relacji interpersonalnych - od tego, co rozumiemy przez przyjaźń i miłość, po sposoby wyrażania szacunku i radzenia sobie z konfliktem. Psychologia relacji zbudowana głównie na zachodniej próbie WEIRD dostarcza niepełnego obrazu. Uwzględnienie różnorodności kulturowej nie jest dekoracją akademicką - jest warunkiem rzetelnego rozumienia i wspierania relacji w coraz bardziej wielokulturowym świecie.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 - Hall, E. T. (1976). *Beyond Culture*. Anchor Books/Doubleday.
 - Gupta, U., & Singh, P. (1982). Exploratory study of love and liking and type of marriages. *Indian Journal of Applied Psychology, 19*(2), 92–97.
@@ -149,8 +147,6 @@ Dobre praktyki obejmują:
 - elastyczne dopasowanie stylu komunikacji bez rezygnacji z granic etycznych.
 
 Tak rozumiana kompetencja kulturowa poprawia zaufanie, retencję w terapii i jakość efektów leczenia.
-
-
 
 
 

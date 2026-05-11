@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -80,9 +80,7 @@ Badania fMRI/PET wskazują:
 Epigenetyka dostarcza modelu *jak środowisko moduluje ekspresję genów temperamentalnych*:
 - Stres wczesnodziecięcy → metylacja promotora genu receptora glukokortykoidowego (NR3C1) → trwała dysregulacja osi HPA
 - Badania Meaney'a nad szczurami (metylacja NR3C1 u potomstwa stresowanych matek) mają odpowiedniki u ludzi
-- Opieka matczyna wysokiej jakości buforuje genetyczną podatność na wysoki neurotyzm
-
-## Bibliografia
+- Opieka matczyna wysokiej jakości buforuje genetyczną podatność na wysoki neurotyzm## Bibliografia
 
 - Kagan, J. (1994). *Galen's Prophecy*. Basic Books.
 - Eysenck, H. J. (1967). *The Biological Basis of Personality*. Charles C Thomas.
@@ -93,10 +91,19 @@ Epigenetyka dostarcza modelu *jak środowisko moduluje ekspresję genów tempera
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Biologiczne podłoże temperamentu" polega na tym, że temperament nie przesądza o losie jednostki, lecz wpływa na sposób reagowania, uczenia się i dopasowania do wymagań środowiska.
+
+Dopiero wspólna analiza zagadnień takich jak genetyka temperamentu, oś hpa a reaktywność emocjonalna oraz epigenetyka temperamentu pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
+Temat "Biologiczne podłoże temperamentu" pokazuje, że najbardziej wartościowe jest ujmowanie temperamentu w relacji do rozwoju, stresu i strategii regulacyjnych, a nie jako sztywnej etykiety.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak genetyka temperamentu, oś hpa a reaktywność emocjonalna oraz epigenetyka temperamentu pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

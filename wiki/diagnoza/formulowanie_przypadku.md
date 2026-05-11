@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -177,9 +177,7 @@ Dobrze skonstruowane formułowanie ma bezpośrednie przełożenie na:
 4. **Ustalenie sekwencji** - co leczyć najpierw, by otworzyć drogę do kolejnych celów
 5. **Monitorowanie postępów** - które wskaźniki świadczą o zmianie?
 
----
-
-## Bibliografia zalecana
+---## Bibliografia zalecana
 
 - Eells, T. D. (Ed.). (2007). *Handbook of Psychotherapy Case Formulation* (2nd ed.). Guilford Press.
 - Bieling, P. J., & Kuyken, W. (2003). Is cognitive case formulation science or science fiction? *Clinical Psychology: Science and Practice*, 10(1), 52–69.
@@ -188,10 +186,19 @@ Dobrze skonstruowane formułowanie ma bezpośrednie przełożenie na:
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Formułowanie przypadku w diagnozie psychologicznej" polega na tym, że w diagnozie najwięcej błędów powstaje nie na poziomie pojedynczej techniki, lecz na etapie wnioskowania z danych o różnej jakości i pochodzeniu.
+
+Dopiero wspólna analiza zagadnień takich jak czym jest formułowanie przypadku?, przykładowy schemat formułowania oraz bibliografia zalecana pokazuje pełny zakres omawianego zjawiska.
+
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
 ## Podsumowanie
 
+Temat "Formułowanie przypadku w diagnozie psychologicznej" pokazuje, że najbardziej użyteczna diagnoza łączy precyzję metodologiczną z uważnością na kontekst, relację i ograniczenia interpretacji.
 
-## Podsumowanie
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak czym jest formułowanie przypadku?, przykładowy schemat formułowania oraz bibliografia zalecana pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

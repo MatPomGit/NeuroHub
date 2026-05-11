@@ -59,9 +59,7 @@ W debacie publicznej często przeciwstawia się „biologię” i „wolę czło
 - Suicydalność ma charakter sieciowy i wieloczynnikowy.
 - Kluczowe mechanizmy obejmują neurotransmisję, oś HPA, funkcjonowanie sieci mózgowych, neurozapalenie i sen.
 - Czynniki biologiczne zwiększają podatność, ale nie działają w próżni – ich wpływ zależy od kontekstu psychologicznego i społecznego.
-- Najlepsze efekty daje interwencja zintegrowana: biologiczna, psychologiczna i środowiskowa.
-
-## Bibliografia
+- Najlepsze efekty daje interwencja zintegrowana: biologiczna, psychologiczna i środowiskowa.## Bibliografia
 1. Mann, J. J. (2003). Neurobiology of suicidal behaviour. *Nature Reviews Neuroscience*, 4(10), 819–828.
 2. Turecki, G., Brent, D. A., Gunnell, D., et al. (2019). Suicide and suicide risk. *Nature Reviews Disease Primers*, 5, 74.
 3. O'Connor, R. C., & Nock, M. K. (2014). The psychology of suicidal behaviour. *The Lancet Psychiatry*, 1(1), 73–85.

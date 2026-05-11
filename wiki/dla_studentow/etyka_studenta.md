@@ -142,7 +142,11 @@ Bycie studentem psychologii to nie tylko rola uczącego się - to już bycie cz�
 
 ## Perspektywa nieoczywista
 
+Nieoczywista perspektywa na temat "Etyka studenta psychologii - zachowanie i dobre praktyki na studiach" polega na tym, że skuteczne przygotowanie zawodowe nie polega wyłącznie na zdobyciu wiedzy deklaratywnej, ale na uczeniu się podejmowania decyzji w realnym kontekście pracy.
 
+Dopiero wspólna analiza zagadnień takich jak dlaczego etyka zaczyna się na studiach?, odpowiedzialne korzystanie z wiedzy psychologicznej oraz szacunek dla różnorodności pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
 ## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).

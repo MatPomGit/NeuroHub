@@ -1728,7 +1728,7 @@ function renderHome() {
   const cards = domains.map(sec=>{
     const cnt = sec.items.filter(i=>i.file).length;
     const navId = sec.items[0]?.id||'';
-    return `<button type="button" class="domain-card" onclick="navigate('${navId}')">
+    return `<button type="button" role="link" class="domain-card" onclick="navigate('${navId}')">
       <div class="d-name">${sec.section}</div>
       <span class="d-count">${cnt} art.</span>
     </button>`;

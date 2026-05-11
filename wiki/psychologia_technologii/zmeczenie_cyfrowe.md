@@ -12,10 +12,10 @@ Zmęczenie cyfrowe opisuje stan przewlekłego wyczerpania poznawczego i emocjona
 
 ## Definicje kluczowych pojęć
 
-- **Zmęczenie cyfrowe** — subiektywnie odczuwane wyczerpanie po interakcji z technologią, obejmujące spadek koncentracji, drażliwość i obniżenie efektywności.
-- **Przeciążenie informacyjne** — sytuacja, w której napływ informacji przekracza zdolność ich selekcji, integracji i wykorzystania decyzyjnego.
-- **Koszt przełączania uwagi** — poznawcza „opłata” za przechodzenie między zadaniami i kontekstami, prowadząca do spadku jakości pracy.
-- **Zmęczenie decyzyjne** — obniżenie jakości wyborów po serii powtarzalnych decyzji o niskiej i średniej wadze.
+- **Zmęczenie cyfrowe** - subiektywnie odczuwane wyczerpanie po interakcji z technologią, obejmujące spadek koncentracji, drażliwość i obniżenie efektywności.
+- **Przeciążenie informacyjne** - sytuacja, w której napływ informacji przekracza zdolność ich selekcji, integracji i wykorzystania decyzyjnego.
+- **Koszt przełączania uwagi** - poznawcza „opłata” za przechodzenie między zadaniami i kontekstami, prowadząca do spadku jakości pracy.
+- **Zmęczenie decyzyjne** - obniżenie jakości wyborów po serii powtarzalnych decyzji o niskiej i średniej wadze.
 
 ## Część analityczna: mechanizmy i zależności
 

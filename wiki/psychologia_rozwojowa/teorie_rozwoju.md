@@ -12,10 +12,10 @@ Psychologia rozwojowa poszukuje odpowiedzi na pytanie, w jaki sposób i dlaczego
 
 ## Teoria stadiów poznawczych Jeana Piageta
 
-Jean Piaget (1896–1980) uznał dziecko za aktywnego konstruktora wiedzy, który buduje rozumienie świata przez interakcję z otoczeniem. Centralnym pojęciem jest **schemat** — wewnętrzna reprezentacja mentalna, która podlega dwóm procesom:
+Jean Piaget (1896–1980) uznał dziecko za aktywnego konstruktora wiedzy, który buduje rozumienie świata przez interakcję z otoczeniem. Centralnym pojęciem jest **schemat** - wewnętrzna reprezentacja mentalna, która podlega dwóm procesom:
 
-- **Asymilacja** — nowa informacja jest wchłaniana do istniejącego schematu
-- **Akomodacja** — schemat zmienia się pod wpływem nowej, niepasowalnej informacji
+- **Asymilacja** - nowa informacja jest wchłaniana do istniejącego schematu
+- **Akomodacja** - schemat zmienia się pod wpływem nowej, niepasowalnej informacji
 
 Piaget wyróżnił cztery stadia, przez które każde dziecko przechodzi w tej samej kolejności:
 
@@ -32,11 +32,11 @@ Krytyka Piageta wskazuje, że niedoceniał wpływu kultury i instrukcji, a kompe
 
 ## Teoria socjokulturowa Lwa Wygotskiego
 
-Lew Wygotski (1896–1934) podkreślał, że rozwój poznawczy jest z natury społeczny — wyższe funkcje umysłowe powstają najpierw w interakcji z innymi, a dopiero potem stają się zinternalizowane. Kluczowe pojęcia:
+Lew Wygotski (1896–1934) podkreślał, że rozwój poznawczy jest z natury społeczny - wyższe funkcje umysłowe powstają najpierw w interakcji z innymi, a dopiero potem stają się zinternalizowane. Kluczowe pojęcia:
 
-- **Strefa najbliższego rozwoju (ZNR)** — dystans między tym, co dziecko potrafi samodzielnie, a tym, co osiąga z pomocą bardziej kompetentnego partnera
-- **Rusztowanie (scaffolding)** — tymczasowe wsparcie dostosowane do poziomu ucznia, które jest stopniowo wycofywane
-- **Mowa wewnętrzna** — forma myślenia wywodząca się z dialogu społecznego
+- **Strefa najbliższego rozwoju (ZNR)** - dystans między tym, co dziecko potrafi samodzielnie, a tym, co osiąga z pomocą bardziej kompetentnego partnera
+- **Rusztowanie (scaffolding)** - tymczasowe wsparcie dostosowane do poziomu ucznia, które jest stopniowo wycofywane
+- **Mowa wewnętrzna** - forma myślenia wywodząca się z dialogu społecznego
 
 Wygotski postrzegał język jako główne narzędzie myślenia i mediator kulturowy. Jego koncepcja ma bezpośrednie zastosowanie w dydaktyce i terapii.
 
@@ -44,7 +44,7 @@ Wygotski postrzegał język jako główne narzędzie myślenia i mediator kultur
 
 ## Psychospołeczna teoria Erika Eriksona
 
-Erikson (1902–1994) zaproponował ośmiostadiowy model obejmujący całe życie. Każde stadium charakteryzuje **kryzys** — biegunowe napięcie, którego rozwiązanie kształtuje osobowość:
+Erikson (1902–1994) zaproponował ośmiostadiowy model obejmujący całe życie. Każde stadium charakteryzuje **kryzys** - biegunowe napięcie, którego rozwiązanie kształtuje osobowość:
 
 | Stadium | Wiek | Kryzys | Cnota |
 |---|---|---|---|
@@ -65,11 +65,11 @@ Model Eriksona pozostaje standardem w psychologii biegu życia, choć krytycy ws
 
 Urie Bronfenbrenner (1917–2005) umieścił jednostkę w centrum koncentrycznych systemów środowiskowych:
 
-- **Mikrosystem** — bezpośrednie środowisko (rodzina, szkoła, rówieśnicy)
-- **Mezosystem** — połączenia między mikrosystemami (np. relacja szkoła–dom)
-- **Egzosystem** — systemy, w których dziecko nie uczestniczy bezpośrednio, ale które je dotyczą (np. miejsce pracy rodziców)
-- **Makrosystem** — kultura, prawo, ideologia
-- **Chronosystem** — wymiar czasu; zmiany historyczne i etapy życia
+- **Mikrosystem** - bezpośrednie środowisko (rodzina, szkoła, rówieśnicy)
+- **Mezosystem** - połączenia między mikrosystemami (np. relacja szkoła–dom)
+- **Egzosystem** - systemy, w których dziecko nie uczestniczy bezpośrednio, ale które je dotyczą (np. miejsce pracy rodziców)
+- **Makrosystem** - kultura, prawo, ideologia
+- **Chronosystem** - wymiar czasu; zmiany historyczne i etapy życia
 
 W późniejszej wersji teorii Bronfenbrenner dodał element **procesu** (Bioekologiczny Model PPCT), kładąc nacisk na aktywność jednostki jako siłę napędową własnego rozwoju.
 
@@ -82,8 +82,8 @@ Kohlberg (1927–1987) rozwinął Piagetowski wątek moralności, proponując tr
 | Poziom | Stadium | Charakterystyka |
 |---|---|---|
 | **Przedkonwencjonalny** | 1 | Moralność oparta na unikaniu kary |
-| | 2 | Wzajemność instrumentalna — „coś za coś" |
-| **Konwencjonalny** | 3 | Oczekiwania grupy — „bycie dobrym" |
+| | 2 | Wzajemność instrumentalna - „coś za coś" |
+| **Konwencjonalny** | 3 | Oczekiwania grupy - „bycie dobrym" |
 | | 4 | Prawo i porządek społeczny |
 | **Postkonwencjonalny** | 5 | Umowa społeczna i prawa jednostki |
 | | 6 | Uniwersalne zasady etyczne |
@@ -98,10 +98,10 @@ John Bowlby (1907–1990) połączył etologię z psychoanalizą, twierdząc, ż
 
 Mary Ainsworth operacjonalizowała teorię poprzez **Sytuację Obcą** (Strange Situation), wyróżniając cztery style przywiązania:
 
-- **Bezpieczny (B)** — dziecko eksploruje otoczenie, używa matki jako bezpiecznej bazy
-- **Unikający (A)** — dziecko ignoruje matkę, tłumi dystres
-- **Ambiwalentny (C)** — dziecko jest zaabsorbowane matką, trudno uspokajalne
-- **Zdezorganizowany (D)** — brak spójnej strategii, reakcje chaotyczne (Main & Solomon, 1986)
+- **Bezpieczny (B)** - dziecko eksploruje otoczenie, używa matki jako bezpiecznej bazy
+- **Unikający (A)** - dziecko ignoruje matkę, tłumi dystres
+- **Ambiwalentny (C)** - dziecko jest zaabsorbowane matką, trudno uspokajalne
+- **Zdezorganizowany (D)** - brak spójnej strategii, reakcje chaotyczne (Main & Solomon, 1986)
 
 Styl przywiązania ukształtowany we wczesnym dzieciństwie wpływa na późniejsze relacje interpersonalne, regulację emocji i psychopatologię (Mikulincer & Shaver, 2007).
 

@@ -12,10 +12,10 @@ Algorytmy personalizacji porządkują treści na podstawie przewidywanego zaanga
 
 ## Definicje kluczowych pojęć
 
-- **Algorytm personalizacji** — model rekomendacyjny, który dopasowuje treści do historii zachowań, preferencji i sygnałów kontekstowych użytkownika.
-- **Samoocena** — względnie trwała ocena własnej wartości; może mieć komponent globalny i domenowy.
-- **Porównanie społeczne w górę** — odniesienie do osób postrzeganych jako lepsze w danym obszarze.
-- **Walidacja zewnętrzna** — opieranie oceny siebie na sygnałach aprobaty otoczenia (np. polubieniach, komentarzach).
+- **Algorytm personalizacji** - model rekomendacyjny, który dopasowuje treści do historii zachowań, preferencji i sygnałów kontekstowych użytkownika.
+- **Samoocena** - względnie trwała ocena własnej wartości; może mieć komponent globalny i domenowy.
+- **Porównanie społeczne w górę** - odniesienie do osób postrzeganych jako lepsze w danym obszarze.
+- **Walidacja zewnętrzna** - opieranie oceny siebie na sygnałach aprobaty otoczenia (np. polubieniach, komentarzach).
 
 ## Część analityczna: mechanizmy i zależności
 

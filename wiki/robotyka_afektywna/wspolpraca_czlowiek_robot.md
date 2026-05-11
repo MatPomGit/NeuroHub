@@ -8,21 +8,21 @@ evidenceCutoffDate: 2025-12-31
 
 ## Definicja i zakres
 
-**Współpraca człowiek–robot** (*Human-Robot Collaboration*, HRC) to dziedzina badań i inżynierii skupiająca się na sytuacjach, w których ludzie i roboty pracują razem nad wspólnym zadaniem w tej samej przestrzeni. Różni się od szerszego pojęcia **HRI** (*Human-Robot Interaction*) tym, że zakłada aktywną współpracę — nie tylko komunikację.
+**Współpraca człowiek–robot** (*Human-Robot Collaboration*, HRC) to dziedzina badań i inżynierii skupiająca się na sytuacjach, w których ludzie i roboty pracują razem nad wspólnym zadaniem w tej samej przestrzeni. Różni się od szerszego pojęcia **HRI** (*Human-Robot Interaction*) tym, że zakłada aktywną współpracę - nie tylko komunikację.
 
 HRC stawia przed badaczami wyjątkowe wyzwania: jak zapewnić bezpieczeństwo, jak podzielić zadania, jak budować wzajemne zaufanie i jak sprawić, by współpraca była naturalna i efektywna.
 
-## Coboty — roboty współpracujące
+## Coboty - roboty współpracujące
 
 **Cobot** (*collaborative robot*) to robot przemysłowy zaprojektowany do pracy bezpośrednio obok ludzi, bez tradycyjnych barier ochronnych. Wyposażone w czujniki siły i momentu, coboty mogą zatrzymać się lub zwolnić, gdy wyczują nieoczekiwany kontakt.
 
 Pionierskie coboty:
 
-- **Universal Robots UR3/5/10** (2008) — pierwsze szeroko stosowane coboty komercyjne
-- **KUKA LBR iiwa** (2013) — robot z 7-stopniowym sterowaniem impedancją
-- **ABB YuMi** (2015) — dwuramienny cobot do montażu precyzyjnego
+- **Universal Robots UR3/5/10** (2008) - pierwsze szeroko stosowane coboty komercyjne
+- **KUKA LBR iiwa** (2013) - robot z 7-stopniowym sterowaniem impedancją
+- **ABB YuMi** (2015) - dwuramienny cobot do montażu precyzyjnego
 
-> **Fakt:** Według raportu International Federation of Robotics (IFR, 2023) sprzedaż cobotów rośnie o ponad 30% rocznie — to jeden z najszybciej rozwijających się segmentów rynku robotyki przemysłowej.
+> **Fakt:** Według raportu International Federation of Robotics (IFR, 2023) sprzedaż cobotów rośnie o ponad 30% rocznie - to jeden z najszybciej rozwijających się segmentów rynku robotyki przemysłowej.
 
 ## Podział ról i autonomia współdzielona
 
@@ -30,10 +30,10 @@ Kluczowym wyzwaniem HRC jest dynamiczny podział ról: kto decyduje, co robot ro
 
 Wymiary podziału ról:
 
-- **inicjatywa** — kto inicjuje działanie?
-- **monitorowanie** — kto obserwuje postęp?
-- **korekta błędów** — kto interweniuje przy problemach?
-- **decyzja końcowa** — kto zatwierdza wynik?
+- **inicjatywa** - kto inicjuje działanie?
+- **monitorowanie** - kto obserwuje postęp?
+- **korekta błędów** - kto interweniuje przy problemach?
+- **decyzja końcowa** - kto zatwierdza wynik?
 
 ## Zaufanie w HRC
 
@@ -43,9 +43,9 @@ Zaufanie jest centralnym pojęciem psychologii HRC. Lee i See (2004) definiują 
 
 Kluczowe znaczenie ma właściwa kalibracja zaufania:
 
-- **nadmierne zaufanie** (*overtrust*) — człowiek bezkrytycznie polega na robocie, nie wykrywa jego błędów
-- **niedostateczne zaufanie** (*undertrust*) — człowiek ignoruje poprawne wskazania robota, nie korzysta z jego możliwości
-- **kalibracja** — zaufanie proporcjonalne do rzeczywistej niezawodności robota
+- **nadmierne zaufanie** (*overtrust*) - człowiek bezkrytycznie polega na robocie, nie wykrywa jego błędów
+- **niedostateczne zaufanie** (*undertrust*) - człowiek ignoruje poprawne wskazania robota, nie korzysta z jego możliwości
+- **kalibracja** - zaufanie proporcjonalne do rzeczywistej niezawodności robota
 
 > **Fakt:** Badanie Dijkstry i współpracowników (2023) wykazało, że transparentność działania robota (wyjaśnianie swoich decyzji) znacząco poprawia kalibrację zaufania i efektywność współpracy.
 
@@ -65,11 +65,11 @@ Część pracowników odczuwa lęk, gdy robot zbliża się lub pracuje w pobliż
 
 ### Zjawisko nadmiernego polegania (*automation bias*)
 
-Ludzie mają tendencję do nadmiernego polegania na zaleceniach systemów automatycznych — nawet gdy są błędne. W HRC oznacza to ryzyko niezauważania błędów robota.
+Ludzie mają tendencję do nadmiernego polegania na zaleceniach systemów automatycznych - nawet gdy są błędne. W HRC oznacza to ryzyko niezauważania błędów robota.
 
 ### Satysfakcja z pracy
 
-Badania pokazują, że właściwie zaprojektowana HRC — gdzie robot przejmuje monotonne lub niebezpieczne zadania — zwiększa satysfakcję z pracy i poczucie sensu wśród pracowników.
+Badania pokazują, że właściwie zaprojektowana HRC - gdzie robot przejmuje monotonne lub niebezpieczne zadania - zwiększa satysfakcję z pracy i poczucie sensu wśród pracowników.
 
 ## Przyszłość pracy w erze cobotów
 
@@ -77,7 +77,7 @@ Dyskusja o wpływie robotyzacji na rynek pracy jest intensywna. Badania (Acemogl
 
 ## Podsumowanie
 
-Współpraca człowiek–robot to jeden z najważniejszych trendów kształtujących przyszłość pracy. Sukces HRC zależy od głębokiego rozumienia psychologii człowieka — jego potrzeb w zakresie bezpieczeństwa, zaufania i satysfakcji z pracy — nie mniej niż od zaawansowania technicznego cobotów.
+Współpraca człowiek–robot to jeden z najważniejszych trendów kształtujących przyszłość pracy. Sukces HRC zależy od głębokiego rozumienia psychologii człowieka - jego potrzeb w zakresie bezpieczeństwa, zaufania i satysfakcji z pracy - nie mniej niż od zaawansowania technicznego cobotów.
 
 
 ## Wprowadzenie

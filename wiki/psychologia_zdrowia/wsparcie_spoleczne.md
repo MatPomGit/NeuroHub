@@ -10,17 +10,17 @@ Wsparcie społeczne to zasoby otrzymywane od innych ludzi, które pomagają radz
 
 ## Typy wsparcia
 
-- **Emocjonalne** — empatia, akceptacja, poczucie bycia ważnym.
-- **Informacyjne** — wskazówki, wyjaśnianie leczenia, pomoc w decyzjach.
-- **Instrumentalne** — konkretna pomoc (transport na wizytę, pomoc w domu).
-- **Wartościujące** — informacja zwrotna wzmacniająca poczucie kompetencji.
+- **Emocjonalne** - empatia, akceptacja, poczucie bycia ważnym.
+- **Informacyjne** - wskazówki, wyjaśnianie leczenia, pomoc w decyzjach.
+- **Instrumentalne** - konkretna pomoc (transport na wizytę, pomoc w domu).
+- **Wartościujące** - informacja zwrotna wzmacniająca poczucie kompetencji.
 
 ## Jak wsparcie wpływa na zdrowie?
 
 Dwa główne mechanizmy:
 
-1. **Buforowanie stresu** — obecność wspierających relacji zmniejsza obciążenie emocjonalne i fizjologiczne.
-2. **Bezpośredni efekt prozdrowotny** — osoby z lepszą siecią wsparcia częściej realizują zalecenia, mają lepszy sen i większą aktywność.
+1. **Buforowanie stresu** - obecność wspierających relacji zmniejsza obciążenie emocjonalne i fizjologiczne.
+2. **Bezpośredni efekt prozdrowotny** - osoby z lepszą siecią wsparcia częściej realizują zalecenia, mają lepszy sen i większą aktywność.
 
 ## Wsparcie a choroba przewlekła
 

@@ -35,7 +35,7 @@ Osoba może mieć problem zarówno z mówieniem „nie”, jak i z odczuwaniem, 
 
 ### 4) Rozszczepienie bliskości i seksualności
 
-U części osób bliskość emocjonalna i seksualność przestają się łączyć: seks może być mechaniczny, odcięty od emocji albo przeciwnie — zbyt silnie obciążony lękiem i napięciem.
+U części osób bliskość emocjonalna i seksualność przestają się łączyć: seks może być mechaniczny, odcięty od emocji albo przeciwnie - zbyt silnie obciążony lękiem i napięciem.
 
 ---
 
@@ -117,7 +117,7 @@ Przemoc w dzieciństwie może znacząco wpływać na seksualność osoby dorosł
 - Briere, J., & Scott, C. (2015). *Principles of Trauma Therapy* (2nd ed.).
 - van der Kolk, B. A. (2014). *The Body Keeps the Score*.
 - Courtois, C. A., & Ford, J. D. (2013). *Treating Complex Traumatic Stress Disorders in Adults*.
-- World Health Organization (2021). *Violence against children* — health consequences and prevention.
+- World Health Organization (2021). *Violence against children* - health consequences and prevention.
 
 
 ## Definicje

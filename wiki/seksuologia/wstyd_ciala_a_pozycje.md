@@ -8,7 +8,7 @@ evidenceCutoffDate: 2025-12-31
 
 ## Wprowadzenie
 
-Wstyd dotyczący wyglądu ciała (*body shame*) jest jednym z częstszych, a jednocześnie rzadziej nazywanych czynników wpływających na życie seksualne. W praktyce może on modyfikować nie tylko poziom pożądania i satysfakcji, ale również bardzo konkretne zachowania — np. wybór pozycji seksualnych, oświetlenia, ubrań czy dynamiki kontaktu.
+Wstyd dotyczący wyglądu ciała (*body shame*) jest jednym z częstszych, a jednocześnie rzadziej nazywanych czynników wpływających na życie seksualne. W praktyce może on modyfikować nie tylko poziom pożądania i satysfakcji, ale również bardzo konkretne zachowania - np. wybór pozycji seksualnych, oświetlenia, ubrań czy dynamiki kontaktu.
 
 Psychologicznie nie chodzi wyłącznie o „nieśmiałość”, ale o złożone doświadczenie lęku przed oceną, samokrytycyzmu i unikania ekspozycji.
 
@@ -49,7 +49,7 @@ Wstyd ciała może wpływać na wybór pozycji w sposób nieuświadomiony. Częs
 - wybór pozycji dających większą kontrolę nad tym, co jest widoczne,
 - unikanie sytuacji, które mogłyby ujawnić napięcie lub niepewność.
 
-Sam wybór pozycji nie jest problemem — trudność pojawia się wtedy, gdy jest motywowany lękiem i sztywnością, a nie preferencją i komfortem.
+Sam wybór pozycji nie jest problemem - trudność pojawia się wtedy, gdy jest motywowany lękiem i sztywnością, a nie preferencją i komfortem.
 
 ---
 

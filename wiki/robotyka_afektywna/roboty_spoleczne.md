@@ -17,7 +17,7 @@ Definicja Cynthii Breazeal (2002) podkreśla, że robot społeczny musi:
 - budować model wewnętrzny rozmówcy i długoterminowej relacji
 - wykazywać osobowość i charakter
 
-> **Fakt:** Kismet — robot społeczny stworzony przez Cynthię Breazeal w MIT Media Lab (1999) — był pierwszym robotem zaprojektowanym wyłącznie z myślą o naturalnej interakcji emocjonalnej. Wykazywał takie stany jak zainteresowanie, znudzenie, radość i strach.
+> **Fakt:** Kismet - robot społeczny stworzony przez Cynthię Breazeal w MIT Media Lab (1999) - był pierwszym robotem zaprojektowanym wyłącznie z myślą o naturalnej interakcji emocjonalnej. Wykazywał takie stany jak zainteresowanie, znudzenie, radość i strach.
 
 ## Kategorie robotów społecznych
 
@@ -45,7 +45,7 @@ Stosowane w leczeniu i rehabilitacji. Przykłady: **KASPAR** (Hertfordshire, ter
 
 ### Proksemika
 
-Edward Hall (1966) opisał strefy przestrzenne w interakcjach ludzkich — intymną (0–45 cm), osobistą (45–120 cm), społeczną (1,2–3,6 m) i publiczną (>3,6 m). Roboty społeczne powinny respektować te strefy i dostosowywać dystans do kontekstu.
+Edward Hall (1966) opisał strefy przestrzenne w interakcjach ludzkich - intymną (0–45 cm), osobistą (45–120 cm), społeczną (1,2–3,6 m) i publiczną (>3,6 m). Roboty społeczne powinny respektować te strefy i dostosowywać dystans do kontekstu.
 
 ### Odwzajemnione spojrzenie (gaze)
 
@@ -57,24 +57,24 @@ Ludzie nieświadomie synchronizują ruchy z rozmówcą (kameleonizm, efekt kamel
 
 ## Poznanie społeczne w robotyce
 
-Roboty społeczne muszą modelować stany mentalne użytkownika — jego przekonania, pragnienia i intencje — co nazywamy **teorią umysłu** (*Theory of Mind*). Implementacja TOM w robotach to jedno z najtrudniejszych wyzwań w HRI.
+Roboty społeczne muszą modelować stany mentalne użytkownika - jego przekonania, pragnienia i intencje - co nazywamy **teorią umysłu** (*Theory of Mind*). Implementacja TOM w robotach to jedno z najtrudniejszych wyzwań w HRI.
 
 > **Fakt:** Badania Mutlu i współpracowników (2009) wykazały, że roboty stosujące dynamiczne odwzajemnione spojrzenie podczas rozmowy są oceniane jako znacznie bardziej zaangażowane społecznie niż roboty wpatrzone nieruchomo w jedną stronę.
 
 ## Różnice kulturowe w odbiorze robotów
 
-Postawy wobec robotów społecznych różnią się kulturowo. Społeczeństwo japońskie wykazuje tradycyjnie większą otwartość na roboty — co częściowo tłumaczy się animistycznym postrzeganiem świata w shintoizmie. W badaniach porównawczych Japończycy konsekwentnie wyżej oceniają roboty humanoidalne niż Europejczycy czy Amerykanie.
+Postawy wobec robotów społecznych różnią się kulturowo. Społeczeństwo japońskie wykazuje tradycyjnie większą otwartość na roboty - co częściowo tłumaczy się animistycznym postrzeganiem świata w shintoizmie. W badaniach porównawczych Japończycy konsekwentnie wyżej oceniają roboty humanoidalne niż Europejczycy czy Amerykanie.
 
 ## Wyzwania
 
-- **prywatność** — roboty towarzyszące zbierają wrażliwe dane o użytkownikach
-- **uzależnienie** — ryzyko zastępowania relacji ludzkich przez relacje z robotami
-- **bezpieczeństwo fizyczne** — roboty muszą działać bezpiecznie w pobliżu ludzi
-- **kalibracja oczekiwań** — użytkownicy często przeceniają możliwości robotów
+- **prywatność** - roboty towarzyszące zbierają wrażliwe dane o użytkownikach
+- **uzależnienie** - ryzyko zastępowania relacji ludzkich przez relacje z robotami
+- **bezpieczeństwo fizyczne** - roboty muszą działać bezpiecznie w pobliżu ludzi
+- **kalibracja oczekiwań** - użytkownicy często przeceniają możliwości robotów
 
 ## Podsumowanie
 
-Roboty społeczne stanowią jeden z najbardziej dynamicznie rozwijających się segmentów robotyki. Ich sukces zależy nie tyle od zaawansowania technicznego, ile od głębokiego rozumienia psychologii społecznej — tego, co sprawia, że ludzie ufają, lubią i rozumieją swoje maszyny.
+Roboty społeczne stanowią jeden z najbardziej dynamicznie rozwijających się segmentów robotyki. Ich sukces zależy nie tyle od zaawansowania technicznego, ile od głębokiego rozumienia psychologii społecznej - tego, co sprawia, że ludzie ufają, lubią i rozumieją swoje maszyny.
 
 
 ## Wprowadzenie

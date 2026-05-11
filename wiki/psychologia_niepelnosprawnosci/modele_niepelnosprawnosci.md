@@ -6,7 +6,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Modele niepełnosprawności
 
-Sposoby rozumienia niepełnosprawności zmieniały się wraz z rozwojem nauki i zmianami społecznymi. Każdy model niesie konsekwencje dla praktyki — kształtuje to, jak traktuje się osoby z niepełnosprawnościami, jakie interwencje się stosuje i kto bierze za nie odpowiedzialność.
+Sposoby rozumienia niepełnosprawności zmieniały się wraz z rozwojem nauki i zmianami społecznymi. Każdy model niesie konsekwencje dla praktyki - kształtuje to, jak traktuje się osoby z niepełnosprawnościami, jakie interwencje się stosuje i kto bierze za nie odpowiedzialność.
 
 ## Model medyczny
 
@@ -18,8 +18,8 @@ Niepełnosprawność jest traktowana jako **patologia zlokalizowana w ciele jedn
 
 Stworzony przez ruch osób z niepełnosprawnościami (Mike Oliver, lata 80. XX w.). Rozróżnia:
 
-- **Uszkodzenie** (impairment) — cecha ciała lub umysłu,
-- **Niepełnosprawność** — bariery społeczne i fizyczne nakładane przez otoczenie na osoby z uszkodzeniami.
+- **Uszkodzenie** (impairment) - cecha ciała lub umysłu,
+- **Niepełnosprawność** - bariery społeczne i fizyczne nakładane przez otoczenie na osoby z uszkodzeniami.
 
 Niepełnosprawność jest **problemem społecznym**, nie indywidualnym. Zmiana powinna dotyczyć środowiska, nie osoby.
 
@@ -39,13 +39,13 @@ Jest to obecnie dominujące podejście w rehabilitacji i orzecznictwie.
 
 ## Model kulturowo-tożsamościowy (Disability Identity)
 
-Niepełnosprawność jako **element tożsamości i kultury** — podobnie jak płeć czy orientacja seksualna. Osoby z niepełnosprawnościami tworzą wspólnotę z własną historią, językiem i wartościami. Nacisk na dumę, nie deficyt.
+Niepełnosprawność jako **element tożsamości i kultury** - podobnie jak płeć czy orientacja seksualna. Osoby z niepełnosprawnościami tworzą wspólnotę z własną historią, językiem i wartościami. Nacisk na dumę, nie deficyt.
 
 ## Model praw człowieka
 
 Fundament: Konwencja ONZ o Prawach Osób z Niepełnosprawnościami (CRPD, 2006). Niepełnosprawność jako kwestia **równości i praw obywatelskich**. Państwa mają obowiązek eliminować bariery i zapewniać pełne uczestnictwo.
 
-## Modele psychologiczne — paradygmat stresu i zasobów
+## Modele psychologiczne - paradygmat stresu i zasobów
 
 W psychologii ważny jest model zakładający, że dobrostan osoby z niepełnosprawnością zależy nie tylko od rodzaju uszkodzenia, lecz od:
 

@@ -8,13 +8,13 @@ evidenceCutoffDate: 2025-12-31
 
 ## NVC jako praktyka, nie tylko technika
 
-Porozumiewanie się bez przemocy często jest przedstawiane jako zestaw technik komunikacyjnych. W rzeczywistości Rosenberg mówił o NVC jako o **sposobie życia** — ciągłej praktyce obecności, empatii i autentyczności.
+Porozumiewanie się bez przemocy często jest przedstawiane jako zestaw technik komunikacyjnych. W rzeczywistości Rosenberg mówił o NVC jako o **sposobie życia** - ciągłej praktyce obecności, empatii i autentyczności.
 
-> „NVC nie jest techniką do manipulowania ludźmi w pożądany sposób. Jest sposobem bycia z innymi." — Marshall Rosenberg
+> „NVC nie jest techniką do manipulowania ludźmi w pożądany sposób. Jest sposobem bycia z innymi." - Marshall Rosenberg
 
 Codzienna praktyka NVC nie wymaga, żeby każde zdanie miało cztery komponenty. Wymaga raczej gotowości do kontaktu z własnym wnętrzem i z wnętrzem rozmówcy.
 
-## Codzienne sytuacje — jak stosować NVC?
+## Codzienne sytuacje - jak stosować NVC?
 
 ### W domu z partnerem/partnerką
 
@@ -42,7 +42,7 @@ Codzienna praktyka NVC nie wymaga, żeby każde zdanie miało cztery komponenty.
 
 ## Wewnętrzna praktyka NVC
 
-NVC to nie tylko to, co mówimy — to przede wszystkim to, co robimy wewnątrz, zanim coś powiemy.
+NVC to nie tylko to, co mówimy - to przede wszystkim to, co robimy wewnątrz, zanim coś powiemy.
 
 ### Codzienna autoempatia
 Poświęć 5–10 minut dziennie na sprawdzenie:
@@ -64,13 +64,13 @@ Wybierz jeden dzień w tygodniu, kiedy starasz się słuchać każdego rozmówcy
 ## Przeszkody w codziennej praktyce
 
 ### Stres i pośpiech
-Gdy jesteśmy zmęczeni lub pod presją, łatwo wracamy do starych nawyków komunikacyjnych. NVC wymaga zasobów — dlatego autoempatia i dbanie o siebie jest pierwszym krokiem.
+Gdy jesteśmy zmęczeni lub pod presją, łatwo wracamy do starych nawyków komunikacyjnych. NVC wymaga zasobów - dlatego autoempatia i dbanie o siebie jest pierwszym krokiem.
 
 ### Oczekiwania kulturowe
-W niektórych środowiskach otwarte mówienie o uczuciach i potrzebach jest postrzegane jako słabość. NVC można stosować dyskretnie — wewnętrznie — nie ogłaszając metody.
+W niektórych środowiskach otwarte mówienie o uczuciach i potrzebach jest postrzegane jako słabość. NVC można stosować dyskretnie - wewnętrznie - nie ogłaszając metody.
 
 ### Reakcja innych
-Nie wszyscy będą rozumieć lub doceniać NVC. Ktoś może zareagować irytacją na zmianę naszego stylu komunikacji. To normalne — zmiana wymaga czasu i cierpliwości.
+Nie wszyscy będą rozumieć lub doceniać NVC. Ktoś może zareagować irytacją na zmianę naszego stylu komunikacji. To normalne - zmiana wymaga czasu i cierpliwości.
 
 ### Perfekcjonizm w stosowaniu modelu
 Nie chodzi o idealne cztery zdania za każdym razem. NVC to postawa, nie skrypt. Nawet jedno zdanie wyrażone z empatią może zmienić dynamikę rozmowy.
@@ -99,14 +99,14 @@ Na całym świecie działają grupy praktyki NVC (*practice groups*), gdzie ucze
 
 ## Zasoby do nauki NVC
 
-- **Marshall Rosenberg, *Język serca*** (oryg. *Nonviolent Communication: A Language of Life*) — podstawowy podręcznik
+- **Marshall Rosenberg, *Język serca*** (oryg. *Nonviolent Communication: A Language of Life*) - podstawowy podręcznik
 - **Sura Hart, Victoria Kindle Hodson, *Porozumienie bez przemocy w edukacji***
-- **Lucy Leu, *NVC Workbook*** — ćwiczenia praktyczne
-- Kursy i warsztaty certyfikowanych trenerów NVC (CNVC — Center for Nonviolent Communication)
+- **Lucy Leu, *NVC Workbook*** - ćwiczenia praktyczne
+- Kursy i warsztaty certyfikowanych trenerów NVC (CNVC - Center for Nonviolent Communication)
 
 ---
 
-*Zob. też: NVC — wprowadzenie, Empatia w NVC, NVC w rozwiązywaniu konfliktów, Autoempatia*
+*Zob. też: NVC - wprowadzenie, Empatia w NVC, NVC w rozwiązywaniu konfliktów, Autoempatia*
 
 
 ## Wprowadzenie

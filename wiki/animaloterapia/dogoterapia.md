@@ -6,15 +6,15 @@ evidenceCutoffDate: 2025-12-31
 
 # Dogoterapia (canisterapia)
 
-Dogoterapia, zwana też canisterapią (od łac. *canis* — pies), to forma terapii wspomaganej przez zwierzęta (AAT) z udziałem psów. Jest najszerzej stosowaną i najlepiej zbadaną formą animaloterapii — ze względu na wyjątkową zdolność psów do nawiązywania więzi z człowiekiem, czytelność ich komunikacji i łatwość szkolenia.
+Dogoterapia, zwana też canisterapią (od łac. *canis* - pies), to forma terapii wspomaganej przez zwierzęta (AAT) z udziałem psów. Jest najszerzej stosowaną i najlepiej zbadaną formą animaloterapii - ze względu na wyjątkową zdolność psów do nawiązywania więzi z człowiekiem, czytelność ich komunikacji i łatwość szkolenia.
 
 ## Historia i definicja
 
-Pierwsze udokumentowane obserwacje terapeutycznej roli psów w psychiatrii pochodzą od Borisa Levinsona (1969). Współcześnie dogoterapia jest ustrukturyzowaną interwencją, w której certyfikowany zespół — terapeuta i odpowiednio wyszkolony pies terapeutyczny — pracuje z pacjentem w kierunku konkretnych celów terapeutycznych.
+Pierwsze udokumentowane obserwacje terapeutycznej roli psów w psychiatrii pochodzą od Borisa Levinsona (1969). Współcześnie dogoterapia jest ustrukturyzowaną interwencją, w której certyfikowany zespół - terapeuta i odpowiednio wyszkolony pies terapeutyczny - pracuje z pacjentem w kierunku konkretnych celów terapeutycznych.
 
 Odróżnia się ją od:
-- **Wizyty psów wolontariackich (AAA)** — nieformalne odwiedziny, rekreacja, bez celów terapeutycznych
-- **Psów asystujących** — psy towarzyszące osobom niepełnosprawnym na stałe
+- **Wizyty psów wolontariackich (AAA)** - nieformalne odwiedziny, rekreacja, bez celów terapeutycznych
+- **Psów asystujących** - psy towarzyszące osobom niepełnosprawnym na stałe
 
 ## Certyfikacja i wymagania
 
@@ -29,9 +29,9 @@ Pies terapeutyczny wymaga:
 
 ## Mechanizmy działania
 
-**Oksytocyna i więź:** Wzajemne spojrzenie w oczy człowieka i psa podnosi poziom oksytocyny u obu stron — ten sam mechanizm, który łączy matki z niemowlętami. Jest to ewolucyjnie unikalna cecha relacji człowiek-pies, rozwinięta przez 15 000 lat domestykacji.
+**Oksytocyna i więź:** Wzajemne spojrzenie w oczy człowieka i psa podnosi poziom oksytocyny u obu stron - ten sam mechanizm, który łączy matki z niemowlętami. Jest to ewolucyjnie unikalna cecha relacji człowiek-pies, rozwinięta przez 15 000 lat domestykacji.
 
-**Redukcja stresu:** Dotyk sierści psa aktywuje przywspółczulny układ nerwowy — spowalnia tętno, obniża ciśnienie krwi i poziom kortyzolu. Efekt obserwowany już po kilku minutach kontaktu.
+**Redukcja stresu:** Dotyk sierści psa aktywuje przywspółczulny układ nerwowy - spowalnia tętno, obniża ciśnienie krwi i poziom kortyzolu. Efekt obserwowany już po kilku minutach kontaktu.
 
 **Bezwarunkowa akceptacja:** Pies nie ocenia, nie oczekuje, nie krytykuje. Dla osób z historią odrzucenia lub niską samooceną ta niewarunkowa akceptacja jest często pierwszym krokiem do zaufania.
 
@@ -60,7 +60,7 @@ Typowa sesja terapeutyczna z psem:
 2. **Nawiązanie kontaktu** z psem w wybranym przez pacjenta tempie
 3. **Aktywności ukierunkowane na cel:** Głaskanie, wydawanie komend, szkolenie, pielęgnacja
 4. **Zakończenie i refleksja:** Omówienie doświadczeń, praca nad transferem do codzienności
-5. **Przerwa dla psa** — odpoczynek, woda, sprawdzenie dobrostanu
+5. **Przerwa dla psa** - odpoczynek, woda, sprawdzenie dobrostanu
 
 ## Badania i dowody
 

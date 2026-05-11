@@ -6,7 +6,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Teoria systemów BIS/BAS Graya
 
-Teoria Jeffreya Graya opisuje dwa podstawowe systemy motywacyjne mózgu — Behawioralny System Hamowania (BIS) i Behawioralny System Aktywacji (BAS) — które regulują reakcje na nagrodę i karę.
+Teoria Jeffreya Graya opisuje dwa podstawowe systemy motywacyjne mózgu - Behawioralny System Hamowania (BIS) i Behawioralny System Aktywacji (BAS) - które regulują reakcje na nagrodę i karę.
 
 ## Geneza teorii
 
@@ -29,8 +29,8 @@ Jeffrey Alan Gray (1934–2004) opracował swoją teorię jako **biologicznie ug
 ### Neurobiologia BIS
 BIS jest anatomicznie powiązany z:
 - **Przegrodą i hipokampem** (system przegrodowo-hipokampalny, SEP)
-- **Ciałem migdałowatym** (amygdala) — detekcja zagrożeń
-- **Korą oczodołowo-czołową** — hamowanie zachowania
+- **Ciałem migdałowatym** (amygdala) - detekcja zagrożeń
+- **Korą oczodołowo-czołową** - hamowanie zachowania
 
 ## Behawioralny System Aktywacji/Nagrody (BAS)
 
@@ -48,8 +48,8 @@ BIS jest anatomicznie powiązany z:
 ### Neurobiologia BAS
 BAS jest powiązany z:
 - ***Nucleus accumbens*** i prążkowiem brzusznym (układ mezokortykolimbiczny)
-- **Dopaminą** — przekaźnik kluczowy dla oczekiwania nagrody
-- **Korą przedczołową** — planowanie i inicjowanie działania
+- **Dopaminą** - przekaźnik kluczowy dla oczekiwania nagrody
+- **Korą przedczołową** - planowanie i inicjowanie działania
 
 ## Relacja BIS/BAS do wymiarów Eysencka
 
@@ -72,12 +72,12 @@ W 2004 roku Gray i McNaughton opublikowali **zrewidowaną RST**, która wyróżn
 | **BAS** | zbliżanie się do nagród | nadzieja, radość, pożądanie |
 | **FFFS** (*Fight-Flight-Freeze System*) | ucieczka przed zagrożeniem | strach (*fear*) |
 
-Rozróżnienie **BIS (lęk) vs FFFS (strach)** jest kluczowe: BIS towarzyszy konflikty i niepewność, FFFS — bezpośrednie zagrożenia.
+Rozróżnienie **BIS (lęk) vs FFFS (strach)** jest kluczowe: BIS towarzyszy konflikty i niepewność, FFFS - bezpośrednie zagrożenia.
 
 ## BAS a impulsywność i uzależnienia
 
 Wysokie BAS wiąże się z:
-- **Impulsywnością** — skłonnością do szybkich decyzji napędzanych oczekiwaniem nagrody
+- **Impulsywnością** - skłonnością do szybkich decyzji napędzanych oczekiwaniem nagrody
 - **Poszukiwaniem sensacji** (sensation seeking Zuckermana)
 - Podatnością na **uzależnienia**: substancje psychoaktywne dostarczają silnego sygnału nagrodowego, nadmiernie aktywując BAS
 - Hipomanią i symptomami ADHD
@@ -85,18 +85,18 @@ Wysokie BAS wiąże się z:
 ## BIS a lęk i depresja
 
 Wysokie BIS wiąże się z:
-- Ogólnym **zaburzeniem lękowym** (GAD) — tendencja do ruminacji i oceny ryzyka
-- **Fobią społeczną** — silna wrażliwość na sygnały odrzucenia
+- Ogólnym **zaburzeniem lękowym** (GAD) - tendencja do ruminacji i oceny ryzyka
+- **Fobią społeczną** - silna wrażliwość na sygnały odrzucenia
 - Podatnością na **depresję anaklitikoną** (przez chroniczne frustracje nagród)
 - Perfekcjonizmem i skłonnością do prokrastynacji
 
 ## Pomiar BIS/BAS
 
 **BIS/BAS Scales Carvera i Whitea (1994)** to najszerzej używane narzędzie: 20 pozycji, cztery skale:
-- BIS (7 poz.) — lęk, wrażliwość na karę
-- BAS Drive (4 poz.) — dążenie do celów
-- BAS Fun Seeking (4 poz.) — spontaniczne poszukiwanie przyjemności
-- BAS Reward Responsiveness (5 poz.) — pozytywne emocje na nagrodę
+- BIS (7 poz.) - lęk, wrażliwość na karę
+- BAS Drive (4 poz.) - dążenie do celów
+- BAS Fun Seeking (4 poz.) - spontaniczne poszukiwanie przyjemności
+- BAS Reward Responsiveness (5 poz.) - pozytywne emocje na nagrodę
 
 Narzędzie ma polskie adaptacje i jest szeroko stosowane w badaniach klinicznych.
 

@@ -6,7 +6,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Niepełnosprawność ruchowa
 
-**Niepełnosprawność ruchowa** obejmuje trwałe lub długotrwałe ograniczenie sprawności fizycznej, utrudniające lub uniemożliwiające samodzielne poruszanie się, wykonywanie czynności codziennych lub korzystanie z przestrzeni publicznej. Przyczyny są zróżnicowane — od wrodzonych wad układu nerwowego po nabyte urazy i choroby.
+**Niepełnosprawność ruchowa** obejmuje trwałe lub długotrwałe ograniczenie sprawności fizycznej, utrudniające lub uniemożliwiające samodzielne poruszanie się, wykonywanie czynności codziennych lub korzystanie z przestrzeni publicznej. Przyczyny są zróżnicowane - od wrodzonych wad układu nerwowego po nabyte urazy i choroby.
 
 ## Przyczyny niepełnosprawności ruchowej
 
@@ -19,11 +19,11 @@ evidenceCutoffDate: 2025-12-31
 
 Nagłe nabycie niepełnosprawności (np. po urazie rdzenia) uruchamia złożony proces adaptacji:
 
-1. **Szok i dezorganizacja** — poczucie nierealności, brak perspektywy.
-2. **Żałoba** — opłakiwanie utraconych funkcji, roli i wyobrażenia siebie.
-3. **Walka i negocjacja** — poszukiwanie leczenia, opór przed ograniczeniami.
-4. **Reorganizacja** — stopniowe przyjmowanie nowej rzeczywistości.
-5. **Adaptacja** — budowanie nowego stylu życia z uwzględnieniem ograniczeń.
+1. **Szok i dezorganizacja** - poczucie nierealności, brak perspektywy.
+2. **Żałoba** - opłakiwanie utraconych funkcji, roli i wyobrażenia siebie.
+3. **Walka i negocjacja** - poszukiwanie leczenia, opór przed ograniczeniami.
+4. **Reorganizacja** - stopniowe przyjmowanie nowej rzeczywistości.
+5. **Adaptacja** - budowanie nowego stylu życia z uwzględnieniem ograniczeń.
 
 Proces nie jest liniowy; mogą wystąpić cofnięcia, szczególnie w momentach nowych ograniczeń.
 
@@ -37,7 +37,7 @@ Proces nie jest liniowy; mogą wystąpić cofnięcia, szczególnie w momentach n
 
 ## Wsparcie psychologiczne
 
-- **Psychoterapia adaptacyjna:** CBT, ACT — praca z katastrofizacją, akceptacją i wartościami.
+- **Psychoterapia adaptacyjna:** CBT, ACT - praca z katastrofizacją, akceptacją i wartościami.
 - **Rehabilitacja psychospołeczna:** rozwijanie umiejętności codziennych w nowych warunkach.
 - **Grupy wsparcia:** wspólnota doświadczeń, modelowanie adaptacyjnych postaw.
 - **Terapia para/małżeńska:** relacje intymne w kontekście zmiany funkcjonowania.
@@ -56,11 +56,11 @@ Dostępność środowiska jest podstawowym warunkiem autonomii i uczestnictwa.
 
 ## Przykład
 
-Młoda kobieta po urazie rdzenia kręgowego na poziomie Th6 (paraplegja) przez pół roku odmawia rehabilitacji i kontaktów społecznych. W terapii ACT pracuje nad akceptacją zmienionych możliwości ciała, wyznaczaniem nowych celów życiowych i stopniowym powrotem do aktywności — najpierw online, potem w środowisku lokalnym.
+Młoda kobieta po urazie rdzenia kręgowego na poziomie Th6 (paraplegja) przez pół roku odmawia rehabilitacji i kontaktów społecznych. W terapii ACT pracuje nad akceptacją zmienionych możliwości ciała, wyznaczaniem nowych celów życiowych i stopniowym powrotem do aktywności - najpierw online, potem w środowisku lokalnym.
 
 ## Podsumowanie
 
-Niepełnosprawność ruchowa jest wyzwaniem zarówno medycznym, jak i psychospołecznym. Kluczem do wysokiej jakości życia jest nie minimalizowanie ograniczeń, lecz maksymalizowanie uczestnictwa i wsparcie autonomii — przy jednoczesnym usuwaniu barier środowiskowych.
+Niepełnosprawność ruchowa jest wyzwaniem zarówno medycznym, jak i psychospołecznym. Kluczem do wysokiej jakości życia jest nie minimalizowanie ograniczeń, lecz maksymalizowanie uczestnictwa i wsparcie autonomii - przy jednoczesnym usuwaniu barier środowiskowych.
 
 
 ## Wprowadzenie

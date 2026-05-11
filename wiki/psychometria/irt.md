@@ -10,7 +10,7 @@ Teoria odpowiedzi na pozycje (Item Response Theory, IRT) to nowoczesne podejści
 
 ## Ograniczenia CTT i motywacja dla IRT
 
-Klasyczna teoria testu (CTT) zakłada, że rzetelność testu zależy od konkretnej próby badanych — im bardziej jednorodna próba, tym niższy szacowany współczynnik rzetelności. Trudność pozycji i zdolność osoby są wyrażone na różnych skalach i nie mogą być bezpośrednio porównywane.
+Klasyczna teoria testu (CTT) zakłada, że rzetelność testu zależy od konkretnej próby badanych - im bardziej jednorodna próba, tym niższy szacowany współczynnik rzetelności. Trudność pozycji i zdolność osoby są wyrażone na różnych skalach i nie mogą być bezpośrednio porównywane.
 
 IRT rozwiązuje te problemy przez:
 - Umieszczenie trudności pozycji i zdolności osoby na tej samej skali (logity)
@@ -23,19 +23,19 @@ IRT rozwiązuje te problemy przez:
 
 *P(X=1 | θ, b) = exp(θ - b) / [1 + exp(θ - b)]*
 
-Cecha charakterystyczna: model Rascha jest **probabilistycznym modelem addytywnym** — jeśli dane dobrze pasują do modelu, wyniki są mierzalne w sensie Raasha (porównywalne jak temperatura w stopniach Celsjusza, nie tylko w rankingach).
+Cecha charakterystyczna: model Rascha jest **probabilistycznym modelem addytywnym** - jeśli dane dobrze pasują do modelu, wyniki są mierzalne w sensie Raasha (porównywalne jak temperatura w stopniach Celsjusza, nie tylko w rankingach).
 
 > **Intuicja:** Jeśli zdolność osoby θ = trudność pozycji b, prawdopodobieństwo odpowiedzi poprawnej wynosi 50%. Każde odchylenie o 1 logit zwiększa/zmniejsza prawdopodobieństwo ok. 25 punktów procentowych.
 
 ## Model 2PL i 3PL
 
-**Model 2-parametrowy (2PL, Birnbaum)** dodaje parametr dyskryminacji (a) — jak strome jest przejście od małej do dużej szansy odpowiedzi poprawnej. Pozycje z wysoką dyskryminacją lepiej różnicują osoby o zbliżonych zdolnościach.
+**Model 2-parametrowy (2PL, Birnbaum)** dodaje parametr dyskryminacji (a) - jak strome jest przejście od małej do dużej szansy odpowiedzi poprawnej. Pozycje z wysoką dyskryminacją lepiej różnicują osoby o zbliżonych zdolnościach.
 
-**Model 3-parametrowy (3PL)** dodaje parametr zgadywania (c) — dolną asymptotę krzywej charakterystycznej pozycji. Stosowany przy testach wyboru, gdzie możliwość zgadywania jest realna.
+**Model 3-parametrowy (3PL)** dodaje parametr zgadywania (c) - dolną asymptotę krzywej charakterystycznej pozycji. Stosowany przy testach wyboru, gdzie możliwość zgadywania jest realna.
 
 ## Krzywa charakterystyczna pozycji (ICC)
 
-**ICC (Item Characteristic Curve)** to graficzna reprezentacja relacji między zdolnością (θ) a prawdopodobieństwem odpowiedzi poprawnej. Dla modelu Rascha jest to krzywa logistyczna. Analiza ICC pozwala wykrywać pozycje, które zachowują się inaczej dla różnych grup (DIF — Differential Item Functioning).
+**ICC (Item Characteristic Curve)** to graficzna reprezentacja relacji między zdolnością (θ) a prawdopodobieństwem odpowiedzi poprawnej. Dla modelu Rascha jest to krzywa logistyczna. Analiza ICC pozwala wykrywać pozycje, które zachowują się inaczej dla różnych grup (DIF - Differential Item Functioning).
 
 ## Funkcja informacyjna
 
@@ -56,13 +56,13 @@ Przykłady: GRE, niektóre testy adaptacyjne ADHD i depresji.
 
 **DIF (Differential Item Functioning)** oznacza, że pozycja zachowuje się inaczej dla różnych grup (np. płeć, kultura) po kontroli za poziom zdolności. Jest to wskaźnik stronniczości testu (test bias).
 
-Wykrycie DIF nie zawsze oznacza błąd — pozycja może rzeczywiście mierzyć nieco inną cechę w różnych grupach (impact vs. bias).
+Wykrycie DIF nie zawsze oznacza błąd - pozycja może rzeczywiście mierzyć nieco inną cechę w różnych grupach (impact vs. bias).
 
 ## Dopasowanie modelu
 
 Dane empiryczne rzadko idealnie pasują do wybranego modelu IRT. Standardem jest analiza dopasowania (fit statistics):
-- **Infit** — ważony przez informację, czuły na anomalie w centrum skali
-- **Outfit** — nieważony, czuły na ekstremalne odpowiedzi
+- **Infit** - ważony przez informację, czuły na anomalie w centrum skali
+- **Outfit** - nieważony, czuły na ekstremalne odpowiedzi
 
 Pozycje z nieodpowiednim dopasowaniem powinny być rewizowane lub usunięte.
 

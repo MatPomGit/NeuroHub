@@ -30,9 +30,9 @@ Głębia jest więc bardziej „jakością bycia razem” niż intensywnością 
 
 **Dzielenie się traumą** oznacza ujawnianie doświadczeń skrajnie bolesnych (np. przemocy, zaniedbania, straty, nadużyć). Może mieć funkcję:
 
-- zdrową — kiedy służy integracji doświadczeń i odbywa się w bezpiecznej relacji,
-- obronną — kiedy staje się próbą szybkiego „skrótu do bliskości”,
-- kompulsywną — gdy osoba wielokrotnie wraca do szczegółów bez regulacji emocji.
+- zdrową - kiedy służy integracji doświadczeń i odbywa się w bezpiecznej relacji,
+- obronną - kiedy staje się próbą szybkiego „skrótu do bliskości”,
+- kompulsywną - gdy osoba wielokrotnie wraca do szczegółów bez regulacji emocji.
 
 To, że ktoś opowiada o traumie, nie musi oznaczać, że jest gotowy na bliskość albo że druga strona ma zasoby, by to bezpiecznie przyjąć.
 
@@ -42,8 +42,8 @@ To, że ktoś opowiada o traumie, nie musi oznaczać, że jest gotowy na blisko�
 
 W praktyce klinicznej i badaniach nad przywiązaniem widać, że ludzie często mylą:
 
-- **intymność** — opartą o zaufanie, granice i długoterminową troskę,
-- **intensywność** — opartą o silne emocje, nagłe odsłonięcia i szybkie poczucie „fuzji”.
+- **intymność** - opartą o zaufanie, granice i długoterminową troskę,
+- **intensywność** - opartą o silne emocje, nagłe odsłonięcia i szybkie poczucie „fuzji”.
 
 Intensywność może dawać iluzję głębi, ale bez stabilnych fundamentów relacja bywa chwiejna i wyczerpująca.
 
@@ -51,11 +51,11 @@ Intensywność może dawać iluzję głębi, ale bez stabilnych fundamentów rel
 
 ## Sygnały, że buduje się głębia (a nie tylko intensywność)
 
-1. **Wzajemność** — obie strony ujawniają się stopniowo, bez presji.
-2. **Zgoda i tempo** — rozmowa o traumie odbywa się za zgodą obu stron.
-3. **Regulacja emocji** — po trudnej rozmowie pojawia się ukojenie, nie tylko chaos.
-4. **Granice** — można powiedzieć „dziś nie mam zasobów”, bez kary emocjonalnej.
-5. **Różnorodność więzi** — relacja zawiera także radość, zwyczajność, humor i wspólne cele.
+1. **Wzajemność** - obie strony ujawniają się stopniowo, bez presji.
+2. **Zgoda i tempo** - rozmowa o traumie odbywa się za zgodą obu stron.
+3. **Regulacja emocji** - po trudnej rozmowie pojawia się ukojenie, nie tylko chaos.
+4. **Granice** - można powiedzieć „dziś nie mam zasobów”, bez kary emocjonalnej.
+5. **Różnorodność więzi** - relacja zawiera także radość, zwyczajność, humor i wspólne cele.
 
 ---
 

@@ -20,7 +20,7 @@ To osoba, która regularnie pomaga seniorowi w codziennym funkcjonowaniu, np. w:
 
 Rola ta bywa pełniona przez lata, często równolegle z pracą zawodową i innymi obowiązkami.
 
-## Obciążenie opiekuńcze — główne obszary
+## Obciążenie opiekuńcze - główne obszary
 
 ### Obciążenie emocjonalne
 

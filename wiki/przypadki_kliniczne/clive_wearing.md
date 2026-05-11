@@ -44,7 +44,7 @@ Wymaganie od pacjenta z amnezją anterogradną, aby „zapamiętał na przyszło
 
 ## Perspektywa nieoczywista
 
-W debatach społecznych pamięć bywa traktowana jako fundament tożsamości osobowej. Przypadek Wearinga pokazuje, że tożsamość może być częściowo podtrzymywana relacyjnie i ucieleśnieniowo: poprzez więzi, nawyki, ekspresję muzyczną i styl reagowania — nawet przy dramatycznie ograniczonej pamięci epizodycznej.
+W debatach społecznych pamięć bywa traktowana jako fundament tożsamości osobowej. Przypadek Wearinga pokazuje, że tożsamość może być częściowo podtrzymywana relacyjnie i ucieleśnieniowo: poprzez więzi, nawyki, ekspresję muzyczną i styl reagowania - nawet przy dramatycznie ograniczonej pamięci epizodycznej.
 
 To argument za modelem „tożsamości rozproszonej”, współtworzonej przez mózg, ciało, bliskich i środowisko.
 

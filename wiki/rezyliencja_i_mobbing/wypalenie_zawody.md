@@ -10,7 +10,7 @@ evidenceCutoffDate: 2025-12-31
 
 Wypalenie zawodowe może dotknąć pracownika w każdej branży, jednak badania epidemiologiczne konsekwentnie wskazują grupy zawodowe, w których ryzyko jest statystycznie wyższe. Wspólną cechą tych zawodów jest wysoki poziom emocjonalnego zaangażowania w pracę, niedobór zasobów organizacyjnych i systemowa odpowiedzialność za dobro innych ludzi.
 
-Paradoks wypalenia w zawodach pomocowych polega na tym, że te same cechy, które predysponują do wyboru pomagania jako zawodu — empatia, zaangażowanie, altruizm — są tymi samymi, które czynią ich posiadaczy najbardziej narażonymi na wyczerpanie.
+Paradoks wypalenia w zawodach pomocowych polega na tym, że te same cechy, które predysponują do wyboru pomagania jako zawodu - empatia, zaangażowanie, altruizm - są tymi samymi, które czynią ich posiadaczy najbardziej narażonymi na wyczerpanie.
 
 > **Fakt:** Badanie ogólnopolskie przeprowadzone przez Naczelną Izbę Pielęgniarek i Położnych (2022) wykazało, że 72% pielęgniarek i pielęgniarzy wykazuje co najmniej jeden wymiar wypalenia w stopniu wysokim, przy czym wyczerpanie emocjonalne dominuje w grupie pracujących na oddziałach intensywnej opieki medycznej.
 
@@ -24,12 +24,12 @@ Wypalenie wśród pracowników medycznych należy do najlepiej zbadanych i najba
 - konfrontacja ze śmiercią, cierpieniem i dramatycznymi sytuacjami klinicznymi
 - odpowiedzialność za życie ludzkie przy niewystarczających zasobach
 - biurokracja medyczna i dokumentacja elektroniczna pochłaniająca czas kontaktu z pacjentem
-- trauma zastępcza (*vicarious trauma*) — kumulacja bólu emocjonalnego przejętego od pacjentów
+- trauma zastępcza (*vicarious trauma*) - kumulacja bólu emocjonalnego przejętego od pacjentów
 - brak superwizji i wsparcia emocjonalnego w miejscu pracy
 
 Pandemia COVID-19 dramatycznie pogłębiła problem. Badania z lat 2020–2022 (Restauri i Sheridan, 2021) wskazują na 2–3-krotny wzrost wskaźników wypalenia wśród personelu medycznego w porównaniu do okresu przed pandemią. W polskim systemie ochrony zdrowia problem był pogłębiany przez braki kadrowe i niedofinansowanie.
 
-**Specyfika wypalenia lekarzy** — lekarze wykazują szczególną tendencję do zaprzeczania objawom wypalenia, co jest wzmacniane przez kulturę medyczną gloryfikującą wytrzymałość i poświęcenie. „Ból nie istnieje, dopóki go nie czuję" — ta postawa, funkcjonalna przy pracy chirurga, bywa zabójcza dla zdrowia psychicznego.
+**Specyfika wypalenia lekarzy** - lekarze wykazują szczególną tendencję do zaprzeczania objawom wypalenia, co jest wzmacniane przez kulturę medyczną gloryfikującą wytrzymałość i poświęcenie. „Ból nie istnieje, dopóki go nie czuję" - ta postawa, funkcjonalna przy pracy chirurga, bywa zabójcza dla zdrowia psychicznego.
 
 ## Nauczyciele i pedagodzy
 
@@ -44,13 +44,13 @@ Zawód nauczyciela łączy w sobie wymagania emocjonalne, poznawcze i relacyjne 
 - brak wsparcia ze strony dyrekcji
 - niskie wynagrodzenie w odniesieniu do wymagań pracy
 
-> **Fakt:** Badanie Pyżalskiego i Merecz-Kot (2010) przeprowadzone na reprezentatywnej próbie polskich nauczycieli wykazało, że 30% z nich wykazuje klinicznie istotne objawy wypalenia zawodowego, przy czym najwyższe ryzyko dotyczy nauczycieli z kilkunastoletnim stażem — a więc tych, od których system oczekuje największego doświadczenia.
+> **Fakt:** Badanie Pyżalskiego i Merecz-Kot (2010) przeprowadzone na reprezentatywnej próbie polskich nauczycieli wykazało, że 30% z nich wykazuje klinicznie istotne objawy wypalenia zawodowego, przy czym najwyższe ryzyko dotyczy nauczycieli z kilkunastoletnim stażem - a więc tych, od których system oczekuje największego doświadczenia.
 
 ## Pracownicy socjalni
 
-Praca socjalna łączy misję społeczną z codziennym kontaktem z ludzką tragedią — ubóstwem, przemocą, uzależnieniami, niepełnosprawnością. Pracownicy socjalni doświadczają wypalenia w podwójnym kontekście: wyczerpania emocjonalnego generowanego przez pracę z trudnymi przypadkami oraz frustracji wynikającej z systemowych ograniczeń (zbyt duże obciążenie przypadkami, brak możliwości realnej pomocy).
+Praca socjalna łączy misję społeczną z codziennym kontaktem z ludzką tragedią - ubóstwem, przemocą, uzależnieniami, niepełnosprawnością. Pracownicy socjalni doświadczają wypalenia w podwójnym kontekście: wyczerpania emocjonalnego generowanego przez pracę z trudnymi przypadkami oraz frustracji wynikającej z systemowych ograniczeń (zbyt duże obciążenie przypadkami, brak możliwości realnej pomocy).
 
-**Trauma zastępcza** jest szczególnym problemem w tej grupie zawodowej. Regularne, bezpośrednie kontakty z ofiarami przemocy, traumy i ekstremalnego ubóstwa mogą prowadzić do **zmęczenia współczuciem** (*compassion fatigue*) — wyczerpania empatycznej zdolności do reagowania na cierpienie innych.
+**Trauma zastępcza** jest szczególnym problemem w tej grupie zawodowej. Regularne, bezpośrednie kontakty z ofiarami przemocy, traumy i ekstremalnego ubóstwa mogą prowadzić do **zmęczenia współczuciem** (*compassion fatigue*) - wyczerpania empatycznej zdolności do reagowania na cierpienie innych.
 
 Badania wskazują, że pracownicy socjalni mają istotnie wyższe wskaźniki PTSD wtórnego (*secondary traumatic stress*) niż populacja ogólna, co stanowi poważne zagrożenie dla ich zdrowia psychicznego.
 
@@ -58,13 +58,13 @@ Badania wskazują, że pracownicy socjalni mają istotnie wyższe wskaźniki PTS
 
 Strażacy, policjanci, ratownicy medyczni i żołnierze konfrontują się z ekstremalnym stresem, zagrożeniem życia i tragicznymi zdarzeniami. Ich wypalenie ma specyficzny charakter, bo nakłada się na ryzyko PTSD z ekspozycji na traumę bezpośrednią.
 
-Badania wśród polskich strażaków (Beaton i in., adaptation polska) wskazują na szczególnie wysokie ryzyko wyczerpania emocjonalnego w grupie ratowników z ponad 10-letnim stażem. Paradoks „hartowania" — przekonanie, że doświadczenie czyni odpornymi — może opóźniać szukanie pomocy.
+Badania wśród polskich strażaków (Beaton i in., adaptation polska) wskazują na szczególnie wysokie ryzyko wyczerpania emocjonalnego w grupie ratowników z ponad 10-letnim stażem. Paradoks „hartowania" - przekonanie, że doświadczenie czyni odpornymi - może opóźniać szukanie pomocy.
 
 Kultura organizacyjna służb mundurowych, tradycyjnie promująca twardość i samodzielność, tworzy barierę przed sięganiem po wsparcie psychologiczne. Zmiana tej kultury jest jednym z pilnych wyzwań instytucjonalnych.
 
 ## Psychologowie i psychoterapeuci
 
-Specjaliści zdrowia psychicznego są narażeni na wypalenie w sposób paradoksalny — pomagają innym radzić sobie z wyczerpaniem, sami ignorując własne sygnały alarmowe. Praca terapeutyczna wymaga pełnej obecności emocjonalnej w kontakcie z cierpieniem pacjenta, co generuje systematyczne koszty emocjonalne.
+Specjaliści zdrowia psychicznego są narażeni na wypalenie w sposób paradoksalny - pomagają innym radzić sobie z wyczerpaniem, sami ignorując własne sygnały alarmowe. Praca terapeutyczna wymaga pełnej obecności emocjonalnej w kontakcie z cierpieniem pacjenta, co generuje systematyczne koszty emocjonalne.
 
 Czynniki chroniące psychoterapeutów:
 
@@ -85,7 +85,7 @@ Polskie badania epidemiologiczne wypalenia zawodowego, choć mniej systematyczne
 - Kobiety raportują wyższe wypalenie emocjonalne niż mężczyźni, co badacze łączą z podwójnym obciążeniem (praca zawodowa + opieka domowa).
 - Pandemia COVID-19 spowodowała wzrost liczby zwolnień lekarskich z powodów psychiatrycznych o 27% w 2021 roku (dane ZUS).
 
-> **Fakt:** Według danych ZUS za 2022 rok absencja z powodu zaburzeń psychicznych i zaburzeń zachowania wynosiła 26,5 miliona dni — co stanowi wzrost o 64% w ciągu dekady. Znaczna część tej absencji jest przypisywana wypaleniu zawodowemu i powiązanym zaburzeniom adaptacyjnym.
+> **Fakt:** Według danych ZUS za 2022 rok absencja z powodu zaburzeń psychicznych i zaburzeń zachowania wynosiła 26,5 miliona dni - co stanowi wzrost o 64% w ciągu dekady. Znaczna część tej absencji jest przypisywana wypaleniu zawodowemu i powiązanym zaburzeniom adaptacyjnym.
 
 ## Przykład kliniczny
 

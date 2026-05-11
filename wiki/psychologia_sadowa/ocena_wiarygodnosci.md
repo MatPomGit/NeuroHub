@@ -10,7 +10,7 @@ evidenceCutoffDate: 2025-12-31
 
 Zeznania świadków i ofiar są jednym z najczęstszych, a zarazem najcontroversyjnych dowodów w postępowaniu karnym. Psychologia zeznań (*psychology of testimony*) od ponad stu lat bada czynniki wpływające na jakość pamięci, podatność na sugestię, efekty przesłuchania i prawdopodobieństwo błędnych identyfikacji. Wiedza ta jest niezbędna zarówno dla biegłego oceniającego konkretne zeznanie, jak i dla systemu prawnego konstruującego procedury przesłuchań.
 
-> **Fakt:** Metaanalizy prowadzone przez Innocence Project w USA wykazały, że fałszywa identyfikacja przez naocznych świadków była głównym czynnikiem w 69% spraw, w których za pomocą DNA uwolniono skazanych niewinnie — to najczęstsza pojedyncza przyczyna pomyłek sądowych.
+> **Fakt:** Metaanalizy prowadzone przez Innocence Project w USA wykazały, że fałszywa identyfikacja przez naocznych świadków była głównym czynnikiem w 69% spraw, w których za pomocą DNA uwolniono skazanych niewinnie - to najczęstsza pojedyncza przyczyna pomyłek sądowych.
 
 ## Mechanizmy pamięci a zeznania
 
@@ -20,7 +20,7 @@ Zeznanie świadka to rekonstrukcja, nie odtworzenie zarejestrowanego nagrania. P
 
 **Sugestywność** to podatność jednostki na modyfikowanie relacji pod wpływem wskazówek zewnętrznych lub oczekiwań społecznych. Jest szczególnie istotna u dzieci i osób z niepełnosprawnością intelektualną. Mierzy się ją m.in. za pomocą Gudjonsson Suggestibility Scales (GSS).
 
-## Ocena wiarygodności — modele i metody
+## Ocena wiarygodności - modele i metody
 
 Biegły psycholog oceniający zeznanie dysponuje kilkoma metodami. Najszerzej stosowaną w Europie jest **Ocena Treści na Podstawie Kryteriów** (*Criteria-Based Content Analysis*, CBCA), wchodząca w skład procedury SVA (*Statement Validity Assessment*).
 
@@ -51,15 +51,15 @@ Osoby dorosłe będące ofiarami przemocy seksualnej lub domowej często zeznaj�
 
 Biegły musi odróżnić zeznanie wiarygodne, lecz niespójne z powodu traumy, od zeznania niespójnego z powodu kłamstwa. Służą temu m.in.: NICHD, protokoły traumatologiczne, analiza ewolucji zeznań w czasie i ocena objawów PTSD.
 
-## Detekcja kłamstwa — mity i fakty
+## Detekcja kłamstwa - mity i fakty
 
-Powszechne przekonanie, że doświadczony klinista potrafi bezbłędnie wykryć kłamstwo na podstawie obserwacji, jest empirycznie fałszywe. Metaanalizy Bonda i DePaulo (2006) wykazały, że średnia trafność detekcji kłamstwa przez ludzi wynosi około 54% — nieznacznie powyżej przypadku.
+Powszechne przekonanie, że doświadczony klinista potrafi bezbłędnie wykryć kłamstwo na podstawie obserwacji, jest empirycznie fałszywe. Metaanalizy Bonda i DePaulo (2006) wykazały, że średnia trafność detekcji kłamstwa przez ludzi wynosi około 54% - nieznacznie powyżej przypadku.
 
 Wariograf (*poligraf*) nie jest dopuszczonym dowodem sądowym w Polsce i większości krajów europejskich, ze względu na zbyt niską trafność i wysoką podatność na wyniki fałszywie pozytywne i negatywne. Nowoczesne metody neurobiologiczne (fMRI, EEG) są wciąż zbyt mało precyzyjne do stosowania sądowego.
 
 ## Podsumowanie
 
-Ocena wiarygodności zeznań jest jednym z najtrudniejszych i najbardziej odpowiedzialnych zadań biegłego psychologa. Wymaga znajomości aktualnych badań z zakresu psychologii pamięci, sugestywności, traumy i detekcji kłamstwa — oraz świadomości ograniczeń dostępnych metod. Nadmierna pewność w formułowaniu wniosków o wiarygodności jest błędem równie niebezpiecznym co niedoszacowanie wartości zeznania.
+Ocena wiarygodności zeznań jest jednym z najtrudniejszych i najbardziej odpowiedzialnych zadań biegłego psychologa. Wymaga znajomości aktualnych badań z zakresu psychologii pamięci, sugestywności, traumy i detekcji kłamstwa - oraz świadomości ograniczeń dostępnych metod. Nadmierna pewność w formułowaniu wniosków o wiarygodności jest błędem równie niebezpiecznym co niedoszacowanie wartości zeznania.
 
 
 ## Wprowadzenie

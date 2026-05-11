@@ -6,7 +6,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Agresja
 
-Agresja — zachowanie ukierunkowane na zadanie szkody innej istocie żywej — jest jednym z najczęściej badanych i najbardziej kontrowersyjnych tematów w psychologii. Czy człowiek jest z natury agresywny? Czy agresja jest wyuczona? Czy media ją wzmacniają? Odpowiedzi udzielane przez psychologię ewolucyjną, biologię, teorię uczenia się i psychologię społeczną są różne — i komplementarne.
+Agresja - zachowanie ukierunkowane na zadanie szkody innej istocie żywej - jest jednym z najczęściej badanych i najbardziej kontrowersyjnych tematów w psychologii. Czy człowiek jest z natury agresywny? Czy agresja jest wyuczona? Czy media ją wzmacniają? Odpowiedzi udzielane przez psychologię ewolucyjną, biologię, teorię uczenia się i psychologię społeczną są różne - i komplementarne.
 
 ## Definicja i rodzaje agresji
 
@@ -14,22 +14,22 @@ Psychologowie wyróżniają kilka typologicznie istotnych podziałów:
 
 | Kryterium | Typ 1 | Typ 2 |
 |---|---|---|
-| **Funkcja** | agresja wroga (reaktywna) — cel: skrzywdzenie | agresja instrumentalna — cel: uzyskanie czegoś |
+| **Funkcja** | agresja wroga (reaktywna) - cel: skrzywdzenie | agresja instrumentalna - cel: uzyskanie czegoś |
 | **Forma** | agresja fizyczna | agresja werbalna / relacyjna (wykluczenie) |
 | **Kierunek** | agresja bezpośrednia | agresja pośrednia (plotki, sabotaż) |
 | **Obiekt** | agresja interpersonalna | agresja autoagresywna |
 
-Agresja relacyjna (wykluczenie, manipulacja reputacją) jest szczególnie typowa dla dziewcząt i kobiet — badania Crick i Grotpeter (1995) wykazały, że niedocenianie jej roli zniekształcało statystyki „płci a agresji".
+Agresja relacyjna (wykluczenie, manipulacja reputacją) jest szczególnie typowa dla dziewcząt i kobiet - badania Crick i Grotpeter (1995) wykazały, że niedocenianie jej roli zniekształcało statystyki „płci a agresji".
 
 ## Instynktywistyczne teorie agresji
 
-### Freud — popęd śmierci (Tanatos)
+### Freud - popęd śmierci (Tanatos)
 
-Zygmunt Freud (1920) w *Poza zasadą przyjemności* zaproponował, że obok Erosa (popędu życia) istnieje **Tanatos** — popęd śmierci i destrukcji. Tłumiona agresja gromadzi się jak hydrauliczne ciśnienie i musi znaleźć ujście — poprzez katharsis (sport, sztuka) lub destrukcję.
+Zygmunt Freud (1920) w *Poza zasadą przyjemności* zaproponował, że obok Erosa (popędu życia) istnieje **Tanatos** - popęd śmierci i destrukcji. Tłumiona agresja gromadzi się jak hydrauliczne ciśnienie i musi znaleźć ujście - poprzez katharsis (sport, sztuka) lub destrukcję.
 
 Koncepcja ma ograniczone wsparcie empiryczne, lecz wpłynęła na późniejsze modele hydrauliczne.
 
-### Lorenz — agresja gatunkowa
+### Lorenz - agresja gatunkowa
 
 Konrad Lorenz (1966) w *Das sogenannte Böse* argumentował, że agresja jest ewolucyjnie adaptacyjną instynktowną siłą wspólną wszystkim zwierzętom. Jej funkcje: obrona terytorium, walka o zasoby, regulacja hierarchii. Specyficznie ludzkim problemem jest dysponowanie bronią, która pozwala zabijać zanim aktywują się hamulce biologiczne.
 
@@ -48,7 +48,7 @@ Berkowitz (1962, 1989) zmodyfikował hipotezę:
 
 Ogólny model agresji (GAM) syntetyzuje wcześniejsze teorie: sytuacja wejściowa (prowokacja, frustracja) aktywuje stany wewnętrzne (afekt, pobudzenie, myśli agresywne) prowadzące do oceny i decyzji o zachowaniu agresywnym lub nie.
 
-## Społeczno-kognitywna teoria uczenia się — Bandura
+## Społeczno-kognitywna teoria uczenia się - Bandura
 
 Albert Bandura przeprowadził serię przełomowych eksperymentów z **lalką Bobo** (1961, 1963):
 
@@ -62,7 +62,7 @@ Dzieci obserwowały dorosłego modela, który agresywnie bił nadmuchiwaną lalk
 
 ### Mechanizm
 
-Bandura wykazał, że agresja nie wymaga bezpośredniego wzmocnienia — uczymy się przez **modelowanie obserwacyjne**. Kluczową rolę odgrywają:
+Bandura wykazał, że agresja nie wymaga bezpośredniego wzmocnienia - uczymy się przez **modelowanie obserwacyjne**. Kluczową rolę odgrywają:
 - Uwaga (obserwacja modela)
 - Zapamiętanie (kodowanie poznawcze)
 - Reprodukcja (zdolność motoryczna)
@@ -83,7 +83,7 @@ Czynnik konfundujący: dzieci z predyspozycjami do agresji mogą aktywniej szuka
 
 ### Odwrażliwienie (desensityzacja)
 
-Wielokrotna ekspozycja na wirtualną przemoc obniża pobudzenie fizjologiczne i emocjonalne w reakcji na agresję (Carnagey i in., 2007) — efekt analogiczny do habituacji.
+Wielokrotna ekspozycja na wirtualną przemoc obniża pobudzenie fizjologiczne i emocjonalne w reakcji na agresję (Carnagey i in., 2007) - efekt analogiczny do habituacji.
 
 ## Biologiczne podstawy agresji
 
@@ -99,18 +99,18 @@ Wielokrotna ekspozycja na wirtualną przemoc obniża pobudzenie fizjologiczne i 
 
 ### Podejścia kliniczne
 
-1. **Terapia poznawczo-behawioralna (CBT)** — identyfikacja wyzwalaczy, restrukturyzacja poznawcza, trening rozwiązywania problemów
-2. **Trening umiejętności społecznych** — asertywność jako alternatywa dla agresji
-3. **Mindfulness** — zwiększenie przestrzeni między bodźcem a reakcją agresywną
-4. **Terapia zarządzania gniewem** (Novaco, 1975) — hierarchia ekspozycji na wyzwalacze, techniki relaksacyjne
+1. **Terapia poznawczo-behawioralna (CBT)** - identyfikacja wyzwalaczy, restrukturyzacja poznawcza, trening rozwiązywania problemów
+2. **Trening umiejętności społecznych** - asertywność jako alternatywa dla agresji
+3. **Mindfulness** - zwiększenie przestrzeni między bodźcem a reakcją agresywną
+4. **Terapia zarządzania gniewem** (Novaco, 1975) - hierarchia ekspozycji na wyzwalacze, techniki relaksacyjne
 
 ### Mity o katharsis
 
-Hipoteza katharsis (odreagowanie agresji przez aktywność agresywną redukuje napięcie) nie ma silnego wsparcia empirycznego. Bushman (2002) wykazał eksperymentalnie, że bicie worka bokserskiego *zwiększa* późniejszą agresję — pobudzenie i ćwiczenie wzorców agresywnych nasila, nie redukuje gotowość do agresji.
+Hipoteza katharsis (odreagowanie agresji przez aktywność agresywną redukuje napięcie) nie ma silnego wsparcia empirycznego. Bushman (2002) wykazał eksperymentalnie, że bicie worka bokserskiego *zwiększa* późniejszą agresję - pobudzenie i ćwiczenie wzorców agresywnych nasila, nie redukuje gotowość do agresji.
 
 ## Podsumowanie
 
-Agresja jest zjawiskiem wielodeterminowanym: biologiczne predyspozycje (testosteron, MAOA, ciało migdałowate) współdziałają z mechanizmami uczenia się (modelowanie Bandury), procesami poznawczymi (atrybucja wrogości) i czynnikami sytuacyjnymi (frustracja, wskazówki agresywne). Skuteczna redukcja agresji wymaga podejścia wielowymiarowego — od interwencji biologicznych i CBT po zmiany strukturalne ograniczające frustrację i przemoc medialną.
+Agresja jest zjawiskiem wielodeterminowanym: biologiczne predyspozycje (testosteron, MAOA, ciało migdałowate) współdziałają z mechanizmami uczenia się (modelowanie Bandury), procesami poznawczymi (atrybucja wrogości) i czynnikami sytuacyjnymi (frustracja, wskazówki agresywne). Skuteczna redukcja agresji wymaga podejścia wielowymiarowego - od interwencji biologicznych i CBT po zmiany strukturalne ograniczające frustrację i przemoc medialną.
 
 ---
 

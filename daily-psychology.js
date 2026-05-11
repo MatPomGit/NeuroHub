@@ -1,5 +1,5 @@
 /* ══════════════════════════════════════════════════
-   PSYCHOLOGIA CODZIENNA — dane tygodniowe
+   PSYCHOLOGIA CODZIENNA - dane tygodniowe
    Plik: daily-psychology.js
    Moduł udostępnia wyłącznie metadane dni oraz ćwiczenia.
    Ciekawostki są ładowane z pliku data_psychology_reminders.json.

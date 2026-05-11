@@ -6,20 +6,20 @@ evidenceCutoffDate: 2025-12-31
 
 # Neuronauka poznawcza
 
-Przez wieki filozofowie pytali, jak umysł wyłania się z materii. Neuronauka poznawcza podjęła to pytanie metodami empirycznymi — łącząc precyzję nauk biologicznych z bogactwem psychologii, by zrozumieć, jak mózg myśli, percypuje i tworzy świadomość.
+Przez wieki filozofowie pytali, jak umysł wyłania się z materii. Neuronauka poznawcza podjęła to pytanie metodami empirycznymi - łącząc precyzję nauk biologicznych z bogactwem psychologii, by zrozumieć, jak mózg myśli, percypuje i tworzy świadomość.
 
 ## Czym jest neuronauka poznawcza?
 
 **Neuronauka poznawcza** (ang. *cognitive neuroscience*) to interdyscyplinarna dziedzina nauki badająca biologiczne mechanizmy leżące u podstaw procesów poznawczych. Łączy metody i perspektywy:
 
-- **neurobiologii** — struktury i funkcje układu nerwowego;
-- **psychologii poznawczej** — teorie percepcji, uwagi, pamięci, języka i myślenia;
-- **informatyki i sztucznej inteligencji** — modele obliczeniowe procesów poznawczych;
-- **psychiatrii i neurologii klinicznej** — poznanie poza granicą normy.
+- **neurobiologii** - struktury i funkcje układu nerwowego;
+- **psychologii poznawczej** - teorie percepcji, uwagi, pamięci, języka i myślenia;
+- **informatyki i sztucznej inteligencji** - modele obliczeniowe procesów poznawczych;
+- **psychiatrii i neurologii klinicznej** - poznanie poza granicą normy.
 
-Fundamentalne pytanie neuronauki poznawczej brzmi: **jak aktywność neuronów — elektrochemiczne sygnały w sieciach komórek nerwowych — generuje subiektywne doświadczenie, myśl i zachowanie?**
+Fundamentalne pytanie neuronauki poznawczej brzmi: **jak aktywność neuronów - elektrochemiczne sygnały w sieciach komórek nerwowych - generuje subiektywne doświadczenie, myśl i zachowanie?**
 
-> **Historyczny kamień milowy:** Za symboliczny moment narodzin neuronauki poznawczej jako odrębnej dyscypliny uważa się rok 1977, gdy George Miller i Michael Gazzaniga zorganizowali konferencję w Rockefeller University. W 1989 ukazał się podręcznik Gazzanigi, Ivry'ego i Manguna *Cognitive Neuroscience* — do dziś kanoniczny tekst dziedziny.
+> **Historyczny kamień milowy:** Za symboliczny moment narodzin neuronauki poznawczej jako odrębnej dyscypliny uważa się rok 1977, gdy George Miller i Michael Gazzaniga zorganizowali konferencję w Rockefeller University. W 1989 ukazał się podręcznik Gazzanigi, Ivry'ego i Manguna *Cognitive Neuroscience* - do dziś kanoniczny tekst dziedziny.
 
 ## Korzenie i historia
 
@@ -29,41 +29,41 @@ Rewolucja poznawcza lat 50. i 60. XX wieku, zapoczątkowana przez pracę Ulrica 
 
 ### Neurologia behawioralna
 
-Przypadki kliniczne od XIX wieku dostarczały pierwszych map funkcjonalnych mózgu: uszkodzenia Brocki i Wernickego ujawniły lokalizację mowy, przypadek Phineasa Gage'a pokazał rolę kory przedczołowej w osobowości i decyzjach. Pacjent H.M. — po obustronnym usunięciu hipokampa pozbawiony możliwości tworzenia nowych wspomnień — stał się najważniejszym "oknem" na biologię pamięci.
+Przypadki kliniczne od XIX wieku dostarczały pierwszych map funkcjonalnych mózgu: uszkodzenia Brocki i Wernickego ujawniły lokalizację mowy, przypadek Phineasa Gage'a pokazał rolę kory przedczołowej w osobowości i decyzjach. Pacjent H.M. - po obustronnym usunięciu hipokampa pozbawiony możliwości tworzenia nowych wspomnień - stał się najważniejszym "oknem" na biologię pamięci.
 
 ### Rewolucja neuroobrazowania
 
-Pojawienie się fMRI w latach 90. umożliwiło po raz pierwszy nieinwazyjną obserwację aktywnego ludzkiego mózgu z rozdzielczością milimetrową. Otworzyło to erę systematycznego mapowania funkcji poznawczych — każdy eksperyment psychologiczny mógł odtąd zyskać neuroobrazowy korelat.
+Pojawienie się fMRI w latach 90. umożliwiło po raz pierwszy nieinwazyjną obserwację aktywnego ludzkiego mózgu z rozdzielczością milimetrową. Otworzyło to erę systematycznego mapowania funkcji poznawczych - każdy eksperyment psychologiczny mógł odtąd zyskać neuroobrazowy korelat.
 
 ## Główne obszary badań
 
 ### Percepcja i reprezentacja sensoryczna
 
-Mózg nie rejestruje rzeczywistości — **aktywnie ją konstruuje**. Percepcja wzrokowa przebiega dwoma głównymi szlakami (koncepcja Ungerleidera i Mishkina):
+Mózg nie rejestruje rzeczywistości - **aktywnie ją konstruuje**. Percepcja wzrokowa przebiega dwoma głównymi szlakami (koncepcja Ungerleidera i Mishkina):
 
-- **Szlak grzbietowy** ("gdzie i jak") — kora ciemieniowa; przestrzeń, ruch, prowadzenie działania;
-- **Szlak brzuszny** ("co") — kora skroniowa; rozpoznawanie obiektów, twarzy, kategorii.
+- **Szlak grzbietowy** ("gdzie i jak") - kora ciemieniowa; przestrzeń, ruch, prowadzenie działania;
+- **Szlak brzuszny** ("co") - kora skroniowa; rozpoznawanie obiektów, twarzy, kategorii.
 
-Neurony lustrzane odkryte przez Rizzolattiego w korze ruchowej makaków (i prawdopodobnie obecne u ludzi) aktywują się zarówno podczas wykonywania czynności, jak i podczas obserwowania jej u innych — łącząc percepcję z działaniem i stanowiąc potencjalną podstawę empatii i naśladowania.
+Neurony lustrzane odkryte przez Rizzolattiego w korze ruchowej makaków (i prawdopodobnie obecne u ludzi) aktywują się zarówno podczas wykonywania czynności, jak i podczas obserwowania jej u innych - łącząc percepcję z działaniem i stanowiąc potencjalną podstawę empatii i naśladowania.
 
 ### Uwaga i kontrola wykonawcza
 
 Uwaga jest mechanizmem selekcji informacji z przeciążonego strumienia bodźców. Modele sieciowe Posnera wyróżniają trzy składowe sieci uwagi:
 
-- **Sieć czujności** — utrzymanie gotowości do reagowania; pień mózgu i kora czołowa;
-- **Sieć orientacji** — kierowanie uwagi na bodźce; okolica ciemieniowo-czołowa;
-- **Sieć kontroli wykonawczej** — rozwiązywanie konfliktów; zakręt obręczy i kora przedczołowa.
+- **Sieć czujności** - utrzymanie gotowości do reagowania; pień mózgu i kora czołowa;
+- **Sieć orientacji** - kierowanie uwagi na bodźce; okolica ciemieniowo-czołowa;
+- **Sieć kontroli wykonawczej** - rozwiązywanie konfliktów; zakręt obręczy i kora przedczołowa.
 
-Kora przedczołowa (PFC) odgrywa centralną rolę w **kontroli wykonawczej** — planowaniu, hamowaniu impulsów, aktualizacji pamięci roboczej i elastyczności poznawczej. Modele obliczeniowe Millera i Cohena postulują, że PFC reprezentuje cele i wysyła sygnały z góry do dół, modulując przetwarzanie w obszarach sensorycznych.
+Kora przedczołowa (PFC) odgrywa centralną rolę w **kontroli wykonawczej** - planowaniu, hamowaniu impulsów, aktualizacji pamięci roboczej i elastyczności poznawczej. Modele obliczeniowe Millera i Cohena postulują, że PFC reprezentuje cele i wysyła sygnały z góry do dół, modulując przetwarzanie w obszarach sensorycznych.
 
 ### Pamięć i jej systemy
 
 Neuronauka poznawcza wyróżniła wiele odrębnych systemów pamięci z różnym podłożem neurologicznym:
 
-- **Pamięć epizodyczna** — wspomnienia zdarzeń z kontekstem czasoprzestrzennym; hipokamp i kora śródwęchowa;
-- **Pamięć semantyczna** — wiedza pojęciowa i faktograficzna; kora skroniowa boczna i czołowo-biegunowa;
-- **Pamięć proceduralna** — umiejętności ruchowe; zwoje podstawy i móżdżek;
-- **Pamięć robocza** — krótkotrwałe przechowywanie i manipulacja informacją; sieć czołowo-ciemieniowa.
+- **Pamięć epizodyczna** - wspomnienia zdarzeń z kontekstem czasoprzestrzennym; hipokamp i kora śródwęchowa;
+- **Pamięć semantyczna** - wiedza pojęciowa i faktograficzna; kora skroniowa boczna i czołowo-biegunowa;
+- **Pamięć proceduralna** - umiejętności ruchowe; zwoje podstawy i móżdżek;
+- **Pamięć robocza** - krótkotrwałe przechowywanie i manipulacja informacją; sieć czołowo-ciemieniowa.
 
 Model **konsolidacji pamięci** według hipotezy komplementarnych systemów uczenia się (McClelland, McNaughton, O'Reilly) postuluje, że hipokamp koduje epizody szybko, lecz krucho, a wielokrotna reaktywacja (podczas snu REM) przenosi ślady pamięciowe do kory do długoterminowego przechowywania.
 
@@ -75,7 +75,7 @@ Obszary Brocki (zakręt czołowy dolny, pola 44–45 Brodmanna) i Wernickego (za
 - Prozody i melodii mowy uczestniczy prawa półkula;
 - Pragmatyczne aspekty komunikacji (ironia, metafory) zależą od kory przedczołowej i prawej półkuli.
 
-Badania nad językiem migowym wykazały, że lewa półkula jest dominująca dla przetwarzania językowego niezależnie od modalności (migowy vs. mówiony) — dowód na to, że specjalizacja hemisferyczna dotyczy struktury informacji, nie zmysłu.
+Badania nad językiem migowym wykazały, że lewa półkula jest dominująca dla przetwarzania językowego niezależnie od modalności (migowy vs. mówiony) - dowód na to, że specjalizacja hemisferyczna dotyczy struktury informacji, nie zmysłu.
 
 ### Emocje i poznanie
 
@@ -89,23 +89,23 @@ Tradycyjny podział na emocjonalny "układ limbiczny" i racjonalną "korę nową
 
 Świadomość to jeden z najtrudniejszych problemów neuronauki poznawczej. Główne teorie:
 
-- **Globalna przestrzeń robocza** (Baars, Dehaene) — świadome treści są "nadawane" przez sieć czołowo-ciemieniową do globalnej przestrzeni dostępnej dla wielu modułów mózgu; nieświadome przetwarzanie pozostaje lokalne;
-- **Zintegrowana informacja (IIT)** (Tononi) — świadomość jest własnością systemów z wysoką zintegrowaną informacją (Φ); przewiduje, że ośrodki relayowe wzgórza są kluczowe;
-- **Przewidujący mózg** (Clark, Friston) — mózg generuje modele predykcyjne świata i aktualizuje je w oparciu o błędy predykcji; percepcja i świadomość to "kontrolowane halucynacje".
+- **Globalna przestrzeń robocza** (Baars, Dehaene) - świadome treści są "nadawane" przez sieć czołowo-ciemieniową do globalnej przestrzeni dostępnej dla wielu modułów mózgu; nieświadome przetwarzanie pozostaje lokalne;
+- **Zintegrowana informacja (IIT)** (Tononi) - świadomość jest własnością systemów z wysoką zintegrowaną informacją (Φ); przewiduje, że ośrodki relayowe wzgórza są kluczowe;
+- **Przewidujący mózg** (Clark, Friston) - mózg generuje modele predykcyjne świata i aktualizuje je w oparciu o błędy predykcji; percepcja i świadomość to "kontrolowane halucynacje".
 
 ## Metody neuronauki poznawczej
 
 ### Neuroobrazowanie
 
-- **fMRI** — wysoka rozdzielczość przestrzenna, pomiar pośredni przez sygnał BOLD; złoty standard lokalizacji funkcji;
-- **EEG/ERP** — milisekundowa rozdzielczość czasowa; komponenty ERP (N400, P300, MMN) są wiarygodnymi markerami konkretnych procesów poznawczych;
-- **MEG** — połączenie dobrej rozdzielczości czasowej i przestrzennej; kosztowny, rzadki;
-- **DTI** — mapowanie szlaków istoty białej; pozwala badać łączność strukturalną między obszarami.
+- **fMRI** - wysoka rozdzielczość przestrzenna, pomiar pośredni przez sygnał BOLD; złoty standard lokalizacji funkcji;
+- **EEG/ERP** - milisekundowa rozdzielczość czasowa; komponenty ERP (N400, P300, MMN) są wiarygodnymi markerami konkretnych procesów poznawczych;
+- **MEG** - połączenie dobrej rozdzielczości czasowej i przestrzennej; kosztowny, rzadki;
+- **DTI** - mapowanie szlaków istoty białej; pozwala badać łączność strukturalną między obszarami.
 
 ### Metody przezczaszkowe
 
-- **TMS** (przezczaszkowa stymulacja magnetyczna) — chwilowe zakłócenie aktywności obszaru pozwala wnioskować o jego koniecznej roli; połączenie z EEG lub fMRI umożliwia badanie łączności;
-- **tDCS/tACS** — słabe prądy stałe lub zmienne modulują pobudliwość kory; stosowane w badaniach i próbach terapeutycznych.
+- **TMS** (przezczaszkowa stymulacja magnetyczna) - chwilowe zakłócenie aktywności obszaru pozwala wnioskować o jego koniecznej roli; połączenie z EEG lub fMRI umożliwia badanie łączności;
+- **tDCS/tACS** - słabe prądy stałe lub zmienne modulują pobudliwość kory; stosowane w badaniach i próbach terapeutycznych.
 
 ### Metody obliczeniowe
 
@@ -113,21 +113,21 @@ Tradycyjny podział na emocjonalny "układ limbiczny" i racjonalną "korę nową
 
 - sieci neuronalne (DNN) jako modele wizualnej kory;
 - modele aktora-krytyka (actor-critic) jako modele uczenia przez wzmacnianie w zwojach podstawy;
-- Bayesowskie modele percepcji — mózg jako optymalny inferencyjny estymator.
+- Bayesowskie modele percepcji - mózg jako optymalny inferencyjny estymator.
 
 ### Badania lesyjne i farmakologiczne
 
-Pacjenci z ogniskowymi uszkodzeniami dostarczają "eksperymentów natury" — dysocjacje podwójne między pacjentami z różnymi uszkodzeniami potwierdzają odrębność modułów funkcjonalnych. Farmakologia (blokerybeta-adrenergiczne, NMDA-antagoniści) pozwala selektywnie modulować systemy neuroprzekaźnikowe i badać ich rolę w procesach poznawczych.
+Pacjenci z ogniskowymi uszkodzeniami dostarczają "eksperymentów natury" - dysocjacje podwójne między pacjentami z różnymi uszkodzeniami potwierdzają odrębność modułów funkcjonalnych. Farmakologia (blokerybeta-adrenergiczne, NMDA-antagoniści) pozwala selektywnie modulować systemy neuroprzekaźnikowe i badać ich rolę w procesach poznawczych.
 
 ## Odkrycia, które zmieniły rozumienie umysłu
 
 | Odkrycie | Implikacja |
 |---|---|
 | Neurony lustrzane (Rizzolatti, 1992) | Biologiczne podłoże imitacji, rozumienia działań, empatii |
-| Sieć domyślna (Raichle, 2001) | Spoczynkowy mózg aktywnie przetwarza — myślenie autorefleksyjne ma substrat |
+| Sieć domyślna (Raichle, 2001) | Spoczynkowy mózg aktywnie przetwarza - myślenie autorefleksyjne ma substrat |
 | Neurogeneza dorosłych (Gage, 1998) | Mózg dorosłego tworzy nowe neurony; rewizja dogmatu niezmienności |
-| Konsolidacja snu (Walker, Stickgold) | Sen nie jest bierny — aktywnie konsoliduje ślady pamięciowe |
-| Efekt placebo (Wager, 2004) | Oczekiwanie zmienia aktywność mózgu i percepcję bólu — "prawdziwy" efekt neurologiczny |
+| Konsolidacja snu (Walker, Stickgold) | Sen nie jest bierny - aktywnie konsoliduje ślady pamięciowe |
+| Efekt placebo (Wager, 2004) | Oczekiwanie zmienia aktywność mózgu i percepcję bólu - "prawdziwy" efekt neurologiczny |
 | Błędy predykcji dopaminy (Schultz, 1997) | Neurony dopaminergiczne kodują nie nagrodę, lecz jej nieoczekiwany charakter |
 
 ## Neuronauka poznawcza a klinika
@@ -140,9 +140,9 @@ Neuronauka poznawcza dostarcza biomarkerów dla psychiatrii i neurologii: atrofi
 
 Odkrycia neuronauki poznawczej zainspirowały interwencje terapeutyczne:
 
-- **Terapia poznawcza oparta na uważności (MBCT)** — zmiany w aktywności kory ciemieniowej i przedczołowej po interwencji dokumentowane fMRI;
-- **Stymulacja przezczaszkowa (TMS/tDCS)** — zastosowanie terapeutyczne w depresji, bólu, rehabilitacji po udarze;
-- **Neurofeedback** — pacjent uczy się modulować własną aktywność mózgu mierzoną EEG lub fMRI.
+- **Terapia poznawcza oparta na uważności (MBCT)** - zmiany w aktywności kory ciemieniowej i przedczołowej po interwencji dokumentowane fMRI;
+- **Stymulacja przezczaszkowa (TMS/tDCS)** - zastosowanie terapeutyczne w depresji, bólu, rehabilitacji po udarze;
+- **Neurofeedback** - pacjent uczy się modulować własną aktywność mózgu mierzoną EEG lub fMRI.
 
 ### Neuroetyka
 
@@ -160,10 +160,10 @@ Konwergencja neuronauki poznawczej i sztucznej inteligencji jest jednym z najbar
 
 - Głębokie sieci neuronowe (DNN) inspirowane budową kory wzrokowej wykazują uderzające podobieństwa w reprezentacjach do rzeczywistych neuronów;
 - Modele językowe (LLM) jako narzędzia do modelowania przetwarzania językowego przez mózg;
-- **Brain-computer interfaces (BCI)** — dekodowanie intencji ruchowych, przywracanie komunikacji u pacjentów z porażeniami;
-- **Projekt Mózg Ludzki (Human Brain Project)** i **BRAIN Initiative** — programy tworzenia wieloskalowych map i modeli całego ludzkiego mózgu.
+- **Brain-computer interfaces (BCI)** - dekodowanie intencji ruchowych, przywracanie komunikacji u pacjentów z porażeniami;
+- **Projekt Mózg Ludzki (Human Brain Project)** i **BRAIN Initiative** - programy tworzenia wieloskalowych map i modeli całego ludzkiego mózgu.
 
-Neuronauka poznawcza stoi dziś na progu syntezy biologicznej szczegółowości i obliczeniowej elegancji — z szansą na zrozumienie jednej z najtrudniejszych zagadek: jak materia staje się świadomością.
+Neuronauka poznawcza stoi dziś na progu syntezy biologicznej szczegółowości i obliczeniowej elegancji - z szansą na zrozumienie jednej z najtrudniejszych zagadek: jak materia staje się świadomością.
 
 
 ## Wprowadzenie

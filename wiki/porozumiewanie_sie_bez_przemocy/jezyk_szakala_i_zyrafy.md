@@ -10,23 +10,23 @@ evidenceCutoffDate: 2025-12-31
 
 Marshall Rosenberg posługiwał się barwną metaforą dwóch zwierząt, aby zilustrować dwa fundamentalnie różne style komunikacji:
 
-- **Szakal** (*ang. jackal*) — symbol języka opartego na ocenianiu, krytyce, żądaniach i strachu
-- **Żyrafa** (*ang. giraffe*) — symbol języka opartego na empatii, potrzebach i sercu
+- **Szakal** (*ang. jackal*) - symbol języka opartego na ocenianiu, krytyce, żądaniach i strachu
+- **Żyrafa** (*ang. giraffe*) - symbol języka opartego na empatii, potrzebach i sercu
 
-> „Żyrafa to zwierzę lądowe z największym sercem. Dlatego wybrałem ją jako symbol języka serca." — Marshall Rosenberg
+> „Żyrafa to zwierzę lądowe z największym sercem. Dlatego wybrałem ją jako symbol języka serca." - Marshall Rosenberg
 
-Metafora ta nie służy do oceniania ludzi jako „szakale" lub „żyrafy" — to opisy dwóch **trybów komunikacji**, między którymi każdy z nas przełącza się w różnych sytuacjach.
+Metafora ta nie służy do oceniania ludzi jako „szakale" lub „żyrafy" - to opisy dwóch **trybów komunikacji**, między którymi każdy z nas przełącza się w różnych sytuacjach.
 
-## Język szakala — charakterystyka
+## Język szakala - charakterystyka
 
 Język szakala to styl komunikacji, który:
 
-- **Ocenia i diagnozuje** — przyklejanie etykietek, moralizowanie
-- **Żąda** — formułowanie oczekiwań jako obowiązków
-- **Grozi** — używanie kar i nagród jako motywacji
-- **Porównuje** — „Inni by to zrozumieli, dlaczego ty nie?"
-- **Zaprzecza odpowiedzialności** — „Musiałem, bo nie miałem wyboru"
-- **Obwinia** — „To twoja wina, że tak się czuję"
+- **Ocenia i diagnozuje** - przyklejanie etykietek, moralizowanie
+- **Żąda** - formułowanie oczekiwań jako obowiązków
+- **Grozi** - używanie kar i nagród jako motywacji
+- **Porównuje** - „Inni by to zrozumieli, dlaczego ty nie?"
+- **Zaprzecza odpowiedzialności** - „Musiałem, bo nie miałem wyboru"
+- **Obwinia** - „To twoja wina, że tak się czuję"
 
 ### Przykłady języka szakala:
 - „Nigdy nie dbasz o innych."
@@ -35,17 +35,17 @@ Język szakala to styl komunikacji, który:
 - „To, co zrobiłeś, jest nie do przyjęcia."
 - „Wszyscy normalni ludzie tak postępują."
 
-Szakal reaguje na niezaspokojone potrzeby **atakiem lub obroną** — nigdy połączeniem.
+Szakal reaguje na niezaspokojone potrzeby **atakiem lub obroną** - nigdy połączeniem.
 
-## Język żyrafy — charakterystyka
+## Język żyrafy - charakterystyka
 
 Język żyrafy to styl komunikacji, który:
 
-- **Obserwuje bez oceniania** — opisuje fakty, nie interpretacje
-- **Nazywa uczucia** — wyraża emocje bez winy
-- **Identyfikuje potrzeby** — mówi, co jest ważne, zamiast atakować
-- **Prosi zamiast żądać** — dopuszcza odmowę
-- **Słucha empatycznie** — szuka uczuć i potrzeb za słowami
+- **Obserwuje bez oceniania** - opisuje fakty, nie interpretacje
+- **Nazywa uczucia** - wyraża emocje bez winy
+- **Identyfikuje potrzeby** - mówi, co jest ważne, zamiast atakować
+- **Prosi zamiast żądać** - dopuszcza odmowę
+- **Słucha empatycznie** - szuka uczuć i potrzeb za słowami
 
 ### Przykłady języka żyrafy:
 - „Kiedy słyszę, że nie oddzwoniłeś przez trzy dni, czuję niepokój, bo potrzebuję wiedzieć, że jesteś bezpieczny. Czy mógłbyś mi dać znać, kiedy jesteś niedostępny?"
@@ -54,7 +54,7 @@ Język żyrafy to styl komunikacji, który:
 
 ## Dwa uszy żyrafy i dwa uszy szakala
 
-Rosenberg mówił o czterech sposobach słyszenia komunikatu — w zależności od tego, czy „mamy uszy szakala" czy „uszy żyrafy":
+Rosenberg mówił o czterech sposobach słyszenia komunikatu - w zależności od tego, czy „mamy uszy szakala" czy „uszy żyrafy":
 
 ### Słyszenie szakalem:
 1. **Bierze do siebie** (szakal skierowany do wewnątrz) → poczucie winy, wstyd: „On ma rację, jestem do niczego."
@@ -64,7 +64,7 @@ Rosenberg mówił o czterech sposobach słyszenia komunikatu — w zależności 
 3. **Empatia dla siebie** (żyrafa skierowana do wewnątrz) → kontakt z własnym bólem: „Czuję ból, bo potrzebuję szacunku."
 4. **Empatia dla rozmówcy** (żyrafa skierowana na zewnątrz) → ciekawość ich potrzeby: „Co się dzieje? Czego potrzebujesz?"
 
-## Szakal kontra żyrafa — tabela porównawcza
+## Szakal kontra żyrafa - tabela porównawcza
 
 | Szakal | Żyrafa |
 |--------|--------|
@@ -75,16 +75,16 @@ Rosenberg mówił o czterech sposobach słyszenia komunikatu — w zależności 
 | Prowadzi do defensywności | Prowadzi do połączenia |
 | Motywuje przez strach | Motywuje przez troskę |
 
-## Szakal w głowie — wewnętrzny krytyk
+## Szakal w głowie - wewnętrzny krytyk
 
-Szakal nie jest tylko zewnętrznym stylem komunikacji — to też wewnętrzny głos, który ocenia nas samych. Wewnętrzny szakal mówi:
+Szakal nie jest tylko zewnętrznym stylem komunikacji - to też wewnętrzny głos, który ocenia nas samych. Wewnętrzny szakal mówi:
 
 - „Jestem do niczego."
 - „Zawsze się mylę."
 - „Inni są lepsi ode mnie."
 - „Nie zasługuję na miłość."
 
-NVC uczy słyszenia tego głosu z empatią — jakiej potrzeby wyraźnie brakuje za tą samokrytyką? Zwykle chodzi o potrzebę bezpieczeństwa, akceptacji, kompetencji lub miłości.
+NVC uczy słyszenia tego głosu z empatią - jakiej potrzeby wyraźnie brakuje za tą samokrytyką? Zwykle chodzi o potrzebę bezpieczeństwa, akceptacji, kompetencji lub miłości.
 
 ## Praktyczne ćwiczenie
 
@@ -103,7 +103,7 @@ Weź zdanie w języku szakala i przetłumacz je na żyrafę:
 
 ---
 
-*Zob. też: NVC — wprowadzenie, Empatia w NVC, Cztery komponenty NVC*
+*Zob. też: NVC - wprowadzenie, Empatia w NVC, Cztery komponenty NVC*
 
 
 ## Wprowadzenie

@@ -8,7 +8,7 @@ evidenceCutoffDate: 2025-12-31
 
 ## Historia i rozwój
 
-Dialog motywujący (*Motivational Interviewing*, MI) to kliniczna metoda rozmowy, której celem jest wzmacnianie wewnętrznej motywacji do zmiany zachowania poprzez eksplorację i rozwiązywanie ambiwalencji. Podejście to zostało opracowane przez **Williama Millera** — pierwotnie opisane w artykule z 1983 roku (*Behavioral Psychotherapy*) na podstawie obserwacji pracy z osobami uzależnionymi od alkoholu — a następnie rozwinięte wspólnie ze **Stephenem Rollnickiem** w przełomowej monografii *Motivational Interviewing* (1991, kolejne wydania: 2002, 2012).
+Dialog motywujący (*Motivational Interviewing*, MI) to kliniczna metoda rozmowy, której celem jest wzmacnianie wewnętrznej motywacji do zmiany zachowania poprzez eksplorację i rozwiązywanie ambiwalencji. Podejście to zostało opracowane przez **Williama Millera** - pierwotnie opisane w artykule z 1983 roku (*Behavioral Psychotherapy*) na podstawie obserwacji pracy z osobami uzależnionymi od alkoholu - a następnie rozwinięte wspólnie ze **Stephenem Rollnickiem** w przełomowej monografii *Motivational Interviewing* (1991, kolejne wydania: 2002, 2012).
 
 Miller i Rollnick wywodzili MI z humanistycznej tradycji Carla Rogersa (terapia skoncentrowana na osobie), odrzucając konfrontacyjne modele pracy z uzależnieniami dominujące w tamtym czasie. Kolejne dekady przyniosły tysiące badań klinicznych i meta-analiz potwierdzających skuteczność MI w obszarze uzależnień, zdrowia fizycznego, przestrzegania zaleceń medycznych i zmiany zachowań zdrowotnych.
 
@@ -31,10 +31,10 @@ Zanim omówione zostaną konkretne techniki, należy podkreślić fundamentalne 
 
 ### Zasady nadrzędne (RULE)
 
-- **R** — *Resist the righting reflex* — powstrzymaj odruch naprawiania (unikaj perswazji, przekonywania, dawania rad bez pozwolenia)
-- **U** — *Understand motivations* — zrozum motywacje klienta
-- **L** — *Listen* — słuchaj z empatią i ciekawością
-- **E** — *Empower* — wzmacniaj poczucie sprawczości klienta
+- **R** - *Resist the righting reflex* - powstrzymaj odruch naprawiania (unikaj perswazji, przekonywania, dawania rad bez pozwolenia)
+- **U** - *Understand motivations* - zrozum motywacje klienta
+- **L** - *Listen* - słuchaj z empatią i ciekawością
+- **E** - *Empower* - wzmacniaj poczucie sprawczości klienta
 
 ### Narzędzia komunikacyjne (OARS)
 
@@ -51,8 +51,8 @@ Zanim omówione zostaną konkretne techniki, należy podkreślić fundamentalne 
 
 Kluczowym konstruktem MI jest rozróżnienie między **mową zmiany** (*change talk*) a **mową podtrzymania** (*sustain talk*):
 
-- **Mowa zmiany** — wypowiedzi klienta, które skłaniają ku zmianie: *pragnienie* („Chciałbym przestać pić"), *zdolność* („Myślę, że byłoby możliwe"), *powody* („Moja córka cierpi"), *potrzeba* („Muszę coś zrobić"), *zobowiązanie* („Spróbuję") i *podjęcie kroków* („Już zapisałem się na terapię").
-- **Mowa podtrzymania** — wypowiedzi, które utrzymują status quo: „Picie relaksuje mnie po pracy", „Nie jestem aż tak uzależniony".
+- **Mowa zmiany** - wypowiedzi klienta, które skłaniają ku zmianie: *pragnienie* („Chciałbym przestać pić"), *zdolność* („Myślę, że byłoby możliwe"), *powody* („Moja córka cierpi"), *potrzeba* („Muszę coś zrobić"), *zobowiązanie* („Spróbuję") i *podjęcie kroków* („Już zapisałem się na terapię").
+- **Mowa podtrzymania** - wypowiedzi, które utrzymują status quo: „Picie relaksuje mnie po pracy", „Nie jestem aż tak uzależniony".
 
 Badania Amrhein i in. (2003) wykazały, że nasilenie mowy zobowiązania (*commitment language*) pod koniec sesji MI silnie przewiduje rzeczywistą zmianę zachowania. Zadaniem terapeuty jest strategiczne **wywoływanie i wzmacnianie mowy zmiany**, a jednoczesne **łagodne odwracanie mowy podtrzymania** (np. przez refleksje obostrzone, pytania o wartości).
 
@@ -65,7 +65,7 @@ Dialog motywujący jest często stosowany w połączeniu z **transteoretycznym m
 | Stadium | Opis | Podejście MI |
 |---------|------|--------------|
 | **Prekontemplacja** | Brak świadomości problemu lub brak chęci zmiany | Budzenie świadomości, nieoceniające pytania |
-| **Kontemplacja** | Ambiwalencja — „chciałbym, ale…" | Eksploracja ambiwalencji, bilans decyzyjny |
+| **Kontemplacja** | Ambiwalencja - „chciałbym, ale…" | Eksploracja ambiwalencji, bilans decyzyjny |
 | **Przygotowanie** | Zamiar zmiany w najbliższej przyszłości | Wzmacnianie self-efficacy, planowanie |
 | **Działanie** | Aktywna zmiana zachowania | Wsparcie, rozwiązywanie problemów |
 | **Podtrzymanie** | Utrzymanie zmiany powyżej 6 miesięcy | Zapobieganie nawrotom, konsolidacja tożsamości |
@@ -88,7 +88,7 @@ Terapeuta wspólnie z klientem eksploruje cztery pola:
 
 ### Skala ważności i pewności siebie
 
-„W skali 0–10, jak ważna jest dla Pani ta zmiana? … Dlaczego akurat 6, a nie 3?" — pytanie o niższy wynik paradoksalnie wzmaga mowę zmiany.
+„W skali 0–10, jak ważna jest dla Pani ta zmiana? … Dlaczego akurat 6, a nie 3?" - pytanie o niższy wynik paradoksalnie wzmaga mowę zmiany.
 
 ### Rozwijanie rozbieżności (*Developing discrepancy*)
 
@@ -104,9 +104,9 @@ Zamiast konfrontacji, terapeuta odzwierciedla i odkształca opór: „Słyszę, 
 
 Meta-analizy konsekwentnie potwierdzają skuteczność MI:
 
-- **Burke, Arkowitz i Menchola (2003)** — MI jest skuteczniejszy od braku interwencji w problemach z alkoholem, narkotykami, dietą i ćwiczeniami fizycznymi; efekty utrzymują się 1–2 lata.
-- **Lundahl i in. (2010)** — meta-analiza 119 badań: MI ma istotny, umiarkowany efekt (*d* = 0,22–0,60) względem grup kontrolnych i jest porównywalny z innymi aktywnymi interwencjami.
-- **Miller i Rose (2009)** — wyróżnili dwa czynne składniki MI: **relacyjny** (empatia, duch MI) i **techniczny** (wywoływanie mowy zmiany).
+- **Burke, Arkowitz i Menchola (2003)** - MI jest skuteczniejszy od braku interwencji w problemach z alkoholem, narkotykami, dietą i ćwiczeniami fizycznymi; efekty utrzymują się 1–2 lata.
+- **Lundahl i in. (2010)** - meta-analiza 119 badań: MI ma istotny, umiarkowany efekt (*d* = 0,22–0,60) względem grup kontrolnych i jest porównywalny z innymi aktywnymi interwencjami.
+- **Miller i Rose (2009)** - wyróżnili dwa czynne składniki MI: **relacyjny** (empatia, duch MI) i **techniczny** (wywoływanie mowy zmiany).
 
 MI wykazuje skuteczność w bardzo krótkim formacie (1–4 sesje), co czyni go szczególnie przydatnym w opiece podstawowej i systemie SBIRT (Screening, Brief Intervention, Referral to Treatment).
 
@@ -116,7 +116,7 @@ MI wykazuje skuteczność w bardzo krótkim formacie (1–4 sesje), co czyni go 
 
 - MI wymaga intensywnego szkolenia i superwizji; niedostateczna jakość wdrożenia jest częstą przyczyną braku efektów.
 - Efekty bywają słabsze w populacjach z ciężkimi zaburzeniami psychicznymi współwystępującymi z uzależnieniem.
-- Niektórzy badacze (np. Resnicow i McMaster, 2012) wskazują, że mechanizm działania MI nie jest w pełni wyjaśniony — nie wiadomo, czy zmiana następuje przez zwiększenie mowy zmiany, czy przez czynniki relacyjne.
+- Niektórzy badacze (np. Resnicow i McMaster, 2012) wskazują, że mechanizm działania MI nie jest w pełni wyjaśniony - nie wiadomo, czy zmiana następuje przez zwiększenie mowy zmiany, czy przez czynniki relacyjne.
 
 ---
 

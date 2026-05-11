@@ -6,7 +6,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Zdrowe poczucie własnej wartości
 
-Zdrowe poczucie własnej wartości to realistyczne, stabilne i życzliwe podejście do siebie — oparte nie na „byciu idealnym”, lecz na akceptacji własnych mocnych stron, ograniczeń i prawa do popełniania błędów. W psychologii warto odróżniać je od chwilowej pewności siebie, narcyzmu czy zależności od zewnętrznej aprobaty.
+Zdrowe poczucie własnej wartości to realistyczne, stabilne i życzliwe podejście do siebie - oparte nie na „byciu idealnym”, lecz na akceptacji własnych mocnych stron, ograniczeń i prawa do popełniania błędów. W psychologii warto odróżniać je od chwilowej pewności siebie, narcyzmu czy zależności od zewnętrznej aprobaty.
 
 ## Czym jest zdrowe poczucie własnej wartości?
 
@@ -31,7 +31,7 @@ Zdrowa samoocena ma charakter **elastyczny**: może chwilowo spaść po trudnym 
 
 ### 1. Samoakceptacja (nie: samopobłażanie)
 
-Samoakceptacja oznacza uznanie całego obrazu siebie: cech mocnych, słabszych i obszarów rozwoju. Nie zwalnia z odpowiedzialności — raczej pozwala uczyć się bez autodestrukcyjnej krytyki.
+Samoakceptacja oznacza uznanie całego obrazu siebie: cech mocnych, słabszych i obszarów rozwoju. Nie zwalnia z odpowiedzialności - raczej pozwala uczyć się bez autodestrukcyjnej krytyki.
 
 ### 2. Spójność z wartościami
 
@@ -43,7 +43,7 @@ Poczucie wpływu rośnie, gdy człowiek widzi związek między wysiłkiem a efek
 
 ### 4. Bezpieczne relacje
 
-Relacje oparte na szacunku i granicach wzmacniają obraz siebie. Relacje przemocowe, zawstydzające lub skrajnie krytyczne działają odwrotnie — podkopują wartość i utrwalają samokrytykę.
+Relacje oparte na szacunku i granicach wzmacniają obraz siebie. Relacje przemocowe, zawstydzające lub skrajnie krytyczne działają odwrotnie - podkopują wartość i utrwalają samokrytykę.
 
 ### 5. Samowspółczucie
 
@@ -101,7 +101,7 @@ Stosuj zasadę „małych kroków”: cel ma być konkretny, mierzalny i możliw
 
 Ogranicz bodźce nasilające porównania (np. doomscrolling, konta oparte na idealizacji życia). Zastąp je treściami edukacyjnymi i wspierającymi rozwój.
 
-## Wątek kliniczny — kiedy warto szukać pomocy?
+## Wątek kliniczny - kiedy warto szukać pomocy?
 
 Wsparcie psychologiczne warto rozważyć, gdy niskie poczucie własnej wartości:
 - utrzymuje się miesiącami,
@@ -113,7 +113,7 @@ W terapii (np. CBT, ACT, terapia schematów) pracuje się m.in. nad przekonaniam
 
 ## Podsumowanie
 
-Zdrowe poczucie własnej wartości nie oznacza bycia „najlepszym” ani ciągłego dobrego samopoczucia. Oznacza stabilne poczucie godności, realistyczny ogląd siebie i gotowość do rozwoju bez przemocy wobec samego siebie. To kompetencja, którą można systematycznie budować — poprzez samoakceptację, wartości, relacje i codzienne nawyki.
+Zdrowe poczucie własnej wartości nie oznacza bycia „najlepszym” ani ciągłego dobrego samopoczucia. Oznacza stabilne poczucie godności, realistyczny ogląd siebie i gotowość do rozwoju bez przemocy wobec samego siebie. To kompetencja, którą można systematycznie budować - poprzez samoakceptację, wartości, relacje i codzienne nawyki.
 
 ---
 

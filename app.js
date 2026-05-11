@@ -679,7 +679,7 @@ function renderSidebar() {
       html += `</button><div class="nav-items" id="${panelId}" role="group" aria-labelledby="${triggerId}">`;
       for (const item of sec.items) {
         if (item.href) {
-          html += `<a class="nav-item nav-item-external" href="${q(item.href)}" target="_blank" rel="noopener noreferrer">${item.label} â†—</a>`;
+          html += `<a class="nav-item nav-item-external" href="${q(item.href)}" target="_blank" rel="noopener noreferrer">${item.label} â†-</a>`;
         } else {
           const cls = ['nav-item', item.wiki?'is-wiki':'', item.kind === 'test' ? 'nav-item-test' : '', item.id===active?'is-active':''].filter(Boolean).join(' ');
           html += `<button type="button" class="${cls} nav-item-btn" data-action="navigate" data-id="${item.id}">${item.label}</button>`;
@@ -1669,7 +1669,7 @@ function setupPdfLabBrowserInteractions() {
 function artCard(art) {
   const isEmpty = art.id && emptyArticles.has(art.id);
   const effectiveStatus = isEmpty ? 'is-empty' : (art.status === 'planned' ? 'is-disabled' : art.status);
-  const lbl = {live:'dostÄ™pny','is-disabled':'planowany',wiki:'wiki',xlink:'wspĂłlny â†—','is-empty':'pusty'};
+  const lbl = {live:'dostÄ™pny','is-disabled':'planowany',wiki:'wiki',xlink:'wspĂłlny â†-','is-empty':'pusty'};
   // ObsĹ‚uga dwĂłch typĂłw kart: nawigacja wewnÄ™trzna (id) i odnoĹ›niki do stron HTML (href).
   const clickableById = (isEmpty || art.status==='live'||art.status==='wiki'||art.status==='xlink') && art.id;
   const clickableByHref = art.status === 'xlink' && art.href;

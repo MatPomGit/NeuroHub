@@ -6,9 +6,9 @@ evidenceCutoffDate: 2025-12-31
 
 # Formułowanie przypadku klinicznego
 
-Formułowanie przypadku klinicznego (*case formulation*) to proces integrowania informacji o pacjencie — jego historii życia, objawach, mocnych stronach i trudnościach — w **spójny model wyjaśniający**, który uzasadnia wybór interwencji terapeutycznych i wyznacza kierunek leczenia. W odróżnieniu od diagnozy, która klasyfikuje, formułowanie *wyjaśnia*: dlaczego ta konkretna osoba doświadcza tych konkretnych trudności w tym konkretnym momencie życia.
+Formułowanie przypadku klinicznego (*case formulation*) to proces integrowania informacji o pacjencie - jego historii życia, objawach, mocnych stronach i trudnościach - w **spójny model wyjaśniający**, który uzasadnia wybór interwencji terapeutycznych i wyznacza kierunek leczenia. W odróżnieniu od diagnozy, która klasyfikuje, formułowanie *wyjaśnia*: dlaczego ta konkretna osoba doświadcza tych konkretnych trudności w tym konkretnym momencie życia.
 
-> „Diagnoza mówi nam, co jest; formułowanie mówi nam dlaczego — i co z tym zrobić." — Jacqueline Persons, *Cognitive Behavior Therapy: A Case Formulation Approach* (2008)
+> „Diagnoza mówi nam, co jest; formułowanie mówi nam dlaczego - i co z tym zrobić." - Jacqueline Persons, *Cognitive Behavior Therapy: A Case Formulation Approach* (2008)
 
 Dobrze skonstruowane formułowanie spełnia kilka funkcji:
 
@@ -19,7 +19,7 @@ Dobrze skonstruowane formułowanie spełnia kilka funkcji:
 
 ---
 
-## Formułowanie w terapii poznawczo-behawioralnej — model Persons
+## Formułowanie w terapii poznawczo-behawioralnej - model Persons
 
 **Jacqueline Persons** (2008) opisała CBT-formułowanie jako hierarchiczny model obejmujący:
 
@@ -70,7 +70,7 @@ Integracja tych trzech poziomów pozwala uniknąć pułapki redukcjonizmu: ani c
 
 ---
 
-## Model 5P — ramy kliniczne
+## Model 5P - ramy kliniczne
 
 **Model 5P** (znany też jako *Five P's*) jest jednym z najbardziej praktycznych i elastycznych schematów formułowania stosowanych w psychologii klinicznej i psychiatrii. Obejmuje pięć kategorii czynników:
 
@@ -88,12 +88,12 @@ Czynniki ochronne (P5) są często pomijane w tradycyjnych formułowaniach skupi
 
 ## Uwagi kulturowe
 
-Formułowanie przypadku nie może pomijać kontekstu kulturowego. **DSM-5** wprowadził *Cultural Formulation Interview* (CFI) — ustandaryzowany wywiad pozwalający uchwycić:
+Formułowanie przypadku nie może pomijać kontekstu kulturowego. **DSM-5** wprowadził *Cultural Formulation Interview* (CFI) - ustandaryzowany wywiad pozwalający uchwycić:
 
 - Kulturowe rozumienie objawów przez pacjenta (idiomy dystresu)
-- Atrybucje przyczynowe — np. przekonania o nadnaturalnych lub religijnych przyczynach choroby
-- Kulturowe zasoby wspierające — wspólnoty religijne, rytuały, role rodzinne
-- Bariery kulturowe dla leczenia — stygma, nieufność wobec systemu opieki zdrowotnej
+- Atrybucje przyczynowe - np. przekonania o nadnaturalnych lub religijnych przyczynach choroby
+- Kulturowe zasoby wspierające - wspólnoty religijne, rytuały, role rodzinne
+- Bariery kulturowe dla leczenia - stygma, nieufność wobec systemu opieki zdrowotnej
 
 **Arthur Kleinman** (1981) zaproponował *Explanatory Model Interview* jako narzędzie do eksploracji przekonań pacjenta na temat jego choroby, niezależnie od ramy klinicznej terapeuty.
 
@@ -109,21 +109,21 @@ Formułowanie jest mostem między oceną a interwencją. Kolejność działań k
 4. **Plan leczenia**: wybór interwencji adekwatnych do mechanizmów
 5. **Ewaluacja**: weryfikacja formułowania w trakcie terapii; gotowość do rewizji
 
-Formułowanie jest **hipotezą roboczą**, nie diagnozą ostateczną. Powinno być elastyczne — rewidowane w miarę napływu nowych informacji z sesji terapeutycznych.
+Formułowanie jest **hipotezą roboczą**, nie diagnozą ostateczną. Powinno być elastyczne - rewidowane w miarę napływu nowych informacji z sesji terapeutycznych.
 
 ---
 
 ## Etyczne aspekty formułowania
 
 - **Współformułowanie**: coraz więcej podejść terapeutycznych zakłada tworzenie formułowania *razem z pacjentem*, co wzmacnia sojusz terapeutyczny i poczucie sprawczości.
-- **Ryzyko redukowania**: zbyt uproszczone formułowanie może „zamknąć" rozumienie pacjenta w schemacie — klinicysta musi zachować epistemiczną pokorę.
+- **Ryzyko redukowania**: zbyt uproszczone formułowanie może „zamknąć" rozumienie pacjenta w schemacie - klinicysta musi zachować epistemiczną pokorę.
 - **Stygmatyzacja**: język formułowania ma znaczenie; etykiety diagnostyczne bez wyjaśnienia kontekstu mogą wzmacniać stygmę.
 
 ---
 
 ## Podsumowanie
 
-Formułowanie przypadku klinicznego jest fundamentalnym narzędziem pracy psychologa i psychoterapeuty. Niezależnie od nurtu — poznawczo-behawioralnego, psychodynamicznego czy systemowego — dobre formułowanie integruje dane biologiczne, psychologiczne i społeczne w model, który *rozumie* pacjenta, nie tylko go klasyfikuje. Model 5P zapewnia dostępne, eklektyczne ramy, które można zastosować w każdym kontekście klinicznym. Kluczem jest traktowanie formułowania jako dynamicznej, współtworzonej hipotezy, która służy przede wszystkim dobrostanowi pacjenta.
+Formułowanie przypadku klinicznego jest fundamentalnym narzędziem pracy psychologa i psychoterapeuty. Niezależnie od nurtu - poznawczo-behawioralnego, psychodynamicznego czy systemowego - dobre formułowanie integruje dane biologiczne, psychologiczne i społeczne w model, który *rozumie* pacjenta, nie tylko go klasyfikuje. Model 5P zapewnia dostępne, eklektyczne ramy, które można zastosować w każdym kontekście klinicznym. Kluczem jest traktowanie formułowania jako dynamicznej, współtworzonej hipotezy, która służy przede wszystkim dobrostanowi pacjenta.
 
 ---
 

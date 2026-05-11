@@ -12,15 +12,15 @@ Działalność biegłego psychologa w polskim wymiarze sprawiedliwości opiera s
 
 Fundamentem jest **Kodeks postępowania karnego** (ustawa z dnia 6 czerwca 1997 r., Dz.U. z 2022 r. poz. 1375 ze zm.). Artykuły 193–206 k.p.k. normują zasady dopuszczania dowodu z opinii biegłego, procedurę powołania, prawa i obowiązki biegłego oraz tryb zadawania pytań i uzupełniania opinii.
 
-W sprawach cywilnych i rodzinnych zastosowanie ma **Kodeks postępowania cywilnego** (ustawa z dnia 17 listopada 1964 r.). Artykuły 278–291 k.p.c. regulują analogiczne kwestie w postępowaniu cywilnym, a art. 569 i następne — specyficzne przepisy dotyczące spraw opiekuńczych.
+W sprawach cywilnych i rodzinnych zastosowanie ma **Kodeks postępowania cywilnego** (ustawa z dnia 17 listopada 1964 r.). Artykuły 278–291 k.p.c. regulują analogiczne kwestie w postępowaniu cywilnym, a art. 569 i następne - specyficzne przepisy dotyczące spraw opiekuńczych.
 
-Uzupełnieniem są rozporządzenia wykonawcze — w szczególności Rozporządzenie Ministra Sprawiedliwości z dnia 24 stycznia 2005 r. w sprawie biegłych sądowych, określające warunki wpisu na listę, przesłanki skreślenia i tryb postępowania dyscyplinarnego.
+Uzupełnieniem są rozporządzenia wykonawcze - w szczególności Rozporządzenie Ministra Sprawiedliwości z dnia 24 stycznia 2005 r. w sprawie biegłych sądowych, określające warunki wpisu na listę, przesłanki skreślenia i tryb postępowania dyscyplinarnego.
 
 ## Przesłanki dopuszczenia dowodu z opinii biegłego
 
 Organ procesowy może powołać biegłego, gdy dla rozstrzygnięcia kwestii wymagającej wiadomości specjalnych nie wystarczają ogólna wiedza i doświadczenie życiowe. Art. 193 § 1 k.p.k. stanowi: *„Jeżeli stwierdzenie okoliczności mających istotne znaczenie dla rozstrzygnięcia sprawy wymaga wiadomości specjalnych, zasięga się opinii biegłego albo biegłych."*
 
-Sąd nie jest uprawniony do samodzielnego oceniania kwestii, do których potrzebne są wiadomości specjalne. Oznacza to m.in., że sąd nie może własnym przekonaniem zastąpić opinii biegłego w kwestii poczytalności, stanu psychicznego czy wiarygodności zeznań dzieci — musi zlecić stosowne badanie.
+Sąd nie jest uprawniony do samodzielnego oceniania kwestii, do których potrzebne są wiadomości specjalne. Oznacza to m.in., że sąd nie może własnym przekonaniem zastąpić opinii biegłego w kwestii poczytalności, stanu psychicznego czy wiarygodności zeznań dzieci - musi zlecić stosowne badanie.
 
 > **Fakt:** Trybunał Europejski Praw Człowieka w kilku wyrokach przeciwko Polsce (m.in. *Adamkiewicz v. Polska*, 2010) stwierdził naruszenie art. 6 EKPC (prawo do rzetelnego procesu) w sprawach, w których sąd oparł wyrok na nierzetelnych lub niepełnych opiniach biegłych bez umożliwienia ich kontestowania.
 

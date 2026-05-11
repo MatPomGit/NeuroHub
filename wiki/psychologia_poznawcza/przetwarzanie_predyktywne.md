@@ -4,15 +4,15 @@ reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
 
-# Predictive Processing — mózg jako maszyna przewidująca
+# Predictive Processing - mózg jako maszyna przewidująca
 
-Predictive processing (PP), zwane też *przetwarzaniem predyktywnym* lub *aktywnym wnioskodawstwem* (active inference), to współczesna teoria funkcjonowania mózgu, która odwraca tradycyjny model percepcji. Zamiast traktować mózg jako pasywny odbiornik bodźców, PP opisuje go jako **generator stałych przewidywań** o tym, co zdarzy się w świecie zewnętrznym i we własnym ciele — a rzeczywiste sygnały zmysłowe służą jedynie do korygowania tych przewidywań.
+Predictive processing (PP), zwane też *przetwarzaniem predyktywnym* lub *aktywnym wnioskodawstwem* (active inference), to współczesna teoria funkcjonowania mózgu, która odwraca tradycyjny model percepcji. Zamiast traktować mózg jako pasywny odbiornik bodźców, PP opisuje go jako **generator stałych przewidywań** o tym, co zdarzy się w świecie zewnętrznym i we własnym ciele - a rzeczywiste sygnały zmysłowe służą jedynie do korygowania tych przewidywań.
 
 ## Skąd pochodzi ten pomysł?
 
 Intuicja stojąca za PP ma długą historię:
 
-- **Hermann von Helmholtz** (1860) opisywał percepcję jako „nieświadome wnioskowanie" (unbewusste Schlüsse) — umysł uzupełnia niepełne dane zmysłowe na podstawie wcześniejszej wiedzy.
+- **Hermann von Helmholtz** (1860) opisywał percepcję jako „nieświadome wnioskowanie" (unbewusste Schlüsse) - umysł uzupełnia niepełne dane zmysłowe na podstawie wcześniejszej wiedzy.
 - **Richard Gregory** (1980) rozwinął ideę percepcji jako konstruktywnego procesu hipotez.
 - **Karl Friston** (UCL) nadał PP matematyczny fundament w postaci teorii **wolnej energii** (free energy principle, FEP), publikując kluczowe prace od 2005 r.
 - **Andy Clark** w książce *Surfing Uncertainty* (2016) spopularyzował PP jako ogólną teorię umysłu.
@@ -21,7 +21,7 @@ Intuicja stojąca za PP ma długą historię:
 
 Mózg zorganizowany jest hierarchicznie. Na każdym poziomie tej hierarchii (od kory wzrokowej V1 po kory asocjacyjne) działają generatory modeli:
 
-1. **Predykcja zstępująca (top-down):** Wyższe obszary kory wysyłają do niższych *oczekiwania* — co powinny ujrzeć/usłyszeć/poczuć.
+1. **Predykcja zstępująca (top-down):** Wyższe obszary kory wysyłają do niższych *oczekiwania* - co powinny ujrzeć/usłyszeć/poczuć.
 2. **Błąd predykcji wstępujący (bottom-up):** Gdy sygnał sensoryczny nie odpowiada predykcji, generowany jest sygnał *błędu predykcji* (prediction error, PE), który wędruje w górę hierarchii.
 3. **Aktualizacja modelu:** Wyższy poziom aktualizuje swój model, by zminimalizować przyszłe błędy.
 
@@ -29,7 +29,7 @@ Wynik? Percepcja jest dosłownie *najlepszą hipotezą*, jaką mózg potrafi wyg
 
 ### Precyzja i ważenie błędów predykcji
 
-Kluczowym pojęciem jest **precyzja** (precision) — pewność co do wiarygodności sygnału. Mózg nie traktuje wszystkich błędów predykcji jednakowo: waży je przez szacowaną precyzję.
+Kluczowym pojęciem jest **precyzja** (precision) - pewność co do wiarygodności sygnału. Mózg nie traktuje wszystkich błędów predykcji jednakowo: waży je przez szacowaną precyzję.
 
 - Sygnał wysoko precyzyjny (np. ból) natychmiast modyfikuje model.
 - Sygnał nisko precyzyjny (np. szum w ciemnym pokoju) jest ignorowany lub tłumiony.
@@ -38,7 +38,7 @@ Ważenie precyzji jest regulowane przez neuroprzekaźniki, szczególnie **dopami
 
 ## Aktywne wnioskowanie (active inference)
 
-PP nie ogranicza się do percepcji — obejmuje też działanie. W ramach **aktywnego wnioskowania** organizm może minimalizować błędy predykcji na dwa sposoby:
+PP nie ogranicza się do percepcji - obejmuje też działanie. W ramach **aktywnego wnioskowania** organizm może minimalizować błędy predykcji na dwa sposoby:
 
 | Sposób | Opis | Przykład |
 |--------|------|---------|
@@ -53,21 +53,21 @@ PP oferuje eleganckie wyjaśnienie kilku zjawisk percepcyjnych:
 
 ### Iluzje jako okna na predykcje
 
-Gdy mózg generuje silną predykcję, która "zwyciężuje" nad słabymi sygnałami sensorycznymi, powstaje iluzja. Klasyczny przykład: **iluzja kaczki/królika** — ta sama figura jest interpretowana naprzemiennie jako kaczka lub królik zależnie od aktywowanego modelu.
+Gdy mózg generuje silną predykcję, która "zwyciężuje" nad słabymi sygnałami sensorycznymi, powstaje iluzja. Klasyczny przykład: **iluzja kaczki/królika** - ta sama figura jest interpretowana naprzemiennie jako kaczka lub królik zależnie od aktywowanego modelu.
 
-**Twarze na przedmiotach (pareidolia)** — mózg dysponuje silnym modelem twarzy; nawet minimalne sygnały pobudzają ten model.
+**Twarze na przedmiotach (pareidolia)** - mózg dysponuje silnym modelem twarzy; nawet minimalne sygnały pobudzają ten model.
 
 ### Świadomość jako synchronizacja modeli
 
-Friston i Clark sugerują, że **świadome przeżycie** odpowiada globalnej synchronizacji predykcji i błędów predykcji w sieci o zasięgu całego mózgu — zgodnie z teorią globalnej przestrzeni roboczej (Global Workspace Theory, GWT) Bernarda Baars'a.
+Friston i Clark sugerują, że **świadome przeżycie** odpowiada globalnej synchronizacji predykcji i błędów predykcji w sieci o zasięgu całego mózgu - zgodnie z teorią globalnej przestrzeni roboczej (Global Workspace Theory, GWT) Bernarda Baars'a.
 
 ## Implikacje kliniczne
 
 ### Psychozy i schizofrenia
 
 W schizofrenii zaburzona może być **precyzja błędów predykcji**: mózg przypisuje nadmierną pewność nieistotnym sygnałom (lub nie docenia trafnych), co skutkuje:
-- Urojeniami — fałszywe predykcje przyjmowane z nadmierną pewnością
-- Halucynacjami — samoczynnie generowane predykcje interpretowane jako dane sensoryczne
+- Urojeniami - fałszywe predykcje przyjmowane z nadmierną pewnością
+- Halucynacjami - samoczynnie generowane predykcje interpretowane jako dane sensoryczne
 
 Badania Fletchera i Fritha (2009) wskazują, że **dysfunkcja dopaminergiczna** (dysregulacja precyzji) jest centralnym mechanizmem psychozy.
 
@@ -80,34 +80,34 @@ W modelu PP depresja opisywana jest jako stan, w którym mózg generuje **pesymi
 
 ### Ból przewlekły i fibromialgia
 
-PP opisuje ból chroniczny jako wynik nadmiernej **predykcji bólu** ze zbyt dużą przypisaną precyzją — sygnały ciała są stale interpretowane przez pryzmat oczekiwanego bólu, nawet gdy uszkodzenie tkanek już nie istnieje. Leczenie wymaga przeformowania modelu ciała (interoceptive inference).
+PP opisuje ból chroniczny jako wynik nadmiernej **predykcji bólu** ze zbyt dużą przypisaną precyzją - sygnały ciała są stale interpretowane przez pryzmat oczekiwanego bólu, nawet gdy uszkodzenie tkanek już nie istnieje. Leczenie wymaga przeformowania modelu ciała (interoceptive inference).
 
 ### PTSD
 
-Traumatyczne zdarzenie tworzy silne, odporne na aktualizację priors: każdy bodziec kojarzony z traumą jest przewidywany jako zagrożenie. Terapia ekspozycyjna to mechanizm **wymuszania błędów predykcji** (prediction error) — stawianie modelu wobec bezpiecznych danych sensorycznych, które go korygują.
+Traumatyczne zdarzenie tworzy silne, odporne na aktualizację priors: każdy bodziec kojarzony z traumą jest przewidywany jako zagrożenie. Terapia ekspozycyjna to mechanizm **wymuszania błędów predykcji** (prediction error) - stawianie modelu wobec bezpiecznych danych sensorycznych, które go korygują.
 
 ### Zaburzenia ze spektrum autyzmu (ASD)
 
-Pellicano i Burr (2012) oraz Murray i in. (2014): w ASD zaburzona jest **równowaga między priors a danymi sensorycznymi** — nadmierne ważenie danych sensorycznych kosztem priors powoduje:
+Pellicano i Burr (2012) oraz Murray i in. (2014): w ASD zaburzona jest **równowaga między priors a danymi sensorycznymi** - nadmierne ważenie danych sensorycznych kosztem priors powoduje:
 - Przytłoczenie sensoryczne (świat zbyt nieprzewidywalny)
 - Potrzebę rutyny (tworzenie silnych, pewnych priors)
 - Dosłowność językowa (niskie ważenie kontekstowych predykcji)
 
 ## Interocepcja i poczucie własnego ciała
 
-Friston rozszerza PP na **interocepcję** — percepcję stanów wewnętrznych ciała. Mózg nieustannie przewiduje stany wisceralne (tętno, głód, temperatura ciała) i reguluje je przez działanie autonomiczne. To powiązuje PP z:
+Friston rozszerza PP na **interocepcję** - percepcję stanów wewnętrznych ciała. Mózg nieustannie przewiduje stany wisceralne (tętno, głód, temperatura ciała) i reguluje je przez działanie autonomiczne. To powiązuje PP z:
 
-- Regulacją emocjonalną (emocje jako interoceptywne błędy predykcji — Lisa Feldman Barrett)
+- Regulacją emocjonalną (emocje jako interoceptywne błędy predykcji - Lisa Feldman Barrett)
 - Świadomością ciała i propriocepcją
 - Zaburzeniami psychosomatycznymi
 
-> **Teoria konstruktywna emocji (Barrett):** Emocje nie są odczytywane ze stanu ciała — są *konstruowane* przez mózg jako interpretacja interoceptywnych sygnałów w kontekście bieżącej sytuacji. Emocja = interoceptywna predykcja + kategoria pojęciowa.
+> **Teoria konstruktywna emocji (Barrett):** Emocje nie są odczytywane ze stanu ciała - są *konstruowane* przez mózg jako interpretacja interoceptywnych sygnałów w kontekście bieżącej sytuacji. Emocja = interoceptywna predykcja + kategoria pojęciowa.
 
-## Wolna energia — unifikacja?
+## Wolna energia - unifikacja?
 
 Karl Friston zaproponował zasadę **minimalizacji wolnej energii** (free energy minimisation) jako zasadę unifikującą dla wszystkich procesów biologicznych, od komórki do zachowania społecznego:
 
-> Każdy system biologiczny minimalizuje *wolną energię* — miarę rozbieżności między wewnętrznym modelem świata a rzeczywistością.
+> Każdy system biologiczny minimalizuje *wolną energię* - miarę rozbieżności między wewnętrznym modelem świata a rzeczywistością.
 
 W neuronaukach wolna energia odpowiada w przybliżeniu **ujemnej log-wiarygodności modelu** (negative log-likelihood). Minimalizacja FE jest równoważna:
 1. Maksymalizacji trafności predykcji (model evidence)
@@ -129,7 +129,7 @@ To pozwala opisać percepcję, działanie, uczenie się i ciekawość jako róż
 - **Neuroimaging (fMRI):** Badania Rao i Ballard (1999) potwierdziły, że sygnały bottom-up i top-down mają różne charakterystyki w korze wzrokowej.
 - **Robotyka:** Aktywne wnioskowanie implementuje się w robotach uczących się modeli środowiska.
 - **Psychoterapia:** CBT, EMDR i terapia schematów można interpretować jako techniki rekalibracji priors.
-- **Farmakologia:** Leki psychodeliczne (psilocybina, LSD) działają przez chwilowe „rozmiękczenie" priors — umożliwiając nowe schematy percepcji.
+- **Farmakologia:** Leki psychodeliczne (psilocybina, LSD) działają przez chwilowe „rozmiękczenie" priors - umożliwiając nowe schematy percepcji.
 
 ## Kluczowe pojęcia
 

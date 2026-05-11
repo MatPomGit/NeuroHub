@@ -8,17 +8,17 @@ evidenceCutoffDate: 2025-12-31
 
 ## Rozróżnienie między sensem a celem
 
-W literaturze psychologicznej i filozoficznej często pojawia się rozróżnienie między **sensem** (*meaning*) a **celem** (*purpose*). Sens odnosi się do subiektywnego przekonania, że nasze życie i doświadczenia mają znaczenie, wartość i spójność — że „coś z tego wynika". Cel natomiast to konkretna orientacja na przyszłość, dążenie do czegoś, co wykracza poza własny interes.
+W literaturze psychologicznej i filozoficznej często pojawia się rozróżnienie między **sensem** (*meaning*) a **celem** (*purpose*). Sens odnosi się do subiektywnego przekonania, że nasze życie i doświadczenia mają znaczenie, wartość i spójność - że „coś z tego wynika". Cel natomiast to konkretna orientacja na przyszłość, dążenie do czegoś, co wykracza poza własny interes.
 
-Choć oba konstrukty są powiązane, nie są tożsame. Można przeżywać sens bez wyraźnie określonego celu (np. przez refleksję nad przeszłością) i odwrotnie — dążyć do celu bez głębokiego poczucia sensu. Psychologia pozytywna bada oba wymiary jako kluczowe składniki dobrostanu eudajmonistycznego i *flourishingu*.
+Choć oba konstrukty są powiązane, nie są tożsame. Można przeżywać sens bez wyraźnie określonego celu (np. przez refleksję nad przeszłością) i odwrotnie - dążyć do celu bez głębokiego poczucia sensu. Psychologia pozytywna bada oba wymiary jako kluczowe składniki dobrostanu eudajmonistycznego i *flourishingu*.
 
-> **Fakt:** Badanie Stegera i współpracowników (2009) przeprowadzone na próbie ponad 7000 osób z 48 krajów wykazało, że poczucie sensu życia silniej i bardziej konsekwentnie przewiduje dobrostan subiektywny niż dochód, wiek, płeć czy status społeczny — we wszystkich przebadanych kulturach.
+> **Fakt:** Badanie Stegera i współpracowników (2009) przeprowadzone na próbie ponad 7000 osób z 48 krajów wykazało, że poczucie sensu życia silniej i bardziej konsekwentnie przewiduje dobrostan subiektywny niż dochód, wiek, płeć czy status społeczny - we wszystkich przebadanych kulturach.
 
 ## Logoterapia Viktora Frankla
 
-**Viktor Frankl** — austriacki psychiatra, który przeżył cztery obozy koncentracyjne — sformułował **logoterapię** (*logotherapy*): nurt terapeutyczny i filozofię opartą na tezie, że fundamentalną ludzką motywacją jest dążenie do sensu, a nie do przyjemności (Freud) ani do władzy (Adler).
+**Viktor Frankl** - austriacki psychiatra, który przeżył cztery obozy koncentracyjne - sformułował **logoterapię** (*logotherapy*): nurt terapeutyczny i filozofię opartą na tezie, że fundamentalną ludzką motywacją jest dążenie do sensu, a nie do przyjemności (Freud) ani do władzy (Adler).
 
-W swoim przełomowym dziele *Człowiek w poszukiwaniu sensu* (*Man's Search for Meaning*, 1946) Frankl opisał, że nawet w ekstremalnych warunkach obozowych osoby zdolne do odnalezienia sensu cierpienia wykazywały wyższą przeżywalność i mniejszą dezintegrację psychiczną. Sformułował zasadę: „Ten, kto ma *po co* żyć, może znieść niemal każde *jak*" — nawiązując do Nietzschego.
+W swoim przełomowym dziele *Człowiek w poszukiwaniu sensu* (*Man's Search for Meaning*, 1946) Frankl opisał, że nawet w ekstremalnych warunkach obozowych osoby zdolne do odnalezienia sensu cierpienia wykazywały wyższą przeżywalność i mniejszą dezintegrację psychiczną. Sformułował zasadę: „Ten, kto ma *po co* żyć, może znieść niemal każde *jak*" - nawiązując do Nietzschego.
 
 Frankl wyróżnił trzy drogi do sensu:
 
@@ -28,9 +28,9 @@ Frankl wyróżnił trzy drogi do sensu:
 
 ## Tradycja eudajmonistyczna
 
-Poczucie sensu i celu wpisuje się w filozoficzną tradycję *eudajmonizmu* — koncepcji dobrego życia opartego nie na przyjemności, lecz na realizacji potencjału, cnót i wartości. Arystoteles definiował *eudajmonię* jako aktywność duszy zgodną z areté (doskonałością/cnotą).
+Poczucie sensu i celu wpisuje się w filozoficzną tradycję *eudajmonizmu* - koncepcji dobrego życia opartego nie na przyjemności, lecz na realizacji potencjału, cnót i wartości. Arystoteles definiował *eudajmonię* jako aktywność duszy zgodną z areté (doskonałością/cnotą).
 
-Współcześnie **Carol Ryff** operacjonalizuje eudajmonię w swoim sześciowymiarowym modelu dobrostanu psychologicznego, w którym cel w życiu (*purpose in life*) jest jednym z kluczowych wymiarów — obok autonomii, osobistego wzrostu, pozytywnych relacji, panowania nad otoczeniem i samoakceptacji.
+Współcześnie **Carol Ryff** operacjonalizuje eudajmonię w swoim sześciowymiarowym modelu dobrostanu psychologicznego, w którym cel w życiu (*purpose in life*) jest jednym z kluczowych wymiarów - obok autonomii, osobistego wzrostu, pozytywnych relacji, panowania nad otoczeniem i samoakceptacji.
 
 ## Źródła sensu według Baumeistra
 
@@ -45,9 +45,9 @@ Współcześnie **Carol Ryff** operacjonalizuje eudajmonię w swoim sześciowymi
 
 ## Badania nad śmiertelnością (*mortality salience*)
 
-Psychologia egzystencjalna, szczególnie **teoria zarządzania trwogą** (*Terror Management Theory*, TMT) Greenberga, Pyszczynskiego i Solomona, wskazuje, że świadomość własnej śmiertelności jest potężnym czynnikiem kształtującym poszukiwanie sensu. W obliczu przypomnień o śmierci (*mortality salience*) ludzie wzmacniają przywiązanie do wartości kulturowych i przekonania nadające sens ich istnieniu — co TMT interpretuje jako bufor egzystencjalny.
+Psychologia egzystencjalna, szczególnie **teoria zarządzania trwogą** (*Terror Management Theory*, TMT) Greenberga, Pyszczynskiego i Solomona, wskazuje, że świadomość własnej śmiertelności jest potężnym czynnikiem kształtującym poszukiwanie sensu. W obliczu przypomnień o śmierci (*mortality salience*) ludzie wzmacniają przywiązanie do wartości kulturowych i przekonania nadające sens ich istnieniu - co TMT interpretuje jako bufor egzystencjalny.
 
-> **Fakt:** Badania podłużne nad japońskimi emerytami (Koizumi i in., 2008) wykazały, że osoby z wyraźnym *ikigai* (japońskim odpowiednikiem sensu i celu życia) żyły statystycznie dłużej, rzadziej chorowały na choroby sercowo-naczyniowe i wykazywały niższy poziom markerów stanu zapalnego — niezależnie od zmiennych demograficznych.
+> **Fakt:** Badania podłużne nad japońskimi emerytami (Koizumi i in., 2008) wykazały, że osoby z wyraźnym *ikigai* (japońskim odpowiednikiem sensu i celu życia) żyły statystycznie dłużej, rzadziej chorowały na choroby sercowo-naczyniowe i wykazywały niższy poziom markerów stanu zapalnego - niezależnie od zmiennych demograficznych.
 
 ## Korzyści dla zdrowia i długowieczności
 
@@ -62,7 +62,7 @@ Poczucie sensu i celu jest jednym z najsilniejszych predyktorów zdrowia fizyczn
 
 ## Podsumowanie
 
-Sens życia i poczucie celu są fundamentalnymi składnikami ludzkiego dobrostanu, zakorzenionymi zarówno w tradycji filozoficznej (Arystoteles, Frankl), jak i we współczesnych badaniach empirycznych. Psychologia pozytywna dostarcza narzędzi do eksploracji i rozwijania tych wymiarów — uznając, że życie pełne sensu jest nie tylko piękniejsze, ale dosłownie zdrowsze i dłuższe.
+Sens życia i poczucie celu są fundamentalnymi składnikami ludzkiego dobrostanu, zakorzenionymi zarówno w tradycji filozoficznej (Arystoteles, Frankl), jak i we współczesnych badaniach empirycznych. Psychologia pozytywna dostarcza narzędzi do eksploracji i rozwijania tych wymiarów - uznając, że życie pełne sensu jest nie tylko piękniejsze, ale dosłownie zdrowsze i dłuższe.
 
 
 ## Wprowadzenie

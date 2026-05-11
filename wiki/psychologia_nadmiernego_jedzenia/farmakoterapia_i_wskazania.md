@@ -28,7 +28,7 @@ Współpracuj interdyscyplinarnie (psychiatra, psycholog, dietetyk) i informuj o
 Pilnuj regularnych kontroli i zgłaszaj objawy niepożądane; nie odstawiaj leków samodzielnie.
 
 ## Ocena jakości dowodów
-Dowody dla części leków w określonych wskazaniach są **umiarkowane**; dla farmakoterapii jako jedynego leczenia — **wstępne**.
+Dowody dla części leków w określonych wskazaniach są **umiarkowane**; dla farmakoterapii jako jedynego leczenia - **wstępne**.
 
 ## Podsumowanie
 Farmakoterapia jest narzędziem pomocniczym, najbardziej skutecznym w modelu zintegrowanym.

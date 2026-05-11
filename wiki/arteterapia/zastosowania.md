@@ -4,9 +4,9 @@ reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
 
-# Arteterapia — zastosowania kliniczne
+# Arteterapia - zastosowania kliniczne
 
-Arteterapia z teorii przekłada się na praktykę w bardzo różnych kontekstach klinicznych — od psychiatrii przez onkologię po rehabilitację neurologiczną.
+Arteterapia z teorii przekłada się na praktykę w bardzo różnych kontekstach klinicznych - od psychiatrii przez onkologię po rehabilitację neurologiczną.
 
 ## Arteterapia w psychiatrii
 
@@ -14,9 +14,9 @@ Arteterapia z teorii przekłada się na praktykę w bardzo różnych kontekstach
 
 W depresji arteterapia działa na kilka mechanizmów jednocześnie: przerywa ruminacyjne pętle myślowe (stan przepływu), buduje sprawczość i poczucie kompetencji (walka z anhedonią), eksternalizuje emocje trudne do zwerbalizowania.
 
-**Badania kliniczne:** Systematyczne przeglądy (Stuhler-Lopatin 2019, Uttley et al. 2015) potwierdzają umiarkowaną skuteczność arteterapii w redukcji objawów depresji i poprawie jakości życia — szczególnie w połączeniu z innymi metodami leczenia.
+**Badania kliniczne:** Systematyczne przeglądy (Stuhler-Lopatin 2019, Uttley et al. 2015) potwierdzają umiarkowaną skuteczność arteterapii w redukcji objawów depresji i poprawie jakości życia - szczególnie w połączeniu z innymi metodami leczenia.
 
-**Przykład praktyczny:** Pacjentka z depresją poporodową, która nie mogła mówić o własnym bólu, w toku arteterapii plastycznej stworzyła serię obrazów przedstawiających "ciemny tunel ze światłem na końcu" — co stało się punktem wejścia do terapii werbalnej.
+**Przykład praktyczny:** Pacjentka z depresją poporodową, która nie mogła mówić o własnym bólu, w toku arteterapii plastycznej stworzyła serię obrazów przedstawiających "ciemny tunel ze światłem na końcu" - co stało się punktem wejścia do terapii werbalnej.
 
 ### Schizofrenia i psychozy
 
@@ -64,10 +64,10 @@ Arteterapia i muzykoterapia wykazują efekty w zarządzaniu bólem przewlekłym.
 ### Neurorehabilitacja
 
 Muzyka i rytm angażują ocalałe sieci neuronalne i mogą wspomagać rehabilitację po udarach:
-- **Rytmiczna stymulacja dźwiękowa (RAS — Rhythmic Auditory Stimulation)** poprawia chód u pacjentów po udarze przez neurobiologiczne synchronizowanie aktywności ruchowej do rytmu zewnętrznego;
-- **Muzykoterapia w afazji** — terapia melodii intonacyjnej (MIT — Melodic Intonation Therapy) angażuje zachowaną prawą półkulę do rekonstrukcji funkcji mówienia u pacjentów z afazją Broki.
+- **Rytmiczna stymulacja dźwiękowa (RAS - Rhythmic Auditory Stimulation)** poprawia chód u pacjentów po udarze przez neurobiologiczne synchronizowanie aktywności ruchowej do rytmu zewnętrznego;
+- **Muzykoterapia w afazji** - terapia melodii intonacyjnej (MIT - Melodic Intonation Therapy) angażuje zachowaną prawą półkulę do rekonstrukcji funkcji mówienia u pacjentów z afazją Broki.
 
-> **Ciekawostka:** Gabby Giffords — kongresmenka USA po strzale w głowę, z ciężką afazją Broki — odzyskała mowę w dużej mierze dzięki muzykoterapii (MIT). Jej historia spopularyzowała neurologiczne podstawy terapii muzycznej.
+> **Ciekawostka:** Gabby Giffords - kongresmenka USA po strzale w głowę, z ciężką afazją Broki - odzyskała mowę w dużej mierze dzięki muzykoterapii (MIT). Jej historia spopularyzowała neurologiczne podstawy terapii muzycznej.
 
 ## Arteterapia w geriatrii i demencji
 
@@ -81,17 +81,17 @@ Arteterapia jest jedną z najlepiej zbadanych niefarmakologicznych interwencji w
 
 ## Arteterapia w pracy z dziećmi i młodzieżą
 
-Dzieci naturalnie komunikują się przez zabawę i sztukę — co czyni arteterapię wyjątkowo odpowiednią dla pracy z:
-- **Traumą dziecięcą** — lalkoterapia, bajkoterapia, rysunek;
-- **ADHD** — ekspresja ruchowa (DMT), koncentracja w tworzeniu;
-- **ASD** — arteterapia adaptowana do potrzeb sensorycznych i komunikacyjnych;
-- **Lękiem szkolnym** — teatroterapia budująca pewność siebie.
+Dzieci naturalnie komunikują się przez zabawę i sztukę - co czyni arteterapię wyjątkowo odpowiednią dla pracy z:
+- **Traumą dziecięcą** - lalkoterapia, bajkoterapia, rysunek;
+- **ADHD** - ekspresja ruchowa (DMT), koncentracja w tworzeniu;
+- **ASD** - arteterapia adaptowana do potrzeb sensorycznych i komunikacyjnych;
+- **Lękiem szkolnym** - teatroterapia budująca pewność siebie.
 
 ## Kontekst kulturowy
 
-Arteterapia musi być kulturowo kompetentna — formy ekspresji artystycznej, symbole i znaczenia są kulturowo uwarunkowane. Terapeuta powinien rozumieć kulturowe tło klienta i unikać narzucania zachodnich estetycznych kanonów jako "normy".
+Arteterapia musi być kulturowo kompetentna - formy ekspresji artystycznej, symbole i znaczenia są kulturowo uwarunkowane. Terapeuta powinien rozumieć kulturowe tło klienta i unikać narzucania zachodnich estetycznych kanonów jako "normy".
 
-**Tradycyjne formy uzdrawiania** — w wielu kulturach rytualne śpiewanie, taniec, rysowanie (mandala w buddyzmie, piasek w kulturach rdzennych) są kulturowymi odpowiednikami arteterapii. Współpraca z tradycyjnymi formami ekspresji może wzmacniać skuteczność.
+**Tradycyjne formy uzdrawiania** - w wielu kulturach rytualne śpiewanie, taniec, rysowanie (mandala w buddyzmie, piasek w kulturach rdzennych) są kulturowymi odpowiednikami arteterapii. Współpraca z tradycyjnymi formami ekspresji może wzmacniać skuteczność.
 
 
 ## Wprowadzenie

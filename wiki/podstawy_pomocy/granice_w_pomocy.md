@@ -8,7 +8,7 @@ evidenceCutoffDate: 2025-12-31
 
 ## Czym są granice zawodowe?
 
-**Granice w relacji pomocowej** to ramy definiujące, czym jest, a czym nie jest relacja między pomagającym a klientem. Chronią obie strony — klienta przed nadużyciami i utratą autonomii, a pomagającego przed wypaleniem i zaburzeniem profesjonalizmu.
+**Granice w relacji pomocowej** to ramy definiujące, czym jest, a czym nie jest relacja między pomagającym a klientem. Chronią obie strony - klienta przed nadużyciami i utratą autonomii, a pomagającego przed wypaleniem i zaburzeniem profesjonalizmu.
 
 Granice nie są oznaką chłodu ani dystansu emocjonalnego. Są **strukturą**, dzięki której relacja może być bezpieczna, przewidywalna i skuteczna.
 
@@ -30,11 +30,11 @@ Chronią pomagającego przed fuzją emocjonalną:
 
 ### Granice informacyjne
 Odnoszą się do ujawniania danych osobowych i zawodowych:
-- Powściągliwość w samoujawnianiu (*self-disclosure*) — pomagający nie opowiada o własnych problemach
+- Powściągliwość w samoujawnianiu (*self-disclosure*) - pomagający nie opowiada o własnych problemach
 - Ochrona danych klienta zgodnie z tajemnicą zawodową
 
 ### Granice roli
-Klarowność co do roli zawodowej — pomagający nie jest przyjacielem, rodziną ani partnerem romantycznym klienta. **Podwójna rola** (łączenie relacji pomocowej z inną relacją) jest zazwyczaj szkodliwa.
+Klarowność co do roli zawodowej - pomagający nie jest przyjacielem, rodziną ani partnerem romantycznym klienta. **Podwójna rola** (łączenie relacji pomocowej z inną relacją) jest zazwyczaj szkodliwa.
 
 ---
 
@@ -42,9 +42,9 @@ Klarowność co do roli zawodowej — pomagający nie jest przyjacielem, rodzin�
 
 Wyróżnia się dwa typy naruszeń:
 
-**Crossing** — przekroczenie granicy w interesie klienta (np. krótka rozmowa telefoniczna w sytuacji kryzysowej). Może być uzasadnione klinicznie, ale wymaga refleksji i omówienia w superwizji.
+**Crossing** - przekroczenie granicy w interesie klienta (np. krótka rozmowa telefoniczna w sytuacji kryzysowej). Może być uzasadnione klinicznie, ale wymaga refleksji i omówienia w superwizji.
 
-**Violation** — naruszenie granicy szkodliwe dla klienta (np. relacja seksualna, finansowe wykorzystanie, ujawnianie danych). Niedopuszczalne i zwykle karane przez kodeksy etyczne i prawo.
+**Violation** - naruszenie granicy szkodliwe dla klienta (np. relacja seksualna, finansowe wykorzystanie, ujawnianie danych). Niedopuszczalne i zwykle karane przez kodeksy etyczne i prawo.
 
 ---
 
@@ -55,7 +55,7 @@ Asertywne wyznaczanie granic wymaga:
 - Konsekwentnego reagowania na próby ich przekraczania
 - Wyjaśniania powodów (*„Nie spotykam się z klientami poza sesjami, ponieważ chroni to naszą pracę razem"*)
 
-Granice nie są karą ani odrzuceniem — są **strukturą troski**.
+Granice nie są karą ani odrzuceniem - są **strukturą troski**.
 
 ---
 
@@ -67,7 +67,7 @@ To, co w jednej kulturze jest standardem profesjonalnym (np. uścisk ręki przy 
 
 ## Granice i wypalenie zawodowe
 
-Brak wyraźnych granic jest jednym z głównych czynników ryzyka **wypalenia zawodowego**. Pomagający, który jest dostępny o każdej porze, angażuje się emocjonalnie ponad swoje możliwości i nie rozróżnia czasu pracy od odpoczynku — traci zasoby potrzebne do skutecznej pomocy.
+Brak wyraźnych granic jest jednym z głównych czynników ryzyka **wypalenia zawodowego**. Pomagający, który jest dostępny o każdej porze, angażuje się emocjonalnie ponad swoje możliwości i nie rozróżnia czasu pracy od odpoczynku - traci zasoby potrzebne do skutecznej pomocy.
 
 ---
 

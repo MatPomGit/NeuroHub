@@ -12,10 +12,10 @@ Rodzina jest podstawowym środowiskiem uczenia się samoregulacji cyfrowej. W er
 
 ## Definicje kluczowych pojęć
 
-- **Psychoedukacja rodzinna** — proces przekazywania rodzinie wiedzy i narzędzi wspierających zdrowe funkcjonowanie psychiczne.
-- **Mediacja rodzicielska mediów** — strategie rodziców dotyczące monitorowania, współużywania i omawiania treści cyfrowych.
-- **Współregulacja** — pomaganie dziecku w regulacji emocji i zachowania przez relacyjną obecność dorosłego.
-- **Umowa cyfrowa rodziny** — wspólnie ustalony zestaw zasad dotyczących urządzeń, prywatności i granic.
+- **Psychoedukacja rodzinna** - proces przekazywania rodzinie wiedzy i narzędzi wspierających zdrowe funkcjonowanie psychiczne.
+- **Mediacja rodzicielska mediów** - strategie rodziców dotyczące monitorowania, współużywania i omawiania treści cyfrowych.
+- **Współregulacja** - pomaganie dziecku w regulacji emocji i zachowania przez relacyjną obecność dorosłego.
+- **Umowa cyfrowa rodziny** - wspólnie ustalony zestaw zasad dotyczących urządzeń, prywatności i granic.
 
 ## Część analityczna: mechanizmy i zależności
 
@@ -29,7 +29,7 @@ Najlepsze efekty daje mediacja aktywna: wspólna rozmowa o treściach, emocjach 
 
 ### 3. Mechanizm rozwojowy
 
-Potrzeby dziecka zmieniają się wraz z wiekiem. U młodszych dominują struktura i współużywanie, u nastolatków — negocjowanie granic, autonomia i odpowiedzialność. Jednolita polityka dla wszystkich grup wiekowych jest zwykle nieskuteczna.
+Potrzeby dziecka zmieniają się wraz z wiekiem. U młodszych dominują struktura i współużywanie, u nastolatków - negocjowanie granic, autonomia i odpowiedzialność. Jednolita polityka dla wszystkich grup wiekowych jest zwykle nieskuteczna.
 
 ### 4. Mechanizm ochrony relacji
 

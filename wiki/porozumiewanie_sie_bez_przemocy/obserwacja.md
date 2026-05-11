@@ -8,13 +8,13 @@ evidenceCutoffDate: 2025-12-31
 
 ## Czym jest obserwacja w NVC?
 
-Obserwacja to pierwszy z czterech komponentów Porozumiewania się bez przemocy. Polega na opisywaniu konkretnych, obserwowalnych zdarzeń — tego, co rzeczywiście widzimy lub słyszymy — bez dodawania do nich ocen, interpretacji, etykietek czy generalizacji.
+Obserwacja to pierwszy z czterech komponentów Porozumiewania się bez przemocy. Polega na opisywaniu konkretnych, obserwowalnych zdarzeń - tego, co rzeczywiście widzimy lub słyszymy - bez dodawania do nich ocen, interpretacji, etykietek czy generalizacji.
 
-> „Obserwowanie bez oceniania jest najwyższą formą ludzkiej inteligencji." — Jiddu Krishnamurti (cytowany przez Rosenberga)
+> „Obserwowanie bez oceniania jest najwyższą formą ludzkiej inteligencji." - Jiddu Krishnamurti (cytowany przez Rosenberga)
 
 Marshall Rosenberg podkreślał, że gdy mieszamy obserwację z oceną, rozmówca słyszy krytykę i natychmiast uruchamia mechanizmy obronne. Czysta obserwacja otwiera przestrzeń na prawdziwy dialog.
 
-## Obserwacja a ocena — kluczowe różnice
+## Obserwacja a ocena - kluczowe różnice
 
 | Ocena | Obserwacja |
 |-------|-----------|
@@ -49,11 +49,11 @@ Przypisywanie cech osobowości lub diagnoz zamiast opisu zachowania.
 
 ## Dlaczego ocenianie jest tak naturalne?
 
-Ludzki mózg jest ewolucyjnie zaprojektowany do szybkiej kategoryzacji i oceniania — pomaga to przetrwać (bezpieczne/niebezpieczne, przyjazne/wrogie). Ocenianie staje się problemem w komunikacji interpersonalnej, gdy:
+Ludzki mózg jest ewolucyjnie zaprojektowany do szybkiej kategoryzacji i oceniania - pomaga to przetrwać (bezpieczne/niebezpieczne, przyjazne/wrogie). Ocenianie staje się problemem w komunikacji interpersonalnej, gdy:
 
-- Mylone jest z faktem — traktujemy swoją interpretację jako obiektywną prawdę
-- Wyrażane jest wobec osoby — budzi defensywność i opór
-- Zastępuje obserwację w rozmowie — uniemożliwia wzajemne zrozumienie
+- Mylone jest z faktem - traktujemy swoją interpretację jako obiektywną prawdę
+- Wyrażane jest wobec osoby - budzi defensywność i opór
+- Zastępuje obserwację w rozmowie - uniemożliwia wzajemne zrozumienie
 
 ## Ćwiczenia rozwijające zdolność obserwacji
 
@@ -70,7 +70,7 @@ Weź zdania zawierające oceny i przeredaguj je jako czyste obserwacje:
 - „Ona mnie ignoruje" → ?
 
 ### Ćwiczenie 3: Dziennik obserwacji
-Przez tydzień prowadź dziennik, w którym opisujesz sytuacje dnia codziennego jak kamera — tylko to, co zewnętrzne i mierzalne.
+Przez tydzień prowadź dziennik, w którym opisujesz sytuacje dnia codziennego jak kamera - tylko to, co zewnętrzne i mierzalne.
 
 ## Obserwacja w słuchaniu empatycznym
 
@@ -82,7 +82,7 @@ Dzięki temu pomagamy rozmówcy przejść od uogólnionego bólu do konkretnego 
 
 ## Obserwacja a świadectwo
 
-W pracy terapeutycznej i mediacyjnej umiejętność czystej obserwacji jest podstawą zarówno zbierania informacji, jak i budowania zaufania. Terapeuta, który opisuje zachowanie bez oceny, daje klientowi poczucie bycia widzianym — nie sądzonym.
+W pracy terapeutycznej i mediacyjnej umiejętność czystej obserwacji jest podstawą zarówno zbierania informacji, jak i budowania zaufania. Terapeuta, który opisuje zachowanie bez oceny, daje klientowi poczucie bycia widzianym - nie sądzonym.
 
 ---
 

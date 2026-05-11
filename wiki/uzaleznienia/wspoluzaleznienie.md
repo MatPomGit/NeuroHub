@@ -8,9 +8,9 @@ evidenceCutoffDate: 2025-12-31
 
 ## Wprowadzenie
 
-Współuzależnienie (*codependency*) to pojęcie opisujące wzorzec relacyjny, w którym jedna osoba — najczęściej bliski krewny lub partner osoby uzależnionej — organizuje swoje życie wokół uzależnienia drugiej osoby w sposób, który paradoksalnie **utrwala i umożliwia** (ang. *enables*) kontynuowanie nałogu. Termin ten wywodzi się z pracy ruchów samopomocowych lat 70. i 80. XX wieku, zwłaszcza środowisk Al-Anon, a jego naukowe opracowanie przeszło długą ewolucję.
+Współuzależnienie (*codependency*) to pojęcie opisujące wzorzec relacyjny, w którym jedna osoba - najczęściej bliski krewny lub partner osoby uzależnionej - organizuje swoje życie wokół uzależnienia drugiej osoby w sposób, który paradoksalnie **utrwala i umożliwia** (ang. *enables*) kontynuowanie nałogu. Termin ten wywodzi się z pracy ruchów samopomocowych lat 70. i 80. XX wieku, zwłaszcza środowisk Al-Anon, a jego naukowe opracowanie przeszło długą ewolucję.
 
-> „Współuzależniony to ten, kto pozwolił, by zachowanie innej osoby wpłynęło na niego, i jest obsesyjnie skupiony na kontrolowaniu jej zachowania." — Melody Beattie (1987)
+> „Współuzależniony to ten, kto pozwolił, by zachowanie innej osoby wpłynęło na niego, i jest obsesyjnie skupiony na kontrolowaniu jej zachowania." - Melody Beattie (1987)
 
 ---
 
@@ -18,12 +18,12 @@ Współuzależnienie (*codependency*) to pojęcie opisujące wzorzec relacyjny, 
 
 | Okres | Wydarzenie |
 |-------|-----------|
-| Lata 50. | Al-Anon (1951) — grupy wsparcia dla rodzin alkoholików; skupienie na własnym wyzdrowieniu |
-| Lata 70. | Koncepcja „żony alkoholika" (Whalen, 1953) — pierwsze opisy zaburzonych wzorców |
+| Lata 50. | Al-Anon (1951) - grupy wsparcia dla rodzin alkoholików; skupienie na własnym wyzdrowieniu |
+| Lata 70. | Koncepcja „żony alkoholika" (Whalen, 1953) - pierwsze opisy zaburzonych wzorców |
 | 1979 | Sharon Wegscheider-Cruse wprowadza termin *co-alcoholism* |
 | 1986 | Melody Beattie popularyzuje pojęcie codependency w książce *Koniec współuzależnienia* |
-| Lata 90. | Krytyka akademicka (Gomberg, 1989; Harper & Capdevila, 1990) — brak standardowej definicji |
-| 2000+ | Badania empiryczne nad specyficznymi mechanizmami — przesunięcie od etykiet do procesów |
+| Lata 90. | Krytyka akademicka (Gomberg, 1989; Harper & Capdevila, 1990) - brak standardowej definicji |
+| 2000+ | Badania empiryczne nad specyficznymi mechanizmami - przesunięcie od etykiet do procesów |
 
 ---
 
@@ -33,11 +33,11 @@ Współuzależnienie przejawia się w wielu nakładających się obszarach funkc
 
 ### Obszary psychologiczne
 
-- **Zewnętrzne umiejscowienie kontroli** — poczucie, że własny nastrój i wartość zależy od stanu i zachowania osoby uzależnionej
-- **Trudność w identyfikowaniu własnych potrzeb** — zatarcie granicy między własnym „ja" a problemami bliskiej osoby
-- **Nadmierna odpowiedzialność** — branie odpowiedzialności za konsekwencje cudzego picia/używania
-- **Trudności z wyrażaniem emocji** — tłumienie gniewu, smutku, wstydu
-- **Niska samoocena** — często ukryta za fasadą kompetencji i poświęcenia
+- **Zewnętrzne umiejscowienie kontroli** - poczucie, że własny nastrój i wartość zależy od stanu i zachowania osoby uzależnionej
+- **Trudność w identyfikowaniu własnych potrzeb** - zatarcie granicy między własnym „ja" a problemami bliskiej osoby
+- **Nadmierna odpowiedzialność** - branie odpowiedzialności za konsekwencje cudzego picia/używania
+- **Trudności z wyrażaniem emocji** - tłumienie gniewu, smutku, wstydu
+- **Niska samoocena** - często ukryta za fasadą kompetencji i poświęcenia
 
 ### Zachowania umożliwiające (*enabling*)
 
@@ -69,13 +69,13 @@ Teoria systemów rodzinnych (Bowen, 1978; Minuchin, 1974) ujmuje współuzależn
 
 ### Trójkąt dramatyczny (Karpman, 1968)
 
-W relacji współuzależnionej często obserwuje się rotację ról: **Ratownik → Prześladowca → Ofiara** — co ilustruje dynamiczny, nieprzewidywalny charakter interakcji.
+W relacji współuzależnionej często obserwuje się rotację ról: **Ratownik → Prześladowca → Ofiara** - co ilustruje dynamiczny, nieprzewidywalny charakter interakcji.
 
 ---
 
 ## Dorosłe Dzieci Alkoholików (DDA/ACoA)
 
-Koncepcja **Dorosłych Dzieci Alkoholików** (*Adult Children of Alcoholics*, ACoA) — spopularyzowana przez Janet Woititz (1983) — opisuje długotrwałe skutki dorastania w rodzinie z problemem alkoholowym:
+Koncepcja **Dorosłych Dzieci Alkoholików** (*Adult Children of Alcoholics*, ACoA) - spopularyzowana przez Janet Woititz (1983) - opisuje długotrwałe skutki dorastania w rodzinie z problemem alkoholowym:
 
 Wspólne cechy DDA:
 - Trudność z zaufaniem innym i uznaniem siebie za normalną osobę
@@ -95,7 +95,7 @@ Badania empiryczne potwierdzają wyższe wskaźniki lęku, depresji, zaburzeń o
 
 Grupy 12-krokowe dla rodzin osób uzależnionych. Nacisk na:
 - **Trzy C**: *„Nie spowodowałam, nie mogę kontrolować, nie mogę wyleczyć"*
-- Oderwanie się z miłością (*detachment with love*) — troska o bliskiego bez brania odpowiedzialności za jego wybory
+- Oderwanie się z miłością (*detachment with love*) - troska o bliskiego bez brania odpowiedzialności za jego wybory
 - Własne wyzdrowienie niezależne od wyzdrowienia osoby uzależnionej
 
 ### CRAFT (Community Reinforcement and Family Training)
@@ -110,7 +110,7 @@ CRAFT (Meyers i Smith, 1995) to podejście oparte na dowodach naukowych, które 
 
 ### Terapia rodzinna systemowa
 
-Podejścia strukturalne (Minuchin) i strategiczne (Haley) koncentrują się na reorganizacji granic, hierarchii i wzorców komunikacji w rodzinie. Szczególnie skuteczne w przypadku uzależnień u adolescentów — patrz: MDFT, BSFT (*Brief Strategic Family Therapy*).
+Podejścia strukturalne (Minuchin) i strategiczne (Haley) koncentrują się na reorganizacji granic, hierarchii i wzorców komunikacji w rodzinie. Szczególnie skuteczne w przypadku uzależnień u adolescentów - patrz: MDFT, BSFT (*Brief Strategic Family Therapy*).
 
 ### Praca nad granicami
 

@@ -28,7 +28,7 @@ Projektuj interwencje oparte na mikro-zmianach kontekstu i monitoruj ich trwało
 Ułatwiaj zdrowy wybór „domyślnie”: gotowe porcje, plan posiłków, wspólne zakupy.
 
 ## Ocena jakości dowodów
-Dowody dla interwencji środowiskowych są **umiarkowane do silnych**; dla samych deklaracji edukacyjnych — **wstępne**.
+Dowody dla interwencji środowiskowych są **umiarkowane do silnych**; dla samych deklaracji edukacyjnych - **wstępne**.
 
 ## Podsumowanie
 Środowisko bywa silniejszym predyktorem zachowania niż wiedza żywieniowa.

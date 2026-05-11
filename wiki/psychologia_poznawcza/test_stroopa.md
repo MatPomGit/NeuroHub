@@ -39,7 +39,7 @@ Test Stroopa jest stosowany:
 
 - Wynik zależy m.in. od wieku, wykształcenia i biegłości czytania.
 - Potrzebne są normy odpowiednie dla populacji.
-- Pojedynczy test nie powinien być jedyną podstawą diagnozy — warto łączyć go z innymi miarami funkcji wykonawczych.
+- Pojedynczy test nie powinien być jedyną podstawą diagnozy - warto łączyć go z innymi miarami funkcji wykonawczych.
 
 ## Podsumowanie
 

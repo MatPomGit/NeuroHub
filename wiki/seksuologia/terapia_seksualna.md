@@ -6,7 +6,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Terapia seksualna
 
-Metody psychologicznej pomocy w problemach seksualnych — od Masters i Johnson po współczesne podejścia integracyjne.
+Metody psychologicznej pomocy w problemach seksualnych - od Masters i Johnson po współczesne podejścia integracyjne.
 
 ## Historia terapii seksualnej
 
@@ -21,10 +21,10 @@ Centralny element metody Masters-Johnson. Pary stopniowo, w zaplanowanych etapac
 ## Model PLISSIT
 
 Atcheson (1976) zaproponował hierarchiczny model interwencji w problemach seksualnych:
-- **P** (Permission) — pozwolenie: normalizacja, nieoceniająca rozmowa;
-- **LI** (Limited Information) — ograniczona informacja: edukacja;
-- **SS** (Specific Suggestions) — konkretne wskazówki: techniki;
-- **IT** (Intensive Therapy) — intensywna terapia: specjalistyczna praca z głębszymi problemami.
+- **P** (Permission) - pozwolenie: normalizacja, nieoceniająca rozmowa;
+- **LI** (Limited Information) - ograniczona informacja: edukacja;
+- **SS** (Specific Suggestions) - konkretne wskazówki: techniki;
+- **IT** (Intensive Therapy) - intensywna terapia: specjalistyczna praca z głębszymi problemami.
 
 Większość problemów seksualnych można rozwiązać na poziomach P–SS, bez potrzeby intensywnej terapii.
 

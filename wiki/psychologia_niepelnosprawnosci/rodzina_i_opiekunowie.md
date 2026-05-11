@@ -6,9 +6,9 @@ evidenceCutoffDate: 2025-12-31
 
 # Rodzina i opiekunowie
 
-Rodzina pełni kluczową rolę w życiu osób z niepełnosprawnościami — jest głównym źródłem wsparcia, codziennej opieki i emocjonalnego bezpieczeństwa. Jednocześnie rola opiekuna niesie poważne obciążenia psychiczne i fizyczne, które psychologia bada i stara się łagodzić.
+Rodzina pełni kluczową rolę w życiu osób z niepełnosprawnościami - jest głównym źródłem wsparcia, codziennej opieki i emocjonalnego bezpieczeństwa. Jednocześnie rola opiekuna niesie poważne obciążenia psychiczne i fizyczne, które psychologia bada i stara się łagodzić.
 
-## Rola rodziny — zasoby i funkcje
+## Rola rodziny - zasoby i funkcje
 
 Rodzina wspiera osobę z niepełnosprawnością na wielu poziomach:
 
@@ -31,11 +31,11 @@ Diagnoza lub nabycie niepełnosprawności przez jednego z członków rodziny dot
 
 **Obciążenie opiekuna** to wielowymiarowy stan obejmujący:
 
-- **Fizyczne** — zmęczenie chroniczne, problemy zdrowotne.
-- **Emocjonalne** — lęk, poczucie winy, żałoba, złość.
-- **Społeczne** — izolacja, rezygnacja z własnych potrzeb i relacji.
-- **Zawodowe** — redukcja godzin pracy lub jej porzucenie.
-- **Finansowe** — koszty opieki, sprzętu, terapii.
+- **Fizyczne** - zmęczenie chroniczne, problemy zdrowotne.
+- **Emocjonalne** - lęk, poczucie winy, żałoba, złość.
+- **Społeczne** - izolacja, rezygnacja z własnych potrzeb i relacji.
+- **Zawodowe** - redukcja godzin pracy lub jej porzucenie.
+- **Finansowe** - koszty opieki, sprzętu, terapii.
 
 Ryzyko wypalenia opiekuna rośnie wraz z intensywnością opieki, brakiem wsparcia instytucjonalnego i brakiem przerw.
 
@@ -57,11 +57,11 @@ Ryzyko wypalenia opiekuna rośnie wraz z intensywnością opieki, brakiem wsparc
 
 ## Wsparcie psychologiczne opiekunów
 
-- **Psychoedukacja** — nauka rozpoznawania przeciążenia, informacje o systemie wsparcia.
-- **Grupy wsparcia** — kontakt z innymi w podobnej sytuacji, normalizacja trudności.
-- **Terapia indywidualna** — praca z poczuciem winy, żałobą, chronicznym stresem.
-- **Trening umiejętności** — komunikacja z osobą z NP, zarządzanie zachowaniami trudnymi.
-- **Respitowa opieka dzienna** — umożliwienie opiekunowi przerwy.
+- **Psychoedukacja** - nauka rozpoznawania przeciążenia, informacje o systemie wsparcia.
+- **Grupy wsparcia** - kontakt z innymi w podobnej sytuacji, normalizacja trudności.
+- **Terapia indywidualna** - praca z poczuciem winy, żałobą, chronicznym stresem.
+- **Trening umiejętności** - komunikacja z osobą z NP, zarządzanie zachowaniami trudnymi.
+- **Respitowa opieka dzienna** - umożliwienie opiekunowi przerwy.
 
 ## Dzieci jako opiekunowie (*young carers*)
 
@@ -79,7 +79,7 @@ Matka 8-letniego chłopca z mózgowym porażeniem dziecięcym zgłasza się z ob
 
 ## Podsumowanie
 
-Rodzina jest fundamentem codziennej opieki i dobrobytu osoby z niepełnosprawnością, ale sama wymaga wsparcia, aby funkcjonować zdrowo. Podejście systemowe — obejmujące zarówno osobę z NP, jak i jej opiekunów — jest warunkiem skutecznej, długoterminowej pomocy.
+Rodzina jest fundamentem codziennej opieki i dobrobytu osoby z niepełnosprawnością, ale sama wymaga wsparcia, aby funkcjonować zdrowo. Podejście systemowe - obejmujące zarówno osobę z NP, jak i jej opiekunów - jest warunkiem skutecznej, długoterminowej pomocy.
 
 
 ## Wprowadzenie

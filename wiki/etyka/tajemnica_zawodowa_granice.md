@@ -6,7 +6,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Tajemnica zawodowa i jej granice
 
-Tajemnica zawodowa psychologa jest jednym z fundamentów relacji terapeutycznej — bez gwarancji poufności klienci nie byliby skłonni do szczerego dzielenia się swoimi problemami. Jednocześnie prawo i etyka przewidują sytuacje, w których obowiązek milczenia ustępuje innym wartościom: ochronie życia, bezpieczeństwu dzieci czy wymogom wymiaru sprawiedliwości.
+Tajemnica zawodowa psychologa jest jednym z fundamentów relacji terapeutycznej - bez gwarancji poufności klienci nie byliby skłonni do szczerego dzielenia się swoimi problemami. Jednocześnie prawo i etyka przewidują sytuacje, w których obowiązek milczenia ustępuje innym wartościom: ochronie życia, bezpieczeństwu dzieci czy wymogom wymiaru sprawiedliwości.
 
 ---
 
@@ -19,7 +19,7 @@ Tajemnica zawodowa psychologa wynika z kilku aktów prawnych:
 | **Ustawa o zawodzie psychologa** (2001) | Art. 14 | Psycholog zobowiązany do zachowania w tajemnicy informacji uzyskanych w związku z wykonywaniem zawodu |
 | **Kodeks postępowania karnego** | Art. 180 §2 | Psycholog jako osoba dysponująca tajemnicą zawodową; zwolnienie możliwe tylko na mocy postanowienia sądu |
 | **Kodeks karny** | Art. 266 §1 | Ujawnienie informacji objętej tajemnicą zawodową zagrożone karą pozbawienia wolności do lat 2 |
-| **RODO / Ustawa o ochronie danych osobowych** | Art. 9 RODO | Dane dotyczące zdrowia psychicznego jako dane szczególnej kategorii — wzmocniona ochrona |
+| **RODO / Ustawa o ochronie danych osobowych** | Art. 9 RODO | Dane dotyczące zdrowia psychicznego jako dane szczególnej kategorii - wzmocniona ochrona |
 | **Ustawa o ochronie małoletnich** (2023) | Art. 12 | Obowiązek zawiadomienia o krzywdzeniu dziecka |
 
 ---
@@ -31,7 +31,7 @@ Tajemnica obejmuje **wszystko, czego psycholog dowiedział się w związku z wyk
 - treść wypowiedzi, wyznań i ujawnionych informacji,
 - wyniki badań diagnostycznych i psychologicznych,
 - dokumentację kliniczną i notatki z sesji,
-- **sam fakt korzystania z pomocy psychologicznej** — nawet to, że dana osoba jest klientem, jest objęte tajemnicą.
+- **sam fakt korzystania z pomocy psychologicznej** - nawet to, że dana osoba jest klientem, jest objęte tajemnicą.
 
 ### Czas trwania
 
@@ -64,7 +64,7 @@ Omawiane przypadki w ramach superwizji lub konsultacji koleżeńskiej są dopusz
 
 ---
 
-## Doktryna Tarasoff — obowiązek ostrzegania
+## Doktryna Tarasoff - obowiązek ostrzegania
 
 W 1976 r. Sąd Najwyższy Kalifornii wydał przełomowe orzeczenie w sprawie **Tarasoff v. Regents of the University of California**. Terapeuta wiedział, że jego pacjent planuje zabić konkretną osobę (Tatianę Tarasoff), ale nie ostrzegł jej ani jej rodziny. Sąd uznał, że terapeuta miał **obowiązek prawny ostrzeżenia** (*duty to warn*) możliwej ofiary.
 
@@ -78,12 +78,12 @@ W 1976 r. Sąd Najwyższy Kalifornii wydał przełomowe orzeczenie w sprawie **T
 
 ---
 
-## Ochrona danych elektronicznych — RODO
+## Ochrona danych elektronicznych - RODO
 
 W erze cyfrowej tajemnica zawodowa obejmuje również **dane elektroniczne**:
 
 - Dokumentacja kliniczna przechowywana elektronicznie musi być szyfrowana i zabezpieczona hasłem.
-- Korzystanie z platform do terapii online wymaga weryfikacji zgodności z RODO (art. 9 — dane dotyczące zdrowia).
+- Korzystanie z platform do terapii online wymaga weryfikacji zgodności z RODO (art. 9 - dane dotyczące zdrowia).
 - **Dane psychologiczne** są danymi szczególnej kategorii i wymagają wyraźnej zgody na przetwarzanie.
 - Psycholog jest zobowiązany do prowadzenia **rejestru czynności przetwarzania** danych osobowych.
 - W przypadku naruszenia bezpieczeństwa danych (np. wyciek dokumentacji) psycholog zobowiązany jest powiadomić **Urząd Ochrony Danych Osobowych** (UODO) w ciągu 72 godzin.

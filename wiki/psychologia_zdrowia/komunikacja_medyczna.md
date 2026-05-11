@@ -36,11 +36,11 @@ Bariery komunikacyjne szczególnie nasilają się przy diagnozach przewlekłych 
 
 Pomocne elementy rozmowy:
 
-1. **Prosty język** — krótkie, konkretne komunikaty.
-2. **Porcjowanie informacji** — najpierw priorytety, potem szczegóły.
-3. **Teach-back** — prośba, by pacjent powtórzył plan własnymi słowami.
-4. **Walidacja emocji** — uznanie lęku, złości lub zmęczenia.
-5. **Współdecydowanie** — plan dopasowany do realiów życia pacjenta.
+1. **Prosty język** - krótkie, konkretne komunikaty.
+2. **Porcjowanie informacji** - najpierw priorytety, potem szczegóły.
+3. **Teach-back** - prośba, by pacjent powtórzył plan własnymi słowami.
+4. **Walidacja emocji** - uznanie lęku, złości lub zmęczenia.
+5. **Współdecydowanie** - plan dopasowany do realiów życia pacjenta.
 
 ## Komunikacja w trudnych sytuacjach
 
@@ -52,7 +52,7 @@ Przy złych wiadomościach i wysokim napięciu warto:
 - przekazać informacje pisemnie,
 - włączyć bliską osobę za zgodą pacjenta.
 
-Pacjent zwykle zapamiętuje mniej informacji, gdy jest silnie zestresowany — powtórzenie kluczowych punktów jest konieczne.
+Pacjent zwykle zapamiętuje mniej informacji, gdy jest silnie zestresowany - powtórzenie kluczowych punktów jest konieczne.
 
 ## Rola psychologa
 

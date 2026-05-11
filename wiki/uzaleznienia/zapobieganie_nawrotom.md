@@ -8,7 +8,7 @@ evidenceCutoffDate: 2025-12-31
 
 ## Wprowadzenie
 
-Nawrót (*relapse*) stanowi jedno z centralnych wyzwań w leczeniu uzależnień — wskaźniki powrotu do używania substancji w ciągu pierwszego roku po leczeniu wahają się od 40 do 60% (McLellan i in., 2000). Przez długi czas traktowany był jako oznaka porażki terapeutycznej lub braku motywacji pacjenta. **Model zapobiegania nawrotom** (*Relapse Prevention*, RP) zaproponowany przez **G. Alana Marlatta** i **Judith Gordon** (1985) zmienił to podejście fundamentalnie: nawrót jest traktowany jako przewidywalny, częściowo możliwy do zapobiegania proces, a nie katastrofa moralna.
+Nawrót (*relapse*) stanowi jedno z centralnych wyzwań w leczeniu uzależnień - wskaźniki powrotu do używania substancji w ciągu pierwszego roku po leczeniu wahają się od 40 do 60% (McLellan i in., 2000). Przez długi czas traktowany był jako oznaka porażki terapeutycznej lub braku motywacji pacjenta. **Model zapobiegania nawrotom** (*Relapse Prevention*, RP) zaproponowany przez **G. Alana Marlatta** i **Judith Gordon** (1985) zmienił to podejście fundamentalnie: nawrót jest traktowany jako przewidywalny, częściowo możliwy do zapobiegania proces, a nie katastrofa moralna.
 
 ---
 
@@ -18,8 +18,8 @@ Nawrót (*relapse*) stanowi jedno z centralnych wyzwań w leczeniu uzależnień 
 
 Model RP wywodzi się z tradycji **terapii poznawczo-behawioralnej** (CBT) i traktuje uzależnienie jako wyuczone zachowanie, które można zmodyfikować. Kluczowe elementy modelu to:
 
-1. **Sytuacje wysokiego ryzyka** (*high-risk situations*) — konteksty poprzedzające nawrót
-2. **Umiejętności radzenia sobie** (*coping skills*) — zasoby chroniące przed nawrotem
+1. **Sytuacje wysokiego ryzyka** (*high-risk situations*) - konteksty poprzedzające nawrót
+2. **Umiejętności radzenia sobie** (*coping skills*) - zasoby chroniące przed nawrotem
 3. **Oczekiwania dotyczące efektów substancji** (*outcome expectancies*)
 4. **Poczucie własnej skuteczności** (*self-efficacy*) jako czynnik buforujący
 5. **Efekt naruszenia abstynencji** (*abstinence violation effect*, AVE)
@@ -66,17 +66,17 @@ Klient i terapeuta wspólnie mapują **zewnętrzne** (miejsca, osoby, sytuacje) 
 
 ### 2. Pozornie nieistotne decyzje (*apparently irrelevant decisions*, AID)
 
-Marlatt opisał, jak osoby uzależnione nieświadomie podejmują szereg drobnych decyzji, które stopniowo przybliżają je do nawrotu — np. „pójdę tą drogą, bo jest krótsza" (a prowadzi obok baru). Terapia uczy rozpoznawania tych mikrodecyzji i ich kwestionowania.
+Marlatt opisał, jak osoby uzależnione nieświadomie podejmują szereg drobnych decyzji, które stopniowo przybliżają je do nawrotu - np. „pójdę tą drogą, bo jest krótsza" (a prowadzi obok baru). Terapia uczy rozpoznawania tych mikrodecyzji i ich kwestionowania.
 
-### 3. Radzenie sobie z głodem — technika AWARE
+### 3. Radzenie sobie z głodem - technika AWARE
 
 | Krok | Opis |
 |------|------|
-| **A** — *Accept* | Zaakceptuj głód jako przejściowy stan |
-| **W** — *Watch* | Obserwuj głód bez oceniania, jak zewnętrzny obiekt |
-| **A** — *Act normally* | Działaj normalnie pomimo głodu |
-| **R** — *Ride it out* | „Przejechaj" falę — głód osiągnie szczyt i opadnie |
-| **E** — *Expect* | Oczekuj, że głód minie (zwykle 15–30 minut) |
+| **A** - *Accept* | Zaakceptuj głód jako przejściowy stan |
+| **W** - *Watch* | Obserwuj głód bez oceniania, jak zewnętrzny obiekt |
+| **A** - *Act normally* | Działaj normalnie pomimo głodu |
+| **R** - *Ride it out* | „Przejechaj" falę - głód osiągnie szczyt i opadnie |
+| **E** - *Expect* | Oczekuj, że głód minie (zwykle 15–30 minut) |
 
 ### 4. Restrukturyzacja poznawcza
 
@@ -92,10 +92,10 @@ Klient przygotowuje konkretny plan działania na wypadek kryzysu: numery telefon
 
 AVE to poznawczo-emocjonalna reakcja na pierwsze użycie substancji po okresie abstynencji. Składa się z dwóch elementów:
 
-1. **Dysonans poznawczy** — napięcie między tożsamością osoby abstynującej a faktem użycia substancji
-2. **Atrybucja wewnętrzna** — „jestem słaby/a", „nie mam silnej woli", co paradoksalnie prowadzi do dalszego używania
+1. **Dysonans poznawczy** - napięcie między tożsamością osoby abstynującej a faktem użycia substancji
+2. **Atrybucja wewnętrzna** - „jestem słaby/a", „nie mam silnej woli", co paradoksalnie prowadzi do dalszego używania
 
-Interwencja terapeutyczna polega na **reframing nawrotu jako lapsu** — pojedynczego zdarzenia, z którego można się wycofać, a nie jako definitywnej porażki.
+Interwencja terapeutyczna polega na **reframing nawrotu jako lapsu** - pojedynczego zdarzenia, z którego można się wycofać, a nie jako definitywnej porażki.
 
 ---
 
@@ -103,14 +103,14 @@ Interwencja terapeutyczna polega na **reframing nawrotu jako lapsu** — pojedyn
 
 **Mindfulness-Based Relapse Prevention** (MBRP) opracowane przez **Sarah Bowen**, Neelę Chawlę i Alana Marlatta (2011) integruje techniki uważności (*mindfulness*) z klasycznym modelem RP. Główne elementy:
 
-- **Surfowanie na głodzie** (*urge surfing*) — obserwacja głodu jak fali oceanicznej: ma swój wzrost, szczyt i opadanie
+- **Surfowanie na głodzie** (*urge surfing*) - obserwacja głodu jak fali oceanicznej: ma swój wzrost, szczyt i opadanie
 - Formalna praktyka medytacji uważności (skan ciała, medytacja oddechowa)
-- Techniki decentracji (*decentering*) — dystansowanie się od myśli bez ich tłumienia
+- Techniki decentracji (*decentering*) - dystansowanie się od myśli bez ich tłumienia
 - Rozwijanie samoświadomości wobec automatycznych wzorców reagowania
 
 ### Dowody naukowe dla MBRP
 
-Bowen i in. (2014) — randomizowane badanie kontrolowane (n = 286) wykazało, że MBRP w porównaniu z tradycyjnym zapobieganiem nawrotom i programem 12-kroków:
+Bowen i in. (2014) - randomizowane badanie kontrolowane (n = 286) wykazało, że MBRP w porównaniu z tradycyjnym zapobieganiem nawrotom i programem 12-kroków:
 - istotnie redukowało liczbę dni używania substancji po 12 miesiącach
 - zmniejszało ciężkość używania narkotyków wśród osób, które nawróciły
 - poprawiało regulację emocji i redukowało reaktywność na stres
@@ -134,7 +134,7 @@ Krytyki modelu Marlatta obejmują:
 - Skupienie na procesach poznawczych kosztem czynników biologicznych (neuroadaptacja)
 - Trudność w operacjonalizacji „pozornie nieistotnych decyzji"
 - Ograniczona skuteczność u osób z ciężką współzachorowalnością psychiatryczną
-- Model opracowany głównie na populacji uzależnionych od alkoholu — generalizacja wymaga ostrożności
+- Model opracowany głównie na populacji uzależnionych od alkoholu - generalizacja wymaga ostrożności
 
 ---
 

@@ -16,7 +16,7 @@ W praktyce pomagający często korzystają z **podejść integracyjnych**, łąc
 
 ## Model medyczny (biomedyczny)
 
-Zakłada, że trudności psychiczne są wynikiem zaburzeń biologicznych — genetycznych, neurochemicznych lub neurologicznych.
+Zakłada, że trudności psychiczne są wynikiem zaburzeń biologicznych - genetycznych, neurochemicznych lub neurologicznych.
 
 - **Fokus**: diagnoza, klasyfikacja (DSM, ICD), farmakoterapia
 - **Rola pomagającego**: ekspert i lekarz
@@ -49,7 +49,7 @@ Skupia się na myślach, przekonaniach i zachowaniach jako mediatorach cierpieni
 
 ## Model humanistyczny (Rogersowski)
 
-Oparty na koncepcji Carla Rogersa — zakłada, że każdy człowiek posiada wrodzoną tendencję do wzrostu i samorealizacji (*actualizing tendency*).
+Oparty na koncepcji Carla Rogersa - zakłada, że każdy człowiek posiada wrodzoną tendencję do wzrostu i samorealizacji (*actualizing tendency*).
 
 - **Fokus**: podmiotowość, autentyczność, bezwarunkowa akceptacja
 - **Rola pomagającego**: towarzysz, facylitator
@@ -70,7 +70,7 @@ Rozumie jednostkę jako część systemu (rodziny, grupy, społeczności) i szuk
 
 ## Model ekologiczny (Bronfenbrenner)
 
-Uwzględnia wielopoziomowy kontekst — jednostkę, rodzinę, społeczność, kulturę i politykę.
+Uwzględnia wielopoziomowy kontekst - jednostkę, rodzinę, społeczność, kulturę i politykę.
 
 - **Fokus**: konteksty mikro, mezo, makro
 - **Zastosowanie**: praca socjalna, psychologia szkolna, zdrowie publiczne
@@ -80,17 +80,17 @@ Uwzględnia wielopoziomowy kontekst — jednostkę, rodzinę, społeczność, ku
 
 ## Model integracyjny
 
-Większość współczesnych pomagających pracuje eklektycznie — łączy elementy różnych podejść w zależności od potrzeb klienta, etapu pracy i badań empirycznych.
+Większość współczesnych pomagających pracuje eklektycznie - łączy elementy różnych podejść w zależności od potrzeb klienta, etapu pracy i badań empirycznych.
 
 Przykłady integracji:
-- **DBT** (Dialectical Behavior Therapy) — CBT + mindfulness + podejście akceptacji
-- **EMDR** — elementy ekspozycji + procesowanie traumy
-- **Terapia schematów** — CBT + psychodynamika + humanizm
+- **DBT** (Dialectical Behavior Therapy) - CBT + mindfulness + podejście akceptacji
+- **EMDR** - elementy ekspozycji + procesowanie traumy
+- **Terapia schematów** - CBT + psychodynamika + humanizm
 
 ---
 
 ## Zobacz też
-- Pomoc psychologiczna — wprowadzenie
+- Pomoc psychologiczna - wprowadzenie
 - Relacja pomocowa
 - Etyka pomocy psychologicznej
 

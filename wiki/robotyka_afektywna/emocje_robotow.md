@@ -4,27 +4,27 @@ reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
 
-# Emocje w robotach — projektowanie i rozpoznawanie
+# Emocje w robotach - projektowanie i rozpoznawanie
 
 ## Czym są emocje w kontekście robotyki?
 
 Pytanie o to, czy robot może „mieć" emocje, jest jednym z najbardziej dyskutowanych w kognitywistyce i filozofii umysłu. W praktyce inżynierskiej mówi się zwykle o dwóch odrębnych zadaniach:
 
-- **rozpoznawanie emocji** — zdolność robota do wykrycia i interpretacji stanu emocjonalnego człowieka
-- **wyrażanie emocji** — zdolność robota do komunikowania stanów wewnętrznych w sposób czytelny dla człowieka
+- **rozpoznawanie emocji** - zdolność robota do wykrycia i interpretacji stanu emocjonalnego człowieka
+- **wyrażanie emocji** - zdolność robota do komunikowania stanów wewnętrznych w sposób czytelny dla człowieka
 
 Oba zadania są niezbędne do naturalnej, afektywnej interakcji człowiek–robot.
 
-## Affective computing — obliczenia afektywne
+## Affective computing - obliczenia afektywne
 
 Termin wprowadzony przez Rosalind Picard (MIT, 1997) opisuje systemy komputerowe zdolne do rozpoznawania, interpretowania i symulowania ludzkich emocji. Obliczenia afektywne opierają się na wielomodalnym przetwarzaniu danych wejściowych:
 
-- **wyraz twarzy** — system kodowania ruchów mięśni twarzy FACS (Paul Ekman i Wallace Friesen, 1978)
-- **ton i parametry głosu** — rytm, wysokość, tempo, energia
-- **gestykulacja i postawa ciała** — kinematyka ruchów
-- **sygnały fizjologiczne** — tętno, przewodność skóry (EDA), temperatura ciała, EEG
+- **wyraz twarzy** - system kodowania ruchów mięśni twarzy FACS (Paul Ekman i Wallace Friesen, 1978)
+- **ton i parametry głosu** - rytm, wysokość, tempo, energia
+- **gestykulacja i postawa ciała** - kinematyka ruchów
+- **sygnały fizjologiczne** - tętno, przewodność skóry (EDA), temperatura ciała, EEG
 
-> **Fakt:** Paul Ekman zidentyfikował sześć emocji podstawowych (radość, smutek, gniew, strach, wstręt, zaskoczenie), które według jego badań są rozpoznawalne cross-kulturowo — stały się one podstawą wielu systemów rozpoznawania emocji w robotach.
+> **Fakt:** Paul Ekman zidentyfikował sześć emocji podstawowych (radość, smutek, gniew, strach, wstręt, zaskoczenie), które według jego badań są rozpoznawalne cross-kulturowo - stały się one podstawą wielu systemów rozpoznawania emocji w robotach.
 
 ## Systemy rozpoznawania emocji
 
@@ -52,7 +52,7 @@ Modulacja tonu, rytmu i głośności wypowiedzi przekazuje emocje nawet bez sł�
 
 ### Kolor i oświetlenie
 
-Wiele robotów (np. NAO, Cozmo) komunikuje stany wewnętrzne za pomocą koloru LED — czerwony sygnalizuje złość lub ostrzeżenie, niebieski spokój, zielony gotowość do interakcji.
+Wiele robotów (np. NAO, Cozmo) komunikuje stany wewnętrzne za pomocą koloru LED - czerwony sygnalizuje złość lub ostrzeżenie, niebieski spokój, zielony gotowość do interakcji.
 
 > **Fakt:** Badania Kappasa i współpracowników (2010) wykazały, że roboty wyrażające emocje spójne z kontekstem sytuacyjnym są oceniane przez ludzi jako bardziej kompetentne i godne zaufania niż roboty „neutralne emocjonalnie".
 
@@ -60,11 +60,11 @@ Wiele robotów (np. NAO, Cozmo) komunikuje stany wewnętrzne za pomocą koloru L
 
 ### Autentyczność vs symulacja
 
-Kluczowe pytanie etyczne: czy robot *przeżywa* emocje, czy jedynie je *symuluje*? Większość badaczy przyjmuje stanowisko funkcjonalistyczne — robot wyraża stany funkcjonalnie odpowiadające emocjom, niezależnie od tego, czy towarzyszą im subiektywne przeżycia.
+Kluczowe pytanie etyczne: czy robot *przeżywa* emocje, czy jedynie je *symuluje*? Większość badaczy przyjmuje stanowisko funkcjonalistyczne - robot wyraża stany funkcjonalnie odpowiadające emocjom, niezależnie od tego, czy towarzyszą im subiektywne przeżycia.
 
 ### Manipulacja emocjonalna
 
-Roboty zdolne do wzbudzania emocji mogą być użyte manipulacyjnie — np. w celu zwiększenia zaangażowania klientów lub uzależnienia dzieci od interakcji. To poważne wyzwanie etyczne dla projektantów.
+Roboty zdolne do wzbudzania emocji mogą być użyte manipulacyjnie - np. w celu zwiększenia zaangażowania klientów lub uzależnienia dzieci od interakcji. To poważne wyzwanie etyczne dla projektantów.
 
 ### Różnice kulturowe
 

@@ -8,11 +8,11 @@ evidenceCutoffDate: 2025-12-31
 
 ## Wprowadzenie
 
-Przez długi czas psychologowie zakładali, że procesy percepcyjne — szczególnie tak elementarne jak widzenie kształtów czy rozpoznawanie przestrzeni — są wolne od wpływów kulturowych. Seria klasycznych i współczesnych badań zaprzeczyła temu założeniu: **kultura kształtuje percepcję** na poziomie uwagi, organizacji pola wzrokowego, wrażliwości na kontekst i kategoryzacji obiektów.
+Przez długi czas psychologowie zakładali, że procesy percepcyjne - szczególnie tak elementarne jak widzenie kształtów czy rozpoznawanie przestrzeni - są wolne od wpływów kulturowych. Seria klasycznych i współczesnych badań zaprzeczyła temu założeniu: **kultura kształtuje percepcję** na poziomie uwagi, organizacji pola wzrokowego, wrażliwości na kontekst i kategoryzacji obiektów.
 
 ---
 
-## Złudzenie Müllera-Lyera — badania międzykulturowe
+## Złudzenie Müllera-Lyera - badania międzykulturowe
 
 Złudzenie Müllera-Lyera (1889) polega na tym, że linia z grotami skierowanymi na zewnątrz wydaje się dłuższa niż równa linia z grotami skierowanymi do wewnątrz. W kulturach zachodnich efekt ten jest silny i odporny na wiedzę o złudzeniu.
 
@@ -21,28 +21,28 @@ Złudzenie Müllera-Lyera (1889) polega na tym, że linia z grotami skierowanymi
 | Populacja | Podatność na złudzenie |
 |---|---|
 | Europejczycy i Amerykanie | wysoka |
-| Zulusowie (RPA) — środowisko okrągłych chat | bardzo niska |
+| Zulusowie (RPA) - środowisko okrągłych chat | bardzo niska |
 | Mieszkańcy miast w Afryce Subsaharyjskiej | pośrednia |
 
-**Wyjaśnienie — hipoteza „świata ciesielskiego"** (*carpentered world hypothesis*): Osoby wychowane w środowiskach pełnych kątów prostych i prostopadłych (budynki, ulice, meble prostokątne) uczą się interpretować ukośne linie jako wskazówki głębi perspektywicznej. Zulusowie, żyjący w środowisku bez takich regularności geometrycznych, nie nabywają tej tendencji interpretacyjnej.
+**Wyjaśnienie - hipoteza „świata ciesielskiego"** (*carpentered world hypothesis*): Osoby wychowane w środowiskach pełnych kątów prostych i prostopadłych (budynki, ulice, meble prostokątne) uczą się interpretować ukośne linie jako wskazówki głębi perspektywicznej. Zulusowie, żyjący w środowisku bez takich regularności geometrycznych, nie nabywają tej tendencji interpretacyjnej.
 
 ---
 
-## Holizm vs. analityzm — badania Nisbetta
+## Holizm vs. analityzm - badania Nisbetta
 
 Richard Nisbett i współpracownicy (2001) przeprowadzili serię badań porównujących Azjatów Wschodnich i Amerykanów w zakresie stylu poznawczego.
 
 ### Zadanie tła i obiektu (*rod and frame*)
 
-Uczestnicy mieli ocenić pionowość pręta umieszczonego w ramce przechylonej pod kątem. Japończycy i Chińczycy silniej polegali na ramce (kontekst), Amerykanie — na wrażeniach proprioceptywnych (obiekt niezależny od tła).
+Uczestnicy mieli ocenić pionowość pręta umieszczonego w ramce przechylonej pod kątem. Japończycy i Chińczycy silniej polegali na ramce (kontekst), Amerykanie - na wrażeniach proprioceptywnych (obiekt niezależny od tła).
 
 ### Opis scen (*scene description*)
 
-Po ekspozycji podwodnej sceny Japończycy częściej opisywali najpierw **tło** (roślinność, woda, relacje między obiektami), Amerykanie — **obiekty pierwszego planu** (ryby).
+Po ekspozycji podwodnej sceny Japończycy częściej opisywali najpierw **tło** (roślinność, woda, relacje między obiektami), Amerykanie - **obiekty pierwszego planu** (ryby).
 
 ### Kategoryzacja
 
-Gdy proszono o grupowanie pojęć, Chińczycy częściej tworzyli grupy **relacyjne** (krowa–trawa: krowa je trawę), Amerykanie — **taksonomiczne** (krowa–świnia: oba to zwierzęta hodowlane).
+Gdy proszono o grupowanie pojęć, Chińczycy częściej tworzyli grupy **relacyjne** (krowa–trawa: krowa je trawę), Amerykanie - **taksonomiczne** (krowa–świnia: oba to zwierzęta hodowlane).
 
 **Wniosek Nisbetta:** Kultury z tradycją konfucjańską, kładące nacisk na kontekst społeczny i wzajemne zależności, kształtują holistyczny styl percepcji. Kultury grecko-rzymskie, podkreślające logikę i kategoryzację, sprzyjają analityzmowi.
 
@@ -52,7 +52,7 @@ Gdy proszono o grupowanie pojęć, Chińczycy częściej tworzyli grupy **relacy
 
 **Ślepota na zmianę** (*change blindness*) to niemożność wykrycia zmian w scenie wzrokowej przy braku wyraźnego sygnału wskazującego zmianę.
 
-Masuda i Nisbett (2006) przeprowadzili badanie, w którym Japończycy i Amerykanie oglądali sceny z obiektami w różnych kontekstach (naturalistycznych i wyjętych z kontekstu). Japończycy **szybciej wykrywali zmiany w tle** (tło sceny, relacje przestrzenne), Amerykanie — zmiany dotyczące obiektów pierwszoplanowych.
+Masuda i Nisbett (2006) przeprowadzili badanie, w którym Japończycy i Amerykanie oglądali sceny z obiektami w różnych kontekstach (naturalistycznych i wyjętych z kontekstu). Japończycy **szybciej wykrywali zmiany w tle** (tło sceny, relacje przestrzenne), Amerykanie - zmiany dotyczące obiektów pierwszoplanowych.
 
 Wyniki te są spójne z hipotezą, że **uwaga jest kulturowo regulowana**: wskazówki środowiskowe (praktyki społeczne, język, architektura) kierują ją na różne aspekty otoczenia.
 
@@ -62,7 +62,7 @@ Wyniki te są spójne z hipotezą, że **uwaga jest kulturowo regulowana**: wska
 
 Badania nad postrzeganiem kolorów dostarczają kolejnych dowodów na kulturowe modulowanie percepcji.
 
-- **Regier i Kay (2009):** Języki różnią się w podziale spektrum barw, co wpływa na szybkość dyskryminacji kolorów — efekt jest silniejszy dla kategorii z pola prawego (lewa półkula, językowo dominująca) niż lewego.
+- **Regier i Kay (2009):** Języki różnią się w podziale spektrum barw, co wpływa na szybkość dyskryminacji kolorów - efekt jest silniejszy dla kategorii z pola prawego (lewa półkula, językowo dominująca) niż lewego.
 - **Roberson i in. (2005):** Populacja Berinmo (Papua Nowa Gwinea) posiadająca inny podział spektrum barw wykazuje wzorce dyskryminacji zgodne z granicami kategorii językowych, nie z granicami zachodnich kategorii.
 
 ---
@@ -74,13 +74,13 @@ Badania nad postrzeganiem kolorów dostarczają kolejnych dowodów na kulturowe 
 | **Uczenie percepcyjne** | Powtarzające się doświadczenia środowiskowe kształtują wzorce neuralne przetwarzania |
 | **Uwaga kierowana językiem** | Kategorie językowe orientują uwagę na określone cechy (efekt Whorfa) |
 | **Priming kulturowy** | Aktywacja wartości kulturowych modyfikuje strategię przetwarzania (Kühnen & Oyserman, 2002) |
-| **Sieci społeczno-ekologiczne** | Architektura środowiska, technologia, relacje społeczne — wszystko to kształtuje bodźcowy świat jednostki |
+| **Sieci społeczno-ekologiczne** | Architektura środowiska, technologia, relacje społeczne - wszystko to kształtuje bodźcowy świat jednostki |
 
 ---
 
 ## Eksperymenty z primingiem kulturowym
 
-Hong i in. (2000) wykazali, że **bikulturalne** osoby (Chińczycy urodzeni w Hongkongu) zmieniały styl atrybucji przyczynowej — indywidualistyczny lub kolektywistyczny — w zależności od tego, czy wcześniej eksponowano im symbole kultury zachodniej (Statua Wolności) czy chińskiej (Smok). Efekt *priming kulturowego* wskazuje, że te same jednostki mogą alternować między trybami percepcji i poznania.
+Hong i in. (2000) wykazali, że **bikulturalne** osoby (Chińczycy urodzeni w Hongkongu) zmieniały styl atrybucji przyczynowej - indywidualistyczny lub kolektywistyczny - w zależności od tego, czy wcześniej eksponowano im symbole kultury zachodniej (Statua Wolności) czy chińskiej (Smok). Efekt *priming kulturowego* wskazuje, że te same jednostki mogą alternować między trybami percepcji i poznania.
 
 ---
 

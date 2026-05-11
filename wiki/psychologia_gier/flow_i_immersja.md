@@ -8,9 +8,9 @@ evidenceCutoffDate: 2025-12-31
 
 ## Wprowadzenie
 
-Każdy gracz zna to uczucie: czas przestaje istnieć, zewnętrzny świat zanika, a świadomość skupia się wyłącznie na tym, co dzieje się na ekranie. Działania są płynne, automatyczne, satysfakcjonujące. To stan, który psycholog Mihály Csikszentmihályi opisał jako **przepływ** (flow) — jeden z optymalnych stanów ludzkiego doświadczenia. Gry wideo okazały się niemal idealnym środowiskiem do jego wywoływania.
+Każdy gracz zna to uczucie: czas przestaje istnieć, zewnętrzny świat zanika, a świadomość skupia się wyłącznie na tym, co dzieje się na ekranie. Działania są płynne, automatyczne, satysfakcjonujące. To stan, który psycholog Mihály Csikszentmihályi opisał jako **przepływ** (flow) - jeden z optymalnych stanów ludzkiego doświadczenia. Gry wideo okazały się niemal idealnym środowiskiem do jego wywoływania.
 
-> **Fakt:** Csikszentmihályi przeprowadził tysiące wywiadów z osobami z różnych dziedzin — alpinistami, chirurgami, szachistami, tancerzami — nim opublikował teorię flow w 1990 roku. Nie badał bezpośrednio graczy, ale gry okazały się potwierdzać jego teorię lepiej niż cokolwiek innego.
+> **Fakt:** Csikszentmihályi przeprowadził tysiące wywiadów z osobami z różnych dziedzin - alpinistami, chirurgami, szachistami, tancerzami - nim opublikował teorię flow w 1990 roku. Nie badał bezpośrednio graczy, ale gry okazały się potwierdzać jego teorię lepiej niż cokolwiek innego.
 
 ## Teoria flow Csikszentmihályiego
 
@@ -18,19 +18,19 @@ Każdy gracz zna to uczucie: czas przestaje istnieć, zewnętrzny świat zanika,
 
 Csikszentmihályi opisał dziewięć składowych doświadczenia flow:
 
-1. **Jasność celów** — wiesz dokładnie, co robić i jak oceniana jest twoja skuteczność
-2. **Natychmiastowa informacja zwrotna** — wynik działania jest znany niemal natychmiast
-3. **Równowaga wyzwania i umiejętności** — zadanie jest ani zbyt łatwe, ani zbyt trudne
-4. **Skupienie na aktualnym zadaniu** — świadomość zawęża się do tu i teraz
-5. **Utrata poczucia czasu** — czas subiektywnie przyspiesza lub znika
-6. **Utrata samoświadomości** — zanikają obawy o wizerunek i samoocenę
-7. **Poczucie kontroli** — działasz pewnie, bez lęku przed porażką
-8. **Wewnętrzna nagradzalność** — działanie samo w sobie jest satysfakcjonujące
-9. **Fuzja akcji i świadomości** — działasz „automatycznie", bez myślenia o każdym kroku
+1. **Jasność celów** - wiesz dokładnie, co robić i jak oceniana jest twoja skuteczność
+2. **Natychmiastowa informacja zwrotna** - wynik działania jest znany niemal natychmiast
+3. **Równowaga wyzwania i umiejętności** - zadanie jest ani zbyt łatwe, ani zbyt trudne
+4. **Skupienie na aktualnym zadaniu** - świadomość zawęża się do tu i teraz
+5. **Utrata poczucia czasu** - czas subiektywnie przyspiesza lub znika
+6. **Utrata samoświadomości** - zanikają obawy o wizerunek i samoocenę
+7. **Poczucie kontroli** - działasz pewnie, bez lęku przed porażką
+8. **Wewnętrzna nagradzalność** - działanie samo w sobie jest satysfakcjonujące
+9. **Fuzja akcji i świadomości** - działasz „automatycznie", bez myślenia o każdym kroku
 
 ### Kanał flow
 
-Kluczową koncepcją jest **kanał flow** — stan osiągany, gdy poziom wyzwania i poziom umiejętności gracza są w równowadze i oba są wysokie. Gdy wyzwanie przekracza umiejętności, pojawia się lęk i frustracja. Gdy umiejętności przewyższają wyzwanie, pojawia się nuda. Tylko w wąskim kanale między tymi stanami możliwe jest flow.
+Kluczową koncepcją jest **kanał flow** - stan osiągany, gdy poziom wyzwania i poziom umiejętności gracza są w równowadze i oba są wysokie. Gdy wyzwanie przekracza umiejętności, pojawia się lęk i frustracja. Gdy umiejętności przewyższają wyzwanie, pojawia się nuda. Tylko w wąskim kanale między tymi stanami możliwe jest flow.
 
 Gry wideo są wyjątkowo skuteczne w utrzymaniu gracza w kanale flow, ponieważ:
 
@@ -59,7 +59,7 @@ Krótkie, średnie i długie pętle nagradzania zapewniają ciągłe doświadcze
 - **Mezopętle** (minuty): ukończenie etapu, pokonanie minibossa
 - **Makropętle** (godziny): awans postaci, odblokowanie nowej strefy, zakończenie wątku fabularnego
 
-> **Fakt:** Projektantka Jenova Chen napisała pracę magisterską w 2006 roku na temat flow w grach wideo i na jej podstawie stworzyła grę *Flow* (2006) oraz późniejszą *Journey* (2012) — uznawaną za jedno z arcydzieł projektowania zorientowanego na doświadczenie emocjonalne.
+> **Fakt:** Projektantka Jenova Chen napisała pracę magisterską w 2006 roku na temat flow w grach wideo i na jej podstawie stworzyła grę *Flow* (2006) oraz późniejszą *Journey* (2012) - uznawaną za jedno z arcydzieł projektowania zorientowanego na doświadczenie emocjonalne.
 
 ## Immersja i obecność
 
@@ -75,31 +75,31 @@ Brown i Cairns (2004) zaproponowali model immersji jako procesu, w którym gracz
 
 ### Presence (poczucie obecności)
 
-W literaturze VR (Virtual Reality) używa się pojęcia **presence** — subiektywnego poczucia bycia „tam", w wirtualnym środowisku. Presence zależy od:
+W literaturze VR (Virtual Reality) używa się pojęcia **presence** - subiektywnego poczucia bycia „tam", w wirtualnym środowisku. Presence zależy od:
 
 - Wierności wizualnej i dźwiękowej środowiska
-- Sprawczości gracza — możliwości wpływania na środowisko
+- Sprawczości gracza - możliwości wpływania na środowisko
 - Spójności wewnętrznej świata gry
 - Braku interferencji z rzeczywistością (tzw. breaks in presence)
 
-Wysokie poczucie presence wiąże się z silniejszą reakcją emocjonalną — gracze grający w VR wykazują silniejsze reakcje fizjologiczne na przerażające czy wzruszające sceny niż gracze na tradycyjnych ekranach.
+Wysokie poczucie presence wiąże się z silniejszą reakcją emocjonalną - gracze grający w VR wykazują silniejsze reakcje fizjologiczne na przerażające czy wzruszające sceny niż gracze na tradycyjnych ekranach.
 
 ## Transportacja narracyjna
 
-**Transportacja narracyjna** (narrative transportation) to stan głębokiego pochłonięcia przez historię, w którym czytelnik/gracz mentalnie „przenosi się" do świata narracji. Green i Brock (2000) wykazali, że wysoki poziom transportacji narracyjnej zmienia przekonania i postawy — skuteczniej niż argumenty perswazyjne.
+**Transportacja narracyjna** (narrative transportation) to stan głębokiego pochłonięcia przez historię, w którym czytelnik/gracz mentalnie „przenosi się" do świata narracji. Green i Brock (2000) wykazali, że wysoki poziom transportacji narracyjnej zmienia przekonania i postawy - skuteczniej niż argumenty perswazyjne.
 
 Gry RPG i gry narracyjne (adventure games) szczególnie skutecznie wywołują transportację narracyjną dzięki:
 
-- Graczowi jako protagoniście — identyfikacja z postacią jest silniejsza niż z postacią z książki
-- Sprawczości — decyzje gracza kształtują narrację, co pogłębia zaangażowanie
+- Graczowi jako protagoniście - identyfikacja z postacią jest silniejsza niż z postacią z książki
+- Sprawczości - decyzje gracza kształtują narrację, co pogłębia zaangażowanie
 - Wielogodzinnemu kontaktowi z postaciami i światem gry
 - Emocjonalnym inwestycjom w wątki i postacie (character attachment)
 
-## Przykład kliniczny — flow jako zasób terapeutyczny
+## Przykład kliniczny - flow jako zasób terapeutyczny
 
 **Przypadek Joanny, 34 lata, z depresją:**
 
-Joanna trafiła do psychologa z powodu epizodu depresyjnego umiarkowanego. W anamnestycznym wywiadzie ujawniła, że jedyną aktywnością, która sprawia jej radość, jest granie w gry puzzlowe i platformowe (Celeste, Portal). Podczas gry nie myśli o problemach, czuje się kompetentna i spokojna. Psycholog potraktował granie nie jako problem, lecz jako zasób — okno dostępu do pozytywnych emocji i poczucia sprawczości. Rekomendował kontynuację grania jako element aktywacji behawioralnej. Joanna nauczyła się też rozpoznawać stan flow w grze i próbować transferować go na inne aktywności: gotowanie, rysowanie.
+Joanna trafiła do psychologa z powodu epizodu depresyjnego umiarkowanego. W anamnestycznym wywiadzie ujawniła, że jedyną aktywnością, która sprawia jej radość, jest granie w gry puzzlowe i platformowe (Celeste, Portal). Podczas gry nie myśli o problemach, czuje się kompetentna i spokojna. Psycholog potraktował granie nie jako problem, lecz jako zasób - okno dostępu do pozytywnych emocji i poczucia sprawczości. Rekomendował kontynuację grania jako element aktywacji behawioralnej. Joanna nauczyła się też rozpoznawać stan flow w grze i próbować transferować go na inne aktywności: gotowanie, rysowanie.
 
 ## Flow a ryzyko nadmiernego grania
 
@@ -114,16 +114,16 @@ Kluczowa różnica między zdrowym flow a problemowym graniem:
 
 Badania neurobiologiczne flow są trudne metodologicznie (trudno wywołać flow w skanerze MRI), ale dostępne dane sugerują:
 
-- Flow wiąże się ze zmniejszoną aktywnością sieci domyślnej (default mode network) — stany ruminacji zanikają
-- Wzrost aktywności wyspy — zintegrowane przetwarzanie ciało-umysł
-- Wyrzut dopaminy w układzie mezolimbicznym — związek z nagrodą i motywacją
+- Flow wiąże się ze zmniejszoną aktywnością sieci domyślnej (default mode network) - stany ruminacji zanikają
+- Wzrost aktywności wyspy - zintegrowane przetwarzanie ciało-umysł
+- Wyrzut dopaminy w układzie mezolimbicznym - związek z nagrodą i motywacją
 - Możliwa rola endokanabinoidów w odczuciu „zatracenia się" w aktywności
 
-> **Fakt:** Stan flow jest opisywany podobnie przez osoby z różnych kultur i kontekstów — od japońskich rzemieślników przez afrykańskich muzyków po zachodnich programistów. To sugeruje, że jest to ewolucyjnie zakorzeniony mechanizm optymalnego zaangażowania.
+> **Fakt:** Stan flow jest opisywany podobnie przez osoby z różnych kultur i kontekstów - od japońskich rzemieślników przez afrykańskich muzyków po zachodnich programistów. To sugeruje, że jest to ewolucyjnie zakorzeniony mechanizm optymalnego zaangażowania.
 
 ## Podsumowanie
 
-Flow i immersja są kluczowymi konceptami psychologii gier — wyjaśniają zarówno wyjątkową siłę angażującą gier wideo, jak i część ryzyka związanego z nadmiernym graniem. Teoria flow dostarcza projektantom gier praktycznych wskazówek, jak tworzyć doświadczenia angażujące, a klinicystom — jak rozumieć i wykorzystywać pozytywne aspekty grania w pracy terapeutycznej.
+Flow i immersja są kluczowymi konceptami psychologii gier - wyjaśniają zarówno wyjątkową siłę angażującą gier wideo, jak i część ryzyka związanego z nadmiernym graniem. Teoria flow dostarcza projektantom gier praktycznych wskazówek, jak tworzyć doświadczenia angażujące, a klinicystom - jak rozumieć i wykorzystywać pozytywne aspekty grania w pracy terapeutycznej.
 
 
 ## Definicje

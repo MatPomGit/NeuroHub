@@ -12,10 +12,10 @@ Współczesne środowisko cyfrowe wzmacnia dwie pokrewne, lecz odrębne trudnoś
 
 ## Definicje kluczowych pojęć
 
-- **FOMO** — obawa, że inne osoby doświadczają ważnych wydarzeń, relacji lub informacji, z których jednostka jest wykluczona.
-- **Nomofobia** — lęk lub silny dyskomfort pojawiający się przy braku telefonu, internetu, baterii lub sygnału sieciowego.
-- **Regulacja emocji przez urządzenie** — wykorzystywanie smartfona jako szybkiego narzędzia obniżania napięcia.
-- **Wzmocnienie o zmiennym współczynniku** — mechanizm, w którym nieprzewidywalne „nagrody” (wiadomość, polubienie) utrwalają częste sprawdzanie telefonu.
+- **FOMO** - obawa, że inne osoby doświadczają ważnych wydarzeń, relacji lub informacji, z których jednostka jest wykluczona.
+- **Nomofobia** - lęk lub silny dyskomfort pojawiający się przy braku telefonu, internetu, baterii lub sygnału sieciowego.
+- **Regulacja emocji przez urządzenie** - wykorzystywanie smartfona jako szybkiego narzędzia obniżania napięcia.
+- **Wzmocnienie o zmiennym współczynniku** - mechanizm, w którym nieprzewidywalne „nagrody” (wiadomość, polubienie) utrwalają częste sprawdzanie telefonu.
 
 ## Część analityczna: mechanizmy i zależności
 

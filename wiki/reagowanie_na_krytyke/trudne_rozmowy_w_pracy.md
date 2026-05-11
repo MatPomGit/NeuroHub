@@ -3,20 +3,20 @@
 ## Wprowadzenie
 Warto podkreślić, że reakcja na krytykę nie jest wyłącznie „cechą charakteru”, ale także wyuczonym nawykiem. Dobra wiadomość jest taka, że nawyki można trenować etapami, zaczynając od krótkich interwencji w codziennych rozmowach.
 
-Trudna rozmowa po błędzie zawodowym to nie „miękki dodatek” do pracy — to rdzeń zarządzania ryzykiem. W organizacjach o wysokiej odpowiedzialności (medycyna, edukacja, IT, pomoc społeczna) jakość takiej rozmowy wpływa równocześnie na dobrostan ludzi, bezpieczeństwo klientów i jakość decyzji.
+Trudna rozmowa po błędzie zawodowym to nie „miękki dodatek” do pracy - to rdzeń zarządzania ryzykiem. W organizacjach o wysokiej odpowiedzialności (medycyna, edukacja, IT, pomoc społeczna) jakość takiej rozmowy wpływa równocześnie na dobrostan ludzi, bezpieczeństwo klientów i jakość decyzji.
 
 Ciekawostka: w zespołach o wysokim bezpieczeństwie psychologicznym częściej zgłasza się błędy wcześnie, co paradoksalnie zwiększa skuteczność i obniża koszty naprawy.
 
 ## Definicje
 Definicje pełnią tu rolę „mapy pojęciowej”: pomagają oddzielić język potoczny od precyzyjnego opisu psychologicznego. Dzięki temu łatwiej uniknąć nieporozumień, szczególnie gdy rozmowa dotyczy emocji i odpowiedzialności.
 
-- **Deeskalacja** — zestaw działań obniżających pobudzenie emocjonalne i ryzyko konfliktu destrukcyjnego.
-- **Bezpieczeństwo psychologiczne** — klimat, w którym można zgłosić problem bez lęku przed upokorzeniem.
-- **Analiza po zdarzeniu (after-action review)** — uporządkowana refleksja: co planowaliśmy, co się wydarzyło, czego się uczymy.
+- **Deeskalacja** - zestaw działań obniżających pobudzenie emocjonalne i ryzyko konfliktu destrukcyjnego.
+- **Bezpieczeństwo psychologiczne** - klimat, w którym można zgłosić problem bez lęku przed upokorzeniem.
+- **Analiza po zdarzeniu (after-action review)** - uporządkowana refleksja: co planowaliśmy, co się wydarzyło, czego się uczymy.
 
 ## Analiza
 ### Fakty empiryczne
-**Konkretna statystyka:** w badaniach nad bezpieczeństwem psychologicznym (m.in. Edmondson) zespoły o wyższym poziomie bezpieczeństwa częściej raportują błędy — nie dlatego, że popełniają ich więcej, lecz dlatego, że szybciej je ujawniają i korygują.
+**Konkretna statystyka:** w badaniach nad bezpieczeństwem psychologicznym (m.in. Edmondson) zespoły o wyższym poziomie bezpieczeństwa częściej raportują błędy - nie dlatego, że popełniają ich więcej, lecz dlatego, że szybciej je ujawniają i korygują.
 
 **Przykład organizacyjny:** dwa podobne incydenty produkcyjne mogą mieć zupełnie inny koszt naprawy; tam, gdzie błąd zgłoszono w ciągu godzin, naprawa zwykle wymaga mniejszego zakresu rollbacku niż przy opóźnieniu o kilka dni.
 
@@ -31,7 +31,7 @@ Gdy organizacja akcentuje tylko rozliczanie winy, pracownicy częściej ukrywaj�
 ### Interpretacje autora
 Z perspektywy praktycznej oznacza to konieczność pracy na dwóch poziomach naraz: jednostkowym (samoregulacja) i systemowym (normy komunikacji w zespole lub rodzinie). Pominięcie któregoś z poziomów zwykle ogranicza trwałość efektów.
 
-W praktyce klinicznej i edukacyjnej same dane nie podejmują decyzji — robi to człowiek, który nadaje im znaczenie. Dlatego kluczowe jest łączenie dowodów naukowych z kontekstem sytuacyjnym, etapem rozwoju i zasobami relacyjnymi uczestników rozmowy.
+W praktyce klinicznej i edukacyjnej same dane nie podejmują decyzji - robi to człowiek, który nadaje im znaczenie. Dlatego kluczowe jest łączenie dowodów naukowych z kontekstem sytuacyjnym, etapem rozwoju i zasobami relacyjnymi uczestników rozmowy.
 
 ## Dobra praktyka
 W praktyce warto dodać prostą miarę procesu: „czas od wykrycia błędu do pierwszej rozmowy naprawczej” (np. cel < 24 h dla incydentów wysokiego priorytetu). Taki wskaźnik porządkuje odpowiedzialność i ogranicza odkładanie trudnych rozmów.
@@ -39,10 +39,10 @@ W praktyce warto dodać prostą miarę procesu: „czas od wykrycia błędu do p
 Wdrożenie dobrej praktyki jest skuteczniejsze, gdy umawiamy się na konkretne wskaźniki zmiany, np. krótszy czas wygaszania napięcia po trudnej rozmowie. Taka operacjonalizacja ułatwia monitorowanie postępu i korygowanie planu.
 
 ### Protokół rozmowy 4R
-1. **Rozdzielenie faktów od ocen** — co dokładnie się wydarzyło?
-2. **Responsibility (odpowiedzialność)** — kto za co odpowiada, bez personalnych etykiet.
-3. **Repair (naprawa)** — jakie działania korygujące wdrażamy teraz.
-4. **Recurrence prevention (prewencja nawrotu)** — co zmieniamy systemowo.
+1. **Rozdzielenie faktów od ocen** - co dokładnie się wydarzyło?
+2. **Responsibility (odpowiedzialność)** - kto za co odpowiada, bez personalnych etykiet.
+3. **Repair (naprawa)** - jakie działania korygujące wdrażamy teraz.
+4. **Recurrence prevention (prewencja nawrotu)** - co zmieniamy systemowo.
 
 **Przykład dobrej praktyki:**
 „Wersja wdrożenia trafiła na produkcję bez checklisty. Odpowiadam za ten etap. Dziś cofamy release, jutro robimy przegląd procesu i dodajemy podwójne zatwierdzanie zmian krytycznych.”
@@ -57,7 +57,7 @@ Lepsza regulacja emocji i precyzyjniejsza komunikacja zwiększają przewidywalno
 ## Zła praktyka
 Warto zauważyć, że zła praktyka często wynika nie ze „złej woli”, lecz z braku umiejętności regulacyjnych i presji czasu. Dlatego sama krytyka zachowania bez nauki alternatywy rzadko przynosi trwałą poprawę.
 
-Błąd: publiczne zawstydzanie pracownika („Jak można było to tak zepsuć?”) lub przeciwnie — „zamiecenie pod dywan” w imię spokoju.
+Błąd: publiczne zawstydzanie pracownika („Jak można było to tak zepsuć?”) lub przeciwnie - „zamiecenie pod dywan” w imię spokoju.
 
 **Konsekwencja:** albo spadek zaufania i lęk przed zgłaszaniem błędów, albo utrwalenie ryzykownego standardu pracy.
 

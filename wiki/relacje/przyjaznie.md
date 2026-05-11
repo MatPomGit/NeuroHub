@@ -4,7 +4,7 @@ reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
 
-# Przyjaźń — psychologia bliskich relacji nieromantycznych
+# Przyjaźń - psychologia bliskich relacji nieromantycznych
 
 Przyjaźń jest jedną z fundamentalnych form bliskiej relacji ludzkiej, pełniącą kluczowe funkcje dla dobrostanu psychicznego i fizycznego przez całe życie. Jako relacja dobrowolna i horyzontalna, stanowi unikalne pole dla rozwoju kompetencji społecznych, regulacji emocjonalnej oraz budowania kapitału społecznego.
 
@@ -16,7 +16,7 @@ Współczesna psychologia definiuje przyjaźń poprzez trzy główne filary: **w
 * **Przyjaźń dla użytku:** Oparta na wzajemnych korzyściach i pragmatyzmie.
 * **Przyjaźń dla cnoty:** Najtrwalsza forma, oparta na wzajemnym podziwie dla charakteru i wartości.
 
-## Model Knappa — fazy rozwoju relacji
+## Model Knappa - fazy rozwoju relacji
 
 Model Marka Knappa (1978) pozwala zrozumieć, że przyjaźń nie jest stanem statycznym, lecz procesem. Obejmuje on zarówno fazy budowania bliskości, jak i jej wygasania.
 
@@ -84,7 +84,7 @@ Udane relacje FWB opierają się na specyficznych mechanizmach negocjacyjnych:
 *Parasocial relationships* to jednostronne poczucie więzi z osobami medialnymi (aktorzy, youtuberzy, postacie fikcyjne):
 - Pełnią funkcje przyjaźni: przynależność, rozrywka, wzorce zachowań
 - Mogą kompensować braki w rzeczywistych relacjach
-- W umiarkowanym natężeniu: neutralne lub korzystne; w nadmiarze — mogą utrudniać tworzenie realnych więzi
+- W umiarkowanym natężeniu: neutralne lub korzystne; w nadmiarze - mogą utrudniać tworzenie realnych więzi
 
 ## Przyjaźń, a zdrowie
 

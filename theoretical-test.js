@@ -1,5 +1,5 @@
 /* ══════════════════════════════════════════════════
-   TESTY TEORETYCZNE — konfiguracja modułu
+   TESTY TEORETYCZNE - konfiguracja modułu
    Plik: theoretical-test.js
    Zawiera listę dostępnych tematów testów pogrupowanych
    wg kategorii widocznych w interfejsie.
@@ -54,7 +54,7 @@
         description: 'Ćwiczenia na analizie przypadków i podejmowaniu decyzji diagnostycznych.'
       },
       diploma_mock: {
-        label: 'Egzamin dyplomowy — mock',
+        label: 'Egzamin dyplomowy - mock',
         description: 'Próbne testy sprawdzające gotowość do egzaminu dyplomowego.'
       }
     },

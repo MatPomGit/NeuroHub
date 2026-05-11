@@ -4,25 +4,25 @@ reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
 
-# Model Eysencka — ekstrawersja, neurotyzm i psychotyzm
+# Model Eysencka - ekstrawersja, neurotyzm i psychotyzm
 
 Model PEN Hansa Eysencka jest jedną z najbardziej wpływowych biologicznych teorii osobowości i temperamentu XX wieku, łączącą psychologię różnicową z neuronauką.
 
 ## Hans Eysenck i biologiczne podejście do osobowości
 
-Hans Jürgen Eysenck (1916–1997) stworzył teorię osobowości opartą na założeniu, że różnice indywidualne w zachowaniu mają **biologiczne podłoże** i są w znacznym stopniu dziedziczne. Jego podejście było rewolucyjne — w czasach dominacji psychoanalizy i behawioryzmu postulował pomiar cech za pomocą metod psychometrycznych i wyjaśnianie ich poprzez fizjologię.
+Hans Jürgen Eysenck (1916–1997) stworzył teorię osobowości opartą na założeniu, że różnice indywidualne w zachowaniu mają **biologiczne podłoże** i są w znacznym stopniu dziedziczne. Jego podejście było rewolucyjne - w czasach dominacji psychoanalizy i behawioryzmu postulował pomiar cech za pomocą metod psychometrycznych i wyjaśnianie ich poprzez fizjologię.
 
-## Model PEN — trzy superczynniki
+## Model PEN - trzy superczynniki
 
 Eysenck wyróżnił trzy orthogonalne (niezależne) wymiary osobowości, tworzące akronim **PEN**:
 
 | Wymiar | Bieguny | Korelaty biologiczne |
 |---|---|---|
-| **P** — Psychotyzm | niski ↔ wysoki | aktywność dopaminergiczna i serotoninergiczna |
-| **E** — Ekstrawersja | introwersja ↔ ekstrawersja | ARAS (pobudzenie korowe) |
-| **N** — Neurotyzm | stabilność ↔ labilność emocjonalna | układ limbiczny (reaktywność) |
+| **P** - Psychotyzm | niski ↔ wysoki | aktywność dopaminergiczna i serotoninergiczna |
+| **E** - Ekstrawersja | introwersja ↔ ekstrawersja | ARAS (pobudzenie korowe) |
+| **N** - Neurotyzm | stabilność ↔ labilność emocjonalna | układ limbiczny (reaktywność) |
 
-### Ekstrawersja (E) — ARAS a poszukiwanie stymulacji
+### Ekstrawersja (E) - ARAS a poszukiwanie stymulacji
 
 Eysenck zaproponował, że **introwertycy mają chroniczne wyższe pobudzenie kory mózgowej** za pośrednictwem *wstępującego układu siatkowatego aktywującego* (ARAS). W konsekwencji, by utrzymać optimum pobudzenia:
 - **Introwertycy** unikają nadmiaru stymulacji (preferują ciszę, samotność, spokojne środowisko)
@@ -30,14 +30,14 @@ Eysenck zaproponował, że **introwertycy mają chroniczne wyższe pobudzenie ko
 
 Hipoteza znalazła częściowe potwierdzenie w badaniach nad czuwaniem, progami bólowymi i preferencjami sensorycznymi, choć pełne potwierdzenie za pomocą EEG pozostaje niejednoznaczne.
 
-### Neurotyzm (N) — reaktywność układu limbicznego
+### Neurotyzm (N) - reaktywność układu limbicznego
 
 **Neurotyzm** jest powiązany z reaktywnością *układu limbicznego*, szczególnie ciała migdałowatego i układu hipokampowo-przegrodowego. Osoby z wysokim neurotyzem:
 - Silniej i szybciej reagują emocjonalnie na stresory
 - Wolniej wracają do linii bazowej po wzbudzeniu
 - Są bardziej podatne na lęk, depresję i zaburzenia somatyczne
 
-### Psychotyzm (P) — wymiar kontrowersyjny
+### Psychotyzm (P) - wymiar kontrowersyjny
 
 Psychotyzm opisuje kontinuum od empatii, konformizmu i wrażliwości społecznej (niski P) do impulsywności, wrogości i skłonności antyspołecznych (wysoki P). Eysenck łączył wysoki P z kreatywnością i skłonnościami psychotycznymi. Wymiar był krytykowany za niejednoznaczność: łączy cechy z modeli agresji, psychopatii i kreatywności.
 
@@ -56,10 +56,10 @@ Choć Eysenck preferował trzy czynniki, jego wymiary mają wyraźne odpowiednik
 
 | PEN | Wielka Piątka (NEO) |
 |---|---|
-| Ekstrawersja (E) | Ekstrawersja (E) — prawie tożsame |
-| Neurotyzm (N) | Neurotyzm (N) — prawie tożsame |
-| Psychotyzm (niski P) | Ugodowość (A) + Sumienność (C) — negatywne korelacje |
-| — | Otwartość (O) — brak wyraźnego odpowiednika w PEN |
+| Ekstrawersja (E) | Ekstrawersja (E) - prawie tożsame |
+| Neurotyzm (N) | Neurotyzm (N) - prawie tożsame |
+| Psychotyzm (niski P) | Ugodowość (A) + Sumienność (C) - negatywne korelacje |
+| - | Otwartość (O) - brak wyraźnego odpowiednika w PEN |
 
 Costa i McCrae (1995) krytykowali Eysencka za redukowanie osobowości do trzech wymiarów, ignorując Otwartość i rozdzielając Sumienność i Ugodowość.
 

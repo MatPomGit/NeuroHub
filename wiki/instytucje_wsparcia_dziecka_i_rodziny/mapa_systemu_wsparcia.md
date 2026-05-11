@@ -28,7 +28,7 @@ Ustalaj jedno miejsce odpowiedzialne za koordynację i ewaluację planu.
 Prowadź własną mapę kontaktów i terminów, aby lepiej poruszać się po systemie.
 
 ## Ocena jakości dowodów
-Dowody dla modeli koordynacji międzysektorowej są **umiarkowane**; dla działań nieskoordynowanych — **wstępne**.
+Dowody dla modeli koordynacji międzysektorowej są **umiarkowane**; dla działań nieskoordynowanych - **wstępne**.
 
 ## Podsumowanie
 Jakość systemu mierzy się zdolnością do współpracy, nie liczbą instytucji.

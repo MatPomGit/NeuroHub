@@ -12,11 +12,11 @@ Rynek technologiczny od kilku lat wyraźnie przesuwa rolę psychologa z obszaru 
 
 ## Definicje kluczowych pojęć
 
-- **UX Research** — systematyczne badanie doświadczeń użytkownika z użyciem metod jakościowych i ilościowych.
-- **People Analytics** — analiza danych o pracy i dobrostanie zespołów w celu poprawy decyzji organizacyjnych.
-- **Evidence-informed product** — rozwój produktu oparty na danych empirycznych, a nie na intuicji najsilniejszego interesariusza.
-- **Dark patterns** — wzorce interfejsu, które zwiększają konwersję kosztem autonomii i interesu użytkownika.
-- **Human factors** — obszar badający dopasowanie narzędzi i środowiska pracy do możliwości człowieka.
+- **UX Research** - systematyczne badanie doświadczeń użytkownika z użyciem metod jakościowych i ilościowych.
+- **People Analytics** - analiza danych o pracy i dobrostanie zespołów w celu poprawy decyzji organizacyjnych.
+- **Evidence-informed product** - rozwój produktu oparty na danych empirycznych, a nie na intuicji najsilniejszego interesariusza.
+- **Dark patterns** - wzorce interfejsu, które zwiększają konwersję kosztem autonomii i interesu użytkownika.
+- **Human factors** - obszar badający dopasowanie narzędzi i środowiska pracy do możliwości człowieka.
 
 ## Analiza: gdzie psycholog tworzy realną wartość
 
@@ -52,9 +52,9 @@ Obszar HCI/UX charakteryzuje się wysoką dynamiką metodologiczną, co wymaga c
 
 ## Ciekawostki naukowe i zawodowe
 
-- **Ciekawostka 1 — „psychologia przycisku”:** drobna zmiana treści CTA (np. bardziej precyzyjna etykieta) może ograniczać lęk przed błędem i zmniejszać porzucenia formularza.
-- **Ciekawostka 2 — efekt peak-end:** użytkownicy zapamiętują najbardziej intensywny moment interakcji i jej zakończenie silniej niż „średnią” całego doświadczenia.
-- **Ciekawostka 3 — kolejność wypowiedzi na spotkaniu ma znaczenie:** praktyka „najpierw dane, potem opinie” redukuje efekt autorytetu i konformizm zespołowy.
+- **Ciekawostka 1 - „psychologia przycisku”:** drobna zmiana treści CTA (np. bardziej precyzyjna etykieta) może ograniczać lęk przed błędem i zmniejszać porzucenia formularza.
+- **Ciekawostka 2 - efekt peak-end:** użytkownicy zapamiętują najbardziej intensywny moment interakcji i jej zakończenie silniej niż „średnią” całego doświadczenia.
+- **Ciekawostka 3 - kolejność wypowiedzi na spotkaniu ma znaczenie:** praktyka „najpierw dane, potem opinie” redukuje efekt autorytetu i konformizm zespołowy.
 
 ## Praktyczne przykłady
 

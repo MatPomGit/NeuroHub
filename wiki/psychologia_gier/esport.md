@@ -8,7 +8,7 @@ evidenceCutoffDate: 2025-12-31
 
 ## Esport jako sport zawodowy
 
-Esport — rywalizacyjne granie w gry wideo na profesjonalnym poziomie — wyrósł z niszowej subkultury do wielomilionowego przemysłu w ciągu zaledwie dwóch dekad. Turnieje takie jak The International (Dota 2) oferują pule nagród przekraczające 40 milionów dolarów, mecze League of Legends Worlds wypełniają stadiony i są oglądane przez dziesiątki milionów widzów na całym świecie, a zawodnicy esportowi są zatrudniani przez uniwersytety na stypendialnych programach sportowych.
+Esport - rywalizacyjne granie w gry wideo na profesjonalnym poziomie - wyrósł z niszowej subkultury do wielomilionowego przemysłu w ciągu zaledwie dwóch dekad. Turnieje takie jak The International (Dota 2) oferują pule nagród przekraczające 40 milionów dolarów, mecze League of Legends Worlds wypełniają stadiony i są oglądane przez dziesiątki milionów widzów na całym świecie, a zawodnicy esportowi są zatrudniani przez uniwersytety na stypendialnych programach sportowych.
 
 > **Fakt:** W 2022 roku esport po raz pierwszy pojawił się jako konkurencja na Azjatyckich Igrzyskach Olimpijskich w Hangzhou, a zawodnicy zdobyli oficjalne medale. Dyskusja o włączeniu esportu do programu Igrzysk Olimpijskich trwa.
 
@@ -18,15 +18,15 @@ Profesjonalny zawodnik esportowy funkcjonuje pod presją porównywalną z tradyc
 
 ### Szybkość podejmowania decyzji
 
-Gry takie jak *Counter-Strike* czy *StarCraft II* wymagają podejmowania dziesiątek decyzji na minutę, często przy niepełnej informacji i w warunkach presji czasu. Zawodnicy CS2 wykazują średni czas reakcji poniżej 200 ms — porównywalny z refleksem zawodowych sportowców kontaktowych.
+Gry takie jak *Counter-Strike* czy *StarCraft II* wymagają podejmowania dziesiątek decyzji na minutę, często przy niepełnej informacji i w warunkach presji czasu. Zawodnicy CS2 wykazują średni czas reakcji poniżej 200 ms - porównywalny z refleksem zawodowych sportowców kontaktowych.
 
 ### Zdolności percepcyjno-ruchowe
 
-Koordynacja wzrokowo-ruchowa graczy FPS jest mierzona w wartości **APM** (Actions Per Minute) — zawodnicy StarCraft2 mogą wykonywać 300–500 akcji na minutę podczas intensywnych potyczek. To stawia ekstremalne wymagania układowi nerwowemu.
+Koordynacja wzrokowo-ruchowa graczy FPS jest mierzona w wartości **APM** (Actions Per Minute) - zawodnicy StarCraft2 mogą wykonywać 300–500 akcji na minutę podczas intensywnych potyczek. To stawia ekstremalne wymagania układowi nerwowemu.
 
 ### Regulacja emocji w czasie rzeczywistym
 
-Tilt — emocjonalne rozregulowanie po serii porażek lub błędów — jest jednym z największych wrogów zawodowego gracza. Umiejętność utrzymania zimnej krwi podczas turnieju, gdy stawką są setki tysięcy dolarów i miliony obserwujących widzów, jest kluczową kompetencją.
+Tilt - emocjonalne rozregulowanie po serii porażek lub błędów - jest jednym z największych wrogów zawodowego gracza. Umiejętność utrzymania zimnej krwi podczas turnieju, gdy stawką są setki tysięcy dolarów i miliony obserwujących widzów, jest kluczową kompetencją.
 
 ## Przygotowanie psychologiczne w esporcie
 
@@ -94,7 +94,7 @@ Bartek jest zawodowym graczem League of Legends od 3 lat. Zgłosił się do psyc
 
 Esport wiąże się z poważnymi wyzwaniami dla zdrowia fizycznego:
 
-- **Urazy nadgarstków i dłoni**: zespół cieśni nadgarstka (CTS), RSI (repetitive strain injury) — plaga profesjonalnych graczy
+- **Urazy nadgarstków i dłoni**: zespół cieśni nadgarstka (CTS), RSI (repetitive strain injury) - plaga profesjonalnych graczy
 - **Problemy z kręgosłupem**: wielogodzinna pozycja siedząca, często ze złą ergonomią
 - **Wzrok**: zmęczenie wzroku, suche oko
 - **Zaburzenia snu**: nieregularny rytm dobowy, granie nocą
@@ -104,7 +104,7 @@ Wiele organizacji esportowych zaczęło wprowadzać obowiązkowe ćwiczenia fizy
 
 ## Stres przedmeczowy i zarządzanie nim
 
-Stres przedmeczowy w esporcie jest realnym problemem. Kortyzol i adrenalina mogą zarówno poprawiać wydajność (do pewnego poziomu), jak i ją pogarszać (wyżej optymalnego punktu — krzywa Yerkesa-Dodsona).
+Stres przedmeczowy w esporcie jest realnym problemem. Kortyzol i adrenalina mogą zarówno poprawiać wydajność (do pewnego poziomu), jak i ją pogarszać (wyżej optymalnego punktu - krzywa Yerkesa-Dodsona).
 
 Techniki zarządzania stresem stosowane w esporcie:
 
@@ -116,13 +116,13 @@ Techniki zarządzania stresem stosowane w esporcie:
 
 ## Esport i young athletes' identity
 
-Dla wielu młodych zawodników esportowych gra jest centralnym elementem ich tożsamości. Kiedy kariera dobiega końca — często już w wieku 25 lat — muszą zbudować nową tożsamość zawodową i osobistą. To zjawisko jest analogiczne do przejścia zawodników sportowych po zakończeniu kariery sportowej.
+Dla wielu młodych zawodników esportowych gra jest centralnym elementem ich tożsamości. Kiedy kariera dobiega końca - często już w wieku 25 lat - muszą zbudować nową tożsamość zawodową i osobistą. To zjawisko jest analogiczne do przejścia zawodników sportowych po zakończeniu kariery sportowej.
 
 > **Fakt:** Organizacja ESL (jeden z największych organizatorów turniejów esportowych) prowadzi program wsparcia kariery dla zawodników po zakończeniu kariery esportowej, pomagając w przejściu do ról coachów, analityków, komentatorów i menedżerów.
 
 ## Podsumowanie
 
-Esport jest pełnoprawną dyscypliną rywalizacyjną, która stawia na zawodników unikalne wymagania psychologiczne i fizyczne. Psychologia sportowa dostarcza sprawdzonych narzędzi, które — odpowiednio zaadaptowane — są skuteczne w kontekście esportowym. Kluczowe obszary to: zarządzanie stresem i tilt, profilaktyka wypalenia, praca zespołowa i dynamika grupy oraz wsparcie w tranzycji po zakończeniu kariery.
+Esport jest pełnoprawną dyscypliną rywalizacyjną, która stawia na zawodników unikalne wymagania psychologiczne i fizyczne. Psychologia sportowa dostarcza sprawdzonych narzędzi, które - odpowiednio zaadaptowane - są skuteczne w kontekście esportowym. Kluczowe obszary to: zarządzanie stresem i tilt, profilaktyka wypalenia, praca zespołowa i dynamika grupy oraz wsparcie w tranzycji po zakończeniu kariery.
 
 
 ## Wprowadzenie

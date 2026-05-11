@@ -28,7 +28,7 @@ Nieoczywiste: nadmierna biurokracja może obniżać efektywność pomocy bardzie
 Współpracuj z pracownikiem socjalnym nad realistycznym planem i priorytetami, zamiast oczekiwać natychmiastowej poprawy.
 
 ## Ocena jakości dowodów
-Dowody dla zintegrowanej pracy socjalnej są **umiarkowane**; dla interwencji wyłącznie świadczeniowych — **wstępne**.
+Dowody dla zintegrowanej pracy socjalnej są **umiarkowane**; dla interwencji wyłącznie świadczeniowych - **wstępne**.
 
 ## Podsumowanie
 Skuteczna pomoc socjalna wymaga relacji, struktury i ciągłości.

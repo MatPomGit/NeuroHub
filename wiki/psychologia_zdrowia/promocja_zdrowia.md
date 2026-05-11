@@ -6,7 +6,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Promocja zdrowia
 
-Promocja zdrowia to proces umożliwiający ludziom zwiększanie kontroli nad czynnikami wpływającymi na zdrowie i poprawę jakości życia. Nie ogranicza się do edukacji — obejmuje także zmiany środowiskowe, organizacyjne i społeczne.
+Promocja zdrowia to proces umożliwiający ludziom zwiększanie kontroli nad czynnikami wpływającymi na zdrowie i poprawę jakości życia. Nie ogranicza się do edukacji - obejmuje także zmiany środowiskowe, organizacyjne i społeczne.
 
 ## Promocja zdrowia a profilaktyka
 

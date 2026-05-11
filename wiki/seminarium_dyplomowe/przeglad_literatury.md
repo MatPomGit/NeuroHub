@@ -12,11 +12,11 @@ Przegląd literatury jest fundamentem każdej pracy naukowej. Pokazuje, że stud
 
 Przegląd literatury w pracy magisterskiej pełni kilka równoległych funkcji:
 
-1. **Definicja pojęć** — precyzyjne określenie kluczowych terminów używanych w badaniu
-2. **Kontekstualizacja** — umieszczenie badania w szerszym polu naukowym
-3. **Identyfikacja luki** — wykazanie, czego dotychczas nie zbadano lub co zostało zbadane niewystarczająco
-4. **Uzasadnienie hipotez** — logiczne wyprowadzenie oczekiwań badawczych z teorii i wyników wcześniejszych badań
-5. **Synteza wiedzy** — pokazanie, jak różne badania wzajemnie na siebie odpowiadają lub wchodzą ze sobą w sprzeczność
+1. **Definicja pojęć** - precyzyjne określenie kluczowych terminów używanych w badaniu
+2. **Kontekstualizacja** - umieszczenie badania w szerszym polu naukowym
+3. **Identyfikacja luki** - wykazanie, czego dotychczas nie zbadano lub co zostało zbadane niewystarczająco
+4. **Uzasadnienie hipotez** - logiczne wyprowadzenie oczekiwań badawczych z teorii i wyników wcześniejszych badań
+5. **Synteza wiedzy** - pokazanie, jak różne badania wzajemnie na siebie odpowiadają lub wchodzą ze sobą w sprzeczność
 
 ## Bazy danych i zasoby naukowe
 
@@ -52,7 +52,7 @@ Ogranicz wyniki do:
 
 ### Śledzenie cytowań
 
-Technika **forward citation** — sprawdź, kto cytuje kluczowy artykuł. Narzędzia: Google Scholar → „Cytowane przez", Web of Science → „Times cited". Pozwala to znaleźć nowsze prace, które rozwijają klasyczną teorię.
+Technika **forward citation** - sprawdź, kto cytuje kluczowy artykuł. Narzędzia: Google Scholar → „Cytowane przez", Web of Science → „Times cited". Pozwala to znaleźć nowsze prace, które rozwijają klasyczną teorię.
 
 ## Ocena jakości źródeł
 
@@ -88,7 +88,7 @@ Korzystaj z narzędzi takich jak **Zotero** (darmowy), **Mendeley**, lub **EndNo
 
 **Plagiat** (przywłaszczenie cudzych słów lub idei bez przypisania) jest naruszeniem zasad akademickich. Pamiętaj:
 - Każde dosłowne cytowanie wymaga cudzysłowu i wskazania strony
-- Parafraza nie jest darmową kartą — idee innych nadal wymagają cytowania
+- Parafraza nie jest darmową kartą - idee innych nadal wymagają cytowania
 - Autoplagiat (wielokrotne użycie własnych wcześniejszych prac bez wskazania) też jest nieakceptowalny
 
 ## Organizacja i synteza literatury
@@ -104,7 +104,7 @@ Zanim zaczniesz pisać, stwórz **tabelę lub arkusz**, w której dla każdego a
 
 ### Tematyczne grupowanie
 
-Nie referuj artykułów jeden po drugim. Grupuj je **tematycznie lub problemowo** — np. „Badania nad lękiem separacyjnym u dzieci" jako jeden spójny akapit syntetyzujący kilka prac.
+Nie referuj artykułów jeden po drugim. Grupuj je **tematycznie lub problemowo** - np. „Badania nad lękiem separacyjnym u dzieci" jako jeden spójny akapit syntetyzujący kilka prac.
 
 > **Przykład złego podejścia:** „Smith (2015) zbadał... Jones (2017) zbadał... Brown (2019) zbadał..."
 >
@@ -112,7 +112,7 @@ Nie referuj artykułów jeden po drugim. Grupuj je **tematycznie lub problemowo*
 
 ## Podsumowanie
 
-Dobry przegląd literatury jest systematyczny, krytyczny i syntetyczny. Nie jest katalogiem artykułów — jest argumentem budowanym z wiedzy innych, który prowadzi do pytania badawczego. Czas inwestowany w rzetelny przegląd literaturowy procentuje na każdym kolejnym etapie pracy.
+Dobry przegląd literatury jest systematyczny, krytyczny i syntetyczny. Nie jest katalogiem artykułów - jest argumentem budowanym z wiedzy innych, który prowadzi do pytania badawczego. Czas inwestowany w rzetelny przegląd literaturowy procentuje na każdym kolejnym etapie pracy.
 
 
 ## Wprowadzenie

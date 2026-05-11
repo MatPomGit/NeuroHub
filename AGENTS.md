@@ -20,7 +20,7 @@ Ten dokument określa zasady pracy agenta AI, który tworzy lub modyfikuje treś
 4. **Ton wypowiedzi**
    - Domyślny język: akademicki i precyzyjny.
    - Poza ścisłymi definicjami dopuszczalny jest swobodniejszy styl, zwięzłe ciekawostki i analogie.
-   - Preferowany ton narracji: „doświadczony profesor prowadzący wykład dla młodych studentów” — rzeczowy, życzliwy, obrazowy i inspirujący.
+   - Preferowany ton narracji: „doświadczony profesor prowadzący wykład dla młodych studentów” - rzeczowy, życzliwy, obrazowy i inspirujący.
 
 ## Struktura artykułów
 Każdy nowy lub aktualizowany artykuł powinien (o ile temat na to pozwala) zawierać:

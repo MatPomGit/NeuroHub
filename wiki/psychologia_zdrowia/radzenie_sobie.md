@@ -41,7 +41,7 @@ Krótkoterminowo może obniżać napięcie; długoterminowo prowadzi do narastan
 
 ## Model Lazarusa i Folkman
 
-Według autorów stresor nie wpływa bezpośrednio na osobę — kluczowa jest **ocena poznawcza**:
+Według autorów stresor nie wpływa bezpośrednio na osobę - kluczowa jest **ocena poznawcza**:
 
 1. **Ocena pierwotna**: „Czy ta sytuacja jest zagrożeniem, stratą czy wyzwaniem?"
 2. **Ocena wtórna**: „Czy mam zasoby, by sobie poradzić?"

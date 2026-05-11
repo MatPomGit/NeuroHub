@@ -4,7 +4,7 @@ reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
 
-# Testy neuropsychologiczne — przegląd
+# Testy neuropsychologiczne - przegląd
 
 ## Wprowadzenie i kontekst
 Testy neuropsychologiczne służą do opisu profilu funkcji poznawczych, planowania rehabilitacji i monitorowania zmian w czasie. Ich interpretacja wymaga łączenia wyniku testowego z wywiadem, obserwacją kliniczną i danymi medycznymi.

@@ -22,18 +22,18 @@ APA Ethics Code wyróżnia pięć zasad aspiracyjnych, które nie są egzekwowal
 | **Sprawiedliwość** | Justice | Równy dostęp do usług, bezstronność |
 | **Szacunek dla praw i godności osób** | Respect for People's Rights and Dignity | Autonomia, prywatność, różnorodność |
 
-Poza zasadami aspiracyjnymi kodeks APA zawiera **egzekwowalne standardy etyczne** — konkretne reguły dotyczące m.in. świadomej zgody, poufności, oceny psychologicznej, terapii, badań naukowych i reklamy.
+Poza zasadami aspiracyjnymi kodeks APA zawiera **egzekwowalne standardy etyczne** - konkretne reguły dotyczące m.in. świadomej zgody, poufności, oceny psychologicznej, terapii, badań naukowych i reklamy.
 
 ---
 
-## Kodeks PTP — struktura i priorytety
+## Kodeks PTP - struktura i priorytety
 
 Kodeks Etyczno-Zawodowy Psychologa PTP (aktualizacja 2018) opiera się na podobnych zasadach, jednak uwzględnia specyfikę polskiego systemu prawnego i tradycji akademickiej. Wyróżnia cztery obszary regulacji:
 
-1. **Relacja z klientem** — świadoma zgoda, poufność, zakaz podwójnych ról
-2. **Kompetencje zawodowe** — obowiązek doskonalenia, superwizja, granice kompetencji
-3. **Relacje zawodowe i publiczne** — współpraca, reklama, rzecznictwo
-4. **Badania i diagnostyka** — rzetelność narzędzi, ochrona danych, etyka badań
+1. **Relacja z klientem** - świadoma zgoda, poufność, zakaz podwójnych ról
+2. **Kompetencje zawodowe** - obowiązek doskonalenia, superwizja, granice kompetencji
+3. **Relacje zawodowe i publiczne** - współpraca, reklama, rzecznictwo
+4. **Badania i diagnostyka** - rzetelność narzędzi, ochrona danych, etyka badań
 
 ---
 
@@ -59,28 +59,28 @@ W USA naruszenia standardów APA rozpatruje **Komitet ds. Etyki APA**. Postępow
 - zawieszeniem członkostwa w APA,
 - wykluczeniem z towarzystwa.
 
-Równolegle działają **stanowe rady licencyjne**, które mogą odebrać licencję zawodową — co ma bezpośrednie skutki prawne i finansowe.
+Równolegle działają **stanowe rady licencyjne**, które mogą odebrać licencję zawodową - co ma bezpośrednie skutki prawne i finansowe.
 
-### Polska — Izby Psychologów i PTP
+### Polska - Izby Psychologów i PTP
 
 W Polsce dyscyplinę zawodową sprawują:
-- **Regionalne Izby Psychologów** (na mocy ustawy z 2001 r.) — mogą stosować upomnienie, naganę, zawieszenie lub pozbawienie prawa wykonywania zawodu,
-- **Sąd Koleżeński PTP** — dla członków towarzystwa, w sprawach naruszenia Kodeksu PTP.
+- **Regionalne Izby Psychologów** (na mocy ustawy z 2001 r.) - mogą stosować upomnienie, naganę, zawieszenie lub pozbawienie prawa wykonywania zawodu,
+- **Sąd Koleżeński PTP** - dla członków towarzystwa, w sprawach naruszenia Kodeksu PTP.
 
-Psycholog może ponieść również **odpowiedzialność cywilną** (odszkodowanie) i **karną** (np. art. 266 k.k. — ujawnienie tajemnicy zawodowej).
+Psycholog może ponieść również **odpowiedzialność cywilną** (odszkodowanie) i **karną** (np. art. 266 k.k. - ujawnienie tajemnicy zawodowej).
 
 ---
 
 ## Kodeksy w codziennej praktyce
 
-Kodeksy etyczne nie są zbiorem zakazów — stanowią **narzędzie refleksji etycznej**. W praktyce psycholog odwołuje się do nich przy:
+Kodeksy etyczne nie są zbiorem zakazów - stanowią **narzędzie refleksji etycznej**. W praktyce psycholog odwołuje się do nich przy:
 
 - podejmowaniu decyzji o przerwaniu poufności (np. zagrożenie życia),
 - ocenie, czy relacja z klientem nie przekracza dopuszczalnych granic,
 - wyborze metod diagnostycznych i terapeutycznych,
 - rozwiązywaniu konfliktów lojalności (np. zleceniodawca vs. klient).
 
-Kluczową rolę odgrywa **superwizja etyczna** — regularne konsultacje z doświadczonym psychologiem lub etykiem zawodowym, szczególnie w trudnych przypadkach.
+Kluczową rolę odgrywa **superwizja etyczna** - regularne konsultacje z doświadczonym psychologiem lub etykiem zawodowym, szczególnie w trudnych przypadkach.
 
 ---
 

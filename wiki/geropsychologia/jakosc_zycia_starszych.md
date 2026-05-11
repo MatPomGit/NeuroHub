@@ -12,10 +12,10 @@ Jakość życia w późnej dorosłości to subiektywna ocena własnego funkcjono
 
 Najczęściej wyróżnia się cztery uzupełniające się obszary:
 
-1. **Fizyczny** — sprawność, ból, sen, energia.
-2. **Psychiczny** — nastrój, poczucie sensu, stabilność emocjonalna.
-3. **Społeczny** — relacje, role społeczne, wsparcie.
-4. **Funkcjonalny** — samodzielność w codziennych czynnościach.
+1. **Fizyczny** - sprawność, ból, sen, energia.
+2. **Psychiczny** - nastrój, poczucie sensu, stabilność emocjonalna.
+3. **Społeczny** - relacje, role społeczne, wsparcie.
+4. **Funkcjonalny** - samodzielność w codziennych czynnościach.
 
 W ocenie jakości życia kluczowe jest to, jak osoba starsza sama interpretuje swój stan.
 
@@ -85,7 +85,7 @@ Najbardziej wartościowa jest łączna interpretacja danych obiektywnych i subie
 
 ## Podsumowanie
 
-Jakość życia osób starszych jest wynikiem współdziałania zdrowia, relacji i poczucia sprawczości. Najskuteczniejsze działania to te, które wzmacniają codzienną autonomię, relacje i sens życia — nawet w warunkach przewlekłej choroby.
+Jakość życia osób starszych jest wynikiem współdziałania zdrowia, relacji i poczucia sprawczości. Najskuteczniejsze działania to te, które wzmacniają codzienną autonomię, relacje i sens życia - nawet w warunkach przewlekłej choroby.
 
 
 ## Wprowadzenie

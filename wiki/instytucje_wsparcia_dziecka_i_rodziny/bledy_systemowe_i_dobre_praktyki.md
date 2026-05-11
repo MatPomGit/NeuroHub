@@ -25,7 +25,7 @@ Nieoczywiste: bezpieczeństwo rośnie, gdy organizacja nagradza zgłaszanie prob
 Wdrażaj system raportowania incydentów i monitoruj działania naprawcze.
 
 ### Dla rodzin
-Jako rodzina pytaj o plan, terminy i odpowiedzialne osoby — to zwiększa przejrzystość pomocy.
+Jako rodzina pytaj o plan, terminy i odpowiedzialne osoby - to zwiększa przejrzystość pomocy.
 
 ## Ocena jakości dowodów
 Dowody dla interwencji jakościowych w usługach publicznych są **umiarkowane**.

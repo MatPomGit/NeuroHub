@@ -4,9 +4,9 @@ reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
 
-# Typowe błędy badawcze — czego unikać
+# Typowe błędy badawcze - czego unikać
 
-Błędy w badaniach psychologicznych mogą pojawić się na każdym etapie — od sformułowania pytania badawczego, przez zbieranie i analizę danych, aż po interpretację wyników. Świadomość typowych pułapek to podstawa rzetelnej pracy naukowej.
+Błędy w badaniach psychologicznych mogą pojawić się na każdym etapie - od sformułowania pytania badawczego, przez zbieranie i analizę danych, aż po interpretację wyników. Świadomość typowych pułapek to podstawa rzetelnej pracy naukowej.
 
 ## Błędy na etapie projektowania badania
 
@@ -20,7 +20,7 @@ Błędy w badaniach psychologicznych mogą pojawić się na każdym etapie — o
 
 ### 2. Błąd konfirmacji na etapie projektowania (*confirmation bias*)
 
-**Problem:** Badacz projektuje badanie tak, by potwierdzić własne oczekiwania — dobiera próbę, narzędzia i procedurę w sposób, który faworyzuje oczekiwany wynik.
+**Problem:** Badacz projektuje badanie tak, by potwierdzić własne oczekiwania - dobiera próbę, narzędzia i procedurę w sposób, który faworyzuje oczekiwany wynik.
 
 **Rozwiązanie:** Aktywne poszukiwanie możliwości obalenia hipotezy; preregistracja; zasada *falsyfikacji* (Popper).
 
@@ -46,13 +46,13 @@ Błędy w badaniach psychologicznych mogą pojawić się na każdym etapie — o
 
 **Problem:** Grupy eksperymentalna i kontrolna różnią się w ważnych cechach (np. nasileniu objawów, poziomie motywacji), co wypacza wyniki.
 
-**Rozwiązanie:** Prawdziwa randomizacja lub — przy braku możliwości — analiza równoważności grup i statystyczna kontrola potencjalnych konfundów.
+**Rozwiązanie:** Prawdziwa randomizacja lub - przy braku możliwości - analiza równoważności grup i statystyczna kontrola potencjalnych konfundów.
 
 ## Błędy pomiaru
 
 ### 6. Efekt sufitu i efekt podłogi
 
-**Problem:** Większość uczestników uzyskuje najwyższe (sufit) lub najniższe (podłoga) możliwe wyniki — brakuje zróżnicowania.
+**Problem:** Większość uczestników uzyskuje najwyższe (sufit) lub najniższe (podłoga) możliwe wyniki - brakuje zróżnicowania.
 
 **Rozwiązanie:** Sprawdź w badaniu pilotażowym, czy narzędzie jest odpowiednio dopasowane do grupy. Użyj narzędzi z szerszym zakresem lub dostosuj kryteria włączenia.
 
@@ -60,7 +60,7 @@ Błędy w badaniach psychologicznych mogą pojawić się na każdym etapie — o
 
 ### 7. Efekt aprobaty społecznej (*social desirability bias*)
 
-**Problem:** Uczestnicy odpowiadają zgodnie z normami społecznymi, a nie zgodnie z rzeczywistością — szczególnie w badaniach o agresji, alkoholu, seksualności.
+**Problem:** Uczestnicy odpowiadają zgodnie z normami społecznymi, a nie zgodnie z rzeczywistością - szczególnie w badaniach o agresji, alkoholu, seksualności.
 
 **Rozwiązanie:** Stosuj skale kłamstwa (np. SDS-17), zapewnij anonimowość, rozważ technikę wywiadu komputerowego (ACASI).
 
@@ -76,7 +76,7 @@ Błędy w badaniach psychologicznych mogą pojawić się na każdym etapie — o
 
 ### 9. Regresja do średniej
 
-**Problem:** Ekstremalnie wysokie lub niskie wyniki przy pierwszym pomiarze zbliżają się do średniej przy kolejnym pomiarze — niezależnie od interwencji.
+**Problem:** Ekstremalnie wysokie lub niskie wyniki przy pierwszym pomiarze zbliżają się do średniej przy kolejnym pomiarze - niezależnie od interwencji.
 
 **Rozwiązanie:** Dołącz grupę kontrolną; przeprowadź co najmniej dwa pomiary bazowe.
 
@@ -84,7 +84,7 @@ Błędy w badaniach psychologicznych mogą pojawić się na każdym etapie — o
 
 ### 10. Niespójność pomiędzy badaczami (*inter-rater unreliability*)
 
-**Problem:** Różni oceniający stosują te same kategorie niezgodnie — niespójne dane.
+**Problem:** Różni oceniający stosują te same kategorie niezgodnie - niespójne dane.
 
 **Rozwiązanie:** Szkolenie i kalibracja przed badaniem, systematyczne obliczanie zgodności (Cohen κ, ICC).
 
@@ -92,7 +92,7 @@ Błędy w badaniach psychologicznych mogą pojawić się na każdym etapie — o
 
 ### 11. Atrycja różnicowa (dropout nielosowy)
 
-**Problem:** Osoby, które rezygnują z badania podłużnego lub interwencji, różnią się od tych, które pozostają — co zaburza wyniki.
+**Problem:** Osoby, które rezygnują z badania podłużnego lub interwencji, różnią się od tych, które pozostają - co zaburza wyniki.
 
 **Rozwiązanie:** Analiza porównawcza grupy „dropouts" vs. „completers"; metody imputacji; raportowanie atrycji.
 
@@ -100,7 +100,7 @@ Błędy w badaniach psychologicznych mogą pojawić się na każdym etapie — o
 
 ### 12. Efekt popytu (*demand characteristics*)
 
-**Problem:** Uczestnicy domyślają się hipotezy badania i zachowują się zgodnie z tym, czego — ich zdaniem — badacz oczekuje.
+**Problem:** Uczestnicy domyślają się hipotezy badania i zachowują się zgodnie z tym, czego - ich zdaniem - badacz oczekuje.
 
 **Rozwiązanie:** Procedury zaślepienia (blind), techniki deception (z pełnym debriefingiem), miary behawioralne zamiast samoopisu.
 
@@ -130,7 +130,7 @@ Błędy w badaniach psychologicznych mogą pojawić się na każdym etapie — o
 
 ---
 
-### 16. Ignoring multiplicity — brak korekty przy wielu testach
+### 16. Ignoring multiplicity - brak korekty przy wielu testach
 
 **Problem:** Przy 20 porównaniach statystycznych, 1 z nich będzie istotne tylko na mocy przypadku (α = 0,05 × 20 = 1 fałszywy pozytyw).
 
@@ -148,7 +148,7 @@ Błędy w badaniach psychologicznych mogą pojawić się na każdym etapie — o
 
 ### 18. Utożsamianie braku istotności statystycznej z dowodem na brak efektu
 
-**Problem:** *p* > 0,05 nie oznacza, że H0 jest prawdziwa — może to być kwestia małej mocy.
+**Problem:** *p* > 0,05 nie oznacza, że H0 jest prawdziwa - może to być kwestia małej mocy.
 
 **Rozwiązanie:** Prezentuj przedziały ufności i wielkość efektu; stosuj podejście bayesowskie.
 
@@ -170,7 +170,7 @@ Błędy w badaniach psychologicznych mogą pojawić się na każdym etapie — o
 
 ## Podsumowanie
 
-Znajomość typowych błędów badawczych nie ma na celu demotywowania — żadne badanie nie jest idealne. Chodzi o to, by popełniać błędy *świadomie* i *uczciwie je raportować*. Praca, która rzetelnie opisuje swoje ograniczenia, jest wartościowsza niż ta, która udaje perfekcję.
+Znajomość typowych błędów badawczych nie ma na celu demotywowania - żadne badanie nie jest idealne. Chodzi o to, by popełniać błędy *świadomie* i *uczciwie je raportować*. Praca, która rzetelnie opisuje swoje ograniczenia, jest wartościowsza niż ta, która udaje perfekcję.
 
 
 ## Wprowadzenie

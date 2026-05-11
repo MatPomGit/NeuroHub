@@ -28,7 +28,7 @@ Włączaj interwencje na stres zawodowy i rodzinny, a nie tylko zalecenia żywie
 W domu planuj „bufory stresu” (ruch, sen, podział obowiązków), by zmniejszyć ryzyko epizodów.
 
 ## Ocena jakości dowodów
-Dowody dla związku stres–nadmierne jedzenie są **silne**; dla pojedynczych technik relaksacyjnych bez planu behawioralnego — **umiarkowane**.
+Dowody dla związku stres–nadmierne jedzenie są **silne**; dla pojedynczych technik relaksacyjnych bez planu behawioralnego - **umiarkowane**.
 
 ## Podsumowanie
 Bez redukcji obciążenia stresowego trudno o trwałą zmianę jedzenia.

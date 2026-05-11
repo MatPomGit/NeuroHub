@@ -12,44 +12,44 @@ Historia sztucznej inteligencji i jej związków z psychologią sięga znacznie 
 
 Psychologia odegrała w tym procesie podwójną rolę: dostarczała modeli ludzkiego poznania jako inspiracji dla twórców AI, a jednocześnie sama była transformowana przez odkrycia w dziedzinie sztucznej inteligencji.
 
-> **Fakt:** René Descartes w XVII wieku jako jeden z pierwszych filozofów poważnie rozważał, czy istnieje nieprzekraczalna granica między maszyną a umysłem — jego dualistyczna teoria ciała i duszy stała się punktem wyjścia dla późniejszych debat o świadomości maszyn.
+> **Fakt:** René Descartes w XVII wieku jako jeden z pierwszych filozofów poważnie rozważał, czy istnieje nieprzekraczalna granica między maszyną a umysłem - jego dualistyczna teoria ciała i duszy stała się punktem wyjścia dla późniejszych debat o świadomości maszyn.
 
 ## Alan Turing i narodziny naukowej AI
 
-Przełomowy artykuł Alana Turinga „Computing Machinery and Intelligence" (1950) wyznaczył agendę badań nad sztuczną inteligencją na dziesięciolecia. Turing zaproponował operacyjną definicję myślenia maszyny — słynny „test Turinga" — który do dziś pozostaje ważnym punktem odniesienia w debacie o granicach sztucznej i ludzkiej inteligencji.
+Przełomowy artykuł Alana Turinga „Computing Machinery and Intelligence" (1950) wyznaczył agendę badań nad sztuczną inteligencją na dziesięciolecia. Turing zaproponował operacyjną definicję myślenia maszyny - słynny „test Turinga" - który do dziś pozostaje ważnym punktem odniesienia w debacie o granicach sztucznej i ludzkiej inteligencji.
 
 Test Turinga ma głęboki wymiar psychologiczny: zakłada, że jeśli maszyna jest nieodróżnialna od człowieka w rozmowie, to z praktycznego punktu widzenia powinniśmy przypisywać jej myślenie. To rozumowanie wywołało intensywną dyskusję w psychologii, filozofii i etyce.
 
 Psychologiczne implikacje testu Turinga obejmują:
 
 - Pytanie o rolę zachowania zewnętrznego wobec procesów wewnętrznych w definiowaniu inteligencji
-- Problem „filozoficznych zombie" — czy możliwe jest zachowanie bez świadomości?
+- Problem „filozoficznych zombie" - czy możliwe jest zachowanie bez świadomości?
 - Kwestię, czy nasze codzienne interakcje z AI angażują te same mechanizmy psychologiczne co kontakty z ludźmi
 
 ## Konferencja w Dartmouth i narodziny dziedziny (1956)
 
 W 1956 roku na konferencji w Dartmouth John McCarthy, Marvin Minsky, Nathaniel Rochester i Claude Shannon oficjalnie ukuli termin „artificial intelligence" i wyznaczyli ambitny program badawczy. Wśród uczestników znajdowali się też psycholodzy i matematycy zainteresowani modelowaniem ludzkiego myślenia.
 
-Pierwsze dekady AI cechował optymizm graniczący z euforią. Badacze byli przekonani, że ogólna sztuczna inteligencja jest kwestią lat, nie dekad. Ten optymizm wynikał częściowo z błędu poznawczego — nadmiernej generalizacji sukcesów w wąskich zadaniach na ogólną inteligencję.
+Pierwsze dekady AI cechował optymizm graniczący z euforią. Badacze byli przekonani, że ogólna sztuczna inteligencja jest kwestią lat, nie dekad. Ten optymizm wynikał częściowo z błędu poznawczego - nadmiernej generalizacji sukcesów w wąskich zadaniach na ogólną inteligencję.
 
 ## Program ELIZA i odkrycie efektu antropomorfizacji
 
-W 1966 roku Joseph Weizenbaum na MIT stworzył program ELIZA — symulator rozmowy oparty na prostych regułach przeformułowywania zdań w stylu psychoterapeutycznym. Program naśladował podejście rogeriańskie, zadając pytania zwrotne do użytkownika.
+W 1966 roku Joseph Weizenbaum na MIT stworzył program ELIZA - symulator rozmowy oparty na prostych regułach przeformułowywania zdań w stylu psychoterapeutycznym. Program naśladował podejście rogeriańskie, zadając pytania zwrotne do użytkownika.
 
 Wyniki były zaskakujące i niepokojące zarazem. Użytkownicy:
 
 1. Błyskawicznie nawiązywali emocjonalną więź z programem
 2. Wierzyli, że jest on prawdziwym terapeutą lub co najmniej istotą rozumiejącą
 3. Chcieli kontynuować rozmowy i prosili o prywatność podczas interakcji
-4. Niektórzy — w tym sekretarka Weizenbauma — prosili go, by opuścił pokój podczas rozmowy z ELIZĄ
+4. Niektórzy - w tym sekretarka Weizenbauma - prosili go, by opuścił pokój podczas rozmowy z ELIZĄ
 
 Weizenbaum był tak wstrząśnięty tymi obserwacjami, że napisał wpływową książkę „Computer Power and Human Reason" (1976), ostrzegając przed niebezpieczeństwami bezkrytycznego przypisywania maszynom ludzkich cech.
 
-> **Fakt:** Efekt ELIZY — tendencja do przypisywania chatbotom emocji i rozumienia — jest do dziś aktywnym obszarem badań psychologicznych. Obserwujemy go wyraźnie w interakcjach z nowoczesnymi asystentami głosowymi.
+> **Fakt:** Efekt ELIZY - tendencja do przypisywania chatbotom emocji i rozumienia - jest do dziś aktywnym obszarem badań psychologicznych. Obserwujemy go wyraźnie w interakcjach z nowoczesnymi asystentami głosowymi.
 
 ## „Zimy AI" i lekcje dla psychologii technologii
 
-Historia AI to nie tylko triumfy, ale też okresy rozczarowania zwane „zimami AI". Dwukrotnie — w latach 70. i na przełomie lat 80. i 90. — entuzjazm wobec AI gwałtownie opadł, gdy okazało się, że ambitne obietnice nie są realizowane.
+Historia AI to nie tylko triumfy, ale też okresy rozczarowania zwane „zimami AI". Dwukrotnie - w latach 70. i na przełomie lat 80. i 90. - entuzjazm wobec AI gwałtownie opadł, gdy okazało się, że ambitne obietnice nie są realizowane.
 
 Te epizody mają interesujące psychologiczne wyjaśnienia:
 
@@ -61,15 +61,15 @@ Psychologia pomogła zrozumieć, dlaczego inwestorzy, badacze i społeczeństwo 
 
 ## Rewolucja kognitywna i wzajemne inspiracje
 
-W latach 50. i 60. psychologia przeżywała własną rewolucję — odwrót od behawioryzmu ku poznawczemu modelowaniu umysłu. Ta „rewolucja kognitywna" i rozwój AI były ze sobą głęboko splecione.
+W latach 50. i 60. psychologia przeżywała własną rewolucję - odwrót od behawioryzmu ku poznawczemu modelowaniu umysłu. Ta „rewolucja kognitywna" i rozwój AI były ze sobą głęboko splecione.
 
-George Miller, Ulric Neisser, Allen Newell i Herbert Simon — badacze stojący u początków psychologii poznawczej — czerpali inspiracje z metafor komputerowych. Umysł jako procesor informacji, pamięć jako magazyn danych, myślenie jako obliczenia — te analogie stały się podstawą całej gałęzi psychologii.
+George Miller, Ulric Neisser, Allen Newell i Herbert Simon - badacze stojący u początków psychologii poznawczej - czerpali inspiracje z metafor komputerowych. Umysł jako procesor informacji, pamięć jako magazyn danych, myślenie jako obliczenia - te analogie stały się podstawą całej gałęzi psychologii.
 
 Jednocześnie programy AI takie jak „Logic Theorist" (Newella i Simona, 1956) i „General Problem Solver" (1957) były wprost modelowane na odkryciach psychologicznych dotyczących ludzkiego rozwiązywania problemów.
 
 ## Psychologia a kogniwistyka: budowanie wspólnego języka
 
-Lata 70. i 80. przyniosły narodziny kognitywistyki — dziedziny explicite łączącej psychologię, AI, lingwistykę, filozofię i neuronauki. Symbolem tego zbliżenia było powstanie Cognitive Science Society w 1979 roku.
+Lata 70. i 80. przyniosły narodziny kognitywistyki - dziedziny explicite łączącej psychologię, AI, lingwistykę, filozofię i neuronauki. Symbolem tego zbliżenia było powstanie Cognitive Science Society w 1979 roku.
 
 Wspólny program badawczy obejmował:
 
@@ -78,7 +78,7 @@ Wspólny program badawczy obejmował:
 - Badanie heurystyk i błędów poznawczych (Tversky i Kahneman)
 - Modele rozumienia języka naturalnego
 
-> **Fakt:** Herbert Simon i Allen Newell zdobyli w 1975 roku Nagrodę Turinga — najwyższe odznaczenie w informatyce — między innymi za swoje badania nad symulacją ludzkiego rozwiązywania problemów w programach komputerowych.
+> **Fakt:** Herbert Simon i Allen Newell zdobyli w 1975 roku Nagrodę Turinga - najwyższe odznaczenie w informatyce - między innymi za swoje badania nad symulacją ludzkiego rozwiązywania problemów w programach komputerowych.
 
 ## Sieci neuronowe i inspiracja biologiczna
 

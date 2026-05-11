@@ -6,7 +6,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Wyuczona bezradność
 
-Wyuczona bezradność (*learned helplessness*) to stan psychologiczny, w którym organizm — na skutek powtarzającego się doświadczenia braku kontroli nad negatywnymi zdarzeniami — przestaje podejmować próby ucieczki lub zmiany sytuacji, nawet gdy stają się one obiektywnie możliwe. Koncepcja ta, sformułowana przez Martina Seligmana w latach 60. XX wieku, stała się jednym z kluczowych modeli wyjaśniających depresję, a także znalazła szerokie zastosowanie w psychologii klinicznej, edukacyjnej i organizacyjnej.
+Wyuczona bezradność (*learned helplessness*) to stan psychologiczny, w którym organizm - na skutek powtarzającego się doświadczenia braku kontroli nad negatywnymi zdarzeniami - przestaje podejmować próby ucieczki lub zmiany sytuacji, nawet gdy stają się one obiektywnie możliwe. Koncepcja ta, sformułowana przez Martina Seligmana w latach 60. XX wieku, stała się jednym z kluczowych modeli wyjaśniających depresję, a także znalazła szerokie zastosowanie w psychologii klinicznej, edukacyjnej i organizacyjnej.
 
 ## Historia i geneza
 
@@ -14,27 +14,27 @@ Wyuczona bezradność (*learned helplessness*) to stan psychologiczny, w którym
 
 Pierwsze systematyczne badania wyuczonej bezradności przeprowadzili **Martin Seligman** i **Steven Maier** w 1967 roku na psach. Eksperyment składał się z trzech faz:
 
-**Faza 1 — warunki kontrolne:**
+**Faza 1 - warunki kontrolne:**
 
 - **Grupa 1** (*yoked control*): psy były narażone na wstrząsy elektryczne z możliwością ich przerwania przez naciśnięcie dźwigni.
-- **Grupa 2** (*helplessness group*): psy były narażone na te same wstrząsy co grupa 1, ale dźwignia była nieskuteczna — ból nie zależał od ich działań.
+- **Grupa 2** (*helplessness group*): psy były narażone na te same wstrząsy co grupa 1, ale dźwignia była nieskuteczna - ból nie zależał od ich działań.
 - **Grupa 3** (*control group*): psy nie były narażone na żadne wstrząsy.
 
-**Faza 2 — test ucieczki:**
+**Faza 2 - test ucieczki:**
 
 Wszystkie psy umieszczono w komorze wahadłowej (*shuttle box*), z której można było uciec, przeskakując przez barierę w odpowiedzi na sygnał ostrzegawczy.
 
-**Wyniki:** Psy z grupy 2 (brak kontroli) w większości nie próbowały uciec — kładły się i biernie znosiły ból. Psy z grup 1 i 3 szybko uczyły się ucieczki.
+**Wyniki:** Psy z grupy 2 (brak kontroli) w większości nie próbowały uciec - kładły się i biernie znosiły ból. Psy z grup 1 i 3 szybko uczyły się ucieczki.
 
 Seligman i Maier interpretowali te wyniki jako dowód, że doświadczenie braku kontroli **uczy się** i przenosi na nowe sytuacje.
 
-### Późniejsza rewizja — teoria kontroli (Maier i Seligman, 2016)
+### Późniejsza rewizja - teoria kontroli (Maier i Seligman, 2016)
 
-W 2016 roku Maier i Seligman opublikowali rewizję oryginalnej teorii w świetle nowych danych neurobiologicznych. Główna zmiana: **bezradność jest stanem domyślnym**, a nie wyuczonym — to aktywna kontrola (sprawczość) wymaga nauki i angażuje specyficzne obwody nerwowe (brzuszno-środkowa kora prefrontalna, jądro grzbietowego szwu). Brak kontroli nie „uczy" bezradności, lecz nie aktywuje mechanizmów sprawczości.
+W 2016 roku Maier i Seligman opublikowali rewizję oryginalnej teorii w świetle nowych danych neurobiologicznych. Główna zmiana: **bezradność jest stanem domyślnym**, a nie wyuczonym - to aktywna kontrola (sprawczość) wymaga nauki i angażuje specyficzne obwody nerwowe (brzuszno-środkowa kora prefrontalna, jądro grzbietowego szwu). Brak kontroli nie „uczy" bezradności, lecz nie aktywuje mechanizmów sprawczości.
 
-## Model poznawczy — teoria atrybucji Abramson, Seligman i Teasdale (1978)
+## Model poznawczy - teoria atrybucji Abramson, Seligman i Teasdale (1978)
 
-Oryginalna teoria Seligmana nie wyjaśniała różnic indywidualnych — dlaczego jedne osoby rozwijają wyuczoną bezradność, a inne nie. Abramson, Seligman i Teasdale zaproponowali **reformulację opartą na atrybucji** (*attributional reformulation*):
+Oryginalna teoria Seligmana nie wyjaśniała różnic indywidualnych - dlaczego jedne osoby rozwijają wyuczoną bezradność, a inne nie. Abramson, Seligman i Teasdale zaproponowali **reformulację opartą na atrybucji** (*attributional reformulation*):
 
 ### Wymiary atrybucji przyczynowych
 
@@ -42,9 +42,9 @@ Osoby różnią się w sposobie wyjaśniania negatywnych zdarzeń na trzech wymi
 
 | Wymiar | Opis | Przykład atrybucji wewnętrznej | Przykład atrybucji zewnętrznej |
 |--------|------|-------------------------------|-------------------------------|
-| **Wewnętrzna — zewnętrzna** | Czy przyczyna leży we mnie czy poza mną? | „Oblałem egzamin, bo jestem głupi" | „Oblałem egzamin, bo pytania były zbyt trudne" |
-| **Stabilna — niestabilna** | Czy przyczyna jest trwała czy zmienna? | „Zawsze mi to nie wychodzi" | „Tym razem mi nie wyszło" |
-| **Globalna — specyficzna** | Czy przyczyna dotyczy wielu obszarów czy tylko jednego? | „Jestem do niczego we wszystkim" | „Jestem słaby tylko z matematyki" |
+| **Wewnętrzna - zewnętrzna** | Czy przyczyna leży we mnie czy poza mną? | „Oblałem egzamin, bo jestem głupi" | „Oblałem egzamin, bo pytania były zbyt trudne" |
+| **Stabilna - niestabilna** | Czy przyczyna jest trwała czy zmienna? | „Zawsze mi to nie wychodzi" | „Tym razem mi nie wyszło" |
+| **Globalna - specyficzna** | Czy przyczyna dotyczy wielu obszarów czy tylko jednego? | „Jestem do niczego we wszystkim" | „Jestem słaby tylko z matematyki" |
 
 ### Pesymistyczny styl atrybucji
 
@@ -54,7 +54,7 @@ Osoby z **pesymistycznym stylem atrybucji** (*pessimistic explanatory style*) te
 - **stabilne** (zawsze tak będzie),
 - **globalne** (wszędzie tak jest).
 
-Ten wzorzec prowadzi do niskiej samooceny, poczucia beznadziei i podatności na depresję. Odwrotny wzorzec — **optymistyczny styl atrybucji** — koreluje z odpornością na wyuczoną bezradność i lepszym zdrowiem psychicznym.
+Ten wzorzec prowadzi do niskiej samooceny, poczucia beznadziei i podatności na depresję. Odwrotny wzorzec - **optymistyczny styl atrybucji** - koreluje z odpornością na wyuczoną bezradność i lepszym zdrowiem psychicznym.
 
 ### Nadzieja i beznadziejność
 
@@ -108,7 +108,7 @@ Nieukontrolowany stres prowadzi do chronicznego podwyższenia kortyzolu, który:
 
 ### Kora prefrontalna i sprawczość
 
-Maier i Seligman (2016) zidentyfikowali **brzuszno-środkową korę prefrontalną** (*ventromedial prefrontal cortex*, vmPFC) jako strukturę kluczową dla aktywnej kontroli. Gdy vmPFC jest aktywna, hamuje DRN i umożliwia zachowania unikowe. U osób z depresją obserwuje się obniżoną aktywność vmPFC — co wyjaśnia niemożność „przestawienia się" na sprawcze działanie.
+Maier i Seligman (2016) zidentyfikowali **brzuszno-środkową korę prefrontalną** (*ventromedial prefrontal cortex*, vmPFC) jako strukturę kluczową dla aktywnej kontroli. Gdy vmPFC jest aktywna, hamuje DRN i umożliwia zachowania unikowe. U osób z depresją obserwuje się obniżoną aktywność vmPFC - co wyjaśnia niemożność „przestawienia się" na sprawcze działanie.
 
 ### Dopamina i nagroda
 
@@ -154,9 +154,9 @@ Interwencje terapeutyczne muszą aktywnie odbudowywać **poczucie sprawczości**
 
 Wyuczona bezradność może być indukowana na poziomie grup społecznych i instytucjonalnym:
 
-- **bezrobocie długotrwałe** — narastające przekonanie o niemożności znalezienia pracy;
-- **dyskryminacja systemowa** — grupy stale napotykające bariery instytucjonalne mogą rozwinąć kolektywną bezradność;
-- **ubóstwo** — ograniczone zasoby i chroniczne niepowodzenia sprzyjają poczuciu braku kontroli.
+- **bezrobocie długotrwałe** - narastające przekonanie o niemożności znalezienia pracy;
+- **dyskryminacja systemowa** - grupy stale napotykające bariery instytucjonalne mogą rozwinąć kolektywną bezradność;
+- **ubóstwo** - ograniczone zasoby i chroniczne niepowodzenia sprzyjają poczuciu braku kontroli.
 
 ## Pomiar wyuczonej bezradności
 
@@ -164,12 +164,12 @@ Wyuczona bezradność może być indukowana na poziomie grup społecznych i inst
 
 **Attributional Style Questionnaire** (Peterson i in., 1982) mierzy sposób wyjaśniania zdarzeń na trzech wymiarach (wewnętrzny–zewnętrzny, stabilny–niestabilny, globalny–specyficzny) dla zdarzeń pozytywnych i negatywnych.
 
-**Composite Pessimism Score** (*CP*) — różnica między indeksami dla zdarzeń negatywnych i pozytywnych; wysoki wynik wskazuje na pesymistyczny styl atrybucji.
+**Composite Pessimism Score** (*CP*) - różnica między indeksami dla zdarzeń negatywnych i pozytywnych; wysoki wynik wskazuje na pesymistyczny styl atrybucji.
 
 ### Skale depresji z beznadziejnością
 
-- **Beck Hopelessness Scale (BHS)** — mierzy stopień beznadziejności; silny predyktor ryzyka suicydalnego;
-- **Helplessness subscale of the DASS** — wchodzi w skład Depression Anxiety Stress Scales.
+- **Beck Hopelessness Scale (BHS)** - mierzy stopień beznadziejności; silny predyktor ryzyka suicydalnego;
+- **Helplessness subscale of the DASS** - wchodzi w skład Depression Anxiety Stress Scales.
 
 ## Interwencje terapeutyczne i prewencja
 
@@ -177,9 +177,9 @@ Wyuczona bezradność może być indukowana na poziomie grup społecznych i inst
 
 CBT adresuje wyuczoną bezradność bezpośrednio przez:
 
-- **Restrukturyzację poznawczą** — identyfikację i kwestionowanie pesymistycznych atrybucji; zastępowanie globalnych/stabilnych wyjaśnień specyficznymi/niestabilnymi;
-- **Aktywację behawioralną** — stopniowe zwiększanie zaangażowania w aktywności dające poczucie sprawczości i przyjemności;
-- **Trening rozwiązywania problemów** — budowanie konkretnych umiejętności radzenia sobie z trudnymi sytuacjami.
+- **Restrukturyzację poznawczą** - identyfikację i kwestionowanie pesymistycznych atrybucji; zastępowanie globalnych/stabilnych wyjaśnień specyficznymi/niestabilnymi;
+- **Aktywację behawioralną** - stopniowe zwiększanie zaangażowania w aktywności dające poczucie sprawczości i przyjemności;
+- **Trening rozwiązywania problemów** - budowanie konkretnych umiejętności radzenia sobie z trudnymi sytuacjami.
 
 ### Terapia ACT (*Acceptance and Commitment Therapy*)
 
@@ -193,8 +193,8 @@ ACT nie stara się bezpośrednio modyfikować treści atrybucji, lecz:
 
 Seligman opracował programy oparte na nauczaniu **optymistycznego stylu atrybucji**:
 
-- **Penn Resiliency Program (PRP)** — skierowany do dzieci i adolescentów; redukuje objawy depresji i bezradności w kontekście szkolnym;
-- **Comprehensive Soldier and Family Fitness (CSF2)** — program budowania rezyliencji w armii USA, oparty na teorii Seligmana.
+- **Penn Resiliency Program (PRP)** - skierowany do dzieci i adolescentów; redukuje objawy depresji i bezradności w kontekście szkolnym;
+- **Comprehensive Soldier and Family Fitness (CSF2)** - program budowania rezyliencji w armii USA, oparty na teorii Seligmana.
 
 ### Farmakoterapia
 
@@ -204,29 +204,29 @@ Badania na modelach zwierzęcych i kliniczne wskazują na skuteczność **SSRI**
 
 Ogólne zasady prewencji i interwencji:
 
-1. Dostarczanie doświadczeń **kontrolowalnych sukcesów** — stopniowane zadania o rosnącej trudności;
+1. Dostarczanie doświadczeń **kontrolowalnych sukcesów** - stopniowane zadania o rosnącej trudności;
 2. **Informacja zwrotna zorientowana na wysiłek i strategię** (a nie na wrodzone zdolności);
-3. Ekspozycja na **modelowanie radzenia sobie** — obserwowanie innych pokonujących przeszkody;
+3. Ekspozycja na **modelowanie radzenia sobie** - obserwowanie innych pokonujących przeszkody;
 4. Wzmacnianie **poczucia własnej skuteczności** (Bandura) jako bufor przed bezradnością;
-5. Praca nad **locus of control** — kształtowanie wewnętrznego poczucia kontroli (Rotter).
+5. Praca nad **locus of control** - kształtowanie wewnętrznego poczucia kontroli (Rotter).
 
 ## Krytyka i ograniczenia teorii
 
-- **Ekstrapolacja ze zwierząt na ludzi** — model oparty na badaniach na psach i szczurach może nie w pełni oddawać złożoność ludzkiego doświadczenia bezradności;
-- **Kwestie etyczne eksperymentów** — oryginalne badania Seligmana i Maiera budziły poważne zastrzeżenia etyczne dotyczące dobrostanu zwierząt;
-- **Redukcjonizm biologiczny** — teoria atrybucji pomija kontekstualne i systemowe przyczyny bezradności (bieda, dyskryminacja);
-- **Problemy z pomiarem** — styl atrybucji jest względnie stały, ale podatny na zmianę sytuacyjną; ASQ wykazuje umiarkowaną rzetelność;
-- **Alternatywne wyjaśnienia** — teoria kontroli sprawczej (Ryan i Deci) oraz modele dezangażowania motywacyjnego (Heckhausen) oferują konkurencyjne ramy wyjaśniające podobne zjawiska.
+- **Ekstrapolacja ze zwierząt na ludzi** - model oparty na badaniach na psach i szczurach może nie w pełni oddawać złożoność ludzkiego doświadczenia bezradności;
+- **Kwestie etyczne eksperymentów** - oryginalne badania Seligmana i Maiera budziły poważne zastrzeżenia etyczne dotyczące dobrostanu zwierząt;
+- **Redukcjonizm biologiczny** - teoria atrybucji pomija kontekstualne i systemowe przyczyny bezradności (bieda, dyskryminacja);
+- **Problemy z pomiarem** - styl atrybucji jest względnie stały, ale podatny na zmianę sytuacyjną; ASQ wykazuje umiarkowaną rzetelność;
+- **Alternatywne wyjaśnienia** - teoria kontroli sprawczej (Ryan i Deci) oraz modele dezangażowania motywacyjnego (Heckhausen) oferują konkurencyjne ramy wyjaśniające podobne zjawiska.
 
 ## Znaczenie kliniczne
 
 Wyuczona bezradność ma kluczowe implikacje dla praktyki klinicznej:
 
-1. **Diagnoza** — pesymistyczny styl atrybucji i beznadziejność są wskaźnikami podatności na depresję; warto oceniać je rutynowo przy epizodach depresyjnych;
-2. **Planowanie terapii** — interwencje muszą aktywnie adresować poczucie kontroli i sprawczości, a nie tylko objawy;
-3. **Prewencja nawrotów** — praca nad stylem atrybucji zmniejsza ryzyko nawrotów depresji nawet po ustąpieniu objawów;
-4. **Praca z ofiarami** — przy wiktymizacji i przemocy partnerskiej odbudowanie poczucia sprawczości jest centralnym elementem terapii;
-5. **Kontekst edukacyjny** — psycholodzy szkolni mogą identyfikować uczniów z wzorcem bezradności i wdrażać interwencje prewencyjne.
+1. **Diagnoza** - pesymistyczny styl atrybucji i beznadziejność są wskaźnikami podatności na depresję; warto oceniać je rutynowo przy epizodach depresyjnych;
+2. **Planowanie terapii** - interwencje muszą aktywnie adresować poczucie kontroli i sprawczości, a nie tylko objawy;
+3. **Prewencja nawrotów** - praca nad stylem atrybucji zmniejsza ryzyko nawrotów depresji nawet po ustąpieniu objawów;
+4. **Praca z ofiarami** - przy wiktymizacji i przemocy partnerskiej odbudowanie poczucia sprawczości jest centralnym elementem terapii;
+5. **Kontekst edukacyjny** - psycholodzy szkolni mogą identyfikować uczniów z wzorcem bezradności i wdrażać interwencje prewencyjne.
 
 
 ## Wprowadzenie

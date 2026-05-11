@@ -10,7 +10,7 @@ Aktywacja behawioralna (AB) to oparta na dowodach technika terapeutyczna stosowa
 
 ## Podstawy teoretyczne
 
-Aktywacja behawioralna wywodzi się z behawioralnej teorii depresji opracowanej przez **Petera Lewinsohna** w latach 70. XX wieku. Zgodnie z tym modelem, depresja wynika z **niskiego poziomu wzmocnień pozytywnych** w środowisku — człowiek przestaje doświadczać satysfakcji z aktywności, które wcześniej sprawiały mu przyjemność, co prowadzi do wycofania się i pogłębienia przygnębienia.
+Aktywacja behawioralna wywodzi się z behawioralnej teorii depresji opracowanej przez **Petera Lewinsohna** w latach 70. XX wieku. Zgodnie z tym modelem, depresja wynika z **niskiego poziomu wzmocnień pozytywnych** w środowisku - człowiek przestaje doświadczać satysfakcji z aktywności, które wcześniej sprawiały mu przyjemność, co prowadzi do wycofania się i pogłębienia przygnębienia.
 
 > **Kluczowe założenie:** wycofanie z aktywności i izolacja podtrzymują depresję poprzez eliminację potencjalnych źródeł pozytywnego wzmocnienia, tworząc błędne koło: obniżony nastrój → unikanie → mniej wzmocnień → głębsza depresja.
 
@@ -21,12 +21,12 @@ Aktywacja behawioralna wywodzi się z behawioralnej teorii depresji opracowanej 
 Centralnym pojęciem AB jest mechanizm unikania jako utrzymujący depresję:
 
 **Model TRAP:**
-- **T**rigger — bodziec wyzwalający (np. trudna sytuacja, negatywna myśl)
-- **R**esponse — odpowiedź emocjonalna (smutek, lęk, zmęczenie)
-- **A**voidance **P**attern — wzorzec unikania (wycofanie, odkładanie, izolacja)
+- **T**rigger - bodziec wyzwalający (np. trudna sytuacja, negatywna myśl)
+- **R**esponse - odpowiedź emocjonalna (smutek, lęk, zmęczenie)
+- **A**voidance **P**attern - wzorzec unikania (wycofanie, odkładanie, izolacja)
 
-**Alternatywna ścieżka — TRAC:**
-- **T**rigger → **R**esponse → **A**lternative **C**oping — zastąpienie unikania aktywnością zbieżną z wartościami.
+**Alternatywna ścieżka - TRAC:**
+- **T**rigger → **R**esponse → **A**lternative **C**oping - zastąpienie unikania aktywnością zbieżną z wartościami.
 
 ## Główne techniki
 
@@ -41,19 +41,19 @@ Na podstawie monitorowania terapeuta wraz z pacjentem układa **tygodniowy harmo
 - aktywności dające poczucie osiągnięcia (*mastery*)
 - kontakty społeczne i aktywność fizyczną
 
-Ważna jest zasada **działania wbrew nastrojowi** (*act opposite to mood*): czekanie na poprawę nastroju przed podjęciem aktywności jest pułapką — aktywność powinna poprzedzać zmianę nastroju.
+Ważna jest zasada **działania wbrew nastrojowi** (*act opposite to mood*): czekanie na poprawę nastroju przed podjęciem aktywności jest pułapką - aktywność powinna poprzedzać zmianę nastroju.
 
 ### Hierarchia zadań
 
-Aktywności są stopniowane od najłatwiejszych do trudniejszych (*graded task assignment*), co minimalizuje opór i buduje poczucie własnej skuteczności. Ważne jest wyznaczanie **małych, konkretnych kroków**, np. zamiast „pójdę na siłownię" — „założę buty i wyjdę przed dom na 5 minut".
+Aktywności są stopniowane od najłatwiejszych do trudniejszych (*graded task assignment*), co minimalizuje opór i buduje poczucie własnej skuteczności. Ważne jest wyznaczanie **małych, konkretnych kroków**, np. zamiast „pójdę na siłownię" - „założę buty i wyjdę przed dom na 5 minut".
 
 ### Analiza funkcjonalna
 
-Terapeuta bada **funkcję zachowań** pacjenta — co wzmacnia unikanie, jakie bezpośrednie korzyści płyną z wycofania (np. ulga od lęku), i jak można te potrzeby zaspokoić w bardziej adaptacyjny sposób.
+Terapeuta bada **funkcję zachowań** pacjenta - co wzmacnia unikanie, jakie bezpośrednie korzyści płyną z wycofania (np. ulga od lęku), i jak można te potrzeby zaspokoić w bardziej adaptacyjny sposób.
 
 ### Aktywowanie wartości
 
-Nowoczesne podejście AB (Martell i in.) kładzie nacisk na **zaangażowanie zgodne z wartościami**: identyfikację tego, co dla pacjenta jest ważne w życiu (relacje, praca, zdrowie, hobby), i planowanie aktywności w tych obszarach — niezależnie od chwilowego nastroju.
+Nowoczesne podejście AB (Martell i in.) kładzie nacisk na **zaangażowanie zgodne z wartościami**: identyfikację tego, co dla pacjenta jest ważne w życiu (relacje, praca, zdrowie, hobby), i planowanie aktywności w tych obszarach - niezależnie od chwilowego nastroju.
 
 ## Przebieg terapii
 
@@ -64,7 +64,7 @@ Typowy program AB obejmuje **8–16 sesji** (indywidualnych lub grupowych). Sesj
 4. Planowanie aktywności na kolejny tydzień
 5. Praca nad barierami i problemami z realizacją planu
 
-Terapia może być prowadzona **bez skupiania się na myślach i przekonaniach** — co czyni ją dostępną nawet wtedy, gdy praca poznawcza jest trudna (np. w ciężkiej depresji, przy niskim wglądzie).
+Terapia może być prowadzona **bez skupiania się na myślach i przekonaniach** - co czyni ją dostępną nawet wtedy, gdy praca poznawcza jest trudna (np. w ciężkiej depresji, przy niskim wglądzie).
 
 ## Dowody empiryczne
 
@@ -88,7 +88,7 @@ AB należy do **najlepiej udokumentowanych interwencji** w leczeniu depresji:
 ## Wskazania i przeciwwskazania
 
 **Wskazania:**
-- Duże zaburzenie depresyjne (MDD) — wszystkie nasilenia
+- Duże zaburzenie depresyjne (MDD) - wszystkie nasilenia
 - Dystymia i depresja przetrwała
 - Depresja współwystępująca z innymi zaburzeniami
 - Pacjenci niereagujący na restrukturyzację poznawczą

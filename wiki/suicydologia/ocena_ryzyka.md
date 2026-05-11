@@ -6,13 +6,13 @@ evidenceCutoffDate: 2025-12-31
 
 # Ocena ryzyka samobójczego
 
-Narzędzia i procedury kliniczne oceny ryzyka — C-SSRS, protokół Columbia i podejście kliniczne.
+Narzędzia i procedury kliniczne oceny ryzyka - C-SSRS, protokół Columbia i podejście kliniczne.
 
 ## Zasady oceny ryzyka
 
 Ocena ryzyka samobójczego jest kluczową kompetencją kliniczną. Celem nie jest dokładne *przewidywanie* (samobójstwo jest zdarzeniem zbyt rzadkim, by można je było precyzyjnie prognozować jednostkowo), lecz **identyfikacja modyfikowalnych czynników ryzyka** i opracowanie planu bezpieczeństwa.
 
-> Pytanie o myśli samobójcze **nie wywołuje samobójstwa** — jest to mit kliniczny. Badania wykazują, że bezpośrednie pytanie może zmniejszyć dystres pacjenta przez poczucie bycia wysłuchanym.
+> Pytanie o myśli samobójcze **nie wywołuje samobójstwa** - jest to mit kliniczny. Badania wykazują, że bezpośrednie pytanie może zmniejszyć dystres pacjenta przez poczucie bycia wysłuchanym.
 
 ## Skala C-SSRS (Columbia Suicide Severity Rating Scale)
 

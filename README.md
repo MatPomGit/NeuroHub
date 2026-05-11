@@ -4,7 +4,7 @@
 
 Poniżej znajduje się rekomendowany przepływ pracy dla autorów i redaktorów.
 
-### 1) Utworzenie szablonu artykułu
+### 1 Utworzenie szablonu artykułu
 
 Skorzystaj z narzędzia `tools/konwerter.py` w trybie `new-article`:
 
@@ -21,11 +21,11 @@ Polecenie utworzy plik `.md` z wymaganymi sekcjami:
 - Podsumowanie,
 - Bibliografia.
 
-### 2) Opracowanie treści
+### 2 Opracowanie treści
 
 Uzupełnij każdą sekcję zgodnie ze standardem redakcyjnym projektu (rzetelność naukowa, poprawna polszczyzna, rozdzielenie faktów od opinii, argumentacja oparta na źródłach).
 
-### 3) Walidacja redakcyjna
+### 3 Walidacja redakcyjna
 
 Uruchom walidator sekcji przed commitem:
 
@@ -35,7 +35,7 @@ Można walidować wiele plików naraz:
 
 - `python3 tools/konwerter.py validate-article wiki/**/*.md`
 
-### 4) Kontrola w hookach Git
+### 4 Kontrola w hookach Git
 
 Repozytorium zawiera hooki `pre-commit` i `pre-push`, które automatycznie sprawdzają **nowe** pliki `wiki/**/*.md`.
 
@@ -97,8 +97,8 @@ W trybie strict ostrzeżenia (`warn`) są traktowane jak błędy (`error`).
 
 W projekcie rozdzielamy testy na dwa niezależne typy:
 
-- **Node-only** — testy konfiguracji i walidacji, bez API przeglądarki.
-- **Browser-only (jsdom)** — testy modułów wymagających `window`/`document`.
+- **Node-only** - testy konfiguracji i walidacji, bez API przeglądarki.
+- **Browser-only (jsdom)** - testy modułów wymagających `window`/`document`.
 
 ### Lokalnie
 
@@ -120,7 +120,7 @@ Konfiguracja CI powinna mieć dwa osobne joby:
    - `npm install --no-save jsdom`
    - `node tools/run-ui-tests-jsdom.js`
 
-## Katalog narzędzi — zasada pola `primarySourceYear`
+## Katalog narzędzi - zasada pola `primarySourceYear`
 
 - `primarySourceYear` zapisujemy zawsze w formacie `YYYY`.
 - Domyślna reguła: wpisujemy rok **pierwotnej publikacji wersji bazowej** narzędzia.
@@ -150,4 +150,3 @@ Opcjonalnie możesz zmienić próg objętości:
 ## Standard nazewnictwa treści wiki
 
 Konwencja nazewnictwa dla `wiki/**` jest opisana w `docs/content-conventions.md`.
-

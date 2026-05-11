@@ -10,9 +10,9 @@ Ciekawostka: w zespołach o wysokiej kulturze feedbacku częściej obserwuje si�
 ## Definicje
 Definicje pełnią tu rolę „mapy pojęciowej”: pomagają oddzielić język potoczny od precyzyjnego opisu psychologicznego. Dzięki temu łatwiej uniknąć nieporozumień, szczególnie gdy rozmowa dotyczy emocji i odpowiedzialności.
 
-- **SBI** — rama opisu informacji zwrotnej: sytuacja, konkretne zachowanie, wpływ.
-- **NVC** — komunikacja oparta na czterech elementach: obserwacja, uczucie, potrzeba, prośba.
-- **Deeskalacja** — celowe obniżanie napięcia rozmowy przy zachowaniu granic i sprawczości.
+- **SBI** - rama opisu informacji zwrotnej: sytuacja, konkretne zachowanie, wpływ.
+- **NVC** - komunikacja oparta na czterech elementach: obserwacja, uczucie, potrzeba, prośba.
+- **Deeskalacja** - celowe obniżanie napięcia rozmowy przy zachowaniu granic i sprawczości.
 
 ## Analiza
 ### Fakty empiryczne
@@ -34,7 +34,7 @@ W praktyce: SBI jest świetne do „szkieletu” merytorycznego, NVC do „mię�
 ### Interpretacje autora
 Z perspektywy praktycznej oznacza to konieczność pracy na dwóch poziomach naraz: jednostkowym (samoregulacja) i systemowym (normy komunikacji w zespole lub rodzinie). Pominięcie któregoś z poziomów zwykle ogranicza trwałość efektów.
 
-W praktyce klinicznej i edukacyjnej same dane nie podejmują decyzji — robi to człowiek, który nadaje im znaczenie. Dlatego kluczowe jest łączenie dowodów naukowych z kontekstem sytuacyjnym, etapem rozwoju i zasobami relacyjnymi uczestników rozmowy.
+W praktyce klinicznej i edukacyjnej same dane nie podejmują decyzji - robi to człowiek, który nadaje im znaczenie. Dlatego kluczowe jest łączenie dowodów naukowych z kontekstem sytuacyjnym, etapem rozwoju i zasobami relacyjnymi uczestników rozmowy.
 
 ## Dobra praktyka
 Wdrożenie dobrej praktyki jest skuteczniejsze, gdy umawiamy się na konkretne wskaźniki zmiany, np. krótszy czas wygaszania napięcia po trudnej rozmowie. Taka operacjonalizacja ułatwia monitorowanie postępu i korygowanie planu.

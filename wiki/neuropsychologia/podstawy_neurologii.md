@@ -19,8 +19,8 @@ Układ nerwowy człowieka dzieli się na dwa główne działy:
 **Ośrodkowy układ nerwowy (OUN)** obejmuje **mózg** i **rdzeń kręgowy**. Jest głównym centrum integracji i przetwarzania informacji. Mózg zawiera korę mózgową, struktury podkorowe, móżdżek, pień mózgu i inne wyspecjalizowane obszary.
 
 **Obwodowy układ nerwowy (OUN → PNS)** tworzą nerwy i zwoje poza mózgiem i rdzeniem. Dzieli się na:
-- **Somatyczny układ nerwowy** — kontroluje ruchy dowolne mięśni szkieletowych i przetwarza informacje sensoryczne ze skóry, narządów zmysłów i mięśni.
-- **Autonomiczny układ nerwowy (ANS)** — reguluje funkcje narządów wewnętrznych (serce, naczynia, jelita, gruczoły). Dzieli się na układy *współczulny* (mobilizacja — „walcz lub uciekaj"), *przywspółczulny* (spoczynek i regeneracja) oraz *jelitowy*.
+- **Somatyczny układ nerwowy** - kontroluje ruchy dowolne mięśni szkieletowych i przetwarza informacje sensoryczne ze skóry, narządów zmysłów i mięśni.
+- **Autonomiczny układ nerwowy (ANS)** - reguluje funkcje narządów wewnętrznych (serce, naczynia, jelita, gruczoły). Dzieli się na układy *współczulny* (mobilizacja - „walcz lub uciekaj"), *przywspółczulny* (spoczynek i regeneracja) oraz *jelitowy*.
 
 > Autonomiczny układ nerwowy jest często nazywany „mózgiem jelitowym" ze względu na obecność niezależnej sieci ~500 mln neuronów jelitowych (splot Auerbacha i Meissnera). Oś jelito-mózg (gut-brain axis) odgrywa coraz bardziej docenianą rolę w psychiatrii.
 
@@ -43,13 +43,13 @@ Układ nerwowy człowieka dzieli się na dwa główne działy:
 
 Komórki glejowe stanowią około połowy objętości mózgu i pełnią kluczowe funkcje wspierające:
 
-**Astrocyty** — największe komórki gleju ośrodkowego. Regulują homeostazę jonową i neuroprzekaźnikową w szczelinie synaptycznej, tworzą barierę krew-mózg (BBB), odżywiają neurony (wahadło glutaminianowe) i uczestniczą w plastyczności synaptycznej. *Reaktywna astroglioza* to odpowiedź na uszkodzenie tkanki mózgowej.
+**Astrocyty** - największe komórki gleju ośrodkowego. Regulują homeostazę jonową i neuroprzekaźnikową w szczelinie synaptycznej, tworzą barierę krew-mózg (BBB), odżywiają neurony (wahadło glutaminianowe) i uczestniczą w plastyczności synaptycznej. *Reaktywna astroglioza* to odpowiedź na uszkodzenie tkanki mózgowej.
 
-**Oligodendrocyty** (OUN) i **komórki Schwanna** (PNS) — wytwarzają **mielinę**: izolującą pochewkę tłuszczową otaczającą aksony. Mielina przyspiesza przewodzenie impulsów nerwowych (przewodzenie saltatoryjne do ~120 m/s). Degeneracja mieliny jest podstawą stwardnienia rozsianego (SM).
+**Oligodendrocyty** (OUN) i **komórki Schwanna** (PNS) - wytwarzają **mielinę**: izolującą pochewkę tłuszczową otaczającą aksony. Mielina przyspiesza przewodzenie impulsów nerwowych (przewodzenie saltatoryjne do ~120 m/s). Degeneracja mieliny jest podstawą stwardnienia rozsianego (SM).
 
-**Mikroglej** — immunologiczne komórki rezydentne mózgu, wywodzące się z komórek macierzystych szpiku. Eliminują martwe komórki (fagocytoza), pruning synaptyczny (usuwanie niepotrzebnych synaps) oraz wyzwalają stan zapalny (neuroinflammation). Dysfunkcja mikroglejowa jest wiązana z chorobą Alzheimera, depresją i autyzmem.
+**Mikroglej** - immunologiczne komórki rezydentne mózgu, wywodzące się z komórek macierzystych szpiku. Eliminują martwe komórki (fagocytoza), pruning synaptyczny (usuwanie niepotrzebnych synaps) oraz wyzwalają stan zapalny (neuroinflammation). Dysfunkcja mikroglejowa jest wiązana z chorobą Alzheimera, depresją i autyzmem.
 
-**Komórki ependymalne** — wyściełają komory mózgowe i kanał kręgowy; wytwarzają i regulują płyn mózgowo-rdzeniowy (CSF).
+**Komórki ependymalne** - wyściełają komory mózgowe i kanał kręgowy; wytwarzają i regulują płyn mózgowo-rdzeniowy (CSF).
 
 ## Płyn mózgowo-rdzeniowy i bariery
 
@@ -62,23 +62,23 @@ Komórki glejowe stanowią około połowy objętości mózgu i pełnią kluczowe
 ### Łuk odruchowy
 
 Najprostsza jednostka funkcjonalna układu nerwowego. Monosynaptyczny łuk odruchowy (np. odruch kolanowy) składa się z:
-1. **Receptor** — wychwytuje bodziec (wrzeciono mięśniowe Ia)
-2. **Neuron aferentny** — przewodzi sygnał do rdzenia kręgowego
-3. **Synapsa w rogu grzbietowym** — połączenie z neuronem ruchowym (α-motoneuron)
-4. **Neuron eferentny** — przewodzi impuls do efektora
-5. **Efektor** — mięsień lub gruczoł reagujący odpowiedzią
+1. **Receptor** - wychwytuje bodziec (wrzeciono mięśniowe Ia)
+2. **Neuron aferentny** - przewodzi sygnał do rdzenia kręgowego
+3. **Synapsa w rogu grzbietowym** - połączenie z neuronem ruchowym (α-motoneuron)
+4. **Neuron eferentny** - przewodzi impuls do efektora
+5. **Efektor** - mięsień lub gruczoł reagujący odpowiedzią
 
 Odruchy polisynaptyczne (np. odruch wycofania przy bólu) angażują interneurony i pozwalają na bardziej złożone odpowiedzi, w tym hamowanie antagonistyczne.
 
 ### Główne drogi nerwowe
 
-**Droga korowo-rdzeniowa (piramidowa)** — kontrola ruchów dowolnych. Neurony ruchowe I rzędu z kory motorycznej (pole BA 4) krzyżują się w rdzeniu przedłużonym (skrzyżowanie piramid) i biegną do motoneuronów rdzenia.
+**Droga korowo-rdzeniowa (piramidowa)** - kontrola ruchów dowolnych. Neurony ruchowe I rzędu z kory motorycznej (pole BA 4) krzyżują się w rdzeniu przedłużonym (skrzyżowanie piramid) i biegną do motoneuronów rdzenia.
 
 **Drogi czuciowe wstępujące:**
-- *Sznury tylne (kolumny grzbietowe)* — dotyk dyskryminacyjny, propriocepcja, wibracja. Krzyżują się w rdzeniu przedłużonym.
-- *Droga rdzeniowo-wzgórzowa (anterolateralna)* — ból i temperatura. Krzyżuje się na poziomie wejścia do rdzenia.
+- *Sznury tylne (kolumny grzbietowe)* - dotyk dyskryminacyjny, propriocepcja, wibracja. Krzyżują się w rdzeniu przedłużonym.
+- *Droga rdzeniowo-wzgórzowa (anterolateralna)* - ból i temperatura. Krzyżuje się na poziomie wejścia do rdzenia.
 
-**Droga wzrokowa** — od siatkówki przez nerw wzrokowy, skrzyżowanie wzrokowe (chiazma), pasmo wzrokowe, ciało kolankowate boczne (LGN) wzgórza, promienistość wzrokową do pierwotnej kory wzrokowej (V1, BA 17) w płacie potylicznym.
+**Droga wzrokowa** - od siatkówki przez nerw wzrokowy, skrzyżowanie wzrokowe (chiazma), pasmo wzrokowe, ciało kolankowate boczne (LGN) wzgórza, promienistość wzrokową do pierwotnej kory wzrokowej (V1, BA 17) w płacie potylicznym.
 
 > Znajomość topografii dróg nerwowych ma podstawowe znaczenie kliniczne. Lokalizacja uszkodzenia (np. hemiplegia po udarze) wynika bezpośrednio z anatomii skrzyżowań i przebiegu szlaków.
 
@@ -86,15 +86,15 @@ Odruchy polisynaptyczne (np. odruch wycofania przy bólu) angażują interneuron
 
 ### Neurony ruchowe górne i dolne
 
-**Neurony ruchowe górne (UMN — upper motor neurons)** to neurony z kory motorycznej i pnia mózgu kontrolujące neurony ruchowe niższe. Uszkodzenie → spastyczność (zwiększone napięcie mięśniowe), hiper-odruchy, odruch Babińskiego.
+**Neurony ruchowe górne (UMN - upper motor neurons)** to neurony z kory motorycznej i pnia mózgu kontrolujące neurony ruchowe niższe. Uszkodzenie → spastyczność (zwiększone napięcie mięśniowe), hiper-odruchy, odruch Babińskiego.
 
-**Neurony ruchowe dolne (LMN — lower motor neurons)** to motoneurony rdzenia i pnia, bezpośrednio unerwiające mięśnie. Uszkodzenie → wiotkość (flaccidity), atrofia mięśni, faszykulacje, hiporefleksja.
+**Neurony ruchowe dolne (LMN - lower motor neurons)** to motoneurony rdzenia i pnia, bezpośrednio unerwiające mięśnie. Uszkodzenie → wiotkość (flaccidity), atrofia mięśni, faszykulacje, hiporefleksja.
 
 ### Móżdżek i zwoje podstawy
 
 **Móżdżek** koordynuje ruchy, kontroluje równowagę i czas reakcji motorycznej. Przetwarzanie: sygnały z kory motorycznej + propriocepcja → planowanie trajektorii i korekta błędów w czasie rzeczywistym. Uszkodzenie → ataksja (nieskoordynowane ruchy), dysmetria (chybienie celu), nystagmus.
 
-**Zwoje podstawy (jądra podstawy)** — sieć struktur podkorowych (jądro ogoniaste, skorupa, gałka blada, substancja czarna, jądro niskowzgórzowe). Pętla jąder podstawnych moduluje inicjację i hamowanie ruchów. Uszkodzenie:
+**Zwoje podstawy (jądra podstawy)** - sieć struktur podkorowych (jądro ogoniaste, skorupa, gałka blada, substancja czarna, jądro niskowzgórzowe). Pętla jąder podstawnych moduluje inicjację i hamowanie ruchów. Uszkodzenie:
 - Substancja czarna (pars compacta) → choroba Parkinsona (drżenie spoczynkowe, bradykinezja, sztywność)
 - Jądro ogoniaste → pląsawica Huntingtona (ruchy mimowolne, hiperkinezy)
 
@@ -103,10 +103,10 @@ Odruchy polisynaptyczne (np. odruch wycofania przy bólu) angażują interneuron
 ### Ból i nocycepcja
 
 *Nocyceptory* to wolne zakończenia nerwowe reagujące na szkodliwe bodźce mechaniczne, termiczne i chemiczne. Sygnał bólowy przewodzony jest przez:
-- **Włókna Aδ** (mielinizowane, szybkie ~20 m/s) — ból ostry, dobrze zlokalizowany
-- **Włókna C** (niemielinizowane, ~1 m/s) — ból tępy, piekący, opóźniony
+- **Włókna Aδ** (mielinizowane, szybkie ~20 m/s) - ból ostry, dobrze zlokalizowany
+- **Włókna C** (niemielinizowane, ~1 m/s) - ból tępy, piekący, opóźniony
 
-**Bramkowa teoria bólu** (Melzack i Wall, 1965) zakłada, że sygnały dotykowe z grubych włókien Aβ mogą hamować transmisję bólu w rogu grzbietowym rdzenia — mechanizm TENS i masażu.
+**Bramkowa teoria bólu** (Melzack i Wall, 1965) zakłada, że sygnały dotykowe z grubych włókien Aβ mogą hamować transmisję bólu w rogu grzbietowym rdzenia - mechanizm TENS i masażu.
 
 Chroniczny ból wynika z *sensytyzacji obwodowej* (uwrażliwienie nocyceptorów) i *sensytyzacji ośrodkowej* (wzmocnienie transmisji w rdzeniu i mózgu, z udziałem receptorów NMDA).
 
@@ -133,17 +133,17 @@ Główne układy neuroprzekaźnikowe i ich kliniczne znaczenie w neurologii:
 
 Standardowe badanie neurologiczne obejmuje ocenę:
 
-**Stanu świadomości** — orientacja, reakcja na bodźce. Skala Glasgow (GCS) ocenia otwieranie oczu (1–4), odpowiedź słowną (1–5) i ruchową (1–6). Wynik 15 = pełna przytomność.
+**Stanu świadomości** - orientacja, reakcja na bodźce. Skala Glasgow (GCS) ocenia otwieranie oczu (1–4), odpowiedź słowną (1–5) i ruchową (1–6). Wynik 15 = pełna przytomność.
 
-**Nerwów czaszkowych (I–XII)** — ocena węchu (I), ostrości i pola widzenia (II), ruchów gałki ocznej (III, IV, VI), czucia na twarzy i mięśni żucia (V), symetrii twarzy (VII), słuchu i równowagi (VIII), połykania i mowy (IX, X, XII), obrotu głowy (XI).
+**Nerwów czaszkowych (I–XII)** - ocena węchu (I), ostrości i pola widzenia (II), ruchów gałki ocznej (III, IV, VI), czucia na twarzy i mięśni żucia (V), symetrii twarzy (VII), słuchu i równowagi (VIII), połykania i mowy (IX, X, XII), obrotu głowy (XI).
 
-**Układu motorycznego** — napięcie mięśniowe, siła (skala MRC 0–5), koordynacja (próba palec-nos, pięta-kolano), chód.
+**Układu motorycznego** - napięcie mięśniowe, siła (skala MRC 0–5), koordynacja (próba palec-nos, pięta-kolano), chód.
 
-**Układu sensorycznego** — czucie dotyku, bólu, temperatury, wibracji i propriocepcji; dystrybuacja deficytów ujawnia poziom uszkodzenia.
+**Układu sensorycznego** - czucie dotyku, bólu, temperatury, wibracji i propriocepcji; dystrybuacja deficytów ujawnia poziom uszkodzenia.
 
-**Odruchów** — odruchy głębokie (kolanowy, łokciowy, Achillesa), powierzchowne (brzuszne, kremasteryczny) i patologiczne (Babińskiego, Hoffmanna).
+**Odruchów** - odruchy głębokie (kolanowy, łokciowy, Achillesa), powierzchowne (brzuszne, kremasteryczny) i patologiczne (Babińskiego, Hoffmanna).
 
-**Funkcji wyższych** — pamięć, uwaga, język, praksje, gnozje (badanie neuropsychologiczne).
+**Funkcji wyższych** - pamięć, uwaga, język, praksje, gnozje (badanie neuropsychologiczne).
 
 > Mini-Mental State Examination (MMSE) i Montreal Cognitive Assessment (MoCA) to skale przesiewowe do oceny funkcji poznawczych, rutynowo stosowane w neurologii i psychiatrii geriatrycznej.
 
@@ -151,7 +151,7 @@ Standardowe badanie neurologiczne obejmuje ocenę:
 
 ### Udar mózgu
 
-Nagłe przerwanie przepływu krwi do mózgu. **Udar niedokrwienny** (80% przypadków) — zakrzep lub zator zamykający naczynie. **Udar krwotoczny** — pęknięcie naczynia i krwawienie wewnątrzmózgowe lub podpajęczynówkowe. Terapia trombolityczna (rtPA do 4,5 h) lub trombektomia mechaniczna (do 24 h). Zasada: *„Czas = mózg"* — każda minuta udaru to ~1,9 mln utraconych neuronów.
+Nagłe przerwanie przepływu krwi do mózgu. **Udar niedokrwienny** (80% przypadków) - zakrzep lub zator zamykający naczynie. **Udar krwotoczny** - pęknięcie naczynia i krwawienie wewnątrzmózgowe lub podpajęczynówkowe. Terapia trombolityczna (rtPA do 4,5 h) lub trombektomia mechaniczna (do 24 h). Zasada: *„Czas = mózg"* - każda minuta udaru to ~1,9 mln utraconych neuronów.
 
 ### Epilepsja
 
@@ -173,10 +173,10 @@ Najczęstsza przyczyna demencji (60–70% przypadków). Patologia: złogi amyloi
 
 Związek psychologii klinicznej z neurologią jest nierozerwalny. **Neuropsychologia kliniczna** zajmuje się oceną i rehabilitacją funkcji poznawczych po uszkodzeniach mózgu. Kliniczne pogranicza obejmują:
 
-- **Psychozy organiczne** — zaburzenia psychotyczne wtórne do chorób neurologicznych (np. pląsawica Huntingtona, guzy płata czołowego)
-- **Depresja poudarowa** — najczęstsze powikłanie psychiatryczne udaru (~30% przypadków)
-- **Zaburzenia somatoformiczne i funkcjonalne** — objawy neurologiczne bez uchwytnej przyczyny organicznej (np. funkcjonalne zaburzenia ruchowe)
-- **Neuropsychiatria epilepsji** — zaburzenia nastroju, psychozy iktalne i postiktalne
+- **Psychozy organiczne** - zaburzenia psychotyczne wtórne do chorób neurologicznych (np. pląsawica Huntingtona, guzy płata czołowego)
+- **Depresja poudarowa** - najczęstsze powikłanie psychiatryczne udaru (~30% przypadków)
+- **Zaburzenia somatoformiczne i funkcjonalne** - objawy neurologiczne bez uchwytnej przyczyny organicznej (np. funkcjonalne zaburzenia ruchowe)
+- **Neuropsychiatria epilepsji** - zaburzenia nastroju, psychozy iktalne i postiktalne
 
 > Neurologia i psychiatria przez dekady rozwijały się jako odrębne specjalności, lecz współczesna neuronauka nieustannie zaciera tę granicę. Wiele zaburzeń psychiatrycznych ma wyraźne korelaty neurologiczne i neurobiologiczne, a choroby neurologiczne niosą niemal zawsze wymiar psychologiczny.
 

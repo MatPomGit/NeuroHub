@@ -28,7 +28,7 @@ Monitoruj samokrytycyzm jako czynnik ryzyka nawrotu; łącz CBT z elementami CFT
 W rodzinie wzmacniaj komunikaty o funkcji i zdrowiu ciała, nie o „estetycznej ocenie”.
 
 ## Ocena jakości dowodów
-Dowody dla roli niezadowolenia z ciała są **silne**; dla krótkich interwencji psychoedukacyjnych bez pracy procesowej — **umiarkowane**.
+Dowody dla roli niezadowolenia z ciała są **silne**; dla krótkich interwencji psychoedukacyjnych bez pracy procesowej - **umiarkowane**.
 
 ## Podsumowanie
 Praca nad obrazem ciała to element rdzeniowy terapii, nie poboczny.

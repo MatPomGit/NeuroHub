@@ -6,23 +6,23 @@ evidenceCutoffDate: 2025-12-31
 
 # Interwencja kryzysowa
 
-Model interwencji kryzysowej — zasady, etapy postępowania i zasoby systemu pomocy.
+Model interwencji kryzysowej - zasady, etapy postępowania i zasoby systemu pomocy.
 
 ## Czym jest kryzys?
 
-*Kryzys psychologiczny* to stan ostrego zachwiania równowagi psychicznej wywołany zdarzeniem przeciążającym zasoby radzenia sobie jednostki. Kryzys jest przejściowy (zwykle 4–6 tygodni), ale intensywny — niesie zarówno ryzyko (samobójstwo, dezorganizacja) jak i szansę na wzrost i zmianę.
+*Kryzys psychologiczny* to stan ostrego zachwiania równowagi psychicznej wywołany zdarzeniem przeciążającym zasoby radzenia sobie jednostki. Kryzys jest przejściowy (zwykle 4–6 tygodni), ale intensywny - niesie zarówno ryzyko (samobójstwo, dezorganizacja) jak i szansę na wzrost i zmianę.
 
-> **Model Caplana** (1961): kryzys przebiega w fazach — od szoku przez narastanie napięcia po próbę nowych strategii lub dekompensację. Interwencja kryzysowa celuje w *najwęższym miejscu* sekwencji kryzysowej.
+> **Model Caplana** (1961): kryzys przebiega w fazach - od szoku przez narastanie napięcia po próbę nowych strategii lub dekompensację. Interwencja kryzysowa celuje w *najwęższym miejscu* sekwencji kryzysowej.
 
 ## Zasady interwencji kryzysowej
 
 Model 6-stopniowy (James i Gilliland):
-1. **Zdefiniowanie problemu** — jak pacjent postrzega sytuację;
-2. **Zapewnienie bezpieczeństwa** — ocena ryzyka, zabezpieczenie środków;
-3. **Udzielenie wsparcia** — empatia, normalizacja;
-4. **Zbadanie alternatyw** — niezbadane możliwości, zasoby;
-5. **Tworzenie planu** — konkretne kroki, plan bezpieczeństwa;
-6. **Uzyskanie zobowiązania** — kontrakt (umowa bezpieczeństwa, choć jej skuteczność jest dyskutowana).
+1. **Zdefiniowanie problemu** - jak pacjent postrzega sytuację;
+2. **Zapewnienie bezpieczeństwa** - ocena ryzyka, zabezpieczenie środków;
+3. **Udzielenie wsparcia** - empatia, normalizacja;
+4. **Zbadanie alternatyw** - niezbadane możliwości, zasoby;
+5. **Tworzenie planu** - konkretne kroki, plan bezpieczeństwa;
+6. **Uzyskanie zobowiązania** - kontrakt (umowa bezpieczeństwa, choć jej skuteczność jest dyskutowana).
 
 ## Plan bezpieczeństwa (Safety Planning)
 

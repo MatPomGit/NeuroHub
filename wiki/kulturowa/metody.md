@@ -11,12 +11,12 @@ evidenceCutoffDate: 2025-12-31
 Jednym z fundamentalnych dylematów metodologicznych w psychologii kulturowej i międzykulturowej jest pytanie: **czy badamy zjawiska psychiczne z perspektywy wewnętrznej danej kultury, czy z zewnętrznej, uroszczącej sobie prawo do uniwersalności?** Rozróżnienie to zostało sformalizowane przez językoznawcę Kennetha Pike'a (1954) w odniesieniu do analizy języka, a następnie zaadaptowane do nauk społecznych przez Marcvina Harrisa i Johna Berry'ego.
 
 Terminy pochodzą od sufiksów stosowanych w lingwistyce:
-- **-emic** (od *phonemic*) — analiza jednostek znaczących dla samych użytkowników systemu
-- **-etic** (od *phonetic*) — analiza z zewnętrznego, obiektywnego punktu widzenia
+- **-emic** (od *phonemic*) - analiza jednostek znaczących dla samych użytkowników systemu
+- **-etic** (od *phonetic*) - analiza z zewnętrznego, obiektywnego punktu widzenia
 
 ---
 
-## Podejście emic — perspektywa wewnątrzkulturowa
+## Podejście emic - perspektywa wewnątrzkulturowa
 
 Podejście **emic** zakłada, że konstrukty psychologiczne, normy i kategorie muszą być rozumiane **od wewnątrz** danej kultury. Badacz dąży do uchwycenia systemu znaczeń i klasyfikacji takim, jakim posługują się sami członkowie badanej społeczności.
 
@@ -29,11 +29,11 @@ Podejście **emic** zakłada, że konstrukty psychologiczne, normy i kategorie m
 
 ### Przykład
 
-Badając *amae* — japoński konstrukt opisujący zależność i poszukiwanie opieki u bliskich — podejście emic nakazuje najpierw zrozumieć, jak sami Japończycy przeżywają i opisują tę relację, zanim porówna się ją z konstruktami zachodnimi (np. przywiązaniem w sensie Bowlby'ego).
+Badając *amae* - japoński konstrukt opisujący zależność i poszukiwanie opieki u bliskich - podejście emic nakazuje najpierw zrozumieć, jak sami Japończycy przeżywają i opisują tę relację, zanim porówna się ją z konstruktami zachodnimi (np. przywiązaniem w sensie Bowlby'ego).
 
 ---
 
-## Podejście etic — perspektywa zewnątrzkulturowa
+## Podejście etic - perspektywa zewnątrzkulturowa
 
 Podejście **etic** zakłada, że istnieją **kategorie ponadkulturowe**, umożliwiające porównanie różnych społeczeństw za pomocą tych samych narzędzi. Badacz posługuje się konstruktami wypracowanymi poza badaną kulturą.
 
@@ -52,13 +52,13 @@ John Berry (1969, 1989) jako pierwszy wprowadził to rozróżnienie systematyczn
 
 | Typ | Opis |
 |---|---|
-| **Etic narzucony** (*imposed etic*) | Zastosowanie kategorii z jednej kultury (zwykle zachodniej) jako rzekomo uniwersalnych — metodologicznie błędne |
-| **Etic wyprowadzony** (*derived etic*) | Konstrukt wyprowadzony z analizy wielu kultur jako faktycznie wspólny — metodologicznie poprawny |
+| **Etic narzucony** (*imposed etic*) | Zastosowanie kategorii z jednej kultury (zwykle zachodniej) jako rzekomo uniwersalnych - metodologicznie błędne |
+| **Etic wyprowadzony** (*derived etic*) | Konstrukt wyprowadzony z analizy wielu kultur jako faktycznie wspólny - metodologicznie poprawny |
 | **Emic** | Konstrukt specyficzny dla jednej kultury, nieporównywalny bezpośrednio z innymi |
 
 ### Problem imposed etic
 
-Większość narzędzi psychologicznych powstaje w kulturze WEIRD (*Western, Educated, Industrialized, Rich, Democratic* — Henrich, Heine & Norenzayan, 2010). Badania pokazują, że ponad 96% próbek w wiodących czasopismach psychologicznych pochodzi z tych kultur, reprezentujących zaledwie 12% populacji świata. Stosowanie takich narzędzi w innych kontekstach bez weryfikacji ich trafności kulturowej jest przykładem *imposed etic*.
+Większość narzędzi psychologicznych powstaje w kulturze WEIRD (*Western, Educated, Industrialized, Rich, Democratic* - Henrich, Heine & Norenzayan, 2010). Badania pokazują, że ponad 96% próbek w wiodących czasopismach psychologicznych pochodzi z tych kultur, reprezentujących zaledwie 12% populacji świata. Stosowanie takich narzędzi w innych kontekstach bez weryfikacji ich trafności kulturowej jest przykładem *imposed etic*.
 
 ---
 
@@ -79,12 +79,12 @@ Weryfikację przeprowadza się metodami **konfirmacyjnej analizy czynnikowej** (
 
 ## Etnografia jako metoda emic
 
-Etnografia — intensywne, długotrwałe zanurzenie badacza w badanej społeczności — jest najpełniejszą realizacją podejścia emic. Jej elementy to:
+Etnografia - intensywne, długotrwałe zanurzenie badacza w badanej społeczności - jest najpełniejszą realizacją podejścia emic. Jej elementy to:
 
-- **Obserwacja uczestnicząca** — badacz staje się częścią badanej grupy
-- **Wywiad etnograficzny** — niestrukturyzowany, podążający za rozmówcą
-- **Notatki terenowe i dzienniki badacza** — rejestracja i refleksja
-- **Analiza artefaktów** — dokumenty, obiekty materialne, rytuały
+- **Obserwacja uczestnicząca** - badacz staje się częścią badanej grupy
+- **Wywiad etnograficzny** - niestrukturyzowany, podążający za rozmówcą
+- **Notatki terenowe i dzienniki badacza** - rejestracja i refleksja
+- **Analiza artefaktów** - dokumenty, obiekty materialne, rytuały
 
 Clifford Geertz (1973) wprowadził pojęcie **gęstego opisu** (*thick description*): zapis zachowania wzbogacony o sieć znaczeń, w jakie jest uwikłane.
 
@@ -94,9 +94,9 @@ Clifford Geertz (1973) wprowadził pojęcie **gęstego opisu** (*thick descripti
 
 Współczesna psychologia kulturowa coraz częściej stosuje **metody mieszane** (*mixed methods*), łącząc:
 
-1. Fazę emic — jakościową eksplorację konstruktów w danej kulturze
-2. Fazę etic — ilościową operacjonalizację i weryfikację porównywalności
-3. Interpretację zintegrowaną — wyjaśnienie zbieżności i rozbieżności wyników
+1. Fazę emic - jakościową eksplorację konstruktów w danej kulturze
+2. Fazę etic - ilościową operacjonalizację i weryfikację porównywalności
+3. Interpretację zintegrowaną - wyjaśnienie zbieżności i rozbieżności wyników
 
 Takie podejście minimalizuje ryzyko *imposed etic* przy zachowaniu możliwości porównań.
 

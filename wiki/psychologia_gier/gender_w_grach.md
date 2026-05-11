@@ -6,9 +6,9 @@ evidenceCutoffDate: 2025-12-31
 
 # Płeć i tożsamość w grach
 
-## Płeć w przestrzeni gier — zarys problemu
+## Płeć w przestrzeni gier - zarys problemu
 
-Przez dziesięciolecia gry wideo były postrzegane jako domena mężczyzn — zarówno pod względem graczy, twórców, jak i treści gier. Ten obraz jest jednak coraz mniej aktualny. Według danych ESA (Entertainment Software Association) z 2023 roku, w USA kobiety stanowią 48% graczy, a w Polsce odsetek kobiet grających regularnie przekracza 40%. Pomimo tego, kultura gamingowa wciąż zmaga się z nierównościami w reprezentacji, nasilonym nękaniem kobiet online i stereotypami dotyczącymi „prawdziwego gracza" (*gamer identity*).
+Przez dziesięciolecia gry wideo były postrzegane jako domena mężczyzn - zarówno pod względem graczy, twórców, jak i treści gier. Ten obraz jest jednak coraz mniej aktualny. Według danych ESA (Entertainment Software Association) z 2023 roku, w USA kobiety stanowią 48% graczy, a w Polsce odsetek kobiet grających regularnie przekracza 40%. Pomimo tego, kultura gamingowa wciąż zmaga się z nierównościami w reprezentacji, nasilonym nękaniem kobiet online i stereotypami dotyczącymi „prawdziwego gracza" (*gamer identity*).
 
 > **Fakt:** Kobiety grają głównie w inne gatunki niż mężczyźni: preferują gry casualowe, mobilne, puzzle, simulation i narracyjne RPG. Mężczyźni dominują w grach FPS, MOBA i esportowych. Te różnice mają zarówno biologiczne, jak i społeczne uwarunkowania.
 
@@ -36,7 +36,7 @@ Typowe preferencje graczek:
 
 Te różnice mają wieloczynnikowe uwarunkowania:
 
-- **Socjalizacja**: chłopcy są zachęcani do grania w gry rywalizacyjne, dziewczynki — w gry kooperacyjne i towarzyskie
+- **Socjalizacja**: chłopcy są zachęcani do grania w gry rywalizacyjne, dziewczynki - w gry kooperacyjne i towarzyskie
 - **Marketing**: historycznie gry były reklamowane z targetem na mężczyzn
 - **Kultura środowiska**: toksyczne i nieprzyjazne dla kobiet środowiska online zniechęcają do udziału w grach kompetytywnych
 - **Różnice biologiczne**: badania sugerują, że preferencje dla rywalizacji vs. kooperacji mają częściowe podłoże biologiczne, choć efekty te są małe i moderowane przez kulturę
@@ -47,7 +47,7 @@ Te różnice mają wieloczynnikowe uwarunkowania:
 
 Historycznie kobiety były w grach wideo nieobecne lub przedstawiane stereotypowo:
 
-- **Damsel in distress** (kobieta w niebezpieczeństwie): Księżniczka Peach, Zelda — cel do uratowania, nie protagonistka
+- **Damsel in distress** (kobieta w niebezpieczeństwie): Księżniczka Peach, Zelda - cel do uratowania, nie protagonistka
 - **Sexualizacja**: Lara Croft w pierwotnej formie, bojowe kostiumy odsłaniające ciało, nierealistyczne proporcje
 - **Drugoplanowość**: kobiety jako postacie poboczne, nagrody, tło
 
@@ -58,13 +58,13 @@ Jednak ostatnie dwie dekady przyniosły wyraźne zmiany. Pojawiły się złożon
 - Kassandra z *Assassin's Creed Odyssey*: historycznie zakorzeniona protagonistka
 - 2B z *NieR: Automata*: postać eksplorująca tematy tożsamości i człowieczeństwa
 
-> **Fakt:** Badanie Anity Sarkeesian (Feminist Frequency, 2012) dokumentujące seksizm w grach wideo wywołało burzę medialną (#GamerGate w 2014 roku) — jeden z najbardziej toksycznych epizodów w historii kultury gamingowej.
+> **Fakt:** Badanie Anity Sarkeesian (Feminist Frequency, 2012) dokumentujące seksizm w grach wideo wywołało burzę medialną (#GamerGate w 2014 roku) - jeden z najbardziej toksycznych epizodów w historii kultury gamingowej.
 
 ## GamerGate i kultura toksyczności wobec kobiet
 
-W 2014 roku internet zaszokował tzw. **GamerGate** — zorganizowana kampania nękania skierowana przeciwko kobietom w branży gier (głównie developerkom i krytyczkom). Setki kobiet otrzymywały groźby śmierci, doxxing (publikacja prywatnych danych) i obsceniczne wiadomości. Kampania była prowadzona pod pretekstem obrony „integralności dziennikarstwa gamingowego", ale w rzeczywistości była próbą wyparcia kobiet ze wspólnoty gamingowej.
+W 2014 roku internet zaszokował tzw. **GamerGate** - zorganizowana kampania nękania skierowana przeciwko kobietom w branży gier (głównie developerkom i krytyczkom). Setki kobiet otrzymywały groźby śmierci, doxxing (publikacja prywatnych danych) i obsceniczne wiadomości. Kampania była prowadzona pod pretekstem obrony „integralności dziennikarstwa gamingowego", ale w rzeczywistości była próbą wyparcia kobiet ze wspólnoty gamingowej.
 
-GamerGate ujawnił głęboko zakorzenioną niechęć części społeczności graczy do zmieniającej się demografii i kultury gier. Miał też poważne konsekwencje dla zdrowia psychicznego ofiar — badania dokumentują PTSD, depresję i lęk u wielu z nich.
+GamerGate ujawnił głęboko zakorzenioną niechęć części społeczności graczy do zmieniającej się demografii i kultury gier. Miał też poważne konsekwencje dla zdrowia psychicznego ofiar - badania dokumentują PTSD, depresję i lęk u wielu z nich.
 
 ## Nękanie kobiet w grach online
 
@@ -89,7 +89,7 @@ Wybór awatara (postaci) w grach jest psychologicznie znaczącym aktem. Badania 
 - Większość graczy wybiera awatara tej samej płci co własna
 - Osoby niezadowolone ze swojego ciała częściej tworzą idealizowane awatary
 - Awatary inne płci niż własna są częściej tworzone przez osoby eksplorujące tożsamość płciową
-- Efekt Proteusza: awatar wpływa na zachowanie gracza — gracze atrakcyjnych, wysokich awatarów wykazują bardziej pewne siebie zachowania nawet po graniu
+- Efekt Proteusza: awatar wpływa na zachowanie gracza - gracze atrakcyjnych, wysokich awatarów wykazują bardziej pewne siebie zachowania nawet po graniu
 
 ### Queer gaming i niebinarna tożsamość
 
@@ -108,7 +108,7 @@ Gry stały się ważną przestrzenią dla osób LGBTQ+ do eksploracji i wyrażan
 
 Zuza zgłosiła się do psychologa szkolnego po tym, jak zaczęła unikać szkoły z powodu niepokoju społecznego. W trakcie rozmowy ujawniła, że gra w gry RPG online i tworzy tam postać mężczyzny. Psycholog z ciekawością (bez zakładania z góry) zapytał o to doświadczenie. Zuza wyjaśniła, że „jako chłopak w grze" czuje się znacznie mniej oceniana za wygląd i bardziej akceptowana w grupie gracków. Dalsze rozmowy ujawniły, że Zuza jest niepewna swojej tożsamości płciowej i używa gier jako bezpiecznej przestrzeni do eksploracji. Psycholog skierował ją do specjalisty ds. tożsamości płciowej, podkreślając, że korzystanie z gier do eksploracji tożsamości jest normalnym zjawiskiem.
 
-## Zmieniający się krajobraz — w kierunku inkluzywności
+## Zmieniający się krajobraz - w kierunku inkluzywności
 
 Branża gier wideo stopniowo staje się bardziej inkluzywna, choć proces ten jest nierówny i spotyka się z oporem:
 

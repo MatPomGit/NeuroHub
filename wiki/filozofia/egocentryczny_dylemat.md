@@ -8,7 +8,7 @@ evidenceCutoffDate: 2025-12-31
 
 ## Definicja pojęcia i geneza problemu
 
-**Egocentryczny dylemat** to problem epistemologiczny mówiący, że każdy podmiot poznający startuje „od siebie” — od własnych przeżyć, interpretacji i mechanizmów nerwowych — a dopiero potem wnioskuje o istnieniu i naturze świata zewnętrznego. W tym sensie poznanie ma strukturę asymetryczną: **bezpośrednio dane są stany podmiotu, a nie rzeczywistość niezależna od podmiotu**.
+**Egocentryczny dylemat** to problem epistemologiczny mówiący, że każdy podmiot poznający startuje „od siebie” - od własnych przeżyć, interpretacji i mechanizmów nerwowych - a dopiero potem wnioskuje o istnieniu i naturze świata zewnętrznego. W tym sensie poznanie ma strukturę asymetryczną: **bezpośrednio dane są stany podmiotu, a nie rzeczywistość niezależna od podmiotu**.
 
 Źródeł problemu można szukać już u starożytnych sceptyków, ale nowożytną postać nadały mu:
 
@@ -36,7 +36,7 @@ Główny argument można zapisać krokowo:
 
 1. Każde doświadczenie świadome jest realizowane przez układ nerwowy podmiotu.
 2. Podmiot ma bezpośredni dostęp jedynie do treści doświadczenia (fenomenów, reprezentacji), nie do zewnętrznych przyczyn „samych w sobie”.
-3. Te same treści doświadczenia mogą być — przynajmniej logicznie — wygenerowane przez różne konfiguracje przyczyn (świat realny, halucynacja, symulacja, manipulacja sensoryczna).
+3. Te same treści doświadczenia mogą być - przynajmniej logicznie - wygenerowane przez różne konfiguracje przyczyn (świat realny, halucynacja, symulacja, manipulacja sensoryczna).
 4. Zatem nie da się uzyskać **logicznie domkniętej, absolutnej pewności** co do faktów o świecie zewnętrznym wyłącznie na podstawie doświadczenia.
 
 Wniosek: podmiot jako „mózg w czaszce” nie dysponuje dostępem, który dawałby apodyktyczną pewność metafizyczną. Może natomiast budować wiedzę stopniowalną i korygowalną.

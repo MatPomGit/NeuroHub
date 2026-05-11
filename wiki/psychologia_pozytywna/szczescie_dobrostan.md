@@ -16,9 +16,9 @@ Współczesna psychologia odchodzi od redukowania zdrowia psychicznego do braku 
 
 W literaturze rozróżnia się:
 
-- **stanowe poczucie szczęścia (state happiness)** — chwilowy poziom pozytywnego afektu,
-- **cechowe poczucie szczęścia (trait happiness)** — względnie stabilna dyspozycja,
-- **dobrostan globalny** — wynik integracji procesów emocjonalnych, poznawczych, społecznych i egzystencjalnych.
+- **stanowe poczucie szczęścia (state happiness)** - chwilowy poziom pozytywnego afektu,
+- **cechowe poczucie szczęścia (trait happiness)** - względnie stabilna dyspozycja,
+- **dobrostan globalny** - wynik integracji procesów emocjonalnych, poznawczych, społecznych i egzystencjalnych.
 
 To rozróżnienie jest kluczowe metodologicznie, ponieważ różne narzędzia mierzą odmienne poziomy analizy.
 
@@ -54,7 +54,7 @@ Model jest szczególnie użyteczny w interwencjach, ponieważ umożliwia profilo
 
 Poniżej przedstawiono najczęściej stosowane narzędzia samoopisowe. W praktyce naukowej rekomenduje się łączenie co najmniej dwóch skal z różnych tradycji (hedonistycznej i eudajmonistycznej), aby ograniczyć błąd redukcjonizmu pomiarowego.
 
-## 3.1. SWLS — Satisfaction With Life Scale
+## 3.1. SWLS - Satisfaction With Life Scale
 
 **Autorzy:** Diener i wsp.  
 **Cel:** poznawcza ocena satysfakcji z życia.  
@@ -72,7 +72,7 @@ Poniżej przedstawiono najczęściej stosowane narzędzia samoopisowe. W praktyc
 - nie mierzy bezpośrednio afektu,
 - wyniki mogą być zależne od aktualnego kontekstu porównań społecznych.
 
-## 3.2. PANAS — Positive and Negative Affect Schedule
+## 3.2. PANAS - Positive and Negative Affect Schedule
 
 **Autorzy:** Watson, Clark, Tellegen.  
 **Cel:** pomiar dwóch względnie niezależnych wymiarów afektu: pozytywnego i negatywnego.  
@@ -89,7 +89,7 @@ Poniżej przedstawiono najczęściej stosowane narzędzia samoopisowe. W praktyc
 - nie obejmuje satysfakcji z życia i sensu,
 - przy wysokim zmęczeniu respondentów wzrasta ryzyko odpowiedzi schematycznych.
 
-## 3.3. SHS — Subjective Happiness Scale
+## 3.3. SHS - Subjective Happiness Scale
 
 **Autor:** Lyubomirsky, Lepper.  
 **Cel:** globalna, subiektywna ocena własnego szczęścia.  
@@ -105,7 +105,7 @@ Poniżej przedstawiono najczęściej stosowane narzędzia samoopisowe. W praktyc
 - wysoki poziom ogólności,
 - mniejsza zdolność różnicowania poszczególnych komponentów dobrostanu.
 
-## 3.4. OHQ — Oxford Happiness Questionnaire
+## 3.4. OHQ - Oxford Happiness Questionnaire
 
 **Cel:** szeroki pomiar szczęścia psychologicznego (afekt, satysfakcja, poczucie energii i sprawstwa).  
 **Struktura:** wersja pełna jest relatywnie obszerna.
@@ -135,7 +135,7 @@ Poniżej przedstawiono najczęściej stosowane narzędzia samoopisowe. W praktyc
 - ograniczony zakres treści eudajmonistycznych,
 - wynik może być silnie zależny od bieżącego obciążenia stresem.
 
-## 3.6. WEMWBS — Warwick-Edinburgh Mental Well-Being Scale
+## 3.6. WEMWBS - Warwick-Edinburgh Mental Well-Being Scale
 
 **Cel:** pomiar pozytywnego zdrowia psychicznego (zarówno elementów hedonistycznych, jak i częściowo eudajmonistycznych).  
 **Struktura:** wersja pełna i skrócona.
@@ -149,7 +149,7 @@ Poniżej przedstawiono najczęściej stosowane narzędzia samoopisowe. W praktyc
 
 - narzędzie ogólne; przy diagnozie klinicznej zwykle wymaga uzupełnienia innymi skalami.
 
-## 3.7. MHC-SF — Mental Health Continuum-Short Form
+## 3.7. MHC-SF - Mental Health Continuum-Short Form
 
 **Autor:** Keyes.  
 **Cel:** pomiar dobrostanu emocjonalnego, psychologicznego i społecznego (flourishing vs languishing).  
@@ -239,14 +239,14 @@ Poczucie szczęścia i ogólny dobrostan psychiczny to konstrukty złożone, wym
 
 ## Bibliografia orientacyjna
 
-- Diener i wsp. — subjective well-being i SWLS.
-- Watson, Clark, Tellegen — PANAS.
-- Lyubomirsky, Lepper — SHS.
-- Ryff — Psychological Well-Being Scales.
-- Keyes — Mental Health Continuum.
-- Seligman — PERMA i PERMA-Profiler.
-- Tennant i wsp. — WEMWBS.
-- Topp i wsp. — WHO-5.
+- Diener i wsp. - subjective well-being i SWLS.
+- Watson, Clark, Tellegen - PANAS.
+- Lyubomirsky, Lepper - SHS.
+- Ryff - Psychological Well-Being Scales.
+- Keyes - Mental Health Continuum.
+- Seligman - PERMA i PERMA-Profiler.
+- Tennant i wsp. - WEMWBS.
+- Topp i wsp. - WHO-5.
 
 > Uwaga redakcyjna: bibliografia ma charakter orientacyjny i może zostać rozwinięta o pełne opisy w standardzie APA w kolejnej aktualizacji.
 

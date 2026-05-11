@@ -6,7 +6,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Inteligencja emocjonalna
 
-**Inteligencja emocjonalna** (IE) to zdolność do rozpoznawania, rozumienia, zarządzania i skutecznego wykorzystywania emocji — zarówno własnych, jak i innych ludzi. Od lat 90. XX wieku stała się jednym z najszerzej badanych konstruktów w psychologii różnic indywidualnych.
+**Inteligencja emocjonalna** (IE) to zdolność do rozpoznawania, rozumienia, zarządzania i skutecznego wykorzystywania emocji - zarówno własnych, jak i innych ludzi. Od lat 90. XX wieku stała się jednym z najszerzej badanych konstruktów w psychologii różnic indywidualnych.
 
 ## Historia konceptu
 
@@ -16,7 +16,7 @@ Termin **inteligencja emocjonalna** wprowadzili formalnie Peter Salovey i John D
 
 > *zdolność do monitorowania własnych i cudzych uczuć oraz emocji, rozróżniania ich i wykorzystywania tej informacji do kierowania myśleniem i działaniem*
 
-Wcześniej Gardner (1983) wyróżnił *inteligencję intrapersonalną* i *interpersonalną* w teorii inteligencji wielorakich — były to koncepcje pokrewne, lecz nie tożsame z IE.
+Wcześniej Gardner (1983) wyróżnił *inteligencję intrapersonalną* i *interpersonalną* w teorii inteligencji wielorakich - były to koncepcje pokrewne, lecz nie tożsame z IE.
 
 ### Popularyzacja: Goleman (1995)
 
@@ -24,7 +24,7 @@ Daniel Goleman w bestsellerze *Emotional Intelligence: Why It Can Matter More Th
 
 ## Model 4-gałęziowy Mayera-Saloveya-Caruso
 
-Najściślej empiryczny model IE — **MSCEIT** — zakłada hierarchię czterech zdolności:
+Najściślej empiryczny model IE - **MSCEIT** - zakłada hierarchię czterech zdolności:
 
 | Gałąź | Opis | Przykład |
 |---|---|---|
@@ -33,17 +33,17 @@ Najściślej empiryczny model IE — **MSCEIT** — zakłada hierarchię czterec
 | **3. Rozumienie emocji** | Wiedza o dynamice i przyczynach emocji | Rozumienie, że zazdrość wynika z zagrożenia relacji |
 | **4. Zarządzanie emocjami** | Regulowanie własnych i cudzych emocji w celach adaptacyjnych | Uspokajanie się przed ważną rozmową |
 
-Gałęzie ułożone są **od niższych do wyższych** — percepcja jest fundamentem, zarządzanie szczytem hierarchii.
+Gałęzie ułożone są **od niższych do wyższych** - percepcja jest fundamentem, zarządzanie szczytem hierarchii.
 
 ## Model mieszany Golemana
 
 Goleman proponuje **pięć obszarów** IE, które łączą zdolności poznawcze z cechami osobowości:
 
-1. **Samoświadomość** (*self-awareness*) — rozpoznawanie własnych emocji i ich wpływu na zachowanie
-2. **Samoregulacja** (*self-regulation*) — kontrola impulsów, elastyczność, sumienność
-3. **Motywacja** (*motivation*) — napęd do osiągnięć, optymizm, zaangażowanie
-4. **Empatia** (*empathy*) — rozumienie emocji innych, wrażliwość społeczna
-5. **Umiejętności społeczne** (*social skills*) — zarządzanie relacjami, przywództwo, perswazja
+1. **Samoświadomość** (*self-awareness*) - rozpoznawanie własnych emocji i ich wpływu na zachowanie
+2. **Samoregulacja** (*self-regulation*) - kontrola impulsów, elastyczność, sumienność
+3. **Motywacja** (*motivation*) - napęd do osiągnięć, optymizm, zaangażowanie
+4. **Empatia** (*empathy*) - rozumienie emocji innych, wrażliwość społeczna
+5. **Umiejętności społeczne** (*social skills*) - zarządzanie relacjami, przywództwo, perswazja
 
 Krytycy wskazują, że model Golemana **miesza zdolności z cechami temperamentu** i jest trudniejszy do operacjonalizacji naukowo.
 
@@ -51,17 +51,17 @@ Krytycy wskazują, że model Golemana **miesza zdolności z cechami temperamentu
 
 ### MSCEIT (Mayer-Salovey-Caruso Emotional Intelligence Test)
 
-Test zdolnościowy — najlepiej osadzony empirycznie. Oceniane są rzeczywiste wyniki w zadaniach emocjonalnych (np. dopasowanie emocji do twarzy, przewidywanie zmian emocjonalnych). Normalizowany na próbie ogólnopopulacyjnej.
+Test zdolnościowy - najlepiej osadzony empirycznie. Oceniane są rzeczywiste wyniki w zadaniach emocjonalnych (np. dopasowanie emocji do twarzy, przewidywanie zmian emocjonalnych). Normalizowany na próbie ogólnopopulacyjnej.
 
 ### EQ-i (Emotional Quotient Inventory, Bar-On)
 
-Narzędzie samoopisowe — 133 pytania w 15 skalach pogrupowanych w pięć składowych: intrapersonalne, interpersonalne, adaptacyjność, radzenie sobie ze stresem, nastrój ogólny. Szeroko stosowane w rekrutacji i coachingu.
+Narzędzie samoopisowe - 133 pytania w 15 skalach pogrupowanych w pięć składowych: intrapersonalne, interpersonalne, adaptacyjność, radzenie sobie ze stresem, nastrój ogólny. Szeroko stosowane w rekrutacji i coachingu.
 
 ### Inne narzędzia
 
-- **TMMS** (Trait Meta-Mood Scale) — samoopis aspektów emocjonalnych
+- **TMMS** (Trait Meta-Mood Scale) - samoopis aspektów emocjonalnych
 - **SREIS** (Self-Report Emotional Intelligence Scale)
-- **WLEIS** (Wong & Law Emotional Intelligence Scale) — 16 itemów, popularne w badaniach organizacyjnych
+- **WLEIS** (Wong & Law Emotional Intelligence Scale) - 16 itemów, popularne w badaniach organizacyjnych
 
 ## IE a wyniki w pracy i relacjach
 
@@ -75,7 +75,7 @@ Metaanalizy (Van Rooy & Viswesvaran, 2004; Joseph & Newman, 2010) wykazały:
 ### Relacje interpersonalne
 
 - Wyższa IE wiąże się z **większą satysfakcją ze związku** i lepszą komunikacją w parze
-- Osoby z wysoką IE sprawniej rozwiązują konflikty — rzadziej uciekają się do eskalacji lub unikania
+- Osoby z wysoką IE sprawniej rozwiązują konflikty - rzadziej uciekają się do eskalacji lub unikania
 - IE koreluje z **empatią afektywną** i trafnością odczytywania stanów emocjonalnych innych
 
 ### Zdrowie i dobrostan
@@ -100,14 +100,14 @@ Locke (2005) i Landy (2005) opublikowali wpływowe krytyki wskazując, że IE je
 
 ### Programy SEL (Social-Emotional Learning)
 
-W szkołach wdrażane są programy rozwijające kompetencje emocjonalne — np. **PATHS** (Promoting Alternative THinking Strategies), **Second Step**, **KiVa** (program antybullyingowy). Metaanalizy (Durlak i in., 2011) wskazują na efekty SEL w:
+W szkołach wdrażane są programy rozwijające kompetencje emocjonalne - np. **PATHS** (Promoting Alternative THinking Strategies), **Second Step**, **KiVa** (program antybullyingowy). Metaanalizy (Durlak i in., 2011) wskazują na efekty SEL w:
 - Poprawie klimatu klasy i wyników akademickich
 - Redukcji zachowań eksternalizacyjnych
 - Wzroście umiejętności społecznych
 
 ### Rola rodziców
 
-Badania wykazują, że **emocjonalna responsywność rodziców** i ekspresja emocjonalna w rodzinie są silnymi predyktorami IE dzieci. Coaching emocjonalny (Gottman) vs. odrzucanie lub minimalizowanie emocji dzieci — wyraźne różnice w rozwoju regulacji emocjonalnej.
+Badania wykazują, że **emocjonalna responsywność rodziców** i ekspresja emocjonalna w rodzinie są silnymi predyktorami IE dzieci. Coaching emocjonalny (Gottman) vs. odrzucanie lub minimalizowanie emocji dzieci - wyraźne różnice w rozwoju regulacji emocjonalnej.
 
 ### IE a nauczyciele
 

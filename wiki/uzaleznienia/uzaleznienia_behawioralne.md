@@ -8,7 +8,7 @@ evidenceCutoffDate: 2025-12-31
 
 ## Wprowadzenie
 
-Przez dekady „uzależnienie" było utożsamiane wyłącznie z zależnością od substancji psychoaktywnych. Jednak obserwacje kliniczne i badania neurobiologiczne stopniowo ujawniały, że pewne zachowania — hazard, gry komputerowe, zakupy, seks, praca — mogą angażować te same mechanizmy mózgowe co narkotyki i prowadzić do wzorców funkcjonowania spełniających kryteria uzależnienia. Tak zrodziła się koncepcja **uzależnień behawioralnych** (*behavioral addictions*, *process addictions*).
+Przez dekady „uzależnienie" było utożsamiane wyłącznie z zależnością od substancji psychoaktywnych. Jednak obserwacje kliniczne i badania neurobiologiczne stopniowo ujawniały, że pewne zachowania - hazard, gry komputerowe, zakupy, seks, praca - mogą angażować te same mechanizmy mózgowe co narkotyki i prowadzić do wzorców funkcjonowania spełniających kryteria uzależnienia. Tak zrodziła się koncepcja **uzależnień behawioralnych** (*behavioral addictions*, *process addictions*).
 
 ---
 
@@ -17,8 +17,8 @@ Przez dekady „uzależnienie" było utożsamiane wyłącznie z zależnością o
 **Uzależnienie behawioralne** to stan, w którym powtarzające się angażowanie w określone zachowanie (aktywność nagradzającą) przejmuje kontrolę nad życiem jednostki, mimo negatywnych konsekwencji. Charakteryzuje się:
 
 - **Utratą kontroli** nad częstotliwością i intensywnością zachowania
-- **Nasileniem** — potrzebą coraz intensywniejszych bodźców (tolerancja)
-- **Głodem** (*craving*) — przymusem podjęcia zachowania
+- **Nasileniem** - potrzebą coraz intensywniejszych bodźców (tolerancja)
+- **Głodem** (*craving*) - przymusem podjęcia zachowania
 - **Negatywnym afektem** przy próbie powstrzymania się (odpowiednik abstynencji)
 - **Kontynuowaniem** mimo szkód w relacjach, pracy, zdrowiu
 
@@ -47,7 +47,7 @@ Prevalencja: 0,5–3% populacji dorosłych; wyższy wskaźnik u mężczyzn. Haza
 
 ---
 
-## Uzależnienie od gier wideo — *gaming disorder*
+## Uzależnienie od gier wideo - *gaming disorder*
 
 **Zaburzenie gier** (*gaming disorder*, ICD-11, 6C51) charakteryzuje się:
 - Osłabioną kontrolą nad graniem (czas, intensywność, częstotliwość)
@@ -55,7 +55,7 @@ Prevalencja: 0,5–3% populacji dorosłych; wyższy wskaźnik u mężczyzn. Haza
 - Kontynuowaniem mimo negatywnych konsekwencji
 - Trwanie 12 miesięcy (lub krócej przy ciężkim nasileniu)
 
-Debata akademicka jest żywa — Ferguson (2017) i inni krytycy wskazują na:
+Debata akademicka jest żywa - Ferguson (2017) i inni krytycy wskazują na:
 - Brak spójnych kryteriów w badaniach
 - Ryzyko patologizowania normalnego hobby
 - Korelaty zaburzenia (depresja, ADHD) mogą być pierwotne, nie wtórne
@@ -65,7 +65,7 @@ Debata akademicka jest żywa — Ferguson (2017) i inni krytycy wskazują na:
 
 ## Zakupoholizm
 
-**Kompulsywne kupowanie** (*compulsive buying disorder*) — szacowana prevalencja 5–8% w krajach zachodnich. Cechy:
+**Kompulsywne kupowanie** (*compulsive buying disorder*) - szacowana prevalencja 5–8% w krajach zachodnich. Cechy:
 
 - Natrętne myśli o zakupach; uczucie ulgi lub euforii podczas kupowania
 - Kupowanie jako regulacja emocji negatywnych
@@ -78,7 +78,7 @@ Zakupoholizm jest silnie powiązany z materializmem, depresją i lękiem. Wyró�
 
 ## Pracoholizm
 
-**Pracoholizm** to nadmierne, przymusowe zaangażowanie w pracę, nieproporcjonalne do wymagań zawodowych i szkodliwe dla innych obszarów życia. Różni się od zaangażowania pracowniczego (*work engagement*) — pracoholicy nie odczuwają przyjemności z pracy, lecz niepokój gdy nie pracują.
+**Pracoholizm** to nadmierne, przymusowe zaangażowanie w pracę, nieproporcjonalne do wymagań zawodowych i szkodliwe dla innych obszarów życia. Różni się od zaangażowania pracowniczego (*work engagement*) - pracoholicy nie odczuwają przyjemności z pracy, lecz niepokój gdy nie pracują.
 
 Skala WorkBAT (Spence & Robbins, 1992) mierzy trzy wymiary:
 1. **Zaangażowanie** (*work involvement*)
@@ -107,12 +107,12 @@ Należy odróżnić CSBD od **hiperseksualności** jako objawu choroby afektywne
 Choć nie ma formalnego statusu diagnostycznego, **problematyczne używanie mediów społecznościowych** (*PSMU*) spełnia kryteria behawioralne uzależnienia:
 
 - Nadmierne zaangażowanie (scrollowanie przez kilka godzin)
-- Głód — dyskomfort bez dostępu
+- Głód - dyskomfort bez dostępu
 - Negatywny afekt przy próbie rezygnacji
 - Konflikty z bliskimi, zaniedbywanie obowiązków
 - Poczucie winy i niemożność kontroli
 
-Powiązanie z dobrostanem jest jednak nieliniowe: niektóre badania wskazują krzywolinijną zależność — umiarkowane używanie mediów nie jest szkodliwe, a może być korzystne.
+Powiązanie z dobrostanem jest jednak nieliniowe: niektóre badania wskazują krzywolinijną zależność - umiarkowane używanie mediów nie jest szkodliwe, a może być korzystne.
 
 ---
 
@@ -133,9 +133,9 @@ Powiązanie z dobrostanem jest jednak nieliniowe: niektóre badania wskazują kr
 
 W diagnozie uzależnień behawioralnych należy wykluczyć lub uwzględnić:
 
-1. **Zaburzenia pierwotne** — ADHD, OCD, choroba afektywna dwubiegunowa jako etiologia
-2. **Nasilenie** — intensywne zaangażowanie nie jest patologią; kryterium jest utrata kontroli i szkody
-3. **Kontekst kulturowy** — intensywne granie w Azji Wschodniej ma inny kontekst społeczny niż na Zachodzie
+1. **Zaburzenia pierwotne** - ADHD, OCD, choroba afektywna dwubiegunowa jako etiologia
+2. **Nasilenie** - intensywne zaangażowanie nie jest patologią; kryterium jest utrata kontroli i szkody
+3. **Kontekst kulturowy** - intensywne granie w Azji Wschodniej ma inny kontekst społeczny niż na Zachodzie
 4. **Narzędzia przesiewowe**: Bergen Work Addiction Scale, Internet Gaming Disorder Scale, Yale-Brown Obsessive Compulsive Scale (modyfikacje dla zachowań)
 
 ---

@@ -4,17 +4,17 @@ reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
 
-# Terapia par — metody i skuteczność
+# Terapia par - metody i skuteczność
 
 ## Wprowadzenie
 
-Terapia par to wyspecjalizowana forma psychoterapii, w której jednostką leczenia jest **diad — para jako system relacyjny**, a nie indywidualny pacjent. Jej celem jest poprawa komunikacji, rozwiązywanie konfliktów, odbudowa intymności lub — w niektórych przypadkach — ułatwienie świadomego zakończenia związku. Szacuje się, że ok. 25–35% par korzystających z terapii odnosi znaczącą poprawę (*Shadish & Baldwin, 2003*), jednak wyniki silnie zależą od podejścia terapeutycznego i gotowości obu partnerów.
+Terapia par to wyspecjalizowana forma psychoterapii, w której jednostką leczenia jest **diad - para jako system relacyjny**, a nie indywidualny pacjent. Jej celem jest poprawa komunikacji, rozwiązywanie konfliktów, odbudowa intymności lub - w niektórych przypadkach - ułatwienie świadomego zakończenia związku. Szacuje się, że ok. 25–35% par korzystających z terapii odnosi znaczącą poprawę (*Shadish & Baldwin, 2003*), jednak wyniki silnie zależą od podejścia terapeutycznego i gotowości obu partnerów.
 
 ---
 
 ## Główne podejścia terapeutyczne
 
-### 1. Emotionally Focused Therapy (EFT) — Johnson
+### 1. Emotionally Focused Therapy (EFT) - Johnson
 
 **Twórca:** Sue Johnson (University of Ottawa), lata 80. XX w.
 
@@ -28,7 +28,7 @@ Terapia par to wyspecjalizowana forma psychoterapii, w której jednostką leczen
 | **2. Restrukturyzacja** | tworzenie nowych wzorców dostępności i bliskości | stymulowanie „zdarzeń przywiązaniowych", konstruowanie dialogu emocjonalnego |
 | **3. Konsolidacja** | utrwalenie zmian, integracja nowych wzorców | praca nad codziennymi interakcjami, prewencja nawrotu |
 
-**Skuteczność:** Meta-analiza Johnsin i in. (1999) — 70–73% par osiąga odzysk (recovery), 90% wykazuje znaczącą poprawę. Efekty utrzymują się 2 lata po zakończeniu terapii.
+**Skuteczność:** Meta-analiza Johnsin i in. (1999) - 70–73% par osiąga odzysk (recovery), 90% wykazuje znaczącą poprawę. Efekty utrzymują się 2 lata po zakończeniu terapii.
 
 ---
 
@@ -49,29 +49,29 @@ Terapia par to wyspecjalizowana forma psychoterapii, w której jednostką leczen
 
 ---
 
-### 3. Integrative Behavioral Couple Therapy (IBCT) — Christensen i Jacobson
+### 3. Integrative Behavioral Couple Therapy (IBCT) - Christensen i Jacobson
 
 **Twórcy:** Neil Jacobson i Andrew Christensen, rozwinięcie tradycyjnej TBCT.
 
-**Filozofia:** IBCT łączy **akceptację** z tradycyjną modyfikacją zachowania. Twórcy zaobserwowali, że nacisk wyłącznie na zmianę zachowania (TBCT) prowadził do nawrotów — brakowało elementu akceptacji różnic.
+**Filozofia:** IBCT łączy **akceptację** z tradycyjną modyfikacją zachowania. Twórcy zaobserwowali, że nacisk wyłącznie na zmianę zachowania (TBCT) prowadził do nawrotów - brakowało elementu akceptacji różnic.
 
 **Dwa filary:**
-1. **Unified Detachment** — para ogląda konflikt jak problem zewnętrzny, wspólnie analizowany
-2. **Empathic Joining** — wyrażanie miękkich, pierwotnych emocji zamiast twardych żądań
+1. **Unified Detachment** - para ogląda konflikt jak problem zewnętrzny, wspólnie analizowany
+2. **Empathic Joining** - wyrażanie miękkich, pierwotnych emocji zamiast twardych żądań
 
 **Skuteczność:** RCT Christensena i in. (2004, N=134 par, 5 lat obserwacji): IBCT i TBCT dają podobną poprawę w ciągu roku, ale IBCT wykazuje **lepsze utrzymanie efektów** po 5 latach (69% vs. 60% utrzymuje zyski terapeutyczne).
 
 ---
 
-### 4. PREP — Prevention and Relationship Enhancement Program
+### 4. PREP - Prevention and Relationship Enhancement Program
 
 **Twórcy:** Howard Markman, Scott Stanley, Lydia Prado.
 
-**Cel:** **prewencja** problemów relacyjnych, a nie tylko ich leczenie — skierowany do par planujących ślub lub we wczesnym etapie związku.
+**Cel:** **prewencja** problemów relacyjnych, a nie tylko ich leczenie - skierowany do par planujących ślub lub we wczesnym etapie związku.
 
 **Format:** ustrukturyzowany program warsztatowy (12–15 godzin), uczący umiejętności komunikacyjnych.
 
-**Skuteczność:** Meta-analiza Hawkins i in. (2008) — PREP redukuje wskaźniki rozwodów o ok. 30% w ciągu 5 lat w porównaniu z grupą kontrolną.
+**Skuteczność:** Meta-analiza Hawkins i in. (2008) - PREP redukuje wskaźniki rozwodów o ok. 30% w ciągu 5 lat w porównaniu z grupą kontrolną.
 
 ---
 
@@ -87,7 +87,7 @@ Terapia par to wyspecjalizowana forma psychoterapii, w której jednostką leczen
 
 ---
 
-## Dowody empiryczne — meta-analiza Shadisha i Baldwina
+## Dowody empiryczne - meta-analiza Shadisha i Baldwina
 
 Shadish i Baldwin (2003) przeprowadzili przełomową meta-analizę **30 RCT** terapii par (N > 2000 par):
 
@@ -111,7 +111,7 @@ Terapia indywidualna i par mogą być prowadzone **równolegle**, choć wymaga t
 
 ---
 
-## Struktura terapii par — przebieg procesu
+## Struktura terapii par - przebieg procesu
 
 Typowa struktura terapii par:
 

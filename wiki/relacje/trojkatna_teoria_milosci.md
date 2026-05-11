@@ -10,7 +10,7 @@ evidenceCutoffDate: 2025-12-31
 
 Miłość jest jednym z najbardziej złożonych i wielowymiarowych zjawisk psychologicznych. Robert J. Sternberg (1986) zaproponował **triangularną teorię miłości**, która ujmuje miłość jako trójkąt zbudowany z trzech niezależnych, lecz wzajemnie powiązanych składników: intymności, namiętności i zobowiązania. Teoria ta stała się jedną z najszerzej cytowanych koncepcji w psychologii relacji, oferując zarówno ramy heurystyczne dla badaczy, jak i praktyczne narzędzie dla terapeutów par.
 
-> „Miłość nie jest jedną rzeczą — jest wieloma rzeczami, i to w różnych kombinacjach." — Robert J. Sternberg
+> „Miłość nie jest jedną rzeczą - jest wieloma rzeczami, i to w różnych kombinacjach." - Robert J. Sternberg
 
 ---
 
@@ -24,22 +24,22 @@ Intymność odnosi się do poczucia bliskości, połączenia i więzi w relacji 
 - wsparcie emocjonalne
 - otwartą, szczerą komunikację
 
-Intymność **rośnie stopniowo**, często przechodząc przez fazę nasilenia, po której może osiągnąć względną stabilność (*latentna intymność*) — jej obecność jest wyczuwalna, choć niekoniecznie uświadamiana na co dzień.
+Intymność **rośnie stopniowo**, często przechodząc przez fazę nasilenia, po której może osiągnąć względną stabilność (*latentna intymność*) - jej obecność jest wyczuwalna, choć niekoniecznie uświadamiana na co dzień.
 
 ### Namiętność (*Passion*)
 
-Namiętność to element motywacyjny — popędy i pożądanie prowadzące do fizycznej i romantycznej atrakcji. Charakteryzuje się:
+Namiętność to element motywacyjny - popędy i pożądanie prowadzące do fizycznej i romantycznej atrakcji. Charakteryzuje się:
 - intensywnymi uczuciami podniecenia i wzburzenia emocjonalnego
 - silnym pragnieniem zjednoczenia z partnerem
 - komponentem fizycznego pożądania seksualnego
 
-Namiętność podlega prawu **habituacji i kontrastu** — intensywna na początku związku, z czasem maleje, a jej ponowne wzbudzenie może wymagać nowości i stymulacji.
+Namiętność podlega prawu **habituacji i kontrastu** - intensywna na początku związku, z czasem maleje, a jej ponowne wzbudzenie może wymagać nowości i stymulacji.
 
 ### Zobowiązanie (*Commitment*)
 
 Zobowiązanie posiada dwa aspekty czasowe:
-- **krótkoterminowy** — decyzja o kochaniu danej osoby
-- **długoterminowy** — postanowienie podtrzymania tej miłości
+- **krótkoterminowy** - decyzja o kochaniu danej osoby
+- **długoterminowy** - postanowienie podtrzymania tej miłości
 
 Jest to element najbardziej poznawczy i wolicjonalny, który w trakcie dojrzewania związku może zastępować malejącą namiętność jako spoiwo relacji.
 
@@ -51,21 +51,21 @@ Różne konfiguracje trzech składników tworzą siedem typów miłości:
 
 | Typ miłości | Intymność | Namiętność | Zobowiązanie | Opis |
 |---|:---:|:---:|:---:|---|
-| **Lubienie** (*Liking*) | + | — | — | głęboka przyjaźń bez namiętności ani zobowiązania |
-| **Zauroczenie** (*Infatuation*) | — | + | — | „miłość od pierwszego wejrzenia", bez bliskości |
-| **Miłość pusta** (*Empty love*) | — | — | + | zobowiązanie bez bliskości ani pożądania |
-| **Miłość romantyczna** (*Romantic love*) | + | + | — | bliskość i namiętność, brak trwałego zobowiązania |
-| **Miłość przyjacielska** (*Companionate love*) | + | — | + | głęboka więź i lojalność, bez namiętności |
-| **Miłość fatalna** (*Fatuous love*) | — | + | + | pochopne zaangażowanie bez zbudowanej bliskości |
+| **Lubienie** (*Liking*) | + | - | - | głęboka przyjaźń bez namiętności ani zobowiązania |
+| **Zauroczenie** (*Infatuation*) | - | + | - | „miłość od pierwszego wejrzenia", bez bliskości |
+| **Miłość pusta** (*Empty love*) | - | - | + | zobowiązanie bez bliskości ani pożądania |
+| **Miłość romantyczna** (*Romantic love*) | + | + | - | bliskość i namiętność, brak trwałego zobowiązania |
+| **Miłość przyjacielska** (*Companionate love*) | + | - | + | głęboka więź i lojalność, bez namiętności |
+| **Miłość fatalna** (*Fatuous love*) | - | + | + | pochopne zaangażowanie bez zbudowanej bliskości |
 | **Miłość doskonała** (*Consummate love*) | + | + | + | pełna, zintegrowana miłość |
 
-Sternberg podkreśla, że **miłość doskonała** jest ideałem trudnym do osiągnięcia i utrzymania — sama jej obecność nie gwarantuje trwałości bez świadomej pielęgnacji relacji.
+Sternberg podkreśla, że **miłość doskonała** jest ideałem trudnym do osiągnięcia i utrzymania - sama jej obecność nie gwarantuje trwałości bez świadomej pielęgnacji relacji.
 
 ---
 
 ## Dowody empiryczne
 
-Sternberg opracował **Triangular Love Scale (TLS)** — kwestionariusz mierzący natężenie każdego z trzech składników. Badania wykazały:
+Sternberg opracował **Triangular Love Scale (TLS)** - kwestionariusz mierzący natężenie każdego z trzech składników. Badania wykazały:
 
 - Trzy czynniki są **statystycznie oddzielne**, potwierdzając trafność konstruktu (*Sternberg, 1997*).
 - Intymność i zobowiązanie są silniej powiązane z **satysfakcją ze związku** niż namiętność.
@@ -87,15 +87,15 @@ Sternberg opracował **Triangular Love Scale (TLS)** — kwestionariusz mierząc
 
 ## Krytyka i alternatywne koncepcje
 
-### Miłość namiętna i przyjacielska — Hatfield
+### Miłość namiętna i przyjacielska - Hatfield
 
 Elaine Hatfield i Susan Sprecher (1986) rozróżniają dwa fundamentalne typy miłości:
-- **Miłość namiętna** — intensywna, pełna tęsknoty, powiązana z idealizacją i lękiem przed utratą
-- **Miłość przyjacielska** — ciepło, głęboka troska i spokojna afektywna więź
+- **Miłość namiętna** - intensywna, pełna tęsknoty, powiązana z idealizacją i lękiem przed utratą
+- **Miłość przyjacielska** - ciepło, głęboka troska i spokojna afektywna więź
 
-Model Hatfield jest prostszy, lecz ma silne podstawy w badaniach neurologicznych — miłość namiętna aktywuje układ dopaminergiczny (nagrody), podobnie jak uzależnienie (*Fisher i in., 2005*).
+Model Hatfield jest prostszy, lecz ma silne podstawy w badaniach neurologicznych - miłość namiętna aktywuje układ dopaminergiczny (nagrody), podobnie jak uzależnienie (*Fisher i in., 2005*).
 
-### Style miłości — Lee
+### Style miłości - Lee
 
 John Alan Lee (1973) wyróżnił sześć **stylów miłości** (*love styles*), operacjonalizowanych przez Hendrick i Hendrick w skali LAS:
 
@@ -116,7 +116,7 @@ Badania międzykulturowe wskazują na istotne różnice w przeżywaniu i definio
 
 - W **kulturach indywidualistycznych** (USA, Europa Zachodnia) miłość romantyczna jest główną podstawą małżeństwa; namiętność i intymność są wysoko cenione.
 - W **kulturach kolektywistycznych** (Azja Wschodnia, Indie) zobowiązanie, szacunek rodzinny i pragma odgrywają większą rolę; miłość może rozwijać się *po* zawarciu małżeństwa (*Sprecher & Toro-Morn, 2002*).
-- Badania Jankowiak i Fischera (1992) wykazały jednak, że miłość romantyczna jest zjawiskiem **uniwersalnym kulturowo** — odnaleźli jej przejawy w 147 spośród 166 analizowanych kultur.
+- Badania Jankowiak i Fischera (1992) wykazały jednak, że miłość romantyczna jest zjawiskiem **uniwersalnym kulturowo** - odnaleźli jej przejawy w 147 spośród 166 analizowanych kultur.
 
 ---
 
@@ -124,7 +124,7 @@ Badania międzykulturowe wskazują na istotne różnice w przeżywaniu i definio
 
 Triangularna teoria miłości ma praktyczne zastosowanie w terapii par:
 
-- Pomiar TLS może ujawnić **asymetrię oczekiwań** partnerów (np. jeden z nich pragnie głównie namiętności, drugi — zobowiązania).
+- Pomiar TLS może ujawnić **asymetrię oczekiwań** partnerów (np. jeden z nich pragnie głównie namiętności, drugi - zobowiązania).
 - Techniki wzmacniania intymności (aktywne słuchanie, wspólne aktywności, wrażliwość emocjonalna) mogą pośrednio odbudować namiętność.
 - Psychoedukacja dotycząca naturalnego spadku namiętności pomaga normalizować ten proces i zapobiega błędnej interpretacji jako „utraty miłości".
 

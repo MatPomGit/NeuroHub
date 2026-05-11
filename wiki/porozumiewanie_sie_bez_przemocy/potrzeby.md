@@ -8,14 +8,14 @@ evidenceCutoffDate: 2025-12-31
 
 ## Czym są potrzeby w rozumieniu NVC?
 
-W Porozumiewaniu się bez przemocy **potrzeba** to głęboka, uniwersalna wartość lub stan, który jest ważny dla wszystkich ludzi bez wyjątku. Marshall Rosenberg twierdził, że każde ludzkie zachowanie — nawet najbardziej destrukcyjne — jest próbą zaspokojenia jakiejś potrzeby.
+W Porozumiewaniu się bez przemocy **potrzeba** to głęboka, uniwersalna wartość lub stan, który jest ważny dla wszystkich ludzi bez wyjątku. Marshall Rosenberg twierdził, że każde ludzkie zachowanie - nawet najbardziej destrukcyjne - jest próbą zaspokojenia jakiejś potrzeby.
 
-> „Przemoc jest tragicznym wyrazem niezaspokojonych potrzeb." — Marshall Rosenberg
+> „Przemoc jest tragicznym wyrazem niezaspokojonych potrzeb." - Marshall Rosenberg
 
 Potrzeby są:
-- **Uniwersalne** — wspólne wszystkim ludziom, niezależnie od kultury, wieku, płci
-- **Niezależne od strategii** — potrzeba bezpieczeństwa może być zaspokojona na tysiące różnych sposobów
-- **Niezwiązane z konkretną osobą** — potrzeba miłości nie wymaga, żeby zaspokoiła ją konkretna osoba
+- **Uniwersalne** - wspólne wszystkim ludziom, niezależnie od kultury, wieku, płci
+- **Niezależne od strategii** - potrzeba bezpieczeństwa może być zaspokojona na tysiące różnych sposobów
+- **Niezwiązane z konkretną osobą** - potrzeba miłości nie wymaga, żeby zaspokoiła ją konkretna osoba
 
 ## Potrzeba a strategia
 
@@ -55,7 +55,7 @@ Podstawowe warunki przeżycia i zdrowia:
 - Akceptacja i bycie akceptowanym
 
 ### 4. Szacunek i uznanie
-- Szacunek — dla siebie i od innych
+- Szacunek - dla siebie i od innych
 - Uznanie, docenienie
 - Bycie widzianym i wysłuchanym
 - Godność
@@ -109,7 +109,7 @@ Zapytaj: „Co jest dla mnie ważne w tej sytuacji? Czego mi brakuje lub co jest
 Zamiast: „Chcę, żebyś przestał robić X" → „Potrzebuję spokoju / szacunku / przestrzeni."
 
 ### Krok 4: Poszukaj strategii
-Dopiero po zidentyfikowaniu potrzeby szukaj sposobów jej zaspokojenia — możliwie różnych i elastycznych.
+Dopiero po zidentyfikowaniu potrzeby szukaj sposobów jej zaspokojenia - możliwie różnych i elastycznych.
 
 ## Empatia dla potrzeb drugiej osoby
 
@@ -119,7 +119,7 @@ NVC uczy też domyślania się potrzeb innych. Gdy ktoś wyraża krytykę lub at
 - „Zawsze robisz po swojemu!" → potrzeba współpracy lub bycia uwzględnianym
 - „Nigdy mnie nie słuchasz!" → potrzeba połączenia, bycia wysłuchanym
 
-To nie oznacza akceptacji zachowania — oznacza rozumienie człowieka za zachowaniem.
+To nie oznacza akceptacji zachowania - oznacza rozumienie człowieka za zachowaniem.
 
 ---
 

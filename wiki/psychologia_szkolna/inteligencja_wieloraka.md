@@ -8,7 +8,7 @@ evidenceCutoffDate: 2025-12-31
 
 ## Wprowadzenie i kontekst
 
-Przez większą część XX wieku inteligencja była rozumiana jako jednolita, ogólna zdolność poznawcza — czynnik *g* w modelu Spearmana — mierzalna za pomocą standaryzowanych testów IQ. W 1983 roku Howard Gardner zaproponował radykalnie odmienne ujęcie, które zrewolucjonizowało myślenie o zdolnościach uczniów i organizacji nauczania. Jego **Teoria Inteligencji Wielorakich** (*Theory of Multiple Intelligences*, MI) zakłada, że inteligencja nie jest jednorodna, lecz składa się z kilku odrębnych, względnie niezależnych zdolności.
+Przez większą część XX wieku inteligencja była rozumiana jako jednolita, ogólna zdolność poznawcza - czynnik *g* w modelu Spearmana - mierzalna za pomocą standaryzowanych testów IQ. W 1983 roku Howard Gardner zaproponował radykalnie odmienne ujęcie, które zrewolucjonizowało myślenie o zdolnościach uczniów i organizacji nauczania. Jego **Teoria Inteligencji Wielorakich** (*Theory of Multiple Intelligences*, MI) zakłada, że inteligencja nie jest jednorodna, lecz składa się z kilku odrębnych, względnie niezależnych zdolności.
 
 Gardner sformułował kryteria, które dana zdolność musi spełniać, by zostać uznana za odrębny rodzaj inteligencji: możliwość izolowania jej przy uszkodzeniach mózgu, istnienie sawantów i prodigiów, własna historia ewolucyjna, możliwość zakodowania w symbolu, specyficzny profil rozwojowy oraz potwierdzenie w badaniach psychometrycznych i eksperymentalnych.
 
@@ -16,7 +16,7 @@ Gardner sformułował kryteria, które dana zdolność musi spełniać, by zosta
 
 ## Osiem inteligencji
 
-**Inteligencja lingwistyczna** (*linguistic intelligence*) to zdolność efektywnego operowania językiem — zarówno mówionym, jak i pisanym. Przejawia się w sprawności retorycznej, bogactwie słownictwa, wyczuciu rytmu i brzmienia słów. Wysoki poziom tej inteligencji cechuje pisarzy, prawników, dziennikarzy i poetów.
+**Inteligencja lingwistyczna** (*linguistic intelligence*) to zdolność efektywnego operowania językiem - zarówno mówionym, jak i pisanym. Przejawia się w sprawności retorycznej, bogactwie słownictwa, wyczuciu rytmu i brzmienia słów. Wysoki poziom tej inteligencji cechuje pisarzy, prawników, dziennikarzy i poetów.
 
 **Inteligencja logiczno-matematyczna** (*logical-mathematical intelligence*) obejmuje zdolność myślenia abstrakcyjnego, dostrzegania wzorców liczbowych i logicznych oraz przeprowadzania długich łańcuchów rozumowania. Jest najsilniej korelowana z tradycyjnymi testami IQ i ceniona w systemach edukacyjnych opartych na ocenianiu standaryzowanym.
 
@@ -30,15 +30,15 @@ Gardner sformułował kryteria, które dana zdolność musi spełniać, by zosta
 
 **Inteligencja intrapersonalna** (*intrapersonal intelligence*) polega na zdolności do wglądu we własne stany wewnętrzne, emocje i motywacje, pozwalając na skuteczną samoregulację. Jest ściśle związana z pojęciem inteligencji emocjonalnej.
 
-**Inteligencja przyrodnicza** (*naturalist intelligence*), dodana przez Gardnera w 1995 roku, obejmuje zdolność rozpoznawania i klasyfikowania elementów środowiska naturalnego — roślin, zwierząt, wzorców geologicznych. Cechuje biologów, botaników, rolników i myśliwych.
+**Inteligencja przyrodnicza** (*naturalist intelligence*), dodana przez Gardnera w 1995 roku, obejmuje zdolność rozpoznawania i klasyfikowania elementów środowiska naturalnego - roślin, zwierząt, wzorców geologicznych. Cechuje biologów, botaników, rolników i myśliwych.
 
 ## Implikacje edukacyjne
 
 Teoria MI ma kilka ważnych implikacji dla praktyki szkolnej:
 
-- **Zróżnicowane metody nauczania**: jeśli uczniowie różnią się profilem inteligencji, skuteczne nauczanie powinno angażować wiele modalności — muzyczną, ruchową, wizualną, narracyjną.
+- **Zróżnicowane metody nauczania**: jeśli uczniowie różnią się profilem inteligencji, skuteczne nauczanie powinno angażować wiele modalności - muzyczną, ruchową, wizualną, narracyjną.
 - **Nowe formy oceniania**: ocenianie oparte wyłącznie na testach pisemnych faworyzuje inteligencję lingwistyczną i logiczno-matematyczną, marginalizując uczniów o odmiennych profilach. Portfolio, projekty i demonstracje pozwalają lepiej uchwycić rzeczywiste zdolności.
-- **Personalizacja nauczania**: każdy uczeń ma unikalny profil inteligencji — szkoła powinna pomagać mu odkryć mocne strony i budować na nich.
+- **Personalizacja nauczania**: każdy uczeń ma unikalny profil inteligencji - szkoła powinna pomagać mu odkryć mocne strony i budować na nich.
 
 > **Fakt:** Badania przeprowadzone w szkołach realizujących program Key Learning Community w Indianapolis (pierwsza szkoła MI na świecie) wykazały poprawę zaangażowania uczniów i spadek odsetka porzucania edukacji, choć rzetelność tych badań jest kwestionowana.
 
@@ -54,9 +54,9 @@ Krytycy wskazują też, że Gardner nie zapewnia rzetelnych narzędzi pomiaru po
 
 **Robert Sternberg** zaproponował **triadyczną teorię inteligencji** (*Triarchic Theory of Intelligence*), wyróżniając trzy składowe:
 
-- inteligencję **analityczną** — zdolność analizowania, oceniania i porównywania
-- inteligencję **twórczą** — zdolność do nowych pomysłów i rozwiązań
-- inteligencję **praktyczną** — zdolność stosowania wiedzy w codziennych sytuacjach
+- inteligencję **analityczną** - zdolność analizowania, oceniania i porównywania
+- inteligencję **twórczą** - zdolność do nowych pomysłów i rozwiązań
+- inteligencję **praktyczną** - zdolność stosowania wiedzy w codziennych sytuacjach
 
 Sternberg, podobnie jak Gardner, krytykuje wąskie pojęcie inteligencji mierzonej testami IQ, jednak jego model jest lepiej osadzony w tradycji psychometrycznej i bardziej podatny na empiryczną weryfikację.
 

@@ -21,7 +21,7 @@ To pojęcie łączy epistemologię (jak uzasadniamy wiedzę) z etyką (jakie mam
 
 ## Dlaczego to ważne w psychologii?
 
-Psycholog działa na styku wiedzy naukowej, diagnozy i ludzkiego cierpienia. Błąd poznawczy nie jest tu abstrakcją — może wpływać na decyzje terapeutyczne, edukacyjne i prawne.
+Psycholog działa na styku wiedzy naukowej, diagnozy i ludzkiego cierpienia. Błąd poznawczy nie jest tu abstrakcją - może wpływać na decyzje terapeutyczne, edukacyjne i prawne.
 
 Brak odpowiedzialności epistemicznej może prowadzić do:
 
@@ -89,7 +89,7 @@ Przed sformułowaniem mocnego wniosku warto zapytać:
 
 ## Podsumowanie
 
-Odpowiedzialność epistemiczna to jeden z kluczowych filarów dojrzałej praktyki psychologicznej. Łączy uczciwość intelektualną, metodologiczną rzetelność i etyczną troskę o konsekwencje własnych sądów. Psycholog odpowiedzialny epistemicznie nie tylko „ma wiedzę”, ale także umie ocenić jej jakość, zakres i ograniczenia — oraz jasno to zakomunikować innym.
+Odpowiedzialność epistemiczna to jeden z kluczowych filarów dojrzałej praktyki psychologicznej. Łączy uczciwość intelektualną, metodologiczną rzetelność i etyczną troskę o konsekwencje własnych sądów. Psycholog odpowiedzialny epistemicznie nie tylko „ma wiedzę”, ale także umie ocenić jej jakość, zakres i ograniczenia - oraz jasno to zakomunikować innym.
 
 
 ## Wprowadzenie

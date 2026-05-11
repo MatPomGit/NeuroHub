@@ -6,7 +6,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Terapia psychodynamiczna
 
-Współczesne podejścia psychodynamiczne — od psychoanalizy Freuda do krótkoterminowych terapii relacyjnych.
+Współczesne podejścia psychodynamiczne - od psychoanalizy Freuda do krótkoterminowych terapii relacyjnych.
 
 ## Korzenie: psychoanaliza Freuda
 
@@ -27,7 +27,7 @@ Współczesne podejścia psychodynamiczne kładą nacisk na: **relację terapeut
 
 ## Techniki pracy
 
-**Swobodne skojarzenia** — pacjent mówi wszystko, co przychodzi do głowy bez cenzury. **Analiza marzeń sennych** — sny jako królewski gościniec do nieświadomości. **Analiza oporu** — mechanizmy, przez które pacjent unika wglądu. **Konfrontacja, klaryfikacja i interpretacja** — techniki pogłębiające rozumienie.
+**Swobodne skojarzenia** - pacjent mówi wszystko, co przychodzi do głowy bez cenzury. **Analiza marzeń sennych** - sny jako królewski gościniec do nieświadomości. **Analiza oporu** - mechanizmy, przez które pacjent unika wglądu. **Konfrontacja, klaryfikacja i interpretacja** - techniki pogłębiające rozumienie.
 
 ## ISTDP i krótkoterminowe terapie psychodynamiczne
 

@@ -6,15 +6,15 @@ evidenceCutoffDate: 2025-12-31
 
 # Anksjolityki i leki nasenne
 
-Farmakologiczne leczenie lęku i bezsenności — benzodiazepiny, buspiron, leki z grupy Z i inne.
+Farmakologiczne leczenie lęku i bezsenności - benzodiazepiny, buspiron, leki z grupy Z i inne.
 
 ## Benzodiazepiny
 
-**Benzodiazepiny** (diazepam, lorazepam, alprazolam, klonazepam) są najszybciej działającymi lekami przeciwlękowymi. Działają poprzez modulację receptora **GABA-A** — zwiększają częstotliwość otwierania kanałów chlorkowych, nasilając hamujące działanie GABA.
+**Benzodiazepiny** (diazepam, lorazepam, alprazolam, klonazepam) są najszybciej działającymi lekami przeciwlękowymi. Działają poprzez modulację receptora **GABA-A** - zwiększają częstotliwość otwierania kanałów chlorkowych, nasilając hamujące działanie GABA.
 
 > Benzodiazepiny mają działanie **anksjolityczne, hipnotyczne, przeciwdrgawkowe, miorelaksacyjne i amnestyczne**. Przy długotrwałym stosowaniu (>4 tygodnie) rozwijają się tolerancja i uzależnienie fizyczne.
 
-Podział według czasu działania: krótkodziałające (triazolam, midazolam — stosowane perioperacyjnie), średniodziałające (lorazepam, oksazepam — bezpieczniejsze u starszych), długodziałające (diazepam, klonazepam).
+Podział według czasu działania: krótkodziałające (triazolam, midazolam - stosowane perioperacyjnie), średniodziałające (lorazepam, oksazepam - bezpieczniejsze u starszych), długodziałające (diazepam, klonazepam).
 
 ## Leki z grupy Z (z-drugs)
 
@@ -26,13 +26,13 @@ Podział według czasu działania: krótkodziałające (triazolam, midazolam —
 
 ## Beta-blokery i leki przeciwhistaminowe
 
-**Propranolol** blokuje obwodowe objawy lęku (tachykardia, drżenie, pocenie się) — stosowany w lęku performatywnym. **Hydroksyzyna** (lek przeciwhistaminowy) wykazuje działanie anksjolityczne bez ryzyka uzależnienia — stosowana krótkoterminowo.
+**Propranolol** blokuje obwodowe objawy lęku (tachykardia, drżenie, pocenie się) - stosowany w lęku performatywnym. **Hydroksyzyna** (lek przeciwhistaminowy) wykazuje działanie anksjolityczne bez ryzyka uzależnienia - stosowana krótkoterminowo.
 
-## Nowoczesne podejście — SSRI/SNRI
+## Nowoczesne podejście - SSRI/SNRI
 
 W długoterminowym leczeniu zaburzeń lękowych (GAD, lęk napadowy, fobia społeczna, PTSD) **SSRI i SNRI** są lekami pierwszego wyboru. Benzodiazepiny mogą być stosowane krótkoterminowo na początku leczenia do czasu uzyskania efektu SSRI.
 
-## Bezsenność — zasady leczenia
+## Bezsenność - zasady leczenia
 
 Leczenie bezsenności powinno obejmować przede wszystkim **CBT-I** (terapia poznawczo-behawioralna bezsenności) jako interwencję pierwszego wyboru. Farmakoterapia (z-drugs, niskie dawki doksepiny, melatonina) jest uzupełnieniem, nie substytutem.
 

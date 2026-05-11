@@ -4,7 +4,7 @@ reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
 
-# Etyka badań psychologicznych — standardy i praktyka
+# Etyka badań psychologicznych - standardy i praktyka
 
 Etyka badań psychologicznych obejmuje normy chroniące dobrostan uczestników oraz wiarygodność nauki. Jej celem jest równoważenie wartości poznawczej projektu z minimalizacją ryzyka szkody. Współczesny standard opiera się na zasadach: **poszanowania autonomii**, **dobroczynności i nieszkodzenia**, **sprawiedliwości** oraz **integralności badawczej**.
 
@@ -29,14 +29,14 @@ Rekrutacja nie powinna systemowo wykluczać ani nadmiernie obciążać określon
 ## Integralność naukowa
 Etyka dotyczy także jakości metodologicznej: nierzetelny projekt może być nieetyczny, bo naraża uczestników bez realnej wartości poznawczej.
 
-## 2. Ocena etyczna projektu — krok po kroku
+## 2. Ocena etyczna projektu - krok po kroku
 
-1. **Analiza ryzyka i korzyści** — jakie ryzyko niesie procedura i jak można je ograniczyć?  
-2. **Przygotowanie formularza zgody** — język prosty, bez żargonu technicznego.  
-3. **Plan ochrony danych** — pseudonimizacja, kontrola dostępu, retencja danych.  
-4. **Procedury debriefingu** — szczególnie ważne przy elementach maskowania celu badania.  
-5. **Opinia komisji etycznej** — wymagane dla badań z udziałem ludzi w instytucjach akademickich i klinicznych.  
-6. **Monitoring zdarzeń niepożądanych** — gotowość do przerwania procedury, jeśli ryzyko wzrasta.
+1. **Analiza ryzyka i korzyści** - jakie ryzyko niesie procedura i jak można je ograniczyć?  
+2. **Przygotowanie formularza zgody** - język prosty, bez żargonu technicznego.  
+3. **Plan ochrony danych** - pseudonimizacja, kontrola dostępu, retencja danych.  
+4. **Procedury debriefingu** - szczególnie ważne przy elementach maskowania celu badania.  
+5. **Opinia komisji etycznej** - wymagane dla badań z udziałem ludzi w instytucjach akademickich i klinicznych.  
+6. **Monitoring zdarzeń niepożądanych** - gotowość do przerwania procedury, jeśli ryzyko wzrasta.
 
 ## 3. Praktyczne przykłady
 

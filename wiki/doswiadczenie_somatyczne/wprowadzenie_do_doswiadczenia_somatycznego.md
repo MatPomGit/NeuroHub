@@ -12,10 +12,10 @@ Somatic Experiencing (SE), rozwijane przez Petera A. Levine’a, jest podejście
 
 ## Definicje
 
-- **Somatic Experiencing (SE)** — metoda pracy terapeutycznej skupiona na stopniowym rozładowywaniu pobudzenia pourazowego przez uważną pracę z doznaniami cielesnymi.
-- **Titracja** — zasada „małych dawek” aktywacji: zamiast pełnej ekspozycji na trudną treść, terapeuta pracuje na bezpiecznych fragmentach doświadczenia.
-- **Pendulacja** — przechodzenie między stanem aktywacji i stanem względnego spokoju, aby wzmacniać elastyczność regulacji.
-- **Dokończenie reakcji obronnej** — symboliczne lub motoryczne domknięcie reakcji „walcz/uciekaj”, która w momencie traumy została zablokowana.
+- **Somatic Experiencing (SE)** - metoda pracy terapeutycznej skupiona na stopniowym rozładowywaniu pobudzenia pourazowego przez uważną pracę z doznaniami cielesnymi.
+- **Titracja** - zasada „małych dawek” aktywacji: zamiast pełnej ekspozycji na trudną treść, terapeuta pracuje na bezpiecznych fragmentach doświadczenia.
+- **Pendulacja** - przechodzenie między stanem aktywacji i stanem względnego spokoju, aby wzmacniać elastyczność regulacji.
+- **Dokończenie reakcji obronnej** - symboliczne lub motoryczne domknięcie reakcji „walcz/uciekaj”, która w momencie traumy została zablokowana.
 
 W praktyce te pojęcia opisują logikę prowadzenia procesu terapeutycznego, a nie jedynie zestaw ćwiczeń. Pacjent ma doświadczać małych, kontrolowanych dawek pobudzenia, a następnie powrotu do zasobów. Taka sekwencja ma ograniczać ryzyko przeciążenia i zwiększać poczucie wpływu.
 
@@ -31,7 +31,7 @@ Interocepcja (odczuwanie stanów wewnętrznych) i propriocepcja (czucie pozycji 
 
 ### 3. Znaczenie tempa terapii
 
-W SE tempo interwencji jest kluczowe. Zbyt szybka aktywacja może nasilić dysocjację lub lęk, natomiast zbyt wolna — utrwalać unikanie. Dlatego terapeuta stale kalibruje poziom obciążenia, łącząc pracę z ciałem i krótkie elementy narracyjne. Tempo nie jest cechą techniki, lecz decyzją kliniczną podejmowaną w czasie rzeczywistym.
+W SE tempo interwencji jest kluczowe. Zbyt szybka aktywacja może nasilić dysocjację lub lęk, natomiast zbyt wolna - utrwalać unikanie. Dlatego terapeuta stale kalibruje poziom obciążenia, łącząc pracę z ciałem i krótkie elementy narracyjne. Tempo nie jest cechą techniki, lecz decyzją kliniczną podejmowaną w czasie rzeczywistym.
 
 ### 4. Aktualność źródeł i granice dowodów
 
@@ -55,11 +55,11 @@ Nieoczywiste ujęcie SE mówi, że metoda nie konkuruje z podejściami opartymi 
 
 ## Powiązane artykuły (cross-linki)
 
-- `psychotherapy/emdr` — EMDR i przetwarzanie wspomnień traumatycznych.
-- `psychotherapy/systemowa` — kontekst relacyjny objawów i zasobów.
-- `psychopathology/trauma_ptsd` — obraz kliniczny PTSD i różnicowanie.
-- `health_psychology/stres` — fizjologia stresu i regulacja.
-- `reference/mapa_powiazan_nowe_artykuly` — mapa relacji między nowymi tekstami.
+- `psychotherapy/emdr` - EMDR i przetwarzanie wspomnień traumatycznych.
+- `psychotherapy/systemowa` - kontekst relacyjny objawów i zasobów.
+- `psychopathology/trauma_ptsd` - obraz kliniczny PTSD i różnicowanie.
+- `health_psychology/stres` - fizjologia stresu i regulacja.
+- `reference/mapa_powiazan_nowe_artykuly` - mapa relacji między nowymi tekstami.
 
 ## Podsumowanie
 

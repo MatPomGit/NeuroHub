@@ -12,10 +12,10 @@ W pracy z traumą największe ryzyko kliniczne pojawia się wtedy, gdy tempo int
 
 ## Definicje
 
-- **Okno tolerancji** — zakres pobudzenia, w którym osoba zachowuje zdolność do refleksji i kontaktu.
-- **Stabilizacja** — zestaw interwencji budujących poczucie bezpieczeństwa i kontrolę nad pobudzeniem.
-- **Sekwencjonowanie** — uporządkowanie etapów terapii tak, aby minimalizować ryzyko przestymulowania.
-- **Dysocjacja** — zaburzenie ciągłości doświadczenia świadomości, pamięci lub odczuwania ciała.
+- **Okno tolerancji** - zakres pobudzenia, w którym osoba zachowuje zdolność do refleksji i kontaktu.
+- **Stabilizacja** - zestaw interwencji budujących poczucie bezpieczeństwa i kontrolę nad pobudzeniem.
+- **Sekwencjonowanie** - uporządkowanie etapów terapii tak, aby minimalizować ryzyko przestymulowania.
+- **Dysocjacja** - zaburzenie ciągłości doświadczenia świadomości, pamięci lub odczuwania ciała.
 
 ## Analiza
 
@@ -41,12 +41,12 @@ Praca koncentruje się od razu na najbardziej obciążającym fragmencie histori
 
 ## Perspektywa nieoczywista
 
-Wysoka intensywność emocjonalna sesji bywa mylona z „głęboką pracą”. Tymczasem z perspektywy neurobiologii skuteczniejsza jest często praca o mniejszej amplitudzie, ale większej powtarzalności regulacyjnej — to ona wzmacnia trwałą elastyczność układu nerwowego.
+Wysoka intensywność emocjonalna sesji bywa mylona z „głęboką pracą”. Tymczasem z perspektywy neurobiologii skuteczniejsza jest często praca o mniejszej amplitudzie, ale większej powtarzalności regulacyjnej - to ona wzmacnia trwałą elastyczność układu nerwowego.
 
 ## Powiązane artykuły (cross-linki)
 
-- `doswiadczenie_somatyczne/wprowadzenie_do_doswiadczenia_somatycznego` — podstawy regulacji układu nerwowego w SE.
-- `psychopathology/trauma_ptsd` — kliniczny obraz traumy i PTSD.
+- `doswiadczenie_somatyczne/wprowadzenie_do_doswiadczenia_somatycznego` - podstawy regulacji układu nerwowego w SE.
+- `psychopathology/trauma_ptsd` - kliniczny obraz traumy i PTSD.
 
 ## Podsumowanie
 

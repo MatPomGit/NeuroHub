@@ -6,7 +6,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Samookaleczenia (NSSI)
 
-Niesuicydalne samookaleczenia — definicja, funkcje, rozpowszechnienie, ocena i metody leczenia.
+Niesuicydalne samookaleczenia - definicja, funkcje, rozpowszechnienie, ocena i metody leczenia.
 
 ## Czym jest NSSI?
 
@@ -24,7 +24,7 @@ Model funkcjonalny Klatza i Fleischer wyróżnia dwie domeny:
 - **Regulacja emocjonalna intrapersonalna**: redukcja dyskomfortu emocjonalnego, wyrażenie bólu, samokaranie, generowanie poczucia realności (przy dysocjacji);
 - **Funkcje społeczne**: komunikacja cierpienia, szukanie wsparcia, integracja z grupą.
 
-Najczęstszą funkcją jest redukcja intensywnych, nieznośnych emocji — NSSI dostarcza krótkotrwałej ulgi (negatywne wzmocnienie), co tłumaczy trudność zaprzestania.
+Najczęstszą funkcją jest redukcja intensywnych, nieznośnych emocji - NSSI dostarcza krótkotrwałej ulgi (negatywne wzmocnienie), co tłumaczy trudność zaprzestania.
 
 ## Ocena kliniczna
 
@@ -32,7 +32,7 @@ Ocena NSSI powinna obejmować: metody i lokalizację ran, częstość, intensywn
 
 ## Leczenie
 
-**DBT** jest terapią pierwszego wyboru — techniki tolerancji dystresu (TIP, TIPP, ACCEPTS) oferują alternatywy dla NSSI jako regulacji emocji. **CBT**, **MBT** i **EMDR** (jeśli podłoże traumatyczne) są skutecznymi alternatywami. Nie ma leków zatwierdzonych specyficznie dla NSSI; farmakoterapia adresuje zaburzenia współwystępujące.
+**DBT** jest terapią pierwszego wyboru - techniki tolerancji dystresu (TIP, TIPP, ACCEPTS) oferują alternatywy dla NSSI jako regulacji emocji. **CBT**, **MBT** i **EMDR** (jeśli podłoże traumatyczne) są skutecznymi alternatywami. Nie ma leków zatwierdzonych specyficznie dla NSSI; farmakoterapia adresuje zaburzenia współwystępujące.
 
 
 ## Wprowadzenie

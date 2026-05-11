@@ -8,9 +8,9 @@ evidenceCutoffDate: 2025-12-31
 
 ## Rola uczuć w Porozumiewaniu się bez przemocy
 
-W modelu NVC uczucia są centralnym elementem komunikacji — służą jako sygnały informujące o stanie naszych potrzeb. Gdy jakaś potrzeba jest zaspokojona, pojawia się uczucie przyjemne; gdy nie jest zaspokojona — pojawia się uczucie nieprzyjemne.
+W modelu NVC uczucia są centralnym elementem komunikacji - służą jako sygnały informujące o stanie naszych potrzeb. Gdy jakaś potrzeba jest zaspokojona, pojawia się uczucie przyjemne; gdy nie jest zaspokojona - pojawia się uczucie nieprzyjemne.
 
-> „Nasze uczucia nie są wywoływane przez innych ludzi. Są wywoływane przez nasze niezaspokojone potrzeby." — Marshall Rosenberg
+> „Nasze uczucia nie są wywoływane przez innych ludzi. Są wywoływane przez nasze niezaspokojone potrzeby." - Marshall Rosenberg
 
 Kluczową zasadą NVC jest branie **odpowiedzialności za własne uczucia** zamiast obwiniania innych za to, jak się czujemy.
 
@@ -67,7 +67,7 @@ NVC podkreśla związek między uczuciami a doznaniami cielesnymi. Uczucia częs
 - Złość → ciepło w twarzy, zaciskanie pięści, napięcie szczęki
 - Radość → lekkość, rozluźnienie, energia
 
-Świadome śledzenie ciała pomaga rozpoznawać emocje zanim zostaną wyrażone słownie — szczególnie ważne u osób z trudnościami w rozpoznawaniu emocji (aleksytymia).
+Świadome śledzenie ciała pomaga rozpoznawać emocje zanim zostaną wyrażone słownie - szczególnie ważne u osób z trudnościami w rozpoznawaniu emocji (aleksytymia).
 
 ## Odpowiedzialność za uczucia
 
@@ -79,9 +79,9 @@ W kierunku:
 
 > ✅ „Czuję złość, **bo** potrzebuję niezawodności i dotrzymywania umów."
 
-Zmiana jest subtelna, ale fundamentalna: w pierwszym przypadku przyczyna uczucia leży w drugiej osobie; w drugim — w naszej własnej potrzebie. To zmienia relację z ofiary w kogoś, kto może wziąć sprawy w swoje ręce.
+Zmiana jest subtelna, ale fundamentalna: w pierwszym przypadku przyczyna uczucia leży w drugiej osobie; w drugim - w naszej własnej potrzebie. To zmienia relację z ofiary w kogoś, kto może wziąć sprawy w swoje ręce.
 
-## Wyrażanie uczuć — pułapki językowe
+## Wyrażanie uczuć - pułapki językowe
 
 ### Unikaj „czuję, że..."
 Zdanie „Czuję, że mnie nie szanujesz" zawiera myśl, nie uczucie.  
@@ -95,10 +95,10 @@ Zdanie „Czuję, że mnie nie szanujesz" zawiera myśl, nie uczucie.
 
 Wiele osób ma ograniczone słownictwo emocjonalne. NVC zachęca do:
 
-1. **Uczenia się nazw emocji** — czytanie, ćwiczenia, listy uczuć
-2. **Regularnego sprawdzania swojego stanu** — „Co teraz czuję?"
-3. **Dziennika uczuć** — codzienne notowanie emocji i powiązanych potrzeb
-4. **Rozmów o uczuciach** — normalizowanie mówienia o emocjach w relacjach
+1. **Uczenia się nazw emocji** - czytanie, ćwiczenia, listy uczuć
+2. **Regularnego sprawdzania swojego stanu** - „Co teraz czuję?"
+3. **Dziennika uczuć** - codzienne notowanie emocji i powiązanych potrzeb
+4. **Rozmów o uczuciach** - normalizowanie mówienia o emocjach w relacjach
 
 ---
 

@@ -14,9 +14,9 @@ W tym sensie 3P to nie „pozytywne myślenie”, lecz **poznawcza higiena inter
 ## Definicje
 W modelu Seligmana analizujemy trzy wymiary atrybucji porażek (3P):
 
-- **Permanence (trwałość)** — czy przyczyna jest stała („zawsze tak będzie”), czy tymczasowa („to etap, który może minąć”).
-- **Pervasiveness (zasięg / przenikanie)** — czy problem dotyczy całego życia, czy konkretnej dziedziny.
-- **Personalization (personalizacja)** — czy zdarzenie wyjaśniam wyłącznie sobą („to moja wina”), czy uwzględniam także czynniki sytuacyjne.
+- **Permanence (trwałość)** - czy przyczyna jest stała („zawsze tak będzie”), czy tymczasowa („to etap, który może minąć”).
+- **Pervasiveness (zasięg / przenikanie)** - czy problem dotyczy całego życia, czy konkretnej dziedziny.
+- **Personalization (personalizacja)** - czy zdarzenie wyjaśniam wyłącznie sobą („to moja wina”), czy uwzględniam także czynniki sytuacyjne.
 
 Wersja pesymistyczna 3P: **stałe + globalne + wyłącznie osobiste**.  
 Wersja bardziej adaptacyjna: **tymczasowe + specyficzne + wieloczynnikowe**.

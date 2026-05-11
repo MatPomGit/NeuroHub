@@ -28,7 +28,7 @@ Dopasowuj tempo i intensywność interwencji do gotowości pacjenta oraz obcią�
 Wspieraj realizację zadań domowych bez kontroli i presji; wzmacniaj regularność, nie perfekcję.
 
 ## Ocena jakości dowodów
-Dowody dla CBT-E są **silne**; dla krótkich, niestrukturalnych interwencji behawioralnych — **umiarkowane**.
+Dowody dla CBT-E są **silne**; dla krótkich, niestrukturalnych interwencji behawioralnych - **umiarkowane**.
 
 ## Podsumowanie
 CBT działa najlepiej, gdy jest spersonalizowana i konsekwentnie monitorowana.

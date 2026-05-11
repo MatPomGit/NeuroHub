@@ -12,10 +12,10 @@ Cyfrowe narzędzia pracy zwiększają szybkość współpracy i skalę koordynac
 
 ## Definicje kluczowych pojęć
 
-- **Autonomia pracy** — zakres wpływu pracownika na tempo, kolejność i sposób wykonywania zadań.
-- **Nadzór cyfrowy** — monitorowanie aktywności pracownika przez systemy analityczne, logi, metryki i narzędzia śledzące.
-- **Granice praca–dom** — psychologiczne i czasowe oddzielenie roli zawodowej od prywatnej.
-- **Presja responsywności** — społeczno-organizacyjne oczekiwanie natychmiastowej odpowiedzi niezależnie od kontekstu.
+- **Autonomia pracy** - zakres wpływu pracownika na tempo, kolejność i sposób wykonywania zadań.
+- **Nadzór cyfrowy** - monitorowanie aktywności pracownika przez systemy analityczne, logi, metryki i narzędzia śledzące.
+- **Granice praca–dom** - psychologiczne i czasowe oddzielenie roli zawodowej od prywatnej.
+- **Presja responsywności** - społeczno-organizacyjne oczekiwanie natychmiastowej odpowiedzi niezależnie od kontekstu.
 
 ## Część analityczna: mechanizmy i zależności
 

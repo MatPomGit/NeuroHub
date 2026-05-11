@@ -4,7 +4,7 @@ reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
 
-# Psychologia sztucznej inteligencji — wprowadzenie
+# Psychologia sztucznej inteligencji - wprowadzenie
 
 ## Czym jest psychologia sztucznej inteligencji?
 
@@ -12,11 +12,11 @@ Psychologia sztucznej inteligencji to interdyscyplinarna dziedzina łącząca ps
 
 Sztuczna inteligencja przestała być wyłącznie tematem science-fiction czy laboratorium badawczego. Dziś wchodzi w interakcje z ludźmi jako asystent głosowy, system diagnostyczny, doradca finansowy, a nawet jako rozmówca terapeutyczny. To sprawia, że pytania o psychologię relacji człowiek–AI nabierają praktycznego i pilnego charakteru.
 
-> **Fakt:** Według raportu McKinsey z 2023 roku ponad 50% firm na świecie wdrożyło przynajmniej jeden element sztucznej inteligencji w swoich procesach — i odsetek ten rośnie każdego roku.
+> **Fakt:** Według raportu McKinsey z 2023 roku ponad 50% firm na świecie wdrożyło przynajmniej jeden element sztucznej inteligencji w swoich procesach - i odsetek ten rośnie każdego roku.
 
 ## Rys historyczny
 
-Zainteresowanie psychologią AI sięga początków informatyki. Alan Turing w swoim przełomowym artykule z 1950 roku „Computing Machinery and Intelligence" zadał pytanie: „Czy maszyny mogą myśleć?" — pytanie, które po dziś dzień pozostaje w centrum debat zarówno filozoficznych, jak i psychologicznych.
+Zainteresowanie psychologią AI sięga początków informatyki. Alan Turing w swoim przełomowym artykule z 1950 roku „Computing Machinery and Intelligence" zadał pytanie: „Czy maszyny mogą myśleć?" - pytanie, które po dziś dzień pozostaje w centrum debat zarówno filozoficznych, jak i psychologicznych.
 
 Kolejne dekady przyniosły dynamiczny rozwój badań nad sztuczną inteligencją, a wraz z nimi coraz więcej pytań natury psychologicznej:
 
@@ -24,7 +24,7 @@ Kolejne dekady przyniosły dynamiczny rozwój badań nad sztuczną inteligencją
 - **Lata 70–80.**: badania nad systemami eksperckimi i granicami ludzkiego zaufania do maszyn
 - **Lata 90.**: rozwój interfejsów użytkownika i pierwsze systematyczne badania interakcji człowiek–komputer (HCI)
 - **Lata 2000.**: roboty społeczne, awatary i pierwsze prace nad empatią w systemach AI
-- **Lata 2010–2020.**: głębokie uczenie maszynowe, asystenci głosowi, modele językowe — pytania o uprzedzenia, etykę i wpływ na tożsamość
+- **Lata 2010–2020.**: głębokie uczenie maszynowe, asystenci głosowi, modele językowe - pytania o uprzedzenia, etykę i wpływ na tożsamość
 
 > **Fakt:** Program ELIZA stworzony przez Weizenbauma wzbudził u wielu użytkowników tak silne poczucie relacji z maszyną, że badacz sam był zszokowany tym zjawiskiem i zaczął publicznie ostrzegać przed nadmierną antropomorfizacją komputerów.
 
@@ -34,7 +34,7 @@ Psychologia sztucznej inteligencji obejmuje szereg wzajemnie powiązanych obszar
 
 ### Percepcja i poznanie w kontekście AI
 
-Badacze analizują, jak ludzie rozumieją i interpretują działania systemów AI: czy przypisują im intencje, emocje, moralność. Kluczowe jest tu pojęcie „czarnej skrzynki" — większość użytkowników nie rozumie, jak AI podejmuje decyzje, co wpływa na sposób korzystania z tych systemów.
+Badacze analizują, jak ludzie rozumieją i interpretują działania systemów AI: czy przypisują im intencje, emocje, moralność. Kluczowe jest tu pojęcie „czarnej skrzynki" - większość użytkowników nie rozumie, jak AI podejmuje decyzje, co wpływa na sposób korzystania z tych systemów.
 
 ### Zaufanie i akceptacja technologii
 
@@ -42,15 +42,15 @@ Model akceptacji technologii (TAM) i późniejsze rozszerzenia wyjaśniają, dla
 
 ### Emocje i relacje z AI
 
-Ludzie nawiązują więzi emocjonalne z robotami, asystentami głosowymi czy chatbotami — nawet gdy wiedzą, że są to maszyny. Badania nad tymi relacjami ujawniają fundamentalne prawdy o ludzkiej potrzebie połączenia i przynależności.
+Ludzie nawiązują więzi emocjonalne z robotami, asystentami głosowymi czy chatbotami - nawet gdy wiedzą, że są to maszyny. Badania nad tymi relacjami ujawniają fundamentalne prawdy o ludzkiej potrzebie połączenia i przynależności.
 
 ### Uprzedzenia algorytmiczne i psychologia sprawiedliwości
 
-Systemy AI uczą się na danych stworzonych przez ludzi — i przejmują ludzkie uprzedzenia. Psychologia bada, jak te uprzedzenia wpływają na decyzje dotyczące ludzi i jak reagują na nie osoby, których dotyczą.
+Systemy AI uczą się na danych stworzonych przez ludzi - i przejmują ludzkie uprzedzenia. Psychologia bada, jak te uprzedzenia wpływają na decyzje dotyczące ludzi i jak reagują na nie osoby, których dotyczą.
 
 ## Dlaczego psychologia potrzebuje AI, a AI potrzebuje psychologii?
 
-Związek między psychologią a sztuczną inteligencją jest głęboko dwukierunkowy. Z jednej strony, AI inspiruje się osiągnięciami psychologii i neuronauki — sieci neuronowe, uczenie przez wzmacnianie, przetwarzanie języka naturalnego czerpią z teorii ludzkiego uczenia się i percepcji.
+Związek między psychologią a sztuczną inteligencją jest głęboko dwukierunkowy. Z jednej strony, AI inspiruje się osiągnięciami psychologii i neuronauki - sieci neuronowe, uczenie przez wzmacnianie, przetwarzanie języka naturalnego czerpią z teorii ludzkiego uczenia się i percepcji.
 
 Z drugiej strony, psychologia potrzebuje narzędzi AI do:
 
@@ -59,7 +59,7 @@ Z drugiej strony, psychologia potrzebuje narzędzi AI do:
 3. Personalizacji interwencji terapeutycznych
 4. Badania zachowań ludzkich na niespotykaną dotąd skalę
 
-> **Fakt:** Modele językowe takie jak GPT-4 wykazują w testach psychologicznych wyniki zbliżone do ludzkich w zakresie teorii umysłu — zdolności rozumienia stanów mentalnych innych osób — co wywołało ożywioną debatę naukową.
+> **Fakt:** Modele językowe takie jak GPT-4 wykazują w testach psychologicznych wyniki zbliżone do ludzkich w zakresie teorii umysłu - zdolności rozumienia stanów mentalnych innych osób - co wywołało ożywioną debatę naukową.
 
 ## Metody badawcze
 
@@ -78,7 +78,7 @@ Kilka teorii psychologicznych ma szczególne znaczenie dla rozumienia relacji cz
 
 ### Teoria umysłu (Theory of Mind)
 
-Zdolność do przypisywania innym podmiotom stanów mentalnych — przekonań, pragnień, intencji. Ludzie spontanicznie stosują tę zdolność wobec AI, co prowadzi do złożonych konsekwencji psychologicznych i etycznych.
+Zdolność do przypisywania innym podmiotom stanów mentalnych - przekonań, pragnień, intencji. Ludzie spontanicznie stosują tę zdolność wobec AI, co prowadzi do złożonych konsekwencji psychologicznych i etycznych.
 
 ### Efekt Uncanny Valley
 
@@ -100,7 +100,7 @@ Psychologia AI musi mierzyć się z poważnymi wyzwaniami etycznymi:
 
 ## Psychologia AI w polskim kontekście
 
-W Polsce zainteresowanie psychologią AI rośnie dynamicznie, choć dziedzina ta dopiero się kształtuje jako odrębna specjalność akademicka. Polskie uczelnie — m.in. Uniwersytet Jagielloński, Uniwersytet Warszawski i Politechnika Wrocławska — prowadzą badania nad interakcją człowiek–maszyna, etyką AI i wpływem technologii na zdrowie psychiczne.
+W Polsce zainteresowanie psychologią AI rośnie dynamicznie, choć dziedzina ta dopiero się kształtuje jako odrębna specjalność akademicka. Polskie uczelnie - m.in. Uniwersytet Jagielloński, Uniwersytet Warszawski i Politechnika Wrocławska - prowadzą badania nad interakcją człowiek–maszyna, etyką AI i wpływem technologii na zdrowie psychiczne.
 
 Polskie społeczeństwo, podobnie jak inne społeczeństwa europejskie, staje wobec fundamentalnych pytań dotyczących AI:
 
@@ -125,7 +125,7 @@ Szczegółowo omówione zostaną zagadnienia takie jak:
 7. Wspomaganie decyzji przez AI
 8. Zastosowania AI w psychoterapii i diagnostyce
 9. Poznawcze aspekty działania systemów AI
-10. Antropomorfizacja — dlaczego traktujemy maszyny jak ludzi
+10. Antropomorfizacja - dlaczego traktujemy maszyny jak ludzi
 11. Przyszłość relacji człowiek–AI
 
 ## Podsumowanie

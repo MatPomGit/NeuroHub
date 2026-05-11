@@ -4,7 +4,7 @@ reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
 
-# Osobowość — Wielka Piątka
+# Osobowość - Wielka Piątka
 
 Pięcioczynnikowy model osobowości jako dominujące ramy opisu różnic indywidualnych w psychologii akademickiej.
 
@@ -14,19 +14,19 @@ Pięcioczynnikowy model osobowości jako dominujące ramy opisu różnic indywid
 
 ## Wielka Piątka (OCEAN)
 
-*Pięcioczynnikowy model osobowości* (Big Five, FFM) wyłonił się z leksykalnej tradycji badań — analiza przymiotników opisujących osoby w różnych językach zawsze dawała podobne pięć czynników:
+*Pięcioczynnikowy model osobowości* (Big Five, FFM) wyłonił się z leksykalnej tradycji badań - analiza przymiotników opisujących osoby w różnych językach zawsze dawała podobne pięć czynników:
 
-- **O — Otwartość na doświadczenie** (*Openness*): wyobraźnia, ciekawość intelektualna, estetyczna wrażliwość, tolerancja nowości;
-- **C — Sumienność** (*Conscientiousness*): samodyscyplina, planowość, wytrwałość, niezawodność;
-- **E — Ekstrawersja** (*Extraversion*): towarzyskość, energiczność, pozytywny afekt, asertywność;
-- **A — Ugodowość** (*Agreeableness*): życzliwość, zaufanie, altruizm, empatia;
-- **N — Neurotyczność** (*Neuroticism*): skłonność do negatywnych emocji, lęku, drażliwości.
+- **O - Otwartość na doświadczenie** (*Openness*): wyobraźnia, ciekawość intelektualna, estetyczna wrażliwość, tolerancja nowości;
+- **C - Sumienność** (*Conscientiousness*): samodyscyplina, planowość, wytrwałość, niezawodność;
+- **E - Ekstrawersja** (*Extraversion*): towarzyskość, energiczność, pozytywny afekt, asertywność;
+- **A - Ugodowość** (*Agreeableness*): życzliwość, zaufanie, altruizm, empatia;
+- **N - Neurotyczność** (*Neuroticism*): skłonność do negatywnych emocji, lęku, drażliwości.
 
 > Badania bliźnięce wskazują, że odziedziczalność każdego wymiaru Wielkiej Piątki wynosi **40–60%**, co potwierdza biologiczne podstawy osobowości.
 
 ## Narzędzia pomiarowe
 
-**NEO-PI-R** (Costa i McCrae) to najpopularniejszy inwentarz Wielkiej Piątki — 240 pozycji, 5 wymiarów × 6 podskał (facet). Krótka wersja NEO-FFI (60 pozycji) stosowana w badaniach przesiewowych. W Polsce normalizowaną wersją jest **NEO-PI-R** (Zawadzki i in.).
+**NEO-PI-R** (Costa i McCrae) to najpopularniejszy inwentarz Wielkiej Piątki - 240 pozycji, 5 wymiarów × 6 podskał (facet). Krótka wersja NEO-FFI (60 pozycji) stosowana w badaniach przesiewowych. W Polsce normalizowaną wersją jest **NEO-PI-R** (Zawadzki i in.).
 
 ## Stabilność i zmiana osobowości
 

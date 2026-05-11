@@ -8,7 +8,7 @@ evidenceCutoffDate: 2025-12-31
 
 ## Wprowadzenie
 
-Zdrowie psychiczne nie jest zjawiskiem wolnym od kontekstu kulturowego. To, co uznaje się za normę psychiczną, jak wyraża się cierpienie, jakie zachowania są postrzegane jako patologiczne i jakie interwencje uchodzą za pomocne — **wszystko to jest kształtowane przez kulturę**. Psychopatologia transkulturowa i psychiatria kulturowa badają te zależności, dążąc do zapewnienia diagnozy i leczenia, które są zarazem rzetelne i wrażliwe kulturowo.
+Zdrowie psychiczne nie jest zjawiskiem wolnym od kontekstu kulturowego. To, co uznaje się za normę psychiczną, jak wyraża się cierpienie, jakie zachowania są postrzegane jako patologiczne i jakie interwencje uchodzą za pomocne - **wszystko to jest kształtowane przez kulturę**. Psychopatologia transkulturowa i psychiatria kulturowa badają te zależności, dążąc do zapewnienia diagnozy i leczenia, które są zarazem rzetelne i wrażliwe kulturowo.
 
 ---
 
@@ -20,9 +20,9 @@ Kulturowe syndromy to wzorce doświadczeń i zachowań, które w danej kulturze 
 |---|---|---|
 | **Koro** | Azja Południowo-Wschodnia, Chiny | lęk przed cofaniem się narządów płciowych do brzucha i śmiercią; napady paniczne |
 | **Susto** (*espanto*) | Ameryka Łacińska | „utrata duszy" po silnym strachu; objawy: apatia, brak apetytu, bezsenność, somatyzacja |
-| **Taijin kyofusho** | Japonia, Korea | lęk przed offending innych swoim wyglądem, zapachem lub gestami — społeczno-orientowany odpowiednik fobii społecznej |
+| **Taijin kyofusho** | Japonia, Korea | lęk przed offending innych swoim wyglądem, zapachem lub gestami - społeczno-orientowany odpowiednik fobii społecznej |
 | **Nervios** | Ameryka Łacińska, region śródziemnomorski | stan chronicznego napięcia nerwowego z drżeniem, bólami głowy i poczuciem niezdolności do funkcjonowania |
-| **Mal de ojo** | Ameryka Łacińska, obszar śródziemnomorski | dolegliwości wywołane przez „złe oko" — zazdrość lub nadmierny podziw |
+| **Mal de ojo** | Ameryka Łacińska, obszar śródziemnomorski | dolegliwości wywołane przez „złe oko" - zazdrość lub nadmierny podziw |
 | **Amok** | Azja Południowo-Wschodnia | nagłe wybuchy furii z agresją po okresie apatii i wycofania |
 | **Latah** | Azja Płd.-Wschodnia | mimowolna echolalia, echopraksja, posłuszeństwo po przestraszeniu |
 | **Hikikomori** | Japonia | skrajne wycofanie społeczne, izolacja w przestrzeni domowej przez miesiące lub lata |
@@ -33,12 +33,12 @@ DSM-5 (APA, 2013) odchodzi od kategorii „culture-bound syndromes" na rzecz **t
 
 ## Kulturowe idiomy distressu
 
-Kulturowy idiom distressu to **sposób wyrażania cierpienia** przyjęty w danej kulturze — niekoniecznie opisujący odrębną jednostkę nozologiczną, lecz dostarczający języka, metafory i narracji dla przeżywanego bólu.
+Kulturowy idiom distressu to **sposób wyrażania cierpienia** przyjęty w danej kulturze - niekoniecznie opisujący odrębną jednostkę nozologiczną, lecz dostarczający języka, metafory i narracji dla przeżywanego bólu.
 
 Przykłady:
-- **Nerwy / nerviedad** — Pan-europejskie i latynoskie opisywanie dystressu poprzez „nerwy" jako dysfunkcję ciała
-- **Serce jako siedlisko smutku** (*qalb* w arabskim) — ból serca jako metafora depresji
-- **Ból głowy** w kulturach azjatyckich — idiom wyrażający presję społeczną i przeciążenie rolami
+- **Nerwy / nerviedad** - Pan-europejskie i latynoskie opisywanie dystressu poprzez „nerwy" jako dysfunkcję ciała
+- **Serce jako siedlisko smutku** (*qalb* w arabskim) - ból serca jako metafora depresji
+- **Ból głowy** w kulturach azjatyckich - idiom wyrażający presję społeczną i przeciążenie rolami
 - **Zmęczenie** jako dominujący idiom w kulturach, gdzie emocjonalna ekspresja jest stygmatyzowana
 
 Rozpoznanie idiomów distressu jest kluczowe, by nie mylić kulturowo specyficznych form wyrazu z somatyzacją w sensie klinicznym.
@@ -47,14 +47,14 @@ Rozpoznanie idiomów distressu jest kluczowe, by nie mylić kulturowo specyficzn
 
 ## DSM-5: Formularz Kulturowy
 
-DSM-5 wprowadził narzędzie **Kulturowego Wywiadu Formularzowego** (*Cultural Formulation Interview*, CFI) — zestandaryzowany, 16-pytaniowy wywiad pomagający klinicystom uchwycić:
+DSM-5 wprowadził narzędzie **Kulturowego Wywiadu Formularzowego** (*Cultural Formulation Interview*, CFI) - zestandaryzowany, 16-pytaniowy wywiad pomagający klinicystom uchwycić:
 
-1. **Kulturową definicję problemu** — jak pacjent i jego rodzina rozumie zaburzenie
-2. **Kulturowe postrzeganie przyczyn** — magiczne, moralne, biologiczne, społeczne
-3. **Kulturowy kontekst stresorów i wsparcia** — rodzina, wspólnota religijna, instytucje
-4. **Kulturowe elementy relacji klinicz** — różnice między klientem a terapeutą, bariery zaufania
+1. **Kulturową definicję problemu** - jak pacjent i jego rodzina rozumie zaburzenie
+2. **Kulturowe postrzeganie przyczyn** - magiczne, moralne, biologiczne, społeczne
+3. **Kulturowy kontekst stresorów i wsparcia** - rodzina, wspólnota religijna, instytucje
+4. **Kulturowe elementy relacji klinicz** - różnice między klientem a terapeutą, bariery zaufania
 
-> „Zrozumienie kulturowego modelu wyjaśniania choroby pacjenta jest równie istotne jak znajomość podręcznikowych kryteriów diagnostycznych." — Arthur Kleinman
+> „Zrozumienie kulturowego modelu wyjaśniania choroby pacjenta jest równie istotne jak znajomość podręcznikowych kryteriów diagnostycznych." - Arthur Kleinman
 
 ---
 
@@ -104,7 +104,7 @@ Akulturacja to proces zmian wynikający z kontaktu dwóch kultur. John Berry (19
 
 **Stres akulturacyjny** (*acculturative stress*) obejmuje specyficzne stresory wynikające z procesu adaptacji: konflikty tożsamości, dyskryminację, utratę sieci wsparcia, konieczność renegocjowania wartości i ról. Wiąże się z podwyższonym ryzykiem depresji, zaburzeń lękowych i somatyzacji.
 
-Zjawisko **podwójnej tożsamości kulturowej** może jednak być zasobem — bikulturalizm jest korelowany z większą elastycznością poznawczą i kreatywnością (Hong i in., 2000).
+Zjawisko **podwójnej tożsamości kulturowej** może jednak być zasobem - bikulturalizm jest korelowany z większą elastycznością poznawczą i kreatywnością (Hong i in., 2000).
 
 ---
 

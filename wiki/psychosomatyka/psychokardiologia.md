@@ -6,7 +6,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Psychokardiologia
 
-Serce jest organem o szczególnym miejscu w ludzkiej psychice — kulturowo kojarzone z miłością, odwagą i cierpieniem, biologicznie niezwykle wrażliwym na wpływ emocji i stresu. Psychokardiologia bada wzajemne relacje między układem sercowo-naczyniowym a stanem psychicznym.
+Serce jest organem o szczególnym miejscu w ludzkiej psychice - kulturowo kojarzone z miłością, odwagą i cierpieniem, biologicznie niezwykle wrażliwym na wpływ emocji i stresu. Psychokardiologia bada wzajemne relacje między układem sercowo-naczyniowym a stanem psychicznym.
 
 ## Mechanizmy psychologicznego wpływu na serce
 
@@ -14,7 +14,7 @@ Serce jest organem o szczególnym miejscu w ludzkiej psychice — kulturowo koja
 Ostry lub przewlekły stres aktywuje układ współczulny: tachykardia, wzrost ciśnienia tętniczego, skurcz naczyń wieńcowych, wzrost agregacji płytek krwi. Każdy z tych efektów jest czynnikiem ryzyka zdarzeń sercowych.
 
 ### Kortyzol i metabolizm
-Przewlekła hiperkortyzolemia prowadzi do: insulinooporności, otyłości trzewnej, dyslipidemii, nadciśnienia — pełnego profilu metabolicznego podwyższającego ryzyko miażdżycy.
+Przewlekła hiperkortyzolemia prowadzi do: insulinooporności, otyłości trzewnej, dyslipidemii, nadciśnienia - pełnego profilu metabolicznego podwyższającego ryzyko miażdżycy.
 
 ### Zapalenie
 Stres aktywuje cytokiny prozapalne (IL-6, CRP, TNF-α), które napędzają miażdżycę i destabilizują blaszki miażdżycowe.
@@ -33,22 +33,22 @@ Wrogość → chroniczna aktywacja współczulna → nadciśnienie, miażdżyca 
 To jeden z najsilniejszych powiązań psychosomatycznych:
 
 - Depresja zwiększa ryzyko incydentu wieńcowego 1,5–2× u osób bez wcześniejszej choroby serca
-- Po zawale — depresja jest silniejszym predyktorem kolejnego incydentu niż większość klasycznych czynników ryzyka
+- Po zawale - depresja jest silniejszym predyktorem kolejnego incydentu niż większość klasycznych czynników ryzyka
 - Mechanizmy: stan zapalny, dysregulacja HPA, niska HRV, niska adherencja do leczenia, mniej aktywności fizycznej
 
 > **Kliniczne implikacje:** Każdy pacjent po zawale lub z niewydolnością serca powinien być przesiewowo oceniany pod kątem depresji (np. PHQ-9). Leczenie depresji poprawia rokowanie sercowe.
 
-## Zjawisko „złamanego serca" — kardiomiopatia Takotsubo
+## Zjawisko „złamanego serca" - kardiomiopatia Takotsubo
 
 Kardiomiopatia Takotsubo (stresowa) to przemijające rozszerzenie i dysfunkcja lewej komory serca po silnym stresie emocjonalnym (śmierć bliskiej osoby, rozbrojenie, silny strach). Objawy przypominają zawał, ale bez niedrożności wieńcowej.
 
 Mechanizm: nagły zalew katecholaminami ogłusza mięsień sercowy. 90% przypadków to kobiety po menopauzie.
 
-> **„Zespół złamanego serca" jest prawdziwy** — można umrzeć ze smutku lub silnego lęku, jeśli ostremu wyrzutowi adrenaliny towarzyszy podatność biologiczna.
+> **„Zespół złamanego serca" jest prawdziwy** - można umrzeć ze smutku lub silnego lęku, jeśli ostremu wyrzutowi adrenaliny towarzyszy podatność biologiczna.
 
 ## Lęk i zaburzenia sercowe
 
-Ataki paniki często imitują zawał serca — kołatanie serca, ból w klatce, duszność, uczucie śmierci. Wielu pacjentów trafia na SOR z atakiem paniki mylonym z ostrym zespołem wieńcowym.
+Ataki paniki często imitują zawał serca - kołatanie serca, ból w klatce, duszność, uczucie śmierci. Wielu pacjentów trafia na SOR z atakiem paniki mylonym z ostrym zespołem wieńcowym.
 
 Z drugiej strony: lęk może **wywoływać** arytmie (przedsionkowe i komorowe dodatkowe skurcze) przez autonomiczną dysregulację, szczególnie u osób z WPW, długim QT czy po ablacjach.
 
@@ -56,11 +56,11 @@ Z drugiej strony: lęk może **wywoływać** arytmie (przedsionkowe i komorowe d
 
 Choć nadciśnienie ma wieloczynnikowe podłoże, czynniki psychosocjalne mają udokumentowany wpływ:
 
-- Chroniczny stres pracy (wymagania wysokie / kontrola niska — model Karaska)
+- Chroniczny stres pracy (wymagania wysokie / kontrola niska - model Karaska)
 - Tłumiona wrogość i trudności z wyrażaniem emocji
-- Trauma i ACE — dzieci maltretowane mają wyższe ciśnienie w dorosłości
+- Trauma i ACE - dzieci maltretowane mają wyższe ciśnienie w dorosłości
 
-Techniki relaksacyjne, biofeedback i redukcja stresu mogą obniżać ciśnienie o 5–10 mmHg — klinicznie istotna wartość.
+Techniki relaksacyjne, biofeedback i redukcja stresu mogą obniżać ciśnienie o 5–10 mmHg - klinicznie istotna wartość.
 
 ## Rehabilitacja kardiologiczna z komponentem psychologicznym
 
@@ -72,7 +72,7 @@ Programy rehabilitacji kardiologicznej obejmujące wsparcie psychologiczne (grup
 
 Jeszcze mało pacjentów jest kierowanych do takich programów.
 
-> **Podsumowanie:** Serce słyszy emocje — nie tylko metaforycznie, lecz dosłownie biologicznie. Psychokardiologia dostarcza dowodów, że dbanie o dobrostan psychiczny jest równie ważne jak kontrola cholesterolu i ciśnienia.
+> **Podsumowanie:** Serce słyszy emocje - nie tylko metaforycznie, lecz dosłownie biologicznie. Psychokardiologia dostarcza dowodów, że dbanie o dobrostan psychiczny jest równie ważne jak kontrola cholesterolu i ciśnienia.
 
 
 ## Wprowadzenie

@@ -4,13 +4,13 @@ reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
 
-# Psychologia gier wideo — wprowadzenie
+# Psychologia gier wideo - wprowadzenie
 
 ## Czym jest psychologia gier wideo?
 
-Psychologia gier wideo to interdyscyplinarna dziedzina nauki badająca wpływ gier cyfrowych na ludzki umysł, zachowanie i relacje społeczne. Łączy elementy psychologii poznawczej, klinicznej, społecznej oraz neurobiologii, by zrozumieć, dlaczego ludzie grają, jak gry na nich wpływają i w jaki sposób można ten wpływ mierzyć oraz moderować. Gry wideo stały się jednym z najważniejszych mediów XX i XXI wieku — nie tylko rozrywkowym, ale też edukacyjnym, terapeutycznym i społecznym.
+Psychologia gier wideo to interdyscyplinarna dziedzina nauki badająca wpływ gier cyfrowych na ludzki umysł, zachowanie i relacje społeczne. Łączy elementy psychologii poznawczej, klinicznej, społecznej oraz neurobiologii, by zrozumieć, dlaczego ludzie grają, jak gry na nich wpływają i w jaki sposób można ten wpływ mierzyć oraz moderować. Gry wideo stały się jednym z najważniejszych mediów XX i XXI wieku - nie tylko rozrywkowym, ale też edukacyjnym, terapeutycznym i społecznym.
 
-> **Fakt:** Według raportu Newzoo z 2023 roku na całym świecie gra ponad 3,2 miliarda ludzi. W Polsce regularnie gra ponad 17 milionów osób — niemal połowa społeczeństwa.
+> **Fakt:** Według raportu Newzoo z 2023 roku na całym świecie gra ponad 3,2 miliarda ludzi. W Polsce regularnie gra ponad 17 milionów osób - niemal połowa społeczeństwa.
 
 ## Rys historyczny
 
@@ -19,7 +19,7 @@ Pierwsze naukowe zainteresowanie grami wideo pojawiło się już w latach 80. XX
 Ewolucję badań można podzielić na kilka etapów:
 
 - **Lata 80.**: pierwsze studia nad agresją i grami arkadowymi
-- **Lata 90.**: badania poznawcze — wpływ na uwagę i percepcję wzrokową
+- **Lata 90.**: badania poznawcze - wpływ na uwagę i percepcję wzrokową
 - **Lata 2000.**: debata o przemocy w grach, pierwsze modele uzależnienia
 - **Lata 2010.**: badania neurobiologiczne, gamifikacja, gry terapeutyczne
 - **Lata 2020.**: pandemia COVID-19 i wzrost zainteresowania grami jako formą kontaktu społecznego
@@ -30,11 +30,11 @@ Psychologia gier wideo obejmuje szereg szczegółowych obszarów badawczych:
 
 ### Procesy poznawcze
 
-Badania wykazały, że regularne granie — zwłaszcza w gry akcji — może prowadzić do poprawy selektywnej uwagi, szybkości przetwarzania informacji, percepcji przestrzennej i pamięci roboczej. Psycholodzy tacy jak Daphne Bavelier z University of Rochester opublikowali liczne prace potwierdzające te zależności.
+Badania wykazały, że regularne granie - zwłaszcza w gry akcji - może prowadzić do poprawy selektywnej uwagi, szybkości przetwarzania informacji, percepcji przestrzennej i pamięci roboczej. Psycholodzy tacy jak Daphne Bavelier z University of Rochester opublikowali liczne prace potwierdzające te zależności.
 
 ### Emocje i regulacja emocjonalna
 
-Gry mogą być skutecznym narzędziem regulacji emocjonalnej — pomagają redukować stres, nudę i lęk. Jednocześnie pewne typy gier (np. loot boxy, hazardowe elementy) mogą nasilać frustrację i impulsywność. Stan przepływu (flow) opisany przez Csikszentmihalyiego to optymalny stan emocjonalny osiągany podczas angażującej rozgrywki.
+Gry mogą być skutecznym narzędziem regulacji emocjonalnej - pomagają redukować stres, nudę i lęk. Jednocześnie pewne typy gier (np. loot boxy, hazardowe elementy) mogą nasilać frustrację i impulsywność. Stan przepływu (flow) opisany przez Csikszentmihalyiego to optymalny stan emocjonalny osiągany podczas angażującej rozgrywki.
 
 ### Społeczne aspekty grania
 
@@ -55,7 +55,7 @@ Badania nad efektami poznawczymi grania dostarczają zaskakująco pozytywnych wy
 3. Większą odporność na rozproszenie uwagi
 4. Lepszą rotację mentalną figur przestrzennych
 
-Te wyniki mają praktyczne zastosowania — na przykład w szkoleniu chirurgów laparoskopowych, pilotów czy personelu wojskowego.
+Te wyniki mają praktyczne zastosowania - na przykład w szkoleniu chirurgów laparoskopowych, pilotów czy personelu wojskowego.
 
 ## Efekty emocjonalne grania
 
@@ -88,7 +88,7 @@ Współczesna psychologia gier wideo korzysta z zaawansowanych metod badawczych:
 
 ## Wyzwania i kontrowersje
 
-Psychologia gier musi mierzyć się z licznymi wyzwaniami metodologicznymi i społecznymi. Wiele wczesnych badań cierpiało na problemy z replikacją, niskie próby lub nieadekwatne narzędzia pomiarowe. Media często wyolbrzymiają negatywne efekty gier, opierając się na słabych metodologicznie pracach. Debata o uzależnieniu od gier wciąż dzieli naukowców — część badaczy kwestionuje celowość diagnozy Gaming Disorder, argumentując, że jest to raczej objaw innych zaburzeń.
+Psychologia gier musi mierzyć się z licznymi wyzwaniami metodologicznymi i społecznymi. Wiele wczesnych badań cierpiało na problemy z replikacją, niskie próby lub nieadekwatne narzędzia pomiarowe. Media często wyolbrzymiają negatywne efekty gier, opierając się na słabych metodologicznie pracach. Debata o uzależnieniu od gier wciąż dzieli naukowców - część badaczy kwestionuje celowość diagnozy Gaming Disorder, argumentując, że jest to raczej objaw innych zaburzeń.
 
 ## Zastosowania kliniczne i praktyczne
 
@@ -113,7 +113,7 @@ Specyfika polskiego rynku obejmuje:
 
 ## Podsumowanie
 
-Psychologia gier wideo jest dynamicznie rozwijającą się dyscypliną, której znaczenie rośnie wraz z upowszechnianiem się gier cyfrowych. Zrównoważone podejście badawcze — wolne od zarówno paniki moralnej, jak i bezkrytycznej apologetyki gier — pozwala lepiej rozumieć jedno z najważniejszych zjawisk kulturowych naszych czasów. Kolejne artykuły w tym dziale będą szczegółowo omawiać poszczególne aspekty tej fascynującej dziedziny.
+Psychologia gier wideo jest dynamicznie rozwijającą się dyscypliną, której znaczenie rośnie wraz z upowszechnianiem się gier cyfrowych. Zrównoważone podejście badawcze - wolne od zarówno paniki moralnej, jak i bezkrytycznej apologetyki gier - pozwala lepiej rozumieć jedno z najważniejszych zjawisk kulturowych naszych czasów. Kolejne artykuły w tym dziale będą szczegółowo omawiać poszczególne aspekty tej fascynującej dziedziny.
 
 
 ## Wprowadzenie

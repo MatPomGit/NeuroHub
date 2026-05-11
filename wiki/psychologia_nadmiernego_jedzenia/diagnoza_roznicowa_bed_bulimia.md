@@ -28,7 +28,7 @@ U części pacjentów granice między kategoriami są dynamiczne, więc diagnoz�
 Reaguj wcześnie na sygnały alarmowe (izolacja, ukrywanie jedzenia, kompensacje).
 
 ## Ocena jakości dowodów
-Dowody dla standaryzowanych wywiadów diagnostycznych są **silne**; dla diagnozy opartej tylko na obserwacji klinicznej — **wstępne**.
+Dowody dla standaryzowanych wywiadów diagnostycznych są **silne**; dla diagnozy opartej tylko na obserwacji klinicznej - **wstępne**.
 
 ## Podsumowanie
 Precyzyjna diagnoza ogranicza ryzyko jatrogenii i skraca drogę do skutecznej pomocy.

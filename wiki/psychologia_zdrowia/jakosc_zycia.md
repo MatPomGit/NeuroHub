@@ -54,7 +54,7 @@ Najskuteczniejsze podejście jest wielowymiarowe:
 - aktywizacja zgodna z wartościami pacjenta,
 - realistyczne cele funkcjonalne zamiast wyłącznie „wyników badań”.
 
-Ważne jest współdecydowanie — pacjent powinien współtworzyć priorytety leczenia.
+Ważne jest współdecydowanie - pacjent powinien współtworzyć priorytety leczenia.
 
 ## Przykład
 

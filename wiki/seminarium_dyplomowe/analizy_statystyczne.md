@@ -6,11 +6,11 @@ evidenceCutoffDate: 2025-12-31
 
 # Analizy statystyczne w badaniach psychologicznych
 
-Statystyki są narzędziem — nie celem pracy magisterskiej. Celem jest odpowiedź na pytania badawcze, a statystyki są językiem, w którym ta odpowiedź jest formułowana. Wybór właściwych analiz jest równie ważny jak poprawne ich wykonanie.
+Statystyki są narzędziem - nie celem pracy magisterskiej. Celem jest odpowiedź na pytania badawcze, a statystyki są językiem, w którym ta odpowiedź jest formułowana. Wybór właściwych analiz jest równie ważny jak poprawne ich wykonanie.
 
 ## Planowanie analiz przed zbieraniem danych
 
-**Preregistracja analiz** (przed zebraniem danych) to rosnący standard w psychologii. Polega na publicznym zapisaniu planowanych hipotez, metody i analiz (np. w OSF — Open Science Framework) przed zebraniem danych. Chroni przed **p-hackingiem** i zwiększa wiarygodność wyników.
+**Preregistracja analiz** (przed zebraniem danych) to rosnący standard w psychologii. Polega na publicznym zapisaniu planowanych hipotez, metody i analiz (np. w OSF - Open Science Framework) przed zebraniem danych. Chroni przed **p-hackingiem** i zwiększa wiarygodność wyników.
 
 Nawet bez preregistracji warto przed badaniem zaplanować:
 - Jakie testy zastosujemy do każdej hipotezy?
@@ -42,7 +42,7 @@ Większość testów parametrycznych (t, ANOVA, regresja) wymaga spełnienia za�
 
 Naruszenie założenia wymaga albo **transformacji danych** (logarytm, pierwiastek), albo zastosowania **testów nieparametrycznych**.
 
-## Testy istotności — kiedy stosować?
+## Testy istotności - kiedy stosować?
 
 ### Porównanie grup
 
@@ -52,7 +52,7 @@ Naruszenie założenia wymaga albo **transformacji danych** (logarytm, pierwiast
 | 2 grupy zależne (pomiary powtórzone) | t-test dla prób zależnych | Wilcoxona |
 | 3+ grupy niezależne | ANOVA jednokierunkowa | Kruskala-Wallisa |
 | 3+ grupy, czynnik powtórzony | ANOVA z pomiarami powtórzonymi | Friedmana |
-| 2 czynniki | ANOVA dwuczynnikowa | — |
+| 2 czynniki | ANOVA dwuczynnikowa | - |
 
 ### Zależności między zmiennymi
 
@@ -76,7 +76,7 @@ Raportowanie wyłącznie wartości p bez wielkości efektu jest niewystarczając
 | t-test | Cohen's d | 0,2 mały; 0,5 średni; 0,8 duży |
 | ANOVA | η² (eta kwadrat) / ω² | 0,01; 0,06; 0,14 |
 | Korelacja | r | 0,10; 0,30; 0,50 |
-| Regresja | R², ΔR² | — |
+| Regresja | R², ΔR² | - |
 | Chi-kwadrat | Cramér's V, φ | 0,10; 0,30; 0,50 |
 
 ## Przedziały ufności
@@ -93,7 +93,7 @@ Podawaj **95% przedziały ufności (CI)** dla kluczowych parametrów. Przedział
 | **JASP** | Statystyki bayesowskie i klasyczne | Bezpłatny |
 | **PROCESS (Hayes)** | Mediacja, moderacja w SPSS/R | Bezpłatny plugin |
 
-> **Wskazówka:** Jamovi i JASP to doskonałe alternatywy dla SPSS — bezpłatne, łatwe i produkujące tabele gotowe do wklejenia do pracy.
+> **Wskazówka:** Jamovi i JASP to doskonałe alternatywy dla SPSS - bezpłatne, łatwe i produkujące tabele gotowe do wklejenia do pracy.
 
 ## Raportowanie wyników statystycznych (styl APA)
 
@@ -115,11 +115,11 @@ Przykład: *Uczestnicy w grupie eksperymentalnej uzyskali istotnie wyższe wynik
 
 ## Statystyki bayesowskie
 
-Alternatywa dla klasycznych testów istotności — Bayesian Factor (BF) mówi, ile razy bardziej prawdopodobna jest hipoteza badawcza niż zerowa przy zaobserwowanych danych. BF > 3 wspiera H1, BF < 1/3 wspiera H0. Dostępne w JASP.
+Alternatywa dla klasycznych testów istotności - Bayesian Factor (BF) mówi, ile razy bardziej prawdopodobna jest hipoteza badawcza niż zerowa przy zaobserwowanych danych. BF > 3 wspiera H1, BF < 1/3 wspiera H0. Dostępne w JASP.
 
 ## Podsumowanie
 
-Analiza statystyczna wymaga planowania, znajomości założeń i odpowiedniego raportowania. Nie wystarczy „wrzucić danych do SPSS-a" — każda decyzja analityczna powinna być świadoma i uzasadniona. Wyniki należy interpretować nie tylko przez pryzmat *p*, ale też wielkości efektu, przedziałów ufności i kontekstu teoretycznego.
+Analiza statystyczna wymaga planowania, znajomości założeń i odpowiedniego raportowania. Nie wystarczy „wrzucić danych do SPSS-a" - każda decyzja analityczna powinna być świadoma i uzasadniona. Wyniki należy interpretować nie tylko przez pryzmat *p*, ale też wielkości efektu, przedziałów ufności i kontekstu teoretycznego.
 
 
 ## Wprowadzenie

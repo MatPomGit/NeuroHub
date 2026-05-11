@@ -4,7 +4,7 @@ reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
 
-# Psychologia zdrowia — wprowadzenie
+# Psychologia zdrowia - wprowadzenie
 
 Psychologia zdrowia to dziedzina badająca, jak **myśli, emocje, zachowania i relacje społeczne** wpływają na zdrowie fizyczne, przebieg choroby i proces leczenia. Łączy perspektywę psychologiczną z medyczną, dlatego jest kluczowa zarówno w profilaktyce, jak i opiece nad osobami przewlekle chorymi.
 
@@ -46,14 +46,14 @@ W wielu chorobach (np. cukrzyca, choroby sercowo‑naczyniowe, ból przewlekły)
 - wsparcia otoczenia,
 - adekwatnego radzenia sobie ze stresem.
 
-Psycholog zdrowia nie „zastępuje” leczenia farmakologicznego czy zabiegowego — **zwiększa skuteczność medycyny** przez pracę nad czynnikami behawioralnymi i emocjonalnymi.
+Psycholog zdrowia nie „zastępuje” leczenia farmakologicznego czy zabiegowego - **zwiększa skuteczność medycyny** przez pracę nad czynnikami behawioralnymi i emocjonalnymi.
 
 ## Najważniejsze modele teoretyczne (skrót)
 
-- **Model przekonań zdrowotnych (HBM)** — ludzie częściej dbają o zdrowie, gdy widzą realne ryzyko i korzyści działania.
-- **Teoria planowanego zachowania (TPB)** — intencje zależą od postaw, norm społecznych i poczucia sprawczości.
-- **Transteoretyczny model zmiany** — zmiana nawyku przebiega etapami (od prekontemplacji do utrzymania).
-- **Model samoregulacji choroby (Leventhal)** — to, jak pacjent „rozumie” chorobę, wpływa na jego zachowania zdrowotne.
+- **Model przekonań zdrowotnych (HBM)** - ludzie częściej dbają o zdrowie, gdy widzą realne ryzyko i korzyści działania.
+- **Teoria planowanego zachowania (TPB)** - intencje zależą od postaw, norm społecznych i poczucia sprawczości.
+- **Transteoretyczny model zmiany** - zmiana nawyku przebiega etapami (od prekontemplacji do utrzymania).
+- **Model samoregulacji choroby (Leventhal)** - to, jak pacjent „rozumie” chorobę, wpływa na jego zachowania zdrowotne.
 
 ## Przykład praktyczny
 

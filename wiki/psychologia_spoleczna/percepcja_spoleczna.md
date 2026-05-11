@@ -6,7 +6,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Percepcja społeczna i atrybucje
 
-Kiedy spotykamy kogoś po raz pierwszy, w ułamkach sekund wyrabiamy sobie na jego temat pierwsze wrażenie: czy jest sympatyczny, inteligentny, godny zaufania? Jak to możliwe, że te błyskawiczne osądy są tak pewne — i dlaczego bywają tak błędne? Psychologia społeczna odpowiada na to pytanie, analizując **percepcję społeczną** — procesy, dzięki którym postrzegamy innych ludzi i wyjaśniamy ich zachowania.
+Kiedy spotykamy kogoś po raz pierwszy, w ułamkach sekund wyrabiamy sobie na jego temat pierwsze wrażenie: czy jest sympatyczny, inteligentny, godny zaufania? Jak to możliwe, że te błyskawiczne osądy są tak pewne - i dlaczego bywają tak błędne? Psychologia społeczna odpowiada na to pytanie, analizując **percepcję społeczną** - procesy, dzięki którym postrzegamy innych ludzi i wyjaśniamy ich zachowania.
 
 ## Czym jest percepcja społeczna?
 
@@ -17,15 +17,15 @@ Percepcja społeczna (ang. *social perception*) to zbiór procesów poznawczych 
 
 W odróżnieniu od percepcji przedmiotów, percepcja społeczna ma dwie unikalne cechy:
 1. **Wzajemność:** Obiekt percepcji (drugi człowiek) też postrzega i reaguje.
-2. **Ukrytość wnętrza:** Cechy, myśli i motywacje innych są nieobservowalne — musimy je *wnioskować*.
+2. **Ukrytość wnętrza:** Cechy, myśli i motywacje innych są nieobservowalne - musimy je *wnioskować*.
 
 ## Pierwsze wrażenia i efekt halo
 
 ### Jak szybko i trwale?
 
-Badania Todorov'a i współpracowników (2005) wykazały, że wystarczy **100 milisekund** ekspozycji na twarz, by oszacować kompetencje i wiarygodność osoby — z trafnością istotnie powyżej przypadku. Co więcej, te ultraszybkie oceny korelują z wynikami wyborów politycznych.
+Badania Todorov'a i współpracowników (2005) wykazały, że wystarczy **100 milisekund** ekspozycji na twarz, by oszacować kompetencje i wiarygodność osoby - z trafnością istotnie powyżej przypadku. Co więcej, te ultraszybkie oceny korelują z wynikami wyborów politycznych.
 
-Pierwsze wrażenia są wyjątkowo **trudne do zmiany** — efekt *primacy* (pierwszeństwa) polega na tym, że informacje napotykane jako pierwsze mają nieproporcjonalnie duży wpływ na końcową ocenę.
+Pierwsze wrażenia są wyjątkowo **trudne do zmiany** - efekt *primacy* (pierwszeństwa) polega na tym, że informacje napotykane jako pierwsze mają nieproporcjonalnie duży wpływ na końcową ocenę.
 
 ### Efekt halo (halo effect)
 
@@ -43,7 +43,7 @@ Konsekwencje efektu halo:
 
 ### Co to jest atrybucja?
 
-**Atrybucja** (attribution) to proces przypisywania przyczyn zachowaniom — własnym i cudzym. Fritz Heider, ojciec teorii atrybucji, zauważył (1958), że ludzie zachowują się jak „naiwni naukowcy": szukają przyczyn zachowań, by kontrolować środowisko i przewidywać przyszłość.
+**Atrybucja** (attribution) to proces przypisywania przyczyn zachowaniom - własnym i cudzym. Fritz Heider, ojciec teorii atrybucji, zauważył (1958), że ludzie zachowują się jak „naiwni naukowcy": szukają przyczyn zachowań, by kontrolować środowisko i przewidywać przyszłość.
 
 Podstawowe pytanie atrybucyjne: **„Dlaczego ta osoba zachowała się tak, a nie inaczej?"**
 
@@ -80,7 +80,7 @@ Gdy consensus jest niski, a wyrazistość i spójność są wysokie → atrybucj
 
 ## Błędy atrybucji
 
-Nasze atrybucje są systematycznie zniekształcone — poniżej najważniejsze błędy.
+Nasze atrybucje są systematycznie zniekształcone - poniżej najważniejsze błędy.
 
 ### Fundamentalny błąd atrybucji (FAE)
 
@@ -89,14 +89,14 @@ Nasze atrybucje są systematycznie zniekształcone — poniżej najważniejsze b
 Słynny eksperyment Jonesa i Harrisa (1967):
 - Uczestnicy czytali eseje popierające lub krytykujące Castro
 - Nawet gdy powiedziano, że autor losowo przydzielony do stanowiska, czytający i tak przypisywali przekonania z eseju autorowi
-- „Musiał w to wierzyć" — mimo wiedzy, że nie miał wyboru
+- „Musiał w to wierzyć" - mimo wiedzy, że nie miał wyboru
 
 **Dlaczego popełniamy FAE?**
 1. Osoba jest bardziej *figurą* percepcyjną niż tło (sytuacja)
 2. System 1 (intuicja) automatycznie generuje atrybucje dyspozycjonalne
 3. Kultura zachodnia akcentuje indywidualność i sprawczość
 
-> **Różnice kulturowe:** W kulturach kolektywistycznych (Azja Wschodnia) FAE jest mniejszy — ludzie bardziej świadomie uwzględniają kontekst sytuacyjny (Norenzayan i Nisbett, 2000).
+> **Różnice kulturowe:** W kulturach kolektywistycznych (Azja Wschodnia) FAE jest mniejszy - ludzie bardziej świadomie uwzględniają kontekst sytuacyjny (Norenzayan i Nisbett, 2000).
 
 ### Efekt aktora–obserwatora
 
@@ -111,7 +111,7 @@ Wyjaśnienie: Aktor *widzi* sytuację (korki, stres), obserwator *widzi* aktora.
 Tendencja do przypisywania sukcesów sobie (dyspozycja wewnętrzna), a porażek czynnikom zewnętrznym. Funkcja: **ochrona poczucia własnej wartości**.
 
 Modyfikacje:
-- Przy **depresji** samowiedna stronniczość jest ograniczona lub odwrócona (depresyjny realizm — Alloy i Abramson, 1979) — pacjenci depresyjni oceniają przyczynowość realistyczniej, ale ta „trzeźwość" często jest symptomem, nie zaletą.
+- Przy **depresji** samowiedna stronniczość jest ograniczona lub odwrócona (depresyjny realizm - Alloy i Abramson, 1979) - pacjenci depresyjni oceniają przyczynowość realistyczniej, ale ta „trzeźwość" często jest symptomem, nie zaletą.
 - W **terapii:** Identyfikacja samowiednej stronniczości pomaga w pracy z perfekcjonizmem i samooceną.
 
 ### Stronniczość potwierdzająca percepcji (confirmation bias)
@@ -129,35 +129,35 @@ Schematy (social schemas) to **zorganizowane struktury wiedzy** o typach ludzi, 
 Typy schematów społecznych:
 - **Schematy ról** (lekarz, nauczyciel, policjant)
 - **Schematy osób** (introwertyk, ekstrawertyk)
-- **Schematy zdarzeń** (scenariusze — co dzieje się na pierwszej randce)
+- **Schematy zdarzeń** (scenariusze - co dzieje się na pierwszej randce)
 - **Schematy grup** (stereotypy)
 
 ### Rola kategoryzacji
 
-Kategoryzowanie innych jako członków grup (wiek, płeć, etniczność, zawód) jest automatyczne i energooszczędne — ale prowadzi do:
+Kategoryzowanie innych jako członków grup (wiek, płeć, etniczność, zawód) jest automatyczne i energooszczędne - ale prowadzi do:
 - **Stereotypizacji:** Przypisywanie cech grupowych jednostce
-- **Homogenizacji outgrupy:** „Oni wszyscy są tacy sami" — przy jednoczesnym dostrzeganiu różnorodności w swojej grupie
-- **Efekt outgrupy (outgroup homogeneity effect):** Wszyscy profesorowie wyglądają podobnie — do czasu, gdy samemu zostaniemy profesorem
+- **Homogenizacji outgrupy:** „Oni wszyscy są tacy sami" - przy jednoczesnym dostrzeganiu różnorodności w swojej grupie
+- **Efekt outgrupy (outgroup homogeneity effect):** Wszyscy profesorowie wyglądają podobnie - do czasu, gdy samemu zostaniemy profesorem
 
 ## Intencjonalność i teoria umysłu
 
 ### Czytanie intencji
 
-Kluczowym elementem percepcji społecznej jest **przypisywanie intencji**. Eksperyment Heidera i Simmel (1944) z geometrycznymi figurami — trójkątem, kółkiem i prostokątem — wykazał, że ludzie spontanicznie interpretują ruch figur jako intencjonalne zachowanie społeczne: „duży trójkąt prześladuje małe kółko".
+Kluczowym elementem percepcji społecznej jest **przypisywanie intencji**. Eksperyment Heidera i Simmel (1944) z geometrycznymi figurami - trójkątem, kółkiem i prostokątem - wykazał, że ludzie spontanicznie interpretują ruch figur jako intencjonalne zachowanie społeczne: „duży trójkąt prześladuje małe kółko".
 
 ### Teoria umysłu (ToM)
 
-**Theory of Mind** to zdolność przypisywania innym *stanów mentalnych* — przekonań, pragnień, intencji — różnych od własnych. Manifestuje się m.in. w teście fałszywych przekonań (zadanie Sally-Anne).
+**Theory of Mind** to zdolność przypisywania innym *stanów mentalnych* - przekonań, pragnień, intencji - różnych od własnych. Manifestuje się m.in. w teście fałszywych przekonań (zadanie Sally-Anne).
 
 ToM jest kluczowa dla percepcji społecznej: bez niej niemożliwe jest rozumienie cudzych motywacji, ironii, kłamstwa czy empatii.
 
-> **W ASD:** Trudności w ToM (Baron-Cohen, 1985) tłumaczą wiele wyzwań społecznych — nie jako brak empatii, lecz jako odmienny sposób jej przetwarzania (empatia poznawcza vs. afektywna).
+> **W ASD:** Trudności w ToM (Baron-Cohen, 1985) tłumaczą wiele wyzwań społecznych - nie jako brak empatii, lecz jako odmienny sposób jej przetwarzania (empatia poznawcza vs. afektywna).
 
-## Percepcja emocji — rozpoznawanie afektu
+## Percepcja emocji - rozpoznawanie afektu
 
 Sygnały emocjonalne (mimika, ton głosu, postawa ciała) są kluczowym źródłem informacji społecznych. Paul Ekman (1969, 1992) zaproponował **sześć podstawowych emocji** o ekspresji uznawanej za kulturowo uniwersalną: strach, złość, wstręt, smutek, radość, zaskoczenie.
 
-Krytyka Ekmana (Barrett, 2017 — teoria konstruktywna emocji): Wyrazy twarzy nie są bezpośrednim *odczytem* stanu emocjonalnego — są *konstrukcją* na podstawie kontekstu kulturowego i indywidualnej historii.
+Krytyka Ekmana (Barrett, 2017 - teoria konstruktywna emocji): Wyrazy twarzy nie są bezpośrednim *odczytem* stanu emocjonalnego - są *konstrukcją* na podstawie kontekstu kulturowego i indywidualnej historii.
 
 ### Tendencja do tropienia emocji negatywnych
 
@@ -167,7 +167,7 @@ Ewolucyjnie mózg jest „nastawiony" na rozpoznawanie zagrożeń (negativity bi
 
 ### Percepcja społeczna a diagnoza
 
-- **Paranoja:** Nadmierna tendencja do atrybucji wrogich intencji (intention attribution bias) — najczęstsza forma w łagodnej postaci to **hostile attribution bias** u dzieci z agresją.
+- **Paranoja:** Nadmierna tendencja do atrybucji wrogich intencji (intention attribution bias) - najczęstsza forma w łagodnej postaci to **hostile attribution bias** u dzieci z agresją.
 - **Depresja:** Tendencja do atrybucji przyczyn wewnętrznych, stałych i globalnych (pesymistyczny styl atrybucyjny, Abramson, Seligman, Teasdale, 1978).
 - **Lęk społeczny:** Nadmierne skupienie na rzekomych negatywnych ocenach ze strony innych (post-event rumination, social comparison).
 

@@ -10,9 +10,9 @@ Przekształcanie wyników surowych na wyniki standardowe umożliwiające interpr
 
 ## Czym są normy?
 
-*Normy psychometryczne* to rozkłady wyników w populacji referencyjnej (normalizacyjnej), względem których interpretuje się wynik indywidualny. Bez norm wynik surowy (np. 42 punkty w teście) jest bezsensowny — normy pozwalają powiedzieć, że wynik odpowiada np. 75. centylowi lub 1 odchyleniu standardowemu powyżej średniej.
+*Normy psychometryczne* to rozkłady wyników w populacji referencyjnej (normalizacyjnej), względem których interpretuje się wynik indywidualny. Bez norm wynik surowy (np. 42 punkty w teście) jest bezsensowny - normy pozwalają powiedzieć, że wynik odpowiada np. 75. centylowi lub 1 odchyleniu standardowemu powyżej średniej.
 
-> Dobra normalizacja wymaga **reprezentatywnej próby** — dobranej według kryteriów demograficznych takich jak wiek, płeć, wykształcenie i region zamieszkania.
+> Dobra normalizacja wymaga **reprezentatywnej próby** - dobranej według kryteriów demograficznych takich jak wiek, płeć, wykształcenie i region zamieszkania.
 
 ## Wyniki standaryzowane
 
@@ -22,11 +22,11 @@ Przekształcanie wyników surowych na wyniki standardowe umożliwiające interpr
 
 **Skala IQ** (średnia 100, SD = 15) to transformacja liniowa stosowana w testach inteligencji (WAIS, WISC). Wynik IQ < 70 odpowiada przybliżeniu 2 SD poniżej średniej i jest kryterium niepełnosprawności intelektualnej.
 
-**Staeny** (*stanines* — standard nines) to dziewięciostopniowa skala normalizacyjna ze średnią 5 i SD ≈ 2. Każdy stanin odpowiada pasmu wyników z: stanin 5 obejmuje ±0,25 SD od średniej.
+**Staeny** (*stanines* - standard nines) to dziewięciostopniowa skala normalizacyjna ze średnią 5 i SD ≈ 2. Każdy stanin odpowiada pasmu wyników z: stanin 5 obejmuje ±0,25 SD od średniej.
 
 ## Percentyle
 
-*Centyl (percentyl)* określa, jaki procent populacji uzyskał wynik równy lub niższy od wyniku badanego. Centyl 50 = mediana. Centyle są łatwe do komunikacji, ale mają **nierówne interwały** — różnica między centylem 50 a 60 jest mniejsza niż między 90 a 95.
+*Centyl (percentyl)* określa, jaki procent populacji uzyskał wynik równy lub niższy od wyniku badanego. Centyl 50 = mediana. Centyle są łatwe do komunikacji, ale mają **nierówne interwały** - różnica między centylem 50 a 60 jest mniejsza niż między 90 a 95.
 
 ## Normy stratyfikowane
 
@@ -34,7 +34,7 @@ W neuropsychologii normy często stratyfikuje się ze względu na **wiek** (wyda
 
 ## Aktualizacja norm
 
-Normy starzeją się — efekt Flynna (stały wzrost IQ w populacjach zachodnich ~3 punkty na dekadę) oznacza, że stare normy zawyżają wyniki IQ. Normy powinny być aktualizowane co 15–20 lat.
+Normy starzeją się - efekt Flynna (stały wzrost IQ w populacjach zachodnich ~3 punkty na dekadę) oznacza, że stare normy zawyżają wyniki IQ. Normy powinny być aktualizowane co 15–20 lat.
 
 
 ## Wprowadzenie

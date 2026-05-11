@@ -4,7 +4,7 @@ reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
 
-# Psychologia szkolna i edukacyjna — wprowadzenie
+# Psychologia szkolna i edukacyjna - wprowadzenie
 
 ## Czym jest psychologia szkolna i edukacyjna?
 
@@ -14,7 +14,7 @@ Należy odróżnić psychologię szkolną od psychologii edukacyjnej w węższym
 
 > **Fakt:** W Polsce na jednego psychologa szkolnego przypada średnio ponad 1 000 uczniów, podczas gdy zalecany przez Polskie Towarzystwo Psychologiczne wskaźnik wynosi 1:500.
 
-## Rys historyczny — pionierzy dyscypliny
+## Rys historyczny - pionierzy dyscypliny
 
 Korzenie psychologii edukacyjnej sięgają przełomu XIX i XX wieku. **Edward Lee Thorndike** jako jeden z pierwszych zastosował metody eksperymentalne do badania uczenia się, formułując prawa efektu i ćwiczenia. Jego prace położyły fundament pod behawiorystyczne teorie nauczania.
 
@@ -36,7 +36,7 @@ Psychologia szkolna i edukacyjna obejmuje szeroki wachlarz zagadnień:
 
 ## Psychologia szkolna a psychologia ogólna
 
-Psychologia ogólna dostarcza teorii i narzędzi badawczych, natomiast psychologia szkolna stosuje je w specyficznym kontekście — instytucji edukacyjnej, z jej własną hierarchią, normami i oczekiwaniami społecznymi. Specyfika tej dziedziny polega na konieczności uwzględniania jednocześnie perspektywy jednostki (ucznia, nauczyciela), grupy (klasy, kadry pedagogicznej) oraz systemu (szkoły, rodziny, systemu oświaty).
+Psychologia ogólna dostarcza teorii i narzędzi badawczych, natomiast psychologia szkolna stosuje je w specyficznym kontekście - instytucji edukacyjnej, z jej własną hierarchią, normami i oczekiwaniami społecznymi. Specyfika tej dziedziny polega na konieczności uwzględniania jednocześnie perspektywy jednostki (ucznia, nauczyciela), grupy (klasy, kadry pedagogicznej) oraz systemu (szkoły, rodziny, systemu oświaty).
 
 > **Fakt:** Pierwsze poradnie psychologiczno-pedagogiczne w Polsce powstały w latach 50. XX wieku jako część systemu pomocy uczniom ze specjalnymi potrzebami edukacyjnymi.
 
@@ -55,7 +55,7 @@ W psychologii edukacyjnej stosuje się zarówno metody ilościowe (testy psychol
 Wśród aktualnych nurtów wyróżnia się:
 
 - neuronaukę edukacyjną (*educational neuroscience*), łączącą badania mózgu z projektowaniem nauczania
-- psychologię pozytywną w szkole — promowanie dobrostanu, rezyliencji i mocnych stron uczniów
+- psychologię pozytywną w szkole - promowanie dobrostanu, rezyliencji i mocnych stron uczniów
 - badania nad rolą technologii cyfrowych w uczeniu się
 - nierówności edukacyjne i ich psychologiczne korelaty
 - interwencje oparte na dowodach naukowych (*evidence-based interventions*)

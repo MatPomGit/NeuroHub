@@ -6,15 +6,15 @@ evidenceCutoffDate: 2025-12-31
 
 # Starzenie poznawcze
 
-Starzenie poznawcze (ang. *cognitive aging*) odnosi się do zmian w funkcjach psychicznych, które zachodzą wraz z wiekiem — w obszarach takich jak pamięć, uwaga, szybkość przetwarzania, język i funkcje wykonawcze. Zmiany te są zróżnicowane: część procesów ulega wyraźnemu osłabieniu, inne pozostają względnie stabilne, a niektóre właściwości umysłu mogą wręcz poprawiać się z wiekiem.
+Starzenie poznawcze (ang. *cognitive aging*) odnosi się do zmian w funkcjach psychicznych, które zachodzą wraz z wiekiem - w obszarach takich jak pamięć, uwaga, szybkość przetwarzania, język i funkcje wykonawcze. Zmiany te są zróżnicowane: część procesów ulega wyraźnemu osłabieniu, inne pozostają względnie stabilne, a niektóre właściwości umysłu mogą wręcz poprawiać się z wiekiem.
 
 ## Czym jest starzenie poznawcze?
 
 Starzenie poznawcze to normatywny, biologicznie uwarunkowany proces zmian w funkcjonowaniu umysłowym, niekoniecznie oznaczający patologię. Odróżniamy:
 
-- **Normalne starzenie poznawcze** — zmiany mieszczące się w zakresie oczekiwanym dla danej grupy wiekowej, bez istotnego wpływu na codzienne funkcjonowanie
-- **Łagodne zaburzenia poznawcze (MCI)** — obiektywne deficyty przekraczające normę wiekową, lecz bez pełnoobjawowej demencji
-- **Demencja** — poważne zaburzenia poznawcze upośledzające codzienne funkcjonowanie
+- **Normalne starzenie poznawcze** - zmiany mieszczące się w zakresie oczekiwanym dla danej grupy wiekowej, bez istotnego wpływu na codzienne funkcjonowanie
+- **Łagodne zaburzenia poznawcze (MCI)** - obiektywne deficyty przekraczające normę wiekową, lecz bez pełnoobjawowej demencji
+- **Demencja** - poważne zaburzenia poznawcze upośledzające codzienne funkcjonowanie
 
 > **Kluczowe rozróżnienie:** Zapominanie imienia aktora to normalne starzenie. Zapominanie imion bliskich krewnych lub gubienie się w dobrze znanych miejscach może wskazywać na demencję.
 
@@ -28,7 +28,7 @@ Spowolnienie przetwarzania to jeden z najbardziej konsekwentnych i dobrze udokum
 - wolniejsze wykonywanie złożonych czynności wieloetapowych
 - trudności w nadążaniu za szybko płynącymi informacjami (np. dialog w hałaśliwym otoczeniu)
 
-Teoria *general slowing* (Salthouse, 1996) sugeruje, że spowolnienie przetwarzania jest wspólnym mianownikiem wielu innych zmian poznawczych — jeśli operacje elementarne są wolniejsze, cierpi na tym każdy złożony proces.
+Teoria *general slowing* (Salthouse, 1996) sugeruje, że spowolnienie przetwarzania jest wspólnym mianownikiem wielu innych zmian poznawczych - jeśli operacje elementarne są wolniejsze, cierpi na tym każdy złożony proces.
 
 ### Pamięć
 
@@ -46,10 +46,10 @@ Pamięć prospektywna (pamiętanie o przyszłych zamierzeniach) ulega zmianom zr
 
 ### Uwaga
 
-- **Uwaga selektywna** — ogólnie dobrze zachowana, lecz wolniejsza
-- **Uwaga podzielna** — wyraźne trudności przy jednoczesnym wykonywaniu dwóch zadań poznawczych (dual-task cost rośnie z wiekiem)
-- **Uwaga utrzymywana (czujność)** — nieznaczne pogorszenie przy długich sesjach
-- **Hamowanie uwagi** — trudności z ignorowaniem dystraktorów (inhibitory deficit hypothesis, Hasher & Zacks)
+- **Uwaga selektywna** - ogólnie dobrze zachowana, lecz wolniejsza
+- **Uwaga podzielna** - wyraźne trudności przy jednoczesnym wykonywaniu dwóch zadań poznawczych (dual-task cost rośnie z wiekiem)
+- **Uwaga utrzymywana (czujność)** - nieznaczne pogorszenie przy długich sesjach
+- **Hamowanie uwagi** - trudności z ignorowaniem dystraktorów (inhibitory deficit hypothesis, Hasher & Zacks)
 
 ### Funkcje wykonawcze
 
@@ -67,39 +67,39 @@ Możliwości językowe w starości cechuje ciekawy dysonans:
 - **Dobra:** słownictwo (wiedza semantyczna), rozumienie tekstu, narracja autobiograficzna
 - **Gorsza:** dostępność słów (*tip-of-the-tongue phenomenon* narasta z wiekiem), szybkość generowania słów, złożona składnia
 
-> **Paradoks „słowa na końcu języka":** Starsze osoby doświadczają tego zjawiska częściej niż młodsze, lecz ostatecznie odtwarzają słowo w podobnym odsetku przypadków — wydłuża się czas, nie spada dokładność.
+> **Paradoks „słowa na końcu języka":** Starsze osoby doświadczają tego zjawiska częściej niż młodsze, lecz ostatecznie odtwarzają słowo w podobnym odsetku przypadków - wydłuża się czas, nie spada dokładność.
 
 ### Mądrość i wiedza zgromadzona
 
-Nie wszystko spada. Badania Paul Baltesa nad *mądrością* wskazują, że pewne aspekty wiedzy — szczególnie wiedza deklaratywna i proceduralna dotycząca życiowych problemów — mogą utrzymywać się lub rosnąć w całym życiu dorosłym. Podobnie inteligencja skrystalizowana (Gf vs. Gc model Cattella-Horna) pozostaje wysoka do późnej starości.
+Nie wszystko spada. Badania Paul Baltesa nad *mądrością* wskazują, że pewne aspekty wiedzy - szczególnie wiedza deklaratywna i proceduralna dotycząca życiowych problemów - mogą utrzymywać się lub rosnąć w całym życiu dorosłym. Podobnie inteligencja skrystalizowana (Gf vs. Gc model Cattella-Horna) pozostaje wysoka do późnej starości.
 
 ## Neurobiologiczne podłoże
 
 Zmiany poznawcze mają swoje anatomiczne i biochemiczne korelaty:
 
-- **Atrofia kory czołowej** — szczególnie płat czołowy, ściśle powiązany z funkcjami wykonawczymi i pamięcią roboczą
-- **Zmniejszenie objętości hipokampa** — ok. 0,5–1% rocznie po 60. r.ż.; hipokamp kluczowy dla pamięci epizodycznej
-- **Redukcja istoty białej** — zaburzenia połączeń między obszarami mózgu (dyskonektywność)
-- **Zmiany dopaminergiczne** — spadek gęstości receptorów D2 w prążkowiu; związek z szybkością przetwarzania i pamięcią roboczą
-- **Zmniejszona neuroplastyczność** — osłabione LTP (long-term potentiation) jako mechanizm uczenia się synapsa
+- **Atrofia kory czołowej** - szczególnie płat czołowy, ściśle powiązany z funkcjami wykonawczymi i pamięcią roboczą
+- **Zmniejszenie objętości hipokampa** - ok. 0,5–1% rocznie po 60. r.ż.; hipokamp kluczowy dla pamięci epizodycznej
+- **Redukcja istoty białej** - zaburzenia połączeń między obszarami mózgu (dyskonektywność)
+- **Zmiany dopaminergiczne** - spadek gęstości receptorów D2 w prążkowiu; związek z szybkością przetwarzania i pamięcią roboczą
+- **Zmniejszona neuroplastyczność** - osłabione LTP (long-term potentiation) jako mechanizm uczenia się synapsa
 
 ### Rezerwa poznawcza
 
 Teoria **rezerwy poznawczej** (Stern, 2002) wyjaśnia, dlaczego osoby o wyższym wykształceniu, bogatszych doświadczeniach życiowych i aktywnym stylu życia wykazują lepszą odporność na skutki zmian mózgowych. Rezerwa może działać przez:
 
-- *brain reserve* — większa liczba neuronów i synaps wyjściowo (bufor strukturalny)
-- *cognitive reserve* — bardziej elastyczne, wydajne strategie poznawcze (elastyczność funkcjonalna)
+- *brain reserve* - większa liczba neuronów i synaps wyjściowo (bufor strukturalny)
+- *cognitive reserve* - bardziej elastyczne, wydajne strategie poznawcze (elastyczność funkcjonalna)
 
 ## Różnice indywidualne i czynniki modyfikujące
 
 Starzenie poznawcze jest wysoce heterogeniczne. Czynniki spowalniające pogorszenie:
 
-- **Aktywność fizyczna** — najlepiej udokumentowany czynnik neuroprotekcyjny; aerobik zwiększa objętość hipokampa (Erickson i wsp., 2011)
-- **Aktywność umysłowa** — czytanie, nauka języków, granie na instrumencie
-- **Kontakty społeczne** — sieci wsparcia społecznego chronią funkcje poznawcze
-- **Dobra jakość snu** — podczas snu odbywa się clearance amyloidu przez układ glimfatyczny
-- **Kontrola czynników naczyniowych** — ciśnienie tętnicze, cukrzyca, cholesterol
-- **Dieta** — dieta MIND (Mediterranean-DASH Intervention for Neurodegenerative Delay) obniża ryzyko demencji o ok. 53%
+- **Aktywność fizyczna** - najlepiej udokumentowany czynnik neuroprotekcyjny; aerobik zwiększa objętość hipokampa (Erickson i wsp., 2011)
+- **Aktywność umysłowa** - czytanie, nauka języków, granie na instrumencie
+- **Kontakty społeczne** - sieci wsparcia społecznego chronią funkcje poznawcze
+- **Dobra jakość snu** - podczas snu odbywa się clearance amyloidu przez układ glimfatyczny
+- **Kontrola czynników naczyniowych** - ciśnienie tętnicze, cukrzyca, cholesterol
+- **Dieta** - dieta MIND (Mediterranean-DASH Intervention for Neurodegenerative Delay) obniża ryzyko demencji o ok. 53%
 
 Czynniki przyspieszające pogorszenie:
 
@@ -116,10 +116,10 @@ Czynniki przyspieszające pogorszenie:
 
 Podstawowe narzędzia w geropsychologii:
 
-- **MMSE** (Mini-Mental State Examination) — szybki przesiew; czułość na MCI ograniczona
-- **MoCA** (Montreal Cognitive Assessment) — czulszy od MMSE, wykrywa MCI; bada m.in. funkcje wykonawcze, pamięć wzrokową
-- **SLUMS** (Saint Louis University Mental Status) — alternatywa do MoCA
-- **ACE-III** (Addenbrooke's Cognitive Examination III) — bardziej szczegółowy przesiew różnych domen
+- **MMSE** (Mini-Mental State Examination) - szybki przesiew; czułość na MCI ograniczona
+- **MoCA** (Montreal Cognitive Assessment) - czulszy od MMSE, wykrywa MCI; bada m.in. funkcje wykonawcze, pamięć wzrokową
+- **SLUMS** (Saint Louis University Mental Status) - alternatywa do MoCA
+- **ACE-III** (Addenbrooke's Cognitive Examination III) - bardziej szczegółowy przesiew różnych domen
 
 ### Pełna ocena neuropsychologiczna
 
@@ -137,17 +137,17 @@ Diagnostyka różnicowa wymaga szerszej baterii testów:
 
 ### Trening poznawczy
 
-Badania potwierdzają, że trening poznawczy może poprawiać konkretne ćwiczone zdolności (efekty specyficzne) i — w mniejszym stopniu — funkcjonowanie w codziennym życiu:
+Badania potwierdzają, że trening poznawczy może poprawiać konkretne ćwiczone zdolności (efekty specyficzne) i - w mniejszym stopniu - funkcjonowanie w codziennym życiu:
 
-- **Trening pamięci** — strategie mnemoniczne (metoda loci, chunking, obrazowanie); skuteczny w poprawie pamięci epizodycznej
-- **Trening szybkości przetwarzania** — efekty generalizują się na niektóre codzienne funkcje (np. bezpieczna jazda samochodem)
-- **Trening multimodalny** — łączenie ćwiczeń fizycznych z kognitywnymi (tzw. *exergaming*); obiecujące wyniki
+- **Trening pamięci** - strategie mnemoniczne (metoda loci, chunking, obrazowanie); skuteczny w poprawie pamięci epizodycznej
+- **Trening szybkości przetwarzania** - efekty generalizują się na niektóre codzienne funkcje (np. bezpieczna jazda samochodem)
+- **Trening multimodalny** - łączenie ćwiczeń fizycznych z kognitywnymi (tzw. *exergaming*); obiecujące wyniki
 
 ### Środowiskowe wspieranie funkcji poznawczych
 
 - zewnętrzne narzędzia pamięci (kalendarze, notatki, listy zadań)
 - redukcja dystraktorów w środowisku domowym
-- rutyny i habituacja — zwalniają zasoby uwagi dla nowych zadań
+- rutyny i habituacja - zwalniają zasoby uwagi dla nowych zadań
 - wsparcie rodziny w rozpoznawaniu wczesnych oznak pogorszenia
 
 ## Podsumowanie

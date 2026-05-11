@@ -4,7 +4,7 @@ reviewCycleMonths: 24
 evidenceCutoffDate: 2026-04-01
 ---
 
-# Pacjentka S.M. — „kobieta bez lęku”
+# Pacjentka S.M. - „kobieta bez lęku”
 
 Przypadek neurologiczny, który radykalnie zmienił rozumienie roli ciała migdałowatego w przetwarzaniu strachu i ocenie zagrożeń społecznych.
 

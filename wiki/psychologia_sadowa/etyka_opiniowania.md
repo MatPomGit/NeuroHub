@@ -8,11 +8,11 @@ evidenceCutoffDate: 2025-12-31
 
 ## Fundamenty etyczne roli biegłego
 
-Praca biegłego psychologa sądowego stawia przed specjalistą wyjątkowe wymagania etyczne. W odróżnieniu od praktyki klinicznej, w której centralną wartością jest dobro klienta, opiniowanie sądowe podlega innej hierarchii zobowiązań: na pierwszym miejscu stoi prawda i rzetelność wobec sądu, na drugim — prawa i godność osoby badanej, na trzecim — interes publiczny.
+Praca biegłego psychologa sądowego stawia przed specjalistą wyjątkowe wymagania etyczne. W odróżnieniu od praktyki klinicznej, w której centralną wartością jest dobro klienta, opiniowanie sądowe podlega innej hierarchii zobowiązań: na pierwszym miejscu stoi prawda i rzetelność wobec sądu, na drugim - prawa i godność osoby badanej, na trzecim - interes publiczny.
 
-To przeorganizowanie hierarchii wartości rodzi napięcia, które biegły musi rozwiązywać świadomie i refleksyjnie. Nie oznacza to, że dobro badanego staje się nieistotne — przeciwnie, biegły ma obowiązek poszanowania godności, autonomii i praw każdej osoby, z którą ma kontakt. Oznacza to jednak, że lojalność wobec badanego nie może prowadzić do zatajenia lub zniekształcenia danych na jego korzyść.
+To przeorganizowanie hierarchii wartości rodzi napięcia, które biegły musi rozwiązywać świadomie i refleksyjnie. Nie oznacza to, że dobro badanego staje się nieistotne - przeciwnie, biegły ma obowiązek poszanowania godności, autonomii i praw każdej osoby, z którą ma kontakt. Oznacza to jednak, że lojalność wobec badanego nie może prowadzić do zatajenia lub zniekształcenia danych na jego korzyść.
 
-> **Fakt:** W badaniach Nealona i in. (2019) przeprowadzonych wśród 300 biegłych psychologów sądowych w USA, 43% respondentów zgłosiło, że doświadczyli presji ze strony prawników lub stron postępowania, by zmodyfikować treść opinii — potwierdzając realność zagrożeń dla bezstronności.
+> **Fakt:** W badaniach Nealona i in. (2019) przeprowadzonych wśród 300 biegłych psychologów sądowych w USA, 43% respondentów zgłosiło, że doświadczyli presji ze strony prawników lub stron postępowania, by zmodyfikować treść opinii - potwierdzając realność zagrożeń dla bezstronności.
 
 ## Konflikt ról i zakaz podwójnych relacji
 
@@ -29,15 +29,15 @@ Mieszanie ról zagraża bezstronności, naraża badanego na naruszenie granic i 
 Zanim biegły przystąpi do badania, ma obowiązek poinformowania osoby badanej:
 - O swojej roli i statusie (biegły sądu, nie terapeuta)
 - O celu badania i tym, że wyniki zostaną przekazane sądowi
-- O braku poufności — w odróżnieniu od relacji terapeutycznej
+- O braku poufności - w odróżnieniu od relacji terapeutycznej
 - O prawie do odmowy odpowiedzi na poszczególne pytania (przy zachowaniu konsekwencji procesowych)
 - O możliwości zasięgnięcia porady prawnej przed badaniem
 
-To tzw. **forensic informed consent** — zgoda oparta na pełnej informacji. W praktyce polskiej jest to standard postulowany przez PTP, choć nie zawsze konsekwentnie stosowany.
+To tzw. **forensic informed consent** - zgoda oparta na pełnej informacji. W praktyce polskiej jest to standard postulowany przez PTP, choć nie zawsze konsekwentnie stosowany.
 
 ## Bezstronność i niezawisłość
 
-Biegły jest powołany przez sąd lub prokuratora i służy organowi procesowemu, a nie żadnej ze stron. Jego obowiązkiem jest rzetelna prezentacja wyników i wniosków — nawet gdy są one niekorzystne dla strony, która inicjowała powołanie biegłego.
+Biegły jest powołany przez sąd lub prokuratora i służy organowi procesowemu, a nie żadnej ze stron. Jego obowiązkiem jest rzetelna prezentacja wyników i wniosków - nawet gdy są one niekorzystne dla strony, która inicjowała powołanie biegłego.
 
 **Efekt adwokacki** (*allegiance effect*) polega na tendencji biegłego do formułowania wniosków bardziej korzystnych dla strony, która go powołała lub poleciła. Badania empiryczne potwierdzają istnienie tego efektu nawet u doświadczonych specjalistów. Jego przezwyciężenie wymaga świadomej refleksji, superwizji i stosowania standaryzowanych metod oceny niezależnych od subiektywnych sądów klinicznych.
 
@@ -55,15 +55,15 @@ Etyka biegłego obejmuje także odpowiedzialność za sposób komunikowania wyni
 - Informować o ograniczeniach metod i stopniu pewności wniosków
 - Unikać stygmatyzujących etykiet bez uzasadnienia empirycznego
 
-Szczególną ostrożność wymagają opinie dotyczące zaburzeń psychicznych i cech osobowości — diagnoza kliniczna w kontekście sądowym może mieć daleko idące konsekwencje społeczne i prawne.
+Szczególną ostrożność wymagają opinie dotyczące zaburzeń psychicznych i cech osobowości - diagnoza kliniczna w kontekście sądowym może mieć daleko idące konsekwencje społeczne i prawne.
 
 ## Tajemnica zawodowa a obowiązki procesowe
 
-Biegły jest zobowiązany do zachowania tajemnicy zawodowej w zakresie, w jakim nie koliduje to z obowiązkami procesowymi. Treść opinii i zebrane dane podlegają ochronie — biegły nie powinien ujawniać wyników osobom nieuprawnionym ani komentować sprawy publicznie. Jednocześnie, na żądanie sądu, jest zobowiązany do ujawnienia dokumentacji leżącej u podstaw opinii.
+Biegły jest zobowiązany do zachowania tajemnicy zawodowej w zakresie, w jakim nie koliduje to z obowiązkami procesowymi. Treść opinii i zebrane dane podlegają ochronie - biegły nie powinien ujawniać wyników osobom nieuprawnionym ani komentować sprawy publicznie. Jednocześnie, na żądanie sądu, jest zobowiązany do ujawnienia dokumentacji leżącej u podstaw opinii.
 
 ## Podsumowanie
 
-Etyka opiniowania sądowego to system świadomych wyborów i refleksji nad własną praktyką. Biegły, który traktuje swoje zadanie wyłącznie jako techniczne wykonanie zlecenia, naraża się na naruszenie zasad etycznych i prawnych. Rzetelna, etyczna opinia — równoważąca wymogi prawne z poszanowaniem godności badanego i prawdą naukową — jest fundamentem sprawiedliwości, której biegły jest służbą.
+Etyka opiniowania sądowego to system świadomych wyborów i refleksji nad własną praktyką. Biegły, który traktuje swoje zadanie wyłącznie jako techniczne wykonanie zlecenia, naraża się na naruszenie zasad etycznych i prawnych. Rzetelna, etyczna opinia - równoważąca wymogi prawne z poszanowaniem godności badanego i prawdą naukową - jest fundamentem sprawiedliwości, której biegły jest służbą.
 
 
 ## Wprowadzenie

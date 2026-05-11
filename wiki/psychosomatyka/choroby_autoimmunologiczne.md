@@ -6,14 +6,14 @@ evidenceCutoffDate: 2025-12-31
 
 # Psychosomatyka w chorobach autoimmunologicznych
 
-Choroby autoimmunologiczne — w których układ odpornościowy atakuje własne tkanki — mają złożone, wieloczynnikowe podłoże. Czynniki psychologiczne, choć nie są bezpośrednią przyczyną autoimmunizacji, mają udokumentowany wpływ na podatność, wyzwolenie zaostrzeń i przebieg choroby.
+Choroby autoimmunologiczne - w których układ odpornościowy atakuje własne tkanki - mają złożone, wieloczynnikowe podłoże. Czynniki psychologiczne, choć nie są bezpośrednią przyczyną autoimmunizacji, mają udokumentowany wpływ na podatność, wyzwolenie zaostrzeń i przebieg choroby.
 
 ## Układ odpornościowy jako czułe echo psychiki
 
 Układ immunologiczny i mózg komunikują się na wiele sposobów:
 
 - Neurony i limfocyty posiadają wspólne receptory dla neuropeptydów i cytokin
-- Kortyzol moduluje odpowiedź immunologiczną (fizjologicznie — immunosupresja; paradoksalnie przy glukokortykorezystancji — nasilenie zapalenia)
+- Kortyzol moduluje odpowiedź immunologiczną (fizjologicznie - immunosupresja; paradoksalnie przy glukokortykorezystancji - nasilenie zapalenia)
 - Stres nasila produkcję cytokin prozapalnych, które mogą „zalewać" układ immunologiczny i zaburzać tolerancję własnych antygenów
 
 ## Trauma i autoimmunizacja
@@ -28,7 +28,7 @@ Mechanizm: dysregulacja osi HPA po traumie → zaburzona ochronna funkcja kortyz
 
 ## Reumatoidalne zapalenie stawów (RZS)
 
-RZS — przewlekła choroba zapalna stawów — ma silne powiązania z psychiką:
+RZS - przewlekła choroba zapalna stawów - ma silne powiązania z psychiką:
 
 **Obciążenia psychologiczne:**
 - Depresja dotyka 15–40% pacjentów z RZS (2–3× wyżej niż w populacji)
@@ -41,11 +41,11 @@ RZS — przewlekła choroba zapalna stawów — ma silne powiązania z psychiką
 
 ## Toczeń rumieniowaty układowy (SLE)
 
-SLE — choroba o szerokim spektrum narządowym. Szczególna wrażliwość na stres:
+SLE - choroba o szerokim spektrum narządowym. Szczególna wrażliwość na stres:
 
 - Zaostrzenia często poprzedzone stresem psychologicznym lub zakażeniem
 - Wysoka częstość depresji (50%) i lęku (37%)
-- Neuropsychiatryczny SLE (NPSLE) — objawy psychiatryczne jako bezpośredni skutek choroby (psychoza, delir, depresja organiczna)
+- Neuropsychiatryczny SLE (NPSLE) - objawy psychiatryczne jako bezpośredni skutek choroby (psychoza, delir, depresja organiczna)
 
 ## Choroba Hashimoto i nadczynność tarczycy
 
@@ -58,18 +58,18 @@ SLE — choroba o szerokim spektrum narządowym. Szczególna wrażliwość na st
 Związki psychologiczne w SM:
 
 - Depresja jest najczęstszą komorbidnością psychiatryczną (50%)
-- Zmęczenie i ból — silnie modulowane psychologicznie
+- Zmęczenie i ból - silnie modulowane psychologicznie
 - Stres i wyczerpanie emocjonalne → rzuty choroby (kontrowersyjne, ale obserwowane klinicznie)
 
-## Podejście kliniczne — psychosomatyczna opieka przy autoimmunizacji
+## Podejście kliniczne - psychosomatyczna opieka przy autoimmunizacji
 
 Kluczowe elementy:
 
-1. **Psychoedukacja** — wyjaśnienie związku stresu i choroby bez winy
-2. **Leczenie depresji i lęku** — często niedodiagnozowane i nieleczone
-3. **Trening zarządzania stresem** — MBSR, CBT, biofeedback
-4. **Wsparcie społeczne** — grupy wsparcia, psychoterapia grupowa
-5. **Praca z traumą** — przy silnym ACE lub PTSD poprzedzającym chorobę
+1. **Psychoedukacja** - wyjaśnienie związku stresu i choroby bez winy
+2. **Leczenie depresji i lęku** - często niedodiagnozowane i nieleczone
+3. **Trening zarządzania stresem** - MBSR, CBT, biofeedback
+4. **Wsparcie społeczne** - grupy wsparcia, psychoterapia grupowa
+5. **Praca z traumą** - przy silnym ACE lub PTSD poprzedzającym chorobę
 
 > **Podsumowanie:** Choroby autoimmunologiczne nie są „spowodowane" przez stres, lecz stres i trauma są istotnymi kofaktorami modulującymi podatność, wyzwalanie i przebieg. Zintegrowana opieka bio-psycho-społeczna zmienia rokowanie pacjenta.
 

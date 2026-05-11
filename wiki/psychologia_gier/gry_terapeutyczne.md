@@ -8,11 +8,11 @@ evidenceCutoffDate: 2025-12-31
 
 ## Gry jako narzędzie terapeutyczne
 
-Przez długi czas gry wideo były postrzegane w kontekście medycznym wyłącznie jako zagrożenie — źródło uzależnienia lub agresji. Tymczasem ostatnie dwie dekady przyniosły dynamiczny rozwój zastosowań gier jako narzędzi terapeutycznych i rehabilitacyjnych. Gry angażują mechanizmy psychologiczne i neurobiologiczne, które czynią je potencjalnie skutecznym medium interwencji: wywołują motywację, nagrodę, uwagę i zaangażowanie emocjonalne w kontrolowany sposób.
+Przez długi czas gry wideo były postrzegane w kontekście medycznym wyłącznie jako zagrożenie - źródło uzależnienia lub agresji. Tymczasem ostatnie dwie dekady przyniosły dynamiczny rozwój zastosowań gier jako narzędzi terapeutycznych i rehabilitacyjnych. Gry angażują mechanizmy psychologiczne i neurobiologiczne, które czynią je potencjalnie skutecznym medium interwencji: wywołują motywację, nagrodę, uwagę i zaangażowanie emocjonalne w kontrolowany sposób.
 
 > **Fakt:** Gra *Tetris* okazała się skuteczna w redukcji natrętnych wspomnień u osób po urazie psychicznym. Badanie Emily Holmes z University of Oxford (2009) sugeruje, że mechanizm polega na konkurencji o zasoby wzrokowo-przestrzenne podczas konsolidacji pamięci traumatycznej.
 
-## Serious Games — gry o poważnych celach
+## Serious Games - gry o poważnych celach
 
 **Serious games** to gry zaprojektowane z myślą o celach innych niż rozrywka. Termin obejmuje szerokie spektrum zastosowań:
 
@@ -22,7 +22,7 @@ Przez długi czas gry wideo były postrzegane w kontekście medycznym wyłączni
 - Gry szkoleniowe (wojskowe, medyczne, lotnicze)
 - Gry promujące zdrowie (behavior change games)
 
-Kluczową zasadą serious games jest to, że mechanizmy gry muszą służyć realizacji celu terapeutycznego lub edukacyjnego — nie tylko być do niego „podczepione". Gra musi być na tyle angażująca, by utrzymać motywację pacjenta, ale jej mechaniki muszą bezpośrednio ćwiczyć pożądane umiejętności lub procesy.
+Kluczową zasadą serious games jest to, że mechanizmy gry muszą służyć realizacji celu terapeutycznego lub edukacyjnego - nie tylko być do niego „podczepione". Gra musi być na tyle angażująca, by utrzymać motywację pacjenta, ale jej mechaniki muszą bezpośrednio ćwiczyć pożądane umiejętności lub procesy.
 
 ## Wirtualna rzeczywistość w terapii
 
@@ -30,14 +30,14 @@ Kluczową zasadą serious games jest to, że mechanizmy gry muszą służyć rea
 
 ### VR w terapii fobii
 
-Terapia ekspozycji in virtuo (VRET — Virtual Reality Exposure Therapy) jest najlepiej zbadanym zastosowaniem VR w psychoterapii:
+Terapia ekspozycji in virtuo (VRET - Virtual Reality Exposure Therapy) jest najlepiej zbadanym zastosowaniem VR w psychoterapii:
 
 - **Agorafobia i lęk społeczny**: ekspozycja na tłumy, transport publiczny, windy
 - **Lęk wysokości (acrofobia)**: stopniowe ekspozycje na coraz większe wysokości w bezpiecznym środowisku
 - **Fobia pająków (arachnofobia)**: interakcja z wirtualnymi pająkami w kontrolowanych warunkach
 - **Fobia lotnicza**: wirtualne loty z możliwością precyzyjnego dozowania stresorów
 
-Meta-analizy (Morina i in., 2015; Carl i in., 2019) potwierdzają skuteczność VRET porównywalną z terapią ekspozycji in vivo, przy wyraźnej przewadze pod względem akceptowalności przez pacjentów — wielu pacjentów woli zacząć od VR.
+Meta-analizy (Morina i in., 2015; Carl i in., 2019) potwierdzają skuteczność VRET porównywalną z terapią ekspozycji in vivo, przy wyraźnej przewadze pod względem akceptowalności przez pacjentów - wielu pacjentów woli zacząć od VR.
 
 ### VR w leczeniu PTSD
 
@@ -53,7 +53,7 @@ Wyzwania: koszty sprzętu, ryzyko cybersickness (nudności w VR), konieczność 
 
 ### VR w leczeniu bólu przewlekłego i proceduralnego
 
-SnowWorld — jedna z pierwszych gier VR zaprojektowanych terapeutycznie — przenosi pacjentów podczas bolesnych procedur (np. opatrywania oparzeń) do zimowego krajobrazu, gdzie mogą strzelać śnieżkami do pingwinów. Badania Hofmanna i in. wykazały redukcję bólu o 35–50% i zmniejszenie lęku proceduralnego. Mechanizm to prawdopodobnie odwrócenie uwagi od bólu przez pochłaniające środowisko VR.
+SnowWorld - jedna z pierwszych gier VR zaprojektowanych terapeutycznie - przenosi pacjentów podczas bolesnych procedur (np. opatrywania oparzeń) do zimowego krajobrazu, gdzie mogą strzelać śnieżkami do pingwinów. Badania Hofmanna i in. wykazały redukcję bólu o 35–50% i zmniejszenie lęku proceduralnego. Mechanizm to prawdopodobnie odwrócenie uwagi od bólu przez pochłaniające środowisko VR.
 
 ## Gamifikacja w opiece zdrowotnej
 
@@ -61,10 +61,10 @@ SnowWorld — jedna z pierwszych gier VR zaprojektowanych terapeutycznie — prz
 
 ### Aplikacje zdrowotne z elementami gier
 
-- **Zombies, Run!**: aplikacja do biegania, w której użytkownik staje się bohaterem apokalipsy zombie — zwiększa motywację do ćwiczeń
+- **Zombies, Run!**: aplikacja do biegania, w której użytkownik staje się bohaterem apokalipsy zombie - zwiększa motywację do ćwiczeń
 - **SuperBetter**: aplikacja opracowana przez Jane McGonigal, pomagająca pacjentom z depresją i przewlekłymi chorobami przez ustalanie misji i zdobywanie osiągnięć
-- **mySugr**: zarządzanie cukrzycą z elementami gamifikacji — dziennik glikemii jako misje do wykonania
-- **Headspace**: gamifikacja medytacji — serie, paski (streak), odznaki
+- **mySugr**: zarządzanie cukrzycą z elementami gamifikacji - dziennik glikemii jako misje do wykonania
+- **Headspace**: gamifikacja medytacji - serie, paski (streak), odznaki
 
 ### Skuteczność gamifikacji zdrowotnej
 
@@ -105,15 +105,15 @@ Dzieci ze spektrum autyzmu (ASD) często wykazują silne zainteresowanie grami w
 
 - **Nauka kompetencji społecznych**: gry kooperacyjne jako trening rozumienia intencji innych i koordynacji
 - **Wirtualne środowiska do nauki interakcji**: avatary w VR jako „bezpieczni" partnerzy do ćwiczenia rozpoznawania emocji
-- **Gry z elementami zarządzania emocjami**: szczególnie *Mightier* — biofeedback zintegrowany z grą
+- **Gry z elementami zarządzania emocjami**: szczególnie *Mightier* - biofeedback zintegrowany z grą
 
 Ramirez (2019) wykazał, że dzieci z ASD grające wspólnie wykazywały więcej inicjatyw społecznych i więcej wzajemnego spojrzenia niż w tradycyjnym treningu.
 
-## Przykład kliniczny — VR w terapii fobii
+## Przykład kliniczny - VR w terapii fobii
 
 **Przypadek Tomka, 28 lat, z fobią lotniczą:**
 
-Tomek jest prawnikiem, który od kilku lat unika podróży lotniczych z powodu intensywnego lęku przed lataniem. Lęk narastał stopniowo po niepokojącym locie kilka lat temu. Tradycyjna psychoedukacja i praca poznawcza przyniosły ograniczone efekty — Tomek intelektualnie rozumiał statystyki bezpieczeństwa lotnictwa, ale nie potrafił zarządzać emocjami. Terapeuta zaproponował VRET. W ciągu 8 sesji Tomek stopniowo eksponował się na lotnisko, odprawę, wejście na pokład, turbulencje — wszystko w środowisku VR. Terapeuta był obecny i dostosowywał intensywność ekspozycji. Po zakończeniu terapii Tomek odbył rzeczywisty lot krótki trasą — z nasilonym lękiem, ale bez katastrofizacji. Uznał terapię za przełom.
+Tomek jest prawnikiem, który od kilku lat unika podróży lotniczych z powodu intensywnego lęku przed lataniem. Lęk narastał stopniowo po niepokojącym locie kilka lat temu. Tradycyjna psychoedukacja i praca poznawcza przyniosły ograniczone efekty - Tomek intelektualnie rozumiał statystyki bezpieczeństwa lotnictwa, ale nie potrafił zarządzać emocjami. Terapeuta zaproponował VRET. W ciągu 8 sesji Tomek stopniowo eksponował się na lotnisko, odprawę, wejście na pokład, turbulencje - wszystko w środowisku VR. Terapeuta był obecny i dostosowywał intensywność ekspozycji. Po zakończeniu terapii Tomek odbył rzeczywisty lot krótki trasą - z nasilonym lękiem, ale bez katastrofizacji. Uznał terapię za przełom.
 
 ## Ograniczenia i wyzwania
 
@@ -127,7 +127,7 @@ Pomimo obiecujących wyników, terapeutyczne zastosowania gier mają istotne ogr
 
 ## Podsumowanie
 
-Gry wideo i wirtualna rzeczywistość otwierają fascynujące możliwości terapeutyczne i rehabilitacyjne. VRET w leczeniu fobii i PTSD, gamifikacja adherencji zdrowotnej, gry rehabilitacyjne po udarze i rehabilitacja poznawcza z użyciem platform gamingowych — to obszary z rosnącą bazą dowodową. Klinicyści powinni być świadomi tych możliwości i rozważać ich włączenie do repertuaru interwencji, szczególnie u pacjentów, dla których tradycyjne metody są mniej dostępne lub akceptowalne.
+Gry wideo i wirtualna rzeczywistość otwierają fascynujące możliwości terapeutyczne i rehabilitacyjne. VRET w leczeniu fobii i PTSD, gamifikacja adherencji zdrowotnej, gry rehabilitacyjne po udarze i rehabilitacja poznawcza z użyciem platform gamingowych - to obszary z rosnącą bazą dowodową. Klinicyści powinni być świadomi tych możliwości i rozważać ich włączenie do repertuaru interwencji, szczególnie u pacjentów, dla których tradycyjne metody są mniej dostępne lub akceptowalne.
 
 
 ## Wprowadzenie

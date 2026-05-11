@@ -11,14 +11,14 @@ Praktyka psychologiczna rzadko przebiega według prostych reguł. **Dylemat etyc
 ## Czym jest dylemat etyczny?
 
 Dylemat etyczny różni się od **problemu etycznego**:
-- **Problem etyczny** — sytuacja, w której nie wiemy, co jest właściwe, bo brakuje nam informacji lub wiedzy o zasadach
-- **Dylemat etyczny** — sytuacja, w której wiemy, jakie zasady są relewantne, ale są one ze sobą **sprzeczne**
+- **Problem etyczny** - sytuacja, w której nie wiemy, co jest właściwe, bo brakuje nam informacji lub wiedzy o zasadach
+- **Dylemat etyczny** - sytuacja, w której wiemy, jakie zasady są relewantne, ale są one ze sobą **sprzeczne**
 
-Klasyczny dylemat: klient wyjawia zamiar skrzywdzenia osoby trzeciej. Zasada poufności (art. 14 Kodeksu PTP) vs. obowiązek ochrony osób trzecich (*duty to warn* — Tarasoff v. Regents, 1976).
+Klasyczny dylemat: klient wyjawia zamiar skrzywdzenia osoby trzeciej. Zasada poufności (art. 14 Kodeksu PTP) vs. obowiązek ochrony osób trzecich (*duty to warn* - Tarasoff v. Regents, 1976).
 
 ## Model 8-krokowy Kitchenera
 
-Karen Kitchener (1984) — jeden z najbardziej wpływowych modeli rozwiązywania dylematów etycznych, rozwinięty przez Beauchamp i Childress:
+Karen Kitchener (1984) - jeden z najbardziej wpływowych modeli rozwiązywania dylematów etycznych, rozwinięty przez Beauchamp i Childress:
 
 ### Krok 1: Identyfikacja problemu
 Czy to problem etyczny czy tylko trudna sytuacja kliniczna? Jakie wartości lub zasady są zaangażowane?
@@ -50,19 +50,19 @@ Ustawa o zawodzie psychologa (2001), RODO, Kodeks PTP, regulaminy instytucji.
 Wybór opcji z najlepszym uzasadnieniem etycznym i udokumentowanie procesu decyzyjnego.
 
 ### Krok 8: Refleksja i ocena
-Po zakończeniu — czy decyzja przyniosła zamierzony efekt? Czego nauczyłem się na przyszłość?
+Po zakończeniu - czy decyzja przyniosła zamierzony efekt? Czego nauczyłem się na przyszłość?
 
 ## Dylematy wielorelacyjne (*dual relationships*)
 
 ### Definicja
 
-Podwójna rola pojawia się, gdy psycholog pozostaje z klientem **zarówno w relacji profesjonalnej, jak i innej** — osobistej, finansowej, społecznej lub zawodowej.
+Podwójna rola pojawia się, gdy psycholog pozostaje z klientem **zarówno w relacji profesjonalnej, jak i innej** - osobistej, finansowej, społecznej lub zawodowej.
 
 ### Spektrum podwójnych ról
 
 | Typ | Przykład | Ryzyko |
 |---|---|---|
-| **Seksualna** | Kontakt seksualny z klientem lub byłym klientem | Najcięższe naruszenie — absolutny zakaz |
+| **Seksualna** | Kontakt seksualny z klientem lub byłym klientem | Najcięższe naruszenie - absolutny zakaz |
 | **Finansowa** | Psycholog inwestuje z klientem | Konflikt interesów |
 | **Społeczna** | Terapia przyjaciela | Zniekształcenie obiektywizmu |
 | **Zawodowa** | Superwizja podwładnego | Władza vs. terapeutyczna bezstronność |
@@ -82,15 +82,15 @@ Nie każda podwójna rola jest nieetyczna. Szczególnie w małych społeczności
 
 Poufność nie jest absolutna. Kodeks PTP i prawo polskie wymagają jej złamania w określonych sytuacjach:
 
-1. **Ryzyko samobójstwa** — konieczność interwencji kryzysowej
-2. **Ryzyko dla osób trzecich** (*duty to warn/protect*) — Tarasoff
-3. **Przemoc wobec dzieci** — obowiązek zgłoszenia do organów
-4. **Nakaz sądowy** — dokumentacja terapeutyczna na żądanie sądu
-5. **Superwizja** — omówienie przypadku z superwizorem (za zgodą lub anonymizowane)
+1. **Ryzyko samobójstwa** - konieczność interwencji kryzysowej
+2. **Ryzyko dla osób trzecich** (*duty to warn/protect*) - Tarasoff
+3. **Przemoc wobec dzieci** - obowiązek zgłoszenia do organów
+4. **Nakaz sądowy** - dokumentacja terapeutyczna na żądanie sądu
+5. **Superwizja** - omówienie przypadku z superwizorem (za zgodą lub anonymizowane)
 
 ### Dylemat: klient ujawnia przestępstwo
 
-Przykład: klient w trakcie terapii wyznaje, że kilka lat temu dopuścił się poważnego przestępstwa. Brak bezpośredniego zagrożenia, ale psycholog wie o czynie. Polskie prawo nie nakłada ogólnego obowiązku donoszenia na organy, ale kodeks etyczny i sumienie tworzą napięcie — co jest właściwe?
+Przykład: klient w trakcie terapii wyznaje, że kilka lat temu dopuścił się poważnego przestępstwa. Brak bezpośredniego zagrożenia, ale psycholog wie o czynie. Polskie prawo nie nakłada ogólnego obowiązku donoszenia na organy, ale kodeks etyczny i sumienie tworzą napięcie - co jest właściwe?
 
 ## Dylematy w terapii dzieci i rodzin
 
@@ -101,20 +101,20 @@ Gdy terapia dotyczy dziecka:
 - Dziecko ma prawo do autonomii i intymności (rośnie z wiekiem)
 - Interes dziecka może być sprzeczny z oczekiwaniami rodziców
 
-Dylemat: rodzic żąda udostępnienia treści sesji terapeutycznej 14-letniego dziecka. Dziecko prosi o poufność. Prawnie — rodzic ma prawo. Etycznie — ujawnienie może zniszczyć relację terapeutyczną i zaszkodzić dziecku.
+Dylemat: rodzic żąda udostępnienia treści sesji terapeutycznej 14-letniego dziecka. Dziecko prosi o poufność. Prawnie - rodzic ma prawo. Etycznie - ujawnienie może zniszczyć relację terapeutyczną i zaszkodzić dziecku.
 
 ### Terapia rodzinna i lojalność
 
-W terapii par lub rodzin psycholog pracuje z systemem — nie indywidualnym klientem. Pojawia się pytanie: czyjemu dobru służyć, gdy interesy są sprzeczne?
+W terapii par lub rodzin psycholog pracuje z systemem - nie indywidualnym klientem. Pojawia się pytanie: czyjemu dobru służyć, gdy interesy są sprzeczne?
 
 ## Framework BEST
 
 **BEST** to praktyczny framework pomocny w ocenie dylematu:
 
-- **B — Benefit**: Czyje dobro jest w grę wchodzi? Jaka interwencja maksymalizuje dobrobyt?
-- **E — Ethics**: Które zasady etyczne są zaangażowane?
-- **S — Safety**: Czy ktoś jest bezpośrednio zagrożony?
-- **T — Therapeutic aims**: Jakie są cele terapeutyczne i czy decyzja je wspiera?
+- **B - Benefit**: Czyje dobro jest w grę wchodzi? Jaka interwencja maksymalizuje dobrobyt?
+- **E - Ethics**: Które zasady etyczne są zaangażowane?
+- **S - Safety**: Czy ktoś jest bezpośrednio zagrożony?
+- **T - Therapeutic aims**: Jakie są cele terapeutyczne i czy decyzja je wspiera?
 
 ## Dokumentacja i ochrona psychologa
 

@@ -6,7 +6,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Odpowiedzialność zawodowa i procedury skargowe
 
-Wykonywanie zawodu psychologa wiąże się z odpowiedzialnością — prawną, etyczną i zawodową. Znajomość ram odpowiedzialności zawodowej chroni zarówno klientów (gwarantując standardy jakości), jak i psychologów (jasne procedury w przypadku zarzutów i sporów).
+Wykonywanie zawodu psychologa wiąże się z odpowiedzialnością - prawną, etyczną i zawodową. Znajomość ram odpowiedzialności zawodowej chroni zarówno klientów (gwarantując standardy jakości), jak i psychologów (jasne procedury w przypadku zarzutów i sporów).
 
 ## Ustawa o zawodzie psychologa w Polsce
 
@@ -14,7 +14,7 @@ Wykonywanie zawodu psychologa wiąże się z odpowiedzialnością — prawną, e
 
 - Kto może wykonywać zawód psychologa
 - Zasady prowadzenia rejestru psychologów
-- Strukturę samorządu zawodowego (Polskie Towarzystwo Psychologiczne — PTP)
+- Strukturę samorządu zawodowego (Polskie Towarzystwo Psychologiczne - PTP)
 - Podstawy odpowiedzialności dyscyplinarnej
 
 ### Kto może używać tytułu „psycholog"?
@@ -22,9 +22,9 @@ Wykonywanie zawodu psychologa wiąże się z odpowiedzialnością — prawną, e
 Tytuł zawodowy **psycholog** może używać osoba, która:
 1. Ukończyła studia wyższe na kierunku psychologia (5-letnie jednolite magisterskie lub licencjat + magisterium)
 2. Uzyskała dyplom magistra psychologii
-3. Jest wpisana do rejestru psychologów (formalnie — ale rejestr nie był w pełni funkcjonalny przez lata)
+3. Jest wpisana do rejestru psychologów (formalnie - ale rejestr nie był w pełni funkcjonalny przez lata)
 
-**Ważne**: sam tytuł „psycholog" jest prawnie chroniony. Tytuły „terapeuta", „coach", „psychoterapeuta" — nie są objęte ustawą (choć prace legislacyjne trwają).
+**Ważne**: sam tytuł „psycholog" jest prawnie chroniony. Tytuły „terapeuta", „coach", „psychoterapeuta" - nie są objęte ustawą (choć prace legislacyjne trwają).
 
 ## Postępowanie dyscyplinarne
 
@@ -41,8 +41,8 @@ PTP posiada strukturę komisji:
 
 | Organ | Funkcja |
 |---|---|
-| **Komisja Etyczna PTP** | Pierwsza instancja — rozpatruje skargi, prowadzi postępowanie |
-| **Odwoławcza Komisja Etyczna** | Druga instancja — odwołania od orzeczeń Komisji Etycznej |
+| **Komisja Etyczna PTP** | Pierwsza instancja - rozpatruje skargi, prowadzi postępowanie |
+| **Odwoławcza Komisja Etyczna** | Druga instancja - odwołania od orzeczeń Komisji Etycznej |
 | **Zarząd Główny PTP** | Ostateczna sankcja wykluczenia z PTP |
 
 ### Przebieg postępowania
@@ -69,15 +69,15 @@ Komisja Etyczna PTP może orzec:
 
 | Sankcja | Opis | Przykładowe naruszenie |
 |---|---|---|
-| **Upomnienie** | Najłagodniejsza — ustne lub pisemne napomnienie | Drobne uchybienia proceduralne |
+| **Upomnienie** | Najłagodniejsza - ustne lub pisemne napomnienie | Drobne uchybienia proceduralne |
 | **Nagana** | Formalne potępienie zachowania | Naruszenie poufności bez uzasadnienia |
 | **Nagana z ostrzeżeniem** | Nagana z zastrzeżeniem dalszych konsekwencji | Podwójna rola z klientem |
 | **Zawieszenie prawa do wykonywania zawodu** | Tymczasowy zakaz praktyki | Poważne naruszenie granic |
 | **Wykluczenie z PTP** | Utrata członkostwa | Kontakt seksualny z klientem, fałszywe zeznania |
 
-> Uwaga: PTP nie może odebrać dyplomu magistra ani zakazać używania tytułu psycholog — to wymaga postępowania sądowego. Sankcje PTP dotyczą członkostwa w organizacji i mogą mieć konsekwencje dla reputacji zawodowej.
+> Uwaga: PTP nie może odebrać dyplomu magistra ani zakazać używania tytułu psycholog - to wymaga postępowania sądowego. Sankcje PTP dotyczą członkostwa w organizacji i mogą mieć konsekwencje dla reputacji zawodowej.
 
-## Skargi klientów — jak postępować
+## Skargi klientów - jak postępować
 
 ### Gdy klient wyraża niezadowolenie
 
@@ -107,18 +107,18 @@ Kodeks PTP i dobre praktyki wymagają, by klient był informowany o swoich prawa
 
 ### Prawa klienta, o których należy poinformować
 
-1. **Prawo do informacji** — o kwalifikacjach psychologa, stosowanych metodach, ograniczeniach
-2. **Prawo do świadomej zgody** — zgoda na każdą formę interwencji
-3. **Prawo do poufności** — i jej granic
-4. **Prawo do wycofania się** — w dowolnym momencie, bez negatywnych konsekwencji
-5. **Prawo do skargi** — informacja o możliwości złożenia skargi do Komisji Etycznej PTP
-6. **Prawo do dokumentacji** — możliwość wglądu w swoją dokumentację (z wyjątkami)
+1. **Prawo do informacji** - o kwalifikacjach psychologa, stosowanych metodach, ograniczeniach
+2. **Prawo do świadomej zgody** - zgoda na każdą formę interwencji
+3. **Prawo do poufności** - i jej granic
+4. **Prawo do wycofania się** - w dowolnym momencie, bez negatywnych konsekwencji
+5. **Prawo do skargi** - informacja o możliwości złożenia skargi do Komisji Etycznej PTP
+6. **Prawo do dokumentacji** - możliwość wglądu w swoją dokumentację (z wyjątkami)
 
 ### Forma informowania
 
 - Pisemna zgoda (kontrakt terapeutyczny) jest standardem dobrych praktyk
 - Musi być sformułowana językiem zrozumiałym (nie prawniczym żargonem)
-- Dla dzieci — informowanie opiekunów, ale też dziecka w stopniu dostosowanym do wieku
+- Dla dzieci - informowanie opiekunów, ale też dziecka w stopniu dostosowanym do wieku
 
 ## Ubezpieczenie OC psychologa
 
@@ -127,7 +127,7 @@ Kodeks PTP i dobre praktyki wymagają, by klient był informowany o swoich prawa
 ### Dlaczego OC jest ważne
 
 - Klienci mogą dochodzić odszkodowania za szkody (nawet jeśli psycholog działał w dobrej wierze)
-- Postępowania sądowe są kosztowne — OC pokrywa koszty obrony prawnej
+- Postępowania sądowe są kosztowne - OC pokrywa koszty obrony prawnej
 - W wielu krajach OC jest **warunkiem pracy** w instytucjach i klinikach
 
 ### Co obejmuje OC dla psychologów
@@ -162,7 +162,7 @@ W przypadku sporu prawnego lub etycznego dokumentacja jest kluczowym dowodem. Br
 
 ### Przechowywanie dokumentacji
 
-Polskie prawo i dobre praktyki sugerują przechowywanie dokumentacji przez **minimum 5 lat** po zakończeniu terapii (dla dorosłych), **minimum do 18. roku życia** klienta +5 lat (dla dzieci). RODO nakłada limity czasu przechowywania — dokumentacja musi być niszczona bezpiecznie.
+Polskie prawo i dobre praktyki sugerują przechowywanie dokumentacji przez **minimum 5 lat** po zakończeniu terapii (dla dorosłych), **minimum do 18. roku życia** klienta +5 lat (dla dzieci). RODO nakłada limity czasu przechowywania - dokumentacja musi być niszczona bezpiecznie.
 
 ---
 

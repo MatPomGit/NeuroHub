@@ -8,7 +8,7 @@ evidenceCutoffDate: 2025-12-31
 
 ## Wprowadzenie
 
-Przemoc w związkach intymnych (*Intimate Partner Violence*, IPV) to każde zachowanie w bliskiej relacji, które powoduje fizyczną, seksualną lub psychologiczną krzywdę, w tym akty przemocy fizycznej, przymus seksualny, psychologiczne znęcanie się i kontrolujące zachowania (*WHO, 2012*). IPV jest globalnym problemem zdrowia publicznego i naruszeniem praw człowieka, dotykającym osoby niezależnie od płci, orientacji seksualnej, klasy społecznej czy wykształcenia — choć dane epidemiologiczne wskazują na nieproporcjonalne narażenie kobiet na najpoważniejsze formy przemocy.
+Przemoc w związkach intymnych (*Intimate Partner Violence*, IPV) to każde zachowanie w bliskiej relacji, które powoduje fizyczną, seksualną lub psychologiczną krzywdę, w tym akty przemocy fizycznej, przymus seksualny, psychologiczne znęcanie się i kontrolujące zachowania (*WHO, 2012*). IPV jest globalnym problemem zdrowia publicznego i naruszeniem praw człowieka, dotykającym osoby niezależnie od płci, orientacji seksualnej, klasy społecznej czy wykształcenia - choć dane epidemiologiczne wskazują na nieproporcjonalne narażenie kobiet na najpoważniejsze formy przemocy.
 
 ---
 
@@ -24,16 +24,16 @@ Przemoc w związkach intymnych (*Intimate Partner Violence*, IPV) to każde zach
 
 ---
 
-## Cykl przemocy — Walker
+## Cykl przemocy - Walker
 
 Lenore Walker (1979) opisała **cykl przemocy** na podstawie wywiadów z ponad 1500 kobietami doświadczającymi przemocy domowej:
 
-1. **Narastanie napięcia** — kumulacja drobnych incydentów, sprawca staje się drażliwy, ofiara stara się łagodzić sytuację
-2. **Eksplozja** — ostry incydent przemocy
-3. **Pojednanie** — sprawca okazuje skruchę, przeprasza, obiecuje zmianę; „miesiąc miodowy"
-4. **Spokój** — cisza przed następną burzą; ofiara wierzy w obietnice zmiany
+1. **Narastanie napięcia** - kumulacja drobnych incydentów, sprawca staje się drażliwy, ofiara stara się łagodzić sytuację
+2. **Eksplozja** - ostry incydent przemocy
+3. **Pojednanie** - sprawca okazuje skruchę, przeprasza, obiecuje zmianę; „miesiąc miodowy"
+4. **Spokój** - cisza przed następną burzą; ofiara wierzy w obietnice zmiany
 
-Cykl ulega skróceniu z czasem: fazy pojednania i spokoju zanikają, a napięcie i eksplozje nasilają się. Model Walkera jest uproszczeniem — nie wszystkie przypadki IPV pasują do tego wzorca, a jego nadużywanie może prowadzić do błędnego oceniania ofiar, które nie odchodzą.
+Cykl ulega skróceniu z czasem: fazy pojednania i spokoju zanikają, a napięcie i eksplozje nasilają się. Model Walkera jest uproszczeniem - nie wszystkie przypadki IPV pasują do tego wzorca, a jego nadużywanie może prowadzić do błędnego oceniania ofiar, które nie odchodzą.
 
 ---
 
@@ -76,11 +76,11 @@ Rozróżnienie Johnsona ma istotne implikacje praktyczne: **terapia par jest con
 
 Koncepcja **traumy więzi** (*trauma bonding*, Dutton & Painter, 1981) wyjaśnia paradoks przywiązania ofiary do sprawcy. Mechanizm oparty jest na:
 
-- **Wzmocnieniu przerywanym** — naprzemienność kar i nagród (cykl przemocy) uzależnia podobnie jak hazard
-- **Dysbalansie władzy** — ofiara doświadcza naprzemiennie strachu i ulgi, gdy sprawca jest spokojny
-- **Izolacji** — brak alternatywnych źródeł wsparcia wzmaga zależność od sprawcy
+- **Wzmocnieniu przerywanym** - naprzemienność kar i nagród (cykl przemocy) uzależnia podobnie jak hazard
+- **Dysbalansie władzy** - ofiara doświadcza naprzemiennie strachu i ulgi, gdy sprawca jest spokojny
+- **Izolacji** - brak alternatywnych źródeł wsparcia wzmaga zależność od sprawcy
 
-Trauma więzi wyjaśnia, dlaczego pytanie „dlaczego nie odchodzi?" jest błędnie sformułowane — odejście jest najbardziej niebezpiecznym momentem dla ofiary (szczyt ryzyka zabójstwa).
+Trauma więzi wyjaśnia, dlaczego pytanie „dlaczego nie odchodzi?" jest błędnie sformułowane - odejście jest najbardziej niebezpiecznym momentem dla ofiary (szczyt ryzyka zabójstwa).
 
 ---
 
@@ -100,17 +100,17 @@ Trauma więzi wyjaśnia, dlaczego pytanie „dlaczego nie odchodzi?" jest błęd
 ## Interwencje terapeutyczne
 
 ### Fazy pracy terapeutycznej
-1. **Bezpieczeństwo** — priorytetowe zapewnienie fizycznego bezpieczeństwa, plan bezpieczeństwa
-2. **Stabilizacja** — regulacja emocji, psychoedukacja o dynamice przemocy
-3. **Przetwarzanie traumy** — EMDR, trauma-focused CBT
-4. **Reintegracja** — odbudowa relacji społecznych, tożsamości, sprawczości
+1. **Bezpieczeństwo** - priorytetowe zapewnienie fizycznego bezpieczeństwa, plan bezpieczeństwa
+2. **Stabilizacja** - regulacja emocji, psychoedukacja o dynamice przemocy
+3. **Przetwarzanie traumy** - EMDR, trauma-focused CBT
+4. **Reintegracja** - odbudowa relacji społecznych, tożsamości, sprawczości
 
 ### Specyficzne podejścia
-- **Trauma-Focused CBT (TF-CBT)** — przetwarzanie traumatycznych wspomnień
-- **EMDR** — udokumentowana skuteczność w PTSD po IPV
-- **Terapia skoncentrowana na schematach** — praca z głębokimi przekonaniami o sobie
+- **Trauma-Focused CBT (TF-CBT)** - przetwarzanie traumatycznych wspomnień
+- **EMDR** - udokumentowana skuteczność w PTSD po IPV
+- **Terapia skoncentrowana na schematach** - praca z głębokimi przekonaniami o sobie
 
-> **Ważne:** Mediacja i terapia par są **contraindicated** w obecności terroryzmu intymnego — mogą narazić ofiarę na dalszą przemoc. Terapia par może być rozważana wyłącznie w sytuacyjnej przemocy w parze, po ocenie bezpieczeństwa.
+> **Ważne:** Mediacja i terapia par są **contraindicated** w obecności terroryzmu intymnego - mogą narazić ofiarę na dalszą przemoc. Terapia par może być rozważana wyłącznie w sytuacyjnej przemocy w parze, po ocenie bezpieczeństwa.
 
 ---
 
@@ -118,10 +118,10 @@ Trauma więzi wyjaśnia, dlaczego pytanie „dlaczego nie odchodzi?" jest błęd
 
 W Polsce przemoc domowa jest regulowana przez:
 
-- **Ustawa o przeciwdziałaniu przemocy domowej** (Dz.U. 2005 nr 180 poz. 1493, nowelizacja 2023) — definiuje przemoc domową, nakłada obowiązki na instytucje, przewiduje izolację sprawcy
-- **Procedura Niebieskie Karty** (rozp. 2011) — interdyscyplinarny system reagowania, obligatoryjny dla policji, opieki społecznej, placówek oświatowych i ochrony zdrowia
-- **Kodeks karny art. 207** — znęcanie fizyczne lub psychiczne nad osobą bliską, kara do 5 lat pozbawienia wolności (do 8 lat, gdy pokrzywdzony jest małoletni lub sprawca działa ze szczególnym okrucieństwem)
-- **Nowelizacja 2023** — natychmiastowe nakazy opuszczenia mieszkania przez sprawcę, możliwość zakazu zbliżania wydawanego przez policję
+- **Ustawa o przeciwdziałaniu przemocy domowej** (Dz.U. 2005 nr 180 poz. 1493, nowelizacja 2023) - definiuje przemoc domową, nakłada obowiązki na instytucje, przewiduje izolację sprawcy
+- **Procedura Niebieskie Karty** (rozp. 2011) - interdyscyplinarny system reagowania, obligatoryjny dla policji, opieki społecznej, placówek oświatowych i ochrony zdrowia
+- **Kodeks karny art. 207** - znęcanie fizyczne lub psychiczne nad osobą bliską, kara do 5 lat pozbawienia wolności (do 8 lat, gdy pokrzywdzony jest małoletni lub sprawca działa ze szczególnym okrucieństwem)
+- **Nowelizacja 2023** - natychmiastowe nakazy opuszczenia mieszkania przez sprawcę, możliwość zakazu zbliżania wydawanego przez policję
 
 ---
 

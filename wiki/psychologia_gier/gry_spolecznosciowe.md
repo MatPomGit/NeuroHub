@@ -8,13 +8,13 @@ evidenceCutoffDate: 2025-12-31
 
 ## Gry jako przestrzeń społeczna
 
-Gry wieloosobowe zrewolucjonizowały rozumienie gier wideo jako mediów. Już nie są to izolowane doświadczenia przed ekranem — to złożone przestrzenie społeczne, w których rozgrywają się prawdziwe dramaty, budują się przyjaźnie i kształtują tożsamości. Gry MMORPG (Massively Multiplayer Online Role-Playing Games), takie jak *World of Warcraft*, *Final Fantasy XIV* czy *Guild Wars 2*, zgromadziły dziesiątki milionów graczy tworzących wirtualne społeczeństwa rządzące się własnymi normami, hierarchiami i kulturą.
+Gry wieloosobowe zrewolucjonizowały rozumienie gier wideo jako mediów. Już nie są to izolowane doświadczenia przed ekranem - to złożone przestrzenie społeczne, w których rozgrywają się prawdziwe dramaty, budują się przyjaźnie i kształtują tożsamości. Gry MMORPG (Massively Multiplayer Online Role-Playing Games), takie jak *World of Warcraft*, *Final Fantasy XIV* czy *Guild Wars 2*, zgromadziły dziesiątki milionów graczy tworzących wirtualne społeczeństwa rządzące się własnymi normami, hierarchiami i kulturą.
 
 > **Fakt:** W szczytowym momencie popularności World of Warcraft (2010 rok) grało w nią ponad 12 milionów subskrybentów na całym świecie, co czyniło tę grę „trzecim największym miastem na ziemi".
 
 ## Psychologia gildii i klanów
 
-Gildie i klany to formalne struktury społeczne w grach wieloosobowych — odpowiedniki organizacji, stowarzyszeń czy drużyn sportowych w realnym świecie. Psychologia gildii jest fascynującym obszarem badań:
+Gildie i klany to formalne struktury społeczne w grach wieloosobowych - odpowiedniki organizacji, stowarzyszeń czy drużyn sportowych w realnym świecie. Psychologia gildii jest fascynującym obszarem badań:
 
 ### Tożsamość grupowa
 
@@ -37,17 +37,17 @@ Badania wykazały, że efektywne liderstwo w gildii wymaga tych samych kompetenc
 
 ## Kapitał społeczny w grach online
 
-Robert Putnam rozróżnił **kapitał społeczny wiążący** (bonding) — silne więzi z bliskimi osobami — i **kapitał społeczny łączący** (bridging) — słabsze więzi z szerszym kręgiem znajomych. Gry online budują oba typy:
+Robert Putnam rozróżnił **kapitał społeczny wiążący** (bonding) - silne więzi z bliskimi osobami - i **kapitał społeczny łączący** (bridging) - słabsze więzi z szerszym kręgiem znajomych. Gry online budują oba typy:
 
 ### Bridging social capital
 
-Gry online łączą ludzi z różnych warstw społecznych, kultur, zawodów i lokalizacji geograficznych. Gildia może łączyć nastolatka z Krakowa, 40-letniego inżyniera z Wrocławia i emeryta z Berlina. Te „słabe więzi" są społecznie cenne — dostarczają nowych perspektyw, informacji i sieci kontaktów.
+Gry online łączą ludzi z różnych warstw społecznych, kultur, zawodów i lokalizacji geograficznych. Gildia może łączyć nastolatka z Krakowa, 40-letniego inżyniera z Wrocławia i emeryta z Berlina. Te „słabe więzi" są społecznie cenne - dostarczają nowych perspektyw, informacji i sieci kontaktów.
 
 ### Bonding social capital
 
 W bliskich grupach graczy (szczególnie w małych gildach) rozwijają się silne więzi emocjonalne. Badania Coleya (2012) wykazały, że wielu graczy MMORPG opisuje wirtualnych przyjaciół jako jednych z najbliższych w swoim życiu.
 
-> **Fakt:** Badanie Kowerta i Oldmeadow (2013) wykazało, że gracze online mają porównywalną jakość przyjaźni do non-graczy — wbrew stereotypowi samotnego gracza. Kluczowa jest motywacja społeczna: gracze nastawieni na relacje mają więcej przyjaźni, graczy nastawionych na solo-play mają ich mniej.
+> **Fakt:** Badanie Kowerta i Oldmeadow (2013) wykazało, że gracze online mają porównywalną jakość przyjaźni do non-graczy - wbrew stereotypowi samotnego gracza. Kluczowa jest motywacja społeczna: gracze nastawieni na relacje mają więcej przyjaźni, graczy nastawionych na solo-play mają ich mniej.
 
 ## Współpraca i kooperacja
 
@@ -83,11 +83,11 @@ Dlaczego ludzie zachowują się w grach w sposób, który byłby nie do przyjęc
 
 > **Fakt:** Badanie przeprowadzone przez Riot Games (twórców League of Legends) wykazało, że zaledwie 1% graczy odpowiada za 5% toksycznych zachowań, ale że większość toksyczności pochodzi od „normalnych" graczy w epizodycznych momentach frustracji, nie od stałych „trolli".
 
-## Przykład kliniczny — alienacja vs. przynależność
+## Przykład kliniczny - alienacja vs. przynależność
 
 **Przypadek Michała, 19 lat:**
 
-Michał trafił do poradni z powodu społecznej izolacji i depresji. W trakcie wywiadu okazało się, że od 3 lat jest aktywnym członkiem gildii w Final Fantasy XIV. Ma tam kilkanaście bliskich relacji, jest moderatorem społeczności, regularnie uczestniczy w eventach. Jego „realne" życie towarzyskie jest bardzo ograniczone — kilku znajomych ze szkoły, z którymi sporadycznie się widuje. Psycholog stanął przed pytaniem: czy wirtualne życie społeczne Michała jest „prawdziwe"? Analiza ujawniła, że relacje gildyjne spełniają te same psychologiczne funkcje co relacje realne — oferują wsparcie, przynależność, tożsamość i sens. Terapia skupiła się na rozszerzeniu sieci społecznej (nie na jej zastąpieniu), nie na eliminacji relacji online.
+Michał trafił do poradni z powodu społecznej izolacji i depresji. W trakcie wywiadu okazało się, że od 3 lat jest aktywnym członkiem gildii w Final Fantasy XIV. Ma tam kilkanaście bliskich relacji, jest moderatorem społeczności, regularnie uczestniczy w eventach. Jego „realne" życie towarzyskie jest bardzo ograniczone - kilku znajomych ze szkoły, z którymi sporadycznie się widuje. Psycholog stanął przed pytaniem: czy wirtualne życie społeczne Michała jest „prawdziwe"? Analiza ujawniła, że relacje gildyjne spełniają te same psychologiczne funkcje co relacje realne - oferują wsparcie, przynależność, tożsamość i sens. Terapia skupiła się na rozszerzeniu sieci społecznej (nie na jej zastąpieniu), nie na eliminacji relacji online.
 
 ## Mity o samotnym graczu
 

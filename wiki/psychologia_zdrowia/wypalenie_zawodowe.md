@@ -10,9 +10,9 @@ evidenceCutoffDate: 2025-12-31
 
 ## Trzy wymiary wypalenia (model Maslach)
 
-1. **Wyczerpanie emocjonalne** — poczucie opróżnienia zasobów, chroniczne zmęczenie, brak energii nawet po odpoczynku.
-2. **Depersonalizacja / cynizm** — dystansowanie się od pracy i współpracowników, obojętność lub negatywne nastawienie do klientów/pacjentów.
-3. **Obniżone poczucie skuteczności** — poczucie, że praca traci sens i że własne działania nie przynoszą wyników.
+1. **Wyczerpanie emocjonalne** - poczucie opróżnienia zasobów, chroniczne zmęczenie, brak energii nawet po odpoczynku.
+2. **Depersonalizacja / cynizm** - dystansowanie się od pracy i współpracowników, obojętność lub negatywne nastawienie do klientów/pacjentów.
+3. **Obniżone poczucie skuteczności** - poczucie, że praca traci sens i że własne działania nie przynoszą wyników.
 
 ## Kto jest narażony?
 
@@ -42,9 +42,9 @@ Objawy somatyczne wypalenia: bóle głowy, napięcie mięśni, zaburzenia snu, w
 
 Najczęściej stosowane narzędzia:
 
-- **Maslach Burnout Inventory (MBI)** — złoty standard w badaniach,
-- **Oldenburg Burnout Inventory (OLBI)** — dwa wymiary: wyczerpanie i zaangażowanie,
-- **Copenhagen Burnout Inventory (CBI)** — oddzielnie mierzy wypalenie osobiste, pracownicze i klienckie.
+- **Maslach Burnout Inventory (MBI)** - złoty standard w badaniach,
+- **Oldenburg Burnout Inventory (OLBI)** - dwa wymiary: wyczerpanie i zaangażowanie,
+- **Copenhagen Burnout Inventory (CBI)** - oddzielnie mierzy wypalenie osobiste, pracownicze i klienckie.
 
 ## Prewencja i interwencje
 
@@ -71,7 +71,7 @@ Powrót nie powinien być natychmiastowy. Skuteczna strategia obejmuje:
 
 ## Przykład kliniczny
 
-Lekarka w wieku 38 lat zgłasza się z powodu chronicznego zmęczenia i niechęci do pracy, mimo wcześniejszego wysokiego zaangażowania. Raportuje dystans do pacjentów i poczucie braku sensu działań. Wyniki MBI — wysoki poziom we wszystkich trzech skalach. Plan: L4, CBT, rozmowa z przełożonym o modyfikacji dyżurów.
+Lekarka w wieku 38 lat zgłasza się z powodu chronicznego zmęczenia i niechęci do pracy, mimo wcześniejszego wysokiego zaangażowania. Raportuje dystans do pacjentów i poczucie braku sensu działań. Wyniki MBI - wysoki poziom we wszystkich trzech skalach. Plan: L4, CBT, rozmowa z przełożonym o modyfikacji dyżurów.
 
 ## Podsumowanie
 

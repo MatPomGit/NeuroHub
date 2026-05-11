@@ -6,13 +6,13 @@ evidenceCutoffDate: 2025-12-31
 
 # Ucieleśnione poznanie (Embodied Cognition)
 
-Ucieleśnione poznanie (*embodied cognition*) to paradygmat badawczy w psychologii i naukach kognitywnych, który zakłada, że procesy poznawcze — myślenie, język, pamięć, emocje — są **zakorzenione w strukturze i działaniu ciała**, a nie jedynie w abstrakcyjnych reprezentacjach neuronalnych. Ciało nie jest biernym nośnikiem mózgu, lecz aktywnym uczestnikiem procesu poznania: stany motoryczne, percepcja zmysłowa i usytuowanie w środowisku fizycznym kształtują treść i przebieg myśli.
+Ucieleśnione poznanie (*embodied cognition*) to paradygmat badawczy w psychologii i naukach kognitywnych, który zakłada, że procesy poznawcze - myślenie, język, pamięć, emocje - są **zakorzenione w strukturze i działaniu ciała**, a nie jedynie w abstrakcyjnych reprezentacjach neuronalnych. Ciało nie jest biernym nośnikiem mózgu, lecz aktywnym uczestnikiem procesu poznania: stany motoryczne, percepcja zmysłowa i usytuowanie w środowisku fizycznym kształtują treść i przebieg myśli.
 
-> „Umysł jest z natury ucieleśniony, to znaczy, że to ciało stwarza i kształtuje rozum." — George Lakoff i Mark Johnson, *Philosophy in the Flesh* (1999)
+> „Umysł jest z natury ucieleśniony, to znaczy, że to ciało stwarza i kształtuje rozum." - George Lakoff i Mark Johnson, *Philosophy in the Flesh* (1999)
 
 ## Kontrast z klasycznym kogniwiztem
 
-Klasyczna psychologia poznawcza (lata 50.–80.) traktowała umysł jako **procesor symboli** — system przetwarzający abstrakcyjne reprezentacje niezależnie od ich modalności zmysłowej lub kontekstu cielesnego. Komputer stał się metaforą przewodnią: dane wejściowe → operacje → dane wyjściowe, bez roli ciała.
+Klasyczna psychologia poznawcza (lata 50.–80.) traktowała umysł jako **procesor symboli** - system przetwarzający abstrakcyjne reprezentacje niezależnie od ich modalności zmysłowej lub kontekstu cielesnego. Komputer stał się metaforą przewodnią: dane wejściowe → operacje → dane wyjściowe, bez roli ciała.
 
 | Aspekt | Klasyczny kogniwizm | Ucieleśnione poznanie |
 |---|---|---|
@@ -33,16 +33,16 @@ Filozoficzne podstawy ucieleśnionego poznania sięgają **Maurice'a Merleau-Pon
 Kluczowe pojęcia:
 
 - **Schemat cielesny** (*schéma corporel*): nieświadoma, dynamiczna mapa własnego ciała i jego możliwości działania, aktualizowana w toku ruchu.
-- **Intencjonalność motoryczna**: ciało samo ma „zamiary" — sięga, omija, orientuje się — jeszcze zanim świadoma myśl zdąży sformułować plan.
+- **Intencjonalność motoryczna**: ciało samo ma „zamiary" - sięga, omija, orientuje się - jeszcze zanim świadoma myśl zdąży sformułować plan.
 - **Zakorzenianie w świecie** (*être-au-monde*): podmiot nie *ma* ciała, lecz *jest* ciałem; rzeczywistość jest pierwotnie dana jako pole możliwych działań (*affordances*).
 
 Merleau-Ponty wyprzedził neuronaukę o kilkadziesiąt lat: jego intuicje dotyczące schematu cielesnego znalazły potwierdzenie w badaniach neuronów lustrzanych i plastyczności mózgu.
 
 ---
 
-## Ugruntowane poznanie — Lawrence Barsalou
+## Ugruntowane poznanie - Lawrence Barsalou
 
-**Lawrence Barsalou** rozwinął teorię *grounded cognition* (poznania ugruntowanego), zgodnie z którą wszystkie reprezentacje umysłowe — pojęcia, kategorie, nawet abstrakcyjne — opierają się na **symulacjach percepcyjno-motorycznych**. Kiedy myślimy o „jabłku", mózg reaktywuje wzorce aktywności wzrokowej, smakowej i motorycznej (chwytania), które towarzyszyły wcześniejszemu doświadczeniu jabłek.
+**Lawrence Barsalou** rozwinął teorię *grounded cognition* (poznania ugruntowanego), zgodnie z którą wszystkie reprezentacje umysłowe - pojęcia, kategorie, nawet abstrakcyjne - opierają się na **symulacjach percepcyjno-motorycznych**. Kiedy myślimy o „jabłku", mózg reaktywuje wzorce aktywności wzrokowej, smakowej i motorycznej (chwytania), które towarzyszyły wcześniejszemu doświadczeniu jabłek.
 
 Implikacje:
 
@@ -59,9 +59,9 @@ Odkrycie **neuronów lustrzanych** przez Giacomo Rizzolattiego i współpracowni
 U ludzi analogiczne systemy obejmują:
 - Korę przedruchową i dolny zakręt czołowy (obszar Broki)
 - Płacik ciemieniowy dolny
-- Wyspę (insula) — powiązaną z empatią i interocepcją
+- Wyspę (insula) - powiązaną z empatią i interocepcją
 
-**Vittorio Gallese** zaproponował koncepcję *embodied simulation*: rozumiemy innych ludzi, ich intencje i emocje, nie przez wnioskowanie abstrakcyjne, lecz przez **symulowanie ich stanów cielesnych** w swoim własnym układzie motorycznym i sensorycznym. Widzę ból — moja wyspa się aktywuje, jakbym sama/sam odczuwała/ł ból.
+**Vittorio Gallese** zaproponował koncepcję *embodied simulation*: rozumiemy innych ludzi, ich intencje i emocje, nie przez wnioskowanie abstrakcyjne, lecz przez **symulowanie ich stanów cielesnych** w swoim własnym układzie motorycznym i sensorycznym. Widzę ból - moja wyspa się aktywuje, jakbym sama/sam odczuwała/ł ból.
 
 ---
 
@@ -69,7 +69,7 @@ U ludzi analogiczne systemy obejmują:
 
 ### Efekt ołówka w ustach (*pen-in-mouth study*)
 
-Fritz Strack, Leonard Martin i Sabine Stepper (1988) poprosili uczestników o trzymanie ołówka w zębach (aktywacja mięśni uśmiechu) lub w wargach (hamowanie mięśni uśmiechu) podczas czytania komiksów. Uczestnicy trzymający ołówek w zębach oceniali komiksy jako zabawniejsze — ekspresja twarzy wpłynęła na przeżywany afekt.
+Fritz Strack, Leonard Martin i Sabine Stepper (1988) poprosili uczestników o trzymanie ołówka w zębach (aktywacja mięśni uśmiechu) lub w wargach (hamowanie mięśni uśmiechu) podczas czytania komiksów. Uczestnicy trzymający ołówek w zębach oceniali komiksy jako zabawniejsze - ekspresja twarzy wpłynęła na przeżywany afekt.
 
 > *Uwaga metodologiczna:* Badanie napotkało trudności replikacyjne (2016), a Strack przeprowadził meta-analizę wskazującą na efekt o mniejszej sile. Debata trwa, ale ogólna zasada sprzężenia zwrotnego twarzy jest podtrzymywana.
 
@@ -112,7 +112,7 @@ Ucieleśnione poznanie znalazło bezpośrednie zastosowanie w praktyce kliniczne
 
 ## Podsumowanie
 
-Ucieleśnione poznanie zrewolucjonizowało rozumienie relacji umysłu i ciała, przesuwając punkt ciężkości z abstrakcyjnych reprezentacji na konkretne, cielesne doświadczenie. Linia od Merleau-Ponty'ego przez Barsalou do Rizzolattiego tworzy spójną narrację: myślimy ciałem, rozumiemy innych przez symulowanie ich cielesnych stanów, a nasze pojęcia i metafory są głęboko zakorzenione w doświadczeniu zmysłowym i motorycznym. Implikacje wykraczają daleko poza akademicką psychologię — docierają do sal terapeutycznych, klas szkolnych i projektowania środowisk sprzyjających ludzkiemu myśleniu.
+Ucieleśnione poznanie zrewolucjonizowało rozumienie relacji umysłu i ciała, przesuwając punkt ciężkości z abstrakcyjnych reprezentacji na konkretne, cielesne doświadczenie. Linia od Merleau-Ponty'ego przez Barsalou do Rizzolattiego tworzy spójną narrację: myślimy ciałem, rozumiemy innych przez symulowanie ich cielesnych stanów, a nasze pojęcia i metafory są głęboko zakorzenione w doświadczeniu zmysłowym i motorycznym. Implikacje wykraczają daleko poza akademicką psychologię - docierają do sal terapeutycznych, klas szkolnych i projektowania środowisk sprzyjających ludzkiemu myśleniu.
 
 ---
 

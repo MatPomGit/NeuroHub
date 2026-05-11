@@ -6,14 +6,14 @@ evidenceCutoffDate: 2025-12-31
 
 # Stres i zdrowie
 
-Stres to psychofizjologiczna reakcja organizmu na wymagania, które są oceniane jako przekraczające dostępne zasoby. Sam w sobie nie jest wyłącznie „zły” — krótkoterminowo mobilizuje do działania. Problemem staje się **stres przewlekły**, który utrzymuje organizm w stanie długotrwałej aktywacji.
+Stres to psychofizjologiczna reakcja organizmu na wymagania, które są oceniane jako przekraczające dostępne zasoby. Sam w sobie nie jest wyłącznie „zły” - krótkoterminowo mobilizuje do działania. Problemem staje się **stres przewlekły**, który utrzymuje organizm w stanie długotrwałej aktywacji.
 
 ## Jak stres działa na organizm?
 
 Dwa kluczowe układy odpowiedzi na stres:
 
-- **Układ współczulno‑nadnerczowy (SAM)** — szybka reakcja „walcz/uciekaj”, wzrost tętna i ciśnienia.
-- **Oś podwzgórze–przysadka–nadnercza (HPA)** — wydzielanie kortyzolu, który mobilizuje energię i moduluje odporność.
+- **Układ współczulno‑nadnerczowy (SAM)** - szybka reakcja „walcz/uciekaj”, wzrost tętna i ciśnienia.
+- **Oś podwzgórze–przysadka–nadnercza (HPA)** - wydzielanie kortyzolu, który mobilizuje energię i moduluje odporność.
 
 W ostrym stresie mechanizmy te są adaptacyjne. W przewlekłym:
 

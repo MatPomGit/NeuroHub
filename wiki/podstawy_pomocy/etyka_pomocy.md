@@ -8,7 +8,7 @@ evidenceCutoffDate: 2025-12-31
 
 ## Fundamenty etyczne
 
-**Etyka pomocy psychologicznej** to zbiór zasad, norm i wartości regulujących postępowanie pomagającego wobec klientów, zawodu i społeczeństwa. Nie jest jedynie zbiorem zakazów — jest **refleksją nad tym, jak działać w sposób odpowiedzialny**, uwzględniający godność i dobro człowieka.
+**Etyka pomocy psychologicznej** to zbiór zasad, norm i wartości regulujących postępowanie pomagającego wobec klientów, zawodu i społeczeństwa. Nie jest jedynie zbiorem zakazów - jest **refleksją nad tym, jak działać w sposób odpowiedzialny**, uwzględniający godność i dobro człowieka.
 
 Zasady etyczne pełnią kilka funkcji:
 - Chronią klientów przed nadużyciami
@@ -33,10 +33,10 @@ Pierwotnie sformułowane dla medycyny, dziś stanowią fundament etyki wielu zaw
 
 ## Tajemnica zawodowa
 
-Jedną z najważniejszych zasad etyki pomocy jest **tajemnica zawodowa** — obowiązek zachowania poufności informacji uzyskanych od klienta.
+Jedną z najważniejszych zasad etyki pomocy jest **tajemnica zawodowa** - obowiązek zachowania poufności informacji uzyskanych od klienta.
 
 ### Kiedy tajemnica może być złamana?
-Obowiązek zachowania tajemnicy ma wyjątki — pomagający może lub musi ujawnić informacje, gdy:
+Obowiązek zachowania tajemnicy ma wyjątki - pomagający może lub musi ujawnić informacje, gdy:
 - Istnieje **bezpośrednie ryzyko utraty życia** klienta lub innych osób
 - Istnieje prawny obowiązek zgłoszenia (np. krzywdzenie dzieci)
 - Klient wyraził **pisemną zgodę** na ujawnienie danych
@@ -73,7 +73,7 @@ Kodeksy etyczne zazwyczaj **zakazują lub wymagają ostrożności** przy podwój
 
 ## Kompetencje zawodowe
 
-Etyczne działanie wymaga, by pomagający pracował **w granicach swoich kompetencji** — stosował tylko metody, w których jest wyszkolony, i kierował klientów do innych specjalistów, gdy sprawa wykracza poza jego możliwości.
+Etyczne działanie wymaga, by pomagający pracował **w granicach swoich kompetencji** - stosował tylko metody, w których jest wyszkolony, i kierował klientów do innych specjalistów, gdy sprawa wykracza poza jego możliwości.
 
 Oznacza to:
 - Ciągłe doskonalenie zawodowe
@@ -84,7 +84,7 @@ Oznacza to:
 
 ## Dylematy etyczne
 
-Etyka w praktyce często oznacza rozwiązywanie **dylematów** — sytuacji, w których różne zasady etyczne są ze sobą sprzeczne. Przykład:
+Etyka w praktyce często oznacza rozwiązywanie **dylematów** - sytuacji, w których różne zasady etyczne są ze sobą sprzeczne. Przykład:
 
 > *Klient zwierza się, że planuje poważnie skrzywdzić inną osobę. Czy ujawnić to osobie zagrożonej, łamiąc tajemnicę zawodową?*
 

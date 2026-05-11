@@ -6,7 +6,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Drameterapia
 
-Psychodrama, socjodrama i terapia dramatyczna — rola, spontaniczność i praca przez narrację i scenę.
+Psychodrama, socjodrama i terapia dramatyczna - rola, spontaniczność i praca przez narrację i scenę.
 
 ## Czym jest drameterapia?
 
@@ -14,19 +14,19 @@ Psychodrama, socjodrama i terapia dramatyczna — rola, spontaniczność i praca
 
 ## Psychodrama (Moreno)
 
-**Jacob Levy Moreno** (1889–1974) opracował psychodramę — grupową metodę terapeutyczną, w której **protagonista** odgrywa sytuacje z własnego życia na scenie terapeutycznej przy wsparciu grupy:
+**Jacob Levy Moreno** (1889–1974) opracował psychodramę - grupową metodę terapeutyczną, w której **protagonista** odgrywa sytuacje z własnego życia na scenie terapeutycznej przy wsparciu grupy:
 
 - **Dyrektor** (terapeuta) kieruje procesem;
 - **Auxiliaries** (pomocnicy ego) odgrywają ważne osoby z życia protagonisty;
 - **Scena** i **publiczność** tworzą bezpieczne środowisko.
 
-Techniki psychodramatyczne: **zamiana ról** (role reversal) — protagonista odgrywa perspektywę innej osoby; **podwojenie** (doubling) — pomocnik ego wyraża niewypowiedziane myśli protagonisty; **lustro** (mirror) — protagonista obserwuje odegranie własnej sceny.
+Techniki psychodramatyczne: **zamiana ról** (role reversal) - protagonista odgrywa perspektywę innej osoby; **podwojenie** (doubling) - pomocnik ego wyraża niewypowiedziane myśli protagonisty; **lustro** (mirror) - protagonista obserwuje odegranie własnej sceny.
 
 > Moreno zakładał, że **spontaniczność i kreatywność** są kluczowymi czynnikami zdrowia psychicznego. Neurotyczność to zamrożenie, niemożność spontanicznego reagowania. Psychodrama reaktywuje kreatywność.
 
 ## Socjodrama
 
-W **socjodramie** tematem jest nie jednostka, lecz **rola społeczna** — eksploracja ról kulturowych, stereotypów, konfliktów grupowych. Użyteczna w edukacji, pracy z grupami, organizacjami i społecznościami.
+W **socjodramie** tematem jest nie jednostka, lecz **rola społeczna** - eksploracja ról kulturowych, stereotypów, konfliktów grupowych. Użyteczna w edukacji, pracy z grupami, organizacjami i społecznościami.
 
 ## Terapia narracyjna przez dramat
 

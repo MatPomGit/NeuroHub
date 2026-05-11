@@ -57,7 +57,7 @@ Poniższe wartości pochodzą z metaanaliz i dużych badań rodzinnych/bliźniac
 ## 4. Wnioski kliniczne
 
 1. **Wywiad rodzinny** jest jednym z najsilniejszych narzędzi przesiewowych w psychiatrii.
-2. **Wysokie ryzyko rodzinne ≠ diagnoza** — to sygnał do monitorowania i profilaktyki.
+2. **Wysokie ryzyko rodzinne ≠ diagnoza** - to sygnał do monitorowania i profilaktyki.
 3. **Wczesna interwencja** może znacząco zmniejszyć ryzyko pełnoobjawowego zaburzenia.
 4. Najlepsze podejście ma charakter **bio-psycho-społeczny**: genetyka + środowisko + styl życia + leczenie.
 

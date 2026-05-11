@@ -26,7 +26,7 @@ Użytkownik otrzymuje obietnicę wygody i kontaktu, ale płaci kosztami ukrytymi
 - wzrostem porównań społecznych i napięcia emocjonalnego,
 - zależnością od infrastruktury, której reguł nie współtworzy.
 
-**Zdrada technologii** nie oznacza, że technologia jest „zła z natury”. Oznacza raczej **systemowe niedopasowanie celów**: człowiek używa narzędzia, a narzędzie — poprzez architekturę bodźców — zaczyna „używać” człowieka.
+**Zdrada technologii** nie oznacza, że technologia jest „zła z natury”. Oznacza raczej **systemowe niedopasowanie celów**: człowiek używa narzędzia, a narzędzie - poprzez architekturę bodźców - zaczyna „używać” człowieka.
 
 ---
 
@@ -40,15 +40,15 @@ Użytkownik otrzymuje obietnicę wygody i kontaktu, ale płaci kosztami ukrytymi
 
 Nie każde działanie niepożądane jest „zdradą”. O zdradzie mówimy szczególnie wtedy, gdy spełnione są co najmniej trzy warunki:
 
-1. **Asymetria informacji** — użytkownik nie rozumie pełnych mechanizmów wpływu systemu.
-2. **Asymetria siły** — platforma może jednostronnie zmieniać reguły interakcji.
-3. **Asymetria korzyści** — koszty psychologiczne ponosi użytkownik, a zysk ekonomiczny akumuluje dostawca.
+1. **Asymetria informacji** - użytkownik nie rozumie pełnych mechanizmów wpływu systemu.
+2. **Asymetria siły** - platforma może jednostronnie zmieniać reguły interakcji.
+3. **Asymetria korzyści** - koszty psychologiczne ponosi użytkownik, a zysk ekonomiczny akumuluje dostawca.
 
 ### 2.3. Relacja do pokrewnych pojęć
 
-- **Technostres** — opisuje przeciążenie i napięcie związane z użyciem technologii.
-- **Uzależnienia behawioralne** — koncentrują się na kompulsywnym wzorcu używania.
-- **Nadzór cyfrowy (surveillance)** — dotyczy ekstrakcji i analizy danych.
+- **Technostres** - opisuje przeciążenie i napięcie związane z użyciem technologii.
+- **Uzależnienia behawioralne** - koncentrują się na kompulsywnym wzorcu używania.
+- **Nadzór cyfrowy (surveillance)** - dotyczy ekstrakcji i analizy danych.
 - **Zdrada technologii** łączy te perspektywy w jeden model: projekt + ekonomia + psychologia + władza.
 
 ---
@@ -315,7 +315,7 @@ Warto rozważyć konsultację psychologiczną, jeśli:
 
 „Zdrada technologii” to nie jednostkowa słabość użytkownika, ale emergentny efekt spotkania psychologii człowieka z architekturą platform i logiką monetyzacji. Dlatego skuteczna odpowiedź wymaga działań wielopoziomowych: indywidualnych, relacyjnych, organizacyjnych i regulacyjnych.
 
-Najważniejsza zasada praktyczna brzmi: **technologia powinna wzmacniać autonomię, a nie ją zastępować**. Gdy narzędzie zaczyna kolonizować uwagę, rytm dnia i poczucie własnej wartości, przestaje być wsparciem — staje się systemem wpływu, który wymaga świadomego ograniczania i etycznej korekty.
+Najważniejsza zasada praktyczna brzmi: **technologia powinna wzmacniać autonomię, a nie ją zastępować**. Gdy narzędzie zaczyna kolonizować uwagę, rytm dnia i poczucie własnej wartości, przestaje być wsparciem - staje się systemem wpływu, który wymaga świadomego ograniczania i etycznej korekty.
 
 ---
 

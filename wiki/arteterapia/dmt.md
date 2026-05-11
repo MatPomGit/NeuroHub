@@ -4,29 +4,29 @@ reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
 
-# Choreoterapia — terapia tańcem i ruchem (DMT)
+# Choreoterapia - terapia tańcem i ruchem (DMT)
 
-Ruch i taniec jako narzędzia terapeutyczne — jedność ciała i umysłu, analiza ruchu Labana i zastosowania kliniczne.
+Ruch i taniec jako narzędzia terapeutyczne - jedność ciała i umysłu, analiza ruchu Labana i zastosowania kliniczne.
 
 ## Czym jest DMT?
 
-*Terapia tańcem i ruchem* (DMT, *Dance/Movement Therapy*) to psychoterapeutyczne zastosowanie ruchu do wspierania integracji emocjonalnej, poznawczej, fizycznej i społecznej człowieka. Opiera się na założeniu, że ciało i umysł są ze sobą nierozerwalnie połączone — zmiany w ciele wpływają na psychikę i odwrotnie.
+*Terapia tańcem i ruchem* (DMT, *Dance/Movement Therapy*) to psychoterapeutyczne zastosowanie ruchu do wspierania integracji emocjonalnej, poznawczej, fizycznej i społecznej człowieka. Opiera się na założeniu, że ciało i umysł są ze sobą nierozerwalnie połączone - zmiany w ciele wpływają na psychikę i odwrotnie.
 
 > Marian Chace, pionierka DMT (USA, lata 40. XX w.), pracowała z pacjentami psychiatrycznymi, którzy nie mogli komunikować się werbalnie. Odkryła, że ruch i taniec grupowy budują poczucie przynależności i odzwierciedlają stany wewnętrzne.
 
 ## Analiza Ruchu Labana (LMA)
 
 Rudolf Laban (1879–1958) stworzył kompleksowy system opisu i analizy ruchu. **LMA** (*Laban Movement Analysis*) obejmuje cztery kategorie:
-- **Body** — co się porusza (części ciała, wzorce połączeń);
-- **Effort** — jakość ruchu (siła, czas, przestrzeń, przepływ);
-- **Space** — kierunek i zakres w przestrzeni;
-- **Shape** — jak ciało zmienia kształt w relacji do siebie i otoczenia.
+- **Body** - co się porusza (części ciała, wzorce połączeń);
+- **Effort** - jakość ruchu (siła, czas, przestrzeń, przepływ);
+- **Space** - kierunek i zakres w przestrzeni;
+- **Shape** - jak ciało zmienia kształt w relacji do siebie i otoczenia.
 
 LMA dostarcza terapeutom języka do obserwacji i refleksji nad ruchem pacjenta.
 
 ## Procesy terapeutyczne
 
-**Kinestetyczna empatia** — terapeuta odzwierciedla ruch pacjenta, wzmacniając poczucie bycia rozumianym. **Ruch autentyczny** (Janet Adler) — spontaniczny ruch z zamkniętymi oczami przy obecności świadka; technika eksploracji nieświadomości. **Improwizacja ruchowa** — twórcze badanie ruchu bez choreografii.
+**Kinestetyczna empatia** - terapeuta odzwierciedla ruch pacjenta, wzmacniając poczucie bycia rozumianym. **Ruch autentyczny** (Janet Adler) - spontaniczny ruch z zamkniętymi oczami przy obecności świadka; technika eksploracji nieświadomości. **Improwizacja ruchowa** - twórcze badanie ruchu bez choreografii.
 
 ## Zastosowania kliniczne
 

@@ -8,9 +8,9 @@ evidenceCutoffDate: 2025-12-31
 
 ## Czym jest formułowanie przypadku?
 
-Formułowanie przypadku (*case formulation*, *case conceptualization*) to **integracyjny proces łączenia wszystkich zebranych danych diagnostycznych w spójny, teoretycznie uzasadniony obraz psychologicznego funkcjonowania osoby**. Jest mostem między diagnozą (co jest) a interwencją (co zrobić) — przekształca surowe informacje w działający model wyjaśniający.
+Formułowanie przypadku (*case formulation*, *case conceptualization*) to **integracyjny proces łączenia wszystkich zebranych danych diagnostycznych w spójny, teoretycznie uzasadniony obraz psychologicznego funkcjonowania osoby**. Jest mostem między diagnozą (co jest) a interwencją (co zrobić) - przekształca surowe informacje w działający model wyjaśniający.
 
-> „Formułowanie przypadku to hipoteza robocza, nie wyrok; powinna być regularnie weryfikowana i modyfikowana." — Eells (2007)
+> „Formułowanie przypadku to hipoteza robocza, nie wyrok; powinna być regularnie weryfikowana i modyfikowana." - Eells (2007)
 
 Dobre formułowanie:
 - **wyjaśnia**, dlaczego dany człowiek w danym momencie życia doświadcza określonych trudności
@@ -58,7 +58,7 @@ Formułowanie CBT skupia się na związkach między:
 Koncentruje się na:
 - **Relacjach wczesnych** i ich wpływie na wewnętrzne reprezentacje obiektu
 - **Mechanizmach obronnych** (wyparcie, projekcja, dysocjacja, intelektualizacja)
-- **Dynamice przeniesienia** — jak przeszłe relacje „żyją" w teraźniejszości
+- **Dynamice przeniesienia** - jak przeszłe relacje „żyją" w teraźniejszości
 - **Nierozwiązanych konfliktach** intrapsychicznych
 
 *Formułowanie Core Conflictual Relationship Theme* (CCRT): życzenie → reakcja obiektu → reakcja self
@@ -160,7 +160,7 @@ Rekomendacje:
 |---|---|
 | **Redukcjonizm** | Skupienie wyłącznie na jednym wymiarze (np. „to tylko biologiczne") |
 | **Nadinterpretacja** | Wnioski wykraczające poza dostępne dane |
-| **Etykietowanie zamiast wyjaśniania** | „Pacjent jest borderline" — bez wyjaśnienia, co to oznacza dla konkretnej osoby |
+| **Etykietowanie zamiast wyjaśniania** | „Pacjent jest borderline" - bez wyjaśnienia, co to oznacza dla konkretnej osoby |
 | **Brak aktualizacji** | Formułowanie sformułowane raz i nigdy niezweryfikowane |
 | **Pominięcie zasobów** | Skupienie tylko na deficytach, ignorowanie mocnych stron |
 | **Narzucanie ramy** | Dopasowywanie danych do ulubionej teorii, nie do klienta |
@@ -171,11 +171,11 @@ Rekomendacje:
 
 Dobrze skonstruowane formułowanie ma bezpośrednie przełożenie na:
 
-1. **Wybór modalności** — indywidualna vs. rodzinna vs. grupowa
-2. **Dobór technik** — ekspozycja, restrukturyzacja poznawcza, praca z ciałem
-3. **Przewidywanie przeszkód** — opór, niska tolerancja frustracji, brak motywacji
-4. **Ustalenie sekwencji** — co leczyć najpierw, by otworzyć drogę do kolejnych celów
-5. **Monitorowanie postępów** — które wskaźniki świadczą o zmianie?
+1. **Wybór modalności** - indywidualna vs. rodzinna vs. grupowa
+2. **Dobór technik** - ekspozycja, restrukturyzacja poznawcza, praca z ciałem
+3. **Przewidywanie przeszkód** - opór, niska tolerancja frustracji, brak motywacji
+4. **Ustalenie sekwencji** - co leczyć najpierw, by otworzyć drogę do kolejnych celów
+5. **Monitorowanie postępów** - które wskaźniki świadczą o zmianie?
 
 ---
 

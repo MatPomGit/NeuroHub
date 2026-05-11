@@ -4,7 +4,7 @@ reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
 
-# AAT — zastosowania kliniczne
+# AAT - zastosowania kliniczne
 
 Terapia wspomagana przez zwierzęta (Animal-Assisted Therapy, AAT) ma szerokie i rosnące zastosowania w różnych obszarach klinicznych. Niniejszy artykuł omawia główne obszary zastosowań, stan dowodów i warunki skuteczności interwencji.
 
@@ -13,7 +13,7 @@ Terapia wspomagana przez zwierzęta (Animal-Assisted Therapy, AAT) ma szerokie i
 ### Zaburzenia lękowe
 AAT jest stosowana jako interwencja wspomagająca w fobiach specyficznych, GAD i lęku przed procedurami medycznymi. Mechanizm: kontakt ze zwierzęciem aktywuje układ przywspółczulny, obniżając tętno, ciśnienie i poziom kortyzolu. Randomizowane badania wykazują redukcję lęku mierzonego zarówno subiektywnie, jak i fizjologicznie.
 
-Szczególnie dobrze udokumentowana jest redukcja lęku u dzieci podczas: pobrań krwi, nakłuć dożylnych, MRI i wizyt stomatologicznych — obecność psa terapeutycznego zmniejsza subiektywny ból i dyskomfort.
+Szczególnie dobrze udokumentowana jest redukcja lęku u dzieci podczas: pobrań krwi, nakłuć dożylnych, MRI i wizyt stomatologicznych - obecność psa terapeutycznego zmniejsza subiektywny ból i dyskomfort.
 
 ### PTSD
 Psy asystujące dla weteranów z PTSD są prawdopodobnie najlepiej przebadanym zastosowaniem AAT. Efekty obejmują:
@@ -48,7 +48,7 @@ Psy i konie stosowane w programach szkolnych poprawiają: koncentrację, zachowa
 
 ### Demencja i choroba Alzheimera
 Kontakt z psem lub kotem:
-- Zmniejsza agitację i zachowania agresywne (robotic pets — Paro robot-foka wykazuje podobne efekty u osób z zaawansowaną demencją)
+- Zmniejsza agitację i zachowania agresywne (robotic pets - Paro robot-foka wykazuje podobne efekty u osób z zaawansowaną demencją)
 - Aktywuje autobiograficzne wspomnienia i werbalizację
 - Poprawia nastrój i zmniejsza objawy depresyjne
 - Zwiększa aktywność fizyczną
@@ -72,10 +72,10 @@ Wizyty psów w oddziałach onkologicznych i paliatywnych zmniejszają lęk, popr
 ## Warunki skuteczności
 
 AAT jest skuteczna przy spełnieniu warunków:
-1. **Certyfikowany zespół** — wykwalifikowany terapeuta + odpowiednio dobrany i przeszkolony pies/koń
-2. **Jasno określone cele terapeutyczne** — co ma zostać osiągnięte, jak będzie mierzone
-3. **Dopasowanie gatunku/zwierzęcia do pacjenta** — fobia, alergia, preferencje są kluczowe
-4. **Dobrostan zwierzęcia** — monitoring stresu, limity czasu, odpoczynek
+1. **Certyfikowany zespół** - wykwalifikowany terapeuta + odpowiednio dobrany i przeszkolony pies/koń
+2. **Jasno określone cele terapeutyczne** - co ma zostać osiągnięte, jak będzie mierzone
+3. **Dopasowanie gatunku/zwierzęcia do pacjenta** - fobia, alergia, preferencje są kluczowe
+4. **Dobrostan zwierzęcia** - monitoring stresu, limity czasu, odpoczynek
 
 > **Podsumowanie:** AAT jest skuteczną interwencją wspomagającą z rosnącą bazą empiryczną. Najsilniejsze dowody dotyczą: redukcji lęku, objawów PTSD, pobudzenia w ASD i bólu. Kluczem jest profesjonalizm i etyczne podejście do dobrostanu zwierzęcia-terapeuty.
 

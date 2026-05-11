@@ -12,15 +12,15 @@ Klasyfikacje chorób i zaburzeń psychicznych są podstawowym narzędziem diagno
 
 ### Przed erą nowoczesnych klasyfikacji
 
-Przez większość XIX i początków XX wieku każdy kraj, a często i każda szkoła psychiatryczna, posługiwały się własnymi systemami nozologicznymi. Emil Kraepelin (1856–1926) wprowadził przełomowy podział na *demencję wczesną* (późniejszą schizofrenię) i *psychozę maniakalno-depresyjną* — zarys, który przetrwał do dziś. Adolf Meyer propagował podejście psychobiologiczne, a Sigmund Freud kładł nacisk na kategorie psychodynamiczne.
+Przez większość XIX i początków XX wieku każdy kraj, a często i każda szkoła psychiatryczna, posługiwały się własnymi systemami nozologicznymi. Emil Kraepelin (1856–1926) wprowadził przełomowy podział na *demencję wczesną* (późniejszą schizofrenię) i *psychozę maniakalno-depresyjną* - zarys, który przetrwał do dziś. Adolf Meyer propagował podejście psychobiologiczne, a Sigmund Freud kładł nacisk na kategorie psychodynamiczne.
 
-### ICD — historia i ewolucja
+### ICD - historia i ewolucja
 
 Pierwsza Międzynarodowa Klasyfikacja Chorób (wtedy: Internationale Liste des causes de décès) pochodzi z 1893 roku. Zaburzenia psychiczne włączono dopiero w ICD-6 (1948). ICD-10 (1990) stało się powszechnie stosowanym standardem w Polsce i Europie; jego polska adaptacja (ICD-10 PL) obowiązywała przez ponad trzy dekady. ICD-11 opublikowano w 2018 roku, a WHO przyjęła ją formalnie w 2019; kraje implementują ją stopniowo.
 
-### DSM — historia i ewolucja
+### DSM - historia i ewolucja
 
-DSM-I (1952) zawierał jedynie 106 kategorii i był silnie osadzony w psychodynamice. DSM-III (1980) był rewolucją metodologiczną: wprowadził kryteria operacyjne, wieloosiowy system oceny i oparcie na empirii zamiast teorii etiologicznej. DSM-IV (1994) i DSM-IV-TR (2000) ugruntowały ten paradygmat. DSM-5 (2013) zrezygnował z wieloosiowości i wprowadził wymiarowe elementy oceny. DSM-5-TR (2022) to rewizja tekstu — zaktualizowano piśmiennictwo, dodano nowe rozpoznania (np. Prolonged Grief Disorder) i doprecyzowano kryteria.
+DSM-I (1952) zawierał jedynie 106 kategorii i był silnie osadzony w psychodynamice. DSM-III (1980) był rewolucją metodologiczną: wprowadził kryteria operacyjne, wieloosiowy system oceny i oparcie na empirii zamiast teorii etiologicznej. DSM-IV (1994) i DSM-IV-TR (2000) ugruntowały ten paradygmat. DSM-5 (2013) zrezygnował z wieloosiowości i wprowadził wymiarowe elementy oceny. DSM-5-TR (2022) to rewizja tekstu - zaktualizowano piśmiennictwo, dodano nowe rozpoznania (np. Prolonged Grief Disorder) i doprecyzowano kryteria.
 
 ## Struktura ICD-11
 
@@ -32,7 +32,7 @@ ICD-11 jest kompleksowym systemem WHO obejmującym wszystkie choroby, nie tylko 
 |------|-----------|---------------------|
 | 6A0x | Zaburzenia neurorozwojowe | Niepełnosprawność intelektualna, ASD, ADHD, DLD |
 | 6A2x | Schizofrenia i inne psychozy pierwotne | Schizofrenia, schizoafektywne, schizotypowe |
-| 6A4x | Katatonia | Katatonia — nowe ujęcie jako osobna kategoria |
+| 6A4x | Katatonia | Katatonia - nowe ujęcie jako osobna kategoria |
 | 6A6x–6A8x | Zaburzenia nastroju | Epizod depresyjny, ChAD typ I i II, cyklotymia |
 | 6B0x | Zaburzenia lękowe lub związane z lękiem | GAD, fobia społeczna, agorafobia, panika |
 | 6B2x | OCD i pokrewne | OCD, dysmorfofobia, trichotillomania |
@@ -42,19 +42,19 @@ ICD-11 jest kompleksowym systemem WHO obejmującym wszystkie choroby, nie tylko 
 | 6C0x | Zaburzenia wydalania | Enuresis, encopresis |
 | 6C2x | Zaburzenia związane z substancjami | Uzależnienia, szkodliwe używanie |
 | 6C4x | Zaburzenia impulsów | Kleptomania, piromania, IED |
-| 6C5x | Zaburzenia parafiliowe | — |
+| 6C5x | Zaburzenia parafiliowe | - |
 | 6C7x | Zaburzenia osobowości | Nowe wymiarowe ujęcie |
 | 6D1x | Zaburzenia neuropoznawcze | Zaburzenia neurokognitywne (otępienia) |
 
 ### Innowacje ICD-11 wobec ICD-10
 
-**Złożone PTSD (CPTSD)** — nowa kategoria (6B41) dla osób, które doświadczyły długotrwałej traumy (np. przemoc domowa, niewolnictwo); obejmuje klasyczne PTSD + zaburzenia samoregulacji emocji, negatywna samoocena i zaburzenia relacji.
+**Złożone PTSD (CPTSD)** - nowa kategoria (6B41) dla osób, które doświadczyły długotrwałej traumy (np. przemoc domowa, niewolnictwo); obejmuje klasyczne PTSD + zaburzenia samoregulacji emocji, negatywna samoocena i zaburzenia relacji.
 
-**Wymiarowe zaburzenia osobowości** — ICD-11 zastąpiło 10 odrębnych typów osobowości modelem wymiarowym: ogólne nasilenie zaburzenia (mild / moderate / severe) + 5 cech dominujących (negative affectivity, detachment, dissociality, disinhibition, anankastia) + opcjonalny specyfikator „borderline pattern".
+**Wymiarowe zaburzenia osobowości** - ICD-11 zastąpiło 10 odrębnych typów osobowości modelem wymiarowym: ogólne nasilenie zaburzenia (mild / moderate / severe) + 5 cech dominujących (negative affectivity, detachment, dissociality, disinhibition, anankastia) + opcjonalny specyfikator „borderline pattern".
 
-**Nowe ujęcie zaburzeń dysforycznych płci** — przeniesione z rozdziału o zaburzeniach psychicznych do rozdziału zdrowia seksualnego, odzwierciedlając konsensus depatologizacji tożsamości transpłciowej.
+**Nowe ujęcie zaburzeń dysforycznych płci** - przeniesione z rozdziału o zaburzeniach psychicznych do rozdziału zdrowia seksualnego, odzwierciedlając konsensus depatologizacji tożsamości transpłciowej.
 
-**Zaburzenie gry komputerowej** (*Gaming Disorder*, 6C51) — nowa kategoria oparta na kilkuletnim badaniu i debacie.
+**Zaburzenie gry komputerowej** (*Gaming Disorder*, 6C51) - nowa kategoria oparta na kilkuletnim badaniu i debacie.
 
 ### Specyfika ICD-11: podejście kliniczne
 
@@ -69,7 +69,7 @@ DSM-5-TR jest klasyfikacją APA przeznaczoną głównie dla psychiatrów i psych
 DSM-5 (i TR) zorganizowano w trzy sekcje:
 - **Sekcja I**: Wprowadzenie, użytkowanie, podstawy
 - **Sekcja II**: Główne kategorie diagnostyczne (22 rozdziały)
-- **Sekcja III**: Emerging measures and models — Alternatywny model zaburzeń osobowości, propozycje do dalszych badań
+- **Sekcja III**: Emerging measures and models - Alternatywny model zaburzeń osobowości, propozycje do dalszych badań
 
 Kolejność rozdziałów Sekcji II odzwierciedla **perspektywę spektrów** (developmental-neurodevelopmental → internalizing → externalizing → neurocognitive):
 
@@ -102,15 +102,15 @@ Kolejność rozdziałów Sekcji II odzwierciedla **perspektywę spektrów** (dev
 
 Każde rozpoznanie w DSM-5-TR jest zdefiniowane przez:
 
-1. **Kryteria A, B, C...** — zestawy objawów z progami liczbowymi (np. „5 z 9 objawów przez ≥ 2 tygodnie" dla epizodu depresyjnego)
-2. **Kryterium czasowe** — minimalny czas trwania objawów
-3. **Kryterium wykluczenia** — objawy nie wynikają z substancji, innej choroby lub innego zaburzenia psychicznego
-4. **Kryterium klinicznego znaczenia** — objawy powodują cierpienie lub upośledzenie funkcjonowania
-5. **Specyfikatory** — doprecyzowanie ciężkości (mild/moderate/severe), przebiegu (in remission, with psychotic features) i kontekstu
+1. **Kryteria A, B, C...** - zestawy objawów z progami liczbowymi (np. „5 z 9 objawów przez ≥ 2 tygodnie" dla epizodu depresyjnego)
+2. **Kryterium czasowe** - minimalny czas trwania objawów
+3. **Kryterium wykluczenia** - objawy nie wynikają z substancji, innej choroby lub innego zaburzenia psychicznego
+4. **Kryterium klinicznego znaczenia** - objawy powodują cierpienie lub upośledzenie funkcjonowania
+5. **Specyfikatory** - doprecyzowanie ciężkości (mild/moderate/severe), przebiegu (in remission, with psychotic features) i kontekstu
 
 ### Nowości DSM-5-TR wobec DSM-5
 
-- **Przedłużona reakcja żałoby** (*Prolonged Grief Disorder*, 296.99) — nowe rozpoznanie
+- **Przedłużona reakcja żałoby** (*Prolonged Grief Disorder*, 296.99) - nowe rozpoznanie
 - **Niezróżnicowane zaburzenie somatyczne** zastąpione przez „Functional Neurological Symptom Disorder" z rozbudowanymi kryteriami
 - Zaktualizowanie tekstu dla 70 rozpoznań na podstawie piśmiennictwa 2013–2020
 - Korekty dotyczące diagnostyki kulturowej i zdrowia reprodukcyjnego
@@ -120,7 +120,7 @@ Każde rozpoznanie w DSM-5-TR jest zdefiniowane przez:
 ### Podobieństwa
 
 Oba systemy:
-- Opierają się na **deskryptywnym** (fenomenologicznym) podejściu — opisują objawy, nie wymagają teorii etiologicznej
+- Opierają się na **deskryptywnym** (fenomenologicznym) podejściu - opisują objawy, nie wymagają teorii etiologicznej
 - Są **atetiologiczne** (z wyjątkiem kilku kategorii, np. zaburzeń wynikających z substancji)
 - Posługują się **operacyjnymi kryteriami diagnostycznymi**
 - Wymagają, by objawy powodowały **cierpienie lub upośledzenie funkcjonowania**
@@ -142,11 +142,11 @@ Oba systemy:
 
 ### Konwergencja harmonizacyjna
 
-Grupy robocze WHO i APA współpracowały intensywnie, by zmniejszyć rozbieżności. Wiele zmian w ICD-11 było inspirowanych DSM-5 i odwrotnie — np. reorganizacja spektrum lękowego, wyodrębnienie OCD, czy rekonceptualizacja spektrum autyzmu.
+Grupy robocze WHO i APA współpracowały intensywnie, by zmniejszyć rozbieżności. Wiele zmian w ICD-11 było inspirowanych DSM-5 i odwrotnie - np. reorganizacja spektrum lękowego, wyodrębnienie OCD, czy rekonceptualizacja spektrum autyzmu.
 
 ## Znaczenie dla diagnozy w Polsce
 
-W polskim systemie ochrony zdrowia **obowiązuje ICD** — obecnie Polska jest w trakcie przejścia na ICD-11 (wdrażanie stopniowe od 2023 roku). NFZ rozlicza świadczenia przy użyciu kodów ICD-10/ICD-11.
+W polskim systemie ochrony zdrowia **obowiązuje ICD** - obecnie Polska jest w trakcie przejścia na ICD-11 (wdrażanie stopniowe od 2023 roku). NFZ rozlicza świadczenia przy użyciu kodów ICD-10/ICD-11.
 
 Psychologowie kliniczni w Polsce posługują się zarówno ICD (dla celów systemu zdrowotnego), jak i DSM (szczególnie w badaniach naukowych i superwizji opartej na piśmiennictwie anglojęzycznym). Znajomość obu systemów jest standardem zawodowym.
 
@@ -154,7 +154,7 @@ Psychologowie kliniczni w Polsce posługują się zarówno ICD (dla celów syste
 
 ### Rzetelność vs. trafność
 
-Klasyfikacje kliniczne są projektowane pod kątem **rzetelności** (inter-rater reliability) kosztem **trafności konstruktowej**. Kategorie diagnostyczne nie zawsze odpowiadają biologicznie spójnym jednostkom — przykładem jest heterogeniczność schizofrenii czy depresji.
+Klasyfikacje kliniczne są projektowane pod kątem **rzetelności** (inter-rater reliability) kosztem **trafności konstruktowej**. Kategorie diagnostyczne nie zawsze odpowiadają biologicznie spójnym jednostkom - przykładem jest heterogeniczność schizofrenii czy depresji.
 
 ### Efekty etykietyzacji
 
@@ -162,11 +162,11 @@ Diagnoza ma wymiar społeczny: może stygmatyzować, ale też dawać dostęp do 
 
 ### Projekt RDoC (Research Domain Criteria)
 
-National Institute of Mental Health (NIMH) w USA promuje alternatywne podejście — **RDoC** — które odchodzi od kategorii diagnostycznych i koncentruje się na wymiarach neurobiologicznych (konstrukcie, obwody nerwowe, geny). RDoC jest na razie narzędziem badawczym, nie klinicznym.
+National Institute of Mental Health (NIMH) w USA promuje alternatywne podejście - **RDoC** - które odchodzi od kategorii diagnostycznych i koncentruje się na wymiarach neurobiologicznych (konstrukcie, obwody nerwowe, geny). RDoC jest na razie narzędziem badawczym, nie klinicznym.
 
 ### Kwestie kulturowe
 
-Klasyfikacje powstawały głównie w zachodnim, anglojęzycznym kontekście. Istnieją **syndromy związane z kulturą** (*culture-bound syndromes*) — np. *susto* (Ameryka Łacińska), *koro* (Azja Południowo-Wschodnia) — które trudno opisać w zachodnich kategoriach. DSM-5-TR zawiera sekcję o kulturowej formułacji (Cultural Formulation Interview — CFI).
+Klasyfikacje powstawały głównie w zachodnim, anglojęzycznym kontekście. Istnieją **syndromy związane z kulturą** (*culture-bound syndromes*) - np. *susto* (Ameryka Łacińska), *koro* (Azja Południowo-Wschodnia) - które trudno opisać w zachodnich kategoriach. DSM-5-TR zawiera sekcję o kulturowej formułacji (Cultural Formulation Interview - CFI).
 
 ## Zastosowanie w praktyce psychologicznej
 
@@ -177,7 +177,7 @@ Choć DSM-5 zrezygnował z formalnej wieloosiowości (Oś I–V), w praktyce kli
 - Zaburzeń osobowości (dawna Oś II)
 - Chorób somatycznych (dawna Oś III)
 - Psychospołecznych stresorów (dawna Oś IV)
-- Poziomu funkcjonowania (dawna Oś V — GAF)
+- Poziomu funkcjonowania (dawna Oś V - GAF)
 
 W ICD-11 ocena całościowego funkcjonowania jest zalecana przez model WHODAS 2.0.
 
@@ -191,7 +191,7 @@ Klasyfikacja diagnostyczna:
 
 ## Podsumowanie
 
-ICD-11 i DSM-5-TR to komplementarne, nie konkurencyjne systemy klasyfikacji. ICD-11 jest mandatem WHO i stanowi standard dla systemów zdrowotnych na całym świecie, w tym w Polsce; DSM-5-TR jest szczególnie silny w badaniach naukowych i praktyce anglosaskiej. Oba systemy przeszły istotną ewolucję — od spekulatywnych kategorii psychodynamicznych przez operacyjne kryteria diagnostyczne ku coraz silniejszemu uwzględnieniu wymiarowości, kontekstu kulturowego i neurobiologicznego podłoża zaburzeń. Dla psychologa klinicznego biegłość w obu klasyfikacjach — ze świadomością ich ograniczeń — jest kompetencją niezbędną.
+ICD-11 i DSM-5-TR to komplementarne, nie konkurencyjne systemy klasyfikacji. ICD-11 jest mandatem WHO i stanowi standard dla systemów zdrowotnych na całym świecie, w tym w Polsce; DSM-5-TR jest szczególnie silny w badaniach naukowych i praktyce anglosaskiej. Oba systemy przeszły istotną ewolucję - od spekulatywnych kategorii psychodynamicznych przez operacyjne kryteria diagnostyczne ku coraz silniejszemu uwzględnieniu wymiarowości, kontekstu kulturowego i neurobiologicznego podłoża zaburzeń. Dla psychologa klinicznego biegłość w obu klasyfikacjach - ze świadomością ich ograniczeń - jest kompetencją niezbędną.
 
 
 ## Wprowadzenie

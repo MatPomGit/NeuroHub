@@ -8,17 +8,17 @@ evidenceCutoffDate: 2025-12-31
 
 ## Wprowadzenie
 
-Pytanie o to, dlaczego wybieramy właśnie tę, a nie inną osobę na partnera życiowego, należy do kluczowych zagadnień psychologii relacji. Odpowiedzi poszukuje się na trzech poziomach analizy: **ewolucyjnym** (jakie mechanizmy selekcji zostały ukształtowane przez dobór naturalny i płciowy), **psychologicznym** (jakie poznawcze i emocjonalne procesy regulują wybór) oraz **socjokulturowym** (jak normy społeczne i kontekst kulturowy filtrują preferencje). Żaden z tych poziomów nie wyczerpuje zjawiska — pełne zrozumienie wymaga ich integracji.
+Pytanie o to, dlaczego wybieramy właśnie tę, a nie inną osobę na partnera życiowego, należy do kluczowych zagadnień psychologii relacji. Odpowiedzi poszukuje się na trzech poziomach analizy: **ewolucyjnym** (jakie mechanizmy selekcji zostały ukształtowane przez dobór naturalny i płciowy), **psychologicznym** (jakie poznawcze i emocjonalne procesy regulują wybór) oraz **socjokulturowym** (jak normy społeczne i kontekst kulturowy filtrują preferencje). Żaden z tych poziomów nie wyczerpuje zjawiska - pełne zrozumienie wymaga ich integracji.
 
 ---
 
 ## Ewolucyjne teorie doboru partnera
 
-### Teoria inwestycji rodzicielskiej — Trivers
+### Teoria inwestycji rodzicielskiej - Trivers
 
-Robert Trivers (1972) postulował, że **płeć inwestująca więcej w potomstwo** (u ludzi — kobiety, ze względu na ciążę, poród i laktację) jest bardziej selektywna w wyborze partnera, ponieważ błąd reprodukcyjny jest dla niej kosztowniejszy. Płeć inwestująca mniej (mężczyźni) rywalizuje o dostęp do płci bardziej inwestującej. Teoria ta przewiduje asymetrie płciowe w preferencjach partnerskich.
+Robert Trivers (1972) postulował, że **płeć inwestująca więcej w potomstwo** (u ludzi - kobiety, ze względu na ciążę, poród i laktację) jest bardziej selektywna w wyborze partnera, ponieważ błąd reprodukcyjny jest dla niej kosztowniejszy. Płeć inwestująca mniej (mężczyźni) rywalizuje o dostęp do płci bardziej inwestującej. Teoria ta przewiduje asymetrie płciowe w preferencjach partnerskich.
 
-### Badania Bussa — studium 37 kultur
+### Badania Bussa - studium 37 kultur
 
 David Buss i współpracownicy (1989) przeprowadzili przełomowe badanie w **37 kulturach** na 6 kontynentach (N > 10 000). Wyniki:
 
@@ -58,9 +58,9 @@ Dobór assortatywny może wynikać zarówno z **preferencji** (wybieramy podobny
 
 Donn Byrne (1971) sformułował **hipotezę podobieństwa-atrakcji**: lubienie wzrasta proporcjonalnie do proporcji zgodnych postaw. Mechanizmy:
 
-1. **Walidacja społeczna** — osoba podobna potwierdza nasze przekonania i wzmacnia poczucie własnej wartości
-2. **Antycypacja harmonii** — przewidujemy, że będziemy lepiej rozumiani przez osobę podobną
-3. **Efekt znajomości** (*mere exposure*, Zajonc 1968) — częsty kontakt z podobnymi zwiększa ich atrakcyjność
+1. **Walidacja społeczna** - osoba podobna potwierdza nasze przekonania i wzmacnia poczucie własnej wartości
+2. **Antycypacja harmonii** - przewidujemy, że będziemy lepiej rozumiani przez osobę podobną
+3. **Efekt znajomości** (*mere exposure*, Zajonc 1968) - częsty kontakt z podobnymi zwiększa ich atrakcyjność
 
 **Zastrzeżenia:** Efekt podobieństwa jest silniejszy dla postaw niż dla cech osobowości; w długoterminowych związkach uzupełnienie (*complementarity*) może być ważniejsze w niektórych domenach (np. dominancja-submisja).
 
@@ -70,17 +70,17 @@ Donn Byrne (1971) sformułował **hipotezę podobieństwa-atrakcji**: lubienie w
 
 ### Pole dostępnych partnerów
 
-Kluczowym socjologicznym pojęciem jest **pole dostępnych partnerów** (*field of eligibles*, Kerckhoff, 1974) — społecznie określona pula osób, z którymi kontakt jest możliwy. Determinują je:
+Kluczowym socjologicznym pojęciem jest **pole dostępnych partnerów** (*field of eligibles*, Kerckhoff, 1974) - społecznie określona pula osób, z którymi kontakt jest możliwy. Determinują je:
 - endogamia kulturowa i religijna
 - homogamia klasowa (spotykamy się z osobami z podobnych środowisk)
 - geografia i przestrzeń życiowa
 
 ### Teorie filtrowania
 
-Teorie sekwencyjnego filtrowania (Murstein 1970 — **SVR model**: Stimulus–Value–Role) zakładają, że dobór przebiega etapami:
-1. **Stimulus** — ocena atrakcyjności fizycznej i społecznej
-2. **Value** — porównanie wartości, postaw, religii
-3. **Role** — kompatybilność ról (praca, rodzicielstwo, finanse)
+Teorie sekwencyjnego filtrowania (Murstein 1970 - **SVR model**: Stimulus–Value–Role) zakładają, że dobór przebiega etapami:
+1. **Stimulus** - ocena atrakcyjności fizycznej i społecznej
+2. **Value** - porównanie wartości, postaw, religii
+3. **Role** - kompatybilność ról (praca, rodzicielstwo, finanse)
 
 ---
 
@@ -90,7 +90,7 @@ Internet fundamentalnie zmienił krajobraz doboru partnera. W Polsce do 2023 r. 
 
 | Aspekt | Efekt aplikacji randkowych |
 |---|---|
-| **Pole dostępnych partnerów** | drastyczne poszerzenie — tysiące profili w zasięgu |
+| **Pole dostępnych partnerów** | drastyczne poszerzenie - tysiące profili w zasięgu |
 | **Primacy efekt atrakcyjności** | zwiększona rola wyglądu (selekcja na podstawie zdjęcia) |
 | **Paradoks wyboru** | więcej opcji → niższa satysfakcja, wyższe wymagania (*Schwartz, 2004*) |
 | **Homogamia** | algorytmy wzmacniają podobieństwo demograficzne |
@@ -102,9 +102,9 @@ Finkel i współpracownicy (2012) w przeglądzie badań konkludują, że randkow
 
 ## Krytyka podejścia ewolucyjnego
 
-- **Problem odwrotnej inferencji** — nie można bezpośrednio wnioskować o funkcji adaptacyjnej z obserwowanych preferencji
-- **Plastyczność kulturowa** — rozmiary efektów płciowych są modulowane przez poziom równości płci w danym społeczeństwie (*Zentner & Mitura, 2012* — w bardziej egalitarnych kulturach różnice maleją)
-- **Agentywność jednostki** — podejście ewolucyjne może marginalizować rolę świadomych wyborów, narracji osobistych i konstruktów tożsamości
+- **Problem odwrotnej inferencji** - nie można bezpośrednio wnioskować o funkcji adaptacyjnej z obserwowanych preferencji
+- **Plastyczność kulturowa** - rozmiary efektów płciowych są modulowane przez poziom równości płci w danym społeczeństwie (*Zentner & Mitura, 2012* - w bardziej egalitarnych kulturach różnice maleją)
+- **Agentywność jednostki** - podejście ewolucyjne może marginalizować rolę świadomych wyborów, narracji osobistych i konstruktów tożsamości
 
 ---
 

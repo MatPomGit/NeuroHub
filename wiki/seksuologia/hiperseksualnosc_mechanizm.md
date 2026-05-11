@@ -127,7 +127,7 @@ Wczesna interwencja zwiększa szansę na trwałą poprawę.
 
 ## Podsumowanie
 
-Hiperseksualność w ujęciu psychologicznym najczęściej pełni funkcję regulacyjną — zmniejsza napięcie tu i teraz, ale długoterminowo może podtrzymywać cierpienie. Kluczem terapii jest zrozumienie funkcji zachowania, rozwijanie samoregulacji i budowanie zdrowszych form bliskości.
+Hiperseksualność w ujęciu psychologicznym najczęściej pełni funkcję regulacyjną - zmniejsza napięcie tu i teraz, ale długoterminowo może podtrzymywać cierpienie. Kluczem terapii jest zrozumienie funkcji zachowania, rozwijanie samoregulacji i budowanie zdrowszych form bliskości.
 
 ---
 

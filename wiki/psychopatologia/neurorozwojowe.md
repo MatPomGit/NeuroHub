@@ -6,7 +6,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Zaburzenia neurorozwojowe
 
-ADHD, zaburzenie ze spektrum autyzmu, zaburzenia uczenia się i niepełnosprawność intelektualna — kryteria i charakterystyka.
+ADHD, zaburzenie ze spektrum autyzmu, zaburzenia uczenia się i niepełnosprawność intelektualna - kryteria i charakterystyka.
 
 ## Czym są zaburzenia neurorozwojowe?
 
@@ -14,7 +14,7 @@ ADHD, zaburzenie ze spektrum autyzmu, zaburzenia uczenia się i niepełnosprawno
 
 ## ADHD
 
-**Zespół nadpobudliwości psychoruchowej z deficytem uwagi** (ADHD) — trwały wzorzec nieuważności i/lub nadpobudliwości-impulsywności, nieadekwatny do poziomu rozwojowego, obecny w co najmniej 2 środowiskach przed 12 r.ż.:
+**Zespół nadpobudliwości psychoruchowej z deficytem uwagi** (ADHD) - trwały wzorzec nieuważności i/lub nadpobudliwości-impulsywności, nieadekwatny do poziomu rozwojowego, obecny w co najmniej 2 środowiskach przed 12 r.ż.:
 
 - Typ z przewagą nieuważności: łatwe rozproszenie, zapominanie, gubienie rzeczy, trudności z podtrzymaniem uwagi;
 - Typ z przewagą nadpobudliwości/impulsywności: wiercenie się, hałasowanie, przerywanie, impulsywność;

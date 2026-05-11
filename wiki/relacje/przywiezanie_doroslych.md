@@ -10,23 +10,23 @@ evidenceCutoffDate: 2025-12-31
 
 Teoria przywiązania, sformułowana przez Johna Bowlby'ego w latach 60. i 70. XX wieku, pierwotnie dotyczyła więzi niemowlę–opiekun. Jednak w ciągu kolejnych dekad badacze wykazali, że **wzorce przywiązania kształtowane w dzieciństwie utrzymują się w życiu dorosłym** i wpływają na jakość relacji romantycznych, rodzicielskich i terapeutycznych. Przywiązanie u dorosłych definiuje się jako trwałą emocjonalną więź z wybraną osobą, która jest poszukiwana jako źródło bezpieczeństwa w obliczu zagrożenia.
 
-> „Najbardziej zdrowymi emocjonalnie dorosłymi są ci, którzy potrafią zależeć od innych, nie tracąc niezależności." — John Bowlby
+> „Najbardziej zdrowymi emocjonalnie dorosłymi są ci, którzy potrafią zależeć od innych, nie tracąc niezależności." - John Bowlby
 
 ---
 
 ## Bowlby i rozszerzenie teorii na dorosłość
 
-Bowlby postulował istnienie **wewnętrznych modeli operacyjnych** (*internal working models*) — poznawczo-afektywnych schematów reprezentujących własne „ja" i innych ludzi. Modele te kształtują oczekiwania dotyczące dostępności figur przywiązania i gotowości do udzielenia wsparcia.
+Bowlby postulował istnienie **wewnętrznych modeli operacyjnych** (*internal working models*) - poznawczo-afektywnych schematów reprezentujących własne „ja" i innych ludzi. Modele te kształtują oczekiwania dotyczące dostępności figur przywiązania i gotowości do udzielenia wsparcia.
 
 W dorosłości figury przywiązania to przede wszystkim partnerzy romantyczni. Podobnie jak niemowlę, dorosły korzysta z partnera jako:
-- **bezpiecznej bazy** — źródła wsparcia przy eksploracji świata
-- **bezpiecznej przystani** — schronienia w sytuacjach stresu i zagrożenia
+- **bezpiecznej bazy** - źródła wsparcia przy eksploracji świata
+- **bezpiecznej przystani** - schronienia w sytuacjach stresu i zagrożenia
 
 ---
 
-## Adult Attachment Interview — Mary Main
+## Adult Attachment Interview - Mary Main
 
-Mary Main i jej współpracownicy opracowali **Adult Attachment Interview (AAI)** — półstrukturyzowany wywiad kliniczny, który mierzy nie wspomnienia z dzieciństwa, lecz sposób, w jaki dorosły *narracyjnie* opisuje swoje wczesnodziecięce doświadczenia. Wyróżniono cztery wzorce:
+Mary Main i jej współpracownicy opracowali **Adult Attachment Interview (AAI)** - półstrukturyzowany wywiad kliniczny, który mierzy nie wspomnienia z dzieciństwa, lecz sposób, w jaki dorosły *narracyjnie* opisuje swoje wczesnodziecięce doświadczenia. Wyróżniono cztery wzorce:
 
 | Wzorzec AAI | Charakterystyka narracji | Odpowiednik u niemowląt |
 |---|---|---|
@@ -39,13 +39,13 @@ Badania wykazały, że wzorzec AAI matki przewiduje styl przywiązania niemowlę
 
 ---
 
-## Romantyczne przywiązanie — Hazan i Shaver
+## Romantyczne przywiązanie - Hazan i Shaver
 
 Cindy Hazan i Phillip Shaver (1987) jako pierwsi przełożyli klasyfikację Ainsworth na domenę romantyczną. Opisali trzy style:
 
-- **Bezpieczny** — komfort z bliskością i zależnością, brak nadmiernego lęku przed porzuceniem
-- **Lękowo-ambiwalentny** — pragnienie nadmiernej bliskości, lęk przed odrzuceniem, obsesyjne myślenie o partnerze
-- **Unikający** — dyskomfort z bliskością, preferowanie niezależności emocjonalnej
+- **Bezpieczny** - komfort z bliskością i zależnością, brak nadmiernego lęku przed porzuceniem
+- **Lękowo-ambiwalentny** - pragnienie nadmiernej bliskości, lęk przed odrzuceniem, obsesyjne myślenie o partnerze
+- **Unikający** - dyskomfort z bliskością, preferowanie niezależności emocjonalnej
 
 Badania kwestionariuszowe na próbach populacyjnych wskazują, że ok. 55–60% dorosłych prezentuje styl bezpieczny, 20–25% unikający i 15–20% lękowo-ambiwalentny (*Hazan & Shaver, 1987*).
 
@@ -64,12 +64,12 @@ Osoby z **odrzucającym** stylem unikają bliskości, chroniąc wysokie poczucie
 
 ---
 
-## Pomiar przywiązania u dorosłych — ECR
+## Pomiar przywiązania u dorosłych - ECR
 
 Najbardziej powszechną miarą samoopisową jest **Experiences in Close Relationships (ECR)** Brennana, Clarka i Shaversa (1998), operacjonalizująca dwa wymiary:
 
-- **Lęk przywiązaniowy** (*anxiety*) — strach przed porzuceniem, nadmierne monitorowanie dostępności partnera
-- **Unikanie przywiązaniowe** (*avoidance*) — dyskomfort z bliskością, preferowanie autonomii emocjonalnej
+- **Lęk przywiązaniowy** (*anxiety*) - strach przed porzuceniem, nadmierne monitorowanie dostępności partnera
+- **Unikanie przywiązaniowe** (*avoidance*) - dyskomfort z bliskością, preferowanie autonomii emocjonalnej
 
 Wersja zrewidowana ECR-R (Fraley i in., 2000) wykazuje dobre właściwości psychometryczne i jest tłumaczona na wiele języków, w tym na język polski.
 
@@ -79,11 +79,11 @@ Wersja zrewidowana ECR-R (Fraley i in., 2000) wykazuje dobre właściwości psyc
 
 Badania podłużne pokazują umiarkowaną stabilność stylów przywiązania w czasie (*Fraley, 2002*). Zmiany mogą być wywoływane przez:
 
-- **doświadczenia korekcyjne** — długotrwałe bezpieczne relacje romantyczne lub terapeutyczne
-- **traumy i straty** — mogą destabilizować wcześniej bezpieczny wzorzec
-- **psychoterapię** — w szczególności terapię skoncentrowaną na emocjach (EFT) i terapię opartą na menalizacji (MBT)
+- **doświadczenia korekcyjne** - długotrwałe bezpieczne relacje romantyczne lub terapeutyczne
+- **traumy i straty** - mogą destabilizować wcześniej bezpieczny wzorzec
+- **psychoterapię** - w szczególności terapię skoncentrowaną na emocjach (EFT) i terapię opartą na menalizacji (MBT)
 
-Fraley i Brumbaugh (2004) wskazują, że choć style wykazują ciągłość, nie są niezmienne — możliwa jest trwała zmiana w kierunku bezpieczeństwa.
+Fraley i Brumbaugh (2004) wskazują, że choć style wykazują ciągłość, nie są niezmienne - możliwa jest trwała zmiana w kierunku bezpieczeństwa.
 
 ---
 

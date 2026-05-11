@@ -8,22 +8,22 @@ evidenceCutoffDate: 2026-03-31
 
 ## Wprowadzenie
 
-Relacje interpersonalne rzadko rozgrywają się wyłącznie między dwiema osobami. Gdy napięcie między dwiema stronami przekracza możliwość jego zniesienia, niemal odruchowo pojawia się tendencja do wciągania trzeciej osoby — dziecka, dziadka, przyjaciela, a nawet tematu, alkoholu czy choroby — które chwilowo zmniejsza ciśnienie relacyjne. Mechanizm ten, opisany szczegółowo przez Murraya Bowena i rozwinięty przez wielu innych terapeutów systemowych, nosi nazwę **triangulacji**. Jest jednym z najczęstszych i najbardziej szkodliwych wzorców, z którymi spotykają się terapeuci rodzinni.
+Relacje interpersonalne rzadko rozgrywają się wyłącznie między dwiema osobami. Gdy napięcie między dwiema stronami przekracza możliwość jego zniesienia, niemal odruchowo pojawia się tendencja do wciągania trzeciej osoby - dziecka, dziadka, przyjaciela, a nawet tematu, alkoholu czy choroby - które chwilowo zmniejsza ciśnienie relacyjne. Mechanizm ten, opisany szczegółowo przez Murraya Bowena i rozwinięty przez wielu innych terapeutów systemowych, nosi nazwę **triangulacji**. Jest jednym z najczęstszych i najbardziej szkodliwych wzorców, z którymi spotykają się terapeuci rodzinni.
 
 ## Definicje kluczowych pojęć
 
-- **Triada** — naturalna, stabilna konfiguracja trzech osób w systemie; według Bowena to triada, a nie diada, jest podstawową jednostką stabilności emocjonalnej systemu.
-- **Triangulacja** — aktywny proces wciągania trzeciej osoby lub elementu (tematu, substancji, aktywności) w napięcie dwójki ludzi, w celu regulacji emocjonalnego nasilenia tej relacji.
-- **Koalicja** — stabilny sojusz dwóch osób skierowany przeciwko trzeciej; gdy dotyczy różnych pokoleń (np. rodzic i dziecko przeciwko drugiemu rodzicowi), bywa określana jako koalicja pokoleniowa lub peryferyczna.
-- **Kozioł ofiarny** (*scapegoat*) — osoba wyznaczona przez system jako źródło problemu, co pozwala innym unikać analizy własnych wzorców.
-- **Osoba skrzydłowa** (*go-between*) — ktoś, kto przenosi wiadomości i emocje między dwiema skonfliktowanymi stronami, pełniąc rolę mediatora i absorber napięcia.
-- **Detrianglowanie** (*detriangling*) — technika terapeutyczna polegająca na wycofaniu się z trójkąta przez świadomą odmowę przejmowania naładowania emocjonalnego dwóch innych stron.
+- **Triada** - naturalna, stabilna konfiguracja trzech osób w systemie; według Bowena to triada, a nie diada, jest podstawową jednostką stabilności emocjonalnej systemu.
+- **Triangulacja** - aktywny proces wciągania trzeciej osoby lub elementu (tematu, substancji, aktywności) w napięcie dwójki ludzi, w celu regulacji emocjonalnego nasilenia tej relacji.
+- **Koalicja** - stabilny sojusz dwóch osób skierowany przeciwko trzeciej; gdy dotyczy różnych pokoleń (np. rodzic i dziecko przeciwko drugiemu rodzicowi), bywa określana jako koalicja pokoleniowa lub peryferyczna.
+- **Kozioł ofiarny** (*scapegoat*) - osoba wyznaczona przez system jako źródło problemu, co pozwala innym unikać analizy własnych wzorców.
+- **Osoba skrzydłowa** (*go-between*) - ktoś, kto przenosi wiadomości i emocje między dwiema skonfliktowanymi stronami, pełniąc rolę mediatora i absorber napięcia.
+- **Detrianglowanie** (*detriangling*) - technika terapeutyczna polegająca na wycofaniu się z trójkąta przez świadomą odmowę przejmowania naładowania emocjonalnego dwóch innych stron.
 
 ## Analiza mechanizmów
 
 ### 1. Dlaczego trójkąt stabilizuje?
 
-Diada — relacja między dwiema osobami — jest z natury niestabilna przy wysokim napięciu. Gdy intensywność emocjonalna rośnie, obie osoby odczuwają dyskomfort. Wciągnięcie trzeciej osoby rozkłada ciężar napięcia, tworząc pozorną ulgę. Problem polega na tym, że napięcie nie znika — zostaje jedynie przeniesione lub zamrożone w strukturze trójkąta, który teraz działa jako stały absorber emocji.
+Diada - relacja między dwiema osobami - jest z natury niestabilna przy wysokim napięciu. Gdy intensywność emocjonalna rośnie, obie osoby odczuwają dyskomfort. Wciągnięcie trzeciej osoby rozkłada ciężar napięcia, tworząc pozorną ulgę. Problem polega na tym, że napięcie nie znika - zostaje jedynie przeniesione lub zamrożone w strukturze trójkąta, który teraz działa jako stały absorber emocji.
 
 ### 2. Dziecko wciągnięte w trójkąt
 
@@ -39,7 +39,7 @@ Koalicje są szkodliwe o tyle, o ile naruszają hierarchię i granice podsystem�
 
 ## Dobra praktyka
 
-Terapeuta rodzinny zauważa, że nastoletnią córkę matka regularnie informuje o szczegółach konfliktów małżeńskich i prosi o opinię. W sesji terapeuta bezpośrednio nazywa ten wzorzec (nie oceniając intencji matki), następnie pracuje z rodzicami nad stworzeniem bezpiecznego, prywatnego przestrzeni dla ich konfliktu — oddzielonej od relacji z córką. Prosi matkę, by następnym razem, gdy poczuje potrzebę rozmowy z córką o małżeństwie, zadzwoniła do przyjaciółki lub umówiła się na sesję terapeutyczną.
+Terapeuta rodzinny zauważa, że nastoletnią córkę matka regularnie informuje o szczegółach konfliktów małżeńskich i prosi o opinię. W sesji terapeuta bezpośrednio nazywa ten wzorzec (nie oceniając intencji matki), następnie pracuje z rodzicami nad stworzeniem bezpiecznego, prywatnego przestrzeni dla ich konfliktu - oddzielonej od relacji z córką. Prosi matkę, by następnym razem, gdy poczuje potrzebę rozmowy z córką o małżeństwie, zadzwoniła do przyjaciółki lub umówiła się na sesję terapeutyczną.
 
 **Konsekwencje:** córka zostaje zwolniona z roli doradcy małżeńskiego, jej lęk spada, rodzice uczą się budować własny system wsparcia poza relacją rodzic–dziecko.
 
@@ -51,11 +51,11 @@ Terapeuta, chcąc zrozumieć sytuację, prosi każdego z rodziców o opisanie pr
 
 ## Perspektywa nieoczywista
 
-Triangulacja jest powszechnie postrzegana jako zjawisko dysfunkcyjne i szkodliwe. Warto jednak zauważyć, że ludzka skłonność do tworzenia trójkątów jest też wyrazem zasobu — szukania wsparcia, dzielenia się ciężarem i tworzenia koalicji. Problem nie leży w samym angażowaniu innych, lecz w trwałym, nierozwiązującym napięcie, a jedynie je maskującym wzorcu. Terapia systemowa uczy nie tego, by być wyspą — lecz by budować sieć wsparcia, która nie wymaga od jej węzłów pełnienia funkcji emocjonalnych regulatorów konfliktów innych.
+Triangulacja jest powszechnie postrzegana jako zjawisko dysfunkcyjne i szkodliwe. Warto jednak zauważyć, że ludzka skłonność do tworzenia trójkątów jest też wyrazem zasobu - szukania wsparcia, dzielenia się ciężarem i tworzenia koalicji. Problem nie leży w samym angażowaniu innych, lecz w trwałym, nierozwiązującym napięcie, a jedynie je maskującym wzorcu. Terapia systemowa uczy nie tego, by być wyspą - lecz by budować sieć wsparcia, która nie wymaga od jej węzłów pełnienia funkcji emocjonalnych regulatorów konfliktów innych.
 
 ## Podsumowanie
 
-Triangulacja i koalicje są jednymi z najbardziej fundamentalnych i dobrze zbadanych wzorców w terapii systemowej. Zrozumienie, jak trójkąty formują się, stabilizują i transmitują między pokoleniami, pozwala terapeucie precyzyjnie diagnozować i interweniować w złożone systemy rodzinne. Detrianglowanie — wycofywanie się z angażowania emocjonalnego konfliktu innych — jest jedną z kluczowych umiejętności zarówno terapeutów, jak i każdego, kto chce rozwijać dojrzałe relacje.
+Triangulacja i koalicje są jednymi z najbardziej fundamentalnych i dobrze zbadanych wzorców w terapii systemowej. Zrozumienie, jak trójkąty formują się, stabilizują i transmitują między pokoleniami, pozwala terapeucie precyzyjnie diagnozować i interweniować w złożone systemy rodzinne. Detrianglowanie - wycofywanie się z angażowania emocjonalnego konfliktu innych - jest jedną z kluczowych umiejętności zarówno terapeutów, jak i każdego, kto chce rozwijać dojrzałe relacje.
 
 ## Bibliografia
 

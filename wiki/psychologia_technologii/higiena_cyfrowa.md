@@ -12,10 +12,10 @@ Higiena cyfrowa to zestaw praktyk regulujących sposób korzystania z technologi
 
 ## Definicje kluczowych pojęć
 
-- **Higiena cyfrowa** — celowe kształtowanie środowiska i nawyków cyfrowych w celu ochrony zasobów poznawczych i emocjonalnych.
-- **Samoregulacja cyfrowa** — zdolność do świadomego rozpoczynania, kontynuowania i kończenia aktywności online zgodnie z celem.
-- **Granice dostępności** — reguły określające, kiedy i w jakim trybie jednostka jest osiągalna.
-- **Profilaktyka przeciążenia** — działania zapobiegające kumulacji stresorów cyfrowych zanim pojawią się objawy kliniczne.
+- **Higiena cyfrowa** - celowe kształtowanie środowiska i nawyków cyfrowych w celu ochrony zasobów poznawczych i emocjonalnych.
+- **Samoregulacja cyfrowa** - zdolność do świadomego rozpoczynania, kontynuowania i kończenia aktywności online zgodnie z celem.
+- **Granice dostępności** - reguły określające, kiedy i w jakim trybie jednostka jest osiągalna.
+- **Profilaktyka przeciążenia** - działania zapobiegające kumulacji stresorów cyfrowych zanim pojawią się objawy kliniczne.
 
 ## Część analityczna: mechanizmy i zależności
 

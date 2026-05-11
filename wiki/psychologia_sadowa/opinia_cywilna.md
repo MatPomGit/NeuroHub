@@ -8,11 +8,11 @@ evidenceCutoffDate: 2025-12-31
 
 ## Specyfika postępowania cywilnego
 
-Postępowanie cywilne obejmuje szeroki zakres spraw — od sporów majątkowych i kontraktowych, przez sprawy odszkodowawcze, po kwestie zdolności do czynności prawnych, prawa spadkowego i ubezpieczeń. W każdym z tych obszarów psycholog może zostać powołany jako biegły, gdy sąd potrzebuje wiadomości specjalnych z zakresu funkcjonowania psychicznego jednostki.
+Postępowanie cywilne obejmuje szeroki zakres spraw - od sporów majątkowych i kontraktowych, przez sprawy odszkodowawcze, po kwestie zdolności do czynności prawnych, prawa spadkowego i ubezpieczeń. W każdym z tych obszarów psycholog może zostać powołany jako biegły, gdy sąd potrzebuje wiadomości specjalnych z zakresu funkcjonowania psychicznego jednostki.
 
-W odróżnieniu od postępowania karnego, w sprawach cywilnych centralną kategorią jest nie poczytalność, lecz **zdolność do czynności prawnych** (*legal capacity*) — zdolność do świadomego i swobodnego podejmowania decyzji prawnych. Ta kategoria jest bardziej elastyczna i kontekstualna: można być zdolnym do prostych transakcji, lecz niezdolnym do czynności złożonych wymagających rozumienia długoterminowych konsekwencji.
+W odróżnieniu od postępowania karnego, w sprawach cywilnych centralną kategorią jest nie poczytalność, lecz **zdolność do czynności prawnych** (*legal capacity*) - zdolność do świadomego i swobodnego podejmowania decyzji prawnych. Ta kategoria jest bardziej elastyczna i kontekstualna: można być zdolnym do prostych transakcji, lecz niezdolnym do czynności złożonych wymagających rozumienia długoterminowych konsekwencji.
 
-> **Fakt:** Polska zajmuje jedno z czołowych miejsc w Europie pod względem liczby orzeczeń o ubezwłasnowolnieniu — w 2021 roku polskie sądy orzekły łącznie ponad 3000 ubezwłasnowolnień. Jest to dziedzina, w której opinia psychologiczna ma kluczowe znaczenie dla autonomii osoby.
+> **Fakt:** Polska zajmuje jedno z czołowych miejsc w Europie pod względem liczby orzeczeń o ubezwłasnowolnieniu - w 2021 roku polskie sądy orzekły łącznie ponad 3000 ubezwłasnowolnień. Jest to dziedzina, w której opinia psychologiczna ma kluczowe znaczenie dla autonomii osoby.
 
 ## Ubezwłasnowolnienie
 
@@ -29,7 +29,7 @@ Współcześnie, w świetle Konwencji ONZ o prawach osób niepełnosprawnych (CR
 
 Jednym z najczęstszych zleceń dla biegłych psychologów w sprawach cywilnych jest retrospektywna ocena zdolności testatora do sporządzenia testamentu. Art. 944–945 k.c. stanowi, że testament jest nieważny, jeśli spadkodawca był w stanie wyłączającym świadome lub swobodne powzięcie decyzji i wyrażenie woli.
 
-Biegły musi ocenić stan psychiczny testatora na podstawie dokumentacji medycznej (zazwyczaj retrospektywnie, gdy testator już nie żyje), zeznań świadków, nagrań i innych materiałów. Jest to szczególnie trudne zadanie metodologicznie — wymaga oceny przeszłego stanu psychicznego na podstawie pośrednich danych.
+Biegły musi ocenić stan psychiczny testatora na podstawie dokumentacji medycznej (zazwyczaj retrospektywnie, gdy testator już nie żyje), zeznań świadków, nagrań i innych materiałów. Jest to szczególnie trudne zadanie metodologicznie - wymaga oceny przeszłego stanu psychicznego na podstawie pośrednich danych.
 
 ## Szkody psychologiczne w sprawach odszkodowawczych
 
@@ -57,7 +57,7 @@ Rzetelne opiniowanie wymaga tu połączenia empatii klinicznej (rozumienie cierp
 
 ## Podsumowanie
 
-Opiniowanie w sprawach cywilnych obejmuje niezwykle zróżnicowane pytania — od zdolności testamentowej przez szkody odszkodowawcze po ubezwłasnowolnienie. Wspólnym mianownikiem jest konieczność precyzyjnej, udokumentowanej i osadzonej w realiach prawnych oceny funkcjonowania psychicznego, której wyniki mają konkretne konsekwencje majątkowe i osobiste dla uczestników postępowania.
+Opiniowanie w sprawach cywilnych obejmuje niezwykle zróżnicowane pytania - od zdolności testamentowej przez szkody odszkodowawcze po ubezwłasnowolnienie. Wspólnym mianownikiem jest konieczność precyzyjnej, udokumentowanej i osadzonej w realiach prawnych oceny funkcjonowania psychicznego, której wyniki mają konkretne konsekwencje majątkowe i osobiste dla uczestników postępowania.
 
 
 ## Wprowadzenie

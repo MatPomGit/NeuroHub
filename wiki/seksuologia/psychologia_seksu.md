@@ -18,9 +18,9 @@ Seksualność nie jest oddzielnym „modułem” życia. Jest powiązana z obraz
 
 Współczesna psychologia seksu opiera się na modelu biopsychospołecznym. Oznacza to, że funkcjonowanie seksualne wynika ze współdziałania trzech poziomów:
 
-1. **Biologicznego** — hormony, układ nerwowy, choroby somatyczne, leki.
-2. **Psychologicznego** — pożądanie, lęk, wstyd, samoocena, schematy poznawcze.
-3. **Społeczno-relacyjnego** — jakość relacji, komunikacja, normy, presja kulturowa.
+1. **Biologicznego** - hormony, układ nerwowy, choroby somatyczne, leki.
+2. **Psychologicznego** - pożądanie, lęk, wstyd, samoocena, schematy poznawcze.
+3. **Społeczno-relacyjnego** - jakość relacji, komunikacja, normy, presja kulturowa.
 
 Problemy seksualne rzadko mają jedną przyczynę. Najczęściej są efektem nakładających się czynników z każdego poziomu.
 
@@ -28,7 +28,7 @@ Problemy seksualne rzadko mają jedną przyczynę. Najczęściej są efektem nak
 
 ## Pożądanie: spontaniczne i responsywne
 
-Jednym z najczęstszych mitów jest przekonanie, że „prawidłowe” pożądanie zawsze pojawia się spontanicznie. Tymczasem badania kliniczne pokazują, że u wielu osób pożądanie ma charakter **responsywny** — pojawia się dopiero po rozpoczęciu bliskości, przy poczuciu bezpieczeństwa i obecności bodźców erotycznych.
+Jednym z najczęstszych mitów jest przekonanie, że „prawidłowe” pożądanie zawsze pojawia się spontanicznie. Tymczasem badania kliniczne pokazują, że u wielu osób pożądanie ma charakter **responsywny** - pojawia się dopiero po rozpoczęciu bliskości, przy poczuciu bezpieczeństwa i obecności bodźców erotycznych.
 
 To rozróżnienie jest kluczowe w pracy z parami: brak spontanicznego popędu nie musi oznaczać zaburzenia, lecz może wskazywać na potrzebę innego tempa i kontekstu.
 
@@ -63,11 +63,11 @@ W praktyce oznacza to, że praca nad relacją często poprawia także funkcjonow
 
 Jakość życia seksualnego rośnie, gdy partnerzy potrafią rozmawiać o granicach, potrzebach i preferencjach bez zawstydzania. Pomocne są trzy zasady:
 
-1. **Język konkretny** — mówienie o zachowaniach, nie o etykietach osoby.
-2. **Język potrzeb** — „czego potrzebuję”, zamiast „co robisz źle”.
-3. **Język zgody** — aktywne upewnianie się, że obie strony chcą tego samego.
+1. **Język konkretny** - mówienie o zachowaniach, nie o etykietach osoby.
+2. **Język potrzeb** - „czego potrzebuję”, zamiast „co robisz źle”.
+3. **Język zgody** - aktywne upewnianie się, że obie strony chcą tego samego.
 
-Rozmowa o seksie jest umiejętnością, której można się nauczyć — podobnie jak regulacji konfliktów.
+Rozmowa o seksie jest umiejętnością, której można się nauczyć - podobnie jak regulacji konfliktów.
 
 ---
 

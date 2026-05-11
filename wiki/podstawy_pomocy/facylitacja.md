@@ -47,7 +47,7 @@ Dobra facylitacja łączy elastyczność z ramą: cel spotkania, kontrakt, etapy
 Bez poczucia bezpieczeństwa ludzie unikają ryzyka poznawczego i emocjonalnego. Dlatego ważne są zasady komunikacji: brak ośmieszania, mówienie w pierwszej osobie, szacunek dla różnic.
 
 ### 5. Orientacja na cel i rezultat
-Dobra rozmowa to za mało — ważne, aby grupa wyszła ze spotkania z konkretem: decyzją, planem, listą działań albo jasno nazwanym brakiem decyzji.
+Dobra rozmowa to za mało - ważne, aby grupa wyszła ze spotkania z konkretem: decyzją, planem, listą działań albo jasno nazwanym brakiem decyzji.
 
 ---
 

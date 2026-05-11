@@ -28,7 +28,7 @@ Stosuj protokoły oceny ryzyka i superwizję decyzji w sprawach wysokiego zagro�
 W razie przemocy dokumentuj zdarzenia i korzystaj z formalnych procedur ochronnych.
 
 ## Ocena jakości dowodów
-Dowody dla wieloagencyjnej interwencji kryzysowej są **umiarkowane**; dla działań doraźnych bez follow-up — **wstępne**.
+Dowody dla wieloagencyjnej interwencji kryzysowej są **umiarkowane**; dla działań doraźnych bez follow-up - **wstępne**.
 
 ## Podsumowanie
 W kryzysie pierwsza decyzja dotyczy bezpieczeństwa, dopiero potem terapii.

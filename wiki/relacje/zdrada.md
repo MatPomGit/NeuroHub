@@ -8,7 +8,7 @@ evidenceCutoffDate: 2025-12-31
 
 ## Wprowadzenie
 
-Zdrada jest jednym z najbardziej destrukcyjnych doświadczeń w życiu związku. Niezależnie od formy, narusza fundamentalne poczucie bezpieczeństwa, lojalności i ekskluzywności, na których opiera się bliska relacja. Badania kliniczne i empiryczne wskazują, że **odkrycie zdrady jest traumatycznym wydarzeniem** dla zdradzanego partnera, generującym symptomy przypominające PTSD (*Betrayal Trauma*, Freyd 1994). Jednocześnie znaczna część par — przy odpowiednim wsparciu — jest w stanie odbudować związek po zdradzie.
+Zdrada jest jednym z najbardziej destrukcyjnych doświadczeń w życiu związku. Niezależnie od formy, narusza fundamentalne poczucie bezpieczeństwa, lojalności i ekskluzywności, na których opiera się bliska relacja. Badania kliniczne i empiryczne wskazują, że **odkrycie zdrady jest traumatycznym wydarzeniem** dla zdradzanego partnera, generującym symptomy przypominające PTSD (*Betrayal Trauma*, Freyd 1994). Jednocześnie znaczna część par - przy odpowiednim wsparciu - jest w stanie odbudować związek po zdradzie.
 
 ---
 
@@ -16,11 +16,11 @@ Zdrada jest jednym z najbardziej destrukcyjnych doświadczeń w życiu związku.
 
 ### Zdrada seksualna
 
-Obejmuje kontakty seksualne z osobą spoza związku. Jej psychologiczne znaczenie wykracza poza sam akt fizyczny — narusza poczucie wyłączności, intymności cielesnej i zdrowia.
+Obejmuje kontakty seksualne z osobą spoza związku. Jej psychologiczne znaczenie wykracza poza sam akt fizyczny - narusza poczucie wyłączności, intymności cielesnej i zdrowia.
 
 ### Zdrada emocjonalna
 
-Polega na budowaniu głębokiej więzi emocjonalnej z inną osobą: wyznawaniu tajemnic, szukaniu wsparcia, silnym zaangażowaniu uczuciowym. Badania wykazują, że **kobiety oceniają zdradę emocjonalną jako bardziej bolesną**, natomiast mężczyźni częściej reagują silniej na zdradę seksualną (*Buss i in., 1992*) — choć różnice te są bardziej złożone i kulturowo modulowane, niż początkowo sugerowano.
+Polega na budowaniu głębokiej więzi emocjonalnej z inną osobą: wyznawaniu tajemnic, szukaniu wsparcia, silnym zaangażowaniu uczuciowym. Badania wykazują, że **kobiety oceniają zdradę emocjonalną jako bardziej bolesną**, natomiast mężczyźni częściej reagują silniej na zdradę seksualną (*Buss i in., 1992*) - choć różnice te są bardziej złożone i kulturowo modulowane, niż początkowo sugerowano.
 
 ### Zdrada mikro i cyfrowa
 
@@ -85,7 +85,7 @@ Badania Cano i O'Leary (2000) wykazały, że u 45% partnerów zdradzonych spełn
 | Czynnik | Kierunek wpływu |
 |---|---|
 | Inwestycja w związek (czas, dzieci, finanse) | tendencja do pozostania |
-| Jakość alternatyw | im lepsze — tym większa tendencja do odejścia |
+| Jakość alternatyw | im lepsze - tym większa tendencja do odejścia |
 | Typ zdrady (emocjonalna vs. seksualna) | zdrada emocjonalna częściej skutkuje odejściem |
 | Okazanie skruchy przez zdradzającego | tendencja do pozostania |
 | Wcześniejsza historia zdrady | tendencja do odejścia |
@@ -95,17 +95,17 @@ Badania Cano i O'Leary (2000) wykazały, że u 45% partnerów zdradzonych spełn
 
 ## Podejścia terapeutyczne
 
-### Metoda Gottmana — „Atoning and Attunement"
+### Metoda Gottmana - „Atoning and Attunement"
 
 Gottman i Silver (1999) opracowali protokół terapii par po zdradzie obejmujący trzy fazy:
 
-1. **Eksploracja i mapowanie** — co się stało, kiedy, jak długo, co zdrada oznaczała dla zdradzającego
-2. **Empatia i uznanie bólu** — zdradzający wysłuchuje bólu partnera bez defensywności
-3. **Odbudowa zaufania i rytuały** — konkretne zachowania odbudowujące bezpieczeństwo
+1. **Eksploracja i mapowanie** - co się stało, kiedy, jak długo, co zdrada oznaczała dla zdradzającego
+2. **Empatia i uznanie bólu** - zdradzający wysłuchuje bólu partnera bez defensywności
+3. **Odbudowa zaufania i rytuały** - konkretne zachowania odbudowujące bezpieczeństwo
 
-### Emotionally Focused Therapy (EFT) — Johnson
+### Emotionally Focused Therapy (EFT) - Johnson
 
-Sue Johnson (2008) interpretuje zdradę jako **traumę przywiązaniową** — głęboki cios w poczucie bezpieczeństwa i dostępności figury przywiązania. EFT skupia się na:
+Sue Johnson (2008) interpretuje zdradę jako **traumę przywiązaniową** - głęboki cios w poczucie bezpieczeństwa i dostępności figury przywiązania. EFT skupia się na:
 - eksploracji pierwotnych emocji (strach, ból, smutek) pod wtórnym gniewem
 - odbudowie emocjonalnej dostępności i responsywności zdradzającego
 - tworzeniu nowych, bezpiecznych cykli interakcji
@@ -118,22 +118,22 @@ Badania wykazują, że EFT po zdradzie prowadzi do znaczącej poprawy satysfakcj
 
 Zaufanie jest odbudowywane przez **konsekwentne, powtarzalne zachowania**, nie przez deklaracje. Model Gottmana wskazuje na:
 
-- **Transparentność** — otwartość w kwestii kontaktów, lokalizacji, urządzeń
-- **Odpowiedzialność** — zdradzający aktywnie inicjuje rozmowy, nie czeka na pytania
-- **Cierpliwość** — rozumienie, że zaufanie odbudowuje się latami, nie tygodniami
-- **Psychoedukacja dla pary** — normalizacja nawrotów podejrzeń i bólu
+- **Transparentność** - otwartość w kwestii kontaktów, lokalizacji, urządzeń
+- **Odpowiedzialność** - zdradzający aktywnie inicjuje rozmowy, nie czeka na pytania
+- **Cierpliwość** - rozumienie, że zaufanie odbudowuje się latami, nie tygodniami
+- **Psychoedukacja dla pary** - normalizacja nawrotów podejrzeń i bólu
 
 ---
 
 ## Przebaczenie
 
-Przebaczenie — odróżniane od pojednania — to **wewnętrzny proces uwalniania się od urazy** na rzecz własnego dobrostanu, niekoniecznie związany z kontynuacją relacji. Badania Worthingtona (2006) nad modelem REACH:
+Przebaczenie - odróżniane od pojednania - to **wewnętrzny proces uwalniania się od urazy** na rzecz własnego dobrostanu, niekoniecznie związany z kontynuacją relacji. Badania Worthingtona (2006) nad modelem REACH:
 
-- **R**ecall the hurt — uznanie bólu bez minimalizacji
-- **E**mpathize — próba zrozumienia perspektywy sprawcy
-- **A**ltruistic gift — przebaczenie jako dar
-- **C**ommit — publiczne lub prywatne zobowiązanie do przebaczenia
-- **H**old on — utrzymanie przebaczenia w trudnych chwilach
+- **R**ecall the hurt - uznanie bólu bez minimalizacji
+- **E**mpathize - próba zrozumienia perspektywy sprawcy
+- **A**ltruistic gift - przebaczenie jako dar
+- **C**ommit - publiczne lub prywatne zobowiązanie do przebaczenia
+- **H**old on - utrzymanie przebaczenia w trudnych chwilach
 
 ---
 

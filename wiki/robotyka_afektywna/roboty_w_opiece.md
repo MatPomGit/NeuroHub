@@ -16,7 +16,7 @@ Roboty terapeutyczne stanowią jedną z najbardziej obiecujących i zarazem kont
 - terapię stanów lękowych i depresji
 - wsparcie emocjonalne dla pacjentów onkologicznych i terminalnie chorych
 
-## PARO — terapeutyczna foka robotyczna
+## PARO - terapeutyczna foka robotyczna
 
 **PARO** to robot w kształcie białej foki harfowej, opracowany przez Takanori Shibatę w japońskim Narodowym Instytucie Zaawansowanych Nauk Przemysłowych i Technologii (AIST). Od 2005 roku jest certyfikowany jako urządzenie terapeutyczne klasy II przez japońskie i amerykańskie organy regulacyjne.
 
@@ -33,10 +33,10 @@ Mechanizmy terapeutyczne PARO:
 
 Badacze wskazują na kilka mechanizmów wyjaśniających skuteczność PARO:
 
-- **efekt zwierzęcia domowego** — relacja opiekuńcza aktywuje systemy nagrody i więzi
-- **stymulacja sensoryczna** — dotyk, ruch i głos dostarczają przyjemnych bodźców sensorycznych
-- **redukcja izolacji** — robot zapewnia stałą obecność i responsywność
-- **flow of care** — opieka nad robotem daje pacjentowi poczucie sensu i sprawczości
+- **efekt zwierzęcia domowego** - relacja opiekuńcza aktywuje systemy nagrody i więzi
+- **stymulacja sensoryczna** - dotyk, ruch i głos dostarczają przyjemnych bodźców sensorycznych
+- **redukcja izolacji** - robot zapewnia stałą obecność i responsywność
+- **flow of care** - opieka nad robotem daje pacjentowi poczucie sensu i sprawczości
 
 ## Roboty w terapii autyzmu
 
@@ -48,7 +48,7 @@ Dzieci z zaburzeniami ze spektrum autyzmu (ASD) często wykazują silną prefere
 
 ### KASPAR
 
-**KASPAR** (*Kinesics and Synchronisation in Personal Assistant Robotics*) to robot dziecięcy opracowany na Uniwersytecie w Hertfordshire (Ben Robins, Kerstin Dautenhahn). Stosowany jako „mediator społeczny" — dzieci uczą się przy jego pomocy nawiązywania kontaktu wzrokowego, rozpoznawania emocji i kolei w rozmowie.
+**KASPAR** (*Kinesics and Synchronisation in Personal Assistant Robotics*) to robot dziecięcy opracowany na Uniwersytecie w Hertfordshire (Ben Robins, Kerstin Dautenhahn). Stosowany jako „mediator społeczny" - dzieci uczą się przy jego pomocy nawiązywania kontaktu wzrokowego, rozpoznawania emocji i kolei w rozmowie.
 
 ### NAO w edukacji specjalnej
 
@@ -65,11 +65,11 @@ Roboty rehabilitacyjne umożliwiają:
 - intensywniejsze i bardziej systematyczne ćwiczenia niż fizjoterapeuta
 - precyzyjny pomiar postępów
 - bezpieczne asystowanie przy niebezpiecznych ruchach
-- telepresence — sesje rehabilitacyjne na odległość
+- telepresence - sesje rehabilitacyjne na odległość
 
 ## Opieka nad osobami starszymi
 
-Starzejące się społeczeństwa Europy i Azji tworzą rosnące zapotrzebowanie na roboty opiekuńcze. Japonia — kraj z jednym z najszybciej starzejących się społeczeństw — intensywnie inwestuje w tę technologię.
+Starzejące się społeczeństwa Europy i Azji tworzą rosnące zapotrzebowanie na roboty opiekuńcze. Japonia - kraj z jednym z najszybciej starzejących się społeczeństw - intensywnie inwestuje w tę technologię.
 
 Funkcje robotów opiekuńczych:
 
@@ -87,7 +87,7 @@ Czy etyczne jest, by pacjent z demencją wierzył, że PARO jest prawdziwą fok�
 
 ### Substytucja relacji ludzkich
 
-Ryzyko, że roboty będą zastępować — a nie uzupełniać — kontakt z ludzkimi opiekunami, co może prowadzić do pogłębienia izolacji społecznej.
+Ryzyko, że roboty będą zastępować - a nie uzupełniać - kontakt z ludzkimi opiekunami, co może prowadzić do pogłębienia izolacji społecznej.
 
 ### Prywatność
 
@@ -95,7 +95,7 @@ Roboty opiekuńcze zbierają wrażliwe dane o zdrowiu, zachowaniu i codziennym �
 
 ## Podsumowanie
 
-Roboty terapeutyczne i opiekuńcze wykazują realną skuteczność kliniczną potwierdzoną badaniami. Ich wdrożenie wymaga jednak głębokiej refleksji etycznej i zrozumienia psychologicznych mechanizmów, które czynią je skutecznymi — by technologia służyła dobrostanowi człowieka, a nie go zastępowała.
+Roboty terapeutyczne i opiekuńcze wykazują realną skuteczność kliniczną potwierdzoną badaniami. Ich wdrożenie wymaga jednak głębokiej refleksji etycznej i zrozumienia psychologicznych mechanizmów, które czynią je skutecznymi - by technologia służyła dobrostanowi człowieka, a nie go zastępowała.
 
 
 ## Wprowadzenie

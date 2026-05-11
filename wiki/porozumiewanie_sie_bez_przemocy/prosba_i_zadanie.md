@@ -10,11 +10,11 @@ evidenceCutoffDate: 2025-12-31
 
 Prośba to czwarty i ostatni komponent Porozumiewania się bez przemocy. Stanowi ona konkretną propozycję działania, które mogłoby zaspokoić naszą potrzebę. Prośba różni się zasadniczo od żądania tym, że **akceptuje odmowę**.
 
-> „Różnica między prośbą a żądaniem polega na tym, co robimy, kiedy ktoś odmawia." — Marshall Rosenberg
+> „Różnica między prośbą a żądaniem polega na tym, co robimy, kiedy ktoś odmawia." - Marshall Rosenberg
 
-Prośba wyraża chęć porozumienia i szanuje wolność drugiej osoby. Żądanie — nawet gdy brzmi grzecznie — grozi (jawnie lub domyślnie) konsekwencjami za odmowę.
+Prośba wyraża chęć porozumienia i szanuje wolność drugiej osoby. Żądanie - nawet gdy brzmi grzecznie - grozi (jawnie lub domyślnie) konsekwencjami za odmowę.
 
-## Prośba vs. żądanie — jak je rozróżnić?
+## Prośba vs. żądanie - jak je rozróżnić?
 
 Często nie wiemy, czy coś jest prośbą czy żądaniem, dopóki nie usłyszymy odmowy. Jeśli na odmowę reagujemy:
 
@@ -50,7 +50,7 @@ Prośby dotyczą konkretnych sytuacji, nie ogólnych zmian w zachowaniu.
 - **Konkretna:** „Czy możesz przesłać mi te pliki do piątku do południa?"
 
 ### 4. Otwarta na odmowę
-Prawdziwa prośba zawiera akceptację, że drugi człowiek może powiedzieć „nie" — i że to nie zrujnuje relacji.
+Prawdziwa prośba zawiera akceptację, że drugi człowiek może powiedzieć „nie" - i że to nie zrujnuje relacji.
 
 ## Dwa rodzaje próśb
 
@@ -70,11 +70,11 @@ Prośba o połączenie jest szczególnie ważna w trudnych rozmowach, gdzie ryzy
 
 Gdy ktoś odmawia, NVC zachęca do:
 
-1. **Wysłuchania odmowy z empatią** — jaką potrzebę wyraża odmowa?
-2. **Szukania alternatywnych strategii** — jak inaczej zaspokoić moją potrzebę?
-3. **Wyrażenia smutku bez ataku** — „Słyszę, że nie możesz. Czuję rozczarowanie, bo potrzebuję pomocy. Czy znasz kogoś, kto mógłby mi pomóc?"
+1. **Wysłuchania odmowy z empatią** - jaką potrzebę wyraża odmowa?
+2. **Szukania alternatywnych strategii** - jak inaczej zaspokoić moją potrzebę?
+3. **Wyrażenia smutku bez ataku** - „Słyszę, że nie możesz. Czuję rozczarowanie, bo potrzebuję pomocy. Czy znasz kogoś, kto mógłby mi pomóc?"
 
-Odmowa jest zawsze odmową wobec konkretnej strategii — nie wobec naszej osoby ani naszej potrzeby.
+Odmowa jest zawsze odmową wobec konkretnej strategii - nie wobec naszej osoby ani naszej potrzeby.
 
 ## Prośba a manipulacja
 

@@ -6,9 +6,9 @@ evidenceCutoffDate: 2025-12-31
 
 # Pisanie i interpretacja wyników
 
-Rozdział wyników i dyskusja to serce pracy magisterskiej. To tutaj dane zamieniają się w wiedzę, a liczby — w argumenty naukowe. Umiejętność przejrzystego i precyzyjnego pisania wyników jest kompetencją, którą warto rozwijać od początku pracy.
+Rozdział wyników i dyskusja to serce pracy magisterskiej. To tutaj dane zamieniają się w wiedzę, a liczby - w argumenty naukowe. Umiejętność przejrzystego i precyzyjnego pisania wyników jest kompetencją, którą warto rozwijać od początku pracy.
 
-## Rozdział wyników — zasady
+## Rozdział wyników - zasady
 
 ### Co powinien zawierać, a czego nie
 
@@ -31,7 +31,7 @@ Wyniki prezentuj w kolejności odpowiadającej kolejności pytań/hipotez badawc
 4. Wyniki analiz głównych (testowanie hipotez)
 5. Analizy dodatkowe lub eksploracyjne (jeśli zaplanowane)
 
-## Raportowanie statystyk — standardy APA 7
+## Raportowanie statystyk - standardy APA 7
 
 ### t-test
 
@@ -71,27 +71,27 @@ Dobre wykresy:
 - Nie zawierają tzw. *chart junk* (zbędnych linii siatki, efektów 3D, gradientów)
 
 Najczęstsze typy wykresów w psychologii:
-- **Wykres słupkowy** — porównania grup
-- **Wykres rozproszenia** (scatterplot) — korelacje
-- **Box plot** — rozkład zmiennej i wartości odstające
-- **Wykres liniowy** — dane podłużne i trendy
+- **Wykres słupkowy** - porównania grup
+- **Wykres rozproszenia** (scatterplot) - korelacje
+- **Box plot** - rozkład zmiennej i wartości odstające
+- **Wykres liniowy** - dane podłużne i trendy
 
-## Dyskusja — jak interpretować wyniki
+## Dyskusja - jak interpretować wyniki
 
 ### Struktura dyskusji
 
-1. **Streszczenie kluczowych wyników** — jedno zdanie o głównym wyniku
-2. **Interpretacja w kontekście hipotez** — czy hipotezy zostały potwierdzone?
-3. **Porównanie z literaturą** — jak wyniki mają się do wcześniejszych badań?
-4. **Wyjaśnienie rozbieżności** — gdy wyniki różnią się od spodziewanych
-5. **Ograniczenia badania** — uczciwy, konkretny opis słabości
-6. **Implikacje** — co wyniki oznaczają dla teorii i praktyki?
-7. **Kierunki przyszłych badań** — jakie pytania pozostają otwarte?
+1. **Streszczenie kluczowych wyników** - jedno zdanie o głównym wyniku
+2. **Interpretacja w kontekście hipotez** - czy hipotezy zostały potwierdzone?
+3. **Porównanie z literaturą** - jak wyniki mają się do wcześniejszych badań?
+4. **Wyjaśnienie rozbieżności** - gdy wyniki różnią się od spodziewanych
+5. **Ograniczenia badania** - uczciwy, konkretny opis słabości
+6. **Implikacje** - co wyniki oznaczają dla teorii i praktyki?
+7. **Kierunki przyszłych badań** - jakie pytania pozostają otwarte?
 
 ### Interpretacja wyników pozytywnych i negatywnych
 
 **Wyniki potwierdzające hipotezy:**
-- Nie nadinterpretuj — potwierdzenie hipotezy to przesłanka, nie dowód
+- Nie nadinterpretuj - potwierdzenie hipotezy to przesłanka, nie dowód
 - Omów alternatywne wyjaśnienia (zmienne zakłócające, specyfika próby)
 
 **Wyniki nieistotne statystycznie:**
@@ -105,11 +105,11 @@ Najczęstsze typy wykresów w psychologii:
 
 ### Ograniczenia badania
 
-Sekcja ograniczeń nie jest wyznaniem klęski — to wyraz dojrzałości naukowej. Typowe ograniczenia w pracach magisterskich:
-- Próba wygodowa (studenci) — ograniczona reprezentatywność
-- Samoopis jako jedyne źródło danych — wspólna wariancja metody
-- Przekrojowy design — brak możliwości wnioskowania przyczynowego
-- Krótki czas badania — brak danych o trwałości efektów
+Sekcja ograniczeń nie jest wyznaniem klęski - to wyraz dojrzałości naukowej. Typowe ograniczenia w pracach magisterskich:
+- Próba wygodowa (studenci) - ograniczona reprezentatywność
+- Samoopis jako jedyne źródło danych - wspólna wariancja metody
+- Przekrojowy design - brak możliwości wnioskowania przyczynowego
+- Krótki czas badania - brak danych o trwałości efektów
 - Brak pomiaru potencjalnych zmiennych zakłócających
 
 ### Implikacje teoretyczne i praktyczne
@@ -117,20 +117,20 @@ Sekcja ograniczeń nie jest wyznaniem klęski — to wyraz dojrzałości naukowe
 - **Implikacje teoretyczne:** Co wyniki mówią o teorii leżącej u podstaw badania? Czy ją potwierdzają, uzupełniają, czy podważają?
 - **Implikacje praktyczne:** Co wyniki oznaczają dla praktyki klinicznej, edukacji, polityki zdrowotnej?
 
-Nie każde badanie ma natychmiastowe implikacje praktyczne — i to jest w porządku.
+Nie każde badanie ma natychmiastowe implikacje praktyczne - i to jest w porządku.
 
 ## Pisanie językiem naukowym
 
 Kilka zasad stylistycznych:
-- **Precyzja** > kwiecistość — wybieraj jasne, proste sformułowania
-- Unikaj **żargonu bez definicji** — każdy termin techniczny powinien być wyjaśniony przy pierwszym użyciu
+- **Precyzja** > kwiecistość - wybieraj jasne, proste sformułowania
+- Unikaj **żargonu bez definicji** - każdy termin techniczny powinien być wyjaśniony przy pierwszym użyciu
 - Używaj **strony biernej lub bezosobowej** w metodzie: *Przeprowadzono...*, *Obliczono...*; aktywnej w dyskusji: *Wyniki sugerują...*
 - Unikaj absolutnych sformułowań: nie „udowodniono", a „wyniki wskazują"
-- Spójność terminologiczna — nie mieszaj synonimów dla tego samego pojęcia
+- Spójność terminologiczna - nie mieszaj synonimów dla tego samego pojęcia
 
 ## Podsumowanie
 
-Dobra prezentacja wyników i rzetelna dyskusja to nie tylko kwestia techniczna — to sztuka naukowej komunikacji. Student, który potrafi precyzyjnie opisać wyniki i uczciwie je zinterpretować, zdobywa jedną z najważniejszych kompetencji badacza — niezależnie od tego, czy w przyszłości zostanie naukowcem, klinicystą, czy konsultantem.
+Dobra prezentacja wyników i rzetelna dyskusja to nie tylko kwestia techniczna - to sztuka naukowej komunikacji. Student, który potrafi precyzyjnie opisać wyniki i uczciwie je zinterpretować, zdobywa jedną z najważniejszych kompetencji badacza - niezależnie od tego, czy w przyszłości zostanie naukowcem, klinicystą, czy konsultantem.
 
 
 ## Wprowadzenie

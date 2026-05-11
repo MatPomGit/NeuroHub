@@ -4,7 +4,7 @@ reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
 
-# Seminarium dyplomowe — wprowadzenie
+# Seminarium dyplomowe - wprowadzenie
 
 Seminarium dyplomowe to kluczowy etap studiów psychologicznych drugiego stopnia, w trakcie którego student samodzielnie realizuje projekt badawczy i przygotowuje pracę magisterską pod opieką promotora. Stanowi ono syntezę całej wiedzy metodologicznej, empirycznej i klinicznej zdobytej w toku studiów.
 
@@ -12,12 +12,12 @@ Seminarium dyplomowe to kluczowy etap studiów psychologicznych drugiego stopnia
 
 Praca magisterska w psychologii jest **oryginalnym projektem badawczym** lub **teoretyczno-przeglądowym**, który musi spełniać standardy naukowe:
 
-- **Oryginalność** — badanie zawiera nowe dane lub analizuje istniejące w nowy sposób
-- **Rzetelność metodologiczna** — wyraźne pytanie badawcze, uzasadnione metody, transparentne analizy
-- **Osadzenie w literaturze** — wyniki są dyskutowane w kontekście dotychczasowego dorobku naukowego
-- **Zgodność z etyką badań** — zgoda uczestników, ochrona danych, rzetelne raportowanie
+- **Oryginalność** - badanie zawiera nowe dane lub analizuje istniejące w nowy sposób
+- **Rzetelność metodologiczna** - wyraźne pytanie badawcze, uzasadnione metody, transparentne analizy
+- **Osadzenie w literaturze** - wyniki są dyskutowane w kontekście dotychczasowego dorobku naukowego
+- **Zgodność z etyką badań** - zgoda uczestników, ochrona danych, rzetelne raportowanie
 
-Praca magisterska nie musi być przełomowym odkryciem — ważne, by była **poprawnie zaplanowana, przeprowadzona i opisana**.
+Praca magisterska nie musi być przełomowym odkryciem - ważne, by była **poprawnie zaplanowana, przeprowadzona i opisana**.
 
 ## Typy prac magisterskich w psychologii
 
@@ -33,16 +33,16 @@ Najczęstszym wyborem jest praca empiryczna ilościowa, oparta na kwestionariusz
 
 ## Etapy pisania pracy magisterskiej
 
-Praca magisterska to proces rozciągnięty w czasie — zwykle trwa dwa semestry. Typowe etapy to:
+Praca magisterska to proces rozciągnięty w czasie - zwykle trwa dwa semestry. Typowe etapy to:
 
-1. **Wybór tematu i promotora** — temat powinien być interesujący, realny do zbadania i wpisywać się w kompetencje promotora
-2. **Przegląd literatury** — systematyczne zapoznanie się z dorobkiem naukowym w danej dziedzinie
-3. **Operacjonalizacja i projekt badania** — sformułowanie pytań/hipotez, wybór próby i narzędzi
-4. **Zbieranie danych** — rekrutacja uczestników, zebranie danych, zarządzanie bazą
-5. **Analiza danych** — statystyczna lub jakościowa analiza wyników
-6. **Pisanie pracy** — redakcja poszczególnych rozdziałów zgodnie ze strukturą naukową
-7. **Korekta i recenzja** — praca przez promotora, poprawki, formatowanie
-8. **Obrona** — prezentacja i dyskusja wyników przed komisją
+1. **Wybór tematu i promotora** - temat powinien być interesujący, realny do zbadania i wpisywać się w kompetencje promotora
+2. **Przegląd literatury** - systematyczne zapoznanie się z dorobkiem naukowym w danej dziedzinie
+3. **Operacjonalizacja i projekt badania** - sformułowanie pytań/hipotez, wybór próby i narzędzi
+4. **Zbieranie danych** - rekrutacja uczestników, zebranie danych, zarządzanie bazą
+5. **Analiza danych** - statystyczna lub jakościowa analiza wyników
+6. **Pisanie pracy** - redakcja poszczególnych rozdziałów zgodnie ze strukturą naukową
+7. **Korekta i recenzja** - praca przez promotora, poprawki, formatowanie
+8. **Obrona** - prezentacja i dyskusja wyników przed komisją
 
 ## Rola promotora i studenta
 
@@ -55,7 +55,7 @@ Regularne spotkania z promotorem, otwarta komunikacja i dotrzymywanie terminów 
 
 ## Podsumowanie
 
-Seminarium dyplomowe to więcej niż formalny wymóg — to możliwość rozwinięcia prawdziwych kompetencji badawczych, krytycznego myślenia i naukowej precyzji. Artykuły w tej encyklopedii pomagają studentom na każdym etapie tego procesu — od wyboru tematu po obronę.
+Seminarium dyplomowe to więcej niż formalny wymóg - to możliwość rozwinięcia prawdziwych kompetencji badawczych, krytycznego myślenia i naukowej precyzji. Artykuły w tej encyklopedii pomagają studentom na każdym etapie tego procesu - od wyboru tematu po obronę.
 
 
 ## Wprowadzenie

@@ -6,7 +6,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Motywacja
 
-Procesy inicjujące, kierujące i podtrzymujące ukierunkowane działanie — teorie i mechanizmy neuronalne.
+Procesy inicjujące, kierujące i podtrzymujące ukierunkowane działanie - teorie i mechanizmy neuronalne.
 
 ## Czym jest motywacja?
 
@@ -14,7 +14,7 @@ Procesy inicjujące, kierujące i podtrzymujące ukierunkowane działanie — te
 
 ## Motywacja wewnętrzna i zewnętrzna
 
-**Motywacja zewnętrzna** (*extrinsic motivation*) — działanie podejmowane ze względu na zewnętrzne nagrody lub unikanie kar. **Motywacja wewnętrzna** (*intrinsic motivation*) — działanie wynikające z wewnętrznego zainteresowania, przyjemności lub satysfakcji.
+**Motywacja zewnętrzna** (*extrinsic motivation*) - działanie podejmowane ze względu na zewnętrzne nagrody lub unikanie kar. **Motywacja wewnętrzna** (*intrinsic motivation*) - działanie wynikające z wewnętrznego zainteresowania, przyjemności lub satysfakcji.
 
 > **Efekt nadmiernego uzasadnienia** (*overjustification effect*, Deci 1971): zewnętrzna nagroda za działanie wewnętrznie motywujące może *obniżyć* wewnętrzną motywację przez zmianę postrzeganego źródła kontroli z wewnętrznego na zewnętrzne.
 
@@ -24,15 +24,15 @@ Abraham Maslow (1943) zaproponował **hierarchię potrzeb** piramidalnie uporzą
 
 ## Teoria autodeterminacji (SDT)
 
-Deci i Ryan (1985, 2000) zaproponowali **teorię autodeterminacji** (Self-Determination Theory). Wyróżniają trzy podstawowe potrzeby psychologiczne: **autonomia** (poczucie bycia inicjatorem własnych działań), **kompetencja** (poczucie skuteczności) i **powiązanie** (*relatedness* — więź z innymi). Zaspokojenie tych potrzeb sprzyja autonomicznej (zinternalizowanej) motywacji i dobrostanowi.
+Deci i Ryan (1985, 2000) zaproponowali **teorię autodeterminacji** (Self-Determination Theory). Wyróżniają trzy podstawowe potrzeby psychologiczne: **autonomia** (poczucie bycia inicjatorem własnych działań), **kompetencja** (poczucie skuteczności) i **powiązanie** (*relatedness* - więź z innymi). Zaspokojenie tych potrzeb sprzyja autonomicznej (zinternalizowanej) motywacji i dobrostanowi.
 
 ## Teorie procesowe
 
 **Teoria oczekiwań** (Vroom): motywacja = wartość wyniku × oczekiwanie, że wysiłek doprowadzi do wyniku × oczekiwanie, że wynik przyniesie nagrodę. **Teoria wyznaczania celów** (Locke i Latham): cele SMART (konkretne, mierzalne, osiągalne, trafne, terminowe) wzmacniają motywację.
 
-## Systemy nagrody — neurobiologia
+## Systemy nagrody - neurobiologia
 
-Motivacja jest biologicznie regulowana przez **mezolimbiczny układ dopaminowy** (droga z VTA do jądra półleżącego — nucleus accumbens). Dopamina koduje *oczekiwanie nagrody*, nie samą nagrodę. Zaburzenia tego systemu leżą u podłoża uzależnień i avolition w schizofrenii.
+Motivacja jest biologicznie regulowana przez **mezolimbiczny układ dopaminowy** (droga z VTA do jądra półleżącego - nucleus accumbens). Dopamina koduje *oczekiwanie nagrody*, nie samą nagrodę. Zaburzenia tego systemu leżą u podłoża uzależnień i avolition w schizofrenii.
 
 ## Bibliografia
 

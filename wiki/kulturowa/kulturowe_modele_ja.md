@@ -8,7 +8,7 @@ evidenceCutoffDate: 2025-12-31
 
 ## Wprowadzenie
 
-Poczucie tożsamości — kto jestem, co mnie wyróżnia, skąd czerpię wartość — należy do kluczowych zagadnień psychologii osobowości. Badania z zakresu psychologii kulturowej wykazały, że **model Ja** — sposób, w jaki jednostka rozumie i doświadcza siebie — jest głęboko uwarunkowany przez kontekst kulturowy. Nie chodzi jedynie o treść przekonań o sobie, lecz o **samą strukturę** i relacyjne zakorzenienie Ja.
+Poczucie tożsamości - kto jestem, co mnie wyróżnia, skąd czerpię wartość - należy do kluczowych zagadnień psychologii osobowości. Badania z zakresu psychologii kulturowej wykazały, że **model Ja** - sposób, w jaki jednostka rozumie i doświadcza siebie - jest głęboko uwarunkowany przez kontekst kulturowy. Nie chodzi jedynie o treść przekonań o sobie, lecz o **samą strukturę** i relacyjne zakorzenienie Ja.
 
 ---
 
@@ -20,7 +20,7 @@ Przełomowy artykuł Hazel Markus i Shinobu Kitayamy (1991) *Culture and the Sel
 
 - Ja jako odrębna, spójna, stabilna jednostka
 - Tożsamość oparta na cechach wewnętrznych: zdolnościach, postawach, wartościach
-- Granice Ja są wyraźne — oddzielają jednostkę od otoczenia społecznego
+- Granice Ja są wyraźne - oddzielają jednostkę od otoczenia społecznego
 - Autonomia i wyrażanie siebie jako kluczowe wartości
 - Typowe dla kultur zachodnich (USA, Europa Zachodnia)
 
@@ -30,17 +30,17 @@ Przełomowy artykuł Hazel Markus i Shinobu Kitayamy (1991) *Culture and the Sel
 
 - Ja jako sieć relacji, ról i przynależności
 - Tożsamość oparta na rolach społecznych: syn/córka, student, pracownik, obywatel
-- Granice Ja są płynne — Ja jest (częściowo) konstytuowane przez relacje z innymi
+- Granice Ja są płynne - Ja jest (częściowo) konstytuowane przez relacje z innymi
 - Harmonia i dostrojenie do oczekiwań grupy jako kluczowe wartości
 - Typowe dla kultur Azji Wschodniej, Afryki, Ameryki Łacińskiej
 
-> „Jestem innym człowiekiem z rodzicami niż z przyjaciółmi — to naturalnie ja."
+> „Jestem innym człowiekiem z rodzicami niż z przyjaciółmi - to naturalnie ja."
 
 ---
 
 ## Twarz (面子 *miànzi*) i honor
 
-W kulturach kolektywistycznych kluczową regulatywną koncepcją jest **twarz** — społecznie przyznawana wartość wynikająca z wypełniania ról, respektowania norm i posiadania statusu.
+W kulturach kolektywistycznych kluczową regulatywną koncepcją jest **twarz** - społecznie przyznawana wartość wynikająca z wypełniania ról, respektowania norm i posiadania statusu.
 
 Erving Goffman (1955) badał zarządzanie twarzą w interakcji jako zjawisko powszechne, jednak jego znaczenie jest szczególnie silne w kulturach konfucjańskich:
 
@@ -48,11 +48,11 @@ Erving Goffman (1955) badał zarządzanie twarzą w interakcji jako zjawisko pow
 |---|---|---|
 | **Miànzi** (面子) | Chiny | twarz jako prestiż społeczny, widoczna pozycja |
 | **Liǎn** (脸) | Chiny | twarz jako moralny charakter, integralność |
-| **Men-tsü** | Japonia/Korea | zbliżone do *miànzi* — reputacja i status |
+| **Men-tsü** | Japonia/Korea | zbliżone do *miànzi* - reputacja i status |
 | **Hiri** | Melanezja | wstyd jako regulator postępowania |
 | **Honor** | kultury śródziemnomorskie | wartość wynikająca z odwagi i lojalności grupowej |
 
-Utrata twarzy (*loss of face*) może być przeżywana jako poważna katastrofa tożsamościowa, prowadząca do wycofania społecznego lub nawet — w skrajnych przypadkach — do aktów samobójstwa z powodów honorowych.
+Utrata twarzy (*loss of face*) może być przeżywana jako poważna katastrofa tożsamościowa, prowadząca do wycofania społecznego lub nawet - w skrajnych przypadkach - do aktów samobójstwa z powodów honorowych.
 
 ---
 
@@ -60,7 +60,7 @@ Utrata twarzy (*loss of face*) może być przeżywana jako poważna katastrofa t
 
 W kulturach indywidualistycznych powszechna jest tendencja do **samowzmacniania** (*self-enhancement*): oceniania siebie jako lepszego od przeciętnej, przypisywania sukcesów sobie, a porażek czynnikom zewnętrznym.
 
-Badania Heine i in. (1999) wykazały, że Japończycy **nie wykazują** efektu samowzmacniania — wręcz przeciwnie, wykazują tendencję do **samokrytyki** (*self-improvement orientation*): po porażce zwiększają wysiłek, traktując krytykę jako cenny sygnał do doskonalenia.
+Badania Heine i in. (1999) wykazały, że Japończycy **nie wykazują** efektu samowzmacniania - wręcz przeciwnie, wykazują tendencję do **samokrytyki** (*self-improvement orientation*): po porażce zwiększają wysiłek, traktując krytykę jako cenny sygnał do doskonalenia.
 
 > Zachodni pacjent po niepowodzeniu myśli: „Zadanie było za trudne." Japański: „Muszę się bardziej postarać."
 
@@ -89,8 +89,8 @@ Gottman i Levenson (1992) oraz późniejsze badania porównawcze wskazują, że 
 
 | Kultura | Typowa norma ujawniania siebie |
 |---|---|
-| USA / Europa Zachodnia | wczesne i szerokie — budowanie bliskości przez otwartość |
-| Japonia / Korea | stopniowe, z zachowaniem dystansu — prywatność jako wartość |
+| USA / Europa Zachodnia | wczesne i szerokie - budowanie bliskości przez otwartość |
+| Japonia / Korea | stopniowe, z zachowaniem dystansu - prywatność jako wartość |
 | Kultury arabskie | silne rozróżnienie: szeroka otwartość w obrębie rodziny, dystans wobec obcych |
 | Finlandia | wysoka wartość milczenia, niechęć do „small talk" |
 
@@ -101,14 +101,14 @@ Metaanalizy (Twenge & Crocker, 2002; Schmitt & Allik, 2005) potwierdzają, że:
 - Najniższa: kraje azjatyckie (Japonia, Korea, Chiny)
 - Polska uzyskuje wyniki pośrednie, zbliżone do zachodnioeuropejskich
 
-Wyniki są jednak wrażliwe na skalę i kontekst badania — pojawia się kwestia *imposed etic* (por. artykuł o metodach emic/etic).
+Wyniki są jednak wrażliwe na skalę i kontekst badania - pojawia się kwestia *imposed etic* (por. artykuł o metodach emic/etic).
 
 ---
 
 ## Implikacje kliniczne
 
 1. **Diagnoza depresji**: Obniżona samoocena jako kryterium diagnostyczne jest trudna do interpretacji u osób z kulturowo uzasadnioną tendencją do self-deprecation
-2. **Cele terapeutyczne**: „Akceptacja siebie" i „asertywność" są wartościami specyficznymi kulturowo — mogą być nieadekwatne lub wręcz szkodliwe dla pacjentów z Ja współzależnym
+2. **Cele terapeutyczne**: „Akceptacja siebie" i „asertywność" są wartościami specyficznymi kulturowo - mogą być nieadekwatne lub wręcz szkodliwe dla pacjentów z Ja współzależnym
 3. **Terapia rodzinna**: W kulturach kolektywistycznych zdrowie jednostki jest nierozerwalne od zdrowia systemu rodzinnego
 4. **Granice terapeutyczne**: Normy dotyczące ujawniania siebie mogą utrudniać pracę terapeutyczną jeśli terapeuta i klient mają odmienne kulturowe modele Ja
 

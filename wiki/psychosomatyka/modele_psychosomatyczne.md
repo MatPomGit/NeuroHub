@@ -6,7 +6,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Modele psychosomatyczne
 
-Zrozumienie, jak psychika wpływa na ciało, wymagało opracowania coraz bardziej złożonych modeli teoretycznych. Poniżej przedstawiono ewolucję głównych koncepcji — od psychoanalitycznych po współczesne, systemowe.
+Zrozumienie, jak psychika wpływa na ciało, wymagało opracowania coraz bardziej złożonych modeli teoretycznych. Poniżej przedstawiono ewolucję głównych koncepcji - od psychoanalitycznych po współczesne, systemowe.
 
 ## 1. Model specyficzności (Alexander)
 
@@ -16,7 +16,7 @@ Franz Alexander zakładał, że każda choroba psychosomatyczna wynika z **okre�
 
 ## 2. Model niespecyficzności (Stres → Choroba)
 
-Hans Selye (1956) — *General Adaptation Syndrome* — pokazał, że każdy przewlekły stresor, niezależnie od jego natury, uruchamia identyczny łańcuch: alarm → odporność → wyczerpanie. Chroniczny stres wyczerpuje zasoby biologiczne i zwiększa podatność na **wiele chorób**, nie jedną specyficzną.
+Hans Selye (1956) - *General Adaptation Syndrome* - pokazał, że każdy przewlekły stresor, niezależnie od jego natury, uruchamia identyczny łańcuch: alarm → odporność → wyczerpanie. Chroniczny stres wyczerpuje zasoby biologiczne i zwiększa podatność na **wiele chorób**, nie jedną specyficzną.
 
 Kontynuacją jest model podatności na stres (*diathesis-stress*): choroba pojawia się, gdy predyspozycja biologiczna (diathesis) spotka się z dostatecznie silnym stresem.
 
@@ -36,14 +36,14 @@ Choroba jest wypadkową interakcji wszystkich trzech poziomów. Model ten jest d
 
 ## 4. Model aleksytymii (Sifneos, 1973)
 
-**Aleksytymia** (gr. *a* — brak, *lexis* — słowo, *thymos* — uczucie) to trudność w rozpoznawaniu, opisywaniu i różnicowaniu emocji. Sifneos zauważył, że pacjenci psychosomatyczni często:
+**Aleksytymia** (gr. *a* - brak, *lexis* - słowo, *thymos* - uczucie) to trudność w rozpoznawaniu, opisywaniu i różnicowaniu emocji. Sifneos zauważył, że pacjenci psychosomatyczni często:
 - mają ubogi świat emocjonalny i trudność w werbalizacji uczuć
 - koncentrują się na konkrecie, a nie na przeżyciach wewnętrznych
 - mają deficyt wyobraźni fantazyjnej
 
 Hipoteza: nieprzetworzone emocje „rozładowują się" ciałem zamiast słowem lub fantazją.
 
-> **Pomiar:** Skala Toronto Alexithymia Scale (TAS-20) — 20 itemów, trzy czynniki: trudność z identyfikacją uczuć, trudność z opisywaniem uczuć, myślenie zewnętrznie zorientowane.
+> **Pomiar:** Skala Toronto Alexithymia Scale (TAS-20) - 20 itemów, trzy czynniki: trudność z identyfikacją uczuć, trudność z opisywaniem uczuć, myślenie zewnętrznie zorientowane.
 
 ## 5. Model neuroendokrynno-immunologiczny
 
@@ -59,11 +59,11 @@ Zidentyfikowane szlaki:
 
 Antonio Damasio (teoria markerów somatycznych, 1994) pokazał, że emocje są przede wszystkim stanami ciała: mózg „czyta" sygnały somatyczne i tworzy z nich reprezentacje emocjonalne. Decyzje bez udziału ciała (przy uszkodzeniu VMPFC) są gorszej jakości.
 
-Bessel van der Kolk (*The Body Keeps the Score*, 2014) rozwinął ten wątek w kontekście traumy: traumatyczne wspomnienia są przechowywane nie tylko poznawczo, lecz somatycznie — w napięciach mięśniowych, dysregulacji autonomicznej, wzorcach oddychania.
+Bessel van der Kolk (*The Body Keeps the Score*, 2014) rozwinął ten wątek w kontekście traumy: traumatyczne wspomnienia są przechowywane nie tylko poznawczo, lecz somatycznie - w napięciach mięśniowych, dysregulacji autonomicznej, wzorcach oddychania.
 
 ## 7. Podejście systemowe i salutogenetyczne
 
-Aaron Antonovsky (1987) zaproponował **salutogenezę** — zamiast pytać, co powoduje chorobę, pyta: *co utrzymuje zdrowie mimo stresu?* Kluczową zmienną jest **poczucie koherencji (SOC)**: zrozumiałość, sterowalność i sensowność świata.
+Aaron Antonovsky (1987) zaproponował **salutogenezę** - zamiast pytać, co powoduje chorobę, pyta: *co utrzymuje zdrowie mimo stresu?* Kluczową zmienną jest **poczucie koherencji (SOC)**: zrozumiałość, sterowalność i sensowność świata.
 
 Wysoki SOC → efektywne radzenie sobie → lepsza regulacja fizjologiczna → mniejsza podatność na choroby.
 

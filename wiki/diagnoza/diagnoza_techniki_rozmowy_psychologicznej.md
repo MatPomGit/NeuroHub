@@ -99,7 +99,7 @@ Uruchamianie wyobraźni to technika polegająca na zaproszeniu badanego do opisa
 
 ### 6.3. Przykładowe interwencje
 - „Gdyby ten problem był obrazem, co by Pan/Pani zobaczył(a)?”
-- „Proszę wyobrazić sobie, że to już jutro się nie wydarza — co byłoby inne?”
+- „Proszę wyobrazić sobie, że to już jutro się nie wydarza - co byłoby inne?”
 - „Jak wyglądałaby ta sytuacja oczami życzliwej osoby?”
 
 ### 6.4. Ograniczenia

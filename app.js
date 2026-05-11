@@ -1683,11 +1683,11 @@ function artCard(art) {
     </a>`;
   }
 
-  return `<div class="art-card ${effectiveStatus}" ${artid} ${click}>
+  return `<button type="button" role="link" class="art-card ${effectiveStatus}" ${artid} ${click}>
     <div class="art-dot ${effectiveStatus}"></div>
     <div class="art-body"><div class="art-lbl">${art.label}</div>${desc}</div>
     <span class="art-badge ${effectiveStatus}">${lbl[effectiveStatus]||effectiveStatus}</span>
-  </div>`;
+  </button>`;
 }
 
 /*  Glossary  */
@@ -1703,7 +1703,7 @@ function renderGlossHTML(entries) {
       <div class="gloss-letter">${l}</div>
       ${groups[l].map(e=>`
         <div class="gloss-entry">
-          <div class="gloss-term">${e.term}${e.link?`<span class="gloss-go" onclick="navigate('${e.link}')">â†’ artykuł</span>`:''}</div>
+          <div class="gloss-term">${e.term}${e.link?` <button type="button" role="link" class="gloss-go" onclick="navigate('${e.link}')" aria-label="Otwórz artykuł powiązany: ${q(e.term)}">→ artykuł</button>`:''}</div>
           <div class="gloss-def">${e.def}</div>
         </div>`).join('')}
     </div>`).join('');
@@ -1728,10 +1728,10 @@ function renderHome() {
   const cards = domains.map(sec=>{
     const cnt = sec.items.filter(i=>i.file).length;
     const navId = sec.items[0]?.id||'';
-    return `<div class="domain-card" onclick="navigate('${navId}')">
+    return `<button type="button" role="link" class="domain-card" onclick="navigate('${navId}')">
       <div class="d-name">${sec.section}</div>
       <span class="d-count">${cnt} art.</span>
-    </div>`;
+    </button>`;
   }).join('');
 
   /* Karty scenariuszy kierujące od razu do konkretnych modułów z SITE_CONFIG.nav. */

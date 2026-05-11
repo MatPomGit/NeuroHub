@@ -863,6 +863,7 @@ em{color:var(--goldl)}
   padding:.7rem .95rem;background:var(--bg2);border:1px solid var(--border);border-radius:var(--r);
   cursor:pointer;transition:border-color var(--ease),background var(--ease),transform var(--ease);
 }
+.art-card[type="button"]{width:100%;text-align:left;color:inherit;font:inherit}
 .art-card:hover{border-color:var(--gold);background:var(--goldt);transform:translateY(-1px)}
 .art-card:is(.is-disabled,.planned){opacity:.44;cursor:default;pointer-events:none;border-style:dashed}
 .art-card.xlink{border-color:rgba(91,140,184,.22)}
@@ -915,7 +916,7 @@ em{color:var(--goldl)}
 .gloss-letter{font-family:var(--serif);font-size:1.6rem;font-weight:700;color:var(--gold);opacity:.5;margin-bottom:.5rem}
 .gloss-entry{padding:.7rem 0;border-bottom:1px solid var(--border)}
 .gloss-term{font-family:var(--serif);font-size:1.03rem;font-weight:600;margin-bottom:.28rem;display:flex;align-items:center;gap:.55rem}
-.gloss-go{font-size:.68rem;font-family:var(--sans);color:var(--blue);font-weight:400;cursor:pointer;text-decoration:underline}
+.gloss-go{font-size:.68rem;font-family:var(--sans);color:var(--blue);font-weight:400;cursor:pointer;text-decoration:underline;background:none;border:none;padding:0}
 .gloss-def{color:var(--t2);font-size:.89rem;line-height:1.65}
 
 /* ═══════════════════════════════════════════
@@ -933,6 +934,7 @@ em{color:var(--goldl)}
 .domains-h2{font-family:var(--serif);font-size:1.35rem;font-weight:600;margin-bottom:1.1rem}
 .domain-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:.85rem}
 .domain-card{background:var(--bg2);border:1px solid var(--border);border-radius:var(--r);padding:var(--space-4) 1.1rem;cursor:pointer;transition:border-color var(--ease),background var(--ease),transform var(--ease)}
+.domain-card[type="button"]{width:100%;text-align:left;color:inherit;font:inherit}
 .domain-card:hover{border-color:var(--gold);background:var(--goldt);transform:translateY(-2px)}
 .d-icon{font-size:1.3rem;margin-bottom:.5rem}
 .d-name{font-family:var(--serif);font-size:1.02rem;font-weight:600;margin-bottom:.3rem}

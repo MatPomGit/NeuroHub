@@ -166,7 +166,7 @@
       background: rgba(15, 23, 42, 0.76);
       color: #e2e8f0;
       font: inherit;
-      font-size: 0.72rem;
+      font-size: 0.60rem;
       font-weight: 700;
       letter-spacing: 0.03em;
       cursor: pointer;
@@ -249,12 +249,17 @@
     .reveal .slides section {
       text-align: left;
       padding: 18px 20px;
-      line-height: 1.6;
+      line-height: 1.2;
+    }
+
+    .reveal section {
+    overflow-y: auto;
+    max-height: 95vh;
     }
 
     .reveal p,
     .reveal li {
-      font-size: 0.9em;
+      font-size: 0.65em;
     }
 
     .reveal h1,
@@ -270,7 +275,7 @@
     }
 
     h1 {
-      font-size: clamp(2.6rem, 4.8vw, 4.4rem) !important;
+      font-size: clamp(2.4rem, 4.6vw, 4.2rem) !important;
       line-height: 1.05 !important;
       background: linear-gradient(90deg, #67e8f9, #a78bfa 55%, #4ade80 100%);
       background-clip: text;
@@ -301,8 +306,8 @@
     .hero-box {
       background: linear-gradient(180deg, var(--panel-strong), var(--panel));
       border: 1px solid var(--line);
-      border-radius: 28px;
-      padding: clamp(28px, 4vw, 48px);
+      border-radius: 24px;
+      padding: clamp(24px, 4vw, 44px);
       backdrop-filter: blur(12px);
       box-shadow: var(--shadow);
     }
@@ -311,8 +316,8 @@
     .grid-3,
     .grid-4 {
       display: grid;
-      gap: 18px;
-      margin-top: 18px;
+      gap: 16px;
+      margin-top: 16px;
     }
 
     .grid-2 {
@@ -339,27 +344,27 @@
     .card h3 {
       color: var(--accent1);
       margin-bottom: 12px;
-      font-size: 1.2em;
+      font-size: 0.8em;
     }
 
     .card ul {
       margin: 0;
       padding-left: 22px;
       font-size: 0.88em;
-      line-height: 1.5;
+      line-height: 1.2;
     }
 
     .tag-row {
       display: flex;
       flex-wrap: wrap;
       gap: 10px;
-      margin-top: 24px;
+      margin-top: 22px;
     }
 
     .tag {
       padding: 10px 16px;
       border-radius: 999px;
-      font-size: 0.62em;
+      font-size: 0.60em;
       font-weight: 700;
       background: rgba(103, 232, 249, 0.12);
       border: 1px solid rgba(103, 232, 249, 0.35);
@@ -373,8 +378,8 @@
       border-left: 6px solid var(--accent1);
       background: rgba(103, 232, 249, 0.08);
       border-radius: 0 18px 18px 0;
-      font-size: 0.9em;
-      line-height: 1.6;
+      font-size: 0.8em;
+      line-height: 1.2;
     }
 
     .score-box {
@@ -387,7 +392,7 @@
     }
 
     .score {
-      font-size: 2.15em;
+      font-size: 2.0em;
       font-weight: 800;
       margin: 12px 0;
     }
@@ -425,7 +430,7 @@
     }
 
     .small {
-      font-size: 0.7em;
+      font-size: 0.65em;
       color: var(--muted);
     }
 
@@ -462,7 +467,7 @@
     }
 
     .reveal .slides section > * {
-      max-width: 1320px;
+      max-width: 1420px;
       margin-left: auto;
       margin-right: auto;
     }
@@ -470,7 +475,7 @@
     .reveal .slides section > .hero-box,
     .reveal .slides section > .quote,
     .reveal .slides section > .tag-row {
-      max-width: 1320px;
+      max-width: 1420px;
     }
 
     .reveal .slides section > .grid-2,
@@ -496,7 +501,7 @@
       border-radius: 999px;
       backdrop-filter: blur(10px);
       padding: 0.4rem 0.7rem;
-      font-size: 0.72rem;
+      font-size: 0.70rem;
     }
 
     .timer {
@@ -522,7 +527,7 @@
 
     .timer-label {
       display: block;
-      font-size: 0.62rem;
+      font-size: 0.60rem;
       color: var(--muted);
       letter-spacing: 0.08em;
       margin-bottom: 2px;
@@ -545,7 +550,7 @@
       padding: 14px 16px;
       border-bottom: 1px solid rgba(255, 255, 255, 0.06);
       vertical-align: top;
-      font-size: 0.84em;
+      font-size: 0.60em;
     }
 
     .data-table th {
@@ -553,7 +558,7 @@
       color: #f8fafc;
       background: rgba(103, 232, 249, 0.08);
       font-family: "Fraunces", Georgia, serif;
-      font-size: 0.9em;
+      font-size: 0.85em;
     }
 
     .data-table tr:last-child td {
@@ -562,7 +567,7 @@
 
     .table-note {
       margin-top: 12px;
-      font-size: 0.78em;
+      font-size: 0.70em;
       color: var(--muted);
     }
 
@@ -571,7 +576,7 @@
       margin-top: -8px;
       margin-bottom: 16px;
       max-width: 980px;
-      font-size: 0.86em;
+      font-size: 0.80em;
     }
 
     .chart-box {
@@ -586,14 +591,14 @@
     .chart-title {
       margin: 0 0 10px;
       color: #f8fafc;
-      font-size: 0.95em;
+      font-size: 0.80em;
       font-weight: 700;
     }
 
     .chart-note {
       margin: 10px 0 0;
       color: var(--muted);
-      font-size: 0.75em;
+      font-size: 0.60em;
     }
 
     .chart-svg {
@@ -645,7 +650,7 @@
       }
 
       .tag {
-        font-size: 0.58em;
+        font-size: 0.50em;
       }
 
       .quote {
@@ -656,15 +661,15 @@
     @media (max-width: 720px) {
       .reveal p,
       .reveal li {
-        font-size: 0.82em;
+        font-size: 0.70em;
       }
 
       .score {
-        font-size: 1.8em;
+        font-size: 1.2em;
       }
 
       h2::after {
-        width: 64px;
+        width: 60px;
       }
 
       .timer {
@@ -672,7 +677,7 @@
         right: 10px;
         min-width: 88px;
         padding: 8px 12px;
-        font-size: 0.76rem;
+        font-size: 0.70rem;
       }
     }
   </style>
@@ -698,23 +703,23 @@
 
     <section>
       <div class="hero-box center">
-        <p class="small">Wywiad diagnostyczny · analiza CBT · SCID-V-SD</p>
+        <p class="small">Wywiad diagnostyczny · analiza CBT · SCID-V-PD</p>
         <h1>Diagnoza psychologiczna</h1>
 
         <p>
           Prezentacja wyników diagnozy psychologicznej obejmującej wywiad kliniczny,
-          analizę CBT oraz przesiew SCID-V-SD, z naciskiem na dane obserwacyjne,
+          analizę CBT oraz przesiew SCID-V-PD, z naciskiem na dane obserwacyjne,
           wzorce relacyjne oraz hipotezę diagnostyczną.
         </p>
 
         <div class="tag-row" style="justify-content:center;">
           <div class="tag">CBT</div>
-          <div class="tag">SCID-V-SD</div>
+          <div class="tag">SCID-V-PD</div>
           <div class="tag">Kodowanie wieloetykietowe</div>
           <div class="tag">Analiza kliniczna</div>
         </div>
 
-        <div style="margin-top:32px;">
+        <div style="margin-top:30px;">
           Katarzyna Estkowska · Anna Łężniak-Seruga · Agnieszka Szymańska · Mateusz Pomianek
           <br>
           Uniwersytet Vizja · 2026
@@ -742,7 +747,7 @@
           <h3>Zastosowane procedury</h3>
           <ul>
             <li>Wywiad kliniczny półustrukturyzowany</li>
-            <li>SCID-V-SD jako procedura przesiewowa</li>
+            <li>SCID-V-PD jako procedura przesiewowa</li>
             <li>Obserwacja behawioralna w trakcie kontaktu</li>
             <li>Analiza CBT w modelu sytuacja–myśl–emocja–zachowanie</li>
             <li>Kodowanie wieloetykietowe wypowiedzi pacjentki</li>
@@ -753,7 +758,7 @@
           <h3>Parametry sesji</h3>
           <ul>
             <li>Wywiad: 23 minuty</li>
-            <li>SCID-V-SD: około 30 minut</li>
+            <li>SCID-V-PD: około 30 minut</li>
             <li>Ocena kompletności danych: 3/4 (dobra)</li>
             <li>Kontekst akademicki</li>
             <li>Zachowana anonimowość</li>
@@ -1029,7 +1034,7 @@
     </section>
 
     <section>
-      <h2>SCID-V-SD – wyniki liczbowe</h2>
+      <h2>Wyniki liczbowe SCID-V-PD</h2>
       <p class="section-intro">
         Poniższe dane łączą prezentację tabelaryczną z prostą wizualizacją intensywności wyników w skali przesiewowej.
       </p>
@@ -1099,22 +1104,22 @@
       </div>
 
       <div class="chart-box">
-        <p class="chart-title">Wykres porównawczy wyników SCID-V-SD</p>
-        <svg class="chart-svg" viewBox="0 0 980 260" role="img" aria-label="Wykres słupkowy wyników SCID-V-SD">
-          <line x1="120" y1="36" x2="120" y2="210" stroke="rgba(255,255,255,0.25)" stroke-width="2" />
-          <line x1="120" y1="210" x2="920" y2="210" stroke="rgba(255,255,255,0.25)" stroke-width="2" />
+        <p class="chart-title">Wykres porównawczy wyników SCID-V-PD</p>
+        <svg class="chart-svg" viewBox="0 0 980 210" role="img" aria-label="Wykres słupkowy wyników SCID-V-PD">
+          <line x1="120" y1="24" x2="120" y2="170" stroke="rgba(255,255,255,0.25)" stroke-width="2" />
+          <line x1="120" y1="170" x2="920" y2="170" stroke="rgba(255,255,255,0.25)" stroke-width="2" />
 
-          <text x="50" y="72" fill="#cbd5e1" font-size="16">Unikająca</text>
-          <rect x="120" y="54" width="628" height="24" rx="8" fill="rgba(103,232,249,0.85)" />
-          <text x="760" y="72" fill="#f8fafc" font-size="15" font-weight="700">11 / 14</text>
+          <text x="50" y="52" fill="#cbd5e1" font-size="12">Unikająca</text>
+          <rect x="120" y="34" width="628" height="22" rx="8" fill="rgba(103,232,249,0.85)" />
+          <text x="760" y="52" fill="#f8fafc" font-size="11" font-weight="700">11 / 14</text>
 
-          <text x="72" y="122" fill="#cbd5e1" font-size="16">Zależna</text>
-          <rect x="120" y="104" width="286" height="24" rx="8" fill="rgba(251,191,36,0.88)" />
-          <text x="418" y="122" fill="#f8fafc" font-size="15" font-weight="700">5 / 14</text>
+          <text x="72" y="94" fill="#cbd5e1" font-size="12">Zależna</text>
+          <rect x="120" y="76" width="286" height="22" rx="8" fill="rgba(251,191,36,0.88)" />
+          <text x="418" y="94" fill="#f8fafc" font-size="11" font-weight="700">5 / 14</text>
 
-          <text x="85" y="172" fill="#cbd5e1" font-size="16">A/B</text>
-          <rect x="120" y="154" width="114" height="24" rx="8" fill="rgba(148,163,184,0.86)" />
-          <text x="246" y="172" fill="#f8fafc" font-size="15" font-weight="700">2 / 14*</text>
+          <text x="85" y="136" fill="#cbd5e1" font-size="12">A/B</text>
+          <rect x="120" y="118" width="114" height="22" rx="8" fill="rgba(148,163,184,0.86)" />
+          <text x="246" y="136" fill="#f8fafc" font-size="11" font-weight="700">2 / 14*</text>
         </svg>
         <p class="chart-note">*Wartość A/B przedstawiona orientacyjnie (środek zakresu 1–4) wyłącznie do porównania wizualnego.</p>
       </div>
@@ -1126,7 +1131,7 @@
     </section>
 
     <section>
-      <h2>Profil kliniczny – podsumowanie</h2>
+      <h2>Profil kliniczny</h2>
       <p class="section-intro">
         Wykres prezentuje orientacyjne nasilenie głównych osi problemowych na podstawie analizy jakościowej materiału klinicznego.
       </p>
@@ -1149,22 +1154,22 @@
       </div>
 
       <div class="chart-box">
-        <p class="chart-title">Profil nasilenia obszarów klinicznych (skala orientacyjna 0–10)</p>
+        <p class="chart-title">Profil nasilenia obszarów klinicznych (skala 0–10)</p>
         <svg class="chart-svg" viewBox="0 0 980 260" role="img" aria-label="Wykres słupkowy nasilenia emocji, poznania i zachowania">
           <line x1="120" y1="36" x2="120" y2="210" stroke="rgba(255,255,255,0.25)" stroke-width="2" />
           <line x1="120" y1="210" x2="920" y2="210" stroke="rgba(255,255,255,0.25)" stroke-width="2" />
 
-          <text x="56" y="72" fill="#cbd5e1" font-size="16">Emocje</text>
+          <text x="56" y="72" fill="#cbd5e1" font-size="14">Emocje</text>
           <rect x="120" y="54" width="640" height="24" rx="8" fill="rgba(239,68,68,0.82)" />
-          <text x="772" y="72" fill="#f8fafc" font-size="15" font-weight="700">8 / 10</text>
+          <text x="772" y="72" fill="#f8fafc" font-size="13" font-weight="700">8 / 10</text>
 
-          <text x="44" y="122" fill="#cbd5e1" font-size="16">Poznania</text>
+          <text x="44" y="122" fill="#cbd5e1" font-size="14">Poznania</text>
           <rect x="120" y="104" width="560" height="24" rx="8" fill="rgba(167,139,250,0.85)" />
-          <text x="692" y="122" fill="#f8fafc" font-size="15" font-weight="700">7 / 10</text>
+          <text x="692" y="122" fill="#f8fafc" font-size="13" font-weight="700">7 / 10</text>
 
-          <text x="34" y="172" fill="#cbd5e1" font-size="16">Zachowania</text>
+          <text x="34" y="172" fill="#cbd5e1" font-size="14">Zachowania</text>
           <rect x="120" y="154" width="560" height="24" rx="8" fill="rgba(74,222,128,0.85)" />
-          <text x="692" y="172" fill="#f8fafc" font-size="15" font-weight="700">7 / 10</text>
+          <text x="692" y="172" fill="#f8fafc" font-size="13" font-weight="700">7 / 10</text>
         </svg>
       </div>
     </section>
@@ -1338,6 +1343,28 @@
         Dalsza pomoc powinna obejmować długoterminowe oddziaływanie terapeutyczne, pracę nad autonomią i granicami oraz uważną obserwację dynamiki relacji rodzinnych.
       </div>
     </section>
+    
+    <section>
+        <h2>Fragment audio 1</h2>
+        <p class="small-text">
+            Odtwórz nagranie diagnostyczne i omów obserwowane cechy komunikacji.
+        </p>
+
+        <audio controls>
+            <source src="../assets/audio/fragment_1.mp3" type="audio/mpeg">
+            Twoja przeglądarka nie obsługuje audio.
+        </audio>
+
+        <h2>Fragment audio 2</h2>
+        <p class="small-text">
+            Analiza drugiego fragmentu wypowiedzi pacjentki.
+        </p>
+
+        <audio controls>
+            <source src="../assets/audio/fragment_2.mp3" type="audio/mpeg">
+            Twoja przeglądarka nie obsługuje audio.
+        </audio>
+    </section>
 
     <section>
       <div class="hero-box center">
@@ -1345,7 +1372,7 @@
 
         <p>
           Prezentacja opracowana na podstawie wywiadu diagnostycznego,
-          analizy CBT oraz wyników SCID-V-SD.
+          analizy CBT oraz wyników SCID-V-PD.
         </p>
 
         <div class="tag-row" style="justify-content:center;">
@@ -1356,6 +1383,8 @@
         </div>
       </div>
     </section>
+
+
 
   </div>
 </div>

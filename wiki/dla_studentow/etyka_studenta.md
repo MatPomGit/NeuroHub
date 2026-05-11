@@ -21,18 +21,22 @@ Psychologia to dziedzina o wysokim potencjale oddziaływania na ludzi. Wiedza ps
 ## Uczciwość akademicka
 
 ### Plagiat i niesamodzielna praca
+
 Plagiat - czyli przypisanie sobie cudzej pracy lub cudzych myśli bez odpowiedniego oznaczenia źródeł - jest podstawowym naruszeniem uczciwości akademickiej. Dotyczy to nie tylko kopiowania całych tekstów, ale też parafrazowania bez cytowania, korzystania z prac innych studentów (tzw. „ghostwriting") i generowania treści AI bez oznaczenia i krytycznej weryfikacji.
 
 Na uczelniach psychologicznych w Polsce plagiat może skutkować:
+
 - oceną niedostateczną z pracy lub egzaminu,
 - wszczęciem postępowania dyscyplinarnego,
 - skreśleniem z listy studentów,
 - w skrajnych przypadkach unieważnieniem tytułu naukowego.
 
 ### Nieujawnione korzystanie z AI
+
 Korzystanie z narzędzi generatywnej AI (ChatGPT, Copilot itp.) do pisania prac akademickich bez poinformowania prowadzącego jest traktowane przez większość polskich uczelni jako naruszenie uczciwości akademickiej. Student powinien znać politykę swojej uczelni w tym zakresie i dostosować się do niej. Prace z AI nie zastępują własnego myślenia - ich bezkrytyczne przytaczanie hamuje rozwój umiejętności analitycznych.
 
 ### Fałszowanie danych
+
 W pracach empirycznych i badaniach studenckich absolutnie niedopuszczalne jest wymyślanie, zmienianie lub selektywne usuwanie danych. Jest to zarówno naruszenie etyki akademickiej, jak i - w zależności od kontekstu - etyki naukowej (i może naruszać prawo).
 
 ---
@@ -40,17 +44,21 @@ W pracach empirycznych i badaniach studenckich absolutnie niedopuszczalne jest w
 ## Relacje interpersonalne i szanowanie granic
 
 ### Relacje z rówieśnikami
+
 Psychologia jako kierunek sprzyja otwartości, empatii i pogłębionym rozmowom. Niesie to jednak ryzyko naruszania granic: zadawania zbyt osobistych pytań, diagnozowania znajomych, analizowania innych bez ich zgody czy stosowania technik perswazyjnych w relacjach prywatnych.
 
 Zasady etyczne w relacjach z kolegami:
+
 - Nie diagnozuj rówieśników ani rodziny - wiedza studencka jest wstępna, a diagnoza wymaga formalnego przygotowania i kontekstu klinicznego.
 - Nie używaj wiedzy z zajęć do manipulowania innymi - np. technik wpływu społecznego w celach osobistych.
 - Szanuj to, co ktoś ujawnia podczas ćwiczeń lub zajęć praktycznych - nie cytuj tego poza salą.
 
 ### Relacje ze studentami z grup w trudnej sytuacji
+
 Środowisko akademickie na psychologii jest często bardziej zróżnicowane emocjonalnie niż inne kierunki - wielu studentów wybiera psychologię, przeżywając własne trudności. Student powinien zachować wrażliwość na to, że kolega może zmagać się z problemami zdrowia psychicznego, i nie traktować dyskusji klinicznych jako okazji do wnikania w prywatne trudności innych.
 
 ### Relacje wykładowca–student
+
 Kontakty z kadrą akademicką powinny być profesjonalne i opierać się na szacunku do granic. Dyskusje akademickie, konsultacje i superwizja nie są relacją terapeutyczną - nawet jeśli dotyczą wrażliwych tematów.
 
 ---
@@ -60,15 +68,19 @@ Kontakty z kadrą akademicką powinny być profesjonalne i opierać się na szac
 Wiele zajęć na psychologii wiąże się z prowadzeniem mini-badań, ankiet lub ćwiczeń badawczych. Studenci mają obowiązek przestrzegania podstawowych zasad etyki badań:
 
 ### Świadoma zgoda uczestników
+
 Każda osoba biorąca udział w badaniu studenckim powinna wyrazić świadomą, dobrowolną zgodę. Zgoda powinna zawierać informację o celu badania, jego charakterze, prawie do rezygnacji i sposobie przechowywania danych.
 
 ### Anonimizacja danych
+
 Dane zebrane w badaniach nie powinny być udostępniane osobom trzecim ani publikowane w sposób umożliwiający identyfikację uczestników - nawet jeśli badanie prowadzone jest w ramach ćwiczeń, a nie oficjalnego projektu naukowego.
 
 ### Debriefing
+
 Po zakończeniu badania (szczególnie jeśli zawierało elementy wprowadzające uczestnika w błąd lub dotyczące wrażliwych tematów) należy poinformować uczestnika o prawdziwym celu badania i upewnić się, że nie odczuwa negatywnych skutków udziału.
 
 ### Zgodność z regulaminem uczelni
+
 Projekty badawcze realizowane poza programem zajęć powinny być skonsultowane z opiekunem naukowym i - jeśli uczelnia tego wymaga - zaopiniowane przez Komisję Etyczną.
 
 ---
@@ -76,12 +88,15 @@ Projekty badawcze realizowane poza programem zajęć powinny być skonsultowane 
 ## Odpowiedzialne korzystanie z wiedzy psychologicznej
 
 ### Efekt Barnum-Forer
+
 Wiedza o tym, że niektóre interpretacje psychologiczne (np. horoskopy, testy osobowości bez walidacji) brzmią przekonująco dla prawie każdej osoby, zobowiązuje studenta do krytycznego podejścia do popularnonaukowej psychologii. Student psychologii powinien:
+
 - odróżniać badania empiryczne od spekulacji,
 - nie rozpowszechniać niesprawdzonych informacji jako faktów psychologicznych,
 - reagować na pseudonaukę w środowisku społecznym z merytoryczną, lecz pełną szacunku korektą.
 
 ### Stygmatyzacja i etykietowanie
+
 Wiedza o kategoriach diagnostycznych rodzi pokusę etykietowania innych. Używanie terminów klinicznych (np. „narcyz", „borderline", „psychopata") w odniesieniu do realnych osób - kolegów, rodziny, polityków - bez formalnej diagnozy jest nieetyczne i szkodliwe społecznie. Etykieta kliniczna wymaga kompleksowej oceny, której student nie jest uprawniony przeprowadzać poza kontekstem akademickim i pod superwizją.
 
 ---
@@ -125,13 +140,9 @@ Psycholog pracuje z ludźmi o różnym pochodzeniu, wyznaniu, orientacji seksual
 
 Bycie studentem psychologii to nie tylko rola uczącego się - to już bycie częścią profesji. Nawyki etyczne kształtowane na studiach (uczciwość akademicka, szacunek dla granic, ostrożność w stosowaniu wiedzy, troska o siebie i innych) stają się fundamentem późniejszej praktyki zawodowej. Wybierając psychologię, wybierasz odpowiedzialność - i warto zacząć ją traktować poważnie od pierwszego roku.
 
-
-
-
 ## Perspektywa nieoczywista
 
 Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
 
 ## Bibliografia
 

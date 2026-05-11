@@ -23,6 +23,7 @@ Rynek technologiczny od kilku lat wyraźnie przesuwa rolę psychologa z obszaru 
 ### 1) Cykl życia produktu: od problemu do decyzji
 
 Największa wartość psychologa nie polega na „opisywaniu emocji użytkownika”, ale na poprawie jakości decyzji w całym cyklu produktu:
+
 1. Definicja problemu (co jest realnym problemem użytkownika, a co hipotezą zespołu).
 2. Operacjonalizacja wskaźników (np. obciążenie poznawcze, błędy, czas wykonania, retencja).
 3. Dobór metody (wywiad, test użyteczności, eksperyment A/B, analiza logów).

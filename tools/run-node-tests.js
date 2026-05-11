@@ -56,6 +56,7 @@ function assertBrowserOnlyMessageInPureNode() {
 function main() {
   runCommand(process.execPath, ['tools/lint-measurement-tools-config.js', '--strict']);
   assertBrowserOnlyMessageInPureNode();
+  runCommand(process.execPath, ['tools/test-md-loader-fallback.js']);
   console.log('[PsyHub][node-tests] OK: testy Node zakończone sukcesem.');
 }
 

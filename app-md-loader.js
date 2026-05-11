@@ -9,7 +9,11 @@
   const RAW_BASE_URL = 'https://raw.githubusercontent.com/MatPomGit/PsyHub/main/';
 
   function normalizeArticlePath(rawPath) {
-    return String(rawPath || '')
+    // Usuwamy query/hash, bo ścieżki z parametrami (np. ?raw=1)
+    // psuły wykrywanie rozszerzenia .md i blokowały fallback do RAW.
+    const withoutQueryOrHash = String(rawPath || '').split('#')[0].split('?')[0];
+    return withoutQueryOrHash
+      .replace(/^﻿/, '')
       .trim()
       .replace(/\\/g, '/')
       .replace(/^\.\//, '')

@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-28
 reviewCycleMonths: 12
 evidenceCutoffDate: 2026-03-31
@@ -10,7 +10,7 @@ evidenceCutoffDate: 2026-03-31
 
 Terapia narracyjna, opracowana przez Michaela White'a i Davida Epstona w Australii i Nowej Zelandii w latach osiemdziesiątych XX wieku, wyrosła z podejścia systemowego, ale wniosła do niego nowy wymiar: zamiast badać struktury i wzorce, skupiła się na **opowieściach** - historiach, które ludzie i rodziny budują o sobie samych, i które decydują o tym, co postrzegają jako możliwe lub niemożliwe. W perspektywie narracyjnej problemy psychologiczne nie są „w głowie" jednostki ani „w strukturze" rodziny - są zakorzenione w dominujących narracjach, które rodzina przejęła z kultury, społeczeństwa lub własnej historii, i które teraz ograniczają jej możliwości.
 
-## Definicje kluczowych pojęć
+## Definicje
 
 - **Narracja dominująca** (*dominant narrative*) - historia, którą rodzina lub jednostka uznaje za „prawdziwą" opowieść o sobie; może zawierać niewystarczające opisy (np. „jesteśmy rodziną, w której zawsze coś idzie nie tak") i eliminować alternatywne interpretacje.
 - **Zewnętrznienie problemu** (*externalizing*) - fundamentalna technika narracyjna, polegająca na oddzieleniu tożsamości osoby od problemu; „problem jest problemem, osoba nie jest problemem".
@@ -37,14 +37,14 @@ Gdy unikalne wyniki są zidentyfikowane, terapia narracyjna pyta o ich znaczenie
 
 White i Epston podkreślali, że narracje dominujące nie są tworzone przez jednostki w próżni - są przejmowane z kultury, systemów społecznych i instytucji. Narracje dotyczące płci, klasy, rasy czy zdrowia psychicznego kształtują to, co rodziny postrzegają jako „normalne" lub „problematyczne". Terapia narracyjna zaprasza do dekonstrukcji tych narracji: pytania o to, skąd pochodzi dana historia, kto na niej korzysta i czy służy rodzinie.
 
-## Dobra praktyka
+## Praktyczne przykłady
 
+### Dobra praktyka
 Rodzina zgłasza się z powodu „trudnego" 9-letniego syna. Zamiast diagnozować Staszka, terapeuta pyta, jak Staszek i rodzina radzą sobie z „Kłopotami" (zewnętrznienie). Stopniowo wychodzi na jaw, że Staszek, gdy Kłopoty nie przychodzą, jest cierpliwy, twórczy i opiekuńczy wobec młodszego rodzeństwa. Terapeuta pyta o te momenty i buduje z rodziną obraz „prawdziwego" Staszka - tego, który chce i potrafi być inny.
 
 **Konsekwencje:** zmniejszenie stygmatyzacji dziecka, aktywacja zasobów rodziny, nowa wspólna narracja wzmacniająca relacje.
 
-## Zła praktyka
-
+### Zła praktyka
 Terapeuta skupia się na historii dysfunkcji rodzinnej przez wiele sesji, pogłębiając narrację, w której rodzina jest „rodzina z problemami". Szczegółowe omawianie problemów bez identyfikacji unikalnych wyników wzmacnia tożsamość terapeutyczną opartą na deficytach.
 
 **Konsekwencje:** nasilenie poczucia bezradności, utrwalenie narracji deficytowej, brak orientacji na zmianę.
@@ -53,11 +53,9 @@ Terapeuta skupia się na historii dysfunkcji rodzinnej przez wiele sesji, pogł�
 
 Terapia narracyjna bywa krytykowana za nadmierny optymizm i pomijanie realnych, strukturalnych problemów (bieda, przemoc, dyskryminacja). Odpowiedź White'a i Epstona była spójna: zewnętrznienie obejmuje również systemy opresji - terapeuta może pomóc rodzinie zobaczyć, że jej cierpienie jest częściowo wytworem niesprawiedliwych warunków społecznych, a nie wyłącznie ich wewnętrzną dysfunkcją. Ta polityczna wrażliwość terapii narracyjnej jest jej unikatową cechą wśród podejść systemowych - i często ignorowanym zasobem.
 
-## Podsumowanie
 
-Terapia narracyjna wnosi do pracy z rodziną perspektywę konstruktywistyczną: problemy są zakorzenione w historiach, a nie w strukturach lub genach. Zewnętrznienie, re-autorstwo i budowanie tożsamości opartej na wartościach i unikalnych wynikach otwierają nowe możliwości terapeutyczne - szczególnie w przypadkach silnej stygmatyzacji, chronicznego poczucia bezradności lub problemów wbudowanych w kulturowe narracje o normie i patologii.
 
-## Bibliografia
+Terapia narracyjna wnosi do pracy z rodziną perspektywę konstruktywistyczną: problemy są zakorzenione w historiach, a nie w strukturach lub genach. Zewnętrznienie, re-autorstwo i budowanie tożsamości opartej na wartościach i unikalnych wynikach otwierają nowe możliwości terapeutyczne - szczególnie w przypadkach silnej stygmatyzacji, chronicznego poczucia bezradności lub problemów wbudowanych w kulturowe narracje o normie i patologii.## Bibliografia
 
 1. White, M., & Epston, D. (1990). *Narrative Means to Therapeutic Ends*. Norton.
 2. White, M. (2007). *Maps of Narrative Practice*. Norton.
@@ -65,3 +63,5 @@ Terapia narracyjna wnosi do pracy z rodziną perspektywę konstruktywistyczną: 
 4. Nichols, M. P., & Davis, S. D. (2020). *Family Therapy: Concepts and Methods* (12th ed.). Pearson.
 5. Freedman, J., & Combs, G. (1996). *Narrative Therapy: The Social Construction of Preferred Realities*. Norton.
 6. Madigan, S. (2011). *Narrative Therapy*. American Psychological Association.
+
+

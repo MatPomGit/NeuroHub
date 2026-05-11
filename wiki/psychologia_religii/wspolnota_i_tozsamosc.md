@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-05-04
 reviewCycleMonths: 18
 evidenceCutoffDate: 2026-03-31
@@ -6,10 +6,10 @@ evidenceCutoffDate: 2026-03-31
 
 # Wspólnota i tożsamość religijna
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Tożsamość religijna nie rozwija się w izolacji, lecz w relacjach. Wspólnota dostarcza języka, norm, rytuałów i modeli roli, dzięki którym jednostka interpretuje siebie i świat. Psychologia społeczna religii pokazuje, że ten proces może być zarówno ochronny, jak i ryzykowny: ta sama dynamika grupowa może wzmacniać wsparcie i sens albo prowadzić do konformizmu i wykluczenia.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Tożsamość religijna**: część tożsamości osobistej i społecznej związana z przynależnością, przekonaniami i praktykami religijnymi.
 - **Tożsamość społeczna**: poczucie "kim jesteśmy" wynikające z członkostwa w grupie.
 - **Kapitał społeczny wspólnoty**: sieć relacji zaufania i wzajemności, która ułatwia wsparcie w sytuacjach kryzysowych.
@@ -32,7 +32,7 @@ Jeżeli tożsamość grupowa opiera się na wysokiej kontroli i niskiej toleranc
 - Dane jakościowe wskazują, że konflikty między tożsamością osobistą i normą wspólnoty należą do najczęstszych źródeł religijnych kryzysów rozwojowych.
 - W badaniach nad wsparciem społecznym różnice między osobami regularnie uczestniczącymi we wspólnocie i osobami nieuczestniczącymi bywają statystycznie istotne nawet po kontroli wieku i statusu socjoekonomicznego.
 
-## Dobra praktyka
+## Praktyczne przykłady
 W pracy psychologicznej warto mapować trzy poziomy: "ja", "my" i "oni". Oznacza to pytania o osobiste wartości, doświadczenie wspólnoty oraz sposób postrzegania osób spoza grupy. Takie mapowanie pozwala wzmacniać zasoby wspólnotowe bez wzmacniania polaryzacji.
 
 **Konsekwencje:** większa spójność tożsamościowa, mniejsze ryzyko konfliktów relacyjnych, lepsze wykorzystanie wsparcia społecznego.
@@ -50,13 +50,11 @@ W części badań terenowych sam poziom deklarowanej religijności słabiej prze
 ## Perspektywa nieoczywista
 Wspólnota religijna bywa opisywana wyłącznie jako struktura norm. Z perspektywy psychologii można ją jednak rozumieć także jako "ekosystem regulacji emocji". To przesuwa uwagę z deklaracji ideologicznych na praktyczne pytanie: czy dana wspólnota pomaga ludziom lepiej radzić sobie z lękiem, stratą i konfliktem.
 
-## Podsumowanie
+
 - Tożsamość religijna rozwija się relacyjnie, a nie wyłącznie indywidualnie.
 - Wspólnota może działać ochronnie przez wsparcie i sens, ale też ryzykownie przez presję normatywną.
 - Kluczowe znaczenie ma jakość granic grupowych i poziom inkluzywności.
-- Praktyka psychologiczna powinna wzmacniać zasoby wspólnotowe, jednocześnie chroniąc autonomię jednostki.
-
-## Bibliografia
+- Praktyka psychologiczna powinna wzmacniać zasoby wspólnotowe, jednocześnie chroniąc autonomię jednostki.## Bibliografia
 1. Tajfel, H., & Turner, J. C. (1986). The social identity theory of intergroup behavior. In S. Worchel & W. G. Austin (Eds.), *Psychology of Intergroup Relations*.
 2. Ysseldyk, R., Matheson, K., & Anisman, H. (2010). Religiosity as identity: Toward an understanding of religion from a social identity perspective. *Personality and Social Psychology Review*, 14(1), 60-71.
 3. Putnam, R. D., & Campbell, D. E. (2010). *American Grace: How Religion Divides and Unites Us*. Simon & Schuster.
@@ -64,3 +62,4 @@ Wspólnota religijna bywa opisywana wyłącznie jako struktura norm. Z perspekty
 5. Koenig, H. G. (2023). Religion, spirituality, and mental health: An updated review. *International Review of Psychiatry*, 35(7-8), 583-599.
 6. Exline, J. J., & Rose, E. D. (2024). Religious and spiritual struggles in clinical settings. *Current Opinion in Psychology*, 58.
 7. Pargament, K. I. (2011). *Spiritually Integrated Psychotherapy*. Guilford Press.
+

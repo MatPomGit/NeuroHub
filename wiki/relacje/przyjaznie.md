@@ -110,11 +110,9 @@ Silna sieć przyjaciół:
 
 Zamiast pytać „co jest nie tak”, warto przeanalizować, jakie warunki podtrzymują aktualny wzorzec funkcjonowania relacji. Niektóre zachowania, choć problematyczne w dłuższej perspektywie, mogą pełnić funkcję adaptacyjną w krótkim czasie. Analiza kosztów i korzyści z punktu widzenia uczestnika relacji pozwala na bardziej realistyczne wyznaczanie celów.
 
-## Podsumowanie
 
-Silna sieć przyjaciół działa jako **bufor stresowy**, obniżając ryzyko lęku i depresji oraz poprawiając odporność immunologiczną. Meta-analizy (np. Holt-Lunstad) potwierdzają, że jakość relacji społecznych bezpośrednio wydłuża życie. Ostatecznie, integracja wiedzy teoretycznej z praktyką pozwala na budowanie trwalszych i zdrowszych więzi.
 
-## Bibliografia
+Silna sieć przyjaciół działa jako **bufor stresowy**, obniżając ryzyko lęku i depresji oraz poprawiając odporność immunologiczną. Meta-analizy (np. Holt-Lunstad) potwierdzają, że jakość relacji społecznych bezpośrednio wydłuża życie. Ostatecznie, integracja wiedzy teoretycznej z praktyką pozwala na budowanie trwalszych i zdrowszych więzi.## Bibliografia
 
 1. Aristotle. *Nicomachean Ethics*, Books VIII–IX. (tłum. pol.: *Etyka Nikomachejska*, PWN).
 2. Knapp, M. L. (1978). *Social Intercourse: From Greeting to Goodbye*. Allyn & Bacon.

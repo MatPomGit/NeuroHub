@@ -272,11 +272,9 @@ Hayes i współpracownicy zwracają uwagę, że:
 - MPFI (Rolffs i in., 2018) poprawia pomiar poszczególnych procesów;
 - Badania mediacyjne (Gloster i in., 2020) potwierdzają, że mechanizmy zmian są zgodne z teorią ACT.
 
-## Podsumowanie
 
-Heksafleks ACT jest jednym z najbardziej teoretycznie spójnych i empirycznie zbadanych modeli psychopatologii i terapii w ramach trzeciej fali terapii behawioralnych. Integruje six wzajemnie powiązanych procesów - akceptację, defuzję, kontakt z chwilą obecną, Obserwujące Ja, klaryfikację wartości i zaangażowane działanie - w unified model elastyczności psychologicznej. Jego siłą jest zarówno precyzja teoretyczna (zakorzeniona w RFT), jak i bogata toolbox technik klinicznych, dostępnych dla terapeutów z różnych orientacji. Baza empiryczna, choć rozwijana, wskazuje na skuteczność ACT w szerokim spektrum zaburzeń, ze szczególną mocą w bólu przewlekłym, depresji i zaburzeniach lękowych.
 
-## Literatura kluczowa
+Heksafleks ACT jest jednym z najbardziej teoretycznie spójnych i empirycznie zbadanych modeli psychopatologii i terapii w ramach trzeciej fali terapii behawioralnych. Integruje six wzajemnie powiązanych procesów - akceptację, defuzję, kontakt z chwilą obecną, Obserwujące Ja, klaryfikację wartości i zaangażowane działanie - w unified model elastyczności psychologicznej. Jego siłą jest zarówno precyzja teoretyczna (zakorzeniona w RFT), jak i bogata toolbox technik klinicznych, dostępnych dla terapeutów z różnych orientacji. Baza empiryczna, choć rozwijana, wskazuje na skuteczność ACT w szerokim spektrum zaburzeń, ze szczególną mocą w bólu przewlekłym, depresji i zaburzeniach lękowych.## Bibliografia kluczowa
 
 - Hayes, S. C., Strosahl, K. D., & Wilson, K. G. (1999). *Acceptance and Commitment Therapy: An Experiential Approach to Behavior Change*. Guilford Press.
 - Hayes, S. C., Luoma, J. B., Bond, F. W., Masuda, A., & Lillis, J. (2006). Acceptance and commitment therapy: Model, processes and outcomes. *Behaviour Research and Therapy, 44*(1), 1–25.
@@ -289,38 +287,21 @@ Heksafleks ACT jest jednym z najbardziej teoretycznie spójnych i empirycznie zb
 - Fang, S., & Ding, D. (2020). A meta-analysis of the efficacy of acceptance and commitment therapy for chronic pain. *Journal of Contextual Behavioral Science, 15*, 225–234.
 - Luoma, J. B., Hayes, S. C., & Walser, R. D. (2017). *Learning ACT: An Acceptance and Commitment Therapy Skills-Training Manual for Therapists* (2nd ed.). New Harbinger.
 
-
-## Wprowadzenie
-
-Temat tego artykułu jest istotny dla praktyki psychologicznej, ponieważ łączy perspektywę teoretyczną z codziennymi decyzjami klinicznymi lub edukacyjnymi. W literaturze podkreśla się, że trafne rozumienie zjawiska wymaga uwzględnienia kontekstu biologicznego, społecznego i kulturowego. W niniejszym opracowaniu przyjmujemy podejście oparte na dowodach, oddzielając ustalenia empiryczne od interpretacji. Taki porządek ułatwia ocenę jakości argumentów i ogranicza ryzyko uproszczeń. Dzięki temu czytelnik może przełożyć wiedzę teoretyczną na bardziej świadome działania praktyczne.
-
-
-## Definicje
-
-W tym artykule kluczowe pojęcia są rozumiane w sposób operacyjny, tak aby można je było stosować w badaniach i praktyce. Definicja zjawiska obejmuje zarówno jego kryteria rozpoznania, jak i granice pojęciowe odróżniające je od konstruktów pokrewnych. Warto pamiętać, że część terminów ma kilka konkurencyjnych ujęć, zależnie od szkoły teoretycznej. Dlatego podczas interpretacji wyników należy zawsze wskazać, którą definicję przyjęto i dlaczego. Taka precyzja terminologiczna zwiększa porównywalność danych oraz jakość wnioskowania.
-
-
-## Analiza
-
-Mechanizmy omawianego zjawiska najlepiej wyjaśniać na kilku poziomach: poznawczym, emocjonalnym, behawioralnym i środowiskowym. Dane empiryczne zwykle pokazują, że efekt końcowy wynika z interakcji wielu czynników, a nie z pojedynczej przyczyny. Z perspektywy metodologicznej warto uwzględnić zarówno wyniki badań przekrojowych, jak i podłużnych, ponieważ odpowiadają one na różne pytania. Ograniczeniem bywa heterogeniczność prób i narzędzi pomiarowych, która utrudnia bezpośrednie porównania między badaniami. Mimo tych ograniczeń spójny obraz zjawiska można uzyskać, łącząc dane ilościowe, jakościowe i kliniczne.
-
-
-## Dobra praktyka
-
-Dobrą praktyką jest rozpoczynanie pracy od jasnego celu, kryteriów oceny postępów oraz wspólnego języka używanego przez specjalistę i odbiorcę interwencji. W praktyce oznacza to regularny monitoring efektów, krótkie cykle informacji zwrotnej i gotowość do modyfikacji planu działania. Wysoką skuteczność wspiera także psychoedukacja, która zwiększa poczucie sprawstwa i rozumienie procesu zmiany. Istotne jest ponadto respektowanie granic etycznych oraz uwzględnianie różnic indywidualnych. Konsekwencją takiego podejścia jest większa trwałość rezultatów i mniejsze ryzyko działań pozornych.
-
-
-## Zła praktyka
-
-Częstym błędem jest stosowanie jednego schematu postępowania niezależnie od kontekstu, potrzeb i możliwości danej osoby lub grupy. Problemem bywa również opieranie decyzji na intuicji bez sprawdzania jakości danych i aktualnych rekomendacji. W praktyce prowadzi to do nietrafnych interwencji, spadku motywacji oraz utraty zaufania do procesu wsparcia. Złą praktyką jest także pomijanie czynników systemowych, takich jak warunki środowiskowe czy bariery organizacyjne. Konsekwencje obejmują nie tylko słabsze efekty, ale również ryzyko wtórnej szkody psychologicznej.
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
+Nieoczywista perspektywa na temat "Heksafleks ACT - model elastyczności psychologicznej" polega na tym, że skuteczność psychoterapii zależy nie tylko od nazwy nurtu, ale od jakości konceptualizacji, przymierza, dawkowania interwencji i dopasowania do pacjenta.
 
+Dopiero wspólna analiza zagadnień takich jak geneza i podstawy teoretyczne, podstawy empiryczne - przegląd badań oraz bibliografia kluczowa pokazuje pełny zakres omawianego zjawiska.
 
-## Bibliografia
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
+## Podsumowanie
+
+Temat "Heksafleks ACT - model elastyczności psychologicznej" pokazuje, że najbardziej praktyczne wnioski wynikają z łączenia modelu teoretycznego z uważnością na proces zmiany, relację i ograniczenia danej metody.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak geneza i podstawy teoretyczne, podstawy empiryczne - przegląd badań oraz bibliografia kluczowa pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

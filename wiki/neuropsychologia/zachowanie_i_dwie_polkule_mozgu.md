@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-20
 reviewCycleMonths: 24
 evidenceCutoffDate: 2026-03-31
@@ -35,14 +35,14 @@ Przetwarzanie emocji ma charakter sieciowy. Półkule mogą różnić się udzia
 
 Sztywne etykietowanie ludzi jako „lewopółkulowych” lub „prawopółkulowych” sprzyja błędnym decyzjom edukacyjnym i zawodowym. Upraszcza zjawiska neuropsychologiczne oraz ignoruje plastyczność mózgu i uczenie się przez doświadczenie.
 
-## Dobra praktyka
+## Praktyczne przykłady
 
+### Dobra praktyka
 Nauczyciel lub trener projektuje zadania łączące analizę i syntezę: pracę na strukturze językowej, ale także na kontekście, emocji i obrazie.
 
 **Konsekwencje:** bardziej realistyczne wspieranie funkcji poznawczych, lepsza transferowalność umiejętności.
 
-## Zła praktyka
-
+### Zła praktyka
 Uczeń otrzymuje etykietę „prawopółkulowy, więc nie nadaje się do analizy danych” albo „lewopółkulowy, więc nie jest kreatywny”.
 
 **Konsekwencje:** samospełniające się ograniczenia, obniżenie motywacji i utrata szans rozwojowych.
@@ -59,14 +59,14 @@ Nieoczywista perspektywa mówi, że najważniejsza nie jest „dominacja” jedn
 - `neuro/neuronauka_poznawcza` - sieciowe ujęcie procesów poznawczych.
 - `reference/mapa_powiazan_nowe_artykuly` - mapa relacji między nowymi tekstami.
 
-## Podsumowanie
 
-Relacja między zachowaniem a półkulami mózgu jest rzeczywista, lecz subtelna. Nauka wspiera model współpracy i specjalizacji względnej, a nie prostą dychotomię dwóch „oddzielnych umysłów”.
 
-## Bibliografia
+Relacja między zachowaniem a półkulami mózgu jest rzeczywista, lecz subtelna. Nauka wspiera model współpracy i specjalizacji względnej, a nie prostą dychotomię dwóch „oddzielnych umysłów”.## Bibliografia
 
 1. Gazzaniga, M. S. (2000). Cerebral specialization and interhemispheric communication. *Brain, 123*(7), 1293–1326.
 2. Corballis, M. C. (2014). Left brain, right brain: facts and fantasies. *PLoS Biology, 12*(1), e1001767.
 3. Nielsen, J. A., Zielinski, B. A., Ferguson, M. A., et al. (2013). An evaluation of the left-brain vs. right-brain hypothesis with resting state functional connectivity MRI. *PLoS ONE, 8*(8), e71275.
 4. Toga, A. W., & Thompson, P. M. (2003). Mapping brain asymmetry. *Nature Reviews Neuroscience, 4*(1), 37–48.
 5. Vingerhoets, G. (2019). Phenotypes in hemispheric functional segregation? *Physics of Life Reviews, 30*, 1–18.
+
+

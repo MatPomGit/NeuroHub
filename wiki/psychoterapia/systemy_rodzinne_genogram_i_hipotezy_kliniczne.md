@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-05-09
 reviewCycleMonths: 18
 evidenceCutoffDate: 2026-05-01
@@ -27,14 +27,14 @@ Genogram pozwala zobaczyć, czy bieżący problem (np. lęk separacyjny, kontrol
 
 Hipoteza systemowa powinna być oszczędna i falsyfikowalna. Zamiast twierdzenia „matka powoduje objawy”, precyzyjniejsze jest „wzorzec nadmiernej odpowiedzialności dziecka nasila się, gdy konflikt dorosłych pozostaje nierozwiązany”.
 
-## Dobra praktyka
+## Praktyczne przykłady
 
+### Dobra praktyka
 Terapeuta tworzy genogram wspólnie z rodziną, zaznacza wydarzenia krytyczne i cykliczne konflikty, a następnie proponuje jedną hipotezę do testu behawioralnego na kolejny tydzień.
 
 **Konsekwencje:** rodzina rozumie mechanizm zmiany, a terapia zyskuje kierunek i mierzalność.
 
-## Zła praktyka
-
+### Zła praktyka
 Specjalista używa genogramu jako narzędzia etykietowania („toksyczna rodzina”), bez sprawdzania alternatywnych wyjaśnień i bez planu interwencji.
 
 **Konsekwencje:** wzrost oporu, poczucie oskarżenia oraz spadek współpracy terapeutycznej.
@@ -47,13 +47,13 @@ Nieoczywiste ujęcie zakłada, że genogram może być narzędziem budowania spr
 - `psychotherapy/systemy_rodzinne` - podstawy dynamiki systemowej.
 - `relacje/relacje_rodzinne` - dynamika relacji i konflikty.
 
-## Podsumowanie
 
-Genogram i hipoteza kliniczna są rdzeniem praktycznej pracy systemowej. Największą wartość dają wtedy, gdy prowadzą do konkretnych, małych eksperymentów relacyjnych w codziennym życiu rodziny.
 
-## Bibliografia
+Genogram i hipoteza kliniczna są rdzeniem praktycznej pracy systemowej. Największą wartość dają wtedy, gdy prowadzą do konkretnych, małych eksperymentów relacyjnych w codziennym życiu rodziny.## Bibliografia
 
 1. Bowen, M. (1978). *Family Therapy in Clinical Practice*. Jason Aronson.
 2. McGoldrick, M., Gerson, R., & Petry, S. (2008). *Genograms: Assessment and Intervention* (3rd ed.). Norton.
 3. Minuchin, S. (1974). *Families and Family Therapy*. Harvard University Press.
 4. Nichols, M. P., & Davis, S. D. (2020). *Family Therapy: Concepts and Methods* (12th ed.). Pearson.
+
+

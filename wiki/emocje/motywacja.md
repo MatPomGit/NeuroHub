@@ -32,8 +32,6 @@ Deci i Ryan (1985, 2000) zaproponowali **teorię autodeterminacji** (Self-Determ
 
 ## Systemy nagrody - neurobiologia
 
-Motivacja jest biologicznie regulowana przez **mezolimbiczny układ dopaminowy** (droga z VTA do jądra półleżącego - nucleus accumbens). Dopamina koduje *oczekiwanie nagrody*, nie samą nagrodę. Zaburzenia tego systemu leżą u podłoża uzależnień i avolition w schizofrenii.
-
-## Bibliografia
+Motivacja jest biologicznie regulowana przez **mezolimbiczny układ dopaminowy** (droga z VTA do jądra półleżącego - nucleus accumbens). Dopamina koduje *oczekiwanie nagrody*, nie samą nagrodę. Zaburzenia tego systemu leżą u podłoża uzależnień i avolition w schizofrenii.## Bibliografia
 
 - Do uzupełnienia na podstawie źródeł cytowanych w artykule.

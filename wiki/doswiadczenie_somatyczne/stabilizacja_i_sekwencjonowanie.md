@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-05-09
 reviewCycleMonths: 12
 evidenceCutoffDate: 2026-05-01
@@ -27,14 +27,14 @@ Bez stabilizacji pacjent może nie utrzymać kontaktu z doświadczeniem wystarcz
 
 Do rozszerzenia pracy nad materiałem traumatycznym zwykle potrzebne są: powtarzalna umiejętność powrotu do oddechu, zdolność nazwania sygnałów przeciążenia oraz dostęp do co najmniej dwóch osobistych zasobów regulacyjnych.
 
-## Dobra praktyka
+## Praktyczne przykłady
 
+### Dobra praktyka
 Terapeuta na początku każdej sesji ocenia poziom pobudzenia, ustala sygnał stop i prowadzi krótką orientację w otoczeniu. Materiał trudny uruchamia stopniowo, przeplatając go powrotem do zasobów.
 
 **Konsekwencje:** mniejsze ryzyko nawrotu silnych objawów po sesji i lepsza ciągłość procesu terapeutycznego.
 
-## Zła praktyka
-
+### Zła praktyka
 Praca koncentruje się od razu na najbardziej obciążającym fragmencie historii pacjenta, bez monitorowania wskaźników przeciążenia i bez planu domykania sesji.
 
 **Konsekwencje:** destabilizacja po sesji, wzrost nieufności do terapii i większe ryzyko przerwania leczenia.
@@ -48,13 +48,13 @@ Wysoka intensywność emocjonalna sesji bywa mylona z „głęboką pracą”. T
 - `doswiadczenie_somatyczne/wprowadzenie_do_doswiadczenia_somatycznego` - podstawy regulacji układu nerwowego w SE.
 - `psychopathology/trauma_ptsd` - kliniczny obraz traumy i PTSD.
 
-## Podsumowanie
 
-SE działa najbezpieczniej i najskuteczniej jako proces sekwencyjny. Stabilizacja nie jest „wstępem”, który można pominąć, lecz warunkiem odpowiedzialnej pracy z materiałem traumatycznym.
 
-## Bibliografia
+SE działa najbezpieczniej i najskuteczniej jako proces sekwencyjny. Stabilizacja nie jest „wstępem”, który można pominąć, lecz warunkiem odpowiedzialnej pracy z materiałem traumatycznym.## Bibliografia
 
 1. Payne, P., Levine, P. A., & Crane-Godreau, M. A. (2015). Somatic experiencing: using interoception and proprioception as core elements of trauma therapy. *Frontiers in Psychology, 6*, 93.
 2. Van der Kolk, B. A. (2014). *The Body Keeps the Score*. Viking.
 3. Ogden, P., Minton, K., & Pain, C. (2006). *Trauma and the Body*. Norton.
 4. Siegel, D. J. (2020). *The Developing Mind* (3rd ed.). Guilford Press.
+
+

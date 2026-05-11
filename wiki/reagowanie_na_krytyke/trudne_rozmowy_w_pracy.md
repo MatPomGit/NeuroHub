@@ -1,4 +1,4 @@
-# Trudne rozmowy o błędach w pracy: procedury deeskalacji i odbudowy współpracy
+﻿# Trudne rozmowy o błędach w pracy: procedury deeskalacji i odbudowy współpracy
 
 ## Wprowadzenie
 Warto podkreślić, że reakcja na krytykę nie jest wyłącznie „cechą charakteru”, ale także wyuczonym nawykiem. Dobra wiadomość jest taka, że nawyki można trenować etapami, zaczynając od krótkich interwencji w codziennych rozmowach.
@@ -33,7 +33,9 @@ Z perspektywy praktycznej oznacza to konieczność pracy na dwóch poziomach nar
 
 W praktyce klinicznej i edukacyjnej same dane nie podejmują decyzji - robi to człowiek, który nadaje im znaczenie. Dlatego kluczowe jest łączenie dowodów naukowych z kontekstem sytuacyjnym, etapem rozwoju i zasobami relacyjnymi uczestników rozmowy.
 
-## Dobra praktyka
+## Praktyczne przykłady
+
+### Dobra praktyka
 W praktyce warto dodać prostą miarę procesu: „czas od wykrycia błędu do pierwszej rozmowy naprawczej” (np. cel < 24 h dla incydentów wysokiego priorytetu). Taki wskaźnik porządkuje odpowiedzialność i ogranicza odkładanie trudnych rozmów.
 
 Wdrożenie dobrej praktyki jest skuteczniejsze, gdy umawiamy się na konkretne wskaźniki zmiany, np. krótszy czas wygaszania napięcia po trudnej rozmowie. Taka operacjonalizacja ułatwia monitorowanie postępu i korygowanie planu.
@@ -54,7 +56,7 @@ W dłuższej perspektywie przekłada się to na większe poczucie sprawstwa i mn
 
 Lepsza regulacja emocji i precyzyjniejsza komunikacja zwiększają przewidywalność współpracy, obniżają koszty konfliktu oraz skracają czas powrotu do zadań merytorycznych.
 
-## Zła praktyka
+### Zła praktyka
 Warto zauważyć, że zła praktyka często wynika nie ze „złej woli”, lecz z braku umiejętności regulacyjnych i presji czasu. Dlatego sama krytyka zachowania bez nauki alternatywy rzadko przynosi trwałą poprawę.
 
 Błąd: publiczne zawstydzanie pracownika („Jak można było to tak zepsuć?”) lub przeciwnie - „zamiecenie pod dywan” w imię spokoju.
@@ -73,17 +75,17 @@ W dominującej narracji trudna rozmowa bywa traktowana jako test „twardości�
 
 Najsilniejsze zespoły nie są tymi, które „nie popełniają błędów”, ale tymi, które szybciej przekształcają błąd w procedurę zapobiegawczą.
 
-## Podsumowanie
+
 W praktyce najwięcej zmienia regularność małych kroków: krótkiej pauzy, doprecyzowania intencji i świadomego wyboru języka odpowiedzi. To właśnie te mikrodecyzje kumulują się w trwałą odporność psychiczną na ocenę.
 
 - Trudna rozmowa powinna jednocześnie chronić relację i standard jakości.
 - Kluczowe są: precyzja faktów, odpowiedzialność, plan naprawczy i zmiana systemowa.
-- Kultura uczenia się z błędów jest lepszym predyktorem długofalowej skuteczności niż kultura strachu.
-
-## Bibliografia
+- Kultura uczenia się z błędów jest lepszym predyktorem długofalowej skuteczności niż kultura strachu.## Bibliografia
 - Gross, J. J. (2014). Emotion regulation: Conceptual and empirical foundations. In *Handbook of Emotion Regulation* (2nd ed.). Guilford Press.
 
 - Edmondson, A. C. (2019). *The Fearless Organization*. Wiley.
 - Heifetz, R., Grashow, A., & Linsky, M. (2009). *The Practice of Adaptive Leadership*. Harvard Business Press.
 - Reason, J. (1997). *Managing the Risks of Organizational Accidents*. Ashgate.
 - Stone, D., Patton, B., & Heen, S. (2010). *Thanks for the Feedback*. Viking.
+
+

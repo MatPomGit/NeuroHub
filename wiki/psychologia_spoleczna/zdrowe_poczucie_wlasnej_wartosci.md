@@ -111,13 +111,11 @@ Wsparcie psychologiczne warto rozważyć, gdy niskie poczucie własnej wartości
 
 W terapii (np. CBT, ACT, terapia schematów) pracuje się m.in. nad przekonaniami o sobie, regulacją emocji, granicami i zachowaniami wzmacniającymi sprawczość.
 
-## Podsumowanie
+
 
 Zdrowe poczucie własnej wartości nie oznacza bycia „najlepszym” ani ciągłego dobrego samopoczucia. Oznacza stabilne poczucie godności, realistyczny ogląd siebie i gotowość do rozwoju bez przemocy wobec samego siebie. To kompetencja, którą można systematycznie budować - poprzez samoakceptację, wartości, relacje i codzienne nawyki.
 
----
-
-## Literatura
+---## Bibliografia
 
 - Kernis, M. H. (2003). Toward a conceptualization of optimal self-esteem. *Psychological Inquiry, 14*(1), 1–26.
 - Leary, M. R. (2004). The curse of the self: Self-awareness, egotism, and the quality of human life. Oxford University Press.
@@ -126,38 +124,21 @@ Zdrowe poczucie własnej wartości nie oznacza bycia „najlepszym” ani ciąg�
 - Orth, U., & Robins, R. W. (2014). The development of self-esteem. *Current Directions in Psychological Science, 23*(5), 381–387.
 - Rosenberg, M. (1965). *Society and the Adolescent Self-Image*. Princeton University Press.
 
-
-## Wprowadzenie
-
-Temat tego artykułu jest istotny dla praktyki psychologicznej, ponieważ łączy perspektywę teoretyczną z codziennymi decyzjami klinicznymi lub edukacyjnymi. W literaturze podkreśla się, że trafne rozumienie zjawiska wymaga uwzględnienia kontekstu biologicznego, społecznego i kulturowego. W niniejszym opracowaniu przyjmujemy podejście oparte na dowodach, oddzielając ustalenia empiryczne od interpretacji. Taki porządek ułatwia ocenę jakości argumentów i ogranicza ryzyko uproszczeń. Dzięki temu czytelnik może przełożyć wiedzę teoretyczną na bardziej świadome działania praktyczne.
-
-
-## Definicje
-
-W tym artykule kluczowe pojęcia są rozumiane w sposób operacyjny, tak aby można je było stosować w badaniach i praktyce. Definicja zjawiska obejmuje zarówno jego kryteria rozpoznania, jak i granice pojęciowe odróżniające je od konstruktów pokrewnych. Warto pamiętać, że część terminów ma kilka konkurencyjnych ujęć, zależnie od szkoły teoretycznej. Dlatego podczas interpretacji wyników należy zawsze wskazać, którą definicję przyjęto i dlaczego. Taka precyzja terminologiczna zwiększa porównywalność danych oraz jakość wnioskowania.
-
-
-## Analiza
-
-Mechanizmy omawianego zjawiska najlepiej wyjaśniać na kilku poziomach: poznawczym, emocjonalnym, behawioralnym i środowiskowym. Dane empiryczne zwykle pokazują, że efekt końcowy wynika z interakcji wielu czynników, a nie z pojedynczej przyczyny. Z perspektywy metodologicznej warto uwzględnić zarówno wyniki badań przekrojowych, jak i podłużnych, ponieważ odpowiadają one na różne pytania. Ograniczeniem bywa heterogeniczność prób i narzędzi pomiarowych, która utrudnia bezpośrednie porównania między badaniami. Mimo tych ograniczeń spójny obraz zjawiska można uzyskać, łącząc dane ilościowe, jakościowe i kliniczne.
-
-
-## Dobra praktyka
-
-Dobrą praktyką jest rozpoczynanie pracy od jasnego celu, kryteriów oceny postępów oraz wspólnego języka używanego przez specjalistę i odbiorcę interwencji. W praktyce oznacza to regularny monitoring efektów, krótkie cykle informacji zwrotnej i gotowość do modyfikacji planu działania. Wysoką skuteczność wspiera także psychoedukacja, która zwiększa poczucie sprawstwa i rozumienie procesu zmiany. Istotne jest ponadto respektowanie granic etycznych oraz uwzględnianie różnic indywidualnych. Konsekwencją takiego podejścia jest większa trwałość rezultatów i mniejsze ryzyko działań pozornych.
-
-
-## Zła praktyka
-
-Częstym błędem jest stosowanie jednego schematu postępowania niezależnie od kontekstu, potrzeb i możliwości danej osoby lub grupy. Problemem bywa również opieranie decyzji na intuicji bez sprawdzania jakości danych i aktualnych rekomendacji. W praktyce prowadzi to do nietrafnych interwencji, spadku motywacji oraz utraty zaufania do procesu wsparcia. Złą praktyką jest także pomijanie czynników systemowych, takich jak warunki środowiskowe czy bariery organizacyjne. Konsekwencje obejmują nie tylko słabsze efekty, ale również ryzyko wtórnej szkody psychologicznej.
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
+Nieoczywista perspektywa na temat "Zdrowe poczucie własnej wartości" polega na tym, że wiele zjawisk społecznych wydaje się cechą jednostki, choć w rzeczywistości jest produktem norm, sytuacji i architektury relacji.
 
+Dopiero wspólna analiza zagadnień takich jak czym jest zdrowe poczucie własnej wartości?, sygnały, że poczucie własnej wartości jest zdrowe oraz wątek kliniczny - kiedy warto szukać pomocy? pokazuje pełny zakres omawianego zjawiska.
 
-## Bibliografia
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
+## Podsumowanie
+
+Temat "Zdrowe poczucie własnej wartości" pokazuje, że najważniejsze jest analizowanie jednocześnie procesów indywidualnych i warunków społecznych, które wzmacniają określone zachowania lub przekonania.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak czym jest zdrowe poczucie własnej wartości?, sygnały, że poczucie własnej wartości jest zdrowe oraz wątek kliniczny - kiedy warto szukać pomocy? pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

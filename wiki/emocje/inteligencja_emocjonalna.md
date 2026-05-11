@@ -116,17 +116,13 @@ Wyższa IE nauczycieli koreluje z:
 - Mniejszym wypaleniem zawodowym
 - Wyższą satysfakcją uczniów ze szkoły
 
----
-
-## Literatura
+---## Bibliografia
 
 1. Mayer, J. D., & Salovey, P. (1990). Emotional intelligence. *Imagination, Cognition and Personality, 9*(3), 185–211.
 2. Goleman, D. (1995). *Emotional Intelligence: Why It Can Matter More Than IQ*. Bantam Books.
 3. Mayer, J. D., Salovey, P., & Caruso, D. R. (2004). Emotional intelligence: Theory, findings, and implications. *Psychological Inquiry, 15*(3), 197–215.
 4. Van Rooy, D. L., & Viswesvaran, C. (2004). Emotional intelligence: A meta-analytic investigation of predictive validity and nomological net. *Journal of Vocational Behavior, 65*(1), 71–95.
 5. Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The impact of enhancing students' social and emotional learning. *Child Development, 82*(1), 405–432.
-6. Locke, E. A. (2005). Why emotional intelligence is an invalid concept. *Journal of Organizational Behavior, 26*(4), 425–431.
-
-## Bibliografia
+6. Locke, E. A. (2005). Why emotional intelligence is an invalid concept. *Journal of Organizational Behavior, 26*(4), 425–431.## Bibliografia
 
 - Do uzupełnienia na podstawie źródeł cytowanych w artykule.

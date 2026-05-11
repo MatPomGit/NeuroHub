@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-20
 reviewCycleMonths: 12
 evidenceCutoffDate: 2026-03-31
@@ -35,14 +35,14 @@ Badania nad przekazem transgeneracyjnym pokazują, że style przywiązania, spos
 
 Niniejszy artykuł koncentruje się na mechanice relacji rodzinnych (role, granice, sprzężenia zwrotne, triangulacja), natomiast artykuł `psychotherapy/systemowa` stanowi przegląd szkół i technik terapii systemowej w szerszym ujęciu. Taki podział pozwala na szczegółową analizę działania systemu rodzinnego w tym miejscu, przy jednoczesnym zachowaniu przekrojowego charakteru tekstu o nurtach interwencji.
 
-## Dobra praktyka
+## Praktyczne przykłady
 
+### Dobra praktyka
 W poradni rodzinnej terapeuta pracuje z całą rodziną: mapuje reguły komunikacji, rozpoznaje punkty eskalacji i ćwiczy nowe sekwencje rozmowy („najpierw nazwanie potrzeb, potem prośba, na końcu ustalenie granic”).
 
 **Konsekwencje:** zmniejszenie konfliktów wtórnych, poprawa współpracy rodzicielskiej, spadek nasilenia objawów dziecka.
 
-## Zła praktyka
-
+### Zła praktyka
 Całą odpowiedzialność za napięcia przypisuje się jednej osobie („to przez ciebie rodzina nie działa”), bez analizy wzorców relacyjnych i kontekstu.
 
 **Konsekwencje:** utrwalenie stygmatyzacji, opór wobec terapii, brak trwałej zmiany systemowej.
@@ -59,14 +59,14 @@ Nieoczywiste podejście zakłada, że „dysfunkcyjny” objaw bywa jednocześni
 - `doswiadczenie_somatyczne/wprowadzenie_do_doswiadczenia_somatycznego` - regulacja pobudzenia w pracy z traumą relacyjną; odsyła do Somatic Experiencing.
 - `reference/mapa_powiazan_nowe_artykuly` - mapa relacji między nowymi tekstami.
 
-## Podsumowanie
 
-Myślenie systemowe przesuwa uwagę z „diagnostyki winy” na analizę wzorców i funkcji objawu. W praktyce zwiększa to szansę trwałej poprawy, ponieważ interwencja obejmuje cały układ relacji, a nie jedynie pojedynczy symptom.
 
-## Bibliografia
+Myślenie systemowe przesuwa uwagę z „diagnostyki winy” na analizę wzorców i funkcji objawu. W praktyce zwiększa to szansę trwałej poprawy, ponieważ interwencja obejmuje cały układ relacji, a nie jedynie pojedynczy symptom.## Bibliografia
 
 1. Bowen, M. (1978). *Family Therapy in Clinical Practice*. Jason Aronson.
 2. Minuchin, S. (1974). *Families and Family Therapy*. Harvard University Press.
 3. Nichols, M. P., & Davis, S. D. (2020). *Family Therapy: Concepts and Methods* (12th ed.). Pearson.
 4. Carr, A. (2019). Family therapy and systemic interventions for child-focused problems. *Journal of Family Therapy, 41*(2), 153–213.
 5. Vetere, A., & Dallos, R. (2015). *Systemic Therapy and Attachment Narratives*. Routledge.
+
+

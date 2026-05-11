@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-05-04
 reviewCycleMonths: 18
 evidenceCutoffDate: 2026-03-31
@@ -6,10 +6,10 @@ evidenceCutoffDate: 2026-03-31
 
 # Coping religijny
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Coping religijny opisuje to, jak ludzie wykorzystują przekonania, praktyki i relacje duchowe do radzenia sobie ze stresem. W psychologii klinicznej temat jest istotny, ponieważ religia może być zarówno zasobem ochronnym, jak i źródłem dodatkowego obciążenia. W praktyce dobrze widać to u osób po diagnozie ciężkiej choroby, po stracie bliskich lub w kryzysach egzystencjalnych. Dlatego analizując coping religijny, trzeba pytać nie tylko o intensywność religijności, ale przede wszystkim o jakość stosowanych strategii.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Coping religijny pozytywny**: strategie oparte na zaufaniu, poszukiwaniu sensu, wsparciu wspólnotowym i współpracy z obrazem Boga jako źródłem oparcia.
 - **Coping religijny negatywny**: strategie oparte na lęku, karzących interpretacjach, poczuciu opuszczenia przez Boga lub przewlekłym konflikcie religijno-moralnym.
 - **Religious struggle**: napięcie duchowe dotyczące wątpliwości, winy, gniewu wobec Boga, konfliktów wspólnotowych lub poczucia duchowej porażki.
@@ -32,7 +32,7 @@ Negatywny coping religijny wiąże się częściej z ruminacją, samopotępienie
 - W badaniach medycznych (onkologia, choroby przewlekłe) strategie oparte na sensie i wsparciu wspólnotowym częściej przewidują lepszą adaptację psychospołeczną niż sama deklarowana religijność.
 - Przeglądy literatury wskazują, że efekt ochronny religii jest zwykle mały lub umiarkowany, ale klinicznie istotny, gdy stres jest długotrwały i dotyczy kwestii egzystencjalnych.
 
-## Dobra praktyka
+## Praktyczne przykłady
 W diagnostyce warto pytać o konkretne wzorce radzenia sobie: "Co dzieje się z Pani/Pana lękiem po modlitwie?", "Czy wspólnota pomaga, czy zawstydza?", "Jak interpretuje Pan/Pani cierpienie?". Interwencje działają najlepiej, gdy łączą pracę nad przekonaniami z realnym wsparciem społecznym i psychoedukacją.
 
 **Konsekwencje:** większa szansa na wybór strategii adaptacyjnych, lepsza współpraca terapeutyczna, mniejsze ryzyko utrwalenia samopotępiających schematów.
@@ -50,13 +50,11 @@ W części badań ambulatoryjnych poprawa bywa widoczna już po 2-4 tygodniach p
 ## Perspektywa nieoczywista
 Najważniejsze pytanie nie brzmi "czy religia pomaga", ale "jaką funkcję psychologiczną pełni w tym konkretnym kryzysie". Ta perspektywa zmienia praktykę: zamiast debat światopoglądowych otrzymujemy analizę funkcjonalną, która wspiera precyzyjne decyzje kliniczne.
 
-## Podsumowanie
+
 - Coping religijny ma dwa oblicza: adaptacyjne i nieadaptacyjne.
 - O kierunku wpływu decydują interpretacje, relacje i elastyczność psychologiczna.
 - W praktyce kluczowe jest różnicowanie pozytywnego i negatywnego coping, a nie ogólny poziom religijności.
-- Najlepsze efekty daje podejście integrujące język wartości pacjenta z metodami opartymi na dowodach.
-
-## Bibliografia
+- Najlepsze efekty daje podejście integrujące język wartości pacjenta z metodami opartymi na dowodach.## Bibliografia
 1. Pargament, K. I., Koenig, H. G., & Perez, L. M. (2000). The many methods of religious coping: Development and initial validation of the RCOPE. *Journal of Clinical Psychology*, 56(4), 519-543.
 2. Pargament, K. I. (2011). *Spiritually Integrated Psychotherapy*. Guilford Press.
 3. Ano, G. G., & Vasconcelles, E. B. (2005). Religious coping and psychological adjustment to stress: A meta-analysis. *Journal of Clinical Psychology*, 61(4), 461-480.
@@ -64,3 +62,4 @@ Najważniejsze pytanie nie brzmi "czy religia pomaga", ale "jaką funkcję psych
 5. Exline, J. J., & Rose, E. D. (2024). Religious and spiritual struggles in clinical settings. *Current Opinion in Psychology*, 58.
 6. Koenig, H. G. (2023). Religion, spirituality, and mental health: An updated review. *International Review of Psychiatry*, 35(7-8), 583-599.
 7. Hill, P. C., et al. (2021). Methodological challenges in the psychology of religion. *Archive for the Psychology of Religion*, 43(3), 187-205.
+

@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-05-04
 reviewCycleMonths: 18
 evidenceCutoffDate: 2026-03-31
@@ -6,10 +6,10 @@ evidenceCutoffDate: 2026-03-31
 
 # Konwersja religijna
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Konwersja religijna jest procesem zmiany tożsamości, sieci społecznych i sposobu interpretowania własnej biografii. W psychologii religii odchodzi się dziś od uproszczonego obrazu konwersji jako jednego, nagłego aktu. Coraz częściej opisuje się ją jako kontinuum: od powolnej zmiany praktyk i przekonań, przez okres ambiwalencji, po stabilizację nowej tożsamości religijnej lub światopoglądowej. W niniejszym opracowaniu rozdzielamy fakty empiryczne od interpretacji teologicznych.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Konwersja religijna**: relatywnie trwała zmiana afiliacji, praktyk i autoidentyfikacji religijnej, połączona ze zmianą narracji o sobie.
 - **Dekonwersja**: proces odchodzenia od dotychczasowej tradycji religijnej, niekiedy zakończony nową afiliacją, a niekiedy sekularyzacją.
 - **Tożsamość narracyjna**: sposób organizowania życiorysu w spójną opowieść nadającą sens wydarzeniom kryzysowym i przełomowym.
@@ -31,7 +31,7 @@ Dane jakościowe i ilościowe wskazują, że relacje interpersonalne są jednym 
 - Dane rozwojowe wskazują, że najwyższa częstość zmian afiliacji przypada zwykle na okres 18-29 lat, kiedy intensywnie kształtuje się tożsamość i sieć relacji.
 - Przeglądy badań nad dekonwersją pokazują, że czynniki intelektualne, relacyjne i moralne zwykle współwystępują; rzadko działa tylko jeden powód.
 
-## Dobra praktyka
+## Praktyczne przykłady
 W badaniach i praktyce psychologicznej warto prowadzić analizę konwersji w modelu bio-psycho-społecznym: pytać jednocześnie o motywy egzystencjalne, historię relacji, aktualny poziom wsparcia oraz koszty społeczne zmiany. W terapii korzystne jest podejście neutralne światopoglądowo, które szanuje autonomię klienta i nie zakłada z góry, czy konwersja jest korzystna lub szkodliwa.
 
 **Konsekwencje:** większa trafność diagnozy, mniejsze ryzyko ideologizacji procesu, lepsze dopasowanie interwencji do realnych potrzeb osoby.
@@ -49,13 +49,11 @@ Ciekawym efektem jest też "retrospective inevitability": po latach badani czę�
 ## Perspektywa nieoczywista
 Zwykle pyta się, czy konwersja jest racjonalna, czy emocjonalna. Lepsze pytanie brzmi: jakie funkcje adaptacyjne pełni dla konkretnej osoby na danym etapie życia. Taka perspektywa pozwala zobaczyć, że nawet decyzje o podobnej treści mogą wynikać z całkowicie różnych mechanizmów psychologicznych.
 
-## Podsumowanie
+
 - Konwersja religijna jest procesem, a nie jednorazowym wydarzeniem.
 - O jej skutkach psychologicznych decyduje interakcja czynników poznawczych, emocjonalnych i relacyjnych.
 - Kluczowe znaczenie ma rozróżnienie między wsparciem wspólnotowym a presją grupową.
-- W praktyce klinicznej i badawczej najlepsze rezultaty daje podejście neutralne światopoglądowo i oparte na danych.
-
-## Bibliografia
+- W praktyce klinicznej i badawczej najlepsze rezultaty daje podejście neutralne światopoglądowo i oparte na danych.## Bibliografia
 1. Paloutzian, R. F., & Park, C. L. (Eds.). (2013). *Handbook of the Psychology of Religion and Spirituality* (2nd ed.). Guilford Press.
 2. Hood, R. W., Hill, P. C., & Spilka, B. (2009). *The Psychology of Religion: An Empirical Approach* (4th ed.). Guilford Press.
 3. Lofland, J., & Stark, R. (1965). Becoming a world-saver: A theory of conversion to a deviant perspective. *American Sociological Review*, 30(6), 862-875.
@@ -63,3 +61,4 @@ Zwykle pyta się, czy konwersja jest racjonalna, czy emocjonalna. Lepsze pytanie
 5. McAdams, D. P. (2013). *The Redemptive Self* (revised and expanded ed.). Oxford University Press.
 6. Pew Research Center. (2024). *Around the World, Many People Are Leaving Their Childhood Religions*.
 7. Exline, J. J., & Rose, E. D. (2024). Religious and spiritual struggles in clinical settings. *Current Opinion in Psychology*, 58.
+

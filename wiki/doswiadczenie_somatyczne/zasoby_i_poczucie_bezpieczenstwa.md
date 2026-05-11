@@ -1,4 +1,4 @@
-# Zasoby i poczucie bezpieczenstwa
+﻿# Zasoby i poczucie bezpieczenstwa
 
 ## Wprowadzenie
 
@@ -29,7 +29,9 @@ To wyjaśnia, dlaczego w praktyce klinicznej stabilizacja bywa dłuższa niż sa
 W praktyce klinicznej zasoby nie są „miłym dodatkiem" przed „właściwą terapią". Dla wielu pacjentów są samą terapią podstawową w pierwszych miesiącach pracy. Uporządkowanie snu, rytmu dnia i relacji wsparcia często daje większy efekt funkcjonalny niż wczesna intensywna konfrontacja z traumą.
 Takie podejście jest mniej efektowne, ale zwykle bardziej trwałe. Pacjent uczy się, że bezpieczeństwo nie jest abstraktem, tylko czymś, co można codziennie wzmacniać. To przesuwa terapię z poziomu deklaracji na poziom praktyki.
 
-## Dobra praktyka
+## Praktyczne przykłady
+
+### Dobra praktyka
 
 Przykład dobrej praktyki: terapeuta współtworzy z pacjentem indywidualną mapę zasobów i plan interwencji kryzysowej, który pacjent testuje między sesjami w codziennych sytuacjach.
 Mapa zasobów staje się wtedy narzędziem, a nie jednorazowym ćwiczeniem. Pacjent widzi, co naprawdę działa w jego życiu, a nie tylko w gabinecie. To zwiększa prawdopodobieństwo utrzymania efektu między sesjami.
@@ -39,7 +41,7 @@ Mapa zasobów staje się wtedy narzędziem, a nie jednorazowym ćwiczeniem. Pacj
 Spada liczba epizodów przeciążenia, rośnie samoskuteczność, a pacjent rozwija nawyk wczesnego reagowania na sygnały dysregulacji.
 Zyskuje też większą tolerancję na niepewność, bo wie, że ma dostęp do konkretnych punktów oparcia. To obniża koszt emocjonalny kolejnych kroków terapeutycznych. Długofalowo poprawia stabilność całego procesu leczenia.
 
-## Zła praktyka
+### Zła praktyka
 
 Przykład błędu: redukowanie pracy nad zasobami do jednej „techniki oddechowej" bez uwzględnienia realnych warunków życia pacjenta (przemoc, niestabilność finansowa, brak wsparcia).
 Takie zawężenie bywa kuszące, bo jest szybkie i proste. Nie rozwiązuje jednak problemu środowiskowego, który może stale podtrzymywać napięcie. W efekcie pacjent dostaje narzędzie bez gruntu, na którym mógłby je zastosować.
@@ -54,12 +56,10 @@ Z czasem może to osłabić zaufanie do terapii i zwiększyć rezygnację. Pacje
 W kulturze indywidualizmu zasoby interpretuje się często jako cechę jednostki. Perspektywa kliniczna pokazuje, że regulacja jest współregulacją: jakość więzi, środowisko społeczne i bezpieczeństwo ekonomiczne realnie współtworzą zdolność układu nerwowego do powrotu do równowagi.
 To ważny korektor dla narracji, która sprowadza odporność do „siły charakteru”. W praktyce klinicznej bardziej adekwatne jest pytanie, jakie warunki umożliwiają regulację. Takie pytanie lepiej prowadzi do skutecznej pomocy.
 
-## Podsumowanie
+
 
 Budowanie zasobów i poczucia bezpieczeństwa to fundament skutecznej pracy metodą SE. Im bardziej zasoby są osadzone w codziennym życiu pacjenta, tym trwalsze są efekty terapii i mniejsze ryzyko nawrotów destabilizacji.
-W tym sensie zasoby nie są techniką pomocniczą, ale podstawą leczenia. To one pozwalają przejść od przetrwania do regulacji. Bez nich późniejsze interwencje są zwykle mniej stabilne i mniej bezpieczne.
-
-## Bibliografia
+W tym sensie zasoby nie są techniką pomocniczą, ale podstawą leczenia. To one pozwalają przejść od przetrwania do regulacji. Bez nich późniejsze interwencje są zwykle mniej stabilne i mniej bezpieczne.## Bibliografia
 
 - Herman, J. L. (2015). Trauma and Recovery. Basic Books.
 - Cloitre, M., et al. (2012). The ISTSS Expert Consensus Treatment Guidelines for Complex PTSD.

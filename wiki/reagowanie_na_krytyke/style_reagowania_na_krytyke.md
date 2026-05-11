@@ -1,4 +1,4 @@
-# Style reagowania na krytykę: uległość, kontratak i odpowiedź konstruktywna
+﻿# Style reagowania na krytykę: uległość, kontratak i odpowiedź konstruktywna
 
 ## Wprowadzenie
 Warto podkreślić, że reakcja na krytykę nie jest wyłącznie „cechą charakteru”, ale także wyuczonym nawykiem. Dobra wiadomość jest taka, że nawyki można trenować etapami, zaczynając od krótkich interwencji w codziennych rozmowach.
@@ -43,7 +43,9 @@ Z perspektywy praktycznej oznacza to konieczność pracy na dwóch poziomach nar
 
 W praktyce klinicznej i edukacyjnej same dane nie podejmują decyzji - robi to człowiek, który nadaje im znaczenie. Dlatego kluczowe jest łączenie dowodów naukowych z kontekstem sytuacyjnym, etapem rozwoju i zasobami relacyjnymi uczestników rozmowy.
 
-## Dobra praktyka
+## Praktyczne przykłady
+
+### Dobra praktyka
 Wdrożenie dobrej praktyki jest skuteczniejsze, gdy umawiamy się na konkretne wskaźniki zmiany, np. krótszy czas wygaszania napięcia po trudnej rozmowie. Taka operacjonalizacja ułatwia monitorowanie postępu i korygowanie planu.
 
 **Protokół „PAUZA-3”**:
@@ -60,7 +62,7 @@ W dłuższej perspektywie przekłada się to na większe poczucie sprawstwa i mn
 
 Lepsza regulacja emocji i precyzyjniejsza komunikacja zwiększają przewidywalność współpracy, obniżają koszty konfliktu oraz skracają czas powrotu do zadań merytorycznych.
 
-## Zła praktyka
+### Zła praktyka
 Warto zauważyć, że zła praktyka często wynika nie ze „złej woli”, lecz z braku umiejętności regulacyjnych i presji czasu. Dlatego sama krytyka zachowania bez nauki alternatywy rzadko przynosi trwałą poprawę.
 
 Najczęstszy błąd to „odpowiedź z automatu” - natychmiastowe usprawiedliwianie się albo kontratak, zanim doprecyzujemy treść krytyki.
@@ -83,14 +85,12 @@ Dominujące podejście traktuje odporność na krytykę jako cechę jednostki (�
 
 Innymi słowy: nawet dobrze wyregulowana emocjonalnie osoba może reagować defensywnie w systemie, który nagradza zawstydzanie i niepewność. Dlatego interwencja powinna obejmować zarówno trening jednostki, jak i standardy komunikacyjne zespołu.
 
-## Podsumowanie
+
 W praktyce najwięcej zmienia regularność małych kroków: krótkiej pauzy, doprecyzowania intencji i świadomego wyboru języka odpowiedzi. To właśnie te mikrodecyzje kumulują się w trwałą odporność psychiczną na ocenę.
 
 - Uległość i kontratak redukują napięcie doraźnie, ale zwykle zwiększają koszty długoterminowe.
 - Styl konstruktywny opiera się na regulacji emocji, selekcji informacji i asertywnym dialogu.
-- Skuteczność reagowania na krytykę zależy nie tylko od osoby, lecz także od jakości środowiska relacyjnego.
-
-## Bibliografia
+- Skuteczność reagowania na krytykę zależy nie tylko od osoby, lecz także od jakości środowiska relacyjnego.## Bibliografia
 - Gross, J. J. (2014). Emotion regulation: Conceptual and empirical foundations. In *Handbook of Emotion Regulation* (2nd ed.). Guilford Press.
 
 - Gross, J. J. (2015). Emotion regulation: Current status and future prospects. *Psychological Inquiry*, 26(1), 1–26.
@@ -98,3 +98,5 @@ W praktyce najwięcej zmienia regularność małych kroków: krótkiej pauzy, do
 - Linehan, M. M. (2015). *DBT Skills Training Manual* (2nd ed.). Guilford Press.
 - Rosenberg, M. B. (2015). *Porozumienie bez przemocy*. Czarna Owca.
 - Rock, D. (2008). SCARF: A brain-based model for collaborating with and influencing others. *NeuroLeadership Journal*, 1, 44–52.
+
+

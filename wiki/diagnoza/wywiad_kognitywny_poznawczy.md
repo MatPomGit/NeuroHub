@@ -6,7 +6,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Wywiad kognitywny (poznawczy)
 
-## 1. Wprowadzenie i kontekst
+## 1. Wprowadzenie
 
 Wywiad kognitywny (ang. *cognitive interview*) to zestaw technik przesłuchania/rozmowy diagnostycznej opracowany pierwotnie na potrzeby psychologii zeznań świadków. Celem metody jest **zwiększenie kompletności i trafności przypominania epizodów autobiograficznych** przy możliwie niskim wzroście liczby informacji błędnych. W praktyce klinicznej i opiniodawczej bywa używany jako uzupełnienie klasycznego wywiadu, zwłaszcza gdy istotna jest chronologia zdarzeń i szczegóły kontekstowe.
 
@@ -14,7 +14,7 @@ Kluczowe jest rozróżnienie: wywiad kognitywny **nie jest testem neuropsycholog
 
 ---
 
-## 2. Definicje kluczowych pojęć
+## 2. Definicje
 
 - **Wywiad kognitywny** – ustrukturyzowana procedura rozmowy oparta na prawach pamięci epizodycznej (kodowanie zależne od kontekstu, wielość dróg wydobycia informacji).
 - **Pamięć epizodyczna** – pamięć zdarzeń osadzonych w czasie i miejscu, z komponentem „autonoetycznym” (poczucie ponownego przeżywania).
@@ -83,9 +83,7 @@ Dominująca intuicja zakłada, że „im więcej szczegółów, tym lepiej”. P
 
 Wywiad kognitywny to skuteczna metoda zwiększania kompletności relacji o zdarzeniach, o ile jest stosowana zgodnie z zasadami psychologii pamięci i osadzona w szerszym procesie diagnostycznym. Daje najlepsze efekty, gdy diagnosta łączy techniki wydobywania wspomnień z dyscypliną metodologiczną: neutralnością pytań, oceną pewności informacji i triangulacją źródeł.
 
----
-
-## Bibliografia
+---## Bibliografia
 
 1. Fisher, R. P., & Geiselman, R. E. (1992). *Memory-enhancing techniques for investigative interviewing: The Cognitive Interview*. Charles C Thomas.
 2. Memon, A., Meissner, C. A., & Fraser, J. (2010). The cognitive interview: A meta-analytic review and study space analysis of the past 25 years. *Psychology, Public Policy, and Law, 16*(4), 340–372.

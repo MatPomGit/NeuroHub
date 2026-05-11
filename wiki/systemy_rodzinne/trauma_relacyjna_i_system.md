@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-28
 reviewCycleMonths: 12
 evidenceCutoffDate: 2026-03-31
@@ -10,7 +10,7 @@ evidenceCutoffDate: 2026-03-31
 
 Trauma - doświadczenie przytłaczające zdolność regulacji emocjonalnej jednostki - nigdy nie dzieje się w próżni społecznej. W zdecydowanej większości przypadków najgłębsza trauma ma charakter relacyjny: dzieje się w relacjach z bliskimi (zaniedbanie, przemoc, nadużycia) lub dotyka systemu rodzinnego jako całości (katastrofa, utrata, migracja, choroba terminalna). Połączenie teorii traumy z myśleniem systemowym pozwala zrozumieć, jak traumatyczne doświadczenia jednej osoby lub pokolenia kształtują dynamikę całego systemu rodzinnego - i dlaczego skuteczna pomoc wymaga nierzadko pracy z całą rodziną, a nie tylko z jednostką.
 
-## Definicje kluczowych pojęć
+## Definicje
 
 - **Trauma relacyjna** (*relational trauma*) - trauma wynikająca z doświadczeń w relacjach interpersonalnych, zwłaszcza z opiekunami we wczesnym dzieciństwie; obejmuje zaniedbanie, nadużycia emocjonalne, fizyczne i seksualne.
 - **Złożone PTSD** (*complex PTSD, C-PTSD*) - konsekwencja przewlekłej, powtarzającej się traumy relacyjnej; charakteryzuje się zaburzeniami regulacji emocji, negatywnym obrazem siebie i trudnościami w relacjach interpersonalnych (Herman, 1992; ICD-11).
@@ -37,14 +37,14 @@ Rodzina pełni kluczową rolę regulacyjną: bezpieczne przywiązanie jest bufor
 
 Współczesna terapia traumy rodzinnej integruje podejście skoncentrowane na traumie (TF-CBT, EMDR) z interwencjami systemowymi: pracą z wzorcami przywiązania, poprawą klimatu emocjonalnego rodziny, budowaniem umiejętności regulacji emocji u rodziców, które przekładają się na regulację dzieci. Badania Cohena i in. (2004) wskazują na wysoką skuteczność TF-CBT w pracy z rodzinami z historią przemocy i nadużyć.
 
-## Dobra praktyka
+## Praktyczne przykłady
 
+### Dobra praktyka
 Terapeutka pracuje z matką, która doświadczyła przemocy w rodzinie pochodzenia. Kobieta reaguje silnym lękiem i zamrożeniem na płacz syna - co syn odbiera jako odrzucenie. Terapia obejmuje dwa tory: przetwarzanie traumy matki oraz psychoedukację i ćwiczenie odpowiedzi rodzicielskiej na płacz dziecka w bezpiecznych warunkach. Stopniowo matka zaczyna reagować na potrzeby syna, zamiast dysocjować - a syn przestaje eskalować jako strategię nawiązania kontaktu.
 
 **Konsekwencje:** poprawa bezpieczeństwa przywiązaniowego, zmniejszenie reaktywności matki, lepsza regulacja emocjonalna dziecka.
 
-## Zła praktyka
-
+### Zła praktyka
 Terapia skupia się wyłącznie na indywidualnym przetwarzaniu traumy matki, nie angażując dziecka ani nie oceniając wpływu wzorców matki na dziecko. Po leczeniu matki relacja z synem pozostaje naznaczona wzorcami wypracowanymi przez lata adaptacji - dziecko wciąż funkcjonuje w trybie hiperwigylancji.
 
 **Konsekwencje:** terapia traumy matki nie przekłada się na zmianę systemu relacyjnego; dziecko nie otrzymuje pomocy, której potrzebuje.
@@ -53,11 +53,9 @@ Terapia skupia się wyłącznie na indywidualnym przetwarzaniu traumy matki, nie
 
 Popularne ujęcie traumy transgeneracyjnej często przybiera formę narracji deterministycznej: „jestem skazany na powtarzanie wzorców rodziców". Systemowe i epigenetyczne myślenie o traumie powinno być jednak rozumiane jako opis kontekstu i ryzyka - nie wyroku. Badania nad rezyliencją (Walsh, 2016; Masten, 2014) pokazują, że rodziny traumatyzowane mogą być jednocześnie źródłem głębokiej siły, solidarności i zasobów - zwłaszcza gdy przeszłość jest przepracowana wspólnie, a nie traktowana jako tabu lub wstyd.
 
-## Podsumowanie
 
-Trauma relacyjna i jej systemowe następstwa wymagają podejścia integrującego pracę z jednostką i z rodziną. System rodzinny może być zarówno nośnikiem traumy (przez wzorce przekazywane pokoleniowo), jak i zasobem w jej przetwarzaniu. Skuteczna terapia traumy systemowej zmienia nie tylko jednostkę, lecz klimat emocjonalny i wzorce regulacji całej rodziny - tworząc warunki do przerwania transgeneracyjnej transmisji cierpienia.
 
-## Bibliografia
+Trauma relacyjna i jej systemowe następstwa wymagają podejścia integrującego pracę z jednostką i z rodziną. System rodzinny może być zarówno nośnikiem traumy (przez wzorce przekazywane pokoleniowo), jak i zasobem w jej przetwarzaniu. Skuteczna terapia traumy systemowej zmienia nie tylko jednostkę, lecz klimat emocjonalny i wzorce regulacji całej rodziny - tworząc warunki do przerwania transgeneracyjnej transmisji cierpienia.## Bibliografia
 
 1. Herman, J. L. (1992). *Trauma and Recovery*. Basic Books.
 2. Bowlby, J. (1988). *A Secure Base: Parent-Child Attachment and Healthy Human Development*. Basic Books.
@@ -66,3 +64,5 @@ Trauma relacyjna i jej systemowe następstwa wymagają podejścia integrującego
 5. Masten, A. S. (2014). *Ordinary Magic: Resilience in Development*. Guilford Press.
 6. Cohen, J. A., Mannarino, A. P., & Deblinger, E. (2006). *Treating Trauma and Traumatic Grief in Children and Adolescents*. Guilford Press.
 7. Walsh, F. (2016). *Strengthening Family Resilience* (3rd ed.). Guilford Press.
+
+

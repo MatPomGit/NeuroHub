@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-05-04
 reviewCycleMonths: 18
 evidenceCutoffDate: 2026-03-31
@@ -6,10 +6,10 @@ evidenceCutoffDate: 2026-03-31
 
 # Religia a moralność i etyka postępowania człowieka
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Relacja między religią a moralnością jest jednym z klasycznych tematów psychologii moralnej i psychologii religii. Spór nie dotyczy tylko tego, czy religia wzmacnia zachowania prospołeczne, ale także jak kształtuje motywację moralną: przez lęk przed sankcją, przez identyfikację z normą grupową czy przez uwewnętrznione wartości. W analizie psychologicznej kluczowe jest rozróżnienie między deklaracją moralną a realnym zachowaniem.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Moralność**: system ocen dobra i zła regulujący zachowanie wobec innych i wobec siebie.
 - **Etyka postępowania**: praktyczny sposób wdrażania norm moralnych w codziennych decyzjach.
 - **Internalizacja norm**: proces, w którym reguły grupowe stają się osobistym przekonaniem moralnym.
@@ -42,7 +42,7 @@ W niektórych tradycjach religijnych większy nacisk kładzie się na etykę zas
 ## Praktyczny mini-przykład
 Uczeń deklaruje, że "postępuje moralnie", bo boi się kary i opinii grupy. W programie edukacji etycznej uczy się analizy konsekwencji własnych decyzji oraz perspektywy osoby poszkodowanej. Po kilku miesiącach rośnie jego gotowość do działań prospołecznych także wtedy, gdy nikt go nie obserwuje.
 
-## Dobra praktyka
+## Praktyczne przykłady
 Dobrą praktyką edukacyjną i wychowawczą jest łączenie języka norm religijnych z treningiem myślenia etycznego: analizy dylematów, empatii poznawczej i odpowiedzialności za konsekwencje działań.
 
 **Konsekwencje:** większa dojrzałość moralna, mniejsze ryzyko ślepego konformizmu i wyższa spójność między deklaracją a działaniem.
@@ -60,13 +60,11 @@ Ciekawym zjawiskiem jest również to, że ludzie surowiej oceniają nieetyczne 
 ## Perspektywa nieoczywista
 Pytanie "czy religia czyni ludzi moralnymi" jest zbyt ogólne. Bardziej trafne jest pytanie: jakie typy religijności wzmacniają etykę odpowiedzialności, a jakie etykę tożsamości grupowej. Ta różnica dobrze wyjaśnia, dlaczego religia bywa jednocześnie źródłem altruizmu i konfliktu.
 
-## Podsumowanie
+
 - Religia może wzmacniać moralność, ale wpływ jest warunkowy i zależny od sposobu internalizacji norm.
 - Najkorzystniejsze efekty etyczne pojawiają się tam, gdzie normom towarzyszy refleksja i empatia.
 - Największe ryzyko dotyczy moralności opartej wyłącznie na autorytecie i granicach grupowych.
-- W praktyce edukacyjnej i klinicznej warto łączyć wrażliwość religijną z treningiem rozumowania etycznego.
-
-## Bibliografia
+- W praktyce edukacyjnej i klinicznej warto łączyć wrażliwość religijną z treningiem rozumowania etycznego.## Bibliografia
 1. Haidt, J. (2012). *The Righteous Mind*. Pantheon.
 2. Shariff, A. F., Willard, A. K., Andersen, T., & Norenzayan, A. (2016). Religious priming: A meta-analysis with a focus on prosociality. *Personality and Social Psychology Review*, 20(1), 27-48.
 3. Graham, J., & Haidt, J. (2010). Beyond beliefs: Religions bind individuals into moral communities. *Personality and Social Psychology Review*, 14(1), 140-150.
@@ -76,3 +74,4 @@ Pytanie "czy religia czyni ludzi moralnymi" jest zbyt ogólne. Bardziej trafne j
 7. Pargament, K. I. (2011). *Spiritually Integrated Psychotherapy*. Guilford Press.
 8. Decety, J., Cowell, J. M., Lee, K., et al. (2015). The negative association between religiousness and children's altruism across the world. *Current Biology*, 25(22), 2951-2955.
 9. Saroglou, V. (2013). Religion, spirituality, and altruism. In K. I. Pargament (Ed.), *APA Handbook of Psychology, Religion, and Spirituality*.
+

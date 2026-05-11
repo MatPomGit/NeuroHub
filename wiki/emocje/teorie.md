@@ -36,8 +36,6 @@ Paul Ekman (1972) na podstawie badań transkultowych wyróżnił **6 podstawowyc
 
 ## Konstruktywistyczna teoria emocji
 
-Lisa Feldman Barrett (2017) kwestionuje istnienie dyskretnch emocji biologicznych - emocje są **aktywnie konstruowane** przez mózg z interocepcji, wcześniejszych doświadczeń i kontekstu kulturowego. Emocja to predykcja, nie odczyt stanu ciała.
-
-## Bibliografia
+Lisa Feldman Barrett (2017) kwestionuje istnienie dyskretnch emocji biologicznych - emocje są **aktywnie konstruowane** przez mózg z interocepcji, wcześniejszych doświadczeń i kontekstu kulturowego. Emocja to predykcja, nie odczyt stanu ciała.## Bibliografia
 
 - Do uzupełnienia na podstawie źródeł cytowanych w artykule.

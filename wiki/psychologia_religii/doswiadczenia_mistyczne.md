@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-05-04
 reviewCycleMonths: 18
 evidenceCutoffDate: 2026-03-31
@@ -6,10 +6,10 @@ evidenceCutoffDate: 2026-03-31
 
 # Doświadczenia mistyczne
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Doświadczenia mistyczne należą do najbardziej intrygujących zjawisk badanych na styku psychologii religii, psychologii poznawczej i neuronauki. Klasyczna tradycja opisu tych przeżyć (James) koncentrowała się na ich jakości fenomenologicznej, natomiast współczesna psychologia pyta dodatkowo o ich funkcję regulacyjną, znaczenie dla tożsamości i potencjalne ryzyko kliniczne. W tym opracowaniu oddzielamy dane empiryczne od interpretacji światopoglądowych: psychologia może badać korelaty i konsekwencje przeżyć, ale nie rozstrzyga ich metafizycznego statusu.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Doświadczenie mistyczne**: krótkotrwały lub dłuższy stan świadomości charakteryzujący się poczuciem jedności, przekroczenia zwykłego poczucia Ja, intensywną noetycznością (wrażeniem głębokiego wglądu) i trudnością pełnego ujęcia przeżycia w języku.
 - **Noetyczność**: subiektywne przekonanie, że przeżycie ma walor poznawczy, czyli odsłania istotną prawdę o rzeczywistości lub własnym życiu.
 - **Integracja doświadczenia**: proces włączania przeżycia mistycznego do codziennego funkcjonowania, narracji biograficznej i systemu wartości.
@@ -32,7 +32,7 @@ Badania neuroobrazowe i EEG wskazują na udział sieci związanych z samoreferen
 - Metaanalizy wskazują, że pozytywne skutki psychologiczne są bardziej prawdopodobne, gdy obecne są: bezpieczny kontekst, przygotowanie i wsparcie integracyjne po przeżyciu.
 - W badaniach follow-up część korzystnych efektów (np. wzrost poczucia sensu) utrzymuje się miesiącami, ale ich trwałość silnie zależy od jakości integracji doświadczenia w codziennym życiu.
 
-## Dobra praktyka
+## Praktyczne przykłady
 W praktyce klinicznej i poradnianej dobra procedura obejmuje trzy kroki: spokojny wywiad fenomenologiczny, ocenę bezpieczeństwa (ryzyko psychozy, manii, samouszkodzeń) oraz plan integracji doświadczenia. Specjalista nie dewaluuje przeżycia, ale pomaga pacjentowi oddzielić jego znaczenie egzystencjalne od pochopnych decyzji życiowych podejmowanych pod wpływem silnego afektu.
 
 **Konsekwencje:** większa stabilizacja emocjonalna, mniejsze ryzyko błędnej diagnozy, wyższa szansa, że doświadczenie stanie się zasobem rozwojowym, a nie źródłem dezorganizacji.
@@ -50,13 +50,11 @@ Ciekawym zjawiskiem jest to, że osoby z różnych tradycji religijnych często 
 ## Perspektywa nieoczywista
 W debacie publicznej często pyta się, czy doświadczenie mistyczne jest „prawdziwe” albo „fałszywe”. Z perspektywy psychologii bardziej produktywne jest inne pytanie: czy to doświadczenie zwiększa zdolność do regulacji emocji, odpowiedzialnych decyzji i dojrzałych relacji. Taka zmiana perspektywy przesuwa uwagę z oceny ontologicznej na obserwowalne skutki funkcjonalne.
 
-## Podsumowanie
+
 - Doświadczenia mistyczne są zjawiskiem względnie częstym, lecz wieloznacznym.
 - O ich wartości psychologicznej decyduje przede wszystkim jakość integracji, a nie sama intensywność przeżycia.
 - Badania neurokognitywne dostarczają użytecznych hipotez, ale nie zamykają sporu interpretacyjnego.
-- Najbardziej rzetelne podejście łączy szacunek dla doświadczenia z precyzyjnym różnicowaniem klinicznym.
-
-## Bibliografia
+- Najbardziej rzetelne podejście łączy szacunek dla doświadczenia z precyzyjnym różnicowaniem klinicznym.## Bibliografia
 1. James, W. (1902/2002). *The Varieties of Religious Experience*. Modern Library.
 2. Hood, R. W., Hill, P. C., & Spilka, B. (2009). *The Psychology of Religion: An Empirical Approach* (4th ed.). Guilford Press.
 3. Yaden, D. B., & Newberg, A. B. (2022). The varieties of spiritual experience: 21st century research and perspectives. *Current Opinion in Psychology*, 47.
@@ -64,3 +62,4 @@ W debacie publicznej często pyta się, czy doświadczenie mistyczne jest „pra
 5. Barrett, F. S., Doss, M. K., Sepeda, N. D., et al. (2020). Emotions and brain function are altered up to one month after a single high dose of psilocybin. *Scientific Reports*, 10.
 6. Luhrmann, T. M. (2020). *How God Becomes Real: Kindling the Presence of Invisible Others*. Princeton University Press.
 7. Exline, J. J., & Rose, E. D. (2024). Religious and spiritual struggles in clinical settings. *Current Opinion in Psychology*, 58.
+

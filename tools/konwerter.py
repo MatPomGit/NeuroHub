@@ -37,8 +37,7 @@ REQUIRED_SECTIONS = [
     "Wprowadzenie",
     "Definicje",
     "Analiza",
-    "Dobra praktyka",
-    "Zła praktyka",
+    "Praktyczne przykłady",
     "Perspektywa nieoczywista",
     "Podsumowanie",
     "Bibliografia",
@@ -249,13 +248,19 @@ def build_article_template(
         "### Interpretacje autora",
         "",
         "",
-        "## Dobra praktyka",
+        "### Wytyczne i zalecenia",
+        "",
+        "",
+        "## Praktyczne przykłady",
+        "",
+        "",
+        "### Dobra praktyka",
         "",
         "",
         "### Konsekwencje dobrej praktyki",
         "",
         "",
-        "## Zła praktyka",
+        "### Zła praktyka",
         "",
         "",
         "### Konsekwencje złej praktyki",
@@ -264,7 +269,8 @@ def build_article_template(
         "## Perspektywa nieoczywista",
         "",
         "",
-        "## Podsumowanie",
+        "
+Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.",
         "",
         "",
         "## Bibliografia",
@@ -335,7 +341,7 @@ def run_convert_utf8(start_dir: Path):
                 if convert_to_utf8(filepath):
                     count += 1
 
-    print(f"\nZakończono. Przetworzono {count} plik(ów) .md.")
+    print(f"\nZakończono; przetworzono {count} plik(ów) .md.")
 
 
 def parse_args(argv):

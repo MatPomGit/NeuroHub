@@ -1,6 +1,6 @@
 # Szablon artykuł‚u (APA 7)
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 
 - Krótko opisz tło tematu, jego znaczenie i aktualność.
 - Jeśli podajesz dane liczbowe, dodaj źródło w tekście (Autor, rok).
@@ -37,9 +37,7 @@
  Autor, A. A. (Rok). *Tytuł artykułu. *Tytuł Czasopisma, wolumin*(numer), xx-xx. https://doi.org/xx.xxxx/xxxxx
  Autor, A. A. (Rok). *Tytuł książki* (wydanie). Wydawnictwo.
  Instytucja. (Rok). *Tytuł raportu*. URL
--->
-
-## Bibliografia
+-->## Bibliografia
 
 > Format zgodny z APA 7.
 <!-- Sekcja ## Bibliografia powinna zawsze zamykać artykuł‚. -->

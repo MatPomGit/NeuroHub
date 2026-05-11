@@ -1,4 +1,4 @@
-# Norma rozwojowa a objaw kliniczny: jak odróżniać sygnał od różnorodności
+﻿# Norma rozwojowa a objaw kliniczny: jak odróżniać sygnał od różnorodności
 
 ## Wprowadzenie
 Ten artykuł należy do ścieżki o układzie spiralnym i odpowiada poziomowi **podstawowy**. Celem jest przeprowadzenie czytelnika od intuicyjnego rozumienia tematu do decyzji klinicznych i praktycznych konsekwencji. Opisuję zarówno mocne strony podejść opartych na dowodach, jak i ich ograniczenia.
@@ -15,12 +15,14 @@ Kluczowy mechanizm polega na tym, że ten sam objaw może mieć różne funkcje 
 
 Wniosek praktyczny: najwyższą jakość opieki osiąga się wtedy, gdy łączy się perspektywę objawową (co widać), funkcjonalną (po co to się utrzymuje) i rozwojową (na jakim etapie życia to się dzieje).
 
-## Dobra praktyka
+## Praktyczne przykłady
+
+### Dobra praktyka
 Dobra praktyka polega na zastosowaniu krótkiego cyklu: **hipoteza → pomiar → mikrointerwencja → ewaluacja**. W zespole klinicznym oznacza to precyzyjne cele, monitorowanie postępów i jawne kryteria zmiany planu.
 
 **Konsekwencja**: mniejsze ryzyko błędów poznawczych i większa przewidywalność efektów dla dziecka, rodziny lub zespołu.
 
-## Zła praktyka
+### Zła praktyka
 Złą praktyką jest etykietowanie problemu na podstawie pierwszego silnego wrażenia oraz pomijanie kontekstu relacyjnego i środowiskowego. Częstym błędem jest także „nadinterwencja”, czyli mnożenie technik bez sprawdzenia, co realnie działa.
 
 **Konsekwencja**: utrata zaufania, wzrost kosztów emocjonalnych i ryzyko działań jatrogennych.
@@ -30,12 +32,12 @@ Dominująca narracja często pyta: „jak szybko zredukować objawy?”. Perspek
 
 To przesunięcie akcentu jest uzasadnione danymi z badań procesowych: trwała poprawa częściej wynika z poprawy relacji, poczucia sprawstwa i jakości środowiska niż z samej krótkotrwałej redukcji symptomu.
 
-## Podsumowanie
-Na tym etapie spirali kluczowe jest rozumienie, że rzetelna praktyka wymaga równowagi między wiedzą teoretyczną, pokorą epistemiczną i stałą ewaluacją działań. Najbezpieczniejsze decyzje kliniczne wynikają z pracy hipotezowej i współpracy międzyosobowej.
 
-## Bibliografia
+Na tym etapie spirali kluczowe jest rozumienie, że rzetelna praktyka wymaga równowagi między wiedzą teoretyczną, pokorą epistemiczną i stałą ewaluacją działań. Najbezpieczniejsze decyzje kliniczne wynikają z pracy hipotezowej i współpracy międzyosobowej.## Bibliografia
 - Mash, E. J., & Barkley, R. A. (2014). *Child Psychopathology* (3rd ed.). Guilford Press.
 - Kazdin, A. E. (2017). *Research Design in Clinical Psychology* (5th ed.). Pearson.
 - American Psychiatric Association. (2022). *Diagnostic and Statistical Manual of Mental Disorders* (5th ed., text rev.; DSM-5-TR).
 - World Health Organization. (2022). *ICD-11 Clinical Descriptions and Diagnostic Requirements for Mental, Behavioural and Neurodevelopmental Disorders*.
 - Cicchetti, D. (2016). Developmental psychopathology. In D. Cicchetti (Ed.), *Developmental Psychopathology* (3rd ed.). Wiley.
+
+

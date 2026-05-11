@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-05-09
 reviewCycleMonths: 18
 evidenceCutoffDate: 2026-05-01
@@ -32,14 +32,14 @@ W warunkach oceny społecznej rośnie samomonitorowanie i obciążenie pamięci 
 
 Taki układ zmniejsza chaos poznawczy i poprawia odbiór profesjonalizmu.
 
-## Dobra praktyka
+## Praktyczne przykłady
 
+### Dobra praktyka
 Prelegent na pytanie krytyczne odpowiada: „Rozumiem pytanie jako wątpliwość co do związku przyczynowego. Na tej próbie mamy korelację, nie przyczynowość; najbardziej ostrożny wniosek jest taki...”.
 
 **Konsekwencje:** odbiorcy widzą rzetelność metodologiczną, a dyskusja przesuwa się z personalnej na merytoryczną.
 
-## Zła praktyka
-
+### Zła praktyka
 Prelegent odpowiada impulsywnie, przerywa pytającemu i przedstawia pewne wnioski tam, gdzie dane są niejednoznaczne.
 
 **Konsekwencje:** spadek zaufania, eskalacja napięcia i większe ryzyko błędnych decyzji odbiorców.
@@ -52,13 +52,13 @@ Najtrudniejsze pytania bywają nie zagrożeniem, lecz sygnałem jakości audytor
 - `students/wystapienia_publiczne_autoprezentacja` - psychologia skutecznego przekazu.
 - `spoleczna/perswazja` - mechanizmy wpływu społecznego.
 
-## Podsumowanie
 
-Profesjonalne Q&A to umiejętność regulacji emocji i precyzyjnej argumentacji. Dobre odpowiedzi nie udają wszechwiedzy - pokazują jakość myślenia, transparentność ograniczeń i szacunek dla rozmówcy.
 
-## Bibliografia
+Profesjonalne Q&A to umiejętność regulacji emocji i precyzyjnej argumentacji. Dobre odpowiedzi nie udają wszechwiedzy - pokazują jakość myślenia, transparentność ograniczeń i szacunek dla rozmówcy.## Bibliografia
 
 1. Leary, M. R. (2019). *The Self and Social Anxiety*. Guilford Press.
 2. Sweller, J., Ayres, P., & Kalyuga, S. (2011). *Cognitive Load Theory*. Springer.
 3. Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.
 4. Cialdini, R. B. (2021). *Influence* (New and Expanded). Harper Business.
+
+

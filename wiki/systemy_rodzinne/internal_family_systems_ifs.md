@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-28
 reviewCycleMonths: 12
 evidenceCutoffDate: 2026-03-31
@@ -10,7 +10,7 @@ evidenceCutoffDate: 2026-03-31
 
 Internal Family Systems (IFS) to model terapeutyczny opracowany przez Richarda C. Schwartza w latach osiemdziesiątych XX wieku. Schwartz, pracując początkowo jako terapeuta rodzinny, zaczął dostrzegać, że jego klienci opisują wewnętrzne konflikty w sposób niezwykle zbliżony do dynamiki rodzinnej: różne „głosy" lub „części" walczyły ze sobą o pierwszeństwo, chroniły się nawzajem lub były przez siebie izolowane. Postanowił zastosować do wewnętrznego świata człowieka tę samą logikę, którą stosował do pracy z rodzinami zewnętrznymi. W efekcie powstał model zakładający, że psychika każdego człowieka jest złożoną, wielopoziomową rodziną wewnętrzną.
 
-## Definicje kluczowych pojęć
+## Definicje
 
 - **Części** (*parts*) - względnie odrębne podstruktury psychiki, posiadające własne perspektywy, emocje, przekonania i zamiary; IFS zakłada, że żadna część nie jest z natury „zła", lecz każda pełni jakąś funkcję adaptacyjną.
 - **Wygnańcy** (*exiles*) - części noszące traumę, wstyd i niezaspokojoną potrzebę; zwykle zostały zepchnięte przez inne części do nieświadomości, by chronić system przed przeciążeniem.
@@ -37,14 +37,14 @@ Kluczowy krok w pracy IFS to dotarcie do wygnańca, wysłuchanie jego historii, 
 
 Model IFS zdobył uznanie kliniczne, choć baza dowodów jest mniejsza niż dla terapii CBT czy EMDR. Metaanaliza Haddocka i in. (2017) oraz badania Andersona i in. (2017) wskazują na skuteczność IFS w leczeniu depresji, PTSD i zaburzeń odżywiania. W 2015 roku IFS zostało uznane przez National Registry of Evidence-based Programs and Practices (NREPP) za podejście empirycznie wsparte.
 
-## Dobra praktyka
+## Praktyczne przykłady
 
+### Dobra praktyka
 Terapeuta pracuje z klientką zmagającą się z perfekcjonizmem. Zamiast konfrontować przekonanie „muszę być idealna", zaprasza klientkę do ciekawości wobec tej części: „Co ta część się boi, że stanie się, jeśli pozwoli sobie na błąd?". Stopniowo okazuje się, że menedżer-perfekcjonista chroni wygnańca - dziecięce poczucie bycia fundamentalnie wadliwą. Terapia przesuwa się na poziom tego wygnańca, a perfekcjonizm może z czasem złagodnieć, bo nie potrzebuje już tak intensywnie „chronić".
 
 **Konsekwencje:** głębsza, trwała zmiana w stosunku do siebie; zmniejszenie wewnętrznych konfliktów; lepsza zdolność do popełniania błędów bez zapaści emocjonalnej.
 
-## Zła praktyka
-
+### Zła praktyka
 Terapeuta traktuje „krytyczny głos wewnętrzny" jako wroga, zachęcając klientkę do walki z nim lub ignorowania go. Przekaz brzmi: „ta część ci nie służy, wyłącz ją".
 
 **Konsekwencje:** eskalacja wewnętrznego konfliktu, nasilenie oporności menedżera (bo czuje się zagrożony), brak kontaktu z wygnańcem, pozorny spokój zewnętrzny i niezmieniona dynamika wewnętrzna.
@@ -53,11 +53,9 @@ Terapeuta traktuje „krytyczny głos wewnętrzny" jako wroga, zachęcając klie
 
 IFS stoi w wyraźnej opozycji do redukcjonistycznej psychiatrii biologicznej. Schwartz twierdzi, że wielość wewnętrzna - posiadanie różnych, często sprzecznych głosów - nie jest patologią, lecz naturalną właściwością ludzkiej psychiki. Zamiast dążyć do „jednego spójnego ja", zdrowie psychiczne polega na harmonii wewnętrznej wielości. Ta perspektywa jest nieoczywista, bo kulturowo pożądana jest spójność i konsekwencja, a wewnętrzna ambiwalencja bywa stygmatyzowana. Tymczasem IFS wskazuje, że akceptacja wewnętrznej złożoności jest pierwszym krokiem do jej zintegrowania.
 
-## Podsumowanie
 
-Internal Family Systems oferuje unikalne połączenie teorii systemowej z pracą wewnętrzną i elementami psychologii głębi. Model zakłada, że każda psychika jest zorganizowana jak rodzina - z hierarchiami, sojuszami i wygnaniami - i że zmiana terapeutyczna polega na przywróceniu Jaźni roli lidera tego systemu. Podejście to jest szczególnie wartościowe w pracy z traumą, wstydem i zaburzeniami odżywiania, a jego empiryczna baza systematycznie rośnie.
 
-## Bibliografia
+Internal Family Systems oferuje unikalne połączenie teorii systemowej z pracą wewnętrzną i elementami psychologii głębi. Model zakłada, że każda psychika jest zorganizowana jak rodzina - z hierarchiami, sojuszami i wygnaniami - i że zmiana terapeutyczna polega na przywróceniu Jaźni roli lidera tego systemu. Podejście to jest szczególnie wartościowe w pracy z traumą, wstydem i zaburzeniami odżywiania, a jego empiryczna baza systematycznie rośnie.## Bibliografia
 
 1. Schwartz, R. C. (1995). *Internal Family Systems Therapy*. Guilford Press.
 2. Schwartz, R. C., & Sweezy, M. (2020). *Internal Family Systems Therapy* (2nd ed.). Guilford Press.
@@ -65,3 +63,5 @@ Internal Family Systems oferuje unikalne połączenie teorii systemowej z pracą
 4. Haddock, S. A., Weiler, L. M., Trump, L. J., & Henry, K. L. (2017). The efficacy of Internal Family Systems therapy in the treatment of depression among female college students: A pilot study. *Journal of Marital and Family Therapy, 43*(1), 131–144.
 5. Earley, J. (2009). *Self-Therapy: A Step-by-Step Guide to Creating Wholeness and Healing Your Inner Child Using IFS*. Pattern System Books.
 6. Nichols, M. P., & Davis, S. D. (2020). *Family Therapy: Concepts and Methods* (12th ed.). Pearson.
+
+

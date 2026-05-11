@@ -6,11 +6,11 @@ evidenceCutoffDate: 2026-03-31
 
 # Algorytmy personalizacji a samoocena
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 
 Algorytmy personalizacji porządkują treści na podstawie przewidywanego zaangażowania użytkownika. Z perspektywy psychologicznej oznacza to selekcję bodźców, które częściej aktywują emocje, porównania społeczne i ocenę własnej wartości. W konsekwencji środowisko informacyjne nie jest neutralne: współkształtuje to, jak człowiek widzi siebie.
 
-## Definicje kluczowych pojęć
+## Definicje
 
 - **Algorytm personalizacji** - model rekomendacyjny, który dopasowuje treści do historii zachowań, preferencji i sygnałów kontekstowych użytkownika.
 - **Samoocena** - względnie trwała ocena własnej wartości; może mieć komponent globalny i domenowy.
@@ -43,7 +43,7 @@ Użytkowniczka regularnie „higienizuje” feed: usuwa profile nasilające por�
 
 **Konsekwencje:** zmniejszenie ekspozycji na bodźce obniżające samoocenę, bardziej zrównoważone porównania i większa autonomia poznawcza.
 
-### Zła praktyka (częsty błąd)
+### Zła praktyka
 
 Twórca internetowy ocenia własną wartość wyłącznie przez dzienne metryki zaangażowania i stale modyfikuje zachowanie pod przewidywany gust algorytmu.
 
@@ -53,11 +53,9 @@ Twórca internetowy ocenia własną wartość wyłącznie przez dzienne metryki 
 
 Nieoczywista perspektywa mówi, że algorytmy mogą również **wzmacniać samoocenę**, jeśli są świadomie używane jako narzędzie kuracji środowiska psychologicznego (treści rozwojowe, grupy wsparcia, psychoedukacja). Kluczowym moderatorem nie jest sama technologia, lecz poziom kompetencji cyfrowych i refleksyjność użytkownika. Oznacza to, że interwencje powinny obejmować edukację algorytmiczną, a nie wyłącznie ograniczanie czasu online.
 
-## Podsumowanie
 
-Algorytmy personalizacji wpływają na samoocenę przez selekcję bodźców, sprzężenia zwrotne i normy porównań społecznych. Ryzyko można istotnie ograniczać dzięki świadomemu zarządzaniu feedem, krytycznej analizie wskaźników społecznych i budowaniu samooceny opartej na wartościach wewnętrznych.
 
-## Bibliografia
+Algorytmy personalizacji wpływają na samoocenę przez selekcję bodźców, sprzężenia zwrotne i normy porównań społecznych. Ryzyko można istotnie ograniczać dzięki świadomemu zarządzaniu feedem, krytycznej analizie wskaźników społecznych i budowaniu samooceny opartej na wartościach wewnętrznych.## Bibliografia
 
 1. Fardouly, J., Diedrichs, P. C., Vartanian, L. R., & Halliwell, E. (2015). Social comparisons on social media: The impact of Facebook on young women’s body image concerns and mood. *Body Image*, 13, 38–45.
 2. Kross, E., Verduyn, P., Demiralp, E., et al. (2013). Facebook use predicts declines in subjective well-being in young adults. *PLOS ONE*, 8(8), e69841.
@@ -66,26 +64,3 @@ Algorytmy personalizacji wpływają na samoocenę przez selekcję bodźców, spr
 5. Vogel, E. A., Rose, J. P., Roberts, L. R., & Eckles, K. (2014). Social comparison, social media, and self-esteem. *Psychology of Popular Media Culture*, 3(4), 206–222.
 
 
-## Wprowadzenie
-
-Temat tego artykułu jest istotny dla praktyki psychologicznej, ponieważ łączy perspektywę teoretyczną z codziennymi decyzjami klinicznymi lub edukacyjnymi. W literaturze podkreśla się, że trafne rozumienie zjawiska wymaga uwzględnienia kontekstu biologicznego, społecznego i kulturowego. W niniejszym opracowaniu przyjmujemy podejście oparte na dowodach, oddzielając ustalenia empiryczne od interpretacji. Taki porządek ułatwia ocenę jakości argumentów i ogranicza ryzyko uproszczeń. Dzięki temu czytelnik może przełożyć wiedzę teoretyczną na bardziej świadome działania praktyczne.
-
-
-## Definicje
-
-W tym artykule kluczowe pojęcia są rozumiane w sposób operacyjny, tak aby można je było stosować w badaniach i praktyce. Definicja zjawiska obejmuje zarówno jego kryteria rozpoznania, jak i granice pojęciowe odróżniające je od konstruktów pokrewnych. Warto pamiętać, że część terminów ma kilka konkurencyjnych ujęć, zależnie od szkoły teoretycznej. Dlatego podczas interpretacji wyników należy zawsze wskazać, którą definicję przyjęto i dlaczego. Taka precyzja terminologiczna zwiększa porównywalność danych oraz jakość wnioskowania.
-
-
-## Analiza
-
-Mechanizmy omawianego zjawiska najlepiej wyjaśniać na kilku poziomach: poznawczym, emocjonalnym, behawioralnym i środowiskowym. Dane empiryczne zwykle pokazują, że efekt końcowy wynika z interakcji wielu czynników, a nie z pojedynczej przyczyny. Z perspektywy metodologicznej warto uwzględnić zarówno wyniki badań przekrojowych, jak i podłużnych, ponieważ odpowiadają one na różne pytania. Ograniczeniem bywa heterogeniczność prób i narzędzi pomiarowych, która utrudnia bezpośrednie porównania między badaniami. Mimo tych ograniczeń spójny obraz zjawiska można uzyskać, łącząc dane ilościowe, jakościowe i kliniczne.
-
-
-## Dobra praktyka
-
-Dobrą praktyką jest rozpoczynanie pracy od jasnego celu, kryteriów oceny postępów oraz wspólnego języka używanego przez specjalistę i odbiorcę interwencji. W praktyce oznacza to regularny monitoring efektów, krótkie cykle informacji zwrotnej i gotowość do modyfikacji planu działania. Wysoką skuteczność wspiera także psychoedukacja, która zwiększa poczucie sprawstwa i rozumienie procesu zmiany. Istotne jest ponadto respektowanie granic etycznych oraz uwzględnianie różnic indywidualnych. Konsekwencją takiego podejścia jest większa trwałość rezultatów i mniejsze ryzyko działań pozornych.
-
-
-## Zła praktyka
-
-Częstym błędem jest stosowanie jednego schematu postępowania niezależnie od kontekstu, potrzeb i możliwości danej osoby lub grupy. Problemem bywa również opieranie decyzji na intuicji bez sprawdzania jakości danych i aktualnych rekomendacji. W praktyce prowadzi to do nietrafnych interwencji, spadku motywacji oraz utraty zaufania do procesu wsparcia. Złą praktyką jest także pomijanie czynników systemowych, takich jak warunki środowiskowe czy bariery organizacyjne. Konsekwencje obejmują nie tylko słabsze efekty, ale również ryzyko wtórnej szkody psychologicznej.

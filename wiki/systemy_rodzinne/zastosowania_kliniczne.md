@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-28
 reviewCycleMonths: 12
 evidenceCutoffDate: 2026-03-31
@@ -10,7 +10,7 @@ evidenceCutoffDate: 2026-03-31
 
 Terapia systemowa jest jednym z najlepiej zbadanych empirycznie podejść do problemów psychologicznych osadzonych w kontekście relacyjnym. Metaanalizy obejmujące ponad 50 lat badań klinicznych wykazują jej skuteczność w szerokim spektrum problemów - od zaburzeń zachowania u dzieci i adolescentów, przez uzależnienia, depresję i zaburzenia odżywiania, aż po schizofrenię i choroby somatyczne. Niniejszy artykuł omawia kluczowe obszary zastosowań klinicznych terapii systemowej, główne techniki używane w praktyce oraz aktualny stan wiedzy o jej skuteczności.
 
-## Definicje kluczowych pojęć
+## Definicje
 
 - **Terapia skoncentrowana na rozwiązaniach** (*solution-focused brief therapy, SFBT*) - krótkoterminowe podejście systemowe skupiające się na wyjątkach od problemu i na konstruowaniu pożądanej przyszłości, a nie na analizie przyczyn trudności.
 - **Pytanie o cud** (*miracle question*) - technika SFBT: „Załóżmy, że jutro rano budzisz się i problem zniknął. Skąd wiesz, że tak się stało? Co jest inne?" - prowokuje wyobraźnię rozwiązania zamiast analizy problemu.
@@ -52,14 +52,14 @@ Terapia systemowa może mieć charakter krótkoterminowy (SFBT: 5–10 sesji) lu
 
 Metaanaliza Shadish i Baldwin (2003) obejmująca 163 badania wykazała wielkość efektu *d* = 0.58 dla terapii małżeńskiej i rodzinnej, co klasyfikuje ją jako leczenie skuteczne. Carr (2019) w przeglądzie 94 kontrolowanych badań potwierdza skuteczność terapii systemowej dla dzieci i adolescentów w wielu obszarach klinicznych. Dane wskazują na porównywalną skuteczność z innymi empirycznie wspieranymi podejściami, z dodatkową zaletą zmiany systemowej wykraczającej poza jednostkę.
 
-## Dobra praktyka
+## Praktyczne przykłady
 
+### Dobra praktyka
 Terapeuta prowadzący terapię rodzinną z rodziną, w której 17-latek miał wypadek samochodowy po pijakiej nocy, nie koncentruje się wyłącznie na resocjalizacji nastolatka. Prowadzi sesje rodzinne badające, jakie napięcia w systemie wpłynęły na decyzję chłopca, jakie wzorce komunikacji o ryzyku i odpowiedzialności dominują w rodzinie, i jak całość może się zmienić.
 
 **Konsekwencje:** praca z kontekstem decyzji, zmniejszenie ryzyka nawrotu, wzmocnienie zasobów rodziny.
 
-## Zła praktyka
-
+### Zła praktyka
 Terapeuta stosuje „terapię rodzinną" wyłącznie jako pretekst do edukacji rodziców o problemach dziecka - de facto prowadzi monolog informacyjny, nie angażuje rodziny w zmianę wzorców, nie pracuje z dynamiką relacyjną.
 
 **Konsekwencje:** rodzina nie doświadcza realnej zmiany systemowej; rodzice wychodzą z sesji z poczuciem winy lub defensywnością, nie z nowymi zasobami.
@@ -68,11 +68,9 @@ Terapeuta stosuje „terapię rodzinną" wyłącznie jako pretekst do edukacji r
 
 Terapia systemowa jest często postrzegana jako alternatywa dla farmakoterapii lub leczenia biologicznego. Warto jednak dostrzec jej potencjał jako *uzupełnienia* innych podejść - szczególnie w chorobach przewlekłych, schizofrenii i uzależnieniach, gdzie zmiana kontekstu rodzinnego jest czynnikiem podtrzymującym lub chroniącym. Współczesna psychiatria integracyjna coraz częściej traktuje terapię systemową nie jako „miękkie dodatki", lecz jako istotny komponent kompleksowego leczenia. Ta zmiana perspektywy może dramatycznie poprawić wyniki leczenia w grupach, gdzie samo leczenie biologiczne ma ograniczoną skuteczność.
 
-## Podsumowanie
 
-Zastosowania kliniczne terapii systemowej są szerokie i dobrze udokumentowane empirycznie. Od zaburzeń zachowania adolescentów, przez uzależnienia i zaburzenia odżywiania, aż po depresję i schizofrenię - badania potwierdzają skuteczność podejść systemowych jako samodzielnego lub uzupełniającego narzędzia terapeutycznego. Kluczem do skutecznej pracy jest dopasowanie metody do kontekstu klinicznego, angażowanie całego systemu relacyjnego i praca z dynamiką, która podtrzymuje problem - nie tylko z objawem jednostki.
 
-## Bibliografia
+Zastosowania kliniczne terapii systemowej są szerokie i dobrze udokumentowane empirycznie. Od zaburzeń zachowania adolescentów, przez uzależnienia i zaburzenia odżywiania, aż po depresję i schizofrenię - badania potwierdzają skuteczność podejść systemowych jako samodzielnego lub uzupełniającego narzędzia terapeutycznego. Kluczem do skutecznej pracy jest dopasowanie metody do kontekstu klinicznego, angażowanie całego systemu relacyjnego i praca z dynamiką, która podtrzymuje problem - nie tylko z objawem jednostki.## Bibliografia
 
 1. Shadish, W. R., & Baldwin, S. A. (2003). Meta-analysis of MFT interventions. *Journal of Marital and Family Therapy, 29*(4), 547–570.
 2. Carr, A. (2019). Family therapy and systemic interventions for child-focused problems. *Journal of Family Therapy, 41*(2), 153–213.
@@ -81,3 +79,5 @@ Zastosowania kliniczne terapii systemowej są szerokie i dobrze udokumentowane e
 5. Pharoah, F., Mari, J. J., Rathbone, J., & Wong, W. (2010). Family intervention for schizophrenia. *Cochrane Database of Systematic Reviews*, (12).
 6. Sexton, T. L., & Turner, C. W. (2010). The effectiveness of functional family therapy for youth with behavioral problems in a community practice setting. *Journal of Family Psychology, 24*(3), 339–348.
 7. McDaniel, S. H., Doherty, W. J., & Hepworth, J. (2014). *Medical Family Therapy and Integrated Care* (2nd ed.). American Psychological Association.
+
+

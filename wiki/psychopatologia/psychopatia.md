@@ -1,4 +1,4 @@
-# Psychopatia
+﻿# Psychopatia
 
 ## Wprowadzenie
 
@@ -26,8 +26,9 @@ Najbardziej użyteczna interpretacja traktuje psychopatię jako **wymiar ryzyka*
 
 Druga istotna interpretacja dotyczy etyki: wysoki wynik cech psychopatycznych nie może automatycznie przesądzać o nieuchronności przemocy. Predykcja w psychologii jest probabilistyczna; nadużywanie testów jako „wyroków” metodologicznie i moralnie jest błędem.
 
-## Dobra praktyka
+## Praktyczne przykłady
 
+### Dobra praktyka
 Dobra praktyka obejmuje: (1) diagnozę wielometodową, (2) ostrożną interpretację wyników narzędzi takich jak PCL-R wyłącznie przez przeszkolonych specjalistów, (3) oddzielenie oceny ryzyka od języka moralnej potępiającej etykiety, (4) plan interwencji ukierunkowany na zachowanie, konsekwencje i kontrolę środowiskową.
 
 **Przykład dobrej praktyki:** w jednostce penitencjarnej zespół prowadzi cykliczną ocenę ryzyka (dynamiczne czynniki ryzyka + czynniki ochronne), a decyzje o przepustkach i modułach terapii podejmuje na podstawie trendu danych, nie pojedynczej opinii.
@@ -36,8 +37,7 @@ Dobra praktyka obejmuje: (1) diagnozę wielometodową, (2) ostrożną interpreta
 
 Skutkiem jest wyższa trafność decyzji, niższe ryzyko błędów typu „fałszywie dodatni” (nadmierna restrykcja) i „fałszywie ujemny” (niedoszacowanie zagrożenia), a także większa przejrzystość etyczna procesu.
 
-## Zła praktyka
-
+### Zła praktyka
 Zła praktyka polega na używaniu słowa „psychopata” jako etykiety retorycznej bez diagnozy, na przecenianiu pojedynczych wskaźników testowych oraz na pomijaniu dynamicznych zmian ryzyka w czasie. Błędem jest również przekonanie, że „z psychopatą nie da się pracować”, które bywa usprawiedliwieniem dla rezygnacji z interwencji opartych na dowodach.
 
 **Przykład złej praktyki:** osoba otrzymuje długotrwałe decyzje ograniczające wyłącznie na podstawie historycznego opisu zachowań, bez aktualnej oceny funkcjonowania i bez planu pracy nad czynnikami modyfikowalnymi.
@@ -52,11 +52,9 @@ Nieoczywista perspektywa zakłada, że część cech kojarzonych z psychopatią 
 
 W praktyce badawczej ta perspektywa zachęca do precyzyjnego rozdzielania komponentów konstruktu i analizowania ich oddzielnie. Dzięki temu łatwiej tworzyć interwencje celowane: redukować komponenty szkodliwe (np. instrumentalną agresję), a wzmacniać kontrolę poznawczą i odpowiedzialność społeczną.
 
-## Podsumowanie
 
-Psychopatia to złożony konstrukt wymiarowy, którego nie należy upraszczać do sensacyjnej etykiety. Rzetelna praca wymaga rozdzielenia pojęć (psychopatia, ASPD, zachowania przestępcze), stosowania wystandaryzowanych narzędzi przez kompetentnych diagnostów oraz ciągłej oceny dynamicznego ryzyka. Najlepsze efekty praktyczne daje podejście integrujące neurobiologię, psychologię rozwojową i analizę kontekstu społecznego.
 
-## Bibliografia
+Psychopatia to złożony konstrukt wymiarowy, którego nie należy upraszczać do sensacyjnej etykiety. Rzetelna praca wymaga rozdzielenia pojęć (psychopatia, ASPD, zachowania przestępcze), stosowania wystandaryzowanych narzędzi przez kompetentnych diagnostów oraz ciągłej oceny dynamicznego ryzyka. Najlepsze efekty praktyczne daje podejście integrujące neurobiologię, psychologię rozwojową i analizę kontekstu społecznego.## Bibliografia
 
 1. Hare, R. D. (2003). *Manual for the Revised Psychopathy Checklist* (2nd ed.). Multi-Health Systems.
 2. Patrick, C. J. (Ed.). (2018). *Handbook of Psychopathy* (2nd ed.). Guilford Press.
@@ -64,3 +62,5 @@ Psychopatia to złożony konstrukt wymiarowy, którego nie należy upraszczać d
 4. Blair, R. J. R. (2015). Psychopathic traits from an early developmental perspective. *Development and Psychopathology, 27*(4pt2), 1387-1405.
 5. Salekin, R. T. (2002). Psychopathy and therapeutic pessimism. *Clinical Psychology Review, 22*(1), 79-112.
 6. World Health Organization. (2019/2022). *ICD-11 for Mortality and Morbidity Statistics*.
+
+

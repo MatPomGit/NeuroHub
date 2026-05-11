@@ -117,17 +117,13 @@ Seligman i in. (2005) - wieczorne zapisywanie trzech pozytywnych wydarzeń i ich
 ### Savoring (smakowanie)
 Świadome wydłużanie i wzmacnianie pozytywnych doświadczeń - zatrzymanie się, werbalizacja, dzielenie się z innymi.
 
----
-
-## Literatura
+---## Bibliografia
 
 1. Fredrickson, B. L. (2001). The role of positive emotions in positive psychology: The broaden-and-build theory. *American Psychologist, 56*(3), 218–226.
 2. Fredrickson, B. L. (2009). *Positivity: Groundbreaking Research Reveals How to Embrace the Hidden Strength of Positive Emotions*. Crown.
 3. Pressman, S. D., & Cohen, S. (2005). Does positive affect influence health? *Psychological Bulletin, 131*(6), 925–971.
 4. Cohen, S., Alper, C. M., Doyle, W. J., Treanor, J. J., & Turner, R. B. (2006). Positive emotional style predicts resistance to illness after experimental exposure to rhinovirus or influenza A virus. *Psychosomatic Medicine, 68*(6), 809–815.
 5. Garland, E. L., Fredrickson, B. L., Kring, A. M., Johnson, D. P., Meyer, P. S., & Penn, D. L. (2010). Upward spirals of positive states and coping. *Clinical Psychology Review, 30*(7), 849–864.
-6. Seligman, M. E. P., Steen, T. A., Park, N., & Peterson, C. (2005). Positive psychology progress. *American Psychologist, 60*(5), 410–421.
-
-## Bibliografia
+6. Seligman, M. E. P., Steen, T. A., Park, N., & Peterson, C. (2005). Positive psychology progress. *American Psychologist, 60*(5), 410–421.## Bibliografia
 
 - Do uzupełnienia na podstawie źródeł cytowanych w artykule.

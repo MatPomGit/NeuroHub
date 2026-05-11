@@ -148,11 +148,9 @@ Nieoczywista perspektywa zakłada, że skuteczna autoprezentacja jest przede wsz
 - `students/psycholog_w_it` - prezentacja wyników badań i komunikacja z zespołami technicznymi.
 - `reference/mapa_powiazan_nowe_artykuly` - mapa relacji między nowymi tekstami.
 
-## Podsumowanie
 
-Wystąpienia publiczne to umiejętność oparta na psychologii uwagi, pamięci i regulacji emocji. Najlepsze rezultaty daje połączenie struktury poznawczej, treningu wykonania i świadomej, etycznej autoprezentacji.
 
-## Bibliografia
+Wystąpienia publiczne to umiejętność oparta na psychologii uwagi, pamięci i regulacji emocji. Najlepsze rezultaty daje połączenie struktury poznawczej, treningu wykonania i świadomej, etycznej autoprezentacji.## Bibliografia
 
 1. Schlenker, B. R. (1980). *Impression Management: The Self-Concept, Social Identity, and Interpersonal Relations*. Brooks/Cole.
 2. Leary, M. R., & Kowalski, R. M. (1990). Impression management: A literature review and two-component model. *Psychological Bulletin, 107*(1), 34–47.

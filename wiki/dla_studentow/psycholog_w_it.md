@@ -6,11 +6,11 @@ evidenceCutoffDate: 2026-04-30
 
 # Psycholog w IT: role, kompetencje i granice wpływu
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 
 Rynek technologiczny od kilku lat wyraźnie przesuwa rolę psychologa z obszaru wyłącznie HR w stronę pracy produktowej, badawczej i systemowej. Psycholog jest dziś potrzebny tam, gdzie zespół musi rozumieć zachowanie użytkownika, ograniczać błędy decyzyjne i projektować rozwiązania bezpieczne poznawczo. W praktyce oznacza to udział w UX Research, service design, people analytics, badaniach nad zaufaniem do AI oraz projektowaniu procesów pracy zespołowej.
 
-## Definicje kluczowych pojęć
+## Definicje
 
 - **UX Research** - systematyczne badanie doświadczeń użytkownika z użyciem metod jakościowych i ilościowych.
 - **People Analytics** - analiza danych o pracy i dobrostanie zespołów w celu poprawy decyzji organizacyjnych.
@@ -23,6 +23,7 @@ Rynek technologiczny od kilku lat wyraźnie przesuwa rolę psychologa z obszaru 
 ### 1) Cykl życia produktu: od problemu do decyzji
 
 Największa wartość psychologa nie polega na „opisywaniu emocji użytkownika”, ale na poprawie jakości decyzji w całym cyklu produktu:
+
 1. Definicja problemu (co jest realnym problemem użytkownika, a co hipotezą zespołu).
 2. Operacjonalizacja wskaźników (np. obciążenie poznawcze, błędy, czas wykonania, retencja).
 3. Dobór metody (wywiad, test użyteczności, eksperyment A/B, analiza logów).
@@ -67,7 +68,7 @@ Zespół projektujący aplikację zdrowotną wdraża protokół „evidence gate
 
 **Konsekwencje:** mniej kosztownych iteracji, wyższa trafność priorytetów, lepsza ochrona użytkownika.
 
-### Zła praktyka (częsty błąd)
+### Zła praktyka
 
 Psycholog przedstawia „raport insightów” bez kryteriów jakości danych, bez rozdzielenia faktów od interpretacji i bez planu walidacji.
 
@@ -77,7 +78,8 @@ Psycholog przedstawia „raport insightów” bez kryteriów jakości danych, be
 
 Dominująca narracja mówi, że psycholog w IT „zmiękcza” komunikację i dba o dobrostan. To ważne, ale niepełne. Nieoczywista, a praktycznie użyteczna perspektywa brzmi: psycholog jest **inżynierem jakości inferencji**. Jego rdzeniową kompetencją nie jest tylko empatia, lecz kontrola poprawności wnioskowania z danych o człowieku. W organizacjach o wysokiej dojrzałości ta rola ogranicza koszt błędnych decyzji bardziej niż pojedyncze „miękkie” szkolenia.
 
-## Podsumowanie głównych wniosków
+
+Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu. głównych wniosków
 
 - Psycholog w IT tworzy największą wartość tam, gdzie łączy metodologię naukową z decyzjami produktowymi.
 - Odpowiedzialność etyczna dotyczy nie tylko relacji w zespole, ale też architektury interfejsu i mechanizmów wpływu.
@@ -90,9 +92,7 @@ Dominująca narracja mówi, że psycholog w IT „zmiękcza” komunikację i db
 - `students/wystapienia_publiczne_autoprezentacja`
 - `technology_psychology/technologia_w_pracy`
 - `technology_psychology/algorytmy_a_samoocena`
-- `ethics/etyka_algorytmiczna`
-
-## Bibliografia
+- `ethics/etyka_algorytmiczna`## Bibliografia
 
 1. Lazar, J., Feng, J. H., & Hochheiser, H. (2017). *Research Methods in Human-Computer Interaction* (2nd ed.). Morgan Kaufmann.
 2. Salas, E., Reyes, D. L., & McDaniel, S. H. (2018). The science of teamwork in organizations. *Annual Review of Organizational Psychology and Organizational Behavior, 5*, 1–36.

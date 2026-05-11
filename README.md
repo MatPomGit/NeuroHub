@@ -15,8 +15,7 @@ Polecenie utworzy plik `.md` z wymaganymi sekcjami:
 - Wprowadzenie,
 - Definicje,
 - Analiza,
-- Dobra praktyka,
-- Zła praktyka,
+- Praktyczne przykłady (dobra i zła praktyka),
 - Perspektywa nieoczywista,
 - Podsumowanie,
 - Bibliografia.

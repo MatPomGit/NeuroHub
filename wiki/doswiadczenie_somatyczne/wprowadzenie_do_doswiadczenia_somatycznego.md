@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-20
 reviewCycleMonths: 12
 evidenceCutoffDate: 2026-03-31
@@ -37,14 +37,14 @@ W SE tempo interwencji jest kluczowe. Zbyt szybka aktywacja może nasilić dysoc
 
 W obszarze terapii traumy baza dowodowa ewoluuje dynamicznie, co wymaga regularnej rewizji wniosków praktycznych. Artykuł uwzględnia zarówno literaturę klasyczną, jak i współczesne opracowania, jednak zaleca się systematyczne śledzenie nowych metaanaliz oraz badań porównawczych dotyczących skuteczności i bezpieczeństwa interwencji somatycznych. Oznacza to, że SE należy traktować jako podejście rozwijające się, a nie zamkniętą doktrynę.
 
-## Dobra praktyka
+## Praktyczne przykłady
 
+### Dobra praktyka
 Psychoterapeutka rozpoczyna sesję od stabilizacji oddechu i orientacji w otoczeniu, następnie pracuje z niewielkim fragmentem wspomnienia. Gdy napięcie wzrasta, wraca do zasobów (kontakt z podłożem, punkt skupienia wzroku, świadomy wydech). Ten model nie zakłada szybkiego przejścia do najbardziej bolesnych treści.
 
 **Konsekwencje:** mniejsze ryzyko przestymulowania, większe poczucie kontroli u pacjenta, stopniowa poprawa tolerancji pobudzenia.
 
-## Zła praktyka
-
+### Zła praktyka
 Terapeuta próbuje szybko „przepracować całą traumę” przez intensywne odtwarzanie zdarzenia bez monitorowania reakcji somatycznych. W takiej sytuacji ilość bodźców często przekracza zdolność organizmu do integracji. Sama intensywność nie jest dowodem skuteczności.
 
 **Konsekwencje:** przeciążenie, nasilenie objawów, wzrost unikania terapii i spadek zaufania do procesu.
@@ -61,14 +61,14 @@ Nieoczywiste ujęcie SE mówi, że metoda nie konkuruje z podejściami opartymi 
 - `health_psychology/stres` - fizjologia stresu i regulacja.
 - `reference/mapa_powiazan_nowe_artykuly` - mapa relacji między nowymi tekstami.
 
-## Podsumowanie
 
-Somatic Experiencing to podejście skoncentrowane na przywracaniu elastyczności układu nerwowego po traumie przez pracę z ciałem, tempem i bezpieczeństwem relacyjnym. Największą wartość daje zwykle w modelu integracyjnym, jako element stabilizacji i pogłębionej psychoterapii. W praktyce jego siła polega na tym, że porządkuje proces leczenia wokół regulacji, a nie wokół presji szybkiego opowiadania o traumie.
 
-## Bibliografia
+Somatic Experiencing to podejście skoncentrowane na przywracaniu elastyczności układu nerwowego po traumie przez pracę z ciałem, tempem i bezpieczeństwem relacyjnym. Największą wartość daje zwykle w modelu integracyjnym, jako element stabilizacji i pogłębionej psychoterapii. W praktyce jego siła polega na tym, że porządkuje proces leczenia wokół regulacji, a nie wokół presji szybkiego opowiadania o traumie.## Bibliografia
 
 1. Levine, P. A. (2010). *In an Unspoken Voice: How the Body Releases Trauma and Restores Goodness*. North Atlantic Books.
 2. Payne, P., Levine, P. A., & Crane-Godreau, M. A. (2015). Somatic experiencing: using interoception and proprioception as core elements of trauma therapy. *Frontiers in Psychology, 6*, 93.
 3. Van der Kolk, B. A. (2014). *The Body Keeps the Score*. Viking.
 4. Ogden, P., Minton, K., & Pain, C. (2006). *Trauma and the Body*. W. W. Norton.
 5. Porges, S. W. (2011). *The Polyvagal Theory*. W. W. Norton.
+
+

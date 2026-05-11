@@ -1,4 +1,4 @@
-# Neurobiologia stresu oceny społecznej: dlaczego krytyka potrafi „boleć fizycznie”
+﻿# Neurobiologia stresu oceny społecznej: dlaczego krytyka potrafi „boleć fizycznie”
 
 ## Wprowadzenie
 Ciekawostka kliniczna: część osób najpierw zauważa sygnały ciała (np. napięcie szczęki), a dopiero po chwili identyfikuje emocję - to odwrócona kolejność, która bywa bardzo użyteczna diagnostycznie.
@@ -38,7 +38,9 @@ Z perspektywy praktycznej oznacza to konieczność pracy na dwóch poziomach nar
 
 W praktyce klinicznej i edukacyjnej same dane nie podejmują decyzji - robi to człowiek, który nadaje im znaczenie. Dlatego kluczowe jest łączenie dowodów naukowych z kontekstem sytuacyjnym, etapem rozwoju i zasobami relacyjnymi uczestników rozmowy.
 
-## Dobra praktyka
+## Praktyczne przykłady
+
+### Dobra praktyka
 Wdrożenie dobrej praktyki jest skuteczniejsze, gdy umawiamy się na konkretne wskaźniki zmiany, np. krótszy czas wygaszania napięcia po trudnej rozmowie. Taka operacjonalizacja ułatwia monitorowanie postępu i korygowanie planu.
 
 **Regulacja „od ciała do poznania”**:
@@ -53,7 +55,7 @@ W dłuższej perspektywie przekłada się to na większe poczucie sprawstwa i mn
 
 Lepsza regulacja emocji i precyzyjniejsza komunikacja zwiększają przewidywalność współpracy, obniżają koszty konfliktu oraz skracają czas powrotu do zadań merytorycznych.
 
-## Zła praktyka
+### Zła praktyka
 Warto zauważyć, że zła praktyka często wynika nie ze „złej woli”, lecz z braku umiejętności regulacyjnych i presji czasu. Dlatego sama krytyka zachowania bez nauki alternatywy rzadko przynosi trwałą poprawę.
 
 Błąd: „najpierw odpowiem, potem się uspokoję”.
@@ -74,14 +76,12 @@ Powszechnie zakłada się, że „silny człowiek nie reaguje ciałem na krytyk�
 
 Sygnał z ciała można traktować jak wskaźnik: „moje granice/ważne wartości są uruchomione”. To przekształca krytykę z pola walki w pole diagnozy potrzeb.
 
-## Podsumowanie
+
 W praktyce najwięcej zmienia regularność małych kroków: krótkiej pauzy, doprecyzowania intencji i świadomego wyboru języka odpowiedzi. To właśnie te mikrodecyzje kumulują się w trwałą odporność psychiczną na ocenę.
 
 - Reakcja na krytykę jest jednocześnie poznawcza, emocjonalna i somatyczna.
 - Najskuteczniejsza sekwencja to: regulacja fizjologii → porządkowanie znaczeń → odpowiedź interpersonalna.
-- Wysoka reaktywność nie jest słabością charakteru; to punkt wyjścia do treningu odporności.
-
-## Bibliografia
+- Wysoka reaktywność nie jest słabością charakteru; to punkt wyjścia do treningu odporności.## Bibliografia
 - Gross, J. J. (2014). Emotion regulation: Conceptual and empirical foundations. In *Handbook of Emotion Regulation* (2nd ed.). Guilford Press.
 
 - Dickerson, S. S., & Kemeny, M. E. (2004). Acute stressors and cortisol responses: A theoretical integration. *Psychological Bulletin*, 130(3), 355–391.
@@ -89,3 +89,5 @@ W praktyce najwięcej zmienia regularność małych kroków: krótkiej pauzy, do
 - Porges, S. W. (2011). *The Polyvagal Theory*. Norton.
 - Sapolsky, R. M. (2004). *Why Zebras Don’t Get Ulcers* (3rd ed.). Holt.
 - Williams, K. D. (2007). Ostracism. *Annual Review of Psychology*, 58, 425–452.
+
+

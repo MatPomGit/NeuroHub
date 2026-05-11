@@ -6,11 +6,11 @@ evidenceCutoffDate: 2026-03-31
 
 # FOMO i nomofobia
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 
 Współczesne środowisko cyfrowe wzmacnia dwie pokrewne, lecz odrębne trudności: FOMO (fear of missing out) i nomofobię (lęk przed brakiem dostępu do telefonu). Oba zjawiska są związane z potrzebą przynależności, kontroli i przewidywalności, ale ich przebieg zależy od cech osoby, kontekstu społecznego i wzorca używania technologii.
 
-## Definicje kluczowych pojęć
+## Definicje
 
 - **FOMO** - obawa, że inne osoby doświadczają ważnych wydarzeń, relacji lub informacji, z których jednostka jest wykluczona.
 - **Nomofobia** - lęk lub silny dyskomfort pojawiający się przy braku telefonu, internetu, baterii lub sygnału sieciowego.
@@ -43,7 +43,7 @@ Studentka ustala „okna łączności” (np. co 90 minut; w badaniach nad samor
 
 **Konsekwencje:** niższy poziom napięcia antycypacyjnego, lepsza koncentracja i większe poczucie kontroli nad czasem.
 
-### Zła praktyka (częsty błąd)
+### Zła praktyka
 
 Uczeń śpi z telefonem pod poduszką i reaguje na każdy sygnał nocny, interpretując brak natychmiastowej odpowiedzi jako ryzyko odrzucenia.
 
@@ -53,11 +53,9 @@ Uczeń śpi z telefonem pod poduszką i reaguje na każdy sygnał nocny, interpr
 
 Nieoczywistą, lecz użyteczną perspektywą jest traktowanie FOMO jako **sygnału deficytu jakości relacji**, a nie wyłącznie „uzależnienia od telefonu”. W wielu przypadkach problemem pierwotnym bywa osamotnienie, niska przewidywalność wsparcia lub lęk przed wykluczeniem. Oznacza to, że sama redukcja czasu ekranowego bez pracy nad relacjami i poczuciem bezpieczeństwa społecznego może dawać krótkotrwały efekt.
 
-## Podsumowanie
 
-FOMO i nomofobia są zjawiskami granicznymi między normatywną potrzebą kontaktu a nieadaptacyjną zależnością od stałej łączności. Interwencje najskuteczniejsze łączą psychoedukację, trening regulacji emocji, zmianę środowiska cyfrowego i wzmacnianie relacji offline.
 
-## Bibliografia
+FOMO i nomofobia są zjawiskami granicznymi między normatywną potrzebą kontaktu a nieadaptacyjną zależnością od stałej łączności. Interwencje najskuteczniejsze łączą psychoedukację, trening regulacji emocji, zmianę środowiska cyfrowego i wzmacnianie relacji offline.## Bibliografia
 
 1. Elhai, J. D., Dvorak, R. D., Levine, J. C., & Hall, B. J. (2017). Problematic smartphone use: A conceptual overview and systematic review. *Journal of Affective Disorders, 207*, 251–259. DOI: 10.1016/j.jad.2016.08.030.
 2. Johannes, N., Meier, A., & Kühne, R. (2021). Digital wellbeing and everyday life: Toward measurement-based smartphone use research. *Current Opinion in Psychology, 45*, 101290. DOI: 10.1016/j.copsyc.2021.11.008.

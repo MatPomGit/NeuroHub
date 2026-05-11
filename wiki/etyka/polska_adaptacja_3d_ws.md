@@ -6,13 +6,13 @@ evidenceCutoffDate: 2026-05-10
 
 # Polska adaptacja Trójwymiarowej Skali Mądrości (3D-WS): aspekty etyczne i metodologiczne
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 
 Trójwymiarowa Skala Mądrości (3D-WS, *Three-Dimensional Wisdom Scale*) została opracowana przez Monikę Ardelt jako narzędzie do pomiaru mądrości rozumianej wielowymiarowo: poznawczo, refleksyjnie i afektywnie. Polska adaptacja autorstwa Stanisławy Steuden, Aleksandry Brudek i Piotra Janowskiego (2016) ma szczególne znaczenie nie tylko psychometryczne, ale także etyczne: pozwala prowadzić diagnozę i badania z użyciem narzędzia językowo i kulturowo adekwatnego dla polskich badanych.
 
 Z perspektywy etyki psychologii kluczowe pytanie brzmi: czy wolno interpretować wyniki dotyczące tak wrażliwego konstruktu jak „mądrość” bez dowodów na rzetelność, trafność i równoważność kulturową narzędzia? Odpowiedź metodologiczna i etyczna jest zgodna: nie.
 
-## Definicje kluczowych pojęć
+## Definicje
 
 ### Mądrość (w modelu 3D-WS)
 
@@ -76,11 +76,10 @@ Dominujące podejście traktuje mądrość jako względnie stabilną cechę jedn
 
 Etyczna konsekwencja tej perspektywy jest istotna: niski wynik w danym pomiarze nie musi oznaczać „deficytu osoby”, lecz może odzwierciedlać kontekst stresu, nierówności społecznych lub ograniczony repertuar doświadczeń życiowych. Taka interpretacja sprzyja bardziej sprawiedliwej praktyce diagnostycznej i zmniejsza ryzyko indywidualizowania problemów strukturalnych.
 
-## Podsumowanie głównych wniosków
 
-Polska adaptacja 3D-WS jest ważnym krokiem w kierunku rzetelnego i etycznego pomiaru mądrości w warunkach polskich. Jej wartość nie polega wyłącznie na „technicznym” tłumaczeniu skali, ale na umożliwieniu bardziej adekwatnego i sprawiedliwego wnioskowania o badanych osobach. W praktyce etycznej najważniejsze jest łączenie wyniku 3D-WS z innymi źródłami danych, transparentne komunikowanie ograniczeń oraz unikanie normatywnego etykietowania ludzi na podstawie pojedynczego wskaźnika.
+Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu. głównych wniosków
 
-## Bibliografia
+Polska adaptacja 3D-WS jest ważnym krokiem w kierunku rzetelnego i etycznego pomiaru mądrości w warunkach polskich. Jej wartość nie polega wyłącznie na „technicznym” tłumaczeniu skali, ale na umożliwieniu bardziej adekwatnego i sprawiedliwego wnioskowania o badanych osobach. W praktyce etycznej najważniejsze jest łączenie wyniku 3D-WS z innymi źródłami danych, transparentne komunikowanie ograniczeń oraz unikanie normatywnego etykietowania ludzi na podstawie pojedynczego wskaźnika.## Bibliografia
 
 1. Ardelt, M. (2003). Empirical assessment of a three-dimensional wisdom scale. *Research on Aging, 25*(3), 275–324. https://doi.org/10.1177/0164027503025003004
 2. Steuden, S., Brudek, A., & Janowski, P. (2016). Polska adaptacja Trójwymiarowej Skali Mądrości (3D-WS) Moniki Ardelt. *Roczniki Psychologiczne, 19*(4), 709–728. https://www.kul.pl/files/1479/194/roczniki_psychologiczne_t._19_nr_4_pl._art._s._steuden.pdf

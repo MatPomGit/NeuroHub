@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-20
 reviewCycleMonths: 24
 evidenceCutoffDate: 2026-04-20
@@ -51,13 +51,11 @@ Często zakładamy, że „dojrzały człowiek powinien umieć przyjąć każdą
 
 Z perspektywy jakości dowodów najbardziej adaptacyjne są dwa równoległe procesy: otwartość na dane i ochrona integralności Ja. Innymi słowy: „uczę się z informacji, ale nie oddaję każdemu prawa do definiowania mojej wartości”.
 
-## Podsumowanie
+
 - Opinie innych to dane o świecie społecznym, nie automatyczne fakty o tobie.
 - Kluczowa umiejętność to rozdzielenie treści użytecznej od projekcji i etykiet.
 - „Nie brać do siebie” oznacza regulować i filtrować, a nie tłumić emocje.
-- Najskuteczniejsza strategia: konkret, granice, jedno działanie naprawcze, powrót do wartości i celów.
-
-## Bibliografia
+- Najskuteczniejsza strategia: konkret, granice, jedno działanie naprawcze, powrót do wartości i celów.## Bibliografia
 1. Beck, J. S. (2020). *Cognitive Behavior Therapy: Basics and Beyond* (3rd ed.). Guilford Press.
 2. Linehan, M. M. (2015). *DBT Skills Training Manual* (2nd ed.). Guilford Press.
 3. Neff, K. D. (2011). Self-compassion, self-esteem, and well-being. *Social and Personality Psychology Compass*, 5(1), 1–12.
@@ -65,11 +63,13 @@ Z perspektywy jakości dowodów najbardziej adaptacyjne są dwa równoległe pro
 5. Gilbert, P. (2010). *Compassion Focused Therapy*. Routledge.
 
 
-## Dobra praktyka
+## Praktyczne przykłady
 
+### Dobra praktyka
 Dobrą praktyką jest rozpoczynanie pracy od jasnego celu, kryteriów oceny postępów oraz wspólnego języka używanego przez specjalistę i odbiorcę interwencji. W praktyce oznacza to regularny monitoring efektów, krótkie cykle informacji zwrotnej i gotowość do modyfikacji planu działania. Wysoką skuteczność wspiera także psychoedukacja, która zwiększa poczucie sprawstwa i rozumienie procesu zmiany. Istotne jest ponadto respektowanie granic etycznych oraz uwzględnianie różnic indywidualnych. Konsekwencją takiego podejścia jest większa trwałość rezultatów i mniejsze ryzyko działań pozornych.
 
 
-## Zła praktyka
-
+### Zła praktyka
 Częstym błędem jest stosowanie jednego schematu postępowania niezależnie od kontekstu, potrzeb i możliwości danej osoby lub grupy. Problemem bywa również opieranie decyzji na intuicji bez sprawdzania jakości danych i aktualnych rekomendacji. W praktyce prowadzi to do nietrafnych interwencji, spadku motywacji oraz utraty zaufania do procesu wsparcia. Złą praktyką jest także pomijanie czynników systemowych, takich jak warunki środowiskowe czy bariery organizacyjne. Konsekwencje obejmują nie tylko słabsze efekty, ale również ryzyko wtórnej szkody psychologicznej.
+
+

@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-05-04
 reviewCycleMonths: 18
 evidenceCutoffDate: 2026-03-31
@@ -6,10 +6,10 @@ evidenceCutoffDate: 2026-03-31
 
 # Rozwój religijności
 
-## Wprowadzenie i kontekst
+## Wprowadzenie
 Rozwój religijności to długotrwały proces, w którym zmieniają się przekonania, praktyki, emocje religijne i funkcja wiary w codziennym życiu. Współczesne badania odchodzą od modelu liniowego, zakładającego nieuchronny wzrost lub spadek religijności z wiekiem. Coraz częściej mówi się o trajektoriach: okresach stabilizacji, kryzysu, rekonfiguracji i ponownej integracji. Taki obraz lepiej odpowiada danym podłużnym i obserwacjom klinicznym.
 
-## Definicje kluczowych pojęć
+## Definicje
 - **Rozwój religijności**: zmiana jakości i funkcji religijności w czasie życia, a nie tylko zmiana jej nasilenia.
 - **Religijność wewnętrzna**: orientacja, w której wiara stanowi zintegrowaną część tożsamości i systemu wartości.
 - **Religijność zewnętrzna**: orientacja, w której praktyki religijne pełnią głównie funkcje społeczne, statusowe lub instrumentalne.
@@ -32,7 +32,7 @@ Religijność rozwija się w sieci relacji: rodzina, rówieśnicy, wspólnota, m
 - W wielu społeczeństwach obserwuje się spadek regularnych praktyk instytucjonalnych przy równoczesnym utrzymaniu deklaracji duchowości, co sugeruje reorganizację form religijności, a nie jej prosty zanik.
 - Analizy podłużne pokazują, że stabilna religijność wewnętrzna częściej wiąże się z wyższym poczuciem sensu i lepszą regulacją stresu niż religijność oparta wyłącznie na presji społecznej.
 
-## Dobra praktyka
+## Praktyczne przykłady
 W edukacji, duszpasterstwie i poradnictwie warto traktować pytania i wątpliwości jako naturalny element rozwoju, a nie jako automatyczny sygnał "kryzysu wiary". Dobrze działają podejścia, które łączą psychoedukację rozwojową z dialogiem i autonomią poznawczą.
 
 **Konsekwencje:** większa dojrzałość tożsamościowa, mniejsze ryzyko polaryzacji światopoglądowej, trwalsza integracja wartości z codziennym działaniem.
@@ -50,13 +50,11 @@ W części badań podłużnych taki "powrót" pojawia się po dużych wydarzenia
 ## Perspektywa nieoczywista
 Rozwój religijności nie musi oznaczać ruchu "więcej lub mniej religii". Często jest to przejście od religijności reprodukowanej społecznie do religijności refleksyjnej, bardziej świadomej swoich granic i zasobów. Taka perspektywa pozwala lepiej rozumieć zjawiska, które w debacie publicznej wyglądają jak prosta sekularyzacja.
 
-## Podsumowanie
+
 - Rozwój religijności ma charakter dynamiczny i nieliniowy.
 - Kluczowe są interakcje między rozwojem poznawczym, relacjami i wydarzeniami życiowymi.
 - Pomiar oparty wyłącznie na częstości praktyk jest metodologicznie niewystarczający.
-- Najbardziej adaptacyjne trajektorie łączą autonomię refleksji z osadzeniem społecznym.
-
-## Bibliografia
+- Najbardziej adaptacyjne trajektorie łączą autonomię refleksji z osadzeniem społecznym.## Bibliografia
 1. Fowler, J. W. (1981). *Stages of Faith*. Harper & Row.
 2. King, P. E., & Boyatzis, C. J. (2015). Religious and spiritual development. In M. E. Lamb (Ed.), *Handbook of Child Psychology and Developmental Science* (7th ed.). Wiley.
 3. Granqvist, P. (2020). *Attachment, Religion, and Spirituality: A Wider View*. Guilford Press.
@@ -64,3 +62,4 @@ Rozwój religijności nie musi oznaczać ruchu "więcej lub mniej religii". Czę
 5. Pew Research Center. (2024). *Around the World, Many People Are Leaving Their Childhood Religions*.
 6. Koenig, H. G. (2023). Religion, spirituality, and mental health: An updated review. *International Review of Psychiatry*, 35(7-8), 583-599.
 7. Hill, P. C., et al. (2021). Methodological challenges in the psychology of religion. *Archive for the Psychology of Religion*, 43(3), 187-205.
+

@@ -101,13 +101,11 @@ Hazel Markus i Shinobu Kitayama (1991) opisali dwa kulturowo uwarunkowane modele
 
 Badania replikacyjne (np. Oyserman i in., 2002) potwierdzają te różnice, choć wskazują na duże zróżnicowanie wewnątrzkulturowe.
 
-## Podsumowanie
+
 
 Ja i samoocena to wielowymiarowe konstrukty łączące procesy poznawcze, emocjonalne i społeczne. Globalna samoocena (Rosenberg), poczucie skuteczności (Bandura) i teoria socjometru (Leary) dostarczają komplementarnych perspektyw. Autoprezentacja (Goffman) wskazuje, że obraz siebie jest zawsze negocjowany w kontekście społecznym, a różnice kulturowe (Markus & Kitayama) przypominają, że nawet tak podstawowe doświadczenie jak „poczucie siebie" jest częściowo konstruktem kulturowym.
 
----
-
-## Literatura
+---## Bibliografia
 
 - Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review, 84*(2), 191–215.
 - Baumeister, R. F. (1998). The self. W: D. T. Gilbert, S. T. Fiske & G. Lindzey (red.), *The Handbook of Social Psychology* (t. 1, s. 680–740). McGraw-Hill.
@@ -118,38 +116,21 @@ Ja i samoocena to wielowymiarowe konstrukty łączące procesy poznawcze, emocjo
 - Markus, H., & Nurius, P. (1986). Possible selves. *American Psychologist, 41*(9), 954–969.
 - Rosenberg, M. (1965). *Society and the Adolescent Self-Image*. Princeton University Press.
 
-
-## Wprowadzenie
-
-Temat tego artykułu jest istotny dla praktyki psychologicznej, ponieważ łączy perspektywę teoretyczną z codziennymi decyzjami klinicznymi lub edukacyjnymi. W literaturze podkreśla się, że trafne rozumienie zjawiska wymaga uwzględnienia kontekstu biologicznego, społecznego i kulturowego. W niniejszym opracowaniu przyjmujemy podejście oparte na dowodach, oddzielając ustalenia empiryczne od interpretacji. Taki porządek ułatwia ocenę jakości argumentów i ogranicza ryzyko uproszczeń. Dzięki temu czytelnik może przełożyć wiedzę teoretyczną na bardziej świadome działania praktyczne.
-
-
-## Definicje
-
-W tym artykule kluczowe pojęcia są rozumiane w sposób operacyjny, tak aby można je było stosować w badaniach i praktyce. Definicja zjawiska obejmuje zarówno jego kryteria rozpoznania, jak i granice pojęciowe odróżniające je od konstruktów pokrewnych. Warto pamiętać, że część terminów ma kilka konkurencyjnych ujęć, zależnie od szkoły teoretycznej. Dlatego podczas interpretacji wyników należy zawsze wskazać, którą definicję przyjęto i dlaczego. Taka precyzja terminologiczna zwiększa porównywalność danych oraz jakość wnioskowania.
-
-
-## Analiza
-
-Mechanizmy omawianego zjawiska najlepiej wyjaśniać na kilku poziomach: poznawczym, emocjonalnym, behawioralnym i środowiskowym. Dane empiryczne zwykle pokazują, że efekt końcowy wynika z interakcji wielu czynników, a nie z pojedynczej przyczyny. Z perspektywy metodologicznej warto uwzględnić zarówno wyniki badań przekrojowych, jak i podłużnych, ponieważ odpowiadają one na różne pytania. Ograniczeniem bywa heterogeniczność prób i narzędzi pomiarowych, która utrudnia bezpośrednie porównania między badaniami. Mimo tych ograniczeń spójny obraz zjawiska można uzyskać, łącząc dane ilościowe, jakościowe i kliniczne.
-
-
-## Dobra praktyka
-
-Dobrą praktyką jest rozpoczynanie pracy od jasnego celu, kryteriów oceny postępów oraz wspólnego języka używanego przez specjalistę i odbiorcę interwencji. W praktyce oznacza to regularny monitoring efektów, krótkie cykle informacji zwrotnej i gotowość do modyfikacji planu działania. Wysoką skuteczność wspiera także psychoedukacja, która zwiększa poczucie sprawstwa i rozumienie procesu zmiany. Istotne jest ponadto respektowanie granic etycznych oraz uwzględnianie różnic indywidualnych. Konsekwencją takiego podejścia jest większa trwałość rezultatów i mniejsze ryzyko działań pozornych.
-
-
-## Zła praktyka
-
-Częstym błędem jest stosowanie jednego schematu postępowania niezależnie od kontekstu, potrzeb i możliwości danej osoby lub grupy. Problemem bywa również opieranie decyzji na intuicji bez sprawdzania jakości danych i aktualnych rekomendacji. W praktyce prowadzi to do nietrafnych interwencji, spadku motywacji oraz utraty zaufania do procesu wsparcia. Złą praktyką jest także pomijanie czynników systemowych, takich jak warunki środowiskowe czy bariery organizacyjne. Konsekwencje obejmują nie tylko słabsze efekty, ale również ryzyko wtórnej szkody psychologicznej.
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
+Nieoczywista perspektywa na temat "Ja i samoocena" polega na tym, że wiele zjawisk społecznych wydaje się cechą jednostki, choć w rzeczywistości jest produktem norm, sytuacji i architektury relacji.
 
+Dopiero wspólna analiza zagadnień takich jak struktura ja, autoprezentacja - goffman oraz kulturowe różnice w pojęciu ja pokazuje pełny zakres omawianego zjawiska.
 
-## Bibliografia
+Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+
+## Podsumowanie
+
+Temat "Ja i samoocena" pokazuje, że najważniejsze jest analizowanie jednocześnie procesów indywidualnych i warunków społecznych, które wzmacniają określone zachowania lub przekonania.
+
+W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+
+Dopiero wspólna analiza zagadnień takich jak struktura ja, autoprezentacja - goffman oraz kulturowe różnice w pojęciu ja pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

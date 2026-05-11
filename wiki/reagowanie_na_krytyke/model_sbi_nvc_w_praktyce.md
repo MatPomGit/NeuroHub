@@ -1,4 +1,4 @@
-# Model SBI i NVC w praktyce: jak odpowiadać na krytykę bez eskalacji
+﻿# Model SBI i NVC w praktyce: jak odpowiadać na krytykę bez eskalacji
 
 ## Wprowadzenie
 Warto podkreślić, że reakcja na krytykę nie jest wyłącznie „cechą charakteru”, ale także wyuczonym nawykiem. Dobra wiadomość jest taka, że nawyki można trenować etapami, zaczynając od krótkich interwencji w codziennych rozmowach.
@@ -36,7 +36,9 @@ Z perspektywy praktycznej oznacza to konieczność pracy na dwóch poziomach nar
 
 W praktyce klinicznej i edukacyjnej same dane nie podejmują decyzji - robi to człowiek, który nadaje im znaczenie. Dlatego kluczowe jest łączenie dowodów naukowych z kontekstem sytuacyjnym, etapem rozwoju i zasobami relacyjnymi uczestników rozmowy.
 
-## Dobra praktyka
+## Praktyczne przykłady
+
+### Dobra praktyka
 Wdrożenie dobrej praktyki jest skuteczniejsze, gdy umawiamy się na konkretne wskaźniki zmiany, np. krótszy czas wygaszania napięcia po trudnej rozmowie. Taka operacjonalizacja ułatwia monitorowanie postępu i korygowanie planu.
 
 ### Przykład łączony SBI + NVC
@@ -49,7 +51,7 @@ W dłuższej perspektywie przekłada się to na większe poczucie sprawstwa i mn
 
 Lepsza regulacja emocji i precyzyjniejsza komunikacja zwiększają przewidywalność współpracy, obniżają koszty konfliktu oraz skracają czas powrotu do zadań merytorycznych.
 
-## Zła praktyka
+### Zła praktyka
 Warto zauważyć, że zła praktyka często wynika nie ze „złej woli”, lecz z braku umiejętności regulacyjnych i presji czasu. Dlatego sama krytyka zachowania bez nauki alternatywy rzadko przynosi trwałą poprawę.
 
 Błąd: używanie modeli jako „grzecznej broni”, np. formalnie poprawny komunikat z ukrytą pogardą.
@@ -70,19 +72,19 @@ NVC bywa krytykowane jako „zbyt miękkie”, a SBI jako „zbyt korporacyjne�
 
 W sytuacjach wysokiej asymetrii władzy (np. przełożony–stażysta) sama technika nie wystarczy; potrzebne są procedury bezpieczeństwa psychologicznego, jasne standardy i możliwość odwołania.
 
-## Podsumowanie
+
 **Ciekawostka wdrożeniowa:** zespoły, które ćwiczą krótkie skrypty rozmowy (2–3 minuty), szybciej automatyzują nawyk parafrazy i pytań doprecyzowujących niż zespoły uczące się wyłącznie teorii.
 
 W praktyce najwięcej zmienia regularność małych kroków: krótkiej pauzy, doprecyzowania intencji i świadomego wyboru języka odpowiedzi. To właśnie te mikrodecyzje kumulują się w trwałą odporność psychiczną na ocenę.
 
 - SBI i NVC najlepiej działają łącznie: precyzja + relacyjność.
 - Modele nie zastąpią intencji współpracy, ale znacząco zwiększają jej szanse.
-- W środowiskach z nierównowagą władzy techniki komunikacyjne powinny być wsparte rozwiązaniami systemowymi.
-
-## Bibliografia
+- W środowiskach z nierównowagą władzy techniki komunikacyjne powinny być wsparte rozwiązaniami systemowymi.## Bibliografia
 - Gross, J. J. (2014). Emotion regulation: Conceptual and empirical foundations. In *Handbook of Emotion Regulation* (2nd ed.). Guilford Press.
 
 - Gallo, A. (2017). *HBR Guide to Dealing with Conflict*. Harvard Business Review Press.
 - Rosenberg, M. B. (2015). *Porozumienie bez przemocy*. Czarna Owca.
 - Stone, D., Patton, B., & Heen, S. (2010). *Thanks for the Feedback*. Viking.
 - Sutton, R. I. (2010). *Good Boss, Bad Boss*. Business Plus.
+
+

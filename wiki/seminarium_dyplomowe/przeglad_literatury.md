@@ -110,17 +110,13 @@ Nie referuj artykułów jeden po drugim. Grupuj je **tematycznie lub problemowo*
 >
 > **Przykład dobrego podejścia:** „Liczne badania wskazują, że lęk separacyjny wiąże się z pozabezpiecznym stylem przywiązania (Smith, 2015; Jones, 2017), przy czym efekt ten jest silniejszy u chłopców niż u dziewcząt (Brown, 2019)."
 
-## Podsumowanie
+
 
 Dobry przegląd literatury jest systematyczny, krytyczny i syntetyczny. Nie jest katalogiem artykułów - jest argumentem budowanym z wiedzy innych, który prowadzi do pytania badawczego. Czas inwestowany w rzetelny przegląd literaturowy procentuje na każdym kolejnym etapie pracy.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

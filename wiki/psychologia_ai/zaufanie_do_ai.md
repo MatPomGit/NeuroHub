@@ -115,17 +115,13 @@ Rozumienie psychologii zaufania ma bezpośrednie konsekwencje dla projektowania 
 - Organizacje wdrażające AI powinny inwestować w edukację użytkowników
 - Polityki AI powinny uwzględniać różnice kulturowe w zaufaniu
 
-## Podsumowanie
+
 
 Zaufanie do AI jest jednym z centralnych wyzwań psychologicznych naszych czasów. Ani bezkrytyczne zaufanie, ani irracjonalna nieufność nie służą ani jednostce, ani społeczeństwu. Celem jest właściwa kalibracja - oparta na zrozumieniu realnych możliwości i ograniczeń systemów AI. Osiągnięcie tego celu wymaga współpracy projektantów, psychologów, edukatorów i polityków.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

@@ -68,17 +68,13 @@ Wyniki tych narzędzi muszą być zawsze interpretowane w kontekście całości 
 
 W opiniowaniu nieletnich stosuje się adaptowane wersje testów (np. WISC-V dla dzieci, Conners dla ADHD) oraz specjalne narzędzia: **Vineland Adaptive Behavior Scales** (ocena adaptacyjna), **ADOS-2** (diagnostyka ASD), **CBCL** (Child Behavior Checklist).
 
-## Podsumowanie
+
 
 Rzetelny dobór narzędzi diagnostycznych w opiniowaniu sądowym wymaga głębokiej znajomości psychometrii, metodologii forensycznej i specyfiki poszczególnych pytań prawnych. Biegły powinien stosować zawsze triangulację metod i dokumentować każdy etap procesu diagnostycznego.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

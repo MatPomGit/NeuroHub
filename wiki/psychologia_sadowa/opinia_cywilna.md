@@ -55,17 +55,13 @@ Opiniowanie cywilne rodzi specyficzne dylematy etyczne. W sprawach odszkodowawcz
 
 Rzetelne opiniowanie wymaga tu połączenia empatii klinicznej (rozumienie cierpienia i perspektywy badanego) z rygorystyczną metodologią oceny (triangulacja źródeł, ocena symulacji, testy kontrolne ważności wyników).
 
-## Podsumowanie
+
 
 Opiniowanie w sprawach cywilnych obejmuje niezwykle zróżnicowane pytania - od zdolności testamentowej przez szkody odszkodowawcze po ubezwłasnowolnienie. Wspólnym mianownikiem jest konieczność precyzyjnej, udokumentowanej i osadzonej w realiach prawnych oceny funkcjonowania psychicznego, której wyniki mają konkretne konsekwencje majątkowe i osobiste dla uczestników postępowania.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

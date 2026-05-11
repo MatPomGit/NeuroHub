@@ -125,17 +125,13 @@ Pomimo obiecujących wyników, terapeutyczne zastosowania gier mają istotne ogr
 - **Standartyzacja**: trudność z replikacją wyników przy różnym sprzęcie i oprogramowaniu
 - **Kwalifikacje terapeutów**: wymagana jest specyficzna wiedza techniczna
 
-## Podsumowanie
+
 
 Gry wideo i wirtualna rzeczywistość otwierają fascynujące możliwości terapeutyczne i rehabilitacyjne. VRET w leczeniu fobii i PTSD, gamifikacja adherencji zdrowotnej, gry rehabilitacyjne po udarze i rehabilitacja poznawcza z użyciem platform gamingowych - to obszary z rosnącą bazą dowodową. Klinicyści powinni być świadomi tych możliwości i rozważać ich włączenie do repertuaru interwencji, szczególnie u pacjentów, dla których tradycyjne metody są mniej dostępne lub akceptowalne.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

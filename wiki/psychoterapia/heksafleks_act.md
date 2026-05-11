@@ -272,7 +272,7 @@ Hayes i współpracownicy zwracają uwagę, że:
 - MPFI (Rolffs i in., 2018) poprawia pomiar poszczególnych procesów;
 - Badania mediacyjne (Gloster i in., 2020) potwierdzają, że mechanizmy zmian są zgodne z teorią ACT.
 
-## Podsumowanie
+
 
 Heksafleks ACT jest jednym z najbardziej teoretycznie spójnych i empirycznie zbadanych modeli psychopatologii i terapii w ramach trzeciej fali terapii behawioralnych. Integruje six wzajemnie powiązanych procesów - akceptację, defuzję, kontakt z chwilą obecną, Obserwujące Ja, klaryfikację wartości i zaangażowane działanie - w unified model elastyczności psychologicznej. Jego siłą jest zarówno precyzja teoretyczna (zakorzeniona w RFT), jak i bogata toolbox technik klinicznych, dostępnych dla terapeutów z różnych orientacji. Baza empiryczna, choć rozwijana, wskazuje na skuteczność ACT w szerokim spektrum zaburzeń, ze szczególną mocą w bólu przewlekłym, depresji i zaburzeniach lękowych.
 
@@ -289,13 +289,9 @@ Heksafleks ACT jest jednym z najbardziej teoretycznie spójnych i empirycznie zb
 - Fang, S., & Ding, D. (2020). A meta-analysis of the efficacy of acceptance and commitment therapy for chronic pain. *Journal of Contextual Behavioral Science, 15*, 225–234.
 - Luoma, J. B., Hayes, S. C., & Walser, R. D. (2017). *Learning ACT: An Acceptance and Commitment Therapy Skills-Training Manual for Therapists* (2nd ed.). New Harbinger.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

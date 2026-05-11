@@ -69,17 +69,13 @@ Rehabilitacja jest najskuteczniejsza w zespołach złożonych z: psychologa, fiz
 
 Kobieta po udarze mózgu z prawostronnym niedowładem i łagodną afazją. Plan rehabilitacji psychologicznej: trening pamięci operacyjnej (3×/tydzień), psychoterapia lęku (8 sesji CBT), trening komunikacji z rodziną, stopniowy powrót do pracy biurowej w wymiarze ½ etatu po 6 miesiącach.
 
-## Podsumowanie
+
 
 Rehabilitacja psychologiczna w kontekście niepełnosprawności jest procesem wielofazowym, wymagającym indywidualizacji i współpracy interdyscyplinarnej. Jej celem nie jest „naprawienie" osoby, lecz wspieranie jej w budowaniu satysfakcjonującego życia w rzeczywistości, która uległa zmianie.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

@@ -41,17 +41,13 @@ Test Stroopa jest stosowany:
 - Potrzebne są normy odpowiednie dla populacji.
 - Pojedynczy test nie powinien być jedyną podstawą diagnozy - warto łączyć go z innymi miarami funkcji wykonawczych.
 
-## Podsumowanie
+
 
 Test Stroopa jest jednym z najbardziej użytecznych paradygmatów do badania konfliktu poznawczego i hamowania reakcji automatycznych. Jego siła polega na prostocie procedury i dużej czułości na zaburzenia kontroli uwagi.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

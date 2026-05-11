@@ -75,17 +75,13 @@ Efektywna profilaktyka stresu szkolnego odbywa się na poziomie systemowym. Obej
 - dostęp do psychologa szkolnego i zajęć psychoedukacyjnych
 - programy uczące technik relaksacyjnych i uważności (*mindfulness*)
 
-## Podsumowanie
+
 
 Stres szkolny i lęk egzaminacyjny są powszechnymi zjawiskami w polskich szkołach, o dobrze udokumentowanych negatywnych skutkach dla zdrowia i uczenia się. Skuteczna odpowiedź na te wyzwania wymaga działań na wielu poziomach - od kształtowania strategii radzenia sobie u poszczególnych uczniów, przez tworzenie wspierającego klimatu w klasie, aż po systemowe działania redukujące nadmierną presję akademicką. Psycholog szkolny może odegrać kluczową rolę w koordynowaniu tych działań i kształceniu całej społeczności szkolnej w zakresie zarządzania stresem.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

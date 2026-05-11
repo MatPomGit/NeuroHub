@@ -122,17 +122,13 @@ W Polsce interakcja człowiek-AI jest badana przede wszystkim w kontekście eduk
 - Psychologicznych skutków automatyzacji pracy
 - Postaw Polaków wobec AI w medycynie
 
-## Podsumowanie
+
 
 Interakcja człowiek-AI jest złożonym zjawiskiem, kształtowanym przez głęboko zakorzenione mechanizmy psychologiczne - atrybucję sprawczości, teorię umysłu, potrzebę relacji społecznych. Rozumienie tych mechanizmów jest kluczowe dla projektowania systemów AI, które rzeczywiście służą ludzkim potrzebom, nie zaś je eksploatują czy naruszają. Wraz z upowszechnianiem się AI pytania o jakość tej interakcji stają się jednym z centralnych wyzwań naszych czasów.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

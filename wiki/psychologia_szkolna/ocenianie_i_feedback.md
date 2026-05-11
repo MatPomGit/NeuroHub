@@ -62,17 +62,13 @@ Polski system oceniania opiera się na skali od 1 do 6 (niedostateczny–celują
 
 Angażowanie uczniów w ocenianie własnej pracy (**samoocena**) i ocenianie pracy rówieśników (**peer assessment**) ma wielokierunkowe korzyści: rozwija umiejętności metapoznawcze, poczucie odpowiedzialności za uczenie się oraz zdolność do krytycznej analizy. Wymaga jednak systematycznego treningu - uczniowie muszą nauczyć się, czym jest dobra praca i jak używać kryteriów oceniania (*rubrics*).
 
-## Podsumowanie
+
 
 Ocenianie jest jednym z najpotężniejszych narzędzi w rękach nauczyciela - może zarówno wspierać uczenie się i motywację, jak i je niszczyć. Psychologia edukacyjna jasno wskazuje, że priorytetem powinna być informacja zwrotna ukierunkowana na proces i strategie, ocenianie kształtujące wplecione w codzienną dydaktykę oraz tworzenie środowiska, w którym błąd jest postrzegany jako okazja do nauki, a nie zagrożenie dla obrazu siebie.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

@@ -60,18 +60,12 @@ Interwencje o udowodnionej skuteczności to m.in. terapia dialektyczno-behawiora
 
 Suicydologia jest dziedziną, gdzie etyka i klinika stale się przenikają. Pytanie o obowiązek powiadamiania rodziny lub hospitalizacji wbrew woli osoby - z jednej strony chroniące życie, z drugiej naruszające autonomię - nie ma prostych odpowiedzi. Ważnym zagadnieniem jest też **efekt Wertera** - naśladowcze samobójstwa mogące następować po medialnych doniesieniach o samobójstwach osób publicznych - oraz **efekt Papageno** - ochronny wpływ historii przeżycia kryzysu, które media mogą opowiadać odpowiedzialnie. Wytyczne WHO i WHO Safe Messaging Guidelines precyzują, jak komunikować o samobójstwie bez ryzyka nieumyślnego naśladownictwa.
 
-
-
-
 ## Perspektywa nieoczywista
-
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
 
 ## Podsumowanie
 
-Najważniejszy wniosek jest taki, że rzetelne rozumienie omawianego tematu wymaga łączenia definicji, danych empirycznych i konsekwencji praktycznych. Skuteczne działania opierają się na dopasowaniu metod do celu, monitorowaniu efektów oraz świadomym zarządzaniu ograniczeniami. Jednocześnie należy zachować ostrożność wobec nadmiernych uogólnień, bo jakość wniosków zależy od kontekstu i jakości pomiaru. Włączenie perspektywy alternatywnej zwiększa trafność diagnozy i użyteczność interwencji. Ostatecznie to właśnie integracja wiedzy teoretycznej z praktyką decyduje o wartości edukacyjnej i klinicznej artykułu.
 
+## Podsumowanie
 
 ## Bibliografia
 

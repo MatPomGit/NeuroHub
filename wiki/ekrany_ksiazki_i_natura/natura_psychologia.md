@@ -83,17 +83,13 @@ Ekspozycja na naturę nie tylko regeneruje - może też wzmacniać twórcze myś
 - Zhang i in. (2014): ekspozycja na naturę zwiększała hojność i empatię w grach ekonomicznych
 - Natura wywołuje stan **zachwytu** (*awe*) - emocji, która zmniejsza ego i zwiększa poczucie przynależności do czegoś większego
 
-## Podsumowanie
+
 
 Psychologia środowiskowa dostarcza mocnych dowodów na to, że kontakt z naturą jest potrzebą psychologiczną, nie luksusem. Teorię ART i SRT wspierają dziesiątki dobrze zaprojektowanych badań. Natura regeneruje uwagę, redukuje stres, poprawia nastrój i może wzmacniać kreatywność oraz prosocjalność. W urbanizującym się świecie zadbanie o dostęp do zieleni - zarówno na poziomie indywidualnym, jak i urbanistycznym - jest priorytetem zdrowia publicznego.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

@@ -65,17 +65,13 @@ Kluczowe jest indywidualne dopasowanie: wiek, stan somatyczny, preferencje i his
 
 Osoba pracująca zdalnie doświadcza przewlekłego napięcia i obniżonego nastroju. Wprowadza 20-minutowy spacer 5 razy w tygodniu oraz krótkie przerwy ruchowe co 90 minut pracy. Po miesiącu zgłasza lepszą jakość snu, mniejsze rozdrażnienie i większą efektywność.
 
-## Podsumowanie
+
 
 Aktywność fizyczna nie musi być intensywna, by wspierać zdrowie psychiczne. Największe znaczenie ma regularność, dopasowanie do realiów życia i stopniowe budowanie trwałego nawyku.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

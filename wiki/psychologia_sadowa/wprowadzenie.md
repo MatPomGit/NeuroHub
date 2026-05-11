@@ -83,18 +83,12 @@ Rzetelna opinia psychologiczna może decydować o wolności człowieka, przyznan
 [^kpc]: Ustawa z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz.U. 1964 nr 43 poz. 296, z późn. zm.), art. 278–291. https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19640430296
 [^kk233]: Ustawa z dnia 6 czerwca 1997 r. – Kodeks karny (Dz.U. 1997 nr 88 poz. 553, z późn. zm.), art. 233. https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970880553
 
-
-
-
 ## Perspektywa nieoczywista
-
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
 
 ## Podsumowanie
 
-Najważniejszy wniosek jest taki, że rzetelne rozumienie omawianego tematu wymaga łączenia definicji, danych empirycznych i konsekwencji praktycznych. Skuteczne działania opierają się na dopasowaniu metod do celu, monitorowaniu efektów oraz świadomym zarządzaniu ograniczeniami. Jednocześnie należy zachować ostrożność wobec nadmiernych uogólnień, bo jakość wniosków zależy od kontekstu i jakości pomiaru. Włączenie perspektywy alternatywnej zwiększa trafność diagnozy i użyteczność interwencji. Ostatecznie to właśnie integracja wiedzy teoretycznej z praktyką decyduje o wartości edukacyjnej i klinicznej artykułu.
 
+## Podsumowanie
 
 ## Bibliografia
 

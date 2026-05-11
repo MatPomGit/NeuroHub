@@ -112,17 +112,13 @@ Poza pytaniem o to, jak projektować etyczną AI, psycholodzy badają, jak AI wp
 - Czy anonimowość i poczucie „zapośredniczenia" przez algorytm zmniejsza poczucie odpowiedzialności moralnej?
 - Jak AI zmienia normy społeczne dotyczące prywatności, sprawiedliwości i godności?
 
-## Podsumowanie
+
 
 Etyka AI z perspektywy psychologicznej to dziedzina pełna napięć: między teorią a praktyką, między globalnymi zasadami a lokalnymi intuicjami, między abstrakcyjną sprawiedliwością a konkretnymi skutkami dla ludzi. Psychologia moralna dostarcza narzędzi, by te napięcia badać empirycznie - i przez to projektować nie tylko zasady etyczne, ale i systemy, które faktycznie pomagają ludziom podejmować dobre decyzje moralne w złożonym świecie AI.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

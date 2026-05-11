@@ -326,18 +326,12 @@ Sellbom, M., Kremyar, A. J., & Wygant, D. B. (2021). Mapping MMPI-3 scales onto 
 Whitman, M. R., Tylicki, J. L., Mascioli, R., Pickle, J., & Ben-Porath, Y. S. (2021). Psychometric properties of the Minnesota Multiphasic Personality Inventory-3 in a clinical neuropsychology setting. *Psychological Assessment, 33*(2), 142-155.
 
 Whitman, M. R., Tylicki, J. L., & Ben-Porath, Y. S. (2021). Utility of the MMPI-3 validity scales for detecting overreporting and underreporting and their effects on substantive scale validity: A simulation study. *Psychological Assessment, 33*(5), 411-426.
-
-
-
 ## Perspektywa nieoczywista
-
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
 
 ## Podsumowanie
 
-Najważniejszy wniosek jest taki, że rzetelne rozumienie omawianego tematu wymaga łączenia definicji, danych empirycznych i konsekwencji praktycznych. Skuteczne działania opierają się na dopasowaniu metod do celu, monitorowaniu efektów oraz świadomym zarządzaniu ograniczeniami. Jednocześnie należy zachować ostrożność wobec nadmiernych uogólnień, bo jakość wniosków zależy od kontekstu i jakości pomiaru. Włączenie perspektywy alternatywnej zwiększa trafność diagnozy i użyteczność interwencji. Ostatecznie to właśnie integracja wiedzy teoretycznej z praktyką decyduje o wartości edukacyjnej i klinicznej artykułu.
 
+## Podsumowanie
 
 ## Bibliografia
 

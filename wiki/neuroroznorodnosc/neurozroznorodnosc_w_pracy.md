@@ -92,17 +92,13 @@ Pracownicy neuroatypowi są szczególnie narażeni na **wypalenie zawodowe**, zw
 
 Zapobieganie wypaleniu wymaga: regularne przerwy, możliwość demasking w bezpiecznym środowisku, monitorowanie poziomu obciążenia.
 
-## Podsumowanie
+
 
 Neuroróżnorodność w miejscu pracy to zarówno kwestia praw człowieka, jak i inteligentnej strategii biznesowej. Organizacje, które tworzą środowisko dopasowane do różnorodnych profilów neurologicznych, nie tylko spełniają swoje zobowiązania prawne i etyczne - zyskują też dostęp do unikalnych talentów i sposobów myślenia, które mogą decydować o ich przewadze konkurencyjnej.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

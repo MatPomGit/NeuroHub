@@ -77,17 +77,13 @@ Wymagają specjalnej uwagi i systemowego wsparcia.
 
 Matka 8-letniego chłopca z mózgowym porażeniem dziecięcym zgłasza się z objawami wypalenia: chroniczne zmęczenie, lęk, poczucie braku własnego „ja". Plan: psychoedukacja, organizacja opieki dziennej (5 h/tydzień), sesje terapii indywidualnej i kontakt z grupą rodziców dzieci z MPD.
 
-## Podsumowanie
+
 
 Rodzina jest fundamentem codziennej opieki i dobrobytu osoby z niepełnosprawnością, ale sama wymaga wsparcia, aby funkcjonować zdrowo. Podejście systemowe - obejmujące zarówno osobę z NP, jak i jej opiekunów - jest warunkiem skutecznej, długoterminowej pomocy.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

@@ -1,4 +1,4 @@
-# 27. Farmakologiczne leczenie zaburzeń seksualnych
+﻿# 27. Farmakologiczne leczenie zaburzeń seksualnych
 
 ## Wprowadzenie
 Farmakologiczne leczenie zaburzeń seksualnych wymaga precyzyjnej diagnostyki różnicowej: biologicznej, psychologicznej i relacyjnej. W psychiatrii szczególnie ważne jest odróżnienie objawów choroby od działań niepożądanych leków.
@@ -12,14 +12,18 @@ Farmakologiczne leczenie zaburzeń seksualnych wymaga precyzyjnej diagnostyki r�
 Modyfikacja psychofarmakoterapii (np. zmiana leku, dawki, strategii augmentacji) bywa równie ważna jak leczenie bezpośrednio ukierunkowane na funkcje seksualne.
 
 ## Praktyczne przykłady
-Dobra praktyka: rutynowe pytanie o funkcjonowanie seksualne i wspólna decyzja terapeutyczna.
-Zła praktyka: ignorowanie działań niepożądanych z obawy przed „trudnym tematem”.
+### Dobra praktyka
+
+rutynowe pytanie o funkcjonowanie seksualne i wspólna decyzja terapeutyczna.
+### Zła praktyka
+
+ignorowanie działań niepożądanych z obawy przed „trudnym tematem”.
 Konsekwencja: spadek adherencji i jakości życia.
 
 ## Perspektywa nieoczywista
 W praktyce klinicznej największe korzyści przynosi nie maksymalizacja liczby interwencji, lecz **precyzyjne ograniczanie leczenia do elementów o najwyższej wartości dodanej**. To podejście bywa mniej intuicyjne niż „eskalacja terapii”, ale często poprawia współpracę, bezpieczeństwo i długofalowe wyniki.
 
-## Podsumowanie
+
 Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dane naukowe, monitoring efektów oraz współdecydowanie z pacjentem. Wysoka jakość leczenia wynika z konsekwentnej ewaluacji korzyści i ryzyka na każdym etapie terapii.
 
 ## Bibliografia
@@ -28,5 +32,7 @@ Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dan
 - NICE. (2022-2025). Guidance on mental health and pharmacological treatment (living updates).
 - WHO. (2023). ICD-11 Clinical Descriptions and Diagnostic Guidelines.
 - Meyer, J. M., & Quenzer, L. F. (2018). Psychopharmacology: Drugs, the Brain, and Behavior (3rd ed.).
+
+
 
 

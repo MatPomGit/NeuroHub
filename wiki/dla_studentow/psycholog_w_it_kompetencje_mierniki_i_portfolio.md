@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-05-09
 reviewCycleMonths: 12
 evidenceCutoffDate: 2026-05-01
@@ -31,14 +31,14 @@ Psycholog w IT powinien umieć raportować wpływ rekomendacji na proces i produ
 
 Skuteczne portfolio może zawierać projekty studenckie, audyty heurystyczne publicznych produktów, minieksperymenty A/B na prototypach oraz raporty z wywiadów. Kluczowe jest pokazanie logiki: problem → metoda → dane → decyzja → ograniczenia.
 
-## Dobra praktyka
+## Praktyczne przykłady
 
+### Dobra praktyka
 Kandydat przygotowuje trzy studia przypadku, w każdym oddziela fakty od interpretacji, podaje ograniczenia i proponuje test weryfikujący rekomendację.
 
 **Konsekwencje:** rośnie wiarygodność metodologiczna, a rozmowa rekrutacyjna koncentruje się na decyzjach, nie na deklaracjach.
 
-## Zła praktyka
-
+### Zła praktyka
 Kandydat przedstawia wyłącznie ogólne hasła („umiem komunikację”, „rozumiem ludzi”) bez danych, kryteriów jakości i przykładów wdrożenia.
 
 **Konsekwencje:** rekruterzy nie potrafią oszacować wartości kompetencji, co obniża szansę zatrudnienia.
@@ -51,7 +51,7 @@ Nieoczywiste, lecz praktyczne ujęcie mówi, że pierwszą przewagą psychologa 
 - `students/psycholog_w_it` - role i kompetencje psychologa w technologii.
 - `students/sciezki_kariery` - ścieżki rozwoju zawodowego.
 
-## Podsumowanie
+
 
 Wejście psychologa do IT jest najbardziej skuteczne, gdy łączy język człowieka z językiem metryk. Portfolio powinno dokumentować nie tyle „co zrobiono”, ile „jak podjęto decyzję i na jakiej jakości dowodach”.
 
@@ -61,3 +61,5 @@ Wejście psychologa do IT jest najbardziej skuteczne, gdy łączy język człowi
 2. Nielsen, J. (1994). *Usability Engineering*. Morgan Kaufmann.
 3. Forsgren, N., Humble, J., & Kim, G. (2018). *Accelerate*. IT Revolution.
 4. Shneiderman, B. (2022). *Human-Centered AI*. Oxford University Press.
+
+

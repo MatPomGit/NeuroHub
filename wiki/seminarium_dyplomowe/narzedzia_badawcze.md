@@ -104,17 +104,13 @@ Gdy stosujesz wiele narzędzi jednocześnie:
 - Ustal kolejność strategicznie - narzędzia budzące emocje umieszczaj na końcu
 - Zadbaj o wskazówki debriefu (szczególnie jeśli temat jest drażliwy)
 
-## Podsumowanie
+
 
 Dobre narzędzie badawcze to takie, które jest trafne, rzetelne, dostosowane do grupy i poprawnie zastosowane. Wybór narzędzia powinien wynikać z pytania badawczego, nie z wygody dostępu. Staranność na etapie planowania narzędzi procentuje wiarygodnymi wynikami i przekonującą dyskusją.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

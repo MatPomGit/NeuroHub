@@ -108,17 +108,13 @@ Badania psychologiczne pokazują, że stosunek do AI jest silnie modulowany prze
 - Wykształcenie i poziom wiedzy technicznej
 - Indywidualne cechy osobowości (otwartość na nowe doświadczenia, lęk przed zmianą)
 
-## Podsumowanie
+
 
 Historia AI i psychologii to historia wzajemnych inspiracji i napięć. Psychologia dostarczała modeli umysłu, które kształtowały architekturę AI; AI z kolei stawiała psychologii pytania, których wcześniej nie umiała sformułować. Dziś, w dobie wielkich modeli językowych i wszechobecnych systemów AI, ta relacja staje się jeszcze bardziej intensywna i doniosła.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

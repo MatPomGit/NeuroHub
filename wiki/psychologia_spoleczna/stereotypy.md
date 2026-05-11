@@ -97,7 +97,7 @@ Badania neuroobrazowe (fMRI) wskazują, że przetwarzanie twarzy osób z outgrup
 | Polityki różnorodności (diversity & inclusion) | zmienia normy instytucjonalne | długoterminowa, systemowa |
 | Przykłady kontrsterotypowe w mediach | osłabia automatyczne skojarzenia | obiecująca |
 
-## Podsumowanie
+
 
 Stereotypy są produktem ubocznym poznawczej kategoryzacji - mechanizmu ewolucyjnie adaptacyjnego, który w kontekście społecznym prowadzi do uprzedzeń i dyskryminacji. Badania Allporta, Tajfela i Greenwalda odsłaniają zarówno automatyczną, jak i kontrolowaną naturę tych procesów. Redukcja uprzedzeń wymaga interwencji na wielu poziomach: indywidualnym, grupowym i instytucjonalnym.
 
@@ -112,13 +112,9 @@ Stereotypy są produktem ubocznym poznawczej kategoryzacji - mechanizmu ewolucyj
 - Steele, C. M., & Aronson, J. (1995). Stereotype threat and the intellectual test performance of African Americans. *Journal of Personality and Social Psychology, 69*(5), 797–811.
 - Tajfel, H., & Turner, J. C. (1979). An integrative theory of intergroup conflict. W: W. G. Austin & S. Worchel (red.), *The Social Psychology of Intergroup Relations* (s. 33–47). Brooks/Cole.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

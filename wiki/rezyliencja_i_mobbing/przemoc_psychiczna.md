@@ -105,17 +105,13 @@ Przemoc psychiczna może występować zarówno w bliskich relacjach intymnych, j
 
 Anna, 34-letnia prawniczka, zgłosiła się do gabinetu psychologicznego z powodu „problemów z pamięcią i koncentracją". W toku wywiadu okazało się, że od 5 lat żyje z partnerem stosującym systematyczny gaslighting i kontrolę przymusu. Partner przekonał ją, że jej wyostrzona pamięć zdarzeń to objaw choroby psychicznej, co skłoniło ją do zasięgnięcia porady psychiatrycznej. Anna była przekonana, że „to z nią jest coś nie tak". Dopiero w pracy z psychologiem, po skonstruowaniu chronologii wydarzeń i ich obiektywizacji, Anna rozpoznała wzorzec przemocy. Praca terapeutyczna koncentrowała się na odbudowie zaufania do własnej percepcji, zanim możliwe było omówienie opcji wyjścia z relacji.
 
-## Podsumowanie
+
 
 Przemoc psychiczna jest zjawiskiem wieloaspektowym, często niewidocznym dla otoczenia i - co tragiczne - dla samej ofiary. Jej rozpoznanie wymaga znajomości różnorodnych form, jakimi się przejawia: od nadużycia emocjonalnego, przez kontrolę przymusu i gaslighting, po izolację. Zrozumienie cyklu przemocy i różnic między przemocą intymną a pracowniczą jest kluczowe dla skutecznej pomocy i interwencji.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

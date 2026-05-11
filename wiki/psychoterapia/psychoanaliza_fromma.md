@@ -120,17 +120,13 @@ Psychoanaliza humanistyczna w sensie terapeutycznym kładzie nacisk na:
 
 Fromm jest jednym z patronów **psychoanalizy relacyjnej** i perspektyw intersubiektywnych w psychoterapii.
 
-## Podsumowanie
+
 
 Erich Fromm stworzył jedno z najbardziej ambitnych syntez psychologii, filozofii i krytyki społecznej. Jego kluczowe pytanie brzmi: *Czy nowoczesna cywilizacja sprzyja zdrowiu psychicznemu?* Odpowiedź - negatywna - prowadzi do postulatu radykalnej przemiany: od orientacji „mieć" do orientacji „być", od alienacji do miłości, od automatycznego konformizmu do autentycznej wolności. Psychoanaliza humanistyczna Fromma pozostaje aktualna w erze konsumpcjonizmu, mediów społecznościowych i kryzysu tożsamości.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

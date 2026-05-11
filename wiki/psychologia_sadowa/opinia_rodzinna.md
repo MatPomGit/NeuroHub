@@ -71,17 +71,13 @@ Opiniowanie rodzinne jest jednym z najbardziej etycznie obciążonych obszarów 
 - Zakaz opierania się wyłącznie na relacjach jednej strony
 - Obowiązek ujawnienia ograniczeń opinii
 
-## Podsumowanie
+
 
 Opiniowanie w sprawach rodzinnych łączy kompetencje kliniczne (diagnoza zaburzeń, ocena relacji przywiązania), wychowawcze (rozumienie potrzeb dzieci w różnych fazach rozwoju) i etyczne (bezstronność wobec skonfliktowanych stron). Rzetelna opinia w tych sprawach może zadecydować o całym życiu dziecka - i wymaga od biegłego najwyższego poziomu profesjonalizmu oraz pokory wobec złożoności ludzkiego życia rodzinnego.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

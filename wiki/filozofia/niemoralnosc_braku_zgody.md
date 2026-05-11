@@ -70,7 +70,7 @@ Współczesny **ruch antynatalistyczny** - choć niejednorodny, obecny głównie
 
 Z kolei filozofowie tacy jak **Jeff McMahan** przypominają, że antynatalizm może wchodzić w konflikt z intuicjami na temat wartości życia ludzkiego i przyszłości cywilizacji - pytanie nie jest akademickie, lecz głęboko polityczne.
 
-## Podsumowanie
+
 
 Niemożność uzyskania zgody na narodziny to paradoks, który filozofia etyki prokreacji traktuje z coraz większą powagą. Argument ze zgody nie jest odpowiedzią na pytanie, co robić - jest raczej pytaniem: **czy prokreacja wymaga etycznego uzasadnienia?** I czy dostatecznym uzasadnieniem jest dobra intencja rodziców, skoro osoba, której to najbardziej dotyczy, nie może wypowiedzieć się z wyprzedzeniem?
 
@@ -84,13 +84,9 @@ Niemożność uzyskania zgody na narodziny to paradoks, który filozofia etyki p
 - Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
 - Boonin, D. (2014). *The Non-Identity Problem and the Ethics of Future People*. Oxford University Press.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

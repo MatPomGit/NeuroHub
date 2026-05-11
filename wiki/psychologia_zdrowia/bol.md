@@ -63,17 +63,13 @@ Pacjent z bólem potrzebuje jednocześnie:
 
 Unikanie skrajności („to tylko w głowie” vs „nic nie da się zrobić”) zwiększa zaufanie i adherencję.
 
-## Podsumowanie
+
 
 Ból to doświadczenie całej osoby, nie tylko uszkodzonej tkanki. Leczenie jest najskuteczniejsze, gdy obejmuje ciało, emocje, poznanie i środowisko życia pacjenta.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

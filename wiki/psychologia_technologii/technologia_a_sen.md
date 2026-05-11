@@ -43,7 +43,7 @@ Osoba stosuje 60–90 minut „strefy wyciszenia” przed snem: brak mediów spo
 
 **Konsekwencje:** szybsze zasypianie, mniej wybudzeń, lepsza regeneracja i stabilniejszy nastrój dzienny.
 
-### Zła praktyka (częsty błąd)
+### Zła praktyka
 
 Pracownik kończy dzień przeglądaniem maili służbowych i krótkich filmów w łóżku, traktując to jako „odpoczynek”.
 
@@ -53,7 +53,7 @@ Pracownik kończy dzień przeglądaniem maili służbowych i krótkich filmów w
 
 Nieoczywista perspektywa podkreśla, że technologia może także wspierać sen, jeśli używa się jej celowo: monitorowanie rytmu dobowego, interwencje CBT-I online, przypomnienia o porze snu i redukcja światła wieczornego. Kluczowe nie jest więc „czy technologia”, ale „w jakiej funkcji regulacyjnej”.
 
-## Podsumowanie
+
 
 Wpływ technologii na sen jest istotny, ale modyfikowalny. Najlepsze rezultaty przynosi łączenie higieny snu, kontroli bodźców cyfrowych i realistycznej organizacji dnia. Ochrona snu powinna być traktowana jako element profilaktyki zdrowia psychicznego i jakości pracy poznawczej.
 

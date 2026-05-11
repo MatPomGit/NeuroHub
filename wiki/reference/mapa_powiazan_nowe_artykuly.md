@@ -26,8 +26,7 @@ Poni9=sza mapa porzďż˝&dkuje relacje miďż˝"dzy nowo dodanymi artyku9ami a
 | [`students/psycholog_w_it`](../dla_studentow/psycholog_w_it.md) | Dla studentBw, Psychologia technologii i dobrostan cyfrowy | [`students/sciezki_kariery`](../dla_studentow/sciezki_kariery.md), [`technology_psychology/technologia_w_pracy`](../psychologia_technologii/technologia_w_pracy.md), [`technology_psychology/algorytmy_a_samoocena`](../psychologia_technologii/algorytmy_a_samoocena.md) | WspBlny rdze9: 9:cie9=ki kariery, metodologia bada9, etyka technologii. |
 | [`neuro/zachowanie_i_dwie_polkule_mozgu`](../neuropsychologia/zachowanie_i_dwie_polkule_mozgu.md) | Neurobiologia, Funkcje poznawcze, Przypadki kliniczne | [`neuro/lateralizacja`](../neuropsychologia/lateralizacja.md), [`przypadki_kliniczne/split_brain`](../przypadki_kliniczne/split_brain.md), [`cognitive/system1_system2`](../psychologia_poznawcza/system1_system2.md), [`neuro/neuronauka_poznawcza`](../neuropsychologia/neuronauka_poznawcza.md) | WspBlny rdze9: lateralizacja, integracja miďż˝"dzypB9kulowa, neuromity. |
 
-## Dobra praktyka
-
+## Praktyczne przykłady
 Redaktor publikujďż˝&c nowy materia9 od razu dodaje 3ďż˝5 odno9:nikBw krzy9=owych do dzia9Bw pokrewnych i sprawdza, czy linkowane teksty nie powielajďż˝& definicji.
 
 **Konsekwencje:** krBtsza 9:cie9=ka nawigacji u9=ytkownika, wy9=sza spBjno9:ďż˝! pojďż˝"ciowa, mniej osieroconych artyku9Bw.
@@ -42,7 +41,7 @@ Nowe teksty sďż˝& publikowane bez mapy powiďż˝&za9, a podobne tre9:ci sď
 
 Odno9:niki krzy9=owe nie sďż˝& tylko elementem UX. W projekcie edukacyjnym pe9niďż˝& funkcjďż˝" ďż˝~struktury epistemicznejďż˝e: pokazujďż˝&, 9=e wiedza psychologiczna jest sieciďż˝& zale9=no9:ci miďż˝"dzy poziomem biologicznym, spo9ecznym, klinicznym i zawodowym.
 
-## Podsumowanie
+
 
 Nowe artyku9y zosta9y osadzone w istniejďż˝&cym ekosystemie PsyHub poprzez mapďż˝" relacji tematycznych. Taki uk9ad u9atwia czytelnikom przechodzenie od definicji do zastosowa9 oraz wspiera dalszďż˝& rozbudowďż˝" portalu bez utraty spBjno9:ci.
 
@@ -52,6 +51,7 @@ Dla przeglďż˝&du tre9:ci wymagajďż˝&cych dalszego podlinkowania zobacz rap
 
 1. American Psychological Association. (2020). *Publication Manual of the American Psychological Association* (7th ed.).
 2. Norman, D. A. (2013). *The Design of Everyday Things* (Revised and Expanded). Basic Books.
+
 
 
 

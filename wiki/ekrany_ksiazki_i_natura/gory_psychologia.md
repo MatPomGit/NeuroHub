@@ -92,17 +92,13 @@ Badania nad programami terapeutycznymi dla młodzieży zagrożonej (Outward Boun
 
 W Polsce rośnie liczba programów terapeutycznych i profilaktycznych prowadzonych w terenach górskich - szczególnie Tatry i Bieszczady służą jako przestrzeń pracy z młodzieżą, osobami z depresją i uzależnieniami.
 
-## Podsumowanie
+
 
 Góry i wędrówki górskie działają na psychikę wielotorowo: przez fizjologiczne efekty ruchu, narracyjne zanurzenie w krajobraz, emocję zachwytu, doświadczenie własnej skuteczności i poczucie miniaturowości wobec ogromu przyrody. W erze cyfrowej, gdy coraz więcej czasu spędzamy w wirtualnych przestrzeniach, autentyczne wyzwanie fizyczne w środowisku górskim oferuje rodzaj doświadczenia psychologicznego, którego nie można zastąpić - i którego wartość zdrowotna jest dobrze udokumentowana.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

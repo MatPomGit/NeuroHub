@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-30
 reviewCycleMonths: 24
 evidenceCutoffDate: 2026-04-01
@@ -36,8 +36,7 @@ W diagnostyce neuropsychologicznej należy oddzielnie oceniać pamięć epizodyc
 
 **Konsekwencja:** dokładniejszy profil deficytów i lepiej dobrana rehabilitacja.
 
-### Zła praktyka / częsty błąd
-
+### Zła praktyka
 Uznawanie, że skoro pacjent zna fakty o sobie, to jego pamięć autobiograficzna jest zachowana.
 
 **Konsekwencja:** przeoczenie głębokich trudności tożsamościowych i adaptacyjnych związanych z utratą pamięci epizodycznej.
@@ -48,7 +47,7 @@ W kulturze popularnej tożsamość często sprowadza się do narracji autobiogra
 
 To rozróżnienie ma znaczenie etyczne i kliniczne: wsparcie pacjenta powinno obejmować nie tylko trening poznawczy, ale także rekonstrukcję sensu życia „tu i teraz”.
 
-## Podsumowanie
+
 
 K.C. jest jednym z kluczowych przypadków dla nowoczesnej nauki o pamięci. Dostarczył silnych dowodów na funkcjonalną odrębność pamięci epizodycznej i semantycznej oraz na związek pamięci autobiograficznej z myśleniem prospektywnym.
 
@@ -58,5 +57,6 @@ K.C. jest jednym z kluczowych przypadków dla nowoczesnej nauki o pamięci. Dost
 2. Tulving, E. (2002). Episodic memory: From mind to brain. *Annual Review of Psychology*, 53, 1–25.
 3. Rosenbaum, R. S., et al. (2005). The case of K.C.: Contributions of a memory-impaired person to memory theory. *Neuropsychologia*, 43(7), 989–1021.
 4. Schacter, D. L., Addis, D. R., & Buckner, R. L. (2007). Remembering the past to imagine the future. *Nature Reviews Neuroscience*, 8, 657–661.
+
 
 

@@ -63,17 +63,13 @@ Hipoteza doliny niesamowitości bywa krytykowana za:
 - wyniki badań empirycznych są mieszane - nie wszyscy badacze replikują efekt
 - prawdopodobnie istnieje znaczna zmienność kulturowa i indywidualna
 
-## Podsumowanie
+
 
 Dolina niesamowitości pozostaje jedną z najbardziej wpływowych koncepcji w projektowaniu robotów i animacji. Choć jej neurobiologiczne podstawy nie są jeszcze w pełni wyjaśnione, stanowi ważne przypomnienie, że projektowanie relacji emocjonalnej między człowiekiem a maszyną wymaga głębokiego rozumienia psychologii percepcji.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

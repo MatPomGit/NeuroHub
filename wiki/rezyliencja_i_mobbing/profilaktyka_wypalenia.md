@@ -134,17 +134,13 @@ Mazowieckie Centrum Psychiatrii opracowało i wdrożyło w 2021 roku kompleksowy
 
 Ewaluacja po 12 miesiącach wykazała 18-procentową redukcję wypalenia emocjonalnego i 25-procentowy wzrost subiektywnego poczucia wsparcia organizacyjnego.
 
-## Podsumowanie
+
 
 Profilaktyka wypalenia zawodowego jest inwestycją - w zdrowie pracowników, jakość usług i długoterminową efektywność organizacji. Skuteczne działania wymagają jednoczesnej pracy na poziomie indywidualnym (samoopieka, granice, superwizja), organizacyjnym (zarządzanie obciążeniem, autonomia, wsparcie) i systemowym (polityki publiczne, edukacja zawodowa). Nie istnieje jedno panaceum - dopiero spójna kombinacja tych elementów tworzy środowisko, w którym wypalenie traci grunt pod nogami.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

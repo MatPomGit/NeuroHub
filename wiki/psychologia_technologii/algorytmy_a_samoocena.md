@@ -43,7 +43,7 @@ Użytkowniczka regularnie „higienizuje” feed: usuwa profile nasilające por�
 
 **Konsekwencje:** zmniejszenie ekspozycji na bodźce obniżające samoocenę, bardziej zrównoważone porównania i większa autonomia poznawcza.
 
-### Zła praktyka (częsty błąd)
+### Zła praktyka
 
 Twórca internetowy ocenia własną wartość wyłącznie przez dzienne metryki zaangażowania i stale modyfikuje zachowanie pod przewidywany gust algorytmu.
 
@@ -53,7 +53,7 @@ Twórca internetowy ocenia własną wartość wyłącznie przez dzienne metryki 
 
 Nieoczywista perspektywa mówi, że algorytmy mogą również **wzmacniać samoocenę**, jeśli są świadomie używane jako narzędzie kuracji środowiska psychologicznego (treści rozwojowe, grupy wsparcia, psychoedukacja). Kluczowym moderatorem nie jest sama technologia, lecz poziom kompetencji cyfrowych i refleksyjność użytkownika. Oznacza to, że interwencje powinny obejmować edukację algorytmiczną, a nie wyłącznie ograniczanie czasu online.
 
-## Podsumowanie
+
 
 Algorytmy personalizacji wpływają na samoocenę przez selekcję bodźców, sprzężenia zwrotne i normy porównań społecznych. Ryzyko można istotnie ograniczać dzięki świadomemu zarządzaniu feedem, krytycznej analizie wskaźników społecznych i budowaniu samooceny opartej na wartościach wewnętrznych.
 

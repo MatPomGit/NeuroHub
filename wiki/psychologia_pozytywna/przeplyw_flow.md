@@ -64,17 +64,13 @@ Praktyczne wskazówki wspierające doświadczanie *flow*:
 - świadome poszukiwanie aktywności, które w przeszłości wywoływały stan pochłonięcia
 - rozwijanie kompetencji w obszarach, które są autentycznie interesujące
 
-## Podsumowanie
+
 
 Teoria przepływu Csikszentmihalyiego dostarcza jednego z najbardziej przekonujących wyjaśnień, dlaczego niektóre aktywności są głęboko satysfakcjonujące - i jak projektować środowisko życia, pracy i nauki, by sprzyjało optymalnemu zaangażowaniu. *Flow* łączy motywację wewnętrzną, kompetencję i koncentrację w jedno doświadczenie, które jest jednocześnie szczytem wydajności i szczytem dobrostanu.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

@@ -56,17 +56,13 @@ Badanie **Seliga i in.** (2016) na próbie 5663 pracowników potwierdziło, że 
 
 Siły charakteru pełnią rolę zasobów ochronnych w obliczu adversity. Badania wykazują, że osoby z wyraźnie zidentyfikowanymi siłami sygnaturowymi lepiej radzą sobie ze stresem, wykazują wyższą odporność psychiczną i szybciej powracają do równowagi po kryzysach. Szczególną rolę ochronną odgrywają siły z kategorii transcendencji (wdzięczność, nadzieja) i człowieczeństwa (życzliwość, miłość).
 
-## Podsumowanie
+
 
 Klasyfikacja VIA Petersona i Seligmana stanowi pionierskie i empirycznie zakorzenione narzędzie do mapowania pozytywnych cech charakteru. Koncepcja sił sygnaturowych i ich aktywnego stosowania w codziennym życiu, pracy i terapii jest jedną z najbardziej praktycznych i skutecznych interwencji psychologii pozytywnej - dostępną dla każdego poprzez bezpłatny kwestionariusz VIA-IS.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

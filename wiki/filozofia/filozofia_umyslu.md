@@ -60,17 +60,13 @@ Filozofia umysłu łączy się z pytaniem o **wolną wolę**: czy nasze decyzje 
 
 **Kompatybilizm** (Frankfurt, Dennett) twierdzi, że wolna wola i determinizm mogą współistnieć: wolność to działanie zgodnie z własnymi pragnieniami i wartościami, nie zaś działanie niezdeterminowane.
 
-## Podsumowanie
+
 
 Filozofia umysłu dostarcza psychologowi pojęciowego rusztowania do rozumienia tego, czym zajmuje się jego dyscyplina. Pytania o świadomość, intencjonalność i wolną wolę nie są osobliwością gabinetową - wypływają z każdej rozmowy terapeutycznej, z każdego badania nad procesami poznawczymi. Bez refleksji filozoficznej ryzykujemy, że będziemy stosować pojęcia bez zrozumienia ich głębi i ograniczeń.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

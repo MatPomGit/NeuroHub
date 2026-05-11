@@ -59,17 +59,13 @@ Współczesne badania rozwijają koncepcję SNR w kilku kierunkach. **Dynamiczna
 
 W dobie technologii cyfrowych koncepcja SNR jest aplikowana do projektowania inteligentnych systemów nauczania (*intelligent tutoring systems*), które adaptują poziom trudności i rodzaj wsparcia do bieżącego stanu wiedzy użytkownika.
 
-## Podsumowanie
+
 
 Strefa najbliższego rozwoju Wygotskiego pozostaje jedną z najbardziej płodnych koncepcji w psychologii edukacyjnej. Przekształca myślenie o potencjale ucznia - z diagnozy statycznej na dynamiczną - i dostarcza nauczycielom praktycznych wskazówek dotyczących udzielania wsparcia w sposób sprzyjający realnemu rozwojowi. Pomimo pewnych ograniczeń i krytyki, koncepcja ta niezmiennie inspiruje zarówno badaczy, jak i praktyków edukacji na całym świecie.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

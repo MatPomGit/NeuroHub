@@ -155,7 +155,7 @@ U dzieci obserwacja często dostarcza istotniejszych danych niż wywiad (szczeg�
 
 ---
 
-## Podsumowanie
+
 
 Obserwacja kliniczna jest niezbędnym elementem całościowej diagnozy psychologicznej. Jej siła tkwi w bezpośredniości i naturalistyczności danych - umożliwia uchwycenie wzorców zachowania, których pacjent sam może nie być świadomy lub których nie potrafi opisać słowami. Jednocześnie wymaga dyscypliny metodologicznej, świadomości własnych uprzedzeń i etycznej wrażliwości diagnosty.
 
@@ -168,13 +168,9 @@ Obserwacja kliniczna jest niezbędnym elementem całościowej diagnozy psycholog
 - Lord, C., i in. (2012). *ADOS-2 Manual*. Western Psychological Services.
 - Sattler, J. M. (2014). *Foundations of Behavioral, Social, and Clinical Assessment of Children*. Jerome M. Sattler Publisher.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

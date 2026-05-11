@@ -136,13 +136,12 @@ Psycholog pracuje z ludźmi o różnym pochodzeniu, wyznaniu, orientacji seksual
 
 ---
 
-## Podsumowanie
+
 
 Bycie studentem psychologii to nie tylko rola uczącego się - to już bycie częścią profesji. Nawyki etyczne kształtowane na studiach (uczciwość akademicka, szacunek dla granic, ostrożność w stosowaniu wiedzy, troska o siebie i innych) stają się fundamentem późniejszej praktyki zawodowej. Wybierając psychologię, wybierasz odpowiedzialność - i warto zacząć ją traktować poważnie od pierwszego roku.
 
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
 
 ## Bibliografia
 

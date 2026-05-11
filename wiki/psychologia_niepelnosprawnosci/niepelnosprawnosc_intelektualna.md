@@ -65,17 +65,13 @@ Współczesne podejście podkreśla, że osoby z NI mają prawo do:
 - pracy i uczestnictwa w życiu społecznym,
 - dostosowanej edukacji w inkluzywnych środowiskach.
 
-## Podsumowanie
+
 
 Niepełnosprawność intelektualna to złożony stan wymagający indywidualnego podejścia. Nowoczesna praktyka odchodzi od instytucjonalizacji ku wspieranej niezależności i integracji społecznej. Kluczowe są wczesna diagnoza, kompleksowe wsparcie i traktowanie osoby jako podmiotu z własną tożsamością i prawami.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

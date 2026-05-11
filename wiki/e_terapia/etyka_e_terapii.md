@@ -25,6 +25,7 @@ Poufność jest fundamentem relacji terapeutycznej - w środowisku online jej za
 ## Zgoda poinformowana w e-terapii
 
 Zgoda poinformowana (*informed consent*) w e-terapii musi obejmować dodatkowe elementy w stosunku do standardowego kontraktu terapeutycznego:
+
 - Opis używanej technologii i jej ograniczeń
 - Zasady postępowania w razie awarii technicznej
 - Politykę prywatności i bezpieczeństwa danych
@@ -42,6 +43,7 @@ Większość europejskich krajów wymaga, by terapeuta był licencjonowany w kra
 Jednym z najtrudniejszych wyzwań etycznych e-terapii jest zarządzanie sytuacją kryzysową - gdy pacjent wyraża myśli samobójcze lub jest w bezpośrednim niebezpieczeństwie. W gabinecie terapeuta może zorganizować natychmiastową interwencję; online możliwości są znacznie ograniczone.
 
 **Plan bezpieczeństwa online** powinien być opracowany przed rozpoczęciem terapii i obejmować:
+
 - Numer telefonu alarmowego i adres miejsca pobytu pacjenta
 - Osobę bliską, z którą terapeuta może się skontaktować w kryzysie
 - Procedurę zakończenia sesji i przejścia na interwencję kryzysową
@@ -57,17 +59,11 @@ Terapeuta i system opieki zdrowotnej mają etyczny obowiązek uwzględnienia tyc
 
 Badania wskazują, że sojusz terapeutyczny (*therapeutic alliance*) może być skutecznie budowany w środowisku online - choć jego charakter jest nieco odmienny. Brak elementów niewerbalnych, opóźnienia w komunikacji i ograniczenia wynikające z ekranu wymagają od terapeuty świadomego zarządzania relacją: aktywnego potwierdzania rozumienia, częstszego sprawdzania doświadczenia pacjenta, elastyczności w reagowaniu na zakłócenia techniczne.
 
-## Podsumowanie
+## Perspektywa nieoczywista
 
 Etyka e-terapii nie jest odrębnym systemem zasad - jest zastosowaniem fundamentalnych zasad etycznych psychologii (dobroczynność, nieszkodzenie, szacunek dla autonomii, sprawiedliwość) w specyficznym środowisku cyfrowym. Terapeuta pracujący online musi być świadom zarówno nowych możliwości, jak i nowych ryzyk - i zarządzać nimi z tą samą refleksją, co przy każdej innej formie praktyki.
 
-
-
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

@@ -128,17 +128,13 @@ Badania nad efektem reprezentacji wskazują, że widząc w grze postać, z któr
 
 Dla kobiet i osób z mniejszości, obecność znacząco buduje poczucie akceptacji i przynależności w środowisku tradycyjnie wykluczającym.
 
-## Podsumowanie
+
 
 Płeć i tożsamość w grach wideo to złożony obszar, w którym przecinają się kwestie reprezentacji medialnej, psychologii tożsamości, dynamiki społeczności online i nierówności strukturalnych. Klinicysta powinien być świadomy, że gry mogą być zarówno przestrzenią eksploracji i akceptacji tożsamości, jak i źródłem poważnych traum dla osób narażonych na online harassment. Budowanie inkluzywnych i bezpiecznych przestrzeni w kulturze gamingowej jest wspólnym zadaniem badaczy, twórców gier i społeczności graczy.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

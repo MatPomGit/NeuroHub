@@ -48,17 +48,13 @@ Strony postępowania często próbują kontaktować się z biegłym poza salą s
 
 Praca biegłego - szczególnie w sprawach dotyczących przemocy, krzywdzenia dzieci czy poważnych przestępstw - naraża na wtórną traumatyzację (*vicarious trauma*) i wypalenie zawodowe. Regularna superwizja, ograniczanie liczby spraw trudnych emocjonalnie, dbałość o zasoby osobiste i zawodowe oraz wsparcie koleżeńskie są niezbędnymi elementami higienicznej praktyki biegłego.
 
-## Podsumowanie
+
 
 Relacja biegłego z sądem i uczestnikami postępowania jest fundamentem jego roli jako służby wymiaru sprawiedliwości. Jasna komunikacja, profesjonalne granice, odporność na presję i gotowość do korekty błędów - to cechy biegłego, który nie tylko zna psychologię, ale też rozumie swoje miejsce w złożonym systemie prawnym i etycznym, jakim jest postępowanie sądowe.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

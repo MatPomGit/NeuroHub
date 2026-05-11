@@ -203,17 +203,13 @@ Pomimo krytyki model Systemu 1/2 pozostaje najbardziej wpływową popularną teo
 - Bezpieczeństwa ruchu drogowego (automatyzm kierowcy)
 - Sztucznej inteligencji (dual-process AI, fast-slow reasoning)
 
-## Podsumowanie
+
 
 Teoria Systemu 1 i Systemu 2 dostarcza eleganckich, zrozumiałych ram do analizy myślenia i decyzji. System 1 - szybki, automatyczny, heurystyczny - jest silnikiem codziennego funkcjonowania; System 2 - wolny, analityczny, wysiłkowy - jest jego kontrolerem, ale kontrolerem leniwym i ograniczonym zasobowo. Kahneman nie twierdzi, że System 1 jest zły, a System 2 dobry: każdy jest optymalny w odpowiedniej sytuacji. Kluczowe przesłanie jest metapoznawcze: świadomość, kiedy ufać intuicji, a kiedy zatrzymać się i myśleć uważnie, jest umiejętnością, którą można doskonalić - i która ma fundamentalne znaczenie zarówno dla klinicystów, jak i dla każdego człowieka podejmującego decyzje w warunkach niepewności.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

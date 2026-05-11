@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-29
 reviewCycleMonths: 24
 evidenceCutoffDate: 2026-04-01
@@ -39,8 +39,7 @@ W pracy klinicznej z osobami po urazach neurologicznych warto oddzielać deficyt
 
 **Konsekwencja:** trafniejsze planowanie psychoedukacji bezpieczeństwa i wsparcia środowiskowego.
 
-### Zła praktyka / częsty błąd
-
+### Zła praktyka
 Utożsamianie pojedynczego przypadku z uniwersalną regułą „amygdala = cały lęk” i przenoszenie tego uproszczenia bezpośrednio na psychoterapię lub farmakoterapię.
 
 **Konsekwencja:** błędne modele wyjaśniające, zbyt wąskie interwencje i pomijanie roli procesów poznawczych oraz interocepcji.
@@ -51,7 +50,7 @@ Dominująca narracja mówi, że lęk jest wyłącznie problemem klinicznym, któ
 
 To przesuwa akcent z pytania „jak usunąć lęk?” na pytanie „jak przywrócić proporcję między bezpieczeństwem a autonomią?”.
 
-## Podsumowanie
+
 
 S.M. dostarczyła mocnych dowodów, że ciało migdałowate jest kluczowe dla detekcji zagrożeń zewnętrznych, ekspresji strachu i społecznej ostrożności. Jednocześnie panika wywołana CO₂ wskazuje, że architektura lęku jest sieciowa, a nie jednowęzłowa. Klinicznie oznacza to konieczność wielopoziomowej oceny ryzyka, łączącej neurobiologię, zachowanie i kontekst środowiskowy.
 
@@ -61,5 +60,6 @@ S.M. dostarczyła mocnych dowodów, że ciało migdałowate jest kluczowe dla de
 2. Adolphs, R., Gosselin, F., Buchanan, T. W., Tranel, D., Schyns, P., & Damasio, A. R. (2005). A mechanism for impaired fear recognition after amygdala damage. *Nature*, 433, 68–72.
 3. Feinstein, J. S., Adolphs, R., Damasio, A., & Tranel, D. (2011). The human amygdala and the induction and experience of fear. *Current Biology*, 21(1), 34–38.
 4. LeDoux, J. E., & Pine, D. S. (2016). Using neuroscience to help understand fear and anxiety. *American Journal of Psychiatry*, 173(11), 1083–1093.
+
 
 

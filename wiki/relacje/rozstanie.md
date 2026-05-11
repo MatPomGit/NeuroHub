@@ -147,7 +147,7 @@ Nie ma jednego „właściwego" czasu na nową relację. Badania sugerują, że 
 
 ---
 
-## Podsumowanie
+
 
 Rozstanie to złożone doświadczenie, które angażuje całego człowieka - ciało, emocje, myśli i tożsamość. Żałoba relacyjna jest normalna i potrzebna. Kluczem jest jej przeżywanie (a nie tłumienie), szukanie wsparcia i - z czasem - nadanie sensu temu, co się stało.
 
@@ -164,13 +164,9 @@ Wpisy bibliograficzne zapisuj konsekwentnie w APA 7 oraz dodawaj DOI/URL i oznac
 - Stroebe, M., & Schut, H. (2010). The dual process model of coping with bereavement. *Death Studies, 34*(6), 476–495.
 - Shaver, P., & Hazan, C. (1987). Being lonely, falling in love. *Journal of Social Behavior and Personality, 2*(2), 105–124.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

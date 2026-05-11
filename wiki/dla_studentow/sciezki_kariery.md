@@ -95,7 +95,7 @@ Plan na 12 miesięcy:
 3. Brak dokumentowania kompetencji (portfolio, raporty, projekty).  
 4. Pomijanie kompetencji transferowalnych: komunikacji, pracy zespołowej, etyki danych.
 
-## Podsumowanie
+
 
 Kariera po psychologii nie jest pojedynczą decyzją, lecz sekwencją dobrze zaplanowanych kroków. Najbardziej efektywny model to: **wczesna eksploracja → ukierunkowana praktyka → superwizja i feedback → specjalizacja**.
 
@@ -107,9 +107,6 @@ Kariera po psychologii nie jest pojedynczą decyzją, lecz sekwencją dobrze zap
 4. Savickas, M. L. (2013). Career construction theory and practice. In S. D. Brown & R. W. Lent (Eds.), *Career Development and Counseling* (2nd ed., pp. 147–183). Wiley.  
 5. Super, D. E. (1990). A life-span, life-space approach to career development. In D. Brown et al. (Eds.), *Career Choice and Development* (2nd ed., pp. 197–261). Jossey-Bass.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
+## Podsumowanie

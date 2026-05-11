@@ -59,17 +59,13 @@ Psycholog zdrowia nie „zastępuje” leczenia farmakologicznego czy zabiegoweg
 
 Pacjent po zawale słyszy zalecenia: leki, dieta, ruch, redukcja stresu. Medycznie plan jest poprawny, ale psychologicznie może być przeciążający. W pracy psychologicznej plan dzieli się na małe kroki (np. 10-minutowe spacery, dzienniczek leków, krótkie techniki oddechowe), co zwiększa poczucie skuteczności i szansę utrzymania zmiany.
 
-## Podsumowanie
+
 
 Psychologia zdrowia pomaga przełożyć wiedzę medyczną na **realne codzienne działania** pacjenta. Dzięki temu poprawia nie tylko wskaźniki kliniczne, ale też jakość życia, poczucie wpływu i długoterminowe funkcjonowanie.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

@@ -63,17 +63,13 @@ W psychologii ważny jest model zakładający, że dobrostan osoby z niepełnosp
 | Tożsamościowy | akceptacja, wsparcie społecznościowe | kultura |
 | Praw człowieka | legislacja, rzecznictwo | system prawny |
 
-## Podsumowanie
+
 
 Żaden model nie jest wystarczający sam w sobie. Praktyka oparta na modelu biopsychospołecznym i podejściu praw człowieka pozwala traktować osoby z niepełnosprawnościami jako pełnoprawnych uczestników życia społecznego, których potrzeby wymagają zarówno wsparcia indywidualnego, jak i systemowej zmiany środowiska.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

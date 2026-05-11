@@ -56,17 +56,15 @@ Przełomem były badania z lat 2000–2010, które wykazały, że **internetowa 
 
 W Polsce psychoterapia online nie doczekała się jeszcze odrębnych uregulowań prawnych. Zastosowanie mają ogólne przepisy o zawodzie psychologa, RODO oraz przepisy dotyczące telemedycyny wprowadzone podczas pandemii COVID-19. Polskie Towarzystwo Psychologiczne opublikowało w 2020 r. rekomendacje dotyczące prowadzenia psychoterapii online, podkreślając konieczność zachowania standardów etycznych i technicznych.
 
-## Podsumowanie
+## Perspektywa nieoczywista
+
+
 
 E-terapia jest integralną częścią współczesnej oferty pomocy psychologicznej - nie konkuruje z terapią tradycyjną, lecz ją uzupełnia i poszerza. Jej dynamiczny rozwój stawia przed środowiskiem psychologów wyzwania etyczne, technologiczne i regulacyjne, które wymagają systematycznej refleksji i interdyscyplinarnej współpracy.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

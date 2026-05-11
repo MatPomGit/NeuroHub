@@ -63,17 +63,13 @@ Poza normami prawnymi biegłego psychologa obowiązują **standardy etyczno-zawo
 
 Działalność biegłego reguluje też ustawa o zawodzie psychologa i samorządzie zawodowym psychologów (ustawa z 2001 r., niestety wciąż oczekująca na pełne wdrożenie). Naruszenie zasad etyki zawodowej może skutkować postępowaniem dyscyplinarnym przed komisją dyscyplinarną PTP lub analogicznym organem samorządu zawodowego.
 
-## Podsumowanie
+
 
 System regulacji prawnych opiniowania sądowego w Polsce jest złożony, wielopoziomowy i wymaga od biegłego psychologa dobrej orientacji zarówno w przepisach proceduralnych, jak i materialnoprawnych oraz standardach zawodowych. Znajomość tej podstawy jest warunkiem koniecznym rzetelnego i etycznego wykonywania funkcji biegłego sądowego.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

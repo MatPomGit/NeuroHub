@@ -91,17 +91,13 @@ Polskie badania epidemiologiczne wypalenia zawodowego, choć mniej systematyczne
 
 Ewa, 44-letnia psycholożka kliniczna pracująca w publicznym szpitalu psychiatrycznym od 17 lat, zgłosiła się do superwizora z „brakiem motywacji do pracy". W toku superwizji ujawniono: brak własnej terapii od 8 lat, brak regularnej superwizji, lista 45 aktywnych pacjentów, praca przez weekendy. Objawy: cynizm wobec pacjentów, poczucie nieskuteczności, bezsenność. Superwizor zalecił natychmiastowe zmniejszenie listy pacjentów, wznowienie własnej terapii, uczestnictwo w grupie Balinta i konsultację psychiatryczną. Ewa wróciła do pracy po 3 miesiącach urlopu zdrowotnego z istotnie zreorganizowanymi warunkami pracy.
 
-## Podsumowanie
+
 
 Wypalenie zawodowe jest niemal endemiczne w zawodach pomocowych i służbach. Rozumienie specyfiki ryzyka w poszczególnych grupach zawodowych pozwala na projektowanie celowanych programów prewencji i wsparcia. Polskie dane epidemiologiczne alarmują: skala wypalenia rośnie, a systemy wsparcia instytucjonalnego wciąż pozostają nieadekwatne do potrzeb.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

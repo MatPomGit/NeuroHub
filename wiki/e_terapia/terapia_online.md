@@ -68,17 +68,15 @@ Prowadzenie psychoterapii online wymaga adaptacji technik terapeutycznych do med
 
 Rozmowa telefoniczna jest bardziej dostępna technologicznie niż wideo i może być stosowana jako pierwsza linia wsparcia lub w sytuacjach kryzysowych (telefony zaufania). Brak obrazu paradoksalnie sprzyja skupieniu na głosie, tonie i treści wypowiedzi - niektórzy klienci lepiej wyrażają trudne emocje bez „obserwacji" twarzy.
 
-## Podsumowanie
+## Perspektywa nieoczywista
+
+
 
 Terapia online w formach synchronicznych - wideo, telefon, czat - jest dojrzałą, skuteczną i etycznie możliwą formą świadczenia pomocy psychologicznej. Jej sprawne prowadzenie wymaga specyficznych kompetencji technicznych i klinicznych, a przede wszystkim świadomości zarówno możliwości, jak i ograniczeń, które niesie ze sobą medium cyfrowe.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

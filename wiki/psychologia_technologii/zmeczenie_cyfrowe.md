@@ -43,7 +43,7 @@ Zespół wdraża model „okien komunikacyjnych”: powiadomienia asynchroniczne
 
 **Konsekwencje:** mniejszy koszt przełączania, bardziej przewidywalny rytm pracy, niższy poziom subiektywnego przeciążenia i wyższa jakość decyzji.
 
-### Zła praktyka (częsty błąd)
+### Zła praktyka
 
 Osoba pracuje równolegle na kilku komunikatorach, stale monitoruje skrzynkę i reaguje natychmiast na każde powiadomienie, traktując to jako oznakę odpowiedzialności.
 
@@ -53,7 +53,7 @@ Osoba pracuje równolegle na kilku komunikatorach, stale monitoruje skrzynkę i 
 
 Nieoczywiste, ale dobrze uzasadnione podejście zakłada, że problemem nie jest ilość technologii sama w sobie, lecz **architektura odpowiedzialności poznawczej**. W praktyce oznacza to przesunięcie akcentu z „samokontroli użytkownika” na projektowanie środowiska pracy: hierarchię kanałów, normy odpowiedzi i ograniczenie zbędnych decyzji. Dane z psychologii organizacji wskazują, że interwencje systemowe są trwalsze niż pojedyncze treningi samodyscypliny.
 
-## Podsumowanie
+
 
 Zmęczenie cyfrowe jest zjawiskiem wieloczynnikowym: poznawczym, emocjonalnym i organizacyjnym. Skuteczna profilaktyka wymaga łączenia higieny indywidualnej z rozwiązaniami zespołowymi i instytucjonalnymi. Kluczowa jest redukcja fragmentacji uwagi oraz tworzenie środowiska, które wspiera domykanie zadań i regenerację.
 

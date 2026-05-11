@@ -72,17 +72,13 @@ Jednym z najtrudniejszych zadań biegłego jest ocena, czy badana osoba przedsta
 
 Stwierdzenie symulacji nie jest automatycznie synonimem kłamstwa - może odzwierciedlać głęboki niepokój i desperacką próbę ochrony własnych interesów, co samo w sobie jest klinicznie istotne.
 
-## Podsumowanie
+
 
 Metodologia opiniowania sądowego jest jednym z najtrudniejszych obszarów psychologii stosowanej. Wymaga nie tylko biegłości w stosowaniu metod diagnostycznych, ale też refleksji nad kontekstem sądowym, który fundamentalnie zmienia dynamikę relacji badający–badany. Przestrzeganie zasad metodologicznych - triangulacja, dokumentacja, ocena symulacji - jest gwarancją rzetelności opinii i poszanowania praw wszystkich uczestników postępowania.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

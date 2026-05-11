@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-05-04
 reviewCycleMonths: 18
 evidenceCutoffDate: 2026-03-31
@@ -32,7 +32,7 @@ Jeżeli tożsamość grupowa opiera się na wysokiej kontroli i niskiej toleranc
 - Dane jakościowe wskazują, że konflikty między tożsamością osobistą i normą wspólnoty należą do najczęstszych źródeł religijnych kryzysów rozwojowych.
 - W badaniach nad wsparciem społecznym różnice między osobami regularnie uczestniczącymi we wspólnocie i osobami nieuczestniczącymi bywają statystycznie istotne nawet po kontroli wieku i statusu socjoekonomicznego.
 
-## Dobra praktyka
+## Praktyczne przykłady
 W pracy psychologicznej warto mapować trzy poziomy: "ja", "my" i "oni". Oznacza to pytania o osobiste wartości, doświadczenie wspólnoty oraz sposób postrzegania osób spoza grupy. Takie mapowanie pozwala wzmacniać zasoby wspólnotowe bez wzmacniania polaryzacji.
 
 **Konsekwencje:** większa spójność tożsamościowa, mniejsze ryzyko konfliktów relacyjnych, lepsze wykorzystanie wsparcia społecznego.
@@ -50,7 +50,7 @@ W części badań terenowych sam poziom deklarowanej religijności słabiej prze
 ## Perspektywa nieoczywista
 Wspólnota religijna bywa opisywana wyłącznie jako struktura norm. Z perspektywy psychologii można ją jednak rozumieć także jako "ekosystem regulacji emocji". To przesuwa uwagę z deklaracji ideologicznych na praktyczne pytanie: czy dana wspólnota pomaga ludziom lepiej radzić sobie z lękiem, stratą i konfliktem.
 
-## Podsumowanie
+
 - Tożsamość religijna rozwija się relacyjnie, a nie wyłącznie indywidualnie.
 - Wspólnota może działać ochronnie przez wsparcie i sens, ale też ryzykownie przez presję normatywną.
 - Kluczowe znaczenie ma jakość granic grupowych i poziom inkluzywności.
@@ -64,3 +64,4 @@ Wspólnota religijna bywa opisywana wyłącznie jako struktura norm. Z perspekty
 5. Koenig, H. G. (2023). Religion, spirituality, and mental health: An updated review. *International Review of Psychiatry*, 35(7-8), 583-599.
 6. Exline, J. J., & Rose, E. D. (2024). Religious and spiritual struggles in clinical settings. *Current Opinion in Psychology*, 58.
 7. Pargament, K. I. (2011). *Spiritually Integrated Psychotherapy*. Guilford Press.
+

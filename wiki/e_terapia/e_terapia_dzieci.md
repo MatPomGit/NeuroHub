@@ -49,17 +49,15 @@ Modele wsparcia rodziców:
 
 E-terapia umożliwia też zdalne narzędzia diagnostyczne i monitoring. Aplikacje mogą zbierać dane pasywne (aktywność, sen, korzystanie ze smartfona) jako biomarkery stanu psychicznego - choć ich kliniczne zastosowanie jest wciąż eksperymentalne. Standaryzowane kwestionariusze (np. SCARED dla lęku, MFQ dla depresji, SDQ dla szerokiego spektrum problemów) mogą być wypełniane online i monitorowane przez terapeutę.
 
-## Podsumowanie
+## Perspektywa nieoczywista
+
+
 
 E-terapia dzieci i młodzieży jest obiecującą i dynamicznie rozwijającą się dziedziną. Jej sukces zależy od umiejętnego balansowania między technologiczną innowacją a klinicznymi standardami, dostosowaniem do etapu rozwojowego i kulturowego kontekstu oraz uważnym zarządzaniem kwestiami prawnymi i etycznymi. Terapeuta pracujący zdalnie z młodymi pacjentami musi być szczególnie dobrze przygotowany do nawigowania w tych złożonych obszarach.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

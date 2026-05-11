@@ -53,17 +53,13 @@ Rewolucja głębokiego uczenia maszynowego (od ok. 2012) radykalnie poprawiła m
 
 Pojawienie się dużych modeli językowych (GPT-3 w 2020, GPT-4 w 2023) otworzyło erę robotów zdolnych do naturalnej rozmowy - i nowych pytań o granicę między symulacją emocji a ich rzeczywistym przeżywaniem.
 
-## Podsumowanie
+
 
 Historia robotyki afektywnej to podróż od mechanicznych automatonów do systemów zdolnych do złożonej interakcji emocjonalnej. Każdy etap tej historii ujawniał nowe pytania - nie tylko techniczne, lecz przede wszystkim psychologiczne, etyczne i filozoficzne.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

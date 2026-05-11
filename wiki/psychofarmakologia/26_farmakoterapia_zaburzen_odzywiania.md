@@ -1,4 +1,4 @@
-# 26. Farmakoterapia zaburzeń odżywiania
+﻿# 26. Farmakoterapia zaburzeń odżywiania
 
 ## Wprowadzenie
 W zaburzeniach odżywiania farmakoterapia ma rolę wspierającą i zależy od podtypu klinicznego oraz stanu somatycznego. Najwyższym priorytetem pozostaje bezpieczeństwo metaboliczne i interwencje psychoterapeutyczne.
@@ -12,14 +12,18 @@ W zaburzeniach odżywiania farmakoterapia ma rolę wspierającą i zależy od po
 Skuteczność leków jest zwykle umiarkowana; większe znaczenie ma łączenie farmakoterapii z terapią żywieniową, rodzinną i monitorowaniem medycznym.
 
 ## Praktyczne przykłady
-Dobra praktyka: ocena ryzyka kardiologicznego i elektrolitowego przed wdrożeniem leczenia.
-Zła praktyka: farmakoterapia bez równoległej opieki żywieniowej.
+### Dobra praktyka
+
+ocena ryzyka kardiologicznego i elektrolitowego przed wdrożeniem leczenia.
+### Zła praktyka
+
+farmakoterapia bez równoległej opieki żywieniowej.
 Konsekwencja: wzrost ryzyka powikłań somatycznych.
 
 ## Perspektywa nieoczywista
 W praktyce klinicznej największe korzyści przynosi nie maksymalizacja liczby interwencji, lecz **precyzyjne ograniczanie leczenia do elementów o najwyższej wartości dodanej**. To podejście bywa mniej intuicyjne niż „eskalacja terapii”, ale często poprawia współpracę, bezpieczeństwo i długofalowe wyniki.
 
-## Podsumowanie
+
 Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dane naukowe, monitoring efektów oraz współdecydowanie z pacjentem. Wysoka jakość leczenia wynika z konsekwentnej ewaluacji korzyści i ryzyka na każdym etapie terapii.
 
 ## Bibliografia
@@ -28,5 +32,7 @@ Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dan
 - NICE. (2022-2025). Guidance on mental health and pharmacological treatment (living updates).
 - WHO. (2023). ICD-11 Clinical Descriptions and Diagnostic Guidelines.
 - Meyer, J. M., & Quenzer, L. F. (2018). Psychopharmacology: Drugs, the Brain, and Behavior (3rd ed.).
+
+
 
 

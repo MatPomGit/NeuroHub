@@ -1,4 +1,4 @@
-# 19. Farmakoterapia zespołów lękowych
+﻿# 19. Farmakoterapia zespołów lękowych
 
 ## Wprowadzenie
 W zaburzeniach lękowych leczeniem pierwszego rzutu są zwykle SSRI/SNRI oraz psychoterapia, zwłaszcza CBT. Benzodiazepiny mają rolę ograniczoną czasowo i sytuacyjnie.
@@ -12,14 +12,18 @@ W zaburzeniach lękowych leczeniem pierwszego rzutu są zwykle SSRI/SNRI oraz ps
 Dobór terapii powinien uwzględniać podtyp zaburzenia, wzorzec unikania, współchorobowość i preferencje pacjenta. Leczenie farmakologiczne jest najbardziej efektywne, gdy wspiera aktywną ekspozycję i zmianę nawyków.
 
 ## Praktyczne przykłady
-Dobra praktyka: łączenie farmakoterapii z planem ekspozycyjnym.
-Zła praktyka: długotrwała sedacja bez pracy nad mechanizmami lęku.
+### Dobra praktyka
+
+łączenie farmakoterapii z planem ekspozycyjnym.
+### Zła praktyka
+
+długotrwała sedacja bez pracy nad mechanizmami lęku.
 Konsekwencja: utrwalenie unikania i nawrotowość objawów.
 
 ## Perspektywa nieoczywista
 W praktyce klinicznej największe korzyści przynosi nie maksymalizacja liczby interwencji, lecz **precyzyjne ograniczanie leczenia do elementów o najwyższej wartości dodanej**. To podejście bywa mniej intuicyjne niż „eskalacja terapii”, ale często poprawia współpracę, bezpieczeństwo i długofalowe wyniki.
 
-## Podsumowanie
+
 Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dane naukowe, monitoring efektów oraz współdecydowanie z pacjentem. Wysoka jakość leczenia wynika z konsekwentnej ewaluacji korzyści i ryzyka na każdym etapie terapii.
 
 ## Bibliografia
@@ -28,5 +32,7 @@ Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dan
 - NICE. (2022-2025). Guidance on mental health and pharmacological treatment (living updates).
 - WHO. (2023). ICD-11 Clinical Descriptions and Diagnostic Guidelines.
 - Meyer, J. M., & Quenzer, L. F. (2018). Psychopharmacology: Drugs, the Brain, and Behavior (3rd ed.).
+
+
 
 

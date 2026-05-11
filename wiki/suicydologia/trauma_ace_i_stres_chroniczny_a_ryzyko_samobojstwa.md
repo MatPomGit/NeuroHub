@@ -45,7 +45,7 @@ W poradni zdrowia psychicznego stosuje się standardową ocenę ACE i objawów p
 
 **Konsekwencje:** mniejsze ryzyko retraumatyzacji, większa skuteczność terapii, niższa częstość nawrotów kryzysu suicydalnego.
 
-### Zła praktyka (częsty błąd)
+### Zła praktyka
 Konfrontowanie pacjenta z trudnymi wspomnieniami bez wcześniejszej stabilizacji („szybko przepracujemy traumę”), bagatelizowanie przemocy emocjonalnej albo interpretowanie reakcji pourazowych jako „manipulacji”.
 
 **Konsekwencje:** nasilenie dysocjacji i pobudzenia, przerwanie terapii, wzrost ryzyka samouszkodzeń i prób samobójczych.
@@ -53,7 +53,7 @@ Konfrontowanie pacjenta z trudnymi wspomnieniami bez wcześniejszej stabilizacji
 ## Perspektywa nieoczywista
 W dyskursie publicznym trauma bywa postrzegana wyłącznie jako „przeszłość”. Z klinicznego punktu widzenia jest to proces teraźniejszy: uraz żyje w aktualnych wzorcach regulacji, relacjach i fizjologii stresu. Dlatego skuteczna profilaktyka samobójstw to nie tylko „leczenie objawów”, ale także odbudowa poczucia bezpieczeństwa w codziennym funkcjonowaniu: w domu, pracy, szkole i systemie ochrony zdrowia.
 
-## Podsumowanie
+
 - ACE, trauma i stres chroniczny istotnie zwiększają ryzyko suicydalne.
 - Najsilniej działają przez dysregulację emocji, beznadziejność, zaburzenia snu i osłabienie wsparcia społecznego.
 - Kluczowe jest podejście trauma-informed: etapowość, stabilizacja i unikanie retraumatyzacji.

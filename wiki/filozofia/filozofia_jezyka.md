@@ -66,17 +66,13 @@ Filozofia języka przenika praktykę terapeutyczną:
 - **Metafory w terapii** - Lakoff i Johnson (*Metaphors We Live By*, 1980) pokazali, że myślenie jest w istocie metaforyczne; zmiana metafory może zmienić rozumienie sytuacji.
 - **Efekt etykietowania** - badania pokazują, że diagnoza psychiatryczna wpływa na sposób, w jaki pacjent i jego otoczenie interpretują jego zachowania.
 
-## Podsumowanie
+
 
 Filozofia języka przypomina psychologowi, że nie pracuje z czystą rzeczywistością - pracuje z językiem, który ją opisuje, interpretuje i współtworzy. Każde słowo użyte w gabinecie - diagnoza, metafora, pytanie, milczenie - jest aktem językowym o konsekwencjach terapeutycznych. Wrażliwość na język jest fundamentem dobrej praktyki klinicznej.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

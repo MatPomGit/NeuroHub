@@ -87,7 +87,7 @@ Psychologia kulturowa ma bezpośrednie zastosowanie w:
 
 ---
 
-## Podsumowanie
+
 
 Psychologia kulturowa przypomina, że umysł nie jest izolowanym mechanizmem - jest zawsze umysłem **w kulturze**. Rozumienie tego związku jest warunkiem rzetelnej nauki o człowieku oraz skutecznej pomocy psychologicznej w zróżnicowanym kulturowo świecie.
 
@@ -115,13 +115,9 @@ W edukacji i badaniach psychologia kulturowa wzmacnia trafność wniosków poprz
 
 Takie podejście zwiększa nie tylko rzetelność naukową, ale także użyteczność społeczną psychologii.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

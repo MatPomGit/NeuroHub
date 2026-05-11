@@ -81,17 +81,13 @@ Taki styl zmniejsza wstyd i zwiększa gotowość do korekty planu.
 
 Pacjent z cukrzycą typu 2 pomija wieczorną dawkę leku 3–4 razy w tygodniu. Powodem nie jest brak motywacji, lecz nieregularny tryb pracy. Po modyfikacji planu (stałe powiązanie dawki z kolacją, przypomnienie w telefonie, cotygodniowy monitoring) adherencja wyraźnie się poprawia.
 
-## Podsumowanie
+
 
 Adherencja to proces, a nie cecha pacjenta. Wymaga partnerskiej komunikacji, realistycznego planu i systemowego wsparcia. Poprawa adherencji jest jedną z najbardziej opłacalnych klinicznie interwencji w psychologii zdrowia.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

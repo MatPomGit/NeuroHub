@@ -50,17 +50,13 @@ Tradycyjny model medyczny w psychiatrii i psychologii klinicznej koncentruje si�
 
 Psychologia pozytywna czerpie z psychologii osobowości, neuropsychologii, psychologii społecznej i ewolucyjnej. Jej twierdzenia są testowane metodami empirycznymi: skalami samoopisowymi (np. *Satisfaction With Life Scale*), wskaźnikami biologicznymi (kortyzol, aktywność prefrontalnego kory mózgowej), badaniami doświadczania chwilowego (*experience sampling method*) oraz badaniami interwencyjnymi.
 
-## Podsumowanie
+
 
 Psychologia pozytywna jest rzetelną nauką o dobrostanie, siłach i rozkwicie człowieka - nie zaś zbiorem optymistycznych sentencji. Jej narodziny w 1998 roku zapoczątkowały rewolucję metodologiczną, która poszerzyła horyzont psychologii poza leczenie patologii ku budowaniu pełnego, znaczącego życia.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

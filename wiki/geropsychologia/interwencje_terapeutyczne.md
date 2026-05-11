@@ -76,17 +76,13 @@ W geropsychologii warto oceniać nie tylko nasilenie objawów, ale także:
 - regularność aktywności dnia codziennego,
 - subiektywną jakość życia.
 
-## Podsumowanie
+
 
 Skuteczna interwencja terapeutyczna w starości jest spersonalizowana, wielowymiarowa i osadzona w realiach życia seniora. Największą poprawę przynosi podejście łączące terapię psychologiczną, aktywizację społeczną i wsparcie środowiskowe.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

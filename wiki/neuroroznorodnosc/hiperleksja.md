@@ -68,17 +68,13 @@ Podejścia takie jak **RITT** (*Reading Is The Thing*) i **terapia oparta na tek
 
 Perspektywa neuroróżnorodności podkreśla, że wyjątkowe zdolności i neuroatypowość często są ze sobą nierozłącznie splecione. „Leczenie" neuroatypowości (np. intensywna terapia behawioralna mająca na celu ujednolicenie) może - paradoksalnie - tłumić jednocześnie unikalne zdolności. Zamiast dążyć do „normalizacji", środowisko wspierające powinno budować na mocnych stronach i tworzyć warunki, w których wyjątkowość jest szanowana i pielęgnowana.
 
-## Podsumowanie
+
 
 Hiperleksja i zdolności sawanta to fascynujące przejawy neuroplastyczności i różnorodności ludzkiego umysłu. Rozumienie tych zjawisk jest ważne nie tylko dla nauki, ale i dla praktyki pedagogicznej - szczególnie dla nauczycieli i terapeutów pracujących z uczniami o nieoczekiwanych profilach zdolności.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

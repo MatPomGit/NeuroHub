@@ -102,17 +102,13 @@ Stereotyp samotnego, nietowarzyskiego nastolatka grającego w ciemnym pokoju jes
 
 Pandemia COVID-19 dramatycznie zmieniła rolę gier jako przestrzeni społecznej. W lockdownie gry stały się dla milionów ludzi głównym kanałem kontaktu z innymi. Sprzedaż gier wzrosła o ponad 30%, a platformy komunikacji dla graczy (Discord) osiągnęły rekordowe liczby użytkowników. Badania pandemiczne ujawniły, że gracze raportowali mniejsze poczucie izolacji niż non-gracze, co sugeruje ochronną rolę społeczności gamingowych w czasach kryzysu.
 
-## Podsumowanie
+
 
 Gry wieloosobowe są pełnoprawnymi przestrzeniami społecznymi, w których rozwijają się prawdziwe relacje, tożsamości grupowe i kapitał społeczny. Podejście kliniczne do graczy online powinno uwzględniać zarówno potencjalne korzyści (przynależność, wsparcie, kompetencje społeczne), jak i ryzyka (toksyczność, ucieczka od realnych relacji). Zrozumienie psychologii gildii i dynamiki grup online jest coraz ważniejszą kompetencją kliniczną w dobie cyfryzacji.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

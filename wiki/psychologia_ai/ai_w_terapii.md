@@ -127,17 +127,13 @@ Wyzwania specyficzne dla Polski obejmują:
 - Brak jasnych regulacji dotyczących AI w ochronie zdrowia
 - Potrzeba lokalizacji narzędzi (dostosowania do języka i kultury polskiej)
 
-## Podsumowanie
+
 
 AI w psychoterapii i diagnostyce to obszar pełen obiecujących możliwości i realnych zagrożeń. Właściwie stosowana - jako uzupełnienie tradycyjnej opieki psychologicznej, a nie jej zastępstwo - może dramatycznie zwiększyć dostępność pomocy dla osób jej potrzebujących. Warunkiem jest jednak solidna podstawa dowodów naukowych, transparentność wobec użytkowników, rygorystyczne standardy etyczne i ścisła współpraca między specjalistami zdrowia psychicznego, informatykami i regulatorami.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

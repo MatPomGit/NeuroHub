@@ -1,4 +1,4 @@
-# Mikrointerwencje w czasie rzeczywistym: 90 sekund do odzyskania kontroli
+﻿# Mikrointerwencje w czasie rzeczywistym: 90 sekund do odzyskania kontroli
 
 ## Wprowadzenie
 Ten artykuł należy do ścieżki o układzie spiralnym i odpowiada poziomowi **interwencyjny**. Celem jest przeprowadzenie czytelnika od intuicyjnego rozumienia tematu do decyzji klinicznych i praktycznych konsekwencji. Opisuję zarówno mocne strony podejść opartych na dowodach, jak i ich ograniczenia.
@@ -15,12 +15,14 @@ Kluczowy mechanizm polega na tym, że ten sam objaw może mieć różne funkcje 
 
 Wniosek praktyczny: najwyższą jakość opieki osiąga się wtedy, gdy łączy się perspektywę objawową (co widać), funkcjonalną (po co to się utrzymuje) i rozwojową (na jakim etapie życia to się dzieje).
 
-## Dobra praktyka
+## Praktyczne przykłady
+
+### Dobra praktyka
 Dobra praktyka polega na zastosowaniu krótkiego cyklu: **hipoteza → pomiar → mikrointerwencja → ewaluacja**. W zespole klinicznym oznacza to precyzyjne cele, monitorowanie postępów i jawne kryteria zmiany planu.
 
 **Konsekwencja**: mniejsze ryzyko błędów poznawczych i większa przewidywalność efektów dla dziecka, rodziny lub zespołu.
 
-## Zła praktyka
+### Zła praktyka
 Złą praktyką jest etykietowanie problemu na podstawie pierwszego silnego wrażenia oraz pomijanie kontekstu relacyjnego i środowiskowego. Częstym błędem jest także „nadinterwencja”, czyli mnożenie technik bez sprawdzenia, co realnie działa.
 
 **Konsekwencja**: utrata zaufania, wzrost kosztów emocjonalnych i ryzyko działań jatrogennych.
@@ -30,7 +32,7 @@ Dominująca narracja często pyta: „jak szybko zredukować objawy?”. Perspek
 
 To przesunięcie akcentu jest uzasadnione danymi z badań procesowych: trwała poprawa częściej wynika z poprawy relacji, poczucia sprawstwa i jakości środowiska niż z samej krótkotrwałej redukcji symptomu.
 
-## Podsumowanie
+
 Na tym etapie spirali kluczowe jest rozumienie, że rzetelna praktyka wymaga równowagi między wiedzą teoretyczną, pokorą epistemiczną i stałą ewaluacją działań. Najbezpieczniejsze decyzje kliniczne wynikają z pracy hipotezowej i współpracy międzyosobowej.
 
 ## Bibliografia
@@ -39,3 +41,5 @@ Na tym etapie spirali kluczowe jest rozumienie, że rzetelna praktyka wymaga ró
 - Hayes, S. C., Strosahl, K. D., & Wilson, K. G. (2012). *Acceptance and Commitment Therapy* (2nd ed.). Guilford Press.
 - Rosenberg, M. B. (2015). *Porozumienie bez przemocy* (NVC). Czarna Owca.
 - Eisenberger, N. I. (2012). The pain of social disconnection. *Nature Reviews Neuroscience*, 13, 421–434.
+
+

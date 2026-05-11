@@ -60,17 +60,13 @@ Poczucie sensu i celu jest jednym z najsilniejszych predyktorów zdrowia fizyczn
 - niższe ryzyko samobójstwa i zachowań autodestrukcyjnych
 - wyższa motywacja do dbania o zdrowie i przestrzegania zaleceń lekarskich
 
-## Podsumowanie
+
 
 Sens życia i poczucie celu są fundamentalnymi składnikami ludzkiego dobrostanu, zakorzenionymi zarówno w tradycji filozoficznej (Arystoteles, Frankl), jak i we współczesnych badaniach empirycznych. Psychologia pozytywna dostarcza narzędzi do eksploracji i rozwijania tych wymiarów - uznając, że życie pełne sensu jest nie tylko piękniejsze, ale dosłownie zdrowsze i dłuższe.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

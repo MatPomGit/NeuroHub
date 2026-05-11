@@ -58,17 +58,13 @@ Dostępność środowiska jest podstawowym warunkiem autonomii i uczestnictwa.
 
 Młoda kobieta po urazie rdzenia kręgowego na poziomie Th6 (paraplegja) przez pół roku odmawia rehabilitacji i kontaktów społecznych. W terapii ACT pracuje nad akceptacją zmienionych możliwości ciała, wyznaczaniem nowych celów życiowych i stopniowym powrotem do aktywności - najpierw online, potem w środowisku lokalnym.
 
-## Podsumowanie
+
 
 Niepełnosprawność ruchowa jest wyzwaniem zarówno medycznym, jak i psychospołecznym. Kluczem do wysokiej jakości życia jest nie minimalizowanie ograniczeń, lecz maksymalizowanie uczestnictwa i wsparcie autonomii - przy jednoczesnym usuwaniu barier środowiskowych.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

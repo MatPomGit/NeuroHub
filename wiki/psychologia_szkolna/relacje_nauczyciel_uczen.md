@@ -50,17 +50,13 @@ Polska tradycja edukacyjna historycznie kładła nacisk na autorytet nauczyciela
 
 Badania polskie wskazują, że uczniowie cenią u nauczycieli sprawiedliwość, poczucie humoru, zainteresowanie nimi jako osobami oraz jasność i konsekwencję w ocenianiu. Relacje oparte na wzajemnym szacunku są identyfikowane jako jeden z kluczowych czynników chroniących przed wypaleniem szkolnym uczniów.
 
-## Podsumowanie
+
 
 Relacja nauczyciel–uczeń jest fundamentem, na którym opiera się cały proces edukacyjny. Ciepło, wrażliwość i responsywność nauczyciela działają nie tylko jako czynniki motywacyjne, ale jako realne wsparcie rozwojowe - szczególnie dla uczniów z trudnościami emocjonalnymi lub deficytami relacyjnymi. Inwestowanie w jakość tych relacji - poprzez szkolenia nauczycieli, zmniejszanie biurokracji szkolnej i troskę o dobrostan kadry - jest jednym z najbardziej kosztowo-efektywnych działań na rzecz poprawy wyników edukacyjnych.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

@@ -82,17 +82,13 @@ Na podstawie dostępnych dowodów psycholodzy formułują następujące wskazów
 - Regularne audyty korzystania z telefonu (aplikacje Screen Time, Digital Wellbeing)
 - Świadome projektowanie ekranu głównego - usuwanie aplikacji opartych na nieprzerwanym przewijaniu
 
-## Podsumowanie
+
 
 Smartfon jest narzędziem o niebywałej mocy - komunikacyjnej, informacyjnej i rozrywkowej. Jednocześnie jego projekt psychologiczny nakierowany na maksymalizację zaangażowania wchodzi w bezpośredni konflikt z zasobami uwagi, głębią pamięci i stabilnością emocjonalną użytkownika. Świadomość tych mechanizmów nie oznacza postulatu, by wyrzucić telefon - oznacza, że mamy prawo i zdolność, by korzystać z niego na własnych warunkach.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

@@ -94,17 +94,13 @@ Strategie efektywnej mediacji rodzicielskiej:
 - **2–5 lat**: maksymalnie 1 godzina dziennie treści wysokiej jakości, z udziałem rodzica
 - **6 lat i starsze**: spójne ograniczenia; ekrany nie powinny wypierać snu, aktywności fizycznej i kontaktów społecznych
 
-## Podsumowanie
+
 
 Tablety i ekrany dotykowe nie są ani magicznym narzędziem edukacyjnym, ani jednoznaczną przyczyną problemów rozwojowych. Ich wpływ zależy od wieku dziecka, ilości czasu, rodzaju treści i - przede wszystkim - udziału rodzica. Wiedza o psychologicznych mechanizmach rządzących uczeniem się małego dziecka pozwala świadomie kształtować środowisko cyfrowe tak, by technologia służyła rozwojowi, a nie go hamowała.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

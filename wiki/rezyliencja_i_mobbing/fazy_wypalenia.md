@@ -106,17 +106,13 @@ Wiedza o zaangażowaniu jest kluczowa dla profilaktyki wypalenia: celem interwen
 
 Piotr, 35-letni specjalista ds. sprzedaży, zgłosił się do coacha z opisem: „Kiedyś kochałem tę pracę. Teraz ledwo ją znoszę." W analizie faz Edelwicha: wyraźne przejście od entuzjazmu (pierwsze 2 lata pracy) przez stagnację (awans, który nie przyniósł spodziewanego poczucia sensu) do frustracji i początku apatii. Wynik OLBI: wysokie wyczerpanie i wysoki poziom wycofania. Diagnoza JD-R: silne wymagania (presja sprzedażowa, konflikty z klientami) przy szczątkowych zasobach (brak informacji zwrotnej od przełożonego, brak autonomii, brak możliwości szkoleniowych). Interwencja: coaching kariery + rozmowa z HR o zmianie zakresu zadań.
 
-## Podsumowanie
+
 
 Wypalenie zawodowe jest procesem fazowym, który można identyfikować i przerywać na wczesnych etapach. Model faz Edelwicha, teoria COR Hobfolla i model JD-R Bakkera i Demerouti tworzą spójny obraz mechanizmów wypalenia i wyznaczają konkretne punkty interwencji - zarówno na poziomie indywidualnym, jak i systemowym.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

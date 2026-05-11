@@ -87,17 +87,13 @@ Skuteczne wsparcie opiekunów wymaga współpracy sektorowej:
 - programów edukacyjnych dla rodzin,
 - szybkich ścieżek pomocy psychologicznej.
 
-## Podsumowanie
+
 
 Opieka nad opiekunami to nie „dodatek”, ale warunek stabilnej opieki nad osobą starszą. Wsparcie psychologiczne, organizacyjne i społeczne opiekuna poprawia dobrostan całego systemu rodzinnego i zmniejsza ryzyko kryzysu opiekuńczego.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

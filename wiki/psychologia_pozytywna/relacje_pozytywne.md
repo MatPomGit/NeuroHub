@@ -56,17 +56,13 @@ Oba typy są wartościowe. Badania wskazują, że pary, które pielęgnują nowo
 
 Mechanizm, przez który relacje chronią zdrowie, jest wielopoziomowy: wsparcie społeczne buforuje reakcję na stres (niższy kortyzol, mniejsza aktywacja osi HPA), sprzyja zdrowotnym zachowaniom (partnerzy i przyjaciele motywują do prozdrowotnych decyzji), zmniejsza poczucie izolacji (samotność jest stanem zagrażającym na poziomie neurobiologicznym) i dostarcza poczucia sensu i tożsamości.
 
-## Podsumowanie
+
 
 Pozytywne relacje i miłość są nie tylko przyjemne - są biologicznie i psychologicznie niezbędne dla zdrowia, długowieczności i pełni życia. Badania Gottmana dostarczają konkretnych wskazówek dla związków, teoria Fredrickson poszerza rozumienie miłości poza romantyczną diadę, a teoria przywiązania wyjaśnia, skąd biorą się wzorce relacyjne. Psychologia pozytywna traktuje relacje jako zasób, który można świadomie pielęgnować i rozwijać.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

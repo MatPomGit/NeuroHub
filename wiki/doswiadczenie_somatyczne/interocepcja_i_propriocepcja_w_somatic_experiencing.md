@@ -1,4 +1,4 @@
-# Interocepcja i propriocepcja w Somatic Experiencing
+﻿# Interocepcja i propriocepcja w Somatic Experiencing
 
 ## Wprowadzenie
 
@@ -29,8 +29,9 @@ W praktyce oznacza to, że pacjent może najpierw nauczyć się rozpoznawać dro
 Nie każdy pacjent potrzebuje większej „uważności na ciało” w tym samym stylu. U części osób celem jest raczej zwiększenie tolerancji doznań, u innych odtworzenie minimalnego kontaktu z ciałem bez przeciążenia.
 Dlatego terapeuta nie powinien zakładać jednego uniwersalnego sposobu pracy. To, co pomaga jednej osobie, u innej może być zbyt intensywne. Kluczowe jest dostrojenie poziomu kontaktu do aktualnej pojemności regulacyjnej.
 
-## Dobra praktyka
+## Praktyczne przykłady
 
+### Dobra praktyka
 Przykład dobrej praktyki: terapeuta prosi pacjenta, by zauważył jedynie jeden sygnał wewnętrzny, na przykład ciężar klatki piersiowej, i jeden sygnał zewnętrzny, na przykład kontakt pleców z oparciem.
 Takie zawężenie pola uwagi ogranicza ryzyko przeciążenia. Pacjent dostaje wtedy prostą, wykonalną instrukcję. To zwiększa szansę na realne doświadczenie regulacji już w trakcie sesji.
 
@@ -39,8 +40,7 @@ Takie zawężenie pola uwagi ogranicza ryzyko przeciążenia. Pacjent dostaje wt
 Pacjent uczy się rozpoznawać sygnały bez zalewania, co zwiększa szansę na stabilną regulację między sesjami.
 Z czasem poprawia się też zdolność samodzielnego koregowania stanu pobudzenia. To sprzyja poczuciu sprawczości i zmniejsza zależność od zewnętrznych regulacji. W praktyce jest to efekt bardzo pożądany.
 
-## Zła praktyka
-
+### Zła praktyka
 Przykład błędu: intensywne kierowanie uwagi do wnętrza ciała u osoby z silną skłonnością do dysocjacji lub ataków paniki.
 Takie podejście może od razu podnieść pobudzenie zamiast je obniżyć. Osoba przeciążona może odebrać to jako zagrożenie. Wtedy narzędzie, które miało pomagać, staje się źródłem dyskomfortu.
 
@@ -54,7 +54,7 @@ To utrudnia dalszą pracę, bo pacjent zaczyna unikać wszystkiego, co wiąże s
 W debacie klinicznej interocepcję często przedstawia się jako samodzielny cel. W SE ma ona sens głównie wtedy, gdy służy orientacji, regulacji i odzyskiwaniu sprawczości, a nie samemu „skanowaniu ciała”.
 To ważne rozróżnienie, bo samo skupienie na doznaniach nie zawsze jest terapeutyczne. Czasem może nawet nasilać napięcie. Dopiero osadzenie go w regulacji czyni z niego narzędzie zmiany.
 
-## Podsumowanie
+
 
 Interocepcja i propriocepcja są podstawowymi kanałami pracy w SE. Odpowiednio dawkowane zwiększają precyzję odczytu sygnałów z ciała i wspierają bezpieczeństwo terapii.
 Ich użycie wymaga jednak wyczucia i stopniowania. Wtedy pomagają nie tylko zrozumieć ciało, ale też odzyskać kontakt z nim bez przeciążenia. To właśnie ten balans stanowi ich największą wartość.
@@ -65,3 +65,5 @@ Ich użycie wymaga jednak wyczucia i stopniowania. Wtedy pomagają nie tylko zro
 - Payne, P., Levine, P. A., & Crane-Godreau, M. A. (2015). Somatic experiencing: using interoception and proprioception as core elements of trauma therapy. Frontiers in Psychology, 6, 93.
 - Craig, A. D. (2009). How do you feel? Interoception: the sense of the physiological condition of the body. Nature Reviews Neuroscience, 10, 59–70.
 - Ogden, P., Minton, K., & Pain, C. (2006). Trauma and the Body. W. W. Norton.
+
+

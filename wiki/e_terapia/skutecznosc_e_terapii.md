@@ -48,17 +48,15 @@ Ważne zastrzeżenie: większość badań porównawczych dotyczy protokołów CB
 
 Jednym z wyzwań e-terapii jest wysoki wskaźnik rezygnacji (*attrition*). W programach bez wsparcia ludzkiego wskaźniki ukończenia sięgają zaledwie 20–50%. Wsparcie terapeutyczne, przypomnenia, gamifikacja i personalizacja mogą istotnie zwiększać retencję.
 
-## Podsumowanie
+## Perspektywa nieoczywista
+
+
 
 E-terapia ma solidne podstawy empiryczne szczególnie dla iCBT w depresji i zaburzeniach lękowych. Jej skuteczność jest jednak uwarunkowana licznymi czynnikami - diagnozą, nasileniem, formą wsparcia, motywacją pacjenta i jakością platformy. Rzetelna kwalifikacja pacjentów do e-terapii i monitoring postępu są kluczowe dla uzyskania dobrych wyników klinicznych.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

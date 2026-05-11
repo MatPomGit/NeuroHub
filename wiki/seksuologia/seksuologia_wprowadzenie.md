@@ -44,18 +44,12 @@ Terapia seksuologiczna łączy elementy psychoedukacji, terapii indywidualnej i 
 
 Seksuologia jest dziedziną szczególnie wrażliwą etycznie. Kwestie zgody, intymności, poufności, a także granice między wariantem a patologią - wszystkie wymagają stałej czujności. Historyczna patologizacja homoseksualności (usunięta z DSM dopiero w 1973, z ICD w 1990) jest przestrogą przed nadużywaniem władzy eksperckiej w imię normatywności. Współcześnie debata toczy się wokół tzw. terapii konwersyjnych - praktyk mających na celu zmianę orientacji seksualnej lub tożsamości płciowej, które są nieskuteczne, a wręcz szkodliwe i są zakazane lub zniechęcane przez główne towarzystwa naukowe i kliniczne.
 
-
-
-
 ## Perspektywa nieoczywista
-
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
 
 ## Podsumowanie
 
-Najważniejszy wniosek jest taki, że rzetelne rozumienie omawianego tematu wymaga łączenia definicji, danych empirycznych i konsekwencji praktycznych. Skuteczne działania opierają się na dopasowaniu metod do celu, monitorowaniu efektów oraz świadomym zarządzaniu ograniczeniami. Jednocześnie należy zachować ostrożność wobec nadmiernych uogólnień, bo jakość wniosków zależy od kontekstu i jakości pomiaru. Włączenie perspektywy alternatywnej zwiększa trafność diagnozy i użyteczność interwencji. Ostatecznie to właśnie integracja wiedzy teoretycznej z praktyką decyduje o wartości edukacyjnej i klinicznej artykułu.
 
+## Podsumowanie
 
 ## Bibliografia
 

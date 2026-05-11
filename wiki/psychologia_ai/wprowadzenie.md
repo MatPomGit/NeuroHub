@@ -128,17 +128,13 @@ Szczegółowo omówione zostaną zagadnienia takie jak:
 10. Antropomorfizacja - dlaczego traktujemy maszyny jak ludzi
 11. Przyszłość relacji człowiek–AI
 
-## Podsumowanie
+
 
 Psychologia sztucznej inteligencji to dziedzina, która odpowiada na jedne z najważniejszych pytań naszych czasów: jak żyć z inteligentnymi maszynami, jak je rozumieć i jak sprawić, by służyły ludzkiemu dobrostanowi. Zrozumienie psychologicznych mechanizmów leżących u podstaw relacji człowiek–AI jest niezbędne zarówno dla projektantów systemów, jak i dla polityków, klinicystów i zwykłych użytkowników technologii.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

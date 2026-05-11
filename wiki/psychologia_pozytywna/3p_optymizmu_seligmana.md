@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-20
 reviewCycleMonths: 24
 evidenceCutoffDate: 2026-04-20
@@ -50,7 +50,7 @@ W kulturze popularnej optymizm bywa przedstawiany jako „myśl pozytywnie, a ws
 
 Oznacza to, że celem nie jest sztuczne podnoszenie nastroju, lecz poprawa jakości wnioskowania przyczynowego. Czasem najbardziej „optymistycznym” krokiem jest realistyczne uznanie, że potrzebna jest zmiana warunków pracy, granic relacyjnych lub wsparcia profesjonalnego.
 
-## Podsumowanie
+
 - Model 3P opisuje trzy osie interpretowania porażek: trwałość, zasięg i personalizację.
 - Pesymistyczny styl wyjaśniania zwiększa ryzyko bezradności i obniżenia motywacji.
 - Adaptacyjna reinterpretacja nie polega na zaprzeczaniu faktom, tylko na precyzyjniejszym przypisywaniu przyczyn.
@@ -64,11 +64,13 @@ Oznacza to, że celem nie jest sztuczne podnoszenie nastroju, lecz poprawa jako�
 5. Carver, C. S., Scheier, M. F., & Segerstrom, S. C. (2010). Optimism. *Clinical Psychology Review*, 30(7), 879–889.
 
 
-## Dobra praktyka
+## Praktyczne przykłady
 
+### Dobra praktyka
 Dobrą praktyką jest rozpoczynanie pracy od jasnego celu, kryteriów oceny postępów oraz wspólnego języka używanego przez specjalistę i odbiorcę interwencji. W praktyce oznacza to regularny monitoring efektów, krótkie cykle informacji zwrotnej i gotowość do modyfikacji planu działania. Wysoką skuteczność wspiera także psychoedukacja, która zwiększa poczucie sprawstwa i rozumienie procesu zmiany. Istotne jest ponadto respektowanie granic etycznych oraz uwzględnianie różnic indywidualnych. Konsekwencją takiego podejścia jest większa trwałość rezultatów i mniejsze ryzyko działań pozornych.
 
 
-## Zła praktyka
-
+### Zła praktyka
 Częstym błędem jest stosowanie jednego schematu postępowania niezależnie od kontekstu, potrzeb i możliwości danej osoby lub grupy. Problemem bywa również opieranie decyzji na intuicji bez sprawdzania jakości danych i aktualnych rekomendacji. W praktyce prowadzi to do nietrafnych interwencji, spadku motywacji oraz utraty zaufania do procesu wsparcia. Złą praktyką jest także pomijanie czynników systemowych, takich jak warunki środowiskowe czy bariery organizacyjne. Konsekwencje obejmują nie tylko słabsze efekty, ale również ryzyko wtórnej szkody psychologicznej.
+
+

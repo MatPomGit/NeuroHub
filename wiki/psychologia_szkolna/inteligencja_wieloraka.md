@@ -60,17 +60,13 @@ Krytycy wskazują też, że Gardner nie zapewnia rzetelnych narzędzi pomiaru po
 
 Sternberg, podobnie jak Gardner, krytykuje wąskie pojęcie inteligencji mierzonej testami IQ, jednak jego model jest lepiej osadzony w tradycji psychometrycznej i bardziej podatny na empiryczną weryfikację.
 
-## Podsumowanie
+
 
 Teoria inteligencji wielorakich Gardnera, mimo kontrowersji naukowych, wywarła trwały wpływ na edukację, skłaniając nauczycieli do poszerzenia repertuaru metod dydaktycznych i odmiennego spojrzenia na „słabych" uczniów. Jej największą wartością jest uwrażliwienie na różnorodność ludzkich zdolności i promowanie inkluzywnego podejścia do nauczania. Jednocześnie psycholodzy edukacyjni powinni stosować ją z ostrożnością, pamiętając o ograniczeniach empirycznych tej koncepcji.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

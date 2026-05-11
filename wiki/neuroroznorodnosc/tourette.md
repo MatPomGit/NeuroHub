@@ -84,17 +84,13 @@ Badania wskazują, że stygmatyzacja i konieczność tłumienia tików - nie sam
 
 Perspektywa neuroróżnorodności zwraca uwagę, że tiki - choć mogą być uciążliwe - nie definiują w pełni osoby z TS. Wiele osób z tym stanem opisuje intensywną kreatywność, poczucie humoru, empatię i odporność psychiczną wykształconą przez zmagania ze stygmatyzacją. Akceptacja społeczna, edukacja otoczenia i dostosowania środowiskowe mogą zasadniczo poprawić jakość życia - nierzadko skuteczniej niż same leki.
 
-## Podsumowanie
+
 
 Zespół Tourette'a to neurorozwojowy stan wynikający z atypowego funkcjonowania obwodów dopaminergicznych mózgu. Jego obraz kliniczny jest dużo bogatszy i bardziej zróżnicowany niż sugerują portretowania medialne. Przy odpowiednim wsparciu, akceptacji społecznej i - jeśli potrzeba - leczeniu, osoby z TS mogą prowadzić pełne i satysfakcjonujące życie.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

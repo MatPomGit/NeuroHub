@@ -48,17 +48,13 @@ Ostatni element PERMA odnosi się do dążenia do celów, opanowywania kompetenc
 
 Współcześnie część badaczy proponuje rozszerzenie modelu o szóste kryterium: **V** od *Vitality* (żywotność, zdrowie fizyczne). Regularny ruch, zdrowy sen i aktywność fizyczna są tak silnie powiązane z dobrostanem psychicznym, że ich pominięcie w modelu dobrostanu trudno uzasadnić. Badania **Butlera i Kern** (2016) z walidacją *PERMA-Profiler* jako narzędzia pomiarowego stanowią empiryczną podstawę modelu PERMA-V.
 
-## Podsumowanie
+
 
 Model PERMA to wielowymiarowa, empirycznie zakorzeniona teoria dobrostanu, która wykracza poza potoczne rozumienie szczęścia. Każdy z pięciu (lub sześciu) elementów jest mierzalny, możliwy do rozwijania przez interwencje i wartościowy sam w sobie. Stanowi fundament zarówno badań naukowych, jak i praktycznych zastosowań psychologii pozytywnej w edukacji, organizacjach i psychoterapii.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

@@ -75,17 +75,13 @@ Badania pokazują, że właściwie zaprojektowana HRC - gdzie robot przejmuje mo
 
 Dyskusja o wpływie robotyzacji na rynek pracy jest intensywna. Badania (Acemoglu i Restrepo, 2020) wskazują na złożony efekt: w krótkim terminie roboty mogą wypierać pracowników z pewnych zadań, lecz długoterminowo tworzą nowe typy stanowisk i zwiększają produktywność.
 
-## Podsumowanie
+
 
 Współpraca człowiek–robot to jeden z najważniejszych trendów kształtujących przyszłość pracy. Sukces HRC zależy od głębokiego rozumienia psychologii człowieka - jego potrzeb w zakresie bezpieczeństwa, zaufania i satysfakcji z pracy - nie mniej niż od zaawansowania technicznego cobotów.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

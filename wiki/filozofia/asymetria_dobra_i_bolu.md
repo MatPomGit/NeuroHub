@@ -72,7 +72,7 @@ Argument Benatara wpisuje się w szerszą tradycję **filozoficznego pesymizmu**
 
 W tradycji buddyjskiej pierwsza szlachetna prawda (*dukkha*) głosi, że życie jest z natury naznaczone cierpieniem - nie jako pesymizm, lecz jako trzeźwy opis stanu rzeczy poprzedzający możliwość wyzwolenia. Benatar, inaczej niż buddyzm, nie oferuje drogi do wyzwolenia - ale diagnoza jest zbieżna.
 
-## Podsumowanie
+
 
 Asymetria dobra i bólu nie jest argumentem emocjonalnym - to próba wykazania, że powszechnie przyjmowane intuicje moralne, zastosowane konsekwentnie, prowadzą do zaskakującego wniosku: nieistnienie jest moralnie lepsze od istnienia. Niezależnie od tego, czy uznamy ten wniosek za słuszny, argument Benatara zmusza do poważnej refleksji nad tym, co napędza decyzje prokreacyjne i czy troska o dobro przyszłych istot może niekiedy nakazywać ich nie powoływać.
 
@@ -86,13 +86,9 @@ Asymetria dobra i bólu nie jest argumentem emocjonalnym - to próba wykazania, 
 - Schopenhauer, A. (1818/2009). *Świat jako wola i wyobrażenie*. PWN.
 - Cioran, E.M. (1973/2004). *O niedogodności narodzin*. Aletheia.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

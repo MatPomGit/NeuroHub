@@ -97,7 +97,7 @@ Przykłady krytycznych okien w niemowlęctwie:
 
 ---
 
-## Podsumowanie
+
 
 Niemowlęctwo i wczesne dzieciństwo są fundamentem całego późniejszego rozwoju - biologicznego, poznawczego i emocjonalnego. Badania ostatnich dekad radykalnie zrewidowały obraz niemowlęcia jako biernego odbiorcy: już od urodzenia dziecko aktywnie konstruuje wiedzę o świecie, wchodzi w złożone relacje społeczne i kształtuje pierwsze reprezentacje siebie i innych. Jakość wczesnych doświadczeń - przede wszystkim wrażliwość opiekuna i bezpieczeństwo przywiązania - pozostawia ślad w strukturach neurobiologicznych i wzorcach zachowania na całe życie.
 
@@ -113,13 +113,9 @@ Niemowlęctwo i wczesne dzieciństwo są fundamentem całego późniejszego rozw
 - Tronick, E., i in. (1978). The infant's response to entrapment between contradictory messages in face-to-face interaction. *Journal of the American Academy of Child Psychiatry, 17*(1), 1–13.
 - Tomasello, M. (2003). *Constructing a Language: A Usage-Based Theory of Language Acquisition*. Harvard University Press.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

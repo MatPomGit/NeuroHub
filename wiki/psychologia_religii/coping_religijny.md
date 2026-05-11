@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-05-04
 reviewCycleMonths: 18
 evidenceCutoffDate: 2026-03-31
@@ -32,7 +32,7 @@ Negatywny coping religijny wiąże się częściej z ruminacją, samopotępienie
 - W badaniach medycznych (onkologia, choroby przewlekłe) strategie oparte na sensie i wsparciu wspólnotowym częściej przewidują lepszą adaptację psychospołeczną niż sama deklarowana religijność.
 - Przeglądy literatury wskazują, że efekt ochronny religii jest zwykle mały lub umiarkowany, ale klinicznie istotny, gdy stres jest długotrwały i dotyczy kwestii egzystencjalnych.
 
-## Dobra praktyka
+## Praktyczne przykłady
 W diagnostyce warto pytać o konkretne wzorce radzenia sobie: "Co dzieje się z Pani/Pana lękiem po modlitwie?", "Czy wspólnota pomaga, czy zawstydza?", "Jak interpretuje Pan/Pani cierpienie?". Interwencje działają najlepiej, gdy łączą pracę nad przekonaniami z realnym wsparciem społecznym i psychoedukacją.
 
 **Konsekwencje:** większa szansa na wybór strategii adaptacyjnych, lepsza współpraca terapeutyczna, mniejsze ryzyko utrwalenia samopotępiających schematów.
@@ -50,7 +50,7 @@ W części badań ambulatoryjnych poprawa bywa widoczna już po 2-4 tygodniach p
 ## Perspektywa nieoczywista
 Najważniejsze pytanie nie brzmi "czy religia pomaga", ale "jaką funkcję psychologiczną pełni w tym konkretnym kryzysie". Ta perspektywa zmienia praktykę: zamiast debat światopoglądowych otrzymujemy analizę funkcjonalną, która wspiera precyzyjne decyzje kliniczne.
 
-## Podsumowanie
+
 - Coping religijny ma dwa oblicza: adaptacyjne i nieadaptacyjne.
 - O kierunku wpływu decydują interpretacje, relacje i elastyczność psychologiczna.
 - W praktyce kluczowe jest różnicowanie pozytywnego i negatywnego coping, a nie ogólny poziom religijności.
@@ -64,3 +64,4 @@ Najważniejsze pytanie nie brzmi "czy religia pomaga", ale "jaką funkcję psych
 5. Exline, J. J., & Rose, E. D. (2024). Religious and spiritual struggles in clinical settings. *Current Opinion in Psychology*, 58.
 6. Koenig, H. G. (2023). Religion, spirituality, and mental health: An updated review. *International Review of Psychiatry*, 35(7-8), 583-599.
 7. Hill, P. C., et al. (2021). Methodological challenges in the psychology of religion. *Archive for the Psychology of Religion*, 43(3), 187-205.
+

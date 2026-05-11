@@ -132,7 +132,7 @@ Terapia oparta na teorii Bowena koncentruje się na:
 
 ---
 
-## Podsumowanie
+
 
 Rodzina to system dynamiczny, który rządzi się własnymi prawami - nie jest prostą sumą jej członków. Rozumienie dynamiki rodzinnej jest kluczowe zarówno dla zdrowia psychicznego jej członków, jak i dla skutecznej terapii. Wzorce ukształtowane w rodzinie towarzyszą nam przez całe życie i wpływają na wszystkie nasze relacje.
 
@@ -149,13 +149,9 @@ Wpisy bibliograficzne zapisuj konsekwentnie w APA 7 oraz dodawaj DOI/URL i oznac
 - Yehuda, R., Daskalakis, N. P., Bierer, L. M., Bader, H. N., Klengel, T., Holsboer, F., & Binder, E. B. (2016). Holocaust exposure induced intergenerational effects on FKBP5 methylation. *Biological Psychiatry, 80*(5), 372–380.
 - McGoldrick, M., Gerson, R., & Petry, S. (2008). *Genograms: Assessment and Intervention* (3rd ed.). Norton.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

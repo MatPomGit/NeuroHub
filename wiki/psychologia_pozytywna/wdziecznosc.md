@@ -53,17 +53,13 @@ Badania empiryczne dokumentują szeroki zakres korzyści regularnego kultywowani
 
 W związkach intymnych wyrażanie wdzięczności przez partnerów koreluje z wyższą satysfakcją ze związku i chętniejszym angażowaniem się w potrzeby partnera - tworząc pozytywną pętlę wzajemności.
 
-## Podsumowanie
+
 
 Wdzięczność jest jednocześnie jedną z najprostszych i najlepiej udokumentowanych interwencji psychologii pozytywnej. Dziennik wdzięczności, list wdzięczności i codzienne praktyki dostrzegania dobra w życiu przekładają się na mierzalne korzyści dla zdrowia psychicznego, relacji i neurobiologii mózgu - przy minimalnym nakładzie czasowym i bez kosztów finansowych.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

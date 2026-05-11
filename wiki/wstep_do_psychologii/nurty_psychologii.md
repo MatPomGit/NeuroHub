@@ -67,7 +67,7 @@ W praktyce R&D i klinicznej najbardziej użyteczne jest pytanie nie „który nu
 
 To podejście łączy EBM/EBP (evidence-based practice), personalizację oddziaływań i monitorowanie efektów.
 
-## Podsumowanie
+
 
 Historia nurtów psychologii pokazuje ewolucję od sporów „albo–albo” do podejścia „zarówno–jak i”:  
 **zachowanie + poznanie + emocje + relacje + biologia + kontekst społeczny**.  
@@ -83,9 +83,6 @@ Taki pluralizm metodologiczny zwiększa trafność diagnozy i skuteczność inte
 6. Westen, D. (1998). The scientific legacy of Sigmund Freud. *Psychological Bulletin, 124*(3), 333–371.  
 7. Wilson, T. D. (2002). *Strangers to Ourselves: Discovering the Adaptive Unconscious*. Harvard University Press.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
+## Podsumowanie

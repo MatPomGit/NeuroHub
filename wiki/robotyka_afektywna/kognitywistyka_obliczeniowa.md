@@ -69,17 +69,13 @@ Krytycy kognitywistyki obliczeniowej wskazują na:
 - **problem ramowania** (*frame problem*) - systemy AI mają trudności z określeniem, co jest istotne w danej sytuacji
 - **brak sensu** - manipulowanie symbolami nie jest tym samym co ich rozumienie (argument chińskiego pokoju Searle'a)
 
-## Podsumowanie
+
 
 Kognitywistyka obliczeniowa dostarcza fundamentów teoretycznych dla nowoczesnej AI i robotyki. Jej modele - od architektur symbolicznych przez sieci neuronowe po przetwarzanie predykcyjne - kształtują sposób, w jaki projektujemy maszyny zdolne do rozumowania, uczenia się i interakcji z człowiekiem.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

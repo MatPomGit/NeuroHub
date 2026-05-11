@@ -54,17 +54,9 @@ Chatboty terapeutyczne znalazły zastosowania w:
 
 **Prywatność** - dane konwersacji z chatbotami są gromadzone przez firmy. Warunki użytkowania platform są często niejasne w kwestii przetwarzania danych zdrowotnych.
 
-## Podsumowanie
-
-Chatboty terapeutyczne i wsparcie AI są obiecującym, szybko rozwijającym się obszarem cyfrowego zdrowia psychicznego. Ich wartość jako narzędzi wsparcia i psychoedukacji jest empirycznie potwierdzona - szczególnie przy łagodnych objawach. Nie zastępują jednak relacji terapeutycznej z człowiekiem i wymagają odpowiedzialnego wdrażania z uwzględnieniem ograniczeń i ryzyk. Rolą psychologa jest krytyczna ocena tych narzędzi i ich integracja z praktyką kliniczną w sposób służący dobrostanowi pacjentów.
-
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+Chatboty terapeutyczne i wsparcie AI są obiecującym, szybko rozwijającym się obszarem cyfrowego zdrowia psychicznego. Ich wartość jako narzędzi wsparcia i psychoedukacji jest empirycznie potwierdzona - szczególnie przy łagodnych objawach. Nie zastępują jednak relacji terapeutycznej z człowiekiem i wymagają odpowiedzialnego wdrażania z uwzględnieniem ograniczeń i ryzyk. Rolą psychologa jest krytyczna ocena tych narzędzi i ich integracja z praktyką kliniczną w sposób służący dobrostanowi pacjentów.
 
 ## Bibliografia
 

@@ -79,17 +79,13 @@ Dla złożonych profili neuroatypowych najskuteczniejsze jest skoordynowane **po
 
 Brak koordynacji między specjalistami jest jednym z największych wyzwań systemowych w Polsce i na świecie.
 
-## Podsumowanie
+
 
 Wsparcie osób neuroatypowych to nie jeden „właściwy" protokół, lecz zestaw narzędzi dobieranych indywidualnie, oparty na rzetelnej diagnozie, szacunku do autonomii osoby i aktualnej wiedzy naukowej. Skuteczne interwencje łączą podejście medyczne z pedagogicznym, środowiskowym i tożsamościowym - tworząc całościową odpowiedź na całościowego człowieka.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

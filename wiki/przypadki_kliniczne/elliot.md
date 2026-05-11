@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-30
 reviewCycleMonths: 24
 evidenceCutoffDate: 2026-04-01
@@ -36,8 +36,7 @@ W opiniowaniu neuropsychologicznym łączyć testy poznawcze z oceną funkcjonow
 
 **Konsekwencja:** mniejsze ryzyko fałszywie pozytywnego wniosku „funkcjonowanie prawidłowe”, gdy deficyt ujawnia się głównie w realnym życiu.
 
-### Zła praktyka / częsty błąd
-
+### Zła praktyka
 Opieranie oceny sprawności decyzyjnej wyłącznie na IQ i krótkich testach gabinetowych.
 
 **Konsekwencja:** przeoczenie dyseksekutywności społecznej oraz błędne rekomendacje dotyczące samodzielności zawodowej i finansowej.
@@ -48,7 +47,7 @@ W dyskursie publicznym emocje bywają przeciwstawiane „rozsądkowi”. Elliot 
 
 To przesuwa paradygmat z „emocje przeszkadzają myśleniu” na „emocje kalibrują myślenie do realnych konsekwencji”.
 
-## Podsumowanie
+
 
 Elliot pozostaje jednym z najbardziej wpływowych przypadków neuropsychologii decyzji. Jego historia wskazuje, że integralność vmPFC/OFC jest krytyczna dla łączenia wiedzy z działaniem, a diagnoza kliniczna musi obejmować realne funkcjonowanie społeczne, nie tylko wyniki testowe.
 
@@ -58,5 +57,6 @@ Elliot pozostaje jednym z najbardziej wpływowych przypadków neuropsychologii d
 2. Bechara, A., Damasio, H., Damasio, A. R., & Anderson, S. W. (1994). Insensitivity to future consequences following damage to human prefrontal cortex. *Cognition*, 50(1–3), 7–15.
 3. Bechara, A., Tranel, D., & Damasio, H. (2000). Characterization of the decision-making deficit of patients with ventromedial prefrontal cortex lesions. *Brain*, 123(11), 2189–2202.
 4. Fellows, L. K. (2007). The role of orbitofrontal cortex in decision making: A component process account. *Annals of the New York Academy of Sciences*, 1121, 421–430.
+
 
 

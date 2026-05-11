@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-05-04
 reviewCycleMonths: 18
 evidenceCutoffDate: 2026-03-31
@@ -32,7 +32,7 @@ W psychologii religii szczególnie ważne są: status socjoekonomiczny, wiek, ws
 - Wielkości efektów dla relacji religijność-dobrostan są zazwyczaj małe lub umiarkowane, ale ich kierunek zależy od jakości pomiaru oraz odróżnienia strategii adaptacyjnych i nieadaptacyjnych.
 - Coraz częściej rekomenduje się prerejestrację hipotez, raportowanie analiz czułości i publikowanie danych replikacyjnych, aby zmniejszać ryzyko selektywnego raportowania.
 
-## Dobra praktyka
+## Praktyczne przykłady
 Dobra praktyka obejmuje precyzyjną operacjonalizację, prerejestrację planu analitycznego i raportowanie pełnego zestawu wyników, także tych niespełniających hipotezy. W badaniach międzykulturowych należy dodatkowo testować inwariancję pomiarową, zamiast zakładać ją z góry.
 
 **Konsekwencje:** wyższa wiarygodność danych, większa porównywalność badań i mniejsze ryzyko nadinterpretacji.
@@ -50,7 +50,7 @@ W praktyce oznacza to, że 14-dniowy dzienniczek może dostarczyć więcej użyt
 ## Perspektywa nieoczywista
 Wysoka jakość metodologiczna nie musi oznaczać wyłącznie coraz bardziej złożonych modeli statystycznych. Czasem większą wartość przynosi prostszy model, ale oparty na trafnym pomiarze i dobrym projekcie czasowym. W psychologii religii "lepsze pytanie" bywa ważniejsze niż "bardziej skomplikowany algorytm".
 
-## Podsumowanie
+
 - Kluczowa jest wielowymiarowa operacjonalizacja religijności.
 - Projekt badania powinien wynikać z pytania badawczego, zwłaszcza gdy interesuje nas przyczynowość.
 - Kontrola zmiennych zakłócających i transparentne raportowanie to warunek wiarygodności.
@@ -64,3 +64,4 @@ Wysoka jakość metodologiczna nie musi oznaczać wyłącznie coraz bardziej zł
 5. Open Science Collaboration. (2015). Estimating the reproducibility of psychological science. *Science*, 349(6251).
 6. Koenig, H. G. (2023). Religion, spirituality, and mental health: An updated review. *International Review of Psychiatry*, 35(7-8), 583-599.
 7. Exline, J. J., & Rose, E. D. (2024). Religious and spiritual struggles in clinical settings. *Current Opinion in Psychology*, 58.
+

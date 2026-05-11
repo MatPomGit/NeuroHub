@@ -111,7 +111,7 @@ Wsparcie psychologiczne warto rozważyć, gdy niskie poczucie własnej wartości
 
 W terapii (np. CBT, ACT, terapia schematów) pracuje się m.in. nad przekonaniami o sobie, regulacją emocji, granicami i zachowaniami wzmacniającymi sprawczość.
 
-## Podsumowanie
+
 
 Zdrowe poczucie własnej wartości nie oznacza bycia „najlepszym” ani ciągłego dobrego samopoczucia. Oznacza stabilne poczucie godności, realistyczny ogląd siebie i gotowość do rozwoju bez przemocy wobec samego siebie. To kompetencja, którą można systematycznie budować - poprzez samoakceptację, wartości, relacje i codzienne nawyki.
 
@@ -126,13 +126,9 @@ Zdrowe poczucie własnej wartości nie oznacza bycia „najlepszym” ani ciąg�
 - Orth, U., & Robins, R. W. (2014). The development of self-esteem. *Current Directions in Psychological Science, 23*(5), 381–387.
 - Rosenberg, M. (1965). *Society and the Adolescent Self-Image*. Princeton University Press.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

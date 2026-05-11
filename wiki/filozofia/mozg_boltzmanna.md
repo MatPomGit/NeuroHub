@@ -66,7 +66,7 @@ Mózg Boltzmanna stawia przed filozofią szereg druzgocących pytań epistemolog
 
 Te pytania, choć technicznie dotyczą fikcyjnych scenariuszy kosmologicznych, rzucają ostry cień na fundamenty epistemologii.
 
-## Podsumowanie
+
 
 Mózg Boltzmanna to jeden z tych eksperymentów myślowych, które zaczynają jako problem fizyczny, a kończą jako pytanie o podstawy wiedzy i racjonalności. Statystyczna mechanika Boltzmanna, rozwinięta w mechanikę kwantową i kosmologię, prowadzi do paradoksalnego wniosku: w wystarczająco dużym wszechświecie każdy możliwy obserwator istnieje - ale większość z nich to przypadkowe złudzenia. Fakt, że uważamy się za „prawdziwych" obserwatorów ewoluowanych, jest albo dowodem na specjalne własności naszej kosmologii, albo - jak podpowiada niepokojąca logika problemu - kolejnym artefaktem selekcji.
 
@@ -79,13 +79,9 @@ Mózg Boltzmanna to jeden z tych eksperymentów myślowych, które zaczynają ja
 - Carroll, S. (2019). *Something Deeply Hidden*. Dutton.
 - Penrose, R. (2010). *Cycles of Time: An Extraordinary New View of the Universe*. Bodley Head.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

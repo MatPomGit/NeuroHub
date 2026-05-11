@@ -46,17 +46,15 @@ Najnowsze trendy w e-terapii to integracja sztucznej inteligencji (AI) w chatbot
 
 Personalizacja terapii na podstawie danych *n-of-1* - indywidualnych wzorców zachowań i reakcji - jest obiecującą, choć wciąż eksperymentalną perspektywą, która może fundamentalnie zmienić model świadczenia pomocy psychologicznej.
 
-## Podsumowanie
+## Perspektywa nieoczywista
+
+
 
 E-terapia przeszła w ciągu 30 lat drogę od eksperymentalnych e-maili do globalnych platform i chatbotów AI. Jej historia odzwierciedla zarówno możliwości, jak i zagrożenia związane z cyfryzacją opieki zdrowotnej: dostępność, innowację i demokratyzację, ale też ryzyko dehumanizacji, naruszenia prywatności i pogłębienia nierówności.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

@@ -59,17 +59,13 @@ Najlepiej udokumentowane interwencje to:
 
 Hipoteza „łowcy i rolnika" (Thom Hartmann, 1993) sugeruje, że cechy ADHD mogły być adaptacyjne w środowisku łowiecko-zbierackim: szybkie podejmowanie decyzji, wysokie ryzyko, czujność na nowe bodźce i nieustanna eksploracja środowiska byłyby zaletami. We współczesnym społeczeństwie wymagającym wielogodzinnego siedzenia przy biurku te same cechy stają się wyzwaniem. Hipoteza jest spekulatywna, ale ilustruje ważną zasadę: ocena funkcjonalności danego profilu neurologicznego zależy od kontekstu środowiskowego.
 
-## Podsumowanie
+
 
 ADHD jako wariant neuroróżnorodności to profil neurologiczny o charakterystycznym zestawie mocnych stron i wyzwań, głęboko zakorzeniony w neurobiologii układu dopaminergicznego. Podejście oparte na mocnych stronach nie neguje realnych trudności, lecz kwestionuje redukcyjne postrzeganie ADHD wyłącznie jako defektu - i otwiera drogę do bardziej kompleksowego, humanistycznego wsparcia.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-05-04
 reviewCycleMonths: 18
 evidenceCutoffDate: 2026-03-31
@@ -35,12 +35,14 @@ Warto pamiętać, że znaczna część badań ma charakter przekrojowy i opiera 
 - Metaanaliza **Braam & Koenig (2019)** wskazuje, że pozytywne formy religijności są związane z niższym ryzykiem objawów depresyjnych, choć wielkość efektu jest niewielka.
 - W wielu metaanalizach relacja religijność-dobrostan ma natężenie małe do umiarkowanego (najczęściej w przybliżeniu r ok. 0.10-0.20), ale utrzymuje się po kontroli podstawowych zmiennych demograficznych.
 
-## Dobra praktyka
+## Praktyczne przykłady
+
+### Dobra praktyka
 W diagnozie klinicznej warto pytać: „Jaką funkcję pełni religia lub duchowość w Pani/Pana radzeniu sobie?”. Taka praktyka pomaga odróżnić zasoby od obciążeń i poprawia dopasowanie interwencji.
 
 **Konsekwencje:** trafniejsze rozumienie przypadku, lepsze przymierze terapeutyczne i mniejsze ryzyko pomijania ważnych czynników tożsamościowych.
 
-## Zła praktyka / częsty błąd
+### Zła praktyka
 Błędem jest automatyczne utożsamianie religijności z patologią albo „gwarancją zdrowia”.
 
 **Konsekwencje:** ryzyko nadinterpretacji, pominięcie kluczowych czynników kontekstowych oraz wzrost dystansu między specjalistą a pacjentem.
@@ -53,7 +55,7 @@ Co ciekawe, część badań pokazuje, że dla dobrostanu psychicznego ważniejsz
 ## Perspektywa nieoczywista
 Religia może działać jak „technologia pamięci zbiorowej”: rytuały, opowieści i symbole stabilizują tożsamość między pokoleniami. Z tej perspektywy wpływ religii na psychikę jest częściowo efektem regulacji społecznej, a nie tylko indywidualnej wiary.
 
-## Podsumowanie
+
 - Psychologia religii bada funkcję religijności, a nie prawdziwość doktryn.
 - Wpływ religii na zdrowie psychiczne ma charakter warunkowy i zależy od mechanizmów pośredniczących.
 - Kluczowa jest analiza funkcjonalna: kiedy religijność wspiera adaptację, a kiedy zwiększa obciążenie.
@@ -65,3 +67,6 @@ Religia może działać jak „technologia pamięci zbiorowej”: rytuały, opow
 3. Braam, A. W., & Koenig, H. G. (2019). Religion, spirituality and depression in prospective studies. *Journal of Affective Disorders*.
 4. Pargament, K. I. (2011). *Spiritually Integrated Psychotherapy*. Guilford Press.
 5. Hood, R. W., Hill, P. C., & Spilka, B. (2018). *The Psychology of Religion* (5th ed.). Guilford Press.
+
+
+

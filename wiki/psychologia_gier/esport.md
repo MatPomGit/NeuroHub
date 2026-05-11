@@ -120,17 +120,13 @@ Dla wielu młodych zawodników esportowych gra jest centralnym elementem ich to�
 
 > **Fakt:** Organizacja ESL (jeden z największych organizatorów turniejów esportowych) prowadzi program wsparcia kariery dla zawodników po zakończeniu kariery esportowej, pomagając w przejściu do ról coachów, analityków, komentatorów i menedżerów.
 
-## Podsumowanie
+
 
 Esport jest pełnoprawną dyscypliną rywalizacyjną, która stawia na zawodników unikalne wymagania psychologiczne i fizyczne. Psychologia sportowa dostarcza sprawdzonych narzędzi, które - odpowiednio zaadaptowane - są skuteczne w kontekście esportowym. Kluczowe obszary to: zarządzanie stresem i tilt, profilaktyka wypalenia, praca zespołowa i dynamika grupy oraz wsparcie w tranzycji po zakończeniu kariery.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

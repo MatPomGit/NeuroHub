@@ -1,4 +1,4 @@
-# 12. Inne leki o działaniu psychotropowym lub stosowane w psychiatrii
+﻿# 12. Inne leki o działaniu psychotropowym lub stosowane w psychiatrii
 
 ## Wprowadzenie
 
@@ -16,15 +16,19 @@ Kluczowe jest rozróżnienie między „możliwym mechanizmem” a „udowodnion
 
 ## Praktyczne przykłady
 
-Dobra praktyka: pełna dokumentacja uzasadnienia off-label i plan monitorowania.
-Zła praktyka: rozszerzanie terapii bez danych o interakcjach i bezpieczeństwie.
+### Dobra praktyka
+
+pełna dokumentacja uzasadnienia off-label i plan monitorowania.
+### Zła praktyka
+
+rozszerzanie terapii bez danych o interakcjach i bezpieczeństwie.
 Konsekwencja: wzrost ryzyka jatrogennego.
 
 ## Perspektywa nieoczywista
 
 W praktyce klinicznej największe korzyści przynosi nie maksymalizacja liczby interwencji, lecz **precyzyjne ograniczanie leczenia do elementów o najwyższej wartości dodanej**. To podejście bywa mniej intuicyjne niż „eskalacja terapii”, ale często poprawia współpracę, bezpieczeństwo i długofalowe wyniki.
 
-## Podsumowanie
+
 
 Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dane naukowe, monitoring efektów oraz współdecydowanie z pacjentem. Wysoka jakość leczenia wynika z konsekwentnej ewaluacji korzyści i ryzyka na każdym etapie terapii.
 
@@ -35,5 +39,7 @@ Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dan
 - NICE. (2022-2025). Guidance on mental health and pharmacological treatment (living updates).
 - WHO. (2023). ICD-11 Clinical Descriptions and Diagnostic Guidelines.
 - Meyer, J. M., & Quenzer, L. F. (2018). Psychopharmacology: Drugs, the Brain, and Behavior (3rd ed.).
+
+
 
 

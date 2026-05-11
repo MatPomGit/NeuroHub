@@ -112,7 +112,7 @@ Badania wskazują na kluczowe zachowania środowiskowe promujące rozwój język
 
 ---
 
-## Podsumowanie
+
 
 Akwizycja języka jest procesem wyłaniającym się na styku biologii i kultury. Wrodzone predyspozycje lingwistyczne muszą zostać uruchomione przez responsywne środowisko społeczne. Zrozumienie mechanizmów tego procesu ma fundamentalne znaczenie dla wczesnej interwencji, logopedii, edukacji i terapii zaburzeń komunikacyjnych.
 
@@ -127,13 +127,9 @@ Akwizycja języka jest procesem wyłaniającym się na styku biologii i kultury.
 - Skinner, B. F. (1957). *Verbal Behavior*. Appleton-Century-Crofts.
 - Vygotsky, L. S. (1986). *Thought and Language* (A. Kozulin, red. i tłum.). MIT Press.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

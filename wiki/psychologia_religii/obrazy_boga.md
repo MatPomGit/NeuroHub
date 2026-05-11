@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-05-04
 reviewCycleMonths: 18
 evidenceCutoffDate: 2026-03-31
@@ -31,7 +31,7 @@ Wyniki badań wskazują, że obraz Boga oparty na akceptacji i bliskości częś
 - W metaanalizach religijnego przywiązania bezpieczny obraz Boga częściej wiąże się z lepszym dobrostanem i wyższą odpornością psychiczną, a efekty mają najczęściej nasilenie małe do umiarkowanego.
 - Dane kliniczne sugerują, że praca nad sztywnym, karzącym obrazem Boga może obniżać nasilenie religijnych form lęku i poczucia winy.
 
-## Dobra praktyka
+## Praktyczne przykłady
 W terapii i poradnictwie warto pytać równolegle o to, "w jakiego Boga osoba wierzy" oraz "jakiego Boga doświadcza emocjonalnie". Przydatne bywa mapowanie języka wewnętrznego: jakie słowa pojawiają się spontanicznie przy modlitwie, porażce, winie i przebaczeniu. Taka praca pomaga odróżnić dojrzewanie religijne od lękowego samopotępienia.
 
 **Konsekwencje:** większa precyzja diagnozy, lepsze dopasowanie interwencji, mniejsze ryzyko nadmiernej patologizacji praktyk religijnych.
@@ -49,7 +49,7 @@ Interesujące jest to, że taka zmiana tonu emocjonalnego bywa obserwowana takż
 ## Perspektywa nieoczywista
 Zwykle zakłada się, że obraz Boga jest konsekwencją religii. Coraz więcej danych sugeruje jednak proces dwukierunkowy: to również styl regulacji emocji i historia przywiązania współtworzą przeżywaną religijność. Ta perspektywa pomaga wyjść poza spór "wiara kontra psychologia" i budować modele integracyjne.
 
-## Podsumowanie
+
 - Obraz Boga i pojęcie Boga to dwa różne, choć powiązane poziomy funkcjonowania religijnego.
 - Jakość obrazu Boga ma znaczenie dla dobrostanu psychicznego i radzenia sobie ze stresem.
 - Trafna diagnoza wymaga uwzględnienia przywiązania, kultury i aktualnego kontekstu życiowego.
@@ -63,3 +63,4 @@ Zwykle zakłada się, że obraz Boga jest konsekwencją religii. Coraz więcej d
 5. Exline, J. J., & Rose, E. D. (2024). Religious and spiritual struggles in clinical settings. *Current Opinion in Psychology*, 58.
 6. Koenig, H. G. (2023). Religion, spirituality, and mental health: An updated review. *International Review of Psychiatry*, 35(7-8), 583-599.
 7. Pargament, K. I. (2011). *Spiritually Integrated Psychotherapy*. Guilford Press.
+

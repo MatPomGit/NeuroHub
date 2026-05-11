@@ -62,17 +62,13 @@ Opinia w sprawach karnych musi być szczególnie precyzyjnie udokumentowana. Ka�
 
 Szczególnie niebezpieczne jest formułowanie wniosków dotyczących winy - to wyłączna kompetencja sądu. Biegły odpowiada na pytania psychologiczne (np. *czy oskarżony wykazuje cechy zgodne z profilem psychopatycznym?*), nie prawne (np. *czy oskarżony jest winien zarzucanego czynu?*).
 
-## Podsumowanie
+
 
 Opiniowanie w sprawach karnych jest jednym z najtrudniejszych i najbardziej odpowiedzialnych obszarów pracy biegłego psychologa. Wymaga połączenia wiedzy klinicznej z rozumieniem prawa karnego, rzetelności metodologicznej ze świadomością konsekwencji społecznych własnych wniosków. Błąd biegłego może mieć tragiczne skutki - zarówno dla oskarżonego, jak i dla ofiar i całego społeczeństwa.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

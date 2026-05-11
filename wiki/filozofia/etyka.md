@@ -64,17 +64,13 @@ Terapeuta jest zarazem leczącym, obywatelem, naukowcem i członkiem instytucji.
 
 **Moralna psychologia** to dziedzina badająca, jak ludzie faktycznie podejmują decyzje moralne - w odróżnieniu od normatywnej etyki, która bada, jak powinni. Jonathan Haidt w **teorii moralnych fundamentów** (*Moral Foundations Theory*) identyfikuje sześć systemów intuicji moralnych: troski/krzywdy, sprawiedliwości, lojalności, autorytetu, czystości i wolności. Moralność, zdaniem Haidta, jest w pierwszej kolejności emocjonalna i intuicyjna - racjonalne uzasadnienia pojawiają się *post hoc*.
 
-## Podsumowanie
+
 
 Etyka filozoficzna dostarcza psychologowi ram do świadomej refleksji nad własną praktyką. Deontologia przypomina o nienaruszalnej godności pacjenta, konsekwencjalizm nakazuje brać pod uwagę skutki działań, etyka cnót pyta o charakter terapeuty, a etyka troski przypomina, że relacja jest wartością samą w sobie. Dobry psycholog nie stosuje jednej teorii mechanicznie - potrafi poruszać się między nimi z mądrością i wrażliwością.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

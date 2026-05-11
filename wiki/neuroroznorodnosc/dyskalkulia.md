@@ -73,17 +73,13 @@ Skuteczne interwencje w dyskalkulii opierają się na:
 
 Z perspektywy neuroróżnorodności dyskalkulia jest odmiennym sposobem przetwarzania informacji ilościowych - nie przejawem niezdolności do myślenia logicznego. Osoby z dyskalkulią często świetnie radzą sobie z myśleniem przestrzennym, kreatywnym rozwiązywaniem problemów i rozumieniem złożonych systemów. Dostosowane środowisko i narzędzia wspomagające pozwalają im pełnoprawnie uczestniczyć w edukacji i zawodzie, nawet jeśli tradycyjne obliczenia arytmetyczne pozostają wyzwaniem.
 
-## Podsumowanie
+
 
 Dyskalkulia to realna, neurobiologicznie ugruntowana trudność w uczeniu się matematyki, która dotyka milionów ludzi na świecie. Większa świadomość, wczesna diagnoza i interwencje oparte na dowodach mogą znacząco poprawić jakość życia i szanse edukacyjne osób z dyskalkulią - pod warunkiem, że systemy edukacyjne są gotowe wyjść poza model „jeden rozmiar dla wszystkich".
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

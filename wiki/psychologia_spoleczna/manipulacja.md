@@ -220,7 +220,7 @@ Technologia stworzyła nowe narzędzia manipulacji o bezprecedensowej skali:
 
 ---
 
-## Podsumowanie
+
 
 | Technika | Mechanizm psychologiczny | Typowy kontekst |
 |---|---|---|
@@ -249,13 +249,9 @@ Technologia stworzyła nowe narzędzia manipulacji o bezprecedensowej skali:
 - Stern, R., & Courtois, C. (2007). *The Gaslight Effect*. Morgan Road Books.
 - Worchel, S., Lee, J., & Adewole, A. (1975). Effects of supply and demand on ratings of object value. *Journal of Personality and Social Psychology, 32*(5), 906–914.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

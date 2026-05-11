@@ -94,7 +94,7 @@ Jednym z paradoksów psychologii społecznej jest słaba korelacja między dekla
 
 Ajzen i Fishbein (1977) w **teorii planowanego działania** wyjaśnili tę lukę: zachowanie jest wyznaczane przez **intencję**, na którą składa się postawa wobec zachowania, normy subiektywne oraz postrzegana kontrola zachowania. Postawy ogólne słabo przewidują zachowania specyficzne - postawy muszą być zgodne z poziomem ogólności zachowania, by korelować z nim silniej.
 
-## Podsumowanie
+
 
 Postawy kształtują się przez uczenie się, ekspozycję i socjalizację; są podtrzymywane przez mechanizmy spójności (dysonans poznawczy) i zmieniane przez perswazję - podążającą drogą centralną lub peryferyczną w zależności od zaangażowania odbiorcy. Luka postawy–zachowanie przypomina, że deklaracje nie zawsze przekładają się na czyny - zmiana zachowania wymaga uwzględnienia intencji, norm i poczucia kontroli.
 
@@ -110,13 +110,9 @@ Postawy kształtują się przez uczenie się, ekspozycję i socjalizację; są p
 - Petty, R. E., & Cacioppo, J. T. (1986). The elaboration likelihood model of persuasion. *Advances in Experimental Social Psychology, 19*, 123–205.
 - Zajonc, R. B. (1968). Attitudinal effects of mere exposure. *Journal of Personality and Social Psychology Monograph Supplement, 9*(2), 1–27.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

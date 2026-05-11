@@ -76,17 +76,13 @@ CBT, ACT i mindfulness mają udokumentowaną skuteczność w modyfikacji nieadap
 
 Studentka przed egzaminami stosuje wyłącznie unikanie (oglądanie seriali, odkładanie nauki). W pracy nad copingiem identyfikuje lęk przed porażką jako źródło unikania i stopniowo wdraża planowanie sesji nauki i techniki relaksacyjne przed egzaminami.
 
-## Podsumowanie
+
 
 Coping to dynamiczny, indywidualny proces, a nie stała cecha osoby. Skuteczne radzenie sobie wymaga zarówno umiejętności rozwiązywania problemów, jak i regulacji emocji. Elastyczność strategii, a nie sztywne trzymanie się jednej metody, jest kluczowym wskaźnikiem adaptacyjnego funkcjonowania.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

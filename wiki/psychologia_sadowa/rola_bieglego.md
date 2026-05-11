@@ -52,17 +52,13 @@ Biegły ma prawo do wynagrodzenia za wykonaną pracę, które jest regulowane ro
 
 Terminy sporządzenia opinii są wyznaczane przez organ procesowy. W praktyce biegli nierzadko skarżą się na zbyt krótkie terminy, szczególnie w sprawach skomplikowanych diagnostycznie. Przekroczenie terminu bez uzasadnienia może skutkować karą porządkową, choć w praktyce sądy z reguły tolerują opóźnienia wynikające z obiektywnych trudności.
 
-## Podsumowanie
+
 
 Rola biegłego psychologa sądowego jest wyjątkowa i wielowymiarowa: łączy wiedzę naukową z praktyką kliniczną, wrażliwość etyczną z rygorem proceduralnym, a empatię z bezstronnością. Jej właściwe pełnienie wymaga ciągłego kształcenia, superwizji oraz refleksji nad własną praktyką. Jest to jedna z najbardziej wymagających, a zarazem jednych z najbardziej wpływowych ról, jakie psycholog może pełnić w społeczeństwie.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

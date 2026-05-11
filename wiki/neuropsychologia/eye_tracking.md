@@ -361,18 +361,12 @@ Takeda, T., and colleagues. (2020). Eye movement characteristics in schizophreni
 Zhang, F., Huang, C., Yan, W., Ouyang, H., & Liu, W. (2024). Attentional bias modification and attention control training in PTSD: A systematic review and meta-analysis. *Therapeutic Advances in Psychopharmacology, 14*.
 
 Zhu, J., Li, J., Zhou, L., Xu, L., Pu, C., Huang, B., Zhou, Q., Lin, Y., Tang, Y., Yang, L., & Shi, C. (2024). Eye movements as predictor of cognitive improvement after cognitive remediation therapy in patients with schizophrenia. *Frontiers in Psychiatry, 15*, 1395198.
-
-
-
 ## Perspektywa nieoczywista
-
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
 
 ## Podsumowanie
 
-Najważniejszy wniosek jest taki, że rzetelne rozumienie omawianego tematu wymaga łączenia definicji, danych empirycznych i konsekwencji praktycznych. Skuteczne działania opierają się na dopasowaniu metod do celu, monitorowaniu efektów oraz świadomym zarządzaniu ograniczeniami. Jednocześnie należy zachować ostrożność wobec nadmiernych uogólnień, bo jakość wniosków zależy od kontekstu i jakości pomiaru. Włączenie perspektywy alternatywnej zwiększa trafność diagnozy i użyteczność interwencji. Ostatecznie to właśnie integracja wiedzy teoretycznej z praktyką decyduje o wartości edukacyjnej i klinicznej artykułu.
 
+## Podsumowanie
 
 ## Bibliografia
 

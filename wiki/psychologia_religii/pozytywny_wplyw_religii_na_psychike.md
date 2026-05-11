@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-05-04
 reviewCycleMonths: 18
 evidenceCutoffDate: 2026-03-31
@@ -42,7 +42,7 @@ Najbardziej wyraźny pozytywny wpływ obserwuje się zwykle wtedy, gdy religijno
 ## Praktyczny mini-przykład
 Mężczyzna po utracie partnerki zgłasza bezsenność, wycofanie i poczucie utraty sensu. W terapii łączy się klasyczne techniki pracy z żałobą z jego własnymi praktykami religijnymi i wsparciem wspólnoty. Po kilku miesiącach poprawia się sen, maleje ruminacja, a pacjent wraca do regularnych aktywności społecznych.
 
-## Dobra praktyka
+## Praktyczne przykłady
 W diagnozie i terapii warto pytać o funkcję religijności: które elementy pomagają, a które nie działają. Interwencje są najskuteczniejsze, gdy szanują język wartości pacjenta i łączą go z metodami opartymi na dowodach.
 
 **Konsekwencje:** większa motywacja do terapii, lepsza regulacja emocji i wyższa odporność psychiczna w kryzysie.
@@ -60,7 +60,7 @@ Interesujące jest też to, że efekt poprawy nastroju po praktyce religijnej by
 ## Perspektywa nieoczywista
 Pozytywny wpływ religii na psychikę nie wynika wyłącznie z przekonań, lecz z połączenia trzech warstw: sensu, relacji i praktyki. To wyjaśnia, dlaczego osoby o podobnej deklaracji wiary mogą mieć bardzo różne rezultaty psychologiczne.
 
-## Podsumowanie
+
 - Religia może wspierać psychikę przez mechanizmy sensotwórcze, emocjonalne i społeczne.
 - Efekt ochronny jest warunkowy i zależy od jakości praktyk oraz relacji.
 - W klinice najważniejsza jest funkcjonalna ocena zasobów religijnych pacjenta.
@@ -76,3 +76,4 @@ Pozytywny wpływ religii na psychikę nie wynika wyłącznie z przekonań, lecz 
 7. Exline, J. J., & Rose, E. D. (2024). Religious and spiritual struggles in clinical settings. *Current Opinion in Psychology*, 58.
 8. Braam, A. W., & Koenig, H. G. (2019). Religion, spirituality and depression in prospective studies. *Journal of Affective Disorders*, 257, 428-438.
 9. Smith, T. B., McCullough, M. E., & Poll, J. (2003). Religiousness and depression: Evidence for a main effect and moderators. *Psychological Bulletin*, 129(4), 614-636.
+

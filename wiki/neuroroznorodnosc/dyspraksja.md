@@ -78,17 +78,13 @@ Dorosłe osoby z DCD często opisują życie z tym stanem jako nieustanne przekr
 
 Z perspektywy neuroróżnorodności dyspraksja jest odmiennym profilem motorycznym i sensorycznym - nie lenistwem, niezręcznością charakteru ani brakiem wysiłku. Odpowiednie rozumienie i wsparcie mogą zasadniczo zmienić doświadczenie osoby z DCD w szkole, w pracy i w życiu codziennym.
 
-## Podsumowanie
+
 
 Dyspraksja i DCD to powszechne, lecz niedoceniane stany neuroróżnorodności wpływające na motorykę, planowanie i codzienne funkcjonowanie. Wczesna diagnoza, terapia zajęciowa i dostosowania środowiskowe mogą znacząco poprawić jakość życia - o ile otoczenie rozumie, że trudności motoryczne nie odzwierciedlają ani inteligencji, ani motywacji.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

@@ -69,7 +69,7 @@ Etyka dotyczy także jakości metodologicznej: nierzetelny projekt może być ni
 4. Niewystarczająca anonimizacja danych.  
 5. Brak debriefingu po procedurach z elementem wprowadzenia w błąd.
 
-## Podsumowanie
+
 
 Etyka badań psychologicznych nie jest „dodatkiem administracyjnym”, lecz rdzeniem jakości naukowej. Dobrze zaprojektowane badanie chroni uczestników, zwiększa trafność wyników i buduje zaufanie społeczne do psychologii.
 
@@ -82,9 +82,6 @@ Etyka badań psychologicznych nie jest „dodatkiem administracyjnym”, lecz rd
 5. Shamoo, A. E., & Resnik, D. B. (2022). *Responsible Conduct of Research* (4th ed.). Oxford University Press.  
 6. World Medical Association. (2013). Declaration of Helsinki: Ethical principles for medical research involving human subjects. *JAMA, 310*(20), 2191–2194.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
+## Podsumowanie

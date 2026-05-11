@@ -94,17 +94,13 @@ Technologie (komunikatory, rozmowy wideo, grupy online) mogą skutecznie podtrzy
 - miejsca spotkań i aktywności blisko miejsca zamieszkania,
 - programy przeciwdziałania samotności.
 
-## Podsumowanie
+
 
 Relacje społeczne w starości są nie dodatkiem, ale podstawowym zasobem zdrowia. Dobra sieć wsparcia nie musi być duża - wystarczy, że jest stabilna, wzajemna i oparta na szacunku. Wzmacnianie więzi to jedna z najskuteczniejszych interwencji poprawiających dobrostan seniorów.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

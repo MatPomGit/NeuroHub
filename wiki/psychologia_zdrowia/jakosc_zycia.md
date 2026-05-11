@@ -60,17 +60,13 @@ Ważne jest współdecydowanie - pacjent powinien współtworzyć priorytety lec
 
 Pacjentka z chorobą przewlekłą ma stabilne wyniki laboratoryjne, ale zgłasza niską satysfakcję z życia. W planie opieki dodano cele społeczne i aktywność dającą poczucie sensu. Po 2 miesiącach poprawia się nastrój i poziom codziennego funkcjonowania mimo podobnych parametrów medycznych.
 
-## Podsumowanie
+
 
 Jakość życia to centralny cel nowoczesnej opieki zdrowotnej. Leczenie jest naprawdę skuteczne wtedy, gdy poprawia nie tylko wyniki badań, ale też codzienne życie pacjenta.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

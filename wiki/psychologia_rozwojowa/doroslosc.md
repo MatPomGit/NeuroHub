@@ -98,7 +98,7 @@ Alzheimer jest najczęstszą formą demencji (60–70% przypadków) - patologicz
 
 ---
 
-## Podsumowanie
+
 
 Dorosłość i starzenie się to okresy obfitujące zarówno w straty, jak i w zyski. Psychologia biegu życia uczy nas, że trajektoria życia nie jest prostą linią regresji - zmiany mają charakter wielokierunkowy. Dane empiryczne konsekwentnie podważają pesymistyczny stereotyp starości jako etapu wyłącznej degradacji: emocjonalna mądrość, akceptacja skończoności i pogłębione relacje są autentycznymi osiągnięciami, do których wiele osób dochodzi właśnie w późnym etapie życia.
 
@@ -116,13 +116,9 @@ Dorosłość i starzenie się to okresy obfitujące zarówno w straty, jak i w z
 - Rowe, J. W., & Kahn, R. L. (1997). Successful aging. *The Gerontologist, 37*(4), 433–440.
 - Salthouse, T. A. (1996). The processing-speed theory of adult age differences. *Psychological Review, 103*(3), 403–428.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

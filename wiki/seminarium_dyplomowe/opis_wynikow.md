@@ -128,17 +128,13 @@ Kilka zasad stylistycznych:
 - Unikaj absolutnych sformułowań: nie „udowodniono", a „wyniki wskazują"
 - Spójność terminologiczna - nie mieszaj synonimów dla tego samego pojęcia
 
-## Podsumowanie
+
 
 Dobra prezentacja wyników i rzetelna dyskusja to nie tylko kwestia techniczna - to sztuka naukowej komunikacji. Student, który potrafi precyzyjnie opisać wyniki i uczciwie je zinterpretować, zdobywa jedną z najważniejszych kompetencji badacza - niezależnie od tego, czy w przyszłości zostanie naukowcem, klinicystą, czy konsultantem.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

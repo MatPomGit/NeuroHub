@@ -111,17 +111,13 @@ Specyfika polskiego rynku obejmuje:
 - Rosnące zainteresowanie gier polskich deweloperów (CD Projekt RED z serią *Wiedźmin* i *Cyberpunk 2077*)
 - Aktywne środowiska twórcze i akademickie skupione wokół game studies
 
-## Podsumowanie
+
 
 Psychologia gier wideo jest dynamicznie rozwijającą się dyscypliną, której znaczenie rośnie wraz z upowszechnianiem się gier cyfrowych. Zrównoważone podejście badawcze - wolne od zarówno paniki moralnej, jak i bezkrytycznej apologetyki gier - pozwala lepiej rozumieć jedno z najważniejszych zjawisk kulturowych naszych czasów. Kolejne artykuły w tym dziale będą szczegółowo omawiać poszczególne aspekty tej fascynującej dziedziny.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

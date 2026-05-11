@@ -68,17 +68,13 @@ PPIs nie są wolne od ograniczeń. Krytyka obejmuje:
 - kwestię **kulturowego dopasowania** - nie wszystkie interwencje są równie skuteczne we wszystkich kulturach
 - ryzyko **pozytywnej tyranii** (*tyranny of positivity*) - presji na bycie szczęśliwym, która może paradoksalnie zwiększać poczucie winy i niespełnienia
 
-## Podsumowanie
+
 
 Interwencje psychologii pozytywnej stanowią rosnący zbiór empirycznie ugruntowanych narzędzi do zwiększania dobrostanu, budowania odporności i rozwijania zasobów psychologicznych. Metaanalizy potwierdzają ich skuteczność, choć efekty są umiarkowane i zależne od kontekstu. Najlepsze rezultaty osiąga się przy dopasowaniu interwencji do osoby, jej sił i kultury - oraz przy integracji z szerszym planem terapeutycznym lub coachingowym.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

@@ -117,17 +117,13 @@ Reintegracja zawodowa po doświadczeniu mobbingu wymaga starannego planowania. K
 
 W dużym polskim banku po serii skarg pracowniczych zewnętrzna firma konsultingowa przeprowadziła audyt klimatu pracy. Wyniki wykazały systemowe problemy: brak procedur zgłaszania, tolerancję kierownictwa dla agresywnego stylu komunikacji jednego z dyrektorów oraz brak szkoleń z zakresu mobbingu. Zaimplementowano: politykę antymobbingową, szkolenia dla wszystkich managerów, linię zaufania i roczny monitoring klimatu. W badaniu follow-up po 18 miesiącach deklarowane poczucie psychologicznego bezpieczeństwa wzrosło o 34%, a liczba zwolnień lekarskich z powodów psychosomatycznych zmniejszyła się o 22%.
 
-## Podsumowanie
+
 
 Skuteczne zapobieganie mobbingowi i interwencja wymagają działań na wielu poziomach: polityki organizacyjnej, kultury firmy, edukacji pracowników, wsparcia prawnego i psychologicznego. Żadne z tych działań nie jest skuteczne w izolacji - dopiero ich spójne połączenie tworzy środowisko pracy, w którym mobbing nie ma warunków do rozwoju.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

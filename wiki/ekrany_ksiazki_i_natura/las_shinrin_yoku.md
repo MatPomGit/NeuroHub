@@ -99,17 +99,13 @@ Na podstawie dowodów naukowych i japońskich protokołów terapeutycznych:
 - Zaangażowanie zmysłów: świadome zwracanie uwagi na dźwięki, zapachy, faktury
 - Brak technologii: wyciszenie telefonu wspiera głębszą ekspozycję
 
-## Podsumowanie
+
 
 Shinrin-yoku to jeden z najlepiej zbadanych przykładów terapeutycznego działania środowiska naturalnego. Jego efekty - od wzrostu aktywności NK, przez obniżenie kortyzolu, po redukcję lęku i ruminacji - są dobrze udokumentowane i fizjologicznie wiarygodne. W dobie epidemii depresji i lęku kąpiel leśna jawi się jako prosta, dostępna i pozbawiona efektów ubocznych interwencja prozdrowotna, której potencjał jest ciągle niedoceniany.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

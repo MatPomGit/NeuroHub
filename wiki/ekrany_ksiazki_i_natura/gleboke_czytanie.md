@@ -85,17 +85,13 @@ Wolf nie jest pesymistką. W *Reader, Come Home* opisuje strategie rehabilitacji
 
 > **Fakt:** Wolf proponuje pojęcie „biliteratności" - zdolności do swobodnego przełączania się między szybkim czytaniem cyfrowym a głębokim czytaniem narracyjnym. To cel adaptacyjny w środowisku, w którym oba tryby są potrzebne.
 
-## Podsumowanie
+
 
 Głębokie czytanie to kulminacja tego, co mózg potrafi zrobić z językiem pisanym: zbudować wewnętrzny świat, wnioskować, odczuwać i myśleć krytycznie. Jest zagrożone przez środowisko cyfrowe promujące fragmentaryczność. Jego utrata byłaby nie tylko stratą estetyczną - byłaby zubożeniem zbiorowej zdolności do refleksji, empatii i krytycznego myślenia. Przywracanie głębokiego czytania to w istocie ochrona jednej z najważniejszych zdolności człowieka.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

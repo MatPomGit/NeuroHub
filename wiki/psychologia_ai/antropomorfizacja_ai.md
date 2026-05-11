@@ -117,17 +117,13 @@ Wiedza o antropomorfizacji ma bezpośrednie implikacje dla projektowania AI:
 3. **Unikanie manipulatywnej antropomorfizacji**: etycznym wymogiem jest nie używanie ludzkich cech AI do przekraczania granic zgody użytkownika
 4. **Projektowanie odpornego odłączenia**: użytkownicy powinni mieć ułatwiony psychologicznie powrót od relacji z AI do relacji z ludźmi
 
-## Podsumowanie
+
 
 Antropomorfizacja AI jest nieuchronna - jest wyrazem głęboko zakorzenionego, ewolucyjnie ukształtowanego mechanizmu poznawczego. Zadaniem psychologów, projektantów i etyków nie jest jej eliminacja, lecz świadome zarządzanie nią. Rozumienie kiedy, dlaczego i jak ludzie antropomorfizują AI jest kluczowe dla projektowania systemów, które służą ludzkim potrzebom, a nie je eksploatują - i dla edukacji społeczeństwa w zakresie krytycznego korzystania z technologii, która coraz sprawniej naśladuje człowieka.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

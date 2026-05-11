@@ -134,7 +134,7 @@ Pracodawca pyta, czy pracownik nadaje się do pełnienia funkcji kierowniczej.
 
 ---
 
-## Podsumowanie
+
 
 Tajemnica zawodowa nie jest przeszkodą w pracy diagnostycznej - jest jej fundamentem. Psycholog chroniący poufność klientów buduje zaufanie, które jest warunkiem skutecznej pomocy. Jednocześnie znajomość legalnych i etycznych wyjątków od tajemnicy jest niezbędna do odpowiedzialnego postępowania w sytuacjach kryzysowych.
 
@@ -148,13 +148,9 @@ Tajemnica zawodowa nie jest przeszkodą w pracy diagnostycznej - jest jej fundam
 - Tarasoff v. Regents of the University of California (1976).
 - Pope, K. S., & Vasquez, M. J. T. (2016). *Ethics in Psychotherapy and Counseling* (5th ed.). Wiley.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

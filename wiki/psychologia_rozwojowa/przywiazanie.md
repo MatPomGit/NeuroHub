@@ -102,7 +102,7 @@ Teoria przywiązania ma kluczowe zastosowania kliniczne:
 
 ---
 
-## Podsumowanie
+
 
 Teoria przywiązania odsłania, w jaki sposób relacyjny kontekst wczesnego dzieciństwa odciska swój ślad w strukturze mózgu, wzorcach emocjonalnych i sposobach budowania bliskości przez całe życie. Dziś należy do fundamentów psychologii klinicznej, psychoterapii, a także polityki społecznej nakierowanej na wspieranie rodzicielstwa.
 
@@ -120,13 +120,9 @@ Teoria przywiązania odsłania, w jaki sposób relacyjny kontekst wczesnego dzie
 - Mikulincer, M., & Shaver, P. R. (2007). *Attachment in Adulthood*. Guilford Press.
 - van IJzendoorn, M. H. (1995). Adult attachment representations, parental responsiveness, and infant attachment. *Psychological Bulletin*, 117(3), 387–403.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

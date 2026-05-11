@@ -72,17 +72,13 @@ Dla psychologa: czy konstrukty takie jak „osobowość", „inteligencja", „n
 
 Klasyczne podejście zakłada, że nauka jest lub powinna być **wolna od wartości** (*value-free*). Jednak filozofowie nauki (Longino, Kitcher) wskazują, że wartości epistemiczne i społeczne nieuchronnie wnikają w wybór problemów badawczych, metod i interpretację wyników. Psychologia ma tu szczególnie trudne pole: kategorie diagnostyczne i normy zdrowia psychicznego nie są neutralne - odzwierciedlają wartości kulturowe i polityczne.
 
-## Podsumowanie
+
 
 Filozofia nauki dostarcza psychologowi narzędzi do krytycznej oceny własnej dyscypliny: jak oceniać jakość badań, rozpoznawać pseudonaukę, rozumieć zmiany paradygmatów i refleksyjnie traktować własne założenia metodologiczne. W obliczu kryzysu replikacji i proliferacji terapii o niepotwierdzonym działaniu, filozofia nauki staje się nie luksusem, lecz koniecznością zawodową.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

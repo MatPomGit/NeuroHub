@@ -101,17 +101,13 @@ W badaniach klinicznych i longitudinalnych stosuje się pomiary wielokrotne:
 - Uwzględnij efekty nauki/powtarzania (*practice effects*) w testach zdolności
 - Różnica istotna statystycznie nie zawsze jest **różnicą klinicznie znaczącą** - sprawdź błąd pomiaru (SEM) i najistotniejszą różnicę (*RCI - Reliable Change Index*)
 
-## Podsumowanie
+
 
 Prowadzenie pomiarów psychologicznych to więcej niż rozsyłanie kwestionariuszy. Wymaga świadomości właściwości narzędzi, kontroli warunków, czystości danych i właściwego odniesienia do norm. Solidny pomiar jest fundamentem każdego rzetelnego badania psychologicznego.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

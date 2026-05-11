@@ -70,17 +70,13 @@ Badania wykazują, że użytkownicy przypisują robotom płeć na podstawie gło
 
 Osoby z większym doświadczeniem w interakcji z robotami (np. inżynierowie, użytkownicy) wykazują znacznie niższe poziomy lęku i wyższe poziomy zaufania wobec robotów niż osoby bez doświadczenia. To sugeruje, że ekspozycja na technologię stopniowo zmienia postawy.
 
-## Podsumowanie
+
 
 Percepcja robotów przez ludzi jest kształtowana przez te same mechanizmy psychologiczne, które stosujemy w relacjach z innymi ludźmi. Projektowanie robotów społecznych wymaga głębokiego rozumienia tych mechanizmów - by tworzyć maszyny, które ludzie chcą i potrafią zaakceptować.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

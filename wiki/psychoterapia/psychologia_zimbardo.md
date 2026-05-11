@@ -129,17 +129,13 @@ Zimbardo spotkał się z krytyką w kilku obszarach:
 
 Mimo tych zastrzeżeń dorobek Zimbardo pozostaje fundamentem dla psychologii społecznej, szczególnie w rozumieniu **władzy sytuacji nad jednostką**.
 
-## Podsumowanie
+
 
 Philip Zimbardo stworzył jedno z najbardziej prowokacyjnych i wpływowych ujęć ludzkiej natury we współczesnej psychologii. Jego centralne przesłanie brzmi: **nie wystarczy być dobrym człowiekiem - trzeba aktywnie opierać się złym sytuacjom i systemom oraz rozwijać heroiczną gotowość do działania**. Zrozumienie sił sytuacyjnych, deindywiduacji, dehumanizacji i efektu biernego świadka jest niezbędne zarówno dla psychologów klinicznych i społecznych, jak i dla każdego, kto chce świadomie kształtować swoje życie moralne i społeczne.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

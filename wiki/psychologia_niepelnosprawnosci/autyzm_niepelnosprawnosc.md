@@ -59,17 +59,13 @@ Kontakt z innymi autystycznymi osobami buduje tożsamość, obniża izolację i 
 
 Coraz więcej osób - szczególnie kobiet i osób AFAB - otrzymuje diagnozę w dorosłości. Późna diagnoza często przynosi ulgę i wyjaśnienie doświadczeń życiowych, ale wiąże się też z żałobą za latami bez wsparcia.
 
-## Podsumowanie
+
 
 Spektrum autyzmu w kontekście niepełnosprawności wymaga podejścia wrażliwego na tożsamość i prawa autystycznych osób. Celem wsparcia nie jest eliminacja autystycznych cech, lecz tworzenie warunków, w których każda osoba może funkcjonować zgodnie ze swoją naturą i realizować własne cele życiowe.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

@@ -1,4 +1,4 @@
-# 18. Farmakoterapia zespołu obsesyjno-kompulsyjnego
+﻿# 18. Farmakoterapia zespołu obsesyjno-kompulsyjnego
 
 ## Wprowadzenie
 Leczenie OCD opiera się głównie na SSRI w wyższych dawkach terapeutycznych oraz na terapii ERP. W części przypadków stosuje się augmentację lekami przeciwpsychotycznymi.
@@ -12,14 +12,18 @@ Leczenie OCD opiera się głównie na SSRI w wyższych dawkach terapeutycznych o
 Odpowiedź w OCD często pojawia się później niż w depresji, dlatego kluczowa jest cierpliwa ocena efektu i dobra psychoedukacja. Farmakoterapia i ERP mają największą skuteczność w modelu łączonym.
 
 ## Praktyczne przykłady
-Dobra praktyka: utrzymanie odpowiedniej dawki SSRI przez wystarczający czas.
-Zła praktyka: zbyt szybkie przełączanie leków i pomijanie ERP.
+### Dobra praktyka
+
+utrzymanie odpowiedniej dawki SSRI przez wystarczający czas.
+### Zła praktyka
+
+zbyt szybkie przełączanie leków i pomijanie ERP.
 Konsekwencja: niższy odsetek pełnej remisji.
 
 ## Perspektywa nieoczywista
 W praktyce klinicznej największe korzyści przynosi nie maksymalizacja liczby interwencji, lecz **precyzyjne ograniczanie leczenia do elementów o najwyższej wartości dodanej**. To podejście bywa mniej intuicyjne niż „eskalacja terapii”, ale często poprawia współpracę, bezpieczeństwo i długofalowe wyniki.
 
-## Podsumowanie
+
 Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dane naukowe, monitoring efektów oraz współdecydowanie z pacjentem. Wysoka jakość leczenia wynika z konsekwentnej ewaluacji korzyści i ryzyka na każdym etapie terapii.
 
 ## Bibliografia
@@ -28,5 +32,7 @@ Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dan
 - NICE. (2022-2025). Guidance on mental health and pharmacological treatment (living updates).
 - WHO. (2023). ICD-11 Clinical Descriptions and Diagnostic Guidelines.
 - Meyer, J. M., & Quenzer, L. F. (2018). Psychopharmacology: Drugs, the Brain, and Behavior (3rd ed.).
+
+
 
 

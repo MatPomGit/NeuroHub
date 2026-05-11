@@ -56,17 +56,13 @@ Psycholog zdrowia projektuje interwencje tak, aby były nie tylko „merytoryczn
 
 W firmie wdrożono program „Ruch w pracy”: krótkie przerwy ruchowe, krokomierze zespołowe i wsparcie liderów. Zamiast nacisku na „samodyscyplinę” zmieniono środowisko pracy. Po 3 miesiącach odnotowano większą aktywność i spadek deklarowanego zmęczenia.
 
-## Podsumowanie
+
 
 Skuteczna promocja zdrowia łączy wiedzę psychologiczną z działaniami społecznymi i organizacyjnymi. Największe efekty daje tam, gdzie zdrowy wybór staje się jednocześnie wyborem najłatwiejszym.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

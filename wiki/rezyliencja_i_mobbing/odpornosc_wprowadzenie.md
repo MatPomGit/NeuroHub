@@ -58,17 +58,13 @@ Seligman rozwinął koncepcję **nauczanej bezradności** (*learned helplessness
 
 Marta, 38-letnia nauczycielka, zgłosiła się na psychoterapię po rozpadzie wieloletniego związku i jednoczesnej utracie pracy. W wywiadzie ujawniono, że w dzieciństwie wychowywała się w rodzinie z problemem alkoholowym ojca. Mimo to ukończyła studia, zbudowała sieć wsparcia społecznego i przez lata funkcjonowała ponadprzeciętnie. W chwili kryzysu zasoby, które przez lata były jej „buforami", zostały jednocześnie nadwyrężone. Praca terapeutyczna koncentrowała się na ponownym uruchomieniu zasobów odporności: eksploracji wartości, przeformułowaniu narracji o kryzysie i odbudowie sieci wsparcia. Po 8 miesiącach terapii Marta podjęła nowe zatrudnienie i oceniła kryzys jako punkt zwrotny w rozumieniu własnych priorytetów życiowych - klasyczny przykład wzrostu potraumatycznego.
 
-## Podsumowanie
+
 
 Odporność psychiczna jest wielowymiarowym, dynamicznym procesem, którego korzenie sięgają wczesnych badań Ruttera i Werner, a którego współczesne rozumienie integruje perspektywę biologiczną, psychologiczną, społeczną i egzystencjalną. Nie jest wyłącznym przywilejem „silnych jednostek" - jest zasobem potencjalnie dostępnym dla każdego człowieka, który można rozpoznać, rozwijać i wzmacniać w praktyce klinicznej oraz programach prewencyjnych.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

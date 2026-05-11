@@ -38,7 +38,7 @@ W zespole kliniczno-badawczym informacje o obciążeniu rodzinnym i historii ura
 
 **Konsekwencje:** bardziej precyzyjna profilaktyka, mniejszy poziom stygmatyzacji, realistyczne oczekiwania wobec biomarkerów.
 
-### Zła praktyka (częsty błąd)
+### Zła praktyka
 Przedstawianie wyników genetycznych jako przesądzającej prognozy („ma pani gen samobójstwa”), stosowanie języka fatalistycznego lub deterministycznego.
 
 **Konsekwencje:** nasilenie lęku i bezradności, błędne decyzje kliniczne, ryzyko nadużyć etycznych i naruszenia prywatności.
@@ -46,7 +46,7 @@ Przedstawianie wyników genetycznych jako przesądzającej prognozy („ma pani 
 ## Perspektywa nieoczywista
 Rozwój genetyki psychiatrycznej bywa odbierany jako zagrożenie „biologicznym redukcjonizmem”. Paradoksalnie może działać odwrotnie: dobrze komunikowana wiedza genetyczna pokazuje, że ryzyko jest modyfikowalne. To nie „wyrok z DNA”, lecz informacja o podatności, na którą można odpowiadać leczeniem, wsparciem społecznym i zmianą środowiska.
 
-## Podsumowanie
+
 - Suicydalność ma poligeniczny i wieloczynnikowy charakter.
 - Epigenetyka stanowi kluczowy pomost między doświadczeniem a biologią.
 - Dane genetyczne nie są obecnie samodzielnym narzędziem predykcji klinicznej na poziomie jednostki.

@@ -93,17 +93,13 @@ Ważne zastrzeżenie: PTG nie jest automatycznym rezultatem traumy - wymaga akty
 
 Tomasz, 45-letni strażak z 15-letnim stażem, zgłosił się po interwencji CISD (Critical Incident Stress Debriefing) następującej po szczególnie traumatycznej akcji, w której zginęło dziecko. W ciągu 6 miesięcy psychoterapii skoncentrowanej na zasobach terapeuta pracował z Tomaszem nad: (1) technikami uważności redukującymi nocne koszmary i hyperarousal, (2) reframingiem poczucia winy sprawczej, (3) wzmacnianiem więzi z rodziną jako kluczowego zasobu odporności. Pod koniec terapii Tomasz zainicjował w swoim oddziale grupę wsparcia dla strażaków - działanie, które sam opisał jako wyraz wzrostu potraumatycznego.
 
-## Podsumowanie
+
 
 Budowanie odporności to wielowarstwowy proces, który łączy techniki poznawcze, emocjonalne, behawioralne i relacyjne. Żadna pojedyncza metoda nie jest panaceum - skuteczność interwencji zależy od dopasowania do indywidualnych potrzeb, historii i kontekstu osoby. Wspólnym mianownikiem wszystkich skutecznych podejść jest jednak jedno: traktowanie trudności nie jako sygnału porażki, lecz jako szansy na głębsze poznanie siebie i mobilizację uśpionych zasobów.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

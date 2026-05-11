@@ -43,7 +43,7 @@ Rodzina wdraża zasadę „bez ekranów przy posiłkach i godzinę przed snem”
 
 **Konsekwencje:** lepsza jakość kontaktu interpersonalnego, spokojniejsze zasypianie, mniejsze przeciążenie wieczorne i lepsza koncentracja dzienna.
 
-### Zła praktyka (częsty błąd)
+### Zła praktyka
 
 Osoba deklaruje „detoks cyfrowy”, ale bez zmiany ustawień i środowiska. Wszystkie powiadomienia pozostają aktywne, a telefon jest stale w zasięgu wzroku.
 
@@ -53,7 +53,7 @@ Osoba deklaruje „detoks cyfrowy”, ale bez zmiany ustawień i środowiska. Ws
 
 Nieoczywistym, ale ważnym wnioskiem jest to, że higiena cyfrowa ma wymiar **sprawiedliwości społecznej**. Osoby o niższej autonomii zawodowej lub ekonomicznej mają mniejszą kontrolę nad dostępnością i rytmem pracy, więc trudniej im wdrażać zalecenia. Oznacza to, że profilaktyka nie może opierać się wyłącznie na indywidualnej motywacji; potrzebne są rozwiązania organizacyjne i regulacyjne.
 
-## Podsumowanie
+
 
 Higiena cyfrowa jest narzędziem profilaktyki zdrowia psychicznego, a nie jedynie „modą produktywności”. Najlepsze efekty daje połączenie: (1) zmian środowiska technologicznego, (2) nawyków samoregulacji i (3) norm społecznych respektujących granice.
 

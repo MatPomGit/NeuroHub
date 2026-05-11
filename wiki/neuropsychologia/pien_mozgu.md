@@ -238,17 +238,13 @@ Zstępujące szlaki modulacji bólu, biegnące przez grzbietowo-boczny powrózek
 
 Wstrząśnienie mózgu (*concussion*) prowadzi do dysfunkcji móżdżku objawiającej się zaburzeniami równowagi, koordynacji i przetwarzania wzrokowo-przestrzennego. Ocena cerebelarna (BESS - Balance Error Scoring System) jest standardem w protokołach powrotu do gry.
 
-## Podsumowanie
+
 
 Pień mózgu i móżdżek tworzą biologiczny fundament funkcjonowania psychofizycznego człowieka. Pień mózgu, zawierając ośrodki życiowe i jądra nerwów czaszkowych, jest niezbędny do przeżycia. Formacja siatkowata koordynuje poziomy czujności i świadomości, a jej uszkodzenie prowadzi do śpiączki. Móżdżek, choć nie inicjuje ruchu, subtelnie koordynuje i udoskonala każde zachowanie motoryczne, uczenie ruchowe, a także - jak coraz wyraźniej pokazuje neuronauka - procesy poznawcze i emocjonalne. Kliniczne konsekwencje uszkodzeń tych struktur są dramatyczne i wymagają od neuropsychologów dobrej znajomości anatomii funkcjonalnej pnia mózgu i móżdżku.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

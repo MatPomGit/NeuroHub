@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-05-04
 reviewCycleMonths: 18
 evidenceCutoffDate: 2026-03-31
@@ -42,7 +42,7 @@ W niektórych tradycjach religijnych większy nacisk kładzie się na etykę zas
 ## Praktyczny mini-przykład
 Uczeń deklaruje, że "postępuje moralnie", bo boi się kary i opinii grupy. W programie edukacji etycznej uczy się analizy konsekwencji własnych decyzji oraz perspektywy osoby poszkodowanej. Po kilku miesiącach rośnie jego gotowość do działań prospołecznych także wtedy, gdy nikt go nie obserwuje.
 
-## Dobra praktyka
+## Praktyczne przykłady
 Dobrą praktyką edukacyjną i wychowawczą jest łączenie języka norm religijnych z treningiem myślenia etycznego: analizy dylematów, empatii poznawczej i odpowiedzialności za konsekwencje działań.
 
 **Konsekwencje:** większa dojrzałość moralna, mniejsze ryzyko ślepego konformizmu i wyższa spójność między deklaracją a działaniem.
@@ -60,7 +60,7 @@ Ciekawym zjawiskiem jest również to, że ludzie surowiej oceniają nieetyczne 
 ## Perspektywa nieoczywista
 Pytanie "czy religia czyni ludzi moralnymi" jest zbyt ogólne. Bardziej trafne jest pytanie: jakie typy religijności wzmacniają etykę odpowiedzialności, a jakie etykę tożsamości grupowej. Ta różnica dobrze wyjaśnia, dlaczego religia bywa jednocześnie źródłem altruizmu i konfliktu.
 
-## Podsumowanie
+
 - Religia może wzmacniać moralność, ale wpływ jest warunkowy i zależny od sposobu internalizacji norm.
 - Najkorzystniejsze efekty etyczne pojawiają się tam, gdzie normom towarzyszy refleksja i empatia.
 - Największe ryzyko dotyczy moralności opartej wyłącznie na autorytecie i granicach grupowych.
@@ -76,3 +76,4 @@ Pytanie "czy religia czyni ludzi moralnymi" jest zbyt ogólne. Bardziej trafne j
 7. Pargament, K. I. (2011). *Spiritually Integrated Psychotherapy*. Guilford Press.
 8. Decety, J., Cowell, J. M., Lee, K., et al. (2015). The negative association between religiousness and children's altruism across the world. *Current Biology*, 25(22), 2951-2955.
 9. Saroglou, V. (2013). Religion, spirituality, and altruism. In K. I. Pargament (Ed.), *APA Handbook of Psychology, Religion, and Spirituality*.
+

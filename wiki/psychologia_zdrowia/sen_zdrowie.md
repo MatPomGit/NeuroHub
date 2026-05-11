@@ -50,17 +50,13 @@ W przewlekłej bezsenności za standard uznaje się **CBT-I** (terapia poznawczo
 
 Farmakoterapia może być pomocna okresowo, ale zwykle najlepiej działa jako uzupełnienie strategii behawioralnych.
 
-## Podsumowanie
+
 
 Sen nie jest „luksusem”, lecz biologiczną koniecznością. W psychologii zdrowia poprawa jakości snu często stanowi punkt wyjścia do poprawy nastroju, samoregulacji i skuteczności leczenia chorób przewlekłych.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

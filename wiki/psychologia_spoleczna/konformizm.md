@@ -111,7 +111,7 @@ Irving Janis (1972) opisał **myślenie grupowe** (*groupthink*) - stan, w któr
 - Anonimowe zbieranie opinii
 - Lider wstrzymuje się z wyrażaniem własnego zdania na początku
 
-## Podsumowanie
+
 
 Eksperymenty Ascha i Milgrama ukazują, że konformizm i posłuszeństwo są głęboko zakorzenionymi tendencjami wyewoluowanymi w kontekście życia grupowego. Wpływ normatywny i informacyjny, teoria agencji Milgrama i dynamika myślenia grupowego (Janis) tworzą spójny obraz: człowiek jest istotą wrażliwą na kontekst społeczny, a jego autonomia moralna jest mniejsza, niż skłonni jesteśmy sądzić - ale nie jest zerowa.
 
@@ -126,13 +126,9 @@ Eksperymenty Ascha i Milgrama ukazują, że konformizm i posłuszeństwo są gł
 - Milgram, S. (1974). *Obedience to Authority: An Experimental View*. Harper & Row.
 - Moscovici, S. (1976). *Social Influence and Social Change*. Academic Press.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

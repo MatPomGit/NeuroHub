@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-29
 reviewCycleMonths: 24
 evidenceCutoffDate: 2026-04-01
@@ -36,8 +36,7 @@ W opiece nad osobami z ciężką amnezją warto projektować stałe rutyny środ
 
 **Konsekwencja:** mniejszy poziom dezorientacji i lepsze funkcjonowanie mimo trwałego deficytu pamięci deklaratywnej.
 
-### Zła praktyka / częsty błąd
-
+### Zła praktyka
 Wymaganie od pacjenta z amnezją anterogradną, aby „zapamiętał na przyszłość” pojedyncze instrukcje przekazane werbalnie bez wsparcia środowiskowego.
 
 **Konsekwencja:** narastająca frustracja pacjenta i opiekunów oraz błędna interpretacja deficytu jako „braku współpracy”.
@@ -48,7 +47,7 @@ W debatach społecznych pamięć bywa traktowana jako fundament tożsamości oso
 
 To argument za modelem „tożsamości rozproszonej”, współtworzonej przez mózg, ciało, bliskich i środowisko.
 
-## Podsumowanie
+
 
 Clive Wearing pozostaje jednym z najmocniejszych dowodów na wielosystemową naturę pamięci. Jego historia łączy neurobiologię (uszkodzenia hipokampa), psychologię poznawczą (dysocjacja pamięci) i praktykę kliniczną (opieka oparta na strukturze środowiska i zachowanych umiejętnościach proceduralnych).
 
@@ -58,5 +57,6 @@ Clive Wearing pozostaje jednym z najmocniejszych dowodów na wielosystemową nat
 2. Baddeley, A., & Wilson, B. A. (2002). Prose recall and amnesia: Implications for the structure of working memory. *Neuropsychologia*, 40(10), 1737–1743.
 3. Squire, L. R., & Wixted, J. T. (2011). The cognitive neuroscience of human memory since H.M. *Annual Review of Neuroscience*, 34, 259–288.
 4. Corkin, S. (2013). *Permanent Present Tense: The Unforgettable Life of the Amnesic Patient, H.M.* Basic Books.
+
 
 

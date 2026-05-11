@@ -121,17 +121,13 @@ Dokumentacja powinna być:
 
 ---
 
-## Podsumowanie
+
 
 Superwizja i odpowiedzialność zawodowa tworzą wzajemnie wzmacniający się system jakości w psychologii. Superwizja jest mechanizmem prewencji - pozwala wychwycić problemy etyczne zanim staną się naruszeniami. Systemy odpowiedzialności (etyczna, dyscyplinarna, cywilna, karna) stanowią mechanizmy korekcyjne - gdy prewencja zawiedzie. Psycholog świadomy obu wymiarów buduje praktykę, która jest bezpieczna dla klientów i satysfakcjonująca zawodowo dla niego samego.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

@@ -102,17 +102,13 @@ Psychologowie pracujący z seniorami pełnią kilka ról:
 
 > **W praktyce klinicznej:** Kluczowa jest indywidualna ocena pacjenta seniora - nie stereotypizacja. Osoba 80-letnia może funkcjonować lepiej poznawczo niż przeciętna 60-latka, jeśli prowadzi aktywny tryb życia, ma sieci wsparcia społecznego i dobrze kontroluje choroby przewlekłe.
 
-## Podsumowanie
+
 
 Geropsychologia dostarcza narzędzi do rozumienia, że starość nie jest jedynie czasem strat. To etap życia z własną dynamiką, potencjałem i wyzwaniami. Rosnące potrzeby starzejącego się społeczeństwa sprawiają, że kompetencje geropsychologiczne stają się niezbędne w każdej dziedzinie opieki zdrowotnej i psychologicznej.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

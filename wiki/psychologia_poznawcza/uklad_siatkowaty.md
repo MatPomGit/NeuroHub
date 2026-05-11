@@ -49,17 +49,13 @@ Uszkodzenia pnia mózgu obejmujące struktury układu siatkowatego mogą prowadz
 
 W praktyce neuropsychologicznej interpretacja wyników testów uwagi i funkcji wykonawczych powinna uwzględniać możliwe zaburzenia regulacji pobudzenia.
 
-## Podsumowanie
+
 
 Układ siatkowaty stanowi biologiczne „zaplecze energetyczne” procesów poznawczych. Bez właściwej regulacji czuwania i pobudzenia nawet dobrze zachowane funkcje korowe nie działają efektywnie.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

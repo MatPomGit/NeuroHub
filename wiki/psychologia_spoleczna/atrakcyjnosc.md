@@ -90,7 +90,7 @@ Kluczowe pojęcia:
 
 **Teoria inwestycji** Rusta (1980) rozszerzyła model: pozostanie w związku zależy nie tylko od bilansu nagrody-koszty, ale też od **wielkości inwestycji** (czasu, emocji, wspólnych planów) - im większa inwestycja, tym trudniej odejść nawet ze złego związku.
 
-## Podsumowanie
+
 
 Atrakcyjność interpersonalna jest wypadkową czynników sytuacyjnych (bliskość, ekspozycja), poznawczych (podobieństwo, wzajemność), biologicznych (sygnały zdrowia i płodności) i kulturowych (normy piękna, role płciowe). Teorie wymiany społecznej i style miłości dodają wymiar dynamiczny - atrakcyjność nie jest stałym stanem, lecz procesem stale reinterpretowanym przez pryzmat kosztów, korzyści i inwestycji.
 
@@ -108,13 +108,9 @@ Atrakcyjność interpersonalna jest wypadkową czynników sytuacyjnych (bliskoś
 - Walster, E., Aronson, V., Abrahams, D., & Rottman, L. (1966). Importance of physical attractiveness in dating behavior. *Journal of Personality and Social Psychology, 4*(5), 508–516.
 - Zajonc, R. B. (1968). Attitudinal effects of mere exposure. *Journal of Personality and Social Psychology Monograph Supplement, 9*(2), 1–27.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

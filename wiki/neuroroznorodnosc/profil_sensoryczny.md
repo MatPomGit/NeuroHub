@@ -99,18 +99,12 @@ Analiza literatury wskazuje na kilka luk: **(1)** Brak ujednoliconych polskich n
 - **Zalecane lektury i źródła:** Dla pogłębienia wiedzy przydatne będą: oryginalne podręczniki Dunn (1999) oraz Miller (2006, 2007) dotyczące teorii SP i SPD; monografie i artykuły naukowe (np. meta-analizy Ben-Sasson et al., 2009; Lane et al., 2010); polskie prace adaptacyjne (Chojnicka & Pisula 2019; Wiśniewska 2015); oraz aktualne podręczniki integracji sensorycznej. Oficjalne strony wydawców narzędzi (Pearson, WPS) zawierają opisy testów. W internecie warto sięgnąć m.in. do bazy CEON (<https://www.ceon.pl>) czy polskich czasopism psychologicznych. Należy także śledzić nowe wytyczne DSM i ICD (aktualnie DSM-5 uwzględnia kryteria sensoryczne w ASD [\[17\]](https://www.psychiatriapolska.pl/pdf-205726-129425?filename=Zaburzenia%20przetwarzania.pdf#:~:text=DSM,ASD%3A%20%E2%80%9EOgraniczone%2C%20powtarzaj%C4%85ce%20si%C4%99%20wzorce)). Poniżej lista wybranych źródeł (w języku polskim i angielskim) oraz linki do narzędzi:
 
 **Rekomendowane źródła:** Dunn W. _Sensory Profile Manual_ (1999); Miller LJ. _Sensational Kids_ (3rd ed., 2014); Baranek G. _Sensory Experiences Questionnaire_ (2009); Chojnicka I. & Pisula E. (2019). _Adaptation and psychometric properties of the Polish SSP-2_ [\[5\]](https://www.researchgate.net/publication/337029206_Adaptation_and_psychometric_properties_of_the_Polish_version_of_the_Short_Sensory_Profile_2#:~:text=scales%2Fquadrants%20and%20the%20overall%20score,by%20the%20children%27s%20age%2C%20gender); Wiśniewska M. (2015). _Profil Sensoryczny Dziecka_ (PTP Gdańsk); Grobelna N. i wsp. (2024). _Phenomenon of sensory processing - przegląd_ [\[28\]](https://ane.pl/index.php/ane/article/download/2556/2503/5026#:~:text=has%20evolved%2C%20leading%20to%20the,including%20sensory%20gating%2C%20electrodermal%20responses)[\[1\]](https://ane.pl/index.php/ane/article/download/2556/2503/5026#:~:text=This%20model%20proposes%20the%20existence,described%20as%3A%20Sensory%20Sensitivity%2C%20character%E2%80%91). Bobrowska M., Liberska H. (2023). _Polska adaptacja HSPS_ [\[7\]](https://www.researchgate.net/publication/378949683_Polska_adaptacja_narzedzia_Highly_Sensitive_Person_Scale#:~:text=Cel%3A%20Wra%C5%BCliwo%C5%9B%C4%87%20przetwarzania%20sensorycznego%20definiowana,Wykluczono%20sze%C5%9B%C4%87). Krzysztofik K. (2022). _SEQ-3.0-PL_ (prace niepublikowane, UAM). Ponadto przydatne: Pearson Assessments ([www.pearsonassessments.com](http://www.pearsonassessments.com)), opisy _Sensory Profile 2_, _AASP_; Western Psych. Services (<www.wpspublish.com>) - informacje o _SPM_ i innych.
-
-
-
 ## Perspektywa nieoczywista
-
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
 
 ## Podsumowanie
 
-Najważniejszy wniosek jest taki, że rzetelne rozumienie omawianego tematu wymaga łączenia definicji, danych empirycznych i konsekwencji praktycznych. Skuteczne działania opierają się na dopasowaniu metod do celu, monitorowaniu efektów oraz świadomym zarządzaniu ograniczeniami. Jednocześnie należy zachować ostrożność wobec nadmiernych uogólnień, bo jakość wniosków zależy od kontekstu i jakości pomiaru. Włączenie perspektywy alternatywnej zwiększa trafność diagnozy i użyteczność interwencji. Ostatecznie to właśnie integracja wiedzy teoretycznej z praktyką decyduje o wartości edukacyjnej i klinicznej artykułu.
 
+## Podsumowanie
 
 ## Bibliografia
 

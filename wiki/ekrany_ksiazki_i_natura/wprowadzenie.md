@@ -89,17 +89,13 @@ Dział obejmuje dwanaście artykułów pogrupowanych tematycznie:
 - *Shinrin-yoku* - kąpiel leśna a zdrowie i funkcje poznawcze
 - *Góry i wędrówki górskie a psychologia* - ruch, zachwyt i samorozwój
 
-## Podsumowanie
+
 
 Żyjemy w środowisku informacyjnym, które nie istniało jeszcze trzydzieści lat temu. Mózg ludzki - ukształtowany przez miliony lat ewolucji w środowisku naturalnym - musi teraz radzić sobie z strumieniem powiadomień, mediów społecznościowych i treści wideo. Psychologia mediów i środowiska dostarcza narzędzi do zrozumienia tych wyzwań i - co ważniejsze - do świadomego kształtowania własnych nawyków. Wiedza o tym, jak ekrany, książki i natura wpływają na umysł, jest dziś wiedzą praktyczną niezbędną każdemu.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

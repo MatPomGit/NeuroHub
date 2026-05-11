@@ -107,7 +107,7 @@ Programy psychoedukacyjne i terapeutyczne dla rodziców opierają się na mechan
 
 ---
 
-## Podsumowanie
+
 
 Style rodzicielskie nie determinują w sposób mechaniczny losów dziecka - temperament, kultura i zasoby środowiskowe stale modulują te zależności. Niemniej konsekwentne dowody empiryczne wskazują, że połączenie ciepła emocjonalnego, jasnych oczekiwań i uzasadnień zasad tworzy optymalne warunki dla rozwijającej się autonomii, kompetencji i dobrostanu. Wiedza o stylach rodzicielskich stanowi fundament pracy profilaktycznej i terapeutycznej z rodzinami.
 
@@ -123,13 +123,9 @@ Style rodzicielskie nie determinują w sposób mechaniczny losów dziecka - temp
 - Maccoby, E. E., & Martin, J. A. (1983). Socialization in the context of the family. W: P. H. Mussen (red.), *Handbook of Child Psychology* (t. 4). Wiley.
 - Steinberg, L., Dornbusch, S. M., & Brown, B. B. (1992). Ethnic differences in adolescent achievement. *American Psychologist*, 47(6), 723–729.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

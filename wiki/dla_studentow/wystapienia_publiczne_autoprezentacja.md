@@ -148,7 +148,7 @@ Nieoczywista perspektywa zakłada, że skuteczna autoprezentacja jest przede wsz
 - `students/psycholog_w_it` - prezentacja wyników badań i komunikacja z zespołami technicznymi.
 - `reference/mapa_powiazan_nowe_artykuly` - mapa relacji między nowymi tekstami.
 
-## Podsumowanie
+
 
 Wystąpienia publiczne to umiejętność oparta na psychologii uwagi, pamięci i regulacji emocji. Najlepsze rezultaty daje połączenie struktury poznawczej, treningu wykonania i świadomej, etycznej autoprezentacji.
 

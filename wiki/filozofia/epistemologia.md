@@ -71,17 +71,13 @@ Związki między epistemologią a psychologią są głębokie:
 - **Ekspertyza i autorytet**: jak oceniać wiarygodność źródeł naukowych w obliczu dezinformacji?
 - **Epistemiczna niesprawiedliwość** (Miranda Fricker): pewne grupy są systematycznie pozbawiane statusu wiarygodnych świadków - ma to znaczenie dla diagnostyki i terapii osób z mniejszości.
 
-## Podsumowanie
+
 
 Epistemologia uczy krytycznego stosunku do własnych przekonań i do wiedzy naukowej. Dla psychologa oznacza to nieustające pytanie: skąd wiem to, co wiem o moim pacjencie, o teorii, którą stosuję, o skuteczności metody? Dobry psycholog to refleksyjny epistemik - ktoś, kto rozumie zarówno moc, jak i granice ludzkiego poznania.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

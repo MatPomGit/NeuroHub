@@ -46,17 +46,13 @@ Psychoonkolog nie działa obok medycyny, lecz we współpracy z nią:
 - wspiera komunikowanie trudnych informacji,
 - pomaga zapobiegać wypaleniu personelu.
 
-## Podsumowanie
+
 
 Psychoonkologia zwiększa humanizację i skuteczność opieki onkologicznej. Jej celem nie jest „zastąpienie” leczenia somatycznego, lecz zmniejszenie cierpienia psychicznego i poprawa funkcjonowania pacjenta na każdym etapie choroby.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

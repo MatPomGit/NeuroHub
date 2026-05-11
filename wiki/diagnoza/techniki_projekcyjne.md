@@ -158,7 +158,7 @@ Techniki projekcyjne są **uzasadnione jako element wielometodowej baterii diagn
 
 ---
 
-## Podsumowanie
+
 
 Techniki projekcyjne stanowią wartościowy element arsenału diagnostycznego psychologa klinicznego - pod warunkiem stosowania znormalizowanych systemów kodowania, osadzenia wyników w kontekście wielometodowym oraz krytycznej świadomości ograniczeń empirycznych. Ich największą siłą jest dostęp do danych jakościowych i dynamicznych, których kwestionariusze samoopisu nie mogą dostarczyć.
 
@@ -171,13 +171,9 @@ Techniki projekcyjne stanowią wartościowy element arsenału diagnostycznego ps
 - Mihura, J. L., i in. (2013). *The validity of individual Rorschach variables: Systematic reviews and meta-analyses*. Psychological Bulletin, 139(3), 548–605.
 - Eells, T. D. (2007). *Handbook of Psychotherapy Case Formulation*. Guilford Press.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

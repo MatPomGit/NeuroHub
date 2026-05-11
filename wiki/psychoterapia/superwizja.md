@@ -220,7 +220,7 @@ Badania nad efektywnością superwizji (m.in. Ladany, 2014; Wheeler, 2007) wskaz
 
 ---
 
-## Podsumowanie
+
 
 Superwizja jest **fundamentem odpowiedzialnej praktyki** psychologicznej i psychoterapeutycznej. To nie forma kontroli czy biurokratyczny wymóg - to przestrzeń zawodowej refleksji, wzrostu i wzajemnej ochrony: terapeuty, pacjenta i systemu opieki zdrowotnej.
 
@@ -237,13 +237,9 @@ Dobrze prowadzona superwizja sprawia, że terapeuta staje się lepszy, spokojnie
 - Polskie Towarzystwo Psychologiczne. (2023). *Standardy szkolenia w psychoterapii*. PTP.
 - Rozporządzenie Ministra Zdrowia z dnia 19 czerwca 2019 r. w sprawie świadczeń gwarantowanych z zakresu opieki psychiatrycznej.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

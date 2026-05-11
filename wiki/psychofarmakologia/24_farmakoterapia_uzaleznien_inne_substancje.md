@@ -1,4 +1,4 @@
-# 24. Farmakoterapia zaburzeń używania substancji innych niż alkohol
+﻿# 24. Farmakoterapia zaburzeń używania substancji innych niż alkohol
 
 ## Wprowadzenie
 Farmakoterapia uzależnień od opioidów, nikotyny i części innych substancji opiera się na zmniejszaniu śmiertelności, głodu i szkód zdrowotnych. W wielu przypadkach celem klinicznym jest stabilizacja, a nie natychmiastowa abstynencja.
@@ -12,14 +12,18 @@ Farmakoterapia uzależnień od opioidów, nikotyny i części innych substancji 
 Najlepsze wyniki uzyskuje się dzięki łączeniu leków z opieką środowiskową, redukcją szkód, leczeniem współchorobowości i wsparciem społecznym.
 
 ## Praktyczne przykłady
-Dobra praktyka: traktowanie utrzymania w leczeniu jako kluczowego wskaźnika skuteczności.
-Zła praktyka: przerywanie terapii po pojedynczym nawrocie.
+### Dobra praktyka
+
+traktowanie utrzymania w leczeniu jako kluczowego wskaźnika skuteczności.
+### Zła praktyka
+
+przerywanie terapii po pojedynczym nawrocie.
 Konsekwencja: zwiększone ryzyko przedawkowania i wykluczenia z opieki.
 
 ## Perspektywa nieoczywista
 W praktyce klinicznej największe korzyści przynosi nie maksymalizacja liczby interwencji, lecz **precyzyjne ograniczanie leczenia do elementów o najwyższej wartości dodanej**. To podejście bywa mniej intuicyjne niż „eskalacja terapii”, ale często poprawia współpracę, bezpieczeństwo i długofalowe wyniki.
 
-## Podsumowanie
+
 Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dane naukowe, monitoring efektów oraz współdecydowanie z pacjentem. Wysoka jakość leczenia wynika z konsekwentnej ewaluacji korzyści i ryzyka na każdym etapie terapii.
 
 ## Bibliografia
@@ -28,5 +32,7 @@ Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dan
 - NICE. (2022-2025). Guidance on mental health and pharmacological treatment (living updates).
 - WHO. (2023). ICD-11 Clinical Descriptions and Diagnostic Guidelines.
 - Meyer, J. M., & Quenzer, L. F. (2018). Psychopharmacology: Drugs, the Brain, and Behavior (3rd ed.).
+
+
 
 

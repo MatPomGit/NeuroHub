@@ -57,17 +57,13 @@ Powszechne przekonanie, że doświadczony klinista potrafi bezbłędnie wykryć 
 
 Wariograf (*poligraf*) nie jest dopuszczonym dowodem sądowym w Polsce i większości krajów europejskich, ze względu na zbyt niską trafność i wysoką podatność na wyniki fałszywie pozytywne i negatywne. Nowoczesne metody neurobiologiczne (fMRI, EEG) są wciąż zbyt mało precyzyjne do stosowania sądowego.
 
-## Podsumowanie
+
 
 Ocena wiarygodności zeznań jest jednym z najtrudniejszych i najbardziej odpowiedzialnych zadań biegłego psychologa. Wymaga znajomości aktualnych badań z zakresu psychologii pamięci, sugestywności, traumy i detekcji kłamstwa - oraz świadomości ograniczeń dostępnych metod. Nadmierna pewność w formułowaniu wniosków o wiarygodności jest błędem równie niebezpiecznym co niedoszacowanie wartości zeznania.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

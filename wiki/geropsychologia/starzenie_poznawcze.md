@@ -150,17 +150,13 @@ Badania potwierdzają, że trening poznawczy może poprawiać konkretne ćwiczon
 - rutyny i habituacja - zwalniają zasoby uwagi dla nowych zadań
 - wsparcie rodziny w rozpoznawaniu wczesnych oznak pogorszenia
 
-## Podsumowanie
+
 
 Starzenie poznawcze to wielowymiarowy proces, w którym pewne funkcje ulegają osłabieniu, a inne pozostają stabilne lub rozwijają się. Kluczowe jest odróżnienie normalnego starzenia od patologicznego. Dzięki rezerwom poznawczym, aktywnemu stylowi życia i wczesnej interwencji wiele osób utrzymuje wysoki poziom sprawności umysłowej do późnej starości. Geropsychologia dysponuje coraz skuteczniejszymi narzędziami oceny i wsparcia tego procesu.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

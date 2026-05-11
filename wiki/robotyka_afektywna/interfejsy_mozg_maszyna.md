@@ -84,17 +84,13 @@ Dane z mózgu są najbardziej intymnymi danymi osobowymi. BCI rejestrujące akty
 
 BCI mogłyby być stosowane nie tylko terapeutycznie, lecz i w celu wzmocnienia poznania u zdrowych osób - „neuroboostingu". Budzi to pytania o sprawiedliwość, presję społeczną i nierówności.
 
-## Podsumowanie
+
 
 Interfejsy mózg–maszyna to jedna z najbardziej transformacyjnych technologii naszych czasów - łącząca inżynierię, neuronaukę i psychologię w projekcie bezpośredniego połączenia umysłu z maszyną. Ich kliniczne zastosowania już dziś zmieniają życie tysięcy pacjentów, a przyszłość przyniesie jeszcze głębszą integrację człowieka i technologii.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

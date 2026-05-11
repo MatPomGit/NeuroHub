@@ -1,4 +1,4 @@
-# 20. Farmakoterapia zespołów stresowych
+﻿# 20. Farmakoterapia zespołów stresowych
 
 ## Wprowadzenie
 W PTSD i pokrewnych zespołach stresowych farmakoterapia jest interwencją wspomagającą, a nie substytutem terapii ukierunkowanej na traumę. Najwięcej danych dotyczy wybranych leków przeciwdepresyjnych.
@@ -12,14 +12,18 @@ W PTSD i pokrewnych zespołach stresowych farmakoterapia jest interwencją wspom
 Istotna jest ostrożność wobec leków o potencjale uzależniającym i koncentracja na poprawie snu, nadpobudliwości autonomicznej oraz współwystępujących objawów depresyjno-lękowych.
 
 ## Praktyczne przykłady
-Dobra praktyka: integracja farmakoterapii z terapią traumy i stabilizacją snu.
-Zła praktyka: przewlekłe benzodiazepiny jako główna strategia leczenia PTSD.
+### Dobra praktyka
+
+integracja farmakoterapii z terapią traumy i stabilizacją snu.
+### Zła praktyka
+
+przewlekłe benzodiazepiny jako główna strategia leczenia PTSD.
 Konsekwencja: ryzyko pogorszenia przebiegu i zależności.
 
 ## Perspektywa nieoczywista
 W praktyce klinicznej największe korzyści przynosi nie maksymalizacja liczby interwencji, lecz **precyzyjne ograniczanie leczenia do elementów o najwyższej wartości dodanej**. To podejście bywa mniej intuicyjne niż „eskalacja terapii”, ale często poprawia współpracę, bezpieczeństwo i długofalowe wyniki.
 
-## Podsumowanie
+
 Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dane naukowe, monitoring efektów oraz współdecydowanie z pacjentem. Wysoka jakość leczenia wynika z konsekwentnej ewaluacji korzyści i ryzyka na każdym etapie terapii.
 
 ## Bibliografia
@@ -28,5 +32,7 @@ Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dan
 - NICE. (2022-2025). Guidance on mental health and pharmacological treatment (living updates).
 - WHO. (2023). ICD-11 Clinical Descriptions and Diagnostic Guidelines.
 - Meyer, J. M., & Quenzer, L. F. (2018). Psychopharmacology: Drugs, the Brain, and Behavior (3rd ed.).
+
+
 
 

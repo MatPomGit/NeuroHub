@@ -135,7 +135,7 @@ Nie wszystkie dzieci narażone na traumę rozwijają zaburzenia. Kluczowe czynni
 
 ---
 
-## Podsumowanie
+
 
 Trauma rozwojowa nie jest wyłącznie problemem przeszłości - jest biologicznie inkorporowana w ciało i umysł. Jednak rozumienie neurobiologicznych i relacyjnych mechanizmów traumy otwiera drogę do efektywnych interwencji. Współczesna psychoterapia traumy, integrując podejścia somatyczne, poznawcze i relacyjne, zdolna jest przywrócić regulację, tożsamość i zdolność do bliskich relacji.
 
@@ -150,13 +150,9 @@ Trauma rozwojowa nie jest wyłącznie problemem przeszłości - jest biologiczni
 - van der Kolk, B. A. (2005). Developmental trauma disorder. *Psychiatric Annals*, 35(5), 401–408.
 - van der Kolk, B. A. (2014). *The Body Keeps the Score*. Viking.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

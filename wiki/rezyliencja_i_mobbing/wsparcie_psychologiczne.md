@@ -124,17 +124,13 @@ W Polsce dostępne są następujące zasoby dla ofiar przemocy i mobbingu:
 
 Monika, 39-letnia specjalistka ds. marketingu, zgłosiła się 3 miesiące po rezygnacji z pracy, w której przez 2 lata doświadczała systematycznego mobbingu. Objawy: flashbacki, unikanie kontaktu z ludźmi, bezsenność, silna lękowość i poczucie winy. Diagnoza: PTSD. Ścieżka leczenia: (1) stabilizacja przez 8 sesji TF-CBT, (2) 12 sesji EMDR ukierunkowanych na kluczowe wspomnienia mobbingowe i przekonanie „jestem bezwartościowa", (3) 6-miesięczna terapia wspierająca obejmująca pracę nad powrotem do zawodu, (4) uczestnictwo w grupie wsparcia dla ofiar mobbingu. Po 14 miesiącach Monika podjęła nową pracę i oceniła swój dobrostan jako „dobry" w standaryzowanych kwestionariuszach.
 
-## Podsumowanie
+
 
 Wsparcie psychologiczne ofiar przemocy i mobbingu wymaga integracji wielu metod: interwencji kryzysowej, podejścia TIC, specjalistycznych terapii (CBT, EMDR) i wsparcia grupowego, połączonych z praktyczną pomocą w reintegracji zawodowej. Polska dysponuje rosnącą siecią zasobów pomocowych, choć dostępność i finansowanie wciąż pozostają niewystarczające w stosunku do skali potrzeb.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

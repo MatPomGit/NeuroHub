@@ -83,17 +83,13 @@ Niniejszy dział obejmuje dwanaście artykułów systematycznie omawiających ko
 10. Interfejsy mózg–maszyna (BCI)
 11. Przyszłość robotyki afektywnej
 
-## Podsumowanie
+
 
 Robotyka afektywna i kognitywistyka to dziedziny, które coraz silniej kształtują przyszłość relacji człowiek–maszyna. Zrozumienie emocjonalnych i poznawczych mechanizmów tej relacji jest niezbędne zarówno dla inżynierów projektujących roboty, jak i dla psychologów, etyków i decydentów kształtujących politykę wobec technologii.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

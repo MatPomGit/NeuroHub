@@ -1,4 +1,4 @@
-# 9. Leki anksjolityczne i nasenne
+﻿# 9. Leki anksjolityczne i nasenne
 
 ## Wprowadzenie
 
@@ -16,15 +16,19 @@ Benzodiazepiny są skuteczne krótkoterminowo, ale wiążą się z ryzykiem tole
 
 ## Praktyczne przykłady
 
-Dobra praktyka: od początku ustalenie planu odstawiania i psychoedukacji.
-Zła praktyka: przewlekłe „przepisywanie na sen” bez rewizji wskazań.
+### Dobra praktyka
+
+od początku ustalenie planu odstawiania i psychoedukacji.
+### Zła praktyka
+
+przewlekłe „przepisywanie na sen” bez rewizji wskazań.
 Konsekwencja: rośnie ryzyko uzależnienia i upadków, zwłaszcza u osób starszych.
 
 ## Perspektywa nieoczywista
 
 W praktyce klinicznej największe korzyści przynosi nie maksymalizacja liczby interwencji, lecz **precyzyjne ograniczanie leczenia do elementów o najwyższej wartości dodanej**. To podejście bywa mniej intuicyjne niż „eskalacja terapii”, ale często poprawia współpracę, bezpieczeństwo i długofalowe wyniki.
 
-## Podsumowanie
+
 
 Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dane naukowe, monitoring efektów oraz współdecydowanie z pacjentem. Wysoka jakość leczenia wynika z konsekwentnej ewaluacji korzyści i ryzyka na każdym etapie terapii.
 
@@ -35,3 +39,4 @@ Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dan
 - NICE. (2022-2025). Guidance on mental health and pharmacological treatment (living updates).
 - WHO. (2023). ICD-11 Clinical Descriptions and Diagnostic Guidelines.
 - Meyer, J. M., & Quenzer, L. F. (2018). Psychopharmacology: Drugs, the Brain, and Behavior (3rd ed.).
+

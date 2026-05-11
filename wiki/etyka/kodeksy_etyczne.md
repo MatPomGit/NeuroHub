@@ -129,17 +129,13 @@ Zasada **minimalna**: psycholog zawsze postępuje zgodnie z prawem. Zasada **doc
 
 ---
 
-## Podsumowanie
+
 
 Kodeksy etyczne - od APA przez PTP po Meta-Kodeks EFPA - tworzą wielopoziomową strukturę normatywną, która reguluje praktykę psychologiczną w różnych kontekstach kulturowych i prawnych. Ich znajomość i stosowanie nie jest jedynie wymogiem formalnym, lecz wyrazem szacunku dla klientów, współpracowników i zaufania społecznego, na którym opiera się cały zawód psychologa.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

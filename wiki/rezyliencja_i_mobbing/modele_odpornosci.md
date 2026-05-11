@@ -108,17 +108,13 @@ Model 4S daje konkretne narzędzie diagnozy zasobów, szczególnie przydatne w c
 
 Ujęcie systemowe (Walsh) uzasadnia pracę z całymi rodzinami lub zespołami, nie tylko z indywidualnymi osobami.
 
-## Podsumowanie
+
 
 Różnorodność modeli odporności odzwierciedla złożoność samego zjawiska. Wspólnym mianownikiem jest uznanie odporności za proces dynamiczny, uwarunkowany zarówno cechami jednostki, jak i jakością jej środowiska społecznego. Praktyk, który rozumie różne modele, jest w stanie elastycznie dobierać interwencje do konkretnego klienta - a to jest istotą skutecznej pracy psychologicznej.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

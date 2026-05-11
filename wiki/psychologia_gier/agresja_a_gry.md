@@ -98,7 +98,7 @@ Stanowiska towarzystw naukowych są zróżnicowane:
 - **Psychological Science in the Public Interest (PSPI)**: krytyczna recenzja badań wykazała poważne wady metodologiczne
 - **European Federation of Psychologists' Associations**: zaleca ostrożność w interpretacji wyników ze względu na słabości metodologiczne
 
-## Podsumowanie
+
 
 Debata o agresji i grach wideo nie ma prostej odpowiedzi. Dostępne dowody sugerują, że:
 
@@ -110,13 +110,9 @@ Debata o agresji i grach wideo nie ma prostej odpowiedzi. Dostępne dowody suger
 
 Rozważny klinicysta nie traktuje gier jako automatycznego „winowajcy", lecz bada ich funkcję w życiu konkretnej osoby.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

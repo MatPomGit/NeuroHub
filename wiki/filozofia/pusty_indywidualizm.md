@@ -62,7 +62,7 @@ W tradycji buddyjskiej odpowiednikiem jest doktryna **anattā** (pāli) lub **an
 
 > **Fakt:** Parfit opisywał odkrycie braku głębokiej jaźni jako doświadczenie wyzwalające i radosne, nie przygnębiające. Porównał je do wyjścia z ciasnego więzienia - zamiast nieustannej troski o siebie, możliwa staje się otwartość na innych.
 
-## Podsumowanie
+
 
 Pusty indywidualizm jest filozoficznym zaproszeniem do radykalnej zmiany perspektywy: zamiast definiować się przez trwałe „ja", możemy zrozumieć siebie jako węzeł w sieci relacji psychologicznych i fizycznych. Ta zmiana perspektywy nie jest nihilizm - Parfit nie twierdzi, że nic nie ma znaczenia, lecz że prawdziwe znaczenie leży gdzie indziej niż myśleliśmy. Śmierć, egoizm i troska o innych nabierają nowych barw, gdy przestajemy karmić iluzję substancjalnej jaźni, której nigdy nie było.
 
@@ -75,13 +75,9 @@ Pusty indywidualizm jest filozoficznym zaproszeniem do radykalnej zmiany perspek
 - Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
 - Martin, R. i Barresi, J. (2006). *The Rise and Fall of Soul and Self*. Columbia University Press.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

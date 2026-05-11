@@ -69,17 +69,13 @@ Autyzm bardzo często współwystępuje z innymi stanami:
 - Padaczka (10–30%)
 - Hipermobilność stawów i zespół Ehlersa-Danlosa
 
-## Podsumowanie
+
 
 Spektrum autyzmu to szeroki, zróżnicowany profil neurologiczny, obejmujący zarówno wyjątkowe zdolności, jak i realne wyzwania. Współczesna nauka i ruch neuroróżnorodności wzajemnie się uzupełniają: nauka dostarcza narzędzi wsparcia, a ruch zapewnia, że głos osób autystycznych kształtuje kierunek badań i praktyki klinicznej.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

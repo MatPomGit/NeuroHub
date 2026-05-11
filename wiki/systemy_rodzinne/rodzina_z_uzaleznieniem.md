@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-28
 reviewCycleMonths: 12
 evidenceCutoffDate: 2026-03-31
@@ -37,14 +37,14 @@ Badania pokazują, że jednym z najsilniejszych predyktorów nawrotu jest powró
 
 Dzieci wychowane w rodzinach z uzależnieniem doświadczają wyższego ryzyka rozwoju własnego uzależnienia, zaburzeń nastroju i lęku, trudności w relacjach intymnych i niskiego poczucia własnej wartości (Woodside i in., 1993). Badania Adverse Childhood Experiences (ACE, Felitti i in., 1998) pokazują, że uzależnienie rodzica jest jednym z najsilniejszych predyktorów długoterminowych problemów zdrowotnych i psychicznych dzieci.
 
-## Dobra praktyka
+## Praktyczne przykłady
 
+### Dobra praktyka
 Program leczenia uzależnienia obejmuje nie tylko terapię indywidualną osoby uzależnionej, ale też regularne sesje rodzinne, w których terapeuta pomaga rodzinie zidentyfikować wzorce enablingu, przepracować własne doświadczenia i zbudować nowe granice. Bliskim proponuje się równoległą pracę - terapię indywidualną lub grupę Al-Anon - aby mogli zadbać o własne zdrowie niezależnie od tego, czy osoba uzależniona utrzymuje abstynencję.
 
 **Konsekwencje:** niższe ryzyko nawrotu, zmniejszenie współuzależnienia u bliskich, lepsza jakość życia całego systemu rodzinnego.
 
-## Zła praktyka
-
+### Zła praktyka
 Klinika leczenia uzależnień skupia się wyłącznie na detoksyfikacji i edukacji osoby uzależnionej, nie angażując rodziny. Po 4 tygodniach leczenia pacjent wraca do niezmienionego systemu rodzinnego - te same role, te same wzorce, ten sam enabling.
 
 **Konsekwencje:** wysoki odsetek nawrotów w ciągu pierwszych 12 miesięcy, frustracja rodziny i personelu terapeutycznego, podtrzymanie narracji „leczenie nie działa".
@@ -53,7 +53,7 @@ Klinika leczenia uzależnień skupia się wyłącznie na detoksyfikacji i edukac
 
 Współuzależnienie bywa opisywane jako patologia bliskich osoby uzależnionej - coś, co wymagają „naprawy". Tymczasem warto zauważyć, że wiele zachowań współuzależnionych to adaptacje rozwinięte w odpowiedzi na rzeczywiste zagrożenie: przemoc, nieobliczalność, utratę kontroli nad sytuacją. Osoba, która uczy się kontrolować i przewidywać zachowanie partnera-alkoholika, czyni to z powodu realnych, bolesnych doświadczeń. Systemowe spojrzenie nakłada na terapeutę obowiązek dostrzeżenia zarówno dysfunkcji, jak i siły tych strategii - i propozycji zmiany, która nie deprecjonuje dotychczasowego wysiłku bliskiego.
 
-## Podsumowanie
+
 
 Rodzina z uzależnieniem jest systemem, który adaptuje się do chronicznego stresu przez sztywne role, enabling i homeostazę uzależnieniową. Skuteczna pomoc wymaga pracy z całym systemem - nie tylko z osobą uzależnioną. Włączenie rodziny w terapię, praca z enablingiem i budowanie nowych granic relacyjnych są warunkami trwałej zmiany, a nie dodatkiem do „prawdziwego" leczenia.
 
@@ -65,3 +65,5 @@ Rodzina z uzależnieniem jest systemem, który adaptuje się do chronicznego str
 4. Felitti, V. J., Anda, R. F., Nordenberg, D., Williamson, D. F., Spitz, A. M., Edwards, V., Koss, M. P., & Marks, J. S. (1998). Relationship of childhood abuse and household dysfunction to many of the leading causes of death in adults. *American Journal of Preventive Medicine, 14*(4), 245–258.
 5. O'Farrell, T. J., & Clements, K. (2012). Review of outcome research on marital and family therapy in treatment for alcoholism. *Journal of Marital and Family Therapy, 38*(1), 122–144.
 6. Nichols, M. P., & Davis, S. D. (2020). *Family Therapy: Concepts and Methods* (12th ed.). Pearson.
+
+

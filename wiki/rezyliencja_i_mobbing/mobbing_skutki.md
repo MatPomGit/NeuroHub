@@ -120,17 +120,13 @@ Model ten ma istotne implikacje kliniczne:
 
 Beata, 50-letnia kierowniczka działu finansowego, przez 3 lata była systematycznie mobbowana przez nowego dyrektora generalnego: publicznie podważał jej kompetencje, odbierał kluczowe projekty i wykluczał ją ze spotkań strategicznych. Po zwolnieniu trafiła na psychoterapię z objawami ciężkiej depresji, lęku uogólnionego, bezsenności i nawracających myśli samobójczych. W wywiadzie ujawniono wzorzec PTSD: flashbacki z zebrań, unikanie wiadomości e-mail, niemożność wejścia do budynku zbliżonego architekturą do dawnego miejsca pracy. Leczenie obejmowało farmakoterapię, EMDR i długoterminową psychoterapię skoncentrowaną na traumie.
 
-## Podsumowanie
+
 
 Skutki psychologiczne mobbingu są poważne, wielowymiarowe i długotrwałe. Obejmują objawy PTSD, depresję, lęki, somatyzację, trwałe konsekwencje zawodowe i systemowy wpływ na rodzinę. Rozumienie pełnego obrazu tych konsekwencji jest niezbędne dla diagnostów, terapeutów, pracodawców i ustawodawców - by traktować mobbing z całą powagą, na jaką zasługuje.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

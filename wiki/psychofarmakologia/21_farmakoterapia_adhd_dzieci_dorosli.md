@@ -1,4 +1,4 @@
-# 21. Farmakoterapia ADHD u dzieci i dorosłych
+﻿# 21. Farmakoterapia ADHD u dzieci i dorosłych
 
 ## Wprowadzenie
 W ADHD farmakoterapia redukuje objawy osiowe i poprawia funkcjonowanie szkolne, zawodowe oraz społeczne. Skuteczność potwierdzono zarówno dla stymulantów, jak i części leków niestymulujących.
@@ -12,14 +12,18 @@ W ADHD farmakoterapia redukuje objawy osiowe i poprawia funkcjonowanie szkolne, 
 Różnice wieku wpływają na cele terapii: u dzieci dominują cele rozwojowe i szkolne, u dorosłych - organizacja pracy, regulacja emocji i bezpieczeństwo prowadzenia pojazdów.
 
 ## Praktyczne przykłady
-Dobra praktyka: leczenie w modelu wielomodalnym (farmakoterapia + trening umiejętności).
-Zła praktyka: redukcja terapii do „tabletki na koncentrację”.
+### Dobra praktyka
+
+leczenie w modelu wielomodalnym (farmakoterapia + trening umiejętności).
+### Zła praktyka
+
+redukcja terapii do „tabletki na koncentrację”.
 Konsekwencja: słabsza generalizacja efektu do codzienności.
 
 ## Perspektywa nieoczywista
 W praktyce klinicznej największe korzyści przynosi nie maksymalizacja liczby interwencji, lecz **precyzyjne ograniczanie leczenia do elementów o najwyższej wartości dodanej**. To podejście bywa mniej intuicyjne niż „eskalacja terapii”, ale często poprawia współpracę, bezpieczeństwo i długofalowe wyniki.
 
-## Podsumowanie
+
 Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dane naukowe, monitoring efektów oraz współdecydowanie z pacjentem. Wysoka jakość leczenia wynika z konsekwentnej ewaluacji korzyści i ryzyka na każdym etapie terapii.
 
 ## Bibliografia
@@ -28,5 +32,7 @@ Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dan
 - NICE. (2022-2025). Guidance on mental health and pharmacological treatment (living updates).
 - WHO. (2023). ICD-11 Clinical Descriptions and Diagnostic Guidelines.
 - Meyer, J. M., & Quenzer, L. F. (2018). Psychopharmacology: Drugs, the Brain, and Behavior (3rd ed.).
+
+
 
 

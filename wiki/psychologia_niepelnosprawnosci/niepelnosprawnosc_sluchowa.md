@@ -58,17 +58,13 @@ Psycholog może wspierać rodzinę w podjęciu świadomej, uwzględniającej wsz
 - pętle indukcyjne w budynkach użyteczności publicznej,
 - aplikacje do rozpoznawania mowy.
 
-## Podsumowanie
+
 
 Niepełnosprawność słuchowa jest zarówno kwestią medyczną, jak i kulturową. Skuteczne wsparcie wymaga wrażliwości na tożsamość Głuchych, dostosowania metod komunikacji i eliminowania barier w dostępie do informacji i usług. Szacunek dla autonomii osoby z niedosłuchem - w tym jej prawa do wyboru tożsamości i języka - jest fundamentem etycznej praktyki.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

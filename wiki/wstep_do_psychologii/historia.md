@@ -53,18 +53,14 @@ Najważniejsze kierunki rozwoju:
 3. **Medycyna spersonalizowana** - dobór interwencji do profilu deficytów, zasobów i kontekstu pacjenta.
 4. **Integracja danych** - łączenie wyników testów, wywiadu, neuroobrazowania i danych środowiskowych.
 
-## Podsumowanie
+
 
 Historia neuropsychologii pokazuje przejście od intuicji i prostych modeli lokalizacyjnych do złożonych, wielopoziomowych wyjaśnień funkcjonowania człowieka.  
 Dzisiaj kluczowa jest równowaga między rzetelnym pomiarem a rozumieniem indywidualnej historii pacjenta.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

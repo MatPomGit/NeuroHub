@@ -1,4 +1,4 @@
-# 17. Farmakoterapia zaburzeń ze spektrum autyzmu
+﻿# 17. Farmakoterapia zaburzeń ze spektrum autyzmu
 
 ## Wprowadzenie
 W ASD farmakoterapia ma charakter objawowy i wspierający: nie „leczy rdzenia” spektrum, ale może redukować drażliwość, impulsywność, zaburzenia snu czy współwystępujący lęk/ADHD.
@@ -12,14 +12,18 @@ W ASD farmakoterapia ma charakter objawowy i wspierający: nie „leczy rdzenia�
 Decyzje terapeutyczne wymagają oceny funkcjonalnej, profilu sensorycznego i obciążeń somatycznych. Priorytetem pozostają interwencje rozwojowe, edukacyjne i środowiskowe.
 
 ## Praktyczne przykłady
-Dobra praktyka: jasno definiowany objaw docelowy i pomiar zmiany w codziennym funkcjonowaniu.
-Zła praktyka: wielolekowość w odpowiedzi na trudne zachowania bez analizy kontekstu środowiskowego.
+### Dobra praktyka
+
+jasno definiowany objaw docelowy i pomiar zmiany w codziennym funkcjonowaniu.
+### Zła praktyka
+
+wielolekowość w odpowiedzi na trudne zachowania bez analizy kontekstu środowiskowego.
 Konsekwencja: większe ryzyko działań niepożądanych przy ograniczonej korzyści.
 
 ## Perspektywa nieoczywista
 W praktyce klinicznej największe korzyści przynosi nie maksymalizacja liczby interwencji, lecz **precyzyjne ograniczanie leczenia do elementów o najwyższej wartości dodanej**. To podejście bywa mniej intuicyjne niż „eskalacja terapii”, ale często poprawia współpracę, bezpieczeństwo i długofalowe wyniki.
 
-## Podsumowanie
+
 Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dane naukowe, monitoring efektów oraz współdecydowanie z pacjentem. Wysoka jakość leczenia wynika z konsekwentnej ewaluacji korzyści i ryzyka na każdym etapie terapii.
 
 ## Bibliografia
@@ -28,5 +32,7 @@ Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dan
 - NICE. (2022-2025). Guidance on mental health and pharmacological treatment (living updates).
 - WHO. (2023). ICD-11 Clinical Descriptions and Diagnostic Guidelines.
 - Meyer, J. M., & Quenzer, L. F. (2018). Psychopharmacology: Drugs, the Brain, and Behavior (3rd ed.).
+
+
 
 

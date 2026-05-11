@@ -133,17 +133,13 @@ Systemy klasyfikacji gier stoją przed nowymi wyzwaniami:
 - **Sztuczna inteligencja**: gry z AI generującą dialogi mogą produkować treści nieobecne w oryginale
 - **Globalizacja**: różne kultury mają różne progi tolerancji dla przemocy, seksu i innych treści
 
-## Podsumowanie
+
 
 Systemy klasyfikacji gier takie jak PEGI i ESRB są ważnymi narzędziami ochrony konsumentów, szczególnie dzieci i rodziców. Ich skuteczność zależy jednak od edukacji i zaangażowania rodziców, egzekwowania przez sprzedawców i regulacji dotyczących dystrybucji cyfrowej. Klinicysta pracujący z dziećmi i rodzinami powinien znać system PEGI i aktywnie edukować rodziców w jego zakresie. Rosnące wyzwania związane z loot boxami, VR i AI wymagają ciągłej aktualizacji ram klasyfikacyjnych.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

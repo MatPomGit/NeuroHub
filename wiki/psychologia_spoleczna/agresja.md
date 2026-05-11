@@ -108,7 +108,7 @@ Wielokrotna ekspozycja na wirtualną przemoc obniża pobudzenie fizjologiczne i 
 
 Hipoteza katharsis (odreagowanie agresji przez aktywność agresywną redukuje napięcie) nie ma silnego wsparcia empirycznego. Bushman (2002) wykazał eksperymentalnie, że bicie worka bokserskiego *zwiększa* późniejszą agresję - pobudzenie i ćwiczenie wzorców agresywnych nasila, nie redukuje gotowość do agresji.
 
-## Podsumowanie
+
 
 Agresja jest zjawiskiem wielodeterminowanym: biologiczne predyspozycje (testosteron, MAOA, ciało migdałowate) współdziałają z mechanizmami uczenia się (modelowanie Bandury), procesami poznawczymi (atrybucja wrogości) i czynnikami sytuacyjnymi (frustracja, wskazówki agresywne). Skuteczna redukcja agresji wymaga podejścia wielowymiarowego - od interwencji biologicznych i CBT po zmiany strukturalne ograniczające frustrację i przemoc medialną.
 
@@ -124,13 +124,9 @@ Agresja jest zjawiskiem wielodeterminowanym: biologiczne predyspozycje (testoste
 - Dollard, J., Doob, L. W., Miller, N. E., Mowrer, O. H., & Sears, R. R. (1939). *Frustration and Aggression*. Yale University Press.
 - Lorenz, K. (1966). *On Aggression*. Harcourt, Brace & World.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

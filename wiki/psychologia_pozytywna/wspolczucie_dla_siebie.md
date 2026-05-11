@@ -54,17 +54,13 @@ Programy rozwijające *self-compassion* obejmują:
 - **CFT** (*Compassion Focused Therapy*) Paula Gilberta - terapia ukierunkowana na współczucie dla klientów z głęboko zakorzenionym wstydem i samokrytyką
 - ćwiczenie przerwy współczującej (*self-compassion break*): krótka, kilkuminutowa technika stosowana w chwilach trudności
 
-## Podsumowanie
+
 
 *Self-compassion* to naukowo ugruntowana postawa wobec własnych niedoskonałości i cierpień, która łączy życzliwość, perspektywę wspólnego człowieczeństwa i uważność. Badania Neff i innych wykazują, że *self-compassion* chroni przed depresją, lękiem i wypaleniem, jest stabilniejsza niż samoocena i - wbrew potocznej intuicji - skuteczniej motywuje do rozwoju niż samokrytyka.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

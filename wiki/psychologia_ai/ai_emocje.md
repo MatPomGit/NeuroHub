@@ -112,17 +112,13 @@ Systemy rozpoznawania emocji są krytykowane przez psychologów z kilku powodów
 3. **Naruszenie prywatności**: monitoring emocjonalny bez zgody stanowi poważne naruszenie autonomii
 4. **Podatność na manipulację**: jeśli system AI optymalizuje pod kątem wywołania określonych emocji, może to służyć manipulacji
 
-## Podsumowanie
+
 
 Relacja AI i emocji jest jednym z najbardziej fascynujących i kontrowersyjnych obszarów psychologii AI. Niezależnie od pytań filozoficznych o to, czy maszyny mogą czuć, faktem jest, że AI wywołuje w ludziach autentyczne emocje i coraz sprawniej przetwarza emocjonalne informacje. Odpowiedzialne podejście do Affective Computing wymaga solidnych podstaw naukowych, szacunku dla godności człowieka i ostrożności wobec potencjalnych nadużyć.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

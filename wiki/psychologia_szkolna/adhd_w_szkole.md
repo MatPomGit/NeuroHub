@@ -69,17 +69,13 @@ Współczesne standardy leczenia ADHD opierają się na podejściu **wielomodaln
 
 W Polsce diagnoza ADHD jest stawiana przez psychiatrów dzieci i młodzieży lub neurologów dziecięcych, często we współpracy z psychologiem. Dostęp do specjalistów jest nierównomierny, a czas oczekiwania na wizytę diagnostyczną może sięgać wielu miesięcy. Psycholog szkolny i pedagog szkolny pełnią ważną rolę w identyfikowaniu uczniów wymagających diagnozy, wdrażaniu dostosowań i monitorowaniu efektów interwencji.
 
-## Podsumowanie
+
 
 ADHD jest złożonym zaburzeniem neurorozwojowym, które w środowisku szkolnym wymaga wielopoziomowego wsparcia - od dostosowania środowiska fizycznego i organizacji nauczania, przez interwencje behawioralne, aż po farmakoterapię w uzasadnionych przypadkach. Kluczowe jest postrzeganie ucznia z ADHD nie przez pryzmat jego deficytów, lecz z uwzględnieniem jego mocnych stron i potencjału, który odpowiednie wsparcie może pomóc rozwinąć.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

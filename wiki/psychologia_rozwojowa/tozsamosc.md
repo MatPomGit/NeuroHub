@@ -125,7 +125,7 @@ Terapie skoncentrowane na tożsamości (m.in. narracyjna, schematów, ACT) pomag
 
 ---
 
-## Podsumowanie
+
 
 Kształtowanie tożsamości to dynamiczny, całożyciowy proces eksploracji i zaangażowania - nie jednorazowe osiągnięcie. Współczesne modele podkreślają wielowymiarowość tożsamości (osobista, społeczna, etniczna, narracyjna) i jej wrażliwość na kontekst kulturowy, relacyjny i biologiczny. Rozumienie tego procesu jest kluczowe zarówno w psychologii klinicznej, jak i w pracy z adolescentami, parami i osobami w kryzysie.
 
@@ -142,13 +142,9 @@ Kształtowanie tożsamości to dynamiczny, całożyciowy proces eksploracji i za
 - Phinney, J. S. (1992). The multigroup ethnic identity measure. *Journal of Adolescent Research*, 7(2), 156–176.
 - Tajfel, H., & Turner, J. C. (1979). An integrative theory of intergroup conflict. W: W. G. Austin & S. Worchel (red.), *The Social Psychology of Intergroup Relations*. Brooks/Cole.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

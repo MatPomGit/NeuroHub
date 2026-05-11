@@ -76,17 +76,13 @@ Skuteczne wsparcie osób z dysleksją opiera się na wielozmysłowym, systematyc
 
 Z perspektywy neuroróżnorodności dysleksja nie jest brakiem, lecz innym profilem przetwarzania informacji - z własnymi mocnymi stronami i wyzwaniami. Kluczowym przesłaniem jest, że trudności w dekodowaniu tekstu nie odzwierciedlają inteligencji, wartości ani potencjału osoby. Systemy edukacyjne, które stawiają czytanie jako jedyny dowód kompetencji, tworzą sztuczną barierę dla osób z dysleksją - barierę, którą przy odpowiednim wsparciu i dostosowaniach można skutecznie obniżyć.
 
-## Podsumowanie
+
 
 Dysleksja jest dobrze zbadaną, neurobiologicznie ugruntowaną specyficzną trudnością w czytaniu. Wczesna identyfikacja, systematyczna interwencja oparta na dowodach i środowisko uwzględniające różnorodność neurologiczną pozwalają osobom z dysleksją rozwijać swój pełny potencjał - nierzadko właśnie dzięki unikalnym strategiom myślenia, które wykształciły w odpowiedzi na wyzwania.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

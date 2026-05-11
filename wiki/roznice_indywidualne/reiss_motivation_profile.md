@@ -75,17 +75,13 @@ RMP jest narzędziem przydatnym rozwojowo, ale warto zachować ostrożność met
 3. Analizuj motywy w kontekście sytuacyjnym (rola zawodowa, etap życia, stresory).
 4. Unikaj wartościowania („wysoki” ≠ „lepszy”, „niski” ≠ „gorszy”).
 
-## Podsumowanie
+
 
 Reiss Motivation Profile porządkuje różnice indywidualne w zakresie potrzeb motywacyjnych i bywa użyteczny w rozwoju osobistym oraz pracy zespołowej. Największą wartość daje wtedy, gdy jest stosowany jako narzędzie **refleksji i dialogu**, a nie jako samodzielna podstawa decyzji diagnostycznych.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

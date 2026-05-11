@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-30
 reviewCycleMonths: 24
 evidenceCutoffDate: 2026-04-01
@@ -36,8 +36,7 @@ W planowaniu diagnostyki łączyć dane neuroobrazowe z pogłębionym profilem n
 
 **Konsekwencja:** bardziej trafne różnicowanie między amnezją hipokampową, czołową i międzymózgowiową.
 
-### Zła praktyka / częsty błąd
-
+### Zła praktyka
 Wyciąganie wniosku, że „brak rozległego uszkodzenia hipokampa wyklucza poważną amnezję”.
 
 **Konsekwencja:** niedoszacowanie deficytu i opóźnienie wdrożenia wsparcia poznawczego.
@@ -48,7 +47,7 @@ W nauczaniu pamięci dominuje narracja „hipokampocentryczna”. N.A. przypomin
 
 Ta perspektywa sprzyja bardziej realistycznym modelom rehabilitacji: poprawa funkcjonowania może wynikać z kompensacji sieciowej, nawet przy trwałym uszkodzeniu kluczowych węzłów.
 
-## Podsumowanie
+
 
 N.A. to przypadek fundamentalny dla rozumienia amnezji międzymózgowiowej i sieciowej architektury pamięci. Klinicznie wzmacnia potrzebę wielowymiarowej diagnozy i interwencji opartych na profilu funkcjonalnym, nie wyłącznie na lokalizacji pojedynczego uszkodzenia.
 
@@ -58,5 +57,6 @@ N.A. to przypadek fundamentalny dla rozumienia amnezji międzymózgowiowej i sie
 2. Squire, L. R., & Zola-Morgan, S. (1991). The medial temporal lobe memory system. *Science*, 253, 1380–1386.
 3. Aggleton, J. P., & Brown, M. W. (1999). Episodic memory, amnesia, and the hippocampal–anterior thalamic axis. *Behavioral and Brain Sciences*, 22(3), 425–489.
 4. Vann, S. D., Aggleton, J. P., & Maguire, E. A. (2009). What does the retrosplenial cortex do? *Nature Reviews Neuroscience*, 10, 792–802.
+
 
 

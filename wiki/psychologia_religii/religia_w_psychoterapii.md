@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-05-04
 reviewCycleMonths: 18
 evidenceCutoffDate: 2026-03-31
@@ -31,7 +31,7 @@ Terapeuta powinien umieć prowadzić wywiad o religijności, ale nie pełni roli
 - Dane jakościowe pokazują, że pacjenci częściej utrzymują terapię, gdy terapeuta potrafi rozmawiać o religii bez oceniania i bez unikania tematu.
 - Jednocześnie badania ostrzegają, że niekompetentne włączanie treści religijnych zwiększa ryzyko naruszeń granic i spadku zaufania.
 
-## Dobra praktyka
+## Praktyczne przykłady
 Dobra praktyka zaczyna się od krótkiego mapowania: "Czy religia ma znaczenie dla rozumienia tego problemu?", "Jakie praktyki pomagają, a jakie nasilają objawy?". Następnie terapeuta wspólnie z pacjentem ustala, które elementy religijne warto integrować w planie terapii i jakie granice są nieprzekraczalne.
 
 **Konsekwencje:** wyższe przymierze terapeutyczne, lepsze dopasowanie interwencji, mniejsze ryzyko pomijania ważnych zasobów i konfliktów duchowych.
@@ -49,7 +49,7 @@ W praktyce superwizyjnej często obserwuje się, że już pojedyncze pytanie otw
 ## Perspektywa nieoczywista
 Spór "czy religię włączać do terapii" jest mniej użyteczny niż pytanie "jak zrobić to bezpiecznie i klinicznie sensownie". Taka perspektywa przesuwa akcent z ideologii na kompetencję, etykę i mierzalny efekt terapeutyczny.
 
-## Podsumowanie
+
 - Religia w psychoterapii może być zasobem lub czynnikiem ryzyka, zależnie od funkcji psychologicznej.
 - Kluczowe są neutralność światopoglądowa i precyzyjna ocena kliniczna.
 - Integracja treści religijnych powinna wynikać z celów pacjenta i danych z wywiadu.
@@ -63,3 +63,4 @@ Spór "czy religię włączać do terapii" jest mniej użyteczny niż pytanie "j
 5. American Psychological Association. (2017). *Multicultural Guidelines: An Ecological Approach to Context, Identity, and Intersectionality*.
 6. Worthington, E. L., Jr., Hook, J. N., Davis, D. E., & McDaniel, M. A. (2011). Religion and spirituality. *Journal of Clinical Psychology*, 67(2), 204-214.
 7. Vieten, C., Scammell, S., Pilato, R., et al. (2016). Spiritual and religious competencies for psychologists. *Psychology of Religion and Spirituality*, 8(2), 129-144.
+

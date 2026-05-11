@@ -75,7 +75,7 @@ Psychologicznie binge-watching jest ciekawy z kilku powodów:
 - Koreluje z późniejszym chodzeniem spaniem i gorszą jakością snu
 - Osoby oglądające seriale w samotności jako główną formę relaksu wykazują wyższe wskaźniki samotności i depresji niż osoby oglądające z innymi
 
-## Podsumowanie
+
 
 Telewizja nie jest jednoznacznie szkodliwa ani jednoznacznie neutralna. Jako narzędzie relaksu i eksploracji kulturowej może pełnić wartościową funkcję. Problematyczna staje się wówczas, gdy:
 
@@ -86,13 +86,9 @@ Telewizja nie jest jednoznacznie szkodliwa ani jednoznacznie neutralna. Jako nar
 
 Świadoma konsumpcja - wybór treści, wyznaczenie granic czasowych i refleksja nad funkcją, jaką pełni telewizja w naszym życiu - to podstawa zdrowego korzystania z tego medium.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

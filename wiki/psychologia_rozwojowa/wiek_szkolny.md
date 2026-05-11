@@ -113,7 +113,7 @@ Ich jednoczesne wystąpienie tworzy najgłębszą dysleksję.
 
 ---
 
-## Podsumowanie
+
 
 Wiek szkolny to okres skokowego wzrostu kompetencji logicznych i społecznych. Myślenie operacyjne umożliwia systematyczne rozumowanie, relacje rówieśnicze dostarczają lustrzanego odbicia własnych zdolności, a szkoła stwarza przestrzeń do testowania i konsolidowania tożsamości kompetencyjnej. Wygotskiego perspektywa przypomina, że ten rozwój jest zawsze osadzony w relacji i kulturze - dziecko nie rośnie samo, lecz w nieustannym dialogu z bardziej doświadczonymi innymi.
 
@@ -130,13 +130,9 @@ Wiek szkolny to okres skokowego wzrostu kompetencji logicznych i społecznych. M
 - Wimmer, H., & Perner, J. (1983). Beliefs about beliefs. *Cognition, 13*(1), 103–128.
 - Wood, D., Bruner, J. S., & Ross, G. (1976). The role of tutoring in problem solving. *Journal of Child Psychology and Psychiatry, 17*(2), 89–100.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

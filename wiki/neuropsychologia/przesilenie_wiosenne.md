@@ -156,17 +156,13 @@ Kultury na całym świecie celebrują przesilenie wiosenne jako „odrodzenie" -
 
 > **Wniosek praktyczny:** „Higiena świetlna" - regularne poranne ekspozycje na naturalne światło, ograniczenie ekranów wieczorem, stałe godziny wstawania - to nie moda, lecz dowodowo ugruntowana strategia utrzymania zdrowia neurobiologicznego synchronizowanego z rytmem Ziemi.
 
-## Podsumowanie
+
 
 Przesilenie wiosenne to z perspektywy neurobiologicznej złożony, wieloukładowy proces reorganizacji: zegar biologiczny SCN przesuwa fazę, szyszynka skraca wydzielanie melatoniny, jądra szwu zwiększają produkcję serotoniny, oś HPA wyostrza poranny pik kortyzolu, a układy dopaminergiczne wzmacniają motywację. Dla większości ludzi jest to naturalny „reset" w kierunku wyższej energii i lepszego nastroju. Dla osób z podatnością biologiczną (ChAD, SAD, zaburzenia rytmu dobowego) jest to jednak okres zwiększonego ryzyka, wymagający odpowiedniej profilaktyki klinicznej.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

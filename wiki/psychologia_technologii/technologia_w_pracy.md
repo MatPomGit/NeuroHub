@@ -43,7 +43,7 @@ Organizacja wprowadza politykę: asynchroniczna komunikacja jako domyślna, „q
 
 **Konsekwencje:** wzrost poczucia kontroli, mniejsze przeciążenie, lepsza jakość decyzji i niższy poziom rotacji.
 
-### Zła praktyka (częsty błąd)
+### Zła praktyka
 
 Firma wdraża rozbudowany monitoring aktywności ekranowej i ocenia pracę głównie przez wskaźniki obecności online.
 
@@ -53,7 +53,7 @@ Firma wdraża rozbudowany monitoring aktywności ekranowej i ocenia pracę głó
 
 Nieoczywiste ujęcie wskazuje, że technologia może **zwiększać autonomię** pracownika, jeśli metryki są współtworzone z zespołem i służą uczeniu się, a nie karaniu. Dane organizacyjne pokazują, że monitoring rozwojowy (feedback, wsparcie, coaching) może poprawiać dobrostan, podczas gdy monitoring represyjny go pogarsza. Decydująca jest więc funkcja społeczna narzędzia, nie samo narzędzie.
 
-## Podsumowanie
+
 
 Wpływ technologii na pracę zależy od równowagi między wymaganiami, kontrolą i normami organizacyjnymi. Ochrona granic oraz transparentne zarządzanie danymi to warunki konieczne, by cyfryzacja wzmacniała produktywność bez kosztu psychologicznego.
 

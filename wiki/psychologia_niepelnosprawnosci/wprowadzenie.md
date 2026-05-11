@@ -46,17 +46,13 @@ Psycholog może działać na wielu poziomach:
 - **Inkluzja** - zapewnianie realnego dostępu do zasobów i uczestnictwa społecznego.
 - **Indywidualizacja** - unikanie homogenizacji grupy; każde doświadczenie niepełnosprawności jest inne.
 
-## Podsumowanie
+
 
 Psychologia niepełnosprawności to dynamicznie rozwijająca się dziedzina, w której punkt ciężkości przesuwa się od deficytu ku zasobom. Rozumienie niepełnosprawności jako interakcji cech jednostki i środowiska jest kluczem do skutecznego wsparcia i promowania pełnego uczestnictwa w życiu społecznym.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

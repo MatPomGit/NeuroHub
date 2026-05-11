@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-05-04
 reviewCycleMonths: 18
 evidenceCutoffDate: 2026-03-31
@@ -32,7 +32,7 @@ Badania neuroobrazowe i EEG wskazują na udział sieci związanych z samoreferen
 - Metaanalizy wskazują, że pozytywne skutki psychologiczne są bardziej prawdopodobne, gdy obecne są: bezpieczny kontekst, przygotowanie i wsparcie integracyjne po przeżyciu.
 - W badaniach follow-up część korzystnych efektów (np. wzrost poczucia sensu) utrzymuje się miesiącami, ale ich trwałość silnie zależy od jakości integracji doświadczenia w codziennym życiu.
 
-## Dobra praktyka
+## Praktyczne przykłady
 W praktyce klinicznej i poradnianej dobra procedura obejmuje trzy kroki: spokojny wywiad fenomenologiczny, ocenę bezpieczeństwa (ryzyko psychozy, manii, samouszkodzeń) oraz plan integracji doświadczenia. Specjalista nie dewaluuje przeżycia, ale pomaga pacjentowi oddzielić jego znaczenie egzystencjalne od pochopnych decyzji życiowych podejmowanych pod wpływem silnego afektu.
 
 **Konsekwencje:** większa stabilizacja emocjonalna, mniejsze ryzyko błędnej diagnozy, wyższa szansa, że doświadczenie stanie się zasobem rozwojowym, a nie źródłem dezorganizacji.
@@ -50,7 +50,7 @@ Ciekawym zjawiskiem jest to, że osoby z różnych tradycji religijnych często 
 ## Perspektywa nieoczywista
 W debacie publicznej często pyta się, czy doświadczenie mistyczne jest „prawdziwe” albo „fałszywe”. Z perspektywy psychologii bardziej produktywne jest inne pytanie: czy to doświadczenie zwiększa zdolność do regulacji emocji, odpowiedzialnych decyzji i dojrzałych relacji. Taka zmiana perspektywy przesuwa uwagę z oceny ontologicznej na obserwowalne skutki funkcjonalne.
 
-## Podsumowanie
+
 - Doświadczenia mistyczne są zjawiskiem względnie częstym, lecz wieloznacznym.
 - O ich wartości psychologicznej decyduje przede wszystkim jakość integracji, a nie sama intensywność przeżycia.
 - Badania neurokognitywne dostarczają użytecznych hipotez, ale nie zamykają sporu interpretacyjnego.
@@ -64,3 +64,4 @@ W debacie publicznej często pyta się, czy doświadczenie mistyczne jest „pra
 5. Barrett, F. S., Doss, M. K., Sepeda, N. D., et al. (2020). Emotions and brain function are altered up to one month after a single high dose of psilocybin. *Scientific Reports*, 10.
 6. Luhrmann, T. M. (2020). *How God Becomes Real: Kindling the Presence of Invisible Others*. Princeton University Press.
 7. Exline, J. J., & Rose, E. D. (2024). Religious and spiritual struggles in clinical settings. *Current Opinion in Psychology*, 58.
+

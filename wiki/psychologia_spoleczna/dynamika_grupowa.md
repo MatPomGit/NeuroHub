@@ -97,7 +97,7 @@ Henri Tajfel i John Turner (1979) rozszerzyli rozumienie dynamiki grupowej, wyja
 
 Tajfel wykazał, że nawet podział na grupy według czysto arbitralnych kryteriów (np. preferencja Klee vs. Kandinsky) wystarczy do pojawienia się faworytyzmu wewnątrzgrupowego - bez historii konfliktu, bez realnych różnic między grupami.
 
-## Podsumowanie
+
 
 Dynamika grupowa obejmuje zjawiska od tworzenia norm i ról (Tuckman), przez osłabienie indywidualnej odpowiedzialności (próżniactwo, efekt widza, deindywiduacja), aż po konflikty i tożsamość grupową (Sherif, Tajfel). Wszystkie te mechanizmy podkreślają jeden ważny wniosek: człowiek w grupie staje się kimś innym niż poza nią - i nie zawsze jest to zmiana na lepsze.
 
@@ -112,13 +112,9 @@ Dynamika grupowa obejmuje zjawiska od tworzenia norm i ról (Tuckman), przez os�
 - Tuckman, B. W. (1965). Developmental sequence in small groups. *Psychological Bulletin, 63*(6), 384–399.
 - Zimbardo, P. G. (2007). *The Lucifer Effect: Understanding How Good People Turn Evil*. Random House.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

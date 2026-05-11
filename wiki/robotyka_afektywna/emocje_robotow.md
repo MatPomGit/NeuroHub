@@ -70,17 +70,13 @@ Roboty zdolne do wzbudzania emocji mogą być użyte manipulacyjnie - np. w celu
 
 Ekspresja i interpretacja emocji różnią się między kulturami. System trenowany na danych z jednego kręgu kulturowego może być znacznie mniej dokładny w innym.
 
-## Podsumowanie
+
 
 Projektowanie i rozpoznawanie emocji w robotach to jedno z najbardziej dynamicznych pól badawczych na skrzyżowaniu psychologii, neuronauki i inżynierii. Postęp w tej dziedzinie otwiera zarówno ogromne możliwości terapeutyczne i edukacyjne, jak i poważne pytania etyczne dotyczące granic symulacji i autentyczności.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

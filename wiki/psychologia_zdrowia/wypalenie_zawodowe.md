@@ -73,17 +73,13 @@ Powrót nie powinien być natychmiastowy. Skuteczna strategia obejmuje:
 
 Lekarka w wieku 38 lat zgłasza się z powodu chronicznego zmęczenia i niechęci do pracy, mimo wcześniejszego wysokiego zaangażowania. Raportuje dystans do pacjentów i poczucie braku sensu działań. Wyniki MBI - wysoki poziom we wszystkich trzech skalach. Plan: L4, CBT, rozmowa z przełożonym o modyfikacji dyżurów.
 
-## Podsumowanie
+
 
 Wypalenie zawodowe jest poważnym zjawiskiem psychologicznym z realnymi konsekwencjami zdrowotnymi. Kluczowa jest wczesna identyfikacja, interwencja na poziomie organizacyjnym i indywidualnym oraz zapobieganie recydywie przez długoterminową zmianę warunków pracy.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

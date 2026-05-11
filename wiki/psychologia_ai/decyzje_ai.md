@@ -116,17 +116,13 @@ AI wpływa nie tylko na decyzje indywidualne, ale i grupowe:
 
 W decyzjach grupowych AI może redukować polaryzację i groupthink przez dostarczanie obiektywnych danych - lub odwrotnie, nasilać polaryzację przez selektywne informowanie.
 
-## Podsumowanie
+
 
 Wpływ AI na podejmowanie decyzji jest ambiwalentny: może poprawiać jakość i sprawiedliwość decyzji, lub - jeśli stosowana bezkrytycznie - wzmacniać błędy, rozmywać odpowiedzialność i osłabiać ludzką autonomię. Kluczem do dobrego korzystania z AI decyzyjnej jest psychologiczne rozumienie mechanizmów, przez które AI na nas wpływa - i projektowanie systemów, które te mechanizmy uwzględniają.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

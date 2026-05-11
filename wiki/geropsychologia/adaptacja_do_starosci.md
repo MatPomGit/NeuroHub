@@ -109,17 +109,13 @@ Wczesna interwencja wyraźnie poprawia rokowanie.
 - monitoruj objawy obniżonego nastroju i izolacji,
 - zachęcaj do kontaktu ze specjalistą, gdy trudności się przedłużają.
 
-## Podsumowanie
+
 
 Adaptacja do starości to proces, w którym kluczowe są elastyczność, poczucie wpływu i relacje. Starzenie się nie musi oznaczać biernego „tracenia” - może być etapem dojrzewania, porządkowania priorytetów i budowania nowej jakości życia.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

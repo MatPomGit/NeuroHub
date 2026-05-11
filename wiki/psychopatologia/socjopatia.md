@@ -1,4 +1,4 @@
-# Socjopatia
+﻿# Socjopatia
 
 ## Wprowadzenie
 
@@ -26,8 +26,9 @@ Interpretacyjnie socjopatię warto traktować nie jako „tożsamość człowiek
 
 Jednocześnie nie należy mylić rozumienia mechanizmu z relatywizacją szkody. Wyjaśnianie przyczyn nie znosi odpowiedzialności za przemoc, oszustwo czy nadużycie, ale pomaga projektować skuteczniejsze oddziaływania prewencyjne i resocjalizacyjne.
 
-## Dobra praktyka
+## Praktyczne przykłady
 
+### Dobra praktyka
 Dobra praktyka diagnostyczna i terapeutyczna obejmuje: (1) ocenę wieloźródłową (wywiad, dane środowiskowe, dokumentacja, skale standaryzowane), (2) analizę ryzyka przemocy z użyciem narzędzi o znanej trafności, (3) plan interwencji łączący pracę nad kontrolą impulsów, mentalizacją i kompetencjami społecznymi, (4) równoległą pracę systemową z rodziną/szkołą/instytucją.
 
 **Przykład dobrej praktyki:** zespół kliniczny nie poprzestaje na etykiecie „trudny pacjent”, lecz tworzy mapę czynników ryzyka i ochronnych, a następnie monitoruje wskaźniki zachowania (np. liczba incydentów agresji, utrzymanie abstynencji, frekwencja w programie).
@@ -36,8 +37,7 @@ Dobra praktyka diagnostyczna i terapeutyczna obejmuje: (1) ocenę wieloźródło
 
 Konsekwencją jest większa przewidywalność procesu leczenia, mniejsza liczba decyzji opartych na intuicji oraz realny spadek zachowań ryzykownych. W ujęciu społecznym oznacza to także niższe koszty nawrotów przemocy i lepszą koordynację między ochroną zdrowia psychicznego a wymiarem sprawiedliwości.
 
-## Zła praktyka
-
+### Zła praktyka
 Zła praktyka polega na utożsamieniu osoby z etykietą („on jest socjopatą, więc nic się nie da zrobić”) oraz na pomijaniu oceny kontekstu środowiskowego. Częstym błędem jest też mieszanie pojęć socjopatii, psychopatii i ASPD bez kryteriów, co prowadzi do chaosu diagnostycznego.
 
 **Przykład złej praktyki:** decyzja o oddziaływaniu wyłącznie represyjnym, bez modułu terapeutycznego i bez monitorowania efektów, oparta na pojedynczym incydencie, a nie na analizie wzorca zachowania.
@@ -52,7 +52,7 @@ Dominująca narracja publiczna koncentruje się na pytaniu, „jak rozpoznać ni
 
 Ta perspektywa nie neguje odpowiedzialności jednostki; raczej uzupełnia ją o odpowiedzialność systemową. W praktyce to przesunięcie bywa bardziej efektywne niż wyłącznie reaktywna polityka karna.
 
-## Podsumowanie
+
 
 Socjopatia jest pojęciem użytecznym opisowo, ale nieprecyzyjnym diagnostycznie. W praktyce klinicznej i badawczej bezpieczniej operować kategoriami ASPD oraz wymiarową oceną cech psychopatycznych i czynników ryzyka. Najwyższą wartość mają strategie łączące rzetelną diagnozę, ocenę ryzyka, interwencje ukierunkowane na mechanizmy oraz działania systemowe. Takie podejście zwiększa skuteczność pomocy, a jednocześnie ogranicza stygmatyzację.
 
@@ -64,3 +64,5 @@ Socjopatia jest pojęciem użytecznym opisowo, ale nieprecyzyjnym diagnostycznie
 4. Frick, P. J., & Viding, E. (2009). Antisocial behavior from a developmental psychopathology perspective. *Development and Psychopathology, 21*(4), 1111-1131.
 5. Bonta, J., & Andrews, D. A. (2017). *The Psychology of Criminal Conduct* (6th ed.). Routledge.
 6. Farrington, D. P., Gaffney, H., & White, H. (2022). Long-term effectiveness of interventions for antisocial behavior. *Campbell Systematic Reviews*.
+
+

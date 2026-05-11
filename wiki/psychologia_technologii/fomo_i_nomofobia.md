@@ -43,7 +43,7 @@ Studentka ustala „okna łączności” (np. co 90 minut; w badaniach nad samor
 
 **Konsekwencje:** niższy poziom napięcia antycypacyjnego, lepsza koncentracja i większe poczucie kontroli nad czasem.
 
-### Zła praktyka (częsty błąd)
+### Zła praktyka
 
 Uczeń śpi z telefonem pod poduszką i reaguje na każdy sygnał nocny, interpretując brak natychmiastowej odpowiedzi jako ryzyko odrzucenia.
 
@@ -53,7 +53,7 @@ Uczeń śpi z telefonem pod poduszką i reaguje na każdy sygnał nocny, interpr
 
 Nieoczywistą, lecz użyteczną perspektywą jest traktowanie FOMO jako **sygnału deficytu jakości relacji**, a nie wyłącznie „uzależnienia od telefonu”. W wielu przypadkach problemem pierwotnym bywa osamotnienie, niska przewidywalność wsparcia lub lęk przed wykluczeniem. Oznacza to, że sama redukcja czasu ekranowego bez pracy nad relacjami i poczuciem bezpieczeństwa społecznego może dawać krótkotrwały efekt.
 
-## Podsumowanie
+
 
 FOMO i nomofobia są zjawiskami granicznymi między normatywną potrzebą kontaktu a nieadaptacyjną zależnością od stałej łączności. Interwencje najskuteczniejsze łączą psychoedukację, trening regulacji emocji, zmianę środowiska cyfrowego i wzmacnianie relacji offline.
 

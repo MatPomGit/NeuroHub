@@ -47,7 +47,7 @@ Zespół leczenia środowiskowego prowadzi ocenę warstwową: diagnoza + aktualn
 
 **Konsekwencje:** wyższa wykrywalność zagrożenia, większe poczucie sprawczości pacjenta, mniej interwencji spóźnionych.
 
-### Zła praktyka (częsty błąd)
+### Zła praktyka
 Utożsamienie ryzyka z etykietą diagnostyczną („to tylko borderline”, „to tylko depresja reaktywna”) lub oparcie decyzji wyłącznie na pojedynczej deklaracji „nie zrobię sobie krzywdy”.
 
 **Konsekwencje:** przeoczenie gwałtownej zmiany stanu, utrata zaufania pacjenta, wzrost ryzyka zdarzeń krytycznych.
@@ -55,7 +55,7 @@ Utożsamienie ryzyka z etykietą diagnostyczną („to tylko borderline”, „t
 ## Perspektywa nieoczywista
 W praktyce klinicznej często przecenia się kategorię nozologiczną, a niedocenia „trajektorii czasu”. Tymczasem ten sam pacjent może mieć niskie ryzyko rano i wysokie wieczorem po konflikcie, bezsennej nocy lub nawrocie używania alkoholu. Z perspektywy profilaktyki ważniejsze od „co pacjent ma?” bywa pytanie „co dzieje się z pacjentem teraz i co wydarzy się w kolejnych 24–72 godzinach?”.
 
-## Podsumowanie
+
 - Zaburzenia nastroju, psychotyczne i osobowości istotnie zwiększają ryzyko suicydalne, ale nie determinują go automatycznie.
 - Najsilniejszym predyktorem pozostaje historia wcześniejszych prób samobójczych oraz aktualna dynamika objawów.
 - Ocena ryzyka musi być procesem ciągłym i kontekstowym, nie jednorazowym „screeningiem”.

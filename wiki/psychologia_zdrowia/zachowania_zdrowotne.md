@@ -70,17 +70,13 @@ Psycholog wspiera pacjenta w:
 
 Interwencje są najbardziej skuteczne, gdy są dostosowane do etapu gotowości pacjenta i realnych warunków życia.
 
-## Podsumowanie
+
 
 Zachowania zdrowotne to jeden z najsilniejszych modyfikowalnych predyktorów zdrowia populacji. Skuteczna zmiana wymaga nie tylko wiedzy, ale także struktury, wsparcia i planowania na poziomie codziennej praktyki.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

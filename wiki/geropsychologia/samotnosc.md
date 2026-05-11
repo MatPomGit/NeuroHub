@@ -138,17 +138,13 @@ Warto zauważyć, że izolacja i samotność dotyczą nie tylko seniorów, ale t
 - Opiekunowie często wstydzą się szukać pomocy lub nie mają na to zasobów
 - Interwencje skierowane do opiekunów powinny uwzględniać ich potrzeby społeczne
 
-## Podsumowanie
+
 
 Samotność i izolacja społeczna są poważnymi, często lekceważonymi problemami zdrowia publicznego wśród seniorów. Mają udokumentowane konsekwencje zdrowotne porównywalne z paleniem tytoniu. Skuteczne interwencje - od psychoterapii po programy społeczne - istnieją, ale wymagają aktywnego identyfikowania osób potrzebujących wsparcia. Geropsychologia ma istotną rolę zarówno w diagnozie, jak i w tworzeniu i wdrażaniu skutecznych programów interwencyjnych.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

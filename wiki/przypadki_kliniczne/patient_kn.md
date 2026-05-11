@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-30
 reviewCycleMonths: 24
 evidenceCutoffDate: 2026-04-01
@@ -34,8 +34,7 @@ W rehabilitacji stosować interwencje wielomodalne: trening uwagi przestrzennej,
 
 **Konsekwencja:** większa szansa na częściową odbudowę świadomości deficytu i poprawę współpracy terapeutycznej.
 
-### Zła praktyka / częsty błąd
-
+### Zła praktyka
 Konfrontowanie pacjenta w trybie „perswazyjnym” („to na pewno twoja ręka, przestań zaprzeczać”) bez uwzględnienia neurologicznego podłoża objawu.
 
 **Konsekwencja:** eskalacja oporu, spadek zaufania i gorsze wyniki rehabilitacji.
@@ -46,7 +45,7 @@ Na co dzień własność ciała wydaje się oczywista i „naturalna”. Somatop
 
 Ta perspektywa ma znaczenie dla etyki klinicznej: pacjent nie „udaje”, lecz doświadcza realnie zmienionego modelu własnego ciała.
 
-## Podsumowanie
+
 
 Przypadki somatoparafrenii, takie jak K.N., są kluczowe dla neuronauki Ja cielesnego. Klinicznie podkreślają wartość podejścia empatycznego i neurorehabilitacji opartej na integracji wielozmysłowej.
 
@@ -55,5 +54,6 @@ Przypadki somatoparafrenii, takie jak K.N., są kluczowe dla neuronauki Ja ciele
 1. Vallar, G., & Ronchi, R. (2009). Somatoparaphrenia: A body delusion. *A review of the neuropsychological literature*. *Experimental Brain Research*, 192, 533–551.
 2. Fotopoulou, A. (2010). The affective neuropsychology of confabulation and delusion. *Cognitive Neuropsychiatry*, 15(1-3), 38–63.
 3. Moro, V., et al. (2016). Ownership and agency in post-stroke patients. *Cortex*, 74, 133–146.
+
 
 

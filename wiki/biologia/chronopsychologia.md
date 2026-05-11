@@ -135,17 +135,13 @@ Chronopsychologia ma zastosowanie m.in. w:
 - terapii (stabilizacja rytmu w zaburzeniach nastroju i bezsenności),
 - coachingu i rozwoju osobistym (praca z prokrastynacją i planowaniem celów).
 
-## Podsumowanie
+
 
 Chronopsychologia pokazuje, że dobrostan psychiczny i skuteczność poznawcza zależą nie tylko od *tego, co robimy*, ale też od *kiedy to robimy* i *jak odczuwamy upływ czasu*. Dostosowanie zadań do chronotypu, regularny sen oraz świadome zarządzanie perspektywą czasową to interwencje o dużym znaczeniu klinicznym, edukacyjnym i społecznym.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

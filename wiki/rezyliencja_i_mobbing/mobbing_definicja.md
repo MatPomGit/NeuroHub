@@ -111,17 +111,13 @@ Leymann opracował **Leymann Inventory of Psychological Terror (LIPT)** - narzę
 
 Krzysztof, 42-letni inżynier w firmie produkcyjnej, przez 8 miesięcy doświadczał systematycznego mobbingu ze strony nowego przełożonego. Proces rozpoczął się od pominięcia go przy awansie (faza I), następnie przeszedł w ignorowanie na zebraniach, odbieranie kluczowych projektów i publiczne kwestionowanie jego kompetencji (faza II). Gdy Krzysztof zgłosił sytuację do HR, został uznany za „trudnego pracownika" (faza III). Ostatecznie złożył wypowiedzenie z powodów zdrowotnych - rozwinął objawy lękowe i bezsenność (faza IV). W późniejszej terapii zidentyfikowano klasyczny przebieg mobbingu pionowego zstępującego z elementami gaslightingu.
 
-## Podsumowanie
+
 
 Mobbing jest złożonym procesem psychospołecznym, który przebiega fazowo i eskaluje przy braku interwencji. Znajomość jego definicji, rodzajów i faz jest niezbędna zarówno dla ofiar szukających potwierdzenia swoich doświadczeń, jak i dla pracodawców, specjalistów HR oraz psychologów, którzy mają możliwość wczesnej interwencji.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

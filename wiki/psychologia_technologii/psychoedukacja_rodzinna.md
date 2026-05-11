@@ -43,7 +43,7 @@ Rodzina tworzy „umowę cyfrową”: jasne godziny używania, brak ekranów pod
 
 **Konsekwencje:** większe poczucie bezpieczeństwa dziecka, lepsza współpraca z rodzicami i niższe ryzyko ukrytego, problemowego używania urządzeń.
 
-### Zła praktyka (częsty błąd)
+### Zła praktyka
 
 Rodzice stosują wyłącznie strategię zakazów i sankcji, bez wyjaśniania mechanizmów i bez modelowania własnych granic cyfrowych.
 
@@ -53,7 +53,7 @@ Rodzice stosują wyłącznie strategię zakazów i sankcji, bez wyjaśniania mec
 
 Nieoczywista perspektywa mówi, że celem psychoedukacji nie powinno być „wychowanie dziecka bez ekranów”, lecz **wychowanie dziecka kompetentnego cyfrowo i relacyjnie**. W realnym świecie edukacja, praca i relacje są częściowo zapośredniczone technologicznie. Zatem zadaniem rodziny jest rozwijanie krytycznego myślenia, odporności na presję społeczną i umiejętności samoregulacji, a nie wyłącznie redukcja ekspozycji.
 
-## Podsumowanie
+
 
 Skuteczna psychoedukacja rodzinna łączy wiedzę o mediach, komunikację opartą na zaufaniu i spójne normy domowe. Najsilniejszym czynnikiem ochronnym pozostaje jakość relacji rodzic–dziecko: technologia staje się wtedy narzędziem rozwoju, a nie źródłem przewlekłego konfliktu.
 

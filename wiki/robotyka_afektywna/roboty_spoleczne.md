@@ -72,17 +72,13 @@ Postawy wobec robotów społecznych różnią się kulturowo. Społeczeństwo ja
 - **bezpieczeństwo fizyczne** - roboty muszą działać bezpiecznie w pobliżu ludzi
 - **kalibracja oczekiwań** - użytkownicy często przeceniają możliwości robotów
 
-## Podsumowanie
+
 
 Roboty społeczne stanowią jeden z najbardziej dynamicznie rozwijających się segmentów robotyki. Ich sukces zależy nie tyle od zaawansowania technicznego, ile od głębokiego rozumienia psychologii społecznej - tego, co sprawia, że ludzie ufają, lubią i rozumieją swoje maszyny.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

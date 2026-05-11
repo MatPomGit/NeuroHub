@@ -65,17 +65,13 @@ Część osób po nabyciu niepełnosprawności raportuje **wzrost posttraumatycz
 
 Mężczyzna, 45 lat, po amputacji kończyny dolnej. Początkowo odmawia protezy i wychodzenia z domu. W terapii ACT pracuje nad opłakiwaniem utraconego ciała, wyznaczaniem nowych wartości życiowych i stopniowym powrotem do aktywności. Po pół roku powrót do pracy i relacji społecznych - zmieniony, ale satysfakcjonujący.
 
-## Podsumowanie
+
 
 Stres i adaptacja w kontekście niepełnosprawności to złożone, indywidualne procesy. Żadne doświadczenie niepełnosprawności nie jest z góry skazane na trwałe cierpienie ani na heroiczny triumf - oba wizerunki szkodzą. Psycholog wspiera realistyczną adaptację: akceptację zmian, rozwijanie zasobów i utrzymanie uczestnictwa w tym, co ważne.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

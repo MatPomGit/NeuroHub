@@ -78,17 +78,13 @@ W Polsce szkoły są zobowiązane do posiadania **procedur kryzysowych**, ale pr
 
 Skuteczne interwencje szkolne są zakorzenione w szerokim systemie wsparcia. Współpraca psychologa szkolnego z rodzicami, poradnią psychologiczno-pedagogiczną, lekarzem pierwszego kontaktu, psychiatrą i ośrodkami pomocy społecznej jest warunkiem całościowego wsparcia ucznia.
 
-## Podsumowanie
+
 
 Interwencje psychologiczne w szkole - od programów SEL i mindfulness wdrażanych dla wszystkich uczniów, przez selektywne grupy wsparcia, aż po indywidualną terapię CBT i interwencję kryzysową - tworzą kontinuum pomocy dostosowane do zróżnicowanych potrzeb. Ich skuteczność zależy od oparcia na dowodach naukowych, systemowego zaangażowania całej społeczności szkolnej oraz adekwatnych zasobów kadrowych. Inwestycja w szkolne programy profilaktyczne przynosi wymierne korzyści nie tylko edukacyjne, ale i zdrowotne oraz społeczno-ekonomiczne.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

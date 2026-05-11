@@ -60,17 +60,13 @@ Opinia powinna być konkretna i praktyczna - sąd oczekuje wskazówek, nie jedyn
 
 Konwencja ONZ o Prawach Dziecka (1989) i jej implementacja w prawie polskim nakładają na wszystkich uczestników postępowania obowiązek traktowania dziecka z godnością i poszanowania jego najlepszego interesu. Biegły ma obowiązek informowania nieletniego (w dostosowany do wieku sposób) o celu badania i sposobie wykorzystania jego wyników - w granicach wymagań proceduralnych.
 
-## Podsumowanie
+
 
 Opiniowanie nieletnich i dzieci jest obszarem wymagającym szczególnych kompetencji na pograniczu psychologii klinicznej, psychologii rozwojowej i prawa. Wymaga zarówno wrażliwości na kruchość dziecka, jak i rzetelności naukowej - bo właśnie te dwie wartości, gdy są ze sobą równoważone, tworzą opinię, która rzeczywiście służy dobru dziecka i wymiaru sprawiedliwości.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

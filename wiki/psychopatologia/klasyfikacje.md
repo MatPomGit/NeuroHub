@@ -189,17 +189,13 @@ Klasyfikacja diagnostyczna:
 - Umożliwia komunikację w zespołach wielodyscyplinarnych
 - Stanowi podstawę badań klinicznych i metaanaliz
 
-## Podsumowanie
+
 
 ICD-11 i DSM-5-TR to komplementarne, nie konkurencyjne systemy klasyfikacji. ICD-11 jest mandatem WHO i stanowi standard dla systemów zdrowotnych na całym świecie, w tym w Polsce; DSM-5-TR jest szczególnie silny w badaniach naukowych i praktyce anglosaskiej. Oba systemy przeszły istotną ewolucję - od spekulatywnych kategorii psychodynamicznych przez operacyjne kryteria diagnostyczne ku coraz silniejszemu uwzględnieniu wymiarowości, kontekstu kulturowego i neurobiologicznego podłoża zaburzeń. Dla psychologa klinicznego biegłość w obu klasyfikacjach - ze świadomością ich ograniczeń - jest kompetencją niezbędną.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

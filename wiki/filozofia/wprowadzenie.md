@@ -65,17 +65,13 @@ Filozofia zachodnia ewoluowała przez ponad dwa i pół tysiąca lat. Kluczowe e
 - **XIX–XX wiek** - pozytywizm, pragmatyzm, fenomenologia, egzystencjalizm, filozofia analityczna.
 - **Współczesność** - filozofia umysłu, bioetyka, filozofia języka, posthumanizm.
 
-## Podsumowanie
+
 
 Filozofia nie jest abstrakcyjnym luksusem - to fundament krytycznego myślenia, na którym opiera się zarówno nauka, jak i praktyka kliniczna. Psycholog świadomy tradycji filozoficznej lepiej rozumie założenia własnej dyscypliny, jest bardziej odporny na pseudonaukę i potrafi towarzyszyć pacjentom w ich egzystencjalnych pytaniach. Filozofia uczy przede wszystkim jednego: że warto pytać - i że sposób, w jaki pytamy, kształtuje to, co możemy znaleźć.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

@@ -120,7 +120,7 @@ Styl przywiązania ukształtowany we wczesnym dzieciństwie wpływa na później
 
 ---
 
-## Podsumowanie
+
 
 Żadna z omówionych teorii nie wyjaśnia w pełni złożoności rozwoju człowieka. Współczesna psychologia rozwojowa skłania się ku podejściom integracyjnym, które łączą czynniki biologiczne (genetyka, neurobiologia), psychologiczne (poznanie, emocje) i społeczno-kulturowe. Model bioekologiczny Bronfenbrennera i aktualne badania z zakresu neuronauki rozwojowej wskazują, że natura i kultura są nierozłączne w kształtowaniu ludzkiego umysłu.
 
@@ -137,13 +137,9 @@ Styl przywiązania ukształtowany we wczesnym dzieciństwie wpływa na później
 - Piaget, J. (1952). *The Origins of Intelligence in Children*. International Universities Press.
 - Wygotski, L. S. (1978). *Mind in Society*. Harvard University Press.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

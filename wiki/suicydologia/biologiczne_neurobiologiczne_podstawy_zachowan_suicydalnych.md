@@ -47,7 +47,7 @@ W oddziale psychiatrycznym pacjent z ciężką depresją, bezsennością i naras
 
 **Konsekwencje:** spadek pobudzenia, lepsza kontrola impulsów, większa gotowość do współpracy, zmniejszenie ryzyka krótkoterminowego.
 
-### Zła praktyka (częsty błąd)
+### Zła praktyka
 Sprowadzenie ryzyka wyłącznie do jednego wskaźnika biologicznego („wynik badania = wysokie ryzyko”) albo, przeciwnie, całkowite ignorowanie biologii i redukowanie problemu do „słabej odporności psychicznej”.
 
 **Konsekwencje:** błędy decyzyjne, fałszywe poczucie bezpieczeństwa, stygmatyzacja pacjenta, opóźnienie właściwego leczenia.
@@ -55,7 +55,7 @@ Sprowadzenie ryzyka wyłącznie do jednego wskaźnika biologicznego („wynik ba
 ## Perspektywa nieoczywista
 W debacie publicznej często przeciwstawia się „biologię” i „wolę człowieka”. To fałszywa dychotomia. Biologiczne podatności nie odbierają sprawczości, lecz wyjaśniają, dlaczego niektórzy pacjenci w kryzysie potrzebują bardziej intensywnej i szybszej pomocy. Neurobiologia może więc działać anty-stygmatyzująco: przenosi narrację z moralizowania na język medyczny i profilaktyczny.
 
-## Podsumowanie
+
 - Suicydalność ma charakter sieciowy i wieloczynnikowy.
 - Kluczowe mechanizmy obejmują neurotransmisję, oś HPA, funkcjonowanie sieci mózgowych, neurozapalenie i sen.
 - Czynniki biologiczne zwiększają podatność, ale nie działają w próżni – ich wpływ zależy od kontekstu psychologicznego i społecznego.

@@ -56,17 +56,13 @@ Każda z teorii wnosi konkretne wskazania dla nauczycieli:
 - społeczna teoria uczenia się: modelowanie, praca w grupach, mentoring
 - konektywizm: projekty z wykorzystaniem internetu, krytyczna analiza źródeł
 
-## Podsumowanie
+
 
 Żadna pojedyncza teoria uczenia się nie wyczerpuje złożoności tego procesu. Współczesna psychologia edukacyjna przyjmuje perspektywę integracyjną, czerpiąc z dorobku wszystkich głównych nurtów i dostosowując interwencje do kontekstu, wieku uczniów i specyfiki nauczanego materiału. Znajomość teorii uczenia się jest niezbędna zarówno dla nauczycieli, jak i psychologów szkolnych, którzy na jej podstawie planują wsparcie dla uczniów z trudnościami edukacyjnymi.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

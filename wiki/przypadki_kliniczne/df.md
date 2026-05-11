@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-29
 reviewCycleMonths: 24
 evidenceCutoffDate: 2026-04-01
@@ -36,8 +36,7 @@ W rehabilitacji neuropsychologicznej warto rozdzielać trening percepcyjny od tr
 
 **Konsekwencja:** lepsze wykorzystanie zachowanych zasobów działania przy jednoczesnym kompensowaniu deficytów rozpoznawania.
 
-### Zła praktyka / częsty błąd
-
+### Zła praktyka
 Założenie, że jeśli pacjent nie umie nazwać obiektu, to nie będzie w stanie funkcjonalnie manipulować nim w codziennych czynnościach.
 
 **Konsekwencja:** zbyt pesymistyczna prognoza i niepotrzebne ograniczanie samodzielności.
@@ -48,7 +47,7 @@ W edukacji popularnej często przeciwstawia się „umysł” i „ciało”. Pr
 
 To wspiera ucieleśnione podejście do poznania, w którym inteligencja nie jest wyłącznie reprezentacją symboliczną, ale także dynamiczną kontrolą sensomotoryczną.
 
-## Podsumowanie
+
 
 D.F. dostarczyła jednych z najbardziej przekonujących danych na temat funkcjonalnego podziału przetwarzania wzrokowego. Klinicznie jej przypadek przypomina, że ocena pacjenta powinna obejmować zarówno to, co umie on opisać, jak i to, co potrafi skutecznie zrobić.
 
@@ -58,5 +57,6 @@ D.F. dostarczyła jednych z najbardziej przekonujących danych na temat funkcjon
 2. Goodale, M. A., Milner, A. D., Jakobson, L. S., & Carey, D. P. (1991). A neurological dissociation between perceiving objects and grasping them. *Nature*, 349, 154–156.
 3. Milner, A. D., & Goodale, M. A. (2008). Two visual systems re-viewed. *Neuropsychologia*, 46(3), 774–785.
 4. Whitwell, R. L., et al. (2015). The patient DF and the two visual systems debate. *Cortex*, 72, 4–23.
+
 
 

@@ -81,17 +81,13 @@ Wypalenie zawodowe bywa mylone z innymi stanami psychicznymi i fizycznymi.
 
 Doktor Agnieszka, 40-letnia lekarka POZ z 15-letnim stażem, zgłosiła się do psychiatry z powodu narastającego cynizmu wobec pacjentów, niemożności wstania rano do pracy i poczucia, że jest „złą lekarką". Wynik MBI wskazał na wysokie wyczerpanie emocjonalne i depersonalizację przy znacznie obniżonym poczuciu osiągnięć. W wywiadzie: brak urlopu od 2 lat, 12-godzinne zmiany, 40 pacjentów dziennie, brak superwizji. Diagnoza: wypalenie zawodowe (ICD-11 QD85). Plan leczenia: zwolnienie lekarskie, psychoterapia CBT, interwencja systemowa w miejscu pracy (zmniejszenie liczby pacjentów na dyżurze).
 
-## Podsumowanie
+
 
 Wypalenie zawodowe jest wielowymiarowym stanem wyczerpania, który Freudenberger opisał jako pierwszorzędny problem ludzi najbardziej zaangażowanych. Model Maslach z jego trzema wymiarami (wyczerpanie, depersonalizacja, obniżone poczucie osiągnięć) stanowi fundament diagnostyczny, potwierdzony w tysiącach badań i zaakceptowany przez WHO w ICD-11. Rozumienie wypalenia jest punktem wyjścia skutecznej profilaktyki i leczenia.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

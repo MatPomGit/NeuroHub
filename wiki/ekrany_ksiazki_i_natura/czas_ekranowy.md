@@ -101,17 +101,13 @@ Główne instytucje wydały zalecenia dotyczące czasu ekranowego:
 - Brak sztywnych limitów dla dzieci powyżej 5 lat
 - Nacisk na zachowanie równowagi z innymi aktywnościami
 
-## Podsumowanie
+
 
 Czas ekranowy sam w sobie jest zbyt grubą kategorią, by stanowić podstawę zdrowotnych zaleceń. Ważniejsze jest to, *co* robi dziecko lub dorosły przy ekranie, *z kim* i *zamiast czego*. Niemniej dowody naukowe uzasadniają ostrożność - szczególnie w przypadku biernego korzystania z mediów społecznościowych przez nastolatki. Świadome zarządzanie ekranami, chronienie snu i utrzymywanie przestrzeni dla kontaktów twarzą w twarz to fundamenty profilaktyki opartej na obecnej wiedzy.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

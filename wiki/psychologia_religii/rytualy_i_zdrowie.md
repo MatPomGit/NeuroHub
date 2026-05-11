@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-05-04
 reviewCycleMonths: 18
 evidenceCutoffDate: 2026-03-31
@@ -32,7 +32,7 @@ Część rytuałów (np. śpiew, recytacja, sekwencje ruchowe) angażuje oddech 
 - W eksperymentach laboratoryjnych i terenowych krótkie sekwencje rytualne (często 5-10 minut) potrafią obniżać subiektywny poziom napięcia przed zadaniem stresowym.
 - Jednocześnie dane kliniczne podkreślają, że rytuały motywowane przymusem (np. w OCD) mogą nasilać lęk i pogarszać funkcjonowanie.
 
-## Dobra praktyka
+## Praktyczne przykłady
 W praktyce pomocowej warto oceniać funkcję rytuału: czy zwiększa elastyczność i więź, czy raczej podtrzymuje lęk i unikanie. W interwencjach grupowych korzystne jest łączenie rytuałów z psychoedukacją i rozmową o znaczeniu przeżycia.
 
 **Konsekwencje:** lepsza regulacja stresu, większa spójność wspólnotowa, skuteczniejsze przechodzenie przez kryzysy życiowe.
@@ -50,7 +50,7 @@ Co ciekawe, poprawa samopoczucia bywa większa, gdy rytuał zawiera komponent zs
 ## Perspektywa nieoczywista
 Rytuały nie są przeciwieństwem racjonalności. Często działają jak psychologiczna infrastruktura, która stabilizuje emocje, aby możliwe było bardziej refleksyjne myślenie i decyzje. Ta perspektywa pozwala zrozumieć, dlaczego praktyki symboliczne utrzymują się także w wysoko zmodernizowanych społeczeństwach.
 
-## Podsumowanie
+
 - Rytuały mogą wspierać zdrowie psychiczne przez mechanizmy poznawcze, społeczne i fizjologiczne.
 - Efekt ochronny zależy od funkcji praktyki, a nie od samej częstotliwości jej wykonywania.
 - W diagnozie i interwencji konieczne jest rozróżnianie rytuałów adaptacyjnych od lękowo-przymusowych.
@@ -64,3 +64,4 @@ Rytuały nie są przeciwieństwem racjonalności. Często działają jak psychol
 5. Whitehouse, H., & Lanman, J. A. (2014). The ties that bind us: Ritual, fusion, and identification. *Current Anthropology*, 55(6), 674-695.
 6. Exline, J. J., & Rose, E. D. (2024). Religious and spiritual struggles in clinical settings. *Current Opinion in Psychology*, 58.
 7. Hill, P. C., et al. (2021). Methodological challenges in the psychology of religion. *Archive for the Psychology of Religion*, 43(3), 187-205.
+

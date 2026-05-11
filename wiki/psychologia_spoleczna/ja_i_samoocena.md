@@ -101,7 +101,7 @@ Hazel Markus i Shinobu Kitayama (1991) opisali dwa kulturowo uwarunkowane modele
 
 Badania replikacyjne (np. Oyserman i in., 2002) potwierdzają te różnice, choć wskazują na duże zróżnicowanie wewnątrzkulturowe.
 
-## Podsumowanie
+
 
 Ja i samoocena to wielowymiarowe konstrukty łączące procesy poznawcze, emocjonalne i społeczne. Globalna samoocena (Rosenberg), poczucie skuteczności (Bandura) i teoria socjometru (Leary) dostarczają komplementarnych perspektyw. Autoprezentacja (Goffman) wskazuje, że obraz siebie jest zawsze negocjowany w kontekście społecznym, a różnice kulturowe (Markus & Kitayama) przypominają, że nawet tak podstawowe doświadczenie jak „poczucie siebie" jest częściowo konstruktem kulturowym.
 
@@ -118,13 +118,9 @@ Ja i samoocena to wielowymiarowe konstrukty łączące procesy poznawcze, emocjo
 - Markus, H., & Nurius, P. (1986). Possible selves. *American Psychologist, 41*(9), 954–969.
 - Rosenberg, M. (1965). *Society and the Adolescent Self-Image*. Princeton University Press.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

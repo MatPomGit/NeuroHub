@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-28
 reviewCycleMonths: 12
 evidenceCutoffDate: 2026-03-31
@@ -38,14 +38,14 @@ Badania nad wzorcami rodzinnymi pokazują, że role mogą być dziedziczone: je�
 
 Wegscheider-Cruse (1981) opisała wzorce ról w rodzinach z osobą uzależnioną: główny opiekun (*chief enabler*), bohater, kozioł ofiarny, stracone dziecko i maskotka - każde z nich pełni rolę stabilizującą system wokół uzależnienia. Praca terapeutyczna polega nie tylko na leczeniu uzależnienia, lecz na przebudowie całego systemu ról, które uzależnienie podtrzymują.
 
-## Dobra praktyka
+## Praktyczne przykłady
 
+### Dobra praktyka
 Terapeuta rodzinny, widząc, że cała uwaga skupia się na „trudnym" 14-latku (kozioł ofiarny), zadaje pytanie rodzicom: „Co dzieje się w rodzinie, co sprawia, że Marek musi przyciągać uwagę w ten sposób?" Zamiast skupiać się na zachowaniu chłopca, bada funkcję tego zachowania dla całego systemu. Stopniowo wychodzi na jaw chroniczny konflikt małżeński tłumiony przez lata.
 
 **Konsekwencje:** zmiana fokusa z jednostki na system, zmniejszenie stygmatyzacji chłopca, praca z rzeczywistym źródłem napięcia.
 
-## Zła praktyka
-
+### Zła praktyka
 Terapeuta koncentruje się na „naprawieniu" kozła ofiarnego przez indywidualną terapię, zakładając, że jeśli chłopiec zmieni zachowanie, rodzina będzie funkcjonować lepiej. Tymczasem system będzie potrzebował nowego kozła ofiarnego lub innego sposobu regulacji napięcia.
 
 **Konsekwencje:** zmiana pozorów bez zmiany struktury, przeniesienie problemu na innego członka rodziny lub nasilenie objawów u samego chłopca.
@@ -54,7 +54,7 @@ Terapeuta koncentruje się na „naprawieniu" kozła ofiarnego przez indywidualn
 
 Role rodzinne bywają opisywane jako „maski" lub „fałszywe ja" - coś, czego należy się pozbyć. Warto jednak zauważyć, że każda rola wypracowana przez dziecko w trudnym środowisku była kiedyś zasobem - strategią przetrwania wymagającą niemałych kompetencji. Kozioł ofiarny nauczył się przyciągać uwagę, bohater - radzić sobie z presją, stracone dziecko - samoregulować bez wsparcia. Te umiejętności mogą być przekształcone w zasoby, jeśli przestaną być jedyną dostępną strategią. Terapia nie polega na zniszczeniu roli, lecz na rozszerzeniu repertuaru - tak by osoba mogła *wybrać*, kiedy ją pełnić, zamiast pełnić ją automatycznie.
 
-## Podsumowanie
+
 
 Role w systemie rodzinnym są odpowiedzią na potrzeby całej grupy, a nie indywidualną patologią. Kozioł ofiarny, bohater, maskotka, stracone dziecko - każda z tych ról pełni funkcję stabilizującą system, ale ogranicza indywidualny rozwój. Terapia systemowa dąży do ujawnienia tych ról, zrozumienia ich funkcji i stworzenia warunków, w których cały system może rozwijać bardziej elastyczne, mniej kosztowne strategie regulacji.
 
@@ -66,3 +66,5 @@ Role w systemie rodzinnym są odpowiedzią na potrzeby całej grupy, a nie indyw
 4. Nichols, M. P., & Davis, S. D. (2020). *Family Therapy: Concepts and Methods* (12th ed.). Pearson.
 5. Bradshaw, J. (1988). *Bradshaw On: The Family*. Health Communications.
 6. Bowen, M. (1978). *Family Therapy in Clinical Practice*. Jason Aronson.
+
+

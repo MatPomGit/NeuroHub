@@ -133,17 +133,13 @@ Nie wszystkie motywacje do grania niosą jednakowe ryzyko:
 
 Badania Kirley i Williams (2019) wykazały, że gracze motywowani ucieczką wykazują wyższe wskaźniki depresji, lęku i problemowego grania niż gracze motywowani osiągnięciami lub relacjami społecznymi.
 
-## Podsumowanie
+
 
 Motywacje graczy są wielowymiarowe i głęboko zakorzenione w podstawowych potrzebach psychologicznych. Teoria SDT dostarcza najlepiej ugruntowanych ram teoretycznych do rozumienia, dlaczego gry są tak angażujące. Klinicysta pracujący z graczem powinien dokładnie zbadać profil motywacyjny swojego pacjenta - może to być kluczem zarówno do zrozumienia mechanizmu problemu, jak i do znalezienia skutecznych interwencji.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

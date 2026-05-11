@@ -107,17 +107,13 @@ Warto podkreślić ograniczenia dostępnych badań:
 - Publikowany bias na korzyść pozytywnych wyników
 - Brak długoterminowych badań podłużnych obejmujących lata grania
 
-## Podsumowanie
+
 
 Regularnie granie w gry wideo, szczególnie gry akcji i strategiczne, wiąże się z mierzalnymi ulepszeniami w zakresie uwagi, percepcji wzrokowej, pamięci roboczej i orientacji przestrzennej. Efekty te mają realne zastosowania w rehabilitacji neuropsychologicznej i szkoleniu zawodowym. Jednocześnie konieczna jest ostrożność w interpretacji - nie wszystkie gry poprawiają wszystkie funkcje, a transfer do rzeczywistości zależy od wielu czynników.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

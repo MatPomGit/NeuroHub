@@ -1,4 +1,4 @@
-# 3. Podstawy neurochemii ośrodkowego układu nerwowego
+﻿# 3. Podstawy neurochemii ośrodkowego układu nerwowego
 
 ## Wprowadzenie
 
@@ -14,14 +14,19 @@ Podstawy neurochemii OUN obejmują transmisję synaptyczną, neuromodulację i p
 
 Efekt leku zależy od receptorów, ich gęstości, szlaku sygnałowego i czasu ekspozycji. Ten sam lek może dawać odmienny efekt krótkoterminowy i długoterminowy (np. adaptacja receptorowa, zmiany ekspresji genów).
 
-## Dobra praktyka
+## Praktyczne przykłady
 
-Dobra praktyka: tłumaczenie pacjentowi opóźnionego działania leków (np. SSRI) przez mechanizmy neuroadaptacyjne.
+### Dobra praktyka
+### Dobra praktyka
+
+tłumaczenie pacjentowi opóźnionego działania leków (np. SSRI) przez mechanizmy neuroadaptacyjne.
 
 Konsekwencja: poprawia adherencję
 
-## Zła praktyka
-Zła praktyka: szybkie zmiany preparatów bez czasu na odpowiedź biologiczną.
+### Zła praktyka
+### Zła praktyka
+
+szybkie zmiany preparatów bez czasu na odpowiedź biologiczną.
 
 Konsekwencja: zwiększa chaos terapeutyczny
 
@@ -29,7 +34,7 @@ Konsekwencja: zwiększa chaos terapeutyczny
 
 W praktyce klinicznej największe korzyści przynosi nie maksymalizacja liczby interwencji, lecz **precyzyjne ograniczanie leczenia do elementów o najwyższej wartości dodanej**. To podejście bywa mniej intuicyjne niż „eskalacja terapii”, ale często poprawia współpracę, bezpieczeństwo i długofalowe wyniki.
 
-## Podsumowanie
+
 
 Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dane naukowe, monitoring efektów oraz współdecydowanie z pacjentem. Wysoka jakość leczenia wynika z konsekwentnej ewaluacji korzyści i ryzyka na każdym etapie terapii.
 
@@ -40,5 +45,9 @@ Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dan
 - NICE. (2022-2025). Guidance on mental health and pharmacological treatment (living updates).
 - WHO. (2023). ICD-11 Clinical Descriptions and Diagnostic Guidelines.
 - Meyer, J. M., & Quenzer, L. F. (2018). Psychopharmacology: Drugs, the Brain, and Behavior (3rd ed.).
+
+
+
+
 
 

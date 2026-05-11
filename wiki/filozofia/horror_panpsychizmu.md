@@ -58,7 +58,7 @@ Krytycy, m.in. **Scott Aaronson**, wskazują, że IIT prowadzi do absurdalnych k
 
 **Argument zombie'ego** (zob. osobne hasło: *Filozoficzne zombie*) stanowi dodatkowe wyzwanie: jeśli możemy wyobrazić sobie istotę funkcjonalnie identyczną z człowiekiem, ale pozbawioną świadomości, to świadomość nie jest logicznie konieczna dla żadnego układu fizycznego - co stawia pod znakiem zapytania wszelkie fizykalistyczne teorie świadomości, w tym IIT.
 
-## Podsumowanie
+
 
 Panpsychizm oferuje jedną z najbardziej radykalnych odpowiedzi na trudny problem świadomości: zamiast redukować doświadczenie do procesów fizycznych, uczynimy doświadczenie fundamentalną własnością świata. Ale ta odpowiedź przynosi ze sobą swój własny horror - nieskończone, bezpodmiotowe, bezsensowne morze proto-doświadczenia, problem łączenia mikro-doświadczeń w jedność oraz mrożącą krew w żyłach konsekwencję, że historia życia na Ziemi jest historią niewyobrażalnego cierpienia. Filozofia umysłu rzadko bywa tak niepokojąca jak wtedy, gdy zadaje to pytanie poważnie.
 
@@ -71,13 +71,9 @@ Panpsychizm oferuje jedną z najbardziej radykalnych odpowiedzi na trudny proble
 - Tononi, G. (2008). *Consciousness as Integrated Information*. Biological Bulletin, 215(3).
 - Schopenhauer, A. (1818/2009). *Świat jako wola i przedstawienie*. PWN.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

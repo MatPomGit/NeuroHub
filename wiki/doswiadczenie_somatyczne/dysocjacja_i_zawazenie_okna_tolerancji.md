@@ -1,4 +1,4 @@
-# Dysocjacja i zawężenie okna tolerancji w Somatic Experiencing
+﻿# Dysocjacja i zawężenie okna tolerancji w Somatic Experiencing
 
 ## Wprowadzenie
 
@@ -29,8 +29,9 @@ To poszerzanie nie dzieje się jednorazowo. Jest raczej wynikiem wielokrotnego d
 Dysocjacja bywa mylnie oceniana jako brak motywacji. Częściej jest to sygnał, że tempo terapii przekroczyło aktualną pojemność regulacyjną organizmu.
 Warto patrzeć na nią jak na wskaźnik przeciążenia, a nie niechęci. Taka interpretacja zmienia też język relacji terapeutycznej. Pacjent przestaje być oceniany, a zaczyna być rozumiany.
 
-## Dobra praktyka
+## Praktyczne przykłady
 
+### Dobra praktyka
 Przykład dobrej praktyki: terapeuta zauważa pierwsze oznaki odcięcia, przerywa pracę z materiałem i wraca do neutralnego opisu odczuć w stopach, dłoniach i oddechu.
 W ten sposób interwencja nie walczy z dysocjacją, lecz odpowiada na jej pojawienie się. Pacjent dostaje sygnał, że jego granice są zauważane. To wzmacnia bezpieczeństwo i zaufanie.
 
@@ -39,8 +40,7 @@ W ten sposób interwencja nie walczy z dysocjacją, lecz odpowiada na jej pojawi
 Pacjent uczy się, że odcięcie nie jest katastrofą, lecz sygnałem do korekty tempa.
 Z czasem może to zwiększyć tolerancję na kontakt z trudnymi treściami. Odcięcie traci wtedy część swojej groźnej, absolutnej jakości. W jego miejsce pojawia się bardziej elastyczna reakcja.
 
-## Zła praktyka
-
+### Zła praktyka
 Przykład błędu: utrzymywanie intensywnego kontaktu z materiałem traumatycznym mimo wyraźnych oznak dysocjacji, na przykład pustego wzroku, spowolnienia lub braku reakcji.
 Takie postępowanie łatwo przekracza próg bezpieczeństwa. Pacjent może „zniknąć” z kontaktu, zamiast przetwarzać doświadczenie. Wtedy technika staje się ryzykowna zamiast leczniczej.
 
@@ -54,7 +54,7 @@ Niekiedy skutkiem jest też późniejszy wzrost unikania terapii. Pacjent może 
 Dysocjacja często bywa opisywana językiem deficytu. Z perspektywy SE jest to jednak również forma inteligentnej ochrony: układ nerwowy wybiera mniejsze zło, gdy nie widzi innej drogi wytrzymania zagrożenia.
 To nie znaczy, że dysocjacja jest korzystna sama w sobie. Oznacza jedynie, że niesie ważną informację o granicach systemu. Dobrze poprowadzona terapia wykorzystuje tę informację, zamiast z nią walczyć.
 
-## Podsumowanie
+
 
 Praca z dysocjacją wymaga cierpliwości, bardzo małych dawek aktywacji i stałego powrotu do zasobów. Poszerzanie okna tolerancji jest procesem, a nie jednorazową techniką.
 W praktyce klinicznej oznacza to tempo wolniejsze, ale zwykle bezpieczniejsze. Daje to pacjentowi możliwość utrzymania kontaktu bez przeciążenia. To właśnie ten warunek decyduje o realnej skuteczności pracy somatycznej.
@@ -65,3 +65,5 @@ W praktyce klinicznej oznacza to tempo wolniejsze, ale zwykle bezpieczniejsze. D
 - Herman, J. L. (2015). Trauma and Recovery. Basic Books.
 - Ogden, P., Minton, K., & Pain, C. (2006). Trauma and the Body. W. W. Norton.
 - Fisher, J. (2017). Healing the Fragmented Selves of Trauma Survivors. Routledge.
+
+

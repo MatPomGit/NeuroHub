@@ -51,6 +51,7 @@ Aplikacje zdrowia psychicznego oferują zazwyczaj kombinację następujących ka
 Brak regulacji rynku aplikacji mHealth prowadzi do zalewu narzędzi niesprawdzonej jakości. W 2020 roku WHO wydała wytyczne dotyczące oceny aplikacji cyfrowego zdrowia (Digital Health Guidelines), zalecając rządom wprowadzenie systemów certyfikacji.
 
 W Europie kilka krajów rozwinęło systemy oceny:
+
 - **DiGA** (Digitale Gesundheitsanwendungen) w Niemczech - pierwsza na świecie regulacja refundowania aplikacji zdrowotnych przez publicznego ubezpieczyciela po pozytywnej ocenie skuteczności
 - **NICE** w UK - opracowuje kryteria oceny narzędzi cyfrowego zdrowia
 - **CE marking jako wyrób medyczny** - aplikacje z funkcją diagnostyczną lub terapeutyczną mogą wymagać certyfikacji jako MDR Class I lub wyższej
@@ -58,21 +59,18 @@ W Europie kilka krajów rozwinęło systemy oceny:
 ## Zastosowania kliniczne
 
 Psycholog lub psychiatra może rekomendować aplikacje mHealth jako:
+
 - **Uzupełnienie terapii** - praca domowa, monitor nastroju między sesjami, ćwiczenia technik poznawczo-behawioralnych
 - **Wstępne narzędzie interwencji** - przed objęciem opieką specjalistyczną, w celu monitorowania i łagodnej interwencji
 - **Narzędzie profilaktyczne** - dla osób bez diagnozy klinicznej, w celu budowania zasobów odporności i mindfulness
 
-## Podsumowanie
-
-Aplikacje mHealth stanowią ważny element ekosystemu cyfrowego zdrowia psychicznego - demokratyzując dostęp do narzędzi psychologicznych na niespotykaną dotąd skalę. Ich wartość kliniczna jest jednak zróżnicowana i wymaga krytycznej oceny. Psycholog rekomendujący aplikację pacjentowi powinien znać jej podstawy empiryczne, zakres zastosowań i ograniczenia.
-
-
-
+## Perspektywa nieoczywista
 
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
 
+
+Aplikacje mHealth stanowią ważny element ekosystemu cyfrowego zdrowia psychicznego - demokratyzując dostęp do narzędzi psychologicznych na niespotykaną dotąd skalę. Ich wartość kliniczna jest jednak zróżnicowana i wymaga krytycznej oceny. Psycholog rekomendujący aplikację pacjentowi powinien znać jej podstawy empiryczne, zakres zastosowań i ograniczenia.
 
 ## Bibliografia
 

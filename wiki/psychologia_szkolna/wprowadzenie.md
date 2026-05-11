@@ -60,17 +60,13 @@ Wśród aktualnych nurtów wyróżnia się:
 - nierówności edukacyjne i ich psychologiczne korelaty
 - interwencje oparte na dowodach naukowych (*evidence-based interventions*)
 
-## Podsumowanie
+
 
 Psychologia szkolna i edukacyjna jest dynamicznie rozwijającą się dziedziną nauki i praktyki, której znaczenie wzrasta wraz ze złożonością wyzwań współczesnej edukacji. Łącząc wiedzę teoretyczną z praktycznym działaniem na rzecz uczniów, nauczycieli i całych społeczności szkolnych, stanowi nieodzowny element nowoczesnego systemu oświaty. W Polsce jej rozwój jest ściśle powiązany z reformami systemu edukacji oraz rosnącą świadomością znaczenia zdrowia psychicznego w środowisku szkolnym.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

@@ -101,7 +101,7 @@ Skuteczna obrona łączy wiedzę o mechanizmach z nawykami krytycznego myślenia
 4. **Stosuj szczepionkę informacyjną** - ucz się rozpoznawać techniki propagandy na przykładach
 5. **Świadomość reaktancji** - zauważ, gdy opór jest irracjonalny i może sam być wywoływany
 
-## Podsumowanie
+
 
 Perswazja i propaganda operują na tych samych mechanizmach psychologicznych - różni je cel i transparentność. Zasady Cialdiniego, techniki propagandy i dark patterns cyfrowe są potężnymi narzędziami wpływu. Teoria szczepionki i wiedza o reaktancji dają odbiorcom narzędzia obrony. W erze cyfrowej, gdzie personalizowane przekazy trafiają do milionów ludzi jednocześnie, alfabetyzm medialny i krytyczne myślenie stają się kompetencjami społecznymi pierwszej potrzeby.
 
@@ -116,13 +116,9 @@ Perswazja i propaganda operują na tych samych mechanizmach psychologicznych - r
 - McGuire, W. J. (1961). The effectiveness of supportive and refutational defenses in immunizing and restoring beliefs against persuasion. *Sociometry, 24*(2), 184–197.
 - Petty, R. E., & Cacioppo, J. T. (1986). The elaboration likelihood model of persuasion. *Advances in Experimental Social Psychology, 19*, 123–205.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

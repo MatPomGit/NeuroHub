@@ -77,17 +77,13 @@ Jednym z najbardziej przekonujących argumentów za nawykiem czytelniczym są ba
 
 Mechanizmem jest **rezerwa poznawcza**: czytanie buduje gęstą sieć połączeń nerwowych, która stanowi bufor chroniący przed klinicznymi objawami demencji nawet przy fizycznej obecności zmian alzheimerowskich.
 
-## Podsumowanie
+
 
 Czytanie książek jest jedną z niewielu aktywności, która jednocześnie trenuje uwagę, pamięć i język, poszerza empatię, redukuje stres i chroni przed demencją. W epoce fragmentarycznej konsumpcji informacji codzienny nawyk długiego, skupionego czytania staje się ćwiczeniem nie tylko umysłu, ale i zdolności do głębokiego skupienia - zdolności, która w erze cyfrowej staje się coraz rzadszym i bardziej cennym zasobem.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

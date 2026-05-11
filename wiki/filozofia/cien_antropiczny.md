@@ -65,7 +65,7 @@ Cień antropiczny i rozumowanie antropiczne w ogóle budzą poważne zastrzeżen
 
 Mimo tych zastrzeżeń koncepcja cienia antropicznego pozostaje wpływowym narzędziem myślowym w badaniach nad bezpieczeństwem cywilizacyjnym i w filozofii nauki.
 
-## Podsumowanie
+
 
 Cień antropiczny przypomina nam o fundamentalnym ograniczeniu wszelkiego wnioskowania opartego na przeżyciu: nasze dane są zawsze selektywne w sposób, którego nie możemy w pełni skompensować. Rzadkie, globalne katastrofy są systematycznie niedoreprezentowane w naszej historii właśnie dlatego, że te, do których doszło, unicestwiły swoich obserwatorów. To sprawia, że historia ludzkości wydaje się bezpieczniejsza, niż prawdopodobnie jest - a my sami jesteśmy gorzej przygotowani na zagrożenia, których jeszcze nie widzieliśmy.
 
@@ -77,13 +77,9 @@ Cień antropiczny przypomina nam o fundamentalnym ograniczeniu wszelkiego wniosk
 - Bostrom, N. (2002). *Anthropic Bias: Observation Selection Effects in Science and Philosophy*. Routledge.
 - Ord, T. (2020). *The Precipice: Existential Risk and the Future of Humanity*. Bloomsbury.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

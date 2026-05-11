@@ -110,7 +110,7 @@ Współczesna psychologia rozwojowa sięga po nowe strategie:
 
 ---
 
-## Podsumowanie
+
 
 Badania podłużne są złotym standardem psychologii rozwojowej, gdyż jako jedyne pozwalają bezpośrednio obserwować zmianę w czasie i identyfikować wczesne predyktory późniejszych wyników. Ich największe ograniczenia - attrition i efekty retestowania - można minimalizować, ale nie eliminować. Plan sekwencyjny stanowi najsilniejszy metodologicznie kompromis, pozwalający rozdzielić wpływ wieku, kohorty i okresu historycznego. Wyniki wielkich badań podłużnych XX wieku fundamentalnie zmieniły naszą wiedzę o tym, jak wczesne doświadczenia kształtują całe życie.
 
@@ -125,13 +125,9 @@ Badania podłużne są złotym standardem psychologii rozwojowej, gdyż jako jed
 - Schaie, K. W. (2005). *Developmental Influences on Adult Intelligence: The Seattle Longitudinal Study*. Oxford University Press.
 - Vaillant, G. E. (2012). *Triumphs of Experience: The Men of the Harvard Grant Study*. Belknap Press.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

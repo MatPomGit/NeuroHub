@@ -168,17 +168,13 @@ Błędy w badaniach psychologicznych mogą pojawić się na każdym etapie - od 
 
 **Rozwiązanie:** Precyzyjnie opisuj, na kogo wyniki są możliwe do uogólnienia i jakie są ograniczenia ekologicznej trafności.
 
-## Podsumowanie
+
 
 Znajomość typowych błędów badawczych nie ma na celu demotywowania - żadne badanie nie jest idealne. Chodzi o to, by popełniać błędy *świadomie* i *uczciwie je raportować*. Praca, która rzetelnie opisuje swoje ograniczenia, jest wartościowsza niż ta, która udaje perfekcję.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

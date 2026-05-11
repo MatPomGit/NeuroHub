@@ -57,17 +57,13 @@ Najbardziej adaptacyjny wzorzec to atrybucja sukcesu czynnikom wewnętrznym, sta
 
 Czynniki kształtujące klimat to: zadania (ich różnorodność i poziom trudności), władza i autonomia, uznanie (kryteria nagradzania), grupowanie uczniów, ocenianie i zarządzanie czasem - model **TARGET** opisuje te wymiary w sposób systematyczny.
 
-## Podsumowanie
+
 
 Motywacja szkolna jest złożonym konstruktem, determinowanym przez interakcję cech indywidualnych ucznia, relacji z nauczycielem oraz szerszego kontekstu szkolnego. Teorie SDT, nastawień Dweck i atrybucji Weinera dostarczają spójnych wskazań praktycznych: wspieranie autonomii, kształtowanie nastawienia na wzrost, informacja zwrotna ukierunkowana na wysiłek i strategię oraz budowanie klimatu mistrzowskiego to kluczowe elementy szkoły, która rzeczywiście motywuje uczniów do uczenia się.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

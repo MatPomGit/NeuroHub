@@ -145,17 +145,13 @@ Nie pisz w izolacji. Sieć wsparcia:
 - **Biuro kariery lub centrum wsparcia studenta** - pomoc w kryzysie
 - **Przyjaciele i rodzina** - emocjonalne wsparcie
 
-## Podsumowanie
+
 
 Dobre praktyki w pisaniu pracy naukowej to połączenie dyscypliny, organizacji i samoświadomości. Student, który dba zarówno o jakość naukową, jak i o własny dobrostan, ma największe szanse na ukończenie pracy na czas i z satysfakcją. Praca magisterska jest wyzwaniem - ale też jedną z najbardziej rozwijających intelektualnie przygód w życiu akademickim.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

@@ -150,7 +150,7 @@ W modelu *Routine Outcome Monitoring* (np. IAPT w Wielkiej Brytanii, PCOMS w USA
 
 ---
 
-## Podsumowanie
+
 
 PHQ-9, GAD-7 i PCL-5 tworzą zwarte, komplementarne narzędzie przesiewowe dla trzech najczęstszych kategorii zaburzeń psychicznych: depresji, lęku i PTSD. Ich mocne strony - krótki czas wypełnienia, wysokie właściwości psychometryczne, bezpłatna dostępność i bezpośrednie powiązanie z kryteriami DSM-5 - sprawiają, że są niezastąpione zarówno w rutynowej praktyce klinicznej, jak i w badaniach naukowych. Polska adaptacja narzędzi jest dostępna, choć dane normatywne dla populacji polskiej wymagają dalszego rozwoju.
 
@@ -168,13 +168,9 @@ Wpisy bibliograficzne zapisuj konsekwentnie w APA 7 oraz dodawaj DOI/URL i oznac
 - Löwe, B., Decker, O., Müller, S., Brähler, E., Schellberg, D., Herzog, W., & Herzberg, P. Y. (2008). Validation and standardization of the Generalized Anxiety Disorder Screener (GAD-7) in the general population. *Medical Care, 46*(3), 266–274.
 - Lambert, M. J., & Shimokawa, K. (2011). Collecting client feedback. *Psychotherapy, 48*(1), 72–79.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

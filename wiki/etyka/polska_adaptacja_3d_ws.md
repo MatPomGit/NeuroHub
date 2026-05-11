@@ -76,7 +76,8 @@ Dominujące podejście traktuje mądrość jako względnie stabilną cechę jedn
 
 Etyczna konsekwencja tej perspektywy jest istotna: niski wynik w danym pomiarze nie musi oznaczać „deficytu osoby”, lecz może odzwierciedlać kontekst stresu, nierówności społecznych lub ograniczony repertuar doświadczeń życiowych. Taka interpretacja sprzyja bardziej sprawiedliwej praktyce diagnostycznej i zmniejsza ryzyko indywidualizowania problemów strukturalnych.
 
-## Podsumowanie głównych wniosków
+
+Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu. głównych wniosków
 
 Polska adaptacja 3D-WS jest ważnym krokiem w kierunku rzetelnego i etycznego pomiaru mądrości w warunkach polskich. Jej wartość nie polega wyłącznie na „technicznym” tłumaczeniu skali, ale na umożliwieniu bardziej adekwatnego i sprawiedliwego wnioskowania o badanych osobach. W praktyce etycznej najważniejsze jest łączenie wyniku 3D-WS z innymi źródłami danych, transparentne komunikowanie ograniczeń oraz unikanie normatywnego etykietowania ludzi na podstawie pojedynczego wskaźnika.
 

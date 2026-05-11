@@ -50,17 +50,13 @@ Koncepcja neuroróżnorodności nie jest wolna od kontrowersji. Krytycy wskazuj�
 
 Zwolennicy ruchu odpowiadają, że oba podejścia - tożsamościowe i terapeutyczne - mogą współistnieć, a kluczem jest szanowanie autonomii osoby neuroatypowej w wyborze formy wsparcia.
 
-## Podsumowanie
+
 
 Neuroróżnorodność to zarówno termin naukowy, jak i ruch społeczny, który zmienia sposób, w jaki psychologia, pedagogika i pracodawcy myślą o ludzkim mózgu. Zamiast pytać „jak naprawić ten mózg?", paradygmat neuroróżnorodności pyta: „jak stworzyć środowisko, w którym ten mózg może rozkwitnąć?". To przesunięcie perspektywy ma dalekosiężne konsekwencje - od projektowania szkół, przez rynek pracy, aż po prawo i politykę społeczną.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

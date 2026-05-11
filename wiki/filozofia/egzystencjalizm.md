@@ -60,17 +60,13 @@ Egzystencjalizm bezpośrednio zasilił kilka nurtów terapeutycznych:
 - **Terapia egzystencjalna** Irvina Yaloma - praca z lękiem śmierci, izolacją, wolnością i sensem.
 - **Terapia akceptacji i zaangażowania** (ACT) czerpie z egzystencjalnej idei wartości i zaangażowanego działania.
 
-## Podsumowanie
+
 
 Egzystencjalizm przypomina psychologowi o tym, co najważniejsze w pracy z człowiekiem: konkretny, niepowtarzalny człowiek z jego historią, wolnością, lękiem i pragnieniem sensu. Żadna diagnoza, żaden schemat terapeutyczny nie wyczerpuje egzystencji pacjenta. Terapeuta egzystencjalny spotyka pacjenta nie jako przypadek kliniczny, lecz jako współtowarzysza w fundamentalnej sytuacji ludzkiej: bycia-w-świecie, ku-śmierci, ku-sensowi.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

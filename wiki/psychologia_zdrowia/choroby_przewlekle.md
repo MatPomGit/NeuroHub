@@ -61,17 +61,13 @@ W wielu przypadkach skuteczne są krótkie, strukturalne interwencje skoncentrow
 
 Pacjent po rozpoznaniu choroby przewlekłej rezygnuje z aktywności i unika kontroli medycznych. W terapii uczy się planowania tygodnia, monitorowania objawów i formułowania pytań do lekarza. Po kilku tygodniach poprawia regularność wizyt i zgłasza mniejsze napięcie.
 
-## Podsumowanie
+
 
 Choroba przewlekła dotyczy nie tylko ciała, ale całego systemu życia pacjenta. Najlepsze efekty daje leczenie łączące opiekę medyczną z ukierunkowanym wsparciem psychologicznym.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

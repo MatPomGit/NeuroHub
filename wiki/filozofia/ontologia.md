@@ -70,17 +70,13 @@ Ontologiczne założenia przenikają codzienną pracę psychologa:
 
 Żadne z tych stanowisk nie jest oczywiste - każde opiera się na ontologicznych wyborach, które warto uczynić świadomymi.
 
-## Podsumowanie
+
 
 Ontologia i metafizyka dostarczają fundamentalnego słownika do opisywania rzeczywistości, w której pracuje psycholog. Problem umysł–ciało, pytanie o tożsamość osobową czy spór o realizm diagnostyczny to nie akademickie abstrakcje - kształtują sposób, w jaki rozumiemy człowieka, projektujemy badania i prowadzimy terapię. Świadomość tych założeń pozwala psychologowi działać refleksyjnie, a nie jedynie nawykowo.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

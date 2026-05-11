@@ -69,17 +69,15 @@ Przy wyborze platformy do e-terapii terapeuta lub instytucja powinna ocenić:
 5. **Koszty** - model subskrypcyjny, per-session lub instytucjonalny
 6. **Wsparcie regulacyjne** - zgodność z lokalnymi przepisami o zawodzie psychologa
 
-## Podsumowanie
+## Perspektywa nieoczywista
+
+
 
 Ekosystem platform e-terapii jest bogaty, zróżnicowany i stale rosnący. Wybór odpowiedniego narzędzia wymaga refleksji nad potrzebami klinicznymi, wymogami prawnymi i standardami etycznymi - bo platforma, choć jest jedynie narzędziem, kształtuje jakość relacji terapeutycznej i bezpieczeństwo danych wrażliwych, na których spoczywa fundamentalne zaufanie klienta.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

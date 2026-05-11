@@ -69,17 +69,13 @@ Rehabilitacja jest znacznie skuteczniejsza, gdy angażuje bliskich. Rodzina moż
 
 Pacjent po udarze niedokrwiennym z afazją i dysfunkcją pamięci operacyjnej. Rehabilitacja obejmuje: codzienne ćwiczenia komputerowe pamięci, trening strategii kompensacyjnych (planista, alarmy), terapię indywidualną lęku i pracy nad tożsamością, psychoedukację rodziny. Po 3 miesiącach pacjent wraca do pracy w niepełnym wymiarze.
 
-## Podsumowanie
+
 
 Rehabilitacja psychologiczna to długotrwały, wielowymiarowy proces wymagający współpracy pacjenta, rodziny i interdyscyplinarnego zespołu. Wczesne włączenie psychologa do procesu leczenia i indywidualizacja interwencji istotnie poprawiają rokowanie i jakość życia.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

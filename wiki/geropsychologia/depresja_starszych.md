@@ -135,17 +135,13 @@ Działania zapobiegawcze mają istotne znaczenie:
 - Leczenie bólu chronicznego i innych stanów somatycznych
 - Redukcja polipragmazji - przegląd leków
 
-## Podsumowanie
+
 
 Depresja u seniorów jest poważnym zaburzeniem o często atypowym obrazie klinicznym, które jest zbyt rzadko rozpoznawane i leczone. Skuteczne metody terapeutyczne - zarówno psychologiczne, jak i farmakologiczne - są dostępne. Kluczem do poprawy sytuacji jest podniesienie świadomości klinicystów, seniorów i ich rodzin oraz destigmatyzacja pomocy psychologicznej w tej grupie wiekowej.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

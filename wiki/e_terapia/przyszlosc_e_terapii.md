@@ -53,17 +53,15 @@ Szybki rozwój technologiczny wyprzedza regulacje. Kluczowe wyzwania regulacyjne
 
 Pomimo technologicznego entuzjazmu, fundamentalnym wyzwaniem pozostaje zachowanie humanistycznej istoty terapii: relacji, empatii, autentycznego spotkania człowieka z człowiekiem. Badania konsekwentnie wskazują, że czynniki wspólne terapii - sojusz terapeutyczny, poczucie bycia zrozumianym, nadzieja - są równie ważne (lub ważniejsze) niż specyficzne techniki. Żaden algorytm nie zastąpi autentycznej obecności terapeuty - przynajmniej nie w dającej się przewidzieć przyszłości.
 
-## Podsumowanie
+## Perspektywa nieoczywista
+
+
 
 Przyszłość e-terapii jest ekscytująca i pełna możliwości - ale też obarczona poważnymi pytaniami etycznymi i społecznymi. Kluczowym zadaniem środowiska psychologicznego jest aktywne kształtowanie tej przyszłości: przez badania naukowe, udział w procesach regulacyjnych i nieustanną refleksję nad tym, co w opiece nad zdrowiem psychicznym jest niezbędne - i czego nie można zdigitalizować.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

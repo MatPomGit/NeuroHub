@@ -1,4 +1,4 @@
-# 30. Farmakogenetyka leków psychotropowych
+﻿# 30. Farmakogenetyka leków psychotropowych
 
 ## Wprowadzenie
 Farmakogenetyka analizuje, jak warianty genetyczne wpływają na metabolizm, skuteczność i tolerancję leków psychotropowych. Najczęściej dotyczy genów enzymów CYP oraz wybranych markerów farmakodynamicznych.
@@ -12,14 +12,18 @@ Farmakogenetyka analizuje, jak warianty genetyczne wpływają na metabolizm, sku
 W praktyce klinicznej testy mają największą wartość u pacjentów z nietypową tolerancją, wieloma niepowodzeniami leczenia lub wysokim ryzykiem interakcji. Nie zastępują jednak oceny klinicznej.
 
 ## Praktyczne przykłady
-Dobra praktyka: używanie testów jako narzędzia wspierającego, nie decydującego autonomicznie.
-Zła praktyka: „genetyczny determinizm” i pomijanie obrazu klinicznego.
+### Dobra praktyka
+
+używanie testów jako narzędzia wspierającego, nie decydującego autonomicznie.
+### Zła praktyka
+
+„genetyczny determinizm” i pomijanie obrazu klinicznego.
 Konsekwencja: ryzyko nadinterpretacji wyników.
 
 ## Perspektywa nieoczywista
 W praktyce klinicznej największe korzyści przynosi nie maksymalizacja liczby interwencji, lecz **precyzyjne ograniczanie leczenia do elementów o najwyższej wartości dodanej**. To podejście bywa mniej intuicyjne niż „eskalacja terapii”, ale często poprawia współpracę, bezpieczeństwo i długofalowe wyniki.
 
-## Podsumowanie
+
 Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dane naukowe, monitoring efektów oraz współdecydowanie z pacjentem. Wysoka jakość leczenia wynika z konsekwentnej ewaluacji korzyści i ryzyka na każdym etapie terapii.
 
 ## Bibliografia
@@ -28,5 +32,7 @@ Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dan
 - NICE. (2022-2025). Guidance on mental health and pharmacological treatment (living updates).
 - WHO. (2023). ICD-11 Clinical Descriptions and Diagnostic Guidelines.
 - Meyer, J. M., & Quenzer, L. F. (2018). Psychopharmacology: Drugs, the Brain, and Behavior (3rd ed.).
+
+
 
 

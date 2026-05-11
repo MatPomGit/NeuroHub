@@ -135,17 +135,13 @@ Dzieci w środowisku gier online są narażone na specyficzne zagrożenia:
 
 Polskie prawo zobowiązuje rodziców do sprawowania opieki nad dziećmi w środowisku online, a platformy takie jak Steam czy Xbox mają funkcje kontroli rodzicielskiej, które ograniczają dostęp do nieodpowiednich gier.
 
-## Podsumowanie
+
 
 Gry wideo mogą być wartościowym elementem życia dziecka i nastolatka, rozwijając kompetencje poznawcze i społeczne. Kluczowe są jednak: dopasowanie treści do wieku, zdrowe granice czasowe, aktywne zaangażowanie rodziców i balans z innymi aktywnościami. Klinicysta oceniający granie dziecka powinien unikać automatycznej patologizacji i opierać ocenę na całościowym obrazie funkcjonowania.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

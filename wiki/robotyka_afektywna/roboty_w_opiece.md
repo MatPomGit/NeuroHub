@@ -93,17 +93,13 @@ Ryzyko, że roboty będą zastępować - a nie uzupełniać - kontakt z ludzkimi
 
 Roboty opiekuńcze zbierają wrażliwe dane o zdrowiu, zachowaniu i codziennym życiu użytkowników.
 
-## Podsumowanie
+
 
 Roboty terapeutyczne i opiekuńcze wykazują realną skuteczność kliniczną potwierdzoną badaniami. Ich wdrożenie wymaga jednak głębokiej refleksji etycznej i zrozumienia psychologicznych mechanizmów, które czynią je skutecznymi - by technologia służyła dobrostanowi człowieka, a nie go zastępowała.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

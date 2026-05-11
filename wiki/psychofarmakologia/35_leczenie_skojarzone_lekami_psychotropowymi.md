@@ -1,4 +1,4 @@
-# 35. Leczenie skojarzone za pomocą leków psychotropowych
+﻿# 35. Leczenie skojarzone za pomocą leków psychotropowych
 
 ## Wprowadzenie
 Leczenie skojarzone może być zasadne przy częściowej odpowiedzi, oporności lub złożonym obrazie objawowym. Wymaga jednak jasnej hipotezy mechanistycznej i planu monitorowania.
@@ -12,14 +12,18 @@ Leczenie skojarzone może być zasadne przy częściowej odpowiedzi, oporności 
 Każdy dodatkowy lek zwiększa ryzyko interakcji farmakokinetycznych i farmakodynamicznych, dlatego łączenie powinno być czasowo i klinicznie uzasadnione.
 
 ## Praktyczne przykłady
-Dobra praktyka: jeden cel kliniczny na jedną modyfikację i ocena efektu po ustalonym czasie.
-Zła praktyka: wielokrotne zmiany naraz bez możliwości atrybucji efektu.
+### Dobra praktyka
+
+jeden cel kliniczny na jedną modyfikację i ocena efektu po ustalonym czasie.
+### Zła praktyka
+
+wielokrotne zmiany naraz bez możliwości atrybucji efektu.
 Konsekwencja: utrata kontroli nad bezpieczeństwem terapii.
 
 ## Perspektywa nieoczywista
 W praktyce klinicznej największe korzyści przynosi nie maksymalizacja liczby interwencji, lecz **precyzyjne ograniczanie leczenia do elementów o najwyższej wartości dodanej**. To podejście bywa mniej intuicyjne niż „eskalacja terapii”, ale często poprawia współpracę, bezpieczeństwo i długofalowe wyniki.
 
-## Podsumowanie
+
 Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dane naukowe, monitoring efektów oraz współdecydowanie z pacjentem. Wysoka jakość leczenia wynika z konsekwentnej ewaluacji korzyści i ryzyka na każdym etapie terapii.
 
 ## Bibliografia
@@ -28,5 +32,7 @@ Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dan
 - NICE. (2022-2025). Guidance on mental health and pharmacological treatment (living updates).
 - WHO. (2023). ICD-11 Clinical Descriptions and Diagnostic Guidelines.
 - Meyer, J. M., & Quenzer, L. F. (2018). Psychopharmacology: Drugs, the Brain, and Behavior (3rd ed.).
+
+
 
 

@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-28
 reviewCycleMonths: 12
 evidenceCutoffDate: 2026-03-31
@@ -43,14 +43,14 @@ Model McGoldrick i Carter był krytykowany za skupienie na rodzinach nuklearnych
 
 Nieprzewidywalne kryzysy (śmierć dziecka, ciężka choroba, migracja wymuszona) zaburzają naturalny rytm cyklu - rodzina musi jednocześnie radzić sobie z traumą i kontynuować zadania rozwojowe fazy, w której się znalazła. To podwójne obciążenie jest częstym źródłem dysfunkcji - i ważnym kontekstem diagnostycznym dla terapeuty systemowego.
 
-## Dobra praktyka
+## Praktyczne przykłady
 
+### Dobra praktyka
 Terapeuta, pracując z parą skarżącą się na nasilone konflikty po urodzeniu pierwszego dziecka, rozumie tę sytuację jako kryzys tranzycyjny fazy III. Pomaga parze zrozumieć, że ich trudności nie są dowodem nieudanego związku, lecz normalną reorganizacją, w której każde z nich adaptuje się do nowej roli rodzicielskiej, nie tracąc roli partnera. Sesje skupiają się na budowaniu nowych rytuałów partnerskich i redefinicji oczekiwań wobec drugiej strony.
 
 **Konsekwencje:** normalizacja kryzysu, zmniejszenie wzajemnych oskarżeń, konkretna praca nad adaptacją do nowej fazy.
 
-## Zła praktyka
-
+### Zła praktyka
 Terapeuta interpretuje konflikty pary po urodzeniu dziecka jako wyraz głębokich problemów charakterologicznych jednego z partnerów lub fundamentalnej niezgodności. Pomija kontekst tranzycyjny i proponuje długoterminową terapię indywidualną obu stron bez pracy ze zmianami systemowymi.
 
 **Konsekwencje:** przegapiona okazja do krótkoterminowej, systemowej interwencji; nasilenie poczucia winy i wzajemnych pretensji.
@@ -59,7 +59,7 @@ Terapeuta interpretuje konflikty pary po urodzeniu dziecka jako wyraz głębokic
 
 Cykl życia rodziny często jest prezentowany jako sekwencja „normalnych" i „problematycznych" faz. Warto jednak zauważyć, że samo definiowanie normy cyklu jest głęboko kulturowe i historyczne. W wielu kulturach tradycyjnych „opuszczenie gniazda" nie istnieje - dzieci pozostają z rodzicami przez całe życie. Rodziny rekonstruowane przeżywają jednocześnie kilka faz z różnych linii rodzinnych. Terapeuta systemowy powinien traktować model cyklu jako mapę pomocniczą, nie jako normę, wobec której ocenia rodzinę - bo mapa to nie teren.
 
-## Podsumowanie
+
 
 Model cyklu życia rodziny dostarcza terapeucie użytecznej siatki pojęciowej do rozumienia kryzysów i trudności w kontekście przewidywalnych tranzycji rozwojowych. Rozróżnienie między kryzysem normatywnym a paranormatywnym, zrozumienie zadań każdej fazy i wrażliwość na wielopokoleniowy kontekst tranzycji pozwala precyzyjniej diagnozować i projektować interwencje - unikając zarówno nadmiernej patologizacji, jak i bagatelizowania realnych trudności.
 
@@ -71,3 +71,5 @@ Model cyklu życia rodziny dostarcza terapeucie użytecznej siatki pojęciowej d
 4. Nichols, M. P., & Davis, S. D. (2020). *Family Therapy: Concepts and Methods* (12th ed.). Pearson.
 5. Walsh, F. (2016). *Strengthening Family Resilience* (3rd ed.). Guilford Press.
 6. Combrinck-Graham, L. (1985). A developmental model for family systems. *Family Process, 24*(2), 139–150.
+
+

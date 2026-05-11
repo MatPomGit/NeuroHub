@@ -56,17 +56,13 @@ Optymizm i nadzieja wykazują szerokie pozytywne korelaty:
 
 Badania Carver i Scheier wskazują, że optymiści częściej stosują aktywne strategie radzenia sobie, a rzadziej zaprzeczenie i ucieczkę - nawet w obliczu poważnych wyzwań zdrowotnych.
 
-## Podsumowanie
+
 
 Optymizm i nadzieja są empirycznie ugruntowanymi konstruktami psychologii pozytywnej, które wyjaśniają, dlaczego część ludzi radzi sobie lepiej z wyzwaniami życiowymi. Optymizm dyspozycyjny (Scheier i Carver) i nauczony optymizm Seligmana, mimo różnic metodologicznych, zbiegają się w jednym wniosku: nastawienie na pozytywne wyniki i plastyczny styl myślenia o przyczynach zdarzeń chronią zdrowie, wspierają osiągnięcia i wzmacniają dobrostan - i mogą być kształtowane przez celowe interwencje psychologiczne.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

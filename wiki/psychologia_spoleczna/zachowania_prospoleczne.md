@@ -114,7 +114,7 @@ Martin Hoffman (2000) opisał rozwój empatii od prymitywnego zarażenia emocjon
 
 Feshbach i Feshbach (1969) wykazali ujemną korelację między empatią a agresją u dzieci - empatia jest naturalnym hamulcem zachowań antyspołecznych.
 
-## Podsumowanie
+
 
 Zachowania prospołeczne mają wielorakie korzenie: ewolucyjne (selekcja krewnych, altruizm odwzajemniony), emocjonalne (empatia, Batson), poznawcze (model decyzyjny Latané-Darleya) i normatywne (wzajemność, odpowiedzialność, sprawiedliwość). Psychologia wolontariatu i modele moralnego rozwoju (Kohlberg, Gilligan) wzbogacają obraz o wymiar indywidualny i kulturowy. Wniosek jest optymistyczny: prospołeczność nie jest wyjątkiem w naturze ludzkiej, lecz fundamentem, na którym zbudowane są współpracujące społeczeństwa.
 
@@ -132,13 +132,9 @@ Zachowania prospołeczne mają wielorakie korzenie: ewolucyjne (selekcja krewnyc
 - Latané, B., & Darley, J. M. (1970). *The Unresponsive Bystander: Why Doesn't He Help?* Appleton-Century-Crofts.
 - Trivers, R. L. (1971). The evolution of reciprocal altruism. *Quarterly Review of Biology, 46*(1), 35–57.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

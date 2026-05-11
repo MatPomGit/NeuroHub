@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-28
 reviewCycleMonths: 12
 evidenceCutoffDate: 2026-03-31
@@ -37,14 +37,14 @@ Wzorce triangulacji mogą być transmitowane przez pokolenia. Matka, która jako
 
 Koalicje są szkodliwe o tyle, o ile naruszają hierarchię i granice podsystemów. Koalicja rówieśnicza (np. rodzeństwo solidarne wobec zasad rodziców) jest normalnym zjawiskiem rozwojowym. Koalicja pokoleniowa (rodzic–dziecko przeciw drugiemu rodzicowi) łamie granice podsystemu rodzicielskiego i nadaje dziecku władzę, z którą nie jest ono w stanie sobie poradzić.
 
-## Dobra praktyka
+## Praktyczne przykłady
 
+### Dobra praktyka
 Terapeuta rodzinny zauważa, że nastoletnią córkę matka regularnie informuje o szczegółach konfliktów małżeńskich i prosi o opinię. W sesji terapeuta bezpośrednio nazywa ten wzorzec (nie oceniając intencji matki), następnie pracuje z rodzicami nad stworzeniem bezpiecznego, prywatnego przestrzeni dla ich konfliktu - oddzielonej od relacji z córką. Prosi matkę, by następnym razem, gdy poczuje potrzebę rozmowy z córką o małżeństwie, zadzwoniła do przyjaciółki lub umówiła się na sesję terapeutyczną.
 
 **Konsekwencje:** córka zostaje zwolniona z roli doradcy małżeńskiego, jej lęk spada, rodzice uczą się budować własny system wsparcia poza relacją rodzic–dziecko.
 
-## Zła praktyka
-
+### Zła praktyka
 Terapeuta, chcąc zrozumieć sytuację, prosi każdego z rodziców o opisanie problemu oddzielnie, a następnie rozmawia z dzieckiem, pytając o to, co według niego jest powodem napięć w domu. Nieświadomie podtrzymuje w ten sposób rolę dziecka jako eksperta od małżeństwa rodziców.
 
 **Konsekwencje:** utrwalenie trójkąta, pogłębienie poczucia odpowiedzialności dziecka za relację rodziców, brak zmiany systemowej.
@@ -53,7 +53,7 @@ Terapeuta, chcąc zrozumieć sytuację, prosi każdego z rodziców o opisanie pr
 
 Triangulacja jest powszechnie postrzegana jako zjawisko dysfunkcyjne i szkodliwe. Warto jednak zauważyć, że ludzka skłonność do tworzenia trójkątów jest też wyrazem zasobu - szukania wsparcia, dzielenia się ciężarem i tworzenia koalicji. Problem nie leży w samym angażowaniu innych, lecz w trwałym, nierozwiązującym napięcie, a jedynie je maskującym wzorcu. Terapia systemowa uczy nie tego, by być wyspą - lecz by budować sieć wsparcia, która nie wymaga od jej węzłów pełnienia funkcji emocjonalnych regulatorów konfliktów innych.
 
-## Podsumowanie
+
 
 Triangulacja i koalicje są jednymi z najbardziej fundamentalnych i dobrze zbadanych wzorców w terapii systemowej. Zrozumienie, jak trójkąty formują się, stabilizują i transmitują między pokoleniami, pozwala terapeucie precyzyjnie diagnozować i interweniować w złożone systemy rodzinne. Detrianglowanie - wycofywanie się z angażowania emocjonalnego konfliktu innych - jest jedną z kluczowych umiejętności zarówno terapeutów, jak i każdego, kto chce rozwijać dojrzałe relacje.
 
@@ -65,3 +65,5 @@ Triangulacja i koalicje są jednymi z najbardziej fundamentalnych i dobrze zbada
 4. Minuchin, S. (1974). *Families and Family Therapy*. Harvard University Press.
 5. Titelman, P. (Ed.). (2003). *Triangles: Bowen Family Systems Theory Perspectives*. Haworth Press.
 6. Nichols, M. P., & Davis, S. D. (2020). *Family Therapy: Concepts and Methods* (12th ed.). Pearson.
+
+

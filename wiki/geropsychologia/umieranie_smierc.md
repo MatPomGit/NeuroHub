@@ -76,17 +76,13 @@ Komunikaty powinny być proste, jasne i dostosowane do możliwości poznawczych 
 
 Żałoba bliskich może przebiegać w bardzo różny sposób. Sygnały ryzyka żałoby powikłanej to m.in. utrzymująca się dezorganizacja funkcjonowania, silne poczucie winy i długotrwałe unikanie kontaktu z rzeczywistością straty. W takich sytuacjach potrzebna jest specjalistyczna pomoc.
 
-## Podsumowanie
+
 
 Umieranie i śmierć w geropsychologii wymagają podejścia opartego na empatii, godności i dialogu. Najważniejsze cele to redukcja cierpienia, wzmacnianie poczucia sensu oraz wsparcie rodziny przed i po stracie.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

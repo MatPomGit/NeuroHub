@@ -182,7 +182,8 @@ CBT bezpośrednio pracuje z atrybucjami przez:
 
 Atrybucje odgrywają kluczową rolę w zeznaniach świadków, orzeczeniach sądowych i ocenie wiarygodności. FAE może prowadzić do fałszywych skazań, gdy zachowanie oskarżonego jest atrybucjonowane do wewnętrznych cech (jest przestępcą), a nie do czynników sytuacyjnych (bieda, trauma).
 
-## Podsumowanie: kluczowe idee
+
+Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.: kluczowe idee
 
 | Koncepcja | Autor | Główne twierdzenie |
 |-----------|-------|-------------------|
@@ -202,18 +203,12 @@ Atrybucje odgrywają kluczową rolę w zeznaniach świadków, orzeczeniach sądo
 - Fiske, S. T., & Taylor, S. E. (2008). *Social Cognition: From Brains to Culture*. McGraw-Hill.
 - Aronson, E., Wilson, T. D., & Akert, R. M. (2020). *Social Psychology* (10th ed.). Pearson.
 
-
-
-
 ## Perspektywa nieoczywista
-
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
 
 ## Podsumowanie
 
-Najważniejszy wniosek jest taki, że rzetelne rozumienie omawianego tematu wymaga łączenia definicji, danych empirycznych i konsekwencji praktycznych. Skuteczne działania opierają się na dopasowaniu metod do celu, monitorowaniu efektów oraz świadomym zarządzaniu ograniczeniami. Jednocześnie należy zachować ostrożność wobec nadmiernych uogólnień, bo jakość wniosków zależy od kontekstu i jakości pomiaru. Włączenie perspektywy alternatywnej zwiększa trafność diagnozy i użyteczność interwencji. Ostatecznie to właśnie integracja wiedzy teoretycznej z praktyką decyduje o wartości edukacyjnej i klinicznej artykułu.
 
+## Podsumowanie
 
 ## Bibliografia
 

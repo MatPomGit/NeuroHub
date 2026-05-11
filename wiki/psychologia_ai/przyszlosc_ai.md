@@ -128,17 +128,13 @@ Psycholodzy mają istotną rolę do odegrania w kształtowaniu polityk regulacji
 - Projektowanie regulacji chroniących autonomię i zdrowie psychiczne
 - Edukacja regulatorów, decydentów i opinii publicznej
 
-## Podsumowanie
+
 
 Przyszłość relacji człowiek-AI jest otwarta - zależy nie tylko od technologii, ale od wyborów, jakich dokonamy jako jednostki, społeczeństwa i cywilizacja. Psychologia ma do odegrania kluczową rolę: rozumieć, jak te relacje wpływają na nas, i pomagać projektować je tak, by służyły ludzkiemu dobrostanowi. Najważniejsza lekcja płynąca z badań psychologicznych jest prosta: technologia jest narzędziem. To, czy stanie się narzędziem wyzwolenia czy zniewolenia, zależy od nas.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

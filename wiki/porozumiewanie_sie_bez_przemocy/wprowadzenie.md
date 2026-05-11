@@ -75,7 +75,7 @@ Krytycy zwracają uwagę na:
 
 Mimo to badania wskazują na skuteczność NVC w poprawie jakości relacji, redukcji konfliktu i wzroście empatii.
 
-## Podsumowanie
+
 
 Porozumiewanie się bez przemocy to nie tylko technika komunikacji, ale przede wszystkim filozofia relacji - przekonanie, że każdy człowiek jest godny szacunku, a jego potrzeby zasługują na uwagę. NVC uczy słuchania z empatią i mówienia z autentycznością, co stanowi fundament zdrowych relacji interpersonalnych.
 
@@ -83,13 +83,9 @@ Porozumiewanie się bez przemocy to nie tylko technika komunikacji, ale przede w
 
 *Zob. też: Cztery komponenty NVC, Język szakala i żyrafy, Empatia w NVC, Autoempatia*
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

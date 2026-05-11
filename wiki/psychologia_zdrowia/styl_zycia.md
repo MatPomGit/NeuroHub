@@ -56,17 +56,13 @@ Skuteczne metody wspierania zmiany stylu życia:
 
 Mężczyzna w wieku 50 lat po zawale serca „wie, że powinien" zmienić dietę i zacząć ćwiczyć, ale po dwóch tygodniach wraca do starych nawyków. W pracy z psychologiem identyfikuje kluczowe bariery (stres w pracy, brak struktury wolnego czasu), planuje mikro-kroki (10 min spaceru po kolacji, jeden owoc zamiast słodyczy) i monitoruje postępy.
 
-## Podsumowanie
+
 
 Styl życia jest determinantą zdrowia, na którą człowiek ma realny, choć ograniczony przez kontekst wpływ. Skuteczna zmiana wymaga nie tylko wiedzy i woli, lecz środowiskowego wsparcia, pracy z motywacją i nawykami oraz psychologicznego zrozumienia mechanizmów zmiany.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

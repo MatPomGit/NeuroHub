@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-05-04
 reviewCycleMonths: 18
 evidenceCutoffDate: 2026-03-31
@@ -32,7 +32,7 @@ Religijność rozwija się w sieci relacji: rodzina, rówieśnicy, wspólnota, m
 - W wielu społeczeństwach obserwuje się spadek regularnych praktyk instytucjonalnych przy równoczesnym utrzymaniu deklaracji duchowości, co sugeruje reorganizację form religijności, a nie jej prosty zanik.
 - Analizy podłużne pokazują, że stabilna religijność wewnętrzna częściej wiąże się z wyższym poczuciem sensu i lepszą regulacją stresu niż religijność oparta wyłącznie na presji społecznej.
 
-## Dobra praktyka
+## Praktyczne przykłady
 W edukacji, duszpasterstwie i poradnictwie warto traktować pytania i wątpliwości jako naturalny element rozwoju, a nie jako automatyczny sygnał "kryzysu wiary". Dobrze działają podejścia, które łączą psychoedukację rozwojową z dialogiem i autonomią poznawczą.
 
 **Konsekwencje:** większa dojrzałość tożsamościowa, mniejsze ryzyko polaryzacji światopoglądowej, trwalsza integracja wartości z codziennym działaniem.
@@ -50,7 +50,7 @@ W części badań podłużnych taki "powrót" pojawia się po dużych wydarzenia
 ## Perspektywa nieoczywista
 Rozwój religijności nie musi oznaczać ruchu "więcej lub mniej religii". Często jest to przejście od religijności reprodukowanej społecznie do religijności refleksyjnej, bardziej świadomej swoich granic i zasobów. Taka perspektywa pozwala lepiej rozumieć zjawiska, które w debacie publicznej wyglądają jak prosta sekularyzacja.
 
-## Podsumowanie
+
 - Rozwój religijności ma charakter dynamiczny i nieliniowy.
 - Kluczowe są interakcje między rozwojem poznawczym, relacjami i wydarzeniami życiowymi.
 - Pomiar oparty wyłącznie na częstości praktyk jest metodologicznie niewystarczający.
@@ -64,3 +64,4 @@ Rozwój religijności nie musi oznaczać ruchu "więcej lub mniej religii". Czę
 5. Pew Research Center. (2024). *Around the World, Many People Are Leaving Their Childhood Religions*.
 6. Koenig, H. G. (2023). Religion, spirituality, and mental health: An updated review. *International Review of Psychiatry*, 35(7-8), 583-599.
 7. Hill, P. C., et al. (2021). Methodological challenges in the psychology of religion. *Archive for the Psychology of Religion*, 43(3), 187-205.
+

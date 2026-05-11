@@ -64,17 +64,13 @@ Kwestia świadomości maszyn ma bezpośrednie implikacje:
 - **etyka** - czy wolno „wyłączyć" robota, który wykazuje preferencję trwania?
 - **prawo** - czy roboty powinny mieć status prawny podobny do zwierząt?
 
-## Podsumowanie
+
 
 Pytanie o świadomość maszyn pozostaje otwarte. Postęp w kognitywistyce, neuronauce i AI stopniowo dostarcza narzędzi do jego eksploracji. Niezależnie od odpowiedzi, refleksja nad podmiotowością maszyn kształtuje sposób, w jaki projektujemy robotykę afektywną i definiujemy relację człowiek–maszyna.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

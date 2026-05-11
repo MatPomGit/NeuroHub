@@ -89,17 +89,13 @@ Viktor Frankl opublikował ponad 30 książek, przetłumaczonych na 50 języków
 - **Psychologię egzystencjalną** Yaloma i May;
 - **Psychoonkologię** i opiekę paliatywną.
 
-## Podsumowanie
+
 
 Logoterapia Frankla to odpowiedź na fundamentalne pytanie ludzkiej egzystencji: *„Po co żyję?"* Człowiek nie może zawsze wybrać, co go spotka, ale zawsze może wybrać, jak na to odpowie. Ta wolność odpowiedzi jest - według Frankla - ostatnim bastionem ludzkiej godności i źródłem zdrowia psychicznego. Terapia logoterapeutyczna nie daje gotowych odpowiedzi, lecz towarzyszy pacjentowi w osobistym poszukiwaniu sensu, który jest zawsze unikalny i niepowtarzalny dla każdego człowieka.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

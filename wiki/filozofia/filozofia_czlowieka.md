@@ -60,17 +60,13 @@ Hegel i hermeneutycy podkreślali, że człowiek jest istotą **historyczną i k
 
 **Transhumanizm** pyta: czy człowiek powinien i może przekraczać własne biologiczne ograniczenia za pomocą technologii (biotechnologia, neuromodulacja, sztuczna inteligencja)? Czy wzmocnienie poznawcze lub wydłużenie życia nie narusza „natury ludzkiej"? Odpowiedź na te pytania zakłada wcześniejsze rozstrzygnięcia filozoficzne o tym, czym owa „natura" jest.
 
-## Podsumowanie
+
 
 Filozofia człowieka jest fundamentem refleksji psychologicznej nad sensem własnej pracy. Każda decyzja kliniczna - diagnoza, interwencja, granice poufności - zakłada jakiś obraz człowieka: wolnego lub zdeterminowanego, godnego bezwarunkowego szacunku lub ocenianego wedle kryteriów normalności. Uświadomienie sobie własnej antropologii filozoficznej pozwala pracować bardziej spójnie, etycznie i humanistycznie.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

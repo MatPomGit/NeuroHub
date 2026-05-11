@@ -135,17 +135,13 @@ Decyzja WHO o włączeniu Gaming Disorder do ICD-11 nie jest wolna od kontrowers
 
 Zwolennicy diagnozy odpowiadają, że kliniczne przypadki wyraźnie wskazują na poważne cierpienie i upośledzenie funkcjonowania, co uzasadnia odrębną klasyfikację.
 
-## Podsumowanie
+
 
 Uzależnienie od gier wideo jest realnym zjawiskiem klinicznym dotykającym niewielkiej, ale znaczącej grupy graczy. Skuteczna pomoc wymaga podejścia biopsychospołecznego, uwzględniającego neurobiologiczne mechanizmy uzależnienia, psychologiczne potrzeby stojące za nadmiernym graniem oraz kontekst rodzinny i społeczny osoby. Kluczowe jest odróżnienie patologicznego grania od intensywnej, ale kontrolowanej pasji.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

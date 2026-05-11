@@ -400,7 +400,7 @@ Choć RDoC nie zastępuje DSM/ICD w codziennej pracy diagnostycznej, może być 
 
 Dla psychiatry pracującego w Polsce praktycznym krokiem startowym jest **formulacja RDoC-inspirowana**: po postawieniu rozpoznania DSM/ICD dodatkowo opisuje się dominujące profile dysregulacji konstruktów i hipotezę mechanizmu - bez konieczności formalnego odejścia od kategorii.
 
-## Podsumowanie
+
 
 Model RDoC stanowi istotną zmianę paradygmatu w psychopatologii i diagnozie psychologicznej. Odchodząc od opisowych kategorii w kierunku wymiarów biologicznie zakotwiczonych, otwiera drogę do precyzyjnej diagnostyki i spersonalizowanego leczenia. Jego wartość jest szczególnie wysoka w neuropsychologii, gdzie mapowanie deficytów na konkretne obwody nerwowe jest zarówno możliwe, jak i klinicznie użyteczne.
 
@@ -458,13 +458,9 @@ Wpisy bibliograficzne zapisuj konsekwentnie w APA 7 oraz dodawaj DOI/URL i oznac
 - Wakefield, J.C. (2014). Wittgenstein's nightmare: Why the RDoC grid needs a conceptual dimension. *World Psychiatry*, 13(1), 38–40.
 - Weinberger, D.R. et al. (2015). Schizophrenia as a disorder of prefrontal-temporal network failure: a model of network dysfunction. *Schizophrenia Bulletin*, 41(6), 1211–1227.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

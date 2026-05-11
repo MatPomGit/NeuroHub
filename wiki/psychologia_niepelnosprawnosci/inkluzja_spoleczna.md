@@ -82,17 +82,13 @@ Wsparcie: dofinansowanie PFRON, job coaching, pracownia chroniona, firmy społec
 - wspieranie osób z NP w dochodzeniu swoich praw,
 - współpraca z rzecznikami praw osób z NP.
 
-## Podsumowanie
+
 
 Inkluzja społeczna to nie przywilej, lecz prawo i warunek godnego życia. Jej realizacja wymaga wielopoziomowych zmian - prawnych, architektonicznych, edukacyjnych i kulturowych. Psycholog odgrywa ważną rolę zarówno w indywidualnym wsparciu osób z niepełnosprawnościami, jak i w budowaniu środowisk, które rzeczywiście są otwarte na wszystkich.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

@@ -121,7 +121,7 @@ Formułowanie jest **hipotezą roboczą**, nie diagnozą ostateczną. Powinno by
 
 ---
 
-## Podsumowanie
+
 
 Formułowanie przypadku klinicznego jest fundamentalnym narzędziem pracy psychologa i psychoterapeuty. Niezależnie od nurtu - poznawczo-behawioralnego, psychodynamicznego czy systemowego - dobre formułowanie integruje dane biologiczne, psychologiczne i społeczne w model, który *rozumie* pacjenta, nie tylko go klasyfikuje. Model 5P zapewnia dostępne, eklektyczne ramy, które można zastosować w każdym kontekście klinicznym. Kluczem jest traktowanie formułowania jako dynamicznej, współtworzonej hipotezy, która służy przede wszystkim dobrostanowi pacjenta.
 
@@ -138,13 +138,9 @@ Formułowanie przypadku klinicznego jest fundamentalnym narzędziem pracy psycho
 - Weerasekera, P. (1996). *Multiperspective Case Formulation: A Step Towards Treatment Integration*. Krieger.
 - American Psychiatric Association. (2013). *Diagnostic and Statistical Manual of Mental Disorders* (5th ed.). APA. [Cultural Formulation Interview, s. 749–759]
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

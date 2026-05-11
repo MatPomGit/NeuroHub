@@ -58,7 +58,7 @@ Jeśli odwrócone qualia są możliwe, to qualia nie są funkcją - dwa identycz
 
 > **Fakt:** Argument ze spektrum odwróconego pojawił się już u Johna Locke'a w *Rozważaniach dotyczących rozumu ludzkiego* (1689), gdzie pytał, czy różne osoby mogą mieć odmienne doświadczenia tych samych kolorów, nie wiedząc o tym.
 
-## Podsumowanie
+
 
 Filozoficzne zombie to nie spekulacja sci-fi, lecz precyzyjny instrument filozoficzny. Chalmers używa go, by wykazać, że żaden opis fizyczny ani funkcjonalny nie jest w stanie wyczerpać świadomości fenomenalnej. Odpowiedzi fizykalistów - Dennettowski eliminatywizm, teoria identyczności, funkcjonalizm - zmagają się z tym argumentem od dziesięcioleci bez decydującego rozstrzygnięcia. Dylemat p-zombie pozostaje jednym z centralnych problemów filozofii umysłu, ponieważ dotyka najgłębszego pytania: dlaczego w ogóle cokolwiek *jest jak bycie czymś*?
 
@@ -71,13 +71,9 @@ Filozoficzne zombie to nie spekulacja sci-fi, lecz precyzyjny instrument filozof
 - Block, N. (1995). *On a Confusion about a Function of Consciousness*. Behavioral and Brain Sciences, 18(2).
 - Nagel, T. (1974). *What Is It Like to Be a Bat?* Philosophical Review, 83(4).
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

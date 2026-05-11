@@ -67,17 +67,13 @@ Najsilniej chronią:
 
 Pacjent z nadciśnieniem raportuje „skoki” ciśnienia głównie w okresach konfliktów zawodowych. Obok leczenia farmakologicznego wdrożono monitorowanie stresorów, krótkie przerwy oddechowe 3 razy dziennie i zmianę sposobu planowania zadań. Po kilku tygodniach pacjent zgłasza mniejszą drażliwość i lepszą kontrolę objawów.
 
-## Podsumowanie
+
 
 Stres jest naturalnym elementem życia, ale jego przewlekła forma stanowi istotny czynnik ryzyka zdrowotnego. W praktyce klinicznej najskuteczniejsze jest łączenie leczenia medycznego z psychologicznym zarządzaniem stresem.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

@@ -59,17 +59,13 @@ Wpływy hermeneutyki na praktykę psychologiczną są rozległe:
 - **Hermeneutyczne podejście do diagnostyki** - diagnoza jest interpretacją, nie odkryciem - zawsze zapośredniczoną przez teorię, język i kontekst kulturowy.
 - **Rozumienie pacjenta** - terapeuta hermeneutyczny jest świadom własnego przedrozumienia i stara się je ujawniać, by nie narzucać pacjentowi cudzego sensu.
 
-## Podsumowanie
+
 
 Hermeneutyka uczy pokory wobec złożoności rozumienia. Psycholog, który wierzy, że „obiektywnie odczytuje" dane z wywiadu klinicznego, ignoruje własne przedrozumienie - i przez to jego „rozumienie" jest mniej krytyczne, nie bardziej. Świadomość hermeneutyczna oznacza gotowość do rewizji własnych interpretacji, otwartość na to, że pacjent może być niespodzianką - i że koło hermeneutyczne nigdy się nie zamyka.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

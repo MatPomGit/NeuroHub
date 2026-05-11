@@ -66,17 +66,13 @@ Dopiero łączna ocena pozwala stwierdzić, czy interwencja działa klinicznie i
 
 Pacjent z nadciśnieniem chce „bardziej o siebie dbać”, ale nie utrzymuje zmian. Wspólnie z terapeutą zamienia cel ogólny na dwa zachowania: 20 minut marszu 4 razy tygodniowo i wieczorny pomiar ciśnienia. Dzięki cotygodniowej informacji zwrotnej po 8 tygodniach utrzymuje regularność i zgłasza większe poczucie kontroli.
 
-## Podsumowanie
+
 
 Skuteczne interwencje zdrowotne są krótkie, konkretne i dopasowane do człowieka, nie do „idealnego pacjenta”. Największą wartość daje połączenie wiedzy medycznej z psychologią zmiany zachowania.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

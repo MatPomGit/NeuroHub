@@ -52,17 +52,15 @@ Skuteczność VR-terapii wynika z kilku mechanizmów psychologicznych:
 
 **Generalizacja** - efekty terapii VR muszą być utrwalone w realnym środowisku. Sam trening VR bez eksplicitnego przeniesienia może nie generalizować się na codzienne funkcjonowanie.
 
-## Podsumowanie
+## Perspektywa nieoczywista
+
+
 
 VR-terapia jest jedną z najbardziej ekscytujących innowacji w klinicznej psychologii ostatnich dekad. Solidna baza dowodów dla fobii i PTSD, rosnące możliwości technologiczne i malejące koszty sprawiają, że VR staje się coraz bardziej realnym narzędziem codziennej praktyki terapeutycznej - nie zaś laboratoryjną ciekawostką.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

@@ -74,17 +74,13 @@ Model mocnych stron nie jest wolny od ograniczeń:
 
 Zdrowe stosowanie modelu mocnych stron to balans: szczere uznanie wyzwań + aktywne poszukiwanie i budowanie zasobów.
 
-## Podsumowanie
+
 
 Model mocnych stron w neuroróżnorodności to nie naiwny optymizm, lecz strategiczne i humanistyczne podejście do wspierania osób neuroatypowych. Traktując ludzi jako całość - z ich trudnościami i talentami, słabościami i mocnymi stronami - budujemy interwencje skuteczniejsze i bardziej szanujące godność człowieka niż te, które koncentrują się wyłącznie na „naprawianiu" tego, co nie działa.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

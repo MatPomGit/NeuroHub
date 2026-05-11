@@ -108,17 +108,13 @@ Badania przez internet (Qualtrics, Google Forms, Prolific) stwarzają dodatkowe 
 4. Zadbaj o procedurę bezpieczeństwa przy tematach wrażliwych (np. trauma, suicydalność)
 5. Przechowuj dane w sposób anonimowy i bezpieczny
 
-## Podsumowanie
+
 
 Etyka badań to nie biurokratyczny wymóg, ale moralna podstawa każdego naukowego projektu. Szacunek dla uczestników, rzetelność raportowania i transparentność metodologiczna budują zaufanie do psychologii jako nauki i chronią zarówno uczestników, jak i samego badacza.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

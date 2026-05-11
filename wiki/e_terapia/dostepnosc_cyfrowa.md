@@ -49,17 +49,9 @@ Osoby o niższym statusie socjoekonomicznym, mieszkańcy obszarów wiejskich i o
 
 Psycholog kliniczny lub terapeuta musi uwzględnić dostęp cyfrowy jako czynnik przy wyborze formy pomocy. Automatyczne proponowanie e-terapii bez oceny możliwości technicznych klienta jest błędem zarówno klinicznym, jak i etycznym. Obowiązek sprawiedliwego dostępu (*equity*) nakazuje aktywne poszukiwanie rozwiązań alternatywnych dla klientów wykluczonych cyfrowo.
 
-## Podsumowanie
-
-Cyfrowe wykluczenie jest realną barierą w dostępie do e-terapii i wymaga systemowej odpowiedzi: regulacyjnej, technicznej i edukacyjnej. Psycholog świadomy tej problematyki może aktywnie wspierać swoich klientów w pokonywaniu barier cyfrowych - lub świadomie wybierać modele opieki, które tych barier nie tworzą.
-
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+Cyfrowe wykluczenie jest realną barierą w dostępie do e-terapii i wymaga systemowej odpowiedzi: regulacyjnej, technicznej i edukacyjnej. Psycholog świadomy tej problematyki może aktywnie wspierać swoich klientów w pokonywaniu barier cyfrowych - lub świadomie wybierać modele opieki, które tych barier nie tworzą.
 
 ## Bibliografia
 

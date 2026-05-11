@@ -1,4 +1,4 @@
----
+﻿---
 lastReviewed: 2026-04-30
 reviewCycleMonths: 24
 evidenceCutoffDate: 2026-04-01
@@ -34,8 +34,7 @@ Projektować terapię z wykorzystaniem zachowanych kanałów: trening czytania l
 
 **Konsekwencja:** poprawa funkcjonalnej samodzielności mimo utrzymujących się ograniczeń szybkości czytania.
 
-### Zła praktyka / częsty błąd
-
+### Zła praktyka
 Traktowanie pacjenta jako „globalnie afatycznego” wyłącznie na podstawie słabego czytania.
 
 **Konsekwencja:** niedocenienie zachowanych zasobów językowych i źle dobrany plan terapii.
@@ -46,7 +45,7 @@ Pismo bywa postrzegane jako „naturalne przedłużenie mowy”. Czysta aleksja 
 
 To argument za tym, by rehabilitację czytania traktować jak trening specjalistycznej umiejętności, a nie prosty powrót do stanu sprzed uszkodzenia.
 
-## Podsumowanie
+
 
 P.S. i podobne przypadki czystej aleksji są fundamentalne dla neuropsychologii języka pisanego. Pokazują, jak selektywne uszkodzenia połączeń wzrokowo-językowych mogą prowadzić do wyraźnej dysocjacji między czytaniem a innymi funkcjami językowymi.
 
@@ -55,5 +54,6 @@ P.S. i podobne przypadki czystej aleksji są fundamentalne dla neuropsychologii 
 1. Dejerine, J. (1892). Contribution à l’étude anatomo-pathologique et clinique des différentes variétés de cécité verbale. *Mémoires de la Société de Biologie*.
 2. Cohen, L., et al. (2003). Visual word recognition in the left and right hemispheres: Anatomical and functional correlates of pure alexia. *Annals of Neurology*, 53(2), 171–181.
 3. Gaillard, R., et al. (2006). Direct intracranial, fMRI, and lesion evidence for the causal role of left VWFA in reading. *Neuron*, 50(2), 191–204.
+
 
 

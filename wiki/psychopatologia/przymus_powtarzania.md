@@ -427,19 +427,15 @@ Klinicy (szczególnie w nurcie pracy z traumą złożoną) rekomendują trójfaz
 - Warto poszukać grup wsparcia lub terapii grupowej - normalizacja doświadczenia zmniejsza izolację.
 - Uważność (*mindfulness*) i techniki regulacji ciała mogą być skutecznymi narzędziami wspierającymi terapię.
 
-## Podsumowanie
+
 
 Przymus powtarzania jest fundamentalnym mechanizmem psychologicznym łączącym traumę, zaburzenia relacyjne i neurobiologię. Opisany przez Freuda ponad sto lat temu jako paradoks zachowania, dzisiaj jest rozumiany jako wynik złożonej interakcji między traumatyczną pamięcią ciała migdałowatego, zaburzeniami funkcji hipokampa, wczesnymi modelami przywiązania i nieświadomymi strategiami przetrwania. Choć nie stanowi osobnej jednostki diagnostycznej, jego rozumienie jest niezbędne w pracy klinicznej z PTSD, zaburzeniami osobowości, uzależnieniami i dysocjacją.
 
 Skuteczne leczenie wymaga wielowymiarowego podejścia - łączącego pracę z nieświadomymi wzorcami, regulację układu nerwowego i budowanie nowych doświadczeń relacyjnych. Zmiana jest możliwa: świadomość cyklu jest pierwszym krokiem do jego przerwania.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

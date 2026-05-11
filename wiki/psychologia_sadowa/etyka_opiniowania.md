@@ -61,17 +61,13 @@ Szczególną ostrożność wymagają opinie dotyczące zaburzeń psychicznych i 
 
 Biegły jest zobowiązany do zachowania tajemnicy zawodowej w zakresie, w jakim nie koliduje to z obowiązkami procesowymi. Treść opinii i zebrane dane podlegają ochronie - biegły nie powinien ujawniać wyników osobom nieuprawnionym ani komentować sprawy publicznie. Jednocześnie, na żądanie sądu, jest zobowiązany do ujawnienia dokumentacji leżącej u podstaw opinii.
 
-## Podsumowanie
+
 
 Etyka opiniowania sądowego to system świadomych wyborów i refleksji nad własną praktyką. Biegły, który traktuje swoje zadanie wyłącznie jako techniczne wykonanie zlecenia, naraża się na naruszenie zasad etycznych i prawnych. Rzetelna, etyczna opinia - równoważąca wymogi prawne z poszanowaniem godności badanego i prawdą naukową - jest fundamentem sprawiedliwości, której biegły jest służbą.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

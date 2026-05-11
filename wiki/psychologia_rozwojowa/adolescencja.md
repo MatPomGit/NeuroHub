@@ -103,7 +103,7 @@ Adolescencja jest okresem podwyższonego ryzyka pierwszego epizodu depresji. Cha
 
 ---
 
-## Podsumowanie
+
 
 Adolescencja jest ewolucyjnie uwarunkowanym, neuronalnie zdefiniowanym oknem, w którym mózg jest gotowy na eksplorację i podejmowanie ryzyka - właściwości adaptacyjne dla gatunku, ale stanowiące wyzwanie dla jednostki i jej otoczenia. Zrozumienie neurobiologicznych mechanizmów tego okresu pozwala zastąpić oceny moralne (*„są nieodpowiedzialni"*) wyjaśnieniami rozwojowymi i tworzyć środowiska wspierające kształtowanie się tożsamości i stopniowej regulacji emocjonalnej.
 
@@ -120,13 +120,9 @@ Adolescencja jest ewolucyjnie uwarunkowanym, neuronalnie zdefiniowanym oknem, w 
 - Steinberg, L. (2008). A social neuroscience perspective on adolescent risk-taking. *Developmental Review, 28*(1), 78–106.
 - Steinberg, L. (2001). We know some things: Parent–adolescent relationships in retrospect and prospect. *Journal of Research on Adolescence, 11*(1), 1–19.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

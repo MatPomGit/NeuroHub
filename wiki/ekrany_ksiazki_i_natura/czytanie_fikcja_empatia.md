@@ -77,17 +77,13 @@ Fikcja może też budować empatię wobec grup, z którymi czytelnik nie ma bezp
 - Zwiększa gotowość do prospołecznego działania
 - Może zmienić nastawienie do kontrowersyjnych kwestii społecznych bardziej skutecznie niż kampanie informacyjne
 
-## Podsumowanie
+
 
 Czytanie fikcji jest znacznie więcej niż rozrywką. Jest treningiem najważniejszej zdolności społecznej: rozumienia, że inni mają inne umysły, inne perspektywy, inne emocje. W świecie narastającego podziału, algorytmicznych baniek i polaryzacji, zdolność do narracyjnego wchodzenia w inne perspektywy - ćwiczona przez czytanie - jest zasobem społecznym o bezcennej wartości.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

@@ -82,17 +82,13 @@ W pracy terapeutycznej logika pojawia się na wielu poziomach:
 
 Współczesna logika wyszła daleko poza klasyczne ramy. **Logika modalna** formalizuje pojęcia możliwości i konieczności. **Logika rozmyta** (*fuzzy logic*) radzi sobie z nieostrymi kategoriami (np. „wysoki", „zdrowy psychicznie") - co ma znaczenie w diagnostyce i modelowaniu decyzji klinicznych. **Logika deontyczna** formalizuje pojęcia obowiązku, dozwolenia i zakazu - jest narzędziem etyki formalnej.
 
-## Podsumowanie
+
 
 Logika jest fundamentem rzetelnego myślenia naukowego i klinicznego. Psycholog, który rozumie strukturę argumentów i umie rozpoznawać błędy rozumowania, jest lepiej wyposażony zarówno do krytycznej oceny literatury naukowej, jak i do pomocy pacjentom w modyfikowaniu dysfunkcjonalnych wzorców myślenia. Logika to nie zimna kalkulacja - to narzędzie troski o prawdę.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

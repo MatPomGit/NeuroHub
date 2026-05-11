@@ -4,7 +4,7 @@ reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
 
-# Psychologia emocji i motywacji - wprowadzenie
+# Wprowadzenie
 
 Emocje i motywacja to dwa nierozłączne systemy, które nadają ludzkim zachowaniom kierunek i energię. Emocja odpowiada na pytanie *jak się czuję w odpowiedzi na to, co się dzieje*, a motywacja - *po co to robię i z jaką siłą*. Psychologia emocji i motywacji łączy perspektywy fenomenologiczną (jak emocje są doświadczane), funkcjonalną (do czego służą) i neurobiologiczną (jak są generowane przez mózg).
 

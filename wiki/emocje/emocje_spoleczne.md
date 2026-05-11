@@ -132,6 +132,3 @@ Deficyty lub dysregulacja emocji moralnych wiążą się z różnymi formami zac
 5. Brady, W. J., Wills, J. A., Jost, J. T., Tucker, J. A., & Van Bavel, J. J. (2017). Emotion shapes the diffusion of moralized content in social networks. *PNAS, 114*(28), 7313–7318.
 6. Ekman, P., & Friesen, W. V. (1986). A new pan-cultural facial expression of emotion. *Motivation and Emotion, 10*(2), 159–168.
 
-## Bibliografia
-
-- Do uzupełnienia na podstawie źródeł cytowanych w artykule.

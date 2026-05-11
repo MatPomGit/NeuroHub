@@ -109,7 +109,7 @@ Dorosły mózg zachowuje zdolność do **experience-dependent plasticity**: bada
 
 ---
 
-## Podsumowanie
+
 
 Plastyczność mózgu nie jest przywilejem tylko dziecięcego umysłu - jest fundamentalną właściwością układu nerwowego na każdym etapie życia, choć jej mechanizmy, zakres i dostępność różnią się z wiekiem. Okresy krytyczne i wrażliwe wyznaczają okna szczególnej podatności na doświadczenie; ich poznanie ma bezpośrednie zastosowanie kliniczne i edukacyjne. Współczesna neuronauka wskazuje drogi do reaktywowania plastyczności w dojrzałym mózgu - otwierając nowe perspektywy rehabilitacji, uczenia się i leczenia.
 
@@ -126,13 +126,9 @@ Plastyczność mózgu nie jest przywilejem tylko dziecięcego umysłu - jest fun
 - Sadato, N., i in. (1996). Activation of the primary visual cortex by Braille reading in blind subjects. *Nature, 380*, 526–528.
 - Takesian, A. E., & Hensch, T. K. (2013). Balancing plasticity/stability across brain development. *Progress in Brain Research, 207*, 3–34.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

@@ -110,7 +110,7 @@ Ucieleśnione poznanie znalazło bezpośrednie zastosowanie w praktyce kliniczne
 
 ---
 
-## Podsumowanie
+
 
 Ucieleśnione poznanie zrewolucjonizowało rozumienie relacji umysłu i ciała, przesuwając punkt ciężkości z abstrakcyjnych reprezentacji na konkretne, cielesne doświadczenie. Linia od Merleau-Ponty'ego przez Barsalou do Rizzolattiego tworzy spójną narrację: myślimy ciałem, rozumiemy innych przez symulowanie ich cielesnych stanów, a nasze pojęcia i metafory są głęboko zakorzenione w doświadczeniu zmysłowym i motorycznym. Implikacje wykraczają daleko poza akademicką psychologię - docierają do sal terapeutycznych, klas szkolnych i projektowania środowisk sprzyjających ludzkiemu myśleniu.
 
@@ -127,13 +127,9 @@ Ucieleśnione poznanie zrewolucjonizowało rozumienie relacji umysłu i ciała, 
 - Strack, F., Martin, L. L., & Stepper, S. (1988). Inhibiting and facilitating conditions of the human smile. *Journal of Personality and Social Psychology, 54*(5), 768–777.
 - Wilson, M. (2002). Six views of embodied cognition. *Psychonomic Bulletin & Review, 9*(4), 625–636.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

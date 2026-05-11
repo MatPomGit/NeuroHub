@@ -60,17 +60,13 @@ Najlepsze efekty daje współpraca psychologa, dietetyka i lekarza.
 
 Pacjentka pracująca zmianowo je nieregularnie i wieczorem kompensuje głód wysokokalorycznymi przekąskami. Wprowadza plan dwóch „kotwic” żywieniowych dziennie, gotowe posiłki awaryjne i krótki monitoring nastroju przed jedzeniem. Po 6 tygodniach zgłasza mniej epizodów kompulsywnego jedzenia i stabilniejszą energię.
 
-## Podsumowanie
+
 
 Dieta wspiera zdrowie psychiczne, gdy jest elastyczna, przewidywalna i dopasowana do realiów życia. Trwałe zmiany zaczynają się od małych nawyków, nie od restrykcji.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

@@ -56,17 +56,13 @@ Coraz częściej bada się także placebo jawne (open-label), gdzie pacjent wie,
 
 Pacjent z bólem napięciowym otrzymuje standardowe leczenie oraz jasne wyjaśnienie, jak stres i oczekiwania modulują odczuwanie bólu. Wraz z poprawą poczucia kontroli i zaufania zgłasza mniejsze nasilenie dolegliwości i rzadsze epizody bólu.
 
-## Podsumowanie
+
 
 Efekt placebo pokazuje, że skuteczność leczenia zależy od biologii i kontekstu psychologicznego. Etyczna, empatyczna komunikacja może realnie wzmacniać efekt terapeutyczny.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

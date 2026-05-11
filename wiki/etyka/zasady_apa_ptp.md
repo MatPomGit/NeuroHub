@@ -84,7 +84,7 @@ Kluczową rolę odgrywa **superwizja etyczna** - regularne konsultacje z doświa
 
 ---
 
-## Podsumowanie
+
 
 Zarówno kodeks APA, jak i kodeks PTP wyrażają wspólne wartości etyki zawodowej: dobro klienta, uczciwość, szacunek dla autonomii i odpowiedzialność społeczną. Różnią się mechanizmami egzekwowania i osadzeniem w lokalnym kontekście prawnym. Znajomość obu dokumentów jest szczególnie istotna dla psychologów pracujących w środowiskach międzynarodowych lub stosujących narzędzia i metody opracowane w USA.
 
@@ -98,13 +98,9 @@ Zarówno kodeks APA, jak i kodeks PTP wyrażają wspólne wartości etyki zawodo
 - Knapp, S. J., & VandeCreek, L. D. (2012). *Practical ethics for psychologists: A positive approach* (2nd ed.). APA.
 - Pope, K. S., & Vasquez, M. J. T. (2016). *Ethics in psychotherapy and counseling: A practical guide* (5th ed.). Wiley.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

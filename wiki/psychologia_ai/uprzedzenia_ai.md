@@ -117,17 +117,13 @@ Eliminacja uprzedzeń algorytmicznych jest technicznie i społecznie skomplikowa
 - Prawo do wyjaśnienia decyzji algorytmicznych (RODO, artykuł 22)
 - Obowiązkowe audyty dla AI stosowanej w obszarach kredytów, pracy i wymiaru sprawiedliwości
 
-## Podsumowanie
+
 
 Uprzedzenia algorytmiczne to jedno z najpilniejszych wyzwań w obszarze AI i psychologii. Rozumienie ich źródeł - zakorzenionych zarówno w danych, jak i w ludzkich procesach poznawczych - jest niezbędnym krokiem do projektowania sprawiedliwych systemów. Psychologia dostarcza tu nieocenionej perspektywy: zarówno w wyjaśnianiu, jak uprzedzenia wnikają do AI, jak i w rozumieniu tego, jak wpływają na ludzi, którzy są ich ofiarami lub narzędziami ich utrwalania.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

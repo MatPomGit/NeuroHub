@@ -64,17 +64,13 @@ Najlepsze efekty osiąga się, gdy interwencje psychologiczne są częścią pla
 
 Pacjentka z wieloletnim bólem kręgosłupa ogranicza aktywność z obawy przed „pogorszeniem”. W terapii wdraża pacing, krótkie ćwiczenia o stałej porze i monitoring myśli katastroficznych. Po 10 tygodniach zgłasza mniejsze nasilenie lęku, lepszy sen i wyraźny wzrost aktywności mimo epizodów bólu.
 
-## Podsumowanie
+
 
 Ból chroniczny wymaga przejścia od walki z każdym objawem do strategicznego zarządzania funkcjonowaniem. Psychologia dostarcza narzędzi, które pomagają odzyskiwać sprawczość i jakość życia.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

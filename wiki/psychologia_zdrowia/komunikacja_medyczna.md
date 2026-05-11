@@ -64,17 +64,13 @@ Psycholog wspiera komunikację poprzez:
 - psychoedukację rodziny,
 - wsparcie personelu w komunikacji empatycznej.
 
-## Podsumowanie
+
 
 Skuteczna komunikacja medyczna łączy empatię z konkretem. To jeden z najtańszych i najbardziej efektywnych sposobów poprawy bezpieczeństwa, adherencji i jakości opieki.
 
-
-
-
 ## Perspektywa nieoczywista
 
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.
-
+## Podsumowanie
 
 ## Bibliografia
 

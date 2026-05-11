@@ -1,4 +1,4 @@
-/*
+﻿/*
  * app.js â€” gł‚owne łşrodł‚o logiki SPA w projekcie PsyHub.
  * Plik odpowiada za routing, renderowanie widokow i obsł‚uge interakcji UI.
  */
@@ -254,7 +254,7 @@ var pageMap = new Map();
 var articleFileToIdMapCache = null;
 var mdCache = new Map();
 
-/* Pobiera treść artykuł‚u, stosując kilka wariantow ł›cieżki dla zgodnoł›ci z rożnymi ł›rodowiskami hostingu. */
+/* Pobiera treść artykułu, stosując kilka wariantow ł›cieżki dla zgodnoł›ci z rożnymi ł›rodowiskami hostingu. */
 async function fetchArticleMarkdown(filePath) {
   const normalized = String(filePath || '').trim();
   const candidates = [
@@ -470,7 +470,7 @@ function monthsSince(value, referenceDate = new Date()) {
   return (yearsDiff * 12) + monthsDiff;
 }
 
-/* Buduje badge metadanych artykuł‚u oraz neutralny komunikat o potrzebie przeglądu. */
+/* Buduje badge metadanych artykułu oraz neutralny komunikat o potrzebie przeglądu. */
 function renderArticleReviewMetaBadges(metadata) {
   const lastReviewed = formatMonthYear(metadata?.lastReviewed);
   const cutoffYear = extractYear(metadata?.evidenceCutoffDate);
@@ -482,7 +482,7 @@ function renderArticleReviewMetaBadges(metadata) {
 
   const badges = [];
   if (lastReviewed) badges.push(`<span class="review-meta-badge">Zweryfikowano: ${q(lastReviewed)}</span>`);
-  if (cutoffYear) badges.push(`<span class="review-meta-badge">Przegląd łşrodeł‚ do: ${q(cutoffYear)}</span>`);
+  if (cutoffYear) badges.push(`<span class="review-meta-badge">Przegląd źródeł do: ${q(cutoffYear)}</span>`);
   if (isStale) badges.push('<span class="review-meta-badge is-stale">Wymaga przeglądu literatury</span>');
 
   return `<div class="review-meta-badges">${badges.join('')}</div>`;
@@ -499,7 +499,7 @@ function renderToolReviewMetaBadges(tool) {
 
   const badges = [];
   if (lastReviewed) badges.push(`<span class="review-meta-badge">Zweryfikowano: ${q(lastReviewed)}</span>`);
-  if (sourceYear) badges.push(`<span class="review-meta-badge">Przegląd łşrodeł‚ do: ${q(sourceYear)}</span>`);
+  if (sourceYear) badges.push(`<span class="review-meta-badge">Przegląd źródeł do: ${q(sourceYear)}</span>`);
   if (isStale) badges.push('<span class="review-meta-badge is-stale">Wymaga przeglądu literatury</span>');
 
   return `<div class="review-meta-badges">${badges.join('')}</div>`;
@@ -541,7 +541,7 @@ function runMeasurementToolsConfigValidation(options = {}) {
 }
 
 /* â”€â”€ Empty article indicator refresh â”€â”€â”€â”€â”€â”€â”€â”€ */
-const EMPTY_BANNER_HTML = `<div class="empty-banner"><span class="empty-banner-icon">âš </span><div class="empty-banner-text">Artykuł‚ jeszcze nie zawiera treł›ci â€” zostanie uzupeł‚niony wkrotce.</div></div>`;
+const EMPTY_BANNER_HTML = `<div class="empty-banner"><span class="empty-banner-icon">⚠</span><div class="empty-banner-text">Artykuł jeszcze nie zawiera treści — zostanie uzupełniony wkrótce.</div></div>`;
 
 function isBodyEmpty(text) {
   const h1m = text.match(/^#\s+(.+)$/m);
@@ -583,43 +583,43 @@ const SIDEBAR_TOPIC_GROUPS = [
   },
   {
     id: 'procesy',
-    label: 'Procesy psychiczne i rożnice indywidualne',
+    label: 'Procesy psychiczne i różnice indywidualne',
     colorClass: 'topic-procesy',
-    sections: ['Funkcje poznawcze', 'Emocje i motywacje', 'Temperament', 'Rożnice indywidualne', 'Psychologia pozytywna']
+    sections: ['Funkcje poznawcze', 'Emocje i motywacje', 'Temperament', 'Roznice indywidualne', 'Psychologia pozytywna', 'Odpornosc psychiczna']
   },
   {
     id: 'rozwoj-spoleczenstwo',
-    label: 'Rozwoj, relacje i społ‚eczeł„stwo',
+    label: 'Rozwój, relacje i społeczeństwo',
     colorClass: 'topic-rozwoj',
-    sections: ['Psychologia Rozwojowa', 'Psychologia Społ‚eczna', 'Psychologia Kulturowa', 'Relacje i związki', 'Psychologia szkolna i edukacyjna', 'Psychologia osob z niepeł‚nosprawnoł›cią', 'Psychologia osob w podeszł‚ym wieku']
+    sections: ['Psychologia Rozwojowa', 'Psychologia spoleczna', 'Psychologia kulturowa', 'Psychologia religii', 'Relacje i zwiazki', 'Psychologia szkolna i edukacyjna', 'Psychologia osob z niepelnosprawnoscia', 'Psychologia osob w podeszlym wieku']
   },
   {
     id: 'klinika',
     label: 'Klinika, zdrowie i pomoc',
     colorClass: 'topic-klinika',
-    sections: ['Psychopatologia', 'Zaburzenia kliniczne', 'Przypadki kliniczne', 'Diagnoza psychologiczna (proces)', 'Diagnoza psychologiczna', 'Psychometria', 'Psychoterapia', 'Psychologia zdrowia', 'Psychosomatyka', 'Podstawy pomocy psychologicznej', 'Suicydologia', 'Wstep do psychologii klinicznej dziecka']
+    sections: ['Psychopatologia', 'Zaburzenia kliniczne', 'Przypadki kliniczne', 'Diagnoza psychologiczna', 'Psychometria', 'Testy psychologiczne', 'Psychoterapia', 'Psychologia zdrowia', 'Psychosomatyka', 'Podstawy pomocy psychologicznej', 'Suicydologia', 'Wstep do psychologii klinicznej dziecka', 'Somatic Experiencing', 'Systemy Rodzinne']
   },
   {
     id: 'neuro',
     label: 'Neuro i biologiczne podstawy',
     colorClass: 'topic-neuro',
-    sections: ['Biologiczne podstawy zachowania', 'Neurobiologia', 'Farmakologia', 'Neurorożnorodnoł›ć']
+    sections: ['Biologiczne podstawy zachowania', 'Neurobiologia', 'Farmakologia', 'Neuroroznorodnosc']
   },
   {
     id: 'specjalizacje',
     label: 'Specjalizacje i konteksty stosowane',
     colorClass: 'topic-specjalizacje',
-    sections: ['Psychologia Uzależnieł„', 'Etyka zawodowa', 'Psychologia sądowa i opiniowanie', 'Seksuologia', 'Resocjalizacja', 'Instytucje pomocy dziecku i rodzinie', 'Reagowanie na krytyke', 'Psychologia nadmiernego jedzenia']
+    sections: ['Psychologia uzaleznien', 'Etyka zawodowa', 'Psychologia sadowa i opiniowanie', 'Seksuologia', 'Resocjalizacja', 'Instytucje pomocy dziecku i rodzinie', 'Reagowanie na krytyke', 'Psychologia nadmiernego jedzenia']
   },
   {
     id: 'technologia',
     label: 'Technologia, media i nowe obszary',
     colorClass: 'topic-technologia',
-    sections: ['Psychologia gier wideo', 'Psychologia Sztucznej Inteligencji', 'Psychologia technologii i dobrostan cyfrowy', 'Robotyka afektywna i kognitywistyka', 'E-terapia', 'Ekrany, książki,, a natura', 'Porozumiewanie sie bez przemocy (NVC)', 'Arteterapia', 'Animaloterapia']
+    sections: ['Psychologia gier wideo', 'Psychologia sztucznej inteligencji', 'Psychologia technologii i dobrostan cyfrowy', 'Robotyka afektywna i kognitywistyka', 'E-terapia', 'Ekrany, ksiazki, a natura', 'Porozumiewanie sie bez przemocy (NVC)', 'Arteterapia', 'Animaloterapia']
   },
   {
     id: 'zasoby',
-    label: 'Zasoby i sł‚owniki',
+    label: 'Zasoby i słowniki',
     colorClass: 'topic-zasoby',
     sections: ['Encyklopedie', 'Referencje']
   }
@@ -646,7 +646,7 @@ function buildSidebarTopicGroups() {
   if (leftoverSections.length > 0) {
     groups.push({
       id: 'pozostale',
-      label: 'Pozostał‚e',
+      label: 'Pozostałe',
       colorClass: 'topic-pozostale',
       sections: leftoverSections
     });
@@ -808,8 +808,8 @@ async function loadMd(id, item) {
       renderMd(mdCache.get(item.file), id, item);
       prefetch(id);
     } catch (e) {
-      console.error('[PsyHub] Bł‚ąd renderowania artykuł‚u z cache:', item.file, e);
-      area.innerHTML = '<div class="error-box"><h2>Bł‚ąd renderowania treł›ci</h2><p>Artykuł‚ istnieje, ale wystąpił‚ bł‚ąd podczas wył›wietlania. Sprawdłş konsole deweloperską.</p></div>';
+      console.error('[PsyHub] Błąd renderowania artykułu z cache:', item.file, e);
+      area.innerHTML = '<div class="error-box"><h2>Błąd renderowania treści</h2><p>Artykuł istnieje, ale wystąpił błąd podczas wyświetlania. Sprawdź konsolę deweloperską.</p></div>';
     }
     return;
   }
@@ -857,8 +857,8 @@ async function loadMd(id, item) {
     prefetch(id);
   } catch (e) {
     /* Awaria renderowania nie oznacza braku pliku â€” pokazujemy precyzyjny komunikat. */
-    console.error('[PsyHub] Bł‚ąd renderowania artykuł‚u:', item.file, e);
-    area.innerHTML = '<div class="error-box"><h2>Bł‚ąd renderowania treł›ci</h2><p>Artykuł‚ został‚ wczytany, ale nie udał‚o sie go wyrenderować. Sprawdłş konsole deweloperską.</p></div>';
+    console.error('[PsyHub] Błąd renderowania artykułu:', item.file, e);
+    area.innerHTML = '<div class="error-box"><h2>Błąd renderowania treści</h2><p>Artykuł został wczytany, ale nie udało się go wyrenderować. Sprawdź konsolę deweloperską.</p></div>';
   }
 }
 
@@ -888,7 +888,7 @@ function renderMd(text, id, item) {
   if (isEmpty) emptyArticles.add(id);
   const emptyBanner = isEmpty ? EMPTY_BANNER_HTML : '';
   const articleReviewMetaHtml = renderArticleReviewMetaBadges(metadata);
-  /* Nadajemy klase animacji tylko tytuł‚owi artykuł‚u, aby styl był‚ kontrolowany centralnie w CSS. */
+  /* Nadajemy klase animacji tylko tytuł‚owi artykułu, aby styl był‚ kontrolowany centralnie w CSS. */
 
   area.innerHTML = `<div class="rendered">
     <div class="page-hero">
@@ -953,7 +953,7 @@ function parseRouteHash(rawHash) {
   return { pageId: normalizePageId(pageId), sectionId: sectionId || '' };
 }
 
-/* Skł‚ada hash routingu strony z opcjonalnym identyfikatorem sekcji artykuł‚u. */
+/* Skł‚ada hash routingu strony z opcjonalnym identyfikatorem sekcji artykułu. */
 function buildRouteHash(pageId, sectionId) {
   return `#${pageId}${sectionId ? `::${sectionId}` : ''}`;
 }
@@ -969,7 +969,7 @@ function normalizePageId(rawPageId) {
     .replace(/\.md$/i, '');
 }
 
-/* Ustawia klase aktywnego elementu TOC na podstawie aktualnej sekcji artykuł‚u. */
+/* Ustawia klase aktywnego elementu TOC na podstawie aktualnej sekcji artykułu. */
 function setActiveTocItem(sectionId) {
   document.querySelectorAll('.article-toc-link').forEach(link => {
     const isActive = link.dataset.sectionId === sectionId;
@@ -979,7 +979,7 @@ function setActiveTocItem(sectionId) {
   });
 }
 
-/* Przewija do wskazanego nagł‚owka artykuł‚u i synchronizuje zaznaczenie TOC. */
+/* Przewija do wskazanego nagł‚owka artykułu i synchronizuje zaznaczenie TOC. */
 function scrollToArticleSection(sectionId) {
   if (!sectionId) return;
   const target = document.getElementById(sectionId);
@@ -988,7 +988,7 @@ function scrollToArticleSection(sectionId) {
   setActiveTocItem(sectionId);
 }
 
-/* Konfiguruje przycisk kopiowania bezpoł›redniego linku do aktualnie otwartego artykuł‚u. */
+/* Konfiguruje przycisk kopiowania bezpoł›redniego linku do aktualnie otwartego artykułu. */
 function setupCopyLinkButton(area, pageId) {
   const copyBtn = area.querySelector('#copyArticleLinkButton');
   if (!copyBtn) return;
@@ -1095,7 +1095,7 @@ const testsUI = window.PsyHubTestsUI || null;
 function renderSpecializationTest(id, item) {
   if (!testsUI || typeof testsUI.renderSpecializationTest !== 'function') {
     const area = document.getElementById('content');
-    area.innerHTML = '<div class="error-box"><h2>Bł‚ąd ł‚adowania moduł‚u</h2><p>Nie udał‚o sie wczytać interfejsu testow.</p></div>';
+    area.innerHTML = '<div class="error-box"><h2>Błąd ładowania modułu</h2><p>Nie udało się wczytać interfejsu testow.</p></div>';
     return;
   }
   return testsUI.renderSpecializationTest(id, item);
@@ -1155,7 +1155,7 @@ function renderDailyPsychology(id, item) {
   setBreadcrumb(item);
   const data = window.DAILY_PSYCHOLOGY;
   if (!data) {
-    area.innerHTML = '<div class="error-box"><h2>Bł‚ąd ł‚adowania moduł‚u</h2><p>Nie udał‚o sie wczytać danych psychologii codziennej.</p></div>';
+    area.innerHTML = '<div class="error-box"><h2>Błąd ładowania modułu</h2><p>Nie udało się wczytać danych psychologii codziennej.</p></div>';
     return;
   }
   /* Porządek tygodnia w UI zaczynamy od poniedział‚ku niezależnie od lokalizacji. */
@@ -1188,7 +1188,7 @@ function renderDailyPsychology(id, item) {
   const navBtns = orderedData.map(e => {
     const isToday = e.day === today;
     const isActive = e.day === displayDay;
-    const todayMark = isToday ? `<span class="daily-today-label">dził›</span>` : '';
+    const todayMark = isToday ? `<span class="daily-today-label">dziś</span>` : '';
     return `<button class="daily-day-btn${isActive ? ' is-active' : ''}" onclick="selectDailyDay(${e.day})">${e.emoji} ${e.dayName}${todayMark}</button>`;
   }).join('');
 
@@ -1215,7 +1215,7 @@ function renderDailyPsychology(id, item) {
       </div>
       <div class="daily-card-title">${(weeklyFactFallback?.title || curiosity.title)}</div>
       <div class="daily-card-lead">${(weeklyFactFallback?.message || curiosity.lead)}</div>
-      <div class="daily-card-body">${weeklyFactFallback?.body ? `<p>${weeklyFactFallback.body}</p>` : bodyParas}${weeklyFactFallback?.source ? `<p><strong>łąrodł‚o:</strong> ${weeklyFactFallback.source}</p>` : ''}</div>
+      <div class="daily-card-body">${weeklyFactFallback?.body ? `<p>${weeklyFactFallback.body}</p>` : bodyParas}${weeklyFactFallback?.source ? `<p><strong>źródło:</strong> ${weeklyFactFallback.source}</p>` : ''}</div>
     </div>
 
     <div class="daily-card">
@@ -1244,7 +1244,7 @@ function renderDailyPsychology(id, item) {
       if (!titleNode || !leadNode || !bodyNode) return;
       titleNode.textContent = fact.title;
       leadNode.textContent = fact.message;
-      bodyNode.innerHTML = `${fact.body ? `<p>${fact.body}</p>` : ''}${fact.source ? `<p><strong>łąrodł‚o:</strong> ${fact.source}</p>` : ''}`;
+      bodyNode.innerHTML = `${fact.body ? `<p>${fact.body}</p>` : ''}${fact.source ? `<p><strong>źródło:</strong> ${fact.source}</p>` : ''}`;
     })
     .catch(() => {
       /* Cichy fallback: gdy JSON nie jest dostepny, pozostaje treść lokalna z daily-psychology.js. */
@@ -1263,7 +1263,7 @@ window.selectDailyDay = function(day) {
 function renderTheoreticalTest(id, item) {
   if (!testsUI || typeof testsUI.renderTheoreticalTest !== 'function') {
     const area = document.getElementById('content');
-    area.innerHTML = '<div class="error-box"><h2>Bł‚ąd ł‚adowania moduł‚u</h2><p>Nie udał‚o sie wczytać interfejsu testow.</p></div>';
+    area.innerHTML = '<div class="error-box"><h2>Błąd ładowania modułu</h2><p>Nie udało się wczytać interfejsu testow.</p></div>';
     return;
   }
   return testsUI.renderTheoreticalTest(id, item);
@@ -1474,7 +1474,7 @@ function renderToolWarnings(tool) {
   const requiresPermissions = Boolean(tool.requiresPermissions);
 
   if (!license || license === 'do_ustalenia') {
-    warnings.push('Licencja nieokreł›lona');
+    warnings.push('Licencja nieokreślona');
   } else if (license === 'komercyjna' || license === 'instytucjonalna') {
     warnings.push('Wymaga licencji');
   }
@@ -1548,7 +1548,7 @@ function renderMeasurementTools(domainKey, currentId) {
         <div class="measurement-tool-meta"><strong>Mierzone konstrukty:</strong> ${q((tool.constructs || []).join(', ') || 'â€”')}</div>
         <div class="measurement-tool-meta"><strong>Czas badania:</strong> ${q(tool.administrationTime || 'â€”')}</div>
         <div class="measurement-tool-meta"><strong>Grupa docelowa:</strong> ${q(tool.population || 'â€”')}</div>
-        <div class="measurement-tool-meta"><strong>Status licencji:</strong> ${renderToolField(tool.license === 'do_ustalenia' ? '' : tool.license, 'licencja nieokreł›lona')}</div>
+        <div class="measurement-tool-meta"><strong>Status licencji:</strong> ${renderToolField(tool.license === 'do_ustalenia' ? '' : tool.license, 'licencja nieokreślona')}</div>
         <div class="measurement-tool-links"><strong>Powiązane artykuł‚y:</strong> ${relatedLinks}</div>
         <div class="measurement-tool-links"><strong>Artykuł‚y metodologiczne:</strong> ${methodologyLinks}</div>
         ${renderMethodologyDetails(tool)}
@@ -1566,7 +1566,7 @@ function renderMeasurementTools(domainKey, currentId) {
   </div>`;
 }
 
-/* Inicjalizuje stan filtrow narzedzi po wyrenderowaniu strony artykuł‚u. */
+/* Inicjalizuje stan filtrow narzedzi po wyrenderowaniu strony artykułu. */
 function setupMeasurementToolsSection(area) {
   const section = area?.querySelector('.measurement-tools-section');
   if (!section) return;
@@ -1932,7 +1932,7 @@ function rebuildSearchIndex() {
       normalizedLevel: normalizeSearchText(item.level || ''),
     }));
 
-  /* Tworzy indeks sł‚ow kluczowych -> ID artykuł‚u dla szybkiego linkowania wewnątrz treł›ci. */
+  /* Tworzy indeks sł‚ow kluczowych -> ID artykułu dla szybkiego linkowania wewnątrz treł›ci. */
   keywordLinkIndex = new Map();
   searchIndex.forEach(entry => {
     const phrases = [entry.label, ...(entry.keywords || [])]
@@ -2010,9 +2010,9 @@ function matchesActiveFilters(entry) {
 
 /* Renderuje etykiety kontekstowe przy wynikach, żeby użytkownik szybciej rozpoznał‚ kontekst. */
 function renderSearchMetaTags(entry) {
-  const typeLabelMap = { article: 'artykuł‚', wiki: 'wiki', test: 'test' };
+  const typeLabelMap = { article: 'artykuł', wiki: 'wiki', test: 'test' };
   const safeSection = q(entry.section || 'Inne');
-  const safeType = q(typeLabelMap[entry.type] || entry.type || 'materiał‚');
+  const safeType = q(typeLabelMap[entry.type] || entry.type || 'materiał');
   const typeCls = entry.type ? `type-${entry.type}` : '';
   return `<span class="s-search-item-meta">
     <span class="s-search-tag">${safeSection}</span>
@@ -2278,7 +2278,7 @@ const SPEECH_VOICE_PRESETS = {
   deep: { label: 'Niski', rate: 0.8, pitch: 0.74, boostNatural: 10, boostAlt: 8, boostDefault: 14, preferredNames: ['deep', 'male', 'low', 'marek', 'grzegorz', 'jan'] },
 };
 
-/* Zwraca aktywny preset gł‚osu albo bezpieczną wartoł›ć domył›lną, gdy stan jest niepoprawny. */
+/* Zwraca aktywny preset głosu albo bezpieczną wartoł›ć domył›lną, gdy stan jest niepoprawny. */
 function getVoicePreset(mode) {
   return SPEECH_VOICE_PRESETS[mode] || SPEECH_VOICE_PRESETS.natural;
 }
@@ -2318,13 +2318,13 @@ function choosePreferredVoice(mode) {
   return scored[0]?.voice || null;
 }
 
-/* Aktualizuje etykiete przeł‚ącznika stylu gł‚osu i stan ARIA. */
+/* Aktualizuje etykiete przeł‚ącznika stylu głosu i stan ARIA. */
 function updateVoiceModeButtonState() {
   const voiceModeSelect = document.getElementById('speechVoiceMode');
   if (!voiceModeSelect) return;
   const selectedPreset = getVoicePreset(speechState.voiceMode);
   voiceModeSelect.value = speechState.voiceMode in SPEECH_VOICE_PRESETS ? speechState.voiceMode : 'natural';
-  voiceModeSelect.setAttribute('aria-label', `Wybrany styl gł‚osu: ${selectedPreset.label}`);
+  voiceModeSelect.setAttribute('aria-label', `Wybrany styl głosu: ${selectedPreset.label}`);
 }
 
 /* Zbiera czytelny tekst z gł‚ownego kontenera treł›ci, pomijając elementy nawigacyjne i dekoracyjne. */
@@ -2342,19 +2342,19 @@ function updateSpeechButtonState(isSpeaking) {
   if (!toggleBtn) return;
   toggleBtn.classList.toggle('is-active', isSpeaking);
   toggleBtn.setAttribute('aria-pressed', isSpeaking ? 'true' : 'false');
-  toggleBtn.setAttribute('aria-label', isSpeaking ? 'Wstrzymaj czytanie bieżącego artykuł‚u' : 'Rozpocznij czytanie bieżącego artykuł‚u');
-  toggleBtn.textContent = isSpeaking ? 'âŹ¸ Pauza czytania' : 'â–¶ Czytaj artykuł‚';
+  toggleBtn.setAttribute('aria-label', isSpeaking ? 'Wstrzymaj czytanie bieżącego artykułu' : 'Rozpocznij czytanie bieżącego artykułu');
+  toggleBtn.textContent = isSpeaking ? 'âŹ¸ Pauza czytania' : '▶ Czytaj artykuł';
 }
 
-/* Aktualizuje przycisk automatycznego przejł›cia do kolejnego artykuł‚u po zakoł„czeniu odczytu. */
+/* Aktualizuje przycisk automatycznego przejł›cia do kolejnego artykułu po zakoł„czeniu odczytu. */
 function updateAutoNextButtonState() {
   const autoNextBtn = document.getElementById('speechAutoNext');
   if (!autoNextBtn) return;
   autoNextBtn.classList.toggle('is-active', speechState.autoNext);
   autoNextBtn.setAttribute('aria-pressed', speechState.autoNext ? 'true' : 'false');
   autoNextBtn.setAttribute('aria-label', speechState.autoNext
-    ? 'Automatyczne przejł›cie do kolejnego artykuł‚u wł‚ączone'
-    : 'Automatyczne przejł›cie do kolejnego artykuł‚u wył‚ączone');
+    ? 'Automatyczne przejł›cie do kolejnego artykułu wł‚ączone'
+    : 'Automatyczne przejł›cie do kolejnego artykułu wył‚ączone');
   autoNextBtn.textContent = speechState.autoNext ? 'Auto-next: ON' : 'Auto-next: OFF';
 }
 
@@ -2382,7 +2382,7 @@ function stopReadingContent() {
   updateSpeechButtonState(false);
 }
 
-/* Inicjalizuje obsł‚uge syntezy mowy dla bieżącej treł›ci artykuł‚u. */
+/* Inicjalizuje obsł‚uge syntezy mowy dla bieżącej treł›ci artykułu. */
 function setupSpeechControls() {
   const toggleBtn = document.getElementById('speechToggle');
   const stopBtn = document.getElementById('speechStop');
@@ -2469,7 +2469,7 @@ function setupSpeechControls() {
     localStorage.setItem('psyhub-speech-voice-mode', speechState.voiceMode);
     updateVoiceModeButtonState();
 
-    /* Jeł›li czytanie trwa, restartujemy je z nowymi parametrami gł‚osu. */
+    /* Jeł›li czytanie trwa, restartujemy je z nowymi parametrami głosu. */
     if (speechState.isSpeaking) {
       stopReadingContent();
       toggleBtn.click();
@@ -2749,7 +2749,7 @@ async function showPsychologyReminderNotification() {
   if (!fact) return;
 
   const sourceSuffix = fact.source ? `
-łąrodł‚o: ${fact.source}` : '';
+źródło: ${fact.source}` : '';
   new Notification(`đź§  ${fact.title}`, {
     body: `${fact.message}${sourceSuffix}`,
     tag: `psyhub-fact-${todayKey}`,
@@ -2813,7 +2813,7 @@ window.addEventListener('DOMContentLoaded', ()=>{
   warnAboutMissingDomainKeys();
   runMeasurementToolsConfigValidation({ strict: false });
   buildPageMap();
-  pageMap.set('__home__',{id:'__home__',label:'Strona gł‚owna',section:''});
+  pageMap.set('__home__',{id:'__home__',label:'Strona główna',section:''});
   loadSearchUiState();
   rebuildSearchIndex();
   renderSidebar();

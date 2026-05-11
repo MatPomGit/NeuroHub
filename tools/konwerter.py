@@ -37,8 +37,7 @@ REQUIRED_SECTIONS = [
     "Wprowadzenie",
     "Definicje",
     "Analiza",
-    "Dobra praktyka",
-    "Zła praktyka",
+    "Praktyczne przykłady",
     "Perspektywa nieoczywista",
     "Podsumowanie",
     "Bibliografia",
@@ -249,13 +248,19 @@ def build_article_template(
         "### Interpretacje autora",
         "",
         "",
-        "## Dobra praktyka",
+        "### Wytyczne i zalecenia",
+        "",
+        "",
+        "## Praktyczne przykłady",
+        "",
+        "",
+        "### Dobra praktyka",
         "",
         "",
         "### Konsekwencje dobrej praktyki",
         "",
         "",
-        "## Zła praktyka",
+        "### Zła praktyka",
         "",
         "",
         "### Konsekwencje złej praktyki",
@@ -335,7 +340,7 @@ def run_convert_utf8(start_dir: Path):
                 if convert_to_utf8(filepath):
                     count += 1
 
-    print(f"\nZakończono. Przetworzono {count} plik(ów) .md.")
+    print(f"\nZakończono; przetworzono {count} plik(ów) .md.")
 
 
 def parse_args(argv):

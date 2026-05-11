@@ -4,11 +4,11 @@ Dokument porządkuje wymagania redakcyjne i techniczne, które powinny być spe�
 
 ## 1) Wymagania dla artykułów
 
-1. Artykuł powinien mieć strukturę: wprowadzenie, definicje, analiza, dobra praktyka, zła praktyka, perspektywa nieoczywista, podsumowanie, bibliografia.
+1. Artykuł powinien mieć strukturę: wprowadzenie, definicje, analiza, wytyczne, praktyczne przykłady (obejmujące dobrą i złą praktykę), perspektywa nieoczywista, podsumowanie, bibliografia.
 2. Sekcja `## Bibliografia` jest obowiązkowa i musi być ostatnim rozdziałem artykułu.
 3. Bibliografia powinna zawierać źródła naukowe wysokiej jakości, adekwatne do tematu (bez pozycji generycznych).
-4. Nie usuwamy wartościowej treści istniejącej; aktualizacje wykonujemy przez integrację i porządkowanie sekcji.
-5. Nie dodajemy treści generycznych, które nie odnoszą się bezpośrednio do tematu pliku.
+4. Nie usuwamy wartościowej treści istniejącej; aktualizacje wykonujemy przez integrację istniejącej treści, porządkowanie sekcji i wpisanie starych rozdziałów do nowego układu.
+5. Nie dodajemy treści generycznych. Opisy powinny odnosić się do artykułu.
 6. Wnioski i dane liczbowe muszą mieć ślad źródłowy w treści.
 
 ## 2) Wymagania dla plików wiki

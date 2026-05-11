@@ -100,29 +100,6 @@ Analiza literatury wskazuje na kilka luk: **(1)** Brak ujednoliconych polskich n
 
 **Rekomendowane źródła:** Dunn W. _Sensory Profile Manual_ (1999); Miller LJ. _Sensational Kids_ (3rd ed., 2014); Baranek G. _Sensory Experiences Questionnaire_ (2009); Chojnicka I. & Pisula E. (2019). _Adaptation and psychometric properties of the Polish SSP-2_ [\[5\]](https://www.researchgate.net/publication/337029206_Adaptation_and_psychometric_properties_of_the_Polish_version_of_the_Short_Sensory_Profile_2#:~:text=scales%2Fquadrants%20and%20the%20overall%20score,by%20the%20children%27s%20age%2C%20gender); Wiśniewska M. (2015). _Profil Sensoryczny Dziecka_ (PTP Gdańsk); Grobelna N. i wsp. (2024). _Phenomenon of sensory processing - przegląd_ [\[28\]](https://ane.pl/index.php/ane/article/download/2556/2503/5026#:~:text=has%20evolved%2C%20leading%20to%20the,including%20sensory%20gating%2C%20electrodermal%20responses)[\[1\]](https://ane.pl/index.php/ane/article/download/2556/2503/5026#:~:text=This%20model%20proposes%20the%20existence,described%20as%3A%20Sensory%20Sensitivity%2C%20character%E2%80%91). Bobrowska M., Liberska H. (2023). _Polska adaptacja HSPS_ [\[7\]](https://www.researchgate.net/publication/378949683_Polska_adaptacja_narzedzia_Highly_Sensitive_Person_Scale#:~:text=Cel%3A%20Wra%C5%BCliwo%C5%9B%C4%87%20przetwarzania%20sensorycznego%20definiowana,Wykluczono%20sze%C5%9B%C4%87). Krzysztofik K. (2022). _SEQ-3.0-PL_ (prace niepublikowane, UAM). Ponadto przydatne: Pearson Assessments ([www.pearsonassessments.com](http://www.pearsonassessments.com)), opisy _Sensory Profile 2_, _AASP_; Western Psych. Services (<www.wpspublish.com>) - informacje o _SPM_ i innych.
 
-## Wprowadzenie
-
-Temat tego artykułu jest istotny dla praktyki psychologicznej, ponieważ łączy perspektywę teoretyczną z codziennymi decyzjami klinicznymi lub edukacyjnymi. W literaturze podkreśla się, że trafne rozumienie zjawiska wymaga uwzględnienia kontekstu biologicznego, społecznego i kulturowego. W niniejszym opracowaniu przyjmujemy podejście oparte na dowodach, oddzielając ustalenia empiryczne od interpretacji. Taki porządek ułatwia ocenę jakości argumentów i ogranicza ryzyko uproszczeń. Dzięki temu czytelnik może przełożyć wiedzę teoretyczną na bardziej świadome działania praktyczne.
-
-
-## Definicje
-
-W tym artykule kluczowe pojęcia są rozumiane w sposób operacyjny, tak aby można je było stosować w badaniach i praktyce. Definicja zjawiska obejmuje zarówno jego kryteria rozpoznania, jak i granice pojęciowe odróżniające je od konstruktów pokrewnych. Warto pamiętać, że część terminów ma kilka konkurencyjnych ujęć, zależnie od szkoły teoretycznej. Dlatego podczas interpretacji wyników należy zawsze wskazać, którą definicję przyjęto i dlaczego. Taka precyzja terminologiczna zwiększa porównywalność danych oraz jakość wnioskowania.
-
-
-## Analiza
-
-Mechanizmy omawianego zjawiska najlepiej wyjaśniać na kilku poziomach: poznawczym, emocjonalnym, behawioralnym i środowiskowym. Dane empiryczne zwykle pokazują, że efekt końcowy wynika z interakcji wielu czynników, a nie z pojedynczej przyczyny. Z perspektywy metodologicznej warto uwzględnić zarówno wyniki badań przekrojowych, jak i podłużnych, ponieważ odpowiadają one na różne pytania. Ograniczeniem bywa heterogeniczność prób i narzędzi pomiarowych, która utrudnia bezpośrednie porównania między badaniami. Mimo tych ograniczeń spójny obraz zjawiska można uzyskać, łącząc dane ilościowe, jakościowe i kliniczne.
-
-
-## Dobra praktyka
-
-Dobrą praktyką jest rozpoczynanie pracy od jasnego celu, kryteriów oceny postępów oraz wspólnego języka używanego przez specjalistę i odbiorcę interwencji. W praktyce oznacza to regularny monitoring efektów, krótkie cykle informacji zwrotnej i gotowość do modyfikacji planu działania. Wysoką skuteczność wspiera także psychoedukacja, która zwiększa poczucie sprawstwa i rozumienie procesu zmiany. Istotne jest ponadto respektowanie granic etycznych oraz uwzględnianie różnic indywidualnych. Konsekwencją takiego podejścia jest większa trwałość rezultatów i mniejsze ryzyko działań pozornych.
-
-
-## Zła praktyka
-
-Częstym błędem jest stosowanie jednego schematu postępowania niezależnie od kontekstu, potrzeb i możliwości danej osoby lub grupy. Problemem bywa również opieranie decyzji na intuicji bez sprawdzania jakości danych i aktualnych rekomendacji. W praktyce prowadzi to do nietrafnych interwencji, spadku motywacji oraz utraty zaufania do procesu wsparcia. Złą praktyką jest także pomijanie czynników systemowych, takich jak warunki środowiskowe czy bariery organizacyjne. Konsekwencje obejmują nie tylko słabsze efekty, ale również ryzyko wtórnej szkody psychologicznej.
 
 
 ## Perspektywa nieoczywista

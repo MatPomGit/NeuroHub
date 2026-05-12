@@ -34,7 +34,7 @@ W wielu miejscach znajdziesz odnośniki do tematów pokrewnych (cross-linki). Dz
 
 Słownik ułatwia szybkie przypomnienie terminów specjalistycznych. Każde hasło zawiera krótką definicję i link do artykułu rozwijającego temat.
 
-## 5) Strony interaktywne i materiały dodatkowe
+### 5) Strony interaktywne i materiały dodatkowe
 
 Poza klasycznymi artykułami wiki, PsyHub zawiera także:
 

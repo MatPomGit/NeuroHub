@@ -10,7 +10,7 @@ PsyHub to uporządkowana baza wiedzy, która pomaga studiować psychologię w sp
 
 ## Jak poruszać się po PsyHub?
 
-## 1) Nawigacja po działach
+### 1) Nawigacja po działach
 
 Po lewej stronie (lub w widoku mobilnym: w górnym menu) znajdziesz działy tematyczne, np. diagnoza, psychometria, neurobiologia, psychoterapia czy metodologia badań. Każdy dział zawiera artykuły w formacie wiki, uporządkowane od tematów wprowadzających do bardziej zaawansowanych.
 

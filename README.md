@@ -30,7 +30,7 @@ To najszybsza droga, gdy szukasz konkretnego pojęcia (np. „trafność”, „
 
 W wielu miejscach znajdziesz odnośniki do tematów pokrewnych (cross-linki). Dzięki temu możesz śledzić relacje między działami, np. przejść z neurobiologii do psychofarmakologii albo z psychometrii do diagnozy.
 
-## 4) Słownik pojęć
+### 4) Słownik pojęć
 
 Słownik ułatwia szybkie przypomnienie terminów specjalistycznych. Każde hasło zawiera krótką definicję i link do artykułu rozwijającego temat.
 

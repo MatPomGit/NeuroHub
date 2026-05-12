@@ -16,7 +16,7 @@ Po lewej stronie (lub w widoku mobilnym: w górnym menu) znajdziesz działy tema
 
 **Najlepsza praktyka:** zacznij od artykułu „wprowadzenie” w danym dziale, a potem przechodź do tematów szczegółowych.
 
-## 2) Wyszukiwarka
+### 2) Wyszukiwarka
 
 Wyszukiwarka pozwala odnajdywać treści po:
 

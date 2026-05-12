@@ -26,7 +26,7 @@ Wyszukiwarka pozwala odnajdywać treści po:
 
 To najszybsza droga, gdy szukasz konkretnego pojęcia (np. „trafność”, „LTP”, „NSSI”).
 
-## 3) Przejścia między powiązanymi tematami
+### 3) Przejścia między powiązanymi tematami
 
 W wielu miejscach znajdziesz odnośniki do tematów pokrewnych (cross-linki). Dzięki temu możesz śledzić relacje między działami, np. przejść z neurobiologii do psychofarmakologii albo z psychometrii do diagnozy.
 

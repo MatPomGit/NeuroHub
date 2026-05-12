@@ -62,7 +62,7 @@ To dobre uzupełnienie nauki, kiedy chcesz zobaczyć temat „w działaniu”, a
 
 ## Informacja dla autorów treści
 
-Artykuły są rozwijane według standardu redakcyjnego projektu (struktura naukowa, rozdzielenie faktów od opinii, obowiązkowa bibliografia). Szczegółowe zasady znajdują się w `AGENTS.md` oraz dokumentach konwencji treści.
+Artykuły są rozwijane według standardu redakcyjnego projektu (struktura naukowa, rozdzielenie faktów od opinii, obowiązkowa bibliografia). Szczegółowe zasady znajdują się w [AGENTS.md](AGENTS.md) oraz [dokumentach konwencji treści](docs/content-conventions.md).
 
 ## Status projektu
 

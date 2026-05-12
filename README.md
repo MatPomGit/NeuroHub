@@ -1,151 +1,69 @@
-# Portal Wiedzy Psychologicznej
+# PsyHub — baza wiedzy dla studentów psychologii
 
-## Workflow tworzenia artykułów
+PsyHub to uporządkowana baza wiedzy, która pomaga studiować psychologię w sposób systematyczny: od definicji po zastosowania praktyczne. Serwis łączy artykuły wiki, słownik pojęć oraz wybrane materiały interaktywne.
 
-Poniżej znajduje się rekomendowany przepływ pracy dla autorów i redaktorów.
+## Dla kogo jest ta strona?
 
-### 1 Utworzenie szablonu artykułu
+- dla studentów psychologii (I i II stopień),
+- dla osób przygotowujących się do kolokwiów, egzaminów i seminariów,
+- dla tych, którzy chcą szybko przejść od pojęcia do źródeł naukowych.
 
-Skorzystaj z narzędzia `tools/konwerter.py` w trybie `new-article`:
+## Jak poruszać się po PsyHub?
 
-- `python3 tools/konwerter.py new-article wiki/kategoria/nowy_artykul.md --title "Tytuł artykułu"`
+### 1) Nawigacja po działach
 
-Polecenie utworzy plik `.md` z wymaganymi sekcjami:
+Po lewej stronie (lub w widoku mobilnym: w górnym menu) znajdziesz działy tematyczne, np. diagnoza, psychometria, neurobiologia, psychoterapia czy metodologia badań. Każdy dział zawiera artykuły w formacie wiki, uporządkowane od tematów wprowadzających do bardziej zaawansowanych.
 
-- Wprowadzenie,
-- Definicje,
-- Analiza,
-- Praktyczne przykłady (dobra i zła praktyka),
-- Perspektywa nieoczywista,
-- Podsumowanie,
-- Bibliografia.
+**Najlepsza praktyka:** zacznij od artykułu „wprowadzenie” w danym dziale, a potem przechodź do tematów szczegółowych.
 
-### 2 Opracowanie treści
+### 2) Wyszukiwarka
 
-Uzupełnij każdą sekcję zgodnie ze standardem redakcyjnym projektu (rzetelność naukowa, poprawna polszczyzna, rozdzielenie faktów od opinii, argumentacja oparta na źródłach).
+Wyszukiwarka pozwala odnajdywać treści po:
 
-### 3 Walidacja redakcyjna
+- tytułach artykułów,
+- słowach kluczowych,
+- treści merytorycznej.
 
-Uruchom walidator sekcji przed commitem:
+To najszybsza droga, gdy szukasz konkretnego pojęcia (np. „trafność”, „LTP”, „NSSI”).
 
-- `python3 tools/konwerter.py validate-article wiki/kategoria/nowy_artykul.md`
+### 3) Przejścia między powiązanymi tematami
 
-Można walidować wiele plików naraz:
+W wielu miejscach znajdziesz odnośniki do tematów pokrewnych (cross-linki). Dzięki temu możesz śledzić relacje między działami, np. przejść z neurobiologii do psychofarmakologii albo z psychometrii do diagnozy.
 
-- `python3 tools/konwerter.py validate-article wiki/**/*.md`
+### 4) Słownik pojęć
 
-### 4 Kontrola w hookach Git
+Słownik ułatwia szybkie przypomnienie terminów specjalistycznych. Każde hasło zawiera krótką definicję i link do artykułu rozwijającego temat.
 
-Repozytorium zawiera hooki `pre-commit` i `pre-push`, które automatycznie sprawdzają **nowe** pliki `wiki/**/*.md`.
+### 5) Strony interaktywne i materiały dodatkowe
 
-Aby je aktywować lokalnie:
+Poza klasycznymi artykułami wiki, PsyHub zawiera także:
 
-- `git config core.hooksPath .githooks`
+- strony HTML z materiałami dydaktycznymi,
+- prezentacje,
+- wybrane ćwiczenia i demonstracje (np. eksperymenty poznawcze).
 
-Od tego momentu:
+To dobre uzupełnienie nauki, kiedy chcesz zobaczyć temat „w działaniu”, a nie tylko w opisie.
 
-- `pre-commit` waliduje nowe pliki `.md` dodane do indeksu,
-- `pre-push` waliduje nowe pliki `.md` względem gałęzi upstream.
+## Co jest możliwe w PsyHub?
 
+- szybkie powtórki przed zajęciami,
+- budowanie ścieżki nauki między powiązanymi tematami,
+- porównywanie ujęć teoretycznych z różnych działów psychologii,
+- korzystanie z bibliografii artykułów jako punktu wyjścia do pracy zaliczeniowej,
+- przechodzenie od definicji do praktycznych konsekwencji klinicznych i badawczych.
 
-## Proces utrzymania jakości treści
+## Jak efektywnie korzystać z bazy? (krótki plan)
 
-Utrzymanie jakości treści realizujemy iteracyjnie w czterech etapach: **(1) standaryzacja nazw**, **(2) uzupełnienie struktury artykułów**, **(3) cytaty i bibliografia**, **(4) walidacja automatyczna**. Szczegółowy audyt postępu, statusy kryteriów jakości oraz priorytety aktualizacji są prowadzone w `wiki/reference/content_audit.md`. Artykuł uznajemy za ukończony dopiero po spełnieniu Definition of Done: komplet sekcji, rzetelne źródła oraz spójne nazewnictwo.
+1. Wybierz dział zgodny z aktualnym kursem.
+2. Przeczytaj artykuł wprowadzający.
+3. Zapisz 3–5 kluczowych pojęć i sprawdź je w słowniku.
+4. Przejdź do artykułów szczegółowych przez linki powiązane.
+5. Na końcu skorzystaj z bibliografii i sięgnij do źródeł pierwotnych.
 
-## Kryteria „gotowości do publikacji”
+## Informacja dla autorów treści
 
-Artykuł uznaje się za gotowy do publikacji, gdy spełnia wszystkie kryteria:
+Artykuły są rozwijane według standardu redakcyjnego projektu (struktura naukowa, rozdzielenie faktów od opinii, obowiązkowa bibliografia). Szczegółowe zasady znajdują się w [AGENTS.md](AGENTS.md) oraz [dokumentach konwencji treści](docs/content-conventions.md).
 
-1. Zawiera komplet wymaganych sekcji redakcyjnych.
-2. Przechodzi walidację `validate-article` bez błędów.
-3. Zawiera bibliografię opartą na wiarygodnych źródłach naukowych.
-4. Przedstawia co najmniej jeden przykład dobrej praktyki i jeden przykład złej praktyki (lub częstego błędu).
-5. Omawia perspektywę nieoczywistą wraz z argumentacją.
-6. Został sprawdzony językowo (poprawność ortograficzna, interpunkcyjna i terminologiczna).
+## Status projektu
 
-## Metryki sukcesu (wyszukiwarka + kopiowanie linku)
-
-W aplikacji zbierane są lokalnie (w `localStorage`) podstawowe metryki użyteczności:
-
-1. **Czas znalezienia treści** (`firstClickTimesMs`)
-   - Definicja: czas od rozpoczęcia zapytania do pierwszego kliknięcia wyniku.
-   - Cel: spadek mediany tego czasu po wdrożeniu indeksu pełnotekstowego i TOC.
-
-2. **CTR wyników wyszukiwania**
-   - Definicja: `searchResultClicks / searchResultImpressions`.
-   - Cel: wzrost CTR dzięki lepszym dopasowaniom i snippetom z treści artykułów.
-
-3. **Użycie funkcji „Kopiuj link”** (`copyLinkUses`)
-   - Definicja: liczba kliknięć przycisku kopiowania linku artykułu.
-   - Cel: wzrost użycia przy nawigacji i współdzieleniu konkretnych treści.
-
-4. **Liczba rozpoczętych sesji wyszukiwania** (`searchStarts`)
-   - Definicja: liczba unikalnych zapytań rozpoczętych w sesji użytkownika.
-   - Cel: pomocniczy wskaźnik kontekstu do interpretacji CTR i czasu.
-
-## Walidacja konfiguracji narzędzi pomiarowych
-
-- Szybka walidacja lokalna:
-  - `node tools/lint-measurement-tools-config.js`
-- Tryb **strict** (zalecany do CI):
-  - `node tools/lint-measurement-tools-config.js --strict`
-
-W trybie strict ostrzeżenia (`warn`) są traktowane jak błędy (`error`).
-
-## Jak uruchamiać testy
-
-W projekcie rozdzielamy testy na dwa niezależne typy:
-
-- **Node-only** - testy konfiguracji i walidacji, bez API przeglądarki.
-- **Browser-only (jsdom)** - testy modułów wymagających `window`/`document`.
-
-### Lokalnie
-
-1. Uruchom testy Node-only:
-   - `node tools/run-node-tests.js`
-2. Uruchom testy browser-only:
-   - `npm install --no-save jsdom`
-   - `node tools/run-ui-tests-jsdom.js`
-
-`modules/tests-ui.js` jest modułem browser-only. Przy uruchomieniu w czystym Node moduł zwraca czytelny komunikat z frazą: `to test browser-only`.
-
-### W CI
-
-Konfiguracja CI powinna mieć dwa osobne joby:
-
-1. `config-lint`:
-   - `node tools/run-node-tests.js`
-2. `browser-tests`:
-   - `npm install --no-save jsdom`
-   - `node tools/run-ui-tests-jsdom.js`
-
-## Katalog narzędzi - zasada pola `primarySourceYear`
-
-- `primarySourceYear` zapisujemy zawsze w formacie `YYYY`.
-- Domyślna reguła: wpisujemy rok **pierwotnej publikacji wersji bazowej** narzędzia.
-- Wyjątek: jeżeli narzędzie jest w projekcie definiowane przez **oficjalną rewizję** (np. nazwa zawiera numer rewizji, jak `ADOS-2` lub `DIVA-5`), wpisujemy rok tej rewizji.
-- W sytuacjach spornych co do „pierwotnego” roku dopuszczamy krótki komentarz redakcyjny bezpośrednio przy wpisie narzędzia w `site-config.js`.
-
-
-## Zintegrowana kontrola treści (CI)
-
-Aby jednym poleceniem uruchomić pełny zestaw kontroli jakości treści i konfiguracji, użyj:
-
-- `node tools/check_content.js`
-
-Skrypt wykonuje:
-
-1. strict lint `measurement-tools`,
-2. sprawdzenie istnienia plików wskazanych w `site-config.js`,
-3. kontrolę minimalnej objętości dla wpisów o statusie `live`,
-4. detekcję potencjalnych duplikatów i martwych wpisów.
-
-Dodatkowo wypisywany jest raport zbiorczy (`errors / warnings / ok`) i zwracany kod wyjścia `!= 0`, gdy pojawią się błędy.
-
-Opcjonalnie możesz zmienić próg objętości:
-
-- `node tools/check_content.js --min-chars 800`
-
-## Standard nazewnictwa treści wiki
-
-Konwencja nazewnictwa dla `wiki/**` jest opisana w `docs/content-conventions.md`.
+PsyHub jest projektem rozwijanym iteracyjnie — część treści ma charakter pełnych opracowań, a część jest sukcesywnie rozbudowywana i aktualizowana.

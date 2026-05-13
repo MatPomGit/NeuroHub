@@ -1566,12 +1566,14 @@
 
   if (fullscreenButton) {
     fullscreenButton.addEventListener('click', async () => {
-      if (!document.fullscreenElement) {
-        await document.documentElement.requestFullscreen();
-        fullscreenButton.textContent = 'Zamknij pełny ekran';
-      } else {
-        await document.exitFullscreen();
-        fullscreenButton.textContent = 'Pełny ekran';
+      try {
+        if (!document.fullscreenElement) {
+          await document.documentElement.requestFullscreen();
+        } else {
+          await document.exitFullscreen();
+        }
+      } catch (err) {
+        console.warn('Fullscreen toggle failed:', err);
       }
     });
 

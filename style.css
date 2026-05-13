@@ -498,6 +498,17 @@ em{color:var(--goldl)}
   cursor:pointer;
 }
 .btn-mobile-chapters:hover{color:var(--goldl);border-color:var(--gold)}
+.btn-mobile-toc{
+  display:none;
+  border:1px solid var(--border);
+  background:var(--bg3);
+  color:var(--t2);
+  border-radius:999px;
+  padding:.36rem .7rem;
+  font-size:.78rem;
+  cursor:pointer;
+}
+.btn-mobile-toc:hover{color:var(--goldl);border-color:var(--gold)}
 .mobile-chapters-panel{
   display:none;
   position:sticky;
@@ -533,6 +544,22 @@ em{color:var(--goldl)}
   cursor:pointer;
 }
 .mobile-chapter-item:hover{border-color:var(--gold);color:var(--goldl)}
+.mobile-wiki-toc-panel{
+  display:none;
+  position:sticky;
+  top:3.7rem;
+  z-index:27;
+  background:rgba(9,9,15,.97);
+  backdrop-filter:blur(8px);
+  border-bottom:1px solid var(--border);
+  transform:translateY(-12px);
+  opacity:0;
+  pointer-events:none;
+  transition:transform .22s ease,opacity .22s ease;
+}
+.mobile-wiki-toc-panel.open{transform:translateY(0);opacity:1;pointer-events:auto}
+.mobile-wiki-toc-panel .article-toc-list{max-height:42vh;overflow:auto;padding:.2rem .95rem .8rem}
+.mobile-wiki-toc-panel .article-toc-title{margin:0;padding:.72rem .95rem .25rem}
 
 /* progress */
 .prog-bar{position:fixed;top:0;left:var(--sw);right:0;height:2px;z-index:300}
@@ -934,6 +961,25 @@ em{color:var(--goldl)}
 .stat-lbl{font-size:.68rem;color:var(--t3);text-transform:uppercase;letter-spacing:.1em;margin-top:.18rem}
 /* KOMPONENTY: .domain-card */
 .domains-h2{font-family:var(--serif);font-size:1.35rem;font-weight:600;margin-bottom:1.1rem}
+.home-domain-groups{display:grid;gap:1.2rem}
+.home-domain-group{border:1px solid var(--border);border-radius:12px;padding:.9rem}
+.home-domain-group-title{
+  font-size:.72rem;
+  letter-spacing:.12em;
+  text-transform:uppercase;
+  font-weight:700;
+  color:var(--t3);
+  margin-bottom:.75rem;
+}
+.home-domain-group.topic-fundamenty{border-left:4px solid #c9a227}
+.home-domain-group.topic-procesy{border-left:4px solid #7c9fd2}
+.home-domain-group.topic-rozwoj{border-left:4px solid #62b08f}
+.home-domain-group.topic-klinika{border-left:4px solid #c26d7c}
+.home-domain-group.topic-neuro{border-left:4px solid #9f86d7}
+.home-domain-group.topic-specjalizacje{border-left:4px solid #d08a52}
+.home-domain-group.topic-technologia{border-left:4px solid #4fa6b5}
+.home-domain-group.topic-zasoby{border-left:4px solid #8a939f}
+.home-domain-group.topic-pozostale{border-left:4px solid #6f7885}
 .domain-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:.85rem}
 .domain-card{background:var(--bg2);border:1px solid var(--border);border-radius:var(--r);padding:var(--space-4) 1.1rem;cursor:pointer;transition:border-color var(--ease),background var(--ease),transform var(--ease)}
 .domain-card[type="button"]{width:100%;text-align:left;color:inherit;font:inherit}
@@ -1105,7 +1151,9 @@ em{color:var(--goldl)}
   .prog-bar{left:0}
   .btn-menu{display:flex;align-items:center}
   .btn-mobile-chapters{display:inline-flex;align-items:center}
+  .btn-mobile-toc{display:inline-flex;align-items:center}
   .mobile-chapters-panel{display:block}
+  .mobile-wiki-toc-panel{display:block}
   .content{padding:1.6rem 1.2rem 3.5rem}
   .article-layout{gap:1rem}
   .article-toc{position:relative;top:auto;padding:.65rem .72rem}
@@ -1129,6 +1177,13 @@ em{color:var(--goldl)}
   /* Spis artykułów: poprawa czytelności kart na mniejszych ekranach. */
   .wiki-sec{margin-bottom:1.9rem}
   .wiki-sec-title{font-size:1.15rem}
+  .home-domain-groups{gap:.85rem}
+  .home-domain-group{padding:.72rem}
+  .home-domain-group-title{font-size:.66rem;letter-spacing:.11em;margin-bottom:.62rem}
+  .home-domain-group .domain-grid{grid-template-columns:1fr;gap:.55rem}
+  .home-domain-group .domain-card{padding:.72rem .82rem}
+  .home-domain-group .d-name{font-size:.95rem;margin-bottom:.18rem}
+  .home-domain-group .d-count{font-size:.59rem}
   .art-card{
     padding:.85rem .9rem;
     gap:.65rem;

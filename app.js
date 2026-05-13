@@ -925,6 +925,17 @@ function cleanupArticleTocObserver() {
   }
   articleTocHeadings = [];
   articleTocCurrentPageId = null;
+  const mobileTocPanel = document.getElementById('mobileWikiTocPanel');
+  const mobileTocBtn = document.getElementById('mobileWikiTocButton');
+  if (mobileTocPanel) {
+    mobileTocPanel.classList.remove('open');
+    mobileTocPanel.hidden = true;
+    mobileTocPanel.innerHTML = '';
+  }
+  if (mobileTocBtn) {
+    mobileTocBtn.hidden = true;
+    mobileTocBtn.setAttribute('aria-expanded', 'false');
+  }
 }
 
 /* Normalizuje tekst nagłówka do postaci bezpiecznego identyfikatora HTML. */
@@ -1054,6 +1065,7 @@ function setupArticleToc(area, pageId) {
         <h2 class="article-toc-title">Spis treści</h2>
         <ul class="article-toc-list">${tocItems}</ul>
       `;
+  setupMobileWikiTocPanel(pageId, tocItems, isMobileViewport);
 
   tocHost.addEventListener('click', event => {
     const link = event.target.closest('.article-toc-link');
@@ -1087,6 +1099,46 @@ function setupArticleToc(area, pageId) {
   } else {
     setActiveTocItem(headings[0].id);
   }
+}
+
+/* Renderuje mobilny panel „Spis treści” rozwijany od góry i synchronizuje jego stan. */
+function setupMobileWikiTocPanel(pageId, tocItems, isMobileViewport) {
+  const panel = document.getElementById('mobileWikiTocPanel');
+  const toggleBtn = document.getElementById('mobileWikiTocButton');
+  if (!panel || !toggleBtn) return;
+
+  const closePanel = () => {
+    panel.classList.remove('open');
+    panel.hidden = true;
+    toggleBtn.setAttribute('aria-expanded', 'false');
+  };
+
+  const isWikiPage = pageId.includes('/');
+  if (!isMobileViewport || !isWikiPage || !tocItems) {
+    closePanel();
+    toggleBtn.hidden = true;
+    return;
+  }
+
+  toggleBtn.hidden = false;
+  panel.innerHTML = `<h2 class="article-toc-title">Spis treści</h2><ul class="article-toc-list">${tocItems}</ul>`;
+
+  toggleBtn.onclick = () => {
+    const shouldOpen = !panel.classList.contains('open');
+    if (shouldOpen) {
+      panel.hidden = false;
+      panel.classList.add('open');
+      toggleBtn.setAttribute('aria-expanded', 'true');
+    } else {
+      closePanel();
+    }
+  };
+
+  panel.onclick = (event) => {
+    const link = event.target.closest('.article-toc-link');
+    if (!link) return;
+    closePanel();
+  };
 }
 
 const testsUI = window.PsyHubTestsUI || null;
@@ -1740,17 +1792,36 @@ function renderHome() {
   const totalMd   = SITE_CONFIG.nav.flatMap(s=>s.items).filter(i=>i.file).length;
   const totalWiki = Object.keys(SITE_CONFIG.wikis).length;
   const excludedSections = new Set(SITE_CONFIG.catalogExcludedSections || ['Encyklopedie', 'Referencje', 'Wprowadzenie']);
-  const domains   = SITE_CONFIG.nav.filter(s => !excludedSections.has(s.section));
+  const topicGroups = buildSidebarTopicGroups();
+  const domainGroups = topicGroups
+    .map(topic => {
+      const sections = topic.sections.filter(sec => {
+        if (!sec || excludedSections.has(sec.section)) return false;
+        return sec.items.some(item => item?.file);
+      });
+      return sections.length ? { ...topic, sections } : null;
+    })
+    .filter(Boolean);
+  const domains = domainGroups.flatMap(group => group.sections);
   const totalPlan = Object.values(SITE_CONFIG.plans||{}).flat().filter(p=>p.status==='planned').length;
 
-  const icons = {};
-  const cards = domains.map(sec=>{
-    const cnt = sec.items.filter(i=>i.file).length;
-    const navId = sec.items[0]?.id||'';
-    return `<button type="button" role="link" class="domain-card" onclick="navigate('${navId}')">
-      <div class="d-name">${sec.section}</div>
-      <span class="d-count">${cnt} art.</span>
-    </button>`;
+  const cardsByGroup = domainGroups.map(group => {
+    const cards = group.sections.map(sec => {
+      const cnt = sec.items.filter(i => i.file).length;
+      const firstArticle = sec.items.find(i => i?.file && i?.id);
+      const navId = firstArticle?.id || sec.items[0]?.id || '';
+      if (!navId) return '';
+      return `<button type="button" role="link" class="domain-card" onclick="navigate('${navId}')">
+        <div class="d-name">${sec.section}</div>
+        <span class="d-count">${cnt} art.</span>
+      </button>`;
+    }).join('');
+
+    if (!cards.trim()) return '';
+    return `<section class="home-domain-group ${group.colorClass}">
+      <div class="home-domain-group-title">${q(group.label)}</div>
+      <div class="domain-grid">${cards}</div>
+    </section>`;
   }).join('');
 
   /* Karty scenariuszy kierujące od razu do konkretnych modułów z SITE_CONFIG.nav. */
@@ -1828,7 +1899,13 @@ function renderHome() {
       </div>
       ${recentHtml}
     </section>
-    <div><div class="domains-h2">Działy tematyczne</div><div class="domain-grid">${cards}</div></div>
+    <section class="home-block">
+      <div class="home-block-head">
+        <h2>Działy tematyczne</h2>
+        <p>Kolejność i grupowanie odpowiadają strukturze spisu treści WIKI.</p>
+      </div>
+      <div class="home-domain-groups">${cardsByGroup}</div>
+    </section>
   </div>`;
   window.scrollTo(0,0);
   animateHomeCards();

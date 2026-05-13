@@ -76,7 +76,7 @@
       position: absolute;
       bottom: 15px;
       left: 30px;
-      font-size: 0.42em;
+      font-size: 0.4em;
       color: #94a3b8;
     }
 
@@ -449,7 +449,7 @@
   <button class="theme-btn"        data-t="kokos"   title="Kokos"></button>
 </div>
 
-<div class="timer" id="timer">20:00</div>
+<div class="timer" id="timer">15:00</div>
 
 <div class="reveal">
   <div class="slides">
@@ -998,7 +998,7 @@
   });
 
   // ── Timer (startuje dopiero od 2. slajdu) ────────────────
-  let totalSeconds = 20 * 60;
+  let totalSeconds = 15 * 60;
   let timerRunning = false;
   const timer = document.getElementById('timer');
 
@@ -1018,7 +1018,7 @@
     renderTimer();
   }
 
-  renderTimer(); // pokaż 20:00 bez odliczania
+  renderTimer(); // pokaż 15:00 bez odliczania
 
   // ── Ponowne odtworzenie animacji CSS ─────────────────────
   function replayAnimations(slide) {
@@ -1098,7 +1098,7 @@
       kokos:   ['#67e8f9', '#e0f2fe', '#bae6fd'],
     };
 
-    const COUNT = 240;
+    const COUNT = 480;
     let particles = [];
     let W, H;
 

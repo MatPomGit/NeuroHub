@@ -792,6 +792,7 @@ function navigate(id, replaceHistory) {
   else if (item.custom === 'specialization_test') renderSpecializationTest(normalizedId, item);
   else if (item.custom === 'daily_psychology')    renderDailyPsychology(normalizedId, item);
   else if (item.custom === 'theoretical_test')    renderTheoreticalTest(normalizedId, item);
+  else if (item.custom === 'kahoot_game')         renderKahootGame(normalizedId, item);
   else if (item.wiki)  renderWiki(normalizedId, item.wiki);
   else                 renderHome();
 }
@@ -1688,6 +1689,24 @@ function artCard(art) {
     <div class="art-body"><div class="art-lbl">${art.label}</div>${desc}</div>
     <span class="art-badge ${effectiveStatus}">${lbl[effectiveStatus]||effectiveStatus}</span>
   </button>`;
+}
+
+/* Renderuje osobny moduł HTML do wspólnej gry testowej w formule Kahoot. */
+function renderKahootGame(id, item) {
+  const area = document.getElementById('content');
+  setBreadcrumb(item);
+  area.innerHTML = `<div class="rendered kahoot-wrap">
+    <div class="page-hero">
+      <span class="chapter-lbl">${item.section || ''}</span>
+      <h1>${item.label || 'Wspólna gra testowa (Kahoot)'}</h1>
+      <p class="lead">Osobny moduł do prowadzenia sesji grupowej: szybkie instrukcje, linki dla prowadzącego i uczestników oraz osadzony podgląd.</p>
+    </div>
+    <div class="kahoot-module-frame-wrap">
+      <iframe src="modules/wspolna_gra_kahoot.html" title="Moduł wspólnej gry testowej Kahoot" class="kahoot-module-frame"></iframe>
+    </div>
+  </div>`;
+  window.scrollTo(0,0);
+  animateContentIn();
 }
 
 /*  Glossary  */

@@ -432,7 +432,7 @@
       z-index: 0;
     }
 
-    .reveal, .theme-switcher, .timer {
+    .reveal {
       position: relative;
       z-index: 1;
     }
@@ -460,12 +460,12 @@
       <div class="subtitle">Metaanaliza problematyki badawczej</div>
 
       <div class="authors">
-        Izabela Rybka · Anna Seruga-Łężniak<br>
-        Julia Bladowska · Krzysztof Lindorf · Mateusz Pomianek
+        <br><br>Izabela Rybka · Anna Seruga-Łężniak · Julia Bladowska<br>
+        Krzysztof Lindorf · Mateusz Pomianek
       </div>
 
       <div class="subtitle">
-        Uniwersytet Vizja, Warszawa · 14 czerwca 2026
+        <br><br><br><br>Uniwersytet Vizja, Warszawa · 14 czerwca 2026
       </div>
 
       <!-- <div class="footer">wersja 1.2 „maniakalny kartofel”</div> -->
@@ -674,7 +674,7 @@
 
     <!-- Wykres porównawczy emocji -->
     <section>
-      <h2>Poziom deklarowanego wstydu i winy (% respondentów)</h2>
+      <h2>Poziom % deklarowanego wstydu i winy</h2>
       <p class="lead">
         Zestawienie pokazuje wyraźnie, że w kulturach kolektywistycznych silniej dominuje wstyd, natomiast poziom winy pozostaje bardziej wyrównany między badanymi kontekstami.
       </p>
@@ -717,11 +717,11 @@
           <text x="615" y="345" fill="#94a3b8" font-size="14" text-anchor="middle">kolektywizm</text>
           <text x="755" y="345" fill="#94a3b8" font-size="14" text-anchor="middle">indywidualizm</text>
         </svg>
-
+<!--
         <div class="chart-legend">
           <span class="legend-item"><span class="legend-dot shame"></span>Wstyd</span>
           <span class="legend-item"><span class="legend-dot guilt"></span>Wina</span>
-        </div>
+        </div> -->
       </div>
     </section>
 
@@ -906,10 +906,11 @@
           <text x="632" y="344" fill="#94a3b8" font-size="14" text-anchor="middle">Wina</text>
         </svg>
 
+        <!--
         <div class="chart-legend">
           <span class="legend-item"><span class="legend-dot conv"></span>Konwergencje</span>
           <span class="legend-item"><span class="legend-dot div"></span>Rozbieżności</span>
-        </div>
+        </div> -->
       </div>
 
       <!-- <div class="section-note">  W obszarze wstydu częściej powtarza się kierunek wyników, natomiast dla winy utrzymuje się większa niejednorodność zależna od kontekstu kulturowego i sposobu operacjonalizacji zmiennych. </div> -->
@@ -1097,7 +1098,7 @@
       kokos:   ['#67e8f9', '#e0f2fe', '#bae6fd'],
     };
 
-    const COUNT = 72;
+    const COUNT = 240;
     let particles = [];
     let W, H;
 
@@ -1142,7 +1143,7 @@
         const dx = p.x - mouse.x;
         const dy = p.y - mouse.y;
         const dist = Math.sqrt(dx * dx + dy * dy);
-        const REPEL_RADIUS = 120;
+        const REPEL_RADIUS = 180;
         if (dist < REPEL_RADIUS && dist > 0) {
           const force = (REPEL_RADIUS - dist) / REPEL_RADIUS;
           p.x += (dx / dist) * force * 2.8;

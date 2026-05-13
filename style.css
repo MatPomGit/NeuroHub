@@ -751,6 +751,8 @@ em{color:var(--goldl)}
 .ttest-diff-desc{font-size:.76rem;color:var(--t3);margin-top:.5rem;line-height:1.5}
 .ttest-start-btn{margin-top:.6rem;padding:.7rem 1.6rem;background:linear-gradient(135deg,rgba(91,140,184,.25),rgba(91,140,184,.1));border:1px solid var(--blue);border-radius:var(--r);color:#b3d1ea;font-size:.95rem;cursor:pointer;font-family:var(--sans);transition:all var(--ease)}
 .ttest-start-btn:hover{background:rgba(91,140,184,.3);color:#d6eaf8}
+.ttest-start-btn--secondary{margin-top:.5rem;background:transparent;border-color:rgba(179,209,234,.45);color:#d6eaf8}
+.ttest-start-btn--secondary:hover{background:rgba(179,209,234,.14)}
 .ttest-progress-bar{height:5px;background:var(--bg3);border-radius:999px;overflow:hidden;margin-bottom:1.4rem;border:1px solid var(--border)}
 .ttest-progress-fill{height:100%;background:linear-gradient(90deg,var(--blue),var(--teal));border-radius:999px;transition:width .3s ease}
 .ttest-q-card{background:linear-gradient(165deg,rgba(18,26,40,.96),rgba(13,18,30,.94));border:1px solid rgba(130,165,199,.28);box-shadow:0 10px 26px rgba(0,0,0,.26);border-radius:var(--r);padding:1.3rem 1.4rem;margin-bottom:1rem}
@@ -1292,3 +1294,5 @@ em{color:var(--goldl)}
   }
   .speech-voice-select{font-size:.72rem;}
 }
+.kahoot-module-frame-wrap{margin-top:1rem;border:1px solid var(--border);border-radius:var(--r);overflow:hidden;background:var(--bg2)}
+.kahoot-module-frame{display:block;width:100%;min-height:78vh;border:0;background:#fff}

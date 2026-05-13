@@ -479,6 +479,7 @@ window.SITE_CONFIG = {
         { id: 'dla_studentow/testy_teoretyczne',      label: 'Testy teoretyczne',         custom: 'theoretical_test', kind: 'test' },
         { id: 'dla_studentow/winietki_kliniczne',     label: 'Winietki kliniczne',        custom: 'theoretical_test', presetTopic: 'winiety_kliniczne', kind: 'test' },
         { id: 'dla_studentow/testy_dyplomowe',        label: 'Testy dyplomowe',           custom: 'theoretical_test', presetTopic: 'egzamin_dyplomowy', kind: 'test' },
+        { id: 'dla_studentow/wspolna_gra_kahoot',    label: 'Wspolna gra testowa (Kahoot)', custom: 'kahoot_game', kind: 'test' },
         /**{ id: 'dla_studentow/monopoly_psychologiczne', href: 'https://matpomgit.github.io/Psychopoly/', label: 'Monopoly Psychologiczne' },*/
           { id: 'dla_studentow/psycholog_w_it_kompetencje_mierniki_i_portfolio', label: 'Psycholog w IT - kompetencje, mierniki i portfolio', file: 'wiki/dla_studentow/psycholog_w_it_kompetencje_mierniki_i_portfolio.md' },
           { id: 'dla_studentow/wystapienia_publiczne_trudne_pytania_i_q_a', label: 'Wystapienia publiczne - trudne pytania i Q&A', file: 'wiki/dla_studentow/wystapienia_publiczne_trudne_pytania_i_q_a.md' },

@@ -1698,7 +1698,7 @@ function renderKahootGame(id, item) {
   area.innerHTML = `<div class="rendered kahoot-wrap">
     <div class="page-hero">
       <span class="chapter-lbl">${item.section || ''}</span>
-      <h1>${item.label || 'Wspolna gra testowa (Kahoot)'}</h1>
+      <h1>${item.label || 'Wspólna gra testowa (Kahoot)'}</h1>
       <p class="lead">Osobny moduł do prowadzenia sesji grupowej: szybkie instrukcje, linki dla prowadzącego i uczestników oraz osadzony podgląd.</p>
     </div>
     <div class="kahoot-module-frame-wrap">

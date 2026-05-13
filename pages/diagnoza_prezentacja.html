@@ -160,19 +160,15 @@
 
     .theme-button {
       appearance: none;
-      border: 1px solid rgba(255, 255, 255, 0.16);
-      border-radius: 999px;
-      padding: 9px 14px;
-      background: rgba(15, 23, 42, 0.76);
-      color: #e2e8f0;
-      font: inherit;
-      font-size: 0.60rem;
-      font-weight: 700;
-      letter-spacing: 0.03em;
+      border: 2px solid rgba(255, 255, 255, 0.3);
+      border-radius: 50%;
+      width: 22px;
+      height: 22px;
+      padding: 0;
+      background: var(--accent1);
       cursor: pointer;
       box-shadow: var(--shadow);
-      backdrop-filter: blur(10px);
-      transition: transform 0.18s ease, border-color 0.18s ease, background 0.18s ease;
+      transition: transform 0.18s ease, border-color 0.18s ease, box-shadow 0.18s ease;
     }
 
     .theme-button:hover {
@@ -180,10 +176,15 @@
     }
 
     .theme-button.is-active {
-      border-color: rgba(103, 232, 249, 0.45);
-      background: rgba(103, 232, 249, 0.16);
-      color: #f8fafc;
+      border-color: #f8fafc;
+      box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.35), var(--shadow);
     }
+    .theme-button[data-theme="theme-ocean"] { background: linear-gradient(135deg, #67e8f9, #4ade80); }
+    .theme-button[data-theme="theme-emerald"] { background: linear-gradient(135deg, #22d3ee, #84cc16); }
+    .theme-button[data-theme="theme-amber"] { background: linear-gradient(135deg, #fbbf24, #fb7185); }
+    .theme-button[data-theme="theme-slate"] { background: linear-gradient(135deg, #e2e8f0, #60a5fa); }
+    .theme-button[data-theme="theme-orchid"] { background: linear-gradient(135deg, #f9a8d4, #818cf8); }
+    .theme-button[data-theme="theme-coral"] { background: linear-gradient(135deg, #fb7185, #f97316); }
 
     * {
       box-sizing: border-box;
@@ -513,10 +514,7 @@
     }
 
     .timer {
-      position: fixed;
-      top: 18px;
-      right: 18px;
-      z-index: 40;
+      position: static;
       padding: 10px 14px;
       min-width: 98px;
       border-radius: 999px;
@@ -531,6 +529,28 @@
       text-align: center;
       user-select: none;
       pointer-events: none;
+    }
+    .presentation-controls {
+      position: fixed;
+      top: 18px;
+      right: 18px;
+      display: flex;
+      gap: 10px;
+      z-index: 45;
+    }
+    .fullscreen-button {
+      appearance: none;
+      border: 1px solid rgba(103, 232, 249, 0.25);
+      border-radius: 999px;
+      padding: 10px 14px;
+      background: rgba(15, 23, 42, 0.82);
+      color: #e0f2fe;
+      box-shadow: var(--shadow);
+      backdrop-filter: blur(10px);
+      font-size: 0.70rem;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      cursor: pointer;
     }
 
     .timer-label {
@@ -698,12 +718,29 @@
         width: 60px;
       }
 
-      .timer {
+      .presentation-controls {
         top: 10px;
         right: 10px;
-        min-width: 88px;
-        padding: 8px 12px;
-        font-size: 0.70rem;
+      }
+
+      .timer {
+        min-width: 82px;
+        padding: 8px 10px;
+        font-size: 0.64rem;
+      }
+
+      .fullscreen-button {
+        padding: 8px 10px;
+        font-size: 0.62rem;
+      }
+
+      .theme-switcher {
+        left: 10px;
+        top: 10px;
+      }
+
+      .reveal {
+        height: 100dvh;
       }
     }
   </style>
@@ -711,17 +748,20 @@
 <body>
 
 <div class="theme-switcher" aria-label="Wybór motywu kolorystycznego">
-  <button class="theme-button is-active" type="button" data-theme="theme-ocean">Ocean</button>
-  <button class="theme-button" type="button" data-theme="theme-emerald">Zieleń</button>
-  <button class="theme-button" type="button" data-theme="theme-amber">Bursztyn</button>
-  <button class="theme-button" type="button" data-theme="theme-slate">Slate</button>
-  <button class="theme-button" type="button" data-theme="theme-orchid">Orchid</button>
-  <button class="theme-button" type="button" data-theme="theme-coral">Coral</button>
+  <button class="theme-button is-active" type="button" data-theme="theme-ocean" aria-label="Motyw ocean" title="Motyw ocean"></button>
+  <button class="theme-button" type="button" data-theme="theme-emerald" aria-label="Motyw zieleń" title="Motyw zieleń"></button>
+  <button class="theme-button" type="button" data-theme="theme-amber" aria-label="Motyw bursztyn" title="Motyw bursztyn"></button>
+  <button class="theme-button" type="button" data-theme="theme-slate" aria-label="Motyw slate" title="Motyw slate"></button>
+  <button class="theme-button" type="button" data-theme="theme-orchid" aria-label="Motyw orchid" title="Motyw orchid"></button>
+  <button class="theme-button" type="button" data-theme="theme-coral" aria-label="Motyw coral" title="Motyw coral"></button>
 </div>
 
-<div class="timer" aria-live="polite">
-  <span class="timer-label">Pozostało</span>
-  <span id="timer-value">20:00</span>
+<div class="presentation-controls">
+  <button id="fullscreen-toggle" class="fullscreen-button" type="button">Pełny ekran</button>
+  <div class="timer" aria-live="polite">
+    <span class="timer-label">Pozostało</span>
+    <span id="timer-value">20:00</span>
+  </div>
 </div>
 
 <div class="reveal">
@@ -853,6 +893,7 @@
 
     <section>
       <h2>Przebieg wywiadu diagnostycznego</h2>
+      <div class="quote">Styl wypowiedzi pacjentki ewoluował od krótkich i chaotycznych zdań do bardziej otwartej narracji.</div>
 
       <div class="timeline">
         <div class="timeline-item">
@@ -884,6 +925,7 @@
 
     <section>
       <h2>Techniki rozmowy</h2>
+      <div class="quote">Widoczne było unikanie części tematów dotyczących relacji małżeńskiej.</div>
 
       <div class="pillars">
         <div class="pillar">
@@ -944,6 +986,7 @@
 
     <section>
       <h2>Funkcjonowanie zawodowe</h2>
+      <div class="quote">„Moje potrzeby są mniej ważne”.</div>
 
       <div class="grid-2">
         <div class="card">
@@ -1004,6 +1047,7 @@
 
     <section>
       <h2>Relacja z mężem i matką</h2>
+      <div class="quote">„Konflikt prowadzi do katastrofy”.</div>
 
       <div class="grid-2">
         <div class="card">
@@ -1032,6 +1076,7 @@
 
     <section>
       <h2>Dominujące przekonania</h2>
+      <div class="quote">„Ludzie oceniają mnie negatywnie”.</div>
 
       <div class="grid-2">
         <div class="card">
@@ -1158,6 +1203,7 @@
 
     <section>
       <h2>Profil kliniczny</h2>
+      <div class="quote">„Kilka razy Piotrek, Piotrek, a potem już zaczyna wszystko we mnie buzować…”</div>
       <p class="section-intro">
         Wykres prezentuje orientacyjne nasilenie głównych osi problemowych na podstawie analizy jakościowej materiału klinicznego.
       </p>
@@ -1202,6 +1248,7 @@
 
     <section>
       <h2>Mechanizmy podtrzymujące</h2>
+      <div class="quote">Mechanizmy podtrzymujące obejmują nieasertywność, tłumienie emocji, błędne koło konfliktu oraz utrwalony schemat poświęcenia i podporządkowania.</div>
 
       <div class="grid-3">
         <div class="card">
@@ -1223,6 +1270,7 @@
 
     <section>
       <h2>Hipoteza kliniczna</h2>
+      <div class="quote">„Muszę poświęcać się dla innych”.</div>
 
       <div class="hero-box">
         <h3 class="highlight">Hipoteza główna</h3>
@@ -1302,6 +1350,7 @@
 
     <section>
       <h2>Rekomendacje terapeutyczne</h2>
+      <div class="quote">Prognoza została oceniona jako umiarkowanie pomyślna ze względu na zachowaną motywację do zmiany oraz częściowy wgląd pacjentki.</div>
 
       <div class="grid-3">
         <div class="card">
@@ -1494,6 +1543,7 @@
   });
 
   const timerValue = document.getElementById('timer-value');
+  const fullscreenButton = document.getElementById('fullscreen-toggle');
   let remainingSeconds = 20 * 60;
 
   function formatRemainingTime(totalSeconds) {
@@ -1514,6 +1564,22 @@
     updateTimer();
   }, 1000);
 
+  if (fullscreenButton) {
+    fullscreenButton.addEventListener('click', async () => {
+      if (!document.fullscreenElement) {
+        await document.documentElement.requestFullscreen();
+        fullscreenButton.textContent = 'Zamknij pełny ekran';
+      } else {
+        await document.exitFullscreen();
+        fullscreenButton.textContent = 'Pełny ekran';
+      }
+    });
+
+    document.addEventListener('fullscreenchange', () => {
+      fullscreenButton.textContent = document.fullscreenElement ? 'Zamknij pełny ekran' : 'Pełny ekran';
+    });
+  }
+
   Reveal.initialize({
     hash: true,
     slideNumber: true,
@@ -1522,8 +1588,8 @@
     controls: true,
     progress: true,
     center: true,
-    width: 1366,
-    height: 768,
+    width: 1280,
+    height: 720,
     margin: 0.04,
     minScale: 0.5,
     maxScale: 2.0

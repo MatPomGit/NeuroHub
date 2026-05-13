@@ -3,36 +3,246 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Wspólna gra testowa (Kahoot) — PsyHub</title>
+  <title>PsyHub Live Quiz — wspólna rywalizacja testowa</title>
   <style>
-    :root{--bg:#0f1724;--card:#172335;--muted:#98abc2;--txt:#e7eef7;--line:#31455e;--accent:#8ec5ff}
+    :root{--bg:#0b1220;--card:#15243a;--line:#31455e;--txt:#e7eef7;--muted:#98abc2;--acc:#4fb3ff;--ok:#38d39f;--warn:#f4b740}
     *{box-sizing:border-box} body{margin:0;font-family:Inter,Segoe UI,Arial,sans-serif;background:var(--bg);color:var(--txt)}
-    .wrap{max-width:980px;margin:0 auto;padding:24px}.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:18px;margin-bottom:16px}
-    h1{margin:.2rem 0 1rem;font-size:1.8rem} h2{margin:.2rem 0 .8rem;font-size:1.1rem}
-    p,li{line-height:1.55}.muted{color:var(--muted)}.actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:12px}
-    .btn{display:inline-block;padding:.65rem 1rem;border:1px solid var(--accent);border-radius:10px;color:var(--txt);text-decoration:none}
-    .btn:hover{background:rgba(142,197,255,.14)}
+    .wrap{max-width:1100px;margin:0 auto;padding:24px}.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px;margin-bottom:16px}
+    h1,h2,h3{margin:.2rem 0 .8rem} .muted{color:var(--muted)} .grid{display:grid;gap:12px}
+    .g2{grid-template-columns:repeat(auto-fit,minmax(250px,1fr))} .actions{display:flex;gap:8px;flex-wrap:wrap}
+    input,select,textarea,button{font:inherit}
+    input,select{width:100%;background:#0f1a2d;color:var(--txt);border:1px solid var(--line);border-radius:9px;padding:.6rem .7rem}
+    button{cursor:pointer;border:1px solid var(--acc);background:#0f1a2d;color:var(--txt);border-radius:10px;padding:.55rem .9rem}
+    button.primary{background:linear-gradient(90deg,#2f7ee5,#4fb3ff)} button.ok{border-color:var(--ok)} button.warn{border-color:var(--warn)}
+    button:disabled{opacity:.45;cursor:not-allowed}
+    .pill{display:inline-block;padding:.2rem .5rem;border:1px solid var(--line);border-radius:999px;color:var(--muted);font-size:.86rem}
+    .opts{display:grid;grid-template-columns:1fr 1fr;gap:10px}.opt{padding:.9rem;border:1px solid var(--line);border-radius:10px;background:#0f1a2d;text-align:left}
+    .opt.sel{border-color:var(--acc);box-shadow:0 0 0 1px rgba(79,179,255,.35)}
+    table{width:100%;border-collapse:collapse} td,th{padding:.45rem;border-bottom:1px solid var(--line);text-align:left}
+    code{background:#0f1a2d;padding:.08rem .35rem;border-radius:6px}
   </style>
 </head>
 <body>
-  <main class="wrap">
-    <section class="card">
-      <h1>Wspólna gra testowa (Kahoot)</h1>
-      <p class="muted">Moduł do szybkiego uruchomienia sesji grupowej i wspólnego rozwiązywania pytań testowych.</p>
-      <div class="actions">
-        <a class="btn" href="https://kahoot.com/" target="_blank" rel="noopener noreferrer">Otwórz Kahoot (host)</a>
-        <a class="btn" href="https://kahoot.it/" target="_blank" rel="noopener noreferrer">Dołącz jako uczestnik</a>
+<main class="wrap">
+  <section class="card">
+    <h1>PsyHub Live Quiz</h1>
+    <p class="muted">Niezależny moduł wspólnego testowania (analogiczny do Kahoot): prowadzący uruchamia pokój, studenci dołączają kodem PIN i rywalizują na punkty za poprawność oraz szybkość odpowiedzi.</p>
+    <div class="actions">
+      <span class="pill">Tryb hosta i uczestnika</span>
+      <span class="pill">Ranking na żywo</span>
+      <span class="pill">Punktacja czasowa</span>
+    </div>
+  </section>
+
+  <section class="card grid g2" id="lobby"></section>
+  <section class="card" id="game" style="display:none"></section>
+</main>
+
+<script>
+(() => {
+  const KEY_PREFIX = 'psyhub_live_quiz_room_';
+  const QUESTIONS = [
+    {q:'Który płat mózgu odpowiada głównie za funkcje wykonawcze?', options:['Potyliczny','Czołowy','Skroniowy','Ciemieniowy'], correct:1},
+    {q:'Najsilniej potwierdzona interwencja pierwszego wyboru w PTSD to:', options:['CBT z ekspozycją','Witamina D','Hipnoza regresyjna','Trening szybkości czytania'], correct:0},
+    {q:'Efekt placebo jest:', options:['Wyłącznie oszustwem','Zjawiskiem psychobiologicznym','Tożsamy z remisją','Nieważny klinicznie'], correct:1},
+    {q:'W badaniach RCT randomizacja służy głównie do:', options:['Zwiększenia próby','Kontroli zmiennych zakłócających','Skrócenia badania','Ukrycia hipotezy'], correct:1}
+  ];
+
+  const $ = (sel) => document.querySelector(sel);
+  const esc = (t) => String(t||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/\"/g,'&quot;');
+  const lobby = $('#lobby');
+  const game = $('#game');
+  let state = null;
+
+  function pin(){ return String(Math.floor(100000 + Math.random()*900000)); }
+  function now(){ return Date.now(); }
+  function roomKey(id){ return KEY_PREFIX + id; }
+  function readRoom(id){ const raw = localStorage.getItem(roomKey(id)); return raw ? JSON.parse(raw) : null; }
+  function saveRoom(room){ localStorage.setItem(roomKey(room.pin), JSON.stringify(room)); }
+
+  function baseRoom(host){ return { pin: pin(), host, createdAt: now(), status:'lobby', qIndex:0, startedAt:null, lockedAt:null, players:[], answers:{}, scores:{} }; }
+
+  function renderLobby(){
+    lobby.innerHTML = `
+      <div>
+        <h2>Host (prowadzący)</h2>
+        <label>Nazwa prowadzącego <input id="hostName" placeholder="np. Dr Kowalski"></label>
+        <div class="actions"><button class="primary" id="createRoom">Utwórz pokój quizu</button></div>
       </div>
-    </section>
-    <section class="card">
-      <h2>Szybki przebieg sesji</h2>
-      <ol>
-        <li>Prowadzący wybiera quiz i uruchamia grę na żywo.</li>
-        <li>Uczestnicy dołączają kodem PIN.</li>
-        <li>Po każdym pytaniu grupa krótko omawia poprawną odpowiedź.</li>
-        <li>Na koniec wracacie do „Testów teoretycznych”, by utrwalić słabe obszary.</li>
-      </ol>
-    </section>
-  </main>
+      <div>
+        <h2>Student (uczestnik)</h2>
+        <label>Imię/Nick <input id="playerName" placeholder="np. Ola"></label>
+        <label>Kod PIN pokoju <input id="joinPin" maxlength="6" placeholder="6 cyfr"></label>
+        <div class="actions"><button class="ok" id="joinRoom">Dołącz do pokoju</button></div>
+      </div>`;
+
+    $('#createRoom').onclick = () => {
+      const host = $('#hostName').value.trim() || 'Prowadzący';
+      const room = baseRoom(host);
+      saveRoom(room);
+      sessionStorage.setItem('psyhub_role', 'host');
+      sessionStorage.setItem('psyhub_name', host);
+      sessionStorage.setItem('psyhub_pin', room.pin);
+      openGame();
+    };
+
+    $('#joinRoom').onclick = () => {
+      const name = $('#playerName').value.trim();
+      const p = $('#joinPin').value.trim();
+      if (!name || p.length !== 6) return alert('Podaj nick i poprawny 6-cyfrowy PIN.');
+      const room = readRoom(p);
+      if (!room) return alert('Nie znaleziono pokoju o tym PIN.');
+      if (room.players.includes(name)) return alert('Ten nick jest już zajęty.');
+      room.players.push(name);
+      room.scores[name] = 0;
+      saveRoom(room);
+      sessionStorage.setItem('psyhub_role', 'player');
+      sessionStorage.setItem('psyhub_name', name);
+      sessionStorage.setItem('psyhub_pin', p);
+      openGame();
+    };
+  }
+
+  function startQuestion(room){
+    room.status = 'question';
+    room.startedAt = now();
+    room.lockedAt = room.startedAt + 15000;
+    room.answers[room.qIndex] = {};
+  }
+
+  function closeQuestion(room){
+    const q = QUESTIONS[room.qIndex];
+    const answerSet = room.answers[room.qIndex] || {};
+    Object.entries(answerSet).forEach(([player, data]) => {
+      if (data.choice === q.correct) {
+        const speed = Math.max(0, 15000 - data.ms);
+        room.scores[player] = (room.scores[player] || 0) + 500 + Math.round(speed/30);
+      }
+    });
+    room.status = 'results';
+  }
+
+  function nextQuestion(room){
+    if (room.qIndex >= QUESTIONS.length - 1) {
+      room.status = 'finished';
+    } else {
+      room.qIndex += 1;
+      startQuestion(room);
+    }
+  }
+
+  function ranking(room){
+    return Object.entries(room.scores).sort((a,b)=>b[1]-a[1]);
+  }
+
+  function openGame(){
+    lobby.style.display='none';
+    game.style.display='block';
+    refresh();
+  }
+
+  function refresh(){
+    const role = sessionStorage.getItem('psyhub_role');
+    const name = sessionStorage.getItem('psyhub_name');
+    const p = sessionStorage.getItem('psyhub_pin');
+    const room = readRoom(p);
+    if (!role || !room) { game.innerHTML = '<h2>Brak aktywnej sesji</h2>'; return; }
+    state = room;
+    const q = QUESTIONS[room.qIndex];
+    const rankRows = ranking(room).map(([n,s],i)=>`<tr><td>${i+1}.</td><td>${esc(n)}</td><td>${s}</td></tr>`).join('') || '<tr><td colspan="3">Brak punktów</td></tr>';
+    const countdown = room.lockedAt ? Math.max(0, Math.ceil((room.lockedAt-now())/1000)) : '-';
+
+    game.innerHTML = `
+      <div class="actions" style="justify-content:space-between">
+        <div><strong>PIN:</strong> <code>${room.pin}</code> · <strong>Rola:</strong> ${role === 'host' ? 'Host' : 'Student'} · <strong>Pytanie:</strong> ${room.qIndex+1}/${QUESTIONS.length}</div>
+        <button onclick="location.reload()">Wyjdź</button>
+      </div>
+      <div class="grid g2">
+        <div>
+          <h3>Gra</h3>
+          <p class="muted">Status: <strong>${room.status}</strong> ${room.status==='question' ? '· Czas: '+countdown+' s' : ''}</p>
+          ${renderRolePanel(role, name, room, q)}
+        </div>
+        <div>
+          <h3>Ranking</h3>
+          <table><thead><tr><th>#</th><th>Student</th><th>Punkty</th></tr></thead><tbody>${rankRows}</tbody></table>
+        </div>
+      </div>`;
+
+    bindActions(role, name, room);
+  }
+
+  function renderRolePanel(role, name, room, q){
+    if (role === 'host') {
+      const canStart = room.status === 'lobby';
+      const canClose = room.status === 'question';
+      const canNext = room.status === 'results';
+      return `
+        <p><strong>Prowadzący:</strong> ${esc(room.host)}</p>
+        <p><strong>Uczestnicy:</strong> ${room.players.map(esc).join(', ') || 'brak'}</p>
+        <p><strong>Pytanie:</strong> ${q.q}</p>
+        <div class="actions">
+          <button class="primary" id="startQ" ${!canStart?'disabled':''}>Start gry</button>
+          <button class="warn" id="closeQ" ${!canClose?'disabled':''}>Zamknij pytanie</button>
+          <button class="ok" id="nextQ" ${!canNext?'disabled':''}>Następne pytanie</button>
+        </div>`;
+    }
+
+    if (room.status === 'question') {
+      const already = (room.answers[room.qIndex]||{})[name];
+      const opts = q.options.map((opt,i)=>`<button class="opt ${already&&already.choice===i?'sel':''}" data-choice="${i}">${i+1}. ${opt}</button>`).join('');
+      return `<p><strong>${q.q}</strong></p><div class="opts">${opts}</div><p class="muted">Punkty za pytanie: 500 + premia za szybkość (maks. ok. 500).</p>`;
+    }
+
+    if (room.status === 'results') {
+      const correct = q.options[q.correct];
+      return `<p>Poprawna odpowiedź: <strong>${correct}</strong></p><p class="muted">Czekaj na kolejne pytanie od prowadzącego.</p>`;
+    }
+
+    if (room.status === 'finished') {
+      return '<p><strong>Koniec gry.</strong> Możesz dołączyć do nowego pokoju z nowym PIN.</p>';
+    }
+
+    return '<p class="muted">Czekaj na rozpoczęcie gry przez prowadzącego.</p>';
+  }
+
+  function bindActions(role, name, room){
+    if (role === 'host') {
+      const start = $('#startQ'); if (start) start.onclick = () => { startQuestion(room); saveRoom(room); refresh(); };
+      const close = $('#closeQ'); if (close) close.onclick = () => { closeQuestion(room); saveRoom(room); refresh(); };
+      const next = $('#nextQ'); if (next) next.onclick = () => { nextQuestion(room); saveRoom(room); refresh(); };
+      return;
+    }
+    game.querySelectorAll('[data-choice]').forEach(btn => {
+      btn.onclick = () => {
+        if (readRoom(room.pin).status !== 'question') return;
+        const choice = Number(btn.getAttribute('data-choice'));
+        const fresh = readRoom(room.pin);
+        fresh.answers[fresh.qIndex] ??= {};
+        fresh.answers[fresh.qIndex][name] = { choice, ms: Math.max(0, now() - fresh.startedAt) };
+        saveRoom(fresh);
+        refresh();
+      };
+    });
+  }
+
+  window.addEventListener('storage', (e) => {
+    if (e.key && e.key.startsWith(KEY_PREFIX)) refresh();
+  });
+
+  setInterval(() => {
+    const p = sessionStorage.getItem('psyhub_pin');
+    if (!p) return;
+    const room = readRoom(p);
+    if (!room) return;
+    if (sessionStorage.getItem('psyhub_role') === 'host' && room.status === 'question' && now() >= room.lockedAt) {
+      closeQuestion(room); saveRoom(room);
+    }
+    refresh();
+  }, 1000);
+
+  renderLobby();
+})();
+</script>
 </body>
 </html>

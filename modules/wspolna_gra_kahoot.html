@@ -49,6 +49,7 @@
   ];
 
   const $ = (sel) => document.querySelector(sel);
+  const esc = (t) => String(t||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/\"/g,'&quot;');
   const lobby = $('#lobby');
   const game = $('#game');
   let state = null;

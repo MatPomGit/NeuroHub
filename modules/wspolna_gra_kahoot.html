@@ -178,8 +178,8 @@
       const canClose = room.status === 'question';
       const canNext = room.status === 'results';
       return `
-        <p><strong>Prowadzący:</strong> ${room.host}</p>
-        <p><strong>Uczestnicy:</strong> ${room.players.join(', ') || 'brak'}</p>
+        <p><strong>Prowadzący:</strong> ${esc(room.host)}</p>
+        <p><strong>Uczestnicy:</strong> ${room.players.map(esc).join(', ') || 'brak'}</p>
         <p><strong>Pytanie:</strong> ${q.q}</p>
         <div class="actions">
           <button class="primary" id="startQ" ${!canStart?'disabled':''}>Start gry</button>

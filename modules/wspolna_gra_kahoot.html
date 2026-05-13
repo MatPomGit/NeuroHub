@@ -92,8 +92,9 @@
       if (!name || p.length !== 6) return alert('Podaj nick i poprawny 6-cyfrowy PIN.');
       const room = readRoom(p);
       if (!room) return alert('Nie znaleziono pokoju o tym PIN.');
-      if (!room.players.includes(name)) room.players.push(name);
-      room.scores[name] ??= 0;
+      if (room.players.includes(name)) return alert('Ten nick jest już zajęty.');
+      room.players.push(name);
+      room.scores[name] = 0;
       saveRoom(room);
       sessionStorage.setItem('psyhub_role', 'player');
       sessionStorage.setItem('psyhub_name', name);

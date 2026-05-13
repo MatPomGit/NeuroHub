@@ -440,6 +440,7 @@ function renderTheoreticalTest(id, item) {
             <div class="ttest-diff-desc">${selDiffDesc}</div>
           </div>
           <button class="ttest-start-btn" onclick="ttStart()">Rozpocznij test →</button>
+          <button class="ttest-start-btn ttest-start-btn--secondary" onclick="navigate('dla_studentow/wspolna_gra_kahoot')">Przejdź do wspólnej gry (Kahoot) →</button>
         </section>
       </div>
     </div>`;

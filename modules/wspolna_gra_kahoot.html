@@ -149,7 +149,7 @@
     if (!role || !room) { game.innerHTML = '<h2>Brak aktywnej sesji</h2>'; return; }
     state = room;
     const q = QUESTIONS[room.qIndex];
-    const rankRows = ranking(room).map(([n,s],i)=>`<tr><td>${i+1}.</td><td>${n}</td><td>${s}</td></tr>`).join('') || '<tr><td colspan="3">Brak punktów</td></tr>';
+    const rankRows = ranking(room).map(([n,s],i)=>`<tr><td>${i+1}.</td><td>${esc(n)}</td><td>${s}</td></tr>`).join('') || '<tr><td colspan="3">Brak punktów</td></tr>';
     const countdown = room.lockedAt ? Math.max(0, Math.ceil((room.lockedAt-now())/1000)) : '-';
 
     game.innerHTML = `

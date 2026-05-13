@@ -235,7 +235,7 @@
     if (!p) return;
     const room = readRoom(p);
     if (!room) return;
-    if (room.status === 'question' && now() >= room.lockedAt) {
+    if (sessionStorage.getItem('psyhub_role') === 'host' && room.status === 'question' && now() >= room.lockedAt) {
       closeQuestion(room); saveRoom(room);
     }
     refresh();

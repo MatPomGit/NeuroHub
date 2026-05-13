@@ -28,11 +28,56 @@
     body {
       font-family: "Inter", "Segoe UI", sans-serif;
       transition: background 0.5s;
+      background:
+        radial-gradient(circle at top left, rgba(56,189,248,0.18), transparent 32%),
+        radial-gradient(circle at bottom right, rgba(168,85,247,0.16), transparent 28%),
+        #020617;
+      color: var(--text);
+      margin: 0;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+    }
+
+    body::before,
+    body::after {
+      content: '';
+      position: fixed;
+      inset: auto;
+      border-radius: 999px;
+      pointer-events: none;
+      filter: blur(18px);
+      opacity: 0.45;
+      z-index: 0;
+    }
+
+    body::before {
+      width: 260px;
+      height: 260px;
+      top: 8vh;
+      left: -80px;
+      background: rgba(56,189,248,0.16);
+    }
+
+    body::after {
+      width: 320px;
+      height: 320px;
+      right: -120px;
+      bottom: 6vh;
+      background: rgba(168,85,247,0.14);
+    }
+
+    .reveal,
+    .reveal .slides {
+      position: relative;
+      z-index: 1;
     }
 
     .reveal {
       color: var(--text);
-      font-size: 30px;
+      font-size: 24px;
+      width: 100vw;
+      height: 100vh;
     }
 
     .reveal h1,
@@ -43,33 +88,52 @@
       letter-spacing: -0.03em;
     }
 
+    .reveal p,
+    .reveal li {
+      color: #e2e8f0;
+    }
+
+    .reveal li::marker {
+      color: var(--accent);
+    }
+
+    .reveal .slides section {
+      padding: 14px 16px;
+      box-sizing: border-box;
+    }
+
     .reveal h1 {
-      font-size: 2.3em;
+      font-size: 2em;
       line-height: 1.1;
     }
 
     .reveal h2 {
-      font-size: 1.6em;
+      font-size: 1.35em;
       color: var(--accent);
-      margin-bottom: 30px;
+      margin-bottom: 18px;
     }
 
     .reveal h3 {
       color: var(--accent-2);
-      font-size: 1em;
+      font-size: 0.9em;
     }
 
     .subtitle {
       color: var(--muted);
-      font-size: 0.9em;
-      margin-top: 20px;
+      font-size: 0.8em;
+      margin-top: 14px;
+      text-align: center;
     }
 
     .authors {
-      margin-top: 35px;
-      font-size: 0.65em;
+      margin-top: 22px;
+      font-size: 0.58em;
       color: #dbeafe;
       line-height: 1.7;
+      text-align: center;
+      max-width: 980px;
+      margin-left: auto;
+      margin-right: auto;
     }
 
     .footer {
@@ -85,27 +149,86 @@
       grid-template-columns: 1fr 1fr;
       gap: 28px;
       align-items: start;
+      width: min(100%, 1080px);
+      margin-left: auto;
+      margin-right: auto;
     }
 
     .card {
-      background: rgba(255,255,255,0.05);
-      border: 1px solid rgba(255,255,255,0.08);
+      background: linear-gradient(180deg, rgba(15,23,42,0.95), rgba(15,23,42,0.78));
+      border: 1px solid rgba(56,189,248,0.18);
       border-radius: 20px;
-      padding: 22px;
+      padding: 16px 18px;
       backdrop-filter: blur(8px);
-      box-shadow: 0 10px 30px rgba(0,0,0,0.35);
+      box-shadow: 0 14px 38px rgba(0,0,0,0.42);
       transition: translate 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
     }
 
     .card:hover {
       translate: 0 -5px;
       box-shadow: 0 20px 45px rgba(0,0,0,0.5);
-      border-color: rgba(255,255,255,0.2);
+      border-color: rgba(56,189,248,0.35);
+    }
+
+    .card p:last-child {
+      margin-bottom: 0;
     }
 
     .highlight {
       color: var(--accent);
       font-weight: 700;
+    }
+
+    .section-note,
+    .callout {
+      margin-top: 16px;
+      padding: 12px 16px;
+      border-radius: 16px;
+      background: rgba(56,189,248,0.09);
+      border: 1px solid rgba(56,189,248,0.18);
+      color: #dbeafe;
+      font-size: 0.7em;
+      line-height: 1.6;
+      width: min(100%, 1080px);
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    .callout {
+      background: linear-gradient(135deg, rgba(168,85,247,0.12), rgba(56,189,248,0.09));
+      border-color: rgba(168,85,247,0.22);
+    }
+
+    .tag-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 12px;
+    }
+
+    .tag {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 8px 12px;
+      border-radius: 999px;
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.12);
+      color: #f8fafc;
+      font-size: 0.45em;
+      letter-spacing: 0.02em;
+    }
+
+    .tag.accent {
+      background: rgba(56,189,248,0.14);
+      border-color: rgba(56,189,248,0.26);
+      color: #e0f2fe;
+    }
+
+    .tag.alt {
+      background: rgba(168,85,247,0.12);
+      border-color: rgba(168,85,247,0.22);
+      color: #f3e8ff;
     }
 
     ul li,
@@ -118,6 +241,9 @@
       grid-template-columns: repeat(4, 1fr);
       gap: 18px;
       margin-top: 25px;
+      width: min(100%, 1000px);
+      margin-left: auto;
+      margin-right: auto;
     }
 
     .metric {
@@ -145,11 +271,75 @@
       margin-top: 10px;
     }
 
+    .chart-panel {
+      width: min(100%, 1080px);
+      margin: 20px auto 0;
+      padding: 14px 16px;
+      border-radius: 18px;
+      border: 1px solid rgba(56,189,248,0.2);
+      background: linear-gradient(180deg, rgba(15,23,42,0.92), rgba(15,23,42,0.7));
+    }
+
+    .chart-title {
+      font-size: 0.68em;
+      color: #cbd5e1;
+      text-align: center;
+      margin-bottom: 8px;
+    }
+
+    .chart-legend {
+      display: flex;
+      justify-content: center;
+      gap: 18px;
+      margin-top: 8px;
+      font-size: 0.52em;
+      color: #cbd5e1;
+    }
+
+    .legend-item {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .legend-dot {
+      width: 11px;
+      height: 11px;
+      border-radius: 50%;
+      display: inline-block;
+    }
+
+    .legend-dot.shame { background: #38bdf8; }
+    .legend-dot.guilt { background: #a855f7; }
+    .legend-dot.conv { background: #34d399; }
+    .legend-dot.div { background: #f59e0b; }
+
+    .chart-bar {
+      transform-origin: center bottom;
+      opacity: 0.95;
+    }
+
+    .reveal .slides section.present .chart-bar {
+      animation: growBar 0.7s ease both;
+    }
+
+    .reveal .slides section.present .chart-bar.b2 { animation-delay: 0.1s; }
+    .reveal .slides section.present .chart-bar.b3 { animation-delay: 0.2s; }
+    .reveal .slides section.present .chart-bar.b4 { animation-delay: 0.3s; }
+
+    @keyframes growBar {
+      from { transform: scaleY(0); opacity: 0.2; }
+      to { transform: scaleY(1); opacity: 0.95; }
+    }
+
     .timeline {
       display: grid;
       grid-template-columns: repeat(4, 1fr);
       gap: 18px;
       margin-top: 35px;
+      width: min(100%, 1000px);
+      margin-left: auto;
+      margin-right: auto;
     }
 
     .timeline .step {
@@ -169,8 +359,12 @@
     .big-quote {
       font-size: 1.15em;
       line-height: 1.5;
-      color: #e2e8f0;
+      color: #f8fafc;
       margin-top: 40px;
+      width: min(100%, 1000px);
+      margin-left: auto;
+      margin-right: auto;
+      text-align: center;
     }
 
     .warning {
@@ -213,8 +407,20 @@
     }
 
     .small {
-      font-size: 0.72em;
+      font-size: 0.64em;
       color: var(--muted);
+    }
+
+    .lead {
+      max-width: 78ch;
+      margin-top: 12px;
+      width: min(100%, 980px);
+      margin-left: auto;
+      margin-right: auto;
+      color: #dbeafe;
+      font-size: 0.66em;
+      line-height: 1.5;
+      text-align: center;
     }
 
     .center {
@@ -336,8 +542,8 @@
       display: flex;
       gap: 8px;
       align-items: center;
-      background: rgba(15, 23, 42, 0.75);
-      border: 1px solid rgba(255,255,255,0.12);
+      background: rgba(15, 23, 42, 0.84);
+      border: 1px solid rgba(56,189,248,0.18);
       border-radius: 14px;
       padding: 8px 12px;
       backdrop-filter: blur(8px);
@@ -443,6 +649,17 @@
       <h1>Emocje wstydu i winy<br>w różnych kulturach</h1>
       <div class="subtitle">Metaanaliza</div>
 
+      <p class="lead">
+        Przegląd pokazuje, że wstyd i wina są emocjami silnie osadzonymi w normach społecznych, języku i praktykach wychowawczych.
+        Zamiast prostego podziału na kultury „wstydu” i „winy” coraz częściej mówi się o układach mieszanych, zależnych od kontekstu.
+      </p>
+
+      <div class="tag-row">
+        <span class="tag accent">kultura</span>
+        <span class="tag">emocje samoświadomościowe</span>
+        <span class="tag alt">porównania międzykulturowe</span>
+      </div>
+
       <div class="authors">
         Anna Perkuta · Ewelina Borzewska · Izabela Rybka · Julia Bladowska<br>
         Kamila Naruszewicz · Kamila Rauer · Krzysztof Lindorf · Lucyna Pelc<br>
@@ -456,6 +673,9 @@
 
     <section>
       <h2>Plan prezentacji</h2>
+      <p class="lead">
+        Każdy blok prowadzi od klasycznych definicji, przez metody i wyniki, aż po współczesne spory interpretacyjne oraz praktyczne konsekwencje dla edukacji i psychoterapii.
+      </p>
       <div class="card">
         <ol>
           <li>Wprowadzenie i cele przeglądu</li>
@@ -472,6 +692,9 @@
 
     <section>
       <h2>Wprowadzenie i cele przeglądu</h2>
+      <p class="lead">
+        Najważniejszym celem jest pokazanie, kiedy klasyczne rozróżnienie przestaje działać i dlaczego badacze coraz częściej opisują emocje w ramach lokalnych ekosystemów znaczeń.
+      </p>
       <div class="grid-2">
         <div class="card">
           <h3>Dlaczego wstyd i wina?</h3>
@@ -493,10 +716,17 @@
           </ul>
         </div>
       </div>
+
+      <div class="section-note">
+        W praktyce oznacza to, że ten sam bodziec społeczny może wywołać zupełnie inne reakcje zależnie od tego, czy dana kultura akcentuje relacje, indywidualną odpowiedzialność, czy publiczną ocenę.
+      </div>
     </section>
 
     <section>
       <h2>Klasyczne rozróżnienia</h2>
+      <p class="lead">
+        Podział na „kultury wstydu” i „kultury winy” był użyteczny historycznie, ale dziś traktuje się go raczej jako punkt wyjścia niż gotowy opis rzeczywistości.
+      </p>
 
       <div class="grid-2">
         <div class="card">
@@ -518,6 +748,10 @@
             <li>Archetyp: Zachód</li>
           </ul>
         </div>
+      </div>
+
+      <div class="callout">
+        Współczesna literatura pokazuje nakładanie się obu emocji: wstyd może pełnić funkcję naprawczą, a wina bywa silnie regulowana społecznie, nie tylko wewnętrznie.
       </div>
 
       <div class="warning">
@@ -557,6 +791,9 @@
 
     <section>
       <h2>Metodologie badawcze</h2>
+      <p class="lead">
+        Różne metody dają różne odpowiedzi: kwestionariusze dobrze porównują populacje, a wywiady etnograficzne lepiej pokazują lokalne znaczenia i subtelne różnice pojęciowe.
+      </p>
 
       <div class="grid-2">
         <div class="card">
@@ -579,6 +816,10 @@
           <p class="small">Lokalne systemy znaczeń emocji.</p>
         </div>
       </div>
+
+      <div class="section-note">
+        Najmocniejsze wnioski pojawiają się wtedy, gdy pomiary ilościowe łączy się z interpretacją jakościową. Sam wynik procentowy rzadko wyjaśnia, co emocja oznacza dla badanych osób.
+      </div>
     </section>
 
     <section>
@@ -595,7 +836,12 @@
     </section>
 
     <section>
+      <div class="card">
       <h2>Indywidualizm vs kolektywizm</h2>
+      <p class="lead">
+        Zależność ta nie jest liniowa. W kulturach kolektywistycznych wstyd częściej pojawia się jako reakcja na naruszenie relacji, a wina częściej wiąże się z oceną zgodności z normą.
+      </p>
+      </div>
 
       <div class="big-quote">
         Kultury kolektywistyczne wykazują wyższy poziom wstydu, natomiast relacja kolektywizm–wina pozostaje bardziej złożona.
@@ -622,10 +868,73 @@
           <div class="label">Wina<br>indywidualizm</div>
         </div>
       </div>
+
+      <div class="callout">
+        Odczyt tych danych powinien uwzględniać normy rodzinne, styl socjalizacji i sposób mówienia o odpowiedzialności. Te elementy potrafią zmieniać wynik równie mocno jak sama przynależność kulturowa.
+      </div>
+    </section>
+
+    <section>
+      <h2>Wykres porównawczy emocji</h2>
+      <p class="lead">
+        Zestawienie pokazuje wyraźnie, że w kulturach kolektywistycznych silniej dominuje wstyd, natomiast poziom winy pozostaje bardziej wyrównany między badanymi kontekstami.
+      </p>
+
+      <div class="chart-panel">
+        <div class="chart-title">Poziom deklarowanego wstydu i winy (% respondentów)</div>
+        <svg viewBox="0 0 900 360" width="100%" role="img" aria-label="Wykres słupkowy: wstyd i wina w kulturach kolektywistycznych i indywidualistycznych">
+          <line x1="90" y1="40" x2="90" y2="295" stroke="rgba(226,232,240,0.5)" stroke-width="2"/>
+          <line x1="90" y1="295" x2="860" y2="295" stroke="rgba(226,232,240,0.5)" stroke-width="2"/>
+
+          <line x1="90" y1="245" x2="860" y2="245" stroke="rgba(148,163,184,0.22)" stroke-width="1"/>
+          <line x1="90" y1="195" x2="860" y2="195" stroke="rgba(148,163,184,0.22)" stroke-width="1"/>
+          <line x1="90" y1="145" x2="860" y2="145" stroke="rgba(148,163,184,0.22)" stroke-width="1"/>
+          <line x1="90" y1="95" x2="860" y2="95" stroke="rgba(148,163,184,0.22)" stroke-width="1"/>
+
+          <text x="60" y="300" fill="#cbd5e1" font-size="16">0</text>
+          <text x="46" y="250" fill="#cbd5e1" font-size="16">20</text>
+          <text x="46" y="200" fill="#cbd5e1" font-size="16">40</text>
+          <text x="46" y="150" fill="#cbd5e1" font-size="16">60</text>
+          <text x="46" y="100" fill="#cbd5e1" font-size="16">80</text>
+          <text x="46" y="50" fill="#cbd5e1" font-size="16">100</text>
+
+          <rect class="chart-bar b1" x="190" y="82.5" width="90" height="212.5" rx="12" fill="#38bdf8"/>
+          <rect class="chart-bar b2" x="330" y="182.5" width="90" height="112.5" rx="12" fill="#38bdf8"/>
+          <rect class="chart-bar b3" x="520" y="145" width="90" height="150" rx="12" fill="#a855f7"/>
+          <rect class="chart-bar b4" x="660" y="132.5" width="90" height="162.5" rx="12" fill="#a855f7"/>
+
+          <text x="235" y="74" fill="#e2e8f0" font-size="17" text-anchor="middle">85%</text>
+          <text x="375" y="174" fill="#e2e8f0" font-size="17" text-anchor="middle">45%</text>
+          <text x="565" y="137" fill="#e2e8f0" font-size="17" text-anchor="middle">60%</text>
+          <text x="705" y="124" fill="#e2e8f0" font-size="17" text-anchor="middle">65%</text>
+
+          <text x="235" y="322" fill="#cbd5e1" font-size="16" text-anchor="middle">Wstyd</text>
+          <text x="375" y="322" fill="#cbd5e1" font-size="16" text-anchor="middle">Wstyd</text>
+          <text x="565" y="322" fill="#cbd5e1" font-size="16" text-anchor="middle">Wina</text>
+          <text x="705" y="322" fill="#cbd5e1" font-size="16" text-anchor="middle">Wina</text>
+
+          <text x="285" y="345" fill="#94a3b8" font-size="14" text-anchor="middle">kolektywizm</text>
+          <text x="470" y="345" fill="#94a3b8" font-size="14" text-anchor="middle">indywidualizm</text>
+          <text x="615" y="345" fill="#94a3b8" font-size="14" text-anchor="middle">kolektywizm</text>
+          <text x="755" y="345" fill="#94a3b8" font-size="14" text-anchor="middle">indywidualizm</text>
+        </svg>
+
+        <div class="chart-legend">
+          <span class="legend-item"><span class="legend-dot shame"></span>Wstyd</span>
+          <span class="legend-item"><span class="legend-dot guilt"></span>Wina</span>
+        </div>
+      </div>
+
+      <div class="section-note">
+        Wykres porządkuje dane z poprzedniego slajdu i pokazuje, że największa różnica dotyczy natężenia wstydu między orientacją kolektywistyczną i indywidualistyczną.
+      </div>
     </section>
 
     <section>
       <h2>Różnice międzykulturowe</h2>
+      <p class="lead">
+        Zestawienia między krajami pokazują, że nie chodzi wyłącznie o „więcej” albo „mniej” emocji. Różne kultury inaczej definiują to, kiedy emocja jest uzasadniona i jak należy ją naprawić.
+      </p>
 
       <div class="grid-2">
         <div class="card">
@@ -647,10 +956,17 @@
           <div style="font-size:4em">🌍</div>
         </div>
       </div>
+
+      <div class="section-note">
+        W takim ujęciu różnice międzykulturowe stają się mniej rankingiem, a bardziej mapą sposobów regulacji relacji społecznych.
+      </div>
     </section>
 
     <section>
       <h2>Konteksty wywołujące emocje</h2>
+      <p class="lead">
+        Najsilniejsze reakcje uruchamiają sytuacje publiczne, ale ich interpretacja zależy od lokalnych norm: w jednych społecznościach kluczowa jest twarz i reputacja, w innych moralna zgodność działania z zasadą.
+      </p>
 
       <div class="grid-2">
         <div class="card">
@@ -671,10 +987,17 @@
           </ul>
         </div>
       </div>
+
+      <div class="callout">
+        To ważne także klinicznie: to, co w jednej kulturze jest sygnałem zdrowej autorefleksji, w innej może być odczytywane jako nadmierna samokontrola lub zagrożenie relacyjne.
+      </div>
     </section>
 
     <section>
       <h2>Semantyka i konceptualizacja</h2>
+      <p class="lead">
+        Tłumaczenie emocji między językami często zaciera różnice. Jedno słowo może obejmować doświadczenie, ocenę, relację i oczekiwanie społeczne jednocześnie.
+      </p>
 
       <div class="card">
         <p>
@@ -689,36 +1012,46 @@
           <span class="pill">Rarámuri</span>
         </div>
       </div>
+
+      <div class="section-note">
+        Dlatego porównania międzykulturowe wymagają nie tylko tłumaczenia słów, ale też rekonstrukcji lokalnych ram znaczeniowych.
+      </div>
     </section>
 
     <section>
       <h2>4 perspektywy teoretyczne</h2>
+      <p class="lead">
+        Cztery podejścia wyjaśniają emocje na różnych poziomach: od oceny poznawczej, przez funkcję społeczną, po ewolucję i konstrukcję językową.
+      </p>
 
       <div class="grid-2">
         <div class="card">
           <h3>T1 · Teoria oceny poznawczej</h3>
-          <p>Ocena sytuacji i zgodności z normami.</p>
+          <p>Ocena sytuacji i zgodności z normami. Emocja pojawia się wtedy, gdy zdarzenie zostaje zinterpretowane jako naruszające ważną zasadę.</p>
         </div>
 
         <div class="card">
           <h3>T2 · Podejście społeczno-funkcjonalne</h3>
-          <p>Emocje jako regulatory zachowań społecznych.</p>
+          <p>Emocje jako regulatory zachowań społecznych. Wstyd i wina wzmacniają naprawę relacji, ale robią to przez różne mechanizmy społeczne.</p>
         </div>
 
         <div class="card">
           <h3>T3 · Perspektywa ewolucyjna</h3>
-          <p>Wstyd jako mechanizm adaptacyjny.</p>
+          <p>Wstyd jako mechanizm adaptacyjny. Ma ograniczać ryzyko wykluczenia i chronić jednostkę przed utratą statusu.</p>
         </div>
 
         <div class="card">
           <h3>T4 · Konstruktywizm</h3>
-          <p>Emocje jako produkty praktyk i języka.</p>
+          <p>Emocje jako produkty praktyk i języka. To, co czujemy, jest współtworzone przez słownictwo, normy i rytuały społeczne.</p>
         </div>
       </div>
     </section>
 
     <section>
       <h2>Konwergencje i rozbieżności</h2>
+      <p class="lead">
+        Zestawienie wyników pokazuje, że część zjawisk jest powtarzalna niezależnie od kultury, ale relacja między wstydem i winą nie daje się sprowadzić do jednego uniwersalnego wzorca.
+      </p>
 
       <div class="grid-2">
         <div class="card">
@@ -739,10 +1072,71 @@
           </ul>
         </div>
       </div>
+
+      <div class="callout">
+        Najbardziej użyteczne są dziś modele hybrydowe: uznają zarówno wspólne mechanizmy emocjonalne, jak i lokalne sposoby ich interpretowania.
+      </div>
+    </section>
+
+    <section>
+      <h2>Wykres: konwergencje i rozbieżności</h2>
+      <p class="lead">
+        Dla wstydu obserwujemy silniejsze konwergencje między badaniami, podczas gdy w obszarze winy większy udział mają rozbieżności interpretacyjne i metodologiczne.
+      </p>
+
+      <div class="chart-panel">
+        <div class="chart-title">Udział konwergencji i rozbieżności w analizach dotyczących wstydu i winy (%)</div>
+        <svg viewBox="0 0 900 360" width="100%" role="img" aria-label="Wykres słupkowy: konwergencje i rozbieżności dla wstydu i winy">
+          <line x1="90" y1="40" x2="90" y2="295" stroke="rgba(226,232,240,0.5)" stroke-width="2"/>
+          <line x1="90" y1="295" x2="860" y2="295" stroke="rgba(226,232,240,0.5)" stroke-width="2"/>
+
+          <line x1="90" y1="245" x2="860" y2="245" stroke="rgba(148,163,184,0.22)" stroke-width="1"/>
+          <line x1="90" y1="195" x2="860" y2="195" stroke="rgba(148,163,184,0.22)" stroke-width="1"/>
+          <line x1="90" y1="145" x2="860" y2="145" stroke="rgba(148,163,184,0.22)" stroke-width="1"/>
+          <line x1="90" y1="95" x2="860" y2="95" stroke="rgba(148,163,184,0.22)" stroke-width="1"/>
+
+          <text x="60" y="300" fill="#cbd5e1" font-size="16">0</text>
+          <text x="46" y="250" fill="#cbd5e1" font-size="16">20</text>
+          <text x="46" y="200" fill="#cbd5e1" font-size="16">40</text>
+          <text x="46" y="150" fill="#cbd5e1" font-size="16">60</text>
+          <text x="46" y="100" fill="#cbd5e1" font-size="16">80</text>
+          <text x="46" y="50" fill="#cbd5e1" font-size="16">100</text>
+
+          <rect class="chart-bar b1" x="200" y="100" width="95" height="195" rx="12" fill="#34d399"/>
+          <rect class="chart-bar b2" x="330" y="155" width="95" height="140" rx="12" fill="#f59e0b"/>
+          <rect class="chart-bar b3" x="520" y="132.5" width="95" height="162.5" rx="12" fill="#34d399"/>
+          <rect class="chart-bar b4" x="650" y="125" width="95" height="170" rx="12" fill="#f59e0b"/>
+
+          <text x="247" y="92" fill="#e2e8f0" font-size="17" text-anchor="middle">78%</text>
+          <text x="377" y="147" fill="#e2e8f0" font-size="17" text-anchor="middle">56%</text>
+          <text x="567" y="124" fill="#e2e8f0" font-size="17" text-anchor="middle">65%</text>
+          <text x="697" y="117" fill="#e2e8f0" font-size="17" text-anchor="middle">68%</text>
+
+          <text x="247" y="320" fill="#cbd5e1" font-size="16" text-anchor="middle">Konwergencje</text>
+          <text x="377" y="320" fill="#cbd5e1" font-size="16" text-anchor="middle">Rozbieżności</text>
+          <text x="567" y="320" fill="#cbd5e1" font-size="16" text-anchor="middle">Konwergencje</text>
+          <text x="697" y="320" fill="#cbd5e1" font-size="16" text-anchor="middle">Rozbieżności</text>
+
+          <text x="312" y="344" fill="#94a3b8" font-size="14" text-anchor="middle">Wstyd</text>
+          <text x="632" y="344" fill="#94a3b8" font-size="14" text-anchor="middle">Wina</text>
+        </svg>
+
+        <div class="chart-legend">
+          <span class="legend-item"><span class="legend-dot conv"></span>Konwergencje</span>
+          <span class="legend-item"><span class="legend-dot div"></span>Rozbieżności</span>
+        </div>
+      </div>
+
+      <div class="section-note">
+        W obszarze wstydu częściej powtarza się kierunek wyników, natomiast dla winy utrzymuje się większa niejednorodność zależna od kontekstu kulturowego i sposobu operacjonalizacji zmiennych.
+      </div>
     </section>
 
     <section>
       <h2>Przyszłe kierunki badań</h2>
+      <p class="lead">
+        Następny krok to badania wielopoziomowe: łączenie neuronauki, psychologii, antropologii i analizy języka, aby zobaczyć, jak emocja działa w realnym środowisku społecznym.
+      </p>
 
       <div class="timeline">
         <div class="step">
@@ -769,10 +1163,17 @@
         <span class="pill">Psychoterapia</span>
         <span class="pill">Intersekcjonalność</span>
       </div>
+
+      <div class="section-note">
+        Najcenniejsze będą projekty długofalowe i międzydyscyplinarne, bo tylko one pokażą, jak emocje zmieniają się wraz z wiekiem, migracją i zmianą kontekstu społecznego.
+      </div>
     </section>
 
     <section>
       <h2>Wnioski</h2>
+      <p class="lead">
+        Wnioski płynące z przeglądu są praktyczne: zamiast szukać prostego podziału kultur, warto badać mechanizmy, które uruchamiają emocje i nadają im znaczenie w konkretnych społecznościach.
+      </p>
 
       <div class="card">
         <ul>
@@ -782,6 +1183,10 @@
           <li>Najbardziej obiecujące są modele integrujące neurobiologię, psychologię i kulturę.</li>
         </ul>
       </div>
+
+      <div class="callout">
+        W praktyce badawczej i klinicznej najważniejsze jest więc pytanie nie „czy dana kultura jest kulturą wstydu?”, ale „w jakich sytuacjach i przez jakie normy wstyd lub wina zostają wywołane”.
+      </div>
     </section>
 
     <section>
@@ -789,8 +1194,8 @@
       <div class="subtitle">Pytania i dyskusja</div>
 
       <div class="authors">
-        Anna Perkuta · Ewelina Borzewska · Izabela Rybka · Julia Bladowska · Kamila Naruszewicz<br>
-        Kamila Rauer · Krzysztof Lindorf · Lucyna Pelc · Małgorzata Różańska · Mateusz Pomianek
+        Izabela Rybka · Anna Seruga-Łężniak<br>
+        Julia Bladowska · Krzysztof Lindorf · Mateusz Pomianek
       </div>
     </section>
 
@@ -804,7 +1209,11 @@
     hash: true,
     slideNumber: true,
     transition: 'slide',
-    backgroundTransition: 'fade'
+    backgroundTransition: 'fade',
+    width: 1280,
+    height: 720,
+    margin: 0,
+    center: true
   });
 
   // ── Timer (startuje dopiero od 2. slajdu) ────────────────

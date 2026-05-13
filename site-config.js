@@ -3795,7 +3795,7 @@ window.SITE_CONFIG = {
             { label: 'Diagnoza - prezentacja', href: 'pages/diagnoza_prezentacja.html', status: 'xlink', desc: 'Dodatkowa strona HTML: diagnoza_prezentacja.html.' },
             { label: 'Diagnoza - prezentacja (wersja 2)', href: 'pages/diagnoza_prezentacja_2.html', status: 'xlink', desc: 'Dodatkowa strona HTML: diagnoza_prezentacja_2.html.' },
             { label: 'Eksperyment n-back', href: 'pages/n_back_eksperyment.html', status: 'xlink', desc: 'Interaktywna strona HTML do przeprowadzania eksperymentu zadania n-back.' },
-            { label: 'Strony_B', href: 'pages/Strony_B.html', status: 'xlink', desc: 'Dodatkowa strona HTML: Strony_B.' },
+            { label: 'Strony_B', href: 'pages/Strony_B.html', status: 'xlink', desc: 'Dodatkowa strona HTML: Strony_B.html.' },
             { label: 'Wstyd i wina', href: 'pages/wstyd_i_wina.html', status: 'xlink', desc: 'Dodatkowa strona HTML: wstyd_i_wina.html.' },
           ]
         }

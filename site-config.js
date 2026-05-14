@@ -3797,6 +3797,10 @@ window.SITE_CONFIG = {
             { label: 'Eksperyment n-back', href: 'pages/n_back_eksperyment.html', status: 'xlink', desc: 'Interaktywna strona HTML do przeprowadzania eksperymentu zadania n-back.' },
             { label: 'Strony_B', href: 'pages/Strony_B.html', status: 'xlink', desc: 'Dodatkowa strona HTML: Strony_B.html.' },
             { label: 'Wstyd i wina', href: 'pages/wstyd_i_wina.html', status: 'xlink', desc: 'Dodatkowa strona HTML: wstyd_i_wina.html.' },
+            { label: 'Strona P1', href: 'pages/p1.html', status: 'xlink', desc: 'Dodatkowa strona HTML: p1.html.' },
+            { label: 'Strona P2', href: 'pages/p2.html', status: 'xlink', desc: 'Dodatkowa strona HTML: p2.html.' },
+            { label: 'Strona P3', href: 'pages/p3.html', status: 'xlink', desc: 'Dodatkowa strona HTML: p3.html.' },
+            { label: 'Strona P4', href: 'pages/p4.html', status: 'xlink', desc: 'Dodatkowa strona HTML: p4.html.' },
           ]
         }
       ]

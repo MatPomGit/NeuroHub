@@ -1,0 +1,42 @@
+{
+    "id": "mbti",
+    "name": "Myers-Briggs Type Indicator (MBTI)",
+    "type": "kwestionariusz",
+    "constructs": [
+        "cechy osobowosci"
+    ],
+    "population": "Dorosli",
+    "ageRange": "18+",
+    "administrationTime": "15-30 min",
+    "scoring": "Klasyfikacja typow osobowosci na podstawie odpowiedzi",
+    "evidenceLevel": "niski",
+    "license": "otwarta",
+    "requiresPermissions": false,
+    "language": [
+    "pl",
+    "en"
+    ],
+    "articleLinks": [
+        "wiki/psychometria/mbti"
+    ],
+    "methodologyLinks": [
+    "wiki/psychometria/rzetelnosc",
+    "wiki/psychometria/trafnosc"
+    ],
+    "reliability": "Ograniczona rzetelnosc wewnetrzna i zewnetrzna.",
+    "validity": "Niska trafnosc kryterialna i zbiezna.",
+    "normsInfo": "",
+    "limitations": "Ograniczenia w interpretacji i niska trafnosc kliniczna.",
+    "ethicalNotes": "",
+    "contraindications": "",
+    "evidenceType": "",
+    "sampleInfo": "",
+    "normCountry": "",
+    "normYear": "",
+    "effectSizeInfo": "",
+    "primarySourceYear": 1962,
+    "sourceRefs": [
+    "Myers & McCaulley (1962)",
+    "Bridges (2001)"
+    ]
+}

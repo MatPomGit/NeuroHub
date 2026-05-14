@@ -221,6 +221,32 @@
       text-align: center;
     }
 
+    .figure-card {
+      display: grid;
+      gap: 16px;
+      justify-items: center;
+      align-items: center;
+    }
+
+    .figure-card img {
+      width: 100%;
+      max-width: 880px;
+      max-height: 56vh;
+      object-fit: contain;
+      border-radius: 18px;
+      border: 1px solid rgba(255,255,255,0.12);
+      box-shadow: 0 18px 40px rgba(0,0,0,0.42);
+      background: rgba(255,255,255,0.03);
+    }
+
+    .figure-caption {
+      max-width: 880px;
+      font-size: 0.72em;
+      color: var(--muted);
+      line-height: 1.55;
+      text-align: left;
+    }
+
     /* ── MOTYWY KOLORYSTYCZNE ────────────────────────────── */
 
     /* Borówka (domyślny) */
@@ -551,6 +577,13 @@
       <div class="warning">
         Współczesne badania zakwestionowały prosty podział kultur wstydu i winy.
       </div>
+
+      <div class="card figure-card" style="margin-top:28px;">
+        <img src="images/im1.jpg" alt="Schemat porównujący kulturowe mechanizmy wstydu i winy">
+        <div class="figure-caption">
+          Miejsce na obraz syntetyzujący klasyczne rozróżnienie między wstydem i winą, najlepiej jako prosty schemat lub infografika pokazująca relację między oceną społeczną, sumieniem i utratą twarzy.
+        </div>
+      </div>
     </section>
 
     <!-- Ewolucja perspektyw teoretycznych -->
@@ -616,6 +649,13 @@
 
       <div class="section-note">
         Najmocniejsze wnioski pojawiają się wtedy, gdy pomiary ilościowe łączy się z interpretacją jakościową. Sam wynik procentowy rzadko wyjaśnia, co emocja oznacza dla badanych osób.
+      </div>
+
+      <div class="card figure-card" style="margin-top:28px;">
+        <img src="images/im2.jpg" alt="Obraz ilustrujący badanie emocji w terenie i porównania metodologiczne">
+        <div class="figure-caption">
+          Miejsce na ilustrację pokazującą metodologiczny wymiar badań: wywiad, obserwację, pracę z narracją albo porównanie narzędzi pomiarowych w badaniach międzykulturowych.
+        </div>
       </div>
     </section>
 
@@ -745,9 +785,12 @@
           <p>Większe nakładanie się wstydu i zakłopotania we Włoszech.</p>
         </div>
 
-        <div class="card center">
-          <div style="font-size:4em">🌍</div>
-        </div>
+          <div class="card figure-card">
+            <img src="images/im3.jpg" alt="Obraz pokazujący różnice międzykulturowe w ekspresji i regulacji emocji">
+            <div class="figure-caption">
+              Miejsce na obraz bardziej narracyjny lub porównawczy: na przykład zestawienie dwóch kontekstów kulturowych, scena społeczna albo mapa relacji między normą, ekspresją emocji i odpowiedzią otoczenia.
+            </div>
+          </div>
       </div>
 
       <div class="section-note">

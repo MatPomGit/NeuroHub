@@ -1,0 +1,43 @@
+{
+    "id": "epq_r",
+    "name": "Eysenck Personality Questionnaire - Revised (EPQ-R)",
+    "type": "kwestionariusz",
+    "constructs": [
+        "cechy osobowosci"
+    ],
+    "population": "Dorosli",
+    "ageRange": "18+",
+    "administrationTime": "15-30 min",
+    "scoring": "Klasyfikacja typow osobowosci na podstawie odpowiedzi",
+    "evidenceLevel": "sredni",
+    "license": "otwarta",
+    "requiresPermissions": false,
+    "language": [
+        "pl",
+        "en"
+    ],
+    "articleLinks": [
+        "wiki/psychometria/epq_r"
+    ],
+    "methodologyLinks": [
+        "wiki/psychometria/rzetelnosc",
+        "wiki/psychometria/trafnosc"
+    ],
+    "reliability": "Wysoka rzetelnosc wewnetrzna i zewnetrzna.",
+    "validity": "Wysoka trafnosc kryterialna i zbiezna.",
+    "normsInfo": "",
+    "limitations": "",
+    "ethicalNotes": "",
+    "contraindications": "",
+    "evidenceType": "",
+    "sampleInfo": "",
+    "normCountry": "",
+    "normYear": "",
+    "effectSizeInfo": "",
+    "primarySourceYear": 1985,
+    "sourceRefs": [
+        "Eysenck & Eysenck (1985)",
+        "Eysenck et al. (1985)",
+        "Eysenck & Eysenck (1991)"
+    ]
+}

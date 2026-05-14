@@ -1,0 +1,43 @@
+{
+    "id": "16pf_5_r",
+    "name": "16 Personality Factors Questionnaire (16PF) - 5th Edition (Revised)",
+    "type": "kwestionariusz",
+    "constructs": [
+        "cechy osobowosci"
+    ],
+    "population": "Dorosli",
+    "ageRange": "18+",
+    "administrationTime": "20-40 min",
+    "scoring": "Klasyfikacja typow osobowosci na podstawie odpowiedzi",
+    "evidenceLevel": "sredni",
+    "license": "otwarta",
+    "requiresPermissions": false,
+    "language": [
+        "pl",
+        "en"
+    ],
+    "articleLinks": [
+        "wiki/psychometria/16pf_5_r"
+    ],
+    "methodologyLinks": [
+        "wiki/psychometria/rzetelnosc",
+        "wiki/psychometria/trafnosc"
+    ],
+    "reliability": "Wysoka rzetelnosc wewnetrzna i zewnetrzna.",
+    "validity": "Wysoka trafnosc kryterialna i zbiezna.",
+    "normsInfo": "Normy stenowe dla populacji doroslych w Polsce, oparte na próbie reprezentatywnej.",
+    "limitations": "Nieodpowiednie dla dzieci i młodzieży; wymaga umiejętności czytania i zrozumienia pytań.",
+    "ethicalNotes": "Konfidencjalnosc wyników; unikanie stygmatyzacji na podstawie cech osobowosci.",
+    "contraindications": "Ostroznosc przy badaniu osób z ciężkimi zaburzeniami psychicznymi, które mogą wpływać na rzetelność odpowiedzi.",
+    "evidenceType": "Badania psychometryczne, normowanie",
+    "sampleInfo": "?",
+    "normCountry": "Polska",
+    "normYear": "2001",
+    "effectSizeInfo": "Brak danych o wielkości efektu; narzędzie służy do klasyfikacji, nie do wykrywania różnic międzygrupowych.",
+    "primarySourceYear": 1982,
+    "sourceRefs": [
+        "Cattell & Cattell (1982)",
+        "Cattell et al. (1993)",
+        "Cattell et al. (2001)"
+    ]
+}

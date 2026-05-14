@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "generatedAt": "2026-05-14",
+  "domains": {
+    "diagnostyczne": {
+      "updatedAt": "2026-05-14",
+      "tools": [
+        "diagnostyczne/mmse.json",
+        "diagnostyczne/moca.json"
+      ]
+    },
+    "psychometryczne": {
+      "updatedAt": "2026-05-14",
+      "tools": [
+        "psychometryczne/bdi_ii.json",
+        "psychometryczne/mmpi_2.json",
+        "psychometryczne/neo_pi_r.json",
+        "psychometryczne/epq_r.json",
+        "psychometryczne/mbti.json",
+        "psychometryczne/16pf.json",
+        "psychometryczne/16pf_5.json",
+        "psychometryczne/16pf_5_r.json",
+        "psychometryczne/phq_l.json"
+      ]
+    },
+    "zaburzenia": {
+      "updatedAt": "2026-05-14",
+      "tools": [
+        "zaburzenia/diva_5.json",
+        "zaburzenia/ados_2.json"
+      ]
+    },
+    "neuropsychologiczne": {
+      "updatedAt": "2026-05-14",
+      "tools": [
+        "neuropsychologiczne/stroop.json",
+        "neuropsychologiczne/tmt.json"
+      ]
+    },
+    "spoleczne": {
+      "updatedAt": "2026-05-14",
+      "tools": [
+        "spoleczne/iri.json",
+        "spoleczne/rosenberg_ses.json"
+      ]
+    }
+  }
+}

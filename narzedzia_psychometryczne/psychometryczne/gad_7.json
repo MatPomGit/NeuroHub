@@ -1,0 +1,38 @@
+{
+    "id": "gad_7",
+    "name": "Generalized Anxiety Disorder-7 (GAD-7)",
+    "type": "kwestionariusz",
+    "constructs": ["objawy leku uogolnionego", "nasilenie napiecia i zamartwiania"],
+    "population": "Mlodziez i dorosli w przesiewie zaburzen lekowych",
+    "ageRange": "13+",
+    "administrationTime": "2-4 min",
+    "scoring": "Suma 7 pozycji; progi nasilenia oraz monitorowanie skutecznosci interwencji",
+    "evidenceLevel": "wysoki",
+    "license": "otwarta",
+    "requiresPermissions": false,
+    "language": ["pl", "en"],
+    "articleLinks": [
+        "wiki/psychometria/narzedzia_kliniczne",
+        "wiki/testy/testy_przeglad"],
+    "methodologyLinks": [
+        "wiki/psychometria/rzetelnosc",
+        "wiki/psychometria/trafnosc",
+        "wiki/psychometria/normalizacja"],
+    "primarySourceYear": 2006,
+    "reliability": "Bardzo dobra spojnosc wewnetrzna i stabilnosc czasowa w badaniach ambulatoryjnych.",
+    "validity": "Dobra trafnosc dla zaburzen lekowych, szczegolnie GAD, z uz!ytecznoscia przesiewowa.",
+    "normsInfo": "Wynik interpretowac progowo, z uwzglednieniem kontekstu klinicznego i wspolchorobowosci.",
+    "limitations": "Krotka forma moze pomijac specyfike innych zaburzen lekowych niz GAD.",
+    "ethicalNotes": "Wynik dodatni wymaga poglebionego wywiadu i roznicowania diagnostycznego.",
+    "contraindications": "Brak przeciwwskazan bezwzglednych; ostroznosc przy ostrych stanach abstynencyjnych.",
+    "evidenceType": "",
+    "sampleInfo": "",
+    "normCountry": "",
+    "normYear": "",
+    "effectSizeInfo": "",
+    "sourceRefs": [
+        "Spitzer et al. (2006)",
+        "Lowe et al. (2008)",
+        "Kroenke et al. (2007)"
+    ]
+}

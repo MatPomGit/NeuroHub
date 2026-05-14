@@ -1,0 +1,54 @@
+{
+    "id": "dass_21",
+    "name": "Depression Anxiety Stress Scales - 21 (DASS-21)",
+    "type": "kwestionariusz",
+    "constructs": [
+        "depresja",
+        "lęk",
+        "stres"
+    ],
+    "population": "Dorosli",
+    "ageRange": "18+",
+    "administrationTime": "10-20 min",
+    "scoring": "Klasyfikacja poziomu depresji, lęku i stresu na podstawie odpowiedzi",
+    "evidenceLevel": "sredni",
+    "license": "otwarta",
+    "requiresPermissions": false,
+    "language": [
+        "pl",
+        "en"
+    ],
+    "articleLinks": [
+        "wiki/psychometria/dass_21"
+    ],
+    "onlineResources": [
+        "https://www2.psy.unsw.edu.au/dass/",
+        "https://www2.psy.unsw.edu.au/dass/DASS21.pdf",
+        "https://www2.psy.unsw.edu.au/dass/Scoring.pdf"
+    ],
+    "url_pl": [
+        "https://www.psychiatriapolska.pl/Polish-version-of-the-Depression-Anxiety-Stress-Scale-DASS-42-adaptation-and-normalization,153064,0,1.html"],
+
+    "methodologyLinks": [
+        "wiki/psychometria/rzetelnosc",
+        "wiki/psychometria/trafnosc"
+    ],
+    "reliability": "Wysoka rzetelnosc wewnetrzna i zewnetrzna.",
+    "validity": "Wysoka trafnosc kryterialna i zbiezna.",
+
+    "normsInfo": "",
+    "limitations": "",
+    "ethicalNotes": "",
+    "contraindications": "",
+    "evidenceType": "",
+    "sampleInfo": "",
+    "normCountry": "",
+    "normYear": "",
+    "effectSizeInfo": "",
+    "primarySourceYear": 1995,
+    "sourceRefs": [
+        "Lovibond & Lovibond (1993)",
+        "Dass & Dass (2005)",
+        "Dass et al. (2010)"
+    ]
+}

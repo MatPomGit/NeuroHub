@@ -19,7 +19,7 @@ window.SITE_CONFIG = {
 
 
   // 
-  //  NARZÄDZIA POMIAROWE WG DZIEDZIN
+  //  NARZĘDZIA POMIAROWE WG DZIEDZIN
   //  Struktura sluzy do katalogowania testow/skal/kwestionariuszy i ma byc
   //  aktualizowana wylacznie przez dopisywanie nowych obiektow zgodnych ze
   //  slownikiem wartosci kontrolowanych ponizej.
@@ -36,6 +36,18 @@ window.SITE_CONFIG = {
   //     wersji bazowej narzedzia; jesli w projekcie narzedzie jest definiowane
   //     przez oficjalna rewizje (np. ADOS-2, DIVA-5), wpisujemy rok tej rewizji.
   // 
+
+  // Katalog narzedzi ladowany z plikow JSON (1 narzedzie = 1 plik),
+  // zorganizowanych w folderze `narzedzia_psychometryczne`.
+  measurementToolsByDomain: {
+    diagnostyczne: [],
+    psychometryczne: [],
+    zaburzenia: [],
+    neuropsychologiczne: [],
+    spoleczne: [],
+  },
+  // Źródło plikowe katalogu narzędzi.
+  measurementToolsDataPath: 'data/narzedzia_psychometryczne/',
   measurementToolsControlledVocabulary: {
     type: ['test', 'kwestionariusz', 'skala', 'protokol', 'obserwacja'],
     evidenceLevel: ['wysoki', 'umiarkowany', 'wstepny', 'niewystarczajacy'],
@@ -45,415 +57,33 @@ window.SITE_CONFIG = {
     effectSizeInfo: ['male', 'umiarkowane', 'duze', 'mieszane', 'nie_dotyczy', 'brak_danych'],
   },
 
-  measurementToolsByDomain: {
-    tests: [
-      {
-        id: 'mmse',
-        name: 'Mini-Mental State Examination (MMSE)',
-        type: 'test',
-        constructs: ['globalne funkcjonowanie poznawcze', 'orientacja', 'pamiec'],
-        population: 'Dorosli i seniorzy z podejrzeniem zaburzen poznawczych',
-        ageRange: '18+',
-        administrationTime: '10-15 min',
-        scoring: 'Suma punktow; nizszy wynik wskazuje na wieksze nasilenie deficytow',
-        evidenceLevel: 'wysoki',
-        license: 'komercyjna',
-        requiresPermissions: true,
-        language: ['pl', 'en'],
-        articleLinks: ['diagnostics/mmse_moca'],
-        methodologyLinks: ['psychometrics/rzetelnosc', 'psychometrics/trafnosc', 'psychometrics/normalizacja', 'diagnostics/testy_przeglad'],
-        primarySourceYear: 1975,
-        reliability: 'Wysoka stabilnosc wynikow w badaniach przesiewowych seniorow.',
-        validity: 'Dobra trafnosc przesiewowa dla otepienia; ograniczona czulosc dla MCI.',
-        normsInfo: 'Normy zalezne od wieku i wyksztalcenia; interpretacja wymaga tabel lokalnych.',
-        limitations: 'Wynik zalezy od edukacji, deficytow sensorycznych i kompetencji jezykowych.',
-        ethicalNotes: 'Nie powinien byc jedyna podstawa decyzji klinicznych lub prawnych.',
-        contraindications: 'Silne zaburzenia sluchu/wzroku i delirium utrudniaja rzetelny pomiar.',
-        evidenceType: 'meta_analiza',
-        sampleInfo: 'N laczny: >10 000; dorosli i seniorzy z populacji klinicznych oraz populacyjnych.',
-        normCountry: 'PL',
-        normYear: '2021',
-        effectSizeInfo: 'mieszane',
-        sourceRefs: [
-          'Folstein et al. (1l75)',
-          'Arevalo-Rodriguez et al. (2021)',
-          'Strozik et al. (polska adaptacja, 2021)',
-        ],
-      },
-      {
-        id: 'moca',
-        name: 'Montreal Cognitive Assessment (MoCA)',
-        type: 'test',
-        constructs: ['funkcje wykonawcze', 'pamiec', 'uwaga', 'jezyk'],
-        population: 'Dorosli i seniorzy w diagnostyce lagodnych zaburzen poznawczych',
-        ageRange: '18+',
-        administrationTime: '10-15 min',
-        scoring: 'Suma punktow z korekta edukacyjna zgodnie z podrecznikiem',
-        evidenceLevel: 'wysoki',
-        license: 'instytucjonalna',
-        requiresPermissions: true,
-        language: ['pl', 'en'],
-        articleLinks: ['diagnostics/mmse_moca'],
-        methodologyLinks: ['psychometrics/rzetelnosc', 'psychometrics/trafnosc', 'psychometrics/normalizacja', 'diagnostics/testy_przeglad'],
-        primarySourceYear: 2005,
-        reliability: 'Wysoka rzetelnosc wewnetrzna i satysfakcjonujacy test-retest.',
-        validity: 'Wyzsza czulosc niz MMSE dla lagodnych zaburzen poznawczych.',
-        normsInfo: 'Wymaga korekty edukacyjnej i odniesienia do norm populacyjnych.',
-        limitations: 'Mozliwe efekty uczenia przy czestym powtarzaniu testu.',
-        ethicalNotes: 'Wyniki omawiac z pacjentem ostroznie, bez stygmatyzacji.',
-        contraindications: 'Brak przeciwwskazan bezwzglednych; ostroznosc przy afazji i ostrych objawach psychiatrycznych.',
-        evidenceType: 'meta_analiza',
-        sampleInfo: 'N laczny: >8 000; dorosli i seniorzy, szczegolnie grupy MCI.',
-        normCountry: 'PL',
-        normYear: '2022',
-        effectSizeInfo: 'umiarkowane',
-        sourceRefs: [
-          'Nasreddine et al. (2005)',
-          'Carson et al. (2018)',
-          'Wozniak et al. (polska normalizacja, 2022)',
-        ],
-      },
-    ],
-    psychometrics: [
-      {
-        id: 'bdi_ii',
-        name: 'Beck Depression Inventory-II (BDI-II)',
-        type: 'kwestionariusz',
-        constructs: ['nasilenie objawow depresyjnych'],
-        population: 'Mlodziez i dorosli',
-        ageRange: '13+',
-        administrationTime: '5-10 min',
-        scoring: 'Suma punktow i interpretacja wg norm/recznych przedzialow',
-        evidenceLevel: 'wysoki',
-        license: 'komercyjna',
-        requiresPermissions: true,
-        language: ['pl', 'en'],
-        articleLinks: ['psychometrics/bdi_2'],
-        methodologyLinks: ['psychometrics/rzetelnosc', 'psychometrics/trafnosc', 'diagnostics/testy_przeglad'],
-        primarySourceYear: 1996,
-        reliability: 'Wysoka spojnosc wewnetrzna i dobra stabilnosc czasowa.',
-        validity: 'Silna trafnosc zbiezna z innymi miarami depresji.',
-        normsInfo: 'Interpretacja oparta o progi nasilenia i normy dla populacji klinicznych.',
-        limitations: 'Narzedzie samoopisowe podatne na tendencyjnosc odpowiedzi.',
-        ethicalNotes: 'Wymaga reakcji klinicznej przy odpowiedziach sugerujacych ryzyko samobojcze.',
-        contraindications: 'Nie zastepuje wywiadu diagnostycznego przy ostrych kryzysach.',
-      },
-      /* Popularne narzedzia przesiewowe i kliniczne dopisane do katalogu psychometrii. */
-      {
-        id: 'phq_l',
-        name: 'Patient Health Questionnaire-l (PHQ-l)',
-        type: 'kwestionariusz',
-        constructs: ['objawy depresyjne', 'nasilenie epizodu depresyjnego'],
-        population: 'Mlodziez i dorosli w przesiewie oraz monitorowaniu leczenia',
-        ageRange: '12+',
-        administrationTime: '3-5 min',
-        scoring: 'Suma l pozycji; interpretacja progowa i monitorowanie zmiany w czasie',
-        evidenceLevel: 'wysoki',
-        license: 'otwarta',
-        requiresPermissions: false,
-        language: ['pl', 'en'],
-        articleLinks: ['psychometrics/narzedzia_kliniczne', 'diagnostics/testy_przeglad'],
-        methodologyLinks: ['psychometrics/rzetelnosc', 'psychometrics/trafnosc', 'psychometrics/normalizacja'],
-        primarySourceYear: 2001,
-        reliability: 'Wysoka spojnosc wewnetrzna i dobra stabilnosc dla pomiaru przesiewowego.',
-        validity: 'Dobra trafnosc kryterialna wobec diagnozy depresji i wrazliwosc na zmiane objawow.',
-        normsInfo: 'Interpretacja oparta o progi nasilenia; wskazane odniesienie do norm lokalnych.',
-        limitations: 'Samoopis moze zawyzac lub zanizac nasilenie przy silnej aprobacie spolecznej.',
-        ethicalNotes: 'Pozycja o mysďż˝lach samobojczych wymaga natychmiastowej oceny ryzyka i planu bezpieczenstwa.',
-        contraindications: 'Nie powinien byc jedynym narzedziem przy ciezkich objawach psychotycznych lub manii.',
-      },
-      {
-        id: 'gad_7',
-        name: 'Generalized Anxiety Disorder-7 (GAD-7)',
-        type: 'kwestionariusz',
-        constructs: ['objawy leku uogolnionego', 'nasilenie napiecia i zamartwiania'],
-        population: 'Mlodziez i dorosli w przesiewie zaburzen lekowych',
-        ageRange: '13+',
-        administrationTime: '2-4 min',
-        scoring: 'Suma 7 pozycji; progi nasilenia oraz monitorowanie skutecznosci interwencji',
-        evidenceLevel: 'wysoki',
-        license: 'otwarta',
-        requiresPermissions: false,
-        language: ['pl', 'en'],
-        articleLinks: ['psychometrics/narzedzia_kliniczne', 'diagnostics/testy_przeglad'],
-        methodologyLinks: ['psychometrics/rzetelnosc', 'psychometrics/trafnosc', 'psychometrics/normalizacja'],
-        primarySourceYear: 2006,
-        reliability: 'Bardzo dobra spojnosc wewnetrzna i stabilnosc czasowa w badaniach ambulatoryjnych.',
-        validity: 'Dobra trafnosc dla zaburzen lekowych, szczegolnie GAD, z uz!ytecznoscia przesiewowa.',
-        normsInfo: 'Wynik interpretowac progowo, z uwzglednieniem kontekstu klinicznego i wspolchorobowosci.',
-        limitations: 'Krotka forma moze pomijac specyfike innych zaburzen lekowych niz GAD.',
-        ethicalNotes: 'Wynik dodatni wymaga poglebionego wywiadu i roznicowania diagnostycznego.',
-        contraindications: 'Brak przeciwwskazan bezwzglednych; ostroznosc przy ostrych stanach abstynencyjnych.',
-      },
-      {
-        id: 'pcl_5',
-        name: 'PTSD Checklist for DSM-5 (PCL-5)',
-        type: 'kwestionariusz',
-        constructs: ['objawy PTSD', 'nasilenie objawow potraumatycznych'],
-        population: 'Dorosli i starsza mlodziez z ekspozycja na zdarzenia traumatyczne',
-        ageRange: '16+',
-        administrationTime: '5-10 min',
-        scoring: 'Suma 20 pozycji lub ocena klastrowa wg DSM-5; uzyteczny do monitorowania terapii',
-        evidenceLevel: 'wysoki',
-        license: 'otwarta',
-        requiresPermissions: false,
-        language: ['pl', 'en'],
-        articleLinks: ['psychometrics/narzedzia_kliniczne', 'diagnostics/testy_przeglad'],
-        methodologyLinks: ['psychometrics/rzetelnosc', 'psychometrics/trafnosc', 'diagnostics/scid_v'],
-        primarySourceYear: 2013,
-        reliability: 'Wysoka rzetelnosc wewnetrzna i dobra stabilnosc przy powtorzonych pomiarach.',
-        validity: 'Silna trafnosc zbiezna z wywiadami PTSD i wrazliwosc na zmiane kliniczna.',
-        normsInfo: 'Wyniki interpretowac z odniesieniem do progu przesiewowego i kontekstu typu traumy.',
-        limitations: 'Narzedzie samoopisowe nie rozstrzyga rozpoznania PTSD bez wywiadu klinicznego.',
-        ethicalNotes: 'Pozytywne odpowiedzi moga aktywowac dyskomfort; konieczne bezpieczne warunki badania.',
-        contraindications: 'Ostroznosc przy ostrej dysocjacji i braku stabilizacji po swiezej traumie.',
-      },
-      {
-        id: 'stai',
-        name: 'State-Trait Anxiety Inventory (STAI)',
-        type: 'kwestionariusz',
-        constructs: ['lek jako stan', 'lek jako cecha'],
-        population: 'Mlodziez i dorosli w badaniach klinicznych i naukowych',
-        ageRange: '16+',
-        administrationTime: '10-20 min',
-        scoring: 'Dwie skale (X-1 i X-2), interpretacja profilowa i porownanie do norm',
-        evidenceLevel: 'wysoki',
-        license: 'komercyjna',
-        requiresPermissions: true,
-        language: ['pl', 'en'],
-        articleLinks: ['psychometrics/narzedzia_kliniczne', 'emotions/stres_emocje'],
-        methodologyLinks: ['psychometrics/rzetelnosc', 'psychometrics/trafnosc', 'psychometrics/normalizacja'],
-        primarySourceYear: 1970,
-        reliability: 'Wysoka rzetelnosc obu podskal, szczegolnie dla leku jako cechy.',
-        validity: 'Dobra trafnosc teoretyczna dla rozroznienia stanu i cechy leku.',
-        normsInfo: 'Dostepne normy centylowe/stenowe; wymagane dopasowanie do wieku i plci.',
-        limitations: 'Wrazliwy na sytuacje badania i aktualny poziom stresu uczestnika.',
-        ethicalNotes: 'Wynik podwyzszony nie jest diagnoza,, a wskazaniem do dalszej oceny.',
-        contraindications: 'Ostroznosc interpretacyjna w ostrych stanach somatycznych nasilajacych objawy leku.',
-      },
-      {
-        id: 'dass_21',
-        name: 'Depression Anxiety Stress Scales-21 (DASS-21)',
-        type: 'kwestionariusz',
-        constructs: ['depresja', 'lek', 'stres'],
-        population: 'Dorosli i starsza mlodziez w przesiewie dobrostanu psychicznego',
-        ageRange: '15+',
-        administrationTime: '5-8 min',
-        scoring: 'Trzy podskale po 7 pozycji; wynik skalowany x2 do porownan z wersja DASS-42',
-        evidenceLevel: 'umiarkowany',
-        license: 'otwarta',
-        requiresPermissions: false,
-        language: ['pl', 'en'],
-        articleLinks: ['psychometrics/narzedzia_kliniczne', 'emotions/stres_emocje'],
-        methodologyLinks: ['psychometrics/rzetelnosc', 'psychometrics/trafnosc'],
-        primarySourceYear: 1995,
-        reliability: 'Zazwyczaj wysoka rzetelnosc podskal w probach nieklinicznych i klinicznych.',
-        validity: 'Umiarkowanie dobra trafnosc roznicowa miedzy depresja, lekiem i stresem.',
-        normsInfo: 'Interpretacja progowa zalezna od wersji jezykowej i charakterystyki populacji.',
-        limitations: 'Narzedzie przesiewowe, bez bezposredniego mapowania na rozpoznania nozologiczne.',
-        ethicalNotes: 'Wyniki nalezy komunikowac psychoedukacyjnie, unikajac etykietowania diagnostycznego.',
-        contraindications: 'Brak przeciwwskazan bezwzglednych; ostroznosc przy ograniczonym rozumieniu pozycji.',
-      },
-      {
-        id: 'mmpi_2',
-        name: 'Minnesota Multiphasic Personality Inventory-2 (MMPI-2)',
-        type: 'kwestionariusz',
-        constructs: ['psychopatologia', 'cechy osobowosci klinicznej', 'style odpowiedzi'],
-        population: 'Dorosli w diagnozie klinicznej i opiniodawczej',
-        ageRange: '18+',
-        administrationTime: '60-l0 min',
-        scoring: 'Skale kliniczne i kontrolne, interpretacja wieloskalowa',
-        evidenceLevel: 'wysoki',
-        license: 'komercyjna',
-        requiresPermissions: true,
-        language: ['pl', 'en'],
-        articleLinks: ['psychometrics/mmpi'],
-        methodologyLinks: ['psychometrics/rzetelnosc', 'psychometrics/trafnosc', 'psychometrics/normalizacja', 'diagnostics/testy_przeglad'],
-        primarySourceYear: 1989,
-        reliability: 'Wysoka rzetelnosc dla skal glownych i kontrolnych.',
-        validity: 'Rozbudowany system skal trafnosci odpowiedzi i trafnosci kryterialnej.',
-        normsInfo: 'Wymaga odniesienia do norm wieku/plci zgodnie z podrecznikiem.',
-        limitations: 'Dlugi czas badania i wysokie wymagania interpretacyjne.',
-        ethicalNotes: 'Interpretacja powinna uwzgledniac kontekst kulturowy i kliniczny.',
-        contraindications: 'Niska motywacja i silna dekompensacja psychotyczna moga obnizac jakosc danych.',
-      },
-    ],
-    disorders: [
-      {
-        id: 'diva_5',
-        name: 'Diagnostic Interview for ADHD in Adults (DIVA-5)',
-        type: 'protokol',
-        constructs: ['objawy adhd', 'uposledzenie funkcjonowania'],
-        population: 'Dorosli z podejrzeniem ADHD',
-        ageRange: '18+',
-        administrationTime: '60-l0 min',
-        scoring: 'Ocena kryteriow DSM i nasilenia w obszarach funkcjonowania',
-        evidenceLevel: 'umiarkowany',
-        license: 'instytucjonalna',
-        requiresPermissions: true,
-        language: ['pl', 'en'],
-        articleLinks: ['psychometrics/diva', 'disorders/adhd'],
-        methodologyLinks: ['psychometrics/trafnosc', 'diagnostics/testy_przeglad', 'diagnostics/scid_v'],
-        primarySourceYear: 2019,
-        reliability: 'Umiarkowana-do-wysokiej zgodnosc miedzyoceniajacych po szkoleniu.',
-        validity: 'Dobra trafnosc tresciowa wobec kryteriow DSM dla ADHD doroslych.',
-        normsInfo: 'Brak klasycznych norm stenowych; interpretacja kryterialna.',
-        limitations: 'Wynik zalezy od jakosci wywiadu retrospektywnego i danych zewnetrznych.',
-        ethicalNotes: 'Wymaga triangulacji danych, by ograniczyc nadrozpoznawalnosc.',
-        contraindications: 'Ograniczona uzytecznosc przy braku wiarygodnych danych z dziecilnstwa.',
-      },
-      {
-        id: 'ados_2',
-        name: 'Autism Diagnostic Observation Schedule-2 (ADOS-2)',
-        type: 'obserwacja',
-        constructs: ['komunikacja spoleczna', 'zachowania powtarzalne i ograniczone'],
-        population: 'Dzieci, mlodziez i dorosli z podejrzeniem ASD',
-        ageRange: '2+',
-        administrationTime: '40-60 min',
-        scoring: 'Algorytm modulowy, klasyfikacja ryzyka i profilu objawowego',
-        evidenceLevel: 'wysoki',
-        license: 'komercyjna',
-        requiresPermissions: true,
-        language: ['pl', 'en'],
-        articleLinks: ['psychometrics/ados', 'disorders/asd'],
-        methodologyLinks: ['psychometrics/trafnosc', 'psychometrics/rzetelnosc', 'diagnostics/testy_przeglad'],
-        primarySourceYear: 2012,
-        reliability: 'Wysoka zgodnosc miedzydiagnostyczna po certyfikowanym szkoleniu.',
-        validity: 'Wysoka trafnosc diagnostyczna w polaczeniu z wywiadem rozwojowym.',
-        normsInfo: 'Algorytmy modulowe zamiast klasycznych norm populacyjnych.',
-        limitations: 'Wymaga kosztownego szkolenia i duzego doswiadczenia klinicznego.',
-        ethicalNotes: 'Nie nalezy formulowac diagnozy ASD wylacznie na podstawie ADOS-2.',
-        contraindications: 'Ostroznosc przy ciezkich deficytach sensorycznych i braku wspolpracy.',
-      },
-    ],
-    neuro: [
-      {
-        id: 'stroop',
-        name: 'Stroop Color and Word Test',
-        type: 'test',
-        constructs: ['hamowanie reakcji', 'kontrola poznawcza', 'uwaga selektywna'],
-        population: 'Mlodziez i dorosli w diagnozie neuropsychologicznej',
-        ageRange: '12+',
-        administrationTime: '5-10 min',
-        scoring: 'Czas i bledy w warunkach zgodnych/niezgodnych',
-        evidenceLevel: 'umiarkowany',
-        license: 'komercyjna',
-        requiresPermissions: true,
-        language: ['pl', 'en'],
-        articleLinks: ['diagnostics/testy_wykonawcze', 'neuro/neuronauka_poznawcza'],
-        methodologyLinks: ['psychometrics/rzetelnosc', 'diagnostics/testy_wykonawcze', 'psychometrics/normalizacja'],
-        primarySourceYear: 1935,
-        reliability: 'Umiarkowana rzetelnosc zalezna od wersji i procedury.',
-        validity: 'Dobra trafnosc roznicowania kontroli hamowania i selektywnej uwagi w zadaniach interferencyjnych.',
-        normsInfo: 'Normy czasowe zalezne od wieku i wyksztalcenia.',
-        limitations: 'Silny wplyw motywacji, zmeczenia i zaburzen widzenia barw.',
-        ethicalNotes: 'Interpretowac lacznie z innymi testami funkcji wykonawczych.',
-        contraindications: 'Daltonizm i ostre stany neurologiczne moga znieksztalcac wynik.',
-      },
-      {
-        id: 'tmt',
-        name: 'Trail Making Test (TMT A/B)',
-        type: 'test',
-        constructs: ['predkosc przetwarzania', 'przelaczanie uwagi', 'funkcje wykonawcze'],
-        population: 'Dorosli i seniorzy w ocenie neurokognitywnej',
-        ageRange: '18+',
-        administrationTime: '5-10 min',
-        scoring: 'Czas wykonania czesci, a i B oraz roznica B-A',
-        evidenceLevel: 'umiarkowany',
-        license: 'instytucjonalna',
-        requiresPermissions: true,
-        language: ['pl', 'en'],
-        articleLinks: ['diagnostics/testy_uwagi', 'diagnostics/testy_wykonawcze'],
-        methodologyLinks: ['psychometrics/rzetelnosc', 'diagnostics/testy_uwagi', 'psychometrics/normalizacja'],
-        /* Wyjatek redakcyjny: dla TMT podawane sa rozne daty zrodlowe (1944/1945); przyjmujemy 1944 jako rok wersji bazowej Army Individual Test Battery. */
-        primarySourceYear: 1944,
-        reliability: 'Umiarkowana stabilnosc; czesc B bardziej wrazliwa na czynniki sytuacyjne.',
-        validity: 'Dobra trafnosc do oceny przetwarzania i elastycznosci poznawczej.',
-        normsInfo: 'Wyniki nalezy odnosic do norm wieku i edukacji.',
-        limitations: 'Wynik zalezy od sprawnosci motorycznej i umiejetnosci wzrokowo-przestrzennych.',
-        ethicalNotes: 'Unikac nadinterpretacji pojedynczego wskaznika B-A.',
-        contraindications: 'Przeciwwskazane przy istotnych zaburzeniach motoryki reki dominujacej.',
-      },
-    ],
-    spoleczna: [
-      {
-        id: 'iri',
-        name: 'Interpersonal Reactivity Index (IRI)',
-        type: 'kwestionariusz',
-        constructs: ['empatia poznawcza', 'empatia emocjonalna'],
-        population: 'Mlodziez i dorosli w badaniach spolecznych',
-        ageRange: '14+',
-        administrationTime: '10-15 min',
-        scoring: 'Wyniki w 4 podskalach, interpretacja profilowa',
-        evidenceLevel: 'umiarkowany',
-        license: 'do_ustalenia',
-        requiresPermissions: false,
-        language: ['pl', 'en'],
-        articleLinks: ['spoleczna/percepcja_spoleczna', 'spoleczna/ja_i_samoocena'],
-        methodologyLinks: ['psychometrics/rzetelnosc', 'psychometrics/trafnosc'],
-        primarySourceYear: 1980,
-        reliability: 'Zwykle umiarkowana-do-wysokiej dla podskal IRI.',
-        validity: 'Potwierdzona trafnosc konstruktu dla empatii poznawczej i emocjonalnej.',
-        normsInfo: 'Brak jednolitych norm klinicznych dla populacji polskiej.',
-        limitations: 'Samoopis sprzyja efektowi aprobaty spolecznej.',
-        ethicalNotes: 'Wynik nie powinien sluzyc do etykietowania kompetencji moralnych.',
-        contraindications: 'Brak przeciwwskazan bezwzglednych.',
-      },
-      {
-        id: 'rosenberg_ses',
-        name: 'Rosenberg Self-Esteem Scale (SES)',
-        type: 'skala',
-        constructs: ['globalna samoocena'],
-        population: 'Mlodziez i dorosli',
-        ageRange: '13+',
-        administrationTime: '3-5 min',
-        scoring: 'Suma 10 pozycji z pozycjami odwrotnie kodowanymi',
-        evidenceLevel: 'wysoki',
-        license: 'otwarta',
-        requiresPermissions: false,
-        language: ['pl', 'en'],
-        articleLinks: ['spoleczna/ja_i_samoocena'],
-        methodologyLinks: ['psychometrics/rzetelnosc', 'psychometrics/trafnosc'],
-        primarySourceYear: 1965,
-        reliability: 'Wysoka spojnosc wewnetrzna dla wyniku globalnego.',
-        validity: 'Dobra trafnosc zbiezna z miarami dobrostanu i depresji.',
-        normsInfo: 'Dostepne normy dla populacji ogolnej; wynik interpretowac z uwzglednieniem wieku i kontekstu kulturowego.',
-        limitations: 'Krotka skala nie rozroznia subtelnych profili samooceny.',
-        ethicalNotes: 'Wynik powinien byc omawiany kontekstowo, bez redukcji osoby do liczby.',
-        contraindications: 'Ostroznosc interpretacyjna przy aktualnym kryzysie emocjonalnym.',
-      },
-    ],
-  },
-
   // Data ostatniej aktualizacji katalogu narzedzi per domena (ISO YYYY-MM-DD).
   // Pole updatedAt jest uzywane przez UI do komunikatu "Ostatnia aktualizacja".
   measurementToolsDomainUpdates: {
-    diagnostics: { updatedAt: '2026-04-1l' },
-    psychometrics: { updatedAt: '2026-04-1l' },
-    disorders: { updatedAt: '2026-04-1l' },
-    neuro: { updatedAt: '2026-04-1l' },
-    spoleczna: { updatedAt: '2026-04-1l' },
+    diagnostyczne: { updatedAt: '2026-05-15' },
+    psychometryczne: { updatedAt: '2026-05-15' },
+    zaburzenia: { updatedAt: '2026-04-15' },
+    neuropsychologiczne: { updatedAt: '2026-04-15' },
+    spoleczne: { updatedAt: '2026-04-15' },
   },
 
   // Domeny obecne w serwisie, dla ktorych wpisy narzedzi pomiarowych sa jeszcze nieuzupelnione.
   measurementToolsTodoDomains: [
-    'affective_robotics', 'psychologia_ai', 'animaltherapy', 'artetherapy', 'biology', 'przypadki_kliniczne',
-    'cognitive', 'diagnoza', 'psychologia_niepelnosprawnosci', 'e_therapy', 'eksperyment_psychologiczny',
-    'emocje', 'etyka', 'forensic_psychology', 'game_psychology', 'geropsychologia',
-    'health_psychology', 'individual_diffs', 'wstep_do_psychologii', 'kulturowa', 'ekrany_ksiazki_i_natura',
-    'neurodiversity', 'porozumiewanie_sie_bez_przemocy', 'pharmacology', 'philosophy', 'podstawy_pomocy',
-    'psychologia_religii',
-    'positive_psychology', 'seminarium_dyplomowe', 'psychopathology', 'psychosomatyka', 'psychotherapy',
-    'reference', 'relacje', 'resilience_mobbing', 'rozwojowa', 'school_psychology',
-    'sexology', 'students', 'suicidology', 'technology_psychology', 'temperament',
-    'uzaleznienia', 'wiki-index'
+    'robotyka_afektywna', 'psychologia_ai', 'animaloterapia', 'arteterapia', 'biologia', 'przypadki_kliniczne',
+    'psychologia_poznawcza', 'diagnoza', 'psychologia_niepelnosprawnosci', 'e_terapia', 'eksperyment_psychologiczny',
+    'emocje', 'etyka', 'psychologia_sadowa', 'psychologia_gier', 'geropsychologia', 'psychologia_zdrowia',
+    'roznice_indywidualne', 'wstep_do_psychologii', 'kulturowa', 'ekrany_ksiazki_i_natura', 'neuroroznorodnosc',
+    'porozumiewanie_sie_bez_przemocy', 'farmakologia', 'filozofia', 'podstawy_pomocy', 'psychologia_religii',
+    'psychologia_pozytywna', 'seminarium_dyplomowe', 'psychopatologia', 'psychosomatyka', 'psychoterapia',
+    'reference', 'relacje', 'rezyliencja_i_mobbing', 'psychologia_rozwojowa', 'psychologia_szkolna', 'seksuologia',
+    'dla_studentow', 'suicydologia', 'psychologia_technologii', 'temperament', 'uzaleznienia', 'wiki-index'
   ],
 
-  // 
+  //
   //  NAWIGACJA BOCZNA
   //  Kazda sekcja to zwijany blok w sidebarze.
-  //  Klucz "file" ďż˝  ladowanie MD; "wiki" ďż˝  strona indeksu WIKI.
-  // 
+  //  Klucz "file" -> ladowanie MD; "wiki" -> strona indeksu WIKI.
+  //
   nav: [
     {
       section: 'Wprowadzenie',
@@ -469,9 +99,9 @@ window.SITE_CONFIG = {
       section: 'Dla studentow',
       domainKey: 'dla_studentow',
       items: [
+        { id: 'dla_studentow/etyka_studenta',     label: 'Etyka studenta psychologii', file: 'wiki/dla_studentow/etyka_studenta.md' },
         { id: 'dla_studentow/wybor_specjalnosci', label: 'Wybór specjalnosci', file: 'wiki/dla_studentow/wybor_specjalnosci.md' },
         { id: 'dla_studentow/sciezki_kariery', label: 'Ścieżki kariery po psychologii', file: 'wiki/dla_studentow/sciezki_kariery.md' },
-        { id: 'dla_studentow/etyka_studenta',     label: 'Etyka studenta psychologii', file: 'wiki/dla_studentow/etyka_studenta.md' },
         { id: 'dla_studentow/psychologia_codziennej', label: 'Psychologia codzienna',    custom: 'daily_psychology' },
         /**{ id: 'dla_studentow/monopoly_psychologiczne', href: 'https://matpomgit.github.io/Psychopoly/', label: 'Monopoly Psychologiczne' },*/
         { id: 'dla_studentow/wspolna_gra_kahoot',    label: 'Wspólna gra testowa (Kahoot)', custom: 'kahoot_game', kind: 'test' },
@@ -481,7 +111,7 @@ window.SITE_CONFIG = {
         { id: 'dla_studentow/testy_dyplomowe',        label: 'Testy dyplomowe',           custom: 'theoretical_test', presetTopic: 'egzamin_dyplomowy', kind: 'test' },
         ]
     },
-    {
+    { /** Filozofia */
       section: 'Filozofia',
       domainKey: 'filozofia',
       items: [
@@ -515,7 +145,7 @@ window.SITE_CONFIG = {
         { id: 'filozofia/realizm_modalny',              label: 'Realizm modalny',                            file: 'wiki/filozofia/realizm_modalny.md'             },
       ]
     },
-    {
+    { /* Biologiczne podstawy zachowania */
       section: 'Biologiczne podstawy zachowania',
       domainKey: 'biology',
       items: [
@@ -531,8 +161,8 @@ window.SITE_CONFIG = {
         { id: 'biology/mikrobiom',            label: 'Os jelitadz mozg',               file: 'wiki/biologia/mikrobiom.md'             },
       ]
     },
-    {
-      section: 'Psychologia Rozwojowa',
+    { /* Psychologia rozwojowa */
+      section: 'Psychologia rozwojowa',
       domainKey: 'rozwojowa',
       items: [
         { id: 'rozwojowa/teorie_rozwoju',     label: 'Glowne teorie rozwoju',                    file: 'wiki/psychologia_rozwojowa/teorie_rozwoju.md'     },
@@ -549,7 +179,7 @@ window.SITE_CONFIG = {
         { id: 'rozwojowa/tozsamosc',          label: 'Ksztaltowanie tozsamosci',                 file: 'wiki/psychologia_rozwojowa/tozsamosc.md'          },
       ]
     },
-    {
+    { /* Psychologia spoleczna */
       section: 'Psychologia spoleczna',
       domainKey: 'spoleczna',
       items: [
@@ -570,7 +200,7 @@ window.SITE_CONFIG = {
         { id: 'spoleczna/zdrowe_poczucie_wlasnej_wartosci', label: 'Zdrowe poczucie wlasnej wartosci', file: 'wiki/psychologia_spoleczna/zdrowe_poczucie_wlasnej_wartosci.md' },
       ]
     },
-    {
+    { /* Psychologia kulturowa */
       section: 'Psychologia kulturowa',
       domainKey: 'kulturowa',
       items: [
@@ -588,7 +218,7 @@ window.SITE_CONFIG = {
         { id: 'kulturowa/kultura_relacje',   label: 'Kultura, a relacje interpersonalne',   file: 'wiki/kulturowa/kultura_relacje.md'   },
       ]
     },
-    {
+    { /* Psychologia religii */
       section: 'Psychologia religii',
       domainKey: 'psychologia_religii',
       items: [
@@ -609,7 +239,7 @@ window.SITE_CONFIG = {
           { id: 'psychologia_religii/religia_moralnosc_etyka', label: 'Religia a moralność i etyka postępowania', file: 'wiki/psychologia_religii/religia_a_moralnosc_i_etyka_postepowania.md' },
         ]
     },
-    {
+    { /* Psychologia uzaleznien */
       section: 'Psychologia uzaleznien',
       domainKey: 'uzaleznienia',
       items: [
@@ -627,7 +257,7 @@ window.SITE_CONFIG = {
         { id: 'uzaleznienia/recovery',                  label: 'Recovery - droga do zdrowia',            file: 'wiki/uzaleznienia/recovery.md'                  },
       ]
     },
-    {
+    { /* Relacje i zwiazki */
       section: 'Relacje i zwiazki',
       domainKey: 'relacje',
       items: [
@@ -646,7 +276,7 @@ window.SITE_CONFIG = {
         { id: 'relacje/relacje_rodzinne', label: 'Relacje rodzinne - dynamika',     file: 'wiki/relacje/relacje_rodzinne.md' },
       ]
     },
-    {
+    { /* Etyka zawodowa */
       section: 'Etyka zawodowa',
       domainKey: 'etyka',
       items: [
@@ -665,7 +295,7 @@ window.SITE_CONFIG = {
           { id: 'etyka/polska_adaptacja_3d_ws', label: 'Polska adaptacja 3D-WS', file: 'wiki/etyka/polska_adaptacja_3d_ws.md' },
         ]
     },
-    {
+    { /* Diagnoza psychologiczna */
       section: 'Diagnoza psychologiczna',
       domainKey: 'diagnoza',
       items: [
@@ -681,7 +311,7 @@ window.SITE_CONFIG = {
         { id: 'diagnoza/diagnoza_stygmatyzacja', label: 'Diagnoza, a stygmatyzacja', file: 'wiki/diagnoza/diagnoza_stygmatyzacja.md' },
       ]
     },
-    {
+    { /* Emocje i motywacje */
       section: 'Emocje i motywacje',
       domainKey: 'emocje',
       items: [
@@ -699,7 +329,7 @@ window.SITE_CONFIG = {
         { id: 'emocje/emocje_spoleczne',         label: 'Emocje spoleczne i moralne',        file: 'wiki/emocje/emocje_spoleczne.md'         },
       ]
     },
-    {
+    { /* Podstawy pomocy psychologicznej */
       section: 'Podstawy pomocy psychologicznej',
       domainKey: 'podstawy_pomocy',
       items: [
@@ -719,7 +349,7 @@ window.SITE_CONFIG = {
         { id: 'podstawy_pomocy/etyka_pomocy',                   label: 'Etyka pomocy psychologicznej',         file: 'wiki/podstawy_pomocy/etyka_pomocy.md'                   },
       ]
     },
-    {
+    { /* Temperament */
       section: 'Temperament',
       domainKey: 'temperament',
       items: [
@@ -737,7 +367,7 @@ window.SITE_CONFIG = {
         { id: 'temperament/temperament_a_kariera',   label: 'Temperament, a kariera i praca',       file: 'wiki/temperament/temperament_a_kariera.md'    },
       ]
     },
-    {
+    { /* Roznice indywidualne */
       section: 'Roznice indywidualne',
       domainKey: 'roznice_indywidualne',
       items: [
@@ -752,7 +382,7 @@ window.SITE_CONFIG = {
         { id: 'roznice_indywidualne/ciemna_triada',        label: 'Ciemna Triada',               file: 'wiki/roznice_indywidualne/ciemna_triada.md'          },
       ]
     },
-    {
+    { /* Psychometria */
       section: 'Psychometria',
       domainKey: 'psychometria',
       items: [
@@ -771,7 +401,7 @@ window.SITE_CONFIG = {
         { id: 'psychometria/diva',         label: 'DIVA-5 (diagnoza ADHD)',file: 'wiki/psychometria/diva.md'         },
       ]
     },
-    {
+    { /* Neurobiologia i neuropsychologia */
       section: 'Neurobiologia',
       domainKey: 'neuro',
       items: [
@@ -795,7 +425,7 @@ window.SITE_CONFIG = {
         { id: 'neuro/muse',                              label: 'Muse S - neurofeedback i EEG',           file: 'wiki/neuropsychologia/muse.md'                              },
       ]
     },
-    {
+    { /* Zaburzenia kliniczne */
       section: 'Zaburzenia kliniczne',
       domainKey: 'zaburzenia',
       items: [
@@ -810,7 +440,7 @@ window.SITE_CONFIG = {
         { id: 'zaburzenia/asd',       label: 'Spektrum autyzmu (ASD)',file: 'wiki/zaburzenia/asd.md'       },
       ]
     },
-    {
+    { /* Przypadki kliniczne */
       section: 'Przypadki kliniczne',
       domainKey: 'przypadki_kliniczne',
       items: [
@@ -829,7 +459,7 @@ window.SITE_CONFIG = {
         { id: 'przypadki_kliniczne/sm',            label: 'Pacjentka S.M. (uszkodzenie ciala migdalowatego)', file: 'wiki/przypadki_kliniczne/sm.md' },
       ]
     },
-    {
+    { /* Psychopatologia */
       section: 'Psychopatologia',
       domainKey: 'psychopatologia',
       items: [
@@ -855,8 +485,7 @@ window.SITE_CONFIG = {
           { id: 'psychopatologia/socjopatia',                   label: 'Socjopatia',                     file: 'wiki/psychopatologia/socjopatia.md'                   },
         ]
     },
-
-    {
+    { /* Testy psychologiczne */
       section: 'Testy psychologiczne',
       domainKey: 'tests',
       items: [
@@ -874,7 +503,7 @@ window.SITE_CONFIG = {
         { id: 'testy/apis_zr',           label: 'APIS-ZR - zastosowanie w diagnozie', file: 'wiki/testy/apis_zr.md' },
       ]
     },
-    {
+    { /* Funkcje poznawcze */
       section: 'Funkcje poznawcze',
       domainKey: 'poznawcza',
       items: [
@@ -908,7 +537,7 @@ window.SITE_CONFIG = {
         { id: 'poznawcza/przetwarzanie_predyktywne', label: 'Predictive processing',        file: 'wiki/psychologia_poznawcza/przetwarzanie_predyktywne.md' },
       ]
     },
-    {
+    { /* Psychologia zdrowia */
       section: 'Psychologia zdrowia',
       domainKey: 'psychologia_zdrowia',
       items: [
@@ -940,7 +569,7 @@ window.SITE_CONFIG = {
       ]
     },
     
-    {
+    { /* Psychosomatyka */
       section: 'Psychosomatyka',
       domainKey: 'psychosomatyka',
       items: [
@@ -961,7 +590,7 @@ window.SITE_CONFIG = {
       ]
     },
     
-    {
+    { /* Porozumiewanie sie bez przemocy (NVC) */
       section: 'Porozumiewanie sie bez przemocy (NVC)',
       domainKey: 'porozumiewanie_sie_bez_przemocy',
       items: [
@@ -979,7 +608,7 @@ window.SITE_CONFIG = {
         { id: 'porozumiewanie_sie_bez_przemocy/praktyka_nvc',              label: 'Praktyka NVC w codziennym zyciu',       file: 'wiki/porozumiewanie_sie_bez_przemocy/praktyka_nvc.md'              },
       ]
     },
-    {
+    { /* Arteterapia */
       section: 'Arteterapia',
       domainKey: 'arteterapia',
       items: [
@@ -993,7 +622,7 @@ window.SITE_CONFIG = {
         { id: 'arteterapia/zastosowania',  label: 'Zastosowania kliniczne',    file: 'wiki/arteterapia/zastosowania.md'  },
       ]
     },
-    {
+    { /* Animaloterapia */
       section: 'Animaloterapia',
       domainKey: 'animaloterapia',
       items: [
@@ -1006,7 +635,7 @@ window.SITE_CONFIG = {
         { id: 'animaloterapia/mechanizmy_aat',  label: 'Mechanizmy AAT',         file: 'wiki/animaloterapia/mechanizmy_aat.md'  },
       ]
     },
-    {
+    { /* Odpornosc psychiczna i mobbing */
       section: 'Odpornosc psychiczna',
       domainKey: 'rezyliencja_i_mobbing',
       items: [
@@ -1024,7 +653,7 @@ window.SITE_CONFIG = {
         { id: 'rezyliencja_i_mobbing/wsparcie_psychologiczne',  label: 'Wsparcie psychologiczne ofiar',        file: 'wiki/rezyliencja_i_mobbing/wsparcie_psychologiczne.md'  },
       ]
     },
-    {
+    { /* Psychologia szkolna i edukacyjna */
       section: 'Psychologia szkolna i edukacyjna',
       domainKey: 'psychologia_szkolna',
       items: [
@@ -1043,7 +672,7 @@ window.SITE_CONFIG = {
         { id: 'psychologia_szkolna/interwencje_szkolne',           label: 'Interwencje psychologiczne w szkole',      file: 'wiki/psychologia_szkolna/interwencje_szkolne.md'           },
       ]
     },
-    {
+    { /* Psychologia osob z niepelnosprawnoscia */
       section: 'Psychologia osob z niepelnosprawnoscia',
       domainKey: 'psychologia_niepelnosprawnosci',
       items: [
@@ -1061,7 +690,7 @@ window.SITE_CONFIG = {
         { id: 'psychologia_niepelnosprawnosci/inkluzja_spoleczna',            label: 'Inkluzja spoleczna i prawa',             file: 'wiki/psychologia_niepelnosprawnosci/inkluzja_spoleczna.md'            },
       ]
     },
-    {
+    { /* Psychologia osob w podeszlym wieku */
       section: 'Psychologia osob w podeszlym wieku',
       domainKey: 'geropsychologia',
       items: [
@@ -1079,7 +708,7 @@ window.SITE_CONFIG = {
         { id: 'geropsychologia/opieka_nad_opiekunami',      label: 'Wypalenie i wsparcie opiekunBw',      file: 'wiki/geropsychologia/opieka_nad_opiekunami.md'      },
       ]
     },
-    {
+    { /* Neuroroznorodnosc i neurodiversity */
       section: 'Neuroroznorodnosc',
       domainKey: 'neuroroznorodnosc',
       items: [
@@ -1098,7 +727,7 @@ window.SITE_CONFIG = {
         { id: 'neuroroznorodnosc/identyfikacja_i_diagnoza',   label: 'Identyfikacja i diagnoza',             file: 'wiki/neuroroznorodnosc/identyfikacja_i_diagnoza.md'   },
       ]
     },
-    {
+    { /* Psychoterapia */
       section: 'Psychoterapia',
       domainKey: 'psychoterapia',
       items: [
@@ -1127,7 +756,7 @@ window.SITE_CONFIG = {
           { id: 'psychoterapia/heksafleks_act', label: 'Heksafleks - model ACT', file: 'wiki/psychoterapia/heksafleks_act.md' },
         ]
     },
-    {
+    { /* Farmakologia i psychofarmakologia */
       section: 'Farmakologia',
       domainKey: 'farmakologia',
       items: [
@@ -1184,7 +813,7 @@ window.SITE_CONFIG = {
           { id: 'psychofarmakologia/37_farmakologiczne_aspekty_terapii_elektrowstrzasowej', label: '37. Farmakologiczne aspekty terapii elektrowstrzasowej', file: 'wiki/psychofarmakologia/37_farmakologiczne_aspekty_terapii_elektrowstrzasowej.md' },
         ]
     },
-    {
+    { /* Psychologia pozytywna */
       section: 'Psychologia pozytywna',
       domainKey: 'psychologia_pozytywna',
       items: [
@@ -1203,7 +832,7 @@ window.SITE_CONFIG = {
         { id: 'psychologia_pozytywna/interwencje_pozytywne', label: 'Interwencje pozytywne',            file: 'wiki/psychologia_pozytywna/interwencje_pozytywne.md' },
       ]
     },
-    {
+    { /* Suicydologia */
       section: 'Suicydologia',
       domainKey: 'suicydologia',
       items: [
@@ -1222,7 +851,7 @@ window.SITE_CONFIG = {
         { id: 'suicydologia/trauma_ace_i_stres_chroniczny', label: 'Trauma ACE i stres chroniczny', file: 'wiki/suicydologia/trauma_ace_i_stres_chroniczny_a_ryzyko_samobojstwa.md' },
       ]
     },
-    {
+    { /* Seksuologia */
       section: 'Seksuologia',
       domainKey: 'seksuologia',
       items: [
@@ -1242,7 +871,7 @@ window.SITE_CONFIG = {
         { id: 'seksuologia/modele_odpowiedzi',        label: 'Modele odpowiedzi seksualnej',file: 'wiki/seksuologia/modele_odpowiedzi.md'        },
       ]
     },
-    {
+    { /* Psychologia sadowa i opiniowanie */
       section: 'Psychologia sadowa i opiniowanie',
       domainKey: 'psychologia_sadowa',
       items: [
@@ -1260,7 +889,7 @@ window.SITE_CONFIG = {
         { id: 'psychologia_sadowa/biegly_a_sad',            label: 'Biegly, a sad - komunikacja',            file: 'wiki/psychologia_sadowa/biegly_a_sad.md'            },
       ]
     },
-    {
+    { /* Ekrany, ksiazki, a natura */
       section: 'Ekrany, ksiazki, a natura',
       domainKey: 'ekrany_ksiazki_i_natura',
       items: [
@@ -1278,7 +907,7 @@ window.SITE_CONFIG = {
         { id: 'ekrany_ksiazki_i_natura/gory_psychologia',         label: 'GBry i wedrBwki gBrskie',             file: 'wiki/ekrany_ksiazki_i_natura/gory_psychologia.md'          },
       ]
     },
-    {
+    { /* Psychologia gier wideo */
       section: 'Psychologia gier wideo',
       domainKey: 'psychologia_gier',
       items: [
@@ -1296,7 +925,7 @@ window.SITE_CONFIG = {
         { id: 'psychologia_gier/klasyfikacja_gier',    label: 'Klasyfikacja gier (PEGI, ESRB)',  file: 'wiki/psychologia_gier/klasyfikacja_gier.md'     },
       ]
     },
-    {
+    { /* E-terapia */
       section: 'E-terapia',
       domainKey: 'e_terapia',
       items: [
@@ -1314,7 +943,7 @@ window.SITE_CONFIG = {
         { id: 'e_terapia/przyszlosc_e_terapii',          label: 'Przyszlosc e-terapii',                  file: 'wiki/e_terapia/przyszlosc_e_terapii.md'          },
       ]
     },
-    {
+    { /* Psychologia sztucznej inteligencji */
       section: 'Psychologia sztucznej inteligencji',
       domainKey: 'psychologia_ai',
       items: [
@@ -1332,7 +961,7 @@ window.SITE_CONFIG = {
         { id: 'psychologia_ai/przyszlosc_ai',        label: 'Przyszlosc relacji czlowiek-AI',            file: 'wiki/psychologia_ai/przyszlosc_ai.md'          },
       ]
     },
-    {
+    { /* Psychologia technologii i dobrostan cyfrowy */
       section: 'Psychologia technologii i dobrostan cyfrowy',
       domainKey: 'psychologia_technologii',
       items: [
@@ -1349,7 +978,7 @@ window.SITE_CONFIG = {
         { id: 'dla_studentow/psycholog_w_it_kompetencje_mierniki_i_portfolio', label: 'Psycholog w IT - kompetencje, mierniki i portfolio', file: 'wiki/dla_studentow/psycholog_w_it_kompetencje_mierniki_i_portfolio.md' },
       ]
     },
-    {
+    { /* Robotyka afektywna i kognitywistyka */
       section: 'Robotyka afektywna i kognitywistyka',
       domainKey: 'robotyka_afektywna',
       items: [
@@ -1367,7 +996,7 @@ window.SITE_CONFIG = {
         { id: 'robotyka_afektywna/przyszlosc_robotyki_afektywnej', label: 'Przyszlosc robotyki afektywnej',            file: 'wiki/robotyka_afektywna/przyszlosc_robotyki_afektywnej.md'  },
       ]
     },
-    {
+    { /* Seminarium dyplomowe */
       section: 'Seminarium dyplomowe',
       domainKey: 'seminarium_dyplomowe',
       items: [
@@ -1387,7 +1016,7 @@ window.SITE_CONFIG = {
         { id: 'dla_studentow/wystapienia_publiczne_trudne_pytania_i_q_a', label: 'Wystapienia publiczne - trudne pytania i Q&A', file: 'wiki/dla_studentow/wystapienia_publiczne_trudne_pytania_i_q_a.md' },
       ]
     },
-    {
+    { /* Eksperyment psychologiczny */
       section: 'Eksperyment psychologiczny',
       domainKey: 'eksperyment_psychologiczny',
       items: [
@@ -1405,7 +1034,7 @@ window.SITE_CONFIG = {
         { id: 'eksperyment_psychologiczny/raportowanie_wynikow',      label: 'Raportowanie wynikBw i ograniczel',          file: 'wiki/eksperyment_psychologiczny/raportowanie_wynikow.md'      },
       ]
     },
-    {
+    { /* Psychologia kliniczna dziecka */
       section: 'Wstep do psychologii klinicznej dziecka',
       domainKey: 'psychologia_kliniczna_dziecka',
       items: [
@@ -1423,7 +1052,7 @@ window.SITE_CONFIG = {
         { id: 'psychologia_kliniczna_dziecka/bledy_diagnostyczne_i_iatrogenia', label: 'Bledy diagnostyczne i jatrogenia', file: 'wiki/psychologia_kliniczna_dziecka/bledy_diagnostyczne_i_iatrogenia.md' },
       ]
     },
-    {
+    { /* Reagowanie na krytyke */
       section: 'Reagowanie na krytyke',
       domainKey: 'reagowanie_na_krytyke',
       items: [
@@ -1442,7 +1071,7 @@ window.SITE_CONFIG = {
         { id: 'reagowanie_na_krytyke/jak_nie_brac_do_siebie_opinii_innych', label: 'Jak nie brac do siebie opinii innych', file: 'wiki/reagowanie_na_krytyke/jak_nie_brac_do_siebie_opinii_innych.md' },
       ]
     },
-    {
+    { /* Psychologia nadmiernego jedzenia */
       section: 'Psychologia nadmiernego jedzenia',
       domainKey: 'psychologia_nadmiernego_jedzenia',
       items: [
@@ -1460,7 +1089,7 @@ window.SITE_CONFIG = {
         { id: 'psychologia_nadmiernego_jedzenia/profilaktyka_nawrotow', label: 'Profilaktyka nawrotow', file: 'wiki/psychologia_nadmiernego_jedzenia/profilaktyka_nawrotow.md' },
       ]
     },
-    {
+    { /* Instytucje pomocy dziecku i rodzinie */
       section: 'Instytucje pomocy dziecku i rodzinie',
       domainKey: 'instytucje_wsparcia_dziecka_i_rodziny',
       items: [
@@ -1478,7 +1107,7 @@ window.SITE_CONFIG = {
         { id: 'instytucje_wsparcia_dziecka_i_rodziny/bledy_systemowe_i_dobre_praktyki', label: 'Bledy systemowe i dobre praktyki', file: 'wiki/instytucje_wsparcia_dziecka_i_rodziny/bledy_systemowe_i_dobre_praktyki.md' },
       ]
     },
-    {
+    { /* Resocjalizacja */
       section: 'Resocjalizacja',
       domainKey: 'resocjalizacja',
       items: [
@@ -1496,7 +1125,7 @@ window.SITE_CONFIG = {
         { id: 'resocjalizacja/ewaluacja_skutecznosci_programow', label: 'Ewaluacja skutecznosci programow', file: 'wiki/resocjalizacja/ewaluacja_skutecznosci_programow.md' },
       ]
     },
-    {
+    { /* Somatic Experiencing */
       section: 'Somatic Experiencing',
       domainKey: 'somatic_experiencing',
       items: [
@@ -1515,8 +1144,8 @@ window.SITE_CONFIG = {
           { id: 'somatic_experiencing/stabilizacja_i_sekwencjonowanie', label: 'Stabilizacja i sekwencjonowanie w Somatic Experiencing', file: 'wiki/doswiadczenie_somatyczne/stabilizacja_i_sekwencjonowanie.md' },
         ]
     },
-    {
-      section: 'Systemy Rodzinne',
+    { /* Systemy rodzinne */
+      section: 'Systemy rodzinne',
       domainKey: 'systemy_rodzinne',
       items: [
         { id: 'systemy_rodzinne/wprowadzenie_do_terapii_systemowej', label: 'Wprowadzenie do terapii systemowej', file: 'wiki/systemy_rodzinne/wprowadzenie_do_terapii_systemowej.md' },
@@ -1536,7 +1165,7 @@ window.SITE_CONFIG = {
       ]
     },
     
-    {
+    { /* Encyklopedie */
       section: 'Encyklopedie',
       domainKey: 'wiki-index',
       items: [
@@ -1577,7 +1206,7 @@ window.SITE_CONFIG = {
         { id: 'wiki-index/instrukcje_lab_pdf',   label: 'WIKI - Instrukcje laboratoryjne PDF',       wiki: 'instrukcje_lab_pdf'   },
       ]
     },
-    {
+    { /* Referencje */
       section: 'Referencje',
       domainKey: 'reference',
       // Pliki stricte developerskie (np. testy parsera/TOC i standardy redakcyjne)
@@ -1599,7 +1228,7 @@ window.SITE_CONFIG = {
   ],
 
   // 
-  //  PLANY ARTYKUlďż˝W PER DZIAlďż˝
+  //  PLANY ARTYKUŁÓW PER DZIAŁ
   //  Uzywane przez strony dzialu jako lista zaplanowanych prac.
   //  Klucz = id dzialu z nav (pierwsza czesc przed "/")
   // 
@@ -3435,7 +3064,7 @@ window.SITE_CONFIG = {
 
     psychologia_technologii: {
       title: 'WIKI - Psychologia technologii i dobrostanu cyfrowego',
-      intro: 'Encyklopedia porzadkuje wiedze o wplywie technologii cyfrowych na funkcjonowanie psychiczne czlowieka: stres, uwage, sen, regulacje emocji, relacje, poczucie sprawczosci oraz dobrostan. lďż˝aczy perspektywe badawcza z praktyka psychoedukacyjna i profilaktyka zdrowia psychicznego.',
+      intro: 'Encyklopedia porzadkuje wiedze o wplywie technologii cyfrowych na funkcjonowanie psychiczne czlowieka: stres, uwage, sen, regulacje emocji, relacje, poczucie sprawczosci oraz dobrostan. Łączy perspektywę badawczą z praktyką psychoedukacyjną i profilaktyką zdrowia psychicznego.',
       sections: [
         {
           title: 'Artykuly dostepne',
@@ -3461,7 +3090,7 @@ window.SITE_CONFIG = {
 
     robotyka_afektywna: {
       title: 'WIKI - Robotyka afektywna i kognitywistyka',
-      intro: 'Robotyka afektywna i kognitywistyka badaja emocjonalne i poznawcze aspekty maszyn oraz interakcji czlowiekďż˝robot. Encyklopedia obejmuje zagadnienia od historii robotyki afektywnej, przez doliny niesamowitosci i roboty spoleczne, po interfejsy mozgďż˝maszyna i filozofie swiadomosci maszyn.',
+      intro: 'Robotyka afektywna i kognitywistyka badaja emocjonalne i poznawcze aspekty maszyn oraz interakcji czlowiek-robot. Encyklopedia obejmuje zagadnienia od historii robotyki afektywnej, przez doliny niesamowitosci i roboty spoleczne, po interfejsy mozg-maszyna i filozofie swiadomosci maszyn.',
       sections: [
         {
           title: 'Podstawy i historia',
@@ -3887,10 +3516,10 @@ window.SITE_CONFIG = {
             { term: 'Cialo modzelowate', def: 'Najwieksza komisura mozgu laczaca obie polkule - ~200 milionow aksonow mielinowanych.' },
             { term: 'DAI',             def: 'Rozlane uszkodzenie aksonalne - rozerwanie dlugich wlokien wskutek sil przyspieszenia-opol_nienia w TBI.', link: 'disorders/tbi' },
             { term: 'DMN',             def: 'Default Mode Network - siec trybu domyslnego aktywna w spoczynku i autorefleksji; zaburzona w depresji i Alzheimerze.' },
-            { term: 'Dopamina',        def: 'Neuroprzekal_nik modulacyjny - motywacja, nagroda, kontrola ruchu. Niedobor ďż˝  Parkinson; nadmiar ďż˝  objawy psychotyczne.', link: 'pharmacology/neurofarmakologia' },
+            { term: 'Dopamina',        def: 'Neuroprzekaznik modulacyjny - motywacja, nagroda, kontrola ruchu. Niedobor -> Parkinson; nadmiar -> objawy psychotyczne.', link: 'pharmacology/neurofarmakologia' },
             { term: 'DTI',             def: 'Dyfuzyjna tomografia tensora - technika MRI pozwalajaca wizualizowac szlaki istoty bialej (traktografia).' },
             { term: 'ERP',             def: 'Potencjaly wywolane - usrednione odpowiedzi EEG na powtarzane bodl_ce; N400, P300, MMN.' },
-            { term: 'FFA',             def: 'Fusiform Face Area - obszar zakretu wrzecionowatego wyspecjalizowany w rozpoznawaniu twarzy. Uszkodzenie ďż˝  prozopagnozja.' },
+            { term: 'FFA',             def: 'Fusiform Face Area - obszar zakretu wrzecionowatego wyspecjalizowany w rozpoznawaniu twarzy. Uszkodzenie -> prozopagnozja.' },
             { term: 'fMRI',            def: 'Funkcjonalny rezonans magnetyczny - mierzy aktywnosc mozgu przez zmiany przeplywu krwi (sygnal BOLD).' },
             { term: 'GAoA',            def: 'Glowny neuroprzekal_nik inhibicyjny OUN. Cel benzodiazepin i barbituranow.', link: 'pharmacology/neurofarmakologia' },
             { term: 'Glutaminian',     def: 'Glowny neuroprzekal_nik ekscytacyjny. Kluczowy w LTP i ekscytotoksycznosci udarowej.', link: 'pharmacology/neurofarmakologia' },
@@ -3906,11 +3535,11 @@ window.SITE_CONFIG = {
             { term: 'Pola Brodmanna',  def: '52 obszary kory mozgowej wyznaczone przez Brodmanna (1l0l) na podstawie cytoarchitektoniki.', link: 'neuro/anatomia' },
             { term: 'Prozopagnozja',   def: 'Specyficzny deficyt rozpoznawania twarzy - zwiazany z uszkodzeniem FFA w zakrecie wrzecionowatym.', link: 'disorders/agnozja' },
             { term: 'Psychometria',    def: 'Dzial metodologii zajmujacy sie teoria i technika pomiaru psychologicznego - rzetelnosc, trafnosc, normalizacja.', link: 'psychometrics/psychometria_wprowadzenie' },
-            { term: 'Peczek lukowaty', def: 'Szlak istoty bialej laczacy obszar Wernickego z Broki. Uszkodzenie ďż˝  afazja przewodzenia.', link: 'disorders/afazje' },
+            { term: 'Peczek lukowaty', def: 'Szlak istoty bialej laczacy obszar Wernickego z Broki. Uszkodzenie -> afazja przewodzenia.', link: 'disorders/afazje' },
             { term: 'Rzetelnosc',      def: 'Stopien, w jakim wyniki testu sa stabilne i wolne od bledu pomiarowego (alfa Cronbacha, test-retest).', link: 'psychometrics/rzetelnosc' },
             { term: 'TBI',             def: 'Traumatic Brain Injury - uraz mozgu od lagodnego wstrzasnienia po ciezki uraz z dlugoterminowymi konsekwencjami.', link: 'disorders/tbi' },
             { term: 'Trafnosc',        def: 'Stopien, w jakim test mierzy to, co ma mierzyc˝! - tresciowa, kryterialna, zbiezna, czynnikowa.', link: 'psychometrics/trafnosc' },
-            { term: 'Wzgorze',         def: '"Brama swiadomosci" - przekaznik zmyslow do kory, regulacja czujnosci. Uszkodzenie ďż˝  amnezja wzgorzowa.', link: 'neuro/anatomia' },
+            { term: 'Wzgorze',         def: '"Brama swiadomosci" - przekaznik zmyslow do kory, regulacja czujnosci. Uszkodzenie -> amnezja wzgorzowa.', link: 'neuro/anatomia' },
           ]
         }
       ]
@@ -4018,7 +3647,7 @@ window.SITE_CONFIG = {
   });
 })(window.SITE_CONFIG);
 
-/* Dla spojnosci navďż˝ plans dopisuje brakujace pozycje planu na podstawie wpisow nawigacji. */
+/* Dla spojnosci dopisuje brakujace pozycje planu na podstawie wpisow nawigacji. */
 (function backfillPlansFromNav(config) {
   if (!config || typeof config !== 'object') return;
   if (!Array.isArray(config.nav)) return;

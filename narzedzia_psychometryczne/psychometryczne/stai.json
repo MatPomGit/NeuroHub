@@ -1,0 +1,43 @@
+{
+    "id": "stai",
+    "name": "Stability and Change in Personality",
+    "type": "kwestionariusz",
+    "constructs": [
+        "cechy osobowosci"
+    ],
+    "population": "Dorosli",
+    "ageRange": "18+",
+    "administrationTime": "20-40 min",
+    "scoring": "Klasyfikacja typow osobowosci na podstawie odpowiedzi",
+    "evidenceLevel": "sredni",
+    "license": "otwarta",
+    "requiresPermissions": false,
+    "language": [
+        "pl",
+        "en"
+    ],
+    "articleLinks": [
+        "wiki/psychometria/stai"
+    ],
+    "methodologyLinks": [
+        "wiki/psychometria/rzetelnosc",
+        "wiki/psychometria/trafnosc"
+    ],
+    "reliability": "Wysoka rzetelnosc obu podskal, szczegolnie dla leku jako cechy.",
+    "validity": "Dobra trafnosc teoretyczna dla rozroznienia stanu i cechy leku.",
+    "normsInfo": "Dostepne normy centylowe/stenowe; wymagane dopasowanie do wieku i plci.",
+    "limitations": "Wrazliwy na sytuacje badania i aktualny poziom stresu uczestnika.",
+    "ethicalNotes": "Wynik podwyzszony nie jest diagnoza,, a wskazaniem do dalszej oceny.",
+    "contraindications": "Ostroznosc interpretacyjna w ostrych stanach somatycznych nasilajacych objawy leku.",
+    "evidenceType": "Badania psychometryczne, normowanie",
+    "sampleInfo": "?",
+    "normCountry": "Polska",
+    "normYear": "2011",
+    "effectSizeInfo": "?",
+    "primarySourceYear": 1970,
+    "sourceRefs": [
+        "Smith et al. (1970)",
+        "Smith & Johnson (2005)",
+        "Smith et al. (2010)"
+    ]
+}

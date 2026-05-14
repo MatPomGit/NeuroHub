@@ -1,0 +1,40 @@
+{
+    "id": "pcl_5",
+    "name": "PTSD Checklist for DSM-5 (PCL-5)",
+    "type": "kwestionariusz",
+    "constructs": ["objawy PTSD", "nasilenie objawow potraumatycznych"],
+    "population": "Dorosli i starsza mlodziez z ekspozycja na zdarzenia traumatyczne",
+    "ageRange": "16+",
+    "administrationTime": "5-10 min",
+    "scoring": "Suma 20 pozycji lub ocena klastrowa wg DSM-5; uzyteczny do monitorowania terapii",
+    "evidenceLevel": "wysoki",
+    "license": "otwarta",
+    "requiresPermissions": false,
+    "language": ["pl", "en"],
+    "articleLinks": [
+        "wiki/psychometria/narzedzia_kliniczne",
+        "wiki/diagnostics/testy_przeglad"
+    ],
+    "methodologyLinks": [
+        "wiki/psychometria/rzetelnosc",
+        "wiki/psychometria/trafnosc",
+        "wiki/diagnostics/scid_v"
+    ],
+    "reliability": "Wysoka rzetelnosc wewnetrzna i dobra stabilnosc przy powtorzonych pomiarach.",
+    "validity": "Silna trafnosc zbiezna z wywiadami PTSD i wrazliwosc na zmiane kliniczna.",
+    "normsInfo": "Wyniki interpretowac z odniesieniem do progu przesiewowego i kontekstu typu traumy.",
+    "limitations": "Narzedzie samoopisowe nie rozstrzyga rozpoznania PTSD bez wywiadu klinicznego.",
+    "ethicalNotes": "Pozytywne odpowiedzi moga aktywowac dyskomfort; konieczne bezpieczne warunki badania.",
+    "contraindications": "Ostroznosc przy ostrej dysocjacji i braku stabilizacji po swiezej traumie.",
+    "evidenceType": "",
+    "sampleInfo": "",
+    "normCountry": "",
+    "normYear": "",
+    "effectSizeInfo": "",
+    "primarySourceYear": 2013,
+    "sourceRefs": [
+        "Weathers et al. (2013)",
+        "Blevins et al. (2015)",
+        "Price et al. (2016)"
+    ]
+  }

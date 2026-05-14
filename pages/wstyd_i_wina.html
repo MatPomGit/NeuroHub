@@ -7,7 +7,7 @@
 
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5/dist/reveal.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5/dist/theme/black.css">
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Playfair+Display:wght@400;700&family=Nunito:wght@400;700&family=Space+Mono:wght@400;700&family=Lora:wght@400;700&display=swap" rel="stylesheet">
   <link rel="icon" href="https://www.vizja.pl/favicon.ico" type="image/x-icon">
   <link rel="shortcut icon" href="https://www.vizja.pl/favicon.ico" type="image/x-icon">
   <link rel="apple-touch-icon" sizes="180x180" href="https://www.vizja.pl/apple-touch-icon.png">
@@ -72,6 +72,19 @@
       line-height: 1.7;
     }
 
+    .author-name {
+      display: inline-block;
+      animation: nameGlow var(--nd, 3s) ease-in-out var(--ndelay, 0s) infinite;
+    }
+
+    @keyframes nameGlow {
+      0%   { color: #dbeafe; text-shadow: none; }
+      25%  { color: #38bdf8; text-shadow: 0 0 12px rgba(56,189,248,0.75); }
+      50%  { color: #a78bfa; text-shadow: 0 0 14px rgba(167,139,250,0.75); }
+      75%  { color: #f472b6; text-shadow: 0 0 12px rgba(244,114,182,0.65); }
+      100% { color: #dbeafe; text-shadow: none; }
+    }
+
     .footer {
       position: absolute;
       bottom: 15px;
@@ -87,13 +100,20 @@
       align-items: start;
     }
 
+    .grid-3 {
+      display: grid;
+      grid-template-columns: 1.2fr 0.8fr 1.2fr;
+      gap: 32px;
+      align-items: start;
+    }
+
     .card {
       background: rgba(255,255,255,0.05);
       border: 1px solid rgba(255,255,255,0.08);
       border-radius: 20px;
       padding: 22px;
       backdrop-filter: blur(8px);
-      box-shadow: 0 10px 30px rgba(0,0,0,0.35);
+      box-shadow: 0 12px 32px rgba(0,0,0,0.35);
       transition: translate 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
     }
 
@@ -112,6 +132,8 @@
     ol li {
       margin-bottom: 12px;
     }
+
+
 
     .metric-grid {
       display: grid;
@@ -223,15 +245,19 @@
 
     .figure-card {
       display: grid;
-      gap: 16px;
+      gap: 12px;
       justify-items: center;
       align-items: center;
+      max-width: 120%;
+      min-width: 0;
     }
 
     .figure-card img {
-      width: 100%;
+      display: block;
+      width: min(80%, 880px);
+      height: auto;
       max-width: 880px;
-      max-height: 56vh;
+      max-height: 30vh;
       object-fit: contain;
       border-radius: 18px;
       border: 1px solid rgba(255,255,255,0.12);
@@ -241,7 +267,7 @@
 
     .figure-caption {
       max-width: 880px;
-      font-size: 0.72em;
+      font-size: 0.40em;
       color: var(--muted);
       line-height: 1.55;
       text-align: left;
@@ -356,17 +382,17 @@
     /* ── PRZEŁĄCZNIK MOTYWÓW ─────────────────────────────── */
     .theme-switcher {
       position: fixed;
-      top: 14px;
+      top: 32px;
       left: 18px;
       z-index: 9999;
       display: flex;
-      gap: 8px;
+      gap: 6px;
       align-items: center;
       background: rgba(15, 23, 42, 0.75);
       border: 1px solid rgba(255,255,255,0.12);
-      border-radius: 14px;
-      padding: 8px 12px;
-      backdrop-filter: blur(8px);
+      border-radius: 8px;
+      padding: 4px 8px;
+      backdrop-filter: blur(4px);
     }
 
     .theme-btn {
@@ -387,6 +413,44 @@
     .theme-btn[data-t="mango"]   { background: linear-gradient(135deg, #fb923c, #f472b6); }
     .theme-btn[data-t="sliwka"]  { background: linear-gradient(135deg, #c084fc, #fbbf24); }
     .theme-btn[data-t="kokos"]   { background: linear-gradient(135deg, #67e8f9, #e0f2fe); }
+
+    /* ── PRZEŁĄCZNIK CZCIONEK ───────────────────────────── */
+    .font-switcher {
+      position: fixed;
+      top: 2px;
+      left: 18px;
+      z-index: 9999;
+
+      display: flex;
+      gap: 2px;
+      align-items: center;
+      background: rgba(15, 23, 42, 0.75);
+      border: 1px solid rgba(255,255,255,0.12);
+      border-radius: 12px;
+      padding: 2px 6px;
+      backdrop-filter: blur(4px);
+      width: 12.5%;
+      box-sizing: border-box;
+      justify-content: space-between;
+    }
+
+    .font-btn {
+      flex: 1;
+      font-size: 0.6em;
+      padding: 2px 0;
+      text-align: center;
+      border-radius: 8px;
+      border: 1px solid rgba(255,255,255,0.2);
+      background: transparent;
+      color: rgba(255,255,255,0.55);
+      cursor: pointer;
+      transition: background 0.2s, color 0.2s, border-color 0.2s;
+      white-space: nowrap;
+      overflow: hidden;
+    }
+
+    .font-btn:hover  { background: rgba(255,255,255,0.1); color: white; }
+    .font-btn.active { background: rgba(255,255,255,0.18); color: white; border-color: rgba(255,255,255,0.6); }
 
     /* ── ANIMACJE WEJŚCIA ────────────────────────────────── */
 
@@ -443,11 +507,23 @@
     .reveal .slides section.present .pill:nth-child(4) { animation: popIn 0.4s cubic-bezier(.34,1.56,.64,1) 0.4s both; }
     .reveal .slides section.present .pill:nth-child(5) { animation: popIn 0.4s cubic-bezier(.34,1.56,.64,1) 0.5s both; }
 
+    @keyframes authorsPulse {
+      0%, 100% { text-shadow: none; letter-spacing: 0.01em; }
+      50%       { text-shadow: 0 0 14px rgba(56,189,248,0.7), 0 0 28px rgba(168,85,247,0.4); letter-spacing: 0.03em; }
+    }
+
     /* Pozostałe elementy */
     .reveal .slides section.present .big-quote { animation: fadeUp  0.7s ease 0.2s both; }
     .reveal .slides section.present .warning   { animation: slideUp 0.5s ease 0.5s both; }
-    .reveal .slides section.present .authors   { animation: fadeUp  0.7s ease 0.4s both; }
+    .reveal .slides section.present .authors   { animation: fadeUp  0.7s ease 0.4s both, authorsPulse 3s ease-in-out 1.2s infinite; }
     .reveal .slides section.present .subtitle  { animation: fadeUp  0.6s ease 0.2s both; }
+
+    .reveal .slides section.scroll-fit {
+      overflow-y: auto;
+      scrollbar-width: thin;
+      padding-right: 6px;
+    }
+
       #particles-canvas {
       position: fixed;
       top: 0;
@@ -467,12 +543,24 @@
 <body>
 <canvas id="particles-canvas"></canvas>
 
+<div class="panel-stack" id="panelStack" style="display:none">
+
+<div class="font-switcher" id="fontSwitcher">
+  <button class="font-btn active" data-f="inter"   title="Inter – domyślna">Inter</button>
+  <button class="font-btn"        data-f="playfair" title="Playfair Display – szeryfowa">Serif</button>
+  <button class="font-btn"        data-f="nunito"   title="Nunito – zaokrąglona">Nun</button>
+  <button class="font-btn"        data-f="mono"     title="Space Mono – monoszeryfowa">Mono</button>
+  <button class="font-btn"        data-f="lora"     title="Lora – literacka szeryfowa">Lora</button>
+</div>
+
 <div class="theme-switcher" id="themeSwitcher">
   <button class="theme-btn active" data-t="borowka" title="Borówka"></button>
   <button class="theme-btn"        data-t="matcha"  title="Matcha"></button>
   <button class="theme-btn"        data-t="mango"   title="Mango"></button>
   <button class="theme-btn"        data-t="sliwka"  title="Śliwka"></button>
   <button class="theme-btn"        data-t="kokos"   title="Kokos"></button>
+</div>
+
 </div>
 
 <div class="timer" id="timer">15:00</div>
@@ -486,8 +574,8 @@
       <div class="subtitle">Metaanaliza problematyki badawczej</div>
 
       <div class="authors">
-        <br><br>Izabela Rybka · Anna Seruga-Łężniak · Julia Bladowska<br>
-        Krzysztof Lindorf · Mateusz Pomianek
+        <br><br><span class="author-name" style="--nd:2.8s;--ndelay:0.0s">Izabela Rybka</span> · <span class="author-name" style="--nd:3.5s;--ndelay:0.4s">Anna Seruga-Łężniak</span> · <span class="author-name" style="--nd:2.3s;--ndelay:0.9s">Julia Bladowska</span><br>
+        <span class="author-name" style="--nd:4.1s;--ndelay:0.2s">Krzysztof Lindorf</span> · <span class="author-name" style="--nd:3.0s;--ndelay:0.7s">Mateusz Pomianek</span>
       </div>
 
       <div class="subtitle">
@@ -541,48 +629,47 @@
     </section>
 
     <!-- Podstawy teoretyczne -->
-    <section>
+    <section class="scroll-fit">
       <h2>Klasyczne rozróżnienia</h2>
       
       <p class="lead">
+        Współczesna literatura pokazuje nakładanie się obu emocji: wstyd może pełnić funkcję naprawczą, a wina bywa silnie regulowana społecznie, nie tylko wewnętrznie. 
         Podział na „kultury wstydu” i „kultury winy” był użyteczny historycznie, ale dziś traktuje się go raczej jako punkt wyjścia niż gotowy opis rzeczywistości.
       </p>
 
-      <div class="grid-2">
-        <div class="card">
-          <h3>Kultury wstydu</h3>
-          <ul>
-            <li>Zewnętrzna orientacja moralna</li>
-            <li>Publiczne potępienie jako regulator</li>
-            <li>Centralność utraty twarzy</li>
-            <li>Archetyp: Japonia</li>
-          </ul>
-        </div>
+      <div class="card">
+  <div class="grid-3">
+    <div class="column-left">
+      <h3>Kultury wstydu</h3>
+      <ul>
+        <li>Zewnętrzna orientacja moralna</li>
+        <li>Publiczne potępienie jako regulator</li>
+        <li>Centralność utraty twarzy</li>
+        <li>Archetyp: Japonia</li>
+      </ul>
+    </div>
 
-        <div class="card">
-          <h3>Kultury winy</h3>
-          <ul>
-            <li>Wewnętrzna orientacja moralna</li>
-            <li>Znaczenie sumienia</li>
-            <li>Indywidualna odpowiedzialność</li>
-            <li>Archetyp: Zachód</li>
-          </ul>
-        </div>
+    <div class="column-center">
+      <img src="images/im1.jpg" alt="Różnica pomiędzy wstydem i winą">
+      <div class="figure-caption">
+        Rozróżnienie pomiędzy wstydem i winą
       </div>
+    </div>
 
-      <div class="callout">
-        Współczesna literatura pokazuje nakładanie się obu emocji: wstyd może pełnić funkcję naprawczą, a wina bywa silnie regulowana społecznie, nie tylko wewnętrznie.
-      </div>
+    <div class="column-right">
+      <h3>Kultury winy</h3>
+      <ul>
+        <li>Wewnętrzna orientacja moralna</li>
+        <li>Znaczenie sumienia</li>
+        <li>Indywidualna odpowiedzialność</li>
+        <li>Archetyp: Zachód</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
       <div class="warning">
         Współczesne badania zakwestionowały prosty podział kultur wstydu i winy.
-      </div>
-
-      <div class="card figure-card" style="margin-top:28px;">
-        <img src="images/im1.jpg" alt="Schemat porównujący kulturowe mechanizmy wstydu i winy">
-        <div class="figure-caption">
-          Miejsce na obraz syntetyzujący klasyczne rozróżnienie między wstydem i winą, najlepiej jako prosty schemat lub infografika pokazująca relację między oceną społeczną, sumieniem i utratą twarzy.
-        </div>
       </div>
     </section>
 
@@ -618,7 +705,7 @@
     </section>
 
     <!-- Metodologie badawcze -->
-    <section>
+    <section class="scroll-fit">
       <h2>Metodologie badawcze</h2>
 
       <p class="lead">
@@ -645,18 +732,17 @@
           <h3>Badania narracyjne</h3>
           <p class="small">Lokalne systemy znaczeń emocji.</p>
         </div>
+      
+
+      <div class="card figure-card" style="margin-top:28px;">
+        <img src="images/im2.jpg" alt="Badanie emocji w terenie">
       </div>
 
-      <div class="section-note">
+      <div class="card">
         Najmocniejsze wnioski pojawiają się wtedy, gdy pomiary ilościowe łączy się z interpretacją jakościową. Sam wynik procentowy rzadko wyjaśnia, co emocja oznacza dla badanych osób.
       </div>
 
-      <div class="card figure-card" style="margin-top:28px;">
-        <img src="images/im2.jpg" alt="Obraz ilustrujący badanie emocji w terenie i porównania metodologiczne">
-        <div class="figure-caption">
-          Miejsce na ilustrację pokazującą metodologiczny wymiar badań: wywiad, obserwację, pracę z narracją albo porównanie narzędzi pomiarowych w badaniach międzykulturowych.
-        </div>
-      </div>
+</div>
     </section>
 
     <!-- Wyzwania metodologiczne -->
@@ -766,7 +852,7 @@
     </section>
 
     <!-- Różnice międzykulturowe -->
-    <section>
+    <section class="scroll-fit">
       <h2>Różnice międzykulturowe</h2>
 
       <div class="grid-2">
@@ -786,10 +872,7 @@
         </div>
 
           <div class="card figure-card">
-            <img src="images/im3.jpg" alt="Obraz pokazujący różnice międzykulturowe w ekspresji i regulacji emocji">
-            <div class="figure-caption">
-              Miejsce na obraz bardziej narracyjny lub porównawczy: na przykład zestawienie dwóch kontekstów kulturowych, scena społeczna albo mapa relacji między normą, ekspresją emocji i odpowiedzią otoczenia.
-            </div>
+            <img src="images/im3.jpg" alt="Obraz pokazujący różnice międzykulturowe w ekspresji i regulacji emocji" style="margin-top:0;"/>
           </div>
       </div>
 
@@ -1022,8 +1105,8 @@
       <div class="subtitle">Dziękujemy za uwagę</div>
 
       <div class="authors">
-        <br>Izabela Rybka · Anna Seruga-Łężniak · Julia Bladowska<br>
-        Krzysztof Lindorf · Mateusz Pomianek
+        <br><span class="author-name" style="--nd:2.8s;--ndelay:0.0s">Izabela Rybka</span> · <span class="author-name" style="--nd:3.5s;--ndelay:0.4s">Anna Seruga-Łężniak</span> · <span class="author-name" style="--nd:2.3s;--ndelay:0.9s">Julia Bladowska</span><br>
+        <span class="author-name" style="--nd:4.1s;--ndelay:0.2s">Krzysztof Lindorf</span> · <span class="author-name" style="--nd:3.0s;--ndelay:0.7s">Mateusz Pomianek</span>
       </div>
     </section>
 
@@ -1037,7 +1120,15 @@
     hash: true,
     slideNumber: true,
     transition: 'slide',
-    backgroundTransition: 'fade'
+    backgroundTransition: 'fade',
+    width: 1600,
+    height: 900,
+    margin: 0.04,
+    minScale: 0.35,
+    maxScale: 1.6,
+    controls: true,
+    progress: true,
+    history: true,
   });
 
   // ── Timer (startuje dopiero od 2. slajdu) ────────────────
@@ -1109,7 +1200,42 @@
     replayAnimations(Reveal.getCurrentSlide());
   });
 
-  // ── Przełącznik motywów ──────────────────────────────────
+  // ── Przełącznik czcionek ─────────────────────────────────
+  const FONTS = {
+    inter:    '"Inter", "Segoe UI", sans-serif',
+    playfair: '"Playfair Display", Georgia, serif',
+    nunito:   '"Nunito", "Segoe UI", sans-serif',
+    mono:     '"Space Mono", "Courier New", monospace',
+  };
+
+  const fontBtns = document.querySelectorAll('.font-btn');
+
+  function applyFont(key) {
+    const val = FONTS[key] || FONTS.inter;
+    document.body.style.fontFamily = val;
+    document.querySelector('.reveal').style.fontFamily = val;
+    fontBtns.forEach(b => b.classList.toggle('active', b.dataset.f === key));
+    localStorage.setItem('wstyd-font', key);
+  }
+
+  fontBtns.forEach(btn => {
+    btn.addEventListener('click', () => applyFont(btn.dataset.f));
+  });
+
+  const savedFont = localStorage.getItem('wstyd-font');
+  if (savedFont && FONTS[savedFont]) applyFont(savedFont);
+
+  // ── Widoczność panelów – tylko na pierwszym slajdzie ───────
+  const panelStack = document.getElementById('panelStack');
+
+  function updatePanelVisibility() {
+    panelStack.style.display = Reveal.getState().indexh === 0 ? 'flex' : 'none';
+  }
+
+  Reveal.on('slidechanged', updatePanelVisibility);
+  Reveal.on('ready', updatePanelVisibility);
+
+   // ── Przełącznik motywów ──────────────────────────────────
   const htmlEl = document.documentElement;
   const themeBtns = document.querySelectorAll('.theme-btn');
 
@@ -1141,7 +1267,7 @@
       kokos:   ['#67e8f9', '#e0f2fe', '#bae6fd'],
     };
 
-    const COUNT = 480;
+    const COUNT = 512;
     let particles = [];
     let W, H;
 
@@ -1160,7 +1286,7 @@
         r:     rand(1.2, 3.8),
         color: colors[Math.floor(Math.random() * colors.length)],
         alpha: rand(0.08, 0.38),
-        vx:    rand(-0.22, 0.22),
+        vx:    rand(-0.28, 0.28),
         vy:    rand(-0.32, -0.08),
         pulse: rand(0, Math.PI * 2),
         pulseSpeed: rand(0.008, 0.022),

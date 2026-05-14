@@ -1,0 +1,215 @@
+<!doctype html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Biegnąca postać - spritesheet</title>
+  <style>
+    :root {
+      --runner-height: clamp(150px, 20vh, 260px);
+      --runner-bottom: 8px;
+      --runner-duration: 8s;
+      --runner-z-index: 9999;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      min-height: 100vh;
+      margin: 0;
+      overflow-x: hidden;
+      background:
+        radial-gradient(circle at 20% 20%, rgba(56, 189, 248, 0.18), transparent 34%),
+        radial-gradient(circle at 80% 30%, rgba(168, 85, 247, 0.18), transparent 36%),
+        linear-gradient(135deg, #07111f, #101827 45%, #18112a);
+      color: white;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+
+    main {
+      min-height: 100vh;
+      display: grid;
+      place-items: center;
+      padding: 2rem;
+      text-align: center;
+    }
+
+    .demo-card {
+      max-width: 720px;
+      padding: 2rem;
+      border: 1px solid rgba(255,255,255,0.14);
+      border-radius: 24px;
+      background: rgba(255,255,255,0.06);
+      backdrop-filter: blur(12px);
+      box-shadow: 0 24px 80px rgba(0,0,0,0.35);
+    }
+
+    .demo-card h1 {
+      margin: 0 0 0.75rem;
+      font-size: clamp(1.6rem, 4vw, 3rem);
+      line-height: 1.05;
+    }
+
+    .demo-card p {
+      margin: 0;
+      color: rgba(255,255,255,0.72);
+      line-height: 1.55;
+    }
+
+    .runner-track {
+      position: fixed;
+      left: 0;
+      bottom: var(--runner-bottom);
+      width: var(--runner-width, 120px);
+      height: var(--runner-height);
+      z-index: var(--runner-z-index);
+      pointer-events: none;
+      transform: translateX(calc(100vw + var(--runner-width, 120px)));
+      animation: runner-cross-screen var(--runner-duration) linear infinite;
+      will-change: transform;
+    }
+
+    .runner-sprite {
+      width: var(--runner-width, 120px);
+      height: var(--runner-height);
+      background-image: url("postac.png");
+      background-repeat: no-repeat;
+      background-position: 0 0;
+      background-size: auto 100%;
+      image-rendering: auto;
+      filter: drop-shadow(0 14px 18px rgba(0, 0, 0, 0.38));
+      will-change: background-position;
+    }
+
+    .runner-track::after {
+      content: "";
+      position: absolute;
+      left: 12%;
+      right: 12%;
+      bottom: 1px;
+      height: 10px;
+      border-radius: 999px;
+      background: rgba(0, 0, 0, 0.22);
+      filter: blur(7px);
+      transform: translateY(65%);
+      z-index: -1;
+    }
+
+    @keyframes runner-cross-screen {
+      from {
+        transform: translateX(calc(100vw + var(--runner-width, 120px)));
+      }
+      to {
+        transform: translateX(calc(-1 * var(--runner-width, 120px) - 48px));
+      }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .runner-track {
+        animation: none;
+        transform: translateX(24px);
+      }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <section class="demo-card">
+      <h1>Animacja spritesheetu</h1>
+      <p>
+        Ten plik używa spritesheetu <strong>postac.png</strong>. Umieść go w tym samym folderze co HTML.
+        Iteracja po klatkach jest wykonywana w JavaScripcie, bez przechodzenia na pustą klatkę poza arkuszem.
+      </p>
+    </section>
+  </main>
+
+  <div class="runner-track" id="runnerTrack" aria-hidden="true">
+    <div class="runner-sprite" id="runnerSprite"></div>
+  </div>
+
+  <script>
+    (() => {
+      const config = {
+        src: "postac.png",
+        frames: 6,
+        fps: 12,
+        cssHeightVar: "--runner-height",
+        cssWidthVar: "--runner-width"
+      };
+
+      const sprite = document.getElementById("runnerSprite");
+      const track = document.getElementById("runnerTrack");
+
+      let naturalWidth = 0;
+      let naturalHeight = 0;
+      let sourceFrameWidth = 0;
+      let displayFrameWidth = 0;
+      let displayFrameHeight = 0;
+      let frame = 0;
+      let lastFrameTime = 0;
+      const frameDuration = 1000 / config.fps;
+
+      const preload = new Image();
+      preload.src = config.src;
+
+      preload.onload = () => {
+        naturalWidth = preload.naturalWidth;
+        naturalHeight = preload.naturalHeight;
+        sourceFrameWidth = naturalWidth / config.frames;
+
+        updateSpriteGeometry();
+        window.addEventListener("resize", updateSpriteGeometry, { passive: true });
+
+        requestAnimationFrame(tick);
+      };
+
+      preload.onerror = () => {
+        console.error("Nie znaleziono pliku spritesheetu: postac.png. Umieść postac.png w tym samym folderze co HTML.");
+      };
+
+      function updateSpriteGeometry() {
+        const computed = getComputedStyle(document.documentElement);
+        displayFrameHeight = parseFloat(computed.getPropertyValue(config.cssHeightVar));
+
+        if (!displayFrameHeight || Number.isNaN(displayFrameHeight)) {
+          displayFrameHeight = 220;
+        }
+
+        displayFrameWidth = displayFrameHeight * (sourceFrameWidth / naturalHeight);
+
+        document.documentElement.style.setProperty(config.cssWidthVar, `${displayFrameWidth}px`);
+
+        sprite.style.width = `${displayFrameWidth}px`;
+        sprite.style.height = `${displayFrameHeight}px`;
+        sprite.style.backgroundImage = `url("${config.src}")`;
+
+        // Cały spritesheet jest skalowany do wysokości postaci.
+        // Szerokość tła to szerokość pojedynczej klatki razy liczba klatek.
+        sprite.style.backgroundSize = `${displayFrameWidth * config.frames}px ${displayFrameHeight}px`;
+        setFrame(frame);
+      }
+
+      function setFrame(index) {
+        frame = index % config.frames;
+        sprite.style.backgroundPosition = `${-frame * displayFrameWidth}px 0px`;
+      }
+
+      function tick(timestamp) {
+        if (!lastFrameTime) lastFrameTime = timestamp;
+
+        const elapsed = timestamp - lastFrameTime;
+
+        if (elapsed >= frameDuration) {
+          const framesToAdvance = Math.floor(elapsed / frameDuration);
+          setFrame((frame + framesToAdvance) % config.frames);
+          lastFrameTime = timestamp - (elapsed % frameDuration);
+        }
+
+        requestAnimationFrame(tick);
+      }
+    })();
+  </script>
+</body>
+</html>

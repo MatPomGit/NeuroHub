@@ -1,9 +1,274 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="pl">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>work in progress</title>
+  <title>Mendeley - Przewodnik dla Studentow</title>
+  <meta name="description" content="Praktyczny przewodnik po Mendeleyu dla studentow: instalacja, biblioteka, cytowania i wspolpraca." />
+  <style>
+    :root {
+      --bg: #f3f1ec;
+      --card: #fffefb;
+      --ink: #1c1a17;
+      --muted: #655f58;
+      --line: #ddd5ca;
+      --accent: #345a7a;
+      --accent-2: #8aa6bd;
+      --ok: #2a7a4b;
+    }
 
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      color: var(--ink);
+      background:
+        radial-gradient(circle at 10% 0%, rgba(138, 166, 189, 0.22), transparent 30%),
+        radial-gradient(circle at 90% 10%, rgba(52, 90, 122, 0.12), transparent 35%),
+        var(--bg);
+    }
+
+    .wrap {
+      width: min(1080px, calc(100% - 2rem));
+      margin: 0 auto;
+    }
+
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      backdrop-filter: blur(12px);
+      background: rgba(243, 241, 236, 0.88);
+      border-bottom: 1px solid var(--line);
+    }
+
+    .top {
+      display: flex;
+      gap: 1rem;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0.9rem 0;
+    }
+
+    .brand {
+      font-size: 1.05rem;
+      font-weight: 700;
+      letter-spacing: 0.01em;
+    }
+
+    nav {
+      display: flex;
+      gap: 0.45rem;
+      flex-wrap: wrap;
+    }
+
+    nav button {
+      border: 1px solid var(--line);
+      background: var(--card);
+      color: var(--ink);
+      border-radius: 999px;
+      padding: 0.45rem 0.75rem;
+      cursor: pointer;
+      font-weight: 600;
+    }
+
+    nav button.active {
+      background: var(--accent);
+      color: white;
+      border-color: var(--accent);
+    }
+
+    main {
+      padding: 1.4rem 0 3rem;
+    }
+
+    .hero {
+      border: 1px solid var(--line);
+      border-radius: 20px;
+      background: var(--card);
+      padding: 1.2rem;
+      margin-bottom: 1rem;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.07);
+    }
+
+    h1 {
+      font-size: clamp(1.7rem, 3.4vw, 2.5rem);
+      margin: 0 0 0.7rem;
+      letter-spacing: -0.02em;
+    }
+
+    p {
+      line-height: 1.55;
+      margin: 0.3rem 0;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 0.9rem;
+    }
+
+    .card {
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      background: var(--card);
+      padding: 1rem;
+    }
+
+    .card h2 {
+      margin: 0 0 0.45rem;
+      font-size: 1.15rem;
+    }
+
+    .muted {
+      color: var(--muted);
+    }
+
+    .steps {
+      margin: 0.6rem 0 0;
+      padding-left: 1rem;
+    }
+
+    .steps li { margin: 0.35rem 0; }
+
+    .check {
+      display: flex;
+      gap: 0.5rem;
+      align-items: flex-start;
+      margin: 0.35rem 0;
+      padding: 0.45rem 0.55rem;
+      border: 1px dashed var(--line);
+      border-radius: 10px;
+      background: #fcfbf7;
+    }
+
+    .check.done {
+      border-style: solid;
+      border-color: color-mix(in srgb, var(--ok) 45%, var(--line));
+      background: #edf7f0;
+    }
+
+    .badge {
+      display: inline-block;
+      margin-top: 0.6rem;
+      font-size: 0.9rem;
+      color: white;
+      background: var(--accent);
+      border-radius: 999px;
+      padding: 0.3rem 0.6rem;
+    }
+
+    @media (max-width: 800px) {
+      .grid { grid-template-columns: 1fr; }
+      .top { align-items: flex-start; flex-direction: column; }
+    }
+  </style>
 </head>
+<body>
+  <header>
+    <div class="wrap top">
+      <div class="brand">Mendeley - Przewodnik dla Studentow</div>
+      <nav id="nav"></nav>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="hero">
+      <h1>Skuteczne zarzadzanie literatura naukowa</h1>
+      <p class="muted">Ta strona dziala lokalnie i nie wymaga frameworka. Zawiera kroki startowe, dobre praktyki i typowe bledy podczas pracy z Mendeleyem.</p>
+      <span class="badge" id="progressBadge">Postep: 0 / 5</span>
+    </section>
+
+    <section class="grid">
+      <article class="card" data-section="start">
+        <h2>1. Start i konfiguracja</h2>
+        <ol class="steps">
+          <li>Zainstaluj Mendeley Reference Manager oraz plugin Citation.</li>
+          <li>Skonfiguruj konto i folder synchronizowany.</li>
+          <li>Ustaw styl cytowan (np. APA 7 lub Vancouver).</li>
+        </ol>
+      </article>
+
+      <article class="card" data-section="biblioteka">
+        <h2>2. Organizacja biblioteki</h2>
+        <p>Tworz kolekcje tematyczne i tagi. Dodawaj PDF-y partiami, a potem poprawiaj metadane recznie tam, gdzie parser sie myli.</p>
+        <p class="muted">Dobra praktyka: od razu uzupelniaj DOI i rok publikacji.</p>
+      </article>
+
+      <article class="card" data-section="cytowanie">
+        <h2>3. Cytowanie i bibliografia</h2>
+        <p>Wstawiaj cytowania bezposrednio z poziomu edytora tekstu. Bibliografie generuj automatycznie, ale zawsze zrob finalna kontrole formatowania.</p>
+      </article>
+
+      <article class="card" data-section="wspolpraca">
+        <h2>4. Wspolpraca zespolowa</h2>
+        <p>Uzywaj grup prywatnych dla projektow badawczych. Ustal wspolne zasady nazewnictwa i wersjonowania notatek.</p>
+      </article>
+
+      <article class="card" data-section="bledy">
+        <h2>5. Najczestsze bledy</h2>
+        <div class="check" data-check>
+          <input type="checkbox" id="c1" />
+          <label for="c1">Brak kontroli duplikatow rekordow.</label>
+        </div>
+        <div class="check" data-check>
+          <input type="checkbox" id="c2" />
+          <label for="c2">Poleganie w 100% na automatycznym imporcie metadanych.</label>
+        </div>
+        <div class="check" data-check>
+          <input type="checkbox" id="c3" />
+          <label for="c3">Mieszanie stylow cytowania w jednym dokumencie.</label>
+        </div>
+        <div class="check" data-check>
+          <input type="checkbox" id="c4" />
+          <label for="c4">Brak backupu biblioteki przy pracy dyplomowej.</label>
+        </div>
+        <div class="check" data-check>
+          <input type="checkbox" id="c5" />
+          <label for="c5">Brak finalnej recznej kontroli bibliografii.</label>
+        </div>
+      </article>
+    </section>
+  </main>
+
+  <script>
+    const sections = [
+      { id: "start", label: "Start" },
+      { id: "biblioteka", label: "Biblioteka" },
+      { id: "cytowanie", label: "Cytowanie" },
+      { id: "wspolpraca", label: "Wspolpraca" },
+      { id: "bledy", label: "Bledy" }
+    ];
+
+    const nav = document.getElementById("nav");
+    sections.forEach((s) => {
+      const btn = document.createElement("button");
+      btn.textContent = s.label;
+      btn.addEventListener("click", () => {
+        const target = document.querySelector('[data-section="' + s.id + '"]');
+        if (target) {
+          target.scrollIntoView({ behavior: "smooth", block: "start" });
+          document.querySelectorAll("nav button").forEach((b) => b.classList.remove("active"));
+          btn.classList.add("active");
+        }
+      });
+      nav.appendChild(btn);
+    });
+
+    const checks = Array.from(document.querySelectorAll('[data-check] input[type="checkbox"]'));
+    const badge = document.getElementById("progressBadge");
+
+    function updateProgress() {
+      const done = checks.filter((c) => c.checked).length;
+      badge.textContent = "Postep: " + done + " / " + checks.length;
+      checks.forEach((c) => {
+        c.closest("[data-check]").classList.toggle("done", c.checked);
+      });
+    }
+
+    checks.forEach((c) => c.addEventListener("change", updateProgress));
+    updateProgress();
+  </script>
+</body>
 </html>

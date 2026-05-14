@@ -3,7 +3,694 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>work in progress</title>
+  <title>Mendeley dla studentów neuropsychologii klinicznej</title>
+  <style>
+    :root {
+      --bg: #f7f4ef;
+      --paper: #ffffff;
+      --ink: #1d1d1f;
+      --muted: #666b73;
+      --line: #e4ddd2;
+      --accent: #0f766e;
+      --accent-2: #f59e0b;
+      --soft: #e8f5f3;
+      --soft-2: #fff3d9;
+      --danger: #fff0f0;
+      --shadow: 0 18px 45px rgba(28, 24, 18, 0.10);
+      --radius: 22px;
+    }
 
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: Inter, Segoe UI, Roboto, Arial, sans-serif;
+      background:
+        radial-gradient(circle at 10% 5%, rgba(15,118,110,0.14), transparent 28%),
+        radial-gradient(circle at 95% 15%, rgba(245,158,11,0.18), transparent 28%),
+        linear-gradient(180deg, #fbf8f2 0%, var(--bg) 50%, #f0ede8 100%);
+      color: var(--ink);
+      line-height: 1.65;
+    }
+
+    header {
+      max-width: 1180px;
+      margin: 0 auto;
+      padding: 58px 24px 30px;
+      display: grid;
+      grid-template-columns: 1.2fr 0.8fr;
+      gap: 28px;
+      align-items: center;
+    }
+
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      color: var(--accent);
+      background: var(--soft);
+      border: 1px solid rgba(15,118,110,0.18);
+      border-radius: 999px;
+      padding: 8px 13px;
+      font-weight: 700;
+      font-size: 0.9rem;
+      margin-bottom: 18px;
+    }
+
+    h1 {
+      margin: 0 0 20px;
+      font-size: clamp(2.3rem, 5vw, 4.8rem);
+      line-height: 1.02;
+      letter-spacing: -0.05em;
+    }
+
+    .lead {
+      font-size: clamp(1.08rem, 2vw, 1.32rem);
+      color: #3b3f45;
+      max-width: 720px;
+      margin: 0;
+    }
+
+    .hero-card {
+      background: rgba(255,255,255,0.78);
+      border: 1px solid var(--line);
+      box-shadow: var(--shadow);
+      border-radius: 32px;
+      padding: 26px;
+      backdrop-filter: blur(14px);
+    }
+
+    .hero-diagram {
+      display: grid;
+      gap: 14px;
+    }
+
+    .diagram-row {
+      display: grid;
+      grid-template-columns: 50px 1fr;
+      gap: 14px;
+      align-items: center;
+      background: #fff;
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 14px;
+    }
+
+    .icon {
+      width: 50px;
+      height: 50px;
+      border-radius: 16px;
+      display: grid;
+      place-items: center;
+      background: var(--soft);
+      font-size: 1.35rem;
+    }
+
+    .diagram-row:nth-child(2) .icon { background: var(--soft-2); }
+    .diagram-row:nth-child(3) .icon { background: #eef2ff; }
+
+    .diagram-row strong { display: block; font-size: 1rem; }
+    .diagram-row span { color: var(--muted); font-size: 0.92rem; }
+
+    main {
+      max-width: 1180px;
+      margin: 0 auto;
+      padding: 18px 24px 80px;
+    }
+
+    nav {
+      position: sticky;
+      top: 0;
+      z-index: 4;
+      background: rgba(247,244,239,0.86);
+      backdrop-filter: blur(12px);
+      border: 1px solid var(--line);
+      border-radius: 20px;
+      padding: 10px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin: 10px 0 30px;
+    }
+
+    nav a {
+      text-decoration: none;
+      color: #2b3035;
+      padding: 10px 13px;
+      border-radius: 14px;
+      font-weight: 700;
+      font-size: 0.92rem;
+    }
+
+    nav a:hover { background: #fff; color: var(--accent); }
+
+    section { margin: 34px 0; }
+
+    .card {
+      background: var(--paper);
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      box-shadow: 0 12px 34px rgba(28, 24, 18, 0.06);
+      padding: clamp(22px, 3vw, 34px);
+    }
+
+    h2 {
+      font-size: clamp(1.55rem, 3vw, 2.4rem);
+      line-height: 1.15;
+      letter-spacing: -0.03em;
+      margin: 0 0 14px;
+    }
+
+    h3 {
+      font-size: 1.18rem;
+      margin: 0 0 8px;
+    }
+
+    p { margin: 0 0 14px; }
+
+    .muted { color: var(--muted); }
+
+    .grid-2, .grid-3 {
+      display: grid;
+      gap: 18px;
+      margin-top: 20px;
+    }
+
+    .grid-2 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .grid-3 { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+
+    .mini {
+      background: #fbfaf8;
+      border: 1px solid var(--line);
+      border-radius: 20px;
+      padding: 20px;
+    }
+
+    .mini .number {
+      display: inline-grid;
+      place-items: center;
+      width: 34px;
+      height: 34px;
+      border-radius: 12px;
+      background: var(--accent);
+      color: #fff;
+      font-weight: 800;
+      margin-bottom: 12px;
+    }
+
+    .highlight {
+      background: linear-gradient(135deg, var(--soft), #ffffff 80%);
+      border-left: 6px solid var(--accent);
+    }
+
+    .warning {
+      background: var(--danger);
+      border-left: 6px solid #ef4444;
+    }
+
+    .example-box {
+      background: #111827;
+      color: #f8fafc;
+      border-radius: 22px;
+      padding: 24px;
+      margin-top: 18px;
+    }
+
+    .example-box .label {
+      color: #93c5fd;
+      font-weight: 800;
+      letter-spacing: 0.03em;
+      text-transform: uppercase;
+      font-size: 0.78rem;
+      margin-bottom: 8px;
+    }
+
+    .flow {
+      display: grid;
+      gap: 12px;
+      margin-top: 20px;
+    }
+
+    .flow-step {
+      display: grid;
+      grid-template-columns: 44px 1fr;
+      gap: 14px;
+      align-items: start;
+      background: #fff;
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 16px;
+    }
+
+    .flow-step .dot {
+      width: 44px;
+      height: 44px;
+      border-radius: 15px;
+      background: var(--soft-2);
+      color: #92400e;
+      font-weight: 900;
+      display: grid;
+      place-items: center;
+    }
+
+    .checklist {
+      list-style: none;
+      padding: 0;
+      margin: 18px 0 0;
+      display: grid;
+      gap: 12px;
+    }
+
+    .checklist li {
+      background: #fbfaf8;
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      padding: 14px 16px 14px 46px;
+      position: relative;
+    }
+
+    .checklist li::before {
+      content: "✓";
+      position: absolute;
+      left: 16px;
+      top: 14px;
+      color: var(--accent);
+      font-weight: 900;
+    }
+
+    .progress-card {
+      background: linear-gradient(135deg, #f3faf9, #ffffff 78%);
+    }
+
+    .progress-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      border-radius: 999px;
+      background: var(--accent);
+      color: #fff;
+      padding: 10px 14px;
+      font-weight: 800;
+      margin: 8px 0 18px;
+    }
+
+    .task-grid {
+      display: grid;
+      gap: 12px;
+      margin-top: 18px;
+    }
+
+    .task-check {
+      display: grid;
+      grid-template-columns: 24px 1fr;
+      gap: 14px;
+      align-items: start;
+      background: #fff;
+      border: 1px dashed var(--line);
+      border-radius: 16px;
+      padding: 14px 16px;
+    }
+
+    .task-check.done {
+      background: #edf7f0;
+      border-style: solid;
+      border-color: rgba(42,122,75,0.4);
+    }
+
+    .task-check input {
+      margin-top: 3px;
+      width: 18px;
+      height: 18px;
+      accent-color: var(--accent);
+    }
+
+    .task-check strong {
+      display: block;
+      margin-bottom: 4px;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 18px;
+      overflow: hidden;
+      border-radius: 18px;
+      border: 1px solid var(--line);
+    }
+
+    th, td {
+      text-align: left;
+      padding: 14px;
+      border-bottom: 1px solid var(--line);
+      vertical-align: top;
+    }
+
+    th { background: #f2f6f5; }
+    tr:last-child td { border-bottom: none; }
+
+    .button-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 20px;
+    }
+
+    .button {
+      border: 0;
+      border-radius: 14px;
+      padding: 12px 16px;
+      font-weight: 800;
+      cursor: pointer;
+      background: var(--accent);
+      color: #fff;
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .button.secondary { background: #1f2937; }
+
+    .accordion { margin-top: 18px; display: grid; gap: 10px; }
+
+    details {
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      background: #fff;
+      padding: 14px 16px;
+    }
+
+    summary {
+      cursor: pointer;
+      font-weight: 800;
+    }
+
+    details p { margin-top: 12px; }
+
+    footer {
+      max-width: 1180px;
+      margin: 0 auto 40px;
+      padding: 0 24px;
+      color: var(--muted);
+      font-size: 0.92rem;
+    }
+
+    .print-only { display: none; }
+
+    @media (max-width: 850px) {
+      header { grid-template-columns: 1fr; padding-top: 36px; }
+      .grid-2, .grid-3 { grid-template-columns: 1fr; }
+      nav { position: static; }
+      th, td { display: block; width: 100%; }
+      th { display: none; }
+      td { border-bottom: none; padding: 10px 14px; }
+      tr { display: block; border-bottom: 1px solid var(--line); padding: 10px 0; }
+    }
+
+    @media print {
+      nav, .button-row { display: none; }
+      body { background: #fff; }
+      .card, .hero-card, .mini { box-shadow: none; }
+      .print-only { display: block; }
+    }
+  </style>
 </head>
+<body>
+  <header>
+    <div>
+      <div class="eyebrow">Neuropsychologia kliniczna · proste wprowadzenie</div>
+      <h1>Mendeley: porządek w literaturze naukowej</h1>
+      <p class="lead">Ta strona wyjaśnia prostym językiem, czym jest Mendeley.com i jak używać go na studiach, gdy trzeba zbierać artykuły, książki, pliki PDF, notatki i materiały do wspólnej pracy w grupie.</p>
+      <div class="button-row">
+        <a class="button" href="#instrukcja">Przejdź do instrukcji</a>
+        <button class="button secondary" onclick="window.print()">Drukuj / zapisz jako PDF</button>
+      </div>
+    </div>
+    <aside class="hero-card" aria-label="Schemat działania Mendeley">
+      <div class="hero-diagram">
+        <div class="diagram-row"><div class="icon">📄</div><div><strong>Zbierasz materiały</strong><span>artykuły, rozdziały, raporty, notatki, pliki PDF</span></div></div>
+        <div class="diagram-row"><div class="icon">🗂️</div><div><strong>Porządkujesz je</strong><span>kolekcje, tagi, autorzy, tematy, rok publikacji</span></div></div>
+        <div class="diagram-row"><div class="icon">👥</div><div><strong>Pracujesz z grupą</strong><span>wspólna biblioteka dla zespołu, seminarium lub projektu</span></div></div>
+      </div>
+    </aside>
+  </header>
+
+  <main>
+    <nav aria-label="Spis treści">
+      <a href="#co-to-jest">Co to jest?</a>
+      <a href="#po-co">Po co studentom?</a>
+      <a href="#funkcje">Najważniejsze funkcje</a>
+      <a href="#neuro">Przykład z neuropsychologii</a>
+      <a href="#grupa">Praca grupowa</a>
+      <a href="#instrukcja">Instrukcja krok po kroku</a>
+      <a href="#rutyna">Codzienna rutyna</a>
+      <a href="#praktyka">Dodatkowe wskazówki</a>
+      <a href="#bledy">Typowe błędy</a>
+      <a href="#plan">Plan wdrożenia</a>
+    </nav>
+
+    <section id="co-to-jest" class="card highlight">
+      <h2>1. Co to jest Mendeley?</h2>
+      <p><strong>Mendeley</strong> to internetowy i komputerowy organizer literatury naukowej. Można go porównać do uporządkowanej szafki na artykuły naukowe, ale takiej, która działa na komputerze i w internecie.</p>
+      <p>W Mendeley można trzymać opisy publikacji, pliki PDF, własne notatki, zakreślenia i listy literatury. Narzędzie pomaga też wstawiać cytowania do pracy pisemnej, a na końcu automatycznie tworzyć bibliografię.</p>
+      <p class="muted">Mendeley nie zastępuje myślenia, czytania ani oceny jakości źródeł. Pomaga natomiast nie zgubić materiałów i szybciej wrócić do tego, co już zostało znalezione.</p>
+    </section>
+
+    <section id="po-co" class="card">
+      <h2>2. Po co studentom psychologii taki serwis?</h2>
+      <p>Na neuropsychologii klinicznej często pracuje się z wieloma źródłami naraz: artykułami o funkcjach wykonawczych, afazji, pamięci, uwadze, diagnozie neuropsychologicznej, rehabilitacji poznawczej albo metodach badania pacjentów po uszkodzeniach mózgu.</p>
+      <p>Bez jednego miejsca na literaturę szybko powstaje chaos: pliki są w różnych folderach, linki giną w wiadomościach, a grupa nie wie, kto ma najnowszą wersję artykułu. Mendeley ma rozwiązać właśnie ten problem.</p>
+      <div class="grid-3">
+        <div class="mini"><h3>Mniej chaosu</h3><p>Materiały są w jednej bibliotece, a nie w dziesięciu przypadkowych folderach.</p></div>
+        <div class="mini"><h3>Łatwiejsza nauka</h3><p>Można szybko wrócić do tekstu, zakreśleń i notatek przed kolokwium albo seminarium.</p></div>
+        <div class="mini"><h3>Wspólna praca</h3><p>Grupa może mieć wspólne miejsce na literaturę do projektu, prezentacji lub pracy zaliczeniowej.</p></div>
+      </div>
+    </section>
+
+    <section id="funkcje" class="card">
+      <h2>3. Najważniejsze funkcje Mendeley prostym językiem</h2>
+      <div class="grid-2">
+        <div class="mini"><span class="number">1</span><h3>Biblioteka</h3><p>To główne miejsce, w którym są zapisane publikacje. Każda pozycja ma tytuł, autorów, rok, czasopismo i inne dane.</p></div>
+        <div class="mini"><span class="number">2</span><h3>Pliki PDF</h3><p>Do wielu pozycji można dodać pełny plik artykułu. Dzięki temu opis publikacji i sam tekst są razem.</p></div>
+        <div class="mini"><span class="number">3</span><h3>Kolekcje</h3><p>Kolekcje działają jak foldery tematyczne, np. „Afazja”, „Uwaga”, „Pamięć robocza”, „Diagnoza neuropsychologiczna”.</p></div>
+        <div class="mini"><span class="number">4</span><h3>Tagi</h3><p>Tagi to krótkie etykiety. Ten sam artykuł może mieć kilka tagów, np. „przegląd”, „fMRI”, „dzieci”, „udar”.</p></div>
+        <div class="mini"><span class="number">5</span><h3>Notatki i zakreślenia</h3><p>Podczas czytania PDF można zaznaczać ważne fragmenty i dopisywać własne komentarze.</p></div>
+        <div class="mini"><span class="number">6</span><h3>Cytowania w Wordzie</h3><p>Dodatek Mendeley Cite pomaga wstawiać cytowania do tekstu i tworzyć bibliografię w wybranym stylu.</p></div>
+      </div>
+    </section>
+
+    <section id="neuro" class="card">
+      <h2>4. Przykład: literatura do zajęć z neuropsychologii klinicznej</h2>
+      <p>Wyobraźmy sobie, że grupa przygotowuje prezentację o pacjencie po udarze lewej półkuli i chce zebrać literaturę o afazji, pamięci roboczej i funkcjonowaniu wykonawczym.</p>
+      <div class="example-box">
+        <div class="label">Przykładowy porządek w bibliotece</div>
+        <p><strong>Kolekcja:</strong> Afazja po udarze</p>
+        <p><strong>Tagi:</strong> afazja, udar, diagnoza, rehabilitacja, język, funkcje wykonawcze</p>
+        <p><strong>Notatka do artykułu:</strong> „Tekst przydatny do części o różnicowaniu afazji Broki i Wernickego. Sprawdzić tabelę z objawami klinicznymi”.</p>
+      </div>
+      <p style="margin-top:18px;">Dzięki temu po kilku tygodniach nie trzeba pamiętać, gdzie był zapisany artykuł. Wystarczy wejść do kolekcji albo wpisać tag.</p>
+    </section>
+
+    <section id="grupa" class="card">
+      <h2>5. Mendeley jako wspólna biblioteka grupy</h2>
+      <p>Dla studentów najważniejsza może być praca zespołowa. Mendeley pozwala tworzyć grupy, czyli wspólne biblioteki. Do takiej grupy można dodawać osoby z zespołu projektowego, seminarium albo koła naukowego.</p>
+      <table>
+        <thead><tr><th>Sytuacja</th><th>Jak pomaga Mendeley?</th></tr></thead>
+        <tbody>
+          <tr><td>Jedna osoba znalazła dobry artykuł.</td><td>Dodaje go do wspólnej grupy. Reszta zespołu widzi tę pozycję.</td></tr>
+          <tr><td>Ktoś nie wie, które źródła są najważniejsze.</td><td>Grupa może ustalić tag „obowiązkowe” albo „do prezentacji”.</td></tr>
+          <tr><td>Materiały dotyczą różnych tematów.</td><td>Można utworzyć kolekcje, np. „Diagnoza”, „Objawy”, „Rehabilitacja”, „Studia przypadków”.</td></tr>
+          <tr><td>Trzeba napisać pracę zaliczeniową.</td><td>Źródła z biblioteki można cytować w Wordzie za pomocą dodatku Mendeley Cite.</td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section class="card warning">
+      <h2>6. Ważne ograniczenie</h2>
+      <p>Mendeley pomaga przechowywać i porządkować literaturę, ale nie gwarantuje, że każde źródło jest dobre. Student nadal powinien sprawdzić, czy tekst jest naukowy, aktualny, recenzowany i rzeczywiście pasuje do tematu.</p>
+      <p>W neuropsychologii klinicznej ma to szczególne znaczenie, ponieważ nie każda publikacja nadaje się do uzasadniania diagnozy, terapii albo interpretacji objawów pacjenta.</p>
+    </section>
+
+    <section id="instrukcja" class="card">
+      <h2>7. Jak zacząć używać Mendeley? Instrukcja krok po kroku</h2>
+      <div class="flow">
+        <div class="flow-step"><div class="dot">1</div><div><h3>Załóż konto</h3><p>Wejdź na stronę Mendeley.com i utwórz konto. Najlepiej użyj adresu e-mail, z którego korzystasz na studiach.</p></div></div>
+        <div class="flow-step"><div class="dot">2</div><div><h3>Zainstaluj Mendeley Reference Manager</h3><p>To program na komputer. Służy do przechowywania biblioteki, czytania PDF, robienia notatek i porządkowania materiałów.</p></div></div>
+        <div class="flow-step"><div class="dot">3</div><div><h3>Zainstaluj Mendeley Web Importer</h3><p>To dodatek do przeglądarki. Gdy znajdziesz artykuł w internecie, możesz dodać jego opis do biblioteki kilkoma kliknięciami.</p></div></div>
+        <div class="flow-step"><div class="dot">4</div><div><h3>Zainstaluj Mendeley Cite do Worda</h3><p>To dodatek, który pozwala wstawiać cytowania w tekście i automatycznie tworzyć bibliografię.</p></div></div>
+        <div class="flow-step"><div class="dot">5</div><div><h3>Utwórz pierwsze kolekcje</h3><p>Nie wrzucaj wszystkiego do jednego miejsca. Utwórz proste kategorie, np. „Diagnoza”, „Pamięć”, „Uwaga”, „Afazja”, „Rehabilitacja”.</p></div></div>
+        <div class="flow-step"><div class="dot">6</div><div><h3>Dodaj pierwszy artykuł</h3><p>Możesz przeciągnąć plik PDF do programu albo dodać publikację przez Web Importer. Potem sprawdź, czy tytuł, autorzy i rok są wpisane poprawnie.</p></div></div>
+        <div class="flow-step"><div class="dot">7</div><div><h3>Dodaj tagi i krótką notatkę</h3><p>Przykład: „afazja”, „udar”, „diagnoza”, „przegląd”. W notatce zapisz jednym zdaniem, do czego tekst może się przydać.</p></div></div>
+        <div class="flow-step"><div class="dot">8</div><div><h3>Utwórz grupę dla zespołu</h3><p>Jeżeli pracujecie wspólnie, załóż grupę i zaproś osoby z zespołu. Ustalcie jedną zasadę nazewnictwa kolekcji i tagów.</p></div></div>
+      </div>
+    </section>
+
+    <section id="rutyna" class="card">
+      <h2>8. Codzienne używanie Mendeley na studiach</h2>
+      <p>Największy pożytek z Mendeley pojawia się wtedy, gdy używa się go regularnie, ale krótko. Nie trzeba spędzać wielu godzin na porządkowaniu. Wystarczy konsekwentna rutyna.</p>
+      <ul class="checklist">
+        <li><strong>Po znalezieniu artykułu:</strong> od razu dodaj go do Mendeley, zamiast zostawiać link w przeglądarce.</li>
+        <li><strong>Po dodaniu artykułu:</strong> sprawdź podstawowe dane: autorów, tytuł, rok, nazwę czasopisma i DOI, jeżeli jest dostępny.</li>
+        <li><strong>Przed czytaniem:</strong> przypisz tekst do kolekcji, np. „Zaburzenia pamięci” albo „Diagnoza funkcji wykonawczych”.</li>
+        <li><strong>Podczas czytania:</strong> zaznacz tylko najważniejsze fragmenty. Nie zakreślaj całych stron.</li>
+        <li><strong>Po czytaniu:</strong> dopisz 2–3 zdania własnej notatki: czego dotyczy tekst, co jest ważne i do czego może się przydać.</li>
+        <li><strong>Przed zajęciami:</strong> otwórz kolekcję z danego tematu i przejrzyj tylko zaznaczenia oraz własne notatki.</li>
+        <li><strong>Przy pracy grupowej:</strong> dodawaj materiały do wspólnej grupy, a nie tylko do prywatnej biblioteki.</li>
+        <li><strong>Przy pisaniu pracy:</strong> użyj Mendeley Cite w Wordzie, żeby wstawiać cytowania i wygenerować bibliografię.</li>
+      </ul>
+    </section>
+
+    <section class="card">
+      <h2>9. Prosty system nazw dla grupy studentów</h2>
+      <p>Żeby wspólna biblioteka była czytelna, grupa powinna od początku ustalić kilka prostych zasad.</p>
+      <div class="grid-2">
+        <div class="mini"><h3>Kolekcje według tematów</h3><p>Na przykład: „Afazja”, „Pamięć”, „Uwaga”, „Funkcje wykonawcze”, „Neuroobrazowanie”, „Rehabilitacja”.</p></div>
+        <div class="mini"><h3>Tagi według zastosowania</h3><p>Na przykład: „do prezentacji”, „do kolokwium”, „przegląd”, „badanie empiryczne”, „studium przypadku”.</p></div>
+        <div class="mini"><h3>Notatka zawsze po polsku</h3><p>Jedno lub dwa zdania prostym językiem: „Ten tekst wyjaśnia różnicę między pamięcią epizodyczną a semantyczną”.</p></div>
+        <div class="mini"><h3>Jedna osoba pilnuje porządku</h3><p>W projekcie grupowym warto wyznaczyć osobę, która raz w tygodniu sprawdza nazwy, duplikaty i brakujące dane.</p></div>
+      </div>
+    </section>
+
+    <section id="praktyka" class="card">
+      <h2>10. Dodatkowe wskazówki praktyczne z codziennej pracy</h2>
+      <p>Poza samym zbieraniem publikacji warto wypracować kilka prostych nawyków. To one najczęściej decydują o tym, czy biblioteka Mendeley rzeczywiście pomaga w nauce, czy tylko staje się kolejnym miejscem pełnym nieuporządkowanych plików.</p>
+      <div class="grid-2">
+        <div class="mini">
+          <h3>Start i konfiguracja</h3>
+          <p>Na początku dobrze ustawić styl cytowań używany najczęściej na zajęciach lub seminarium, na przykład APA 7 albo Vancouver. Dzięki temu od razu wiadomo, jak będą wyglądały przypisy i bibliografia w pracach zaliczeniowych.</p>
+          <p class="muted">Warto też upewnić się, że biblioteka synchronizuje się z kontem, aby nie stracić materiałów przy zmianie komputera.</p>
+        </div>
+        <div class="mini">
+          <h3>Organizacja biblioteki</h3>
+          <p>Najlepiej tworzyć kolekcje tematyczne i jednocześnie używać tagów. Kolekcja może odpowiadać większemu obszarowi, np. „Diagnoza” albo „Rehabilitacja”, a tagi mogą doprecyzowywać treść, np. „przegląd”, „dzieci”, „udar”, „funkcje wykonawcze”.</p>
+          <p class="muted">To szczególnie przydatne wtedy, gdy ten sam artykuł pasuje do kilku tematów jednocześnie.</p>
+        </div>
+        <div class="mini">
+          <h3>Cytowanie i bibliografia</h3>
+          <p>Mendeley Cite przyspiesza pisanie, ale nie zwalnia z końcowej kontroli. Po wygenerowaniu bibliografii trzeba sprawdzić, czy dane są pełne, czy nazwiska autorów zapisano poprawnie i czy format pozycji odpowiada wymaganiom prowadzącego.</p>
+          <p class="muted">Automatyczne narzędzia oszczędzają czas, ale błędnie pobrane metadane potrafią przenieść ten sam błąd do całej pracy.</p>
+        </div>
+        <div class="mini">
+          <h3>Współpraca zespołowa</h3>
+          <p>W pracy grupowej dobrze od razu ustalić, kto dodaje nowe teksty, kto sprawdza duplikaty, a kto pilnuje opisów i tagów. Dzięki temu wspólna biblioteka nie zmienia się w zbiór przypadkowych plików o różnym poziomie jakości.</p>
+          <p class="muted">Najprostsza zasada brzmi: każda dodana publikacja powinna mieć poprawny opis i krótką notatkę, do czego może się przydać.</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="bledy" class="card warning">
+      <h2>11. Typowe błędy w pracy z Mendeley i jak ich unikać</h2>
+      <p>Najczęstsze trudności nie wynikają z samego programu, lecz z braku prostych zasad porządkowania. Poniższa lista dobrze pokazuje, na co trzeba uważać już od pierwszych tygodni pracy z literaturą.</p>
+      <ul class="checklist">
+        <li><strong>Brak kontroli duplikatów:</strong> ten sam artykuł potrafi zostać zapisany kilka razy, jeśli grupa dodaje materiały równolegle z różnych komputerów.</li>
+        <li><strong>Zbyt duże zaufanie do automatycznego importu:</strong> po dodaniu publikacji zawsze warto sprawdzić autorów, rok, tytuł, DOI i nazwę czasopisma.</li>
+        <li><strong>Mieszanie stylów cytowania:</strong> jeśli część pracy jest przygotowana w jednym stylu, a część w innym, końcowa bibliografia staje się niespójna i wymaga czasochłonnej poprawy.</li>
+        <li><strong>Brak kopii bezpieczeństwa:</strong> przy pracy dyplomowej albo projekcie zespołowym warto regularnie synchronizować bibliotekę i pilnować, by ważne pliki PDF nie istniały tylko lokalnie.</li>
+        <li><strong>Brak końcowej kontroli bibliografii:</strong> nawet poprawnie działający dodatek do Worda nie zastąpi ostatniego, ręcznego przeglądu całej listy źródeł.</li>
+      </ul>
+      <p style="margin-top:18px;">W praktyce najlepszą ochroną przed tymi problemami jest krótka rutyna: po dodaniu tekstu sprawdzić dane, przypisać kolekcję, dodać 2–3 tagi i zapisać krótką notatkę własnymi słowami.</p>
+    </section>
+
+    <section id="plan" class="card progress-card">
+      <h2>12. Krótki plan wdrożenia Mendeley na studiach</h2>
+      <p>Jeśli dopiero zaczynasz, nie musisz od razu budować idealnej biblioteki. Lepiej wdrożyć pięć prostych kroków i sprawdzać postęp na bieżąco. Ten fragment przenosi do p4 najbardziej praktyczny element z p3: małą checklistę startową.</p>
+      <div class="progress-badge" id="progressBadge">Postęp: 0 / 5</div>
+      <div class="task-grid">
+        <label class="task-check" data-check>
+          <input type="checkbox" />
+          <span>
+            <strong>Zainstaluj i skonfiguruj narzędzia</strong>
+            Załóż konto, uruchom Mendeley Reference Manager i ustaw podstawowy styl cytowania wymagany na zajęciach.
+          </span>
+        </label>
+        <label class="task-check" data-check>
+          <input type="checkbox" />
+          <span>
+            <strong>Utwórz pierwsze kolekcje tematyczne</strong>
+            Zacznij od prostych działów, takich jak diagnoza, pamięć, uwaga, afazja albo rehabilitacja, zamiast wrzucać wszystko do jednego miejsca.
+          </span>
+        </label>
+        <label class="task-check" data-check>
+          <input type="checkbox" />
+          <span>
+            <strong>Sprawdź dane po imporcie pierwszych publikacji</strong>
+            Po dodaniu artykułu popraw autorów, rok, tytuł, DOI i nazwę czasopisma, jeśli automatyczny import popełnił błąd.
+          </span>
+        </label>
+        <label class="task-check" data-check>
+          <input type="checkbox" />
+          <span>
+            <strong>Dodaj tagi i krótką notatkę</strong>
+            Zapisz własnymi słowami, do czego tekst się przyda, na przykład do prezentacji, kolokwium albo części teoretycznej pracy.
+          </span>
+        </label>
+        <label class="task-check" data-check>
+          <input type="checkbox" />
+          <span>
+            <strong>Ustal zasady pracy grupowej</strong>
+            Jeśli korzystacie ze wspólnej biblioteki, od razu uzgodnijcie nazwy kolekcji, zakres tagów i sposób kontroli duplikatów.
+          </span>
+        </label>
+      </div>
+    </section>
+
+    <section class="card">
+      <h2>13. Najczęstsze pytania</h2>
+      <div class="accordion">
+        <details><summary>Czy Mendeley sam czyta artykuły za studenta?</summary><p>Nie. Mendeley pomaga przechowywać, porządkować i cytować materiały. Treść nadal trzeba przeczytać, zrozumieć i krytycznie ocenić.</p></details>
+        <details><summary>Czy mogę używać Mendeley tylko do plików PDF?</summary><p>Tak, ale najlepiej przechowywać razem plik PDF i pełny opis bibliograficzny. Dzięki temu łatwiej później cytować źródło.</p></details>
+        <details><summary>Czy grupa widzi moje prywatne materiały?</summary><p>Nie automatycznie. Materiał staje się wspólny dopiero wtedy, gdy dodasz go do grupy albo wspólnej biblioteki.</p></details>
+        <details><summary>Czy warto tagować każdy artykuł?</summary><p>Tak, ale prosto. Lepiej użyć 3–5 sensownych tagów niż tworzyć długą listę etykiet, których nikt potem nie używa.</p></details>
+        <details><summary>Czy Mendeley wystarczy do pracy naukowej?</summary><p>To dobre narzędzie organizacyjne. Do pracy naukowej potrzebne są też bazy danych, umiejętność oceny publikacji, znajomość metodologii i krytyczne myślenie.</p></details>
+      </div>
+    </section>
+
+    <section class="card highlight">
+      <h2>Podsumowanie</h2>
+      <p>Mendeley to narzędzie do porządkowania literatury naukowej. Dla studentów neuropsychologii klinicznej może być szczególnie przydatne, ponieważ pozwala gromadzić artykuły o pacjentach, funkcjach poznawczych, diagnozie i rehabilitacji w jednym miejscu.</p>
+      <p>Najprostsza zasada brzmi: każdy ważny artykuł dodaj od razu do Mendeley, przypisz do kolekcji, oznacz tagami i zapisz krótką notatkę własnymi słowami. Dzięki temu literatura nie znika, a praca indywidualna i grupowa staje się bardziej uporządkowana.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>Materiał na prośbę Ilony</p>
+  </footer>
+
+  <script>
+    document.querySelectorAll('nav a').forEach(link => {
+      link.addEventListener('click', event => {
+        const target = document.querySelector(link.getAttribute('href'));
+        if (target) {
+          event.preventDefault();
+          target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+      });
+    });
+
+    const taskChecks = Array.from(document.querySelectorAll('[data-check] input[type="checkbox"]'));
+    const progressBadge = document.getElementById('progressBadge');
+
+    function updateProgress() {
+      if (!progressBadge) {
+        return;
+      }
+
+      const completed = taskChecks.filter(check => check.checked).length;
+      progressBadge.textContent = `Postęp: ${completed} / ${taskChecks.length}`;
+
+      taskChecks.forEach(check => {
+        const row = check.closest('[data-check]');
+        if (row) {
+          row.classList.toggle('done', check.checked);
+        }
+      });
+    }
+
+    taskChecks.forEach(check => {
+      check.addEventListener('change', updateProgress);
+    });
+
+    updateProgress();
+  </script>
+</body>
 </html>

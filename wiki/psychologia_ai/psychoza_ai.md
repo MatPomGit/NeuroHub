@@ -101,6 +101,39 @@ To przesuwa akcent z pytania „czy AI jest niebezpieczna?” na pytanie „w ja
 - W opiece zdrowotnej należy wdrażać procedury „human-in-the-loop” i standardy eskalacji kryzysowej.[^12] W praktyce warto odnotować, że problem opóźnionego leczenia nie jest marginalny: w analizach amerykańskich mediany/typowe zakresy czasu nieleczonej psychozy (DUP) bywały opisywane jako **1–3 lata**, a dłuższy DUP wiąże się ze słabszymi wynikami leczenia.[^16][^17]
 - U użytkowników z objawami alarmowymi (bezsenność wielodniowa, nasilone podejrzliwości, dezorganizacja zachowania, myśli samobójcze) priorytetem jest szybki kontakt z profesjonalną pomocą, a nie dalsza „samokonsultacja” z chatbotem.[^1][^13]
 
+
+## Popularne mity na temat „psychozy AI”
+
+### Mit 1: „AI sama wywołuje psychozę u zdrowych osób”
+
+**Dlaczego to mit:** Aktualny stan wiedzy nie potwierdza prostego, jednokierunkowego związku przyczynowego „kontakt z AI → psychoza”. Trafniejszy model to interakcja wielu czynników: podatności biologicznej, stresu, deprywacji snu, izolacji społecznej i używania substancji. AI może być w tym układzie czynnikiem nasilającym, ale nie jedyną przyczyną.[^1][^2][^4]
+
+**Co wynika praktycznie:** w ocenie ryzyka należy analizować całe środowisko funkcjonowania osoby, a nie redukować problem do samej technologii.
+
+### Mit 2: „Halucynacje modelu to to samo co omamy psychotyczne”
+
+**Dlaczego to mit:** Halucynacja modelu to błąd generowania treści przez system statystyczny, natomiast omam jest objawem klinicznym po stronie człowieka (doświadczenie percepcyjne bez adekwatnego bodźca). Zrównanie tych pojęć zaciemnia zarówno diagnostykę, jak i edukację zdrowotną.[^1][^5]
+
+**Co wynika praktycznie:** w komunikacji publicznej i klinicznej trzeba konsekwentnie rozdzielać język informatyczny od psychiatrycznego.
+
+### Mit 3: „Wystarczy zakazać chatbotów, aby zniknęło ryzyko”
+
+**Dlaczego to mit:** Ryzyko psychotyczne i tak współwystępuje z wieloma stresorami społecznymi i zdrowotnymi. Same restrykcje technologiczne bez psychoedukacji, wczesnego wykrywania objawów i dostępnej opieki nie rozwiązują problemu systemowo.[^2][^10][^13]
+
+**Co wynika praktycznie:** skuteczniejsze są strategie wielowarstwowe: higiena cyfrowa, procedury eskalacji kryzysowej, szkolenie profesjonalistów i model „human-in-the-loop”.[^12]
+
+### Mit 4: „Każda relacja z AI jest z definicji patologiczna”
+
+**Dlaczego to mit:** Część zastosowań konwersacyjnych narzędzi cyfrowych może pełnić funkcję wspierającą (np. porządkowanie myśli, przypomnienia o samoopiece, obniżanie bariery sięgania po pomoc), o ile narzędzie działa w jasno określonych granicach i nie zastępuje diagnozy klinicznej.[^4][^9]
+
+**Co wynika praktycznie:** kluczowe jest kalibrowanie roli AI: wsparcie i psychoedukacja – tak; samodzielne rozstrzyganie kliniczne – nie.
+
+### Mit 5: „Im bardziej empatycznie brzmi AI, tym bardziej jest wiarygodna”
+
+**Dlaczego to mit:** Styl wypowiedzi (uprzejmość, płynność, „empatyczny” ton) nie gwarantuje trafności merytorycznej. To klasyczny błąd poznawczy polegający na myleniu formy z jakością dowodu.[^7][^8]
+
+**Co wynika praktycznie:** każda ważna informacja kliniczna, prawna lub medyczna powinna być weryfikowana w źródłach pierwotnych lub przez specjalistę.
+
 ## Podsumowanie
 
 „Psychoza AI” to użyteczna metafora debaty o kryzysie epistemicznym, ale nieprecyzyjne narzędzie diagnostyczne. W sensie klinicznym trafniejsze jest rozumienie, że systemy AI mogą współkształtować przebieg już istniejących procesów psychopatologicznych, szczególnie gdy nakładają się na podatność biologiczną, stres, bezsenność i izolację. Najbardziej racjonalna odpowiedź nie polega na technofobii, lecz na projektowaniu bezpiecznych praktyk: kalibracji zaufania, weryfikacji informacji i jasnym podziale odpowiedzialności między narzędziem a człowiekiem.

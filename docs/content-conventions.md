@@ -81,3 +81,25 @@ Skrypt `node tools/check_content.js` sprawdza dodatkowo:
 - jeśli w pliku istnieje sekcja `## Cytat badacza`,
 - to musi istnieć sekcja `## Bibliografia`,
 - oraz w bibliografii musi pojawić się wpis odpowiadający metadanym cytatu (kontrola autora i roku).
+
+## Standard językowy dla treści użytkownika końcowego
+
+Dla wszystkich treści widocznych dla użytkownika końcowego (artykuły, opisy, komunikaty interfejsu, śródtytuły, podpisy tekstowe) obowiązują następujące zasady:
+
+- stosuj poprawną polszczyznę (ortografia, interpunkcja, fleksja, składnia),
+- zachowuj zasady stylistyczne języka polskiego i unikaj nieuzasadnionych kalk językowych,
+- dbaj o spójny rejestr wypowiedzi w obrębie jednego materiału.
+
+### Wyjątki
+
+W przypadku elementów o charakterze technicznym lub skrótowym nie wymagamy pełnej redakcji stylistycznej ciągłego tekstu:
+
+- kod programu,
+- tabele,
+- rysunki.
+
+### Ograniczenie stosowania długiej pauzy „—”
+
+- ograniczaj użycie znaku „—” do sytuacji, w których jest on niezbędny dla precyzji lub czytelności zdania,
+- domyślnie preferuj inne poprawne środki interpunkcyjne (przecinek, nawias, dwukropek),
+- nie nadużywaj długiej pauzy jako uniwersalnego separatora myśli.

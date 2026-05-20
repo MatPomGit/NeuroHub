@@ -25,6 +25,11 @@ Ten dokument określa zasady pracy agenta AI, który tworzy lub modyfikuje treś
    - Poza ścisłymi definicjami dopuszczalny jest swobodniejszy styl, zwięzłe ciekawostki i analogie.
    - Preferowany ton narracji: „doświadczony profesor prowadzący wykład dla młodych studentów” - rzeczowy, życzliwy, obrazowy i inspirujący.
 
+5. **Język treści użytkowych i wyjątki techniczne**
+   - Wszystkie treści widoczne dla użytkownika końcowego (np. artykuły, opisy, komunikaty, nagłówki) pisz poprawną polszczyzną i zgodnie z zasadami stylistycznymi języka polskiego, wszędzie tam, gdzie używany jest język polski.
+   - Wyjątki od tej reguły: kod programu, tabele oraz rysunki — w tych elementach nie wymagamy pełnej redakcji stylistycznej ciągłego tekstu.
+   - Ograniczaj użycie długiej pauzy „—”. Preferuj inne poprawne rozwiązania interpunkcyjne (np. przecinek, nawias, dwukropek) i stosuj długą pauzę wyłącznie wtedy, gdy jest rzeczywiście niezbędna dla klarowności wypowiedzi.
+
 ## Struktura artykułów
 
 Każdy nowy lub aktualizowany artykuł powinien (o ile temat na to pozwala) zawierać:

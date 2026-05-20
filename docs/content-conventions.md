@@ -92,7 +92,7 @@ Dla wszystkich treści widocznych dla użytkownika końcowego (artykuły, opisy,
 
 ### Wyjątki
 
-Powyższe reguły nie dotyczą elementów, które z natury mają charakter techniczny lub skrótowy:
+W przypadku elementów o charakterze technicznym lub skrótowym nie wymagamy pełnej redakcji stylistycznej ciągłego tekstu:
 
 - kod programu,
 - tabele,

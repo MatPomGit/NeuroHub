@@ -658,6 +658,7 @@ window.SITE_CONFIG = {
       domainKey: 'psychologia_szkolna',
       items: [
         { id: 'psychologia_szkolna/wprowadzenie',                  label: 'Psych. szkolna',            file: 'wiki/psychologia_szkolna/wprowadzenie.md'                  },
+        { id: 'psychologia_szkolna/neurodydaktyka',                label: 'Neurodydaktyka',                           file: 'wiki/psychologia_szkolna/neurodydaktyka.md'                },
         { id: 'psychologia_szkolna/teorie_uczenia_sie',            label: 'Teorie uczenia sie',                       file: 'wiki/psychologia_szkolna/teorie_uczenia_sie.md'            },
         { id: 'psychologia_szkolna/strefa_najblizszego_rozwoju',   label: 'Strefa najblizszego rozwoju (ZPD)',        file: 'wiki/psychologia_szkolna/strefa_najblizszego_rozwoju.md'   },
         { id: 'psychologia_szkolna/motywacja_szkolna',             label: 'Motywacja szkolna',                        file: 'wiki/psychologia_szkolna/motywacja_szkolna.md'             },
@@ -1805,6 +1806,7 @@ window.SITE_CONFIG = {
     ],
     school_psychology: [
       { file: 'wiki/psychologia_szkolna/wprowadzenie.md',                 label: 'Psychologia szkolna',                       status: 'live' },
+      { file: 'wiki/psychologia_szkolna/neurodydaktyka.md',               label: 'Neurodydaktyka',                            status: 'live' },
       { file: 'wiki/psychologia_szkolna/teorie_uczenia_sie.md',           label: 'Teorie uczenia sie',                        status: 'live' },
       { file: 'wiki/psychologia_szkolna/strefa_najblizszego_rozwoju.md',  label: 'Strefa najblizszego rozwoju (ZPD)',         status: 'live' },
       { file: 'wiki/psychologia_szkolna/motywacja_szkolna.md',            label: 'Motywacja szkolna',                         status: 'live' },
@@ -3135,6 +3137,7 @@ window.SITE_CONFIG = {
           title: 'Podstawy i teorie',
           articles: [
             { label: 'Psychologia szkolna',  id: 'psychologia_szkolna/wprowadzenie',                status: 'live' },
+            { label: 'Neurodydaktyka',                    id: 'psychologia_szkolna/neurodydaktyka',            status: 'live' },
             { label: 'Teorie uczenia sie',                  id: 'psychologia_szkolna/teorie_uczenia_sie',          status: 'live' },
             { label: 'Strefa najblizszego rozwoju (ZPD)',   id: 'psychologia_szkolna/strefa_najblizszego_rozwoju', status: 'live' },
           ]
@@ -3685,7 +3688,6 @@ window.SITE_CONFIG = {
     });
   });
 })(window.SITE_CONFIG);
-
 
 
 

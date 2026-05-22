@@ -142,7 +142,7 @@ Fałszywe wiadomości często przyjmują formę prostych, emocjonalnych historii
 
 ### Dobra praktyka
 
-W kursie psychoedukacyjnym dotyczącym zaburzeń lękowych prowadzący nie ogranicza się do listy objawów i kryteriów. Zamiast tego przedstawia historię pacjentki: początkowe unikanie, błędną interpretację objawów somatycznych, stopniową ekspozycję, nawroty i poprawę funkcjonowania. Następnie mapuje każdy etap historii na konkretne mechanizmy (uwarunkowanie, unikanie negatywnie wzmacniane, rekonsolidacja przekonań).
+W kursie psychoedukacyjnym dotyczącym zaburzeń lękowych prowadzący nie ogranicza się do listy objawów i kryteriów. Zamiast tego przedstawia historię pacjentki: początkowe unikanie, błędną interpretację objawów somatycznych, stopniową ekspozycję, nawroty i poprawę funkcjonowania. Następnie mapuje każdy etap historii na konkretne mechanizmy (uwarunkowanie, unikanie wzmacniane negatywnie, rekonsolidacja przekonań).
 
 **Konsekwencja:** uczestnicy lepiej rozumieją zależności przyczynowe, rzadziej mylą objaw z mechanizmem i trafniej stosują wiedzę w nowych przypadkach.
 

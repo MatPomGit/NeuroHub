@@ -535,6 +535,7 @@ window.SITE_CONFIG = {
         { id: 'poznawcza/hda',                    label: 'Human Decision Accuracy (HDA)',   file: 'wiki/psychologia_poznawcza/hda.md'                    },
         { id: 'poznawcza/system1_system2',        label: 'System 1 i System 2 (Kahneman)',  file: 'wiki/psychologia_poznawcza/system1_system2.md'        },
         { id: 'poznawcza/przetwarzanie_predyktywne', label: 'Predictive processing',        file: 'wiki/psychologia_poznawcza/przetwarzanie_predyktywne.md' },
+        { id: 'poznawcza/narracje_i_psychika',    label: 'Rola opowieści w psychice',          file: 'wiki/psychologia_poznawcza/narracje_i_psychika.md'      },
       ]
     },
     { /* Psychologia zdrowia */
@@ -1384,6 +1385,7 @@ window.SITE_CONFIG = {
       { file: 'wiki/psychologia_poznawcza/system1_system2.md',        label: 'System 1 i System 2 (Kahneman)', status: 'live' },
       { file: 'wiki/psychologia_poznawcza/przetwarzanie_predyktywne.md',  label: 'Predictive processing',        status: 'live' },
       { file: 'wiki/psychologia_poznawcza/ucielesnienie.md',              label: 'Ucielesnione poznanie',        status: 'live' },
+      { file: 'wiki/psychologia_poznawcza/narracje_i_psychika.md',       label: 'Rola opowieści w psychice',     status: 'live' },
     ],
     spoleczna: [
       { file: 'wiki/psychologia_spoleczna/percepcja_spoleczna.md',   label: 'Percepcja spoleczna i atrybucje', status: 'live' },

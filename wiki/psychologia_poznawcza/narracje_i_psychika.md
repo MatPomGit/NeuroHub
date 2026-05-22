@@ -132,7 +132,7 @@ Pacjenci częściej stosują się do zaleceń, gdy lekarz wyjaśnia terapię jak
 
 ### Relacje i konflikty
 
-W sporach rodzinnych lub zawodowych ludzie zwykle reagują nie tylko na fakty, ale na historię, którą z tych faktów konstruują. Zmiana narracji z on mnie ignoruje celowo na oboje działamy pod presją czasu często obniża poziom wrogości i ułatwia rozwiązanie problemu.
+W sporach rodzinnych lub zawodowych ludzie zwykle reagują nie tylko na fakty, ale na historię, którą z tych faktów konstruują. Zmiana narracji z „on mnie ignoruje celowo” na „oboje działamy pod presją czasu” często obniża poziom wrogości i ułatwia rozwiązanie problemu.
 
 ### Media i dezinformacja
 

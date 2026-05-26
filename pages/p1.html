@@ -351,8 +351,16 @@
         const radarData = { labels: ['Popkultura/Rozrywka', 'Media Społecznościowe', 'System Edukacji', 'Język Potoczny', 'Tradycyjne Wiadomości'], datasets: [{ label: 'Poziom Podatności Społecznej (0-100)', data: [90, 85, 60, 75, 50], backgroundColor: 'rgba(15, 118, 110, 0.2)', borderColor: '#0f766e', pointBackgroundColor: '#0f766e', pointBorderColor: '#fff' }] };
         function updateChartContext(type) { const data = chartContexts[type]; document.getElementById('chart-context').innerHTML = `<div class="animate-fade-in"><h3 class="text-2xl font-bold mb-3">${data.title}</h3><p class="text-slate-600 text-sm leading-relaxed mb-6">${data.desc}</p><div class="grid gap-3">${data.metrics.map(m => `<div class="bg-white p-3 rounded shadow-sm"><p class="text-xs text-slate-500">${m.label}</p><p class="text-xl font-bold text-teal-700">${m.value}</p></div>`).join('')}</div></div>`; }
         function initChart(type) { if (mainChart) mainChart.destroy(); const config = { type: type === 'trend' ? 'line' : 'radar', data: type === 'trend' ? trendData : radarData, options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { position: 'bottom' }, tooltip: { backgroundColor: 'rgba(15, 23, 42, 0.9)' } }, scales: type === 'trend' ? { y: { beginAtZero: true, max: 100 }, x: { grid: { display: false } } } : { r: { angleLines: { color: '#e7e5e4' }, pointLabels: { font: { size: 11 } } } } } }; mainChart = new Chart(ctx, config); updateChartContext(type); }
-        document.getElementById('btn-trend').addEventListener('click', () => { initChart('trend'); document.getElementById('btn-trend').classList.replace('bg-white','bg-teal-700'); document.getElementById('btn-trend').classList.replace('text-slate-700','text-white'); document.getElementById('btn-radar').classList.replace('bg-teal-700','bg-white'); document.getElementById('btn-radar').classList.replace('text-white','text-slate-700'); });
-        document.getElementById('btn-radar').addEventListener('click', () => { initChart('radar'); document.getElementById('btn-radar').classList.replace('bg-white','bg-teal-700'); document.getElementById('btn-radar').classList.replace('text-slate-700','text-white'); document.getElementById('btn-trend').classList.replace('bg-teal-700','bg-white'); document.getElementById('btn-trend').classList.replace('text-white','text-slate-700'); });
+        const btnTrend = document.getElementById('btn-trend');
+        const btnRadar = document.getElementById('btn-radar');
+        function updateButtonStyles(active, inactive) {
+            active.classList.add('bg-teal-700', 'text-white', 'border-transparent');
+            active.classList.remove('bg-white', 'text-slate-700', 'border-slate-300');
+            inactive.classList.add('bg-white', 'text-slate-700', 'border-slate-300');
+            inactive.classList.remove('bg-teal-700', 'text-white', 'border-transparent');
+        }
+        btnTrend.addEventListener('click', () => { initChart('trend'); updateButtonStyles(btnTrend, btnRadar); });
+        btnRadar.addEventListener('click', () => { initChart('radar'); updateButtonStyles(btnRadar, btnTrend); });
         document.querySelectorAll('.tab-btn').forEach(btn => { btn.addEventListener('click', () => { document.querySelectorAll('.tab-btn').forEach(b => { b.classList.remove('text-teal-800','bg-white'); b.classList.add('text-slate-600'); }); document.querySelectorAll('.tab-content').forEach(c => c.classList.add('hidden')); btn.classList.remove('text-slate-600'); btn.classList.add('text-teal-800','bg-white'); document.getElementById(btn.getAttribute('data-target')).classList.remove('hidden'); }); });
         function toggleCard(el) { el.classList.toggle('is-flipped'); }
         window.onload = () => initChart('trend');

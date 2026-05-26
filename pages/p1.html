@@ -9,8 +9,17 @@
     <style>
         /* Typography and base styling */
         @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Playfair+Display:ital,wght@0,600;1,600&display=swap');
-        body { font-family: 'Inter', sans-serif; }
+        body {
+            font-family: 'Inter', sans-serif;
+            font-size: 17px;
+            line-height: 1.75;
+            letter-spacing: 0.01em;
+            color: #1e293b;
+        }
         h1, h2, h3 { font-family: 'Playfair Display', serif; }
+        p { line-height: 1.8; }
+        section p { max-width: 75ch; }
+        .reading-card p { color: #334155; }
         
         .chart-container {
             position: relative;
@@ -21,6 +30,14 @@
             height: 50vh;
             max-height: 450px;
             min-height: 300px;
+        }
+
+        .chart-container-compact {
+            position: relative;
+            width: 100%;
+            height: 38vh;
+            min-height: 280px;
+            max-height: 360px;
         }
         
         html { scroll-behavior: smooth; }
@@ -110,18 +127,43 @@
                 <div class="w-full lg:w-1/3 space-y-6" id="chart-context"></div>
             </div>
             <div class="mt-10 grid md:grid-cols-3 gap-5">
-                <div class="bg-teal-50 border border-teal-200 rounded-xl p-5">
+                <div class="reading-card bg-teal-50 border border-teal-200 rounded-xl p-5">
                     <p class="text-xs uppercase tracking-wide text-teal-700 font-semibold mb-2">Jak czytać wykres trendu</p>
                     <p class="text-sm text-slate-700">Linia zielona pokazuje wzrost wpływu algorytmów na kształtowanie poglądów. Linia szara przedstawia osłabienie autorytetu instytucji tradycyjnych.</p>
                 </div>
-                <div class="bg-amber-50 border border-amber-200 rounded-xl p-5">
+                <div class="reading-card bg-amber-50 border border-amber-200 rounded-xl p-5">
                     <p class="text-xs uppercase tracking-wide text-amber-700 font-semibold mb-2">Jak czytać radar podatności</p>
                     <p class="text-sm text-slate-700">Im wyższy punkt na osi, tym większa podatność obszaru na manipulację. Największe ryzyko dotyczy treści rozrywkowych i mediów społecznościowych.</p>
                 </div>
-                <div class="bg-slate-100 border border-slate-200 rounded-xl p-5">
+                <div class="reading-card bg-slate-100 border border-slate-200 rounded-xl p-5">
                     <p class="text-xs uppercase tracking-wide text-slate-700 font-semibold mb-2">Wniosek praktyczny</p>
                     <p class="text-sm text-slate-700">Najskuteczniejsza ochrona to łączenie higieny informacyjnej z edukacją krytycznego myślenia, szczególnie przy treściach silnie emocjonalnych.</p>
                 </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="dodatkowe-wykresy" class="py-20 bg-stone-100 border-y border-stone-200">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center max-w-3xl mx-auto mb-12">
+                <h2 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4">Dodatkowe wykresy analityczne</h2>
+                <p class="text-slate-700">Dwa uzupełniające wykresy pomagają porównać źródła wpływu oraz relację między intensywnością emocji a podatnością na przekaz manipulacyjny.</p>
+            </div>
+            <div class="grid lg:grid-cols-2 gap-8">
+                <article class="reading-card bg-white rounded-2xl border border-stone-200 shadow-sm p-6">
+                    <h3 class="text-xl font-bold text-slate-900 mb-3">Kanały wpływu kulturowego</h3>
+                    <p class="text-sm text-slate-700 mb-4">Wykres słupkowy pokazuje szacunkowy udział kanałów dystrybucji narracji. Największą rolę pełnią media społecznościowe i rozrywka.</p>
+                    <div class="chart-container-compact">
+                        <canvas id="channelsChart"></canvas>
+                    </div>
+                </article>
+                <article class="reading-card bg-white rounded-2xl border border-stone-200 shadow-sm p-6">
+                    <h3 class="text-xl font-bold text-slate-900 mb-3">Emocje a podatność odbiorcy</h3>
+                    <p class="text-sm text-slate-700 mb-4">Wykres rozrzutu ilustruje prawidłowość: wzrost natężenia emocji zwykle zwiększa podatność na uproszczone i spolaryzowane komunikaty.</p>
+                    <div class="chart-container-compact">
+                        <canvas id="emotionChart"></canvas>
+                    </div>
+                </article>
             </div>
         </div>
     </section>
@@ -343,16 +385,64 @@
         // Dane dla wykresów i kontekstów
         const chartContexts = {
             trend: { title: "Wypieranie autorytetów (2015-2025)", desc: "Wykres prezentuje przesunięcie zaufania: tradycyjne instytucje (szkoła, klasyczne media) tracą na rzecz algorytmów. Algorytmy optymalizują ekonomię uwagi, co czyni je wektorem polaryzacji.", metrics: [{ label: "Spadek zaufania do tradycyjnych mediów", value: "-34%" }, { label: "Wzrost polaryzacji poglądów", value: "+58%" }] },
-            radar: { title: "Wielowymiarowa Podatność", desc: "Najwyższy wskaźnik skuteczności manipulacji wykazuje popkultura (rozrywka). Podczas konsumpcji rozrywki mechanizmy krytyczne są uśpione, co ułatwia ukryty 'product placement' ideologiczny.", metrics: [{ label: "Najbardziej narażony obszar", value: "Popkultura (90/100)" }, { label: "Najbardziej oporny obszar", value: "Nauka ścisła (30/100)" }] }
+            radar: { title: "Wielowymiarowa podatność", desc: "Najwyższy wskaźnik skuteczności manipulacji wykazuje popkultura (rozrywka). Podczas konsumpcji rozrywki mechanizmy krytyczne są uśpione, co ułatwia ukryty 'product placement' ideologiczny.", metrics: [{ label: "Najbardziej narażony obszar", value: "Popkultura (90/100)" }, { label: "Najbardziej oporny obszar", value: "Nauki ścisłe (30/100)" }] }
         };
         let mainChart;
         const ctx = document.getElementById('researchChart').getContext('2d');
         const trendData = { labels: ['2015', '2017', '2019', '2021', '2023', '2025'], datasets: [{ label: 'Wpływ algorytmów na poglądy', data: [30, 45, 60, 75, 85, 92], borderColor: '#0f766e', backgroundColor: 'rgba(15, 118, 110, 0.1)', borderWidth: 3, tension: 0.4, fill: true }, { label: 'Autorytet instytucji tradycyjnych', data: [80, 70, 60, 45, 35, 28], borderColor: '#64748b', borderDash: [5, 5], borderWidth: 2, tension: 0.3 }] };
-        const radarData = { labels: ['Popkultura/Rozrywka', 'Media Społecznościowe', 'System Edukacji', 'Język Potoczny', 'Tradycyjne Wiadomości'], datasets: [{ label: 'Poziom Podatności Społecznej (0-100)', data: [90, 85, 60, 75, 50], backgroundColor: 'rgba(15, 118, 110, 0.2)', borderColor: '#0f766e', pointBackgroundColor: '#0f766e', pointBorderColor: '#fff' }] };
+        const radarData = { labels: ['Popkultura i rozrywka', 'Media społecznościowe', 'System edukacji', 'Język potoczny', 'Tradycyjne wiadomości'], datasets: [{ label: 'Poziom podatności społecznej (0-100)', data: [90, 85, 60, 75, 50], backgroundColor: 'rgba(15, 118, 110, 0.2)', borderColor: '#0f766e', pointBackgroundColor: '#0f766e', pointBorderColor: '#fff' }] };
         function updateChartContext(type) { const data = chartContexts[type]; document.getElementById('chart-context').innerHTML = `<div class="animate-fade-in"><h3 class="text-2xl font-bold mb-3">${data.title}</h3><p class="text-slate-600 text-sm leading-relaxed mb-6">${data.desc}</p><div class="grid gap-3">${data.metrics.map(m => `<div class="bg-white p-3 rounded shadow-sm"><p class="text-xs text-slate-500">${m.label}</p><p class="text-xl font-bold text-teal-700">${m.value}</p></div>`).join('')}</div></div>`; }
         function initChart(type) { if (mainChart) mainChart.destroy(); const config = { type: type === 'trend' ? 'line' : 'radar', data: type === 'trend' ? trendData : radarData, options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { position: 'bottom' }, tooltip: { backgroundColor: 'rgba(15, 23, 42, 0.9)' } }, scales: type === 'trend' ? { y: { beginAtZero: true, max: 100 }, x: { grid: { display: false } } } : { r: { angleLines: { color: '#e7e5e4' }, pointLabels: { font: { size: 11 } } } } } }; mainChart = new Chart(ctx, config); updateChartContext(type); }
         const btnTrend = document.getElementById('btn-trend');
         const btnRadar = document.getElementById('btn-radar');
+        function initAdditionalCharts() {
+            const channelsCtx = document.getElementById('channelsChart');
+            const emotionCtx = document.getElementById('emotionChart');
+            if (!channelsCtx || !emotionCtx) return;
+
+            new Chart(channelsCtx.getContext('2d'), {
+                type: 'bar',
+                data: {
+                    labels: ['Media społecznościowe', 'Platformy wideo', 'Rozrywka serialowa', 'Komentariat polityczny', 'Edukacja formalna'],
+                    datasets: [{
+                        label: 'Szacowany udział w kształtowaniu narracji (%)',
+                        data: [82, 74, 69, 57, 41],
+                        backgroundColor: ['#0f766e', '#0d9488', '#14b8a6', '#64748b', '#94a3b8'],
+                        borderRadius: 8
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: { legend: { display: false } },
+                    scales: {
+                        y: { beginAtZero: true, max: 100, grid: { color: '#e7e5e4' } },
+                        x: { ticks: { maxRotation: 0, minRotation: 0, font: { size: 11 } }, grid: { display: false } }
+                    }
+                }
+            });
+
+            new Chart(emotionCtx.getContext('2d'), {
+                type: 'scatter',
+                data: {
+                    datasets: [{
+                        label: 'Natężenie emocji i podatność (0-100)',
+                        data: [{ x: 20, y: 28 }, { x: 30, y: 34 }, { x: 40, y: 46 }, { x: 52, y: 58 }, { x: 66, y: 73 }, { x: 78, y: 84 }, { x: 88, y: 91 }],
+                        backgroundColor: '#be123c',
+                        pointRadius: 6
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: { legend: { position: 'bottom' } },
+                    scales: {
+                        x: { title: { display: true, text: 'Natężenie emocji przekazu' }, min: 0, max: 100, grid: { color: '#e7e5e4' } },
+                        y: { title: { display: true, text: 'Podatność odbiorcy' }, min: 0, max: 100, grid: { color: '#e7e5e4' } }
+                    }
+                }
+            });
+        }
         function updateButtonStyles(active, inactive) {
             active.classList.add('bg-teal-700', 'text-white', 'border-transparent');
             active.classList.remove('bg-white', 'text-slate-700', 'border-slate-300');
@@ -363,7 +453,10 @@
         btnRadar.addEventListener('click', () => { initChart('radar'); updateButtonStyles(btnRadar, btnTrend); });
         document.querySelectorAll('.tab-btn').forEach(btn => { btn.addEventListener('click', () => { document.querySelectorAll('.tab-btn').forEach(b => { b.classList.remove('text-teal-800','bg-white','font-semibold'); b.classList.add('text-slate-600','font-medium'); }); document.querySelectorAll('.tab-content').forEach(c => c.classList.add('hidden')); btn.classList.remove('text-slate-600','font-medium'); btn.classList.add('text-teal-800','bg-white','font-semibold'); document.getElementById(btn.getAttribute('data-target')).classList.remove('hidden'); }); });
         function toggleCard(el) { el.classList.toggle('is-flipped'); }
-        window.addEventListener('DOMContentLoaded', () => initChart('trend'));
+        window.addEventListener('DOMContentLoaded', () => {
+            initChart('trend');
+            initAdditionalCharts();
+        });
     </script>
 
 

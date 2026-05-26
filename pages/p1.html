@@ -361,7 +361,7 @@
         }
         btnTrend.addEventListener('click', () => { initChart('trend'); updateButtonStyles(btnTrend, btnRadar); });
         btnRadar.addEventListener('click', () => { initChart('radar'); updateButtonStyles(btnRadar, btnTrend); });
-        document.querySelectorAll('.tab-btn').forEach(btn => { btn.addEventListener('click', () => { document.querySelectorAll('.tab-btn').forEach(b => { b.classList.remove('text-teal-800','bg-white'); b.classList.add('text-slate-600'); }); document.querySelectorAll('.tab-content').forEach(c => c.classList.add('hidden')); btn.classList.remove('text-slate-600'); btn.classList.add('text-teal-800','bg-white'); document.getElementById(btn.getAttribute('data-target')).classList.remove('hidden'); }); });
+        document.querySelectorAll('.tab-btn').forEach(btn => { btn.addEventListener('click', () => { document.querySelectorAll('.tab-btn').forEach(b => { b.classList.remove('text-teal-800','bg-white','font-semibold'); b.classList.add('text-slate-600','font-medium'); }); document.querySelectorAll('.tab-content').forEach(c => c.classList.add('hidden')); btn.classList.remove('text-slate-600','font-medium'); btn.classList.add('text-teal-800','bg-white','font-semibold'); document.getElementById(btn.getAttribute('data-target')).classList.remove('hidden'); }); });
         function toggleCard(el) { el.classList.toggle('is-flipped'); }
         window.onload = () => initChart('trend');
     </script>

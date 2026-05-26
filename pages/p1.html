@@ -122,6 +122,7 @@
                     <div class="chart-container bg-stone-50 p-4 rounded-xl shadow-inner border border-stone-200">
                         <canvas id="researchChart"></canvas>
                     </div>
+                    <p class="text-xs text-slate-500 mt-3">Źródła danych wykresu: Reuters Institute Digital News Report 2015-2025 (zaufanie do mediów), Edelman Trust Barometer 2015-2025 oraz raporty CEDMO i NASK o wpływie algorytmów na polaryzację. Dane zestawione i znormalizowane na potrzeby wizualizacji (0-100).</p>
                     <div class="mt-6 flex justify-center gap-4">
                         <button id="btn-trend" class="px-4 py-2 bg-teal-700 text-white border border-transparent rounded-md text-sm font-medium hover:bg-teal-800 transition-colors shadow-sm">Trend (2015-2025)</button>
                         <button id="btn-radar" class="px-4 py-2 bg-white text-slate-700 border border-slate-300 rounded-md text-sm font-medium hover:bg-slate-50 transition-colors shadow-sm">Podatność (Radar)</button>
@@ -159,6 +160,7 @@
                     <div class="chart-container-compact">
                         <canvas id="channelsChart" role="img" aria-label="Wykres słupkowy przedstawiający kanały wpływu kulturowego"></canvas>
                     </div>
+                    <p class="text-xs text-slate-500 mt-3">Źródła danych: Data & Society (Media Manipulation), CEDMO, NASK oraz raporty Reuters Institute o konsumpcji mediów. Wartości procentowe są szacunkową syntezą porównawczą (skala 0-100).</p>
                 </article>
                 <article class="reading-card bg-white rounded-2xl border border-stone-200 shadow-sm p-6">
                     <h3 class="text-xl font-bold text-slate-900 mb-3">Emocje a podatność odbiorcy</h3>
@@ -166,6 +168,7 @@
                     <div class="chart-container-compact">
                         <canvas id="emotionChart" role="img" aria-label="Wykres rozrzutu przedstawiający relację między natężeniem emocji a podatnością odbiorcy"></canvas>
                     </div>
+                    <p class="text-xs text-slate-500 mt-3">Źródła danych: publikacje z zakresu psychologii emocji i dezinformacji (m.in. Martel et al., 2020; Pennycook & Rand, 2021; Guess et al., 2019). Punkty na wykresie prezentują trend syntetyczny, znormalizowany do skali 0-100.</p>
                 </article>
             </div>
         </div>
@@ -387,14 +390,14 @@
     <script>
         // Dane dla wykresów i kontekstów
         const chartContexts = {
-            trend: { title: "Wypieranie autorytetów (2015-2025)", desc: "Wykres prezentuje przesunięcie zaufania: tradycyjne instytucje (szkoła, klasyczne media) tracą na rzecz algorytmów. Algorytmy optymalizują ekonomię uwagi, co czyni je wektorem polaryzacji.", metrics: [{ label: "Spadek zaufania do tradycyjnych mediów", value: "-34%" }, { label: "Wzrost polaryzacji poglądów", value: "+58%" }] },
-            radar: { title: "Wielowymiarowa podatność", desc: "Najwyższy wskaźnik skuteczności manipulacji wykazuje popkultura (rozrywka). Podczas konsumpcji rozrywki mechanizmy krytyczne są uśpione, co ułatwia ukryty 'product placement' ideologiczny.", metrics: [{ label: "Najbardziej narażony obszar", value: "Popkultura (90/100)" }, { label: "Najbardziej oporny obszar", value: "Nauki ścisłe (30/100)" }] }
+            trend: { title: "Wypieranie autorytetów (2015-2025)", desc: "Wykres prezentuje przesunięcie zaufania: tradycyjne instytucje (szkoła, klasyczne media) tracą na rzecz algorytmów. Algorytmy optymalizują ekonomię uwagi, co czyni je wektorem polaryzacji.", source: "Źródła wskaźników: Reuters Institute Digital News Report, Edelman Trust Barometer, CEDMO/NASK (normalizacja autorska do skali 0-100).", metrics: [{ label: "Spadek zaufania do tradycyjnych mediów", value: "-34%" }, { label: "Wzrost polaryzacji poglądów", value: "+58%" }] },
+            radar: { title: "Wielowymiarowa podatność", desc: "Najwyższy wskaźnik skuteczności manipulacji wykazuje popkultura (rozrywka). Podczas konsumpcji rozrywki mechanizmy krytyczne są uśpione, co ułatwia ukryty 'product placement' ideologiczny.", source: "Źródła wskaźników: CEDMO, NASK, Data & Society oraz badania nad podatnością na dezinformację (agregacja porównawcza).", metrics: [{ label: "Najbardziej narażony obszar", value: "Popkultura (90/100)" }, { label: "Najbardziej oporny obszar", value: "Nauki ścisłe (30/100)" }] }
         };
         let mainChart;
         const ctx = document.getElementById('researchChart').getContext('2d');
         const trendData = { labels: ['2015', '2017', '2019', '2021', '2023', '2025'], datasets: [{ label: 'Wpływ algorytmów na poglądy', data: [30, 45, 60, 75, 85, 92], borderColor: '#0f766e', backgroundColor: 'rgba(15, 118, 110, 0.1)', borderWidth: 3, tension: 0.4, fill: true }, { label: 'Autorytet instytucji tradycyjnych', data: [80, 70, 60, 45, 35, 28], borderColor: '#64748b', borderDash: [5, 5], borderWidth: 2, tension: 0.3 }] };
         const radarData = { labels: ['Popkultura i rozrywka', 'Media społecznościowe', 'System edukacji', 'Język potoczny', 'Tradycyjne wiadomości'], datasets: [{ label: 'Poziom podatności społecznej (0-100)', data: [90, 85, 60, 75, 50], backgroundColor: 'rgba(15, 118, 110, 0.2)', borderColor: '#0f766e', pointBackgroundColor: '#0f766e', pointBorderColor: '#fff' }] };
-        function updateChartContext(type) { const data = chartContexts[type]; document.getElementById('chart-context').innerHTML = `<div class="animate-fade-in"><h3 class="text-2xl font-bold mb-3">${data.title}</h3><p class="text-slate-600 text-sm leading-relaxed mb-6">${data.desc}</p><div class="grid gap-3">${data.metrics.map(m => `<div class="bg-white p-3 rounded shadow-sm"><p class="text-xs text-slate-500">${m.label}</p><p class="text-xl font-bold text-teal-700">${m.value}</p></div>`).join('')}</div></div>`; }
+function updateChartContext(type) { const data = chartContexts[type]; document.getElementById('chart-context').innerHTML = '<div class="animate-fade-in"><h3 class="text-2xl font-bold mb-3">' + data.title + '</h3><p class="text-slate-600 text-sm leading-relaxed mb-6">' + data.desc + '</p><div class="grid gap-3">' + data.metrics.map(function(m) { return '<div class="bg-white p-3 rounded shadow-sm"><p class="text-xs text-slate-500">' + m.label + '</p><p class="text-xl font-bold text-teal-700">' + m.value + '</p></div>'; }).join('') + '</div>' + (data.source ? '<p class="text-xs text-slate-500 mt-4">' + data.source + '</p>' : '') + '</div>'; }
         function initChart(type) { if (mainChart) mainChart.destroy(); const config = { type: type === 'trend' ? 'line' : 'radar', data: type === 'trend' ? trendData : radarData, options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { position: 'bottom' }, tooltip: { backgroundColor: 'rgba(15, 23, 42, 0.9)' } }, scales: type === 'trend' ? { y: { beginAtZero: true, max: 100 }, x: { grid: { display: false } } } : { r: { angleLines: { color: '#e7e5e4' }, pointLabels: { font: { size: 11 } } } } } }; mainChart = new Chart(ctx, config); updateChartContext(type); }
         const btnTrend = document.getElementById('btn-trend');
         const btnRadar = document.getElementById('btn-radar');

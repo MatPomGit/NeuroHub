@@ -53,7 +53,8 @@ Każdy nowy lub aktualizowany artykuł powinien (o ile temat na to pozwala) zawi
 2. Uwzględniaj źródła naukowe wysokiej jakości (np. artykuły recenzowane, podręczniki akademickie, raporty instytucji naukowych).
 3. Dbaj o aktualność źródeł oraz równowagę między klasycznymi pozycjami a nowszymi badaniami.
 4. Jeśli używasz danych liczbowych, wskaż ich źródło bezpośrednio w treści.
-5. Sekcja `## Bibliografia` musi znajdować się na końcu artykułu (ostatni rozdział).
+5. Dla każdego wykresu, statystyki lub zestawienia danych podaj adekwatne źródło bezpośrednio przy elemencie albo w jego podpisie.
+6. Sekcja `## Bibliografia` musi znajdować się na końcu artykułu (ostatni rozdział).
 
 ## Zasady argumentacji
 
@@ -94,6 +95,7 @@ Każdy nowy lub aktualizowany artykuł powinien (o ile temat na to pozwala) zawi
 - [ ] Czy dodano przykłady dobrej i złej praktyki?
 - [ ] Czy przedstawiono perspektywę nieoczywistą, popartą argumentami?
 - [ ] Czy artykuł zawiera sekcję Bibliografia z wiarygodnymi źródłami?
+- [ ] Czy każdy wykres, statystyka lub zestawienie danych ma podane adekwatne źródło?
 - [ ] Czy sekcja „## Bibliografia” jest ostatnim rozdziałem artykułu?
 - [ ] Czy całość utrzymuje wysoki poziom jakościowy i edukacyjny?
 - [ ] Czy podczas edycji zachowano i zintegrowano wartościową treść istniejącą wcześniej?

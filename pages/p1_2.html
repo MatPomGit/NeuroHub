@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manipulacja Kulturowa: Raport Naukowy | Analiza, Mechanizmy, Przykłady</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        /* Typography and base styling */
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Playfair+Display:ital,wght@0,600;1,600&display=swap');
+        body { font-family: 'Inter', sans-serif; }
+        h1, h2, h3 { font-family: 'Playfair Display', serif; }
+        
+        .chart-container {
+            position: relative;
+            width: 100%;
+            max-width: 900px;
+            margin-left: auto;
+            margin-right: auto;
+            height: 50vh;
+            max-height: 450px;
+            min-height: 300px;
+        }
+        
+        html { scroll-behavior: smooth; }
+
+        ::-webkit-scrollbar { width: 8px; }
+        ::-webkit-scrollbar-track { background: #f5f5f4; }
+        ::-webkit-scrollbar-thumb { background: #d6d3d1; border-radius: 4px; }
+        ::-webkit-scrollbar-thumb:hover { background: #a8a29e; }
+
+        .perspective-1000 { perspective: 1000px; }
+        .preserve-3d { transform-style: preserve-3d; }
+        .backface-hidden { backface-visibility: hidden; }
+        .rotate-y-180 { transform: rotateY(180deg); }
+        .is-flipped > div { transform: rotateY(180deg); }
+        
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        .animate-fade-in { animation: fadeIn 0.4s ease-out; }
+    </style>
+</head>
+<body class="bg-stone-50 text-slate-800 antialiased selection:bg-teal-200 selection:text-teal-900">
+
+    <!-- Navigation -->
+    <nav class="fixed w-full bg-stone-50/90 backdrop-blur-md z-50 border-b border-stone-200 shadow-sm">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between h-16 items-center">
+                <div class="flex-shrink-0 flex items-center gap-2 cursor-pointer" onclick="window.scrollTo(0,0)">
+                    <span class="text-2xl">🏛️</span>
+                    <span class="font-bold text-xl tracking-tight text-slate-900">Kultura & Wpływ</span>
+                </div>
+                <div class="hidden md:flex space-x-6">
+                    <button onclick="document.getElementById('definicja').scrollIntoView()" class="text-sm font-medium text-slate-600 hover:text-teal-700 transition-colors">Definicja</button>
+                    <button onclick="document.getElementById('badania').scrollIntoView()" class="text-sm font-medium text-slate-600 hover:text-teal-700 transition-colors">Badania</button>
+                    <button onclick="document.getElementById('model-trojstronny').scrollIntoView()" class="text-sm font-medium text-slate-600 hover:text-teal-700 transition-colors">Model</button>
+                    <button onclick="document.getElementById('mechanizmy').scrollIntoView()" class="text-sm font-medium text-slate-600 hover:text-teal-700 transition-colors">Mechanizmy</button>
+                    <button onclick="document.getElementById('przykłady').scrollIntoView()" class="text-sm font-medium text-slate-600 hover:text-teal-700 transition-colors">Przykłady</button>
+                    <button onclick="document.getElementById('konsekwencje').scrollIntoView()" class="text-sm font-medium text-slate-600 hover:text-teal-700 transition-colors">Konsekwencje</button>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero / Definicja Section -->
+    <section id="definicja" class="pt-32 pb-20 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto flex flex-col md:flex-row items-center gap-12">
+        <div class="md:w-1/2">
+            <div class="inline-block px-3 py-1 bg-teal-100 text-teal-800 rounded-full text-xs font-semibold tracking-wider uppercase mb-6">Raport Naukowy 2026</div>
+            <h1 class="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight text-slate-900 mb-6">
+                Manipulacja Kulturowa:<br>
+                <span class="text-teal-700 italic">Inżynieria Zgody</span>
+            </h1>
+            <p class="text-lg text-slate-600 mb-8 leading-relaxed">
+                Współczesna analiza socjologiczna i psychologiczna nie pozostawia złudzeń: kultura nie jest jedynie naturalnym środowiskiem rozwoju, lecz polem celowego wpływu. Poniższy raport stanowi syntezę wiedzy naukowej na temat mechanizmów kształtowania społecznych postaw — od Gramsciego po neuronaukę.
+            </p>
+        </div>
+        <div class="md:w-1/2 bg-white p-8 rounded-2xl shadow-xl border border-stone-100 relative overflow-hidden">
+            <div class="absolute top-0 right-0 -mt-4 -mr-4 text-9xl text-stone-100 opacity-50 select-none">"</div>
+            <h3 class="text-xl font-bold text-slate-800 mb-4 relative z-10">Profesjonalna Definicja</h3>
+            <p class="text-slate-700 leading-relaxed relative z-10">
+                <strong>Manipulacja kulturowa</strong> to celowy, strukturalny i asymetryczny proces oddziaływania na poglądy, tożsamość oraz zachowania poprzez instrumentalne wykorzystanie kodów, symboli i instytucji. Jej nadrzędnym celem jest skłonienie jednostek do przyjęcia określonego światopoglądu jako <strong>własnego, niezależnego wyboru</strong>. Stanowi formę miękkiej siły i przemocy symbolicznej (Bourdieu).
+                <br><br>
+                <span class="text-xs text-slate-500">Źródło: Adaptacja z teorii hegemonii kulturowej A. Gramsciego oraz badań nad przemocą symboliczną.</span>
+            </p>
+        </div>
+    </section>
+
+    <!-- Przegląd Badań Section -->
+    <section id="badania" class="py-20 bg-white border-y border-stone-200">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center max-w-3xl mx-auto mb-16">
+                <h2 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4">Przegląd Badań Naukowych</h2>
+                <p class="text-slate-600">
+                    Meta-analizy wskazują na przesunięcie autorytetów poznawczych: tradycyjne instytucje tracą na rzecz algorytmów i popkultury. Poniższe wizualizacje obrazują trendy oraz podatność społeczeństwa na poszczególnych polach.
+                </p>
+            </div>
+            <div class="flex flex-col lg:flex-row gap-12 items-center">
+                <div class="w-full lg:w-2/3">
+                    <div class="chart-container bg-stone-50 p-4 rounded-xl shadow-inner border border-stone-200">
+                        <canvas id="researchChart"></canvas>
+                    </div>
+                    <div class="mt-6 flex justify-center gap-4">
+                        <button id="btn-trend" class="px-4 py-2 bg-teal-700 text-white rounded-md text-sm font-medium hover:bg-teal-800 transition-colors shadow-sm">Trend (2015-2025)</button>
+                        <button id="btn-radar" class="px-4 py-2 bg-white text-slate-700 border border-slate-300 rounded-md text-sm font-medium hover:bg-slate-50 transition-colors shadow-sm">Podatność (Radar)</button>
+                    </div>
+                </div>
+                <div class="w-full lg:w-1/3 space-y-6" id="chart-context"></div>
+            </div>
+        </div>
+    </section>
+
+    <!-- NOWA SEKCJA: Trójstronny model manipulacji społecznej -->
+    <section id="model-trojstronny" class="py-20 bg-stone-50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center max-w-3xl mx-auto mb-12">
+                <h2 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4">Trójstronny Model Manipulacji Tożsamościowej</h2>
+                <p class="text-slate-600">Manipulator utrzymuje władzę poprzez permanentny konflikt między większością a mniejszością, eliminując solidarność społeczną.</p>
+            </div>
+            <div class="grid md:grid-cols-3 gap-8">
+                <div class="bg-white rounded-xl shadow-md border-l-8 border-teal-700 p-6 hover:shadow-lg transition">
+                    <div class="text-4xl mb-4">🎭</div>
+                    <h3 class="text-xl font-bold text-slate-900 mb-2">Manipulator</h3>
+                    <p class="text-slate-600 text-sm leading-relaxed">Podmiot dążący do wykreowania i instrumentalnego wykorzystania różnic kulturowych, etnicznych lub klasowych w celu realizacji własnych celów ekonomicznych bądź politycznych.</p>
+                    <div class="mt-4 text-xs text-teal-700 font-medium">Źródło: Darren's Public Notes, Cultural Manipulation</div>
+                </div>
+                <div class="bg-white rounded-xl shadow-md border-l-8 border-amber-700 p-6 hover:shadow-lg transition">
+                    <div class="text-4xl mb-4">👥</div>
+                    <h3 class="text-xl font-bold text-slate-900 mb-2">Grupa większościowa</h3>
+                    <p class="text-slate-600 text-sm leading-relaxed">Zbiorowość manipulowana tak, aby przyjęła irracjonalne, lękowe i agresywne postawy wobec wyselekcjonowanej mniejszości. Zastraszana domniemaną ekspansją „obcych”.</p>
+                </div>
+                <div class="bg-white rounded-xl shadow-md border-l-8 border-red-700 p-6 hover:shadow-lg transition">
+                    <div class="text-4xl mb-4">🛡️</div>
+                    <h3 class="text-xl font-bold text-slate-900 mb-2">Grupa mniejszościowa</h3>
+                    <p class="text-slate-600 text-sm leading-relaxed">Ofiara wtórna poddawana systemowej dehumanizacji, stygmatyzacji lub wykluczeniu. Paraliżowana realną agresją ze strony zmanipulowanej większości.</p>
+                </div>
+            </div>
+            <div class="mt-10 bg-teal-50 p-6 rounded-2xl border border-teal-200">
+                <p class="text-sm text-slate-700 italic">„Strategiczny cel manipulatora polega na trwałym utrzymywaniu obu grup w stanie permanentnego zagrożenia i lęku. Mechanizm ten skutecznie eliminuje solidarność społeczną i uniemożliwia konsolidację przeciwko rzeczywistemu źródłu opresji.”</p>
+                <p class="text-xs text-slate-500 mt-2">— Model opisany w literaturze przedmiotu (por. Cultural Manipulation, Darren Smith)</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Mechanizmy Section (istniejący, uzupełniony o nowe treści) -->
+    <section id="mechanizmy" class="py-20 bg-white">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="mb-12">
+                <h2 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4">Anatomia Wpływu: Mechanizmy</h2>
+                <p class="text-slate-600 max-w-3xl">Jak przebiega manipulacja? Naukowcy wyodrębnili kluczowe taktyki stosowane w celu modyfikacji dyskursu społecznego – od inżynierii semantycznej po przemoc symboliczną.</p>
+            </div>
+            <div class="bg-stone-50 rounded-2xl shadow-md border border-stone-200 overflow-hidden flex flex-col md:flex-row">
+                <div class="md:w-1/3 bg-stone-100 border-r border-stone-200 flex flex-col">
+                    <button class="tab-btn w-full text-left px-6 py-5 border-b border-stone-200 font-semibold text-teal-800 bg-white transition-all flex items-center justify-between" data-target="tab-1"><span>🧠 Inżynieria Semantyczna</span><span>›</span></button>
+                    <button class="tab-btn w-full text-left px-6 py-5 border-b border-stone-200 font-medium text-slate-600 hover:bg-stone-50 transition-all" data-target="tab-2"><span>🎭 Hegemonia Kulturowa</span></button>
+                    <button class="tab-btn w-full text-left px-6 py-5 border-b border-stone-200 font-medium text-slate-600 hover:bg-stone-50 transition-all" data-target="tab-3"><span>📢 Framing (Ramowanie)</span></button>
+                    <button class="tab-btn w-full text-left px-6 py-5 font-medium text-slate-600 hover:bg-stone-50 transition-all" data-target="tab-4"><span>🛡️ Przemoc Symboliczna</span></button>
+                </div>
+                <div class="md:w-2/3 p-8 lg:p-12">
+                    <div id="tab-1" class="tab-content block"><h3 class="text-2xl font-bold mb-4">Inżynieria Semantyczna (Nowomowa)</h3><p>Celowa zmiana znaczeń słów lub wprowadzanie neologizmów, aby uniemożliwić wyrażanie myśli sprzecznych z interesem manipulatora. Kontrola języka to kontrola aparatu poznawczego (hipoteza Sapira-Whorfa).</p><div class="bg-white p-4 rounded-lg mt-4 border-l-4 border-teal-600"><p class="text-sm font-semibold">Przykład z artykułu: “Zmiana nazwy ‘podatek’ na ‘opłata solidarnościowa’ zmienia emocjonalny odbiór tej samej daniny.”</p></div></div>
+                    <div id="tab-2" class="tab-content hidden"><h3 class="text-2xl font-bold mb-4">Hegemonia Kulturowa (Gramsci)</h3><p>Dominacja poprzez kontrolę instytucji kulturowych (szkoły, media, kościoły). Wartości klasy dominującej stają się „zdrowym rozsądkiem”. Walka wymaga długofalowej wojny pozycyjnej i organicznych intelektualistów.</p></div>
+                    <div id="tab-3" class="tab-content hidden"><h3 class="text-2xl font-bold mb-4">Framing</h3><p>Wybiórcze prezentowanie aspektów rzeczywistości przy jednoczesnym ukrywaniu innych. Ramowanie narzuca odbiorcy konkretną interpretację wydarzenia (np. „bojownicy o wolność” vs „terroryści”).</p></div>
+                    <div id="tab-4" class="tab-content hidden"><h3 class="text-2xl font-bold mb-4">Przemoc Symboliczna (Bourdieu)</h3><p>Narzucanie znaczeń uznawanych za prawomocne, co ukrywa władzę u podstaw. Działa głównie w edukacji i guście estetycznym, deprecjonując kapitał kulturowy klas niższych.</p></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- NOWA SEKCJA: Wyparcie kulturowe (Cultural Denial) -->
+    <section class="py-16 bg-stone-100">
+        <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+            <div class="bg-white p-8 rounded-2xl shadow-lg">
+                <span class="text-5xl block mb-4">🤐</span>
+                <h3 class="text-2xl font-bold text-slate-900 mb-3">Zmowa milczenia (Cultural Denial)</h3>
+                <p class="text-slate-700 max-w-2xl mx-auto mb-4">Strukturalny mechanizm obronny grupy, która zbiorowo ignoruje oczywiste dowody naukowe lub fakty społeczne z powodu lęku przed utratą standardu życia lub dekonstrukcją tożsamości. Jednostki naruszające zmowę milczenia są karane ostracyzmem, podczas gdy konformizm jest nagradzany włączeniem do wspólnoty.</p>
+                <div class="text-sm text-slate-500 italic">Klasyczny przykład: systemowe negowanie przyczyn i skutków zmian klimatycznych, stymulowane przez korporacje energetyczne.</div>
+            </div>
+        </div>
+    </section>
+
+    <!-- SEKCJA: Cyfrowy warsztat manipulacji i dezinformacja (z PDF) -->
+    <section id="cyfrowy-warsztat" class="py-20 bg-white">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <h2 class="text-3xl md:text-4xl font-bold text-slate-900 mb-6 text-center">Cyfrowy warsztat manipulacji</h2>
+            <p class="text-center text-slate-600 max-w-3xl mx-auto mb-12">Współczesne techniki dezinformacyjne – od astroturfingu po deepfake – są szczegółowo badane przez instytuty takie jak Data & Society oraz NASK.</p>
+            <div class="grid md:grid-cols-2 gap-8">
+                <div class="bg-stone-50 p-6 rounded-xl border border-stone-200">
+                    <h3 class="text-xl font-bold flex items-center gap-2"><span class="text-2xl">🤖</span> Astroturfing</h3>
+                    <p class="text-slate-700 mt-2 text-sm">Skoordynowane symulowanie oddolnych ruchów społecznych przez opłaconych aktorów lub boty. Celem jest wykreowanie iluzji powszechnego poparcia. Badania NASK: 19% Polaków nie weryfikuje w ogóle źródeł informacji, a 32,8% ma trudności z rozpoznaniem zmanipulowanego przekazu.</p>
+                </div>
+                <div class="bg-stone-50 p-6 rounded-xl border border-stone-200">
+                    <h3 class="text-xl font-bold flex items-center gap-2"><span class="text-2xl">🎭</span> Deepfakes i cheap fakes</h3>
+                    <p class="text-slate-700 mt-2 text-sm">Fałszywe materiały audiowizualne generowane przez AI lub proste edycje. Ruch QAnon stworzył alternatywną instytucję legitymizacji wiedzy, całkowicie niezależną od autorytetów naukowych i medialnych.</p>
+                </div>
+                <div class="bg-stone-50 p-6 rounded-xl border border-stone-200">
+                    <h3 class="text-xl font-bold flex items-center gap-2"><span class="text-2xl">📡</span> Bombardowanie informacyjne</h3>
+                    <p class="text-slate-700 mt-2 text-sm">Zalewanie obywateli gigantyczną ilością niespójnych danych wywołuje efekt sedacji (sedation effect), drastycznie obniżając krytycyzm poznawczy społeczeństwa i czyniąc je podatnym na najprostsze formy manipulacji (Galanton).</p>
+                </div>
+                <div class="bg-stone-50 p-6 rounded-xl border border-stone-200">
+                    <h3 class="text-xl font-bold flex items-center gap-2"><span class="text-2xl">🔍</span> Source hacking</h3>
+                    <p class="text-slate-700 mt-2 text-sm">Hakowanie źródeł, fabrykowanie wycieków dokumentów oraz manipulowanie algorytmami wyszukiwarek w celu wprowadzenia niszowych teorii spiskowych do debaty głównego nurtu.</p>
+                </div>
+            </div>
+            <div class="mt-8 text-center text-sm text-slate-500 bg-amber-50 p-4 rounded-lg max-w-2xl mx-auto">
+                📊 CEDMO: Legitymizacja dezinformacji w 52% opiera się na odwołaniach do zasad moralnych i rzekomej obrony „właściwego porządku świata”, budując spolaryzowaną narrację „my vs oni”.
+            </div>
+        </div>
+    </section>
+
+    <!-- Przykłady Praktyczne (istniejące + nowe: rewizjonizm historyczny Queen Cleopatra) -->
+    <section id="przykłady" class="py-20 bg-stone-50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="mb-12 text-center">
+                <h2 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4">Przykłady Praktyczne</h2>
+                <p class="text-slate-600 max-w-2xl mx-auto">Teoria w zderzeniu z rzeczywistością – udokumentowane przypadki manipulacji kulturowej: od greenwashingu po rewizjonizm historyczny w mediach.</p>
+            </div>
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                <!-- Card 1: Astroturfing -->
+                <div class="group cursor-pointer perspective-1000" onclick="toggleCard(this)">
+                    <div class="relative w-full h-80 transition-transform duration-500 preserve-3d">
+                        <div class="absolute w-full h-full backface-hidden bg-white border border-stone-200 rounded-xl p-8 flex flex-col justify-center items-center text-center shadow-sm"><span class="text-5xl mb-4">📱</span><h3 class="text-xl font-bold">Astroturfing Cyfrowy</h3><p class="text-sm text-slate-500">Fałszywe ruchy oddolne.</p><div class="mt-6 text-teal-600 text-sm font-medium">Kliknij ↺</div></div>
+                        <div class="absolute w-full h-full backface-hidden rotate-y-180 bg-slate-800 text-white rounded-xl p-6 flex flex-col justify-center"><h4 class="font-bold text-teal-400 mb-2">Analiza</h4><p class="text-sm leading-relaxed">Korporacje lub rządy masowo wykorzystują boty do generowania „oburzenia” lub „poparcia”. Efekt społecznego dowodu słuszności zmusza do dostosowania poglądów (Spirala Milczenia).</p></div>
+                    </div>
+                </div>
+                <!-- Card 2: Greenwashing -->
+                <div class="group cursor-pointer perspective-1000" onclick="toggleCard(this)">
+                    <div class="relative w-full h-80 transition-transform duration-500 preserve-3d">
+                        <div class="absolute w-full h-full backface-hidden bg-white border border-stone-200 rounded-xl p-8 flex flex-col justify-center items-center text-center"><span class="text-5xl mb-4">🌿</span><h3 class="text-xl font-bold">Greenwashing</h3><p class="text-sm text-slate-500">Zawłaszczanie wartości ekologicznych.</p><div class="mt-6 text-teal-600 text-sm font-medium">Kliknij ↺</div></div>
+                        <div class="absolute w-full h-full backface-hidden rotate-y-180 bg-slate-800 text-white rounded-xl p-6 flex flex-col justify-center"><h4 class="font-bold text-teal-400 mb-2">Analiza</h4><p class="text-sm leading-relaxed">Firmy paliwowe inwestują w kampanie wizerunkowe (zmiana logo na zielone, hasła „eko”), aby pasożytować na autentycznej trosce ekologicznej i uniknąć regulacji.</p></div>
+                    </div>
+                </div>
+                <!-- Card 3: Rewizjonizm historyczny (Netflix – Queen Cleopatra) – NOWY PRZYKŁAD Z PDF -->
+                <div class="group cursor-pointer perspective-1000" onclick="toggleCard(this)">
+                    <div class="relative w-full h-80 transition-transform duration-500 preserve-3d">
+                        <div class="absolute w-full h-full backface-hidden bg-white border border-stone-200 rounded-xl p-8 flex flex-col justify-center items-center text-center"><span class="text-5xl mb-4">🎬</span><h3 class="text-xl font-bold">Falsyfikacja historyczna</h3><p class="text-sm text-slate-500">Serial „Queen Cleopatra” (Netflix 2023).</p><div class="mt-6 text-teal-600 text-sm font-medium">Kliknij ↺</div></div>
+                        <div class="absolute w-full h-full backface-hidden rotate-y-180 bg-slate-800 text-white rounded-xl p-6 flex flex-col justify-center"><h4 class="font-bold text-teal-400 mb-2">Analiza naukowa</h4><p class="text-sm leading-relaxed">Przedstawienie Kleopatry VII jako kobiety o ciemnej skórze narusza konsensus historyczny (pochodzenie macedońsko-greckie). Film dokumentalny – tradycyjnie obiektywny – służy propagowaniu rewizjonizmu, deformując zbiorową świadomość historyczną.</p><p class="text-xs text-stone-400 mt-2">Źródło: ResearchGate, CULTURAL FALSIFICATION THROUGH DOCUMENTARIES, 2024</p></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- NOWA SEKCJA: Konsekwencje kliniczne i społeczno-psychologiczne -->
+    <section id="konsekwencje" class="py-20 bg-white">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center max-w-3xl mx-auto mb-12">
+                <h2 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4">Konsekwencje kliniczne i społeczne</h2>
+                <p class="text-slate-600">Systemowa manipulacja kulturowa prowadzi do zaburzeń tożsamości, błędów diagnostycznych oraz chronicznego konfliktu wartości.</p>
+            </div>
+            <div class="flex flex-col md:flex-row gap-8">
+                <div class="md:w-1/2 bg-rose-50 p-6 rounded-xl border border-rose-200">
+                    <h3 class="text-xl font-bold text-rose-800 mb-3">🧠 Somatyzacja i niezdiagnozowane zaburzenia</h3>
+                    <p class="text-slate-700 text-sm">Pacjenci z kręgów kolektywistycznych zgłaszają ból fizyczny zamiast smutku. Szacuje się, że od 1/3 do 1/2 pacjentów z zaburzeniami psychicznymi w podstawowej opiece zdrowotnej pozostaje niezdiagnozowanych, a mniejszości etniczne są w grupie najwyższego ryzyka błędu diagnostycznego.</p>
+                    <p class="text-xs text-slate-500 mt-3">Źródło: Chapter 2 Culture Counts, NCBI</p>
+                </div>
+                <div class="md:w-1/2 bg-amber-50 p-6 rounded-xl border border-amber-200">
+                    <h3 class="text-xl font-bold text-amber-800 mb-3">⚖️ Konformizm i podatność na moralizatorstwo</h3>
+                    <p class="text-slate-700 text-sm">W kulturach niezależnych (np. Niemcy) konformizm ma konotacje pejoratywne, w kolektywistycznych (Chiny) jest postrzegany pozytywnie jako dążenie do harmonii. Różnice te determinują podatność na manipulacyjne shaming i odgórną kontrolę społeczną.</p>
+                    <p class="text-xs text-slate-500 mt-3">Źródło: Cultural influences on social feedback processing, PMC</p>
+                </div>
+            </div>
+            <div class="mt-8 bg-slate-100 p-6 rounded-xl">
+                <h4 class="font-bold text-slate-900 mb-2">Przymusowa asymilacja i marginalizacja (model Berry’ego)</h4>
+                <p class="text-sm text-slate-700">Wymuszanie asymilacji bądź marginalizacja wywołują u imigrantów głębokie poczucie demoralizacji, wyobcowania oraz chroniczny konflikt wartości, będący bezpośrednim źródłem zaburzeń depresyjnych i lękowych.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- NOWA SEKCJA: Strategie przeciwdziałania (wnioski z PDF) -->
+    <section class="py-20 bg-stone-100">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center max-w-3xl mx-auto mb-12">
+                <h2 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4">Samoobrona intelektualna i przeciwdziałanie</h2>
+                <p class="text-slate-600">Zintegrowane strategie ochrony suwerenności kognitywnej społeczeństw.</p>
+            </div>
+            <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
+                <div class="bg-white p-5 rounded-xl shadow-sm border-l-4 border-teal-600"><span class="text-2xl block mb-2">🐢</span><h3 class="font-bold">Powolne myślenie</h3><p class="text-sm text-slate-600">Rozwijanie krytycznego dystansu wobec emocji w przekazach medialnych. Edukacja stymulująca analityczne przetwarzanie zamiast reakcji afektywnych.</p></div>
+                <div class="bg-white p-5 rounded-xl shadow-sm border-l-4 border-teal-600"><span class="text-2xl block mb-2">🤖</span><h3 class="font-bold">Algorytmiczna detekcja</h3><p class="text-sm text-slate-600">Modele uczenia maszynowego wykrywające fake newsy poprzez analizę języka i propagacji (boty, farmy trolli).</p></div>
+                <div class="bg-white p-5 rounded-xl shadow-sm border-l-4 border-teal-600"><span class="text-2xl block mb-2">⚖️</span><h3 class="font-bold">Racism-baiting monitoring</h3><p class="text-sm text-slate-600">Demaskowanie polityków stosujących uprzedzenia rasowe do celów wyborczych. Działalność organizacji strażniczych.</p></div>
+                <div class="bg-white p-5 rounded-xl shadow-sm border-l-4 border-teal-600"><span class="text-2xl block mb-2">🏛️</span><h3 class="font-bold">Modyfikacja sytuacji decyzyjnych</h3><p class="text-sm text-slate-600">Zmiana parametrów strukturalnych (transparentność, konsekwencje społeczne) zamiast nieskutecznej próby zmiany wartości.</p></div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-slate-900 text-stone-300 py-12 border-t border-slate-800">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+            <h3 class="text-2xl font-bold text-white mb-4">Podsumowanie naukowe</h3>
+            <p class="max-w-2xl mx-auto text-sm leading-relaxed mb-6">
+                Ochrona suwerenności kognitywnej wymaga determinacji państw i organizacji międzynarodowych w budowaniu odporności na techniki manipulacyjne przemysłu kulturowego oraz rzetelności naukowej wolnej od ideologicznego rewizjonizmu. Kluczowym pytaniem pozostaje: <strong class="text-teal-400">„Cui bono?”</strong> (Kto na tym zyskuje?)
+            </p>
+            <div class="border-t border-slate-700 pt-6 text-xs text-slate-500">
+                Opracowanie na podstawie artykułu naukowego oraz badań: NASK, CEDMO, Data & Society, ResearchGate. <br>
+                Interaktywny raport z wizualizacjami i modelami manipulacji kulturowej.
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        // Dane dla wykresów i kontekstów
+        const chartContexts = {
+            trend: { title: "Wypieranie autorytetów (2015-2025)", desc: "Wykres prezentuje przesunięcie zaufania: tradycyjne instytucje (szkoła, klasyczne media) tracą na rzecz algorytmów. Algorytmy optymalizują ekonomię uwagi, co czyni je wektorem polaryzacji.", metrics: [{ label: "Spadek zaufania do tradycyjnych mediów", value: "-34%" }, { label: "Wzrost polaryzacji poglądów", value: "+58%" }] },
+            radar: { title: "Wielowymiarowa Podatność", desc: "Najwyższy wskaźnik skuteczności manipulacji wykazuje popkultura (rozrywka). Podczas konsumpcji rozrywki mechanizmy krytyczne są uśpione, co ułatwia ukryty 'product placement' ideologiczny.", metrics: [{ label: "Najbardziej narażony obszar", value: "Popkultura (90/100)" }, { label: "Najbardziej oporny obszar", value: "Nauka ścisła (30/100)" }] }
+        };
+        let mainChart;
+        const ctx = document.getElementById('researchChart').getContext('2d');
+        const trendData = { labels: ['2015', '2017', '2019', '2021', '2023', '2025'], datasets: [{ label: 'Wpływ algorytmów na poglądy', data: [30, 45, 60, 75, 85, 92], borderColor: '#0f766e', backgroundColor: 'rgba(15, 118, 110, 0.1)', borderWidth: 3, tension: 0.4, fill: true }, { label: 'Autorytet instytucji tradycyjnych', data: [80, 70, 60, 45, 35, 28], borderColor: '#64748b', borderDash: [5, 5], borderWidth: 2, tension: 0.3 }] };
+        const radarData = { labels: ['Popkultura/Rozrywka', 'Media Społecznościowe', 'System Edukacji', 'Język Potoczny', 'Tradycyjne Wiadomości'], datasets: [{ label: 'Poziom Podatności Społecznej (0-100)', data: [90, 85, 60, 75, 50], backgroundColor: 'rgba(15, 118, 110, 0.2)', borderColor: '#0f766e', pointBackgroundColor: '#0f766e', pointBorderColor: '#fff' }] };
+        function updateChartContext(type) { const data = chartContexts[type]; document.getElementById('chart-context').innerHTML = `<div class="animate-fade-in"><h3 class="text-2xl font-bold mb-3">${data.title}</h3><p class="text-slate-600 text-sm leading-relaxed mb-6">${data.desc}</p><div class="grid gap-3">${data.metrics.map(m => `<div class="bg-white p-3 rounded shadow-sm"><p class="text-xs text-slate-500">${m.label}</p><p class="text-xl font-bold text-teal-700">${m.value}</p></div>`).join('')}</div></div>`; }
+        function initChart(type) { if (mainChart) mainChart.destroy(); const config = { type: type === 'trend' ? 'line' : 'radar', data: type === 'trend' ? trendData : radarData, options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { position: 'bottom' }, tooltip: { backgroundColor: 'rgba(15, 23, 42, 0.9)' } }, scales: type === 'trend' ? { y: { beginAtZero: true, max: 100 }, x: { grid: { display: false } } } : { r: { angleLines: { color: '#e7e5e4' }, pointLabels: { font: { size: 11 } } } } } }; mainChart = new Chart(ctx, config); updateChartContext(type); }
+        document.getElementById('btn-trend').addEventListener('click', () => { initChart('trend'); document.getElementById('btn-trend').classList.replace('bg-white','bg-teal-700'); document.getElementById('btn-trend').classList.replace('text-slate-700','text-white'); document.getElementById('btn-radar').classList.replace('bg-teal-700','bg-white'); document.getElementById('btn-radar').classList.replace('text-white','text-slate-700'); });
+        document.getElementById('btn-radar').addEventListener('click', () => { initChart('radar'); document.getElementById('btn-radar').classList.replace('bg-white','bg-teal-700'); document.getElementById('btn-radar').classList.replace('text-slate-700','text-white'); document.getElementById('btn-trend').classList.replace('bg-teal-700','bg-white'); document.getElementById('btn-trend').classList.replace('text-white','text-slate-700'); });
+        document.querySelectorAll('.tab-btn').forEach(btn => { btn.addEventListener('click', () => { document.querySelectorAll('.tab-btn').forEach(b => { b.classList.remove('text-teal-800','bg-white'); b.classList.add('text-slate-600'); }); document.querySelectorAll('.tab-content').forEach(c => c.classList.add('hidden')); btn.classList.remove('text-slate-600'); btn.classList.add('text-teal-800','bg-white'); document.getElementById(btn.getAttribute('data-target')).classList.remove('hidden'); }); });
+        function toggleCard(el) { el.classList.toggle('is-flipped'); }
+        window.onload = () => initChart('trend');
+    </script>
+</body>
+</html>

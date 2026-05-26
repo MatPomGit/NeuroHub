@@ -399,6 +399,7 @@
         const btnTrend = document.getElementById('btn-trend');
         const btnRadar = document.getElementById('btn-radar');
         function initAdditionalCharts() {
+            if (typeof Chart === 'undefined') return;
             const channelsCtx = document.getElementById('channelsChart');
             const emotionCtx = document.getElementById('emotionChart');
             if (!channelsCtx || !emotionCtx) return;

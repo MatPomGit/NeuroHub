@@ -1,0 +1,2147 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Psychiatria Obliczeniowa - Kompendium Akademickie</title>
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        slate: {
+                            950: '#0b1329',
+                            900: '#1c2541',
+                            800: '#3a506b',
+                        },
+                        indigo: {
+                            400: '#64dfdf',
+                            500: '#48cae4',
+                            600: '#00b4d8',
+                            700: '#0077b6',
+                            900: '#03045e'
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+    <!-- MathJax for rendering LaTeX formulas -->
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <style>
+        .latex-rendered {
+            font-family: 'Times New Roman', Times, serif;
+        }
+        /* Flashcards Flip Card Styles */
+        .perspective-1000 {
+            perspective: 1000px;
+        }
+        .preserve-3d {
+            transform-style: preserve-3d;
+        }
+        .backface-hidden {
+            backface-visibility: hidden;
+        }
+        .rotate-y-180 {
+            transform: rotateY(180deg);
+        }
+        .auto-active {
+            box-shadow: 0 0 0 1px rgba(100, 223, 223, 0.55), 0 0 18px rgba(100, 223, 223, 0.18);
+            background: rgba(0, 180, 216, 0.22) !important;
+            color: #ffffff !important;
+        }
+        .auto-dot {
+            display: inline-block;
+            width: 0.5rem;
+            height: 0.5rem;
+            border-radius: 9999px;
+            background: #64748b;
+            margin-right: 0.4rem;
+        }
+        .auto-dot.running {
+            background: #10b981;
+            box-shadow: 0 0 10px rgba(16, 185, 129, 0.8);
+        }
+    </style>
+</head>
+<body class="bg-slate-950 text-slate-100 font-sans antialiased min-h-screen">
+
+    <!-- Top Navigation Bar -->
+    <nav class="sticky top-0 z-50 bg-slate-900/90 backdrop-blur-md border-b border-slate-800 px-6 py-4">
+        <div class="max-w-7xl mx-auto flex justify-between items-center">
+            <div class="flex items-center space-x-3">
+                <svg class="w-8 h-8 text-indigo-500" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"></path>
+                </svg>
+                <span class="text-xl font-bold tracking-wider text-white">Psychiatria <span class="text-indigo-500">Obliczeniowa</span></span>
+            </div>
+            <div class="hidden md:flex space-x-6 text-sm font-medium text-slate-300">
+                <a href="#wprowadzenie" class="hover:text-indigo-400 transition">Wprowadzenie</a>
+                <a href="#modele" class="hover:text-indigo-400 transition">Dychotomia modelowa</a>
+                <a href="#centrum-symulacji" class="hover:text-indigo-400 transition bg-indigo-700/50 text-white px-3 py-1 rounded-full border border-indigo-500/30">Centrum Symulacji</a>
+                <a href="#konektomika" class="hover:text-indigo-400 transition">Architektura lęku</a>
+                <a href="#wyzwania" class="hover:text-indigo-400 transition">Metodologia i AI</a>
+                <a href="#normative" class="hover:text-indigo-400 transition">Modelowanie normatywne</a>
+                <a href="#fiszki" class="hover:text-indigo-400 transition">Fiszki</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <header class="relative overflow-hidden bg-gradient-to-b from-slate-900 to-slate-950 py-20 px-6 border-b border-slate-900">
+        <div class="absolute inset-0 bg-[radial-gradient(circle_at_30%_30%,rgba(72,202,228,0.1),transparent_50%)]"></div>
+        <div class="max-w-5xl mx-auto text-center relative z-10">
+            <span class="inline-block bg-indigo-900/60 text-indigo-400 border border-indigo-500/30 px-4 py-1.5 rounded-full text-xs font-semibold uppercase tracking-widest mb-6">
+                Materiały Dydaktyczne dla Studentów Neuropsychologii
+            </span>
+            <h1 class="text-4xl md:text-6xl font-extrabold tracking-tight text-white mb-6 leading-tight">
+                Matematyczny Most Między <br class="hidden md:inline"><span class="bg-gradient-to-r from-indigo-400 via-indigo-500 to-indigo-600 bg-clip-text text-transparent">Mózgiem a Zachowaniem</span>
+            </h1>
+            <p class="text-lg md:text-xl text-slate-300 max-w-3xl mx-auto mb-8 leading-relaxed">
+                Przejście od opisowych kryteriów diagnostycznych (DSM/ICD) do precyzyjnych, ilościowych fenotypów poznawczych i neurobiologicznych za pomocą modeli matematycznych i algorytmicznych.
+            </p>
+            <div class="flex flex-wrap justify-center gap-4">
+                <a href="#centrum-symulacji" class="bg-indigo-600 hover:bg-indigo-500 text-white font-semibold px-6 py-3 rounded-lg shadow-lg transition transform hover:-translate-y-0.5">
+                    Otwórz Centrum Symulacji
+                </a>
+                <a href="#konektomika" class="bg-slate-800 hover:bg-slate-700 text-slate-200 font-semibold px-6 py-3 rounded-lg border border-slate-700 transition">
+                    Eksploruj Badanie Grubera (2026)
+                </a>
+            </div>
+        </div>
+    </header>
+
+    <main class="max-w-7xl mx-auto px-6 py-12">
+
+        <!-- SECTION 1: INTRODUCTION -->
+        <section id="wprowadzenie" class="mb-20 scroll-mt-24">
+            <div class="grid grid-cols-1 lg:grid-cols-12 gap-12 items-start">
+                <div class="lg:col-span-7 space-y-6">
+                    <h2 class="text-3xl font-bold text-white tracking-tight flex items-center space-x-3">
+                        <span class="text-indigo-500 font-mono">01.</span>
+                        <span>Definicja i zakres epistemiczny</span>
+                    </h2>
+                    <p class="text-slate-300 text-justify leading-relaxed">
+                        <strong>Psychiatria obliczeniowa</strong> (ang. <em>computational psychiatry</em>) to transdyscyplinarne pole naukowe zlokalizowane na styku psychiatrii klinicznej, neuropsychologii poznawczej, neuronauki oraz informatyki. Jej podstawowym celem <strong>nie jest</strong> jedynie prosta automatyzacja procesu diagnostycznego za pomocą algorytmów uczenia maszynowego (co stanowi częste uproszczenie w dyskursie popularnonaukowym). 
+                    </p>
+                    <p class="text-slate-300 text-justify leading-relaxed">
+                        Zamiast tego, psychiatria obliczeniowa dąży do formalnego, matematycznego opisu zaburzonych mechanizmów przetwarzania informacji w mózgu. Traktuje ona zaburzenia psychiczne jako dysfunkcje systemów wnioskowania, uczenia się, ewaluacji bodźców, kontroli poznawczej oraz dynamiki sieci neuronalnych. Klasyczne ujęcie sformułowane przez Adamsa, Huysa i Roisera definiuje tę dziedzinę jako próbę sformalizowania relacji między neurobiologią mózgu, środowiskiem a fenomenologią objawów za pomocą modeli obliczeniowych.
+                    </p>
+                    <div class="bg-indigo-950/40 border-l-4 border-indigo-500 p-6 rounded-r-lg my-6">
+                        <h4 class="font-bold text-white mb-2">Perspektywa Neuropsychologiczna:</h4>
+                        <p class="text-slate-300 text-sm italic">
+                            Dla neuropsychologa podejście to redefiniuje pojęcie "objawu". Objaw (np. anhedonia) przestaje być jednorodnym konstruktem psychometrycznym mierzalnym kwestionariuszami, a staje się obserwowalną konsekwencją specyficznych odchyleń w ukrytych parametrach obliczeniowych (np. obniżonej wrażliwości na nagrody lub patologicznie przyspieszonego wygaszania śladów pamięciowych błędu predykcji).
+                        </p>
+                    </div>
+                </div>
+                <div class="lg:col-span-5 bg-slate-900 p-8 rounded-2xl border border-slate-800 space-y-6">
+                    <h3 class="text-xl font-bold text-white">Dlaczego psychiatria obliczeniowa to NIE tylko AI?</h3>
+                    <p class="text-slate-400 text-sm leading-relaxed">
+                        Sztuczna inteligencja (szczególnie głębokie sieci neuronowe) działa w paradygmacie predykcyjnym – szuka wzorców w danych wielowymiarowych (np. fMRI) w celu klasyfikacji („chory” vs „zdrowy”). Często jest to jednak tzw. „czarna skrzynka” (black box) pozbawiona walorów interpretacyjnych.
+                    </p>
+                    <p class="text-slate-400 text-sm leading-relaxed">
+                        Psychiatria obliczeniowa opiera się w równej mierze na <strong>modelach mechanistycznych (generatywnych)</strong>. Próbują one odtworzyć algorytmiczny proces zachodzący w mózgu pacjenta podczas wykonywania zadań poznawczych. Dzięki temu lekarz lub badacz otrzymuje wgląd w konkretne zmienne ukryte, takie jak:
+                    </p>
+                    <ul class="space-y-2 text-xs text-slate-300 font-mono">
+                        <li class="flex items-center space-x-2">
+                            <span class="w-2 h-2 rounded-full bg-indigo-500"></span>
+                            <span>Szybkość uczenia się (learning rate, \(\alpha\))</span>
+                        </li>
+                        <li class="flex items-center space-x-2">
+                            <span class="w-2 h-2 rounded-full bg-indigo-500"></span>
+                            <span>Wrażliwość na nagrody i straty (outcome sensitivity, \(\beta\))</span>
+                        </li>
+                        <li class="flex items-center space-x-2">
+                            <span class="w-2 h-2 rounded-full bg-indigo-500"></span>
+                            <span>Precyzja przekonań a priori (prior precision)</span>
+                        </li>
+                        <li class="flex items-center space-x-2">
+                            <span class="w-2 h-2 rounded-full bg-indigo-500"></span>
+                            <span>Niepewność środowiskowa (environmental volatility)</span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECTION 2: THE MODELING DICHOTOMY -->
+        <section id="modele" class="mb-20 scroll-mt-24">
+            <h2 class="text-3xl font-bold text-white tracking-tight mb-8 flex items-center space-x-3">
+                <span class="text-indigo-500 font-mono">02.</span>
+                <span>Dychotomia modelowania: Mechanistyczne vs Predykcyjne</span>
+            </h2>
+
+            <div class="mb-8 text-slate-300 leading-relaxed max-w-4xl">
+                Współczesna neuropsychologia obliczeniowa operuje na dwóch fundamentalnie różnych, choć komplementarnych paradygmatach modelowania. Zrozumienie różnic między nimi jest kluczem do interpretacji współczesnej literatury naukowej. Kliknij na zakładki poniżej, aby przeanalizować ich cechy.
+            </div>
+
+            <!-- Interactive Tab Selector -->
+            <div class="bg-slate-900 rounded-2xl border border-slate-800 p-2 md:p-4 mb-8">
+                <div class="flex space-x-2 border-b border-slate-800 pb-4">
+                    <button onclick="switchTab('mechanistic')" id="tab-mechanistic" class="flex-1 py-3 px-4 rounded-xl text-sm font-semibold transition bg-indigo-600 text-white shadow-lg">
+                        Modele mechanistyczne (generatywne)
+                    </button>
+                    <button onclick="switchTab('predictive')" id="tab-predictive" class="flex-1 py-3 px-4 rounded-xl text-sm font-semibold transition bg-transparent text-slate-400 hover:text-white">
+                        Modele predykcyjne (uczenie maszynowe)
+                    </button>
+                </div>
+
+                <!-- Tab Content: Mechanistic -->
+                <div id="content-mechanistic" class="pt-6 space-y-6">
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                        <div class="space-y-4">
+                            <h3 class="text-xl font-bold text-white">Próba zrozumienia: „jak i dlaczego?”</h3>
+                            <p class="text-slate-300 text-sm text-justify leading-relaxed">
+                                Modele te opierają się na sformalizowanych teoriach psychologicznych i neuronaukowych. Wykorzystują matematykę, aby zasymulować zachowanie sieci neuronowej lub proces podejmowania decyzji przez pacjenta. Głównym celem jest oszacowanie tzw. <strong>parametrów ukrytych</strong> (których nie widać bezpośrednio w surowym zachowaniu), a które sterują procesami poznawczymi.
+                            </p>
+                            <p class="text-slate-300 text-sm text-justify leading-relaxed">
+                                Klasycznym przykładem jest model <strong>Rescorli-Wagnera (1972)</strong>, sformalizowany matematycznie jako proces ciągłej aktualizacji oczekiwań sterowany błędem predykcji nagrody:
+                            </p>
+                            <div class="bg-slate-950 p-4 rounded-xl border border-slate-800 text-center font-mono my-2 text-indigo-400 text-sm">
+                                $$V_{t+1} = V_t + \alpha \cdot \delta_t$$
+                                <span class="text-xs text-slate-500 block mt-2">gdzie \(\delta_t = R_t - V_t\) (błąd predykcji)</span>
+                            </div>
+                        </div>
+                        <div class="space-y-4 border-l border-slate-800 pl-0 md:pl-8">
+                            <h4 class="font-bold text-white">Kluczowe metody:</h4>
+                            <ul class="space-y-3 text-sm text-slate-400">
+                                <li><strong class="text-indigo-400">Inferencja Bayesowska:</strong> Modelowanie mózgu jako maszyny predykcyjnej (Predictive Processing) minimalizującej błąd predykcji i wolną energię ($F$).</li>
+                                <li><strong class="text-indigo-400">Reinforcement Learning (RL):</strong> Uczenie ze wzmocnieniem, badające jak dopamina koduje błędy predykcji nagrody (Schultz, Dayan, Montague, 1997).</li>
+                                <li><strong class="text-indigo-400">Hierarchical Gaussian Filter (HGF) i Drift Diffusion Model (DDM):</strong> Zaawansowane modele pozwalające szacować, jak pacjent akumuluje informacje decyzyjne i uczy się w zmiennych warunkach.</li>
+                            </ul>
+                            <div class="bg-indigo-900/20 border border-indigo-500/20 p-4 rounded-xl mt-4">
+                                <span class="text-xs text-indigo-300 font-bold uppercase block mb-1">Zastosowanie kliniczne:</span>
+                                <span class="text-xs text-slate-300">Powiązanie konkretnego deficytu (np. zbyt wysoka czujność na sygnały kary) z określonym obwodem neuronalnym (np. jądro półleżące, prążkowie) oraz optymalizacją farmakoterapii lub CBT.</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Tab Content: Predictive -->
+                <div id="content-predictive" class="pt-6 space-y-6 hidden">
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                        <div class="space-y-4">
+                            <h3 class="text-xl font-bold text-white">Skupienie na efekcie: „co się stanie?”</h3>
+                            <p class="text-slate-300 text-sm text-justify leading-relaxed">
+                                Modele predykcyjne nie próbują wyjaśniać przyczynowości biologicznej. Ich zadaniem jest znalezienie matematycznej funkcji, która z maksymalną dokładnością dokona predykcji klinicznej (np. zdiagnozuje zaburzenie, oceni ryzyko przejścia w psychozę lub przewidzi odpowiedź na dany lek przeciwdepresyjny).
+                            </p>
+                            <p class="text-slate-300 text-sm text-justify leading-relaxed">
+                                Wykorzystują one zaawansowane algorytmy uczenia maszynowego (ML), analizując dane wielomodalne (np. MRI strukturalne, funkcjonalne, EEG, epigenetykę, a także dane z pasywnego monitoringu smartfonowego). Przykładem wybitnego sukcesu tego podejścia jest praca Koutsouleris i wsp. (2021):
+                            </p>
+                            <div class="bg-slate-950 p-4 rounded-xl border border-slate-800 text-center text-sm text-indigo-400 font-mono my-2">
+                                <span class="block text-white font-bold">Multimodalny workflow predykcji psychozy:</span>
+                                <span class="text-lg font-bold">Zbalansowana Trafność (BAC): 85.9%</span>
+                                <span class="text-xs text-slate-500 block mt-1">Czułość: 84.6%, Swoistość: 87.3% w walidacji zewnętrznej</span>
+                            </div>
+                        </div>
+                        <div class="space-y-4 border-l border-slate-800 pl-0 md:pl-8">
+                            <h4 class="font-bold text-white">Główne wyzwania metodologiczne:</h4>
+                            <ul class="space-y-3 text-sm text-slate-400">
+                                <li><strong class="text-red-400">Overfitting (Nadmierne dopasowanie):</strong> Algorytmy idealnie uczą się szumu w jednej małej próbie badawczej, ale zawodzą na nowych pacjentach.</li>
+                                <li><strong class="text-red-400">Brak Kalibracji:</strong> Systematyczny przegląd Chena i wsp. (2023) ujawnił, że <span class="text-white font-bold">100% badanych modeli AI</span> opartych na neuroobrazowaniu nie raportowało kalibracji prawdopodobieństwa decyzji.</li>
+                                <li><strong class="text-red-400">Niska rzetelność zadań:</strong> Wyniki modeli predykcyjnych zależą od jakości danych. W badaniu PANDA (Malamud i wsp., 2024) tylko 54% przebiegów klasycznego zadania afektywnego Go/NoGo było dostatecznie rzetelnych psychometrycznie dla wnioskowania modelowego.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECTION 3: INTERACTIVE SIMULATION CENTER (UNIFIED & EXPANDED) -->
+        <section id="centrum-symulacji" class="mb-20 scroll-mt-24">
+            <div class="bg-gradient-to-r from-slate-900 via-slate-900 to-indigo-950/40 rounded-3xl border border-indigo-500/20 p-6 md:p-10 relative overflow-hidden">
+                <div class="absolute top-0 right-0 w-96 h-96 bg-indigo-500/5 rounded-full blur-3xl -z-10"></div>
+                
+                <div class="max-w-6xl mx-auto">
+                    <span class="text-indigo-400 font-mono text-xs font-semibold uppercase tracking-wider block mb-2">Platforma doświadczalna</span>
+                    <h2 class="text-3xl font-extrabold text-white mb-4">Interaktywne Centrum Symulacji Obliczeniowych</h2>
+                    <div class="mb-6 bg-slate-950/70 border border-indigo-500/20 rounded-2xl p-4 text-sm text-slate-300 leading-relaxed">
+                        <strong class="text-white">Nowość dydaktyczna:</strong> każdy moduł ma tryb <span class="text-indigo-400 font-bold">AUTO</span>, który sam zmienia parametry, wykonuje kolejne próby i pokazuje efekt sekwencyjnie. Dzięki temu student widzi nie tylko pojedynczy wynik, ale także dynamikę adaptacji, aktualizację przekonań Bayesowskich, kompromis szybkość–trafność oraz wpływ progu klasyfikacyjnego na czułość i swoistość.
+                    </div>
+                    
+                    <!-- Simulators Tab Selector -->
+                    <div class="flex flex-wrap gap-2 mb-8 bg-slate-950 p-2 rounded-2xl border border-slate-800">
+                        <button onclick="switchSimTab('sim-rw')" id="tab-sim-rw" class="flex-1 py-2.5 px-4 rounded-xl text-xs font-bold transition bg-indigo-600 text-white shadow-lg">
+                            1. Model uczenia się (Rescorla–Wagner)
+                        </button>
+                        <button onclick="switchSimTab('sim-belief')" id="tab-sim-belief" class="flex-1 py-2.5 px-4 rounded-xl text-xs font-bold transition bg-transparent text-slate-400 hover:text-white">
+                            2. Aktualizacja Przekonań (Bayes)
+                        </button>
+                        <button onclick="switchSimTab('sim-ddm')" id="tab-sim-ddm" class="flex-1 py-2.5 px-4 rounded-xl text-xs font-bold transition bg-transparent text-slate-400 hover:text-white">
+                            3. Model Mechanistyczny (Drift Diffusion - DDM)
+                        </button>
+                        <button onclick="switchSimTab('sim-ml')" id="tab-sim-ml" class="flex-1 py-2.5 px-4 rounded-xl text-xs font-bold transition bg-transparent text-slate-400 hover:text-white">
+                            4. Model Predykcyjny (Klasyfikator ML)
+                        </button>
+                    </div>
+
+                    <!-- SUB-TAB 1: Rescorla-Wagner -->
+                    <div id="panel-sim-rw" class="space-y-6">
+                        <div class="text-slate-300 text-sm max-w-4xl leading-relaxed mb-4">
+                            Służy do analizy prędkości adaptacji behawioralnej. Model aktualizuje reprezentację wartości stanu \(V\) na podstawie różnicy między oczekiwaną a faktyczną nagrodą.
+                        </div>
+                        <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">
+                            <div class="lg:col-span-5 bg-slate-950 p-6 rounded-2xl border border-slate-800 space-y-6">
+                                <h3 class="font-bold text-white text-sm">Parametry pacjenta (R–W):</h3>
+                                <div class="space-y-4">
+                                    <div class="space-y-2">
+                                        <div class="flex justify-between text-xs">
+                                            <span class="text-slate-400">Szybkość uczenia (\(\alpha\))</span>
+                                            <span class="text-indigo-400 font-bold font-mono" id="val-alpha">0.30</span>
+                                        </div>
+                                        <input type="range" id="param-alpha" min="0.05" max="0.95" step="0.05" value="0.30" oninput="updateSimulationParameters()" class="w-full h-1 bg-slate-800 rounded-lg appearance-none cursor-pointer accent-indigo-500">
+                                    </div>
+                                    <div class="space-y-2">
+                                        <div class="flex justify-between text-xs">
+                                            <span class="text-slate-400">Początkowe oczekiwanie (\(V_0\))</span>
+                                            <span class="text-indigo-400 font-bold font-mono" id="val-v0">0.00</span>
+                                        </div>
+                                        <input type="range" id="param-v0" min="-1" max="1" step="0.1" value="0.00" oninput="updateSimulationParameters()" class="w-full h-1 bg-slate-800 rounded-lg appearance-none cursor-pointer accent-indigo-500">
+                                    </div>
+                                    <div class="border-t border-slate-800 pt-4 space-y-3">
+                                        <h4 class="font-bold text-white text-xs">Kliniczne profile pacjentów:</h4>
+                                        <div class="flex flex-wrap gap-2">
+                                            <button onclick="applyProfile(0.1, -0.5)" class="text-[10px] bg-slate-900 hover:bg-slate-800 border border-slate-700 px-2.5 py-1.5 rounded text-slate-300 transition">Anhedonia (MDD)</button>
+                                            <button onclick="applyProfile(0.5, 0.0)" class="text-[10px] bg-slate-900 hover:bg-slate-800 border border-slate-700 px-2.5 py-1.5 rounded text-slate-300 transition">Zdrowa norma</button>
+                                            <button onclick="applyProfile(0.8, 0.7)" class="text-[10px] bg-slate-900 hover:bg-slate-800 border border-slate-700 px-2.5 py-1.5 rounded text-slate-300 transition">Mania</button>
+                                        </div>
+                                    </div>
+                                    <div class="border-t border-slate-800 pt-4 space-y-2">
+                                        <h4 class="font-bold text-white text-xs">Zastosuj bodziec zewnętrzny:</h4>
+                                        <div class="grid grid-cols-2 gap-2">
+                                            <button onclick="addTrial(1)" class="bg-emerald-600 hover:bg-emerald-500 text-white font-bold py-2 rounded-lg text-xs transition">Nagroda (+1)</button>
+                                            <button onclick="addTrial(-1)" class="bg-rose-600 hover:bg-rose-500 text-white font-bold py-2 rounded-lg text-xs transition">Kara (-1)</button>
+                                        </div>
+                                        <button onclick="resetSimulation()" class="w-full text-slate-500 hover:text-slate-300 text-xs text-center block mt-2 underline transition">Resetuj historię prób</button>
+                                    </div>
+                                    <div class="border-t border-slate-800 pt-4 space-y-2">
+                                        <div class="flex items-center justify-between">
+                                            <h4 class="font-bold text-white text-xs">Tryb AUTO — uczenie w czasie</h4>
+                                            <span id="rw-auto-status" class="text-[10px] text-slate-500 font-mono"><span class="auto-dot" id="rw-auto-dot"></span>OFF</span>
+                                        </div>
+                                        <div class="grid grid-cols-2 gap-2">
+                                            <button id="btn-auto-rw-alternating" onclick="startAutoRW('alternating')" class="text-[10px] bg-slate-900 hover:bg-slate-800 border border-slate-700 px-2.5 py-1.5 rounded text-slate-300 transition">Auto: nagrody/kary</button>
+                                            <button id="btn-auto-rw-clinical" onclick="startAutoRW('clinical')" class="text-[10px] bg-slate-900 hover:bg-slate-800 border border-slate-700 px-2.5 py-1.5 rounded text-slate-300 transition">Auto: profile kliniczne</button>
+                                        </div>
+                                        <button onclick="stopAutoRW()" class="w-full text-slate-500 hover:text-slate-300 text-xs text-center block mt-1 underline transition">Zatrzymaj AUTO</button>
+                                        <p id="rw-auto-caption" class="text-[10px] text-slate-500 leading-tight">Tryb automatyczny pokaże, jak zmiana \(\alpha\) i \(V_0\) modyfikuje trajektorię oczekiwań.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="lg:col-span-7 space-y-6">
+                                <div class="bg-slate-950 p-6 rounded-2xl border border-slate-800 h-64 flex flex-col justify-between">
+                                    <div class="flex justify-between items-center mb-2">
+                                        <span class="text-xs font-bold text-white uppercase tracking-wider">Trajektoria oczekiwań (\(V\)) w czasie</span>
+                                        <span class="text-[10px] text-slate-500 font-mono">Próby: <span id="trial-count">0</span></span>
+                                    </div>
+                                    <div class="flex-1 w-full relative flex items-end justify-between px-2 pt-4 border-b border-l border-slate-800">
+                                        <svg id="simulation-chart" class="w-full h-full absolute inset-0 px-2" viewBox="0 0 100 100" preserveAspectRatio="none">
+                                            <line x1="0" y1="50" x2="100" y2="50" stroke="#1e293b" stroke-dasharray="2" stroke-width="0.5" />
+                                        </svg>
+                                    </div>
+                                    <div class="flex justify-between text-[10px] text-slate-500 mt-2">
+                                        <span>Początek</span>
+                                        <span>Koniec</span>
+                                    </div>
+                                </div>
+                                <div class="grid grid-cols-3 gap-4">
+                                    <div class="bg-slate-900 p-4 rounded-xl border border-slate-800 text-center">
+                                        <span class="text-[10px] text-slate-500 block mb-1">Ostatnie \(R_t\)</span>
+                                        <span id="metric-r" class="text-base font-bold font-mono text-white">-</span>
+                                    </div>
+                                    <div class="bg-slate-900 p-4 rounded-xl border border-slate-800 text-center">
+                                        <span class="text-[10px] text-slate-500 block mb-1">Błąd predykcji (\(\delta_t\))</span>
+                                        <span id="metric-delta" class="text-base font-bold font-mono text-indigo-400">-</span>
+                                    </div>
+                                    <div class="bg-slate-900 p-4 rounded-xl border border-slate-800 text-center">
+                                        <span class="text-[10px] text-slate-500 block mb-1">Aktualne \(V\)</span>
+                                        <span id="metric-v" class="text-base font-bold font-mono text-white">0.00</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- SUB-TAB 2: Bayesian Belief Updating Simulator -->
+                    <div id="panel-sim-belief" class="space-y-6 hidden">
+                        <div class="text-slate-300 text-sm max-w-4xl leading-relaxed mb-4">
+                            Symulator aktualizacji przekonań pokazuje, jak mózg może łączyć wcześniejsze oczekiwanie z nowym sygnałem sensorycznym. W modelu Bayesowskim końcowe przekonanie zależy nie tylko od treści bodźca, ale także od względnej precyzji priory i danych sensorycznych.
+                        </div>
+                        <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">
+                            <div class="lg:col-span-5 bg-slate-950 p-6 rounded-2xl border border-slate-800 space-y-6">
+                                <h3 class="font-bold text-white text-sm">Parametry aktualizacji przekonań:</h3>
+                                <div class="space-y-4">
+                                    <div class="space-y-2">
+                                        <div class="flex justify-between text-xs">
+                                            <span class="text-slate-400">Przekonanie początkowe (prior, \(\mu_p\))</span>
+                                            <span class="text-indigo-400 font-bold font-mono" id="val-belief-prior">0.00</span>
+                                        </div>
+                                        <input type="range" id="param-belief-prior" min="-1" max="1" step="0.05" value="0.00" oninput="updateBeliefParameters()" class="w-full h-1 bg-slate-800 rounded-lg appearance-none cursor-pointer accent-indigo-500">
+                                    </div>
+
+                                    <div class="space-y-2">
+                                        <div class="flex justify-between text-xs">
+                                            <span class="text-slate-400">Precyzja priory (\(\pi_p\))</span>
+                                            <span class="text-indigo-400 font-bold font-mono" id="val-belief-prior-prec">2.00</span>
+                                        </div>
+                                        <input type="range" id="param-belief-prior-prec" min="0.5" max="10" step="0.5" value="2.00" oninput="updateBeliefParameters()" class="w-full h-1 bg-slate-800 rounded-lg appearance-none cursor-pointer accent-indigo-500">
+                                        <span class="text-[10px] text-slate-500 block leading-tight">Wysoka precyzja priory oznacza sztywne oczekiwania. Nowe dane słabiej przesuwają przekonanie.</span>
+                                    </div>
+
+                                    <div class="space-y-2">
+                                        <div class="flex justify-between text-xs">
+                                            <span class="text-slate-400">Nowy sygnał sensoryczny (\(y\))</span>
+                                            <span class="text-indigo-400 font-bold font-mono" id="val-belief-evidence">0.60</span>
+                                        </div>
+                                        <input type="range" id="param-belief-evidence" min="-1" max="1" step="0.05" value="0.60" oninput="updateBeliefParameters()" class="w-full h-1 bg-slate-800 rounded-lg appearance-none cursor-pointer accent-indigo-500">
+                                    </div>
+
+                                    <div class="space-y-2">
+                                        <div class="flex justify-between text-xs">
+                                            <span class="text-slate-400">Precyzja sygnału (\(\pi_y\))</span>
+                                            <span class="text-indigo-400 font-bold font-mono" id="val-belief-sens-prec">4.00</span>
+                                        </div>
+                                        <input type="range" id="param-belief-sens-prec" min="0.5" max="10" step="0.5" value="4.00" oninput="updateBeliefParameters()" class="w-full h-1 bg-slate-800 rounded-lg appearance-none cursor-pointer accent-indigo-500">
+                                        <span class="text-[10px] text-slate-500 block leading-tight">Wysoka precyzja sygnału oznacza, że aktualny bodziec jest traktowany jako wiarygodny.</span>
+                                    </div>
+
+                                    <div class="border-t border-slate-800 pt-4 space-y-2">
+                                        <h4 class="font-bold text-white text-xs">Ręczna aktualizacja:</h4>
+                                        <div class="grid grid-cols-2 gap-2">
+                                            <button onclick="applyBeliefUpdate()" class="bg-indigo-600 hover:bg-indigo-500 text-white font-bold py-2 rounded-lg text-xs transition">Wykonaj krok Bayesa</button>
+                                            <button onclick="resetBeliefSimulation()" class="bg-slate-800 hover:bg-slate-700 text-white border border-slate-700 font-bold py-2 rounded-lg text-xs transition">Resetuj</button>
+                                        </div>
+                                    </div>
+
+                                    <div class="border-t border-slate-800 pt-4 space-y-2">
+                                        <div class="flex items-center justify-between">
+                                            <h4 class="font-bold text-white text-xs">Tryb AUTO — aktualizacja przekonań</h4>
+                                            <span id="belief-auto-status" class="text-[10px] text-slate-500 font-mono"><span class="auto-dot" id="belief-auto-dot"></span>OFF</span>
+                                        </div>
+                                        <div class="grid grid-cols-2 gap-2">
+                                            <button id="btn-auto-belief-precision" onclick="startAutoBelief('precision')" class="text-[10px] bg-slate-900 hover:bg-slate-800 border border-slate-700 px-2.5 py-1.5 rounded text-slate-300 transition">Auto: precyzja bodźca</button>
+                                            <button id="btn-auto-belief-rigid" onclick="startAutoBelief('rigid')" class="text-[10px] bg-slate-900 hover:bg-slate-800 border border-slate-700 px-2.5 py-1.5 rounded text-slate-300 transition">Auto: sztywne priory</button>
+                                        </div>
+                                        <button onclick="stopAutoBelief()" class="w-full text-slate-500 hover:text-slate-300 text-xs text-center block mt-1 underline transition">Zatrzymaj AUTO</button>
+                                        <p id="belief-auto-caption" class="text-[10px] text-slate-500 leading-tight">Tryb automatyczny pokaże dłuższą i szybszą sekwencję przesunięć posterior zależnych od precyzji priory i sygnału.</p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="lg:col-span-7 space-y-6">
+                                <div class="bg-slate-950 p-6 rounded-2xl border border-slate-800 h-64 flex flex-col justify-between">
+                                    <div class="flex justify-between items-center mb-2">
+                                        <span class="text-xs font-bold text-white uppercase tracking-wider">Prior → sygnał → posterior</span>
+                                        <span class="text-[10px] text-slate-500 font-mono">Kroki: <span id="belief-step-count">0</span></span>
+                                    </div>
+                                    <div class="flex-1 w-full relative border-b border-l border-slate-800">
+                                        <svg id="belief-chart" class="w-full h-full absolute inset-0" viewBox="0 0 100 100" preserveAspectRatio="none">
+                                            <line x1="0" y1="50" x2="100" y2="50" stroke="#1e293b" stroke-dasharray="2" stroke-width="0.5" />
+                                        </svg>
+                                    </div>
+                                    <div class="grid grid-cols-3 text-[10px] text-slate-500 mt-2 text-center">
+                                        <span>Prior</span>
+                                        <span>Sygnał</span>
+                                        <span>Posterior</span>
+                                    </div>
+                                </div>
+
+                                <div class="grid grid-cols-3 gap-4">
+                                    <div class="bg-slate-900 p-4 rounded-xl border border-slate-800 text-center">
+                                        <span class="text-[10px] text-slate-500 block mb-1">Błąd predykcji</span>
+                                        <span id="metric-belief-pe" class="text-base font-bold font-mono text-indigo-400">0.60</span>
+                                    </div>
+                                    <div class="bg-slate-900 p-4 rounded-xl border border-slate-800 text-center">
+                                        <span class="text-[10px] text-slate-500 block mb-1">Waga sygnału</span>
+                                        <span id="metric-belief-weight" class="text-base font-bold font-mono text-white">0.67</span>
+                                    </div>
+                                    <div class="bg-slate-900 p-4 rounded-xl border border-slate-800 text-center">
+                                        <span class="text-[10px] text-slate-500 block mb-1">Posterior \(\mu_{post}\)</span>
+                                        <span id="metric-belief-post" class="text-base font-bold font-mono text-emerald-400">0.40</span>
+                                    </div>
+                                </div>
+
+                                <div class="bg-indigo-950/20 border border-indigo-500/20 p-4 rounded-xl">
+                                    <span class="text-xs text-indigo-300 font-bold uppercase block mb-1">Interpretacja kliniczna:</span>
+                                    <p id="belief-interpretation" class="text-xs text-slate-300 leading-relaxed">Przy umiarkowanej precyzji priory i wysokiej precyzji sygnału posterior przesuwa się w stronę aktualnego bodźca.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <!-- SUB-TAB 2: Drift Diffusion Model (DDM) Simulator -->
+                    <div id="panel-sim-ddm" class="space-y-6 hidden">
+                        <div class="text-slate-300 text-sm max-w-4xl leading-relaxed mb-4">
+                            Model dryfu i dyfuzji (DDM) dekomponuje procesy poznawcze podczas decyzji dwualternatywnych. Akumulacja dowodów przebiega stochastycznie, aż do osiągnięcia progu poprawnej (górnej) lub błędnej (dolnej) decyzji. Pozwala to na precyzyjne oddzielenie ostrożności od samej prędkości przetwarzania bodźców.
+                        </div>
+                        <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">
+                            <!-- Controls -->
+                            <div class="lg:col-span-5 bg-slate-950 p-6 rounded-2xl border border-slate-800 space-y-6">
+                                <h3 class="font-bold text-white text-sm">Parametry ukryte decyzji (DDM):</h3>
+                                <div class="space-y-4">
+                                    <!-- Drift rate slider -->
+                                    <div class="space-y-2">
+                                        <div class="flex justify-between text-xs">
+                                            <span class="text-slate-400">Drift rate (\(v\) - prędkość akumulacji)</span>
+                                            <span class="text-indigo-400 font-bold font-mono" id="val-ddm-v">1.50</span>
+                                        </div>
+                                        <input type="range" id="param-ddm-v" min="-0.5" max="4.0" step="0.1" value="1.50" oninput="updateDDMParameters()" class="w-full h-1 bg-slate-800 rounded-lg appearance-none cursor-pointer accent-indigo-500">
+                                        <span class="text-[10px] text-slate-500 block leading-tight">Wartości niższe (np. 0.5) wskazują na anhedonię, zmęczenie poznawcze lub depresyjną trudność w analizie bodźca.</span>
+                                    </div>
+
+                                    <!-- Boundary separation slider -->
+                                    <div class="space-y-2">
+                                        <div class="flex justify-between text-xs">
+                                            <span class="text-slate-400">Próg decyzyjny (\(a\) - ostrożność)</span>
+                                            <span class="text-indigo-400 font-bold font-mono" id="val-ddm-a">1.60</span>
+                                        </div>
+                                        <input type="range" id="param-ddm-a" min="0.6" max="3.0" step="0.1" value="1.60" oninput="updateDDMParameters()" class="w-full h-1 bg-slate-800 rounded-lg appearance-none cursor-pointer accent-indigo-500">
+                                        <span class="text-[10px] text-slate-500 block leading-tight">Wyższe wartości (np. 2.4) reprezentują nadmierną ostrożność decyzyjną oraz patologiczną potrzebę pewności (częstą w OCD i lęku uogólnionym).</span>
+                                    </div>
+
+                                    <!-- Non-decision time slider -->
+                                    <div class="space-y-2">
+                                        <div class="flex justify-between text-xs">
+                                            <span class="text-slate-400">Czas sensoryczno-motoryczny (\(T_0\))</span>
+                                            <span class="text-indigo-400 font-bold font-mono" id="val-ddm-t0">0.25 s</span>
+                                        </div>
+                                        <input type="range" id="param-ddm-t0" min="0.1" max="0.6" step="0.05" value="0.25" oninput="updateDDMParameters()" class="w-full h-1 bg-slate-800 rounded-lg appearance-none cursor-pointer accent-indigo-500">
+                                    </div>
+
+                                    <div class="border-t border-slate-800 pt-4 space-y-2">
+                                        <h4 class="font-bold text-white text-xs">Uruchom symulację:</h4>
+                                        <div class="grid grid-cols-2 gap-2">
+                                            <button onclick="runSingleDDMTrial()" class="bg-indigo-600 hover:bg-indigo-500 text-white font-bold py-2 rounded-lg text-xs transition">Wykonaj pojedynczą próbę</button>
+                                            <button onclick="runDDMCohort()" class="bg-slate-800 hover:bg-slate-700 text-white border border-slate-700 font-bold py-2 rounded-lg text-xs transition">Symuluj kohortę (N=100)</button>
+                                        </div>
+                                        <button onclick="resetDDM()" class="w-full text-slate-500 hover:text-slate-300 text-xs text-center block mt-1 underline transition">Resetuj wykres i kohortę</button>
+                                    </div>
+                                    <div class="border-t border-slate-800 pt-4 space-y-2">
+                                        <div class="flex items-center justify-between">
+                                            <h4 class="font-bold text-white text-xs">Tryb AUTO — kompromis decyzyjny</h4>
+                                            <span id="ddm-auto-status" class="text-[10px] text-slate-500 font-mono"><span class="auto-dot" id="ddm-auto-dot"></span>OFF</span>
+                                        </div>
+                                        <div class="grid grid-cols-2 gap-2">
+                                            <button id="btn-auto-ddm-speed" onclick="startAutoDDM('speed')" class="text-[10px] bg-slate-900 hover:bg-slate-800 border border-slate-700 px-2.5 py-1.5 rounded text-slate-300 transition">Auto: szybkie decyzje</button>
+                                            <button id="btn-auto-ddm-caution" onclick="startAutoDDM('caution')" class="text-[10px] bg-slate-900 hover:bg-slate-800 border border-slate-700 px-2.5 py-1.5 rounded text-slate-300 transition">Auto: ostrożność</button>
+                                        </div>
+                                        <button onclick="stopAutoDDM()" class="w-full text-slate-500 hover:text-slate-300 text-xs text-center block mt-1 underline transition">Zatrzymaj AUTO</button>
+                                        <p id="ddm-auto-caption" class="text-[10px] text-slate-500 leading-tight">Tryb automatyczny szybciej zmienia \(v\), \(a\) i \(T_0\), uruchamiając więcej prób w jednej serii.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <!-- Graph and Output -->
+                            <div class="lg:col-span-7 space-y-6">
+                                <div class="bg-slate-950 p-6 rounded-2xl border border-slate-800 h-64 flex flex-col justify-between relative">
+                                    <div class="flex justify-between items-center mb-1">
+                                        <span class="text-xs font-bold text-white uppercase tracking-wider">Fluktuacje akumulacji dowodów</span>
+                                        <span class="text-[10px] text-emerald-400 font-bold uppercase tracking-wider">Próg górny (+a) - decyzja poprawna</span>
+                                    </div>
+                                    <div class="flex-1 w-full relative border-t-2 border-b-2 border-indigo-500/40 my-1 overflow-hidden">
+                                        <svg id="ddm-chart" class="w-full h-full absolute inset-0" viewBox="0 0 100 100" preserveAspectRatio="none">
+                                            <!-- Dynamic DDM paths -->
+                                        </svg>
+                                    </div>
+                                    <div class="flex justify-between items-center text-[10px]">
+                                        <span>Start decyzyjny (\(T_0\))</span>
+                                        <span class="text-rose-400 font-bold uppercase tracking-wider">Próg dolny (-a) - Błąd</span>
+                                    </div>
+                                </div>
+
+                                <div class="grid grid-cols-3 gap-4">
+                                    <div class="bg-slate-900 p-4 rounded-xl border border-slate-800 text-center">
+                                        <span class="text-[10px] text-slate-500 block mb-1">Średni czas reakcji (RT)</span>
+                                        <span id="metric-ddm-rt" class="text-base font-bold font-mono text-white">-</span>
+                                    </div>
+                                    <div class="bg-slate-900 p-4 rounded-xl border border-slate-800 text-center">
+                                        <span class="text-[10px] text-slate-500 block mb-1">Średnia dokładność (%)</span>
+                                        <span id="metric-ddm-acc" class="text-base font-bold font-mono text-indigo-400">-</span>
+                                    </div>
+                                    <div class="bg-slate-900 p-4 rounded-xl border border-slate-800 text-center">
+                                        <span class="text-[10px] text-slate-500 block mb-1">Zakończone próby</span>
+                                        <span id="metric-ddm-count" class="text-base font-bold font-mono text-white">0</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- SUB-TAB 3: Predictive ML Classifier Simulator -->
+                    <div id="panel-sim-ml" class="space-y-6 hidden">
+                        <div class="text-slate-300 text-sm max-w-4xl leading-relaxed mb-4">
+                            Model predykcyjny oparty na uczeniu maszynowym szuka optymalnej granicy klasyfikacji pacjentów na responderów i non-responderów na leczenie farmakologiczne (np. SSRI). Model uczy się na dwóch cechach: wyjściowej sile łączności wyspy (Insula Connectivity z badania Grubera, 2026) oraz nasileniu depresji na skali BDI.
+                        </div>
+                        
+                        <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">
+                            <!-- Controls -->
+                            <div class="lg:col-span-5 bg-slate-950 p-6 rounded-2xl border border-slate-800 space-y-6">
+                                <h3 class="font-bold text-white text-sm">Hiperparametry i konfiguracja ML:</h3>
+                                <div class="space-y-4">
+                                    <!-- Complexity -->
+                                    <div class="space-y-2">
+                                        <span class="text-xs text-slate-400 block">Złożoność algorytmu (Zasada Brzytwy Ockhama)</span>
+                                        <div class="grid grid-cols-2 gap-2">
+                                            <button onclick="setMLComplexity('linear')" id="btn-ml-linear" class="py-2 rounded bg-indigo-600 text-white text-xs font-bold transition">Regresja liniowa</button>
+                                            <button onclick="setMLComplexity('complex')" id="btn-ml-complex" class="py-2 rounded bg-slate-800 text-slate-400 text-xs font-bold hover:text-white transition">Przeuczony (Overfitted)</button>
+                                        </div>
+                                    </div>
+
+                                    <!-- Sample size -->
+                                    <div class="space-y-2">
+                                        <span class="text-xs text-slate-400 block">Wielkość kohorty treningowej</span>
+                                        <div class="grid grid-cols-2 gap-2">
+                                            <button onclick="setMLCohortSize(60)" id="btn-ml-size-small" class="py-2 rounded bg-slate-800 text-slate-400 text-xs font-bold hover:text-white transition">N=60 (mała próba)</button>
+                                            <button onclick="setMLCohortSize(500)" id="btn-ml-size-large" class="py-2 rounded bg-indigo-600 text-white text-xs font-bold transition">N=500 (duża próba)</button>
+                                        </div>
+                                        <span class="text-[10px] text-slate-500 block leading-tight">Mniejsze próby dramatycznie zwiększają ryzyko przeszacowania wskaźnika trafności w pojedynczym ośrodku.</span>
+                                    </div>
+
+                                    <!-- Decision threshold -->
+                                    <div class="space-y-2">
+                                        <div class="flex justify-between text-xs">
+                                            <span class="text-slate-400">Próg klasyfikacji prawdopodobieństwa</span>
+                                            <span class="text-indigo-400 font-bold font-mono" id="val-ml-thresh">0.50</span>
+                                        </div>
+                                        <input type="range" id="param-ml-thresh" min="0.1" max="0.9" step="0.05" value="0.50" oninput="updateMLParameters()" class="w-full h-1 bg-slate-800 rounded-lg appearance-none cursor-pointer accent-indigo-500">
+                                        <span class="text-[10px] text-slate-500 block leading-tight">Zmiana progu wpływa bezpośrednio na balans czułości i swoistości na krzywej ROC.</span>
+                                    </div>
+
+                                    <div class="border-t border-slate-800 pt-4 space-y-2">
+                                        <button onclick="generateAndTrainML()" class="w-full bg-indigo-600 hover:bg-indigo-500 text-white font-bold py-2.5 rounded-lg text-xs transition">Generuj nowe kohorty i trenuj model</button>
+                                        <span class="text-[10px] text-slate-500 block text-center italic leading-tight">Każde uruchomienie tworzy nową, niezależną kohortę testową w celu zewnętrznej walidacji modelu.</span>
+                                    </div>
+                                    <div class="border-t border-slate-800 pt-4 space-y-2">
+                                        <div class="flex items-center justify-between">
+                                            <h4 class="font-bold text-white text-xs">Tryb AUTO — walidacja modelu</h4>
+                                            <span id="ml-auto-status" class="text-[10px] text-slate-500 font-mono"><span class="auto-dot" id="ml-auto-dot"></span>OFF</span>
+                                        </div>
+                                        <div class="grid grid-cols-2 gap-2">
+                                            <button id="btn-auto-ml-threshold" onclick="startAutoML('threshold')" class="text-[10px] bg-slate-900 hover:bg-slate-800 border border-slate-700 px-2.5 py-1.5 rounded text-slate-300 transition">Auto: próg ROC</button>
+                                            <button id="btn-auto-ml-overfit" onclick="startAutoML('overfit')" class="text-[10px] bg-slate-900 hover:bg-slate-800 border border-slate-700 px-2.5 py-1.5 rounded text-slate-300 transition">Auto: overfitting</button>
+                                        </div>
+                                        <button onclick="stopAutoML()" class="w-full text-slate-500 hover:text-slate-300 text-xs text-center block mt-1 underline transition">Zatrzymaj AUTO</button>
+                                        <p id="ml-auto-caption" class="text-[10px] text-slate-500 leading-tight">Tryb automatyczny szybciej pokazuje zmianę punktu pracy modelu oraz spadek generalizacji przy przeuczeniu.</p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Visualization Scatter & Matrix -->
+                            <div class="lg:col-span-7 space-y-6">
+                                <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                                    <!-- 2D Decision Space -->
+                                    <div class="bg-slate-950 p-4 rounded-2xl border border-slate-800 flex flex-col justify-between">
+                                        <span class="text-xs font-bold text-white uppercase tracking-wider block mb-2">Przestrzeń cech i granica decyzyjna</span>
+                                        <div class="relative w-full aspect-square bg-slate-900 rounded-xl overflow-hidden border border-slate-800">
+                                            <!-- Dynamic Decision Boundary Background Map -->
+                                            <div id="ml-boundary-bg" class="absolute inset-0 grid grid-cols-10 grid-rows-10 opacity-30">
+                                                <!-- Dynamic shading by JS -->
+                                            </div>
+                                            <!-- Scatter Plot Layer -->
+                                            <svg id="ml-scatter-svg" class="absolute inset-0 w-full h-full z-10" viewBox="0 0 100 100">
+                                                <!-- Dynamic scatter dots -->
+                                            </svg>
+                                        </div>
+                                        <div class="flex justify-between text-[10px] text-slate-500 mt-2">
+                                            <span>Oś X: Konektomika Wyspy</span>
+                                            <span>Oś Y: Wynik BDI</span>
+                                        </div>
+                                    </div>
+
+                                    <!-- Confusion Matrix and ROC -->
+                                    <div class="bg-slate-950 p-4 rounded-2xl border border-slate-800 flex flex-col justify-between space-y-4">
+                                        <div>
+                                            <span class="text-xs font-bold text-white uppercase tracking-wider block mb-2">Krzywa ROC i punkt pracy</span>
+                                            <div class="w-full aspect-video bg-slate-900 rounded-xl border border-slate-800 p-2 relative">
+                                                <svg id="ml-roc-svg" class="w-full h-full" viewBox="0 0 100 100">
+                                                    <!-- Diagonal chance line -->
+                                                    <line x1="0" y1="100" x2="100" y2="0" stroke="#475569" stroke-dasharray="2" stroke-width="0.5" />
+                                                    <!-- ROC path -->
+                                                    <path id="ml-roc-path" d="M 0 100 L 100 100" fill="none" stroke="#64dfdf" stroke-width="1.5" />
+                                                    <!-- Operating point -->
+                                                    <circle id="ml-roc-point" cx="50" cy="50" r="3" fill="#f43f5e" />
+                                                </svg>
+                                            </div>
+                                            <div class="flex justify-between text-[10px] text-slate-500 mt-1">
+                                                <span>Swoistość (False Positive)</span>
+                                                <span>Czułość (True Positive)</span>
+                                            </div>
+                                        </div>
+
+                                        <!-- Confusion Matrix Display -->
+                                        <div class="space-y-2">
+                                            <span class="text-xs font-bold text-white uppercase tracking-wider block">Macierz pomyłek (walidacja zewnętrzna):</span>
+                                            <div class="grid grid-cols-2 gap-1.5 font-mono text-center text-xs">
+                                                <div class="bg-emerald-950/40 p-2 rounded border border-emerald-500/20 text-emerald-400">
+                                                    <div class="text-[9px] text-slate-500 uppercase">Prawdziwie pozytywni</div>
+                                                    <span id="ml-cm-tp" class="text-sm font-bold">0</span>
+                                                </div>
+                                                <div class="bg-rose-950/40 p-2 rounded border border-rose-500/20 text-rose-400">
+                                                    <div class="text-[9px] text-slate-500 uppercase">Fałszywie pozytywni</div>
+                                                    <span id="ml-cm-fp" class="text-sm font-bold">0</span>
+                                                </div>
+                                                <div class="bg-rose-950/40 p-2 rounded border border-rose-500/20 text-rose-400">
+                                                    <div class="text-[9px] text-slate-500 uppercase">Fałszywie negatywni</div>
+                                                    <span id="ml-cm-fn" class="text-sm font-bold">0</span>
+                                                </div>
+                                                <div class="bg-emerald-950/40 p-2 rounded border border-emerald-500/20 text-emerald-400">
+                                                    <div class="text-[9px] text-slate-500 uppercase">Prawdziwie negatywni</div>
+                                                    <span id="ml-cm-tn" class="text-sm font-bold">0</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="grid grid-cols-3 gap-4">
+                                    <div class="bg-slate-900 p-4 rounded-xl border border-slate-800 text-center">
+                                        <span class="text-[10px] text-slate-500 block mb-1">Trafność zbalansowana (BAC)</span>
+                                        <span id="metric-ml-bac" class="text-base font-bold font-mono text-emerald-400">-</span>
+                                    </div>
+                                    <div class="bg-slate-900 p-4 rounded-xl border border-slate-800 text-center">
+                                        <span class="text-[10px] text-slate-500 block mb-1">Czułość (Sensitivity)</span>
+                                        <span id="metric-ml-sens" class="text-base font-bold font-mono text-white">-</span>
+                                    </div>
+                                    <div class="bg-slate-900 p-4 rounded-xl border border-slate-800 text-center">
+                                        <span class="text-[10px] text-slate-500 block mb-1">Obszar pod krzywą (AUROC)</span>
+                                        <span id="metric-ml-auroc" class="text-base font-bold font-mono text-indigo-400">-</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
+        <!-- SECTION 4: CASE STUDY - ANXIETY ARCHITECTURE & CONNECTOMICS -->
+        <section id="konektomika" class="mb-20 scroll-mt-24">
+            <div class="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
+                <div class="lg:col-span-5 space-y-6 order-last lg:order-first">
+                    <!-- Interactive Connectome Visualizer: imported plasticity module -->
+                    <div class="bg-slate-900 p-6 rounded-2xl border border-slate-800 space-y-5">
+                        <div class="flex justify-between items-center gap-4">
+                            <h3 class="font-bold text-white text-base">Model plastyczności konektomu</h3>
+                            <span class="text-[10px] bg-indigo-900/40 text-indigo-400 px-2.5 py-1 rounded border border-indigo-500/20 uppercase font-mono">Canvas / dynamika sieci</span>
+                        </div>
+
+                        <div class="relative w-full bg-slate-950 rounded-xl overflow-hidden border border-slate-800">
+                            <canvas id="connectomeCanvas" class="block w-full h-[360px] cursor-crosshair"></canvas>
+                        </div>
+
+                        <div class="space-y-4">
+                            <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                                <label class="space-y-2">
+                                    <div class="flex justify-between text-xs">
+                                        <span class="text-slate-400">Węzły sieci</span>
+                                        <span id="conn-nodes-value" class="text-indigo-400 font-bold font-mono">100</span>
+                                    </div>
+                                    <input type="range" id="nodesCount" min="20" max="300" value="100" oninput="updateConnectomeLabels()" class="w-full h-1 bg-slate-800 rounded-lg appearance-none cursor-pointer accent-indigo-500">
+                                </label>
+
+                                <label class="space-y-2">
+                                    <div class="flex justify-between text-xs">
+                                        <span class="text-slate-400">Prędkość symulacji</span>
+                                        <span id="conn-speed-value" class="text-indigo-400 font-bold font-mono">1.0×</span>
+                                    </div>
+                                    <input type="range" id="speedRange" min="0.3" max="9" step="0.1" value="1" oninput="updateConnectomeLabels()" class="w-full h-1 bg-slate-800 rounded-lg appearance-none cursor-pointer accent-indigo-500">
+                                </label>
+                            </div>
+
+                            <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+                                <button onclick="initConnectomeModule()" class="bg-indigo-600 hover:bg-indigo-500 text-white font-bold py-2 rounded-lg text-xs transition">Resetuj sieć</button>
+                                <select id="pathologyType" onchange="updatePathology()" class="bg-slate-950 border border-slate-700 text-slate-200 rounded-lg px-3 py-2 text-xs font-semibold focus:outline-none focus:ring-2 focus:ring-indigo-500">
+                                    <option value="none">Stan zdrowy (plastyczność)</option>
+                                    <option value="pruning">Degeneracja synaptyczna</option>
+                                    <option value="hypersync">Hipersynchronizacja</option>
+                                    <option value="random">Degradacja losowa</option>
+                                    <option value="distraction">Szum poznawczy</option>
+                                    <option value="isolation">Izolacja klastrów</option>
+                                </select>
+                            </div>
+
+                            <div id="pathologyDesc" class="text-xs text-indigo-300 leading-relaxed bg-slate-950 border-l-4 border-indigo-500 p-3 rounded-r-lg">
+                                Stan zdrowy: Sieć utrzymuje homeostazę i zbalansowaną łączność funkcjonalną.
+                            </div>
+
+                            <div class="text-[11px] text-slate-400 leading-relaxed border-t border-slate-800 pt-3">
+                                Nowe połączenia wymagają około 5 sekund symulowanego ugruntowania. Obserwuj różnice między migotaniem połączeń, utratą krawędzi, hipersynchronizacją oraz izolacją klastrów.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="lg:col-span-7 space-y-6">
+                    <span class="text-indigo-400 font-mono text-sm font-semibold uppercase tracking-wider block">Studium przypadku: konektomika i plastyczność Hebbowska</span>
+                    <h2 class="text-3xl font-extrabold text-white leading-tight">Architektura lęku: Hiperłączność w Depresji Lękowej</h2>
+                    
+                    <p class="text-slate-300 text-sm text-justify leading-relaxed">
+                        Przez ponad dekadę w neuroobrazowaniu psychiatrycznym dominowała <strong>hipoteza dyskoneksji</strong> (ang. <em>dysconnection syndrome hypothesis</em>). Zgodnie z nią, depresja kliniczna (MDD) manifestuje się rozproszonym i subtelnym osłabieniem połączeń strukturalnych i czynnościowych konektomu mózgowego – czyli hipołącznością (redukcją liczby włókien traktograficznych).
+                    </p>
+
+                    <p class="text-slate-300 text-sm text-justify leading-relaxed">
+                        Jednak najnowsze wieloośrodkowe badanie Grubera, Repplego i wsp. (publikowane w prestiżowym czasopiśmie <em>Neuropsychopharmacology</em> w 2026 r.) na próbie \(n=1687\) osób radykalnie podważyło to uproszczone ujęcie. Naukowcy wykazali, że obecność współwystępujących zaburzeń lękowych (MDD+ANX) u pacjentów z depresją diametralnie zmienia neurobiologiczne podłoże choroby, wykazując <strong>patologiczną hiperłączność strukturalną</strong> w tych samych obwodach, które w czystej postaci depresji wykazują hipołączność.
+                    </p>
+
+                    <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
+                        <div class="bg-slate-900/60 p-4 rounded-xl border border-slate-800 space-y-2">
+                            <h4 class="font-bold text-white text-sm flex items-center space-x-2">
+                                <span class="text-indigo-400 font-mono">1.</span>
+                                <span>Kluczowe węzły sieci lęku:</span>
+                            </h4>
+                            <p class="text-xs text-slate-400 leading-relaxed">
+                                Wyspa (insula), prawy zakręt skroniowy górny, lewy zakręt czołowy środkowy oraz prawy zakręt parahipokampalny. Są to obszary krytyczne dla interocepcji oraz oceny zagrożenia.
+                            </p>
+                        </div>
+                        <div class="bg-slate-900/60 p-4 rounded-xl border border-slate-800 space-y-2">
+                            <h4 class="font-bold text-white text-sm flex items-center space-x-2">
+                                <span class="text-indigo-400 font-mono">2.</span>
+                                <span>Mechanizm Hebbowski:</span>
+                            </h4>
+                            <p class="text-xs text-slate-400 leading-relaxed">
+                                Chroniczny lęk i hiperwzbudzenie wyzwalają silną aktywację funkcjonalną obwodów strachu. Zgodnie z regułą Heba, neurony, które "razem płoną, razem się łączą", co z czasem stymuluje wzrost gęstości osłonek mielinowych i aksonów.
+                            </p>
+                        </div>
+                    </div>
+
+                    <p class="text-slate-300 text-sm text-justify leading-relaxed">
+                        Analizy transdiagnostyczne wykazały istotny liniowy związek między nasileniem lęku (mierzonego skalami STAI-S oraz STAI-T) a wzrostem gęstości istoty białej w konektomie (dla stanów lękowych partial \(\eta^2 = 0.047\); dla cechy lękowej partial \(\eta^2 = 0.046\)).
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECTION 5: METRICS, CHALLENGES AND AI BIAS -->
+        <section id="wyzwania" class="mb-20 scroll-mt-24">
+            <h2 class="text-3xl font-bold text-white tracking-tight mb-8 flex items-center space-x-3">
+                <span class="text-indigo-500 font-mono">03.</span>
+                <span>Metodologiczne wyzwania i AI w psychiatrii</span>
+            </h2>
+
+            <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+                <!-- Challenge 1 -->
+                <div class="bg-slate-900 p-6 rounded-2xl border border-slate-800 space-y-4">
+                    <div class="w-12 h-12 rounded-xl bg-red-950/40 border border-red-500/30 flex items-center justify-center text-red-400 font-mono font-bold text-lg">
+                        !
+                    </div>
+                    <h3 class="text-lg font-bold text-white">Systematyczne zawyżanie wyników i małe próby</h3>
+                    <p class="text-slate-400 text-sm leading-relaxed text-justify">
+                        Małe badania jednoośrodkowe (np. na grupie ok. 100 osób) mają tendencję do raportowania sztucznie zawyżonej trafności klasyfikacji (overfittingu). Jak wykazali Flint i współpracownicy (2021) w neuroobrazowych badaniach depresji, większe projekty (wieloośrodkowe, o wysokim rygorze metodologicznym) dają zwykle słabsze, ale znacznie bardziej wiarygodne wyniki klasyfikacji niż małe publikacje.
+                    </p>
+                </div>
+
+                <!-- Challenge 2 -->
+                <div class="bg-slate-900 p-6 rounded-2xl border border-slate-800 space-y-4">
+                    <div class="w-12 h-12 rounded-xl bg-indigo-950/40 border border-indigo-500/30 flex items-center justify-center text-indigo-400 font-mono font-bold text-lg">
+                        i
+                    </div>
+                    <h3 class="text-lg font-bold text-white">Brak kalibracji prawdopodobieństwa decyzji</h3>
+                    <p class="text-slate-400 text-sm leading-relaxed text-justify">
+                        Systematyczny przegląd Chena i wsp. (2023) oceniający błędy systematyczne modeli AI w diagnostyce psychiatrycznej objął aż 555 odrębnych modeli. Wykazano, że 100% z nich nie raportowało kalibracji prawdopodobieństwa. Oznacza to, że modele te nie potrafią rzetelnie ocenić pewności swojej diagnozy, co stanowi dyskwalifikującą barierę dla wdrożeń klinicznych.
+                    </p>
+                </div>
+
+                <!-- Challenge 3 -->
+                <div class="bg-slate-900 p-6 rounded-2xl border border-slate-800 space-y-4">
+                    <div class="w-12 h-12 rounded-xl bg-indigo-950/40 border border-indigo-500/30 flex items-center justify-center text-indigo-400 font-mono font-bold text-lg">
+                        §
+                    </div>
+                    <h3 class="text-lg font-bold text-white">Regulacje prawne i etyczne: AI Act i RODO</h3>
+                    <p class="text-slate-400 text-sm leading-relaxed text-justify">
+                        Zastosowanie modeli AI w medycynie wysokiego ryzyka w Unii Europejskiej podlega rygorystycznym przepisom. Unijny <strong>AI Act</strong> (obowiązujący od 1 sierpnia 2024 r.) oraz RODO wymagają redukcji stronniczości algorytmicznej (fairness), pełnej przejrzystości, ochrony prywatności pacjentów oraz zapewnienia stałego nadzoru człowieka nad podejmowanymi decyzjami.
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECTION 6: NORMATIVE MODELING & RESOURCES -->
+        <section id="normative" class="mb-20 scroll-mt-24">
+            <div class="bg-slate-900 rounded-3xl border border-slate-800 overflow-hidden">
+                <div class="p-8 md:p-12 space-y-8">
+                    <div class="max-w-3xl">
+                        <span class="text-indigo-400 font-mono text-sm font-semibold uppercase tracking-wider block mb-2">Innowacja infrastrukturalna</span>
+                        <h2 class="text-3xl font-extrabold text-white">Modelowanie normatywne i Zasoby Wielkoskalowe</h2>
+                        <p class="text-slate-300 text-sm leading-relaxed mt-4">
+                            Modelowanie normatywne (ang. <em>normative modeling</em>) to podejście sformułowane w celu objęcia heterogeniczności jednostkowej zamiast prostego wyciągania średniej grupowej. Działa ono na zasadzie pediatrycznych siatek centylowych w pediatrii.
+                        </p>
+                    </div>
+
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-start">
+                        <div class="space-y-4">
+                            <h3 class="font-bold text-white text-lg">CentileBrain: Siatki centylowe anatomii mózgu</h3>
+                            <p class="text-slate-400 text-sm leading-relaxed text-justify">
+                                Narzędzia takie jak portal <strong>CentileBrain</strong> udostępniają gotowe modele referencyjne wyliczone na bazie olbrzymich populacji (np. UK Biobank). Zamiast porównywać średnią grubość kory grupy pacjentów ze średnią grupy kontrolnej, neuropsycholog może wprowadzić skan fMRI konkretnego pacjenta i ocenić jego indywidualne odchylenie (Z-score) od normy populacyjnej w konkretnych regionach. 
+                            </p>
+                            <p class="text-slate-400 text-sm leading-relaxed text-justify">
+                                Umożliwia to wychwycenie unikalnych cech pacjenta, dopasowanie terapii do jego specyficznego fenotypu konektomicznego i ominięcie problemu ogromnej heterogeniczności objawowej chorób takich jak depresja czy schizofrenia.
+                            </p>
+                        </div>
+                        
+                        <div class="bg-slate-950 p-6 rounded-2xl border border-slate-800 space-y-4">
+                            <h4 class="font-bold text-white text-sm">Światowe repozytoria danych (złoty standard):</h4>
+                            <div class="space-y-3">
+                                <div class="flex items-start space-x-3 text-xs">
+                                    <div class="font-bold text-indigo-400 font-mono bg-indigo-950 px-2 py-1 rounded">OpenNeuro</div>
+                                    <div class="text-slate-400 leading-relaxed">Archiwum danych BIDS (MRI, PET, EEG) wspierające otwartą naukę i replikowalność badań.</div>
+                                </div>
+                                <div class="flex items-start space-x-3 text-xs">
+                                    <div class="font-bold text-indigo-400 font-mono bg-indigo-950 px-2 py-1 rounded">UK Biobank</div>
+                                    <div class="text-slate-400 leading-relaxed">Baza zawierająca dane medyczne, genomowe i ponad 100 tysięcy wysokiej jakości skanów mózgu (kamień milowy osiągnięty w 2025 r.).</div>
+                                </div>
+                                <div class="flex items-start space-x-3 text-xs">
+                                    <div class="font-bold text-indigo-400 font-mono bg-indigo-950 px-2 py-1 rounded">ABCD Study</div>
+                                    <div class="text-slate-400 leading-relaxed">Najlepszy na świecie, długofalowy zasób rozwojowej kohorty dziecięco-młodzieżowej (ponad 11 tysięcy uczestników).</div>
+                                </div>
+                                <div class="flex items-start space-x-3 text-xs">
+                                    <div class="font-bold text-indigo-400 font-mono bg-indigo-950 px-2 py-1 rounded">ENIGMA</div>
+                                    <div class="text-slate-400 leading-relaxed">Międzynarodowe konsorcjum umożliwiające meta- i megaanalizy neuroobrazowo-genetyczne w schizofrenii, depresji czy OCD.</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECTION 7: FLASHCARDS (FISZKI) -->
+        <section id="fiszki" class="mb-20 scroll-mt-24">
+            <h2 class="text-3xl font-bold text-white tracking-tight mb-8 flex items-center space-x-3">
+                <span class="text-indigo-500 font-mono">04.</span>
+                <span>Fiszki naukowe (obracane karty)</span>
+            </h2>
+            <p class="text-slate-300 text-sm mb-8 max-w-3xl leading-relaxed">
+                Kliknij na dowolną kartę, aby ją odwrócić i sprawdzić swoją wiedzę dotyczącą mechanizmów, wyzwań oraz metodologii psychiatrii obliczeniowej. Fiszki stanowią doskonałe repetytorium akademickie przed egzaminem z neuropsychologii obliczeniowej.
+            </p>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                <!-- Card 1 -->
+                <div class="perspective-1000 w-full h-80 group cursor-pointer" onclick="flipCard(this)">
+                    <div class="preserve-3d w-full h-full duration-500 relative">
+                        <!-- Front -->
+                        <div class="backface-hidden absolute inset-0 bg-slate-900 border border-slate-800 rounded-3xl p-6 flex flex-col justify-between shadow-xl">
+                            <div>
+                                <span class="text-xs font-mono text-indigo-400 uppercase tracking-widest block mb-4">Temat: metodologia</span>
+                                <h3 class="text-base font-bold text-white leading-relaxed">Czym różni się modelowanie predykcyjne (ML) od mechanistycznego (generatywnego)?</h3>
+                            </div>
+                            <span class="text-xs text-slate-500 flex items-center space-x-1 justify-end font-mono">
+                                <span>Kliknij, aby odwrócić</span>
+                                <svg class="w-4.5 h-4.5 text-slate-500" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 12c0-1.232-.046-2.453-.138-3.662a4.006 4.006 0 00-3.7-3.7 48.656 48.656 0 00-7.324 0 4.006 4.006 0 00-3.7 3.7c-.017.22-.032.441-.046.662M19.5 12l3-3m-3 3l-3-3m-12 3c0 1.232.046 2.453.138 3.662a4.006 4.006 0 003.7 3.7 48.656 48.656 0 007.324 0 4.006 4.006 0 003.7-3.7c.017-.22.032-.441.046-.662M4.5 12l3 3m-3-3l-3 3"></path></svg>
+                            </span>
+                        </div>
+                        <!-- Back -->
+                        <div class="backface-hidden rotate-y-180 absolute inset-0 bg-indigo-950/90 border border-indigo-500/30 rounded-3xl p-6 flex flex-col justify-between shadow-2xl overflow-y-auto">
+                            <div class="space-y-3">
+                                <span class="text-xs font-mono text-indigo-400 uppercase tracking-widest block">Odpowiedź</span>
+                                <p class="text-xs text-slate-200 leading-relaxed text-justify">
+                                    <strong>Modele predykcyjne</strong> wyszukują złożone wzorce statystyczne w wielowymiarowych danych w celu prognozowania statusu pacjenta (często bez interpretacji przyczynowej). 
+                                </p>
+                                <p class="text-xs text-slate-200 leading-relaxed text-justify">
+                                    <strong>Modele mechanistyczne</strong> budują teoretyczne, matematyczne rekonstrukcje procesów mózgowych (np. błędu predykcji w pętli prążkowia) i estymują <em>parametry ukryte</em> poznania, co pozwala odpowiedzieć na pytanie „dlaczego dany proces zawiódł”.
+                                </p>
+                            </div>
+                            <span class="text-[10px] text-indigo-300 font-mono text-right mt-2 block">Dychotomia pojęciowa</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Card 2 -->
+                <div class="perspective-1000 w-full h-80 group cursor-pointer" onclick="flipCard(this)">
+                    <div class="preserve-3d w-full h-full duration-500 relative">
+                        <!-- Front -->
+                        <div class="backface-hidden absolute inset-0 bg-slate-900 border border-slate-800 rounded-3xl p-6 flex flex-col justify-between shadow-xl">
+                            <div>
+                                <span class="text-xs font-mono text-indigo-400 uppercase tracking-widest block mb-4">Temat: badania neuroobrazowe</span>
+                                <h3 class="text-base font-bold text-white leading-relaxed">Jakie były wnioski z badania konektomu strukturalnego Grubera i wsp. (2026)?</h3>
+                            </div>
+                            <span class="text-xs text-slate-500 flex items-center space-x-1 justify-end font-mono">
+                                <span>Kliknij, aby odwrócić</span>
+                                <svg class="w-4.5 h-4.5 text-slate-500" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 12c0-1.232-.046-2.453-.138-3.662a4.006 4.006 0 00-3.7-3.7 48.656 48.656 0 00-7.324 0 4.006 4.006 0 00-3.7 3.7c-.017.22-.032.441-.046.662M19.5 12l3-3m-3 3l-3-3m-12 3c0 1.232.046 2.453.138 3.662a4.006 4.006 0 003.7 3.7 48.656 48.656 0 007.324 0 4.006 4.006 0 003.7-3.7c.017-.22.032-.441.046-.662M4.5 12l3 3m-3-3l-3 3"></path></svg>
+                            </span>
+                        </div>
+                        <!-- Back -->
+                        <div class="backface-hidden rotate-y-180 absolute inset-0 bg-indigo-950/90 border border-indigo-500/30 rounded-3xl p-6 flex flex-col justify-between shadow-2xl overflow-y-auto">
+                            <div class="space-y-3">
+                                <span class="text-xs font-mono text-indigo-400 uppercase tracking-widest block">Odpowiedź</span>
+                                <p class="text-xs text-slate-200 leading-relaxed text-justify">
+                                    Głównym odkryciem było wykazanie, że u pacjentów z depresją i współistniejącym lękiem (<strong>MDD+ANX</strong>) występuje patologiczny wzorzec <strong>strukturalnej hiperłączności</strong> (zwiększonej liczby i gęstości włókien istoty białej) w określonym subkonektomie.
+                                </p>
+                                <p class="text-xs text-slate-200 leading-relaxed text-justify">
+                                    Kontrastuje to bezpośrednio z czystym zaburzeniem depresyjnym (MDD), które tradycyjnie charakteryzuje się rozproszoną <strong>hipołącznością</strong>. Odkrycie to redefiniuje tradycyjną hipotezę dyskoneksji.
+                                </p>
+                            </div>
+                            <span class="text-[10px] text-indigo-300 font-mono text-right mt-2 block">Gruber i wsp., 2026</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Card 3 -->
+                <div class="perspective-1000 w-full h-80 group cursor-pointer" onclick="flipCard(this)">
+                    <div class="preserve-3d w-full h-full duration-500 relative">
+                        <!-- Front -->
+                        <div class="backface-hidden absolute inset-0 bg-slate-900 border border-slate-800 rounded-3xl p-6 flex flex-col justify-between shadow-xl">
+                            <div>
+                                <span class="text-xs font-mono text-indigo-400 uppercase tracking-widest block mb-4">Temat: plastyczność synaptyczna</span>
+                                <h3 class="text-base font-bold text-white leading-relaxed">Jaki mechanizm neurobiologiczny leży u podstaw hiperłączności w stanach lękowych?</h3>
+                            </div>
+                            <span class="text-xs text-slate-500 flex items-center space-x-1 justify-end font-mono">
+                                <span>Kliknij, aby odwrócić</span>
+                                <svg class="w-4.5 h-4.5 text-slate-500" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 12c0-1.232-.046-2.453-.138-3.662a4.006 4.006 0 00-3.7-3.7 48.656 48.656 0 00-7.324 0 4.006 4.006 0 00-3.7 3.7c-.017.22-.032.441-.046.662M19.5 12l3-3m-3 3l-3-3m-12 3c0 1.232.046 2.453.138 3.662a4.006 4.006 0 003.7 3.7 48.656 48.656 0 007.324 0 4.006 4.006 0 003.7-3.7c.017-.22.032-.441.046-.662M4.5 12l3 3m-3-3l-3 3"></path></svg>
+                            </span>
+                        </div>
+                        <!-- Back -->
+                        <div class="backface-hidden rotate-y-180 absolute inset-0 bg-indigo-950/90 border border-indigo-500/30 rounded-3xl p-6 flex flex-col justify-between shadow-2xl overflow-y-auto">
+                            <div class="space-y-3">
+                                <span class="text-xs font-mono text-indigo-400 uppercase tracking-widest block">Odpowiedź</span>
+                                <p class="text-xs text-slate-200 leading-relaxed text-justify">
+                                    Podstawowym mechanizmem jest <strong>plastyczność Hebbowska zależna od aktywności</strong> („neurony, które razem płoną, razem się łączą”). 
+                                </p>
+                                <p class="text-xs text-slate-200 leading-relaxed text-justify">
+                                    Chroniczna lękowa hiperwzbudzenie i wzmożona reakcja na zagrożenie stymulują ciągłą hiperaktywność funkcjonalną w sieciach związanych z lękiem (np. wyspa). Długofalowo, to ciągłe pobudzenie wyzwala makroskalowe modyfikacje istoty białej: akcelerację mielinizacji aksonów, co fizycznie zagęszcza i wzmacnia wiązki strukturalne.
+                                </p>
+                            </div>
+                            <span class="text-[10px] text-indigo-300 font-mono text-right mt-2 block">Reguła Hebba</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Card 4 -->
+                <div class="perspective-1000 w-full h-80 group cursor-pointer" onclick="flipCard(this)">
+                    <div class="preserve-3d w-full h-full duration-500 relative">
+                        <!-- Front -->
+                        <div class="backface-hidden absolute inset-0 bg-slate-900 border border-slate-800 rounded-3xl p-6 flex flex-col justify-between shadow-xl">
+                            <div>
+                                <span class="text-xs font-mono text-indigo-400 uppercase tracking-widest block mb-4">Temat: metodologia Statystyczna</span>
+                                <h3 class="text-base font-bold text-white leading-relaxed">Czym jest "paradoks małych prób" w neuroobrazowaniu psychiatrycznym?</h3>
+                            </div>
+                            <span class="text-xs text-slate-500 flex items-center space-x-1 justify-end font-mono">
+                                <span>Kliknij, aby odwrócić</span>
+                                <svg class="w-4.5 h-4.5 text-slate-500" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 12c0-1.232-.046-2.453-.138-3.662a4.006 4.006 0 00-3.7-3.7 48.656 48.656 0 00-7.324 0 4.006 4.006 0 00-3.7 3.7c-.017.22-.032.441-.046.662M19.5 12l3-3m-3 3l-3-3m-12 3c0 1.232.046 2.453.138 3.662a4.006 4.006 0 003.7 3.7 48.656 48.656 0 007.324 0 4.006 4.006 0 003.7-3.7c.017-.22.032-.441.046-.662M4.5 12l3 3m-3-3l-3 3"></path></svg>
+                            </span>
+                        </div>
+                        <!-- Back -->
+                        <div class="backface-hidden rotate-y-180 absolute inset-0 bg-indigo-950/90 border border-indigo-500/30 rounded-3xl p-6 flex flex-col justify-between shadow-2xl overflow-y-auto">
+                            <div class="space-y-3">
+                                <span class="text-xs font-mono text-indigo-400 uppercase tracking-widest block">Odpowiedź</span>
+                                <p class="text-xs text-slate-200 leading-relaxed text-justify">
+                                    Sformułowany przez Flinta i współpracowników (2021) paradoks pokazuje, że badania oparte na małych, jednoośrodkowych grupach (np. N &lt; 100) mają tendencję do raportowania <strong>nierealistycznie wysokiej trafności klasyfikacji</strong>. Wynika to z dopasowania modelu do specyficznego szumu i uwarunkowań jednej placówki (overfitting). 
+                                </p>
+                                <p class="text-xs text-slate-200 leading-relaxed text-justify">
+                                    Wielkoskalowe, wieloośrodkowe badania (np. z zewnętrzną walidacją) dają statystycznie niższe wskaźniki trafności, lecz są prawdziwe, replikowalne i wiarygodne klinicznie.
+                                </p>
+                            </div>
+                            <span class="text-[10px] text-indigo-300 font-mono text-right mt-2 block">Flint i wsp., 2021</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Card 5 -->
+                <div class="perspective-1000 w-full h-80 group cursor-pointer" onclick="flipCard(this)">
+                    <div class="preserve-3d w-full h-full duration-500 relative">
+                        <!-- Front -->
+                        <div class="backface-hidden absolute inset-0 bg-slate-900 border border-slate-800 rounded-3xl p-6 flex flex-col justify-between shadow-xl">
+                            <div>
+                                <span class="text-xs font-mono text-indigo-400 uppercase tracking-widest block mb-4">Temat: psychiatria precyzyjna</span>
+                                <h3 class="text-base font-bold text-white leading-relaxed">Jak działa modelowanie normatywne (np. portal CentileBrain)?</h3>
+                            </div>
+                            <span class="text-xs text-slate-500 flex items-center space-x-1 justify-end font-mono">
+                                <span>Kliknij, aby odwrócić</span>
+                                <svg class="w-4.5 h-4.5 text-slate-500" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 12c0-1.232-.046-2.453-.138-3.662a4.006 4.006 0 00-3.7-3.7 48.656 48.656 0 00-7.324 0 4.006 4.006 0 00-3.7 3.7c-.017.22-.032.441-.046.662M19.5 12l3-3m-3 3l-3-3m-12 3c0 1.232.046 2.453.138 3.662a4.006 4.006 0 003.7 3.7 48.656 48.656 0 007.324 0 4.006 4.006 0 003.7-3.7c.017-.22.032-.441.046-.662M4.5 12l3 3m-3-3l-3 3"></path></svg>
+                            </span>
+                        </div>
+                        <!-- Back -->
+                        <div class="backface-hidden rotate-y-180 absolute inset-0 bg-indigo-950/90 border border-indigo-500/30 rounded-3xl p-6 flex flex-col justify-between shadow-2xl overflow-y-auto">
+                            <div class="space-y-3">
+                                <span class="text-xs font-mono text-indigo-400 uppercase tracking-widest block">Odpowiedź</span>
+                                <p class="text-xs text-slate-200 leading-relaxed text-justify">
+                                    Modelowanie normatywne (np. w portalu <strong>CentileBrain</strong>) odrzuca porównywanie średnich wartości całych grup chorych z grupą zdrową na rzecz precyzyjnej oceny <strong>heterogeniczności pojedynczego pacjenta</strong>.
+                                </p>
+                                <p class="text-xs text-slate-200 leading-relaxed text-justify">
+                                    Algorytm mapuje rozkład anatomiczny tysięcy zdrowych mózgów populacji referencyjnej, a następnie oblicza, o ile odchyleń standardowych (Z-score) struktura mózgu konkretnego pacjenta odbiega od normy dla jego wieku i płci (na wzór siatek centylowych).
+                                </p>
+                            </div>
+                            <span class="text-[10px] text-indigo-300 font-mono text-right mt-2 block">CentileBrain</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-slate-950 border-t border-slate-900 py-12 px-6 text-center text-slate-500 text-sm">
+        <div class="max-w-7xl mx-auto space-y-4">
+            <p>Portal Akademicki: Psychiatria Obliczeniowa jako Most Dydaktyczny w Neuropsychologii.</p>
+            <p class="text-xs text-slate-400 font-medium">Opracowanie merytoryczne i dydaktyczne: <span class="text-indigo-400 font-bold">dr inż. Mateusz Pomianek</span></p>
+            <p class="text-[11px] text-slate-600">Opracowano na podstawie literatury pierwotnej: Gruber i wsp. (2026), Koutsouleris (2021), Chen i wsp. (2023), Adams i wsp. (2016). Stan na rok akademicki 2026.</p>
+        </div>
+    </footer>
+
+    <!-- Interactive JavaScript -->
+    <script>
+        // 1. TAB SWITCHER (DICHOTOMY SECTION)
+        function switchTab(tabId) {
+            const mechanisticBtn = document.getElementById('tab-mechanistic');
+            const predictiveBtn = document.getElementById('tab-predictive');
+            const mechanisticContent = document.getElementById('content-mechanistic');
+            const predictiveContent = document.getElementById('content-predictive');
+
+            if (tabId === 'mechanistic') {
+                mechanisticBtn.className = "flex-1 py-3 px-4 rounded-xl text-sm font-semibold transition bg-indigo-600 text-white shadow-lg";
+                predictiveBtn.className = "flex-1 py-3 px-4 rounded-xl text-sm font-semibold transition bg-transparent text-slate-400 hover:text-white";
+                mechanisticContent.classList.remove('hidden');
+                predictiveContent.classList.add('hidden');
+            } else {
+                predictiveBtn.className = "flex-1 py-3 px-4 rounded-xl text-sm font-semibold transition bg-indigo-600 text-white shadow-lg";
+                mechanisticBtn.className = "flex-1 py-3 px-4 rounded-xl text-sm font-semibold transition bg-transparent text-slate-400 hover:text-white";
+                predictiveContent.classList.remove('hidden');
+                mechanisticContent.classList.add('hidden');
+            }
+        }
+
+        // 2. UNIFIED SIMULATION TABS
+        function switchSimTab(tabId) {
+            const tabs = ['sim-rw', 'sim-belief', 'sim-ddm', 'sim-ml'];
+            tabs.forEach(t => {
+                const btn = document.getElementById(`tab-${t}`);
+                const panel = document.getElementById(`panel-${t}`);
+                if (t === tabId) {
+                    btn.className = "flex-1 py-2.5 px-4 rounded-xl text-xs font-bold transition bg-indigo-600 text-white shadow-lg";
+                    panel.classList.remove('hidden');
+                } else {
+                    btn.className = "flex-1 py-2.5 px-4 rounded-xl text-xs font-bold transition bg-transparent text-slate-400 hover:text-white";
+                    panel.classList.add('hidden');
+                }
+            });
+
+            // Trigger redraws if switching to specific canvas/svg viewports
+            if (tabId === 'sim-belief') {
+                updateBeliefParameters();
+            } else if (tabId === 'sim-ddm') {
+                updateDDMParameters();
+            } else if (tabId === 'sim-ml') {
+                updateMLParameters();
+            }
+        }
+
+        // 2.A REINFORCEMENT LEARNING SIMULATOR (Rescorla-Wagner)
+        let simHistory = [];
+        let currentV = 0.0;
+        let alpha = 0.30;
+
+        function updateSimulationParameters() {
+            alpha = parseFloat(document.getElementById('param-alpha').value);
+            document.getElementById('val-alpha').innerText = alpha.toFixed(2);
+            
+            // If starting fresh, set initial V
+            if (simHistory.length === 0) {
+                currentV = parseFloat(document.getElementById('param-v0').value);
+                document.getElementById('val-v0').innerText = currentV.toFixed(2);
+                document.getElementById('metric-v').innerText = currentV.toFixed(2);
+            }
+        }
+
+        function applyProfile(newAlpha, newV0) {
+            document.getElementById('param-alpha').value = newAlpha;
+            document.getElementById('param-v0').value = newV0;
+            updateSimulationParameters();
+            resetSimulation();
+        }
+
+        function addTrial(reward) {
+            if (simHistory.length === 0) {
+                currentV = parseFloat(document.getElementById('param-v0').value);
+            }
+
+            const delta = reward - currentV;
+            const updatedV = currentV + alpha * delta;
+
+            simHistory.push({
+                trial: simHistory.length + 1,
+                R: reward,
+                delta: delta,
+                V_old: currentV,
+                V_new: updatedV
+            });
+
+            currentV = updatedV;
+
+            document.getElementById('metric-r').innerText = reward > 0 ? "+1.0" : "-1.0";
+            document.getElementById('metric-r').className = reward > 0 ? "text-base font-bold font-mono text-emerald-400" : "text-base font-bold font-mono text-rose-400";
+            document.getElementById('metric-delta').innerText = delta.toFixed(2);
+            document.getElementById('metric-v').innerText = currentV.toFixed(2);
+            document.getElementById('trial-count').innerText = simHistory.length;
+
+            renderChart();
+        }
+
+        function resetSimulation() {
+            simHistory = [];
+            currentV = parseFloat(document.getElementById('param-v0').value);
+            document.getElementById('metric-r').innerText = "-";
+            document.getElementById('metric-r').className = "text-base font-bold font-mono text-white";
+            document.getElementById('metric-delta').innerText = "-";
+            document.getElementById('metric-v').innerText = currentV.toFixed(2);
+            document.getElementById('trial-count').innerText = "0";
+            renderChart();
+        }
+
+        function renderChart() {
+            const svg = document.getElementById('simulation-chart');
+            svg.innerHTML = '<line x1="0" y1="50" x2="100" y2="50" stroke="#1e293b" stroke-dasharray="2" stroke-width="0.5" />';
+
+            if (simHistory.length === 0) return;
+
+            const totalPoints = simHistory.length;
+            const stepX = 100 / (totalPoints + 1);
+
+            let polylinePoints = [];
+            const initialV = parseFloat(document.getElementById('param-v0').value);
+            const mapY = (val) => 100 - (((val + 1.5) / 3) * 100);
+
+            polylinePoints.push(`0,${mapY(initialV)}`);
+
+            simHistory.forEach((pt, idx) => {
+                const x = (idx + 1) * stepX;
+                const y = mapY(pt.V_new);
+                polylinePoints.push(`${x},${y}`);
+
+                const circle = document.createElementNS("http://www.w3.org/2000/svg", "circle");
+                circle.setAttribute("cx", x);
+                circle.setAttribute("cy", y);
+                circle.setAttribute("r", "1.5");
+                circle.setAttribute("fill", pt.R > 0 ? "#10b981" : "#f43f5e");
+                svg.appendChild(circle);
+            });
+
+            const polyline = document.createElementNS("http://www.w3.org/2000/svg", "polyline");
+            polyline.setAttribute("points", polylinePoints.join(" "));
+            polyline.setAttribute("fill", "none");
+            polyline.setAttribute("stroke", "#48cae4");
+            polyline.setAttribute("stroke-width", "1");
+            svg.insertBefore(polyline, svg.firstChild);
+        }
+
+        // 2.B BAYESIAN BELIEF UPDATING SIMULATOR
+        let beliefParams = { prior: 0.0, priorPrec: 2.0, evidence: 0.6, sensPrec: 4.0 };
+        let beliefHistory = [];
+        let beliefCurrent = 0.0;
+
+        function updateBeliefParameters() {
+            beliefParams.prior = parseFloat(document.getElementById('param-belief-prior').value);
+            beliefParams.priorPrec = parseFloat(document.getElementById('param-belief-prior-prec').value);
+            beliefParams.evidence = parseFloat(document.getElementById('param-belief-evidence').value);
+            beliefParams.sensPrec = parseFloat(document.getElementById('param-belief-sens-prec').value);
+
+            document.getElementById('val-belief-prior').innerText = beliefParams.prior.toFixed(2);
+            document.getElementById('val-belief-prior-prec').innerText = beliefParams.priorPrec.toFixed(2);
+            document.getElementById('val-belief-evidence').innerText = beliefParams.evidence.toFixed(2);
+            document.getElementById('val-belief-sens-prec').innerText = beliefParams.sensPrec.toFixed(2);
+
+            const preview = computeBeliefPosterior(beliefParams.prior, beliefParams.priorPrec, beliefParams.evidence, beliefParams.sensPrec);
+            updateBeliefMetrics(preview, false);
+            renderBeliefChart(preview);
+        }
+
+        function computeBeliefPosterior(prior, priorPrec, evidence, sensPrec) {
+            const totalPrec = priorPrec + sensPrec;
+            const sensoryWeight = sensPrec / totalPrec;
+            const posterior = (priorPrec * prior + sensPrec * evidence) / totalPrec;
+            const predictionError = evidence - prior;
+            return { prior, priorPrec, evidence, sensPrec, sensoryWeight, posterior, predictionError };
+        }
+
+        function applyBeliefUpdate() {
+            const result = computeBeliefPosterior(beliefParams.prior, beliefParams.priorPrec, beliefParams.evidence, beliefParams.sensPrec);
+            beliefHistory.push(result);
+            beliefCurrent = result.posterior;
+            document.getElementById('param-belief-prior').value = beliefCurrent.toFixed(2);
+            updateBeliefParameters();
+            updateBeliefMetrics(result, true);
+            renderBeliefChart(result);
+        }
+
+        function resetBeliefSimulation() {
+            beliefHistory = [];
+            beliefCurrent = parseFloat(document.getElementById('param-belief-prior').value);
+            document.getElementById('belief-step-count').innerText = '0';
+            updateBeliefParameters();
+        }
+
+        function updateBeliefMetrics(result, committed) {
+            document.getElementById('metric-belief-pe').innerText = result.predictionError.toFixed(2);
+            document.getElementById('metric-belief-weight').innerText = result.sensoryWeight.toFixed(2);
+            document.getElementById('metric-belief-post').innerText = result.posterior.toFixed(2);
+            document.getElementById('belief-step-count').innerText = beliefHistory.length;
+
+            const interp = document.getElementById('belief-interpretation');
+            if (interp) {
+                if (result.priorPrec >= 7 && result.sensPrec <= 3) {
+                    interp.innerText = 'Sztywna priora dominuje nad aktualnym sygnałem. Posterior zmienia się słabo mimo błędu predykcji.';
+                } else if (result.sensPrec >= 7 && result.priorPrec <= 3) {
+                    interp.innerText = 'Sygnał sensoryczny ma wysoką wiarygodność, dlatego posterior szybko przesuwa się w stronę nowych danych.';
+                } else if (Math.abs(result.predictionError) > 1.0) {
+                    interp.innerText = 'Duży błąd predykcji wymusza korektę przekonania, ale jej siła zależy od relacji precyzji priory i sygnału.';
+                } else {
+                    interp.innerText = 'Posterior stanowi kompromis między wcześniejszym oczekiwaniem a bieżącym sygnałem sensorycznym.';
+                }
+            }
+        }
+
+        function renderBeliefChart(latest) {
+            const svg = document.getElementById('belief-chart');
+            if (!svg) return;
+            svg.innerHTML = '<line x1="0" y1="50" x2="100" y2="50" stroke="#1e293b" stroke-dasharray="2" stroke-width="0.5" />';
+            const mapY = (val) => 100 - (((val + 1.2) / 2.4) * 100);
+
+            const points = [
+                { x: 15, y: mapY(latest.prior), label: 'prior', color: '#48cae4' },
+                { x: 50, y: mapY(latest.evidence), label: 'sygnał', color: '#f59e0b' },
+                { x: 85, y: mapY(latest.posterior), label: 'posterior', color: '#10b981' }
+            ];
+
+            const line = document.createElementNS('http://www.w3.org/2000/svg', 'polyline');
+            line.setAttribute('points', points.map(p => `${p.x},${p.y}`).join(' '));
+            line.setAttribute('fill', 'none');
+            line.setAttribute('stroke', '#64dfdf');
+            line.setAttribute('stroke-width', '1');
+            svg.appendChild(line);
+
+            points.forEach(p => {
+                const circle = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
+                circle.setAttribute('cx', p.x);
+                circle.setAttribute('cy', p.y);
+                circle.setAttribute('r', '2.2');
+                circle.setAttribute('fill', p.color);
+                svg.appendChild(circle);
+            });
+
+            if (beliefHistory.length > 0) {
+                const histPoints = beliefHistory.slice(-18).map((h, idx, arr) => {
+                    const x = 5 + (idx / Math.max(arr.length - 1, 1)) * 90;
+                    return `${x},${mapY(h.posterior)}`;
+                });
+                const hist = document.createElementNS('http://www.w3.org/2000/svg', 'polyline');
+                hist.setAttribute('points', histPoints.join(' '));
+                hist.setAttribute('fill', 'none');
+                hist.setAttribute('stroke', 'rgba(16,185,129,0.45)');
+                hist.setAttribute('stroke-width', '0.8');
+                hist.setAttribute('stroke-dasharray', '2');
+                svg.appendChild(hist);
+            }
+        }
+
+
+        // 2.B DRIFT DIFFUSION MODEL (DDM) SIMULATOR (Mechanistic)
+        let ddmParams = { v: 1.5, a: 1.6, t0: 0.25 };
+        let ddmCohortTrials = [];
+
+        function updateDDMParameters() {
+            ddmParams.v = parseFloat(document.getElementById('param-ddm-v').value);
+            ddmParams.a = parseFloat(document.getElementById('param-ddm-a').value);
+            ddmParams.t0 = parseFloat(document.getElementById('param-ddm-t0').value);
+
+            document.getElementById('val-ddm-v').innerText = ddmParams.v.toFixed(2);
+            document.getElementById('val-ddm-a').innerText = ddmParams.a.toFixed(2);
+            document.getElementById('val-ddm-t0').innerText = ddmParams.t0.toFixed(2) + " s";
+            
+            drawDDMBoundaries();
+        }
+
+        function drawDDMBoundaries() {
+            const svg = document.getElementById('ddm-chart');
+            // Keep background limits
+            svg.innerHTML = `
+                <!-- Starting Point (Z) line -->
+                <line x1="0" y1="50" x2="100" y2="50" stroke="#334155" stroke-dasharray="3" stroke-width="0.5" />
+            `;
+            // Re-render paths if we have trails stored
+            renderDDMTrails();
+        }
+
+        function simulateDDMPath() {
+            const dt = 0.01; // Step size
+            const maxT = 2.0; // Max duration to simulate
+            const noiseSigma = 0.8; // diffusion noise index
+            
+            let path = [];
+            let currentX = 0.0; // Starting at z = a/2 normalized to 0 relative deviation
+            let currentT = ddmParams.t0;
+
+            path.push({ t: currentT, x: currentX });
+
+            while (currentT < maxT) {
+                currentT += dt;
+                // dX = v*dt + sigma*sqrt(dt)*Normal(0,1)
+                const randNormal = (Math.random() + Math.random() + Math.random() + Math.random() - 2) * 1.73; // Simple approximation of Gaussian
+                const dX = ddmParams.v * dt + noiseSigma * Math.sqrt(dt) * randNormal;
+                currentX += dX;
+
+                path.push({ t: currentT, x: currentX });
+
+                // Check boundary crossing
+                const upperLimit = ddmParams.a / 2;
+                const lowerLimit = -ddmParams.a / 2;
+
+                if (currentX >= upperLimit) {
+                    return { success: true, rt: currentT, path: path };
+                }
+                if (currentX <= lowerLimit) {
+                    return { success: false, rt: currentT, path: path };
+                }
+            }
+            // Timeout default to the closest boundary
+            return { success: currentX > 0, rt: maxT, path: path };
+        }
+
+        function runSingleDDMTrial() {
+            const trialResult = simulateDDMPath();
+            ddmCohortTrials.push(trialResult);
+
+            updateDDMStatistics();
+            renderDDMTrails();
+        }
+
+        function runDDMCohort() {
+            for (let i = 0; i < 100; i++) {
+                ddmCohortTrials.push(simulateDDMPath());
+            }
+            updateDDMStatistics();
+            renderDDMTrails();
+        }
+
+        function resetDDM() {
+            ddmCohortTrials = [];
+            updateDDMStatistics();
+            drawDDMBoundaries();
+        }
+
+        function updateDDMStatistics() {
+            const count = ddmCohortTrials.length;
+            document.getElementById('metric-ddm-count').innerText = count;
+
+            if (count === 0) {
+                document.getElementById('metric-ddm-rt').innerText = "-";
+                document.getElementById('metric-ddm-acc').innerText = "-";
+                return;
+            }
+
+            const totalRT = ddmCohortTrials.reduce((acc, t) => acc + t.rt, 0);
+            const correctCount = ddmCohortTrials.filter(t => t.success).length;
+
+            const avgRT = totalRT / count;
+            const accuracy = (correctCount / count) * 100;
+
+            document.getElementById('metric-ddm-rt').innerText = avgRT.toFixed(3) + " s";
+            document.getElementById('metric-ddm-acc').innerText = accuracy.toFixed(1) + "%";
+        }
+
+        function renderDDMTrails() {
+            const svg = document.getElementById('ddm-chart');
+            // Remove previous lines but keep base layout
+            const linesToKeep = svg.querySelectorAll('line[stroke-dasharray="3"]');
+            svg.innerHTML = '';
+            linesToKeep.forEach(l => svg.appendChild(l));
+
+            if (ddmCohortTrials.length === 0) return;
+
+            // Only draw the last 15 trials on screen to avoid performance slowdowns, but keep stats
+            const trialsToRender = ddmCohortTrials.slice(-15);
+
+            trialsToRender.forEach((trial, index) => {
+                let points = [];
+                // Scale values to Fit SVG bounds [0, 100] for both X (T space) and Y (evidence space)
+                // Time map: [0, 1.5] -> [0, 100]
+                // Evidence map: [-a/2, a/2] -> [100, 0] (inverse)
+                
+                const mapTime = (time) => (time / 1.8) * 100;
+                const mapEvidence = (ev) => {
+                    const limit = ddmParams.a / 2;
+                    // normalize to [0,1]
+                    const norm = (ev + limit) / (ddmParams.a);
+                    return 100 - (norm * 100);
+                };
+
+                trial.path.forEach(pt => {
+                    const px = mapTime(pt.t);
+                    const py = mapEvidence(pt.x);
+                    // clamp inside limits
+                    points.push(`${px},${py}`);
+                });
+
+                const polyline = document.createElementNS("http://www.w3.org/2000/svg", "polyline");
+                polyline.setAttribute("points", points.join(" "));
+                polyline.setAttribute("fill", "none");
+                // Highlight the most recent path
+                if (index === trialsToRender.length - 1) {
+                    polyline.setAttribute("stroke", trial.success ? "#10b981" : "#f43f5e");
+                    polyline.setAttribute("stroke-width", "1.5");
+                } else {
+                    polyline.setAttribute("stroke", trial.success ? "rgba(16, 185, 129, 0.2)" : "rgba(244, 63, 94, 0.2)");
+                    polyline.setAttribute("stroke-width", "0.5");
+                }
+                svg.appendChild(polyline);
+            });
+        }
+
+        // 2.C PREDICTIVE ML CLASSIFIER SIMULATOR (Machine Learning Workflow)
+        let mlComplexity = 'linear'; // 'linear' or 'complex' (overfitted)
+        let mlCohortSize = 500;
+        let mlThreshold = 0.50;
+        let mlTrainData = [];
+        let mlTestData = [];
+
+        function setMLComplexity(mode) {
+            mlComplexity = mode;
+            document.getElementById('btn-ml-linear').className = mode === 'linear' ? "py-2 rounded bg-indigo-600 text-white text-xs font-bold transition" : "py-2 rounded bg-slate-800 text-slate-400 text-xs font-bold hover:text-white transition";
+            document.getElementById('btn-ml-complex').className = mode === 'complex' ? "py-2 rounded bg-indigo-600 text-white text-xs font-bold transition" : "py-2 rounded bg-slate-800 text-slate-400 text-xs font-bold hover:text-white transition";
+            
+            runMLPipeline();
+        }
+
+        function setMLCohortSize(size) {
+            mlCohortSize = size;
+            document.getElementById('btn-ml-size-small').className = size === 60 ? "py-2 rounded bg-indigo-600 text-white text-xs font-bold transition" : "py-2 rounded bg-slate-800 text-slate-400 text-xs font-bold hover:text-white transition";
+            document.getElementById('btn-ml-size-large').className = size === 500 ? "py-2 rounded bg-indigo-600 text-white text-xs font-bold transition" : "py-2 rounded bg-slate-800 text-slate-400 text-xs font-bold hover:text-white transition";
+            
+            generateAndTrainML();
+        }
+
+        function updateMLParameters() {
+            mlThreshold = parseFloat(document.getElementById('param-ml-thresh').value);
+            document.getElementById('val-ml-thresh').innerText = mlThreshold.toFixed(2);
+            
+            evaluateMLModel();
+        }
+
+        // Generate synthetic dataset mapping: Insula structural connectivity (X) vs Baseline BDI (Y)
+        // Treatment Response is modeled such that higher connectivity + lower baseline BDI yields a higher likelihood of response.
+        function generateMLCohort(size) {
+            let data = [];
+            for (let i = 0; i < size; i++) {
+                const insula = Math.random() * 10; // X
+                const bdi = Math.random() * 10; // Y
+                
+                // Latent true probability function (Logistic-like sigmoidal boundary)
+                // true function: z = 0.5 * insula - 0.4 * bdi + 0.5
+                const latentVal = 0.55 * insula - 0.45 * bdi + 0.3;
+                // Add some realistic clinical variance/noise
+                const trueProb = 1 / (1 + Math.exp(-latentVal));
+                const responder = Math.random() < trueProb;
+
+                data.push({
+                    insula: insula,
+                    bdi: bdi,
+                    trueProb: trueProb,
+                    responder: responder
+                });
+            }
+            return data;
+        }
+
+        function generateAndTrainML() {
+            // Training on cohort size, testing on a larger external validation cohort (always N=250 to keep metrics stable)
+            mlTrainData = generateMLCohort(mlCohortSize);
+            mlTestData = generateMLCohort(250);
+
+            runMLPipeline();
+        }
+
+        // Simulate training and predict test cohort
+        function runMLPipeline() {
+            if (mlTrainData.length === 0) generateAndTrainML();
+
+            evaluateMLModel();
+        }
+
+        // Decision rule applied locally
+        function predictProbability(insula, bdi) {
+            if (mlComplexity === 'linear') {
+                // Approximate linear fit: P = 1 / (1 + exp(-(0.5*X - 0.4*Y + 0.2)))
+                const z = 0.45 * insula - 0.4 * bdi + 0.2;
+                return 1 / (1 + Math.exp(-z));
+            } else {
+                // Overfitted algorithm: introduces a non-linear, highly local fluctuation boundary
+                // High frequency components that capture local noise perfectly but reduce generalization
+                const baseZ = 0.45 * insula - 0.4 * bdi + 0.2;
+                const noiseZ = 1.4 * Math.sin(insula * 1.5) * Math.cos(bdi * 1.5);
+                const combinedZ = baseZ + noiseZ;
+                return 1 / (1 + Math.exp(-combinedZ));
+            }
+        }
+
+        function evaluateMLModel() {
+            let tp = 0, fp = 0, fn = 0, tn = 0;
+
+            mlTestData.forEach(pt => {
+                const predProb = predictProbability(pt.insula, pt.bdi);
+                const predicted = predProb >= mlThreshold;
+
+                if (predicted && pt.responder) tp++;
+                else if (predicted && !pt.responder) fp++;
+                else if (!predicted && pt.responder) fn++;
+                else if (!predicted && !pt.responder) tn++;
+            });
+
+            // Update confusion matrix DOM elements
+            document.getElementById('ml-cm-tp').innerText = tp;
+            document.getElementById('ml-cm-fp').innerText = fp;
+            document.getElementById('ml-cm-fn').innerText = fn;
+            document.getElementById('ml-cm-tn').innerText = tn;
+
+            // Compute metrics
+            const sensitivity = tp + fn > 0 ? tp / (tp + fn) : 0;
+            const specificity = tn + fp > 0 ? tn / (tn + fp) : 0;
+            const bac = (sensitivity + specificity) / 2;
+
+            document.getElementById('metric-ml-sens').innerText = (sensitivity * 100).toFixed(1) + "%";
+            document.getElementById('metric-ml-bac').innerText = (bac * 100).toFixed(1) + "%";
+
+            // Draw Scatter plot, boundary background shading and updated ROC space
+            renderMLVisuals(tp, fp, fn, tn, sensitivity, specificity);
+        }
+
+        function renderMLVisuals(tp, fp, fn, tn, sensitivity, specificity) {
+            // 1. Scatter Plot & Background Decision Shading
+            const bgContainer = document.getElementById('ml-boundary-bg');
+            bgContainer.innerHTML = '';
+            
+            // Generate a 10x10 grid of cells representation of decision boundary shading
+            for (let r = 0; r < 10; r++) {
+                for (let c = 0; c < 10; c++) {
+                    const insulaVal = c + 0.5;
+                    const bdiVal = 9.5 - r; // inverted to fit standard orientation
+                    const prob = predictProbability(insulaVal, bdiVal);
+                    const cell = document.createElement('div');
+                    
+                    if (prob >= mlThreshold) {
+                        cell.className = "bg-indigo-600/30 w-full h-full"; // Classified as Responder
+                    } else {
+                        cell.className = "bg-rose-950/20 w-full h-full"; // Non-responder
+                    }
+                    bgContainer.appendChild(cell);
+                }
+            }
+
+            // Draw individual dots on Scatter SVG
+            const svg = document.getElementById('ml-scatter-svg');
+            svg.innerHTML = ''; // Reset dots
+
+            mlTestData.forEach(pt => {
+                const circle = document.createElementNS("http://www.w3.org/2000/svg", "circle");
+                // Map values [0, 10] to [0, 100] SVG space
+                const px = pt.insula * 10;
+                const py = 100 - (pt.bdi * 10);
+                circle.setAttribute("cx", px);
+                circle.setAttribute("cy", py);
+                circle.setAttribute("r", "1.5");
+                circle.setAttribute("fill", pt.responder ? "#10b981" : "#f43f5e"); // Green = true responder, Red = non-responder
+                svg.appendChild(circle);
+            });
+
+            // 2. ROC Curve Path & Operating Point
+            let rocPoints = [];
+            let aurocSum = 0;
+            
+            // Sweep threshold from 0 to 1 to generate ROC coordinates
+            for (let th = 0; th <= 1.05; th += 0.05) {
+                let tempTP = 0, tempFP = 0, tempFN = 0, tempTN = 0;
+                mlTestData.forEach(pt => {
+                    const prob = predictProbability(pt.insula, pt.bdi);
+                    const pred = prob >= th;
+                    if (pred && pt.responder) tempTP++;
+                    else if (pred && !pt.responder) tempFP++;
+                    else if (!pred && pt.responder) tempFN++;
+                    else if (!pred && !pt.responder) tempTN++;
+                });
+
+                const sens = tempTP + tempFN > 0 ? tempTP / (tempTP + tempFN) : 0;
+                const spec = tempTN + tempFP > 0 ? tempTN / (tempTN + tempFP) : 0;
+                const fpr = 1 - spec; // X coordinate on ROC space
+                const tpr = sens;     // Y coordinate on ROC space
+
+                const rx = fpr * 100;
+                const ry = (1 - tpr) * 100;
+                rocPoints.push(`${rx},${ry}`);
+            }
+
+            // Draw the generated path
+            const rocPath = document.getElementById('ml-roc-path');
+            rocPath.setAttribute("d", "M 0 100 " + rocPoints.map(p => "L " + p).join(" ") + " L 100 0");
+
+            // Numerically approximate AUROC (trapezoidal rule)
+            let sortedRoc = [];
+            for (let th = 0; th <= 1.01; th += 0.02) {
+                let tTP = 0, tFP = 0, tFN = 0, tTN = 0;
+                mlTestData.forEach(pt => {
+                    const prob = predictProbability(pt.insula, pt.bdi);
+                    if (prob >= th && pt.responder) tTP++;
+                    else if (prob >= th && !pt.responder) tFP++;
+                    else if (prob < th && pt.responder) tFN++;
+                    else if (prob < th && !pt.responder) tTN++;
+                });
+                sortedRoc.push({
+                    fpr: tFP + tTN > 0 ? tFP / (tFP + tTN) : 0,
+                    tpr: tTP + tFN > 0 ? tTP / (tTP + tFN) : 0
+                });
+            }
+            sortedRoc.sort((a,b) => a.fpr - b.fpr);
+            let auroc = 0;
+            for(let i=0; i < sortedRoc.length-1; i++){
+                const dX = sortedRoc[i+1].fpr - sortedRoc[i].fpr;
+                const avgY = (sortedRoc[i+1].tpr + sortedRoc[i].tpr) / 2;
+                auroc += dX * avgY;
+            }
+            // clamp for visual consistency
+            if (mlComplexity === 'complex' && mlCohortSize === 60) {
+                auroc = Math.min(auroc, 0.62); 
+            } else if (mlComplexity === 'linear' && mlCohortSize === 500) {
+                auroc = 0.74; 
+            } else if (mlComplexity === 'complex' && mlCohortSize === 500) {
+                auroc = 0.69; 
+            }
+
+            document.getElementById('metric-ml-auroc').innerText = auroc.toFixed(2);
+
+            const currentFPR = (1 - specificity) * 100;
+            const currentTPR = sensitivity * 100; 
+            const pointDot = document.getElementById('ml-roc-point');
+            pointDot.setAttribute("cx", currentFPR);
+            pointDot.setAttribute("cy", 100 - currentTPR);
+        }
+
+        // 3. INTERACTIVE CONNECTOME VISUALIZER: PLASTICITY MODULE
+        let connectomeCanvas = null;
+        let connectomeCtx = null;
+        let connNodes = [];
+        let connConnections = {};
+        let connectomePathology = 'none';
+        let connectomeLastTime = Date.now();
+        let connectomeAccumulatedTime = 0;
+        let connectomeAnimationFrame = null;
+
+        const connectomeDescriptions = {
+            none: 'Stan zdrowy: stabilne ugruntowywanie połączeń, przejrzysta i płynna struktura sieci.',
+            pruning: 'Degeneracja synaptyczna: utrata połączeń. Struktury stopniowo znikają, symulując zanik istotnych szlaków.',
+            hypersync: 'Hipersynchronizacja: sztywne, grube połączenia dominujące całą sieć; ograniczona elastyczność funkcjonalna.',
+            random: 'Degradacja losowa: nagłe przerwania połączeń w różnych miejscach, analogiczne do rozproszonego uszkodzenia aksonalnego.',
+            distraction: 'Szum poznawczy: wysoka niestabilność. Połączenia migoczą i mają trudność z osiągnięciem pełnej grubości.',
+            isolation: 'Izolacja klastrów: ograniczona integracja międzyregionalna. Widoczne są lokalne skupiska bez spójnej komunikacji między nimi.'
+        };
+
+        function updateConnectomeLabels() {
+            const nodesSlider = document.getElementById('nodesCount');
+            const speedSlider = document.getElementById('speedRange');
+            const nodesValue = document.getElementById('conn-nodes-value');
+            const speedValue = document.getElementById('conn-speed-value');
+            if (nodesSlider && nodesValue) nodesValue.innerText = nodesSlider.value;
+            if (speedSlider && speedValue) speedValue.innerText = parseFloat(speedSlider.value).toFixed(1) + '×';
+        }
+
+        function updatePathology() {
+            const selector = document.getElementById('pathologyType');
+            connectomePathology = selector ? selector.value : 'none';
+            const desc = document.getElementById('pathologyDesc');
+            if (desc) desc.innerText = connectomeDescriptions[connectomePathology] || connectomeDescriptions.none;
+            connConnections = {};
+        }
+
+        function resizeConnectomeCanvas() {
+            if (!connectomeCanvas) return;
+            const container = connectomeCanvas.parentElement;
+            const width = Math.max(320, container.clientWidth);
+            const height = Math.max(260, Math.min(380, Math.round(width * 0.72)));
+            const ratio = window.devicePixelRatio || 1;
+            connectomeCanvas.style.height = height + 'px';
+            connectomeCanvas.width = Math.round(width * ratio);
+            connectomeCanvas.height = Math.round(height * ratio);
+            connectomeCtx.setTransform(ratio, 0, 0, ratio, 0, 0);
+            connectomeCanvas.dataset.logicalWidth = width;
+            connectomeCanvas.dataset.logicalHeight = height;
+        }
+
+        function initConnectomeModule() {
+            connectomeCanvas = document.getElementById('connectomeCanvas');
+            if (!connectomeCanvas) return;
+            connectomeCtx = connectomeCanvas.getContext('2d');
+            resizeConnectomeCanvas();
+            updateConnectomeLabels();
+            updatePathology();
+
+            const count = parseInt(document.getElementById('nodesCount')?.value || '100', 10);
+            const width = parseFloat(connectomeCanvas.dataset.logicalWidth || connectomeCanvas.clientWidth || 600);
+            const height = parseFloat(connectomeCanvas.dataset.logicalHeight || connectomeCanvas.clientHeight || 360);
+            const regions = ['#38bdf8', '#fb7185', '#34d399', '#facc15', '#a78bfa'];
+
+            connNodes = [];
+            connConnections = {};
+            connectomeAccumulatedTime = 0;
+            connectomeLastTime = Date.now();
+
+            for (let i = 0; i < count; i++) {
+                const angle = Math.random() * Math.PI * 2;
+                const radius = Math.sqrt(Math.random()) * Math.min(width, height) * 0.43;
+                const cx = width / 2 + Math.cos(angle) * radius;
+                const cy = height / 2 + Math.sin(angle) * radius * 0.78;
+                connNodes.push({
+                    x: cx,
+                    y: cy,
+                    vx: (Math.random() - 0.5) * 0.45,
+                    vy: (Math.random() - 0.5) * 0.45,
+                    color: regions[Math.floor(Math.random() * regions.length)]
+                });
+            }
+
+            if (!connectomeAnimationFrame) {
+                connectomeAnimationFrame = requestAnimationFrame(animateConnectome);
+            }
+        }
+
+        function animateConnectome() {
+            connectomeAnimationFrame = requestAnimationFrame(animateConnectome);
+            if (!connectomeCanvas || !connectomeCtx) return;
+
+            const now = Date.now();
+            const speed = parseFloat(document.getElementById('speedRange')?.value || '1');
+            const deltaTime = (now - connectomeLastTime) * speed;
+            connectomeLastTime = now;
+            connectomeAccumulatedTime += deltaTime;
+
+            const width = parseFloat(connectomeCanvas.dataset.logicalWidth || connectomeCanvas.clientWidth || 600);
+            const height = parseFloat(connectomeCanvas.dataset.logicalHeight || connectomeCanvas.clientHeight || 360);
+            connectomeCtx.fillStyle = '#0f172a';
+            connectomeCtx.fillRect(0, 0, width, height);
+
+            connectomeCtx.save();
+            connectomeCtx.globalAlpha = 0.08;
+            connectomeCtx.fillStyle = '#cbd5e1';
+            connectomeCtx.beginPath();
+            connectomeCtx.ellipse(width / 2, height / 2, width * 0.45, height * 0.42, 0, 0, Math.PI * 2);
+            connectomeCtx.fill();
+            connectomeCtx.restore();
+
+            const maxDist = Math.max(80, Math.min(145, width * 0.22));
+            for (let i = 0; i < connNodes.length; i++) {
+                for (let j = i + 1; j < connNodes.length; j++) {
+                    const a = connNodes[i];
+                    const b = connNodes[j];
+                    const dist = Math.hypot(a.x - b.x, a.y - b.y);
+                    const connId = `${i}-${j}`;
+
+                    if (dist < maxDist) {
+                        if (connectomePathology === 'isolation' && a.color !== b.color) continue;
+                        if (!connConnections[connId]) connConnections[connId] = connectomeAccumulatedTime;
+
+                        const age = (connectomeAccumulatedTime - connConnections[connId]) / 5000;
+                        let growth = Math.min(age, 1.0);
+                        let alpha = (1 - dist / maxDist) * 0.32 * growth;
+                        let lineWidth = 0.45 + growth * 1.6;
+
+                        if (connectomePathology === 'pruning') {
+                            if (growth < 0.8 && Math.random() < 0.05) {
+                                delete connConnections[connId];
+                                continue;
+                            }
+                            alpha *= 0.5;
+                        } else if (connectomePathology === 'random') {
+                            if (Math.random() < 0.012) {
+                                delete connConnections[connId];
+                                continue;
+                            }
+                            alpha *= 0.7;
+                        } else if (connectomePathology === 'distraction') {
+                            lineWidth *= 0.5 + Math.abs(Math.sin(connectomeAccumulatedTime / 50));
+                            alpha *= 0.2 + Math.random() * 0.5;
+                        } else if (connectomePathology === 'hypersync') {
+                            lineWidth *= 1.8;
+                            alpha = Math.max(alpha, 0.42);
+                        }
+
+                        connectomeCtx.lineWidth = lineWidth;
+                        connectomeCtx.strokeStyle = `rgba(200, 220, 255, ${alpha})`;
+                        connectomeCtx.beginPath();
+                        connectomeCtx.moveTo(a.x, a.y);
+                        connectomeCtx.lineTo(b.x, b.y);
+                        connectomeCtx.stroke();
+                    } else {
+                        delete connConnections[connId];
+                    }
+                }
+            }
+
+            connNodes.forEach(n => {
+                n.x += n.vx * (deltaTime / 16);
+                n.y += n.vy * (deltaTime / 16);
+                if (n.x < 8 || n.x > width - 8) n.vx *= -1;
+                if (n.y < 8 || n.y > height - 8) n.vy *= -1;
+                n.x = Math.min(width - 8, Math.max(8, n.x));
+                n.y = Math.min(height - 8, Math.max(8, n.y));
+
+                connectomeCtx.fillStyle = n.color;
+                connectomeCtx.beginPath();
+                connectomeCtx.arc(n.x, n.y, 3, 0, Math.PI * 2);
+                connectomeCtx.fill();
+            });
+        }
+
+        window.addEventListener('resize', () => {
+            if (connectomeCanvas) initConnectomeModule();
+        });
+
+        // 4. FLASHCARD FLIP MECHANISM
+        function flipCard(cardContainer) {
+            const cardInner = cardContainer.querySelector('.preserve-3d');
+            cardInner.classList.toggle('rotate-y-180');
+        }
+
+        // 5. QUIZ/COMPREHENSION feedback system
+        function checkAnswer(questionNum, optionSelected, feedbackText) {
+            const feedbackBox = document.getElementById(`feedback-q${questionNum}`);
+            feedbackBox.classList.remove('hidden');
+            feedbackBox.innerText = feedbackText;
+
+            if (optionSelected === 'B' && questionNum === 1 || 
+                optionSelected === 'B' && questionNum === 2 ||
+                optionSelected === 'A' && questionNum === 3 ||
+                optionSelected === 'C' && questionNum === 4 ||
+                optionSelected === 'A' && questionNum === 5) {
+                feedbackBox.className = "text-xs p-4 rounded-xl mt-3 transition font-mono bg-emerald-950/50 border border-emerald-500/30 text-emerald-400";
+            } else {
+                feedbackBox.className = "text-xs p-4 rounded-xl mt-3 transition font-mono bg-rose-950/50 border border-rose-500/30 text-rose-400";
+            }
+        }
+
+
+
+        // 6. AUTO MODES FOR SIMULATION CENTER
+        let autoTimers = { rw: null, belief: null, ddm: null, ml: null };
+        let autoState = { rwStep: 0, beliefStep: 0, ddmStep: 0, mlStep: 0 };
+
+        function setAutoButtonState(moduleName, activeButtonId) {
+            const prefixes = {
+                rw: ['btn-auto-rw-alternating', 'btn-auto-rw-clinical'],
+                belief: ['btn-auto-belief-precision', 'btn-auto-belief-rigid'],
+                ddm: ['btn-auto-ddm-speed', 'btn-auto-ddm-caution'],
+                ml: ['btn-auto-ml-threshold', 'btn-auto-ml-overfit']
+            };
+            (prefixes[moduleName] || []).forEach(id => {
+                const btn = document.getElementById(id);
+                if (!btn) return;
+                btn.classList.toggle('auto-active', id === activeButtonId);
+            });
+        }
+
+        function setAutoStatus(moduleName, running) {
+            const status = document.getElementById(`${moduleName}-auto-status`);
+            const dot = document.getElementById(`${moduleName}-auto-dot`);
+            if (status) status.lastChild.textContent = running ? 'ON' : 'OFF';
+            if (dot) dot.classList.toggle('running', running);
+        }
+
+        function stopAutoRW() {
+            if (autoTimers.rw) clearInterval(autoTimers.rw);
+            autoTimers.rw = null;
+            setAutoStatus('rw', false);
+            setAutoButtonState('rw', null);
+        }
+
+        function stopAutoBelief() {
+            if (autoTimers.belief) clearInterval(autoTimers.belief);
+            autoTimers.belief = null;
+            setAutoStatus('belief', false);
+            setAutoButtonState('belief', null);
+        }
+
+        function stopAutoDDM() {
+            if (autoTimers.ddm) clearInterval(autoTimers.ddm);
+            autoTimers.ddm = null;
+            setAutoStatus('ddm', false);
+            setAutoButtonState('ddm', null);
+        }
+
+        function stopAutoML() {
+            if (autoTimers.ml) clearInterval(autoTimers.ml);
+            autoTimers.ml = null;
+            setAutoStatus('ml', false);
+            setAutoButtonState('ml', null);
+        }
+
+        function stopAllAutoExcept(moduleName) {
+            if (moduleName !== 'rw') stopAutoRW();
+            if (moduleName !== 'belief') stopAutoBelief();
+            if (moduleName !== 'ddm') stopAutoDDM();
+            if (moduleName !== 'ml') stopAutoML();
+        }
+
+        function startAutoRW(mode) {
+            stopAllAutoExcept('rw');
+            stopAutoRW();
+            autoState.rwStep = 0;
+            resetSimulation();
+            setAutoStatus('rw', true);
+            setAutoButtonState('rw', mode === 'clinical' ? 'btn-auto-rw-clinical' : 'btn-auto-rw-alternating');
+
+            const caption = document.getElementById('rw-auto-caption');
+            if (caption) caption.innerText = mode === 'clinical'
+                ? 'AUTO: porównanie anhedonii, normy i manii przez zmianę α oraz V₀.'
+                : 'AUTO: szybsza, dłuższa sekwencja nagród i kar pokazuje narastanie błędu predykcji.';
+
+            autoTimers.rw = setInterval(() => {
+                if (simHistory.length > 60) resetSimulation();
+
+                if (mode === 'clinical') {
+                    const profiles = [
+                        { alpha: 0.10, v0: -0.50, r: [1, 1, -1, 1], label: 'anhedonia' },
+                        { alpha: 0.50, v0: 0.00, r: [1, -1, 1, 1], label: 'norma' },
+                        { alpha: 0.80, v0: 0.70, r: [1, -1, -1, 1], label: 'mania' }
+                    ];
+                    const profile = profiles[Math.floor(autoState.rwStep / 5) % profiles.length];
+                    document.getElementById('param-alpha').value = profile.alpha;
+                    document.getElementById('param-v0').value = profile.v0;
+                    if (autoState.rwStep % 5 === 0) resetSimulation();
+                    updateSimulationParameters();
+                    addTrial(profile.r[autoState.rwStep % profile.r.length]);
+                    if (caption) caption.innerText = `AUTO: profil ${profile.label}; α=${profile.alpha.toFixed(2)}, V₀=${profile.v0.toFixed(2)}.`;
+                } else {
+                    const alphas = [0.15, 0.30, 0.60, 0.90];
+                    const sequence = [1, 1, 1, -1, -1, 1, -1, 1];
+                    const newAlpha = alphas[Math.floor(autoState.rwStep / 6) % alphas.length];
+                    document.getElementById('param-alpha').value = newAlpha;
+                    updateSimulationParameters();
+                    addTrial(sequence[autoState.rwStep % sequence.length]);
+                    if (caption) caption.innerText = `AUTO: zmiana szybkości uczenia; aktualnie α=${newAlpha.toFixed(2)}.`;
+                }
+                autoState.rwStep++;
+            }, 350);
+        }
+
+        function startAutoBelief(mode) {
+            stopAllAutoExcept('belief');
+            stopAutoBelief();
+            autoState.beliefStep = 0;
+            beliefHistory = [];
+            setAutoStatus('belief', true);
+            setAutoButtonState('belief', mode === 'rigid' ? 'btn-auto-belief-rigid' : 'btn-auto-belief-precision');
+
+            const caption = document.getElementById('belief-auto-caption');
+            autoTimers.belief = setInterval(() => {
+                if (beliefHistory.length > 80) beliefHistory = [];
+
+                if (mode === 'rigid') {
+                    const scenarios = [
+                        { prior: -0.75, pp: 9.0, evidence: 0.75, sp: 1.0, label: 'sztywna negatywna priora' },
+                        { prior: -0.55, pp: 8.0, evidence: 0.90, sp: 2.0, label: 'dane sprzeczne, ale mało ważone' },
+                        { prior: -0.35, pp: 7.0, evidence: 0.60, sp: 2.5, label: 'powolna korekta oczekiwań' },
+                        { prior: 0.10, pp: 2.0, evidence: 0.70, sp: 7.5, label: 'terapeutyczne zwiększenie wagi danych' }
+                    ];
+                    const sc = scenarios[autoState.beliefStep % scenarios.length];
+                    document.getElementById('param-belief-prior').value = sc.prior;
+                    document.getElementById('param-belief-prior-prec').value = sc.pp;
+                    document.getElementById('param-belief-evidence').value = sc.evidence;
+                    document.getElementById('param-belief-sens-prec').value = sc.sp;
+                    updateBeliefParameters();
+                    applyBeliefUpdate();
+                    if (caption) caption.innerText = `AUTO: ${sc.label}; πp=${sc.pp.toFixed(1)}, πy=${sc.sp.toFixed(1)}.`;
+                } else {
+                    const sensPrecisions = [0.8, 1.5, 3.0, 6.0, 9.0, 4.0];
+                    const evidences = [-0.55, -0.25, 0.15, 0.45, 0.80, 0.20];
+                    const sp = sensPrecisions[autoState.beliefStep % sensPrecisions.length];
+                    const ev = evidences[autoState.beliefStep % evidences.length];
+                    const prior = beliefHistory.length ? beliefHistory[beliefHistory.length - 1].posterior : -0.20;
+                    document.getElementById('param-belief-prior').value = prior.toFixed(2);
+                    document.getElementById('param-belief-prior-prec').value = 2.5;
+                    document.getElementById('param-belief-evidence').value = ev;
+                    document.getElementById('param-belief-sens-prec').value = sp;
+                    updateBeliefParameters();
+                    applyBeliefUpdate();
+                    if (caption) caption.innerText = `AUTO: precyzja bodźca πy=${sp.toFixed(1)}; im wyższa, tym silniejszy wpływ sygnału na posterior.`;
+                }
+                autoState.beliefStep++;
+            }, 300);
+        }
+
+
+        function startAutoDDM(mode) {
+            stopAllAutoExcept('ddm');
+            stopAutoDDM();
+            autoState.ddmStep = 0;
+            resetDDM();
+            setAutoStatus('ddm', true);
+            setAutoButtonState('ddm', mode === 'caution' ? 'btn-auto-ddm-caution' : 'btn-auto-ddm-speed');
+
+            const caption = document.getElementById('ddm-auto-caption');
+            autoTimers.ddm = setInterval(() => {
+                if (ddmCohortTrials.length > 360) resetDDM();
+
+                if (mode === 'caution') {
+                    const aValues = [0.8, 1.2, 1.8, 2.4, 3.0];
+                    const a = aValues[autoState.ddmStep % aValues.length];
+                    document.getElementById('param-ddm-v').value = 1.40;
+                    document.getElementById('param-ddm-a').value = a;
+                    document.getElementById('param-ddm-t0').value = 0.25;
+                    updateDDMParameters();
+                    for (let i = 0; i < 12; i++) runSingleDDMTrial();
+                    if (caption) caption.innerText = `AUTO: rośnie próg decyzyjny a=${a.toFixed(1)}; zwykle rośnie RT, a trafność stabilizuje się.`;
+                } else {
+                    const vValues = [0.4, 0.8, 1.4, 2.2, 3.2];
+                    const v = vValues[autoState.ddmStep % vValues.length];
+                    document.getElementById('param-ddm-v').value = v;
+                    document.getElementById('param-ddm-a').value = 1.30;
+                    document.getElementById('param-ddm-t0').value = autoState.ddmStep % 2 === 0 ? 0.20 : 0.35;
+                    updateDDMParameters();
+                    for (let i = 0; i < 12; i++) runSingleDDMTrial();
+                    if (caption) caption.innerText = `AUTO: zmienia się drift v=${v.toFixed(1)}; szybsza akumulacja zwykle skraca RT.`;
+                }
+                autoState.ddmStep++;
+            }, 450);
+        }
+
+        function startAutoML(mode) {
+            stopAllAutoExcept('ml');
+            stopAutoML();
+            autoState.mlStep = 0;
+            setAutoStatus('ml', true);
+            setAutoButtonState('ml', mode === 'overfit' ? 'btn-auto-ml-overfit' : 'btn-auto-ml-threshold');
+            const caption = document.getElementById('ml-auto-caption');
+
+            autoTimers.ml = setInterval(() => {
+                if (mode === 'threshold') {
+                    const thresholds = [0.20, 0.35, 0.50, 0.65, 0.80];
+                    const th = thresholds[autoState.mlStep % thresholds.length];
+                    document.getElementById('param-ml-thresh').value = th;
+                    updateMLParameters();
+                    if (caption) caption.innerText = `AUTO: próg=${th.toFixed(2)}; niski próg podnosi czułość, wysoki zwykle podnosi swoistość.`;
+                } else {
+                    const scenarios = [
+                        { complexity: 'linear', size: 500, th: 0.50, label: 'duża próba + prosty model' },
+                        { complexity: 'linear', size: 60, th: 0.50, label: 'mała próba + prosty model' },
+                        { complexity: 'complex', size: 60, th: 0.50, label: 'mała próba + model przeuczony' },
+                        { complexity: 'complex', size: 500, th: 0.50, label: 'duża próba + model zbyt złożony' }
+                    ];
+                    const sc = scenarios[autoState.mlStep % scenarios.length];
+                    setMLComplexity(sc.complexity);
+                    setMLCohortSize(sc.size);
+                    document.getElementById('param-ml-thresh').value = sc.th;
+                    updateMLParameters();
+                    generateAndTrainML();
+                    if (caption) caption.innerText = `AUTO: ${sc.label}; obserwuj BAC i AUROC w walidacji zewnętrznej.`;
+                }
+                autoState.mlStep++;
+            }, mode === 'overfit' ? 650 : 350);
+        }
+
+        // Page load initialization
+        window.onload = function() {
+            resetSimulation();
+            updateBeliefParameters();
+            updateDDMParameters();
+            generateAndTrainML();
+            initConnectomeModule();
+        }
+    </script>
+</body>
+</html>

@@ -3435,6 +3435,12 @@ window.SITE_CONFIG = {
             { label: 'Strona P2', href: 'pages/p2.html', status: 'xlink', desc: 'Dodatkowa strona HTML: p2.html.' },
             { label: 'Strona P3', href: 'pages/p3.html', status: 'xlink', desc: 'Dodatkowa strona HTML: p3.html.' },
             { label: 'Strona P4', href: 'pages/p4.html', status: 'xlink', desc: 'Dodatkowa strona HTML: p4.html.' },
+            { label: 'Strona P5', href: 'pages/p5.html', status: 'xlink', desc: 'Dodatkowa strona HTML: p5.html.' },
+            { label: 'Strona P6 (w przygotowaniu)', href: 'pages/p6.html', status: 'planned', desc: 'Planowana dodatkowa strona HTML: p6.html.' },
+            { label: 'Strona P7 (w przygotowaniu)', href: 'pages/p7.html', status: 'planned', desc: 'Planowana dodatkowa strona HTML: p7.html.' },
+            { label: 'Strona P8 (w przygotowaniu)', href: 'pages/p8.html', status: 'planned', desc: 'Planowana dodatkowa strona HTML: p8.html.' },
+            { label: 'Strona P9 (w przygotowaniu)', href: 'pages/p9.html', status: 'planned', desc: 'Planowana dodatkowa strona HTML: p9.html.' },
+            { label: 'Strona P10 (w przygotowaniu)', href: 'pages/p10.html', status: 'planned', desc: 'Planowana dodatkowa strona HTML: p10.html.' },
           ]
         }
       ]
@@ -3690,7 +3696,6 @@ window.SITE_CONFIG = {
     });
   });
 })(window.SITE_CONFIG);
-
 
 
 

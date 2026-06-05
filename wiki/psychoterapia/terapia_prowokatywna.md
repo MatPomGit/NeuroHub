@@ -42,7 +42,7 @@ Po czwarte, prowokacja jest interwencją wysokiego kontekstu. To samo zdanie mo�
 
 ### 1. Aktywacja sprzeciwu wobec narracji problemowej
 
-W wielu trudnościach psychicznych pacjent utożsamia się z narracją deficytu. Prowokacyjna przesada może zewnętrznić tę narrację i sprawić, że pacjent zacznie z nią dyskutować. Mechanizm przypomina częściowo techniki defuzji poznawczej w ACT oraz eksternalizację problemu w terapii narracyjnej: myśl przestaje być przezroczystą prawdą, a staje się obiektem obserwacji.
+W wielu trudnościach psychicznych pacjent utożsamia się z narracją deficytu. Prowokacyjna przesada może zeksternalizować tę narrację i sprawić, że pacjent zacznie z nią dyskutować. Mechanizm przypomina częściowo techniki defuzji poznawczej w ACT oraz eksternalizację problemu w terapii narracyjnej: myśl przestaje być przezroczystą prawdą, a staje się obiektem obserwacji.
 
 ### 2. Przerwanie wzorca komunikacyjnego
 

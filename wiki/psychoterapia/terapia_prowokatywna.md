@@ -217,7 +217,7 @@ Najważniejszy wniosek brzmi: dobra prowokacja nie rani pacjenta, aby go „zaha
 
 1. Ascher, L. M., & Schotte, D. E. (1982). Paradoxical intention and recursive anxiety. *Journal of Behavior Therapy and Experimental Psychiatry, 13*(2), 119–123.
 2. Beutler, L. E., Moleiro, C., & Talebi, H. (2002). Resistance in psychotherapy: What conclusions are supported by research? *Journal of Clinical Psychology, 58*(2), 207–217.
-3. de Jong, K., Conijn, J. M., Gallagher, R. A. V., Reshetnikova, A. S., Heij, M., & Lutz, M. C. (2021). Using progress feedback to improve outcomes and reduce drop-out, treatment duration, and deterioration: A multilevel meta-analysis. *Clinical Psychology Review, 85*, 102002.
+3. de Jong, K., Conijn, J. M., Gallagher, R. A. V., Reshetnikova, A. S., Heij, M., & Lutz, W. (2021). Using progress feedback to improve outcomes and reduce drop-out, treatment duration, and deterioration: A multilevel meta-analysis. *Clinical Psychology Review, 85*, 102002.
 4. Farrelly, F., & Brandsma, J. M. (1974). *Provocative Therapy*. Meta Publications.
 5. Farrelly, F. (1989). *Provocative Therapy*. Center for Provocative Therapy.
 6. Frankl, V. E. (1960). Paradoxical intention: A logotherapeutic technique. *American Journal of Psychotherapy, 14*(3), 520–535.

@@ -178,7 +178,7 @@ W **CBT** prowokacja może wspierać eksperymenty behawioralne i pracę nad znie
 
 W **ACT** prowokacja może służyć defuzji. Żartobliwe nazwanie myśli lub przesadna inscenizacja „dyktatury umysłu” pomaga zobaczyć, że myśl jest zdarzeniem psychicznym, a nie rozkazem.
 
-W **terapii systemowej** prowokacja może zakłócać sztywne sekwencje rodzinne, ale wymaga kontroli, aby nie wzmocnić koalicji przeciw jednej osobie. Terapeuta powinien prowokować wzorzec interakcji, nie kozła ofiarnego.
+W **terapii systemowej** prowokacja może zakłócać sztywne sekwencje rodzinne, ale wymaga kontroli, aby nie wzmocnić koalicji przeciw jednej osobie. Terapeuta powinien prowokować wzorzec interakcji, a nie kozła ofiarnego.
 
 W **logoterapii** intencja paradoksalna jest klasycznym przykładem paradoksu terapeutycznego. Szczególnie znana jest praca z lękiem antycypacyjnym, w której pacjent próbuje celowo wywołać to, czego panicznie się obawia, co może zmniejszać błędne koło kontroli i napięcia.
 

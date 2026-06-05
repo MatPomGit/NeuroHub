@@ -751,6 +751,7 @@ window.SITE_CONFIG = {
         { id: 'psychoterapia/psychologia_zimbardo',    label: 'Psychologia spoleczna (Zimbardo)',    file: 'wiki/psychoterapia/psychologia_zimbardo.md' },
         { id: 'psychoterapia/aktywacja_behawioralna', label: 'Aktywacja behawioralna',               file: 'wiki/psychoterapia/aktywacja_behawioralna.md' },
         { id: 'psychoterapia/rebt',                    label: 'REBT - racjonalna terapia',            file: 'wiki/psychoterapia/rebt.md'                     },
+        { id: 'psychoterapia/terapia_prowokatywna', label: 'Terapia prowokatywna', file: 'wiki/psychoterapia/terapia_prowokatywna.md' },
         { id: 'psychoterapia/psychologiczne_mechanizmy_przebaczenia', label: 'Mechanizmy przebaczenia po przemocy emocjonalnej', file: 'wiki/psychoterapia/psychologiczne_mechanizmy_przebaczenia.md' },
         { id: 'psychoterapia/superwizja',              label: 'Superwizja w psychoterapii',           file: 'wiki/psychoterapia/superwizja.md'           },
         { id: 'psychoterapia/kontenerowanie_emocji',   label: 'Kontenerowanie emocji w terapii',      file: 'wiki/psychoterapia/kontenerowanie_emocji.md'           },

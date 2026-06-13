@@ -1,18 +1,17 @@
-<!doctype html>
-<html lang="pl" data-theme="borowka">
+<!DOCTYPE html>
+
+<html data-theme="borowka" lang="pl">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Emocje wstydu i winy w różnych kulturach</title>
-
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5/dist/reveal.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5/dist/theme/black.css">
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Playfair+Display:wght@400;700&family=Nunito:wght@400;700&family=Space+Mono:wght@400;700&family=Lora:wght@400;700&display=swap" rel="stylesheet">
-  <link rel="icon" href="https://www.vizja.pl/favicon.ico" type="image/x-icon">
-  <link rel="shortcut icon" href="https://www.vizja.pl/favicon.ico" type="image/x-icon">
-  <link rel="apple-touch-icon" sizes="180x180" href="https://www.vizja.pl/apple-touch-icon.png">
-
-  <style>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Emocje wstydu i winy w różnych kulturach</title>
+<link href="https://cdn.jsdelivr.net/npm/reveal.js@5/dist/reveal.css" rel="stylesheet"/>
+<link href="https://cdn.jsdelivr.net/npm/reveal.js@5/dist/theme/black.css" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&amp;family=Playfair+Display:wght@400;700&amp;family=Nunito:wght@400;700&amp;family=Space+Mono:wght@400;700&amp;family=Lora:wght@400;700&amp;display=swap" rel="stylesheet"/>
+<link href="https://www.vizja.pl/favicon.ico" rel="icon" type="image/x-icon"/>
+<link href="https://www.vizja.pl/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<link href="https://www.vizja.pl/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180"/>
+<style>
     :root {
       --bg-main: #0f172a;
       --bg-secondary: #111827;
@@ -32,7 +31,7 @@
 
     .reveal {
       color: var(--text);
-      font-size: 30px;
+      font-size: 34px;
     }
 
     .reveal h1,
@@ -44,19 +43,19 @@
     }
 
     .reveal h1 {
-      font-size: 2.3em;
-      line-height: 1.1;
+      font-size: 2.4em;
+      line-height: 1.08;
     }
 
     .reveal h2 {
-      font-size: 1.6em;
+      font-size: 1.72em;
       color: var(--accent);
-      margin-bottom: 30px;
+      margin-bottom: 26px;
     }
 
     .reveal h3 {
       color: var(--accent-2);
-      font-size: 1em;
+      font-size: 1.08em;
     }
 
     .subtitle {
@@ -538,581 +537,638 @@
       position: relative;
       z-index: 1;
     }
-  </style>
+  
+
+    /* ── Większa typografia i dolny panel notatek ───────── */
+    .reveal .slides section {
+      line-height: 1.22;
+    }
+
+    .reveal p,
+    .reveal li {
+      line-height: 1.34;
+    }
+
+    .small {
+      font-size: 0.82em;
+    }
+
+    .lead,
+    .callout,
+    .section-note {
+      font-size: 0.82em;
+      line-height: 1.35;
+    }
+
+    .notes-overlay {
+      position: fixed;
+      left: 50%;
+      bottom: 22px;
+      transform: translateX(-50%);
+      width: min(1380px, calc(100vw - 80px));
+      max-height: 33vh;
+      z-index: 10000;
+      display: none;
+      background: rgba(2, 6, 23, 0.94);
+      color: #f8fafc;
+      border: 1px solid rgba(255,255,255,0.18);
+      border-radius: 20px;
+      box-shadow: 0 22px 55px rgba(0,0,0,0.55);
+      backdrop-filter: blur(10px);
+      overflow: hidden;
+    }
+
+    .notes-overlay.visible {
+      display: block;
+    }
+
+    .notes-overlay-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 18px;
+      padding: 12px 20px;
+      color: #bae6fd;
+      font-size: 18px;
+      font-weight: 700;
+      border-bottom: 1px solid rgba(255,255,255,0.12);
+      background: rgba(15, 23, 42, 0.92);
+    }
+
+    .notes-overlay-shortcut {
+      color: #cbd5e1;
+      font-size: 12px;
+      font-weight: 500;
+    }
+
+    .notes-overlay-content {
+      padding: 18px 22px 20px;
+      font-size: 20px;
+      line-height: 1.40;
+      max-height: calc(33vh - 54px);
+      overflow-y: auto;
+    }
+
+    .notes-overlay-content p {
+      margin: 0 0 0.7em 0;
+    }
+</style>
 </head>
 <body>
 <canvas id="particles-canvas"></canvas>
-
-  <div class="panel-stack" id="panelStack" style="display:none">
-
-    <div class="font-switcher" id="fontSwitcher">
-      <button class="font-btn active" data-f="inter"   title="Inter – domyślna">Inter</button>
-      <button class="font-btn"        data-f="playfair" title="Playfair Display – szeryfowa">Serif</button>
-      <button class="font-btn"        data-f="nunito"   title="Nunito – zaokrąglona">Nun</button>
-      <button class="font-btn"        data-f="mono"     title="Space Mono – monoszeryfowa">Mono</button>
-      <button class="font-btn"        data-f="lora"     title="Lora – literacka szeryfowa">Lora</button>
-    </div>
-
-    <div class="theme-switcher" id="themeSwitcher">
-      <button class="theme-btn active" data-t="borowka" title="Borówka"></button>
-      <button class="theme-btn"        data-t="matcha"  title="Matcha"></button>
-      <button class="theme-btn"        data-t="mango"   title="Mango"></button>
-      <button class="theme-btn"        data-t="sliwka"  title="Śliwka"></button>
-      <button class="theme-btn"        data-t="kokos"   title="Kokos"></button>
-    </div>
-
-  </div>
-
-  <div class="timer" id="timer">15:00</div>
-
-  <div class="reveal">
-    <div class="slides">
-
-      <!-- Strona tytułowa -->
-      <section>
-        <h1>Emocje wstydu i winy<br> ich znaczenie i funkcja w różnych kulturach</h1>
-        <div class="subtitle">Metaanaliza problematyki badawczej</div>
-
-        <div class="authors">
-          <br><br><span class="author-name" style="--nd:2.8s;--ndelay:0.0s">Izabela Rybka</span> · <span class="author-name" style="--nd:3.5s;--ndelay:0.4s">Anna Seruga-Łężniak</span> · <span class="author-name" style="--nd:2.3s;--ndelay:0.9s">Julia Bladowska</span><br>
-          <span class="author-name" style="--nd:4.1s;--ndelay:0.2s">Krzysztof Lindorf</span> · <span class="author-name" style="--nd:3.0s;--ndelay:0.7s">Mateusz Pomianek</span>
+<div class="panel-stack" id="panelStack" style="display:none">
+<div class="font-switcher" id="fontSwitcher">
+<button class="font-btn active" data-f="inter" title="Inter – domyślna">Inter</button>
+<button class="font-btn" data-f="playfair" title="Playfair Display – szeryfowa">Serif</button>
+<button class="font-btn" data-f="nunito" title="Nunito – zaokrąglona">Nun</button>
+<button class="font-btn" data-f="mono" title="Space Mono – monoszeryfowa">Mono</button>
+<button class="font-btn" data-f="lora" title="Lora – literacka szeryfowa">Lora</button>
+</div>
+<div class="theme-switcher" id="themeSwitcher">
+<button class="theme-btn active" data-t="borowka" title="Borówka"></button>
+<button class="theme-btn" data-t="matcha" title="Matcha"></button>
+<button class="theme-btn" data-t="mango" title="Mango"></button>
+<button class="theme-btn" data-t="sliwka" title="Śliwka"></button>
+<button class="theme-btn" data-t="kokos" title="Kokos"></button>
+</div>
+</div>
+<div class="timer" id="timer">15:00</div>
+<div aria-live="polite" class="notes-overlay" id="inlineNotesOverlay">
+<div class="notes-overlay-header">
+<span>Notatki do aktualnego slajdu</span>
+<span class="notes-overlay-shortcut">N — pokaż/ukryj</span>
+</div>
+<div class="notes-overlay-content" id="inlineNotesContent"></div>
+</div>
+<div class="reveal">
+<div class="slides">
+<!-- Strona tytułowa -->
+<section>
+<h1>Emocje wstydu i winy<br/> ich znaczenie i funkcja w różnych kulturach</h1>
+<div class="subtitle">Przegląd literatury i synteza problematyki badawczej</div>
+<div class="authors">
+<br/><br/><span class="author-name" style="--nd:2.8s;--ndelay:0.0s">Izabela Rybka</span> · <span class="author-name" style="--nd:3.5s;--ndelay:0.4s">Anna Seruga-Łężniak</span> · <span class="author-name" style="--nd:2.3s;--ndelay:0.9s">Julia Bladowska</span><br/>
+<span class="author-name" style="--nd:4.1s;--ndelay:0.2s">Krzysztof Lindorf</span> · <span class="author-name" style="--nd:3.0s;--ndelay:0.7s">Mateusz Pomianek</span>
+</div>
+<div class="subtitle">
+<br/><br/><br/><br/>Uniwersytet Vizja, Warszawa · 14 czerwca 2026
         </div>
+<!-- <div class="footer">wersja 1.2 „maniakalny kartofel”</div> -->
+<aside class="notes"><p>Wstyd i wina towarzyszą ludzkości od zarania kultur i religii. Są obecne w Biblii, w konfucjańskich tekstach etycznych, w europejskiej filozofii moralnej i w rytuałach społeczności, o których zachodnie uniwersytety nie wiedziały przez długi czas prawie nic. Mimo tej powszechności — albo właśnie dlatego — okazuje się, że znaczenie tych emocji jest głęboko osadzone w konkretnym języku, w konkretnym systemie norm i w konkretnym rozumieniu tego, czym jest człowiek wobec innych ludzi. Celem tej prezentacji jest przegląd trzech dekad badań porównawczych, który pokaże, w czym różne kultury są do siebie zaskakująco podobne, a w czym różnią się w sposób, którego intuicja nie podpowiada.</p></aside></section>
+<!-- Plan prezentacji -->
+<section>
+<h2>Plan prezentacji</h2>
+<div class="card">
+<ol>
+<li>Wprowadzenie i cele przeglądu</li>
+<li>Podstawy teoretyczne</li>
+<li>Metodologie i wyzwania</li>
+<li>Kluczowe odkrycia empiryczne</li>
+<li>Perspektywy teoretyczne</li>
+<li>Konwergencje i rozbieżności</li>
+<li>Ograniczenia i kierunki dalszych badań</li>
+<li>Wnioski i implikacje praktyczne</li>
+</ol>
+</div>
+<aside class="notes"><p>Prezentacja zaczyna się od podstawowych pojęć i teorii klasycznych, które ukształtowały całe pole badań, nawet jeśli dziś są już kwestionowane. Następnie omówione zostaną metody stosowane w badaniach porównawczych i ich ograniczenia — bo to, co wiemy, zależy od tego, jak pytamy. Potem pojawią się dane empiryczne: porównania między kulturami indywidualistycznymi i kolektywistycznymi, różnice między konkretnymi krajami, sytuacje wywołujące emocje i kwestia językowej nieprzetłumaczalności uczuć. Na końcu przyjrzymy się temu, co z tych badań wynika dla praktyki klinicznej, edukacji i pracy organizacyjnej.</p></aside></section>
+<!-- Wprowadzenie i cele przeglądu -->
+<section>
+<h2>Wprowadzenie i cele przeglądu</h2>
+<div class="grid-2">
+<div class="card">
+<h3>Dlaczego wstyd i wina?</h3>
+<ul>
+<li>Fundamentalne emocje samoświadomościowe</li>
+<li>Regulacja zachowań społecznych</li>
+<li>Silna zmienność międzykulturowa</li>
+<li>Znaczenie dla psychoterapii i edukacji</li>
+</ul>
+</div>
+<div class="card">
+<h3>Cele przeglądu</h3>
+<ul>
+<li>Perspektywa antropologiczna</li>
+<li>Synteza teorii psychologii kulturowej</li>
+<li>Omówienie wybranych zagadnień</li>
+<li>Identyfikacja luk badawczych</li>
+</ul>
+</div>
+</div>
+<aside class="notes"><p>Wstyd i wina należą do szczególnej klasy emocji zwanych samoświadomościowymi. Nie są prostą reakcją na ból ani na zagrożenie fizyczne — wymagają czegoś znacznie bardziej złożonego: obrazu siebie, zdolności do oceniania własnego zachowania i odniesienia tej oceny do norm, które uznajemy za obowiązujące. W tym sensie są produktem kultury równie mocno jak biologii. Sygnalizują naruszenie normy, grożą zerwaniem więzi społecznej albo informują o niespełnieniu oczekiwań grupy, do której się należy. Dlatego badanie tych emocji w perspektywie porównawczej to nie tylko akademicka ciekawość — to pytanie o to, co sprawia, że ludzie w różnych częściach świata inaczej regulują swoje relacje i inaczej rozumieją moralną odpowiedzialność. Współczesna literatura pokazuje nakładanie się obu emocji: wstyd może pełnić funkcję naprawczą, a wina bywa silnie regulowana społecznie, nie tylko wewnętrznie. Podział na „kultury wstydu” i „kultury winy” był użyteczny historycznie, ale dziś traktuje się go raczej jako punkt wyjścia niż gotowy opis rzeczywistości. </p></aside></section>
 
-        <div class="subtitle">
-          <br><br><br><br>Uniwersytet Vizja, Warszawa · 14 czerwca 2026
+<!-- Podstawy teoretyczne -->
+<section class="scroll-fit">
+<h2>Klasyczne rozróżnienia</h2>
+
+<div class="card">
+<div class="grid-3">
+<div class="column-left">
+<h3>Kultury wstydu</h3>
+<ul>
+<li>Zewnętrzna orientacja moralna</li>
+<li>Publiczne potępienie jako regulator</li>
+<li>Utraty twarzy</li>
+<li>Archetyp: Japonia</li>
+</ul>
+</div>
+<div class="column-center">
+<img alt="Różnica pomiędzy wstydem i winą" src="images/im1.jpg"/>
+<div class="figure-caption">
+          Rozróżnienie pomiędzy wstydem, a winą
         </div>
-
-        <!-- <div class="footer">wersja 1.2 „maniakalny kartofel”</div> -->
-      </section>
-
-      <!-- Plan prezentacji -->
-      <section>
-        <h2>Plan prezentacji</h2>
-        <div class="card">
-          <ol>
-            <li>Wprowadzenie i cele przeglądu</li>
-            <li>Podstawy teoretyczne</li>
-            <li>Metodologie i wyzwania</li>
-            <li>Kluczowe odkrycia empiryczne</li>
-            <li>Perspektywy teoretyczne</li>
-            <li>Konwergencje i rozbieżności</li>
-            <li>Ograniczenia i kierunki dalszych badań</li>
-            <li>Wnioski i implikacje praktyczne</li>
-          </ol>
-        </div>
-      </section>
-
-      <!-- Wprowadzenie i cele przeglądu -->
-      <section>
-        <h2>Wprowadzenie i cele przeglądu</h2>
-        <div class="grid-2">
-          <div class="card">
-            <h3>Dlaczego wstyd i wina?</h3>
-            <ul>
-              <li>Fundamentalne emocje samoświadomościowe</li>
-              <li>Regulacja zachowań społecznych</li>
-              <li>Silna zmienność międzykulturowa</li>
-              <li>Znaczenie dla psychoterapii i edukacji</li>
-            </ul>
-          </div>
-
-          <div class="card">
-            <h3>Cele przeglądu</h3>
-            <ul>
-              <li>Perspektywa antropologiczna</li>
-              <li>Synteza teorii psychologii kulturowej</li>
-              <li>Przegląd 30 publikacji</li>
-              <li>Identyfikacja luk badawczych</li>
-            </ul>
-          </div>
-        </div>
-      </section>
-
-      <!-- Podstawy teoretyczne -->
-      <section class="scroll-fit">
-        <h2>Klasyczne rozróżnienia</h2>
-        
-        <p class="lead">
-          Współczesna literatura pokazuje nakładanie się obu emocji: wstyd może pełnić funkcję naprawczą, a wina bywa silnie regulowana społecznie, nie tylko wewnętrznie. 
-          Podział na „kultury wstydu” i „kultury winy” był użyteczny historycznie, ale dziś traktuje się go raczej jako punkt wyjścia niż gotowy opis rzeczywistości.
-        </p>
-
-        <div class="card">
-    <div class="grid-3">
-      <div class="column-left">
-        <h3>Kultury wstydu</h3>
-        <ul>
-          <li>Zewnętrzna orientacja moralna</li>
-          <li>Publiczne potępienie jako regulator</li>
-          <li>Centralność utraty twarzy</li>
-          <li>Archetyp: Japonia</li>
-        </ul>
-      </div>
-
-      <div class="column-center">
-        <img src="images/im1.jpg" alt="Różnica pomiędzy wstydem i winą">
-        <div class="figure-caption">
-          Rozróżnienie pomiędzy wstydem i winą
-        </div>
-      </div>
-
-      <div class="column-right">
-        <h3>Kultury winy</h3>
-        <ul>
-          <li>Wewnętrzna orientacja moralna</li>
-          <li>Znaczenie sumienia</li>
-          <li>Indywidualna odpowiedzialność</li>
-          <li>Archetyp: Zachód</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-        <div class="warning">
+</div>
+<div class="column-right">
+<h3>Kultury winy</h3>
+<ul>
+<li>Wewnętrzna orientacja moralna</li>
+<li>Znaczenie sumienia</li>
+<li>Indywidualna odpowiedzialność</li>
+<li>Archetyp: Zachód</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="warning">
           Współczesne badania zakwestionowały prosty podział kultur wstydu i winy.
         </div>
-      </section>
+<aside class="notes"><p>Przez większą część dwudziestego wieku antropolodzy i psycholodzy operowali podziałem na kultury wstydu i kultury winy. W kulturach wstydu zachowanie miało być regulowane przez zewnętrzną ocenę społeczną — lęk przed publicznym upokorzeniem, utratą twarzy, splamieniem honoru rodziny. W kulturach winy motorem miało być wewnętrzne sumienie, prywatna świadomość naruszenia zasad moralnych, niezależna od tego, czy ktokolwiek patrzy. Ten podział jest historycznie ważny i trudno go pominąć, bo ukształtował całą tradycję badań. Ale współczesne dane każą być wobec niego ostrożnym. Wstyd, wbrew swojemu wizerunkowi emocji paraliżującej, może motywować do naprawy szkody, a wina — wbrew swojemu wizerunkowi jako emocji czysto prywatnej — jest mocno zakorzeniona w relacjach społecznych i oczekiwaniach otoczenia.</p></aside></section>
 
-      <!-- Ewolucja perspektyw teoretycznych -->
-      <section>
-        <h2>Ewolucja perspektyw teoretycznych</h2>
-
-        <div class="timeline">
-          <div class="step">
-            <div class="year">Lata 40.–70.</div>
-            <strong>Esencjalizm</strong><br>
+<!-- Ewolucja perspektyw teoretycznych -->
+<section>
+<h2>Ewolucja perspektyw teoretycznych</h2>
+<div class="timeline">
+<div class="step">
+<div class="year">Lata 40.–70.</div>
+<strong>Esencjalizm</strong><br/>
             Prosty podział Benedict.
           </div>
-
-          <div class="step">
-            <div class="year">Lata 80.–90.</div>
-            <strong>Korekty empiryczne</strong><br>
+<div class="step">
+<div class="year">Lata 80.–90.</div>
+<strong>Korekty empiryczne</strong><br/>
             Badania wielowymiarowe.
           </div>
-
-          <div class="step">
-            <div class="year">2000–2010</div>
-            <strong>Kontekstualizm</strong><br>
+<div class="step">
+<div class="year">2000–2010</div>
+<strong>Kontekstualizm</strong><br/>
             Ocena poznawcza i ewolucja.
           </div>
-
-          <div class="step">
-            <div class="year">2010–dziś</div>
-            <strong>Modele zintegrowane</strong><br>
+<div class="step">
+<div class="year">2010–dziś</div>
+<strong>Modele zintegrowane</strong><br/>
             Podejścia ekosocjalne.
           </div>
-        </div>
-      </section>
+</div>
+<aside class="notes"><p>Nauka rzadko porzuca swoje kategorie gwałtownie — częściej je komplikuje. Tak właśnie było z teorią wstydu i winy. Modele esencjalistyczne przypisywały całym cywilizacjom dominującą emocję moralną, jakby kultura była jednorodnym blokiem. Dopiero badania empiryczne z lat dziewięćdziesiątych i późniejsze zaczęły ujawniać, że różnice wewnątrz jednej kultury mogą być równie duże jak różnice między kulturami, i że kontekst sytuacyjny często jest ważniejszy od przynależności narodowej czy etnicznej. Odpowiedzią na tę złożoność są modele zintegrowane, łączące biologiczne podstawy emocji z ich psychologiczną regulacją, społecznym kontekstem i językowym kształtowaniem. To przejście pozwoliło wyjść poza stereotypy w stylu „Japończycy się wstydzą, Amerykanie odczuwają winę" i zadawać pytania znacznie bardziej precyzyjne.</p></aside></section>
 
-      <!-- Metodologie badawcze -->
-      <section class="scroll-fit">
-        <h2>Metodologie badawcze</h2>
-
-        <p class="lead">
+<!-- Metodologie badawcze -->
+<section class="scroll-fit">
+<h2>Metodologie badawcze</h2>
+<p class="lead">
           Różne metody dają różne odpowiedzi: kwestionariusze dobrze porównują populacje, a wywiady etnograficzne lepiej pokazują lokalne znaczenia i subtelne różnice pojęciowe.
         </p>
-
-        <div class="grid-2">
-          <div class="card">
-            <h3>Kwestionariusze i scenariusze</h3>
-            <p class="small">Systematyczne porównania między kulturami.</p>
-          </div>
-
-          <div class="card">
-            <h3>Wywiady etnograficzne</h3>
-            <p class="small">Wgląd w znaczenia kulturowe emocji.</p>
-          </div>
-
-          <div class="card">
-            <h3>MMFA</h3>
-            <p class="small">Niezmienność pomiarowa i analiza czynnikowa.</p>
-          </div>
-
-          <div class="card">
-            <h3>Badania narracyjne</h3>
-            <p class="small">Lokalne systemy znaczeń emocji.</p>
-          </div>
-        
-        <div class="card figure-card" style="margin-top:0;">
-          <img src="images/im2.jpg" alt="Badanie emocji w terenie">
-        </div>
-
-        <div class="card">
+<div class="grid-2">
+<div class="card">
+<h3>Kwestionariusze i scenariusze</h3>
+<p class="small">Systematyczne porównania między kulturami.</p>
+</div>
+<div class="card">
+<h3>Wywiady etnograficzne</h3>
+<p class="small">Wgląd w znaczenia kulturowe emocji.</p>
+</div>
+<div class="card">
+<h3>MMFA</h3>
+<p class="small">Niezmienność pomiarowa i analiza czynnikowa.</p>
+</div>
+<div class="card">
+<h3>Badania narracyjne</h3>
+<p class="small">Lokalne systemy znaczeń emocji.</p>
+</div>
+<div class="card figure-card" style="margin-top:0;">
+<img alt="Badanie emocji w terenie" src="images/im2.jpg"/>
+</div>
+<div class="card">
           Najmocniejsze wnioski pojawiają się wtedy, gdy pomiary ilościowe łączy się z interpretacją jakościową. Sam wynik procentowy rzadko wyjaśnia, co emocja oznacza dla badanych osób.
         </div>
-      </div>
-      </section>
+</div>
+<aside class="notes"><p>Wiedza o emocjach między kulturami jest tyle warta, ile metody, którymi ją zebraliśmy. Kwestionariusze i scenariusze sytuacyjne pozwalają porównywać duże grupy i sprawdzać, jak ludzie reagują na opisane zdarzenia — ale zakładają, że pytanie rozumiane jest tak samo po obu stronach Pacyfiku. Wywiady etnograficzne i badania narracyjne dają dostęp do lokalnych znaczeń emocji, do tego, jak ludzie sami o nich mówią i co za nimi stoi. Kluczowym wymogiem technicznym jest niezmienność pomiarowa — weryfikacja, czy skala rzeczywiście mierzy ten sam konstrukt w różnych językach. Bez tego porównanie jest jak ważenie na dwóch różnych wagach i ogłaszanie zwycięzcy. Dlatego najbardziej wiarygodne wnioski pochodzą z projektów łączących podejście ilościowe i jakościowe.</p></aside></section>
 
-      <!-- Wyzwania metodologiczne -->
-      <section>
-        <h2>Wyzwania metodologiczne</h2>
+<!-- Wyzwania metodologiczne -->
+<section>
+<h2>Wyzwania metodologiczne</h2>
+<div class="card">
+<ol>
+<li><span class="highlight">Ekwiwalencja semantyczna</span> – czy pojęcia emocji są porównywalne?</li>
+<li><span class="highlight">Próbkowanie kulturowe</span> – dominacja badań USA–Azja Wschodnia.</li>
+<li><span class="highlight">Badania przekrojowe</span> – brak perspektywy podłużnej.</li>
+<li><span class="highlight">Fragmentacja analiz</span> – słaba integracja neurobiologii i kultury.</li>
+</ol>
+</div>
+<aside class="notes"><p>Trudność zaczyna się już na poziomie słowa. Terminy tłumaczone jako „wstyd" w różnych językach mogą obejmować zupełnie inne układy znaczeń społecznych, innych aktorów, inne konsekwencje i inne sposoby radzenia sobie. Polska „wina" i angielski „guilt" są bliższe, ale i tu subtelne różnice kulturowe potrafią zaburzyć interpretację wyników. Do tego dochodzi nierównomierność prób — badania przez długi czas koncentrowały się na porównaniu Stanów Zjednoczonych, Europy Zachodniej i Azji Wschodniej, jakby reszta świata nie istniała. Większość badań to przekrojowe obserwacje w jednym momencie, które nie mówią nic o tym, jak emocje rozwijają się w toku socjalizacji. I wreszcie: psychologia, neurobiologia i antropologia niemal nie rozmawiają ze sobą w tym obszarze, mimo że każda z nich wnosi coś, czego pozostałe nie mają.</p></aside></section>
 
-        <div class="card">
-          <ol>
-            <li><span class="highlight">Ekwiwalencja semantyczna</span> – czy pojęcia emocji są porównywalne?</li>
-            <li><span class="highlight">Próbkowanie kulturowe</span> – dominacja badań USA–Azja Wschodnia.</li>
-            <li><span class="highlight">Badania przekrojowe</span> – brak perspektywy longitudinalnej.</li>
-            <li><span class="highlight">Fragmentacja analiz</span> – słaba integracja neurobiologii i kultury.</li>
-          </ol>
-        </div>
-      </section>
-
-      <!-- Kluczowe odkrycia empiryczne -->
-      <section>
-        <h2>Indywidualizm vs kolektywizm</h2>
-        
-        <p class="lead">
+<!-- Kluczowe odkrycia empiryczne -->
+<section>
+<h2>Indywidualizm i kolektywizm</h2>
+<p class="lead">
           Zależność ta nie jest liniowa. W kulturach kolektywistycznych wstyd częściej pojawia się jako reakcja na naruszenie relacji, a wina częściej wiąże się z oceną zgodności z normą.
         </p>
-
-        <div class="big-quote">
+<div class="big-quote">
           Kultury kolektywistyczne wykazują wyższy poziom wstydu, natomiast relacja kolektywizm–wina pozostaje bardziej złożona.
         </div>
+<div class="metric-grid">
+<div class="metric">
+<div class="value">85%</div>
+<div class="label">Wstyd<br/>kolektywizm</div>
+</div>
+<div class="metric">
+<div class="value">45%</div>
+<div class="label">Wstyd<br/>indywidualizm</div>
+</div>
+<div class="metric">
+<div class="value">60%</div>
+<div class="label">Wina<br/>kolektywizm</div>
+</div>
+<div class="metric">
+<div class="value">65%</div>
+<div class="label">Wina<br/>indywidualizm</div>
+</div>
+</div>
+<div class="callout">Wartości procentowe na slajdzie pełnią funkcję ilustracyjną. Odczyt zależności powinien uwzględniać normy rodzinne, styl socjalizacji i sposób mówienia o odpowiedzialności.</div>
+<aside class="notes"><p>Najszerzej badanym wymiarem kulturowym w kontekście wstydu i winy jest podział na kultury indywidualistyczne i kolektywistyczne. W kulturach kolektywistycznych wstyd częściej uruchamia się w sytuacjach, które naruszają harmonię grupową, reputację rodziny lub lojalność wobec wspólnoty — nie dlatego, że „coś jest ze mną nie tak", ale dlatego, że „zawiodłem kogoś ważnego". Kultury indywidualistyczne częściej łączą winę z osobistym przekroczeniem własnych standardów moralnych — z poczuciem, że to ja, jako jednostka, postąpiłem niezgodnie z tym, w co wierzę. Ta zależność jest realna, ale nie liniowa. Wina jest obecna w kulturach kolektywistycznych, wstyd ma znaczenie w kulturach indywidualistycznych — różni się konfiguracja, a nie sama obecność tych emocji.</p></aside></section>
 
-        <div class="metric-grid">
-          <div class="metric">
-            <div class="value">85%</div>
-            <div class="label">Wstyd<br>kolektywizm</div>
-          </div>
-
-          <div class="metric">
-            <div class="value">45%</div>
-            <div class="label">Wstyd<br>indywidualizm</div>
-          </div>
-
-          <div class="metric">
-            <div class="value">60%</div>
-            <div class="label">Wina<br>kolektywizm</div>
-          </div>
-
-          <div class="metric">
-            <div class="value">65%</div>
-            <div class="label">Wina<br>indywidualizm</div>
-          </div>
-        </div>
-
-        <div class="callout">
-          Odczyt tych danych powinien uwzględniać normy rodzinne, styl socjalizacji i sposób mówienia o odpowiedzialności. Te elementy potrafią zmieniać wynik równie mocno jak sama przynależność kulturowa.
-        </div>
-      </section>
-
-      <!-- Wykres porównawczy emocji -->
-      <section>
-        <h2>Poziom % deklarowanego wstydu i winy</h2>
-        <p class="lead">
-          Zestawienie pokazuje wyraźnie, że w kulturach kolektywistycznych silniej dominuje wstyd, natomiast poziom winy pozostaje bardziej wyrównany między badanymi kontekstami.
-        </p>
-
-        <div class="chart-panel">
-          <!--  <div class="chart-title">Poziom deklarowanego wstydu i winy (% respondentów)</div> -->
-          <svg viewBox="0 0 900 360" width="100%" role="img" aria-label="Wykres słupkowy: wstyd i wina w kulturach kolektywistycznych i indywidualistycznych">
-            <line x1="90" y1="40" x2="90" y2="295" stroke="rgba(226,232,240,0.5)" stroke-width="2"/>
-            <line x1="90" y1="295" x2="860" y2="295" stroke="rgba(226,232,240,0.5)" stroke-width="2"/>
-
-            <line x1="90" y1="245" x2="860" y2="245" stroke="rgba(148,163,184,0.22)" stroke-width="1"/>
-            <line x1="90" y1="195" x2="860" y2="195" stroke="rgba(148,163,184,0.22)" stroke-width="1"/>
-            <line x1="90" y1="145" x2="860" y2="145" stroke="rgba(148,163,184,0.22)" stroke-width="1"/>
-            <line x1="90" y1="95" x2="860" y2="95" stroke="rgba(148,163,184,0.22)" stroke-width="1"/>
-
-            <text x="60" y="300" fill="#cbd5e1" font-size="16">0</text>
-            <text x="46" y="250" fill="#cbd5e1" font-size="16">20</text>
-            <text x="46" y="200" fill="#cbd5e1" font-size="16">40</text>
-            <text x="46" y="150" fill="#cbd5e1" font-size="16">60</text>
-            <text x="46" y="100" fill="#cbd5e1" font-size="16">80</text>
-            <text x="46" y="50" fill="#cbd5e1" font-size="16">100</text>
-
-            <rect class="chart-bar b1" x="190" y="82.5" width="90" height="212.5" rx="12" fill="#38bdf8"/>
-            <rect class="chart-bar b2" x="330" y="182.5" width="90" height="112.5" rx="12" fill="#38bdf8"/>
-            <rect class="chart-bar b3" x="520" y="145" width="90" height="150" rx="12" fill="#a855f7"/>
-            <rect class="chart-bar b4" x="660" y="132.5" width="90" height="162.5" rx="12" fill="#a855f7"/>
-
-            <text x="235" y="74" fill="#e2e8f0" font-size="17" text-anchor="middle">85%</text>
-            <text x="375" y="174" fill="#e2e8f0" font-size="17" text-anchor="middle">45%</text>
-            <text x="565" y="137" fill="#e2e8f0" font-size="17" text-anchor="middle">60%</text>
-            <text x="705" y="124" fill="#e2e8f0" font-size="17" text-anchor="middle">65%</text>
-
-            <text x="235" y="322" fill="#cbd5e1" font-size="16" text-anchor="middle">Wstyd</text>
-            <text x="375" y="322" fill="#cbd5e1" font-size="16" text-anchor="middle">Wstyd</text>
-            <text x="565" y="322" fill="#cbd5e1" font-size="16" text-anchor="middle">Wina</text>
-            <text x="705" y="322" fill="#cbd5e1" font-size="16" text-anchor="middle">Wina</text>
-
-            <text x="285" y="345" fill="#94a3b8" font-size="14" text-anchor="middle">kolektywizm</text>
-            <text x="470" y="345" fill="#94a3b8" font-size="14" text-anchor="middle">indywidualizm</text>
-            <text x="615" y="345" fill="#94a3b8" font-size="14" text-anchor="middle">kolektywizm</text>
-            <text x="755" y="345" fill="#94a3b8" font-size="14" text-anchor="middle">indywidualizm</text>
-          </svg>
-  <!--
+<!-- Wykres porównawczy emocji -->
+<section>
+<h2>Schematyczne porównanie wstydu i winy</h2>
+<p class="lead">Zestawienie ilustruje kierunek zależności: w kulturach kolektywistycznych silniej zaznacza się wstyd, natomiast poziom winy pozostaje bardziej zależny od kontekstu i sposobu pomiaru.</p>
+<div class="chart-panel">
+<!--  <div class="chart-title">Poziom deklarowanego wstydu i winy (% respondentów)</div> -->
+<svg aria-label="Wykres słupkowy: wstyd i wina w kulturach kolektywistycznych i indywidualistycznych" role="img" viewbox="0 0 900 360" width="100%">
+<line stroke="rgba(226,232,240,0.5)" stroke-width="2" x1="90" x2="90" y1="40" y2="295"></line>
+<line stroke="rgba(226,232,240,0.5)" stroke-width="2" x1="90" x2="860" y1="295" y2="295"></line>
+<line stroke="rgba(148,163,184,0.22)" stroke-width="1" x1="90" x2="860" y1="245" y2="245"></line>
+<line stroke="rgba(148,163,184,0.22)" stroke-width="1" x1="90" x2="860" y1="195" y2="195"></line>
+<line stroke="rgba(148,163,184,0.22)" stroke-width="1" x1="90" x2="860" y1="145" y2="145"></line>
+<line stroke="rgba(148,163,184,0.22)" stroke-width="1" x1="90" x2="860" y1="95" y2="95"></line>
+<text fill="#cbd5e1" font-size="16" x="60" y="300">0</text>
+<text fill="#cbd5e1" font-size="16" x="46" y="250">20</text>
+<text fill="#cbd5e1" font-size="16" x="46" y="200">40</text>
+<text fill="#cbd5e1" font-size="16" x="46" y="150">60</text>
+<text fill="#cbd5e1" font-size="16" x="46" y="100">80</text>
+<text fill="#cbd5e1" font-size="16" x="46" y="50">100</text>
+<rect class="chart-bar b1" fill="#38bdf8" height="212.5" rx="12" width="90" x="190" y="82.5"></rect>
+<rect class="chart-bar b2" fill="#38bdf8" height="112.5" rx="12" width="90" x="330" y="182.5"></rect>
+<rect class="chart-bar b3" fill="#a855f7" height="150" rx="12" width="90" x="520" y="145"></rect>
+<rect class="chart-bar b4" fill="#a855f7" height="162.5" rx="12" width="90" x="660" y="132.5"></rect>
+<text fill="#e2e8f0" font-size="17" text-anchor="middle" x="235" y="74">85%</text>
+<text fill="#e2e8f0" font-size="17" text-anchor="middle" x="375" y="174">45%</text>
+<text fill="#e2e8f0" font-size="17" text-anchor="middle" x="565" y="137">60%</text>
+<text fill="#e2e8f0" font-size="17" text-anchor="middle" x="705" y="124">65%</text>
+<text fill="#cbd5e1" font-size="16" text-anchor="middle" x="235" y="322">Wstyd</text>
+<text fill="#cbd5e1" font-size="16" text-anchor="middle" x="375" y="322">Wstyd</text>
+<text fill="#cbd5e1" font-size="16" text-anchor="middle" x="565" y="322">Wina</text>
+<text fill="#cbd5e1" font-size="16" text-anchor="middle" x="705" y="322">Wina</text>
+<text fill="#94a3b8" font-size="14" text-anchor="middle" x="285" y="345">kolektywizm</text>
+<text fill="#94a3b8" font-size="14" text-anchor="middle" x="470" y="345">indywidualizm</text>
+<text fill="#94a3b8" font-size="14" text-anchor="middle" x="615" y="345">kolektywizm</text>
+<text fill="#94a3b8" font-size="14" text-anchor="middle" x="755" y="345">indywidualizm</text>
+</svg>
+<!--
           <div class="chart-legend">
             <span class="legend-item"><span class="legend-dot shame"></span>Wstyd</span>
             <span class="legend-item"><span class="legend-dot guilt"></span>Wina</span>
           </div> -->
-        </div>
-      </section>
-
-      <!-- Różnice międzykulturowe -->
-      <section class="scroll-fit">
-        <h2>Różnice międzykulturowe</h2>
-
-        <div class="grid-2">
-          <div class="card">
-            <h3>Chiny vs Kanada</h3>
-            <p>Silniejszy i trwalszy wstyd w Chinach. W Kanadzie silniejsze motywacje naprawcze związane z winą.</p>
-          </div>
-
-          <div class="card">
-            <h3>Turcja vs Niemcy</h3>
-            <p>W Turcji wstyd wzmacnia perspektywę społeczną, w Niemczech większą rolę odgrywa wina.</p>
-          </div>
-
-          <div class="card">
-            <h3>Włochy vs USA</h3>
-            <p>Większe nakładanie się wstydu i zakłopotania we Włoszech.</p>
-          </div>
-
-            <div class="card figure-card">
-              <img src="images/im3.jpg" style="margin-top:0;"/>
-            </div>
-        </div>
-
-        <div class="section-note">
+</div><div class="section-note">Uwaga: wartości są syntetyczną wizualizacją kierunku ustaleń, a nie wynikiem jednej formalnej metaanalizy.</div>
+<aside class="notes"><p>Najistotniejsza obserwacja, którą można wyciągnąć z zestawienia danych porównawczych, brzmi: wstyd silniej różnicuje kultury kolektywistyczne i indywidualistyczne niż wina. Poziom winy jest bardziej wyrównany między kulturami i silniej zależy od sposobu pomiaru oraz od typu sytuacji, niż od szerokiej geograficznej przynależności kulturowej. To znaczy, że mówienie „ta kultura to kultura wstydu, a tamta — winy" jest zawsze uproszczeniem. Trafniejsze pytanie brzmi: w jakich konkretnych sytuacjach dana emocja zostaje uruchomiona i jaką funkcję społeczną pełni w danym kontekście. Wstyd może chronić relacje. Wina może naprawiać krzywdę. Obie mogą paraliżować lub mobilizować — zależnie od tego, kto doświadcza, wobec kogo i w jakich okolicznościach.</p></aside></section>
+<!-- Różnice międzykulturowe -->
+<section class="scroll-fit">
+<h2>Różnice międzykulturowe</h2>
+<div class="grid-2">
+<div class="card">
+<h3>Chiny vs Kanada</h3>
+<p>Silniejszy i trwalszy wstyd w Chinach. W Kanadzie silniejsze motywacje naprawcze związane z winą.</p>
+</div>
+<div class="card">
+<h3>Turcja vs Niemcy</h3>
+<p>W Turcji wstyd wzmacnia perspektywę społeczną, w Niemczech większą rolę odgrywa wina.</p>
+</div>
+<div class="card">
+<h3>Włochy vs USA</h3>
+<p>Większe nakładanie się wstydu i zakłopotania we Włoszech.</p>
+</div>
+<div class="card figure-card">
+<img src="images/im3.jpg" style="margin-top:0;"/>
+</div>
+</div>
+<div class="section-note">
           W takim ujęciu różnice międzykulturowe stają się mniej rankingiem, a bardziej mapą sposobów regulacji relacji społecznych.
         </div>
-      </section>
-
-      <!-- Konteksty wywołujące emocje -->
-      <section>
-        <h2>Konteksty wywołujące emocje</h2>
-
-        <div class="grid-2">
-          <div class="card">
-            <h3>Wzorce uniwersalne</h3>
-            <ul>
-              <li>Wstyd przy publicznych niepowodzeniach</li>
-              <li>Wina przy naruszeniu norm moralnych</li>
-              <li>Wspólne zachowania naprawcze</li>
-            </ul>
-          </div>
-
-          <div class="card">
-            <h3>Różnice kulturowe</h3>
-            <ul>
-              <li>Wstyd prywatny w kulturze chińskiej</li>
-              <li>Silniejszy wpływ religijności w ZEA</li>
-              <li>Wpływ globalizacji i akulturacji</li>
-            </ul>
-          </div>
-        </div>
-
-        <div class="callout">
-          To, co w jednej kulturze jest sygnałem zdrowej autorefleksji, w innej może być odczytywane jako nadmierna samokontrola lub zagrożenie relacyjne. - a to jest istotne klinicznie
-        </div>
-      </section>
-
-      <!-- Semantyka i konceptualizacja emocji -->
-      <section>
-        <h2>Semantyka i konceptualizacja</h2>
-
-        <div class="card">
-          <p>
+<aside class="notes"><p>Badania konkretnych par kulturowych pokazują, że różnice nie są wyłącznie kwestią natężenia emocji, ale ich znaczenia i funkcji. W porównaniach chińsko-kanadyjskich wstyd bywa opisywany jako bardziej trwały i dotkliwszy w kontekście chińskim, podczas gdy wina w kontekście kanadyjskim częściej wiąże się z chęcią naprawy i działaniem naprawczym. W badaniach turecko-niemieckich obydwie emocje różnie wspierają umiejętność przyjmowania perspektywy społecznej — co ma konsekwencje dla komunikacji i rozwiązywania konfliktów. Z kolei dane włosko-amerykańskie pokazują, że granica między wstydem, winą a zakłopotaniem nie przebiega tak samo w każdej kulturze. Różnice kulturowe warto więc traktować jako mapę regulacji relacji społecznych — nie jako ranking cywilizacji według stopnia dojrzałości moralnej.</p></aside></section>
+<!-- Konteksty wywołujące emocje -->
+<section>
+<h2>Konteksty wywołujące emocje</h2>
+<div class="grid-2">
+<div class="card">
+<h3>Wzorce uniwersalne</h3>
+<ul>
+<li>Wstyd przy publicznych niepowodzeniach</li>
+<li>Wina przy naruszeniu norm moralnych</li>
+<li>Wspólne zachowania naprawcze</li>
+</ul>
+</div>
+<div class="card">
+<h3>Różnice kulturowe</h3>
+<ul>
+<li>Wstyd prywatny w kulturze chińskiej</li>
+<li>Silniejszy wpływ religijności w ZEA</li>
+<li>Wpływ globalizacji i akulturacji</li>
+</ul>
+</div>
+</div>
+<div class="callout">To, co w jednej kulturze jest sygnałem zdrowej autorefleksji, w innej może być odczytywane jako nadmierna samokontrola lub zagrożenie relacyjne. Ma to bezpośrednie znaczenie kliniczne.</div>
+<aside class="notes"><p>Pewne wzorce wydają się względnie uniwersalne. Publiczne niepowodzenie w wielu kulturach wywołuje wstyd, a naruszenie norm moralnych — winę. Ale już granica między tym, co publiczne, a tym, co prywatne, działa inaczej w różnych kulturach. W niektórych kontekstach wstyd pojawia się, nawet gdy naruszenie jest absolutnie niewidoczne dla otoczenia — bo norma społeczna została tak silnie zinternalizowana, że jej złamanie jest odczuwalne niezależnie od świadków. Religijność, struktura rodziny, praktyki edukacyjne i doświadczenie akulturacji — a więc kontakt z innymi kulturami w ramach migracji lub zmiany środowiska — wszystkie te czynniki modyfikują te wzorce i czynią z emocji moralnych zjawisko znacznie bardziej dynamiczne niż sugerują proste modele.</p></aside></section>
+<!-- Semantyka i konceptualizacja emocji -->
+<section>
+<h2>Semantyka i konceptualizacja</h2>
+<div class="card">
+<p>
             Terminy emocjonalne nie są prostymi translacjami. Reprezentują odmienne konceptualizacje moralności, relacji społecznych i self.
           </p>
+<div style="margin-top:30px">
+<span class="pill">xiū</span>
+<span class="pill">羞耻 (xiūchǐ)</span>
+<span class="pill">wstyd</span>
+<span class="pill">guilt</span>
+<span class="pill">Rarámuri</span>
+</div>
+</div>
+<div class="section-note">Dlatego porównania międzykulturowe wymagają nie tylko tłumaczenia słów, ale też rekonstrukcji lokalnych ram znaczeniowych.</div>
+<aside class="notes"><p>Język to nie tylko etykieta przyklejona na gotowe doświadczenie — język kształtuje to, czego się doświadcza. Terminy takie jak „wstyd", „guilt", „xiū" czy „xiūchǐ" nie są prostymi odpowiednikami tej samej emocji zapisanej w różnych językach. Każdy z nich jest osadzony w określonym modelu osoby, relacji i moralności. „Xiūchǐ" w tradycji konfucjańskiej ma głęboko pozytywne konotacje — zdolność do wstydu jest cnotą, oznaką moralnej wrażliwości, a jej brak jest czymś niepokojącym. Tymczasem w wielu zachodnich kontekstach terapeutycznych wstyd jest przede wszystkim czymś, od czego należy się uwolnić. Tłumaczenie słów nie wystarcza zatem do porównania emocji — trzeba jeszcze zrozumieć, jakie zachowania, normy, relacje i konsekwencje społeczne są z danym słowem skojarzone.</p></aside></section>
 
-          <div style="margin-top:30px">
-            <span class="pill">xiū</span>
-            <span class="pill">羞耻</span>
-            <span class="pill">wstyd</span>
-            <span class="pill">guilt</span>
-            <span class="pill">Rarámuri</span>
-          </div>
-        </div>
-        <div class="section-note">
-          I dlatego wlaśnie porównania międzykulturowe wymagają nie tylko tłumaczenia słów, ale też rekonstrukcji lokalnych ram znaczeniowych.
-        </div>
-      </section>
+<!-- Kluczowe odkrycia empiryczne: perspektywy teoretyczne -->
+<section>
+<h2>4 perspektywy teoretyczne</h2>
+<div class="grid-2">
+<div class="card">
+<h3>T1 · Teoria oceny poznawczej</h3>
+<p>Ocena sytuacji i zgodności z normami.</p>
+</div>
+<div class="card">
+<h3>T2 · Podejście społeczno-funkcjonalne</h3>
+<p>Emocje jako regulatory zachowań społecznych.</p>
+</div>
+<div class="card">
+<h3>T3 · Perspektywa ewolucyjna</h3>
+<p>Wstyd jako mechanizm adaptacyjny.</p>
+</div>
+<div class="card">
+<h3>T4 · Konstruktywizm</h3>
+<p>Emocje jako produkty praktyk i języka.</p>
+</div>
+</div>
+<aside class="notes"><p>Cztery główne tradycje teoretyczne oferują różne klucze do rozumienia wstydu i winy. Teoria oceny poznawczej wyjaśnia, że emocja jest wynikiem interpretacji sytuacji: oceny kontroli, odpowiedzialności i zgodności z normami. Podejście społeczno-funkcjonalne podkreśla, że emocje regulują relacje i motywują zachowania naprawcze — są narzędziami życia zbiorowego, nie tylko prywatnymi przeżyciami. Perspektywa ewolucyjna widzi wstyd i winę jako mechanizmy adaptacyjne, które chroniły przed wykluczeniem ze wspólnoty i wspierały kooperację w warunkach, gdy przeżycie jednostki zależało od grupy. Konstruktywizm przypomina wreszcie, że emocje są nie tylko odczuwane, ale i tworzone przez język, praktyki społeczne i lokalne systemy znaczeń — i że dwa człowieki, mówiące o „wstydzeniu się", mogą opisywać dwa bardzo różne doświadczenia.</p></aside></section>
 
-      <!-- Kluczowe odkrycia empiryczne: perspektywy teoretyczne -->
-      <section>
-        <h2>4 perspektywy teoretyczne</h2>
-
-        <div class="grid-2">
-          <div class="card">
-            <h3>T1 · Teoria oceny poznawczej</h3>
-            <p>Ocena sytuacji i zgodności z normami.</p>
-          </div>
-
-          <div class="card">
-            <h3>T2 · Podejście społeczno-funkcjonalne</h3>
-            <p>Emocje jako regulatory zachowań społecznych.</p>
-          </div>
-
-          <div class="card">
-            <h3>T3 · Perspektywa ewolucyjna</h3>
-            <p>Wstyd jako mechanizm adaptacyjny.</p>
-          </div>
-
-          <div class="card">
-            <h3>T4 · Konstruktywizm</h3>
-            <p>Emocje jako produkty praktyk i języka.</p>
-          </div>
-        </div>
-      </section>
-
-      <!-- Konwergencje i rozbieżności -->
-      <section>
-        <h2>Konwergencje i rozbieżności</h2>
-
-        <div class="grid-2">
-          <div class="card">
-            <h3>Konwergencje</h3>
-            <ul>
-              <li>Wyższy wstyd w kulturach kolektywistycznych</li>
-              <li>Uniwersalne funkcje ewolucyjne</li>
-              <li>Powtarzalne wzorce sytuacyjne</li>
-            </ul>
-          </div>
-
-          <div class="card">
-            <h3>Rozbieżności</h3>
-            <ul>
-              <li>Niespójna relacja kolektywizm–wina</li>
-              <li>Spór o uniwersalność emocji</li>
-              <li>Różnice w relacji wstyd–wina</li>
-            </ul>
-          </div>
-        </div>
-
-        <div class="callout">
+<!-- Konwergencje i rozbieżności -->
+<section>
+<h2>Konwergencje i rozbieżności</h2>
+<div class="grid-2">
+<div class="card">
+<h3>Konwergencje</h3>
+<ul>
+<li>Wyższy wstyd w kulturach kolektywistycznych</li>
+<li>Uniwersalne funkcje ewolucyjne</li>
+<li>Powtarzalne wzorce sytuacyjne</li>
+</ul>
+</div>
+<div class="card">
+<h3>Rozbieżności</h3>
+<ul>
+<li>Niespójna relacja kolektywizm–wina</li>
+<li>Spór o uniwersalność emocji</li>
+<li>Różnice w relacji wstyd–wina</li>
+</ul>
+</div>
+</div>
+<div class="callout">
           Najbardziej użyteczne są dziś modele hybrydowe: uznają zarówno wspólne mechanizmy emocjonalne, jak i lokalne sposoby ich interpretowania.
         </div>
-      </section>
+<aside class="notes"><p>W literaturze kilka rzeczy jest naprawdę dobrze ugruntowanych. Najbardziej stabilny i replikowany wniosek brzmi: kultury bardziej kolektywistyczne częściej wiążą wstyd z regulacją relacji społecznych. Spójne są też dane wskazujące, że publiczna ocena i zagrożenie reputacją silnie aktywują wstyd w wielu różnych kontekstach kulturowych. Rozbieżności dotyczą głównie winy — jej związku z kolektywizmem, jej roli w różnych religiach i stopnia, w jakim kategorie emocjonalne są naprawdę porównywalne. Odpowiedzią na tę złożoność są modele hybrydowe, które przyjmują istnienie pewnych wspólnych mechanizmów emocjonalnych — bo ewolucja działała na całą naszą linię rodową — ale nie pomijają lokalnych znaczeń, które kultury nadają tym mechanizmom przez tysiące lat historii.</p></aside></section>
 
-      <!-- Wykres: konwergencje i rozbieżności -->
-      <section>
-        <h2>Udział konwergencji i rozbieżności w analizach dotyczących wstydu i winy (%)</h2>
-        <p class="lead">
-          Dla wstydu obserwujemy silniejsze konwergencje między badaniami, podczas gdy w obszarze winy większy udział mają rozbieżności interpretacyjne i metodologiczne.
-        </p>
-
-        <div class="chart-panel">
-          <!--<div class="chart-title">Udział konwergencji i rozbieżności w analizach dotyczących wstydu i winy (%)</div> -->
-          <svg viewBox="0 0 900 360" width="100%" role="img" aria-label="Wykres słupkowy: konwergencje i rozbieżności dla wstydu i winy">
-            <line x1="90" y1="40" x2="90" y2="295" stroke="rgba(226,232,240,0.5)" stroke-width="2"/>
-            <line x1="90" y1="295" x2="860" y2="295" stroke="rgba(226,232,240,0.5)" stroke-width="2"/>
-
-            <line x1="90" y1="245" x2="860" y2="245" stroke="rgba(148,163,184,0.22)" stroke-width="1"/>
-            <line x1="90" y1="195" x2="860" y2="195" stroke="rgba(148,163,184,0.22)" stroke-width="1"/>
-            <line x1="90" y1="145" x2="860" y2="145" stroke="rgba(148,163,184,0.22)" stroke-width="1"/>
-            <line x1="90" y1="95" x2="860" y2="95" stroke="rgba(148,163,184,0.22)" stroke-width="1"/>
-
-            <text x="60" y="300" fill="#cbd5e1" font-size="16">0</text>
-            <text x="46" y="250" fill="#cbd5e1" font-size="16">20</text>
-            <text x="46" y="200" fill="#cbd5e1" font-size="16">40</text>
-            <text x="46" y="150" fill="#cbd5e1" font-size="16">60</text>
-            <text x="46" y="100" fill="#cbd5e1" font-size="16">80</text>
-            <text x="46" y="50" fill="#cbd5e1" font-size="16">100</text>
-
-            <rect class="chart-bar b1" x="200" y="100" width="95" height="195" rx="12" fill="#34d399"/>
-            <rect class="chart-bar b2" x="330" y="155" width="95" height="140" rx="12" fill="#f59e0b"/>
-            <rect class="chart-bar b3" x="520" y="132.5" width="95" height="162.5" rx="12" fill="#34d399"/>
-            <rect class="chart-bar b4" x="650" y="125" width="95" height="170" rx="12" fill="#f59e0b"/>
-
-            <text x="247" y="92" fill="#e2e8f0" font-size="17" text-anchor="middle">78%</text>
-            <text x="377" y="147" fill="#e2e8f0" font-size="17" text-anchor="middle">56%</text>
-            <text x="567" y="124" fill="#e2e8f0" font-size="17" text-anchor="middle">65%</text>
-            <text x="697" y="117" fill="#e2e8f0" font-size="17" text-anchor="middle">68%</text>
-
-            <text x="247" y="320" fill="#cbd5e1" font-size="16" text-anchor="middle">Konwergencje</text>
-            <text x="377" y="320" fill="#cbd5e1" font-size="16" text-anchor="middle">Rozbieżności</text>
-            <text x="567" y="320" fill="#cbd5e1" font-size="16" text-anchor="middle">Konwergencje</text>
-            <text x="697" y="320" fill="#cbd5e1" font-size="16" text-anchor="middle">Rozbieżności</text>
-
-            <text x="312" y="344" fill="#94a3b8" font-size="14" text-anchor="middle">Wstyd</text>
-            <text x="632" y="344" fill="#94a3b8" font-size="14" text-anchor="middle">Wina</text>
-          </svg>
-
-          <!--
+<!-- Wykres: konwergencje i rozbieżności -->
+<section>
+<h2>Schematyczny udział konwergencji i rozbieżności</h2>
+<p class="lead">Dla wstydu obserwujemy silniejsze konwergencje między badaniami, podczas gdy w obszarze winy częściej pojawiają się rozbieżności interpretacyjne i metodologiczne.</p>
+<div class="chart-panel">
+<!--<div class="chart-title">Udział konwergencji i rozbieżności w analizach dotyczących wstydu i winy (%)</div> -->
+<svg aria-label="Wykres słupkowy: konwergencje i rozbieżności dla wstydu i winy" role="img" viewbox="0 0 900 360" width="100%">
+<line stroke="rgba(226,232,240,0.5)" stroke-width="2" x1="90" x2="90" y1="40" y2="295"></line>
+<line stroke="rgba(226,232,240,0.5)" stroke-width="2" x1="90" x2="860" y1="295" y2="295"></line>
+<line stroke="rgba(148,163,184,0.22)" stroke-width="1" x1="90" x2="860" y1="245" y2="245"></line>
+<line stroke="rgba(148,163,184,0.22)" stroke-width="1" x1="90" x2="860" y1="195" y2="195"></line>
+<line stroke="rgba(148,163,184,0.22)" stroke-width="1" x1="90" x2="860" y1="145" y2="145"></line>
+<line stroke="rgba(148,163,184,0.22)" stroke-width="1" x1="90" x2="860" y1="95" y2="95"></line>
+<text fill="#cbd5e1" font-size="16" x="60" y="300">0</text>
+<text fill="#cbd5e1" font-size="16" x="46" y="250">20</text>
+<text fill="#cbd5e1" font-size="16" x="46" y="200">40</text>
+<text fill="#cbd5e1" font-size="16" x="46" y="150">60</text>
+<text fill="#cbd5e1" font-size="16" x="46" y="100">80</text>
+<text fill="#cbd5e1" font-size="16" x="46" y="50">100</text>
+<rect class="chart-bar b1" fill="#34d399" height="195" rx="12" width="95" x="200" y="100"></rect>
+<rect class="chart-bar b2" fill="#f59e0b" height="140" rx="12" width="95" x="330" y="155"></rect>
+<rect class="chart-bar b3" fill="#34d399" height="162.5" rx="12" width="95" x="520" y="132.5"></rect>
+<rect class="chart-bar b4" fill="#f59e0b" height="170" rx="12" width="95" x="650" y="125"></rect>
+<text fill="#e2e8f0" font-size="17" text-anchor="middle" x="247" y="92">78%</text>
+<text fill="#e2e8f0" font-size="17" text-anchor="middle" x="377" y="147">56%</text>
+<text fill="#e2e8f0" font-size="17" text-anchor="middle" x="567" y="124">65%</text>
+<text fill="#e2e8f0" font-size="17" text-anchor="middle" x="697" y="117">68%</text>
+<text fill="#cbd5e1" font-size="16" text-anchor="middle" x="247" y="320">Konwergencje</text>
+<text fill="#cbd5e1" font-size="16" text-anchor="middle" x="377" y="320">Rozbieżności</text>
+<text fill="#cbd5e1" font-size="16" text-anchor="middle" x="567" y="320">Konwergencje</text>
+<text fill="#cbd5e1" font-size="16" text-anchor="middle" x="697" y="320">Rozbieżności</text>
+<text fill="#94a3b8" font-size="14" text-anchor="middle" x="312" y="344">Wstyd</text>
+<text fill="#94a3b8" font-size="14" text-anchor="middle" x="632" y="344">Wina</text>
+</svg>
+<!--
           <div class="chart-legend">
             <span class="legend-item"><span class="legend-dot conv"></span>Konwergencje</span>
             <span class="legend-item"><span class="legend-dot div"></span>Rozbieżności</span>
           </div> -->
-        </div>
+</div><div class="section-note">Uwaga: wartości są wizualnym podsumowaniem kierunku literatury, a nie precyzyjnym wskaźnikiem statystycznym.</div>
+<!-- <div class="section-note">  W obszarze wstydu częściej powtarza się kierunek wyników, natomiast dla winy utrzymuje się większa niejednorodność zależna od kontekstu kulturowego i sposobu operacjonalizacji zmiennych. </div> -->
+<aside class="notes"><p>Wyniki w obszarze wstydu są znacznie bardziej spójne między badaniami niż wyniki dotyczące winy. Dla wstydu kierunek zależności — silniejsza rola w kulturach kolektywistycznych, związek z regulacją relacji i reputacją — powtarza się w kolejnych pracach. Wina natomiast jest konstruktem znacznie trudniejszym do jednoznacznego ulokowania w przestrzeni kulturowej. Jej znaczenie zmienia się w zależności od norm religijnych, od tego, jak dana kultura rozumie osobistą odpowiedzialność i sprawczość, od indywidualizmu, od sposobu pomiaru i od typu scenariuszy używanych w badaniach. Może to oznaczać, że wina jako kategoria psychologiczna jest bardziej podatna na lokalne kształtowanie niż wstyd — albo że po prostu jest trudniejsza do zbadania. Odpowiedź na to pytanie należy do nierozstrzygniętych.</p></aside></section>
 
-        <!-- <div class="section-note">  W obszarze wstydu częściej powtarza się kierunek wyników, natomiast dla winy utrzymuje się większa niejednorodność zależna od kontekstu kulturowego i sposobu operacjonalizacji zmiennych. </div> -->
-      </section>
-
-      <!-- Ograniczenia i kierunki dalszych badań -->
-      <section>
-        <h2>Przyszłe kierunki badań</h2>
-
-        <div class="timeline">
-          <div class="step">
-            <strong>Rozszerzenie kulturowe</strong>
-          </div>
-
-          <div class="step">
-            <strong>Nowe metodologie</strong>
-          </div>
-
-          <div class="step">
-            <strong>Badania podłużne</strong>
-          </div>
-
-          <div class="step">
-            <strong>Integracja poziomów</strong>
-          </div>
-        </div>
-
-        <div class="center" style="margin-top:35px">
-          <span class="pill">Neuroobrazowanie</span>
-          <span class="pill">MMFA</span>
-          <span class="pill">Akulturacja</span>
-          <span class="pill">Psychoterapia</span>
-          <span class="pill">Intersekcjonalność</span>
-        </div>
-
-        <div class="section-note">
+<!-- Ograniczenia i kierunki dalszych badań -->
+<section>
+<h2>Ograniczenia obecnych badań</h2>
+<div class="grid-2">
+<div class="card">
+<h3>Ekwiwalencja pomiarowa</h3>
+<p class="small">Nie zawsze wiadomo, czy skale mierzą ten sam konstrukt w różnych językach i kulturach.</p>
+</div>
+<div class="card">
+<h3>Nierównowaga prób</h3>
+<p class="small">Dominują porównania Zachód-Azja; mniej danych dotyczy społeczeństw afrykańskich, latynoamerykańskich, rdzennych i części bliskowschodnich.</p>
+</div>
+<div class="card">
+<h3>Brak perspektywy podłużnej</h3>
+<p class="small">Nadal słabo wiadomo, jak wstyd i wina rozwijają się w ontogenezie oraz pod wpływem migracji i akulturacji.</p>
+</div>
+<div class="card">
+<h3>Słaba integracja poziomów</h3>
+<p class="small">Potrzebne są modele łączące język, kulturę, rozwój, procesy poznawcze i neurobiologię.</p>
+</div>
+</div>
+<aside class="notes"><p>Każda synteza jest tak silna jak badania, na których się opiera — a badania nad wstydem i winą mają kilka poważnych ograniczeń strukturalnych. Ekwiwalencja pomiarowa to problem fundacyjny: zanim porówna się wyniki między krajami, trzeba sprawdzić, czy skale mierzą rzeczywiście ten sam konstrukt, a nie jego lokalne przybliżenie. Próby badawcze są nierównomierne — nadreprezentacja Stanów Zjednoczonych, Europy i Azji Wschodniej sprawia, że wiemy nieproporcjonalnie mało o Afryce Subsaharyjskiej, Ameryce Łacińskiej, świecie arabskim i społeczeństwach rdzennych. Badań podłużnych — takich, które śledziłyby, jak dzieci uczą się wstydu i winy w toku socjalizacji — jest wciąż zbyt mało. I wreszcie: psychologia kulturowa, neurobiologia i antropologia rzadko pracują razem, choć każda z tych dyscyplin zna coś, czego pozostałe nie wiedzą.</p></aside></section><section>
+<h2>Implikacje praktyczne</h2>
+<div class="grid-2">
+<div class="card">
+<h3>Psychoterapia</h3>
+<p class="small">Nie należy narzucać zachodniego rozumienia wstydu i winy klientom z innych kontekstów kulturowych.</p>
+</div>
+<div class="card">
+<h3>Edukacja</h3>
+<p class="small">Publiczna krytyka, pochwała i ocena osiągnięć mogą wywoływać odmienne reakcje zależnie od socjalizacji kulturowej.</p>
+</div>
+<div class="card">
+<h3>Organizacje</h3>
+<p class="small">Wstyd i wina wpływają na odpowiedzialność, przyjmowanie perspektywy, negocjacje i naprawianie konfliktów.</p>
+</div>
+<div class="card">
+<h3>Prawo i polityka społeczna</h3>
+<p class="small">Sprawiedliwość naprawcza wymaga wrażliwości na kulturowe znaczenie przeprosin, kompensacji i odbudowy relacji.</p>
+</div>
+</div>
+<aside class="notes"><p>Ustalenia badań porównawczych mają realne konsekwencje poza akademią. W psychoterapii międzykulturowej terapeuta, który zakłada, że klient rozumie wstyd i winę tak samo jak on sam, ryzykuje poważne nieporozumienia kliniczne — ocenianie siebie jako złej osoby i ocenianie swojego zachowania jako złego to dwa różne problemy z różnymi ścieżkami terapeutycznymi, które w różnych kulturach mogą być domyślnie traktowane inaczej. W edukacji publiczna pochwała lub krytyka mogą wywoływać skrajnie różne reakcje emocjonalne w zależności od kulturowego kontekstu ucznia — to, co dla jednego jest motywujące, dla drugiego może być głęboko upokarzające. W organizacjach międzynarodowych wstyd i wina wpływają na komunikację, negocjacje i rozwiązywanie konfliktów w sposób, który często pozostaje niewidoczny dla uczestników. W prawie i polityce społecznej odgrywają rolę w sprawiedliwości naprawczej i mediacji.</p></aside></section><section>
+<h2>Przyszłe kierunki badań</h2>
+<div class="timeline">
+<div class="step">
+<strong>Rozszerzenie kulturowe</strong>
+</div>
+<div class="step">
+<strong>Nowe metodologie</strong>
+</div>
+<div class="step">
+<strong>Badania podłużne</strong>
+</div>
+<div class="step">
+<strong>Integracja poziomów</strong>
+</div>
+</div>
+<div class="center" style="margin-top:35px">
+<span class="pill">Neuroobrazowanie</span>
+<span class="pill">MMFA</span>
+<span class="pill">Akulturacja</span>
+<span class="pill">Psychoterapia</span>
+<span class="pill">Intersekcjonalność</span>
+</div>
+<div class="section-note">
           Najcenniejsze będą projekty długofalowe i międzydyscyplinarne, bo tylko one pokażą, jak emocje zmieniają się wraz z wiekiem, migracją i zmianą kontekstu społecznego.
         </div>
-      </section>
-
-      <!-- Wykres: przyszłe kierunki badań -->
-      <section>
-        <h2>Wnioski</h2>
-
-        <p class="lead">
+<aside class="notes"><p>Badania nad wstydem i winą są w miejscu, w którym coraz wyraźniej widać granice dotychczasowego podejścia. Potrzeba rozszerzenia próbki kulturowej — poza zachodnią i wschodnioazjatycką dominantę — jest oczywista i pilna: nie można budować teorii emocji moralnych na podstawie danych z mniej niż jednej czwartej świata. Potrzebne są bardziej zaawansowane metody porównawcze, które pozwolą rozstrzygać kwestie ekwiwalencji pomiarowej zamiast ją zakładać. Badania podłużne z dziećmi mogłyby pokazać, kiedy i jak wstyd oddziela się od winy w toku rozwoju — i czy ta ścieżka wygląda tak samo w Nairobi, w Seulu i w Krakowie. Najbardziej obiecującym kierunkiem jest jednak integracja psychologii kulturowej z neuroobrazowaniem, badaniami nad akulturacją i praktyką kliniczną — bo dopiero połączenie tych poziomów analizy daje szansę na teorię emocji moralnych, która będzie zarazem precyzyjna i prawdziwie powszechna.</p></aside></section>
+<!-- Wykres: przyszłe kierunki badań -->
+<section>
+<h2>Wnioski</h2>
+<p class="lead">
           Wnioski płynące z przeglądu są praktyczne: zamiast szukać prostego podziału kultur, warto badać mechanizmy, które uruchamiają emocje i nadają im znaczenie w konkretnych społecznościach.
         </p>
-
-        <div class="card">
-          <ul>
-            <li>Kultury kolektywistyczne wykazują wyższy poziom wstydu.</li>
-            <li>Relacja z winą jest wielowymiarowa i zależna od kontekstu.</li>
-            <li>Emocje są osadzone w języku i kulturze.</li>
-            <li>Najbardziej obiecujące są modele integrujące neurobiologię, psychologię i kulturę.</li>
-          </ul>
-        </div>
-
-        <div class="callout">
+<div class="card">
+<ul>
+<li>Kultury kolektywistyczne wykazują wyższy poziom wstydu.</li>
+<li>Relacja z winą jest wielowymiarowa i zależna od kontekstu.</li>
+<li>Emocje są osadzone w języku i kulturze.</li>
+<li>Najbardziej obiecujące są modele integrujące neurobiologię, psychologię i kulturę.</li>
+</ul>
+</div>
+<div class="callout">
           W praktyce pytanie nie brzmi więc, „czy dana kultura jest kulturą wstydu?”, ale „w jakich sytuacjach i przez jakie normy wstyd lub wina zostają wywołane”.
         </div>
-      </section>
+<aside class="notes"><p>Prosty podział na kultury wstydu i kultury winy nie przeżył konfrontacji z danymi empirycznymi. Wstyd i wina są rozpoznawalne w bardzo różnych kulturach, ale ich znaczenie, funkcja, intensywność i konsekwencje są głęboko osadzone w konkretnym środowisku społecznym i językowym. Wstyd częściej i wyraźniej różnicuje kultury kolektywistyczne i indywidualistyczne, natomiast wina wymaga bardziej zniuansowanej analizy uwzględniającej kontekst religijny, normatywny i sytuacyjny. Zamiast pytać, czy dana kultura jest kulturą wstydu, lepiej pytać: jakie normy, relacje i sytuacje aktywują wstyd lub winę w tym konkretnym kontekście? I jaką funkcję społeczną ta emocja tam pełni? To pytanie jest trudniejsze, ale znacznie bliższe prawdy.</p></aside></section>
 
-      <!-- Strona końcowa -->
-      <section>
-        <h1>i... to by bylo na tyle</h1>
-        <div class="subtitle">Dziękujemy za uwagę</div>
-
-        <div class="authors">
-          <br><span class="author-name" style="--nd:2.8s;--ndelay:0.0s">Izabela Rybka</span> · <span class="author-name" style="--nd:3.5s;--ndelay:0.4s">Anna Seruga-Łężniak</span> · <span class="author-name" style="--nd:2.3s;--ndelay:0.9s">Julia Bladowska</span><br>
-          <span class="author-name" style="--nd:4.1s;--ndelay:0.2s">Krzysztof Lindorf</span> · <span class="author-name" style="--nd:3.0s;--ndelay:0.7s">Mateusz Pomianek</span>
-        </div>
-      </section>
-
-    </div>
+<!-- Wybrane pozycje bibliograficzne -->
+<section class="scroll-fit">
+  <h2>Wybrane pozycje bibliograficzne</h2>
+  <div class="card" style="text-align:left; font-size:0.58em; line-height:1.42;">
+    <ol>
+      <li>Bierbrauer, G. (1992). <em>Reactions to Violation of Normative Standards: A Cross-Cultural Analysis of Shame and Guilt</em>. <em>International Journal of Psychology</em>. DOI: 10.1080/00207599208246874</li>
+      <li>Furukawa, E. et al. (2012). <em>Cross-cultural Continuities and Discontinuities in Shame, Guilt, and Pride</em>. <em>Self and Identity</em>. DOI: 10.1080/15298868.2010.512748</li>
+      <li>Young, I. F. et al. (2021). <em>A Multidimensional Approach to the Relationship between Individualism-Collectivism and Guilt and Shame</em>. <em>Emotion</em>. DOI: 10.1037/EMO0000689</li>
+      <li>Su, J. et al. (2020). <em>Chinese and Canadian Identity on Responses to the Experience of Shame and Guilt</em>. <em>International Journal of Mental Health and Addiction</em>. DOI: 10.1007/S11469-020-00350-9</li>
+      <li>Söylemez, S. et al. (2022). <em>How Shame and Guilt Influence Perspective Taking: A Comparison of Turkish and German Cultures</em>. <em>Journal of Cognition and Culture</em>. DOI: 10.1163/15685373-12340123</li>
+      <li>Giorgetta, C. et al. (2023). <em>Guilt, shame, and embarrassment: similar or different emotions?</em> <em>Frontiers in Psychology</em>. DOI: 10.3389/fpsyg.2023.1260396</li>
+      <li>Liu, C. et al. (2023). <em>Social-functional characteristics of Chinese terms translated as “shame” or “guilt”</em>. <em>Cognition &amp; Emotion</em>. DOI: 10.1080/02699931.2023.2179976</li>
+      <li>Kirmayer, L. J. et al. (2018). <em>Cultural logics of emotion: Implications for understanding torture and its sequelae</em>. <em>Torture</em>. DOI: 10.7146/TORTURE.V28I1.105480</li>
+    </ol>
   </div>
+  <div class="section-note">
+    Dobór pozycji obejmuje klasyczne badania porównawcze, prace rozwojowe, analizy semantyczne oraz współczesne modele integrujące psychologię kulturową z szerszym kontekstem społecznym.
+  </div>
+  <aside class="notes"><p>Na tym slajdzie pokazuję wybrane źródła, które najlepiej reprezentują główne wątki prezentacji: klasyczne porównania międzykulturowe, badania dzieci, wielowymiarowe ujęcie indywidualizmu i kolektywizmu, różnice semantyczne oraz współczesne modele integracyjne. Nie jest to pełna bibliografia artykułu, lecz zestaw najważniejszych pozycji, do których warto wrócić, jeśli ktoś chce pogłębić temat po prezentacji.</p></aside>
+</section>
 
-<script src="https://cdn.jsdelivr.net/npm/reveal.js@5/dist/reveal.js"></script>
+<!-- Strona końcowa -->
+<section>
+<h1>Dziękujemy za uwagę</h1>
+<div class="subtitle">Pytania i dyskusja</div>
+<div class="authors">
+<br/><span class="author-name" style="--nd:2.8s;--ndelay:0.0s">Izabela Rybka</span> · <span class="author-name" style="--nd:3.5s;--ndelay:0.4s">Anna Seruga-Łężniak</span> · <span class="author-name" style="--nd:2.3s;--ndelay:0.9s">Julia Bladowska</span><br/>
+<span class="author-name" style="--nd:4.1s;--ndelay:0.2s">Krzysztof Lindorf</span> · <span class="author-name" style="--nd:3.0s;--ndelay:0.7s">Mateusz Pomianek</span>
+</div>
+<aside class="notes"><p>Badanie wstydu i winy w perspektywie porównawczej ujawnia jednocześnie dwie rzeczy, które na pierwszy rzut oka mogą wydawać się sprzeczne: coś głęboko wspólnego w ludzkim doświadczeniu moralnym i zarazem niezwykłą różnorodność form, jakie to doświadczenie przybiera. Ludzie wszędzie czują, że naruszyli normę, że zawiedli kogoś ważnego, że powinni coś naprawić. Ale to, co wymaga naprawy, kto musi o tym wiedzieć i przed kim jednostka odpowiada — to definiuje każda kultura po swojemu, przez pokolenia historii, religii, języka i praktyk społecznych. Wrażliwość na tę różnorodność nie jest przejawem relatywizmu moralnego — jest warunkiem skutecznego działania w świecie, który jest złożony i różnorodny nie na pokaz, ale naprawdę.</p></aside></section>
 
+<!-- Widok pliku PDF -->
+<section class="pdf-slide">
+  <h2>Pełny plik PDF</h2>
+  <div class="pdf-frame-wrap">
+    <iframe class="pdf-frame" src="files/wstyd_wina.pdf" title="Podgląd pliku PDF: wstyd_wina.pdf"></iframe>
+  </div>
+  <p class="pdf-fallback">
+    Jeżeli podgląd PDF nie wyświetla się w przeglądarce, otwórz plik bezpośrednio:
+    <a href="files/wstyd_wina.pdf" target="_blank" rel="noopener">files/wstyd_wina.pdf</a>.
+  </p>
+  <aside class="notes"><p>Na końcu prezentacji znajduje się pełny plik PDF z materiałem źródłowym. Ten slajd pełni funkcję podglądu dokumentu i może być użyty podczas dyskusji, aby szybko odwołać się do treści artykułu.</p></aside>
+</section>
+
+</div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/reveal.js@5/dist/reveal.js"></script><script src="https://cdn.jsdelivr.net/npm/reveal.js@5/plugin/notes/notes.js"></script>
 <script>
   Reveal.initialize({
     hash: true,
@@ -1127,6 +1183,7 @@
     controls: true,
     progress: true,
     history: true,
+    plugins: (typeof RevealNotes !== 'undefined') ? [ RevealNotes ] : [],
   });
 
   // ── Timer (startuje dopiero od 2. slajdu) ────────────────
@@ -1184,6 +1241,7 @@
 
   // ── Obsługa zmiany slajdu ────────────────────────────────
   Reveal.on('slidechanged', event => {
+    
     // Uruchom timer dopiero od 2. slajdu
     if (!timerRunning && event.indexh >= 1) {
       timerRunning = true;
@@ -1251,6 +1309,50 @@
     htmlEl.setAttribute('data-theme', savedTheme);
     themeBtns.forEach(b => b.classList.toggle('active', b.dataset.t === savedTheme));
   }
+
+
+
+  // ── Dolny panel notatek prelegenta na aktualnym slajdzie ──
+  const inlineNotesOverlay = document.getElementById('inlineNotesOverlay');
+  const inlineNotesContent = document.getElementById('inlineNotesContent');
+  let inlineNotesVisible = false;
+
+  function getCurrentSlideNotesHtml() {
+    const slide = Reveal.getCurrentSlide();
+    if (!slide) return '<p>Brak notatek dla tego slajdu.</p>';
+    const notes = slide.querySelector('aside.notes');
+    if (!notes || !notes.innerHTML.trim()) return '<p>Brak notatek dla tego slajdu.</p>';
+    return notes.innerHTML;
+  }
+
+  function refreshInlineNotes() {
+    if (!inlineNotesContent) return;
+    inlineNotesContent.innerHTML = getCurrentSlideNotesHtml();
+  }
+
+  function setInlineNotesVisible(value) {
+    inlineNotesVisible = value;
+    if (!inlineNotesOverlay) return;
+    inlineNotesOverlay.classList.toggle('visible', inlineNotesVisible);
+    if (inlineNotesVisible) refreshInlineNotes();
+  }
+
+  document.addEventListener('keydown', event => {
+    const tag = (event.target && event.target.tagName) ? event.target.tagName.toLowerCase() : '';
+    if (tag === 'input' || tag === 'textarea' || event.target?.isContentEditable) return;
+    if (event.key && event.key.toLowerCase() === 'n') {
+      event.preventDefault();
+      setInlineNotesVisible(!inlineNotesVisible);
+    }
+  });
+
+  Reveal.on('slidechanged', () => {
+    if (inlineNotesVisible) refreshInlineNotes();
+  });
+
+  Reveal.on('ready', () => {
+    refreshInlineNotes();
+  });
 
   // ── Cząsteczki w tle ────────────────────────────────────
   (function () {

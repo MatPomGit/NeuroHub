@@ -25,14 +25,30 @@
       --warning: #fbbf24;
     }
 
+    html,
+    body {
+      min-height: 100%;
+      background: var(--bg-main);
+    }
+
     body {
       font-family: "Inter", "Segoe UI", sans-serif;
       transition: background 0.5s;
+      overflow: hidden;
     }
 
     .reveal {
       color: var(--text);
       font-size: 34px;
+      background: transparent;
+      isolation: isolate;
+    }
+
+    .reveal .slides > section:not(.present),
+    .reveal .slides > section > section:not(.present) {
+      opacity: 0 !important;
+      visibility: hidden !important;
+      pointer-events: none !important;
     }
 
     .reveal h1,

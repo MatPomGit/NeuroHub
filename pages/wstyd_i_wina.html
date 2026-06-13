@@ -85,6 +85,21 @@
       background: rgba(255,255,255,0.03);
     }
 
+    .slide-bottom-image {
+      position: absolute;
+      left: 50%;
+      bottom: 18px;
+      transform: translateX(-50%);
+      display: block;
+      width: min(42%, 560px);
+      max-height: 18vh;
+      object-fit: contain;
+      border-radius: 16px;
+      border: 1px solid rgba(255,255,255,0.12);
+      box-shadow: 0 16px 36px rgba(0,0,0,0.42);
+      background: rgba(255,255,255,0.03);
+    }
+
     .author-name {
       display: inline-block;
       animation: nameGlow var(--nd, 3s) ease-in-out var(--ndelay, 0s) infinite;
@@ -392,6 +407,91 @@
     }
     [data-theme="kokos"] .timeline .step { border-left-color: var(--accent); }
 
+    /* Jasny */
+    [data-theme="jasny"] {
+      --bg-main:      #f8fafc;
+      --bg-secondary: #e2e8f0;
+      --accent:       #2563eb;
+      --accent-2:     #7c3aed;
+      --text:         #0f172a;
+      --muted:        #475569;
+      --danger:       #e11d48;
+      --success:      #059669;
+      --warning:      #d97706;
+    }
+    [data-theme="jasny"] body {
+      background: radial-gradient(circle at top, #ffffff 0%, #e0f2fe 45%, #cbd5e1 100%);
+    }
+    [data-theme="jasny"] .reveal { color: var(--text); }
+    [data-theme="jasny"] .reveal h1 { color: #0f172a; }
+    [data-theme="jasny"] .reveal h2 { color: var(--accent); }
+    [data-theme="jasny"] .reveal h3 { color: var(--accent-2); }
+    [data-theme="jasny"] .subtitle,
+    [data-theme="jasny"] .small,
+    [data-theme="jasny"] .figure-caption { color: var(--muted); }
+    [data-theme="jasny"] .authors { color: #1e3a8a; }
+    [data-theme="jasny"] .card,
+    [data-theme="jasny"] .timeline .step {
+      background: rgba(255,255,255,0.72);
+      border-color: rgba(15,23,42,0.12);
+      box-shadow: 0 14px 34px rgba(15,23,42,0.14);
+    }
+    [data-theme="jasny"] .metric {
+      background: linear-gradient(135deg, rgba(37,99,235,0.14), rgba(124,58,237,0.12));
+      box-shadow: 0 12px 26px rgba(15,23,42,0.12);
+    }
+    [data-theme="jasny"] .metric .value { color: #0f172a; }
+    [data-theme="jasny"] .metric .label { color: var(--muted); }
+    [data-theme="jasny"] .timeline .step { border-left-color: var(--accent); }
+    [data-theme="jasny"] .big-quote { color: #1e293b; }
+    [data-theme="jasny"] .lead { color: #334155; }
+    [data-theme="jasny"] .chart-panel {
+      background: rgba(255,255,255,0.54);
+      border-radius: 18px;
+      padding: 10px 16px;
+    }
+    [data-theme="jasny"] svg line[stroke="rgba(226,232,240,0.5)"] { stroke: rgba(15,23,42,0.44); }
+    [data-theme="jasny"] svg line[stroke="rgba(148,163,184,0.22)"] { stroke: rgba(71,85,105,0.24); }
+    [data-theme="jasny"] svg text[fill="#cbd5e1"],
+    [data-theme="jasny"] svg text[fill="#94a3b8"] { fill: #475569; }
+    [data-theme="jasny"] svg text[fill="#e2e8f0"] { fill: #0f172a; }
+    [data-theme="jasny"] .callout,
+    [data-theme="jasny"] .section-note {
+      color: #1e293b;
+      background: rgba(255,255,255,0.68);
+      border-color: rgba(37,99,235,0.24);
+    }
+    [data-theme="jasny"] .pill {
+      color: #1e3a8a;
+      background: rgba(37,99,235,0.12);
+      border-color: rgba(37,99,235,0.32);
+    }
+    [data-theme="jasny"] .figure-card img,
+    [data-theme="jasny"] .title-graphic,
+    [data-theme="jasny"] .slide-bottom-image {
+      border-color: rgba(15,23,42,0.14);
+      box-shadow: 0 16px 36px rgba(15,23,42,0.16);
+      background: rgba(255,255,255,0.72);
+    }
+    [data-theme="jasny"] .timer,
+    [data-theme="jasny"] .theme-switcher,
+    [data-theme="jasny"] .font-switcher {
+      color: #0f172a;
+      background: rgba(255,255,255,0.78);
+      border-color: rgba(15,23,42,0.14);
+      box-shadow: 0 10px 24px rgba(15,23,42,0.12);
+    }
+    [data-theme="jasny"] .font-btn {
+      color: rgba(15,23,42,0.62);
+      border-color: rgba(15,23,42,0.18);
+    }
+    [data-theme="jasny"] .font-btn:hover,
+    [data-theme="jasny"] .font-btn.active {
+      color: #0f172a;
+      background: rgba(37,99,235,0.12);
+      border-color: rgba(37,99,235,0.36);
+    }
+
     /* ── PRZEŁĄCZNIK MOTYWÓW ─────────────────────────────── */
     .theme-switcher {
       position: fixed;
@@ -426,6 +526,7 @@
     .theme-btn[data-t="mango"]   { background: linear-gradient(135deg, #fb923c, #f472b6); }
     .theme-btn[data-t="sliwka"]  { background: linear-gradient(135deg, #c084fc, #fbbf24); }
     .theme-btn[data-t="kokos"]   { background: linear-gradient(135deg, #67e8f9, #e0f2fe); }
+    .theme-btn[data-t="jasny"]   { background: linear-gradient(135deg, #ffffff, #93c5fd); }
 
     /* ── PRZEŁĄCZNIK CZCIONEK ───────────────────────────── */
     .font-switcher {
@@ -708,6 +809,7 @@
 <button class="theme-btn" data-t="mango" title="Mango"></button>
 <button class="theme-btn" data-t="sliwka" title="Śliwka"></button>
 <button class="theme-btn" data-t="kokos" title="Kokos"></button>
+<button class="theme-btn" data-t="jasny" title="Jasny"></button>
 </div>
 </div>
 
@@ -1086,9 +1188,10 @@
 </ul>
 </div>
 </div>
-<div class="callout"></div>
+<div class="callout">
           Najbardziej użyteczne są dziś modele hybrydowe: uznają zarówno wspólne mechanizmy emocjonalne, jak i lokalne sposoby ich interpretowania.
         </div>
+<img alt="Ilustracja podsumowująca konwergencje i rozbieżności" class="slide-bottom-image" src="images/im6.png"/>
 <aside class="notes"><p>W literaturze kilka rzeczy jest naprawdę dobrze ugruntowanych. Najbardziej stabilny i replikowany wniosek brzmi: kultury bardziej kolektywistyczne częściej wiążą wstyd z regulacją relacji społecznych. Spójne są też dane wskazujące, że publiczna ocena i zagrożenie reputacją silnie aktywują wstyd w wielu różnych kontekstach kulturowych. Rozbieżności dotyczą głównie winy — jej związku z kolektywizmem, jej roli w różnych religiach i stopnia, w jakim kategorie emocjonalne są naprawdę porównywalne. Odpowiedzią na tę złożoność są modele hybrydowe, które przyjmują istnienie pewnych wspólnych mechanizmów emocjonalnych — bo ewolucja działała na całą naszą linię rodową — ale nie pomijają lokalnych znaczeń, które kultury nadają tym mechanizmom przez tysiące lat historii.</p></aside></section>
 
 <!-- Wykres: konwergencje i rozbieżności -->
@@ -1208,6 +1311,7 @@
 
           Najcenniejsze będą projekty długofalowe i międzydyscyplinarne, bo tylko one pokażą, jak emocje zmieniają się wraz z wiekiem, migracją i zmianą kontekstu społecznego.
         </div>
+<img alt="Ilustracja przyszłych kierunków badań" class="slide-bottom-image" src="images/im7.png"/>
 <aside class="notes"><p>Badania nad wstydem i winą są w miejscu, w którym coraz wyraźniej widać granice dotychczasowego podejścia. Potrzeba rozszerzenia próbki kulturowej — poza zachodnią i wschodnioazjatycką dominantę — jest oczywista i pilna: nie można budować teorii emocji moralnych na podstawie danych z mniej niż jednej czwartej świata. Potrzebne są bardziej zaawansowane metody porównawcze, które pozwolą rozstrzygać kwestie ekwiwalencji pomiarowej zamiast ją zakładać. Badania podłużne z dziećmi mogłyby pokazać, kiedy i jak wstyd oddziela się od winy w toku rozwoju — i czy ta ścieżka wygląda tak samo w Nairobi, w Seulu i w Krakowie. Najbardziej obiecującym kierunkiem jest jednak integracja psychologii kulturowej z neuroobrazowaniem, badaniami nad akulturacją i praktyką kliniczną — bo dopiero połączenie tych poziomów analizy daje szansę na teorię emocji moralnych, która będzie zarazem precyzyjna i prawdziwie powszechna.</p></aside></section>
 
 <!-- Wykres: przyszłe kierunki badań -->
@@ -1476,6 +1580,7 @@
       mango:   ['#fb923c', '#f472b6', '#fcd34d'],
       sliwka:  ['#c084fc', '#fbbf24', '#e9d5ff'],
       kokos:   ['#67e8f9', '#e0f2fe', '#bae6fd'],
+      jasny:   ['#2563eb', '#7c3aed', '#0f172a'],
     };
 
     const COUNT = 360;

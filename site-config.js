@@ -3425,7 +3425,7 @@ window.SITE_CONFIG = {
         {
           title: 'Strony HTML w katalogu /pages',
           articles: [
-            { label: 'Przyjal_l', href: 'pages/przyjazn.html', status: 'xlink', desc: 'Dodatkowa strona HTML: przyjazn.html.' },
+            { label: 'Przyjazń', href: 'pages/przyjazn.html', status: 'xlink', desc: 'Dodatkowa strona HTML: przyjazn.html.' },
             { label: 'Raport neuroroznorodnosci', href: 'pages/Raport_neuroroznorodnosci.html', status: 'xlink', desc: 'Dodatkowa strona HTML: Raport_neuroroznorodnosci.html.' },
             { label: 'Diagnoza - prezentacja', href: 'pages/diagnoza_prezentacja.html', status: 'xlink', desc: 'Dodatkowa strona HTML: diagnoza_prezentacja.html.' },
             { label: 'Diagnoza - prezentacja (wersja 2)', href: 'pages/diagnoza_prezentacja_2.html', status: 'xlink', desc: 'Dodatkowa strona HTML: diagnoza_prezentacja_2.html.' },

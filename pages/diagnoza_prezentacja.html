@@ -11,6 +11,7 @@
 
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5/dist/reveal.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5/dist/theme/night.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5/plugin/highlight/monokai.css">
 
   <style>
     :root {
@@ -1506,8 +1507,17 @@
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/reveal.js@5/dist/reveal.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/reveal.js@5/plugin/search/search.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/reveal.js@5/plugin/zoom/zoom.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/reveal.js@5/plugin/highlight/highlight.js"></script>
 
 <script>
+  const revealPlugins = [
+    typeof RevealSearch !== 'undefined' ? RevealSearch : null,
+    typeof RevealZoom !== 'undefined' ? RevealZoom : null,
+    typeof RevealHighlight !== 'undefined' ? RevealHighlight : null,
+  ].filter(Boolean);
+
   const themeButtons = Array.from(document.querySelectorAll('.theme-button'));
   const themeNames = ['theme-ocean', 'theme-emerald', 'theme-amber', 'theme-slate', 'theme-orchid', 'theme-coral'];
   const themeKey = 'diagnoza-theme';
@@ -1594,7 +1604,11 @@
     height: 720,
     margin: 0.04,
     minScale: 0.5,
-    maxScale: 2.0
+    maxScale: 2.0,
+    search: {
+      highlight: true,
+    },
+    plugins: revealPlugins
   });
 </script>
 

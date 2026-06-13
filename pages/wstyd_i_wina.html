@@ -7,6 +7,7 @@
 <title>Emocje wstydu i winy w różnych kulturach</title>
 <link href="https://cdn.jsdelivr.net/npm/reveal.js@5/dist/reveal.css" rel="stylesheet"/>
 <link href="https://cdn.jsdelivr.net/npm/reveal.js@5/dist/theme/black.css" rel="stylesheet"/>
+<link href="https://cdn.jsdelivr.net/npm/reveal.js@5/plugin/highlight/monokai.css" rel="stylesheet"/>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&amp;family=Playfair+Display:wght@400;700&amp;family=Nunito:wght@400;700&amp;family=Space+Mono:wght@400;700&amp;family=Lora:wght@400;700&amp;display=swap" rel="stylesheet"/>
 <link href="https://www.vizja.pl/favicon.ico" rel="icon" type="image/x-icon"/>
 <link href="https://www.vizja.pl/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
@@ -1422,7 +1423,17 @@ Reprezentują odmienne konceptualizacje moralności, relacji społecznych i self
 </div>
 <script src="https://cdn.jsdelivr.net/npm/reveal.js@5/dist/reveal.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/reveal.js@5/plugin/notes/notes.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/reveal.js@5/plugin/search/search.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/reveal.js@5/plugin/zoom/zoom.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/reveal.js@5/plugin/highlight/highlight.js"></script>
 <script>
+  const revealPlugins = [
+    typeof RevealNotes !== 'undefined' ? RevealNotes : null,
+    typeof RevealSearch !== 'undefined' ? RevealSearch : null,
+    typeof RevealZoom !== 'undefined' ? RevealZoom : null,
+    typeof RevealHighlight !== 'undefined' ? RevealHighlight : null,
+  ].filter(Boolean);
+
   Reveal.initialize({
     hash: true,
     slideNumber: true,
@@ -1436,7 +1447,10 @@ Reprezentują odmienne konceptualizacje moralności, relacji społecznych i self
     controls: true,
     progress: true,
     history: true,
-    plugins: (typeof RevealNotes !== 'undefined') ? [ RevealNotes ] : [],
+    search: {
+      highlight: true,
+    },
+    plugins: revealPlugins,
   });
 
   // ── Timer (startuje dopiero od 2. slajdu) ────────────────

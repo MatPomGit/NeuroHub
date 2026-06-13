@@ -488,6 +488,43 @@
       to   { opacity: 1; transform: translateY(0); }
     }
 
+    @keyframes growBar {
+      from { opacity: 0.25; transform: scaleY(0); }
+      to   { opacity: 1; transform: scaleY(1); }
+    }
+
+    @keyframes valueFade {
+      from { opacity: 0; transform: translateY(10px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    .animated-chart-slide .chart-bar {
+      transform-box: fill-box;
+      transform-origin: center bottom;
+    }
+
+    .animated-chart-slide .chart-value {
+      opacity: 0;
+    }
+
+    .reveal .slides section.present.animated-chart-slide .chart-bar {
+      animation: growBar 0.75s cubic-bezier(.22,1,.36,1) both;
+    }
+
+    .reveal .slides section.present.animated-chart-slide .chart-bar.b1 { animation-delay: 0.25s; }
+    .reveal .slides section.present.animated-chart-slide .chart-bar.b2 { animation-delay: 0.4s; }
+    .reveal .slides section.present.animated-chart-slide .chart-bar.b3 { animation-delay: 0.55s; }
+    .reveal .slides section.present.animated-chart-slide .chart-bar.b4 { animation-delay: 0.7s; }
+
+    .reveal .slides section.present.animated-chart-slide .chart-value {
+      animation: valueFade 0.35s ease both;
+    }
+
+    .reveal .slides section.present.animated-chart-slide .chart-value.v1 { animation-delay: 0.78s; }
+    .reveal .slides section.present.animated-chart-slide .chart-value.v2 { animation-delay: 0.93s; }
+    .reveal .slides section.present.animated-chart-slide .chart-value.v3 { animation-delay: 1.08s; }
+    .reveal .slides section.present.animated-chart-slide .chart-value.v4 { animation-delay: 1.23s; }
+
     /* h1 / h2 */
     .reveal .slides section.present h1    { animation: fadeUp  0.7s ease         both; }
     .reveal .slides section.present h2    { animation: slideUp 0.45s ease        both; }
@@ -880,7 +917,7 @@
 <aside class="notes"><p>Najszerzej badanym wymiarem kulturowym w kontekście wstydu i winy jest podział na kultury indywidualistyczne i kolektywistyczne. W kulturach kolektywistycznych wstyd częściej uruchamia się w sytuacjach, które naruszają harmonię grupową, reputację rodziny lub lojalność wobec wspólnoty — nie dlatego, że „coś jest ze mną nie tak", ale dlatego, że „zawiodłem kogoś ważnego". Kultury indywidualistyczne częściej łączą winę z osobistym przekroczeniem własnych standardów moralnych — z poczuciem, że to ja, jako jednostka, postąpiłem niezgodnie z tym, w co wierzę. Ta zależność jest realna, ale nie liniowa. Wina jest obecna w kulturach kolektywistycznych, wstyd ma znaczenie w kulturach indywidualistycznych — różni się konfiguracja, a nie sama obecność tych emocji.</p></aside></section>
 
 <!-- Wykres porównawczy emocji -->
-<section>
+<section class="comparison-chart-slide animated-chart-slide">
 <h2>Schematyczne porównanie wstydu i winy</h2>
 <p class="lead">Zestawienie ilustruje kierunek zależności: w kulturach kolektywistycznych silniej zaznacza się wstyd, natomiast poziom winy pozostaje bardziej zależny od kontekstu i sposobu pomiaru.</p>
 <div class="chart-panel">
@@ -902,10 +939,10 @@
 <rect class="chart-bar b2" fill="#38bdf8" height="112.5" rx="12" width="90" x="330" y="182.5"></rect>
 <rect class="chart-bar b3" fill="#a855f7" height="150" rx="12" width="90" x="520" y="145"></rect>
 <rect class="chart-bar b4" fill="#a855f7" height="162.5" rx="12" width="90" x="660" y="132.5"></rect>
-<text fill="#e2e8f0" font-size="17" text-anchor="middle" x="235" y="74">85%</text>
-<text fill="#e2e8f0" font-size="17" text-anchor="middle" x="375" y="174">45%</text>
-<text fill="#e2e8f0" font-size="17" text-anchor="middle" x="565" y="137">60%</text>
-<text fill="#e2e8f0" font-size="17" text-anchor="middle" x="705" y="124">65%</text>
+<text class="chart-value v1" fill="#e2e8f0" font-size="17" text-anchor="middle" x="235" y="74">85%</text>
+<text class="chart-value v2" fill="#e2e8f0" font-size="17" text-anchor="middle" x="375" y="174">45%</text>
+<text class="chart-value v3" fill="#e2e8f0" font-size="17" text-anchor="middle" x="565" y="137">60%</text>
+<text class="chart-value v4" fill="#e2e8f0" font-size="17" text-anchor="middle" x="705" y="124">65%</text>
 <text fill="#cbd5e1" font-size="16" text-anchor="middle" x="235" y="322">Wstyd</text>
 <text fill="#cbd5e1" font-size="16" text-anchor="middle" x="375" y="322">Wstyd</text>
 <text fill="#cbd5e1" font-size="16" text-anchor="middle" x="565" y="322">Wina</text>
@@ -1040,7 +1077,7 @@
 <aside class="notes"><p>W literaturze kilka rzeczy jest naprawdę dobrze ugruntowanych. Najbardziej stabilny i replikowany wniosek brzmi: kultury bardziej kolektywistyczne częściej wiążą wstyd z regulacją relacji społecznych. Spójne są też dane wskazujące, że publiczna ocena i zagrożenie reputacją silnie aktywują wstyd w wielu różnych kontekstach kulturowych. Rozbieżności dotyczą głównie winy — jej związku z kolektywizmem, jej roli w różnych religiach i stopnia, w jakim kategorie emocjonalne są naprawdę porównywalne. Odpowiedzią na tę złożoność są modele hybrydowe, które przyjmują istnienie pewnych wspólnych mechanizmów emocjonalnych — bo ewolucja działała na całą naszą linię rodową — ale nie pomijają lokalnych znaczeń, które kultury nadają tym mechanizmom przez tysiące lat historii.</p></aside></section>
 
 <!-- Wykres: konwergencje i rozbieżności -->
-<section>
+<section class="convergence-chart-slide animated-chart-slide">
 <h2>Schematyczny udział konwergencji i rozbieżności</h2>
 <p class="lead">Dla wstydu obserwujemy silniejsze konwergencje między badaniami, podczas gdy w obszarze winy częściej pojawiają się rozbieżności interpretacyjne i metodologiczne.</p>
 <div class="chart-panel">
@@ -1058,14 +1095,14 @@
 <text fill="#cbd5e1" font-size="16" x="46" y="150">60</text>
 <text fill="#cbd5e1" font-size="16" x="46" y="100">80</text>
 <text fill="#cbd5e1" font-size="16" x="46" y="50">100</text>
-<rect class="chart-bar b1" fill="#34d399" height="195" rx="12" width="95" x="200" y="100"></rect>
-<rect class="chart-bar b2" fill="#f59e0b" height="140" rx="12" width="95" x="330" y="155"></rect>
-<rect class="chart-bar b3" fill="#34d399" height="162.5" rx="12" width="95" x="520" y="132.5"></rect>
-<rect class="chart-bar b4" fill="#f59e0b" height="170" rx="12" width="95" x="650" y="125"></rect>
-<text fill="#e2e8f0" font-size="17" text-anchor="middle" x="247" y="92">78%</text>
-<text fill="#e2e8f0" font-size="17" text-anchor="middle" x="377" y="147">56%</text>
-<text fill="#e2e8f0" font-size="17" text-anchor="middle" x="567" y="124">65%</text>
-<text fill="#e2e8f0" font-size="17" text-anchor="middle" x="697" y="117">68%</text>
+<rect class="chart-bar b1" fill="#14b8a6" height="195" rx="12" width="95" x="200" y="100"></rect>
+<rect class="chart-bar b2" fill="#f43f5e" height="140" rx="12" width="95" x="330" y="155"></rect>
+<rect class="chart-bar b3" fill="#14b8a6" height="162.5" rx="12" width="95" x="520" y="132.5"></rect>
+<rect class="chart-bar b4" fill="#f43f5e" height="170" rx="12" width="95" x="650" y="125"></rect>
+<text class="chart-value v1" fill="#e2e8f0" font-size="17" text-anchor="middle" x="247" y="92">78%</text>
+<text class="chart-value v2" fill="#e2e8f0" font-size="17" text-anchor="middle" x="377" y="147">56%</text>
+<text class="chart-value v3" fill="#e2e8f0" font-size="17" text-anchor="middle" x="567" y="124">65%</text>
+<text class="chart-value v4" fill="#e2e8f0" font-size="17" text-anchor="middle" x="697" y="117">68%</text>
 <text fill="#cbd5e1" font-size="16" text-anchor="middle" x="247" y="320">Konwergencje</text>
 <text fill="#cbd5e1" font-size="16" text-anchor="middle" x="377" y="320">Rozbieżności</text>
 <text fill="#cbd5e1" font-size="16" text-anchor="middle" x="567" y="320">Konwergencje</text>

@@ -1,0 +1,318 @@
+<!doctype html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>NLP i Insightful Profiler iP121 — przegląd naukowy, psychometria, etyka</title>
+  <meta name="description" content="Naukowy przegląd literatury dotyczący NLP oraz testu Insightful Profiler iP121 z analizą wiarygodności, psychometrii i etyki pracy psychologa oraz psychoterapeuty." />
+  <style>
+    :root{
+      --bg:#f6f4ef;
+      --paper:#fffdf8;
+      --ink:#171717;
+      --muted:#5f5b53;
+      --line:#ded8cc;
+      --accent:#284b63;
+      --accent2:#8a4f2a;
+      --soft:#e9f0f3;
+      --soft2:#f2e7dc;
+      --good:#2f6f4e;
+      --warn:#a06421;
+      --bad:#8c2f39;
+      --shadow:0 18px 55px rgba(30,28,24,.10);
+      --radius:22px;
+      --mono:"SFMono-Regular",Consolas,"Liberation Mono",monospace;
+      --sans:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;
+      --serif:Georgia,"Times New Roman",serif;
+    }
+    *{box-sizing:border-box}
+    html{scroll-behavior:smooth}
+    body{margin:0;background:radial-gradient(circle at 10% 0%,#fff 0,#f6f4ef 42%,#efe9df 100%);color:var(--ink);font-family:var(--sans);line-height:1.6}
+    a{color:var(--accent);text-decoration-thickness:1px;text-underline-offset:3px}
+    .wrap{max-width:1180px;margin:0 auto;padding:0 24px}
+    header{position:relative;overflow:hidden;border-bottom:1px solid var(--line)}
+    header:before{content:"";position:absolute;inset:-40% -20% auto 40%;height:520px;background:radial-gradient(circle,rgba(40,75,99,.16),rgba(40,75,99,0) 65%);pointer-events:none}
+    nav{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:20px 0;color:var(--muted);font-size:14px}
+    nav .brand{font-weight:750;color:var(--ink);letter-spacing:.02em}
+    nav .links{display:flex;gap:16px;flex-wrap:wrap;justify-content:flex-end}
+    .hero{display:grid;grid-template-columns:1.1fr .9fr;gap:38px;align-items:center;padding:72px 0 62px;position:relative}
+    .badge{display:inline-flex;gap:8px;align-items:center;background:var(--soft);border:1px solid #d4e0e7;color:#234257;border-radius:999px;padding:7px 12px;font-size:13px;font-weight:650;margin-bottom:20px}
+    h1{font-family:var(--serif);font-size:clamp(42px,6vw,78px);line-height:.98;margin:0 0 18px;letter-spacing:-.045em}
+    .lead{font-size:clamp(18px,2vw,23px);color:#3d3a34;margin:0 0 28px;max-width:760px}
+    .hero-card{background:rgba(255,253,248,.86);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);padding:28px;backdrop-filter:blur(12px)}
+    .verdict{display:grid;gap:14px}
+    .verdict div{padding:14px 16px;border-radius:16px;border:1px solid var(--line);background:#fff}
+    .verdict strong{display:block;margin-bottom:4px;color:var(--accent);font-size:15px;text-transform:uppercase;letter-spacing:.04em}
+    .cta{display:flex;gap:12px;flex-wrap:wrap;margin-top:28px}
+    .btn{display:inline-flex;align-items:center;justify-content:center;border-radius:999px;padding:12px 18px;border:1px solid var(--accent);background:var(--accent);color:white;text-decoration:none;font-weight:700}
+    .btn.secondary{background:transparent;color:var(--accent)}
+    section{padding:66px 0;border-bottom:1px solid var(--line)}
+    .section-title{display:grid;grid-template-columns:260px 1fr;gap:28px;align-items:start;margin-bottom:30px}
+    .kicker{font-weight:800;color:var(--accent2);text-transform:uppercase;letter-spacing:.08em;font-size:13px;margin-top:9px}
+    h2{font-family:var(--serif);font-size:clamp(31px,4vw,50px);line-height:1.04;margin:0;letter-spacing:-.035em}
+    h3{font-size:22px;line-height:1.25;margin:0 0 12px}
+    p{margin:0 0 16px}.muted{color:var(--muted)}
+    .grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}.grid.two{grid-template-columns:repeat(2,1fr)}
+    .card{background:var(--paper);border:1px solid var(--line);border-radius:var(--radius);padding:24px;box-shadow:0 10px 34px rgba(30,28,24,.06)}
+    .card.bad{border-color:#e1b5ba;background:#fff7f7}.card.warn{border-color:#e2c49f;background:#fffaf3}.card.good{border-color:#b8d6c4;background:#f7fff9}
+    .pill{display:inline-block;border-radius:999px;padding:5px 10px;font-size:12px;font-weight:800;letter-spacing:.04em;text-transform:uppercase;margin-bottom:12px}.pill.bad{background:#f3d8dc;color:var(--bad)}.pill.warn{background:#f4dfc4;color:var(--warn)}.pill.good{background:#d7efdf;color:var(--good)}.pill.neutral{background:var(--soft);color:var(--accent)}
+    .chart{background:#fff;border:1px solid var(--line);border-radius:var(--radius);padding:24px;box-shadow:var(--shadow);margin:20px 0}.chart-title{font-weight:800;font-size:18px;margin-bottom:4px}.chart-desc{color:var(--muted);font-size:14px;margin-bottom:18px}
+    .bars{display:grid;gap:12px}.bar-row{display:grid;grid-template-columns:185px 1fr 70px;gap:12px;align-items:center;font-size:14px}.bar-track{height:16px;background:#eee7dd;border-radius:999px;overflow:hidden}.bar-fill{height:100%;background:linear-gradient(90deg,var(--accent),#5f879e);border-radius:999px}.bar-fill.warn{background:linear-gradient(90deg,var(--warn),#c98b45)}.bar-fill.bad{background:linear-gradient(90deg,var(--bad),#c05c65)}.bar-val{text-align:right;font-variant-numeric:tabular-nums;font-weight:750}.source{font-size:12px;color:var(--muted);margin-top:14px;border-top:1px solid var(--line);padding-top:10px}
+    table{width:100%;border-collapse:collapse;background:#fff;border:1px solid var(--line);border-radius:18px;overflow:hidden;display:table}th,td{padding:13px 14px;border-bottom:1px solid var(--line);vertical-align:top;text-align:left}th{background:#f0ece4;font-size:13px;text-transform:uppercase;letter-spacing:.06em}tr:last-child td{border-bottom:0}
+    .flow{display:grid;grid-template-columns:repeat(5,1fr);gap:12px;margin-top:20px}.step{background:#fff;border:1px solid var(--line);border-radius:16px;padding:16px;position:relative}.step:not(:last-child):after{content:"→";position:absolute;right:-13px;top:50%;transform:translateY(-50%);color:var(--accent);font-weight:900}.step b{display:block;color:var(--accent);margin-bottom:6px}
+    .callout{border-left:5px solid var(--accent);background:#eef5f8;padding:22px;border-radius:16px;margin:24px 0}.callout.warn{border-color:var(--warn);background:#fff5e8}.callout.bad{border-color:var(--bad);background:#fff0f2}
+    .ref-list{columns:2;column-gap:36px;font-size:14px}.ref-list li{break-inside:avoid;margin:0 0 10px}.small{font-size:13px}.footer{padding:36px 0;color:var(--muted);font-size:13px}.tagline{font-family:var(--mono);font-size:12px;color:var(--muted)}
+    @media(max-width:900px){.hero,.section-title,.grid,.grid.two{grid-template-columns:1fr}.flow{grid-template-columns:1fr}.step:not(:last-child):after{content:"↓";right:50%;top:auto;bottom:-19px;transform:translateX(50%)}.bar-row{grid-template-columns:1fr}.bar-val{text-align:left}.ref-list{columns:1}nav{align-items:flex-start;flex-direction:column}}
+  </style>
+</head>
+<body>
+  <header>
+    <div class="wrap">
+      <nav>
+        <div class="brand">NLP · iP121 · psychometria · etyka</div>
+        <div class="links">
+          <a href="#nlp">NLP</a><a href="#ip121">iP121</a><a href="#manipulacja">Manipulacja</a><a href="#etyka">Etyka</a><a href="#wnioski">Ocena końcowa</a><a href="#bibliografia">Bibliografia</a>
+        </div>
+      </nav>
+      <div class="hero">
+        <div>
+          <div class="badge">Przegląd naukowy i praktyczny</div>
+          <h1>NLP i Insightful Profiler iP121</h1>
+          <p class="lead">Ocena wiarygodności, psychometrii oraz zgodności z etyką pracy psychologa i psychoterapeuty. Strona syntetyzuje literaturę naukową, standardy testowania i oficjalne materiały dotyczące iP121.</p>
+          <div class="cta"><a class="btn" href="#nlp">Rozpocznij od NLP</a><a class="btn secondary" href="#wnioski">Ocena końcowa</a></div>
+        </div>
+        <aside class="hero-card">
+          <h3>Zakres opracowania</h3>
+          <div class="verdict">
+            <div><strong>Najpierw</strong> Strona porządkuje genezę NLP, podstawowe założenia i stan badań bez formułowania końcowej oceny na początku.</div>
+            <div><strong>W połowie</strong> Osobno omawiany jest Insightful Profiler iP121: deklarowane zastosowanie, parametry, dane psychometryczne i ograniczenia dokumentacyjne.</div>
+            <div><strong>Na końcu</strong> Dopiero po części opisowej przedstawiona jest syntetyczna ocena praktyczna, etyczna i zawodowa.</div>
+          </div>
+        </aside>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section id="nlp">
+      <div class="wrap">
+        <div class="section-title"><div class="kicker">01 / NLP</div><h2>Stan dowodów naukowych dotyczących NLP</h2></div>
+        <p>Neuro-linguistic programming powstało jako eklektyczny projekt modelowania praktyki terapeutów i komunikatorów. Jego problemem nie jest wyłącznie brak skuteczności w każdym zastosowaniu, lecz przede wszystkim słaba falsyfikowalność, nieostrość definicji oraz mieszanie technik ogólnych z twierdzeniami specyficznymi dla NLP.</p>
+        <div class="chart" role="img" aria-label="Wyniki przeglądu Witkowskiego 2010 dotyczącego badań NLP.">
+          <div class="chart-title">Wyniki badań nad NLP w przeglądzie Witkowskiego</div>
+          <div class="chart-desc">Udział wyników wspierających, niewspierających i niejednoznacznych w analizie badań empirycznych.</div>
+          <div class="bars">
+            <div class="bar-row"><div>Wspierające NLP</div><div class="bar-track"><div class="bar-fill warn" style="width:18.2%"></div></div><div class="bar-val">18,2%</div></div>
+            <div class="bar-row"><div>Niewspierające NLP</div><div class="bar-track"><div class="bar-fill bad" style="width:54.5%"></div></div><div class="bar-val">54,5%</div></div>
+            <div class="bar-row"><div>Niejednoznaczne</div><div class="bar-track"><div class="bar-fill" style="width:27.3%"></div></div><div class="bar-val">27,3%</div></div>
+          </div>
+          <div class="source">Źródło: Witkowski, T. (2010). <em>Thirty-Five Years of Research on Neuro-Linguistic Programming. NLP Research Data Base. State of the Art or Pseudoscientific Decoration?</em> Polish Psychological Bulletin, 41(2), 58–66.</div>
+        </div>
+        <div class="grid two">
+          <article class="card"><span class="pill neutral">Hipotezy wyróżnikowe</span><h3>Ruchy oczu i reprezentacje poznawcze</h3><p>Wiseman i współpracownicy przeprowadzili trzy badania nad tezą, że wzorce ruchów oczu pozwalają rozpoznawać kłamstwo lub prawdę. Wyniki nie potwierdziły tej hipotezy. To istotne, ponieważ dotyczy jednego z najbardziej rozpoznawalnych twierdzeń NLP.</p></article>
+          <article class="card"><span class="pill neutral">Zastosowania zdrowotne</span><h3>Mało dowodów wysokiej jakości</h3><p>Przegląd Sturt i współpracowników obejmował 10 badań eksperymentalnych w ochronie zdrowia i wskazał, że istnieje niewiele dowodów, iż interwencje NLP poprawiają wyniki zdrowotne. Autorzy akcentowali ograniczoną ilość i jakość badań.</p></article>
+        </div>
+        <div class="chart" role="img" aria-label="Liczebność badań i prób w przeglądach NLP.">
+          <div class="chart-title">Skala wybranych przeglądów NLP</div>
+          <div class="chart-desc">Liczby ilustrują ograniczoną bazę empiryczną w dwóch często cytowanych przeglądach.</div>
+          <div class="bars">
+            <div class="bar-row"><div>Sturt et al. — badania eksperymentalne</div><div class="bar-track"><div class="bar-fill" style="width:10%"></div></div><div class="bar-val">10</div></div>
+            <div class="bar-row"><div>Kotera et al. — badania włączone</div><div class="bar-track"><div class="bar-fill" style="width:7%"></div></div><div class="bar-val">7</div></div>
+            <div class="bar-row"><div>Kotera et al. — uczestnicy łącznie</div><div class="bar-track"><div class="bar-fill warn" style="width:100%"></div></div><div class="bar-val">190</div></div>
+          </div>
+          <div class="source">Źródła: Sturt et al. (2012), <em>British Journal of General Practice</em>; Kotera, Sheffield & Van Gordon (2019), <em>Human Resource Development Quarterly</em>.</div>
+        </div>
+        <table>
+          <thead><tr><th>Wątek</th><th>Ocena</th><th>Znaczenie praktyczne</th></tr></thead>
+          <tbody>
+            <tr><td>Definicja NLP</td><td>Nieostra, wieloznaczna, trudna do operacjonalizacji.</td><td>Ryzyko przypisywania NLP efektów technik niespecyficznych.</td></tr>
+            <tr><td>Dowody kliniczne</td><td>Pojedyncze dodatnie wyniki, ale małe próby, słabe komparatory i ograniczony follow-up.</td><td>Nie należy przedstawiać NLP jako metody pierwszego wyboru.</td></tr>
+            <tr><td>Hipotezy specyficzne</td><td>Brak potwierdzenia dla ważnych twierdzeń, m.in. wzorców ruchów oczu.</td><td>Należy unikać diagnostycznego wnioskowania z takich przesłanek.</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section id="ip121">
+      <div class="wrap">
+        <div class="section-title"><div class="kicker">02 / iP121</div><h2>Insightful Profiler iP121 jako narzędzie psychometryczne</h2></div>
+        <p>Insightful Profiler iP121 jest opisywany przez producenta jako kwestionariusz osobowości zawodowej oparty na modelu Wielkiej Piątki. Oficjalne materiały wskazują 121 pozycji, około 20 minut badania, zastosowanie w rekrutacji, sukcesji i rozwoju oraz aktualizowane normy.</p>
+        <div class="grid two">
+          <div class="card good"><span class="pill good">Deklarowane mocne strony</span><h3>Co przemawia na korzyść?</h3><p>Jasny kontekst zawodowy, krótki czas badania, odwołanie do Wielkiej Piątki, raporty użytkowe, skale kontrolne oraz duża baza profili wykorzystywana do aktualizacji norm.</p></div>
+          <div class="card warn"><span class="pill warn">Główna luka</span><h3>Czego brakuje publicznie?</h3><p>Pełnego podręcznika technicznego z analizą EFA/CFA, inwariancją pomiaru, trafnością kryterialną i predykcyjną, błędem standardowym pomiaru oraz pełnym opisem próby normatywnej.</p></div>
+        </div>
+        <div class="chart" role="img" aria-label="Wybrane liczby deklarowane przez producenta iP121.">
+          <div class="chart-title">Wybrane parametry iP121 komunikowane przez producenta</div>
+          <div class="chart-desc">Dane liczbowe z oficjalnej broszury i komunikatu o aktualizacji norm.</div>
+          <div class="bars">
+            <div class="bar-row"><div>Pozycje testowe</div><div class="bar-track"><div class="bar-fill" style="width:0.45%"></div></div><div class="bar-val">121</div></div>
+            <div class="bar-row"><div>Szacowany czas badania</div><div class="bar-track"><div class="bar-fill" style="width:0.07%"></div></div><div class="bar-val">20 min</div></div>
+            <div class="bar-row"><div>Profile w nowych normach</div><div class="bar-track"><div class="bar-fill warn" style="width:75.2%"></div></div><div class="bar-val">26 885</div></div>
+            <div class="bar-row"><div>Ukończone kwestionariusze</div><div class="bar-track"><div class="bar-fill" style="width:100%"></div></div><div class="bar-val">35 754</div></div>
+          </div>
+          <div class="source">Źródła: Advisio Poland, <em>Broszura Insightful Profiler iP121</em>; Advisio Poland (2026), <em>26 885 kompletnych profili w nowych normach iP121</em>. Wykres pokazuje wielkości w różnych jednostkach, dlatego służy orientacyjnej ekspozycji danych, nie porównaniu psychometrycznemu.</div>
+        </div>
+        <div class="chart" role="img" aria-label="Deklarowany zakres alfa Cronbacha dla skal iP121.">
+          <div class="chart-title">Deklarowana zgodność wewnętrzna skal iP121</div>
+          <div class="chart-desc">Producent podaje zakres alfa Cronbacha dla skal czynnikowych.</div>
+          <div class="bars">
+            <div class="bar-row"><div>Dolna granica α</div><div class="bar-track"><div class="bar-fill warn" style="width:82%"></div></div><div class="bar-val">0,82</div></div>
+            <div class="bar-row"><div>Górna granica α</div><div class="bar-track"><div class="bar-fill" style="width:92%"></div></div><div class="bar-val">0,92</div></div>
+          </div>
+          <div class="source">Źródło: Advisio Poland, <em>Broszura Insightful Profiler iP121</em>. Uwaga: alfa Cronbacha nie dowodzi trafności testu; wymaga uzupełnienia o analizę struktury, trafności, norm i błędu pomiaru.</div>
+        </div>
+        <table>
+          <thead><tr><th>Kryterium psychometryczne</th><th>Status publicznych danych dla iP121</th><th>Ocena</th></tr></thead>
+          <tbody>
+            <tr><td>Rzetelność wewnętrzna</td><td>Deklarowany zakres α = 0,82–0,92.</td><td>Obiecujące, lecz bez pełnej tabeli skal i niezależnej walidacji.</td></tr>
+            <tr><td>Stabilność retestowa</td><td>Deklarowana jako wysoka, bez łatwo dostępnych szczegółowych współczynników.</td><td>Niewystarczające do niezależnej oceny.</td></tr>
+            <tr><td>Trafność kryterialna</td><td>Brak publicznych, szczegółowych danych o predykcji wyników pracy.</td><td>Najważniejsza luka dla zastosowań rekrutacyjnych.</td></tr>
+            <tr><td>Normy</td><td>Komunikowana aktualizacja norm i duża liczba profili.</td><td>Plus operacyjny, ale potrzebny opis próby, doboru i tabel norm.</td></tr>
+            <tr><td>Inwariancja</td><td>Komunikowane wersje językowe PL/EN/UA; brak publicznych analiz inwariancji.</td><td>Ostrożność w porównaniach międzykulturowych.</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section id="manipulacja">
+      <div class="wrap">
+        <div class="section-title"><div class="kicker">03 / manipulacja</div><h2>Krytyczna analiza etyczna NLP: wpływ, sugestia i autonomia pacjenta</h2></div>
+        <p>NLP należy analizować nie tylko jako zbiór technik komunikacyjnych, ale także jako praktykę wpływu interpersonalnego. W relacji psychologicznej i psychoterapeutycznej wpływ sam w sobie nie jest nieetyczny: każda interwencja terapeutyczna może zmieniać sposób rozumienia siebie, emocji i zachowania. Problem pojawia się wtedy, gdy wpływ jest ukryty, niewyjaśniony, oparty na autorytecie terapeuty, przedstawiany jako pewna technika „programowania” albo stosowany bez świadomej zgody pacjenta.</p>
+        <div class="callout bad"><strong>Teza etyczna:</strong> NLP może przyjmować formę manipulacji, jeżeli terapeuta używa technik sugestii, kotwiczenia, przeformułowania lub presupozycji w celu wywołania zmiany bez jasnego kontraktu, bez omówienia mechanizmu działania, bez alternatyw i bez respektowania prawa pacjenta do odmowy.</div>
+        <div class="grid two">
+          <article class="card bad"><span class="pill bad">Manipulacja</span><h3>Kiedy NLP przekracza granicę?</h3><p>Granicę przekracza sytuacja, w której pacjent nie wie, że jest poddawany technice wpływu; terapeuta sugeruje, że zna „ukryty kod” działania umysłu; opór pacjenta jest reinterpretowany jako problem do obejścia; a sukces metody jest obiecywany mimo słabej bazy dowodowej. Wtedy relacja terapeutyczna przesuwa się z dialogu ku sterowaniu zachowaniem.</p></article>
+          <article class="card warn"><span class="pill warn">Sugestia</span><h3>Dlaczego ryzyko jest szczególne?</h3><p>Pacjent w psychoterapii jest często w stanie obniżonego poczucia sprawczości, cierpienia, zależności od eksperta lub wysokiej podatności na interpretacje autorytetu. Techniki oparte na szybkiej zmianie, transie, presupozycjach językowych i „przeprogramowaniu” mogą zwiększać asymetrię władzy, jeżeli nie są jawnie kontraktowane.</p></article>
+        </div>
+        <table>
+          <thead><tr><th>Element NLP</th><th>Potencjalna wartość</th><th>Ryzyko etyczne</th><th>Warunek minimalny</th></tr></thead>
+          <tbody>
+            <tr><td>Reframing</td><td>Może pomagać zobaczyć problem z innej perspektywy.</td><td>Może unieważniać doświadczenie pacjenta, np. cierpienie, złość lub granice.</td><td>Pacjent musi móc odrzucić interpretację bez presji i bez patologizacji oporu.</td></tr>
+            <tr><td>Kotwiczenie</td><td>Może porządkować skojarzenia i reakcje emocjonalne.</td><td>Może być stosowane jako technika warunkowania bez pełnego rozumienia przez pacjenta.</td><td>Jawne omówienie celu, procedury i możliwego dyskomfortu.</td></tr>
+            <tr><td>Presupozycje językowe</td><td>Mogą wspierać motywację i eksplorację zasobów.</td><td>Mogą omijać świadomą zgodę, sugerując pacjentowi, że decyzja już zapadła.</td><td>Język powinien wzmacniać wybór, a nie prowadzić pacjenta do z góry zaplanowanej odpowiedzi.</td></tr>
+            <tr><td>Techniki szybkiej zmiany</td><td>Mogą być atrakcyjne dla pacjenta szukającego ulgi.</td><td>Ryzyko nierealistycznych oczekiwań, obwiniania pacjenta za brak efektu i pominięcia diagnozy.</td><td>Zakaz obiecywania szybkiego efektu bez rzetelnych danych i planu bezpieczeństwa.</td></tr>
+            <tr><td>Modelowanie „doskonałości”</td><td>Może inspirować trening umiejętności.</td><td>Może redukować osobę do wzorca skuteczności i ignorować kontekst cierpienia.</td><td>Model ma być hipotezą rozwojową, nie normą, do której pacjent musi się dostosować.</td></tr>
+          </tbody>
+        </table>
+        <div class="chart" role="img" aria-label="Mapa ryzyka etycznego praktyk NLP.">
+          <div class="chart-title">Mapa ryzyka etycznego NLP w praktyce terapeutycznej</div>
+          <div class="chart-desc">Ocena jakościowa: im wyższy poziom, tym większe ryzyko naruszenia autonomii przy braku jawnego kontraktu.</div>
+          <div class="bars">
+            <div class="bar-row"><div>Ukryta sugestia</div><div class="bar-track"><div class="bar-fill bad" style="width:95%"></div></div><div class="bar-val">bardzo wysokie</div></div>
+            <div class="bar-row"><div>Obietnica szybkiej zmiany</div><div class="bar-track"><div class="bar-fill bad" style="width:90%"></div></div><div class="bar-val">bardzo wysokie</div></div>
+            <div class="bar-row"><div>Etykietowanie profilu</div><div class="bar-track"><div class="bar-fill warn" style="width:75%"></div></div><div class="bar-val">wysokie</div></div>
+            <div class="bar-row"><div>Jawne ćwiczenia komunikacyjne</div><div class="bar-track"><div class="bar-fill" style="width:35%"></div></div><div class="bar-val">umiarkowane</div></div>
+            <div class="bar-row"><div>Psychoedukacja o języku</div><div class="bar-track"><div class="bar-fill" style="width:20%"></div></div><div class="bar-val">niskie</div></div>
+          </div>
+          <div class="source">Źródła interpretacyjne: Polskie Towarzystwo Psychologiczne, <em>Kodeks etyczny psychologa</em> — zasady dobra osoby, autonomii, świadomej zgody, odpowiedzialności i uczciwości; Polskie Towarzystwo Psychologiczne, <em>Standardy diagnozy psychologicznej</em> — wymóg pytania diagnostycznego, współczesnej wiedzy naukowej i wielometodowości. Wykres jest jakościową syntezą etyczną, nie wynikiem badania ilościowego.</div>
+        </div>
+        <h3>NLP a autonomia i sprawczość pacjenta</h3>
+        <p>Psychoterapia powinna wzmacniać zdolność pacjenta do rozumienia siebie, podejmowania decyzji i krytycznej refleksji nad proponowanymi interpretacjami. Z tego punktu widzenia ryzykowne są te wersje NLP, które mówią o „programowaniu” pacjenta, szybkim przejmowaniu kontroli nad stanem emocjonalnym albo obchodzeniu świadomego oporu. Taki język jest sprzeczny z modelem partnerskim, w którym pacjent pozostaje podmiotem procesu, a nie obiektem technicznej modyfikacji.</p>
+        <p>Nie każda technika inspirowana NLP musi być manipulacją. Ćwiczenie uważności na język, analiza metafor pacjenta, praca z alternatywną interpretacją sytuacji lub trening komunikacji mogą być etyczne, jeżeli są jawne, uzgodnione i osadzone w kompetentnej praktyce. Problemem nie jest sama rozmowa o języku i doświadczeniu, lecz roszczenie, że istnieje specjalny, skuteczny system „przeprogramowania” psychiki, mimo że literatura naukowa nie daje tak silnego wsparcia.</p>
+        <div class="callout"><strong>Kryterium rozstrzygające:</strong> jeżeli technika zwiększa rozumienie, wybór i samostanowienie pacjenta — może być etycznie dopuszczalna jako element rozmowy. Jeżeli zmniejsza przejrzystość, wykorzystuje zależność, obiecuje efekt bez dowodów lub omija świadomą zgodę — jest etycznie wątpliwa.</div>
+        <div class="callout"><strong>Próg etyczny:</strong> techniki wpływu mogą być omawiane opisowo w części analitycznej, ale ich końcowa dopuszczalność zawodowa jest rozstrzygana dopiero w sekcji oceny końcowej.</div>
+      </div>
+    </section>
+
+    <section id="etyka">
+      <div class="wrap">
+        <div class="section-title"><div class="kicker">04 / etyka</div><h2>Implikacje dla psychologa i psychoterapeuty</h2></div>
+        <p>Użycie testu osobowościowego lub narzędzia profilującego wymaga zgodności z zasadą dobra osoby badanej, kompetencją zawodową, ochroną danych i adekwatnością narzędzia do pytania diagnostycznego. W psychoterapii dodatkowo trzeba unikać etykietowania klienta, wzmacniania fałszywych narracji o „typie osobowości” oraz używania technik wpływu, które pacjent mógłby zaakceptować wyłącznie z powodu autorytetu terapeuty.</p>
+        <div class="flow" aria-label="Procedura etycznego użycia testu">
+          <div class="step"><b>1. Cel</b>Uzgodnij pytanie diagnostyczne lub rozwojowe.</div>
+          <div class="step"><b>2. Zgoda</b>Wyjaśnij zakres danych, odbiorców raportu i ograniczenia.</div>
+          <div class="step"><b>3. Metody</b>Połącz wynik z wywiadem, obserwacją i innymi źródłami.</div>
+          <div class="step"><b>4. Interpretacja</b>Formułuj hipotezy, nie etykiety ani rozstrzygnięcia absolutne.</div>
+          <div class="step"><b>5. Ochrona</b>Minimalizuj dane i kontroluj dostęp do raportu.</div>
+        </div>
+        <div class="grid two" style="margin-top:24px">
+          <article class="card bad"><span class="pill bad">Nieetyczne ryzyko</span><h3>Automatyczna selekcja lub diagnoza</h3><p>Nie należy odrzucać kandydata, kwalifikować klienta ani wyciągać wniosków klinicznych wyłącznie na podstawie raportu iP121. Taki sposób użycia zwiększa ryzyko szkody, dyskryminacji i błędu pomiaru.</p></article>
+          <article class="card warn"><span class="pill warn">Ryzyko prawne</span><h3>Rekrutacja i dane wrażliwe</h3><p>W Polsce testowanie psychologiczne w zatrudnieniu wymaga szczególnej ostrożności. Zgoda kandydata nie zawsze neutralizuje nierównowagę stron, a dane mogą zahaczać o szczególne kategorie danych, zwłaszcza gdy są interpretowane zdrowotnie.</p></article>
+        </div>
+        <div class="callout warn"><strong>Minimum bezpiecznego stosowania:</strong> przed użyciem iP121 w pracy psychologa należy uzyskać od dostawcy pełny podręcznik techniczny, określić podstawę prawną przetwarzania danych, przygotować formularz świadomej zgody i z góry wykluczyć jednoźródłowe decyzje wysokiej stawki.</div>
+        <table>
+          <thead><tr><th>Obszar</th><th>Zalecenie</th><th>Uzasadnienie</th></tr></thead>
+          <tbody>
+            <tr><td>Diagnoza psychologiczna</td><td>Nie stosować iP121 jako narzędzia klinicznego bez walidacji klinicznej.</td><td>Test jest pozycjonowany jako zawodowy, a nie diagnostyczny dla zaburzeń psychicznych.</td></tr>
+            <tr><td>Psychoterapia</td><td>Używać ewentualnie jako materiału do refleksji, nie jako prawdy o kliencie.</td><td>Raport może wzmacniać efekt etykietowania i nadinterpretację cech.</td></tr>
+            <tr><td>HR</td><td>Stosować tylko z analizą stanowiska, walidacją lokalną i procedurą odwoławczą.</td><td>Decyzje selekcyjne wymagają trafności kryterialnej i kontroli adverse impact.</td></tr>
+            <tr><td>Raporty AI</td><td>Traktować jako pomoc redakcyjną, nie niezależną diagnozę.</td><td>Odpowiedzialność za interpretację ponosi człowiek posiadający kompetencje.</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section id="standardy">
+      <div class="wrap">
+        <div class="section-title"><div class="kicker">05 / standardy</div><h2>Lista kontrolna przed wdrożeniem iP121</h2></div>
+        <div class="grid">
+          <div class="card"><h3>Psychometria</h3><p>Manual techniczny, opis norm, rzetelność skal, retest, EFA/CFA, inwariancja, trafność zbieżna, rozbieżna, kryterialna i predykcyjna.</p></div>
+          <div class="card"><h3>Prawo i dane</h3><p>Podstawa prawna, minimalizacja danych, czas retencji, kontrola dostępu, umowy powierzenia, zasady udostępniania raportów.</p></div>
+          <div class="card"><h3>Etyka zawodowa</h3><p>Świadoma zgoda, brak przymusu, kompetencje osoby interpretującej, prawo do omówienia wyniku, unikanie etykietowania.</p></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="wnioski">
+      <div class="wrap">
+        <div class="section-title"><div class="kicker">06 / ocena końcowa</div><h2>Ocena końcowa: czy NLP i iP121 powinny być stosowane przez psychologów?</h2></div>
+        <div class="grid">
+          <article class="card bad"><span class="pill bad">NLP</span><h3>Status naukowy jest niewystarczający do praktyki evidence-based</h3><p>Systematyczne i krytyczne przeglądy wskazują, że NLP ma ograniczoną liczbę badań, heterogeniczne protokoły i słabą jakość metodologiczną. Charakterystyczne hipotezy NLP, np. diagnostyczna interpretacja ruchów oczu, nie uzyskały przekonującego potwierdzenia empirycznego.</p></article>
+          <article class="card warn"><span class="pill warn">iP121</span><h3>Użyteczne, ale nie wystarczająco transparentne</h3><p>Producent deklaruje zgodność z Wielką Piątką, rzetelność wewnętrzną skal oraz aktualizowane normy. Brakuje jednak publicznego manuala z pełnymi analizami struktury czynnikowej, trafności kryterialnej, inwariancji i błędu pomiaru.</p></article>
+          <article class="card good"><span class="pill good">Praktyka</span><h3>Tylko jako narzędzie pomocnicze</h3><p>W pracy psychologa i psychoterapeuty iP121 nie powinien zastępować wywiadu, obserwacji, analizy kontekstu i innych wystandaryzowanych narzędzi. Raport cyfrowy nie jest diagnozą, a techniki sugestywne nie mogą zastępować świadomej, partnerskiej pracy terapeutycznej.</p></article>
+        </div>
+        <div class="callout bad"><strong>Wniosek operacyjny:</strong> NLP nie powinno być przedstawiane jako metoda o silnym statusie evidence-based. Ze względu na język wpływu, sugestii, przeformułowań i technik szybkiej zmiany wymaga ono dodatkowej kontroli etycznej: szczególnie pod kątem manipulacji, autonomii i sprawczości pacjenta. iP121 można rozważać jako narzędzie wspierające rozmowę rozwojową lub HR, ale nie jako samodzielną podstawę decyzji klinicznej, selekcyjnej lub terapeutycznej.</div>
+        <h3>Rozstrzygnięcie zawodowe: NLP wraz z iP121</h3>
+        <p>W praktyce klinicznej odpowiedź powinna być zasadniczo negatywna: NLP nie powinno być stosowane jako samodzielna metoda psychoterapii ani jako rama diagnostyczna przez psychologa lub psychoterapeutę, który deklaruje praktykę opartą na dowodach. iP121 nie powinien być łączony z NLP w sposób sugerujący, że profil osobowości zawodowej pozwala dobrać techniki „programowania”, przewidzieć podatność pacjenta na wpływ albo prowadzić interwencję terapeutyczną. Takie połączenie tworzyłoby pozór naukowości: test psychometryczny mógłby legitymizować praktykę, której własna baza dowodowa jest słaba.</p>
+        <p>W praktyce rozwojowej, coachingowej lub HR możliwe jest ostrożniejsze stanowisko: iP121 może służyć jako punkt wyjścia do rozmowy o preferencjach pracy, stylu działania i potrzebach zawodowych, ale nie powinien być narzędziem selekcyjnego etykietowania ani podstawą manipulacyjnych technik wpływu. Psycholog powinien oddzielić profilowanie zawodowe od terapii, a narzędzia komunikacyjne od twierdzeń NLP, które nie mają potwierdzenia empirycznego.</p>
+        <table>
+          <thead><tr><th>Kontekst</th><th>Ocena stosowania NLP</th><th>Ocena stosowania iP121</th><th>Rekomendacja</th></tr></thead>
+          <tbody>
+            <tr><td>Psychoterapia zaburzeń psychicznych</td><td>Nie rekomendować jako metody podstawowej.</td><td>Nie stosować jako narzędzia klinicznego.</td><td>Wybierać podejścia i narzędzia z udokumentowaną skutecznością i walidacją kliniczną.</td></tr>
+            <tr><td>Diagnoza psychologiczna</td><td>Nie używać jako podstawy wnioskowania diagnostycznego.</td><td>Tylko jeśli pytanie dotyczy funkcjonowania zawodowego i istnieje pełna dokumentacja.</td><td>Wymagana wielometodowość i jawne ograniczenia interpretacyjne.</td></tr>
+            <tr><td>Coaching / rozwój</td><td>Dopuszczalne wyłącznie jawne techniki rozmowy, bez obietnic terapeutycznych.</td><td>Możliwy materiał do refleksji rozwojowej.</td><td>Oddzielić psychoedukację od psychoterapii i nie nadużywać autorytetu psychologa.</td></tr>
+            <tr><td>HR / rekrutacja</td><td>Techniki wpływu są szczególnie ryzykowne z powodu nierównowagi stron.</td><td>Możliwe tylko z analizą stanowiska, podstawą prawną, walidacją i procedurą odwoławczą.</td><td>Unikać testowania przymusowego i automatycznych decyzji.</td></tr>
+          </tbody>
+        </table>
+        <h3>Jak do NLP podchodzą towarzystwa psychologów i psychoterapeutów w Polsce?</h3>
+        <p>W publicznie dostępnych materiałach nie znalazłem jednoznacznego, centralnego dokumentu największych polskich organizacji zawodowych zatytułowanego jako oficjalne stanowisko w sprawie NLP. Brak takiego dokumentu nie oznacza akceptacji NLP. Znaczenie praktyczne mają ogólne standardy: PTP wymaga praktyki opartej na współczesnej wiedzy naukowej, poszanowania autonomii, świadomej zgody, uczciwego informowania o ograniczeniach i unikania szkody. Te zasady istotnie ograniczają możliwość reklamowania NLP jako terapii skutecznej lub używania technik wpływu w sposób ukryty.</p>
+        <p>Polskie standardy diagnozy psychologicznej wskazują, że psycholog powinien odmówić odpowiedzi na pytanie diagnostyczne, jeżeli brakuje rzetelnych i trafnych procedur albo współczesnej wiedzy naukowej pozwalającej na taką odpowiedź. W konsekwencji NLP nie powinno być używane przez psychologa jako procedura diagnostyczna. Z kolei iP121, jeżeli jest stosowany, wymaga takiej samej kontroli jak inne narzędzia testowe: manuala, norm, trafności, rzetelności, bezpieczeństwa danych i kompetentnej interpretacji.</p>
+        <p>W środowisku psychoterapeutycznym w Polsce główne ścieżki certyfikacyjne i szkoleniowe są zwykle organizowane wokół rozpoznawalnych modalności psychoterapii, takich jak podejścia psychodynamiczne, poznawczo-behawioralne, systemowe, humanistyczno-doświadczeniowe lub integracyjne. NLP funkcjonuje raczej jako rynek szkoleń komunikacyjno-rozwojowych niż jako powszechnie uznany, centralny nurt psychoterapii akademickiej. Dlatego psycholog lub psychoterapeuta, który używa etykiety NLP, powinien szczególnie jasno informować pacjenta, jaki jest status naukowy tej metody i jakie alternatywy o silniejszym wsparciu empirycznym są dostępne.</p>
+        <div class="callout bad"><strong>Konkluzja normatywna:</strong> prawdziwy psycholog może analizować NLP jako zjawisko komunikacyjne, ale nie powinien sprzedawać NLP jako równoważnika terapii evidence-based. Prawdziwy psychoterapeuta powinien stosować metody zgodne z kompetencjami, kontraktem, superwizją i aktualną wiedzą naukową; NLP wraz z iP121 nie spełnia warunków samodzielnej podstawy pracy klinicznej.</div>
+      </div>
+    </section>
+
+    <section id="bibliografia">
+      <div class="wrap">
+        <div class="section-title"><div class="kicker">07 / źródła</div><h2>Bibliografia i źródła danych</h2></div>
+        <ol class="ref-list">
+          <li>Advisio Poland. <em>Broszura Insightful Profiler™ iP121</em>.</li>
+          <li>Advisio Poland. (2026). <em>26 885 kompletnych profili w nowych normach iP121</em>.</li>
+          <li>American Educational Research Association, American Psychological Association, & National Council on Measurement in Education. (2014). <em>Standards for Educational and Psychological Testing</em>.</li>
+          <li>Bigley, J. et al. (2010). Neurolinguistic programming used to reduce the need for anaesthesia in claustrophobic patients undergoing MRI. <em>British Journal of Radiology</em>, 83(986), 113–117.</li>
+          <li>European Federation of Psychologists’ Associations. (2025). <em>Model for the Review, Description and Evaluation of Psychological and Educational Tests</em>.</li>
+          <li>International Test Commission. (2001/2013). <em>ITC Guidelines on Test Use</em>.</li>
+          <li>Kiliçli, A., & Gül, S. (2024). The effect of neurolinguistic programming on labor pain, fear, duration and maternal satisfaction. <em>European Journal of Obstetrics & Gynecology and Reproductive Biology</em>, 302, 15–25.</li>
+          <li>Kotera, Y., Sheffield, D., & Van Gordon, W. (2019). The applications of neuro-linguistic programming in organizational settings. <em>Human Resource Development Quarterly</em>, 30(1), 101–116.</li>
+          <li>Passmore, J., & Rowson, T. S. (2019). Neuro-linguistic-programming: A critical review of NLP research and the application of NLP in coaching. <em>International Coaching Psychology Review</em>, 14(1), 57–69.</li>
+          <li>Peng, Y. et al. (2015). The effect of a brief intervention for patients with ischemic stroke. <em>Journal of Stroke and Cerebrovascular Diseases</em>, 24(8), 1793–1802.</li>
+          <li>Polskie Towarzystwo Psychologiczne. (2018). <em>Kodeks etyczny psychologa</em>.</li>
+          <li>Polskie Towarzystwo Psychologiczne. (2020). <em>Standardy diagnozy psychologicznej</em>.</li>
+          <li>Stipancic, M. et al. (2010). Effects of Neuro-Linguistic Psychotherapy on psychological difficulties and perceived quality of life. <em>Counselling and Psychotherapy Research</em>, 10(1), 39–49.</li>
+          <li>Sturt, J. et al. (2012). Neurolinguistic programming: a systematic review of the effects on health outcomes. <em>British Journal of General Practice</em>, 62(604), e757–e764.</li>
+          <li>Witkowski, T. (2010). Thirty-Five Years of Research on Neuro-Linguistic Programming. <em>Polish Psychological Bulletin</em>, 41(2), 58–66.</li>
+          <li>Wiseman, R. et al. (2012). The Eyes Don’t Have It: Lie Detection and Neuro-Linguistic Programming. <em>PLOS ONE</em>, 7(7), e40259.</li>
+          <li>Zaharia, C., Reiner, M., & Schütz, P. (2015). Evidence-based Neuro Linguistic Psychotherapy: a meta-analysis. <em>Psychiatria Danubina</em>, 27(4), 355–363.</li>
+          <li>Urząd Ochrony Danych Osobowych. (2024). <em>Jak przeprowadzać testy psychologiczne dla pracowników w zgodzie z RODO</em>.</li>
+          <li>Polskie Towarzystwo Psychologiczne. (2018). <em>Kodeks etyczny psychologa</em> — zasady autonomii, świadomej zgody, poufności, kompetencji i odpowiedzialności.</li>
+          <li>Polskie Towarzystwo Psychologiczne. (2020). <em>Standardy diagnozy psychologicznej</em> — warunki pytania diagnostycznego, wiedzy naukowej i integracji danych.</li>
+          <li>EUR-Lex. <em>Rozporządzenie (UE) 2016/679 — RODO</em>.</li>
+          <li>ISAP / Kancelaria Sejmu. <em>Kodeks pracy</em>.</li>
+          <li>ISAP / Kancelaria Sejmu. <em>Ustawa o prawach pacjenta i Rzeczniku Praw Pacjenta</em>.</li>
+        </ol>
+        <p class="small muted">Uwaga metodologiczna: dane liczbowe na wykresach pochodzą wyłącznie ze źródeł wskazanych bezpośrednio pod wykresami. W przypadku iP121 są to głównie oficjalne materiały producenta, co ogranicza niezależną ocenę psychometryczną.</p>
+      </div>
+    </section>
+  </main>
+  <footer class="footer"><div class="wrap"><div class="tagline">Opracowanie: statyczna strona HTML · zakres: NLP, iP121 w części środkowej, psychometria, manipulacja, autonomia i ocena końcowa etyki zawodowej</div></div></footer>
+</body>
+</html>

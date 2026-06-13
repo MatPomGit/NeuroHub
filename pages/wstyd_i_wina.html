@@ -612,10 +612,35 @@
     .notes-overlay-content p {
       margin: 0 0 0.7em 0;
     }
+
+    .pdf-slide .pdf-frame-wrap {
+      width: 72vw;
+      max-width: 80vw;
+      min-width: 60vw;
+      height: 68vh;
+      margin-left: 50%;
+      transform: translateX(-50%);
+    }
+
+    .pdf-slide .pdf-frame {
+      width: 100%;
+      height: 100%;
+      border: 1px solid rgba(255,255,255,0.18);
+      border-radius: 12px;
+      background: white;
+      box-shadow: 0 18px 45px rgba(0,0,0,0.45);
+    }
+
+    .pdf-slide .pdf-fallback {
+      margin-top: 14px;
+      font-size: 0.45em;
+      color: var(--muted);
+    }
 </style>
 </head>
 <body>
-<canvas id="particles-canvas"></canvas>
+
+  <canvas id="particles-canvas"></canvas>
 <div class="panel-stack" id="panelStack" style="display:none">
 <div class="font-switcher" id="fontSwitcher">
 <button class="font-btn active" data-f="inter" title="Inter – domyślna">Inter</button>
@@ -632,6 +657,7 @@
 <button class="theme-btn" data-t="kokos" title="Kokos"></button>
 </div>
 </div>
+
 <div class="timer" id="timer">15:00</div>
 <div aria-live="polite" class="notes-overlay" id="inlineNotesOverlay">
 <div class="notes-overlay-header">
@@ -655,6 +681,7 @@
         </div>
 <!-- <div class="footer">wersja 1.2 „maniakalny kartofel”</div> -->
 <aside class="notes"><p>Wstyd i wina towarzyszą ludzkości od zarania kultur i religii. Są obecne w Biblii, w konfucjańskich tekstach etycznych, w europejskiej filozofii moralnej i w rytuałach społeczności, o których zachodnie uniwersytety nie wiedziały przez długi czas prawie nic. Mimo tej powszechności — albo właśnie dlatego — okazuje się, że znaczenie tych emocji jest głęboko osadzone w konkretnym języku, w konkretnym systemie norm i w konkretnym rozumieniu tego, czym jest człowiek wobec innych ludzi. Celem tej prezentacji jest przegląd trzech dekad badań porównawczych, który pokaże, w czym różne kultury są do siebie zaskakująco podobne, a w czym różnią się w sposób, którego intuicja nie podpowiada.</p></aside></section>
+
 <!-- Plan prezentacji -->
 <section>
 <h2>Plan prezentacji</h2>
@@ -671,6 +698,7 @@
 </ol>
 </div>
 <aside class="notes"><p>Prezentacja zaczyna się od podstawowych pojęć i teorii klasycznych, które ukształtowały całe pole badań, nawet jeśli dziś są już kwestionowane. Następnie omówione zostaną metody stosowane w badaniach porównawczych i ich ograniczenia — bo to, co wiemy, zależy od tego, jak pytamy. Potem pojawią się dane empiryczne: porównania między kulturami indywidualistycznymi i kolektywistycznymi, różnice między konkretnymi krajami, sytuacje wywołujące emocje i kwestia językowej nieprzetłumaczalności uczuć. Na końcu przyjrzymy się temu, co z tych badań wynika dla praktyki klinicznej, edukacji i pracy organizacyjnej.</p></aside></section>
+
 <!-- Wprowadzenie i cele przeglądu -->
 <section>
 <h2>Wprowadzenie i cele przeglądu</h2>
@@ -787,7 +815,7 @@
 <img alt="Badanie emocji w terenie" src="images/im2.jpg"/>
 </div>
 <div class="card">
-          Najmocniejsze wnioski pojawiają się wtedy, gdy pomiary ilościowe łączy się z interpretacją jakościową. Sam wynik procentowy rzadko wyjaśnia, co emocja oznacza dla badanych osób.
+          Sam wynik procentowy rzadko wyjaśnia, co emocja oznacza dla badanych osób.
         </div>
 </div>
 <aside class="notes"><p>Wiedza o emocjach między kulturami jest tyle warta, ile metody, którymi ją zebraliśmy. Kwestionariusze i scenariusze sytuacyjne pozwalają porównywać duże grupy i sprawdzać, jak ludzie reagują na opisane zdarzenia — ale zakładają, że pytanie rozumiane jest tak samo po obu stronach Pacyfiku. Wywiady etnograficzne i badania narracyjne dają dostęp do lokalnych znaczeń emocji, do tego, jak ludzie sami o nich mówią i co za nimi stoi. Kluczowym wymogiem technicznym jest niezmienność pomiarowa — weryfikacja, czy skala rzeczywiście mierzy ten sam konstrukt w różnych językach. Bez tego porównanie jest jak ważenie na dwóch różnych wagach i ogłaszanie zwycięzcy. Dlatego najbardziej wiarygodne wnioski pochodzą z projektów łączących podejście ilościowe i jakościowe.</p></aside></section>
@@ -878,6 +906,7 @@
           </div> -->
 </div><div class="section-note">Uwaga: wartości są syntetyczną wizualizacją kierunku ustaleń, a nie wynikiem jednej formalnej metaanalizy.</div>
 <aside class="notes"><p>Najistotniejsza obserwacja, którą można wyciągnąć z zestawienia danych porównawczych, brzmi: wstyd silniej różnicuje kultury kolektywistyczne i indywidualistyczne niż wina. Poziom winy jest bardziej wyrównany między kulturami i silniej zależy od sposobu pomiaru oraz od typu sytuacji, niż od szerokiej geograficznej przynależności kulturowej. To znaczy, że mówienie „ta kultura to kultura wstydu, a tamta — winy" jest zawsze uproszczeniem. Trafniejsze pytanie brzmi: w jakich konkretnych sytuacjach dana emocja zostaje uruchomiona i jaką funkcję społeczną pełni w danym kontekście. Wstyd może chronić relacje. Wina może naprawiać krzywdę. Obie mogą paraliżować lub mobilizować — zależnie od tego, kto doświadcza, wobec kogo i w jakich okolicznościach.</p></aside></section>
+
 <!-- Różnice międzykulturowe -->
 <section class="scroll-fit">
 <h2>Różnice międzykulturowe</h2>
@@ -902,6 +931,7 @@
           W takim ujęciu różnice międzykulturowe stają się mniej rankingiem, a bardziej mapą sposobów regulacji relacji społecznych.
         </div>
 <aside class="notes"><p>Badania konkretnych par kulturowych pokazują, że różnice nie są wyłącznie kwestią natężenia emocji, ale ich znaczenia i funkcji. W porównaniach chińsko-kanadyjskich wstyd bywa opisywany jako bardziej trwały i dotkliwszy w kontekście chińskim, podczas gdy wina w kontekście kanadyjskim częściej wiąże się z chęcią naprawy i działaniem naprawczym. W badaniach turecko-niemieckich obydwie emocje różnie wspierają umiejętność przyjmowania perspektywy społecznej — co ma konsekwencje dla komunikacji i rozwiązywania konfliktów. Z kolei dane włosko-amerykańskie pokazują, że granica między wstydem, winą a zakłopotaniem nie przebiega tak samo w każdej kulturze. Różnice kulturowe warto więc traktować jako mapę regulacji relacji społecznych — nie jako ranking cywilizacji według stopnia dojrzałości moralnej.</p></aside></section>
+
 <!-- Konteksty wywołujące emocje -->
 <section>
 <h2>Konteksty wywołujące emocje</h2>
@@ -925,6 +955,7 @@
 </div>
 <div class="callout">To, co w jednej kulturze jest sygnałem zdrowej autorefleksji, w innej może być odczytywane jako nadmierna samokontrola lub zagrożenie relacyjne. Ma to bezpośrednie znaczenie kliniczne.</div>
 <aside class="notes"><p>Pewne wzorce wydają się względnie uniwersalne. Publiczne niepowodzenie w wielu kulturach wywołuje wstyd, a naruszenie norm moralnych — winę. Ale już granica między tym, co publiczne, a tym, co prywatne, działa inaczej w różnych kulturach. W niektórych kontekstach wstyd pojawia się, nawet gdy naruszenie jest absolutnie niewidoczne dla otoczenia — bo norma społeczna została tak silnie zinternalizowana, że jej złamanie jest odczuwalne niezależnie od świadków. Religijność, struktura rodziny, praktyki edukacyjne i doświadczenie akulturacji — a więc kontakt z innymi kulturami w ramach migracji lub zmiany środowiska — wszystkie te czynniki modyfikują te wzorce i czynią z emocji moralnych zjawisko znacznie bardziej dynamiczne niż sugerują proste modele.</p></aside></section>
+
 <!-- Semantyka i konceptualizacja emocji -->
 <section>
 <h2>Semantyka i konceptualizacja</h2>
@@ -1099,15 +1130,17 @@
 <span class="pill">Psychoterapia</span>
 <span class="pill">Intersekcjonalność</span>
 </div>
+
 <div class="section-note">
           Najcenniejsze będą projekty długofalowe i międzydyscyplinarne, bo tylko one pokażą, jak emocje zmieniają się wraz z wiekiem, migracją i zmianą kontekstu społecznego.
         </div>
 <aside class="notes"><p>Badania nad wstydem i winą są w miejscu, w którym coraz wyraźniej widać granice dotychczasowego podejścia. Potrzeba rozszerzenia próbki kulturowej — poza zachodnią i wschodnioazjatycką dominantę — jest oczywista i pilna: nie można budować teorii emocji moralnych na podstawie danych z mniej niż jednej czwartej świata. Potrzebne są bardziej zaawansowane metody porównawcze, które pozwolą rozstrzygać kwestie ekwiwalencji pomiarowej zamiast ją zakładać. Badania podłużne z dziećmi mogłyby pokazać, kiedy i jak wstyd oddziela się od winy w toku rozwoju — i czy ta ścieżka wygląda tak samo w Nairobi, w Seulu i w Krakowie. Najbardziej obiecującym kierunkiem jest jednak integracja psychologii kulturowej z neuroobrazowaniem, badaniami nad akulturacją i praktyką kliniczną — bo dopiero połączenie tych poziomów analizy daje szansę na teorię emocji moralnych, która będzie zarazem precyzyjna i prawdziwie powszechna.</p></aside></section>
+
 <!-- Wykres: przyszłe kierunki badań -->
 <section>
 <h2>Wnioski</h2>
 <p class="lead">
-          Wnioski płynące z przeglądu są praktyczne: zamiast szukać prostego podziału kultur, warto badać mechanizmy, które uruchamiają emocje i nadają im znaczenie w konkretnych społecznościach.
+          Zamiast szukać prostego podziału kultur, warto badać mechanizmy, które uruchamiają emocje i nadają im znaczenie w konkretnych społecznościach.
         </p>
 <div class="card">
 <ul>
@@ -1118,7 +1151,8 @@
 </ul>
 </div>
 <div class="callout">
-          W praktyce pytanie nie brzmi więc, „czy dana kultura jest kulturą wstydu?”, ale „w jakich sytuacjach i przez jakie normy wstyd lub wina zostają wywołane”.
+          
+        W praktyce pytanie nie brzmi więc, „czy dana kultura jest kulturą wstydu?”, ale „w jakich sytuacjach i przez jakie normy wstyd lub wina zostają wywołane”.
         </div>
 <aside class="notes"><p>Prosty podział na kultury wstydu i kultury winy nie przeżył konfrontacji z danymi empirycznymi. Wstyd i wina są rozpoznawalne w bardzo różnych kulturach, ale ich znaczenie, funkcja, intensywność i konsekwencje są głęboko osadzone w konkretnym środowisku społecznym i językowym. Wstyd częściej i wyraźniej różnicuje kultury kolektywistyczne i indywidualistyczne, natomiast wina wymaga bardziej zniuansowanej analizy uwzględniającej kontekst religijny, normatywny i sytuacyjny. Zamiast pytać, czy dana kultura jest kulturą wstydu, lepiej pytać: jakie normy, relacje i sytuacje aktywują wstyd lub winę w tym konkretnym kontekście? I jaką funkcję społeczną ta emocja tam pełni? To pytanie jest trudniejsze, ale znacznie bliższe prawdy.</p></aside></section>
 
@@ -1140,7 +1174,8 @@
   <div class="section-note">
     Dobór pozycji obejmuje klasyczne badania porównawcze, prace rozwojowe, analizy semantyczne oraz współczesne modele integrujące psychologię kulturową z szerszym kontekstem społecznym.
   </div>
-  <aside class="notes"><p>Na tym slajdzie pokazuję wybrane źródła, które najlepiej reprezentują główne wątki prezentacji: klasyczne porównania międzykulturowe, badania dzieci, wielowymiarowe ujęcie indywidualizmu i kolektywizmu, różnice semantyczne oraz współczesne modele integracyjne. Nie jest to pełna bibliografia artykułu, lecz zestaw najważniejszych pozycji, do których warto wrócić, jeśli ktoś chce pogłębić temat po prezentacji.</p></aside>
+
+  <aside class="notes"><p>Tu mamy wybrane źródła, które najlepiej reprezentują główne wątki prezentacji: klasyczne porównania międzykulturowe, badania dzieci, wielowymiarowe ujęcie indywidualizmu i kolektywizmu, różnice semantyczne oraz współczesne modele integracyjne. Nie jest to pełna bibliografia artykułu, lecz zestaw najważniejszych pozycji, do których warto wrócić, jeśli ktoś chce pogłębić temat po prezentacji.</p></aside>
 </section>
 
 <!-- Strona końcowa -->
@@ -1184,6 +1219,7 @@
     progress: true,
     history: true,
     plugins: (typeof RevealNotes !== 'undefined') ? [ RevealNotes ] : [],
+
   });
 
   // ── Timer (startuje dopiero od 2. slajdu) ────────────────
@@ -1310,8 +1346,6 @@
     themeBtns.forEach(b => b.classList.toggle('active', b.dataset.t === savedTheme));
   }
 
-
-
   // ── Dolny panel notatek prelegenta na aktualnym slajdzie ──
   const inlineNotesOverlay = document.getElementById('inlineNotesOverlay');
   const inlineNotesContent = document.getElementById('inlineNotesContent');
@@ -1408,6 +1442,7 @@
       // const colors = getColors();
 
       particles.forEach(p => {
+        
         // Reakcja na kursor
         const dx = p.x - mouse.x;
         const dy = p.y - mouse.y;

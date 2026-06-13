@@ -1,0 +1,573 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Humor jako mechanizm obronny</title>
+  <style>
+    :root {
+      --bg: #0d1117;
+      --panel: #151b23;
+      --panel-2: #1f2937;
+      --text: #eef2f7;
+      --muted: #a7b0c0;
+      --soft: #c7d2e1;
+      --line: rgba(255,255,255,.12);
+      --accent: #80d0ff;
+      --accent-2: #b8f7d4;
+      --warn: #ffd166;
+      --danger: #ff9aa2;
+      --ok: #86efac;
+      --shadow: 0 20px 55px rgba(0,0,0,.35);
+      --radius: 22px;
+    }
+
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      color: var(--text);
+      background:
+        radial-gradient(circle at 10% 0%, rgba(128,208,255,.22), transparent 34%),
+        radial-gradient(circle at 90% 4%, rgba(184,247,212,.13), transparent 30%),
+        linear-gradient(180deg, #0d1117 0%, #111827 45%, #0b1020 100%);
+      line-height: 1.6;
+    }
+
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    .nav {
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      backdrop-filter: blur(14px);
+      background: rgba(13,17,23,.82);
+      border-bottom: 1px solid var(--line);
+    }
+    .nav-inner {
+      max-width: 1180px;
+      margin: 0 auto;
+      padding: 12px 22px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 18px;
+    }
+    .brand { font-weight: 760; letter-spacing: -.02em; white-space: nowrap; }
+    .nav-links { display: flex; flex-wrap: wrap; gap: 12px 18px; justify-content: flex-end; font-size: .92rem; color: var(--muted); }
+    .nav-links a { color: var(--muted); }
+    .nav-links a:hover { color: var(--text); }
+
+    .hero {
+      max-width: 1180px;
+      margin: 0 auto;
+      padding: 92px 22px 56px;
+      display: grid;
+      grid-template-columns: minmax(0, 1.15fr) minmax(300px, .85fr);
+      gap: 36px;
+      align-items: center;
+    }
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 6px 12px;
+      border: 1px solid rgba(128,208,255,.28);
+      border-radius: 999px;
+      color: var(--accent);
+      background: rgba(128,208,255,.08);
+      font-size: .86rem;
+      font-weight: 650;
+    }
+    h1 { margin: 18px 0 16px; font-size: clamp(2.4rem, 5vw, 5.1rem); line-height: .96; letter-spacing: -.06em; }
+    .lead { font-size: clamp(1.04rem, 1.55vw, 1.32rem); color: var(--muted); max-width: 760px; }
+    .hero-actions { margin-top: 28px; display: flex; flex-wrap: wrap; gap: 12px; }
+    .button { display: inline-flex; align-items: center; justify-content: center; padding: 12px 16px; border-radius: 14px; border: 1px solid var(--line); background: rgba(255,255,255,.06); color: var(--text); font-weight: 700; box-shadow: 0 10px 25px rgba(0,0,0,.18); }
+    .button.primary { background: linear-gradient(135deg, #7dd3fc, #bbf7d0); color: #08111f; border: none; }
+
+    .hero-card, .card, .figure-card, .table-wrap, .time-content {
+      border: 1px solid var(--line);
+      background: rgba(255,255,255,.055);
+      border-radius: var(--radius);
+      box-shadow: 0 8px 28px rgba(0,0,0,.16);
+    }
+    .hero-card {
+      background: linear-gradient(180deg, rgba(255,255,255,.08), rgba(255,255,255,.035));
+      box-shadow: var(--shadow);
+      padding: 24px;
+      position: relative;
+      overflow: hidden;
+    }
+    .hero-card:before { content: ""; position: absolute; inset: -80px -60px auto auto; width: 180px; height: 180px; border-radius: 50%; background: rgba(128,208,255,.16); filter: blur(2px); }
+    .model-title { font-size: 1.05rem; color: var(--muted); margin: 0 0 10px; }
+    .model-big { font-size: 2rem; line-height: 1.1; font-weight: 780; letter-spacing: -.035em; margin-bottom: 18px; }
+    .signal-row { display: grid; gap: 12px; }
+    .signal { border: 1px solid var(--line); border-radius: 16px; padding: 13px; background: rgba(0,0,0,.14); }
+    .signal strong { display: block; margin-bottom: 3px; }
+    .signal span { color: var(--muted); font-size: .93rem; }
+
+    section { max-width: 1180px; margin: 0 auto; padding: 46px 22px; }
+    .section-head { max-width: 840px; margin-bottom: 24px; }
+    h2 { margin: 0 0 12px; font-size: clamp(1.8rem, 3vw, 2.8rem); line-height: 1.06; letter-spacing: -.04em; }
+    .section-head p { color: var(--muted); margin: 0; font-size: 1.04rem; }
+    h3 { margin: 0 0 8px; line-height: 1.2; font-size: 1.2rem; }
+
+    .grid { display: grid; gap: 18px; }
+    .grid-3 { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+    .grid-4 { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+    .grid-2 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .card { padding: 22px; }
+    .card p { margin: 0; color: var(--muted); }
+    .tag { display: inline-flex; font-size: .75rem; text-transform: uppercase; letter-spacing: .08em; color: var(--accent-2); margin-bottom: 10px; font-weight: 760; }
+    .metric { font-size: clamp(2rem, 5vw, 3.8rem); line-height: 1; font-weight: 850; letter-spacing: -.06em; color: var(--text); margin: 6px 0 10px; }
+    .metric small { font-size: .38em; color: var(--muted); font-weight: 650; letter-spacing: 0; }
+    .source-mini { display: block; margin-top: 12px; padding-top: 10px; border-top: 1px solid var(--line); color: var(--muted); font-size: .78rem; line-height: 1.35; }
+
+    .matrix { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; }
+    .style-card { min-height: 260px; }
+    .style-card.adaptive { border-color: rgba(134,239,172,.32); }
+    .style-card.risky { border-color: rgba(255,154,162,.32); }
+    .style-card .pill { display: inline-block; border-radius: 999px; padding: 5px 9px; margin-bottom: 12px; font-size: .78rem; font-weight: 750; background: rgba(255,255,255,.08); color: var(--muted); }
+    ul.clean { padding-left: 18px; margin: 12px 0 0; color: var(--muted); }
+    ul.clean li { margin: 6px 0; }
+
+    .flow { display: grid; grid-template-columns: 1fr auto 1fr auto 1fr; align-items: stretch; gap: 12px; }
+    .flow .arrow { align-self: center; color: var(--accent); font-size: 1.6rem; }
+    .flow-box { border: 1px solid var(--line); border-radius: 18px; padding: 16px; background: rgba(0,0,0,.15); }
+    .flow-box strong { display:block; margin-bottom:6px; }
+    .flow-box span { color: var(--muted); font-size:.94rem; }
+
+    .table-wrap { overflow-x: auto; background: rgba(255,255,255,.04); }
+    table { width: 100%; border-collapse: collapse; min-width: 760px; }
+    th, td { padding: 15px 16px; text-align: left; border-bottom: 1px solid var(--line); vertical-align: top; }
+    th { color: var(--accent); font-size: .9rem; text-transform: uppercase; letter-spacing: .06em; background: rgba(0,0,0,.18); }
+    td { color: var(--muted); }
+    tr:last-child td { border-bottom: none; }
+    td strong { color: var(--text); }
+
+    .figure-card { padding: 20px; background: linear-gradient(180deg, rgba(255,255,255,.06), rgba(255,255,255,.035)); }
+    .figure-card h3 { margin-bottom: 4px; }
+    .figure-card p { color: var(--muted); margin: 0 0 14px; }
+    .figure-card svg { width: 100%; height: auto; display: block; }
+    .source { margin-top: 12px; padding-top: 11px; border-top: 1px solid var(--line); color: var(--muted); font-size: .82rem; line-height: 1.45; }
+    .source strong { color: var(--soft); }
+    .caption-note { color: var(--muted); font-size: .86rem; margin-top: 10px; }
+    .svg-text { fill: #eef2f7; font-family: Inter, ui-sans-serif, system-ui, sans-serif; }
+    .svg-muted { fill: #a7b0c0; font-family: Inter, ui-sans-serif, system-ui, sans-serif; }
+    .svg-small { font-size: 12px; }
+    .svg-label { font-size: 14px; font-weight: 700; }
+    .svg-title { font-size: 20px; font-weight: 850; letter-spacing: -.02em; }
+    .svg-number { font-size: 30px; font-weight: 850; letter-spacing: -.04em; }
+
+    .timeline { position: relative; display: grid; gap: 14px; margin-top: 6px; }
+    .timeline:before { content: ""; position: absolute; left: 15px; top: 5px; bottom: 5px; width: 2px; background: linear-gradient(var(--accent), transparent); }
+    .time-item { display: grid; grid-template-columns: 48px 1fr; gap: 12px; position: relative; }
+    .dot { width: 32px; height: 32px; border-radius: 50%; border: 1px solid rgba(128,208,255,.5); background: #111827; display: grid; place-items: center; color: var(--accent); font-size: .75rem; font-weight: 800; z-index: 1; }
+    .time-content { padding: 14px 16px; background: rgba(255,255,255,.045); }
+    .time-content strong { display: block; margin-bottom: 4px; }
+    .time-content span { color: var(--muted); }
+
+    .quote { border-left: 4px solid var(--accent); padding: 20px 24px; background: rgba(128,208,255,.08); border-radius: 0 18px 18px 0; font-size: 1.18rem; color: var(--text); margin: 0; }
+    .references { color: var(--muted); font-size: .95rem; columns: 2; column-gap: 34px; }
+    .references p { break-inside: avoid; margin: 0 0 12px; }
+
+    footer { max-width: 1180px; margin: 0 auto; padding: 28px 22px 70px; color: var(--muted); border-top: 1px solid var(--line); }
+
+    @media (max-width: 900px) {
+      .hero { grid-template-columns: 1fr; padding-top: 64px; }
+      .grid-3, .grid-4, .grid-2, .matrix { grid-template-columns: 1fr; }
+      .flow { grid-template-columns: 1fr; }
+      .flow .arrow { transform: rotate(90deg); justify-self: center; }
+      .nav-inner { align-items: flex-start; flex-direction: column; }
+      .nav-links { justify-content: flex-start; }
+      .references { columns: 1; }
+    }
+
+    @media print {
+      body { background: #fff; color: #111; }
+      .nav, .hero-actions { display: none; }
+      .card, .hero-card, .table-wrap, .time-content, .figure-card { box-shadow: none; border-color: #ccc; background: #fff; }
+      .lead, .card p, td, .section-head p, .time-content span, .references, .source, .source-mini { color: #333; }
+      a { color: #111; }
+      .svg-text, .svg-muted { fill: #111; }
+    }
+  </style>
+</head>
+<body>
+  <nav class="nav">
+    <div class="nav-inner">
+      <div class="brand">Humor jako mechanizm obronny</div>
+      <div class="nav-links">
+        <a href="#definicja">Definicja</a>
+        <a href="#typologia">Typologia</a>
+        <a href="#terapia">Terapia</a>
+        <a href="#dane">Dane i wykresy</a>
+        <a href="#badania">Badania</a>
+        <a href="#praktyka">Praktyka</a>
+        <a href="#bibliografia">Bibliografia</a>
+      </div>
+    </div>
+  </nav>
+
+  <header class="hero">
+    <div>
+      <span class="eyebrow">Raport naukowo-edukacyjny</span>
+      <h1>Humor jako dojrzała obrona psychiczna</h1>
+      <p class="lead">Humor może zmniejszać napięcie, chronić poczucie spójności Ja i budować relacje. Nie każdy humor jest jednak adaptacyjny: ten sam żart może być reappraisalem, unikaniem afektu, agresją lub próbą utrzymania akceptacji społecznej.</p>
+      <div class="hero-actions">
+        <a class="button primary" href="#wniosek">Najważniejszy wniosek</a>
+        <a class="button" href="#dane">Zobacz statystyki</a>
+        <a class="button" href="#praktyka">Wskazówki kliniczne</a>
+      </div>
+    </div>
+    <aside class="hero-card" aria-label="Model interpretacji humoru">
+      <p class="model-title">Model oceny klinicznej</p>
+      <div class="model-big">Nie pytaj tylko „czy to było zabawne?”. Pytaj: co humor zrobił z afektem i relacją?</div>
+      <div class="signal-row">
+        <div class="signal"><strong>Kontakt z rzeczywistością</strong><span>Dojrzały humor nie zaprzecza cierpieniu, lecz zmienia sposób odnoszenia się do niego.</span></div>
+        <div class="signal"><strong>Kontakt z afektem</strong><span>Żart może ułatwiać tolerancję emocji albo natychmiast od niej odcinać.</span></div>
+        <div class="signal"><strong>Kontakt z drugim człowiekiem</strong><span>Humor może budować przymierze, ale także zawstydzać, dominować lub dewaluować.</span></div>
+      </div>
+    </aside>
+  </header>
+
+  <section id="wniosek">
+    <blockquote class="quote">Humor jest dojrzałym mechanizmem obronnym wtedy, gdy pozwala uznać bolesną rzeczywistość, zachować kontakt z emocją i nadać jej bardziej znośne znaczenie. Przestaje być adaptacyjny, gdy służy zaprzeczaniu, atakowi, samoupokorzeniu albo zerwaniu kontaktu z afektem.</blockquote>
+  </section>
+
+  <section id="definicja">
+    <div class="section-head">
+      <h2>1. Definicja kliniczna</h2>
+      <p>W psychodynamicznym sensie humor należy do dojrzałych mechanizmów obronnych, obok supresji, sublimacji, antycypacji i altruizmu. Jego adaptacyjność zależy jednak od funkcji, timingu oraz relacyjnego efektu użycia.</p>
+    </div>
+    <div class="grid grid-3">
+      <div class="card"><span class="tag">Mechanizm obronny</span><h3>Ochrona przed przeciążeniem</h3><p>Humor zmniejsza napięcie bez konieczności zniekształcania rzeczywistości. Pozwala mówić o trudnym doświadczeniu przy mniejszym pobudzeniu emocjonalnym.</p></div>
+      <div class="card"><span class="tag">Reappraisal</span><h3>Zmiana ramy znaczenia</h3><p>Żart może działać jak szybkie przewartościowanie poznawcze: problem nie znika, ale staje się psychicznie bardziej możliwy do zniesienia.</p></div>
+      <div class="card"><span class="tag">Relacja</span><h3>Sygnał społeczny</h3><p>Humor komunikuje dystans, bliskość, status, wrogość, wstyd lub gotowość do kontaktu. Dlatego w psychoterapii jest materiałem klinicznym, a nie tylko ozdobą wypowiedzi.</p></div>
+    </div>
+  </section>
+
+  <section id="typologia">
+    <div class="section-head">
+      <h2>2. Typologia stylów humoru</h2>
+      <p>Model HSQ Roda Martina porządkuje humor według dwóch osi: adaptacyjność oraz orientacja interpersonalna lub intrapsychiczna. Z mechanizmem obronnym „humor” najbliżej wiąże się styl self-enhancing, czyli humor w służbie ego.</p>
+    </div>
+    <div class="matrix">
+      <div class="card style-card adaptive"><span class="pill">Adaptacyjny · interpersonalny</span><h3>Humor afiliacyjny</h3><p>Łagodzi napięcie i buduje wspólnotę. W terapii może wzmacniać alliance, jeżeli nie banalizuje cierpienia pacjenta.</p><ul class="clean"><li>funkcja: więź</li><li>ryzyko: zbyt szybkie rozładowanie</li></ul></div>
+      <div class="card style-card adaptive"><span class="pill">Adaptacyjny · intrapsychiczny</span><h3>Humor w służbie ego</h3><p>Najbliższy dojrzałej obronie. Umożliwia dystans wobec własnego bólu bez zaprzeczania faktom.</p><ul class="clean"><li>funkcja: reappraisal</li><li>potencjał: tolerancja afektu</li></ul></div>
+      <div class="card style-card risky"><span class="pill">Ryzykowny · interpersonalny</span><h3>Humor agresywny</h3><p>Sarkazm, kpina lub dewaluacja mogą być społeczną maską wrogości, projekcji lub przemieszczenia.</p><ul class="clean"><li>funkcja: dominacja</li><li>ryzyko: pęknięcie przymierza</li></ul></div>
+      <div class="card style-card risky"><span class="pill">Ryzykowny · intrapsychiczny</span><h3>Humor samodeprecjonujący</h3><p>Może chwilowo ułatwiać akceptację społeczną, ale długofalowo utrwala wstyd i samodewaluację.</p><ul class="clean"><li>funkcja: appeasement</li><li>ryzyko: rezygnacja z potrzeb</li></ul></div>
+    </div>
+  </section>
+
+  <section id="terapia">
+    <div class="section-head">
+      <h2>3. Humor w procesie terapeutycznym</h2>
+      <p>Humor pacjenta jest przede wszystkim materiałem diagnostycznym. Humor terapeuty jest interwencją, dlatego wymaga oceny przymierza, momentu sesji i możliwego przeciwprzeniesienia.</p>
+    </div>
+    <div class="flow">
+      <div class="flow-box"><strong>Pacjent żartuje</strong><span>Może regulować napięcie, testować relację, maskować wstyd albo sygnalizować dystans wobec trudnego tematu.</span></div>
+      <div class="arrow">→</div>
+      <div class="flow-box"><strong>Terapeuta ocenia funkcję</strong><span>Najważniejsze pytanie: czy humor utrzymuje kontakt z emocją, czy przerywa jej eksplorację?</span></div>
+      <div class="arrow">→</div>
+      <div class="flow-box"><strong>Interwencja</strong><span>Wzmacnianie, odzwierciedlenie, badanie funkcji, zatrzymanie uniku lub nazwanie efektu relacyjnego.</span></div>
+    </div>
+  </section>
+
+  <section id="dane">
+    <div class="section-head">
+      <h2>4. Dane, wykresy i infografiki</h2>
+      <p>Statystyki poniżej nie opisują „częstości humoru” w populacji ogólnej. Pokazują wybrane wyniki badań nad interwencjami humorystycznymi, śmiechem w sesji, banterem oraz stylem humoru jako sygnałem interpersonalnym.</p>
+    </div>
+
+    <div class="grid grid-4">
+      <div class="card"><span class="tag">Przegląd systematyczny</span><div class="metric">10</div><p>badań spełniło kryteria w przeglądzie interwencji humorystycznych w psychoterapii dorosłych.</p><span class="source-mini">Źródło: Sarink & García-Montes, 2023, <em>Frontiers in Psychiatry</em>.</span></div>
+      <div class="card"><span class="tag">Banter w terapii</span><div class="metric">62<small>/68</small></div><p>sesji zawierało przykłady kliniczne banteru/przekomarzania w badaniu pacjentów z depresją.</p><span class="source-mini">Źródło: Brooks et al., 2023, <em>Journal of Clinical Psychology</em>.</span></div>
+      <div class="card"><span class="tag">Śmiech klienta</span><div class="metric">814</div><p>epizodów śmiechu klienta zakodowano w 330 sesjach psychoterapii psychodynamicznej.</p><span class="source-mini">Źródło: Gupta, Hill & Kivlighan, 2018, <em>Journal of Counseling Psychology</em>.</span></div>
+      <div class="card"><span class="tag">Relacje romantyczne</span><div class="metric">39</div><p>badań objęto metaanalizą dotyczącą humoru i satysfakcji w relacjach romantycznych.</p><span class="source-mini">Źródło: Hall, 2017, <em>Personal Relationships</em>.</span></div>
+    </div>
+
+    <div class="grid grid-2" style="margin-top:18px;">
+      <figure class="figure-card">
+        <h3>Struktura badań w przeglądzie interwencji humorystycznych</h3>
+        <p>Przegląd kliniczny objął niewielką i metodologicznie zróżnicowaną bazę dowodową.</p>
+        <svg viewBox="0 0 720 420" role="img" aria-label="Wykres słupkowy: 4 RCT, 3 quasi-eksperymentalne, 1 korelacyjne, 2 przeglądy systematyczne">
+          <rect x="0" y="0" width="720" height="420" rx="18" fill="rgba(0,0,0,.12)"/>
+          <line x1="85" y1="335" x2="660" y2="335" stroke="rgba(255,255,255,.25)"/>
+          <line x1="85" y1="80" x2="85" y2="335" stroke="rgba(255,255,255,.25)"/>
+          <text x="85" y="48" class="svg-text svg-title">Liczba badań według typu projektu</text>
+          <text x="85" y="68" class="svg-muted svg-small">N = 10 badań zakwalifikowanych do syntezy</text>
+          <g>
+            <rect x="110" y="131" width="92" height="204" rx="8" fill="#80d0ff" opacity=".9"/>
+            <text x="156" y="118" text-anchor="middle" class="svg-text svg-number">4</text>
+            <text x="156" y="360" text-anchor="middle" class="svg-muted svg-small">RCT</text>
+          </g>
+          <g>
+            <rect x="245" y="182" width="92" height="153" rx="8" fill="#b8f7d4" opacity=".9"/>
+            <text x="291" y="169" text-anchor="middle" class="svg-text svg-number">3</text>
+            <text x="291" y="360" text-anchor="middle" class="svg-muted svg-small">Quasi-eksper.</text>
+          </g>
+          <g>
+            <rect x="380" y="284" width="92" height="51" rx="8" fill="#ffd166" opacity=".9"/>
+            <text x="426" y="271" text-anchor="middle" class="svg-text svg-number">1</text>
+            <text x="426" y="360" text-anchor="middle" class="svg-muted svg-small">Korelacyjne</text>
+          </g>
+          <g>
+            <rect x="515" y="233" width="92" height="102" rx="8" fill="#ff9aa2" opacity=".9"/>
+            <text x="561" y="220" text-anchor="middle" class="svg-text svg-number">2</text>
+            <text x="561" y="360" text-anchor="middle" class="svg-muted svg-small">Przeglądy</text>
+          </g>
+          <text x="100" y="390" class="svg-muted svg-small">Wniosek: baza dowodowa jest obiecująca, ale nadal mała i heterogeniczna.</text>
+        </svg>
+        <figcaption class="source"><strong>Źródło:</strong> Sarink, F. S. M., & García-Montes, J. M. (2023). <em>Humor interventions in psychotherapy and their effect on levels of depression and anxiety in adult clients: A systematic review</em>. Frontiers in Psychiatry.</figcaption>
+      </figure>
+
+      <figure class="figure-card">
+        <h3>Banter w sesjach psychoterapii depresji</h3>
+        <p>Banter odnotowano w większości analizowanych sesji; nie oznacza to jednak automatycznie efektu leczniczego.</p>
+        <svg viewBox="0 0 720 420" role="img" aria-label="Wykres pierścieniowy: 62 z 68 sesji zawierało banter">
+          <rect x="0" y="0" width="720" height="420" rx="18" fill="rgba(0,0,0,.12)"/>
+          <text x="70" y="48" class="svg-text svg-title">Sesje z banterem</text>
+          <text x="70" y="70" class="svg-muted svg-small">62 z 68 sesji, czyli około 91%</text>
+          <circle cx="245" cy="225" r="112" fill="none" stroke="rgba(255,255,255,.16)" stroke-width="42"/>
+          <circle cx="245" cy="225" r="112" fill="none" stroke="#80d0ff" stroke-width="42" stroke-dasharray="643 704" stroke-linecap="round" transform="rotate(-90 245 225)"/>
+          <text x="245" y="215" text-anchor="middle" class="svg-text svg-number">91%</text>
+          <text x="245" y="241" text-anchor="middle" class="svg-muted svg-small">62 / 68</text>
+          <rect x="420" y="140" width="18" height="18" rx="4" fill="#80d0ff"/><text x="452" y="154" class="svg-text svg-label">Sesje z banterem: 62</text>
+          <rect x="420" y="178" width="18" height="18" rx="4" fill="rgba(255,255,255,.20)"/><text x="452" y="192" class="svg-muted svg-label">Sesje bez banteru: 6</text>
+          <text x="420" y="250" class="svg-muted svg-small">Facylitacyjny banter był powiązany</text>
+          <text x="420" y="270" class="svg-muted svg-small">z komponentem więzi przymierza</text>
+          <text x="420" y="290" class="svg-muted svg-small">terapeutycznego.</text>
+        </svg>
+        <figcaption class="source"><strong>Źródło:</strong> Brooks, A. B. J., Baumann, A. W., Huber, D., Rabung, S., & Andreas, S. (2023). <em>Banter in psychotherapy: Relationship to treatment type, therapeutic alliance, and therapy outcome</em>. Journal of Clinical Psychology.</figcaption>
+      </figure>
+    </div>
+
+    <div class="grid grid-2" style="margin-top:18px;">
+      <figure class="figure-card">
+        <h3>Śmiech klienta w psychoterapii psychodynamicznej</h3>
+        <p>Śmiech jest częsty, ale jego znaczenie zależy od funkcji: może być radosny, refleksyjny, grzecznościowy, nerwowy albo pogardliwy.</p>
+        <svg viewBox="0 0 720 420" role="img" aria-label="Infografika: 814 epizodów śmiechu, 330 sesji, 33 klientów, 16 terapeutów">
+          <rect x="0" y="0" width="720" height="420" rx="18" fill="rgba(0,0,0,.12)"/>
+          <text x="70" y="48" class="svg-text svg-title">Skala naturalistycznego kodowania śmiechu</text>
+          <g transform="translate(60,105)">
+            <rect x="0" y="0" width="270" height="105" rx="18" fill="rgba(128,208,255,.16)" stroke="rgba(128,208,255,.35)"/>
+            <text x="28" y="45" class="svg-text svg-number">814</text>
+            <text x="28" y="74" class="svg-muted svg-label">epizodów śmiechu</text>
+          </g>
+          <g transform="translate(390,105)">
+            <rect x="0" y="0" width="270" height="105" rx="18" fill="rgba(184,247,212,.14)" stroke="rgba(184,247,212,.35)"/>
+            <text x="28" y="45" class="svg-text svg-number">330</text>
+            <text x="28" y="74" class="svg-muted svg-label">sesji psychoterapii</text>
+          </g>
+          <g transform="translate(60,245)">
+            <rect x="0" y="0" width="270" height="85" rx="18" fill="rgba(255,209,102,.13)" stroke="rgba(255,209,102,.35)"/>
+            <text x="28" y="38" class="svg-text svg-number">33</text>
+            <text x="28" y="64" class="svg-muted svg-label">klientów</text>
+          </g>
+          <g transform="translate(390,245)">
+            <rect x="0" y="0" width="270" height="85" rx="18" fill="rgba(255,154,162,.13)" stroke="rgba(255,154,162,.35)"/>
+            <text x="28" y="38" class="svg-text svg-number">16</text>
+            <text x="28" y="64" class="svg-muted svg-label">terapeutów</text>
+          </g>
+          <text x="70" y="375" class="svg-muted svg-small">Wniosek: śmiech jest nośnikiem informacji procesowej, a nie prostym markerem poprawy.</text>
+        </svg>
+        <figcaption class="source"><strong>Źródło:</strong> Gupta, S., Hill, C. E., & Kivlighan, D. M. Jr. (2018). <em>Client laughter in psychodynamic psychotherapy: Not a laughing matter</em>. Journal of Counseling Psychology.</figcaption>
+      </figure>
+
+      <figure class="figure-card">
+        <h3>Typy śmiechu i wynik sesji</h3>
+        <p>W badaniu poradnictwa w metaverse część typów śmiechu klienta wiązała się dodatnio z wynikiem sesji.</p>
+        <svg viewBox="0 0 720 420" role="img" aria-label="Wykres: cheerful i nervous laughter dodatnio związane z outcome sesji; próba 159 sesji i 26 klientów">
+          <rect x="0" y="0" width="720" height="420" rx="18" fill="rgba(0,0,0,.12)"/>
+          <text x="70" y="48" class="svg-text svg-title">Typ śmiechu a wynik sesji</text>
+          <text x="70" y="70" class="svg-muted svg-small">159 sesji, 26 klientów; wynik na poziomie sesji</text>
+          <line x1="105" y1="318" x2="635" y2="318" stroke="rgba(255,255,255,.22)"/>
+          <line x1="105" y1="105" x2="105" y2="318" stroke="rgba(255,255,255,.22)"/>
+          <g>
+            <rect x="135" y="150" width="95" height="168" rx="8" fill="#80d0ff" opacity=".92"/>
+            <text x="182" y="135" text-anchor="middle" class="svg-text svg-label">dodatni</text>
+            <text x="182" y="344" text-anchor="middle" class="svg-muted svg-small">Cheerful</text>
+          </g>
+          <g>
+            <rect x="305" y="178" width="95" height="140" rx="8" fill="#b8f7d4" opacity=".92"/>
+            <text x="352" y="163" text-anchor="middle" class="svg-text svg-label">dodatni</text>
+            <text x="352" y="344" text-anchor="middle" class="svg-muted svg-small">Nervous</text>
+          </g>
+          <g>
+            <rect x="475" y="287" width="95" height="31" rx="8" fill="rgba(255,255,255,.22)"/>
+            <text x="522" y="272" text-anchor="middle" class="svg-muted svg-label">nieistotne</text>
+            <text x="522" y="344" text-anchor="middle" class="svg-muted svg-small">Inne typy</text>
+          </g>
+          <text x="110" y="385" class="svg-muted svg-small">Wysokość słupków jest ilustracyjna: pokazuje kierunek istotnych zależności, nie wielkość efektu.</text>
+        </svg>
+        <figcaption class="source"><strong>Źródło:</strong> Kang, J. et al. (2024). <em>Relationship between client laughter and session outcomes in metaverse counseling</em>. BMC Psychology.</figcaption>
+      </figure>
+    </div>
+
+    <div class="grid grid-2" style="margin-top:18px;">
+      <figure class="figure-card">
+        <h3>Mapa funkcji humoru w terapii</h3>
+        <p>Ten schemat pokazuje, dlaczego ten sam żart może być klinicznie pomocny albo ryzykowny.</p>
+        <svg viewBox="0 0 720 470" role="img" aria-label="Schemat funkcji humoru w terapii: regulacja, przymierze, granice, unikanie, agresja">
+          <rect x="0" y="0" width="720" height="470" rx="18" fill="rgba(0,0,0,.12)"/>
+          <text x="70" y="48" class="svg-text svg-title">Funkcje humoru w procesie klinicznym</text>
+          <g transform="translate(260,85)">
+            <rect x="0" y="0" width="200" height="62" rx="16" fill="rgba(128,208,255,.18)" stroke="rgba(128,208,255,.42)"/>
+            <text x="100" y="28" text-anchor="middle" class="svg-text svg-label">Humor w sesji</text>
+            <text x="100" y="48" text-anchor="middle" class="svg-muted svg-small">pacjenta lub terapeuty</text>
+          </g>
+          <line x1="360" y1="147" x2="190" y2="210" stroke="rgba(128,208,255,.55)" stroke-width="2"/>
+          <line x1="360" y1="147" x2="360" y2="210" stroke="rgba(128,208,255,.55)" stroke-width="2"/>
+          <line x1="360" y1="147" x2="530" y2="210" stroke="rgba(128,208,255,.55)" stroke-width="2"/>
+          <g transform="translate(70,210)">
+            <rect x="0" y="0" width="240" height="80" rx="16" fill="rgba(184,247,212,.13)" stroke="rgba(184,247,212,.34)"/>
+            <text x="18" y="30" class="svg-text svg-label">Regulacja emocji</text>
+            <text x="18" y="53" class="svg-muted svg-small">ulga, reappraisal, tolerancja afektu</text>
+          </g>
+          <g transform="translate(240,315)">
+            <rect x="0" y="0" width="240" height="80" rx="16" fill="rgba(128,208,255,.13)" stroke="rgba(128,208,255,.34)"/>
+            <text x="18" y="30" class="svg-text svg-label">Przymierze terapeutyczne</text>
+            <text x="18" y="53" class="svg-muted svg-small">więź, synchronia, wspólne znaczenie</text>
+          </g>
+          <g transform="translate(410,210)">
+            <rect x="0" y="0" width="240" height="80" rx="16" fill="rgba(255,209,102,.13)" stroke="rgba(255,209,102,.34)"/>
+            <text x="18" y="30" class="svg-text svg-label">Granice i dystans</text>
+            <text x="18" y="53" class="svg-muted svg-small">kontakt bez zalania emocją</text>
+          </g>
+          <line x1="190" y1="290" x2="250" y2="332" stroke="rgba(255,255,255,.25)"/>
+          <line x1="530" y1="290" x2="470" y2="332" stroke="rgba(255,255,255,.25)"/>
+          <line x1="360" y1="147" x2="360" y2="400" stroke="rgba(255,154,162,.38)" stroke-dasharray="6 8"/>
+          <text x="70" y="432" class="svg-muted svg-small">Czerwona linia przerywana: potencjalna trajektoria nieadaptacyjna — unikanie afektu, sarkazm, dewaluacja lub samoupokorzenie.</text>
+        </svg>
+        <figcaption class="source"><strong>Źródło:</strong> synteza na podstawie Vaillant (2000), Marci et al. (2004), Brooks et al. (2023), Hoff & Strømme (2025), Sarink & García-Montes (2023).</figcaption>
+      </figure>
+
+      <figure class="figure-card">
+        <h3>Style humoru jako sygnał społeczny</h3>
+        <p>Badania nad stylami humoru pokazują różnicę między stylem łagodnym i raniącym.</p>
+        <svg viewBox="0 0 720 470" role="img" aria-label="Macierz 2x2 stylów humoru: afiliacyjny, self-enhancing, agresywny, self-defeating">
+          <rect x="0" y="0" width="720" height="470" rx="18" fill="rgba(0,0,0,.12)"/>
+          <text x="70" y="48" class="svg-text svg-title">Macierz HSQ: adaptacyjność × kierunek użycia</text>
+          <line x1="360" y1="95" x2="360" y2="385" stroke="rgba(255,255,255,.24)"/>
+          <line x1="90" y1="240" x2="630" y2="240" stroke="rgba(255,255,255,.24)"/>
+          <text x="180" y="82" text-anchor="middle" class="svg-muted svg-small">Interpersonalny</text>
+          <text x="540" y="82" text-anchor="middle" class="svg-muted svg-small">Intrapsychiczny</text>
+          <text x="60" y="158" text-anchor="middle" class="svg-muted svg-small" transform="rotate(-90 60 158)">Adaptacyjny</text>
+          <text x="60" y="325" text-anchor="middle" class="svg-muted svg-small" transform="rotate(-90 60 325)">Ryzykowny</text>
+          <g transform="translate(100,105)">
+            <rect x="0" y="0" width="240" height="115" rx="16" fill="rgba(184,247,212,.15)" stroke="rgba(184,247,212,.35)"/>
+            <text x="18" y="36" class="svg-text svg-label">Afiliacyjny</text>
+            <text x="18" y="62" class="svg-muted svg-small">budowanie więzi</text>
+            <text x="18" y="83" class="svg-muted svg-small">wspólne obniżenie napięcia</text>
+          </g>
+          <g transform="translate(380,105)">
+            <rect x="0" y="0" width="240" height="115" rx="16" fill="rgba(128,208,255,.15)" stroke="rgba(128,208,255,.35)"/>
+            <text x="18" y="36" class="svg-text svg-label">Self-enhancing</text>
+            <text x="18" y="62" class="svg-muted svg-small">najbliższy dojrzałej obronie</text>
+            <text x="18" y="83" class="svg-muted svg-small">realistyczny dystans</text>
+          </g>
+          <g transform="translate(100,260)">
+            <rect x="0" y="0" width="240" height="115" rx="16" fill="rgba(255,154,162,.13)" stroke="rgba(255,154,162,.35)"/>
+            <text x="18" y="36" class="svg-text svg-label">Agresywny</text>
+            <text x="18" y="62" class="svg-muted svg-small">sarkazm, kpina, dominacja</text>
+            <text x="18" y="83" class="svg-muted svg-small">ryzyko dewaluacji</text>
+          </g>
+          <g transform="translate(380,260)">
+            <rect x="0" y="0" width="240" height="115" rx="16" fill="rgba(255,209,102,.13)" stroke="rgba(255,209,102,.35)"/>
+            <text x="18" y="36" class="svg-text svg-label">Self-defeating</text>
+            <text x="18" y="62" class="svg-muted svg-small">samodeprecjacja</text>
+            <text x="18" y="83" class="svg-muted svg-small">appeasement i regulacja wstydu</text>
+          </g>
+          <text x="100" y="430" class="svg-muted svg-small">Wniosek: „więcej humoru” nie znaczy „lepiej” — klinicznie istotny jest styl i funkcja.</text>
+        </svg>
+        <figcaption class="source"><strong>Źródło:</strong> Martin et al. (2003); Hornowska & Charytonik (2011); Zeigler-Hill et al. (2013); Schneider, Voracek & Tran (2018).</figcaption>
+      </figure>
+    </div>
+  </section>
+
+  <section id="badania">
+    <div class="section-head">
+      <h2>5. Co pokazują badania?</h2>
+      <p>Dane empiryczne sugerują potencjał kliniczny humoru, ale baza dowodowa jest heterogeniczna. Najlepiej udokumentowane są krótkoterminowe funkcje procesowe: regulacja napięcia, przymierze i wspólna synchronia.</p>
+    </div>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr><th>Obszar</th><th>Wynik</th><th>Interpretacja</th></tr>
+        </thead>
+        <tbody>
+          <tr><td><strong>Interwencje humorystyczne</strong></td><td>Przegląd objął 10 badań, w tym 4 RCT, 3 badania quasi-eksperymentalne, 1 korelacyjne i 2 przeglądy systematyczne.</td><td>Humor może obniżać depresję i lęk, ale baza dowodowa pozostaje mała i metodologicznie nierówna.</td></tr>
+          <tr><td><strong>Śmiech w sesji</strong></td><td>W jednym badaniu zakodowano 814 epizodów śmiechu klienta w 330 sesjach.</td><td>Nie każdy śmiech jest oznaką poprawy. Może być radosny, grzecznościowy, nerwowy, refleksyjny lub pogardliwy.</td></tr>
+          <tr><td><strong>Banter / przekomarzanie</strong></td><td>Banter stwierdzono w 62 z 68 sesji pacjentów z depresją.</td><td>Łagodny humor interpersonalny może wzmacniać bond, szczególnie gdy nie odcina od treści emocjonalnej.</td></tr>
+          <tr><td><strong>Humor a relacje codzienne</strong></td><td>Pozytywny humor wiąże się z większą satysfakcją relacyjną, natomiast humor raniący jest oceniany bardziej negatywnie.</td><td>Humor jest markerem stylu relacyjnego, a nie tylko cechą „poczucia humoru”.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section id="praktyka">
+    <div class="section-head">
+      <h2>6. Wskazówki kliniczne</h2>
+      <p>Decyzja nie powinna dotyczyć tego, czy humor jest „dobry”, ale jaką funkcję pełni w danym momencie procesu terapeutycznego.</p>
+    </div>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr><th>Sytuacja</th><th>Reakcja</th><th>Uzasadnienie</th></tr>
+        </thead>
+        <tbody>
+          <tr><td><strong>Pacjent żartuje, ale pozostaje w kontakcie z emocją</strong></td><td>Wzmacniać refleksyjnie.</td><td>Może to być dojrzały dystans i forma adaptacyjnego reappraisalu.</td></tr>
+          <tr><td><strong>Żart pojawia się natychmiast po ujawnieniu wstydu lub traumy</strong></td><td>Zatrzymać i zbadać funkcję humoru.</td><td>Może wskazywać na odcięcie afektu i obronne unikanie.</td></tr>
+          <tr><td><strong>Humor ma postać sarkazmu lub kpiny</strong></td><td>Nazwać efekt relacyjny.</td><td>Istnieje ryzyko dewaluacji, ukrytej wrogości i pęknięcia przymierza.</td></tr>
+          <tr><td><strong>Terapeuta chce użyć żartu, aby „rozładować atmosferę”</strong></td><td>Sprawdzić przeciwprzeniesienie.</td><td>Humor może służyć bardziej terapeucie niż pacjentowi.</td></tr>
+          <tr><td><strong>Występują różnice kulturowe, statusowe lub płciowe</strong></td><td>Zwolnić tempo i monitorować odbiór.</td><td>Znaczenie humoru jest silnie zależne od norm społecznych i relacyjnych.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section id="historia">
+    <div class="section-head">
+      <h2>7. Rozwój pola badań</h2>
+      <p>Badania nad humorem przeszły od klasycznej psychoanalizy do psychometrii, badań procesowych, neurobiologii i analiz naturalistycznych sesji.</p>
+    </div>
+    <div class="timeline">
+      <div class="time-item"><div class="dot">1928</div><div class="time-content"><strong>Freud</strong><span>Humor opisany jako zdrowy sposób odnoszenia się do przykrości.</span></div></div>
+      <div class="time-item"><div class="dot">1989</div><div class="time-content"><strong>DSQ</strong><span>Humor umieszczony wśród dojrzałych stylów obronnych.</span></div></div>
+      <div class="time-item"><div class="dot">2003</div><div class="time-content"><strong>HSQ</strong><span>Martin i współpracownicy publikują model czterech stylów humoru.</span></div></div>
+      <div class="time-item"><div class="dot">2004</div><div class="time-content"><strong>Śmiech w terapii</strong><span>Marci i współpracownicy badają fizjologiczną rolę wspólnego śmiechu w psychoterapii.</span></div></div>
+      <div class="time-item"><div class="dot">2023</div><div class="time-content"><strong>Przeglądy kliniczne</strong><span>Systematyczne syntezy pokazują obiecujące, ale ograniczone dowody dotyczące humoru w psychoterapii.</span></div></div>
+      <div class="time-item"><div class="dot">2025</div><div class="time-content"><strong>Mikroanaliza procesu</strong><span>Badania jakościowe i niewerbalne opisują śmiech jako sygnał przymierza, regulacji emocji i dystansu.</span></div></div>
+    </div>
+  </section>
+
+  <section id="bibliografia">
+    <div class="section-head">
+      <h2>8. Wybrana bibliografia</h2>
+      <p>Źródła dobrano pod kątem teorii mechanizmów obronnych, stylów humoru, badań procesowych nad psychoterapią i wyników klinicznych.</p>
+    </div>
+    <div class="references">
+      <p>Andrews, G., Singh, M., & Bond, M. (1989). The determination of defense style by questionnaire. <em>Archives of General Psychiatry</em>.</p>
+      <p>Brooks, A. B. J. et al. (2023). Banter in psychotherapy: Relationship to treatment type, therapeutic alliance, and therapy outcome. <em>Journal of Clinical Psychology</em>.</p>
+      <p>Dionigi, A., & Canestrari, C. (2018). The use of humor by therapists and clients in cognitive therapy. <em>The European Journal of Humour Research</em>.</p>
+      <p>Gupta, S., Hill, C. E., & Kivlighan, D. M. (2018). Client laughter in psychodynamic psychotherapy. <em>Journal of Counseling Psychology</em>.</p>
+      <p>Hall, J. A. (2017). Humor in romantic relationships: A meta-analysis. <em>Personal Relationships</em>.</p>
+      <p>Hornowska, E., & Charytonik, J. (2011). Polska adaptacja Kwestionariusza Stylów Humoru. <em>Studia Psychologiczne</em>.</p>
+      <p>Kang, J. et al. (2024). Relationship between client laughter and session outcomes in metaverse counseling. <em>BMC Psychology</em>.</p>
+      <p>Marci, C. D., Moran, E. K., & Orr, S. P. (2004). Physiologic evidence for the interpersonal role of laughter during psychotherapy. <em>The Journal of Nervous and Mental Disease</em>.</p>
+      <p>Martin, R. A. et al. (2003). Individual differences in uses of humor and their relation to psychological well-being. <em>Journal of Research in Personality</em>.</p>
+      <p>Sarink, F. S. M., & García-Montes, J. M. (2023). Humor interventions in psychotherapy and their effect on depression and anxiety. <em>Frontiers in Psychiatry</em>.</p>
+      <p>Schneider, M., Voracek, M., & Tran, U. S. (2018). A joke a day keeps the doctor away? <em>Scandinavian Journal of Psychology</em>.</p>
+      <p>Vaillant, G. E. (2000). Adaptive mental mechanisms: Their role in a positive psychology. <em>American Psychologist</em>.</p>
+      <p>Zeigler-Hill, V. et al. (2013). Does humor style serve as an interpersonal signal? <em>Evolutionary Psychology</em>.</p>
+    </div>
+  </section>
+
+  <footer>
+    <p>Strona opracowana na podstawie raportu naukowego o humorze jako mechanizmie obronnym. Materiał ma charakter edukacyjny i nie zastępuje superwizji klinicznej ani diagnozy psychologicznej.</p>
+  </footer>
+</body>
+</html>

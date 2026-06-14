@@ -81,6 +81,27 @@
       margin-top: 20px;
     }
 
+    .shortcut-note {
+      display: inline-block;
+      margin-top: 24px;
+      padding: 10px 16px;
+      color: rgba(226, 232, 240, 0.86);
+      font-size: 0.34em;
+      line-height: 1.45;
+      background: rgba(15, 23, 42, 0.58);
+      border: 1px solid rgba(255, 255, 255, 0.12);
+      border-radius: 999px;
+      box-shadow: 0 10px 26px rgba(0, 0, 0, 0.24);
+      backdrop-filter: blur(8px);
+    }
+
+    [data-theme="jasny"] .shortcut-note {
+      color: #1e293b;
+      background: rgba(255, 255, 255, 0.72);
+      border-color: rgba(15, 23, 42, 0.12);
+      box-shadow: 0 10px 24px rgba(15, 23, 42, 0.12);
+    }
+
     .authors {
       margin-top: 35px;
       font-size: 1.05em;
@@ -859,6 +880,9 @@
 <div class="subtitle">
 <br/><br/><br/>Uniwersytet Vizja, Warszawa · 14 czerwca 2026
         </div>
+<div class="shortcut-note" aria-label="Skróty klawiszowe prezentacji">
+Skróty: ←/→ slajdy · N notatki · S widok prelegenta · Ctrl/Cmd+Shift+F szukaj · Alt+klik zoom · Esc przegląd
+</div>
 <!-- <div class="footer">wersja 1.2 „maniakalny kartofel”</div> -->
 <aside class="notes"><p>Wstyd i wina towarzyszą ludzkości od zarania kultur i religii. Są obecne w Biblii, w konfucjańskich tekstach etycznych, w europejskiej filozofii moralnej i w rytuałach społeczności, o których zachodnie uniwersytety nie wiedziały przez długi czas prawie nic. Mimo tej powszechności — albo właśnie dlatego — okazuje się, że znaczenie tych emocji jest głęboko osadzone w konkretnym języku, w konkretnym systemie norm i w konkretnym rozumieniu tego, czym jest człowiek wobec innych ludzi. Celem tej prezentacji jest przegląd trzech dekad badań porównawczych, który pokaże, w czym różne kultury są do siebie zaskakująco podobne, a w czym różnią się w sposób, którego intuicja nie podpowiada.</p></aside></section>
 
@@ -1446,6 +1470,12 @@ Reprezentują odmienne konceptualizacje moralności, relacji społecznych i self
 
 <section>
   <img src="images/piesel.jpg" style="margin-top:0;"/>
+  <p class="section-note" style="text-align:center; margin: 28px auto 0; max-width: 1050px;">
+    Warto zajrzeć także do innych materiałów z folderu <code>pages</code>, m.in. do stron
+    <a href="diagnoza_prezentacja.html">o diagnozie psychologicznej</a>,
+    <a href="n_back_eksperyment.html">eksperymentu n-back</a> oraz
+    <a href="przyjazn.html">opracowania o przyjaźni</a>.
+  </p>
 
 </section>
 

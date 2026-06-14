@@ -1,0 +1,680 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Gry psychologiczne — analiza transakcyjna i praktyka relacyjna</title>
+  <style>
+    :root {
+      --ink: #182033;
+      --muted: #65708a;
+      --bg: #f7f3ee;
+      --paper: rgba(255,255,255,.82);
+      --line: rgba(24,32,51,.12);
+      --blue: #4867f0;
+      --cyan: #25b7c8;
+      --green: #37b679;
+      --yellow: #ffca5c;
+      --orange: #ff8a5b;
+      --pink: #ef5da8;
+      --violet: #7c5cff;
+      --red: #ef476f;
+      --shadow: 0 22px 55px rgba(36, 32, 70, .14);
+      --radius: 24px;
+    }
+
+    * { box-sizing: border-box; }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      margin: 0;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      color: var(--ink);
+      background:
+        radial-gradient(circle at top left, rgba(124,92,255,.18), transparent 34rem),
+        radial-gradient(circle at 90% 10%, rgba(37,183,200,.20), transparent 30rem),
+        radial-gradient(circle at 70% 65%, rgba(255,202,92,.22), transparent 35rem),
+        linear-gradient(135deg, #fbf7f0 0%, #eef7fb 52%, #fbf1f7 100%);
+      line-height: 1.62;
+    }
+
+    a { color: var(--blue); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    .page {
+      max-width: 1180px;
+      margin: 0 auto;
+      padding: 28px;
+    }
+
+    .hero {
+      position: relative;
+      overflow: hidden;
+      min-height: 600px;
+      padding: 70px 58px;
+      border-radius: 36px;
+      background:
+        linear-gradient(135deg, rgba(72,103,240,.96), rgba(124,92,255,.92) 42%, rgba(239,93,168,.88)),
+        url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120' viewBox='0 0 120 120'%3E%3Cg fill='none' stroke='rgba(255,255,255,.22)' stroke-width='1'%3E%3Ccircle cx='20' cy='20' r='12'/%3E%3Ccircle cx='90' cy='80' r='18'/%3E%3Cpath d='M20 20 L90 80 M60 8 L110 42 M6 98 L50 64'/%3E%3C/g%3E%3C/svg%3E");
+      box-shadow: var(--shadow);
+      color: white;
+    }
+
+    .hero::after {
+      content: "";
+      position: absolute;
+      width: 560px;
+      height: 560px;
+      right: -160px;
+      bottom: -190px;
+      border-radius: 50%;
+      background: radial-gradient(circle, rgba(255,202,92,.95), rgba(255,138,91,.75), transparent 68%);
+      filter: blur(1px);
+      opacity: .78;
+    }
+
+    .hero-grid {
+      position: relative;
+      z-index: 2;
+      display: grid;
+      grid-template-columns: 1.05fr .95fr;
+      gap: 38px;
+      align-items: center;
+    }
+
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 8px 14px;
+      border: 1px solid rgba(255,255,255,.30);
+      border-radius: 999px;
+      background: rgba(255,255,255,.12);
+      backdrop-filter: blur(10px);
+      font-weight: 700;
+      letter-spacing: .04em;
+      text-transform: uppercase;
+      font-size: 12px;
+    }
+
+    h1 {
+      margin: 26px 0 18px;
+      max-width: 840px;
+      font-size: clamp(42px, 6vw, 76px);
+      line-height: .98;
+      letter-spacing: -.06em;
+    }
+
+    .lead {
+      max-width: 700px;
+      font-size: 20px;
+      color: rgba(255,255,255,.88);
+    }
+
+    .hero-card {
+      border-radius: 30px;
+      padding: 28px;
+      background: rgba(255,255,255,.14);
+      border: 1px solid rgba(255,255,255,.26);
+      backdrop-filter: blur(18px);
+      box-shadow: 0 20px 60px rgba(16,22,49,.22);
+    }
+
+    .hero-card h2 {
+      margin: 0 0 14px;
+      font-size: 22px;
+      color: white;
+    }
+
+    .mini-flow {
+      display: grid;
+      gap: 10px;
+      margin-top: 18px;
+    }
+
+    .mini-step {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 12px 14px;
+      border-radius: 16px;
+      background: rgba(255,255,255,.16);
+    }
+
+    .dot {
+      width: 13px;
+      height: 13px;
+      border-radius: 50%;
+      flex: 0 0 auto;
+      background: var(--yellow);
+      box-shadow: 0 0 0 6px rgba(255,202,92,.16);
+    }
+
+    nav.toc {
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      margin: 26px 0;
+      padding: 14px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      border: 1px solid var(--line);
+      border-radius: 22px;
+      background: rgba(255,255,255,.72);
+      backdrop-filter: blur(20px);
+      box-shadow: 0 10px 30px rgba(24,32,51,.07);
+    }
+
+    nav.toc a {
+      padding: 9px 13px;
+      border-radius: 999px;
+      color: var(--ink);
+      background: rgba(72,103,240,.08);
+      font-size: 14px;
+      font-weight: 700;
+    }
+
+    section {
+      margin: 26px 0;
+      padding: 34px;
+      border-radius: var(--radius);
+      background: var(--paper);
+      border: 1px solid var(--line);
+      box-shadow: 0 16px 42px rgba(35,42,75,.08);
+      backdrop-filter: blur(14px);
+    }
+
+    .section-title {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      margin-bottom: 18px;
+    }
+
+    .badge {
+      display: grid;
+      place-items: center;
+      width: 46px;
+      height: 46px;
+      border-radius: 16px;
+      color: white;
+      font-weight: 900;
+      background: linear-gradient(135deg, var(--blue), var(--pink));
+      box-shadow: 0 12px 24px rgba(72,103,240,.22);
+    }
+
+    h2 {
+      margin: 0;
+      font-size: clamp(26px, 3vw, 42px);
+      letter-spacing: -.04em;
+      line-height: 1.05;
+    }
+
+    h3 {
+      margin: 24px 0 8px;
+      font-size: 22px;
+      letter-spacing: -.02em;
+    }
+
+    p { margin: 0 0 16px; }
+
+    .muted { color: var(--muted); }
+
+    .grid-3 {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 18px;
+      margin-top: 22px;
+    }
+
+    .grid-2 {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 18px;
+      margin-top: 22px;
+    }
+
+    .card {
+      padding: 22px;
+      border-radius: 22px;
+      background: white;
+      border: 1px solid var(--line);
+      box-shadow: 0 14px 30px rgba(35,42,75,.06);
+    }
+
+    .card strong {
+      display: block;
+      font-size: 18px;
+      margin-bottom: 8px;
+    }
+
+    .color-strip {
+      height: 8px;
+      border-radius: 999px;
+      margin-bottom: 16px;
+      background: linear-gradient(90deg, var(--blue), var(--cyan), var(--green), var(--yellow), var(--orange), var(--pink));
+    }
+
+    .definition {
+      padding: 24px;
+      border-radius: 24px;
+      color: #1e2340;
+      background: linear-gradient(135deg, rgba(255,202,92,.38), rgba(37,183,200,.22));
+      border: 1px solid rgba(255,202,92,.46);
+    }
+
+    .flowline {
+      display: grid;
+      grid-template-columns: repeat(6, 1fr);
+      gap: 10px;
+      margin: 28px 0 6px;
+    }
+
+    .flow-box {
+      min-height: 116px;
+      padding: 16px 12px;
+      border-radius: 20px;
+      color: white;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      box-shadow: 0 14px 28px rgba(35,42,75,.12);
+    }
+
+    .flow-box:nth-child(1) { background: linear-gradient(135deg, #4867f0, #25b7c8); }
+    .flow-box:nth-child(2) { background: linear-gradient(135deg, #25b7c8, #37b679); }
+    .flow-box:nth-child(3) { background: linear-gradient(135deg, #37b679, #ffca5c); color: #1d2630; }
+    .flow-box:nth-child(4) { background: linear-gradient(135deg, #ffca5c, #ff8a5b); color: #1d2630; }
+    .flow-box:nth-child(5) { background: linear-gradient(135deg, #ff8a5b, #ef476f); }
+    .flow-box:nth-child(6) { background: linear-gradient(135deg, #ef476f, #7c5cff); }
+
+    .flow-num {
+      width: 30px;
+      height: 30px;
+      border-radius: 50%;
+      display: grid;
+      place-items: center;
+      background: rgba(255,255,255,.28);
+      font-weight: 900;
+    }
+
+    .triangle-wrap {
+      display: grid;
+      grid-template-columns: .9fr 1.1fr;
+      gap: 24px;
+      align-items: center;
+    }
+
+    .triangle {
+      position: relative;
+      height: 360px;
+      border-radius: 28px;
+      background: radial-gradient(circle at 50% 40%, rgba(255,202,92,.25), rgba(124,92,255,.08));
+      border: 1px solid var(--line);
+      overflow: hidden;
+    }
+
+    .triangle svg {
+      width: 100%;
+      height: 100%;
+    }
+
+    .role {
+      position: absolute;
+      width: 132px;
+      padding: 12px;
+      text-align: center;
+      border-radius: 18px;
+      background: white;
+      box-shadow: 0 12px 28px rgba(35,42,75,.14);
+      font-weight: 900;
+    }
+
+    .role small { display:block; color: var(--muted); font-weight: 700; }
+    .victim { left: 50%; top: 24px; transform: translateX(-50%); border-top: 7px solid var(--blue); }
+    .rescuer { left: 28px; bottom: 28px; border-top: 7px solid var(--green); }
+    .persecutor { right: 28px; bottom: 28px; border-top: 7px solid var(--red); }
+
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 16px;
+      margin-top: 20px;
+    }
+
+    .stat {
+      padding: 20px;
+      border-radius: 22px;
+      background: linear-gradient(135deg, rgba(255,255,255,.95), rgba(255,255,255,.68));
+      border: 1px solid var(--line);
+    }
+
+    .stat .value {
+      font-size: 34px;
+      font-weight: 950;
+      letter-spacing: -.05em;
+      color: var(--blue);
+    }
+
+    .bars {
+      margin-top: 22px;
+      display: grid;
+      gap: 14px;
+    }
+
+    .bar-row {
+      display: grid;
+      grid-template-columns: 210px 1fr 52px;
+      gap: 14px;
+      align-items: center;
+    }
+
+    .bar-label { font-weight: 800; }
+    .bar-bg {
+      height: 18px;
+      border-radius: 999px;
+      background: rgba(24,32,51,.08);
+      overflow: hidden;
+    }
+
+    .bar {
+      height: 100%;
+      border-radius: inherit;
+      background: linear-gradient(90deg, var(--cyan), var(--blue), var(--pink));
+    }
+
+    .examples {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 18px;
+      margin-top: 22px;
+    }
+
+    .example {
+      position: relative;
+      overflow: hidden;
+      padding: 24px;
+      border-radius: 24px;
+      color: white;
+      min-height: 300px;
+      box-shadow: 0 18px 36px rgba(35,42,75,.14);
+    }
+
+    .example::after {
+      content: "";
+      position: absolute;
+      width: 180px;
+      height: 180px;
+      right: -60px;
+      bottom: -60px;
+      border-radius: 50%;
+      background: rgba(255,255,255,.18);
+    }
+
+    .example h3, .example p { position: relative; z-index: 2; }
+    .ex1 { background: linear-gradient(135deg, var(--blue), var(--violet)); }
+    .ex2 { background: linear-gradient(135deg, var(--green), var(--cyan)); }
+    .ex3 { background: linear-gradient(135deg, var(--orange), var(--pink)); }
+
+    .table-wrap {
+      overflow-x: auto;
+      margin-top: 22px;
+      border-radius: 22px;
+      border: 1px solid var(--line);
+      background: white;
+    }
+
+    table {
+      width: 100%;
+      min-width: 860px;
+      border-collapse: collapse;
+      font-size: 14px;
+    }
+
+    th, td {
+      padding: 15px 14px;
+      text-align: left;
+      vertical-align: top;
+      border-bottom: 1px solid var(--line);
+    }
+
+    th {
+      background: linear-gradient(135deg, rgba(72,103,240,.12), rgba(239,93,168,.10));
+      font-size: 13px;
+      text-transform: uppercase;
+      letter-spacing: .04em;
+    }
+
+    tr:last-child td { border-bottom: 0; }
+
+    .quote {
+      margin-top: 22px;
+      padding: 24px 26px;
+      border-left: 8px solid var(--pink);
+      border-radius: 18px;
+      background: linear-gradient(135deg, rgba(239,93,168,.10), rgba(72,103,240,.08));
+      font-size: 18px;
+      font-weight: 700;
+    }
+
+    .bibliography {
+      columns: 2;
+      column-gap: 34px;
+      padding-left: 18px;
+    }
+
+    .bibliography li {
+      break-inside: avoid;
+      margin: 0 0 12px;
+    }
+
+    .footer {
+      margin: 34px 0 8px;
+      padding: 28px;
+      border-radius: 24px;
+      color: white;
+      background: linear-gradient(135deg, var(--ink), #2b285d 60%, #5b2d74);
+      box-shadow: var(--shadow);
+    }
+
+    @media (max-width: 980px) {
+      .hero-grid, .triangle-wrap, .grid-2 { grid-template-columns: 1fr; }
+      .grid-3, .examples, .stats { grid-template-columns: repeat(2, 1fr); }
+      .flowline { grid-template-columns: repeat(3, 1fr); }
+      .hero { padding: 48px 30px; }
+      .bibliography { columns: 1; }
+    }
+
+    @media (max-width: 680px) {
+      .page { padding: 14px; }
+      section { padding: 24px 18px; }
+      .hero { min-height: auto; padding: 36px 22px; border-radius: 26px; }
+      .grid-3, .examples, .stats, .flowline { grid-template-columns: 1fr; }
+      .bar-row { grid-template-columns: 1fr; gap: 6px; }
+      nav.toc { position: static; }
+      .triangle { height: 310px; }
+      .role { width: 118px; font-size: 14px; }
+    }
+  </style>
+</head>
+<body>
+  <main class="page">
+    <header class="hero">
+      <div class="hero-grid">
+        <div>
+          <span class="eyebrow">Analiza transakcyjna · psychologia relacji</span>
+          <h1>Gry psychologiczne</h1>
+          <p class="lead">Kolorowa, syntetyczna strona prezentująca zjawisko gier psychologicznych: ukryte transakcje, role konfliktowe, wypłatę psychologiczną, wyniki badań i przykłady z życia codziennego, szkoły oraz organizacji.</p>
+        </div>
+        <aside class="hero-card" aria-label="Krótki schemat zjawiska">
+          <h2>Rdzeń zjawiska</h2>
+          <p>Gra psychologiczna to powtarzalny wzorzec interakcji, w którym jawny komunikat różni się od ukrytej motywacji, a sekwencja kończy się przewidywalną korzyścią emocjonalną lub skryptową.</p>
+          <div class="mini-flow">
+            <div class="mini-step"><span class="dot"></span><span>komunikat jawny: „chcę pomocy”</span></div>
+            <div class="mini-step"><span class="dot"></span><span>komunikat ukryty: „potwierdź moje przekonanie”</span></div>
+            <div class="mini-step"><span class="dot"></span><span>wypłata: poczucie racji, winy, krzywdy albo kontroli</span></div>
+          </div>
+        </aside>
+      </div>
+    </header>
+
+    <nav class="toc" aria-label="Spis treści">
+      <a href="#definicja">Definicja</a>
+      <a href="#mechanizm">Mechanizm gry</a>
+      <a href="#trojkat">Trójkąt dramatyczny</a>
+      <a href="#badania">Badania i statystyki</a>
+      <a href="#przyklady">Przykłady</a>
+      <a href="#praktyka">Zastosowania</a>
+      <a href="#bibliografia">Bibliografia</a>
+    </nav>
+
+    <section id="definicja">
+      <div class="section-title"><span class="badge">1</span><h2>Definicja i kontekst teoretyczny</h2></div>
+      <div class="definition">
+        <p><strong>Gry psychologiczne</strong> w klasycznej analizie transakcyjnej Erica Berne’a są sekwencjami komplementarnych, lecz ukrytych transakcji, które prowadzą do przewidywalnego wyniku. Nie są grami w sensie rozrywkowym. Są raczej powtarzalnymi scenariuszami komunikacji, w których uczestnicy odtwarzają znane role i potwierdzają utrwalone przekonania o sobie, innych oraz świecie.</p>
+      </div>
+      <div class="grid-3">
+        <article class="card"><div class="color-strip"></div><strong>Poziom jawny</strong><p>Rozmowa wygląda racjonalnie: ktoś prosi o radę, wsparcie, wyjaśnienie albo ocenę sytuacji.</p></article>
+        <article class="card"><div class="color-strip"></div><strong>Poziom ukryty</strong><p>Pod spodem działa niejawna potrzeba: potwierdzenie krzywdy, kontroli, bezradności, winy lub wyższości.</p></article>
+        <article class="card"><div class="color-strip"></div><strong>Wypłata</strong><p>Końcowy efekt jest emocjonalnie przewidywalny: „wiedziałem, że nikt mi nie pomoże”, „znowu muszę wszystkich ratować”.</p></article>
+      </div>
+    </section>
+
+    <section id="mechanizm">
+      <div class="section-title"><span class="badge">2</span><h2>Mechanizm gry psychologicznej</h2></div>
+      <p>W ujęciu transakcyjnym gra jest procesem. Nie wystarcza pojedyncza nieprzyjemna wypowiedź. Potrzebna jest sekwencja, w której pojawia się zaproszenie, podatność drugiej strony, reakcja, przełączenie znaczenia i końcowa wypłata psychologiczna.</p>
+      <div class="flowline" aria-label="Sekwencja gry psychologicznej">
+        <div class="flow-box"><span class="flow-num">1</span><strong>Fortel</strong><span>zaproszenie do gry</span></div>
+        <div class="flow-box"><span class="flow-num">2</span><strong>Haczyk</strong><span>słaby punkt partnera</span></div>
+        <div class="flow-box"><span class="flow-num">3</span><strong>Reakcja</strong><span>wejście w rolę</span></div>
+        <div class="flow-box"><span class="flow-num">4</span><strong>Przełącznik</strong><span>zmiana sensu sytuacji</span></div>
+        <div class="flow-box"><span class="flow-num">5</span><strong>Konsternacja</strong><span>dezorientacja i napięcie</span></div>
+        <div class="flow-box"><span class="flow-num">6</span><strong>Wypłata</strong><span>emocjonalna korzyść</span></div>
+      </div>
+      <p class="muted">Praktycznie najważniejszy jest moment przełącznika. To wtedy osoba, która pozornie prosiła o pomoc, zaczyna oskarżać; osoba, która ratowała, zaczyna prześladować; a osoba krytykująca może nagle przedstawić się jako ofiara.</p>
+    </section>
+
+    <section id="trojkat">
+      <div class="section-title"><span class="badge">3</span><h2>Trójkąt dramatyczny Karpmana</h2></div>
+      <div class="triangle-wrap">
+        <div class="triangle" aria-label="Trójkąt dramatyczny: Ofiara, Ratownik, Prześladowca">
+          <svg viewBox="0 0 420 360" preserveAspectRatio="none">
+            <defs>
+              <linearGradient id="tri" x1="0" x2="1" y1="0" y2="1">
+                <stop offset="0" stop-color="#4867f0"/>
+                <stop offset=".5" stop-color="#37b679"/>
+                <stop offset="1" stop-color="#ef476f"/>
+              </linearGradient>
+            </defs>
+            <polygon points="210,62 65,292 355,292" fill="none" stroke="url(#tri)" stroke-width="8" stroke-linejoin="round"/>
+            <path d="M210 72 C155 150, 110 220, 75 284" stroke="rgba(24,32,51,.22)" stroke-width="2" stroke-dasharray="6 8" fill="none"/>
+            <path d="M210 72 C265 150, 310 220, 345 284" stroke="rgba(24,32,51,.22)" stroke-width="2" stroke-dasharray="6 8" fill="none"/>
+            <path d="M78 292 C170 250, 250 250, 342 292" stroke="rgba(24,32,51,.22)" stroke-width="2" stroke-dasharray="6 8" fill="none"/>
+          </svg>
+          <div class="role victim">Ofiara<small>„nie mam wpływu”</small></div>
+          <div class="role rescuer">Ratownik<small>„muszę pomóc”</small></div>
+          <div class="role persecutor">Prześladowca<small>„to twoja wina”</small></div>
+        </div>
+        <div>
+          <p><strong>Trójkąt dramatyczny</strong> opisuje trzy role często aktywowane w grach psychologicznych. Osoba może zaczynać jako Ratownik, po odmowie pomocy stać się Prześladowcą, a po reakcji drugiej strony wejść w rolę Ofiary. Kluczowe jest nie to, kto „jest” daną rolą, lecz jak role przełączają się w sekwencji relacyjnej.</p>
+          <div class="grid-2">
+            <article class="card"><strong>Ryzyko diagnostyczne</strong><p>Role nie powinny służyć etykietowaniu osoby. Są opisem dynamiki transakcyjnej.</p></article>
+            <article class="card"><strong>Cel interwencji</strong><p>Wyjście z gry wymaga przejścia do jawnej komunikacji, kontraktu i odpowiedzialności Dorosłego.</p></article>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="badania">
+      <div class="section-title"><span class="badge">4</span><h2>Badania, statystyki i siła dowodów</h2></div>
+      <p>Literatura empiryczna jest silniejsza dla skuteczności interwencji opartych na analizie transakcyjnej niż dla bezpośredniego pomiaru samych gier psychologicznych. Najlepiej udokumentowane są efekty terapii i treningów AT, psychometria stanów ego, pozycji życiowych oraz ról z Trójkąta Dramatycznego.</p>
+      <div class="stats">
+        <div class="stat"><div class="value">53</div><strong>badania</strong><p>uwzględnione w przeglądzie i metaanalizie skuteczności AT</p></div>
+        <div class="stat"><div class="value">70</div><strong>grup</strong><p>terapeutycznych lub interwencyjnych analizowanych łącznie</p></div>
+        <div class="stat"><div class="value">56</div><strong>narzędzi</strong><p>psychometrycznych AT opisanych w przeglądzie pomiaru</p></div>
+        <div class="stat"><div class="value">263</div><strong>badania</strong><p>objęte przeglądem psychometrii analizy transakcyjnej</p></div>
+      </div>
+      <h3>Efekty interwencji AT względem warunków kontrolnych</h3>
+      <div class="bars" aria-label="Wykres efektów Hedges g">
+        <div class="bar-row"><span class="bar-label">Psychopatologia</span><div class="bar-bg"><div class="bar" style="width:61%"></div></div><strong>g=.61</strong></div>
+        <div class="bar-row"><span class="bar-label">Funkcjonowanie społeczne</span><div class="bar-bg"><div class="bar" style="width:69%"></div></div><strong>g=.69</strong></div>
+        <div class="bar-row"><span class="bar-label">Samoskuteczność</span><div class="bar-bg"><div class="bar" style="width:88%"></div></div><strong>g=.88</strong></div>
+        <div class="bar-row"><span class="bar-label">Stany ego</span><div class="bar-bg"><div class="bar" style="width:70%"></div></div><strong>g=.70</strong></div>
+        <div class="bar-row"><span class="bar-label">Dobrostan</span><div class="bar-bg"><div class="bar" style="width:85%"></div></div><strong>g=.85</strong></div>
+        <div class="bar-row"><span class="bar-label">Zachowanie</span><div class="bar-bg"><div class="bar" style="width:46%"></div></div><strong>g=.46</strong></div>
+      </div>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>Obszar</th><th>Wynik</th><th>Interpretacja</th><th>Ograniczenie</th></tr></thead>
+          <tbody>
+            <tr><td>Metaanaliza skuteczności AT</td><td>g od .46 do .88</td><td>Efekty od umiarkowanych do dużych w kilku domenach funkcjonowania.</td><td>Wysoka heterogeniczność badań; nie wszystkie dotyczyły gier sensu stricto.</td></tr>
+            <tr><td>Psychometria AT</td><td>56 narzędzi, 263 badania</td><td>Najlepiej mierzone są stany ego, pozycje życiowe i konstrukty pośrednie.</td><td>Brak silnej, powszechnie przyjętej skali samych gier psychologicznych.</td></tr>
+            <tr><td>Trójkąt dramatyczny</td><td>Walidowane narzędzia dla ról: Ofiara, Ratownik, Prześladowca</td><td>Model ról konfliktowych jest bardziej podatny na pomiar niż klasyczne listy gier Berne’a.</td><td>Nie obejmuje całej teorii gier psychologicznych.</td></tr>
+            <tr><td>Zjawiska pokrewne w pracy</td><td>ok. 23% deklarowało przemoc lub nękanie w pracy w badaniu globalnym ILO/Gallup/LRF</td><td>Skala destrukcyjnych wzorców relacyjnych jest znaczna.</td><td>Nie wolno utożsamiać tych danych bezpośrednio z grami AT.</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section id="przyklady">
+      <div class="section-title"><span class="badge">5</span><h2>Praktyczne przykłady gier psychologicznych</h2></div>
+      <div class="examples">
+        <article class="example ex1">
+          <h3>„Tak, ale...”</h3>
+          <p><strong>Sytuacja:</strong> jedna osoba prosi o radę, lecz odrzuca każdą propozycję.</p>
+          <p><strong>Wypłata:</strong> potwierdzenie przekonania, że „nic się nie da zrobić”, a inni nie rozumieją problemu.</p>
+        </article>
+        <article class="example ex2">
+          <h3>„Gdyby nie ty...”</h3>
+          <p><strong>Sytuacja:</strong> osoba przypisuje partnerowi odpowiedzialność za własne niewykorzystane możliwości.</p>
+          <p><strong>Wypłata:</strong> unikanie konfrontacji z własnym lękiem, decyzją lub odpowiedzialnością.</p>
+        </article>
+        <article class="example ex3">
+          <h3>„Chciałem tylko pomóc”</h3>
+          <p><strong>Sytuacja:</strong> ratowanie przekracza granice drugiej osoby, a po odmowie pojawia się uraza.</p>
+          <p><strong>Wypłata:</strong> przejście z roli Ratownika do Ofiary lub Prześladowcy.</p>
+        </article>
+      </div>
+      <div class="quote">Najbardziej praktyczne pytanie nie brzmi: „kto jest winny?”, lecz: „jaki wzorzec właśnie się powtarza i jaką wypłatę otrzymuje każda ze stron?”.</div>
+    </section>
+
+    <section id="praktyka">
+      <div class="section-title"><span class="badge">6</span><h2>Zastosowania praktyczne</h2></div>
+      <div class="grid-3">
+        <article class="card"><div class="color-strip"></div><strong>Psychoterapia</strong><p>Analiza gry pomaga uchwycić utrwalony wzorzec relacyjny, ale sama interpretacja zwykle nie wystarcza. Potrzebny jest kontrakt, praca nad emocjami, wzmacnianie Dorosłego i bezpieczna relacja terapeutyczna.</p></article>
+        <article class="card"><div class="color-strip"></div><strong>Edukacja</strong><p>W szkole gry mogą dotyczyć oceniania, posłuszeństwa, buntu, przeciążania nauczycieli lub uczniów. Jawność zasad i odpowiedzialności ogranicza przestrzeń dla transakcji ukrytych.</p></article>
+        <article class="card"><div class="color-strip"></div><strong>Organizacje</strong><p>W pracy gry często przyjmują formę ratowania, przeciążania, pasywnej agresji, przerzucania odpowiedzialności albo ukrytej walki o status. Pomagają procedury feedbacku, jasne role i granice decyzyjności.</p></article>
+      </div>
+      <h3>Procedura wyjścia z gry</h3>
+      <div class="grid-2">
+        <article class="card"><strong>1. Zatrzymaj automatyzm</strong><p>Nazwij sekwencję bez oskarżania: „Zauważam, że wracamy do układu, w którym ja proponuję, a ty odrzucasz każde rozwiązanie”.</p></article>
+        <article class="card"><strong>2. Przejdź do kontraktu</strong><p>Ustal jawnie cel rozmowy: „Czy chcesz teraz rady, wysłuchania, decyzji, czy tylko uporządkowania problemu?”.</p></article>
+        <article class="card"><strong>3. Oddziel odpowiedzialności</strong><p>Określ, kto za co odpowiada. To ogranicza role Ratownika i Ofiary.</p></article>
+        <article class="card"><strong>4. Zadbaj o dane, nie domysły</strong><p>W konflikcie organizacyjnym lub szkolnym zapisuj fakty, decyzje, oczekiwania i konsekwencje.</p></article>
+      </div>
+    </section>
+
+    <section id="bibliografia">
+      <div class="section-title"><span class="badge">7</span><h2>Wybrana bibliografia</h2></div>
+      <ol class="bibliography">
+        <li>Berne, E. (1961). <em>Transactional Analysis in Psychotherapy</em>. Grove Press.</li>
+        <li>Berne, E. (1964). <em>Games People Play: The Psychology of Human Relationships</em>. Grove Press.</li>
+        <li>Karpman, S. B. (1968). Fairy tales and script drama analysis. <em>Transactional Analysis Bulletin</em>.</li>
+        <li>Vos, J., & van Rijn, B. (2022). The effectiveness of transactional analysis treatments and their predictors: A systematic literature review and explorative meta-analysis.</li>
+        <li>Vos, J., & van Rijn, B. (2021). A systematic review of psychometric transactional analysis instruments.</li>
+        <li>Benelli, E., & Zanchetta, M. (2019). Single-case design review and meta-analysis for transactional analysis in depression.</li>
+        <li>van Rijn, B., & Wild, C. (2013). Humanistic and integrative therapies for anxiety and depression: practice-based evaluation.</li>
+        <li>Torkaman, M. et al. (2020). Transactional analysis group training and self-esteem among imprisoned women. <em>BMC Psychology</em>.</li>
+        <li>Jagieła, J. (2004). <em>Gry psychologiczne w szkole</em>. Oficyna Wydawnicza Nauczycieli.</li>
+        <li>Pankowska, D. (2012). Analiza transakcyjna w edukacji czy edukacyjna analiza transakcyjna? <em>Edukacyjna Analiza Transakcyjna</em>.</li>
+      </ol>
+    </section>
+
+    <footer class="footer">
+      <strong>Wniosek syntetyczny.</strong> Gry psychologiczne są użytecznym modelem analizy powtarzalnych, ukrytych wzorców komunikacji. Największą wartość mają jako narzędzie rozpoznawania sekwencji relacyjnej i projektowania interwencji, natomiast ich bezpośredni pomiar epidemiologiczny pozostaje słabiej rozwinięty niż badania nad ogólną skutecznością analizy transakcyjnej.
+    </footer>
+  </main>
+</body>
+</html>

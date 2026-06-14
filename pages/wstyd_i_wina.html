@@ -65,14 +65,14 @@
     }
 
     .reveal h2 {
-      font-size: 1.82em;
+      font-size: 2.0em;
       color: var(--accent);
       margin-bottom: 26px;
     }
 
     .reveal h3 {
       color: var(--accent-2);
-      font-size: 1.28em;
+      font-size: 1.4em;
     }
 
     .subtitle {
@@ -83,9 +83,9 @@
 
     .authors {
       margin-top: 35px;
-      font-size: 0.65em;
+      font-size: 1.05em;
       color: #dbeafe;
-      line-height: 1.7;
+      line-height: 1.8;
     }
 
     .title-graphic {
@@ -103,11 +103,13 @@
     }
 
     .slide-bottom-image {
-      position: absolute;
+      position: relative;
       left: 50%;
       bottom: 18px;
       transform: translateX(-50%);
-      display: block;
+      display: flex;
+      justify-content: center;
+      align-items: center;
       width: min(42%, 560px);
       max-height: 18vh;
       object-fit: contain;
@@ -232,7 +234,7 @@
     }
 
     .big-quote {
-      font-size: 1.15em;
+      font-size: 1.25em;
       line-height: 1.5;
       color: #e2e8f0;
       margin-top: 40px;
@@ -310,7 +312,7 @@
 
     .figure-caption {
       max-width: 880px;
-      font-size: 0.40em;
+      font-size: 0.8em;
       color: var(--muted);
       line-height: 1.55;
       text-align: left;
@@ -709,7 +711,7 @@
 
     /* ── Większa typografia i dolny panel notatek ───────── */
     .reveal .slides section {
-      line-height: 1.22;
+      line-height: 1.1;
     }
 
     .reveal p,
@@ -724,8 +726,8 @@
     .lead,
     .callout,
     .section-note {
-      font-size: 0.82em;
-      line-height: 1.35;
+      font-size: 0.9em;
+      line-height: 1.1;
     }
 
     .notes-overlay {
@@ -734,7 +736,7 @@
       bottom: 22px;
       transform: translateX(-50%);
       width: min(1380px, calc(100vw - 80px));
-      max-height: 33vh;
+      max-height: 36vh;
       z-index: 10000;
       display: none;
       background: rgba(2, 6, 23, 0.94);
@@ -783,7 +785,7 @@
 
     .pdf-slide .pdf-frame-wrap {
       width: 80vw;
-      max-width: 86vw;
+      max-width: 96vw;
       min-width: 70vw;
       height: 76vh;
       margin-left: 50%;
@@ -1397,6 +1399,7 @@ Reprezentują odmienne konceptualizacje moralności, relacji społecznych i self
   <br/>
   <div class="card" style="text-align:left; font-size:0.58em; line-height:1.42;">
     <ol>
+      <li>Zimnoch, I., Rokita, A., Matuła, M., Kuczek, W., Rydzik, M., & Pomianek, M. (2025). <em> Comparative analysis of selected facial emotion recognition methods as potential tool for emotional disorders automated assessment in terms of remote work application. </em> 3rd International Scientific Research Congress Book. International Scientific Research Academy. https://doi.org/10.1109/ISRAC.2025.00012</li>
       <li>Bierbrauer, G. (1992). <em>Reactions to Violation of Normative Standards: A Cross-Cultural Analysis of Shame and Guilt</em>. <em>International Journal of Psychology</em>. DOI: 10.1080/00207599208246874</li>
       <li>Furukawa, E. et al. (2012). <em>Cross-cultural Continuities and Discontinuities in Shame, Guilt, and Pride</em>. <em>Self and Identity</em>. DOI: 10.1080/15298868.2010.512748</li>
       <li>Young, I. F. et al. (2021). <em>A Multidimensional Approach to the Relationship between Individualism-Collectivism and Guilt and Shame</em>. <em>Emotion</em>. DOI: 10.1037/EMO0000689</li>
@@ -1437,6 +1440,8 @@ Reprezentują odmienne konceptualizacje moralności, relacji społecznych i self
     Jeżeli podgląd tego pliku nie wyświetla się poprawnie, możesz otworzyć go bezpośrednio:
     <a href="files/wstyd_wina.pdf" target="_blank" rel="noopener">files/wstyd_wina.pdf</a>.
   </p>
+  <img src="images/piesel.jpg" style="margin-top:0;"/>
+
   <aside class="notes"><p>Na końcu prezentacji znajduje się pełny plik PDF z materiałem źródłowym. Ten slajd pełni funkcję podglądu dokumentu i może być użyty podczas dyskusji, aby szybko odwołać się do treści artykułu.</p></aside>
 </section>
 
@@ -1470,6 +1475,9 @@ Reprezentują odmienne konceptualizacje moralności, relacji społecznych i self
     history: true,
     search: {
       highlight: true,
+      smart: true,
+      caseSensitive: false,
+      showMatches: true,
     },
     plugins: revealPlugins,
   });
@@ -1654,7 +1662,7 @@ Reprezentują odmienne konceptualizacje moralności, relacji społecznych i self
       jasny:   ['#2563eb', '#7c3aed', '#0f172a'],
     };
 
-    const COUNT = 360;
+    const COUNT = 420;
     let particles = [];
     let W, H;
 

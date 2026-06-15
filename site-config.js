@@ -3440,8 +3440,8 @@ window.SITE_CONFIG = {
             { label: 'Strona P6', href: 'pages/p6.html', status: 'xlink', desc: 'Planowana dodatkowa strona HTML: p6.html.' },
             { label: 'Strona P7', href: 'pages/p7.html', status: 'xlink', desc: 'Planowana dodatkowa strona HTML: p7.html.' },
             { label: 'Strona P8', href: 'pages/p8.html', status: 'xlink', desc: 'Planowana dodatkowa strona HTML: p8.html.' },
-            { label: 'Strona P9 (w przygotowaniu)', href: 'pages/p9.html', status: 'planned', desc: 'Planowana dodatkowa strona HTML: p9.html.' },
-            { label: 'Strona P10 (w przygotowaniu)', href: 'pages/p10.html', status: 'planned', desc: 'Planowana dodatkowa strona HTML: p10.html.' },
+            { label: 'Strona P9', href: 'pages/p9.html', status: 'xlink', desc: 'Planowana dodatkowa strona HTML: p9.html.' },
+            { label: 'Strona P10', href: 'pages/p10.html', status: 'xlink', desc: 'Planowana dodatkowa strona HTML: p10.html.' },
           ]
         }
       ]

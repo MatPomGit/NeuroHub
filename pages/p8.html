@@ -358,6 +358,26 @@
       color: var(--blue);
     }
 
+    .source-mini {
+      display: block;
+      margin-top: 10px;
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.45;
+    }
+
+    .insight {
+      margin-top: 22px;
+      padding: 24px;
+      border-radius: 24px;
+      background: linear-gradient(135deg, rgba(55,182,121,.14), rgba(72,103,240,.10));
+      border: 1px solid rgba(55,182,121,.26);
+    }
+
+    .practice-card.good { border-top: 7px solid var(--green); }
+    .practice-card.bad { border-top: 7px solid var(--red); }
+    .practice-card.neutral { border-top: 7px solid var(--blue); }
+
     .bars {
       margin-top: 22px;
       display: grid;
@@ -506,7 +526,7 @@
         <div>
           <span class="eyebrow">Analiza transakcyjna · psychologia relacji</span>
           <h1>Gry psychologiczne</h1>
-          <p class="lead">Kolorowa, syntetyczna strona prezentująca zjawisko gier psychologicznych: ukryte transakcje, role konfliktowe, wypłatę psychologiczną, wyniki badań i przykłady z życia codziennego, szkoły oraz organizacji.</p>
+          <p class="lead">Ukryte transakcje, role konfliktowe, wypłata psychologiczna, wyniki badań i przykłady z życia codziennego, szkoły oraz organizacji.</p>
         </div>
         <aside class="hero-card" aria-label="Krótki schemat zjawiska">
           <h2>Rdzeń zjawiska</h2>
@@ -527,6 +547,8 @@
       <a href="#badania">Badania i statystyki</a>
       <a href="#przyklady">Przykłady</a>
       <a href="#praktyka">Zastosowania</a>
+      <a href="#perspektywa">Perspektywa</a>
+      <a href="#pdf-view">PDF</a>
       <a href="#bibliografia">Bibliografia</a>
     </nav>
 
@@ -539,6 +561,10 @@
         <article class="card"><div class="color-strip"></div><strong>Poziom jawny</strong><p>Rozmowa wygląda racjonalnie: ktoś prosi o radę, wsparcie, wyjaśnienie albo ocenę sytuacji.</p></article>
         <article class="card"><div class="color-strip"></div><strong>Poziom ukryty</strong><p>Pod spodem działa niejawna potrzeba: potwierdzenie krzywdy, kontroli, bezradności, winy lub wyższości.</p></article>
         <article class="card"><div class="color-strip"></div><strong>Wypłata</strong><p>Końcowy efekt jest emocjonalnie przewidywalny: „wiedziałem, że nikt mi nie pomoże”, „znowu muszę wszystkich ratować”.</p></article>
+      </div>
+      <div class="insight">
+        <p><strong>Ważne rozróżnienie:</strong> gra psychologiczna nie oznacza świadomej manipulacji w każdym przypadku. W wielu sytuacjach jest to raczej wyuczony, częściowo automatyczny sposób regulowania napięcia. Osoba może szczerze cierpieć i jednocześnie nieświadomie organizować rozmowę tak, aby zakończyła się znajomym potwierdzeniem: „jestem bezradny”, „ludzie mnie wykorzystują” albo „muszę mieć rację, bo inaczej stracę kontrolę”.</p>
+        <p class="muted">Dlatego analiza gry jest użyteczna dopiero wtedy, gdy opisuje sekwencję zachowań, a nie moralną wadę charakteru.</p>
       </div>
     </section>
 
@@ -554,6 +580,10 @@
         <div class="flow-box"><span class="flow-num">6</span><strong>Wypłata</strong><span>emocjonalna korzyść</span></div>
       </div>
       <p class="muted">Praktycznie najważniejszy jest moment przełącznika. To wtedy osoba, która pozornie prosiła o pomoc, zaczyna oskarżać; osoba, która ratowała, zaczyna prześladować; a osoba krytykująca może nagle przedstawić się jako ofiara.</p>
+      <div class="grid-2">
+        <article class="card"><strong>Dlaczego gry się utrwalają?</strong><p>Najczęściej dlatego, że są przewidywalne. Nawet bolesny finał bywa psychicznie „bezpieczniejszy” niż nowa rozmowa, w której trzeba jasno poprosić, odmówić, przeprosić albo przyjąć odpowiedzialność.</p></article>
+        <article class="card"><strong>Co odróżnia grę od konfliktu?</strong><p>W zwykłym konflikcie spór może zostać rozwiązany przez doprecyzowanie faktów, potrzeb i decyzji. W grze samo rozwiązanie bywa zagrożeniem, ponieważ odebrałoby uczestnikom znaną wypłatę psychologiczną.</p></article>
+      </div>
     </section>
 
     <section id="trojkat">
@@ -591,10 +621,10 @@
       <div class="section-title"><span class="badge">4</span><h2>Badania, statystyki i siła dowodów</h2></div>
       <p>Literatura empiryczna jest silniejsza dla skuteczności interwencji opartych na analizie transakcyjnej niż dla bezpośredniego pomiaru samych gier psychologicznych. Najlepiej udokumentowane są efekty terapii i treningów AT, psychometria stanów ego, pozycji życiowych oraz ról z Trójkąta Dramatycznego.</p>
       <div class="stats">
-        <div class="stat"><div class="value">53</div><strong>badania</strong><p>uwzględnione w przeglądzie i metaanalizie skuteczności AT</p></div>
-        <div class="stat"><div class="value">70</div><strong>grup</strong><p>terapeutycznych lub interwencyjnych analizowanych łącznie</p></div>
-        <div class="stat"><div class="value">56</div><strong>narzędzi</strong><p>psychometrycznych AT opisanych w przeglądzie pomiaru</p></div>
-        <div class="stat"><div class="value">263</div><strong>badania</strong><p>objęte przeglądem psychometrii analizy transakcyjnej</p></div>
+        <div class="stat"><div class="value">53</div><strong>badania</strong><p>uwzględnione w przeglądzie i metaanalizie skuteczności AT.</p><span class="source-mini">Źródło: Vos & van Rijn, 2022.</span></div>
+        <div class="stat"><div class="value">70</div><strong>grup</strong><p>terapeutycznych lub interwencyjnych analizowanych łącznie.</p><span class="source-mini">Źródło: Vos & van Rijn, 2022.</span></div>
+        <div class="stat"><div class="value">56</div><strong>narzędzi</strong><p>psychometrycznych AT opisanych w przeglądzie pomiaru.</p><span class="source-mini">Źródło: Vos & van Rijn, 2021.</span></div>
+        <div class="stat"><div class="value">263</div><strong>badania</strong><p>objęte przeglądem psychometrii analizy transakcyjnej.</p><span class="source-mini">Źródło: Vos & van Rijn, 2021.</span></div>
       </div>
       <h3>Efekty interwencji AT względem warunków kontrolnych</h3>
       <div class="bars" aria-label="Wykres efektów Hedges g">
@@ -605,6 +635,7 @@
         <div class="bar-row"><span class="bar-label">Dobrostan</span><div class="bar-bg"><div class="bar" style="width:85%"></div></div><strong>g=.85</strong></div>
         <div class="bar-row"><span class="bar-label">Zachowanie</span><div class="bar-bg"><div class="bar" style="width:46%"></div></div><strong>g=.46</strong></div>
       </div>
+      <span class="source-mini">Źródło danych wykresu: Vos & van Rijn (2022). Wartości Hedgesa g przedstawiają wielkość efektu względem warunków kontrolnych; wykres jest wizualizacją orientacyjną, a nie pełną replikacją metaanalizy.</span>
       <div class="table-wrap">
         <table>
           <thead><tr><th>Obszar</th><th>Wynik</th><th>Interpretacja</th><th>Ograniczenie</th></tr></thead>
@@ -613,9 +644,12 @@
             <tr><td>Psychometria AT</td><td>56 narzędzi, 263 badania</td><td>Najlepiej mierzone są stany ego, pozycje życiowe i konstrukty pośrednie.</td><td>Brak silnej, powszechnie przyjętej skali samych gier psychologicznych.</td></tr>
             <tr><td>Trójkąt dramatyczny</td><td>Walidowane narzędzia dla ról: Ofiara, Ratownik, Prześladowca</td><td>Model ról konfliktowych jest bardziej podatny na pomiar niż klasyczne listy gier Berne’a.</td><td>Nie obejmuje całej teorii gier psychologicznych.</td></tr>
             <tr><td>Zjawiska pokrewne w pracy</td><td>ok. 23% deklarowało przemoc lub nękanie w pracy w badaniu globalnym ILO/Gallup/LRF</td><td>Skala destrukcyjnych wzorców relacyjnych jest znaczna.</td><td>Nie wolno utożsamiać tych danych bezpośrednio z grami AT.</td></tr>
+            <tr><td>Środowisko szkolne</td><td>ok. 690 tys. piętnastolatków z 81 krajów i gospodarek uczestniczyło w PISA 2022</td><td>Dane PISA pozwalają analizować klimat szkoły, poczucie przynależności i doświadczenia rówieśnicze jako kontekst relacyjny.</td><td>PISA nie mierzy gier psychologicznych; pokazuje tło społeczne, w którym gry mogą się ujawniać.</td></tr>
+            <tr><td>Przemoc psychologiczna w pracy</td><td>17,9% respondentów globalnie zgłaszało doświadczenie przemocy psychologicznej w pracy</td><td>Ukryte upokarzanie, groźby, izolowanie i dewaluacja są bliskie temu, co w języku AT opisywano jako destrukcyjne transakcje.</td><td>To kategoria prawno-społeczna, nie diagnoza transakcyjna.</td></tr>
           </tbody>
         </table>
       </div>
+      <span class="source-mini">Źródła danych kontekstowych: ILO, Lloyd’s Register Foundation & Gallup (2022); OECD (2023). Zestawienia nie dowodzą częstości gier psychologicznych, lecz pokazują skalę środowisk, w których powtarzalne wzorce konfliktowe mają znaczenie praktyczne.</span>
     </section>
 
     <section id="przyklady">
@@ -638,6 +672,11 @@
         </article>
       </div>
       <div class="quote">Najbardziej praktyczne pytanie nie brzmi: „kto jest winny?”, lecz: „jaki wzorzec właśnie się powtarza i jaką wypłatę otrzymuje każda ze stron?”.</div>
+      <h3>Dobra i zła praktyka w tej samej sytuacji</h3>
+      <div class="grid-2">
+        <article class="card practice-card good"><strong>Dobra praktyka</strong><p>Student mówi prowadzącemu: „Nie rozumiem kryteriów oceny. Czy możemy przejść przez jeden przykład i ustalić, co mam poprawić?”. Komunikat jest jawny, prośba konkretna, a odpowiedzialność podzielona: prowadzący wyjaśnia kryteria, student decyduje, co zrobi z informacją.</p><p><strong>Konsekwencja:</strong> mniejsze ryzyko wejścia w role Ofiary i Prześladowcy, większa szansa na realną korektę działania.</p></article>
+        <article class="card practice-card bad"><strong>Częsty błąd</strong><p>Ten sam student mówi: „Pewnie i tak mnie pan nie przepuści, bo zawsze ma pan swoich ulubieńców”. Prowadzący odpowiada ostrą krytyką, student czuje się skrzywdzony, a rozmowa kończy się potwierdzeniem wcześniejszego przekonania.</p><p><strong>Konsekwencja:</strong> problem merytoryczny znika pod warstwą gry: ktoś „udowadnia” niesprawiedliwość, ktoś inny „udowadnia” brak dojrzałości rozmówcy.</p></article>
+      </div>
     </section>
 
     <section id="praktyka">
@@ -656,8 +695,27 @@
       </div>
     </section>
 
+    <section id="perspektywa">
+      <div class="section-title"><span class="badge">7</span><h2>Perspektywa nieoczywista</h2></div>
+      <p>Popularny sposób mówienia o grach psychologicznych koncentruje się na „toksycznych ludziach”. Perspektywa transakcyjna jest ciekawsza, ponieważ przesuwa uwagę z etykietowania osób na badanie układu. Gra może utrzymywać się nie dlatego, że jedna strona jest „zła”, lecz dlatego, że cały system nagradza niejawność: rodzina unika trudnych tematów, szkoła premiuje pozorną uległość, a organizacja ceni gaszenie pożarów bardziej niż spokojne planowanie.</p>
+      <div class="grid-3">
+        <article class="card practice-card neutral"><strong>System rodzinny</strong><p>Dziecko może wejść w rolę Ofiary, jeśli tylko wtedy otrzymuje uwagę. Rodzic może wejść w rolę Ratownika, jeśli troska zastępuje rozmowę o granicach.</p></article>
+        <article class="card practice-card neutral"><strong>Szkoła</strong><p>Uczeń, który prowokuje konflikt, czasem nie szuka kary, lecz przewidywalności. Kara bywa znanym finałem sekwencji, nawet jeśli jest nieprzyjemna.</p></article>
+        <article class="card practice-card neutral"><strong>Organizacja</strong><p>Pracownik „niezastąpiony” może nieświadomie wzmacniać chaos, bo chaos potwierdza jego znaczenie. Wtedy procedury są odbierane jak zagrożenie statusu.</p></article>
+      </div>
+      <p class="muted">Ta perspektywa nie znosi odpowiedzialności jednostki. Pokazuje jednak, że skuteczna interwencja wymaga zmiany reguł rozmowy, nagród i granic, a nie tylko wskazania „trudnej osoby”.</p>
+    </section>
+
+    <section id="pdf-view">
+      <div class="section-title"><span class="badge">8</span><h2>Dokumentacja PDF</h2></div>
+      <p>Poniżej znajduje się pełna wersja opracowania w formacie PDF, zawierająca szczegółowe opisy mechanizmów i rozszerzoną bibliografię.</p>
+      <div style="width: 100%; height: 800px; border-radius: 18px; overflow: hidden; border: 1px solid var(--line); box-shadow: var(--shadow);">
+        <iframe src="files/Gry psychologiczne.pdf" title="Podgląd pliku PDF: Gry psychologiczne.pdf" width="100%" height="100%" style="border: none;"></iframe>
+      </div>
+    </section>
+
     <section id="bibliografia">
-      <div class="section-title"><span class="badge">7</span><h2>Wybrana bibliografia</h2></div>
+      <div class="section-title"><span class="badge">9</span><h2>Bibliografia</h2></div>
       <ol class="bibliography">
         <li>Berne, E. (1961). <em>Transactional Analysis in Psychotherapy</em>. Grove Press.</li>
         <li>Berne, E. (1964). <em>Games People Play: The Psychology of Human Relationships</em>. Grove Press.</li>
@@ -669,6 +727,8 @@
         <li>Torkaman, M. et al. (2020). Transactional analysis group training and self-esteem among imprisoned women. <em>BMC Psychology</em>.</li>
         <li>Jagieła, J. (2004). <em>Gry psychologiczne w szkole</em>. Oficyna Wydawnicza Nauczycieli.</li>
         <li>Pankowska, D. (2012). Analiza transakcyjna w edukacji czy edukacyjna analiza transakcyjna? <em>Edukacyjna Analiza Transakcyjna</em>.</li>
+        <li>International Labour Organization, Lloyd’s Register Foundation, & Gallup. (2022). <em>Experiences of violence and harassment at work: A global first survey</em>. ILO.</li>
+        <li>OECD. (2023). <em>PISA 2022 Results</em>. OECD Publishing.</li>
       </ol>
     </section>
 

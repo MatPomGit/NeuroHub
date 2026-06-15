@@ -22,7 +22,25 @@
 <body>
 <main>
   <h1>Eksperyment zadania n-back</h1>
-  <p>Uproszczony moduł treningowo-eksperymentalny: prezentowane są litery, a badany odpowiada, czy aktualny bodziec jest taki sam jak <em>n</em> pozycji wcześniej.</p>
+  <p>Zadanie n-back jest klasyczną procedurą psychologii poznawczej służącą do badania pamięci roboczej, czyli zdolności krótkotrwałego utrzymywania informacji i jednoczesnego jej aktualizowania. W tej wersji prezentowane są litery, a osoba badana odpowiada, czy aktualny bodziec jest taki sam jak <em>n</em> pozycji wcześniej.</p>
+
+  <section class="card">
+    <h2>Na czym polega idea n-back?</h2>
+    <p>W najprostszym wariancie 1-back wystarczy porównać obecną literę z poprzednią. W 2-back trzeba stale pamiętać dwa ostatnie bodźce, w 3-back trzy, a w 4-back cztery. Trudność nie polega więc wyłącznie na „zapamiętaniu liter”, lecz na ciągłej wymianie zawartości pamięci roboczej: po każdej próbie najstarszy element przestaje być potrzebny, a nowy wchodzi do aktualnego okna porównania.</p>
+    <p>Przykład: w sekwencji <strong>K, M, B, M</strong> czwarta litera jest trafieniem w zadaniu 2-back, ponieważ powtarza bodziec sprzed dwóch pozycji. W zadaniu 3-back ta sama odpowiedź byłaby błędem, bo należałoby porównać ją z pierwszą literą.</p>
+  </section>
+
+  <section class="card">
+    <h2>Dlaczego to zadanie jest ważne?</h2>
+    <p>N-back jest używany w badaniach nad uwagą, kontrolą poznawczą i pamięcią roboczą, ponieważ wymaga jednocześnie monitorowania bieżącego strumienia bodźców, hamowania pochopnych reakcji oraz aktualizowania informacji. Wyższy poziom <em>n</em> zwykle zwiększa obciążenie poznawcze: osoba badana musi utrzymać dłuższy kontekst i częściej doświadcza interferencji między bodźcami podobnymi lub niedawno widzianymi.</p>
+    <p>Warto jednak zachować ostrożność interpretacyjną. Dobry wynik w n-back nie oznacza automatycznie „lepszej inteligencji” ani pełnej diagnozy pamięci roboczej. To raczej wskaźnik wykonania konkretnego zadania, w którym łączą się pamięć, uwaga, tempo reagowania, strategia i podatność na rozproszenie.</p>
+  </section>
+
+  <section class="card">
+    <h2>Typowe wyniki</h2>
+    <p>W praktyce 1-back bywa wykonywany z wysoką trafnością przez większość zdrowych dorosłych osób, ponieważ obciążenie pamięci jest niewielkie. W 2-back zwykle pojawia się więcej pominięć, w 3-back i 4-back rośnie liczba błędów wynikających z przeciążenia oraz mylenia bodźców niedawnych z właściwym bodźcem odniesienia.</p>
+    <p>W tej demonstracji litery są losowane z puli dziewięciu znaków, dlatego wynik pojedynczej krótkiej sesji należy traktować orientacyjnie. Sama <strong>Accuracy</strong> może być zawyżona, jeśli w sekwencji przypadkowo wystąpi mało dopasowań: wtedy łatwo zdobyć wiele poprawnych odrzuceń. Bardziej informacyjne jest wspólne czytanie trafień, pominięć i fałszywych alarmów.</p>
+  </section>
 
   <section class="card" aria-label="Ustawienia eksperymentu">
     <label for="nLevel">Poziom n-back:</label>
@@ -52,6 +70,23 @@
   <section class="card">
     <h2>Wynik</h2>
     <div class="result" id="result">Brak danych.</div>
+  </section>
+
+  <section class="card">
+    <h2>Jak czytać podsumowanie?</h2>
+    <p><strong>Hit</strong> oznacza poprawnie wykryte dopasowanie. <strong>Miss</strong> to pominięcie rzeczywistego dopasowania. <strong>False Alarm</strong> oznacza reakcję wtedy, gdy dopasowania nie było, a <strong>Correct Rejection</strong> oznacza poprawne powstrzymanie się od reakcji.</p>
+    <p>Dobra praktyka interpretacyjna polega na sprawdzeniu całego profilu odpowiedzi. Przykładowo osoba z wysoką liczbą trafień, ale też wieloma fałszywymi alarmami, może reagować impulsywnie. Osoba z małą liczbą fałszywych alarmów, ale wieloma pominięciami, może stosować strategię zbyt ostrożną albo mieć trudność z utrzymaniem aktualnego okna pamięci.</p>
+    <p>Częsty błąd polega na porównywaniu samego procentu trafności między różnymi poziomami n-back. Wynik 85% w 4-back może oznaczać inne obciążenie poznawcze niż 85% w 1-back, ponieważ liczba możliwych pomyłek, interferencja i wymagania aktualizacyjne są odmienne.</p>
+  </section>
+
+  <section class="card">
+    <h2>Bibliografia</h2>
+    <ul>
+      <li>Kirchner, W. K. (1958). Age differences in short-term retention of rapidly changing information. <em>Journal of Experimental Psychology, 55</em>(4), 352-358. DOI: 10.1037/h0043688.</li>
+      <li>Kane, M. J., Conway, A. R. A., Miura, T. K., & Colflesh, G. J. H. (2007). Working memory, attention control, and the n-back task: A question of construct validity. <em>Journal of Experimental Psychology: Learning, Memory, and Cognition, 33</em>(3), 615-622. DOI: 10.1037/0278-7393.33.3.615.</li>
+      <li>Jaeggi, S. M., Buschkuehl, M., Perrig, W. J., & Meier, B. (2010). The concurrent validity of the n-back task as a working memory measure. <em>Memory, 18</em>(4), 394-412. DOI: 10.1080/09658211003702171.</li>
+      <li>Soveri, A., Antfolk, J., Karlsson, L., Salo, B., & Laine, M. (2017). Working memory training revisited: A multi-level meta-analysis of n-back training studies. <em>Psychonomic Bulletin & Review, 24</em>, 1077-1096. DOI: 10.3758/s13423-016-1217-0.</li>
+    </ul>
   </section>
 </main>
 

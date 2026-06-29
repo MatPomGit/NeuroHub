@@ -424,7 +424,7 @@ em{color:var(--goldl)}
   background:rgba(201,162,39,.36);
   border-color:rgba(201,162,39,.5);
 }
-.nav-item.is-wiki{font-size:.76rem;color:var(--t3);padding-left:1.65rem}
+.nav-item.is-wiki{font-size:.7rem;color:var(--t3);padding-left:1.65rem}
 .nav-item.is-wiki:hover{color:var(--goldl)}
 .nav-item.is-wiki:is(.is-active,.active){color:var(--gold);border-left-color:var(--gold)}
 

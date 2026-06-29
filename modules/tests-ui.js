@@ -384,25 +384,11 @@ function renderTheoreticalTest(id, item) {
     ? 'Uruchom dedykowany test dla wybranego modułu i sprawdź wynik wraz z uzasadnieniami odpowiedzi.'
     : 'Sprawdź swoją wiedzę z wybranego zakresu psychologii. Odpowiedz na pytania zamknięte i sprawdź wynik.';
   if (st.phase === 'setup') {
-    /* Przenosi aktywną kategorię na początek listy, aby skróty prowadziły od razu do właściwej sekcji. */
-    const orderedCategories = [...catalog.categories].sort((a, b) => {
-      if (a.key === st.activeCategoryKey) return -1;
-      if (b.key === st.activeCategoryKey) return 1;
-      return 0;
-    });
-    const topicsHtml = orderedCategories.map(category => {
-      const meta = category.meta || {};
-      const categoryActive = category.key === st.activeCategoryKey ? ' is-active' : '';
-      const topicButtons = category.topics.map(topic => {
-        const active = topic.key === st.topicKey ? ' is-active' : '';
-        return `<button class="ttest-topic-btn${active}" onclick="ttSetTopic('${topic.key}')"><span class="ttest-topic-icon">${topic.icon || '📘'}</span>${topic.label}</button>`;
-      }).join('');
-      return `<section class="ttest-category-block${categoryActive}" data-category-key="${category.key}">
-        <div class="ttest-category-title">${meta.label || category.key}</div>
-        <div class="ttest-category-desc">${meta.description || ''}</div>
-        <div class="ttest-topic-list">${topicButtons}</div>
-      </section>`;
-    }).join('');
+    /* W module testów teoretycznych pokazujemy jedną, wspólną listę tematów zamiast osobnych list dla kategorii. */
+    const topicsHtml = catalog.categories.flatMap(category => category.topics.map(topic => {
+      const active = topic.key === st.topicKey ? ' is-active' : '';
+      return `<button class="ttest-topic-btn${active}" onclick="ttSetTopic('${topic.key}')"><span class="ttest-topic-icon">${topic.icon || '📘'}</span>${topic.label}</button>`;
+    })).join('');
     const lenOpts = [
       { v: 15, label: 'Krótki - 15 pytań' },
       { v: 30, label: 'Domyślny - 30 pytań' },
@@ -425,7 +411,7 @@ function renderTheoreticalTest(id, item) {
       <div class="ttest-layout ttest-layout--setup">
         <aside class="ttest-side">
           <div class="ttest-section">
-            <div class="ttest-section-title">Wybierz temat i kategorię</div>
+            <div class="ttest-section-title">Wybierz temat</div>
             <div class="ttest-topic-list">${topicsHtml}</div>
           </div>
         </aside>
@@ -440,7 +426,7 @@ function renderTheoreticalTest(id, item) {
             <div class="ttest-diff-desc">${selDiffDesc}</div>
           </div>
           <button class="ttest-start-btn" onclick="ttStart()">Rozpocznij test →</button>
-          <button class="ttest-start-btn ttest-start-btn--secondary" onclick="navigate('dla_studentow/wspolna_gra_kahoot')">Przejdź do wspólnej gry (Kahoot) →</button>
+          <button class="ttest-start-btn ttest-start-btn--secondary" onclick="ttStartKahootFromTheory()">Rozpocznij wspólną grę (Kahoot) z wybranego tematu →</button>
         </section>
       </div>
     </div>`;
@@ -615,6 +601,19 @@ window.ttSetTopic = function(key) {
     if (ownerCategory) theoreticalTestState.activeCategoryKey = ownerCategory.key;
   }
   if (isTheoreticalTestPageActive()) renderTheoreticalTest(current, pageMap.get(current));
+};
+
+
+window.ttStartKahootFromTheory = function() {
+  if (!theoreticalTestState) return;
+  const cfg = window.THEORETICAL_TEST;
+  const catalog = cfg ? ttBuildTopicCatalog(cfg) : null;
+  const topic = catalog ? catalog.topicByKey.get(theoreticalTestState.topicKey) : null;
+  if (!topic) return;
+  sessionStorage.setItem('psyhub_kahoot_topic', theoreticalTestState.topicKey);
+  sessionStorage.setItem('psyhub_kahoot_count', String(theoreticalTestState.length));
+  sessionStorage.setItem('psyhub_kahoot_source', 'theoretical_test');
+  navigate('dla_studentow/wspolna_gra_kahoot');
 };
 
 window.ttSetLength = function(n) {

@@ -788,6 +788,7 @@ function navigate(id, replaceHistory) {
   setActive(normalizedId);
   updateTopbarNextStep(normalizedId);
   closeSidebar();
+  if (item.custom !== 'kahoot_game') document.body.classList.remove('sidebar-collapsed');
   if (item.file)       loadMd(normalizedId, item);
   else if (item.custom === 'specialization_test') renderSpecializationTest(normalizedId, item);
   else if (item.custom === 'daily_psychology')    renderDailyPsychology(normalizedId, item);
@@ -1752,11 +1753,23 @@ function renderKahootGame(id, item) {
       <span class="chapter-lbl">${item.section || ''}</span>
       <h1>${item.label || 'Wspólna gra testowa (Kahoot)'}</h1>
       <p class="lead">Osobny moduł do prowadzenia sesji grupowej: szybkie instrukcje, linki dla prowadzącego i uczestników oraz osadzony podgląd.</p>
+      <div class="kahoot-view-actions">
+        <button type="button" class="kahoot-sidebar-toggle" id="kahootSidebarToggle" aria-pressed="false">Schowaj panel artykułów</button>
+        <button type="button" class="kahoot-sidebar-toggle" onclick="navigate('dla_studentow/testy_teoretyczne')">Wróć do testów teoretycznych</button>
+      </div>
     </div>
     <div class="kahoot-module-frame-wrap">
       <iframe src="modules/wspolna_gra_kahoot.html" title="Moduł wspólnej gry testowej Kahoot" class="kahoot-module-frame"></iframe>
     </div>
   </div>`;
+  const sidebarToggle = document.getElementById('kahootSidebarToggle');
+  if (sidebarToggle) {
+    sidebarToggle.onclick = () => {
+      const collapsed = document.body.classList.toggle('sidebar-collapsed');
+      sidebarToggle.setAttribute('aria-pressed', String(collapsed));
+      sidebarToggle.textContent = collapsed ? 'Pokaż panel artykułów' : 'Schowaj panel artykułów';
+    };
+  }
   window.scrollTo(0,0);
   animateContentIn();
 }

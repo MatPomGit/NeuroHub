@@ -95,6 +95,7 @@
     const response = await fetch(topicFile(topic));
     if (!response.ok) throw new Error('HTTP ' + response.status);
     const data = await response.json();
+    if (!Array.isArray(data)) throw new Error('Dane pytań nie są tablicą.');
     const selected = shuffle(data).slice(0, Math.max(1, Number(count) || DEFAULT_COUNT)).map(q => ({
       q: q.question || q.q,
       options: q.options,

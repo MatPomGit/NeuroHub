@@ -143,10 +143,14 @@
         <div class="actions"><button class="primary" id="prepareGame">Przygotuj pokój gry</button></div>
       </div>`;
     $('#prepareGame').onclick = async () => {
-      setup.topicKey = $('#kahootTopic').value;
-      setup.count = Number($('#kahootCount').value);
-      await loadQuestions(setup.topicKey, setup.count);
-      renderLobby();
+      try {
+        setup.topicKey = $('#kahootTopic').value;
+        setup.count = Number($('#kahootCount').value);
+        await loadQuestions(setup.topicKey, setup.count);
+        renderLobby();
+      } catch (err) {
+        alert('Nie udało się przygotować gry: ' + err.message);
+      }
     };
   }
 

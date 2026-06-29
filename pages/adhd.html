@@ -1,0 +1,278 @@
+<!doctype html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Naukowa prezentacja wyników raportu: ADHD a funkcjonowanie psychospołeczne.">
+<title>ADHD a funkcjonowanie psychospołeczne — przegląd dowodów</title>
+<style>
+:root{
+  --ink:#182330; --muted:#566474; --paper:#f7f9fb; --panel:#ffffff;
+  --navy:#123d68; --blue:#2f6ea8; --cyan:#77b8cf; --teal:#157a78;
+  --amber:#bb7723; --red:#a94442; --line:#d9e1e8; --soft:#eaf1f6;
+  --max:1180px; --radius:18px;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif;line-height:1.65}
+a{color:var(--navy);text-decoration-thickness:1px;text-underline-offset:3px}
+a:hover{color:var(--blue)}
+.skip{position:absolute;left:-9999px}.skip:focus{left:1rem;top:1rem;background:#fff;padding:.7rem 1rem;z-index:50}
+header{background:linear-gradient(135deg,#0e3155 0%,#174f7d 64%,#277b91 100%);color:white;overflow:hidden;position:relative}
+header:after{content:"";position:absolute;inset:auto -8% -48% 36%;height:540px;border:1px solid rgba(255,255,255,.16);border-radius:50%;box-shadow:0 0 0 62px rgba(255,255,255,.04),0 0 0 124px rgba(255,255,255,.03)}
+.hero{max-width:var(--max);margin:auto;padding:92px 24px 74px;position:relative;z-index:1;display:grid;grid-template-columns:1.35fr .65fr;gap:54px;align-items:end}
+.kicker{font:700 .78rem/1.2 ui-monospace,SFMono-Regular,Consolas,monospace;letter-spacing:.16em;text-transform:uppercase;color:#bfe2eb}
+h1{font-family:Georgia,"Times New Roman",serif;font-size:clamp(2.7rem,6vw,5.9rem);line-height:.98;margin:.55rem 0 1.4rem;letter-spacing:-.045em;max-width:880px}
+.lead{font-size:1.15rem;max-width:770px;color:#e7f1f5}
+.meta{border-left:1px solid rgba(255,255,255,.35);padding-left:24px;font-size:.9rem;color:#d7e5eb}.meta strong{display:block;color:#fff;font-size:1rem}
+nav{position:sticky;top:0;z-index:20;background:rgba(247,249,251,.93);backdrop-filter:blur(14px);border-bottom:1px solid var(--line)}
+.navin{max-width:var(--max);margin:auto;padding:11px 24px;display:flex;gap:20px;overflow:auto;white-space:nowrap;font-size:.86rem;font-weight:650}.navin a{text-decoration:none;color:#34485c}.navin a:hover{color:var(--navy)}
+main{max-width:var(--max);margin:auto;padding:48px 24px 80px}
+section{scroll-margin-top:72px;margin:0 0 84px}
+.eyebrow{font:700 .75rem/1 ui-monospace,SFMono-Regular,Consolas,monospace;letter-spacing:.13em;color:var(--blue);text-transform:uppercase;margin-bottom:12px}
+h2{font-family:Georgia,"Times New Roman",serif;font-size:clamp(2rem,4vw,3.35rem);line-height:1.05;letter-spacing:-.025em;margin:.1rem 0 1rem}
+h3{font-size:1.25rem;margin:1.6rem 0 .45rem;color:#203b55}
+p{max-width:860px}
+.abstract{font-size:1.08rem;color:#33485c;max-width:950px}
+.grid{display:grid;grid-template-columns:repeat(12,1fr);gap:22px}.span-4{grid-column:span 4}.span-5{grid-column:span 5}.span-6{grid-column:span 6}.span-7{grid-column:span 7}.span-8{grid-column:span 8}.span-12{grid-column:span 12}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);padding:24px;box-shadow:0 8px 28px rgba(23,50,76,.05)}
+.metric{font-family:Georgia,serif;font-size:2.65rem;line-height:1;color:var(--navy);margin:.25rem 0}.metric small{font:600 .9rem/1.3 Inter,system-ui;color:var(--muted)}
+.note{border-left:4px solid var(--amber);background:#fff8ec;padding:15px 18px;border-radius:0 10px 10px 0;color:#5d4a2d}.caution{border-left-color:var(--red);background:#fff2f1;color:#663737}
+.chart{background:#fff;border:1px solid var(--line);border-radius:var(--radius);padding:22px;box-shadow:0 8px 28px rgba(23,50,76,.05)}
+.chart h3{margin:0 0 3px}.chart .sub{font-size:.88rem;color:var(--muted);margin-bottom:18px}.chart svg{width:100%;height:auto;display:block}.source{font-size:.76rem;color:var(--muted);border-top:1px solid var(--line);margin-top:16px;padding-top:11px}
+.mechanisms{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-top:22px}.mechanism{background:#fff;border:1px solid var(--line);border-radius:14px;padding:18px}.mechanism strong{display:block;color:var(--navy);margin-bottom:5px}.mechanism span{font-size:.9rem;color:var(--muted)}
+.evidence{display:flex;gap:8px;align-items:center}.dots{display:flex;gap:4px}.dot{width:10px;height:10px;border-radius:50%;background:#d9e1e8}.dot.on{background:var(--teal)}
+table{width:100%;border-collapse:collapse;font-size:.9rem;background:white;border:1px solid var(--line)}th,td{text-align:left;vertical-align:top;padding:12px 13px;border-bottom:1px solid var(--line)}th{background:#edf3f7;color:#274057;font-size:.78rem;text-transform:uppercase;letter-spacing:.06em}tr:last-child td{border-bottom:0}
+.flow{display:flex;align-items:stretch;gap:10px;overflow:auto;padding:8px 0}.flow .step{min-width:170px;flex:1;background:#fff;border:1px solid var(--line);border-top:4px solid var(--blue);border-radius:12px;padding:16px}.arrow{align-self:center;color:#8394a3;font-size:1.45rem}
+.quote{font:italic 1.38rem/1.55 Georgia,serif;color:#21445f;border-left:1px solid var(--cyan);padding-left:24px;max-width:850px}
+.refs{font-size:.83rem}.refs li{margin:.55rem 0;padding-left:.35rem}.refs a{overflow-wrap:anywhere}
+footer{background:#132c42;color:#dce7ee;padding:34px 24px}.foot{max-width:var(--max);margin:auto;display:flex;justify-content:space-between;gap:24px;align-items:center}.signature{font-family:Georgia,serif;font-size:1.05rem}.foot small{color:#aebfcb}
+.matrix{display:grid;grid-template-columns:1.05fr repeat(4,1fr);border:1px solid var(--line);border-radius:14px;overflow:hidden;background:#fff}.matrix>div{padding:12px;border-right:1px solid var(--line);border-bottom:1px solid var(--line);font-size:.86rem}.matrix>div:nth-child(5n){border-right:0}.matrix .head{background:#edf3f7;font-weight:750;color:#274057}.matrix .rowhead{font-weight:700;color:#203b55}.tag{display:inline-block;padding:.18rem .55rem;border-radius:999px;background:var(--soft);color:var(--navy);font-size:.74rem;font-weight:750;margin:.15rem .22rem .15rem 0}.timeline{position:relative;padding-left:28px}.timeline:before{content:"";position:absolute;left:8px;top:7px;bottom:7px;width:2px;background:var(--line)}.timeline-item{position:relative;margin:0 0 20px}.timeline-item:before{content:"";position:absolute;left:-25px;top:.45rem;width:10px;height:10px;border-radius:50%;background:var(--blue);box-shadow:0 0 0 4px var(--paper)}.timeline-item strong{display:block;color:var(--navy)}.pillars{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}.pillar{background:#fff;border:1px solid var(--line);border-radius:14px;padding:18px;border-top:4px solid var(--teal)}.pillar b{display:block;color:var(--navy);margin-bottom:6px}.compact-list{margin:.4rem 0 0;padding-left:1.15rem}.compact-list li{margin:.35rem 0}.callout-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:16px}.callout{background:#f0f6f9;border:1px solid #cfe0e9;border-radius:14px;padding:18px}.callout h3{margin-top:0}.legend{display:flex;flex-wrap:wrap;gap:12px;font-size:.78rem;color:var(--muted);margin-top:10px}.legend span:before{content:"";display:inline-block;width:11px;height:11px;border-radius:3px;background:var(--blue);margin-right:6px;vertical-align:-1px}.legend .obs:before{background:var(--amber)}.legend .uncertain:before{background:#b8c3cc}
+.medication-banner{display:grid;grid-template-columns:auto 1fr;gap:16px;align-items:center;margin:0 0 22px;padding:18px 20px;border:2px solid #2f6ea8;border-radius:16px;background:linear-gradient(135deg,#eef6fc,#f8fbfd)}
+.medication-icon{width:58px;height:58px;border-radius:50%;display:grid;place-items:center;background:#dcecf8;color:#174e78;border:1px solid #b7d3e7}
+.medication-icon svg{width:34px;height:34px}
+.medication-banner strong{display:block;color:#173e64;font-size:1.08rem;margin-bottom:3px}.medication-banner p{margin:0;color:#41596d}
+.medication-step{border:2px solid #2f6ea8!important;background:#eef6fc!important;box-shadow:0 0 0 4px rgba(47,110,168,.08)}
+.medication-label{display:inline-flex;align-items:center;gap:7px;padding:.28rem .7rem;border-radius:999px;background:#174e78;color:#fff;font-size:.76rem;font-weight:800;letter-spacing:.04em;text-transform:uppercase;margin-bottom:8px}
+.sign-note{margin-top:12px;padding:12px 14px;border-left:4px solid #2f6ea8;background:#eef4f8;color:#334b60;font-size:.9rem}
+@media(max-width:850px){.pillars{grid-template-columns:1fr 1fr}.callout-grid{grid-template-columns:1fr}.matrix{grid-template-columns:1fr 1fr}.matrix>div:nth-child(5n){border-right:1px solid var(--line)}.hero{grid-template-columns:1fr;padding-top:66px}.meta{border-left:0;border-top:1px solid rgba(255,255,255,.35);padding:18px 0 0}.span-4,.span-5,.span-6,.span-7,.span-8{grid-column:span 12}.mechanisms{grid-template-columns:1fr 1fr}.foot{display:block}.foot small{display:block;margin-top:8px}}
+@media(max-width:560px){.pillars{grid-template-columns:1fr}.matrix{display:block}.matrix>div{border-right:0}.mechanisms{grid-template-columns:1fr}main{padding-inline:16px}.hero{padding-inline:18px}h1{font-size:2.85rem}.card,.chart{padding:18px}.navin{padding-inline:16px}}
+@media(prefers-reduced-motion:no-preference){.reveal{opacity:0;transform:translateY(14px);transition:.55s ease}.reveal.visible{opacity:1;transform:none}}
+@media print{nav{display:none}body{background:white}.hero{padding:45px 24px}section{break-inside:avoid;margin-bottom:40px}.card,.chart{box-shadow:none}a{color:inherit;text-decoration:none}}
+</style>
+</head>
+<body>
+<a class="skip" href="#tresc">Przejdź do treści</a>
+<header>
+  <div class="hero">
+    <div>
+      <div class="kicker">Przegląd literatury i synteza dowodów</div>
+      <h1>ADHD a funkcjonowanie psychospołeczne</h1>
+      <p class="lead">Uzależnienia, współchorobowość, przestępczość, edukacja, praca, rodzina, koszty społeczne i znaczenie leczenia.</p>
+    </div>
+    <div class="meta"><strong>dr inż. Mateusz Pomianek</strong>Politechnika Rzeszowska<br>Raport: 27 czerwca 2026 r.<br><br>Strona syntetyzuje dane z metaanaliz, przeglądów systematycznych, badań kohortowych i analiz rejestrowych.</div>
+  </div>
+</header>
+<nav aria-label="Nawigacja po raporcie"><div class="navin">
+<a href="#synteza">Synteza</a><a href="#uzaleznienia">Uzależnienia</a><a href="#wspolchorobowosc">Współchorobowość</a><a href="#przestepczosc">Przestępczość</a><a href="#funkcjonowanie">Funkcjonowanie</a><a href="#rodzina">Rodzina</a><a href="#koszty">Koszty</a><a href="#leczenie">Leczenie</a><a href="#interwencje">Interwencje</a><a href="#farmakologia">Farmakologia</a><a href="#bezpieczenstwo">Bezpieczeństwo</a><a href="#wnioski">Wnioski</a><a href="#ograniczenia">Ograniczenia</a><a href="#bibliografia">Źródła</a>
+</div></nav>
+<main id="tresc">
+<section id="synteza" class="reveal">
+  <div class="eyebrow">01 — wniosek ogólny</div><h2>ADHD jest czynnikiem podatności, nie pojedynczą przyczyną.</h2>
+  <p class="abstract">Najbardziej niekorzystne wyniki pojawiają się zwykle przy kumulacji ADHD, zaburzeń zachowania, depresji, dysregulacji emocjonalnej, zaburzeń używania substancji oraz niekorzystnych warunków społecznych. Związek statystyczny nie jest automatycznie dowodem przyczynowości.</p>
+  <div class="grid">
+    <div class="card span-4"><div class="metric">86 <small>badań</small></div><p>Metaanaliza wyników życiowych obejmowała łącznie 2 639 438 osób i wykazała gorsze średnie wyniki w wielu domenach funkcjonowania.</p><div class="source">Źródło: Faraone et al. (2021).</div></div>
+    <div class="card span-4"><div class="metric">25 656 <small>osób z ADHD</small></div><p>W szwedzkiej analizie wewnątrzosobniczej porównywano okresy leczenia i nieleczenia u tych samych osób.</p><div class="source">Źródło: Lichtenstein et al. (2012).</div></div>
+    <div class="card span-4"><div class="metric">122,8 mld <small>USD / rok</small></div><p>Szacowane nadwyżkowe koszty społeczne ADHD u dorosłych w USA w 2018 r.; nie są to koszty bezpośrednio ponoszone przez pacjenta.</p><div class="source">Źródło: analiza ekonomiczna przywołana w raporcie; por. Le et al. (2021), Doshi et al. (2012).</div></div>
+  </div>
+</section>
+
+<section id="uzaleznienia" class="reveal">
+  <div class="eyebrow">02 — uzależnienia</div><h2>Ryzyko dotyczy przede wszystkim przejścia do problemowego wzorca używania.</h2>
+  <p>ADHD silniej przewiduje wcześniejszy początek, intensyfikację używania i rozwój klinicznego zaburzenia niż sam jednorazowy kontakt z substancją. Wartości poniżej są syntetycznym, przybliżonym ujęciem porównawczym z raportu, a nie estymatami z jednego modelu.</p>
+  <div class="grid">
+    <div class="chart span-7"><h3>ADHD a zaburzenia używania substancji</h3><div class="sub">Względne ryzyko / siła związku — ujęcie syntetyczne</div><svg id="substanceChart" viewBox="0 0 760 390" role="img" aria-label="Wykres ryzyka zaburzeń używania substancji"></svg><div class="source">Źródło: opracowanie na podstawie Lee et al. (2011) oraz Charach et al. (2011).</div></div>
+    <div class="card span-5"><h3>Mechanizm jest wieloczynnikowy</h3><div class="flow"><div class="step"><strong>Impulsywność</strong><br>działanie bez pełnej oceny konsekwencji</div><div class="arrow">→</div><div class="step"><strong>Natychmiastowa nagroda</strong><br>krótkotrwała ulga dominuje nad odległym celem</div><div class="arrow">→</div><div class="step"><strong>Nawrót</strong><br>trudność w planowaniu i hamowaniu reakcji</div></div><p class="note">Hipoteza samoleczenia opisuje motyw używania, ale nie oznacza, że substancja leczy ADHD.</p></div>
+  </div>
+  <div class="mechanisms">
+    <div class="mechanism"><strong>Poszukiwanie stymulacji</strong><span>Preferowanie zachowań o szybkim i silnym wzmocnieniu.</span></div>
+    <div class="mechanism"><strong>Dysregulacja emocji</strong><span>Używanie substancji do krótkotrwałego obniżenia napięcia lub dysforii.</span></div>
+    <div class="mechanism"><strong>Dysfunkcje wykonawcze</strong><span>Problemy z terminami, planem terapii i rozpoznawaniem sytuacji wysokiego ryzyka.</span></div>
+    <div class="mechanism"><strong>Współchorobowość</strong><span>Depresja, trauma i zaburzenia zachowania kumulują ryzyko.</span></div>
+    <div class="mechanism"><strong>Środowisko</strong><span>Odrzucenie, bezrobocie i niepowodzenia szkolne zwiększają podatność.</span></div>
+    <div class="mechanism"><strong>Leczenie</strong><span>Farmakoterapia ADHD nie zastępuje leczenia SUD; potrzebne jest postępowanie równoległe.</span></div>
+  </div>
+</section>
+
+<section id="wspolchorobowosc" class="reveal">
+  <div class="eyebrow">03 — współchorobowość</div><h2>Obraz kliniczny rzadko ogranicza się do samych objawów osiowych.</h2>
+  <div class="grid">
+    <div class="span-7 card"><table><thead><tr><th>Obszar</th><th>Znaczenie kliniczne</th></tr></thead><tbody>
+      <tr><td>Depresja</td><td>Większa niesprawność, ryzyko uzależnień, bezrobocia i zachowań samobójczych.</td></tr>
+      <tr><td>Zaburzenia lękowe</td><td>Mogą maskować ADHD i wtórnie pogarszać uwagę oraz unikanie zadań.</td></tr>
+      <tr><td>Choroba afektywna dwubiegunowa</td><td>Wymaga odróżnienia przewlekłego profilu ADHD od epizodów manii lub hipomanii.</td></tr>
+      <tr><td>Zaburzenia zachowania</td><td>Silnie wzmacniają związek z agresją, uzależnieniami i przestępczością.</td></tr>
+      <tr><td>Zaburzenia osobowości</td><td>Zwiększają ryzyko niestabilności relacji, samouszkodzeń i problemów prawnych.</td></tr>
+      <tr><td>Zaburzenia snu</td><td>Nasilają nieuwagę, drażliwość i trudności regulacji emocji.</td></tr>
+    </tbody></table><div class="source">Źródło: Choi et al. (2022) oraz synteza raportu.</div></div>
+    <div class="span-5 card"><h3>Klucz różnicowania</h3><p class="quote">ADHD ma charakter rozwojowy i względnie przewlekły; mania lub hipomania są epizodami wyraźnie odmiennymi od typowego funkcjonowania.</p><p class="note caution">Podwyższone ryzyko zachowań samobójczych wymaga bezpośredniej oceny klinicznej. Potencjalna korzyść leczenia ADHD nie zastępuje interwencji kryzysowej.</p></div>
+  </div>
+</section>
+
+<section id="przestepczosc" class="reveal">
+  <div class="eyebrow">04 — przestępczość i recydywa</div><h2>Nadreprezentacja w więzieniach nie oznacza deterministycznego związku.</h2>
+  <p>Największą rolę odgrywa konfiguracja ADHD z zaburzeniami zachowania, SUD, ubóstwem, bezrobociem i ekspozycją na środowiska wysokiego ryzyka. W badaniu rejestrowym okresy farmakoterapii wiązały się z niższą częstością skazań.</p>
+  <div class="grid">
+    <div class="chart span-8"><h3>Farmakoterapia ADHD a ryzyko skazania</h3><div class="sub">Hazard ratio (HR), porównanie okresów leczenia i braku leczenia u tych samych osób</div><svg id="crimeChart" viewBox="0 0 780 330" role="img" aria-label="Wykres hazard ratio skazań podczas farmakoterapii"></svg><div class="source">Źródło: Lichtenstein et al. (2012), N = 25 656. HR &lt; 1 oznacza niższe ryzyko w okresach leczenia.</div></div>
+    <div class="card span-4"><div class="metric">−32% <small>mężczyźni</small></div><p>HR = 0,68; 95% CI [0,63; 0,73]</p><div class="metric">−41% <small>kobiety</small></div><p>HR = 0,59; 95% CI [0,50; 0,70]</p><p class="note">Projekt wewnątrzosobniczy ogranicza wpływ stałych cech jednostki, lecz nie usuwa wszystkich zmiennych zależnych od czasu.</p></div>
+  </div>
+</section>
+
+<section id="funkcjonowanie" class="reveal">
+  <div class="eyebrow">05 — edukacja, praca i bezpieczeństwo</div><h2>Największa luka często występuje między potencjałem a regularnym wykonaniem.</h2>
+  <div class="chart"><h3>Wyniki życiowe osób z ADHD</h3><div class="sub">Wielkość efektu Cohena d: wartości ujemne oznaczają niższy średni wynik w grupie ADHD niż w grupie bez ADHD</div><svg id="lifeChart" viewBox="0 0 900 430" role="img" aria-label="Ujemne wartości wielkości efektu dla wyników życiowych osób z ADHD"></svg><div class="sign-note"><strong>Interpretacja znaku:</strong> wartości powinny być <strong>ujemne</strong>, ponieważ w metaanalizie kierunek efektu zakodowano jako gorsze wyniki osób z ADHD względem grupy kontrolnej. Wartość bezwzględna określa siłę różnicy, natomiast minus — jej kierunek.</div><div class="source">Źródło: Faraone et al. (2021), metaanaliza 86 badań, N = 2 639 438.</div></div>
+  <div class="grid" style="margin-top:22px">
+    <div class="card span-4"><h3>Edukacja</h3><p>Niższe oceny, większa absencja, częstsze powtarzanie klasy i ryzyko przerwania nauki nie wynikają przede wszystkim z niższej inteligencji.</p></div>
+    <div class="card span-4"><h3>Praca</h3><p>Większe ryzyko spóźnień, absencji, prezenteizmu, zmian pracy i zatrudnienia poniżej kwalifikacji. Środowiska dynamiczne i dobrze dopasowane mogą ujawniać mocne strony.</p></div>
+    <div class="card span-4"><h3>Wypadki</h3><p>Rozproszenie uwagi, impulsywność i poszukiwanie stymulacji zwiększają ryzyko urazów oraz zdarzeń transportowych; leczenie może część tego ryzyka ograniczać.</p></div>
+  </div>
+</section>
+
+<section id="rodzina" class="reveal">
+  <div class="eyebrow">06 — relacje i rodzina</div><h2>Objaw może zostać błędnie odczytany jako intencja.</h2>
+  <div class="grid">
+    <div class="card span-6"><h3>Sprzężenie konfliktu</h3><div class="flow"><div class="step">Zapomniane zobowiązanie</div><div class="arrow">→</div><div class="step">Krytyka i kontrola</div><div class="arrow">→</div><div class="step">Obrona lub wycofanie</div><div class="arrow">→</div><div class="step">Gorsza samoregulacja</div></div><p>Partner bez ADHD może przejmować planowanie i kontrolę terminów, co zwiększa obciążenie mentalne i sprzyja asymetrii „rodzic–dziecko”.</p></div>
+    <div class="card span-6"><h3>Rodzicielstwo</h3><p>Metaanaliza 32 badań wykazała małe, lecz powtarzalne związki między nasileniem objawów ADHD u rodzica a bardziej surowym i niekonsekwentnym stylem wychowawczym.</p><p>Rozpoznanie nie przesądza o jakości rodzicielstwa. Rutyny, podział obowiązków, leczenie i narzędzia zewnętrzne mogą istotnie poprawiać funkcjonowanie.</p><div class="source">Źródło: Park et al. (2017).</div></div>
+  </div>
+</section>
+
+<section id="koszty" class="reveal">
+  <div class="eyebrow">07 — koszty społeczne</div><h2>Największa część kosztu znajduje się poza psychiatrią.</h2>
+  <p>Koszty obejmują ochronę zdrowia, edukację, utraconą produktywność, czas opiekunów, wypadki, wymiar sprawiedliwości i utracony potencjał. Dla Polski brak pełnego, porównywalnego rachunku; mechaniczne przeliczanie danych amerykańskich byłoby metodologicznie niepoprawne.</p>
+  <div class="grid">
+    <div class="card span-7"><table><thead><tr><th>Kategoria</th><th>Przykładowe składowe</th></tr></thead><tbody>
+      <tr><td>Zdrowie</td><td>Diagnoza, leki, konsultacje, hospitalizacje, leczenie depresji, SUD i urazów.</td></tr><tr><td>Edukacja</td><td>Wsparcie specjalistyczne, powtarzanie klasy, dodatkowe zajęcia, przerwanie nauki.</td></tr><tr><td>Praca</td><td>Absencja, prezenteizm, bezrobocie, błędy i rotacja.</td></tr><tr><td>Rodzina</td><td>Ograniczenie pracy opiekunów, transport, nadzór i obciążenie mentalne.</td></tr><tr><td>Wypadki i prawo</td><td>Leczenie urazów, szkody, policja, sądy, kuratela i więziennictwo.</td></tr>
+    </tbody></table></div>
+    <div class="card span-5"><h3>„Podatek wykonawczy ADHD”</h3><p>Powtarzalne straty wynikające nie z braku wiedzy, lecz z trudności w regularnym przekładaniu intencji na działanie: opłaty za zwłokę, impulsywne zakupy, zgubione przedmioty, niewykorzystane subskrypcje i naprawy po zaniedbaniach.</p><p class="note">Koszt niematerialny obejmuje chroniczny stres, wstyd, utratę zaufania, obniżoną jakość życia i niewykorzystany kapitał ludzki.</p></div>
+  </div>
+</section>
+
+<section id="leczenie" class="reveal">
+  <div class="eyebrow">08 — wpływ leczenia farmakologicznego</div><h2>Wpływ leków na ADHD: silna redukcja objawów, ostrożniejsze wnioski dla wyników życiowych.</h2>
+  <div class="medication-banner">
+    <div class="medication-icon" aria-hidden="true"><svg viewBox="0 0 64 64"><path d="M23 10h18v9H23zM20 19h24v35H20z" fill="none" stroke="currentColor" stroke-width="4" stroke-linejoin="round"/><path d="M20 31h24M27 42h10M32 37v10" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round"/></svg></div>
+    <div><span class="medication-label">Leki / farmakoterapia ADHD</span><strong>Poniższa tabela dotyczy przede wszystkim wpływu farmakoterapii.</strong><p>Najsilniejsze dowody odnoszą się do poprawy objawów podczas przyjmowania leków. Dane o przestępczości, wypadkach, używaniu substancji i zachowaniach samobójczych pochodzą głównie z badań obserwacyjnych porównujących okresy leczenia i nieleczenia.</p></div>
+  </div>
+  <div class="card"><table><thead><tr><th>Obszar oceniany podczas farmakoterapii</th><th>Ocena dowodów dotyczących leków</th><th>Siła</th></tr></thead><tbody id="evidenceRows"></tbody></table></div>
+  <h3>Farmakoterapia jako element modelu wielomodalnego</h3><div class="flow"><div class="step medication-step"><span class="medication-label">Leki</span><br><strong>Farmakoterapia ADHD</strong><br>redukcja objawów i poprawa kontroli impulsów</div><div class="arrow">+</div><div class="step"><strong>Psychoedukacja i CBT</strong><br>strategie działania, planowanie, zapobieganie nawrotom</div><div class="arrow">+</div><div class="step"><strong>Leczenie współchorobowości</strong><br>SUD, depresja, lęk, sen</div><div class="arrow">+</div><div class="step"><strong>Interwencje środowiskowe</strong><br>rodzina, szkoła, praca i finanse</div></div>
+</section>
+
+<section id="interwencje" class="reveal">
+  <div class="eyebrow">09 — interwencje funkcjonalne</div><h2>Redukcja objawów nie wystarcza bez przebudowy środowiska działania.</h2>
+  <p>Raport wskazuje, że najlepsze wyniki daje model wielomodalny. Farmakoterapia może poprawić uwagę, hamowanie reakcji i gotowość do wykonania zadania, ale nie usuwa automatycznie zaległości edukacyjnych, nieefektywnych strategii uczenia się, konfliktów relacyjnych ani utrwalonych problemów organizacyjnych.</p>
+  <div class="pillars">
+    <div class="pillar"><b>Farmakoterapia</b><span>Dobór preparatu do profilu objawów, czasu wymaganej ochrony, współchorobowości i ryzyka nadużywania.</span></div>
+    <div class="pillar"><b>Psychoterapia i psychoedukacja</b><span>CBT, rozpoznawanie wzorców unikania, planowanie sytuacji wysokiego ryzyka i regulacja emocji.</span></div>
+    <div class="pillar"><b>Wsparcie wykonawcze</b><span>Zewnętrzne terminy, checklisty, automatyzacja płatności, ograniczenie liczby równoległych zadań i szybka informacja zwrotna.</span></div>
+    <div class="pillar"><b>Interwencje systemowe</b><span>Dostosowania edukacyjne i zawodowe, terapia par lub rodziny oraz równoległe leczenie SUD, depresji, lęku i zaburzeń snu.</span></div>
+  </div>
+  <div class="grid" style="margin-top:22px">
+    <div class="card span-6"><h3>Edukacja</h3><ul class="compact-list"><li>dzielenie złożonych zadań na krótkie etapy z osobnymi terminami;</li><li>częsta, konkretna informacja zwrotna zamiast odległej oceny końcowej;</li><li>jawne kryteria wykonania i ograniczenie obciążenia pamięci roboczej;</li><li>nauka strategii planowania, a nie wyłącznie wydłużenie czasu pracy.</li></ul></div>
+    <div class="card span-6"><h3>Praca</h3><ul class="compact-list"><li>jasne priorytety i ograniczona liczba jednoczesnych kanałów komunikacji;</li><li>krótsze cykle kontroli postępu i widoczne punkty domknięcia;</li><li>środowisko dopasowane do profilu pobudzenia i charakteru zadań;</li><li>rutyny bezpieczeństwa w pracy wymagającej prowadzenia pojazdów lub obsługi maszyn.</li></ul></div>
+  </div>
+  <div class="source">Źródło: synteza zaleceń funkcjonalnych zawartych w raporcie; NICE NG87 oraz Faraone et al. (2021).</div>
+</section>
+
+<section id="farmakologia" class="reveal">
+  <div class="eyebrow">09 — psychofarmakologia</div><h2>Preparaty różnią się nie tylko dawką, lecz profilem ekspozycji.</h2>
+  <div class="grid">
+    <div class="chart span-6"><h3>Skuteczność objawowa u dzieci i młodzieży</h3><div class="sub">Standaryzowana różnica średnich względem placebo; większa wartość bezwzględna = większa redukcja objawów</div><svg id="drugChart" viewBox="0 0 680 310" role="img" aria-label="Wykres skuteczności klas leków ADHD"></svg><div class="source">Źródło: Cortese et al. (2018), metaanaliza sieciowa 133 badań.</div></div>
+    <div class="card span-6"><h3>Porównanie postaci metylofenidatu</h3><table><thead><tr><th>Preparat</th><th>Profil</th><th>Czas</th><th>Posiłek</th></tr></thead><tbody><tr><td>Medikinet IR</td><td>Natychmiastowe uwalnianie</td><td>ok. 3–4 h</td><td>Stały sposób względem jedzenia</td></tr><tr><td>Medikinet CR</td><td>ok. 50% natychmiast + 50% z opóźnieniem</td><td>ok. 6–8 h</td><td>Z posiłkiem lub bezpośrednio po nim</td></tr><tr><td>Concerta</td><td>ok. 22% początkowo + stopniowe OROS</td><td>do ok. 10–12 h</td><td>Niezależnie od posiłku</td></tr></tbody></table><div class="source">Źródła: ChPL produktów, MHRA (2022), NICE NG87.</div></div>
+  </div>
+  <div class="note caution" style="margin-top:20px"><strong>Informacja naukowa, nie instrukcja leczenia.</strong> Różne postacie metylofenidatu nie są automatycznie zamienne miligram do miligrama. Dobór i titracja wymagają decyzji lekarza oraz monitorowania ciśnienia, tętna, masy ciała, apetytu, snu i funkcjonowania.</div>
+</section>
+
+<section id="bezpieczenstwo" class="reveal">
+  <div class="eyebrow">11 — monitorowanie leczenia</div><h2>Skuteczność należy oceniać razem z tolerancją i realnym funkcjonowaniem.</h2>
+  <div class="grid">
+    <div class="card span-5"><h3>Przed rozpoczęciem</h3><div class="timeline"><div class="timeline-item"><strong>Wywiad kliniczny</strong>Objawy od okresu rozwojowego, upośledzenie funkcjonowania, współchorobowość i używanie substancji.</div><div class="timeline-item"><strong>Ocena somatyczna</strong>Ciśnienie, tętno, masa ciała, sen, apetyt oraz wywiad sercowo-naczyniowy.</div><div class="timeline-item"><strong>Cel leczenia</strong>Nie tylko wynik kwestionariusza, lecz konkretne wskaźniki: terminowość, bezpieczeństwo, nauka, praca i relacje.</div></div></div>
+    <div class="card span-7"><h3>W trakcie titracji i leczenia</h3><table><thead><tr><th>Parametr</th><th>Co oceniać</th><th>Znaczenie</th></tr></thead><tbody><tr><td>Objawy</td><td>Nieuwaga, impulsywność, nadruchliwość w różnych porach dnia</td><td>Czy profil działania pokrywa okres realnych wymagań</td></tr><tr><td>Funkcjonowanie</td><td>Wykonanie zadań, spóźnienia, konflikty, prowadzenie pojazdu</td><td>Efekt kliniczny ważniejszy niż sama redukcja wyniku skali</td></tr><tr><td>Tolerancja</td><td>Apetyt, masa ciała, sen, drażliwość, bóle głowy</td><td>Bilans korzyści i działań niepożądanych</td></tr><tr><td>Parametry krążeniowe</td><td>Ciśnienie i tętno</td><td>Bezpieczeństwo leczenia stymulującego i atomoksetyny</td></tr><tr><td>Ryzyko nadużywania</td><td>Używanie niezgodne z zaleceniem, przekazywanie leku, eskalacja dawki</td><td>Dobór formulacji i zakresu nadzoru</td></tr></tbody></table></div>
+  </div>
+  <div class="note caution" style="margin-top:20px"><strong>Nie należy samodzielnie zmieniać dawki ani zamieniać preparatów.</strong> Różnice technologii uwalniania mogą zmieniać czas początku, szczyt działania i wygasanie efektu mimo tej samej substancji czynnej.</div>
+  <div class="source">Źródła: NICE NG87, charakterystyki produktów leczniczych oraz MHRA (2022).</div>
+</section>
+
+<section id="wnioski" class="reveal">
+  <div class="eyebrow">12 — synteza praktyczna</div><h2>Największy efekt daje wczesna, ciągła i skoordynowana opieka.</h2>
+  <div class="callout-grid">
+    <div class="callout"><h3>Co wynika dość pewnie?</h3><p>ADHD zwiększa średnie ryzyko problemów w wielu domenach, a leki skutecznie redukują podstawowe objawy. Prawidłowo prowadzona farmakoterapia nie zwiększa ryzyka późniejszego uzależnienia.</p></div>
+    <div class="callout"><h3>Co jest prawdopodobne?</h3><p>W okresach leczenia obserwuje się mniej skazań, części zdarzeń transportowych, nadużywania substancji i zachowań samobójczych. Są to głównie dane obserwacyjne, dlatego wniosek o przyczynowości powinien pozostać ostrożny.</p></div>
+    <div class="callout"><h3>Co zależy od kontekstu?</h3><p>Ukończenie edukacji, stabilność zatrudnienia, dochody i relacje zależą również od wcześniejszych zaległości, środowiska, współchorobowości, wsparcia i czasu trwania interwencji.</p></div>
+    <div class="callout"><h3>Co wymaga integracji systemów?</h3><p>Koszty ADHD rozkładają się między ochronę zdrowia, edukację, rynek pracy, rodziny, transport i wymiar sprawiedliwości. Ocena tylko kosztów medycznych znacząco zaniża pełne obciążenie społeczne.</p></div>
+  </div>
+  <div class="chart" style="margin-top:22px"><h3>Łańcuch ryzyka i punkty interwencji</h3><div class="sub">Model interpretacyjny oparty na syntezie raportu</div><svg id="pathwayChart" viewBox="0 0 1000 300" role="img" aria-label="Schemat łańcucha ryzyka ADHD i punktów interwencji"></svg><div class="legend"><span>Mechanizm ryzyka</span><span class="obs">Czynnik wzmacniający</span><span class="uncertain">Wynik odległy</span></div><div class="source">Źródło: opracowanie własne na podstawie całokształtu raportu.</div></div>
+</section>
+
+<section id="ograniczenia" class="reveal">
+  <div class="eyebrow">13 — interpretacja</div><h2>Duża próba nie usuwa wszystkich źródeł błędu.</h2>
+  <div class="grid"><div class="card span-4"><h3>Obserwacyjność</h3><p>Nie można prowadzić wieloletnich randomizowanych badań leczenia versus brak leczenia dla przestępczości, śmiertelności czy dochodów.</p></div><div class="card span-4"><h3>Heterogeniczność</h3><p>Rokowanie zależy od wieku, płci, profilu objawów, inteligencji, współchorobowości i środowiska.</p></div><div class="card span-4"><h3>Ryzyko względne</h3><p>Iloraz szans, HR lub wielkość efektu nie są bezwzględnym prawdopodobieństwem zdarzenia u konkretnej osoby.</p></div></div>
+  <p class="quote">Wczesne rozpoznanie i ciągłe leczenie wielomodalne można traktować nie tylko jako redukcję objawów, lecz także jako potencjalną profilaktykę uzależnień, wypadków, marginalizacji i utraty kapitału ludzkiego.</p>
+</section>
+
+<section id="bibliografia" class="reveal">
+  <div class="eyebrow">14 — źródła</div><h2>Wybrane piśmiennictwo wykorzystane w raporcie</h2>
+  <ol class="refs">
+    <li>Charach A. et al. (2011). Childhood ADHD and future substance use disorders. <em>JAACAP, 50</em>(1), 9–21. <a href="https://doi.org/10.1016/j.jaac.2010.09.019">DOI</a></li>
+    <li>Lee S. S. et al. (2011). Prospective association of childhood ADHD and substance use. <em>Clinical Psychology Review, 31</em>(3), 328–341. <a href="https://doi.org/10.1016/j.cpr.2011.01.006">DOI</a></li>
+    <li>Choi W. S. et al. (2022). Psychiatric comorbidities in adult ADHD. <em>PLOS ONE, 17</em>(11), e0277175. <a href="https://doi.org/10.1371/journal.pone.0277175">DOI</a></li>
+    <li>Lichtenstein P. et al. (2012). Medication for ADHD and criminality. <em>NEJM, 367</em>, 2006–2014. <a href="https://doi.org/10.1056/NEJMoa1203241">DOI</a></li>
+    <li>Faraone S. V. et al. (2021). World Federation of ADHD international consensus statement. <em>Neuroscience & Biobehavioral Reviews, 128</em>, 789–818. <a href="https://doi.org/10.1016/j.neubiorev.2021.01.022">DOI</a></li>
+    <li>Park J. L. et al. (2017). Parental ADHD symptoms and parenting behaviors. <em>Clinical Psychology Review, 56</em>, 25–39. <a href="https://doi.org/10.1016/j.cpr.2017.05.003">DOI</a></li>
+    <li>Le H. H. et al. (2021). Global economic burden of ADHD. <em>PharmacoEconomics, 39</em>, 399–420. <a href="https://doi.org/10.1007/s40273-020-00998-0">DOI</a></li>
+    <li>Doshi J. A. et al. (2012). Economic impact of childhood and adult ADHD in the US. <em>JAACAP, 51</em>(10), 990–1002.e2. <a href="https://doi.org/10.1016/j.jaac.2012.07.008">DOI</a></li>
+    <li>Cortese S. et al. (2018). Comparative efficacy and tolerability of medications for ADHD. <em>The Lancet Psychiatry, 5</em>(9), 727–738. <a href="https://doi.org/10.1016/S2215-0366(18)30269-4">DOI</a></li>
+    <li>National Institute for Health and Care Excellence. ADHD: diagnosis and management, NG87. <a href="https://www.nice.org.uk/guidance/ng87">Wytyczne</a></li>
+    <li>Medicines and Healthcare products Regulatory Agency (2022). Modified-release methylphenidate: caution when switching formulations. <a href="https://www.gov.uk/drug-safety-update/methylphenidate-long-acting-modified-release-preparations-caution-if-switching-between-products-due-to-differences-in-formulations">Komunikat</a></li>
+  </ol>
+</section>
+</main>
+<footer><div class="foot"><div class="signature">Opracowanie: dr inż. Mateusz Pomianek<br>Politechnika Rzeszowska</div><small>Statyczna strona informacyjna na podstawie raportu „ADHD, a funkcjonowanie psychospołeczne”, 2026.</small></div></footer>
+<script>
+const NS='http://www.w3.org/2000/svg';
+function el(tag,attrs={},text=''){const n=document.createElementNS(NS,tag);Object.entries(attrs).forEach(([k,v])=>n.setAttribute(k,v));if(text)n.textContent=text;return n}
+function clear(svg){while(svg.firstChild)svg.removeChild(svg.firstChild)}
+function barChart(id,data,{max=5,left=245,right=60,top=24,row=58,valueSuffix='',negative=false}={}){
+ const svg=document.getElementById(id); clear(svg); const W=svg.viewBox.baseVal.width,H=svg.viewBox.baseVal.height, plotW=W-left-right;
+ data.forEach((d,i)=>{const y=top+i*row; const zero=negative?left+plotW:left; const width=Math.abs(d.value)/max*plotW; const x=negative?zero-width:left;
+  svg.append(el('line',{x1:left,y1:y+28,x2:left+plotW,y2:y+28,stroke:'#e2e8ee','stroke-width':1}));
+  svg.append(el('text',{x:left-12,y:y+18,'text-anchor':'end','font-size':14,fill:'#263a4c'},d.label));
+  svg.append(el('rect',{x,y:y+3,width,height:26,rx:4,fill:d.color||'#2f6ea8'}));
+  svg.append(el('text',{x:negative?x-8:x+width+9,y:y+21,'text-anchor':negative?'end':'start','font-size':14,'font-weight':700,fill:'#173e64'},String(d.value).replace('.',',')+valueSuffix));
+ });
+ const y=top+data.length*row+4; svg.append(el('line',{x1:left,y1:y,x2:left+plotW,y2:y,stroke:'#789','stroke-width':1}));
+}
+barChart('substanceChart',[
+ {label:'Palenie nikotyny',value:4.7},{label:'Zaburzenia używania nikotyny',value:4.3},{label:'Zaburzenia używania narkotyków',value:3.4},{label:'Zaburzenia używania konopi',value:3.1},{label:'Zaburzenia używania alkoholu',value:2.4}
+],{max:5,left:260,row:62});
+barChart('lifeChart',[
+ {label:'Osiągnięcia edukacyjne',value:-.61,color:'#214e78'},{label:'Zatrudnienie',value:-.58,color:'#397bb5'},{label:'Dochody',value:-.66,color:'#459960'},{label:'Relacje interpersonalne',value:-.57,color:'#75539b'},{label:'Jakość życia',value:-.73,color:'#b84a4a'},{label:'Pewność siebie',value:-.72,color:'#d88722'},{label:'Zdrowie psychiczne',value:-.81,color:'#16767a'}
+],{max:1,left:285,right:75,row:52,negative:true,valueSuffix:''});
+barChart('drugChart',[
+ {label:'Amfetaminy',value:1.02,color:'#174e78'},{label:'Metylofenidat',value:.78,color:'#357ca8'},{label:'Atomoksetyna',value:.56,color:'#78a8bd'}
+],{max:1.1,left:170,right:55,row:72});
+(function(){const svg=document.getElementById('crimeChart'),W=780,left=170,right=75,plot=W-left-right,min=.4,max=1.05;const rows=[{label:'Mężczyźni',v:.68,lo:.63,hi:.73,note:'32% niższe ryzyko'},{label:'Kobiety',v:.59,lo:.50,hi:.70,note:'41% niższe ryzyko'}];const x=v=>left+(v-min)/(max-min)*plot;[.4,.5,.6,.7,.8,.9,1].forEach(t=>{svg.append(el('line',{x1:x(t),y1:55,x2:x(t),y2:255,stroke:t===1?'#7b8791':'#e3e8ed','stroke-width':t===1?2:1}));svg.append(el('text',{x:x(t),y:280,'text-anchor':'middle','font-size':13,fill:'#607080'},t.toFixed(1).replace('.',',')))});rows.forEach((r,i)=>{const y=100+i*95;svg.append(el('text',{x:20,y:y+5,'font-size':15,'font-weight':650,fill:'#263a4c'},r.label));svg.append(el('line',{x1:x(r.lo),y1:y,x2:x(r.hi),y2:y,stroke:'#164a77','stroke-width':3}));svg.append(el('line',{x1:x(r.lo),y1:y-8,x2:x(r.lo),y2:y+8,stroke:'#164a77','stroke-width':2}));svg.append(el('line',{x1:x(r.hi),y1:y-8,x2:x(r.hi),y2:y+8,stroke:'#164a77','stroke-width':2}));svg.append(el('circle',{cx:x(r.v),cy:y,r:8,fill:'#164a77'}));svg.append(el('text',{x:W-10,y:y-2,'text-anchor':'end','font-size':14,'font-weight':700,fill:'#173e64'},`HR ${r.v.toFixed(2).replace('.',',')} (${r.lo.toFixed(2).replace('.',',')}–${r.hi.toFixed(2).replace('.',',')})`));svg.append(el('text',{x:W-10,y:y+20,'text-anchor':'end','font-size':13,fill:'#5b6875'},r.note))});svg.append(el('text',{x:x(1),y:40,'text-anchor':'middle','font-size':12,fill:'#5b6875'},'brak redukcji ryzyka'));})();
+(function(){const svg=document.getElementById('pathwayChart');if(!svg)return;const boxes=[
+{x:25,y:70,w:155,h:78,t:'Objawy rdzeniowe',s:'nieuwaga • impulsywność • nadruchliwość',c:'#2f6ea8'},
+{x:220,y:70,w:165,h:78,t:'Dysfunkcje wykonawcze',s:'planowanie • hamowanie • pamięć robocza',c:'#2f6ea8'},
+{x:425,y:35,w:175,h:78,t:'Ekspozycja na ryzyko',s:'używki • wypadki • konflikty',c:'#bb7723'},
+{x:425,y:160,w:175,h:78,t:'Niepowodzenia wtórne',s:'szkoła • praca • finanse • relacje',c:'#bb7723'},
+{x:650,y:70,w:145,h:78,t:'Kumulacja',s:'depresja • SUD • trauma • ubóstwo',c:'#bb7723'},
+{x:840,y:70,w:135,h:78,t:'Wyniki odległe',s:'zdrowie • dochody • jakość życia',c:'#9aa8b4'}];
+const lines=[[180,109,220,109],[385,109,425,74],[385,109,425,199],[600,74,650,109],[600,199,650,109],[795,109,840,109]];lines.forEach(([x1,y1,x2,y2])=>{svg.append(el('line',{x1,y1,x2,y2,stroke:'#81909d','stroke-width':2,'marker-end':'url(#arrowhead)'}))});const defs=el('defs');const m=el('marker',{id:'arrowhead',markerWidth:8,markerHeight:8,refX:7,refY:4,orient:'auto'});m.append(el('path',{d:'M0,0 L8,4 L0,8 z',fill:'#81909d'}));defs.append(m);svg.insertBefore(defs,svg.firstChild);boxes.forEach(b=>{svg.append(el('rect',{x:b.x,y:b.y,width:b.w,height:b.h,rx:12,fill:'#fff',stroke:b.c,'stroke-width':2}));svg.append(el('rect',{x:b.x,y:b.y,width:8,height:b.h,rx:4,fill:b.c}));svg.append(el('text',{x:b.x+18,y:b.y+28,'font-size':14,'font-weight':750,fill:'#203b55'},b.t));const words=b.s.split(' • ');words.forEach((w,i)=>svg.append(el('text',{x:b.x+18,y:b.y+49+i*16,'font-size':11.5,fill:'#5c6c7a'},(i?'• ':'')+w))) });svg.append(el('rect',{x:248,y:255,width:500,height:32,rx:16,fill:'#e7f3f2',stroke:'#157a78'}));svg.append(el('text',{x:498,y:276,'text-anchor':'middle','font-size':13,'font-weight':700,fill:'#126765'},'Punkty interwencji: leczenie objawów + środowisko + współchorobowość + wsparcie społeczne'));})();
+const evidence=[
+ ['Podstawowe objawy ADHD','Silne dowody krótkoterminowej poprawy',5],['Kontrola impulsów i zachowanie','Silne dowody objawowe; umiarkowane dla złożonych wyników życiowych',4],['Uzależnienia','Brak wzrostu ryzyka; możliwa redukcja zdarzeń podczas leczenia',3],['Przestępczość','Umiarkowanie silne dowody obserwacyjne na redukcję w okresach leczenia',4],['Wypadki transportowe','Prawdopodobna redukcja ryzyka',3],['Zachowania samobójcze','Prawdopodobna redukcja, głównie w badaniach rejestrowych',3],['Wyniki edukacyjne','Mała do umiarkowanej poprawa; mniejsza niż redukcja objawów',3],['Zatrudnienie i dochody','Możliwa poprawa; dane długoterminowe są słabsze',2],['Relacje i rodzina','Możliwa poprawa; potrzebne są także interwencje systemowe',2],['Recydywa','Dane ograniczone',1]
+];
+const tbody=document.getElementById('evidenceRows'); evidence.forEach(([area,desc,n])=>{const tr=document.createElement('tr');const dots=Array.from({length:5},(_,i)=>`<span class="dot ${i<n?'on':''}"></span>`).join('');tr.innerHTML=`<td>${area}</td><td>${desc}</td><td><div class="evidence"><div class="dots" aria-label="${n} na 5">${dots}</div></div></td>`;tbody.appendChild(tr)});
+const obs=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting)e.target.classList.add('visible')}),{threshold:.08});document.querySelectorAll('.reveal').forEach(x=>obs.observe(x));
+</script>
+</body></html>

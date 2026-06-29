@@ -239,7 +239,11 @@
     if (!role || !room) { game.innerHTML = '<h2>Brak aktywnej sesji</h2>'; return; }
     const questions = roomQuestions(room);
     const q = questions[room.qIndex];
-    const rankRows = ranking(room).map(([n,s],i)=>`<tr><td>${i+1}.</td><td>${esc(n)}</td><td>${s}</td></tr>`).join('') || '<tr><td colspan="3">Brak punktów</td></tr>';
+    if (!q && room.status !== 'finished') {
+      game.innerHTML = '<h2>Błąd: Brak pytania w sesji</h2><button onclick="location.reload()">Wyjdź</button>';
+      return;
+    }
+    const rankRows = ranking(room).map(([n,s],i)=>'<tr><td>' + (i+1) + '.</td><td>' + esc(n) + '</td><td>' + s + '</td></tr>').join('') || '<tr><td colspan="3">Brak punktów</td></tr>';
     const countdown = room.lockedAt ? Math.max(0, Math.ceil((room.lockedAt-now())/1000)) : '-';
     game.innerHTML = `
       <div class="split">

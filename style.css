@@ -1,180 +1,11 @@
 /* ═══════════════════════════════════════════
-   TOKENS
-═══════════════════════════════════════════ */
-:root {
-  --bg:      #09090f;
-  --bg2:     #0f0f18;
-  --bg3:     #16161f;
-  --bg4:     #1d1d28;
-  --border:  #252535;
-  --bord2:   #2e2e42;
-  --t1: #f0f0f8;
-  --t2: #b6b6d0;
-  --t3: #9c9cb8;
-  --gold:    #c9a227;
-  --goldt:   rgba(201,162,39,0.12);
-  --goldl:   #e5c158;
-  --blue:    #5b8cb8;
-  --teal:    #4a9b9b;
-  --rose:    #b86b7b;
-  --green:   #5a9e6f;
-  --purple:  #8b7ab8;
-  --serif: 'Crimson Pro', Georgia, serif;
-  --sans:  'Inter', system-ui, sans-serif;
-  --mono:  'JetBrains Mono', monospace;
-  --r: 10px;
-  --sw: 292px;   /* sidebar width */
-  --hh: 56px;    /* header height */
-  --ease: 0.18s ease;
-  --topbar-bg: rgba(9,9,15,.93);
-  --hover-subtle: rgba(255,255,255,.03);
-  /* Tokeny fokusu: wspólny ring dla elementów interaktywnych. */
-  --focus-ring: 0 0 0 2px rgba(201,162,39,.55);
-  --focus-bg: rgba(201,162,39,.14);
-  --focus-offset: 2px;
-  /* Skala spacing. */
-  --space-1: .25rem;
-  --space-2: .5rem;
-  --space-3: .75rem;
-  --space-4: 1rem;
-  --space-5: 1.5rem;
-  --space-6: 2rem;
-  /* Skala typography. */
-  --font-size-xs: .65rem;
-  --font-size-sm: .8rem;
-  --font-size-md: .9rem;
-  --font-size-lg: 1.1rem;
-  --font-size-xl: 1.35rem;
-}
-
-[data-theme="light"] {
-  --bg:      #f5f5f0;
-  --bg2:     #eeeeed;
-  --bg3:     #e6e5e0;
-  --bg4:     #dddcd6;
-  --border:  #cccbc4;
-  --bord2:   #bebdb6;
-  --t1: #1c1c2e;
-  --t2: #3f3f5a;
-  --t3: #555571;
-  --gold:    #a07a10;
-  --goldt:   rgba(160,122,16,0.1);
-  --goldl:   #c9a227;
-  --blue:    #2e6098;
-  --teal:    #2e7b7b;
-  --rose:    #993050;
-  --green:   #396b45;
-  --purple:  #5e4e96;
-  --topbar-bg: rgba(245,245,240,.93);
-  --hover-subtle: rgba(0,0,0,.04);
-  --focus-ring: 0 0 0 2px rgba(160,122,16,.45);
-  --focus-bg: rgba(160,122,16,.12);
-}
-
-[data-theme="sepia"] {
-  --bg:      #1a1510;
-  --bg2:     #221c14;
-  --bg3:     #2c241a;
-  --bg4:     #362c20;
-  --border:  #40321e;
-  --bord2:   #4e3e28;
-  --t1: #f0e8d8;
-  --t2: #d3bd98;
-  --t3: #b89d76;
-  --gold:    #d4a030;
-  --goldt:   rgba(212,160,48,0.14);
-  --goldl:   #e8bc5a;
-  --blue:    #7aaccc;
-  --teal:    #6ab8a0;
-  --rose:    #c88070;
-  --green:   #80a858;
-  --purple:  #a890c8;
-  --topbar-bg: rgba(26,21,16,.93);
-  --hover-subtle: rgba(255,255,255,.04);
-  --focus-ring: 0 0 0 2px rgba(232,188,90,.45);
-  --focus-bg: rgba(232,188,90,.14);
-}
-
-[data-theme="ocean"] {
-  --bg:      #07131c;
-  --bg2:     #0b1c28;
-  --bg3:     #102838;
-  --bg4:     #153447;
-  --border:  #1e4459;
-  --bord2:   #28546d;
-  --t1: #eef8ff;
-  --t2: #b7d3e5;
-  --t3: #87a8be;
-  --gold:    #56c9d9;
-  --goldt:   rgba(86,201,217,.14);
-  --goldl:   #89ecf4;
-  --blue:    #69aee8;
-  --teal:    #52c3b8;
-  --rose:    #d07b9e;
-  --green:   #69b88b;
-  --purple:  #8fa8f4;
-  --topbar-bg: rgba(7,19,28,.93);
-  --hover-subtle: rgba(255,255,255,.04);
-  --focus-ring: 0 0 0 2px rgba(86,201,217,.48);
-  --focus-bg: rgba(86,201,217,.14);
-}
-
-[data-theme="forest"] {
-  --bg:      #0d1510;
-  --bg2:     #132018;
-  --bg3:     #1a2a20;
-  --bg4:     #213427;
-  --border:  #2a4633;
-  --bord2:   #355640;
-  --t1: #eef8ef;
-  --t2: #c0d7c4;
-  --t3: #93b09a;
-  --gold:    #8ccd67;
-  --goldt:   rgba(140,205,103,.14);
-  --goldl:   #c9f29d;
-  --blue:    #7db7d8;
-  --teal:    #6ac2a2;
-  --rose:    #c87f91;
-  --green:   #8ccd67;
-  --purple:  #a891e0;
-  --topbar-bg: rgba(13,21,16,.93);
-  --hover-subtle: rgba(255,255,255,.035);
-  --focus-ring: 0 0 0 2px rgba(140,205,103,.44);
-  --focus-bg: rgba(140,205,103,.13);
-}
-
-[data-theme="sunset"] {
-  --bg:      #1f1110;
-  --bg2:     #2a1714;
-  --bg3:     #36201c;
-  --bg4:     #442722;
-  --border:  #55322d;
-  --bord2:   #69413a;
-  --t1: #fff1ea;
-  --t2: #e2c3b8;
-  --t3: #bc988a;
-  --gold:    #ff9b4d;
-  --goldt:   rgba(255,155,77,.14);
-  --goldl:   #ffc98c;
-  --blue:    #7bb4e8;
-  --teal:    #6ec3c6;
-  --rose:    #f08fa0;
-  --green:   #96c77e;
-  --purple:  #c08ef0;
-  --topbar-bg: rgba(31,17,16,.93);
-  --hover-subtle: rgba(255,255,255,.04);
-  --focus-ring: 0 0 0 2px rgba(255,155,77,.46);
-  --focus-bg: rgba(255,155,77,.14);
-}
-
-/* ═══════════════════════════════════════════
    LAYOUT + RESET
 ═══════════════════════════════════════════ */
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
-html{scroll-behavior:smooth;font-size:15px}
+html{scroll-behavior:smooth;font-size:var(--root-font-size)}
 body{font-family:var(--sans);background:var(--bg);color:var(--t1);line-height:1.7;overflow-x:hidden}
-[data-font-scale="large"]{font-size:17px}
-[data-font-scale="xlarge"]{font-size:19px}
+[data-font-scale="large"]{font-size:var(--root-font-size-large)}
+[data-font-scale="xlarge"]{font-size:var(--root-font-size-xlarge)}
 a{color:var(--blue);text-decoration:none}
 a:hover{text-decoration:underline}
 strong{color:var(--t1);font-weight:600}
@@ -1351,3 +1182,18 @@ em{color:var(--goldl)}
 }
 .kahoot-module-frame-wrap{margin-top:1rem;border:1px solid var(--border);border-radius:var(--r);overflow:hidden;background:var(--bg2)}
 .kahoot-module-frame{display:block;width:100%;min-height:78vh;border:0;background:#fff}
+
+/* Pełnoekranowy tryb modułu wspólnej gry: pozwala schować boczny panel artykułów podczas prowadzenia zajęć. */
+.kahoot-view-actions{display:flex;gap:.65rem;flex-wrap:wrap;margin-top:1rem}
+.kahoot-sidebar-toggle{
+  border:1px solid var(--border);background:var(--bg3);color:var(--t1);border-radius:999px;
+  padding:.48rem .9rem;font-weight:700;cursor:pointer;transition:border-color var(--ease),background var(--ease),transform var(--ease)
+}
+.kahoot-sidebar-toggle:hover{border-color:var(--gold);background:var(--goldt);transform:translateY(-1px)}
+body.sidebar-collapsed .sidebar{transform:translateX(-100%)}
+body.sidebar-collapsed .main{margin-left:0}
+body.sidebar-collapsed .prog-bar{left:0}
+body.sidebar-collapsed .kahoot-module-frame{min-height:82vh}
+@media (max-width: 900px){
+  body.sidebar-collapsed .sidebar{transform:translateX(-100%)}
+}

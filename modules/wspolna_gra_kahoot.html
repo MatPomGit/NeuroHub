@@ -4,78 +4,180 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>PsyHub Live Quiz — wspólna rywalizacja testowa</title>
+  <link rel="stylesheet" href="../design-tokens.css" />
   <style>
-    :root{--bg:#0b1220;--card:#15243a;--line:#31455e;--txt:#e7eef7;--muted:#98abc2;--acc:#4fb3ff;--ok:#38d39f;--warn:#f4b740}
-    *{box-sizing:border-box} body{margin:0;font-family:Inter,Segoe UI,Arial,sans-serif;background:var(--bg);color:var(--txt)}
-    .wrap{max-width:1100px;margin:0 auto;padding:24px}.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px;margin-bottom:16px}
-    h1,h2,h3{margin:.2rem 0 .8rem} .muted{color:var(--muted)} .grid{display:grid;gap:12px}
-    .g2{grid-template-columns:repeat(auto-fit,minmax(250px,1fr))} .actions{display:flex;gap:8px;flex-wrap:wrap}
-    input,select,textarea,button{font:inherit}
-    input,select{width:100%;background:#0f1a2d;color:var(--txt);border:1px solid var(--line);border-radius:9px;padding:.6rem .7rem}
-    button{cursor:pointer;border:1px solid var(--acc);background:#0f1a2d;color:var(--txt);border-radius:10px;padding:.55rem .9rem}
-    button.primary{background:linear-gradient(90deg,#2f7ee5,#4fb3ff)} button.ok{border-color:var(--ok)} button.warn{border-color:var(--warn)}
-    button:disabled{opacity:.45;cursor:not-allowed}
-    .pill{display:inline-block;padding:.2rem .5rem;border:1px solid var(--line);border-radius:999px;color:var(--muted);font-size:.86rem}
-    .opts{display:grid;grid-template-columns:1fr 1fr;gap:10px}.opt{padding:.9rem;border:1px solid var(--line);border-radius:10px;background:#0f1a2d;text-align:left}
-    .opt.sel{border-color:var(--acc);box-shadow:0 0 0 1px rgba(79,179,255,.35)}
-    table{width:100%;border-collapse:collapse} td,th{padding:.45rem;border-bottom:1px solid var(--line);text-align:left}
-    code{background:#0f1a2d;padding:.08rem .35rem;border-radius:6px}
+    *{box-sizing:border-box}
+    body{margin:0;font-family:var(--sans);background:
+      radial-gradient(circle at 12% 0%,rgba(91,192,255,.24),transparent 34%),
+      radial-gradient(circle at 86% 12%,rgba(124,92,255,.22),transparent 36%),var(--kahoot-bg);color:var(--kahoot-txt);min-height:100vh}
+    .wrap{max-width:1180px;margin:0 auto;padding:28px}
+    .card{background:linear-gradient(180deg,var(--kahoot-card),rgba(13,27,47,.92));border:1px solid var(--kahoot-line);border-radius:24px;padding:22px;margin-bottom:18px;box-shadow:var(--kahoot-shadow)}
+    .hero{position:relative;overflow:hidden;padding:30px}.hero:after{content:"";position:absolute;right:-90px;top:-100px;width:280px;height:280px;border-radius:50%;background:rgba(91,192,255,.16);filter:blur(4px)}
+    .eyebrow{display:inline-flex;gap:.45rem;align-items:center;padding:.28rem .65rem;border:1px solid rgba(91,192,255,.35);border-radius:999px;color:#bfe8ff;background:rgba(91,192,255,.12);font-size:var(--kahoot-font-eyebrow);font-weight:700;letter-spacing:.04em;text-transform:uppercase}
+    h1,h2,h3{margin:.2rem 0 .8rem;line-height:1.15} h1{font-size:var(--kahoot-font-hero);letter-spacing:-.06em;max-width:780px} h2{font-size:var(--kahoot-font-h2)} h3{font-size:var(--kahoot-font-h3)}.muted{color:var(--kahoot-muted)}
+    .lead{font-size:var(--kahoot-font-lead);max-width:780px;color:#c7d7ea}.grid{display:grid;gap:14px}.g2{grid-template-columns:repeat(auto-fit,minmax(270px,1fr))}.g3{grid-template-columns:repeat(auto-fit,minmax(210px,1fr))}
+    .actions{display:flex;gap:10px;flex-wrap:wrap;align-items:center}.split{display:flex;justify-content:space-between;gap:1rem;align-items:center;flex-wrap:wrap}
+    input,select,textarea,button{font:inherit} label{display:grid;gap:.42rem;margin:.7rem 0;color:#d7e5f5;font-weight:650}
+    input,select{width:100%;background:#0b1729;color:var(--kahoot-txt);border:1px solid var(--kahoot-line);border-radius:14px;padding:.78rem .9rem;outline:none} input:focus{border-color:var(--kahoot-acc);box-shadow:0 0 0 4px rgba(91,192,255,.12)}
+    button{cursor:pointer;border:1px solid var(--kahoot-line);background:#101f34;color:var(--kahoot-txt);border-radius:14px;padding:.72rem 1rem;font-weight:800;transition:.18s transform,.18s border-color,.18s background} button:hover:not(:disabled){transform:translateY(-1px);border-color:rgba(91,192,255,.65)}
+    button.primary{background:linear-gradient(135deg,#2f7ee5,#5bc0ff);border-color:transparent;color:#fff} button.ok{border-color:rgba(56,211,159,.6);background:rgba(56,211,159,.12)} button.warn{border-color:rgba(244,183,64,.65);background:rgba(244,183,64,.12)} button:disabled{opacity:.45;cursor:not-allowed;transform:none}
+    .pill{display:inline-flex;align-items:center;gap:.35rem;padding:.35rem .7rem;border:1px solid var(--kahoot-line);border-radius:999px;color:#cfe3f7;background:rgba(255,255,255,.045);font-size:var(--kahoot-font-pill)}.stat{padding:16px;border:1px solid var(--kahoot-line);border-radius:18px;background:var(--kahoot-card2)}.stat b{display:block;font-size:var(--kahoot-font-stat);color:#fff}
+    .opts{display:grid;grid-template-columns:1fr 1fr;gap:12px}.opt{padding:1rem;border:1px solid var(--kahoot-line);border-radius:18px;background:#0f1a2d;text-align:left;min-height:74px}.opt.sel{border-color:var(--kahoot-acc);box-shadow:0 0 0 3px rgba(91,192,255,.18)}
+    table{width:100%;border-collapse:collapse} td,th{padding:.65rem;border-bottom:1px solid var(--kahoot-line);text-align:left} code{background:#08111f;padding:.14rem .45rem;border-radius:8px;color:#d8f1ff}
+    .host-console{border:1px solid rgba(91,192,255,.28);background:linear-gradient(180deg,rgba(91,192,255,.1),rgba(255,255,255,.035));border-radius:20px;padding:16px}.pin-box{font-size:var(--kahoot-font-pin);letter-spacing:.12em;font-weight:900;color:#fff;text-shadow:0 0 22px rgba(91,192,255,.45)}
+    .timeline{display:grid;gap:10px;margin-top:12px}.step{display:flex;gap:.75rem;padding:12px;border-radius:16px;background:rgba(255,255,255,.045);border:1px solid var(--kahoot-line)}.step-num{width:28px;height:28px;border-radius:50%;display:grid;place-items:center;background:rgba(91,192,255,.18);color:#cfeeff;font-weight:900;flex:0 0 auto}
+    @media(max-width:640px){.wrap{padding:16px}.card{border-radius:18px;padding:16px}.opts{grid-template-columns:1fr}.hero{padding:22px}}
   </style>
 </head>
 <body>
 <main class="wrap">
-  <section class="card">
-    <h1>PsyHub Live Quiz</h1>
-    <p class="muted">Niezależny moduł wspólnego testowania (analogiczny do Kahoot): prowadzący uruchamia pokój, studenci dołączają kodem PIN i rywalizują na punkty za poprawność oraz szybkość odpowiedzi.</p>
+  <section class="card hero">
+    <span class="eyebrow">PsyHub Live Quiz</span>
+    <h1>Wspólna rywalizacja testowa w rytmie zajęć</h1>
+    <p class="lead">Prowadzący uruchamia pokój, studenci dołączają kodem PIN, a cała grupa dostaje czytelny ranking oraz krótkie omówienie odpowiedzi. Interfejs jest przygotowany zarówno na rzutnik, jak i na telefony uczestników.</p>
     <div class="actions">
-      <span class="pill">Tryb hosta i uczestnika</span>
-      <span class="pill">Ranking na żywo</span>
-      <span class="pill">Punktacja czasowa</span>
+      <span class="pill">🎓 panel prowadzącego</span>
+      <span class="pill">⚡ ranking na żywo</span>
+      <span class="pill">⏱ premia za szybkość</span>
     </div>
+  </section>
+
+  <section class="grid g3" aria-label="Instrukcja szybkiego startu">
+    <div class="stat"><b>1</b><span>Utwórz pokój i pokaż PIN grupie.</span></div>
+    <div class="stat"><b>2</b><span>Studenci wpisują nick oraz kod pokoju.</span></div>
+    <div class="stat"><b>3</b><span>Po każdej rundzie krótko omów wynik.</span></div>
   </section>
 
   <section class="card grid g2" id="lobby"></section>
   <section class="card" id="game" style="display:none"></section>
 </main>
 
+<script src="../theoretical-test.js"></script>
 <script>
 (() => {
   const KEY_PREFIX = 'psyhub_live_quiz_room_';
-  const QUESTIONS = [
-    {q:'Który płat mózgu odpowiada głównie za funkcje wykonawcze?', options:['Potyliczny','Czołowy','Skroniowy','Ciemieniowy'], correct:1},
-    {q:'Najsilniej potwierdzona interwencja pierwszego wyboru w PTSD to:', options:['CBT z ekspozycją','Witamina D','Hipnoza regresyjna','Trening szybkości czytania'], correct:0},
-    {q:'Efekt placebo jest:', options:['Wyłącznie oszustwem','Zjawiskiem psychobiologicznym','Tożsamy z remisją','Nieważny klinicznie'], correct:1},
-    {q:'W badaniach RCT randomizacja służy głównie do:', options:['Zwiększenia próby','Kontroli zmiennych zakłócających','Skrócenia badania','Ukrycia hipotezy'], correct:1}
-  ];
-
+  const DEFAULT_COUNT = 15;
   const $ = (sel) => document.querySelector(sel);
-  const esc = (t) => String(t||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/\"/g,'&quot;');
+  const esc = (t) => String(t||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
   const lobby = $('#lobby');
   const game = $('#game');
-  let state = null;
+  let setup = { topicKey: null, count: DEFAULT_COUNT, lockedFromTheory: false };
+  let topicCatalog = [];
+  let preparedQuestions = [];
+  let preparedTopic = null;
 
   function pin(){ return String(Math.floor(100000 + Math.random()*900000)); }
   function now(){ return Date.now(); }
   function roomKey(id){ return KEY_PREFIX + id; }
-  function readRoom(id){ const raw = localStorage.getItem(roomKey(id)); return raw ? JSON.parse(raw) : null; }
+  function readRoom(id){
+    try {
+      const raw = localStorage.getItem(roomKey(id));
+      return raw ? JSON.parse(raw) : null;
+    } catch (e) {
+      console.error('Błąd podczas parsowania danych pokoju z localStorage:', e);
+      return null;
+    }
+  }
   function saveRoom(room){ localStorage.setItem(roomKey(room.pin), JSON.stringify(room)); }
+  function shuffle(arr){ return [...arr].sort(() => Math.random() - 0.5); }
+  function roomQuestions(room){ return Array.isArray(room.questions) && room.questions.length ? room.questions : preparedQuestions; }
+  function topicFile(topic){ return topic.file.startsWith('../') ? topic.file : '../' + topic.file; }
 
-  function baseRoom(host){ return { pin: pin(), host, createdAt: now(), status:'lobby', qIndex:0, startedAt:null, lockedAt:null, players:[], answers:{}, scores:{} }; }
+  function buildCatalog(){
+    const cfg = window.THEORETICAL_TEST || {};
+    const categories = cfg.categories || { theoretical: cfg.topics || [] };
+    return Object.values(categories).flat().filter(Boolean);
+  }
+
+  async function loadQuestions(topicKey, count){
+    const topic = topicCatalog.find(t => t.key === topicKey) || topicCatalog[0];
+    if (!topic) throw new Error('Brak kategorii pytań.');
+    const response = await fetch(topicFile(topic));
+    if (!response.ok) throw new Error('HTTP ' + response.status);
+    const data = await response.json();
+    if (!Array.isArray(data)) throw new Error('Dane pytań nie są tablicą.');
+    const selected = shuffle(data).slice(0, Math.max(1, Number(count) || DEFAULT_COUNT)).map(q => ({
+      q: q.question || q.q,
+      options: q.options,
+      correct: q.correct,
+      justification: q.justification || ''
+    }));
+    preparedQuestions = selected;
+    preparedTopic = topic;
+    return selected;
+  }
+
+  function baseRoom(host){
+    return {
+      pin: pin(), host, createdAt: now(), status:'lobby', qIndex:0, startedAt:null, lockedAt:null,
+      players:[], answers:{}, scores:{}, questions: preparedQuestions, topicLabel: preparedTopic?.label || 'Wybrany temat'
+    };
+  }
+
+  async function renderSetup(){
+    topicCatalog = buildCatalog();
+    const fromTheory = sessionStorage.getItem('psyhub_kahoot_source') === 'theoretical_test';
+    setup.topicKey = sessionStorage.getItem('psyhub_kahoot_topic') || topicCatalog[0]?.key || null;
+    setup.count = Number(sessionStorage.getItem('psyhub_kahoot_count')) || DEFAULT_COUNT;
+    setup.lockedFromTheory = fromTheory && Boolean(setup.topicKey);
+
+    if (setup.lockedFromTheory) {
+      sessionStorage.removeItem('psyhub_kahoot_source');
+      await loadQuestions(setup.topicKey, setup.count);
+      renderLobby();
+      return;
+    }
+
+    const topicOptions = topicCatalog.map(topic => `<option value="${esc(topic.key)}" ${topic.key === setup.topicKey ? 'selected' : ''}>${esc(topic.label)}</option>`).join('');
+    lobby.innerHTML = `
+      <div class="host-console">
+        <span class="eyebrow">Konfiguracja gry</span>
+        <h2>Wybierz kategorię pytań</h2>
+        <p class="muted">Przy bezpośrednim wejściu do modułu prowadzący sam wybiera temat i liczbę pytań. Start z poziomu testów teoretycznych pomija ten krok i używa wybranego tam tematu.</p>
+        <label>Kategoria tematyczna <select id="kahootTopic">${topicOptions}</select></label>
+        <label>Liczba pytań <select id="kahootCount">
+          <option value="5" ${setup.count===5?'selected':''}>5 pytań</option>
+          <option value="10" ${setup.count===10?'selected':''}>10 pytań</option>
+          <option value="15" ${setup.count===15?'selected':''}>15 pytań</option>
+          <option value="30" ${setup.count===30?'selected':''}>30 pytań</option>
+        </select></label>
+        <div class="actions"><button class="primary" id="prepareGame">Przygotuj pokój gry</button></div>
+      </div>`;
+    $('#prepareGame').onclick = async () => {
+      try {
+        setup.topicKey = $('#kahootTopic').value;
+        setup.count = Number($('#kahootCount').value);
+        await loadQuestions(setup.topicKey, setup.count);
+        renderLobby();
+      } catch (err) {
+        alert('Nie udało się przygotować gry: ' + err.message);
+      }
+    };
+  }
 
   function renderLobby(){
+    const topicNote = preparedTopic ? `<span class="pill">Temat: ${esc(preparedTopic.label)}</span><span class="pill">Pytania: ${preparedQuestions.length}</span>` : '';
+    lobby.style.display='grid';
+    game.style.display='none';
     lobby.innerHTML = `
-      <div>
-        <h2>Host (prowadzący)</h2>
+      <div class="host-console">
+        <span class="eyebrow">Start sesji</span>
+        <h2>Panel prowadzącego</h2>
+        <p class="muted">Utwórz pokój, wyświetl PIN na ekranie i kontroluj tempo rund. Najlepiej zaplanować krótkie omówienie po każdej odpowiedzi.</p>
+        <div class="actions">${topicNote}</div>
         <label>Nazwa prowadzącego <input id="hostName" placeholder="np. Dr Kowalski"></label>
-        <div class="actions"><button class="primary" id="createRoom">Utwórz pokój quizu</button></div>
+        <div class="actions"><button class="primary" id="createRoom">Utwórz pokój i pokaż PIN</button>${setup.lockedFromTheory ? '' : '<button id="changeSetup">Zmień kategorię</button>'}</div>
       </div>
       <div>
-        <h2>Student (uczestnik)</h2>
-        <label>Imię/Nick <input id="playerName" placeholder="np. Ola"></label>
-        <label>Kod PIN pokoju <input id="joinPin" maxlength="6" placeholder="6 cyfr"></label>
+        <span class="eyebrow">Dołączanie</span>
+        <h2>Panel uczestnika</h2>
+        <p class="muted">Wpisz nick widoczny w rankingu oraz sześciocyfrowy kod przekazany przez prowadzącego.</p>
+        <label>Imię lub nick <input id="playerName" maxlength="25" placeholder="np. Ola"></label>
+        <label>Kod PIN pokoju <input id="joinPin" inputmode="numeric" maxlength="6" placeholder="6 cyfr"></label>
         <div class="actions"><button class="ok" id="joinRoom">Dołącz do pokoju</button></div>
       </div>`;
-
+    const changeSetup = $('#changeSetup');
+    if (changeSetup) changeSetup.onclick = renderSetup;
     $('#createRoom').onclick = () => {
       const host = $('#hostName').value.trim() || 'Prowadzący';
       const room = baseRoom(host);
@@ -85,7 +187,6 @@
       sessionStorage.setItem('psyhub_pin', room.pin);
       openGame();
     };
-
     $('#joinRoom').onclick = () => {
       const name = $('#playerName').value.trim();
       const p = $('#joinPin').value.trim();
@@ -111,7 +212,7 @@
   }
 
   function closeQuestion(room){
-    const q = QUESTIONS[room.qIndex];
+    const q = roomQuestions(room)[room.qIndex];
     const answerSet = room.answers[room.qIndex] || {};
     Object.entries(answerSet).forEach(([player, data]) => {
       if (data.choice === q.correct) {
@@ -123,23 +224,13 @@
   }
 
   function nextQuestion(room){
-    if (room.qIndex >= QUESTIONS.length - 1) {
-      room.status = 'finished';
-    } else {
-      room.qIndex += 1;
-      startQuestion(room);
-    }
+    const questions = roomQuestions(room);
+    if (room.qIndex >= questions.length - 1) room.status = 'finished';
+    else { room.qIndex += 1; startQuestion(room); }
   }
 
-  function ranking(room){
-    return Object.entries(room.scores).sort((a,b)=>b[1]-a[1]);
-  }
-
-  function openGame(){
-    lobby.style.display='none';
-    game.style.display='block';
-    refresh();
-  }
+  function ranking(room){ return Object.entries(room.scores).sort((a,b)=>b[1]-a[1]); }
+  function openGame(){ lobby.style.display='none'; game.style.display='block'; refresh(); }
 
   function refresh(){
     const role = sessionStorage.getItem('psyhub_role');
@@ -147,28 +238,35 @@
     const p = sessionStorage.getItem('psyhub_pin');
     const room = readRoom(p);
     if (!role || !room) { game.innerHTML = '<h2>Brak aktywnej sesji</h2>'; return; }
-    state = room;
-    const q = QUESTIONS[room.qIndex];
-    const rankRows = ranking(room).map(([n,s],i)=>`<tr><td>${i+1}.</td><td>${esc(n)}</td><td>${s}</td></tr>`).join('') || '<tr><td colspan="3">Brak punktów</td></tr>';
+    const questions = roomQuestions(room);
+    const q = questions[room.qIndex];
+    if (!q && room.status !== 'finished') {
+      game.innerHTML = '<h2>Błąd: Brak pytania w sesji</h2><button onclick="location.reload()">Wyjdź</button>';
+      return;
+    }
+    const rankRows = ranking(room).map(([n,s],i)=>'<tr><td>' + (i+1) + '.</td><td>' + esc(n) + '</td><td>' + s + '</td></tr>').join('') || '<tr><td colspan="3">Brak punktów</td></tr>';
     const countdown = room.lockedAt ? Math.max(0, Math.ceil((room.lockedAt-now())/1000)) : '-';
-
     game.innerHTML = `
-      <div class="actions" style="justify-content:space-between">
-        <div><strong>PIN:</strong> <code>${room.pin}</code> · <strong>Rola:</strong> ${role === 'host' ? 'Host' : 'Student'} · <strong>Pytanie:</strong> ${room.qIndex+1}/${QUESTIONS.length}</div>
-        <button onclick="location.reload()">Wyjdź</button>
+      <div class="split">
+        <div>
+          <span class="pill">Rola: ${role === 'host' ? 'prowadzący' : 'uczestnik'}</span>
+          <span class="pill">Temat: ${esc(room.topicLabel || 'wybrany')}</span>
+          <span class="pill">Pytanie ${room.qIndex+1}/${questions.length}</span>
+          <span class="pill">Status: ${room.status}</span>
+        </div>
+        <button onclick="location.reload()">Wyjdź z sesji</button>
       </div>
       <div class="grid g2">
         <div>
           <h3>Gra</h3>
           <p class="muted">Status: <strong>${room.status}</strong> ${room.status==='question' ? '· Czas: '+countdown+' s' : ''}</p>
-          ${renderRolePanel(role, name, room, q)}
+          ${renderRolePanel(role, name, room, q, questions.length)}
         </div>
         <div>
           <h3>Ranking</h3>
           <table><thead><tr><th>#</th><th>Student</th><th>Punkty</th></tr></thead><tbody>${rankRows}</tbody></table>
         </div>
       </div>`;
-
     bindActions(role, name, room);
   }
 
@@ -178,31 +276,34 @@
       const canClose = room.status === 'question';
       const canNext = room.status === 'results';
       return `
-        <p><strong>Prowadzący:</strong> ${esc(room.host)}</p>
-        <p><strong>Uczestnicy:</strong> ${room.players.map(esc).join(', ') || 'brak'}</p>
-        <p><strong>Pytanie:</strong> ${q.q}</p>
-        <div class="actions">
-          <button class="primary" id="startQ" ${!canStart?'disabled':''}>Start gry</button>
-          <button class="warn" id="closeQ" ${!canClose?'disabled':''}>Zamknij pytanie</button>
-          <button class="ok" id="nextQ" ${!canNext?'disabled':''}>Następne pytanie</button>
+        <div class="host-console">
+          <p class="muted">Kod dla grupy</p>
+          <div class="pin-box">${room.pin}</div>
+          <p><strong>Prowadzący:</strong> ${esc(room.host)}</p>
+          <p><strong>Uczestnicy:</strong> ${room.players.map(esc).join(', ') || 'brak. Poproś grupę o dołączenie przed startem.'}</p>
+          <p><strong>Aktualne pytanie:</strong> ${esc(q.q)}</p>
+          <div class="actions">
+            <button class="primary" id="startQ" ${!canStart?'disabled':''}>Rozpocznij pierwsze pytanie</button>
+            <button class="warn" id="closeQ" ${!canClose?'disabled':''}>Zamknij pytanie i pokaż wynik</button>
+            <button class="ok" id="nextQ" ${!canNext?'disabled':''}>Przejdź do następnego pytania</button>
+          </div>
+          <div class="timeline" aria-label="Dobre praktyki moderatora">
+            <div class="step"><span class="step-num">1</span><span>Przed startem sprawdź, czy każdy widzi PIN i rozumie punktację.</span></div>
+            <div class="step"><span class="step-num">2</span><span>Po zamknięciu pytania omów poprawną odpowiedź, nie tylko ranking.</span></div>
+            <div class="step"><span class="step-num">3</span><span>Najczęstszy błąd: zbyt szybkie przechodzenie dalej bez wyjaśnienia mechanizmu.</span></div>
+          </div>
         </div>`;
     }
-
     if (room.status === 'question') {
       const already = (room.answers[room.qIndex]||{})[name];
-      const opts = q.options.map((opt,i)=>`<button class="opt ${already&&already.choice===i?'sel':''}" data-choice="${i}">${i+1}. ${opt}</button>`).join('');
-      return `<p><strong>${q.q}</strong></p><div class="opts">${opts}</div><p class="muted">Punkty za pytanie: 500 + premia za szybkość (maks. ok. 500).</p>`;
+      const opts = q.options.map((opt,i)=>`<button class="opt ${already&&already.choice===i?'sel':''}" data-choice="${i}">${i+1}. ${esc(opt)}</button>`).join('');
+      return `<p><strong>${esc(q.q)}</strong></p><div class="opts">${opts}</div><p class="muted">Punkty za pytanie: 500 + premia za szybkość (maks. ok. 500).</p>`;
     }
-
     if (room.status === 'results') {
       const correct = q.options[q.correct];
-      return `<p>Poprawna odpowiedź: <strong>${correct}</strong></p><p class="muted">Czekaj na kolejne pytanie od prowadzącego.</p>`;
+      return `<p>Poprawna odpowiedź: <strong>${esc(correct)}</strong></p>${q.justification ? `<p class="muted">${esc(q.justification)}</p>` : '<p class="muted">Czekaj na kolejne pytanie od prowadzącego.</p>'}`;
     }
-
-    if (room.status === 'finished') {
-      return '<p><strong>Koniec gry.</strong> Możesz dołączyć do nowego pokoju z nowym PIN.</p>';
-    }
-
+    if (room.status === 'finished') return '<p><strong>Koniec gry.</strong> Możesz dołączyć do nowego pokoju z nowym PIN.</p>';
     return '<p class="muted">Czekaj na rozpoczęcie gry przez prowadzącego.</p>';
   }
 
@@ -226,10 +327,7 @@
     });
   }
 
-  window.addEventListener('storage', (e) => {
-    if (e.key && e.key.startsWith(KEY_PREFIX)) refresh();
-  });
-
+  window.addEventListener('storage', (e) => { if (e.key && e.key.startsWith(KEY_PREFIX)) refresh(); });
   setInterval(() => {
     const p = sessionStorage.getItem('psyhub_pin');
     if (!p) return;
@@ -241,7 +339,9 @@
     refresh();
   }, 1000);
 
-  renderLobby();
+  renderSetup().catch(err => {
+    lobby.innerHTML = `<div class="host-console"><h2>Nie udało się przygotować gry</h2><p class="muted">${esc(err.message)}</p></div>`;
+  });
 })();
 </script>
 </body>

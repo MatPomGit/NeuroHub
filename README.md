@@ -2,6 +2,15 @@
 
 PsyHub to uporządkowana baza wiedzy, która pomaga studiować psychologię w sposób systematyczny: od definicji po zastosowania praktyczne. Serwis łączy artykuły wiki, słownik pojęć oraz wybrane materiały interaktywne.
 
+## Struktura repozytorium
+
+- Katalog wiki/ zawiera artykuły Markdown pogrupowane tematycznie.
+- Katalogi pages/, modules/ i assets/ zawierają strony, moduły interaktywne oraz zasoby statyczne.
+- Katalogi narzedzia_psychometryczne/ i tests/ przechowują dane katalogowe oraz zestawy pytań.
+- Katalog tools/ skupia skrypty kontrolne i pomocnicze, a docs/ dokumentację utrzymaniową.
+
+Podstawową walidację zapewniają skrypty run-node-tests.js, check_content.js i check_config.py z katalogu tools/.
+
 ## Dla kogo jest ta strona?
 
 - dla studentów psychologii (I i II stopień),

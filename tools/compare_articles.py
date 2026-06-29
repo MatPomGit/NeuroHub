@@ -1,9 +1,12 @@
 #!/usr/bin/env python3
 import re
 import os
+from pathlib import Path
+
+REPO_ROOT = Path(__file__).resolve().parent.parent
 
 # Wczytaj site-config.js
-with open('site-config.js', 'r', encoding='utf-8') as f:
+with (REPO_ROOT / 'site-config.js').open('r', encoding='utf-8') as f:
     config_content = f.read()
 
 # Wyszukaj wszystkie wpisy file: w konfigu
@@ -16,11 +19,11 @@ print(f'Artykuły wymienione w site-config.js: {len(referenced_files)}')
 
 # Wygeneruj listę artykułów z wiki
 wiki_articles = set()
-for root, dirs, files in os.walk('wiki'):
+for root, dirs, files in os.walk(REPO_ROOT / 'wiki'):
     for file in files:
         if file.endswith('.md'):
             path = os.path.join(root, file)
-            relative_path = path.replace(os.sep, '/')
+            relative_path = Path(path).relative_to(REPO_ROOT).as_posix()
             wiki_articles.add(relative_path)
 
 print(f'Artykuły w wiki: {len(wiki_articles)}')

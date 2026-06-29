@@ -31,7 +31,7 @@ window.SITE_CONFIG = {
   //     effectSizeInfo, sourceRefs.
   //  2) Wartosci pol type/evidenceLevel/license/evidenceType musza pochodzic
   //     ze slownika.
-  //  3) Dla domen bez opracowanych wpisow uzywamy listy TODO w `docs/TODO.md` oraz listy todoDomains.
+  //  3) Dla domen bez opracowanych wpisow uzywamy listy TODO w `docs/todo.md` oraz listy todoDomains.
   //  4) Pole primarySourceYear zapisujemy jako rok (YYYY) pierwszej publikacji
   //     wersji bazowej narzedzia; jesli w projekcie narzedzie jest definiowane
   //     przez oficjalna rewizje (np. ADOS-2, DIVA-5), wpisujemy rok tej rewizji.
@@ -408,6 +408,7 @@ window.SITE_CONFIG = {
         { id: 'neuro/anatomia',                          label: 'Anatomia mozgu',                          file: 'wiki/neuropsychologia/anatomia.md'              },
         { id: 'neuro/neuron',                            label: 'Neuron i synapsa',                        file: 'wiki/neuropsychologia/neuron.md'                },
         { id: 'neuro/systemy',                           label: 'Uklady i sieci',                          file: 'wiki/neuropsychologia/systemy.md'               },
+        { id: 'neuro/agregaty_neuronalne',               label: 'Agregaty neuronalne',                    file: 'wiki/neuropsychologia/agregaty_neuronalne.md'   },
         { id: 'neuro/myelinizacja',                      label: 'Mielinizacja i istota biala',             file: 'wiki/neuropsychologia/myelinizacja.md'          },
         { id: 'neuro/plastycznosc',                      label: 'Neuroplastycznosc',                       file: 'wiki/neuropsychologia/plastycznosc.md'          },
         { id: 'neuro/neuroobrazowanie',                  label: 'Neuroobrazowanie (fMRI, DTI)',             file: 'wiki/neuropsychologia/neuroobrazowanie.md'     },
@@ -1340,6 +1341,7 @@ window.SITE_CONFIG = {
       { file: 'wiki/neuropsychologia/anatomia.md',    label: 'Anatomia mozgu',             status: 'live' },
       { file: 'wiki/neuropsychologia/neuron.md',      label: 'Neuron i synapsa',           status: 'live' },
       { file: 'wiki/neuropsychologia/systemy.md',     label: 'Uklady i sieci mozgowe',     status: 'live' },
+      { file: 'wiki/neuropsychologia/agregaty_neuronalne.md', label: 'Agregaty neuronalne', status: 'live' },
       { file: 'wiki/neuropsychologia/myelinizacja.md',label: 'Mielinizacja i istota biala',status: 'live' },
       { file: 'wiki/neuropsychologia/plastycznosc.md',label: 'Neuroplastycznosc',          status: 'live' },
       { file: 'wiki/neuropsychologia/neuroobrazowanie.md', label: 'Neuroobrazowanie (fMRI, DTI)', status: 'live' },

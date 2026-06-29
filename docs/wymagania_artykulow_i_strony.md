@@ -30,5 +30,5 @@ Dokument porządkuje wymagania redakcyjne i techniczne, które powinny być spe�
 
 ## 4) Wymagania procesowe
 
-1. Plik `docs/TODO.md` jest główną listą prac i decyzji do weryfikacji.
+1. Plik `docs/todo.md` jest główną listą prac i decyzji do weryfikacji.
 2. Opisy zmian w PR powinny zawierać: zakres, wyniki walidacji, ryzyka i ograniczenia.

@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
 import re
+from pathlib import Path
 
-with open('site-config.js', 'r', encoding='utf-8') as f:
+REPO_ROOT = Path(__file__).resolve().parent.parent
+
+with (REPO_ROOT / 'site-config.js').open('r', encoding='utf-8') as f:
     config_content = f.read()
 
 # Szukaj sekcji 'resocjalizacja' i 'systemy_rodzinne'

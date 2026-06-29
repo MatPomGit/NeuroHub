@@ -69,7 +69,15 @@
   function pin(){ return String(Math.floor(100000 + Math.random()*900000)); }
   function now(){ return Date.now(); }
   function roomKey(id){ return KEY_PREFIX + id; }
-  function readRoom(id){ const raw = localStorage.getItem(roomKey(id)); return raw ? JSON.parse(raw) : null; }
+  function readRoom(id){
+    try {
+      const raw = localStorage.getItem(roomKey(id));
+      return raw ? JSON.parse(raw) : null;
+    } catch (e) {
+      console.error('Błąd podczas parsowania danych pokoju z localStorage:', e);
+      return null;
+    }
+  }
   function saveRoom(room){ localStorage.setItem(roomKey(room.pin), JSON.stringify(room)); }
   function shuffle(arr){ return [...arr].sort(() => Math.random() - 0.5); }
   function roomQuestions(room){ return Array.isArray(room.questions) && room.questions.length ? room.questions : preparedQuestions; }

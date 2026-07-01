@@ -1,0 +1,1400 @@
+<!DOCTYPE html>
+
+<html lang="pl">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+<meta content="Praktyczny poradnik psychologiczny: czym jest stawianie granic bez surowej dyscypliny i bez pobłażliwości, jak reagować na trudne zachowania oraz jak szkoła powinna wspierać dziecko, które obecnie otrzymuje słabe oceny." name="description"/>
+<title>Trudne zachowania dziecka — granice wychowawcze, rozwój i wsparcie szkolne</title>
+<style>
+:root{
+  --bg:#f4f7f9; --paper:#ffffff; --ink:#1b2834; --muted:#607180; --line:#d8e1e9;
+  --blue:#1b5f8f; --blue2:#e9f3f9; --green:#2d6b52; --green2:#e9f5ef;
+  --amber:#8b6218; --amber2:#fff5de; --red:#933a3a; --red2:#faecec;
+  --violet:#7257b5; --violet2:#f1ecfb;
+  --shadow:0 14px 36px rgba(28,49,67,.08); --r:18px; --max:1180px;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{
+  margin:0;background:var(--bg);color:var(--ink);
+  font:16px/1.65 system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;
+}
+a{color:var(--blue)}
+.progress{position:fixed;z-index:100;top:0;left:0;height:4px;background:var(--blue);width:0}
+header{
+  background:linear-gradient(135deg,#ffffff 0%,#e8f2f8 100%);
+  border-bottom:1px solid var(--line);
+}
+.hero{
+  max-width:var(--max);margin:auto;padding:70px 24px 54px;
+  display:grid;grid-template-columns:1.2fr .8fr;gap:34px;align-items:center;
+}
+.eyebrow{font-size:.78rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:var(--blue)}
+h1{font-size:clamp(2.2rem,5vw,4.2rem);line-height:1.04;letter-spacing:-.04em;margin:.35rem 0 1rem}
+.lead{font-size:1.17rem;color:#405363;max-width:830px}
+.hero-cta{display:flex;gap:10px;flex-wrap:wrap;margin-top:24px}
+.btn{
+  display:inline-flex;align-items:center;justify-content:center;padding:11px 16px;
+  border-radius:999px;border:1px solid var(--line);background:#fff;color:var(--ink);
+  text-decoration:none;font-weight:760;cursor:pointer
+}
+.btn.primary{background:var(--blue);color:#fff;border-color:var(--blue)}
+.hero-card{
+  background:rgba(255,255,255,.9);border:1px solid var(--line);border-radius:26px;
+  padding:22px;box-shadow:var(--shadow)
+}
+.hero-card strong{display:block;font-size:1.08rem;margin:0 0 10px}
+.hero-card p{margin:.45rem 0;color:var(--muted)}
+nav{
+  position:sticky;top:0;z-index:50;background:rgba(255,255,255,.95);backdrop-filter:blur(9px);
+  border-bottom:1px solid var(--line)
+}
+nav .inner{max-width:var(--max);margin:auto;padding:12px 24px;display:flex;gap:16px;overflow:auto}
+nav a{white-space:nowrap;color:#44586a;text-decoration:none;font-weight:700;font-size:.93rem}
+main{max-width:var(--max);margin:auto;padding:26px 24px 70px}
+section{
+  background:var(--paper);border:1px solid var(--line);border-radius:var(--r);
+  box-shadow:0 8px 24px rgba(31,48,66,.04);padding:clamp(22px,4vw,40px);margin:20px 0
+}
+h2{font-size:clamp(1.55rem,3vw,2.35rem);line-height:1.14;letter-spacing:-.025em;margin:0 0 16px}
+h3{font-size:1.22rem;margin:26px 0 10px}
+p{margin:.72rem 0}
+ul,ol{padding-left:1.2rem}
+li{margin:.35rem 0}
+.muted{color:var(--muted)}
+.small{font-size:.92rem}
+.callout{
+  padding:18px 20px;border-radius:15px;margin:18px 0;border-left:5px solid
+}
+.blue{background:var(--blue2);border-color:var(--blue)}
+.green{background:var(--green2);border-color:var(--green)}
+.amber{background:var(--amber2);border-color:var(--amber)}
+.red{background:var(--red2);border-color:var(--red)}
+.violet{background:var(--violet2);border-color:var(--violet)}
+.grid-2{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}
+.grid-3{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+.card{
+  border:1px solid var(--line);border-radius:15px;padding:18px;background:#fff
+}
+.card h3{margin:0 0 8px;font-size:1.08rem}
+.tag{
+  display:inline-block;background:var(--blue2);color:var(--blue);font-size:.78rem;
+  font-weight:800;padding:4px 9px;border-radius:999px;margin-bottom:8px
+}
+.metrics{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px}
+.metric{
+  border:1px solid var(--line);border-radius:16px;padding:16px;background:#fbfdff
+}
+.metric .value{font-size:1.8rem;line-height:1;font-weight:850;color:var(--blue);margin-bottom:8px}
+table{width:100%;border-collapse:collapse;margin:15px 0;font-size:.95rem}
+th,td{border:1px solid var(--line);padding:12px 13px;vertical-align:top;text-align:left}
+th{background:#eef4f8}
+.compare{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+.bad,.good{
+  border:1px solid var(--line);border-radius:16px;padding:18px
+}
+.bad{background:var(--red2)}
+.good{background:var(--green2)}
+.bad h4,.good h4{margin:0 0 10px;font-size:1.06rem}
+.flow-svg,.illus-svg,.chart-svg{width:100%;height:auto;display:block}
+.chart-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}
+.chart-card{
+  border:1px solid var(--line);border-radius:18px;padding:18px;background:#fcfdff
+}
+.bars{margin-top:14px}
+.bar-row{
+  display:grid;grid-template-columns:230px 1fr 70px;align-items:center;gap:10px;margin:10px 0
+}
+.bar-label{font-size:.93rem}
+.bar-track{height:16px;border-radius:999px;background:#edf2f6;overflow:hidden;border:1px solid #e0e8ef}
+.bar-fill{height:100%;border-radius:999px}
+.bar-note{text-align:right;font-size:.9rem;color:var(--muted);font-weight:700}
+.steps{list-style:none;padding:0;counter-reset:step}
+.steps li{
+  position:relative;padding:12px 12px 12px 52px;margin:8px 0;border:1px solid var(--line);
+  border-radius:12px;background:#fbfcfd
+}
+.steps li::before{
+  counter-increment:step;content:counter(step);position:absolute;left:12px;top:10px;
+  width:28px;height:28px;border-radius:50%;display:grid;place-items:center;
+  background:var(--blue);color:#fff;font-weight:800
+}
+details{
+  border:1px solid var(--line);border-radius:13px;background:#fcfdfe;padding:0 15px;margin:10px 0
+}
+summary{cursor:pointer;font-weight:760;padding:14px 0}
+.checklist label{
+  display:flex;gap:10px;padding:8px 0;border-bottom:1px dashed var(--line)
+}
+.checklist input{width:18px;height:18px;margin-top:4px}
+.tracker{overflow:auto}
+.tracker input,.tracker textarea{
+  width:100%;border:1px solid var(--line);border-radius:8px;padding:8px;background:#fff
+}
+.tracker textarea{min-height:54px;resize:vertical}
+footer{max-width:var(--max);margin:auto;padding:0 24px 50px;color:var(--muted);font-size:.9rem}
+@media (max-width:920px){
+  .hero,.grid-2,.grid-3,.metrics,.chart-grid,.compare{grid-template-columns:1fr}
+  .bar-row{grid-template-columns:1fr}
+}
+@media print{
+  body{background:#fff;font-size:11pt}
+  nav,.hero-cta,.progress{display:none!important}
+  main{padding:0}
+  header{background:#fff}
+  .hero{display:block;padding:18px 0}
+  section{box-shadow:none;border-color:#bbb;break-inside:avoid}
+  a{color:inherit;text-decoration:none}
+}
+
+.mechanism-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}
+.mechanism{
+  border:1px solid var(--line);border-radius:18px;padding:20px;background:#fff;
+  position:relative;overflow:hidden
+}
+.mechanism::before{
+  content:"";position:absolute;left:0;top:0;bottom:0;width:6px;background:var(--blue)
+}
+.mechanism h3{margin:0 0 8px;padding-left:4px}
+.mechanism .why{font-weight:800;color:var(--blue);margin-top:12px}
+.psych-chain{display:grid;grid-template-columns:repeat(5,1fr);gap:10px;align-items:stretch}
+.psych-node{border:1px solid var(--line);border-radius:14px;padding:14px;background:#fbfdff;text-align:center}
+.psych-arrow{display:none}
+.rule-box{border:1px solid var(--line);border-radius:16px;padding:18px;background:#fcfdff}
+.rule-box strong{display:block;margin-bottom:6px}
+.myth-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
+.myth,.fact{border-radius:16px;padding:18px;border:1px solid var(--line)}
+.myth{background:var(--red2)}
+.fact{background:var(--green2)}
+@media(max-width:920px){
+  .mechanism-grid,.myth-grid,.psych-chain{grid-template-columns:1fr}
+}
+
+.boundary-spectrum{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin:18px 0}
+.boundary-card{border:1px solid var(--line);border-radius:18px;padding:20px;background:#fff}
+.boundary-card.strict{background:var(--red2)}
+.boundary-card.balanced{background:var(--green2);border-width:2px;border-color:#8ab99e}
+.boundary-card.permissive{background:var(--amber2)}
+.boundary-card h3{margin:0 0 9px}
+.formula{font-size:1.12rem;font-weight:800;text-align:center;padding:18px;border-radius:16px;background:var(--blue2);color:var(--blue);margin:18px 0}
+.school-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}
+.school-card{border:1px solid var(--line);border-radius:16px;padding:18px;background:#fcfdff}
+.school-card h3{margin-top:0}
+.example-dialogue{border-left:5px solid var(--violet);padding:14px 18px;background:var(--violet2);border-radius:12px;margin:12px 0}
+.rating-row{display:grid;grid-template-columns:220px 1fr;gap:12px;align-items:start;margin:10px 0}
+.rating-row strong{color:var(--blue)}
+@media(max-width:920px){
+  .boundary-spectrum,.school-grid{grid-template-columns:1fr}
+  .rating-row{grid-template-columns:1fr}
+}
+</style>
+</head>
+<body>
+<div class="progress" id="progress"></div>
+<header>
+<div class="hero">
+<div>
+<div class="eyebrow">Poradnik wychowawczy i edukacyjny</div>
+<h1>Trudne zachowania dziecka w wieku szkolnym</h1>
+<p class="lead">Dlaczego ośmioletnie dziecko nie sprząta, porzuca rozpoczęte czynności, zapomina o obowiązkach, marudzi i silnie reaguje emocjonalnie. Strona dotyczy wszystkich dzieci, a ADHD przedstawia jako jeden z możliwych czynników nasilających trudności, nie jako jedyne wyjaśnienie.</p>
+<div class="hero-cta">
+<a class="btn primary" href="#dane">Przejdź do wykresów</a>
+<a class="btn" href="#scenariusze">Praktyczne przykłady</a>
+<button class="btn" onclick="window.print()">Drukuj / zapisz jako PDF</button>
+</div>
+</div>
+<aside class="hero-card">
+<svg aria-label="Ilustracja relacji rodzic-dziecko i checklisty" class="illus-svg" viewbox="0 0 520 320">
+<rect fill="#f7fbfe" height="320" rx="24" width="520" x="0" y="0"></rect>
+<rect fill="#ffffff" height="208" rx="18" stroke="#d8e1e9" width="170" x="300" y="34"></rect>
+<text fill="#1b5f8f" font-size="18" font-weight="800" x="325" y="66">Lista kroków</text>
+<rect fill="#dfeff8" height="16" rx="4" stroke="#1b5f8f" width="16" x="322" y="86"></rect>
+<text fill="#425566" font-size="15" x="348" y="99">weź ręcznik</text>
+<rect fill="#dfeff8" height="16" rx="4" stroke="#1b5f8f" width="16" x="322" y="116"></rect>
+<text fill="#425566" font-size="15" x="348" y="129">spakuj strój</text>
+<rect fill="#dfeff8" height="16" rx="4" stroke="#1b5f8f" width="16" x="322" y="146"></rect>
+<text fill="#425566" font-size="15" x="348" y="159">sprawdź torbę</text>
+<rect fill="#dfeff8" height="16" rx="4" stroke="#1b5f8f" width="16" x="322" y="176"></rect>
+<text fill="#425566" font-size="15" x="348" y="189">postaw przy drzwiach</text>
+<circle cx="145" cy="92" fill="#ffd8bf" r="36"></circle>
+<rect fill="#7fcbf1" height="82" rx="18" width="64" x="113" y="130"></rect>
+<rect fill="#7fcbf1" height="66" rx="12" width="24" x="93" y="142"></rect>
+<rect fill="#7fcbf1" height="66" rx="12" width="24" x="173" y="142"></rect>
+<rect fill="#475d75" height="74" rx="10" width="20" x="120" y="210"></rect>
+<rect fill="#475d75" height="74" rx="10" width="20" x="151" y="210"></rect>
+<circle cx="120" cy="288" fill="#2a3f54" r="13"></circle>
+<circle cx="164" cy="288" fill="#2a3f54" r="13"></circle>
+<circle cx="70" cy="92" fill="#ffd8bf" r="34"></circle>
+<rect fill="#7dc1a0" height="84" rx="18" width="60" x="40" y="128"></rect>
+<rect fill="#7dc1a0" height="62" rx="11" width="22" x="21" y="141"></rect>
+<rect fill="#7dc1a0" height="62" rx="11" width="22" x="98" y="141"></rect>
+<rect fill="#475d75" height="76" rx="10" width="18" x="47" y="210"></rect>
+<rect fill="#475d75" height="76" rx="10" width="18" x="74" y="210"></rect>
+<circle cx="48" cy="289" fill="#2a3f54" r="12"></circle>
+<circle cx="88" cy="289" fill="#2a3f54" r="12"></circle>
+<path d="M94 162 C120 142, 125 142, 150 160" fill="none" stroke="#1b5f8f" stroke-linecap="round" stroke-width="6"></path>
+<path d="M200 173 C245 165, 270 145, 305 132" fill="none" stroke="#9bb8ca" stroke-dasharray="7 7" stroke-width="4"></path>
+<circle cx="229" cy="168" fill="#fff5de" r="24" stroke="#e7d7a5"></circle>
+<text fill="#8b6218" font-size="14" font-weight="700" text-anchor="middle" x="229" y="173">?</text>
+<circle cx="256" cy="94" fill="#eaf5ef" r="26" stroke="#bad9c9"></circle>
+<text fill="#2d6b52" font-size="13" font-weight="700" text-anchor="middle" x="256" y="100">spokój</text>
+<circle cx="256" cy="236" fill="#faecec" r="26" stroke="#e4c8c8"></circle>
+<text fill="#933a3a" font-size="13" font-weight="700" text-anchor="middle" x="256" y="241">złość</text>
+</svg>
+<strong>Najważniejsza zasada wychowawcza</strong>
+<p>Dzieci bez rozpoznanego zaburzenia również mają niedojrzałe funkcje wykonawcze, mniejszą odporność na frustrację i potrzebują powtarzalnych rutyn. Różnica dotyczy zwykle nasilenia, częstotliwości i ilości potrzebnego wsparcia.</p>
+<p>Najbardziej pomocne są: przewidywalność, krótkie komunikaty, jasne granice, wspólne ćwiczenie procedur oraz stopniowe przekazywanie odpowiedzialności.</p>
+</aside>
+</div>
+</header>
+<nav>
+<div class="inner">
+<a href="#rdzen">Jak rozumieć zachowanie</a><a href="#przyczyny">Możliwe przyczyny</a>
+<a href="#dane">Rozwój i dane</a><a href="#wykresy-praktyczne">Nowe wykresy</a>
+<a href="#perspektywa">Perspektywa dziecka</a>
+<a href="#bledy">Błędy wychowawcze</a>
+<a href="#jak-wyglada">Jak powinno to wyglądać</a>
+<a href="#scenariusze">Przykłady reagowania</a>
+<a href="#procedury">Procedury</a>
+<a href="#zrodla">Źródła</a>
+<a href="#przyklady-dodatkowe">Nowe przykłady</a><a href="#mechanizmy">Mechanizmy psychologiczne</a><a href="#motywacja">Motywacja</a><a href="#emocje-regulacja">Regulacja emocji</a><a href="#mity">Mity wychowawcze</a><a href="#granice">Stawianie granic</a><a href="#szkola">Wsparcie szkoły</a></div>
+</nav>
+<main>
+<section id="rdzen">
+<h2>1. Jak rozumieć trudne zachowanie</h2>
+<div class="callout blue"><strong>Nie każde niewykonanie polecenia jest nieposłuszeństwem.</strong> Zachowanie może wynikać z niedojrzałości rozwojowej, przeciążenia, braku umiejętności, zbyt trudnego polecenia, potrzeby autonomii, problemu relacyjnego albo zaburzenia neurorozwojowego.</div>
+<div class="metrics">
+<div class="metric"><div class="value">1</div><strong>Sprawdź zdolność</strong><div class="small muted">Czy dziecko rzeczywiście potrafi wykonać zadanie w tej formie i o tej porze?</div></div>
+<div class="metric"><div class="value">2</div><strong>Uprość środowisko</strong><div class="small muted">Stałe miejsca, listy, rytuały i mniej bodźców pomagają wszystkim dzieciom.</div></div>
+<div class="metric"><div class="value">3</div><strong>Reguluj emocje</strong><div class="small muted">Najpierw obniżenie napięcia, potem nauka i odpowiedzialność.</div></div>
+<div class="metric"><div class="value">4</div><strong>Ćwicz samodzielność</strong><div class="small muted">Pomoc powinna być stopniowo wycofywana, a nie utrzymywana bez końca.</div></div>
+</div>
+<h3>Typowy mechanizm konfliktu</h3>
+<svg aria-label="Schemat konfliktu wychowawczego" class="flow-svg" viewbox="0 0 1120 260">
+<defs>
+<marker id="arrow" markerheight="10" markerwidth="10" orient="auto" refx="8" refy="5">
+<path d="M0,0 L10,5 L0,10 z" fill="#8aa7bb"></path>
+</marker>
+</defs>
+<rect fill="#e9f3f9" height="120" rx="20" stroke="#c7ddeb" width="190" x="10" y="50"></rect>
+<text fill="#1b5f8f" font-size="22" font-weight="800" text-anchor="middle" x="105" y="88">Polecenie</text>
+<text fill="#425566" font-size="16" text-anchor="middle" x="105" y="118">„Posprzątaj po sobie”</text>
+<text fill="#425566" font-size="16" text-anchor="middle" x="105" y="142">„Spakuj się”</text>
+<rect fill="#fff5de" height="120" rx="20" stroke="#e6d9a8" width="190" x="245" y="50"></rect>
+<text fill="#8b6218" font-size="22" font-weight="800" text-anchor="middle" x="340" y="88">Przeciążenie</text>
+<text fill="#425566" font-size="16" text-anchor="middle" x="340" y="118">za dużo kroków,</text>
+<text fill="#425566" font-size="16" text-anchor="middle" x="340" y="142">rozproszenie, zwłoka</text>
+<rect fill="#f1ecfb" height="120" rx="20" stroke="#d2c8ed" width="190" x="480" y="50"></rect>
+<text fill="#7257b5" font-size="22" font-weight="800" text-anchor="middle" x="575" y="88">Porażka</text>
+<text fill="#425566" font-size="16" text-anchor="middle" x="575" y="118">zadanie nie jest</text>
+<text fill="#425566" font-size="16" text-anchor="middle" x="575" y="142">skończone</text>
+<rect fill="#faecec" height="120" rx="20" stroke="#e2c6c6" width="190" x="715" y="50"></rect>
+<text fill="#933a3a" font-size="22" font-weight="800" text-anchor="middle" x="810" y="88">Eskalacja</text>
+<text fill="#425566" font-size="16" text-anchor="middle" x="810" y="118">krzyk, etykiety,</text>
+<text fill="#425566" font-size="16" text-anchor="middle" x="810" y="142">„leniwa”, „nie słuchasz”</text>
+<rect fill="#eaf5ef" height="120" rx="20" stroke="#c6dfd1" width="160" x="950" y="50"></rect>
+<text fill="#2d6b52" font-size="22" font-weight="800" text-anchor="middle" x="1030" y="88">Wstyd i</text>
+<text fill="#2d6b52" font-size="22" font-weight="800" text-anchor="middle" x="1030" y="114">szukanie bliskości</text>
+<text fill="#425566" font-size="16" text-anchor="middle" x="1030" y="144">przytulenie, płacz</text>
+<path d="M200 110 H245" marker-end="url(#arrow)" stroke="#8aa7bb" stroke-width="4"></path>
+<path d="M435 110 H480" marker-end="url(#arrow)" stroke="#8aa7bb" stroke-width="4"></path>
+<path d="M670 110 H715" marker-end="url(#arrow)" stroke="#8aa7bb" stroke-width="4"></path>
+<path d="M905 110 H950" marker-end="url(#arrow)" stroke="#8aa7bb" stroke-width="4"></path>
+<rect fill="#f7fbfe" height="48" rx="18" stroke="#d8e1e9" width="635" x="240" y="190"></rect>
+<text fill="#1b5f8f" font-size="18" font-weight="700" text-anchor="middle" x="558" y="220">Przerwanie tego łańcucha wymaga: krótkiego komunikatu + procedury + spokojnego domknięcia zadania</text>
+</svg>
+</section><section id="przyczyny">
+<h2>2. Co może stać za zachowaniem dziecka</h2>
+<p>To samo zachowanie może mieć różne przyczyny. Dlatego skuteczne wychowanie zaczyna się od hipotezy
+  „czego dziecko nie potrafi lub czego teraz potrzebuje?”, a nie od automatycznego założenia
+  „robi to specjalnie”. Nie oznacza to rezygnacji z granic.</p>
+<div class="grid-3">
+<article class="card">
+<span class="tag">Rozwój</span>
+<h3>Niedojrzałe funkcje wykonawcze</h3>
+<p>Planowanie, przewidywanie konsekwencji, pamiętanie kilku kroków i samokontrola rozwijają się przez
+      dzieciństwo i adolescencję. Ośmiolatek nadal potrzebuje zewnętrznej struktury.</p>
+</article>
+<article class="card">
+<span class="tag">Stan organizmu</span>
+<h3>Zmęczenie, głód i sen</h3>
+<p>Po szkole lub pod koniec dnia dziecko może funkcjonować znacznie gorzej, mimo że rano potrafiło
+      wykonać podobne zadanie bez konfliktu.</p>
+</article>
+<article class="card">
+<span class="tag">Emocje</span>
+<h3>Frustracja i przeciążenie</h3>
+<p>Płacz, marudzenie i odmowa mogą być niedojrzałym sposobem komunikowania: „to za trudne”,
+      „mam już dość” albo „potrzebuję pomocy w uspokojeniu”.</p>
+</article>
+<article class="card">
+<span class="tag">Motywacja</span>
+<h3>Odroczona korzyść</h3>
+<p>Sprzątanie przynosi korzyść później, natomiast zabawa lub ekran dają nagrodę natychmiast.
+      Dzieci naturalnie gorzej wybierają odroczone korzyści niż dorośli.</p>
+</article>
+<article class="card">
+<span class="tag">Relacja</span>
+<h3>Walka o autonomię</h3>
+<p>Gdy dziecko słyszy głównie nakazy i korekty, może zacząć odzyskiwać poczucie wpływu przez zwlekanie,
+      negocjowanie albo odmowę.</p>
+</article>
+<article class="card">
+<span class="tag">Różnice indywidualne</span>
+<h3>Temperament i neuroróżnorodność</h3>
+<p>ADHD, ASD, lęk, trudności uczenia się lub wysoka reaktywność sensoryczna mogą zwiększać skalę problemów,
+      ale podobne zachowania występują także u dzieci bez diagnozy.</p>
+</article>
+</div>
+<h3>Grafika: zachowanie jest wierzchołkiem góry lodowej</h3>
+<svg aria-label="Góra lodowa przyczyn trudnego zachowania" class="chart-svg" viewbox="0 0 1040 530">
+<rect fill="#f8fbfd" height="530" rx="24" width="1040" x="0" y="0"></rect>
+<path d="M0 205 C190 185 330 225 520 202 C710 180 870 222 1040 198 L1040 530 L0 530 Z" fill="#dceef8"></path>
+<path d="M520 55 L665 208 L870 485 L170 485 L385 208 Z" fill="#eef3f6" stroke="#c9d6de" stroke-width="3"></path>
+<path d="M385 208 L665 208 L870 485 L170 485 Z" fill="#d7e2e8"></path>
+<text fill="#933a3a" font-size="30" font-weight="800" text-anchor="middle" x="520" y="122">Widoczne zachowanie</text>
+<text fill="#425566" font-size="20" text-anchor="middle" x="520" y="158">odmowa, bałagan, płacz, zwlekanie, porzucanie zadania</text>
+<text fill="#1b5f8f" font-size="27" font-weight="800" text-anchor="middle" x="520" y="250">Możliwe przyczyny pod powierzchnią</text>
+<rect fill="#ffffff" height="55" rx="16" stroke="#b8c8d3" width="170" x="230" y="285"></rect>
+<text fill="#425566" font-size="18" font-weight="700" text-anchor="middle" x="315" y="318">zmęczenie</text>
+<rect fill="#ffffff" height="55" rx="16" stroke="#b8c8d3" width="170" x="435" y="285"></rect>
+<text fill="#425566" font-size="18" font-weight="700" text-anchor="middle" x="520" y="318">brak planu</text>
+<rect fill="#ffffff" height="55" rx="16" stroke="#b8c8d3" width="170" x="640" y="285"></rect>
+<text fill="#425566" font-size="18" font-weight="700" text-anchor="middle" x="725" y="318">przeciążenie</text>
+<rect fill="#ffffff" height="55" rx="16" stroke="#b8c8d3" width="200" x="185" y="370"></rect>
+<text fill="#425566" font-size="18" font-weight="700" text-anchor="middle" x="285" y="403">potrzeba autonomii</text>
+<rect fill="#ffffff" height="55" rx="16" stroke="#b8c8d3" width="200" x="420" y="370"></rect>
+<text fill="#425566" font-size="18" font-weight="700" text-anchor="middle" x="520" y="403">silne emocje</text>
+<rect fill="#ffffff" height="55" rx="16" stroke="#b8c8d3" width="200" x="655" y="370"></rect>
+<text fill="#425566" font-size="18" font-weight="700" text-anchor="middle" x="755" y="403">ADHD lub inne trudności</text>
+<text fill="#1b5f8f" font-size="18" font-weight="700" text-anchor="middle" x="520" y="515">
+      Wychowanie powinno reagować zarówno na zachowanie, jak i na jego przyczynę.
+    </text>
+</svg>
+</section>
+<section id="dane">
+<h2>3. Rozwój samoregulacji i dane</h2>
+<p>Wszystkie dzieci rozwijają samokontrolę, planowanie i regulację emocji stopniowo. ADHD może nasilać i utrwalać te trudności, ale narzędzia takie jak rutyny, jasne granice, pozytywne wzmacnianie i ćwiczenie procedur mają zastosowanie również u dzieci bez diagnozy.</p>
+<div class="chart-grid">
+<article class="chart-card">
+<h3>3.1. ADHD jako jeden z możliwych czynników</h3>
+<svg aria-label="Wykres częstości ADHD" class="chart-svg" viewbox="0 0 520 260">
+<rect fill="#fbfdff" height="260" rx="18" width="520" x="0" y="0"></rect>
+<text fill="#1b2834" font-size="16" font-weight="800" x="26" y="34">Szacowana częstość ADHD</text>
+<text fill="#607180" font-size="13" x="26" y="56">Przeglądy systematyczne i dane CDC</text>
+<line stroke="#c8d5df" x1="70" x2="470" y1="200" y2="200"></line>
+<line stroke="#c8d5df" x1="70" x2="70" y1="60" y2="200"></line>
+<text fill="#607180" font-size="12" x="48" y="204">0%</text>
+<text fill="#607180" font-size="12" x="44" y="154">5%</text>
+<text fill="#607180" font-size="12" x="40" y="104">10%</text>
+<text fill="#607180" font-size="12" x="40" y="64">15%</text>
+<rect fill="#1b5f8f" height="70" rx="12" width="90" x="120" y="130"></rect>
+<text fill="#1b5f8f" font-size="18" font-weight="800" text-anchor="middle" x="165" y="120">5–7%</text>
+<text fill="#425566" font-size="13" text-anchor="middle" x="165" y="220">szacunki globalne</text>
+<rect fill="#7bb7dd" height="160" rx="12" width="90" x="310" y="40"></rect>
+<text fill="#1b5f8f" font-size="18" font-weight="800" text-anchor="middle" x="355" y="30">11.4%</text>
+<text fill="#425566" font-size="13" text-anchor="middle" x="355" y="220">dzieci 3–17 lat w USA,</text>
+<text fill="#425566" font-size="13" text-anchor="middle" x="355" y="238">kiedykolwiek zdiagnozowane</text>
+</svg>
+<p class="small muted">Źródła: Thomas i wsp., 2015; CDC, 2024.</p>
+</article>
+<article class="chart-card">
+<h3>3.2. Trudności współwystępujące przy ADHD</h3>
+<div class="bars">
+<div class="bar-row">
+<div class="bar-label">Zachowania opozycyjne / buntownicze</div>
+<div class="bar-track"><div class="bar-fill" style="width:50%;background:#1b5f8f"></div></div>
+<div class="bar-note">30–50%</div>
+</div>
+<div class="bar-row">
+<div class="bar-label">Lęk</div>
+<div class="bar-track"><div class="bar-fill" style="width:35%;background:#5f8fb3"></div></div>
+<div class="bar-note">15–35%</div>
+</div>
+<div class="bar-row">
+<div class="bar-label">Trudności szkolne / uczenie się</div>
+<div class="bar-track"><div class="bar-fill" style="width:45%;background:#8eb4cf"></div></div>
+<div class="bar-note">20–45%</div>
+</div>
+<div class="bar-row">
+<div class="bar-label">Problemy ze snem</div>
+<div class="bar-track"><div class="bar-fill" style="width:50%;background:#b8d1e2"></div></div>
+<div class="bar-note">25–50%</div>
+</div>
+</div>
+<p class="small muted">Wykres pokazuje przybliżone zakresy raportowane w przeglądach badań. Nie oznacza, że dane trudności muszą występować u konkretnego dziecka.</p>
+</article>
+<article class="chart-card">
+<h3>3.3. Model wsparcia przy nasilonych trudnościach</h3>
+<svg aria-label="Wykres skutecznych elementów wsparcia" class="chart-svg" viewbox="0 0 520 260">
+<rect fill="#fbfdff" height="260" rx="18" width="520" x="0" y="0"></rect>
+<text fill="#1b2834" font-size="16" font-weight="800" x="24" y="34">Model leczenia i wychowania</text>
+<text fill="#607180" font-size="13" x="24" y="56">Nie „albo-albo”, lecz połączenie metod</text>
+<rect fill="#e9f3f9" height="45" rx="14" stroke="#cbdde9" width="120" x="52" y="165"></rect>
+<text fill="#1b5f8f" font-size="15" font-weight="700" text-anchor="middle" x="112" y="192">lek</text>
+<rect fill="#eaf5ef" height="75" rx="14" stroke="#c9dece" width="120" x="200" y="135"></rect>
+<text fill="#2d6b52" font-size="15" font-weight="700" text-anchor="middle" x="260" y="165">trening</text>
+<text fill="#2d6b52" font-size="15" font-weight="700" text-anchor="middle" x="260" y="186">rodzicielski</text>
+<rect fill="#fff5de" height="122" rx="14" stroke="#e6d6aa" width="120" x="348" y="88"></rect>
+<text fill="#8b6218" font-size="15" font-weight="700" text-anchor="middle" x="408" y="128">połączenie</text>
+<text fill="#8b6218" font-size="15" font-weight="700" text-anchor="middle" x="408" y="149">leczenia,</text>
+<text fill="#8b6218" font-size="15" font-weight="700" text-anchor="middle" x="408" y="170">struktury</text>
+<text fill="#8b6218" font-size="15" font-weight="700" text-anchor="middle" x="408" y="191">i szkoły</text>
+<text fill="#425566" font-size="13" text-anchor="middle" x="112" y="225">objawy rdzeniowe</text>
+<text fill="#425566" font-size="13" text-anchor="middle" x="260" y="225">rutyny i zachowanie</text>
+<text fill="#425566" font-size="13" text-anchor="middle" x="408" y="225">najbardziej funkcjonalne</text>
+</svg>
+<p class="small muted">Źródła: CDC, NICE NG87, wytyczne AAP.</p>
+</article>
+<article class="chart-card">
+<h3>3.4. Luka między wiedzą a wykonaniem dotyczy nie tylko ADHD</h3>
+<svg aria-label="Infografika o luce między wiedzą a wykonaniem" class="chart-svg" viewbox="0 0 520 260">
+<defs>
+<marker id="arrow2" markerheight="10" markerwidth="10" orient="auto" refx="8" refy="5">
+<path d="M0,0 L10,5 L0,10 z" fill="#8aa7bb"></path>
+</marker>
+</defs>
+<rect fill="#e9f3f9" height="104" rx="18" stroke="#c7ddeb" width="210" x="26" y="78"></rect>
+<text fill="#1b5f8f" font-size="22" font-weight="800" text-anchor="middle" x="131" y="110">Wiedza</text>
+<text fill="#425566" font-size="15" text-anchor="middle" x="131" y="136">„po jedzeniu odnieś talerz”</text>
+<text fill="#425566" font-size="15" text-anchor="middle" x="131" y="158">„spakuj wszystko do torby”</text>
+<rect fill="#faecec" height="104" rx="18" stroke="#e1c7c7" width="210" x="290" y="78"></rect>
+<text fill="#933a3a" font-size="22" font-weight="800" text-anchor="middle" x="395" y="110">Wykonanie</text>
+<text fill="#425566" font-size="15" text-anchor="middle" x="395" y="136">rozproszenie</text>
+<text fill="#425566" font-size="15" text-anchor="middle" x="395" y="158">brak domknięcia zadania</text>
+<path d="M236 130 H290" marker-end="url(#arrow2)" stroke="#8aa7bb" stroke-width="5"></path>
+<text fill="#607180" font-size="13" text-anchor="middle" x="263" y="119">luka wykonawcza</text>
+<rect fill="#f7fbfe" height="34" rx="12" stroke="#d8e1e9" width="252" x="134" y="202"></rect>
+<text fill="#1b5f8f" font-size="14" font-weight="700" text-anchor="middle" x="260" y="224">To właśnie tu potrzebna jest procedura, nie kazanie.</text>
+</svg>
+</article>
+</div>
+<div class="callout violet">
+<strong>Wniosek praktyczny:</strong> jeżeli lek pomaga tylko częściowo, nie oznacza to porażki leczenia. Najczęściej oznacza to, że nadal trzeba zbudować dziecku zewnętrzny system działania: procedury, stałe miejsca, listy, rytuały kończenia i przewidywalny sposób reagowania dorosłego.
+    </div>
+</section><section id="wykresy-praktyczne">
+<h2>4. Dodatkowe wykresy i grafiki praktyczne</h2>
+<p>Ta sekcja ma charakter edukacyjny i wychowawczy. Pokazuje nie tylko dane o ADHD, lecz także uniwersalne mechanizmy rozwojowe występujące u wielu dzieci w wieku szkolnym.</p>
+<div class="chart-grid">
+<article class="chart-card">
+<h3>4.1. Jak rozwija się samodzielność</h3>
+<svg aria-label="Wykres rozwoju samodzielności" class="chart-svg" viewbox="0 0 560 280">
+<rect fill="#fbfdff" height="280" rx="18" width="560" x="0" y="0"></rect>
+<text fill="#1b2834" font-size="18" font-weight="800" x="24" y="34">Rozwój samodzielności nie jest skokowy</text>
+<text fill="#607180" font-size="13" x="24" y="58">Model orientacyjny: od dużej zależności do coraz większej niezależności</text>
+<line stroke="#cad6df" stroke-width="2" x1="70" x2="500" y1="220" y2="220"></line>
+<line stroke="#cad6df" stroke-width="2" x1="70" x2="70" y1="220" y2="70"></line>
+<text fill="#607180" font-size="12" x="48" y="223">niska</text>
+<text fill="#607180" font-size="12" x="26" y="80">wysoka</text>
+<text fill="#607180" font-size="13" x="80" y="242">przedszkole</text>
+<text fill="#607180" font-size="13" x="210" y="242">wczesna szkoła</text>
+<text fill="#607180" font-size="13" x="360" y="242">późna szkoła</text>
+<text fill="#607180" font-size="13" x="460" y="242">nastolatki</text>
+<path d="M80 200 C150 190, 190 165, 235 150 C280 135, 320 120, 370 100 C410 85, 450 75, 495 72" fill="none" stroke="#1b5f8f" stroke-linecap="round" stroke-width="5"></path>
+<circle cx="80" cy="200" fill="#1b5f8f" r="5"></circle>
+<circle cx="235" cy="150" fill="#1b5f8f" r="5"></circle>
+<circle cx="370" cy="100" fill="#1b5f8f" r="5"></circle>
+<circle cx="495" cy="72" fill="#1b5f8f" r="5"></circle>
+<rect fill="#e9f3f9" height="32" rx="10" stroke="#cbdde9" width="148" x="110" y="102"></rect>
+<text fill="#1b5f8f" font-size="13" font-weight="700" text-anchor="middle" x="184" y="123">więcej struktury od dorosłego</text>
+<rect fill="#eaf5ef" height="32" rx="10" stroke="#c9dece" width="162" x="302" y="142"></rect>
+<text fill="#2d6b52" font-size="13" font-weight="700" text-anchor="middle" x="383" y="163">więcej odpowiedzialności dziecka</text>
+<text fill="#425566" font-size="13" x="92" y="88">Dziecko nie rodzi się z pełną samokontrolą.</text>
+<text fill="#425566" font-size="13" x="92" y="106">Uczy się jej poprzez relację, powtarzanie i rutyny.</text>
+</svg>
+<p class="small muted">To wykres koncepcyjny. Pokazuje kierunek rozwoju, a nie twarde wartości liczbowe.</p>
+</article>
+<article class="chart-card">
+<h3>4.2. Co najczęściej nasila trudne zachowanie</h3>
+<div class="bars">
+<div class="bar-row">
+<div class="bar-label">Zmęczenie / koniec dnia</div>
+<div class="bar-track"><div class="bar-fill" style="width:92%;background:#1b5f8f"></div></div>
+<div class="bar-note">bardzo często</div>
+</div>
+<div class="bar-row">
+<div class="bar-label">Wiele poleceń naraz</div>
+<div class="bar-track"><div class="bar-fill" style="width:88%;background:#4e85ad"></div></div>
+<div class="bar-note">bardzo często</div>
+</div>
+<div class="bar-row">
+<div class="bar-label">Gwałtowne przejścia między czynnościami</div>
+<div class="bar-track"><div class="bar-fill" style="width:82%;background:#7aa8c6"></div></div>
+<div class="bar-note">często</div>
+</div>
+<div class="bar-row">
+<div class="bar-label">Niejasne zasady</div>
+<div class="bar-track"><div class="bar-fill" style="width:76%;background:#9ebfd5"></div></div>
+<div class="bar-note">często</div>
+</div>
+<div class="bar-row">
+<div class="bar-label">Głód / pragnienie</div>
+<div class="bar-track"><div class="bar-fill" style="width:73%;background:#bed5e5"></div></div>
+<div class="bar-note">często</div>
+</div>
+<div class="bar-row">
+<div class="bar-label">Dużo bodźców i hałasu</div>
+<div class="bar-track"><div class="bar-fill" style="width:69%;background:#d7e6ef"></div></div>
+<div class="bar-note">u części dzieci</div>
+</div>
+</div>
+<p class="small muted">To wykres praktyczny oparty na wiedzy rozwojowej i klinicznej, a nie ranking epidemiologiczny.</p>
+</article>
+<article class="chart-card">
+<h3>4.3. Drabina pomocy rodzica</h3>
+<svg aria-label="Drabina pomocy rodzica" class="chart-svg" viewbox="0 0 560 300">
+<rect fill="#fbfdff" height="300" rx="18" width="560" x="0" y="0"></rect>
+<text fill="#1b2834" font-size="18" font-weight="800" x="24" y="34">Pomoc powinna być stopniowo wycofywana</text>
+<text fill="#607180" font-size="13" x="24" y="58">Od pełnego wsparcia do samodzielności</text>
+<line stroke="#a7bfd0" stroke-linecap="round" stroke-width="10" x1="120" x2="120" y1="245" y2="95"></line>
+<line stroke="#a7bfd0" stroke-linecap="round" stroke-width="10" x1="430" x2="430" y1="245" y2="95"></line>
+<line stroke="#a7bfd0" stroke-linecap="round" stroke-width="8" x1="120" x2="430" y1="225" y2="225"></line>
+<line stroke="#a7bfd0" stroke-linecap="round" stroke-width="8" x1="120" x2="430" y1="190" y2="190"></line>
+<line stroke="#a7bfd0" stroke-linecap="round" stroke-width="8" x1="120" x2="430" y1="155" y2="155"></line>
+<line stroke="#a7bfd0" stroke-linecap="round" stroke-width="8" x1="120" x2="430" y1="120" y2="120"></line>
+<text fill="#425566" font-size="15" font-weight="700" x="450" y="230">1. robię z tobą</text>
+<text fill="#425566" font-size="15" font-weight="700" x="450" y="195">2. pokazuję pierwszy krok</text>
+<text fill="#425566" font-size="15" font-weight="700" x="450" y="160">3. odsyłam do listy</text>
+<text fill="#425566" font-size="15" font-weight="700" x="450" y="125">4. sprawdzam tylko efekt</text>
+<text fill="#425566" font-size="15" font-weight="700" x="450" y="90">5. pełna samodzielność</text>
+<path d="M80 240 C65 215, 65 198, 80 175 C95 153, 95 140, 80 118 C65 95, 66 85, 80 64" fill="none" stroke="#2d6b52" stroke-linecap="round" stroke-width="7"></path>
+<polygon fill="#2d6b52" points="80,54 92,74 68,74"></polygon>
+<text fill="#2d6b52" font-size="16" font-weight="800" transform="rotate(-90 30 150)" x="30" y="150">mniej pomocy</text>
+</svg>
+<p class="small muted">Częsty błąd polega na oczekiwaniu samodzielności bez etapu wspólnego ćwiczenia.</p>
+</article>
+<article class="chart-card">
+<h3>4.4. Co pomaga najbardziej w codziennym wychowaniu</h3>
+<svg aria-label="Koło elementów skutecznego wychowania" class="chart-svg" viewbox="0 0 560 300">
+<rect fill="#fbfdff" height="300" rx="18" width="560" x="0" y="0"></rect>
+<text fill="#1b2834" font-size="18" font-weight="800" x="24" y="34">Pięć filarów skutecznego reagowania</text>
+<circle cx="280" cy="160" fill="#1b5f8f" r="56"></circle>
+<text fill="#ffffff" font-size="18" font-weight="800" text-anchor="middle" x="280" y="154">spokojna</text>
+<text fill="#ffffff" font-size="18" font-weight="800" text-anchor="middle" x="280" y="177">granica</text>
+<circle cx="160" cy="92" fill="#e9f3f9" r="42" stroke="#cbdde9"></circle>
+<text fill="#1b5f8f" font-size="14" font-weight="700" text-anchor="middle" x="160" y="97">kontakt</text>
+<circle cx="400" cy="92" fill="#eaf5ef" r="42" stroke="#c9dece"></circle>
+<text fill="#2d6b52" font-size="14" font-weight="700" text-anchor="middle" x="400" y="97">struktura</text>
+<circle cx="430" cy="225" fill="#fff5de" r="42" stroke="#e7d7a5"></circle>
+<text fill="#8b6218" font-size="14" font-weight="700" text-anchor="middle" x="430" y="230">konsekwencja</text>
+<circle cx="130" cy="225" fill="#f1ecfb" r="42" stroke="#d6caee"></circle>
+<text fill="#7257b5" font-size="14" font-weight="700" text-anchor="middle" x="130" y="230">powtarzalność</text>
+<circle cx="280" cy="260" fill="#faecec" r="28" stroke="#e3caca"></circle>
+<text fill="#933a3a" font-size="12" font-weight="700" text-anchor="middle" x="280" y="265">naprawa</text>
+<line stroke="#a7bfd0" stroke-width="3" x1="208" x2="240" y1="115" y2="132"></line>
+<line stroke="#a7bfd0" stroke-width="3" x1="352" x2="320" y1="115" y2="132"></line>
+<line stroke="#a7bfd0" stroke-width="3" x1="395" x2="331" y1="207" y2="182"></line>
+<line stroke="#a7bfd0" stroke-width="3" x1="167" x2="229" y1="207" y2="182"></line>
+<line stroke="#a7bfd0" stroke-width="3" x1="280" x2="280" y1="232" y2="216"></line>
+</svg>
+<p class="small muted">Te elementy pomagają zarówno dzieciom bez diagnozy, jak i dzieciom z trudnościami neurorozwojowymi.</p>
+</article>
+</div>
+</section>
+<section id="perspektywa">
+<h2>4. Jak to może wyglądać z perspektywy dziecka</h2>
+<div class="grid-2">
+<div>
+<p>Dziecko, niezależnie od diagnozy często nie doświadcza siebie jako „niegrzecznego”, lecz jako kogoś, komu coś ciągle nie wychodzi mimo starań. Słyszy wiele korekt, częściej niż rówieśnicy doświadcza rozczarowania dorosłych, a przez to może szybciej wchodzić w wstyd, zniechęcenie albo obronny bunt.</p>
+<p>Gdy rodzic mówi długo, krytycznie lub wieloma zdaniami naraz, dziecko może słyszeć przede wszystkim emocję dorosłego, a nie konkretny plan działania. Wtedy pojawia się płacz, ucieczka, marudzenie, przytulanie albo spór.</p>
+</div>
+<div class="callout green">
+<strong>Dziecko często myśli:</strong>
+<ul>
+<li>„Znowu nie zdążyłam.”</li>
+<li>„Nie wiem, od czego zacząć.”</li>
+<li>„Mama już jest zła.”</li>
+<li>„Jest mi wstyd, ale nie chcę tego pokazać.”</li>
+<li>„Chcę, żeby ktoś mi pomógł wrócić do porządku.”</li>
+</ul>
+</div>
+</div>
+</section><section id="mechanizmy">
+<h2>5. Mechanizmy psychologiczne stojące za zachowaniem</h2>
+<p>To samo zachowanie może pełnić różne funkcje. Dziecko może nie wykonać polecenia dlatego, że go nie zrozumiało,
+  zapomniało, nie umie rozpocząć, chce uniknąć nieprzyjemnego wysiłku, próbuje odzyskać kontrolę albo znajduje się
+  w stanie silnego pobudzenia. Dobra reakcja wychowawcza odpowiada na funkcję zachowania, a nie tylko na jego powierzchnię.</p>
+<div class="mechanism-grid">
+<article class="mechanism">
+<h3>Funkcje wykonawcze</h3>
+<p>Obejmują pamięć roboczą, hamowanie impulsów, przełączanie uwagi, planowanie i monitorowanie rezultatu.
+      Dziecko może znać zasadę, ale utracić ją z pamięci w chwili pojawienia się nowego bodźca.</p>
+<p class="why">Dlaczego pomaga lista?</p>
+<p>Ponieważ przenosi plan z pamięci dziecka do otoczenia. Dziecko nie musi za każdym razem odtwarzać całej sekwencji.</p>
+</article>
+<article class="mechanism">
+<h3>Regulacja emocji</h3>
+<p>Silna emocja zawęża uwagę i ogranicza dostęp do wcześniej poznanych zasad. W szczycie złości lub płaczu dziecko
+      często nie jest zdolne do długiej refleksji, nawet jeśli później potrafi dokładnie wyjaśnić, co powinno było zrobić.</p>
+<p class="why">Dlaczego najpierw uspokojenie?</p>
+<p>Nie po to, aby „odpuścić”, lecz aby przywrócić zdolność myślenia, słuchania i naprawiania sytuacji.</p>
+</article>
+<article class="mechanism">
+<h3>Unikanie wysiłku</h3>
+<p>Zadania nudne, trudne lub niejasne wywołują dyskomfort. Jeżeli płacz, zwlekanie albo kłótnia prowadzą do tego,
+      że dorosły przejmuje obowiązek, dziecko uczy się, że protest skutecznie usuwa nieprzyjemne zadanie.</p>
+<p class="why">Dlaczego nie należy kończyć wszystkiego za dziecko?</p>
+<p>Bo przypadkowo wzmacnia to unikanie. Lepiej zmniejszyć zadanie, pomóc zacząć, ale pozostawić dziecku udział w zakończeniu.</p>
+</article>
+<article class="mechanism">
+<h3>Potrzeba autonomii</h3>
+<p>Dzieci chcą doświadczać wpływu. Gdy większość dnia składa się z poleceń, mogą odzyskiwać poczucie kontroli przez
+      zwlekanie, negocjowanie albo odmowę, nawet jeśli samo zadanie nie jest szczególnie trudne.</p>
+<p class="why">Dlaczego działa ograniczony wybór?</p>
+<p>Pozwala dziecku zachować wpływ bez przekazywania mu decyzji o tym, czy obowiązek w ogóle zostanie wykonany.</p>
+</article>
+<article class="mechanism">
+<h3>Uczenie przez konsekwencje</h3>
+<p>Zachowanie częściej się powtarza, gdy po nim następuje coś korzystnego albo znika coś nieprzyjemnego.
+      Rodzice niekiedy nieświadomie wzmacniają krzyk, długo negocjując, zmieniając decyzję lub przejmując zadanie.</p>
+<p class="why">Dlaczego konsekwencja musi być szybka i logiczna?</p>
+<p>Dziecko łatwiej łączy zachowanie z bezpośrednim skutkiem niż z odległą karą niezwiązaną z problemem.</p>
+</article>
+<article class="mechanism">
+<h3>Wstyd i obraz siebie</h3>
+<p>Komunikat „zostawiłaś talerz” dotyczy zachowania. Komunikat „jesteś bałaganiarą” dotyczy tożsamości.
+      Powtarzane etykiety mogą prowadzić do obrony, unikania i przekonania, że poprawa nie ma sensu.</p>
+<p class="why">Dlaczego trzeba oddzielać dziecko od zachowania?</p>
+<p>Odpowiedzialność rośnie, gdy dziecko wierzy, że może zachować się inaczej, a nie że „takie po prostu jest”.</p>
+</article>
+<article class="mechanism">
+<h3>Przywiązanie i koregulacja</h3>
+<p>Dziecko reguluje emocje najpierw przy pomocy dorosłego, a dopiero stopniowo samodzielnie. Szukanie przytulenia po konflikcie
+      może być próbą odzyskania bezpieczeństwa, nie manipulacją.</p>
+<p class="why">Dlaczego bliskość nie psuje dyscypliny?</p>
+<p>Bezpieczeństwo relacyjne zwiększa gotowość do przyjęcia granicy. Przytulenie może współistnieć z obowiązkiem naprawy.</p>
+</article>
+<article class="mechanism">
+<h3>Przeciążenie układu nerwowego</h3>
+<p>Hałas, głód, brak snu, długi dzień, duża liczba zmian i pośpiech obniżają tolerancję frustracji.
+      Zachowanie może pogarszać się nie dlatego, że dziecko „bardziej testuje”, lecz dlatego, że ma mniej zasobów.</p>
+<p class="why">Dlaczego pora dnia ma znaczenie?</p>
+<p>To samo wymaganie może być łatwe rano i niemal niewykonalne wieczorem. Oczekiwania powinny uwzględniać aktualny stan dziecka.</p>
+</article>
+</div>
+<h3>Błędne koło konfliktu</h3>
+<div class="psych-chain">
+<div class="psych-node"><strong>1. Trudne zadanie</strong><br/><span class="small muted">nuda, zmęczenie, wiele kroków</span></div>
+<div class="psych-node"><strong>2. Unikanie</strong><br/><span class="small muted">zwlekanie, płacz, zmiana aktywności</span></div>
+<div class="psych-node"><strong>3. Nacisk rodzica</strong><br/><span class="small muted">powtarzanie, wykład, krzyk</span></div>
+<div class="psych-node"><strong>4. Eskalacja</strong><br/><span class="small muted">większy opór i mniejsza zdolność myślenia</span></div>
+<div class="psych-node"><strong>5. Ucieczka od zadania</strong><br/><span class="small muted">rodzic robi sam albo rezygnuje</span></div>
+</div>
+<div class="callout amber">
+    Jeżeli dziecko dzięki eskalacji regularnie unika obowiązku, zachowanie może zostać nieświadomie utrwalone.
+    Przerwanie cyklu polega na zmniejszeniu zadania, spokojnym utrzymaniu granicy i doprowadzeniu do choćby częściowego domknięcia.
+  </div>
+</section><section id="motywacja">
+<h2>6. Jak działa motywacja dziecka</h2>
+<p>Motywacja nie jest stałą cechą charakteru. Zależy od atrakcyjności zadania, poczucia kompetencji, jasności celu,
+  przewidywanego wysiłku, jakości relacji z dorosłym i szybkości nagrody. Dziecko może być bardzo wytrwałe w zabawie,
+  a jednocześnie szybko rezygnować przy sprzątaniu, ponieważ oba zadania mają zupełnie inny profil motywacyjny.</p>
+<div class="grid-3">
+<div class="rule-box">
+<strong>Im bardziej odległa nagroda, tym słabsza motywacja</strong>
+<p>Dla dziecka porządek „na później” jest mniej wartościowy niż natychmiastowa zabawa. Pomaga szybka informacja zwrotna i widoczny postęp.</p>
+</div>
+<div class="rule-box">
+<strong>Im większe zadanie, tym trudniejszy start</strong>
+<p>„Posprzątaj pokój” może oznaczać kilkadziesiąt decyzji. „Najpierw włóż wszystkie klocki do pudełka” ma niski próg wejścia.</p>
+</div>
+<div class="rule-box">
+<strong>Kompetencja zwiększa zaangażowanie</strong>
+<p>Dziecko chętniej podejmuje zadania, w których doświadcza sukcesu. Stała krytyka może prowadzić do strategii: „nie próbuję, więc nie przegrywam”.</p>
+</div>
+</div>
+<h3>Nagroda, łapówka i pozytywne wzmocnienie</h3>
+<table>
+<thead><tr><th>Mechanizm</th><th>Jak wygląda</th><th>Ocena wychowawcza</th></tr></thead>
+<tbody>
+<tr><td>Pozytywne wzmocnienie</td><td>Z góry wiadomo, jakie zachowanie przynosi punkt lub przywilej.</td><td>Uczy przewidywalnego związku między wysiłkiem a skutkiem.</td></tr>
+<tr><td>Łapówka w kryzysie</td><td>Rodzic oferuje coraz większą korzyść dopiero po płaczu lub odmowie.</td><td>Może wzmacniać eskalację, bo dziecko uczy się, że protest podnosi „stawkę”.</td></tr>
+<tr><td>Pochwała opisowa</td><td>„Sprawdziłaś listę i sama zauważyłaś brak ręcznika.”</td><td>Buduje świadomość skutecznej strategii, nie tylko zależność od oceny dorosłego.</td></tr>
+<tr><td>Nagroda odległa i niejasna</td><td>„Jak będziesz grzeczna, kiedyś coś dostaniesz.”</td><td>Jest słaba, bo kryterium i czas są nieprecyzyjne.</td></tr>
+</tbody>
+</table>
+<div class="callout green">
+<strong>Najbardziej rozwojowa pochwała opisuje zachowanie i strategię:</strong>
+    „Zatrzymałaś się, wróciłaś do listy i dokończyłaś. To była dobra kontrola zadania.”
+  </div>
+</section><section id="emocje-regulacja">
+<h2>7. Regulacja emocji: co robić przed, w trakcie i po wybuchu</h2>
+<table>
+<thead><tr><th>Faza</th><th>Co dzieje się psychologicznie</th><th>Co powinien zrobić dorosły</th></tr></thead>
+<tbody>
+<tr>
+<td>Przed wybuchem</td>
+<td>Rośnie napięcie, dziecko zwalnia, marudzi, negocjuje albo zaczyna wykonywać ruchy zastępcze.</td>
+<td>Zmniejszyć liczbę słów, zapowiedzieć zmianę, sprawdzić zmęczenie i podać pierwszy krok.</td>
+</tr>
+<tr>
+<td>W szczycie emocji</td>
+<td>Zdolność analizowania argumentów jest ograniczona. Długie tłumaczenie zwykle zwiększa przeciążenie.</td>
+<td>Zadbać o bezpieczeństwo, mówić spokojnie i krótko, nie rozstrzygać całego konfliktu.</td>
+</tr>
+<tr>
+<td>Po uspokojeniu</td>
+<td>Wraca zdolność refleksji, ale może pojawić się wstyd lub lęk przed krytyką.</td>
+<td>Krótko omówić zdarzenie, doprowadzić do naprawy i przećwiczyć lepszą reakcję na przyszłość.</td>
+</tr>
+</tbody>
+</table>
+<h3>Model rozmowy po konflikcie</h3>
+<ol class="steps">
+<li><strong>Fakt:</strong> „Na spacerze usiadłaś na chodniku i krzyczałaś.”</li>
+<li><strong>Emocja:</strong> „Byłaś bardzo zmęczona i zła.”</li>
+<li><strong>Granica:</strong> „Nie zgadzam się na kopanie ani uciekanie.”</li>
+<li><strong>Alternatywa:</strong> „Następnym razem możesz powiedzieć: potrzebuję przerwy.”</li>
+<li><strong>Naprawa:</strong> „Teraz przeproś i pomóż podnieść rzecz, którą przewróciłaś.”</li>
+</ol>
+<div class="callout blue">
+    Celem rozmowy nie jest wymuszenie długiego poczucia winy, lecz rozwinięcie świadomości emocji,
+    odpowiedzialności i konkretnej alternatywy zachowania.
+  </div>
+</section><section id="mity">
+<h2>8. Mity wychowawcze i ich korekta</h2>
+<div class="myth-grid">
+<div class="myth">
+<strong>Mit: „Jak raz odpuszczę przytulenie, dziecko nauczy się manipulować.”</strong>
+<p>Bliskość sama w sobie nie usuwa obowiązku. Problem powstaje dopiero wtedy, gdy po emocjonalnym kryzysie konsekwentnie znika wymaganie naprawy.</p>
+</div>
+<div class="fact">
+<strong>Fakt</strong>
+<p>Można jednocześnie przytulić dziecko i powiedzieć: „Kiedy się uspokoimy, wracamy do sprzątania.”</p>
+</div>
+<div class="myth">
+<strong>Mit: „Dziecko musi ponieść surową karę, inaczej nie zapamięta.”</strong>
+<p>Surowość zwiększa pamięć emocjonalną konfliktu, ale niekoniecznie uczy właściwej procedury.</p>
+</div>
+<div class="fact">
+<strong>Fakt</strong>
+<p>Najbardziej uczą konsekwencje logiczne: zabrudziłeś — czyścisz; zgubiłeś — uczestniczysz w szukaniu i tworzysz system odkładania.</p>
+</div>
+<div class="myth">
+<strong>Mit: „Jeżeli umie zrobić coś raz, powinno umieć zawsze.”</strong>
+<p>Wykonanie zależy od snu, pory dnia, pobudzenia, atrakcyjności zadania i obciążenia uwagi.</p>
+</div>
+<div class="fact">
+<strong>Fakt</strong>
+<p>Umiejętność może być obecna, ale niedostępna w trudniejszych warunkach. Wychowanie polega także na tworzeniu warunków do jej użycia.</p>
+</div>
+<div class="myth">
+<strong>Mit: „Dobry rodzic nie powinien się złościć.”</strong>
+<p>Złość jest normalną emocją. Problemem jest sposób jej wyrażania.</p>
+</div>
+<div class="fact">
+<strong>Fakt</strong>
+<p>Rodzic może powiedzieć: „Jestem bardzo zły i robię przerwę, żeby nie krzyczeć.” To modeluje samoregulację.</p>
+</div>
+</div>
+</section>
+<section id="granice">
+<h2>9. Co dokładnie znaczy „stawiać granice”</h2>
+<div class="callout blue">
+<strong>Granica to spokojnie zakomunikowana zasada dotycząca bezpieczeństwa, szacunku, odpowiedzialności lub organizacji życia,
+    której dorosły konsekwentnie pilnuje.</strong> Granica nie jest groźbą, karą ani próbą całkowitego kontrolowania emocji dziecka.
+  </div>
+<p>Stawianie granicy oznacza, że dorosły bierze odpowiedzialność za ramy sytuacji: mówi, co jest dozwolone,
+  co nie jest dozwolone, jaki będzie następny krok i co stanie się, gdy dziecko nie wykona obowiązku. Dziecko może być niezadowolone,
+  protestować lub płakać. Granica nie wymaga, aby dziecko zgodziło się z decyzją dorosłego. Wymaga natomiast, aby dorosły pozostał
+  spokojny, przewidywalny i gotowy doprowadzić sytuację do rozwiązania.</p>
+<div class="formula">
+    Granica = jasna zasada + spokojny komunikat + przewidywalna konsekwencja + zachowana relacja
+  </div>
+<h3>Granica nie jest ani surową dyscypliną, ani wychowaniem bez wymagań</h3>
+<div class="boundary-spectrum">
+<article class="boundary-card strict">
+<h3>Surowa dyscyplina</h3>
+<p><strong>Dominują:</strong> strach, kara, zawstydzanie, podporządkowanie i natychmiastowe posłuszeństwo.</p>
+<p><strong>Przykład:</strong> „Natychmiast sprzątasz. Jeżeli jeszcze raz zobaczę talerz, nie wychodzisz z domu przez tydzień.”</p>
+<p><strong>Problem:</strong> dziecko może wykonać polecenie ze strachu, lecz nie uczy się planowania, odpowiedzialności ani regulacji emocji.</p>
+</article>
+<article class="boundary-card balanced">
+<h3>Granica wspierająco-stanowcza</h3>
+<p><strong>Dominują:</strong> jasność, szacunek, odpowiedzialność, przewidywalność i pomoc adekwatna do wieku.</p>
+<p><strong>Przykład:</strong> „Jedzenie nie zostaje w pokoju. Teraz wynosisz talerz i wycierasz miejsce. Pomogę ci zacząć, ale zadanie kończysz ty.”</p>
+<p><strong>Efekt:</strong> dziecko doświadcza emocji, ale jednocześnie uczy się naprawy, procedury i konsekwencji własnych działań.</p>
+</article>
+<article class="boundary-card permissive">
+<h3>Wychowanie pobłażliwe</h3>
+<p><strong>Dominują:</strong> unikanie konfliktu, nadmierne tłumaczenie, ustępowanie po płaczu i przejmowanie obowiązków.</p>
+<p><strong>Przykład:</strong> „Widzę, że jesteś zmęczona. Zostaw, ja posprzątam, żebyś się nie denerwowała.”</p>
+<p><strong>Problem:</strong> dziecko nie uczy się tolerowania frustracji ani doprowadzania obowiązku do końca.</p>
+</article>
+</div>
+<h3>Z czego składa się dobra granica</h3>
+<table>
+<thead><tr><th>Element</th><th>Znaczenie</th><th>Przykład</th></tr></thead>
+<tbody>
+<tr>
+<td>Opis faktu</td>
+<td>Bez etykiet i interpretowania intencji.</td>
+<td>„Na biurku zostało jedzenie.”</td>
+</tr>
+<tr>
+<td>Zasada</td>
+<td>Krótka, konkretna i możliwa do sprawdzenia.</td>
+<td>„Po jedzeniu naczynia wracają do kuchni.”</td>
+</tr>
+<tr>
+<td>Następny krok</td>
+<td>Dziecko wie, co ma zrobić teraz, a nie tylko czego zrobiło źle.</td>
+<td>„Weź talerz. Potem wrócisz po opakowanie.”</td>
+</tr>
+<tr>
+<td>Konsekwencja logiczna</td>
+<td>Skutek jest związany z zachowaniem, nie jest arbitralną karą.</td>
+<td>„Dopóki nie posprzątasz miejsca, jedzenie będzie tylko przy stole.”</td>
+</tr>
+<tr>
+<td>Relacja</td>
+<td>Dziecko nie traci bliskości ani szacunku z powodu błędu.</td>
+<td>„Jestem z tobą. Złość nie zmienia zasady, ale nie zmienia też tego, że cię kocham.”</td>
+</tr>
+</tbody>
+</table>
+<h3>Przykłady granic w typowych sytuacjach</h3>
+<details open="">
+<summary>Dziecko odmawia sprzątania pokoju</summary>
+<div class="example-dialogue">
+<strong>Granica:</strong> „Nie musisz lubić sprzątania. Pokój ma być bez jedzenia na podłodze i z wolnym przejściem do łóżka.
+      Zaczynasz od śmieci. Kiedy skończysz ten etap, sprawdzimy następny.”
+    </div>
+<p><strong>Co tu jest granicą?</strong> Dorosły określa minimalny standard i kolejność. Nie wymaga entuzjazmu ani natychmiastowej idealności.</p>
+</details>
+<details>
+<summary>Dziecko krzyczy, bo ma wyłączyć tablet</summary>
+<div class="example-dialogue">
+<strong>Granica:</strong> „Możesz być zła. Nie pozwalam rzucać tabletem ani mnie obrażać. Timer zadzwonił, więc urządzenie odkładamy.
+      Możesz odłożyć je sama albo zrobię to ja.”
+    </div>
+<p><strong>Co tu jest granicą?</strong> Emocja jest dozwolona, ale konkretne zachowania nie. Dorosły nie negocjuje czasu po rozpoczęciu wybuchu.</p>
+</details>
+<details>
+<summary>Dziecko nie chce iść dalej na spacerze</summary>
+<div class="example-dialogue">
+<strong>Granica:</strong> „Zatrzymamy się na trzy minuty. Potem idziemy do domu. Możesz iść obok mnie albo trzymać mnie za rękę.
+      Nie będziemy siedzieć na chodniku przez kolejne pół godziny.”
+    </div>
+<p><strong>Co tu jest granicą?</strong> Dorosły uwzględnia zmęczenie, ale nadal kieruje przebiegiem sytuacji.</p>
+</details>
+<details>
+<summary>Dziecko przychodzi się przytulić po konflikcie</summary>
+<div class="example-dialogue">
+<strong>Granica:</strong> „Możesz się przytulić. Kiedy oboje się uspokoimy, wrócimy do naprawienia tego, co się stało.”
+    </div>
+<p><strong>Co tu jest granicą?</strong> Bliskość nie usuwa obowiązku. Dziecko nie musi zasłużyć na relację, ale musi uczestniczyć w naprawie.</p>
+</details>
+<h3>Granica a konsekwencja</h3>
+<div class="grid-2">
+<div class="callout green">
+<strong>Konsekwencja logiczna</strong>
+<p>Jest związana z zachowaniem, przewidywalna i możliwie krótka.</p>
+<p>Przykład: dziecko nie odkłada rzeczy na miejsce, więc przed kolejną zabawą musi najpierw uporządkować poprzednią.</p>
+</div>
+<div class="callout red">
+<strong>Kara arbitralna</strong>
+<p>Jest odległa od zachowania, często służy rozładowaniu złości dorosłego.</p>
+<p>Przykład: za nieodniesiony talerz dziecko traci wycieczkę zaplanowaną za dwa tygodnie.</p>
+</div>
+</div>
+<h3>Najczęstsze błędy przy stawianiu granic</h3>
+<ul>
+<li>zapowiadanie konsekwencji, których dorosły nie jest gotowy wprowadzić;</li>
+<li>zmienianie zasady pod wpływem płaczu albo długich negocjacji;</li>
+<li>próba kontrolowania emocji: „nie wolno ci się złościć”;</li>
+<li>wydawanie granicy w formie pytania: „może byś już posprzątała?”;</li>
+<li>zbyt wiele zasad naraz;</li>
+<li>karanie dziecka odbieraniem bliskości, rozmowy lub poczucia bezpieczeństwa;</li>
+<li>mylenie konsekwencji z odwetem za frustrację rodzica.</li>
+</ul>
+<div class="callout amber">
+<strong>Granica jest skuteczna wtedy, gdy dorosły potrafi ją utrzymać bez przemocy i bez rezygnacji z relacji.</strong>
+    Jeżeli rodzic musi krzyczeć, straszyć lub poniżać, aby wyegzekwować zasadę, oznacza to zwykle, że system jest źle przygotowany,
+    reakcja następuje za późno albo oczekiwanie przekracza aktualne możliwości dziecka.
+  </div>
+</section><section id="bledy">
+<h2>10. Najczęstsze błędy wychowawcze</h2>
+<div class="grid-3">
+<article class="card"><span class="tag">Błąd 1</span><h3>Etykietowanie dziecka</h3><p>Zamiast opisywać zachowanie, dorosły opisuje charakter: „leniwa”, „bałaganiara”, „manipulantka”.</p><p class="small muted"><strong>Skutek:</strong> wstyd, obrona, spadek motywacji.</p></article>
+<article class="card"><span class="tag">Błąd 2</span><h3>Za dużo słów</h3><p>Długie tłumaczenia w chwili napięcia obciążają uwagę i zwiększają frustrację.</p><p class="small muted"><strong>Skutek:</strong> dziecko „odpływa”, a rodzic odbiera to jako ignorowanie.</p></article>
+<article class="card"><span class="tag">Błąd 3</span><h3>Brak procedury</h3><p>Rodzic zakłada, że dziecko samo utrzyma w głowie plan kilku lub kilkunastu kroków.</p><p class="small muted"><strong>Skutek:</strong> zadania są zaczynane, ale nie są kończone.</p></article>
+<article class="card"><span class="tag">Błąd 4</span><h3>Niestabilne granice</h3><p>Raz coś wolno, raz nie. Czasem obowiązek znika, bo dorosły jest zmęczony.</p><p class="small muted"><strong>Skutek:</strong> dziecko uczy się, że zasady są nieprzewidywalne.</p></article>
+<article class="card"><span class="tag">Błąd 5</span><h3>Reagowanie dopiero w szczycie złości</h3><p>Rodzic czeka za długo, kumuluje napięcie i włącza się dopiero przy poważnym bałaganie.</p><p class="small muted"><strong>Skutek:</strong> wychowanie kojarzy się dziecku z wybuchem, nie z nauką.</p></article>
+<article class="card"><span class="tag">Błąd 6</span><h3>Mylenie bliskości z pobłażliwością</h3><p>Dorosły boi się przytulić dziecko po konflikcie, aby „nie nagradzać złego zachowania”.</p><p class="small muted"><strong>Skutek:</strong> rośnie lęk i napięcie, a nauka naprawy sytuacji staje się trudniejsza.</p></article>
+</div>
+</section>
+<section id="jak-wyglada">
+<h2>11. Jak powinno to wyglądać wychowawczo</h2>
+<div class="callout blue">
+<strong>Dobra interwencja wychowawcza łączy cztery elementy:</strong> kontakt, granicę, strukturę i odpowiedzialność.
+    </div>
+<table>
+<thead>
+<tr><th>Element</th><th>Co oznacza w praktyce</th><th>Przykład</th></tr>
+</thead>
+<tbody>
+<tr><td>Kontakt</td><td>Najpierw obniżenie napięcia i krótkie nazwanie sytuacji.</td><td>„Widzę, że utknęłaś i jest ci trudno.”</td></tr>
+<tr><td>Granica</td><td>Jasne wskazanie, że obowiązek pozostaje aktualny.</td><td>„Jedzenie nie zostaje w pokoju.”</td></tr>
+<tr><td>Struktura</td><td>Podanie prostego planu lub odesłanie do listy.</td><td>„Teraz robimy trzy kroki: talerz, resztki, wytarcie.”</td></tr>
+<tr><td>Odpowiedzialność</td><td>Dziecko uczestniczy w naprawie sytuacji.</td><td>„Pierwszy krok zrobię z tobą, resztę kończysz sama.”</td></tr>
+</tbody>
+</table>
+</section>
+<section id="scenariusze">
+<h2>12. Praktyczne przykłady reagowania</h2>
+<details open="">
+<summary>Przykład A. Jedzenie zostaje w pokoju</summary>
+<div class="compare">
+<div class="bad">
+<h4>❌ Reakcja nieskuteczna</h4>
+<p>„Ile razy mam ci powtarzać? Znowu zostawiłaś jedzenie. Zaraz będą mrówki. Ty w ogóle nie myślisz!”</p>
+<p><strong>Skutek:</strong> dziecko słyszy ocenę siebie, a nie plan działania.</p>
+</div>
+<div class="good">
+<h4>✅ Reakcja skuteczniejsza</h4>
+<p>„Jedzenie zostało w pokoju. Teraz robimy trzy kroki: wynosimy talerz, wyrzucamy resztki, wycieramy miejsce. Pierwszy krok zrobimy razem.”</p>
+<p><strong>Dlaczego działa:</strong> granica pozostaje, ale dziecko dostaje jasną strukturę naprawy.</p>
+<p><strong>Mechanizm psychologiczny: </strong>skuteczniejsza reakcja ogranicza przeciążenie, zachowuje granicę i uczy dziecko konkretnej strategii zamiast wywoływać wstyd.</p></div>
+</div>
+</details>
+<details>
+<summary>Przykład B. Dziecko zaczęło pakowanie na basen i odpłynęło</summary>
+<div class="compare">
+<div class="bad">
+<h4>❌ Reakcja nieskuteczna</h4>
+<p>„Masz już osiem lat i dalej nie umiesz się spakować? Inne dzieci to potrafią.”</p>
+<p><strong>Skutek:</strong> porównanie do innych dzieci nasila wstyd i nie uczy procedury.</p>
+</div>
+<div class="good">
+<h4>✅ Reakcja skuteczniejsza</h4>
+<p>„Widzę, że zatrzymałaś się w połowie. Sprawdź listę i powiedz mi, na którym jesteś punkcie.”</p>
+<p><strong>Dlaczego działa:</strong> dziecko ćwiczy samodzielny powrót do procesu.</p>
+<p><strong>Mechanizm psychologiczny: </strong>skuteczniejsza reakcja ogranicza przeciążenie, zachowuje granicę i uczy dziecko konkretnej strategii zamiast wywoływać wstyd.</p></div>
+</div>
+</details>
+<details>
+<summary>Przykład C. Płacz i marudzenie na spacerze</summary>
+<div class="compare">
+<div class="bad">
+<h4>❌ Reakcja nieskuteczna</h4>
+<p>„Przestań marudzić. Nic ci nie jest.”</p>
+<p><strong>Skutek:</strong> emocje są odrzucone, a pobudzenie rośnie.</p>
+</div>
+<div class="good">
+<h4>✅ Reakcja skuteczniejsza</h4>
+<p>„Widzę, że jesteś zmęczona. Dojdziemy do ławki i tam odpoczniemy. Chcesz iść obok mnie czy trzymać mnie za rękę?”</p>
+<p><strong>Dlaczego działa:</strong> uznaje emocje, daje przewidywalny horyzont i ograniczony wybór.</p>
+<p><strong>Mechanizm psychologiczny: </strong>skuteczniejsza reakcja ogranicza przeciążenie, zachowuje granicę i uczy dziecko konkretnej strategii zamiast wywoływać wstyd.</p></div>
+</div>
+</details>
+<details>
+<summary>Przykład D. Dziecko przychodzi się przytulić, gdy rodzic jest już zły</summary>
+<div class="compare">
+<div class="bad">
+<h4>❌ Reakcja nieskuteczna</h4>
+<p>„Teraz to już za późno na przytulanie.”</p>
+<p><strong>Skutek:</strong> dziecko traci dostęp do koregulacji.</p>
+</div>
+<div class="good">
+<h4>✅ Reakcja skuteczniejsza</h4>
+<p>„Jestem bardzo zdenerwowany, ale możesz się przytulić. Uspokoimy się i potem wrócimy do tej sytuacji.”</p>
+<p><strong>Dlaczego działa:</strong> bliskość nie znosi odpowiedzialności, ale ułatwia naprawę.</p>
+<p><strong>Mechanizm psychologiczny: </strong>skuteczniejsza reakcja ogranicza przeciążenie, zachowuje granicę i uczy dziecko konkretnej strategii zamiast wywoływać wstyd.</p></div>
+</div>
+</details>
+</section><section id="przyklady-dodatkowe">
+<h2>13. Dodatkowe przykłady z życia codziennego</h2>
+<p>Poniższe scenariusze dotyczą częstych problemów wychowawczych, które mogą występować zarówno u dzieci z ADHD, jak i bez niego.</p>
+<details open="">
+<summary>Przykład F. Poranny pośpiech przed szkołą</summary>
+<div class="compare">
+<div class="bad">
+<h4>❌ Reakcja nieskuteczna</h4>
+<p>„Znowu jesteśmy spóźnieni przez ciebie. Ile można czekać? Natychmiast się ubieraj, myj zęby, pakuj plecak i zakładaj buty!”</p>
+<p><strong>Problem:</strong> zbyt wiele poleceń naraz, rosnące napięcie i brak planu krok po kroku.</p>
+</div>
+<div class="good">
+<h4>✅ Reakcja skuteczniejsza</h4>
+<p>„Teraz tylko pierwszy krok: ubierz spodnie i bluzę. Potem sprawdzimy następną rzecz na porannej liście.”</p>
+<p><strong>Dlaczego działa:</strong> zmniejsza przeciążenie i daje dziecku szansę na mały sukces od razu.</p>
+<p><strong>Mechanizm psychologiczny: </strong>skuteczniejsza reakcja ogranicza przeciążenie, zachowuje granicę i uczy dziecko konkretnej strategii zamiast wywoływać wstyd.</p></div>
+</div>
+</details>
+<details>
+<summary>Przykład G. Odrabianie lekcji kończy się ucieczką od stołu</summary>
+<div class="compare">
+<div class="bad">
+<h4>❌ Reakcja nieskuteczna</h4>
+<p>„Siadaj i nie wstawaj, dopóki nie skończysz wszystkiego. Żadnych przerw.”</p>
+<p><strong>Problem:</strong> dla wielu dzieci, zwłaszcza zmęczonych po szkole, to zbyt wysoki próg wejścia.</p>
+</div>
+<div class="good">
+<h4>✅ Reakcja skuteczniejsza</h4>
+<p>„Zaczynamy od dziesięciu minut pracy, potem dwie minuty ruchu. Zaznaczmy, które zadanie robimy najpierw.”</p>
+<p><strong>Dlaczego działa:</strong> dzieli wysiłek na odcinki i wzmacnia poczucie przewidywalności.</p>
+<p><strong>Mechanizm psychologiczny: </strong>skuteczniejsza reakcja ogranicza przeciążenie, zachowuje granicę i uczy dziecko konkretnej strategii zamiast wywoływać wstyd.</p></div>
+</div>
+</details>
+<details>
+<summary>Przykład H. Trudność z odłożeniem ekranu</summary>
+<div class="compare">
+<div class="bad">
+<h4>❌ Reakcja nieskuteczna</h4>
+<p>„Wyłącz to natychmiast, bo zabiorę ci tablet na tydzień!”</p>
+<p><strong>Problem:</strong> gwałtowne przerwanie atrakcyjnej aktywności bez przygotowania zwykle zwiększa opór.</p>
+</div>
+<div class="good">
+<h4>✅ Reakcja skuteczniejsza</h4>
+<p>„Za pięć minut kończysz. Gdy zadzwoni timer, zapisujesz grę i przechodzisz do kolacji. Chcesz ustawić minutnik samodzielnie czy zrobię to ja?”</p>
+<p><strong>Dlaczego działa:</strong> zapowiada zmianę, daje ramę czasową i ograniczony wybór.</p>
+<p><strong>Mechanizm psychologiczny: </strong>skuteczniejsza reakcja ogranicza przeciążenie, zachowuje granicę i uczy dziecko konkretnej strategii zamiast wywoływać wstyd.</p></div>
+</div>
+</details>
+<details>
+<summary>Przykład I. Gubienie bluzy, bidonu lub piórnika</summary>
+<div class="compare">
+<div class="bad">
+<h4>❌ Reakcja nieskuteczna</h4>
+<p>„Jak można ciągle wszystko gubić? Ty niczego nie szanujesz.”</p>
+<p><strong>Problem:</strong> krytyka nie uczy systemu zapamiętywania ani odkładania rzeczy.</p>
+</div>
+<div class="good">
+<h4>✅ Reakcja skuteczniejsza</h4>
+<p>„Potrzebujemy stałego rytuału końca dnia: sprawdzasz ławkę, wieszak i plecak. Zróbmy z tego trzy punkty kontroli.”</p>
+<p><strong>Dlaczego działa:</strong> buduje zewnętrzną procedurę, a nie opiera się wyłącznie na pamięci dziecka.</p>
+<p><strong>Mechanizm psychologiczny: </strong>skuteczniejsza reakcja ogranicza przeciążenie, zachowuje granicę i uczy dziecko konkretnej strategii zamiast wywoływać wstyd.</p></div>
+</div>
+</details>
+<details>
+<summary>Przykład J. Kłótnia z rodzeństwem o drobiazg</summary>
+<div class="compare">
+<div class="bad">
+<h4>❌ Reakcja nieskuteczna</h4>
+<p>„Oboje przestańcie natychmiast. Mam już was dość. Idziecie do swoich pokoi!”</p>
+<p><strong>Problem:</strong> czasem zatrzymuje awanturę, ale nie uczy rozpoznawania emocji ani naprawy relacji.</p>
+</div>
+<div class="good">
+<h4>✅ Reakcja skuteczniejsza</h4>
+<p>„Stop. Najpierw każdy mówi jednym zdaniem, czego chciał. Potem ustalimy, co teraz robimy, żeby naprawić sytuację.”</p>
+<p><strong>Dlaczego działa:</strong> uczy zatrzymania impulsu, nazywania potrzeb i przechodzenia do rozwiązania.</p>
+<p><strong>Mechanizm psychologiczny: </strong>skuteczniejsza reakcja ogranicza przeciążenie, zachowuje granicę i uczy dziecko konkretnej strategii zamiast wywoływać wstyd.</p></div>
+</div>
+</details>
+</section>
+<section id="procedury">
+<h2>15. Procedury i narzędzia do codziennego użycia</h2>
+<details open="">
+<summary>Procedura: pakowanie na basen</summary>
+<div class="checklist" data-list="basen">
+<label><input type="checkbox"/>Połóż torbę w jednym stałym miejscu.</label>
+<label><input type="checkbox"/>Włóż strój kąpielowy.</label>
+<label><input type="checkbox"/>Włóż ręcznik.</label>
+<label><input type="checkbox"/>Włóż klapki.</label>
+<label><input type="checkbox"/>Włóż czepek i okularki.</label>
+<label><input type="checkbox"/>Włóż ubranie na zmianę.</label>
+<label><input type="checkbox"/>Włóż wodę.</label>
+<label><input type="checkbox"/>Zamknij torbę i sprawdź listę od początku.</label>
+<label><input type="checkbox"/>Postaw torbę przy drzwiach.</label>
+</div>
+</details>
+<details>
+<summary>Procedura: kanapki do szkoły</summary>
+<div class="checklist" data-list="kanapki">
+<label><input type="checkbox"/>Umyj ręce.</label>
+<label><input type="checkbox"/>Postaw pudełko śniadaniowe na blacie.</label>
+<label><input type="checkbox"/>Wyjmij chleb i ustalone składniki.</label>
+<label><input type="checkbox"/>Zrób kanapki.</label>
+<label><input type="checkbox"/>Włóż kanapki do pudełka i zamknij pudełko.</label>
+<label><input type="checkbox"/>Schowaj produkty.</label>
+<label><input type="checkbox"/>Wyrzuć odpady i wytrzyj blat.</label>
+<label><input type="checkbox"/>Włóż pudełko do plecaka.</label>
+</div>
+</details>
+<h3>Dziennik obserwacji</h3>
+<p class="small muted">Dane są zapisywane lokalnie w przeglądarce na tym urządzeniu.</p>
+<div class="tracker">
+<table>
+<thead>
+<tr><th>Data</th><th>Lek / godzina</th><th>Zadanie</th><th>Co poprzedzało?</th><th>Zachowanie dziecka</th><th>Pomoc rodzica</th><th>Rezultat</th></tr>
+</thead>
+<tbody id="logBody"></tbody>
+</table>
+</div>
+<div class="hero-cta">
+<button class="btn primary" onclick="addRow()">Dodaj wiersz</button>
+<button class="btn" onclick="clearLog()">Wyczyść dziennik</button>
+</div>
+</section>
+<section id="szkola">
+<h2>14. Jak szkoła powinna wspierać dziecko, które obecnie otrzymuje słabe oceny</h2>
+<div class="callout blue">
+<strong>Słabe oceny nie zawsze oznaczają brak wiedzy lub niskie możliwości.</strong>
+    Mogą odzwierciedlać wolne tempo pracy, problemy z organizacją, lęk przed oceną, trudność z utrzymaniem uwagi,
+    nieczytelne polecenia, brak czasu na dokończenie albo przeciążenie pamięci roboczej.
+  </div>
+<p>Rolą szkoły nie jest usuwanie wszystkich wymagań ani automatyczne podwyższanie ocen. Szkoła powinna tak zorganizować nauczanie,
+  aby ocena możliwie dobrze mierzyła rzeczywistą wiedzę i umiejętności, a nie głównie szybkość pisania, odporność na hałas,
+  zdolność pamiętania kilku instrukcji naraz czy umiejętność siedzenia bez ruchu przez długi czas.</p>
+<h3>Dostosowanie nie oznacza obniżenia poziomu</h3>
+<div class="boundary-spectrum">
+<article class="boundary-card strict">
+<h3>Brak dostosowania</h3>
+<p>Wszystkie dzieci wykonują zadanie w identycznym czasie, formie i warunkach, nawet gdy te warunki zniekształcają wynik.</p>
+<p><strong>Skutek:</strong> ocena może mierzyć trudność wykonawczą zamiast wiedzy.</p>
+</article>
+<article class="boundary-card balanced">
+<h3>Dostosowanie warunków</h3>
+<p>Cel edukacyjny pozostaje, ale zmienia się organizacja: krótsze polecenie, więcej czasu, podział pracy, spokojniejsze miejsce,
+      możliwość odpowiedzi ustnej lub częstsza informacja zwrotna.</p>
+<p><strong>Skutek:</strong> dziecko ma realną możliwość pokazania, czego się nauczyło.</p>
+</article>
+<article class="boundary-card permissive">
+<h3>Obniżanie wymagań bez planu</h3>
+<p>Dziecko nie musi wykonywać zadań, nie otrzymuje korekty albo dostaje dobre oceny za sam udział.</p>
+<p><strong>Skutek:</strong> brak rozwoju kompetencji i fałszywy obraz postępu.</p>
+</article>
+</div>
+<h3>Co szkoła może zrobić w codziennej pracy</h3>
+<div class="school-grid">
+<article class="school-card">
+<h3>1. Uporządkować polecenia</h3>
+<ul>
+<li>podawać jedno polecenie lub etap naraz;</li>
+<li>zapisywać najważniejsze kroki na tablicy;</li>
+<li>prosić ucznia o powtórzenie własnymi słowami, co ma zrobić;</li>
+<li>oznaczać, które zadania są obowiązkowe, a które dodatkowe.</li>
+</ul>
+</article>
+<article class="school-card">
+<h3>2. Dostosować tempo</h3>
+<ul>
+<li>wydłużyć czas na sprawdzian lub zmniejszyć liczbę zadań przy zachowaniu reprezentatywnego zakresu;</li>
+<li>dzielić długie sprawdziany na części;</li>
+<li>nie karać oceną za wolne tempo, jeżeli celem jest sprawdzenie rozumienia;</li>
+<li>umożliwić dokończenie pracy w spokojniejszych warunkach.</li>
+</ul>
+</article>
+<article class="school-card">
+<h3>3. Ograniczyć przeciążenie</h3>
+<ul>
+<li>posadzić dziecko w miejscu z mniejszą liczbą rozpraszaczy, ale bez izolowania go jako „problematycznego”;</li>
+<li>zapewnić krótkie, zaplanowane przerwy ruchowe;</li>
+<li>ograniczyć jednoczesne wymaganie słuchania, przepisywania i zapamiętywania;</li>
+<li>udostępniać plan lekcji, listę materiałów i terminy w jednej stałej formie.</li>
+</ul>
+</article>
+<article class="school-card">
+<h3>4. Zmienić sposób informacji zwrotnej</h3>
+<ul>
+<li>zaznaczać, co uczeń zrobił dobrze i jaki jest jeden kolejny cel;</li>
+<li>nie komentować publicznie roztargnienia, wolnego tempa ani bałaganu;</li>
+<li>oceniać proces uczenia się, poprawę i użycie strategii;</li>
+<li>unikać etykiet typu „leniwy”, „nieuważny”, „zdolny, ale mu się nie chce”.</li>
+</ul>
+</article>
+<article class="school-card">
+<h3>5. Umożliwić różne formy pokazania wiedzy</h3>
+<ul>
+<li>odpowiedź ustna zamiast części pracy pisemnej;</li>
+<li>projekt, prezentacja, model lub mapa pojęć;</li>
+<li>krótsze kartkówki obejmujące mniejsze partie materiału;</li>
+<li>ocena treści oddzielona od estetyki pisma, jeśli grafomotoryka nie jest celem zadania.</li>
+</ul>
+</article>
+<article class="school-card">
+<h3>6. Zbudować system organizacji</h3>
+<ul>
+<li>stała checklista końca lekcji: zadanie, książka, zeszyt, termin;</li>
+<li>jedno miejsce publikowania informacji dla rodziców i ucznia;</li>
+<li>krótkie sprawdzenie plecaka lub planera w okresie nauki systemu;</li>
+<li>stopniowe wycofywanie pomocy, gdy uczeń staje się bardziej samodzielny.</li>
+</ul>
+</article>
+</div>
+<h3>Jak oceniać dziecko, aby ocena wspierała rozwój</h3>
+<div class="rating-row">
+<strong>Ocena osiągnięcia</strong>
+<div>Co dziecko rzeczywiście rozumie i potrafi wykonać względem podstawy programowej.</div>
+</div>
+<div class="rating-row">
+<strong>Ocena procesu</strong>
+<div>Czy uczeń rozpoczął zadanie, zastosował strategię, poprawił błąd i skorzystał z informacji zwrotnej.</div>
+</div>
+<div class="rating-row">
+<strong>Ocena bariery</strong>
+<div>Czy słaby wynik wynikał z braku wiedzy, czy z tempa, dezorganizacji, lęku, nieuwagi albo niezrozumienia instrukcji.</div>
+</div>
+<div class="rating-row">
+<strong>Plan następnego kroku</strong>
+<div>Jeden konkretny cel na kolejne tygodnie, np. „zapisuje zadanie w planerze” zamiast ogólnego „ma się bardziej starać”.</div>
+</div>
+<h3>Przykład: dziecko rozumie matematykę, ale otrzymuje słabe oceny</h3>
+<table>
+<thead><tr><th>Obserwacja</th><th>Możliwa przyczyna</th><th>Dostosowanie</th></tr></thead>
+<tbody>
+<tr>
+<td>Rozwiązuje zadania ustnie, ale nie kończy sprawdzianu.</td>
+<td>Wolne tempo pisania, rozpraszanie lub trudność z planowaniem czasu.</td>
+<td>Więcej czasu, mniej powtarzalnych przykładów, sprawdzanie reprezentatywnych umiejętności.</td>
+</tr>
+<tr>
+<td>Popełnia błędy mimo znajomości sposobu rozwiązania.</td>
+<td>Brak kontroli końcowej, impulsywność.</td>
+<td>Stała checklista: znak działania, przepisanie danych, sprawdzenie wyniku.</td>
+</tr>
+<tr>
+<td>Nie wykonuje zadań tekstowych.</td>
+<td>Przeciążenie językowe lub pamięci roboczej.</td>
+<td>Podkreślenie danych, podział polecenia, możliwość użycia schematu graficznego.</td>
+</tr>
+</tbody>
+</table>
+<h3>Plan współpracy szkoły z rodzicem</h3>
+<ol class="steps">
+<li><strong>Zebrać dane:</strong> w jakich przedmiotach, porach i typach zadań pojawia się największa trudność.</li>
+<li><strong>Oddzielić wiedzę od wykonania:</strong> sprawdzić, czy dziecko rozumie materiał w rozmowie, pracy ustnej lub w spokojnych warunkach.</li>
+<li><strong>Wybrać 2–3 dostosowania:</strong> nie wprowadzać kilkunastu zmian naraz.</li>
+<li><strong>Ustalić miernik:</strong> np. odsetek ukończonych zadań, liczba zapisanych prac domowych, liczba samodzielnych kontroli.</li>
+<li><strong>Ocenić po 4–6 tygodniach:</strong> pozostawić działania skuteczne, zmienić nieskuteczne.</li>
+<li><strong>Włączyć specjalistę:</strong> pedagoga, psychologa szkolnego lub poradnię, gdy trudności są trwałe i znaczące.</li>
+</ol>
+<h3>Pomoc psychologiczno-pedagogiczna w polskiej szkole</h3>
+<p>Pomoc psychologiczno-pedagogiczna może być udzielana w bieżącej pracy nauczycieli oraz przez zintegrowane działania nauczycieli
+  i specjalistów. Może zostać zainicjowana m.in. przez rodzica, nauczyciela, wychowawcę, specjalistę lub poradnię. Publiczne poradnie
+  psychologiczno-pedagogiczne wspierają dzieci, rodziców i szkoły, a ich pomoc jest dobrowolna i nieodpłatna.</p>
+<div class="callout green">
+<strong>Praktyczny wniosek dla rodzica:</strong> nie trzeba czekać, aż dziecko „spadnie” do bardzo niskich wyników.
+    Warto pisemnie poprosić wychowawcę lub dyrektora o spotkanie zespołu osób pracujących z dzieckiem, opis trudności,
+    ustalenie konkretnych dostosowań i termin ponownej oceny ich skuteczności.
+  </div>
+<h3>Przykładowy komunikat do szkoły</h3>
+<div class="example-dialogue">
+    „Proszę o wspólne przeanalizowanie, czy obecne oceny córki odzwierciedlają brak opanowania materiału, czy trudności w organizacji,
+    tempie pracy i utrzymaniu uwagi. Chciałbym ustalić dwa lub trzy konkretne dostosowania na najbliższe sześć tygodni oraz sposób
+    mierzenia ich skuteczności.”
+  </div>
+<h3>Czego szkoła nie powinna robić</h3>
+<ul>
+<li>uznawać słabych ocen za dowód lenistwa bez analizy procesu uczenia się;</li>
+<li>publicznie zawstydzać dziecka za roztargnienie, zapominanie lub wolne tempo;</li>
+<li>karać dodatkową pracą za objawy trudności wykonawczych;</li>
+<li>stawiać wszystkich wymagań organizacyjnych jednocześnie;</li>
+<li>ograniczać pomocy wyłącznie do „proszę bardziej uważać”;</li>
+<li>oceniać zachowania wynikające z trudności jako brak szacunku bez sprawdzenia przyczyny;</li>
+<li>obniżać wymagań bez planu rozwijania samodzielności.</li>
+</ul>
+<div class="callout amber">
+<strong>Najważniejsze:</strong> celem dostosowania jest umożliwienie rozwoju i rzetelnego sprawdzenia wiedzy.
+    Nie chodzi o gwarantowanie wysokich ocen, lecz o usunięcie niepotrzebnych barier i równoczesne uczenie dziecka strategii,
+    które z czasem pozwolą ograniczać pomoc.
+  </div>
+</section><section id="podsumowanie">
+<h2>16. Najważniejsze zasady niezależnie od diagnozy</h2>
+<div class="grid-2">
+<div class="callout green">
+<strong>Stosuj</strong>
+<ul>
+<li>krótkie, konkretne polecenia;</li>
+<li>stałe rutyny i widoczne listy;</li>
+<li>wybór w granicach ustalonych przez dorosłego;</li>
+<li>pochwałę za wysiłek, rozpoczęcie i domknięcie;</li>
+<li>naprawę szkody zamiast zawstydzającej kary;</li>
+<li>bliskość połączoną z odpowiedzialnością.</li>
+</ul>
+</div>
+<div class="callout red">
+<strong>Unikaj</strong>
+<ul>
+<li>etykietowania charakteru dziecka;</li>
+<li>porównywania z rodzeństwem lub rówieśnikami;</li>
+<li>wielominutowych kazań w chwili konfliktu;</li>
+<li>gróźb, których dorosły nie zrealizuje;</li>
+<li>odbierania bliskości jako kary;</li>
+<li>oczekiwania samodzielności bez wcześniejszego treningu.</li>
+</ul>
+</div>
+</div>
+<div class="callout blue">
+<strong>ADHD zmienia przede wszystkim skalę potrzebnego wsparcia, a nie podstawowe zasady dobrego wychowania.</strong>
+    Dzieci bez ADHD także korzystają z przewidywalności, spokojnych granic i ćwiczenia funkcji wykonawczych.
+    U dziecka z ADHD wsparcie musi być zwykle częstsze, bardziej zewnętrzne i utrzymywane dłużej.
+  </div>
+</section><section id="zrodla">
+<h2>17. Źródła i dalsza lektura</h2>
+<ol><li>Center on the Developing Child, Harvard University. <a href="https://developingchild.harvard.edu/resource-guides/guide-executive-function/">A Guide to Executive Function</a>.</li><li>American Academy of Pediatrics / HealthyChildren.org. <a href="https://www.healthychildren.org/English/family-life/family-dynamics/communication-discipline/Pages/Disciplining-Your-Child.aspx">What’s the Best Way to Discipline My Child?</a>.</li><li>American Academy of Pediatrics / HealthyChildren.org. <a href="https://www.healthychildren.org/English/family-life/family-dynamics/communication-discipline/Pages/Normal-Child-Behavior.aspx">Normal Child Behavior</a>.</li><li>American Academy of Pediatrics / HealthyChildren.org. <a href="https://www.healthychildren.org/English/ages-stages/gradeschool/Pages/The-Disobedient-Child.aspx">The Disobedient Child</a>.</li>
+<li>Centers for Disease Control and Prevention. <a href="https://www.cdc.gov/adhd/data/index.html">Data and Statistics on ADHD</a>.</li>
+<li>Centers for Disease Control and Prevention. <a href="https://www.cdc.gov/adhd/treatment/index.html">Treatment of ADHD</a>.</li>
+<li>Centers for Disease Control and Prevention. <a href="https://www.cdc.gov/adhd/treatment/behavior-therapy.html">Parent Training in Behavior Management for ADHD</a>.</li>
+<li>National Institute for Health and Care Excellence. <a href="https://www.nice.org.uk/guidance/ng87">Attention deficit hyperactivity disorder: diagnosis and management (NG87)</a>.</li>
+<li>Wolraich ML, Hagan JF, Allan C, i wsp. Clinical Practice Guideline for the Diagnosis, Evaluation, and Treatment of ADHD in Children and Adolescents. <em>Pediatrics</em>. 2019;144(4):e20192528.</li>
+<li>Thomas R, Sanders S, Doust J, Beller E, Glasziou P. Prevalence of attention-deficit/hyperactivity disorder: a systematic review and meta-analysis. <em>Pediatrics</em>. 2015;135(4):e994-e1001.</li>
+<li>Cortese S, Adamo N, Del Giovane C, i wsp. Comparative efficacy and tolerability of medications for ADHD in children, adolescents, and adults: a systematic review and network meta-analysis. <em>Lancet Psychiatry</em>. 2018;5(9):727-738.</li>
+<li>Center on the Developing Child at Harvard University. <a href="https://developingchild.harvard.edu/resources/briefs/how-to-motivate-children-science-based-approaches-for-parents-caregivers-and-teachers/">How to Motivate Children: Science-Based Approaches</a></li><li>Ministerstwo Edukacji Narodowej. <a href="https://www.gov.pl/web/edukacja/pomoc-psychologiczno-pedagogiczna2">Pomoc psychologiczno-pedagogiczna</a></li><li>Ministerstwo Edukacji Narodowej. <a href="https://www.gov.pl/web/edukacja/poradnictwo-psychologiczno-pedagogiczne">Poradnictwo psychologiczno-pedagogiczne</a></li><li>Internetowy System Aktów Prawnych. <a href="https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001591">Rozporządzenie MEN z 9 sierpnia 2017 r. w sprawie pomocy psychologiczno-pedagogicznej</a></li></ol>
+</section>
+</main>
+<footer>
+<p>Opracowanie edukacyjne dotyczące granic wychowawczych, trudnych zachowań dzieci i wsparcia szkolnego. Wersja rozszerzona o rozdział dotyczący polskiej szkoły i pomocy psychologiczno-pedagogicznej. Aktualizacja: lipiec 2026 r.</p>
+</footer>
+<script>
+const progress = document.getElementById('progress');
+addEventListener('scroll', () => {
+  const d = document.documentElement;
+  const max = d.scrollHeight - d.clientHeight;
+  progress.style.width = (max ? (d.scrollTop / max * 100) : 0) + '%';
+});
+
+document.querySelectorAll('.checklist').forEach((list) => {
+  const boxes = [...list.querySelectorAll('input')];
+  boxes.forEach((box, i) => {
+    const key = `adhd-check-${list.dataset.list}-${i}`;
+    box.checked = localStorage.getItem(key) === '1';
+    box.addEventListener('change', () => localStorage.setItem(key, box.checked ? '1' : '0'));
+  });
+});
+
+const fields = ['date','med','task','before','behavior','help','result'];
+function rowTemplate(data = {}) {
+  const tr = document.createElement('tr');
+  fields.forEach((f, idx) => {
+    const td = document.createElement('td');
+    const el = idx < 3 ? document.createElement('input') : document.createElement('textarea');
+    if (f === 'date') el.type = 'date';
+    el.value = data[f] || '';
+    el.dataset.field = f;
+    el.addEventListener('input', saveLog);
+    td.appendChild(el);
+    tr.appendChild(td);
+  });
+  return tr;
+}
+function loadLog(){
+  let rows;
+  try { rows = JSON.parse(localStorage.getItem('adhd-log-2') || '[]'); } catch(e){ rows = []; }
+  if (!rows.length) rows = [{}];
+  rows.forEach(r => document.getElementById('logBody').appendChild(rowTemplate(r)));
+}
+function saveLog(){
+  const rows = [...document.querySelectorAll('#logBody tr')].map(tr => {
+    const obj = {};
+    tr.querySelectorAll('[data-field]').forEach(el => obj[el.dataset.field] = el.value);
+    return obj;
+  });
+  localStorage.setItem('adhd-log-2', JSON.stringify(rows));
+}
+function addRow(){
+  document.getElementById('logBody').appendChild(rowTemplate());
+  saveLog();
+}
+function clearLog(){
+  if (confirm('Usunąć wszystkie wpisy z dziennika?')) {
+    localStorage.removeItem('adhd-log-2');
+    document.getElementById('logBody').innerHTML = '';
+    addRow();
+  }
+}
+loadLog();
+</script>
+</body>
+</html>

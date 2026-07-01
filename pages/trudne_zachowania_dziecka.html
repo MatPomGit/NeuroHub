@@ -5,7 +5,7 @@
 <meta charset="utf-8"/>
 <meta content="width=device-width,initial-scale=1" name="viewport"/>
 <meta content="Praktyczny poradnik psychologiczny: czym jest stawianie granic bez surowej dyscypliny i bez pobłażliwości, jak reagować na trudne zachowania oraz jak szkoła powinna wspierać dziecko, które obecnie otrzymuje słabe oceny." name="description"/>
-<title>Trudne zachowania dziecka — granice wychowawcze, rozwój i wsparcie szkolne</title>
+<title>Trudne zachowania dziecka — interaktywny poradnik wychowawczy</title>
 <style>
 :root{
   --bg:#f4f7f9; --paper:#ffffff; --ink:#1b2834; --muted:#607180; --line:#d8e1e9;
@@ -188,9 +188,124 @@ footer{max-width:var(--max);margin:auto;padding:0 24px 50px;color:var(--muted);f
   .boundary-spectrum,.school-grid{grid-template-columns:1fr}
   .rating-row{grid-template-columns:1fr}
 }
+
+
+/* ===== Interaktywna warstwa aplikacyjna ===== */
+:root{--font-scale:1;--dock-w:58px;--focus-ring:0 0 0 4px rgba(27,95,143,.18)}
+body{font-size:calc(16px * var(--font-scale));transition:background .25s,color .25s}
+button,input,select,textarea{font:inherit}
+button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-visible,summary:focus-visible{outline:3px solid rgba(27,95,143,.35);outline-offset:3px}
+.skip-link{position:fixed;left:16px;top:-60px;z-index:500;background:var(--ink);color:#fff;padding:10px 14px;border-radius:10px;text-decoration:none;font-weight:800;transition:top .2s}
+.skip-link:focus{top:12px}
+.reading-meta{display:flex;gap:10px;flex-wrap:wrap;margin-top:18px}
+.reading-pill{display:inline-flex;align-items:center;gap:7px;border:1px solid var(--line);background:rgba(255,255,255,.8);border-radius:999px;padding:7px 11px;font-size:.86rem;font-weight:750;color:var(--muted)}
+.reading-pill b{color:var(--blue)}
+nav a{padding:7px 10px;border-radius:999px;transition:background .18s,color .18s}
+nav a.active{background:var(--blue2);color:var(--blue)}
+.floating-dock{position:fixed;right:18px;bottom:18px;z-index:150;display:flex;flex-direction:column;gap:8px;padding:8px;border:1px solid var(--line);border-radius:18px;background:rgba(255,255,255,.94);box-shadow:var(--shadow);backdrop-filter:blur(12px)}
+.dock-btn{width:42px;height:42px;border:1px solid var(--line);border-radius:12px;background:var(--paper);color:var(--ink);cursor:pointer;font-weight:850;display:grid;place-items:center;transition:transform .15s,background .15s}
+.dock-btn:hover{transform:translateY(-2px);background:var(--blue2)}
+.dock-btn[aria-pressed="true"]{background:var(--blue);color:#fff;border-color:var(--blue)}
+.search-overlay{position:fixed;inset:0;z-index:300;background:rgba(15,28,39,.58);display:grid;place-items:start center;padding:8vh 20px 20px;backdrop-filter:blur(5px)}
+.search-overlay[hidden]{display:none}
+.search-panel{width:min(760px,100%);max-height:82vh;overflow:hidden;background:var(--paper);border:1px solid var(--line);border-radius:22px;box-shadow:0 30px 80px rgba(12,28,40,.28)}
+.search-head{display:flex;gap:10px;align-items:center;padding:16px;border-bottom:1px solid var(--line)}
+.search-head input{flex:1;border:1px solid var(--line);border-radius:12px;padding:12px 14px;background:var(--bg);color:var(--ink)}
+.search-results{max-height:62vh;overflow:auto;padding:10px}
+.search-result{display:block;padding:13px 14px;border-radius:13px;text-decoration:none;color:var(--ink);border:1px solid transparent}
+.search-result:hover,.search-result.active{background:var(--blue2);border-color:#c8ddeb}
+.search-result strong{display:block;color:var(--blue);margin-bottom:3px}
+.search-result span{display:block;color:var(--muted);font-size:.9rem}
+.search-empty{padding:28px;text-align:center;color:var(--muted)}
+.tool-section{background:linear-gradient(135deg,#fff 0%,#f2f8fc 100%);border-color:#c8ddea}
+.tool-header{display:flex;justify-content:space-between;gap:20px;align-items:start;margin-bottom:18px}
+.tool-tabs{display:flex;gap:8px;flex-wrap:wrap;margin:18px 0}
+.tool-tab{border:1px solid var(--line);background:var(--paper);color:var(--ink);border-radius:999px;padding:9px 14px;font-weight:800;cursor:pointer}
+.tool-tab.active{background:var(--blue);color:#fff;border-color:var(--blue)}
+.tool-pane{display:none}
+.tool-pane.active{display:block;animation:fadeUp .25s ease both}
+.form-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+.field{display:grid;gap:6px}
+.field label{font-weight:800;font-size:.92rem}
+.field select,.field input,.field textarea{width:100%;border:1px solid var(--line);border-radius:11px;padding:11px 12px;background:var(--paper);color:var(--ink)}
+.field textarea{min-height:90px;resize:vertical}
+.output-panel{margin-top:18px;border:1px solid #c8ddea;border-radius:18px;background:var(--paper);padding:18px}
+.output-panel[hidden]{display:none}
+.response-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin:15px 0}
+.response-step{border:1px solid var(--line);border-radius:14px;padding:14px;background:#fbfdff;min-height:138px}
+.response-step .num{width:28px;height:28px;border-radius:50%;display:grid;place-items:center;background:var(--blue);color:#fff;font-weight:850;margin-bottom:9px}
+.response-step strong{display:block;margin-bottom:5px}
+.copy-row{display:flex;gap:9px;flex-wrap:wrap;align-items:center;margin-top:12px}
+.copy-status{color:var(--green);font-weight:750;min-height:1.4em}
+.sliders{display:grid;gap:14px}
+.slider-row{display:grid;grid-template-columns:230px 1fr 44px;gap:12px;align-items:center}
+.slider-row label{font-weight:760}
+.slider-row input{accent-color:var(--blue)}
+.slider-value{font-weight:850;color:var(--blue);text-align:center}
+.risk-layout{display:grid;grid-template-columns:240px 1fr;gap:24px;align-items:center}
+.risk-gauge{--risk:0;--gauge-color:var(--green);width:210px;aspect-ratio:1;border-radius:50%;display:grid;place-items:center;margin:auto;background:conic-gradient(var(--gauge-color) calc(var(--risk)*1%),#e8eef2 0);position:relative;transition:background .25s}
+.risk-gauge::before{content:"";position:absolute;inset:18px;border-radius:50%;background:var(--paper);border:1px solid var(--line)}
+.risk-gauge-content{position:relative;text-align:center}
+.risk-score{font-size:2.5rem;line-height:1;font-weight:900;color:var(--ink)}
+.risk-level{font-weight:850;color:var(--blue);margin-top:6px}
+.risk-advice{border:1px solid var(--line);border-radius:16px;padding:17px;background:var(--paper)}
+.risk-advice ul{margin-bottom:0}
+.routine-toolbar{display:grid;grid-template-columns:1fr auto auto;gap:10px;margin:12px 0}
+.routine-toolbar input,.routine-toolbar select{border:1px solid var(--line);border-radius:11px;padding:10px 12px;background:var(--paper);color:var(--ink)}
+.routine-list{list-style:none;padding:0;margin:16px 0;display:grid;gap:8px}
+.routine-item{display:grid;grid-template-columns:auto 1fr auto;gap:10px;align-items:center;border:1px solid var(--line);border-radius:12px;padding:10px 12px;background:var(--paper)}
+.routine-item.done .routine-text{text-decoration:line-through;color:var(--muted)}
+.routine-actions{display:flex;gap:5px}
+.icon-btn{width:32px;height:32px;border:1px solid var(--line);border-radius:9px;background:var(--paper);cursor:pointer;color:var(--ink)}
+.icon-btn:hover{background:var(--blue2)}
+.routine-progress,.check-progress{height:9px;border-radius:999px;background:#e8eef2;overflow:hidden;border:1px solid var(--line)}
+.routine-progress span,.check-progress span{display:block;height:100%;width:0;background:var(--green);transition:width .25s}
+.checklist-head{display:flex;justify-content:space-between;gap:12px;align-items:center;margin:8px 0 12px}
+.checklist-meta{font-size:.88rem;font-weight:800;color:var(--muted)}
+.checklist-tools{display:flex;gap:7px;align-items:center}
+.mini-btn{border:1px solid var(--line);background:var(--paper);color:var(--ink);border-radius:9px;padding:6px 9px;cursor:pointer;font-weight:750;font-size:.82rem}
+.journal-dashboard{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin:14px 0}
+.journal-stat{border:1px solid var(--line);border-radius:14px;padding:14px;background:#fbfdff}
+.journal-stat .n{font-size:1.65rem;font-weight:900;color:var(--blue);line-height:1.1}
+.journal-stat .l{font-size:.82rem;color:var(--muted);font-weight:750;margin-top:5px}
+.journal-controls{display:flex;gap:9px;flex-wrap:wrap;align-items:center;margin:12px 0}
+.journal-controls input,.journal-controls select{border:1px solid var(--line);border-radius:10px;padding:9px 11px;background:var(--paper);color:var(--ink)}
+.tracker table{min-width:1100px}
+.tracker tr.filtered-out{display:none}
+.tracker td:last-child,.tracker th:last-child{width:54px;text-align:center}
+.section-tools{display:flex;gap:7px;justify-content:flex-end;margin:-4px 0 10px}
+.reveal-on-scroll{opacity:0;transform:translateY(12px);transition:opacity .42s ease,transform .42s ease}
+.reveal-on-scroll.visible{opacity:1;transform:none}
+body.focus-mode main{max-width:940px}
+body.focus-mode main section{opacity:.24;filter:saturate(.65);transition:opacity .22s,filter .22s,transform .22s}
+body.focus-mode main section.active-section{opacity:1;filter:none;transform:scale(1.005);box-shadow:0 20px 54px rgba(28,49,67,.13)}
+.toast{position:fixed;left:50%;bottom:28px;z-index:400;transform:translate(-50%,20px);opacity:0;background:var(--ink);color:#fff;padding:10px 14px;border-radius:12px;font-weight:750;transition:opacity .2s,transform .2s;pointer-events:none}
+.toast.show{opacity:1;transform:translate(-50%,0)}
+@keyframes fadeUp{from{opacity:0;transform:translateY(7px)}to{opacity:1;transform:none}}
+html[data-theme="dark"]{--bg:#101820;--paper:#18232d;--ink:#edf4f8;--muted:#a9bac6;--line:#334653;--blue:#77bde8;--blue2:#203746;--green:#78c7a2;--green2:#1d382e;--amber:#e3bd68;--amber2:#3a301c;--red:#e28b8b;--red2:#3c2527;--violet:#b4a1ec;--violet2:#302a43;--shadow:0 14px 36px rgba(0,0,0,.28)}
+html[data-theme="dark"] header{background:linear-gradient(135deg,#17232c 0%,#193342 100%)}
+html[data-theme="dark"] nav{background:rgba(24,35,45,.94)}
+html[data-theme="dark"] .hero-card,html[data-theme="dark"] .floating-dock{background:rgba(24,35,45,.94)}
+html[data-theme="dark"] .card,html[data-theme="dark"] .metric,html[data-theme="dark"] .chart-card,html[data-theme="dark"] .mechanism,html[data-theme="dark"] .rule-box,html[data-theme="dark"] .school-card,html[data-theme="dark"] details,html[data-theme="dark"] .steps li,html[data-theme="dark"] .response-step,html[data-theme="dark"] .journal-stat{background:#1b2833}
+html[data-theme="dark"] th{background:#223440}
+html[data-theme="dark"] .tool-section{background:linear-gradient(135deg,#18232d 0%,#18313f 100%)}
+html[data-theme="dark"] .illus-svg,html[data-theme="dark"] .flow-svg,html[data-theme="dark"] .chart-svg{background:#fff;border-radius:12px}
+@media(max-width:920px){
+  .floating-dock{right:8px;bottom:8px;flex-direction:row;max-width:calc(100vw - 16px);overflow:auto}
+  .dock-btn{flex:0 0 40px;width:40px;height:40px}
+  .form-grid,.response-grid,.risk-layout,.journal-dashboard{grid-template-columns:1fr}
+  .slider-row{grid-template-columns:1fr 44px}.slider-row input{grid-column:1/-1}
+  .routine-toolbar{grid-template-columns:1fr}.routine-toolbar .btn{width:100%}
+  .tool-header{display:block}
+}
+@media(max-width:640px){.floating-dock{border-radius:14px}.reading-meta{gap:7px}.search-overlay{padding:12px}.response-step{min-height:auto}}
+@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;animation:none!important;transition:none!important}.reveal-on-scroll{opacity:1;transform:none}}
+@media print{.floating-dock,.search-overlay,.tool-tabs,.journal-controls,.section-tools,.checklist-tools,.routine-actions,.toast{display:none!important}.tool-pane{display:block!important}.output-panel[hidden]{display:none!important}}
+
 </style>
 </head>
 <body>
+<a class="skip-link" href="#main-content">Przejdź do treści</a>
 <div class="progress" id="progress"></div>
 <header>
 <div class="hero">
@@ -202,6 +317,11 @@ footer{max-width:var(--max);margin:auto;padding:0 24px 50px;color:var(--muted);f
 <a class="btn primary" href="#dane">Przejdź do wykresów</a>
 <a class="btn" href="#scenariusze">Praktyczne przykłady</a>
 <button class="btn" onclick="window.print()">Drukuj / zapisz jako PDF</button>
+</div>
+<div class="reading-meta" aria-label="Informacje o stronie">
+<span class="reading-pill">Czas czytania: <b id="readingTime">–</b></span>
+<span class="reading-pill">Przeczytane sekcje: <b id="sectionsRead">0%</b></span>
+<span class="reading-pill">Dane lokalne: <b>bez wysyłania</b></span>
 </div>
 </div>
 <aside class="hero-card">
@@ -250,7 +370,7 @@ footer{max-width:var(--max);margin:auto;padding:0 24px 50px;color:var(--muted);f
 </header>
 <nav>
 <div class="inner">
-<a href="#rdzen">Jak rozumieć zachowanie</a><a href="#przyczyny">Możliwe przyczyny</a>
+<a href="#narzedzia">Panel interaktywny</a><a href="#rdzen">Jak rozumieć zachowanie</a><a href="#przyczyny">Możliwe przyczyny</a>
 <a href="#dane">Rozwój i dane</a><a href="#wykresy-praktyczne">Nowe wykresy</a>
 <a href="#perspektywa">Perspektywa dziecka</a>
 <a href="#bledy">Błędy wychowawcze</a>
@@ -259,7 +379,111 @@ footer{max-width:var(--max);margin:auto;padding:0 24px 50px;color:var(--muted);f
 <a href="#procedury">Procedury</a>
 <a href="#przyklady-dodatkowe">Nowe przykłady</a><a href="#mechanizmy">Mechanizmy psychologiczne</a><a href="#motywacja">Motywacja</a><a href="#emocje-regulacja">Regulacja emocji</a><a href="#mity">Mity wychowawcze</a><a href="#granice">Stawianie granic</a><a href="#szkola">Wsparcie szkoły</a><a href="#presja-na-szkole">Gdy szkoła przerzuca odpowiedzialność</a><a href="#pliki">Zobacz także</a><a href="#zrodla">Bibliografia</a></div>
 </nav>
-<main>
+<aside class="floating-dock" aria-label="Narzędzia strony">
+<button class="dock-btn" id="searchBtn" title="Szukaj (Ctrl+K)" aria-label="Szukaj">⌕</button>
+<button class="dock-btn" id="themeBtn" title="Tryb jasny lub ciemny" aria-label="Zmień motyw" aria-pressed="false">◐</button>
+<button class="dock-btn" id="fontDownBtn" title="Zmniejsz tekst" aria-label="Zmniejsz tekst">A−</button>
+<button class="dock-btn" id="fontUpBtn" title="Powiększ tekst" aria-label="Powiększ tekst">A+</button>
+<button class="dock-btn" id="focusBtn" title="Tryb skupienia" aria-label="Tryb skupienia" aria-pressed="false">◎</button>
+<button class="dock-btn" id="topBtn" title="Na początek" aria-label="Przewiń na początek">↑</button>
+</aside>
+<div class="search-overlay" id="searchOverlay" hidden role="dialog" aria-modal="true" aria-labelledby="searchTitle">
+  <div class="search-panel">
+    <div class="search-head">
+      <input id="siteSearch" type="search" autocomplete="off" placeholder="Szukaj pojęcia, problemu lub przykładu…" aria-label="Wyszukaj w treści"/>
+      <button class="btn" id="closeSearch" aria-label="Zamknij wyszukiwarkę">Zamknij</button>
+    </div>
+    <div id="searchResults" class="search-results" aria-live="polite"><div class="search-empty" id="searchTitle">Wpisz co najmniej 2 znaki.</div></div>
+  </div>
+</div>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+<main id="main-content">
+
+<section id="narzedzia" class="tool-section">
+<div class="tool-header">
+  <div>
+    <div class="eyebrow">Interaktywny panel praktyczny</div>
+    <h2>Dobierz reakcję do sytuacji</h2>
+    <p class="muted">Narzędzia porządkują sposób myślenia: najpierw stan dziecka i dorosłego, następnie granica, prosty plan i naprawa. Wynik nie jest diagnozą ani indywidualną poradą kliniczną.</p>
+  </div>
+  <span class="tag">Działa lokalnie</span>
+</div>
+<div class="tool-tabs" role="tablist" aria-label="Narzędzia interaktywne">
+  <button class="tool-tab active" role="tab" aria-selected="true" data-pane="reactionPane">Asystent reakcji</button>
+  <button class="tool-tab" role="tab" aria-selected="false" data-pane="riskPane">Ryzyko eskalacji</button>
+  <button class="tool-tab" role="tab" aria-selected="false" data-pane="routinePane">Generator rutyny</button>
+</div>
+<div class="tool-pane active" id="reactionPane" role="tabpanel">
+  <div class="form-grid">
+    <div class="field"><label for="situationSelect">Sytuacja</label><select id="situationSelect">
+      <option value="food">Jedzenie lub naczynia pozostawione w pokoju</option>
+      <option value="room">Bałagan i odmowa sprzątania</option>
+      <option value="screen">Trudność z wyłączeniem ekranu</option>
+      <option value="walk">Płacz lub odmowa podczas spaceru</option>
+      <option value="homework">Odrabianie lekcji</option>
+      <option value="morning">Poranny pośpiech</option>
+      <option value="siblings">Konflikt z rodzeństwem</option>
+    </select></div>
+    <div class="field"><label for="childState">Stan dziecka</label><select id="childState">
+      <option value="calm">spokojne, ale nie rozpoczyna</option>
+      <option value="tired">zmęczone lub przeciążone</option>
+      <option value="frustrated">złe, płacze lub negocjuje</option>
+      <option value="peak">w szczycie silnych emocji</option>
+    </select></div>
+    <div class="field"><label for="parentState">Stan dorosłego</label><select id="parentState">
+      <option value="calm">spokojny</option>
+      <option value="tense">napięty</option>
+      <option value="angry">bliski wybuchu</option>
+    </select></div>
+    <div class="field"><label for="responseGoal">Najważniejszy cel</label><select id="responseGoal">
+      <option value="start">rozpoczęcie zadania</option>
+      <option value="transition">przejście do kolejnej czynności</option>
+      <option value="stop">zatrzymanie niedozwolonego zachowania</option>
+      <option value="repair">naprawienie skutków</option>
+    </select></div>
+  </div>
+  <div class="copy-row"><button class="btn primary" id="generateResponse">Ułóż komunikat</button><span class="small muted">Wynik można skopiować i dostosować do języka rodziny.</span></div>
+  <div class="output-panel" id="responseOutput" hidden>
+    <h3>Proponowana sekwencja</h3>
+    <div class="response-grid" id="responseSteps"></div>
+    <div class="example-dialogue" id="responseScript"></div>
+    <div class="copy-row"><button class="btn" id="copyResponse">Kopiuj komunikat</button><span class="copy-status" id="copyStatus"></span></div>
+  </div>
+</div>
+<div class="tool-pane" id="riskPane" role="tabpanel">
+  <div class="risk-layout">
+    <div class="risk-gauge" id="riskGauge" aria-label="Orientacyjny poziom ryzyka eskalacji"><div class="risk-gauge-content"><div class="risk-score" id="riskScore">0</div><div class="risk-level" id="riskLevel">niskie</div></div></div>
+    <div>
+      <div class="sliders">
+        <div class="slider-row"><label for="fatigueRange">Zmęczenie / głód</label><input id="fatigueRange" type="range" min="0" max="4" value="1"/><output class="slider-value">1</output></div>
+        <div class="slider-row"><label for="complexityRange">Liczba kroków zadania</label><input id="complexityRange" type="range" min="0" max="4" value="2"/><output class="slider-value">2</output></div>
+        <div class="slider-row"><label for="sensoryRange">Hałas i liczba bodźców</label><input id="sensoryRange" type="range" min="0" max="4" value="1"/><output class="slider-value">1</output></div>
+        <div class="slider-row"><label for="emotionRange">Pobudzenie dziecka</label><input id="emotionRange" type="range" min="0" max="4" value="1"/><output class="slider-value">1</output></div>
+        <div class="slider-row"><label for="adultRange">Napięcie dorosłego</label><input id="adultRange" type="range" min="0" max="4" value="1"/><output class="slider-value">1</output></div>
+      </div>
+      <div class="risk-advice" id="riskAdvice" aria-live="polite"></div>
+    </div>
+  </div>
+</div>
+<div class="tool-pane" id="routinePane" role="tabpanel">
+  <p>Utwórz krótką procedurę. Optymalna lista dla młodszego dziecka zwykle zawiera kilka jednoznacznych kroków, a nie ogólne polecenie.</p>
+  <div class="routine-toolbar">
+    <input id="routineInput" type="text" maxlength="120" placeholder="Np. włóż zeszyty do plecaka" aria-label="Nowy krok rutyny"/>
+    <button class="btn primary" id="addRoutineItem">Dodaj krok</button>
+    <select id="routineTemplate" aria-label="Wybierz szablon">
+      <option value="">Wczytaj szablon…</option>
+      <option value="morning">Poranek przed szkołą</option>
+      <option value="homework">Odrabianie lekcji</option>
+      <option value="room">Porządek po zabawie</option>
+      <option value="evening">Wieczorne przygotowanie</option>
+    </select>
+  </div>
+  <div class="checklist-head"><div><strong id="routineCount">0 z 0 kroków</strong><div class="routine-progress"><span id="routineProgressBar"></span></div></div><div class="checklist-tools"><button class="mini-btn" id="resetRoutine">Odznacz</button><button class="mini-btn" id="clearRoutine">Wyczyść</button></div></div>
+  <ol class="routine-list" id="routineList"></ol>
+  <p class="small muted">Lista jest automatycznie zapisywana w pamięci tej przeglądarki.</p>
+</div>
+</section>
+
 <section id="rdzen">
 <h2>1. Jak rozumieć trudne zachowanie</h2>
 <div class="callout blue"><strong>Nie każde niewykonanie polecenia jest nieposłuszeństwem.</strong> Zachowanie może wynikać z niedojrzałości rozwojowej, przeciążenia, braku umiejętności, zbyt trudnego polecenia, potrzeby autonomii, problemu relacyjnego albo zaburzenia neurorozwojowego.</div>
@@ -592,7 +816,7 @@ footer{max-width:var(--max);margin:auto;padding:0 24px 50px;color:var(--muted);f
 </div>
 </section>
 <section id="perspektywa">
-<h2>4. Jak to może wyglądać z perspektywy dziecka</h2>
+<h2>5. Jak to może wyglądać z perspektywy dziecka</h2>
 <div class="grid-2">
 <div>
 <p>Dziecko, niezależnie od diagnozy często nie doświadcza siebie jako „niegrzecznego”, lecz jako kogoś, komu coś ciągle nie wychodzi mimo starań. Słyszy wiele korekt, częściej niż rówieśnicy doświadcza rozczarowania dorosłych, a przez to może szybciej wchodzić w wstyd, zniechęcenie albo obronny bunt.</p>
@@ -610,7 +834,7 @@ footer{max-width:var(--max);margin:auto;padding:0 24px 50px;color:var(--muted);f
 </div>
 </div>
 </section><section id="mechanizmy">
-<h2>5. Mechanizmy psychologiczne stojące za zachowaniem</h2>
+<h2>6. Mechanizmy psychologiczne stojące za zachowaniem</h2>
 <p>To samo zachowanie może pełnić różne funkcje. Dziecko może nie wykonać polecenia dlatego, że go nie zrozumiało,
   zapomniało, nie umie rozpocząć, chce uniknąć nieprzyjemnego wysiłku, próbuje odzyskać kontrolę albo znajduje się
   w stanie silnego pobudzenia. Dobra reakcja wychowawcza odpowiada na funkcję zachowania, a nie tylko na jego powierzchnię.</p>
@@ -685,7 +909,7 @@ footer{max-width:var(--max);margin:auto;padding:0 24px 50px;color:var(--muted);f
     Przerwanie cyklu polega na zmniejszeniu zadania, spokojnym utrzymaniu granicy i doprowadzeniu do choćby częściowego domknięcia.
   </div>
 </section><section id="motywacja">
-<h2>6. Jak działa motywacja dziecka</h2>
+<h2>7. Jak działa motywacja dziecka</h2>
 <p>Motywacja nie jest stałą cechą charakteru. Zależy od atrakcyjności zadania, poczucia kompetencji, jasności celu,
   przewidywanego wysiłku, jakości relacji z dorosłym i szybkości nagrody. Dziecko może być bardzo wytrwałe w zabawie,
   a jednocześnie szybko rezygnować przy sprzątaniu, ponieważ oba zadania mają zupełnie inny profil motywacyjny.</p>
@@ -718,7 +942,7 @@ footer{max-width:var(--max);margin:auto;padding:0 24px 50px;color:var(--muted);f
     „Zatrzymałaś się, wróciłaś do listy i dokończyłaś. To była dobra kontrola zadania.”
   </div>
 </section><section id="emocje-regulacja">
-<h2>7. Regulacja emocji: co robić przed, w trakcie i po wybuchu</h2>
+<h2>8. Regulacja emocji: co robić przed, w trakcie i po wybuchu</h2>
 <table>
 <thead><tr><th>Faza</th><th>Co dzieje się psychologicznie</th><th>Co powinien zrobić dorosły</th></tr></thead>
 <tbody>
@@ -752,7 +976,7 @@ footer{max-width:var(--max);margin:auto;padding:0 24px 50px;color:var(--muted);f
     odpowiedzialności i konkretnej alternatywy zachowania.
   </div>
 </section><section id="mity">
-<h2>8. Mity wychowawcze i ich korekta</h2>
+<h2>9. Mity wychowawcze i ich korekta</h2>
 <div class="myth-grid">
 <div class="myth">
 <strong>Mit: „Jak raz odpuszczę przytulenie, dziecko nauczy się manipulować.”</strong>
@@ -789,7 +1013,7 @@ footer{max-width:var(--max);margin:auto;padding:0 24px 50px;color:var(--muted);f
 </div>
 </section>
 <section id="granice">
-<h2>9. Co dokładnie znaczy „stawiać granice”</h2>
+<h2>10. Co dokładnie znaczy „stawiać granice”</h2>
 <div class="callout blue">
 <strong>Granica to spokojnie zakomunikowana zasada dotycząca bezpieczeństwa, szacunku, odpowiedzialności lub organizacji życia,
     której dorosły konsekwentnie pilnuje.</strong> Granica nie jest groźbą, karą ani próbą całkowitego kontrolowania emocji dziecka.
@@ -914,7 +1138,7 @@ footer{max-width:var(--max);margin:auto;padding:0 24px 50px;color:var(--muted);f
     reakcja następuje za późno albo oczekiwanie przekracza aktualne możliwości dziecka.
   </div>
 </section><section id="bledy">
-<h2>10. Najczęstsze błędy wychowawcze</h2>
+<h2>11. Najczęstsze błędy wychowawcze</h2>
 <div class="grid-3">
 <article class="card"><span class="tag">Błąd 1</span><h3>Etykietowanie dziecka</h3><p>Zamiast opisywać zachowanie, dorosły opisuje charakter: „leniwa”, „bałaganiara”, „manipulantka”.</p><p class="small muted"><strong>Skutek:</strong> wstyd, obrona, spadek motywacji.</p></article>
 <article class="card"><span class="tag">Błąd 2</span><h3>Za dużo słów</h3><p>Długie tłumaczenia w chwili napięcia obciążają uwagę i zwiększają frustrację.</p><p class="small muted"><strong>Skutek:</strong> dziecko „odpływa”, a rodzic odbiera to jako ignorowanie.</p></article>
@@ -925,7 +1149,7 @@ footer{max-width:var(--max);margin:auto;padding:0 24px 50px;color:var(--muted);f
 </div>
 </section>
 <section id="jak-wyglada">
-<h2>11. Jak powinno to wyglądać wychowawczo</h2>
+<h2>12. Jak powinno to wyglądać wychowawczo</h2>
 <div class="callout blue">
 <strong>Dobra interwencja wychowawcza łączy cztery elementy:</strong> kontakt, granicę, strukturę i odpowiedzialność.
     </div>
@@ -942,7 +1166,7 @@ footer{max-width:var(--max);margin:auto;padding:0 24px 50px;color:var(--muted);f
 </table>
 </section>
 <section id="scenariusze">
-<h2>12. Praktyczne przykłady reagowania</h2>
+<h2>13. Praktyczne przykłady reagowania</h2>
 <details open="">
 <summary>Przykład A. Jedzenie zostaje w pokoju</summary>
 <div class="compare">
@@ -1004,7 +1228,7 @@ footer{max-width:var(--max);margin:auto;padding:0 24px 50px;color:var(--muted);f
 </div>
 </details>
 </section><section id="przyklady-dodatkowe">
-<h2>13. Dodatkowe przykłady z życia codziennego</h2>
+<h2>14. Dodatkowe przykłady z życia codziennego</h2>
 <p>Poniższe scenariusze dotyczą częstych problemów wychowawczych, które mogą występować zarówno u dzieci z ADHD, jak i bez niego.</p>
 <details open="">
 <summary>Przykład F. Poranny pośpiech przed szkołą</summary>
@@ -1112,11 +1336,22 @@ footer{max-width:var(--max);margin:auto;padding:0 24px 50px;color:var(--muted);f
 </div>
 </details>
 <h3>Dziennik obserwacji</h3>
-<p class="small muted">Dane są zapisywane lokalnie w przeglądarce na tym urządzeniu.</p>
+<p class="small muted">Dane są zapisywane lokalnie w przeglądarce na tym urządzeniu. Nie są przesyłane do serwera.</p>
+<div class="journal-dashboard" aria-label="Podsumowanie dziennika">
+  <div class="journal-stat"><div class="n" id="statEntries">0</div><div class="l">wpisów</div></div>
+  <div class="journal-stat"><div class="n" id="statDays">0</div><div class="l">dni obserwacji</div></div>
+  <div class="journal-stat"><div class="n" id="statTopTask">–</div><div class="l">najczęstsze zadanie</div></div>
+  <div class="journal-stat"><div class="n" id="statLastDate">–</div><div class="l">ostatni wpis</div></div>
+</div>
+<div class="journal-controls">
+  <input id="logFilter" type="search" placeholder="Filtruj wpisy…" aria-label="Filtruj dziennik"/>
+  <button class="btn" id="exportCsvBtn">Eksport CSV</button>
+  <button class="btn" id="exportJsonBtn">Kopia JSON</button>
+</div>
 <div class="tracker">
 <table>
 <thead>
-<tr><th>Data</th><th>Lek / godzina</th><th>Zadanie</th><th>Co poprzedzało?</th><th>Zachowanie dziecka</th><th>Pomoc rodzica</th><th>Rezultat</th></tr>
+<tr><th>Data</th><th>Lek / godzina</th><th>Zadanie</th><th>Co poprzedzało?</th><th>Zachowanie dziecka</th><th>Pomoc rodzica</th><th>Rezultat</th><th>Usuń</th></tr>
 </thead>
 <tbody id="logBody"></tbody>
 </table>
@@ -1127,7 +1362,7 @@ footer{max-width:var(--max);margin:auto;padding:0 24px 50px;color:var(--muted);f
 </div>
 </section>
 <section id="szkola">
-<h2>14. Jak szkoła powinna wspierać dziecko, które obecnie otrzymuje słabe oceny</h2>
+<h2>16. Jak szkoła powinna wspierać dziecko, które obecnie otrzymuje słabe oceny</h2>
 <div class="callout blue">
 <strong>Słabe oceny nie zawsze oznaczają brak wiedzy lub niskie możliwości.</strong>
     Mogą odzwierciedlać wolne tempo pracy, problemy z organizacją, lęk przed oceną, trudność z utrzymaniem uwagi,
@@ -1323,7 +1558,7 @@ footer{max-width:var(--max);margin:auto;padding:0 24px 50px;color:var(--muted);f
     które z czasem pozwolą ograniczać pomoc.
   </div>
 </section><section id="podsumowanie">
-<h2>16. Najważniejsze zasady niezależnie od diagnozy</h2>
+<h2>17. Najważniejsze zasady niezależnie od diagnozy</h2>
 <div class="grid-2">
 <div class="callout green">
 <strong>Stosuj</strong>
@@ -1354,7 +1589,7 @@ footer{max-width:var(--max);margin:auto;padding:0 24px 50px;color:var(--muted);f
     U dziecka z ADHD wsparcie musi być zwykle częstsze, bardziej zewnętrzne i utrzymywane dłużej.
   </div>
 </section><section id="pliki" class="reveal">
-  <div class="eyebrow">17. zobacz także</div><h2>Odnośniki do powiązanych stron i plików</h2>
+  <div class="eyebrow">18. zobacz także</div><h2>Odnośniki do powiązanych stron i plików</h2>
   <ul>
     <li><a href="adhd.html">ADHD: objawy, diagnoza i wsparcie</a></li>
     <li><a href="Raport_neuroroznorodnosci.html">Raport neuroróżnorodności</a></li>
@@ -1366,7 +1601,7 @@ footer{max-width:var(--max);margin:auto;padding:0 24px 50px;color:var(--muted);f
 </section>
 
 <section id="zrodla">
-<h2>18. Bibliografia</h2>
+<h2>19. Bibliografia</h2>
 <ol><li>Center on the Developing Child, Harvard University. <a href="https://developingchild.harvard.edu/resource-guides/guide-executive-function/">A Guide to Executive Function</a>.</li><li>American Academy of Pediatrics / HealthyChildren.org. <a href="https://www.healthychildren.org/English/family-life/family-dynamics/communication-discipline/Pages/Disciplining-Your-Child.aspx">What’s the Best Way to Discipline My Child?</a>.</li><li>American Academy of Pediatrics / HealthyChildren.org. <a href="https://www.healthychildren.org/English/family-life/family-dynamics/communication-discipline/Pages/Normal-Child-Behavior.aspx">Normal Child Behavior</a>.</li><li>American Academy of Pediatrics / HealthyChildren.org. <a href="https://www.healthychildren.org/English/ages-stages/gradeschool/Pages/The-Disobedient-Child.aspx">The Disobedient Child</a>.</li>
 <li>Centers for Disease Control and Prevention. <a href="https://www.cdc.gov/adhd/data/index.html">Data and Statistics on ADHD</a>.</li>
 <li>Centers for Disease Control and Prevention. <a href="https://www.cdc.gov/adhd/treatment/index.html">Treatment of ADHD</a>.</li>
@@ -1383,23 +1618,267 @@ footer{max-width:var(--max);margin:auto;padding:0 24px 50px;color:var(--muted);f
 <p>Opracowanie edukacyjne dotyczące granic wychowawczych, trudnych zachowań dzieci i wsparcia szkolnego. Wersja rozszerzona o rozdział dotyczący polskiej szkoły i pomocy psychologiczno-pedagogicznej. Aktualizacja: lipiec 2026 r.</p>
 </footer>
 <script>
-  
-const progress = document.getElementById('progress');
+'use strict';
+
+const $ = (sel, root = document) => root.querySelector(sel);
+const $$ = (sel, root = document) => [...root.querySelectorAll(sel)];
+const storage = {
+  get(key, fallback){ try { const v = localStorage.getItem(key); return v === null ? fallback : JSON.parse(v); } catch { return fallback; } },
+  set(key, value){ try { localStorage.setItem(key, JSON.stringify(value)); } catch {} }
+};
+
+function showToast(message){
+  const toast = $('#toast');
+  toast.textContent = message;
+  toast.classList.add('show');
+  clearTimeout(showToast.timer);
+  showToast.timer = setTimeout(() => toast.classList.remove('show'), 1800);
+}
+
+// Reading progress, active section and reading metadata.
+const progress = $('#progress');
+const sections = $$('main > section');
+const navLinks = $$('nav a[href^="#"]');
+const seenSections = new Set(storage.get('child-guide-seen', []));
+const bodyText = $('main').innerText.trim().split(/\s+/).length;
+$('#readingTime').textContent = `${Math.max(1, Math.ceil(bodyText / 210))} min`;
+
+function updateSeen(){
+  $('#sectionsRead').textContent = `${Math.round((seenSections.size / sections.length) * 100)}%`;
+  storage.set('child-guide-seen', [...seenSections]);
+}
+updateSeen();
+
+let activeSection = sections[0];
+function setActiveSection(section){
+  if (!section) return;
+  activeSection = section;
+  sections.forEach(s => s.classList.toggle('active-section', s === section));
+  navLinks.forEach(a => a.classList.toggle('active', a.getAttribute('href') === `#${section.id}`));
+  seenSections.add(section.id);
+  updateSeen();
+}
+
+const sectionObserver = new IntersectionObserver(entries => {
+  const visible = entries.filter(e => e.isIntersecting).sort((a,b) => b.intersectionRatio - a.intersectionRatio)[0];
+  if (visible) setActiveSection(visible.target);
+}, {rootMargin:'-18% 0px -58% 0px', threshold:[0,.15,.35,.6]});
+sections.forEach(s => sectionObserver.observe(s));
+
 addEventListener('scroll', () => {
   const d = document.documentElement;
   const max = d.scrollHeight - d.clientHeight;
   progress.style.width = (max ? (d.scrollTop / max * 100) : 0) + '%';
+}, {passive:true});
+
+// Reveal animation and chart animation.
+const revealObserver = new IntersectionObserver(entries => entries.forEach(e => {
+  if (e.isIntersecting){ e.target.classList.add('visible'); revealObserver.unobserve(e.target); }
+}), {threshold:.08});
+$$('main > section, .card, .chart-card, .mechanism').forEach(el => { el.classList.add('reveal-on-scroll'); revealObserver.observe(el); });
+
+$$('.bar-fill').forEach(bar => {
+  const target = bar.style.width;
+  bar.dataset.targetWidth = target;
+  bar.style.width = '0';
+  const obs = new IntersectionObserver(entries => entries.forEach(e => {
+    if (e.isIntersecting){ requestAnimationFrame(() => bar.style.width = bar.dataset.targetWidth); obs.disconnect(); }
+  }), {threshold:.4});
+  obs.observe(bar);
 });
 
-document.querySelectorAll('.checklist').forEach((list) => {
-  const boxes = [...list.querySelectorAll('input')];
-  boxes.forEach((box, i) => {
+// Theme and font controls.
+const root = document.documentElement;
+const themeBtn = $('#themeBtn');
+const savedTheme = localStorage.getItem('child-guide-theme');
+if (savedTheme) root.dataset.theme = savedTheme;
+else if (matchMedia('(prefers-color-scheme: dark)').matches) root.dataset.theme = 'dark';
+function syncThemeButton(){ const dark = root.dataset.theme === 'dark'; themeBtn.setAttribute('aria-pressed', String(dark)); themeBtn.title = dark ? 'Włącz jasny motyw' : 'Włącz ciemny motyw'; }
+syncThemeButton();
+themeBtn.addEventListener('click', () => { root.dataset.theme = root.dataset.theme === 'dark' ? 'light' : 'dark'; localStorage.setItem('child-guide-theme', root.dataset.theme); syncThemeButton(); });
+let fontScale = Number(localStorage.getItem('child-guide-font') || 1);
+function applyFont(){ fontScale = Math.min(1.28, Math.max(.88, fontScale)); root.style.setProperty('--font-scale', fontScale.toFixed(2)); localStorage.setItem('child-guide-font', fontScale.toFixed(2)); }
+applyFont();
+$('#fontUpBtn').addEventListener('click', () => { fontScale += .08; applyFont(); showToast(`Rozmiar tekstu: ${Math.round(fontScale*100)}%`); });
+$('#fontDownBtn').addEventListener('click', () => { fontScale -= .08; applyFont(); showToast(`Rozmiar tekstu: ${Math.round(fontScale*100)}%`); });
+$('#topBtn').addEventListener('click', () => scrollTo({top:0,behavior:'smooth'}));
+$('#focusBtn').addEventListener('click', e => { const on = document.body.classList.toggle('focus-mode'); e.currentTarget.setAttribute('aria-pressed', String(on)); setActiveSection(activeSection); showToast(on ? 'Włączono tryb skupienia' : 'Wyłączono tryb skupienia'); });
+
+// Search.
+const searchOverlay = $('#searchOverlay');
+const siteSearch = $('#siteSearch');
+const searchResults = $('#searchResults');
+function openSearch(){ searchOverlay.hidden = false; document.body.style.overflow = 'hidden'; setTimeout(() => siteSearch.focus(), 0); }
+function closeSearch(){ searchOverlay.hidden = true; document.body.style.overflow = ''; siteSearch.value = ''; searchResults.innerHTML = '<div class="search-empty">Wpisz co najmniej 2 znaki.</div>'; }
+$('#searchBtn').addEventListener('click', openSearch);
+$('#closeSearch').addEventListener('click', closeSearch);
+searchOverlay.addEventListener('click', e => { if (e.target === searchOverlay) closeSearch(); });
+addEventListener('keydown', e => {
+  if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'k'){ e.preventDefault(); openSearch(); }
+  if (e.key === 'Escape' && !searchOverlay.hidden) closeSearch();
+});
+function normalize(s){ return s.toLocaleLowerCase('pl').normalize('NFD').replace(/[\u0300-\u036f]/g,''); }
+siteSearch.addEventListener('input', () => {
+  const q = normalize(siteSearch.value.trim());
+  if (q.length < 2){ searchResults.innerHTML = '<div class="search-empty">Wpisz co najmniej 2 znaki.</div>'; return; }
+  const matches = sections.map(section => {
+    const title = $('h2', section)?.textContent || section.id;
+    const text = section.innerText.replace(/\s+/g,' ').trim();
+    const idx = normalize(text).indexOf(q);
+    if (idx < 0) return null;
+    const start = Math.max(0, idx - 70), end = Math.min(text.length, idx + q.length + 130);
+    return {id:section.id,title,snippet:`${start ? '…' : ''}${text.slice(start,end)}${end < text.length ? '…' : ''}`};
+  }).filter(Boolean).slice(0,12);
+  searchResults.innerHTML = matches.length ? matches.map(m => `<a class="search-result" href="#${m.id}"><strong>${m.title}</strong><span>${m.snippet}</span></a>`).join('') : '<div class="search-empty">Brak wyników. Spróbuj krótszego hasła.</div>';
+  $$('.search-result', searchResults).forEach(a => a.addEventListener('click', closeSearch));
+});
+
+// Tabs.
+$$('.tool-tab').forEach(tab => tab.addEventListener('click', () => {
+  $$('.tool-tab').forEach(t => { const active = t === tab; t.classList.toggle('active', active); t.setAttribute('aria-selected', String(active)); });
+  $$('.tool-pane').forEach(p => p.classList.toggle('active', p.id === tab.dataset.pane));
+}));
+
+// Reaction assistant.
+const situations = {
+  food:{fact:'Jedzenie zostało w pokoju.',rule:'Jedzenie i naczynia wracają po posiłku do kuchni.',first:'Weź teraz talerz. Potem wrócisz po opakowanie i wytrzesz miejsce.',repair:'wyniesienie naczyń, usunięcie resztek i wytarcie miejsca'},
+  room:{fact:'Rzeczy zostały na podłodze i utrudniają przejście.',rule:'Po zabawie przywracamy bezpieczne przejście i odkładamy jedną kategorię rzeczy naraz.',first:'Najpierw włóż wszystkie klocki do pudełka. Potem wybierzemy kolejny krok.',repair:'odłożenie rzeczy i przywrócenie bezpiecznego przejścia'},
+  screen:{fact:'Czas korzystania z ekranu się zakończył.',rule:'Po sygnale timera urządzenie jest odkładane.',first:'Zapisz grę i odłóż urządzenie w ustalone miejsce.',repair:'spokojne odłożenie urządzenia i przejście do kolejnej czynności'},
+  walk:{fact:'Zatrzymałaś się i nie chcesz iść dalej.',rule:'Możemy odpocząć, ale potem wracamy do domu ustaloną trasą.',first:'Odpoczywamy trzy minuty. Potem możesz iść obok mnie albo trzymać mnie za rękę.',repair:'powrót do marszu po krótkiej, ustalonej przerwie'},
+  homework:{fact:'Praca została rozpoczęta, ale zadanie nie jest kontynuowane.',rule:'Pracujemy w krótkich odcinkach i kończymy jeden mały etap przed przerwą.',first:'Wybierz jedno zadanie. Pracujemy przez dziesięć minut, potem robimy krótką przerwę.',repair:'dokończenie jednego uzgodnionego etapu'},
+  morning:{fact:'Do wyjścia pozostało mało czasu, a przygotowanie nie jest zakończone.',rule:'Rano wykonujemy kroki z listy po kolei.',first:'Teraz tylko ubranie. Po tym sprawdzimy plecak i buty.',repair:'wykonanie najbliższego kroku bez wracania do wcześniejszych sporów'},
+  siblings:{fact:'Doszło do kłótni i oboje jesteście pobudzeni.',rule:'Nie pozwalam na bicie, obrażanie ani wyrywanie rzeczy.',first:'Stop. Odsuwamy się od siebie. Każde powie potem jednym zdaniem, czego potrzebowało.',repair:'oddanie rzeczy, przeproszenie lub wspólne ustalenie kolejności'}
+};
+const contactByState = {
+  calm:'Widzę, że jeszcze nie zaczęłaś.',
+  tired:'Widzę, że jesteś zmęczona i trudno ci zacząć.',
+  frustrated:'Widzę, że jesteś zła i to zadanie jest teraz trudne.',
+  peak:'Jestem obok. Najpierw zatrzymujemy się i dbamy o bezpieczeństwo. Porozmawiamy, gdy napięcie trochę spadnie.'
+};
+function buildResponse(){
+  const s = situations[$('#situationSelect').value];
+  const child = $('#childState').value;
+  const parent = $('#parentState').value;
+  const goal = $('#responseGoal').value;
+  const pre = parent === 'angry' ? 'Najpierw robię krótką przerwę, żeby mówić spokojnie. ' : parent === 'tense' ? 'Mówię jednym zdaniem i zwalniam tempo. ' : '';
+  const plan = child === 'peak' ? 'Gdy napięcie spadnie, podam jeden mały krok: ' + s.first.toLocaleLowerCase('pl') : s.first;
+  const goalText = goal === 'repair' ? `Kończymy przez: ${s.repair}.` : goal === 'stop' ? `Najpierw zatrzymuję zachowanie, potem wracamy do: ${s.repair}.` : goal === 'transition' ? `Po tym przechodzimy do następnej zapowiedzianej czynności.` : 'Zaczynamy od pierwszego, możliwego do wykonania kroku.';
+  const steps = [
+    ['Kontakt', contactByState[child]],
+    ['Granica', s.rule],
+    ['Plan', plan],
+    ['Domknięcie', goalText]
+  ];
+  $('#responseSteps').innerHTML = steps.map((x,i) => `<div class="response-step"><div class="num">${i+1}</div><strong>${x[0]}</strong><span>${x[1]}</span></div>`).join('');
+  const script = `${pre}${contactByState[child]} ${s.fact} ${s.rule} ${plan} ${goalText}`;
+  $('#responseScript').textContent = `„${script}”`;
+  $('#responseOutput').hidden = false;
+  $('#copyStatus').textContent = '';
+}
+$('#generateResponse').addEventListener('click', buildResponse);
+$('#copyResponse').addEventListener('click', async () => {
+  const text = $('#responseScript').textContent.replace(/^„|”$/g,'');
+  try { await navigator.clipboard.writeText(text); $('#copyStatus').textContent = 'Skopiowano.'; }
+  catch { $('#copyStatus').textContent = 'Zaznacz tekst i skopiuj ręcznie.'; }
+});
+
+// Risk model: educational heuristic, not diagnosis.
+const ranges = $$('#riskPane input[type="range"]');
+function updateRisk(){
+  ranges.forEach(r => r.closest('.slider-row').querySelector('output').value = r.value);
+  const vals = ranges.map(r => Number(r.value));
+  const weights = [1.1,1.15,.9,1.35,1.2];
+  const score = Math.round(vals.reduce((s,v,i) => s + v*weights[i],0) / (4*weights.reduce((a,b)=>a+b,0)) * 100);
+  let level,color;
+  if (score < 26){ level='niskie'; color='var(--green)'; }
+  else if (score < 51){ level='umiarkowane'; color='var(--amber)'; }
+  else if (score < 76){ level='wysokie'; color='#d47c43'; }
+  else { level='bardzo wysokie'; color='var(--red)'; }
+  $('#riskScore').textContent = score;
+  $('#riskLevel').textContent = level;
+  $('#riskGauge').style.setProperty('--risk', score);
+  $('#riskGauge').style.setProperty('--gauge-color', color);
+  const labels = ['zmęczenie lub głód','złożoność zadania','nadmiar bodźców','silne pobudzenie dziecka','napięcie dorosłego'];
+  const ranked = vals.map((v,i)=>({v,i})).sort((a,b)=>b.v-a.v).filter(x=>x.v>=2).slice(0,2);
+  const suggestions = [];
+  ranked.forEach(({i}) => {
+    if(i===0) suggestions.push('Najpierw sprawdź podstawowe potrzeby: posiłek, napój, odpoczynek lub porę dnia.');
+    if(i===1) suggestions.push('Zmniejsz zadanie do jednego widocznego kroku i użyj checklisty.');
+    if(i===2) suggestions.push('Ogranicz hałas, liczbę osób i konkurencyjne bodźce.');
+    if(i===3) suggestions.push('W szczycie emocji ogranicz słowa; wróć do uczenia dopiero po obniżeniu pobudzenia.');
+    if(i===4) suggestions.push('Dorosły powinien najpierw obniżyć własne napięcie i nie prowadzić długiego sporu.');
+  });
+  if (!suggestions.length) suggestions.push('Warunki są względnie sprzyjające. Podaj krótką zasadę i pierwszy krok.');
+  $('#riskAdvice').innerHTML = `<strong>Orientacyjne ryzyko: ${level}</strong><p class="small muted">Najsilniejsze czynniki: ${ranked.length ? ranked.map(x=>labels[x.i]).join(', ') : 'brak wyraźnie dominującego czynnika'}.</p><ul>${suggestions.map(s=>`<li>${s}</li>`).join('')}</ul><p class="small muted">Wskaźnik ma charakter edukacyjny i nie służy do diagnozowania dziecka.</p>`;
+}
+ranges.forEach(r => r.addEventListener('input', updateRisk));
+updateRisk();
+
+// Routine builder.
+const routineTemplates = {
+  morning:['ubierz się','zjedz śniadanie','umyj zęby','sprawdź plecak','załóż buty i kurtkę'],
+  homework:['przygotuj potrzebne materiały','wybierz pierwsze zadanie','pracuj przez 10 minut','zrób krótką przerwę ruchową','sprawdź wykonany etap'],
+  room:['zbierz naczynia i jedzenie','wyrzuć śmieci','odłóż jedną kategorię zabawek','odłóż ubrania','sprawdź, czy przejście jest wolne'],
+  evening:['przygotuj ubranie na rano','sprawdź plan lekcji','spakuj plecak','odłóż ekran','umyj zęby i przygotuj się do snu']
+};
+let routine = storage.get('child-guide-routine', routineTemplates.morning.map(text => ({text,done:false})));
+function saveRoutine(){ storage.set('child-guide-routine', routine); }
+function renderRoutine(){
+  const list = $('#routineList');
+  list.innerHTML = '';
+  routine.forEach((item,index) => {
+    const li = document.createElement('li'); li.className = `routine-item${item.done?' done':''}`;
+    li.innerHTML = `<input type="checkbox" ${item.done?'checked':''} aria-label="Oznacz krok jako wykonany"><span class="routine-text"></span><span class="routine-actions"><button class="icon-btn" title="Przesuń wyżej" aria-label="Przesuń wyżej">↑</button><button class="icon-btn" title="Przesuń niżej" aria-label="Przesuń niżej">↓</button><button class="icon-btn" title="Usuń" aria-label="Usuń">×</button></span>`;
+    $('.routine-text',li).textContent = item.text;
+    const [up,down,del] = $$('.icon-btn',li);
+    $('input',li).addEventListener('change',e=>{routine[index].done=e.target.checked;saveRoutine();renderRoutine();});
+    up.addEventListener('click',()=>{if(index>0){[routine[index-1],routine[index]]=[routine[index],routine[index-1]];saveRoutine();renderRoutine();}});
+    down.addEventListener('click',()=>{if(index<routine.length-1){[routine[index+1],routine[index]]=[routine[index],routine[index+1]];saveRoutine();renderRoutine();}});
+    del.addEventListener('click',()=>{routine.splice(index,1);saveRoutine();renderRoutine();});
+    list.appendChild(li);
+  });
+  const done = routine.filter(x=>x.done).length;
+  $('#routineCount').textContent = `${done} z ${routine.length} kroków`;
+  $('#routineProgressBar').style.width = routine.length ? `${done/routine.length*100}%` : '0%';
+}
+function addRoutine(){ const input=$('#routineInput'); const text=input.value.trim(); if(!text)return; routine.push({text,done:false}); input.value=''; saveRoutine();renderRoutine();input.focus(); }
+$('#addRoutineItem').addEventListener('click',addRoutine);
+$('#routineInput').addEventListener('keydown',e=>{if(e.key==='Enter'){e.preventDefault();addRoutine();}});
+$('#routineTemplate').addEventListener('change',e=>{if(!e.target.value)return; routine=routineTemplates[e.target.value].map(text=>({text,done:false}));saveRoutine();renderRoutine();e.target.value='';showToast('Wczytano szablon rutyny');});
+$('#resetRoutine').addEventListener('click',()=>{routine.forEach(x=>x.done=false);saveRoutine();renderRoutine();});
+$('#clearRoutine').addEventListener('click',()=>{if(confirm('Usunąć wszystkie kroki własnej rutyny?')){routine=[];saveRoutine();renderRoutine();}});
+renderRoutine();
+
+// Existing checklists with progress and reset controls.
+$$('.checklist').forEach(list => {
+  const boxes = $$('input', list);
+  const head = document.createElement('div');
+  head.className = 'checklist-head';
+  head.innerHTML = `<div style="flex:1"><div class="checklist-meta"><span class="done-count">0</span> z ${boxes.length} kroków</div><div class="check-progress"><span></span></div></div><div class="checklist-tools"><button class="mini-btn" type="button">Odznacz</button></div>`;
+  list.before(head);
+  const update = () => { const done=boxes.filter(b=>b.checked).length; $('.done-count',head).textContent=done; $('.check-progress span',head).style.width=`${done/boxes.length*100}%`; };
+  boxes.forEach((box,i) => {
     const key = `adhd-check-${list.dataset.list}-${i}`;
     box.checked = localStorage.getItem(key) === '1';
-    box.addEventListener('change', () => localStorage.setItem(key, box.checked ? '1' : '0'));
+    box.addEventListener('change', () => { localStorage.setItem(key,box.checked?'1':'0'); update(); });
   });
+  $('.mini-btn',head).addEventListener('click',()=>{boxes.forEach((box,i)=>{box.checked=false;localStorage.setItem(`adhd-check-${list.dataset.list}-${i}`,'0');});update();});
+  update();
 });
 
+// Expand/collapse controls for sections containing details.
+sections.forEach(section => {
+  const details = $$('details',section);
+  if(details.length < 2) return;
+  const tools = document.createElement('div'); tools.className='section-tools';
+  tools.innerHTML='<button class="mini-btn" type="button">Rozwiń wszystkie</button><button class="mini-btn" type="button">Zwiń wszystkie</button>';
+  const first = details[0]; first.before(tools);
+  const [openBtn,closeBtn] = $$('button',tools);
+  openBtn.addEventListener('click',()=>details.forEach(d=>d.open=true));
+  closeBtn.addEventListener('click',()=>details.forEach(d=>d.open=false));
+});
+
+// Observation log.
 const fields = ['date','med','task','before','behavior','help','result'];
 function rowTemplate(data = {}) {
   const tr = document.createElement('tr');
@@ -1410,37 +1889,44 @@ function rowTemplate(data = {}) {
     el.value = data[f] || '';
     el.dataset.field = f;
     el.addEventListener('input', saveLog);
-    td.appendChild(el);
-    tr.appendChild(td);
+    td.appendChild(el); tr.appendChild(td);
   });
+  const delTd=document.createElement('td'); const del=document.createElement('button');
+  del.className='icon-btn'; del.type='button'; del.textContent='×'; del.title='Usuń wiersz'; del.setAttribute('aria-label','Usuń wiersz');
+  del.addEventListener('click',()=>{tr.remove(); if(!$('#logBody tr')) addRow(); saveLog();});
+  delTd.appendChild(del); tr.appendChild(delTd);
   return tr;
 }
+function getLogRows(){ return $$('#logBody tr').map(tr=>{const obj={};$$('[data-field]',tr).forEach(el=>obj[el.dataset.field]=el.value.trim());return obj;}); }
 function loadLog(){
-  let rows;
-  try { rows = JSON.parse(localStorage.getItem('adhd-log-2') || '[]'); } catch(e){ rows = []; }
+  let rows = storage.get('adhd-log-2', []);
   if (!rows.length) rows = [{}];
-  rows.forEach(r => document.getElementById('logBody').appendChild(rowTemplate(r)));
+  rows.forEach(r => $('#logBody').appendChild(rowTemplate(r)));
+  updateLogDashboard();
 }
-function saveLog(){
-  const rows = [...document.querySelectorAll('#logBody tr')].map(tr => {
-    const obj = {};
-    tr.querySelectorAll('[data-field]').forEach(el => obj[el.dataset.field] = el.value);
-    return obj;
-  });
-  localStorage.setItem('adhd-log-2', JSON.stringify(rows));
+function saveLog(){ storage.set('adhd-log-2',getLogRows()); updateLogDashboard(); filterLog(); }
+function addRow(){ $('#logBody').appendChild(rowTemplate({date:new Date().toISOString().slice(0,10)})); saveLog(); }
+function clearLog(){ if(confirm('Usunąć wszystkie wpisy z dziennika?')){storage.set('adhd-log-2',[]);$('#logBody').innerHTML='';addRow();} }
+window.addRow=addRow; window.clearLog=clearLog;
+function meaningfulRows(){ return getLogRows().filter(r=>Object.values(r).some(Boolean)); }
+function updateLogDashboard(){
+  const rows=meaningfulRows();
+  const dates=[...new Set(rows.map(r=>r.date).filter(Boolean))];
+  const tasks={}; rows.map(r=>r.task).filter(Boolean).forEach(t=>tasks[t]=(tasks[t]||0)+1);
+  const top=Object.entries(tasks).sort((a,b)=>b[1]-a[1])[0]?.[0]||'–';
+  const last=rows.map(r=>r.date).filter(Boolean).sort().at(-1)||'–';
+  $('#statEntries').textContent=rows.length; $('#statDays').textContent=dates.length; $('#statTopTask').textContent=top.length>18?top.slice(0,16)+'…':top; $('#statTopTask').title=top; $('#statLastDate').textContent=last;
 }
-function addRow(){
-  document.getElementById('logBody').appendChild(rowTemplate());
-  saveLog();
-}
-function clearLog(){
-  if (confirm('Usunąć wszystkie wpisy z dziennika?')) {
-    localStorage.removeItem('adhd-log-2');
-    document.getElementById('logBody').innerHTML = '';
-    addRow();
-  }
-}
+function filterLog(){ const q=normalize($('#logFilter').value.trim()); $$('#logBody tr').forEach(tr=>tr.classList.toggle('filtered-out',q && !normalize(tr.innerText+' '+$$('input,textarea',tr).map(x=>x.value).join(' ')).includes(q))); }
+$('#logFilter').addEventListener('input',filterLog);
+function download(name,content,type){const blob=new Blob([content],{type});const url=URL.createObjectURL(blob);const a=document.createElement('a');a.href=url;a.download=name;a.click();setTimeout(()=>URL.revokeObjectURL(url),500);}
+function csvEscape(v){return `"${String(v??'').replaceAll('"','""')}"`;}
+$('#exportCsvBtn').addEventListener('click',()=>{const rows=meaningfulRows();const headers=['Data','Lek / godzina','Zadanie','Co poprzedzało','Zachowanie dziecka','Pomoc rodzica','Rezultat'];const csv='\ufeff'+[headers.map(csvEscape).join(';'),...rows.map(r=>fields.map(f=>csvEscape(r[f])).join(';'))].join('\n');download('dziennik_obserwacji.csv',csv,'text/csv;charset=utf-8');});
+$('#exportJsonBtn').addEventListener('click',()=>download('dziennik_obserwacji.json',JSON.stringify(meaningfulRows(),null,2),'application/json'));
 loadLog();
+
+// Add accessible external-link behavior without changing same-site links.
+$$('a[href^="http"]').forEach(a => { a.target='_blank'; a.rel='noopener noreferrer'; });
 </script>
 </body>
 </html>

@@ -3433,6 +3433,8 @@ window.SITE_CONFIG = {
             { label: 'Diagnoza - prezentacja (wersja 2)', href: 'pages/diagnoza_prezentacja_2.html', status: 'xlink', desc: 'Dodatkowa strona HTML: diagnoza_prezentacja_2.html.' },
             { label: 'Eksperyment n-back', href: 'pages/n_back_eksperyment.html', status: 'xlink', desc: 'Interaktywna strona HTML do przeprowadzania eksperymentu zadania n-back.' },
             { label: 'Wstyd i wina', href: 'pages/wstyd_i_wina.html', status: 'xlink', desc: 'Dodatkowa strona HTML: wstyd_i_wina.html.' },
+            { label: 'ADHD', href: 'pages/adhd.html', status: 'xlink', desc: 'ADHD', icon: 'mdi-book-open-page-variant' },
+            { label: 'Trudne zachowania dziecka', href: 'pages/trudne_zachowania_dziecka.html', status: 'xlink', desc: 'ADHD - rozdział 1', icon: 'mdi-book-open-page-variant' },
             { label: 'Strona P1', href: 'pages/p1.html', status: 'xlink', desc: 'Manipulacja kulturowa' },
             { label: 'Strona P2', href: 'pages/p2.html', status: 'xlink', desc: 'Rozmowa i obserwacja w diagnozie psychologicznej' },
             { label: 'Strona P3', href: 'pages/p3.html', status: 'xlink', desc: 'Czarna obsada w filmie historycznym' },

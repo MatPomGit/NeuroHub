@@ -1,5 +1,5 @@
 /**
- * site-config.js - PsyHub v3.2 "bulbulgator"
+ * site-config.js - PsyHub v3.2 "traumo-bajaderka"
  * Jedyne l_rodlo prawdy: nawigacja, mapowanie plikow MD, definicje WIKI.
  *
  * Konwencja statusow artykulu:
@@ -3428,13 +3428,15 @@ window.SITE_CONFIG = {
           title: 'Strony HTML w katalogu /pages',
           articles: [
             { label: 'Przyjazń', href: 'pages/przyjazn.html', status: 'xlink', desc: 'Dodatkowa strona HTML: przyjazn.html.' },
-            { label: 'Raport neuroroznorodnosci', href: 'pages/Raport_neuroroznorodnosci.html', status: 'xlink', desc: 'Dodatkowa strona HTML: Raport_neuroroznorodnosci.html.' },
-            { label: 'Diagnoza - prezentacja', href: 'pages/diagnoza_prezentacja.html', status: 'xlink', desc: 'Dodatkowa strona HTML: diagnoza_prezentacja.html.' },
+            { label: 'Diagnoza - prezentacja', href: 'pages/diagnoza_prezentacja.html', status: 'xlink', desc: 'diagnoza_prezentacja.html' },
             { label: 'Diagnoza - prezentacja (wersja 2)', href: 'pages/diagnoza_prezentacja_2.html', status: 'xlink', desc: 'Dodatkowa strona HTML: diagnoza_prezentacja_2.html.' },
             { label: 'Eksperyment n-back', href: 'pages/n_back_eksperyment.html', status: 'xlink', desc: 'Interaktywna strona HTML do przeprowadzania eksperymentu zadania n-back.' },
-            { label: 'Wstyd i wina', href: 'pages/wstyd_i_wina.html', status: 'xlink', desc: 'Dodatkowa strona HTML: wstyd_i_wina.html.' },
+            { label: 'Wstyd i wina', href: 'pages/wstyd_i_wina.html', status: 'xlink', desc: 'wstyd_i_wina.html' },
+            { label: 'Raport neuroroznorodnosci', href: 'pages/Raport_neuroroznorodnosci.html', status: 'xlink', desc: 'Raport_neuroroznorodnosci.html' },
             { label: 'ADHD', href: 'pages/adhd.html', status: 'xlink', desc: 'ADHD', icon: 'mdi-book-open-page-variant' },
-            { label: 'Trudne zachowania dziecka', href: 'pages/trudne_zachowania_dziecka.html', status: 'xlink', desc: 'ADHD - rozdział 1', icon: 'mdi-book-open-page-variant' },
+            { label: 'ADHD u dziecka', href: 'pages/trudne_zachowania_dziecka.html', status: 'xlink', desc: 'ADHD u dziecka', icon: 'mdi-book-open-page-variant' },
+            { label: 'ASD', href: 'pages/asd.html', status: 'xlink', desc: 'ASD', icon: 'mdi-book-open-page-variant' },
+            { label: 'Borderline', href: 'pages/borderline.html', status: 'xlink', desc: 'Borderline', icon: 'mdi-book-open-page-variant' },
             { label: 'Strona P1', href: 'pages/p1.html', status: 'xlink', desc: 'Manipulacja kulturowa' },
             { label: 'Strona P2', href: 'pages/p2.html', status: 'xlink', desc: 'Rozmowa i obserwacja w diagnozie psychologicznej' },
             { label: 'Strona P3', href: 'pages/p3.html', status: 'xlink', desc: 'Czarna obsada w filmie historycznym' },

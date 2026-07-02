@@ -339,6 +339,456 @@
     @media (prefers-reduced-motion: reduce) {
       *, *::before, *::after { animation: none !important; scroll-behavior: auto !important; transition: none !important; }
     }
+
+    /* --- Interaktywne wizualizacje --- */
+    .viz-grid {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: .85rem;
+      margin: 1.35rem 0;
+    }
+    .metric-ring {
+      --value: 50;
+      position: relative;
+      min-height: 185px;
+      padding: 1rem;
+      display: grid;
+      place-items: center;
+      align-content: center;
+      text-align: center;
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      background:
+        radial-gradient(circle at center, var(--surface) 0 48%, transparent 49%),
+        conic-gradient(var(--primary) calc(var(--value) * 1%), var(--surface-2) 0);
+      overflow: hidden;
+    }
+    .metric-ring::after {
+      content: "";
+      position: absolute;
+      inset: 12px;
+      border: 1px solid color-mix(in srgb, var(--primary) 20%, transparent);
+      border-radius: 50%;
+      pointer-events: none;
+    }
+    .metric-ring strong {
+      position: relative;
+      z-index: 1;
+      display: block;
+      font-size: 1.7rem;
+      line-height: 1;
+      color: var(--primary);
+    }
+    .metric-ring span {
+      position: relative;
+      z-index: 1;
+      max-width: 130px;
+      margin-top: .5rem;
+      font-size: .78rem;
+      line-height: 1.35;
+      color: var(--muted);
+    }
+    .viz-card {
+      margin: 1.25rem 0;
+      padding: 1.15rem;
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      background: linear-gradient(145deg, var(--bg), var(--surface));
+    }
+    .viz-header {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 1rem;
+      margin-bottom: 1rem;
+    }
+    .viz-header h3 { margin: 0 0 .25rem; }
+    .viz-header p { margin: 0; color: var(--muted); font-size: .9rem; }
+    .segmented {
+      display: inline-flex;
+      flex-wrap: wrap;
+      gap: .35rem;
+      padding: .3rem;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      background: var(--surface);
+    }
+    .segmented button {
+      border: 0;
+      border-radius: 999px;
+      padding: .42rem .7rem;
+      color: var(--muted);
+      background: transparent;
+      font-size: .82rem;
+      font-weight: 800;
+    }
+    .segmented button.active {
+      color: white;
+      background: var(--primary);
+    }
+    html[data-theme="dark"] .segmented button.active { color: #11152a; }
+    .range-viz { display: grid; gap: .8rem; }
+    .range-row {
+      display: grid;
+      grid-template-columns: minmax(155px, 1.2fr) minmax(220px, 3fr) 88px;
+      gap: .8rem;
+      align-items: center;
+    }
+    .range-axis {
+      position: relative;
+      height: 1.25rem;
+      border-radius: 999px;
+      background:
+        repeating-linear-gradient(90deg, transparent 0 calc(20% - 1px), var(--line) calc(20% - 1px) 20%),
+        var(--surface-2);
+      overflow: hidden;
+    }
+    .range-band {
+      position: absolute;
+      top: .2rem;
+      bottom: .2rem;
+      left: var(--start);
+      width: var(--width);
+      min-width: .45rem;
+      border-radius: 999px;
+      background: linear-gradient(90deg, var(--primary), var(--accent));
+      transition: left .45s ease, width .45s ease;
+    }
+    .range-value { text-align: right; font-weight: 850; color: var(--primary); }
+    .axis-labels {
+      display: grid;
+      grid-template-columns: repeat(6, 1fr);
+      margin: .15rem 88px 0 0;
+      color: var(--muted);
+      font-size: .7rem;
+    }
+    .axis-labels span:last-child { text-align: right; }
+    .symptom-explorer {
+      display: grid;
+      grid-template-columns: minmax(290px, 1.15fr) minmax(260px, .85fr);
+      gap: 1rem;
+      align-items: stretch;
+    }
+    .symptom-map {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: .65rem;
+    }
+    .symptom-node {
+      min-height: 112px;
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      padding: .8rem;
+      background: var(--bg);
+      color: var(--text);
+      text-align: left;
+      font-weight: 780;
+      transition: transform .18s ease, border-color .18s ease, background .18s ease;
+    }
+    .symptom-node small {
+      display: block;
+      margin-top: .35rem;
+      color: var(--muted);
+      font-weight: 550;
+      line-height: 1.35;
+    }
+    .symptom-node:hover, .symptom-node.active {
+      transform: translateY(-2px);
+      border-color: var(--primary);
+      background: color-mix(in srgb, var(--primary) 9%, var(--surface));
+    }
+    .symptom-detail {
+      min-height: 100%;
+      padding: 1.2rem;
+      border-radius: 18px;
+      background:
+        radial-gradient(circle at 90% 10%, color-mix(in srgb, var(--primary) 18%, transparent), transparent 12rem),
+        var(--surface-2);
+      border: 1px solid var(--line);
+    }
+    .symptom-detail .detail-kicker {
+      font-size: .72rem;
+      font-weight: 850;
+      letter-spacing: .1em;
+      text-transform: uppercase;
+      color: var(--accent);
+    }
+    .symptom-detail h3 { margin: .35rem 0 .65rem; }
+    .therapy-range { display: grid; gap: .72rem; }
+    .therapy-range-row {
+      display: grid;
+      grid-template-columns: 130px minmax(240px, 1fr) 105px;
+      gap: .75rem;
+      align-items: center;
+    }
+    .therapy-track {
+      position: relative;
+      height: 1.15rem;
+      border-radius: 999px;
+      background:
+        repeating-linear-gradient(90deg, transparent 0 calc(16.666% - 1px), var(--line) calc(16.666% - 1px) 16.666%),
+        var(--surface-2);
+    }
+    .therapy-band {
+      position: absolute;
+      top: .18rem;
+      bottom: .18rem;
+      left: calc(var(--min) / 36 * 100%);
+      width: calc((var(--max) - var(--min)) / 36 * 100%);
+      min-width: .65rem;
+      border-radius: 999px;
+      background: linear-gradient(90deg, var(--accent), var(--primary));
+    }
+    .therapy-point {
+      position: absolute;
+      left: calc(var(--point) / 36 * 100%);
+      top: 50%;
+      width: .95rem;
+      height: .95rem;
+      transform: translate(-50%, -50%);
+      border-radius: 50%;
+      background: var(--surface);
+      border: 3px solid var(--primary);
+      box-shadow: 0 0 0 3px color-mix(in srgb, var(--primary) 14%, transparent);
+    }
+    .month-axis {
+      display: grid;
+      grid-template-columns: repeat(7, 1fr);
+      margin: .25rem 105px 0 130px;
+      color: var(--muted);
+      font-size: .7rem;
+    }
+    .month-axis span:last-child { text-align: right; }
+    .treatment-simulator {
+      display: grid;
+      grid-template-columns: minmax(250px, .75fr) minmax(300px, 1.25fr);
+      gap: 1rem;
+      align-items: stretch;
+    }
+    .slider-panel {
+      padding: 1rem;
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      background: var(--bg);
+    }
+    .slider-panel input[type="range"] { width: 100%; accent-color: var(--primary); }
+    .month-display {
+      display: flex;
+      align-items: baseline;
+      gap: .4rem;
+      margin: .5rem 0 1rem;
+    }
+    .month-display strong { font-size: 2.2rem; color: var(--primary); }
+    .phase-orbit {
+      position: relative;
+      min-height: 310px;
+      display: grid;
+      place-items: center;
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      background:
+        radial-gradient(circle, color-mix(in srgb, var(--primary) 8%, transparent) 0 15%, transparent 16%),
+        var(--surface-2);
+      overflow: hidden;
+    }
+    .phase-orbit::before, .phase-orbit::after {
+      content: "";
+      position: absolute;
+      border: 1px dashed color-mix(in srgb, var(--primary) 28%, transparent);
+      border-radius: 50%;
+    }
+    .phase-orbit::before { width: 230px; height: 230px; }
+    .phase-orbit::after { width: 150px; height: 150px; }
+    .phase-core {
+      z-index: 2;
+      width: 104px;
+      height: 104px;
+      display: grid;
+      place-items: center;
+      padding: .6rem;
+      text-align: center;
+      border-radius: 50%;
+      background: var(--primary);
+      color: white;
+      font-weight: 850;
+      line-height: 1.2;
+      box-shadow: var(--shadow);
+    }
+    html[data-theme="dark"] .phase-core { color: #11152a; }
+    .orbit-label {
+      position: absolute;
+      z-index: 3;
+      width: 115px;
+      padding: .5rem;
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      background: var(--surface);
+      color: var(--muted);
+      font-size: .76rem;
+      line-height: 1.25;
+      text-align: center;
+      opacity: .28;
+      transform: scale(.94);
+      transition: opacity .25s ease, transform .25s ease, border-color .25s ease;
+    }
+    .orbit-label.active {
+      opacity: 1;
+      transform: scale(1);
+      color: var(--text);
+      border-color: var(--primary);
+    }
+    .orbit-label:nth-of-type(2) { top: 18px; left: calc(50% - 57px); }
+    .orbit-label:nth-of-type(3) { top: 67px; right: 12px; }
+    .orbit-label:nth-of-type(4) { bottom: 35px; right: 24px; }
+    .orbit-label:nth-of-type(5) { bottom: 18px; left: calc(50% - 57px); }
+    .orbit-label:nth-of-type(6) { bottom: 58px; left: 17px; }
+    .orbit-label:nth-of-type(7) { top: 68px; left: 12px; }
+    .relationship-lab {
+      display: grid;
+      grid-template-columns: minmax(260px, .8fr) minmax(320px, 1.2fr);
+      gap: 1rem;
+    }
+    .gauge {
+      position: relative;
+      min-height: 285px;
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      background:
+        radial-gradient(circle at 50% 100%, transparent 0 31%, var(--surface-2) 31.5% 47%, transparent 47.5%),
+        linear-gradient(135deg, var(--success-soft), var(--warning-soft) 55%, var(--danger-soft));
+      overflow: hidden;
+    }
+    .gauge::after {
+      content: "";
+      position: absolute;
+      left: 50%;
+      bottom: 7%;
+      width: 42%;
+      height: 4px;
+      transform-origin: left center;
+      transform: rotate(var(--angle, -80deg));
+      background: var(--text);
+      border-radius: 999px;
+      transition: transform .4s ease;
+    }
+    .gauge-center {
+      position: absolute;
+      left: 50%;
+      bottom: 7%;
+      width: 20px;
+      height: 20px;
+      transform: translate(-50%, 50%);
+      border-radius: 50%;
+      background: var(--text);
+      z-index: 2;
+    }
+    .gauge-label {
+      position: absolute;
+      left: 1rem;
+      right: 1rem;
+      bottom: 1rem;
+      text-align: center;
+      font-weight: 850;
+    }
+    .lab-output {
+      padding: 1.15rem;
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      background: var(--surface-2);
+    }
+    .lab-output h3 { margin-top: 0; }
+    .lab-status {
+      display: inline-flex;
+      margin-bottom: .7rem;
+      padding: .3rem .65rem;
+      border-radius: 999px;
+      background: var(--warning-soft);
+      color: var(--warning);
+      font-weight: 850;
+      font-size: .78rem;
+    }
+    .consent-lab {
+      display: grid;
+      grid-template-columns: 210px minmax(0, 1fr);
+      gap: 1rem;
+      align-items: stretch;
+      margin: 1rem 0;
+    }
+    .traffic-light {
+      display: grid;
+      gap: .65rem;
+      padding: 1rem;
+      border: 1px solid var(--line);
+      border-radius: 26px;
+      background: #202532;
+      box-shadow: inset 0 0 0 6px #111722;
+    }
+    .light-btn {
+      aspect-ratio: 1;
+      width: min(100%, 115px);
+      justify-self: center;
+      border: 6px solid #0b0e14;
+      border-radius: 50%;
+      opacity: .32;
+      box-shadow: inset 0 -12px 20px rgba(0,0,0,.32);
+      transition: opacity .2s ease, transform .2s ease, box-shadow .2s ease;
+    }
+    .light-btn[data-state="red"] { background: #e6505f; }
+    .light-btn[data-state="yellow"] { background: #f2c84b; }
+    .light-btn[data-state="green"] { background: #42bf76; }
+    .light-btn.active {
+      opacity: 1;
+      transform: scale(1.04);
+      box-shadow: 0 0 30px currentColor, inset 0 -10px 20px rgba(0,0,0,.18);
+    }
+    .consent-output {
+      padding: 1.2rem;
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      background: var(--bg);
+    }
+    .consent-output h3 { margin-top: 0; }
+    .mini-legend {
+      display: flex;
+      flex-wrap: wrap;
+      gap: .75rem;
+      color: var(--muted);
+      font-size: .76rem;
+    }
+    .mini-legend span::before {
+      content: "";
+      display: inline-block;
+      width: .65rem;
+      height: .65rem;
+      margin-right: .35rem;
+      border-radius: 50%;
+      background: var(--legend);
+    }
+    .interactive-note {
+      margin-top: .75rem;
+      color: var(--muted);
+      font-size: .78rem;
+    }
+    @media (max-width: 980px) {
+      .viz-grid { grid-template-columns: repeat(2, 1fr); }
+      .symptom-explorer, .treatment-simulator, .relationship-lab { grid-template-columns: 1fr; }
+    }
+    @media (max-width: 650px) {
+      .viz-grid { grid-template-columns: 1fr 1fr; }
+      .metric-ring { min-height: 155px; }
+      .range-row, .therapy-range-row { grid-template-columns: 1fr; gap: .3rem; }
+      .range-value { text-align: left; }
+      .axis-labels, .month-axis { display: none; }
+      .symptom-map { grid-template-columns: 1fr; }
+      .consent-lab { grid-template-columns: 1fr; }
+      .traffic-light {
+        grid-template-columns: repeat(3, 1fr);
+        border-radius: 20px;
+      }
+      .light-btn { width: 86px; }
+      .viz-header { flex-direction: column; }
+    }
+
   </style>
 </head>
 <body>
@@ -423,6 +873,22 @@
         <article class="card"><div class="icon">2</div><h3>Rokowanie nie jest beznadziejne</h3><p>Objawy często słabną z wiekiem i leczeniem. Remisja objawowa jest częsta, choć poprawa pracy, relacji i samodzielności może postępować wolniej.</p></article>
         <article class="card"><div class="icon">3</div><h3>Rozpoznanie nie usprawiedliwia krzywdzenia</h3><p>Trauma i dysregulacja mogą wyjaśniać zachowanie, lecz nie znoszą odpowiedzialności za przemoc, kontrolę, groźby, zdradę ani naruszanie granic.</p></article>
       </div>
+
+      <div class="viz-grid" aria-label="Najważniejsze wskaźniki raportu">
+        <div class="metric-ring" style="--value:55.6" title="Próg DSM-5-TR: 5 z 9 kryteriów">
+          <strong>5/9</strong><span>minimalny próg kryteriów DSM-5-TR</span>
+        </div>
+        <div class="metric-ring" style="--value:85" title="Około 85% remisji diagnostycznej po 10 latach w próbach klinicznych">
+          <strong>≈85%</strong><span>remisja diagnostyczna po 10 latach</span>
+        </div>
+        <div class="metric-ring" style="--value:81" title="Czułość MSI-BPD przy progu 7/10 w badaniu pierwotnym">
+          <strong>81%</strong><span>czułość przesiewu MSI-BPD</span>
+        </div>
+        <div class="metric-ring" style="--value:85" title="Swoistość MSI-BPD przy progu 7/10 w badaniu pierwotnym">
+          <strong>85%</strong><span>swoistość przesiewu MSI-BPD</span>
+        </div>
+      </div>
+
       <div class="note"><strong>Ważne:</strong> raport służy edukacji. Nie zastępuje diagnozy psychiatrycznej ani psychologicznej i nie powinien być używany do „diagnozowania” partnera na podstawie konfliktów w związku.</div>
     </section>
 
@@ -460,6 +926,43 @@
         <div class="bar-row"><span>Hospitalizowani psychiatrycznie</span><div class="bar-track"><div class="bar-fill" style="width:80%"></div></div><strong>9–25%</strong></div>
         <p class="muted"><small>Szerokość słupków służy wizualnemu porównaniu, nie stanowi wspólnej skali ryzyka indywidualnego.</small></p>
       </div>
+
+      <div class="viz-card">
+        <div class="viz-header">
+          <div>
+            <h3>Interaktywny zakres częstości</h3>
+            <p>Przełącz sposób prezentacji dolnej granicy, górnej granicy lub pełnego zakresu z wytycznych APA.</p>
+          </div>
+          <div class="segmented" id="prevalenceMode" aria-label="Tryb wykresu częstości">
+            <button type="button" data-mode="low">Dolna</button>
+            <button type="button" data-mode="range" class="active">Zakres</button>
+            <button type="button" data-mode="high">Górna</button>
+          </div>
+        </div>
+        <div class="range-viz" id="prevalenceChart">
+          <div class="range-row" data-low="1.4" data-high="2.7">
+            <span>Populacja ogólna</span>
+            <div class="range-axis"><div class="range-band"></div></div>
+            <span class="range-value">1,4–2,7%</span>
+          </div>
+          <div class="range-row" data-low="10" data-high="18">
+            <span>Psychiatria ambulatoryjna</span>
+            <div class="range-axis"><div class="range-band"></div></div>
+            <span class="range-value">10–18%</span>
+          </div>
+          <div class="range-row" data-low="9" data-high="25">
+            <span>Hospitalizacja psychiatryczna</span>
+            <div class="range-axis"><div class="range-band"></div></div>
+            <span class="range-value">9–25%</span>
+          </div>
+        </div>
+        <div class="mini-legend">
+          <span style="--legend:var(--primary)">minimum oszacowania</span>
+          <span style="--legend:var(--accent)">maksimum oszacowania</span>
+        </div>
+        <p class="interactive-note">Skala kończy się na 25%. Zakresy pochodzą z różnych populacji i nie są prognozą dla konkretnej osoby.</p>
+      </div>
+
       <div class="grid-2">
         <div class="success"><strong>Remisja jest częsta.</strong> W długoterminowych próbach klinicznych około 85% osób po 10 latach nie spełniało już progu rozpoznania. W obserwacji 24-letniej utrata remisji była możliwa, ale jej ryzyko malało wraz z długością stabilnego okresu.</div>
         <div class="warning"><strong>Remisja objawowa ≠ pełne wyzdrowienie funkcjonalne.</strong> Relacje, praca, edukacja i samodzielność mogą poprawiać się wolniej niż liczba kryteriów diagnostycznych.</div>
@@ -482,6 +985,37 @@
         <article class="criterion"><strong>Gniew</strong><p>Intensywny, nieadekwatny gniew albo trudności z jego kontrolą.</p></article>
         <article class="criterion"><strong>Paranoja lub dysocjacja</strong><p>Przemijające, związane ze stresem objawy paranoidalne lub nasilona dysocjacja.</p></article>
       </div>
+
+      <div class="viz-card">
+        <div class="viz-header">
+          <div>
+            <h3>Interaktywna mapa objawów</h3>
+            <p>Wybierz obszar, aby zobaczyć jego możliwy mechanizm i typowy kierunek pracy terapeutycznej.</p>
+          </div>
+        </div>
+        <div class="symptom-explorer">
+          <div class="symptom-map" id="symptomMap">
+            <button class="symptom-node active" type="button" data-title="Lęk przed porzuceniem" data-mechanism="Wysoka czułość na sygnały oddalenia może uruchamiać katastroficzną interpretację: „zaraz zostanę sama/sam”." data-help="Pomaga rozpoznawanie wyzwalaczy, tolerowanie niepewności, sprawdzanie faktów i budowanie wielu źródeł bezpieczeństwa.">Porzucenie<small>alarm więzi</small></button>
+            <button class="symptom-node" type="button" data-title="Niestabilne relacje" data-mechanism="Przy silnym pobudzeniu obraz drugiej osoby może gwałtownie zmieniać się z całkowicie dobrego na całkowicie złe." data-help="Pomaga mentalizacja, integracja sprzecznych cech i odraczanie decyzji relacyjnych do czasu spadku pobudzenia.">Relacje<small>idealizacja i dewaluacja</small></button>
+            <button class="symptom-node" type="button" data-title="Niestabilna tożsamość" data-mechanism="Obraz siebie może silnie zależeć od aktualnej relacji, emocji lub oceny otoczenia." data-help="Pomaga praca nad wartościami, celami, ciągłością autobiograficzną i bardziej złożonym opisem siebie.">Tożsamość<small>zmienny obraz siebie</small></button>
+            <button class="symptom-node" type="button" data-title="Impulsywność" data-mechanism="Działanie daje szybką ulgę od napięcia, dlatego krótkoterminowa nagroda może przeważać nad odległymi kosztami." data-help="Pomaga analiza łańcucha zachowania, odroczenie, ograniczenie dostępu do ryzyka i trening alternatywnej regulacji.">Impulsywność<small>natychmiastowa ulga</small></button>
+            <button class="symptom-node" type="button" data-title="Autoagresja i suicydalność" data-mechanism="Zachowanie może służyć redukcji skrajnego napięcia, przerwaniu dysocjacji, samokaraniu lub komunikowaniu bezradności." data-help="Priorytetem jest ocena ryzyka, plan bezpieczeństwa, ograniczenie dostępu do środków i leczenie funkcji zachowania.">Autoagresja<small>najwyższy priorytet</small></button>
+            <button class="symptom-node" type="button" data-title="Chwiejność emocjonalna" data-mechanism="Emocje mogą być uruchamiane szybko, osiągać dużą intensywność i wolniej wracać do poziomu bazowego." data-help="Pomaga nazywanie emocji, regulacja fizjologiczna, uważność i zmiana interpretacji po obniżeniu pobudzenia.">Emocje<small>duża reaktywność</small></button>
+            <button class="symptom-node" type="button" data-title="Poczucie pustki" data-mechanism="Może łączyć się z odłączeniem od potrzeb, wartości, ciała i stabilnego poczucia własnej osoby." data-help="Pomaga planowanie aktywności zgodnych z wartościami, kontakt z ciałem, więź i rozwijanie tożsamości poza kryzysem.">Pustka<small>odłączenie od siebie</small></button>
+            <button class="symptom-node" type="button" data-title="Intensywny gniew" data-mechanism="Gniew może wtórnie przykrywać strach, wstyd, ból lub poczucie bezsilności." data-help="Pomaga wczesne wykrywanie pobudzenia, przerwa bez porzucenia, komunikat potrzeb i naprawa szkód.">Gniew<small>emocja wtórna</small></button>
+            <button class="symptom-node" type="button" data-title="Dysocjacja i paranoja pod wpływem stresu" data-mechanism="Przy przeciążeniu może czasowo obniżać się integracja percepcji, pamięci, ciała i zdolność trafnego odczytywania intencji." data-help="Pomaga uziemienie, zmniejszenie bodźców, bezpieczeństwo, sen oraz leczenie współwystępującej traumy.">Dysocjacja<small>przeciążenie systemu</small></button>
+          </div>
+          <aside class="symptom-detail" id="symptomDetail" aria-live="polite">
+            <div class="detail-kicker">Wybrany obszar</div>
+            <h3>Lęk przed porzuceniem</h3>
+            <p id="symptomMechanism">Wysoka czułość na sygnały oddalenia może uruchamiać katastroficzną interpretację: „zaraz zostanę sama/sam”.</p>
+            <h4>Kierunek pracy</h4>
+            <p id="symptomHelp">Pomaga rozpoznawanie wyzwalaczy, tolerowanie niepewności, sprawdzanie faktów i budowanie wielu źródeł bezpieczeństwa.</p>
+          </aside>
+        </div>
+        <p class="interactive-note">Element ma charakter edukacyjny. Nie oblicza diagnozy ani nasilenia BPD.</p>
+      </div>
+
       <div class="danger"><strong>Lista kryteriów nie jest testem internetowym.</strong> Podobne objawy mogą wynikać m.in. z PTSD/C-PTSD, choroby afektywnej dwubiegunowej, ADHD, ASD, depresji, używania substancji, zaburzeń odżywiania lub przemocy w aktualnej relacji.</div>
     </section>
 
@@ -542,6 +1076,33 @@
       <div class="section-number">09 · Leczenie krok po kroku</div>
       <h2>Jak przebiega proces psychoterapii?</h2>
       <p>Proces nie jest identyczny u wszystkich. Poniższy model łączy wspólne elementy DBT, MBT, terapii schematów, TFP i GPM oraz rekomendacje APA/NICE.</p>
+
+      <div class="viz-card">
+        <div class="viz-header">
+          <div>
+            <h3>Orientacyjna oś procesu leczenia</h3>
+            <p>Przesuń suwak, aby zobaczyć, które cele często pozostają aktywne na danym etapie. Etapy nakładają się i nie tworzą sztywnego harmonogramu.</p>
+          </div>
+        </div>
+        <div class="treatment-simulator">
+          <div class="slider-panel">
+            <label for="therapyMonth"><strong>Miesiąc terapii</strong></label>
+            <div class="month-display"><strong id="therapyMonthValue">6</strong><span>miesiąc</span></div>
+            <input id="therapyMonth" type="range" min="0" max="36" value="6" step="1">
+            <p id="therapyMonthText" class="muted">Stabilizacja, psychoedukacja i intensywny trening umiejętności zwykle pozostają centralne.</p>
+          </div>
+          <div class="phase-orbit" id="phaseOrbit" aria-live="polite">
+            <div class="phase-core">Proces<br>iteracyjny</div>
+            <div class="orbit-label active" data-from="0" data-to="36">Bezpieczeństwo i ryzyko</div>
+            <div class="orbit-label active" data-from="0" data-to="9">Kontrakt i stabilizacja</div>
+            <div class="orbit-label active" data-from="1" data-to="18">Umiejętności i analiza epizodów</div>
+            <div class="orbit-label" data-from="6" data-to="36">Tożsamość i relacje</div>
+            <div class="orbit-label" data-from="9" data-to="36">Praca z traumą, gdy bezpieczna</div>
+            <div class="orbit-label" data-from="12" data-to="36">Generalizacja i zapobieganie nawrotom</div>
+          </div>
+        </div>
+      </div>
+
       <div class="protocol">
         <div class="protocol-step"><div><strong>Pełna diagnoza i formulacja</strong><p>Rozpoznanie wzorca, współwystępujących zaburzeń, traum, zasobów, celów pacjenta i aktualnego ryzyka. Powstaje wyjaśnienie: co uruchamia kryzys, jak przebiega i co go podtrzymuje.</p></div></div>
         <div class="protocol-step"><div><strong>Kontrakt i struktura leczenia</strong><p>Ustala się częstotliwość, kontakt poza sesjami, postępowanie przy nieobecnościach, zasady kryzysowe, role specjalistów i sposób mierzenia efektów.</p></div></div>
@@ -586,6 +1147,28 @@
             <tr><td>GPM</td><td>psychoedukacja, funkcjonowanie i relacje</td><td>elastyczny</td><td>potrzebna jest dostępna, dobrze zorganizowana opieka ogólnopsychiatryczna</td></tr>
           </tbody>
         </table>
+
+
+
+      </div>
+    
+
+<div class="viz-card">
+        <div class="viz-header">
+          <div>
+            <h3>Orientacyjny czas ustrukturyzowanych programów</h3>
+            <p>Zakresy wynikają z typowych formatów opisanych w raporcie, a nie z minimalnego czasu koniecznego dla każdej osoby.</p>
+          </div>
+        </div>
+        <div class="therapy-range">
+          <div class="therapy-range-row"><strong>DBT</strong><div class="therapy-track"><span class="therapy-band" style="--min:9;--max:15"></span><span class="therapy-point" style="--point:12"></span></div><span>około 12 mies.</span></div>
+          <div class="therapy-range-row"><strong>MBT</strong><div class="therapy-track"><span class="therapy-band" style="--min:15;--max:21"></span><span class="therapy-point" style="--point:18"></span></div><span>około 18 mies.</span></div>
+          <div class="therapy-range-row"><strong>Schematy</strong><div class="therapy-track"><span class="therapy-band" style="--min:12;--max:36"></span></div><span>12–36 mies.</span></div>
+          <div class="therapy-range-row"><strong>TFP</strong><div class="therapy-track"><span class="therapy-band" style="--min:12;--max:24"></span></div><span>12–24 mies.</span></div>
+          <div class="therapy-range-row"><strong>GPM</strong><div class="therapy-track"><span class="therapy-band" style="--min:6;--max:36"></span></div><span>elastyczny</span></div>
+        </div>
+        <div class="month-axis"><span>0</span><span>6</span><span>12</span><span>18</span><span>24</span><span>30</span><span>36 mies.</span></div>
+        <p class="interactive-note">Punkt oznacza najczęściej przywoływany standard programu; pas przedstawia orientacyjny przedział organizacyjny.</p>
       </div>
     </section>
 
@@ -623,6 +1206,34 @@
         <div class="card"><h3>Finanse</h3><p>Impulsywne wydatki mogą wymagać limitów, osobnych kont na część środków, zasady odroczenia zakupu i wspólnego budżetu. Rozwiązania muszą być uzgodnione, nie narzucone.</p></div>
         <div class="card"><h3>Obowiązki</h3><p>Podział powinien być jawny i mierzalny. Kryzys może czasowo zmniejszyć zdolność działania, ale nie może prowadzić do trwałego przejęcia całego życia przez partnera.</p></div>
         <div class="card"><h3>Rodzicielstwo</h3><p>Priorytetem jest stabilność i bezpieczeństwo dziecka. Dziecko nie może pełnić funkcji regulatora emocji rodzica, mediatora ani powiernika konfliktów dorosłych.</p></div>
+      </div>
+
+
+      <div class="viz-card">
+        <div class="viz-header">
+          <div>
+            <h3>Laboratorium deeskalacji konfliktu</h3>
+            <p>Zmień poziom pobudzenia i stabilność granic. Wynik pokazuje sugerowany styl rozmowy, a nie prawdopodobieństwo przemocy lub rozpadu związku.</p>
+          </div>
+        </div>
+        <div class="relationship-lab">
+          <div class="slider-panel">
+            <label for="arousalRange"><strong>Pobudzenie emocjonalne: <span id="arousalValue">7</span>/10</strong></label>
+            <input id="arousalRange" type="range" min="0" max="10" value="7">
+            <label for="boundaryRange"><strong>Jasność granic: <span id="boundaryValue">5</span>/10</strong></label>
+            <input id="boundaryRange" type="range" min="0" max="10" value="5">
+            <p class="interactive-note">Granice oznaczają przewidywalne zasady zachowania, nie kontrolowanie drugiej osoby.</p>
+          </div>
+          <div class="lab-output">
+            <div class="lab-status" id="labStatus">Przerwa i regulacja</div>
+            <h3 id="labTitle">Najpierw obniż pobudzenie</h3>
+            <p id="labAdvice">Przy wysokim pobudzeniu argumenty zwykle nie są przetwarzane. Nazwij stan, zapowiedz konkretną długość przerwy i wróć o ustalonej godzinie.</p>
+            <div class="gauge" id="conflictGauge" style="--angle:32deg">
+              <div class="gauge-center"></div>
+              <div class="gauge-label" id="gaugeLabel">wysokie ryzyko eskalacji rozmowy</div>
+            </div>
+          </div>
+        </div>
       </div>
 
       <h3>Czego związek wymaga od obu stron?</h3>
@@ -741,7 +1352,24 @@
         </table>
       </div>
 
+      
+
       <h3>Zgoda seksualna w praktyce</h3>
+
+      <div class="consent-lab">
+        <div class="traffic-light" id="consentTraffic" aria-label="Interaktywny sygnalizator zgody">
+          <button class="light-btn" type="button" data-state="red" aria-label="Czerwone: zatrzymaj"></button>
+          <button class="light-btn active" type="button" data-state="yellow" aria-label="Żółte: zwolnij i sprawdź"></button>
+          <button class="light-btn" type="button" data-state="green" aria-label="Zielone: wyraźna zgoda"></button>
+        </div>
+        <div class="consent-output" id="consentOutput" aria-live="polite">
+          <span class="pill warn" id="consentPill">Żółte: sprawdź</span>
+          <h3 id="consentTitle">Pojawiła się niepewność lub zmiana zachowania</h3>
+          <p id="consentText">Zwolnij albo zatrzymaj się i zapytaj wprost, czy osoba nadal chce kontynuować. Brak pewnego „tak” nie powinien być interpretowany jako zgoda.</p>
+          <p class="interactive-note">Kliknij światło. Model pokazuje zasadę bezpieczeństwa, nie ocenia konkretnego zdarzenia prawnego.</p>
+        </div>
+      </div>
+
       <div class="grid-2">
         <div class="do">
           <strong>Zgoda powinna być:</strong>
@@ -967,6 +1595,165 @@
   });
 
   navLinks.forEach(link => link.addEventListener('click', () => search.value && (search.value = '', search.dispatchEvent(new Event('input')))));
+
+  // Interaktywny wykres zakresów epidemiologicznych.
+  const prevalenceButtons = [...document.querySelectorAll('#prevalenceMode button')];
+  const prevalenceRows = [...document.querySelectorAll('#prevalenceChart .range-row')];
+  const fmtPL = value => String(value).replace('.', ',');
+  function updatePrevalence(mode = 'range') {
+    prevalenceButtons.forEach(btn => btn.classList.toggle('active', btn.dataset.mode === mode));
+    prevalenceRows.forEach(row => {
+      const low = Number(row.dataset.low);
+      const high = Number(row.dataset.high);
+      const band = row.querySelector('.range-band');
+      const label = row.querySelector('.range-value');
+      let start = 0;
+      let width = 0;
+      let text = '';
+      if (mode === 'low') {
+        width = low / 25 * 100;
+        text = fmtPL(low) + '%';
+      } else if (mode === 'high') {
+        width = high / 25 * 100;
+        text = fmtPL(high) + '%';
+      } else {
+        start = low / 25 * 100;
+        width = (high - low) / 25 * 100;
+        text = fmtPL(low) + '–' + fmtPL(high) + '%';
+      }
+      band.style.setProperty('--start', start + '%');
+      band.style.setProperty('--width', width + '%');
+      label.textContent = text;
+    });
+  }
+  prevalenceButtons.forEach(btn => btn.addEventListener('click', () => updatePrevalence(btn.dataset.mode)));
+  updatePrevalence();
+
+  // Eksplorator kryteriów.
+  const symptomNodes = [...document.querySelectorAll('.symptom-node')];
+  const symptomTitle = document.querySelector('#symptomDetail h3');
+  const symptomMechanism = document.getElementById('symptomMechanism');
+  const symptomHelp = document.getElementById('symptomHelp');
+  symptomNodes.forEach(node => node.addEventListener('click', () => {
+    symptomNodes.forEach(n => n.classList.remove('active'));
+    node.classList.add('active');
+    symptomTitle.textContent = node.dataset.title;
+    symptomMechanism.textContent = node.dataset.mechanism;
+    symptomHelp.textContent = node.dataset.help;
+  }));
+
+  // Orientacyjna oś terapii.
+  const therapyMonth = document.getElementById('therapyMonth');
+  const therapyMonthValue = document.getElementById('therapyMonthValue');
+  const therapyMonthText = document.getElementById('therapyMonthText');
+  const orbitLabels = [...document.querySelectorAll('#phaseOrbit .orbit-label')];
+  function monthNarrative(month) {
+    if (month <= 2) return 'Najczęściej dominują diagnoza, bezpieczeństwo, kontrakt i pierwsze strategie przetrwania kryzysu.';
+    if (month <= 8) return 'Stabilizacja, psychoedukacja i intensywny trening umiejętności zwykle pozostają centralne.';
+    if (month <= 17) return 'Do regulacji i analizy epizodów coraz częściej dołącza praca nad relacjami, tożsamością i funkcjonowaniem.';
+    if (month <= 24) return 'Przy wystarczającej stabilności możliwa jest głębsza praca nad traumą i utrwalonymi wzorcami.';
+    return 'Coraz większy nacisk przesuwa się na samodzielność, generalizację umiejętności i zapobieganie nawrotom.';
+  }
+  function updateTherapyMonth() {
+    if (!therapyMonth) return;
+    const month = Number(therapyMonth.value);
+    therapyMonthValue.textContent = month;
+    therapyMonthText.textContent = monthNarrative(month);
+    orbitLabels.forEach(label => {
+      const active = month >= Number(label.dataset.from) && month <= Number(label.dataset.to);
+      label.classList.toggle('active', active);
+    });
+  }
+  therapyMonth?.addEventListener('input', updateTherapyMonth);
+  updateTherapyMonth();
+
+  // Edukacyjny model deeskalacji.
+  const arousalRange = document.getElementById('arousalRange');
+  const boundaryRange = document.getElementById('boundaryRange');
+  const arousalValue = document.getElementById('arousalValue');
+  const boundaryValue = document.getElementById('boundaryValue');
+  const labStatus = document.getElementById('labStatus');
+  const labTitle = document.getElementById('labTitle');
+  const labAdvice = document.getElementById('labAdvice');
+  const conflictGauge = document.getElementById('conflictGauge');
+  const gaugeLabel = document.getElementById('gaugeLabel');
+  function updateRelationshipLab() {
+    if (!arousalRange || !boundaryRange) return;
+    const a = Number(arousalRange.value);
+    const b = Number(boundaryRange.value);
+    arousalValue.textContent = a;
+    boundaryValue.textContent = b;
+    const score = Math.max(0, Math.min(10, a + (10 - b) * .55));
+    const angle = -80 + score / 15.5 * 160;
+    conflictGauge.style.setProperty('--angle', angle + 'deg');
+    if (a >= 8) {
+      labStatus.textContent = 'Przerwa i bezpieczeństwo';
+      labStatus.style.background = 'var(--danger-soft)';
+      labStatus.style.color = 'var(--danger)';
+      labTitle.textContent = 'Nie rozwiązuj teraz treści konfliktu';
+      labAdvice.textContent = b < 5
+        ? 'Wysokie pobudzenie i niejasne granice sprzyjają chaosowi. Zatrzymaj rozmowę, określ czego nie akceptujesz i podaj konkretną godzinę bezpiecznego powrotu.'
+        : 'Granice są względnie czytelne, ale pobudzenie jest zbyt wysokie na rzeczową rozmowę. Utrzymaj je spokojnie i przejdź do regulacji.';
+      gaugeLabel.textContent = 'bardzo wysokie ryzyko eskalacji rozmowy';
+    } else if (a >= 5) {
+      labStatus.textContent = 'Rozmowa ograniczona';
+      labStatus.style.background = 'var(--warning-soft)';
+      labStatus.style.color = 'var(--warning)';
+      labTitle.textContent = 'Jeden temat, krótkie komunikaty';
+      labAdvice.textContent = b < 5
+        ? 'Najpierw doprecyzuj granicę: jakie zachowanie ma się zatrzymać i kiedy rozmowa zostanie wznowiona. Nie próbuj rozstrzygać całej historii związku.'
+        : 'Można rozmawiać krótko: nazwij emocję, trzymaj się jednego faktu i jednego oczekiwania. Gdy pobudzenie rośnie, wróć do przerwy.';
+      gaugeLabel.textContent = 'umiarkowane ryzyko eskalacji rozmowy';
+    } else {
+      labStatus.textContent = 'Okno do współpracy';
+      labStatus.style.background = 'var(--success-soft)';
+      labStatus.style.color = 'var(--success)';
+      labTitle.textContent = 'Możliwa rozmowa naprawcza';
+      labAdvice.textContent = b < 5
+        ? 'Pobudzenie jest niskie, ale zasady nadal są niejasne. Ustal konkretny podział odpowiedzialności, granice i sposób reagowania przy kolejnym konflikcie.'
+        : 'Warunki sprzyjają rozmowie. Omów fakty, wpływ zachowania, odpowiedzialność obu stron i jedno wdrażalne rozwiązanie.';
+      gaugeLabel.textContent = 'niższe ryzyko eskalacji rozmowy';
+    }
+  }
+  arousalRange?.addEventListener('input', updateRelationshipLab);
+  boundaryRange?.addEventListener('input', updateRelationshipLab);
+  updateRelationshipLab();
+
+  // Sygnalizator świadomej zgody.
+  const consentLights = [...document.querySelectorAll('.light-btn')];
+  const consentPill = document.getElementById('consentPill');
+  const consentTitle = document.getElementById('consentTitle');
+  const consentText = document.getElementById('consentText');
+  const consentStates = {
+    green: {
+      pill: 'Zielone: wyraźna zgoda',
+      cls: 'pill good',
+      title: 'Jest aktywna, swobodna i aktualna zgoda',
+      text: 'Można kontynuować w uzgodnionym zakresie, nadal obserwując komfort i sprawdzając zgodę po zmianie aktywności.'
+    },
+    yellow: {
+      pill: 'Żółte: sprawdź',
+      cls: 'pill warn',
+      title: 'Pojawiła się niepewność lub zmiana zachowania',
+      text: 'Zwolnij albo zatrzymaj się i zapytaj wprost, czy osoba nadal chce kontynuować. Brak pewnego „tak” nie powinien być interpretowany jako zgoda.'
+    },
+    red: {
+      pill: 'Czerwone: zatrzymaj',
+      cls: 'pill bad',
+      title: 'Brak zgody albo zdolności do jej udzielenia',
+      text: 'Natychmiast przerwij. Nie negocjuj seksu przy odmowie, zamrożeniu, utracie kontaktu, znacznym odurzeniu, bólu lub strachu.'
+    }
+  };
+  consentLights.forEach(light => light.addEventListener('click', () => {
+    consentLights.forEach(l => l.classList.remove('active'));
+    light.classList.add('active');
+    const state = consentStates[light.dataset.state];
+    consentPill.className = state.cls;
+    consentPill.textContent = state.pill;
+    consentTitle.textContent = state.title;
+    consentText.textContent = state.text;
+  }));
+
 </script>
 </body>
 </html>

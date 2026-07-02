@@ -2239,7 +2239,7 @@ window.SITE_CONFIG = {
           articles: [
             { label: 'System 1 i System 2 (Kahneman)', id: 'poznawcza/system1_system2', status: 'live' },
             { label: 'Predictive processing', id: 'poznawcza/przetwarzanie_predyktywne', status: 'live' },
-            { label: 'Ucielesnione poznanie', id: 'poznawcza/ucielesnienie', status: 'live' },
+            { label: 'Ucielesnione poznanie', id: 'poznawcza/ucielesnienie', file: 'wiki/psychologia_poznawcza/ucielesnienie.md', status: 'live' },
           ]
         },
       ]

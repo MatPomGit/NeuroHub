@@ -1,0 +1,825 @@
+<!DOCTYPE html>
+<html lang="pl" data-theme="light">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Naukowy, przystępny raport o zaburzeniu osobowości borderline: objawy, przyczyny, diagnostyka, leczenie, rokowanie i funkcjonowanie w związku.">
+  <meta name="color-scheme" content="light dark">
+  <title>Borderline (BPD) — diagnoza, leczenie i relacje</title>
+  <style>
+    :root {
+      --bg: #f6f7fb;
+      --surface: #ffffff;
+      --surface-2: #eef1f8;
+      --text: #172033;
+      --muted: #5d687d;
+      --line: #dce1eb;
+      --primary: #5b4fc4;
+      --primary-2: #8175e5;
+      --accent: #0f8c84;
+      --accent-soft: #dcf5f1;
+      --warning: #a15c00;
+      --warning-soft: #fff1d9;
+      --danger: #b33a50;
+      --danger-soft: #fde8ec;
+      --success: #237a4d;
+      --success-soft: #e4f5eb;
+      --shadow: 0 14px 44px rgba(29, 36, 60, .09);
+      --radius: 20px;
+      --content-width: 1180px;
+      --font-scale: 1;
+    }
+    html[data-theme="dark"] {
+      --bg: #0d1220;
+      --surface: #151c2d;
+      --surface-2: #1d263a;
+      --text: #edf1fa;
+      --muted: #adb7ca;
+      --line: #303a50;
+      --primary: #a99ff8;
+      --primary-2: #8175e5;
+      --accent: #5ed0c7;
+      --accent-soft: #173b3a;
+      --warning: #ffc46f;
+      --warning-soft: #3b2b15;
+      --danger: #ff91a4;
+      --danger-soft: #421f29;
+      --success: #7bd5a1;
+      --success-soft: #173727;
+      --shadow: 0 16px 50px rgba(0,0,0,.26);
+    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; font-size: calc(16px * var(--font-scale)); }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.68;
+      text-rendering: optimizeLegibility;
+    }
+    a { color: var(--primary); text-underline-offset: 3px; }
+    a:hover { text-decoration-thickness: 2px; }
+    button, input { font: inherit; }
+    button { cursor: pointer; }
+    .skip-link {
+      position: fixed; left: 1rem; top: -5rem; z-index: 1000;
+      background: var(--surface); color: var(--text); padding: .8rem 1rem;
+      border: 2px solid var(--primary); border-radius: 12px;
+    }
+    .skip-link:focus { top: 1rem; }
+    .progress {
+      position: fixed; inset: 0 auto auto 0; z-index: 1000;
+      height: 4px; width: 0; background: linear-gradient(90deg, var(--primary), var(--accent));
+    }
+    .toolbar {
+      position: fixed; right: 1rem; top: 1rem; z-index: 60;
+      display: flex; gap: .45rem; padding: .4rem;
+      background: color-mix(in srgb, var(--surface) 90%, transparent);
+      border: 1px solid var(--line); border-radius: 999px;
+      box-shadow: var(--shadow); backdrop-filter: blur(12px);
+    }
+    .tool-btn {
+      border: 0; min-width: 2.4rem; height: 2.4rem; border-radius: 999px;
+      background: transparent; color: var(--text); display: grid; place-items: center;
+    }
+    .tool-btn:hover, .tool-btn:focus-visible { background: var(--surface-2); outline: none; }
+    .hero {
+      position: relative; overflow: hidden;
+      min-height: 650px; display: grid; align-items: center;
+      background:
+        radial-gradient(circle at 82% 20%, color-mix(in srgb, var(--primary) 24%, transparent), transparent 28rem),
+        radial-gradient(circle at 20% 70%, color-mix(in srgb, var(--accent) 18%, transparent), transparent 26rem),
+        linear-gradient(135deg, var(--surface), var(--bg));
+      border-bottom: 1px solid var(--line);
+    }
+    .hero::before {
+      content: ""; position: absolute; inset: 0; opacity: .33; pointer-events: none;
+      background-image:
+        linear-gradient(var(--line) 1px, transparent 1px),
+        linear-gradient(90deg, var(--line) 1px, transparent 1px);
+      background-size: 44px 44px;
+      mask-image: linear-gradient(to bottom, #000, transparent 85%);
+    }
+    .hero-inner {
+      width: min(var(--content-width), calc(100% - 2rem)); margin: auto;
+      padding: 7rem 0 4rem; position: relative; z-index: 1;
+      display: grid; grid-template-columns: 1.15fr .85fr; gap: 4rem; align-items: center;
+    }
+    .eyebrow {
+      display: inline-flex; align-items: center; gap: .55rem;
+      font-size: .78rem; font-weight: 800; letter-spacing: .12em; text-transform: uppercase;
+      color: var(--primary); background: color-mix(in srgb, var(--primary) 10%, transparent);
+      border: 1px solid color-mix(in srgb, var(--primary) 24%, transparent);
+      padding: .48rem .75rem; border-radius: 999px;
+    }
+    .eyebrow::before { content: ""; width: .55rem; height: .55rem; border-radius: 50%; background: var(--accent); }
+    h1, h2, h3, h4 { line-height: 1.18; letter-spacing: -.025em; }
+    h1 { font-size: clamp(2.8rem, 6vw, 5.7rem); margin: 1.1rem 0 1.3rem; max-width: 900px; }
+    h1 span { color: var(--primary); }
+    .lead { font-size: clamp(1.08rem, 1.7vw, 1.35rem); color: var(--muted); max-width: 720px; }
+    .hero-actions { display: flex; flex-wrap: wrap; gap: .8rem; margin-top: 2rem; }
+    .btn {
+      border: 1px solid var(--line); border-radius: 14px; padding: .82rem 1rem;
+      background: var(--surface); color: var(--text); text-decoration: none; font-weight: 750;
+      display: inline-flex; align-items: center; gap: .5rem; box-shadow: 0 5px 18px rgba(0,0,0,.06);
+    }
+    .btn.primary { background: var(--primary); border-color: var(--primary); color: white; }
+    html[data-theme="dark"] .btn.primary { color: #11152a; }
+    .btn:hover { transform: translateY(-1px); }
+    .hero-visual {
+      position: relative; aspect-ratio: 1; max-width: 470px; width: 100%; margin-inline: auto;
+      border-radius: 50%; display: grid; place-items: center;
+      background: radial-gradient(circle, color-mix(in srgb, var(--surface) 90%, transparent) 0 38%, transparent 39%),
+                  conic-gradient(from 180deg, var(--primary), var(--accent), var(--primary));
+      box-shadow: 0 0 0 18px color-mix(in srgb, var(--surface) 55%, transparent), var(--shadow);
+      animation: float 8s ease-in-out infinite;
+    }
+    .hero-visual::before, .hero-visual::after {
+      content: ""; position: absolute; border: 1px solid color-mix(in srgb, var(--primary) 42%, transparent);
+      border-radius: 50%;
+    }
+    .hero-visual::before { inset: -34px; }
+    .hero-visual::after { inset: 13%; border-style: dashed; animation: spin 24s linear infinite; }
+    .brain {
+      width: 58%; filter: drop-shadow(0 12px 25px rgba(0,0,0,.18));
+    }
+    .node { fill: var(--surface); stroke: var(--primary); stroke-width: 2; }
+    .edge { stroke: color-mix(in srgb, var(--primary) 65%, var(--accent)); stroke-width: 2; opacity: .8; }
+    @keyframes float { 50% { transform: translateY(-10px); } }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .quick-stats {
+      width: min(var(--content-width), calc(100% - 2rem)); margin: -2.6rem auto 2.4rem;
+      position: relative; z-index: 3; display: grid; grid-template-columns: repeat(4, 1fr); gap: .9rem;
+    }
+    .stat {
+      background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius);
+      padding: 1.25rem; box-shadow: var(--shadow);
+    }
+    .stat strong { display: block; font-size: 1.9rem; color: var(--primary); letter-spacing: -.04em; }
+    .stat span { color: var(--muted); font-size: .9rem; }
+    .layout {
+      width: min(var(--content-width), calc(100% - 2rem)); margin: 0 auto 5rem;
+      display: grid; grid-template-columns: 255px minmax(0, 1fr); gap: 2rem;
+    }
+    .sidebar { position: relative; }
+    .sidebar-inner {
+      position: sticky; top: 5rem; max-height: calc(100vh - 6rem); overflow: auto;
+      padding: 1rem; background: var(--surface); border: 1px solid var(--line);
+      border-radius: var(--radius); box-shadow: var(--shadow);
+    }
+    .search {
+      width: 100%; border: 1px solid var(--line); border-radius: 12px;
+      padding: .72rem .8rem; background: var(--bg); color: var(--text); margin-bottom: .8rem;
+    }
+    .search:focus { outline: 2px solid color-mix(in srgb, var(--primary) 50%, transparent); border-color: var(--primary); }
+    nav a {
+      display: block; padding: .55rem .65rem; border-radius: 10px;
+      text-decoration: none; color: var(--muted); font-size: .9rem; font-weight: 650;
+    }
+    nav a:hover, nav a.active { background: var(--surface-2); color: var(--primary); }
+    main { min-width: 0; }
+    .section {
+      scroll-margin-top: 1.5rem; background: var(--surface); border: 1px solid var(--line);
+      border-radius: var(--radius); box-shadow: var(--shadow); padding: clamp(1.35rem, 3vw, 2.6rem);
+      margin-bottom: 1.35rem;
+    }
+    .section-number {
+      font-size: .78rem; font-weight: 850; color: var(--accent); letter-spacing: .12em; text-transform: uppercase;
+    }
+    h2 { font-size: clamp(1.8rem, 3vw, 2.65rem); margin: .35rem 0 1rem; }
+    h3 { font-size: 1.35rem; margin-top: 2rem; }
+    h4 { font-size: 1.05rem; margin-bottom: .4rem; }
+    p { margin: .75rem 0 1rem; }
+    .muted { color: var(--muted); }
+    .note, .warning, .danger, .success {
+      border-radius: 16px; padding: 1rem 1.1rem; margin: 1.15rem 0;
+      border-left: 5px solid;
+    }
+    .note { background: var(--surface-2); border-color: var(--primary); }
+    .warning { background: var(--warning-soft); border-color: var(--warning); }
+    .danger { background: var(--danger-soft); border-color: var(--danger); }
+    .success { background: var(--success-soft); border-color: var(--success); }
+    .grid-2, .grid-3 { display: grid; gap: 1rem; }
+    .grid-2 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .grid-3 { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+    .card {
+      background: var(--bg); border: 1px solid var(--line); border-radius: 16px; padding: 1.1rem;
+    }
+    .card h3, .card h4 { margin-top: 0; }
+    .icon {
+      width: 2.5rem; height: 2.5rem; border-radius: 12px; display: grid; place-items: center;
+      background: color-mix(in srgb, var(--primary) 12%, transparent); color: var(--primary);
+      font-weight: 900; margin-bottom: .75rem;
+    }
+    ul, ol { padding-left: 1.2rem; }
+    li { margin: .42rem 0; }
+    .clean { list-style: none; padding: 0; }
+    .clean li { display: flex; gap: .7rem; align-items: flex-start; }
+    .clean li::before { content: "✓"; color: var(--accent); font-weight: 900; }
+    .timeline { position: relative; margin: 1.4rem 0; padding-left: 1.7rem; }
+    .timeline::before { content: ""; position: absolute; left: .45rem; top: .4rem; bottom: .4rem; width: 2px; background: var(--line); }
+    .timeline-item { position: relative; margin: 0 0 1.2rem; padding: .1rem 0 .2rem .75rem; }
+    .timeline-item::before {
+      content: ""; position: absolute; left: -1.58rem; top: .38rem; width: .74rem; height: .74rem;
+      border-radius: 50%; background: var(--primary); box-shadow: 0 0 0 5px color-mix(in srgb, var(--primary) 16%, transparent);
+    }
+    .timeline-item time { color: var(--primary); font-weight: 850; }
+    .criteria { counter-reset: criterion; display: grid; grid-template-columns: repeat(3, 1fr); gap: .8rem; }
+    .criterion {
+      counter-increment: criterion; background: var(--bg); border: 1px solid var(--line);
+      border-radius: 15px; padding: 1rem; min-height: 145px;
+    }
+    .criterion::before {
+      content: counter(criterion); display: grid; place-items: center; width: 2rem; height: 2rem;
+      border-radius: 50%; background: var(--primary); color: white; font-weight: 850; margin-bottom: .65rem;
+    }
+    html[data-theme="dark"] .criterion::before { color: #11152a; }
+    .chart {
+      margin: 1.3rem 0; padding: 1.1rem; border-radius: 16px; border: 1px solid var(--line); background: var(--bg);
+    }
+    .bar-row { display: grid; grid-template-columns: minmax(120px, 1.2fr) 3fr 58px; gap: .8rem; align-items: center; margin: .8rem 0; }
+    .bar-track { height: .85rem; border-radius: 999px; background: var(--surface-2); overflow: hidden; }
+    .bar-fill { height: 100%; border-radius: inherit; background: linear-gradient(90deg, var(--primary), var(--accent)); }
+    .bar-row strong { text-align: right; }
+    .table-wrap { overflow-x: auto; border: 1px solid var(--line); border-radius: 16px; margin: 1.2rem 0; }
+    table { border-collapse: collapse; width: 100%; min-width: 700px; }
+    th, td { padding: .85rem .95rem; border-bottom: 1px solid var(--line); text-align: left; vertical-align: top; }
+    th { background: var(--surface-2); font-size: .86rem; text-transform: uppercase; letter-spacing: .04em; }
+    tr:last-child td { border-bottom: 0; }
+    .pill {
+      display: inline-flex; align-items: center; padding: .25rem .55rem; border-radius: 999px;
+      font-size: .78rem; font-weight: 800; background: var(--surface-2); color: var(--muted);
+    }
+    .pill.good { background: var(--success-soft); color: var(--success); }
+    .pill.warn { background: var(--warning-soft); color: var(--warning); }
+    .pill.bad { background: var(--danger-soft); color: var(--danger); }
+    details {
+      border: 1px solid var(--line); border-radius: 14px; background: var(--bg); margin: .7rem 0; overflow: clip;
+    }
+    summary { padding: .9rem 1rem; font-weight: 800; cursor: pointer; }
+    details > div { padding: 0 1rem 1rem; color: var(--muted); }
+    .tabs { margin-top: 1.2rem; }
+    .tab-list { display: flex; flex-wrap: wrap; gap: .55rem; margin-bottom: .8rem; }
+    .tab-btn {
+      border: 1px solid var(--line); border-radius: 999px; background: var(--bg); color: var(--text);
+      padding: .55rem .8rem; font-weight: 750;
+    }
+    .tab-btn[aria-selected="true"] { background: var(--primary); color: white; border-color: var(--primary); }
+    html[data-theme="dark"] .tab-btn[aria-selected="true"] { color: #11152a; }
+    .tab-panel { display: none; background: var(--bg); border: 1px solid var(--line); border-radius: 16px; padding: 1.1rem; }
+    .tab-panel.active { display: block; }
+    .phase-line { display: grid; grid-template-columns: repeat(4, 1fr); gap: .6rem; margin: 1.2rem 0; }
+    .phase {
+      position: relative; min-height: 150px; padding: 1rem; border: 1px solid var(--line);
+      background: var(--bg); border-radius: 15px;
+    }
+    .phase strong { color: var(--primary); display: block; margin-bottom: .35rem; }
+    .protocol { counter-reset: protocol; }
+    .protocol-step {
+      counter-increment: protocol; display: grid; grid-template-columns: 3rem 1fr; gap: .8rem;
+      padding: 1rem 0; border-bottom: 1px solid var(--line);
+    }
+    .protocol-step:last-child { border: 0; }
+    .protocol-step::before {
+      content: counter(protocol); display: grid; place-items: center; width: 2.5rem; height: 2.5rem;
+      border-radius: 12px; background: var(--surface-2); color: var(--primary); font-weight: 900;
+    }
+    .responsibility {
+      border-top: 5px solid var(--primary); background: var(--bg); border-radius: 16px; padding: 1.15rem;
+    }
+    .responsibility.partner { border-top-color: var(--accent); }
+    .boundary-grid { display: grid; grid-template-columns: 1fr 1fr; gap: .9rem; }
+    .do, .dont { border-radius: 16px; padding: 1rem; }
+    .do { background: var(--success-soft); }
+    .dont { background: var(--danger-soft); }
+    .source-list { padding-left: 1.35rem; }
+    .source-list li { margin-bottom: .8rem; }
+    .source-list a { overflow-wrap: anywhere; }
+    .footer {
+      border-top: 1px solid var(--line); padding: 2.5rem 1rem; text-align: center; color: var(--muted);
+    }
+    mark { background: #ffe987; color: #1a1a1a; border-radius: 3px; padding: 0 .1em; }
+    .hidden-by-search { display: none !important; }
+    .mobile-nav-btn { display: none; }
+    @media (max-width: 980px) {
+      .hero-inner { grid-template-columns: 1fr; text-align: center; gap: 2rem; }
+      .lead { margin-inline: auto; }
+      .hero-actions { justify-content: center; }
+      .hero-visual { max-width: 330px; }
+      .quick-stats { grid-template-columns: repeat(2, 1fr); }
+      .layout { grid-template-columns: 1fr; }
+      .sidebar { display: none; }
+      .criteria { grid-template-columns: repeat(2, 1fr); }
+      .phase-line { grid-template-columns: repeat(2, 1fr); }
+    }
+    @media (max-width: 650px) {
+      .toolbar { right: .55rem; top: .55rem; }
+      .hero { min-height: auto; }
+      .hero-inner { padding-top: 6rem; }
+      h1 { font-size: 2.7rem; }
+      .quick-stats, .grid-2, .grid-3, .criteria, .phase-line, .boundary-grid { grid-template-columns: 1fr; }
+      .quick-stats { margin-top: -1.25rem; }
+      .section { border-radius: 16px; padding: 1.2rem; }
+      .bar-row { grid-template-columns: 1fr; gap: .3rem; }
+      .bar-row strong { text-align: left; }
+      .hero-visual { max-width: 260px; }
+    }
+    @media print {
+      .toolbar, .sidebar, .progress, .hero-actions { display: none !important; }
+      body { background: white; color: black; }
+      .hero { min-height: auto; border: 0; }
+      .hero-inner { display: block; padding: 1rem 0; }
+      .hero-visual { display: none; }
+      .quick-stats { margin: 0 auto 1rem; box-shadow: none; }
+      .layout { display: block; }
+      .section, .stat { box-shadow: none; break-inside: avoid; }
+      a { color: black; text-decoration: none; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      *, *::before, *::after { animation: none !important; scroll-behavior: auto !important; transition: none !important; }
+    }
+  </style>
+</head>
+<body>
+<a class="skip-link" href="#main">Przejdź do treści</a>
+<div class="progress" id="progress" aria-hidden="true"></div>
+
+<div class="toolbar" aria-label="Narzędzia strony">
+  <button class="tool-btn" id="fontDown" title="Zmniejsz tekst" aria-label="Zmniejsz tekst">A−</button>
+  <button class="tool-btn" id="fontUp" title="Powiększ tekst" aria-label="Powiększ tekst">A+</button>
+  <button class="tool-btn" id="themeToggle" title="Zmień motyw" aria-label="Zmień motyw">◐</button>
+  <button class="tool-btn" id="printBtn" title="Drukuj lub zapisz jako PDF" aria-label="Drukuj lub zapisz jako PDF">⎙</button>
+</div>
+
+<header class="hero">
+  <div class="hero-inner">
+    <div>
+      <span class="eyebrow">Raport naukowo-kliniczny</span>
+      <h1>Borderline <span>(BPD)</span></h1>
+      <p class="lead">Diagnoza, mechanizmy, leczenie, rokowanie oraz codzienne funkcjonowanie w bliskiej relacji. Wiedza oparta na wytycznych klinicznych i badaniach, przedstawiona bez stygmatyzacji.</p>
+      <div class="hero-actions">
+        <a class="btn primary" href="#podsumowanie">Rozpocznij lekturę</a>
+        <a class="btn" href="#zwiazek">Przejdź do relacji</a>
+        <a class="btn" href="#kryzys">Pomoc w kryzysie</a>
+      </div>
+    </div>
+    <div class="hero-visual" aria-hidden="true">
+      <svg class="brain" viewBox="0 0 300 300" role="img">
+        <path d="M150 42c-31-25-75-7-79 31-31 3-45 42-23 65-21 20-10 60 20 67 3 38 47 57 79 32 32 25 76 6 79-32 31-7 41-47 20-67 22-23 8-62-23-65-4-38-48-56-79-31z"
+              fill="none" stroke="currentColor" stroke-width="7" opacity=".92"/>
+        <path class="edge" d="M86 91L125 117M125 117L96 161M125 117L161 91M161 91L201 121M201 121L174 157M174 157L209 191M174 157L132 185M132 185L93 208M132 185L158 222M96 161L132 185"/>
+        <circle class="node" cx="86" cy="91" r="8"/><circle class="node" cx="125" cy="117" r="9"/>
+        <circle class="node" cx="96" cy="161" r="7"/><circle class="node" cx="161" cy="91" r="8"/>
+        <circle class="node" cx="201" cy="121" r="9"/><circle class="node" cx="174" cy="157" r="8"/>
+        <circle class="node" cx="209" cy="191" r="7"/><circle class="node" cx="132" cy="185" r="10"/>
+        <circle class="node" cx="93" cy="208" r="7"/><circle class="node" cx="158" cy="222" r="8"/>
+      </svg>
+    </div>
+  </div>
+</header>
+
+<section class="quick-stats" aria-label="Najważniejsze dane">
+  <div class="stat"><strong>1,4–2,7%</strong><span>szacowana częstość życiowa w populacji USA według APA</span></div>
+  <div class="stat"><strong>≥5 z 9</strong><span>kryteriów DSM-5-TR wymaganych do rozpoznania</span></div>
+  <div class="stat"><strong>6–18 mies.</strong><span>częsty zakres czasu ustrukturyzowanych programów w badaniach</span></div>
+  <div class="stat"><strong>≈85%</strong><span>po 10 latach nie spełniało już progu diagnozy w próbach klinicznych</span></div>
+</section>
+
+<div class="layout">
+  <aside class="sidebar">
+    <div class="sidebar-inner">
+      <input class="search" id="search" type="search" placeholder="Szukaj w raporcie…" aria-label="Szukaj w raporcie">
+      <nav id="toc" aria-label="Spis treści">
+        <a href="#podsumowanie">Podsumowanie</a>
+        <a href="#definicja">Czym jest BPD</a>
+        <a href="#historia">Historia diagnozy</a>
+        <a href="#epidemiologia">Epidemiologia i przebieg</a>
+        <a href="#cechy">Cechy i mechanizmy</a>
+        <a href="#przyczyny">Przyczyny</a>
+        <a href="#diagnoza">Diagnoza</a>
+        <a href="#roznicowanie">Różnicowanie</a>
+        <a href="#leczenie">Proces leczenia</a>
+        <a href="#terapie">Metody psychoterapii</a>
+        <a href="#leki">Farmakoterapia</a>
+        <a href="#trauma">Trauma</a>
+        <a href="#zwiazek">Życie w związku</a>
+        <a href="#terapeuta">Partner ≠ terapeuta</a>
+        <a href="#kryzys">Plan kryzysowy</a>
+        <a href="#mity">Mity</a>
+        <a href="#zrodla">Źródła</a>
+      </nav>
+    </div>
+  </aside>
+
+  <main id="main">
+    <section class="section searchable" id="podsumowanie">
+      <div class="section-number">01 · Podsumowanie</div>
+      <h2>Najważniejsze wnioski</h2>
+      <p>Zaburzenie osobowości borderline (BPD) jest utrwalonym wzorcem trudności w regulacji emocji, obrazie siebie, impulsywności i relacjach. Obraz kliniczny jest bardzo zróżnicowany: dwie osoby spełniające kryteria mogą mieć tylko częściowo wspólne objawy.</p>
+      <div class="grid-3">
+        <article class="card"><div class="icon">1</div><h3>Psychoterapia jest podstawą</h3><p>APA zaleca ustrukturyzowaną psychoterapię ukierunkowaną na rdzeniowe cechy BPD. Nie wykazano jednoznacznej przewagi jednej specjalistycznej metody nad wszystkimi pozostałymi.</p></article>
+        <article class="card"><div class="icon">2</div><h3>Rokowanie nie jest beznadziejne</h3><p>Objawy często słabną z wiekiem i leczeniem. Remisja objawowa jest częsta, choć poprawa pracy, relacji i samodzielności może postępować wolniej.</p></article>
+        <article class="card"><div class="icon">3</div><h3>Rozpoznanie nie usprawiedliwia krzywdzenia</h3><p>Trauma i dysregulacja mogą wyjaśniać zachowanie, lecz nie znoszą odpowiedzialności za przemoc, kontrolę, groźby, zdradę ani naruszanie granic.</p></article>
+      </div>
+      <div class="note"><strong>Ważne:</strong> raport służy edukacji. Nie zastępuje diagnozy psychiatrycznej ani psychologicznej i nie powinien być używany do „diagnozowania” partnera na podstawie konfliktów w związku.</div>
+    </section>
+
+    <section class="section searchable" id="definicja">
+      <div class="section-number">02 · Definicja</div>
+      <h2>Czym jest zaburzenie osobowości borderline?</h2>
+      <p>BPD nie oznacza „złego charakteru” ani ciągłego przebywania na granicy psychozy. Współcześnie opisuje się je jako wzorzec niestabilności relacji, obrazu siebie i emocji oraz znacznej impulsywności. Wzorzec jest względnie trwały, pojawia się w wielu sytuacjach i powoduje istotne cierpienie lub ograniczenie funkcjonowania.</p>
+      <div class="grid-2">
+        <div class="card"><h3>Rdzeń problemu</h3><ul class="clean"><li>duża wrażliwość na sygnały odrzucenia</li><li>szybkie i intensywne reakcje emocjonalne</li><li>trudniejszy powrót do równowagi</li><li>niestabilny obraz siebie i relacji</li><li>impulsywne strategie redukcji napięcia</li></ul></div>
+        <div class="card"><h3>Heterogeniczność</h3><p>Przy wymaganiu 5 z 9 kryteriów istnieje 256 możliwych kombinacji spełniających próg diagnostyczny. Dlatego etykieta diagnostyczna nie przewiduje automatycznie zachowania konkretnej osoby.</p><span class="pill">diagnoza opisuje wzorzec, nie całą osobę</span></div>
+      </div>
+    </section>
+
+    <section class="section searchable" id="historia">
+      <div class="section-number">03 · Historia</div>
+      <h2>Krótka historia diagnozowania</h2>
+      <div class="timeline">
+        <div class="timeline-item"><time>1938</time><h3>Adolph Stern</h3><p>Użył terminu „borderline” wobec pacjentów, których trudności nie pasowały do ówczesnego podziału na nerwicę i psychozę.</p></div>
+        <div class="timeline-item"><time>1967–1975</time><h3>Organizacja osobowości i opis operacyjny</h3><p>Otto Kernberg rozwijał koncepcję „organizacji osobowości borderline”, a John Gunderson i Margaret Singer porządkowali rozpoznawalne cechy kliniczne.</p></div>
+        <div class="timeline-item"><time>1980</time><h3>DSM-III</h3><p>BPD po raz pierwszy stało się formalną kategorią diagnostyczną w DSM. Wprowadzono operacyjne kryteria zamiast wyłącznie psychoanalitycznego opisu.</p></div>
+        <div class="timeline-item"><time>1992</time><h3>ICD-10</h3><p>WHO opisała osobowość chwiejną emocjonalnie, w tym typ graniczny (F60.31).</p></div>
+        <div class="timeline-item"><time>2013–2022</time><h3>DSM-5 i DSM-5-TR</h3><p>Zachowano klasyczny próg 5 z 9 kryteriów; równolegle rozwijano wymiarowy model funkcjonowania osobowości.</p></div>
+        <div class="timeline-item"><time>2022+</time><h3>ICD-11</h3><p>Najpierw ocenia się nasilenie zaburzenia osobowości, następnie domeny cech. Można dodać kwalifikator <strong>6D11.5 „wzorzec borderline”</strong>. Nie jest więc prawdą, że ICD-11 całkowicie usunęła możliwość opisu wzorca borderline.</p></div>
+      </div>
+    </section>
+
+    <section class="section searchable" id="epidemiologia">
+      <div class="section-number">04 · Epidemiologia i przebieg</div>
+      <h2>Jak często występuje i jak przebiega?</h2>
+      <p>Szacunki zależą od kraju, narzędzia diagnostycznego i rodzaju badanej próby. APA podaje życiową częstość około 1,4–2,7% w populacji USA, 10–18% wśród pacjentów ambulatoryjnych psychiatrii i 9–25% wśród hospitalizowanych. W badaniach populacyjnych różnica między kobietami i mężczyznami jest niewielka; w lecznictwie częściej rozpoznaje się BPD u kobiet.</p>
+      <div class="chart" role="img" aria-label="Orientacyjna częstość BPD w różnych populacjach">
+        <h3>Orientacyjna częstość w różnych próbach</h3>
+        <div class="bar-row"><span>Populacja ogólna</span><div class="bar-track"><div class="bar-fill" style="width:11%"></div></div><strong>1,4–2,7%</strong></div>
+        <div class="bar-row"><span>Ambulatoryjna psychiatria</span><div class="bar-track"><div class="bar-fill" style="width:58%"></div></div><strong>10–18%</strong></div>
+        <div class="bar-row"><span>Hospitalizowani psychiatrycznie</span><div class="bar-track"><div class="bar-fill" style="width:80%"></div></div><strong>9–25%</strong></div>
+        <p class="muted"><small>Szerokość słupków służy wizualnemu porównaniu, nie stanowi wspólnej skali ryzyka indywidualnego.</small></p>
+      </div>
+      <div class="grid-2">
+        <div class="success"><strong>Remisja jest częsta.</strong> W długoterminowych próbach klinicznych około 85% osób po 10 latach nie spełniało już progu rozpoznania. W obserwacji 24-letniej utrata remisji była możliwa, ale jej ryzyko malało wraz z długością stabilnego okresu.</div>
+        <div class="warning"><strong>Remisja objawowa ≠ pełne wyzdrowienie funkcjonalne.</strong> Relacje, praca, edukacja i samodzielność mogą poprawiać się wolniej niż liczba kryteriów diagnostycznych.</div>
+      </div>
+      <p>Ryzyko samouszkodzeń i prób samobójczych jest wysokie. Starsze kliniczne kohorty wskazywały śmiertelność samobójczą sięgającą około 8–10%, jednak współczesne oszacowania różnią się między populacjami. Każda konkretna groźba lub plan wymaga indywidualnej oceny ryzyka, a nie traktowania jako „typowego zachowania borderline”.</p>
+    </section>
+
+    <section class="section searchable" id="cechy">
+      <div class="section-number">05 · Obraz kliniczny</div>
+      <h2>Dziewięć kryteriów DSM-5-TR</h2>
+      <p>Do rozpoznania wymagane jest co najmniej 5 kryteriów, ale także ich trwałość, obecność w różnych kontekstach, początek do wczesnej dorosłości oraz istotne cierpienie lub zaburzenie funkcjonowania.</p>
+      <div class="criteria">
+        <article class="criterion"><strong>Lęk przed porzuceniem</strong><p>Gorączkowe próby uniknięcia rzeczywistego lub wyobrażonego opuszczenia.</p></article>
+        <article class="criterion"><strong>Niestabilne relacje</strong><p>Intensywne związki z przejściami między idealizacją i dewaluacją.</p></article>
+        <article class="criterion"><strong>Zaburzenie tożsamości</strong><p>Niestabilny obraz siebie, wartości, celów lub kierunku życia.</p></article>
+        <article class="criterion"><strong>Impulsywność</strong><p>Co najmniej dwa obszary potencjalnie szkodliwe, np. wydatki, seks, substancje, jazda, objadanie.</p></article>
+        <article class="criterion"><strong>Autoagresja i suicydalność</strong><p>Nawracające zachowania, gesty, groźby samobójcze lub samookaleczenia.</p></article>
+        <article class="criterion"><strong>Chwiejność afektywna</strong><p>Silna reaktywność nastroju, zwykle trwająca godziny, rzadziej kilka dni.</p></article>
+        <article class="criterion"><strong>Poczucie pustki</strong><p>Przewlekłe doświadczenie wewnętrznej pustki lub odłączenia.</p></article>
+        <article class="criterion"><strong>Gniew</strong><p>Intensywny, nieadekwatny gniew albo trudności z jego kontrolą.</p></article>
+        <article class="criterion"><strong>Paranoja lub dysocjacja</strong><p>Przemijające, związane ze stresem objawy paranoidalne lub nasilona dysocjacja.</p></article>
+      </div>
+      <div class="danger"><strong>Lista kryteriów nie jest testem internetowym.</strong> Podobne objawy mogą wynikać m.in. z PTSD/C-PTSD, choroby afektywnej dwubiegunowej, ADHD, ASD, depresji, używania substancji, zaburzeń odżywiania lub przemocy w aktualnej relacji.</div>
+    </section>
+
+    <section class="section searchable" id="przyczyny">
+      <div class="section-number">06 · Etiologia</div>
+      <h2>Skąd bierze się BPD?</h2>
+      <p>Nie istnieje jedna przyczyna. Najlepiej wspierany jest model rozwojowy, w którym podatność temperamentalna i biologiczna współdziała z doświadczeniami relacyjnymi oraz środowiskiem.</p>
+      <div class="grid-3">
+        <div class="card"><div class="icon">G</div><h3>Genetyka i temperament</h3><p>Badania bliźniąt wskazują, że około 40–50% zróżnicowania cech borderline w populacji może wiązać się z różnicami genetycznymi. Nie oznacza to, że „geny przesądzają” o diagnozie konkretnej osoby.</p></div>
+        <div class="card"><div class="icon">E</div><h3>Środowisko i relacje</h3><p>Przemoc, zaniedbanie, nieprzewidywalność opieki, chroniczne unieważnianie emocji i rozpad więzi są czynnikami ryzyka. Nie każda osoba z BPD doświadczyła traumy i większość osób po traumie nie rozwija BPD.</p></div>
+        <div class="card"><div class="icon">N</div><h3>Neurobiologia</h3><p>Badania grupowe opisują odmienną reaktywność sieci przetwarzania zagrożenia i regulacji emocji. Są to korelacje, a nie indywidualny „skan diagnostyczny”.</p></div>
+      </div>
+      <h3>Model biospołeczny w uproszczeniu</h3>
+      <div class="protocol">
+        <div class="protocol-step"><div><strong>Wysoka wrażliwość</strong><p>Emocje mogą pojawiać się szybciej i z większą intensywnością.</p></div></div>
+        <div class="protocol-step"><div><strong>Środowisko unieważniające lub niebezpieczne</strong><p>Osoba nie uczy się stabilnego rozpoznawania, nazywania i regulowania emocji.</p></div></div>
+        <div class="protocol-step"><div><strong>Strategie natychmiastowej ulgi</strong><p>Impulsywność, samouszkodzenie, wycofanie lub eskalacja mogą chwilowo zmniejszać napięcie.</p></div></div>
+        <div class="protocol-step"><div><strong>Utrwalające konsekwencje</strong><p>Kryzysy niszczą relacje, wzmacniają wstyd i lęk przed odrzuceniem, tworząc pętlę sprzężenia zwrotnego.</p></div></div>
+      </div>
+      <div class="note"><strong>Molestowanie seksualne w dzieciństwie:</strong> zwiększa ryzyko wielu problemów, w tym PTSD, depresji, dysocjacji, uzależnień i BPD. Nie należy automatycznie redukować wszystkich późniejszych trudności do jednej diagnozy ani wymuszać szczegółowego opowiadania o traumie.</div>
+    </section>
+
+    <section class="section searchable" id="diagnoza">
+      <div class="section-number">07 · Diagnostyka</div>
+      <h2>Jak wygląda rzetelna diagnoza?</h2>
+      <div class="phase-line">
+        <div class="phase"><strong>1. Konsultacja</strong><span>Powód zgłoszenia, cele, objawy, relacje, praca, zdrowie somatyczne i historia leczenia.</span></div>
+        <div class="phase"><strong>2. Ocena ryzyka</strong><span>Myśli samobójcze, samouszkodzenia, przemoc, substancje, bezpieczeństwo dzieci i innych osób.</span></div>
+        <div class="phase"><strong>3. Wzorzec w czasie</strong><span>Czy trudności są utrwalone, obecne w wielu kontekstach i nie ograniczają się do kryzysu.</span></div>
+        <div class="phase"><strong>4. Różnicowanie</strong><span>PTSD/C-PTSD, CHAD, ADHD, ASD, depresja, psychosis, substancje, choroby somatyczne.</span></div>
+      </div>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>Narzędzie</th><th>Rola</th><th>Orientacyjny czas</th><th>Ograniczenia</th></tr></thead>
+          <tbody>
+            <tr><td><strong>SCID-5-PD</strong></td><td>Półustrukturyzowany wywiad do zaburzeń osobowości DSM-5.</td><td>zwykle 60–120 min</td><td>Wymaga przeszkolonego klinicysty; nie zastępuje pełnej formulacji przypadku.</td></tr>
+            <tr><td><strong>IPDE</strong></td><td>Międzynarodowy wywiad dla zaburzeń osobowości.</td><td>około 60–120 min</td><td>Ocena zależy od jakości wywiadu i informacji o przebiegu życia.</td></tr>
+            <tr><td><strong>MSI-BPD</strong></td><td>10-punktowy przesiew, nie diagnoza.</td><td>5–10 min</td><td>Próg 7/10 miał w pierwotnym badaniu czułość ok. 81% i swoistość ok. 85%; wyniki zależą od populacji.</td></tr>
+            <tr><td><strong>BSL-23 / ZAN-BPD / BPDSI</strong></td><td>Pomiar nasilenia i monitorowanie zmian.</td><td>kilka–kilkadziesiąt min</td><td>Służą do śledzenia efektów, nie samodzielnego rozpoznania.</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <h3>ICD-11: diagnoza wymiarowa</h3>
+      <p>W ICD-11 klinicysta najpierw określa, czy występuje zaburzenie osobowości i jakie jest jego nasilenie: łagodne, umiarkowane lub ciężkie. Następnie może opisać dominujące domeny cech oraz dodać kwalifikator „wzorzec borderline”.</p>
+    </section>
+
+    <section class="section searchable" id="roznicowanie">
+      <div class="section-number">08 · Różnicowanie</div>
+      <h2>Z czym najczęściej myli się BPD?</h2>
+      <details><summary>BPD a choroba afektywna dwubiegunowa</summary><div>W BPD zmiany emocji często są krótkie, silnie reaktywne na wydarzenia interpersonalne i trwają godziny. W CHAD epizody manii/hipomanii mają wymagany czas trwania, obejmują charakterystyczne zmiany energii, snu, aktywności i funkcjonowania. Oba zaburzenia mogą współwystępować.</div></details>
+      <details><summary>BPD a PTSD / C-PTSD</summary><div>Wspólne mogą być dysocjacja, trudności emocjonalne, wstyd i problemy relacyjne. PTSD wymaga związku z traumą i charakterystycznych klastrów objawów. ICD-11 C-PTSD obejmuje dodatkowo trwałe zaburzenia organizacji siebie. Różnicowanie wymaga dokładnej historii urazu i przebiegu objawów.</div></details>
+      <details><summary>BPD a ADHD</summary><div>Wspólna może być impulsywność i dysregulacja emocji. ADHD jest zaburzeniem neurorozwojowym z objawami nieuwagi i/lub nadruchliwości od dzieciństwa. W BPD centralniejsze są niestabilność tożsamości i relacji, lęk przed odrzuceniem oraz autoagresja.</div></details>
+      <details><summary>BPD a ASD</summary><div>Przeciążenie, trudności społeczne, maskowanie i samouszkodzenia mogą prowadzić do pomyłek, zwłaszcza u kobiet. ASD wymaga cech neurorozwojowych obecnych od wczesnego okresu życia, w tym różnic komunikacyjnych i wzorców ograniczonych lub powtarzalnych.</div></details>
+      <details><summary>BPD a reakcja na przemoc w aktualnym związku</summary><div>Niestabilność, lęk, czujność i emocjonalne kryzysy mogą być reakcją na trwającą przemoc lub kontrolę. Diagnoza nie może służyć do dyskredytowania osoby zgłaszającej krzywdę.</div></details>
+    </section>
+
+    <section class="section searchable" id="leczenie">
+      <div class="section-number">09 · Leczenie krok po kroku</div>
+      <h2>Jak przebiega proces psychoterapii?</h2>
+      <p>Proces nie jest identyczny u wszystkich. Poniższy model łączy wspólne elementy DBT, MBT, terapii schematów, TFP i GPM oraz rekomendacje APA/NICE.</p>
+      <div class="protocol">
+        <div class="protocol-step"><div><strong>Pełna diagnoza i formulacja</strong><p>Rozpoznanie wzorca, współwystępujących zaburzeń, traum, zasobów, celów pacjenta i aktualnego ryzyka. Powstaje wyjaśnienie: co uruchamia kryzys, jak przebiega i co go podtrzymuje.</p></div></div>
+        <div class="protocol-step"><div><strong>Kontrakt i struktura leczenia</strong><p>Ustala się częstotliwość, kontakt poza sesjami, postępowanie przy nieobecnościach, zasady kryzysowe, role specjalistów i sposób mierzenia efektów.</p></div></div>
+        <div class="protocol-step"><div><strong>Bezpieczeństwo i hierarchia celów</strong><p>Najpierw zachowania zagrażające życiu, potem zachowania uniemożliwiające terapię, następnie zachowania niszczące jakość życia.</p></div></div>
+        <div class="protocol-step"><div><strong>Psychoedukacja</strong><p>Pacjent poznaje mechanizmy dysregulacji, rolę lęku przed odrzuceniem, impulsywności, dysocjacji i uczenia się zachowań.</p></div></div>
+        <div class="protocol-step"><div><strong>Trening regulacji</strong><p>Rozpoznawanie sygnałów ciała, tolerancja napięcia, uważność, hamowanie działania, komunikowanie potrzeb, rozwiązywanie konfliktów i naprawa relacji.</p></div></div>
+        <div class="protocol-step"><div><strong>Analiza epizodów</strong><p>Krok po kroku odtwarza się zdarzenie: podatności, wyzwalacz, interpretacje, emocje, impulsy, działania i konsekwencje. Następnie projektuje się alternatywny łańcuch zachowania.</p></div></div>
+        <div class="protocol-step"><div><strong>Praca nad tożsamością i relacjami</strong><p>Integracja sprzecznych obrazów siebie i innych, rozwój mentalizacji, redukcja myślenia czarno-białego, budowanie stabilnych wartości i celów.</p></div></div>
+        <div class="protocol-step"><div><strong>Praca z traumą - dopiero przy wystarczającej stabilności</strong><p>Jeżeli współwystępuje PTSD, można włączyć metody ukierunkowane na traumę. Ekspozycja nie powinna rozpoczynać się automatycznie ani pod presją partnera.</p></div></div>
+        <div class="protocol-step"><div><strong>Generalizacja i samodzielność</strong><p>Umiejętności są stosowane w pracy, rodzinie, finansach, seksualności i codziennych konfliktach. Odpowiedzialność stopniowo przechodzi na pacjenta.</p></div></div>
+        <div class="protocol-step"><div><strong>Zakończenie i zapobieganie nawrotom</strong><p>Zakończenie planuje się z wyprzedzeniem. Powstaje pisemny plan sygnałów ostrzegawczych, działania i ponownego wejścia do opieki.</p></div></div>
+      </div>
+      <div class="note"><strong>Czas:</strong> badania ustrukturyzowanych terapii obejmowały zwykle 6–18 miesięcy, ale zakres wynosił 1–36 miesięcy. DBT często trwa około roku, MBT około 18 miesięcy, a terapia schematów lub TFP może trwać 1–3 lata. Czas zależy od nasilenia, współchorobowości, ryzyka, regularności i celów funkcjonalnych.</div>
+    </section>
+
+    <section class="section searchable" id="terapie">
+      <div class="section-number">10 · Psychoterapie</div>
+      <h2>Najważniejsze podejścia</h2>
+      <p>Przegląd Cochrane obejmujący 75 badań randomizowanych i 4507 uczestników wykazał, że psychoterapia w porównaniu ze standardową opieką zmniejszała nasilenie BPD (SMD −0,52; umiarkowana pewność dowodów). Efekty dla samouszkodzeń, wyników samobójczych i funkcjonowania były mniejsze i o niższej pewności.</p>
+      <div class="tabs">
+        <div class="tab-list" role="tablist" aria-label="Metody psychoterapii">
+          <button class="tab-btn" role="tab" aria-selected="true" aria-controls="tab-dbt">DBT</button>
+          <button class="tab-btn" role="tab" aria-selected="false" aria-controls="tab-mbt">MBT</button>
+          <button class="tab-btn" role="tab" aria-selected="false" aria-controls="tab-schema">Terapia schematów</button>
+          <button class="tab-btn" role="tab" aria-selected="false" aria-controls="tab-tfp">TFP</button>
+          <button class="tab-btn" role="tab" aria-selected="false" aria-controls="tab-gpm">GPM</button>
+        </div>
+        <div id="tab-dbt" class="tab-panel active" role="tabpanel"><h3>Dialectical Behavior Therapy</h3><p><strong>Cel:</strong> ograniczenie zachowań zagrażających życiu i rozwój umiejętności. Zwykle obejmuje terapię indywidualną, grupowy trening uważności, tolerancji dystresu, regulacji emocji i skuteczności interpersonalnej, coaching oraz zespół konsultacyjny terapeutów.</p><p><strong>Typowy format:</strong> około 12 miesięcy; sesja indywidualna i grupa co tydzień. Najwięcej danych dotyczy samouszkodzeń i suicydalności.</p></div>
+        <div id="tab-mbt" class="tab-panel" role="tabpanel"><h3>Mentalization-Based Treatment</h3><p><strong>Cel:</strong> odzyskiwanie zdolności do rozumienia własnych i cudzych stanów psychicznych, szczególnie podczas pobudzenia i konfliktu.</p><p><strong>Typowy format:</strong> około 18 miesięcy, często połączenie terapii indywidualnej i grupowej. Terapeuta pomaga zatrzymać pewność typu „wiem, co on myśli” i sprawdzać alternatywne wyjaśnienia.</p></div>
+        <div id="tab-schema" class="tab-panel" role="tabpanel"><h3>Terapia schematów</h3><p><strong>Cel:</strong> modyfikacja wczesnych nieadaptacyjnych schematów i „trybów”, np. bezbronnego dziecka, karzącego rodzica, odłączonego obrońcy i zdrowego dorosłego.</p><p><strong>Typowy format:</strong> 1–3 lata, indywidualnie lub grupowo. Wykorzystuje techniki poznawcze, relacyjne, doświadczeniowe i behawioralne.</p></div>
+        <div id="tab-tfp" class="tab-panel" role="tabpanel"><h3>Transference-Focused Psychotherapy</h3><p><strong>Cel:</strong> integracja rozszczepionych, skrajnych reprezentacji siebie i innych poprzez analizę tego, co dzieje się w relacji terapeutycznej.</p><p><strong>Typowy format:</strong> często dwie sesje tygodniowo przez 1–2 lata. Wymaga jasno ustalonego kontraktu i specjalistycznego szkolenia terapeuty.</p></div>
+        <div id="tab-gpm" class="tab-panel" role="tabpanel"><h3>Good Psychiatric Management</h3><p><strong>Cel:</strong> praktyczne, dostępne leczenie oparte na psychoedukacji, odpowiedzialności pacjenta, pracy i relacjach, monitorowaniu ryzyka oraz leczeniu współchorobowości.</p><p><strong>Znaczenie:</strong> może być skutecznym pierwszym poziomem opieki i nie wymaga pełnego, kosztownego programu specjalistycznego.</p></div>
+      </div>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>Metoda</th><th>Główny mechanizm</th><th>Typowy czas</th><th>Szczególnie przydatna, gdy…</th></tr></thead>
+          <tbody>
+            <tr><td>DBT</td><td>umiejętności + analiza zachowania</td><td>około 12 mies.</td><td>dominują samouszkodzenia, impulsywność i częste kryzysy</td></tr>
+            <tr><td>MBT</td><td>mentalizacja w relacjach</td><td>około 18 mies.</td><td>w stresie pojawiają się błędne odczytania intencji i załamanie refleksji</td></tr>
+            <tr><td>Schematy</td><td>schematy i tryby</td><td>1–3 lata</td><td>utrwalone wzorce z dzieciństwa silnie kierują życiem</td></tr>
+            <tr><td>TFP</td><td>integracja reprezentacji siebie/innych</td><td>1–2 lata</td><td>silne rozszczepienie i chaos tożsamości są centralne</td></tr>
+            <tr><td>GPM</td><td>psychoedukacja, funkcjonowanie i relacje</td><td>elastyczny</td><td>potrzebna jest dostępna, dobrze zorganizowana opieka ogólnopsychiatryczna</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="section searchable" id="leki">
+      <div class="section-number">11 · Farmakoterapia</div>
+      <h2>Jaka jest rola leków?</h2>
+      <div class="danger"><strong>Nie ma leku, który leczy rdzeń BPD.</strong> NICE odradza stosowanie farmakoterapii specyficznie na BPD lub jego pojedyncze zachowania. APA dopuszcza leki jako dodatek: czasowo, na jasno określony i mierzalny objaw oraz po przeglądzie co najmniej co 6 miesięcy.</div>
+      <div class="grid-2">
+        <div class="card"><h3>Kiedy leki mogą mieć sens?</h3><ul class="clean"><li>rozpoznana depresja, ADHD, CHAD, PTSD lub inne współwystępujące zaburzenie</li><li>krótkotrwałe leczenie konkretnego objawu po analizie korzyści i ryzyka</li><li>objawy psychotyczne lub silne pobudzenie wymagające odrębnej oceny</li></ul></div>
+        <div class="card"><h3>Czego unikać?</h3><ul><li>polipragmazji, czyli wielu leków bez jasnego celu</li><li>benzodiazepin przy dużym ryzyku uzależnienia, rozhamowania lub przedawkowania</li><li>długoterminowych neuroleptyków wyłącznie „na borderline”</li><li>traktowania leków jako zamiennika psychoterapii</li></ul></div>
+      </div>
+      <h3>Korekta dotycząca lamotryginy</h3>
+      <p>Duże randomizowane badanie LABILE nie wykazało przewagi lamotryginy nad placebo po 52 tygodniach w leczeniu BPD. Lamotrygina może być właściwa przy innym rozpoznaniu, np. chorobie afektywnej dwubiegunowej, ale nie powinna być przedstawiana jako potwierdzony „stabilizator borderline”.</p>
+    </section>
+
+    <section class="section searchable" id="trauma">
+      <div class="section-number">12 · Trauma</div>
+      <h2>BPD po molestowaniu lub innej traumie</h2>
+      <p>Metaanalizy wskazują na silny związek między przeciwnościami dziecięcymi a BPD, ale związek nie jest jednoznaczną przyczynowością. Po wykorzystaniu seksualnym należy równolegle rozważyć PTSD, C-PTSD, depresję, dysocjację, zaburzenia odżywiania, używanie substancji i problemy somatyczne.</p>
+      <div class="grid-2">
+        <div class="responsibility"><h3>Najpierw stabilizacja</h3><p>Sen, bezpieczeństwo, ograniczenie samouszkodzeń, umiejętności regulacji, zmniejszenie chaosu i zbudowanie zaufania do terapeuty.</p></div>
+        <div class="responsibility partner"><h3>Potem praca z pamięcią traumy</h3><p>Metody ukierunkowane na traumę wprowadza się przy wystarczającej zdolności tolerowania emocji i zgodnie z preferencjami pacjentki/pacjenta.</p></div>
+      </div>
+      <div class="warning"><strong>Nie należy:</strong> wymuszać zwierzeń, prowadzić amatorskiej ekspozycji, przesłuchiwać o szczegóły, kwestionować pamięci ani uzależniać wsparcia od natychmiastowego rozpoczęcia terapii.</div>
+    </section>
+
+    <section class="section searchable" id="zwiazek">
+      <div class="section-number">13 · Relacja partnerska</div>
+      <h2>Codzienne życie w związku z osobą z BPD</h2>
+      <p>Diagnoza nie przesądza, że związek będzie toksyczny lub nietrwały. Ryzyko trudności rośnie wtedy, gdy objawy są nasilone, brak leczenia, partnerzy nie mają granic, występują substancje lub przemoc, a kryzysy zastępują zwykłą komunikację.</p>
+      <div class="grid-3">
+        <div class="card"><h3>Komunikacja</h3><p>Neutralna wiadomość może zostać odebrana jako odrzucenie. Wyjaśnianie intencji, konkret i przewidywalność zmniejszają pole do katastroficznych interpretacji.</p></div>
+        <div class="card"><h3>Bliskość</h3><p>Może pojawić się oscylacja między silną potrzebą bliskości a lękiem, wstydem lub wycofaniem. Zgoda seksualna musi być dobrowolna i możliwa do cofnięcia w każdej chwili.</p></div>
+        <div class="card"><h3>Konflikt</h3><p>Wysokie pobudzenie ogranicza mentalizację i zdolność przyjmowania perspektywy. Kontynuowanie rozmowy „za wszelką cenę” zwykle pogarsza sytuację.</p></div>
+        <div class="card"><h3>Finanse</h3><p>Impulsywne wydatki mogą wymagać limitów, osobnych kont na część środków, zasady odroczenia zakupu i wspólnego budżetu. Rozwiązania muszą być uzgodnione, nie narzucone.</p></div>
+        <div class="card"><h3>Obowiązki</h3><p>Podział powinien być jawny i mierzalny. Kryzys może czasowo zmniejszyć zdolność działania, ale nie może prowadzić do trwałego przejęcia całego życia przez partnera.</p></div>
+        <div class="card"><h3>Rodzicielstwo</h3><p>Priorytetem jest stabilność i bezpieczeństwo dziecka. Dziecko nie może pełnić funkcji regulatora emocji rodzica, mediatora ani powiernika konfliktów dorosłych.</p></div>
+      </div>
+
+      <h3>Czego związek wymaga od obu stron?</h3>
+      <div class="grid-2">
+        <div class="responsibility">
+          <h3>Odpowiedzialność osoby z BPD</h3>
+          <ul class="clean">
+            <li>podjęcie i utrzymywanie leczenia, gdy objawy szkodzą jej lub innym</li>
+            <li>stosowanie planu kryzysowego i wyuczonych umiejętności</li>
+            <li>branie odpowiedzialności za zachowanie niezależnie od siły emocji</li>
+            <li>szczerość w sprawach finansów, substancji, zdrady i bezpieczeństwa</li>
+            <li>naprawianie szkód po konflikcie zamiast oczekiwania natychmiastowego „resetu”</li>
+            <li>respektowanie granic, czasu osobnego i prawa partnera do własnego życia</li>
+          </ul>
+        </div>
+        <div class="responsibility partner">
+          <h3>Odpowiedzialność drugiego partnera</h3>
+          <ul class="clean">
+            <li>walidowanie emocji bez potwierdzania nieprawdziwych oskarżeń</li>
+            <li>spokojna, konkretna i konsekwentna komunikacja</li>
+            <li>jasne granice wraz z przewidywalnymi konsekwencjami</li>
+            <li>nieprzejmowanie odpowiedzialności za samoregulację drugiej osoby</li>
+            <li>utrzymywanie relacji społecznych, pracy, odpoczynku i własnej pomocy</li>
+            <li>reagowanie na realne zagrożenie zgodnie z planem, a nie poprzez negocjowanie pod presją</li>
+          </ul>
+        </div>
+      </div>
+
+      <h3>Walidacja bez kapitulacji</h3>
+      <div class="boundary-grid">
+        <div class="do"><strong>Pomocne:</strong><p>„Widzę, że poczułaś się opuszczona, gdy nie odpisałem. Nie miałem zamiaru cię odrzucić. Mogę porozmawiać przez 15 minut, ale nie zgodzę się na wyzwiska.”</p></div>
+        <div class="dont"><strong>Niepomocne:</strong><p>„Masz rację, jestem okropny i już nigdy nie wyjdę sam” albo przeciwnie: „Wymyślasz, jesteś nienormalna”. Pierwsze wzmacnia przymus, drugie unieważnia emocje.</p></div>
+      </div>
+
+      <h3>Procedura konfliktu przy eskalacji</h3>
+      <div class="protocol">
+        <div class="protocol-step"><div><strong>Nazwij stan, nie diagnozę</strong><p>„Oboje jesteśmy bardzo pobudzeni” zamiast „to twoje borderline”.</p></div></div>
+        <div class="protocol-step"><div><strong>Waliduj emocję</strong><p>„Rozumiem, że to zabrzmiało jak odrzucenie”. Nie potwierdzaj automatycznie interpretacji faktów.</p></div></div>
+        <div class="protocol-step"><div><strong>Ustal przerwę z konkretnym powrotem</strong><p>„Przerywam rozmowę na 40 minut. Wrócę o 19:30”. Zniknięcie bez zapowiedzi może nasilić lęk, ale partner ma prawo przerwać przemoc słowną.</p></div></div>
+        <div class="protocol-step"><div><strong>Regulacja oddzielnie</strong><p>Bez śledzenia, serii wiadomości, alkoholu, prowadzenia samochodu w złości ani wymuszania natychmiastowego pojednania.</p></div></div>
+        <div class="protocol-step"><div><strong>Powrót do jednego problemu</strong><p>Fakty, potrzeby, odpowiedzialność każdej strony i jedno możliwe rozwiązanie. Bez listy wszystkich krzywd z historii związku.</p></div></div>
+        <div class="protocol-step"><div><strong>Naprawa i wnioski</strong><p>Przeprosiny powinny nazywać zachowanie, jego wpływ i zmianę na przyszłość. Samo wyjaśnienie traumą nie jest naprawą.</p></div></div>
+      </div>
+
+      <div class="danger"><strong>Kompromis ma granice.</strong> Dopuszczalne są ustalenia dotyczące częstszej informacji, struktury dnia, finansów czy sposobu kończenia konfliktu. Niedopuszczalne są przemoc, kontrola telefonu i kontaktów, groźby samobójcze używane do zatrzymania partnera, izolowanie, stalking, niszczenie rzeczy, naruszanie zgody seksualnej i odbieranie prawa do odejścia.</div>
+    </section>
+
+    <section class="section searchable" id="terapeuta">
+      <div class="section-number">14 · Granice ról</div>
+      <h2>Dlaczego partner nie powinien być terapeutą?</h2>
+      <p>Wsparcie partnerskie opiera się na wzajemności. Psychoterapia jest asymetryczną, profesjonalną relacją z kontraktem, kompetencjami, superwizją i odpowiedzialnością kliniczną. Połączenie tych ról szkodzi obu osobom.</p>
+      <div class="grid-3">
+        <div class="card"><h3>Zatarcie ról</h3><p>Każda rozmowa staje się analizą objawów, a zwykłe potrzeby partnera zaczynają być oceniane jako „technika terapeutyczna”.</p></div>
+        <div class="card"><h3>Zależność</h3><p>Osoba z BPD może mniej rozwijać samoregulację i profesjonalną sieć pomocy, jeśli partner stale przejmuje kryzys.</p></div>
+        <div class="card"><h3>Utrata intymności</h3><p>Relacja opiekun–pacjent wypiera erotykę, spontaniczność, partnerstwo i prawo obu osób do słabości.</p></div>
+        <div class="card"><h3>Wypalenie i hiperczujność</h3><p>Partner monitoruje nastrój, wiadomości, leki i ryzyko 24/7, zaniedbując sen, pracę, znajomych i zdrowie.</p></div>
+        <div class="card"><h3>Wzmocnienie kryzysu</h3><p>Jeśli największa bliskość pojawia się po groźbie lub samouszkodzeniu, nieintencjonalnie może utrwalić się związek między kryzysem a natychmiastową opieką.</p></div>
+        <div class="card"><h3>Konflikt interesów</h3><p>Partner nie jest neutralny. Jest stroną konfliktów, ma własne potrzeby i nie może jednocześnie prowadzić obiektywnej oceny klinicznej.</p></div>
+      </div>
+      <h3>Sygnały przekroczenia granicy</h3>
+      <ul>
+        <li>czujesz, że nie wolno ci chorować, odpoczywać, wyjechać ani mieć własnego kryzysu;</li>
+        <li>codziennie oceniasz ryzyko samobójcze i czujesz się jedyną osobą odpowiedzialną za życie partnerki/partnera;</li>
+        <li>partner rezygnuje ze specjalistów, ponieważ „ty wystarczysz”;</li>
+        <li>ukrywasz sytuację przed bliskimi i specjalistami, aby „chronić” partnera;</li>
+        <li>granice są regularnie negocjowane pod groźbą samouszkodzenia, odejścia lub odwetu;</li>
+        <li>relacja stała się jednostronnym systemem opieki, bez wzajemności i naprawiania szkód.</li>
+      </ul>
+      <div class="success"><strong>Wsparcie to:</strong> słuchanie, walidacja, zachęcanie do stosowania planu, towarzyszenie w dotarciu do pomocy i ochrona własnych granic. <strong>Leczenie to:</strong> diagnoza, ocena ryzyka, prowadzenie ekspozycji, dobór leków i całodobowa odpowiedzialność kliniczna - zadania profesjonalistów.</div>
+      <p>Programy psychoedukacyjne dla bliskich, takie jak 12-tygodniowy <em>Family Connections</em>, uczą wiedzy o BPD, umiejętności DBT, walidacji i dbania o siebie. Badania wskazują na zmniejszenie obciążenia bliskich i poprawę ich dobrostanu, choć program nie zastępuje terapii osoby z BPD.</p>
+    </section>
+
+    <section class="section searchable" id="kryzys">
+      <div class="section-number">15 · Bezpieczeństwo</div>
+      <h2>Plan kryzysowy</h2>
+      <p>Plan powinien powstać przed kryzysem, najlepiej z terapeutą lub psychiatrą. Partner może znać plan, ale nie powinien być jedynym jego elementem.</p>
+      <div class="grid-2">
+        <div class="card"><h3>Plan powinien zawierać</h3><ul class="clean"><li>indywidualne sygnały ostrzegawcze</li><li>samodzielne strategie regulacji</li><li>osoby i miejsca wsparcia</li><li>kontakt do terapeuty, CZP lub zespołu kryzysowego</li><li>ograniczenie dostępu do środków samouszkodzenia</li><li>jasny próg wezwania pomocy ratunkowej</li></ul></div>
+        <div class="card"><h3>Bezpośrednie zagrożenie</h3><p>Konkretny plan samobójczy, dostęp do środka, zamiar działania, ciężkie samookaleczenie, utrata kontaktu z rzeczywistością lub zagrożenie dla innych wymagają pilnej pomocy.</p><p><strong>Polska:</strong> 112 lub 999. Można też zgłosić się do SOR, izby przyjęć psychiatrycznej albo Centrum Zdrowia Psychicznego.</p></div>
+      </div>
+      <div class="danger">
+        <strong>Nie negocjuj związku pod groźbą samobójstwa.</strong> Traktuj groźbę poważnie, pytaj wprost o plan i środki, uruchom profesjonalną pomoc. Nie obiecuj tajemnicy i nie przyjmuj warunku „zostaniesz, inaczej coś sobie zrobię”.
+      </div>
+      <div class="grid-3">
+        <div class="card"><strong>112</strong><p>Ogólny numer alarmowy</p></div>
+        <div class="card"><strong>999</strong><p>Państwowe Ratownictwo Medyczne</p></div>
+        <div class="card"><strong>116 123</strong><p>Wsparcie emocjonalne dla dorosłych</p></div>
+        <div class="card"><strong>800 70 2222</strong><p>Centrum Wsparcia w kryzysie psychicznym</p></div>
+        <div class="card"><strong>CZP</strong><p>Bezpłatna pomoc bez skierowania w rejonie działania centrum</p></div>
+        <div class="card"><strong>Psychiatra</strong><p>W Polsce konsultacja psychiatryczna nie wymaga skierowania</p></div>
+      </div>
+    </section>
+
+    <section class="section searchable" id="mity">
+      <div class="section-number">16 · Mity i błędy</div>
+      <h2>Najczęstsze nieporozumienia</h2>
+      <details><summary>„Osoby z BPD zawsze manipulują”</summary><div>Zachowanie może wpływać na innych i bywać przymuszające, ale intencje są zróżnicowane. Część reakcji jest desperacką, wyuczoną próbą regulacji. Niezależnie od intencji należy nazywać skutki i stawiać granice.</div></details>
+      <details><summary>„BPD jest nieuleczalne”</summary><div>Nie. Remisja objawowa jest częsta, a psychoterapia ma potwierdzoną skuteczność. Funkcjonowanie społeczne może wymagać dłuższej pracy.</div></details>
+      <details><summary>„Trauma usprawiedliwia każde zachowanie”</summary><div>Trauma wyjaśnia podatność i cierpienie, ale nie daje prawa do krzywdzenia innych. Leczenie obejmuje rozwój odpowiedzialności i naprawę szkód.</div></details>
+      <details><summary>„Dobry partner może wyleczyć miłością”</summary><div>Bezpieczna relacja może wspierać leczenie, lecz miłość nie zastępuje psychoterapii. Przejęcie funkcji terapeuty zwiększa zależność, wypalenie i utratę wzajemności.</div></details>
+      <details><summary>„Każda silnie emocjonalna kobieta ma borderline”</summary><div>To stygmatyzujący błąd. Rozpoznanie wymaga trwałego, wielokontekstowego wzorca i profesjonalnego różnicowania. Emocje w reakcji na realną krzywdę nie są automatycznie zaburzeniem osobowości.</div></details>
+      <details><summary>„Groźby samobójcze są tylko próbą zwrócenia uwagi”</summary><div>Każdą groźbę należy traktować poważnie. Funkcja komunikacyjna nie wyklucza realnego ryzyka śmierci. Ocenę powinien prowadzić profesjonalista.</div></details>
+    </section>
+
+    <section class="section searchable" id="zrodla">
+      <div class="section-number">17 · Bibliografia</div>
+      <h2>Wybrane źródła naukowe i wytyczne</h2>
+      <ol class="source-list">
+        <li>Keepers GA i wsp. <em>The American Psychiatric Association Practice Guideline for the Treatment of Patients With Borderline Personality Disorder.</em> American Journal of Psychiatry, 2024. <a href="https://psychiatryonline.org/doi/full/10.1176/appi.ajp.24181010" target="_blank" rel="noopener">DOI: 10.1176/appi.ajp.24181010</a>.</li>
+        <li>National Institute for Health and Care Excellence. <em>Borderline personality disorder: recognition and management</em>, CG78; przegląd 30.07.2024. <a href="https://www.nice.org.uk/guidance/cg78" target="_blank" rel="noopener">NICE CG78</a>.</li>
+        <li>World Health Organization. <em>ICD-11 for Mortality and Morbidity Statistics</em>, zaburzenia osobowości i kwalifikator 6D11.5. <a href="https://icd.who.int/browse/2025-01/mms/en" target="_blank" rel="noopener">ICD-11 Browser</a>.</li>
+        <li>Storebø OJ i wsp. <em>Psychological therapies for people with borderline personality disorder.</em> Cochrane Database of Systematic Reviews, 2020. <a href="https://www.cochrane.org/evidence/CD012955_psychological-therapies-people-borderline-personality-disorder" target="_blank" rel="noopener">CD012955</a>.</li>
+        <li>Stoffers-Winterling JM i wsp. <em>Pharmacological interventions for people with borderline personality disorder.</em> Cochrane Database of Systematic Reviews, 2022. DOI: 10.1002/14651858.CD012956.pub2.</li>
+        <li>Zanarini MC i wsp. <em>Sustained Symptomatic Remission and Recovery and Their Loss…: A 24-Year Prospective Follow-Up Study.</em> 2024. <a href="https://pubmed.ncbi.nlm.nih.gov/39480146/" target="_blank" rel="noopener">PMID 39480146</a>.</li>
+        <li>Crawford MJ i wsp. <em>The Clinical Effectiveness and Cost-Effectiveness of Lamotrigine in Borderline Personality Disorder: A Randomized Placebo-Controlled Trial.</em> Am J Psychiatry, 2018. <a href="https://pubmed.ncbi.nlm.nih.gov/29621901/" target="_blank" rel="noopener">PMID 29621901</a>.</li>
+        <li>Porter C i wsp. <em>Childhood adversity and borderline personality disorder: a meta-analysis.</em> Acta Psychiatr Scand, 2020. <a href="https://pubmed.ncbi.nlm.nih.gov/31630389/" target="_blank" rel="noopener">PMID 31630389</a>.</li>
+        <li>Distel MA i wsp. <em>Heritability of borderline personality disorder features is similar across three countries.</em> Psychol Med, 2008. <a href="https://pubmed.ncbi.nlm.nih.gov/17988414/" target="_blank" rel="noopener">PMID 17988414</a>.</li>
+        <li>Zanarini MC i wsp. <em>A screening measure for BPD: the McLean Screening Instrument for Borderline Personality Disorder.</em> J Pers Disord, 2003. <a href="https://pubmed.ncbi.nlm.nih.gov/14744082/" target="_blank" rel="noopener">PMID 14744082</a>.</li>
+        <li>Guillén V i wsp. <em>“Family Connections”, a program for relatives of people with borderline personality disorder: A randomized controlled trial.</em> 2024. <a href="https://pubmed.ncbi.nlm.nih.gov/39624006/" target="_blank" rel="noopener">PMID 39624006</a>.</li>
+        <li>Bateman A, Fonagy P. <em>A randomized controlled trial of a mentalization-based intervention (MBT-FACTS) for families of people with BPD.</em> 2019. <a href="https://pubmed.ncbi.nlm.nih.gov/29999394/" target="_blank" rel="noopener">PMID 29999394</a>.</li>
+        <li>Ministerstwo Zdrowia. <em>Gdzie uzyskać pomoc psychologiczną i psychiatryczną?</em> <a href="https://www.gov.pl/web/zdrowie/gdzie-uzyskac-pomoc-psychologiczna-i-psychiatryczna" target="_blank" rel="noopener">gov.pl</a>.</li>
+        <li>Ministerstwo Zdrowia. <em>Centra Zdrowia Psychicznego.</em> <a href="https://www.gov.pl/web/zdrowie/centra-zdrowia-psychicznego" target="_blank" rel="noopener">gov.pl</a>.</li>
+      </ol>
+      <p class="muted"><small>Stan opracowania: 2 lipca 2026 r. Dane statystyczne są wartościami grupowymi i nie służą do prognozowania przebiegu u konkretnej osoby.</small></p>
+    </section>
+  </main>
+</div>
+
+<footer class="footer">
+  <p><strong>Borderline (BPD) — raport edukacyjny</strong></p>
+  <p>Materiał nie zastępuje konsultacji klinicznej. W bezpośrednim zagrożeniu życia zadzwoń pod 112 lub 999.</p>
+</footer>
+
+<script>
+  const root = document.documentElement;
+  const progress = document.getElementById('progress');
+  const themeToggle = document.getElementById('themeToggle');
+  const printBtn = document.getElementById('printBtn');
+  const fontUp = document.getElementById('fontUp');
+  const fontDown = document.getElementById('fontDown');
+  const search = document.getElementById('search');
+  const sections = [...document.querySelectorAll('main .section')];
+  const navLinks = [...document.querySelectorAll('#toc a')];
+
+  const savedTheme = localStorage.getItem('bpd-theme');
+  if (savedTheme) root.dataset.theme = savedTheme;
+  themeToggle.addEventListener('click', () => {
+    root.dataset.theme = root.dataset.theme === 'dark' ? 'light' : 'dark';
+    localStorage.setItem('bpd-theme', root.dataset.theme);
+  });
+
+  let scale = Number(localStorage.getItem('bpd-font-scale') || 1);
+  const applyScale = () => {
+    scale = Math.max(.88, Math.min(1.25, scale));
+    root.style.setProperty('--font-scale', scale);
+    localStorage.setItem('bpd-font-scale', scale);
+  };
+  applyScale();
+  fontUp.addEventListener('click', () => { scale += .06; applyScale(); });
+  fontDown.addEventListener('click', () => { scale -= .06; applyScale(); });
+  printBtn.addEventListener('click', () => window.print());
+
+  const updateProgress = () => {
+    const max = document.documentElement.scrollHeight - innerHeight;
+    progress.style.width = (max > 0 ? scrollY / max * 100 : 0) + '%';
+  };
+  addEventListener('scroll', updateProgress, {passive: true});
+  updateProgress();
+
+  const observer = new IntersectionObserver(entries => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        navLinks.forEach(a => a.classList.toggle('active', a.getAttribute('href') === '#' + entry.target.id));
+      }
+    });
+  }, {rootMargin: '-20% 0px -70% 0px'});
+  sections.forEach(s => observer.observe(s));
+
+  document.querySelectorAll('.tab-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const list = btn.closest('.tabs');
+      list.querySelectorAll('.tab-btn').forEach(b => b.setAttribute('aria-selected', 'false'));
+      list.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
+      btn.setAttribute('aria-selected', 'true');
+      document.getElementById(btn.getAttribute('aria-controls')).classList.add('active');
+    });
+  });
+
+  const normalize = s => s.toLocaleLowerCase('pl').normalize('NFD').replace(/\p{Diacritic}/gu, '');
+  search.addEventListener('input', () => {
+    const q = normalize(search.value.trim());
+    sections.forEach(section => {
+      const match = !q || normalize(section.innerText).includes(q);
+      section.classList.toggle('hidden-by-search', !match);
+    });
+  });
+
+  navLinks.forEach(link => link.addEventListener('click', () => search.value && (search.value = '', search.dispatchEvent(new Event('input')))));
+</script>
+</body>
+</html>

@@ -789,6 +789,1147 @@
       .viz-header { flex-direction: column; }
     }
 
+
+    /* --- Narzędzia diagnostyczne i test edukacyjny --- */
+    .assessment-filter {
+      display: flex;
+      flex-wrap: wrap;
+      gap: .5rem;
+      margin: 1rem 0;
+    }
+    .assessment-filter button {
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: .5rem .8rem;
+      background: var(--bg);
+      color: var(--muted);
+      font-weight: 800;
+    }
+    .assessment-filter button.active {
+      background: var(--primary);
+      border-color: var(--primary);
+      color: white;
+    }
+    html[data-theme="dark"] .assessment-filter button.active { color: #11152a; }
+    .assessment-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: .9rem;
+      margin: 1rem 0;
+    }
+    .assessment-card {
+      position: relative;
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 1.15rem;
+      background: var(--bg);
+      overflow: hidden;
+      transition: transform .18s ease, border-color .18s ease, opacity .18s ease;
+    }
+    .assessment-card::before {
+      content: "";
+      position: absolute;
+      left: 0; top: 0; bottom: 0;
+      width: 5px;
+      background: var(--card-accent, var(--primary));
+    }
+    .assessment-card:hover { transform: translateY(-2px); border-color: var(--primary); }
+    .assessment-card.filtered-out { display: none; }
+    .assessment-card h3 { margin: .15rem 0 .45rem; }
+    .assessment-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: .4rem;
+      margin-bottom: .65rem;
+    }
+    .assessment-meta span {
+      display: inline-flex;
+      padding: .24rem .5rem;
+      border-radius: 999px;
+      background: var(--surface-2);
+      color: var(--muted);
+      font-size: .74rem;
+      font-weight: 800;
+    }
+    .assessment-facts {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: .55rem;
+      margin-top: .8rem;
+    }
+    .assessment-fact {
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: .6rem;
+      background: var(--surface);
+    }
+    .assessment-fact strong {
+      display: block;
+      color: var(--primary);
+      font-size: .82rem;
+    }
+    .assessment-fact span { color: var(--muted); font-size: .76rem; line-height: 1.3; }
+    .diagnostic-path {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      gap: .55rem;
+      margin: 1.2rem 0;
+    }
+    .diagnostic-path .path-step {
+      position: relative;
+      min-height: 140px;
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      padding: .9rem;
+      background: var(--bg);
+    }
+    .diagnostic-path .path-step:not(:last-child)::after {
+      content: "→";
+      position: absolute;
+      right: -.48rem;
+      top: 50%;
+      z-index: 2;
+      transform: translateY(-50%);
+      width: 1.1rem;
+      height: 1.1rem;
+      display: grid;
+      place-items: center;
+      border-radius: 50%;
+      background: var(--surface);
+      color: var(--primary);
+      font-weight: 900;
+    }
+    .path-step strong { display: block; color: var(--primary); margin-bottom: .35rem; }
+    .path-step small { color: var(--muted); line-height: 1.35; }
+    .screening-shell {
+      border: 1px solid var(--line);
+      border-radius: 22px;
+      overflow: hidden;
+      background: var(--bg);
+      box-shadow: var(--shadow);
+      margin: 1.2rem 0;
+    }
+    .screening-head {
+      padding: 1.2rem;
+      background:
+        radial-gradient(circle at 90% 10%, color-mix(in srgb, var(--primary) 20%, transparent), transparent 16rem),
+        var(--surface-2);
+      border-bottom: 1px solid var(--line);
+    }
+    .screening-head h3 { margin: 0 0 .45rem; }
+    .privacy-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: .5rem;
+      margin-top: .7rem;
+    }
+    .privacy-row span {
+      display: inline-flex;
+      gap: .35rem;
+      align-items: center;
+      padding: .32rem .6rem;
+      border-radius: 999px;
+      background: var(--surface);
+      color: var(--muted);
+      font-size: .75rem;
+      font-weight: 750;
+    }
+    .screening-body { padding: clamp(1rem, 3vw, 1.6rem); }
+    .screen-progress {
+      position: relative;
+      height: .7rem;
+      border-radius: 999px;
+      background: var(--surface-2);
+      overflow: hidden;
+      margin: .5rem 0 1rem;
+    }
+    .screen-progress span {
+      display: block;
+      width: 0;
+      height: 100%;
+      border-radius: inherit;
+      background: linear-gradient(90deg, var(--primary), var(--accent));
+      transition: width .3s ease;
+    }
+    .screen-counter {
+      display: flex;
+      justify-content: space-between;
+      gap: 1rem;
+      color: var(--muted);
+      font-size: .78rem;
+      font-weight: 800;
+    }
+    .screen-intro, .screen-question, .screen-result { display: none; }
+    .screen-intro.active, .screen-question.active, .screen-result.active { display: block; }
+    .screen-intro {
+      padding: .5rem 0;
+    }
+    .screen-consent {
+      display: flex;
+      gap: .7rem;
+      align-items: flex-start;
+      margin: 1rem 0;
+      padding: .85rem;
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      background: var(--surface);
+    }
+    .screen-consent input { margin-top: .28rem; accent-color: var(--primary); }
+    .question-domain {
+      display: inline-flex;
+      padding: .3rem .6rem;
+      border-radius: 999px;
+      background: var(--accent-soft);
+      color: var(--accent);
+      font-size: .75rem;
+      font-weight: 850;
+      letter-spacing: .03em;
+      text-transform: uppercase;
+    }
+    .question-text {
+      min-height: 115px;
+      display: flex;
+      align-items: center;
+      font-size: clamp(1.2rem, 2.3vw, 1.65rem);
+      font-weight: 800;
+      line-height: 1.35;
+      letter-spacing: -.015em;
+    }
+    .question-help {
+      color: var(--muted);
+      font-size: .9rem;
+      margin-top: -.35rem;
+    }
+    .answer-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: .7rem;
+      margin: 1.1rem 0;
+    }
+    .answer-btn {
+      min-height: 84px;
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      padding: .8rem;
+      background: var(--surface);
+      color: var(--text);
+      font-weight: 850;
+      text-align: center;
+    }
+    .answer-btn small {
+      display: block;
+      color: var(--muted);
+      font-weight: 550;
+      margin-top: .2rem;
+    }
+    .answer-btn:hover, .answer-btn.selected {
+      border-color: var(--primary);
+      background: color-mix(in srgb, var(--primary) 10%, var(--surface));
+      transform: translateY(-1px);
+    }
+    .screen-actions {
+      display: flex;
+      justify-content: space-between;
+      gap: .7rem;
+      margin-top: 1rem;
+    }
+    .screen-actions .btn { box-shadow: none; }
+    .screen-actions button:disabled { opacity: .45; cursor: not-allowed; transform: none; }
+    .result-hero {
+      display: grid;
+      grid-template-columns: 190px minmax(0, 1fr);
+      gap: 1.2rem;
+      align-items: center;
+      margin-bottom: 1rem;
+    }
+    .result-ring {
+      --score: 0;
+      width: 170px;
+      aspect-ratio: 1;
+      display: grid;
+      place-items: center;
+      border-radius: 50%;
+      background:
+        radial-gradient(circle, var(--surface) 0 58%, transparent 59%),
+        conic-gradient(var(--primary) calc(var(--score) * 11.111%), var(--surface-2) 0);
+      border: 1px solid var(--line);
+    }
+    .result-ring strong {
+      display: block;
+      text-align: center;
+      font-size: 2.4rem;
+      line-height: 1;
+      color: var(--primary);
+    }
+    .result-ring span {
+      display: block;
+      margin-top: .25rem;
+      color: var(--muted);
+      font-size: .72rem;
+      text-align: center;
+    }
+    .result-profile {
+      display: grid;
+      gap: .55rem;
+      margin: 1rem 0;
+    }
+    .profile-row {
+      display: grid;
+      grid-template-columns: minmax(130px, .9fr) minmax(180px, 2fr) 44px;
+      gap: .6rem;
+      align-items: center;
+    }
+    .profile-track {
+      height: .72rem;
+      border-radius: 999px;
+      background: var(--surface-2);
+      overflow: hidden;
+    }
+    .profile-track span {
+      display: block;
+      height: 100%;
+      border-radius: inherit;
+      background: linear-gradient(90deg, var(--accent), var(--primary));
+      transition: width .4s ease;
+    }
+    .profile-row strong { text-align: right; color: var(--primary); }
+    .screen-risk {
+      display: none;
+      margin: 1rem 0;
+      padding: 1rem;
+      border-left: 5px solid var(--danger);
+      border-radius: 15px;
+      background: var(--danger-soft);
+    }
+    .screen-risk.visible { display: block; }
+    .screen-result-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: .7rem;
+      margin: 1rem 0;
+    }
+    .screen-result-grid .card { margin: 0; }
+    .result-gates {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: .6rem;
+      margin: .9rem 0;
+    }
+    .gate {
+      border: 1px solid var(--line);
+      border-radius: 13px;
+      padding: .7rem;
+      background: var(--surface);
+      font-size: .82rem;
+    }
+    .gate strong { display: block; margin-bottom: .2rem; }
+    .gate.yes { border-color: var(--warning); background: var(--warning-soft); }
+    .gate.no { color: var(--muted); }
+    .screen-validation {
+      border: 1px dashed var(--line);
+      border-radius: 14px;
+      padding: .9rem;
+      color: var(--muted);
+      font-size: .85rem;
+      margin-top: 1rem;
+    }
+    @media (max-width: 980px) {
+      .diagnostic-path { grid-template-columns: repeat(2, 1fr); }
+      .diagnostic-path .path-step::after { display: none; }
+    }
+    @media (max-width: 650px) {
+      .assessment-grid, .assessment-facts, .answer-grid, .screen-result-grid, .result-gates {
+        grid-template-columns: 1fr;
+      }
+      .diagnostic-path { grid-template-columns: 1fr; }
+      .result-hero { grid-template-columns: 1fr; text-align: center; }
+      .result-ring { margin-inline: auto; }
+      .question-text { min-height: 145px; }
+      .profile-row { grid-template-columns: 1fr; gap: .25rem; }
+      .profile-row strong { text-align: left; }
+    }
+
+
+    /* --- Edukacyjny symulator dynamiki zachowania --- */
+    .behavior-sim {
+      margin: 1.25rem 0;
+      border: 1px solid var(--line);
+      border-radius: 22px;
+      overflow: hidden;
+      background: var(--bg);
+      box-shadow: var(--shadow);
+    }
+    .behavior-sim-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 1rem;
+      padding: 1.15rem;
+      border-bottom: 1px solid var(--line);
+      background:
+        radial-gradient(circle at 95% 15%, color-mix(in srgb, var(--primary) 22%, transparent), transparent 18rem),
+        var(--surface-2);
+    }
+    .behavior-sim-head h3 { margin: 0 0 .35rem; }
+    .behavior-sim-head p { margin: 0; color: var(--muted); }
+    .auto-switch {
+      display: inline-flex;
+      align-items: center;
+      gap: .6rem;
+      white-space: nowrap;
+      font-weight: 850;
+      font-size: .85rem;
+      color: var(--text);
+    }
+    .auto-switch input {
+      position: absolute;
+      opacity: 0;
+      pointer-events: none;
+    }
+    .auto-switch-track {
+      position: relative;
+      width: 3.2rem;
+      height: 1.7rem;
+      border-radius: 999px;
+      background: var(--line);
+      transition: background .2s ease;
+      flex: none;
+    }
+    .auto-switch-track::after {
+      content: "";
+      position: absolute;
+      top: .2rem;
+      left: .2rem;
+      width: 1.3rem;
+      height: 1.3rem;
+      border-radius: 50%;
+      background: var(--surface);
+      box-shadow: 0 3px 8px rgba(0,0,0,.18);
+      transition: transform .2s ease;
+    }
+    .auto-switch input:checked + .auto-switch-track {
+      background: var(--primary);
+    }
+    .auto-switch input:checked + .auto-switch-track::after {
+      transform: translateX(1.5rem);
+    }
+    .behavior-sim-grid {
+      display: grid;
+      grid-template-columns: minmax(265px, .72fr) minmax(430px, 1.28fr);
+      gap: 1rem;
+      padding: 1.15rem;
+    }
+    .sim-controls {
+      padding: 1rem;
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      background: var(--surface);
+    }
+    .sim-controls h4 { margin-top: 0; }
+    .sim-field { margin: 0 0 1rem; }
+    .sim-field label {
+      display: flex;
+      justify-content: space-between;
+      gap: .6rem;
+      margin-bottom: .38rem;
+      font-weight: 800;
+      font-size: .86rem;
+    }
+    .sim-field output {
+      min-width: 2.2rem;
+      color: var(--primary);
+      text-align: right;
+    }
+    .sim-field select {
+      width: 100%;
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: .68rem .75rem;
+      background: var(--bg);
+      color: var(--text);
+    }
+    .sim-field input[type="range"] {
+      width: 100%;
+      accent-color: var(--primary);
+    }
+    .sim-actions {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: .55rem;
+      margin-top: .9rem;
+    }
+    .sim-actions .btn {
+      justify-content: center;
+      box-shadow: none;
+    }
+    .sim-actions .btn.full { grid-column: 1 / -1; }
+    .sim-mode-note {
+      min-height: 2.7em;
+      margin: .75rem 0 0;
+      color: var(--muted);
+      font-size: .78rem;
+    }
+    .sim-stage {
+      display: grid;
+      gap: .9rem;
+      min-width: 0;
+    }
+    .sim-status-row {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      gap: .6rem;
+      align-items: center;
+      padding: .7rem .85rem;
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      background: var(--surface);
+    }
+    .sim-step-indicator {
+      color: var(--muted);
+      font-size: .8rem;
+      font-weight: 800;
+    }
+    .sim-path-pill {
+      display: inline-flex;
+      padding: .3rem .62rem;
+      border-radius: 999px;
+      background: var(--surface-2);
+      color: var(--muted);
+      font-size: .76rem;
+      font-weight: 850;
+    }
+    .sim-path-pill.regulated {
+      background: var(--success-soft);
+      color: var(--success);
+    }
+    .sim-path-pill.reactive {
+      background: var(--warning-soft);
+      color: var(--warning);
+    }
+    .decision-tree {
+      position: relative;
+      padding: 1rem;
+      border: 1px solid var(--line);
+      border-radius: 20px;
+      background:
+        linear-gradient(var(--line) 1px, transparent 1px),
+        linear-gradient(90deg, var(--line) 1px, transparent 1px),
+        var(--surface);
+      background-size: 28px 28px;
+      overflow: hidden;
+    }
+    .tree-trunk {
+      display: grid;
+      justify-items: center;
+      gap: .45rem;
+    }
+    .tree-node {
+      position: relative;
+      width: min(100%, 420px);
+      min-height: 74px;
+      padding: .75rem .9rem;
+      border: 1px solid var(--line);
+      border-radius: 15px;
+      background: color-mix(in srgb, var(--surface) 96%, transparent);
+      color: var(--muted);
+      opacity: .48;
+      transform: scale(.985);
+      transition:
+        opacity .24s ease,
+        transform .24s ease,
+        border-color .24s ease,
+        box-shadow .24s ease,
+        background .24s ease;
+    }
+    .tree-node strong {
+      display: block;
+      margin-bottom: .2rem;
+      color: var(--text);
+      font-size: .88rem;
+    }
+    .tree-node span {
+      display: block;
+      font-size: .78rem;
+      line-height: 1.35;
+    }
+    .tree-node.active {
+      opacity: 1;
+      transform: scale(1);
+      border-color: var(--primary);
+      background: color-mix(in srgb, var(--primary) 9%, var(--surface));
+      box-shadow: 0 0 0 4px color-mix(in srgb, var(--primary) 11%, transparent);
+    }
+    .tree-node.complete {
+      opacity: .9;
+      border-color: var(--accent);
+    }
+    .tree-arrow {
+      width: 2px;
+      height: 18px;
+      background: var(--line);
+      position: relative;
+    }
+    .tree-arrow::after {
+      content: "";
+      position: absolute;
+      left: 50%;
+      bottom: -1px;
+      width: .45rem;
+      height: .45rem;
+      border-right: 2px solid var(--line);
+      border-bottom: 2px solid var(--line);
+      transform: translateX(-50%) rotate(45deg);
+    }
+    .tree-branches {
+      position: relative;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1rem;
+      margin-top: .8rem;
+    }
+    .tree-branches::before {
+      content: "";
+      position: absolute;
+      top: -1rem;
+      left: 25%;
+      right: 25%;
+      height: 1rem;
+      border-top: 2px solid var(--line);
+      border-left: 2px solid var(--line);
+      border-right: 2px solid var(--line);
+      border-radius: 8px 8px 0 0;
+    }
+    .tree-branch {
+      display: grid;
+      gap: .45rem;
+      align-content: start;
+      padding: .75rem;
+      border: 1px dashed var(--line);
+      border-radius: 17px;
+      background: color-mix(in srgb, var(--bg) 90%, transparent);
+      opacity: .42;
+      transition: opacity .25s ease, border-color .25s ease, background .25s ease;
+    }
+    .tree-branch.selected {
+      opacity: 1;
+      border-style: solid;
+    }
+    .tree-branch.regulation.selected {
+      border-color: var(--success);
+      background: color-mix(in srgb, var(--success-soft) 72%, var(--surface));
+    }
+    .tree-branch.reactivity.selected {
+      border-color: var(--warning);
+      background: color-mix(in srgb, var(--warning-soft) 72%, var(--surface));
+    }
+    .branch-title {
+      display: flex;
+      justify-content: space-between;
+      gap: .5rem;
+      align-items: center;
+      font-weight: 900;
+      font-size: .82rem;
+    }
+    .branch-title small {
+      color: var(--muted);
+      font-weight: 650;
+    }
+    .tree-branch .tree-node {
+      width: 100%;
+      min-height: 86px;
+    }
+    .tree-branch .tree-arrow {
+      justify-self: center;
+    }
+    .sim-output-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: .75rem;
+    }
+    .sim-output {
+      min-height: 126px;
+      padding: .9rem;
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      background: var(--surface);
+    }
+    .sim-output h4 { margin: 0 0 .4rem; }
+    .sim-output p {
+      margin: 0;
+      color: var(--muted);
+      font-size: .86rem;
+    }
+    .sim-meter {
+      display: grid;
+      gap: .45rem;
+      margin-top: .7rem;
+    }
+    .sim-meter-row {
+      display: grid;
+      grid-template-columns: 110px 1fr 30px;
+      gap: .55rem;
+      align-items: center;
+      font-size: .76rem;
+    }
+    .sim-meter-track {
+      height: .6rem;
+      border-radius: 999px;
+      background: var(--surface-2);
+      overflow: hidden;
+    }
+    .sim-meter-track span {
+      display: block;
+      height: 100%;
+      width: 0;
+      border-radius: inherit;
+      background: linear-gradient(90deg, var(--accent), var(--primary));
+      transition: width .35s ease;
+    }
+    .sim-log {
+      max-height: 170px;
+      overflow: auto;
+      padding: .8rem;
+      border: 1px solid var(--line);
+      border-radius: 15px;
+      background: var(--surface);
+    }
+    .sim-log-entry {
+      display: grid;
+      grid-template-columns: 1.8rem 1fr;
+      gap: .55rem;
+      padding: .38rem 0;
+      border-bottom: 1px solid var(--line);
+      color: var(--muted);
+      font-size: .78rem;
+    }
+    .sim-log-entry:last-child { border-bottom: 0; }
+    .sim-log-entry strong {
+      width: 1.55rem;
+      height: 1.55rem;
+      display: grid;
+      place-items: center;
+      border-radius: 50%;
+      background: var(--surface-2);
+      color: var(--primary);
+      font-size: .7rem;
+    }
+    .sim-disclaimer {
+      margin: 0 1.15rem 1.15rem;
+      padding: .9rem 1rem;
+      border-left: 5px solid var(--primary);
+      border-radius: 14px;
+      background: var(--surface-2);
+      color: var(--muted);
+      font-size: .84rem;
+    }
+    @media (max-width: 980px) {
+      .behavior-sim-grid { grid-template-columns: 1fr; }
+    }
+    @media (max-width: 650px) {
+      .behavior-sim-head { flex-direction: column; }
+      .tree-branches { grid-template-columns: 1fr; }
+      .tree-branches::before { display: none; }
+      .sim-output-grid { grid-template-columns: 1fr; }
+      .sim-actions { grid-template-columns: 1fr; }
+      .sim-actions .btn.full { grid-column: auto; }
+      .sim-meter-row { grid-template-columns: 95px 1fr 26px; }
+    }
+
+
+    /* --- Symulator dynamiki v2 --- */
+    .behavior-sim-v2 {
+      margin: 1.3rem 0;
+      border: 1px solid var(--line);
+      border-radius: 24px;
+      overflow: hidden;
+      background: var(--bg);
+      box-shadow: var(--shadow);
+    }
+    .sim2-head {
+      display: flex;
+      justify-content: space-between;
+      gap: 1.3rem;
+      align-items: flex-start;
+      padding: 1.25rem;
+      border-bottom: 1px solid var(--line);
+      background:
+        radial-gradient(circle at 90% 0%, color-mix(in srgb, var(--danger) 12%, transparent), transparent 21rem),
+        radial-gradient(circle at 72% 30%, color-mix(in srgb, var(--primary) 18%, transparent), transparent 18rem),
+        var(--surface-2);
+    }
+    .sim2-head h3 { margin: .3rem 0 .45rem; }
+    .sim2-head p { margin: 0; color: var(--muted); max-width: 760px; }
+    .sim2-kicker {
+      color: var(--accent);
+      font-size: .72rem;
+      font-weight: 900;
+      letter-spacing: .1em;
+      text-transform: uppercase;
+    }
+    .sim2-auto-panel {
+      display: grid;
+      justify-items: end;
+      gap: .7rem;
+      min-width: 165px;
+    }
+    .sim2-speed {
+      display: flex;
+      gap: .5rem;
+      align-items: center;
+      color: var(--muted);
+      font-size: .78rem;
+      font-weight: 800;
+    }
+    .sim2-speed select {
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: .35rem .58rem;
+      background: var(--surface);
+      color: var(--text);
+    }
+    .sim2-layout {
+      display: grid;
+      grid-template-columns: minmax(285px, .72fr) minmax(520px, 1.28fr);
+      gap: 1rem;
+      padding: 1.15rem;
+    }
+    .sim2-controls {
+      align-self: start;
+      position: sticky;
+      top: 5rem;
+      padding: 1rem;
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      background: var(--surface);
+    }
+    .sim2-controls h4 { margin: .1rem 0 .75rem; }
+    .sim2-control {
+      display: grid;
+      gap: .35rem;
+      margin-bottom: .8rem;
+      font-size: .82rem;
+      font-weight: 800;
+    }
+    .sim2-control select {
+      width: 100%;
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: .65rem;
+      background: var(--bg);
+      color: var(--text);
+    }
+    .sim2-slider { margin-bottom: .75rem; }
+    .sim2-slider label {
+      display: flex;
+      justify-content: space-between;
+      gap: .7rem;
+      margin-bottom: .2rem;
+      color: var(--text);
+      font-size: .79rem;
+      font-weight: 780;
+    }
+    .sim2-slider output {
+      color: var(--primary);
+      font-weight: 900;
+    }
+    .sim2-slider input {
+      width: 100%;
+      accent-color: var(--primary);
+    }
+    .sim2-interventions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: .42rem;
+      margin-bottom: .9rem;
+    }
+    .sim2-interventions button {
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: .4rem .58rem;
+      background: var(--bg);
+      color: var(--muted);
+      font-size: .7rem;
+      font-weight: 800;
+    }
+    .sim2-interventions button:hover { border-color: var(--primary); }
+    .sim2-interventions button.active {
+      border-color: var(--accent);
+      background: var(--accent-soft);
+      color: var(--accent);
+    }
+    .sim2-buttons {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: .5rem;
+    }
+    .sim2-buttons .btn {
+      justify-content: center;
+      padding: .58rem .65rem;
+      box-shadow: none;
+      font-size: .78rem;
+    }
+    .sim2-buttons .full { grid-column: 1 / -1; }
+    .sim2-mode-note {
+      min-height: 2.4em;
+      margin: .7rem 0 0;
+      color: var(--muted);
+      font-size: .72rem;
+    }
+    .sim2-workspace {
+      display: grid;
+      gap: .85rem;
+      min-width: 0;
+    }
+    .sim2-statusbar {
+      display: flex;
+      justify-content: space-between;
+      gap: .8rem;
+      align-items: center;
+      padding: .7rem .85rem;
+      border: 1px solid var(--line);
+      border-radius: 15px;
+      background: var(--surface);
+    }
+    .sim2-statusbar > div { display: grid; gap: .1rem; }
+    .sim2-step { color: var(--muted); font-size: .73rem; font-weight: 850; }
+    .sim2-statusbar strong { font-size: .9rem; }
+    .sim2-route {
+      padding: .32rem .65rem;
+      border-radius: 999px;
+      font-size: .72rem;
+      font-weight: 900;
+      text-align: center;
+    }
+    .sim2-route.neutral { background: var(--surface-2); color: var(--muted); }
+    .sim2-route.regulated { background: var(--success-soft); color: var(--success); }
+    .sim2-route.protest { background: var(--warning-soft); color: var(--warning); }
+    .sim2-route.withdrawal { background: color-mix(in srgb, var(--primary) 13%, var(--surface)); color: var(--primary); }
+    .sim2-route.crisis { background: var(--danger-soft); color: var(--danger); }
+    .sim2-state-dashboard {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: .6rem;
+    }
+    .sim2-state-card {
+      padding: .75rem;
+      border: 1px solid var(--line);
+      border-radius: 15px;
+      background: var(--surface);
+    }
+    .sim2-state-card > span {
+      display: block;
+      min-height: 2.3em;
+      color: var(--muted);
+      font-size: .69rem;
+      font-weight: 750;
+      line-height: 1.2;
+    }
+    .sim2-state-card strong {
+      display: block;
+      margin: .2rem 0 .45rem;
+      color: var(--primary);
+      font-size: 1.35rem;
+    }
+    .sim2-meter {
+      height: .48rem;
+      overflow: hidden;
+      border-radius: 999px;
+      background: var(--surface-2);
+    }
+    .sim2-meter i {
+      display: block;
+      width: 0;
+      height: 100%;
+      border-radius: inherit;
+      background: linear-gradient(90deg, var(--warning), var(--danger));
+      transition: width .35s ease;
+    }
+    .sim2-meter.capacity i { background: linear-gradient(90deg, var(--accent), var(--success)); }
+    .sim2-meter.crisis i { background: linear-gradient(90deg, var(--warning), var(--danger)); }
+    .sim2-meter.mentalization i { background: linear-gradient(90deg, var(--primary-2), var(--primary)); }
+    .sim2-tree {
+      padding: .95rem;
+      border: 1px solid var(--line);
+      border-radius: 20px;
+      background:
+        linear-gradient(var(--line) 1px, transparent 1px),
+        linear-gradient(90deg, var(--line) 1px, transparent 1px),
+        var(--surface);
+      background-size: 30px 30px;
+      overflow: hidden;
+    }
+    .sim2-main-chain {
+      display: grid;
+      justify-items: center;
+      gap: .25rem;
+    }
+    .sim2-node {
+      width: min(100%, 520px);
+      padding: .7rem .8rem;
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      background: color-mix(in srgb, var(--surface) 96%, transparent);
+      opacity: .32;
+      transform: scale(.985);
+      transition: opacity .22s ease, transform .22s ease, border-color .22s ease, box-shadow .22s ease, background .22s ease;
+    }
+    .sim2-node b { display: block; margin-bottom: .18rem; font-size: .8rem; }
+    .sim2-node span { display: block; color: var(--muted); font-size: .72rem; line-height: 1.35; }
+    .sim2-node.active {
+      opacity: 1;
+      transform: scale(1);
+      border-color: var(--primary);
+      background: color-mix(in srgb, var(--primary) 8%, var(--surface));
+      box-shadow: 0 0 0 4px color-mix(in srgb, var(--primary) 10%, transparent);
+    }
+    .sim2-node.complete { opacity: .84; border-color: var(--accent); }
+    .sim2-node.decision.active { border-color: var(--warning); box-shadow: 0 0 0 4px color-mix(in srgb, var(--warning) 12%, transparent); }
+    .sim2-arrow {
+      color: var(--muted);
+      font-size: .9rem;
+      line-height: 1;
+    }
+    .sim2-branch-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: .7rem;
+      margin-top: .85rem;
+    }
+    .sim2-branch {
+      display: grid;
+      align-content: start;
+      gap: .38rem;
+      padding: .7rem;
+      border: 1px dashed var(--line);
+      border-radius: 17px;
+      background: color-mix(in srgb, var(--bg) 92%, transparent);
+      opacity: .24;
+      transform: scale(.985);
+      transition: opacity .25s ease, transform .25s ease, border-color .25s ease, background .25s ease;
+    }
+    .sim2-branch.selected {
+      opacity: 1;
+      transform: scale(1);
+      border-style: solid;
+    }
+    .sim2-branch.regulated.selected { border-color: var(--success); background: color-mix(in srgb, var(--success-soft) 70%, var(--surface)); }
+    .sim2-branch.protest.selected { border-color: var(--warning); background: color-mix(in srgb, var(--warning-soft) 70%, var(--surface)); }
+    .sim2-branch.withdrawal.selected { border-color: var(--primary); background: color-mix(in srgb, var(--primary) 7%, var(--surface)); }
+    .sim2-branch.crisis.selected {
+      border-color: var(--danger);
+      background: color-mix(in srgb, var(--danger-soft) 76%, var(--surface));
+      animation: crisisPulse 1.8s ease-in-out infinite;
+    }
+    @keyframes crisisPulse {
+      50% { box-shadow: 0 0 0 5px color-mix(in srgb, var(--danger) 10%, transparent); }
+    }
+    .sim2-branch header {
+      min-height: 3.4rem;
+      padding-bottom: .35rem;
+      border-bottom: 1px solid var(--line);
+    }
+    .sim2-branch header strong { display: block; font-size: .8rem; }
+    .sim2-branch header span { color: var(--muted); font-size: .66rem; line-height: 1.25; }
+    .sim2-branch .sim2-node {
+      width: 100%;
+      min-height: 76px;
+    }
+    .sim2-lower-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: .75rem;
+    }
+    .sim2-narrative, .sim2-arousal-chart, .sim2-log-wrap {
+      padding: .9rem;
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      background: var(--surface);
+    }
+    .sim2-narrative h4, .sim2-arousal-chart h4, .sim2-log-wrap h4 { margin: 0 0 .45rem; }
+    .sim2-narrative > p { margin: 0; color: var(--muted); font-size: .82rem; }
+    .sim2-comparison {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: .45rem;
+      margin-top: .7rem;
+    }
+    .sim2-comparison div {
+      padding: .55rem;
+      border-radius: 11px;
+      background: var(--surface-2);
+      color: var(--muted);
+      font-size: .68rem;
+    }
+    .sim2-comparison strong { display: block; color: var(--text); margin-bottom: .15rem; }
+    .sim2-arousal-chart svg {
+      width: 100%;
+      height: auto;
+      min-height: 150px;
+    }
+    .sim2-arousal-chart line { stroke: var(--line); stroke-width: 2; }
+    .sim2-arousal-chart polyline { stroke: var(--danger); stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; }
+    .sim2-arousal-chart circle { fill: var(--surface); stroke: var(--danger); stroke-width: 3; }
+    .sim2-arousal-chart text { fill: var(--muted); font-size: 11px; }
+    .sim2-safety {
+      display: none;
+      grid-template-columns: .9fr 1.1fr;
+      gap: .8rem;
+      padding: 1rem;
+      border: 1px solid var(--danger);
+      border-left-width: 6px;
+      border-radius: 16px;
+      background: var(--danger-soft);
+    }
+    .sim2-safety.visible { display: grid; }
+    .sim2-safety p { margin: .35rem 0 0; }
+    .sim2-safety ul { margin: 0; }
+    .sim2-log {
+      max-height: 180px;
+      overflow: auto;
+    }
+    .sim2-log-entry {
+      display: grid;
+      grid-template-columns: 2rem 1fr;
+      gap: .55rem;
+      padding: .42rem 0;
+      border-bottom: 1px solid var(--line);
+      color: var(--muted);
+      font-size: .72rem;
+    }
+    .sim2-log-entry:last-child { border-bottom: 0; }
+    .sim2-log-entry b {
+      width: 1.6rem;
+      height: 1.6rem;
+      display: grid;
+      place-items: center;
+      border-radius: 50%;
+      background: var(--surface-2);
+      color: var(--primary);
+    }
+    .sim2-disclaimer {
+      padding: 1rem 1.2rem;
+      border-top: 1px solid var(--line);
+      background: var(--surface-2);
+      color: var(--muted);
+      font-size: .82rem;
+    }
+    @media (max-width: 1100px) {
+      .sim2-layout { grid-template-columns: 1fr; }
+      .sim2-controls { position: static; }
+    }
+    @media (max-width: 760px) {
+      .sim2-head { flex-direction: column; }
+      .sim2-auto-panel { justify-items: start; }
+      .sim2-state-dashboard, .sim2-branch-grid, .sim2-lower-grid { grid-template-columns: 1fr; }
+      .sim2-safety { grid-template-columns: 1fr; }
+    }
+    @media (max-width: 520px) {
+      .sim2-buttons { grid-template-columns: 1fr; }
+      .sim2-buttons .full { grid-column: auto; }
+      .sim2-comparison { grid-template-columns: 1fr; }
+    }
+
   </style>
 </head>
 <body>
@@ -847,7 +1988,10 @@
         <a href="#epidemiologia">Epidemiologia i przebieg</a>
         <a href="#cechy">Cechy i mechanizmy</a>
         <a href="#przyczyny">Przyczyny</a>
+        <a href="#symulator-zachowania">Symulator dynamiki</a>
         <a href="#diagnoza">Diagnoza</a>
+        <a href="#narzedzia-diagnostyczne">Testy diagnostyczne</a>
+        <a href="#test-przesiewowy">Test edukacyjny</a>
         <a href="#roznicowanie">Różnicowanie</a>
         <a href="#leczenie">Proces leczenia</a>
         <a href="#terapie">Metody psychoterapii</a>
@@ -1038,8 +2182,247 @@
       <div class="note"><strong>Molestowanie seksualne w dzieciństwie:</strong> zwiększa ryzyko wielu problemów, w tym PTSD, depresji, dysocjacji, uzależnień i BPD. Nie należy automatycznie redukować wszystkich późniejszych trudności do jednej diagnozy ani wymuszać szczegółowego opowiadania o traumie.</div>
     </section>
 
+
+    <section class="section searchable" id="symulator-zachowania">
+      <div class="section-number">07 · Symulator edukacyjny</div>
+      <h2>Symulator dynamiki emocjonalnej, zachowania i sprzężeń zwrotnych</h2>
+      <p>Model przedstawia kilka możliwych ścieżek reakcji na bodziec interpersonalny: regulację, protest więzi, wycofanie/dysocjację oraz kryzys wysokiego ryzyka. Skrajne reakcje są pokazane po to, aby wyjaśnić momenty wymagające granic i profesjonalnej pomocy, a nie jako zachowania typowe dla każdej osoby z BPD.</p>
+
+      <div class="behavior-sim-v2" id="behaviorSimulatorV2">
+        <header class="sim2-head">
+          <div>
+            <span class="sim2-kicker">Interaktywny model dydaktyczny</span>
+            <h3>Od sygnału odrzucenia do czterech możliwych ścieżek</h3>
+            <p>Tryb auto odtwarza kolejne scenariusze, przechodzi przez całe drzewo i rozpoczyna następną symulację w pętli.</p>
+          </div>
+          <div class="sim2-auto-panel">
+            <label class="auto-switch">
+              <span>Tryb auto</span>
+              <input type="checkbox" id="sim2Auto" checked>
+              <span class="auto-switch-track" aria-hidden="true"></span>
+            </label>
+            <label class="sim2-speed">Tempo
+              <select id="sim2Speed" aria-label="Tempo automatycznej symulacji">
+                <option value="1900">Wolne</option>
+                <option value="1150" selected>Normalne</option>
+                <option value="650">Szybkie</option>
+              </select>
+            </label>
+          </div>
+        </header>
+
+        <div class="sim2-layout">
+          <aside class="sim2-controls">
+            <h4>Konfiguracja sytuacji</h4>
+
+            <label class="sim2-control">
+              <span>Bodziec interpersonalny</span>
+              <select id="sim2Trigger">
+                <option value="silence">Brak odpowiedzi na wiadomość</option>
+                <option value="space">Partner prosi o przestrzeń</option>
+                <option value="criticism">Krytyka lub rozczarowanie</option>
+                <option value="cancel">Odwołanie wspólnych planów</option>
+                <option value="jealousy">Niejednoznaczny sygnał zazdrości</option>
+                <option value="breakup">Wzmianka o możliwym rozstaniu</option>
+                <option value="intimacy">Wycofanie z bliskości seksualnej</option>
+                <option value="neutral">Neutralne zdarzenie</option>
+              </select>
+            </label>
+
+            <label class="sim2-control">
+              <span>Reakcja drugiej osoby</span>
+              <select id="sim2PartnerResponse">
+                <option value="validate">Walidacja + jasna granica + czas powrotu</option>
+                <option value="silent">Milczenie lub zniknięcie bez informacji</option>
+                <option value="counter">Kontratak, wyśmianie lub zawstydzenie</option>
+                <option value="rescue">Natychmiastowe ustępowanie pod presją</option>
+                <option value="inconsistent">Niespójne zapewnienia i wycofanie</option>
+                <option value="safety">Spokojna procedura bezpieczeństwa</option>
+              </select>
+            </label>
+
+            <div class="sim2-slider">
+              <label for="sim2Sensitivity"><span>Wrażliwość na odrzucenie</span><output id="sim2SensitivityOut">8</output></label>
+              <input id="sim2Sensitivity" type="range" min="0" max="10" value="8">
+            </div>
+            <div class="sim2-slider">
+              <label for="sim2Stress"><span>Stres, zmęczenie i przeciążenie</span><output id="sim2StressOut">8</output></label>
+              <input id="sim2Stress" type="range" min="0" max="10" value="8">
+            </div>
+            <div class="sim2-slider">
+              <label for="sim2Trauma"><span>Aktywacja wspomnień traumatycznych</span><output id="sim2TraumaOut">5</output></label>
+              <input id="sim2Trauma" type="range" min="0" max="10" value="5">
+            </div>
+            <div class="sim2-slider">
+              <label for="sim2Disinhibition"><span>Rozhamowanie: alkohol, substancje, brak snu</span><output id="sim2DisinhibitionOut">2</output></label>
+              <input id="sim2Disinhibition" type="range" min="0" max="10" value="2">
+            </div>
+            <div class="sim2-slider">
+              <label for="sim2Skills"><span>Umiejętności regulacji i mentalizacji</span><output id="sim2SkillsOut">4</output></label>
+              <input id="sim2Skills" type="range" min="0" max="10" value="4">
+            </div>
+            <div class="sim2-slider">
+              <label for="sim2Support"><span>Bezpieczne wsparcie i przewidywalność</span><output id="sim2SupportOut">5</output></label>
+              <input id="sim2Support" type="range" min="0" max="10" value="5">
+            </div>
+
+            <h4>Interwencje w punkcie decyzyjnym</h4>
+            <div class="sim2-interventions" id="sim2Interventions">
+              <button type="button" data-effect="grounding">Uziemienie i STOP</button>
+              <button type="button" data-effect="validation">Walidacja bez kapitulacji</button>
+              <button type="button" data-effect="pause">Przerwa z godziną powrotu</button>
+              <button type="button" data-effect="remove">Odcięcie substancji i ryzyka</button>
+              <button type="button" data-effect="professional">Kontakt z profesjonalną pomocą</button>
+            </div>
+
+            <div class="sim2-buttons">
+              <button class="btn primary" type="button" id="sim2Start">Od początku</button>
+              <button class="btn" type="button" id="sim2Prev">Poprzedni</button>
+              <button class="btn" type="button" id="sim2Next">Następny</button>
+              <button class="btn" type="button" id="sim2Random">Losowy scenariusz</button>
+              <button class="btn full" type="button" id="sim2Reset">Ustawienia początkowe</button>
+            </div>
+            <p class="sim2-mode-note" id="sim2ModeNote">Tryb auto jest aktywny. Ręczna ingerencja automatycznie go wyłącza.</p>
+          </aside>
+
+          <div class="sim2-workspace">
+            <div class="sim2-statusbar">
+              <div>
+                <span class="sim2-step" id="sim2Step">Krok 1 z 8</span>
+                <strong id="sim2ScenarioName">Brak odpowiedzi na wiadomość</strong>
+              </div>
+              <span class="sim2-route neutral" id="sim2Route">ścieżka jeszcze nieustalona</span>
+            </div>
+
+            <div class="sim2-state-dashboard">
+              <div class="sim2-state-card">
+                <span>Alarm emocjonalny</span>
+                <strong id="sim2ThreatValue">0,0</strong>
+                <div class="sim2-meter"><i id="sim2ThreatBar"></i></div>
+              </div>
+              <div class="sim2-state-card">
+                <span>Zdolność regulacji</span>
+                <strong id="sim2CapacityValue">0,0</strong>
+                <div class="sim2-meter capacity"><i id="sim2CapacityBar"></i></div>
+              </div>
+              <div class="sim2-state-card">
+                <span>Ryzyko utraty kontroli</span>
+                <strong id="sim2CrisisValue">0,0</strong>
+                <div class="sim2-meter crisis"><i id="sim2CrisisBar"></i></div>
+              </div>
+              <div class="sim2-state-card">
+                <span>Kontakt z rzeczywistością</span>
+                <strong id="sim2MentalizationValue">0,0</strong>
+                <div class="sim2-meter mentalization"><i id="sim2MentalizationBar"></i></div>
+              </div>
+            </div>
+
+            <div class="sim2-tree" aria-live="polite">
+              <div class="sim2-main-chain">
+                <article class="sim2-node active" data-step="0">
+                  <b>1. Bodziec</b>
+                  <span id="sim2TriggerText">Partner nie odpowiada od dwóch godzin.</span>
+                </article>
+                <span class="sim2-arrow">↓</span>
+                <article class="sim2-node" data-step="1">
+                  <b>2. Automatyczna interpretacja</b>
+                  <span id="sim2InterpretationText">Znaczenie sytuacji zostanie oszacowane.</span>
+                </article>
+                <span class="sim2-arrow">↓</span>
+                <article class="sim2-node" data-step="2">
+                  <b>3. Reakcja ciała i emocji</b>
+                  <span id="sim2BodyText">Pobudzenie autonomiczne i dominująca emocja.</span>
+                </article>
+                <span class="sim2-arrow">↓</span>
+                <article class="sim2-node decision" data-step="3">
+                  <b>4. Bramka decyzyjna</b>
+                  <span id="sim2DecisionText">Porównanie alarmu, zasobów, traumy i rozhamowania.</span>
+                </article>
+              </div>
+
+              <div class="sim2-branch-grid">
+                <article class="sim2-branch regulated" data-route="regulated">
+                  <header><strong>Regulacja i mentalizacja</strong><span>emocja pozostaje, ale nie kieruje całym działaniem</span></header>
+                  <div class="sim2-node branch-node" data-step="4"><b>5. Strategia</b><span id="sim2RegStrategy">Pauza, nazwanie emocji i sprawdzenie faktów.</span></div>
+                  <div class="sim2-node branch-node" data-step="5"><b>6. Zachowanie</b><span id="sim2RegBehavior">Jedna konkretna wiadomość bez oskarżenia.</span></div>
+                  <div class="sim2-node branch-node" data-step="6"><b>7. Sprzężenie zwrotne</b><span id="sim2RegFeedback">Mniejsza presja zwiększa szansę spokojnej odpowiedzi.</span></div>
+                  <div class="sim2-node branch-node" data-step="7"><b>8. Wynik</b><span id="sim2RegOutcome">Emocja stopniowo opada, możliwa jest rozmowa naprawcza.</span></div>
+                </article>
+
+                <article class="sim2-branch protest" data-route="protest">
+                  <header><strong>Protest więzi i eskalacja</strong><span>pilna próba odzyskania bliskości lub kontroli</span></header>
+                  <div class="sim2-node branch-node" data-step="4"><b>5. Strategia krótkiej ulgi</b><span id="sim2ProtestStrategy">Natychmiastowe wymuszenie pewności.</span></div>
+                  <div class="sim2-node branch-node" data-step="5"><b>6. Możliwe zachowanie</b><span id="sim2ProtestBehavior">Seria wiadomości, oskarżenia, ultimatum lub impulsywne zerwanie.</span></div>
+                  <div class="sim2-node branch-node" data-step="6"><b>7. Sprzężenie zwrotne</b><span id="sim2ProtestFeedback">Ustępowanie pod presją może nieintencjonalnie utrwalać eskalację.</span></div>
+                  <div class="sim2-node branch-node" data-step="7"><b>8. Wynik</b><span id="sim2ProtestOutcome">Chwilowa ulga, następnie konflikt, wstyd i większy lęk.</span></div>
+                </article>
+
+                <article class="sim2-branch withdrawal" data-route="withdrawal">
+                  <header><strong>Wycofanie i dysocjacja</strong><span>odłączenie zmniejsza kontakt z bólem, ale także z relacją</span></header>
+                  <div class="sim2-node branch-node" data-step="4"><b>5. Strategia ochronna</b><span id="sim2WithdrawalStrategy">Odcięcie od emocji, ciała lub kontaktu.</span></div>
+                  <div class="sim2-node branch-node" data-step="5"><b>6. Możliwe zachowanie</b><span id="sim2WithdrawalBehavior">Zamrożenie, zniknięcie, blokowanie kontaktu lub nagła obojętność.</span></div>
+                  <div class="sim2-node branch-node" data-step="6"><b>7. Sprzężenie zwrotne</b><span id="sim2WithdrawalFeedback">Presja i przesłuchiwanie mogą zwiększać odłączenie.</span></div>
+                  <div class="sim2-node branch-node" data-step="7"><b>8. Wynik</b><span id="sim2WithdrawalOutcome">Konflikt zostaje odroczony, lecz rośnie dystans i dezorientacja.</span></div>
+                </article>
+
+                <article class="sim2-branch crisis" data-route="crisis">
+                  <header><strong>Kryzys wysokiego ryzyka</strong><span>konieczne jest przejście z dyskusji do bezpieczeństwa</span></header>
+                  <div class="sim2-node branch-node" data-step="4"><b>5. Utrata elastyczności</b><span id="sim2CrisisStrategy">Działanie ma natychmiast przerwać nieznośny stan.</span></div>
+                  <div class="sim2-node branch-node" data-step="5"><b>6. Skrajne możliwe zachowania</b><span id="sim2CrisisBehavior">Groźby, niszczenie rzeczy, ryzykowna jazda lub wydatki, użycie substancji, agresja albo zachowania samouszkadzające.</span></div>
+                  <div class="sim2-node branch-node" data-step="6"><b>7. Odpowiedź otoczenia</b><span id="sim2CrisisFeedback">Nie negocjuje się relacji pod presją; ogranicza się ryzyko i uruchamia pomoc.</span></div>
+                  <div class="sim2-node branch-node" data-step="7"><b>8. Wynik bezpieczeństwa</b><span id="sim2CrisisOutcome">Przy aktualnym zamiarze samobójczym, przemocy lub poważnym samouszkodzeniu potrzebna jest pilna interwencja.</span></div>
+                </article>
+              </div>
+            </div>
+
+            <div class="sim2-lower-grid">
+              <section class="sim2-narrative">
+                <h4>Aktualny krok</h4>
+                <p id="sim2Narrative">Symulacja rozpoczyna się od bodźca. Zachowanie nie jest jeszcze przesądzone.</p>
+                <div class="sim2-comparison" id="sim2Comparison"></div>
+              </section>
+
+              <section class="sim2-arousal-chart">
+                <h4>Przebieg pobudzenia</h4>
+                <svg id="sim2Chart" viewBox="0 0 520 170" role="img" aria-label="Wykres przebiegu pobudzenia podczas symulacji">
+                  <line x1="32" y1="145" x2="500" y2="145"></line>
+                  <line x1="32" y1="20" x2="32" y2="145"></line>
+                  <polyline id="sim2ChartLine" points="" fill="none"></polyline>
+                  <g id="sim2ChartPoints"></g>
+                  <text x="35" y="163">bodziec</text>
+                  <text x="450" y="163">wynik</text>
+                </svg>
+              </section>
+            </div>
+
+            <section class="sim2-safety" id="sim2Safety">
+              <div>
+                <strong>Procedura bezpieczeństwa aktywowana</strong>
+                <p id="sim2SafetyText">Model wykrył konfigurację sprzyjającą skrajnej utracie kontroli. Priorytetem jest bezpieczeństwo, nie wygranie sporu.</p>
+              </div>
+              <ul>
+                <li>przerwij eskalującą rozmowę i zachowaj fizyczny dystans;</li>
+                <li>nie zgadzaj się na warunki stawiane pod groźbą przemocy lub samouszkodzenia;</li>
+                <li>usuń dostęp do pojazdu, substancji lub niebezpiecznych przedmiotów tylko wtedy, gdy można to zrobić bezpiecznie;</li>
+                <li>przy bezpośrednim zagrożeniu życia lub zdrowia zadzwoń pod 112 albo 999.</li>
+              </ul>
+            </section>
+
+            <section class="sim2-log-wrap">
+              <h4>Dziennik drzewa decyzyjnego</h4>
+              <div class="sim2-log" id="sim2Log"></div>
+            </section>
+          </div>
+        </div>
+
+        <footer class="sim2-disclaimer">
+          <strong>Jak interpretować model:</strong> „skrajne zachowania” są możliwymi reakcjami kryzysowymi, a nie definicją BPD. Mogą występować także w innych zaburzeniach, pod wpływem substancji, przemocy lub ostrego kryzysu. BPD nie usprawiedliwia agresji, przymusu, niszczenia mienia, zdrady ani gróźb.
+        </footer>
+      </div>
+    </section>
+
     <section class="section searchable" id="diagnoza">
-      <div class="section-number">07 · Diagnostyka</div>
+      <div class="section-number">08 · Diagnostyka</div>
       <h2>Jak wygląda rzetelna diagnoza?</h2>
       <div class="phase-line">
         <div class="phase"><strong>1. Konsultacja</strong><span>Powód zgłoszenia, cele, objawy, relacje, praca, zdrowie somatyczne i historia leczenia.</span></div>
@@ -1062,8 +2445,227 @@
       <p>W ICD-11 klinicysta najpierw określa, czy występuje zaburzenie osobowości i jakie jest jego nasilenie: łagodne, umiarkowane lub ciężkie. Następnie może opisać dominujące domeny cech oraz dodać kwalifikator „wzorzec borderline”.</p>
     </section>
 
+
+    <section class="section searchable" id="narzedzia-diagnostyczne">
+      <div class="section-number">09 · Narzędzia diagnostyczne</div>
+      <h2>Testy, wywiady i skale stosowane przy BPD</h2>
+      <p>Nie istnieje pojedynczy „test na borderline”, który samodzielnie potwierdza diagnozę. Narzędzia pełnią różne funkcje: jedne pomagają wybrać osoby wymagające dalszej oceny, inne systematyzują wywiad diagnostyczny, a jeszcze inne mierzą zmianę objawów podczas leczenia.</p>
+
+      <div class="diagnostic-path" aria-label="Droga od przesiewu do monitorowania leczenia">
+        <div class="path-step"><strong>1. Przesiew</strong><small>Krótki kwestionariusz wskazuje, czy pogłębiona ocena może być zasadna.</small></div>
+        <div class="path-step"><strong>2. Wywiad kliniczny</strong><small>Historia rozwoju, relacji, pracy, traum, zdrowia i współwystępujących objawów.</small></div>
+        <div class="path-step"><strong>3. Wywiad ustrukturyzowany</strong><small>Systematyczna ocena kryteriów, ich trwałości i obecności w różnych kontekstach.</small></div>
+        <div class="path-step"><strong>4. Różnicowanie</strong><small>Porównanie z PTSD/C-PTSD, CHAD, ADHD, ASD, depresją i wpływem substancji.</small></div>
+        <div class="path-step"><strong>5. Monitorowanie</strong><small>Skale nasilenia pomagają oceniać przebieg terapii, nie zastępując rozmowy klinicznej.</small></div>
+      </div>
+
+      <div class="assessment-filter" id="assessmentFilter" aria-label="Filtr narzędzi diagnostycznych">
+        <button type="button" class="active" data-filter="all">Wszystkie</button>
+        <button type="button" data-filter="diagnosis">Diagnoza</button>
+        <button type="button" data-filter="screening">Przesiew</button>
+        <button type="button" data-filter="monitoring">Monitorowanie</button>
+        <button type="button" data-filter="dimensional">Ocena wymiarowa</button>
+      </div>
+
+      <div class="assessment-grid" id="assessmentGrid">
+        <article class="assessment-card" data-types="diagnosis" style="--card-accent:var(--primary)">
+          <div class="assessment-meta"><span>wywiad półustrukturyzowany</span><span>DSM-5</span><span>klinicyści</span></div>
+          <h3>SCID-5-PD</h3>
+          <p><strong>Structured Clinical Interview for DSM-5 Personality Disorders</strong> systematycznie ocenia dziesięć zaburzeń osobowości DSM-5 oraz inne określone zaburzenie osobowości. Klinicysta dopytuje o przykłady, początek, trwałość, kontekst i wpływ cechy na funkcjonowanie.</p>
+          <div class="assessment-facts">
+            <div class="assessment-fact"><strong>Cel</strong><span>potwierdzenie lub wykluczenie rozpoznania</span></div>
+            <div class="assessment-fact"><strong>Czas</strong><span>często 1–2 wizyty, zależnie od zakresu</span></div>
+            <div class="assessment-fact"><strong>Wynik</strong><span>ocena kryteriów przez specjalistę</span></div>
+          </div>
+          <p class="muted"><small>Narzędzie jest chronionym, profesjonalnym wywiadem. Sam kwestionariusz wstępny nie stanowi diagnozy.</small></p>
+        </article>
+
+        <article class="assessment-card" data-types="diagnosis" style="--card-accent:var(--accent)">
+          <div class="assessment-meta"><span>wywiad półustrukturyzowany</span><span>ICD/DSM</span><span>międzynarodowy</span></div>
+          <h3>IPDE</h3>
+          <p><strong>International Personality Disorder Examination</strong> powstał w programie WHO i amerykańskich instytucji zdrowia. Obejmuje moduły zgodne z klasyfikacjami ICD i DSM oraz wymaga oceny długotrwałego wzorca, nie wyłącznie aktualnego kryzysu.</p>
+          <div class="assessment-facts">
+            <div class="assessment-fact"><strong>Cel</strong><span>diagnoza zaburzeń osobowości</span></div>
+            <div class="assessment-fact"><strong>Format</strong><span>wywiad oraz opcjonalny przesiew</span></div>
+            <div class="assessment-fact"><strong>Ograniczenie</strong><span>starsze moduły odnoszą się do wcześniejszych klasyfikacji</span></div>
+          </div>
+        </article>
+
+        <article class="assessment-card" data-types="screening" style="--card-accent:var(--warning)">
+          <div class="assessment-meta"><span>samoopis</span><span>10 odpowiedzi tak/nie</span><span>kilka minut</span></div>
+          <h3>MSI-BPD</h3>
+          <p><strong>McLean Screening Instrument for Borderline Personality Disorder</strong> jest krótkim narzędziem przesiewowym opartym na obszarach kryteriów BPD. Wynik wskazuje potrzebę dalszej oceny, nie potwierdza zaburzenia.</p>
+          <div class="assessment-facts">
+            <div class="assessment-fact"><strong>Zakres</strong><span>0–10 punktów</span></div>
+            <div class="assessment-fact"><strong>Próg badawczy</strong><span>często ≥7 punktów</span></div>
+            <div class="assessment-fact"><strong>Badanie pierwotne</strong><span>czułość 81%, swoistość 85%</span></div>
+          </div>
+          <p class="muted"><small>Parametry 81% i 85% pochodzą z pierwotnej próby klinicznej. Trafność i optymalny próg zmieniają się zależnie od wieku, kraju i populacji.</small></p>
+        </article>
+
+        <article class="assessment-card" data-types="monitoring" style="--card-accent:var(--primary-2)">
+          <div class="assessment-meta"><span>samoopis</span><span>23 pozycje</span><span>ostatni tydzień</span></div>
+          <h3>BSL-23</h3>
+          <p><strong>Borderline Symptom List – 23</strong> mierzy subiektywne nasilenie objawów charakterystycznych dla BPD w ostatnim tygodniu. Odpowiedzi są zwykle kodowane od 0 do 4, a głównym wynikiem jest średnia pozycji.</p>
+          <div class="assessment-facts">
+            <div class="assessment-fact"><strong>Cel</strong><span>nasilenie i zmiana w czasie</span></div>
+            <div class="assessment-fact"><strong>Okno</strong><span>7 dni</span></div>
+            <div class="assessment-fact"><strong>Nie służy do</strong><span>samodzielnej diagnozy BPD</span></div>
+          </div>
+          <p class="muted"><small>Wynik może wzrosnąć podczas ostrego kryzysu, dlatego powinien być interpretowany wraz z przebiegiem funkcjonowania.</small></p>
+        </article>
+
+        <article class="assessment-card" data-types="monitoring" style="--card-accent:var(--accent)">
+          <div class="assessment-meta"><span>ocena klinicysty</span><span>9 domen</span><span>ostatni tydzień</span></div>
+          <h3>ZAN-BPD</h3>
+          <p><strong>Zanarini Rating Scale for Borderline Personality Disorder</strong> ocenia nasilenie dziewięciu obszarów kryterialnych w skali 0–4. Suma wynosi od 0 do 36 i pozwala monitorować zmianę podczas terapii lub badania klinicznego.</p>
+          <div class="assessment-facts">
+            <div class="assessment-fact"><strong>Zakres</strong><span>0–36 punktów</span></div>
+            <div class="assessment-fact"><strong>Okno</strong><span>7 dni</span></div>
+            <div class="assessment-fact"><strong>Wersje</strong><span>wywiad i późniejszy samoopis</span></div>
+          </div>
+        </article>
+
+        <article class="assessment-card" data-types="monitoring diagnosis" style="--card-accent:var(--danger)">
+          <div class="assessment-meta"><span>wywiad półustrukturyzowany</span><span>częstość i nasilenie</span><span>3 miesiące</span></div>
+          <h3>BPDSI-IV</h3>
+          <p><strong>Borderline Personality Disorder Severity Index – IV</strong> szczegółowo ocenia częstotliwość i nasilenie przejawów BPD w określonym okresie. Jest stosowany m.in. w badaniach wyników leczenia.</p>
+          <div class="assessment-facts">
+            <div class="assessment-fact"><strong>Cel</strong><span>szczegółowy profil nasilenia</span></div>
+            <div class="assessment-fact"><strong>Okno</strong><span>zwykle ostatnie 3 miesiące</span></div>
+            <div class="assessment-fact"><strong>Wymaga</strong><span>przeszkolonego prowadzącego</span></div>
+          </div>
+        </article>
+
+        <article class="assessment-card" data-types="dimensional" style="--card-accent:var(--warning)">
+          <div class="assessment-meta"><span>samoopis</span><span>cechy osobowości</span><span>AMPD DSM-5</span></div>
+          <h3>PID-5</h3>
+          <p><strong>Personality Inventory for DSM-5</strong> nie jest testem specyficznym dla BPD. Mierzy patologiczne domeny i fasety cech, np. negatywną emocjonalność, rozhamowanie czy antagonizm, wspierając wymiarową formulację osobowości.</p>
+          <div class="assessment-facts">
+            <div class="assessment-fact"><strong>Cel</strong><span>profil cech, nie etykieta</span></div>
+            <div class="assessment-fact"><strong>Zastosowanie</strong><span>model alternatywny DSM-5</span></div>
+            <div class="assessment-fact"><strong>Ograniczenie</strong><span>nie rozstrzyga samodzielnie BPD</span></div>
+          </div>
+        </article>
+
+        <article class="assessment-card" data-types="monitoring" style="--card-accent:var(--success)">
+          <div class="assessment-meta"><span>krótka skala</span><span>monitorowanie</span><span>praktyka kliniczna</span></div>
+          <h3>BEST</h3>
+          <p><strong>Borderline Evaluation of Severity over Time</strong> jest krótką skalą przeznaczoną do śledzenia zmian objawów i zachowań podczas leczenia. Może ułatwiać rozmowę o trendzie, ale wynik nie powinien zastępować oceny ryzyka ani funkcjonowania.</p>
+          <div class="assessment-facts">
+            <div class="assessment-fact"><strong>Cel</strong><span>powtarzalny pomiar</span></div>
+            <div class="assessment-fact"><strong>Zaletą jest</strong><span>krótki czas wypełnienia</span></div>
+            <div class="assessment-fact"><strong>Nie służy do</strong><span>ustalania diagnozy w izolacji</span></div>
+          </div>
+        </article>
+      </div>
+
+      <h3>Jak interpretować czułość i swoistość?</h3>
+      <div class="grid-2">
+        <div class="card">
+          <h4>Czułość</h4>
+          <p>Odsetek osób rzeczywiście mających zaburzenie, które test poprawnie oznacza jako wymagające dalszej oceny. Wysoka czułość zmniejsza liczbę wyników fałszywie ujemnych.</p>
+        </div>
+        <div class="card">
+          <h4>Swoistość</h4>
+          <p>Odsetek osób bez danego zaburzenia, które test poprawnie oznacza jako ujemne. Wysoka swoistość zmniejsza liczbę wyników fałszywie dodatnich.</p>
+        </div>
+      </div>
+      <div class="warning"><strong>Nawet dobry przesiew może się mylić.</strong> Przy rzadkim zaburzeniu część wyników dodatnich będzie fałszywa. Wynik zależy też od wieku, płci, traumy, aktualnego kryzysu, sposobu zadania pytań i obecności innych zaburzeń.</div>
+    </section>
+
+    <section class="section searchable" id="test-przesiewowy">
+      <div class="section-number">10 · Edukacyjny test przesiewowy</div>
+      <h2>Autorski auto-przegląd objawów BPD-EDU</h2>
+      <p>Poniższy moduł pomaga uporządkować doświadczenia związane z dziewięcioma obszarami BPD oraz trzema warunkami diagnostycznymi: trwałością, obecnością w wielu kontekstach i wpływem na funkcjonowanie. <strong>Nie jest zwalidowanym narzędziem psychometrycznym</strong>, nie odtwarza MSI-BPD i nie może potwierdzić ani wykluczyć diagnozy.</p>
+
+      <div class="screening-shell" id="bpdEduTest">
+        <div class="screening-head">
+          <h3>BPD-EDU: 12 pytań, około 4–6 minut</h3>
+          <p class="muted">Odpowiadaj wyłącznie o sobie, biorąc pod uwagę powtarzalny wzorzec z ostatnich lat, a nie pojedynczy konflikt lub najgorszy dzień.</p>
+          <div class="privacy-row">
+            <span>✓ odpowiedzi pozostają w przeglądarce</span>
+            <span>✓ brak wysyłania i zapisywania danych</span>
+            <span>✓ możliwość pominięcia testu</span>
+          </div>
+        </div>
+
+        <div class="screening-body">
+          <div class="screen-intro active" id="screenIntro">
+            <div class="note"><strong>Przed rozpoczęciem:</strong> silne emocje, trauma, ADHD, ASD, depresja, CHAD, substancje lub przemoc w relacji mogą dawać podobne objawy. Wynik mówi jedynie, ile obszarów warto omówić ze specjalistą.</div>
+            <label class="screen-consent">
+              <input type="checkbox" id="screenConsent">
+              <span>Rozumiem, że jest to edukacyjny auto-przegląd, a nie diagnoza. Nie będę używać wyniku do oceniania innej osoby.</span>
+            </label>
+            <button class="btn primary" type="button" id="startScreen" disabled>Rozpocznij test</button>
+          </div>
+
+          <div class="screen-question" id="screenQuestion">
+            <div class="screen-counter">
+              <span id="screenStepLabel">Pytanie 1 z 12</span>
+              <span id="screenAnswered">0 odpowiedzi</span>
+            </div>
+            <div class="screen-progress" aria-hidden="true"><span id="screenProgressBar"></span></div>
+            <span class="question-domain" id="questionDomain">Relacje</span>
+            <div class="question-text" id="questionText"></div>
+            <p class="question-help" id="questionHelp"></p>
+            <div class="answer-grid" id="answerGrid">
+              <button class="answer-btn" type="button" data-value="0">Nie<small>nie opisuje mnie lub zdarza się wyjątkowo</small></button>
+              <button class="answer-btn" type="button" data-value="0.5">Czasami<small>pojawia się, ale nie jest stałym wzorcem</small></button>
+              <button class="answer-btn" type="button" data-value="1">Często<small>powtarza się i ma wyraźne konsekwencje</small></button>
+            </div>
+            <div class="screen-actions">
+              <button class="btn" type="button" id="screenBack">Wstecz</button>
+              <button class="btn primary" type="button" id="screenNext" disabled>Dalej</button>
+            </div>
+          </div>
+
+          <div class="screen-result" id="screenResult" aria-live="polite">
+            <div class="result-hero">
+              <div class="result-ring" id="resultRing" style="--score:0">
+                <div><strong id="resultStrongCount">0</strong><span>silnie zaznaczonych<br>obszarów z 9</span></div>
+              </div>
+              <div>
+                <span class="pill" id="resultPill">Wynik edukacyjny</span>
+                <h3 id="resultTitle">Podsumowanie odpowiedzi</h3>
+                <p id="resultText"></p>
+              </div>
+            </div>
+
+            <div class="screen-risk" id="screenRisk">
+              <strong>Odpowiedź dotycząca samouszkodzeń lub myśli samobójczych wymaga osobnej uwagi.</strong>
+              <p>Wynik całkowity nie określa bezpieczeństwa. Jeżeli istnieje aktualny zamiar, plan, dostęp do środka albo świeże poważne samouszkodzenie, skorzystaj natychmiast z pomocy: 112 lub 999, SOR albo psychiatryczna izba przyjęć. Dalsze informacje znajdują się w <a href="#kryzys">planie kryzysowym</a>.</p>
+            </div>
+
+            <h3>Profil odpowiedzi</h3>
+            <div class="result-profile" id="resultProfile"></div>
+
+            <h3>Warunki, których sam wynik objawów nie zastępuje</h3>
+            <div class="result-gates" id="resultGates"></div>
+
+            <div class="screen-result-grid">
+              <div class="card"><h4>Co wynik może powiedzieć?</h4><p>Wskazuje obszary doświadczeń, które mogą być warte omówienia podczas konsultacji.</p></div>
+              <div class="card"><h4>Czego nie mówi?</h4><p>Nie rozróżnia BPD od PTSD, CHAD, ADHD, ASD, depresji ani reakcji na przemoc.</p></div>
+              <div class="card"><h4>Jaki jest następny krok?</h4><p>Przy wielu trwałych trudnościach: konsultacja u psychologa klinicznego, psychoterapeuty diagnosty lub psychiatry.</p></div>
+            </div>
+
+            <div class="screen-validation">
+              <strong>Status metodologiczny:</strong> BPD-EDU jest autorskim narzędziem dydaktycznym utworzonym dla tej strony. Nie ma norm, walidacji, czułości, swoistości ani klinicznego punktu odcięcia. Wyniku nie należy drukować jako „diagnozy” ani wykorzystywać w decyzjach medycznych, prawnych, pracowniczych lub rodzinnych.
+            </div>
+
+            <div class="screen-actions">
+              <button class="btn" type="button" id="restartScreen">Wypełnij ponownie</button>
+              <a class="btn primary" href="#diagnoza">Jak wygląda profesjonalna diagnoza?</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="danger"><strong>Nie wypełniaj testu za partnerkę lub partnera.</strong> Zachowanie obserwowane podczas konfliktu nie daje dostępu do wewnętrznych przeżyć, historii rozwoju ani diagnozy różnicowej. Testowanie drugiej osoby bez jej zgody może nasilać stygmatyzację i przemoc diagnostyczną.</div>
+    </section>
+
     <section class="section searchable" id="roznicowanie">
-      <div class="section-number">08 · Różnicowanie</div>
+      <div class="section-number">11 · Różnicowanie</div>
       <h2>Z czym najczęściej myli się BPD?</h2>
       <details><summary>BPD a choroba afektywna dwubiegunowa</summary><div>W BPD zmiany emocji często są krótkie, silnie reaktywne na wydarzenia interpersonalne i trwają godziny. W CHAD epizody manii/hipomanii mają wymagany czas trwania, obejmują charakterystyczne zmiany energii, snu, aktywności i funkcjonowania. Oba zaburzenia mogą współwystępować.</div></details>
       <details><summary>BPD a PTSD / C-PTSD</summary><div>Wspólne mogą być dysocjacja, trudności emocjonalne, wstyd i problemy relacyjne. PTSD wymaga związku z traumą i charakterystycznych klastrów objawów. ICD-11 C-PTSD obejmuje dodatkowo trwałe zaburzenia organizacji siebie. Różnicowanie wymaga dokładnej historii urazu i przebiegu objawów.</div></details>
@@ -1073,7 +2675,7 @@
     </section>
 
     <section class="section searchable" id="leczenie">
-      <div class="section-number">09 · Leczenie krok po kroku</div>
+      <div class="section-number">12 · Leczenie krok po kroku</div>
       <h2>Jak przebiega proces psychoterapii?</h2>
       <p>Proces nie jest identyczny u wszystkich. Poniższy model łączy wspólne elementy DBT, MBT, terapii schematów, TFP i GPM oraz rekomendacje APA/NICE.</p>
 
@@ -1119,7 +2721,7 @@
     </section>
 
     <section class="section searchable" id="terapie">
-      <div class="section-number">10 · Psychoterapie</div>
+      <div class="section-number">13 · Psychoterapie</div>
       <h2>Najważniejsze podejścia</h2>
       <p>Przegląd Cochrane obejmujący 75 badań randomizowanych i 4507 uczestników wykazał, że psychoterapia w porównaniu ze standardową opieką zmniejszała nasilenie BPD (SMD −0,52; umiarkowana pewność dowodów). Efekty dla samouszkodzeń, wyników samobójczych i funkcjonowania były mniejsze i o niższej pewności.</p>
       <div class="tabs">
@@ -1173,7 +2775,7 @@
     </section>
 
     <section class="section searchable" id="leki">
-      <div class="section-number">11 · Farmakoterapia</div>
+      <div class="section-number">14 · Farmakoterapia</div>
       <h2>Jaka jest rola leków?</h2>
       <div class="danger"><strong>Nie ma leku, który leczy rdzeń BPD.</strong> NICE odradza stosowanie farmakoterapii specyficznie na BPD lub jego pojedyncze zachowania. APA dopuszcza leki jako dodatek: czasowo, na jasno określony i mierzalny objaw oraz po przeglądzie co najmniej co 6 miesięcy.</div>
       <div class="grid-2">
@@ -1185,7 +2787,7 @@
     </section>
 
     <section class="section searchable" id="trauma">
-      <div class="section-number">12 · Trauma</div>
+      <div class="section-number">15 · Trauma</div>
       <h2>BPD po molestowaniu lub innej traumie</h2>
       <p>Metaanalizy wskazują na silny związek między przeciwnościami dziecięcymi a BPD, ale związek nie jest jednoznaczną przyczynowością. Po wykorzystaniu seksualnym należy równolegle rozważyć PTSD, C-PTSD, depresję, dysocjację, zaburzenia odżywiania, używanie substancji i problemy somatyczne.</p>
       <div class="grid-2">
@@ -1196,7 +2798,7 @@
     </section>
 
     <section class="section searchable" id="zwiazek">
-      <div class="section-number">13 · Relacja partnerska</div>
+      <div class="section-number">16 · Relacja partnerska</div>
       <h2>Codzienne życie w związku z osobą z BPD</h2>
       <p>Diagnoza nie przesądza, że związek będzie toksyczny lub nietrwały. Ryzyko trudności rośnie wtedy, gdy objawy są nasilone, brak leczenia, partnerzy nie mają granic, występują substancje lub przemoc, a kryzysy zastępują zwykłą komunikację.</p>
       <div class="grid-3">
@@ -1283,7 +2885,7 @@
 
 
     <section class="section searchable" id="seks-intymnosc">
-      <div class="section-number">14 · Seks i intymność</div>
+      <div class="section-number">17 · Seks i intymność</div>
       <h2>Seksualność i bliskość u osoby z BPD</h2>
       <p>Seksualność nie jest osobnym kryterium rozpoznania BPD. Impulsywność może jednak dotyczyć zachowań seksualnych, a lęk przed odrzuceniem, niestabilny obraz siebie, dysocjacja, wstyd i przebyta trauma mogą wpływać na pożądanie, zgodę, poczucie bezpieczeństwa oraz satysfakcję. U części osób występuje większa aktywność i ryzyko, u innych unikanie seksu, brak pożądania, trudności z pobudzeniem lub objawy po zbliżeniu. Wiele osób z BPD nie doświadcza żadnego z tych problemów.</p>
 
@@ -1441,7 +3043,7 @@
     </section>
 
     <section class="section searchable" id="terapeuta">
-      <div class="section-number">15 · Granice ról</div>
+      <div class="section-number">18 · Granice ról</div>
       <h2>Dlaczego partner nie powinien być terapeutą?</h2>
       <p>Wsparcie partnerskie opiera się na wzajemności. Psychoterapia jest asymetryczną, profesjonalną relacją z kontraktem, kompetencjami, superwizją i odpowiedzialnością kliniczną. Połączenie tych ról szkodzi obu osobom.</p>
       <div class="grid-3">
@@ -1466,7 +3068,7 @@
     </section>
 
     <section class="section searchable" id="kryzys">
-      <div class="section-number">16 · Bezpieczeństwo</div>
+      <div class="section-number">19 · Bezpieczeństwo</div>
       <h2>Plan kryzysowy</h2>
       <p>Plan powinien powstać przed kryzysem, najlepiej z terapeutą lub psychiatrą. Partner może znać plan, ale nie powinien być jedynym jego elementem.</p>
       <div class="grid-2">
@@ -1487,7 +3089,7 @@
     </section>
 
     <section class="section searchable" id="mity">
-      <div class="section-number">17 · Mity i błędy</div>
+      <div class="section-number">20 · Mity i błędy</div>
       <h2>Najczęstsze nieporozumienia</h2>
       <details><summary>„Osoby z BPD zawsze manipulują”</summary><div>Zachowanie może wpływać na innych i bywać przymuszające, ale intencje są zróżnicowane. Część reakcji jest desperacką, wyuczoną próbą regulacji. Niezależnie od intencji należy nazywać skutki i stawiać granice.</div></details>
       <details><summary>„BPD jest nieuleczalne”</summary><div>Nie. Remisja objawowa jest częsta, a psychoterapia ma potwierdzoną skuteczność. Funkcjonowanie społeczne może wymagać dłuższej pracy.</div></details>
@@ -1498,7 +3100,7 @@
     </section>
 
     <section class="section searchable" id="zrodla">
-      <div class="section-number">18 · Bibliografia</div>
+      <div class="section-number">21 · Bibliografia</div>
       <h2>Wybrane źródła naukowe i wytyczne</h2>
       <ol class="source-list">
         <li>Keepers GA i wsp. <em>The American Psychiatric Association Practice Guideline for the Treatment of Patients With Borderline Personality Disorder.</em> American Journal of Psychiatry, 2024. <a href="https://psychiatryonline.org/doi/full/10.1176/appi.ajp.24181010" target="_blank" rel="noopener">DOI: 10.1176/appi.ajp.24181010</a>.</li>
@@ -1517,6 +3119,12 @@
         <li>Karan E, Niesten IJM, Frankenburg FR, Fitzmaurice GM, Zanarini MC. <em>Prevalence and course of sexual relationship difficulties in recovered and non-recovered patients with borderline personality disorder over 16 years of prospective follow-up.</em> Personality and Mental Health, 2016;10(3):232–243. <a href="https://doi.org/10.1002/pmh.1327" target="_blank" rel="noopener">DOI: 10.1002/pmh.1327</a>.</li>
         <li>Schulte-Herbrüggen O i wsp. <em>Impaired sexual function in patients with borderline personality disorder is determined by history of sexual abuse.</em> Journal of Sexual Medicine, 2009;6(12):3356–3363. <a href="https://pubmed.ncbi.nlm.nih.gov/19686431/" target="_blank" rel="noopener">PMID 19686431</a>.</li>
         <li>Miano A, Dziobek I, Roepke S. <em>Characterizing Couple Dysfunction in Borderline Personality Disorder.</em> Journal of Personality Disorders, 2020;34(2):181–198. <a href="https://pubmed.ncbi.nlm.nih.gov/30179580/" target="_blank" rel="noopener">PMID 30179580</a>.</li>
+        <li>First MB, Williams JBW, Benjamin LS, Spitzer RL. <em>Structured Clinical Interview for DSM-5 Personality Disorders (SCID-5-PD).</em> American Psychiatric Association Publishing, 2016. <a href="https://books.google.com/books/about/Structured_Clinical_Interview_for_DSM_5.html?id=H9VMswEACAAJ" target="_blank" rel="noopener">opis publikacji</a>.</li>
+        <li>Loranger AW i wsp. <em>The International Personality Disorder Examination (IPDE).</em> Narzędzie opracowane w programie WHO/ADAMHA. <a href="https://iris.who.int/bitstream/10665/41912/1/9780521041669.pdf" target="_blank" rel="noopener">podręcznik IPDE</a>.</li>
+        <li>Zanarini MC i wsp. <em>A screening measure for BPD: the McLean Screening Instrument for Borderline Personality Disorder (MSI-BPD).</em> Journal of Personality Disorders, 2003;17(6):568–573. <a href="https://pubmed.ncbi.nlm.nih.gov/14744082/" target="_blank" rel="noopener">PMID 14744082</a>.</li>
+        <li>Bohus M i wsp. <em>The short version of the Borderline Symptom List (BSL-23): development and initial data on psychometric properties.</em> Psychopathology, 2009;42(1):32–39. <a href="https://pubmed.ncbi.nlm.nih.gov/19023232/" target="_blank" rel="noopener">PMID 19023232</a>.</li>
+        <li>Zanarini MC i wsp. <em>Zanarini Rating Scale for Borderline Personality Disorder (ZAN-BPD): a continuous measure of DSM-IV borderline psychopathology.</em> Journal of Personality Disorders, 2003;17(3):233–242. <a href="https://pubmed.ncbi.nlm.nih.gov/12839102/" target="_blank" rel="noopener">PMID 12839102</a>.</li>
+        <li>Arntz A i wsp. <em>Reliability and validity of the Borderline Personality Disorder Severity Index.</em> Journal of Personality Disorders, 2003;17(1):45–59. <a href="https://pubmed.ncbi.nlm.nih.gov/12659546/" target="_blank" rel="noopener">PMID 12659546</a>.</li>
         <li>Ministerstwo Zdrowia. <em>Gdzie uzyskać pomoc psychologiczną i psychiatryczną?</em> <a href="https://www.gov.pl/web/zdrowie/gdzie-uzyskac-pomoc-psychologiczna-i-psychiatryczna" target="_blank" rel="noopener">gov.pl</a>.</li>
         <li>Ministerstwo Zdrowia. <em>Centra Zdrowia Psychicznego.</em> <a href="https://www.gov.pl/web/zdrowie/centra-zdrowia-psychicznego" target="_blank" rel="noopener">gov.pl</a>.</li>
       </ol>
@@ -1753,6 +3361,933 @@
     consentTitle.textContent = state.title;
     consentText.textContent = state.text;
   }));
+
+
+  // Filtr opisów narzędzi diagnostycznych.
+  const assessmentFilterButtons = [...document.querySelectorAll('#assessmentFilter button')];
+  const assessmentCards = [...document.querySelectorAll('#assessmentGrid .assessment-card')];
+  assessmentFilterButtons.forEach(button => button.addEventListener('click', () => {
+    assessmentFilterButtons.forEach(item => item.classList.remove('active'));
+    button.classList.add('active');
+    const filter = button.dataset.filter;
+    assessmentCards.forEach(card => {
+      const types = (card.dataset.types || '').split(/\s+/);
+      card.classList.toggle('filtered-out', filter !== 'all' && !types.includes(filter));
+    });
+  }));
+
+  // Edukacyjny auto-przegląd BPD-EDU.
+  const bpdEduQuestions = [
+    {
+      domain: 'Relacje i przywiązanie',
+      text: 'Czy perspektywa rzeczywistego lub wyobrażonego opuszczenia wywołuje u Ciebie bardzo silny lęk i działania podejmowane po to, aby do rozstania nie dopuścić?',
+      help: 'Uwzględnij powtarzalny wzorzec, nie sam smutek po pojedynczym rozstaniu.',
+      key: 'abandonment', type: 'symptom'
+    },
+    {
+      domain: 'Relacje',
+      text: 'Czy bliskie osoby bywają przez Ciebie naprzemiennie postrzegane jako niemal idealne, a następnie jako całkowicie złe, obojętne lub wrogie?',
+      help: 'Chodzi o gwałtowne i powtarzalne zmiany obrazu tej samej osoby.',
+      key: 'relationships', type: 'symptom'
+    },
+    {
+      domain: 'Tożsamość',
+      text: 'Czy Twój obraz siebie, wartości, plany lub poczucie tego, kim jesteś, zmieniają się bardzo wyraźnie zależnie od sytuacji lub relacji?',
+      help: 'Nie chodzi o zwykły rozwój poglądów, lecz o destabilizujące poczucie braku ciągłości siebie.',
+      key: 'identity', type: 'symptom'
+    },
+    {
+      domain: 'Impulsywność',
+      text: 'Czy powtarzalnie działasz impulsywnie w co najmniej dwóch obszarach, a działania te niosą znaczące ryzyko lub szkody?',
+      help: 'Przykłady: wydatki, seks, substancje, niebezpieczna jazda, objadanie się lub nagłe decyzje o dużych konsekwencjach.',
+      key: 'impulsivity', type: 'symptom'
+    },
+    {
+      domain: 'Bezpieczeństwo',
+      text: 'Czy występowały u Ciebie powtarzające się samouszkodzenia, zachowania samobójcze, przygotowania, konkretne groźby lub silne impulsy w tym kierunku?',
+      help: 'Każda aktualna intencja lub plan wymaga pilnej pomocy niezależnie od końcowego wyniku testu.',
+      key: 'selfharm', type: 'symptom', risk: True
+    },
+    {
+      domain: 'Emocje',
+      text: 'Czy Twoje emocje często zmieniają się szybko i bardzo intensywnie pod wpływem codziennych wydarzeń, zwłaszcza w relacjach?',
+      help: 'W BPD wahania często trwają godziny, ale ich czas i przyczyny muszą być różnicowane klinicznie.',
+      key: 'affect', type: 'symptom'
+    },
+    {
+      domain: 'Doświadczenie siebie',
+      text: 'Czy często odczuwasz przewlekłą pustkę, odłączenie od siebie albo wrażenie, że wewnątrz niczego nie ma?',
+      help: 'Pustka może występować także w depresji, traumie i innych stanach.',
+      key: 'emptiness', type: 'symptom'
+    },
+    {
+      domain: 'Gniew',
+      text: 'Czy często doświadczasz bardzo intensywnego gniewu albo masz trudność z zatrzymaniem zachowań podejmowanych w złości?',
+      help: 'Uwzględnij krzyk, groźby, niszczenie, bójki lub długotrwałe, silne rozdrażnienie.',
+      key: 'anger', type: 'symptom'
+    },
+    {
+      domain: 'Stres i dysocjacja',
+      text: 'Czy pod wpływem silnego stresu pojawia się u Ciebie wyraźna podejrzliwość, poczucie nierealności, odłączenie od ciała albo luki w doświadczeniu?',
+      help: 'Takie objawy wymagają różnicowania m.in. z PTSD, zaburzeniami dysocjacyjnymi, substancjami i psychozą.',
+      key: 'dissociation', type: 'symptom'
+    },
+    {
+      domain: 'Trwałość wzorca',
+      text: 'Czy opisane trudności utrzymują się powtarzalnie co najmniej od roku i nie ograniczają się do jednego krótkiego kryzysu?',
+      help: 'Diagnoza osobowości dotyczy utrwalonego wzorca, a nie chwilowego stanu.',
+      key: 'duration', type: 'gate'
+    },
+    {
+      domain: 'Zakres sytuacji',
+      text: 'Czy podobne trudności pojawiają się w więcej niż jednym obszarze życia, np. w różnych relacjach, pracy, rodzinie lub edukacji?',
+      help: 'Wzorzec ograniczony wyłącznie do jednej niebezpiecznej relacji może wymagać innego wyjaśnienia.',
+      key: 'contexts', type: 'gate'
+    },
+    {
+      domain: 'Wpływ na funkcjonowanie',
+      text: 'Czy trudności powodują istotne cierpienie albo powtarzalnie zaburzają związki, pracę, naukę, finanse lub bezpieczeństwo?',
+      help: 'Samo podobieństwo do cechy nie wystarcza bez klinicznie istotnego wpływu.',
+      key: 'impairment', type: 'gate'
+    }
+  ];
+
+  const screenConsent = document.getElementById('screenConsent');
+  const startScreen = document.getElementById('startScreen');
+  const screenIntro = document.getElementById('screenIntro');
+  const screenQuestion = document.getElementById('screenQuestion');
+  const screenResult = document.getElementById('screenResult');
+  const screenStepLabel = document.getElementById('screenStepLabel');
+  const screenAnswered = document.getElementById('screenAnswered');
+  const screenProgressBar = document.getElementById('screenProgressBar');
+  const questionDomain = document.getElementById('questionDomain');
+  const questionText = document.getElementById('questionText');
+  const questionHelp = document.getElementById('questionHelp');
+  const answerButtons = [...document.querySelectorAll('#answerGrid .answer-btn')];
+  const screenBack = document.getElementById('screenBack');
+  const screenNext = document.getElementById('screenNext');
+  const restartScreen = document.getElementById('restartScreen');
+  let screenIndex = 0;
+  let screenAnswers = Array(bpdEduQuestions.length).fill(null);
+
+  screenConsent?.addEventListener('change', () => {
+    startScreen.disabled = !screenConsent.checked;
+  });
+
+  function showScreenPart(part) {
+    [screenIntro, screenQuestion, screenResult].forEach(item => item?.classList.remove('active'));
+    part?.classList.add('active');
+  }
+
+  function renderScreenQuestion() {
+    const question = bpdEduQuestions[screenIndex];
+    screenStepLabel.textContent = `Pytanie ${screenIndex + 1} z ${bpdEduQuestions.length}`;
+    screenAnswered.textContent = `${screenAnswers.filter(value => value !== null).length} odpowiedzi`;
+    screenProgressBar.style.width = `${screenIndex / bpdEduQuestions.length * 100}%`;
+    questionDomain.textContent = question.domain;
+    questionText.textContent = question.text;
+    questionHelp.textContent = question.help;
+    answerButtons.forEach(button => {
+      button.classList.toggle('selected', Number(button.dataset.value) === screenAnswers[screenIndex]);
+    });
+    screenBack.disabled = screenIndex === 0;
+    screenNext.disabled = screenAnswers[screenIndex] === null;
+    screenNext.textContent = screenIndex === bpdEduQuestions.length - 1 ? 'Pokaż wynik' : 'Dalej';
+  }
+
+  startScreen?.addEventListener('click', () => {
+    screenIndex = 0;
+    screenAnswers = Array(bpdEduQuestions.length).fill(null);
+    showScreenPart(screenQuestion);
+    renderScreenQuestion();
+  });
+
+  answerButtons.forEach(button => button.addEventListener('click', () => {
+    screenAnswers[screenIndex] = Number(button.dataset.value);
+    answerButtons.forEach(item => item.classList.toggle('selected', item === button));
+    screenNext.disabled = false;
+    screenAnswered.textContent = `${screenAnswers.filter(value => value !== null).length} odpowiedzi`;
+  }));
+
+  screenBack?.addEventListener('click', () => {
+    if (screenIndex > 0) {
+      screenIndex -= 1;
+      renderScreenQuestion();
+    }
+  });
+
+  screenNext?.addEventListener('click', () => {
+    if (screenAnswers[screenIndex] === null) return;
+    if (screenIndex < bpdEduQuestions.length - 1) {
+      screenIndex += 1;
+      renderScreenQuestion();
+    } else {
+      renderScreenResult();
+    }
+  });
+
+  function gateLabel(value) {
+    if (value === 1) return ['Tak, wyraźnie', 'yes'];
+    if (value === .5) return ['Częściowo / niepewnie', 'yes'];
+    return ['Nie', 'no'];
+  }
+
+  function renderScreenResult() {
+    const symptomQuestions = bpdEduQuestions.filter(question => question.type === 'symptom');
+    const symptomValues = symptomQuestions.map((question, index) => ({
+      ...question,
+      value: screenAnswers[index] ?? 0
+    }));
+    const strongCount = symptomValues.filter(item => item.value === 1).length;
+    const partialCount = symptomValues.filter(item => item.value === .5).length;
+    const weightedScore = symptomValues.reduce((sum, item) => sum + item.value, 0);
+    const gateValues = {
+      duration: screenAnswers[9] ?? 0,
+      contexts: screenAnswers[10] ?? 0,
+      impairment: screenAnswers[11] ?? 0
+    };
+    const allGatesStrong = Object.values(gateValues).every(value => value === 1);
+    const anyGateAbsent = Object.values(gateValues).some(value => value === 0);
+
+    const resultRing = document.getElementById('resultRing');
+    const resultStrongCount = document.getElementById('resultStrongCount');
+    const resultPill = document.getElementById('resultPill');
+    const resultTitle = document.getElementById('resultTitle');
+    const resultText = document.getElementById('resultText');
+    const resultProfile = document.getElementById('resultProfile');
+    const resultGates = document.getElementById('resultGates');
+    const screenRisk = document.getElementById('screenRisk');
+
+    resultRing.style.setProperty('--score', strongCount);
+    resultStrongCount.textContent = strongCount;
+
+    if (strongCount >= 5 && allGatesStrong) {
+      resultPill.className = 'pill warn';
+      resultPill.textContent = 'Wiele obszarów do pogłębienia';
+      resultTitle.textContent = 'Profesjonalna konsultacja diagnostyczna jest zasadna';
+      resultText.textContent = `Zaznaczono często w ${strongCount} z 9 obszarów, częściowo w ${partialCount}. Dodatkowo trudności zostały opisane jako trwałe, wielokontekstowe i wpływające na funkcjonowanie. Taki układ przypomina zakres oceniany w diagnozie BPD, ale nie rozstrzyga przyczyny ani rozpoznania.`;
+    } else if (strongCount >= 5) {
+      resultPill.className = 'pill warn';
+      resultPill.textContent = 'Wiele objawów, niepełny wzorzec';
+      resultTitle.textContent = 'Wynik wymaga interpretacji w kontekście czasu i sytuacji';
+      resultText.textContent = `Zaznaczono często w ${strongCount} z 9 obszarów, ale co najmniej jeden warunek trwałości, wielu kontekstów lub wpływu nie został jednoznacznie potwierdzony. Ostry kryzys, trauma lub inne zaburzenie mogą dawać podobny profil.`;
+    } else if (strongCount >= 3 || weightedScore >= 4) {
+      resultPill.className = 'pill';
+      resultPill.textContent = 'Kilka obszarów trudności';
+      resultTitle.textContent = 'Warto omówić dominujące trudności, nie skupiając się wyłącznie na etykiecie';
+      resultText.textContent = `Zaznaczono często w ${strongCount} obszarach i częściowo w ${partialCount}. Wynik nie tworzy typowego progu kryterialnego, ale może wskazywać problemy wymagające wsparcia niezależnie od diagnozy.`;
+    } else {
+      resultPill.className = 'pill good';
+      resultPill.textContent = 'Niewiele silnych wskaźników';
+      resultTitle.textContent = 'Odpowiedzi nie wskazują wielu silnie zaznaczonych obszarów';
+      resultText.textContent = `Zaznaczono często w ${strongCount} z 9 obszarów i częściowo w ${partialCount}. Nie wyklucza to cierpienia ani innych zaburzeń; test nie ma walidacji i nie służy do wykluczania BPD.`;
+    }
+
+    if (anyGateAbsent && strongCount >= 3) {
+      resultText.textContent += ' Brak jednego z warunków diagnostycznych jest ważną informacją i powinien być sprawdzony podczas wywiadu.';
+    }
+
+    resultProfile.innerHTML = symptomValues.map(item => {
+      const percent = item.value * 100;
+      const label = item.value === 1 ? 'często' : item.value === .5 ? 'czasami' : 'nie';
+      return `<div class="profile-row">
+        <span>${item.domain}</span>
+        <div class="profile-track"><span style="width:${percent}%"></span></div>
+        <strong title="${label}">${item.value === 1 ? '1' : item.value === .5 ? '½' : '0'}</strong>
+      </div>`;
+    }).join('');
+
+    const gateLabels = [
+      ['Trwałość', gateValues.duration],
+      ['Wiele kontekstów', gateValues.contexts],
+      ['Wpływ na funkcjonowanie', gateValues.impairment]
+    ];
+    resultGates.innerHTML = gateLabels.map(([name, value]) => {
+      const [label, cls] = gateLabel(value);
+      return `<div class="gate ${cls}"><strong>${name}</strong><span>${label}</span></div>`;
+    }).join('');
+
+    const selfHarmValue = screenAnswers[4] ?? 0;
+    screenRisk.classList.toggle('visible', selfHarmValue > 0);
+    screenProgressBar.style.width = '100%';
+    showScreenPart(screenResult);
+  }
+
+  restartScreen?.addEventListener('click', () => {
+    screenIndex = 0;
+    screenAnswers = Array(bpdEduQuestions.length).fill(null);
+    screenConsent.checked = false;
+    startScreen.disabled = true;
+    showScreenPart(screenIntro);
+    document.getElementById('bpdEduTest')?.scrollIntoView({behavior: 'smooth', block: 'start'});
+  });
+
+
+  // Rozbudowany edukacyjny symulator dynamiki emocjonalnej v2.
+  const sim2 = {
+    auto: document.getElementById('sim2Auto'),
+    speed: document.getElementById('sim2Speed'),
+    trigger: document.getElementById('sim2Trigger'),
+    partner: document.getElementById('sim2PartnerResponse'),
+    sensitivity: document.getElementById('sim2Sensitivity'),
+    stress: document.getElementById('sim2Stress'),
+    trauma: document.getElementById('sim2Trauma'),
+    disinhibition: document.getElementById('sim2Disinhibition'),
+    skills: document.getElementById('sim2Skills'),
+    support: document.getElementById('sim2Support'),
+    start: document.getElementById('sim2Start'),
+    prev: document.getElementById('sim2Prev'),
+    next: document.getElementById('sim2Next'),
+    random: document.getElementById('sim2Random'),
+    reset: document.getElementById('sim2Reset'),
+    mode: document.getElementById('sim2ModeNote'),
+    step: document.getElementById('sim2Step'),
+    scenario: document.getElementById('sim2ScenarioName'),
+    route: document.getElementById('sim2Route'),
+    narrative: document.getElementById('sim2Narrative'),
+    comparison: document.getElementById('sim2Comparison'),
+    log: document.getElementById('sim2Log'),
+    safety: document.getElementById('sim2Safety'),
+    safetyText: document.getElementById('sim2SafetyText'),
+    chartLine: document.getElementById('sim2ChartLine'),
+    chartPoints: document.getElementById('sim2ChartPoints')
+  };
+
+  const sim2TriggerData = {
+    silence: {
+      label: 'Brak odpowiedzi na wiadomość',
+      weight: 7.3,
+      stimulus: 'Partner nie odpowiada na wiadomość od dwóch godzin.',
+      interpretations: ['Jest zajęty lub odpoczywa.', 'Ignoruje mnie i zaraz odejdzie.', 'Robi to celowo, aby mnie ukarać.'],
+      protest: 'Seria wiadomości, wielokrotne telefony, oskarżenie o obojętność albo groźba natychmiastowego zakończenia relacji.',
+      withdrawal: 'Nagłe wyłączenie telefonu, zablokowanie kontaktu lub demonstracyjna obojętność.',
+      extreme: 'Groźby samouszkodzenia, impulsywna jazda, użycie substancji, niszczenie rzeczy lub agresywna konfrontacja.'
+    },
+    space: {
+      label: 'Partner prosi o przestrzeń',
+      weight: 8.3,
+      stimulus: 'Partner mówi, że potrzebuje wieczoru dla siebie i wróci do rozmowy jutro.',
+      interpretations: ['Potrzebuje regulacji i nadal deklaruje powrót.', 'To początek porzucenia.', 'Chce się mnie pozbyć i ukrywa prawdziwy powód.'],
+      protest: 'Nacisk na natychmiastową rozmowę, śledzenie, kontrolowanie kontaktów, ultimatum albo impulsywne pakowanie rzeczy.',
+      withdrawal: 'Całkowite odcięcie, blokowanie wszystkich kanałów lub odmowa rozmowy po ustalonym czasie.',
+      extreme: 'Groźby, niszczenie mienia, wtargnięcie do przestrzeni partnera, ryzykowne zachowanie albo autoagresja.'
+    },
+    criticism: {
+      label: 'Krytyka lub rozczarowanie',
+      weight: 6.6,
+      stimulus: 'Bliska osoba mówi, że dane zachowanie ją zraniło lub rozczarowało.',
+      interpretations: ['Krytykuje konkretne zachowanie, nie całe moje „ja”.', 'Jestem bezwartościowa/y i już mnie nie kocha.', 'Atakuje mnie i trzeba natychmiast oddać atak.'],
+      protest: 'Krzyk, kontratak, przywołanie dawnych win, groźba rozstania lub publiczne zawstydzanie partnera.',
+      withdrawal: 'Zamrożenie, gwałtowny wstyd, brak kontaktu słownego albo wielodniowe unikanie.',
+      extreme: 'Niszczenie przedmiotów, agresja, niebezpieczne prowadzenie pojazdu, upijanie się lub samouszkodzenie.'
+    },
+    cancel: {
+      label: 'Odwołanie wspólnych planów',
+      weight: 5.8,
+      stimulus: 'Wspólne plany zostają odwołane w ostatniej chwili.',
+      interpretations: ['Zmiana jest frustrująca, ale może mieć realną przyczynę.', 'Nie jestem ważna/y.', 'Partner celowo mnie poniża lub wybiera kogoś innego.'],
+      protest: 'Żądanie natychmiastowej rekompensaty, oskarżenia, impulsywne wydatki lub demonstracyjne umawianie się z innymi.',
+      withdrawal: 'Rezygnacja z kolejnych planów, blokowanie kontaktu lub emocjonalne „zniknięcie”.',
+      extreme: 'Ryzykowne użycie alkoholu, przypadkowe kontakty seksualne, niebezpieczna jazda lub agresywna konfrontacja.'
+    },
+    jealousy: {
+      label: 'Niejednoznaczny sygnał zazdrości',
+      weight: 7.5,
+      stimulus: 'Partner reaguje lub rozmawia w mediach społecznościowych z inną osobą.',
+      interpretations: ['Kontakt może być neutralny i wymaga spokojnego wyjaśnienia.', 'Zostanę zastąpiona/y.', 'Partner zdradza i kłamie.'],
+      protest: 'Kontrola telefonu, przesłuchiwanie, publikowanie oskarżeń, odwetowy flirt lub groźba zdrady.',
+      withdrawal: 'Nagłe zerwanie kontaktu, blokowanie, „testowanie” partnera ciszą lub chłodem.',
+      extreme: 'Stalking, wtargnięcie, przemoc, niszczenie telefonu/mienia, ryzykowny odwet seksualny albo autoagresja.'
+    },
+    breakup: {
+      label: 'Wzmianka o możliwym rozstaniu',
+      weight: 9.6,
+      stimulus: 'Partner mówi, że rozważa zakończenie związku.',
+      interpretations: ['To bolesna informacja, ale nie odbiera mi wartości ani możliwości uzyskania pomocy.', 'Nie przeżyję porzucenia.', 'Muszę zrobić wszystko, aby partner nie odszedł.'],
+      protest: 'Błaganie przechodzące w oskarżenia, ultimata, groźby, impulsywne zerwanie „pierwsza/y” lub ujawnianie prywatnych informacji.',
+      withdrawal: 'Odcięcie, całkowita blokada, derealizacja, brak reakcji lub nagła pozorna obojętność.',
+      extreme: 'Groźby samobójcze, samouszkodzenie, przemoc, stalking, niszczenie mienia, niebezpieczna jazda lub ciężkie użycie substancji.'
+    },
+    intimacy: {
+      label: 'Wycofanie z bliskości seksualnej',
+      weight: 7.1,
+      stimulus: 'Partner wycofuje zgodę na seks lub nie ma ochoty na bliskość.',
+      interpretations: ['Odmowa dotyczy tej chwili i musi być respektowana.', 'Nie jestem pożądana/y i zaraz zostanę odrzucona/y.', 'Partner używa seksu, aby mnie kontrolować.'],
+      protest: 'Nacisk, obrażanie się, testowanie uczuć, groźba zdrady lub impulsywne szukanie potwierdzenia u innej osoby.',
+      withdrawal: 'Odłączenie od ciała, dysocjacja, unikanie dotyku lub nagłe zerwanie kontaktu.',
+      extreme: 'Naruszenie granic, agresja, ryzykowne kontakty seksualne, użycie substancji albo zachowania samouszkadzające.'
+    },
+    neutral: {
+      label: 'Neutralne zdarzenie',
+      weight: 2.2,
+      stimulus: 'Występuje neutralne zdarzenie o małym znaczeniu interpersonalnym.',
+      interpretations: ['Zdarzenie jest prawdopodobnie neutralne.', 'Może jednak oznaczać odrzucenie.', 'Wysoki stres sprawia, że trudno ocenić intencje.'],
+      protest: 'Drażliwość, nadinterpretacja, drobne oskarżenia lub testowanie reakcji partnera.',
+      withdrawal: 'Wycofanie i zmniejszenie kontaktu.',
+      extreme: 'Skrajne zachowanie jest mniej prawdopodobne, lecz może pojawić się przy bardzo wysokim rozhamowaniu i kryzysie niezależnym od bodźca.'
+    }
+  };
+
+  const sim2PartnerData = {
+    validate: {threat:-1.2, capacity:1.7, protest:-1.0, crisis:-.7, text:'Walidacja emocji wraz z jasną granicą i konkretnym czasem powrotu zmniejsza niepewność.'},
+    silent: {threat:1.4, capacity:-.6, protest:1.0, crisis:.5, text:'Zniknięcie bez informacji zwiększa pole dla katastroficznych interpretacji.'},
+    counter: {threat:2.0, capacity:-1.2, protest:1.4, crisis:1.2, text:'Wyśmianie, zawstydzenie lub kontratak zwykle zwiększa pobudzenie i utratę mentalizacji.'},
+    rescue: {threat:-.4, capacity:-.1, protest:1.2, crisis:.2, text:'Natychmiastowe ustąpienie może obniżyć napięcie teraz, ale wzmacniać używanie eskalacji w przyszłości.'},
+    inconsistent: {threat:.8, capacity:-.3, protest:1.0, crisis:.4, text:'Niespójność chwilowo uspokaja, lecz nie buduje przewidywalnego bezpieczeństwa.'},
+    safety: {threat:-.4, capacity:1.0, protest:-.6, crisis:-1.8, text:'Procedura bezpieczeństwa ogranicza ryzyko, ale nie zastępuje późniejszej pracy terapeutycznej.'}
+  };
+
+  const sim2AutoScenarios = [
+    {trigger:'silence', partner:'silent', sensitivity:8, stress:8, trauma:5, disinhibition:2, skills:4, support:4},
+    {trigger:'criticism', partner:'validate', sensitivity:7, stress:5, trauma:4, disinhibition:1, skills:8, support:7},
+    {trigger:'space', partner:'inconsistent', sensitivity:9, stress:7, trauma:6, disinhibition:3, skills:4, support:5},
+    {trigger:'intimacy', partner:'validate', sensitivity:7, stress:6, trauma:9, disinhibition:1, skills:4, support:7},
+    {trigger:'jealousy', partner:'counter', sensitivity:9, stress:8, trauma:6, disinhibition:7, skills:2, support:2},
+    {trigger:'breakup', partner:'safety', sensitivity:10, stress:9, trauma:8, disinhibition:8, skills:2, support:3},
+    {trigger:'cancel', partner:'rescue', sensitivity:7, stress:6, trauma:3, disinhibition:3, skills:4, support:6},
+    {trigger:'neutral', partner:'validate', sensitivity:4, stress:3, trauma:2, disinhibition:0, skills:8, support:8}
+  ];
+
+  const sim2InterventionEffects = {
+    grounding: {threat:-1.1, capacity:1.5, crisis:-.4, mentalization:1.0},
+    validation: {threat:-.8, capacity:.8, crisis:-.3, mentalization:.6},
+    pause: {threat:-.7, capacity:1.0, crisis:-.4, mentalization:.7},
+    remove: {threat:0, capacity:.4, crisis:-1.6, mentalization:.3},
+    professional: {threat:-.4, capacity:1.1, crisis:-2.0, mentalization:.8}
+  };
+
+  let sim2StepIndex = 0;
+  let sim2Route = null;
+  let sim2Model = null;
+  let sim2Timer = null;
+  let sim2AutoIndex = 0;
+  let sim2ActiveInterventions = new Set();
+  let sim2History = [];
+
+  const sim2Clamp = (value, min = 0, max = 10) => Math.max(min, Math.min(max, value));
+  const sim2Round = value => value.toFixed(1).replace('.', ',');
+
+  function sim2Values() {
+    return {
+      trigger: sim2.trigger.value,
+      partner: sim2.partner.value,
+      sensitivity: Number(sim2.sensitivity.value),
+      stress: Number(sim2.stress.value),
+      trauma: Number(sim2.trauma.value),
+      disinhibition: Number(sim2.disinhibition.value),
+      skills: Number(sim2.skills.value),
+      support: Number(sim2.support.value)
+    };
+  }
+
+  function sim2InterventionTotals() {
+    const total = {threat:0, capacity:0, crisis:0, mentalization:0};
+    sim2ActiveInterventions.forEach(key => {
+      const effect = sim2InterventionEffects[key];
+      if (!effect) return;
+      Object.keys(total).forEach(name => total[name] += effect[name] || 0);
+    });
+    return total;
+  }
+
+  function sim2Compute(values = sim2Values()) {
+    const trigger = sim2TriggerData[values.trigger];
+    const partner = sim2PartnerData[values.partner];
+    const intervention = sim2InterventionTotals();
+
+    const threat = sim2Clamp(
+      trigger.weight * .38 +
+      values.sensitivity * .30 +
+      values.stress * .19 +
+      values.trauma * .13 +
+      partner.threat +
+      intervention.threat
+    );
+
+    const capacity = sim2Clamp(
+      values.skills * .50 +
+      values.support * .25 +
+      (10 - values.stress) * .15 +
+      (10 - values.disinhibition) * .10 +
+      partner.capacity +
+      intervention.capacity
+    );
+
+    const mentalization = sim2Clamp(
+      values.skills * .52 +
+      values.support * .17 +
+      (10 - threat) * .17 +
+      (10 - values.disinhibition) * .14 +
+      intervention.mentalization
+    );
+
+    const protestActivation = sim2Clamp(
+      values.sensitivity * .45 +
+      threat * .38 +
+      values.stress * .12 +
+      partner.protest -
+      capacity * .25
+    );
+
+    const withdrawalActivation = sim2Clamp(
+      values.trauma * .47 +
+      values.stress * .28 +
+      threat * .20 -
+      mentalization * .25
+    );
+
+    const crisis = sim2Clamp(
+      threat * .42 +
+      values.disinhibition * .31 +
+      values.trauma * .13 +
+      values.stress * .14 +
+      partner.crisis +
+      intervention.crisis -
+      capacity * .22
+    );
+
+    let route;
+    if (crisis >= 7.4 || (crisis >= 6.7 && values.disinhibition >= 7)) route = 'crisis';
+    else if (withdrawalActivation >= 6.6 && values.trauma >= 6 && withdrawalActivation > protestActivation + .5) route = 'withdrawal';
+    else if (capacity >= threat + .7 && mentalization >= 5.4) route = 'regulated';
+    else route = 'protest';
+
+    const interpretationIndex = threat >= 7.2 ? 2 : threat >= 4.8 ? 1 : 0;
+    const interpretation = trigger.interpretations[interpretationIndex];
+
+    const dominantEmotion =
+      values.trauma >= 8 && withdrawalActivation > protestActivation ? 'odrętwienie, strach i nierealność' :
+      threat >= 8 ? 'panika, gniew i rozpacz' :
+      threat >= 5.5 ? 'lęk, wstyd i złość' :
+      'niepokój i rozczarowanie';
+
+    const body = threat >= 8
+      ? `Bardzo silne pobudzenie: zawężenie uwagi, przyspieszenie działania i trudność odróżnienia interpretacji od faktu; dominują ${dominantEmotion}.`
+      : threat >= 5
+        ? `Wyraźne pobudzenie i napięcie. Dostęp do refleksji zależy od umiejętności i odpowiedzi otoczenia; dominują ${dominantEmotion}.`
+        : `Pobudzenie jest ograniczone i pozostaje przestrzeń na sprawdzenie faktów; dominują ${dominantEmotion}.`;
+
+    const decision =
+      route === 'regulated' ? 'Zasoby i mentalizacja wystarczają, aby emocja nie została natychmiast przekształcona w działanie.' :
+      route === 'withdrawal' ? 'Przeciążenie traumatyczne kieruje system w stronę odłączenia i minimalizacji kontaktu.' :
+      route === 'crisis' ? 'Alarm, rozhamowanie i utrata mentalizacji przekraczają próg bezpieczeństwa.' :
+      'Alarm więzi przewyższa zasoby, dlatego pojawia się pilna próba odzyskania pewności lub kontroli.';
+
+    const regulatedBehavior =
+      values.skills >= 7
+        ? 'Stosuje STOP, reguluje ciało, sprawdza fakty i komunikuje jedną konkretną potrzebę.'
+        : 'Odkłada działanie, prosi o jasność i korzysta z ustalonego planu kontaktu.';
+
+    const regulatedFeedback =
+      values.partner === 'validate'
+        ? 'Przewidywalna odpowiedź potwierdza, że emocję można przeżyć bez eskalacji.'
+        : 'Nawet przy mniej pomocnej reakcji osoba może utrzymać granice dzięki własnym umiejętnościom.';
+
+    const regulatedOutcome = 'Napięcie spada bez wtórnych szkód. Możliwe są rozmowa, odpowiedzialność i naprawa relacji.';
+
+    const protestStrategy = 'Szybkie uzyskanie dowodu miłości, odpowiedzi lub kontroli, zanim lęk stanie się nie do zniesienia.';
+    const protestBehavior = trigger.protest;
+    const protestFeedback =
+      values.partner === 'rescue'
+        ? 'Natychmiastowe ustąpienie obniża napięcie, lecz może wzmacniać zależność: eskalacja → szybka bliskość.'
+        : values.partner === 'counter'
+          ? 'Kontratak zwiększa wstyd i gniew, przez co protest może przejść w kryzys.'
+          : 'Jasna granica z zapowiedzią powrotu ogranicza nagrodę z eskalacji i tworzy przestrzeń do regulacji.';
+    const protestOutcome = 'Możliwa chwilowa ulga, ale często kosztem zaufania, autonomii partnera i narastającego wstydu.';
+
+    const withdrawalStrategy = 'Zmniejszenie bólu poprzez odcięcie od emocji, ciała, wspomnień lub relacji.';
+    const withdrawalBehavior = trigger.withdrawal;
+    const withdrawalFeedback =
+      values.partner === 'counter'
+        ? 'Presja i zawstydzanie pogłębiają dysocjację i zwiększają trudność powrotu do kontaktu.'
+        : 'Spokojna obecność, brak nacisku i orientowanie w teraźniejszości ułatwiają stopniowy powrót.';
+    const withdrawalOutcome = 'Bezpieczne wyjście z odłączenia jest możliwe, ale nierozwiązany konflikt i trauma wymagają późniejszej pracy.';
+
+    const crisisStrategy = 'Natychmiastowe przerwanie nieznośnego stanu, nawet za cenę dużego ryzyka dla siebie lub innych.';
+    const crisisBehavior = trigger.extreme;
+    const crisisFeedback =
+      values.partner === 'safety' || sim2ActiveInterventions.has('professional')
+        ? 'Otoczenie przechodzi z negocjowania konfliktu do ograniczania ryzyka i uruchomienia profesjonalnej pomocy.'
+        : 'Ustępowanie, kontratak albo pozostawienie osoby samej z dostępem do ryzyka może zwiększać niebezpieczeństwo.';
+    const crisisOutcome = 'Priorytetem jest bezpieczeństwo. Dopiero po ustabilizowaniu można analizować konflikt, odpowiedzialność i plan zapobiegania nawrotom.';
+
+    return {
+      ...values, triggerData: trigger, partnerData: partner,
+      threat, capacity, mentalization, protestActivation, withdrawalActivation, crisis,
+      route, interpretation, body, decision,
+      regulatedBehavior, regulatedFeedback, regulatedOutcome,
+      protestStrategy, protestBehavior, protestFeedback, protestOutcome,
+      withdrawalStrategy, withdrawalBehavior, withdrawalFeedback, withdrawalOutcome,
+      crisisStrategy, crisisBehavior, crisisFeedback, crisisOutcome
+    };
+  }
+
+  function sim2SyncOutputs() {
+    const map = [
+      [sim2.sensitivity, 'sim2SensitivityOut'],
+      [sim2.stress, 'sim2StressOut'],
+      [sim2.trauma, 'sim2TraumaOut'],
+      [sim2.disinhibition, 'sim2DisinhibitionOut'],
+      [sim2.skills, 'sim2SkillsOut'],
+      [sim2.support, 'sim2SupportOut']
+    ];
+    map.forEach(([input, id]) => {
+      const output = document.getElementById(id);
+      if (output) {
+        output.value = input.value;
+        output.textContent = input.value;
+      }
+    });
+  }
+
+  function sim2StopAuto(message = 'Tryb auto wyłączony po ręcznej ingerencji.') {
+    if (sim2Timer) clearTimeout(sim2Timer);
+    sim2Timer = null;
+    if (sim2.auto?.checked) sim2.auto.checked = false;
+    sim2.mode.textContent = message;
+  }
+
+  function sim2SetScenario(scenario) {
+    sim2.trigger.value = scenario.trigger;
+    sim2.partner.value = scenario.partner;
+    sim2.sensitivity.value = scenario.sensitivity;
+    sim2.stress.value = scenario.stress;
+    sim2.trauma.value = scenario.trauma;
+    sim2.disinhibition.value = scenario.disinhibition;
+    sim2.skills.value = scenario.skills;
+    sim2.support.value = scenario.support;
+    sim2ActiveInterventions.clear();
+    document.querySelectorAll('#sim2Interventions button').forEach(button => button.classList.remove('active'));
+    sim2SyncOutputs();
+  }
+
+  function sim2ResetVisuals() {
+    document.querySelectorAll('#behaviorSimulatorV2 .sim2-node').forEach(node => node.classList.remove('active', 'complete'));
+    document.querySelectorAll('#behaviorSimulatorV2 .sim2-branch').forEach(branch => branch.classList.remove('selected'));
+    const first = document.querySelector('#behaviorSimulatorV2 .sim2-node[data-step="0"]');
+    first?.classList.add('active');
+    sim2.route.className = 'sim2-route neutral';
+    sim2.route.textContent = 'ścieżka jeszcze nieustalona';
+    sim2.safety.classList.remove('visible');
+    sim2.log.innerHTML = '';
+    sim2History = [];
+    sim2UpdateChart();
+  }
+
+  function sim2FillTexts() {
+    const m = sim2Model;
+    document.getElementById('sim2TriggerText').textContent = m.triggerData.stimulus;
+    document.getElementById('sim2InterpretationText').textContent = m.interpretation;
+    document.getElementById('sim2BodyText').textContent = m.body;
+    document.getElementById('sim2DecisionText').textContent = m.decision;
+
+    document.getElementById('sim2RegStrategy').textContent = 'Pauza, regulacja fizjologiczna, sprawdzenie faktów i odroczenie nieodwracalnej decyzji.';
+    document.getElementById('sim2RegBehavior').textContent = m.regulatedBehavior;
+    document.getElementById('sim2RegFeedback').textContent = m.regulatedFeedback;
+    document.getElementById('sim2RegOutcome').textContent = m.regulatedOutcome;
+
+    document.getElementById('sim2ProtestStrategy').textContent = m.protestStrategy;
+    document.getElementById('sim2ProtestBehavior').textContent = m.protestBehavior;
+    document.getElementById('sim2ProtestFeedback').textContent = m.protestFeedback;
+    document.getElementById('sim2ProtestOutcome').textContent = m.protestOutcome;
+
+    document.getElementById('sim2WithdrawalStrategy').textContent = m.withdrawalStrategy;
+    document.getElementById('sim2WithdrawalBehavior').textContent = m.withdrawalBehavior;
+    document.getElementById('sim2WithdrawalFeedback').textContent = m.withdrawalFeedback;
+    document.getElementById('sim2WithdrawalOutcome').textContent = m.withdrawalOutcome;
+
+    document.getElementById('sim2CrisisStrategy').textContent = m.crisisStrategy;
+    document.getElementById('sim2CrisisBehavior').textContent = m.crisisBehavior;
+    document.getElementById('sim2CrisisFeedback').textContent = m.crisisFeedback;
+    document.getElementById('sim2CrisisOutcome').textContent = m.crisisOutcome;
+
+    sim2.scenario.textContent = m.triggerData.label;
+    document.getElementById('sim2ThreatValue').textContent = sim2Round(m.threat);
+    document.getElementById('sim2CapacityValue').textContent = sim2Round(m.capacity);
+    document.getElementById('sim2CrisisValue').textContent = sim2Round(m.crisis);
+    document.getElementById('sim2MentalizationValue').textContent = sim2Round(m.mentalization);
+    document.getElementById('sim2ThreatBar').style.width = `${m.threat * 10}%`;
+    document.getElementById('sim2CapacityBar').style.width = `${m.capacity * 10}%`;
+    document.getElementById('sim2CrisisBar').style.width = `${m.crisis * 10}%`;
+    document.getElementById('sim2MentalizationBar').style.width = `${m.mentalization * 10}%`;
+
+    sim2.comparison.innerHTML = `
+      <div><strong>Co zwiększa reakcję?</strong> Bodziec ${sim2Round(m.triggerData.weight)}, wrażliwość ${m.sensitivity}, stres ${m.stress}, trauma ${m.trauma}, rozhamowanie ${m.disinhibition}.</div>
+      <div><strong>Co ją ogranicza?</strong> Umiejętności ${m.skills}, wsparcie ${m.support}, mentalizacja ${sim2Round(m.mentalization)} oraz wybrane interwencje.</div>
+    `;
+  }
+
+  function sim2LogStep(step, text) {
+    const row = document.createElement('div');
+    row.className = 'sim2-log-entry';
+    row.innerHTML = `<b>${step + 1}</b><span>${text}</span>`;
+    sim2.log.appendChild(row);
+    sim2.log.scrollTop = sim2.log.scrollHeight;
+  }
+
+  function sim2RouteLabel(route) {
+    return {
+      regulated: 'regulacja i mentalizacja',
+      protest: 'protest więzi i eskalacja',
+      withdrawal: 'wycofanie i dysocjacja',
+      crisis: 'kryzys wysokiego ryzyka'
+    }[route];
+  }
+
+  function sim2StepText(step) {
+    const m = sim2Model;
+    const routeText = {
+      regulated: [m.regulatedBehavior, m.regulatedFeedback, m.regulatedOutcome],
+      protest: [m.protestBehavior, m.protestFeedback, m.protestOutcome],
+      withdrawal: [m.withdrawalBehavior, m.withdrawalFeedback, m.withdrawalOutcome],
+      crisis: [m.crisisBehavior, m.crisisFeedback, m.crisisOutcome]
+    }[m.route];
+    return [
+      `Bodziec: ${m.triggerData.stimulus}`,
+      `Interpretacja: ${m.interpretation}`,
+      `Reakcja organizmu: ${m.body}`,
+      `Bramka decyzyjna: ${m.decision}`,
+      `Dominująca strategia prowadzi do ścieżki „${sim2RouteLabel(m.route)}”.`,
+      `Zachowanie: ${routeText[0]}`,
+      `Sprzężenie zwrotne: ${routeText[1]}`,
+      `Wynik: ${routeText[2]}`
+    ][step];
+  }
+
+  function sim2NarrativeText(step) {
+    const m = sim2Model;
+    return [
+      'Bodziec sam w sobie nie przesądza o reakcji. Znaczenie powstaje w kontakcie z historią, stanem organizmu i relacją.',
+      'Pierwsza interpretacja jest szybka i może być traktowana jak fakt, zanim pojawi się refleksja.',
+      'Wysokie pobudzenie zawęża uwagę i zmniejsza dostęp do pamięci o alternatywnych wyjaśnieniach.',
+      'W tym punkcie nawet mała zmiana wsparcia, regulacji lub dostępu do substancji może skierować reakcję na inną gałąź.',
+      `Model wybrał ścieżkę: ${sim2RouteLabel(m.route)}.`,
+      m.route === 'crisis'
+        ? 'Skrajna reakcja nie jest „manipulacją z definicji”. Może być desperackim działaniem, ale wymaga natychmiastowych granic, oceny ryzyka i odpowiedzialności.'
+        : 'Zachowanie pełni funkcję regulacyjną, lecz jego koszty dla innych i dla relacji nadal wymagają oceny.',
+      'Odpowiedź otoczenia może obniżać ryzyko albo nieintencjonalnie utrwalać wzorzec poprzez nagradzanie eskalacji.',
+      m.route === 'regulated'
+        ? 'Długofalowo wzmacnia się przekonanie, że intensywną emocję można przeżyć bez niszczenia relacji.'
+        : 'Po epizodzie potrzebne są: bezpieczeństwo, analiza łańcucha, naprawa szkód i plan innej reakcji na kolejny bodziec.'
+    ][step];
+  }
+
+  function sim2ArousalForStep(step) {
+    const m = sim2Model;
+    const routeDelta = {regulated:-3.4, protest:1.2, withdrawal:-.9, crisis:2.0}[m.route];
+    const values = [
+      m.threat * .45,
+      m.threat * .72,
+      m.threat,
+      sim2Clamp(m.threat + (m.crisis - m.capacity) * .18),
+      sim2Clamp(m.threat + routeDelta * .25),
+      sim2Clamp(m.threat + routeDelta * .55),
+      sim2Clamp(m.threat + routeDelta * .75),
+      sim2Clamp(m.threat + routeDelta)
+    ];
+    return values.slice(0, step + 1);
+  }
+
+  function sim2UpdateChart() {
+    const values = sim2History.length ? sim2History : [];
+    const coords = values.map((value, index) => {
+      const x = 38 + index * (450 / 7);
+      const y = 145 - value * 12;
+      return {x, y};
+    });
+    sim2.chartLine.setAttribute('points', coords.map(p => `${p.x},${p.y}`).join(' '));
+    sim2.chartPoints.innerHTML = coords.map(p => `<circle cx="${p.x}" cy="${p.y}" r="5"></circle>`).join('');
+  }
+
+  function sim2ActivateStep(step) {
+    document.querySelectorAll('#behaviorSimulatorV2 .sim2-node').forEach(node => {
+      const nodeStep = Number(node.dataset.step);
+      node.classList.toggle('complete', nodeStep < step);
+      node.classList.remove('active');
+    });
+    document.querySelectorAll('#behaviorSimulatorV2 .sim2-branch').forEach(branch => branch.classList.remove('selected'));
+
+    if (step <= 3) {
+      document.querySelector(`#behaviorSimulatorV2 .sim2-main-chain .sim2-node[data-step="${step}"]`)?.classList.add('active');
+      sim2.route.className = 'sim2-route neutral';
+      sim2.route.textContent = 'ścieżka jeszcze nieustalona';
+    } else {
+      const branch = document.querySelector(`#behaviorSimulatorV2 .sim2-branch[data-route="${sim2Model.route}"]`);
+      branch?.classList.add('selected');
+      branch?.querySelector(`.sim2-node[data-step="${step}"]`)?.classList.add('active');
+      sim2.route.className = `sim2-route ${sim2Model.route}`;
+      sim2.route.textContent = sim2RouteLabel(sim2Model.route);
+    }
+
+    sim2.safety.classList.toggle('visible', sim2Model.route === 'crisis' && step >= 4);
+    if (sim2Model.route === 'crisis') {
+      sim2.safetyText.textContent =
+        sim2Model.crisis >= 8.5
+          ? 'Konfiguracja wskazuje bardzo wysoką utratę kontroli. Przy aktualnej groźbie, zamiarze, przemocy lub dostępie do środków potrzebna jest pilna pomoc.'
+          : 'Konfiguracja przekracza dydaktyczny próg kryzysu. Należy ograniczyć ryzyko, nie pozostawiać groźby bez reakcji i uruchomić profesjonalne wsparcie.';
+    }
+  }
+
+  function sim2RenderStep(step, rebuilding = false) {
+    sim2StepIndex = Math.max(0, Math.min(7, step));
+    sim2.step.textContent = `Krok ${sim2StepIndex + 1} z 8`;
+    sim2ActivateStep(sim2StepIndex);
+    sim2.narrative.textContent = sim2NarrativeText(sim2StepIndex);
+
+    if (!rebuilding) {
+      sim2LogStep(sim2StepIndex, sim2StepText(sim2StepIndex));
+    }
+
+    sim2History = sim2ArousalForStep(sim2StepIndex);
+    sim2UpdateChart();
+  }
+
+  function sim2Prepare() {
+    sim2Model = sim2Compute();
+    sim2Route = sim2Model.route;
+    sim2StepIndex = 0;
+    sim2ResetVisuals();
+    sim2FillTexts();
+    sim2RenderStep(0);
+  }
+
+  function sim2RebuildToStep(target) {
+    sim2Model = sim2Compute();
+    sim2Route = sim2Model.route;
+    sim2ResetVisuals();
+    sim2FillTexts();
+    for (let i = 0; i <= target; i += 1) {
+      sim2RenderStep(i, i < target);
+      if (i < target) sim2LogStep(i, sim2StepText(i));
+    }
+  }
+
+  function sim2NextStep() {
+    if (!sim2Model) {
+      sim2Prepare();
+      return;
+    }
+    if (sim2StepIndex >= 7) {
+      sim2Prepare();
+      return;
+    }
+    sim2RenderStep(sim2StepIndex + 1);
+  }
+
+  function sim2PreviousStep() {
+    if (!sim2Model || sim2StepIndex <= 0) return;
+    sim2RebuildToStep(sim2StepIndex - 1);
+  }
+
+  function sim2AutoLoop() {
+    if (!sim2.auto.checked) return;
+
+    if (!sim2Model || sim2StepIndex >= 7) {
+      const scenario = sim2AutoScenarios[sim2AutoIndex % sim2AutoScenarios.length];
+      sim2AutoIndex += 1;
+      sim2SetScenario(scenario);
+      sim2Prepare();
+    } else {
+      sim2NextStep();
+    }
+
+    const base = Number(sim2.speed.value);
+    const pause = sim2StepIndex >= 7 ? base * 2.2 : base;
+    sim2Timer = setTimeout(sim2AutoLoop, pause);
+  }
+
+  function sim2Randomize() {
+    const triggerKeys = Object.keys(sim2TriggerData);
+    const partnerKeys = Object.keys(sim2PartnerData);
+    sim2.trigger.value = triggerKeys[Math.floor(Math.random() * triggerKeys.length)];
+    sim2.partner.value = partnerKeys[Math.floor(Math.random() * partnerKeys.length)];
+    [sim2.sensitivity, sim2.stress, sim2.trauma, sim2.disinhibition, sim2.skills, sim2.support]
+      .forEach(input => input.value = Math.floor(Math.random() * 11));
+    sim2ActiveInterventions.clear();
+    document.querySelectorAll('#sim2Interventions button').forEach(button => button.classList.remove('active'));
+    sim2SyncOutputs();
+    sim2Prepare();
+  }
+
+  const sim2ManualControls = [
+    sim2.trigger, sim2.partner, sim2.sensitivity, sim2.stress, sim2.trauma,
+    sim2.disinhibition, sim2.skills, sim2.support
+  ];
+
+  sim2ManualControls.forEach(control => {
+    const event = control.tagName === 'SELECT' ? 'change' : 'input';
+    control.addEventListener(event, () => {
+      sim2SyncOutputs();
+      sim2StopAuto('Tryb ręczny. Zmiana parametru wyłączyła automatyczną pętlę.');
+      sim2Model = sim2Compute();
+      sim2FillTexts();
+      sim2RebuildToStep(Math.min(sim2StepIndex, 3));
+    });
+  });
+
+  document.querySelectorAll('#sim2Interventions button').forEach(button => {
+    button.addEventListener('click', () => {
+      sim2StopAuto('Tryb ręczny. Zastosowana interwencja ponownie obliczyła możliwą ścieżkę.');
+      const key = button.dataset.effect;
+      if (sim2ActiveInterventions.has(key)) sim2ActiveInterventions.delete(key);
+      else sim2ActiveInterventions.add(key);
+      button.classList.toggle('active', sim2ActiveInterventions.has(key));
+      const targetStep = Math.max(3, sim2StepIndex);
+      sim2RebuildToStep(targetStep);
+    });
+  });
+
+  sim2.start.addEventListener('click', () => {
+    sim2StopAuto('Tryb ręczny. Symulacja została uruchomiona od początku.');
+    sim2Prepare();
+  });
+  sim2.next.addEventListener('click', () => {
+    sim2StopAuto('Tryb ręczny. Przechodź po drzewie przyciskiem „Następny”.');
+    sim2NextStep();
+  });
+  sim2.prev.addEventListener('click', () => {
+    sim2StopAuto('Tryb ręczny. Cofnięto symulację o jeden krok.');
+    sim2PreviousStep();
+  });
+  sim2.random.addEventListener('click', () => {
+    sim2StopAuto('Tryb ręczny. Wylosowano nową konfigurację.');
+    sim2Randomize();
+  });
+  sim2.reset.addEventListener('click', () => {
+    sim2StopAuto('Przywrócono ustawienia początkowe. Włącz tryb auto, aby wznowić pętlę.');
+    sim2SetScenario(sim2AutoScenarios[0]);
+    sim2Model = null;
+    sim2StepIndex = 0;
+    sim2ResetVisuals();
+    sim2Prepare();
+  });
+
+  sim2.speed.addEventListener('change', () => {
+    if (sim2.auto.checked) {
+      if (sim2Timer) clearTimeout(sim2Timer);
+      sim2Timer = setTimeout(sim2AutoLoop, Number(sim2.speed.value));
+    }
+  });
+
+  sim2.auto.addEventListener('change', () => {
+    if (sim2.auto.checked) {
+      sim2.mode.textContent = 'Tryb auto jest aktywny. Ręczna ingerencja automatycznie go wyłącza.';
+      if (sim2Timer) clearTimeout(sim2Timer);
+      sim2Model = null;
+      sim2StepIndex = 0;
+      sim2Timer = setTimeout(sim2AutoLoop, 450);
+    } else {
+      sim2StopAuto('Tryb auto wyłączony. Możesz sterować drzewem ręcznie.');
+    }
+  });
+
+  sim2SyncOutputs();
+  sim2SetScenario(sim2AutoScenarios[0]);
+  sim2Prepare();
+  if (sim2.auto.checked) {
+    sim2.mode.textContent = 'Tryb auto jest aktywny. Ręczna ingerencja automatycznie go wyłącza.';
+    sim2Timer = setTimeout(sim2AutoLoop, 900);
+  }
 
 </script>
 </body>

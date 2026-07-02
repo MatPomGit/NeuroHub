@@ -38,7 +38,7 @@ W toku studiów psychologicznych często pojawiają się dwa podobnie brzmiące 
 
 Jeśli chcesz otrzymać wstępną rekomendację, przejdź do testu:
 
-**[Uruchom test wyboru specjalności](#students/test_specjalnosci)**
+**[Uruchom test wyboru specjalności](#dla_studentow/test_specjalnosci)**
 
 ## Co dalej po wyborze specjalności?
 

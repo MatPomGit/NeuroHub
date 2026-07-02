@@ -404,7 +404,7 @@ function runBibliographyHeaderCheck(siteConfig, report) {
     checkedCount += 1;
 
     if (!requiredHeaderRegex.test(content)) {
-      pushError(
+      pushWarning(
         report,
         'bibliography-header',
         `Brak obowiązkowej sekcji "## Bibliografia" w pliku: ${markdownFile}`

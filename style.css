@@ -329,7 +329,8 @@ em{color:var(--goldl)}
   cursor:pointer;
 }
 .btn-mobile-chapters:hover{color:var(--goldl);border-color:var(--gold)}
-.btn-mobile-toc{
+.btn-mobile-toc,
+.btn-mobile-extra-pages{
   display:none;
   border:1px solid var(--border);
   background:var(--bg3);
@@ -339,7 +340,8 @@ em{color:var(--goldl)}
   font-size:.78rem;
   cursor:pointer;
 }
-.btn-mobile-toc:hover{color:var(--goldl);border-color:var(--gold)}
+.btn-mobile-toc:hover,
+.btn-mobile-extra-pages:hover{color:var(--goldl);border-color:var(--gold)}
 .mobile-chapters-panel{
   display:none;
   position:sticky;
@@ -983,6 +985,7 @@ em{color:var(--goldl)}
   .btn-menu{display:flex;align-items:center}
   .btn-mobile-chapters{display:inline-flex;align-items:center}
   .btn-mobile-toc{display:inline-flex;align-items:center}
+  .btn-mobile-extra-pages{display:inline-flex;align-items:center}
   .mobile-chapters-panel{display:block}
   .mobile-wiki-toc-panel{display:block}
   .content{padding:1.6rem 1.2rem 3.5rem}

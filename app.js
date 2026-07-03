@@ -1697,7 +1697,7 @@ function renderWiki(id, wikiKey) {
 function renderPdfLabBrowser(section) {
   const files = Array.isArray(section.files) ? section.files : [];
   if (!files.length) {
-    return `<div class="wiki-sec"><div class="wiki-sec-title">${section.title || 'Instrukcje laboratoryjne'}</div><p>Brak dostępnych plikow PDF.</p></div>`;
+    return `<div class="wiki-sec"><div class="wiki-sec-title">${section.title || 'Instrukcje laboratoryjne'}</div><p>Brak dostępnych plików PDF.</p></div>`;
   }
   const optionsHtml = files.map((file, index) =>
     `<option value="${q(file.href)}" ${index === 0 ? 'selected' : ''}>${q(file.label)}</option>`

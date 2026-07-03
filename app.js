@@ -165,7 +165,7 @@ function md2html(src, currentFilePath = '') {
       const no = footnoteIndex.get(id);
       const rawContent = footnoteDefs.get(id) || 'Brak opisu źrodła.';
       const renderedContent = inl(rawContent, { parseFootnotes: false });
-      return `<li id="fn-${id}">${renderedContent} <a class="fn-back" href="#fnref-${id}" aria-label="Powrot do cytowania ${no}">â†©</a></li>`;
+      return `<li id="fn-${id}">${renderedContent} <a class="fn-back" href="#fnref-${id}" aria-label="Powrót do cytowania ${no}">↩</a></li>`;
     }).join('');
     src += `\n<section class="footnotes"><h2>Przypisy</h2><ol>${footnotesHtml}</ol></section>`;
   }
@@ -245,9 +245,9 @@ function resolveArticleLinkHref(rawHref, currentFilePath) {
   return href;
 }
 
-/* â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+/* ═══════════════════════════════════════════
    PAGE MAP & ROUTING
-â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• */
+═══════════════════════════════════════════ */
 var pageMap = new Map();
 var articleFileToIdMapCache = null;
 var mdCache = new Map();
@@ -378,7 +378,7 @@ function updateTopbarNextStep(id) {
   if (!nextItem) {
     host.innerHTML = `<button type="button" class="next-step-btn" onclick="navigate('dla_studentow/testy_teoretyczne')">
       <span class="next-step-label">Nastepny krok</span>
-      <span class="next-step-title">Sprawdź sie testem</span>
+      <span class="next-step-title">Sprawdź się testem</span>
     </button>`;
     return;
   }
@@ -592,25 +592,25 @@ const SIDEBAR_TOPIC_GROUPS = [
     id: 'fundamenty',
     label: 'Fundamenty psychologii',
     colorClass: 'topic-fundamenty',
-    sections: ['Wprowadzenie', 'Filozofia', 'Dla studentow', 'Seminarium dyplomowe', 'Eksperyment psychologiczny']
+    sections: ['Wprowadzenie', 'Filozofia', 'Dla studentów', 'Seminarium dyplomowe', 'Eksperyment psychologiczny']
   },
   {
     id: 'procesy',
     label: 'Procesy psychiczne i różnice indywidualne',
     colorClass: 'topic-procesy',
-    sections: ['Funkcje poznawcze', 'Emocje i motywacje', 'Temperament', 'Roznice indywidualne', 'Psychologia pozytywna', 'Odpornosc psychiczna']
+    sections: ['Funkcje poznawcze', 'Emocje i motywacje', 'Temperament', 'Różnice indywidualne', 'Psychologia pozytywna', 'Odporność psychiczna']
   },
   {
     id: 'rozwoj-spoleczenstwo',
     label: 'Rozwój, relacje i społeczeństwo',
     colorClass: 'topic-rozwoj',
-    sections: ['Psychologia rozwojowa', 'Psychologia spoleczna', 'Psychologia kulturowa', 'Psychologia religii', 'Relacje i zwiazki', 'Psychologia szkolna i edukacyjna', 'Psychologia osob z niepelnosprawnoscia', 'Psychologia osob w podeszlym wieku']
+    sections: ['Psychologia rozwojowa', 'Psychologia społeczna', 'Psychologia kulturowa', 'Psychologia religii', 'Relacje i związki', 'Psychologia szkolna i edukacyjna', 'Psychologia osób z niepełnosprawnością', 'Psychologia osób w podeszłym wieku']
   },
   {
     id: 'klinika',
     label: 'Klinika, zdrowie i pomoc',
     colorClass: 'topic-klinika',
-    sections: ['Psychopatologia', 'Zaburzenia kliniczne', 'Przypadki kliniczne', 'Diagnoza psychologiczna', 'Psychometria', 'Testy psychologiczne', 'Psychoterapia', 'Psychologia zdrowia', 'Psychosomatyka', 'Podstawy pomocy psychologicznej', 'Suicydologia', 'Wstep do psychologii klinicznej dziecka', 'Somatic Experiencing', 'Systemy rodzinne']
+    sections: ['Psychopatologia', 'Zaburzenia kliniczne', 'Przypadki kliniczne', 'Diagnoza psychologiczna', 'Psychometria', 'Testy psychologiczne', 'Psychoterapia', 'Psychologia zdrowia', 'Psychosomatyka', 'Podstawy pomocy psychologicznej', 'Suicydologia', 'Wstęp do psychologii klinicznej dziecka', 'Somatic Experiencing', 'Systemy rodzinne']
   },
   {
     id: 'neuro',
@@ -622,13 +622,13 @@ const SIDEBAR_TOPIC_GROUPS = [
     id: 'specjalizacje',
     label: 'Specjalizacje i konteksty stosowane',
     colorClass: 'topic-specjalizacje',
-    sections: ['Psychologia uzaleznien', 'Etyka zawodowa', 'Psychologia sadowa i opiniowanie', 'Seksuologia', 'Resocjalizacja', 'Instytucje pomocy dziecku i rodzinie', 'Reagowanie na krytyke', 'Psychologia nadmiernego jedzenia']
+    sections: ['Psychologia uzależnień', 'Etyka zawodowa', 'Psychologia sądowa i opiniowanie', 'Seksuologia', 'Resocjalizacja', 'Instytucje pomocy dziecku i rodzinie', 'Reagowanie na krytykę', 'Psychologia nadmiernego jedzenia']
   },
   {
     id: 'technologia',
     label: 'Technologia, media i nowe obszary',
     colorClass: 'topic-technologia',
-    sections: ['Psychologia gier wideo', 'Psychologia sztucznej inteligencji', 'Psychologia technologii i dobrostan cyfrowy', 'Robotyka afektywna i kognitywistyka', 'E-terapia', 'Ekrany, ksiazki, a natura', 'Porozumiewanie sie bez przemocy (NVC)', 'Arteterapia', 'Animaloterapia']
+    sections: ['Psychologia gier wideo', 'Psychologia sztucznej inteligencji', 'Psychologia technologii i dobrostan cyfrowy', 'Robotyka afektywna i kognitywistyka', 'E-terapia', 'Ekrany, książki, a natura', 'Porozumiewanie się bez przemocy (NVC)', 'Arteterapia', 'Animaloterapia']
   },
   {
     id: 'zasoby',
@@ -692,7 +692,7 @@ function renderSidebar() {
       html += `</button><div class="nav-items" id="${panelId}" role="group" aria-labelledby="${triggerId}">`;
       for (const item of sec.items) {
         if (item.href) {
-          html += `<a class="nav-item nav-item-external" href="${q(item.href)}" target="_blank" rel="noopener noreferrer">${item.label} â†-</a>`;
+          html += `<a class="nav-item nav-item-external" href="${q(item.href)}" target="_blank" rel="noopener noreferrer">${item.label} ↗</a>`;
         } else {
           const cls = ['nav-item', item.wiki?'is-wiki':'', item.kind === 'test' ? 'nav-item-test' : '', item.id===active?'is-active':''].filter(Boolean).join(' ');
           html += `<button type="button" class="${cls} nav-item-btn" data-action="navigate" data-id="${item.id}">${item.label}</button>`;
@@ -816,7 +816,7 @@ function navigate(id, replaceHistory) {
 /*  Load markdown */
 async function loadMd(id, item) {
   const area = document.getElementById('content');
-  area.innerHTML = '<div class="loading"><div class="spinner"></div>ładowanie¦</div>';
+  area.innerHTML = '<div class="loading"><div class="spinner"></div>Ładowanie…</div>';
   setBreadcrumb(item);
   if (mdCache.has(item.file)) {
     try {
@@ -843,10 +843,10 @@ async function loadMd(id, item) {
     updateEmptyIndicators();
     const title = item.label;
     const {prev,next} = prevNext(id);
-    const prevB = prev ? `<button class="pnav-btn" onclick="navigate('${prev.id}')"><span>â† ${prev.label}</span></button>`
-                       : `<button class="pnav-btn" disabled><span>â†</span></button>`;
-    const nextB = next ? `<button class="pnav-btn" onclick="navigate('${next.id}')"><span>${next.label} â†’</span></button>`
-                       : `<button class="pnav-btn" disabled><span>â†’</span></button>`;
+    const prevB = prev ? `<button class="pnav-btn" onclick="navigate('${prev.id}')"><span>← ${prev.label}</span></button>`
+                       : `<button class="pnav-btn" disabled><span>←</span></button>`;
+    const nextB = next ? `<button class="pnav-btn" onclick="navigate('${next.id}')"><span>${next.label} →</span></button>`
+                       : `<button class="pnav-btn" disabled><span>→</span></button>`;
     const domainKey = getDomainKeyForItem(id, item);
     const planItems = (SITE_CONFIG.plans || {})[domainKey] || [];
     const plansHtml = planItems.length ? renderPlans(planItems, id) : '';
@@ -887,10 +887,10 @@ function renderMd(text, id, item) {
   const title = h1m ? h1m[1] : item.label;
   const body  = h1m ? articleText.slice(articleText.indexOf(h1m[0])+h1m[0].length) : articleText;
   const {prev,next} = prevNext(id);
-  const prevB = prev ? `<button class="pnav-btn" onclick="navigate('${prev.id}')"><span>â† ${prev.label}</span></button>`
-                     : `<button class="pnav-btn" disabled><span>â†</span></button>`;
-  const nextB = next ? `<button class="pnav-btn" onclick="navigate('${next.id}')"><span>${next.label} â†’</span></button>`
-                     : `<button class="pnav-btn" disabled><span>â†’</span></button>`;
+  const prevB = prev ? `<button class="pnav-btn" onclick="navigate('${prev.id}')"><span>← ${prev.label}</span></button>`
+                     : `<button class="pnav-btn" disabled><span>←</span></button>`;
+  const nextB = next ? `<button class="pnav-btn" onclick="navigate('${next.id}')"><span>${next.label} →</span></button>`
+                     : `<button class="pnav-btn" disabled><span>→</span></button>`;
 
   // domain plans block
   const domainKey = getDomainKeyForItem(id, item);
@@ -1237,7 +1237,7 @@ function renderDailyPsychology(id, item) {
     return variants[Math.abs(seed) % variants.length];
   };
 
-  const today = new Date().getDay(); /* 0=niedziela ¦ 6=sobota */
+  const today = new Date().getDay(); /* 0=niedziela – 6=sobota */
   const orderedData = sortByMondayFirst(data);
   const displayDay = (dailySelectedDay !== null) ? dailySelectedDay : today;
   const entry = orderedData.find(e => e.day === displayDay) || orderedData[0];
@@ -1314,7 +1314,7 @@ function renderDailyPsychology(id, item) {
       bodyNode.innerHTML = `${fact.body ? `<p>${fact.body}</p>` : ''}${fact.source ? `<p><strong>źródło:</strong> ${fact.source}</p>` : ''}`;
     })
     .catch(() => {
-      /* Cichy fallback: gdy JSON nie jest dostepny, pozostaje treść lokalna z daily-psychology.js. */
+      /* Cichy fallback: gdy JSON nie jest dostępny, pozostaje treść lokalna z daily-psychology.js. */
     });
 }
 
@@ -1345,7 +1345,7 @@ function renderPlans(items, currentId) {
     const cls    = ['plan-item', effectiveStatus].join(' ');
     const navTo  = fileId ? `onclick="navigate('${fileId}')"` : '';
     const artid  = fileId ? `data-artid="${fileId}"` : '';
-    const badge  = isEmpty ? 'pusty' : (it.status==='live' ? 'dostepny' : 'planowany');
+    const badge  = isEmpty ? 'pusty' : (it.status==='live' ? 'dostępny' : 'planowany');
     return `<div class="${cls}" ${artid} ${effectiveStatus==='live'||effectiveStatus==='is-empty' ? navTo : ''}>
       <div class="plan-dot ${effectiveStatus}"></div>
       <span class="plan-label">${it.label}</span>
@@ -1457,7 +1457,7 @@ function applyMeasurementToolFilters(sectionElement) {
 
   const countElement = section.querySelector('.measurement-tools-count');
   if (countElement) {
-    countElement.textContent = `Widoczne narzedzia: ${visibleCount} / ${cards.length}`;
+    countElement.textContent = `Widoczne narzędzia: ${visibleCount} / ${cards.length}`;
   }
 }
 
@@ -1571,9 +1571,9 @@ function renderMeasurementTools(domainKey, currentId) {
 
   if (!Array.isArray(tools) || tools.length === 0) {
     return `<div class="plans-section measurement-tools-section">
-      <h2>Narzedzia pomiarowe</h2>
+      <h2>Narzędzia pomiarowe</h2>
       ${lastUpdatedHtml}
-      <div class="plans-empty-state">Spis narzedzi w przygotowaniu</div>
+      <div class="plans-empty-state">Spis narzędzi w przygotowaniu</div>
     </div>`;
   }
 
@@ -1608,7 +1608,7 @@ function renderMeasurementTools(domainKey, currentId) {
     return `<article class="plan-item live measurement-tool-card" data-tool-index="${toolIndex}" data-tool-type="${q(normalizeToolFilterToken(tool.type))}" data-tool-license="${q(normalizeToolFilterToken(tool.license))}" data-tool-evidence="${q(normalizeToolFilterToken(tool.evidenceLevel))}">
       <div class="plan-dot live"></div>
       <div class="measurement-tool-body">
-        <h3 class="measurement-tool-name">${q(tool.name || 'Narzedzie bez nazwy')}</h3>
+        <h3 class="measurement-tool-name">${q(tool.name || 'Narzędzie bez nazwy')}</h3>
         ${toolReviewMetaHtml}
         ${warningsHtml}
         <div class="measurement-tool-meta"><strong>Typ:</strong> ${q(tool.type || '-')}</div>
@@ -1624,7 +1624,7 @@ function renderMeasurementTools(domainKey, currentId) {
   }).join('');
 
   return `<div class="plans-section measurement-tools-section" data-domain-key="${q(domainKey)}">
-    <h2>Narzedzia pomiarowe</h2>
+    <h2>Narzędzia pomiarowe</h2>
     ${lastUpdatedHtml}
     ${controlsHtml}
     <p class="measurement-tools-count" aria-live="polite"></p>
@@ -1697,7 +1697,7 @@ function renderWiki(id, wikiKey) {
 function renderPdfLabBrowser(section) {
   const files = Array.isArray(section.files) ? section.files : [];
   if (!files.length) {
-    return `<div class="wiki-sec"><div class="wiki-sec-title">${section.title || 'Instrukcje laboratoryjne'}</div><p>Brak dostepnych plikow PDF.</p></div>`;
+    return `<div class="wiki-sec"><div class="wiki-sec-title">${section.title || 'Instrukcje laboratoryjne'}</div><p>Brak dostępnych plikow PDF.</p></div>`;
   }
   const optionsHtml = files.map((file, index) =>
     `<option value="${q(file.href)}" ${index === 0 ? 'selected' : ''}>${q(file.label)}</option>`
@@ -1708,11 +1708,11 @@ function renderPdfLabBrowser(section) {
     <div class="pdf-lab-controls">
       <label for="pdfLabSelect">Wybierz plik PDF:</label>
       <select id="pdfLabSelect">${optionsHtml}</select>
-      <a id="pdfLabOpenNewTab" href="${q(firstHref)}" target="_blank" rel="noopener noreferrer">Otworz w nowej karcie</a>
+      <a id="pdfLabOpenNewTab" href="${q(firstHref)}" target="_blank" rel="noopener noreferrer">Otwórz w nowej karcie</a>
     </div>
     <div class="pdf-lab-viewer-wrap">
       <iframe id="pdfLabViewer" src="${q(firstHref)}#view=FitH" title="Podgląd instrukcji laboratoryjnej PDF"></iframe>
-      <p class="pdf-lab-mobile-hint">Na urządzeniach mobilnych podgląd osadzony może być ograniczony - użyj przycisku Otworz w nowej karcie.</p>
+      <p class="pdf-lab-mobile-hint">Na urządzeniach mobilnych podgląd osadzony może być ograniczony - użyj przycisku Otwórz w nowej karcie.</p>
     </div>
   </div>`;
 }
@@ -1736,7 +1736,7 @@ function setupPdfLabBrowserInteractions() {
 function artCard(art) {
   const isEmpty = art.id && emptyArticles.has(art.id);
   const effectiveStatus = isEmpty ? 'is-empty' : (art.status === 'planned' ? 'is-disabled' : art.status);
-  const lbl = {live:'dostepny','is-disabled':'planowany',wiki:'wiki',xlink:'wspolny â†-','is-empty':'pusty'};
+  const lbl = {live:'dostępny','is-disabled':'planowany',wiki:'wiki',xlink:'wspólny ↗','is-empty':'pusty'};
   // Obsługa dwoch typow kart: nawigacja wewnetrzna (id) i odnośniki do stron HTML (href).
   const clickableById = (isEmpty || art.status==='live'||art.status==='wiki'||art.status==='xlink') && art.id;
   const clickableByHref = art.status === 'xlink' && art.href;
@@ -1961,26 +1961,26 @@ function renderHome() {
     {
       title: 'Nauka od podstaw',
       id: 'wstep_do_psychologii/definicja',
-      goal: 'Zacznij od fundamentow psychologii.',
+      goal: 'Zacznij od fundamentów psychologii.',
       benefit: 'W 10 minut zbudujesz kontekst do dalszej nauki.'
     },
     {
-      title: 'Sprawdź sie testem',
+      title: 'Sprawdź się testem',
       id: 'dla_studentow/testy_teoretyczne',
-      goal: 'Zweryfikuj, co już pamietasz.',
+      goal: 'Zweryfikuj, co już pamiętasz.',
       benefit: 'Szybko zobaczysz luki i priorytety nauki.'
     },
     {
-      title: 'Szybka powtorka',
+      title: 'Szybka powtórka',
       id: 'dla_studentow/psychologia_codziennej',
-      goal: 'Powtorz jedną małą porcje wiedzy.',
+      goal: 'Powtórz jedną małą porcję wiedzy.',
       benefit: 'Utrzymasz regularność bez długiej sesji.'
     },
     {
       title: 'Przejrzyj Wiki',
       id: 'wiki-index/slownik',
       goal: 'Znajdź temat lub termin w kilka sekund.',
-      benefit: 'Skrocisz czas szukania potrzebnej informacji.'
+      benefit: 'Skrócisz czas szukania potrzebnej informacji.'
     },
     {
       title: 'Dodatkowe strony',
@@ -2013,7 +2013,7 @@ function renderHome() {
 
   area.innerHTML = `<div class="rendered">
     <div class="home-hero">
-      <div class="home-eyebrow">Portal Wiedzy Psychologicznej</div>
+      <div class="home-eyebrow">Portal wiedzy psychologicznej</div>
       <h1>Witaj w <span>PsyHub</span></h1>
       <p>Wybierz ścieżkę i zacznij od razu. Krótkie kroki pomogą Ci uczyć się szybciej i z mniejszym stresem.</p>
       <div class="home-stats">
@@ -2033,7 +2033,7 @@ function renderHome() {
     <section class="home-block">
       <div class="home-block-head">
         <h2>Ostatnio odwiedzane</h2>
-        <p>Wroć do materiałów, ktore już przeglądałeś.</p>
+        <p>Wróć do materiałów, które już przeglądałeś.</p>
       </div>
       ${recentHtml}
     </section>
@@ -2170,7 +2170,7 @@ function rebuildSearchIndex() {
   searchFullTextLoadPromise = null;
 }
 
-/* ładuje treść plikow MD i buduje indeks pełnotekstowy używany przez wyszukiwarke. */
+/* Ładuje treść plików MD i buduje indeks pełnotekstowy używany przez wyszukiwarkę. */
 async function ensureFullTextSearchIndex() {
   if (searchFullTextLoadPromise) return searchFullTextLoadPromise;
   const markdownEntries = searchIndex.filter(entry => {
@@ -3022,7 +3022,7 @@ function shouldAskForReminderPermission() {
 
   const userAcceptedPrompt = window.confirm(
     'Czy chcesz włączyć codzienne powiadomienia PsyHub?\n\n' +
-    'Bedziesz otrzymywać jedną, losową ciekawostke psychologiczną każdego dnia o 08:00.'
+    'Będziesz otrzymywać jedną losową ciekawostkę psychologiczną każdego dnia o 08:00.'
   );
 
   localStorage.setItem(REMINDER_PERMISSION_PROMPT_KEY, '1');

@@ -89,7 +89,7 @@ Każdy nowy lub aktualizowany artykuł powinien (o ile temat na to pozwala) zawi
    - Nie dodawaj abstrakcji, warstw pośrednich, wzorców projektowych ani zależności „na zapas”.
    - Zanim utworzysz nowy mechanizm, sprawdź, czy istniejący kod projektu nie rozwiązuje już podobnego problemu w wystarczająco prosty sposób.
 
-2. **Nie przeinżynierowuj architektury strony**
+2. **Unikaj nadmiernego komplikowania (overengineeringu) architektury strony**
    - Unikaj rozbudowywania struktury katalogów, systemów konfiguracji i komponentów, jeśli zmiana dotyczy prostego wymagania.
    - Preferuj lokalne, czytelne modyfikacje zamiast globalnych refaktoryzacji, o ile nie są one konieczne dla bezpieczeństwa, poprawności lub spójności projektu.
    - Nowe narzędzia, biblioteki i procesy dodawaj tylko wtedy, gdy realnie upraszczają pracę albo eliminują konkretny, udokumentowany problem.

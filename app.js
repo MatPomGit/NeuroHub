@@ -1938,6 +1938,12 @@ function renderHome() {
       id: 'wiki-index/slownik',
       goal: 'Znajdź temat lub termin w kilka sekund.',
       benefit: 'Skrocisz czas szukania potrzebnej informacji.'
+    },
+    {
+      title: 'Dodatkowe strony',
+      id: 'wiki-index/dodatkowe_strony',
+      goal: 'Otwórz pomocnicze materiały HTML z jednego miejsca.',
+      benefit: 'Szybciej dotrzesz do prezentacji, raportów i stron uzupełniających.'
     }
   ];
   const startCardsHtml = startScenarios

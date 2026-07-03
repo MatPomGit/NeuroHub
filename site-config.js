@@ -1206,7 +1206,7 @@ window.SITE_CONFIG = {
         { id: 'wiki-index/nvc',                  label: 'WIKI - Porozumiewanie sie bez przemocy',    wiki: 'porozumiewanie_sie_bez_przemocy'                  },
         { id: 'wiki-index/seminarium_dyplomowe', label: 'WIKI - Seminarium dyplomowe',               wiki: 'seminarium_dyplomowe' },
         { id: 'wiki-index/podstawy_pomocy',      label: 'WIKI - Podstawy pomocy psychologicznej',    wiki: 'podstawy_pomocy'      },
-        { id: 'wiki-index/dodatkowe_strony',     label: 'WIKI - Dodatkowe strony',                   wiki: 'dodatkowe_strony'     },
+        { id: 'wiki-index/dodatkowe_strony',     label: 'Dodatkowe strony',                          wiki: 'dodatkowe_strony'     },
         { id: 'wiki-index/instrukcje_lab_pdf',   label: 'WIKI - Instrukcje laboratoryjne PDF',       wiki: 'instrukcje_lab_pdf'   },
       ]
     },
@@ -3421,7 +3421,7 @@ window.SITE_CONFIG = {
     },
 
     dodatkowe_strony: {
-      title: 'WIKI - Dodatkowe strony',
+      title: 'Dodatkowe strony',
       intro: 'Zbior dodatkowych materialow HTML umieszczonych w katalogu /pages. Sekcja ulatwia szybki dostep do stron pomocniczych i raportow.',
       sections: [
         {

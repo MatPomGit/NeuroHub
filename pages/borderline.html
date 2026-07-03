@@ -4303,7 +4303,9 @@
   }
 
   function sim2UpdateAutoStartVisibility() {
-    if (sim2.autoStart) sim2.autoStart.hidden = sim2.auto.checked;
+    if (sim2.autoStart && sim2.auto) {
+      sim2.autoStart.hidden = sim2.auto.checked;
+    }
   }
 
   function sim2EnsureAutoParameters() {

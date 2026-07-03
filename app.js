@@ -2363,7 +2363,7 @@ const speechState = {
   isSpeaking: false,
   autoNext: localStorage.getItem('psyhub-speech-auto-next') === '1',
   voiceMode: localStorage.getItem('psyhub-speech-voice-mode') || 'natural',
-  optionsCollapsed: localStorage.getItem('psyhub-speech-options-collapsed') === '1',
+  optionsCollapsed: localStorage.getItem('psyhub-speech-options-collapsed') !== '0',
 };
 
 const SPEECH_VOICE_PRESETS = {
@@ -2640,10 +2640,12 @@ function setupGlobalInteractions() {
   const logo = document.getElementById('sidebarLogo');
   const overlay = document.getElementById('overlay');
   const menuBtn = document.getElementById('mobileMenuButton');
+  const extraPagesBtn = document.getElementById('mobileExtraPagesButton');
   const breadcrumb = document.getElementById('breadcrumb');
 
   logo?.addEventListener('click', () => navigate(SITE_CONFIG.defaultPage));
   menuBtn?.addEventListener('click', openSidebar);
+  extraPagesBtn?.addEventListener('click', () => navigate('wiki-index/dodatkowe_strony'));
   overlay?.addEventListener('click', closeSidebar);
   breadcrumb?.addEventListener('click', (event) => {
     const target = event.target.closest('[data-nav-id]');

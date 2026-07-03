@@ -3213,18 +3213,33 @@
   const sections = [...document.querySelectorAll('main .section')];
   const navLinks = [...document.querySelectorAll('#toc a')];
 
-  const savedTheme = localStorage.getItem('bpd-theme');
+  const bpdStorage = (() => {
+    try {
+      const testKey = '__bpd_storage_test__';
+      localStorage.setItem(testKey, testKey);
+      localStorage.removeItem(testKey);
+      return localStorage;
+    } catch (error) {
+      return {
+        getItem: () => null,
+        setItem: () => {},
+        removeItem: () => {}
+      };
+    }
+  })();
+
+  const savedTheme = bpdStorage.getItem('bpd-theme');
   if (savedTheme) root.dataset.theme = savedTheme;
   themeToggle.addEventListener('click', () => {
     root.dataset.theme = root.dataset.theme === 'dark' ? 'light' : 'dark';
-    localStorage.setItem('bpd-theme', root.dataset.theme);
+    bpdStorage.setItem('bpd-theme', root.dataset.theme);
   });
 
-  let scale = Number(localStorage.getItem('bpd-font-scale') || 1);
+  let scale = Number(bpdStorage.getItem('bpd-font-scale') || 1);
   const applyScale = () => {
     scale = Math.max(.88, Math.min(1.25, scale));
     root.style.setProperty('--font-scale', scale);
-    localStorage.setItem('bpd-font-scale', scale);
+    bpdStorage.setItem('bpd-font-scale', scale);
   };
   applyScale();
   fontUp.addEventListener('click', () => { scale += .06; applyScale(); });

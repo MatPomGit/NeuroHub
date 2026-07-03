@@ -1813,24 +1813,67 @@ window.filterGloss = function(l){
   document.querySelectorAll('.gloss-group').forEach(g=>{ g.style.display=(l==='Wszystkie'||g.dataset.letter===l)?'':'none'; });
 };
 
+const DOMAIN_WIKI_INDEX_ALIASES = {
+  animaloterapia: 'terapie_artystyczne',
+  arteterapia: 'terapie_artystyczne',
+  biology: 'biologia',
+  ekrany_ksiazki_i_natura: 'media_natura',
+  geropsychologia: 'geropsychology',
+  neuro: 'neuropsychologia',
+  porozumiewanie_sie_bez_przemocy: 'nvc',
+  psychologia_ai: 'psych_ai',
+  psychologia_gier: 'gry_wideo',
+  psychologia_niepelnosprawnosci: 'niepelnosprawnosc',
+  psychologia_pozytywna: 'psych_pozytywna',
+  psychologia_rozwojowa: 'rozwojowa',
+  psychologia_sadowa: 'psych_sadowa',
+  psychologia_szkolna: 'psych_szkolna',
+  psychologia_zdrowia: 'zdrowie',
+  psychosomatyka: 'psychosomatics',
+  rezyliencja_i_mobbing: 'odpornosc_mobbing',
+  roznice_indywidualne: 'roznice_ind',
+};
+
+function addUniqueWikiCandidate(candidates, value) {
+  if (!value) return;
+  const normalized = String(value).trim();
+  if (!normalized || candidates.includes(normalized)) return;
+  candidates.push(normalized);
+}
+
+function getWikiIndexItemByKey(wikiIndexSection, wikiKey) {
+  if (!wikiKey) return null;
+  const indexItem = wikiIndexSection?.items?.find(item =>
+    item?.id && (item.wiki === wikiKey || item.id === `wiki-index/${wikiKey}` || item.id.endsWith(`/${wikiKey}`))
+  );
+  if (indexItem) return indexItem;
+  if (SITE_CONFIG.wikis?.[wikiKey]) {
+    const syntheticId = `wiki-index/${wikiKey}`;
+    return pageMap.has(syntheticId) ? pageMap.get(syntheticId) : { id: syntheticId, wiki: wikiKey };
+  }
+  return null;
+}
+
 /* Zwraca skonfigurowany indeks WIKI powiązany z działem strony głównej. */
 function getDomainWikiIndexItem(sec) {
   if (!sec) return null;
   const wikiIndexSection = SITE_CONFIG.nav.find(section => section.domainKey === 'wiki-index' || section.section === 'Encyklopedie');
-  const candidates = [
-    sec.domainKey,
-    ...(sec.items || []).map(item => item?.wiki),
-    ...(sec.items || []).map(item => inferDomainKeyFromId(item?.id)),
-    ...(sec.items || []).map(item => item?.file?.match(/^wiki\/([^/]+)\//)?.[1]),
-  ].filter(Boolean);
+  const candidates = [];
+  addUniqueWikiCandidate(candidates, sec.domainKey);
+  addUniqueWikiCandidate(candidates, DOMAIN_WIKI_INDEX_ALIASES[sec.domainKey]);
+  for (const item of sec.items || []) {
+    const idDomain = inferDomainKeyFromId(item?.id);
+    const fileDomain = item?.file?.match(/^wiki\/([^/]+)\//)?.[1];
+    addUniqueWikiCandidate(candidates, item?.wiki);
+    addUniqueWikiCandidate(candidates, idDomain);
+    addUniqueWikiCandidate(candidates, DOMAIN_WIKI_INDEX_ALIASES[idDomain]);
+    addUniqueWikiCandidate(candidates, fileDomain);
+    addUniqueWikiCandidate(candidates, DOMAIN_WIKI_INDEX_ALIASES[fileDomain]);
+  }
 
   for (const wikiKey of candidates) {
-    const indexItem = wikiIndexSection?.items?.find(item => item?.wiki === wikiKey && item?.id);
+    const indexItem = getWikiIndexItemByKey(wikiIndexSection, wikiKey);
     if (indexItem) return indexItem;
-    if (SITE_CONFIG.wikis?.[wikiKey]) {
-      const syntheticId = `wiki-index/${wikiKey}`;
-      return pageMap.has(syntheticId) ? pageMap.get(syntheticId) : { id: syntheticId, wiki: wikiKey };
-    }
   }
 
   const directWikiItem = (sec.items || []).find(item => item?.wiki && item?.id);

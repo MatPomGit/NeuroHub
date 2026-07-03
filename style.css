@@ -821,6 +821,7 @@ em{color:var(--goldl)}
 .d-name{font-family:var(--serif);font-size:1.02rem;font-weight:600;margin-bottom:.3rem}
 .d-desc{font-size:.76rem;color:var(--t3);line-height:1.5}
 .d-count{display:inline-block;font-size:.62rem;color:var(--gold);background:var(--goldt);border:1px solid rgba(201,162,39,.22);border-radius:99px;padding:.1rem .48rem;font-weight:600;margin-top:.45rem}
+.d-note{display:block;margin-top:.45rem;font-size:.68rem;line-height:1.35;color:var(--t3)}
 .home-block{margin-bottom:2rem}
 .home-block-head h2{font-family:var(--serif);font-size:1.35rem;font-weight:600;margin-bottom:.45rem}
 .home-block-head p{font-size:.84rem;color:var(--t3);margin-bottom:.9rem}

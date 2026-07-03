@@ -31,12 +31,26 @@ jobs:
 
       - name: Prepare static artifact
         run: |
+          rm -rf _site
           mkdir -p _site
-          find . -mindepth 1 -maxdepth 1 \
-            ! -name .git \
-            ! -name node_modules \
-            ! -name _site \
-            -exec cp -R {} _site/ \;
+          rsync -a ./ _site/ \
+            --exclude .git/ \
+            --exclude .github/ \
+            --exclude .githooks/ \
+            --exclude .vscode/ \
+            --exclude node_modules/ \
+            --exclude _site/
+          touch _site/.nojekyll
+
+      - name: Validate static artifact
+        run: |
+          test -f _site/index.html
+          if find _site -type l -print -quit | grep -q .; then
+            echo "GitHub Pages artifacts cannot contain symlinks." >&2
+            exit 1
+          fi
+          du -sh _site
+          find _site -type f | wc -l
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
@@ -45,4 +59,4 @@ jobs:
 
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5

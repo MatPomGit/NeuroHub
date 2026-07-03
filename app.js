@@ -2660,12 +2660,24 @@ function setupSpeechControls() {
 function openSidebar()  { document.getElementById('sidebar').classList.add('open');  document.getElementById('overlay').classList.add('open'); }
 function closeSidebar() { document.getElementById('sidebar').classList.remove('open'); document.getElementById('overlay').classList.remove('open'); }
 function getMainSections() {
-  if (!Array.isArray(SITE_CONFIG?.nav)) return [];
-  return SITE_CONFIG.nav
-    .map(section => {
-      const firstItem = Array.isArray(section?.items) ? section.items.find(item => item?.id) : null;
-      if (!section?.section || !firstItem?.id) return null;
-      return { label: section.section, id: firstItem.id };
+  return buildSidebarTopicGroups()
+    .map(group => {
+      const sections = Array.isArray(group?.sections)
+        ? group.sections
+            .map(section => {
+              const firstItem = Array.isArray(section?.items) ? section.items.find(item => item?.id) : null;
+              if (!section?.section || !firstItem?.id) return null;
+              return { label: section.section, id: firstItem.id };
+            })
+            .filter(Boolean)
+        : [];
+
+      if (!sections.length) return null;
+      return {
+        groupLabel: group.label,
+        colorClass: group.colorClass,
+        sections
+      };
     })
     .filter(Boolean);
 }
@@ -2677,10 +2689,17 @@ function setupMobileChaptersPanel() {
   const toggleBtn = document.getElementById('mobileChaptersButton');
   if (!panel || !list || !toggleBtn) return;
 
-  const sections = getMainSections();
-  list.innerHTML = sections.map(section => (
-    `<button type="button" class="mobile-chapter-item" data-section-id="${q(section.id)}">${q(section.label)}</button>`
-  )).join('');
+  const groups = getMainSections();
+  list.innerHTML = groups.map(group => `
+    <section class="mobile-chapter-group ${q(group.colorClass)}">
+      <div class="mobile-chapter-group-label">${q(group.groupLabel)}</div>
+      <div class="mobile-chapter-group-items">
+        ${group.sections.map(section => (
+          `<button type="button" class="mobile-chapter-item" data-section-id="${q(section.id)}">${q(section.label)}</button>`
+        )).join('')}
+      </div>
+    </section>
+  `).join('');
 
   const closePanel = () => {
     panel.classList.remove('open');

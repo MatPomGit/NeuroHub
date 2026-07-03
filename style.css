@@ -362,9 +362,26 @@ em{color:var(--goldl)}
 }
 .mobile-chapters-list{
   display:flex;
-  gap:.45rem;
+  gap:.7rem;
   overflow:auto;
   padding:.6rem .95rem .75rem;
+}
+.mobile-chapter-group{
+  display:flex;
+  flex-direction:column;
+  gap:.35rem;
+  min-width:max-content;
+}
+.mobile-chapter-group-label{
+  color:var(--t3);
+  font-size:.62rem;
+  font-weight:700;
+  letter-spacing:.08em;
+  text-transform:uppercase;
+}
+.mobile-chapter-group-items{
+  display:flex;
+  gap:.45rem;
 }
 .mobile-chapter-item{
   white-space:nowrap;

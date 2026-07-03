@@ -97,7 +97,7 @@ Każdy nowy lub aktualizowany artykuł powinien (o ile temat na to pozwala) zawi
 3. **Utrzymuj decyzje techniczne proporcjonalne do skali zadania**
    - Dla małych zmian stosuj małe, bezpośrednie poprawki.
    - Dla większych zmian najpierw zachowaj istniejące konwencje projektu, a dopiero potem rozważaj nową architekturę.
-   - Jeżeli wprowadzasz bardziej złożone rozwiązanie, krótko uzasadnij, jaki problem rozwiązuje i dlaczego prostsze podejście byłoby niewystarczające.
+   - Jeżeli wprowadzasz bardziej złożone rozwiązanie, krótko uzasadnij (np. w opisie Pull Requestu lub w komentarzu w kodzie), jaki problem ono rozwiązuje i dlaczego prostsze podejście byłoby niewystarczające.
 
 ## Dodatkowe zasady redakcyjne
 

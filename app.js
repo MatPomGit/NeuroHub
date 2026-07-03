@@ -398,6 +398,21 @@ function buildPageMap() {
         /* Jawny domainKey z konfiguracji ma pierwszeństwo; fallback utrzymuje kompatybilność starszych wpisow. */
         domainKey: item.domainKey || sec.domainKey || inferDomainKeyFromId(item.id),
       });
+
+  /* Tworzy syntetyczne strony przeglądowe dla indeksów WIKI istniejących poza jawna sekcja wiki-index. */
+  Object.entries(SITE_CONFIG.wikis || {}).forEach(([wikiKey, cfg]) => {
+    const alreadyRegistered = Array.from(pageMap.values()).some(item => item.wiki === wikiKey);
+    const syntheticId = `wiki-index/${wikiKey}`;
+    if (!alreadyRegistered && !pageMap.has(syntheticId)) {
+      pageMap.set(syntheticId, {
+        id: syntheticId,
+        label: cfg?.title || `WIKI - ${wikiKey}`,
+        wiki: wikiKey,
+        section: 'Encyklopedie',
+        domainKey: 'wiki-index',
+      });
+    }
+  });
 }
 
 /* Wyznacza klucz dziedziny z identyfikatora strony jako mechanizm zgodności wstecznej. */
@@ -1798,6 +1813,60 @@ window.filterGloss = function(l){
   document.querySelectorAll('.gloss-group').forEach(g=>{ g.style.display=(l==='Wszystkie'||g.dataset.letter===l)?'':'none'; });
 };
 
+/* Zwraca skonfigurowany indeks WIKI powiązany z działem strony głównej. */
+function getDomainWikiIndexItem(sec) {
+  if (!sec) return null;
+  const wikiIndexSection = SITE_CONFIG.nav.find(section => section.domainKey === 'wiki-index' || section.section === 'Encyklopedie');
+  const candidates = [
+    sec.domainKey,
+    ...(sec.items || []).map(item => item?.wiki),
+    ...(sec.items || []).map(item => inferDomainKeyFromId(item?.id)),
+    ...(sec.items || []).map(item => item?.file?.match(/^wiki\/([^/]+)\//)?.[1]),
+  ].filter(Boolean);
+
+  for (const wikiKey of candidates) {
+    const indexItem = wikiIndexSection?.items?.find(item => item?.wiki === wikiKey && item?.id);
+    if (indexItem) return indexItem;
+    if (SITE_CONFIG.wikis?.[wikiKey]) {
+      const syntheticId = `wiki-index/${wikiKey}`;
+      return pageMap.has(syntheticId) ? pageMap.get(syntheticId) : { id: syntheticId, wiki: wikiKey };
+    }
+  }
+
+  const directWikiItem = (sec.items || []).find(item => item?.wiki && item?.id);
+  if (directWikiItem) return directWikiItem;
+  return null;
+}
+
+/* Liczy wszystkie pozycje żywe w indeksie WIKI działu. */
+function countWikiIndexPages(wikiKey) {
+  const cfg = SITE_CONFIG.wikis?.[wikiKey];
+  if (!cfg?.sections) return 0;
+  return cfg.sections.reduce((sum, section) => sum + (section.articles || section.entries || []).length, 0);
+}
+
+/* Buduje metadane karty działu na stronie głównej. */
+function getHomeDomainCardMeta(sec) {
+  const articleCount = sec.items.filter(item => item?.file).length;
+  const testCount = sec.items.filter(item => item?.kind === 'test' || /test/i.test(item?.custom || '')).length;
+  const moduleCount = sec.items.filter(item => item?.custom && item?.kind !== 'test' && !/test/i.test(item?.custom || '')).length;
+  const wikiIndexItem = getDomainWikiIndexItem(sec);
+  const firstArticle = sec.items.find(item => item?.file && item?.id);
+  const fallbackItem = firstArticle || sec.items.find(item => item?.id);
+  const navItem = wikiIndexItem || fallbackItem;
+  const wikiPageCount = wikiIndexItem?.wiki ? countWikiIndexPages(wikiIndexItem.wiki) : 0;
+  const opensIndex = Boolean(wikiIndexItem);
+  return {
+    navId: navItem?.id || '',
+    articleCount,
+    testCount,
+    moduleCount,
+    wikiPageCount,
+    opensIndex,
+    fallbackLabel: fallbackItem?.label || '',
+  };
+}
+
 /*  Home  */
 function renderHome() {
   const area = document.getElementById('content');
@@ -1820,13 +1889,20 @@ function renderHome() {
 
   const cardsByGroup = domainGroups.map(group => {
     const cards = group.sections.map(sec => {
-      const cnt = sec.items.filter(i => i.file).length;
-      const firstArticle = sec.items.find(i => i?.file && i?.id);
-      const navId = firstArticle?.id || sec.items[0]?.id || '';
+      const meta = getHomeDomainCardMeta(sec);
+      const cnt = meta.articleCount;
+      const navId = meta.navId;
       if (!navId) return '';
-      return `<button type="button" role="link" class="domain-card" onclick="navigate('${navId}')">
-        <div class="d-name">${sec.section}</div>
-        <span class="d-count">${cnt} art.</span>
+      const extraCounts = [
+        meta.wikiPageCount ? `${meta.wikiPageCount} stron wiki` : '',
+        meta.testCount ? `${meta.testCount} test.` : '',
+        meta.moduleCount ? `${meta.moduleCount} mod.` : '',
+      ].filter(Boolean);
+      const fallbackInfo = meta.opensIndex ? '' : `<span class="d-note">Otwiera pierwszy tekst działu${meta.fallbackLabel ? `: ${q(meta.fallbackLabel)}` : ''}.</span>`;
+      return `<button type="button" role="link" class="domain-card" onclick="navigate('${q(navId)}')">
+        <div class="d-name">${q(sec.section)}</div>
+        <span class="d-count">${cnt} art.${extraCounts.length ? ` · ${extraCounts.join(' · ')}` : ''}</span>
+        ${fallbackInfo}
       </button>`;
     }).join('');
 

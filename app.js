@@ -589,13 +589,13 @@ const SIDEBAR_TOPIC_GROUPS = [
     id: 'rozwoj-spoleczenstwo',
     label: 'Rozwój, relacje i społeczeństwo',
     colorClass: 'topic-rozwoj',
-    sections: ['Psychologia Rozwojowa', 'Psychologia spoleczna', 'Psychologia kulturowa', 'Psychologia religii', 'Relacje i zwiazki', 'Psychologia szkolna i edukacyjna', 'Psychologia osob z niepelnosprawnoscia', 'Psychologia osob w podeszlym wieku']
+    sections: ['Psychologia rozwojowa', 'Psychologia spoleczna', 'Psychologia kulturowa', 'Psychologia religii', 'Relacje i zwiazki', 'Psychologia szkolna i edukacyjna', 'Psychologia osob z niepelnosprawnoscia', 'Psychologia osob w podeszlym wieku']
   },
   {
     id: 'klinika',
     label: 'Klinika, zdrowie i pomoc',
     colorClass: 'topic-klinika',
-    sections: ['Psychopatologia', 'Zaburzenia kliniczne', 'Przypadki kliniczne', 'Diagnoza psychologiczna', 'Psychometria', 'Testy psychologiczne', 'Psychoterapia', 'Psychologia zdrowia', 'Psychosomatyka', 'Podstawy pomocy psychologicznej', 'Suicydologia', 'Wstep do psychologii klinicznej dziecka', 'Somatic Experiencing', 'Systemy Rodzinne']
+    sections: ['Psychopatologia', 'Zaburzenia kliniczne', 'Przypadki kliniczne', 'Diagnoza psychologiczna', 'Psychometria', 'Testy psychologiczne', 'Psychoterapia', 'Psychologia zdrowia', 'Psychosomatyka', 'Podstawy pomocy psychologicznej', 'Suicydologia', 'Wstep do psychologii klinicznej dziecka', 'Somatic Experiencing', 'Systemy rodzinne']
   },
   {
     id: 'neuro',

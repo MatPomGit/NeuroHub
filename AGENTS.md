@@ -82,6 +82,23 @@ Każdy nowy lub aktualizowany artykuł powinien (o ile temat na to pozwala) zawi
    - Artykuł umieszczaj wyłącznie w folderze odpowiadającym jego tematyce (np. diagnoza → `wiki/diagnoza/`, relacje → `wiki/relacje/`).
    - Przy zmianie nazwy lub lokalizacji pliku zaktualizuj wszystkie odwołania (linki wewnętrzne, `site-config.js`, raporty referencyjne).
 
+## Zasady pracy nad architekturą i kodem strony
+
+1. **Stosuj zasadę KISS (Keep It Simple, Stupid)**
+   - Wybieraj najprostsze rozwiązanie, które poprawnie spełnia wymagania użytkownika i jest łatwe do utrzymania.
+   - Nie dodawaj abstrakcji, warstw pośrednich, wzorców projektowych ani zależności „na zapas”.
+   - Zanim utworzysz nowy mechanizm, sprawdź, czy istniejący kod projektu nie rozwiązuje już podobnego problemu w wystarczająco prosty sposób.
+
+2. **Unikaj nadmiernego komplikowania (overengineeringu) architektury strony**
+   - Unikaj rozbudowywania struktury katalogów, systemów konfiguracji i komponentów, jeśli zmiana dotyczy prostego wymagania.
+   - Preferuj lokalne, czytelne modyfikacje zamiast globalnych refaktoryzacji, o ile nie są one konieczne dla bezpieczeństwa, poprawności lub spójności projektu.
+   - Nowe narzędzia, biblioteki i procesy dodawaj tylko wtedy, gdy realnie upraszczają pracę albo eliminują konkretny, udokumentowany problem.
+
+3. **Utrzymuj decyzje techniczne proporcjonalne do skali zadania**
+   - Dla małych zmian stosuj małe, bezpośrednie poprawki.
+   - Dla większych zmian najpierw zachowaj istniejące konwencje projektu, a dopiero potem rozważaj nową architekturę.
+   - Jeżeli wprowadzasz bardziej złożone rozwiązanie, krótko uzasadnij (np. w opisie Pull Requestu lub w komentarzu w kodzie), jaki problem ono rozwiązuje i dlaczego prostsze podejście byłoby niewystarczające.
+
 ## Dodatkowe zasady redakcyjne
 
 1. Unikaj sensacyjności i języka stygmatyzującego.

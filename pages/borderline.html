@@ -3215,15 +3215,17 @@
 
   const bpdStorage = (() => {
     try {
+      const storage = window.localStorage;
       const testKey = '__bpd_storage_test__';
-      localStorage.setItem(testKey, testKey);
-      localStorage.removeItem(testKey);
-      return localStorage;
+      storage.setItem(testKey, testKey);
+      storage.removeItem(testKey);
+      return storage;
     } catch (error) {
+      const cache = {};
       return {
-        getItem: () => null,
-        setItem: () => {},
-        removeItem: () => {}
+        getItem: (key) => (key in cache ? cache[key] : null),
+        setItem: (key, value) => { cache[key] = String(value); },
+        removeItem: (key) => { delete cache[key]; }
       };
     }
   })();

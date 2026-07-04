@@ -1160,6 +1160,7 @@ section,
 .guide-tab[data-guide-tab="przyczyny"]{--tab-accent:#147a68;--tab-soft:#e5f6f1;--tab-on:#fff}
 .guide-tab[data-guide-tab="reakcja"]{--tab-accent:#b56808;--tab-soft:#fff1d8;--tab-on:#fff}
 .guide-tab[data-guide-tab="praktyka"]{--tab-accent:#6d4ab0;--tab-soft:#f1ecfb;--tab-on:#fff}
+.guide-tab[data-guide-tab="dziecko"]{--tab-accent:#0f8a7a;--tab-soft:#e5f7f3;--tab-on:#fff}
 .guide-tab[data-guide-tab="wsparcie"]{--tab-accent:#b33b3b;--tab-soft:#fdeced;--tab-on:#fff}
 .guide-tab[data-guide-tab="wiedza"]{--tab-accent:#16758a;--tab-soft:#e7f6f9;--tab-on:#fff}
 
@@ -1167,6 +1168,7 @@ html[data-theme="dark"] .guide-tab[data-guide-tab="analiza"]{--tab-accent:#8aabf
 html[data-theme="dark"] .guide-tab[data-guide-tab="przyczyny"]{--tab-accent:#73d0b6;--tab-soft:#173b34;--tab-on:#0c1422}
 html[data-theme="dark"] .guide-tab[data-guide-tab="reakcja"]{--tab-accent:#f0b86e;--tab-soft:#44321b;--tab-on:#0c1422}
 html[data-theme="dark"] .guide-tab[data-guide-tab="praktyka"]{--tab-accent:#c0a5ff;--tab-soft:#352b53;--tab-on:#0c1422}
+html[data-theme="dark"] .guide-tab[data-guide-tab="dziecko"]{--tab-accent:#7de0cf;--tab-soft:#173d37;--tab-on:#0c1422}
 html[data-theme="dark"] .guide-tab[data-guide-tab="wsparcie"]{--tab-accent:#f29a9a;--tab-soft:#47272b;--tab-on:#0c1422}
 html[data-theme="dark"] .guide-tab[data-guide-tab="wiedza"]{--tab-accent:#76d3e3;--tab-soft:#173944;--tab-on:#0c1422}
 
@@ -1186,6 +1188,7 @@ html[data-theme="dark"] .guide-tab[data-guide-tab="wiedza"]{--tab-accent:#76d3e3
 .guide-panel[data-category="przyczyny"]{--cat-accent:#147a68;--cat-soft:#e5f6f1;--cat-on:#fff}
 .guide-panel[data-category="reakcja"]{--cat-accent:#b56808;--cat-soft:#fff1d8;--cat-on:#fff}
 .guide-panel[data-category="praktyka"]{--cat-accent:#6d4ab0;--cat-soft:#f1ecfb;--cat-on:#fff}
+.guide-panel[data-category="dziecko"]{--cat-accent:#0f8a7a;--cat-soft:#e5f7f3;--cat-on:#fff}
 .guide-panel[data-category="wsparcie"]{--cat-accent:#b33b3b;--cat-soft:#fdeced;--cat-on:#fff}
 .guide-panel[data-category="wiedza"]{--cat-accent:#16758a;--cat-soft:#e7f6f9;--cat-on:#fff}
 
@@ -1193,6 +1196,7 @@ html[data-theme="dark"] .guide-panel[data-category="analiza"]{--cat-accent:#8aab
 html[data-theme="dark"] .guide-panel[data-category="przyczyny"]{--cat-accent:#73d0b6;--cat-soft:#173b34;--cat-on:#0c1422}
 html[data-theme="dark"] .guide-panel[data-category="reakcja"]{--cat-accent:#f0b86e;--cat-soft:#44321b;--cat-on:#0c1422}
 html[data-theme="dark"] .guide-panel[data-category="praktyka"]{--cat-accent:#c0a5ff;--cat-soft:#352b53;--cat-on:#0c1422}
+html[data-theme="dark"] .guide-panel[data-category="dziecko"]{--cat-accent:#7de0cf;--cat-soft:#173d37;--cat-on:#0c1422}
 html[data-theme="dark"] .guide-panel[data-category="wsparcie"]{--cat-accent:#f29a9a;--cat-soft:#47272b;--cat-on:#0c1422}
 html[data-theme="dark"] .guide-panel[data-category="wiedza"]{--cat-accent:#76d3e3;--cat-soft:#173944;--cat-on:#0c1422}
 
@@ -1801,6 +1805,33 @@ html[data-theme="dark"] .hero-cta .btn.primary:hover{
   .regulation-state-panel{grid-template-columns:1fr}
 }
 
+/* ===== Zakładka dla dziecka ===== */
+.child-note-grid,
+.child-exercise-grid,
+.child-consequence-grid{
+  display:grid;
+  grid-template-columns:repeat(2,minmax(0,1fr));
+  gap:14px;
+  margin:16px 0;
+}
+.child-card,
+.child-exercise,
+.child-consequence{
+  border:1px solid var(--line);
+  border-radius:16px;
+  padding:17px;
+  background:var(--paper-soft);
+}
+.child-card h3,
+.child-exercise h3,
+.child-consequence h3{margin:0 0 8px;font-size:1.06rem}
+.child-steps{list-style:none;padding:0;margin:12px 0;counter-reset:child-step}
+.child-steps li{position:relative;margin:8px 0;padding:12px 12px 12px 50px;border:1px solid var(--line);border-radius:13px;background:var(--paper)}
+.child-steps li::before{counter-increment:child-step;content:counter(child-step);position:absolute;left:12px;top:11px;width:28px;height:28px;border-radius:9px;display:grid;place-items:center;background:var(--cat-accent);color:var(--cat-on);font-weight:900}
+.child-contract{border:1px solid color-mix(in srgb,var(--cat-accent) 35%,var(--line));border-radius:18px;padding:18px;background:linear-gradient(145deg,var(--paper),var(--cat-soft));margin:18px 0}
+.child-contract p{margin:.45rem 0}
+@media(max-width:760px){.child-note-grid,.child-exercise-grid,.child-consequence-grid{grid-template-columns:1fr}}
+
 /* ===== Responsywne tabele bez przewijania poziomego ===== */
 .tracker{
   overflow:visible!important;
@@ -1946,7 +1977,7 @@ td textarea{
 <div class="disclaimer-inner">
 </div>
 </div></header>
-<nav aria-label="Główne kategorie poradnika" class="guide-tabs-shell"><div class="guide-tabs-inner"><div aria-label="Kategorie tematyczne" class="guide-tabs" role="tablist"><button aria-controls="category-analiza" aria-selected="true" class="guide-tab active" data-guide-tab="analiza" id="guide-tab-analiza" role="tab" tabindex="0" type="button"><span class="guide-tab-text">Analiza sytuacji</span></button><button aria-controls="category-przyczyny" aria-selected="false" class="guide-tab" data-guide-tab="przyczyny" id="guide-tab-przyczyny" role="tab" tabindex="-1" type="button"><span class="guide-tab-text">Możliwe przyczyny</span></button><button aria-controls="category-reakcja" aria-selected="false" class="guide-tab" data-guide-tab="reakcja" id="guide-tab-reakcja" role="tab" tabindex="-1" type="button"><span class="guide-tab-text">Reakcja rodzica</span></button><button aria-controls="category-praktyka" aria-selected="false" class="guide-tab" data-guide-tab="praktyka" id="guide-tab-praktyka" role="tab" tabindex="-1" type="button"><span class="guide-tab-text">Przykłady i rutyny</span></button><button aria-controls="category-wsparcie" aria-selected="false" class="guide-tab" data-guide-tab="wsparcie" id="guide-tab-wsparcie" role="tab" tabindex="-1" type="button"><span class="guide-tab-text">Szkoła i pomoc</span></button><button aria-controls="category-wiedza" aria-selected="false" class="guide-tab" data-guide-tab="wiedza" id="guide-tab-wiedza" role="tab" tabindex="-1" type="button"><span class="guide-tab-text">Dane i źródła</span></button></div></div></nav>
+<nav aria-label="Główne kategorie poradnika" class="guide-tabs-shell"><div class="guide-tabs-inner"><div aria-label="Kategorie tematyczne" class="guide-tabs" role="tablist"><button aria-controls="category-analiza" aria-selected="true" class="guide-tab active" data-guide-tab="analiza" id="guide-tab-analiza" role="tab" tabindex="0" type="button"><span class="guide-tab-text">Analiza sytuacji</span></button><button aria-controls="category-przyczyny" aria-selected="false" class="guide-tab" data-guide-tab="przyczyny" id="guide-tab-przyczyny" role="tab" tabindex="-1" type="button"><span class="guide-tab-text">Możliwe przyczyny</span></button><button aria-controls="category-reakcja" aria-selected="false" class="guide-tab" data-guide-tab="reakcja" id="guide-tab-reakcja" role="tab" tabindex="-1" type="button"><span class="guide-tab-text">Reakcja rodzica</span></button><button aria-controls="category-praktyka" aria-selected="false" class="guide-tab" data-guide-tab="praktyka" id="guide-tab-praktyka" role="tab" tabindex="-1" type="button"><span class="guide-tab-text">Przykłady i rutyny</span></button><button aria-controls="category-dziecko" aria-selected="false" class="guide-tab" data-guide-tab="dziecko" id="guide-tab-dziecko" role="tab" tabindex="-1" type="button"><span class="guide-tab-text">Dla dziecka</span></button><button aria-controls="category-wsparcie" aria-selected="false" class="guide-tab" data-guide-tab="wsparcie" id="guide-tab-wsparcie" role="tab" tabindex="-1" type="button"><span class="guide-tab-text">Szkoła i pomoc</span></button><button aria-controls="category-wiedza" aria-selected="false" class="guide-tab" data-guide-tab="wiedza" id="guide-tab-wiedza" role="tab" tabindex="-1" type="button"><span class="guide-tab-text">Dane i źródła</span></button></div></div></nav>
 <aside aria-label="Narzędzia strony" class="floating-dock is-collapsed" id="floatingDock">
 <button aria-controls="dockTools" aria-expanded="false" aria-label="Rozwiń pasek narzędzi" class="dock-toggle" id="dockToggle" title="Rozwiń pasek narzędzi" type="button">
 <span aria-hidden="true" class="dock-toggle-icon">☰</span><span class="dock-toggle-label">Narzędzia</span>
@@ -2797,7 +2828,61 @@ td textarea{
     <a href="#src-regression-loss">[13]</a>.
   </p>
 </section>
-<div aria-label="Nawigacja między kategoriami" class="category-pager"><button class="category-step category-step-prev" data-go-category="reakcja" type="button"><span>Poprzednia kategoria</span><strong>← Jak reagować</strong></button><button class="category-step category-step-next" data-go-category="wsparcie" type="button"><span>Następna kategoria</span><strong>Szkoła i dalsza pomoc →</strong></button></div></div><div aria-labelledby="guide-tab-wsparcie" class="guide-panel" data-category="wsparcie" hidden="" id="category-wsparcie" role="tabpanel"><div class="category-overview"><div class="category-overview-head"><div><h2 class="category-title">Szkoła i pomoc</h2><p class="category-description">Krótki plan współpracy ze szkołą i kryteria konsultacji.</p></div></div><nav aria-label="Podkategorie: Szkoła i dalsza pomoc" class="subcategory-nav"><span class="subcategory-label">W tej zakładce:</span><div class="subcategory-links"><a class="subcategory-link" data-section-link="" href="#szkola">Plan dla szkoły</a><a class="subcategory-link" data-section-link="" href="#kiedy-pomoc">Kiedy po pomoc</a></div></nav></div><section data-category="wsparcie" id="szkola">
+<div aria-label="Nawigacja między kategoriami" class="category-pager"><button class="category-step category-step-prev" data-go-category="reakcja" type="button"><span>Poprzednia kategoria</span><strong>← Jak reagować</strong></button><button class="category-step category-step-next" data-go-category="dziecko" type="button"><span>Następna kategoria</span><strong>Zakładka dla dziecka →</strong></button></div></div><div aria-labelledby="guide-tab-dziecko" class="guide-panel" data-category="dziecko" hidden="" id="category-dziecko" role="tabpanel"><div class="category-overview"><div class="category-overview-head"><div><h2 class="category-title">Dla dziecka: jak mniej się kłócić w domu</h2><p class="category-description">Prosty język, jasne konsekwencje i ćwiczenia do powtarzania, żeby łatwiej zatrzymać bunt, krzyk i awantury.</p></div></div><nav aria-label="Podkategorie: Dla dziecka" class="subcategory-nav"><span class="subcategory-label">W tej zakładce:</span><div class="subcategory-links"><a class="subcategory-link" data-section-link="" href="#dziecko-co-sie-dzieje">Co się ze mną dzieje</a><a class="subcategory-link" data-section-link="" href="#dziecko-obowiazki">Obowiązki i bezpieczeństwo</a><a class="subcategory-link" data-section-link="" href="#dziecko-konsekwencje">Co robi krzyk</a><a class="subcategory-link" data-section-link="" href="#dziecko-cwiczenia">Ćwiczenia</a></div></nav></div><section data-category="dziecko" id="dziecko-co-sie-dzieje">
+<span class="tag">Przeczytaj samodzielnie albo z dorosłym</span>
+<h2>Co może się dziać, gdy bardzo się buntujesz</h2>
+<p class="section-lead">Bunt, krzyk albo awantura często oznaczają, że w środku jest za dużo napięcia: złości, wstydu, zmęczenia, strachu przed błędem albo poczucia, że nikt cię nie słucha. To nie znaczy, że jesteś „złym dzieckiem”. To znaczy, że twój mózg i ciało potrzebują lepszego planu działania.</p>
+<div class="child-note-grid">
+<article class="child-card"><h3>„Nie chcę!” może znaczyć: „To jest za trudne naraz”</h3><p>Gdy zadanie ma dużo kroków, na przykład sprzątanie całego pokoju, łatwo się zablokować. Wtedy poproś o pierwszy mały krok: „Powiedz mi tylko, od czego zacząć”.</p></article>
+<article class="child-card"><h3>„Daj mi spokój!” może znaczyć: „Mam za dużo emocji”</h3><p>Kiedy ciało jest na poziomie 4 albo 5, długie rozmowy zwykle nie pomagają. Lepiej użyć krótkiego zdania: „Potrzebuję 3 minut przerwy i wrócę”.</p></article>
+<article class="child-card"><h3>„To niesprawiedliwe!” może znaczyć: „Chcę mieć wpływ”</h3><p>Nie zawsze możesz wybrać, czy obowiązek istnieje. Często możesz wybrać sposób: najpierw plecak czy ubranie, sprzątanie klocków czy książek, woda czy chwila ciszy.</p></article>
+<article class="child-card"><h3>„Nie umiem” może znaczyć: „Boję się porażki”</h3><p>Błąd nie jest dowodem, że jesteś beznadziejny. To informacja, który krok trzeba przećwiczyć wolniej albo z pomocą.</p></article>
+</div>
+<div class="callout blue"><strong>Ważna zasada:</strong> emocje są dozwolone, ale krzywdzenie ludzi, niszczenie rzeczy i straszenie innych nie jest dozwolone. Możesz być bardzo zły i nadal uczyć się bezpiecznego sposobu pokazania złości. <a href="#src-selfreg-aap">Źródło [16]</a></div>
+
+</section><section data-category="dziecko" id="dziecko-obowiazki">
+<h2>Dlaczego warto słuchać, gdy mama daje zadanie</h2>
+<p class="section-lead">Kiedy mama mówi: „posprzątaj pokój”, „poskładaj ubrania” albo „najpierw dokończ zadanie”, nie robi tego po to, żeby zepsuć zabawę. To ważna część wychowywania: dorosły uczy cię odpowiedzialności, dbania o wspólne miejsce i kończenia tego, co trzeba zrobić.</p>
+<div class="child-note-grid">
+<article class="child-card"><h3>Obowiązek jest częścią życia rodzinnego</h3><p>Pokój, ubrania, plecak i zabawki są twoją przestrzenią. Gdy uczysz się o nią dbać, pomagasz rodzinie i ćwiczysz umiejętność, która będzie potrzebna w szkole, w sporcie i w dorosłym życiu.</p></article>
+<article class="child-card"><h3>Słuchanie rodzica buduje zaufanie</h3><p>Jeżeli mama widzi, że reagujesz na polecenie i wracasz do zadania, łatwiej jej później zgodzić się na samodzielną zabawę, wyjście na podwórko albo spotkanie z kolegami.</p></article>
+<article class="child-card"><h3>Najpierw zadanie, potem zabawa</h3><p>Gdy inne dzieci wołają cię na podwórko, a mama dała zadanie, zatrzymaj się. Powiedz dzieciom: „Najpierw kończę sprzątanie, potem zapytam mamę, czy mogę wyjść”.</p></article>
+<article class="child-card"><h3>Rodzic odpowiada za twoje bezpieczeństwo</h3><p>Nie oddalaj się samodzielnie od domu bez wiedzy rodzica. Nieważne, jak ciekawą zabawę proponują inne dzieci: to mama, tata albo opiekun decyduje, kiedy i gdzie możesz wyjść, bo dorosły lepiej ocenia bezpieczeństwo, czas, miejsce i ryzyko.</p></article>
+</div>
+<div class="callout red"><strong>Zasada bez wyjątków:</strong> nie wychodzę z domu, klatki, ogrodu ani spod bloku bez wiedzy i zgody rodzica. Jeśli ktoś woła: „chodź szybko”, odpowiadam: „Muszę zapytać mamę”. Dopiero po zgodzie dorosłego mogę iść.</div>
+<div class="child-contract"><h3>Plan: wołają mnie dzieci, a ja mam sprzątać</h3><ol class="child-steps"><li>Zatrzymuję ciało przy drzwiach albo oknie i nie wybiegam.</li><li>Mówię dzieciom: „Mam zadanie. Zapytam mamę po sprzątaniu”.</li><li>Wracam do pierwszego kroku: na przykład składam ubrania z krzesła albo zbieram rzeczy z podłogi.</li><li>Po skończeniu mówię mamie: „Zadanie zrobione. Czy mogę wyjść na podwórko?”.</li><li>Jeśli mama mówi „nie teraz”, zostaję w domu i pytam, kiedy będzie dobry moment.</li></ol></div>
+<div class="compare">
+<div class="bad"><h4>Częsty błąd</h4><p>Dziecko słyszy kolegów, wychodzi bez pytania, a pokój zostaje niesprzątnięty. Skutek: rodzic się martwi, traci zaufanie i następne wyjście może być trudniejsze.</p></div>
+<div class="good"><h4>Dobra praktyka</h4><p>Dziecko kończy mały krok, pyta o zgodę i wychodzi dopiero po decyzji mamy. Skutek: mniej konfliktu, więcej bezpieczeństwa i większe zaufanie.</p></div>
+</div>
+</section><section data-category="dziecko" id="dziecko-konsekwencje">
+<h2>Co się dzieje po krzyku, awanturze i buncie</h2>
+<p>Krzyk czasem daje krótką ulgę, bo wszyscy się zatrzymują. Problem polega na tym, że później zostają trudniejsze skutki.</p>
+<div class="child-consequence-grid">
+<article class="child-consequence"><h3>W domu robi się mniej bezpiecznie</h3><p>Rodzice i rodzeństwo mogą się bać albo złościć. Wtedy trudniej im spokojnie ci pomóc.</p></article>
+<article class="child-consequence"><h3>Obowiązek zwykle nie znika</h3><p>Talerz, lekcje, sen albo sprzątanie nadal czekają. Po awanturze masz więc i emocje, i zadanie do wykonania.</p></article>
+<article class="child-consequence"><h3>Tracisz zaufanie do własnej kontroli</h3><p>Po wybuchu możesz myśleć: „Znowu nie dałem rady”. Ćwiczenia pomagają zobaczyć: „Umiem zatrzymać się wcześniej”.</p></article>
+<article class="child-consequence"><h3>Naprawianie trwa dłużej niż przerwa</h3><p>Jeśli coś zostało rzucone, pobrudzone albo ktoś został zraniony słowami, trzeba potem posprzątać, przeprosić lub ustalić plan naprawy.</p></article>
+</div>
+<div class="compare">
+<div class="bad"><h4>Błędne koło</h4><p>Napięcie rośnie → krzyczę → dorosły krzyczy albo zadanie się opóźnia → problem wraca następnym razem.</p></div>
+<div class="good"><h4>Nowe koło</h4><p>Napięcie rośnie → mówię „przerwa” → robię ćwiczenie → wracam do jednego małego kroku → konflikt jest krótszy.</p></div>
+</div>
+</section><section data-category="dziecko" id="dziecko-cwiczenia">
+<h2>Ćwiczenia terapeutyczne do regularnego powtarzania</h2>
+<p class="section-lead">Ćwicz codziennie przez 5–10 minut, najlepiej wtedy, gdy nie ma awantury. W silnych emocjach używa się tego, co było przećwiczone wcześniej.</p>
+<div class="child-exercise-grid">
+<article class="child-exercise"><h3>1. Skala złości 0–5</h3><ol class="child-steps"><li>Narysuj termometr od 0 do 5.</li><li>Dopisz sygnały ciała: gorąco, pięści, szybki oddech, płacz.</li><li>Ustal z dorosłym: przy poziomie 3 proszę o przerwę, przy 4 odchodzę od przedmiotów.</li></ol><p><strong>Cel:</strong> zauważyć napięcie, zanim będzie za późno.</p></article>
+<article class="child-exercise"><h3>2. Zdanie ratunkowe</h3><ol class="child-steps"><li>Wybierz jedno zdanie: „Potrzebuję 3 minut”, „Pomóż mi zacząć” albo „Jestem na 4”.</li><li>Powiedz je spokojnym głosem 5 razy dziennie na próbę.</li><li>Użyj go w prawdziwej sytuacji, zanim zaczniesz krzyczeć.</li></ol><p><strong>Cel:</strong> zamienić krzyk na informację.</p></article>
+<article class="child-exercise"><h3>3. Oddech po dłoni</h3><ol class="child-steps"><li>Przesuwaj palcem po krawędziach drugiej dłoni.</li><li>W górę palca zrób wdech, w dół dłuższy wydech.</li><li>Powtórz na pięciu palcach i sprawdź poziom złości.</li></ol><p><strong>Cel:</strong> dać ciału sygnał, że może zwolnić.</p></article>
+<article class="child-exercise"><h3>4. Jeden mały krok</h3><ol class="child-steps"><li>Gdy słyszysz duże polecenie, zapytaj: „Jaki jest pierwszy krok?”</li><li>Ustaw timer na 3–5 minut.</li><li>Po kroku powiedz: „Gotowe. Co dalej?”</li></ol><p><strong>Cel:</strong> zacząć zamiast walczyć z całym zadaniem.</p></article>
+<article class="child-exercise"><h3>5. Stop przed wyjściem</h3><ol class="child-steps"><li>Stań w miejscu i połóż dłoń na klamce albo na kieszeni.</li><li>Powiedz na głos: „Najpierw pytam mamę”.</li><li>Jeśli masz zadanie, wykonaj pierwszy mały krok i dopiero potem poproś o zgodę na wyjście.</li></ol><p><strong>Cel:</strong> zatrzymać impuls, gdy zabawa kusi bardziej niż obowiązek.</p></article>
+<article class="child-exercise"><h3>6. Naprawa po burzy</h3><ol class="child-steps"><li>Gdy emocje opadną, nazwij jedną rzecz: „Krzyknąłem”, „rzuciłam poduszką”.</li><li>Wybierz naprawę: przeprosiny, odłożenie rzeczy, wytarcie, spokojne dokończenie kroku.</li><li>Powiedz, czego spróbujesz następnym razem.</li></ol><p><strong>Cel:</strong> nie utknąć w poczuciu winy, tylko odbudować relację.</p></article>
+<article class="child-exercise"><h3>7. Plan tygodniowy</h3><ol class="child-steps"><li>Przez 7 dni zaznaczaj jedną udaną próbę zatrzymania krzyku.</li><li>Nie licz tylko idealnych dni. Liczy się też krótsza awantura.</li><li>Po tygodniu wybierz ćwiczenie, które działa najlepiej.</li></ol><p><strong>Cel:</strong> widzieć postęp i powtarzać skuteczne strategie.</p></article>
+</div>
+<div class="child-contract"><h3>Umowa do powieszenia w pokoju</h3><p><strong>Kiedy czuję poziom 3:</strong> mówię zdanie ratunkowe.</p><p><strong>Kiedy czuję poziom 4:</strong> odsuwam ręce od ludzi i rzeczy, proszę o 3 minuty przerwy.</p><p><strong>Po przerwie:</strong> wracam do jednego małego kroku albo naprawiam to, co się stało.</p><p><strong>Dorosły pomaga mi:</strong> mówi krótko, nie zawstydza mnie i przypomina o planie.</p><p><strong>Gdy chcę wyjść:</strong> najpierw kończę zadanie lub pytam, kiedy mogę je dokończyć, a potem czekam na zgodę rodzica.</p></div>
+<p class="source-note">Ćwiczenia opierają się na zasadach współregulacji, przewidywalnych rutyn, ćwiczenia funkcji wykonawczych oraz wzmacniania słów zamiast zachowań impulsywnych. <a href="#src-selfreg-acf">Źródło [14]</a>, <a href="#src-selfreg-harvard">[15]</a>, <a href="#src-selfreg-aap">[16]</a>, <a href="#src-selfreg-cdc">[17]</a>.</p>
+</section><div aria-label="Nawigacja między kategoriami" class="category-pager"><button class="category-step category-step-prev" data-go-category="praktyka" type="button"><span>Poprzednia kategoria</span><strong>← Codzienna praktyka</strong></button><button class="category-step category-step-next" data-go-category="wsparcie" type="button"><span>Następna kategoria</span><strong>Szkoła i dalsza pomoc →</strong></button></div></div><div aria-labelledby="guide-tab-wsparcie" class="guide-panel" data-category="wsparcie" hidden="" id="category-wsparcie" role="tabpanel"><div class="category-overview"><div class="category-overview-head"><div><h2 class="category-title">Szkoła i pomoc</h2><p class="category-description">Krótki plan współpracy ze szkołą i kryteria konsultacji.</p></div></div><nav aria-label="Podkategorie: Szkoła i dalsza pomoc" class="subcategory-nav"><span class="subcategory-label">W tej zakładce:</span><div class="subcategory-links"><a class="subcategory-link" data-section-link="" href="#szkola">Plan dla szkoły</a><a class="subcategory-link" data-section-link="" href="#kiedy-pomoc">Kiedy po pomoc</a></div></nav></div><section data-category="wsparcie" id="szkola">
 <h2>Jak rozmawiać ze szkołą</h2>
 <p>Nie proś o ogólne „większe zrozumienie”. Zaproponuj krótki plan i miernik.</p>
 <div class="school-grid">
@@ -2848,7 +2933,7 @@ Co tydzień porównajmy liczbę ukończonych zadań i potrzebnych przypomnień�
 </article>
 </div>
 <p><strong>Pierwszy kontakt:</strong> pediatra lub lekarz rodzinny, psycholog dziecięcy, psycholog/pedagog szkolny albo poradnia psychologiczno-pedagogiczna. Nowe zasady wydawania orzeczeń i opinii przez publiczne poradnie obowiązują od 2026 r. <a href="#src-poland-poradnia">Źródło [6]</a></p>
-</section><div aria-label="Nawigacja między kategoriami" class="category-pager"><button class="category-step category-step-prev" data-go-category="praktyka" type="button"><span>Poprzednia kategoria</span><strong>← Codzienna praktyka</strong></button><button class="category-step category-step-next" data-go-category="wiedza" type="button"><span>Następna kategoria</span><strong>Wiedza i źródła →</strong></button></div></div><div aria-labelledby="guide-tab-wiedza" class="guide-panel" data-category="wiedza" hidden="" id="category-wiedza" role="tabpanel"><div class="category-overview"><div class="category-overview-head"><div><h2 class="category-title">Dane i źródła</h2><p class="category-description">Statystyki z opisem populacji oraz pełna bibliografia.</p></div></div><nav aria-label="Podkategorie: Wiedza i źródła" class="subcategory-nav"><span class="subcategory-label">W tej zakładce:</span><div class="subcategory-links"><a class="subcategory-link" data-section-link="" href="#dane">Najważniejsze liczby</a><a class="subcategory-link" data-section-link="" href="#zrodla">Bibliografia</a></div></nav></div><section data-category="wiedza" id="dane">
+</section><div aria-label="Nawigacja między kategoriami" class="category-pager"><button class="category-step category-step-prev" data-go-category="dziecko" type="button"><span>Poprzednia kategoria</span><strong>← Zakładka dla dziecka</strong></button><button class="category-step category-step-next" data-go-category="wiedza" type="button"><span>Następna kategoria</span><strong>Wiedza i źródła →</strong></button></div></div><div aria-labelledby="guide-tab-wiedza" class="guide-panel" data-category="wiedza" hidden="" id="category-wiedza" role="tabpanel"><div class="category-overview"><div class="category-overview-head"><div><h2 class="category-title">Dane i źródła</h2><p class="category-description">Statystyki z opisem populacji oraz pełna bibliografia.</p></div></div><nav aria-label="Podkategorie: Wiedza i źródła" class="subcategory-nav"><span class="subcategory-label">W tej zakładce:</span><div class="subcategory-links"><a class="subcategory-link" data-section-link="" href="#dane">Najważniejsze liczby</a><a class="subcategory-link" data-section-link="" href="#zrodla">Bibliografia</a></div></nav></div><section data-category="wiedza" id="dane">
 <h2>Co pokazują dane</h2>
 <div class="evidence-grid stats-grid">
 <article class="evidence-card stat-card">

@@ -1954,6 +1954,25 @@ td textarea{
     gap:4px;
   }
 }
+
+/* ===== Rozrywka przyjazna dziecku z ADHD ===== */
+.leisure-principles,.leisure-solo-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin:18px 0}
+.leisure-principle,.leisure-solo-card{border:1px solid var(--line);border-radius:16px;padding:18px;background:#fcfdff}
+.leisure-principle strong,.leisure-solo-card strong{display:block;margin-bottom:6px;color:var(--blue)}
+.leisure-impact-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;margin:18px 0}
+.leisure-impact{border:1px solid var(--line);border-radius:18px;padding:20px;background:var(--paper)}
+.leisure-impact h3{margin:0 0 8px}
+.leisure-impact .verdict{display:inline-block;margin-top:8px;padding:5px 9px;border-radius:999px;background:var(--green2);color:var(--green);font-size:.82rem;font-weight:850}
+.leisure-impact.phone .verdict{background:var(--amber2);color:var(--amber)}
+.leisure-plan{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin:18px 0}
+.leisure-plan article{border:1px solid var(--line);border-radius:14px;padding:15px;background:var(--blue2)}
+.leisure-plan b{display:block;color:var(--blue);margin-bottom:5px}
+.leisure-avoid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+.leisure-avoid article{border-left:5px solid var(--red);border-radius:12px;padding:14px 16px;background:var(--red2)}
+.leisure-avoid strong{display:block;margin-bottom:4px}
+html[data-theme="dark"] .leisure-principle,html[data-theme="dark"] .leisure-solo-card{background:#1b2833}
+@media(max-width:920px){.leisure-principles,.leisure-solo-grid,.leisure-impact-grid,.leisure-plan,.leisure-avoid{grid-template-columns:1fr}}
+
 </style>
 <meta content="#f2f6f9" id="themeColorMeta" name="theme-color"/>
 </head>
@@ -2363,7 +2382,7 @@ td textarea{
 </div>
 <p class="source-note">AAP zaleca dyscyplinę bez bicia, gróźb, obrażania, poniżania i zawstydzania. <a href="#src-aap">Źródło [4]</a></p>
 </section>
-<div aria-label="Nawigacja między kategoriami" class="category-pager"><button class="category-step category-step-prev" data-go-category="przyczyny" type="button"><span>Poprzednia kategoria</span><strong>← Co stoi za zachowaniem</strong></button><button class="category-step category-step-next" data-go-category="praktyka" type="button"><span>Następna kategoria</span><strong>Codzienna praktyka →</strong></button></div></div><div aria-labelledby="guide-tab-praktyka" class="guide-panel" data-category="praktyka" hidden="" id="category-praktyka" role="tabpanel"><div class="category-overview"><div class="category-overview-head"><div><h2 class="category-title">Przykłady i rutyny</h2><p class="category-description">Gotowe reakcje, nauka samoregulacji, zasady motywacji, drabina pomocy oraz narzędzia do pomiaru postępu.</p></div></div><nav aria-label="Podkategorie: Codzienna praktyka" class="subcategory-nav"><span class="subcategory-label">W tej zakładce:</span><div class="subcategory-links"><a class="subcategory-link" data-section-link="" href="#scenariusze">Osiem sytuacji</a><a class="subcategory-link" data-section-link="" href="#samoregulacja">Nauka samoregulacji</a><a class="subcategory-link" data-section-link="" href="#procedury">Rutyna i dziennik</a><a class="subcategory-link" data-section-link="" href="#motywacja">Motywacja</a><a class="subcategory-link" data-section-link="" href="#drabina-pomocy">Drabina pomocy</a><a class="subcategory-link" data-section-link="" href="#regres-zachowania">Nawrót problemów</a></div></nav></div><section data-category="praktyka" id="scenariusze">
+<div aria-label="Nawigacja między kategoriami" class="category-pager"><button class="category-step category-step-prev" data-go-category="przyczyny" type="button"><span>Poprzednia kategoria</span><strong>← Co stoi za zachowaniem</strong></button><button class="category-step category-step-next" data-go-category="praktyka" type="button"><span>Następna kategoria</span><strong>Codzienna praktyka →</strong></button></div></div><div aria-labelledby="guide-tab-praktyka" class="guide-panel" data-category="praktyka" hidden="" id="category-praktyka" role="tabpanel"><div class="category-overview"><div class="category-overview-head"><div><h2 class="category-title">Przykłady i rutyny</h2><p class="category-description">Gotowe reakcje, nauka samoregulacji, rozrywka przyjazna ADHD, zasady motywacji, drabina pomocy oraz narzędzia do pomiaru postępu.</p></div></div><nav aria-label="Podkategorie: Codzienna praktyka" class="subcategory-nav"><span class="subcategory-label">W tej zakładce:</span><div class="subcategory-links"><a class="subcategory-link" data-section-link="" href="#scenariusze">Osiem sytuacji</a><a class="subcategory-link" data-section-link="" href="#samoregulacja">Nauka samoregulacji</a><a class="subcategory-link" data-section-link="" href="#procedury">Rutyna i dziennik</a><a class="subcategory-link" data-section-link="" href="#motywacja">Motywacja</a><a class="subcategory-link" data-section-link="" href="#rozrywka-adhd">Rozrywka przy ADHD</a><a class="subcategory-link" data-section-link="" href="#drabina-pomocy">Drabina pomocy</a><a class="subcategory-link" data-section-link="" href="#regres-zachowania">Nawrót problemów</a></div></nav></div><section data-category="praktyka" id="scenariusze">
 <h2>Gotowe reakcje w jedenastu sytuacjach</h2>
 <div class="example-grid">
 <article class="example-card">
@@ -2626,6 +2645,77 @@ td textarea{
 <button class="btn" id="clearLogBtn" type="button">Wyczyść dziennik</button>
 </div>
 </section>
+
+<section data-category="praktyka" id="rozrywka-adhd">
+<span class="tag">Odpoczynek, zainteresowanie i regulacja</span>
+<h2>Rozrywka dla dziecka z ADHD: interesująca, ale nie przeciążająca</h2>
+<p class="section-lead">Nuda u dziecka z ADHD często oznacza nie brak zajęć, lecz zbyt małą nagrodę „tu i teraz”, niejasny początek albo niedopasowany poziom pobudzenia. Najlepiej sprawdzają się aktywności z krótkim wejściem, widocznym celem, możliwością wyboru i naturalnym końcem. Rozrywka nie musi być wyłącznie spokojna — ruch bywa skuteczniejszą formą regulacji niż wymaganie bezruchu.</p>
+<div class="leisure-principles">
+<article class="leisure-principle"><strong>Krótki start</strong><span>Zadanie da się rozpocząć w mniej niż 2 minuty, bez długiego przygotowania i wielu instrukcji.</span></article>
+<article class="leisure-principle"><strong>Widoczny cel</strong><span>Dziecko wie, co oznacza ukończenie: zbudowany model, rozwiązana łamigłówka, koniec rundy albo wyznaczona trasa.</span></article>
+<article class="leisure-principle"><strong>Wybór w granicach</strong><span>Zamiast „znajdź sobie coś”: „wolisz 20 minut klocków, audiobook z rysowaniem czy wyjście z piłką?”.</span></article>
+</div>
+
+<h3>Cztery popularne wybory — czego realnie można oczekiwać?</h3>
+<div class="leisure-impact-grid">
+<article class="leisure-impact">
+<h3>Film oglądany z rodzicem</h3>
+<p><strong>Możliwy wpływ:</strong> wspólny seans może budować więź, dostarczać wspólnego tematu i pomagać dziecku rozumieć emocje, jeżeli dorosły krótko komentuje oraz pyta bez zamieniania filmu w lekcję. AAP wskazuje, że wspólne korzystanie z mediów wiąże się z korzyściami poznawczymi; liczy się jednak treść i sposób użycia, nie sam ekran.</p>
+<p><strong>Jak zrobić to lepiej:</strong> wcześniej ustal jeden film, wyłącz autoodtwarzanie, pozwól na ruch lub krótką przerwę i po seansie przejdź do spokojnej czynności. Długi, bardzo szybki lub oglądany późno film może utrudnić wyciszenie.</p>
+<span class="verdict">Dobry wybór relacyjny, nie codzienny „wypełniacz nudy”</span>
+</article>
+<article class="leisure-impact">
+<h3>Czytanie książki</h3>
+<p><strong>Możliwy wpływ:</strong> ćwiczy podtrzymanie uwagi, język i wyobraźnię, ale zbyt długi blok może szybko stać się obowiązkiem. W badaniu 850 chińskich przedszkolaków z ADHD 12 tygodni czytania dialogowego z rodzicem lub starszym rodzeństwem poprawiło umiejętności językowe i zainteresowanie czytaniem względem zwykłego czytania.</p>
+<p><strong>Jak zrobić to lepiej:</strong> zacznij od 10–15 minut, pozwól dziecku wybrać komiks, książkę faktograficzną lub audiobook, zadawaj jedno krótkie pytanie i zaakceptuj zmianę pozycji ciała.</p>
+<span class="verdict">Szczególnie korzystne, gdy jest interaktywne i krótkie</span>
+</article>
+<article class="leisure-impact phone">
+<h3>Godzinna gra na telefonie</h3>
+<p><strong>Możliwy wpływ:</strong> nie ma wiarygodnej reguły, że dokładnie 60 minut gry pogorszy zachowanie każdego dziecka. Znaczenie mają rodzaj gry, pora, reklamy, zakupy, kontakt z obcymi i łatwość zakończenia. W pięcioletniej obserwacji prawie 4000 kanadyjskich nastolatków większe użycie części mediów cyfrowych współwystępowało z nasileniem objawów ADHD; najsilniejszy długofalowy związek dotyczył mediów społecznościowych i impulsywności. Badanie obserwacyjne nie dowodzi jednak, że pojedyncza sesja wywołuje pogorszenie.</p>
+<p><strong>Jak zrobić to lepiej:</strong> wybierz grę bez nieskończonego przewijania, reklam i mikropłatności; ustal koniec przed startem, użyj timera 10–5–1 minuta i nie planuj sesji tuż przed snem lub obowiązkiem wymagającym skupienia.</p>
+<span class="verdict">Możliwe, lecz tylko jako zaplanowana aktywność z wyraźnym końcem</span>
+</article>
+<article class="leisure-impact">
+<h3>Zabawa na świeżym powietrzu</h3>
+<p><strong>Możliwy wpływ:</strong> łączy ruch, zmianę bodźców i możliwość rozładowania pobudzenia. Metaanaliza przewlekłych programów ćwiczeń u dzieci i młodzieży z ADHD wykazała mały–umiarkowany efekt dla objawów podstawowych (11 RCT; 514 osób) oraz poprawę funkcji wykonawczych (17 RCT; 795 osób), choć wyniki badań o najniższym ryzyku błędu były mniej jednoznaczne. WHO zaleca osobom 5–17 lat średnio co najmniej 60 minut ruchu o umiarkowanej lub dużej intensywności dziennie.</p>
+<p><strong>Jak zrobić to lepiej:</strong> zaproponuj cel: tor przeszkód, rower do konkretnego punktu, geocaching, piłkę, fotografowanie pięciu oznak pory roku albo spacer z zadaniem. Badanie ankietowe 421 dzieci z ADHD wiązało regularną zabawę w zielonym otoczeniu z łagodniejszymi objawami, ale nie pozwala to wnioskować o przyczynowości.</p>
+<span class="verdict">Najlepszy domyślny wybór, zwłaszcza po siedzeniu</span>
+</article>
+</div>
+<p class="source-note">Dane: <a href="#src-leisure-exercise">[18]</a>, <a href="#src-leisure-who">[19]</a>, <a href="#src-leisure-screen">[20]</a>, <a href="#src-leisure-aap">[21]</a>, <a href="#src-leisure-reading">[22]</a>, <a href="#src-leisure-green">[23]</a>. Wyniki grupowe nie przewidują reakcji konkretnego dziecka; warto przez 1–2 tygodnie zapisywać aktywność, łatwość zakończenia oraz zachowanie w kolejnych 30–60 minutach.</p>
+
+<h3>Alternatywy atrakcyjne bez nadmiaru bodźców</h3>
+<div class="leisure-plan">
+<article><b>Dużo energii</b><span>skakanka, miniobwód ruchowy, taniec do 3 utworów, kosz lub celowanie miękką piłką, spacer fotograficzny.</span></article>
+<article><b>Potrzeba skupienia</b><span>klocki według karty wyzwania, model, origami, tangram, labirynt, proste eksperymenty z instrukcją obrazkową.</span></article>
+<article><b>Potrzeba wyciszenia</b><span>audiobook i rysowanie, komiks, układanka, kolorowanie według kodu, masa plastyczna, spokojna muzyka.</span></article>
+<article><b>Potrzeba nowości</b><span>pudełko losowanych wyzwań, domowa misja detektywistyczna, geocaching, fotografia tematyczna, budowa wynalazku z materiałów wtórnych.</span></article>
+</div>
+
+<h3>Zajęcia, którymi dziecko może zająć się samo</h3>
+<p>Samodzielność zależy od wieku, dojrzałości i bezpieczeństwa otoczenia. Rodzic nie musi prowadzić zabawy, ale powinien wcześniej ustalić miejsce, czas, zasady oraz sposób wezwania pomocy.</p>
+<div class="leisure-solo-grid">
+<article class="leisure-solo-card"><strong>Karty wyzwań konstrukcyjnych</strong><span>„Zbuduj most na 30 cm”, „wieżę z 20 elementów” albo pojazd mieszczący figurkę. Klocki LEGO/Duplo, magnetyczne lub drewniane.</span></article>
+<article class="leisure-solo-card"><strong>Łamigłówki z poziomami</strong><span>Rush Hour, SmartGames IQ, Kanoodle, tangram, kostka Rubika, sudoku obrazkowe, labirynty i wyszukiwanie różnic.</span></article>
+<article class="leisure-solo-card"><strong>Audiobook + ręce zajęte</strong><span>Słuchanie podczas rysowania, układania klocków, nawlekania dużych koralików albo lepienia; bez równoległego przeglądania telefonu.</span></article>
+<article class="leisure-solo-card"><strong>Pudełko twórcze</strong><span>Papier, taśma, bezpieczne nożyczki, naklejki, szablony i jedna karta projektu. Materiały dobierz do wieku.</span></article>
+<article class="leisure-solo-card"><strong>Misja poszukiwawcza</strong><span>Lista 8 rzeczy do znalezienia w domu lub ogrodzie, sfotografowania albo narysowania; po zakończeniu dziecko samo odkłada kartę do pudełka „gotowe”.</span></article>
+<article class="leisure-solo-card"><strong>Ruch z wyraźnym końcem</strong><span>Trzy rundy toru, 50 odbić piłki, skakanka przez dwa utwory albo spacer po bezpiecznie ustalonej trasie — zależnie od wieku.</span></article>
+</div>
+
+<h3>Czego unikać</h3>
+<div class="leisure-avoid">
+<article><strong>Nieskończonego strumienia bodźców</strong><span>Autoodtwarzanie, krótkie filmy, ciągłe powiadomienia i losowe nagrody utrudniają zauważenie końca.</span></article>
+<article><strong>Ekranu jako jedynej odpowiedzi na nudę</strong><span>Dziecko nie ćwiczy wtedy inicjowania własnej aktywności; przygotuj widoczne menu 5–8 opcji.</span></article>
+<article><strong>Nagłego odbierania urządzenia</strong><span>Ustal czas i zakończenie przed startem; zapis gry i ostrzeżenia zmniejszają koszt przejścia.</span></article>
+<article><strong>Aktywności niedopasowanych do wieku</strong><span>Unikaj małych elementów, ostrych narzędzi, otwartego ognia, samotnego wyjścia lub czatu z obcymi bez adekwatnych zabezpieczeń.</span></article>
+<article><strong>Zastępowania snu i ruchu ekranem</strong><span>Rozrywka nie powinna wypierać snu, posiłków, codziennego ruchu ani relacji.</span></article>
+<article><strong>Przeciążania „wartościową” zabawą</strong><span>Nie każda chwila musi rozwijać. Dziecko potrzebuje też swobodnej zabawy i odpoczynku bez oceny wyniku.</span></article>
+</div>
+<div class="callout green"><strong>Prosty plan na nudę:</strong> najpierw nazwij stan („potrzebujesz ruchu, skupienia czy wyciszenia?”), pokaż trzy opcje, pomóż rozpocząć pierwszy krok i umów się na krótkie sprawdzenie po 10 minutach. Jeśli dziecko często porzuca zajęcia, zmniejsz próg startu zamiast stale dostarczać nową rozrywkę.</div>
+</section>
+
 <section id="motywacja">
 <span class="tag">Mechanizm współpracy</span>
 <h2>Motywacja nie jest stałą cechą charakteru</h2>
@@ -3060,10 +3150,17 @@ Wynik z USA nie powinien być automatycznie przenoszony na Polskę.</div>
   CDC wskazuje, że proste, konsekwentne i przewidywalne rutyny pomagają dzieciom wiedzieć,
   czego się spodziewać, i ułatwiają dorosłym spójne reagowanie.
   <a href="https://www.cdc.gov/parenting-toddlers/structure-rules/index.html" rel="noopener" target="_blank">Otwórz źródło</a>.
-</li></ol>
+</li>
+<li id="src-leisure-exercise"><strong>Huang H. i in. (2023).</strong> <em>Chronic Exercise for Core Symptoms and Executive Functions in ADHD: A Meta-analysis.</em> Pediatrics, 151(1), e2022057745. Metaanaliza 22 randomizowanych badań; autorzy podkreślają ograniczenia jakości części dowodów. <a href="https://doi.org/10.1542/peds.2022-057745" rel="noopener" target="_blank">Otwórz źródło</a>.</li>
+<li id="src-leisure-who"><strong>World Health Organization (2020).</strong> <em>WHO Guidelines on Physical Activity and Sedentary Behaviour.</em> Dla dzieci i młodzieży 5–17 lat: średnio co najmniej 60 minut dziennie aktywności umiarkowanej lub intensywnej. <a href="https://www.who.int/publications/i/item/9789240015128" rel="noopener" target="_blank">Otwórz źródło</a>.</li>
+<li id="src-leisure-screen"><strong>Wallace J. i in. (2023).</strong> <em>Screen time, impulsivity, neuropsychological functions and their relationship to growth in adolescent ADHD symptoms.</em> Scientific Reports, 13, 15961. Pięcioletnie badanie podłużne prawie 4000 kanadyjskich nastolatków. <a href="https://doi.org/10.1038/s41598-023-44105-7" rel="noopener" target="_blank">Otwórz źródło</a>.</li>
+<li id="src-leisure-aap"><strong>American Academy of Pediatrics (2026).</strong> <em>Digital Ecosystems, Children, and Adolescents: Technical Report.</em> Raport omawia znaczenie jakości treści, kontekstu rodzinnego, wspólnego korzystania i planu medialnego. <a href="https://publications.aap.org/pediatrics/article/157/2/e2025075321/206128/" rel="noopener" target="_blank">Otwórz źródło</a>.</li>
+<li id="src-leisure-reading"><strong>Dong Y., Chow B.W.-Y., Mo J., Zheng H.-Y. (2023).</strong> <em>Dialogic Reading With ADHD Kindergarteners: Does Reading With Parents or Siblings Enhance Their Language Development?</em> Developmental Psychology, 59(4), 623–637. Randomizowane badanie 850 przedszkolaków przez 12 tygodni. <a href="https://doi.org/10.1037/dev0001466" rel="noopener" target="_blank">Otwórz źródło</a>.</li>
+<li id="src-leisure-green"><strong>Faber Taylor A., Kuo F.E. (2011).</strong> <em>Could Exposure to Everyday Green Spaces Help Treat ADHD? Evidence from Children’s Play Settings.</em> Applied Psychology: Health and Well-Being, 3(3), 281–303. Badanie ankietowe rodziców 421 dzieci; wynik korelacyjny, nie eksperymentalny. <a href="https://doi.org/10.1111/j.1758-0854.2011.01052.x" rel="noopener" target="_blank">Otwórz źródło</a>.</li>
+</ol>
 </section><div aria-label="Nawigacja między kategoriami" class="category-pager"><button class="category-step category-step-prev" data-go-category="wsparcie" type="button"><span>Poprzednia kategoria</span><strong>← Szkoła i dalsza pomoc</strong></button><button class="category-step category-step-next" data-go-category="analiza" type="button"><span>Wróć na początek</span><strong>Zacznij od analizy ↥</strong></button></div></div></main>
 <footer>
-<p>Poradnik edukacyjny dotyczący zachowań dzieci w wieku szkolnym. Statystyki podano wraz z populacją i źródłem; dane amerykańskie nie są traktowane jako estymacje dla Polski. Aktualizacja: 4 lipca 2026 r.</p>
+<p>Poradnik edukacyjny dotyczący zachowań dzieci w wieku szkolnym. Statystyki podano wraz z populacją i źródłem; dane amerykańskie nie są traktowane jako estymacje dla Polski. Aktualizacja: 13 lipca 2026 r.</p>
 </footer>
 <script>
 'use strict';

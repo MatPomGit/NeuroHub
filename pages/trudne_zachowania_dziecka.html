@@ -1973,6 +1973,44 @@ td textarea{
 html[data-theme="dark"] .leisure-principle,html[data-theme="dark"] .leisure-solo-card{background:#1b2833}
 @media(max-width:920px){.leisure-principles,.leisure-solo-grid,.leisure-impact-grid,.leisure-plan,.leisure-avoid{grid-template-columns:1fr}}
 
+
+/* ===== Interaktywny przegląd rozrywki ===== */
+.leisure-evidence-shell{margin:24px 0;padding:20px;border:1px solid #c9dce8;border-radius:22px;background:linear-gradient(135deg,#f5fbff 0%,#fff8ec 52%,#f5f0ff 100%)}
+.leisure-evidence-head{display:flex;justify-content:space-between;align-items:start;gap:18px;flex-wrap:wrap}
+.evidence-filters{display:flex;gap:8px;flex-wrap:wrap}
+.evidence-filter{border:1px solid var(--line);border-radius:999px;padding:8px 12px;background:var(--paper);color:var(--ink);font-weight:800;cursor:pointer}
+.evidence-filter.active{background:var(--blue);border-color:var(--blue);color:#fff}
+.evidence-dashboard{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;margin-top:16px}
+.evidence-stat{--evidence-accent:var(--blue);position:relative;overflow:hidden;border:1px solid var(--line);border-radius:18px;padding:18px;background:var(--paper);min-height:190px}
+.evidence-stat::before{content:"";position:absolute;inset:0 0 auto;height:6px;background:var(--evidence-accent)}
+.evidence-stat.motion{--evidence-accent:#e16b32}.evidence-stat.reading{--evidence-accent:#7257b5}.evidence-stat.screen{--evidence-accent:#d39b19}.evidence-stat.nature{--evidence-accent:#238b65}.evidence-stat.games{--evidence-accent:#2478b8}.evidence-stat.music{--evidence-accent:#b84d82}
+.evidence-stat .big-number{display:block;margin:8px 0 5px;color:var(--evidence-accent);font-size:2.15rem;line-height:1;font-weight:950}
+.evidence-stat .evidence-kind{display:inline-block;margin-top:10px;padding:4px 8px;border-radius:999px;background:var(--bg);color:var(--muted);font-size:.76rem;font-weight:850;text-transform:uppercase;letter-spacing:.035em}
+.evidence-stat[hidden]{display:none}
+.evidence-legend{margin:14px 0 0;color:var(--muted);font-size:.88rem}
+.leisure-recommender{margin:24px 0;padding:22px;border:1px solid #cdbfea;border-radius:22px;background:linear-gradient(145deg,#f5f0ff,#eef9f5)}
+.leisure-recommender-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}
+.leisure-recommender .field{padding:12px;border-radius:14px;background:rgba(255,255,255,.78);border:1px solid var(--line)}
+.leisure-recommender-actions{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin:16px 0}
+.leisure-results{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
+.leisure-result{--result-accent:#2478b8;border:1px solid var(--line);border-top:6px solid var(--result-accent);border-radius:16px;padding:17px;background:var(--paper)}
+.leisure-result[data-kind="ruch"]{--result-accent:#e16b32}.leisure-result[data-kind="wyciszenie"]{--result-accent:#238b65}.leisure-result[data-kind="skupienie"]{--result-accent:#7257b5}.leisure-result[data-kind="nowosc"]{--result-accent:#b84d82}
+.leisure-result h4{margin:0 0 7px}.leisure-result p{margin:.35rem 0}.leisure-result .result-meta{color:var(--muted);font-size:.84rem;font-weight:750}
+.leisure-placeholder{grid-column:1/-1;padding:22px;border:1px dashed #a998cf;border-radius:15px;text-align:center;color:var(--muted);background:rgba(255,255,255,.62)}
+.leisure-age-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;margin:18px 0}
+.leisure-age-card{border:1px solid var(--line);border-radius:18px;padding:18px;background:var(--paper)}
+.leisure-age-card:nth-child(1){border-top:6px solid #e16b32}.leisure-age-card:nth-child(2){border-top:6px solid #2478b8}.leisure-age-card:nth-child(3){border-top:6px solid #7257b5}
+.leisure-age-card h4{margin:0 0 8px}.leisure-age-card ul{margin-bottom:0}
+.media-quality-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px;margin:16px 0}
+.media-quality-grid article{border-radius:14px;padding:14px;border:1px solid var(--line);background:var(--paper)}
+.media-quality-grid strong{display:block;margin-bottom:5px;color:var(--blue)}
+html[data-theme="dark"] .leisure-evidence-shell{background:linear-gradient(135deg,#1a3040,#382f1c 52%,#302a43)}
+html[data-theme="dark"] .leisure-recommender{background:linear-gradient(145deg,#302a43,#1d382e)}
+html[data-theme="dark"] .leisure-recommender .field,html[data-theme="dark"] .leisure-placeholder{background:rgba(24,35,45,.78)}
+@media(max-width:920px){.evidence-dashboard,.leisure-results,.leisure-age-grid{grid-template-columns:1fr 1fr}.leisure-recommender-grid,.media-quality-grid{grid-template-columns:1fr 1fr}}
+@media(max-width:640px){.evidence-dashboard,.leisure-results,.leisure-age-grid,.leisure-recommender-grid,.media-quality-grid{grid-template-columns:1fr}.leisure-evidence-shell,.leisure-recommender{padding:16px}}
+@media print{.evidence-filters,.leisure-recommender-actions{display:none}.evidence-stat[hidden]{display:block}.leisure-results{grid-template-columns:repeat(3,1fr)}}
+
 </style>
 <meta content="#f2f6f9" id="themeColorMeta" name="theme-color"/>
 </head>
@@ -2656,6 +2694,30 @@ html[data-theme="dark"] .leisure-principle,html[data-theme="dark"] .leisure-solo
 <article class="leisure-principle"><strong>Wybór w granicach</strong><span>Zamiast „znajdź sobie coś”: „wolisz 20 minut klocków, audiobook z rysowaniem czy wyjście z piłką?”.</span></article>
 </div>
 
+<div class="leisure-evidence-shell">
+<div class="leisure-evidence-head">
+<div><span class="tag">Dane w skrócie</span><h3>Co rzeczywiście pokazują badania?</h3><p class="small muted">Filtruj według rodzaju dowodu. Liczba uczestników nie zastępuje oceny jakości metodologicznej.</p></div>
+<div aria-label="Filtr rodzaju dowodów" class="evidence-filters" role="group">
+<button aria-pressed="true" class="evidence-filter active" data-evidence-filter="all" type="button">Wszystkie</button>
+<button aria-pressed="false" class="evidence-filter" data-evidence-filter="experimental" type="button">Eksperymentalne</button>
+<button aria-pressed="false" class="evidence-filter" data-evidence-filter="observational" type="button">Obserwacyjne</button>
+<button aria-pressed="false" class="evidence-filter" data-evidence-filter="guideline" type="button">Wytyczne</button>
+</div>
+</div>
+<div aria-live="polite" class="evidence-dashboard" id="leisureEvidenceDashboard">
+<article class="evidence-stat motion" data-evidence="experimental"><span class="big-number">33</span><strong>badania nad dawką ruchu</strong><p>10 badań pojedynczej sesji i 23 programów długoterminowych w metaanalizie funkcji wykonawczych. Efekt zależał od dawki i rodzaju ruchu.</p><span class="evidence-kind">metaanaliza · 2026</span></article>
+<article class="evidence-stat motion" data-evidence="experimental"><span class="big-number">388–579</span><strong>dzieci w analizach poszczególnych funkcji</strong><p>Metaanaliza RCT obejmowała 388 dzieci dla elastyczności poznawczej, 398 dla pamięci roboczej i 579 dla hamowania reakcji.</p><span class="evidence-kind">RCT · synteza</span></article>
+<article class="evidence-stat reading" data-evidence="experimental"><span class="big-number">850</span><strong>przedszkolaków w badaniu czytania</strong><p>Po 12 tygodniach czytanie dialogowe z rodzicem lub rodzeństwem poprawiało język i zainteresowanie książkami.</p><span class="evidence-kind">randomizowane</span></article>
+<article class="evidence-stat nature" data-evidence="observational"><span class="big-number">421</span><strong>dzieci w badaniu zielonego otoczenia</strong><p>Regularna zabawa w zieleni wiązała się z łagodniejszymi objawami. Projekt ankietowy nie rozstrzyga przyczynowości.</p><span class="evidence-kind">obserwacyjne</span></article>
+<article class="evidence-stat games" data-evidence="experimental"><span class="big-number">27</span><strong>dzieci w pilotażu gier planszowych</strong><p>Małe, niezaślepione RCT wykazało poprawę pamięci krótkotrwałej i problemów zachowania; próba jest zbyt mała do mocnych zaleceń.</p><span class="evidence-kind">pilotaż RCT</span></article>
+<article class="evidence-stat music" data-evidence="experimental"><span class="big-number">3 / 148</span><strong>badania / uczestnicy w metaanalizie muzyki</strong><p>Wynik dla objawów nie osiągnął istotności statystycznej (p=0,08), a heterogeniczność była bardzo duża (I²=92%). Muzyka może być atrakcyjną rozrywką, ale nie ma podstaw do obiecywania efektu terapeutycznego.</p><span class="evidence-kind">dowód niepewny</span></article>
+<article class="evidence-stat screen" data-evidence="observational"><span class="big-number">≈4000</span><strong>nastolatków obserwowanych przez 5 lat</strong><p>Najbardziej trwały związek z nasileniem objawów dotyczył mediów społecznościowych i impulsywności; nie oznacza to, że każda gra lub pojedyncza godzina szkodzi.</p><span class="evidence-kind">podłużne</span></article>
+<article class="evidence-stat motion" data-evidence="guideline"><span class="big-number">60 min</span><strong>średnie dzienne minimum ruchu</strong><p>WHO zaleca dzieciom i młodzieży 5–17 lat średnio co najmniej 60 minut aktywności umiarkowanej lub intensywnej dziennie.</p><span class="evidence-kind">wytyczne WHO</span></article>
+<article class="evidence-stat screen" data-evidence="guideline"><span class="big-number">4 pytania</span><strong>ważniejsze niż sam licznik ekranu</strong><p>Czy treść jest odpowiednia? Czy łatwo ją zakończyć? Co wypiera? Czy dziecko korzysta samo, czy wspólnie z bliską osobą?</p><span class="evidence-kind">ramy AAP</span></article>
+</div>
+<p class="evidence-legend"><strong>Jak czytać karty:</strong> „eksperymentalne” oznacza interwencję, ale nie zawsze dużą i dobrze zaślepioną; „obserwacyjne” pokazuje współwystępowanie; „wytyczne” łączą wiele typów dowodów i cele zdrowia publicznego.</p>
+</div>
+
 <h3>Cztery popularne wybory — czego realnie można oczekiwać?</h3>
 <div class="leisure-impact-grid">
 <article class="leisure-impact">
@@ -2683,7 +2745,31 @@ html[data-theme="dark"] .leisure-principle,html[data-theme="dark"] .leisure-solo
 <span class="verdict">Najlepszy domyślny wybór, zwłaszcza po siedzeniu</span>
 </article>
 </div>
-<p class="source-note">Dane: <a href="#src-leisure-exercise">[18]</a>, <a href="#src-leisure-who">[19]</a>, <a href="#src-leisure-screen">[20]</a>, <a href="#src-leisure-aap">[21]</a>, <a href="#src-leisure-reading">[22]</a>, <a href="#src-leisure-green">[23]</a>. Wyniki grupowe nie przewidują reakcji konkretnego dziecka; warto przez 1–2 tygodnie zapisywać aktywność, łatwość zakończenia oraz zachowanie w kolejnych 30–60 minutach.</p>
+<p class="source-note">Dane: <a href="#src-leisure-exercise">[18]</a>, <a href="#src-leisure-who">[19]</a>, <a href="#src-leisure-screen">[20]</a>, <a href="#src-leisure-aap">[21]</a>, <a href="#src-leisure-reading">[22]</a>, <a href="#src-leisure-green">[23]</a>, <a href="#src-leisure-dose">[24]</a>, <a href="#src-leisure-exec">[25]</a>, <a href="#src-leisure-board">[26]</a>, <a href="#src-leisure-music">[27]</a>. Wyniki grupowe nie przewidują reakcji konkretnego dziecka; warto przez 1–2 tygodnie zapisywać aktywność, łatwość zakończenia oraz zachowanie w kolejnych 30–60 minutach.</p>
+
+
+<div class="leisure-recommender" id="leisureRecommender">
+<span class="tag">Interaktywny dobór</span>
+<h3>Co może zadziałać właśnie teraz?</h3>
+<p>Wybierz warunki. Generator nie ocenia dziecka i nie tworzy „idealnej recepty” — skraca rodzicowi listę do kilku realnych propozycji.</p>
+<div class="leisure-recommender-grid">
+<div class="field"><label for="leisureNeed">Aktualna potrzeba</label><select id="leisureNeed"><option value="ruch">Rozładowanie energii</option><option value="skupienie">Skupienie na wyzwaniu</option><option value="wyciszenie">Wyciszenie</option><option value="nowosc">Nowość i ciekawość</option></select></div>
+<div class="field"><label for="leisureTime">Dostępny czas</label><select id="leisureTime"><option value="10">około 10 minut</option><option value="20" selected>około 20 minut</option><option value="40">około 40 minut</option><option value="60">około godziny</option></select></div>
+<div class="field"><label for="leisureCompany">Udział dorosłego</label><select id="leisureCompany"><option value="solo">Dziecko samodzielnie</option><option value="start">Pomoc tylko w rozpoczęciu</option><option value="together">Wspólna aktywność</option></select></div>
+<div class="field"><label for="leisureScreen">Ekran</label><select id="leisureScreen"><option value="no">Bez ekranu</option><option value="yes">Może być ekran</option></select></div>
+</div>
+<div class="leisure-recommender-actions"><button class="btn primary" id="generateLeisure" type="button">Pokaż trzy propozycje</button><button class="btn" id="surpriseLeisure" type="button">Wylosuj spośród pasujących</button><span aria-live="polite" class="small muted" id="leisureResultStatus"></span></div>
+<div aria-live="polite" class="leisure-results" id="leisureResults"><div class="leisure-placeholder">Ustaw potrzeby i wybierz „Pokaż trzy propozycje”.</div></div>
+</div>
+
+<h3>Przy ekranie czas to tylko jeden z parametrów</h3>
+<div class="media-quality-grid">
+<article><strong>Treść</strong><span>Gra logiczna z rundami różni się od strumienia krótkich filmów, reklam i losowych nagród.</span></article>
+<article><strong>Pora</strong><span>Ta sama aktywność może być neutralna po obiedzie, a utrudniać sen lub przejście do nauki późnym wieczorem.</span></article>
+<article><strong>Koniec</strong><span>Poziom, odcinek i zapis gry dają naturalny punkt przerwania; autoodtwarzanie i nieskończona mapa go ukrywają.</span></article>
+<article><strong>Koszt alternatywny</strong><span>Najważniejsze jest także to, czy ekran wypiera ruch, sen, posiłek, relację albo obowiązek.</span></article>
+</div>
+<div class="callout amber"><strong>Praktyczny test jakości:</strong> po zakończeniu aktywności oceń w skali 0–3: protest przy końcu, pobudzenie po 15 minutach i zdolność rozpoczęcia następnego zadania. Porównuj tę samą porę dnia przez 1–2 tygodnie, zamiast wyciągać wniosek po jednym wieczorze.</div>
 
 <h3>Alternatywy atrakcyjne bez nadmiaru bodźców</h3>
 <div class="leisure-plan">
@@ -2703,6 +2789,15 @@ html[data-theme="dark"] .leisure-principle,html[data-theme="dark"] .leisure-solo
 <article class="leisure-solo-card"><strong>Misja poszukiwawcza</strong><span>Lista 8 rzeczy do znalezienia w domu lub ogrodzie, sfotografowania albo narysowania; po zakończeniu dziecko samo odkłada kartę do pudełka „gotowe”.</span></article>
 <article class="leisure-solo-card"><strong>Ruch z wyraźnym końcem</strong><span>Trzy rundy toru, 50 odbić piłki, skakanka przez dwa utwory albo spacer po bezpiecznie ustalonej trasie — zależnie od wieku.</span></article>
 </div>
+
+
+<h3>Przykłady według wieku i samodzielności</h3>
+<div class="leisure-age-grid">
+<article class="leisure-age-card"><h4>Około 6–8 lat</h4><ul><li>obrazkowa karta budowy z 3 krokami;</li><li>polowanie na kolory lub kształty w domu;</li><li>audiobook przez 10 minut i rysunek bohatera;</li><li>tor z poduszek, jeżeli przestrzeń jest zabezpieczona;</li><li>puzzle 30–100 elementów zależnie od dziecka.</li></ul></article>
+<article class="leisure-age-card"><h4>Około 9–12 lat</h4><ul><li>model, origami lub konstrukcja z limitem materiałów;</li><li>Rush Hour, SmartGames, tangram albo kostka Rubika;</li><li>fotograficzna lista 10 obiektów w ogrodzie;</li><li>prosty przepis bez użycia gorących urządzeń;</li><li>krótki trening piłkarski z kartą wyników.</li></ul></article>
+<article class="leisure-age-card"><h4>Około 13 lat i więcej</h4><ul><li>montaż krótkiego filmu bez publikowania danych osobowych;</li><li>projekt graficzny, muzyczny lub programistyczny z etapami;</li><li>geocaching albo ustalona bezpieczna trasa rowerowa;</li><li>szachy, Go, łamigłówki przestrzenne;</li><li>własny plan ćwiczeń lub wyzwanie fotograficzne.</li></ul></article>
+</div>
+<p class="small muted">Przedziały są orientacyjne. O samodzielności decydują umiejętności konkretnego dziecka, ryzyko aktywności i zasady bezpieczeństwa, nie sama metryka wieku.</p>
 
 <h3>Czego unikać</h3>
 <div class="leisure-avoid">
@@ -3157,6 +3252,11 @@ Wynik z USA nie powinien być automatycznie przenoszony na Polskę.</div>
 <li id="src-leisure-aap"><strong>American Academy of Pediatrics (2026).</strong> <em>Digital Ecosystems, Children, and Adolescents: Technical Report.</em> Raport omawia znaczenie jakości treści, kontekstu rodzinnego, wspólnego korzystania i planu medialnego. <a href="https://publications.aap.org/pediatrics/article/157/2/e2025075321/206128/" rel="noopener" target="_blank">Otwórz źródło</a>.</li>
 <li id="src-leisure-reading"><strong>Dong Y., Chow B.W.-Y., Mo J., Zheng H.-Y. (2023).</strong> <em>Dialogic Reading With ADHD Kindergarteners: Does Reading With Parents or Siblings Enhance Their Language Development?</em> Developmental Psychology, 59(4), 623–637. Randomizowane badanie 850 przedszkolaków przez 12 tygodni. <a href="https://doi.org/10.1037/dev0001466" rel="noopener" target="_blank">Otwórz źródło</a>.</li>
 <li id="src-leisure-green"><strong>Faber Taylor A., Kuo F.E. (2011).</strong> <em>Could Exposure to Everyday Green Spaces Help Treat ADHD? Evidence from Children’s Play Settings.</em> Applied Psychology: Health and Well-Being, 3(3), 281–303. Badanie ankietowe rodziców 421 dzieci; wynik korelacyjny, nie eksperymentalny. <a href="https://doi.org/10.1111/j.1758-0854.2011.01052.x" rel="noopener" target="_blank">Otwórz źródło</a>.</li>
+
+<li id="src-leisure-dose"><strong>Pan Q., Zheng S., He P. (2026).</strong> <em>Beyond binary comparisons: a Bayesian dose-response meta-analysis of exercise on executive function in children and adolescents with ADHD.</em> Pediatric Research, 99(4), 1296–1305. Metaanaliza 33 badań: 10 interwencji jednorazowych i 23 długoterminowe. <a href="https://doi.org/10.1038/s41390-025-04325-1" rel="noopener" target="_blank">Otwórz źródło</a>.</li>
+<li id="src-leisure-exec"><strong>Li D., Miao C., Wang D., Li C. (2025).</strong> <em>Effect of physical activity interventions on executive functions in school-age children with ADHD: A meta-analysis of randomized controlled trials.</em> Journal of Affective Disorders. Autorzy oddzielnie analizowali elastyczność poznawczą, pamięć roboczą i hamowanie reakcji oraz wskazali przewagę ruchu angażującego poznawczo. <a href="https://doi.org/10.1016/j.jad.2025.01.155" rel="noopener" target="_blank">Otwórz źródło</a>.</li>
+<li id="src-leisure-board"><strong>Estrada-Plana V. i in. (2019).</strong> <em>A Pilot Study of the Efficacy of a Cognitive Training Based on Board Games in Children with ADHD: A Randomized Controlled Trial.</em> Games for Health Journal, 8(4), 265–274. Pilotaż obejmował 27 dzieci; brak zaślepienia i mała próba ograniczają wnioski. <a href="https://doi.org/10.1089/g4h.2018.0051" rel="noopener" target="_blank">Otwórz źródło</a>.</li>
+<li id="src-leisure-music"><strong>de Oliveira Goes A., Nardi A.E., Quagliato L.A. (2025).</strong> <em>Outcomes of music therapy on children and adolescents with ADHD: a systematic review and meta-analysis.</em> Trends in Psychiatry and Psychotherapy. Metaanaliza trzech badań (148 uczestników) wykazała nieistotny statystycznie trend i bardzo dużą heterogeniczność (I²=92%). <a href="https://doi.org/10.47626/2237-6089-2024-1020" rel="noopener" target="_blank">Otwórz źródło</a>.</li>
 </ol>
 </section><div aria-label="Nawigacja między kategoriami" class="category-pager"><button class="category-step category-step-prev" data-go-category="wsparcie" type="button"><span>Poprzednia kategoria</span><strong>← Szkoła i dalsza pomoc</strong></button><button class="category-step category-step-next" data-go-category="analiza" type="button"><span>Wróć na początek</span><strong>Zacznij od analizy ↥</strong></button></div></div></main>
 <footer>
@@ -3775,5 +3875,86 @@ activateGuideCategory(initialCategory, {instant:true, target:initialHashTarget})
   buttons.forEach(btn => btn.addEventListener('click', () => render(btn.dataset.regState)));
 })();
 </script>
+
+<script>
+(function(){
+  const evidenceButtons=Array.from(document.querySelectorAll('[data-evidence-filter]'));
+  const evidenceCards=Array.from(document.querySelectorAll('.evidence-stat[data-evidence]'));
+  evidenceButtons.forEach(function(button){
+    button.addEventListener('click',function(){
+      const filter=button.dataset.evidenceFilter;
+      evidenceButtons.forEach(function(item){
+        const active=item===button;
+        item.classList.toggle('active',active);
+        item.setAttribute('aria-pressed',String(active));
+      });
+      evidenceCards.forEach(function(card){card.hidden=filter!=='all'&&card.dataset.evidence!==filter;});
+    });
+  });
+
+  const activities=[
+    {name:'Tor ruchowy z 4 stacjami',kind:'ruch',minutes:20,company:'start',screen:false,why:'Wyraźne rundy i szybka informacja zwrotna.',start:'Ułóż: skoki, slalom, rzut do celu i rozciąganie. Zrób 3 rundy.'},
+    {name:'Skakanka przez trzy utwory',kind:'ruch',minutes:10,company:'solo',screen:false,why:'Rytm i naturalny koniec ograniczają negocjowanie czasu.',start:'Wybierz trzy piosenki i przygotuj bezpieczne miejsce.'},
+    {name:'Spacer fotograficzny',kind:'ruch',minutes:40,company:'solo',screen:true,why:'Ruch łączy się z konkretną misją i nowością.',start:'Sfotografuj 8 rzeczy w jednym kolorze; bez publikowania lokalizacji.'},
+    {name:'Trening z piłką i kartą wyników',kind:'ruch',minutes:20,company:'solo',screen:false,why:'Widoczny wynik podtrzymuje zaangażowanie.',start:'Wybierz trzy zadania po 10 prób, np. kozłowanie, cel i odbicia.'},
+    {name:'Konstrukcja z limitem elementów',kind:'skupienie',minutes:20,company:'solo',screen:false,why:'Ograniczenie materiału upraszcza start i tworzy cel.',start:'Zbuduj most z dokładnie 25 elementów, który utrzyma książkę.'},
+    {name:'Rush Hour lub łamigłówka poziomowa',kind:'skupienie',minutes:20,company:'solo',screen:false,why:'Krótkie poziomy i rosnąca trudność dają częste domknięcia.',start:'Zacznij od dwóch poziomów łatwych, potem wybierz jeden trudniejszy.'},
+    {name:'Origami z instrukcją obrazkową',kind:'skupienie',minutes:20,company:'start',screen:false,why:'Sekwencja kroków ćwiczy planowanie bez presji czasu.',start:'Przygotuj jeden kwadrat papieru i wybierz model 6–10 kroków.'},
+    {name:'Szachowe lub logiczne zadanie dnia',kind:'skupienie',minutes:10,company:'solo',screen:true,why:'Jedno zadanie ma wyraźny koniec, inaczej niż nieskończona rozgrywka.',start:'Włącz tryb pojedynczego zadania i wyłącz powiadomienia.'},
+    {name:'Audiobook i rysowanie',kind:'wyciszenie',minutes:20,company:'solo',screen:false,why:'Historia utrzymuje uwagę, a ruch dłoni pomaga regulować pobudzenie.',start:'Wybierz jeden rozdział i narysuj miejsce albo postać.'},
+    {name:'Komiks lub książka faktograficzna',kind:'wyciszenie',minutes:20,company:'solo',screen:false,why:'Krótka forma i swobodny wybór obniżają koszt rozpoczęcia.',start:'Ustal tylko 10 minut; dziecko może skończyć po naturalnym fragmencie.'},
+    {name:'Modelowanie masą plastyczną',kind:'wyciszenie',minutes:20,company:'solo',screen:false,why:'Powtarzalny nacisk i manipulacja materiałem mogą być uspokajające.',start:'Wylosuj temat: zwierzę, pojazd albo jedzenie.'},
+    {name:'Wspólny film z przerwą',kind:'wyciszenie',minutes:60,company:'together',screen:true,why:'Wspólne oglądanie dodaje relację i rozmowę do biernej aktywności.',start:'Wybierz film wcześniej, wyłącz autoodtwarzanie i ustal jedną przerwę.'},
+    {name:'Domowa misja detektywistyczna',kind:'nowosc',minutes:20,company:'start',screen:false,why:'Element zagadki podnosi atrakcyjność bez ciągłej zmiany bodźców.',start:'Przygotuj 5 wskazówek prowadzących do drobnego finału.'},
+    {name:'Pudełko losowanych wyzwań',kind:'nowosc',minutes:10,company:'solo',screen:false,why:'Losowanie daje nowość, a karta wyznacza granice zadania.',start:'Wylosuj jedną kartę i wykonuj ją przez 10 minut.'},
+    {name:'Miniaturowy projekt filmowy',kind:'nowosc',minutes:40,company:'start',screen:true,why:'Ekran służy tworzeniu, a projekt ma produkt końcowy.',start:'Nagraj 6 ujęć historii bez twarzy i danych osobowych, potem je połącz.'},
+    {name:'Prosty eksperyment z kartą kroków',kind:'nowosc',minutes:40,company:'together',screen:false,why:'Przewidywanie wyniku łączy ciekawość z planem.',start:'Wybierz bezpieczny eksperyment bez ognia i przygotuj maksymalnie 5 kroków.'}
+  ];
+  const need=document.getElementById('leisureNeed');
+  const time=document.getElementById('leisureTime');
+  const company=document.getElementById('leisureCompany');
+  const screen=document.getElementById('leisureScreen');
+  const results=document.getElementById('leisureResults');
+  const status=document.getElementById('leisureResultStatus');
+  if(!need||!time||!company||!screen||!results) return;
+
+  function scoreActivity(item){
+    let score=0;
+    if(item.kind===need.value) score+=8;
+    const available=Number(time.value);
+    score+=Math.max(0,4-Math.abs(item.minutes-available)/10);
+    if(item.company===company.value) score+=4;
+    else if(company.value==='start'&&item.company==='solo') score+=2;
+    if(screen.value==='no'&&item.screen) score-=20;
+    if(screen.value==='yes'&&item.screen) score+=1;
+    return score;
+  }
+  function render(items){
+    results.innerHTML='';
+    items.forEach(function(item){
+      const article=document.createElement('article');
+      article.className='leisure-result';
+      article.dataset.kind=item.kind;
+      const h=document.createElement('h4');h.textContent=item.name;article.appendChild(h);
+      const meta=document.createElement('p');meta.className='result-meta';meta.textContent=item.minutes+' min · '+(item.screen?'z ekranem':'bez ekranu')+' · '+(item.company==='solo'?'samodzielnie':item.company==='start'?'pomoc na starcie':'wspólnie');article.appendChild(meta);
+      const why=document.createElement('p');why.innerHTML='<strong>Dlaczego:</strong> ';why.appendChild(document.createTextNode(item.why));article.appendChild(why);
+      const start=document.createElement('p');start.innerHTML='<strong>Pierwszy krok:</strong> ';start.appendChild(document.createTextNode(item.start));article.appendChild(start);
+      results.appendChild(article);
+    });
+    status.textContent='Dopasowano '+items.length+' propozycje.';
+  }
+  function matches(){
+    return activities.filter(function(item){return !(screen.value==='no'&&item.screen);}).sort(function(a,b){return scoreActivity(b)-scoreActivity(a);});
+  }
+  document.getElementById('generateLeisure').addEventListener('click',function(){render(matches().slice(0,3));});
+  document.getElementById('surpriseLeisure').addEventListener('click',function(){
+    const pool=matches().slice(0,8);
+    const item=pool[Math.floor(Math.random()*pool.length)];
+    render([item]);
+    status.textContent='Wylosowano jedną z najlepiej pasujących propozycji.';
+  });
+})();
+</script>
+
 </body>
 </html>

@@ -3435,6 +3435,7 @@ window.SITE_CONFIG = {
             { label: 'Raport neuroroznorodnosci', href: 'pages/Raport_neuroroznorodnosci.html', status: 'xlink', desc: 'Raport_neuroroznorodnosci.html' },
             { label: 'ADHD', href: 'pages/adhd.html', status: 'xlink', desc: 'ADHD', icon: 'mdi-book-open-page-variant' },
             { label: 'ADHD u dziecka', href: 'pages/trudne_zachowania_dziecka.html', status: 'xlink', desc: 'ADHD u dziecka', icon: 'mdi-book-open-page-variant' },
+            { label: 'ADHD full', href: 'pages/adhd_2.html', status: 'xlink', desc: 'ADHD v2', icon: 'mdi-book-open-page-variant' },
             { label: 'ASD', href: 'pages/asd.html', status: 'xlink', desc: 'ASD', icon: 'mdi-book-open-page-variant' },
             { label: 'Borderline', href: 'pages/borderline.html', status: 'xlink', desc: 'Borderline', icon: 'mdi-book-open-page-variant' },
             { label: 'PTSD', href: 'pages/ptsd.html', status: 'xlink', desc: 'PTSD', icon: 'mdi-book-open-page-variant' },

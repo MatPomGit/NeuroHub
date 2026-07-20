@@ -105,8 +105,8 @@
   --purple:  #6d28d9;
   --topbar-bg: rgba(245,247,251,.82);
   --hover-subtle: rgba(0,0,0,.04);
-  --focus-ring: 0 0 0 2px rgba(160,122,16,.45);
-  --focus-bg: rgba(160,122,16,.12);
+  --focus-ring: 0 0 0 3px rgba(109,40,217,.34);
+  --focus-bg: rgba(109,40,217,.12);
 }
 
 [data-theme="sepia"] {

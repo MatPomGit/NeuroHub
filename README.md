@@ -76,3 +76,17 @@ Artykuły są rozwijane według standardu redakcyjnego projektu (struktura nauko
 ## Status projektu
 
 PsyHub jest projektem rozwijanym iteracyjnie — część treści ma charakter pełnych opracowań, a część jest sukcesywnie rozbudowywana i aktualizowana.
+
+
+## Budowanie strony z Jekyllem
+
+Warstwa publikacyjna PsyHub korzysta z Jekylla. Dotychczasowy interfejs SPA, moduły JavaScript i samodzielne strony HTML pozostają zasobami statycznymi, natomiast artykuły z katalogu `wiki/` są dodatkowo generowane jako indeksowalne strony HTML.
+
+Uruchomienie lokalne:
+
+```bash
+bundle install
+bundle exec jekyll serve
+```
+
+Gotowa strona jest zapisywana w katalogu `_site/`. Wdrożenie produkcyjne wykonuje workflow `.github/workflows/pages.yml`; katalog źródłowy repozytorium nie jest publikowany bezpośrednio.

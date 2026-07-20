@@ -1992,7 +1992,8 @@ function renderHome() {
   const startCardsHtml = startScenarios
     .filter(scenario => pageMap.has(scenario.id))
     .map((scenario, index) => `<button type="button" class="start-card modern-card" onclick="navigate('${scenario.id}')">
-      <span class="start-card-index">${String(index + 1).padStart(2, '0')}</span>\n      <span class="start-card-title">${scenario.title}</span>
+      <span class="start-card-index">${String(index + 1).padStart(2, '0')}</span>
+      <span class="start-card-title">${scenario.title}</span>
       <span class="start-card-goal">${scenario.goal}</span>
       <span class="start-card-benefit">${scenario.benefit}</span>
     </button>`)
@@ -2029,21 +2030,24 @@ function renderHome() {
     </div>
     <section class="home-block">
       <div class="home-block-head">
-        <span class="section-kicker">Szybki start</span>\n        <h2>Co chcesz dziś zrobić?</h2>
+        <span class="section-kicker">Szybki start</span>
+        <h2>Co chcesz dziś zrobić?</h2>
         <p>Wybierz scenariusz dopasowany do celu na teraz.</p>
       </div>
       <div class="start-grid">${startCardsHtml}</div>
     </section>
     <section class="home-block">
       <div class="home-block-head">
-        <span class="section-kicker">Kontynuuj</span>\n        <h2>Ostatnio odwiedzane</h2>
+        <span class="section-kicker">Kontynuuj</span>
+        <h2>Ostatnio odwiedzane</h2>
         <p>Wróć do materiałów, które już przeglądałeś.</p>
       </div>
       ${recentHtml}
     </section>
     <section class="home-block">
       <div class="home-block-head">
-        <span class="section-kicker">Biblioteka wiedzy</span>\n        <h2>Przeglądaj dziedziny</h2>
+        <span class="section-kicker">Biblioteka wiedzy</span>
+        <h2>Przeglądaj dziedziny</h2>
         <p>Od fundamentów po klinikę, neuronaukę i relację człowiek–technologia.</p>
       </div>
       <div class="home-domain-groups">${cardsByGroup}</div>

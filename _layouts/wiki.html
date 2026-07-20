@@ -3,58 +3,122 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#070a12">
+  <meta name="color-scheme" content="dark light">
   <title>{{ page.title | escape }} · {{ site.title | escape }}</title>
   <meta name="description" content="{{ page.description | default: site.description | strip_html | normalize_whitespace | escape }}">
   <link rel="canonical" href="{{ page.url | absolute_url }}">
   <link rel="icon" href="{{ '/assets/brain.ico' | relative_url }}" type="image/x-icon">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Manrope:wght@500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ '/design-tokens.css' | relative_url }}">
   <style>
-    :root{color-scheme:light dark}
     *{box-sizing:border-box}
-    body{margin:0;background:#0b1118;color:#e8eef5;font:17px/1.72 Inter,system-ui,-apple-system,"Segoe UI",sans-serif}
-    .wiki-header{position:sticky;top:0;z-index:10;border-bottom:1px solid #263647;background:rgba(11,17,24,.94);backdrop-filter:blur(12px)}
-    .wiki-header__inner,.wiki-main{width:min(920px,calc(100% - 32px));margin:auto}
-    .wiki-header__inner{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:14px 0}
-    .wiki-brand{color:#fff;font-weight:800;text-decoration:none}
-    .wiki-back{color:#9dc8ff;text-decoration:none}
-    .wiki-main{padding:48px 0 80px}
-    .wiki-article{padding:clamp(24px,5vw,56px);border:1px solid #263647;border-radius:22px;background:#111a24;box-shadow:0 18px 50px rgba(0,0,0,.24)}
-    h1,h2,h3,h4{line-height:1.2;color:#fff;scroll-margin-top:88px}
-    h1{font-size:clamp(2rem,6vw,3.5rem);letter-spacing:-.035em}
-    h2{margin-top:2.5rem;border-bottom:1px solid #263647;padding-bottom:.45rem}
-    a{color:#80baff}
-    blockquote{margin:1.5rem 0;padding:1rem 1.25rem;border-left:4px solid #5da9ff;background:#162434}
-    code{border-radius:.35rem;background:#1b2837;padding:.1em .35em}
-    pre{overflow:auto;border-radius:12px;background:#081018;padding:1rem}
-    table{display:block;max-width:100%;overflow:auto;border-collapse:collapse}
-    th,td{border:1px solid #304357;padding:.65rem;text-align:left}
-    img{max-width:100%;height:auto}
-    .wiki-source{margin-top:2.5rem;color:#91a3b7;font-size:.85rem}
-    @media (prefers-color-scheme:light){
-      body{background:#f4f7fa;color:#243142}
-      .wiki-header{border-color:#d8e1e9;background:rgba(255,255,255,.95)}
-      .wiki-brand,h1,h2,h3,h4{color:#132235}
-      .wiki-article{border-color:#d8e1e9;background:#fff;box-shadow:0 18px 50px rgba(33,52,73,.09)}
-      h2{border-color:#d8e1e9}
-      blockquote{background:#edf5fc}
-      code{background:#edf1f5}
-      pre{background:#172332;color:#edf4fb}
-      th,td{border-color:#d8e1e9}
+    html{scroll-behavior:smooth}
+    body{
+      margin:0;
+      min-height:100vh;
+      background:
+        radial-gradient(circle at 76% -12%,rgba(139,92,246,.17),transparent 34rem),
+        radial-gradient(circle at 100% 46%,rgba(56,189,248,.08),transparent 28rem),
+        var(--bg);
+      color:var(--t1);
+      font:17px/1.78 var(--sans);
     }
+    body::before{
+      content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;opacity:.32;
+      background-image:linear-gradient(rgba(148,163,184,.035) 1px,transparent 1px),linear-gradient(90deg,rgba(148,163,184,.035) 1px,transparent 1px);
+      background-size:64px 64px;mask-image:linear-gradient(to bottom,black,transparent 72%);
+    }
+    a{color:var(--blue)}
+    .reading-progress{position:fixed;inset:0 auto auto 0;width:0;height:3px;z-index:30;background:var(--accent-gradient)}
+    .wiki-topbar{
+      position:sticky;top:12px;z-index:20;
+      width:min(1180px,calc(100% - 24px));min-height:66px;margin:12px auto 0;padding:.65rem .8rem;
+      display:flex;align-items:center;justify-content:space-between;gap:1rem;
+      border:1px solid var(--border);border-radius:18px;background:var(--topbar-bg);
+      box-shadow:var(--shadow-sm);backdrop-filter:blur(24px) saturate(140%);
+    }
+    .wiki-brand{display:flex;align-items:center;gap:.7rem;color:var(--t1);font:800 1rem var(--serif);text-decoration:none}
+    .wiki-brand-mark{display:grid;place-items:center;width:40px;height:40px;border-radius:13px;background:var(--accent-gradient);box-shadow:0 10px 25px rgba(99,102,241,.28)}
+    .wiki-nav{display:flex;align-items:center;gap:.5rem}
+    .wiki-nav a{padding:.55rem .75rem;border:1px solid var(--border);border-radius:11px;background:var(--surface-soft);color:var(--t2);font-size:.78rem;font-weight:700;text-decoration:none}
+    .wiki-nav a:hover{border-color:var(--gold);color:var(--t1)}
+    .wiki-main{width:min(1120px,calc(100% - 24px));margin:clamp(1.2rem,4vw,3.5rem) auto 6rem}
+    .wiki-context{display:flex;align-items:center;justify-content:space-between;gap:1rem;margin:0 0 .8rem;padding:0 .35rem;color:var(--t3);font-size:.7rem}
+    .wiki-context-label{letter-spacing:.13em;text-transform:uppercase}
+    .wiki-article{
+      position:relative;overflow:hidden;
+      padding:clamp(1.4rem,5vw,4.8rem);
+      border:1px solid var(--border);border-radius:var(--r-xl);
+      background:var(--surface);box-shadow:var(--shadow-lg);backdrop-filter:blur(16px);
+    }
+    .wiki-article::before{
+      content:"";position:absolute;width:300px;height:300px;right:-140px;top:-160px;border-radius:50%;
+      background:var(--accent-gradient);opacity:.14;pointer-events:none;
+    }
+    .wiki-article>h1:first-child{
+      position:relative;max-width:900px;margin:.2rem 0 2.4rem;
+      font:800 clamp(2.5rem,7vw,5.8rem)/1.02 var(--serif);letter-spacing:-.065em;
+    }
+    h2,h3,h4{font-family:var(--serif);line-height:1.22;letter-spacing:-.035em;scroll-margin-top:100px}
+    h2{margin:3.2rem 0 1rem;padding-bottom:.65rem;border-bottom:1px solid var(--border);font-size:clamp(1.65rem,3vw,2.4rem)}
+    h3{margin:2.35rem 0 .8rem;font-size:1.35rem}
+    p,li{max-width:78ch}
+    blockquote{margin:1.6rem 0;padding:1rem 1.3rem;border-left:3px solid var(--gold);border-radius:0 16px 16px 0;background:linear-gradient(90deg,var(--goldt),transparent)}
+    code{padding:.13em .38em;border-radius:6px;background:var(--bg3);font-family:var(--mono);font-size:.88em}
+    pre{overflow:auto;padding:1rem;border:1px solid var(--border);border-radius:14px;background:#070b12}
+    pre code{padding:0;background:none}
+    table{display:block;max-width:100%;overflow:auto;border-collapse:collapse;border-radius:14px}
+    th,td{padding:.72rem;border:1px solid var(--border);text-align:left}
+    th{background:var(--surface-soft)}
+    img{max-width:100%;height:auto;border-radius:18px;box-shadow:var(--shadow-sm)}
+    hr{margin:3rem 0;border:0;border-top:1px solid var(--border)}
+    .wiki-source{margin:3.5rem 0 0;padding-top:1rem;border-top:1px solid var(--border);color:var(--t3);font-size:.72rem}
+    @media (max-width:640px){
+      body{font-size:16px}
+      .wiki-topbar{top:7px;margin-top:7px;min-height:58px;border-radius:15px}
+      .wiki-brand-mark{width:36px;height:36px}
+      .wiki-nav a:first-child{display:none}
+      .wiki-main{margin-top:1rem}
+      .wiki-article{border-radius:22px;padding:1.25rem}
+      .wiki-article>h1:first-child{font-size:2.65rem}
+    }
+    @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
   </style>
 </head>
 <body>
-  <header class="wiki-header">
-    <div class="wiki-header__inner">
-      <a class="wiki-brand" href="{{ '/' | relative_url }}">🧠 PsyHub</a>
-      <a class="wiki-back" href="{{ '/' | relative_url }}">Portal wiedzy →</a>
-    </div>
+  <div class="reading-progress" id="readingProgress" aria-hidden="true"></div>
+  <header class="wiki-topbar">
+    <a class="wiki-brand" href="{{ '/' | relative_url }}">
+      <span class="wiki-brand-mark" aria-hidden="true">🧠</span>
+      <span>PsyHub</span>
+    </a>
+    <nav class="wiki-nav" aria-label="Nawigacja strony">
+      <a href="{{ '/' | relative_url }}">Strona główna</a>
+      <a href="{{ '/' | relative_url }}">Otwórz portal →</a>
+    </nav>
   </header>
   <main class="wiki-main">
+    <div class="wiki-context">
+      <span class="wiki-context-label">Artykuł PsyHub</span>
+      <span>Treść generowana przez Jekyll</span>
+    </div>
     <article class="wiki-article">
       {{ content }}
       <p class="wiki-source">Źródło: <code>{{ page.source_path }}</code></p>
     </article>
   </main>
+  <script>
+    (function(){
+      const bar=document.getElementById('readingProgress');
+      function update(){
+        const max=document.documentElement.scrollHeight-window.innerHeight;
+        bar.style.width=(max>0?Math.min(100,window.scrollY/max*100):0)+'%';
+      }
+      window.addEventListener('scroll',update,{passive:true});update();
+    })();
+  </script>
 </body>
 </html>

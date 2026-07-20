@@ -2,35 +2,35 @@
    TOKENS
 ═══════════════════════════════════════════ */
 :root {
-  --bg:      #09090f;
-  --bg2:     #0f0f18;
-  --bg3:     #16161f;
-  --bg4:     #1d1d28;
-  --border:  #252535;
-  --bord2:   #2e2e42;
-  --t1:      #f0f0f8;
-  --t2:      #b6b6d0;
-  --t3:      #9c9cb8;
-  --gold:    #c9a227;
-  --goldt:   rgba(201,162,39,0.12);
-  --goldl:   #e5c158;
-  --blue:    #5b8cb8;
-  --teal:    #4a9b9b;
-  --rose:    #b86b7b;
-  --green:   #5a9e6f;
-  --purple:  #8b7ab8;
-  --serif: 'Crimson Pro', Georgia, serif;
+  --bg:      #070a12;
+  --bg2:     #0d1320;
+  --bg3:     #131c2b;
+  --bg4:     #1a2638;
+  --border:  rgba(148,163,184,.16);
+  --bord2:   rgba(148,163,184,.28);
+  --t1:      #f7f9fc;
+  --t2:      #b8c3d6;
+  --t3:      #7f8ca3;
+  --gold:    #8b5cf6;
+  --goldt:   rgba(139,92,246,.14);
+  --goldl:   #b9a2ff;
+  --blue:    #38bdf8;
+  --teal:    #2dd4bf;
+  --rose:    #fb7185;
+  --green:   #4ade80;
+  --purple:  #a78bfa;
+  --serif: 'Manrope', 'Inter', system-ui, sans-serif;
   --sans:  'Inter', system-ui, sans-serif;
   --mono:  'JetBrains Mono', monospace;
-  --r: 10px;
-  --sw: 292px;   /* sidebar width */
-  --hh: 56px;    /* header height */
-  --ease: 0.18s ease;
-  --topbar-bg: rgba(9,9,15,.93);
+  --r: 16px;
+  --sw: 320px;   /* sidebar width */
+  --hh: 68px;    /* header height */
+  --ease: 0.22s cubic-bezier(.2,.8,.2,1);
+  --topbar-bg: rgba(7,10,18,.78);
   --hover-subtle: rgba(255,255,255,.03);
   /* Tokeny fokusu: wspólny ring dla elementów interaktywnych. */
-  --focus-ring: 0 0 0 2px rgba(201,162,39,.55);
-  --focus-bg: rgba(201,162,39,.14);
+  --focus-ring: 0 0 0 3px rgba(139,92,246,.34);
+  --focus-bg: rgba(139,92,246,.14);
   --focus-offset: 2px;
   /* Skala spacing. */
   --space-1: .25rem;
@@ -51,6 +51,17 @@
   --root-font-size-xlarge: 19px;
 
   /* Tokeny modułu wspólnej gry Kahoot. */
+  --surface: rgba(13,19,32,.82);
+  --surface-strong: #111a29;
+  --surface-soft: rgba(255,255,255,.035);
+  --shadow-sm: 0 8px 28px rgba(0,0,0,.16);
+  --shadow-lg: 0 30px 90px rgba(0,0,0,.28);
+  --accent-gradient: linear-gradient(135deg,#8b5cf6 0%,#3b82f6 55%,#22d3ee 100%);
+  --r-sm: 12px;
+  --r-lg: 24px;
+  --r-xl: 32px;
+  --content-max: 1440px;
+
   --kahoot-bg: #08111f;
   --kahoot-bg2: #0d1b2f;
   --kahoot-card: rgba(18,32,52,.9);
@@ -75,27 +86,27 @@
 }
 
 [data-theme="light"] {
-  --bg:      #f5f5f0;
-  --bg2:     #eeeeed;
-  --bg3:     #e6e5e0;
-  --bg4:     #dddcd6;
-  --border:  #cccbc4;
-  --bord2:   #bebdb6;
-  --t1: #1c1c2e;
-  --t2: #3f3f5a;
-  --t3: #555571;
-  --gold:    #a07a10;
-  --goldt:   rgba(160,122,16,0.1);
-  --goldl:   #c9a227;
-  --blue:    #2e6098;
-  --teal:    #2e7b7b;
-  --rose:    #993050;
-  --green:   #396b45;
-  --purple:  #5e4e96;
-  --topbar-bg: rgba(245,245,240,.93);
+  --bg:      #f5f7fb;
+  --bg2:     #ffffff;
+  --bg3:     #eef2f8;
+  --bg4:     #e5eaf3;
+  --border:  rgba(51,65,85,.14);
+  --bord2:   rgba(51,65,85,.24);
+  --t1: #111827;
+  --t2: #475569;
+  --t3: #718096;
+  --gold:    #6d28d9;
+  --goldt:   rgba(109,40,217,.09);
+  --goldl:   #7c3aed;
+  --blue:    #0369a1;
+  --teal:    #0f766e;
+  --rose:    #be123c;
+  --green:   #15803d;
+  --purple:  #6d28d9;
+  --topbar-bg: rgba(245,247,251,.82);
   --hover-subtle: rgba(0,0,0,.04);
-  --focus-ring: 0 0 0 2px rgba(160,122,16,.45);
-  --focus-bg: rgba(160,122,16,.12);
+  --focus-ring: 0 0 0 3px rgba(109,40,217,.34);
+  --focus-bg: rgba(109,40,217,.12);
 }
 
 [data-theme="sepia"] {

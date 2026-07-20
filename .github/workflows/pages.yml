@@ -1,7 +1,9 @@
-name: Deploy GitHub Pages
+name: Build and deploy Jekyll to GitHub Pages
 
 on:
   push:
+    branches: [main]
+  pull_request:
     branches: [main]
   workflow_dispatch:
 
@@ -11,40 +13,38 @@ permissions:
   id-token: write
 
 concurrency:
-  group: pages
-  cancel-in-progress: false
+  group: pages-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
-  deploy:
-    name: Deploy static site
+  build:
+    name: Build Jekyll site
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Configure Pages
+        id: pages
         uses: actions/configure-pages@v5
 
-      - name: Prepare static artifact
-        run: |
-          rm -rf _site
-          mkdir -p _site
-          rsync -a ./ _site/ \
-            --exclude .git/ \
-            --exclude .github/ \
-            --exclude .githooks/ \
-            --exclude .vscode/ \
-            --exclude node_modules/ \
-            --exclude _site/
-          touch _site/.nojekyll
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3"
+          bundler-cache: true
 
-      - name: Validate static artifact
+      - name: Build site
+        env:
+          JEKYLL_ENV: production
+        run: bundle exec jekyll build --trace --baseurl "${{ steps.pages.outputs.base_path }}"
+
+      - name: Validate generated artifact
         run: |
           test -f _site/index.html
+          test -f _site/pages/trudne_zachowania_dziecka.html
+          test -n "$(find _site/wiki -type f -name '*.html' -print -quit)"
           if find _site -type l -print -quit | grep -q .; then
             echo "GitHub Pages artifacts cannot contain symlinks." >&2
             exit 1
@@ -53,10 +53,21 @@ jobs:
           find _site -type f | wc -l
 
       - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
+        if: github.event_name != 'pull_request'
+        uses: actions/upload-pages-artifact@v4
         with:
           path: _site
 
+  deploy:
+    name: Deploy GitHub Pages
+    if: github.event_name != 'pull_request'
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5

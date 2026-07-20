@@ -1,0 +1,30 @@
+title: PsyHub
+description: Portal wiedzy psychologicznej z artykułami, testami i materiałami edukacyjnymi.
+lang: pl
+url: https://matpomgit.github.io
+baseurl: /PsyHub
+
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+timezone: Europe/Warsaw
+encoding: utf-8
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+plugins_dir: _plugins
+
+exclude:
+  - AGENTS.md
+  - README.md
+  - docs
+  - tests
+  - tools
+  - node_modules
+  - vendor
+  - coverage
+  - Gemfile
+  - Gemfile.lock

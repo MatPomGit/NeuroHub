@@ -7,3 +7,8 @@ node_modules/
 coverage/
 .pytest_cache/
 .ruff_cache/
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.bundle/
+vendor/bundle/

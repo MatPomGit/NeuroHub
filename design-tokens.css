@@ -30,7 +30,7 @@
   --hover-subtle: rgba(255,255,255,.03);
   /* Tokeny fokusu: wspólny ring dla elementów interaktywnych. */
   --focus-ring: 0 0 0 3px rgba(139,92,246,.34);
-  --focus-bg: rgba(201,162,39,.14);
+  --focus-bg: rgba(139,92,246,.14);
   --focus-offset: 2px;
   /* Skala spacing. */
   --space-1: .25rem;

@@ -17,7 +17,7 @@ module PsyHub
       )
 
       raw_content = File.read(site.in_source_dir(source_path), encoding: "UTF-8")
-      metadata, body = parse_source(raw_content)
+      metadata, body = parse_source(raw_content, source_path)
 
       self.content = body
       self.data = metadata
@@ -30,7 +30,7 @@ module PsyHub
 
     private
 
-    def parse_source(raw_content)
+    def parse_source(raw_content, source_path)
       match = FRONT_MATTER.match(raw_content)
       return [{}, raw_content] unless match
 
@@ -47,11 +47,8 @@ module PsyHub
     end
 
     def humanized_title(source_path)
-      File.basename(source_path, ".md")
-          .tr("_-", " ")
-          .split
-          .map(&:capitalize)
-          .join(" ")
+      title = File.basename(source_path, ".md").tr("_", " ")
+      title.sub(/\A[a-z]/, &:upcase)
     end
 
     def first_paragraph(body)
@@ -75,7 +72,7 @@ module PsyHub
       return unless Dir.exist?(source_root)
 
       Dir.glob(File.join(source_root, "**", "*.md")).sort.each do |absolute_path|
-        source_path = absolute_path.delete_prefix("#{site.source}/")
+        source_path = Pathname.new(absolute_path).relative_path_from(Pathname.new(site.source)).to_s
         site.pages << WikiPage.new(site, source_path)
       end
 

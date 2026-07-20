@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="{{ page.lang | default: site.lang | default: 'pl' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>{{ page.title | escape }} · {{ site.title | escape }}</title>
+  <meta name="description" content="{{ page.description | default: site.description | strip_html | normalize_whitespace | escape }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <link rel="icon" href="{{ '/assets/brain.ico' | relative_url }}" type="image/x-icon">
+  <link rel="stylesheet" href="{{ '/design-tokens.css' | relative_url }}">
+  <style>
+    :root{color-scheme:light dark}
+    *{box-sizing:border-box}
+    body{margin:0;background:#0b1118;color:#e8eef5;font:17px/1.72 Inter,system-ui,-apple-system,"Segoe UI",sans-serif}
+    .wiki-header{position:sticky;top:0;z-index:10;border-bottom:1px solid #263647;background:rgba(11,17,24,.94);backdrop-filter:blur(12px)}
+    .wiki-header__inner,.wiki-main{width:min(920px,calc(100% - 32px));margin:auto}
+    .wiki-header__inner{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:14px 0}
+    .wiki-brand{color:#fff;font-weight:800;text-decoration:none}
+    .wiki-back{color:#9dc8ff;text-decoration:none}
+    .wiki-main{padding:48px 0 80px}
+    .wiki-article{padding:clamp(24px,5vw,56px);border:1px solid #263647;border-radius:22px;background:#111a24;box-shadow:0 18px 50px rgba(0,0,0,.24)}
+    h1,h2,h3,h4{line-height:1.2;color:#fff;scroll-margin-top:88px}
+    h1{font-size:clamp(2rem,6vw,3.5rem);letter-spacing:-.035em}
+    h2{margin-top:2.5rem;border-bottom:1px solid #263647;padding-bottom:.45rem}
+    a{color:#80baff}
+    blockquote{margin:1.5rem 0;padding:1rem 1.25rem;border-left:4px solid #5da9ff;background:#162434}
+    code{border-radius:.35rem;background:#1b2837;padding:.1em .35em}
+    pre{overflow:auto;border-radius:12px;background:#081018;padding:1rem}
+    table{display:block;max-width:100%;overflow:auto;border-collapse:collapse}
+    th,td{border:1px solid #304357;padding:.65rem;text-align:left}
+    img{max-width:100%;height:auto}
+    .wiki-source{margin-top:2.5rem;color:#91a3b7;font-size:.85rem}
+    @media (prefers-color-scheme:light){
+      body{background:#f4f7fa;color:#243142}
+      .wiki-header{border-color:#d8e1e9;background:rgba(255,255,255,.95)}
+      .wiki-brand,h1,h2,h3,h4{color:#132235}
+      .wiki-article{border-color:#d8e1e9;background:#fff;box-shadow:0 18px 50px rgba(33,52,73,.09)}
+      h2{border-color:#d8e1e9}
+      blockquote{background:#edf5fc}
+      code{background:#edf1f5}
+      pre{background:#172332;color:#edf4fb}
+      th,td{border-color:#d8e1e9}
+    }
+  </style>
+</head>
+<body>
+  <header class="wiki-header">
+    <div class="wiki-header__inner">
+      <a class="wiki-brand" href="{{ '/' | relative_url }}">🧠 PsyHub</a>
+      <a class="wiki-back" href="{{ '/' | relative_url }}">Portal wiedzy →</a>
+    </div>
+  </header>
+  <main class="wiki-main">
+    <article class="wiki-article">
+      {{ content }}
+      <p class="wiki-source">Źródło: <code>{{ page.source_path }}</code></p>
+    </article>
+  </main>
+</body>
+</html>

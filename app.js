@@ -1942,8 +1942,8 @@ function renderHome() {
         meta.moduleCount ? `${meta.moduleCount} mod.` : '',
       ].filter(Boolean);
       const fallbackInfo = meta.opensIndex ? '' : `<span class="d-note">Otwiera pierwszy tekst działu${meta.fallbackLabel ? `: ${q(meta.fallbackLabel)}` : ''}.</span>`;
-      return `<button type="button" role="link" class="domain-card" onclick="navigate('${q(navId)}')">
-        <div class="d-name">${q(sec.section)}</div>
+      return `<button type="button" role="link" class="domain-card modern-card" onclick="navigate('${q(navId)}')">
+        <div class="domain-card-top"><span class="d-name">${q(sec.section)}</span><span class="domain-card-arrow" aria-hidden="true">↗</span></div>
         <span class="d-count">${cnt} art.${extraCounts.length ? ` · ${extraCounts.join(' · ')}` : ''}</span>
         ${fallbackInfo}
       </button>`;
@@ -1991,8 +1991,8 @@ function renderHome() {
   ];
   const startCardsHtml = startScenarios
     .filter(scenario => pageMap.has(scenario.id))
-    .map(scenario => `<button type="button" class="start-card" onclick="navigate('${scenario.id}')">
-      <span class="start-card-title">${scenario.title}</span>
+    .map((scenario, index) => `<button type="button" class="start-card modern-card" onclick="navigate('${scenario.id}')">
+      <span class="start-card-index">${String(index + 1).padStart(2, '0')}</span>\n      <span class="start-card-title">${scenario.title}</span>
       <span class="start-card-goal">${scenario.goal}</span>
       <span class="start-card-benefit">${scenario.benefit}</span>
     </button>`)
@@ -2011,11 +2011,15 @@ function renderHome() {
       </button>`).join('')}</div>`
     : `<p class="recent-empty">Tu pojawią się ostatnio otwierane strony. Zacznij od jednej karty „Start tutaj”.</p>`;
 
-  area.innerHTML = `<div class="rendered">
+  area.innerHTML = `<div class="rendered home-view">
     <div class="home-hero">
-      <div class="home-eyebrow">Portal wiedzy psychologicznej</div>
-      <h1>Witaj w <span>PsyHub</span></h1>
-      <p>Wybierz ścieżkę i zacznij od razu. Krótkie kroki pomogą Ci uczyć się szybciej i z mniejszym stresem.</p>
+      <div class="home-eyebrow"><span class="status-dot"></span> Portal wiedzy psychologicznej</div>
+      <h1>Psychologia.<br><span>Uporządkowana.</span></h1>
+      <p>Nowoczesna przestrzeń do nauki, powtórek i pracy ze źródłami. Przejdź od pojęcia do dowodów, testów i zastosowań.</p>
+      <div class="home-hero-actions">
+        <button type="button" class="home-cta home-cta-primary" onclick="navigate('wstep_do_psychologii/definicja')">Rozpocznij naukę <span>→</span></button>
+        <button type="button" class="home-cta home-cta-secondary" onclick="navigate('dla_studentow/testy_teoretyczne')">Sprawdź się testem</button>
+      </div>
       <div class="home-stats">
         <div><div class="stat-val">${totalMd}</div><div class="stat-lbl">Artykułów</div></div>
         <div><div class="stat-val">${totalPlan}</div><div class="stat-lbl">Zaplanowanych</div></div>
@@ -2025,22 +2029,22 @@ function renderHome() {
     </div>
     <section class="home-block">
       <div class="home-block-head">
-        <h2>Start tutaj</h2>
+        <span class="section-kicker">Szybki start</span>\n        <h2>Co chcesz dziś zrobić?</h2>
         <p>Wybierz scenariusz dopasowany do celu na teraz.</p>
       </div>
       <div class="start-grid">${startCardsHtml}</div>
     </section>
     <section class="home-block">
       <div class="home-block-head">
-        <h2>Ostatnio odwiedzane</h2>
+        <span class="section-kicker">Kontynuuj</span>\n        <h2>Ostatnio odwiedzane</h2>
         <p>Wróć do materiałów, które już przeglądałeś.</p>
       </div>
       ${recentHtml}
     </section>
     <section class="home-block">
       <div class="home-block-head">
-        <h2>Działy tematyczne</h2>
-        <p>Kolejność i grupowanie odpowiadają strukturze spisu treści WIKI.</p>
+        <span class="section-kicker">Biblioteka wiedzy</span>\n        <h2>Przeglądaj dziedziny</h2>
+        <p>Od fundamentów po klinikę, neuronaukę i relację człowiek–technologia.</p>
       </div>
       <div class="home-domain-groups">${cardsByGroup}</div>
     </section>

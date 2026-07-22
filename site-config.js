@@ -3439,6 +3439,7 @@ window.SITE_CONFIG = {
             { label: 'ASD', href: 'pages/asd.html', status: 'xlink', desc: 'ASD', icon: 'mdi-book-open-page-variant' },
             { label: 'Borderline', href: 'pages/borderline.html', status: 'xlink', desc: 'Borderline', icon: 'mdi-book-open-page-variant' },
             { label: 'PTSD', href: 'pages/ptsd.html', status: 'xlink', desc: 'PTSD', icon: 'mdi-book-open-page-variant' },
+            { label: 'Unikowy styl przywiązaia', href: 'pages/styl_unikowy.html', status: 'xlink', desc: 'Styl unikowy', icon: 'mdi-book-open-page-variant' },
             { label: 'Strona P1', href: 'pages/p1.html', status: 'xlink', desc: 'Manipulacja kulturowa' },
             { label: 'Strona P2', href: 'pages/p2.html', status: 'xlink', desc: 'Rozmowa i obserwacja w diagnozie psychologicznej' },
             { label: 'Strona P3', href: 'pages/p3.html', status: 'xlink', desc: 'Czarna obsada w filmie historycznym' },

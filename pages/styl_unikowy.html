@@ -1,0 +1,1162 @@
+<!DOCTYPE html>
+
+<html lang="pl">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>Dlaczego ucieczka przed bliskością nie jest osobowością – i jak zmienić wzorzec</title>
+<style>
+  :root{
+    --bg:#f5f7fb;
+    --card:#ffffff;
+    --ink:#1f2937;
+    --muted:#5b6473;
+    --line:#d9e1ec;
+    --blue:#4f7cff;
+    --blue2:#dfe8ff;
+    --purple:#8b5cf6;
+    --purple2:#efe7ff;
+    --green:#19a974;
+    --green2:#ddf8ef;
+    --orange:#f59e0b;
+    --orange2:#fff1d6;
+    --red:#ef4444;
+    --red2:#fee2e2;
+    --teal:#14b8a6;
+    --shadow: 0 10px 30px rgba(31,41,55,.08);
+    --radius: 18px;
+    --radius-sm: 14px;
+    --max: 1180px;
+  }
+  *{box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{
+    margin:0;
+    font-family: Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+    background:linear-gradient(180deg,#f7f9fc 0%, #eef3f9 100%);
+    color:var(--ink);
+  }
+  .wrap{max-width:var(--max); margin:0 auto; padding:24px}
+  .hero{
+    position:relative; overflow:hidden;
+    background:linear-gradient(135deg,#1f3f95 0%, #4868d9 55%, #8b5cf6 100%);
+    color:#fff; border-radius:28px; box-shadow:var(--shadow);
+    padding:42px 32px; margin:24px auto 28px;
+  }
+  .hero:before,.hero:after{
+    content:""; position:absolute; border-radius:999px; opacity:.18; filter:blur(1px);
+  }
+  .hero:before{width:220px;height:220px; background:#fff; right:-60px; top:-60px;}
+  .hero:after{width:160px;height:160px; background:#fff; left:-50px; bottom:-40px;}
+  h1{font-size:clamp(28px,5vw,44px); line-height:1.1; margin:0 0 14px}
+  .lead{font-size:clamp(16px,2vw,19px); line-height:1.6; max-width:920px; margin:0 0 20px; color:rgba(255,255,255,.94)}
+  .hero-grid{
+    display:grid; grid-template-columns: 1.3fr .7fr; gap:20px; align-items:center;
+  }
+  .pill-row{display:flex; flex-wrap:wrap; gap:10px; margin-top:16px}
+  .pill{
+    background:rgba(255,255,255,.15); color:#fff; border:1px solid rgba(255,255,255,.24);
+    padding:10px 12px; border-radius:999px; font-size:14px; backdrop-filter: blur(6px);
+  }
+  .legend-card{
+    background:rgba(255,255,255,.12);
+    border:1px solid rgba(255,255,255,.22); border-radius:22px; padding:20px;
+    backdrop-filter: blur(6px);
+  }
+  .legend-card h3{margin:0 0 10px; font-size:18px}
+  .legend-item{display:flex; gap:10px; align-items:flex-start; margin:10px 0}
+  .dot{width:12px;height:12px;border-radius:999px; margin-top:5px; flex:0 0 12px}
+  .summary{
+    background:var(--card); border-radius:22px; box-shadow:var(--shadow);
+    padding:24px; margin:0 auto 24px; border:1px solid #e8edf6;
+  }
+  .summary strong{color:#1d4ed8}
+  section{
+    background:transparent; margin:26px 0;
+  }
+  .section-head{
+    display:flex; align-items:flex-end; justify-content:space-between; gap:16px;
+    margin-bottom:16px;
+  }
+  .section-head h2{
+    margin:0; font-size:clamp(23px,4vw,31px);
+  }
+  .section-head p{margin:0; color:var(--muted); max-width:720px}
+  .grid{
+    display:grid; gap:16px;
+  }
+  .grid.cols-3{grid-template-columns:repeat(3,minmax(0,1fr))}
+  .grid.cols-4{grid-template-columns:repeat(4,minmax(0,1fr))}
+  .grid.cols-2{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .card{
+    background:var(--card); border-radius:var(--radius); box-shadow:var(--shadow);
+    border:1px solid #e8edf6; padding:18px;
+  }
+  .card h3,.card h4{margin:0 0 10px}
+  .muted{color:var(--muted)}
+  .badge{
+    display:inline-flex; align-items:center; gap:6px;
+    font-size:13px; font-weight:700; padding:6px 10px; border-radius:999px;
+    margin-bottom:12px;
+  }
+  .badge.blue{background:var(--blue2); color:#3059d5}
+  .badge.green{background:var(--green2); color:#10845b}
+  .badge.purple{background:var(--purple2); color:#6a36df}
+  .badge.orange{background:var(--orange2); color:#c07e09}
+  .badge.red{background:var(--red2); color:#c53030}
+  .kpi{
+    display:grid; grid-template-columns:repeat(3,1fr); gap:14px; margin-top:8px;
+  }
+  .kpi .mini{
+    padding:14px; border-radius:16px; background:#f8fafc; border:1px solid #e7eef8;
+  }
+  .mini .num{font-size:28px; font-weight:800; margin-bottom:2px}
+  .mini .lbl{font-size:13px; color:var(--muted)}
+  .flow{
+    display:grid; grid-template-columns:repeat(6,minmax(0,1fr)); gap:14px; align-items:stretch;
+  }
+  .node{
+    position:relative; background:var(--card); border-radius:18px; box-shadow:var(--shadow);
+    border:1px solid #e8edf6; padding:16px; min-height:155px;
+  }
+  .node .n{
+    width:34px;height:34px;border-radius:999px; display:grid; place-items:center;
+    color:#fff; font-weight:800; font-size:14px; margin-bottom:12px;
+  }
+  .node h4{font-size:17px}
+  .node p{font-size:14px; line-height:1.45; color:var(--muted); margin:0}
+  .node.blue .n{background:var(--blue)}
+  .node.purple .n{background:var(--purple)}
+  .node.green .n{background:var(--green)}
+  .node.orange .n{background:var(--orange)}
+  .node.red .n{background:var(--red)}
+  .arrow{
+    position:relative; height:22px; display:flex; align-items:center; justify-content:center;
+  }
+  .arrow:before{
+    content:""; height:2px; width:100%; background:linear-gradient(90deg,#cbd5e1 0%, #94a3b8 100%);
+    border-radius:2px;
+  }
+  .arrow:after{
+    content:""; position:absolute; right:0; width:10px;height:10px;
+    border-top:2px solid #94a3b8; border-right:2px solid #94a3b8; transform:rotate(45deg);
+  }
+  .flow-row{
+    display:grid; grid-template-columns:1fr auto 1fr auto 1fr auto 1fr auto 1fr auto 1fr;
+    gap:12px; align-items:stretch;
+  }
+  .split{
+    display:grid; grid-template-columns:1fr 1fr; gap:16px;
+  }
+  .track{
+    background:var(--card); border-radius:20px; box-shadow:var(--shadow);
+    border:1px solid #e8edf6; padding:20px;
+  }
+  .track h3{margin:0 0 14px}
+  .steps{
+    display:grid; gap:12px;
+  }
+  .step{
+    border-radius:16px; padding:14px; background:#f8fafc; border:1px solid #e7eef8;
+  }
+  .step strong{display:block; margin-bottom:6px}
+  .timeline{
+    position:relative; padding-left:26px;
+  }
+  .timeline:before{
+    content:""; position:absolute; left:9px; top:0; bottom:0; width:2px; background:#d7dfeb;
+  }
+  .event{
+    position:relative; padding:0 0 16px 12px;
+  }
+  .event:last-child{padding-bottom:0}
+  .event:before{
+    content:""; position:absolute; left:-23px; top:6px; width:12px;height:12px; border-radius:999px;
+    background:#fff; border:3px solid var(--blue);
+  }
+  .event h4{margin:0 0 6px}
+  .event p{margin:0; color:var(--muted)}
+  .compare{
+    overflow:auto;
+  }
+  table{
+    width:100%; border-collapse:separate; border-spacing:0; min-width:760px;
+  }
+  th, td{
+    text-align:left; padding:14px 14px; border-bottom:1px solid #e9eef7; vertical-align:top;
+  }
+  th{
+    background:#f1f5fb; color:#334155; font-size:14px;
+  }
+  tr:last-child td{border-bottom:none}
+  .hint{
+    border-left:4px solid var(--teal); background:#ecfeff; padding:16px; border-radius:14px; color:#164e63;
+  }
+  details{
+    background:var(--card); border-radius:16px; box-shadow:var(--shadow); border:1px solid #e8edf6;
+    padding:0 16px; overflow:hidden;
+  }
+  details + details{margin-top:12px}
+  summary{
+    list-style:none; cursor:pointer; padding:16px 0; font-weight:700;
+  }
+  summary::-webkit-details-marker{display:none}
+  details .content{padding:0 0 16px; color:var(--muted); line-height:1.65}
+  .footer{
+    color:var(--muted); font-size:14px; text-align:center; padding:20px 0 40px;
+  }
+  .tiny{font-size:13px; color:var(--muted)}
+  .center{text-align:center}
+  .anchor-nav{
+    display:flex; flex-wrap:wrap; gap:10px; margin-top:14px;
+  }
+  .anchor-nav a{
+    text-decoration:none; color:#2748b3; font-weight:700; font-size:14px;
+    background:#eef3ff; padding:9px 12px; border-radius:999px;
+  }
+
+  @media (max-width: 1100px){
+    .hero-grid{grid-template-columns:1fr}
+    .grid.cols-3,.grid.cols-4,.grid.cols-2,.split,.flow{grid-template-columns:1fr}
+    .flow-row{grid-template-columns:1fr}
+    .arrow{height:26px}
+    .arrow:before{width:2px;height:100%; background:linear-gradient(180deg,#cbd5e1 0%, #94a3b8 100%)}
+    .arrow:after{right:auto; left:50%; bottom:2px; top:auto; transform:translateX(-50%) rotate(135deg)}
+    .kpi{grid-template-columns:1fr}
+  }
+
+  /* Animacje wejścia i elementy interaktywne */
+  @keyframes fadeUp {
+    from { opacity:0; transform:translateY(22px); }
+    to { opacity:1; transform:translateY(0); }
+  }
+  @keyframes pulseRing {
+    0% { box-shadow:0 0 0 0 rgba(79,124,255,.35); }
+    70% { box-shadow:0 0 0 14px rgba(79,124,255,0); }
+    100% { box-shadow:0 0 0 0 rgba(79,124,255,0); }
+  }
+  @keyframes flowMove {
+    from { background-position:0 0; }
+    to { background-position:44px 0; }
+  }
+  @keyframes floatSoft {
+    0%,100% { transform:translateY(0); }
+    50% { transform:translateY(-6px); }
+  }
+  @keyframes countGlow {
+    0%,100% { filter:drop-shadow(0 0 0 rgba(79,124,255,0)); }
+    50% { filter:drop-shadow(0 0 8px rgba(79,124,255,.35)); }
+  }
+  .reveal {
+    opacity:0;
+    transform:translateY(22px);
+    transition:opacity .7s ease, transform .7s ease;
+  }
+  .reveal.visible {
+    opacity:1;
+    transform:none;
+  }
+  .node .n { animation:pulseRing 3.4s infinite; }
+  .legend-card { animation:floatSoft 6s ease-in-out infinite; }
+  .mini .num { animation:countGlow 3.5s ease-in-out infinite; }
+  .arrow:before {
+    background-image:linear-gradient(90deg,#cbd5e1 0 25%,#64748b 25% 50%,#cbd5e1 50% 75%,#64748b 75% 100%);
+    background-size:44px 2px;
+    animation:flowMove 1.4s linear infinite;
+  }
+  .progress {
+    position:fixed; top:0; left:0; height:4px; width:0;
+    background:linear-gradient(90deg,var(--blue),var(--purple),var(--teal));
+    z-index:9999;
+  }
+  .stat-grid{
+    display:grid; grid-template-columns:repeat(4,minmax(0,1fr)); gap:16px;
+  }
+  .stat-card{
+    background:var(--card); border:1px solid #e8edf6; border-radius:18px;
+    box-shadow:var(--shadow); padding:20px; position:relative; overflow:hidden;
+  }
+  .stat-card:after{
+    content:""; position:absolute; width:100px;height:100px; border-radius:50%;
+    right:-35px; top:-35px; background:rgba(79,124,255,.08);
+  }
+  .stat-value{font-size:34px; font-weight:850; line-height:1; margin-bottom:9px; color:#2748b3}
+  .stat-label{font-weight:700; margin-bottom:7px}
+  .stat-note{font-size:13px; color:var(--muted); line-height:1.45}
+  .source-list{
+    display:grid; gap:10px; margin-top:14px;
+  }
+  .source-list a{
+    color:#2748b3; text-decoration:none; font-weight:650;
+  }
+  .source-list a:hover{text-decoration:underline}
+  .toggle{
+    display:flex; gap:8px; flex-wrap:wrap; margin-bottom:14px;
+  }
+  .toggle button{
+    border:1px solid #d7dfeb; background:#fff; color:#334155; padding:9px 12px;
+    border-radius:999px; cursor:pointer; font-weight:700;
+  }
+  .toggle button.active{background:#e8efff; color:#2748b3; border-color:#b9c9ff}
+  .scenario{display:none}
+  .scenario.active{display:block; animation:fadeUp .45s ease both}
+  @media (prefers-reduced-motion: reduce){
+    *,*::before,*::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}
+    .reveal{opacity:1;transform:none}
+  }
+  @media (max-width:1100px){
+    .stat-grid{grid-template-columns:1fr 1fr}
+  }
+  @media (max-width:640px){
+    .stat-grid{grid-template-columns:1fr}
+  }
+
+
+    .card p, .step, .event p { line-height:1.65; }
+    .card ul { line-height:1.65; padding-left:20px; }
+    .track .step { min-height:120px; }
+    #praca-nad-soba .card, #formy-zmiany .card { min-height:100%; }
+    </style>
+</head>
+<body>
+<div class="progress" id="progress"></div>
+<div class="wrap">
+<header class="hero">
+<div class="hero-grid">
+<div>
+<h1>Dlaczego ucieczka przed bliskością nie jest osobowością</h1>
+<p class="lead">Nagła potrzeba zakończenia związku po konflikcie, utracie ważnej relacji albo poczuciu ograniczenia nie musi oznaczać, że kobieta „taka już jest”, nie umie kochać albo po prostu woli samotność. Często jest to nieprawidłowa, utrwalona reakcja obronna: układ nerwowy próbuje szybko odzyskać kontrolę, uniknąć zależności i wyprzedzić przewidywany ból. Ten wzorzec można rozpoznawać, osłabiać i stopniowo zastępować bezpieczniejszym sposobem budowania bliskości.</p>
+<div class="anchor-nav"><a href="#nieprawidlowa">Dlaczego reakcja jest nieprawidłowa</a><a href="#nie-osobowosc">To nie osobowość</a><a href="#mechanizm">Mechanizm reakcji</a><a href="#praca-nad-soba">Praca nad sobą</a><a href="#formy-zmiany">Drogi wychodzenia ze wzorca</a><a href="#plan">Plan działania</a></div>
+<div class="pill-row">
+<div class="pill">przemoc rodzicielska</div>
+<div class="pill">trauma relacyjna</div>
+<div class="pill">styl przywiązania</div>
+<div class="pill">autonomia</div>
+<div class="pill">dysocjacja</div>
+<div class="pill">decyzje rozstaniowe</div>
+</div>
+</div>
+<aside class="legend-card">
+<h3>Główna idea</h3>
+<div class="legend-item">
+<span class="dot" style="background:var(--blue)"></span>
+<div><strong>Dawna trauma</strong><br/><span class="tiny">ustawia układ nerwowy na zagrożenie</span></div>
+</div>
+<div class="legend-item">
+<span class="dot" style="background:var(--purple)"></span>
+<div><strong>Schematy i przywiązanie</strong><br/><span class="tiny">nadają znaczenie: „utrata”, „kontrola”, „odrzucenie”</span></div>
+</div>
+<div class="legend-item">
+<span class="dot" style="background:var(--orange)"></span>
+<div><strong>Wyzwalacz</strong><br/><span class="tiny">np. zmiana granic przyjaźni po wejściu w związek</span></div>
+</div>
+<div class="legend-item">
+<span class="dot" style="background:var(--red)"></span>
+<div><strong>Skutek</strong><br/><span class="tiny">odcięcie uczuć, potrzeba samotności, zerwanie dla ulgi</span></div>
+</div>
+</aside>
+</div>
+</header>
+<div class="summary"><strong>Teza główna: </strong>decyzja o natychmiastowym zerwaniu pod wpływem lęku, przeciążenia lub odcięcia emocjonalnego jest nieprawidłowa nie dlatego, że sama chęć odejścia jest zawsze błędna, lecz dlatego, że zostaje podjęta w stanie zawężonej percepcji, silnej aktywacji obronnej i ograniczonego dostępu do uczuć. Taka decyzja często służy regulacji napięcia, a nie dojrzałej ocenie relacji.</div>
+
+<section class="reveal" id="nieprawidlowa">
+<div class="section-head">
+<div>
+<h2>Dlaczego taka reakcja jest nieprawidłowa?</h2>
+<p>Nieprawidłowość dotyczy mechanizmu podejmowania decyzji: reakcja obronna zastępuje spokojną ocenę sytuacji.</p>
+</div>
+</div>
+<div class="grid cols-3">
+<article class="card">
+<div class="badge red">1. DECYZJA W ALARMIE</div>
+<h3>Decyzja zapada przy zawężonej percepcji</h3>
+<p class="muted">
+        W stanie silnego pobudzenia osoba koncentruje się głównie na zagrożeniu: utracie, kontroli, odrzuceniu albo upokorzeniu.
+        Spada zdolność widzenia kilku możliwych interpretacji oraz rozważania rozwiązań pośrednich.
+        W rezultacie zerwanie może wydawać się jedynym rozsądnym wyjściem, mimo że po uspokojeniu ocena sytuacji bywa inna.
+      </p>
+</article>
+<article class="card">
+<div class="badge red">2. ULGOWA FUNKCJA ZERWANIA</div>
+<h3>Zerwanie reguluje napięcie zamiast rozwiązywać problem</h3>
+<p class="muted">
+        Sama myśl o odejściu może szybko obniżać napięcie, ponieważ przywraca poczucie wpływu i kończy stan niepewności.
+        Ta ulga wzmacnia zachowanie: organizm uczy się, że najlepszym sposobem radzenia sobie z bliskością jest ucieczka.
+        Problem relacyjny pozostaje jednak nieprzepracowany i zwykle wraca w kolejnej więzi.
+      </p>
+</article>
+<article class="card">
+<div class="badge red">3. BRAK INTEGRACJI UCZUĆ</div>
+<h3>Chwilowe odcięcie zostaje uznane za trwałą prawdę</h3>
+<p class="muted">
+        Pod wpływem zamrożenia lub dysocjacyjnego odcięcia osoba może rzeczywiście nie czuć ciepła, tęsknoty ani przywiązania.
+        Błąd polega na potraktowaniu przejściowego stanu układu nerwowego jako ostatecznego dowodu: „już nie kocham”.
+        Uczucia mogą wrócić po obniżeniu pobudzenia, dlatego decyzja podjęta w szczycie odcięcia jest obciążona dużym ryzykiem zniekształcenia.
+      </p>
+</article>
+</div>
+<div class="hint" style="margin-top:16px">
+<strong>Ważne rozróżnienie:</strong> nieprawidłowy może być sposób podejmowania decyzji, a nie sama decyzja o odejściu.
+    Jeśli relacja jest przemocowa, kontrolująca lub trwale niezgodna z wartościami, zakończenie jej może być właściwe.
+    Rzetelna decyzja powinna jednak wynikać z faktów, stabilnej oceny i wartości, a nie wyłącznie z chwilowej ulgi po ucieczce.
+  </div>
+</section>
+<section class="reveal" id="nie-osobowosc">
+<div class="section-head">
+<div>
+<h2>To nie musi być osobowość ani „naturalna potrzeba samotności”</h2>
+<p>Powtarzalny sposób reagowania może wyglądać jak cecha charakteru, choć w rzeczywistości jest utrwaloną strategią przetrwania.</p>
+</div>
+</div>
+<div class="split">
+<div class="track">
+<div class="badge blue">TO NIE MUSI BYĆ CECHA</div>
+<h3>„Taka już jestem” może być błędnym wnioskiem</h3>
+<div class="steps">
+<div class="step">
+<strong>Reakcja zależy od stanu</strong>
+          Jeśli potrzeba samotności pojawia się głównie po konflikcie, zbliżeniu lub sygnale utraty, jest silnie zależna od pobudzenia. To bardziej przypomina uruchamiany mechanizm niż stałą cechę osobowości.
+        </div>
+<div class="step">
+<strong>Reakcja jest selektywna</strong>
+          Osoba może funkcjonować blisko i ciepło, dopóki relacja nie aktywuje lęku przed kontrolą albo opuszczeniem. Gdy alarm opada, zdolność do więzi często wraca.
+        </div>
+<div class="step">
+<strong>Reakcja ma historię</strong>
+          Strategia wycofania zwykle powstała dlatego, że kiedyś chroniła przed zawstydzeniem, przemocą albo zależnością od nieprzewidywalnych opiekunów. Została wyuczona, więc może być również modyfikowana.
+        </div>
+</div>
+</div>
+<div class="track">
+<div class="badge purple">SAMOTNOŚĆ A OBRONA</div>
+<h3>„Wolę być sama” może znaczyć coś innego</h3>
+<div class="steps">
+<div class="step">
+<strong>Samotność jako ulga</strong>
+          Cisza i brak wymagań obniżają pobudzenie. To nie zawsze oznacza autentyczną preferencję życia bez więzi, lecz chwilowe poczucie bezpieczeństwa bez ryzyka zranienia.
+        </div>
+<div class="step">
+<strong>Samotność jako kontrola</strong>
+          Będąc sama, osoba nie musi negocjować, ufać ani pokazywać podatności. Może więc mylić brak zagrożenia z pełnym dobrostanem.
+        </div>
+<div class="step">
+<strong>Samotność jako ochrona przed wstydem</strong>
+          Gdy potrzeby były wcześniej wyśmiewane lub karane, łatwiej zrezygnować z relacji niż ponownie ujawnić zależność. Wewnętrzne zdanie „wolę być sama” może w praktyce oznaczać: „boję się potrzebować”.
+        </div>
+</div>
+</div>
+</div>
+</section>
+<section class="reveal">
+<div class="section-head">
+<div>
+<h2>Model w pigułce</h2>
+<p>Pięć poziomów, które porządkują zjawisko od źródła traumy do skutku w związku.</p>
+</div>
+</div>
+<div class="grid cols-4">
+<article class="card">
+<div class="badge blue">1. ŹRÓDŁO</div>
+<h3>Przemoc i brak ochrony</h3>
+<p class="muted">Dziecko doświadcza zagrożenia ze strony osób, od których zależy biologicznie i emocjonalnie. Nie może po prostu odejść, dlatego jednocześnie szuka opiekuna i próbuje się przed nim chronić. W ten sposób bliskość zostaje zapisana jako potrzebna, lecz nie w pełni bezpieczna.</p>
+</article>
+<article class="card">
+<div class="badge purple">2. MECHANIZM</div>
+<h3>Trauma relacyjna</h3>
+<p class="muted">Relacja staje się jednocześnie źródłem bezpieczeństwa i potencjalnego zagrożenia. Organizm chce więzi, ale reaguje obronnie, gdy pojawia się zależność, konflikt albo możliwość utraty kontroli. W dorosłości może to dawać naprzemienne zbliżanie się i wycofywanie.</p>
+</article>
+<article class="card">
+<div class="badge orange">3. AKTYWACJA</div>
+<h3>Wyzwalacz w dorosłości</h3>
+<p class="muted">Nowa sytuacja nie musi być obiektywnie groźna, aby uruchomić dawny system alarmowy. Wystarczy konflikt, dystans partnera, utrata ważnej osoby albo zmiana granic. Układ nerwowy reaguje wtedy nie tylko na teraźniejszość, lecz także na pamięć wcześniejszej bezradności.</p>
+</article>
+<article class="card">
+<div class="badge red">4. SKUTEK</div>
+<h3>Odcięcie i ucieczka</h3>
+<p class="muted">Pojawiają się lęk, złość, zamrożenie, odrętwienie albo nagłe poczucie „utraty uczuć”. Potrzeba samotności lub impuls zerwania mogą służyć szybkiemu obniżeniu napięcia. Krótkoterminowo przynoszą ulgę, lecz mogą utrwalać unikanie bliskości.</p>
+</article>
+</div>
+<div class="kpi">
+<div class="mini">
+<div class="num">3</div>
+<div class="lbl">kluczowe filtry znaczenia</div>
+<div class="tiny">utrata • kontrola • odrzucenie</div>
+</div>
+<div class="mini">
+<div class="num">2</div>
+<div class="lbl">główne strategie obronne</div>
+<div class="tiny">hiperaktywacja i dezaktywacja</div>
+</div>
+<div class="mini">
+<div class="num">1</div>
+<div class="lbl">częsty cel zachowania</div>
+<div class="tiny">szybkie obniżenie napięcia i odzyskanie sprawczości</div>
+</div>
+</div>
+</section>
+<section class="reveal" id="statystyki">
+<div class="section-head">
+<div>
+<h2>Skala zjawiska w liczbach</h2>
+<p>Dane epidemiologiczne nie diagnozują konkretnej osoby, ale pokazują, że przemoc i niekorzystne doświadczenia dziecięce są częste oraz mają znaczenie populacyjne.</p>
+</div>
+</div>
+<div class="stat-grid">
+<article class="stat-card">
+<div class="stat-value" data-count="1000" data-suffix=" mln">0</div>
+<div class="stat-label">dzieci rocznie doświadcza przemocy</div>
+<div class="stat-note">WHO szacuje, że około miliard dzieci na świecie doświadcza każdego roku różnych form przemocy. To problem zdrowia publicznego, a nie marginalne zjawisko.</div>
+</article>
+<article class="stat-card">
+<div class="stat-value" data-count="63.9" data-suffix="%">0</div>
+<div class="stat-label">dorosłych zgłasza co najmniej jedno ACE</div>
+<div class="stat-note">W analizie CDC obejmującej lata 2011–2020 niemal dwie trzecie dorosłych w USA deklarowało przynajmniej jedno niekorzystne doświadczenie z dzieciństwa.</div>
+</article>
+<article class="stat-card">
+<div class="stat-value" data-count="17.3" data-suffix="%">0</div>
+<div class="stat-label">dorosłych zgłasza co najmniej cztery ACE</div>
+<div class="stat-note">Około jedna osoba na sześć zgłaszała cztery lub więcej kategorii ACE. Większa kumulacja doświadczeń wiąże się przeciętnie z wyższym ryzykiem problemów zdrowotnych i psychicznych.</div>
+</article>
+<article class="stat-card">
+<div class="stat-value" data-count="36.3" data-suffix="%">0</div>
+<div class="stat-label">szacowana częstość przemocy emocjonalnej</div>
+<div class="stat-note">Międzynarodowe metaanalizy badań samoopisowych wskazywały około 36,3% dla przemocy emocjonalnej i około 22,6% dla przemocy fizycznej w dzieciństwie.</div>
+</article>
+</div>
+<div class="hint" style="margin-top:16px">
+<strong>Interpretacja:</strong> wskaźniki pochodzą z różnych populacji i metod badawczych, dlatego nie należy ich mechanicznie porównywać. Pokazują jednak, że doświadczenia prowadzące do traumy relacyjnej są częste, a ich skutki mają charakter dawka–reakcja.
+      </div>
+</section>
+<section class="reveal" id="mechanizm">
+<div class="section-head">
+<div>
+<h2>Łańcuch przyczynowo-skutkowy</h2>
+<p>Najprostsza ścieżka prowadząca od doświadczeń z dzieciństwa do decyzji o wycofaniu z relacji.</p>
+</div>
+</div>
+<div class="flow-row">
+<div class="node blue">
+<div class="n">1</div>
+<h4>Przemoc psychiczna i fizyczna</h4>
+<p>Upokorzenie, strach, kontrola, brak ochrony lub zaniedbanie tworzą fundament zagrożenia relacyjnego.</p>
+</div>
+<div class="arrow"></div>
+<div class="node blue">
+<div class="n">2</div>
+<h4>Trauma relacyjna</h4>
+<p>Bliskość zostaje skojarzona z bólem, utratą wpływu i nieprzewidywalnością.</p>
+</div>
+<div class="arrow"></div>
+<div class="node purple">
+<div class="n">3</div>
+<h4>Neurobiologia alarmu</h4>
+<p>Organizm szybciej przechodzi w walkę, ucieczkę, zamrożenie lub odcięcie emocjonalne.</p>
+</div>
+<div class="arrow"></div>
+<div class="node purple">
+<div class="n">4</div>
+<h4>Schematy i niepewne przywiązanie</h4>
+<p>Powstają przekonania: „zostanę zraniona”, „muszę chronić siebie”, „bliskość zabiera wolność”.</p>
+</div>
+<div class="arrow"></div>
+<div class="node orange">
+<div class="n">5</div>
+<h4>Wyzwalacz</h4>
+<p>Aktualne zdarzenie, np. konflikt albo ograniczenie ważnej przyjaźni, zostaje odczytane jako zagrożenie.</p>
+</div>
+<div class="arrow"></div>
+<div class="node red">
+<div class="n">6</div>
+<h4>Wycofanie lub zerwanie</h4>
+<p>Pojawia się „muszę być sama”, „już nic nie czuję”, „lepiej odejść teraz”.</p>
+</div>
+</div>
+</section>
+<section class="reveal">
+<div class="section-head">
+<div>
+<h2>Co dokładnie dzieje się „po drodze”?</h2>
+<p>Trzy główne mechanizmy pośredniczące łączące dawną traumę z zachowaniem w relacji.</p>
+</div>
+</div>
+<div class="grid cols-3">
+<article class="card">
+<div class="badge blue">NEUROBIOLOGIA</div>
+<h3>Układ alarmowy</h3>
+<p class="muted">Ciało migdałowate, hipokamp i kora przedczołowa uczestniczą w wykrywaniu zagrożeń, nadawaniu kontekstu i hamowaniu reakcji alarmowej. Po przewlekłej traumie konflikt może być przetwarzany nie jak zwykły spór, lecz jak sygnał możliwej krzywdy. Skutkiem jest szybsze pobudzenie i trudniejszy dostęp do spokojnej refleksji.</p>
+<ul class="tiny">
+<li>szybsza reakcja alarmowa,</li>
+<li>trudniejsze gaszenie lęku,</li>
+<li>zawężenie uwagi pod wpływem stresu.</li>
+</ul>
+</article>
+<article class="card">
+<div class="badge green">SCHEMATY</div>
+<h3>Wczesne znaczenia</h3>
+<p class="muted">Aktualna relacja jest filtrowana przez dawne przekonania o opuszczeniu, nieufności, wstydzie, deprywacji i podporządkowaniu. Schemat nie opisuje faktów neutralnie, lecz automatycznie wybiera interpretację najbardziej zgodną z wcześniejszym doświadczeniem. Dlatego zwykły kompromis może zostać odebrany jako utrata siebie.</p>
+<ul class="tiny">
+<li>„moje potrzeby są problemem”,</li>
+<li>„ktoś ważny i tak odejdzie”,</li>
+<li>„bliskość kończy się bólem”.</li>
+</ul>
+</article>
+<article class="card">
+<div class="badge purple">PRZYWIĄZANIE</div>
+<h3>Dwie sprzeczne potrzeby</h3>
+<p class="muted">Osoba może jednocześnie bardzo pragnąć bliskości i odbierać ją jako zagrożenie dla autonomii albo bezpieczeństwa. Oddalenie partnera nasila lęk przed opuszczeniem, natomiast zbliżenie może uruchamiać lęk przed kontrolą. Powstaje niestabilny cykl przyciągania i odpychania.</p>
+<ul class="tiny">
+<li>lęk przed opuszczeniem,</li>
+<li>lęk przed kontrolą,</li>
+<li>mieszana dynamika przyciągania i ucieczki.</li>
+</ul>
+</article>
+</div>
+</section>
+<section class="reveal" id="dwie-sciezki">
+<div class="section-head">
+<div>
+<h2>Dwie ścieżki reakcji</h2>
+<p>To samo zdarzenie może uruchomić różne strategie obronne – czasem jednocześnie.</p>
+</div>
+</div>
+<div class="split">
+<div class="track">
+<div class="badge orange">ŚCIEŻKA A</div>
+<h3>Hiperaktywacja: lęk przed utratą</h3>
+<div class="steps">
+<div class="step">
+<strong>1. Sygnał zagrożenia</strong>
+              Wiadomość od przyjaciela brzmi jak zapowiedź straty.
+            </div>
+<div class="step">
+<strong>2. Interpretacja</strong>
+              „Już tracę ludzi przez ten związek”, „zaraz zostanę sama”.
+            </div>
+<div class="step">
+<strong>3. Reakcja</strong>
+              Ruminacja, napięcie, protest, silna potrzeba szybkiej decyzji.
+            </div>
+<div class="step">
+<strong>4. Skutek</strong>
+              Lęk przed rozpadem związku albo paradoksalne zerwanie, by wyprzedzić stratę.
+            </div>
+</div>
+</div>
+<div class="track">
+<div class="badge purple">ŚCIEŻKA B</div>
+<h3>Dezaktywacja: lęk przed kontrolą</h3>
+<div class="steps">
+<div class="step">
+<strong>1. Sygnał zagrożenia</strong>
+              Zmiana granic jest odczytana jako utrata autonomii.
+            </div>
+<div class="step">
+<strong>2. Interpretacja</strong>
+              „Ten związek zaczyna ograniczać moje życie”, „muszę odzyskać siebie”.
+            </div>
+<div class="step">
+<strong>3. Reakcja</strong>
+              Odrętwienie, spadek ciepła, dystans, potrzeba samotności.
+            </div>
+<div class="step">
+<strong>4. Skutek</strong>
+              Wycofanie, „nic nie czuję”, decyzja o odejściu jako forma odzyskania kontroli.
+            </div>
+</div>
+</div>
+</div>
+</section>
+<section class="reveal" id="wyzwalacz">
+<div class="section-head">
+<div>
+<h2>Dlaczego wiadomość od przyjaciela może uruchomić tak silną reakcję?</h2>
+<p>Nie chodzi wyłącznie o treść wiadomości, lecz o znaczenie, jakie nadaje jej dana osoba.</p>
+</div>
+</div>
+<div class="grid cols-3">
+<article class="card">
+<div class="badge orange">UTRATA</div>
+<h3>„Tracę ważną więź”</h3>
+<p class="muted">Przyjaciel mógł pełnić funkcję źródła wsparcia, stabilizatora samooceny i świadka ważnego etapu życia. Ograniczenie kontaktu nie jest wtedy jedynie zmianą grafiku, ale realną stratą elementu systemu regulacyjnego. Im większą rolę pełniła ta więź po rozwodzie lub wcześniejszym rozstaniu, tym silniejsza może być reakcja.</p>
+</article>
+<article class="card">
+<div class="badge purple">AUTONOMIA</div>
+<h3>„Związek zmienia moje życie”</h3>
+<p class="muted">Osoba może czuć, że partnerstwo wymaga rezygnacji z części własnej tożsamości, rytuałów, znajomości i swobody. Dla kogoś po kontroli lub przemocy nawet pośrednia zmiana może wyglądać jak początek izolacji. Reakcja broni wtedy nie tylko kontaktu z przyjacielem, lecz całego poczucia odrębności.</p>
+</article>
+<article class="card">
+<div class="badge red">PAMIĘĆ RELACYJNA</div>
+<h3>„To już kiedyś się wydarzyło”</h3>
+<p class="muted">Aktualna sytuacja może uruchomić pamięć kontroli, zawstydzenia, osamotnienia albo opuszczenia. Nie musi chodzić o świadome wspomnienie; reakcja może pojawić się jako napięcie ciała, złość lub nagła potrzeba ucieczki. Obecny partner zostaje wtedy częściowo pomylony z dawnym źródłem zagrożenia.</p>
+</article>
+</div>
+<div class="card" style="margin-top:16px">
+<h3>Kluczowe przejście</h3>
+<div class="timeline">
+<div class="event">
+<h4>Fakt</h4>
+<p>Przyjaciel ogranicza spotkania jeden-na-jeden „z szacunku dla związku”.</p>
+</div>
+<div class="event">
+<h4>Znaczenie</h4>
+<p>„Ten związek sprawia, że tracę ważnych ludzi” albo „bliskość oznacza ograniczenie”.</p>
+</div>
+<div class="event">
+<h4>Reakcja ciała</h4>
+<p>Wzrasta alarm, spada zdolność spokojnego myślenia i integracji sprzecznych uczuć.</p>
+</div>
+<div class="event">
+<h4>Decyzja impulsowa</h4>
+<p>Zerwanie wydaje się najkrótszą drogą do ulgi i odzyskania wpływu.</p>
+</div>
+</div>
+</div>
+</section>
+<section class="reveal">
+<div class="section-head">
+<div>
+<h2>„Już nic nie czuję” – co to często oznacza?</h2>
+<p>Utrata ciepła podczas konfliktu nie musi oznaczać trwałego zaniku uczuć.</p>
+</div>
+</div>
+<div class="grid cols-3">
+<article class="card">
+<div class="badge blue">SUPRESJA</div>
+<h3>Tłumienie emocji</h3>
+<p class="muted">Emocje są zbyt intensywne albo zbyt ryzykowne, więc organizm ogranicza do nich dostęp. Tłumienie zmniejsza chwilowe przeciążenie, ale utrudnia rozpoznanie potrzeb i komunikację. Osoba może wyglądać na chłodną, choć wewnętrznie nadal przeżywa silny stres.</p>
+</article>
+<article class="card">
+<div class="badge orange">ZAMROŻENIE</div>
+<h3>Freeze / shut-down</h3>
+<p class="muted">Ciało przechodzi w odrętwienie, gdy walka lub ucieczka wydają się niemożliwe albo niebezpieczne. Konflikt zostaje przeżyty jak stan zagrożenia, a nie zwykła różnica zdań. W tym stanie spada możliwość rozmowy, elastycznego myślenia i odczuwania ciepła wobec partnera.</p>
+</article>
+<article class="card">
+<div class="badge purple">DYSOCJACJA</div>
+<h3>Odłączenie</h3>
+<p class="muted">Spada kontakt z uczuciami, potrzebami, pamięcią autobiograficzną lub ciągłością własnego Ja. Dysocjacja może być częściowa i krótkotrwała, ale wystarczająca, aby decyzja podjęta w tym stanie była skrajnie odmienna od późniejszej oceny. To jeden z powodów, dla których ważne decyzje należy odraczać do czasu powrotu regulacji.</p>
+</article>
+</div>
+<div class="hint" style="margin-top:16px">
+<strong>Ważne:</strong> ocena relacji dokonana w stanie silnego pobudzenia bywa mało wiarygodna.
+        To jeden z powodów, dla których decyzje o rozstaniu warto podejmować dopiero po regulacji i odzyskaniu kontaktu z własnym stanem.
+      </div>
+</section>
+<section class="reveal" id="odroznianie">
+<div class="section-head">
+<div>
+<h2>Jak odróżniać zdrową autonomię od reakcji potraumatycznej?</h2>
+<p>Nie każda obrona niezależności jest objawem. Kluczowe są stabilność, elastyczność i oparcie w faktach.</p>
+</div>
+</div>
+<div class="compare card">
+<table>
+<thead>
+<tr>
+<th>Kryterium</th>
+<th>Zdrowa ochrona autonomii</th>
+<th>Reakcja sterowana alarmem / schematem</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Tempo decyzji</strong></td>
+<td>Po namyśle, po obniżeniu napięcia.</td>
+<td>Nagła decyzja w szczycie pobudzenia.</td>
+</tr>
+<tr>
+<td><strong>Elastyczność</strong></td>
+<td>Możliwość rozmowy i kilku rozwiązań pośrednich.</td>
+<td>Myślenie zero-jedynkowe: albo wolność, albo związek.</td>
+</tr>
+<tr>
+<td><strong>Oparcie w faktach</strong></td>
+<td>Dotyczy konkretnych zachowań partnera.</td>
+<td>Dotyczy głównie przewidywanego zagrożenia.</td>
+</tr>
+<tr>
+<td><strong>Funkcja decyzji</strong></td>
+<td>Chroni godność, granice i spójność z wartościami.</td>
+<td>Przede wszystkim szybko redukuje napięcie.</td>
+</tr>
+<tr>
+<td><strong>Stabilność</strong></td>
+<td>Podobna także po uspokojeniu.</td>
+<td>Wyraźnie zmienia się wraz z poziomem pobudzenia.</td>
+</tr>
+</tbody>
+</table>
+</div>
+</section>
+<section class="reveal">
+<div class="section-head">
+<div>
+<h2>Alternatywne hipotezy</h2>
+<p>To zjawisko nie musi mieć wyłącznie podłoża traumatycznego.</p>
+</div>
+</div>
+<div class="grid cols-4">
+<article class="card"><h3>Realna niezgodność wartości</h3><p class="muted">Różne wyobrażenia o granicach, przyjaźni i wyłączności.</p></article>
+<article class="card"><h3>Ambiwalencja wobec partnera</h3><p class="muted">Wątpliwości istniały już wcześniej, a wiadomość tylko je ujawniła.</p></article>
+<article class="card"><h3>Silne przywiązanie do przyjaciela</h3><p class="muted">Ta relacja miała wyjątkową funkcję emocjonalną lub tożsamościową.</p></article>
+<article class="card"><h3>Faktyczna kontrola</h3><p class="muted">Partner rzeczywiście wywiera presję albo izoluje – wtedy reakcja może być ochronna.</p></article>
+</div>
+</section>
+
+<section class="reveal" id="praca-nad-soba">
+<div class="section-head">
+<div>
+<h2>Praca nad sobą: od reakcji automatycznej do bezpiecznej bliskości</h2>
+<p>Zmiana nie polega na zmuszaniu się do związku. Polega na odzyskaniu zdolności wyboru wtedy, gdy układ nerwowy nie narzuca automatycznej ucieczki.</p>
+</div>
+</div>
+<div class="grid cols-2">
+<article class="card">
+<div class="badge green">ETAP 1</div>
+<h3>Rozpoznawanie wyzwalaczy i wczesnych sygnałów</h3>
+<p class="muted">
+        Pierwszym celem jest zauważenie momentu, w którym zwykłe zdarzenie zaczyna być interpretowane jako zagrożenie.
+        Należy obserwować sygnały ciała, automatyczne myśli i impuls do działania zanim pojawi się decyzja o zerwaniu.
+        Im wcześniej rozpoznany zostanie wzrost napięcia, tym większa szansa na przerwanie całej sekwencji.
+      </p>
+<ul class="tiny">
+<li>zapisywanie sytuacji, myśli, emocji i impulsu;</li>
+<li>ocena pobudzenia w skali 0–10;</li>
+<li>identyfikacja zdań: „muszę uciec”, „zaraz stracę siebie”, „już nic nie czuję”.</li>
+</ul>
+</article>
+<article class="card">
+<div class="badge green">ETAP 2</div>
+<h3>Regulacja układu nerwowego przed rozmową</h3>
+<p class="muted">
+        Celem nie jest natychmiastowe przekonanie siebie, że wszystko jest dobrze, lecz odzyskanie fizjologicznej zdolności do myślenia.
+        Pomocne są ruch, orientowanie się w otoczeniu, wydłużony wydech, kontakt z podłożem i ustalona przerwa.
+        Dopiero po spadku pobudzenia warto wracać do analizy relacji.
+      </p>
+<ul class="tiny">
+<li>przerwa z konkretną godziną powrotu do rozmowy;</li>
+<li>spacer, rozluźnienie mięśni, chłodna woda na dłonie;</li>
+<li>unikanie wielogodzinnych kłótni i decyzji podejmowanych w nocy.</li>
+</ul>
+</article>
+<article class="card">
+<div class="badge green">ETAP 3</div>
+<h3>Oddzielanie faktu od schematu</h3>
+<p class="muted">
+        Osoba uczy się rozdzielać to, co wydarzyło się obiektywnie, od znaczenia nadanego przez pamięć relacyjną.
+        Na przykład fakt „przyjaciel ograniczył spotkania” nie jest tożsamy z wnioskiem „partner mnie izoluje”.
+        Taka analiza zmniejsza ryzyko przypisywania obecnemu partnerowi intencji dawnych sprawców.
+      </p>
+<ul class="tiny">
+<li>co wiem na pewno;</li>
+<li>co zakładam;</li>
+<li>jakie są co najmniej trzy alternatywne interpretacje.</li>
+</ul>
+</article>
+<article class="card">
+<div class="badge green">ETAP 4</div>
+<h3>Praca ze schematami i wewnętrznym krytykiem</h3>
+<p class="muted">
+        Schematy opuszczenia, nieufności, podporządkowania i utraty siebie trzeba rozpoznawać jako stare mapy, a nie fakty.
+        Praca polega na kwestionowaniu automatycznych reguł oraz budowaniu nowych odpowiedzi bardziej zgodnych z aktualną sytuacją.
+        Szczególnie ważne jest zastąpienie karzącego głosu komunikatem wspierającym i odpowiedzialnym.
+      </p>
+<ul class="tiny">
+<li>„To uczucie jest realne, ale nie musi opisywać faktów”;</li>
+<li>„Mogę chronić granice bez zrywania więzi”;</li>
+<li>„Potrzebowanie kogoś nie odbiera mi podmiotowości”.</li>
+</ul>
+</article>
+<article class="card">
+<div class="badge green">ETAP 5</div>
+<h3>Uczenie się tolerowania bliskości</h3>
+<p class="muted">
+        Bezpieczne przywiązanie rozwija się poprzez wielokrotne doświadczenia, że bliskość nie prowadzi automatycznie do kontroli.
+        Potrzebna jest stopniowana ekspozycja na zależność: proszenie o pomoc, ujawnianie potrzeb, pozostawanie w rozmowie i przyjmowanie wsparcia.
+        Tempo powinno być kontrolowane, ale nie może służyć ciągłemu unikaniu.
+      </p>
+<ul class="tiny">
+<li>małe prośby zamiast dużych testów lojalności;</li>
+<li>ujawnianie jednej potrzeby naraz;</li>
+<li>pozostawanie w kontakcie mimo przejściowego dyskomfortu.</li>
+</ul>
+</article>
+<article class="card">
+<div class="badge green">ETAP 6</div>
+<h3>Naprawa konfliktu zamiast ucieczki</h3>
+<p class="muted">
+        Najważniejszą nową kompetencją jest doświadczenie, że konflikt nie oznacza końca relacji.
+        Osoba uczy się prosić o przerwę bez grożenia zerwaniem, wracać do rozmowy i odróżniać błąd partnera od całkowitej niewiarygodności.
+        Powtarzalna naprawa stopniowo osłabia schemat, że każda bliskość musi skończyć się krzywdą.
+      </p>
+<ul class="tiny">
+<li>nazwanie własnego udziału bez samoponiżania;</li>
+<li>przeprosiny i konkretna korekta zachowania;</li>
+<li>sprawdzenie, czy partner również potrafi naprawiać relację.</li>
+</ul>
+</article>
+</div>
+</section>
+<section class="reveal" id="formy-zmiany">
+<div class="section-head">
+<div>
+<h2>Różne drogi wychodzenia z patologicznych stylów przywiązania</h2>
+<p>Nie istnieje jedna metoda dla wszystkich. Skuteczna zmiana zwykle łączy pracę nad traumą, regulacją, schematami i zachowaniem w relacji.</p>
+</div>
+</div>
+<div class="grid cols-3">
+<article class="card">
+<div class="badge blue">TERAPIA TRAUMY</div>
+<h3>TF-CBT, CPT, EMDR, terapia ekspozycyjna</h3>
+<p class="muted">
+        Te podejścia koncentrują się na przetworzeniu wspomnień, przekonań i reakcji powiązanych z traumą.
+        Ich celem jest osłabienie automatycznego poczucia, że teraźniejsza bliskość jest powtórzeniem dawnego zagrożenia.
+        Są szczególnie istotne, gdy występują objawy PTSD, natrętne wspomnienia, unikanie i silna reaktywność.
+      </p>
+</article>
+<article class="card">
+<div class="badge purple">TERAPIA SCHEMATÓW</div>
+<h3>Zmiana głębokich wzorców relacyjnych</h3>
+<p class="muted">
+        Terapia schematów pomaga pracować z trwałym wstydem, nieufnością, podporządkowaniem, opuszczeniem i trybem odłączonego obrońcy.
+        Osoba uczy się rozpoznawać, kiedy reaguje „z trybu dziecka” lub „karzącego rodzica”, a kiedy z pozycji zdrowego dorosłego.
+        Jest użyteczna, gdy ten sam wzorzec powtarza się w wielu relacjach.
+      </p>
+</article>
+<article class="card">
+<div class="badge green">MENTALIZACJA</div>
+<h3>MBT i rozwijanie refleksyjności</h3>
+<p class="muted">
+        Podejścia mentalizacyjne uczą utrzymywania ciekawości wobec własnego i cudzego umysłu w stanie emocjonalnego napięcia.
+        Zamiast automatycznie zakładać kontrolę, odrzucenie albo zdradę, osoba uczy się sprawdzać intencje i tolerować niepewność.
+        To bezpośrednio zmniejsza impulsywne decyzje o zerwaniu.
+      </p>
+</article>
+<article class="card">
+<div class="badge orange">STAIR I PRACA FAZOWA</div>
+<h3>Najpierw regulacja i relacje, potem trauma</h3>
+<p class="muted">
+        W podejściu fazowym najpierw rozwija się regulację emocji, granice i umiejętności interpersonalne.
+        Dopiero później intensywnie przetwarza się traumatyczne wspomnienia.
+        To rozwiązanie jest szczególnie przydatne przy nasilonej dysocjacji, chaosie relacyjnym i trudnościach z utrzymaniem bezpieczeństwa.
+      </p>
+</article>
+<article class="card">
+<div class="badge blue">TERAPIA PAR</div>
+<h3>EFT i praca nad bezpieczną więzią</h3>
+<p class="muted">
+        Terapia par może pomóc parze rozpoznać pętlę: nacisk jednej strony i wycofanie drugiej.
+        Partnerzy uczą się sygnalizować potrzeby bez protestu, groźby i zawstydzania.
+        Nie jest to jednak właściwe narzędzie przy aktywnej przemocy lub kontroli, gdzie priorytetem pozostaje bezpieczeństwo.
+      </p>
+</article>
+<article class="card">
+<div class="badge red">TRENING ZACHOWAŃ</div>
+<h3>Mikropraktyki bezpiecznego przywiązania</h3>
+<p class="muted">
+        Sama wiedza o stylu przywiązania nie wystarcza; potrzebne są nowe zachowania wykonywane wielokrotnie.
+        Należą do nich: proszenie o pomoc, stawianie granic bez odcinania, wracanie po przerwie i przyjmowanie naprawy.
+        Dzięki powtarzalności układ nerwowy otrzymuje dowód, że bliskość może być przewidywalna i bezpieczna.
+      </p>
+</article>
+</div>
+</section>
+<section class="reveal" id="plan">
+<div class="section-head">
+<div>
+<h2>Praktyczny plan zmiany wzorca</h2>
+<p>Plan powinien być realizowany stopniowo. Celem nie jest szybkie „naprawienie siebie”, lecz systematyczne zwiększanie elastyczności.</p>
+</div>
+</div>
+<div class="timeline card">
+<div class="event">
+<h4>1. Ustalić zasadę bezpieczeństwa decyzji</h4>
+<p>Nie podejmować nieodwracalnych decyzji w szczycie pobudzenia, odcięcia ani po całonocnym konflikcie. Wyjątkiem jest aktualne zagrożenie lub przemoc.</p>
+</div>
+<div class="event">
+<h4>2. Prowadzić dziennik wzorca przez 4–6 tygodni</h4>
+<p>Zapisywać wyzwalacz, automatyczną myśl, reakcję ciała, impuls i to, co wydarzyło się po uspokojeniu. Pozwala to odróżnić stałą preferencję od reakcji zależnej od stanu.</p>
+</div>
+<div class="event">
+<h4>3. Wybrać jedną technikę regulacji i ćwiczyć ją codziennie</h4>
+<p>Regulacja działa najlepiej, gdy jest trenowana poza kryzysem. W stresie organizm korzysta głównie z umiejętności wcześniej zautomatyzowanych.</p>
+</div>
+<div class="event">
+<h4>4. Zidentyfikować dwa dominujące schematy</h4>
+<p>Najczęściej są to opuszczenie, nieufność, podporządkowanie albo utrata siebie. Praca nad zbyt wieloma tematami naraz utrudnia zmianę.</p>
+</div>
+<div class="event">
+<h4>5. Trenować małe akty bezpiecznej zależności</h4>
+<p>Prosić o niewielką pomoc, ujawniać jedną potrzebę, tolerować odpowiedź inną niż oczekiwana i pozostawać w kontakcie bez grożenia odejściem.</p>
+</div>
+<div class="event">
+<h4>6. Ustalić z partnerem procedurę konfliktu</h4>
+<p>Określić sposób robienia przerwy, godzinę powrotu do rozmowy, zakaz grożenia zerwaniem i zasady negocjowania granic.</p>
+</div>
+<div class="event">
+<h4>7. Rozważyć psychoterapię ukierunkowaną na dominujący problem</h4>
+<p>Przy PTSD priorytetem jest przetwarzanie traumy; przy przewlekłych schematach – terapia schematów; przy utracie refleksyjności – podejście mentalizacyjne; przy pętli pary – terapia więzi po wykluczeniu przemocy.</p>
+</div>
+</div>
+</section>
+<section class="reveal" id="przerwanie">
+<div class="section-head">
+<div>
+<h2>Jak przerwać cykl?</h2>
+<p>Najpierw bezpieczeństwo i regulacja, potem refleksja, a dopiero na końcu decyzja.</p>
+</div>
+</div>
+<div class="grid cols-3">
+<article class="card">
+<div class="badge green">KROK 1</div>
+<h3>Regulacja</h3>
+<p class="muted">Odroczyć nieodwracalną decyzję do czasu spadku pobudzenia. Pomaga przerwa, sen, ruch, oddech i uziemienie.</p>
+</article>
+<article class="card">
+<div class="badge green">KROK 2</div>
+<h3>Oddzielenie faktu od znaczenia</h3>
+<p class="muted">Co naprawdę się wydarzyło? Co tylko dopowiedział alarm lub schemat?</p>
+</article>
+<article class="card">
+<div class="badge green">KROK 3</div>
+<h3>Rozmowa o granicach</h3>
+<p class="muted">Negocjować zasady uczciwe dla obu stron, bez kontroli, zawłaszczania i bez unieważniania autonomii.</p>
+</article>
+<article class="card">
+<div class="badge green">KROK 4</div>
+<h3>Rozpoznanie wzorca</h3>
+<p class="muted">Nazwać schemat: opuszczenie, nieufność, wstyd, podporządkowanie czy utrata siebie.</p>
+</article>
+<article class="card">
+<div class="badge green">KROK 5</div>
+<h3>Budowanie nowych doświadczeń</h3>
+<p class="muted">Naprawa po konflikcie, przewidywalność i szacunek uczą, że bliskość nie musi oznaczać zagrożenia.</p>
+</article>
+<article class="card">
+<div class="badge green">KROK 6</div>
+<h3>Praca terapeutyczna</h3>
+<p class="muted">Gdy wzorzec jest utrwalony: terapia ukierunkowana na traumę, schematy, mentalizację i regulację emocji.</p>
+</article>
+</div>
+</section>
+<section class="reveal">
+<div class="section-head">
+<div>
+<h2>Najważniejsze pytania przed decyzją o rozstaniu</h2>
+<p>Krótki filtr pomagający sprawdzić, czy decyzja jest bardziej reakcją alarmową, czy spójnym wyborem.</p>
+</div>
+</div>
+<details open="">
+<summary>1. Czy uciekam od konkretnego partnera, czy od stanu napięcia?</summary>
+<div class="content">
+          Jeśli główną ulgę daje samo wyobrażenie, że „to się skończy”, istnieje ryzyko, że decyzja reguluje emocje bardziej niż odzwierciedla trwałą ocenę relacji.
+        </div>
+</details>
+<details>
+<summary>2. Czy po uspokojeniu nadal oceniam sytuację podobnie?</summary>
+<div class="content">
+          Im większa różnica między oceną „w szczycie pobudzenia” a oceną po regulacji, tym większy udział stanu alarmowego.
+        </div>
+</details>
+<details>
+<summary>3. Czy są rozwiązania pośrednie?</summary>
+<div class="content">
+          Brak dostępu do rozwiązań pośrednich często towarzyszy przeciążeniu. Elastyczność zwykle wraca wraz ze spadkiem pobudzenia.
+        </div>
+</details>
+<details>
+<summary>4. Czy partner rzeczywiście mnie ogranicza, czy ograniczenie wprowadził sam przyjaciel?</summary>
+<div class="content">
+          To kluczowe rozróżnienie. Fakty należy oddzielić od automatycznych interpretacji.
+        </div>
+</details>
+<details>
+<summary>5. Czy podobny impuls pojawiał się już wcześniej w relacjach?</summary>
+<div class="content">
+          Powtarzalność po konflikcie, zbliżeniu lub sygnale utraty może wskazywać na utrwalony wzorzec lękowo-unikowy.
+        </div>
+</details>
+</section>
+<section class="reveal">
+<div class="section-head">
+<div>
+<h2>Wniosek końcowy</h2>
+<p>To zjawisko najlepiej rozumieć jako konflikt między potrzebą więzi a potrzebą ochrony siebie.</p>
+</div>
+</div>
+<div class="card"><p>Nagła ucieczka przed bliskością nie powinna być automatycznie opisywana jako osobowość kobiety, brak zdolności do kochania ani świadoma preferencja samotności. Często jest to utrwalony mechanizm ochronny, który uruchamia się wtedy, gdy relacja aktywuje lęk przed utratą, kontrolą, wstydem albo zależnością.</p><p class="muted">Zmiana jest możliwa, ponieważ reakcja jest wyuczona i zależna od stanu. Wymaga jednak regularnej pracy: regulacji układu nerwowego, przetworzenia traumy, zmiany schematów, rozwijania mentalizacji oraz wielokrotnego ćwiczenia bezpiecznych zachowań w relacji. Celem nie jest pozostanie w każdym związku, lecz odzyskanie zdolności do podejmowania decyzji bez przymusu automatycznej ucieczki.</p></div>
+</section>
+<section class="reveal">
+<div class="section-head">
+<div>
+<h2>Źródła danych liczbowych</h2>
+<p>Wybrane źródła wykorzystane do przygotowania sekcji statystycznej.</p>
+</div>
+</div>
+<div class="card source-list">
+<a href="https://www.who.int/news/item/07-11-2024-countries-pledge-to-act-on-childhood-violence-affecting--some-1-billion-children" rel="noopener" target="_blank">WHO: około miliarda dzieci doświadcza przemocy rocznie</a>
+<a href="https://www.cdc.gov/mmwr/volumes/72/wr/mm7226a2.htm" rel="noopener" target="_blank">CDC: 63,9% dorosłych z co najmniej jednym ACE; 17,3% z co najmniej czterema ACE</a>
+<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8480117/" rel="noopener" target="_blank">Przegląd: rozpowszechnienie przemocy emocjonalnej, fizycznej i zaniedbania</a>
+<div class="tiny">Dane pochodzą z badań populacyjnych i metaanaliz. Różnią się definicjami, populacją i metodą pomiaru, dlatego służą do opisu skali, a nie do indywidualnej diagnozy.</div>
+</div>
+</section>
+<div class="footer">
+      Strona opracowana jako intuicyjna wizualizacja zjawiska na podstawie wcześniejszej syntezy materiałów.
+      <br/><span class="tiny">Charakter psychoedukacyjny. Nie zastępuje diagnozy ani psychoterapii.</span>
+</div>
+</div>
+<script>
+  // Pasek postępu przewijania
+  const progress = document.getElementById('progress');
+  const updateProgress = () => {
+    const max = document.documentElement.scrollHeight - window.innerHeight;
+    progress.style.width = (max > 0 ? (window.scrollY / max) * 100 : 0) + '%';
+  };
+  window.addEventListener('scroll', updateProgress, {passive:true});
+  updateProgress();
+
+  // Animacje wejścia sekcji
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('visible');
+        observer.unobserve(entry.target);
+      }
+    });
+  }, {threshold:0.12});
+  document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
+
+  // Animowane liczniki
+  const countObserver = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (!entry.isIntersecting) return;
+      const el = entry.target;
+      const target = parseFloat(el.dataset.count);
+      const suffix = el.dataset.suffix || '';
+      const duration = 1300;
+      const start = performance.now();
+      const decimals = String(target).includes('.') ? 1 : 0;
+      const tick = now => {
+        const p = Math.min((now - start) / duration, 1);
+        const eased = 1 - Math.pow(1 - p, 3);
+        el.textContent = (target * eased).toFixed(decimals).replace('.', ',') + suffix;
+        if (p < 1) requestAnimationFrame(tick);
+      };
+      requestAnimationFrame(tick);
+      countObserver.unobserve(el);
+    });
+  }, {threshold:0.45});
+  document.querySelectorAll('[data-count]').forEach(el => countObserver.observe(el));
+
+  // Przełączanie scenariuszy
+  document.querySelectorAll('.toggle button').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const parent = btn.closest('.card');
+      parent.querySelectorAll('.toggle button').forEach(b => b.classList.remove('active'));
+      parent.querySelectorAll('.scenario').forEach(s => s.classList.remove('active'));
+      btn.classList.add('active');
+      document.getElementById(btn.dataset.target).classList.add('active');
+    });
+  });
+</script>
+</body>
+</html>

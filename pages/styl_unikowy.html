@@ -220,10 +220,10 @@
     content:""; display:block; width:72px; height:4px; margin-top:10px;
     border-radius:999px; background:linear-gradient(90deg,var(--blue),var(--teal));
   }
-  .card,.track,.chart,.stat-card,.doc-link,.audio-panel,.summary{
+  .card,.track,.chart,.stat-card,.doc-link,.doc-card,.audio-panel,.summary{
     transition:transform .22s ease, box-shadow .22s ease, border-color .22s ease;
   }
-  .card:hover,.track:hover,.chart:hover,.stat-card:hover,.audio-panel:hover{
+  .card:hover,.track:hover,.chart:hover,.stat-card:hover,.doc-card:hover,.audio-panel:hover{
     transform:translateY(-2px); box-shadow:0 16px 38px rgba(31,41,55,.11); border-color:#ccd9ee;
   }
   .summary{border-left:5px solid var(--blue)}
@@ -1437,14 +1437,26 @@
 </div>
 </div>
 <div class="doc-grid">
-<article class="doc-card"><strong>Dlaczego wiadomość od przyjaciela może uruchomić chęć zakończenia związku</strong><span>Dokument PDF</span><div class="doc-actions"><button type="button" data-doc-preview="files/Dlaczego wiadomość od przyjaciela może uruchomić chęć zakończenia związku.pdf" data-doc-title="Dlaczego wiadomość od przyjaciela może uruchomić chęć zakończenia związku">Podgląd</button><a href="files/Dlaczego wiadomość od przyjaciela może uruchomić chęć zakończenia związku.pdf" target="_blank" rel="noopener">Otwórz / pobierz</a></div></article>
-<article class="doc-card"><strong>Od traumy relacyjnej do ucieczki przed bliskością</strong><span>Dokument PDF</span><div class="doc-actions"><button type="button" data-doc-preview="files/Od_traumy_relacyjnej_do_ucieczki_przed_bliskoscia.pdf" data-doc-title="Od traumy relacyjnej do ucieczki przed bliskością">Podgląd</button><a href="files/Od_traumy_relacyjnej_do_ucieczki_przed_bliskoscia.pdf" target="_blank" rel="noopener">Otwórz / pobierz</a></div></article>
-<article class="doc-card"><strong>Architektura więzi</strong><span>Dokument PDF</span><div class="doc-actions"><button type="button" data-doc-preview="files/Architektura więzi.pdf" data-doc-title="Architektura więzi">Podgląd</button><a href="files/Architektura więzi.pdf" target="_blank" rel="noopener">Otwórz / pobierz</a></div></article>
-<article class="doc-card"><strong>Jak dzieciństwo wpływa na dorosłość</strong><span>Dokument PDF</span><div class="doc-actions"><button type="button" data-doc-preview="files/Jak dzieciństwo wpływa na dorosłość.pdf" data-doc-title="Jak dzieciństwo wpływa na dorosłość">Podgląd</button><a href="files/Jak dzieciństwo wpływa na dorosłość.pdf" target="_blank" rel="noopener">Otwórz / pobierz</a></div></article>
-<article class="doc-card"><strong>Anatomia matczynej rany</strong><span>Prezentacja PDF</span><div class="doc-actions"><button type="button" data-doc-preview="files/Anatomia_matczynej_rany.pdf" data-doc-title="Anatomia matczynej rany">Podgląd</button><a href="files/Anatomia_matczynej_rany.pdf" target="_blank" rel="noopener">Otwórz / pobierz</a></div></article>
-<article class="doc-card"><strong>Anatomia ojcowskiej rany</strong><span>Prezentacja PDF</span><div class="doc-actions"><button type="button" data-doc-preview="files/Anatomia ojcowskiej rany.pdf" data-doc-title="Anatomia ojcowskiej rany">Podgląd</button><a href="files/Anatomia ojcowskiej rany.pdf" target="_blank" rel="noopener">Otwórz / pobierz</a></div></article>
+<article class="doc-card"><strong>Dlaczego wiadomość od przyjaciela może uruchomić chęć zakończenia związku</strong><span>Dokument PDF</span><div class="doc-actions"><button type="button" data-doc-preview="files/Dlaczego wiadomość od przyjaciela może uruchomić chęć zakończenia związku.pdf" data-doc-title="Dlaczego wiadomość od przyjaciela może uruchomić chęć zakończenia związku">Podgląd</button><a href="files/Dlaczego wiadomość od przyjaciela może uruchomić chęć zakończenia związku.pdf" download>Pobierz</a></div></article>
+<article class="doc-card"><strong>Od traumy relacyjnej do ucieczki przed bliskością</strong><span>Dokument PDF</span><div class="doc-actions"><button type="button" data-doc-preview="files/Od_traumy_relacyjnej_do_ucieczki_przed_bliskoscia.pdf" data-doc-title="Od traumy relacyjnej do ucieczki przed bliskością">Podgląd</button><a href="files/Od_traumy_relacyjnej_do_ucieczki_przed_bliskoscia.pdf" download>Pobierz</a></div></article>
+<article class="doc-card"><strong>Architektura więzi</strong><span>Dokument PDF</span><div class="doc-actions"><button type="button" data-doc-preview="files/Architektura więzi.pdf" data-doc-title="Architektura więzi">Podgląd</button><a href="files/Architektura więzi.pdf" download>Pobierz</a></div></article>
+<article class="doc-card"><strong>Jak dzieciństwo wpływa na dorosłość</strong><span>Dokument PDF</span><div class="doc-actions"><button type="button" data-doc-preview="files/Jak dzieciństwo wpływa na dorosłość.pdf" data-doc-title="Jak dzieciństwo wpływa na dorosłość">Podgląd</button><a href="files/Jak dzieciństwo wpływa na dorosłość.pdf" download>Pobierz</a></div></article>
+<article class="doc-card"><strong>Anatomia matczynej rany</strong><span>Prezentacja PDF</span><div class="doc-actions"><button type="button" data-doc-preview="files/Anatomia_matczynej_rany.pdf" data-doc-title="Anatomia matczynej rany">Podgląd</button><a href="files/Anatomia_matczynej_rany.pdf" download>Pobierz</a></div></article>
+<article class="doc-card"><strong>Anatomia ojcowskiej rany</strong><span>Prezentacja PDF</span><div class="doc-actions"><button type="button" data-doc-preview="files/Anatomia ojcowskiej rany.pdf" data-doc-title="Anatomia ojcowskiej rany">Podgląd</button><a href="files/Anatomia ojcowskiej rany.pdf" download>Pobierz</a></div></article>
 </div>
 </section>
+<div class="preview-modal" id="docPreview" aria-hidden="true" role="dialog" aria-modal="true" aria-labelledby="docPreviewTitle">
+<div class="preview-panel">
+<div class="preview-head">
+<div class="preview-title" id="docPreviewTitle">Podgląd dokumentu</div>
+<div class="preview-tools">
+<a href="#" id="docPreviewOpen" target="_blank" rel="noopener">Otwórz w nowej karcie</a>
+<button type="button" id="docPreviewClose">Zamknij</button>
+</div>
+</div>
+<iframe class="preview-frame" id="docPreviewFrame" title="Podgląd dokumentu PDF"></iframe>
+</div>
+</div>
 
 <div class="footer">
       Strona opracowana jako intuicyjna wizualizacja zjawiska na podstawie wcześniejszej syntezy materiałów.
@@ -1493,6 +1505,40 @@
     });
   }, {threshold:0.45});
   document.querySelectorAll('[data-count]').forEach(el => countObserver.observe(el));
+
+
+
+  // Podgląd dokumentów PDF w oknie na stronie
+  const docPreview = document.getElementById("docPreview");
+  const docPreviewFrame = document.getElementById("docPreviewFrame");
+  const docPreviewTitle = document.getElementById("docPreviewTitle");
+  const docPreviewOpen = document.getElementById("docPreviewOpen");
+  const docPreviewClose = document.getElementById("docPreviewClose");
+  const closeDocPreview = () => {
+    docPreview.classList.remove("open");
+    docPreview.setAttribute("aria-hidden", "true");
+    docPreviewFrame.removeAttribute("src");
+  };
+  document.querySelectorAll("[data-doc-preview]").forEach(button => {
+    button.addEventListener("click", () => {
+      const src = button.dataset.docPreview;
+      const title = button.dataset.docTitle || "Podgląd dokumentu";
+      docPreviewTitle.textContent = title;
+      docPreviewFrame.src = src;
+      docPreviewOpen.href = src;
+      docPreview.classList.add("open");
+      docPreview.setAttribute("aria-hidden", "false");
+      docPreviewClose.focus();
+    });
+  });
+  docPreviewClose.addEventListener("click", closeDocPreview);
+  docPreview.addEventListener("click", event => {
+    if (event.target === docPreview) closeDocPreview();
+  });
+  document.addEventListener("keydown", event => {
+    if (event.key === "Escape" && docPreview.classList.contains("open")) closeDocPreview();
+  });
+
 
   // Przełączanie scenariuszy
   document.querySelectorAll('.toggle button').forEach(btn => {

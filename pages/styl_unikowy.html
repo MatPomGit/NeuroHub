@@ -215,6 +215,56 @@
     background:#eef3ff; padding:9px 12px; border-radius:999px;
   }
 
+  .audio-panel{
+    background:var(--card); border-radius:22px; box-shadow:var(--shadow);
+    padding:22px; margin:0 auto 24px; border:1px solid #e8edf6;
+    display:grid; grid-template-columns:1fr minmax(280px,520px); gap:18px; align-items:center;
+  }
+  .audio-panel h2{margin:0 0 8px; font-size:22px}
+  .audio-panel p{margin:0; color:var(--muted); line-height:1.6}
+  .audio-panel audio{width:100%}
+  .chart-board{display:grid; grid-template-columns:1fr 1fr; gap:16px}
+  .chart{
+    background:var(--card); border:1px solid #e8edf6; border-radius:18px;
+    box-shadow:var(--shadow); padding:20px; overflow:hidden;
+  }
+  .chart h3{margin:0 0 8px}
+  .chart p{margin:0 0 16px; color:var(--muted); line-height:1.55}
+  .bar-list{display:grid; gap:12px}
+  .bar-row{display:grid; grid-template-columns:145px 1fr 46px; gap:12px; align-items:center; font-size:14px}
+  .bar-track{height:14px; border-radius:999px; background:#edf2f7; overflow:hidden}
+  .bar-fill{height:100%; border-radius:999px; background:linear-gradient(90deg,var(--blue),var(--teal))}
+  .bar-fill.warn{background:linear-gradient(90deg,var(--orange),var(--red))}
+  .curve{
+    position:relative; height:230px; border-left:2px solid #cbd5e1; border-bottom:2px solid #cbd5e1;
+    background:linear-gradient(180deg,rgba(239,68,68,.07),rgba(25,169,116,.06));
+    border-radius:14px; margin-top:10px;
+  }
+  .curve svg{position:absolute; inset:0; width:100%; height:100%}
+  .curve-label{position:absolute; font-size:12px; color:#475569; background:rgba(255,255,255,.82); border:1px solid #e2e8f0; border-radius:999px; padding:5px 8px}
+  .curve-label.one{left:18px; bottom:16px}
+  .curve-label.two{left:42%; top:22px}
+  .curve-label.three{right:16px; bottom:44px}
+  .matrix{display:grid; grid-template-columns:1fr 1fr; gap:10px; min-height:260px}
+  .matrix-cell{border-radius:16px; padding:16px; border:1px solid #e6edf6; display:flex; flex-direction:column; justify-content:space-between}
+  .matrix-cell strong{font-size:16px}
+  .matrix-cell span{font-size:13px; color:var(--muted); line-height:1.45}
+  .matrix-cell.secure{background:var(--green2)}
+  .matrix-cell.anxious{background:var(--orange2)}
+  .matrix-cell.avoidant{background:var(--blue2)}
+  .matrix-cell.disorganized{background:var(--red2)}
+  .axis-note{display:flex; justify-content:space-between; color:var(--muted); font-size:12px; margin-top:8px}
+  .loop-graphic{display:grid; grid-template-columns:repeat(4,1fr); gap:12px; align-items:stretch}
+  .loop-step{position:relative; border-radius:16px; padding:16px; background:#f8fafc; border:1px solid #e7eef8; min-height:140px}
+  .loop-step:after{content:""; position:absolute; top:50%; right:-13px; width:18px; height:18px; border-top:3px solid #94a3b8; border-right:3px solid #94a3b8; transform:translateY(-50%) rotate(45deg); background:transparent}
+  .loop-step:last-child:after{display:none}
+  .loop-step strong{display:block; margin-bottom:8px}
+  .doc-grid{display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:14px}
+  .doc-link{display:flex; flex-direction:column; gap:8px; min-height:128px; color:inherit; text-decoration:none; background:var(--card); border:1px solid #e8edf6; border-radius:18px; box-shadow:var(--shadow); padding:18px}
+  .doc-link:hover{border-color:#b9c9ff; transform:translateY(-1px)}
+  .doc-link strong{color:#2748b3}
+  .doc-link span{font-size:13px; color:var(--muted); line-height:1.45}
+
   @media (max-width: 1100px){
     .hero-grid{grid-template-columns:1fr}
     .grid.cols-3,.grid.cols-4,.grid.cols-2,.split,.flow{grid-template-columns:1fr}
@@ -223,6 +273,8 @@
     .arrow:before{width:2px;height:100%; background:linear-gradient(180deg,#cbd5e1 0%, #94a3b8 100%)}
     .arrow:after{right:auto; left:50%; bottom:2px; top:auto; transform:translateX(-50%) rotate(135deg)}
     .kpi{grid-template-columns:1fr}
+    .audio-panel,.chart-board,.loop-graphic,.doc-grid{grid-template-columns:1fr}
+    .loop-step:after{display:none}
   }
 
   /* Animacje wejścia i elementy interaktywne */
@@ -326,7 +378,7 @@
 <div>
 <h1>Dlaczego ucieczka przed bliskością nie jest osobowością</h1>
 <p class="lead">Nagła potrzeba zakończenia związku po konflikcie, utracie ważnej relacji albo poczuciu ograniczenia nie musi oznaczać, że kobieta „taka już jest”, nie umie kochać albo po prostu woli samotność. Często jest to nieprawidłowa, utrwalona reakcja obronna: układ nerwowy próbuje szybko odzyskać kontrolę, uniknąć zależności i wyprzedzić przewidywany ból. Ten wzorzec można rozpoznawać, osłabiać i stopniowo zastępować bezpieczniejszym sposobem budowania bliskości.</p>
-<div class="anchor-nav"><a href="#nieprawidlowa">Dlaczego reakcja jest nieprawidłowa</a><a href="#nie-osobowosc">To nie osobowość</a><a href="#mechanizm">Mechanizm reakcji</a><a href="#praca-nad-soba">Praca nad sobą</a><a href="#formy-zmiany">Drogi wychodzenia ze wzorca</a><a href="#plan">Plan działania</a></div>
+<div class="anchor-nav"><a href="#podcast">Podcast</a><a href="#nieprawidlowa">Dlaczego reakcja jest nieprawidłowa</a><a href="#nie-osobowosc">To nie osobowość</a><a href="#odpowiedzialnosc">Odpowiedzialność</a><a href="#pokolenia">Kolejne pokolenia</a><a href="#grafiki">Wykresy i grafiki</a><a href="#mechanizm">Mechanizm reakcji</a><a href="#praca-nad-soba">Praca nad sobą</a><a href="#formy-zmiany">Drogi wychodzenia ze wzorca</a><a href="#plan">Plan działania</a><a href="#materialy">Materiały</a></div>
 <div class="pill-row">
 <div class="pill">przemoc rodzicielska</div>
 <div class="pill">trauma relacyjna</div>
@@ -358,6 +410,17 @@
 </div>
 </header>
 <div class="summary"><strong>Teza główna: </strong>decyzja o natychmiastowym zerwaniu pod wpływem lęku, przeciążenia lub odcięcia emocjonalnego jest nieprawidłowa nie dlatego, że sama chęć odejścia jest zawsze błędna, lecz dlatego, że zostaje podjęta w stanie zawężonej percepcji, silnej aktywacji obronnej i ograniczonego dostępu do uczuć. Taka decyzja często służy regulacji napięcia, a nie dojrzałej ocenie relacji.</div>
+
+<section class="audio-panel reveal" id="podcast">
+<div>
+<div class="badge purple">PODCAST</div>
+<h2>Podcast: trauma relacyjna i ucieczka przed bliskością</h2>
+<p>Krótka forma do odsłuchania przed dalszą lekturą. Podcast rozwija przykład sytuacji, w której strata ważnej więzi może uruchomić alarm, odcięcie emocjonalne i impuls zakończenia związku.</p>
+</div>
+<audio controls preload="metadata" src="files/Dlaczego_uciekła_przed_bliskością_po_stracie_przyjaciela.mp3">
+  Twoja przeglądarka nie obsługuje odtwarzacza audio. Możesz pobrać plik MP3 z katalogu materiałów strony.
+</audio>
+</section>
 
 <section class="reveal" id="nieprawidlowa">
 <div class="section-head">
@@ -396,9 +459,10 @@
 </article>
 </div>
 <div class="hint" style="margin-top:16px">
-<strong>Ważne rozróżnienie:</strong> nieprawidłowy może być sposób podejmowania decyzji, a nie sama decyzja o odejściu.
-    Jeśli relacja jest przemocowa, kontrolująca lub trwale niezgodna z wartościami, zakończenie jej może być właściwe.
-    Rzetelna decyzja powinna jednak wynikać z faktów, stabilnej oceny i wartości, a nie wyłącznie z chwilowej ulgi po ucieczce.
+<strong>Ważne rozróżnienie:</strong> nieprawidłowy może być sposób podejmowania decyzji, a nie sama potrzeba ochrony siebie.
+    W opisywanym wzorcu obecny partner może nie być ani przemocowy, ani kontrolujący, ani winny uruchomienia alarmu.
+    Problem polega na tym, że dawny mechanizm obronny zostaje przeniesiony na aktualną relację, przez co osoba może zranić kogoś, kto realnie nie wyrządził jej krzywdy.
+    Rzetelna decyzja powinna wynikać z faktów, stabilnej oceny i wartości, a nie wyłącznie z chwilowej ulgi po ucieczce.
   </div>
 </section>
 <section class="reveal" id="nie-osobowosc">
@@ -447,6 +511,60 @@
 </div>
 </div>
 </section>
+<section class="reveal" id="odpowiedzialnosc">
+<div class="section-head">
+<div>
+<h2>Mechanizm może ranić innych, choć nie jest czyjąś istotą</h2>
+<p>Wyjaśnienie wzorca nie zwalnia z odpowiedzialności, ale pomaga ją podjąć bez wstydu i samopotępienia.</p>
+</div>
+</div>
+<div class="grid cols-3">
+<article class="card">
+<div class="badge red">SKUTEK DLA DRUGIEJ OSOBY</div>
+<h3>Niewinny partner może zostać zraniony</h3>
+<p class="muted">Nagłe odcięcie, chłód, zerwanie bez rozmowy albo traktowanie partnera jak zagrożenia mogą być dla drugiej osoby bardzo bolesne. Zwłaszcza wtedy, gdy nie zrobiła niczego przemocowego ani kontrolującego, doświadcza ona niezrozumiałej kary za cudzą, dawną historię.</p>
+</article>
+<article class="card">
+<div class="badge purple">TO NIE JEST WYROK</div>
+<h3>„To nie ja taka jestem” nie znaczy „to nie ma znaczenia”</h3>
+<p class="muted">Osoba reagująca ucieczką nie musi być egoistyczna, zimna ani niezdolna do miłości. Często działa przez wpojony mechanizm ochronny, który kiedyś pomagał przetrwać. Dziś ten sam mechanizm może jednak krzywdzić ludzi, którzy próbują być blisko.</p>
+</article>
+<article class="card">
+<div class="badge green">KIERUNEK ZMIANY</div>
+<h3>Odpowiedzialność polega na przerwaniu automatu</h3>
+<p class="muted">Najważniejszy krok to nauczyć się mówić: „uruchomił mi się alarm, potrzebuję regulacji, wrócę do rozmowy”, zamiast znikać, zrywać albo oskarżać. Mechanizm jest wyuczony, dlatego można go osłabić i zastąpić sposobem reagowania, który chroni zarówno siebie, jak i drugą osobę.</p>
+</article>
+</div>
+</section>
+<section class="reveal" id="pokolenia">
+<div class="section-head">
+<div>
+<h2>Dlaczego warto zatrzymać wzorzec przed kolejnym pokoleniem?</h2>
+<p>Nieprzepracowana trauma relacyjna rzadko pozostaje wyłącznie sprawą jednej osoby. Może przenikać do sposobu kochania, wychowywania i reagowania na potrzeby dziecka.</p>
+</div>
+</div>
+<div class="grid cols-3">
+<article class="card">
+<div class="badge orange">TRANSMISJA WZORCA</div>
+<h3>Dziecko uczy się klimatu relacji</h3>
+<p class="muted">Córka lub syn nie dziedziczą automatycznie cudzej traumy jak gotowego losu. Uczą się jednak z codziennych scen: czy bliskość jest bezpieczna, czy konflikt kończy się rozmową, czy emocje prowadzą do znikania, chłodu albo karzącej ciszy. To właśnie powtarzalny klimat relacyjny może stać się ich pierwszą mapą miłości.</p>
+</article>
+<article class="card">
+<div class="badge red">NIEZAMIERZONE RANY</div>
+<h3>Mechanizm ochronny może stać się źródłem lęku</h3>
+<p class="muted">Rodzic, który sam został zraniony, może nie chcieć ranić dziecka, a jednak reagować w sposób dla niego trudny: wycofywać się emocjonalnie, nadmiernie kontrolować, gwałtownie odcinać kontakt albo oczekiwać, że dziecko będzie regulowało jego napięcie. Dla dziecka oznacza to niepewność: „czy moje potrzeby są bezpieczne?”.</p>
+</article>
+<article class="card">
+<div class="badge green">MOTYWACJA DO ZMIANY</div>
+<h3>Praca nad sobą przerywa łańcuch</h3>
+<p class="muted">To nie jest oskarżenie, lecz zaproszenie do odpowiedzialności. Jeśli wzorzec powstał z bólu, można go zrozumieć; jeśli zaczyna ranić innych, warto go zatrzymać. Przepracowanie traumy daje dziecku coś bardzo konkretnego: rodzica, który potrafi wracać po konflikcie, przepraszać, regulować emocje i nie zamieniać lęku w odrzucenie.</p>
+</article>
+</div>
+<div class="hint" style="margin-top:16px">
+<strong>Najważniejsza perspektywa:</strong> celem nie jest straszenie, że „zniszczę córce życie”, lecz zobaczenie realnej sprawczości. To, co było wpojone, można stopniowo rozbroić. Każda przerwana ucieczka, każda spokojna rozmowa po alarmie i każde przyznanie się do własnego mechanizmu zmniejsza ryzyko, że dziecko uzna chłód, zerwanie kontaktu albo lęk przed bliskością za normalny język miłości.
+</div>
+</section>
+
 <section class="reveal">
 <div class="section-head">
 <div>
@@ -526,6 +644,61 @@
 <div class="hint" style="margin-top:16px">
 <strong>Interpretacja:</strong> wskaźniki pochodzą z różnych populacji i metod badawczych, dlatego nie należy ich mechanicznie porównywać. Pokazują jednak, że doświadczenia prowadzące do traumy relacyjnej są częste, a ich skutki mają charakter dawka–reakcja.
       </div>
+</section>
+
+<section class="reveal" id="grafiki">
+<div class="section-head">
+<div>
+<h2>Dodatkowe wykresy i grafiki</h2>
+<p>Wizualizacje porządkują napięcie między potrzebą więzi, autonomii i ochrony po traumie relacyjnej.</p>
+</div>
+</div>
+<div class="chart-board">
+<article class="chart">
+<h3>Profil aktywacji po wyzwalaczu</h3>
+<p>Wartości są ilustracyjne. Pokazują typową zmianę: narasta alarm i impuls ucieczki, a spada dostęp do refleksji.</p>
+<div class="bar-list">
+<div class="bar-row"><span>Alarm ciała</span><div class="bar-track"><div class="bar-fill warn" style="width:88%"></div></div><strong>88%</strong></div>
+<div class="bar-row"><span>Impuls zerwania</span><div class="bar-track"><div class="bar-fill warn" style="width:76%"></div></div><strong>76%</strong></div>
+<div class="bar-row"><span>Dostęp do uczuć</span><div class="bar-track"><div class="bar-fill" style="width:34%"></div></div><strong>34%</strong></div>
+<div class="bar-row"><span>Refleksyjność</span><div class="bar-track"><div class="bar-fill" style="width:28%"></div></div><strong>28%</strong></div>
+</div>
+</article>
+<article class="chart">
+<h3>Krzywa pobudzenia i decyzji</h3>
+<p>Im bliżej szczytu pobudzenia, tym bardziej decyzja bywa regulacją napięcia zamiast spokojną oceną relacji.</p>
+<div class="curve" aria-label="Krzywa pobudzenia od wyzwalacza do regulacji">
+<svg viewBox="0 0 520 230" preserveAspectRatio="none" role="img">
+<path d="M20 190 C100 180 120 120 165 92 C220 56 260 22 315 42 C385 68 390 145 500 168" fill="none" stroke="#ef4444" stroke-width="5" stroke-linecap="round"/>
+<path d="M20 190 C120 188 210 184 300 174 C390 162 455 148 500 126" fill="none" stroke="#19a974" stroke-width="4" stroke-dasharray="10 9" stroke-linecap="round"/>
+</svg>
+<span class="curve-label one">wyzwalacz</span>
+<span class="curve-label two">szczyt alarmu</span>
+<span class="curve-label three">regulacja</span>
+</div>
+</article>
+<article class="chart">
+<h3>Mapa stylów przywiązania</h3>
+<p>Wzorzec lękowo-unikowy często łączy wysoką potrzebę więzi z wysoką potrzebą obrony przed zależnością.</p>
+<div class="matrix">
+<div class="matrix-cell secure"><strong>Bezpieczny</strong><span>Bliskość i autonomia mogą współistnieć.</span></div>
+<div class="matrix-cell anxious"><strong>Lękowy</strong><span>Dominuje obawa przed stratą i protest przy dystansie.</span></div>
+<div class="matrix-cell avoidant"><strong>Unikowy</strong><span>Bliskość bywa przeżywana jako presja lub utrata siebie.</span></div>
+<div class="matrix-cell disorganized"><strong>Zdezorganizowany</strong><span>Ta sama relacja przyciąga i uruchamia alarm.</span></div>
+</div>
+<div class="axis-note"><span>niższy lęk</span><span>wyższy lęk / wyższe unikanie</span></div>
+</article>
+<article class="chart">
+<h3>Pętla wzmacniająca ucieczkę</h3>
+<p>Ulga po zerwaniu może działać jak nagroda dla układu nerwowego, przez co wzorzec utrwala się w kolejnych relacjach.</p>
+<div class="loop-graphic">
+<div class="loop-step"><strong>Wyzwalacz</strong><span class="tiny">wiadomość, konflikt, dystans, zmiana granic</span></div>
+<div class="loop-step"><strong>Alarm</strong><span class="tiny">napięcie, odcięcie, zawężenie interpretacji</span></div>
+<div class="loop-step"><strong>Ucieczka</strong><span class="tiny">zerwanie, chłód, wycofanie, „muszę być sama”</span></div>
+<div class="loop-step"><strong>Ulga</strong><span class="tiny">spadek napięcia wzmacnia stary mechanizm</span></div>
+</div>
+</article>
+</div>
 </section>
 <section class="reveal" id="mechanizm">
 <div class="section-head">
@@ -770,7 +943,7 @@
 </tr>
 <tr>
 <td><strong>Oparcie w faktach</strong></td>
-<td>Dotyczy konkretnych zachowań partnera.</td>
+<td>Dotyczy konkretnych faktów z aktualnej relacji.</td>
 <td>Dotyczy głównie przewidywanego zagrożenia.</td>
 </tr>
 <tr>
@@ -798,7 +971,7 @@
 <article class="card"><h3>Realna niezgodność wartości</h3><p class="muted">Różne wyobrażenia o granicach, przyjaźni i wyłączności.</p></article>
 <article class="card"><h3>Ambiwalencja wobec partnera</h3><p class="muted">Wątpliwości istniały już wcześniej, a wiadomość tylko je ujawniła.</p></article>
 <article class="card"><h3>Silne przywiązanie do przyjaciela</h3><p class="muted">Ta relacja miała wyjątkową funkcję emocjonalną lub tożsamościową.</p></article>
-<article class="card"><h3>Faktyczna kontrola</h3><p class="muted">Partner rzeczywiście wywiera presję albo izoluje – wtedy reakcja może być ochronna.</p></article>
+<article class="card"><h3>Przeniesienie dawnego lęku</h3><p class="muted">Obecny partner może nie wywierać presji ani nie zawinić. Reakcja bywa wtedy odpowiedzią na dawną pamięć relacyjną, a nie na jego aktualne zachowanie.</p></article>
 </div>
 </section>
 
@@ -870,7 +1043,7 @@
 <div class="badge green">ETAP 5</div>
 <h3>Uczenie się tolerowania bliskości</h3>
 <p class="muted">
-        Bezpieczne przywiązanie rozwija się poprzez wielokrotne doświadczenia, że bliskość nie prowadzi automatycznie do kontroli.
+        Bezpieczne przywiązanie rozwija się poprzez wielokrotne doświadczenia, że bliskość nie musi odbierać autonomii ani bezpieczeństwa.
         Potrzebna jest stopniowana ekspozycja na zależność: proszenie o pomoc, ujawnianie potrzeb, pozostawanie w rozmowie i przyjmowanie wsparcia.
         Tempo powinno być kontrolowane, ale nie może służyć ciągłemu unikaniu.
       </p>
@@ -1019,7 +1192,7 @@
 <article class="card">
 <div class="badge green">KROK 3</div>
 <h3>Rozmowa o granicach</h3>
-<p class="muted">Negocjować zasady uczciwe dla obu stron, bez kontroli, zawłaszczania i bez unieważniania autonomii.</p>
+<p class="muted">Negocjować zasady uczciwe dla obu stron, bez oskarżeń, znikania i unieważniania autonomii.</p>
 </article>
 <article class="card">
 <div class="badge green">KROK 4</div>
@@ -1064,9 +1237,9 @@
         </div>
 </details>
 <details>
-<summary>4. Czy partner rzeczywiście mnie ogranicza, czy ograniczenie wprowadził sam przyjaciel?</summary>
+<summary>4. Czy reaguję na fakty z tej relacji, czy na dawny alarm?</summary>
 <div class="content">
-          To kluczowe rozróżnienie. Fakty należy oddzielić od automatycznych interpretacji.
+          To kluczowe rozróżnienie. Obecny partner mógł niczego nie zrobić, a mimo to zostać potraktowany jak źródło zagrożenia. Fakty należy oddzielić od automatycznych interpretacji.
         </div>
 </details>
 <details>
@@ -1099,6 +1272,23 @@
 <div class="tiny">Dane pochodzą z badań populacyjnych i metaanaliz. Różnią się definicjami, populacją i metodą pomiaru, dlatego służą do opisu skali, a nie do indywidualnej diagnozy.</div>
 </div>
 </section>
+<section class="reveal" id="materialy">
+<div class="section-head">
+<div>
+<h2>Materiały do pobrania</h2>
+<p>Dokumenty i prezentacje pogłębiające temat traumy relacyjnej, więzi oraz wpływu dzieciństwa na dorosłe relacje.</p>
+</div>
+</div>
+<div class="doc-grid">
+<a class="doc-link" href="files/Dlaczego wiadomość od przyjaciela może uruchomić chęć zakończenia związku.pdf" target="_blank" rel="noopener"><strong>Dlaczego wiadomość od przyjaciela może uruchomić chęć zakończenia związku</strong><span>Dokument PDF</span></a>
+<a class="doc-link" href="files/Od_traumy_relacyjnej_do_ucieczki_przed_bliskoscia.pdf" target="_blank" rel="noopener"><strong>Od traumy relacyjnej do ucieczki przed bliskością</strong><span>Dokument PDF</span></a>
+<a class="doc-link" href="files/Architektura więzi.pdf" target="_blank" rel="noopener"><strong>Architektura więzi</strong><span>Dokument PDF</span></a>
+<a class="doc-link" href="files/Jak dzieciństwo wpływa na dorosłość.pdf" target="_blank" rel="noopener"><strong>Jak dzieciństwo wpływa na dorosłość</strong><span>Dokument PDF</span></a>
+<a class="doc-link" href="files/Anatomia_matczynej_rany.pdf" target="_blank" rel="noopener"><strong>Anatomia matczynej rany</strong><span>Prezentacja PDF</span></a>
+<a class="doc-link" href="files/Anatomia ojcowskiej rany.pdf" target="_blank" rel="noopener"><strong>Anatomia ojcowskiej rany</strong><span>Prezentacja PDF</span></a>
+</div>
+</section>
+
 <div class="footer">
       Strona opracowana jako intuicyjna wizualizacja zjawiska na podstawie wcześniejszej syntezy materiałów.
       <br/><span class="tiny">Charakter psychoedukacyjny. Nie zastępuje diagnozy ani psychoterapii.</span>

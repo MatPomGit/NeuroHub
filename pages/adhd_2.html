@@ -889,7 +889,9 @@ footer{background:linear-gradient(125deg,#142d4b,#1f486d 58%,#176b69)}
 .tz-section .example-card{border:1px solid var(--line);border-radius:16px;padding:17px;background:#fcfdff}
 .tz-section .example-card h3{margin:0 0 9px;font-size:1.06rem}
 .tz-section .example-card p{margin:.5rem 0}
-.tz-section .action-table th{white-space:nowrap}
+.tz-section .action-table{width:100%;border-collapse:collapse;table-layout:auto}
+.tz-section .action-table th{white-space:nowrap;word-wrap:break-word}
+.tz-section .action-table td{padding:8px 12px;border:1px solid var(--line);border-radius:12px;word-wrap:break-word;background:var(--paper)}
 .tz-section .source-note{padding:12px 14px;border-radius:12px;background:var(--blue2);color:var(--ink)}
 .tz-section .source-list{display:grid;gap:12px;padding-left:1.35rem}
 .tz-section .source-list li{padding:12px 14px;border:1px solid var(--line);border-radius:13px;background:var(--paper)}
@@ -900,7 +902,7 @@ footer{background:linear-gradient(125deg,#142d4b,#1f486d 58%,#176b69)}
 }}
 @media(max-width:700px){
 .tz-section .evidence-grid, .tz-section .example-grid{grid-template-columns:1fr}
-.tz-section .action-table th{white-space:normal}
+.tz-section .action-table th{white-space:normal;word-wrap: break-word}
 }}
 .tz-section html[data-theme="dark"]{
   color-scheme:dark;
@@ -2732,30 +2734,37 @@ footer{background:linear-gradient(125deg,#142d4b,#1f486d 58%,#176b69)}
 </div>
 </section></div><div class="tz-section"><section aria-hidden="true" class="reveal topic-section" data-category="analiza" data-topic-title="Przykłady ABC" id="model-abc">
 <h2>Model ABC na konkretnych przykładach</h2>
-<p>Przez tydzień zapisuj tylko trzy elementy. Nie próbuj od razu interpretować intencji dziecka.</p><div class="flow" style="margin-top:18px;margin-bottom:20px"><div class="step"><strong>A — przed zachowaniem</strong><br/>co działo się chwilę wcześniej</div><div class="arrow">→</div><div class="step"><strong>B — zachowanie</strong><br/>co dokładnie zrobiło dziecko</div><div class="arrow">→</div><div class="step"><strong>C — co potem</strong><br/>reakcja otoczenia, skutek</div><div class="arrow">→</div><div class="step"><strong>Hipoteza</strong><br/>do sprawdzenia w kolejnych dniach</div></div>
+<p>Przez tydzień zapisuj tylko trzy elementy. Nie próbuj od razu interpretować intencji dziecka.</p><div class="flow" style="margin-top:18px;margin-bottom:20px">
+  <div class="step"><strong>A — przed zachowaniem</strong><br/>co działo się chwilę wcześniej</div> <div class="arrow">→</div>
+  <div class="step"><strong>B — zachowanie</strong><br/>co dokładnie zrobiło dziecko</div> <div class="arrow">→</div>
+  <div class="step"><strong>C — co potem</strong><br/>reakcja otoczenia, skutek</div><div class="arrow">→</div>
+<div class="step"><strong>Hipoteza</strong><br/>do sprawdzenia w kolejnych dniach</div></div>
 <div class="tracker">
 <table class="action-table">
 <thead>
-<tr><th>A — przed zachowaniem</th><th>B — zachowanie</th><th>C — co stało się potem</th><th>Hipoteza do sprawdzenia</th></tr>
+<tr><th>A — przed zachowaniem</th>
+  <th>B — zachowanie</th>
+  <th>C — co stało się potem</th>
+  <th>Hipoteza do sprawdzenia</th></tr>
 </thead>
 <tbody>
 <tr>
-<td data-label="A — przed zachowaniem">18:30, polecenie „posprzątaj pokój”.</td>
-<td data-label="B — zachowanie">Dziecko chodzi po pokoju, bierze różne rzeczy, po 3 minutach odchodzi.</td>
-<td data-label="C — co stało się potem">Rodzic sprząta większość sam.</td>
-<td data-label="Hipoteza do sprawdzenia">Zadanie ma zbyt wiele kroków; odejście skutecznie usuwa wysiłek.</td>
+<td data-label="A — przed zachowaniem">18:30, polecenie „posprzątaj pokój”</td>
+<td data-label="B — zachowanie">Dziecko chodzi po pokoju, bierze różne rzeczy, po 3 minutach odchodzi</td>
+<td data-label="C — co stało się potem">Rodzic sprząta większość sam</td>
+<td data-label="Hipoteza do sprawdzenia">Zadanie ma zbyt wiele kroków; odejście skutecznie usuwa wysiłek</td>
 </tr>
 <tr>
-<td data-label="A — przed zachowaniem">Koniec gry po sygnale timera.</td>
-<td data-label="B — zachowanie">Krzyk, płacz, próba odzyskania urządzenia.</td>
-<td data-label="C — co stało się potem">Rodzic pozwala na kolejne 10 minut.</td>
-<td data-label="Hipoteza do sprawdzenia">Protest odracza zakończenie; potrzeba stałej procedury bez negocjowania po sygnale.</td>
+<td data-label="A — przed zachowaniem">Koniec gry po sygnale timera</td>
+<td data-label="B — zachowanie">Krzyk, płacz, próba odzyskania urządzenia</td>
+<td data-label="C — co stało się potem">Rodzic pozwala na kolejne 10 minut</td>
+<td data-label="Hipoteza do sprawdzenia">Protest odracza zakończenie; potrzeba stałej procedury bez negocjowania po sygnale</td>
 </tr>
 <tr>
-<td data-label="A — przed zachowaniem">Po konflikcie rodzic podnosi głos.</td>
-<td data-label="B — zachowanie">Dziecko płacze i prosi o przytulenie.</td>
-<td data-label="C — co stało się potem">Rodzic odpycha dziecko albo całkowicie rezygnuje z obowiązku.</td>
-<td data-label="Hipoteza do sprawdzenia">Bliskość może służyć regulacji. Można przytulić i nadal wrócić do naprawy szkody.</td>
+<td data-label="A — przed zachowaniem">Po konflikcie rodzic podnosi głos</td>
+<td data-label="B — zachowanie">Dziecko płacze i prosi o przytulenie</td>
+<td data-label="C — co stało się potem">Rodzic odpycha dziecko albo całkowicie rezygnuje z obowiązku</td>
+<td data-label="Hipoteza do sprawdzenia">Bliskość może służyć regulacji. Można przytulić i nadal wrócić do naprawy szkody</td>
 </tr>
 </tbody>
 </table>
@@ -2763,7 +2772,8 @@ footer{background:linear-gradient(125deg,#142d4b,#1f486d 58%,#176b69)}
 <div class="callout green"><strong>Dobry zapis jest mierzalny:</strong> czas, liczba przypomnień, ukończony krok i rezultat. 
 „Było niegrzeczne” nie pozwala sprawdzić, czy strategia działa.</div>
 </section></div></div><div class="journey-controls"><button class="journey-button secondary" data-journey="prev" type="button">← Poprzedni temat</button><button class="journey-button primary" data-journey="next" type="button">Następny temat →</button></div></div><div aria-hidden="true" class="category-panel" data-category-panel="przyczyny" id="panel-przyczyny" role="tabpanel"><div class="category-intro"><div class="category-index">07</div><div><div class="eyebrow">Trudne zachowania</div><h2>Możliwe przyczyny trudnych zachowań</h2><p class="abstract">Pięć najczęstszych mechanizmów oraz perspektywa dziecka pomagają dobrać reakcję do rzeczywistej trudności.</p></div></div><div aria-label="Tematy w tej kategorii" class="topic-tabs" role="tablist"><button aria-controls="przyczyny" aria-selected="true" class="topic-tab active" data-topic="przyczyny" role="tab" tabindex="0" type="button"><span>01</span><b>Mechanizmy i testy</b></button><button aria-controls="perspektywa-dziecka" aria-selected="false" class="topic-tab" data-topic="perspektywa-dziecka" role="tab" tabindex="-1" type="button"><span>02</span><b>Perspektywa dziecka</b></button></div><div class="topic-stage"><div class="tz-section"><section aria-hidden="false" class="reveal topic-section active" data-category="przyczyny" data-topic-title="Mechanizmy i testy" id="przyczyny">
-<h2>Pięć najczęstszych mechanizmów</h2>
+
+  <h2>Pięć najczęstszych mechanizmów</h2>
 <div class="evidence-grid">
 <article class="evidence-card">
 <span class="tag">Planowanie</span>

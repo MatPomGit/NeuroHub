@@ -1914,8 +1914,6 @@ function getHomeDomainCardMeta(sec) {
 function renderHome() {
   const area = document.getElementById('content');
   setBreadcrumb(null);
-  const totalMd   = SITE_CONFIG.nav.flatMap(s=>s.items).filter(i=>i.file).length;
-  const totalWiki = Object.keys(SITE_CONFIG.wikis).length;
   const excludedSections = new Set(SITE_CONFIG.catalogExcludedSections || ['Encyklopedie', 'Referencje', 'Wprowadzenie']);
   const topicGroups = buildSidebarTopicGroups();
   const domainGroups = topicGroups
@@ -1928,7 +1926,6 @@ function renderHome() {
     })
     .filter(Boolean);
   const domains = domainGroups.flatMap(group => group.sections);
-  const totalPlan = Object.values(SITE_CONFIG.plans||{}).flat().filter(p=>p.status==='planned').length;
 
   const cardsByGroup = domainGroups.map(group => {
     const cards = group.sections.map(sec => {
@@ -2020,12 +2017,6 @@ function renderHome() {
       <div class="home-hero-actions">
         <button type="button" class="home-cta home-cta-primary" onclick="navigate('wstep_do_psychologii/definicja')">Rozpocznij naukę <span>→</span></button>
         <button type="button" class="home-cta home-cta-secondary" onclick="navigate('dla_studentow/testy_teoretyczne')">Sprawdź się testem</button>
-      </div>
-      <div class="home-stats">
-        <div><div class="stat-val">${totalMd}</div><div class="stat-lbl">Artykułów</div></div>
-        <div><div class="stat-val">${totalPlan}</div><div class="stat-lbl">Zaplanowanych</div></div>
-        <div><div class="stat-val">${totalWiki}</div><div class="stat-lbl">Encyklopedii</div></div>
-        <div><div class="stat-val">${domains.length}</div><div class="stat-lbl">Działów</div></div>
       </div>
     </div>
     <section class="home-block">
@@ -2872,20 +2863,6 @@ function animateHomeCards() {
     translateY: [14, 0],
     duration: 480,
     easing: 'easeOutQuart'
-  });
-  const statEls = document.querySelectorAll('.stat-val');
-  statEls.forEach(el => {
-    const target = parseInt(el.textContent, 10) || 0;
-    el.textContent = '0';
-    anime({
-      targets: el,
-      innerHTML: [0, target],
-      round: 1,
-      duration: 900,
-      delay: 180,
-      easing: 'easeOutQuart',
-      update() { el.textContent = Math.round(parseFloat(el.textContent)); }
-    });
   });
 }
 

@@ -806,9 +806,6 @@ em{color:var(--goldl)}
 .home-hero h1{font-family:var(--serif);font-size:2.9rem;font-weight:700;line-height:1.15;letter-spacing:-.03em;margin-bottom:1.1rem}
 .home-hero h1 span{color:var(--gold)}
 .home-hero p{font-size:1.05rem;color:var(--t2);line-height:1.78;max-width:590px;margin-bottom:1.9rem;font-weight:300}
-.home-stats{display:flex;gap:2rem;flex-wrap:wrap}
-.stat-val{font-family:var(--serif);font-size:1.75rem;font-weight:700;color:var(--gold);line-height:1}
-.stat-lbl{font-size:.68rem;color:var(--t3);text-transform:uppercase;letter-spacing:.1em;margin-top:.18rem}
 /* KOMPONENTY: .domain-card */
 .domains-h2{font-family:var(--serif);font-size:1.35rem;font-weight:600;margin-bottom:1.1rem}
 .home-domain-groups{display:grid;gap:1.2rem}
@@ -1479,25 +1476,6 @@ body.psyhub-app::before{
 .psyhub-app .home-cta-primary{border-color:transparent;background:var(--accent-gradient);color:#fff}
 .psyhub-app .home-cta-primary span{margin-left:.6rem}
 .psyhub-app .home-cta-secondary{background:var(--surface-soft)}
-.psyhub-app .home-stats{
-  display:grid;
-  grid-template-columns:repeat(4,minmax(100px,150px));
-  gap:.65rem;
-}
-.psyhub-app .home-stats>div{
-  padding:.85rem .95rem;
-  border:1px solid var(--border);
-  border-radius:14px;
-  background:color-mix(in srgb,var(--bg2) 55%,transparent);
-  backdrop-filter:blur(12px);
-}
-.psyhub-app .stat-val{
-  font-family:var(--serif);
-  font-size:1.5rem;
-  color:var(--t1);
-}
-.psyhub-app .stat-lbl{font-size:.58rem;letter-spacing:.1em}
-
 /* Home sections and cards */
 .psyhub-app .home-block{margin-bottom:clamp(2.8rem,6vw,5.5rem)}
 .psyhub-app .home-block-head{
@@ -1738,7 +1716,6 @@ body.psyhub-app::before{
   .psyhub-app .content{padding:1.25rem .8rem 7rem}
   .psyhub-app .home-hero{min-height:auto;padding:2rem 1.25rem}
   .psyhub-app .home-hero::after{right:-2rem;top:5rem;font-size:10rem;opacity:.2}
-  .psyhub-app .home-stats{grid-template-columns:repeat(2,minmax(0,1fr))}
   .psyhub-app .start-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
   .psyhub-app .rendered:not(.home-view)>.page-hero,.psyhub-app .wiki-hdr{border-radius:22px}
   .psyhub-app .md{border-radius:22px}

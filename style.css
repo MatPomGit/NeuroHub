@@ -1446,7 +1446,7 @@ body.psyhub-app::before{
 .psyhub-app .home-cta:hover{transform:translateY(-2px);box-shadow:var(--shadow-sm)}
 .psyhub-app .home-cta-primary{border-color:transparent;background:var(--accent-gradient);color:#fff}
 .psyhub-app .home-cta-primary span{margin-left:.6rem}
-
+.psyhub-app .home-cta-secondary{background:var(--surface-soft)}
 /* Home sections and cards */
 .psyhub-app .home-block{margin-bottom:clamp(2.8rem,6vw,5.5rem)}
 .psyhub-app .home-block-head{

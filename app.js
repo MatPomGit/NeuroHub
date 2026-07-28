@@ -1925,6 +1925,8 @@ function renderHome() {
       return sections.length ? { ...topic, sections } : null;
     })
     .filter(Boolean);
+  const domains = domainGroups.flatMap(group => group.sections);
+
   const cardsByGroup = domainGroups.map(group => {
     const cards = group.sections.map(sec => {
       const meta = getHomeDomainCardMeta(sec);
@@ -2001,6 +2003,7 @@ function renderHome() {
       <p>Zacznij od podstaw i rozwijaj wiedzę w uporządkowany sposób.</p>
       <div class="home-hero-actions">
         <button type="button" class="home-cta home-cta-primary" onclick="navigate('wstep_do_psychologii/definicja')">Rozpocznij naukę <span>→</span></button>
+        <button type="button" class="home-cta home-cta-secondary" onclick="navigate('dla_studentow/testy_teoretyczne')">Sprawdź się testem</button>
       </div>
     </div>
     <section class="home-block">

@@ -1968,22 +1968,10 @@ function renderHome() {
       benefit: 'Szybko zobaczysz luki i priorytety nauki.'
     },
     {
-      title: 'Szybka powtórka',
-      id: 'dla_studentow/psychologia_codziennej',
-      goal: 'Powtórz jedną małą porcję wiedzy.',
-      benefit: 'Utrzymasz regularność bez długiej sesji.'
-    },
-    {
       title: 'Przejrzyj Wiki',
       id: 'wiki-index/slownik',
       goal: 'Znajdź temat lub termin w kilka sekund.',
       benefit: 'Skrócisz czas szukania potrzebnej informacji.'
-    },
-    {
-      title: 'Dodatkowe strony',
-      id: 'wiki-index/dodatkowe_strony',
-      goal: 'Otwórz pomocnicze materiały HTML z jednego miejsca.',
-      benefit: 'Szybciej dotrzesz do prezentacji, raportów i stron uzupełniających.'
     }
   ];
   const startCardsHtml = startScenarios
@@ -2011,9 +1999,8 @@ function renderHome() {
 
   area.innerHTML = `<div class="rendered home-view">
     <div class="home-hero">
-      <div class="home-eyebrow"><span class="status-dot"></span> Portal wiedzy psychologicznej</div>
-      <h1>Psychologia.<br><span>Uporządkowana.</span></h1>
-      <p>Nowoczesna przestrzeń do nauki, powtórek i pracy ze źródłami. Przejdź od pojęcia do dowodów, testów i zastosowań.</p>
+      <h1>Psychologia krok po kroku</h1>
+      <p>Zacznij od podstaw i rozwijaj wiedzę w uporządkowany sposób.</p>
       <div class="home-hero-actions">
         <button type="button" class="home-cta home-cta-primary" onclick="navigate('wstep_do_psychologii/definicja')">Rozpocznij naukę <span>→</span></button>
         <button type="button" class="home-cta home-cta-secondary" onclick="navigate('dla_studentow/testy_teoretyczne')">Sprawdź się testem</button>

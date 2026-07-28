@@ -1914,8 +1914,6 @@ function getHomeDomainCardMeta(sec) {
 function renderHome() {
   const area = document.getElementById('content');
   setBreadcrumb(null);
-  const totalMd   = SITE_CONFIG.nav.flatMap(s=>s.items).filter(i=>i.file).length;
-  const totalWiki = Object.keys(SITE_CONFIG.wikis).length;
   const excludedSections = new Set(SITE_CONFIG.catalogExcludedSections || ['Encyklopedie', 'Referencje', 'Wprowadzenie']);
   const topicGroups = buildSidebarTopicGroups();
   const domainGroups = topicGroups
@@ -1927,9 +1925,6 @@ function renderHome() {
       return sections.length ? { ...topic, sections } : null;
     })
     .filter(Boolean);
-  const domains = domainGroups.flatMap(group => group.sections);
-  const totalPlan = Object.values(SITE_CONFIG.plans||{}).flat().filter(p=>p.status==='planned').length;
-
   const cardsByGroup = domainGroups.map(group => {
     const cards = group.sections.map(sec => {
       const meta = getHomeDomainCardMeta(sec);
@@ -1971,22 +1966,10 @@ function renderHome() {
       benefit: 'Szybko zobaczysz luki i priorytety nauki.'
     },
     {
-      title: 'Szybka powtórka',
-      id: 'dla_studentow/psychologia_codziennej',
-      goal: 'Powtórz jedną małą porcję wiedzy.',
-      benefit: 'Utrzymasz regularność bez długiej sesji.'
-    },
-    {
       title: 'Przejrzyj Wiki',
       id: 'wiki-index/slownik',
       goal: 'Znajdź temat lub termin w kilka sekund.',
       benefit: 'Skrócisz czas szukania potrzebnej informacji.'
-    },
-    {
-      title: 'Dodatkowe strony',
-      id: 'wiki-index/dodatkowe_strony',
-      goal: 'Otwórz pomocnicze materiały HTML z jednego miejsca.',
-      benefit: 'Szybciej dotrzesz do prezentacji, raportów i stron uzupełniających.'
     }
   ];
   const startCardsHtml = startScenarios
@@ -2014,18 +1997,10 @@ function renderHome() {
 
   area.innerHTML = `<div class="rendered home-view">
     <div class="home-hero">
-      <div class="home-eyebrow"><span class="status-dot"></span> Portal wiedzy psychologicznej</div>
-      <h1>Psychologia.<br><span>Uporządkowana.</span></h1>
-      <p>Nowoczesna przestrzeń do nauki, powtórek i pracy ze źródłami. Przejdź od pojęcia do dowodów, testów i zastosowań.</p>
+      <h1>Psychologia krok po kroku</h1>
+      <p>Zacznij od podstaw i rozwijaj wiedzę w uporządkowany sposób.</p>
       <div class="home-hero-actions">
         <button type="button" class="home-cta home-cta-primary" onclick="navigate('wstep_do_psychologii/definicja')">Rozpocznij naukę <span>→</span></button>
-        <button type="button" class="home-cta home-cta-secondary" onclick="navigate('dla_studentow/testy_teoretyczne')">Sprawdź się testem</button>
-      </div>
-      <div class="home-stats">
-        <div><div class="stat-val">${totalMd}</div><div class="stat-lbl">Artykułów</div></div>
-        <div><div class="stat-val">${totalPlan}</div><div class="stat-lbl">Zaplanowanych</div></div>
-        <div><div class="stat-val">${totalWiki}</div><div class="stat-lbl">Encyklopedii</div></div>
-        <div><div class="stat-val">${domains.length}</div><div class="stat-lbl">Działów</div></div>
       </div>
     </div>
     <section class="home-block">
@@ -2872,20 +2847,6 @@ function animateHomeCards() {
     translateY: [14, 0],
     duration: 480,
     easing: 'easeOutQuart'
-  });
-  const statEls = document.querySelectorAll('.stat-val');
-  statEls.forEach(el => {
-    const target = parseInt(el.textContent, 10) || 0;
-    el.textContent = '0';
-    anime({
-      targets: el,
-      innerHTML: [0, target],
-      round: 1,
-      duration: 900,
-      delay: 180,
-      easing: 'easeOutQuart',
-      update() { el.textContent = Math.round(parseFloat(el.textContent)); }
-    });
   });
 }
 

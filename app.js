@@ -788,8 +788,14 @@ function setupSidebarInteractions() {
 }
 
 /*  Navigate  */
-function navigate(id, replaceHistory) {
+function resolveArticleRedirect(id) {
   const normalizedId = normalizePageId(id);
+  if (!normalizedId) return '';
+  return normalizePageId(SITE_CONFIG.articleRedirects?.[normalizedId] || normalizedId);
+}
+
+function navigate(id, replaceHistory) {
+  const normalizedId = resolveArticleRedirect(id);
   if (!normalizedId) return;
   const item = pageMap.get(normalizedId);
   if (!item) return;
@@ -2920,7 +2926,8 @@ window.addEventListener('DOMContentLoaded', ()=>{
   void initMobilePsychologyReminders();
   animateSidebar();
   const { pageId } = parseRouteHash(window.location.hash);
-  navigate(pageId && pageMap.has(pageId) ? pageId : SITE_CONFIG.defaultPage, true);
+  const resolvedPageId = resolveArticleRedirect(pageId);
+  navigate(resolvedPageId && pageMap.has(resolvedPageId) ? resolvedPageId : SITE_CONFIG.defaultPage, true);
 });
 
 /*  Theme switcher  */
@@ -2983,13 +2990,13 @@ window.addEventListener('DOMContentLoaded', ()=>{
 
 window.addEventListener('popstate', e => {
   const { pageId } = parseRouteHash(window.location.hash);
-  const id = e.state?.id || pageId || SITE_CONFIG.defaultPage;
+  const id = resolveArticleRedirect(e.state?.id || pageId || SITE_CONFIG.defaultPage);
   navigate(pageMap.has(id) ? id : SITE_CONFIG.defaultPage, true);
 });
 
 window.addEventListener('hashchange', () => {
   const { pageId, sectionId } = parseRouteHash(window.location.hash);
-  const id = pageId || SITE_CONFIG.defaultPage;
+  const id = resolveArticleRedirect(pageId || SITE_CONFIG.defaultPage);
   if (id !== current && pageMap.has(id)) {
     navigate(id, true);
     return;

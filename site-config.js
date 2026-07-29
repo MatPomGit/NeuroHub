@@ -13,6 +13,13 @@ window.SITE_CONFIG = {
 
   defaultPage: '__home__',
 
+  // Zachowuje dawne skróty SPA po scaleniu zduplikowanych artykułów.
+  articleRedirects: {
+    'psychosomatyka/aleksytymia': 'emocje/aleksytymia',
+    'zaburzenia/asd': 'neuroroznorodnosc/spektrum_autyzmu',
+    'seminarium_dyplomowe/etyka_badan': 'etyka/etyka_badan',
+  },
+
   // Sekcje pomijane przy budowie katalogu dziedzin na stronie glownej.
   catalogExcludedSections: ['Encyklopedie', 'Referencje', 'Wprowadzenie', 'Dla studentów'],
 
@@ -248,7 +255,7 @@ window.SITE_CONFIG = {
         { id: 'uzaleznienia/zapobieganie_nawrotom', label: 'Zapobieganie nawrotom', file: 'wiki/uzaleznienia/zapobieganie_nawrotom.md' },
         { id: 'uzaleznienia/uzaleznienia_mlodziezy', label: 'Uzależnienia u młodzieży', file: 'wiki/uzaleznienia/uzaleznienia_mlodziezy.md' },
         { id: 'uzaleznienia/wspoluzaleznienie', label: 'Wspoluzaleznienie', file: 'wiki/uzaleznienia/wspoluzaleznienie.md' },
-        { id: 'uzaleznienia/profilaktyka', label: 'Profilaktyka', file: 'wiki/uzaleznienia/profilaktyka.md' },
+        { id: 'uzaleznienia/profilaktyka', label: 'Profilaktyka uzależnień', file: 'wiki/uzaleznienia/profilaktyka.md' },
         { id: 'uzaleznienia/uzaleznienia_behawioralne', label: 'Uzaleznienia behawioralne',              file: 'wiki/uzaleznienia/uzaleznienia_behawioralne.md' },
         { id: 'uzaleznienia/neurobiologia_uzaleznien',  label: 'Neurobiologia uzalezniel',               file: 'wiki/uzaleznienia/neurobiologia_uzaleznien.md'  },
         { id: 'uzaleznienia/rodzina_w_uzaleznieniach',  label: 'Rodzina w systemie uzaleznienia',        file: 'wiki/uzaleznienia/rodzina_w_uzaleznieniach.md'  },
@@ -438,7 +445,6 @@ window.SITE_CONFIG = {
         { id: 'zaburzenia/agnozja',   label: 'Agnozja wzrokowa',      file: 'wiki/zaburzenia/agnozja.md'   },
         { id: 'zaburzenia/neglect',   label: 'Neglect przestrzenny',  file: 'wiki/zaburzenia/neglect.md'   },
         { id: 'zaburzenia/adhd',      label: 'ADHD',                  file: 'wiki/zaburzenia/adhd.md'      },
-        { id: 'zaburzenia/asd',       label: 'Spektrum autyzmu (ASD)',file: 'wiki/zaburzenia/asd.md'       },
       ]
     },
     { /* Przypadki kliniczne */
@@ -566,7 +572,7 @@ window.SITE_CONFIG = {
         { id: 'psychologia_zdrowia/adherencja',              label: 'Adherencja terapeutyczna',        file: 'wiki/psychologia_zdrowia/adherencja.md'              },
         { id: 'psychologia_zdrowia/komunikacja_medyczna',    label: 'Komunikacja lekarz–pacjent',      file: 'wiki/psychologia_zdrowia/komunikacja_medyczna.md'    },
         { id: 'psychologia_zdrowia/interwencje_zdrowotne',   label: 'Interwencje psychologiczne w medycynie',      file: 'wiki/psychologia_zdrowia/interwencje_zdrowotne.md'   },
-        { id: 'psychologia_zdrowia/rehabilitacja',           label: 'Rehabilitacja psychologiczna',    file: 'wiki/psychologia_zdrowia/rehabilitacja.md'           },
+        { id: 'psychologia_zdrowia/rehabilitacja', label: 'Rehabilitacja psychologiczna w chorobach somatycznych', file: 'wiki/psychologia_zdrowia/rehabilitacja.md' },
         { id: 'psychologia_zdrowia/wypalenie_zawodowe',      label: 'Wypalenie zawodowe',              file: 'wiki/psychologia_zdrowia/wypalenie_zawodowe.md'      },
       ]
     },
@@ -579,7 +585,6 @@ window.SITE_CONFIG = {
         { id: 'psychosomatyka/historia',                   label: 'Historia psychosomatyki',           file: 'wiki/psychosomatyka/historia.md'                  },
         { id: 'psychosomatyka/modele_psychosomatyczne',    label: 'Modele psychosomatyczne',           file: 'wiki/psychosomatyka/modele_psychosomatyczne.md'   },
         { id: 'psychosomatyka/os_hpa',                     label: 'Os HPA i mechanizmy stresu',        file: 'wiki/psychosomatyka/os_hpa.md'                    },
-        { id: 'psychosomatyka/aleksytymia',                label: 'Aleksytymia',                       file: 'wiki/psychosomatyka/aleksytymia.md'               },
         { id: 'psychosomatyka/somatyzacja',                label: 'Somatyzacja i zaburzenia somatyczne', file: 'wiki/psychosomatyka/somatyzacja.md'             },
         { id: 'psychosomatyka/bol_psychosomatyczny',       label: 'Ból psychosomatyczny',              file: 'wiki/psychosomatyka/bol_psychosomatyczny.md'      },
         { id: 'psychosomatyka/psychodermatologia',         label: 'Psychodermatologia',                file: 'wiki/psychosomatyka/psychodermatologia.md'        },
@@ -621,7 +626,7 @@ window.SITE_CONFIG = {
         { id: 'arteterapia/drameterapia',  label: 'Drameterapia',              file: 'wiki/arteterapia/drameterapia.md'  },
         { id: 'arteterapia/biblioterapia', label: 'Biblioterapia',             file: 'wiki/arteterapia/biblioterapia.md' },
         { id: 'arteterapia/mechanizmy',    label: 'Mechanizmy działania',      file: 'wiki/arteterapia/mechanizmy.md'    },
-        { id: 'arteterapia/zastosowania',  label: 'Zastosowania kliniczne',    file: 'wiki/arteterapia/zastosowania.md'  },
+        { id: 'arteterapia/zastosowania', label: 'Zastosowania kliniczne arteterapii', file: 'wiki/arteterapia/zastosowania.md' },
       ]
     },
     { /* Animaloterapia */
@@ -689,7 +694,7 @@ window.SITE_CONFIG = {
         { id: 'psychologia_niepelnosprawnosci/jakosc_zycia',                  label: 'Jakosc zycia osob z niepelnosprawnoscia',file: 'wiki/psychologia_niepelnosprawnosci/jakosc_zycia.md'                  },
         { id: 'psychologia_niepelnosprawnosci/stres_i_adaptacja',             label: 'Stres, adaptacja i radzenie sobie',      file: 'wiki/psychologia_niepelnosprawnosci/stres_i_adaptacja.md'             },
         { id: 'psychologia_niepelnosprawnosci/rodzina_i_opiekunowie',         label: 'Rodzina i opiekunowie',                  file: 'wiki/psychologia_niepelnosprawnosci/rodzina_i_opiekunowie.md'         },
-        { id: 'psychologia_niepelnosprawnosci/rehabilitacja_psychologiczna',  label: 'Rehabilitacja psychologiczna',           file: 'wiki/psychologia_niepelnosprawnosci/rehabilitacja_psychologiczna.md'  },
+        { id: 'psychologia_niepelnosprawnosci/rehabilitacja_psychologiczna', label: 'Rehabilitacja psychologiczna osób z niepełnosprawnościami', file: 'wiki/psychologia_niepelnosprawnosci/rehabilitacja_psychologiczna.md' },
         { id: 'psychologia_niepelnosprawnosci/inkluzja_spoleczna',            label: 'Inkluzja spoleczna i prawa',             file: 'wiki/psychologia_niepelnosprawnosci/inkluzja_spoleczna.md'            },
       ]
     },
@@ -701,7 +706,7 @@ window.SITE_CONFIG = {
         { id: 'geropsychologia/starzenie_poznawcze',        label: 'Starzenie sie poznawcze',             file: 'wiki/geropsychologia/starzenie_poznawcze.md'        },
         { id: 'geropsychologia/demencja',                   label: 'Demencja i ch. neurodegeneracyjne',   file: 'wiki/geropsychologia/demencja.md'                   },
         { id: 'geropsychologia/depresja_starszych',         label: 'Depresja u osob starszych',           file: 'wiki/geropsychologia/depresja_starszych.md'         },
-        { id: 'geropsychologia/samotnosc',                  label: 'Samotność i izolacja społeczna',      file: 'wiki/geropsychologia/samotnosc.md'                  },
+        { id: 'geropsychologia/samotnosc', label: 'Samotność i izolacja społeczna w starości', file: 'wiki/geropsychologia/samotnosc.md' },
         { id: 'geropsychologia/jakosc_zycia_starszych',     label: 'Jakosc zycia w starości',             file: 'wiki/geropsychologia/jakosc_zycia_starszych.md'     },
         { id: 'geropsychologia/aktywnosc_poznawcza',        label: 'Aktywnosc poznawcza i trening umyslu',file: 'wiki/geropsychologia/aktywnosc_poznawcza.md'        },
         { id: 'geropsychologia/umieranie_smierc',           label: 'Psychologia umierania i smierci',     file: 'wiki/geropsychologia/umieranie_smierc.md'           },
@@ -717,7 +722,7 @@ window.SITE_CONFIG = {
       items: [
         { id: 'neuroroznorodnosc/wprowadzenie',               label: 'Neuroroznorodnosc',                    file: 'wiki/neuroroznorodnosc/wprowadzenie.md'               },
         { id: 'neuroroznorodnosc/adhd',                       label: 'ADHD jako wariant neuroroznorodnosci', file: 'wiki/neuroroznorodnosc/adhd.md'                       },
-        { id: 'neuroroznorodnosc/spektrum_autyzmu',           label: 'Spektrum autyzmu (ASD)',               file: 'wiki/neuroroznorodnosc/spektrum_autyzmu.md'           },
+        { id: 'neuroroznorodnosc/spektrum_autyzmu', label: 'Spektrum autyzmu (ASD)', aliases: ['Spektrum autyzmu', 'Autyzm', 'ASD'], file: 'wiki/neuroroznorodnosc/spektrum_autyzmu.md' },
         { id: 'neuroroznorodnosc/dysleksja',                  label: 'Dysleksja',                            file: 'wiki/neuroroznorodnosc/dysleksja.md'                  },
         { id: 'neuroroznorodnosc/dyskalkulia',                label: 'Dyskalkulia',                          file: 'wiki/neuroroznorodnosc/dyskalkulia.md'                },
         { id: 'neuroroznorodnosc/dyspraksja',                 label: 'Dyspraksja i DCD',                     file: 'wiki/neuroroznorodnosc/dyspraksja.md'                 },
@@ -845,7 +850,7 @@ window.SITE_CONFIG = {
         { id: 'suicydologia/teorie',                    label: 'Teorie i modele',              file: 'wiki/suicydologia/teorie.md'                    },
         { id: 'suicydologia/ocena_ryzyka',              label: 'Ocena ryzyka',                 file: 'wiki/suicydologia/ocena_ryzyka.md'              },
         { id: 'suicydologia/interwencja',               label: 'Interwencja kryzysowa',        file: 'wiki/suicydologia/interwencja.md'               },
-        { id: 'suicydologia/profilaktyka',              label: 'Profilaktyka',                 file: 'wiki/suicydologia/profilaktyka.md'              },
+        { id: 'suicydologia/profilaktyka', label: 'Profilaktyka samobójstw', file: 'wiki/suicydologia/profilaktyka.md' },
         { id: 'suicydologia/nssi',                      label: 'Samookaleczenia (NSSI)',        file: 'wiki/suicydologia/nssi.md'                      },
         { id: 'suicydologia/postvention',               label: 'Postvention',                  file: 'wiki/suicydologia/postvention.md'               },
         { id: 'suicydologia/media',                     label: 'Efekt Wertera i Papageno',     file: 'wiki/suicydologia/media.md'                     },
@@ -1011,7 +1016,6 @@ window.SITE_CONFIG = {
         { id: 'seminarium_dyplomowe/pomiary_psychologiczne',   label: 'Zasady prowadzenia pomiarów',            file: 'wiki/seminarium_dyplomowe/pomiary_psychologiczne.md'   },
         { id: 'seminarium_dyplomowe/narzedzia_badawcze',       label: 'Narzedzia badawcze i kwestionariusze',  file: 'wiki/seminarium_dyplomowe/narzedzia_badawcze.md'       },
         { id: 'seminarium_dyplomowe/analizy_statystyczne',     label: 'Analizy statystyczne',                  file: 'wiki/seminarium_dyplomowe/analizy_statystyczne.md'     },
-        { id: 'seminarium_dyplomowe/etyka_badan',              label: 'Etyka badań naukowych',                 file: 'wiki/seminarium_dyplomowe/etyka_badan.md'              },
         { id: 'seminarium_dyplomowe/bledy_badawcze',           label: 'Błędy badawcze - czego unikac',         file: 'wiki/seminarium_dyplomowe/bledy_badawcze.md'           },
         { id: 'seminarium_dyplomowe/opis_wynikow',             label: 'Pisanie i interpretacja wyników',       file: 'wiki/seminarium_dyplomowe/opis_wynikow.md'             },
         { id: 'seminarium_dyplomowe/obrona_pracy',             label: 'Obrona pracy magisterskiej',            file: 'wiki/seminarium_dyplomowe/obrona_pracy.md'             },
@@ -1165,7 +1169,7 @@ window.SITE_CONFIG = {
         { id: 'systemy_rodzinne/trauma_relacyjna_i_system', label: 'Trauma relacyjna i system', file: 'wiki/systemy_rodzinne/trauma_relacyjna_i_system.md' },
         { id: 'systemy_rodzinne/terapia_narracyjna', label: 'Terapia narracyjna', file: 'wiki/systemy_rodzinne/terapia_narracyjna.md' },
         { id: 'systemy_rodzinne/cykl_zycia_rodziny', label: 'Cykl życia rodziny', file: 'wiki/systemy_rodzinne/cykl_zycia_rodziny.md' },
-        { id: 'systemy_rodzinne/zastosowania_kliniczne', label: 'Zastosowania kliniczne', file: 'wiki/systemy_rodzinne/zastosowania_kliniczne.md' },
+        { id: 'systemy_rodzinne/zastosowania_kliniczne', label: 'Zastosowania kliniczne terapii systemowej', file: 'wiki/systemy_rodzinne/zastosowania_kliniczne.md' },
       ]
     },
     
@@ -1421,7 +1425,6 @@ window.SITE_CONFIG = {
       { file: 'wiki/zaburzenia/agnozja.md',   label: 'Agnozja wzrokowa',       status: 'live' },
       { file: 'wiki/zaburzenia/neglect.md',   label: 'Neglect przestrzenny',   status: 'live' },
       { file: 'wiki/zaburzenia/adhd.md',      label: 'ADHD',                   status: 'live' },
-      { file: 'wiki/zaburzenia/asd.md',       label: 'Spektrum autyzmu (ASD)', status: 'live' },
     ],
     tests: [
       { file: 'wiki/testy/testy_przeglad.md',   label: 'Testy - przeglad',      status: 'live' },
@@ -1606,7 +1609,7 @@ window.SITE_CONFIG = {
       { file: 'wiki/arteterapia/drameterapia.md',  label: 'Drameterapia',           status: 'live' },
       { file: 'wiki/arteterapia/biblioterapia.md', label: 'Biblioterapia',          status: 'live' },
       { file: 'wiki/arteterapia/mechanizmy.md',    label: 'Mechanizmy działania',   status: 'live' },
-      { file: 'wiki/arteterapia/zastosowania.md',  label: 'Zastosowania kliniczne', status: 'live' },
+      { file: 'wiki/arteterapia/zastosowania.md', label: 'Zastosowania kliniczne arteterapii', status: 'live' },
     ],
     animaltherapy: [
       { file: 'wiki/animaloterapia/animaloterapia_wprowadzenie.md', label: 'Animaloterapia', status: 'live' },
@@ -1641,7 +1644,7 @@ window.SITE_CONFIG = {
       { file: 'wiki/psychologia_zdrowia/adherencja.md',              label: 'Adherencja terapeutyczna',           status: 'live' },
       { file: 'wiki/psychologia_zdrowia/komunikacja_medyczna.md',    label: 'Komunikacja lekarz–pacjent',         status: 'live' },
       { file: 'wiki/psychologia_zdrowia/interwencje_zdrowotne.md',   label: 'Interwencje psychologiczne w medycynie',         status: 'live' },
-      { file: 'wiki/psychologia_zdrowia/rehabilitacja.md',           label: 'Rehabilitacja psychologiczna',       status: 'live' },
+      { file: 'wiki/psychologia_zdrowia/rehabilitacja.md', label: 'Rehabilitacja psychologiczna w chorobach somatycznych', status: 'live' },
       { file: 'wiki/psychologia_zdrowia/wypalenie_zawodowe.md',      label: 'Wypalenie zawodowe',                 status: 'live' },
     ],
     psychosomatics: [
@@ -1649,7 +1652,6 @@ window.SITE_CONFIG = {
       { file: 'wiki/psychosomatyka/historia.md',                   label: 'Historia psychosomatyki',             status: 'live' },
       { file: 'wiki/psychosomatyka/modele_psychosomatyczne.md',    label: 'Modele psychosomatyczne',             status: 'live' },
       { file: 'wiki/psychosomatyka/os_hpa.md',                     label: 'Os HPA i mechanizmy stresu',          status: 'live' },
-      { file: 'wiki/psychosomatyka/aleksytymia.md',                label: 'Aleksytymia',                         status: 'live' },
       { file: 'wiki/psychosomatyka/somatyzacja.md',                label: 'Somatyzacja i zaburzenia somatyczne', status: 'live' },
       { file: 'wiki/psychosomatyka/bol_psychosomatyczny.md',       label: 'Ból psychosomatyczny',                status: 'live' },
       { file: 'wiki/psychosomatyka/psychodermatologia.md',         label: 'Psychodermatologia',                  status: 'live' },
@@ -1671,7 +1673,7 @@ window.SITE_CONFIG = {
       { file: 'wiki/psychologia_niepelnosprawnosci/jakosc_zycia.md',                  label: 'Jakosc zycia osob z niepelnosprawnoscia',       status: 'live' },
       { file: 'wiki/psychologia_niepelnosprawnosci/stres_i_adaptacja.md',             label: 'Stres, adaptacja i radzenie sobie',             status: 'live' },
       { file: 'wiki/psychologia_niepelnosprawnosci/rodzina_i_opiekunowie.md',         label: 'Rodzina i opiekunowie',                        status: 'live' },
-      { file: 'wiki/psychologia_niepelnosprawnosci/rehabilitacja_psychologiczna.md',  label: 'Rehabilitacja psychologiczna',                 status: 'live' },
+      { file: 'wiki/psychologia_niepelnosprawnosci/rehabilitacja_psychologiczna.md', label: 'Rehabilitacja psychologiczna osób z niepełnosprawnościami', status: 'live' },
       { file: 'wiki/psychologia_niepelnosprawnosci/inkluzja_spoleczna.md',            label: 'Inkluzja spoleczna i prawa',                   status: 'live' },
     ],
     intro: [
@@ -1710,7 +1712,7 @@ window.SITE_CONFIG = {
       { file: 'wiki/geropsychologia/starzenie_poznawcze.md',        label: 'Starzenie sie poznawcze',              status: 'live' },
       { file: 'wiki/geropsychologia/demencja.md',                   label: 'Demencja i choroby neurodegeneracyjne',status: 'live' },
       { file: 'wiki/geropsychologia/depresja_starszych.md',         label: 'Depresja u osob starszych',            status: 'live' },
-      { file: 'wiki/geropsychologia/samotnosc.md',                  label: 'Samotność i izolacja społeczna',       status: 'live' },
+      { file: 'wiki/geropsychologia/samotnosc.md', label: 'Samotność i izolacja społeczna w starości', status: 'live' },
       { file: 'wiki/geropsychologia/jakosc_zycia_starszych.md',     label: 'Jakosc zycia w starości',              status: 'live' },
       { file: 'wiki/geropsychologia/aktywnosc_poznawcza.md',        label: 'Aktywnosc poznawcza i trening umyslu', status: 'live' },
       { file: 'wiki/geropsychologia/umieranie_smierc.md',           label: 'Psychologia umierania i smierci',      status: 'live' },
@@ -1926,7 +1928,6 @@ window.SITE_CONFIG = {
       { file: 'wiki/seminarium_dyplomowe/pomiary_psychologiczne.md', label: 'Zasady prowadzenia pomiarow',           status: 'live' },
       { file: 'wiki/seminarium_dyplomowe/narzedzia_badawcze.md',     label: 'Narzedzia badawcze i kwestionariusze',  status: 'live' },
       { file: 'wiki/seminarium_dyplomowe/analizy_statystyczne.md',   label: 'Analizy statystyczne',                 status: 'live' },
-      { file: 'wiki/seminarium_dyplomowe/etyka_badan.md',            label: 'Etyka badań naukowych',                status: 'live' },
       { file: 'wiki/seminarium_dyplomowe/bledy_badawcze.md',         label: 'Błędy badawcze - czego unikac',        status: 'live' },
       { file: 'wiki/seminarium_dyplomowe/opis_wynikow.md',           label: 'Pisanie i interpretacja wynikow',      status: 'live' },
       { file: 'wiki/seminarium_dyplomowe/obrona_pracy.md',           label: 'Obrona pracy magisterskiej',           status: 'live' },
@@ -1952,7 +1953,7 @@ window.SITE_CONFIG = {
       { file: 'wiki/uzaleznienia/zapobieganie_nawrotom.md',      label: 'Zapobieganie nawrotom',              status: 'live' },
       { file: 'wiki/uzaleznienia/uzaleznienia_mlodziezy.md',     label: 'Uzależnienia u młodzieży',           status: 'live' },
       { file: 'wiki/uzaleznienia/wspoluzaleznienie.md',          label: 'Wspoluzaleznienie',                  status: 'live' },
-      { file: 'wiki/uzaleznienia/profilaktyka.md',               label: 'Profilaktyka',                       status: 'live' },
+      { file: 'wiki/uzaleznienia/profilaktyka.md', label: 'Profilaktyka uzależnień', status: 'live' },
       { file: 'wiki/uzaleznienia/uzaleznienia_behawioralne.md', label: 'Uzaleznienia behawioralne',              status: 'live' },
       { file: 'wiki/uzaleznienia/neurobiologia_uzaleznien.md',  label: 'Neurobiologia uzalezniel',               status: 'live' },
       { file: 'wiki/uzaleznienia/rodzina_w_uzaleznieniach.md',  label: 'Rodzina w systemie uzaleznienia',        status: 'live' },
@@ -2069,7 +2070,6 @@ window.SITE_CONFIG = {
             { label: 'Urazy glowy (TBI)', id: 'zaburzenia/tbi', status: 'live' },
             { label: 'Otepienia', id: 'zaburzenia/otepienia', status: 'live' },
             { label: 'ADHD', id: 'zaburzenia/adhd', status: 'live' },
-            { label: 'Spektrum autyzmu (ASD)', id: 'zaburzenia/asd', status: 'live' },
           ]
         },
         {
@@ -2189,7 +2189,7 @@ window.SITE_CONFIG = {
             { label: 'Epidemiologia', id: 'suicydologia/epidemiologia', status: 'live' },
             { label: 'Teorie (Joiner, IMV)', id: 'suicydologia/teorie', status: 'live' },
             { label: 'Ocena ryzyka (C-SSRS)', id: 'suicydologia/ocena_ryzyka', status: 'live' },
-            { label: 'Profilaktyka', id: 'suicydologia/profilaktyka', status: 'live' },
+            { label: 'Profilaktyka samobójstw', id: 'suicydologia/profilaktyka', status: 'live' },
             { label: 'Samookaleczenia (NSSI)', id: 'suicydologia/nssi', status: 'live' },
             { label: 'Postvention', id: 'suicydologia/postvention', status: 'live' },
             { label: 'Efekt Wertera i Papageno', id: 'suicydologia/media', status: 'live' },
@@ -2423,7 +2423,7 @@ window.SITE_CONFIG = {
           articles: [
             { label: 'Uzależnienia u młodzieży', id: 'uzaleznienia/uzaleznienia_mlodziezy', status: 'live' },
             { label: 'Wspoluzaleznienie', id: 'uzaleznienia/wspoluzaleznienie', status: 'live' },
-            { label: 'Profilaktyka', id: 'uzaleznienia/profilaktyka', status: 'live' },
+            { label: 'Profilaktyka uzależnień', id: 'uzaleznienia/profilaktyka', status: 'live' },
           ]
         },
         {
@@ -2640,7 +2640,7 @@ window.SITE_CONFIG = {
             { label: 'Taniec i ruch (DMT)', id: 'arteterapia/dmt', status: 'live' },
             { label: 'Biblioterapia', id: 'arteterapia/biblioterapia', status: 'live' },
             { label: 'Mechanizmy terapeutyczne', id: 'arteterapia/mechanizmy', status: 'live' },
-            { label: 'Zastosowania kliniczne', id: 'arteterapia/zastosowania', status: 'live' },
+            { label: 'Zastosowania kliniczne arteterapii', id: 'arteterapia/zastosowania', status: 'live' },
           ]
         },
         {
@@ -2749,7 +2749,7 @@ window.SITE_CONFIG = {
             { label: 'Adherencja terapeutyczna',      id: 'psychologia_zdrowia/adherencja',            status: 'live' },
             { label: 'Komunikacja lekarz–pacjent',  id: 'psychologia_zdrowia/komunikacja_medyczna',  status: 'live' },
             { label: 'Interwencje psychologiczne w medycynie',    id: 'psychologia_zdrowia/interwencje_zdrowotne', status: 'live' },
-            { label: 'Rehabilitacja psychologiczna',  id: 'psychologia_zdrowia/rehabilitacja',         status: 'live' },
+            { label: 'Rehabilitacja psychologiczna w chorobach somatycznych', id: 'psychologia_zdrowia/rehabilitacja', status: 'live' },
             { label: 'Wypalenie zawodowe',            id: 'psychologia_zdrowia/wypalenie_zawodowe',    status: 'live' },
           ]
         },
@@ -2772,7 +2772,6 @@ window.SITE_CONFIG = {
           title: 'Mechanizmy biologiczne',
           articles: [
             { label: 'Os HPA i mechanizmy stresu',      id: 'psychosomatyka/os_hpa',                  status: 'live' },
-            { label: 'Aleksytymia',                     id: 'psychosomatyka/aleksytymia',             status: 'live' },
           ]
         },
         {
@@ -2834,7 +2833,7 @@ window.SITE_CONFIG = {
           title: 'Srodowisko i wsparcie',
           articles: [
             { label: 'Rodzina i opiekunowie',         id: 'psychologia_niepelnosprawnosci/rodzina_i_opiekunowie', status: 'live' },
-            { label: 'Rehabilitacja psychologiczna',  id: 'psychologia_niepelnosprawnosci/rehabilitacja_psychologiczna', status: 'live' },
+            { label: 'Rehabilitacja psychologiczna osób z niepełnosprawnościami', id: 'psychologia_niepelnosprawnosci/rehabilitacja_psychologiczna', status: 'live' },
             { label: 'Inkluzja spoleczna i prawa',    id: 'psychologia_niepelnosprawnosci/inkluzja_spoleczna', status: 'live' },
           ]
         },
@@ -2862,7 +2861,7 @@ window.SITE_CONFIG = {
         {
           title: 'Funkcjonowanie społeczne i jakosc zycia',
           articles: [
-            { label: 'Samotność i izolacja społeczna',        id: 'geropsychologia/samotnosc',              status: 'live' },
+            { label: 'Samotność i izolacja społeczna w starości', id: 'geropsychologia/samotnosc', status: 'live' },
             { label: 'Jakosc zycia w starości',               id: 'geropsychologia/jakosc_zycia_starszych', status: 'live' },
             { label: 'Relacje społeczne i wsparcie rodziny',  id: 'geropsychologia/relacje_spoleczne_starszych', status: 'live' },
           ]
@@ -3412,7 +3411,6 @@ window.SITE_CONFIG = {
         {
           title: 'Etyka i jakosc badań',
           articles: [
-            { label: 'Etyka badań naukowych',               id: 'seminarium_dyplomowe/etyka_badan',      status: 'live', desc: 'Świadoma zgoda, poufnosc, komisje etyczne, integralnosc naukowa.' },
             { label: 'Błędy badawcze - czego unikac',       id: 'seminarium_dyplomowe/bledy_badawcze',   status: 'live', desc: 'Błędy projektowania, pomiaru, analizy i interpretacji wyników.' },
           ]
         },
@@ -3712,6 +3710,3 @@ window.SITE_CONFIG = {
     });
   });
 })(window.SITE_CONFIG);
-
-
-

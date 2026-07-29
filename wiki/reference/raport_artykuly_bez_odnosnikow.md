@@ -254,7 +254,6 @@ Poni9=ej znajdujďż˝& siďż˝" bezpo9:rednie odno9:niki do artyku9Bw bez li
 - [`disorders/agnozja.md`](../zaburzenia/agnozja.md)
 - [`disorders/amnezje.md`](../zaburzenia/amnezje.md)
 - [`disorders/apraksja.md`](../zaburzenia/apraksja.md)
-- [`disorders/asd.md`](../zaburzenia/asd.md)
 - [`disorders/neglect.md`](../zaburzenia/neglect.md)
 - [`disorders/otepienia.md`](../zaburzenia/otepienia.md)
 - [`disorders/tbi.md`](../zaburzenia/tbi.md)
@@ -586,7 +585,6 @@ Poni9=ej znajdujďż˝& siďż˝" bezpo9:rednie odno9:niki do artyku9Bw bez li
 - [`ppd/analizy_statystyczne.md`](../seminarium_dyplomowe/analizy_statystyczne.md)
 - [`ppd/bledy_badawcze.md`](../seminarium_dyplomowe/bledy_badawcze.md)
 - [`ppd/dobre_praktyki.md`](../seminarium_dyplomowe/dobre_praktyki.md)
-- [`ppd/etyka_badan.md`](../seminarium_dyplomowe/etyka_badan.md)
 - [`ppd/metodologia_badan.md`](../seminarium_dyplomowe/metodologia_badan.md)
 - [`ppd/narzedzia_badawcze.md`](../seminarium_dyplomowe/narzedzia_badawcze.md)
 - [`ppd/obrona_pracy.md`](../seminarium_dyplomowe/obrona_pracy.md)
@@ -640,7 +638,6 @@ Poni9=ej znajdujďż˝& siďż˝" bezpo9:rednie odno9:niki do artyku9Bw bez li
 
 ### psychosomatyka
 
-- [`psychosomatyka/aleksytymia.md`](../psychosomatyka/aleksytymia.md)
 - [`psychosomatyka/bol_psychosomatyczny.md`](../psychosomatyka/bol_psychosomatyczny.md)
 - [`psychosomatyka/choroby_autoimmunologiczne.md`](../psychosomatyka/choroby_autoimmunologiczne.md)
 - [`psychosomatyka/diagnoza_psychosomatyczna.md`](../psychosomatyka/diagnoza_psychosomatyczna.md)
@@ -917,7 +914,6 @@ Najwa9=niejszy wniosek jest taki, 9=e rzetelne rozumienie omawianego tematu wyma
 3. Nďż˝"cka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
 4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
 5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
-
 
 
 

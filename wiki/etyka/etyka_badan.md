@@ -1,172 +1,137 @@
-﻿---
-lastReviewed: 2026-04-01
-reviewCycleMonths: 24
-evidenceCutoffDate: 2025-12-31
+---
+title: Etyka badań naukowych w psychologii
+description: Zgoda, ryzyko, prywatność, dezinformacja, komisje etyczne, integralność naukowa i praktyka badań studenckich.
+lastReviewed: 2026-07-29
+reviewCycleMonths: 12
+evidenceCutoffDate: 2026-07-29
 ---
 
 # Etyka badań naukowych w psychologii
 
-Etyka badań naukowych reguluje sposób, w jaki psychologowie projektują i przeprowadzają badania. Jej naruszenia - od historycznych skandali po współczesne problemy z integralnością danych - ukształtowały szeroki zestaw norm, procedur i instytucji mających chronić uczestników i wiarygodność nauki.
+Etyka badań chroni uczestników, społeczności i wiarygodność wiedzy. Nie jest dodatkiem do gotowego projektu. Wpływa na pytanie badawcze, dobór próby, procedurę, zarządzanie danymi, analizę i sposób publikowania wyników.
 
-## Historia: skandale, które zmieniły naukę
+## Podstawowe zasady
 
-### Eksperyment Milgrama (1961–1963)
+Raport Belmonta porządkuje etykę badań wokół trzech zasad: szacunku dla osób, dobroczynności oraz sprawiedliwości. W praktyce oznacza to:
 
-Stanley Milgram badał posłuszeństwo wobec autorytetu. Uczestnicy wierzyli, że zadają bolesne wstrząsy elektryczne innej osobie na polecenie eksperymentatora. Wyniki były wstrząsające - 65% uczestników zadało maksymalną dawkę (450 V). Badanie ujawniło mroczny aspekt natury ludzkiej, ale jego etyczny wymiar był równie problematyczny:
+- respektowanie autonomii i zapewnienie dodatkowej ochrony osobom o ograniczonej możliwości decydowania;
+- minimalizowanie ryzyka i maksymalizowanie uzasadnionych korzyści;
+- sprawiedliwy dobór uczestników oraz podział obciążeń i korzyści badania.
 
-- **Brak pełnej świadomej zgody** - uczestnicy nie wiedzieli, na czym naprawdę polega badanie
-- **Silny stres psychologiczny** - uczestnicy płakali, drżeli, protestowali
-- **Brak możliwości wycofania się** (eksperymentator naciskał: *„Proszę kontynuować"*)
-- Późniejszy debriefing zmniejszył szkodę, ale jej nie eliminował
+Deklaracja Helsińska dotyczy badań medycznych z udziałem ludzi, w tym badań wykorzystujących identyfikowalne dane lub materiał biologiczny. Jej wersja z 2024 roku zastąpiła wcześniejsze wersje. W psychologii istotne są także krajowe przepisy, regulamin instytucji, zasady komisji etycznej oraz kodeks zawodowy.
 
-### Eksperyment więzienny Zimbardo (1971)
+## Ocena ryzyka i korzyści
 
-Philip Zimbardo podzielił ochotników na „strażników" i „więźniów" w symulowanym więzieniu. Po kilku dniach „strażnicy" stosowali psychiczne znęcanie się. Zimbardo przerwał eksperyment po 6 z planowanych 14 dniach.
+Ryzyko obejmuje nie tylko uraz fizyczny. Może dotyczyć stresu, ujawnienia danych, stygmatyzacji, konsekwencji społecznych, ekonomicznych lub prawnych. Należy oceniać prawdopodobieństwo szkody, jej dotkliwość, odwracalność oraz możliwości ograniczenia.
 
-Problemy etyczne:
-- Brak niezależnego nadzoru - Zimbardo sam był „naczelnikiem więzienia"
-- Eskalacja przemocy była obserwowana i tolerowana zbyt długo
-- Późniejsze rewizje (Le Texier, 2019) wykazały, że „strażnicy" byli instruowani, by być brutalnymi
+Wartość naukowa jest warunkiem etycznym. Badanie źle zaprojektowane naraża uczestników bez realnej szansy uzyskania wiarygodnej wiedzy. Wielkość próby, jakość pomiaru, plan analizy i kompetencje zespołu należą zatem również do oceny etycznej.
 
-Oba badania stały się ikonami etyki badań - przykładami tego, czego nie wolno powtórzyć.
+## Świadoma i dobrowolna zgoda
 
-## Deklaracja Helsińska i regulacje międzynarodowe
+Zgoda jest procesem komunikacji, nie samym podpisem. Uczestnik powinien otrzymać zrozumiałe informacje o:
 
-**Deklaracja Helsińska** (World Medical Association, 1964, wielokrotnie aktualizowana) to fundamentalny dokument etyki badań medycznych i psychologicznych. Kluczowe zasady:
+- celu i przebiegu badania;
+- czasie udziału;
+- przewidywalnym ryzyku i niedogodnościach;
+- możliwych korzyściach lub ich braku;
+- sposobie przetwarzania i przechowywania danych;
+- dobrowolności udziału i prawie wycofania się;
+- ograniczeniach możliwości usunięcia danych, na przykład po pełnej anonimizacji;
+- osobach, z którymi można się skontaktować.
 
-1. Dobro uczestnika ma pierwszeństwo przed interesem nauki lub społeczeństwa
-2. Wymagana jest **świadoma zgoda** oparta na pełnej informacji
-3. Badania muszą być poprzedzone **oceną ryzyka i korzyści**
-4. Szczególna ochrona grup wrażliwych (dzieci, osoby z niepełnosprawnościami intelektualnymi)
-5. Niezależny **komitet etyczny** musi zatwierdzić protokół badania
+Język i forma informacji muszą być dostosowane do odbiorców. W przypadku dzieci zwykle potrzebna jest zgoda przedstawiciela ustawowego oraz zgoda dziecka odpowiednia do jego wieku i możliwości. Sama przynależność do grupy klinicznej nie oznacza automatycznie braku zdolności do udzielenia zgody.
 
-## Świadoma zgoda w badaniach (*informed consent*)
+Należy ograniczać presję wynikającą z zależności. Student rekrutowany przez osobę prowadzącą jego zajęcia lub pacjent rekrutowany przez terapeutę może odczuwać, że odmowa wpłynie na ocenę albo opiekę. Pomocne są niezależna rekrutacja, rozsądne wynagrodzenie oraz jednoznaczna informacja o braku konsekwencji odmowy.
 
-### Elementy świadomej zgody
+## Dezinformacja i debriefing
 
-Dobra świadoma zgoda zawiera:
+Ukrycie części celu lub zastosowanie dezinformacji może być rozważane tylko wtedy, gdy:
 
-| Element | Treść |
-|---|---|
-| **Cel badania** | Do czego służy, jaka jest hipoteza (lub ogólny temat) |
-| **Procedury** | Co będzie się działo, jak długo |
-| **Ryzyko i korzyści** | Potencjalne niedogodności, możliwe korzyści (lub ich brak) |
-| **Poufność** | Jak dane będą przechowywane, kto ma do nich dostęp |
-| **Dobrowolność** | Uczestnictwo jest dobrowolne, możliwość wycofania bez konsekwencji |
-| **Kontakt** | Do kogo zgłosić pytania lub problemy |
+1. pytania nie da się wiarygodnie zbadać metodą bez dezinformacji;
+2. badanie ma odpowiednią wartość naukową;
+3. procedura nie powoduje ponadminimalnego, nieujawnionego ryzyka;
+4. uczestnik otrzymuje wyjaśnienie tak szybko, jak jest to możliwe;
+5. komisja etyczna zaakceptowała uzasadnienie i procedurę debriefingu.
 
-### Zgoda a zdolność do wyrażenia zgody
+Debriefing ujawnia rzeczywisty cel, wyjaśnia zastosowaną metodę, ocenia dobrostan uczestnika i podaje kontakt do zespołu. Właściwa procedura uwzględnia możliwość wycofania danych, jeśli wymagają tego zasady etyczne i dane nadal pozwalają na identyfikację rekordu.
 
-W badaniach z dziećmi, osobami z demencją lub w ostrej fazie psychotycznej pełna zgoda wymaga **zgody opiekuna prawnego** + **zgody (assent) uczestnika** w stopniu jego możliwości.
+## Prywatność, poufność i ochrona danych
 
-## Debriefing
+Anonimizacja oznacza nieodwracalne usunięcie możliwości powiązania danych z osobą. Pseudonimizacja zastępuje identyfikatory kodem, lecz powiązanie nadal może zostać odtworzone przy użyciu dodatkowych informacji. Dane pseudonimizowane pozostają danymi osobowymi.
 
-**Debriefing** (omówienie po badaniu) to procedura przeprowadzana po sesji eksperymentalnej, gdy:
-- Stosowano **dezinformację** (*deception*) - ujawnia prawdziwy cel i metody
-- Badanie miało potencjalnie stresujące elementy - zapewnia wsparcie i kontekst
-- Uczestnik może mieć pytania lub obawy
+Plan zarządzania danymi powinien określać:
 
-Dobry debriefing:
-1. Ujawnia wszystkie ukryte elementy badania
-2. Wyjaśnia naukowy cel i konieczność dezinformacji
-3. Sprawdza stan emocjonalny uczestnika
-4. Daje możliwość wycofania danych (w Polsce - trudne regulacyjnie, ale etycznie wskazane)
-5. Podaje kontakt w razie dalszych pytań
+- zakres zbieranych danych i zasadę minimalizacji;
+- podstawę prawną przetwarzania;
+- osoby i role mające dostęp;
+- sposób szyfrowania, tworzenia kopii i przekazywania danych;
+- okres retencji oraz sposób usunięcia;
+- zasady anonimizacji i udostępniania;
+- reakcję na naruszenie bezpieczeństwa.
 
-## Dezinformacja w badaniach (*deception*)
+Zgoda uczestnika na udział w badaniu nie zawsze jest tożsama z podstawą prawną przetwarzania danych w rozumieniu RODO. Wybór podstawy zależy od rodzaju projektu i instytucji. Powinien być uzgodniony z inspektorem ochrony danych, a nie deklarowany automatycznie przez badacza.
 
-Dezinformacja jest etycznie problematyczna, ale czasem niezbędna - pełna wiedza uczestnika o hipotezie falsyfikowałaby wyniki (reaktywność, efekt społecznej pożądalności).
+## Grupy i sytuacje wymagające dodatkowej ochrony
 
-### Warunki dopuszczalności dezinformacji (APA, 2017)
+Dodatkowe zabezpieczenia mogą być potrzebne w badaniach z dziećmi, osobami zależnymi od badacza, osobami w kryzysie, więźniami, pacjentami oraz grupami narażonymi na stygmatyzację. Ochrona nie powinna jednak prowadzić do automatycznego wykluczania tych grup z badań, ponieważ pogłębiałoby to luki w wiedzy.
 
-1. Brak możliwości uzyskania danych bez dezinformacji
-2. Badanie ma **znaczną wartość naukową, edukacyjną lub społeczną**
-3. Brak znaczącego ryzyka psychicznego lub fizycznego
-4. Dezinformacja zostaje ujawniona **jak najszybciej** (debriefing)
+Badania dotyczące traumy, samouszkodzeń lub samobójstwa wymagają przygotowanej procedury bezpieczeństwa. Powinna ona określać kryteria reakcji, zakres poufności, sposób oceny bezpośredniego zagrożenia, kompetencje personelu oraz dostępne formy pomocy.
 
-Przykład dopuszczalny: ukrywanie hipotezy badania przed badaniem pamięci.
-Przykład niedopuszczalny: dezinformacja prowadząca do silnego dystresu emocjonalnego.
+## Badania internetowe
 
-## Anonimizacja i poufność danych
+Badania online wymagają uwzględnienia:
 
-### Rozróżnienie kluczowe
+- warunków i lokalizacji przechowywania danych przez platformę;
+- plików dziennika, adresów IP i innych metadanych;
+- ryzyka wielokrotnego udziału lub podszywania się;
+- dostępności informacji i zgody na urządzeniach mobilnych;
+- możliwości przerwania badania i uzyskania wsparcia;
+- zasad rekrutacji w społecznościach internetowych.
 
-- **Anonimowość** - dane nie zawierają żadnych identyfikatorów umożliwiających identyfikację uczestnika; nie jest możliwe powiązanie danych z osobą nawet przez badacza
-- **Poufność** - badacz zna tożsamość, ale zobowiązuje się do nieujawniania powiązań
+Treść publicznie dostępna w internecie nie staje się automatycznie materiałem wolnym od ograniczeń etycznych. Znaczenie mają oczekiwanie prywatności, wrażliwość danych, możliwość ponownej identyfikacji oraz potencjalna szkoda dla autorów wypowiedzi.
 
-### RODO w badaniach psychologicznych
+## Komisja etyczna
 
-**Rozporządzenie RODO** (GDPR, 2018) nakłada na badaczy obowiązki:
-- Podstawa prawna przetwarzania danych (zgoda lub uzasadniony interes naukowy)
-- Minimalizacja danych - zbieraj tylko to, co niezbędne
-- Ograniczenie czasu przechowywania
-- Pseudoanonimizacja i szyfrowanie
-- Prawa uczestnika: dostęp, korekta, usunięcie
+Ocena komisji powinna nastąpić przed rekrutacją i zbieraniem danych. Wniosek zwykle obejmuje protokół, materiały rekrutacyjne, informację dla uczestnika, formularz zgody, narzędzia, procedurę bezpieczeństwa oraz plan zarządzania danymi.
 
-## Integralność danych i replikacja
+Zakres projektów wymagających oceny zależy od regulaminu instytucji i przepisów. Badacz nie powinien samodzielnie zakładać, że projekt studencki, anonimowa ankieta lub badanie online są zwolnione z oceny. Wątpliwość należy rozstrzygnąć przed rozpoczęciem badania.
 
-### Kryzys replikacji w psychologii
+## Integralność naukowa
 
-Projekt Replikacji Otwartej Nauki (*Open Science Collaboration*, 2015) wykazał, że tylko **36–39% efektów** z prestiżowych badań psychologicznych udało się replikować. Wywołało to debatę o:
-- Selektywnym raportowaniu wyników (*HARKing* - Hypothesizing After Results are Known)
-- *P-hackingu* - manipulacji analizą danych w celu uzyskania p < .05
-- Niskiej mocy statystycznej badań (*underpowered studies*)
+Ochrona uczestników obejmuje także rzetelne wykorzystanie przekazanych przez nich danych. Do poważnych naruszeń należą fabrykowanie, fałszowanie i plagiat. Wiarygodność osłabiają również selektywne raportowanie, nieujawniona wielokrotność analiz, HARKing i przedstawianie eksploracji jako testu wcześniej ustalonej hipotezy.
 
-### Open Science jako odpowiedź
+Praktyki zwiększające przejrzystość obejmują:
 
-Ruch **Open Science** propaguje:
-- **Preregistrację** - rejestrację hipotez i planu analiz **przed** zbieraniem danych
-- **Open data** - publiczne udostępnianie surowych danych
-- **Open materials** - udostępnianie narzędzi i procedur
-- **Replikacje** jako wartościowe publikacje, nie tylko nowości
+- prerejestrację pytań, hipotez i planu analizy;
+- rozróżnienie analiz konfirmacyjnych i eksploracyjnych;
+- raportowanie wyników niezależnie od ich istotności;
+- udostępnianie materiałów, kodu i danych w zakresie zgodnym ze zgodą, prawem i ochroną prywatności;
+- dokumentowanie odstępstw od protokołu;
+- ujawnianie konfliktów interesów.
 
-## Komitety etyki badań (KEB)
+Otwartość nie ma pierwszeństwa przed poufnością. Jeśli danych nie można bezpiecznie udostępnić, należy opisać ograniczenia i rozważyć kontrolowany dostęp, dane syntetyczne albo udostępnienie kodu oraz metadanych.
 
-W Polsce każda instytucja naukowa prowadząca badania empiryczne powinna posiadać **Komitet Etyki Badań** (lub korzystać z KEB innej instytucji).
+## Praktyczna sekwencja dla pracy studenckiej
 
-### Funkcje KEB
+1. Zdefiniuj pytanie, populację i minimalny zakres potrzebnych danych.
+2. Oceń ryzyko, zależności między badaczem a uczestnikami oraz grupy wymagające ochrony.
+3. Przygotuj protokół, informację, zgodę, procedurę bezpieczeństwa i plan danych.
+4. Uzgodnij projekt z promotorem oraz właściwą komisją.
+5. Uzyskaj wymaganą zgodę przed rekrutacją.
+6. Prowadź rejestr zmian protokołu i incydentów.
+7. Analizuj i raportuj zgodnie z planem, jawnie opisując odstępstwa.
+8. Archiwizuj lub usuwaj dane zgodnie z zatwierdzonym planem.
 
-1. Ocena protokołów badań pod kątem etycznym **przed** ich realizacją
-2. Monitoring badań w toku
-3. Rozpatrywanie skarg uczestników
-4. Edukacja badaczy w zakresie etyki
+## Wnioski
 
-### Kryteria oceny
-
-- Stosunek ryzyka do korzyści
-- Adekwatność procedury świadomej zgody
-- Ochrona prywatności i danych
-- Specjalne zabezpieczenia dla grup wrażliwych
-
----## Bibliografia
-
-1. Milgram, S. (1963). Behavioral study of obedience. *Journal of Abnormal and Social Psychology, 67*(4), 371–378.
-2. World Medical Association (2013). *Declaration of Helsinki: Ethical Principles for Medical Research Involving Human Subjects*. WMA.
-3. Open Science Collaboration (2015). Estimating the reproducibility of psychological science. *Science, 349*(6251), aac4716.
-4. American Psychological Association (2017). *Ethical Principles of Psychologists and Code of Conduct*. APA.
-5. Le Texier, T. (2019). Debunking the Stanford Prison Experiment. *American Psychologist, 74*(7), 823–839.
-6. Nosek, B. A., Ebersole, C. R., DeHaven, A. C., & Mellor, D. T. (2018). The preregistration revolution. *PNAS, 115*(11), 2600–2606.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Etyka badań naukowych w psychologii" polega na tym, że etyka zawodowa nie sprowadza się do mechanicznego stosowania reguł, lecz wymaga ważenia dóbr, ryzyk i odpowiedzialności w warunkach niepewności.
-
-Dopiero wspólna analiza zagadnień takich jak historia: skandale, które zmieniły naukę, dezinformacja w badaniach (*deception*) oraz komitety etyki badań (keb) pokazuje pełny zakres omawianego zjawiska.
-
-Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
-
-## Podsumowanie
-
-Temat "Etyka badań naukowych w psychologii" pokazuje, że najbardziej dojrzałe wnioski etyczne wynikają z łączenia zasad, kontekstu sytuacyjnego i refleksji nad skutkami decyzji.
-
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
-
-Dopiero wspólna analiza zagadnień takich jak historia: skandale, które zmieniły naukę, dezinformacja w badaniach (*deception*) oraz komitety etyki badań (keb) pokazuje pełny zakres omawianego zjawiska.
+Etyka badań polega na projektowaniu procedury, w której wartość naukowa jest proporcjonalna do obciążeń, decyzja uczestnika jest rzeczywiście dobrowolna, a dane są wykorzystywane zgodnie z uzgodnionym celem. Komisja nie przejmuje odpowiedzialności badacza. Zapewnia niezależną ocenę, natomiast odpowiedzialność trwa przez cały cykl życia projektu.
 
 ## Bibliografia
 
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+- American Psychological Association. (2017). *Ethical principles of psychologists and code of conduct*. https://www.apa.org/ethics/code
+- Le Texier, T. (2019). Debunking the Stanford Prison Experiment. *American Psychologist, 74*(7), 823–839. https://doi.org/10.1037/amp0000401
+- Milgram, S. (1963). Behavioral study of obedience. *Journal of Abnormal and Social Psychology, 67*(4), 371–378. https://doi.org/10.1037/h0040525
+- National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research. (1979). *The Belmont report*. U.S. Department of Health and Human Services. https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/
+- Nosek, B. A., Ebersole, C. R., DeHaven, A. C., & Mellor, D. T. (2018). The preregistration revolution. *Proceedings of the National Academy of Sciences, 115*(11), 2600–2606. https://doi.org/10.1073/pnas.1708274114
+- Open Science Collaboration. (2015). Estimating the reproducibility of psychological science. *Science, 349*(6251), aac4716. https://doi.org/10.1126/science.aac4716
+- World Medical Association. (2024). *Declaration of Helsinki: Ethical principles for medical research involving human participants*. https://www.wma.net/what-we-do/medical-ethics/declaration-of-helsinki/

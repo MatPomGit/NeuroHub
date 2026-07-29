@@ -53,6 +53,15 @@ Podczas scalania należy:
 - usunąć powtórzone definicje, wprowadzenia i podsumowania;
 - zaktualizować `site-config.js` oraz linki wewnętrzne.
 
+Stary adres należy zachować jako techniczne przekierowanie:
+
+1. usuń dawną pozycję z nawigacji, planu domeny i indeksu wiki;
+2. dodaj mapowanie dawnego identyfikatora do `SITE_CONFIG.articleRedirects`;
+3. zastąp dawny plik krótkim front matter korzystającym z layoutu `redirect`;
+4. sprawdź, czy linki Markdown prowadzą bezpośrednio do artykułu kanonicznego.
+
+Plik przekierowania nie jest artykułem i nie powinien zawierać kopii treści.
+
 ## Zalecany wzorzec, nie obowiązkowy szablon
 
 Pełną propozycję opisuje [Zalecany wzorzec artykułu](../wiki/reference/article_template.md). Nie wymaga ona określonego zestawu nagłówków. Autor dobiera strukturę do problemu, materiału dowodowego i potrzeb czytelnika.

@@ -54,6 +54,7 @@ Jedna zmiana powinna obejmować małą, spójną grupę artykułów. Pozwala to 
 | 2026-07-29 | `wiki/psychofarmakologia/09_leki_przeciwlekowe_i_nasenne.md` | `wiki/farmakologia/anxiolityki.md` |
 | 2026-07-29 | `wiki/psychofarmakologia/09_leki_przeciwlekowe_i_nasenne.md` | `wiki/psychofarmakologia/09_leki_anksjolityczne_i_nasenne.md` |
 | 2026-07-29 | `wiki/psychofarmakologia/11_leki_w_terapii_uzaleznien.md` | `wiki/farmakologia/uzaleznienia_farm.md` |
+| 2026-07-29 | `wiki/diagnoza/formulowanie_przypadku.md` | `wiki/psychopatologia/formulowanie_przypadku.md` |
 
 ## Konsolidacja klas leków: farmakologia i psychofarmakologia
 

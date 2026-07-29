@@ -1661,7 +1661,7 @@ window.SITE_CONFIG = {
       { file: 'wiki/psychopatologia/intelektualizacja.md',          label: 'Intelektualizacja emocji',    status: 'live' },
       { file: 'wiki/psychopatologia/dezintegracja_pozytywna.md',    label: 'Dezintegracja pozytywna',     status: 'live' },
       { file: 'wiki/psychopatologia/klasyfikacje.md',               label: 'Klasyfikacje ICD-11 i DSM-5-TR', status: 'live' },
-      { file: 'wiki/psychopatologia/formulowanie_przypadku.md',     label: 'Formulowanie przypadku',        status: 'live' },
+      { file: 'wiki/diagnoza/formulowanie_przypadku.md',           label: 'Formułowanie przypadku',        status: 'xlink' },
     ],
     suicidology: [
       { file: 'wiki/suicydologia/suicydologia_wprowadzenie.md', label: 'Suicydologia', status: 'live' },
@@ -2220,7 +2220,7 @@ window.SITE_CONFIG = {
             { label: 'Psychopatologia ogolna', id: 'psychopatologia/psychopatologia_wprowadzenie', status: 'live' },
             { label: 'Badanie stanu psychicznego (MSE)', id: 'psychopatologia/objawy_ogolne', status: 'live' },
             { label: 'Klasyfikacje ICD-11 i DSM-5-TR', id: 'psychopatologia/klasyfikacje', status: 'live' },
-            { label: 'Formulowanie przypadku', id: 'psychopatologia/formulowanie_przypadku', status: 'live' },
+            { label: 'Formułowanie przypadku', id: 'diagnoza/formulowanie_przypadku', status: 'xlink' },
           ]
         },
         {

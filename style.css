@@ -806,34 +806,21 @@ em{color:var(--goldl)}
 .home-hero p{font-size:1.05rem;color:var(--t2);line-height:1.78;max-width:590px;margin-bottom:1.9rem;font-weight:300}
 /* KOMPONENTY: .domain-card */
 .domains-h2{font-family:var(--serif);font-size:1.35rem;font-weight:600;margin-bottom:1.1rem}
-.home-domain-groups{display:grid;gap:1.2rem}
-.home-domain-group{border:1px solid var(--border);border-radius:12px;padding:.9rem}
-.home-domain-group-title{
-  font-size:.72rem;
-  letter-spacing:.12em;
-  text-transform:uppercase;
-  font-weight:700;
-  color:var(--t3);
-  margin-bottom:.75rem;
-}
-.home-domain-group.topic-fundamenty{border-left:4px solid #c9a227}
-.home-domain-group.topic-procesy{border-left:4px solid #7c9fd2}
-.home-domain-group.topic-rozwoj{border-left:4px solid #62b08f}
-.home-domain-group.topic-klinika{border-left:4px solid #c26d7c}
-.home-domain-group.topic-neuro{border-left:4px solid #9f86d7}
-.home-domain-group.topic-specjalizacje{border-left:4px solid #d08a52}
-.home-domain-group.topic-technologia{border-left:4px solid #4fa6b5}
-.home-domain-group.topic-zasoby{border-left:4px solid #8a939f}
-.home-domain-group.topic-pozostale{border-left:4px solid #6f7885}
-.domain-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:.85rem}
+.home-domain-groups{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1.2rem}
+.domain-card.topic-fundamenty{border-left:4px solid #c9a227}
+.domain-card.topic-procesy{border-left:4px solid #7c9fd2}
+.domain-card.topic-rozwoj{border-left:4px solid #62b08f}
+.domain-card.topic-klinika{border-left:4px solid #c26d7c}
+.domain-card.topic-neuro{border-left:4px solid #9f86d7}
+.domain-card.topic-specjalizacje{border-left:4px solid #d08a52}
+.domain-card.topic-technologia{border-left:4px solid #4fa6b5}
+.domain-card.topic-zasoby{border-left:4px solid #8a939f}
+.domain-card.topic-pozostale{border-left:4px solid #6f7885}
 .domain-card{background:var(--bg2);border:1px solid var(--border);border-radius:var(--r);padding:var(--space-4) 1.1rem;cursor:pointer;transition:border-color var(--ease),background var(--ease),transform var(--ease)}
 .domain-card[type="button"]{width:100%;text-align:left;color:inherit;font:inherit}
 .domain-card:hover{border-color:var(--gold);background:var(--goldt);transform:translateY(-2px)}
-.d-icon{font-size:1.3rem;margin-bottom:.5rem}
 .d-name{font-family:var(--serif);font-size:1.02rem;font-weight:600;margin-bottom:.3rem}
-.d-desc{font-size:.76rem;color:var(--t3);line-height:1.5}
 .d-count{display:inline-block;font-size:.62rem;color:var(--gold);background:var(--goldt);border:1px solid rgba(201,162,39,.22);border-radius:99px;padding:.1rem .48rem;font-weight:600;margin-top:.45rem}
-.d-note{display:block;margin-top:.45rem;font-size:.68rem;line-height:1.35;color:var(--t3)}
 .home-block{margin-bottom:2rem}
 .home-block-head h2{font-family:var(--serif);font-size:1.35rem;font-weight:600;margin-bottom:.45rem}
 .home-block-head p{font-size:.84rem;color:var(--t3);margin-bottom:.9rem}
@@ -1024,13 +1011,7 @@ em{color:var(--goldl)}
   /* Spis artykułów: poprawa czytelności kart na mniejszych ekranach. */
   .wiki-sec{margin-bottom:1.9rem}
   .wiki-sec-title{font-size:1.15rem}
-  .home-domain-groups{gap:.85rem}
-  .home-domain-group{padding:.72rem}
-  .home-domain-group-title{font-size:.66rem;letter-spacing:.11em;margin-bottom:.62rem}
-  .home-domain-group .domain-grid{grid-template-columns:1fr;gap:.55rem}
-  .home-domain-group .domain-card{padding:.72rem .82rem}
-  .home-domain-group .d-name{font-size:.95rem;margin-bottom:.18rem}
-  .home-domain-group .d-count{font-size:.59rem}
+  .home-domain-groups{grid-template-columns:1fr;gap:.85rem}
   .art-card{
     padding:.85rem .9rem;
     gap:.65rem;
@@ -1520,15 +1501,6 @@ body.psyhub-app::before{
   box-shadow:var(--shadow-sm);
 }
 .psyhub-app .home-domain-groups{gap:1rem}
-.psyhub-app .home-domain-group{
-  padding:1.1rem;
-  border:1px solid var(--border);
-  border-left:1px solid var(--border)!important;
-  border-radius:var(--r-lg);
-  background:color-mix(in srgb,var(--surface) 72%,transparent);
-}
-.psyhub-app .home-domain-group-title{margin:.1rem .15rem .85rem;color:var(--t2)}
-.psyhub-app .domain-grid{grid-template-columns:repeat(auto-fill,minmax(235px,1fr));gap:.7rem}
 .psyhub-app .domain-card{
   min-height:142px;
   padding:1.1rem;
@@ -1697,8 +1669,6 @@ body.psyhub-app::before{
   .psyhub-app .home-cta{width:100%}
   .psyhub-app .start-grid{grid-template-columns:1fr}
   .psyhub-app .start-card{min-height:160px}
-  .psyhub-app .domain-grid{grid-template-columns:1fr}
-  .psyhub-app .home-domain-group{padding:.75rem;border-radius:18px}
   .psyhub-app .page-hero h1,.psyhub-app .wiki-hdr h1{font-size:2.25rem}
   .psyhub-app .md{padding:1.15rem}
 }

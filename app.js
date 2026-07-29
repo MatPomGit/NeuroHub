@@ -1881,76 +1881,29 @@ function getDomainWikiIndexItem(sec) {
   return null;
 }
 
-/* Liczy wszystkie pozycje żywe w indeksie WIKI działu. */
-function countWikiIndexPages(wikiKey) {
-  const cfg = SITE_CONFIG.wikis?.[wikiKey];
-  if (!cfg?.sections) return 0;
-  return cfg.sections.reduce((sum, section) => sum + (section.articles || section.entries || []).length, 0);
-}
-
-/* Buduje metadane karty działu na stronie głównej. */
+/* Wskazuje pierwszy właściwy indeks lub artykuł działu na potrzeby strony głównej. */
 function getHomeDomainCardMeta(sec) {
-  const articleCount = sec.items.filter(item => item?.file).length;
-  const testCount = sec.items.filter(item => item?.kind === 'test' || /test/i.test(item?.custom || '')).length;
-  const moduleCount = sec.items.filter(item => item?.custom && item?.kind !== 'test' && !/test/i.test(item?.custom || '')).length;
   const wikiIndexItem = getDomainWikiIndexItem(sec);
   const firstArticle = sec.items.find(item => item?.file && item?.id);
-  const fallbackItem = firstArticle || sec.items.find(item => item?.id);
-  const navItem = wikiIndexItem || fallbackItem;
-  const wikiPageCount = wikiIndexItem?.wiki ? countWikiIndexPages(wikiIndexItem.wiki) : 0;
-  const opensIndex = Boolean(wikiIndexItem);
-  return {
-    navId: navItem?.id || '',
-    articleCount,
-    testCount,
-    moduleCount,
-    wikiPageCount,
-    opensIndex,
-    fallbackLabel: fallbackItem?.label || '',
-  };
+  return { navId: (wikiIndexItem || firstArticle)?.id || '' };
 }
 
 /*  Home  */
 function renderHome() {
   const area = document.getElementById('content');
   setBreadcrumb(null);
-  const excludedSections = new Set(SITE_CONFIG.catalogExcludedSections || ['Encyklopedie', 'Referencje', 'Wprowadzenie']);
   const topicGroups = buildSidebarTopicGroups();
-  const domainGroups = topicGroups
-    .map(topic => {
-      const sections = topic.sections.filter(sec => {
-        if (!sec || excludedSections.has(sec.section)) return false;
-        return sec.items.some(item => item?.file);
-      });
-      return sections.length ? { ...topic, sections } : null;
-    })
-    .filter(Boolean);
-  const domains = domainGroups.flatMap(group => group.sections);
-
-  const cardsByGroup = domainGroups.map(group => {
-    const cards = group.sections.map(sec => {
-      const meta = getHomeDomainCardMeta(sec);
-      const cnt = meta.articleCount;
-      const navId = meta.navId;
-      if (!navId) return '';
-      const extraCounts = [
-        meta.wikiPageCount ? `${meta.wikiPageCount} stron wiki` : '',
-        meta.testCount ? `${meta.testCount} test.` : '',
-        meta.moduleCount ? `${meta.moduleCount} mod.` : '',
-      ].filter(Boolean);
-      const fallbackInfo = meta.opensIndex ? '' : `<span class="d-note">Otwiera pierwszy tekst działu${meta.fallbackLabel ? `: ${q(meta.fallbackLabel)}` : ''}.</span>`;
-      return `<button type="button" role="link" class="domain-card modern-card" onclick="navigate('${q(navId)}')">
-        <div class="domain-card-top"><span class="d-name">${q(sec.section)}</span><span class="domain-card-arrow" aria-hidden="true">↗</span></div>
-        <span class="d-count">${cnt} art.${extraCounts.length ? ` · ${extraCounts.join(' · ')}` : ''}</span>
-        ${fallbackInfo}
-      </button>`;
-    }).join('');
-
-    if (!cards.trim()) return '';
-    return `<section class="home-domain-group ${group.colorClass}">
-      <div class="home-domain-group-title">${q(group.label)}</div>
-      <div class="domain-grid">${cards}</div>
-    </section>`;
+  const cardsByGroup = topicGroups.map(group => {
+    const target = group.sections
+      .map(getHomeDomainCardMeta)
+      .find(meta => meta.navId);
+    if (!target) return '';
+    const sectionCount = group.sections.length;
+    const sectionLabel = sectionCount === 1 ? 'dział' : [2, 3, 4].includes(sectionCount) ? 'działy' : 'działów';
+    return `<button type="button" role="link" class="domain-card modern-card ${group.colorClass}" onclick="navigate('${q(target.navId)}')">
+      <div class="domain-card-top"><span class="d-name">${q(group.label)}</span><span class="domain-card-arrow" aria-hidden="true">↗</span></div>
+      <span class="d-count">${sectionCount} ${sectionLabel}</span>
+    </button>`;
   }).join('');
 
   /* Karty scenariuszy kierujące od razu do konkretnych modułów z SITE_CONFIG.nav. */

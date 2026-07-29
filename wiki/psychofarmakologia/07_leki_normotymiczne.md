@@ -14,6 +14,12 @@ Lit, walproinian, karbamazepina i lamotrygina różnią się mechanizmem oraz za
 
 Regularne monitorowanie stężeń i funkcji narządowych. Odstawienie litu „z dnia na dzień” po poprawie nastroju jest błędem. Nagłe odstawienie zwiększa ryzyko szybkiego nawrotu.
 
+## Różnice mechanizmów i zastosowań
+
+Termin „lek normotymiczny” opisuje cel kliniczny, a nie jeden mechanizm. Lit wpływa na wewnątrzkomórkowe szlaki sygnałowe, między innymi związane z inozytolem i GSK-3. Walproinian nasila transmisję GABA-ergiczną i moduluje kanały jonowe, karbamazepina oraz lamotrygina blokują kanały sodowe, a lamotrygina ogranicza ponadto uwalnianie glutaminianu. Wybrane leki przeciwpsychotyczne mają dowody w leczeniu niektórych faz choroby afektywnej dwubiegunowej, lecz nie należy automatycznie przypisywać całej klasie jednakowego działania normotymicznego.
+
+Dobór zależy od fazy i dominującej polarności nawrotów. Lamotrygina ma znaczenie przede wszystkim w zapobieganiu epizodom depresyjnym, a nie w leczeniu ostrej manii. Lit, walproinian oraz część leków przeciwpsychotycznych mają zastosowanie przeciwmaniakalne. Planowanie ciąży wymaga osobnej oceny ryzyka: walproinian ma wysokie ryzyko teratogenne i nie powinien być traktowany jako rutynowa opcja u osób mogących zajść w ciążę.
+
 ## Bibliografia
 
 - Yatham, L. N. i in. (2018). CANMAT and ISBD 2018 guidelines for the management of patients with bipolar disorder. *Bipolar Disorders*, 20(2), 97–170.

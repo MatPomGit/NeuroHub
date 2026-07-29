@@ -16,6 +16,12 @@ Benzodiazepiny i leki Z nasilają sygnalizację GABA-A, szybko zmniejszając lę
 
 Od początku ustalenie planu odstawiania i psychoedukacji. Przewlekłe „przepisywanie na sen” bez rewizji wskazań jest błędem. Rośnie ryzyko uzależnienia i upadków, zwłaszcza u osób starszych.
 
+## Grupy leków i ich miejsce
+
+Benzodiazepiny, takie jak diazepam, lorazepam i alprazolam, są dodatnimi modulatorami allosterycznymi receptora GABA-A. Działają szybko, ale poza efektem przeciwlękowym powodują sedację, zaburzenia pamięci i koordynacji. Leki Z, między innymi zolpidem i zopiklon, również działają przez receptor GABA-A; ich odmienna budowa chemiczna nie eliminuje ryzyka tolerancji, zależności, upadków ani złożonych zachowań podczas snu.
+
+Buspiron, częściowy agonista 5-HT1A, nie działa doraźnie i ma zastosowanie przede wszystkim w długofalowym leczeniu uogólnionego zaburzenia lękowego. Propranolol może ograniczać wybrane obwodowe objawy lęku sytuacyjnego, a hydroksyzyna działa sedatywnie, lecz żaden z tych leków nie zastępuje leczenia przyczynowego przewlekłego zaburzenia. W terapii długoterminowej wielu zaburzeń lękowych większe znaczenie mają [leki przeciwdepresyjne](./06_leki_przeciwdepresyjne.md) oraz psychoterapia.
+
 ## Bibliografia
 
 - Riemann, D. i in. (2023). The European Insomnia Guideline: an update on the diagnosis and treatment of insomnia 2023. *Journal of Sleep Research*, 32(6), e14035.

@@ -1,4 +1,4 @@
-﻿# 6. Leki przeciwdepresyjne
+# 6. Leki przeciwdepresyjne
 
 ## Najważniejsze informacje
 
@@ -31,6 +31,12 @@ Objawy odstawienne, między innymi zawroty głowy, zaburzenia czucia, niepokój 
 ## Ograniczenia i wniosek
 
 Średnie wyniki badań nie zastępują wspólnej decyzji o konkretnym leku. Wybór powinien łączyć rozpoznanie i dowody z profilem ryzyka, wcześniejszą odpowiedzią i tym, które działania niepożądane pacjent uważa za możliwe do przyjęcia. Brak poprawy jest wskazaniem do uporządkowanej ponownej oceny, a nie automatycznego dokładania kolejnych substancji.
+
+## Klasy leków i znaczenie różnic farmakologicznych
+
+SSRI, na przykład sertralina, escitalopram i fluoksetyna, są często wybierane ze względu na korzystniejszy profil bezpieczeństwa w przedawkowaniu niż trójpierścieniowe leki przeciwdepresyjne. SNRI, między innymi wenlafaksyna i duloksetyna, wpływają również na przekaźnictwo noradrenergiczne; duloksetyna ma zastosowanie w wybranych zespołach bólowych. Leki trójpierścieniowe pozostają skuteczne, ale blokada receptorów muskarynowych, histaminowych i α1 oraz kardiotoksyczność zawężają ich miejsce w leczeniu.
+
+IMAO mają znaczenie w wybranych przypadkach depresji opornej, lecz wymagają starannego zarządzania interakcjami. Nieodwracalne, nieselektywne IMAO wiążą się także z koniecznością ograniczenia tyraminy. Mirtazapina może być użyteczna, gdy istotne są bezsenność lub mały apetyt, natomiast bupropion ma odmienny profil działań seksualnych niż leki silnie serotoninergiczne. Te cechy pomagają dobrać lek, ale nie pozwalają przewidzieć indywidualnej odpowiedzi z pewnością.
 
 ## Bibliografia
 

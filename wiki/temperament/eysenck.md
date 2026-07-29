@@ -96,7 +96,6 @@ Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwyk
 
 Temat "Model Eysencka - ekstrawersja, neurotyzm i psychotyzm" pokazuje, że najbardziej wartościowe jest ujmowanie temperamentu w relacji do rozwoju, stresu i strategii regulacyjnych, a nie jako sztywnej etykiety.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak hans eysenck i biologiczne podejście do osobowości, związek pen z wielką piątką (neo) oraz dziedzictwo eysencka pokazuje pełny zakres omawianego zjawiska.
 

@@ -93,7 +93,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Czytanie książek a funkcje psychiczne" pokazuje, że najbardziej wartościowe wnioski pojawiają się wtedy, gdy analizuje się wspólnie uwagę, emocje, regenerację i długofalowe nawyki poznawcze.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak czytanie - najnowsza umiejętność mózgu, redukcja stresu - bibliotherapy oraz czytanie a starzenie się i demencja pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

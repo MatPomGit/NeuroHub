@@ -67,7 +67,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Wprowadzenie do metod eksperymentalnych" pokazuje, że najważniejsze pozostaje łączenie rygoru metodologicznego z pokorą interpretacyjną oraz świadomością ograniczeń projektu.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak dlaczego ta dziedzina jest ważna?, najczęstsze błędy początkujących zespołów oraz standard pracy r&d pokazuje pełny zakres omawianego zjawiska.
 

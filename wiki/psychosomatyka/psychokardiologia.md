@@ -86,7 +86,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Psychokardiologia" pokazuje, że największą wartość ma integrowanie danych biologicznych, emocjonalnych i relacyjnych bez redukcjonizmu w żadną stronę.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak mechanizmy psychologicznego wpływu na serce, zjawisko „złamanego serca" - kardiomiopatia takotsubo oraz rehabilitacja kardiologiczna z komponentem psychologicznym pokazuje pełny zakres omawianego zjawiska.
 

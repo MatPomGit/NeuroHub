@@ -137,7 +137,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Superwizja i odpowiedzialność zawodowa psychologa" pokazuje, że najbardziej dojrzałe wnioski etyczne wynikają z łączenia zasad, kontekstu sytuacyjnego i refleksji nad skutkami decyzji.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak czym jest superwizja w kontekście etycznym?, obowiązki superwizora oraz dokumentacja jako element odpowiedzialności pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

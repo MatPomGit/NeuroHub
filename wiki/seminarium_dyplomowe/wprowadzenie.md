@@ -69,7 +69,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Seminarium dyplomowe - wprowadzenie" pokazuje, że największą wartość daje traktowanie pracy badawczej jako procesu integrowania pytania, metody, analizy i argumentacji.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak czym jest praca magisterska w psychologii?, etapy pisania pracy magisterskiej oraz rola promotora i studenta pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

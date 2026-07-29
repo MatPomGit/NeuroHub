@@ -108,7 +108,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Góry i wędrówki górskie a psychologia" pokazuje, że najbardziej wartościowe wnioski pojawiają się wtedy, gdy analizuje się wspólnie uwagę, emocje, regenerację i długofalowe nawyki poznawcze.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak góry jako przestrzeń psychologiczna, wyzwanie, ryzyko i poczucie własnej skuteczności oraz programy terapeutyczne w terenie górskim pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

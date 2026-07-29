@@ -48,7 +48,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Zaburzenia neurorozwojowe" pokazuje, że najbardziej użyteczna perspektywa łączy opis symptomów z rozumieniem procesu, różnicowaniem i planowaniem interwencji.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak czym są zaburzenia neurorozwojowe?, zaburzenie ze spektrum autyzmu (asd) oraz niepełnosprawność intelektualna (id) pokazuje pełny zakres omawianego zjawiska.
 

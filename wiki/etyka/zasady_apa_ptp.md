@@ -108,7 +108,6 @@ Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwyk
 
 Temat "Zasady etyczne APA i PTP" pokazuje, że najbardziej dojrzałe wnioski etyczne wynikają z łączenia zasad, kontekstu sytuacyjnego i refleksji nad skutkami decyzji.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak pięć zasad generalnych apa (2017), porównanie apa i ptp oraz kodeksy w codziennej praktyce pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

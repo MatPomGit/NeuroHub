@@ -338,7 +338,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Zdrada technologii (Technology Betrayal): kiedy narzędzia wsparcia stają się źródłem alienacji i kontroli" pokazuje, że najważniejsze jest traktowanie wpływu technologii jako skutku interakcji między projektem narzędzia a ludzkimi potrzebami i ograniczeniami.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak streszczenie, zdrowie psychiczne i e‑terapia oraz bibliografia orientacyjna (do dalszego rozwinięcia) pokazuje pełny zakres omawianego zjawiska.
 

@@ -72,7 +72,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Pozytywne relacje i miłość w psychologii pozytywnej" pokazuje, że największą wartość ma traktowanie zasobów psychicznych jako praktyk podtrzymujących sens, relacyjność i samoregulację, a nie jako zestawu haseł motywacyjnych.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak relacje jako fundament flourishingu, miłość jako mikromomenty - koncepcja fredrickson oraz wsparcie społeczne a zdrowie pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

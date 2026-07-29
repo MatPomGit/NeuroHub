@@ -373,7 +373,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Śledzenie wzroku i ruchów gałek ocznych jako biomarkerów zaburzeń" pokazuje, że najważniejsze jest łączenie wiedzy anatomicznej, poznawczej i klinicznej, aby przełożyć opis mechanizmu na rozumienie funkcjonowania człowieka.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak streszczenie, lęk społeczny oraz najważniejsza bibliografia pokazuje pełny zakres omawianego zjawiska.
 

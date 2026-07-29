@@ -117,7 +117,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Wprowadzenie" pokazuje, że najbardziej wartościowe wnioski pojawiają się wtedy, gdy analizuje się wspólnie uwagę, emocje, regenerację i długofalowe nawyki poznawcze.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak czas ekranowy, a zdrowie psychiczne; ile to za dużo?, depresja, lęk i samotność oraz wytyczne instytucji zdrowia pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

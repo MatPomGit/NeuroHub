@@ -105,7 +105,6 @@ Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwyk
 
 Temat "Bullying w środowisku szkolnym: diagnoza, skutki i profilaktyka" pokazuje, że najbardziej użyteczne są wnioski, które łączą perspektywę ucznia, nauczyciela i systemu edukacyjnego.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak czym bullying różni się od konfliktu, skutki psychologiczne oraz bibliografia (wybór) pokazuje pełny zakres omawianego zjawiska.
 

@@ -88,7 +88,6 @@ Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwyk
 
 Temat "Genetyczna transmisja zaburzeń psychicznych: odziedziczalność i ryzyko rodzinne" pokazuje, że kluczowe pozostaje łączenie poziomu biologicznego z funkcjonalnym, aby uniknąć uproszczenia złożonych zjawisk psychicznych do jednej przyczyny.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak jak rozumieć „genetyczną transmisję”, wnioski kliniczne oraz bibliografia (wybór) pokazuje pełny zakres omawianego zjawiska.
 

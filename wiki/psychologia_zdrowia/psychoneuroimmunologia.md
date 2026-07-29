@@ -77,7 +77,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Psychoneuroimmunologia (PNI)" pokazuje, że największą wartość ma łączenie perspektywy medycznej z psychologicznym rozumieniem motywacji, stresu i adaptacji.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak oś powiązań: mózg–hormony–odporność, zachowania zdrowotne jako „modulatory biologii” oraz co można wdrażać w praktyce? pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

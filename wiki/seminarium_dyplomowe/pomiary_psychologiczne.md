@@ -117,7 +117,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Zasady prowadzenia pomiarów psychologicznych" pokazuje, że największą wartość daje traktowanie pracy badawczej jako procesu integrowania pytania, metody, analizy i argumentacji.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak podstawy pomiaru psychologicznego, kontrola jakości danych oraz pomiary wielokrotne i kontekst diagnostyczny pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

@@ -122,7 +122,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Fazy i wymiary wypalenia zawodowego" pokazuje, że najważniejsze jest łączenie profilaktyki indywidualnej z analizą środowiska pracy, procedur i kultury organizacyjnej.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak wypalenie jako proces, model wymagań i zasobów pracy (jd-r) oraz przykład kliniczny pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

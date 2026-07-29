@@ -87,7 +87,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Rozwój seksualny przez całe życie" pokazuje, że najbardziej użyteczne wnioski wynikają z łączenia perspektywy biologicznej, relacyjnej i rozwojowej bez moralizowania i redukcjonizmu.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak rozwój prenatalny i hormonalne podstawy płci, dorosłość - szczytowa aktywność seksualna oraz seksualność w starości pokazuje pełny zakres omawianego zjawiska.
 

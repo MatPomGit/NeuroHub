@@ -103,7 +103,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Opieka nad opiekunami osób starszych" pokazuje, że największą wartość ma ujmowanie starzenia na przecięciu biologii, relacji społecznych, zdrowia i poczucia sensu.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak kim jest opiekun nieformalny?, co pomaga opiekunom? oraz rola systemu ochrony zdrowia i pomocy społecznej pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

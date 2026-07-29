@@ -203,7 +203,6 @@ To właśnie ta obecność ma potencjał uzdrawiający w relacjach prywatnych, z
 
 Temat "Empatia kontra sympatia według Brené Brown" pokazuje, że najważniejsze jest traktowanie pomocy jako procesu wymagającego zarówno empatii, jak i struktury, kompetencji oraz samoograniczenia.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak definicje: odruch współodczuwania vs odruch „pocieszania z góry”, język empatii i język sympatii - szybkie porównanie oraz źródło inspiracji pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

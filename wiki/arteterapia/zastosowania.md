@@ -105,7 +105,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Arteterapia - zastosowania kliniczne" pokazuje, że najważniejsze jest traktowanie technik twórczych jako narzędzi regulacji, symbolizacji i komunikacji, a nie jako uniwersalnej recepty.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak arteterapia w psychiatrii, arteterapia w geriatrii i demencji oraz kontekst kulturowy pokazuje pełny zakres omawianego zjawiska.
 

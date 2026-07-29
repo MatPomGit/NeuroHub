@@ -66,7 +66,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Neuroróżnorodność - wprowadzenie" pokazuje, że kluczowe pozostaje łączenie wsparcia funkcjonalnego z redukowaniem barier środowiskowych i stygmatyzacji.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak czym jest neuroróżnorodność?, neurotypowość i neuroatypowość oraz krytyczna debata pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

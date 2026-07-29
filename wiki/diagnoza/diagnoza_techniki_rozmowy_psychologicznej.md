@@ -202,7 +202,6 @@ Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwyk
 
 Temat "Techniki rozmowy psychologicznej w diagnozie: parafraza, odzwierciedlenie, sondowanie, uruchamianie wyobraźni, klaryfikacja i interwencje pokrewne" pokazuje, że najbardziej użyteczna diagnoza łączy precyzję metodologiczną z uważnością na kontekst, relację i ograniczenia interpretacji.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak cele rozmowy psychologicznej w diagnozie, klaryfikacja oraz etyka i standardy pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

@@ -208,7 +208,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Test Matryc Ravena (Raven’s Progressive Matrices) - kompleksowe omówienie" pokazuje, że najważniejsze pozostaje odróżnianie pomiaru od interpretacji oraz świadome uwzględnianie ograniczeń metodologicznych narzędzia.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak czym jest test matryc ravena?, opracowanie wyniku oraz etyka i bezpieczeństwo testowe pokazuje pełny zakres omawianego zjawiska.
 

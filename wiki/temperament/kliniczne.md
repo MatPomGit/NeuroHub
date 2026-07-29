@@ -44,7 +44,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Temperament w wymiarze klinicznym" pokazuje, że najbardziej wartościowe jest ujmowanie temperamentu w relacji do rozwoju, stresu i strategii regulacyjnych, a nie jako sztywnej etykiety.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak temperament a psychopatologia, poszukiwanie nowości a zaburzenia uzależnieniowe oraz implikacje terapeutyczne pokazuje pełny zakres omawianego zjawiska.
 

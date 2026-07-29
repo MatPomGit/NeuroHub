@@ -94,7 +94,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Style poznawcze" pokazuje, że najważniejsze jest ujmowanie zmienności psychologicznej jako źródła zarówno ryzyka, jak i potencjalnych zasobów.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak czym są style poznawcze?, styl poznawczy analityczny vs. intuicyjny (epstein - cest) oraz style poznawcze w psychoterapii pokazuje pełny zakres omawianego zjawiska.
 

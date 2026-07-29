@@ -171,7 +171,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "SCID-5 / SCID-V - ustrukturyzowany wywiad kliniczny DSM-5" pokazuje, że najważniejsze pozostaje odróżnianie pomiaru od decyzji diagnostycznej oraz łączenie danych testowych z obserwacją i wywiadem.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak czym jest scid-5?, ograniczenia i pułapki praktyczne oraz scid-5 w praktyce r&d i badaniach klinicznych pokazuje pełny zakres omawianego zjawiska.
 

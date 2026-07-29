@@ -137,7 +137,6 @@ Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwyk
 
 Temat "Rozwój języka i komunikacji" pokazuje, że najbardziej trafne podsumowanie wymaga łączenia perspektywy etapowej z analizą różnic indywidualnych, kontekstu i plastyczności.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak teorie akwizycji języka, dwujęzyczność i wielojęzyczność oraz implikacje praktyczne - wspieranie rozwoju językowego pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

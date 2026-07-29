@@ -92,7 +92,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Interwencje terapeutyczne w geropsychologii" pokazuje, że największą wartość ma ujmowanie starzenia na przecięciu biologii, relacji społecznych, zdrowia i poczucia sensu.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak zasady dobrej interwencji, interwencje niefarmakologiczne o wysokiej wartości oraz jak oceniać skuteczność interwencji? pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

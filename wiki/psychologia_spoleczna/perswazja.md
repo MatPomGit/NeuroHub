@@ -126,7 +126,6 @@ Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwyk
 
 Temat "Perswazja i propaganda" pokazuje, że najważniejsze jest analizowanie jednocześnie procesów indywidualnych i warunków społecznych, które wzmacniają określone zachowania lub przekonania.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak zasady perswazji - cialdini, reaktancja psychologiczna oraz obrona przed perswazją i propagandą pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

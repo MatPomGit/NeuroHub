@@ -100,7 +100,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Ból psychosomatyczny" pokazuje, że największą wartość ma integrowanie danych biologicznych, emocjonalnych i relacyjnych bez redukcjonizmu w żadną stronę.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak definicja bólu - od nocycepcji do cierpienia, czynniki psychologiczne nasilające ból oraz interwencje psychologiczne w leczeniu bólu pokazuje pełny zakres omawianego zjawiska.
 

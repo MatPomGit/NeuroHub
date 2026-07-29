@@ -108,7 +108,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Neuroróżnorodność w miejscu pracy" pokazuje, że kluczowe pozostaje łączenie wsparcia funkcjonalnego z redukowaniem barier środowiskowych i stygmatyzacji.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak inkluzja neurodywergentnych pracowników, racjonalne korekty w miejscu pracy oraz wypalenie zawodowe a neuroróżnorodność pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

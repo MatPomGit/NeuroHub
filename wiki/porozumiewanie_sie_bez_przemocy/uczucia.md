@@ -116,7 +116,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Uczucia w NVC" pokazuje, że największą wartość ma traktowanie komunikacji jako praktyki rozpoznawania potrzeb i odpowiedzialnego wpływu, a nie tylko doboru słów.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak rola uczuć w porozumiewaniu się bez przemocy, ciało jako źródło informacji o uczuciach oraz rozwijanie słownictwa uczuć pokazuje pełny zakres omawianego zjawiska.
 

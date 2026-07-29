@@ -75,7 +75,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Spektrum autyzmu i niepełnosprawność" pokazuje, że najważniejsze jest łączenie perspektywy klinicznej z prawami, dostępnością i jakością uczestnictwa w życiu społecznym.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak autyzm jako niepełnosprawność i jako tożsamość, często współwystępujące warunki oraz diagnoza u dorosłych i późna diagnoza pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

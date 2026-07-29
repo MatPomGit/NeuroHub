@@ -122,7 +122,6 @@ Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwyk
 
 Temat "Dynamika grupowa" pokazuje, że najważniejsze jest analizowanie jednocześnie procesów indywidualnych i warunków społecznych, które wzmacniają określone zachowania lub przekonania.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak etapy tworzenia się grupy - model tuckmana, efekt widza (bystander effect) - latané i darley oraz teoria tożsamości społecznej - tajfel i turner pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

@@ -136,7 +136,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Psychoanaliza humanistyczna - podejście Ericha Fromma" pokazuje, że najbardziej praktyczne wnioski wynikają z łączenia modelu teoretycznego z uważnością na proces zmiany, relację i ograniczenia danej metody.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak kim był erich fromm?, mieć czy być oraz techniki i zastosowania kliniczne pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

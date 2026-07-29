@@ -96,7 +96,6 @@ Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwyk
 
 Temat "Regulacyjna teoria temperamentu Strelaua" pokazuje, że najbardziej wartościowe jest ujmowanie temperamentu w relacji do rozwoju, stresu i strategii regulacyjnych, a nie jako sztywnej etykiety.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak jan strelau i polska szkoła temperamentu, rtt a prawo yerkesa-dodsona oraz krytyka i ograniczenia pokazuje pełny zakres omawianego zjawiska.
 

@@ -60,7 +60,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Psychopatologia - wprowadzenie" pokazuje, że najbardziej użyteczna perspektywa łączy opis symptomów z rozumieniem procesu, różnicowaniem i planowaniem interwencji.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak czym jest psychopatologia?, klasyfikacje: icd-11 i dsm-5-tr oraz stygmatyzacja i psychopatologia pokazuje pełny zakres omawianego zjawiska.
 

@@ -76,7 +76,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Psychologia szkolna i edukacyjna - wprowadzenie" pokazuje, że najbardziej użyteczne są wnioski, które łączą perspektywę ucznia, nauczyciela i systemu edukacyjnego.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak czym jest psychologia szkolna i edukacyjna?, psychologia szkolna a psychologia ogólna oraz współczesne kierunki badań pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

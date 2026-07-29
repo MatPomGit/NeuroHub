@@ -78,7 +78,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Ocenianie i informacja zwrotna w edukacji" pokazuje, że najbardziej użyteczne są wnioski, które łączą perspektywę ucznia, nauczyciela i systemu edukacyjnego.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak rola oceniania w procesie edukacyjnym, wpływ ocen na motywację oraz samoocena i ocena wzajemna pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

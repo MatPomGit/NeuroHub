@@ -60,7 +60,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Animaloterapia - wprowadzenie" pokazuje, że największą wartość praktyczną daje łączenie wiedzy o mechanizmie oddziaływania z ostrożnym planowaniem interwencji i oceną efektów.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak podstawowe pojęcia i rozróżnienia, zastosowania kliniczne oraz stan badań i perspektywy pokazuje pełny zakres omawianego zjawiska.
 

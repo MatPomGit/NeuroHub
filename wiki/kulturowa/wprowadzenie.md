@@ -125,7 +125,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Psychologia kulturowa - wprowadzenie" pokazuje, że najbardziej trafne wnioski pojawiają się wtedy, gdy unika się etnocentryzmu i analizuje zjawisko w jego własnym kontekście znaczeń.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak czym jest psychologia kulturowa?, główne pytania badawcze oraz zastosowania praktyczne w pracy psychologa pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

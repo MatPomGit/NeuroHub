@@ -98,7 +98,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Smartfony a psychologia - uwaga, pamięć i emocje" pokazuje, że najbardziej wartościowe wnioski pojawiają się wtedy, gdy analizuje się wspólnie uwagę, emocje, regenerację i długofalowe nawyki poznawcze.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak telefon jako przedłużenie umysłu, emocje: fomo, porównania społeczne i lęk oraz rekomendacje pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

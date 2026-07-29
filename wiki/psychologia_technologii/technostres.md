@@ -199,7 +199,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Technostres: kompleksowe ujęcie naukowe" pokazuje, że najważniejsze jest traktowanie wpływu technologii jako skutku interakcji między projektem narzędzia a ludzkimi potrzebami i ograniczeniami.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak streszczenie, czynniki ryzyka i ochronne oraz bibliografia orientacyjna pokazuje pełny zakres omawianego zjawiska.
 

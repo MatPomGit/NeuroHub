@@ -97,7 +97,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Efekt Wertera i Papageno - media a samobójstwa" pokazuje, że najbardziej praktyczne wnioski pojawiają się wtedy, gdy łączy się ocenę ryzyka z analizą funkcji zachowania, wsparcia i możliwości ochronnych.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak efekt wertera, bezpieczne raportowanie o samobójstwach (safe messaging guidelines) oraz implikacje dla praktyki klinicznej pokazuje pełny zakres omawianego zjawiska.
 

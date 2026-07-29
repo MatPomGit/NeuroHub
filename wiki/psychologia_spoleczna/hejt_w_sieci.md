@@ -101,7 +101,6 @@ Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwyk
 
 Temat "Hejt w sieci: mechanizmy psychologiczne, skutki i interwencje" pokazuje, że najważniejsze jest analizowanie jednocześnie procesów indywidualnych i warunków społecznych, które wzmacniają określone zachowania lub przekonania.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak definicja i zakres, czynniki ryzyka i czynniki ochronne oraz bibliografia (wybór) pokazuje pełny zakres omawianego zjawiska.
 

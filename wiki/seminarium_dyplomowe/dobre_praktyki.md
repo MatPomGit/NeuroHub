@@ -161,7 +161,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Dobre praktyki w pisaniu pracy naukowej" pokazuje, że największą wartość daje traktowanie pracy badawczej jako procesu integrowania pytania, metody, analizy i argumentacji.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak organizacja czasu i zarządzanie projektem, relacja z promotorem oraz dobrostan psychiczny podczas pisania pracy pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

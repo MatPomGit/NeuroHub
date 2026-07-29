@@ -134,13 +134,7 @@ Dla dalszego rozwoju wiedzy o użyteczności APIS-Z(R) szczególnie ważne wydaj
 ## 10. Wnioski
 APIS-Z(R) jest narzędziem o wysokim potencjale diagnostycznym w ocenie inteligencji ogólnej i profilu zdolności u starszej młodzieży i dorosłych. Jego wartość wynika z połączenia modelu hierarchicznego z praktyczną formą badania. Jednocześnie rzetelna praca z wynikiem wymaga rygoru psychometrycznego, etycznego i klinicznego: interpretacji osadzonej w normach, triangulacji źródeł danych oraz unikania uproszczonych wniosków. W praktyce oznacza to, że APIS-Z(R) najlepiej sprawdza się jako część wieloźródłowego, profesjonalnie prowadzonego procesu diagnozy psychologicznej.
 
----## Bibliografia
-1. Ciechanowicz, A., Jaworowska, A., Matczak, A., Szuster, T., & Wrocławska-Warchala, E. (autorzy narzędzia). **APIS-Z(R) – Bateria Testów**. Pracownia Testów Psychologicznych PTP. (opis narzędzia online).
-2. Matczak, A., Wujcik, R., Stańczak, J., Jaworowska, A., & Wrocławska-Warchala, E. (2020). **APIS-Z(R) – podręcznik**. Pracownia Testów Psychologicznych PTP.
-3. Pracownia Testów Psychologicznych PTP. **Katalog testów i książek 2025/2026**.
-4. Standardy diagnozy psychologicznej i ogólna literatura psychometryczna dotycząca hierarchicznych modeli inteligencji.
-
-> Uwaga metodologiczna: pełna ocena psychometryczna APIS-Z(R) (np. szczegółowe wskaźniki rzetelności, trafności i norm) wymaga dostępu do oficjalnego podręcznika testu.
+---
 
 ## Perspektywa nieoczywista
 
@@ -154,6 +148,13 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "apis zr" pokazuje, że najważniejsze pozostaje odróżnianie pomiaru od decyzji diagnostycznej oraz łączenie danych testowych z obserwacją i wywiadem.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak podstawy teoretyczne apis-z(r), zastosowania diagnostyczne oraz kierunki dalszych badań nad apis-z(r) pokazuje pełny zakres omawianego zjawiska.
+
+## Bibliografia
+1. Ciechanowicz, A., Jaworowska, A., Matczak, A., Szuster, T., & Wrocławska-Warchala, E. (autorzy narzędzia). **APIS-Z(R) – Bateria Testów**. Pracownia Testów Psychologicznych PTP. (opis narzędzia online).
+2. Matczak, A., Wujcik, R., Stańczak, J., Jaworowska, A., & Wrocławska-Warchala, E. (2020). **APIS-Z(R) – podręcznik**. Pracownia Testów Psychologicznych PTP.
+3. Pracownia Testów Psychologicznych PTP. **Katalog testów i książek 2025/2026**.
+4. Standardy diagnozy psychologicznej i ogólna literatura psychometryczna dotycząca hierarchicznych modeli inteligencji.
+
+> Uwaga metodologiczna: pełna ocena psychometryczna APIS-Z(R) (np. szczegółowe wskaźniki rzetelności, trafności i norm) wymaga dostępu do oficjalnego podręcznika testu.

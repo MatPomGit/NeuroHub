@@ -68,7 +68,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Rola i status biegłego psychologa sądowego" pokazuje, że kluczowe pozostaje łączenie standardów naukowych, prawnych i etycznych przy formułowaniu opinii oraz ograniczeń wnioskowania.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak definicja i formalna pozycja biegłego, kompetencje biegłego psychologa oraz wynagrodzenie i czas trwania opiniowania pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

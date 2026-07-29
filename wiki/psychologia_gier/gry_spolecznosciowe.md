@@ -118,7 +118,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Gry wieloosobowe i aspekty społeczne" pokazuje, że najbardziej trafne wnioski wymagają odróżnienia efektów samej gry od efektów kontekstu używania, podatności indywidualnych i funkcji, jaką gra pełni dla użytkownika.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak gry jako przestrzeń społeczna, toksyczne zachowania w grach online oraz wpływ pandemii covid-19 na społeczne granie pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

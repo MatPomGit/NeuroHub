@@ -98,7 +98,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Telewizja a funkcje psychiczne - uwaga, emocje i zachowanie" pokazuje, że najbardziej wartościowe wnioski pojawiają się wtedy, gdy analizuje się wspólnie uwagę, emocje, regenerację i długofalowe nawyki poznawcze.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak telewizja - medium wciąż obecne, przemoc w telewizji a agresja oraz psychologia binge-watchingu pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

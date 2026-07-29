@@ -144,7 +144,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Psychologia sztucznej inteligencji - wprowadzenie" pokazuje, że kluczowe pozostaje łączenie perspektywy technologicznej z psychologiczną analizą decyzji, emocji i skutków społecznych.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak czym jest psychologia sztucznej inteligencji?, metody badawcze oraz struktura tego działu pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

@@ -137,7 +137,6 @@ Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwyk
 
 Temat "Ucieleśnione poznanie (Embodied Cognition)" pokazuje, że najbardziej użyteczne wnioski pojawiają się wtedy, gdy łączy się opis mechanizmu z ograniczeniami zasobów poznawczych i konsekwencjami praktycznymi.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak kontrast z klasycznym kogniwiztem, dowody eksperymentalne oraz krytyka i ograniczenia pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

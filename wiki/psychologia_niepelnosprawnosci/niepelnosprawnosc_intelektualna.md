@@ -81,7 +81,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Niepełnosprawność intelektualna" pokazuje, że najważniejsze jest łączenie perspektywy klinicznej z prawami, dostępnością i jakością uczestnictwa w życiu społecznym.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak stopnie niepełnosprawności intelektualnej, funkcjonowanie psychiczne oraz jakość życia i autonomia pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

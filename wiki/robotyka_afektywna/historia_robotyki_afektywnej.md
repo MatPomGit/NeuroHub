@@ -69,7 +69,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Historia robotyki afektywnej" pokazuje, że największą wartość ma łączenie perspektywy technicznej z analizą relacji człowiek-maszyna, norm społecznych i odpowiedzialności projektowej.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak początki - automata i cybernetyka, kismet i narodziny robotyki społecznej (lata 90.–2000.) oraz lata 2010. i 2020.: ai głęboka i modele językowe pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

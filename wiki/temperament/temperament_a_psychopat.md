@@ -124,7 +124,6 @@ Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwyk
 
 Temat "Temperament a psychopatologia" pokazuje, że najbardziej wartościowe jest ujmowanie temperamentu w relacji do rozwoju, stresu i strategii regulacyjnych, a nie jako sztywnej etykiety.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak modele relacji temperament–zaburzenie, zahamowanie behawioralne a fobia społeczna oraz implikacje dla profilaktyki i terapii pokazuje pełny zakres omawianego zjawiska.
 

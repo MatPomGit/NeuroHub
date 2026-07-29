@@ -133,7 +133,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Uprzedzenia i błędy poznawcze w AI" pokazuje, że kluczowe pozostaje łączenie perspektywy technologicznej z psychologiczną analizą decyzji, emocji i skutków społecznych.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak wprowadzenie: ai jako lustro ludzkich uprzedzeń, psychologiczne mechanizmy powstawania danych stronniczych oraz podejścia do redukcji uprzedzeń algorytmicznych pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

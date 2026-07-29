@@ -68,7 +68,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Historia psychosomatyki" pokazuje, że największą wartość ma integrowanie danych biologicznych, emocjonalnych i relacyjnych bez redukcjonizmu w żadną stronę.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak starożytne i nowożytne korzenie, krytyka psychoanalizy i zwrot ku naukom biologicznym (lata 60.–80.) oraz współczesna psychosomatyka (od lat 90.) pokazuje pełny zakres omawianego zjawiska.
 

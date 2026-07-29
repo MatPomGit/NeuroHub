@@ -97,13 +97,7 @@ Plan na 12 miesięcy:
 
 
 
-Kariera po psychologii nie jest pojedynczą decyzją, lecz sekwencją dobrze zaplanowanych kroków. Najbardziej efektywny model to: **wczesna eksploracja → ukierunkowana praktyka → superwizja i feedback → specjalizacja**.## Bibliografia
-
-1. Brown, D. (2016). *Career Information, Career Counseling, and Career Development* (11th ed.). Pearson.  
-2. Lent, R. W., & Brown, S. D. (2013). Social cognitive model of career self-management. *Journal of Counseling Psychology, 60*(4), 557–568.  
-3. Nauta, M. M. (2010). The development, evolution, and status of Holland’s theory of vocational personalities. *Journal of Vocational Behavior, 76*(1), 11–22.  
-4. Savickas, M. L. (2013). Career construction theory and practice. In S. D. Brown & R. W. Lent (Eds.), *Career Development and Counseling* (2nd ed., pp. 147–183). Wiley.  
-5. Super, D. E. (1990). A life-span, life-space approach to career development. In D. Brown et al. (Eds.), *Career Choice and Development* (2nd ed., pp. 197–261). Jossey-Bass.
+Kariera po psychologii nie jest pojedynczą decyzją, lecz sekwencją dobrze zaplanowanych kroków. Najbardziej efektywny model to: **wczesna eksploracja → ukierunkowana praktyka → superwizja i feedback → specjalizacja**.
 
 ## Perspektywa nieoczywista
 
@@ -117,6 +111,13 @@ Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwyk
 
 Temat "Ścieżki kariery po psychologii - przewodnik praktyczny" pokazuje, że największą wartość daje przekładanie wiedzy akademickiej na konkretne kompetencje, standardy i nawyki profesjonalne.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak główne segmenty rynku pracy, r&d i nauka oraz typowe błędy na starcie pokazuje pełny zakres omawianego zjawiska.
+
+## Bibliografia
+
+1. Brown, D. (2016). *Career Information, Career Counseling, and Career Development* (11th ed.). Pearson.
+2. Lent, R. W., & Brown, S. D. (2013). Social cognitive model of career self-management. *Journal of Counseling Psychology, 60*(4), 557–568.
+3. Nauta, M. M. (2010). The development, evolution, and status of Holland’s theory of vocational personalities. *Journal of Vocational Behavior, 76*(1), 11–22.
+4. Savickas, M. L. (2013). Career construction theory and practice. In S. D. Brown & R. W. Lent (Eds.), *Career Development and Counseling* (2nd ed., pp. 147–183). Wiley.
+5. Super, D. E. (1990). A life-span, life-space approach to career development. In D. Brown et al. (Eds.), *Career Choice and Development* (2nd ed., pp. 197–261). Jossey-Bass.

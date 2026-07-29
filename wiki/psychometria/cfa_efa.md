@@ -87,7 +87,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Analiza czynnikowa (EFA i CFA)" pokazuje, że najważniejsze pozostaje odróżnianie pomiaru od interpretacji oraz świadome uwzględnianie ograniczeń metodologicznych narzędzia.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak eksploracyjna analiza czynnikowa (efa), modele bifaktorowe oraz przykłady zastosowań pokazuje pełny zakres omawianego zjawiska.
 

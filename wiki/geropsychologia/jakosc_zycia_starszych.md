@@ -99,7 +99,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Jakość życia osób starszych" pokazuje, że największą wartość ma ujmowanie starzenia na przecięciu biologii, relacji społecznych, zdrowia i poczucia sensu.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak wymiary jakości życia, paradoks dobrostanu w starości oraz jak wspierać jakość życia? pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

@@ -124,7 +124,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Modele i teorie odporności psychicznej" pokazuje, że najważniejsze jest łączenie profilaktyki indywidualnej z analizą środowiska pracy, procedur i kultury organizacyjnej.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak wprowadzenie do teorii odporności, model 4s (4 source model) oraz praktyczne implikacje modeli pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

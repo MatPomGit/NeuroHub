@@ -118,7 +118,6 @@ Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwyk
 
 Temat "Atrakcyjność interpersonalna" pokazuje, że najważniejsze jest analizowanie jednocześnie procesów indywidualnych i warunków społecznych, które wzmacniają określone zachowania lub przekonania.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak czynniki atrakcyjności interpersonalnej, teorie ewolucyjne atrakcyjności oraz teoria wymiany społecznej pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

@@ -136,7 +136,6 @@ Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwyk
 
 Temat "Zdrowe poczucie własnej wartości" pokazuje, że najważniejsze jest analizowanie jednocześnie procesów indywidualnych i warunków społecznych, które wzmacniają określone zachowania lub przekonania.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak czym jest zdrowe poczucie własnej wartości?, sygnały, że poczucie własnej wartości jest zdrowe oraz wątek kliniczny - kiedy warto szukać pomocy? pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

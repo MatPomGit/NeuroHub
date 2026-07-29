@@ -79,7 +79,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Modele niepełnosprawności" pokazuje, że najważniejsze jest łączenie perspektywy klinicznej z prawami, dostępnością i jakością uczestnictwa w życiu społecznym.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak model medyczny, model kulturowo-tożsamościowy (disability identity) oraz znaczenie dla praktyki pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

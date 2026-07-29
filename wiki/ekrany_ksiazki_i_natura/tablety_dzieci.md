@@ -110,7 +110,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Tablety i ekrany dotykowe a rozwój poznawczy dzieci" pokazuje, że najbardziej wartościowe wnioski pojawiają się wtedy, gdy analizuje się wspólnie uwagę, emocje, regenerację i długofalowe nawyki poznawcze.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak dzieci w cyfrowym świecie, aplikacje edukacyjne - kiedy naprawdę uczą? oraz wytyczne who i aap pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

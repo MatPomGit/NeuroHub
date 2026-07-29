@@ -80,7 +80,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Komunikacja medyczna w psychologii zdrowia" pokazuje, że największą wartość ma łączenie perspektywy medycznej z psychologicznym rozumieniem motywacji, stresu i adaptacji.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak dlaczego komunikacja ma znaczenie?, zasady skutecznej komunikacji oraz rola psychologa pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

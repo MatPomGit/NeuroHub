@@ -85,7 +85,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Psychosomatyka w chorobach autoimmunologicznych" pokazuje, że największą wartość ma integrowanie danych biologicznych, emocjonalnych i relacyjnych bez redukcjonizmu w żadną stronę.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak układ odpornościowy jako czułe echo psychiki, toczeń rumieniowaty układowy (sle) oraz podejście kliniczne - psychosomatyczna opieka przy autoimmunizacji pokazuje pełny zakres omawianego zjawiska.
 

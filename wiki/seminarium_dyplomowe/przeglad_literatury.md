@@ -126,7 +126,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Przegląd literatury naukowej" pokazuje, że największą wartość daje traktowanie pracy badawczej jako procesu integrowania pytania, metody, analizy i argumentacji.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak cele przeglądu literatury, ocena jakości źródeł oraz organizacja i synteza literatury pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

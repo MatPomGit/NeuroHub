@@ -51,7 +51,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "spis tresci" pokazuje, że najważniejsze wnioski wynikają z integrowania poziomu teorii, danych empirycznych i konsekwencji dla praktyki.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 ## Bibliografia
 

@@ -96,7 +96,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Niemoralność braku zgody na narodziny" pokazuje, że najbardziej wartościowe podsumowanie wymaga odróżnienia tego, co logicznie możliwe, od tego, co epistemicznie uzasadnione i praktycznie doniosłe.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak wprowadzenie: narodziny bez pytania, cioran i egzystencjalna przemoc oraz wymiar kulturowy i społeczny pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

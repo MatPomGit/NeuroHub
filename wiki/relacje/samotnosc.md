@@ -106,7 +106,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Samotność i izolacja społeczna" pokazuje, że najbardziej użyteczne jest ujmowanie relacji jako systemu współregulacji, negocjacji granic i wzajemnych interpretacji.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak definicja i rodzaje samotności, samotność a zdrowie - cacioppo i patrick oraz bibliografia (apa 7) pokazuje pełny zakres omawianego zjawiska.
 

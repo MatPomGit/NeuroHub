@@ -93,7 +93,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Biegły psycholog w opiniowaniu sądowym - wprowadzenie" pokazuje, że kluczowe pozostaje łączenie standardów naukowych, prawnych i etycznych przy formułowaniu opinii oraz ograniczeń wnioskowania.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak czym jest psychologia sądowa?, warsztat biegłego psychologa oraz bibliografia (apa 7) pokazuje pełny zakres omawianego zjawiska.
 

@@ -45,7 +45,7 @@ Odno9:niki krzy9=owe nie sďż˝& tylko elementem UX. W projekcie edukacyjnym pe
 
 Nowe artyku9y zosta9y osadzone w istniejďż˝&cym ekosystemie PsyHub poprzez mapďż˝" relacji tematycznych. Taki uk9ad u9atwia czytelnikom przechodzenie od definicji do zastosowa9 oraz wspiera dalszďż˝& rozbudowďż˝" portalu bez utraty spBjno9:ci.
 
-Dla przeglďż˝&du tre9:ci wymagajďż˝&cych dalszego podlinkowania zobacz raport: [`raport_artykuly_bez_odnosnikow`](./raport_artykuly_bez_odnosnikow.md).## Bibliografia
+Dla przeglďż˝&du tre9:ci wymagajďż˝&cych dalszego podlinkowania zobacz raport: `wiki/reference/raport_artykuly_bez_odnosnikow.md`.## Bibliografia
 
 1. American Psychological Association. (2020). *Publication Manual of the American Psychological Association* (7th ed.).
 2. Norman, D. A. (2013). *The Design of Everyday Things* (Revised and Expanded). Basic Books.

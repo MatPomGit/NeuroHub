@@ -43,3 +43,4 @@ Jedna zmiana powinna obejmować małą, spójną grupę artykułów. Pozwala to 
 | 2026-07-29 | `wiki/emocje/aleksytymia.md` | `wiki/psychosomatyka/aleksytymia.md` |
 | 2026-07-29 | `wiki/neuroroznorodnosc/spektrum_autyzmu.md` | `wiki/zaburzenia/asd.md` |
 | 2026-07-29 | `wiki/etyka/etyka_badan.md` | `wiki/seminarium_dyplomowe/etyka_badan.md` |
+| 2026-07-29 | `wiki/etyka/etyka_badan.md` | `wiki/wstep_do_psychologii/etyka_badan_psychologicznych.md` |

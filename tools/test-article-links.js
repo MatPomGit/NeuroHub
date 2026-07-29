@@ -10,7 +10,7 @@ const {
 
 const entries = [
   {
-    id: 'poznawcza/pamiec_robocza',
+    id: 'psychologia_poznawcza/pamiec_robocza',
     label: 'Pamięć robocza',
     aliases: ['working memory'],
     file: 'wiki/psychologia_poznawcza/pamiec_robocza.md',
@@ -41,13 +41,13 @@ const first = findFirstMatch(
   index,
   new Set()
 );
-assert.equal(first.id, 'poznawcza/pamiec_robocza');
+assert.equal(first.id, 'psychologia_poznawcza/pamiec_robocza');
 assert.equal(first.text, 'pamięć robocza');
 
 const next = findFirstMatch(
   ' wiąże się z pojęciem rzetelność.',
   index,
-  new Set(['poznawcza/pamiec_robocza'])
+  new Set(['psychologia_poznawcza/pamiec_robocza'])
 );
 assert.equal(next.id, 'psychometria/rzetelnosc');
 

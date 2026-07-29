@@ -9,7 +9,6 @@ Ten dokument porządkuje proces przeglądu jakości artykułów i wyznacza prior
 |---|---|---|---|---|---|
 | `wiki/wstep_do_psychologii/definicja.md` | nie | nie | nie | nie | wysoki |
 | `wiki/psychoterapia/cbt.md` | nie | nie | nie | nie | wysoki |
-| `wiki/zaburzenia/adhd.md` | nie | nie | nie | nie | wysoki |
 | `wiki/seksuologia/seksuologia_wprowadzenie.md` | nie | nie | nie | nie | wysoki |
 | `wiki/psychologia_ai/wprowadzenie.md` | nie | nie | nie | nie | średni |
 | `wiki/psychologia_religii/wprowadzenie.md` | nie | nie | nie | nie | średni |

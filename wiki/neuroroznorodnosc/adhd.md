@@ -1,86 +1,86 @@
 ---
-lastReviewed: 2026-04-01
-reviewCycleMonths: 24
-evidenceCutoffDate: 2025-12-31
+lastReviewed: 2026-07-29
+reviewCycleMonths: 18
+evidenceCutoffDate: 2026-07-29
+aliases:
+  - zespół nadpobudliwości psychoruchowej z deficytem uwagi
+  - attention-deficit/hyperactivity disorder
 ---
 
-# ADHD jako wariant neuroróżnorodności
+# ADHD
 
-## Definicja i rozpowszechnienie
+ADHD jest zaburzeniem neurorozwojowym, w którym utrwalone trudności z regulacją uwagi, aktywności lub impulsywności są nieadekwatne do etapu rozwoju i istotnie utrudniają funkcjonowanie. Perspektywa neuroróżnorodności uzupełnia opis kliniczny o wpływ środowiska, indywidualny profil potrzeb i zasobów. Nie znosi jednak kryterium cierpienia albo ograniczenia funkcjonowania, które uzasadnia diagnozę i pomoc.
 
-**ADHD** (ang. *Attention Deficit Hyperactivity Disorder* - zespół nadpobudliwości psychoruchowej z deficytem uwagi) to neurorozwojowy wariant funkcjonowania charakteryzujący się trudnościami z regulacją uwagi, impulsywnością i - w wielu przypadkach - nadaktywnością ruchową. Zgodnie z DSM-5 wyróżnia się trzy prezentacje: typ z przewagą zaburzeń uwagi (*predominantly inattentive*), typ z przewagą nadpobudliwości/impulsywności (*predominantly hyperactive-impulsive*) oraz typ mieszany (*combined*).
+## Najważniejsze informacje
 
-Szacuje się, że ADHD dotyczy około 5–7% dzieci i 2,5–4% dorosłych na świecie, przy czym historycznie zaburzenie było rozpoznawane rzadziej u dziewcząt i kobiet, które częściej prezentują maskowany typ nieuważny. Coraz więcej danych wskazuje, że ADHD nie „mija" w dorosłości - zmienia się jedynie jego obraz kliniczny.
+- ADHD może występować u dzieci, młodzieży i dorosłych, a jego obraz zmienia się z wiekiem.
+- Rozpoznanie jest kliniczne. Nie istnieje pojedynczy test psychologiczny, neurologiczny ani laboratoryjny, który sam potwierdza ADHD.
+- Objawy muszą tworzyć trwały wzorzec, występować w więcej niż jednym kontekście i powodować znaczące trudności.
+- Pomoc dobiera się do wieku, nasilenia objawów, chorób współwystępujących i celów danej osoby. Może obejmować psychoedukację, zmiany środowiskowe, oddziaływania psychologiczne oraz farmakoterapię.
 
-> **Fakt:** Metaanaliza Simonsa i współpracowników (2022) obejmująca ponad 50 badań neuroobrazowych wykazała, że osoby z ADHD wykazują statystycznie mniejszą objętość jądra ogoniastego i przedczołowych obszarów kory mózgowej w porównaniu z grupami kontrolnymi, co wiąże się z trudnościami w funkcjach wykonawczych.
+## Obraz kliniczny
 
-## Neurobiologia ADHD
+Klasyfikacje diagnostyczne grupują objawy wokół nieuwagi oraz nadpobudliwości i impulsywności. Nieuwaga może przejawiać się trudnością w podtrzymaniu wysiłku, organizacji zadań, pamiętaniu o zobowiązaniach i odporności na bodźce rozpraszające. Nadpobudliwość u dorosłych częściej przyjmuje postać wewnętrznego niepokoju niż wyraźnej aktywności ruchowej. Impulsywność może dotyczyć wypowiedzi, decyzji, zakupów, relacji lub zachowań ryzykownych.
 
-Neurobiologicznym podłożem ADHD jest przede wszystkim **dysregulacja układu dopaminergicznego i noradrenergicznego** w obwodach czołowo-prążkowiowych. Kora przedczołowa - odpowiedzialna za planowanie, hamowanie impulsów i pamięć roboczą - wykazuje obniżoną aktywność w spoczynku, co tłumaczy charakterystyczne trudności z inicjowaniem zadań, utrzymywaniem wysiłku i regulowaniem zachowania.
+DSM-5-TR opisuje prezentację z przewagą nieuwagi, prezentację z przewagą nadpobudliwości i impulsywności oraz prezentację mieszaną. Są to obrazy aktualnego funkcjonowania, a nie niezmienne typy osoby.
 
-Kluczowe pojęcie to **funkcje wykonawcze** (*executive functions*): zestaw procesów poznawczych umożliwiających celowe, zorientowane na cel działanie. Badacz Russell Barkley opisuje ADHD jako przede wszystkim zaburzenie funkcji wykonawczych, a nie deficyt uwagi sensu stricto. Osoby z ADHD mogą skupiać uwagę intensywnie - tzw. **hiperfokus** - na zadaniach, które są dla nich wyjątkowo interesujące lub stymulujące, natomiast mają trudności z przekierowaniem uwagi na żądanie.
+Zdolność do długiej koncentracji na zadaniu interesującym lub silnie nagradzającym nie wyklucza ADHD. Problem dotyczy przede wszystkim sterowania uwagą stosownie do celu i sytuacji. Termin „hiperfokus” opisuje doświadczenie części osób, ale nie jest kryterium diagnostycznym.
 
-## Profil mocnych stron
+## Rozwój, płeć i kontekst
 
-Perspektywa neuroróżnorodności zachęca do dostrzeżenia mocnych stron związanych z profilem ADHD:
+ADHD zaczyna się w okresie rozwojowym, lecz może zostać rozpoznane dopiero w dorosłości. Wtedy wywiad powinien obejmować wcześniejsze funkcjonowanie szkolne, rodzinne i społeczne. Trudności stają się czasem wyraźne dopiero wtedy, gdy rosną wymagania dotyczące samodzielnej organizacji.
 
-- **Kreatywność i myślenie dywergencyjne** - badania Białej (White i in., 2018) sugerują, że osoby z ADHD uzyskują wyższe wyniki w testach myślenia twórczego.
-- **Hiperfokus** - zdolność do głębokiej, intensywnej koncentracji na wybranych tematach.
-- **Odwaga i skłonność do ryzyka** - cecha przydatna w przedsiębiorczości i sytuacjach wymagających szybkiego działania.
-- **Empatia emocjonalna** - wiele osób z ADHD opisuje szczególną wrażliwość emocjonalną i zdolność do empatii.
-- **Myślenie niestandardowe** - zdolność do łączenia odległych pojęć i dostrzegania nieoczekiwanych rozwiązań.
+Dziewczęta i kobiety mogą być rozpoznawane później, między innymi dlatego, że częściej kieruje się uwagę na zachowania zakłócające otoczenie niż na mniej widoczną nieuwagę. Nie należy jednak zakładać obrazu klinicznego na podstawie samej płci.
 
-> **Fakt:** Badania przeprowadzone na Stanford University pokazują, że osoby z ADHD zakładają firmy statystycznie częściej niż osoby neurotypowe i częściej opisują siebie jako przedsiębiorców.
+Środowisko wpływa na poziom trudności. Jasne zasady, przewidywalny plan, ograniczenie dystraktorów i możliwość dzielenia zadania na krótsze etapy mogą zmniejszać obciążenie, lecz nie są testem diagnostycznym.
 
-## Wyzwania funkcjonalne
+## Uwarunkowania i mechanizmy
 
-Obok mocnych stron, ADHD wiąże się z realnymi trudnościami:
+ADHD ma złożone, wieloczynnikowe podłoże. Badania rodzinne, bliźniąt i genomu wskazują na istotny udział czynników genetycznych, ale nie istnieje jeden „gen ADHD”. Różnice dotyczą wielu sieci mózgowych i procesów poznawczych, a wyniki grupowe nie pozwalają diagnozować pojedynczej osoby na podstawie neuroobrazowania.
 
-- **Prokrastynacja i trudności z inicjowaniem** - mózg z ADHD często wymaga zewnętrznej stymulacji lub presji czasu, żeby „uruchomić" działanie.
-- **Dysforia wrażliwości na odrzucenie** (RSD, *Rejection Sensitive Dysphoria*) - intensywna, często paraliżująca reakcja emocjonalna na rzeczywiste lub wyobrażone odrzucenie.
-- **Trudności z organizacją czasu** - tzw. „ślepota czasowa" (*time blindness*): subiektywne poczucie, że istnieje tylko „teraz" i „nie teraz".
-- **Problemy z pamięcią roboczą** - trudności z utrzymywaniem informacji w umyśle podczas wykonywania złożonych zadań.
-- **Zaburzenia snu** - nieregularny rytm snu i czuwania jest bardzo częstym współwystępującym problemem.
+Modele psychologiczne opisują między innymi zróżnicowanie kontroli hamowania, pamięci roboczej, przetwarzania czasu i wrażliwości na odroczone konsekwencje. Żaden pojedynczy mechanizm nie wyjaśnia wszystkich przypadków.
 
-## ADHD a współwystępowanie
+## Diagnoza i różnicowanie
 
-ADHD rzadko występuje w izolacji. Najczęstsze współwystępujące stany to: zaburzenia lękowe (ok. 50% przypadków), zaburzenia nastroju (30–40%), dysleksja i inne specyficzne trudności w uczeniu się (25–40%), a u dorosłych - zaburzenia osobowości, szczególnie z klastra B. Zrozumienie profilu współwystępowania jest kluczowe dla skutecznej interwencji.
+Rzetelna diagnoza obejmuje:
 
-## Podejście terapeutyczne i farmakologiczne
+1. wywiad rozwojowy i ocenę obecnych trudności;
+2. informacje z więcej niż jednego środowiska, o ile są dostępne;
+3. ocenę wpływu objawów na naukę, pracę, relacje i codzienną organizację;
+4. analizę innych możliwych wyjaśnień oraz stanów współwystępujących.
 
-Najlepiej udokumentowane interwencje to:
+Kwestionariusze i testy uwagi mogą wspierać ocenę, lecz nie zastępują diagnozy klinicznej. W różnicowaniu uwzględnia się między innymi zaburzenia snu, zaburzenia lękowe i nastroju, skutki używania substancji, trudności w uczeniu się, spektrum autyzmu, choroby somatyczne oraz wpływ przewlekłego stresu. Współwystępowanie jest częste, dlatego wykrycie innego problemu nie musi automatycznie wykluczać ADHD.
 
-- **Farmakoterapia** - leki z grupy stymulantów (metylfenidat, amfetaminy) i niestymulantów (atomoksetyna) poprawiają funkcjonowanie objawów u 70–80% pacjentów. Leki działają poprzez zwiększenie dostępności dopaminy i noradrenaliny w synapsach.
-- **Trening funkcji wykonawczych** - metody behawioralne i poznawczo-behawioralne pomagają w budowaniu strategii kompensacyjnych.
-- **Psychoedukacja** - zrozumienie własnego profilu neurobiologicznego jest samo w sobie terapeutyczne i zmniejsza samostygmatyzację.
-- **Modyfikacje środowiskowe** - redukcja rozpraszaczy, podział zadań na małe kroki, stosowanie zewnętrznych sygnałów czasowych.
+## Pomoc i leczenie
 
-## ADHD w perspektywie ewolucyjnej
+Plan pomocy powinien odpowiadać na konkretne ograniczenia funkcjonowania. Psychoedukacja pomaga zrozumieć wzorzec trudności i zaplanować strategie. Dostosowania szkolne lub zawodowe mogą obejmować pisemne instrukcje, podział pracy na etapy, zewnętrzne przypomnienia i ograniczenie bodźców rozpraszających.
 
-Hipoteza „łowcy i rolnika" (Thom Hartmann, 1993) sugeruje, że cechy ADHD mogły być adaptacyjne w środowisku łowiecko-zbierackim: szybkie podejmowanie decyzji, wysokie ryzyko, czujność na nowe bodźce i nieustanna eksploracja środowiska byłyby zaletami. We współczesnym społeczeństwie wymagającym wielogodzinnego siedzenia przy biurku te same cechy stają się wyzwaniem. Hipoteza jest spekulatywna, ale ilustruje ważną zasadę: ocena funkcjonalności danego profilu neurologicznego zależy od kontekstu środowiskowego.
+Oddziaływania behawioralne i trening umiejętności rodzicielskich mają istotne miejsce w pomocy dzieciom. U dorosłych terapia poznawczo-behawioralna może wspierać organizację, zarządzanie czasem, regulację emocji i pracę z następstwami wieloletnich niepowodzeń.
 
+Leki stymulujące i niestymulujące mogą zmniejszać objawy, ale wymagają kwalifikacji medycznej, monitorowania skuteczności i działań niepożądanych. Dobór preparatu zależy od wieku, stanu zdrowia, współwystępujących problemów i lokalnych zaleceń. Farmakoterapia nie zastępuje zmian środowiskowych, gdy źródłem części obciążenia są niedostosowane warunki nauki albo pracy.
 
+## Perspektywa neuroróżnorodności
 
-ADHD jako wariant neuroróżnorodności to profil neurologiczny o charakterystycznym zestawie mocnych stron i wyzwań, głęboko zakorzeniony w neurobiologii układu dopaminergicznego. Podejście oparte na mocnych stronach nie neguje realnych trudności, lecz kwestionuje redukcyjne postrzeganie ADHD wyłącznie jako defektu - i otwiera drogę do bardziej kompleksowego, humanistycznego wsparcia.
+Perspektywa neuroróżnorodności zwraca uwagę, że ograniczenie może powstawać w relacji między profilem osoby a wymaganiami otoczenia. Sprzyja niestygmatyzującemu językowi, współdecydowaniu i poszukiwaniu dostosowań. Nie uzasadnia jednak przypisywania wszystkim osobom z ADHD takich samych „mocnych stron”. Kreatywność, skłonność do podejmowania ryzyka czy intensywne zaangażowanie w zainteresowania są zmienne i nie stanowią kryteriów ADHD.
 
-## Perspektywa nieoczywista
+Najbardziej użyteczne podejście łączy uznanie realnych trudności z poszanowaniem autonomii. Celem nie jest ujednolicenie zachowania, lecz zmniejszenie cierpienia, ryzyka i barier oraz poprawa możliwości działania zgodnie z własnymi celami.
 
-Nieoczywista perspektywa na temat "ADHD jako wariant neuroróżnorodności" polega na tym, że neuroróżnorodność najlepiej rozumieć nie jako prostą listę deficytów, lecz jako odmienny profil przetwarzania, który może generować zarówno trudności, jak i zasoby.
+## Mity i ograniczenia wiedzy
 
-Dopiero wspólna analiza zagadnień takich jak definicja i rozpowszechnienie, wyzwania funkcjonalne oraz adhd w perspektywie ewolucyjnej pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+- ADHD nie jest skutkiem „złego wychowania”, choć sposób organizacji środowiska może nasilać albo łagodzić trudności.
+- Prawidłowy wynik pojedynczego testu uwagi nie wyklucza ADHD.
+- Obserwowane w badaniach różnice mózgowe są średnimi grupowymi, a nie indywidualnymi biomarkerami.
+- Granice między cechą a zaburzeniem zależą nie tylko od liczby objawów, ale także od ich trwałości, kontekstu i wpływu na funkcjonowanie.
 
 ## Podsumowanie
 
-Temat "ADHD jako wariant neuroróżnorodności" pokazuje, że kluczowe pozostaje łączenie wsparcia funkcjonalnego z redukowaniem barier środowiskowych i stygmatyzacji.
+ADHD jest zróżnicowanym zaburzeniem neurorozwojowym wymagającym wieloźródłowej oceny. Diagnoza ma wyjaśniać trudności i prowadzić do adekwatnej pomocy, a nie redukować osobę do etykiety. Połączenie wiedzy klinicznej z perspektywą neuroróżnorodności pozwala jednocześnie uwzględnić ograniczenia, zasoby i bariery środowiskowe.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+## Bibliografia
 
-Dopiero wspólna analiza zagadnień takich jak definicja i rozpowszechnienie, wyzwania funkcjonalne oraz adhd w perspektywie ewolucyjnej pokazuje pełny zakres omawianego zjawiska.## Bibliografia
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+1. American Psychiatric Association. (2022). *Diagnostic and Statistical Manual of Mental Disorders* (5th ed., text rev.). https://doi.org/10.1176/appi.books.9780890425787
+2. Cortese, S. i in. (2018). Comparative efficacy and tolerability of medications for attention-deficit hyperactivity disorder in children, adolescents, and adults: A systematic review and network meta-analysis. *The Lancet Psychiatry, 5*(9), 727–738. https://doi.org/10.1016/S2215-0366(18)30269-4
+3. Faraone, S. V. i in. (2021). The World Federation of ADHD International Consensus Statement: 208 evidence-based conclusions about the disorder. *Neuroscience & Biobehavioral Reviews, 128*, 789–818. https://doi.org/10.1016/j.neubiorev.2021.01.022
+4. Kooij, J. J. S. i in. (2019). Updated European Consensus Statement on diagnosis and treatment of adult ADHD. *European Psychiatry, 56*, 14–34. https://doi.org/10.1016/j.eurpsy.2018.11.001
+5. National Institute for Health and Care Excellence. (2018). *Attention deficit hyperactivity disorder: diagnosis and management* (NG87). https://www.nice.org.uk/guidance/ng87
+6. World Health Organization. (2026). *ICD-11 for Mortality and Morbidity Statistics: Attention deficit hyperactivity disorder (6A05)*. https://icd.who.int/browse/2026-01/mms/en

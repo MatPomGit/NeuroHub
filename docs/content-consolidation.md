@@ -44,3 +44,6 @@ Jedna zmiana powinna obejmować małą, spójną grupę artykułów. Pozwala to 
 | 2026-07-29 | `wiki/neuroroznorodnosc/spektrum_autyzmu.md` | `wiki/zaburzenia/asd.md` |
 | 2026-07-29 | `wiki/etyka/etyka_badan.md` | `wiki/seminarium_dyplomowe/etyka_badan.md` |
 | 2026-07-29 | `wiki/etyka/etyka_badan.md` | `wiki/wstep_do_psychologii/etyka_badan_psychologicznych.md` |
+| 2026-07-29 | `wiki/neuroroznorodnosc/adhd.md` | `wiki/zaburzenia/adhd.md` |
+| 2026-07-29 | `wiki/podstawy_pomocy/wsparcie_spoleczne.md` | `wiki/psychologia_zdrowia/wsparcie_spoleczne.md` |
+| 2026-07-29 | `wiki/rezyliencja_i_mobbing/wypalenie_zawodowe.md` | `wiki/psychologia_zdrowia/wypalenie_zawodowe.md` |

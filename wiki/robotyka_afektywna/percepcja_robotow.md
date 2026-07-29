@@ -86,7 +86,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Percepcja i ocena robotów przez ludzi" pokazuje, że największą wartość ma łączenie perspektywy technicznej z analizą relacji człowiek-maszyna, norm społecznych i odpowiedzialności projektowej.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak jak ludzie postrzegają roboty?, skala nars - negatywne postawy wobec robotów oraz wpływ doświadczenia na percepcję pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

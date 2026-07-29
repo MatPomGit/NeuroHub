@@ -158,7 +158,6 @@ Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwyk
 
 Temat "Tajemnica zawodowa psychologa w diagnozie" pokazuje, że najbardziej użyteczna diagnoza łączy precyzję metodologiczną z uważnością na kontekst, relację i ograniczenia interpretacji.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak definicja i znaczenie, tajemnica a dokumentacja diagnostyczna oraz bibliografia zalecana pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

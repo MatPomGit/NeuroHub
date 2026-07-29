@@ -178,7 +178,6 @@ Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwyk
 
 Temat "Obserwacja kliniczna" pokazuje, że najbardziej użyteczna diagnoza łączy precyzję metodologiczną z uważnością na kontekst, relację i ograniczenia interpretacji.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak definicja, rzetelność i trafność obserwacji oraz bibliografia zalecana pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

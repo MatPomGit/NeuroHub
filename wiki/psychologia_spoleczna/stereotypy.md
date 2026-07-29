@@ -122,7 +122,6 @@ Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwyk
 
 Temat "Stereotypy i uprzedzenia" pokazuje, że najważniejsze jest analizowanie jednocześnie procesów indywidualnych i warunków społecznych, które wzmacniają określone zachowania lub przekonania.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak definicje i wzajemne relacje, badania nad stereotypami i uprzedzeniami oraz strategie redukcji stereotypów i uprzedzeń pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

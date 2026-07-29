@@ -72,7 +72,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Promocja zdrowia" pokazuje, że największą wartość ma łączenie perspektywy medycznej z psychologicznym rozumieniem motywacji, stresu i adaptacji.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak promocja zdrowia a profilaktyka, co zwiększa skuteczność programów? oraz przykład pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

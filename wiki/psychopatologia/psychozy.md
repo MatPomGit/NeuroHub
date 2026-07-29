@@ -51,7 +51,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Psychozy i schizofrenia" pokazuje, że najbardziej użyteczna perspektywa łączy opis symptomów z rozumieniem procesu, różnicowaniem i planowaniem interwencji.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak czym jest psychoza?, kryteria dsm-5 oraz leczenie pokazuje pełny zakres omawianego zjawiska.
 

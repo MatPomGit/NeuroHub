@@ -90,7 +90,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Oś HPA i mechanizmy stresu psychosomatycznego" pokazuje, że największą wartość ma integrowanie danych biologicznych, emocjonalnych i relacyjnych bez redukcjonizmu w żadną stronę.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak anatomia i fizjologia osi hpa, dysregulacja osi hpa - patologiczne wzorce oraz znaczenie kliniczne dla psychosomatyki pokazuje pełny zakres omawianego zjawiska.
 

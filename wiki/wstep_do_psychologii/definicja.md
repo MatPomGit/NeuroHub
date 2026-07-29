@@ -42,7 +42,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Neuropsychologia - Definicja i zakres" pokazuje, że najważniejsze jest traktowanie psychologii jako nauki o złożonych zależnościach, a nie zbioru prostych definicji.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero zestawienie takich obszarów jak główne obszary oraz tradycje: lokalizacjonizm vs. holizm pokazuje pełny ciężar omawianego zagadnienia.
 

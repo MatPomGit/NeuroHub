@@ -103,7 +103,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Aktywność poznawcza w późnej dorosłości" pokazuje, że największą wartość ma ujmowanie starzenia na przecięciu biologii, relacji społecznych, zdrowia i poczucia sensu.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak dlaczego jest tak ważna?, zasady skutecznego treningu oraz rola specjalistów pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

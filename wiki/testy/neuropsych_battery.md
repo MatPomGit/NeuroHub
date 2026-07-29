@@ -94,7 +94,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Baterie neuropsychologiczne" pokazuje, że najważniejsze pozostaje odróżnianie pomiaru od decyzji diagnostycznej oraz łączenie danych testowych z obserwacją i wywiadem.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak czym jest bateria neuropsychologiczna?, cambridge neuropsychological test automated battery (cantab) oraz wybór baterii do kontekstu klinicznego pokazuje pełny zakres omawianego zjawiska.
 

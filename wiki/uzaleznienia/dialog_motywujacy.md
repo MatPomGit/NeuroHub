@@ -140,7 +140,6 @@ Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwyk
 
 Temat "Dialog motywujący (Motivational Interviewing)" pokazuje, że najbardziej użyteczne jest łączenie perspektywy neurobiologicznej, motywacyjnej i środowiskowej przy planowaniu wsparcia.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak historia i rozwój, transteoretyczny model zmiany (prochaska i diclemente) oraz ograniczenia i krytyka pokazuje pełny zakres omawianego zjawiska.
 

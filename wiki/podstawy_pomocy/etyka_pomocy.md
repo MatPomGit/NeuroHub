@@ -114,7 +114,6 @@ Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwyk
 
 Temat "Etyka pomocy psychologicznej" pokazuje, że najważniejsze jest traktowanie pomocy jako procesu wymagającego zarówno empatii, jak i struktury, kompetencji oraz samoograniczenia.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak fundamenty etyczne, podwójna rola i konflikty interesów oraz zobacz też pokazuje pełny zakres omawianego zjawiska.
 

@@ -40,7 +40,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Tożsamość płciowa" pokazuje, że najbardziej użyteczne wnioski wynikają z łączenia perspektywy biologicznej, relacyjnej i rozwojowej bez moralizowania i redukcjonizmu.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak czym jest tożsamość płciowa?, dysforia płciowa (dsm-5) oraz podejście afirmatywne pokazuje pełny zakres omawianego zjawiska.
 

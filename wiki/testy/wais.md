@@ -108,7 +108,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Skale Wechslera - WAIS, WISC i WPPSI" pokazuje, że najważniejsze pozostaje odróżnianie pomiaru od decyzji diagnostycznej oraz łączenie danych testowych z obserwacją i wywiadem.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak historia i twórca, efekt flynna oraz ograniczenia i kontrowersje pokazuje pełny zakres omawianego zjawiska.
 

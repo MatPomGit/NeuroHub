@@ -137,7 +137,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Katalog potrzeb w NVC" pokazuje, że największą wartość ma traktowanie komunikacji jako praktyki rozpoznawania potrzeb i odpowiedzialnego wpływu, a nie tylko doboru słów.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak czym są potrzeby w rozumieniu nvc?, kategorie potrzeb oraz empatia dla potrzeb drugiej osoby pokazuje pełny zakres omawianego zjawiska.
 

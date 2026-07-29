@@ -117,7 +117,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Język szakala i żyrafy" pokazuje, że największą wartość ma traktowanie komunikacji jako praktyki rozpoznawania potrzeb i odpowiedzialnego wpływu, a nie tylko doboru słów.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak metafora zwierząt w nvc, dwa uszy żyrafy i dwa uszy szakala oraz praktyczne ćwiczenie pokazuje pełny zakres omawianego zjawiska.
 

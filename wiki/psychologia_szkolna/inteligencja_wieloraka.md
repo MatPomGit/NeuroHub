@@ -76,7 +76,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Teoria inteligencji wielorakich" pokazuje, że najbardziej użyteczne są wnioski, które łączą perspektywę ucznia, nauczyciela i systemu edukacyjnego.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak osiem inteligencji, krytyka teorii oraz porównanie z triadyczną teorią sternberga pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

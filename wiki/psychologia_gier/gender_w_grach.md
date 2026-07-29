@@ -144,7 +144,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Płeć i tożsamość w grach" pokazuje, że najbardziej trafne wnioski wymagają odróżnienia efektów samej gry od efektów kontekstu używania, podatności indywidualnych i funkcji, jaką gra pełni dla użytkownika.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak płeć w przestrzeni gier - zarys problemu, nękanie kobiet w grach online oraz wpływ reprezentacji na graczy pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

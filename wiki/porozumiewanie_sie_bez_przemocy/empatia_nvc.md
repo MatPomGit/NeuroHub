@@ -108,7 +108,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Empatia w NVC" pokazuje, że największą wartość ma traktowanie komunikacji jako praktyki rozpoznawania potrzeb i odpowiedzialnego wpływu, a nie tylko doboru słów.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak czym jest empatia w rozumieniu nvc?, empatia wobec siebie (autoempatia) oraz empatia a granice pokazuje pełny zakres omawianego zjawiska.
 

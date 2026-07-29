@@ -92,7 +92,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Umieranie i śmierć w geropsychologii" pokazuje, że największą wartość ma ujmowanie starzenia na przecięciu biologii, relacji społecznych, zdrowia i poczucia sensu.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak psychologiczne aspekty końca życia, rola rodziny oraz żałoba po śmierci osoby starszej pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

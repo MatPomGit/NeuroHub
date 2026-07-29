@@ -149,7 +149,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Klasyfikacja i ocena gier (PEGI, ESRB)" pokazuje, że najbardziej trafne wnioski wymagają odróżnienia efektów samej gry od efektów kontekstu używania, podatności indywidualnych i funkcji, jaką gra pełni dla użytkownika.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak dlaczego klasyfikacja gier jest ważna?, loot boxy - kwestia klasyfikacji hazardu oraz przyszłość klasyfikacji gier pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

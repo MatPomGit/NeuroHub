@@ -52,7 +52,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Arteterapia - wprowadzenie" pokazuje, że najważniejsze jest traktowanie technik twórczych jako narzędzi regulacji, symbolizacji i komunikacji, a nie jako uniwersalnej recepty.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak historia i korzenie, mechanizmy działania oraz podstawy empiryczne i pytania otwarte pokazuje pełny zakres omawianego zjawiska.
 

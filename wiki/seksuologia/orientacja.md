@@ -42,7 +42,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Orientacja seksualna" pokazuje, że najbardziej użyteczne wnioski wynikają z łączenia perspektywy biologicznej, relacyjnej i rozwojowej bez moralizowania i redukcjonizmu.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak definicja i wymiary, różnorodność orientacji oraz zdrowie psychiczne pokazuje pełny zakres omawianego zjawiska.
 

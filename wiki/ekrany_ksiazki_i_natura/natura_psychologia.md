@@ -99,7 +99,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Natura a psychologia - teoria przywracania uwagi i redukcja stresu" pokazuje, że najbardziej wartościowe wnioski pojawiają się wtedy, gdy analizuje się wspólnie uwagę, emocje, regenerację i długofalowe nawyki poznawcze.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak człowiek w środowisku naturalnym, badania empiryczne - efekty kontaktu z naturą oraz natura, kreatywność i prosocjalność pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

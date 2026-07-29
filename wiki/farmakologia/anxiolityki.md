@@ -48,7 +48,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Anksjolityki i leki nasenne" pokazuje, że najważniejsze jest łączenie wiedzy o mechanizmach działania z monitorowaniem skuteczności, bezpieczeństwa i współpracy terapeutycznej.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak benzodiazepiny, beta-blokery i leki przeciwhistaminowe oraz bezsenność - zasady leczenia pokazuje pełny zakres omawianego zjawiska.
 

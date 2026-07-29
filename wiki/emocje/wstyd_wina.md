@@ -133,7 +133,6 @@ Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwyk
 
 Temat "Wstyd i wina - emocje samoświadome" pokazuje, że największą wartość ma ujmowanie emocji jednocześnie na poziomie doświadczenia, regulacji i konsekwencji interpersonalnych.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak różnica między wstydem a winą, empatia a wina oraz praca terapeutyczna ze wstydem pokazuje pełny zakres omawianego zjawiska.
 

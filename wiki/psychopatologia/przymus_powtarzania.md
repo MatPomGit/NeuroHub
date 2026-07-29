@@ -445,7 +445,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Przymus powtarzania" pokazuje, że najbardziej użyteczna perspektywa łączy opis symptomów z rozumieniem procesu, różnicowaniem i planowaniem interwencji.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak rys historyczny i definicja freudowska, przymus powtarzania a teorie przywiązania oraz znaczenie kliniczne i praktyczne wskazówki pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

@@ -147,7 +147,6 @@ Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwyk
 
 Temat "Dylematy etyczne w praktyce psychologa" pokazuje, że najbardziej dojrzałe wnioski etyczne wynikają z łączenia zasad, kontekstu sytuacyjnego i refleksji nad skutkami decyzji.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak czym jest dylemat etyczny?, dylematy konfidencjalności oraz dokumentacja i ochrona psychologa pokazuje pełny zakres omawianego zjawiska.
 

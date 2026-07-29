@@ -80,7 +80,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Apraksja" pokazuje, że najbardziej wartościowe podsumowanie wymaga połączenia obrazu klinicznego z różnicowaniem, rokowaniem i implikacjami dla wsparcia.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak definicja i istota problemu, diagnostyka apraksji oraz apraksja w kontekście klinicznym pokazuje pełny zakres omawianego zjawiska.
 

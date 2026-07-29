@@ -120,7 +120,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Narzędzia badawcze i kwestionariusze" pokazuje, że największą wartość daje traktowanie pracy badawczej jako procesu integrowania pytania, metody, analizy i argumentacji.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak klasyfikacja narzędzi badawczych w psychologii, adaptacja narzędzi zagranicznych oraz bateria testów i zbieranie danych pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

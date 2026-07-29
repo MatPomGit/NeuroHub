@@ -140,7 +140,6 @@ Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwyk
 
 Temat "Wiek szkolny - rozwój psychiczny" pokazuje, że najbardziej trafne podsumowanie wymaga łączenia perspektywy etapowej z analizą różnic indywidualnych, kontekstu i plastyczności.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak myślenie operacji konkretnych (piaget), relacje rówieśnicze i grupy społeczne oraz umiejętności akademickie - podstawy neuropsychologiczne pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

@@ -81,7 +81,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Jakość życia osób z niepełnosprawnością" pokazuje, że najważniejsze jest łączenie perspektywy klinicznej z prawami, dostępnością i jakością uczestnictwa w życiu społecznym.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak komponenty jakości życia, co podwyższa jakość życia? oraz implikacje dla praktyki pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

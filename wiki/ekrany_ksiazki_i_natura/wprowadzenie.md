@@ -105,7 +105,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Ekrany, książki i natura - psychologia mediów i środowiska" pokazuje, że najbardziej wartościowe wnioski pojawiają się wtedy, gdy analizuje się wspólnie uwagę, emocje, regenerację i długofalowe nawyki poznawcze.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak czym zajmuje się ta dziedzina?, ramy teoretyczne oraz przegląd artykułów w dziale pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

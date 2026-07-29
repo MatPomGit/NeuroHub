@@ -48,7 +48,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Osobowość - Wielka Piątka" pokazuje, że najważniejsze jest ujmowanie zmienności psychologicznej jako źródła zarówno ryzyka, jak i potencjalnych zasobów.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak czym jest osobowość?, narzędzia pomiarowe oraz inne teorie osobowości pokazuje pełny zakres omawianego zjawiska.
 

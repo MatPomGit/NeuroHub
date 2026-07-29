@@ -160,7 +160,6 @@ Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwyk
 
 Temat "Trauma rozwojowa" pokazuje, że najbardziej trafne podsumowanie wymaga łączenia perspektywy etapowej z analizą różnic indywidualnych, kontekstu i plastyczności.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak definicja i kontekst kliniczny, diagnoza i trudności diagnostyczne oraz reziliencja i czynniki ochronne pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

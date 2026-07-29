@@ -42,7 +42,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Henry Molaison - H.M." pokazuje, że najbardziej użyteczne jest traktowanie studium przypadku jako narzędzia integrowania danych klinicznych, a nie jako gotowego wzorca dla wszystkich pacjentów.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak historia, profil neuropsychologiczny oraz znaczenie naukowe pokazuje pełny zakres omawianego zjawiska.
 

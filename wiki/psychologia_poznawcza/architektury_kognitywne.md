@@ -182,7 +182,24 @@ Trzecim problemem jest kwestia ogólności. Im bardziej architektura jest ogóln
 
 Architektury kognitywne pozostają jednym z najważniejszych obszarów badań łączących psychologię poznawczą, sztuczną inteligencję i robotykę. ACT-R wnosi precyzyjny model pamięci, uwagi i wykonywania procedur, a jego siłą jest związek z danymi empirycznymi dotyczącymi człowieka. Soar oferuje dojrzały mechanizm organizacji działania w kategoriach stanów i operatorów oraz skuteczne uczenie proceduralne przez chunking. OpenCog reprezentuje bardziej integracyjny i ambitny kierunek, ukierunkowany na łączenie wielu typów reprezentacji i procesów poznawczych.
 
-Z perspektywy robotyki poznawczej najważniejszy wniosek jest następujący: skuteczny robot poznawczy rzadko opiera się na jednym czystym paradygmacie. Najbardziej obiecujące systemy łączą modele symboliczne, statystyczne i reaktywne. Korzystają z bogatej pamięci, wielopoziomowego planowania, uczenia się na podstawie doświadczenia i szybkich mechanizmów bezpieczeństwa. Właśnie dlatego przyszłość robotyki poznawczej należy prawdopodobnie do architektur hybrydowych, które potrafią połączyć interpretowalność i strukturę z elastycznością oraz zdolnością uczenia.## Bibliografia
+Z perspektywy robotyki poznawczej najważniejszy wniosek jest następujący: skuteczny robot poznawczy rzadko opiera się na jednym czystym paradygmacie. Najbardziej obiecujące systemy łączą modele symboliczne, statystyczne i reaktywne. Korzystają z bogatej pamięci, wielopoziomowego planowania, uczenia się na podstawie doświadczenia i szybkich mechanizmów bezpieczeństwa. Właśnie dlatego przyszłość robotyki poznawczej należy prawdopodobnie do architektur hybrydowych, które potrafią połączyć interpretowalność i strukturę z elastycznością oraz zdolnością uczenia.
+
+## Perspektywa nieoczywista
+
+Nieoczywista perspektywa na temat "Architektury kognitywne, ACT-R, Soar, OpenCog oraz modele dla robotyki poznawczej" polega na tym, że pojedynczy proces poznawczy najczęściej nie wyjaśnia zachowania samodzielnie; jego znaczenie ujawnia się w relacji do obciążenia, celu działania i innych systemów kontroli.
+
+Dopiero wspólna analiza zagadnień takich jak streszczenie, porównanie act-r, soar i opencog oraz główne problemy badawcze pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
+## Podsumowanie
+
+Temat "Architektury kognitywne, ACT-R, Soar, OpenCog oraz modele dla robotyki poznawczej" pokazuje, że najbardziej użyteczne wnioski pojawiają się wtedy, gdy łączy się opis mechanizmu z ograniczeniami zasobów poznawczych i konsekwencjami praktycznymi.
+
+
+Dopiero wspólna analiza zagadnień takich jak streszczenie, porównanie act-r, soar i opencog oraz główne problemy badawcze pokazuje pełny zakres omawianego zjawiska.
+
+## Bibliografia
 
 Albus, J. S. (2003). *4D/RCS: A reference model architecture for intelligent unmanned ground vehicles*. National Institute of Standards and Technology.
 
@@ -201,18 +218,3 @@ Newell, A. (1990). *Unified theories of cognition*. Harvard University Press.
 Vernon, D., Metta, G., & Sandini, G. (2007). A survey of artificial cognitive systems: Implications for the autonomous development of mental capabilities in computational agents. *IEEE Transactions on Evolutionary Computation, 11*(2), 151-180.
 
 Verschure, P. F. M. J. (2012). Distributed adaptive control: A theory of the mind, brain, body nexus. *Biologically Inspired Cognitive Architectures, 1*, 55-72.
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Architektury kognitywne, ACT-R, Soar, OpenCog oraz modele dla robotyki poznawczej" polega na tym, że pojedynczy proces poznawczy najczęściej nie wyjaśnia zachowania samodzielnie; jego znaczenie ujawnia się w relacji do obciążenia, celu działania i innych systemów kontroli.
-
-Dopiero wspólna analiza zagadnień takich jak streszczenie, porównanie act-r, soar i opencog oraz główne problemy badawcze pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Architektury kognitywne, ACT-R, Soar, OpenCog oraz modele dla robotyki poznawczej" pokazuje, że najbardziej użyteczne wnioski pojawiają się wtedy, gdy łączy się opis mechanizmu z ograniczeniami zasobów poznawczych i konsekwencjami praktycznymi.
-
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
-
-Dopiero wspólna analiza zagadnień takich jak streszczenie, porównanie act-r, soar i opencog oraz główne problemy badawcze pokazuje pełny zakres omawianego zjawiska.

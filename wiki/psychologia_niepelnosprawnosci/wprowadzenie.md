@@ -62,7 +62,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Psychologia niepełnosprawności - wprowadzenie" pokazuje, że najważniejsze jest łączenie perspektywy klinicznej z prawami, dostępnością i jakością uczestnictwa w życiu społecznym.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak czym jest niepełnosprawność?, podstawowe pytania badawcze oraz kluczowe wartości w pracy z osobami z niepełnosprawnościami pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

@@ -72,7 +72,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Suicydologia - wprowadzenie" pokazuje, że najbardziej praktyczne wnioski pojawiają się wtedy, gdy łączy się ocenę ryzyka z analizą funkcji zachowania, wsparcia i możliwości ochronnych.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak zakres i cel dyscypliny, czynniki ryzyka i ochronne oraz szczególne wyzwania etyczne i komunikacyjne pokazuje pełny zakres omawianego zjawiska.
 

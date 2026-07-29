@@ -88,7 +88,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Trudności w uczeniu się" pokazuje, że najbardziej użyteczne są wnioski, które łączą perspektywę ucznia, nauczyciela i systemu edukacyjnego.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak definicja i klasyfikacja, dyskalkulia - trudności w matematyce oraz interwencje oparte na dowodach w polskich szkołach pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

@@ -145,7 +145,6 @@ Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwyk
 
 Temat "Kompetencje kulturowe w psychologii" pokazuje, że najbardziej dojrzałe wnioski etyczne wynikają z łączenia zasad, kontekstu sytuacyjnego i refleksji nad skutkami decyzji.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak definicja i znaczenie, lgbtq+ w praktyce psychologicznej oraz apa multicultural guidelines (2017) pokazuje pełny zakres omawianego zjawiska.
 

@@ -75,7 +75,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Strefa najbliższego rozwoju" pokazuje, że najbardziej użyteczne są wnioski, które łączą perspektywę ucznia, nauczyciela i systemu edukacyjnego.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak definicja i geneza koncepcji, implikacje dla nauczania oraz współczesne badania i rozwinięcia pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

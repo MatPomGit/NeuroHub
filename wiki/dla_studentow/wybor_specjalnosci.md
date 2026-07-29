@@ -84,7 +84,6 @@ Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwyk
 
 Temat "Wybór specjalności na psychologii" pokazuje, że największą wartość daje przekładanie wiedzy akademickiej na konkretne kompetencje, standardy i nawyki profesjonalne.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak specjalizacja a specjalność - najważniejsze różnice, test dopasowania specjalności oraz najczęstsze błędy przy wyborze specjalności pokazuje pełny zakres omawianego zjawiska.
 

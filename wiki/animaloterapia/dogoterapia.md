@@ -80,7 +80,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Dogoterapia (canisterapia)" pokazuje, że największą wartość praktyczną daje łączenie wiedzy o mechanizmie oddziaływania z ostrożnym planowaniem interwencji i oceną efektów.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak historia i definicja, zastosowania kliniczne oraz badania i dowody pokazuje pełny zakres omawianego zjawiska.
 

@@ -147,7 +147,6 @@ Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwyk
 
 Temat "Główne teorie rozwoju psychicznego" pokazuje, że najbardziej trafne podsumowanie wymaga łączenia perspektywy etapowej z analizą różnic indywidualnych, kontekstu i plastyczności.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak teoria stadiów poznawczych jeana piageta, ekologiczny model systemów bronfenbrennera oraz porównanie teorii pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

@@ -177,7 +177,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Neuronauka poznawcza" pokazuje, że najważniejsze jest łączenie wiedzy anatomicznej, poznawczej i klinicznej, aby przełożyć opis mechanizmu na rozumienie funkcjonowania człowieka.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak czym jest neuronauka poznawcza?, metody neuronauki poznawczej oraz przyszłość: neuronauka obliczeniowa i sztuczna inteligencja pokazuje pełny zakres omawianego zjawiska.
 

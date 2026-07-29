@@ -111,7 +111,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "**Profil sensoryczny u osób neuroróżnorodnych**" pokazuje, że kluczowe pozostaje łączenie wsparcia funkcjonalnego z redukowaniem barier środowiskowych i stygmatyzacji.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak modele teoretyczne profilu sensorycznego, polska, a praktyki międzynarodowe oraz praktyczne wskazówki dla studentów i praktyków pokazuje pełny zakres omawianego zjawiska.
 

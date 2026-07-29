@@ -46,7 +46,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Zaburzenia nastroju" pokazuje, że najbardziej użyteczna perspektywa łączy opis symptomów z rozumieniem procesu, różnicowaniem i planowaniem interwencji.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak epizod depresyjny, choroba afektywna dwubiegunowa (chad) oraz leczenie pokazuje pełny zakres omawianego zjawiska.
 

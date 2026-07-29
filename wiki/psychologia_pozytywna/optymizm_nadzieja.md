@@ -72,7 +72,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Optymizm i nadzieja w psychologii pozytywnej" pokazuje, że największą wartość ma traktowanie zasobów psychicznych jako praktyk podtrzymujących sens, relacyjność i samoregulację, a nie jako zestawu haseł motywacyjnych.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak optymizm jako konstrukt psychologiczny, nauczana bezradność a optymizm oraz korzyści zdrowotne i wydajnościowe pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

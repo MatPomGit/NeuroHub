@@ -81,7 +81,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Aktywność fizyczna a zdrowie psychiczne" pokazuje, że największą wartość ma łączenie perspektywy medycznej z psychologicznym rozumieniem motywacji, stresu i adaptacji.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak jak ruch wpływa na psychikę?, bariery i jak je przełamywać oraz przykład pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

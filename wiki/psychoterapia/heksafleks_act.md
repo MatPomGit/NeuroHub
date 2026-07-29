@@ -299,7 +299,6 @@ Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwyk
 
 Temat "Heksafleks ACT - model elastyczności psychologicznej" pokazuje, że najbardziej praktyczne wnioski wynikają z łączenia modelu teoretycznego z uważnością na proces zmiany, relację i ograniczenia danej metody.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak geneza i podstawy teoretyczne, podstawy empiryczne - przegląd badań oraz bibliografia kluczowa pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

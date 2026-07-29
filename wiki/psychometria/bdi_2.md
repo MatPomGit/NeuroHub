@@ -133,7 +133,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "bdi 2" pokazuje, że najważniejsze pozostaje odróżnianie pomiaru od interpretacji oraz świadome uwzględnianie ograniczeń metodologicznych narzędzia.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 ## Bibliografia
 

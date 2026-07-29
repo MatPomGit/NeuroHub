@@ -82,7 +82,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Empatia i współczucie" pokazuje, że największą wartość ma ujmowanie emocji jednocześnie na poziomie doświadczenia, regulacji i konsekwencji interpersonalnych.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak definicje i rozróżnienia, dysfunkcje empatii oraz empatia w codziennym życiu - praktyczne zastosowanie pokazuje pełny zakres omawianego zjawiska.
 

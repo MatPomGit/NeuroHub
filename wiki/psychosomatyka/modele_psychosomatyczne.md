@@ -81,7 +81,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Modele psychosomatyczne" pokazuje, że największą wartość ma integrowanie danych biologicznych, emocjonalnych i relacyjnych bez redukcjonizmu w żadną stronę.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak model specyficzności (alexander), model aleksytymii (sifneos, 1973) oraz podejście systemowe i salutogenetyczne pokazuje pełny zakres omawianego zjawiska.
 

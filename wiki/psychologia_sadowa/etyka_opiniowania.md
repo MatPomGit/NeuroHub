@@ -77,7 +77,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Etyka opiniowania sądowego" pokazuje, że kluczowe pozostaje łączenie standardów naukowych, prawnych i etycznych przy formułowaniu opinii oraz ograniczeń wnioskowania.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak fundamenty etyczne roli biegłego, bezstronność i niezawisłość oraz tajemnica zawodowa a obowiązki procesowe pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

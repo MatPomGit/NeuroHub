@@ -42,7 +42,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Testy przesiewowe" pokazuje, że najważniejsze pozostaje odróżnianie pomiaru od decyzji diagnostycznej oraz łączenie danych testowych z obserwacją i wywiadem.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak mmse - mini-mental state examination, mini-cog oraz bibliografia (apa 7) pokazuje pełny zakres omawianego zjawiska.
 

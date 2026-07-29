@@ -144,7 +144,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Pisanie i interpretacja wyników" pokazuje, że największą wartość daje traktowanie pracy badawczej jako procesu integrowania pytania, metody, analizy i argumentacji.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak rozdział wyników - zasady, wykresy oraz pisanie językiem naukowym pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

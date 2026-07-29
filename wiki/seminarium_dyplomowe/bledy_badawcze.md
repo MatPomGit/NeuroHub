@@ -184,7 +184,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Typowe błędy badawcze - czego unikać" pokazuje, że największą wartość daje traktowanie pracy badawczej jako procesu integrowania pytania, metody, analizy i argumentacji.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak błędy na etapie projektowania badania, błędy w zbieraniu danych oraz błędy interpretacyjne pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

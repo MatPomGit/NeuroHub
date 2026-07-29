@@ -87,7 +87,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Opiniowanie psychologiczne w sprawach rodzinnych i opiekuńczych" pokazuje, że kluczowe pozostaje łączenie standardów naukowych, prawnych i etycznych przy formułowaniu opinii oraz ograniczeń wnioskowania.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak specyfika postępowań rodzinnych, alienacja rodzicielska oraz standardy etyczne i ograniczenia pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

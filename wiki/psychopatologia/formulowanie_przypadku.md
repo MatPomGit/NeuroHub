@@ -148,7 +148,6 @@ Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwyk
 
 Temat "Formułowanie przypadku klinicznego" pokazuje, że najbardziej użyteczna perspektywa łączy opis symptomów z rozumieniem procesu, różnicowaniem i planowaniem interwencji.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak formułowanie w terapii poznawczo-behawioralnej - model persons, model 5p - ramy kliniczne oraz etyczne aspekty formułowania pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

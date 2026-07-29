@@ -151,7 +151,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Depresja u osób starszych" pokazuje, że największą wartość ma ujmowanie starzenia na przecięciu biologii, relacji społecznych, zdrowia i poczucia sensu.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak epidemiologia i specyfika kliniczna, narzędzia diagnostyczne oraz profilaktyka i promocja zdrowia psychicznego pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

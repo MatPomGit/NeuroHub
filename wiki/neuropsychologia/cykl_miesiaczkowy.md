@@ -213,7 +213,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Neuropsychologia cyklu miesiączkowego" pokazuje, że najważniejsze jest łączenie wiedzy anatomicznej, poznawczej i klinicznej, aby przełożyć opis mechanizmu na rozumienie funkcjonowania człowieka.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak fazy cyklu miesiączkowego, miesiączka a ból i percepcja oraz znaczenie kliniczne pokazuje pełny zakres omawianego zjawiska.
 

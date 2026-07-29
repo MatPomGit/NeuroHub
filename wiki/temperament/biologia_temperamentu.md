@@ -101,7 +101,6 @@ Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwyk
 
 Temat "Biologiczne podłoże temperamentu" pokazuje, że najbardziej wartościowe jest ujmowanie temperamentu w relacji do rozwoju, stresu i strategii regulacyjnych, a nie jako sztywnej etykiety.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak genetyka temperamentu, oś hpa a reaktywność emocjonalna oraz epigenetyka temperamentu pokazuje pełny zakres omawianego zjawiska.
 

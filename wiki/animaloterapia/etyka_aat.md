@@ -94,7 +94,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Etyka i dobrostan zwierząt w AAT" pokazuje, że największą wartość praktyczną daje łączenie wiedzy o mechanizmie oddziaływania z ostrożnym planowaniem interwencji i oceną efektów.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak model 5 wolności (five freedoms), konflikt interesów terapeutycznych oraz ramy etyczne organizacji pokazuje pełny zakres omawianego zjawiska.
 

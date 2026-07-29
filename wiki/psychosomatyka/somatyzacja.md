@@ -99,7 +99,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Somatyzacja i zaburzenia somatyczne" pokazuje, że największą wartość ma integrowanie danych biologicznych, emocjonalnych i relacyjnych bez redukcjonizmu w żadną stronę.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak definicja i epidemiologia, najczęstsze objawy somatyzacji oraz leczenie pokazuje pełny zakres omawianego zjawiska.
 

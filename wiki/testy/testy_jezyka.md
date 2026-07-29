@@ -88,7 +88,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Testy językowe w neuropsychologii" pokazuje, że najważniejsze pozostaje odróżnianie pomiaru od decyzji diagnostycznej oraz łączenie danych testowych z obserwacją i wywiadem.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak komponenty języka i ich ocena, testy czytania i pisania oraz diagnostyka afazji pierwotnej postępującej (ppa) pokazuje pełny zakres omawianego zjawiska.
 

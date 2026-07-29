@@ -131,7 +131,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Zaufanie do sztucznej inteligencji" pokazuje, że kluczowe pozostaje łączenie perspektywy technologicznej z psychologiczną analizą decyzji, emocji i skutków społecznych.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak czym jest zaufanie do ai?, kulturowe różnice w zaufaniu do ai oraz implikacje dla projektowania ai pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

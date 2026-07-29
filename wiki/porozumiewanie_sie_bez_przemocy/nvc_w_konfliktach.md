@@ -109,7 +109,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "NVC w rozwiązywaniu konfliktów" pokazuje, że największą wartość ma traktowanie komunikacji jako praktyki rozpoznawania potrzeb i odpowiedzialnego wpływu, a nie tylko doboru słów.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak konflikt przez pryzmat nvc, model mediacji nvc - kroki oraz nvc a inne modele rozwiązywania konfliktów pokazuje pełny zakres omawianego zjawiska.
 

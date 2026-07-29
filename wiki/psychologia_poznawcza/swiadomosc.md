@@ -106,7 +106,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Świadomość i metapoznanie" pokazuje, że najbardziej użyteczne wnioski pojawiają się wtedy, gdy łączy się opis mechanizmu z ograniczeniami zasobów poznawczych i konsekwencjami praktycznymi.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak czym jest świadomość?, stany zmienionej świadomości oraz nieświadomość poznawcza pokazuje pełny zakres omawianego zjawiska.
 

@@ -159,7 +159,6 @@ Krytyki modelu Marlatta obejmują:
 
 Temat "Zapobieganie nawrotom (Relapse Prevention)" pokazuje, że najbardziej użyteczne jest łączenie perspektywy neurobiologicznej, motywacyjnej i środowiskowej przy planowaniu wsparcia.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak model marlatta i gordon, efekt naruszenia abstynencji (ave) oraz ograniczenia modelu pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

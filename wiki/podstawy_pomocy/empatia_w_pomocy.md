@@ -89,7 +89,6 @@ Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwyk
 
 Temat "Empatia w pomocy psychologicznej" pokazuje, że najważniejsze jest traktowanie pomocy jako procesu wymagającego zarówno empatii, jak i struktury, kompetencji oraz samoograniczenia.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak empatia jako fundament pomocy, granica między empatią a fuzją oraz zobacz też pokazuje pełny zakres omawianego zjawiska.
 

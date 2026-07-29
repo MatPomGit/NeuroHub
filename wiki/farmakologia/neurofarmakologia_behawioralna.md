@@ -165,7 +165,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Behawioralna neurofarmakologia" pokazuje, że najważniejsze jest łączenie wiedzy o mechanizmach działania z monitorowaniem skuteczności, bezpieczeństwa i współpracy terapeutycznej.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak streszczenie, behawioralna neurofarmakologia w wybranych zaburzeniach oraz najważniejsza bibliografia pokazuje pełny zakres omawianego zjawiska.
 

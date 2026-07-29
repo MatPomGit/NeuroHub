@@ -95,7 +95,6 @@ Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwyk
 
 Temat "Kryzys psychologiczny i interwencja" pokazuje, że najważniejsze jest traktowanie pomocy jako procesu wymagającego zarówno empatii, jak i struktury, kompetencji oraz samoograniczenia.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak czym jest kryzys psychologiczny?, interwencja kryzysowa oraz zobacz też pokazuje pełny zakres omawianego zjawiska.
 

@@ -242,7 +242,24 @@ Najważniejszy wniosek płynący z analizy modeli umysłu jest taki, że poznani
 
 W tym sensie nauki kognitywne nie dostarczają jednej zamkniętej teorii umysłu, lecz raczej rozwijają coraz bogatszy zestaw narzędzi do badania poznania. Ich wartość polega właśnie na tym, że pozwalają łączyć precyzję modelowania z otwartością na złożoność człowieka.
 
----## Bibliografia
+---
+
+## Perspektywa nieoczywista
+
+Nieoczywista perspektywa na temat "Nauki kognitywne, modele umysłu i przetwarzanie informacji przez człowieka" polega na tym, że pojedynczy proces poznawczy najczęściej nie wyjaśnia zachowania samodzielnie; jego znaczenie ujawnia się w relacji do obciążenia, celu działania i innych systemów kontroli.
+
+Dopiero wspólna analiza zagadnień takich jak geneza i charakter nauk kognitywnych, koneksjonizm i modele sub-symboliczne oraz zakończenie pokazuje pełny zakres omawianego zjawiska.
+
+Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+
+## Podsumowanie
+
+Temat "Nauki kognitywne, modele umysłu i przetwarzanie informacji przez człowieka" pokazuje, że najbardziej użyteczne wnioski pojawiają się wtedy, gdy łączy się opis mechanizmu z ograniczeniami zasobów poznawczych i konsekwencjami praktycznymi.
+
+
+Dopiero wspólna analiza zagadnień takich jak geneza i charakter nauk kognitywnych, koneksjonizm i modele sub-symboliczne oraz zakończenie pokazuje pełny zakres omawianego zjawiska.
+
+## Bibliografia
 
 Anderson, J. R. (2015). *Cognitive Psychology and Its Implications* (8th ed.). New York: Worth Publishers.
 
@@ -307,18 +324,3 @@ Sperling, G. (1960). The information available in brief visual presentations. *P
 Varela, F. J., Thompson, E., & Rosch, E. (1991). *The Embodied Mind: Cognitive Science and Human Experience*. Cambridge, MA: MIT Press.
 
 ---
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Nauki kognitywne, modele umysłu i przetwarzanie informacji przez człowieka" polega na tym, że pojedynczy proces poznawczy najczęściej nie wyjaśnia zachowania samodzielnie; jego znaczenie ujawnia się w relacji do obciążenia, celu działania i innych systemów kontroli.
-
-Dopiero wspólna analiza zagadnień takich jak geneza i charakter nauk kognitywnych, koneksjonizm i modele sub-symboliczne oraz zakończenie pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Nauki kognitywne, modele umysłu i przetwarzanie informacji przez człowieka" pokazuje, że najbardziej użyteczne wnioski pojawiają się wtedy, gdy łączy się opis mechanizmu z ograniczeniami zasobów poznawczych i konsekwencjami praktycznymi.
-
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
-
-Dopiero wspólna analiza zagadnień takich jak geneza i charakter nauk kognitywnych, koneksjonizm i modele sub-symboliczne oraz zakończenie pokazuje pełny zakres omawianego zjawiska.

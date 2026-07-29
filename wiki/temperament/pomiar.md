@@ -46,7 +46,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Pomiar temperamentu" pokazuje, że najbardziej wartościowe jest ujmowanie temperamentu w relacji do rozwoju, stresu i strategii regulacyjnych, a nie jako sztywnej etykiety.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak metody pomiaru, dots i dots-r (dimensions of temperament survey) oraz porównanie metod pokazuje pełny zakres omawianego zjawiska.
 

@@ -126,7 +126,6 @@ Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwyk
 
 Temat "Świadoma zgoda (informed consent)" pokazuje, że najbardziej dojrzałe wnioski etyczne wynikają z łączenia zasad, kontekstu sytuacyjnego i refleksji nad skutkami decyzji.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak trzy komponenty świadomej zgody, zgoda w badaniach vs. terapia oraz dokumentacja pokazuje pełny zakres omawianego zjawiska.
 

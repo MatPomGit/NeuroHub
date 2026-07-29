@@ -115,7 +115,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Shinrin-yoku - kąpiel leśna a zdrowie psychiczne i funkcje poznawcze" pokazuje, że najbardziej wartościowe wnioski pojawiają się wtedy, gdy analizuje się wspólnie uwagę, emocje, regenerację i długofalowe nawyki poznawcze.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak czym jest shinrin-yoku?, funkcje poznawcze - uwaga i kreatywność oraz praktyczne rekomendacje pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

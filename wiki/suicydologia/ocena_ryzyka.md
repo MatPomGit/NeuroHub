@@ -49,7 +49,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Ocena ryzyka samobójczego" pokazuje, że najbardziej praktyczne wnioski pojawiają się wtedy, gdy łączy się ocenę ryzyka z analizą funkcji zachowania, wsparcia i możliwości ochronnych.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak zasady oceny ryzyka, czynniki ryzyka w wywiadzie klinicznym oraz poziomy ryzyka i odpowiedź kliniczna pokazuje pełny zakres omawianego zjawiska.
 

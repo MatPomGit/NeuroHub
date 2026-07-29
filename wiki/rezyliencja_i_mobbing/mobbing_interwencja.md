@@ -133,7 +133,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Interwencja i zapobieganie mobbingowi" pokazuje, że najważniejsze jest łączenie profilaktyki indywidualnej z analizą środowiska pracy, procedur i kultury organizacyjnej.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak dlaczego prewencja jest kluczowa, wsparcie psychologiczne dla ofiar oraz przykład interwencji organizacyjnej pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

@@ -120,7 +120,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Praktyka NVC w codziennym życiu" pokazuje, że największą wartość ma traktowanie komunikacji jako praktyki rozpoznawania potrzeb i odpowiedzialnego wpływu, a nie tylko doboru słów.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak nvc jako praktyka, nie tylko technika, przeszkody w codziennej praktyce oraz zasoby do nauki nvc pokazuje pełny zakres omawianego zjawiska.
 

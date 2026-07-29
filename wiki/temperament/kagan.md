@@ -104,7 +104,6 @@ Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwyk
 
 Temat "Temperament Kagana - zahamowanie behawioralne i inhibicja" pokazuje, że najbardziej wartościowe jest ujmowanie temperamentu w relacji do rozwoju, stresu i strategii regulacyjnych, a nie jako sztywnej etykiety.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak jerome kagan i podłużne badania temperamentu, stabilność zahamowania behawioralnego oraz implikacje praktyczne pokazuje pełny zakres omawianego zjawiska.
 

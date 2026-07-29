@@ -151,7 +151,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Gry wideo a dzieci i nastolatki" pokazuje, że najbardziej trafne wnioski wymagają odróżnienia efektów samej gry od efektów kontekstu używania, podatności indywidualnych i funkcji, jaką gra pełni dla użytkownika.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak dzieci w cyfrowym świecie, rodzicielstwo a gry wideo oraz ochrona dzieci w środowisku gier pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

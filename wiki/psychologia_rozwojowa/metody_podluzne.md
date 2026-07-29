@@ -135,7 +135,6 @@ Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwyk
 
 Temat "Metody badań podłużnych w psychologii rozwojowej" pokazuje, że najbardziej trafne podsumowanie wymaga łączenia perspektywy etapowej z analizą różnic indywidualnych, kontekstu i plastyczności.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak podstawowe plany badawcze, słynne badania podłużne oraz nowe kierunki metodologiczne pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

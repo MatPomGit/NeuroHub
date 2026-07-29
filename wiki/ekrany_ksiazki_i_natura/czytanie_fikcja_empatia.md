@@ -93,7 +93,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Czytanie fikcji a empatia i teoria umysłu" pokazuje, że najbardziej wartościowe wnioski pojawiają się wtedy, gdy analizuje się wspólnie uwagę, emocje, regenerację i długofalowe nawyki poznawcze.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak fikcja jako laboratorium emocji, empatia narracyjna i regulacja emocji oraz empatia a trudne narracje pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

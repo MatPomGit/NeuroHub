@@ -133,7 +133,6 @@ Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwyk
 
 Temat "Style rodzicielskie i wychowanie" pokazuje, że najbardziej trafne podsumowanie wymaga łączenia perspektywy etapowej z analizą różnic indywidualnych, kontekstu i plastyczności.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak model baumrind: trzy style rodzicielskie, determinanty stylu rodzicielskiego oraz interwencje i programy rodzicielskie pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

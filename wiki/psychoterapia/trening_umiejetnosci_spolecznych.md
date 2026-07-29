@@ -207,7 +207,6 @@ Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwyk
 
 Temat "Trening Umiejętności Społecznych (SST)" pokazuje, że najbardziej praktyczne wnioski wynikają z łączenia modelu teoretycznego z uważnością na proces zmiany, relację i ograniczenia danej metody.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak rys historyczny i podstawy teoretyczne, narzędzia pomiarowe i operacjonalizacja oraz bibliografia (rozszerzona) pokazuje pełny zakres omawianego zjawiska.
 

@@ -72,7 +72,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Efekt placebo w psychologii zdrowia" pokazuje, że największą wartość ma łączenie perspektywy medycznej z psychologicznym rozumieniem motywacji, stresu i adaptacji.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak co uruchamia efekt placebo?, znaczenie kliniczne oraz przykład pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

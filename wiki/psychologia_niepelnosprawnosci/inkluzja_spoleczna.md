@@ -98,7 +98,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Inkluzja społeczna i prawa" pokazuje, że najważniejsze jest łączenie perspektywy klinicznej z prawami, dostępnością i jakością uczestnictwa w życiu społecznym.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak podstawy prawne, inkluzja edukacyjna oraz rola psychologa w promowaniu inkluzji pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

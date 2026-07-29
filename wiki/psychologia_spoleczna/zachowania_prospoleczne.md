@@ -142,7 +142,6 @@ Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwyk
 
 Temat "Zachowania prospołeczne" pokazuje, że najważniejsze jest analizowanie jednocześnie procesów indywidualnych i warunków społecznych, które wzmacniają określone zachowania lub przekonania.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak teorie altruizmu, normy społeczne regulujące pomaganie oraz empatia jako fundament zachowań prospołecznych pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

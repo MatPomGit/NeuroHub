@@ -84,7 +84,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Narzędzia diagnostyczne w opiniowaniu sądowym" pokazuje, że kluczowe pozostaje łączenie standardów naukowych, prawnych i etycznych przy formułowaniu opinii oraz ograniczeń wnioskowania.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak wprowadzenie - specyfika doboru narzędzi forensycznych, narzędzia oceny ryzyka przemocy oraz narzędzia specjalistyczne w opiniowaniu dzieci pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

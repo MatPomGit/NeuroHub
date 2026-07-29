@@ -83,7 +83,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Stres i zdrowie" pokazuje, że największą wartość ma łączenie perspektywy medycznej z psychologicznym rozumieniem motywacji, stresu i adaptacji.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak jak stres działa na organizm?, czynniki ochronne oraz przykład kliniczny pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

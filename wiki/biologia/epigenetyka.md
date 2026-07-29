@@ -101,7 +101,6 @@ Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwyk
 
 Temat "Epigenetyka a zdrowie psychiczne: mechanizmy molekularne, rozwój i implikacje kliniczne" pokazuje, że kluczowe pozostaje łączenie poziomu biologicznego z funkcjonalnym, aby uniknąć uproszczenia złożonych zjawisk psychicznych do jednej przyczyny.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak główne mechanizmy epigenetyczne, metody badawcze i ograniczenia oraz bibliografia (wybór) pokazuje pełny zakres omawianego zjawiska.
 

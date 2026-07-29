@@ -88,7 +88,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Metodologia sporządzania opinii psychologicznej" pokazuje, że kluczowe pozostaje łączenie standardów naukowych, prawnych i etycznych przy formułowaniu opinii oraz ograniczeń wnioskowania.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak ogólne zasady metodologiczne, specyfika wywiadu sądowego oraz ocena symulacji i agrawacji pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

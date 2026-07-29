@@ -323,7 +323,6 @@ Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwyk
 
 Temat "Eksperyment Posnera - paradygmat sterowania uwagą" pokazuje, że najbardziej użyteczne wnioski pojawiają się wtedy, gdy łączy się opis mechanizmu z ograniczeniami zasobów poznawczych i konsekwencjami praktycznymi.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak kontekst historyczny i twórca, warianty i rozszerzenia paradygmatu oraz wybrane pozycje bibliograficzne pokazuje pełny zakres omawianego zjawiska.
 

@@ -172,7 +172,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Neurobiologia człowieka w kontekście przesilenia wiosennego" pokazuje, że najważniejsze jest łączenie wiedzy anatomicznej, poznawczej i klinicznej, aby przełożyć opis mechanizmu na rozumienie funkcjonowania człowieka.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak czym jest przesilenie wiosenne z perspektywy biologicznej?, rytm dobowy - resynchronizacja wiosenna oraz kulturowe i ewolucyjne aspekty przesilenia wiosennego pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

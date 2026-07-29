@@ -101,7 +101,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Głębokie czytanie - procesy poznawcze i ich zanikanie" pokazuje, że najbardziej wartościowe wnioski pojawiają się wtedy, gdy analizuje się wspólnie uwagę, emocje, regenerację i długofalowe nawyki poznawcze.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak procesy poznawcze głębokiego czytania, brak głębokiego czytania - implikacje oraz strategie przywracania głębokiego czytania pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

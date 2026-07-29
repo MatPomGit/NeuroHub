@@ -136,7 +136,6 @@ Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwyk
 
 Temat "Plastyczność mózgu a okresy krytyczne" pokazuje, że najbardziej trafne podsumowanie wymaga łączenia perspektywy etapowej z analizą różnic indywidualnych, kontekstu i plastyczności.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak mechanizmy neuroplastyczności, okresy wrażliwe vs. krytyczne oraz implikacje dla edukacji i terapii pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

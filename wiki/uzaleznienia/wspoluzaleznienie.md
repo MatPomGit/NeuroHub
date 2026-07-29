@@ -156,7 +156,6 @@ Część badaczy preferuje terminy opisowe: **traumatyczne przywiązanie**, **wy
 
 Temat "Współuzależnienie" pokazuje, że najbardziej użyteczne jest łączenie perspektywy neurobiologicznej, motywacyjnej i środowiskowej przy planowaniu wsparcia.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak historia pojęcia, dorosłe dzieci alkoholików (dda/acoa) oraz kontrowersje i ograniczenia pojęcia pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

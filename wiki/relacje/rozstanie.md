@@ -174,7 +174,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Rozpad związku i żałoba relacyjna" pokazuje, że najbardziej użyteczne jest ujmowanie relacji jako systemu współregulacji, negocjacji granic i wzajemnych interpretacji.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak psychologiczne konsekwencje rozstania, konsekwencje dla zdrowia psychicznego oraz bibliografia (apa 7) pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

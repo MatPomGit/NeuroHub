@@ -236,7 +236,6 @@ Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwyk
 
 Temat "Depresja poporodowa" pokazuje, że najbardziej użyteczna perspektywa łączy opis symptomów z rozumieniem procesu, różnicowaniem i planowaniem interwencji.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak klasyfikacje i oznaczenia kodowe, różnicowanie diagnostyczne oraz podejście kliniczne - praktyczne wskazówki pokazuje pełny zakres omawianego zjawiska.
 

@@ -83,7 +83,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Horror panpsychizmu" pokazuje, że najbardziej wartościowe podsumowanie wymaga odróżnienia tego, co logicznie możliwe, od tego, co epistemicznie uzasadnione i praktycznie doniosłe.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak czym jest panpsychizm?, kombinacyjny problem oraz panpsychizm a nauka pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

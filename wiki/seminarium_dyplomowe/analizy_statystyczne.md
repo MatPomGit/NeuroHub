@@ -133,7 +133,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Analizy statystyczne w badaniach psychologicznych" pokazuje, że największą wartość daje traktowanie pracy badawczej jako procesu integrowania pytania, metody, analizy i argumentacji.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak planowanie analiz przed zbieraniem danych, przedziały ufności oraz statystyki bayesowskie pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

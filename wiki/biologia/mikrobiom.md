@@ -90,7 +90,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Oś jelita–mózg (microbiome–gut–brain axis)" pokazuje, że kluczowe pozostaje łączenie poziomu biologicznego z funkcjonalnym, aby uniknąć uproszczenia złożonych zjawisk psychicznych do jednej przyczyny.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak oś jelita–mózg: podstawy, mechanizmy wpływu mikrobiomu na mózg oraz implikacje kliniczne pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

@@ -86,7 +86,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Emocje w robotach - projektowanie i rozpoznawanie" pokazuje, że największą wartość ma łączenie perspektywy technicznej z analizą relacji człowiek-maszyna, norm społecznych i odpowiedzialności projektowej.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak czym są emocje w kontekście robotyki?, systemy rozpoznawania emocji oraz wyzwania i kontrowersje pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

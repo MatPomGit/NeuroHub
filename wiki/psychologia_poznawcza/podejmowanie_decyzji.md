@@ -117,7 +117,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Podejmowanie decyzji" pokazuje, że najbardziej użyteczne wnioski pojawiają się wtedy, gdy łączy się opis mechanizmu z ograniczeniami zasobów poznawczych i konsekwencjami praktycznymi.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak normatywny vs deskryptywny model decyzji, błędy w ocenie prawdopodobieństwa oraz protokół "de-biasingu" (odstronnicowania) decyzji pokazuje pełny zakres omawianego zjawiska.
 

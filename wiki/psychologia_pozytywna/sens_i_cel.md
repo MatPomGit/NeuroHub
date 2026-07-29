@@ -76,7 +76,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Sens życia i poczucie celu" pokazuje, że największą wartość ma traktowanie zasobów psychicznych jako praktyk podtrzymujących sens, relacyjność i samoregulację, a nie jako zestawu haseł motywacyjnych.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak rozróżnienie między sensem a celem, źródła sensu według baumeistra oraz korzyści dla zdrowia i długowieczności pokazuje pełny zakres omawianego zjawiska.## Bibliografia
 

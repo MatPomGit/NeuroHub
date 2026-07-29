@@ -46,7 +46,6 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 
 Temat "Leki przeciwpsychotyczne" pokazuje, że najważniejsze jest łączenie wiedzy o mechanizmach działania z monitorowaniem skuteczności, bezpieczeństwa i współpracy terapeutycznej.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak mechanizm działania, leki atypowe (ii generacja) oraz monitorowanie leczenia pokazuje pełny zakres omawianego zjawiska.
 

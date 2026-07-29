@@ -164,7 +164,6 @@ Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwyk
 
 Temat "Predictive Processing - mózg jako maszyna przewidująca" pokazuje, że najbardziej użyteczne wnioski pojawiają się wtedy, gdy łączy się opis mechanizmu z ograniczeniami zasobów poznawczych i konsekwencjami praktycznymi.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
 
 Dopiero wspólna analiza zagadnień takich jak skąd pochodzi ten pomysł?, interocepcja i poczucie własnego ciała oraz dalsze lektury pokazuje pełny zakres omawianego zjawiska.
 

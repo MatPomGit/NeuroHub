@@ -24,7 +24,7 @@ Daniel Goleman w bestsellerze *Emotional Intelligence: Why It Can Matter More Th
 
 ## Model 4-gałęziowy Mayera-Saloveya-Caruso
 
-Najściślej empiryczny model IE - **MSCEIT** - zakłada hierarchię czterech zdolności:
+Model zdolnościowy Mayera, Saloveya i Caruso wyróżnia cztery gałęzie zdolności emocjonalnych; **MSCEIT** jest testem skonstruowanym do ich pomiaru (Mayer, Salovey i Caruso, 2002, 2004):
 
 | Gałąź | Opis | Przykład |
 |---|---|---|
@@ -67,10 +67,7 @@ Narzędzie samoopisowe - 133 pytania w 15 skalach pogrupowanych w pięć składo
 
 ### Środowisko pracy
 
-Metaanalizy (Van Rooy & Viswesvaran, 2004; Joseph & Newman, 2010) wykazały:
-- IE koreluje umiarkowanie z wynikami w pracy (r ≈ .24 dla testów zdolnościowych)
-- Efekty silniejsze w zawodach wymagających intensywnej pracy emocjonalnej (sprzedaż, opieka zdrowotna, zarządzanie)
-- IE przewiduje przywództwo transformacyjne ponad IQ i Wielką Piątkę
+Metaanalizy wskazują na niewielki lub umiarkowany związek miar IE z wynikami pracy. Wielkość związku oraz trafność przyrostowa po uwzględnieniu zdolności poznawczych i osobowości zależą od sposobu pomiaru IE i rodzaju pracy; wyniki korelacyjne nie dowodzą wpływu przyczynowego (Van Rooy i Viswesvaran, 2004; Joseph i Newman, 2010).
 
 ### Relacje interpersonalne
 
@@ -80,9 +77,7 @@ Metaanalizy (Van Rooy & Viswesvaran, 2004; Joseph & Newman, 2010) wykazały:
 
 ### Zdrowie i dobrostan
 
-- Wyższa IE predyktuje mniejsze nasilenie lęku i depresji
-- Sprzyja adaptacyjnym strategiom radzenia sobie ze stresem
-- Pośredniczy w relacji między stresem a wypaleniem zawodowym
+Metaanaliza wykazała związki miar IE ze wskaźnikami zdrowia psychicznego, psychosomatycznego i fizycznego. Większość danych miała jednak charakter korelacyjny, dlatego nie można na tej podstawie stwierdzić, że wyższa IE powoduje poprawę zdrowia (Martins, Ramalho i Morin, 2010).
 
 ## Krytyka konceptu
 
@@ -107,22 +102,27 @@ W szkołach wdrażane są programy rozwijające kompetencje emocjonalne - np. **
 
 ### Rola rodziców
 
-Badania wykazują, że **emocjonalna responsywność rodziców** i ekspresja emocjonalna w rodzinie są silnymi predyktorami IE dzieci. Coaching emocjonalny (Gottman) vs. odrzucanie lub minimalizowanie emocji dzieci - wyraźne różnice w rozwoju regulacji emocjonalnej.
+W badaniach nad filozofią metaemocji rodziców ich świadomość i wspierające reagowanie na emocje dzieci wiązały się z funkcjonowaniem regulacyjnym dzieci. Wyniki te wspierają znaczenie socjalizacji emocji, ale nie dowodzą, że jeden styl rodzicielski samodzielnie wyznacza późniejszą IE (Gottman, Katz i Hooven, 1996).
 
 ### IE a nauczyciele
 
-Wyższa IE nauczycieli koreluje z:
-- Lepszym zarządzaniem klasą
-- Mniejszym wypaleniem zawodowym
-- Wyższą satysfakcją uczniów ze szkoły
+Badania edukacyjne analizują związki IE nauczycieli z zarządzaniem klasą, wypaleniem i funkcjonowaniem uczniów. Ze względu na dominację badań samoopisowych i korelacyjnych wnioski o kierunku wpływu wymagają ostrożności; programy SEL mają mocniejsze wsparcie w metaanalizie badań interwencyjnych (Durlak i in., 2011).
 
----## Bibliografia
+## Bibliografia
 
-1. Mayer, J. D., & Salovey, P. (1990). Emotional intelligence. *Imagination, Cognition and Personality, 9*(3), 185–211.
-2. Goleman, D. (1995). *Emotional Intelligence: Why It Can Matter More Than IQ*. Bantam Books.
-3. Mayer, J. D., Salovey, P., & Caruso, D. R. (2004). Emotional intelligence: Theory, findings, and implications. *Psychological Inquiry, 15*(3), 197–215.
-4. Van Rooy, D. L., & Viswesvaran, C. (2004). Emotional intelligence: A meta-analytic investigation of predictive validity and nomological net. *Journal of Vocational Behavior, 65*(1), 71–95.
-5. Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The impact of enhancing students' social and emotional learning. *Child Development, 82*(1), 405–432.
-6. Locke, E. A. (2005). Why emotional intelligence is an invalid concept. *Journal of Organizational Behavior, 26*(4), 425–431.## Bibliografia
-
-- Do uzupełnienia na podstawie źródeł cytowanych w artykule.
+1. Bar-On, R. (1997). *Bar-On Emotional Quotient Inventory: Technical Manual*. Multi-Health Systems.
+2. Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The impact of enhancing students’ social and emotional learning: A meta-analysis of school-based universal interventions. *Child Development, 82*(1), 405–432. https://doi.org/10.1111/j.1467-8624.2010.01564.x
+3. Gardner, H. (1983). *Frames of Mind: The Theory of Multiple Intelligences*. Basic Books.
+4. Goleman, D. (1995). *Emotional Intelligence: Why It Can Matter More Than IQ*. Bantam Books.
+5. Joseph, D. L., & Newman, D. A. (2010). Emotional intelligence: An integrative meta-analysis and cascading model. *Journal of Applied Psychology, 95*(1), 54–78. https://doi.org/10.1037/a0017286
+6. Landy, F. J. (2005). Some historical and scientific issues related to research on emotional intelligence. *Journal of Organizational Behavior, 26*(4), 411–424. https://doi.org/10.1002/job.317
+7. Locke, E. A. (2005). Why emotional intelligence is an invalid concept. *Journal of Organizational Behavior, 26*(4), 425–431. https://doi.org/10.1002/job.318
+8. Martins, A., Ramalho, N., & Morin, E. (2010). A comprehensive meta-analysis of the relationship between emotional intelligence and health. *Personality and Individual Differences, 49*(6), 554–564. https://doi.org/10.1016/j.paid.2010.05.029
+9. Mayer, J. D., Salovey, P., & Caruso, D. R. (2002). *Mayer-Salovey-Caruso Emotional Intelligence Test (MSCEIT): User’s Manual*. Multi-Health Systems.
+10. Mayer, J. D., Salovey, P., & Caruso, D. R. (2004). Emotional intelligence: Theory, findings, and implications. *Psychological Inquiry, 15*(3), 197–215. https://doi.org/10.1207/S15327965PLI1503_01
+11. Salovey, P., & Mayer, J. D. (1990). Emotional intelligence. *Imagination, Cognition and Personality, 9*(3), 185–211. https://doi.org/10.2190/DUGG-P24E-52WK-6CDG
+12. Van Rooy, D. L., & Viswesvaran, C. (2004). Emotional intelligence: A meta-analytic investigation of predictive validity and nomological net. *Journal of Vocational Behavior, 65*(1), 71–95. https://doi.org/10.1016/S0001-8791(03)00076-9
+13. Wong, C.-S., & Law, K. S. (2002). The effects of leader and follower emotional intelligence on performance and attitude. *The Leadership Quarterly, 13*(3), 243–274. https://doi.org/10.1016/S1048-9843(02)00099-1
+14. Gottman, J. M., Katz, L. F., & Hooven, C. (1996). Parental meta-emotion philosophy and the emotional life of families. *Journal of Family Psychology, 10*(3), 243–268. https://doi.org/10.1037/0893-3200.10.3.243
+15. Salovey, P., Mayer, J. D., Goldman, S. L., Turvey, C., & Palfai, T. P. (1995). Emotional attention, clarity, and repair: Exploring emotional intelligence using the Trait Meta-Mood Scale. In J. W. Pennebaker (Ed.), *Emotion, Disclosure, & Health* (pp. 125–154). American Psychological Association. https://doi.org/10.1037/10182-006
+16. Schutte, N. S., Malouff, J. M., Hall, L. E., Haggerty, D. J., Cooper, J. T., Golden, C. J., & Dornheim, L. (1998). Development and validation of a measure of emotional intelligence. *Personality and Individual Differences, 25*(2), 167–177. https://doi.org/10.1016/S0191-8869(98)00001-4

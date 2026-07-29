@@ -1,96 +1,94 @@
 ---
-lastReviewed: 2026-04-01
-reviewCycleMonths: 24
-evidenceCutoffDate: 2025-12-31
+title: Spektrum autyzmu
+description: Kryteria, zróżnicowanie funkcjonowania, sensoryka, komunikacja, maskowanie, diagnoza i zasady wsparcia osób autystycznych.
+lastReviewed: 2026-07-29
+reviewCycleMonths: 12
+evidenceCutoffDate: 2026-07-29
 ---
 
-# Spektrum autyzmu (ASD)
+# Spektrum autyzmu
 
-## Definicja i charakterystyka
+Spektrum autyzmu jest neurorozwojowym zróżnicowaniem funkcjonowania, rozpoznawanym na podstawie trwałych różnic w komunikacji i interakcjach społecznych oraz ograniczonych lub powtarzalnych wzorców zachowania, zainteresowań i aktywności. Obraz funkcjonowania jest bardzo zróżnicowany. Obejmuje zarówno osoby wymagające stałego, intensywnego wsparcia, jak i osoby żyjące samodzielnie.
 
-**Spektrum autyzmu** (ang. *Autism Spectrum Disorder*, ASD) to neurorozwojowy wariant funkcjonowania charakteryzujący się odmiennymi wzorcami komunikacji społecznej, specyficznymi zainteresowaniami oraz odmiennym przetwarzaniem sensorycznym. Termin „spektrum" podkreśla ogromną różnorodność prezentacji - dwie osoby autystyczne mogą różnić się od siebie bardziej niż każda z nich różni się od osoby neurotypowej.
+## Zakres pojęcia i kryteria
 
-Zgodnie z **DSM-5** (2013) diagnoza ASD opiera się na dwóch głównych kryteriach:
-1. Trwałe trudności w zakresie komunikacji i interakcji społecznych.
-2. Ograniczone, powtarzające się wzorce zachowania, zainteresowań lub aktywności.
+DSM-5-TR ujmuje wcześniejsze kategorie diagnostyczne w ramach jednego spektrum. Rozpoznanie wymaga:
 
-Wcześniejsze oddzielne kategorie - autyzm wczesnodziecięcy, zespół Aspergera i całościowe zaburzenia rozwoju - zostały zintegrowane w jedno spektrum, choć debata o zasadności tego połączenia trwa w środowisku klinicznym i wśród samych osób autystycznych.
+1. trwałych trudności w zakresie wzajemności społeczno-emocjonalnej, komunikacji niewerbalnej oraz rozwijania i rozumienia relacji;
+2. co najmniej dwóch form powtarzalności, takich jak ruchy lub mowa stereotypowa, potrzeba stałości, intensywne zainteresowania albo odmienna reaktywność sensoryczna;
+3. obecności cech w okresie rozwojowym;
+4. istotnego wpływu na funkcjonowanie;
+5. oceny, czy obrazu nie wyjaśnia lepiej sama niepełnosprawność intelektualna.
 
-> **Fakt:** Według danych CDC (2023) autyzm rozpoznawany jest u ok. 1 na 36 dzieci w Stanach Zjednoczonych - wskaźnik ten wzrósł z 1 na 150 w 2000 roku, głównie w wyniku poszerzenia kryteriów diagnostycznych i większej świadomości społecznej.
+Diagnoza opisuje potrzeby i profil funkcjonowania, lecz nie przewiduje automatycznie zdolności, empatii, języka ani samodzielności konkretnej osoby.
 
-## Monotropizm - teoria uwagi autystycznej
+## Częstość rozpoznawania
 
-Jedną z najbardziej wpływowych współczesnych teorii autyzmu jest **monotropizm**, opracowany przez Dymę Murray, Mike'a Lezsaka i Wendy Lawson. Według tej teorii autystyczny umysł ma tendencję do skupiania zasobów uwagi na wąskiej liczbie zainteresowań naraz (*tunnel of interest*), podczas gdy mózg neurotypowy operuje polirotropicznie - dystrybuuje uwagę szerzej, ale płycej.
+Dane amerykańskiej sieci ADDM wskazują, że wśród ośmiolatków z 16 monitorowanych obszarów w 2022 roku autyzm zidentyfikowano u około 1 na 31 dzieci. Wyniku nie należy traktować jako światowej częstości występowania. Wartości zależą od populacji, dostępu do diagnozy, kryteriów, metod monitorowania oraz praktyk lokalnych.
 
-Monotropizm wyjaśnia wiele cech autyzmu:
-- **Intensywne, wąskie zainteresowania** - efekt skupienia zasobów uwagi.
-- **Trudności z przełączaniem uwagi** - przerywanie stanu monotropicznego może być bolesne i dezorientujące.
-- **Flow i hiperfokus** - monotropizm umożliwia głębokie stany skupienia i wyjątkową ekspertyzę w obszarach zainteresowań.
-- **Meltdowny i shutdowny** - mogą być wynikiem przeciążenia wynikającego z wymuszonego opuszczenia stanu monotropicznego.
+Wzrost liczby rozpoznań wiąże się między innymi z poszerzeniem kryteriów, większą świadomością, lepszą identyfikacją osób bez niepełnosprawności intelektualnej oraz zmianami w dostępie do usług. Sam trend epidemiologiczny nie rozstrzyga o jednej przyczynie.
+
+## Zróżnicowanie i współwystępowanie
+
+Autyzm może współwystępować z ADHD, niepełnosprawnością intelektualną, padaczką, zaburzeniami snu, lękiem, depresją i trudnościami motorycznymi. Częsta jest także [aleksytymia](../emocje/aleksytymia.md), lecz nie stanowi ona kryterium autyzmu.
+
+Mocne strony również są indywidualne. U części osób obejmują długotrwałą koncentrację na zainteresowaniach, dostrzeganie szczegółów, pamięć w określonej domenie lub konsekwentne myślenie systemowe. Nie należy przypisywać ich wszystkim osobom autystycznym ani używać do pomniejszania realnej niepełnosprawności.
+
+## Uwaga, przewidywalność i monotropizm
+
+Monotropizm opisuje skłonność do intensywnego angażowania zasobów uwagi w ograniczoną liczbę aktywności lub zainteresowań. Model może wyjaśniać głęboką koncentrację, trudność przełączania uwagi i stres wywołany nieoczekiwanym przerwaniem działania. Jest użyteczną ramą teoretyczną, nie kryterium diagnostycznym ani wyjaśnieniem całego spektrum.
+
+Przewidywalność i możliwość przygotowania się do zmiany mogą ograniczać obciążenie. Wsparcie nie powinno jednak sprowadzać się do całkowitego unikania zmian. Celem jest zwiększenie poczucia bezpieczeństwa, komunikowanie planu i stopniowe rozwijanie elastyczności w zakresie dostosowanym do osoby.
 
 ## Przetwarzanie sensoryczne
 
-Odmienność przetwarzania sensorycznego jest jednym z najlepiej udokumentowanych aspektów autyzmu. Osoby autystyczne mogą doświadczać:
+Osoby autystyczne mogą wykazywać nadreaktywność, podreaktywność lub poszukiwanie bodźców. Różnice mogą dotyczyć dźwięku, światła, dotyku, smaku, zapachu, bólu, równowagi i sygnałów płynących z ciała. Ten sam bodziec może być neutralny w jednym kontekście, a przeciążający przy zmęczeniu lub nagromadzeniu wielu obciążeń.
 
-- **Nadwrażliwości** (hiperreaktywności) na bodźce: dźwięki, światło, dotyk, smaki, zapachy.
-- **Podwrażliwości** (hiporeaktywności): poszukiwanie intensywnej stymulacji, wysoki próg bólu.
-- **Synestezji** i innych atypowych połączeń sensorycznych.
+Przeciążenie może prowadzić do wycofania, utraty płynności komunikacji, gwałtownej reakcji albo czasowego ograniczenia zdolności wykonawczych. Pomocne bywają modyfikacje środowiska, możliwość przerwy, ochrona słuchu, przewidywalność i uzgodniony sposób komunikowania potrzeb.
 
-Środowiska sensorycznie przeciążające - głośne centra handlowe, hałaśliwe klasy, jaskrawe oświetlenie fluorescencyjne - mogą prowadzić do **przeciążenia sensorycznego** (*sensory overload*), które manifestuje się wycofaniem, pobudzeniem lub meltdownem.
+## Komunikacja i problem podwójnej empatii
 
-> **Fakt:** Badania z użyciem fMRI wykazują, że u osób autystycznych połączenia między odległymi obszarami mózgu są słabsze, natomiast lokalne połączenia w obrębie obszarów sensorycznych często silniejsze - co może tłumaczyć zarówno trudności integracyjne, jak i wyjątkowe zdolności percepcyjne.
+Komunikacja autystyczna może być werbalna, pisemna albo wspomagana przez AAC. Brak mowy nie oznacza braku rozumienia. Ocena zdolności poznawczych nie powinna opierać się wyłącznie na płynności wypowiedzi, kontakcie wzrokowym lub typowej ekspresji mimicznej.
 
-## Komunikacja autystyczna
+Problem podwójnej empatii opisuje wzajemne trudności w rozumieniu między osobami o odmiennych sposobach doświadczania i komunikacji. Rama ta koryguje założenie, że nieporozumienie jest zawsze jednostronnym deficytem osoby autystycznej. Nie neguje indywidualnych trudności społecznych, lecz uwzględnia dopasowanie partnerów i kontekstu.
 
-Powszechne przekonanie, że osoby autystyczne są pozbawione empatii, jest mylące. Badaczka Damian Milton zaproponowała koncepcję **podwójnej empatii** (*double empathy problem*): trudności komunikacyjne między osobami autystycznymi a neurotypowymi wynikają z obustronnego braku zrozumienia - nie z jednostronnego deficytu po stronie autystycznej. W grupach złożonych wyłącznie z osób autystycznych komunikacja jest często płynna i satysfakcjonująca.
+## Maskowanie
 
-Autystyczne osoby mogą komunikować się werbalnie, niewerbalnie (AAC - wspomagająca i alternatywna komunikacja), pisemnie lub za pomocą technologii. Naciski na mowę werbalną jako jedyną akceptowalną formę komunikacji mogą być szkodliwe i nieuzasadnione.
+Maskowanie lub kamuflowanie obejmuje ukrywanie cech autystycznych, tłumienie naturalnych sposobów regulacji, naśladowanie zachowań społecznych i korzystanie z wyuczonych skryptów. Może ułatwiać krótkoterminowe funkcjonowanie w nieprzystosowanym środowisku, lecz wymaga znacznego wysiłku.
 
-## Maskowanie i jego koszty
+Przeglądy badań wiążą intensywne maskowanie z wyczerpaniem, trudnościami w tożsamości i gorszym zdrowiem psychicznym. Związki mają często charakter korelacyjny, a badane próby nie reprezentują całego spektrum. Interwencje nie powinny wymuszać zachowań służących wyłącznie sprawianiu wrażenia osoby neurotypowej.
 
-**Maskowanie** (ang. *masking* lub *camouflaging*) to proces świadomego lub nieświadomego ukrywania autystycznych cech w celu wtopienia się w neurotypowe otoczenie. Obejmuje: imitowanie kontaktu wzrokowego, uczenie się „skryptów" rozmów, tłumienie stimowania (autostymulacji).
+## Diagnoza
 
-Maskowanie wiąże się z wysokimi kosztami psychicznymi: wyczerpaniem (tzw. *autistic burnout*), utratą poczucia tożsamości i wyższym ryzykiem depresji, lęku oraz myśli samobójczych. Późne diagnozy u kobiet i osób niebinarnych często wynikają właśnie z efektywnego maskowania.
+Ocena diagnostyczna integruje informacje z wywiadu rozwojowego, obserwacji, funkcjonowania w różnych środowiskach oraz oceny stanów współwystępujących. ADOS-2 i ADI-R są narzędziami wspierającymi proces, a nie samodzielnymi testami rozstrzygającymi.
 
-## Perspektywa ruchu praw osób autystycznych
+W diagnozie osób dorosłych i maskujących ważne są dane z całego życia, strategie kompensacyjne oraz koszt funkcjonowania. Rozpoznanie różnicowe może obejmować ADHD, zaburzenia językowe, niepełnosprawność intelektualną, lęk społeczny, OCD i skutki traumy. Stany te mogą również współwystępować.
 
-Ruch praw osób autystycznych, reprezentowany m.in. przez organizację Autistic Self Advocacy Network (ASAN), odrzuca narrację o autyzmie jako tragedii i sprzeciwia się terapiom mającym na celu eliminację autystycznych cech. Hasło „Nothing About Us Without Us" wyraża postulat, by osoby autystyczne były włączone jako partnerzy w badania, polityki i tworzenie interwencji, które ich dotyczą.
+## Zasady wsparcia
 
-Ruch krytykuje szczególnie metodę **ABA** (Applied Behavior Analysis) w jej tradycyjnej formie, wskazując, że koncentracja na eliminacji zachowań (np. stimowania) zamiast na dobrostanie osoby może być traumatyczna.
+Wsparcie powinno wynikać z potrzeb funkcjonalnych oraz celów osoby. Może obejmować:
 
-## Współwystępujące stany
+- dostępny system komunikacji, w tym AAC;
+- dostosowanie sensoryczne i organizacyjne środowiska;
+- rozwijanie umiejętności potrzebnych do samodzielności;
+- terapię współwystępującego lęku, depresji lub ADHD;
+- wsparcie rodziny, szkoły i miejsca pracy;
+- uwzględnianie zainteresowań i mocnych stron;
+- zapobieganie przemocy, wykluczeniu i przeciążeniu.
 
-Autyzm bardzo często współwystępuje z innymi stanami:
-- ADHD (u ok. 50–70% osób autystycznych)
-- Lęk (50–80%)
-- Depresja (30–50%)
-- Dyspraksja i trudności motoryczne
-- Zaburzenia snu
-- Padaczka (10–30%)
-- Hipermobilność stawów i zespół Ehlersa-Danlosa
+Skuteczność należy oceniać przez jakość życia, bezpieczeństwo, możliwość komunikowania potrzeb i udział w ważnych aktywnościach. Redukcja nieszkodliwych zachowań autostymulacyjnych lub wymuszanie kontaktu wzrokowego nie są właściwymi celami samymi w sobie.
 
+## Wnioski
 
+Spektrum autyzmu łączy wspólne kryteria diagnostyczne z dużym zróżnicowaniem potrzeb, zdolności i sposobów komunikowania. Rzetelny opis wymaga jednoczesnego uwzględnienia perspektywy klinicznej, środowiskowej i doświadczeń osób autystycznych. Diagnoza powinna prowadzić do trafniejszego wsparcia, a nie do redukowania osoby do listy deficytów.
 
-Spektrum autyzmu to szeroki, zróżnicowany profil neurologiczny, obejmujący zarówno wyjątkowe zdolności, jak i realne wyzwania. Współczesna nauka i ruch neuroróżnorodności wzajemnie się uzupełniają: nauka dostarcza narzędzi wsparcia, a ruch zapewnia, że głos osób autystycznych kształtuje kierunek badań i praktyki klinicznej.
+## Bibliografia
 
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Spektrum autyzmu (ASD)" polega na tym, że neuroróżnorodność najlepiej rozumieć nie jako prostą listę deficytów, lecz jako odmienny profil przetwarzania, który może generować zarówno trudności, jak i zasoby.
-
-Dopiero wspólna analiza zagadnień takich jak definicja i charakterystyka, komunikacja autystyczna oraz współwystępujące stany pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Spektrum autyzmu (ASD)" pokazuje, że kluczowe pozostaje łączenie wsparcia funkcjonalnego z redukowaniem barier środowiskowych i stygmatyzacji.
-
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
-
-Dopiero wspólna analiza zagadnień takich jak definicja i charakterystyka, komunikacja autystyczna oraz współwystępujące stany pokazuje pełny zakres omawianego zjawiska.## Bibliografia
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+- American Psychiatric Association. (2022). *Diagnostic and statistical manual of mental disorders* (5th ed., text rev.).
+- Centers for Disease Control and Prevention. (2025). *Data and statistics on autism spectrum disorder*. https://www.cdc.gov/autism/data-research/
+- Cook, J., Hull, L., Crane, L., & Mandy, W. (2021). Camouflaging in autism: A systematic review. *Clinical Psychology Review, 89*, 102080. https://doi.org/10.1016/j.cpr.2021.102080
+- Kinnaird, E., Stewart, C., & Tchanturia, K. (2019). Investigating alexithymia in autism: A systematic review and meta-analysis. *Journal of Autism and Developmental Disorders, 49*, 1621–1634. https://doi.org/10.1007/s10803-019-03828-2
+- Milton, D. E. M. (2012). On the ontological status of autism: The double empathy problem. *Disability & Society, 27*(6), 883–887. https://doi.org/10.1080/09687599.2012.710008
+- Murray, D., Lesser, M., & Lawson, W. (2005). Attention, monotropism and the diagnostic criteria for autism. *Autism, 9*(2), 139–156. https://doi.org/10.1177/1362361305051398
+- Robertson, C. E., & Baron-Cohen, S. (2017). Sensory perception in autism. *Nature Reviews Neuroscience, 18*, 671–684. https://doi.org/10.1038/nrn.2017.112
+- World Health Organization. (2025). *ICD-11 for mortality and morbidity statistics: Autism spectrum disorder (6A02)*. https://icd.who.int/browse/2025-01/mms/en#437815624

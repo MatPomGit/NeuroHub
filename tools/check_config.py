@@ -166,6 +166,36 @@ def validate(config: dict[str, Any], strict_nav_plan: bool = False) -> dict[str,
                 f"Niejednoznaczna nazwa kanoniczna lub alias „{labels}” występuje w: {', '.join(sorted(owners))}",
             )
 
+    redirects = config.get("articleRedirects", {})
+    if not isinstance(redirects, dict):
+        error("SITE_CONFIG.articleRedirects", "Pole articleRedirects musi być obiektem")
+        redirects = {}
+
+    nav_id_set = set(nav_ids)
+    for source, target in redirects.items():
+        path = f"SITE_CONFIG.articleRedirects.{source}"
+        if not isinstance(source, str) or not source.strip():
+            error(path, "Identyfikator źródłowy przekierowania musi być niepustym tekstem")
+            continue
+        if not isinstance(target, str) or not target.strip():
+            error(path, "Cel przekierowania musi być niepustym tekstem")
+            continue
+        if source == target:
+            error(path, "Przekierowanie nie może wskazywać na samo siebie")
+        if source in nav_id_set:
+            error(path, "Dawny identyfikator nadal występuje w nawigacji")
+        if target not in nav_id_set:
+            error(path, f"Cel przekierowania nie istnieje w nawigacji: {target}")
+
+        visited = {source}
+        next_target = target
+        while next_target in redirects:
+            if next_target in visited:
+                error(path, "Wykryto cykl przekierowań")
+                break
+            visited.add(next_target)
+            next_target = redirects[next_target]
+
     if default_page and default_page != "__home__" and default_page not in set(nav_ids):
         error("SITE_CONFIG.defaultPage", f"defaultPage nie istnieje w nav: {default_page}")
 

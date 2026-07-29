@@ -1,23 +1,18 @@
-﻿# 24. Farmakoterapia zaburzeń używania substancji innych niż alkohol
+# 24. Farmakoterapia zaburzeń używania substancji innych niż alkohol
 
-## Wprowadzenie
+## Definicja i zakres
 Farmakoterapia uzależnień od opioidów, nikotyny i części innych substancji opiera się na zmniejszaniu śmiertelności, głodu i szkód zdrowotnych. W wielu przypadkach celem klinicznym jest stabilizacja, a nie natychmiastowa abstynencja.
 
-## Analiza
+## Mechanizm i przesłanki kliniczne
 Najlepsze wyniki uzyskuje się dzięki łączeniu leków z opieką środowiskową, redukcją szkód, leczeniem współchorobowości i wsparciem społecznym.
 
-## Praktyczne przykłady
-### Dobra praktyka
-
-traktowanie utrzymania w leczeniu jako kluczowego wskaźnika skuteczności.
-### Zła praktyka
-
-przerywanie terapii po pojedynczym nawrocie.
-Konsekwencja: zwiększone ryzyko przedawkowania i wykluczenia z opieki.
-
-## Dowody, bezpieczeństwo i ograniczenia
+## Wskazania, jakość dowodów i bezpieczeństwo
 
 Dla uzależnienia od opioidów metadon i buprenorfina redukują śmiertelność, a nalokson powinien być dostępny osobom zagrożonym przedawkowaniem. W zaburzeniu używania tytoniu skuteczne są wareniklina, nikotynowa terapia zastępcza i bupropion. Dla stymulantów nie ma jednego zatwierdzonego standardu farmakoterapii o podobnej sile dowodów; najlepiej udokumentowane są interwencje behawioralne, zwłaszcza zarządzanie wzmocnieniami. Monitorowanie obejmuje przedawkowania, zakażenia, interakcje, używanie innych substancji i realizację celu pacjenta.
+
+## Monitorowanie i ograniczenia praktyczne
+
+Traktowanie utrzymania w leczeniu jako kluczowego wskaźnika skuteczności. Przerywanie terapii po pojedynczym nawrocie jest błędem. Zwiększone ryzyko przedawkowania i wykluczenia z opieki.
 
 ## Bibliografia
 

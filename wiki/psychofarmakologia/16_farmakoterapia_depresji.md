@@ -1,26 +1,20 @@
-﻿# 16. Farmakoterapia depresji
+# 16. Farmakoterapia depresji
 
-## Wprowadzenie
+## Definicja i zakres
 
 Farmakoterapia depresji obejmuje leczenie ostrej fazy, konsolidację remisji i profilaktykę nawrotów. Wybór leku zależy od obrazu klinicznego, historii odpowiedzi, chorób współistniejących i bezpieczeństwa.
 
-## Analiza
+## Mechanizm i przesłanki kliniczne
 
 W depresji opornej uzasadnione są strategie augmentacji, łączenia interwencji biologicznych i psychoterapii oraz ocena czynników podtrzymujących (sen, używki, ból, stres przewlekły).
 
-## Praktyczne przykłady
-
-### Dobra praktyka
-
-kontynuacja leczenia po remisji przez okres adekwatny do ryzyka nawrotu.
-### Zła praktyka
-
-szybkie odstawienie po krótkiej poprawie nastroju.
-Konsekwencja: istotny wzrost ryzyka nawrotu.
-
-## Dowody, bezpieczeństwo i ograniczenia
+## Wskazania, jakość dowodów i bezpieczeństwo
 
 Leczenie epizodu depresyjnego rozpoczyna się od oceny nasilenia, ryzyka samobójczego, ChAD, psychozy, substancji i chorób somatycznych. Leki oraz psychoterapia mają dowody, a w ciężkiej depresji ich połączenie bywa korzystne. Odpowiedź trzeba mierzyć, jednocześnie oceniając funkcjonowanie i tolerancję. Po niepowodzeniu należy wykluczyć pseudooporność; zmiana leku, augmentacja litem lub wybranym lekiem przeciwpsychotycznym oraz ECT mają różne podstawy dowodowe i ryzyka. Kontynuacja po remisji ogranicza nawroty, ale czas leczenia zależy od historii epizodów.
+
+## Monitorowanie i ograniczenia praktyczne
+
+Kontynuacja leczenia po remisji przez okres adekwatny do ryzyka nawrotu. Szybkie odstawienie po krótkiej poprawie nastroju jest błędem. Istotny wzrost ryzyka nawrotu.
 
 ## Bibliografia
 

@@ -1,23 +1,18 @@
-﻿# 13. Badania kliniczne leków psychotropowych
+# 13. Badania kliniczne leków psychotropowych
 
-## Wprowadzenie
+## Definicja i zakres
 Badania kliniczne psychofarmakologii obejmują fazy I–IV, z naciskiem na randomizację, zaślepienie i standaryzowane skale objawowe. Coraz ważniejsze są też punkty końcowe funkcjonalne i jakości życia.
 
-## Analiza
+## Mechanizm i przesłanki kliniczne
 Ograniczeniem klasycznych RCT jest niska reprezentatywność populacji rzeczywistej. Dlatego rośnie rola badań pragmatycznych, danych rejestrowych i analiz bezpieczeństwa długoterminowego.
 
-## Praktyczne przykłady
-### Dobra praktyka
-
-interpretacja wyników przez efekt kliniczny (NNT/NNH), nie tylko p-value.
-### Zła praktyka
-
-przenoszenie wyników z selekcyjnej próby na wszystkich pacjentów bez korekty.
-Konsekwencja: ryzyko błędnych decyzji terapeutycznych.
-
-## Dowody, bezpieczeństwo i ograniczenia
+## Wskazania, jakość dowodów i bezpieczeństwo
 
 Randomizacja ogranicza zakłócenia, zaślepienie błędy oceny, a analiza intention-to-treat chroni korzyści randomizacji. Wielkość efektu, przedział ufności, wynik funkcjonalny i szkody są bardziej informacyjne niż samo p < 0,05. Krótkie badania z wyselekcjonowaną próbą mają ograniczoną trafność zewnętrzną; aktywne placebo, brakujące dane, sponsorowanie i selektywna publikacja mogą zmieniać oszacowanie. Rejestr protokołu, jawne wyniki i badania pragmatyczne uzupełniają, lecz nie usuwają tych ograniczeń.
+
+## Monitorowanie i ograniczenia praktyczne
+
+Interpretacja wyników przez efekt kliniczny (NNT/NNH), nie tylko p-value. Przenoszenie wyników z selekcyjnej próby na wszystkich pacjentów bez korekty jest błędem. Ryzyko błędnych decyzji terapeutycznych.
 
 ## Bibliografia
 

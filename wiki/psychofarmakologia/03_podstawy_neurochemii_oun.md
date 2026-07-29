@@ -1,32 +1,20 @@
-﻿# 3. Podstawy neurochemii ośrodkowego układu nerwowego
+# 3. Podstawy neurochemii ośrodkowego układu nerwowego
 
-## Wprowadzenie
+## Definicja i zakres
 
 Podstawy neurochemii OUN obejmują transmisję synaptyczną, neuromodulację i plastyczność. Klinicznie kluczowe układy to: dopaminergiczny, serotoninergiczny, noradrenergiczny, glutaminergiczny, GABA-ergiczny i cholinergiczny.
 
-## Analiza
+## Mechanizm i przesłanki kliniczne
 
 Efekt leku zależy od receptorów, ich gęstości, szlaku sygnałowego i czasu ekspozycji. Ten sam lek może dawać odmienny efekt krótkoterminowy i długoterminowy (np. adaptacja receptorowa, zmiany ekspresji genów).
 
-## Praktyczne przykłady
-
-### Dobra praktyka
-### Dobra praktyka
-
-tłumaczenie pacjentowi opóźnionego działania leków (np. SSRI) przez mechanizmy neuroadaptacyjne.
-
-Konsekwencja: poprawia adherencję
-
-### Zła praktyka
-### Zła praktyka
-
-szybkie zmiany preparatów bez czasu na odpowiedź biologiczną.
-
-Konsekwencja: zwiększa chaos terapeutyczny
-
-## Dowody, bezpieczeństwo i ograniczenia
+## Wskazania, jakość dowodów i bezpieczeństwo
 
 Neuroprzekaźnik nie ma jednej funkcji: efekt zależy od receptora, komórki, lokalizacji i czasu. Agonizm, antagonizm, częściowy agonizm oraz modulacja allosteryczna zmieniają sygnał odmiennie, a transportery i enzymy regulują jego czas trwania. Adaptacja receptorowa i plastyczność tłumaczą, dlaczego efekt kliniczny może różnić się od natychmiastowej zmiany neurochemicznej. Stężenie leku, interakcje CYP oraz czynność nerek i wątroby wyznaczają ekspozycję, lecz zakres terapeutycznego monitorowania stężenia zależy od konkretnej substancji.
+
+## Monitorowanie i ograniczenia praktyczne
+
+Tłumaczenie pacjentowi opóźnionego działania leków (np. SSRI) przez mechanizmy neuroadaptacyjne. Szybkie zmiany preparatów bez czasu na odpowiedź biologiczną jest błędem. Zwiększa chaos terapeutyczny.
 
 ## Bibliografia
 

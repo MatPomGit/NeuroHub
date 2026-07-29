@@ -1,23 +1,18 @@
-﻿# 22. Farmakoterapia zespołów otępiennych
+# 22. Farmakoterapia zespołów otępiennych
 
-## Wprowadzenie
+## Definicja i zakres
 W otępieniach farmakoterapia ma głównie charakter objawowy i spowalniający przebieg wybranych domen funkcjonowania. Obejmuje leki prokognitywne oraz ostrożne leczenie objawów behawioralnych i psychotycznych.
 
-## Analiza
+## Mechanizm i przesłanki kliniczne
 Priorytetem jest bezpieczeństwo: minimalizacja obciążenia antycholinergicznego, ryzyka upadków i interakcji. Interwencje środowiskowe oraz wsparcie opiekunów są równie ważne jak leki.
 
-## Praktyczne przykłady
-### Dobra praktyka
-
-regularna rewizja wskazań i depreskrypcja leków nieskutecznych.
-### Zła praktyka
-
-rutynowe stosowanie sedacji przy każdym nasileniu pobudzenia.
-Konsekwencja: pogorszenie funkcji poznawczych i somatycznych.
-
-## Dowody, bezpieczeństwo i ograniczenia
+## Wskazania, jakość dowodów i bezpieczeństwo
 
 Donepezil, rywastygmina i galantamina przynoszą niewielką poprawę objawową w chorobie Alzheimera; memantyna jest stosowana głównie w stadium umiarkowanym i ciężkim. W otępieniu z ciałami Lewy’ego szczególne znaczenie ma nadwrażliwość na leki przeciwpsychotyczne. Pobudzenie najpierw wymaga poszukiwania bólu, majaczenia i przyczyn środowiskowych. Antypsychotyki dają małą średnią korzyść i zwiększają ryzyko udaru oraz zgonu. Monitorowanie obejmuje funkcje, obciążenie opiekuna, tętno, masę i regularną ocenę zasadności kontynuacji.
+
+## Monitorowanie i ograniczenia praktyczne
+
+Regularna rewizja wskazań i depreskrypcja leków nieskutecznych. Rutynowe stosowanie sedacji przy każdym nasileniu pobudzenia jest błędem. Pogorszenie funkcji poznawczych i somatycznych.
 
 ## Bibliografia
 

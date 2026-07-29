@@ -1,23 +1,18 @@
-﻿# 30. Farmakogenetyka leków psychotropowych
+# 30. Farmakogenetyka leków psychotropowych
 
-## Wprowadzenie
+## Definicja i zakres
 Farmakogenetyka analizuje, jak warianty genetyczne wpływają na metabolizm, skuteczność i tolerancję leków psychotropowych. Najczęściej dotyczy genów enzymów CYP oraz wybranych markerów farmakodynamicznych.
 
-## Analiza
+## Mechanizm i przesłanki kliniczne
 W praktyce klinicznej testy mają największą wartość u pacjentów z nietypową tolerancją, wieloma niepowodzeniami leczenia lub wysokim ryzykiem interakcji. Nie zastępują jednak oceny klinicznej.
 
-## Praktyczne przykłady
-### Dobra praktyka
-
-używanie testów jako narzędzia wspierającego, nie decydującego autonomicznie.
-### Zła praktyka
-
-„genetyczny determinizm” i pomijanie obrazu klinicznego.
-Konsekwencja: ryzyko nadinterpretacji wyników.
-
-## Dowody, bezpieczeństwo i ograniczenia
+## Wskazania, jakość dowodów i bezpieczeństwo
 
 Najlepiej ugruntowane pary gen–lek dotyczą enzymów CYP2D6 i CYP2C19, które mogą pomagać w korekcie dawki wybranych leków przeciwdepresyjnych lub przeciwpsychotycznych. Wynik nie przewiduje rozpoznania ani pewnej odpowiedzi, a panele komercyjne łączą markery o nierównej walidacji. Genotyp trzeba interpretować razem z paleniem, interakcjami, czynnością narządów i „fenokonwersją” przez inhibitor enzymu. Dowody na poprawę remisji dzięki testom panelowym są niejednorodne; badanie ma największą wartość, gdy odpowiada na konkretne pytanie kliniczne.
+
+## Monitorowanie i ograniczenia praktyczne
+
+Używanie testów jako narzędzia wspierającego, nie decydującego autonomicznie. „genetyczny determinizm” i pomijanie obrazu klinicznego jest błędem. Ryzyko nadinterpretacji wyników.
 
 ## Bibliografia
 

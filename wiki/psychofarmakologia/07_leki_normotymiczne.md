@@ -1,23 +1,18 @@
-﻿# 7. Leki normotymiczne
+# 7. Leki normotymiczne
 
-## Wprowadzenie
+## Definicja i zakres
 Leki normotymiczne stabilizują przebieg choroby afektywnej dwubiegunowej, ograniczając nawroty manii i depresji. Do głównych należą lit, walproinian, karbamazepina i lamotrygina, często w schematach łączonych z lekami przeciwpsychotycznymi.
 
-## Analiza
+## Mechanizm i przesłanki kliniczne
 Różnice między lekami dotyczą fazy, w której działają najlepiej, oraz profilu bezpieczeństwa (tarczycowego, nerkowego, hepatologicznego, teratogennego). Lit ma najsilniejsze dane dotyczące redukcji ryzyka samobójstwa.
 
-## Praktyczne przykłady
-### Dobra praktyka
-
-regularne monitorowanie stężeń i funkcji narządowych.
-### Zła praktyka
-
-odstawienie litu „z dnia na dzień” po poprawie nastroju.
-Konsekwencja: nagłe odstawienie zwiększa ryzyko szybkiego nawrotu.
-
-## Dowody, bezpieczeństwo i ograniczenia
+## Wskazania, jakość dowodów i bezpieczeństwo
 
 Lit, walproinian, karbamazepina i lamotrygina różnią się mechanizmem oraz zakresem skuteczności. Lit leczy manię i zapobiega nawrotom, lamotrygina ma większe znaczenie w profilaktyce depresji dwubiegunowej, a walproinian i karbamazepina działają przeciwmaniakalnie. Lit wymaga kontroli stężenia, nerek, tarczycy i wapnia; odwodnienie, NLPZ, ACEI i diuretyki mogą wywołać toksyczność. Walproinian jest silnie teratogenny, lamotrygina grozi ciężką wysypką przy zbyt szybkim zwiększaniu dawki, a karbamazepina powoduje liczne interakcje. Dowody nie uzasadniają traktowania tych leków jako wymiennych.
+
+## Monitorowanie i ograniczenia praktyczne
+
+Regularne monitorowanie stężeń i funkcji narządowych. Odstawienie litu „z dnia na dzień” po poprawie nastroju jest błędem. Nagłe odstawienie zwiększa ryzyko szybkiego nawrotu.
 
 ## Bibliografia
 

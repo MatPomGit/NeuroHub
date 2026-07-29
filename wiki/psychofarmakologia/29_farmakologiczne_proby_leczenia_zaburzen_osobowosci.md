@@ -1,23 +1,18 @@
-﻿# 29. Farmakologiczne próby leczenia zaburzeń osobowości
+# 29. Farmakologiczne próby leczenia zaburzeń osobowości
 
-## Wprowadzenie
+## Definicja i zakres
 W zaburzeniach osobowości nie ma leków „na osobowość”; farmakoterapia dotyczy objawów docelowych i współchorobowości. Największą wartość terapeutyczną mają interwencje psychoterapeutyczne długoterminowe.
 
-## Analiza
+## Mechanizm i przesłanki kliniczne
 Leki można rozważać przy nasilonej impulsywności, labilności afektywnej, objawach lękowo-depresyjnych lub krótkotrwałych dekompensacjach, ale z jasnym planem i ograniczeniem polipragmazji.
 
-## Praktyczne przykłady
-### Dobra praktyka
-
-krótkie, celowane interwencje lekowe i regularna depreskrypcja.
-### Zła praktyka
-
-narastająca polifarmakoterapia bez ewaluacji efektu.
-Konsekwencja: iatrogenia i spadek sprawstwa pacjenta.
-
-## Dowody, bezpieczeństwo i ograniczenia
+## Wskazania, jakość dowodów i bezpieczeństwo
 
 Leki nie leczą podstawowej patologii zaburzenia osobowości. W osobowości borderline badania są małe, krótkie i obciążone ryzykiem błędu; nie ma wiarygodnej podstawy do rutynowej polipragmazji. Farmakoterapia może dotyczyć dobrze rozpoznanej choroby współistniejącej albo krótkotrwałego, jasno określonego objawu. Należy uwzględnić toksyczność w przedawkowaniu, impulsywność i wpływ sedacji na psychoterapię, mierzyć cel oraz ustalić termin odstawienia. Podstawą pozostaje ustrukturyzowana psychoterapia.
+
+## Monitorowanie i ograniczenia praktyczne
+
+Krótkie, celowane interwencje lekowe i regularna depreskrypcja. Narastająca polifarmakoterapia bez ewaluacji efektu jest błędem. Iatrogenia i spadek sprawstwa pacjenta.
 
 ## Bibliografia
 

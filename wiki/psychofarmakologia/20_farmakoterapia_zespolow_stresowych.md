@@ -1,23 +1,18 @@
-﻿# 20. Farmakoterapia zespołów stresowych
+# 20. Farmakoterapia zespołów stresowych
 
-## Wprowadzenie
+## Definicja i zakres
 W PTSD i pokrewnych zespołach stresowych farmakoterapia jest interwencją wspomagającą, a nie substytutem terapii ukierunkowanej na traumę. Najwięcej danych dotyczy wybranych leków przeciwdepresyjnych.
 
-## Analiza
+## Mechanizm i przesłanki kliniczne
 Istotna jest ostrożność wobec leków o potencjale uzależniającym i koncentracja na poprawie snu, nadpobudliwości autonomicznej oraz współwystępujących objawów depresyjno-lękowych.
 
-## Praktyczne przykłady
-### Dobra praktyka
-
-integracja farmakoterapii z terapią traumy i stabilizacją snu.
-### Zła praktyka
-
-przewlekłe benzodiazepiny jako główna strategia leczenia PTSD.
-Konsekwencja: ryzyko pogorszenia przebiegu i zależności.
-
-## Dowody, bezpieczeństwo i ograniczenia
+## Wskazania, jakość dowodów i bezpieczeństwo
 
 W PTSD największe znaczenie mają terapie skoncentrowane na traumie; SSRI i wenlafaksyna mają umiarkowane dowody, gdy lek jest preferowany lub psychoterapia niedostępna. Prazosyna może zmniejszać koszmary u części osób, lecz wyniki dotyczące całości objawów są niespójne. Benzodiazepiny nie leczą PTSD i mogą utrudniać terapię oraz powodować zależność. Należy mierzyć objawy, sen, funkcjonowanie, samobójczość i używanie substancji. Farmakoterapia ostrej reakcji stresowej nie ma podstaw jako rutynowa „profilaktyka PTSD”.
+
+## Monitorowanie i ograniczenia praktyczne
+
+Integracja farmakoterapii z terapią traumy i stabilizacją snu. Przewlekłe benzodiazepiny jako główna strategia leczenia PTSD jest błędem. Ryzyko pogorszenia przebiegu i zależności.
 
 ## Bibliografia
 

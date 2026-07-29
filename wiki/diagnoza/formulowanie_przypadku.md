@@ -1,208 +1,149 @@
-﻿---
-lastReviewed: 2026-04-01
+---
+lastReviewed: 2026-07-29
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
+aliases:
+  - formułowanie przypadku klinicznego
+  - case formulation
+  - case conceptualization
 ---
 
 # Formułowanie przypadku w diagnozie psychologicznej
 
-## Czym jest formułowanie przypadku?
+## Definicja i granice pojęcia
 
-Formułowanie przypadku (*case formulation*, *case conceptualization*) to **integracyjny proces łączenia wszystkich zebranych danych diagnostycznych w spójny, teoretycznie uzasadniony obraz psychologicznego funkcjonowania osoby**. Jest mostem między diagnozą (co jest) a interwencją (co zrobić) - przekształca surowe informacje w działający model wyjaśniający.
+Formułowanie przypadku (*case formulation*, *case conceptualization*) jest procesem integrowania danych o trudnościach, historii życia, aktualnym kontekście i zasobach osoby w **spójną, opartą na określonej teorii hipotezę wyjaśniającą**. Hipoteza ma odpowiadać na pytania, dlaczego problemy pojawiły się u tej osoby w tym okresie, co je podtrzymuje oraz jakie działania mogą przynieść zmianę (Eells, 2022; Johnstone i Dallos, 2014).
 
-> „Formułowanie przypadku to hipoteza robocza, nie wyrok; powinna być regularnie weryfikowana i modyfikowana." - Eells (2007)
+Formułowanie nie zastępuje diagnozy klasyfikacyjnej. Klasyfikacja porządkuje obserwowane objawy według kryteriów i ułatwia komunikację, natomiast formułowanie indywidualizuje ich możliwe mechanizmy i znaczenie. Oba wyniki diagnozy mogą się uzupełniać. Formułowanie pozostaje jednak hipotezą roboczą: należy wskazywać stopień pewności wniosków, sprawdzać je wspólnie z osobą badaną i aktualizować wraz z napływem danych.
 
-Dobre formułowanie:
-- **wyjaśnia**, dlaczego dany człowiek w danym momencie życia doświadcza określonych trudności
-- **integruje** czynniki biologiczne, psychologiczne i społeczne
-- **wskazuje** cele i metody interwencji
-- **nawiązuje** do aktualnych badań i teorii klinicznych
+## Funkcje formułowania
 
----
+Dobre formułowanie pełni cztery powiązane funkcje:
 
-## Elementy składowe formułowania
+- **wyjaśniającą**: organizuje dane i wskazuje mechanizmy powstania oraz utrzymywania trudności;
+- **planistyczną**: łączy rozpoznane mechanizmy i zasoby z celami oraz metodami pomocy;
+- **komunikacyjną**: tworzy wspólną mapę problemu dla osoby korzystającej z pomocy i specjalistów;
+- **ewaluacyjną**: dostarcza przewidywań, których sprawdzanie pozwala ocenić hipotezę i korygować plan.
 
-### Model 5P (Bieling & Kuyken, 2003)
+Samo przedstawienie zrozumiałej, niestygmatyzującej hipotezy może porządkować doświadczenie osoby. Nie należy jednak traktować tego możliwego efektu jako dowodu trafności formułowania.
 
-| Element | Pytanie | Przykład |
+## Modele formułowania
+
+Modele kierują uwagę na odmienne poziomy wyjaśnienia. Wybór ramy powinien wynikać z pytania diagnostycznego, danych i potrzeb osoby, a nie wyłącznie z preferencji klinicysty.
+
+### Model 5P
+
+Model 5P jest praktyczną matrycą porządkującą informacje w czasie i według ich funkcji. Nie stanowi samodzielnej teorii przyczynowej: związki wpisane do tabeli nadal wymagają uzasadnienia i weryfikacji (Macneil i in., 2012; Weerasekera, 1996).
+
+| Kategoria | Pytanie porządkujące | Przykład |
 |---|---|---|
-| **Presenting problems** (problem zgłoszeniowy) | Co jest powodem zgłoszenia? | Stany lękowe, unikanie sytuacji społecznych |
-| **Predisposing factors** (czynniki predysponujące) | Co zwiększało podatność? | Lęk separacyjny w dzieciństwie, temperament hamowania |
-| **Precipitating factors** (czynniki wyzwalające) | Co wywołało obecny epizod? | Zmiana pracy, rozpad związku |
-| **Perpetuating factors** (czynniki podtrzymujące) | Co utrzymuje problem? | Unikanie, negatywne przekonania, brak wsparcia |
-| **Protective factors** (czynniki ochronne) | Co chroni i jakie są zasoby? | Wsparcie rodziny, motywacja do zmiany, inteligencja |
+| **Problem zgłoszeniowy** (*presenting problem*) | Jakie trudności, ryzyko i potrzeby występują obecnie? | Napady paniki i unikanie transportu publicznego |
+| **Czynniki predysponujące** (*predisposing*) | Co zwiększało podatność przed pojawieniem się obecnego problemu? | Temperament lękowy, wcześniejsze doświadczenia przemocy |
+| **Czynniki wyzwalające** (*precipitating*) | Jakie zdarzenia lub zmiany poprzedziły nasilenie trudności? | Napad paniki w zatłoczonym autobusie |
+| **Czynniki podtrzymujące** (*perpetuating*) | Jakie procesy tworzą obecnie błędne koła? | Unikanie obniża lęk krótkotrwale, lecz uniemożliwia korektę przewidywań |
+| **Czynniki ochronne** (*protective*) | Jakie zasoby ograniczają ryzyko lub wspierają zmianę? | Wsparcie bliskiej osoby, motywacja i wcześniejsze skuteczne sposoby radzenia sobie |
 
-### Model biopsychospołeczny (Engel, 1977)
+Takie ujęcie przeciwdziała skupieniu wyłącznie na deficytach. Szczególnie użyteczne jest powiązanie każdego czynnika podtrzymującego z możliwym celem interwencji, a każdego zasobu z konkretnym sposobem jego wykorzystania.
 
-Trzy nakładające się obszary wyjaśniające:
+### Model Persons w terapii poznawczo-behawioralnej
 
-- **Biologiczne**: genetyka, neurobiologia, choroby somatyczne, substancje psychoaktywne
-- **Psychologiczne**: osobowość, styl poznawczy, przekonania, historia traum, mechanizmy obronne
-- **Społeczne**: rodzina, kultura, status socjoekonomiczny, wsparcie, stygmatyzacja
+W podejściu Persons (2008) formułowanie kieruje leczeniem na poziomie pojedynczego przypadku. Obejmuje operacyjnie opisaną listę problemów, hipotezę o mechanizmach poznawczych i behawioralnych, informacje o ich pochodzeniu oraz czynniki wyzwalające i podtrzymujące. Zamiast poprzestać na nazwie zaburzenia, klinicysta opisuje obserwowalne trudności, na przykład ograniczenie aktywności, unikanie kontaktów i nawracające myśli o bezwartościowości.
 
----
+Model może łączyć sytuację uruchamiającą z przekonaniami kluczowymi i warunkowymi, myślami automatycznymi, emocjami, zachowaniem oraz jego konsekwencjami. Przykładowo przekonanie o niekompetencji może uruchamiać regułę, że każdy błąd prowadzi do odrzucenia. Perfekcjonistyczne sprawdzanie i prokrastynacja zmniejszają wówczas napięcie doraźnie, ale utrwalają przekonanie w dłuższej perspektywie. Hipoteza powinna prowadzić do mierzalnych przewidywań i być modyfikowana, gdy przebieg terapii im przeczy.
 
-## Modele formułowania przypadku
+### Formułowanie psychodynamiczne
 
-### Podejście poznawczo-behawioralne (CBT)
+Formułowanie psychodynamiczne opisuje relacje między temperamentem, wczesnymi doświadczeniami relacyjnymi, dominującymi konfliktami, wzorcami relacji i mechanizmami obronnymi (McWilliams, 2011). Uwzględnia również sposób, w jaki te wzorce mogą ujawniać się w relacji terapeutycznej jako przeniesienie i przeciwprzeniesienie. Przykładową ramą skupioną na powtarzalnych relacjach jest CCRT: analizuje się w niej życzenia osoby, oczekiwane lub doświadczane reakcje innych oraz następujące po nich reakcje własne (Luborsky i Crits-Christoph, 1998).
 
-Formułowanie CBT skupia się na związkach między:
-- **Myślami automatycznymi** → przekonaniami pośrednimi → przekonaniami kluczowymi
-- **Behawioralnymi strategiami radzenia sobie** (unikanie, kompensacja)
-- **Emocjami i objawami** wynikającymi z tych wzorców
+Wnioski o procesach nieświadomych wymagają szczególnej ostrożności. Powinny wynikać z powtarzalnych danych, pozostawać alternatywami do sprawdzenia i nie być przedstawiane jako fakty niedostępne krytycznej ocenie.
 
-*Model Padesky & Mooney*: sytuacja → myśl → emocja → zachowanie → konsekwencje
+### Model biopsychospołeczny i inne perspektywy
 
-### Podejście psychodynamiczne
+Model biopsychospołeczny Engela (1977) przeciwstawia się redukowaniu problemu do jednego poziomu. Formułowanie bada wzajemne oddziaływanie czynników:
 
-Koncentruje się na:
-- **Relacjach wczesnych** i ich wpływie na wewnętrzne reprezentacje obiektu
-- **Mechanizmach obronnych** (wyparcie, projekcja, dysocjacja, intelektualizacja)
-- **Dynamice przeniesienia** - jak przeszłe relacje „żyją" w teraźniejszości
-- **Nierozwiązanych konfliktach** intrapsychicznych
+- **biologicznych**, takich jak zdrowie somatyczne, sen, leki, używanie substancji i podatności rozwojowe;
+- **psychologicznych**, takich jak uczenie się, regulacja emocji, przekonania, doświadczenia traumatyczne i mechanizmy obronne;
+- **społecznych**, takich jak relacje, warunki życia, praca, dyskryminacja, kultura i dostęp do opieki.
 
-*Formułowanie Core Conflictual Relationship Theme* (CCRT): życzenie → reakcja obiektu → reakcja self
+Wyliczenie trzech grup nie wystarcza. Warto opisać ich interakcje, na przykład w jaki sposób przewlekły ból ogranicza aktywność, izolacja obniża nastrój, a obniżony nastrój utrudnia rehabilitację.
 
-### Podejście systemowe
+Podejścia systemowe analizują funkcję trudności w relacjach i wzorce komunikacji. Podejścia humanistyczne podkreślają doświadczenie osoby, potrzeby, wartości i warunki autentycznego rozwoju. Każda rama oświetla część danych, dlatego integracja nie powinna zacierać różnic między ich założeniami.
 
-- Problem jako **funkcja systemu** (rodziny, pary, sieci społecznej)
-- Kto korzysta na problemie? Jaką pełni on funkcję w systemie?
-- Wzorce komunikacji, koalicje, granice
+## Etapy procesu
 
-### Podejście humanistyczne
+1. **Ustalenie celu i zebranie danych.** Określa się pytanie diagnostyczne, uzyskuje zgodę i korzysta z adekwatnych źródeł: wywiadu, obserwacji, pomiarów, dokumentacji oraz, za zgodą, informacji od innych osób.
+2. **Opis problemów i zasobów.** Trudności ujmuje się konkretnie, z uwzględnieniem przebiegu, nasilenia, kontekstu, wpływu na funkcjonowanie i bezpieczeństwa.
+3. **Porządkowanie danych.** Tworzy się chronologię, rozpoznaje powtarzalne wzorce oraz oddziela obserwacje od interpretacji i braków informacji.
+4. **Budowanie hipotez.** Dobiera się ramę teoretyczną i opisuje powiązania między podatnościami, wyzwalaczami, procesami podtrzymującymi oraz zasobami.
+5. **Wspólna weryfikacja.** Hipotezę przedstawia się zrozumiałym językiem, pyta o jej zgodność z doświadczeniem osoby i rozważa alternatywne wyjaśnienia.
+6. **Plan i sprawdzanie.** Z hipotezy wyprowadza się cele, działania i wskaźniki zmiany; reakcję na pomoc oraz nowe dane wykorzystuje się do kolejnych rewizji.
 
-- Blokady w **samoaktualizacji** i autentycznym Ja
-- Niezaspokojone **potrzeby podstawowe** (Maslow) lub potrzeby kontaktu (Gestalt)
-- Brak **poczucia sensu** (logoterapia Frankla)
+## Przykład
 
----
+Poniższy, fikcyjny przykład pokazuje sposób rozumowania, a nie gotowy szablon diagnozy.
 
-## Etapy procesu formułowania
+**Problem:** Jan, 34 lata, od kilku miesięcy ogranicza kontakty, odkłada zadania i doświadcza obniżonego nastroju po niepowodzeniu projektu oraz rozstaniu.
 
-### 1. Zebranie danych
+**Hipoteza 5P:** wcześniejszy epizod depresyjny i silna wrażliwość na ocenę mogą stanowić podatność. Niepowodzenie zawodowe i rozstanie poprzedziły obecne pogorszenie. Przekonanie o niewystarczalności, perfekcjonistyczne standardy, prokrastynacja, izolacja i nieregularny sen mogą tworzyć procesy podtrzymujące. Wsparcie brata, stabilne warunki mieszkaniowe, gotowość do współpracy i dotychczasowe kompetencje zawodowe są potencjalnymi zasobami.
 
-- Wywiad kliniczny (historyczny i aktualny)
-- Obserwacja kliniczna (MSE)
-- Testy psychometryczne
-- Dane od osób trzecich (za zgodą)
-- Dokumentacja medyczna
+Hipoteza przewiduje, że stopniowe podejmowanie wartościowych aktywności oraz testowanie perfekcjonistycznych przewidywań powinny ograniczać błędne koło wycofania. Przed wyborem pomocy trzeba jednak uzupełnić ocenę między innymi o stan somatyczny, używanie substancji, objawy manii lub hipomanii i ryzyko samobójcze. Dane te mogą zmienić zarówno formułowanie, jak i priorytety działania.
 
-### 2. Wstępna organizacja danych
+## Zastosowanie w planowaniu pomocy
 
-- Nakreśl **chronologię**: kiedy co zaczęło się dziać?
-- Wyróżnij **wzorce**: co się powtarza w różnych kontekstach?
-- Zidentyfikuj **kluczowe tematy**: strach przed odrzuceniem, poczucie braku kontroli, wstyd
+Formułowanie łączy mechanizm z decyzją, ale nie zastępuje dowodów o skuteczności interwencji ani preferencji osoby. Pomaga:
 
-### 3. Budowanie modelu wyjaśniającego
+1. ustalić priorytety, zwłaszcza bezpieczeństwo i problemy najbardziej ograniczające funkcjonowanie;
+2. dobrać poziom oraz formę pomocy, na przykład konsultację lekarską, terapię indywidualną, rodzinną albo wsparcie środowiskowe;
+3. powiązać techniki z mechanizmami, zamiast dobierać je wyłącznie do etykiety;
+4. przewidzieć bariery, w tym unikanie, trudności materialne lub brak wsparcia;
+5. określić obserwowalne wskaźniki postępu i moment ponownej oceny.
 
-- Wybierz ramy teoretyczne adekwatne do problemu i klienta
-- Połącz czynniki predysponujące → wyzwalające → podtrzymujące
-- Uwzględnij czynniki ochronne
+W przykładzie Jana aktywizacja behawioralna odpowiada hipotezie o utracie wzmocnień, a eksperymenty behawioralne mogą sprawdzać przewidywania związane z oceną. Konsultacja medyczna lub psychiatryczna jest zasadna, jeżeli wskazują na nią wyniki oceny; nie wynika automatycznie z samego modelu 5P.
 
-### 4. Weryfikacja z klientem
+## Kultura i etyka
 
-Formułowanie powinno być **współtworzone** z klientem. Pytaj:
-- „Czy to, co opisuję, rezonuje z Pana/Pani doświadczeniem?"
-- „Czy brakuje czegoś ważnego?"
+Kultura wpływa na nazywanie dystresu, przypisywane mu przyczyny, akceptowalne sposoby ujawniania trudności, zasoby wspólnotowe i oczekiwania wobec leczenia. *Cultural Formulation Interview* w DSM-5-TR pomaga zapytać o kulturową definicję problemu, spostrzegane przyczyny, stresory i wsparcie, znaczenie tożsamości oraz czynniki wpływające na poszukiwanie pomocy (American Psychiatric Association, 2022). Pytania o model wyjaśniający osoby, rozwijane w psychiatrii kulturowej przez Kleinmana (1980), pozwalają porównać perspektywę klinicysty z perspektywą osoby bez uznawania jednej z nich z góry za oczywistą.
 
-### 5. Wykorzystanie w planowaniu terapii
+Etycznie prowadzone formułowanie wymaga:
 
-Formułowanie wskazuje:
-- Priorytety interwencji
-- Potencjalne przeszkody (np. niski wgląd, silne unikanie)
-- Modalność terapii (indywidualna, grupowa, rodzinna)
+- **współpracy i świadomego udziału**: osoba zna cel, zakres wykorzystania informacji i może korygować opis własnego doświadczenia;
+- **pokory epistemicznej**: poziom pewności, dane sprzeczne i alternatywne hipotezy są jawne;
+- **języka szanującego osobę**: opis zachowań i kontekstu zastępuje moralizujące lub stygmatyzujące etykiety;
+- **ochrony prywatności**: gromadzi się tylko dane potrzebne, a udostępnianie formułowania odbywa się zgodnie z rolami zawodowymi i zgodą;
+- **świadomości pozycji i uprzedzeń**: klinicysta sprawdza, czy norm kultury dominującej, ubóstwa, niepełnosprawności lub doświadczeń dyskryminacji nie interpretuje błędnie jako cech jednostki.
 
----
+Współtworzenie nie oznacza wymuszonej zgody. Rozbieżności można zapisać jako różne hipotezy, a ograniczenia udziału, na przykład ostry kryzys lub trudności poznawcze, wymagają dostosowania sposobu komunikacji.
 
-## Przykładowy schemat formułowania
+## Ograniczenia i typowe błędy
 
-```
-Imię: [Jan K., 34 lata]
-Problem zgłoszeniowy: Depresja, wycofanie społeczne, trudności w pracy.
+Badania nad formułowaniem wskazują problemy z rzetelnością między klinicystami oraz nierówną jakość dowodów na trafność poszczególnych hipotez. Użyteczność kliniczna nie może więc być utożsamiana z naukowym potwierdzeniem modelu (Bieling i Kuyken, 2003; Flinn i in., 2015).
 
-Czynniki predysponujące:
-- Wychowanie w rodzinie z tendencjami perfekcjonistycznymi
-- Temperament introwertyczny, wysoka reaktywność na stres
-- Epizod depresyjny w adolescencji
-
-Czynniki wyzwalające:
-- Awaria projektu w pracy (6 mies. temu)
-- Rozstanie z partnerką (4 mies. temu)
-
-Czynniki podtrzymujące:
-- Przekonanie kluczowe: „Jestem niewystarczający"
-- Strategia kompensacyjna: perfekcjonizm → prokrastynacja
-- Izolacja społeczna redukująca pozytywne wzmocnienia
-- Brak regularnego snu i aktywności fizycznej
-
-Czynniki ochronne:
-- Wysoka motywacja do zmiany, dobry wgląd
-- Wsparcie brata, stabilność finansowa
-- Silne zasoby intelektualne
-
-Hipoteza robocza:
-Jan doświadcza depresji w wyniku interakcji podatności temperamentalnej
-z aktualnym stresem życiowym. Kluczową rolę odgrywa przekonanie
-o własnej niewystarczalności, które aktywuje się w sytuacjach oceny
-i porażki, prowadząc do perfekcjonizmu lub unikania.
-
-Rekomendacje:
-- CBT (12–16 sesji): praca z przekonaniami kluczowymi, aktywacja behawioralna
-- Ocena farmakologiczna (psychiatra)
-- Monitorowanie ryzyka suicydalnego
-```
-
----
-
-## Typowe błędy w formułowaniu przypadku
-
-| Błąd | Opis |
+| Błąd | Konsekwencja i zabezpieczenie |
 |---|---|
-| **Redukcjonizm** | Skupienie wyłącznie na jednym wymiarze (np. „to tylko biologiczne") |
-| **Nadinterpretacja** | Wnioski wykraczające poza dostępne dane |
-| **Etykietowanie zamiast wyjaśniania** | „Pacjent jest borderline" - bez wyjaśnienia, co to oznacza dla konkretnej osoby |
-| **Brak aktualizacji** | Formułowanie sformułowane raz i nigdy niezweryfikowane |
-| **Pominięcie zasobów** | Skupienie tylko na deficytach, ignorowanie mocnych stron |
-| **Narzucanie ramy** | Dopasowywanie danych do ulubionej teorii, nie do klienta |
+| Redukcjonizm | Jeden poziom wyjaśnienia przesłania inne; należy sprawdzić czynniki biologiczne, psychologiczne i społeczne oraz ich interakcje. |
+| Nadinterpretacja | Wniosek wykracza poza dane; trzeba oznaczyć go jako hipotezę i wskazać sposób sprawdzenia. |
+| Dopasowywanie do ulubionej teorii | Dane sprzeczne są pomijane; potrzebne są hipotezy alternatywne i konsultacja. |
+| Etykietowanie zamiast wyjaśniania | Nazwa rozpoznania nie określa mechanizmu u danej osoby; potrzebny jest opis funkcjonalny i kontekstowy. |
+| Pominięcie zasobów i kultury | Plan staje się deficytowy lub niedopasowany; zasoby i znaczenia kulturowe należy włączyć od początku. |
+| Brak aktualizacji | Nieaktualna mapa kieruje pomocą; należy ustalić wskaźniki i termin rewizji. |
 
----
+Formułowanie może też stać się zbyt rozbudowane, by kierować decyzjami. Dobra hipoteza jest możliwie prosta, ale nie prostsza niż pozwalają dane, oraz wyraźnie pokazuje, które elementy są kluczowe dla planu pomocy.
 
-## Rola formułowania w planowaniu leczenia
+## Wnioski
 
-Dobrze skonstruowane formułowanie ma bezpośrednie przełożenie na:
-
-1. **Wybór modalności** - indywidualna vs. rodzinna vs. grupowa
-2. **Dobór technik** - ekspozycja, restrukturyzacja poznawcza, praca z ciałem
-3. **Przewidywanie przeszkód** - opór, niska tolerancja frustracji, brak motywacji
-4. **Ustalenie sekwencji** - co leczyć najpierw, by otworzyć drogę do kolejnych celów
-5. **Monitorowanie postępów** - które wskaźniki świadczą o zmianie?
-
----## Bibliografia zalecana
-
-- Eells, T. D. (Ed.). (2007). *Handbook of Psychotherapy Case Formulation* (2nd ed.). Guilford Press.
-- Bieling, P. J., & Kuyken, W. (2003). Is cognitive case formulation science or science fiction? *Clinical Psychology: Science and Practice*, 10(1), 52–69.
-- Morrison, J. (2014). *Wywiad diagnostyczny. Podręcznik DSM-5*. Wydawnictwo UJ.
-- Johnstone, L., & Dallos, R. (Eds.). (2014). *Formulation in Psychology and Psychotherapy*. Routledge.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Formułowanie przypadku w diagnozie psychologicznej" polega na tym, że w diagnozie najwięcej błędów powstaje nie na poziomie pojedynczej techniki, lecz na etapie wnioskowania z danych o różnej jakości i pochodzeniu.
-
-Dopiero wspólna analiza zagadnień takich jak czym jest formułowanie przypadku?, przykładowy schemat formułowania oraz bibliografia zalecana pokazuje pełny zakres omawianego zjawiska.
-
-Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
-
-## Podsumowanie
-
-Temat "Formułowanie przypadku w diagnozie psychologicznej" pokazuje, że najbardziej użyteczna diagnoza łączy precyzję metodologiczną z uważnością na kontekst, relację i ograniczenia interpretacji.
-
-
-Dopiero wspólna analiza zagadnień takich jak czym jest formułowanie przypadku?, przykładowy schemat formułowania oraz bibliografia zalecana pokazuje pełny zakres omawianego zjawiska.
+Formułowanie przypadku przekształca rozproszone dane w indywidualną, sprawdzalną mapę mechanizmów i zasobów. Modele 5P, Persons, psychodynamiczny i biopsychospołeczny organizują materiał z różnych perspektyw, lecz żaden nie zwalnia z krytycznej oceny dowodów. Największą wartość ma formułowanie współtworzone, wrażliwe kulturowo i etycznie, które prowadzi do konkretnych decyzji, a następnie zmienia się pod wpływem ich wyników.
 
 ## Bibliografia
 
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+- American Psychiatric Association. (2022). *Diagnostic and Statistical Manual of Mental Disorders* (5th ed., text rev.). American Psychiatric Association Publishing.
+- Bieling, P. J., & Kuyken, W. (2003). Is cognitive case formulation science or science fiction? *Clinical Psychology: Science and Practice, 10*(1), 52–69. https://doi.org/10.1093/clipsy.10.1.52
+- Eells, T. D. (Ed.). (2022). *Handbook of Psychotherapy Case Formulation* (3rd ed.). Guilford Press.
+- Engel, G. L. (1977). The need for a new medical model: A challenge for biomedicine. *Science, 196*(4286), 129–136. https://doi.org/10.1126/science.847460
+- Flinn, L., Braham, L., & das Nair, R. (2015). How reliable are case formulations? A systematic literature review. *British Journal of Clinical Psychology, 54*(3), 266–290. https://doi.org/10.1111/bjc.12073
+- Johnstone, L., & Dallos, R. (Eds.). (2014). *Formulation in Psychology and Psychotherapy: Making Sense of People's Problems* (2nd ed.). Routledge.
+- Kleinman, A. (1980). *Patients and Healers in the Context of Culture*. University of California Press.
+- Luborsky, L., & Crits-Christoph, P. (1998). *Understanding Transference: The Core Conflictual Relationship Theme Method* (2nd ed.). American Psychological Association.
+- Macneil, C. A., Hasty, M. K., Conus, P., & Berk, M. (2012). Is diagnosis enough to guide interventions in mental health? Using case formulation in clinical practice. *BMC Medicine, 10*, 111. https://doi.org/10.1186/1741-7015-10-111
+- McWilliams, N. (2011). *Psychoanalytic Diagnosis: Understanding Personality Structure in the Clinical Process* (2nd ed.). Guilford Press.
+- Persons, J. B. (2008). *The Case Formulation Approach to Cognitive-Behavior Therapy*. Guilford Press.
+- Weerasekera, P. (1996). *Multiperspective Case Formulation: A Step Towards Treatment Integration*. Krieger Publishing.

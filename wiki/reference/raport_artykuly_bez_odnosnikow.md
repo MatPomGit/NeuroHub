@@ -615,7 +615,6 @@ Poni9=ej znajdujďż˝& siďż˝" bezpo9:rednie odno9:niki do artyku9Bw bez li
 
 - [`psychopathology/depresja_poporodowa.md`](../psychopatologia/depresja_poporodowa.md)
 - [`psychopathology/dezintegracja_pozytywna.md`](../psychopatologia/dezintegracja_pozytywna.md)
-- [`psychopathology/formulowanie_przypadku.md`](../psychopatologia/formulowanie_przypadku.md)
 - [`psychopathology/intelektualizacja.md`](../psychopatologia/intelektualizacja.md)
 - [`psychopathology/klasyfikacje.md`](../psychopatologia/klasyfikacje.md)
 - [`psychopathology/neurorozwojowe.md`](../psychopatologia/neurorozwojowe.md)
@@ -883,9 +882,7 @@ Temat tego artyku9u jest istotny dla praktyki psychologicznej, poniewa9= 9ďż
 W tym artykule kluczowe pojďż˝"cia sďż˝& rozumiane w sposBb operacyjny, tak aby mo9=na je by9o stosowaďż˝! w badaniach i praktyce. Definicja zjawiska obejmuje zarBwno jego kryteria rozpoznania, jak i granice pojďż˝"ciowe odrB9=niajďż˝&ce je od konstruktBw pokrewnych. Warto pamiďż˝"taďż˝!, 9=e czďż˝"9:ďż˝! terminBw ma kilka konkurencyjnych ujďż˝"ďż˝!, zale9=nie od szko9y teoretycznej. Dlatego podczas interpretacji wynikBw nale9=y zawsze wskazaďż˝!, ktBrďż˝& definicjďż˝" przyjďż˝"to i dlaczego. Taka precyzja terminologiczna zwiďż˝"ksza porBwnywalno9:ďż˝! danych oraz jako9:ďż˝! wnioskowania.
 
 
-## Analiza
-
-Mechanizmy omawianego zjawiska najlepiej wyja9:niaďż˝! na kilku poziomach: poznawczym, emocjonalnym, behawioralnym i 9:rodowiskowym. Dane empiryczne zwykle pokazujďż˝&, 9=e efekt ko9cowy wynika z interakcji wielu czynnikBw, a nie z pojedynczej przyczyny. Z perspektywy metodologicznej warto uwzglďż˝"dniďż˝! zarBwno wyniki bada9 przekrojowych, jak i pod9u9=nych, poniewa9= odpowiadajďż˝& one na rB9=ne pytania. Ograniczeniem bywa heterogeniczno9:ďż˝! prBb i narzďż˝"dzi pomiarowych, ktBra utrudnia bezpo9:rednie porBwnania miďż˝"dzy badaniami. Mimo tych ogranicze9 spBjny obraz zjawiska mo9=na uzyskaďż˝!, 9ďż˝&czďż˝&c dane ilo9:ciowe, jako9:ciowe i kliniczne.
+cowy wynika z interakcji wielu czynnikBw, a nie z pojedynczej przyczyny. Z perspektywy metodologicznej warto uwzglďż˝"dniďż˝! zarBwno wyniki bada9 przekrojowych, jak i pod9u9=nych, poniewa9= odpowiadajďż˝& one na rB9=ne pytania. Ograniczeniem bywa heterogeniczno9:ďż˝! prBb i narzďż˝"dzi pomiarowych, ktBra utrudnia bezpo9:rednie porBwnania miďż˝"dzy badaniami. Mimo tych ogranicze9 spBjny obraz zjawiska mo9=na uzyskaďż˝!, 9ďż˝&czďż˝&c dane ilo9:ciowe, jako9:ciowe i kliniczne.
 
 
 ## Praktyczne przykłady

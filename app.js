@@ -926,7 +926,7 @@ function renderMd(text, id, item) {
   window.scrollTo(0,0);
   document.getElementById('progFill').style.width='0%';
   if (isEmpty) updateEmptyIndicators();
-  addKeywordLinksToRenderedArticle(area.querySelector('.md'), id);
+  addCanonicalTopicLinksToRenderedArticle(area.querySelector('.md'), id);
   setupArticleToc(area, id);
   setupCopyLinkButton(area, id);
   setupMeasurementToolsSection(area);
@@ -2017,7 +2017,6 @@ function setBreadcrumb(item) {
 const SEARCH_UI_STATE_KEY = 'psyhub-search-ui-state';
 const SEARCH_METRICS_KEY = 'psyhub-search-metrics-v1';
 let searchIndex = [];
-let keywordLinkIndex = new Map();
 let searchFullTextIndex = new Map();
 let searchFullTextLoadPromise = null;
 let searchSessionState = null;
@@ -2092,18 +2091,6 @@ function rebuildSearchIndex() {
       normalizedLevel: normalizeSearchText(item.level || ''),
     }));
 
-  /* Tworzy indeks słów kluczowych -> ID artykułu dla szybkiego linkowania wewnątrz treści. */
-  keywordLinkIndex = new Map();
-  searchIndex.forEach(entry => {
-    const phrases = [entry.label, ...(entry.keywords || [])]
-      .map(value => String(value || '').trim())
-      .filter(value => value.length >= 4);
-    phrases.forEach(phrase => {
-      const normalized = normalizeSearchText(phrase);
-      if (!normalized || keywordLinkIndex.has(normalized)) return;
-      keywordLinkIndex.set(normalized, entry.id);
-    });
-  });
   /* Po przebudowie podstawowego indeksu zerujemy indeks pełnotekstowy i ładujemy go ponownie. */
   searchFullTextIndex = new Map();
   searchFullTextLoadPromise = null;
@@ -2354,69 +2341,9 @@ async function applySearchUi() {
   results.classList.add('is-visible');
 }
 
-/* Podmienia słowa kluczowe na odnośniki do powiązanych artykułów w treści aktualnej strony. */
-function addKeywordLinksToRenderedArticle(container, currentId) {
-  const currentItem = pageMap.get(currentId);
-  if (!currentItem || !container) return;
-  const keywords = (currentItem.keywords || []).map(value => String(value || '').trim()).filter(Boolean);
-  if (!keywords.length) return;
-
-  const linkTargets = keywords
-    .map(keyword => {
-      const normalizedKeyword = normalizeSearchText(keyword);
-      const targetId = keywordLinkIndex.get(normalizedKeyword);
-      if (!targetId || targetId === currentId) return null;
-      return { keyword, targetId };
-    })
-    .filter(Boolean)
-    .sort((a, b) => b.keyword.length - a.keyword.length)
-    .slice(0, 6);
-  if (!linkTargets.length) return;
-
-  /* Escapuje literały RegExp, aby bezpiecznie tworzyć wzorce dla fraz wielowyrazowych. */
-  const escapeRegExp = value => value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-
-  const walker = document.createTreeWalker(container, NodeFilter.SHOW_TEXT, {
-    acceptNode(node) {
-      if (!node.nodeValue || !node.nodeValue.trim()) return NodeFilter.FILTER_REJECT;
-      const parentTag = node.parentElement?.tagName;
-      if (['A', 'CODE', 'PRE', 'H1', 'H2', 'H3', 'H4'].includes(parentTag)) return NodeFilter.FILTER_REJECT;
-      return NodeFilter.FILTER_ACCEPT;
-    }
-  });
-  const textNodes = [];
-  while (walker.nextNode()) textNodes.push(walker.currentNode);
-
-  let linksLeft = 6;
-  textNodes.forEach(textNode => {
-    if (linksLeft <= 0) return;
-    const original = textNode.nodeValue;
-    let replaced = false;
-    const fragment = document.createDocumentFragment();
-    let remaining = original;
-
-    linkTargets.forEach(({ keyword, targetId }) => {
-      if (!remaining || linksLeft <= 0) return;
-      const pattern = new RegExp(`(^|[^\\p{L}\\p{N}])(${escapeRegExp(keyword)})(?=$|[^\\p{L}\\p{N}])`, 'iu');
-      const match = remaining.match(pattern);
-      if (!match) return;
-      replaced = true;
-      const idx = match.index || 0;
-      const prefix = match[1] || '';
-      const phrase = match[2] || '';
-      fragment.appendChild(document.createTextNode(remaining.slice(0, idx) + prefix));
-      const link = document.createElement('a');
-      link.href = `#${targetId}`;
-      link.textContent = phrase;
-      fragment.appendChild(link);
-      remaining = remaining.slice(idx + match[0].length);
-      linksLeft -= 1;
-    });
-    if (replaced) {
-      fragment.appendChild(document.createTextNode(remaining));
-      textNode.parentNode.replaceChild(fragment, textNode);
-    }
-  });
+/* Linkuje pierwsze wystąpienia nazw innych tematów kanonicznych. */
+function addCanonicalTopicLinksToRenderedArticle(container, currentId) {
+  window.PsyHubArticleLinks?.linkCanonicalTopics(container, currentId, searchIndex);
 }
 
 

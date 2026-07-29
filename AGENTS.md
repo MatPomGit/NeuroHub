@@ -32,20 +32,33 @@ Ten dokument określa zasady pracy agenta AI, który tworzy lub modyfikuje treś
 
 ## Struktura artykułów
 
-Każdy nowy lub aktualizowany artykuł powinien (o ile temat na to pozwala) zawierać:
+W projekcie obowiązuje zasada **jeden temat, jeden artykuł kanoniczny**:
 
-1. Krótkie wprowadzenie.
-2. Definicje.
-3. Część analityczną z omówieniem mechanizmów i zależności.
-4. **Praktyczne przykłady**:
-   - co najmniej jeden przykład „dobrej praktyki”,
-   - co najmniej jeden przykład „złej praktyki” lub częstego błędu,
-   - krótkie omówienie konsekwencji obu podejść.
-5. Perspektywę nieoczywistą:
-   - spróbuj pokazać zagadnienie z innego punktu widzenia niż dominujący społecznie,
-   - uzasadnij tę perspektywę argumentami i danymi.
-6. Podsumowanie głównych wniosków.
-7. **Bibliografię**.
+1. Przed utworzeniem pliku sprawdź, czy zagadnienie nie jest już opisane.
+2. Rozwijaj istniejący artykuł zamiast tworzyć osobny plik dla kolejnej teorii, odmiany, mechanizmu, etapu albo grupy przykładów tego samego tematu.
+3. Wydziel nowy artykuł tylko wtedy, gdy odpowiada on na inne główne pytanie, wymaga odrębnej argumentacji i może być zrozumiany bez powtarzania znacznej części innego opracowania.
+4. Podczas porządkowania scalaj krótkie, nakładające się teksty w szersze opracowania. Zachowuj wartościową treść, źródła oraz działające odwołania.
+
+[Zalecany wzorzec artykułu](wiki/reference/article_template.md) jest pomocą redakcyjną, a nie obowiązkowym formularzem. Dobieraj sekcje do tematu. Typowy tok wywodu może obejmować:
+
+1. najważniejsze informacje;
+2. definicję i granice pojęcia;
+3. mechanizmy, modele i uwarunkowania;
+4. stan badań;
+5. zastosowania lub przykłady;
+6. ograniczenia i kwestie sporne;
+7. wnioski;
+8. bibliografię.
+
+Nie dodawaj sekcji tylko po to, aby spełnić schemat. Artykuł teoretyczny nie musi zawierać przykładów dobrej i złej praktyki, a perspektywa alternatywna jest potrzebna tylko wtedy, gdy ma oparcie w literaturze.
+
+## Linkowanie tematów kanonicznych
+
+1. Tytuł artykułu nazywa zagadnienie kanoniczne.
+2. Pole `aliases` może zawierać utrwalone skróty i jednoznaczne nazwy alternatywne. Nie dodawaj do niego luźno powiązanych słów kluczowych.
+3. Pierwsze znaczące wystąpienie nazwy innego zagadnienia w treści powinno prowadzić do jego artykułu.
+4. Preferuj odnośnik umieszczony naturalnie w wywodzie. Nie linkuj każdego powtórzenia tej samej nazwy.
+5. Jeśli dwie nazwy mogłyby prowadzić do różnych artykułów, uściślij termin zamiast tworzyć niejednoznaczny alias.
 
 ## Bibliografia i źródła
 
@@ -109,8 +122,10 @@ Każdy nowy lub aktualizowany artykuł powinien (o ile temat na to pozwala) zawi
 
 - [ ] Czy tekst jest napisany poprawną polszczyzną?
 - [ ] Czy forma i argumentacja są naukowe i rzetelne?
-- [ ] Czy dodano przykłady dobrej i złej praktyki?
-- [ ] Czy przedstawiono perspektywę nieoczywistą, popartą argumentami?
+- [ ] Czy temat ma jeden artykuł kanoniczny i nie dubluje innego opracowania?
+- [ ] Czy struktura wynika z tematu, zamiast mechanicznie odtwarzać wzorzec?
+- [ ] Czy przykłady i perspektywy alternatywne dodano tylko wtedy, gdy pomagają wyjaśnić zagadnienie?
+- [ ] Czy pierwsze znaczące wystąpienia innych tematów prowadzą do ich artykułów?
 - [ ] Czy artykuł zawiera sekcję Bibliografia z wiarygodnymi źródłami?
 - [ ] Czy każdy wykres, statystyka lub zestawienie danych ma podane adekwatne źródło?
 - [ ] Czy sekcja „## Bibliografia” jest ostatnim rozdziałem artykułu?

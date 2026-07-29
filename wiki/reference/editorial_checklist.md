@@ -1,19 +1,20 @@
-﻿# Checklista redakcyjna artykułu
+# Pomocnicza lista redakcyjna
 
-- [ ] Tekst jest napisany poprawną polszczyzną (ortografia, interpunkcja, składnia).
-- [ ] Forma jest naukowa: fakty oddzielone od opinii, precyzyjne definicje.
-- [ ] Struktura zawiera: wprowadzenie, definicje, analizę, dobre i złe praktyki, perspektywę nieoczywistą, podsumowanie, bibliografię.
-- [ ] Uwzględniono co najmniej jeden przykład dobrej praktyki.
-- [ ] Uwzględniono co najmniej jeden przykład złej praktyki lub częstego błędu.
-- [ ] Pokazano perspektywę nieoczywistą i uzasadniono ją danymi/argumentami.
-- [ ] Dodano sekcję „## Bibliografia” i wpisy zgodne z APA 7.
-- [ ] Sekcja „## Bibliografia” jest ostatnim rozdziałem artykułu.
-- [ ] Dane liczbowe mają źródła wskazane w treści.
-- [ ] Język jest niestygmatyzujący i niesensacyjny.
-- [ ] Całość ma wartość edukacyjną i praktyczną.
+Lista pomaga ocenić artykuł przed publikacją. Nie wymaga obecności określonego zestawu rozdziałów. Zalecany, elastyczny układ opisano w artykule [Zalecany wzorzec artykułu](article_template.md).
 
-- [ ] Podczas aktualizacji nie usunięto wartościowej treści; została scalona w odpowiednich sekcjach.
-- [ ] Nie dodano generycznych akapitów niezwiązanych bezpośrednio z tematem artykułu.
-- [ ] Nazwa pliku i katalog wiki są zgodne z tematyką artykułu oraz konwencją snake_case.
-- [ ] Po zmianach nazw/lokalizacji plików zaktualizowano wszystkie odwołania i linki.
-
+- [ ] Artykuł ma jasno określony temat i nie dubluje istniejącego opracowania.
+- [ ] Powiązane fragmenty rozproszone w innych plikach zostały w miarę możliwości scalone.
+- [ ] Tytuł nazywa zagadnienie, a opcjonalne aliasy zawierają tylko jego utrwalone nazwy alternatywne.
+- [ ] Wprowadzenie odpowiada na główne pytanie bez rozbudowanych zapowiedzi.
+- [ ] Definicje są precyzyjne, a granice pojęcia zostały wyjaśnione.
+- [ ] Fakty, interpretacje i hipotezy są wyraźnie rozróżnione.
+- [ ] Ważne twierdzenia mają oparcie w adekwatnych źródłach.
+- [ ] Przykłady, analogie i ciekawostki pomagają zrozumieć temat.
+- [ ] Omówiono istotne ograniczenia danych i alternatywne interpretacje.
+- [ ] Pierwsze znaczące wystąpienia innych zagadnień prowadzą do ich artykułów kanonicznych.
+- [ ] Każdy akapit wnosi definicję, wyjaśnienie, dowód, porównanie, przykład, ograniczenie albo wniosek.
+- [ ] Usunięto powtórzenia, ogólniki i tekst służący wyłącznie zwiększeniu objętości.
+- [ ] Język jest poprawny, precyzyjny, niestygmatyzujący i niesensacyjny.
+- [ ] Dane liczbowe, wykresy i zestawienia mają wskazane źródła.
+- [ ] Sekcja `## Bibliografia` jest ostatnim rozdziałem artykułu.
+- [ ] Nazwa i lokalizacja pliku są zgodne z tematyką oraz konwencją `snake_case`.

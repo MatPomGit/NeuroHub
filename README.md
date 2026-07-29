@@ -71,7 +71,7 @@ To dobre uzupełnienie nauki, kiedy chcesz zobaczyć temat „w działaniu”, a
 
 ## Informacja dla autorów treści
 
-Artykuły są rozwijane według standardu redakcyjnego projektu (struktura naukowa, rozdzielenie faktów od opinii, obowiązkowa bibliografia). Szczegółowe zasady znajdują się w [AGENTS.md](AGENTS.md) oraz [dokumentach konwencji treści](docs/content-conventions.md).
+Artykuły są rozwijane według standardu redakcyjnego projektu: jeden temat ma jedno opracowanie kanoniczne, struktura wynika z problemu, a każda część wnosi wartość merytoryczną. [Zalecany wzorzec artykułu](wiki/reference/article_template.md) jest elastyczną pomocą, nie obowiązkowym formularzem. Szczegółowe zasady znajdują się w [AGENTS.md](AGENTS.md) oraz [dokumentach konwencji treści](docs/content-conventions.md).
 
 ## Status projektu
 

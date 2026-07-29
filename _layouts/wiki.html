@@ -110,9 +110,26 @@
       <p class="wiki-source">Źródło: <code>{{ page.source_path }}</code></p>
     </article>
   </main>
+  <script src="{{ '/site-config.js' | relative_url }}"></script>
+  <script src="{{ '/modules/article-links.js' | relative_url }}"></script>
   <script>
     (function(){
       const bar=document.getElementById('readingProgress');
+      const entries=(window.SITE_CONFIG?.nav||[]).flatMap(section=>section.items||[]);
+      const current=entries.find(entry=>entry.file==={{ page.source_path | jsonify }});
+      const root={{ '/' | relative_url | jsonify }};
+      window.PsyHubArticleLinks?.linkCanonicalTopics(
+        document.querySelector('.wiki-article'),
+        current?.id,
+        entries,
+        {
+          hrefForId(id,topic){
+            const target=entries.find(entry=>entry.id===id);
+            if(!target?.file)return `${root}#${id}`;
+            return `${root}${target.file.replace(/\.md$/i,'.html')}`;
+          }
+        }
+      );
       function update(){
         const max=document.documentElement.scrollHeight-window.innerHeight;
         bar.style.width=(max>0?Math.min(100,window.scrollY/max*100):0)+'%';

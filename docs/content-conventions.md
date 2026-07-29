@@ -32,6 +32,58 @@ Do automatycznej kontroli używamy:
 
 Skrypt sprawdza m.in. zgodność nazw plików i katalogów `wiki/**` z powyższą konwencją.
 
+## Model treści: jeden temat, jeden artykuł
+
+Każde rozpoznawalne zagadnienie powinno mieć jeden artykuł kanoniczny. Artykuł może być dłuższy i zawierać kilka powiązanych modeli, mechanizmów, zastosowań lub sporów. Nie należy rozdzielać ich na osobne pliki, jeśli odpowiadają na to samo główne pytanie.
+
+Przed utworzeniem artykułu:
+
+1. wyszukaj tytuł, nazwę alternatywną i skróty zagadnienia;
+2. sprawdź artykuły w tej samej i pokrewnych domenach;
+3. zdecyduj, czy nowa treść rozwija istniejący temat;
+4. jeśli tak, włącz ją do artykułu kanonicznego i usuń powtórzenia.
+
+Nowy artykuł jest uzasadniony, gdy ma odrębny zakres pojęciowy, odpowiada na inne główne pytanie i wymaga własnej argumentacji. Sama długość rozdziału nie jest wystarczającym powodem podziału.
+
+Podczas scalania należy:
+
+- wybrać tytuł odpowiadający terminowi najczęściej używanemu w literaturze;
+- zachować wartościową treść i bibliografię wszystkich scalanych tekstów;
+- uporządkować wywód, zamiast mechanicznie łączyć kolejne pliki;
+- usunąć powtórzone definicje, wprowadzenia i podsumowania;
+- zaktualizować `site-config.js` oraz linki wewnętrzne.
+
+## Zalecany wzorzec, nie obowiązkowy szablon
+
+Pełną propozycję opisuje [Zalecany wzorzec artykułu](../wiki/reference/article_template.md). Nie wymaga ona określonego zestawu nagłówków. Autor dobiera strukturę do problemu, materiału dowodowego i potrzeb czytelnika.
+
+Każdy akapit powinien definiować, wyjaśniać, dokumentować, porównywać, ilustrować, ograniczać albo wyprowadzać wniosek. Tekst, który nie realizuje żadnej z tych funkcji, należy usunąć lub połączyć z fragmentem merytorycznym.
+
+Objętość jest skutkiem pełnego opracowania tematu, nie celem samym w sobie. Nie wolno jej zwiększać przez:
+
+- powtarzanie tez innymi słowami;
+- ogólne stwierdzenia o znaczeniu psychologii lub danego tematu;
+- rozbudowane zapowiedzi kolejnych sekcji;
+- przykłady bez funkcji wyjaśniającej;
+- osobne podsumowanie każdej krótkiej części.
+
+## Nazwy kanoniczne, aliasy i hiperłącza
+
+Pozycja artykułu w `site-config.js` może zawierać pole `aliases`:
+
+```javascript
+{
+  id: 'poznawcza/pamiec_robocza',
+  label: 'Pamięć robocza',
+  aliases: ['working memory'],
+  file: 'wiki/psychologia_poznawcza/pamiec_robocza.md'
+}
+```
+
+Alias musi być utrwaloną i jednoznaczną nazwą tego samego zagadnienia. Nie jest tagiem ani ogólnym słowem kluczowym. Powtórzenie aliasu dla różnych artykułów powoduje niejednoznaczność, dlatego mechanizm linkowania pomija taką nazwę.
+
+Interfejs PsyHub automatycznie zamienia pierwsze znaczące wystąpienie tytułu lub aliasu innego zagadnienia w hiperłącze. Pomija istniejące linki, kod i nagłówki. Jawne linki Markdown nadal są zalecane, gdy autor chce wskazać konkretny kontekst albo użyć odmiany nazwy, której automat nie rozpoznaje.
+
 ## Reguła opcjonalnej sekcji „Cytat badacza”
 
 W artykułach `wiki/**` można dodać sekcję:

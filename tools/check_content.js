@@ -415,6 +415,12 @@ function runBibliographyHeaderCheck(siteConfig, report) {
   pushOk(report, 'bibliography-header', `Sprawdzono nagłówek bibliografii w plikach wiki: ${checkedCount}.`);
 }
 
+/* Rozpoznaje techniczny plik przekierowania Jekyll, który nie jest artykułem. */
+function isRedirectPage(content) {
+  const frontmatter = String(content || '').match(/^\uFEFF?---\r?\n([\s\S]*?)\r?\n---(?:\r?\n|$)/);
+  return Boolean(frontmatter && /^layout:\s*redirect\s*$/m.test(frontmatter[1]));
+}
+
 /* Sprawdza konwencję nazewnictwa plików i katalogów wiki (snake_case, ASCII, język polski). */
 function runWikiNamingConventionCheck(report) {
   const wikiRoot = path.join(repoRoot, 'wiki');
@@ -432,7 +438,13 @@ function runWikiNamingConventionCheck(report) {
       const absolutePath = path.join(dirPath, entry.name);
       if (entry.isDirectory()) {
         walk(absolutePath);
+        return;
       } else if (!entry.isFile() || !entry.name.endsWith('.md')) {
+        return;
+      }
+
+      const content = fs.readFileSync(absolutePath, 'utf8');
+      if (isRedirectPage(content)) {
         return;
       }
 

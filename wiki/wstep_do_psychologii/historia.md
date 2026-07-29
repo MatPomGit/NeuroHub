@@ -1,81 +1,61 @@
 ---
-lastReviewed: 2026-04-01
+lastReviewed: 2026-07-29
 reviewCycleMonths: 24
-evidenceCutoffDate: 2025-12-31
+evidenceCutoffDate: 2026-07-29
 ---
 
-# Historia neuropsychologii
+# Historia psychologii
 
-Od frenologii Galla przez odkrycia Broki i Wernickego po współczesne metody neuroobrazowania - jak zmieniało się rozumienie mózgu i umysłu.
+Psychologia wyodrębniła się z filozofii, fizjologii i medycyny pod koniec XIX wieku. Jej historia nie jest jednak prostą sekwencją szkół, z których każda obalała poprzednią. Rozwój dyscypliny polegał raczej na zmianach pytań badawczych, metod i kryteriów uznawania twierdzeń za naukowe (Goodwin, 2015; Pickren & Rutherford, 2010).
 
-## XIX wiek: narodziny lokalizacjonizmu
+## Od filozofii umysłu do pomiaru
 
-**Franz Joseph Gall (1758–1828)** - twórca frenologii, pierwszej systematycznej próby powiązania struktury mózgu z funkcjami psychicznymi. Choć jego metoda (badanie wypukłości czaszki) była błędna, Gall sformułował kluczowe postulaty: mózg jest organem umysłu, różne jego części mają różne funkcje, a większe obszary oznaczają większe zdolności.
+Pytania o pamięć, emocje, spostrzeganie i wolę pojawiały się już w filozofii starożytnej. W epoce nowożytnej spór między racjonalizmem a empiryzmem dotyczył między innymi tego, czy wiedza wynika przede wszystkim z rozumu, czy z doświadczenia. Dla późniejszej psychologii szczególne znaczenie miało empiryczne założenie, że procesy umysłowe można badać na podstawie obserwacji i doświadczenia.
 
-**Paul Broca (1824–1880)** - w 1861 roku opisał pacjenta „Tana" (Louis Leborgne), który po uszkodzeniu lewego płata czołowego stracił zdolność mowy. Broca wykazał, że mowa jest zlokalizowana w konkretnym obszarze - dziś zwanym *obszarem Broki* (pola Brodmanna 44/45).
+W XIX wieku fizjologia zmysłów dostarczyła psychologii metod ilościowych. Badania Ernsta Webera, Gustava Fechnera i Hermanna von Helmholtza pokazały, że relacje między bodźcem fizycznym a doświadczeniem psychicznym można mierzyć. Psychofizyka stała się jednym z pierwszych obszarów, w których zastosowano eksperyment i model matematyczny do badania procesów psychicznych.
 
-**Carl Wernicke (1848–1905)** - w 1874 roku opisał pacjentów z zaburzeniem rozumienia mowy przy uszkodzeniu tylnej części lewego płata skroniowego. *Obszar Wernickego* (BA 22) okazał się kluczowy dla rozumienia języka.
+## Instytucjonalizacja psychologii eksperymentalnej
 
-> Model **Wernicke-Lichtheim-Geschwind** z końca XIX wieku zakładał, że mowa wymaga dwóch centrów (Broki do produkcji, Wernickego do rozumienia) połączonych *pęczkiem łukowatym*. Choć uproszczony, model ten nadal stanowi punkt wyjścia do rozumienia afazji.
+Za symboliczny początek psychologii jako samodzielnej dyscypliny przyjmuje się utworzenie przez Wilhelma Wundta laboratorium w Lipsku w 1879 roku. Data ta nie oznacza powstania psychologii „od zera”. Wskazuje raczej moment, w którym badania nad procesami psychicznymi uzyskały własne laboratoria, czasopisma, programy kształcenia i społeczność zawodową.
 
-## XX wiek: od holizmu do kognitywistyki
+Wundt badał przede wszystkim podstawowe procesy świadome w kontrolowanych warunkach. Edward Titchener rozwinął w Stanach Zjednoczonych strukturalizm, który próbował opisywać elementy doświadczenia świadomego. William James i funkcjonaliści pytali natomiast o to, jak procesy psychiczne wspierają przystosowanie organizmu do środowiska. Różnica dotyczyła więc nie tylko teorii, lecz także rodzaju pytań: o budowę doświadczenia albo o jego funkcję.
 
-**Karl Lashley (1890–1958)** - w eksperymentach na szczurach doszedł do wniosku, że trudność w uczeniu się zależy od *wielkości* usuniętego obszaru, a nie jego *lokalizacji* - sformułował zasadę *masy akcji*.
+## Rozwój diagnozy i psychologii stosowanej
 
-**Donald Hebb (1904–1985)** - w 1949 roku wprowadził koncepcję *komórek zespołowych (cell assemblies)* i regułę Hebba: „Neurony, które razem się aktywują, razem się łączą." To fundament współczesnej neuroplastyczności.
+Na przełomie XIX i XX wieku psychologia zaczęła służyć edukacji, pracy i diagnozie. Francis Galton rozwijał pomiar różnic indywidualnych, Alfred Binet i Théodore Simon przygotowali skalę do oceny funkcjonowania poznawczego dzieci, a Charles Spearman wprowadzał metody statystyczne do badania zdolności.
 
-**Roger Sperry (1913–1994)** - w latach 60. badał pacjentów po *callosotomii* (przecięciu ciała modzelowatego). Jego eksperymenty ujawniły, że każda półkula może funkcjonować niezależnie, z lewą dominującą w mowie. Sperry otrzymał Nagrodę Nobla w 1981 roku.
+Rozwój testów przyniósł zarówno korzyści, jak i nadużycia. Wyniki bywały interpretowane bez uwzględnienia języka, kultury, warunków edukacyjnych i błędu pomiaru. Historia psychometrii pokazuje, że narzędzie może być technicznie użyteczne, a jednocześnie stosowane w sposób społecznie niesprawiedliwy. Współczesna diagnoza wymaga więc danych o rzetelności, trafności, normach oraz ograniczeniach interpretacji.
 
-**Aleksander Łuria (1902–1977)** - rosyjski neuropsycholog, twórca kompleksowej teorii funkcjonalnych układów mózgu i metodologii badania neuropsychologicznego. Jego prace kliniczne są klasykami opartymi o głębokie obserwacje zachowania.
+## Psychoanaliza, behawioryzm i psychologia postaci
 
-## Rewolucja neuroobrazowania
+Psychoanaliza Zygmunta Freuda rozwijała model psychiki oparty na procesach nieświadomych, konflikcie i znaczeniu doświadczeń wczesnodziecięcych. Jej wpływ na kulturę i psychoterapię był znaczny, lecz wiele klasycznych twierdzeń trudno poddawało się testowaniu eksperymentalnemu.
 
-Druga połowa XX wieku przyniosła techniki pozwalające obserwować mózg *in vivo*. CT (lata 70.) jako pierwsza technika pokazująca strukturę mózgu żywego człowieka, MRI (lata 80.) ze znacznie lepszą rozdzielczością tkanek miękkich, PET (lata 80.) jako pierwsza technika funkcjonalna, a w końcu fMRI (lata 90.) - technika BOLD pozwalająca mapować aktywację bez promieniowania radioaktywnego.
+Behawioryzm przesunął przedmiot badań na obserwowalne zachowanie. W manifeście z 1913 roku John B. Watson postulował psychologię jako obiektywną naukę eksperymentalną, której celem jest przewidywanie i kontrola zachowania (Watson, 1913). Późniejsze badania nad warunkowaniem, prowadzone między innymi przez B. F. Skinnera, dostarczyły precyzyjnych modeli uczenia się oraz praktycznych metod modyfikacji zachowania.
 
-Te techniki przekształciły neuropsychologię z dyscypliny opartej na obserwacji deficytów w naukę, która może badać funkcje mózgu u zdrowych osób w czasie rzeczywistym.
+Psychologia postaci sprzeciwiała się wyjaśnianiu doświadczenia wyłącznie przez sumowanie prostych elementów. Max Wertheimer, Wolfgang Köhler i Kurt Koffka badali organizację percepcji i wskazywali, że właściwości całości nie wynikają mechanicznie z właściwości pojedynczych składników.
 
-## Wkład polskich badaczy i ośrodków
+## Rewolucja poznawcza
 
-Rozwój neuropsychologii w Polsce przebiegał równolegle do badań światowych, ze szczególnym naciskiem na diagnostykę kliniczną i rehabilitację funkcji poznawczych.
+W połowie XX wieku rosło zainteresowanie pamięcią, językiem, uwagą i rozwiązywaniem problemów. Rozwój teorii informacji, językoznawstwa i informatyki dostarczył nowych pojęć do opisu reprezentacji oraz przetwarzania informacji. Książka Ulrica Neissera *Cognitive Psychology* uporządkowała program psychologii poznawczej i utrwaliła nazwę dyscypliny (Neisser, 1967).
 
-- **Ośrodki akademickie** (m.in. Warszawa, Kraków, Poznań, Lublin) rozwijały diagnostykę neuropsychologiczną w powiązaniu z neurologią i psychiatrią.
-- **Tradycja psychologii klinicznej** w Polsce kładła nacisk na łączenie testów z pogłębionym wywiadem oraz analizą funkcjonalną trudności pacjenta.
-- **Rozwój rehabilitacji neuropsychologicznej** zwiększył znaczenie pracy interdyscyplinarnej: psycholog, neurolog, psychiatra, logopeda, fizjoterapeuta i terapeuta zajęciowy.
+Rewolucja poznawcza nie usunęła badań zachowania. Zmieniła ich interpretację: zachowanie zaczęto traktować także jako wskaźnik procesów wewnętrznych. Współczesne eksperymenty łączą czasy reakcji, trafność odpowiedzi, ruchy oczu, sygnały psychofizjologiczne i neuroobrazowanie, aby testować modele procesów poznawczych.
 
-## Najnowsze trendy (XXI wiek)
+## Psychologia współczesna
 
-Współczesna neuropsychologia odchodzi od prostego „mapowania funkcji do jednego obszaru”, a koncentruje się na modelach sieciowych i dynamicznych.
+Współczesna psychologia jest nauką wielopoziomową. Wyjaśnienie tego samego zjawiska może obejmować mechanizmy biologiczne, procesy poznawcze, uczenie się, relacje społeczne i kontekst kulturowy. Dobór poziomu analizy zależy od pytania badawczego, a nie od przywiązania do jednej szkoły.
 
-Najważniejsze kierunki rozwoju:
+Ważną zmianą XXI wieku jest rozwój otwartej nauki. Preregistracja, udostępnianie materiałów i danych, analizy mocy oraz replikacje mają ograniczać selektywne raportowanie i zwiększać sprawdzalność wyników. Kryzys replikacyjny nie oznacza, że psychologia przestała być nauką. Pokazał natomiast, że standardy wnioskowania, raportowania i kontroli błędów wymagają stałego doskonalenia.
 
-1. **Podejście sieciowe** - analiza funkcji poznawczych jako efektu współpracy wielu obszarów mózgu.
-2. **Diagnostyka cyfrowa** - coraz częstsze użycie narzędzi komputerowych i adaptacyjnych baterii testów.
-3. **Medycyna spersonalizowana** - dobór interwencji do profilu deficytów, zasobów i kontekstu pacjenta.
-4. **Integracja danych** - łączenie wyników testów, wywiadu, neuroobrazowania i danych środowiskowych.
+Historia psychologii uczy dwóch zasad. Po pierwsze, pojęcia naukowe są związane z metodami, za pomocą których je badano. Po drugie, rozwój metod nie usuwa odpowiedzialności za sposób wykorzystania wiedzy. Dlatego ocenę teorii należy łączyć z oceną jakości dowodów, ograniczeń pomiaru i konsekwencji społecznych.
 
+## Bibliografia
 
+Goodwin, C. J. (2015). *A history of modern psychology* (5th ed.). Wiley.
 
-Historia neuropsychologii pokazuje przejście od intuicji i prostych modeli lokalizacyjnych do złożonych, wielopoziomowych wyjaśnień funkcjonowania człowieka.  
-Dzisiaj kluczowa jest równowaga między rzetelnym pomiarem a rozumieniem indywidualnej historii pacjenta.
+Leahey, T. H. (2012). *A history of psychology: From antiquity to modernity*. Routledge.
 
-## Perspektywa nieoczywista
+Neisser, U. (1967). *Cognitive psychology*. Appleton-Century-Crofts.
 
-Nieoczywista perspektywa na temat "Historia neuropsychologii" polega na tym, że podstawowe pojęcia psychologii nabierają wartości dopiero wtedy, gdy pokazuje się ich ograniczenia, zakres stosowania i relacje z metodą badania.
+Pickren, W. E., & Rutherford, A. (2010). *A history of modern psychology in context*. Wiley.
 
-Dopiero wspólna analiza zagadnień takich jak xix wiek: narodziny lokalizacjonizmu, rewolucja neuroobrazowania oraz najnowsze trendy (xxi wiek) pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Historia neuropsychologii" pokazuje, że najważniejsze jest traktowanie psychologii jako nauki o złożonych zależnościach, a nie zbioru prostych definicji.
-
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
-
-Dopiero wspólna analiza zagadnień takich jak xix wiek: narodziny lokalizacjonizmu, rewolucja neuroobrazowania oraz najnowsze trendy (xxi wiek) pokazuje pełny zakres omawianego zjawiska.## Bibliografia
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+Watson, J. B. (1913). Psychology as the behaviorist views it. *Psychological Review, 20*(2), 158–177. https://doi.org/10.1037/h0074428

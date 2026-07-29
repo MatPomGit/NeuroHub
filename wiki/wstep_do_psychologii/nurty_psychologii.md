@@ -1,7 +1,7 @@
 ---
-lastReviewed: 2026-04-01
+lastReviewed: 2026-07-29
 reviewCycleMonths: 24
-evidenceCutoffDate: 2025-12-31
+evidenceCutoffDate: 2026-07-29
 ---
 
 # Główne nurty psychologii - mapa paradygmatów
@@ -69,30 +69,20 @@ To podejście łączy EBM/EBP (evidence-based practice), personalizację oddzia�
 
 
 
-Historia nurtów psychologii pokazuje ewolucję od sporów „albo–albo” do podejścia „zarówno–jak i”:  
-**zachowanie + poznanie + emocje + relacje + biologia + kontekst społeczny**.  
-Taki pluralizm metodologiczny zwiększa trafność diagnozy i skuteczność interwencji.## Bibliografia
+Historia nurtów psychologii pokazuje przejście od konkurujących szkół do modeli, które można łączyć na podstawie problemu i jakości dowodów. Pluralizm nie oznacza, że wszystkie wyjaśnienia są równie trafne. Każde podejście należy oceniać według precyzji pojęć, możliwości testowania przewidywań, jakości badań i użyteczności w określonym kontekście.
 
-1. Beck, J. S. (2020). *Cognitive Behavior Therapy: Basics and Beyond* (3rd ed.). Guilford Press.  
-2. Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.  
-3. Neisser, U. (1967). *Cognitive Psychology*. Appleton-Century-Crofts.  
-4. Rogers, C. R. (1961). *On Becoming a Person*. Houghton Mifflin.  
-5. Skinner, B. F. (1953). *Science and Human Behavior*. Macmillan.  
-6. Westen, D. (1998). The scientific legacy of Sigmund Freud. *Psychological Bulletin, 124*(3), 333–371.  
-7. Wilson, T. D. (2002). *Strangers to Ourselves: Discovering the Adaptive Unconscious*. Harvard University Press.
+## Bibliografia
 
-## Perspektywa nieoczywista
+Beck, J. S. (2020). *Cognitive behavior therapy: Basics and beyond* (3rd ed.). Guilford Press.
 
-Nieoczywista perspektywa na temat "Główne nurty psychologii - mapa paradygmatów" polega na tym, że podstawowe pojęcia psychologii nabierają wartości dopiero wtedy, gdy pokazuje się ich ograniczenia, zakres stosowania i relacje z metodą badania.
+Kahneman, D. (2011). *Thinking, fast and slow*. Farrar, Straus and Giroux.
 
-Dopiero wspólna analiza zagadnień takich jak strukturalizm i funkcjonalizm - początek psychologii naukowej, psychologia humanistyczna i egzystencjalna - podmiotowość i sens oraz współczesny standard: integracja oparta na dowodach pokazuje pełny zakres omawianego zjawiska.
+Neisser, U. (1967). *Cognitive psychology*. Appleton-Century-Crofts.
 
-Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
+Rogers, C. R. (1961). *On becoming a person*. Houghton Mifflin.
 
-## Podsumowanie
+Skinner, B. F. (1953). *Science and human behavior*. Macmillan.
 
-Temat "Główne nurty psychologii - mapa paradygmatów" pokazuje, że najważniejsze jest traktowanie psychologii jako nauki o złożonych zależnościach, a nie zbioru prostych definicji.
+Watson, J. B. (1913). Psychology as the behaviorist views it. *Psychological Review, 20*(2), 158–177. https://doi.org/10.1037/h0074428
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
-
-Dopiero wspólna analiza zagadnień takich jak strukturalizm i funkcjonalizm - początek psychologii naukowej, psychologia humanistyczna i egzystencjalna - podmiotowość i sens oraz współczesny standard: integracja oparta na dowodach pokazuje pełny zakres omawianego zjawiska.
+Westen, D. (1998). The scientific legacy of Sigmund Freud: Toward a psychodynamically informed psychological science. *Psychological Bulletin, 124*(3), 333–371. https://doi.org/10.1037/0033-2909.124.3.333

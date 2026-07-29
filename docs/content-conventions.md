@@ -82,7 +82,7 @@ Pozycja artykułu w `site-config.js` może zawierać pole `aliases`:
 
 ```javascript
 {
-  id: 'poznawcza/pamiec_robocza',
+  id: 'psychologia_poznawcza/pamiec_robocza',
   label: 'Pamięć robocza',
   aliases: ['working memory'],
   file: 'wiki/psychologia_poznawcza/pamiec_robocza.md'

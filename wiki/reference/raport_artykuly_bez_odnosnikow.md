@@ -405,7 +405,6 @@ Poni9=ej znajdujďż˝& siďż˝" bezpo9:rednie odno9:niki do artyku9Bw bez li
 ### wstep_do_psychologii
 
 - [`wstep_do_psychologii/definicja.md`](../wstep_do_psychologii/definicja.md)
-- [`wstep_do_psychologii/etyka_badan_psychologicznych.md`](../wstep_do_psychologii/etyka_badan_psychologicznych.md)
 - [`wstep_do_psychologii/historia.md`](../wstep_do_psychologii/historia.md)
 - [`wstep_do_psychologii/nurty_psychologii.md`](../wstep_do_psychologii/nurty_psychologii.md)
 
@@ -698,7 +697,6 @@ Poni9=ej znajdujďż˝& siďż˝" bezpo9:rednie odno9:niki do artyku9Bw bez li
 - [`reference/literatura.md`](../reference/literatura.md)
 - [`reference/mapa_powiazan_nowe_artykuly.md`](../reference/mapa_powiazan_nowe_artykuly.md)
 - [`reference/przepisy_zawod.md`](../reference/przepisy_zawod.md)
-- [`reference/raport_artykuly_bez_odnosnikow.md`](../reference/raport_artykuly_bez_odnosnikow.md)
 - [`reference/skale_i_akronimy.md`](../reference/skale_i_akronimy.md)
 - [`reference/standard_przypisow.md`](../reference/standard_przypisow.md)
 - [`reference/toc_dlugi_artykul.md`](../reference/toc_dlugi_artykul.md)
@@ -772,7 +770,7 @@ Poni9=ej znajdujďż˝& siďż˝" bezpo9:rednie odno9:niki do artyku9Bw bez li
 - [`school_psychology/interwencje_szkolne.md`](../psychologia_szkolna/interwencje_szkolne.md)
 - [`school_psychology/klimat_szkolny.md`](../psychologia_szkolna/klimat_szkolny.md)
 - [`school_psychology/motywacja_szkolna.md`](../psychologia_szkolna/motywacja_szkolna.md)
-- [`school_psychology/ocenianie_i_feedback.md`](../psychologia_szkolna/ocenianie_i_feedback.md)
+- [`school_psychology/ocenianie_i_informacja_zwrotna.md`](../psychologia_szkolna/ocenianie_i_informacja_zwrotna.md)
 - [`school_psychology/relacje_nauczyciel_uczen.md`](../psychologia_szkolna/relacje_nauczyciel_uczen.md)
 - [`school_psychology/strefa_najblizszego_rozwoju.md`](../psychologia_szkolna/strefa_najblizszego_rozwoju.md)
 - [`school_psychology/stres_szkolny.md`](../psychologia_szkolna/stres_szkolny.md)

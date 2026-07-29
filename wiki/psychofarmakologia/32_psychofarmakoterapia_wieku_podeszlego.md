@@ -1,23 +1,18 @@
-﻿# 32. Psychofarmakoterapia u chorych w wieku podeszłym
+# 32. Psychofarmakoterapia u chorych w wieku podeszłym
 
-## Wprowadzenie
+## Definicja i zakres
 U osób starszych zmienia się dystrybucja, metabolizm i eliminacja leków, a wielochorobowość zwiększa ryzyko interakcji. Zasada „start low, go slow” pozostaje praktycznie kluczowa.
 
-## Analiza
+## Mechanizm i przesłanki kliniczne
 Równie ważna jest regularna depreskrypcja i ograniczanie obciążenia antycholinergicznego, które może pogarszać poznanie i funkcjonowanie.
 
-## Praktyczne przykłady
-### Dobra praktyka
-
-przegląd wszystkich leków i ocena ryzyka upadków przy każdej kontroli.
-### Zła praktyka
-
-dokładanie leków bez redukcji tych już nieskutecznych.
-Konsekwencja: polipragmazja i zdarzenia niepożądane.
-
-## Dowody, bezpieczeństwo i ograniczenia
+## Wskazania, jakość dowodów i bezpieczeństwo
 
 Starzenie zmniejsza rezerwę fizjologiczną i często klirens nerkowy, a polipragmazja zwiększa interakcje. Szczególnie szkodliwe są duże obciążenie cholinolityczne, hipotonia, sedacja, hiponatremia i wydłużenie QT, ponieważ prowadzą do majaczenia, upadków i utraty samodzielności. Leczenie rozpoczyna się zwykle od małej dawki i wolno zwiększa, ale nie wolno utrzymywać dawki nieskutecznej. Należy monitorować funkcje poznawcze, ortostazę, sód, nerki, EKG według ryzyka oraz regularnie depreskrybować leki bez aktualnego wskazania.
+
+## Monitorowanie i ograniczenia praktyczne
+
+Przegląd wszystkich leków i ocena ryzyka upadków przy każdej kontroli. Dokładanie leków bez redukcji tych już nieskutecznych jest błędem. Polipragmazja i zdarzenia niepożądane.
 
 ## Bibliografia
 

@@ -1,23 +1,18 @@
-﻿# 17. Farmakoterapia zaburzeń ze spektrum autyzmu
+# 17. Farmakoterapia zaburzeń ze spektrum autyzmu
 
-## Wprowadzenie
+## Definicja i zakres
 W ASD farmakoterapia ma charakter objawowy i wspierający: nie „leczy rdzenia” spektrum, ale może redukować drażliwość, impulsywność, zaburzenia snu czy współwystępujący lęk/ADHD.
 
-## Analiza
+## Mechanizm i przesłanki kliniczne
 Decyzje terapeutyczne wymagają oceny funkcjonalnej, profilu sensorycznego i obciążeń somatycznych. Priorytetem pozostają interwencje rozwojowe, edukacyjne i środowiskowe.
 
-## Praktyczne przykłady
-### Dobra praktyka
-
-jasno definiowany objaw docelowy i pomiar zmiany w codziennym funkcjonowaniu.
-### Zła praktyka
-
-wielolekowość w odpowiedzi na trudne zachowania bez analizy kontekstu środowiskowego.
-Konsekwencja: większe ryzyko działań niepożądanych przy ograniczonej korzyści.
-
-## Dowody, bezpieczeństwo i ograniczenia
+## Wskazania, jakość dowodów i bezpieczeństwo
 
 Nie ma leku na podstawowe cechy autyzmu. Rysperydon i arypiprazol mogą ograniczać ciężką drażliwość u części dzieci, lecz korzyść trzeba ważyć wobec sedacji, przyrostu masy i objawów ruchowych. Leki na ADHD, lęk lub padaczkę stosuje się według współwystępującego rozpoznania, z ostrożnym, stopniowym zwiększaniem dawki. Należy zdefiniować zachowanie docelowe, wykluczyć ból i czynniki środowiskowe, mierzyć efekt oraz planować próbę redukcji. Dowody dla wielu zastosowań poza wskazaniami są małe i krótkoterminowe.
+
+## Monitorowanie i ograniczenia praktyczne
+
+Jasno definiowany objaw docelowy i pomiar zmiany w codziennym funkcjonowaniu. Wielolekowość w odpowiedzi na trudne zachowania bez analizy kontekstu środowiskowego jest błędem. Większe ryzyko działań niepożądanych przy ograniczonej korzyści.
 
 ## Bibliografia
 

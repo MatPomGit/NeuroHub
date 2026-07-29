@@ -1,4 +1,4 @@
-# 1. Rys historyczny psychofarmakologii klinicznej
+﻿# 1. Rys historyczny psychofarmakologii klinicznej
 
 ## Wprowadzenie
 
@@ -25,16 +25,11 @@ Częstym błędem jest stosowanie jednego schematu postępowania niezależnie od
 - Zła praktyka: utożsamianie nowszego leku z większą skutecznością bez analizy efektu klinicznego i profilu działań niepożądanych.
 - Konsekwencja: dobra praktyka poprawia bezpieczeństwo; zła zwiększa ryzyko polipragmazji i kosztów.
 
-## Perspektywa nieoczywista
+## Dowody, bezpieczeństwo i ograniczenia
 
-W praktyce klinicznej największe korzyści przynosi nie maksymalizacja liczby interwencji, lecz **precyzyjne ograniczanie leczenia do elementów o najwyższej wartości dodanej**. To podejście bywa mniej intuicyjne niż „eskalacja terapii”, ale często poprawia współpracę, bezpieczeństwo i długofalowe wyniki.
+Przełom chlorpromazynowy z 1952 r., wprowadzenie litu, leków trójpierścieniowych i benzodiazepin zmieniły opiekę szpitalną, ale nie były prostym skutkiem teorii neuroprzekaźnikowych: mechanizmy objaśniano często już po obserwacji efektu klinicznego. Późniejsze badania randomizowane, nadzór nad bezpieczeństwem i ruch medycyny opartej na dowodach ograniczyły rolę anegdoty. Historia uczy, że nowość mechanizmu nie jest równoznaczna z przewagą kliniczną, a późne szkody mogą pozostać niewidoczne w krótkich próbach.
 
+## Bibliografia
 
-
-Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dane naukowe, monitoring efektów oraz współdecydowanie z pacjentem. Wysoka jakość leczenia wynika z konsekwentnej ewaluacji korzyści i ryzyka na każdym etapie terapii.## Bibliografia
-
-- Stahl, S. M. (2021). Stahl's Essential Psychopharmacology (5th ed.). Cambridge University Press
-- APA. (2023). The American Psychiatric Association Practice Guidelines
-- NICE. (2022-2025). Guidance on mental health and pharmacological treatment (living updates)
-- WHO. (2023). ICD-11 Clinical Descriptions and Diagnostic Guidelines
-- Meyer, J. M., & Quenzer, L. F. (2018). Psychopharmacology: Drugs, the Brain, and Behavior (3rd ed.)
+- Ban, T. A. (2007). Fifty years chlorpromazine: a historical perspective. *Neuropsychiatric Disease and Treatment*, 3(4), 495–500.
+- López-Muñoz, F. i Alamo, C. (2009). Monoaminergic neurotransmission: the history of the discovery of antidepressants from 1950s until today. *Current Pharmaceutical Design*, 15(14), 1563–1586.

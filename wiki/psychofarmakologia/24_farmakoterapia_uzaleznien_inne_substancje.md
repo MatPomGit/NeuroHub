@@ -3,11 +3,6 @@
 ## Wprowadzenie
 Farmakoterapia uzależnień od opioidów, nikotyny i części innych substancji opiera się na zmniejszaniu śmiertelności, głodu i szkód zdrowotnych. W wielu przypadkach celem klinicznym jest stabilizacja, a nie natychmiastowa abstynencja.
 
-## Definicje
-- **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
-- **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
-- **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
-
 ## Analiza
 Najlepsze wyniki uzyskuje się dzięki łączeniu leków z opieką środowiskową, redukcją szkód, leczeniem współchorobowości i wsparciem społecznym.
 
@@ -20,17 +15,11 @@ traktowanie utrzymania w leczeniu jako kluczowego wskaźnika skuteczności.
 przerywanie terapii po pojedynczym nawrocie.
 Konsekwencja: zwiększone ryzyko przedawkowania i wykluczenia z opieki.
 
-## Perspektywa nieoczywista
-W praktyce klinicznej największe korzyści przynosi nie maksymalizacja liczby interwencji, lecz **precyzyjne ograniczanie leczenia do elementów o najwyższej wartości dodanej**. To podejście bywa mniej intuicyjne niż „eskalacja terapii”, ale często poprawia współpracę, bezpieczeństwo i długofalowe wyniki.
+## Dowody, bezpieczeństwo i ograniczenia
 
+Dla uzależnienia od opioidów metadon i buprenorfina redukują śmiertelność, a nalokson powinien być dostępny osobom zagrożonym przedawkowaniem. W zaburzeniu używania tytoniu skuteczne są wareniklina, nikotynowa terapia zastępcza i bupropion. Dla stymulantów nie ma jednego zatwierdzonego standardu farmakoterapii o podobnej sile dowodów; najlepiej udokumentowane są interwencje behawioralne, zwłaszcza zarządzanie wzmocnieniami. Monitorowanie obejmuje przedawkowania, zakażenia, interakcje, używanie innych substancji i realizację celu pacjenta.
 
-Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dane naukowe, monitoring efektów oraz współdecydowanie z pacjentem. Wysoka jakość leczenia wynika z konsekwentnej ewaluacji korzyści i ryzyka na każdym etapie terapii.## Bibliografia
-- Stahl, S. M. (2021). Stahl's Essential Psychopharmacology (5th ed.). Cambridge University Press.
-- APA. (2023). The American Psychiatric Association Practice Guidelines.
-- NICE. (2022-2025). Guidance on mental health and pharmacological treatment (living updates).
-- WHO. (2023). ICD-11 Clinical Descriptions and Diagnostic Guidelines.
-- Meyer, J. M., & Quenzer, L. F. (2018). Psychopharmacology: Drugs, the Brain, and Behavior (3rd ed.).
+## Bibliografia
 
-
-
-
+- Sordo, L. i in. (2017). Mortality risk during and after opioid substitution treatment. *BMJ*, 357, j1550.
+- De Crescenzo, F. i in. (2018). Comparative efficacy and acceptability of psychosocial interventions for cocaine and amphetamine addiction. *PLOS Medicine*, 15(12), e1002715.

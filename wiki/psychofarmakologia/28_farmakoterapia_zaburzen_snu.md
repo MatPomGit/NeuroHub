@@ -3,11 +3,6 @@
 ## Wprowadzenie
 Leczenie zaburzeń snu powinno zaczynać się od diagnostyki przyczyny (insomnia, zaburzenia rytmu, bezdech, RLS, parasomnie). Farmakoterapia jest elementem szerszego planu obejmującego higienę snu i CBT-I.
 
-## Definicje
-- **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
-- **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
-- **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
-
 ## Analiza
 Celem nie jest tylko skrócenie latencji snu, lecz poprawa jakości i funkcjonowania dziennego. Długotrwała sedacja bez modyfikacji czynników podtrzymujących zwykle daje słabe efekty.
 
@@ -20,17 +15,11 @@ wyznaczanie mierzalnych celów snu i planu odstawiania leków.
 przewlekłe leczenie objawowe bez rewizji diagnozy snu.
 Konsekwencja: tolerancja i utrzymanie bezsenności przewlekłej.
 
-## Perspektywa nieoczywista
-W praktyce klinicznej największe korzyści przynosi nie maksymalizacja liczby interwencji, lecz **precyzyjne ograniczanie leczenia do elementów o najwyższej wartości dodanej**. To podejście bywa mniej intuicyjne niż „eskalacja terapii”, ale często poprawia współpracę, bezpieczeństwo i długofalowe wyniki.
+## Dowody, bezpieczeństwo i ograniczenia
 
+Rozpoznanie bezsenności, zaburzenia rytmu, narkolepsji i parasomnii prowadzi do odmiennych terapii. W przewlekłej bezsenności CBT-I jest pierwszym wyborem; leki nasenne dają głównie krótkoterminową korzyść. Melatonina działa najlepiej jako sygnał chronobiologiczny podany o właściwej porze, nie jako uniwersalny sedatyk. Przed lekiem trzeba ocenić bezdech, zespół niespokojnych nóg, alkohol, pracę zmianową i leki. Monitoruje się senność dzienną, upadki, prowadzenie pojazdów, tolerancję i objawy odstawienia.
 
-Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dane naukowe, monitoring efektów oraz współdecydowanie z pacjentem. Wysoka jakość leczenia wynika z konsekwentnej ewaluacji korzyści i ryzyka na każdym etapie terapii.## Bibliografia
-- Stahl, S. M. (2021). Stahl's Essential Psychopharmacology (5th ed.). Cambridge University Press.
-- APA. (2023). The American Psychiatric Association Practice Guidelines.
-- NICE. (2022-2025). Guidance on mental health and pharmacological treatment (living updates).
-- WHO. (2023). ICD-11 Clinical Descriptions and Diagnostic Guidelines.
-- Meyer, J. M., & Quenzer, L. F. (2018). Psychopharmacology: Drugs, the Brain, and Behavior (3rd ed.).
+## Bibliografia
 
-
-
-
+- Riemann, D. i in. (2023). The European Insomnia Guideline 2023. *Journal of Sleep Research*, 32(6), e14035.
+- Sateia, M. J. i in. (2017). Clinical practice guideline for pharmacologic treatment of chronic insomnia in adults. *Journal of Clinical Sleep Medicine*, 13(2), 307–349.

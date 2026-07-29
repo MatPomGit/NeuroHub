@@ -3,11 +3,6 @@
 ## Wprowadzenie
 W zaburzeniach lękowych leczeniem pierwszego rzutu są zwykle SSRI/SNRI oraz psychoterapia, zwłaszcza CBT. Benzodiazepiny mają rolę ograniczoną czasowo i sytuacyjnie.
 
-## Definicje
-- **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
-- **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
-- **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
-
 ## Analiza
 Dobór terapii powinien uwzględniać podtyp zaburzenia, wzorzec unikania, współchorobowość i preferencje pacjenta. Leczenie farmakologiczne jest najbardziej efektywne, gdy wspiera aktywną ekspozycję i zmianę nawyków.
 
@@ -20,17 +15,11 @@ Dobór terapii powinien uwzględniać podtyp zaburzenia, wzorzec unikania, wspó
 długotrwała sedacja bez pracy nad mechanizmami lęku.
 Konsekwencja: utrwalenie unikania i nawrotowość objawów.
 
-## Perspektywa nieoczywista
-W praktyce klinicznej największe korzyści przynosi nie maksymalizacja liczby interwencji, lecz **precyzyjne ograniczanie leczenia do elementów o najwyższej wartości dodanej**. To podejście bywa mniej intuicyjne niż „eskalacja terapii”, ale często poprawia współpracę, bezpieczeństwo i długofalowe wyniki.
+## Dowody, bezpieczeństwo i ograniczenia
 
+SSRI i SNRI mają najlepsze dowody farmakologiczne w wielu zaburzeniach lękowych; pregabalina ma dane w lęku uogólnionym, a benzodiazepiny działają szybko, lecz nie są preferowanym leczeniem długoterminowym. Wybór zależy od rozpoznania, ponieważ dowodów dla jednego zespołu nie przenosi się automatycznie na inny. Na początku możliwe jest przejściowe nasilenie niepokoju. Monitoruje się objawy skalą właściwą dla rozpoznania, funkcjonowanie, sen, działania seksualne i używanie substancji. Psychoterapia poznawczo-behawioralna pozostaje równorzędną lub uzupełniającą metodą.
 
-Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dane naukowe, monitoring efektów oraz współdecydowanie z pacjentem. Wysoka jakość leczenia wynika z konsekwentnej ewaluacji korzyści i ryzyka na każdym etapie terapii.## Bibliografia
-- Stahl, S. M. (2021). Stahl's Essential Psychopharmacology (5th ed.). Cambridge University Press.
-- APA. (2023). The American Psychiatric Association Practice Guidelines.
-- NICE. (2022-2025). Guidance on mental health and pharmacological treatment (living updates).
-- WHO. (2023). ICD-11 Clinical Descriptions and Diagnostic Guidelines.
-- Meyer, J. M., & Quenzer, L. F. (2018). Psychopharmacology: Drugs, the Brain, and Behavior (3rd ed.).
+## Bibliografia
 
-
-
-
+- Slee, A. i in. (2019). Pharmacological treatments for generalised anxiety disorder. *The Lancet*, 393(10173), 768–777.
+- Baldwin, D. S. i in. (2014). Evidence-based pharmacological treatment of anxiety disorders. *Journal of Psychopharmacology*, 28(5), 403–439.

@@ -3,11 +3,6 @@
 ## Wprowadzenie
 Badania kliniczne psychofarmakologii obejmują fazy I–IV, z naciskiem na randomizację, zaślepienie i standaryzowane skale objawowe. Coraz ważniejsze są też punkty końcowe funkcjonalne i jakości życia.
 
-## Definicje
-- **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
-- **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
-- **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
-
 ## Analiza
 Ograniczeniem klasycznych RCT jest niska reprezentatywność populacji rzeczywistej. Dlatego rośnie rola badań pragmatycznych, danych rejestrowych i analiz bezpieczeństwa długoterminowego.
 
@@ -20,17 +15,11 @@ interpretacja wyników przez efekt kliniczny (NNT/NNH), nie tylko p-value.
 przenoszenie wyników z selekcyjnej próby na wszystkich pacjentów bez korekty.
 Konsekwencja: ryzyko błędnych decyzji terapeutycznych.
 
-## Perspektywa nieoczywista
-W praktyce klinicznej największe korzyści przynosi nie maksymalizacja liczby interwencji, lecz **precyzyjne ograniczanie leczenia do elementów o najwyższej wartości dodanej**. To podejście bywa mniej intuicyjne niż „eskalacja terapii”, ale często poprawia współpracę, bezpieczeństwo i długofalowe wyniki.
+## Dowody, bezpieczeństwo i ograniczenia
 
+Randomizacja ogranicza zakłócenia, zaślepienie błędy oceny, a analiza intention-to-treat chroni korzyści randomizacji. Wielkość efektu, przedział ufności, wynik funkcjonalny i szkody są bardziej informacyjne niż samo p < 0,05. Krótkie badania z wyselekcjonowaną próbą mają ograniczoną trafność zewnętrzną; aktywne placebo, brakujące dane, sponsorowanie i selektywna publikacja mogą zmieniać oszacowanie. Rejestr protokołu, jawne wyniki i badania pragmatyczne uzupełniają, lecz nie usuwają tych ograniczeń.
 
-Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dane naukowe, monitoring efektów oraz współdecydowanie z pacjentem. Wysoka jakość leczenia wynika z konsekwentnej ewaluacji korzyści i ryzyka na każdym etapie terapii.## Bibliografia
-- Stahl, S. M. (2021). Stahl's Essential Psychopharmacology (5th ed.). Cambridge University Press.
-- APA. (2023). The American Psychiatric Association Practice Guidelines.
-- NICE. (2022-2025). Guidance on mental health and pharmacological treatment (living updates).
-- WHO. (2023). ICD-11 Clinical Descriptions and Diagnostic Guidelines.
-- Meyer, J. M., & Quenzer, L. F. (2018). Psychopharmacology: Drugs, the Brain, and Behavior (3rd ed.).
+## Bibliografia
 
-
-
-
+- ICH. (2016). *E6(R2) Good Clinical Practice: Integrated Addendum*. International Council for Harmonisation.
+- Cipriani, A. i in. (2016). Comparative efficacy and tolerability of antidepressants for major depressive disorder in children and adolescents. *The Lancet*, 388(10047), 881–890.

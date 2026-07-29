@@ -3,11 +3,6 @@
 ## Wprowadzenie
 Leczenie skojarzone może być zasadne przy częściowej odpowiedzi, oporności lub złożonym obrazie objawowym. Wymaga jednak jasnej hipotezy mechanistycznej i planu monitorowania.
 
-## Definicje
-- **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
-- **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
-- **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
-
 ## Analiza
 Każdy dodatkowy lek zwiększa ryzyko interakcji farmakokinetycznych i farmakodynamicznych, dlatego łączenie powinno być czasowo i klinicznie uzasadnione.
 
@@ -20,17 +15,11 @@ jeden cel kliniczny na jedną modyfikację i ocena efektu po ustalonym czasie.
 wielokrotne zmiany naraz bez możliwości atrybucji efektu.
 Konsekwencja: utrata kontroli nad bezpieczeństwem terapii.
 
-## Perspektywa nieoczywista
-W praktyce klinicznej największe korzyści przynosi nie maksymalizacja liczby interwencji, lecz **precyzyjne ograniczanie leczenia do elementów o najwyższej wartości dodanej**. To podejście bywa mniej intuicyjne niż „eskalacja terapii”, ale często poprawia współpracę, bezpieczeństwo i długofalowe wyniki.
+## Dowody, bezpieczeństwo i ograniczenia
 
+Połączenie leków jest uzasadnione, gdy każdy składnik ma odrębny cel i przewagę nad zoptymalizowaną monoterapią, na przykład augmentacja w opornej depresji. Jednoczesne wprowadzanie kilku leków uniemożliwia przypisanie korzyści i szkód. Ryzyko farmakodynamiczne obejmuje sedację, serotoninotoksyczność, QT i obciążenie cholinolityczne, a farmakokinetyczne indukcję lub hamowanie enzymów. Plan powinien określać cel, miarę wyniku, czas próby, badania i kolejność depreskrypcji. Dowód skuteczności każdego leku osobno nie jest dowodem skuteczności ich połączenia.
 
-Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dane naukowe, monitoring efektów oraz współdecydowanie z pacjentem. Wysoka jakość leczenia wynika z konsekwentnej ewaluacji korzyści i ryzyka na każdym etapie terapii.## Bibliografia
-- Stahl, S. M. (2021). Stahl's Essential Psychopharmacology (5th ed.). Cambridge University Press.
-- APA. (2023). The American Psychiatric Association Practice Guidelines.
-- NICE. (2022-2025). Guidance on mental health and pharmacological treatment (living updates).
-- WHO. (2023). ICD-11 Clinical Descriptions and Diagnostic Guidelines.
-- Meyer, J. M., & Quenzer, L. F. (2018). Psychopharmacology: Drugs, the Brain, and Behavior (3rd ed.).
+## Bibliografia
 
-
-
-
+- Taylor, D. M., Barnes, T. R. E. i Young, A. H. (2021). *The Maudsley Prescribing Guidelines in Psychiatry* (14th ed.). Wiley-Blackwell.
+- Galling, B. i in. (2017). Antipsychotic augmentation vs monotherapy in schizophrenia. *World Psychiatry*, 16(1), 77–89.

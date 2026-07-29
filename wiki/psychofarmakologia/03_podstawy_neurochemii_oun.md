@@ -4,12 +4,6 @@
 
 Podstawy neurochemii OUN obejmują transmisję synaptyczną, neuromodulację i plastyczność. Klinicznie kluczowe układy to: dopaminergiczny, serotoninergiczny, noradrenergiczny, glutaminergiczny, GABA-ergiczny i cholinergiczny.
 
-## Definicje
-
-- **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
-- **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
-- **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
-
 ## Analiza
 
 Efekt leku zależy od receptorów, ich gęstości, szlaku sygnałowego i czasu ekspozycji. Ten sam lek może dawać odmienny efekt krótkoterminowy i długoterminowy (np. adaptacja receptorowa, zmiany ekspresji genów).
@@ -30,22 +24,11 @@ szybkie zmiany preparatów bez czasu na odpowiedź biologiczną.
 
 Konsekwencja: zwiększa chaos terapeutyczny
 
-## Perspektywa nieoczywista
+## Dowody, bezpieczeństwo i ograniczenia
 
-W praktyce klinicznej największe korzyści przynosi nie maksymalizacja liczby interwencji, lecz **precyzyjne ograniczanie leczenia do elementów o najwyższej wartości dodanej**. To podejście bywa mniej intuicyjne niż „eskalacja terapii”, ale często poprawia współpracę, bezpieczeństwo i długofalowe wyniki.
+Neuroprzekaźnik nie ma jednej funkcji: efekt zależy od receptora, komórki, lokalizacji i czasu. Agonizm, antagonizm, częściowy agonizm oraz modulacja allosteryczna zmieniają sygnał odmiennie, a transportery i enzymy regulują jego czas trwania. Adaptacja receptorowa i plastyczność tłumaczą, dlaczego efekt kliniczny może różnić się od natychmiastowej zmiany neurochemicznej. Stężenie leku, interakcje CYP oraz czynność nerek i wątroby wyznaczają ekspozycję, lecz zakres terapeutycznego monitorowania stężenia zależy od konkretnej substancji.
 
+## Bibliografia
 
-
-Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dane naukowe, monitoring efektów oraz współdecydowanie z pacjentem. Wysoka jakość leczenia wynika z konsekwentnej ewaluacji korzyści i ryzyka na każdym etapie terapii.## Bibliografia
-
-- Stahl, S. M. (2021). Stahl's Essential Psychopharmacology (5th ed.). Cambridge University Press.
-- APA. (2023). The American Psychiatric Association Practice Guidelines.
-- NICE. (2022-2025). Guidance on mental health and pharmacological treatment (living updates).
-- WHO. (2023). ICD-11 Clinical Descriptions and Diagnostic Guidelines.
-- Meyer, J. M., & Quenzer, L. F. (2018). Psychopharmacology: Drugs, the Brain, and Behavior (3rd ed.).
-
-
-
-
-
-
+- Brunton, L. L. i Knollmann, B. C. (red.). (2022). *Goodman & Gilman’s The Pharmacological Basis of Therapeutics* (14th ed.). McGraw Hill.
+- Hiemke, C. i in. (2018). Consensus guidelines for therapeutic drug monitoring in neuropsychopharmacology: update 2017. *Pharmacopsychiatry*, 51(1–2), 9–62.

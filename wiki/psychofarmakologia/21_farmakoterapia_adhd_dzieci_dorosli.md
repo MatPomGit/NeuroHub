@@ -3,11 +3,6 @@
 ## Wprowadzenie
 W ADHD farmakoterapia redukuje objawy osiowe i poprawia funkcjonowanie szkolne, zawodowe oraz społeczne. Skuteczność potwierdzono zarówno dla stymulantów, jak i części leków niestymulujących.
 
-## Definicje
-- **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
-- **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
-- **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
-
 ## Analiza
 Różnice wieku wpływają na cele terapii: u dzieci dominują cele rozwojowe i szkolne, u dorosłych - organizacja pracy, regulacja emocji i bezpieczeństwo prowadzenia pojazdów.
 
@@ -20,17 +15,11 @@ leczenie w modelu wielomodalnym (farmakoterapia + trening umiejętności).
 redukcja terapii do „tabletki na koncentrację”.
 Konsekwencja: słabsza generalizacja efektu do codzienności.
 
-## Perspektywa nieoczywista
-W praktyce klinicznej największe korzyści przynosi nie maksymalizacja liczby interwencji, lecz **precyzyjne ograniczanie leczenia do elementów o najwyższej wartości dodanej**. To podejście bywa mniej intuicyjne niż „eskalacja terapii”, ale często poprawia współpracę, bezpieczeństwo i długofalowe wyniki.
+## Dowody, bezpieczeństwo i ograniczenia
 
+Metylofenidat i amfetaminy mają najsilniejsze krótkoterminowe dowody redukcji objawów ADHD; atomoksetyna i guanfacyna są alternatywami o wolniejszym początku działania. Rozpoznanie musi obejmować upośledzenie w więcej niż jednym kontekście, a celem jest funkcjonowanie, nie wyłącznie wynik skali. Przed i w trakcie leczenia monitoruje się wzrost i masę u dzieci, apetyt, sen, ciśnienie, tętno, nastrój, tiki i ryzyko niewłaściwego używania. Dane długoterminowe są słabsze niż krótkoterminowe, dlatego potrzebne są okresowe przeglądy korzyści.
 
-Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dane naukowe, monitoring efektów oraz współdecydowanie z pacjentem. Wysoka jakość leczenia wynika z konsekwentnej ewaluacji korzyści i ryzyka na każdym etapie terapii.## Bibliografia
-- Stahl, S. M. (2021). Stahl's Essential Psychopharmacology (5th ed.). Cambridge University Press.
-- APA. (2023). The American Psychiatric Association Practice Guidelines.
-- NICE. (2022-2025). Guidance on mental health and pharmacological treatment (living updates).
-- WHO. (2023). ICD-11 Clinical Descriptions and Diagnostic Guidelines.
-- Meyer, J. M., & Quenzer, L. F. (2018). Psychopharmacology: Drugs, the Brain, and Behavior (3rd ed.).
+## Bibliografia
 
-
-
-
+- Cortese, S. i in. (2018). Comparative efficacy and tolerability of medications for ADHD. *The Lancet Psychiatry*, 5(9), 727–738.
+- NICE. (2018, aktualizacja 2019). *Attention deficit hyperactivity disorder: diagnosis and management (NG87)*.

@@ -4,12 +4,6 @@
 
 Farmakoterapia depresji obejmuje leczenie ostrej fazy, konsolidację remisji i profilaktykę nawrotów. Wybór leku zależy od obrazu klinicznego, historii odpowiedzi, chorób współistniejących i bezpieczeństwa.
 
-## Definicje
-
-- **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
-- **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
-- **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
-
 ## Analiza
 
 W depresji opornej uzasadnione są strategie augmentacji, łączenia interwencji biologicznych i psychoterapii oraz ocena czynników podtrzymujących (sen, używki, ból, stres przewlekły).
@@ -24,18 +18,11 @@ kontynuacja leczenia po remisji przez okres adekwatny do ryzyka nawrotu.
 szybkie odstawienie po krótkiej poprawie nastroju.
 Konsekwencja: istotny wzrost ryzyka nawrotu.
 
-## Perspektywa nieoczywista
+## Dowody, bezpieczeństwo i ograniczenia
 
-W praktyce klinicznej największe korzyści przynosi nie maksymalizacja liczby interwencji, lecz **precyzyjne ograniczanie leczenia do elementów o najwyższej wartości dodanej**. To podejście bywa mniej intuicyjne niż „eskalacja terapii”, ale często poprawia współpracę, bezpieczeństwo i długofalowe wyniki.
+Leczenie epizodu depresyjnego rozpoczyna się od oceny nasilenia, ryzyka samobójczego, ChAD, psychozy, substancji i chorób somatycznych. Leki oraz psychoterapia mają dowody, a w ciężkiej depresji ich połączenie bywa korzystne. Odpowiedź trzeba mierzyć, jednocześnie oceniając funkcjonowanie i tolerancję. Po niepowodzeniu należy wykluczyć pseudooporność; zmiana leku, augmentacja litem lub wybranym lekiem przeciwpsychotycznym oraz ECT mają różne podstawy dowodowe i ryzyka. Kontynuacja po remisji ogranicza nawroty, ale czas leczenia zależy od historii epizodów.
 
+## Bibliografia
 
-
-Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dane naukowe, monitoring efektów oraz współdecydowanie z pacjentem. Wysoka jakość leczenia wynika z konsekwentnej ewaluacji korzyści i ryzyka na każdym etapie terapii.## Bibliografia
-
-- Stahl, S. M. (2021). Stahl's Essential Psychopharmacology (5th ed.). Cambridge University Press.
-- APA. (2023). The American Psychiatric Association Practice Guidelines.
-- NICE. (2022-2025). Guidance on mental health and pharmacological treatment (living updates).
-- WHO. (2023). ICD-11 Clinical Descriptions and Diagnostic Guidelines.
-- Meyer, J. M., & Quenzer, L. F. (2018). Psychopharmacology: Drugs, the Brain, and Behavior (3rd ed.).
-
-
+- National Institute for Health and Care Excellence. (2022). *Depression in adults: treatment and management (NG222)*.
+- Rush, A. J. i in. (2006). Acute and longer-term outcomes in depressed outpatients requiring one or several treatment steps. *American Journal of Psychiatry*, 163(11), 1905–1917.

@@ -3,11 +3,6 @@
 ## Wprowadzenie
 U dzieci i młodzieży farmakoterapia wymaga uwzględnienia odrębnej farmakokinetyki, neurorozwoju i wpływu leczenia na dojrzewanie psychospołeczne. Decyzje powinny być podejmowane w modelu rodzina–klinicyści–pacjent.
 
-## Definicje
-- **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
-- **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
-- **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
-
 ## Analiza
 W schizofrenii, depresji i ChAD konieczne jest łączenie leków z terapiami psychospołecznymi oraz monitorowanie wzrostu, masy ciała, snu, funkcjonowania szkolnego i ryzyka samobójczego.
 
@@ -20,17 +15,11 @@ minimalna skuteczna dawka i częste wizyty kontrolne na początku leczenia.
 przenoszenie schematów dorosłych bez korekty rozwojowej.
 Konsekwencja: większe ryzyko działań niepożądanych i słabszej adherencji.
 
-## Perspektywa nieoczywista
-W praktyce klinicznej największe korzyści przynosi nie maksymalizacja liczby interwencji, lecz **precyzyjne ograniczanie leczenia do elementów o najwyższej wartości dodanej**. To podejście bywa mniej intuicyjne niż „eskalacja terapii”, ale często poprawia współpracę, bezpieczeństwo i długofalowe wyniki.
+## Dowody, bezpieczeństwo i ograniczenia
 
+U dzieci wskazanie, dawka i dowody zależą od wieku; wyników dorosłych nie można przenosić automatycznie. Przed leczeniem należy zebrać informacje od dziecka, opiekunów i szkoły, określić cel funkcjonalny oraz uwzględnić rozwój. Monitoruje się wzrastanie, masę, dojrzewanie, sen, ciśnienie i ryzyko samobójcze zależnie od leku. Wiele zastosowań jest poza rejestracją, co wymaga jawnego omówienia niepewności. Najlepszy bilans zwykle daje połączenie leczenia właściwego dla rozpoznania z interwencją rodzinną lub psychologiczną, nie sama eskalacja dawki.
 
-Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dane naukowe, monitoring efektów oraz współdecydowanie z pacjentem. Wysoka jakość leczenia wynika z konsekwentnej ewaluacji korzyści i ryzyka na każdym etapie terapii.## Bibliografia
-- Stahl, S. M. (2021). Stahl's Essential Psychopharmacology (5th ed.). Cambridge University Press.
-- APA. (2023). The American Psychiatric Association Practice Guidelines.
-- NICE. (2022-2025). Guidance on mental health and pharmacological treatment (living updates).
-- WHO. (2023). ICD-11 Clinical Descriptions and Diagnostic Guidelines.
-- Meyer, J. M., & Quenzer, L. F. (2018). Psychopharmacology: Drugs, the Brain, and Behavior (3rd ed.).
+## Bibliografia
 
-
-
-
+- Walkup, J. T. i in. (2008). Cognitive behavioral therapy, sertraline, or a combination in childhood anxiety. *New England Journal of Medicine*, 359, 2753–2766.
+- Cipriani, A. i in. (2016). Antidepressants for major depressive disorder in children and adolescents. *The Lancet*, 388, 881–890.

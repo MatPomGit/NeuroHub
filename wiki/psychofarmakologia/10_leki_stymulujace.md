@@ -4,12 +4,6 @@
 
 Leki stymulujące (np. metylofenidat, amfetaminy) zwiększają dostępność katecholamin w OUN i poprawiają uwagę, hamowanie reakcji oraz organizację zachowania, szczególnie w ADHD.
 
-## Definicje
-
-- **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
-- **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
-- **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
-
 ## Analiza
 
 Właściwe dawkowanie i monitorowanie tętna, ciśnienia, apetytu, snu i masy ciała są kluczowe dla bezpieczeństwa. Ryzyko nadużywania wymaga oceny czynników środowiskowych i psychoedukacji pacjenta oraz rodziny.
@@ -24,17 +18,11 @@ rozpoczynanie od małych dawek i regularna ocena funkcjonowania szkolnego/zawodo
 leczenie bez równoległych interwencji behawioralnych i edukacyjnych.
 Konsekwencja: mniejsza trwałość efektu i większa frustracja pacjenta.
 
-## Perspektywa nieoczywista
+## Dowody, bezpieczeństwo i ograniczenia
 
-W praktyce klinicznej największe korzyści przynosi nie maksymalizacja liczby interwencji, lecz **precyzyjne ograniczanie leczenia do elementów o najwyższej wartości dodanej**. To podejście bywa mniej intuicyjne niż „eskalacja terapii”, ale często poprawia współpracę, bezpieczeństwo i długofalowe wyniki.
+Metylofenidat hamuje transportery dopaminy i noradrenaliny, a amfetaminy dodatkowo nasilają uwalnianie monoamin. Najlepsze dowody dotyczą podstawowych objawów ADHD; pobudzenie samo w sobie nie jest wskazaniem. Przed terapią ocenia się ciśnienie, tętno, wzrastanie u dzieci, sen, używanie substancji i wywiad sercowy, a następnie monitoruje efekt funkcjonalny oraz te parametry. Utrata apetytu, bezsenność i wzrost ciśnienia są częste; psychoza i mania rzadkie. Ryzyko niewłaściwego używania wymaga bezpiecznego przepisywania, nie automatycznego wykluczania skutecznego leczenia.
 
+## Bibliografia
 
-
-Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dane naukowe, monitoring efektów oraz współdecydowanie z pacjentem. Wysoka jakość leczenia wynika z konsekwentnej ewaluacji korzyści i ryzyka na każdym etapie terapii.## Bibliografia
-
-- Stahl, S. M. (2021). Stahl's Essential Psychopharmacology (5th ed.). Cambridge University Press.
-- APA. (2023). The American Psychiatric Association Practice Guidelines.
-- NICE. (2022-2025). Guidance on mental health and pharmacological treatment (living updates).
-- WHO. (2023). ICD-11 Clinical Descriptions and Diagnostic Guidelines.
-- Meyer, J. M., & Quenzer, L. F. (2018). Psychopharmacology: Drugs, the Brain, and Behavior (3rd ed.).
-
+- Cortese, S. i in. (2018). Comparative efficacy and tolerability of medications for ADHD. *The Lancet Psychiatry*, 5(9), 727–738.
+- National Institute for Health and Care Excellence. (2018, aktualizacja 2019). *Attention deficit hyperactivity disorder: diagnosis and management (NG87)*.

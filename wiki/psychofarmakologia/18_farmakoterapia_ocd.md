@@ -3,11 +3,6 @@
 ## Wprowadzenie
 Leczenie OCD opiera się głównie na SSRI w wyższych dawkach terapeutycznych oraz na terapii ERP. W części przypadków stosuje się augmentację lekami przeciwpsychotycznymi.
 
-## Definicje
-- **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
-- **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
-- **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
-
 ## Analiza
 Odpowiedź w OCD często pojawia się później niż w depresji, dlatego kluczowa jest cierpliwa ocena efektu i dobra psychoedukacja. Farmakoterapia i ERP mają największą skuteczność w modelu łączonym.
 
@@ -20,17 +15,11 @@ utrzymanie odpowiedniej dawki SSRI przez wystarczający czas.
 zbyt szybkie przełączanie leków i pomijanie ERP.
 Konsekwencja: niższy odsetek pełnej remisji.
 
-## Perspektywa nieoczywista
-W praktyce klinicznej największe korzyści przynosi nie maksymalizacja liczby interwencji, lecz **precyzyjne ograniczanie leczenia do elementów o najwyższej wartości dodanej**. To podejście bywa mniej intuicyjne niż „eskalacja terapii”, ale często poprawia współpracę, bezpieczeństwo i długofalowe wyniki.
+## Dowody, bezpieczeństwo i ograniczenia
 
+SSRI i klomipramina zmniejszają objawy OCD, lecz ekspozycja z powstrzymaniem reakcji (ERP) pozostaje leczeniem pierwszego wyboru i może być łączona z lekiem. Próba SSRI zwykle wymaga większej dawki i dłuższego czasu niż w depresji. Klomipramina obciąża cholinolitycznie i kardiologicznie. Przy częściowej odpowiedzi augmentacja małą dawką wybranego leku przeciwpsychotycznego ma umiarkowane dowody, nie jest jednak rutynowym kolejnym krokiem. Monitoruje się Y-BOCS, funkcjonowanie, samobójczość i swoiste działania niepożądane.
 
-Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dane naukowe, monitoring efektów oraz współdecydowanie z pacjentem. Wysoka jakość leczenia wynika z konsekwentnej ewaluacji korzyści i ryzyka na każdym etapie terapii.## Bibliografia
-- Stahl, S. M. (2021). Stahl's Essential Psychopharmacology (5th ed.). Cambridge University Press.
-- APA. (2023). The American Psychiatric Association Practice Guidelines.
-- NICE. (2022-2025). Guidance on mental health and pharmacological treatment (living updates).
-- WHO. (2023). ICD-11 Clinical Descriptions and Diagnostic Guidelines.
-- Meyer, J. M., & Quenzer, L. F. (2018). Psychopharmacology: Drugs, the Brain, and Behavior (3rd ed.).
+## Bibliografia
 
-
-
-
+- Skapinakis, P. i in. (2016). Pharmacological and psychotherapeutic interventions for management of OCD in adults. *The Lancet Psychiatry*, 3(8), 730–739.
+- Fineberg, N. A. i in. (2020). Clinical advances in obsessive-compulsive disorder. *International Clinical Psychopharmacology*, 35(4), 173–193.

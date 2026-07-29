@@ -3,11 +3,6 @@
 ## Wprowadzenie
 Leczenie w ciąży wymaga równoważenia ryzyka farmakoterapii z ryzykiem nieleczonej choroby psychicznej matki. Ocena obejmuje trymestr, profil leku, historię nawrotów i bezpieczeństwo płodu/noworodka.
 
-## Definicje
-- **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
-- **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
-- **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
-
 ## Analiza
 W okresie poporodowym kluczowe są szybka identyfikacja depresji i psychozy poporodowej oraz decyzje dotyczące laktacji i doboru leczenia.
 
@@ -20,17 +15,11 @@ planowanie leczenia przed koncepcją i interdyscyplinarna opieka.
 nagłe odstawienie skutecznego leczenia po dodatnim teście ciążowym bez konsultacji.
 Konsekwencja: wysokie ryzyko nawrotu i powikłań.
 
-## Perspektywa nieoczywista
-W praktyce klinicznej największe korzyści przynosi nie maksymalizacja liczby interwencji, lecz **precyzyjne ograniczanie leczenia do elementów o najwyższej wartości dodanej**. To podejście bywa mniej intuicyjne niż „eskalacja terapii”, ale często poprawia współpracę, bezpieczeństwo i długofalowe wyniki.
+## Dowody, bezpieczeństwo i ograniczenia
 
+Ocena obejmuje ryzyko leku, ale także ryzyko nieleczonej choroby i nawrotu po odstawieniu. Dane obserwacyjne są podatne na zakłócenie przez wskazanie; „brak ryzyka” rzadko da się udowodnić. Walproinian ma wysokie ryzyko wad i zaburzeń neurorozwojowych, a lit wymaga kontroli stężenia, nerek, tarczycy i planu okołoporodowego. Przy karmieniu znaczenie ma ekspozycja niemowlęcia, wcześniactwo i obserwacja sedacji lub trudności w karmieniu. Nagłe odstawienie stabilnego leczenia może być szkodliwe; decyzję podejmuje się wspólnie i dokumentuje.
 
-Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dane naukowe, monitoring efektów oraz współdecydowanie z pacjentem. Wysoka jakość leczenia wynika z konsekwentnej ewaluacji korzyści i ryzyka na każdym etapie terapii.## Bibliografia
-- Stahl, S. M. (2021). Stahl's Essential Psychopharmacology (5th ed.). Cambridge University Press.
-- APA. (2023). The American Psychiatric Association Practice Guidelines.
-- NICE. (2022-2025). Guidance on mental health and pharmacological treatment (living updates).
-- WHO. (2023). ICD-11 Clinical Descriptions and Diagnostic Guidelines.
-- Meyer, J. M., & Quenzer, L. F. (2018). Psychopharmacology: Drugs, the Brain, and Behavior (3rd ed.).
+## Bibliografia
 
-
-
-
+- ACOG. (2023). Clinical Practice Guideline No. 5: Treatment and management of mental health conditions during pregnancy and postpartum. *Obstetrics & Gynecology*, 141(6), 1262–1288.
+- Munk-Olsen, T. i in. (2018). Newer data on the risks of lithium use during pregnancy. *The Lancet Psychiatry*, 5(8), 644–652.

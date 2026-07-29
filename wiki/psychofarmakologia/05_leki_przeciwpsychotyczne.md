@@ -1,4 +1,4 @@
-﻿# 5. Leki przeciwpsychotyczne
+# 5. Leki przeciwpsychotyczne
 
 ## Najważniejsze informacje
 
@@ -25,6 +25,12 @@ Akatyzja bywa mylona z lękiem lub nasileniem psychozy, a sedacja z poprawą. Zw
 ## Ograniczenia i wniosek
 
 Leki przeciwpsychotyczne zwykle lepiej wpływają na objawy pozytywne niż na deficyty poznawcze, objawy negatywne pierwotne i funkcjonowanie społeczne. Minimalna skuteczna dawka, świadomy wybór profilu działań niepożądanych oraz systematyczna ocena celu leczenia są ważniejsze niż etykieta generacji. W schizofrenii opornej nie należy odwlekać klozapiny, a przy dobrej odpowiedzi nie należy rezygnować z monitorowania, ponieważ część najważniejszych szkód rozwija się bez wyraźnych objawów.
+
+## Profile poszczególnych leków i postaci
+
+Podział na generacje nie zastępuje oceny konkretnej substancji. Haloperydol i flufenazyna wiążą się z większym ryzykiem objawów pozapiramidowych, natomiast chlorpromazyna częściej powoduje sedację, hipotonię i objawy cholinolityczne. Wśród leków nowszych olanzapina ma szczególnie niekorzystny profil metaboliczny, risperydon częściej zwiększa stężenie prolaktyny, a częściowi agoniści D2/D3, tacy jak arypiprazol, mogą wywoływać akatyzję. Klozapina pozostaje wyborem w schizofrenii opornej, ale wymaga szerszego nadzoru niż sama morfologia krwi.
+
+Postacie długodziałające są dostępne zarówno dla części leków starszych, jak i nowszych. Mogą być pomocne, gdy priorytetem jest regularna ekspozycja na lek, lecz decyzja powinna uwzględniać preferencje pacjenta, wcześniejszą tolerancję postaci doustnej i możliwość odwrócenia działań niepożądanych dopiero po upływie czasu działania iniekcji.
 
 ## Bibliografia
 

@@ -14,6 +14,12 @@ Inhibitory acetylocholinoesterazy przynoszą niewielką, objawową korzyść poz
 
 Wybór celu poznawczego i pomiar wyniku (np. test neuropsychologiczny). „empiryczne” dodawanie kolejnych leków bez pomiaru efektu jest błędem. Brak pomiaru utrudnia odróżnienie poprawy rzeczywistej od placebo.
 
+## Leki prokognitywne a „nootropiki”
+
+Leki prokognitywne stosowane w rozpoznanych zaburzeniach trzeba odróżnić od szerokiej, marketingowej kategorii „nootropików”, obejmującej leki używane poza wskazaniami, suplementy i substancje pobudzające. Poprawa czuwania albo subiektywnego poczucia wydajności nie jest równoznaczna z poprawą pamięci, funkcji wykonawczych i codziennego funkcjonowania. Wynik uzyskany u osoby z otępieniem, ADHD lub niedoborem snu nie może być bezpośrednio przenoszony na zdrową, wypoczętą osobę.
+
+Donepezyl i inne inhibitory acetylocholinoesterazy zwiększają dostępność acetylocholiny, a memantyna moduluje przekaźnictwo glutaminianergiczne przez receptor NMDA. Ich korzyści w otępieniu są objawowe i przeciętnie niewielkie. Piracetam, miłorząb, preparaty ziołowe i suplementy sprzedawane jako „wzmacniacze poznawcze” nie mają równie spójnej podstawy dowodowej. Modafinil poprawia czuwanie w zatwierdzonych wskazaniach, ale nie jest uniwersalnym lekiem poprawiającym poznanie u osób zdrowych.
+
 ## Bibliografia
 
 - Birks, J. S. i Harvey, R. J. (2018). Donepezil for dementia due to Alzheimer’s disease. *Cochrane Database of Systematic Reviews*, 6, CD001190.

@@ -1,4 +1,4 @@
-﻿---
+---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -96,7 +96,7 @@ Ocena neuropsychologiczna otępień obejmuje:
 
 ## Postępowanie i opieka
 
-Leczenie otępień obejmuje komponent farmakologiczny (inhibitory AChE, memantyna w AD; leki objawowe - antydepresanty, anksjolityki) i niefarmakologiczny.
+Leczenie otępień obejmuje komponent farmakologiczny (inhibitory AChE, memantyna w AD; leki objawowe - leki przeciwdepresyjne i przeciwlękowe) i niefarmakologiczny.
 
 **Interwencje niefarmakologiczne o udokumentowanej skuteczności:** stymulacja poznawcza (grupowe ćwiczenia umysłowe), terapia reminiscencyjna (praca ze wspomnieniami), muzykoterapia (szczególnie skuteczna w DLB i AD - muzyka aktywuje rozległe sieci poza typowo uszkodzonymi obszarami), terapia walidacyjna, trening aktywności fizycznej.
 

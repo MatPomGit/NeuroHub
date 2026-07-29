@@ -1,4 +1,4 @@
-﻿---
+---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -36,7 +36,7 @@ Neurony serotoninergiczne mają ciała w jądrach szwu (raphe nuclei) i wysyłaj
 
 ### Układ GABA-ergiczny
 
-Benzodiazepiny (diazepam, lorazepam) są pozytywnymi modulatorami allosterycznymi GABA-A - stosowane jako anksjolityki i leki nasenne z ryzykiem uzależnienia. Alkohol etylowy potencjuje działanie GABA-A i hamuje receptory NMDA.
+Benzodiazepiny (diazepam, lorazepam) są pozytywnymi modulatorami allosterycznymi GABA-A - stosowane jako leki przeciwlękowe i nasenne z ryzykiem uzależnienia. Alkohol etylowy potencjuje działanie GABA-A i hamuje receptory NMDA.
 
 ### Układ glutaminianergiczny
 

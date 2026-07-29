@@ -1,4 +1,4 @@
-﻿---
+---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -39,7 +39,7 @@ Estradiol zwiększa syntezę serotoniny (wzrost ekspresji TPH2), zmniejsza jej w
 **Progesteron (P4)** w fazie lutealnej metabolizowany jest do **allopregnanolonu (ALLO)** - neuroaktywnego steroidu o działaniu podobnym do benzodiazepin. ALLO jest pozytywnym allosterycznym modulatorem receptorów GABA-A, co powoduje:
 
 - Nasilenie działania hamującego GABA w mózgu
-- Działanie anksjolityczne i uspokajające
+- Działanie przeciwlękowe i uspokajające
 - U wrażliwych kobiet - efekt paradoksalny: lęk, dysforię (zwłaszcza przy gwałtownych wahaniach ALLO)
 
 > **Paradoks ALLO w PMDD:** Kobiety z przedmiesiączkowym zaburzeniem dysforycznym (PMDD) mają prawidłowe stężenia ALLO, ale ich neurony wykazują zmienioną subjednostkową kompozycję receptorów GABA-A (δ→γ), co odwraca działanie ALLO z uspokajającego na pobudzające.

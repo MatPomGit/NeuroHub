@@ -1,4 +1,4 @@
-﻿---
+---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -51,7 +51,7 @@ Wahania estrogenu w cyklu menstruacyjnym korelują ze zmianami nastroju, wrażli
 
 Menopauza i związany z nią spadek estrogenu jest czynnikiem ryzyka objawów depresyjnych i problemów poznawczych.
 
-**Progesteron** ma działanie anksjolityczne (moduluje receptory GABA-A), co wyjaśnia zmienność nastroju w fazie lutealnej cyklu.
+**Progesteron** ma działanie przeciwlękowe (moduluje receptory GABA-A), co wyjaśnia zmienność nastroju w fazie lutealnej cyklu.
 
 ## Oksytocyna - hormon więzi
 

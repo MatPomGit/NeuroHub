@@ -33,7 +33,7 @@ Najczęstsze obszary pracy i badań:
    - komunikacja pacjent–personel medyczny,
    - psychoedukacja pacjentów i rodzin.
 
-4. **Jakość życia**
+4. **[Jakość życia](jakosc_zycia.md)**
    - ocena funkcjonowania psychicznego i społecznego,
    - budowanie zasobów mimo objawów somatycznych.
 

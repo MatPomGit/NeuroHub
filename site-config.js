@@ -662,7 +662,7 @@ window.SITE_CONFIG = {
         { id: 'psychologia_zdrowia/psychoonkologia',         label: 'Psychoonkologia',                 file: 'wiki/psychologia_zdrowia/psychoonkologia.md'         },
         { id: 'psychologia_zdrowia/choroby_ukladu_krazenia', label: 'Choroby ukladu krazenia',         file: 'wiki/psychologia_zdrowia/choroby_ukladu_krazenia.md' },
         { id: 'psychologia_zdrowia/cukrzyca',                label: 'Psychologia cukrzycy',            file: 'wiki/psychologia_zdrowia/cukrzyca.md'                },
-        { id: 'psychologia_zdrowia/jakosc_zycia',            label: 'Jakosc zycia, a choroba',          file: 'wiki/psychologia_zdrowia/jakosc_zycia.md'            },
+        { id: 'psychologia_zdrowia/jakosc_zycia',            label: 'Jakość życia',                     file: 'wiki/psychologia_zdrowia/jakosc_zycia.md'            },
         { id: 'psychologia_zdrowia/promocja_zdrowia',        label: 'Promocja zdrowia i profilaktyka', file: 'wiki/psychologia_zdrowia/promocja_zdrowia.md'        },
         { id: 'psychologia_zdrowia/psychoneuroimmunologia',  label: 'Psychoneuroimmunologia',          file: 'wiki/psychologia_zdrowia/psychoneuroimmunologia.md'  },
         { id: 'psychologia_zdrowia/placebo',                 label: 'Efekt placebo i nocebo',          file: 'wiki/psychologia_zdrowia/placebo.md'                 },
@@ -787,7 +787,6 @@ window.SITE_CONFIG = {
         { id: 'psychologia_niepelnosprawnosci/niepelnosprawnosc_wzrokowa',    label: 'Niepelnosprawnosc wzrokowa',             file: 'wiki/psychologia_niepelnosprawnosci/niepelnosprawnosc_wzrokowa.md'    },
         { id: 'psychologia_niepelnosprawnosci/niepelnosprawnosc_sluchowa',    label: 'Niepelnosprawnosc sluchowa',             file: 'wiki/psychologia_niepelnosprawnosci/niepelnosprawnosc_sluchowa.md'    },
         { id: 'psychologia_niepelnosprawnosci/autyzm_niepelnosprawnosc',      label: 'Spektrum autyzmu i niepelnosprawnosc',   file: 'wiki/psychologia_niepelnosprawnosci/autyzm_niepelnosprawnosc.md'      },
-        { id: 'psychologia_niepelnosprawnosci/jakosc_zycia',                  label: 'Jakosc zycia osob z niepelnosprawnoscia',file: 'wiki/psychologia_niepelnosprawnosci/jakosc_zycia.md'                  },
         { id: 'psychologia_niepelnosprawnosci/stres_i_adaptacja',             label: 'Stres, adaptacja i radzenie sobie',      file: 'wiki/psychologia_niepelnosprawnosci/stres_i_adaptacja.md'             },
         { id: 'psychologia_niepelnosprawnosci/rodzina_i_opiekunowie',         label: 'Rodzina i opiekunowie',                  file: 'wiki/psychologia_niepelnosprawnosci/rodzina_i_opiekunowie.md'         },
         { id: 'psychologia_niepelnosprawnosci/rehabilitacja_psychologiczna', label: 'Rehabilitacja psychologiczna osób z niepełnosprawnościami', file: 'wiki/psychologia_niepelnosprawnosci/rehabilitacja_psychologiczna.md' },
@@ -1725,7 +1724,7 @@ window.SITE_CONFIG = {
       { file: 'wiki/psychologia_zdrowia/psychoonkologia.md',         label: 'Psychoonkologia',                    status: 'live' },
       { file: 'wiki/psychologia_zdrowia/choroby_ukladu_krazenia.md', label: 'Choroby ukladu krazenia',            status: 'live' },
       { file: 'wiki/psychologia_zdrowia/cukrzyca.md',                label: 'Psychologia cukrzycy',               status: 'live' },
-      { file: 'wiki/psychologia_zdrowia/jakosc_zycia.md',            label: 'Jakosc zycia, a choroba',            status: 'live' },
+      { file: 'wiki/psychologia_zdrowia/jakosc_zycia.md',            label: 'Jakość życia',                       status: 'live' },
       { file: 'wiki/psychologia_zdrowia/promocja_zdrowia.md',        label: 'Promocja zdrowia i profilaktyka',    status: 'live' },
       { file: 'wiki/psychologia_zdrowia/psychoneuroimmunologia.md',  label: 'Psychoneuroimmunologia',             status: 'live' },
       { file: 'wiki/psychologia_zdrowia/placebo.md',                 label: 'Efekt placebo i nocebo',             status: 'live' },
@@ -1759,7 +1758,6 @@ window.SITE_CONFIG = {
       { file: 'wiki/psychologia_niepelnosprawnosci/niepelnosprawnosc_wzrokowa.md',    label: 'Niepelnosprawnosc wzrokowa',                    status: 'live' },
       { file: 'wiki/psychologia_niepelnosprawnosci/niepelnosprawnosc_sluchowa.md',    label: 'Niepelnosprawnosc sluchowa',                    status: 'live' },
       { file: 'wiki/psychologia_niepelnosprawnosci/autyzm_niepelnosprawnosc.md',      label: 'Spektrum autyzmu i niepelnosprawnosc',          status: 'live' },
-      { file: 'wiki/psychologia_niepelnosprawnosci/jakosc_zycia.md',                  label: 'Jakosc zycia osob z niepelnosprawnoscia',       status: 'live' },
       { file: 'wiki/psychologia_niepelnosprawnosci/stres_i_adaptacja.md',             label: 'Stres, adaptacja i radzenie sobie',             status: 'live' },
       { file: 'wiki/psychologia_niepelnosprawnosci/rodzina_i_opiekunowie.md',         label: 'Rodzina i opiekunowie',                        status: 'live' },
       { file: 'wiki/psychologia_niepelnosprawnosci/rehabilitacja_psychologiczna.md', label: 'Rehabilitacja psychologiczna osób z niepełnosprawnościami', status: 'live' },
@@ -2821,7 +2819,7 @@ window.SITE_CONFIG = {
             { label: 'Psychoonkologia',                  id: 'psychologia_zdrowia/psychoonkologia',          status: 'live' },
             { label: 'Choroby ukladu krazenia',          id: 'psychologia_zdrowia/choroby_ukladu_krazenia',  status: 'live' },
             { label: 'Psychologia cukrzycy',             id: 'psychologia_zdrowia/cukrzyca',                 status: 'live' },
-            { label: 'Jakosc zycia, a choroba',          id: 'psychologia_zdrowia/jakosc_zycia',             status: 'live' },
+            { label: 'Jakość życia',                     id: 'psychologia_zdrowia/jakosc_zycia',             status: 'live' },
           ]
         },
         {
@@ -2913,7 +2911,7 @@ window.SITE_CONFIG = {
         {
           title: 'Funkcjonowanie psychiczne',
           articles: [
-            { label: 'Jakosc zycia osob z niepelnosprawnoscia', id: 'psychologia_niepelnosprawnosci/jakosc_zycia',      status: 'live' },
+            { label: 'Jakość życia',                          id: 'psychologia_zdrowia/jakosc_zycia',                  status: 'live' },
             { label: 'Stres, adaptacja i radzenie sobie',       id: 'psychologia_niepelnosprawnosci/stres_i_adaptacja', status: 'live' },
           ]
         },

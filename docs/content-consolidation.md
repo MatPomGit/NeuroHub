@@ -51,7 +51,8 @@ Jedna zmiana powinna obejmować małą, spójną grupę artykułów. Pozwala to 
 | 2026-07-29 | `wiki/psychofarmakologia/06_leki_przeciwdepresyjne.md` | `wiki/farmakologia/przeciwdepresyjne.md` |
 | 2026-07-29 | `wiki/psychofarmakologia/07_leki_normotymiczne.md` | `wiki/farmakologia/stabilizatory.md` |
 | 2026-07-29 | `wiki/psychofarmakologia/08_leki_prokognitywne.md` | `wiki/farmakologia/nootropiki.md` |
-| 2026-07-29 | `wiki/psychofarmakologia/09_leki_anksjolityczne_i_nasenne.md` | `wiki/farmakologia/anxiolityki.md` |
+| 2026-07-29 | `wiki/psychofarmakologia/09_leki_przeciwlekowe_i_nasenne.md` | `wiki/farmakologia/anxiolityki.md` |
+| 2026-07-29 | `wiki/psychofarmakologia/09_leki_przeciwlekowe_i_nasenne.md` | `wiki/psychofarmakologia/09_leki_anksjolityczne_i_nasenne.md` |
 | 2026-07-29 | `wiki/psychofarmakologia/11_leki_w_terapii_uzaleznien.md` | `wiki/farmakologia/uzaleznienia_farm.md` |
 
 ## Konsolidacja klas leków: farmakologia i psychofarmakologia
@@ -62,7 +63,7 @@ W tej iteracji główne pytanie brzmi: „Czym charakteryzuje się dana klasa le
 |---|---|---|---|
 | Leki przeciwdepresyjne | Jak działają poszczególne klasy leków przeciwdepresyjnych oraz jak dobiera się je i bezpiecznie odstawia? | `wiki/psychofarmakologia/06_leki_przeciwdepresyjne.md` | `wiki/farmakologia/przeciwdepresyjne.md` |
 | Leki przeciwpsychotyczne | Czym różnią się leki przeciwpsychotyczne pod względem skuteczności, działań niepożądanych i monitorowania? | `wiki/psychofarmakologia/05_leki_przeciwpsychotyczne.md` | `wiki/farmakologia/przeciwpsychotyczne.md` |
-| Leki anksjolityczne i nasenne | Kiedy poszczególne leki zmniejszają lęk lub poprawiają sen i jak ograniczać ryzyko zależności? | `wiki/psychofarmakologia/09_leki_anksjolityczne_i_nasenne.md` | `wiki/farmakologia/anxiolityki.md` |
+| Leki przeciwlękowe i nasenne | Kiedy poszczególne leki zmniejszają lęk lub poprawiają sen i jak ograniczać ryzyko zależności? | `wiki/psychofarmakologia/09_leki_przeciwlekowe_i_nasenne.md` | `wiki/farmakologia/anxiolityki.md` |
 | Leki normotymiczne | Które leki zapobiegają manii lub depresji dwubiegunowej i jak zależy to od fazy choroby oraz profilu bezpieczeństwa? | `wiki/psychofarmakologia/07_leki_normotymiczne.md` | `wiki/farmakologia/stabilizatory.md` |
 | Leki prokognitywne | Które leki mają udokumentowane działanie objawowe na funkcje poznawcze i czym różnią się od marketingowej kategorii nootropików? | `wiki/psychofarmakologia/08_leki_prokognitywne.md` | `wiki/farmakologia/nootropiki.md` |
 | Leki stosowane w terapii uzależnień | Jak dobrać farmakoterapię do substancji i celu: przeżycia, redukcji szkód, ograniczenia używania lub abstynencji? | `wiki/psychofarmakologia/11_leki_w_terapii_uzaleznien.md` | `wiki/farmakologia/uzaleznienia_farm.md` |

@@ -133,7 +133,7 @@ call :mkmd "wiki\psychometria\invariancja.md"  "Inwariancja pomiarowa"       "Ps
 call :mkmd "wiki\farmakologia\neurofarmakologia.md"    "Neurofarmakologia"              "Farmakologia"
 call :mkmd "wiki\farmakologia\przeciwdepresyjne.md"    "Leki przeciwdepresyjne"         "Farmakologia"
 call :mkmd "wiki\farmakologia\przeciwpsychotyczne.md"  "Leki przeciwpsychotyczne"       "Farmakologia"
-call :mkmd "wiki\farmakologia\anxiolityki.md"          "Anksjolityki i leki nasenne"    "Farmakologia"
+call :mkmd "wiki\farmakologia\anxiolityki.md"          "Leki przeciwlękowe i nasenne"    "Farmakologia"
 call :mkmd "wiki\farmakologia\stabilizatory.md"        "Stabilizatory nastroju"         "Farmakologia"
 call :mkmd "wiki\farmakologia\uzaleznienia_farm.md"    "Farmakoterapia uzależnień"     "Farmakologia"
 call :mkmd "wiki\farmakologia\psychodeliki.md"         "Psychodeliki w terapii"         "Farmakologia"

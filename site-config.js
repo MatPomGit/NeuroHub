@@ -15,7 +15,8 @@ window.SITE_CONFIG = {
 
   // Zachowuje dawne skróty SPA po scaleniu zduplikowanych artykułów.
   articleRedirects: {
-    'farmakologia/anxiolityki': 'psychofarmakologia/09_leki_anksjolityczne_i_nasenne',
+    'psychofarmakologia/09_leki_anksjolityczne_i_nasenne': 'psychofarmakologia/09_leki_przeciwlekowe_i_nasenne',
+    'farmakologia/anxiolityki': 'psychofarmakologia/09_leki_przeciwlekowe_i_nasenne',
     'farmakologia/nootropiki': 'psychofarmakologia/08_leki_prokognitywne',
     'farmakologia/przeciwdepresyjne': 'psychofarmakologia/06_leki_przeciwdepresyjne',
     'farmakologia/przeciwpsychotyczne': 'psychofarmakologia/05_leki_przeciwpsychotyczne',
@@ -878,7 +879,7 @@ window.SITE_CONFIG = {
           { id: 'psychofarmakologia/06_leki_przeciwdepresyjne', label: '06. Leki przeciwdepresyjne', file: 'wiki/psychofarmakologia/06_leki_przeciwdepresyjne.md' },
           { id: 'psychofarmakologia/07_leki_normotymiczne', label: '07. Leki normotymiczne', file: 'wiki/psychofarmakologia/07_leki_normotymiczne.md' },
           { id: 'psychofarmakologia/08_leki_prokognitywne', label: '08. Leki prokognitywne', file: 'wiki/psychofarmakologia/08_leki_prokognitywne.md' },
-          { id: 'psychofarmakologia/09_leki_anksjolityczne_i_nasenne', label: '09. Leki anksjolityczne i nasenne', file: 'wiki/psychofarmakologia/09_leki_anksjolityczne_i_nasenne.md' },
+          { id: 'psychofarmakologia/09_leki_przeciwlekowe_i_nasenne', label: '09. Leki przeciwlękowe i nasenne', file: 'wiki/psychofarmakologia/09_leki_przeciwlekowe_i_nasenne.md' },
           { id: 'psychofarmakologia/10_leki_stymulujace', label: '10. Leki stymulujące', file: 'wiki/psychofarmakologia/10_leki_stymulujace.md' },
           { id: 'psychofarmakologia/11_leki_w_terapii_uzaleznien', label: '11. Leki w terapii uzaleznień', file: 'wiki/psychofarmakologia/11_leki_w_terapii_uzaleznien.md' },
           { id: 'psychofarmakologia/12_inne_leki_psychotropowe_lub_stosowane_w_psychiatrii', label: '12. Inne leki psychotropowe lub stosowane w psychiatrii', file: 'wiki/psychofarmakologia/12_inne_leki_psychotropowe_lub_stosowane_w_psychiatrii.md' },
@@ -1547,7 +1548,7 @@ window.SITE_CONFIG = {
       { file: 'wiki/farmakologia/neurofarmakologia.md',   label: 'Neurofarmakologia',           status: 'live' },
       { file: 'wiki/psychofarmakologia/06_leki_przeciwdepresyjne.md',   label: 'Leki przeciwdepresyjne',      status: 'live' },
       { file: 'wiki/psychofarmakologia/05_leki_przeciwpsychotyczne.md', label: 'Leki przeciwpsychotyczne',    status: 'live' },
-      { file: 'wiki/psychofarmakologia/09_leki_anksjolityczne_i_nasenne.md',         label: 'Anksjolityki i nasenne',      status: 'live' },
+      { file: 'wiki/psychofarmakologia/09_leki_przeciwlekowe_i_nasenne.md',         label: 'Leki przeciwlękowe i nasenne',      status: 'live' },
       { file: 'wiki/psychofarmakologia/07_leki_normotymiczne.md',       label: 'Leki normotymiczne',      status: 'live' },
       { file: 'wiki/psychofarmakologia/11_leki_w_terapii_uzaleznien.md',   label: 'Farmakoterapia uzależnień',   status: 'live' },
       { file: 'wiki/farmakologia/psychodeliki.md',        label: 'Psychodeliki w terapii',      status: 'live' },
@@ -2490,7 +2491,7 @@ window.SITE_CONFIG = {
             { label: 'Neurofarmakologia', id: 'farmakologia/neurofarmakologia', status: 'live' },
             { label: 'Leki przeciwdepresyjne', id: 'psychofarmakologia/06_leki_przeciwdepresyjne', status: 'live' },
             { label: 'Leki przeciwpsychotyczne', id: 'psychofarmakologia/05_leki_przeciwpsychotyczne', status: 'live' },
-            { label: 'Anksjolityki i nasenne', id: 'psychofarmakologia/09_leki_anksjolityczne_i_nasenne', status: 'live' },
+            { label: 'Leki przeciwlękowe i nasenne', id: 'psychofarmakologia/09_leki_przeciwlekowe_i_nasenne', status: 'live' },
             { label: 'Leki normotymiczne', id: 'psychofarmakologia/07_leki_normotymiczne', status: 'live' },
             { label: 'Farmakoterapia uzależnień', id: 'psychofarmakologia/11_leki_w_terapii_uzaleznien', status: 'live' },
             { label: 'Psychodeliki w terapii', id: 'farmakologia/psychodeliki', status: 'live' },

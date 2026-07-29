@@ -22,7 +22,7 @@ Przy lekturze warto najpierw wybrać artykuł odpowiadający głównemu pytaniu,
 - [6. Leki przeciwdepresyjne](./06_leki_przeciwdepresyjne.md)
 - [7. Leki normotymiczne](./07_leki_normotymiczne.md)
 - [8. Leki prokognitywne](./08_leki_prokognitywne.md)
-- [9. Leki anksjolityczne i nasenne](./09_leki_anksjolityczne_i_nasenne.md)
+- [9. Leki przeciwlękowe i nasenne](./09_leki_przeciwlekowe_i_nasenne.md)
 - [10. Leki stymulujące](./10_leki_stymulujace.md)
 - [11. Leki stosowane w terapii uzależnień](./11_leki_w_terapii_uzaleznien.md)
 - [12. Inne leki o działaniu psychotropowym lub stosowane w psychiatrii](./12_inne_leki_psychotropowe_lub_stosowane_w_psychiatrii.md)

@@ -1,108 +1,79 @@
 ---
-lastReviewed: 2026-04-01
-reviewCycleMonths: 24
-evidenceCutoffDate: 2025-12-31
+lastReviewed: 2026-07-29
+reviewCycleMonths: 18
+evidenceCutoffDate: 2026-07-29
+aliases:
+  - burnout
+  - wypalenie
 ---
 
-# Wypalenie zawodowe - definicja i modele
+# Wypalenie zawodowe
 
-## Czym jest wypalenie zawodowe?
+Wypalenie zawodowe jest zespołem związanym z przewlekłym stresem w pracy, z którym nie udało się skutecznie poradzić. ICD-11 ujmuje je jako zjawisko zawodowe, a nie chorobę. To rozróżnienie ma znaczenie: opis wypalenia może pomóc rozpoznać problem, lecz nie zastępuje diagnozy medycznej ani psychologicznej.
 
-**Wypalenie zawodowe** (*burnout*) to stan fizycznego i psychicznego wyczerpania wynikający z przewlekłego stresu zawodowego, który nie został skutecznie przepracowany. Wypalenie jest czymś więcej niż zmęczeniem po ciężkim dniu pracy - jest fundamentalnym zachwianiem relacji człowieka z jego pracą, które odbija się na zdrowiu, relacjach interpersonalnych i poczuciu własnej wartości.
+## Trzy wymiary
 
-Choć wypalenie zawodowe bywa kojarzone głównie z zawodami pomocowymi (lekarze, pielęgniarki, psychologowie, nauczyciele, pracownicy socjalni), współczesne badania wskazują, że dotknąć może każdego - niezależnie od branży czy pozycji zawodowej.
+Definicja Światowej Organizacji Zdrowia obejmuje:
 
-> **Fakt:** W badaniu Gallupa z 2019 roku przeprowadzonym na 7 500 pracownikach pełnoetatowych aż 23% deklarowało wypalenie zawodowe „bardzo często lub zawsze", a kolejne 44% - „czasami". Oznacza to, że wypalenie dotyka w jakimś stopniu blisko dwóch trzecich zatrudnionych.
+1. wyczerpanie lub poczucie utraty energii;
+2. zwiększony dystans psychiczny wobec pracy, negatywizm albo cynizm;
+3. obniżoną skuteczność zawodową.
 
-## Koncepcja Freudenbergera - pionier badań
+Wypalenie odnosi się wyłącznie do kontekstu pracy. Określenia „wypalenie rodzicielskie” i „wypalenie szkolne” funkcjonują w badaniach jako odrębne konstrukty, ale nie mieszczą się w definicji zawodowej ICD-11.
 
-Termin *burnout* w odniesieniu do zjawiska zawodowego wprowadził **Herbert J. Freudenberger** w 1974 roku. Freudenberger - sam z wykształcenia psychoanalityk - opisał zjawisko na podstawie obserwacji wolontariuszy pracujących w nowojorskich klinikach dla bezdomnych. Zauważył, że najbardziej zaangażowani, idealistyczni pracownicy stopniowo stawali się cynicy, drażliwi i niezdolni do empatii.
+## Modele wyjaśniające
 
-Freudenberger opisał wypalenie jako „wyczerpanie zapasów energii wewnętrznej lub siły osoby wynikające z nadmiernych wymagań stawianych przez własne zasoby wewnętrzne lub zewnętrzne". Podkreślał, że wypaleniu szczególnie podlegają jednostki ambitne, zaangażowane i perfekcjonistyczne - a nie, jak można by sądzić, osoby leniwe lub niezaangażowane.
+Historycznie Herbert Freudenberger opisywał wyczerpanie u silnie zaangażowanych pracowników i wolontariuszy. Christina Maslach i współpracownicy rozwinęli model obejmujący wyczerpanie, depersonalizację lub cynizm oraz poczucie skuteczności.
 
-W swojej książce *Burn-Out: The High Cost of High Achievement* (1980) Freudenberger opisał charakterystyczny profil osoby zagrożonej wypaleniem: wysoka motywacja wewnętrzna, tendencja do przeciążania siebie obowiązkami, trudność z delegowaniem i wyznaczaniem granic, identyfikacja tożsamości z rolą zawodową.
+Współczesne modele przesuwają uwagę z samej podatności jednostki na relację między wymaganiami a zasobami pracy. Do wymagań należą między innymi przeciążenie, presja czasu, konflikt ról, ekspozycja na cierpienie i brak przewidywalności. Zasoby to na przykład autonomia, sprawiedliwe traktowanie, wsparcie przełożonych, adekwatna obsada, możliwość regeneracji i wpływ na sposób wykonywania zadań.
 
-## Model Maslach - trójelementowy
+Wysokie wymagania nie prowadzą automatycznie do wypalenia. Ryzyko rośnie, gdy obciążenie jest przewlekłe, zasoby niewystarczające, a osoba ma małą możliwość zmiany warunków.
 
-Przełom w rozumieniu wypalenia zawodowego przyniosły badania **Christiny Maslach**, socjolożki z Uniwersytetu Kalifornijskiego w Berkeley. Maslach opracowała zarówno empiryczną teorię wypalenia, jak i najszerzej stosowane narzędzie diagnostyczne - **Maslach Burnout Inventory (MBI)**, po raz pierwszy opublikowane w 1981 roku.
+## Objawy i konsekwencje
 
-Według Maslach wypalenie zawodowe składa się z trzech wymiarów:
+Wyczerpanie może obejmować brak energii przed pracą, trudność z regeneracją i narastające unikanie obowiązków. Dystans może przejawiać się zobojętnieniem, cynicznym językiem lub traktowaniem odbiorców pracy jak problemów. Obniżona skuteczność dotyczy poczucia, że wysiłek nie przynosi rezultatów.
 
-### 1. Wyczerpanie emocjonalne (*emotional exhaustion*)
+Takie objawy mogą wpływać na absencję, rotację, relacje w zespole i bezpieczeństwo wykonywania pracy. Nie są jednak specyficzne wyłącznie dla wypalenia.
 
-Wyczerpanie emocjonalne to poczucie bycia wyprutym z energii emocjonalnej, psychicznej i fizycznej przez wymagania pracy. Pracownik czuje, że nie ma już nic do zaoferowania - ani pacjentom, uczniom, klientom, ani bliskim. To zazwyczaj pierwszy wymiar, który się pojawia.
+## Różnicowanie
 
-Typowe objawy: poranne budzenie się z poczuciem wyczerpania jeszcze przed wyjściem do pracy, uczucie „wyciśniętej cytryny" po każdym spotkaniu z podopiecznym, brak możliwości regeneracji podczas urlopu.
+Wypalenie i depresja częściowo się nakładają, zwłaszcza w zakresie wyczerpania, obniżonego nastroju i poczucia nieskuteczności. Proste przeciwstawienie, według którego wypalenie dotyczy tylko pracy, a depresja wszystkich sfer życia, jest zbyt schematyczne. Objawy mogą się rozszerzać poza pracę, a oba problemy mogą współwystępować.
 
-### 2. Depersonalizacja (*depersonalization*)
+Ocena powinna uwzględniać także zaburzenia lękowe, zaburzenia snu, używanie substancji, choroby somatyczne, działania niepożądane leków oraz inne źródła przewlekłego zmęczenia. Utrata zainteresowań w wielu dziedzinach, myśli samobójcze lub wyraźne pogorszenie podstawowego funkcjonowania wymagają pilnej profesjonalnej oceny.
 
-Depersonalizacja to rozwinięcie cynicznych, chłodnych postaw wobec osób, z którymi pracujemy - pacjentów, uczniów, klientów. Jest mechanizmem obronnym: wypalony pracownik dystansuje się emocjonalnie, by chronić siebie przed dalszym wyczerpaniem.
+## Pomiar
 
-Typowe objawy: traktowanie pacjenta jak „przypadku numer 17", cyniczne komentarze w pokoju socjalnym, poczucie, że ludzie są problemem, nie celem pracy, irytacja na pytania podopiecznych.
+Kwestionariusze takie jak Maslach Burnout Inventory, Oldenburg Burnout Inventory i Copenhagen Burnout Inventory służą głównie badaniom oraz ocenie nasilenia wymiarów. Różnią się modelem teoretycznym i zakresem. Wynik nie powinien być traktowany jako samodzielna diagnoza.
 
-### 3. Obniżone poczucie osiągnięć (*reduced personal accomplishment*)
+Porównywanie częstości wypalenia między badaniami jest trudne, ponieważ stosuje się odmienne narzędzia, progi i grupy zawodowe. Pojedynczy procent bez informacji o metodzie może wprowadzać w błąd.
 
-Trzeci wymiar to narastające poczucie braku kompetencji, nieskuteczności i braku sensu w tym, co się robi. Pracownik wątpi, czy jego praca ma jakiekolwiek znaczenie.
+## Profilaktyka i interwencja
 
-Typowe objawy: poczucie, że nic nie wychodzi mimo wysiłku, porównywanie się z „lepszymi" kolegami, kwestionowanie sensu wybranej ścieżki zawodowej.
+Ponieważ źródła problemu często leżą w organizacji pracy, odpowiedzialności nie należy przenosić wyłącznie na pracownika. Działania organizacyjne mogą obejmować:
 
-> **Fakt:** Maslach Burnout Inventory (MBI) jest narzędziem przetłumaczonym na ponad 25 języków i zastosowanym w tysiącach badań. Polska adaptacja MBI jest dostępna i stosowana w badaniach epidemiologicznych.
+- dostosowanie obciążenia i obsady;
+- zwiększenie wpływu na sposób wykonywania pracy;
+- jasne role, procedury i priorytety;
+- ograniczenie zbędnych obowiązków administracyjnych;
+- sprawiedliwe zasady, kulturę szacunku i dostęp do wsparcia;
+- realną możliwość odpoczynku oraz bezpieczne zgłaszanie przeciążenia.
 
-## Klasyfikacja ICD-11
+Działania indywidualne, takie jak odpoczynek, praca nad granicami, psychoterapia, trening umiejętności radzenia sobie czy wsparcie społeczne, mogą zmniejszać cierpienie i pomagać odzyskać sprawczość. Nie skompensują jednak trwale niebezpiecznych lub nadmiernych warunków pracy.
 
-W 2019 roku **Światowa Organizacja Zdrowia** włączyła wypalenie zawodowe do 11. rewizji Międzynarodowej Klasyfikacji Chorób (**ICD-11**) - nie jako odrębne zaburzenie psychiczne, lecz jako **zjawisko związane z zatrudnieniem** (kod: QD85), należące do grupy „Czynniki wpływające na stan zdrowia lub kontakt ze służbą zdrowia".
+Najlepszy plan odpowiada na zidentyfikowane przyczyny. Może wymagać czasowego ograniczenia obowiązków, konsultacji medycznej, wsparcia psychologicznego, zmian w zespole albo interwencji dotyczącej całej organizacji.
 
-Definicja WHO obejmuje trzy wymiary ściśle odpowiadające modelowi Maslach:
+## Powrót do pracy
 
-1. Uczucia wyczerpania energetycznego lub wyczerpania
-2. Zwiększony dystans psychiczny od pracy lub uczucia negatywizmu lub cynizmu wobec pracy
-3. Obniżona efektywność zawodowa
-
-Klasyfikacja WHO wyraźnie zastrzega, że wypalenie odnosi się wyłącznie do kontekstu zawodowego i nie powinno być stosowane do opisywania doświadczeń z innych obszarów życia.
-
-Włączenie do ICD-11 ma ogromne znaczenie praktyczne:
-
-- legitymizuje wypalenie jako problem zdrowotny wymagający leczenia
-- umożliwia epidemiologiczne śledzenie jego rozpowszechnienia
-- otwiera dyskusję o odpowiedzialności pracodawców za zdrowie pracowników
-- ułatwia wystawienie zwolnienia lekarskiego i sięgnięcie po wsparcie
-
-## Różnicowanie wypalenia z innymi stanami
-
-Wypalenie zawodowe bywa mylone z innymi stanami psychicznymi i fizycznymi.
-
-**Wypalenie a depresja:** Oba stany cechują wyczerpanie, obniżony nastrój i zmniejszona efektywność. Jednak wypalenie jest pierwotnie związane z kontekstem pracy - osoby wypalone często odczuwają ulgę i poprawę w dni wolne oraz podczas urlopu (przynajmniej na początku). Depresja przenika wszystkie obszary życia, jest głębsza i bardziej wszechogarniająca. Warto zaznaczyć, że wypalenie może ewoluować w kliniczny epizod depresyjny.
-
-**Wypalenie a stres:** Stres to stan nadmiaru - zbyt wiele zobowiązań, zbyt mało zasobów. Wypalenie to stan niedoboru - wyczerpanie zasobów emocjonalnych i woli. Osoba stresem obciążona wyobraża sobie, że poczuje się lepiej, gdy skończy zadania. Osoba wypalona nie widzi możliwości poprawy.
-
-**Wypalenie a chroniczne zmęczenie:** Zespół przewlekłego zmęczenia (ME/CFS) ma podłoże biologiczne i nie jest proporcjonalny do obciążeń zawodowych. Wypalenie jest z zasady skojarzone z konkretnym kontekstem pracy, choć z czasem może się uogólniać.
-
-## Przykład kliniczny
-
-Doktor Agnieszka, 40-letnia lekarka POZ z 15-letnim stażem, zgłosiła się do psychiatry z powodu narastającego cynizmu wobec pacjentów, niemożności wstania rano do pracy i poczucia, że jest „złą lekarką". Wynik MBI wskazał na wysokie wyczerpanie emocjonalne i depersonalizację przy znacznie obniżonym poczuciu osiągnięć. W wywiadzie: brak urlopu od 2 lat, 12-godzinne zmiany, 40 pacjentów dziennie, brak superwizji. Diagnoza: wypalenie zawodowe (ICD-11 QD85). Plan leczenia: zwolnienie lekarskie, psychoterapia CBT, interwencja systemowa w miejscu pracy (zmniejszenie liczby pacjentów na dyżurze).
-
-
-
-Wypalenie zawodowe jest wielowymiarowym stanem wyczerpania, który Freudenberger opisał jako pierwszorzędny problem ludzi najbardziej zaangażowanych. Model Maslach z jego trzema wymiarami (wyczerpanie, depersonalizacja, obniżone poczucie osiągnięć) stanowi fundament diagnostyczny, potwierdzony w tysiącach badań i zaakceptowany przez WHO w ICD-11. Rozumienie wypalenia jest punktem wyjścia skutecznej profilaktyki i leczenia.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Wypalenie zawodowe - definicja i modele" polega na tym, że odporność psychiczna nie oznacza braku podatności na zranienie, lecz zdolność do odzyskiwania sprawstwa w warunkach przeciążenia i presji.
-
-Dopiero wspólna analiza zagadnień takich jak czym jest wypalenie zawodowe?, klasyfikacja icd-11 oraz przykład kliniczny pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+Powrót po okresie nasilonych trudności powinien uwzględniać aktualny stan zdrowia i czynniki, które doprowadziły do przeciążenia. Sam urlop może przynieść przejściową ulgę, ale bez zmiany warunków problem może powrócić. Pomocne bywają stopniowe zwiększanie obciążenia, jasno ustalone priorytety, ograniczenie nadgodzin i regularna ocena planu z pracownikiem.
 
 ## Podsumowanie
 
-Temat "Wypalenie zawodowe - definicja i modele" pokazuje, że najważniejsze jest łączenie profilaktyki indywidualnej z analizą środowiska pracy, procedur i kultury organizacyjnej.
+Wypalenie zawodowe opisuje związek przewlekłego stresu w pracy z wyczerpaniem, dystansem i obniżoną skutecznością. Nie jest w ICD-11 chorobą ani prostym synonimem depresji. Rzetelna pomoc wymaga oceny stanu osoby oraz warunków pracy, a profilaktyka powinna łączyć działania organizacyjne z dobrowolnym wsparciem indywidualnym.
 
-W praktyce oznacza to potrzebę łączenia poziomu teorii, obserwacji i zastosowania zamiast opierania się na pojedynczym, oderwanym wskaźniku.
+## Bibliografia
 
-Dopiero wspólna analiza zagadnień takich jak czym jest wypalenie zawodowe?, klasyfikacja icd-11 oraz przykład kliniczny pokazuje pełny zakres omawianego zjawiska.## Bibliografia
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+1. Bakker, A. B., & Demerouti, E. (2017). Job demands-resources theory: Taking stock and looking forward. *Journal of Occupational Health Psychology, 22*(3), 273–285. https://doi.org/10.1037/ocp0000056
+2. Koutsimani, P., Montgomery, A., & Georganta, K. (2019). The relationship between burnout, depression, and anxiety: A systematic review and meta-analysis. *Frontiers in Psychology, 10*, 284. https://doi.org/10.3389/fpsyg.2019.00284
+3. Maslach, C., & Leiter, M. P. (2016). Understanding the burnout experience: Recent research and its implications for psychiatry. *World Psychiatry, 15*(2), 103–111. https://doi.org/10.1002/wps.20311
+4. Panagioti, M. i in. (2017). Controlled interventions to reduce burnout in physicians: A systematic review and meta-analysis. *JAMA Internal Medicine, 177*(2), 195–205. https://doi.org/10.1001/jamainternmed.2016.7674
+5. World Health Organization. (2019). *Burn-out an occupational phenomenon: International Classification of Diseases*. https://www.who.int/news/item/28-05-2019-burn-out-an-occupational-phenomenon-international-classification-of-diseases

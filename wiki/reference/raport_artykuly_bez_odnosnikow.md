@@ -249,7 +249,6 @@ Poni9=ej znajdujďż˝& siďż˝" bezpo9:rednie odno9:niki do artyku9Bw bez li
 
 ### disorders
 
-- [`disorders/adhd.md`](../zaburzenia/adhd.md)
 - [`disorders/afazje.md`](../zaburzenia/afazje.md)
 - [`disorders/agnozja.md`](../zaburzenia/agnozja.md)
 - [`disorders/amnezje.md`](../zaburzenia/amnezje.md)
@@ -385,8 +384,6 @@ Poni9=ej znajdujďż˝& siďż˝" bezpo9:rednie odno9:niki do artyku9Bw bez li
 - [`health_psychology/rehabilitacja.md`](../psychologia_zdrowia/rehabilitacja.md)
 - [`health_psychology/sen_zdrowie.md`](../psychologia_zdrowia/sen_zdrowie.md)
 - [`health_psychology/styl_zycia.md`](../psychologia_zdrowia/styl_zycia.md)
-- [`health_psychology/wsparcie_spoleczne.md`](../psychologia_zdrowia/wsparcie_spoleczne.md)
-- [`health_psychology/wypalenie_zawodowe.md`](../psychologia_zdrowia/wypalenie_zawodowe.md)
 - [`health_psychology/zachowania_zdrowotne.md`](../psychologia_zdrowia/zachowania_zdrowotne.md)
 - [`health_psychology/zdrowie_wprowadzenie.md`](../psychologia_zdrowia/zdrowie_wprowadzenie.md)
 
@@ -912,7 +909,6 @@ Najwa9=niejszy wniosek jest taki, 9=e rzetelne rozumienie omawianego tematu wyma
 3. Nďż˝"cka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
 4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
 5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
-
 
 
 

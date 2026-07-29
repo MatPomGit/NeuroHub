@@ -15,6 +15,9 @@ window.SITE_CONFIG = {
 
   // Zachowuje dawne skróty SPA po scaleniu zduplikowanych artykułów.
   articleRedirects: {
+    'zaburzenia/adhd': 'neuroroznorodnosc/adhd',
+    'psychologia_zdrowia/wsparcie_spoleczne': 'podstawy_pomocy/wsparcie_spoleczne',
+    'psychologia_zdrowia/wypalenie_zawodowe': 'rezyliencja_i_mobbing/wypalenie_zawodowe',
     'psychosomatyka/aleksytymia': 'emocje/aleksytymia',
     'zaburzenia/asd': 'neuroroznorodnosc/spektrum_autyzmu',
     'seminarium_dyplomowe/etyka_badan': 'etyka/etyka_badan',
@@ -531,7 +534,6 @@ window.SITE_CONFIG = {
         { id: 'zaburzenia/apraksja',  label: 'Apraksja',              file: 'wiki/zaburzenia/apraksja.md'  },
         { id: 'zaburzenia/agnozja',   label: 'Agnozja wzrokowa',      file: 'wiki/zaburzenia/agnozja.md'   },
         { id: 'zaburzenia/neglect',   label: 'Neglect przestrzenny',  file: 'wiki/zaburzenia/neglect.md'   },
-        { id: 'zaburzenia/adhd',      label: 'ADHD',                  file: 'wiki/zaburzenia/adhd.md'      },
       ]
     },
     { /* Przypadki kliniczne */
@@ -656,12 +658,10 @@ window.SITE_CONFIG = {
         { id: 'psychologia_zdrowia/promocja_zdrowia',        label: 'Promocja zdrowia i profilaktyka', file: 'wiki/psychologia_zdrowia/promocja_zdrowia.md'        },
         { id: 'psychologia_zdrowia/psychoneuroimmunologia',  label: 'Psychoneuroimmunologia',          file: 'wiki/psychologia_zdrowia/psychoneuroimmunologia.md'  },
         { id: 'psychologia_zdrowia/placebo',                 label: 'Efekt placebo i nocebo',          file: 'wiki/psychologia_zdrowia/placebo.md'                 },
-        { id: 'psychologia_zdrowia/wsparcie_spoleczne',      label: 'Wsparcie społeczne, a zdrowie',    file: 'wiki/psychologia_zdrowia/wsparcie_spoleczne.md'      },
         { id: 'psychologia_zdrowia/adherencja',              label: 'Adherencja terapeutyczna',        file: 'wiki/psychologia_zdrowia/adherencja.md'              },
         { id: 'psychologia_zdrowia/komunikacja_medyczna',    label: 'Komunikacja lekarz–pacjent',      file: 'wiki/psychologia_zdrowia/komunikacja_medyczna.md'    },
         { id: 'psychologia_zdrowia/interwencje_zdrowotne',   label: 'Interwencje psychologiczne w medycynie',      file: 'wiki/psychologia_zdrowia/interwencje_zdrowotne.md'   },
         { id: 'psychologia_zdrowia/rehabilitacja', label: 'Rehabilitacja psychologiczna w chorobach somatycznych', file: 'wiki/psychologia_zdrowia/rehabilitacja.md' },
-        { id: 'psychologia_zdrowia/wypalenie_zawodowe',      label: 'Wypalenie zawodowe',              file: 'wiki/psychologia_zdrowia/wypalenie_zawodowe.md'      },
       ]
     },
     
@@ -1512,7 +1512,7 @@ window.SITE_CONFIG = {
       { file: 'wiki/zaburzenia/apraksja.md',  label: 'Apraksja',               status: 'live' },
       { file: 'wiki/zaburzenia/agnozja.md',   label: 'Agnozja wzrokowa',       status: 'live' },
       { file: 'wiki/zaburzenia/neglect.md',   label: 'Neglect przestrzenny',   status: 'live' },
-      { file: 'wiki/zaburzenia/adhd.md',      label: 'ADHD',                   status: 'live' },
+      { file: 'wiki/neuroroznorodnosc/adhd.md', label: 'ADHD', status: 'live' },
     ],
     tests: [
       { file: 'wiki/testy/testy_przeglad.md',   label: 'Testy - przeglad',      status: 'live' },
@@ -1728,12 +1728,12 @@ window.SITE_CONFIG = {
       { file: 'wiki/psychologia_zdrowia/promocja_zdrowia.md',        label: 'Promocja zdrowia i profilaktyka',    status: 'live' },
       { file: 'wiki/psychologia_zdrowia/psychoneuroimmunologia.md',  label: 'Psychoneuroimmunologia',             status: 'live' },
       { file: 'wiki/psychologia_zdrowia/placebo.md',                 label: 'Efekt placebo i nocebo',             status: 'live' },
-      { file: 'wiki/psychologia_zdrowia/wsparcie_spoleczne.md',      label: 'Wsparcie społeczne, a zdrowie',       status: 'live' },
+      { file: 'wiki/podstawy_pomocy/wsparcie_spoleczne.md', label: 'Wsparcie społeczne a zdrowie', status: 'live' },
       { file: 'wiki/psychologia_zdrowia/adherencja.md',              label: 'Adherencja terapeutyczna',           status: 'live' },
       { file: 'wiki/psychologia_zdrowia/komunikacja_medyczna.md',    label: 'Komunikacja lekarz–pacjent',         status: 'live' },
       { file: 'wiki/psychologia_zdrowia/interwencje_zdrowotne.md',   label: 'Interwencje psychologiczne w medycynie',         status: 'live' },
       { file: 'wiki/psychologia_zdrowia/rehabilitacja.md', label: 'Rehabilitacja psychologiczna w chorobach somatycznych', status: 'live' },
-      { file: 'wiki/psychologia_zdrowia/wypalenie_zawodowe.md',      label: 'Wypalenie zawodowe',                 status: 'live' },
+      { file: 'wiki/rezyliencja_i_mobbing/wypalenie_zawodowe.md', label: 'Wypalenie zawodowe', status: 'live' },
     ],
     psychosomatics: [
       { file: 'wiki/psychosomatyka/wprowadzenie.md',               label: 'Psychosomatyka',                      status: 'live' },
@@ -2156,7 +2156,7 @@ window.SITE_CONFIG = {
             { label: 'Apraksja', id: 'zaburzenia/apraksja', status: 'live' },
             { label: 'Urazy glowy (TBI)', id: 'zaburzenia/tbi', status: 'live' },
             { label: 'Otepienia', id: 'zaburzenia/otepienia', status: 'live' },
-            { label: 'ADHD', id: 'zaburzenia/adhd', status: 'live' },
+            { label: 'ADHD', id: 'neuroroznorodnosc/adhd', status: 'xlink' },
           ]
         },
         {
@@ -2797,7 +2797,7 @@ window.SITE_CONFIG = {
           articles: [
             { label: 'Stres i zdrowie',              id: 'psychologia_zdrowia/stres',               status: 'live' },
             { label: 'Radzenie sobie ze stresem',    id: 'psychologia_zdrowia/radzenie_sobie',      status: 'live' },
-            { label: 'Wsparcie społeczne, a zdrowie', id: 'psychologia_zdrowia/wsparcie_spoleczne',  status: 'live' },
+            { label: 'Wsparcie społeczne a zdrowie', id: 'podstawy_pomocy/wsparcie_spoleczne', status: 'xlink' },
           ]
         },
         {
@@ -2837,7 +2837,7 @@ window.SITE_CONFIG = {
             { label: 'Komunikacja lekarz–pacjent',  id: 'psychologia_zdrowia/komunikacja_medyczna',  status: 'live' },
             { label: 'Interwencje psychologiczne w medycynie',    id: 'psychologia_zdrowia/interwencje_zdrowotne', status: 'live' },
             { label: 'Rehabilitacja psychologiczna w chorobach somatycznych', id: 'psychologia_zdrowia/rehabilitacja', status: 'live' },
-            { label: 'Wypalenie zawodowe',            id: 'psychologia_zdrowia/wypalenie_zawodowe',    status: 'live' },
+            { label: 'Wypalenie zawodowe', id: 'rezyliencja_i_mobbing/wypalenie_zawodowe', status: 'xlink' },
           ]
         },
       ]

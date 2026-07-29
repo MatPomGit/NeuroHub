@@ -40,6 +40,7 @@ Jedna zmiana powinna obejmować małą, spójną grupę artykułów. Pozwala to 
 
 | Data | Temat kanoniczny | Scalony adres |
 |---|---|---|
+| 2026-07-29 | `wiki/psychologia_zdrowia/jakosc_zycia.md` | `wiki/psychologia_niepelnosprawnosci/jakosc_zycia.md` |
 | 2026-07-29 | `wiki/emocje/aleksytymia.md` | `wiki/psychosomatyka/aleksytymia.md` |
 | 2026-07-29 | `wiki/neuroroznorodnosc/spektrum_autyzmu.md` | `wiki/zaburzenia/asd.md` |
 | 2026-07-29 | `wiki/etyka/etyka_badan.md` | `wiki/seminarium_dyplomowe/etyka_badan.md` |
@@ -55,6 +56,12 @@ Jedna zmiana powinna obejmować małą, spójną grupę artykułów. Pozwala to 
 | 2026-07-29 | `wiki/psychofarmakologia/09_leki_przeciwlekowe_i_nasenne.md` | `wiki/psychofarmakologia/09_leki_anksjolityczne_i_nasenne.md` |
 | 2026-07-29 | `wiki/psychofarmakologia/11_leki_w_terapii_uzaleznien.md` | `wiki/farmakologia/uzaleznienia_farm.md` |
 | 2026-07-29 | `wiki/diagnoza/formulowanie_przypadku.md` | `wiki/psychopatologia/formulowanie_przypadku.md` |
+
+## Konsolidacja jakości życia
+
+Artykuł `wiki/psychologia_zdrowia/jakosc_zycia.md` jest kanonicznym opracowaniem jakości życia, jakości życia związanej ze zdrowiem oraz ich granicy względem subiektywnego dobrostanu. Zintegrowano w nim wspólne domeny i zasady pomiaru, a także wpływ autonomii, uczestnictwa, dostępności i wsparcia na życie osób z niepełnosprawnościami. Materiał z domeny psychologii niepełnosprawności nie odpowiadał na odrębne pytanie bez powtarzania definicji i metod pomiaru, dlatego dawny adres pozostaje przekierowaniem.
+
+Plan domeny psychologii zdrowia wskazuje opracowanie kanoniczne jako podstawowy artykuł o konstrukcie i pomiarze. Plan psychologii niepełnosprawności prowadzi do tego samego tekstu w części dotyczącej funkcjonowania psychicznego. Pozwala to zachować dostęp do perspektywy społecznej niepełnosprawności bez utrzymywania drugiej, konkurencyjnej definicji jakości życia.
 
 ## Konsolidacja klas leków: farmakologia i psychofarmakologia
 

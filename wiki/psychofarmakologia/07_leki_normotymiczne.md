@@ -3,11 +3,6 @@
 ## Wprowadzenie
 Leki normotymiczne stabilizują przebieg choroby afektywnej dwubiegunowej, ograniczając nawroty manii i depresji. Do głównych należą lit, walproinian, karbamazepina i lamotrygina, często w schematach łączonych z lekami przeciwpsychotycznymi.
 
-## Definicje
-- **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
-- **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
-- **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
-
 ## Analiza
 Różnice między lekami dotyczą fazy, w której działają najlepiej, oraz profilu bezpieczeństwa (tarczycowego, nerkowego, hepatologicznego, teratogennego). Lit ma najsilniejsze dane dotyczące redukcji ryzyka samobójstwa.
 
@@ -20,17 +15,11 @@ regularne monitorowanie stężeń i funkcji narządowych.
 odstawienie litu „z dnia na dzień” po poprawie nastroju.
 Konsekwencja: nagłe odstawienie zwiększa ryzyko szybkiego nawrotu.
 
-## Perspektywa nieoczywista
-W praktyce klinicznej największe korzyści przynosi nie maksymalizacja liczby interwencji, lecz **precyzyjne ograniczanie leczenia do elementów o najwyższej wartości dodanej**. To podejście bywa mniej intuicyjne niż „eskalacja terapii”, ale często poprawia współpracę, bezpieczeństwo i długofalowe wyniki.
+## Dowody, bezpieczeństwo i ograniczenia
 
+Lit, walproinian, karbamazepina i lamotrygina różnią się mechanizmem oraz zakresem skuteczności. Lit leczy manię i zapobiega nawrotom, lamotrygina ma większe znaczenie w profilaktyce depresji dwubiegunowej, a walproinian i karbamazepina działają przeciwmaniakalnie. Lit wymaga kontroli stężenia, nerek, tarczycy i wapnia; odwodnienie, NLPZ, ACEI i diuretyki mogą wywołać toksyczność. Walproinian jest silnie teratogenny, lamotrygina grozi ciężką wysypką przy zbyt szybkim zwiększaniu dawki, a karbamazepina powoduje liczne interakcje. Dowody nie uzasadniają traktowania tych leków jako wymiennych.
 
-Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dane naukowe, monitoring efektów oraz współdecydowanie z pacjentem. Wysoka jakość leczenia wynika z konsekwentnej ewaluacji korzyści i ryzyka na każdym etapie terapii.## Bibliografia
-- Stahl, S. M. (2021). Stahl's Essential Psychopharmacology (5th ed.). Cambridge University Press.
-- APA. (2023). The American Psychiatric Association Practice Guidelines.
-- NICE. (2022-2025). Guidance on mental health and pharmacological treatment (living updates).
-- WHO. (2023). ICD-11 Clinical Descriptions and Diagnostic Guidelines.
-- Meyer, J. M., & Quenzer, L. F. (2018). Psychopharmacology: Drugs, the Brain, and Behavior (3rd ed.).
+## Bibliografia
 
-
-
-
+- Yatham, L. N. i in. (2018). CANMAT and ISBD 2018 guidelines for the management of patients with bipolar disorder. *Bipolar Disorders*, 20(2), 97–170.
+- McKnight, R. F. i in. (2012). Lithium toxicity profile: a systematic review and meta-analysis. *The Lancet*, 379(9817), 721–728.

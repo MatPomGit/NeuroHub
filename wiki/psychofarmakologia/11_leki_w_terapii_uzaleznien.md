@@ -4,12 +4,6 @@
 
 Farmakoterapia uzależnień obejmuje leczenie substytucyjne, redukujące głód, awersyjne oraz wspierające utrzymanie abstynencji. Najsilniejsze dane dotyczą leczenia uzależnienia od opioidów, alkoholu i nikotyny.
 
-## Definicje
-
-- **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
-- **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
-- **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
-
 ## Analiza
 
 Skuteczność rośnie, gdy farmakoterapia jest łączona z interwencjami psychospołecznymi, planem redukcji szkód i monitorowaniem celów pacjenta. Model „all-or-nothing” bywa mniej efektywny niż podejście etapowe.
@@ -24,17 +18,11 @@ wspólne ustalanie celów (abstynencja vs redukcja szkód) i mierników postępu
 moralizowanie zamiast interwencji opartych na dowodach.
 Konsekwencja: większa retencja leczenia przy podejściu partnerskim.
 
-## Perspektywa nieoczywista
+## Dowody, bezpieczeństwo i ograniczenia
 
-W praktyce klinicznej największe korzyści przynosi nie maksymalizacja liczby interwencji, lecz **precyzyjne ograniczanie leczenia do elementów o najwyższej wartości dodanej**. To podejście bywa mniej intuicyjne niż „eskalacja terapii”, ale często poprawia współpracę, bezpieczeństwo i długofalowe wyniki.
+Leki w uzależnieniach mogą zmniejszać głód, wzmacniający efekt substancji, objawy odstawienia lub ryzyko przedawkowania. Metadon i buprenorfina wyraźnie zmniejszają śmiertelność w uzależnieniu od opioidów; nalokson odwraca przedawkowanie. Naltrekson, akamprozat i disulfiram mają odmienne cele w zaburzeniu używania alkoholu. Dobór wymaga określenia substancji i celu, kontroli interakcji, funkcji wątroby lub nerek zależnie od leku oraz połączenia z pomocą psychospołeczną. Abstynencja nie jest jedyną miarą: przeżycie i redukcja szkód są kluczowymi wynikami.
 
+## Bibliografia
 
-
-Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dane naukowe, monitoring efektów oraz współdecydowanie z pacjentem. Wysoka jakość leczenia wynika z konsekwentnej ewaluacji korzyści i ryzyka na każdym etapie terapii.## Bibliografia
-
-- Stahl, S. M. (2021). Stahl's Essential Psychopharmacology (5th ed.). Cambridge University Press.
-- APA. (2023). The American Psychiatric Association Practice Guidelines.
-- NICE. (2022-2025). Guidance on mental health and pharmacological treatment (living updates).
-- WHO. (2023). ICD-11 Clinical Descriptions and Diagnostic Guidelines.
-- Meyer, J. M., & Quenzer, L. F. (2018). Psychopharmacology: Drugs, the Brain, and Behavior (3rd ed.).
-
+- Sordo, L. i in. (2017). Mortality risk during and after opioid substitution treatment. *BMJ*, 357, j1550.
+- Kranzler, H. R. i Soyka, M. (2018). Diagnosis and pharmacotherapy of alcohol use disorder. *JAMA*, 320(8), 815–824.

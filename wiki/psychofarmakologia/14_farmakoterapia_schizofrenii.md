@@ -4,12 +4,6 @@
 
 Leczenie schizofrenii opiera się na lekach przeciwpsychotycznych, psychoedukacji i rehabilitacji psychospołecznej. Celem jest nie tylko redukcja objawów pozytywnych, ale także poprawa funkcjonowania poznawczego i społecznego.
 
-## Definicje
-
-- **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
-- **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
-- **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
-
 ## Analiza
 
 W praktyce ważna jest wczesna optymalizacja leczenia pierwszego epizodu, wybór drogi podania oraz zapobieganie nawrotom. W oporności leczenia należy rozważyć klozapinę bez zbędnej zwłoki.
@@ -24,17 +18,11 @@ monitorowanie adherencji i rozważenie LAI przy ryzyku przerwania leczenia.
 wielomiesięczne utrzymywanie nieskutecznego schematu bez modyfikacji.
 Konsekwencja: wzrost ryzyka nawrotu i pogorszenia funkcjonowania.
 
-## Perspektywa nieoczywista
+## Dowody, bezpieczeństwo i ograniczenia
 
-W praktyce klinicznej największe korzyści przynosi nie maksymalizacja liczby interwencji, lecz **precyzyjne ograniczanie leczenia do elementów o najwyższej wartości dodanej**. To podejście bywa mniej intuicyjne niż „eskalacja terapii”, ale często poprawia współpracę, bezpieczeństwo i długofalowe wyniki.
+Podstawą leczenia jest lek przeciwpsychotyczny w monoterapii, dobrany z uwzględnieniem wcześniejszej odpowiedzi, działań niepożądanych i preferencji. LAI należy proponować przy preferencji pacjenta lub problemach z regularnością. Po dwóch adekwatnych niepowodzeniach wskazana jest klozapina, a nie seria podobnych prób. Monitoruje się objawy, funkcjonowanie, ruchy mimowolne, metabolizm i ryzyko samobójcze; dla klozapiny także morfologię i swoiste powikłania. Leki słabiej wpływają na pierwotne objawy negatywne i poznawcze, dlatego rehabilitacja psychospołeczna pozostaje niezbędna.
 
+## Bibliografia
 
-
-Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dane naukowe, monitoring efektów oraz współdecydowanie z pacjentem. Wysoka jakość leczenia wynika z konsekwentnej ewaluacji korzyści i ryzyka na każdym etapie terapii.## Bibliografia
-
-- Stahl, S. M. (2021). Stahl's Essential Psychopharmacology (5th ed.). Cambridge University Press.
-- APA. (2023). The American Psychiatric Association Practice Guidelines.
-- NICE. (2022-2025). Guidance on mental health and pharmacological treatment (living updates).
-- WHO. (2023). ICD-11 Clinical Descriptions and Diagnostic Guidelines.
-- Meyer, J. M., & Quenzer, L. F. (2018). Psychopharmacology: Drugs, the Brain, and Behavior (3rd ed.).
-
+- Keepers, G. A. i in. (2020). APA Practice Guideline for the Treatment of Patients With Schizophrenia. *American Journal of Psychiatry*, 177(9), 868–872.
+- Correll, C. U. i in. (2022). A guideline and checklist for initiating and managing clozapine treatment. *CNS Drugs*, 36, 659–679.

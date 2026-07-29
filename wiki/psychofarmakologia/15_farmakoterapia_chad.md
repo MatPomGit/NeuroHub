@@ -4,12 +4,6 @@
 
 W ChAD leczenie powinno być fazowo-specyficzne: inne priorytety obowiązują w manii, depresji dwubiegunowej i profilaktyce nawrotów. Podstawą jest stabilizacja nastroju i minimalizacja destabilizacji polekowej.
 
-## Definicje
-
-- **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
-- **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
-- **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
-
 ## Analiza
 
 Szczególną ostrożność wymaga stosowanie leków przeciwdepresyjnych, które u części pacjentów mogą zwiększać ryzyko przełączenia fazy. Decyzje powinny opierać się na historii przebiegu choroby i wcześniejszych odpowiedziach.
@@ -24,17 +18,11 @@ długoterminowy plan profilaktyki nawrotów i monitorowania rytmu dobowego.
 leczenie jedynie epizodów ostrych bez strategii podtrzymującej.
 Konsekwencja: częstsze cykle i postępujące pogorszenie przebiegu.
 
-## Perspektywa nieoczywista
+## Dowody, bezpieczeństwo i ograniczenia
 
-W praktyce klinicznej największe korzyści przynosi nie maksymalizacja liczby interwencji, lecz **precyzyjne ograniczanie leczenia do elementów o najwyższej wartości dodanej**. To podejście bywa mniej intuicyjne niż „eskalacja terapii”, ale często poprawia współpracę, bezpieczeństwo i długofalowe wyniki.
+Leczenie zależy od fazy: w manii skuteczne są wybrane leki przeciwpsychotyczne, lit i walproinian; w depresji dwubiegunowej zestaw leków pierwszego wyboru jest inny. Monoterapia antydepresantem jest niewłaściwa w ChAD I. Profilaktykę dobiera się według dominującego bieguna i wcześniejszej odpowiedzi, a lit ma szczególne dane dotyczące zapobiegania samobójstwom. Monitorowanie obejmuje nastrój, sen i samobójczość oraz badania swoiste dla leku. Dowody z fazy ostrej nie gwarantują skuteczności podtrzymującej.
 
+## Bibliografia
 
-
-Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dane naukowe, monitoring efektów oraz współdecydowanie z pacjentem. Wysoka jakość leczenia wynika z konsekwentnej ewaluacji korzyści i ryzyka na każdym etapie terapii.## Bibliografia
-
-- Stahl, S. M. (2021). Stahl's Essential Psychopharmacology (5th ed.). Cambridge University Press.
-- APA. (2023). The American Psychiatric Association Practice Guidelines.
-- NICE. (2022-2025). Guidance on mental health and pharmacological treatment (living updates).
-- WHO. (2023). ICD-11 Clinical Descriptions and Diagnostic Guidelines.
-- Meyer, J. M., & Quenzer, L. F. (2018). Psychopharmacology: Drugs, the Brain, and Behavior (3rd ed.).
-
+- Yatham, L. N. i in. (2018). CANMAT and ISBD 2018 guidelines for bipolar disorder. *Bipolar Disorders*, 20(2), 97–170.
+- Miura, T. i in. (2014). Comparative efficacy and tolerability of pharmacological treatments in maintenance treatment of bipolar disorder. *The Lancet Psychiatry*, 1(5), 351–359.

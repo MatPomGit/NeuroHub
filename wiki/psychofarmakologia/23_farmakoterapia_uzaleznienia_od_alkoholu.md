@@ -3,11 +3,6 @@
 ## Wprowadzenie
 Leczenie uzależnienia od alkoholu obejmuje fazę detoksykacji i leczenie podtrzymujące (m.in. redukcja głodu, zmniejszenie ryzyka nawrotu). Farmakoterapia jest skuteczniejsza, gdy jest osadzona w planie psychoterapeutycznym i społecznym.
 
-## Definicje
-- **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
-- **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
-- **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
-
 ## Analiza
 Wybór leku zależy od celu pacjenta, stanu wątroby, współchorobowości psychicznej i historii nawrotów. W praktyce warto stosować model redukcji szkód tam, gdzie abstynencja nie jest od razu możliwa.
 
@@ -20,17 +15,11 @@ monitorowanie biomarkerów i regularna ocena wzorca picia.
 zakończenie opieki po samej detoksykacji.
 Konsekwencja: wysokie ryzyko szybkiego nawrotu.
 
-## Perspektywa nieoczywista
-W praktyce klinicznej największe korzyści przynosi nie maksymalizacja liczby interwencji, lecz **precyzyjne ograniczanie leczenia do elementów o najwyższej wartości dodanej**. To podejście bywa mniej intuicyjne niż „eskalacja terapii”, ale często poprawia współpracę, bezpieczeństwo i długofalowe wyniki.
+## Dowody, bezpieczeństwo i ograniczenia
 
+Akamprozat wspiera utrzymanie abstynencji, naltrekson zmniejsza ryzyko ciężkiego picia, a disulfiram wywołuje reakcję po alkoholu i działa najlepiej przy nadzorowanym przyjmowaniu. Naltreksonu nie łączy się z opioidami i wymaga oceny wątroby; akamprozat jest wydalany przez nerki; disulfiram ma ryzyko hepatotoksyczności i licznych przeciwwskazań. Odstawienie alkoholu jest odrębnym, potencjalnie zagrażającym życiu stanem leczonym według nasilenia, zwykle benzodiazepiną i tiaminą. Wyniki należy oceniać także redukcją szkód.
 
-Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dane naukowe, monitoring efektów oraz współdecydowanie z pacjentem. Wysoka jakość leczenia wynika z konsekwentnej ewaluacji korzyści i ryzyka na każdym etapie terapii.## Bibliografia
-- Stahl, S. M. (2021). Stahl's Essential Psychopharmacology (5th ed.). Cambridge University Press.
-- APA. (2023). The American Psychiatric Association Practice Guidelines.
-- NICE. (2022-2025). Guidance on mental health and pharmacological treatment (living updates).
-- WHO. (2023). ICD-11 Clinical Descriptions and Diagnostic Guidelines.
-- Meyer, J. M., & Quenzer, L. F. (2018). Psychopharmacology: Drugs, the Brain, and Behavior (3rd ed.).
+## Bibliografia
 
-
-
-
+- Jonas, D. E. i in. (2014). Pharmacotherapy for adults with alcohol use disorders. *JAMA*, 311(18), 1889–1900.
+- Kranzler, H. R. i Soyka, M. (2018). Diagnosis and pharmacotherapy of alcohol use disorder. *JAMA*, 320(8), 815–824.

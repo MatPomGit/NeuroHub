@@ -3,11 +3,6 @@
 ## Wprowadzenie
 Farmakologiczne leczenie zaburzeń seksualnych wymaga precyzyjnej diagnostyki różnicowej: biologicznej, psychologicznej i relacyjnej. W psychiatrii szczególnie ważne jest odróżnienie objawów choroby od działań niepożądanych leków.
 
-## Definicje
-- **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
-- **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
-- **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
-
 ## Analiza
 Modyfikacja psychofarmakoterapii (np. zmiana leku, dawki, strategii augmentacji) bywa równie ważna jak leczenie bezpośrednio ukierunkowane na funkcje seksualne.
 
@@ -20,17 +15,11 @@ rutynowe pytanie o funkcjonowanie seksualne i wspólna decyzja terapeutyczna.
 ignorowanie działań niepożądanych z obawy przed „trudnym tematem”.
 Konsekwencja: spadek adherencji i jakości życia.
 
-## Perspektywa nieoczywista
-W praktyce klinicznej największe korzyści przynosi nie maksymalizacja liczby interwencji, lecz **precyzyjne ograniczanie leczenia do elementów o najwyższej wartości dodanej**. To podejście bywa mniej intuicyjne niż „eskalacja terapii”, ale często poprawia współpracę, bezpieczeństwo i długofalowe wyniki.
+## Dowody, bezpieczeństwo i ograniczenia
 
+Inhibitory PDE5 mają silne dowody w zaburzeniu erekcji, jeśli pobudzenie seksualne jest zachowane; nie wolno łączyć ich z azotanami. W przedwczesnym wytrysku stosuje się wybrane leki serotoninergiczne lub środki miejscowo znieczulające, natomiast dowody dla farmakoterapii wielu dysfunkcji u kobiet są bardziej zależne od rozpoznania i populacji. Trzeba ocenić choroby naczyniowe, hormonalne, ból, relację i leki, zwłaszcza SSRI. Wynik leczenia obejmuje satysfakcję i komfort, nie tylko parametr fizjologiczny.
 
-Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dane naukowe, monitoring efektów oraz współdecydowanie z pacjentem. Wysoka jakość leczenia wynika z konsekwentnej ewaluacji korzyści i ryzyka na każdym etapie terapii.## Bibliografia
-- Stahl, S. M. (2021). Stahl's Essential Psychopharmacology (5th ed.). Cambridge University Press.
-- APA. (2023). The American Psychiatric Association Practice Guidelines.
-- NICE. (2022-2025). Guidance on mental health and pharmacological treatment (living updates).
-- WHO. (2023). ICD-11 Clinical Descriptions and Diagnostic Guidelines.
-- Meyer, J. M., & Quenzer, L. F. (2018). Psychopharmacology: Drugs, the Brain, and Behavior (3rd ed.).
+## Bibliografia
 
-
-
-
+- Salonia, A. i in. (2021). European Association of Urology guidelines on sexual and reproductive health. *European Urology*, 80(3), 333–357.
+- Montejo, A. L. i in. (2019). Management strategies for antidepressant-related sexual dysfunction. *Journal of Clinical Medicine*, 8(10), 1640.

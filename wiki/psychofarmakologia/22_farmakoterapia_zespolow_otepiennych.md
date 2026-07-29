@@ -3,11 +3,6 @@
 ## Wprowadzenie
 W otępieniach farmakoterapia ma głównie charakter objawowy i spowalniający przebieg wybranych domen funkcjonowania. Obejmuje leki prokognitywne oraz ostrożne leczenie objawów behawioralnych i psychotycznych.
 
-## Definicje
-- **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
-- **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
-- **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
-
 ## Analiza
 Priorytetem jest bezpieczeństwo: minimalizacja obciążenia antycholinergicznego, ryzyka upadków i interakcji. Interwencje środowiskowe oraz wsparcie opiekunów są równie ważne jak leki.
 
@@ -20,17 +15,11 @@ regularna rewizja wskazań i depreskrypcja leków nieskutecznych.
 rutynowe stosowanie sedacji przy każdym nasileniu pobudzenia.
 Konsekwencja: pogorszenie funkcji poznawczych i somatycznych.
 
-## Perspektywa nieoczywista
-W praktyce klinicznej największe korzyści przynosi nie maksymalizacja liczby interwencji, lecz **precyzyjne ograniczanie leczenia do elementów o najwyższej wartości dodanej**. To podejście bywa mniej intuicyjne niż „eskalacja terapii”, ale często poprawia współpracę, bezpieczeństwo i długofalowe wyniki.
+## Dowody, bezpieczeństwo i ograniczenia
 
+Donepezil, rywastygmina i galantamina przynoszą niewielką poprawę objawową w chorobie Alzheimera; memantyna jest stosowana głównie w stadium umiarkowanym i ciężkim. W otępieniu z ciałami Lewy’ego szczególne znaczenie ma nadwrażliwość na leki przeciwpsychotyczne. Pobudzenie najpierw wymaga poszukiwania bólu, majaczenia i przyczyn środowiskowych. Antypsychotyki dają małą średnią korzyść i zwiększają ryzyko udaru oraz zgonu. Monitorowanie obejmuje funkcje, obciążenie opiekuna, tętno, masę i regularną ocenę zasadności kontynuacji.
 
-Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dane naukowe, monitoring efektów oraz współdecydowanie z pacjentem. Wysoka jakość leczenia wynika z konsekwentnej ewaluacji korzyści i ryzyka na każdym etapie terapii.## Bibliografia
-- Stahl, S. M. (2021). Stahl's Essential Psychopharmacology (5th ed.). Cambridge University Press.
-- APA. (2023). The American Psychiatric Association Practice Guidelines.
-- NICE. (2022-2025). Guidance on mental health and pharmacological treatment (living updates).
-- WHO. (2023). ICD-11 Clinical Descriptions and Diagnostic Guidelines.
-- Meyer, J. M., & Quenzer, L. F. (2018). Psychopharmacology: Drugs, the Brain, and Behavior (3rd ed.).
+## Bibliografia
 
-
-
-
+- Livingston, G. i in. (2020). Dementia prevention, intervention, and care: 2020 report. *The Lancet*, 396, 413–446.
+- Birks, J. S. i Harvey, R. J. (2018). Donepezil for dementia due to Alzheimer’s disease. *Cochrane Database of Systematic Reviews*, 6, CD001190.

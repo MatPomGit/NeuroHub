@@ -3,11 +3,6 @@
 ## Wprowadzenie
 U osób starszych zmienia się dystrybucja, metabolizm i eliminacja leków, a wielochorobowość zwiększa ryzyko interakcji. Zasada „start low, go slow” pozostaje praktycznie kluczowa.
 
-## Definicje
-- **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
-- **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
-- **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
-
 ## Analiza
 Równie ważna jest regularna depreskrypcja i ograniczanie obciążenia antycholinergicznego, które może pogarszać poznanie i funkcjonowanie.
 
@@ -20,17 +15,11 @@ przegląd wszystkich leków i ocena ryzyka upadków przy każdej kontroli.
 dokładanie leków bez redukcji tych już nieskutecznych.
 Konsekwencja: polipragmazja i zdarzenia niepożądane.
 
-## Perspektywa nieoczywista
-W praktyce klinicznej największe korzyści przynosi nie maksymalizacja liczby interwencji, lecz **precyzyjne ograniczanie leczenia do elementów o najwyższej wartości dodanej**. To podejście bywa mniej intuicyjne niż „eskalacja terapii”, ale często poprawia współpracę, bezpieczeństwo i długofalowe wyniki.
+## Dowody, bezpieczeństwo i ograniczenia
 
+Starzenie zmniejsza rezerwę fizjologiczną i często klirens nerkowy, a polipragmazja zwiększa interakcje. Szczególnie szkodliwe są duże obciążenie cholinolityczne, hipotonia, sedacja, hiponatremia i wydłużenie QT, ponieważ prowadzą do majaczenia, upadków i utraty samodzielności. Leczenie rozpoczyna się zwykle od małej dawki i wolno zwiększa, ale nie wolno utrzymywać dawki nieskutecznej. Należy monitorować funkcje poznawcze, ortostazę, sód, nerki, EKG według ryzyka oraz regularnie depreskrybować leki bez aktualnego wskazania.
 
-Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dane naukowe, monitoring efektów oraz współdecydowanie z pacjentem. Wysoka jakość leczenia wynika z konsekwentnej ewaluacji korzyści i ryzyka na każdym etapie terapii.## Bibliografia
-- Stahl, S. M. (2021). Stahl's Essential Psychopharmacology (5th ed.). Cambridge University Press.
-- APA. (2023). The American Psychiatric Association Practice Guidelines.
-- NICE. (2022-2025). Guidance on mental health and pharmacological treatment (living updates).
-- WHO. (2023). ICD-11 Clinical Descriptions and Diagnostic Guidelines.
-- Meyer, J. M., & Quenzer, L. F. (2018). Psychopharmacology: Drugs, the Brain, and Behavior (3rd ed.).
+## Bibliografia
 
-
-
-
+- American Geriatrics Society. (2023). Updated AGS Beers Criteria. *Journal of the American Geriatrics Society*, 71(7), 2052–2081.
+- By the 2019 American Geriatrics Society Beers Criteria Update Expert Panel. (2019). AGS Beers Criteria. *Journal of the American Geriatrics Society*, 67, 674–694.

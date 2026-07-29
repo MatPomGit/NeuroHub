@@ -3,11 +3,6 @@
 ## Wprowadzenie
 Psychofarmakoterapia oparta na zaleceniach łączy dowody naukowe, doświadczenie kliniczne i preferencje pacjenta. Wytyczne porządkują decyzje, ale nie zastępują osądu klinicznego.
 
-## Definicje
-- **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
-- **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
-- **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
-
 ## Analiza
 W praktyce konieczne jest krytyczne czytanie wytycznych: analiza jakości dowodów, konfliktów interesów i zgodności z lokalnym kontekstem systemowym.
 
@@ -20,17 +15,11 @@ dokumentowanie odstępstw od wytycznych wraz z uzasadnieniem.
 mechaniczne stosowanie algorytmu bez personalizacji.
 Konsekwencja: spadek skuteczności i relacji terapeutycznej.
 
-## Perspektywa nieoczywista
-W praktyce klinicznej największe korzyści przynosi nie maksymalizacja liczby interwencji, lecz **precyzyjne ograniczanie leczenia do elementów o najwyższej wartości dodanej**. To podejście bywa mniej intuicyjne niż „eskalacja terapii”, ale często poprawia współpracę, bezpieczeństwo i długofalowe wyniki.
+## Dowody, bezpieczeństwo i ograniczenia
 
+Zalecenie łączy jakość dowodów z bilansem korzyści, szkód i wartości, ale nie zastępuje oceny pacjenta. Siła rekomendacji nie jest tym samym co wielkość efektu. Stosowanie zgodne z zaleceniami obejmuje rozpoznanie, świadomą decyzję, adekwatną próbę, pomiar wyniku, monitorowanie i plan odstawienia. Odstępstwo może być racjonalne z powodu chorób współistniejących lub preferencji, powinno jednak być jawnie uzasadnione. Audyt jakości powinien badać wynik i bezpieczeństwo, a nie sam fakt przepisania rekomendowanego preparatu.
 
-Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dane naukowe, monitoring efektów oraz współdecydowanie z pacjentem. Wysoka jakość leczenia wynika z konsekwentnej ewaluacji korzyści i ryzyka na każdym etapie terapii.## Bibliografia
-- Stahl, S. M. (2021). Stahl's Essential Psychopharmacology (5th ed.). Cambridge University Press.
-- APA. (2023). The American Psychiatric Association Practice Guidelines.
-- NICE. (2022-2025). Guidance on mental health and pharmacological treatment (living updates).
-- WHO. (2023). ICD-11 Clinical Descriptions and Diagnostic Guidelines.
-- Meyer, J. M., & Quenzer, L. F. (2018). Psychopharmacology: Drugs, the Brain, and Behavior (3rd ed.).
+## Bibliografia
 
-
-
-
+- Institute of Medicine. (2011). *Clinical Practice Guidelines We Can Trust*. National Academies Press.
+- Andrews, J. C. i in. (2013). GRADE guidelines: going from evidence to recommendations. *Journal of Clinical Epidemiology*, 66(7), 719–725.

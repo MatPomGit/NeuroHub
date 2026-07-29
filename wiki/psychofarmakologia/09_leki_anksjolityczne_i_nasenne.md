@@ -4,12 +4,6 @@
 
 Leki anksjolityczne i nasenne obejmują benzodiazepiny, leki „Z”, wybrane leki przeciwdepresyjne, pregabalinę, buspiron i inne strategie wspierające sen. Celem klinicznym jest redukcja lęku i poprawa architektury snu bez utraty sprawności dziennej.
 
-## Definicje
-
-- **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
-- **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
-- **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
-
 ## Analiza
 
 Benzodiazepiny są skuteczne krótkoterminowo, ale wiążą się z ryzykiem tolerancji, zależności i upośledzenia poznawczego. Dlatego preferuje się plan leczenia etapowego: interwencje niefarmakologiczne, a farmakoterapię w najniższej skutecznej dawce i możliwie krótko.
@@ -24,17 +18,11 @@ od początku ustalenie planu odstawiania i psychoedukacji.
 przewlekłe „przepisywanie na sen” bez rewizji wskazań.
 Konsekwencja: rośnie ryzyko uzależnienia i upadków, zwłaszcza u osób starszych.
 
-## Perspektywa nieoczywista
+## Dowody, bezpieczeństwo i ograniczenia
 
-W praktyce klinicznej największe korzyści przynosi nie maksymalizacja liczby interwencji, lecz **precyzyjne ograniczanie leczenia do elementów o najwyższej wartości dodanej**. To podejście bywa mniej intuicyjne niż „eskalacja terapii”, ale często poprawia współpracę, bezpieczeństwo i długofalowe wyniki.
+Benzodiazepiny i leki Z nasilają sygnalizację GABA-A, szybko zmniejszając lęk lub skracając latencję snu, lecz rozwijają tolerancję, zależność i zaburzają psychomotorykę. Nie leczą mechanizmu przewlekłej bezsenności; pierwszym wyborem pozostaje CBT-I. Buspiron działa częściowo agonistycznie na 5-HT1A bez szybkiego efektu doraźnego. Przed leczeniem trzeba ocenić bezdech, upadki, alkohol i opioidy; połączenie z opioidami zwiększa ryzyko depresji oddechowej. Odstawianie benzodiazepin powinno być stopniowe i indywidualne.
 
+## Bibliografia
 
-
-Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dane naukowe, monitoring efektów oraz współdecydowanie z pacjentem. Wysoka jakość leczenia wynika z konsekwentnej ewaluacji korzyści i ryzyka na każdym etapie terapii.## Bibliografia
-
-- Stahl, S. M. (2021). Stahl's Essential Psychopharmacology (5th ed.). Cambridge University Press.
-- APA. (2023). The American Psychiatric Association Practice Guidelines.
-- NICE. (2022-2025). Guidance on mental health and pharmacological treatment (living updates).
-- WHO. (2023). ICD-11 Clinical Descriptions and Diagnostic Guidelines.
-- Meyer, J. M., & Quenzer, L. F. (2018). Psychopharmacology: Drugs, the Brain, and Behavior (3rd ed.).
-
+- Riemann, D. i in. (2023). The European Insomnia Guideline: an update on the diagnosis and treatment of insomnia 2023. *Journal of Sleep Research*, 32(6), e14035.
+- Pottie, K. i in. (2018). Deprescribing benzodiazepine receptor agonists. *Canadian Family Physician*, 64(5), 339–351.

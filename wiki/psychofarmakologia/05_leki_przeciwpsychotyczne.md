@@ -1,36 +1,34 @@
 ﻿# 5. Leki przeciwpsychotyczne
 
-## Wprowadzenie
-Leki przeciwpsychotyczne działają głównie przez antagonizm lub częściowy agonizm receptorów D2, często z dodatkowym wpływem na receptory serotoninowe. Różnią się profilem działań niepożądanych: pozapiramidowych, metabolicznych, sedacyjnych i prolaktynowych.
+## Najważniejsze informacje
 
-## Definicje
-- **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
-- **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
-- **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
+Leki przeciwpsychotyczne zmniejszają przede wszystkim nasilenie urojeń, omamów i dezorganizacji. Większość ogranicza przekaźnictwo dopaminowe przez antagonizm receptorów D2, natomiast arypiprazol, brekspiprazol i kariprazyna są częściowymi agonistami D2/D3. Określenia „pierwsza” i „druga generacja” porządkują historię leków, ale słabo przewidują profil konkretnej substancji; w praktyce trafniejsze jest porównywanie ryzyka metabolicznego, neurologicznego, hormonalnego i sercowo-naczyniowego.
 
-## Analiza
-W doborze klinicznym należy ważyć skuteczność objawową, profil działań niepożądanych, preferencje pacjenta oraz formę podania (doustna vs LAI). Klozapina pozostaje lekiem o najwyższej skuteczności w lekooporności, ale wymaga ścisłego monitorowania.
+## Mechanizm działania i różnice między lekami
 
-## Praktyczne przykłady
-### Dobra praktyka
+Blokada D2 w szlaku mezolimbicznym wiąże się z działaniem przeciwpsychotycznym, ale ten uproszczony model nie wyjaśnia całej odpowiedzi klinicznej. Zajęcie D2 w szlaku nigrostriatalnym sprzyja parkinsonizmowi polekowemu, akatyzji i dystoniom, a w szlaku guzowo-lejkowym może zwiększać stężenie prolaktyny. Antagonizm 5-HT2A części leków modyfikuje te efekty; blokada H1, M1 i receptorów α1 odpowiada odpowiednio za sedację i przyrost masy ciała, objawy cholinolityczne oraz hipotonię ortostatyczną.
 
-systematyczny monitoring metaboliczny i hematologiczny zgodnie z ryzykiem.
-### Zła praktyka
+Klozapina ma szczególne miejsce: jest najskuteczniejszym leczeniem schizofrenii opornej i zmniejsza ryzyko zachowań samobójczych, lecz może wywołać neutropenię, zapalenie mięśnia sercowego, drgawki, ciężkie zaparcie lub niedrożność oraz zaburzenia metaboliczne. Preparaty długodziałające (LAI) nie są odrębnym mechanizmem leczenia. Zapewniają stabilniejszą ekspozycję i pozwalają odróżnić brak skuteczności od nieregularnego przyjmowania tabletek.
 
-wielolekowa terapia przeciwpsychotyczna bez jasnego uzasadnienia.
-Konsekwencja: dobra praktyka zmniejsza chorobowość somatyczną; zła zwiększa obciążenie działaniami niepożądanymi.
+## Wskazania i jakość dowodów
 
-## Perspektywa nieoczywista
-W praktyce klinicznej największe korzyści przynosi nie maksymalizacja liczby interwencji, lecz **precyzyjne ograniczanie leczenia do elementów o najwyższej wartości dodanej**. To podejście bywa mniej intuicyjne niż „eskalacja terapii”, ale często poprawia współpracę, bezpieczeństwo i długofalowe wyniki.
+Najmocniejsze dowody dotyczą leczenia ostrych psychoz w schizofrenii oraz zapobiegania nawrotom. Klozapinę należy rozważyć po dwóch adekwatnych, nieskutecznych próbach innych leków przeciwpsychotycznych. Część substancji ma również udokumentowane wskazania w manii, depresji w przebiegu choroby afektywnej dwubiegunowej, leczeniu wspomagającym depresji jednobiegunowej albo krótkotrwałym leczeniu ciężkiego pobudzenia. Nie wynika z tego skuteczność całej klasy w każdym z tych stanów.
 
+Metaanalizy badań randomizowanych potwierdzają skuteczność grupową, ale różnice między lekami dotyczą zarówno efektu, jak i tolerancji. Badania krótkoterminowe gorzej opisują późne dyskinezy, powikłania metaboliczne i rzeczywiste przestrzeganie zaleceń. W otępieniu korzyść wobec pobudzenia lub psychozy jest przeciętnie niewielka, a ryzyko udaru i zgonu zwiększone; stosowanie wymaga zatem wąskiego wskazania i regularnych prób redukcji dawki.
 
-Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dane naukowe, monitoring efektów oraz współdecydowanie z pacjentem. Wysoka jakość leczenia wynika z konsekwentnej ewaluacji korzyści i ryzyka na każdym etapie terapii.## Bibliografia
-- Stahl, S. M. (2021). Stahl's Essential Psychopharmacology (5th ed.). Cambridge University Press.
-- APA. (2023). The American Psychiatric Association Practice Guidelines.
-- NICE. (2022-2025). Guidance on mental health and pharmacological treatment (living updates).
-- WHO. (2023). ICD-11 Clinical Descriptions and Diagnostic Guidelines.
-- Meyer, J. M., & Quenzer, L. F. (2018). Psychopharmacology: Drugs, the Brain, and Behavior (3rd ed.).
+## Dobór, monitorowanie i bezpieczeństwo
 
+Przed rozpoczęciem leczenia warto udokumentować masę ciała i obwód talii, ciśnienie, glikemię lub HbA1c, lipidogram, objawy ruchowe, palenie tytoniu i stosowane leki. EKG jest szczególnie ważne przy chorobie serca, omdleniach, zaburzeniach elektrolitowych, polipragmazji albo wyborze leku wydłużającego QT. W toku leczenia należy ponawiać pomiary metaboliczne, pytać o funkcje seksualne, senność i akatyzję oraz okresowo badać ruchy mimowolne. Zakres badań trzeba dostosować do preparatu; klozapina wymaga obowiązkowego monitorowania morfologii zgodnie z lokalnym programem oraz czujności wobec gorączki, bólu w klatce piersiowej i zaparcia.
 
+Akatyzja bywa mylona z lękiem lub nasileniem psychozy, a sedacja z poprawą. Zwiększenie dawki w obu sytuacjach może pogorszyć stan. Należy najpierw sprawdzić rozpoznanie, ekspozycję, interakcje i przyjmowanie leku. Rutynowa politerapia przeciwpsychotyczna ma słabe uzasadnienie poza krótkim okresem zmiany preparatu i wybranymi strategiami po niepełnej odpowiedzi na klozapinę.
 
+## Ograniczenia i wniosek
 
+Leki przeciwpsychotyczne zwykle lepiej wpływają na objawy pozytywne niż na deficyty poznawcze, objawy negatywne pierwotne i funkcjonowanie społeczne. Minimalna skuteczna dawka, świadomy wybór profilu działań niepożądanych oraz systematyczna ocena celu leczenia są ważniejsze niż etykieta generacji. W schizofrenii opornej nie należy odwlekać klozapiny, a przy dobrej odpowiedzi nie należy rezygnować z monitorowania, ponieważ część najważniejszych szkód rozwija się bez wyraźnych objawów.
+
+## Bibliografia
+
+- Huhn, M. i in. (2019). Comparative efficacy and tolerability of 32 oral antipsychotics for the acute treatment of adults with multi-episode schizophrenia: A systematic review and network meta-analysis. *The Lancet*, 394(10202), 939–951. https://doi.org/10.1016/S0140-6736(19)31135-3
+- Keepers, G. A. i in. (2020). The American Psychiatric Association Practice Guideline for the Treatment of Patients With Schizophrenia (3rd ed.). *American Journal of Psychiatry*, 177(9), 868–872. https://doi.org/10.1176/appi.ajp.2020.177901
+- Pillinger, T. i in. (2020). Comparative effects of 18 antipsychotics on metabolic function in patients with schizophrenia. *The Lancet Psychiatry*, 7(1), 64–77. https://doi.org/10.1016/S2215-0366(19)30416-X
+- Siskind, D., McCartney, L., Goldschlager, R. i Kisely, S. (2016). Clozapine v. first- and second-generation antipsychotics in treatment-refractory schizophrenia: Systematic review and meta-analysis. *The British Journal of Psychiatry*, 209(5), 385–392. https://doi.org/10.1192/bjp.bp.115.177261

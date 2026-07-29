@@ -3,11 +3,6 @@
 ## Wprowadzenie
 Klasyczna nomenklatura (np. „przeciwpsychotyczne”, „przeciwdepresyjne”) jest praktyczna, ale bywa myląca, bo nie odzwierciedla pełnego spektrum działania. Nomenklatura oparta na neuronauce (NbN) porządkuje leki według celu molekularnego, mechanizmu i domen objawowych.
 
-## Definicje
-- **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
-- **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
-- **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
-
 ## Analiza
 NbN wspiera myślenie mechanistyczne, ułatwia świadome leczenie poza pierwotnym wskazaniem i redukuje stygmatyzujące etykiety. Ograniczeniem jest złożoność i konieczność aktualizacji wraz z postępem badań.
 
@@ -20,17 +15,11 @@ dokumentowanie decyzji terapeutycznej językiem mechanizmu (np. „modulacja 5-H
 komunikat „to lek na schizofrenię, więc nie dla pacjenta z depresją”.
 Konsekwencja: podejście NbN zwiększa precyzję i zrozumiałość leczenia.
 
-## Perspektywa nieoczywista
-W praktyce klinicznej największe korzyści przynosi nie maksymalizacja liczby interwencji, lecz **precyzyjne ograniczanie leczenia do elementów o najwyższej wartości dodanej**. To podejście bywa mniej intuicyjne niż „eskalacja terapii”, ale często poprawia współpracę, bezpieczeństwo i długofalowe wyniki.
+## Dowody, bezpieczeństwo i ograniczenia
 
+Nomenklatura oparta na neuronauce (NbN) opisuje lek przez domenę farmakologiczną i sposób działania, zamiast utrwalać nazwę po pierwszym wskazaniu. Ułatwia to wyjaśnienie, dlaczego „lek przeciwpsychotyczny” bywa stosowany w manii, ale nie dowodzi skuteczności poza badanymi wskazaniami. Mechanistyczna etykieta także upraszcza: powinowactwo receptorowe nie przewiduje samodzielnie efektu, dawki ani bezpieczeństwa.
 
-Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dane naukowe, monitoring efektów oraz współdecydowanie z pacjentem. Wysoka jakość leczenia wynika z konsekwentnej ewaluacji korzyści i ryzyka na każdym etapie terapii.## Bibliografia
-- Stahl, S. M. (2021). Stahl's Essential Psychopharmacology (5th ed.). Cambridge University Press.
-- APA. (2023). The American Psychiatric Association Practice Guidelines.
-- NICE. (2022-2025). Guidance on mental health and pharmacological treatment (living updates).
-- WHO. (2023). ICD-11 Clinical Descriptions and Diagnostic Guidelines.
-- Meyer, J. M., & Quenzer, L. F. (2018). Psychopharmacology: Drugs, the Brain, and Behavior (3rd ed.).
+## Bibliografia
 
-
-
-
+- Zohar, J. i in. (2015). A review of the current nomenclature for psychotropic agents and an introduction to the Neuroscience-based Nomenclature. *European Neuropsychopharmacology*, 25(12), 2318–2325.
+- Nutt, D. J. i Blier, P. (2016). Neuroscience-based Nomenclature (NbN) for psychotropic drugs. *Journal of Psychopharmacology*, 30(5), 413–415.

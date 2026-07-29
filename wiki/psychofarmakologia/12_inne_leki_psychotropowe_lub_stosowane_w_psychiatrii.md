@@ -4,12 +4,6 @@
 
 Do tej grupy należą m.in. beta-adrenolityki, leki przeciwpadaczkowe używane off-label, hormony, leki przeciwzapalne i wybrane interwencje biologiczne wspierające leczenie objawowe.
 
-## Definicje
-
-- **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
-- **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
-- **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
-
 ## Analiza
 
 Kluczowe jest rozróżnienie między „możliwym mechanizmem” a „udowodnioną skutecznością kliniczną”. Stosowanie poza wskazaniami może być racjonalne, o ile istnieją dane, analiza ryzyka i świadoma zgoda pacjenta.
@@ -24,20 +18,11 @@ pełna dokumentacja uzasadnienia off-label i plan monitorowania.
 rozszerzanie terapii bez danych o interakcjach i bezpieczeństwie.
 Konsekwencja: wzrost ryzyka jatrogennego.
 
-## Perspektywa nieoczywista
+## Dowody, bezpieczeństwo i ograniczenia
 
-W praktyce klinicznej największe korzyści przynosi nie maksymalizacja liczby interwencji, lecz **precyzyjne ograniczanie leczenia do elementów o najwyższej wartości dodanej**. To podejście bywa mniej intuicyjne niż „eskalacja terapii”, ale często poprawia współpracę, bezpieczeństwo i długofalowe wyniki.
+Do tej niejednorodnej grupy należą między innymi propranolol w akatyzji lub lęku wykonaniowym, leki antycholinergiczne w wybranych objawach pozapiramidowych oraz melatonina w zaburzeniach rytmu okołodobowego. Wskazanie powinno wynikać z konkretnego objawu i dowodów, nie z samego „działania uspokajającego”. Propranolol wymaga oceny tętna, ciśnienia i astmy; antycholinergiki pogarszają pamięć, zaparcie i retencję moczu, a ich przewlekłe profilaktyczne stosowanie jest niewskazane. Skuteczność i ryzyko należy opisywać osobno dla każdej substancji.
 
+## Bibliografia
 
-
-Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dane naukowe, monitoring efektów oraz współdecydowanie z pacjentem. Wysoka jakość leczenia wynika z konsekwentnej ewaluacji korzyści i ryzyka na każdym etapie terapii.## Bibliografia
-
-- Stahl, S. M. (2021). Stahl's Essential Psychopharmacology (5th ed.). Cambridge University Press.
-- APA. (2023). The American Psychiatric Association Practice Guidelines.
-- NICE. (2022-2025). Guidance on mental health and pharmacological treatment (living updates).
-- WHO. (2023). ICD-11 Clinical Descriptions and Diagnostic Guidelines.
-- Meyer, J. M., & Quenzer, L. F. (2018). Psychopharmacology: Drugs, the Brain, and Behavior (3rd ed.).
-
-
-
-
+- Brigo, F. i in. (2018). Anticholinergic drugs for antipsychotic-induced tardive dyskinesia. *Cochrane Database of Systematic Reviews*, 1, CD000204.
+- Pringsheim, T. i in. (2018). Canadian guideline for the evidence-based treatment of tic disorders. *Canadian Journal of Psychiatry*, 64(2), 133–147.

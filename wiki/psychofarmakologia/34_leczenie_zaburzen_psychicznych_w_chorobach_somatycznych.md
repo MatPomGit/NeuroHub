@@ -3,11 +3,6 @@
 ## Wprowadzenie
 W chorobach somatycznych objawy psychiczne mogą wynikać z choroby podstawowej, jej leczenia lub niezależnej współchorobowości. Farmakoterapia wymaga uwzględnienia osi narządowej i interakcji lek–lek.
 
-## Definicje
-- **Skuteczność kliniczna**: stopień redukcji objawów i poprawy funkcjonowania pacjenta.
-- **Bezpieczeństwo leczenia**: bilans działań niepożądanych, interakcji i ryzyka długoterminowego.
-- **Personalizacja terapii**: dobór interwencji do obrazu klinicznego, biologii i preferencji pacjenta.
-
 ## Analiza
 Najlepsze wyniki daje model konsultacyjno-liaison, w którym psychiatria i medycyna somatyczna współtworzą plan leczenia i monitorowania.
 
@@ -20,17 +15,11 @@ ocena interakcji i wydolności narządowej przed wdrożeniem psychofarmakoterapi
 traktowanie objawów psychicznych jako „drugorzędnych”.
 Konsekwencja: gorsza adherencja i wyższa śmiertelność całkowita.
 
-## Perspektywa nieoczywista
-W praktyce klinicznej największe korzyści przynosi nie maksymalizacja liczby interwencji, lecz **precyzyjne ograniczanie leczenia do elementów o najwyższej wartości dodanej**. To podejście bywa mniej intuicyjne niż „eskalacja terapii”, ale często poprawia współpracę, bezpieczeństwo i długofalowe wyniki.
+## Dowody, bezpieczeństwo i ograniczenia
 
+Objaw psychiczny może wynikać z choroby, leku, majaczenia albo niezależnego zaburzenia. Wybór psychotropu wymaga oceny nerek, wątroby, serca, padaczki i interakcji, w tym QT, krwawienia i zespołu serotoninowego. W majaczeniu leczenie przyczyny ma pierwszeństwo, a sedacja nie oznacza wyleczenia. U chorego onkologicznego, neurologicznego lub kardiologicznego cele i tolerancja mogą być odmienne. Monitorowanie powinno łączyć wynik psychiatryczny z parametrem somatycznym najbardziej narażonym przez wybrany lek.
 
-Najbardziej efektywna psychofarmakoterapia łączy myślenie mechanistyczne, dane naukowe, monitoring efektów oraz współdecydowanie z pacjentem. Wysoka jakość leczenia wynika z konsekwentnej ewaluacji korzyści i ryzyka na każdym etapie terapii.## Bibliografia
-- Stahl, S. M. (2021). Stahl's Essential Psychopharmacology (5th ed.). Cambridge University Press.
-- APA. (2023). The American Psychiatric Association Practice Guidelines.
-- NICE. (2022-2025). Guidance on mental health and pharmacological treatment (living updates).
-- WHO. (2023). ICD-11 Clinical Descriptions and Diagnostic Guidelines.
-- Meyer, J. M., & Quenzer, L. F. (2018). Psychopharmacology: Drugs, the Brain, and Behavior (3rd ed.).
+## Bibliografia
 
-
-
-
+- Leentjens, A. F. G. i in. (2018). Psychotropic drug treatment in patients with medical illness. *The Lancet Psychiatry*, 5(8), 675–686.
+- Wilson, J. E. i in. (2020). Delirium. *Nature Reviews Disease Primers*, 6, 90.

@@ -15,6 +15,7 @@ window.SITE_CONFIG = {
 
   // Zachowuje dawne skróty SPA po scaleniu zduplikowanych artykułów.
   articleRedirects: {
+    'geropsychologia/samotnosc': 'relacje/samotnosc',
     'psychofarmakologia/09_leki_anksjolityczne_i_nasenne': 'psychofarmakologia/09_leki_przeciwlekowe_i_nasenne',
     'farmakologia/anxiolityki': 'psychofarmakologia/09_leki_przeciwlekowe_i_nasenne',
     'farmakologia/nootropiki': 'psychofarmakologia/08_leki_prokognitywne',
@@ -800,7 +801,6 @@ window.SITE_CONFIG = {
         { id: 'geropsychologia/starzenie_poznawcze',        label: 'Starzenie sie poznawcze',             file: 'wiki/geropsychologia/starzenie_poznawcze.md'        },
         { id: 'geropsychologia/demencja',                   label: 'Demencja i ch. neurodegeneracyjne',   file: 'wiki/geropsychologia/demencja.md'                   },
         { id: 'geropsychologia/depresja_starszych',         label: 'Depresja u osob starszych',           file: 'wiki/geropsychologia/depresja_starszych.md'         },
-        { id: 'geropsychologia/samotnosc', label: 'Samotność i izolacja społeczna w starości', file: 'wiki/geropsychologia/samotnosc.md' },
         { id: 'geropsychologia/jakosc_zycia_starszych',     label: 'Jakosc zycia w starości',             file: 'wiki/geropsychologia/jakosc_zycia_starszych.md'     },
         { id: 'geropsychologia/aktywnosc_poznawcza',        label: 'Aktywnosc poznawcza i trening umyslu',file: 'wiki/geropsychologia/aktywnosc_poznawcza.md'        },
         { id: 'geropsychologia/umieranie_smierc',           label: 'Psychologia umierania i smierci',     file: 'wiki/geropsychologia/umieranie_smierc.md'           },
@@ -1798,7 +1798,7 @@ window.SITE_CONFIG = {
       { file: 'wiki/geropsychologia/starzenie_poznawcze.md',        label: 'Starzenie sie poznawcze',              status: 'live' },
       { file: 'wiki/geropsychologia/demencja.md',                   label: 'Demencja i choroby neurodegeneracyjne',status: 'live' },
       { file: 'wiki/geropsychologia/depresja_starszych.md',         label: 'Depresja u osob starszych',            status: 'live' },
-      { file: 'wiki/geropsychologia/samotnosc.md', label: 'Samotność i izolacja społeczna w starości', status: 'live' },
+      { file: 'wiki/relacje/samotnosc.md', label: 'Samotność i izolacja społeczna w późnej dorosłości', status: 'xlink' },
       { file: 'wiki/geropsychologia/jakosc_zycia_starszych.md',     label: 'Jakosc zycia w starości',              status: 'live' },
       { file: 'wiki/geropsychologia/aktywnosc_poznawcza.md',        label: 'Aktywnosc poznawcza i trening umyslu', status: 'live' },
       { file: 'wiki/geropsychologia/umieranie_smierc.md',           label: 'Psychologia umierania i smierci',      status: 'live' },
@@ -2947,7 +2947,7 @@ window.SITE_CONFIG = {
         {
           title: 'Funkcjonowanie społeczne i jakosc zycia',
           articles: [
-            { label: 'Samotność i izolacja społeczna w starości', id: 'geropsychologia/samotnosc', status: 'live' },
+            { label: 'Samotność i izolacja społeczna w późnej dorosłości', id: 'relacje/samotnosc', status: 'xlink' },
             { label: 'Jakosc zycia w starości',               id: 'geropsychologia/jakosc_zycia_starszych', status: 'live' },
             { label: 'Relacje społeczne i wsparcie rodziny',  id: 'geropsychologia/relacje_spoleczne_starszych', status: 'live' },
           ]

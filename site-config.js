@@ -1227,6 +1227,12 @@ window.SITE_CONFIG = {
         { id: 'reference/przepisy_zawod',     label: 'Przepisy i zasady pracy psychologa', file: 'wiki/reference/przepisy_zawod.md'     },
         { id: 'reference/etyka_psychologa',   label: 'Etyka zawodowa psychologa i psychoterapeuty', file: 'wiki/reference/etyka_psychologa.md' },
         { id: 'reference/mapa_powiazan_nowe_artykuly', label: 'Mapa powiazal nowych artykulow', file: 'wiki/reference/mapa_powiazan_nowe_artykuly.md' },
+        {
+          id: 'reference/article_template',
+          label: 'Zalecany wzorzec artykułu',
+          aliases: ['wzorzec artykułu', 'schemat artykułu', 'szablon artykułu'],
+          file: 'wiki/reference/article_template.md'
+        },
       ]
     },
   ],
@@ -1697,6 +1703,7 @@ window.SITE_CONFIG = {
       { file: 'wiki/reference/przepisy_zawod.md',       label: 'Przepisy i zasady pracy psychologa',          status: 'live' },
       { file: 'wiki/reference/etyka_psychologa.md',     label: 'Etyka zawodowa psychologa i psychoterapeuty', status: 'live' },
       { file: 'wiki/reference/mapa_powiazan_nowe_artykuly.md', label: 'Mapa powiazal nowych artykulow', status: 'live' },
+      { file: 'wiki/reference/article_template.md', label: 'Zalecany wzorzec artykułu', status: 'live' },
     ],
     geropsychology: [
       { file: 'wiki/geropsychologia/wprowadzenie.md',               label: 'Psychologia starości',  status: 'live' },
@@ -3705,8 +3712,6 @@ window.SITE_CONFIG = {
     });
   });
 })(window.SITE_CONFIG);
-
-
 
 
 

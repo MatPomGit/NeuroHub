@@ -18,6 +18,7 @@ import argparse
 import json
 import subprocess
 import sys
+import unicodedata
 from collections import Counter, defaultdict
 from pathlib import Path
 from typing import Any
@@ -26,6 +27,12 @@ ROOT = Path(__file__).resolve().parents[1]
 SITE_CONFIG_PATH = ROOT / "site-config.js"
 
 VALID_PLAN_STATUSES = {"live", "planned", "xlink", "wiki"}
+
+
+def normalize_canonical_term(value: str) -> str:
+    normalized = unicodedata.normalize("NFD", value.casefold())
+    without_marks = "".join(character for character in normalized if unicodedata.category(character) != "Mn")
+    return " ".join(without_marks.split())
 
 
 def load_site_config() -> dict[str, Any]:
@@ -91,6 +98,8 @@ def validate(config: dict[str, Any], strict_nav_plan: bool = False) -> dict[str,
     default_page = config.get("defaultPage")
     nav_ids: list[str] = []
     nav_items_by_domain: dict[str, list[str]] = defaultdict(list)
+    canonical_term_owners: dict[str, set[str]] = defaultdict(set)
+    canonical_term_labels: dict[str, set[str]] = defaultdict(set)
 
     for sec_index, section in enumerate(nav):
         if not isinstance(section, dict):
@@ -121,6 +130,22 @@ def validate(config: dict[str, Any], strict_nav_plan: bool = False) -> dict[str,
             if domain_key:
                 nav_items_by_domain[str(domain_key)].append(item_id)
 
+            aliases = item.get("aliases", [])
+            if not isinstance(aliases, list):
+                error(f"{path}.aliases", "Pole aliases musi być tablicą tekstów")
+                aliases = []
+            elif any(not isinstance(alias, str) or not alias.strip() for alias in aliases):
+                error(f"{path}.aliases", "Każdy alias musi być niepustym tekstem")
+                aliases = [alias for alias in aliases if isinstance(alias, str) and alias.strip()]
+
+            label = item.get("label")
+            for term in [label, *aliases]:
+                if not isinstance(term, str) or not term.strip():
+                    continue
+                normalized_term = normalize_canonical_term(term)
+                canonical_term_owners[normalized_term].add(item_id)
+                canonical_term_labels[normalized_term].add(term.strip())
+
             file_path = item.get("file")
             if file_path:
                 article = ROOT / str(file_path)
@@ -132,6 +157,14 @@ def validate(config: dict[str, Any], strict_nav_plan: bool = False) -> dict[str,
     duplicates = [item_id for item_id, count in Counter(nav_ids).items() if count > 1]
     for item_id in duplicates:
         error("SITE_CONFIG.nav", f"Zduplikowane id strony: {item_id}")
+
+    for term, owners in canonical_term_owners.items():
+        if len(owners) > 1:
+            labels = ", ".join(sorted(canonical_term_labels[term]))
+            warning(
+                "SITE_CONFIG.nav",
+                f"Niejednoznaczna nazwa kanoniczna lub alias „{labels}” występuje w: {', '.join(sorted(owners))}",
+            )
 
     if default_page and default_page != "__home__" and default_page not in set(nav_ids):
         error("SITE_CONFIG.defaultPage", f"defaultPage nie istnieje w nav: {default_page}")

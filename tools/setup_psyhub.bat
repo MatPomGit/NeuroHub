@@ -157,7 +157,7 @@ call :mkmd "wiki\temperament\razvoj.md"    "Temperament a rozwój"  "Temperament
 
 :: â”€â”€ EMOCJE I MOTYWACJA â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 call :mkmd "wiki\emocje\emocje_wprowadzenie.md"  "Emocje” wprowadzenie"   "Emocje i Motywacja"
-call :mkmd "wiki\emocje\teorie.md"       "Teorie emocji"           "Emocje i Motywacja"
+call :mkmd "wiki\emocje\teorie_emocji.md"       "Teorie emocji"           "Emocje i Motywacja"
 call :mkmd "wiki\emocje\regulacja.md"    "Regulacja emocjonalna"   "Emocje i Motywacja"
 call :mkmd "wiki\emocje\motywacja.md"    "Motywacja"               "Emocje i Motywacja"
 call :mkmd "wiki\emocje\neurobiologia.md" "Neurobiologia emocji"   "Emocje i Motywacja"

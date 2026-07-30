@@ -10,7 +10,7 @@
 - wiki/emocje/pozytywne_emocje.md: ## Wprowadzenie; ## Analiza mechanizmow; ## Zł‚a praktyka / czesty bł‚ąd
 - wiki/emocje/regulacja.md: ## Wprowadzenie; ## Analiza mechanizmow; ## Zł‚a praktyka / czesty bł‚ąd
 - wiki/emocje/stres_emocje.md: ## Wprowadzenie; ## Analiza mechanizmow; ## Zł‚a praktyka / czesty bł‚ąd
-- wiki/emocje/teorie.md: ## Wprowadzenie; ## Analiza mechanizmow; ## Zł‚a praktyka / czesty bł‚ąd
+- wiki/emocje/teorie_emocji.md: ## Wprowadzenie; ## Analiza mechanizmow; ## Zł‚a praktyka / czesty bł‚ąd
 - wiki/emocje/wspolczucie.md: ## Wprowadzenie; ## Analiza mechanizmow; ## Zł‚a praktyka / czesty bł‚ąd
 - wiki/emocje/wstyd_wina.md: ## Wprowadzenie; ## Analiza mechanizmow; ## Zł‚a praktyka / czesty bł‚ąd
 

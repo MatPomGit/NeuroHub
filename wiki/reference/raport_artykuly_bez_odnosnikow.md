@@ -298,7 +298,7 @@ Poni9=ej znajdujďż˝& siďż˝" bezpo9:rednie odno9:niki do artyku9Bw bez li
 - [`emotions/pozytywne_emocje.md`](../emocje/pozytywne_emocje.md)
 - [`emotions/regulacja.md`](../emocje/regulacja.md)
 - [`emotions/stres_emocje.md`](../emocje/stres_emocje.md)
-- [`emotions/teorie.md`](../emocje/teorie.md)
+- [Teorie emocji](../emocje/teorie_emocji.md)
 - [`emotions/wspolczucie.md`](../emocje/wspolczucie.md)
 - [`emotions/wstyd_wina.md`](../emocje/wstyd_wina.md)
 
@@ -401,7 +401,7 @@ Poni9=ej znajdujďż˝& siďż˝" bezpo9:rednie odno9:niki do artyku9Bw bez li
 ### wstep_do_psychologii
 
 - [`wstep_do_psychologii/definicja.md`](../wstep_do_psychologii/definicja.md)
-- [`wstep_do_psychologii/historia.md`](../wstep_do_psychologii/historia.md)
+- [Historia psychologii](../wstep_do_psychologii/historia_psychologii.md)
 - [`wstep_do_psychologii/nurty_psychologii.md`](../wstep_do_psychologii/nurty_psychologii.md)
 
 ### kulturowa
@@ -635,7 +635,7 @@ Poni9=ej znajdujďż˝& siďż˝" bezpo9:rednie odno9:niki do artyku9Bw bez li
 - [`psychosomatyka/bol_psychosomatyczny.md`](../psychosomatyka/bol_psychosomatyczny.md)
 - [`psychosomatyka/choroby_autoimmunologiczne.md`](../psychosomatyka/choroby_autoimmunologiczne.md)
 - [`psychosomatyka/diagnoza_psychosomatyczna.md`](../psychosomatyka/diagnoza_psychosomatyczna.md)
-- [`psychosomatyka/historia.md`](../psychosomatyka/historia.md)
+- [Historia psychosomatyki](../psychosomatyka/historia_psychosomatyki.md)
 - [`psychosomatyka/modele_psychosomatyczne.md`](../psychosomatyka/modele_psychosomatyczne.md)
 - [`psychosomatyka/os_hpa.md`](../psychosomatyka/os_hpa.md)
 - [`psychosomatyka/psychodermatologia.md`](../psychosomatyka/psychodermatologia.md)
@@ -824,7 +824,7 @@ Poni9=ej znajdujďż˝& siďż˝" bezpo9:rednie odno9:niki do artyku9Bw bez li
 - [`suicidology/profilaktyka.md`](../suicydologia/profilaktyka.md)
 - [`suicidology/psychopatologia_a_ryzyko_samobojstwa.md`](../suicydologia/psychopatologia_a_ryzyko_samobojstwa.md)
 - [`suicidology/suicydologia_wprowadzenie.md`](../suicydologia/suicydologia_wprowadzenie.md)
-- [`suicidology/teorie.md`](../suicydologia/teorie.md)
+- [Modele suicydologiczne](../suicydologia/modele_suicydologiczne.md)
 
 ### technology_psychology
 

@@ -13,8 +13,12 @@ window.SITE_CONFIG = {
 
   defaultPage: '__home__',
 
-  // Zachowuje dawne skróty SPA po scaleniu zduplikowanych artykułów.
+  // Zachowuje dawne adresy SPA po scaleniu lub przeniesieniu artykułów.
   articleRedirects: {
+    'psychosomatyka/historia': 'psychosomatyka/historia_psychosomatyki',
+    'wstep_do_psychologii/historia': 'wstep_do_psychologii/historia_psychologii',
+    'emocje/teorie': 'emocje/teorie_emocji',
+    'suicydologia/teorie': 'suicydologia/modele_suicydologiczne',
     'geropsychologia/samotnosc': 'relacje/samotnosc',
     'psychofarmakologia/09_leki_anksjolityczne_i_nasenne': 'psychofarmakologia/09_leki_przeciwlekowe_i_nasenne',
     'farmakologia/anxiolityki': 'psychofarmakologia/09_leki_przeciwlekowe_i_nasenne',
@@ -196,7 +200,7 @@ window.SITE_CONFIG = {
       domainKey: 'wstep_do_psychologii',
       items: [
         { id: 'wstep_do_psychologii/definicja', label: 'Definicja i zakres',  file: 'wiki/wstep_do_psychologii/definicja.md' },
-        { id: 'wstep_do_psychologii/historia',  label: 'Historia dyscypliny', file: 'wiki/wstep_do_psychologii/historia.md'  },
+        { id: 'wstep_do_psychologii/historia_psychologii',  label: 'Historia psychologii', file: 'wiki/wstep_do_psychologii/historia_psychologii.md'  },
         { id: 'wstep_do_psychologii/nurty_psychologii', label: 'Główne nurty psychologii', file: 'wiki/wstep_do_psychologii/nurty_psychologii.md'  },
       ]
     },
@@ -421,7 +425,7 @@ window.SITE_CONFIG = {
       domainKey: 'emocje',
       items: [
         { id: 'emocje/emocje_wprowadzenie', label: 'Emocje',   file: 'wiki/emocje/emocje_wprowadzenie.md'  },
-        { id: 'emocje/teorie',              label: 'Teorie emocji',            file: 'wiki/emocje/teorie.md'              },
+        { id: 'emocje/teorie_emocji',              label: 'Teorie emocji',            file: 'wiki/emocje/teorie_emocji.md'              },
         { id: 'emocje/regulacja',           label: 'Regulacja emocjonalna',    file: 'wiki/emocje/regulacja.md'           },
         { id: 'emocje/motywacja',           label: 'Motywacja',                file: 'wiki/emocje/motywacja.md'           },
         { id: 'emocje/neurobiologia',       label: 'Neurobiologia emocji',     file: 'wiki/emocje/neurobiologia.md'       },
@@ -678,7 +682,7 @@ window.SITE_CONFIG = {
       domainKey: 'psychosomatyka',
       items: [
         { id: 'psychosomatyka/wprowadzenie',               label: 'Psychosomatyka',    file: 'wiki/psychosomatyka/wprowadzenie.md'               },
-        { id: 'psychosomatyka/historia',                   label: 'Historia psychosomatyki',           file: 'wiki/psychosomatyka/historia.md'                  },
+        { id: 'psychosomatyka/historia_psychosomatyki',                   label: 'Historia psychosomatyki',           file: 'wiki/psychosomatyka/historia_psychosomatyki.md'                  },
         { id: 'psychosomatyka/modele_psychosomatyczne',    label: 'Modele psychosomatyczne',           file: 'wiki/psychosomatyka/modele_psychosomatyczne.md'   },
         { id: 'psychosomatyka/os_hpa',                     label: 'Os HPA i mechanizmy stresu',        file: 'wiki/psychosomatyka/os_hpa.md'                    },
         { id: 'psychosomatyka/somatyzacja',                label: 'Somatyzacja i zaburzenia somatyczne', file: 'wiki/psychosomatyka/somatyzacja.md'             },
@@ -935,7 +939,7 @@ window.SITE_CONFIG = {
       items: [
         { id: 'suicydologia/suicydologia_wprowadzenie', label: 'Suicydologia', file: 'wiki/suicydologia/suicydologia_wprowadzenie.md' },
         { id: 'suicydologia/epidemiologia',             label: 'Epidemiologia',                file: 'wiki/suicydologia/epidemiologia.md'             },
-        { id: 'suicydologia/teorie',                    label: 'Teorie i modele',              file: 'wiki/suicydologia/teorie.md'                    },
+        { id: 'suicydologia/modele_suicydologiczne',                    label: 'Modele suicydologiczne',              file: 'wiki/suicydologia/modele_suicydologiczne.md'                    },
         { id: 'suicydologia/ocena_ryzyka',              label: 'Ocena ryzyka',                 file: 'wiki/suicydologia/ocena_ryzyka.md'              },
         { id: 'suicydologia/interwencja',               label: 'Interwencja kryzysowa',        file: 'wiki/suicydologia/interwencja.md'               },
         { id: 'suicydologia/profilaktyka', label: 'Profilaktyka samobójstw', file: 'wiki/suicydologia/profilaktyka.md' },
@@ -1594,7 +1598,7 @@ window.SITE_CONFIG = {
     ],
     emotions: [
       { file: 'wiki/emocje/emocje_wprowadzenie.md', label: 'Emocje',           status: 'live' },
-      { file: 'wiki/emocje/teorie.md',       label: 'Teorie emocji',           status: 'live' },
+      { file: 'wiki/emocje/teorie_emocji.md',       label: 'Teorie emocji',           status: 'live' },
       { file: 'wiki/emocje/regulacja.md',    label: 'Regulacja emocjonalna',   status: 'live' },
       { file: 'wiki/emocje/motywacja.md',    label: 'Motywacja',               status: 'live' },
       { file: 'wiki/emocje/neurobiologia.md',label: 'Neurobiologia emocji',    status: 'live' },
@@ -1665,7 +1669,7 @@ window.SITE_CONFIG = {
     suicidology: [
       { file: 'wiki/suicydologia/suicydologia_wprowadzenie.md', label: 'Suicydologia', status: 'live' },
       { file: 'wiki/suicydologia/epidemiologia.md',  label: 'Epidemiologia',              status: 'live' },
-      { file: 'wiki/suicydologia/teorie.md',         label: 'Teorie (Joiner, IMV)',       status: 'live' },
+      { file: 'wiki/suicydologia/modele_suicydologiczne.md',         label: 'Modele suicydologiczne',       status: 'live' },
       { file: 'wiki/suicydologia/ocena_ryzyka.md',   label: 'Ocena ryzyka (C-SSRS)',      status: 'live' },
       { file: 'wiki/suicydologia/interwencja.md',    label: 'Interwencja kryzysowa',      status: 'live' },
       { file: 'wiki/suicydologia/profilaktyka.md',   label: 'Profilaktyka (3 poziomy)',   status: 'live' },
@@ -1737,7 +1741,7 @@ window.SITE_CONFIG = {
     ],
     psychosomatics: [
       { file: 'wiki/psychosomatyka/wprowadzenie.md',               label: 'Psychosomatyka',                      status: 'live' },
-      { file: 'wiki/psychosomatyka/historia.md',                   label: 'Historia psychosomatyki',             status: 'live' },
+      { file: 'wiki/psychosomatyka/historia_psychosomatyki.md',                   label: 'Historia psychosomatyki',             status: 'live' },
       { file: 'wiki/psychosomatyka/modele_psychosomatyczne.md',    label: 'Modele psychosomatyczne',             status: 'live' },
       { file: 'wiki/psychosomatyka/os_hpa.md',                     label: 'Os HPA i mechanizmy stresu',          status: 'live' },
       { file: 'wiki/psychosomatyka/somatyzacja.md',                label: 'Somatyzacja i zaburzenia somatyczne', status: 'live' },
@@ -1765,7 +1769,7 @@ window.SITE_CONFIG = {
     ],
     intro: [
       { file: 'wiki/wstep_do_psychologii/definicja.md', label: 'Definicja i zakres',  status: 'live' },
-      { file: 'wiki/wstep_do_psychologii/historia.md',  label: 'Historia dyscypliny', status: 'live' },
+      { file: 'wiki/wstep_do_psychologii/historia_psychologii.md',  label: 'Historia psychologii', status: 'live' },
       { file: 'wiki/wstep_do_psychologii/nurty_psychologii.md',  label: 'Glowne nurty psychologii', status: 'live' },
     ],
     cases: [
@@ -2200,7 +2204,7 @@ window.SITE_CONFIG = {
           title: 'Wprowadzenie do dyscypliny',
           articles: [
             { label: 'Definicja i zakres', id: 'wstep_do_psychologii/definicja', status: 'live' },
-            { label: 'Historia dyscypliny', id: 'wstep_do_psychologii/historia', status: 'live' },
+            { label: 'Historia psychologii', id: 'wstep_do_psychologii/historia_psychologii', status: 'live' },
             { label: 'Główne nurtы psychologii', id: 'wstep_do_psychologii/nurty_psychologii', status: 'live' },
             { label: 'Etyka badań psychologicznych', id: 'etyka/etyka_badan', file: 'wiki/etyka/etyka_badan.md', status: 'xlink' },
           ]
@@ -2273,7 +2277,7 @@ window.SITE_CONFIG = {
           articles: [
             { label: 'Suicydologia', id: 'suicydologia/suicydologia_wprowadzenie', status: 'live' },
             { label: 'Epidemiologia', id: 'suicydologia/epidemiologia', status: 'live' },
-            { label: 'Teorie (Joiner, IMV)', id: 'suicydologia/teorie', status: 'live' },
+            { label: 'Modele suicydologiczne', id: 'suicydologia/modele_suicydologiczne', status: 'live' },
             { label: 'Ocena ryzyka (C-SSRS)', id: 'suicydologia/ocena_ryzyka', status: 'live' },
             { label: 'Profilaktyka samobójstw', id: 'suicydologia/profilaktyka', status: 'live' },
             { label: 'Samookaleczenia (NSSI)', id: 'suicydologia/nssi', status: 'live' },
@@ -2410,7 +2414,7 @@ window.SITE_CONFIG = {
           title: 'Emocje i motywacja',
           articles: [
             { label: 'Emocje', id: 'emocje/emocje_wprowadzenie', status: 'live' },
-            { label: 'Teorie emocji', id: 'emocje/teorie', status: 'live' },
+            { label: 'Teorie emocji', id: 'emocje/teorie_emocji', status: 'live' },
             { label: 'Regulacja emocjonalna', id: 'emocje/regulacja', status: 'live' },
             { label: 'Motywacja', id: 'emocje/motywacja', status: 'live' },
             { label: 'Neurobiologia emocji', id: 'emocje/neurobiologia', status: 'live' },
@@ -2850,7 +2854,7 @@ window.SITE_CONFIG = {
           title: 'Podstawy i historia',
           articles: [
             { label: 'Psychosomatyka',                  id: 'psychosomatyka/wprowadzenie',            status: 'live' },
-            { label: 'Historia psychosomatyki',         id: 'psychosomatyka/historia',                status: 'live' },
+            { label: 'Historia psychosomatyki',         id: 'psychosomatyka/historia_psychosomatyki',                status: 'live' },
             { label: 'Modele psychosomatyczne',         id: 'psychosomatyka/modele_psychosomatyczne', status: 'live' },
           ]
         },

@@ -1,7 +1,7 @@
-﻿---
-lastReviewed: 2026-04-01
-reviewCycleMonths: 24
-evidenceCutoffDate: 2025-12-31
+---
+lastReviewed: 2026-07-30
+reviewCycleMonths: 12
+evidenceCutoffDate: 2026-07-30
 ---
 
 # Etyka pomocy psychologicznej
@@ -45,18 +45,17 @@ Każde złamanie tajemnicy powinno być dobrze udokumentowane i uzasadnione.
 
 ---
 
-## Świadoma zgoda
+## Uzgadnianie pomocy w relacji
 
-**Świadoma zgoda** (*informed consent*) to prawo klienta do wiedzy o tym, na co się zgadza przed rozpoczęciem pomocy:
-- Charakter i cel działań pomocowych
-- Metody i ograniczenia
-- Prawa klienta (w tym prawo do odmowy i wycofania zgody)
-- Zasady poufności i jej wyjątki
-- Kwalifikacje pomagającego
+Ogólne warunki [świadomej zgody](../etyka/swiadoma_zgoda.md) opisuje artykuł kanoniczny. W relacji pomocowej szczególnego znaczenia nabiera natomiast sposób jej uzgadniania. Osoba pomagająca powinna:
 
-Zgoda powinna być **dobrowolna** (bez przymusu), **świadoma** (klient rozumie informacje) i może być wycofana w dowolnym momencie.
+- negocjować tempo rozmowy i nie wymuszać ujawniania doświadczeń, na które klient nie jest gotowy;
+- przed dotykiem, nawet pomyślanym jako gest wsparcia, zapytać o wyraźną zgodę i pozostawić równoważną możliwość odmowy;
+- natychmiast respektować słowne i niewerbalne wycofanie zgody na konkretną interwencję;
+- uwzględniać zależność władzy, przez którą klient może obawiać się odmowy lub zakończenia kontaktu;
+- zachowywać granice roli, nie przedstawiając prywatnej bliskości, przysługi ani relacji poza ustalonym zakresem jako warunku otrzymania pomocy.
 
----
+Zgoda na rozpoczęcie kontaktu nie oznacza zgody na każdy temat, metodę lub formę bliskości. Pytania powinny umożliwiać odpowiedź „nie” bez konieczności usprawiedliwiania się, a zmianę zdania należy traktować jako informację wyznaczającą dalsze granice współpracy, nie jako niewdzięczność lub brak zaangażowania.
 
 ## Podwójna rola i konflikty interesów
 
@@ -102,25 +101,13 @@ Rozwiązywanie dylematów wymaga:
 - Samoopieka pomagającego
 - Tajemnica zawodowa (wiki Diagnoza)
 
-## Perspektywa nieoczywista
+## Wnioski
 
-Nieoczywista perspektywa na temat "Etyka pomocy psychologicznej" polega na tym, że skuteczna pomoc nie wynika z samej dobrej intencji, ale z jakości kontaktu, granic, regulacji emocji i adekwatności interwencji do sytuacji osoby wspieranej.
-
-Dopiero wspólna analiza zagadnień takich jak fundamenty etyczne, podwójna rola i konflikty interesów oraz zobacz też pokazuje pełny zakres omawianego zjawiska.
-
-Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
-
-## Podsumowanie
-
-Temat "Etyka pomocy psychologicznej" pokazuje, że najważniejsze jest traktowanie pomocy jako procesu wymagającego zarówno empatii, jak i struktury, kompetencji oraz samoograniczenia.
-
-
-Dopiero wspólna analiza zagadnień takich jak fundamenty etyczne, podwójna rola i konflikty interesów oraz zobacz też pokazuje pełny zakres omawianego zjawiska.
+Etyczna pomoc łączy poszanowanie autonomii, ograniczanie szkód, działanie dla dobra klienta i sprawiedliwe traktowanie. Dobra intencja nie zastępuje kompetencji, poufności, refleksji nad zależnością władzy ani jasnych granic roli. W sytuacji konfliktu zasad potrzebne są konsultacja, odniesienie do prawa i kodeksu oraz udokumentowanie toku decyzji.
 
 ## Bibliografia
 
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+- American Psychological Association. (2017). *Ethical principles of psychologists and code of conduct*. https://www.apa.org/ethics/code
+- Beauchamp, T. L., & Childress, J. F. (2019). *Principles of biomedical ethics* (8th ed.). Oxford University Press.
+- Fisher, C. B. (2017). *Decoding the ethics code: A practical guide for psychologists* (4th ed.). SAGE.
+- Polskie Towarzystwo Psychologiczne. (2018). *Kodeks etyczny psychologa Polskiego Towarzystwa Psychologicznego*. https://psych.org.pl/dla-psychologow/kodeks-etyczny

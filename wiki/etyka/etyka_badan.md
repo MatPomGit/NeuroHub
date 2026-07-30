@@ -26,22 +26,17 @@ Ryzyko obejmuje nie tylko uraz fizyczny. Może dotyczyć stresu, ujawnienia dany
 
 Wartość naukowa jest warunkiem etycznym. Badanie źle zaprojektowane naraża uczestników bez realnej szansy uzyskania wiarygodnej wiedzy. Wielkość próby, jakość pomiaru, plan analizy i kompetencje zespołu należą zatem również do oceny etycznej.
 
-## Świadoma i dobrowolna zgoda
+## Zgoda uczestnika w kontekście badawczym
 
-Zgoda jest procesem komunikacji, nie samym podpisem. Uczestnik powinien otrzymać zrozumiałe informacje o:
+Ogólne warunki [świadomej zgody](../etyka/swiadoma_zgoda.md), w tym zdolność, dobrowolność, zrozumienie oraz możliwość odmowy i wycofania decyzji, opisano w artykule kanonicznym. W badaniu informacja dla uczestnika powinna ponadto określać cel i przebieg projektu, czas udziału, przewidywalne ryzyko i niedogodności, możliwe korzyści lub ich brak, zasady przetwarzania danych oraz kontakt do zespołu i właściwej komisji.
 
-- celu i przebiegu badania;
-- czasie udziału;
-- przewidywalnym ryzyku i niedogodnościach;
-- możliwych korzyściach lub ich braku;
-- sposobie przetwarzania i przechowywania danych;
-- dobrowolności udziału i prawie wycofania się;
-- ograniczeniach możliwości usunięcia danych, na przykład po pełnej anonimizacji;
-- osobach, z którymi można się skontaktować.
+Wycofanie udziału nie zawsze umożliwia późniejsze usunięcie danych, na przykład po ich nieodwracalnej anonimizacji lub w sytuacji, gdy dalsze przetwarzanie ma inną podstawę prawną. Takie ograniczenie trzeba przedstawić przed podjęciem decyzji. W badaniach z dziećmi należy zaplanować właściwą zgodę przedstawiciela oraz przyzwolenie dziecka dostosowane do wieku i możliwości.
 
-Język i forma informacji muszą być dostosowane do odbiorców. W przypadku dzieci zwykle potrzebna jest zgoda przedstawiciela ustawowego oraz zgoda dziecka odpowiednia do jego wieku i możliwości. Sama przynależność do grupy klinicznej nie oznacza automatycznie braku zdolności do udzielenia zgody.
+### Wynagradzanie i zależność
 
-Należy ograniczać presję wynikającą z zależności. Student rekrutowany przez osobę prowadzącą jego zajęcia lub pacjent rekrutowany przez terapeutę może odczuwać, że odmowa wpłynie na ocenę albo opiekę. Pomocne są niezależna rekrutacja, rozsądne wynagrodzenie oraz jednoznaczna informacja o braku konsekwencji odmowy.
+Wynagrodzenie powinno rekompensować czas, niedogodności lub wydatki, lecz nie może stanowić nadmiernej zachęty utrudniającej swobodną ocenę ryzyka. Protokół powinien określać kwotę, sposób wypłaty oraz zasady rozliczenia po wcześniejszym zakończeniu udziału.
+
+Zależność od badacza może ograniczać dobrowolność niezależnie od kwoty. Student rekrutowany przez osobę prowadzącą jego zajęcia lub pacjent rekrutowany przez terapeutę może obawiać się konsekwencji odmowy. Ryzyko zmniejszają niezależna rekrutacja, równoważna alternatywa dla punktów zaliczeniowych oraz jednoznaczna informacja, że decyzja nie wpłynie na ocenę ani opiekę.
 
 ## Dezinformacja i debriefing
 

@@ -1,138 +1,57 @@
-﻿---
-lastReviewed: 2026-04-01
-reviewCycleMonths: 24
-evidenceCutoffDate: 2025-12-31
+---
+title: Świadoma zgoda w praktyce psychologicznej
+description: Warunki ważnej zgody, zakres informacji oraz ciągłe uzgadnianie pomocy psychologicznej.
+lastReviewed: 2026-07-30
+reviewCycleMonths: 12
+evidenceCutoffDate: 2026-07-30
 ---
 
-# Świadoma zgoda (informed consent)
+# Świadoma zgoda w praktyce psychologicznej
 
-Świadoma zgoda (*informed consent*) to jeden z fundamentalnych wymogów etycznych i prawnych w psychologii i psychoterapii. Jej celem jest zagwarantowanie, że klient podejmuje decyzję o udziale w terapii lub badaniach **dobrowolnie, z pełnym rozumieniem istotnych informacji i przy zachowanej zdolności do decydowania**.
+**Świadoma zgoda** (*informed consent*) jest dobrowolną decyzją osoby zdolnej do decydowania, podjętą po otrzymaniu i zrozumieniu informacji istotnych dla proponowanej usługi psychologicznej. Służy ochronie autonomii klienta i wyznacza zakres, w którym psycholog może działać. Podpis pod formularzem może dokumentować decyzję, ale sam nie dowodzi, że zgoda była ważna.
 
-> „Zgoda bez informacji jest nie zgodą, lecz posłuszeństwem." - Faden & Beauchamp (1986)
+## Elementy ważnej zgody
 
----
+Warunki zgody należy rozpatrywać łącznie:
 
-## Trzy komponenty świadomej zgody
+1. **Zdolność do udzielenia zgody.** Osoba potrafi wyrazić wybór, zrozumieć informacje, odnieść je do własnej sytuacji oraz rozważyć następstwa dostępnych możliwości. Zdolność jest zależna od konkretnej decyzji i czasu, dlatego diagnoza psychiatryczna, niepełnosprawność lub podeszły wiek nie przesądzają same w sobie o jej braku.
+2. **Dobrowolność.** Decyzja nie wynika z przymusu, groźby, manipulacji ani nacisku wykorzystującego zależność. Psycholog powinien uwzględnić asymetrię wiedzy i władzy, szczególnie gdy klient zależy od instytucji, opiekuna, pracodawcy lub osoby kierującej na konsultację.
+3. **Odpowiednia informacja.** Zakres informacji odpowiada naturze decyzji. Zwykle obejmuje cel i formę usługi, proponowane metody, przewidywany przebieg, możliwe korzyści i ryzyka, rozsądne alternatywy, koszty, zasady dokumentowania, poufność i jej granice oraz kwalifikacje osoby świadczącej pomoc.
+4. **Zrozumienie.** Informację przekazuje się językiem i w formie dostępnej dla danej osoby. Samo wręczenie dokumentu nie wystarcza. W razie wątpliwości psycholog może poprosić klienta o opisanie własnymi słowami tego, co uzgodniono, i wyjaśnić nieporozumienia.
+5. **Możliwość odmowy.** Klient musi mieć realną możliwość nieprzyjęcia propozycji. Należy jasno omówić następstwa odmowy, bez przedstawiania sankcji, które nie wynikają z prawa lub rzeczywistych warunków usługi.
+6. **Możliwość wycofania zgody.** Zgodę można cofnąć w toku współpracy. Psycholog zatrzymuje objęte nią działanie i wyjaśnia konsekwencje, których nie można już odwrócić, na przykład obowiązek zachowania części dokumentacji. Cofnięcie zgody na jedną technikę nie musi oznaczać rezygnacji z całej pomocy.
 
-Model Fadena i Beauchampa wyróżnia trzy niezbędne elementy zgody:
+W praktyce warto odróżnić zdolność do podjęcia decyzji, ocenianą funkcjonalnie, od prawnej kompetencji do samodzielnego wywołania jej skutków. Jeśli klient nie może samodzielnie udzielić zgody, należy działać zgodnie z właściwymi przepisami i udziałem przedstawiciela, a zarazem włączać klienta w decyzję w zakresie odpowiadającym jego możliwościom oraz respektować jego sprzeciw w granicach prawa.
 
-| Komponent | Opis | Przykład naruszenia |
-|---|---|---|
-| **Ujawnienie** (*disclosure*) | Przekazanie klientowi wszystkich istotnych informacji | Niepoinformowanie o ryzyku techniki terapeutycznej |
-| **Zdolność** (*capacity*) | Klient rozumie informacje i jest zdolny do podjęcia decyzji | Uzyskanie zgody od osoby w ostrym stanie psychotycznym |
-| **Dobrowolność** (*voluntariness*) | Zgoda podjęta bez przymusu, manipulacji ani nadmiernego nacisku | Naciskanie na zgodę pod groźbą zakończenia terapii |
+## Formularz a ciągły proces uzgadniania
 
-Brak któregokolwiek z tych elementów czyni zgodę **nieważną etycznie**.
+**Formularz** utrwala informacje i decyzję w określonym momencie. Ułatwia sprawdzenie, czy omówiono podstawowe warunki, lecz może stać się pustą formalnością, gdy jest niezrozumiały, podpisywany pod presją albo nie odpowiada rzeczywistej praktyce.
 
----
+**Ciągły proces uzgadniania** obejmuje rozmowę przed rozpoczęciem usługi oraz ponawianie ustaleń, gdy zmieniają się cel, metoda, ryzyko, sposób kontaktu, zasady poufności lub sytuacja klienta. Psycholog zwraca uwagę również na ambiwalencję i niewerbalne oznaki wycofania. Przy nowej, istotnej interwencji nie zakłada automatycznie, że początkowa zgoda obejmowała każdy późniejszy krok.
 
-## Zakres informacji - co musi wiedzieć klient?
+Oba elementy się uzupełniają: dokumentacja zwiększa przejrzystość, a rozmowa umożliwia pytania, sprawdzenie zrozumienia i rzeczywiste negocjowanie zakresu współpracy. Zgoda ogólna na psychoterapię nie zastępuje osobnego uzgodnienia szczególnie wrażliwych działań, takich jak dotyk, nagrywanie sesji, udział osób trzecich lub przekazanie informacji poza zwykły zakres poufności.
 
-Psycholog/terapeuta zobowiązany jest poinformować klienta o:
+## Zastosowanie w różnych usługach
 
-1. **Naturze i celu interwencji** - jakie są cele terapii, czego dotyczy diagnoza lub badanie
-2. **Stosowanych metodach** - techniki, czas trwania, częstotliwość sesji
-3. **Możliwych korzyściach i ryzykach** - potencjalne trudności, nasilenie objawów w trakcie procesu
-4. **Alternatywach** - inne dostępne formy pomocy lub leczenia
-5. **Poufności i jej wyjątkach** - kiedy tajemnica zawodowa może być uchylona
-6. **Prawie do rezygnacji** - klient może wycofać zgodę w dowolnym momencie bez negatywnych konsekwencji
-7. **Kwalifikacjach terapeuty** - wykształcenie, nurt, nadzór
-8. **Opłatach i warunkach finansowych** - koszty, polityka odwołań sesji
+W diagnozie psychologicznej należy wyjaśnić cel badania, odbiorcę opinii, dobór metod, sposób wykorzystania wyników oraz granice poufności. W psychoterapii uzgodnienia obejmują między innymi cele, ramy relacji, przewidywane metody, opłaty, kontakt między sesjami i warunki zakończenia pracy. W interwencji zdalnej dochodzą ograniczenia technologii, sposób reagowania w nagłym zagrożeniu i ochrona komunikacji.
 
----
+Badania naukowe tworzą odmienny kontekst, ponieważ ich podstawowym celem jest wytwarzanie wiedzy, a nie indywidualna korzyść uczestnika. Bilans ryzyka i korzyści, niezależną ocenę projektu, debriefing, zatajenie celu, wynagradzanie oraz ochronę danych omawia artykuł [Etyka badań naukowych w psychologii](../etyka/etyka_badan.md).
 
-## Ocena zdolności do wyrażenia zgody
+## Ograniczenia i sytuacje szczególne
 
-**Zdolność do wyrażenia zgody** (*decision-making capacity*) nie jest jednolitą cechą - może być zachowana w jednych obszarach i zaburzona w innych. Ocena obejmuje cztery kryteria (Appelbaum & Grisso, 1988):
+Prawo może przewidywać świadczenie lub interwencję bez zgody w ściśle określonych sytuacjach. Nie jest to „domniemana zgoda”, lecz wyjątek wymagający odrębnej podstawy prawnej, proporcjonalności działania i dokumentacji. Psycholog powinien przekazać osobie tyle informacji i pozostawić jej tyle wpływu, ile pozwalają okoliczności.
 
-1. **Rozumienie** - czy klient pojmuje przekazane informacje?
-2. **Wyrażenie wyboru** - czy jest w stanie jasno komunikować swoją decyzję?
-3. **Rozumowanie** - czy potrafi logicznie uzasadnić decyzję?
-4. **Ocenienie konsekwencji** - czy rozumie, jak decyzja wpłynie na jego sytuację?
+W pracy z małoletnimi zakres decyzji dziecka, przedstawiciela ustawowego i ewentualnej zgody równoległej zależy od rodzaju świadczenia oraz właściwych przepisów. Etycznie istotne jest uzyskiwanie przyzwolenia dziecka stosownie do wieku i dojrzałości, nawet gdy formalną zgodę składa przedstawiciel. Konkretne wymogi prawne należy ustalać dla danej usługi, a nie przenosić automatycznie z regulacji dotyczących świadczeń zdrowotnych na każdą praktykę psychologiczną.
 
-Zaburzenia zdolności mogą wynikać z: ostrego epizodu psychotycznego, ciężkiej depresji, głębokiej intoksykacji, demencji lub niepełnosprawności intelektualnej. Zaburzenie zdolności nie musi być trwałe - psycholog może poczekać na okno czasowe z lepszym funkcjonowaniem.
+## Wnioski
 
----
-
-## Zgoda małoletnich - assent i consent
-
-Małoletni nie posiadają pełnej zdolności do wyrażenia zgody (*legal consent*), jednak ich wola powinna być uwzględniana:
-
-- **Zgoda prawna** (*consent*) - udzielana przez **rodziców lub opiekunów prawnych** do 18. roku życia
-- **Assent** - wyrażenie woli przez **dziecko lub nastolatka** - powinno być uzyskiwane od dzieci zdolnych do zrozumienia procedury (zwykle od ok. 7–9 roku życia)
-- **Konflikt assent i consent** - gdy małoletni sprzeciwia się terapii, a rodzice ją wymuszają, psycholog powinien rozważyć dobro dziecka i dopuszczalność kontynuowania interwencji
-
-W Polsce **małoletni po ukończeniu 16. roku życia** ma prawo do współdecydowania o procedurach medycznych (Ustawa o prawach pacjenta, art. 17).
-
----
-
-## Zgoda w badaniach vs. terapia
-
-| Aspekt | Badania naukowe | Psychoterapia |
-|---|---|---|
-| Cel | Wytwarzanie wiedzy | Dobro klienta |
-| Regulacje | Komisja etyczna, Deklaracja Helsińska | Kodeks zawodowy, prawo o zawodzie |
-| Prawo do rezygnacji | Zawsze, bez utraty korzyści | Zawsze, z możliwością skierowania |
-| Anonimowość | Możliwa lub wymagana | Dokumentacja imienna |
-| Ryzyko | Oceniane ex ante przez komisję | Oceniane klinicznie, na bieżąco |
-
----
-
-## Zgoda jako proces ciągły
-
-Świadoma zgoda nie jest jednorazowym aktem podpisania dokumentu - jest **procesem trwającym przez cały czas terapii**. Psycholog powinien:
-
-- regularnie weryfikować, czy klient rozumie przebieg pracy i na nią się zgadza,
-- na bieżąco informować o zmianach w planie terapeutycznym,
-- reagować na sygnały wycofania zgody lub ambiwalencji.
-
----
-
-## Wyjątki - sytuacje nagłe
-
-W sytuacjach zagrożenia życia, gdy klient nie jest zdolny do wyrażenia zgody, psycholog może podjąć działania interwencyjne **bez uprzedniej zgody**. Dotyczy to m.in.:
-- hospitalizacji przymusowej w trybie nagłym,
-- wezwania pomocy w przypadku próby samobójczej.
-
-Działanie bez zgody musi być **najmniej inwazyjne z możliwych** i powinno być udokumentowane.
-
----
-
-## Dokumentacja
-
-Pisemna zgoda nie jest wymagana przez polskie prawo w każdym przypadku, jednak jest **dobrą praktyką kliniczną** i stanowi dowód w postępowaniu dyscyplinarnym lub sądowym. Dokumentacja powinna zawierać:
-- datę i miejsce udzielenia zgody,
-- zakres przekazanych informacji,
-- podpis klienta (i opiekuna, jeśli dotyczy),
-- informację o możliwości wycofania zgody.
-
----## Bibliografia
-
-- Appelbaum, P. S., & Grisso, T. (1988). Assessing patients' capacities to consent to treatment. *New England Journal of Medicine, 319*(25), 1635–1638.
-- Faden, R. R., & Beauchamp, T. L. (1986). *A history and theory of informed consent*. Oxford University Press.
-- Ustawa z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta. Dz.U. 2009 nr 52 poz. 417.
-- American Psychological Association. (2017). *Ethical principles of psychologists and code of conduct*. APA. (Standard 3.10)
-- Polskie Towarzystwo Psychologiczne. (2018). *Kodeks Etyczno-Zawodowy Psychologa*. PTP.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Świadoma zgoda (informed consent)" polega na tym, że etyka zawodowa nie sprowadza się do mechanicznego stosowania reguł, lecz wymaga ważenia dóbr, ryzyk i odpowiedzialności w warunkach niepewności.
-
-Dopiero wspólna analiza zagadnień takich jak trzy komponenty świadomej zgody, zgoda w badaniach vs. terapia oraz dokumentacja pokazuje pełny zakres omawianego zjawiska.
-
-Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
-
-## Podsumowanie
-
-Temat "Świadoma zgoda (informed consent)" pokazuje, że najbardziej dojrzałe wnioski etyczne wynikają z łączenia zasad, kontekstu sytuacyjnego i refleksji nad skutkami decyzji.
-
-
-Dopiero wspólna analiza zagadnień takich jak trzy komponenty świadomej zgody, zgoda w badaniach vs. terapia oraz dokumentacja pokazuje pełny zakres omawianego zjawiska.
+Ważna świadoma zgoda wymaga zdolności, dobrowolności, odpowiedniej informacji i jej zrozumienia, a także realnej możliwości odmowy i wycofania decyzji. Najlepiej ujmować ją jako udokumentowany proces komunikacji: formularz opisuje ustalenia, lecz nie zastępuje rozmowy ani ponownego uzgodnienia zmieniających się warunków.
 
 ## Bibliografia
 
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+- American Psychological Association. (2017). *Ethical principles of psychologists and code of conduct* (Standard 3.10, 8.02). https://www.apa.org/ethics/code
+- Appelbaum, P. S. (2007). Assessment of patients’ competence to consent to treatment. *New England Journal of Medicine, 357*(18), 1834–1840. https://doi.org/10.1056/NEJMcp074045
+- Beauchamp, T. L., & Childress, J. F. (2019). *Principles of biomedical ethics* (8th ed.). Oxford University Press.
+- Faden, R. R., & Beauchamp, T. L. (1986). *A history and theory of informed consent*. Oxford University Press.
+- Fisher, C. B. (2017). *Decoding the ethics code: A practical guide for psychologists* (4th ed.). SAGE.
+- Polskie Towarzystwo Psychologiczne. (2018). *Kodeks etyczny psychologa Polskiego Towarzystwa Psychologicznego*. https://psych.org.pl/dla-psychologow/kodeks-etyczny

@@ -104,8 +104,8 @@ Audyt `wiki/reference/etyka_psychologa.md` objął wszystkie artykuły w `wiki/e
 | Tajemnica zawodowa i wyjątki | `wiki/etyka/tajemnica_zawodowa_granice.md` | Nie przeniesiono uproszczonych twierdzeń prawnych ani uszkodzonego tekstu. |
 | Granice i specyfika relacji | `wiki/etyka/granice_relacji.md` | Przykłady dublowały istniejące omówienie; nie przeniesiono ich. |
 | Etyka cyfrowa | `wiki/etyka/etyka_cyfrowa.md` | Istniejący artykuł zawiera szersze omówienie; nie przeniesiono powtórzeń. |
-| Odpowiedzialność i status zawodów | `wiki/etyka/odpowiedzialnosc_zawodowa.md` | Zredagowano i udokumentowano status prawny na dzień 30 lipca 2026 r.; odróżniono ustawę, projekt ustawy, samorząd i dobrowolne stowarzyszenie. |
+| Odpowiedzialność i status zawodów | `wiki/etyka/odpowiedzialnosc_zawodowa.md` | Twierdzeń prawnych nie przeniesiono. Status na 30 lipca 2026 r. opracowano ponownie na podstawie ogłoszonych aktów: ustawy o zawodzie psychologa (w tym art. 7–8) oraz ustawy o ochronie zdrowia psychicznego (art. 5). Odróżniono prawo obowiązujące, projekt ustawy, samorząd ustawowy i dobrowolne stowarzyszenie. |
 
 ### Decyzje redakcyjne
 
-Nie zidentyfikowano unikalnego fragmentu dawnego pliku, który jednocześnie był poprawny, swoisty dla etyki i dostatecznie udokumentowany. Informacja o statusie zawodów wymagała ponownego opracowania na podstawie aktów prawnych, a nie mechanicznego przeniesienia. Uszkodzonych sekwencji znaków nie skopiowano. Generyczną część rozpoczynającą się od drugiego nagłówka `## Wprowadzenie` odrzucono w całości.
+Nie zidentyfikowano unikalnego fragmentu dawnego pliku, który jednocześnie był poprawny, swoisty dla etyki i dostatecznie udokumentowany. Informacja o statusie zawodów wymagała ponownego opracowania na podstawie aktów prawnych, a nie mechanicznego przeniesienia. Uszkodzonych sekwencji znaków nie skopiowano. Generyczną część rozpoczynającą się od drugiego nagłówka `## Wprowadzenie` odrzucono w całości. Katalog `reference` nie jest częścią publicznego spisu artykułów, dlatego wycofany plik usunięto z nawigacji, zachowując jedynie przekierowanie starego adresu i regułę zgodności w `articleRedirects`.

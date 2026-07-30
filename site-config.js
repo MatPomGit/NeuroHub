@@ -15,6 +15,17 @@ window.SITE_CONFIG = {
 
   // Zachowuje dawne adresy SPA po scaleniu lub przeniesieniu artykułów.
   articleRedirects: {
+    'psychologia_kliniczna_dziecka/bledy_diagnostyczne_i_iatrogenia': 'psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka',
+    'psychologia_kliniczna_dziecka/cbt_dzieci_i_mlodziez': 'psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka',
+    'psychologia_kliniczna_dziecka/czynniki_ryzyka_i_ochronne': 'psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka',
+    'psychologia_kliniczna_dziecka/diagnoza_roznicowa_neurorozwojowa': 'psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka',
+    'psychologia_kliniczna_dziecka/formulowanie_przypadku_4p': 'psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka',
+    'psychologia_kliniczna_dziecka/interwencje_rodzicielskie_pmt': 'psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka',
+    'psychologia_kliniczna_dziecka/norma_rozwojowa_a_objaw': 'psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka',
+    'psychologia_kliniczna_dziecka/przywiazanie_i_relacje_opiekuncze': 'psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka',
+    'psychologia_kliniczna_dziecka/regulacja_emocji_i_samokontrola': 'psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka',
+    'psychologia_kliniczna_dziecka/wspolpraca_rodzina_szkola_system': 'psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka',
+    'psychologia_kliniczna_dziecka/wywiad_kliniczny_z_dzieckiem_i_rodzina': 'psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka',
     'psychosomatyka/historia': 'psychosomatyka/historia_psychosomatyki',
     'instytucje_wsparcia_dziecka_i_rodziny/bledy_systemowe_i_dobre_praktyki': 'instytucje_wsparcia_dziecka_i_rodziny/system_wsparcia_dziecka_i_rodziny',
     'instytucje_wsparcia_dziecka_i_rodziny/interwencja_kryzysowa_i_niebieska_karta': 'instytucje_wsparcia_dziecka_i_rodziny/system_wsparcia_dziecka_i_rodziny',
@@ -1147,22 +1158,11 @@ window.SITE_CONFIG = {
         { id: 'eksperyment_psychologiczny/raportowanie_wynikow',      label: 'Raportowanie wyników i ograniczeń',          file: 'wiki/eksperyment_psychologiczny/raportowanie_wynikow.md'      },
       ]
     },
-    { /* Psychologia kliniczna dziecka */
-      section: 'Wstep do psychologii klinicznej dziecka',
+    { /* Psychologia kliniczna dzieci i młodzieży */
+      section: 'Psychologia kliniczna dzieci i młodzieży',
       domainKey: 'psychologia_kliniczna_dziecka',
       items: [
-        { id: 'psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka', label: 'Czym jest psychologia kliniczna dziecka?', file: 'wiki/psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka.md' },
-        { id: 'psychologia_kliniczna_dziecka/norma_rozwojowa_a_objaw', label: 'Norma rozwojowa, a objaw kliniczny', file: 'wiki/psychologia_kliniczna_dziecka/norma_rozwojowa_a_objaw.md' },
-        { id: 'psychologia_kliniczna_dziecka/wywiad_kliniczny_z_dzieckiem_i_rodzina', label: 'Wywiad kliniczny z dzieckiem i rodzina', file: 'wiki/psychologia_kliniczna_dziecka/wywiad_kliniczny_z_dzieckiem_i_rodzina.md' },
-        { id: 'psychologia_kliniczna_dziecka/czynniki_ryzyka_i_ochronne', label: 'Czynniki ryzyka i ochronne', file: 'wiki/psychologia_kliniczna_dziecka/czynniki_ryzyka_i_ochronne.md' },
-        { id: 'psychologia_kliniczna_dziecka/regulacja_emocji_i_samokontrola', label: 'Regulacja emocji i samokontrola', file: 'wiki/psychologia_kliniczna_dziecka/regulacja_emocji_i_samokontrola.md' },
-        { id: 'psychologia_kliniczna_dziecka/przywiazanie_i_relacje_opiekuncze', label: 'Przywiazanie i relacje opiekulcze', file: 'wiki/psychologia_kliniczna_dziecka/przywiazanie_i_relacje_opiekuncze.md' },
-        { id: 'psychologia_kliniczna_dziecka/diagnoza_roznicowa_neurorozwojowa', label: 'Diagnoza różnicowa: emocje vs neurorozwój', file: 'wiki/psychologia_kliniczna_dziecka/diagnoza_roznicowa_neurorozwojowa.md' },
-        { id: 'psychologia_kliniczna_dziecka/formulowanie_przypadku_4p', label: 'Formulowanie przypadku (4P)', file: 'wiki/psychologia_kliniczna_dziecka/formulowanie_przypadku_4p.md' },
-        { id: 'psychologia_kliniczna_dziecka/interwencje_rodzicielskie_pmt', label: 'Interwencje rodzicielskie (PMT)', file: 'wiki/psychologia_kliniczna_dziecka/interwencje_rodzicielskie_pmt.md' },
-        { id: 'psychologia_kliniczna_dziecka/cbt_dzieci_i_mlodziez', label: 'CoT dla dzieci i mlodziezy', file: 'wiki/psychologia_kliniczna_dziecka/cbt_dzieci_i_mlodziez.md' },
-        { id: 'psychologia_kliniczna_dziecka/wspolpraca_rodzina_szkola_system', label: 'Współpraca rodzina–szkoła–system', file: 'wiki/psychologia_kliniczna_dziecka/wspolpraca_rodzina_szkola_system.md' },
-        { id: 'psychologia_kliniczna_dziecka/bledy_diagnostyczne_i_iatrogenia', label: 'Błędy diagnostyczne i jatrogenia', file: 'wiki/psychologia_kliniczna_dziecka/bledy_diagnostyczne_i_iatrogenia.md' },
+        { id: 'psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka', label: 'Psychologia kliniczna dzieci i młodzieży', file: 'wiki/psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka.md', aliases: ['psychologia kliniczna dziecka', 'psychologia kliniczna dzieci'] },
       ]
     },
     { /* Reagowanie na krytyke */
@@ -1369,18 +1369,7 @@ window.SITE_CONFIG = {
       { id: 'psychologia_religii/metodologia_badan', label: 'Metodologia badań nad religijnością i duchowością', file: 'wiki/psychologia_religii/metodologia_badan.md', status: 'live' },
     ],
     child_clinical_intro: [
-      { id: 'psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka', label: 'Czym jest psychologia kliniczna dziecka?', file: 'wiki/psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka.md', status: 'live' },
-      { id: 'psychologia_kliniczna_dziecka/norma_rozwojowa_a_objaw', label: 'Norma rozwojowa, a objaw kliniczny', file: 'wiki/psychologia_kliniczna_dziecka/norma_rozwojowa_a_objaw.md', status: 'live' },
-      { id: 'psychologia_kliniczna_dziecka/wywiad_kliniczny_z_dzieckiem_i_rodzina', label: 'Wywiad kliniczny z dzieckiem i rodzina', file: 'wiki/psychologia_kliniczna_dziecka/wywiad_kliniczny_z_dzieckiem_i_rodzina.md', status: 'live' },
-      { id: 'psychologia_kliniczna_dziecka/czynniki_ryzyka_i_ochronne', label: 'Czynniki ryzyka i ochronne', file: 'wiki/psychologia_kliniczna_dziecka/czynniki_ryzyka_i_ochronne.md', status: 'live' },
-      { id: 'psychologia_kliniczna_dziecka/regulacja_emocji_i_samokontrola', label: 'Regulacja emocji i samokontrola', file: 'wiki/psychologia_kliniczna_dziecka/regulacja_emocji_i_samokontrola.md', status: 'live' },
-      { id: 'psychologia_kliniczna_dziecka/przywiazanie_i_relacje_opiekuncze', label: 'Przywiazanie i relacje opiekulcze', file: 'wiki/psychologia_kliniczna_dziecka/przywiazanie_i_relacje_opiekuncze.md', status: 'live' },
-      { id: 'psychologia_kliniczna_dziecka/diagnoza_roznicowa_neurorozwojowa', label: 'Diagnoza roznicowa: emocje vs neuroRozwoj', file: 'wiki/psychologia_kliniczna_dziecka/diagnoza_roznicowa_neurorozwojowa.md', status: 'live' },
-      { id: 'psychologia_kliniczna_dziecka/formulowanie_przypadku_4p', label: 'Formulowanie przypadku (4P)', file: 'wiki/psychologia_kliniczna_dziecka/formulowanie_przypadku_4p.md', status: 'live' },
-      { id: 'psychologia_kliniczna_dziecka/interwencje_rodzicielskie_pmt', label: 'Interwencje rodzicielskie (PMT)', file: 'wiki/psychologia_kliniczna_dziecka/interwencje_rodzicielskie_pmt.md', status: 'live' },
-      { id: 'psychologia_kliniczna_dziecka/cbt_dzieci_i_mlodziez', label: 'CBT dla dzieci i mlodziezy', file: 'wiki/psychologia_kliniczna_dziecka/cbt_dzieci_i_mlodziez.md', status: 'live' },
-      { id: 'psychologia_kliniczna_dziecka/wspolpraca_rodzina_szkola_system', label: 'Współpraca rodzina–szkoła–system', file: 'wiki/psychologia_kliniczna_dziecka/wspolpraca_rodzina_szkola_system.md', status: 'live' },
-      { id: 'psychologia_kliniczna_dziecka/bledy_diagnostyczne_i_iatrogenia', label: 'Błędy diagnostyczne i jatrogenia', file: 'wiki/psychologia_kliniczna_dziecka/bledy_diagnostyczne_i_iatrogenia.md', status: 'live' },
+      { id: 'psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka', label: 'Psychologia kliniczna dzieci i młodzieży', file: 'wiki/psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka.md', status: 'live', aliases: ['psychologia kliniczna dziecka', 'psychologia kliniczna dzieci'] },
     ],
     reacting_to_criticism: [
       { id: 'reagowanie_na_krytyke/czym_jest_krytyka_i_informacja_zwrotna', label: 'Krytyka, a informacja zwrotna - rozroznienie', file: 'wiki/reagowanie_na_krytyke/czym_jest_krytyka_i_informacja_zwrotna.md', status: 'live' },

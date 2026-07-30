@@ -40,6 +40,17 @@ Jedna zmiana powinna obejmować małą, spójną grupę artykułów. Pozwala to 
 
 | Data | Temat kanoniczny | Scalony adres |
 |---|---|---|
+| 2026-07-30 | `wiki/psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka.md` | `wiki/psychologia_kliniczna_dziecka/bledy_diagnostyczne_i_iatrogenia.md` |
+| 2026-07-30 | `wiki/psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka.md` | `wiki/psychologia_kliniczna_dziecka/cbt_dzieci_i_mlodziez.md` |
+| 2026-07-30 | `wiki/psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka.md` | `wiki/psychologia_kliniczna_dziecka/czynniki_ryzyka_i_ochronne.md` |
+| 2026-07-30 | `wiki/psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka.md` | `wiki/psychologia_kliniczna_dziecka/diagnoza_roznicowa_neurorozwojowa.md` |
+| 2026-07-30 | `wiki/psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka.md` | `wiki/psychologia_kliniczna_dziecka/formulowanie_przypadku_4p.md` |
+| 2026-07-30 | `wiki/psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka.md` | `wiki/psychologia_kliniczna_dziecka/interwencje_rodzicielskie_pmt.md` |
+| 2026-07-30 | `wiki/psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka.md` | `wiki/psychologia_kliniczna_dziecka/norma_rozwojowa_a_objaw.md` |
+| 2026-07-30 | `wiki/psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka.md` | `wiki/psychologia_kliniczna_dziecka/przywiazanie_i_relacje_opiekuncze.md` |
+| 2026-07-30 | `wiki/psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka.md` | `wiki/psychologia_kliniczna_dziecka/regulacja_emocji_i_samokontrola.md` |
+| 2026-07-30 | `wiki/psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka.md` | `wiki/psychologia_kliniczna_dziecka/wspolpraca_rodzina_szkola_system.md` |
+| 2026-07-30 | `wiki/psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka.md` | `wiki/psychologia_kliniczna_dziecka/wywiad_kliniczny_z_dzieckiem_i_rodzina.md` |
 | 2026-07-30 | `wiki/instytucje_wsparcia_dziecka_i_rodziny/system_wsparcia_dziecka_i_rodziny.md` | `wiki/instytucje_wsparcia_dziecka_i_rodziny/bledy_systemowe_i_dobre_praktyki.md` |
 | 2026-07-30 | `wiki/instytucje_wsparcia_dziecka_i_rodziny/system_wsparcia_dziecka_i_rodziny.md` | `wiki/instytucje_wsparcia_dziecka_i_rodziny/interwencja_kryzysowa_i_niebieska_karta.md` |
 | 2026-07-30 | `wiki/instytucje_wsparcia_dziecka_i_rodziny/system_wsparcia_dziecka_i_rodziny.md` | `wiki/instytucje_wsparcia_dziecka_i_rodziny/koordynacja_miedzyinstytucjonalna.md` |
@@ -127,3 +138,9 @@ Nie zidentyfikowano unikalnego fragmentu dawnego pliku, który jednocześnie by�
 Artykuł `wiki/instytucje_wsparcia_dziecka_i_rodziny/system_wsparcia_dziecka_i_rodziny.md` jest kanoniczną mapą polskiego systemu wsparcia. Dwanaście krótkich opracowań instytucjonalnych scalono w jeden tok decyzyjny: od oceny pilności, przez prawa dziecka i kompetencje sektorów, po przekrojową koordynację, ciągłość i kryteria jakości. Powtarzalne sekcje szablonowe usunięto, zachowując swoiste definicje, mechanizmy i użyteczne przykłady.
 
 Stan prawny procedury „Niebieskie Karty”, standardów ochrony małoletnich, pieczy zastępczej oraz kompetencji szkoły, poradni, ochrony zdrowia, pomocy społecznej, sądu i kuratora zweryfikowano na 30 lipca 2026 r. W tekście oddzielono obowiązki wynikające z ustaw i rozporządzeń od zaleceń organizacyjnych dotyczących prowadzenia przypadku. Dawne pliki pozostały przekierowaniami do właściwych kotwic, ich identyfikatory SPA obsługuje `articleRedirects`, a nawigacja domeny zawiera tylko opracowanie kanoniczne.
+
+## Konsolidacja psychologii klinicznej dzieci i młodzieży
+
+Artykuł `wiki/psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka.md` jest kanonicznym opracowaniem domeny. Jedenaście generycznych, wzajemnie nakładających się tekstów scalono w jeden wywód rozwojowy: od granic kompetencji i odróżnienia przesiewu od diagnozy, przez relacje, regulację i odporność psychiczną, po swoistość diagnozy, formulacji, interwencji oraz opieki skoordynowanej. Ogólne procedury wywiadu, diagnozy i formułowania pozostają w kanonicznych artykułach działu `wiki/diagnoza/`; tekst dziecięcy odsyła do nich i omawia wyłącznie różnice wynikające z wieku oraz zależności od opiekunów.
+
+Dawne pliki pozostają przekierowaniami do właściwych sekcji, ich identyfikatory SPA obsługuje `articleRedirects`, a nawigacja domeny zawiera tylko artykuł kanoniczny.

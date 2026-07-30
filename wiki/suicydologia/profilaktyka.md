@@ -6,11 +6,11 @@ evidenceCutoffDate: 2025-12-31
 
 # Profilaktyka zachowań samobójczych
 
-Profilaktyka zachowań samobójczych obejmuje działania zmniejszające prawdopodobieństwo śmierci samobójczej, próby samobójczej i ponowienia zachowania po kryzysie. Nie sprowadza się do rozpoznawania „typu osoby zagrożonej”. Łączy zmiany w otoczeniu, bezpieczną komunikację, łatwo dostępną pomoc oraz ciągłość opieki.
+Profilaktyka zachowań samobójczych obejmuje działania zmniejszające prawdopodobieństwo śmierci samobójczej, próby samobójczej i ponowienia zachowania po kryzysie. Nie sprowadza się do rozpoznawania „typu osoby zagrożonej”. Ten artykuł omawia interwencje swoiste dla zapobiegania zachowaniom samobójczym, natomiast zapobieganie szkodom związanym z używaniem substancji pozostaje odrębnym zagadnieniem kanonicznym.
 
 ## Poziomy profilaktyki w skrócie
 
-Podział na działania **uniwersalne** (dla całej populacji), **selektywne** (dla grup o podwyższonym ryzyku) i **wskazane** (dla osób z rozpoznawalnymi oznakami kryzysu) opisuje odbiorców, a nie skuteczność interwencji. W praktyce spójny system łączy wszystkie trzy poziomy (WHO, 2021).
+Działania **uniwersalne** obejmują całą populację, **selektywne** grupy podwyższonego ryzyka, a **wskazane** osoby z oznakami kryzysu; podział określa odbiorców, nie skuteczność interwencji (WHO, 2021).
 
 ## Ograniczanie dostępu do metod
 
@@ -44,7 +44,7 @@ Szkolenia typu *gatekeeper training* poprawiają przede wszystkim wiedzę, posta
 
 ## Wspólne czynniki ryzyka i współpraca międzysektorowa
 
-Używanie alkoholu i innych substancji może zwiększać ryzyko poprzez odhamowanie, nasilenie impulsywności, zatrucie i pogorszenie przebiegu zaburzeń psychicznych. Nie jest jednak ani konieczną, ani wystarczającą przyczyną zachowania samobójczego. Działania wobec tego obszaru, w tym wczesne rozpoznawanie ryzykownego używania i redukcję szkód, szerzej omawia artykuł [Profilaktyka uzależnień](../uzaleznienia/profilaktyka.md). Współpraca jest szczególnie ważna przy planowaniu wypisu, ponieważ opieka nad kryzysem samobójczym i problemem używania substancji nie powinna przebiegać w dwóch odizolowanych ścieżkach (WHO, 2021).
+Używanie alkoholu i innych substancji może zwiększać ryzyko poprzez odhamowanie, nasilenie impulsywności, zatrucie i pogorszenie przebiegu zaburzeń psychicznych. Nie jest jednak ani konieczną, ani wystarczającą przyczyną zachowania samobójczego. Wczesne rozpoznawanie ryzykownego używania i redukcję szkód szerzej omawia odrębna [Profilaktyka uzależnień](../uzaleznienia/profilaktyka.md). Współpraca jest szczególnie ważna przy planowaniu wypisu, ponieważ opieka nad kryzysem samobójczym i problemem używania substancji nie powinna przebiegać w dwóch odizolowanych ścieżkach (WHO, 2021).
 
 ## Ocena jakości działań
 

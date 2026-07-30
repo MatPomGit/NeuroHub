@@ -6,11 +6,11 @@ evidenceCutoffDate: 2025-12-31
 
 # Profilaktyka uzależnień
 
-Profilaktyka uzależnień obejmuje działania, które opóźniają rozpoczęcie używania substancji psychoaktywnych, ograniczają ryzykowne wzorce używania i zmniejszają szkody u osób już używających. Jej przedmiotem są zarówno kompetencje jednostki, jak i warunki społeczne, ekonomiczne i fizyczne wpływające na dostępność substancji.
+Profilaktyka uzależnień obejmuje działania, które opóźniają rozpoczęcie używania substancji psychoaktywnych, ograniczają ryzykowne wzorce używania i zmniejszają szkody u osób już używających. Jej przedmiotem są zarówno kompetencje jednostki, jak i warunki społeczne, ekonomiczne i fizyczne wpływające na dostępność substancji. Interwencje swoiste dla ryzyka samobójczego pozostają odrębnym zagadnieniem kanonicznym.
 
 ## Poziomy profilaktyki w skrócie
 
-Interwencje **uniwersalne** obejmują całą populację, **selektywne** są kierowane do grup o zwiększonym ryzyku, a **wskazane** do osób z wczesnymi oznakami problemu. Podział określa adresatów, nie rangę programu ani siłę dowodów. Leczenie rozwiniętego uzależnienia pozostaje niezbędne, lecz nie należy go utożsamiać z profilaktyką (UNODC & WHO, 2018).
+Interwencje **uniwersalne** obejmują całą populację, **selektywne** grupy zwiększonego ryzyka, a **wskazane** osoby z wczesnymi oznakami problemu; podział określa adresatów, nie skuteczność programu (UNODC & WHO, 2018).
 
 ## Opóźnianie inicjacji
 
@@ -40,7 +40,7 @@ Dla alkoholu przegląd systematyczny wykazał odwrotną zależność między cen
 
 ## Powiązanie z zachowaniami samobójczymi
 
-Używanie substancji i zachowania samobójcze mają część wspólnych czynników ryzyka, między innymi przemoc, traumę, izolację i zaburzenia psychiczne. Intoksykacja może dodatkowo osłabiać kontrolę zachowania. Nie wolno jednak traktować używania substancji jako prostego wyjaśnienia każdego kryzysu. Zasady ograniczania dostępu do metod, ciągłości opieki i bezpiecznej komunikacji opisuje odrębny artykuł [Profilaktyka zachowań samobójczych](../suicydologia/profilaktyka.md). W praktyce badanie przesiewowe dotyczące substancji powinno być połączone z reakcją na ujawnione ryzyko samobójcze, a nie kończyć się odrębnym skierowaniem bez przekazania opieki.
+Używanie substancji i zachowania samobójcze mają część wspólnych czynników ryzyka, między innymi przemoc, traumę, izolację i zaburzenia psychiczne. Intoksykacja może dodatkowo osłabiać kontrolę zachowania. Nie wolno jednak traktować używania substancji jako prostego wyjaśnienia każdego kryzysu. Zasady ograniczania dostępu do metod, ciągłości opieki i bezpiecznej komunikacji opisuje odrębna [Profilaktyka zachowań samobójczych](../suicydologia/profilaktyka.md). W praktyce badanie przesiewowe dotyczące substancji powinno być połączone z reakcją na ujawnione ryzyko samobójcze, a nie kończyć się odrębnym skierowaniem bez przekazania opieki.
 
 ## Ocena programów
 

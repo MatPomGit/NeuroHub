@@ -1,4 +1,4 @@
-﻿---
+---
 lastReviewed: 2026-05-09
 reviewCycleMonths: 12
 evidenceCutoffDate: 2026-05-01
@@ -46,7 +46,7 @@ Wysoka intensywność emocjonalna sesji bywa mylona z „głęboką pracą”. T
 ## Powiązane artykuły (cross-linki)
 
 - `doswiadczenie_somatyczne/wprowadzenie_do_doswiadczenia_somatycznego` - podstawy regulacji układu nerwowego w SE.
-- `psychopathology/trauma_ptsd` - kliniczny obraz traumy i PTSD.
+- [Trauma psychologiczna i zaburzenia pourazowe](../psychopatologia/trauma_ptsd.md) - kliniczny obraz traumy i PTSD.
 
 
 

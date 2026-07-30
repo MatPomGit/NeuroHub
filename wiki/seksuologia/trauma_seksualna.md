@@ -1,59 +1,44 @@
-﻿---
-lastReviewed: 2026-04-01
-reviewCycleMonths: 24
-evidenceCutoffDate: 2025-12-31
+---
+title: Trauma seksualna
+lastReviewed: 2026-07-30
+reviewCycleMonths: 12
+evidenceCutoffDate: 2026-07-30
 ---
 
 # Trauma seksualna
 
-Psychologiczne skutki nadużycia seksualnego - wpływ na seksualność, zdrowie psychiczne i podejście terapeutyczne.
+Artykuł dotyczy następstw przemocy seksualnej dla seksualności, granic cielesnych i leczenia. Nie powtarza ogólnych kryteriów: różnicę między ekspozycją, reakcją pourazową, [PTSD i złożonym PTSD](../psychopatologia/trauma_ptsd.md) opisano w artykule kanonicznym.
 
-## Definicja i formy
+## Zakres
 
-*Trauma seksualna* obejmuje wszelkie doświadczenia seksualne bez zgody lub przekraczające możliwości radzenia sobie jednostki. Formy: nadużycie seksualne w dzieciństwie (CSA), gwałt, napaść seksualna, molestowanie, przemoc seksualna w związku, seksting pod przymusem.
+Przemoc seksualna obejmuje czynności seksualne bez dobrowolnej, świadomej i aktualnej zgody, a wobec dziecka także czynności wykorzystujące jego niedojrzałość lub nierównowagę władzy. Może obejmować napaść, gwałt, wykorzystanie seksualne dziecka, przemoc w związku, przymus reprodukcyjny oraz wymuszanie czynności lub materiałów cyfrowych.
 
-> **Nadużycie seksualne w dzieciństwie** (CSA) dotknęło szacunkowo 8–31% kobiet i 3–17% mężczyzn. Ze względu na stygmatyzację i zależność od sprawcy jest znacznie niedoszacowane.
+„Trauma seksualna” jest użyteczną nazwą obszaru doświadczeń i ich możliwych następstw, ale sama nie jest diagnozą. Nie każda osoba po przemocy rozwinie PTSD ani problemy seksualne. Zróżnicowany przebieg nie zmienia odpowiedzialności sprawcy i nie jest miarą powagi przemocy.
 
-## Psychologiczne skutki traumy seksualnej
+## Następstwa swoiste dla seksualności
 
-**PTSD i C-PTSD** - intruzywne wspomnienia, unikanie, nadmierna czujność, negatywne zmiany w poznaniu i nastroju. **Depresja, zaburzenia lękowe** - wstyd, poczucie winy, niskie poczucie własnej wartości. **Dysocjacja** - odcięcie od ciała i doświadczeń seksualnych; w ciężkich formach: zaburzenie dysocjacyjne tożsamości (DID).
+Poza objawami nieswoistymi, takimi jak lęk, depresja lub objawy PTSD, mogą wystąpić trudności bezpośrednio związane z seksualnością:
 
-**Skutki seksualne**: unikanie intymności, dysfunkcje seksualne (ból, trudności z podnieceniem, orgazmem), kompulsywne zachowania seksualne (hypersexuality jako forma unikania lub samoukojenia), trudności z zaufaniem i granicami w relacjach.
+- ból, spadek lub wahania pożądania, trudności z podnieceniem i orgazmem;
+- intruzje, odrętwienie albo dysocjacja podczas bliskości;
+- unikanie kontaktu lub podejmowanie zachowań seksualnych służących regulacji emocji;
+- trudność w rozpoznawaniu własnego „tak”, „nie” i ambiwalencji;
+- wstyd, obwinianie siebie i problemy z zaufaniem albo granicami.
 
-## Wpływ na tożsamość
+Żaden z tych wzorców nie jest nieuchronny ani swoisty wyłącznie dla przemocy seksualnej. Zachowania seksualnego nie należy automatycznie interpretować jako objawu traumy. Znaczenie ustala się wspólnie, z uwzględnieniem zdrowia somatycznego, leków, relacji, kultury, orientacji seksualnej i celów osoby.
 
-Trauma seksualna, szczególnie we wczesnym dzieciństwie, może zakłócić **bezpieczne przywiązanie**, poczucie granic ciała i własnej agencji. Poczucie wstydu może być zinternalizowane i trudne do oddzielenia od obrazu siebie.
+## Ocena i terapia
 
-## Podejście terapeutyczne
+Pierwszeństwo mają aktualne bezpieczeństwo, kontrola osoby nad rozmową i ograniczenie zbędnego powtarzania szczegółów. Ocena obejmuje objawy pourazowe oraz ból, funkcje seksualne, zdrowie reprodukcyjne, relacje i możliwe współwystępowanie depresji, używania substancji lub ryzyka samobójczego.
 
-**Traumainformowana terapia** (trauma-informed care) opiera się na bezpieczeństwie, wiarygodności, wyborze i władzy, współpracy i wzmocnieniu. Konkretne modalności:
+Psychoterapie skoncentrowane na traumie, w tym TF-CBT u dzieci, CPT, przedłużona ekspozycja i EMDR, mają dowody skuteczności wobec PTSD po przemocy seksualnej. Terapia seksualna może dodatkowo pracować nad zgodą, komunikacją, bólem i stopniowym odzyskiwaniem bezpiecznej przyjemności. Nie zakłada się, że ekspozycja seksualna jest konieczna; tempo i cele wymagają zgody, a partner uczestniczy tylko wtedy, gdy jest to bezpieczne i pożądane.
 
-- **TF-CBT** (Trauma-Focused CBT) - szczególnie dla dzieci i adolescentów, angażuje opiekunów;
-- **EMDR** - przetwarzanie traumatycznych wspomnień;
-- **Somatic Experiencing** (Levine) - praca z odpowiedzią ciała na traumę;
-- **DBT** - regulacja emocji i tolerancja dystresu przy współwystępującym BPD lub NSSI.
-
-Terapia seksualna po traumie jest możliwa i skuteczna, ale powinna być starannie dozowana i prowadzona przez terapeutę znającego dynamikę traumy.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Trauma seksualna" polega na tym, że seksualność najtrafniej opisuje się jako obszar współtworzony przez ciało, znaczenia kulturowe, relacje i doświadczenie bezpieczeństwa.
-
-Dopiero wspólna analiza zagadnień takich jak definicja i formy, wpływ na tożsamość oraz podejście terapeutyczne pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Trauma seksualna" pokazuje, że najbardziej użyteczne wnioski wynikają z łączenia perspektywy biologicznej, relacyjnej i rozwojowej bez moralizowania i redukcjonizmu.
-
-
-Dopiero wspólna analiza zagadnień takich jak definicja i formy, wpływ na tożsamość oraz podejście terapeutyczne pokazuje pełny zakres omawianego zjawiska.
+Somatic Experiencing bywa proponowane jako wsparcie świadomości ciała, lecz dowody są słabsze niż dla terapii skoncentrowanych na traumie. Jego koncepcji „dokończenia reakcji obronnej” nie należy przedstawiać jako ustalonego mechanizmu przemocy seksualnej, dysocjacji ani zdrowienia.
 
 ## Bibliografia
 
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+1. Dworkin, E. R., Menon, S. V., Bystrynski, J., & Allen, N. E. (2017). Sexual assault victimization and psychopathology: A review and meta-analysis. *Clinical Psychology Review, 56*, 65–81. https://doi.org/10.1016/j.cpr.2017.06.002
+2. Hailes, H. P., Yu, R., Danese, A., & Fazel, S. (2019). Long-term outcomes of childhood sexual abuse: An umbrella review. *The Lancet Psychiatry, 6*(10), 830–839. https://doi.org/10.1016/S2215-0366(19)30286-X
+3. National Institute for Health and Care Excellence. (2018). *Post-traumatic stress disorder (NG116)*. https://www.nice.org.uk/guidance/ng116
+4. Pulverman, C. S., Kilimnik, C. D., & Meston, C. M. (2018). The impact of childhood sexual abuse on women's sexual health. *Sexual Medicine Reviews, 6*(2), 188–200. https://doi.org/10.1016/j.sxmr.2017.12.002
+5. World Health Organization. (2013). *Responding to intimate partner violence and sexual violence against women: WHO clinical and policy guidelines*.

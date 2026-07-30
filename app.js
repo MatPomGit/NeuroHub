@@ -794,7 +794,7 @@ function resolveArticleRedirect(id) {
   return normalizePageId(SITE_CONFIG.articleRedirects?.[normalizedId] || normalizedId);
 }
 
-function navigate(id, replaceHistory) {
+function navigate(id, replaceHistory, sectionId = '') {
   const normalizedId = resolveArticleRedirect(id);
   if (!normalizedId) return;
   const item = pageMap.get(normalizedId);
@@ -804,8 +804,8 @@ function navigate(id, replaceHistory) {
   cleanupArticleTocObserver();
   current = normalizedId;
   addRecentPage(normalizedId);
-  if (replaceHistory) history.replaceState({id: normalizedId},'',buildRouteHash(normalizedId, ''));
-  else                history.pushState({id: normalizedId},'',buildRouteHash(normalizedId, ''));
+  if (replaceHistory) history.replaceState({id: normalizedId},'',buildRouteHash(normalizedId, sectionId));
+  else                history.pushState({id: normalizedId},'',buildRouteHash(normalizedId, sectionId));
   setActive(normalizedId);
   updateTopbarNextStep(normalizedId);
   closeSidebar();
@@ -1746,7 +1746,8 @@ function artCard(art) {
   // Obsługa dwoch typow kart: nawigacja wewnetrzna (id) i odnośniki do stron HTML (href).
   const clickableById = (isEmpty || art.status==='live'||art.status==='wiki'||art.status==='xlink') && art.id;
   const clickableByHref = art.status === 'xlink' && art.href;
-  const click = clickableById ? `onclick="navigate('${art.id}')"` : '';
+  const sectionId = art.sectionId || '';
+  const click = clickableById ? `onclick="navigate('${art.id}', false, '${sectionId}')"` : '';
   const artid = art.id ? `data-artid="${art.id}"` : '';
   const desc = art.desc ? `<div class="art-desc">${art.desc}</div>` : '';
 

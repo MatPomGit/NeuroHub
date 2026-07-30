@@ -58,6 +58,13 @@ Jedna zmiana powinna obejmować małą, spójną grupę artykułów. Pozwala to 
 | 2026-07-29 | `wiki/psychofarmakologia/09_leki_przeciwlekowe_i_nasenne.md` | `wiki/psychofarmakologia/09_leki_anksjolityczne_i_nasenne.md` |
 | 2026-07-29 | `wiki/psychofarmakologia/11_leki_w_terapii_uzaleznien.md` | `wiki/farmakologia/uzaleznienia_farm.md` |
 | 2026-07-29 | `wiki/diagnoza/formulowanie_przypadku.md` | `wiki/psychopatologia/formulowanie_przypadku.md` |
+| 2026-07-30 | `wiki/etyka/tajemnica_zawodowa_granice.md` | `wiki/diagnoza/tajemnica_zawodowa.md` |
+
+## Konsolidacja tajemnicy zawodowej
+
+Artykuł `wiki/etyka/tajemnica_zawodowa_granice.md` jest kanonicznym opracowaniem prawnych i etycznych granic poufności w pracy psychologa. Z dawnego artykułu diagnostycznego przeniesiono treści o dokumentacji, przekazywaniu wyników oraz informowaniu osoby badanej. Osobna sekcja „Tajemnica zawodowa w diagnozie psychologicznej” zachowuje kontekst diagnozy bez powielania ogólnego wykładu.
+
+Dawny adres `wiki/diagnoza/tajemnica_zawodowa.md` pozostaje przekierowaniem. Plan diagnozy prowadzi bezpośrednio do sekcji diagnostycznej tekstu kanonicznego, a dawny identyfikator SPA jest obsługiwany przez `articleRedirects`.
 
 ## Konsolidacja jakości życia
 

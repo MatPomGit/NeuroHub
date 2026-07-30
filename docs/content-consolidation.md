@@ -40,6 +40,8 @@ Jedna zmiana powinna obejmować małą, spójną grupę artykułów. Pozwala to 
 
 | Data | Temat kanoniczny | Scalony adres |
 |---|---|---|
+| 2026-07-30 | `wiki/emocje/wspolczucie.md` | `wiki/podstawy_pomocy/empatia_w_pomocy.md` |
+| 2026-07-30 | `wiki/emocje/wspolczucie.md` | `wiki/podstawy_pomocy/empatia_kontra_sympatia_brene_brown.md` |
 | 2026-07-30 | `wiki/etyka/kodeksy_etyczne.md` | `wiki/reference/etyka_psychologa.md` |
 | 2026-07-29 | `wiki/psychologia_zdrowia/jakosc_zycia.md` | `wiki/psychologia_niepelnosprawnosci/jakosc_zycia.md` |
 | 2026-07-29 | `wiki/relacje/samotnosc.md` | `wiki/geropsychologia/samotnosc.md` |
@@ -59,6 +61,12 @@ Jedna zmiana powinna obejmować małą, spójną grupę artykułów. Pozwala to 
 | 2026-07-29 | `wiki/psychofarmakologia/11_leki_w_terapii_uzaleznien.md` | `wiki/farmakologia/uzaleznienia_farm.md` |
 | 2026-07-29 | `wiki/diagnoza/formulowanie_przypadku.md` | `wiki/psychopatologia/formulowanie_przypadku.md` |
 | 2026-07-30 | `wiki/etyka/tajemnica_zawodowa_granice.md` | `wiki/diagnoza/tajemnica_zawodowa.md` |
+
+## Konsolidacja empatii i współczucia
+
+Artykuł `wiki/emocje/wspolczucie.md` jest kanonicznym opracowaniem empatii, współczucia i ich granic pojęciowych. Zintegrowano w nim praktyczne treści o relacji pomocowej oraz użyteczne przykłady komunikacyjne z popularyzacji Brené Brown, oddzielając je od definicji opartych na literaturze psychologicznej. Usunięto powtórzenia i uproszczenia sprowadzające empatię do neuronów lustrzanych.
+
+Materiał `wiki/podstawy_pomocy/empatia_w_pomocy.md` nie zachowywał odrębnego pytania praktycznego po przeniesieniu opisu komunikowania empatii, granic, dystresu i superwizji. Oba dawne adresy z działu podstaw pomocy są więc przekierowaniami do odpowiednich sekcji tekstu kanonicznego. Odrębny, zoperacjonalizowany konstrukt współczucia dla siebie pozostaje w `wiki/psychologia_pozytywna/wspolczucie_dla_siebie.md` i odsyła do podstaw teoretycznych.
 
 ## Konsolidacja tajemnicy zawodowej
 

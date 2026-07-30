@@ -1,4 +1,4 @@
-﻿---
+---
 lastReviewed: 2026-04-20
 reviewCycleMonths: 12
 evidenceCutoffDate: 2026-03-31
@@ -57,7 +57,7 @@ Nieoczywiste ujęcie SE mówi, że metoda nie konkuruje z podejściami opartymi 
 
 - `psychotherapy/emdr` - EMDR i przetwarzanie wspomnień traumatycznych.
 - `psychotherapy/systemowa` - kontekst relacyjny objawów i zasobów.
-- `psychopathology/trauma_ptsd` - obraz kliniczny PTSD i różnicowanie.
+- [Trauma psychologiczna i zaburzenia pourazowe](../psychopatologia/trauma_ptsd.md) - obraz kliniczny PTSD i różnicowanie.
 - `health_psychology/stres` - fizjologia stresu i regulacja.
 - `reference/mapa_powiazan_nowe_artykuly` - mapa relacji między nowymi tekstami.
 

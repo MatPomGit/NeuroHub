@@ -1,135 +1,122 @@
 ---
-lastReviewed: 2026-04-01
-reviewCycleMonths: 24
-evidenceCutoffDate: 2025-12-31
+aliases:
+  - Tajemnica zawodowa psychologa
+  - Poufność w pracy psychologa
+lastReviewed: 2026-07-30
+reviewCycleMonths: 12
+evidenceCutoffDate: 2026-07-30
 ---
 
 # Tajemnica zawodowa i jej granice
 
-Tajemnica zawodowa psychologa jest jednym z fundamentów relacji terapeutycznej - bez gwarancji poufności klienci nie byliby skłonni do szczerego dzielenia się swoimi problemami. Jednocześnie prawo i etyka przewidują sytuacje, w których obowiązek milczenia ustępuje innym wartościom: ochronie życia, bezpieczeństwu dzieci czy wymogom wymiaru sprawiedliwości.
+Tajemnica zawodowa chroni nie tylko treść rozmowy, lecz każdą informację związaną z klientem, którą psycholog uzyskał podczas wykonywania zawodu. Poufność jest regułą. Ujawnienie informacji wymaga konkretnej podstawy prawnej albo spełnienia przesłanki zagrożenia określonej w ustawie; sama użyteczność informacji dla rodziny, pracodawcy czy zespołu nie wystarcza.
 
----
+> **Stan prawny:** 30 lipca 2026 r. Poniższy opis dotyczy Polski i praktyki psychologa. Szczególne role, na przykład biegłego, psychologa udzielającego świadczeń zdrowotnych lub pracownika szkoły, wiążą się z dodatkowymi przepisami.
 
-## Podstawy prawne w Polsce
+## Podstawa i zakres obowiązku prawnego
 
-Tajemnica zawodowa psychologa wynika z kilku aktów prawnych:
+Podstawową regulacją jest art. 14 ust. 1 ustawy z 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów: psycholog zachowuje w tajemnicy informacje związane z klientem, uzyskane w związku z wykonywaniem zawodu. Obowiązek nie jest ograniczony w czasie (art. 14 ust. 2). Obejmuje zatem między innymi:
 
-| Akt prawny | Przepis | Treść |
-|---|---|---|
-| **Ustawa o zawodzie psychologa** (2001) | Art. 14 | Psycholog zobowiązany do zachowania w tajemnicy informacji uzyskanych w związku z wykonywaniem zawodu |
-| **Kodeks postępowania karnego** | Art. 180 §2 | Psycholog jako osoba dysponująca tajemnicą zawodową; zwolnienie możliwe tylko na mocy postanowienia sądu |
-| **Kodeks karny** | Art. 266 §1 | Ujawnienie informacji objętej tajemnicą zawodową zagrożone karą pozbawienia wolności do lat 2 |
-| **RODO / Ustawa o ochronie danych osobowych** | Art. 9 RODO | Dane dotyczące zdrowia psychicznego jako dane szczególnej kategorii - wzmocniona ochrona |
-| **Ustawa o ochronie małoletnich** (2023) | Art. 12 | Obowiązek zawiadomienia o krzywdzeniu dziecka |
+- sam fakt korzystania z usług psychologa;
+- wypowiedzi klienta oraz informacje uzyskane od jego bliskich i innych osób;
+- wyniki testów, obserwacje, rozpoznania, opinie i wnioski diagnostyczne;
+- notatki robocze, nagrania i dokumentację, niezależnie od nośnika.
 
----
+Art. 14 ust. 3 tej ustawy przewiduje dwie granice obowiązku: poważne zagrożenie zdrowia lub życia klienta albo innych osób (pkt 1) oraz przypadek przewidziany w ustawie (pkt 2). Nie ustanawia natomiast ogólnej zasady, że każda zgoda klienta automatycznie „zwalnia z tajemnicy”. Zgoda może być podstawą przekazania danych w granicach celu uzgodnionego z klientem, ale psycholog nadal powinien badać podstawę prawną, zakres żądania i przepisy właściwe dla miejsca pracy.
 
-## Zakres tajemnicy zawodowej
+Nie należy utożsamiać tajemnicy zawodowej z ochroną danych osobowych. Są to nakładające się, lecz odrębne obowiązki. Dane o zdrowiu należą do szczególnych kategorii danych (art. 9 ust. 1 RODO), ale mogą być przetwarzane także na innych podstawach niż wyraźna zgoda, między innymi w celu diagnozy i opieki zdrowotnej po spełnieniu warunków art. 9 ust. 2 lit. h i ust. 3 RODO. Administrator dobiera zabezpieczenia adekwatne do ryzyka (art. 32 RODO), prowadzi rejestr czynności na zasadach art. 30 RODO, a naruszenie zgłasza organowi nadzorczemu, co do zasady, w ciągu 72 godzin, chyba że jest mało prawdopodobne, by powodowało ryzyko naruszenia praw lub wolności (art. 33 ust. 1 RODO).
 
-Tajemnica obejmuje **wszystko, czego psycholog dowiedział się w związku z wykonywaniem zawodu**, w tym:
+## Wyjątki i sytuacje graniczne
 
-- treść wypowiedzi, wyznań i ujawnionych informacji,
-- wyniki badań diagnostycznych i psychologicznych,
-- dokumentację kliniczną i notatki z sesji,
-- **sam fakt korzystania z pomocy psychologicznej** - nawet to, że dana osoba jest klientem, jest objęte tajemnicą.
+### Poważne zagrożenie zdrowia lub życia
 
-### Czas trwania
+Art. 14 ust. 3 pkt 1 ustawy o zawodzie psychologa pozwala odstąpić od tajemnicy, gdy poważnie zagrożone są zdrowie lub życie klienta albo innych osób. Przepis nie wymaga, aby zagrożenie było już „bezpośrednie”, lecz ujawnienie powinno służyć ochronie zagrożonego dobra i ograniczać się do informacji potrzebnych odbiorcy zdolnemu podjąć działanie, na przykład dyspozytorowi numeru alarmowego lub Policji.
 
-Tajemnica zawodowa **nie wygasa po zakończeniu terapii** ani po śmierci klienta. Psycholog zobowiązany jest do zachowania poufności bezterminowo, chyba że klient (lub jego prawny następca) wyrazi zgodę na ujawnienie.
+Art. 162 § 1 Kodeksu karnego ustanawia odrębny, powszechny obowiązek udzielenia pomocy osobie znajdującej się w bezpośrednim niebezpieczeństwie utraty życia albo ciężkiego uszczerbku na zdrowiu, jeśli można pomóc bez narażenia siebie lub innej osoby na takie niebezpieczeństwo. Nie jest to jednak ogólny polski odpowiednik obowiązku ostrzeżenia konkretnej potencjalnej ofiary. Przyjęcie do szpitala psychiatrycznego bez zgody następuje na zasadach art. 23 ust. 1-5 ustawy o ochronie zdrowia psychicznego; psycholog może przekazać ocenę ryzyka i wezwać pomoc, ale sam nie wydaje decyzji o przyjęciu.
 
----
+### Przemoc wobec dziecka
 
-## Wyjątki od tajemnicy zawodowej
+Nie istnieje jeden przepis nakazujący psychologowi zgłaszanie każdego podejrzenia „krzywdzenia dziecka”. Trzeba ustalić charakter zdarzenia i właściwą podstawę:
 
-### 1. Bezpośrednie zagrożenie życia
+- art. 240 § 1 Kodeksu karnego nakazuje niezwłocznie zawiadomić Policję lub prokuratora o wiarygodnej wiadomości o przygotowaniu, usiłowaniu albo dokonaniu jednego z enumeratywnie wskazanych czynów, w tym niektórych zabójstw, ciężkiego uszczerbku na zdrowiu, zgwałceń kwalifikowanych oraz przestępstw seksualnych wobec małoletnich z art. 200 k.k.; katalog jest zamknięty;
+- art. 12 ust. 1 ustawy o przeciwdziałaniu przemocy domowej nakazuje osobie, która w związku z wykonywaniem obowiązków służbowych lub zawodowych powzięła podejrzenie ściganego z urzędu przestępstwa z użyciem przemocy domowej, niezwłocznie zawiadomić Policję lub prokuratora;
+- art. 572 § 1 i 2 Kodeksu postępowania cywilnego nakazuje zawiadomić sąd opiekuńczy o zdarzeniu uzasadniającym wszczęcie postępowania z urzędu; przepis wskazuje w szczególności placówki oświatowe, opiekunów społecznych oraz organizacje zajmujące się opieką nad dziećmi;
+- gdy czyn jest przestępstwem ściganym z urzędu, lecz nie mieści się w art. 240 § 1 k.k. ani w szczególnej podstawie nakazu, art. 304 § 1 k.p.k. ustanawia społeczny, a nie powszechny prawny obowiązek zawiadomienia; instytucje państwowe i samorządowe mają obowiązek prawny na podstawie art. 304 § 2 k.p.k.
 
-Gdy istnieje **bezpośrednie, poważne i wiarygodne zagrożenie** dla życia klienta lub osoby trzeciej, psycholog może i powinien podjąć działania ochronne, w tym:
-- wezwanie służb ratunkowych,
-- zawiadomienie wskazanej osoby bliskiej (za zgodą lub bez, jeśli zagrożenie jest bezpośrednie),
-- hospitalizację przymusową (w trybie art. 23 ustawy o ochronie zdrowia psychicznego).
+Standardy ochrony małoletnich, wymagane przez art. 22b i określone w art. 22c ustawy o przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym i ochronie małoletnich, mają opisywać procedurę interwencji i osoby odpowiedzialne za zawiadomienia. Nie tworzą same w sobie nieograniczonego wyjątku od tajemnicy. W każdej interwencji należy udokumentować podstawę, rozdzielić zgłoszenie organom ścigania od zawiadomienia sądu opiekuńczego i nie przekazywać informacji zbędnych dla celu ochronnego.
 
-### 2. Obowiązek zawiadomienia o krzywdzeniu dzieci
+### Postępowanie karne i cywilne
 
-Na mocy **Ustawy o ochronie małoletnich (2023)**, psycholog mający uzasadnione podejrzenie krzywdzenia dziecka jest zobowiązany do zawiadomienia organów (policja, prokuratura, sąd rodzinny). Obowiązek ten **ma pierwszeństwo przed tajemnicą zawodową**.
+W postępowaniu karnym psycholog nie został wymieniony w katalogu tajemnic z art. 180 § 2 k.p.k. Co do zasady stosuje się art. 180 § 1 k.p.k.: sąd, a w postępowaniu przygotowawczym prokurator, może zwolnić z obowiązku zachowania tajemnicy zawodowej, gdy jest to niezbędne dla dobra wymiaru sprawiedliwości. Psycholog nie powinien więc ujawniać informacji wyłącznie dlatego, że otrzymał nieformalne pytanie strony, Policji lub pełnomocnika. Przy żądaniu wydania dokumentu zastosowanie mają także art. 217 § 1 i 2 oraz art. 225 § 1 i 4 k.p.k.; osoba powołująca się na tajemnicę przekazuje dokument w opakowaniu bez zapoznawania się z jego treścią, a organ kieruje go do sądu lub prokuratora.
 
-Dobra praktyka polega na uprzedzeniu klienta o tym obowiązku podczas podpisywania zgody na pracę.
+W postępowaniu cywilnym art. 261 § 2 k.p.c. pozwala świadkowi odmówić odpowiedzi na pytanie, jeżeli zeznanie byłoby połączone z pogwałceniem istotnej tajemnicy zawodowej. Jest to inny mechanizm niż zwolnienie z art. 180 k.p.k.; nie należy przenosić reguł procesu karnego do spraw cywilnych. Rola biegłego jest jeszcze inna: badanie odbywa się na zlecenie organu, a wynik trafia do opinii w granicach tezy dowodowej. Osobę badaną trzeba przed badaniem poinformować o tej roli i odbiorcach opinii.
 
-### 3. Nakaz sądowy
+### Praca zespołowa, konsultacja i superwizja
 
-Sąd może zwolnić psychologa z tajemnicy zawodowej **postanowieniem sądu** (art. 180 §2 k.p.k.). Psycholog ma prawo wnioskować o utrzymanie poufności; ostateczna decyzja należy do sądu.
+Sam fakt, że inne osoby pracują w tej samej placówce lub „zespole”, nie uchyla art. 14 ust. 1 ustawy o zawodzie psychologa. Podstawę i zakres dostępu trzeba ustalać z uwzględnieniem rodzaju usługi. W podmiocie leczniczym osoby wykonujące zawód medyczny uczestniczące w udzielaniu świadczeń mogą uzyskać dokumentację na podstawie art. 26 ust. 3 pkt 1 ustawy o prawach pacjenta i Rzeczniku Praw Pacjenta; nie oznacza to dostępu całego personelu do całości akt. Poza takim reżimem potrzebna jest inna podstawa prawna lub świadoma zgoda klienta.
 
-### 4. Superwizja i konsultacja
+Konsultacja i superwizja są zaleceniami organizacyjnymi i etycznymi, nie ustawowymi wyjątkami od tajemnicy. Kodeks Etyczny Psychologa PTP z 2018 r., w części „Prywatność i poufność”, nakazuje chronić poufność i uprzedzać o jej ograniczeniach. Najbezpieczniej omawiać przypadek po skutecznej anonimizacji; gdy identyfikacja jest potrzebna, należy wcześniej ustalić właściwą podstawę ujawnienia i ograniczyć krąg odbiorców.
 
-Omawiane przypadki w ramach superwizji lub konsultacji koleżeńskiej są dopuszczalne, jednak wymagają **anonimizacji danych** lub uzyskania **zgody klienta**.
+## Tajemnica zawodowa w diagnozie psychologicznej
 
----
+### Informowanie osoby badanej
 
-## Doktryna Tarasoff - obowiązek ostrzegania
+Przed rozpoczęciem diagnozy psycholog powinien odróżnić informacje wymagane przez prawo od dobrej praktyki. Art. 12 ust. 1 ustawy o zawodzie psychologa wymaga zgody klienta na usługi psychologiczne, z wyjątkami wskazanymi w art. 12 ust. 2. Art. 13 ust. 1 zobowiązuje psychologa do poinformowania klienta o celu postępowania, jego przebiegu, wynikach i sposobie ich udostępnienia.
 
-W 1976 r. Sąd Najwyższy Kalifornii wydał przełomowe orzeczenie w sprawie **Tarasoff v. Regents of the University of California**. Terapeuta wiedział, że jego pacjent planuje zabić konkretną osobę (Tatianę Tarasoff), ale nie ostrzegł jej ani jej rodziny. Sąd uznał, że terapeuta miał **obowiązek prawny ostrzeżenia** (*duty to warn*) możliwej ofiary.
+Zaleceniem etycznym jest omówienie przed badaniem także:
 
-### Implikacje dla praktyki
+- zakresu poufności i możliwych ustawowych wyjątków;
+- tego, kto zleca badanie, kto otrzyma opinię i w jakim zakresie;
+- zasad przechowywania dokumentacji i dostępu w placówce;
+- sposobu przekazania wyników osobie badanej.
 
-| Aspekt | Treść |
-|---|---|
-| **Obowiązek ostrzeżenia** | Gdy klient ujawnia konkretny plan skrzywdzenia zidentyfikowanej osoby |
-| **Obowiązek ochrony** | Szerszy: terapeuta musi podjąć kroki chroniące ofiarę (hospitalizacja, powiadomienie policji, ostrzeżenie) |
-| **Status w Polsce** | Brak bezpośredniego odpowiednika, ale analogiczne obowiązki wynikają z art. 162 k.k. (nieudzielenie pomocy) i zasad etycznych |
+Informacja powinna być zrozumiała, dostosowana do wieku i możliwości poznawczych. Jej pisemne potwierdzenie ułatwia wykazanie, co uzgodniono, ale nie zastępuje rozmowy i nie tworzy podstawy do ujawnienia szerszej niż opisana w formularzu.
 
----
+### Dokumentacja diagnostyczna
 
-## Ochrona danych elektronicznych - RODO
+Akta diagnozy mogą obejmować protokoły, arkusze wyników, nagrania, notatki, raport i korespondencję. Należy rozdzielić obowiązki zależnie od kontekstu:
 
-W erze cyfrowej tajemnica zawodowa obejmuje również **dane elektroniczne**:
+- **w podmiocie udzielającym świadczeń zdrowotnych** dokumentacja psychologiczna może stanowić dokumentację medyczną; zasady jej prowadzenia i ochrony wynikają z art. 24 ust. 1-2 ustawy o prawach pacjenta i Rzeczniku Praw Pacjenta, dostęp z art. 23 i 26, a okresy przechowywania z art. 29 tej ustawy (zasada ogólna wynosi 20 lat, z wyjątkami wskazanymi w tym przepisie);
+- **poza świadczeniami zdrowotnymi** nie ma ogólnej ustawowej zasady „minimum pięciu lat” dla każdej dokumentacji psychologa. Okres retencji trzeba wyznaczyć z właściwych przepisów sektorowych, celu i zasady ograniczenia przechowywania z art. 5 ust. 1 lit. e RODO;
+- niezależnie od formy nośnika trzeba kontrolować uprawnienia, wykonywać bezpieczne kopie, chronić transmisję i usuwać dane zgodnie z przyjętym okresem retencji; art. 32 RODO wymaga środków adekwatnych do ryzyka, nie narzuca jednej techniki, na przykład szyfrowania w każdym przypadku.
 
-- Dokumentacja kliniczna przechowywana elektronicznie musi być szyfrowana i zabezpieczona hasłem.
-- Korzystanie z platform do terapii online wymaga weryfikacji zgodności z RODO (art. 9 - dane dotyczące zdrowia).
-- **Dane psychologiczne** są danymi szczególnej kategorii i wymagają wyraźnej zgody na przetwarzanie.
-- Psycholog jest zobowiązany do prowadzenia **rejestru czynności przetwarzania** danych osobowych.
-- W przypadku naruszenia bezpieczeństwa danych (np. wyciek dokumentacji) psycholog zobowiązany jest powiadomić **Urząd Ochrony Danych Osobowych** (UODO) w ciągu 72 godzin.
+Rodzic dorosłej osoby, pracodawca ani ubezpieczyciel nie uzyskuje dostępu tylko z racji swojej relacji z badaną osobą. W ochronie zdrowia katalog odbiorców i warunki udostępniania określa art. 26 ustawy o prawach pacjenta; w innych kontekstach trzeba wskazać odrębną podstawę prawną. Przekazuje się wynik odpowiadający celowi diagnozy, a nie automatycznie komplet materiałów roboczych i treść wszystkich wypowiedzi.
 
----
+### Przekazywanie wyników badania
 
-## Konsultacje zespołowe
+Osoba badana powinna otrzymać informację o wynikach i sposobie ich udostępnienia zgodnie z art. 13 ust. 1 ustawy o zawodzie psychologa. W praktyce oznacza to wyjaśnienie wniosków, ograniczeń metod oraz tego, do jakich decyzji wynik może, a do jakich nie powinien być używany.
 
-W pracy instytucjonalnej (szpital, poradnia, szkoła) informacje o klientach są często przekazywane w ramach **zespołu terapeutycznego**. Jest to etycznie dopuszczalne pod warunkiem, że:
-1. klient wyraził zgodę lub jest to oczywisty element świadczonej usługi,
-2. informacje przekazywane są wyłącznie osobom bezpośrednio zaangażowanym w opiekę,
-3. wszyscy członkowie zespołu są objęci tajemnicą zawodową.
+Jeżeli diagnozę zleca sąd, pracodawca, szkoła lub inna instytucja, jeszcze przed badaniem należy wyjaśnić osobie badanej, kto jest odbiorcą i jaki jest cel opinii. Zaleceniem etycznym i organizacyjnym jest stosowanie zasady minimalizacji: odbiorcy przekazuje się wnioski niezbędne dla określonego celu, a nie pełną historię życia czy surowe dane testowe. Zasada minimalizacji danych ma również wymiar prawny na gruncie art. 5 ust. 1 lit. c RODO.
 
----
+## Doktryna Tarasoff: kontekst amerykański
 
+W sprawie *Tarasoff v. Regents of the University of California* (Supreme Court of California, 17 Cal.3d 425, 1976) sformułowano w prawie Kalifornii obowiązek podjęcia rozsądnych działań dla ochrony możliwej do zidentyfikowania osoby zagrożonej przez pacjenta. Rozstrzygnięcie bywa streszczane jako *duty to warn*, choć jego sens jest szerszy i dotyczy ochrony.
 
+Wyrok amerykańskiego sądu nie jest źródłem prawa w Polsce i nie może samodzielnie uzasadniać ujawnienia danych przez polskiego psychologa. W Polsce decyzję należy oprzeć na art. 14 ust. 3 ustawy o zawodzie psychologa oraz, zależnie od faktów, na przykład na art. 162 lub art. 240 k.k. Doktryna Tarasoff pozostaje użytecznym kontekstem etycznym do analizy ryzyka, możliwych odbiorców ostrzeżenia i proporcjonalności działania.
 
-Tajemnica zawodowa jest zarówno obowiązkiem prawnym, jak i etycznym filarem relacji psycholog–klient. Jej granice wyznaczają trzy wartości nadrzędne: **ochrona życia**, **bezpieczeństwo dzieci** i **wymogi wymiaru sprawiedliwości**. Psycholog powinien zawczasu informować klientów o zakresie poufności i jej wyjątkach, co nie tylko wypełnia wymogi etyczne, ale też buduje zaufanie oparte na jasnych regułach.
+## Jak podejmować i dokumentować decyzję
 
----## Bibliografia
+W sytuacji granicznej warto kolejno ustalić:
 
-- Ustawa z dnia 8 czerwca 2001 r. o zawodzie psychologa. Dz.U. 2001 nr 73 poz. 763.
-- Ustawa z dnia 28 lipca 2023 r. o ochronie małoletnich. Dz.U. 2023 poz. 1606.
-- Kodeks postępowania karnego, art. 180 §2.
-- Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/679 (RODO), art. 9.
-- Tarasoff v. Regents of the University of California, 17 Cal.3d 425 (1976).
-- Polskie Towarzystwo Psychologiczne. (2018). *Kodeks Etyczno-Zawodowy Psychologa*. PTP.
-- Knapp, S. J., & VandeCreek, L. D. (2012). *Practical ethics for psychologists* (2nd ed.). APA.
+1. co dokładnie wiadomo, jak wiarygodne i pilne jest zagrożenie;
+2. czy istnieje konkretna podstawa prawna ujawnienia albo obowiązek zawiadomienia;
+3. kto może skutecznie ograniczyć zagrożenie;
+4. jaki minimalny zakres informacji jest potrzebny;
+5. czy można bezpiecznie poinformować klienta o planowanym działaniu;
+6. jak udokumentować fakty, konsultację, podstawę prawną, odbiorcę i zakres ujawnienia.
 
-## Perspektywa nieoczywista
+Konsultacja prawna lub superwizyjna może poprawić jakość decyzji, lecz nie przenosi odpowiedzialności z psychologa na konsultanta. W nagłym zagrożeniu nie należy opóźniać pomocy tylko po to, aby uzyskać konsultację.
 
-Nieoczywista perspektywa na temat "Tajemnica zawodowa i jej granice" polega na tym, że etyka zawodowa nie sprowadza się do mechanicznego stosowania reguł, lecz wymaga ważenia dóbr, ryzyk i odpowiedzialności w warunkach niepewności.
+## Bibliografia
 
-Dopiero wspólna analiza zagadnień takich jak podstawy prawne w polsce, doktryna tarasoff - obowiązek ostrzegania oraz konsultacje zespołowe pokazuje pełny zakres omawianego zjawiska.
-
-Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
-
-## Podsumowanie
-
-Temat "Tajemnica zawodowa i jej granice" pokazuje, że najbardziej dojrzałe wnioski etyczne wynikają z łączenia zasad, kontekstu sytuacyjnego i refleksji nad skutkami decyzji.
-
-
-Dopiero wspólna analiza zagadnień takich jak podstawy prawne w polsce, doktryna tarasoff - obowiązek ostrzegania oraz konsultacje zespołowe pokazuje pełny zakres omawianego zjawiska.## Bibliografia
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+- Kodeks Etyczny Psychologa Polskiego Towarzystwa Psychologicznego, przyjęty 2 grudnia 2018 r., część „Prywatność i poufność”.
+- Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/679 z 27 kwietnia 2016 r. (RODO), art. 5, 9, 30, 32 i 33.
+- *Tarasoff v. Regents of the University of California*, 17 Cal.3d 425 (Supreme Court of California 1976).
+- Ustawa z 17 listopada 1964 r. Kodeks postępowania cywilnego, art. 261 i 572.
+- Ustawa z 6 czerwca 1997 r. Kodeks karny, art. 162, 240 i 266.
+- Ustawa z 6 czerwca 1997 r. Kodeks postępowania karnego, art. 180, 217, 225 i 304.
+- Ustawa z 19 sierpnia 1994 r. o ochronie zdrowia psychicznego, art. 23.
+- Ustawa z 29 lipca 2005 r. o przeciwdziałaniu przemocy domowej, art. 12.
+- Ustawa z 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów, art. 12-14.
+- Ustawa z 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, art. 23, 24, 26 i 29.
+- Ustawa z 13 maja 2016 r. o przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym i ochronie małoletnich, art. 22b-22c.

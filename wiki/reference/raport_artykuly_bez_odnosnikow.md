@@ -228,7 +228,7 @@ Poni9=ej znajdujďż˝& siďż˝" bezpo9:rednie odno9:niki do artyku9Bw bez li
 - [`diagnoza/formulowanie_przypadku.md`](../diagnoza/formulowanie_przypadku.md)
 - [`diagnoza/obserwacja_kliniczna.md`](../diagnoza/obserwacja_kliniczna.md)
 - [`diagnoza/opinia_psychologiczna.md`](../diagnoza/opinia_psychologiczna.md)
-- [`diagnoza/tajemnica_zawodowa.md`](../diagnoza/tajemnica_zawodowa.md)
+- [Tajemnica zawodowa w diagnozie](../etyka/tajemnica_zawodowa_granice.md#tajemnica-zawodowa-w-diagnozie-psychologicznej)
 - [`diagnoza/techniki_projekcyjne.md`](../diagnoza/techniki_projekcyjne.md)
 - [`diagnoza/wywiad_psychologiczny.md`](../diagnoza/wywiad_psychologiczny.md)
 
@@ -881,7 +881,7 @@ Temat tego artyku9u jest istotny dla praktyki psychologicznej, poniewa9= 9ďż
 W tym artykule kluczowe pojďż˝"cia sďż˝& rozumiane w sposBb operacyjny, tak aby mo9=na je by9o stosowaďż˝! w badaniach i praktyce. Definicja zjawiska obejmuje zarBwno jego kryteria rozpoznania, jak i granice pojďż˝"ciowe odrB9=niajďż˝&ce je od konstruktBw pokrewnych. Warto pamiďż˝"taďż˝!, 9=e czďż˝"9:ďż˝! terminBw ma kilka konkurencyjnych ujďż˝"ďż˝!, zale9=nie od szko9y teoretycznej. Dlatego podczas interpretacji wynikBw nale9=y zawsze wskazaďż˝!, ktBrďż˝& definicjďż˝" przyjďż˝"to i dlaczego. Taka precyzja terminologiczna zwiďż˝"ksza porBwnywalno9:ďż˝! danych oraz jako9:ďż˝! wnioskowania.
 
 
- przekrojowych, jak i pod9u9=nych, poniewa9= odpowiadajďż˝& one na rB9=ne pytania. Ograniczeniem bywa heterogeniczno9:ďż˝! prBb i narzďż˝"dzi pomiarowych, ktBra utrudnia bezpo9:rednie porBwnania miďż˝"dzy badaniami. Mimo tych ogranicze9 spBjny obraz zjawiska mo9=na uzyskaďż˝!, 9ďż˝&czďż˝&c dane ilo9:ciowe, jako9:ciowe i kliniczne.
+ spBjny obraz zjawiska mo9=na uzyskaďż˝!, 9ďż˝&czďż˝&c dane ilo9:ciowe, jako9:ciowe i kliniczne.
 
 
 ## Praktyczne przykłady

@@ -33,6 +33,7 @@ window.SITE_CONFIG = {
     'psychosomatyka/aleksytymia': 'emocje/aleksytymia',
     'zaburzenia/asd': 'neuroroznorodnosc/spektrum_autyzmu',
     'seminarium_dyplomowe/etyka_badan': 'etyka/etyka_badan',
+    'diagnoza/tajemnica_zawodowa': 'etyka/tajemnica_zawodowa_granice',
     'psychologia_szkolna/ocenianie_i_feedback': 'psychologia_szkolna/ocenianie_i_informacja_zwrotna',
     'systemy_rodzinne/internal_family_systems_ifs': 'systemy_rodzinne/terapia_systemow_wewnetrznej_rodziny_ifs',
     'wstep_do_psychologii/etyka_badan_psychologicznych': 'etyka/etyka_badan',
@@ -392,7 +393,7 @@ window.SITE_CONFIG = {
         { id: 'etyka/kodeksy_etyczne', label: 'Kodeksy etyczne - przeglad', file: 'wiki/etyka/kodeksy_etyczne.md' },
         { id: 'etyka/zasady_apa_ptp', label: 'Zasady APA i PTP', file: 'wiki/etyka/zasady_apa_ptp.md' },
         { id: 'etyka/dobro_nieszkodzenie', label: 'Dobro i nieszkodzenie', file: 'wiki/etyka/dobro_nieszkodzenie.md' },
-        { id: 'etyka/tajemnica_zawodowa_granice', label: 'Tajemnica zawodowa i jej granice', file: 'wiki/etyka/tajemnica_zawodowa_granice.md' },
+        { id: 'etyka/tajemnica_zawodowa_granice', label: 'Tajemnica zawodowa i jej granice', aliases: ['Tajemnica zawodowa psychologa', 'Poufność w pracy psychologa'], file: 'wiki/etyka/tajemnica_zawodowa_granice.md' },
         { id: 'etyka/swiadoma_zgoda', label: 'Świadoma zgoda', file: 'wiki/etyka/swiadoma_zgoda.md' },
         { id: 'etyka/granice_relacji', label: 'Granice relacji terapeutycznej', file: 'wiki/etyka/granice_relacji.md' },
         { id: 'etyka/superwizja_odpowiedzialnosc', label: 'Superwizja i odpowiedzialność', file: 'wiki/etyka/superwizja_odpowiedzialnosc.md' },
@@ -416,7 +417,6 @@ window.SITE_CONFIG = {
         { id: 'diagnoza/formulowanie_przypadku', label: 'Formulowanie przypadku', file: 'wiki/diagnoza/formulowanie_przypadku.md' },
         { id: 'diagnoza/techniki_projekcyjne', label: 'Techniki projekcyjne', file: 'wiki/diagnoza/techniki_projekcyjne.md' },
         { id: 'diagnoza/opinia_psychologiczna', label: 'Opinia psychologiczna', file: 'wiki/diagnoza/opinia_psychologiczna.md' },
-        { id: 'diagnoza/tajemnica_zawodowa', label: 'Tajemnica zawodowa', file: 'wiki/diagnoza/tajemnica_zawodowa.md' },
         { id: 'diagnoza/diagnoza_stygmatyzacja', label: 'Diagnoza, a stygmatyzacja', file: 'wiki/diagnoza/diagnoza_stygmatyzacja.md' },
       ]
     },
@@ -2088,7 +2088,6 @@ window.SITE_CONFIG = {
       { file: 'wiki/diagnoza/formulowanie_przypadku.md',         label: 'Formulowanie przypadku',             status: 'live' },
       { file: 'wiki/diagnoza/techniki_projekcyjne.md',           label: 'Techniki projekcyjne',               status: 'live' },
       { file: 'wiki/diagnoza/opinia_psychologiczna.md',          label: 'Opinia psychologiczna',              status: 'live' },
-      { file: 'wiki/diagnoza/tajemnica_zawodowa.md',             label: 'Tajemnica zawodowa',                 status: 'live' },
       { file: 'wiki/diagnoza/diagnoza_stygmatyzacja.md',         label: 'Diagnoza, a stygmatyzacja',          status: 'live' },
     ],
     rozwojowa: [
@@ -2635,7 +2634,7 @@ window.SITE_CONFIG = {
           title: 'Etyka i prawo',
           articles: [
             { label: 'Opinia psychologiczna', id: 'diagnoza/opinia_psychologiczna', status: 'live' },
-            { label: 'Tajemnica zawodowa', id: 'diagnoza/tajemnica_zawodowa', status: 'live' },
+            { label: 'Tajemnica zawodowa w diagnozie', id: 'etyka/tajemnica_zawodowa_granice', sectionId: 'tajemnica-zawodowa-w-diagnozie-psychologicznej', status: 'xlink' },
             { label: 'Diagnoza, a stygmatyzacja', id: 'diagnoza/diagnoza_stygmatyzacja', status: 'live' },
           ]
         },

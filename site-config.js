@@ -15,6 +15,18 @@ window.SITE_CONFIG = {
 
   // Zachowuje dawne adresy SPA po scaleniu lub przeniesieniu artykułów.
   articleRedirects: {
+    'reagowanie_na_krytyke/czym_jest_krytyka_i_informacja_zwrotna': 'reagowanie_na_krytyke/jak_nie_brac_do_siebie_opinii_innych',
+    'reagowanie_na_krytyke/granice_i_asertywnosc': 'reagowanie_na_krytyke/jak_nie_brac_do_siebie_opinii_innych',
+    'reagowanie_na_krytyke/mentalizacja_i_intencje_nadawcy': 'reagowanie_na_krytyke/jak_nie_brac_do_siebie_opinii_innych',
+    'reagowanie_na_krytyke/mikrointerwencje_w_czasie_rzeczywistym': 'reagowanie_na_krytyke/jak_nie_brac_do_siebie_opinii_innych',
+    'reagowanie_na_krytyke/model_sbi_nvc_w_praktyce': 'reagowanie_na_krytyke/jak_nie_brac_do_siebie_opinii_innych',
+    'reagowanie_na_krytyke/najczestsze_bledy_po_krytyce': 'reagowanie_na_krytyke/jak_nie_brac_do_siebie_opinii_innych',
+    'reagowanie_na_krytyke/neurobiologia_stresu_oceny': 'reagowanie_na_krytyke/jak_nie_brac_do_siebie_opinii_innych',
+    'reagowanie_na_krytyke/plan_30_dni_trening_odpornosci': 'reagowanie_na_krytyke/jak_nie_brac_do_siebie_opinii_innych',
+    'reagowanie_na_krytyke/samowspolczucie_i_act': 'reagowanie_na_krytyke/jak_nie_brac_do_siebie_opinii_innych',
+    'reagowanie_na_krytyke/schematy_poznawcze_i_znieksztalcenia': 'reagowanie_na_krytyke/jak_nie_brac_do_siebie_opinii_innych',
+    'reagowanie_na_krytyke/style_reagowania_na_krytyke': 'reagowanie_na_krytyke/jak_nie_brac_do_siebie_opinii_innych',
+    'reagowanie_na_krytyke/trudne_rozmowy_w_pracy': 'reagowanie_na_krytyke/jak_nie_brac_do_siebie_opinii_innych',
     'resocjalizacja/desistance_i_zmiana_tozsamosci': 'resocjalizacja/podstawy_resocjalizacji',
     'resocjalizacja/diagnoza_ryzyka_i_potrzeb': 'resocjalizacja/podstawy_resocjalizacji',
     'resocjalizacja/edukacja_i_aktywizacja_zawodowa': 'resocjalizacja/podstawy_resocjalizacji',
@@ -1187,23 +1199,11 @@ window.SITE_CONFIG = {
         { id: 'psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka', label: 'Psychologia kliniczna dzieci i młodzieży', file: 'wiki/psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka.md', aliases: ['psychologia kliniczna dziecka', 'psychologia kliniczna dzieci'] },
       ]
     },
-    { /* Reagowanie na krytyke */
-      section: 'Reagowanie na krytyke',
+    { /* Reagowanie na krytykę */
+      section: 'Reagowanie na krytykę',
       domainKey: 'reagowanie_na_krytyke',
       items: [
-        { id: 'reagowanie_na_krytyke/czym_jest_krytyka_i_informacja_zwrotna', label: 'Krytyka, a informacja zwrotna - rozroznienie', file: 'wiki/reagowanie_na_krytyke/czym_jest_krytyka_i_informacja_zwrotna.md' },
-        { id: 'reagowanie_na_krytyke/style_reagowania_na_krytyke', label: 'Style reagowania na krytyke', file: 'wiki/reagowanie_na_krytyke/style_reagowania_na_krytyke.md' },
-        { id: 'reagowanie_na_krytyke/neurobiologia_stresu_oceny', label: 'Neurobiologia stresu oceny', file: 'wiki/reagowanie_na_krytyke/neurobiologia_stresu_oceny.md' },
-        { id: 'reagowanie_na_krytyke/schematy_poznawcze_i_znieksztalcenia', label: 'Schematy poznawcze i znieksztalcenia', file: 'wiki/reagowanie_na_krytyke/schematy_poznawcze_i_znieksztalcenia.md' },
-        { id: 'reagowanie_na_krytyke/mentalizacja_i_intencje_nadawcy', label: 'Mentalizacja i intencje nadawcy', file: 'wiki/reagowanie_na_krytyke/mentalizacja_i_intencje_nadawcy.md' },
-        { id: 'reagowanie_na_krytyke/granice_i_asertywnosc', label: 'Granice i asertywnosc', file: 'wiki/reagowanie_na_krytyke/granice_i_asertywnosc.md' },
-        { id: 'reagowanie_na_krytyke/model_sbi_nvc_w_praktyce', label: 'Model SBI i NVC w praktyce', file: 'wiki/reagowanie_na_krytyke/model_sbi_nvc_w_praktyce.md' },
-        { id: 'reagowanie_na_krytyke/samowspolczucie_i_act', label: 'Samowspolczucie i ACT', file: 'wiki/reagowanie_na_krytyke/samowspolczucie_i_act.md' },
-        { id: 'reagowanie_na_krytyke/mikrointerwencje_w_czasie_rzeczywistym', label: 'Mikrointerwencje w czasie rzeczywistym', file: 'wiki/reagowanie_na_krytyke/mikrointerwencje_w_czasie_rzeczywistym.md' },
-        { id: 'reagowanie_na_krytyke/trudne_rozmowy_w_pracy', label: 'Trudne rozmowy w pracy', file: 'wiki/reagowanie_na_krytyke/trudne_rozmowy_w_pracy.md' },
-        { id: 'reagowanie_na_krytyke/najczestsze_bledy_po_krytyce', label: 'Najczestsze błędy po krytyce', file: 'wiki/reagowanie_na_krytyke/najczestsze_bledy_po_krytyce.md' },
-        { id: 'reagowanie_na_krytyke/plan_30_dni_trening_odpornosci', label: 'Plan 30 dni treningu odporności', file: 'wiki/reagowanie_na_krytyke/plan_30_dni_trening_odpornosci.md' },
-        { id: 'reagowanie_na_krytyke/jak_nie_brac_do_siebie_opinii_innych', label: 'Jak nie brac do siebie opinii innych', file: 'wiki/reagowanie_na_krytyke/jak_nie_brac_do_siebie_opinii_innych.md' },
+        { id: 'reagowanie_na_krytyke/jak_nie_brac_do_siebie_opinii_innych', label: 'Jak konstruktywnie reagować na krytykę i informację zwrotną', file: 'wiki/reagowanie_na_krytyke/jak_nie_brac_do_siebie_opinii_innych.md' },
       ]
     },
     { /* Psychologia nadmiernego jedzenia */
@@ -1372,19 +1372,7 @@ window.SITE_CONFIG = {
       { id: 'psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka', label: 'Psychologia kliniczna dzieci i młodzieży', file: 'wiki/psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka.md', status: 'live', aliases: ['psychologia kliniczna dziecka', 'psychologia kliniczna dzieci'] },
     ],
     reacting_to_criticism: [
-      { id: 'reagowanie_na_krytyke/czym_jest_krytyka_i_informacja_zwrotna', label: 'Krytyka, a informacja zwrotna - rozroznienie', file: 'wiki/reagowanie_na_krytyke/czym_jest_krytyka_i_informacja_zwrotna.md', status: 'live' },
-      { id: 'reagowanie_na_krytyke/style_reagowania_na_krytyke', label: 'Style reagowania na krytyke', file: 'wiki/reagowanie_na_krytyke/style_reagowania_na_krytyke.md', status: 'live' },
-      { id: 'reagowanie_na_krytyke/neurobiologia_stresu_oceny', label: 'Neurobiologia stresu oceny', file: 'wiki/reagowanie_na_krytyke/neurobiologia_stresu_oceny.md', status: 'live' },
-      { id: 'reagowanie_na_krytyke/schematy_poznawcze_i_znieksztalcenia', label: 'Schematy poznawcze i znieksztalcenia', file: 'wiki/reagowanie_na_krytyke/schematy_poznawcze_i_znieksztalcenia.md', status: 'live' },
-      { id: 'reagowanie_na_krytyke/mentalizacja_i_intencje_nadawcy', label: 'Mentalizacja i intencje nadawcy', file: 'wiki/reagowanie_na_krytyke/mentalizacja_i_intencje_nadawcy.md', status: 'live' },
-      { id: 'reagowanie_na_krytyke/granice_i_asertywnosc', label: 'Granice i asertywnosc', file: 'wiki/reagowanie_na_krytyke/granice_i_asertywnosc.md', status: 'live' },
-      { id: 'reagowanie_na_krytyke/model_sbi_nvc_w_praktyce', label: 'Model SBI i NVC w praktyce', file: 'wiki/reagowanie_na_krytyke/model_sbi_nvc_w_praktyce.md', status: 'live' },
-      { id: 'reagowanie_na_krytyke/samowspolczucie_i_act', label: 'Samowspolczucie i ACT', file: 'wiki/reagowanie_na_krytyke/samowspolczucie_i_act.md', status: 'live' },
-      { id: 'reagowanie_na_krytyke/mikrointerwencje_w_czasie_rzeczywistym', label: 'Mikrointerwencje w czasie rzeczywistym', file: 'wiki/reagowanie_na_krytyke/mikrointerwencje_w_czasie_rzeczywistym.md', status: 'live' },
-      { id: 'reagowanie_na_krytyke/trudne_rozmowy_w_pracy', label: 'Trudne rozmowy w pracy', file: 'wiki/reagowanie_na_krytyke/trudne_rozmowy_w_pracy.md', status: 'live' },
-      { id: 'reagowanie_na_krytyke/najczestsze_bledy_po_krytyce', label: 'Najczestsze błędy po krytyce', file: 'wiki/reagowanie_na_krytyke/najczestsze_bledy_po_krytyce.md', status: 'live' },
-      { id: 'reagowanie_na_krytyke/plan_30_dni_trening_odpornosci', label: 'Plan 30 dni treningu odporności', file: 'wiki/reagowanie_na_krytyke/plan_30_dni_trening_odpornosci.md', status: 'live' },
-      { id: 'reagowanie_na_krytyke/jak_nie_brac_do_siebie_opinii_innych', label: 'Jak nie brac do siebie opinii innych', file: 'wiki/reagowanie_na_krytyke/jak_nie_brac_do_siebie_opinii_innych.md', status: 'live' },
+      { id: 'reagowanie_na_krytyke/jak_nie_brac_do_siebie_opinii_innych', label: 'Jak konstruktywnie reagować na krytykę i informację zwrotną', file: 'wiki/reagowanie_na_krytyke/jak_nie_brac_do_siebie_opinii_innych.md', status: 'live' },
     ],
     overeating_psychology: [
       { id: 'psychologia_nadmiernego_jedzenia/czym_jest_nadmierne_jedzenie', label: 'Nadmierne jedzenie i jedzenie kompulsywne', file: 'wiki/psychologia_nadmiernego_jedzenia/czym_jest_nadmierne_jedzenie.md', status: 'live' },

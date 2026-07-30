@@ -40,6 +40,18 @@ Jedna zmiana powinna obejmować małą, spójną grupę artykułów. Pozwala to 
 
 | Data | Temat kanoniczny | Scalony adres |
 |---|---|---|
+| 2026-07-30 | `wiki/reagowanie_na_krytyke/jak_nie_brac_do_siebie_opinii_innych.md` | `wiki/reagowanie_na_krytyke/czym_jest_krytyka_i_informacja_zwrotna.md` |
+| 2026-07-30 | `wiki/reagowanie_na_krytyke/jak_nie_brac_do_siebie_opinii_innych.md` | `wiki/reagowanie_na_krytyke/granice_i_asertywnosc.md` |
+| 2026-07-30 | `wiki/reagowanie_na_krytyke/jak_nie_brac_do_siebie_opinii_innych.md` | `wiki/reagowanie_na_krytyke/mentalizacja_i_intencje_nadawcy.md` |
+| 2026-07-30 | `wiki/reagowanie_na_krytyke/jak_nie_brac_do_siebie_opinii_innych.md` | `wiki/reagowanie_na_krytyke/mikrointerwencje_w_czasie_rzeczywistym.md` |
+| 2026-07-30 | `wiki/reagowanie_na_krytyke/jak_nie_brac_do_siebie_opinii_innych.md` | `wiki/reagowanie_na_krytyke/model_sbi_nvc_w_praktyce.md` |
+| 2026-07-30 | `wiki/reagowanie_na_krytyke/jak_nie_brac_do_siebie_opinii_innych.md` | `wiki/reagowanie_na_krytyke/najczestsze_bledy_po_krytyce.md` |
+| 2026-07-30 | `wiki/reagowanie_na_krytyke/jak_nie_brac_do_siebie_opinii_innych.md` | `wiki/reagowanie_na_krytyke/neurobiologia_stresu_oceny.md` |
+| 2026-07-30 | `wiki/reagowanie_na_krytyke/jak_nie_brac_do_siebie_opinii_innych.md` | `wiki/reagowanie_na_krytyke/plan_30_dni_trening_odpornosci.md` |
+| 2026-07-30 | `wiki/reagowanie_na_krytyke/jak_nie_brac_do_siebie_opinii_innych.md` | `wiki/reagowanie_na_krytyke/samowspolczucie_i_act.md` |
+| 2026-07-30 | `wiki/reagowanie_na_krytyke/jak_nie_brac_do_siebie_opinii_innych.md` | `wiki/reagowanie_na_krytyke/schematy_poznawcze_i_znieksztalcenia.md` |
+| 2026-07-30 | `wiki/reagowanie_na_krytyke/jak_nie_brac_do_siebie_opinii_innych.md` | `wiki/reagowanie_na_krytyke/style_reagowania_na_krytyke.md` |
+| 2026-07-30 | `wiki/reagowanie_na_krytyke/jak_nie_brac_do_siebie_opinii_innych.md` | `wiki/reagowanie_na_krytyke/trudne_rozmowy_w_pracy.md` |
 | 2026-07-30 | `wiki/resocjalizacja/podstawy_resocjalizacji.md` | `wiki/resocjalizacja/desistance_i_zmiana_tozsamosci.md` |
 | 2026-07-30 | `wiki/resocjalizacja/podstawy_resocjalizacji.md` | `wiki/resocjalizacja/diagnoza_ryzyka_i_potrzeb.md` |
 | 2026-07-30 | `wiki/resocjalizacja/podstawy_resocjalizacji.md` | `wiki/resocjalizacja/edukacja_i_aktywizacja_zawodowa.md` |
@@ -106,6 +118,12 @@ Jedna zmiana powinna obejmować małą, spójną grupę artykułów. Pozwala to 
 | 2026-07-29 | `wiki/psychofarmakologia/11_leki_w_terapii_uzaleznien.md` | `wiki/farmakologia/uzaleznienia_farm.md` |
 | 2026-07-29 | `wiki/diagnoza/formulowanie_przypadku.md` | `wiki/psychopatologia/formulowanie_przypadku.md` |
 | 2026-07-30 | `wiki/etyka/tajemnica_zawodowa_granice.md` | `wiki/diagnoza/tajemnica_zawodowa.md` |
+
+## Konsolidacja reagowania na krytykę i informację zwrotną
+
+Artykuł `wiki/reagowanie_na_krytyke/jak_nie_brac_do_siebie_opinii_innych.md` jest kanonicznym opracowaniem reagowania na krytykę, ocenę i informację zwrotną. Dwanaście tekstów scalono w jeden tok decyzyjny: od rozpoznania reakcji na ocenę i automatycznych interpretacji, przez doprecyzowanie oraz ocenę komunikatu, po odpowiedź, działanie i ćwiczenia. Modele SBI i NVC przedstawiono jako pomoc w porządkowaniu rozmowy, a ACT, samowspółczucie, mentalizację i procesy stresowe opisano wyłącznie w zakresie potrzebnym do zastosowania w tej sytuacji.
+
+Zrezygnowano z twierdzenia, że krytyka dosłownie powoduje ból fizyczny, oraz z arbitralnego planu budowania „odporności” w 30 dni. Oddzielono codzienną krytykę od przemocy psychicznej, mobbingu, nękania i dyskryminacji, dla których zmiana interpretacji odbiorcy nie jest wystarczającą interwencją. Dawne pliki przekierowują do właściwych sekcji, ich identyfikatory SPA obsługuje `articleRedirects`, a nawigacja zawiera wyłącznie opracowanie kanoniczne.
 
 ## Konsolidacja empatii i współczucia
 

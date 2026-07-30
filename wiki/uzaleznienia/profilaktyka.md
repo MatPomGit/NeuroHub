@@ -1,159 +1,72 @@
-﻿---
-lastReviewed: 2026-04-01
+---
+lastReviewed: 2026-07-30
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
 
 # Profilaktyka uzależnień
 
-## Wprowadzenie
+Profilaktyka uzależnień obejmuje działania, które opóźniają rozpoczęcie używania substancji psychoaktywnych, ograniczają ryzykowne wzorce używania i zmniejszają szkody u osób już używających. Jej przedmiotem są zarówno kompetencje jednostki, jak i warunki społeczne, ekonomiczne i fizyczne wpływające na dostępność substancji.
 
-Profilaktyka uzależnień to systematyczne działania ukierunkowane na zapobieganie inicjacji używania substancji psychoaktywnych, opóźnienie jej wieku lub redukcję szkód wynikających z używania - u osób, które jeszcze nie rozwinęły uzależnienia lub są w jego wczesnych stadiach. Skuteczna profilaktyka opiera się na rzetelnej wiedzy o **czynnikach ryzyka i czynnikach ochronnych** oraz na interwencjach, których efektywność potwierdzono w badaniach kontrolowanych.
+## Poziomy profilaktyki w skrócie
 
----
+Interwencje **uniwersalne** obejmują całą populację, **selektywne** są kierowane do grup o zwiększonym ryzyku, a **wskazane** do osób z wczesnymi oznakami problemu. Podział określa adresatów, nie rangę programu ani siłę dowodów. Leczenie rozwiniętego uzależnienia pozostaje niezbędne, lecz nie należy go utożsamiać z profilaktyką (UNODC & WHO, 2018).
 
-## Trzy poziomy profilaktyki
+## Opóźnianie inicjacji
 
-Klasyczny podział wywodzi się z modelu medycznego zapobiegania chorobom (Caplan, 1964) i rozróżnia trzy poziomy:
+Wczesna inicjacja jest markerem podwyższonego ryzyka późniejszych problemów, ale zależność ta odzwierciedla także wspólne uwarunkowania rodzinne, społeczne i indywidualne. Dlatego cel „jak najpóźniej” wymaga nie tylko przekazywania informacji, lecz także rozwijania samoregulacji i umiejętności społecznych, pracy z rodziną oraz ograniczania dostępności substancji.
 
-| Poziom | Cel | Populacja docelowa | Przykłady |
-|--------|-----|-------------------|-----------|
-| **Profilaktyka pierwotna** | Zapobieganie inicjacji | Ogólna populacja, w tym osoby bez ryzyka | Programy szkolne, kampanie medialne |
-| **Profilaktyka wtórna** | Wczesna interwencja, zatrzymanie progresji | Osoby z czynnikami ryzyka lub wczesnym używaniem | SBIRT, brief interventions |
-| **Profilaktyka trzeciorzędowa** | Redukcja szkód, rehabilitacja | Osoby uzależnione | Programy metadonowe, wymiana igieł |
+Program **LifeSkills Training (LST)** łączy wiedzę o substancjach z umiejętnościami osobistymi, społecznymi i odpieraniem presji rówieśniczej. Badanie z sześcioletnią obserwacją wykazało niższą częstość używania kilku substancji w grupie programu, przy czym wielkość efektu zależała od jakości wdrożenia (Botvin i in., 1995). Europejski program **Unplugged**, oparty na korekcie norm i treningu umiejętności, w randomizowanym badaniu klastrowym ograniczał niektóre wskaźniki niedawnego używania alkoholu i konopi po 18 miesiącach, lecz nie wszystkie analizowane wyniki (Faggiano i in., 2010). Te rezultaty dotyczą konkretnych programów; nie uzasadniają twierdzenia, że każda szkolna lekcja profilaktyczna jest skuteczna.
 
-Nowsze podejście SAMHSA (*Substance Abuse and Mental Health Services Administration*) używa klasyfikacji **uniwersalnej, selektywnej i wskazanej**:
+Klasyczny program **D.A.R.E.** jest ważnym kontrprzykładem. Meta-analiza wykazała jedynie znikomy, nieistotny wpływ jego tradycyjnej wersji na używanie substancji (West & O'Neal, 2004). Popularność, rozpoznawalność i zadowolenie uczestników nie zastępują pomiaru zachowania.
 
-- **Uniwersalna** - dla całej populacji bez selekcji
-- **Selektywna** - dla grup podwyższonego ryzyka (np. dzieci alkoholików)
-- **Wskazana** - dla osób wykazujących wczesne oznaki problemu
+## Redukcja szkód
 
----
+Redukcja szkód przyjmuje pragmatyczną kolejność celów: najpierw ograniczenie ryzyka śmierci, zakażenia i urazu, nawet gdy abstynencja nie jest aktualnie osiągalna. Obejmuje dostęp do naloksonu i edukację dotyczącą przedawkowania, programy igieł i strzykawek, leczenie agonistami opioidowymi, testowanie substancji oraz nadzorowane miejsca konsumpcji. Podejście to powinno szanować autonomię osób używających substancji i włączać je w projektowanie usług.
 
-## Filozofia redukcji szkód (*harm reduction*)
+Przegląd systematyczny wskazuje, że programy igieł i strzykawek mogą ograniczać transmisję HIV wśród osób przyjmujących substancje w iniekcjach, zwłaszcza jako część pakietu usług; jakość i heterogeniczność badań ograniczają precyzję oszacowania (Aspinall i in., 2014). Meta-analiza badań obserwacyjnych wykazała, że pozostawanie w leczeniu metadonem lub buprenorfiną wiąże się z wyraźnie niższą śmiertelnością niż okres poza leczeniem, a szczególnie ryzykowne są pierwsze tygodnie po rozpoczęciu i zakończeniu terapii (Sordo i in., 2017). Są to argumenty za dostępnością i ciągłością usług, nie za przeciwstawianiem redukcji szkód leczeniu.
 
-Redukcja szkód (*harm reduction*) to podejście publiczno-zdrowotne akceptujące, że pewien poziom używania substancji będzie zawsze obecny w społeczeństwie, i koncentrujące się na **minimalizacji negatywnych konsekwencji** zamiast na całkowitej abstynencji.
+## Krótkie interwencje
 
-Kluczowe zasady:
-- Pragmatyzm ponad moralizowaniem
-- Szanowanie autonomii i godności osób używających substancji
-- Hierarchia priorytetów: życie i zdrowie > abstynencja
-- Zaangażowanie samych użytkowników w projektowanie programów
+Model **SBIRT** obejmuje badanie przesiewowe (*screening*), krótką interwencję i skierowanie do leczenia (*referral to treatment*). Narzędzie przesiewowe, takie jak AUDIT lub CRAFFT, rozpoznaje prawdopodobieństwo problemu, lecz nie stanowi samodzielnie diagnozy. Krótka interwencja to zwykle ustrukturyzowana rozmowa oparta na informacji zwrotnej i wzmacnianiu motywacji; osoba z ciężkimi objawami potrzebuje pełnej oceny i odpowiedniego leczenia.
 
-### Przykłady interwencji harm reduction
+Przegląd Cochrane wykazał niewielkie zmniejszenie spożycia alkoholu po krótkich interwencjach w podstawowej opiece zdrowotnej, przy dużej zmienności badań i słabszych dowodach dla części wyników (Kaner i in., 2018). Dowody dotyczące innych substancji są mniej spójne: w randomizowanym badaniu w podstawowej opiece zdrowotnej krótka interwencja nie poprawiła istotnie głównego wyniku dotyczącego używania narkotyków (Saitz i in., 2014). Nie należy więc rozszerzać wyników badań alkoholowych na wszystkie substancje.
 
-- **Programy wymiany igieł** (*needle exchange programs*) - redukcja transmisji HIV i HCV
-- **Nadzorowane miejsca konsumpcji** (*drug consumption rooms*) - funkcjonują m.in. w Niemczech, Holandii, Szwajcarii
-- **Nalokson** - odwrotny agonista opioidowy dostępny bez recepty w profilaktyce przedawkowania
-- **Polityka bezpieczniejszego seksu** analogia do harm reduction w obszarze uzależnień
-- **Testowanie substancji** (*drug checking*) - redukcja ryzyka zatrucia nieznanymi substancjami
+## Profilaktyka środowiskowa
 
----
+Profilaktyka środowiskowa zmienia kontekst podejmowania decyzji, a nie tylko wiedzę jednostki. Należą do niej polityka cenowa i podatkowa, ograniczenia godzin i gęstości sprzedaży, egzekwowanie minimalnego wieku zakupu, regulacja reklamy, zasady sprzedaży odpowiedzialnej oraz projektowanie bezpieczniejszych warunków imprez.
 
-## Programy oparte na dowodach naukowych
+Dla alkoholu przegląd systematyczny wykazał odwrotną zależność między ceną lub podatkiem a spożyciem (Wagenaar i in., 2009). Przegląd badań nad godzinami sprzedaży wskazał, że zwiększenie dostępności o co najmniej dwie godziny wiązało się ze wzrostem szkód związanych z alkoholem, a ograniczanie godzin może je zmniejszać (Hahn i in., 2010). Siła i transferowalność efektów zależą od egzekwowania prawa, zakupów poza regulowanym obszarem i rynku nieformalnego.
 
-### LifeSkills Training (LST)
+## Powiązanie z zachowaniami samobójczymi
 
-Opracowany przez **Gilberta Botvina** (Cornell University) program LST jest jednym z najlepiej zbadanych szkolnych programów profilaktycznych. Składa się z:
-- Umiejętności ogólnospołecznych i komunikacyjnych
-- Radzenia sobie ze stresem i emocjami
-- Wiedzy o substancjach i technikach opierania się presji rówieśniczej
-- Umiejętności osobistych (asertywność, samoregulacja)
+Używanie substancji i zachowania samobójcze mają część wspólnych czynników ryzyka, między innymi przemoc, traumę, izolację i zaburzenia psychiczne. Intoksykacja może dodatkowo osłabiać kontrolę zachowania. Nie wolno jednak traktować używania substancji jako prostego wyjaśnienia każdego kryzysu. Zasady ograniczania dostępu do metod, ciągłości opieki i bezpiecznej komunikacji opisuje odrębny artykuł [Profilaktyka zachowań samobójczych](../suicydologia/profilaktyka.md). W praktyce badanie przesiewowe dotyczące substancji powinno być połączone z reakcją na ujawnione ryzyko samobójcze, a nie kończyć się odrębnym skierowaniem bez przekazania opieki.
 
-Badania długoterminowe (Botvin i in., 1995, 2000) wykazały redukcję inicjacji palenia, picia i używania marihuany o 50–75% u uczestników programu w porównaniu z grupą kontrolną, z efektami utrzymującymi się do 12. roku po interwencji.
+## Ocena programów
 
-### Unplugged (Program Europejski)
+Ewaluacja powinna rozpocząć się przed wdrożeniem i wynikać z modelu logicznego programu: określać populację, mechanizm zmiany, sposób realizacji, oczekiwane wyniki i możliwe szkody. Warto rozróżniać:
 
-Program Unplugged, wdrożony w 7 krajach europejskich (w tym w Polsce), oparty jest na modelu **społecznym wpływu** (*social influence model*) i łączy:
-- Korekcję przekonań normatywnych (młodzież przecenia skalę używania rówieśników)
-- Trening umiejętności interpersonalnych
-- Przekazywanie informacji o substancjach
+- **wdrożenie**: zasięg, dawkę, wierność scenariuszowi i kompetencje prowadzących;
+- **wyniki pośrednie**: wiedzę, normy, umiejętności i zamiar używania;
+- **wyniki behawioralne i zdrowotne**: wiek inicjacji, częstość i intensywność używania, zatrucia, zakażenia, urazy i zgony;
+- **równość efektów**: dostępność i wyniki w grupach o różnej sytuacji społecznej;
+- **skutki niezamierzone**: stygmatyzację, wykluczenie ze szkoły, kontakt z wymiarem sprawiedliwości lub przesunięcie używania do bardziej ryzykownych warunków.
 
-Ocena efektów (Faggiano i in., 2010) wykazała umiarkowaną skuteczność w redukcji używania marihuany i alkoholu.
+Najsilniejszą podstawę do wnioskowania przyczynowego dają dobrze przeprowadzone badania randomizowane, gdy są etyczne i wykonalne. Dla regulacji populacyjnych przydatne są także szeregi czasowe, eksperymenty naturalne i porównania regionów. Należy z góry określić główny wynik, opisać odpływ uczestników i wdrożenie oraz podać zarówno wielkość efektu, jak i niepewność. Sam wzrost wiedzy nie dowodzi opóźnienia inicjacji, a brak ewaluacji nie dowodzi braku efektu, tylko pozostawia go nieznanym (UNODC & WHO, 2018).
 
-### Krytyka programu D.A.R.E.
+## Wnioski
 
-**DARE** (*Drug Abuse Resistance Education*) - najbardziej rozpowszechniony program profilaktyczny w USA, prowadzony przez policjantów w szkołach podstawowych - poddano gruntownej ewaluacji. Meta-analizy (Ennett i in., 1994; West & O'Neal, 2004) wykazały, że **DARE nie redukuje używania substancji** i jest istotnie mniej skuteczny niż programy oparte na umiejętnościach życiowych. Pozostaje jednak politycznie popularny, co ilustruje rozbieżność między dowodami naukowymi a polityką zdrowotną.
-
----
-
-## Brief Interventions i SBIRT
-
-**SBIRT** (*Screening, Brief Intervention, and Referral to Treatment*) to trzyetapowy model integrujący profilaktykę wtórną z systemem opieki podstawowej:
-
-1. **Screening** - krótkie przesiewowe narzędzia oceny ryzykownego używania (AUDIT, DAST-10, CRAFFT dla młodzieży)
-2. **Brief Intervention** - 5–15-minutowa rozmowa motywacyjna przeprowadzana przez lekarza/pielęgniarkę
-3. **Referral to Treatment** - kierowanie do specjalistycznej pomocy osób z poważnymi problemami
-
-Meta-analizy potwierdzają skuteczność krótkich interwencji dla **alkoholu** - redukcja spożycia o 13–34% (Kaner i in., 2018). Dowody dla innych substancji są mniej jednoznaczne.
-
----
-
-## Polskie ramy prawne i instytucjonalne
-
-Profilaktykę uzależnień w Polsce reguluje przede wszystkim:
-
-| Akt prawny | Zakres |
-|-----------|--------|
-| **Ustawa o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi** (1982, nowelizowana) | Podstawa systemu profilaktyki i leczenia alkoholizmu; Gminne Programy Profilaktyki |
-| **Ustawa o przeciwdziałaniu narkomanii** (2005) | System leczenia uzależnień od narkotyków; KBPN |
-| **Narodowy Program Zdrowia 2021–2025** | Cele strategiczne, finansowanie profilaktyki |
-| **Rozporządzenie MEN o profilaktyce szkolnej** | Standardy Programów Profilaktyczno-Wychowawczych |
-
-Kluczowe instytucje:
-- **Krajowe Biuro do Spraw Przeciwdziałania Narkomanii (KBPN)** - koordynacja profilaktyki narkomanii
-- **Państwowa Agencja Rozwiązywania Problemów Alkoholowych (PARPA)** - profilaktyka alkoholowa
-- **Ośrodki Pomocy Społecznej i Poradnie Uzależnień** - lokalna infrastruktura
-
----
-
-## Czynniki skuteczności programów profilaktycznych
-
-Na podstawie syntezy badań (Flay, 2002; Tobler i in., 2000) sformułowano kryteria skutecznych programów:
-
-**Skuteczne programy:**
-- Opierają się na teorii zmiany zachowania (CBT, teoria społecznego uczenia się)
-- Są wielosesyjne i rozłożone w czasie
-- Angażują interaktywne metody (nie wykłady)
-- Adresują umiejętności społeczne i emocjonalne, nie tylko wiedzę
-- Uwzględniają rolę rówieśników (peer leaders)
-- Są dostosowane kulturowo do populacji docelowej
-
-**Nieskuteczne lub szkodliwe:**
-- Programy oparte wyłącznie na straszeniu (fear-based)
-- Jednorodzajowe jednorazowe prelekcje
-- Programy bez ewaluacji skuteczności
-- Programy skupiające się wyłącznie na przekazywaniu wiedzy o substancjach
-
----
-
-
-
-Profilaktyka uzależnień jest dziedziną, w której rozbieżność między praktyką a dowodami naukowymi bywa znacząca. Najbardziej obiecujące podejścia łączą wzmacnianie czynników ochronnych (umiejętności społeczno-emocjonalne, więź rodzinna, poczucie własnej skuteczności), wczesną identyfikację ryzyka w systemie opieki zdrowotnej (SBIRT) oraz pragmatyczną filozofię redukcji szkód dla populacji aktywnie używających substancji.
-
----## Bibliografia
-
-- Botvin, G. J., Baker, E., Dusenbury, L., Botvin, E. M., & Diaz, T. (1995). Long-term follow-up results of a randomized drug abuse prevention trial in a white middle-class population. *JAMA, 273*(14), 1106–1112.
-- Ennett, S. T., Tobler, N. S., Ringwalt, C. L., & Flewelling, R. L. (1994). How effective is Drug Abuse Resistance Education? *American Journal of Public Health, 84*(9), 1394–1401.
-- Faggiano, F., Vigna-Taglianti, F., Burkhart, G., Bohrn, K., Cuomo, L., Gregori, D., … EU-Dap Study Group. (2010). The effectiveness of a school-based substance abuse prevention program: 18-month follow-up of the EU-Dap cluster randomized controlled trial. *Drug and Alcohol Dependence, 108*(1–2), 56–64.
-- Flay, B. R. (2002). Positive youth development requires comprehensive health promotion programs. *American Journal of Health Behavior, 26*(6), 407–424.
-- Kaner, E. F. S., Beyer, F. R., Muirhead, C., Campbell, F., Pienaar, E. D., Bertholet, N., … Burnand, B. (2018). Effectiveness of brief alcohol interventions in primary care populations. *Cochrane Database of Systematic Reviews, 2*, CD004148.
-- Marlatt, G. A. (1996). Harm reduction: Come as you are. *Addictive Behaviors, 21*(6), 779–788.
-- Tobler, N. S., Roona, M. R., Ochshorn, P., Marshall, D. G., Streke, A. V., & Stackpole, K. M. (2000). School-based adolescent drug prevention programs: 1998 meta-analysis. *Journal of Primary Prevention, 20*(4), 275–336.
-- West, S. L., & O'Neal, K. K. (2004). Project D.A.R.E. outcome effectiveness revisited. *American Journal of Public Health, 94*(6), 1027–1029.
-
-
-
-
-
-
+Profilaktyka uzależnień wymaga uzupełniających się działań: programów rozwojowych opóźniających inicjację, krótkich interwencji dla ryzykownego używania, redukcji szkód dla osób aktualnie używających oraz regulacji środowiska. O wyborze programu powinny decydować jakość dowodów, dopasowanie do populacji i możliwość rzetelnego wdrożenia, a nie sama rozpoznawalność nazwy.
 
 ## Bibliografia
 
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
-
-
+- Aspinall, E. J., Nambiar, D., Goldberg, D. J., Hickman, M., Weir, A., Van Velzen, E., Palmateer, N., Doyle, J. S., Hellard, M. E., & Hutchinson, S. J. (2014). Are needle and syringe programmes associated with a reduction in HIV transmission among people who inject drugs: a systematic review and meta-analysis. *International Journal of Epidemiology, 43*(1), 235–248. https://doi.org/10.1093/ije/dyt243
+- Botvin, G. J., Baker, E., Dusenbury, L., Botvin, E. M., & Diaz, T. (1995). Long-term follow-up results of a randomized drug abuse prevention trial in a white middle-class population. *JAMA, 273*(14), 1106–1112. https://doi.org/10.1001/jama.1995.03520380042033
+- Faggiano, F., Vigna-Taglianti, F., Burkhart, G., Bohrn, K., Cuomo, L., Gregori, D., Panella, M., Scatigna, M., Siliquini, R., Vassara, M., Wiborg, G., Galanti, M. R., & EU-Dap Study Group. (2010). The effectiveness of a school-based substance abuse prevention program: 18-month follow-up of the EU-Dap cluster randomized controlled trial. *Drug and Alcohol Dependence, 108*(1–2), 56–64. https://doi.org/10.1016/j.drugalcdep.2009.11.018
+- Kaner, E. F. S., Beyer, F. R., Muirhead, C., Campbell, F., Pienaar, E. D., Bertholet, N., Daeppen, J. B., Saunders, J. B., & Burnand, B. (2018). Effectiveness of brief alcohol interventions in primary care populations. *Cochrane Database of Systematic Reviews, 2*, CD004148. https://doi.org/10.1002/14651858.CD004148.pub4
+- Hahn, R. A., Kuzara, J. L., Elder, R., Brewer, R., Chattopadhyay, S., Fielding, J., Naimi, T. S., Toomey, T., Middleton, J. C., Lawrence, B., & Task Force on Community Preventive Services. (2010). Effectiveness of policies restricting hours of alcohol sales in preventing excessive alcohol consumption and related harms. *American Journal of Preventive Medicine, 39*(6), 590–604. https://doi.org/10.1016/j.amepre.2010.09.016
+- Saitz, R., Palfai, T. P. A., Cheng, D. M., Alford, D. P., Bernstein, J. A., Lloyd-Travaglini, C. A., Meli, S. M., Chaisson, C. E., & Samet, J. H. (2014). Screening and brief intervention for drug use in primary care: the ASPIRE randomized clinical trial. *JAMA, 312*(5), 502–513. https://doi.org/10.1001/jama.2014.7862
+- Sordo, L., Barrio, G., Bravo, M. J., Indave, B. I., Degenhardt, L., Wiessing, L., Ferri, M., & Pastor-Barriuso, R. (2017). Mortality risk during and after opioid substitution treatment: systematic review and meta-analysis of cohort studies. *BMJ, 357*, j1550. https://doi.org/10.1136/bmj.j1550
+- United Nations Office on Drugs and Crime & World Health Organization. (2018). *International standards on drug use prevention* (2nd updated ed.). UNODC.
+- Wagenaar, A. C., Salois, M. J., & Komro, K. A. (2009). Effects of beverage alcohol price and tax levels on drinking: a meta-analysis of 1003 estimates from 112 studies. *Addiction, 104*(2), 179–190. https://doi.org/10.1111/j.1360-0443.2008.02438.x
+- West, S. L., & O'Neal, K. K. (2004). Project D.A.R.E. outcome effectiveness revisited. *American Journal of Public Health, 94*(6), 1027–1029. https://doi.org/10.2105/AJPH.94.6.1027

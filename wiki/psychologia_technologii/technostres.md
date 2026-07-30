@@ -8,7 +8,7 @@ evidenceCutoffDate: 2025-12-31
 
 ## Streszczenie
 
-Technostres to psychofizjologiczna reakcja przeciążenia wynikająca z niedopasowania między wymaganiami środowiska technologicznego a zasobami jednostki. Współcześnie zjawisko to wykracza poza klasyczne środowisko pracy i obejmuje edukację, relacje społeczne oraz codzienne zarządzanie uwagą. Artykuł porządkuje definicje i modele teoretyczne technostresu, opisuje mechanizmy poznawcze i emocjonalne, przedstawia czynniki ryzyka i ochronne, a także proponuje wielopoziomowy model profilaktyki i interwencji (poziom jednostki, zespołu, organizacji i polityki cyfrowej).
+Technostres to szczególny przypadek [stresu psychologicznego](../psychologia_zdrowia/stres.md), wynikający z niedopasowania między wymaganiami środowiska technologicznego a zasobami jednostki. Współcześnie zjawisko to wykracza poza klasyczne środowisko pracy i obejmuje edukację, relacje społeczne oraz codzienne zarządzanie uwagą. Artykuł porządkuje swoiste dla technologii źródła obciążenia, mechanizmy poznawcze i emocjonalne, czynniki ryzyka i ochronne oraz profilaktykę na poziomie jednostki, zespołu, organizacji i polityki cyfrowej.
 
 ## 1. Wprowadzenie
 

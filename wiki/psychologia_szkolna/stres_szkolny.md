@@ -8,7 +8,7 @@ evidenceCutoffDate: 2025-12-31
 
 ## Stres w środowisku szkolnym - wprowadzenie
 
-Szkoła jest jednym z głównych źródeł stresu w życiu dzieci i młodzieży. **Stres szkolny** to stan napięcia psychofizjologicznego wynikający z percypowania wymagań środowiska szkolnego jako przekraczających dostępne zasoby radzenia sobie. Choć pewien poziom pobudzenia jest korzystny dla uczenia się (prawo Yerkesa-Dodsona: optymalne pobudzenie sprzyja wydajności), chroniczny lub nadmierny stres szkolny ma poważne konsekwencje dla zdrowia i osiągnięć uczniów.
+**Stres szkolny** jest kontekstową postacią [stresu psychologicznego](../psychologia_zdrowia/stres.md): powstaje, gdy wymagania środowiska edukacyjnego są oceniane jako obciążające lub przekraczające zasoby ucznia. Artykuł opisuje swoiste stresory szkolne, lęk egzaminacyjny i działania profilaktyczne, natomiast definicje ogólne oraz fizjologię stresu przedstawia artykuł kanoniczny.
 
 > **Fakt:** Według badania Instytutu Badań Edukacyjnych ponad 60% polskich nastolatków w wieku 13–17 lat deklaruje, że szkoła jest dla nich źródłem silnego stresu, a co czwarty uczeń odczuwa objawy wypalenia szkolnego.
 

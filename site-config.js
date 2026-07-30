@@ -15,6 +15,17 @@ window.SITE_CONFIG = {
 
   // Zachowuje dawne adresy SPA po scaleniu lub przeniesieniu artykułów.
   articleRedirects: {
+    'psychologia_nadmiernego_jedzenia/neurobiologia_nagrody_i_glodu': 'psychologia_nadmiernego_jedzenia/czym_jest_nadmierne_jedzenie',
+    'psychologia_nadmiernego_jedzenia/regulacja_emocji_i_jedzenie': 'psychologia_nadmiernego_jedzenia/czym_jest_nadmierne_jedzenie',
+    'psychologia_nadmiernego_jedzenia/stres_i_jedzenie_kompulsywne': 'psychologia_nadmiernego_jedzenia/czym_jest_nadmierne_jedzenie',
+    'psychologia_nadmiernego_jedzenia/srodowisko_zywieniowe_i_nawyki': 'psychologia_nadmiernego_jedzenia/czym_jest_nadmierne_jedzenie',
+    'psychologia_nadmiernego_jedzenia/rodzinne_wzorce_jedzenia': 'psychologia_nadmiernego_jedzenia/czym_jest_nadmierne_jedzenie',
+    'psychologia_nadmiernego_jedzenia/obraz_ciala_i_samokrytycyzm': 'psychologia_nadmiernego_jedzenia/czym_jest_nadmierne_jedzenie',
+    'psychologia_nadmiernego_jedzenia/diagnoza_roznicowa_bed_bulimia': 'psychologia_nadmiernego_jedzenia/czym_jest_nadmierne_jedzenie',
+    'psychologia_nadmiernego_jedzenia/interwencje_poznawczo_behawioralne': 'psychologia_nadmiernego_jedzenia/czym_jest_nadmierne_jedzenie',
+    'psychologia_nadmiernego_jedzenia/mindfulness_i_regulacja_apetytu': 'psychologia_nadmiernego_jedzenia/czym_jest_nadmierne_jedzenie',
+    'psychologia_nadmiernego_jedzenia/farmakoterapia_i_wskazania': 'psychologia_nadmiernego_jedzenia/czym_jest_nadmierne_jedzenie',
+    'psychologia_nadmiernego_jedzenia/profilaktyka_nawrotow': 'psychologia_nadmiernego_jedzenia/czym_jest_nadmierne_jedzenie',
     'psychosomatyka/historia': 'psychosomatyka/historia_psychosomatyki',
     'instytucje_wsparcia_dziecka_i_rodziny/bledy_systemowe_i_dobre_praktyki': 'instytucje_wsparcia_dziecka_i_rodziny/system_wsparcia_dziecka_i_rodziny',
     'instytucje_wsparcia_dziecka_i_rodziny/interwencja_kryzysowa_i_niebieska_karta': 'instytucje_wsparcia_dziecka_i_rodziny/system_wsparcia_dziecka_i_rodziny',
@@ -1188,18 +1199,7 @@ window.SITE_CONFIG = {
       section: 'Psychologia nadmiernego jedzenia',
       domainKey: 'psychologia_nadmiernego_jedzenia',
       items: [
-        { id: 'psychologia_nadmiernego_jedzenia/czym_jest_nadmierne_jedzenie', label: 'Czym jest nadmierne jedzenie?', file: 'wiki/psychologia_nadmiernego_jedzenia/czym_jest_nadmierne_jedzenie.md' },
-        { id: 'psychologia_nadmiernego_jedzenia/neurobiologia_nagrody_i_glodu', label: 'Neurobiologia nagrody i glodu', file: 'wiki/psychologia_nadmiernego_jedzenia/neurobiologia_nagrody_i_glodu.md' },
-        { id: 'psychologia_nadmiernego_jedzenia/regulacja_emocji_i_jedzenie', label: 'Regulacja emocji, a jedzenie', file: 'wiki/psychologia_nadmiernego_jedzenia/regulacja_emocji_i_jedzenie.md' },
-        { id: 'psychologia_nadmiernego_jedzenia/stres_i_jedzenie_kompulsywne', label: 'Stres i jedzenie kompulsywne', file: 'wiki/psychologia_nadmiernego_jedzenia/stres_i_jedzenie_kompulsywne.md' },
-        { id: 'psychologia_nadmiernego_jedzenia/srodowisko_zywieniowe_i_nawyki', label: 'larodowisko zywieniowe i nawyki', file: 'wiki/psychologia_nadmiernego_jedzenia/srodowisko_zywieniowe_i_nawyki.md' },
-        { id: 'psychologia_nadmiernego_jedzenia/obraz_ciala_i_samokrytycyzm', label: 'Obraz ciala i samokrytycyzm', file: 'wiki/psychologia_nadmiernego_jedzenia/obraz_ciala_i_samokrytycyzm.md' },
-        { id: 'psychologia_nadmiernego_jedzenia/rodzinne_wzorce_jedzenia', label: 'Rodzinne wzorce jedzenia', file: 'wiki/psychologia_nadmiernego_jedzenia/rodzinne_wzorce_jedzenia.md' },
-        { id: 'psychologia_nadmiernego_jedzenia/diagnoza_roznicowa_bed_bulimia', label: 'Diagnoza roznicowa: BED i bulimia', file: 'wiki/psychologia_nadmiernego_jedzenia/diagnoza_roznicowa_bed_bulimia.md' },
-        { id: 'psychologia_nadmiernego_jedzenia/interwencje_poznawczo_behawioralne', label: 'Interwencje poznawczo-behawioralne', file: 'wiki/psychologia_nadmiernego_jedzenia/interwencje_poznawczo_behawioralne.md' },
-        { id: 'psychologia_nadmiernego_jedzenia/mindfulness_i_regulacja_apetytu', label: 'Mindfulness i regulacja apetytu', file: 'wiki/psychologia_nadmiernego_jedzenia/mindfulness_i_regulacja_apetytu.md' },
-        { id: 'psychologia_nadmiernego_jedzenia/farmakoterapia_i_wskazania', label: 'Farmakoterapia i wskazania', file: 'wiki/psychologia_nadmiernego_jedzenia/farmakoterapia_i_wskazania.md' },
-        { id: 'psychologia_nadmiernego_jedzenia/profilaktyka_nawrotow', label: 'Profilaktyka nawrotow', file: 'wiki/psychologia_nadmiernego_jedzenia/profilaktyka_nawrotow.md' },
+        { id: 'psychologia_nadmiernego_jedzenia/czym_jest_nadmierne_jedzenie', label: 'Nadmierne jedzenie i jedzenie kompulsywne', file: 'wiki/psychologia_nadmiernego_jedzenia/czym_jest_nadmierne_jedzenie.md' },
       ]
     },
     { /* Instytucje pomocy dziecku i rodzinie */
@@ -1398,18 +1398,7 @@ window.SITE_CONFIG = {
       { id: 'reagowanie_na_krytyke/jak_nie_brac_do_siebie_opinii_innych', label: 'Jak nie brac do siebie opinii innych', file: 'wiki/reagowanie_na_krytyke/jak_nie_brac_do_siebie_opinii_innych.md', status: 'live' },
     ],
     overeating_psychology: [
-      { id: 'psychologia_nadmiernego_jedzenia/czym_jest_nadmierne_jedzenie', label: 'Czym jest nadmierne jedzenie?', file: 'wiki/psychologia_nadmiernego_jedzenia/czym_jest_nadmierne_jedzenie.md', status: 'live' },
-      { id: 'psychologia_nadmiernego_jedzenia/neurobiologia_nagrody_i_glodu', label: 'Neurobiologia nagrody i glodu', file: 'wiki/psychologia_nadmiernego_jedzenia/neurobiologia_nagrody_i_glodu.md', status: 'live' },
-      { id: 'psychologia_nadmiernego_jedzenia/regulacja_emocji_i_jedzenie', label: 'Regulacja emocji, a jedzenie', file: 'wiki/psychologia_nadmiernego_jedzenia/regulacja_emocji_i_jedzenie.md', status: 'live' },
-      { id: 'psychologia_nadmiernego_jedzenia/stres_i_jedzenie_kompulsywne', label: 'Stres i jedzenie kompulsywne', file: 'wiki/psychologia_nadmiernego_jedzenia/stres_i_jedzenie_kompulsywne.md', status: 'live' },
-      { id: 'psychologia_nadmiernego_jedzenia/srodowisko_zywieniowe_i_nawyki', label: 'larodowisko zywieniowe i nawyki', file: 'wiki/psychologia_nadmiernego_jedzenia/srodowisko_zywieniowe_i_nawyki.md', status: 'live' },
-      { id: 'psychologia_nadmiernego_jedzenia/obraz_ciala_i_samokrytycyzm', label: 'Obraz ciala i samokrytycyzm', file: 'wiki/psychologia_nadmiernego_jedzenia/obraz_ciala_i_samokrytycyzm.md', status: 'live' },
-      { id: 'psychologia_nadmiernego_jedzenia/rodzinne_wzorce_jedzenia', label: 'Rodzinne wzorce jedzenia', file: 'wiki/psychologia_nadmiernego_jedzenia/rodzinne_wzorce_jedzenia.md', status: 'live' },
-      { id: 'psychologia_nadmiernego_jedzenia/diagnoza_roznicowa_bed_bulimia', label: 'Diagnoza roznicowa: BED i bulimia', file: 'wiki/psychologia_nadmiernego_jedzenia/diagnoza_roznicowa_bed_bulimia.md', status: 'live' },
-      { id: 'psychologia_nadmiernego_jedzenia/interwencje_poznawczo_behawioralne', label: 'Interwencje poznawczo-behawioralne', file: 'wiki/psychologia_nadmiernego_jedzenia/interwencje_poznawczo_behawioralne.md', status: 'live' },
-      { id: 'psychologia_nadmiernego_jedzenia/mindfulness_i_regulacja_apetytu', label: 'Mindfulness i regulacja apetytu', file: 'wiki/psychologia_nadmiernego_jedzenia/mindfulness_i_regulacja_apetytu.md', status: 'live' },
-      { id: 'psychologia_nadmiernego_jedzenia/farmakoterapia_i_wskazania', label: 'Farmakoterapia i wskazania', file: 'wiki/psychologia_nadmiernego_jedzenia/farmakoterapia_i_wskazania.md', status: 'live' },
-      { id: 'psychologia_nadmiernego_jedzenia/profilaktyka_nawrotow', label: 'Profilaktyka nawrotow', file: 'wiki/psychologia_nadmiernego_jedzenia/profilaktyka_nawrotow.md', status: 'live' },
+      { id: 'psychologia_nadmiernego_jedzenia/czym_jest_nadmierne_jedzenie', label: 'Nadmierne jedzenie i jedzenie kompulsywne', file: 'wiki/psychologia_nadmiernego_jedzenia/czym_jest_nadmierne_jedzenie.md', status: 'live' },
     ],
     child_family_support_institutions: [
       { id: 'instytucje_wsparcia_dziecka_i_rodziny/system_wsparcia_dziecka_i_rodziny', label: 'System wsparcia dziecka i rodziny', file: 'wiki/instytucje_wsparcia_dziecka_i_rodziny/system_wsparcia_dziecka_i_rodziny.md', status: 'live' },

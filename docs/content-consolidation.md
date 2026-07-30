@@ -40,6 +40,17 @@ Jedna zmiana powinna obejmować małą, spójną grupę artykułów. Pozwala to 
 
 | Data | Temat kanoniczny | Scalony adres |
 |---|---|---|
+| 2026-07-30 | `wiki/psychologia_nadmiernego_jedzenia/czym_jest_nadmierne_jedzenie.md` | `wiki/psychologia_nadmiernego_jedzenia/neurobiologia_nagrody_i_glodu.md` |
+| 2026-07-30 | `wiki/psychologia_nadmiernego_jedzenia/czym_jest_nadmierne_jedzenie.md` | `wiki/psychologia_nadmiernego_jedzenia/regulacja_emocji_i_jedzenie.md` |
+| 2026-07-30 | `wiki/psychologia_nadmiernego_jedzenia/czym_jest_nadmierne_jedzenie.md` | `wiki/psychologia_nadmiernego_jedzenia/stres_i_jedzenie_kompulsywne.md` |
+| 2026-07-30 | `wiki/psychologia_nadmiernego_jedzenia/czym_jest_nadmierne_jedzenie.md` | `wiki/psychologia_nadmiernego_jedzenia/srodowisko_zywieniowe_i_nawyki.md` |
+| 2026-07-30 | `wiki/psychologia_nadmiernego_jedzenia/czym_jest_nadmierne_jedzenie.md` | `wiki/psychologia_nadmiernego_jedzenia/rodzinne_wzorce_jedzenia.md` |
+| 2026-07-30 | `wiki/psychologia_nadmiernego_jedzenia/czym_jest_nadmierne_jedzenie.md` | `wiki/psychologia_nadmiernego_jedzenia/obraz_ciala_i_samokrytycyzm.md` |
+| 2026-07-30 | `wiki/psychologia_nadmiernego_jedzenia/czym_jest_nadmierne_jedzenie.md` | `wiki/psychologia_nadmiernego_jedzenia/diagnoza_roznicowa_bed_bulimia.md` |
+| 2026-07-30 | `wiki/psychologia_nadmiernego_jedzenia/czym_jest_nadmierne_jedzenie.md` | `wiki/psychologia_nadmiernego_jedzenia/interwencje_poznawczo_behawioralne.md` |
+| 2026-07-30 | `wiki/psychologia_nadmiernego_jedzenia/czym_jest_nadmierne_jedzenie.md` | `wiki/psychologia_nadmiernego_jedzenia/mindfulness_i_regulacja_apetytu.md` |
+| 2026-07-30 | `wiki/psychologia_nadmiernego_jedzenia/czym_jest_nadmierne_jedzenie.md` | `wiki/psychologia_nadmiernego_jedzenia/farmakoterapia_i_wskazania.md` |
+| 2026-07-30 | `wiki/psychologia_nadmiernego_jedzenia/czym_jest_nadmierne_jedzenie.md` | `wiki/psychologia_nadmiernego_jedzenia/profilaktyka_nawrotow.md` |
 | 2026-07-30 | `wiki/instytucje_wsparcia_dziecka_i_rodziny/system_wsparcia_dziecka_i_rodziny.md` | `wiki/instytucje_wsparcia_dziecka_i_rodziny/bledy_systemowe_i_dobre_praktyki.md` |
 | 2026-07-30 | `wiki/instytucje_wsparcia_dziecka_i_rodziny/system_wsparcia_dziecka_i_rodziny.md` | `wiki/instytucje_wsparcia_dziecka_i_rodziny/interwencja_kryzysowa_i_niebieska_karta.md` |
 | 2026-07-30 | `wiki/instytucje_wsparcia_dziecka_i_rodziny/system_wsparcia_dziecka_i_rodziny.md` | `wiki/instytucje_wsparcia_dziecka_i_rodziny/koordynacja_miedzyinstytucjonalna.md` |
@@ -127,3 +138,9 @@ Nie zidentyfikowano unikalnego fragmentu dawnego pliku, który jednocześnie by�
 Artykuł `wiki/instytucje_wsparcia_dziecka_i_rodziny/system_wsparcia_dziecka_i_rodziny.md` jest kanoniczną mapą polskiego systemu wsparcia. Dwanaście krótkich opracowań instytucjonalnych scalono w jeden tok decyzyjny: od oceny pilności, przez prawa dziecka i kompetencje sektorów, po przekrojową koordynację, ciągłość i kryteria jakości. Powtarzalne sekcje szablonowe usunięto, zachowując swoiste definicje, mechanizmy i użyteczne przykłady.
 
 Stan prawny procedury „Niebieskie Karty”, standardów ochrony małoletnich, pieczy zastępczej oraz kompetencji szkoły, poradni, ochrony zdrowia, pomocy społecznej, sądu i kuratora zweryfikowano na 30 lipca 2026 r. W tekście oddzielono obowiązki wynikające z ustaw i rozporządzeń od zaleceń organizacyjnych dotyczących prowadzenia przypadku. Dawne pliki pozostały przekierowaniami do właściwych kotwic, ich identyfikatory SPA obsługuje `articleRedirects`, a nawigacja domeny zawiera tylko opracowanie kanoniczne.
+
+## Konsolidacja nadmiernego jedzenia i jedzenia kompulsywnego
+
+Artykuł `wiki/psychologia_nadmiernego_jedzenia/czym_jest_nadmierne_jedzenie.md` jest kanonicznym opracowaniem zachowań nadmiernego jedzenia, utraty kontroli i BED. Jedenaście krótkich tekstów scalono w tok od granic pojęciowych i diagnozy różnicowej, przez mechanizmy biologiczne, emocjonalne, środowiskowe i rodzinne, po leczenie oraz opiekę długoterminową. Usunięto powtarzalne definicje stresu, regulacji emocji i układu nagrody, zachowując mechanizmy swoiste dla jedzenia.
+
+W tekście wyraźnie oddzielono BED od bulimii psychicznej, otyłości, zespołu jedzenia nocnego i zwykłego przejadania. Status koncepcji „uzależnienia od jedzenia”, mindfulness i interwencji rodzinnych opisano wraz z ograniczeniami dowodów. Część farmakologiczna przedstawia wskazania i ryzyko bez instrukcji samoleczenia. Dawne pliki pozostały przekierowaniami do właściwych sekcji, ich identyfikatory obsługuje `articleRedirects`, a nawigacja pokazuje tylko artykuł kanoniczny.

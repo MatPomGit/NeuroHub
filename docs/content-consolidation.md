@@ -51,6 +51,17 @@ Jedna zmiana powinna obejmować małą, spójną grupę artykułów. Pozwala to 
 | 2026-07-30 | `wiki/psychologia_nadmiernego_jedzenia/czym_jest_nadmierne_jedzenie.md` | `wiki/psychologia_nadmiernego_jedzenia/mindfulness_i_regulacja_apetytu.md` |
 | 2026-07-30 | `wiki/psychologia_nadmiernego_jedzenia/czym_jest_nadmierne_jedzenie.md` | `wiki/psychologia_nadmiernego_jedzenia/farmakoterapia_i_wskazania.md` |
 | 2026-07-30 | `wiki/psychologia_nadmiernego_jedzenia/czym_jest_nadmierne_jedzenie.md` | `wiki/psychologia_nadmiernego_jedzenia/profilaktyka_nawrotow.md` |
+| 2026-07-30 | `wiki/psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka.md` | `wiki/psychologia_kliniczna_dziecka/bledy_diagnostyczne_i_iatrogenia.md` |
+| 2026-07-30 | `wiki/psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka.md` | `wiki/psychologia_kliniczna_dziecka/cbt_dzieci_i_mlodziez.md` |
+| 2026-07-30 | `wiki/psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka.md` | `wiki/psychologia_kliniczna_dziecka/czynniki_ryzyka_i_ochronne.md` |
+| 2026-07-30 | `wiki/psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka.md` | `wiki/psychologia_kliniczna_dziecka/diagnoza_roznicowa_neurorozwojowa.md` |
+| 2026-07-30 | `wiki/psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka.md` | `wiki/psychologia_kliniczna_dziecka/formulowanie_przypadku_4p.md` |
+| 2026-07-30 | `wiki/psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka.md` | `wiki/psychologia_kliniczna_dziecka/interwencje_rodzicielskie_pmt.md` |
+| 2026-07-30 | `wiki/psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka.md` | `wiki/psychologia_kliniczna_dziecka/norma_rozwojowa_a_objaw.md` |
+| 2026-07-30 | `wiki/psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka.md` | `wiki/psychologia_kliniczna_dziecka/przywiazanie_i_relacje_opiekuncze.md` |
+| 2026-07-30 | `wiki/psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka.md` | `wiki/psychologia_kliniczna_dziecka/regulacja_emocji_i_samokontrola.md` |
+| 2026-07-30 | `wiki/psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka.md` | `wiki/psychologia_kliniczna_dziecka/wspolpraca_rodzina_szkola_system.md` |
+| 2026-07-30 | `wiki/psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka.md` | `wiki/psychologia_kliniczna_dziecka/wywiad_kliniczny_z_dzieckiem_i_rodzina.md` |
 | 2026-07-30 | `wiki/instytucje_wsparcia_dziecka_i_rodziny/system_wsparcia_dziecka_i_rodziny.md` | `wiki/instytucje_wsparcia_dziecka_i_rodziny/bledy_systemowe_i_dobre_praktyki.md` |
 | 2026-07-30 | `wiki/instytucje_wsparcia_dziecka_i_rodziny/system_wsparcia_dziecka_i_rodziny.md` | `wiki/instytucje_wsparcia_dziecka_i_rodziny/interwencja_kryzysowa_i_niebieska_karta.md` |
 | 2026-07-30 | `wiki/instytucje_wsparcia_dziecka_i_rodziny/system_wsparcia_dziecka_i_rodziny.md` | `wiki/instytucje_wsparcia_dziecka_i_rodziny/koordynacja_miedzyinstytucjonalna.md` |
@@ -144,3 +155,8 @@ Stan prawny procedury „Niebieskie Karty”, standardów ochrony małoletnich, 
 Artykuł `wiki/psychologia_nadmiernego_jedzenia/czym_jest_nadmierne_jedzenie.md` jest kanonicznym opracowaniem zachowań nadmiernego jedzenia, utraty kontroli i BED. Jedenaście krótkich tekstów scalono w tok od granic pojęciowych i diagnozy różnicowej, przez mechanizmy biologiczne, emocjonalne, środowiskowe i rodzinne, po leczenie oraz opiekę długoterminową. Usunięto powtarzalne definicje stresu, regulacji emocji i układu nagrody, zachowując mechanizmy swoiste dla jedzenia.
 
 W tekście wyraźnie oddzielono BED od bulimii psychicznej, otyłości, zespołu jedzenia nocnego i zwykłego przejadania. Status koncepcji „uzależnienia od jedzenia”, mindfulness i interwencji rodzinnych opisano wraz z ograniczeniami dowodów. Część farmakologiczna przedstawia wskazania i ryzyko bez instrukcji samoleczenia. Dawne pliki pozostały przekierowaniami do właściwych sekcji, ich identyfikatory obsługuje `articleRedirects`, a nawigacja pokazuje tylko artykuł kanoniczny.
+## Konsolidacja psychologii klinicznej dzieci i młodzieży
+
+Artykuł `wiki/psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka.md` jest kanonicznym opracowaniem domeny. Jedenaście generycznych, wzajemnie nakładających się tekstów scalono w jeden wywód rozwojowy: od granic kompetencji i odróżnienia przesiewu od diagnozy, przez relacje, regulację i odporność psychiczną, po swoistość diagnozy, formulacji, interwencji oraz opieki skoordynowanej. Ogólne procedury wywiadu, diagnozy i formułowania pozostają w kanonicznych artykułach działu `wiki/diagnoza/`; tekst dziecięcy odsyła do nich i omawia wyłącznie różnice wynikające z wieku oraz zależności od opiekunów.
+
+Dawne pliki pozostają przekierowaniami do właściwych sekcji, ich identyfikatory SPA obsługuje `articleRedirects`, a nawigacja domeny zawiera tylko artykuł kanoniczny.

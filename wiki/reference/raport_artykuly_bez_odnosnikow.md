@@ -17,7 +17,7 @@ Artyku9y bez 9=adnego odno9:nika przychodzďż˝&cego: **645**.
 | `artetherapy` | 8 |
 | `biology` | 10 |
 | `przypadki_kliniczne` | 3 |
-| `psychologia_kliniczna_dziecka` | 12 |
+| `psychologia_kliniczna_dziecka` | 1 |
 | `instytucje_wsparcia_dziecka_i_rodziny` | 1 |
 | `cognitive` | 28 |
 | `diagnostics` | 12 |
@@ -147,18 +147,7 @@ Poni9=ej znajdujďż˝& siďż˝" bezpo9:rednie odno9:niki do artyku9Bw bez li
 
 ### psychologia_kliniczna_dziecka
 
-- [`psychologia_kliniczna_dziecka/bledy_diagnostyczne_i_iatrogenia.md`](../psychologia_kliniczna_dziecka/bledy_diagnostyczne_i_iatrogenia.md)
-- [`psychologia_kliniczna_dziecka/cbt_dzieci_i_mlodziez.md`](../psychologia_kliniczna_dziecka/cbt_dzieci_i_mlodziez.md)
 - [`psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka.md`](../psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka.md)
-- [`psychologia_kliniczna_dziecka/czynniki_ryzyka_i_ochronne.md`](../psychologia_kliniczna_dziecka/czynniki_ryzyka_i_ochronne.md)
-- [`psychologia_kliniczna_dziecka/diagnoza_roznicowa_neurorozwojowa.md`](../psychologia_kliniczna_dziecka/diagnoza_roznicowa_neurorozwojowa.md)
-- [`psychologia_kliniczna_dziecka/formulowanie_przypadku_4p.md`](../psychologia_kliniczna_dziecka/formulowanie_przypadku_4p.md)
-- [`psychologia_kliniczna_dziecka/interwencje_rodzicielskie_pmt.md`](../psychologia_kliniczna_dziecka/interwencje_rodzicielskie_pmt.md)
-- [`psychologia_kliniczna_dziecka/norma_rozwojowa_a_objaw.md`](../psychologia_kliniczna_dziecka/norma_rozwojowa_a_objaw.md)
-- [`psychologia_kliniczna_dziecka/przywiazanie_i_relacje_opiekuncze.md`](../psychologia_kliniczna_dziecka/przywiazanie_i_relacje_opiekuncze.md)
-- [`psychologia_kliniczna_dziecka/regulacja_emocji_i_samokontrola.md`](../psychologia_kliniczna_dziecka/regulacja_emocji_i_samokontrola.md)
-- [`psychologia_kliniczna_dziecka/wspolpraca_rodzina_szkola_system.md`](../psychologia_kliniczna_dziecka/wspolpraca_rodzina_szkola_system.md)
-- [`psychologia_kliniczna_dziecka/wywiad_kliniczny_z_dzieckiem_i_rodzina.md`](../psychologia_kliniczna_dziecka/wywiad_kliniczny_z_dzieckiem_i_rodzina.md)
 
 ### instytucje_wsparcia_dziecka_i_rodziny
 

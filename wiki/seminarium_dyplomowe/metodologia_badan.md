@@ -130,7 +130,9 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 Temat "Metodologia badań psychologicznych" pokazuje, że największą wartość daje traktowanie pracy badawczej jako procesu integrowania pytania, metody, analizy i argumentacji.
 
 
-Dopiero wspólna analiza zagadnień takich jak paradygmaty badawcze, dobór próby oraz pisanie rozdziału metodologicznego pokazuje pełny zakres omawianego zjawiska.## Bibliografia
+Dopiero wspólna analiza zagadnień takich jak paradygmaty badawcze, dobór próby oraz pisanie rozdziału metodologicznego pokazuje pełny zakres omawianego zjawiska.
+
+## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

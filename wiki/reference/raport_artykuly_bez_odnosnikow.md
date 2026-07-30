@@ -18,7 +18,7 @@ Artyku9y bez 9=adnego odno9:nika przychodzďż˝&cego: **645**.
 | `biology` | 10 |
 | `przypadki_kliniczne` | 3 |
 | `psychologia_kliniczna_dziecka` | 12 |
-| `instytucje_wsparcia_dziecka_i_rodziny` | 12 |
+| `instytucje_wsparcia_dziecka_i_rodziny` | 1 |
 | `cognitive` | 28 |
 | `diagnostics` | 12 |
 | `diagnoza` | 8 |
@@ -162,18 +162,7 @@ Poni9=ej znajdujďż˝& siďż˝" bezpo9:rednie odno9:niki do artyku9Bw bez li
 
 ### instytucje_wsparcia_dziecka_i_rodziny
 
-- [`instytucje_wsparcia_dziecka_i_rodziny/bledy_systemowe_i_dobre_praktyki.md`](../instytucje_wsparcia_dziecka_i_rodziny/bledy_systemowe_i_dobre_praktyki.md)
-- [`instytucje_wsparcia_dziecka_i_rodziny/interwencja_kryzysowa_i_niebieska_karta.md`](../instytucje_wsparcia_dziecka_i_rodziny/interwencja_kryzysowa_i_niebieska_karta.md)
-- [`instytucje_wsparcia_dziecka_i_rodziny/koordynacja_miedzyinstytucjonalna.md`](../instytucje_wsparcia_dziecka_i_rodziny/koordynacja_miedzyinstytucjonalna.md)
-- [`instytucje_wsparcia_dziecka_i_rodziny/mapa_systemu_wsparcia.md`](../instytucje_wsparcia_dziecka_i_rodziny/mapa_systemu_wsparcia.md)
-- [`instytucje_wsparcia_dziecka_i_rodziny/ngo_i_programy_srodowiskowe.md`](../instytucje_wsparcia_dziecka_i_rodziny/ngo_i_programy_srodowiskowe.md)
-- [`instytucje_wsparcia_dziecka_i_rodziny/ochrona_zdrowia_psychicznego_dzieci.md`](../instytucje_wsparcia_dziecka_i_rodziny/ochrona_zdrowia_psychicznego_dzieci.md)
-- [`instytucje_wsparcia_dziecka_i_rodziny/osrodek_pomocy_spolecznej_i_praca_socjalna.md`](../instytucje_wsparcia_dziecka_i_rodziny/osrodek_pomocy_spolecznej_i_praca_socjalna.md)
-- [`instytucje_wsparcia_dziecka_i_rodziny/piecza_zastepcza_i_asysta_rodziny.md`](../instytucje_wsparcia_dziecka_i_rodziny/piecza_zastepcza_i_asysta_rodziny.md)
-- [`instytucje_wsparcia_dziecka_i_rodziny/poradnia_psychologiczno_pedagogiczna.md`](../instytucje_wsparcia_dziecka_i_rodziny/poradnia_psychologiczno_pedagogiczna.md)
-- [`instytucje_wsparcia_dziecka_i_rodziny/prawa_dziecka_i_standardy_ochrony.md`](../instytucje_wsparcia_dziecka_i_rodziny/prawa_dziecka_i_standardy_ochrony.md)
-- [`instytucje_wsparcia_dziecka_i_rodziny/sad_rodzinny_i_kurator.md`](../instytucje_wsparcia_dziecka_i_rodziny/sad_rodzinny_i_kurator.md)
-- [`instytucje_wsparcia_dziecka_i_rodziny/szkola_jako_instytucja_wsparcia.md`](../instytucje_wsparcia_dziecka_i_rodziny/szkola_jako_instytucja_wsparcia.md)
+- [`instytucje_wsparcia_dziecka_i_rodziny/system_wsparcia_dziecka_i_rodziny.md`](../instytucje_wsparcia_dziecka_i_rodziny/system_wsparcia_dziecka_i_rodziny.md)
 
 ### cognitive
 

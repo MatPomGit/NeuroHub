@@ -8,7 +8,7 @@ evidenceCutoffDate: 2025-12-31
 
 ## Czym jest self-compassion?
 
-*Self-compassion* - **współczucie dla siebie** - to postawa życzliwości, zrozumienia i łagodności wobec własnych cierpień, niepowodzeń i niedoskonałości. Koncepcję tę rozwinęła i zoperacjonalizowała **Kristin Neff**, psycholożka z Uniwersytetu Teksańskiego, w serii przełomowych prac opublikowanych od 2003 roku.
+*Self-compassion*, czyli **współczucie dla siebie**, jest zoperacjonalizowanym konstruktem opisującym sposób odnoszenia się do własnego cierpienia. Nie jest empatią skierowaną ku innej osobie; granice między tymi pojęciami wyjaśnia artykuł [Empatia i współczucie](../emocje/wspolczucie.md). Koncepcję współczucia dla siebie rozwinęła Kristin Neff w pracach publikowanych od 2003 roku.
 
 *Self-compassion* jest fundamentalnie różne od egoizmu czy pobłażliwości - nie oznacza ignorowania własnych błędów ani rezygnacji z dążeń do poprawy. Jest raczej sposobem, w jaki traktowalibyśmy bliskiego przyjaciela w chwili jego cierpienia: z troską, bez nadmiernej krytyki i bez zaprzeczania bólowi.
 

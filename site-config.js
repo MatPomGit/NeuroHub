@@ -35,6 +35,7 @@ window.SITE_CONFIG = {
     'psychosomatyka/aleksytymia': 'emocje/aleksytymia',
     'zaburzenia/asd': 'neuroroznorodnosc/spektrum_autyzmu',
     'seminarium_dyplomowe/etyka_badan': 'etyka/etyka_badan',
+    'reference/etyka_psychologa': 'etyka/kodeksy_etyczne',
     'diagnoza/tajemnica_zawodowa': 'etyka/tajemnica_zawodowa_granice',
     'psychologia_szkolna/ocenianie_i_feedback': 'psychologia_szkolna/ocenianie_i_informacja_zwrotna',
     'systemy_rodzinne/internal_family_systems_ifs': 'systemy_rodzinne/terapia_systemow_wewnetrznej_rodziny_ifs',
@@ -1321,7 +1322,6 @@ window.SITE_CONFIG = {
         { id: 'reference/bibliografia_portalu', label: 'Bibliografia portalu',             file: 'wiki/reference/bibliografia_portalu.md' },
         { id: 'reference/skale_i_akronimy',   label: 'Skale i akronimy diagnostyczne',    file: 'wiki/reference/skale_i_akronimy.md'   },
         { id: 'reference/przepisy_zawod',     label: 'Przepisy i zasady pracy psychologa', file: 'wiki/reference/przepisy_zawod.md'     },
-        { id: 'reference/etyka_psychologa',   label: 'Etyka zawodowa psychologa i psychoterapeuty', file: 'wiki/reference/etyka_psychologa.md' },
         { id: 'reference/mapa_powiazan_nowe_artykuly', label: 'Mapa powiazal nowych artykulow', file: 'wiki/reference/mapa_powiazan_nowe_artykuly.md' },
         {
           id: 'reference/article_template',
@@ -1793,7 +1793,6 @@ window.SITE_CONFIG = {
       { file: 'wiki/reference/bibliografia_portalu.md', label: 'Bibliografia portalu',                        status: 'live' },
       { file: 'wiki/reference/skale_i_akronimy.md',     label: 'Skale i akronimy diagnostyczne',              status: 'live' },
       { file: 'wiki/reference/przepisy_zawod.md',       label: 'Przepisy i zasady pracy psychologa',          status: 'live' },
-      { file: 'wiki/reference/etyka_psychologa.md',     label: 'Etyka zawodowa psychologa i psychoterapeuty', status: 'live' },
       { file: 'wiki/reference/mapa_powiazan_nowe_artykuly.md', label: 'Mapa powiazal nowych artykulow', status: 'live' },
       { file: 'wiki/reference/article_template.md', label: 'Zalecany wzorzec artykułu', status: 'live' },
     ],
@@ -2755,7 +2754,6 @@ window.SITE_CONFIG = {
           title: 'Fundament etyki',
           articles: [
             { label: 'Kodeksy etyczne - przeglad', id: 'etyka/kodeksy_etyczne', status: 'live' },
-            { label: 'Etyka zawodowa psychologa i psychoterapeuty w Polsce', id: 'reference/etyka_psychologa', status: 'live' },
             { label: 'Zasady APA i PTP', id: 'etyka/zasady_apa_ptp', status: 'live' },
             { label: 'Dobro i nieszkodzenie', id: 'etyka/dobro_nieszkodzenie', status: 'live' },
           ]

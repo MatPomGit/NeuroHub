@@ -42,6 +42,7 @@ Jedna zmiana powinna obejmować małą, spójną grupę artykułów. Pozwala to 
 |---|---|---|
 | 2026-07-30 | `wiki/emocje/wspolczucie.md` | `wiki/podstawy_pomocy/empatia_w_pomocy.md` |
 | 2026-07-30 | `wiki/emocje/wspolczucie.md` | `wiki/podstawy_pomocy/empatia_kontra_sympatia_brene_brown.md` |
+| 2026-07-30 | `wiki/etyka/kodeksy_etyczne.md` | `wiki/reference/etyka_psychologa.md` |
 | 2026-07-29 | `wiki/psychologia_zdrowia/jakosc_zycia.md` | `wiki/psychologia_niepelnosprawnosci/jakosc_zycia.md` |
 | 2026-07-29 | `wiki/relacje/samotnosc.md` | `wiki/geropsychologia/samotnosc.md` |
 | 2026-07-29 | `wiki/emocje/aleksytymia.md` | `wiki/psychosomatyka/aleksytymia.md` |
@@ -91,3 +92,20 @@ W tej iteracji główne pytanie brzmi: „Czym charakteryzuje się dana klasa le
 | Leki normotymiczne | Które leki zapobiegają manii lub depresji dwubiegunowej i jak zależy to od fazy choroby oraz profilu bezpieczeństwa? | `wiki/psychofarmakologia/07_leki_normotymiczne.md` | `wiki/farmakologia/stabilizatory.md` |
 | Leki prokognitywne | Które leki mają udokumentowane działanie objawowe na funkcje poznawcze i czym różnią się od marketingowej kategorii nootropików? | `wiki/psychofarmakologia/08_leki_prokognitywne.md` | `wiki/farmakologia/nootropiki.md` |
 | Leki stosowane w terapii uzależnień | Jak dobrać farmakoterapię do substancji i celu: przeżycia, redukcji szkód, ograniczenia używania lub abstynencji? | `wiki/psychofarmakologia/11_leki_w_terapii_uzaleznien.md` | `wiki/farmakologia/uzaleznienia_farm.md` |
+
+## Konsolidacja opracowania „Etyka zawodowa psychologa i psychoterapeuty”
+
+Audyt `wiki/reference/etyka_psychologa.md` objął wszystkie artykuły w `wiki/etyka/`. Plik referencyjny powtarzał zakres kilku opracowań kanonicznych, zawierał uszkodzenia kodowania oraz, od drugiego nagłówka „Wprowadzenie”, generyczny materiał niezwiązany swoiście z etyką. Nie utworzono kolejnego artykułu zbiorczego. Dawny adres jest technicznym przekierowaniem do przeglądu kodeksów, a sam plik usunięto z publicznej nawigacji działów `reference` i `etyka`.
+
+| Sekcja dawnego opracowania | Artykuł kanoniczny | Wynik audytu |
+|---|---|---|
+| Zasady naczelne | `wiki/etyka/dobro_nieszkodzenie.md` | Treść była już szerzej omówiona; nie przeniesiono powtórzeń. |
+| Kodeksy i zasady PTP/APA | `wiki/etyka/kodeksy_etyczne.md`, szczegółowo `wiki/etyka/zasady_apa_ptp.md` | Nie przeniesiono streszczeń bez poprawnej dokumentacji. |
+| Tajemnica zawodowa i wyjątki | `wiki/etyka/tajemnica_zawodowa_granice.md` | Nie przeniesiono uproszczonych twierdzeń prawnych ani uszkodzonego tekstu. |
+| Granice i specyfika relacji | `wiki/etyka/granice_relacji.md` | Przykłady dublowały istniejące omówienie; nie przeniesiono ich. |
+| Etyka cyfrowa | `wiki/etyka/etyka_cyfrowa.md` | Istniejący artykuł zawiera szersze omówienie; nie przeniesiono powtórzeń. |
+| Odpowiedzialność i status zawodów | `wiki/etyka/odpowiedzialnosc_zawodowa.md` | Zredagowano i udokumentowano status prawny na dzień 30 lipca 2026 r.; odróżniono ustawę, projekt ustawy, samorząd i dobrowolne stowarzyszenie. |
+
+### Decyzje redakcyjne
+
+Nie zidentyfikowano unikalnego fragmentu dawnego pliku, który jednocześnie był poprawny, swoisty dla etyki i dostatecznie udokumentowany. Informacja o statusie zawodów wymagała ponownego opracowania na podstawie aktów prawnych, a nie mechanicznego przeniesienia. Uszkodzonych sekwencji znaków nie skopiowano. Generyczną część rozpoczynającą się od drugiego nagłówka `## Wprowadzenie` odrzucono w całości.

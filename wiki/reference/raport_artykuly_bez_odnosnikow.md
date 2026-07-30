@@ -54,7 +54,7 @@ Artyku9y bez 9=adnego odno9:nika przychodzďż˝&cego: **645**.
 | `reference` | 13 |
 | `relacje` | 12 |
 | `resilience_mobbing` | 12 |
-| `resocjalizacja` | 12 |
+| `resocjalizacja` | 1 |
 | `rozwojowa` | 12 |
 | `school_psychology` | 13 |
 | `sexology` | 14 |
@@ -695,18 +695,7 @@ Poni9=ej znajdujďż˝& siďż˝" bezpo9:rednie odno9:niki do artyku9Bw bez li
 
 ### resocjalizacja
 
-- [`resocjalizacja/desistance_i_zmiana_tozsamosci.md`](../resocjalizacja/desistance_i_zmiana_tozsamosci.md)
-- [`resocjalizacja/diagnoza_ryzyka_i_potrzeb.md`](../resocjalizacja/diagnoza_ryzyka_i_potrzeb.md)
-- [`resocjalizacja/edukacja_i_aktywizacja_zawodowa.md`](../resocjalizacja/edukacja_i_aktywizacja_zawodowa.md)
-- [`resocjalizacja/etyka_i_prawa_czlowieka.md`](../resocjalizacja/etyka_i_prawa_czlowieka.md)
-- [`resocjalizacja/ewaluacja_skutecznosci_programow.md`](../resocjalizacja/ewaluacja_skutecznosci_programow.md)
-- [`resocjalizacja/model_rnr_w_praktyce.md`](../resocjalizacja/model_rnr_w_praktyce.md)
 - [`resocjalizacja/podstawy_resocjalizacji.md`](../resocjalizacja/podstawy_resocjalizacji.md)
-- [`resocjalizacja/praca_z_uzaleznieniami_w_resocjalizacji.md`](../resocjalizacja/praca_z_uzaleznieniami_w_resocjalizacji.md)
-- [`resocjalizacja/readaptacja_postpenitencjarna.md`](../resocjalizacja/readaptacja_postpenitencjarna.md)
-- [`resocjalizacja/resocjalizacja_nieletnich.md`](../resocjalizacja/resocjalizacja_nieletnich.md)
-- [`resocjalizacja/sprawiedliwosc_naprawcza_mediacje.md`](../resocjalizacja/sprawiedliwosc_naprawcza_mediacje.md)
-- [`resocjalizacja/trening_umiejetnosci_spolecznych_i_samokontroli.md`](../resocjalizacja/trening_umiejetnosci_spolecznych_i_samokontroli.md)
 
 ### rozwojowa
 

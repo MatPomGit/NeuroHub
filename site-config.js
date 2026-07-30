@@ -15,6 +15,17 @@ window.SITE_CONFIG = {
 
   // Zachowuje dawne adresy SPA po scaleniu lub przeniesieniu artykułów.
   articleRedirects: {
+    'resocjalizacja/desistance_i_zmiana_tozsamosci': 'resocjalizacja/podstawy_resocjalizacji',
+    'resocjalizacja/diagnoza_ryzyka_i_potrzeb': 'resocjalizacja/podstawy_resocjalizacji',
+    'resocjalizacja/edukacja_i_aktywizacja_zawodowa': 'resocjalizacja/podstawy_resocjalizacji',
+    'resocjalizacja/etyka_i_prawa_czlowieka': 'resocjalizacja/podstawy_resocjalizacji',
+    'resocjalizacja/ewaluacja_skutecznosci_programow': 'resocjalizacja/podstawy_resocjalizacji',
+    'resocjalizacja/model_rnr_w_praktyce': 'resocjalizacja/podstawy_resocjalizacji',
+    'resocjalizacja/praca_z_uzaleznieniami_w_resocjalizacji': 'resocjalizacja/podstawy_resocjalizacji',
+    'resocjalizacja/readaptacja_postpenitencjarna': 'resocjalizacja/podstawy_resocjalizacji',
+    'resocjalizacja/resocjalizacja_nieletnich': 'resocjalizacja/podstawy_resocjalizacji',
+    'resocjalizacja/sprawiedliwosc_naprawcza_mediacje': 'resocjalizacja/podstawy_resocjalizacji',
+    'resocjalizacja/trening_umiejetnosci_spolecznych_i_samokontroli': 'resocjalizacja/podstawy_resocjalizacji',
     'psychologia_nadmiernego_jedzenia/neurobiologia_nagrody_i_glodu': 'psychologia_nadmiernego_jedzenia/czym_jest_nadmierne_jedzenie',
     'psychologia_nadmiernego_jedzenia/regulacja_emocji_i_jedzenie': 'psychologia_nadmiernego_jedzenia/czym_jest_nadmierne_jedzenie',
     'psychologia_nadmiernego_jedzenia/stres_i_jedzenie_kompulsywne': 'psychologia_nadmiernego_jedzenia/czym_jest_nadmierne_jedzenie',
@@ -1213,18 +1224,7 @@ window.SITE_CONFIG = {
       section: 'Resocjalizacja',
       domainKey: 'resocjalizacja',
       items: [
-        { id: 'resocjalizacja/podstawy_resocjalizacji', label: 'Podstawy resocjalizacji', file: 'wiki/resocjalizacja/podstawy_resocjalizacji.md' },
-        { id: 'resocjalizacja/diagnoza_ryzyka_i_potrzeb', label: 'Diagnoza ryzyka i potrzeb', file: 'wiki/resocjalizacja/diagnoza_ryzyka_i_potrzeb.md' },
-        { id: 'resocjalizacja/model_rnr_w_praktyce', label: 'Model RNR w praktyce', file: 'wiki/resocjalizacja/model_rnr_w_praktyce.md' },
-        { id: 'resocjalizacja/desistance_i_zmiana_tozsamosci', label: 'Desistance i zmiana tozsamosci', file: 'wiki/resocjalizacja/desistance_i_zmiana_tozsamosci.md' },
-        { id: 'resocjalizacja/resocjalizacja_nieletnich', label: 'Resocjalizacja nieletnich', file: 'wiki/resocjalizacja/resocjalizacja_nieletnich.md' },
-        { id: 'resocjalizacja/praca_z_uzaleznieniami_w_resocjalizacji', label: 'Praca z uzaleznieniami', file: 'wiki/resocjalizacja/praca_z_uzaleznieniami_w_resocjalizacji.md' },
-        { id: 'resocjalizacja/edukacja_i_aktywizacja_zawodowa', label: 'Edukacja i aktywizacja zawodowa', file: 'wiki/resocjalizacja/edukacja_i_aktywizacja_zawodowa.md' },
-        { id: 'resocjalizacja/trening_umiejetnosci_spolecznych_i_samokontroli', label: 'Trening umiejetnosci spolecznych i samokontroli', file: 'wiki/resocjalizacja/trening_umiejetnosci_spolecznych_i_samokontroli.md' },
-        { id: 'resocjalizacja/sprawiedliwosc_naprawcza_mediacje', label: 'Sprawiedliwosc naprawcza i mediacje', file: 'wiki/resocjalizacja/sprawiedliwosc_naprawcza_mediacje.md' },
-        { id: 'resocjalizacja/readaptacja_postpenitencjarna', label: 'Readaptacja postpenitencjarna', file: 'wiki/resocjalizacja/readaptacja_postpenitencjarna.md' },
-        { id: 'resocjalizacja/etyka_i_prawa_czlowieka', label: 'Etyka i prawa człowieka', file: 'wiki/resocjalizacja/etyka_i_prawa_czlowieka.md' },
-        { id: 'resocjalizacja/ewaluacja_skutecznosci_programow', label: 'Ewaluacja skutecznosci programow', file: 'wiki/resocjalizacja/ewaluacja_skutecznosci_programow.md' },
+        { id: 'resocjalizacja/podstawy_resocjalizacji', label: 'Resocjalizacja, readaptacja i zaprzestawanie przestępczości', file: 'wiki/resocjalizacja/podstawy_resocjalizacji.md' },
       ]
     },
     { /* Somatic Experiencing */
@@ -1393,18 +1393,7 @@ window.SITE_CONFIG = {
       { id: 'instytucje_wsparcia_dziecka_i_rodziny/system_wsparcia_dziecka_i_rodziny', label: 'System wsparcia dziecka i rodziny', file: 'wiki/instytucje_wsparcia_dziecka_i_rodziny/system_wsparcia_dziecka_i_rodziny.md', status: 'live' },
     ],
     resocialization: [
-      { id: 'resocjalizacja/podstawy_resocjalizacji', label: 'Podstawy resocjalizacji', file: 'wiki/resocjalizacja/podstawy_resocjalizacji.md', status: 'live' },
-      { id: 'resocjalizacja/diagnoza_ryzyka_i_potrzeb', label: 'Diagnoza ryzyka i potrzeb', file: 'wiki/resocjalizacja/diagnoza_ryzyka_i_potrzeb.md', status: 'live' },
-      { id: 'resocjalizacja/model_rnr_w_praktyce', label: 'Model RNR w praktyce', file: 'wiki/resocjalizacja/model_rnr_w_praktyce.md', status: 'live' },
-      { id: 'resocjalizacja/desistance_i_zmiana_tozsamosci', label: 'Desistance i zmiana tozsamosci', file: 'wiki/resocjalizacja/desistance_i_zmiana_tozsamosci.md', status: 'live' },
-      { id: 'resocjalizacja/resocjalizacja_nieletnich', label: 'Resocjalizacja nieletnich', file: 'wiki/resocjalizacja/resocjalizacja_nieletnich.md', status: 'live' },
-      { id: 'resocjalizacja/praca_z_uzaleznieniami_w_resocjalizacji', label: 'Praca z uzaleznieniami', file: 'wiki/resocjalizacja/praca_z_uzaleznieniami_w_resocjalizacji.md', status: 'live' },
-      { id: 'resocjalizacja/edukacja_i_aktywizacja_zawodowa', label: 'Edukacja i aktywizacja zawodowa', file: 'wiki/resocjalizacja/edukacja_i_aktywizacja_zawodowa.md', status: 'live' },
-      { id: 'resocjalizacja/trening_umiejetnosci_spolecznych_i_samokontroli', label: 'Trening umiejetnosci spolecznych i samokontroli', file: 'wiki/resocjalizacja/trening_umiejetnosci_spolecznych_i_samokontroli.md', status: 'live' },
-      { id: 'resocjalizacja/sprawiedliwosc_naprawcza_mediacje', label: 'Sprawiedliwosc naprawcza i mediacje', file: 'wiki/resocjalizacja/sprawiedliwosc_naprawcza_mediacje.md', status: 'live' },
-      { id: 'resocjalizacja/readaptacja_postpenitencjarna', label: 'Readaptacja postpenitencjarna', file: 'wiki/resocjalizacja/readaptacja_postpenitencjarna.md', status: 'live' },
-      { id: 'resocjalizacja/etyka_i_prawa_czlowieka', label: 'Etyka i prawa człowieka', file: 'wiki/resocjalizacja/etyka_i_prawa_czlowieka.md', status: 'live' },
-      { id: 'resocjalizacja/ewaluacja_skutecznosci_programow', label: 'Ewaluacja skutecznosci programow', file: 'wiki/resocjalizacja/ewaluacja_skutecznosci_programow.md', status: 'live' },
+      { id: 'resocjalizacja/podstawy_resocjalizacji', label: 'Resocjalizacja, readaptacja i zaprzestawanie przestępczości', file: 'wiki/resocjalizacja/podstawy_resocjalizacji.md', status: 'live' },
     ],
     'wiki-index': [],
     neuro: [

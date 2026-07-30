@@ -40,6 +40,17 @@ Jedna zmiana powinna obejmować małą, spójną grupę artykułów. Pozwala to 
 
 | Data | Temat kanoniczny | Scalony adres |
 |---|---|---|
+| 2026-07-30 | `wiki/resocjalizacja/podstawy_resocjalizacji.md` | `wiki/resocjalizacja/desistance_i_zmiana_tozsamosci.md` |
+| 2026-07-30 | `wiki/resocjalizacja/podstawy_resocjalizacji.md` | `wiki/resocjalizacja/diagnoza_ryzyka_i_potrzeb.md` |
+| 2026-07-30 | `wiki/resocjalizacja/podstawy_resocjalizacji.md` | `wiki/resocjalizacja/edukacja_i_aktywizacja_zawodowa.md` |
+| 2026-07-30 | `wiki/resocjalizacja/podstawy_resocjalizacji.md` | `wiki/resocjalizacja/etyka_i_prawa_czlowieka.md` |
+| 2026-07-30 | `wiki/resocjalizacja/podstawy_resocjalizacji.md` | `wiki/resocjalizacja/ewaluacja_skutecznosci_programow.md` |
+| 2026-07-30 | `wiki/resocjalizacja/podstawy_resocjalizacji.md` | `wiki/resocjalizacja/model_rnr_w_praktyce.md` |
+| 2026-07-30 | `wiki/resocjalizacja/podstawy_resocjalizacji.md` | `wiki/resocjalizacja/praca_z_uzaleznieniami_w_resocjalizacji.md` |
+| 2026-07-30 | `wiki/resocjalizacja/podstawy_resocjalizacji.md` | `wiki/resocjalizacja/readaptacja_postpenitencjarna.md` |
+| 2026-07-30 | `wiki/resocjalizacja/podstawy_resocjalizacji.md` | `wiki/resocjalizacja/resocjalizacja_nieletnich.md` |
+| 2026-07-30 | `wiki/resocjalizacja/podstawy_resocjalizacji.md` | `wiki/resocjalizacja/sprawiedliwosc_naprawcza_mediacje.md` |
+| 2026-07-30 | `wiki/resocjalizacja/podstawy_resocjalizacji.md` | `wiki/resocjalizacja/trening_umiejetnosci_spolecznych_i_samokontroli.md` |
 | 2026-07-30 | `wiki/psychologia_nadmiernego_jedzenia/czym_jest_nadmierne_jedzenie.md` | `wiki/psychologia_nadmiernego_jedzenia/neurobiologia_nagrody_i_glodu.md` |
 | 2026-07-30 | `wiki/psychologia_nadmiernego_jedzenia/czym_jest_nadmierne_jedzenie.md` | `wiki/psychologia_nadmiernego_jedzenia/regulacja_emocji_i_jedzenie.md` |
 | 2026-07-30 | `wiki/psychologia_nadmiernego_jedzenia/czym_jest_nadmierne_jedzenie.md` | `wiki/psychologia_nadmiernego_jedzenia/stres_i_jedzenie_kompulsywne.md` |
@@ -160,3 +171,9 @@ W tekście wyraźnie oddzielono BED od bulimii psychicznej, otyłości, zespołu
 Artykuł `wiki/psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka.md` jest kanonicznym opracowaniem domeny. Jedenaście generycznych, wzajemnie nakładających się tekstów scalono w jeden wywód rozwojowy: od granic kompetencji i odróżnienia przesiewu od diagnozy, przez relacje, regulację i odporność psychiczną, po swoistość diagnozy, formulacji, interwencji oraz opieki skoordynowanej. Ogólne procedury wywiadu, diagnozy i formułowania pozostają w kanonicznych artykułach działu `wiki/diagnoza/`; tekst dziecięcy odsyła do nich i omawia wyłącznie różnice wynikające z wieku oraz zależności od opiekunów.
 
 Dawne pliki pozostają przekierowaniami do właściwych sekcji, ich identyfikatory SPA obsługuje `articleRedirects`, a nawigacja domeny zawiera tylko artykuł kanoniczny.
+
+## Konsolidacja resocjalizacji, readaptacji i desistance
+
+Artykuł `wiki/resocjalizacja/podstawy_resocjalizacji.md` jest kanonicznym opracowaniem resocjalizacji, reintegracji społecznej i procesu zaprzestawania przestępczości. Zintegrowano w nim ocenę ryzyka i potrzeb, konkurencyjne modele zmiany, interwencje, specyfikę nieletnich, prawa człowieka oraz ewaluację. Dawne artykuły nie odpowiadały na samodzielne główne pytania bez powtarzania definicji i planu pracy, dlatego zachowano je jako przekierowania do właściwych sekcji.
+
+Nawigacja i plan domeny wskazują jeden artykuł. Dawne identyfikatory SPA obsługuje `articleRedirects`, natomiast przekierowania plikowe zachowują linki kotwicowe dla adresów generowanych jako HTML. Konsolidacja usuwa powtarzalne listy dobrych i złych praktyk; ich funkcję dydaktyczną przejęło jedno studium przypadku prowadzące od oceny potrzeb do readaptacji.

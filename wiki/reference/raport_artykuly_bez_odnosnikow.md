@@ -464,17 +464,6 @@ Poni9=ej znajdujďż˝& siďż˝" bezpo9:rednie odno9:niki do artyku9Bw bez li
 ### overeating_psychology
 
 - [`overeating_psychology/czym_jest_nadmierne_jedzenie.md`](../psychologia_nadmiernego_jedzenia/czym_jest_nadmierne_jedzenie.md)
-- [`overeating_psychology/diagnoza_roznicowa_bed_bulimia.md`](../psychologia_nadmiernego_jedzenia/diagnoza_roznicowa_bed_bulimia.md)
-- [`overeating_psychology/farmakoterapia_i_wskazania.md`](../psychologia_nadmiernego_jedzenia/farmakoterapia_i_wskazania.md)
-- [`overeating_psychology/interwencje_poznawczo_behawioralne.md`](../psychologia_nadmiernego_jedzenia/interwencje_poznawczo_behawioralne.md)
-- [`overeating_psychology/mindfulness_i_regulacja_apetytu.md`](../psychologia_nadmiernego_jedzenia/mindfulness_i_regulacja_apetytu.md)
-- [`overeating_psychology/neurobiologia_nagrody_i_glodu.md`](../psychologia_nadmiernego_jedzenia/neurobiologia_nagrody_i_glodu.md)
-- [`overeating_psychology/obraz_ciala_i_samokrytycyzm.md`](../psychologia_nadmiernego_jedzenia/obraz_ciala_i_samokrytycyzm.md)
-- [`overeating_psychology/profilaktyka_nawrotow.md`](../psychologia_nadmiernego_jedzenia/profilaktyka_nawrotow.md)
-- [`overeating_psychology/regulacja_emocji_i_jedzenie.md`](../psychologia_nadmiernego_jedzenia/regulacja_emocji_i_jedzenie.md)
-- [`overeating_psychology/rodzinne_wzorce_jedzenia.md`](../psychologia_nadmiernego_jedzenia/rodzinne_wzorce_jedzenia.md)
-- [`overeating_psychology/srodowisko_zywieniowe_i_nawyki.md`](../psychologia_nadmiernego_jedzenia/srodowisko_zywieniowe_i_nawyki.md)
-- [`overeating_psychology/stres_i_jedzenie_kompulsywne.md`](../psychologia_nadmiernego_jedzenia/stres_i_jedzenie_kompulsywne.md)
 
 ### pharmacology
 

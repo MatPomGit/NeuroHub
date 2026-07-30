@@ -40,6 +40,18 @@ Jedna zmiana powinna obejmować małą, spójną grupę artykułów. Pozwala to 
 
 | Data | Temat kanoniczny | Scalony adres |
 |---|---|---|
+| 2026-07-30 | `wiki/instytucje_wsparcia_dziecka_i_rodziny/system_wsparcia_dziecka_i_rodziny.md` | `wiki/instytucje_wsparcia_dziecka_i_rodziny/bledy_systemowe_i_dobre_praktyki.md` |
+| 2026-07-30 | `wiki/instytucje_wsparcia_dziecka_i_rodziny/system_wsparcia_dziecka_i_rodziny.md` | `wiki/instytucje_wsparcia_dziecka_i_rodziny/interwencja_kryzysowa_i_niebieska_karta.md` |
+| 2026-07-30 | `wiki/instytucje_wsparcia_dziecka_i_rodziny/system_wsparcia_dziecka_i_rodziny.md` | `wiki/instytucje_wsparcia_dziecka_i_rodziny/koordynacja_miedzyinstytucjonalna.md` |
+| 2026-07-30 | `wiki/instytucje_wsparcia_dziecka_i_rodziny/system_wsparcia_dziecka_i_rodziny.md` | `wiki/instytucje_wsparcia_dziecka_i_rodziny/mapa_systemu_wsparcia.md` |
+| 2026-07-30 | `wiki/instytucje_wsparcia_dziecka_i_rodziny/system_wsparcia_dziecka_i_rodziny.md` | `wiki/instytucje_wsparcia_dziecka_i_rodziny/ngo_i_programy_srodowiskowe.md` |
+| 2026-07-30 | `wiki/instytucje_wsparcia_dziecka_i_rodziny/system_wsparcia_dziecka_i_rodziny.md` | `wiki/instytucje_wsparcia_dziecka_i_rodziny/ochrona_zdrowia_psychicznego_dzieci.md` |
+| 2026-07-30 | `wiki/instytucje_wsparcia_dziecka_i_rodziny/system_wsparcia_dziecka_i_rodziny.md` | `wiki/instytucje_wsparcia_dziecka_i_rodziny/osrodek_pomocy_spolecznej_i_praca_socjalna.md` |
+| 2026-07-30 | `wiki/instytucje_wsparcia_dziecka_i_rodziny/system_wsparcia_dziecka_i_rodziny.md` | `wiki/instytucje_wsparcia_dziecka_i_rodziny/piecza_zastepcza_i_asysta_rodziny.md` |
+| 2026-07-30 | `wiki/instytucje_wsparcia_dziecka_i_rodziny/system_wsparcia_dziecka_i_rodziny.md` | `wiki/instytucje_wsparcia_dziecka_i_rodziny/poradnia_psychologiczno_pedagogiczna.md` |
+| 2026-07-30 | `wiki/instytucje_wsparcia_dziecka_i_rodziny/system_wsparcia_dziecka_i_rodziny.md` | `wiki/instytucje_wsparcia_dziecka_i_rodziny/prawa_dziecka_i_standardy_ochrony.md` |
+| 2026-07-30 | `wiki/instytucje_wsparcia_dziecka_i_rodziny/system_wsparcia_dziecka_i_rodziny.md` | `wiki/instytucje_wsparcia_dziecka_i_rodziny/sad_rodzinny_i_kurator.md` |
+| 2026-07-30 | `wiki/instytucje_wsparcia_dziecka_i_rodziny/system_wsparcia_dziecka_i_rodziny.md` | `wiki/instytucje_wsparcia_dziecka_i_rodziny/szkola_jako_instytucja_wsparcia.md` |
 | 2026-07-30 | `wiki/emocje/wspolczucie.md` | `wiki/podstawy_pomocy/empatia_w_pomocy.md` |
 | 2026-07-30 | `wiki/emocje/wspolczucie.md` | `wiki/podstawy_pomocy/empatia_kontra_sympatia_brene_brown.md` |
 | 2026-07-30 | `wiki/etyka/kodeksy_etyczne.md` | `wiki/reference/etyka_psychologa.md` |
@@ -109,3 +121,9 @@ Audyt `wiki/reference/etyka_psychologa.md` objął wszystkie artykuły w `wiki/e
 ### Decyzje redakcyjne
 
 Nie zidentyfikowano unikalnego fragmentu dawnego pliku, który jednocześnie był poprawny, swoisty dla etyki i dostatecznie udokumentowany. Informacja o statusie zawodów wymagała ponownego opracowania na podstawie aktów prawnych, a nie mechanicznego przeniesienia. Uszkodzonych sekwencji znaków nie skopiowano. Generyczną część rozpoczynającą się od drugiego nagłówka `## Wprowadzenie` odrzucono w całości. Katalog `reference` nie jest częścią publicznego spisu artykułów, dlatego wycofany plik usunięto z nawigacji, zachowując jedynie przekierowanie starego adresu i regułę zgodności w `articleRedirects`.
+
+## Konsolidacja systemu wsparcia dziecka i rodziny
+
+Artykuł `wiki/instytucje_wsparcia_dziecka_i_rodziny/system_wsparcia_dziecka_i_rodziny.md` jest kanoniczną mapą polskiego systemu wsparcia. Dwanaście krótkich opracowań instytucjonalnych scalono w jeden tok decyzyjny: od oceny pilności, przez prawa dziecka i kompetencje sektorów, po przekrojową koordynację, ciągłość i kryteria jakości. Powtarzalne sekcje szablonowe usunięto, zachowując swoiste definicje, mechanizmy i użyteczne przykłady.
+
+Stan prawny procedury „Niebieskie Karty”, standardów ochrony małoletnich, pieczy zastępczej oraz kompetencji szkoły, poradni, ochrony zdrowia, pomocy społecznej, sądu i kuratora zweryfikowano na 30 lipca 2026 r. W tekście oddzielono obowiązki wynikające z ustaw i rozporządzeń od zaleceń organizacyjnych dotyczących prowadzenia przypadku. Dawne pliki pozostały przekierowaniami do właściwych kotwic, ich identyfikatory SPA obsługuje `articleRedirects`, a nawigacja domeny zawiera tylko opracowanie kanoniczne.

@@ -686,7 +686,6 @@ Poni9=ej znajdujďż˝& siďż˝" bezpo9:rednie odno9:niki do artyku9Bw bez li
 ### reference
 
 - [`reference/bibliografia_portalu.md`](../reference/bibliografia_portalu.md)
-- [`reference/etyka_psychologa.md`](../reference/etyka_psychologa.md)
 - [`reference/katalog_narzedzi_zasady.md`](../reference/katalog_narzedzi_zasady.md)
 - [`reference/listy_wielopoziomowe.md`](../reference/listy_wielopoziomowe.md)
 - [`reference/literatura.md`](../reference/literatura.md)

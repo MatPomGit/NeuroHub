@@ -1,30 +1,26 @@
-﻿---
-lastReviewed: 2026-04-01
+---
+lastReviewed: 2026-07-30
 reviewCycleMonths: 24
-evidenceCutoffDate: 2025-12-31
+evidenceCutoffDate: 2026-07-30
 ---
 
 # Odpowiedzialność zawodowa i procedury skargowe
 
 Wykonywanie zawodu psychologa wiąże się z odpowiedzialnością - prawną, etyczną i zawodową. Znajomość ram odpowiedzialności zawodowej chroni zarówno klientów (gwarantując standardy jakości), jak i psychologów (jasne procedury w przypadku zarzutów i sporów).
 
-## Ustawa o zawodzie psychologa w Polsce
+## Status prawny zawodów w Polsce (stan na 30 lipca 2026 r.)
 
-**Ustawa z dnia 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów** (Dz.U. 2001 nr 73 poz. 763) reguluje:
+### Psycholog
 
-- Kto może wykonywać zawód psychologa
-- Zasady prowadzenia rejestru psychologów
-- Strukturę samorządu zawodowego (Polskie Towarzystwo Psychologiczne - PTP)
-- Podstawy odpowiedzialności dyscyplinarnej
+Zawód psychologa jest zawodem regulowanym ustawą z 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów. Ustawa formalnie obowiązuje, lecz przewidziany w niej samorząd zawodowy i rejestry regionalne nie zostały skutecznie uruchomione. Nie należy zatem utożsamiać Polskiego Towarzystwa Psychologicznego (dobrowolnego stowarzyszenia) z ustawowym samorządem zawodowym ani przedstawiać nieistniejących izb jako działających organów dyscyplinarnych.
 
-### Kto może używać tytułu „psycholog"?
+Ustawa z 2001 r. uzależnia prawo wykonywania zawodu między innymi od uzyskania dyplomu magistra psychologii i wpisu na listę regionalnej izby. Brak funkcjonujących izb powoduje jednak lukę wykonawczą: nie da się obecnie realizować przewidzianego w ustawie wpisu według opisanego w niej modelu. Dlatego dyplom magistra psychologii, członkostwo w PTP i ustawowe prawo wykonywania zawodu są odrębnymi kategoriami. Informacja dla klienta powinna precyzyjnie wskazywać faktyczne wykształcenie, kwalifikacje i przynależność do organizacji, bez sugerowania państwowej licencji, której dany praktyk nie posiada.
 
-Tytuł zawodowy **psycholog** może używać osoba, która:
-1. Ukończyła studia wyższe na kierunku psychologia (5-letnie jednolite magisterskie lub licencjat + magisterium)
-2. Uzyskała dyplom magistra psychologii
-3. Jest wpisana do rejestru psychologów (formalnie - ale rejestr nie był w pełni funkcjonalny przez lata)
+### Psychoterapeuta
 
-**Ważne**: sam tytuł „psycholog" jest prawnie chroniony. Tytuły „terapeuta", „coach", „psychoterapeuta" - nie są objęte ustawą (choć prace legislacyjne trwają).
+Na dzień aktualizacji nie obowiązuje odrębna, kompleksowa ustawa ustanawiająca jeden państwowy rejestr i jednolite prawo wykonywania zawodu psychoterapeuty. Nie oznacza to jednak całkowitego braku regulacji psychoterapii: wymagania kwalifikacyjne zależą między innymi od miejsca i sposobu udzielania świadczeń, zwłaszcza w podmiotach leczniczych i świadczeniach finansowanych ze środków publicznych. Certyfikat stowarzyszenia psychoterapeutycznego potwierdza spełnienie standardu tej organizacji, ale nie jest sam w sobie państwową licencją zawodową.
+
+Projekty ustaw należy odróżniać od prawa obowiązującego. Samo skierowanie projektu do konsultacji, Sejmu lub dalszych prac legislacyjnych nie zmienia statusu zawodu. Przy publikacji informacji prawnej trzeba sprawdzać ogłoszony tekst aktu i datę jego wejścia w życie w Dzienniku Ustaw.
 
 ## Postępowanie dyscyplinarne
 
@@ -35,15 +31,14 @@ Postępowanie dyscyplinarne może zostać wszczęte, gdy psycholog:
 - Narusza przepisy prawa w związku z wykonywaniem zawodu
 - Zachowuje się w sposób przynoszący ujmę godności zawodu
 
-### Organy dyscyplinarne PTP
+### Wewnętrzne postępowanie etyczne PTP
 
-PTP posiada strukturę komisji:
+PTP może rozpatrywać skargi w granicach swoich regulacji i członkostwa. Postępowanie stowarzyszeniowe nie jest postępowaniem przed ustawowym samorządem zawodowym:
 
 | Organ | Funkcja |
 |---|---|
-| **Komisja Etyczna PTP** | Pierwsza instancja - rozpatruje skargi, prowadzi postępowanie |
-| **Odwoławcza Komisja Etyczna** | Druga instancja - odwołania od orzeczeń Komisji Etycznej |
-| **Zarząd Główny PTP** | Ostateczna sankcja wykluczenia z PTP |
+| **Komisja Etyki PTP** | Przyjmuje i analizuje sprawy etyczne zgodnie z procedurami PTP |
+| **Organy statutowe PTP** | Stosują środki przewidziane w statucie i regulacjach stowarzyszenia wobec jego członków |
 
 ### Przebieg postępowania
 
@@ -63,19 +58,9 @@ Orzeczenie i uzasadnienie
 Możliwość odwołania
 ```
 
-## Rodzaje sankcji
+## Skutki naruszeń
 
-Komisja Etyczna PTP może orzec:
-
-| Sankcja | Opis | Przykładowe naruszenie |
-|---|---|---|
-| **Upomnienie** | Najłagodniejsza - ustne lub pisemne napomnienie | Drobne uchybienia proceduralne |
-| **Nagana** | Formalne potępienie zachowania | Naruszenie poufności bez uzasadnienia |
-| **Nagana z ostrzeżeniem** | Nagana z zastrzeżeniem dalszych konsekwencji | Podwójna rola z klientem |
-| **Zawieszenie prawa do wykonywania zawodu** | Tymczasowy zakaz praktyki | Poważne naruszenie granic |
-| **Wykluczenie z PTP** | Utrata członkostwa | Kontakt seksualny z klientem, fałszywe zeznania |
-
-> Uwaga: PTP nie może odebrać dyplomu magistra ani zakazać używania tytułu psycholog - to wymaga postępowania sądowego. Sankcje PTP dotyczą członkostwa w organizacji i mogą mieć konsekwencje dla reputacji zawodowej.
+Naruszenie może uruchomić kilka niezależnych reżimów odpowiedzialności: cywilny (np. roszczenie o naprawienie szkody), karny, pracowniczy lub kontraktowy, administracyjny w zakresie ochrony danych oraz etyczny we właściwej organizacji zawodowej. PTP może stosować konsekwencje stowarzyszeniowe wobec swoich członków, ale nie może odebrać państwowego prawa wykonywania zawodu ani zakazać praktyki osobie spoza stowarzyszenia. Zakres odpowiedzialności zawsze zależy od podstawy prawnej, miejsca świadczenia usług i konkretnego zachowania.
 
 ## Skargi klientów - jak postępować
 
@@ -162,36 +147,12 @@ W przypadku sporu prawnego lub etycznego dokumentacja jest kluczowym dowodem. Br
 
 ### Przechowywanie dokumentacji
 
-Polskie prawo i dobre praktyki sugerują przechowywanie dokumentacji przez **minimum 5 lat** po zakończeniu terapii (dla dorosłych), **minimum do 18. roku życia** klienta +5 lat (dla dzieci). RODO nakłada limity czasu przechowywania - dokumentacja musi być niszczona bezpiecznie.
-
----## Bibliografia
-
-1. Ustawa z dnia 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów. *Dz.U. 2001 nr 73 poz. 763*.
-2. Polskie Towarzystwo Psychologiczne (2018). *Kodeks Etyczno-Zawodowy Psychologa*. PTP.
-3. Pope, K. S., & Vasquez, M. J. T. (2016). *Ethics in Psychotherapy and Counseling* (5th ed.). Wiley.
-4. Bennett, B. E., Bricklin, P. M., Harris, E., Knapp, S., VandeCreek, L., & Younggren, J. N. (2006). *Assessing and Managing Risk in Psychological Practice*. APA Insurance Trust.
-5. Barnett, J. E., & Johnson, W. B. (2015). *Ethics Desk Reference for Psychologists* (2nd ed.). APA.
-6. Koocher, G. P., & Keith-Spiegel, P. (2016). *Ethics in Psychology and the Mental Health Professions* (4th ed.). Oxford University Press.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Odpowiedzialność zawodowa i procedury skargowe" polega na tym, że etyka zawodowa nie sprowadza się do mechanicznego stosowania reguł, lecz wymaga ważenia dóbr, ryzyk i odpowiedzialności w warunkach niepewności.
-
-Dopiero wspólna analiza zagadnień takich jak ustawa o zawodzie psychologa w polsce, skargi klientów - jak postępować oraz zapis w dokumentacji a odpowiedzialność pokazuje pełny zakres omawianego zjawiska.
-
-Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
-
-## Podsumowanie
-
-Temat "Odpowiedzialność zawodowa i procedury skargowe" pokazuje, że najbardziej dojrzałe wnioski etyczne wynikają z łączenia zasad, kontekstu sytuacyjnego i refleksji nad skutkami decyzji.
-
-
-Dopiero wspólna analiza zagadnień takich jak ustawa o zawodzie psychologa w polsce, skargi klientów - jak postępować oraz zapis w dokumentacji a odpowiedzialność pokazuje pełny zakres omawianego zjawiska.
+Nie ma jednego okresu przechowywania właściwego dla każdej prywatnej usługi psychologicznej. Okres retencji trzeba ustalić na podstawie roli psychologa, rodzaju dokumentacji, przepisów sektorowych, terminów dochodzenia roszczeń i zasady ograniczenia przechowywania z RODO. Należy go opisać w informacji o przetwarzaniu danych, okresowo weryfikować i po jego upływie bezpiecznie usunąć dokumentację, chyba że dalsze przechowywanie ma odrębną podstawę prawną.
 
 ## Bibliografia
 
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+- Ustawa z dnia 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów, Dz.U. 2001 nr 73 poz. 763, z późn. zm., [ELI](https://eli.gov.pl/eli/DU/2001/763/ogl).
+- Ustawa z dnia 15 kwietnia 2011 r. o działalności leczniczej, tekst jedn. Dz.U. 2025 poz. 450, z późn. zm., [ELI](https://eli.gov.pl/eli/DU/2025/450/ogl).
+- Polskie Towarzystwo Psychologiczne. (2018). *Kodeks Etyczno-Zawodowy Psychologa*.
+- Bennett, B. E., Bricklin, P. M., Harris, E., Knapp, S., VandeCreek, L., & Younggren, J. N. (2006). *Assessing and managing risk in psychological practice*. APA Insurance Trust.
+- Barnett, J. E., & Johnson, W. B. (2015). *Ethics desk reference for psychologists* (2nd ed.). American Psychological Association.

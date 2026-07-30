@@ -27,6 +27,7 @@ ROOT = Path(__file__).resolve().parents[1]
 SITE_CONFIG_PATH = ROOT / "site-config.js"
 
 VALID_PLAN_STATUSES = {"live", "planned", "xlink", "wiki"}
+AMBIGUOUS_ALIASES = {"historia", "teorie"}
 
 
 def normalize_canonical_term(value: str) -> str:
@@ -137,6 +138,13 @@ def validate(config: dict[str, Any], strict_nav_plan: bool = False) -> dict[str,
             elif any(not isinstance(alias, str) or not alias.strip() for alias in aliases):
                 error(f"{path}.aliases", "Każdy alias musi być niepustym tekstem")
                 aliases = [alias for alias in aliases if isinstance(alias, str) and alias.strip()]
+
+            for alias in aliases:
+                if normalize_canonical_term(alias) in AMBIGUOUS_ALIASES:
+                    error(
+                        f"{path}.aliases",
+                        f"Alias „{alias}” jest niejednoznaczny; podaj w nim dziedzinę artykułu",
+                    )
 
             label = item.get("label")
             for term in [label, *aliases]:

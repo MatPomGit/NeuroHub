@@ -1,188 +1,84 @@
 ---
-lastReviewed: 2026-04-01
+lastReviewed: 2026-07-30
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
 
 # Obserwacja kliniczna
 
-## Definicja
+## Miejsce w procesie diagnostycznym
 
-Obserwacja kliniczna to **systematyczne, zamierzone i udokumentowane zbieranie informacji o zachowaniu, wyglądzie i funkcjonowaniu osoby badanej** w trakcie bezpośredniego kontaktu z psychologiem. Jest jedną z podstawowych metod diagnostycznych, uzupełniającą dane uzyskane wywiadem i testami psychometrycznymi.
+Obserwacja kliniczna jest sposobem pozyskiwania danych podczas kontaktu diagnostycznego. Obejmuje zachowanie osoby badanej, przebieg interakcji oraz warunki, w których dane zachowanie wystąpiło. Nie stanowi samodzielnego rozpoznania. Jej wyniki należy integrować z wywiadem, dokumentacją, wynikami metod psychometrycznych i, gdy jest to uzasadnione, informacjami od innych osób. Rozbieżność między źródłami jest informacją wymagającą wyjaśnienia, a nie powodem, by automatycznie uznać jedno z nich za prawdziwe.
 
-> „To, co widzi doświadczony klinicysta w ciągu pierwszych minut kontaktu, często zawiera więcej diagnostycznych wskazówek niż godzina testowania." - Othmer & Othmer (2002)
+Proces ma charakter iteracyjny: wstępna obserwacja pomaga formułować hipotezy, dalsza rozmowa lub zadania pozwalają je sprawdzać, a nowe dane mogą zmienić wcześniejszą interpretację. Hipoteza powinna zatem pozostać tymczasowa aż do zakończenia integracji danych.
 
-Obserwacja nie polega na subiektywnym „wrażeniu" - wymaga systematyczności, wiedzy klinicznej i oddzielenia faktów od interpretacji.
+W tym artykule obserwacja oznacza czynność diagnostyczną podejmowaną wobec konkretnej osoby. Projektowanie pomiaru zachowania na potrzeby badań, w tym próbkowanie, kodowanie i ocenę zgodności koderów, omawia odrębny artykuł: [obserwacja jako metoda badawcza](../eksperyment_psychologiczny/obserwacja_psychologiczna.md).
 
----
+## Badanie stanu psychicznego
 
-## Rodzaje obserwacji klinicznej
+Badanie stanu psychicznego (ang. *mental status examination*, MSE) jest uporządkowanym opisem funkcjonowania ujawnionego w określonym czasie i sytuacji. Część danych pochodzi z bezpośredniej obserwacji, część z odpowiedzi osoby badanej, a część z krótkich zadań klinicznych. Te źródła należy w notatce odróżnić.
 
-### Według stopnia strukturyzacji
+Typowy opis obejmuje:
 
-| Typ | Charakterystyka | Zastosowanie |
+- **wygląd i zachowanie**: ubiór, higienę, postawę, kontakt, aktywność psychoruchową i nietypowe ruchy;
+- **mowę**: tempo, głośność, płynność i spontaniczność;
+- **nastrój i afekt**: nastrój jako relację osoby badanej oraz afekt jako obserwowalną ekspresję, jej zakres, stabilność i zgodność z treścią rozmowy;
+- **myślenie**: organizację i tok wypowiedzi oraz zgłaszane treści, na przykład obawy, obsesje lub przekonania urojeniowe;
+- **spostrzeganie**: zgłaszane doświadczenia percepcyjne i obserwowalne reakcje, przy czym samo zachowanie nie dowodzi obecności omamów;
+- **funkcje poznawcze**: poziom czuwania, orientację, uwagę, pamięć i język w zakresie rzeczywiście zbadanym;
+- **wgląd i zdolność osądu**: rozumienie własnej sytuacji oraz sposób rozważania konsekwencji decyzji;
+- **bezpieczeństwo**: wypowiedzi i zachowania istotne dla oceny ryzyka, zawsze rozpatrywane wraz z pełniejszym wywiadem i kontekstem.
+
+MSE jest przekrojem funkcjonowania, nie opisem stałej cechy. Brak objawu w czasie spotkania nie przesądza, że nie występuje on w innych warunkach. Z kolei pojedyncze zachowanie zaobserwowane w gabinecie nie wystarcza do przypisania zaburzenia.
+
+## Jak dokumentować zachowanie
+
+Notatka powinna umożliwiać innemu profesjonaliście odtworzenie podstaw wniosku. Pomaga w tym zapis w czterech warstwach:
+
+1. **Kontekst:** gdzie, kiedy i podczas jakiej czynności pojawiło się zachowanie oraz kto był obecny.
+2. **Opis:** co można było zobaczyć lub usłyszeć, najlepiej z podaniem sekwencji, czasu trwania albo częstości, jeśli były rejestrowane.
+3. **Źródło:** czy informacja pochodzi z obserwacji, samoopisu, relacji osoby trzeciej, dokumentacji czy zadania diagnostycznego.
+4. **Interpretacja i jej status:** jaka hipoteza wynika z danych, jakie są wyjaśnienia alternatywne i co jeszcze trzeba sprawdzić.
+
+Zamiast zdania „pacjent był wrogi” lepiej zapisać: „po pytaniu o używanie alkoholu podniósł głos, dwukrotnie przerwał prowadzącej i odmówił odpowiedzi”. Dopiero osobno można odnotować, że zachowanie może wskazywać na napięcie lub niechęć wobec tematu. Cytaty dosłowne warto stosować dla krótkich, diagnostycznie ważnych wypowiedzi, wyraźnie odróżniając je od parafrazy.
+
+Dokumentuje się również dane negatywne, ale tylko w granicach badania. Sformułowanie „w trakcie 50-minutowego spotkania nie zaobserwowano pobudzenia ruchowego” jest precyzyjniejsze niż „bez pobudzenia”. Nagranie wymaga odpowiedniej podstawy, poinformowania o celu i sposobie przechowywania oraz ochrony dostępu zgodnie z obowiązującymi zasadami zawodowymi i prawnymi.
+
+## Obserwacja a interpretacja
+
+Rozdzielenie obu poziomów ogranicza przedwczesne domykanie diagnozy:
+
+| Zapis obserwacyjny | Możliwa interpretacja | Co należy jeszcze uwzględnić |
 |---|---|---|
-| **Wolna (naturalistyczna)** | Brak z góry ustalonego schematu; rejestracja wszystkiego, co istotne | Wstępna ocena, podejście humanistyczne |
-| **Częściowo ustrukturyzowana** | Ogólne kategorie obserwacyjne, elastyczność wykonania | Badanie kliniczne, ocena MSE |
-| **Ustrukturyzowana** | Kodowane kategorie, listy kontrolne, standaryzowane protokoły | Badania naukowe, ADOS-2, CPRS |
+| Osoba przez większość rozmowy spoglądała w dół. | Napięcie, obniżony nastrój albo unikanie kontaktu. | Normy kulturowe, cechy wzroku, temat rozmowy i typowy sposób komunikacji. |
+| Odpowiedzi następowały po kilkunastu sekundach. | Spowolnienie, trudność w rozumieniu albo ostrożność. | Język badania, słuch, leki, zmęczenie i złożoność pytań. |
+| Osoba kilkakrotnie wstała podczas rozmowy. | Pobudzenie lub dyskomfort. | Ból, potrzeby fizjologiczne, warunki pomieszczenia i uzgodnione przerwy. |
 
-### Według kontekstu
+Interpretacja kliniczna jest potrzebna, lecz powinna być proporcjonalna do danych. W zapisie warto używać określeń wskazujących poziom pewności, takich jak „zaobserwowano”, „osoba podała”, „może wskazywać” i „wymaga weryfikacji”.
 
-- **Obserwacja w gabinecie** - warunki naturalne spotkania diagnostycznego
-- **Obserwacja w naturalnym środowisku** - dom, szkoła, miejsce pracy
-- **Obserwacja analogowa** - specjalnie zaaranżowana sytuacja (np. zadanie problemowe w laboratorium)
-- **Obserwacja uczestnicząca** - psycholog jest obecny w środowisku klienta (np. na oddziale psychiatrycznym)
+## Obserwacja w różnych warunkach
 
----
+Gabinet sprzyja kontroli warunków, ale pokazuje zachowanie w sytuacji formalnej. Obserwacja w domu, szkole lub na oddziale może ujawnić inne wzorce, równocześnie zwiększa jednak wpływ kontekstu i wymaga jasnego określenia roli diagnosty. U dzieci należy brać pod uwagę etap rozwoju, obecność opiekuna, rodzaj zadania, zmęczenie oraz różnice między środowiskami. Standaryzowane procedury obserwacyjne, takie jak ADOS-2, mogą dostarczyć danych w ściśle określonym zakresie, ale ich wynik interpretuje się jako część szerszego postępowania diagnostycznego (Lord i in., 2012).
 
-## Obszary obserwacji klinicznej (MSE)
+## Ograniczenia wnioskowania klinicznego
 
-### 1. Wygląd zewnętrzny (*Appearance*)
+- **Selektywność sytuacji:** obserwacja obejmuje mały wycinek zachowania, często w warunkach nietypowych dla osoby badanej.
+- **Reaktywność:** świadomość oceny oraz zachowanie diagnosty mogą zmieniać przebieg spotkania.
+- **Wieloznaczność zachowania:** podobny objaw może mieć przyczyny psychiczne, somatyczne, rozwojowe, farmakologiczne, sytuacyjne lub kulturowe.
+- **Wpływ oczekiwań:** pierwsze informacje mogą ukierunkować uwagę i sprzyjać poszukiwaniu danych zgodnych z początkową hipotezą.
+- **Nierówna dostępność danych:** ekspresyjne zachowania łatwiej zauważyć niż doświadczenia wewnętrzne; brak obserwowalnego sygnału nie jest dowodem braku problemu.
+- **Ograniczona zgodność ocen:** klinicyści mogą odmiennie klasyfikować to samo zachowanie, zwłaszcza gdy kategorie są niejasne.
 
-- Wiek biologiczny a metrykalny, higiena, ubiór, zadbanie
-- Anomalie fizyczne mogące sugerować genezę organiczną
-- Sygnały niewerbalnego niepokoju (pot, drżenie, czerwienienie)
+Ryzyko błędu zmniejszają: korzystanie z wielu źródeł, jawne rozważanie hipotez alternatywnych, konsultacja lub niezależna ocena w trudnych przypadkach, stosowanie adekwatnych procedur standaryzowanych oraz ponowna ocena w czasie. Żaden z tych środków nie zamienia jednak obserwacji w nieomylny pomiar.
 
-### 2. Zachowanie ruchowe (*Behaviour*)
+## Wnioski
 
-- Aktywność psychomotoryczna: pobudzenie vs. spowolnienie
-- Tiki, stereotypie, manieryzmy
-- Koordynacja, równowaga, chód
-- Kontakt wzrokowy - jego ilość i jakość
+Wartość obserwacji klinicznej nie polega na trafności pierwszego wrażenia, lecz na zdyscyplinowanym przejściu od danych do hipotezy. Dobry opis określa kontekst i źródło informacji, oddziela zachowanie od interpretacji oraz ujawnia granice wniosku. Dzięki temu obserwacja wspiera diagnozę, zamiast ją przedwcześnie zastępować.
 
-### 3. Afekt i ekspresja emocjonalna
+## Bibliografia
 
-- **Modulacja** - czy afekt jest adekwatny do treści rozmowy?
-- **Zakres** - czy pacjent wyraża różnorodne emocje, czy jest to zakres wąski?
-- **Płynność** - gwałtowne wahania vs. stałość
-- Dysocjacja między afektem a treścią wypowiedzi
-
-### 4. Mowa i język (*Speech*)
-
-- Tempo: szybkie, spowolnione, normalne
-- Głośność i modulacja
-- Płynność: jąkanie, zacięcia, neologizmy
-- Logika: związek wypowiedzi, tangencjalność, rozkojarzenie
-
-### 5. Nastrój (*Mood*)
-
-Samoopis stanu emocjonalnego - nastrój jest tym, co pacjent *raportuje*, afekt - tym, co *obserwujemy*. Ważne rozróżnienie!
-
-### 6. Myślenie
-
-- **Tok myślenia**: przyspieszony (gonitwa myśli), spowolniony, rozproszony
-- **Treść myślenia**: urojenia (ksobne, prześladowcze, wielkościowe), obsesje, fobie, myśli intruzywne
-- **Percepcja**: omamy wzrokowe, słuchowe, dotykowe, czuciowe
-
-### 7. Orientacja i poznanie
-
-- Orientacja allopsychiczna (czas, miejsce, sytuacja) i autopsychiczna (własna tożsamość)
-- Wstępna ocena pamięci, uwagi, myślenia abstrakcyjnego
-
-### 8. Wgląd i osąd
-
-- Wgląd (*insight*): czy pacjent rozumie, że ma problem? (0–6 wg Davida)
-- Osąd (*judgement*): zdolność do realistycznej oceny i podejmowania decyzji
-
----
-
-## Dokumentowanie obserwacji
-
-### Zasady prawidłowego zapisu
-
-1. **Oddzielaj obserwacje od interpretacji** - najpierw opisz fakty, następnie ewentualną interpretację
-2. **Używaj języka behawioralnego** - „pacjent unikał kontaktu wzrokowego i siedział z ramionami skrzyżowanymi" zamiast „pacjent był wrogi"
-3. **Datuj i sygnuj** każdą notatkę
-4. **Cytuj dosłownie** szczególnie diagnostycznie ważne wypowiedzi (w cudzysłowie)
-
-### Narzędzia dokumentacyjne
-
-- **Formularz MSE** (Mental Status Examination) - standardowy kwestionariusz
-- **Karty obserwacyjne** - tabele kategorii z możliwością zaznaczania
-- **Nagranie wideo** - za zgodą pacjenta, nieocenione w badaniu dzieci
-- **Opisy narracyjne** - swobodny opis zdarzenia, uzupełniony kodowaniem
-
----
-
-## Rzetelność i trafność obserwacji
-
-### Zagrożenia rzetelności
-
-| Błąd | Mechanizm |
-|---|---|
-| Efekt halo | Pierwsze wrażenie zabarwia wszystkie kolejne oceny |
-| Błąd łagodności | Tendencja do oceniania wyżej niż na to wskazują dane |
-| Konfundacja ról | Obserwator jest jednocześnie terapeutą - wpływa na zachowanie |
-| Reaktywność | Osoba badana zmienia zachowanie pod wpływem obserwacji |
-
-### Sposoby zwiększania rzetelności
-
-- Szkolenie obserwatorów i kalibracja (wskaźnik kappa Cohena > 0,70)
-- Obserwacja przez jednostronne lustro lub zapis wideo
-- Podwójna obserwacja (dwóch niezależnych klinicystów)
-- Stosowanie znormalizowanych protokołów (np. ADOS-2, CPRS)
-
----
-
-## Etyczne aspekty obserwacji
-
-### Świadoma zgoda
-
-Pacjent ma prawo wiedzieć, że jest obserwowany i jak notatki będą przechowywane. Wyjątek: naturalistyczna obserwacja w miejscu publicznym w badaniach naukowych (etycznie kontrowersyjne).
-
-### Poufność
-
-Dokumentacja obserwacyjna podlega tym samym regułom poufności co cała dokumentacja diagnostyczna - dostęp wyłącznie dla upoważnionych pracowników.
-
-### Ryzyko etykietowania
-
-Obserwator powinien być świadomy własnych uprzedzeń kulturowych, klasowych i płciowych, które mogą zniekształcać interpretację zachowań. Zachowanie normalne w jednej kulturze (np. unikanie wzroku jako szacunek) może zostać błędnie zinterpretowane w innej.
-
----
-
-## Obserwacja dzieci - specyfika
-
-U dzieci obserwacja często dostarcza istotniejszych danych niż wywiad (szczególnie przed 7. rokiem życia). Kluczowe obszary:
-
-- Zabawa swobodna i kierowana - jakość, wyobraźnia, kontakt z dorosłym
-- Przywiązanie: reakcja na rozstanie z opiekunem i ponowne spotkanie
-- Regulacja emocjonalna: frustracja, oczekiwanie, nagroda
-- Mowa i interakcja rówieśnicza
-
-### ADOS-2 jako ustrukturyzowana obserwacja
-
-*Autism Diagnostic Observation Schedule* (Lord i in.) to złoty standard w diagnostyce ASD - standaryzowana seria zadań wywołujących naturalne zachowania społeczne i komunikacyjne, ocenianych na podstawie obserwacji przez dwie osoby.
-
----
-
-
-
-Obserwacja kliniczna jest niezbędnym elementem całościowej diagnozy psychologicznej. Jej siła tkwi w bezpośredniości i naturalistyczności danych - umożliwia uchwycenie wzorców zachowania, których pacjent sam może nie być świadomy lub których nie potrafi opisać słowami. Jednocześnie wymaga dyscypliny metodologicznej, świadomości własnych uprzedzeń i etycznej wrażliwości diagnosty.
-
----## Bibliografia zalecana
-
-- Othmer, E., & Othmer, S. C. (2002). *The Clinical Interview Using DSM-IV-TR*. American Psychiatric Publishing.
-- Morrison, J. (2014). *Wywiad diagnostyczny. Podręcznik DSM-5*. Wydawnictwo UJ.
-- Lord, C., i in. (2012). *ADOS-2 Manual*. Western Psychological Services.
-- Sattler, J. M. (2014). *Foundations of Behavioral, Social, and Clinical Assessment of Children*. Jerome M. Sattler Publisher.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Obserwacja kliniczna" polega na tym, że w diagnozie najwięcej błędów powstaje nie na poziomie pojedynczej techniki, lecz na etapie wnioskowania z danych o różnej jakości i pochodzeniu.
-
-Dopiero wspólna analiza zagadnień takich jak definicja, rzetelność i trafność obserwacji oraz bibliografia zalecana pokazuje pełny zakres omawianego zjawiska.
-
-Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
-
-## Podsumowanie
-
-Temat "Obserwacja kliniczna" pokazuje, że najbardziej użyteczna diagnoza łączy precyzję metodologiczną z uważnością na kontekst, relację i ograniczenia interpretacji.
-
-
-Dopiero wspólna analiza zagadnień takich jak definicja, rzetelność i trafność obserwacji oraz bibliografia zalecana pokazuje pełny zakres omawianego zjawiska.## Bibliografia
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+- American Psychiatric Association. (2016). *The American Psychiatric Association Practice Guidelines for the Psychiatric Evaluation of Adults* (3rd ed.). American Psychiatric Association Publishing.
+- Groth-Marnat, G., & Wright, A. J. (2016). *Handbook of Psychological Assessment* (6th ed.). Wiley.
+- Lord, C., Rutter, M., DiLavore, P. C., Risi, S., Gotham, K., & Bishop, S. L. (2012). *Autism Diagnostic Observation Schedule, Second Edition (ADOS-2) Manual*. Western Psychological Services.
+- Morrison, J. (2014). *The First Interview* (4th ed.). Guilford Press.
+- Trzepacz, P. T., & Baker, R. W. (1993). *The Psychiatric Mental Status Examination*. Oxford University Press.

@@ -43,7 +43,7 @@ W praktyce eksperyment i obserwacja nie konkurują ze sobą, lecz tworzą sekwen
 3. Operacjonalizacja zmiennych.
 4. Dobór próby i rekrutacja.
 5. Etyka badania i świadoma zgoda.
-6. Obserwacja psychologiczna w praktyce.
+6. Obserwacja jako metoda badawcza.
 7. Protokół badania i pilotaż.
 8. Prowadzenie sesji eksperymentalnej.
 9. Kontrola jakości i zarządzanie danymi.

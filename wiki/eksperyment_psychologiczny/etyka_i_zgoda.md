@@ -1,53 +1,57 @@
-﻿---
-lastReviewed: 2026-04-19
-reviewCycleMonths: 24
-evidenceCutoffDate: 2025-12-31
+---
+title: Przygotowanie etycznej procedury eksperymentu psychologicznego
+lastReviewed: 2026-07-30
+reviewCycleMonths: 12
+evidenceCutoffDate: 2026-07-30
 ---
 
-# Etyka badania i świadoma zgoda
+# Przygotowanie etycznej procedury eksperymentu psychologicznego
 
-## Wprowadzenie
-Etyka w badaniach psychologicznych chroni uczestnika i jednocześnie wzmacnia jakość naukową projektu. Procedura etyczna nie jest dodatkiem administracyjnym, lecz warunkiem wiarygodnego gromadzenia danych.
+Ten artykuł opisuje operacyjne przygotowanie procedury eksperymentalnej. Ogólne reguły [świadomej zgody](../etyka/swiadoma_zgoda.md) przedstawiono w artykule kanonicznym, natomiast bilans ryzyka i korzyści, ocenę komisji, debriefing, zatajenie celu, wynagradzanie oraz ochronę danych omawia [Etyka badań naukowych w psychologii](../etyka/etyka_badan.md).
 
-## Definicje
-- **Świadoma zgoda** – dobrowolna decyzja uczestnika podjęta na podstawie zrozumiałej informacji.
-- **Minimalizacja ryzyka** – projektowanie procedur ograniczających szkody psychiczne i fizyczne.
-- **Poufność** – ochrona tożsamości i danych uczestnika.
-- **Element ukrycia celu (deception)** – celowe nieujawnienie części informacji ze względów metodologicznych.
+## Od projektu do protokołu
 
-## Mechanizmy i zależności
+Przed rekrutacją zespół powinien przełożyć plan eksperymentu na procedurę możliwą do wykonania w ten sam sposób wobec każdego uczestnika:
 
-Rzetelna etyka obejmuje:
+1. **Rozpisz przebieg.** Określ kolejność instrukcji, manipulacji, pomiarów i przerw, przewidywany czas oraz osoby odpowiedzialne za każdy etap.
+2. **Zidentyfikuj obciążenia.** Dla każdego etapu opisz bodźce, pytania lub zadania mogące wywołać stres, kryteria przerwania oraz sposób udzielenia pomocy.
+3. **Przygotuj materiały dla uczestnika.** Informacja, formularz zgody, komunikaty na ekranie i instrukcja ustna muszą być ze sobą zgodne. Formularz warto sprawdzić w pilotażu pod kątem zrozumiałości.
+4. **Zaplanuj rezygnację.** Uczestnik powinien wiedzieć, jak ominąć pytanie, zrobić przerwę i zakończyć udział. Interfejs nie może ukrywać przycisku wyjścia ani wymuszać odpowiedzi, jeśli nie jest to merytorycznie i etycznie uzasadnione.
+5. **Przygotuj plan danych.** Oddziel dane kontaktowe od wyników, nadaj identyfikatory, ogranicz uprawnienia i zapisz terminy anonimizacji lub usunięcia.
+6. **Złóż kompletny wniosek.** Komisja powinna otrzymać protokół i dokładnie te wersje ogłoszeń, instrukcji, bodźców, formularzy i debriefingu, których zespół zamierza użyć.
+7. **Przeszkol zespół.** Badacze powinni jednakowo odpowiadać na pytania, rozpoznawać kryteria przerwania, dokumentować odstępstwa i wiedzieć, komu zgłaszać zdarzenia niepożądane.
 
-1. Jasny opis ryzyka i prawa do wycofania udziału.
-2. Proporcjonalność obciążenia do potencjalnej wartości naukowej.
-3. Debriefing oraz możliwość wycofania danych po ujawnieniu celu.
-4. Zabezpieczenia danych zgodne z zasadą privacy by design.
+## Zatajenie informacji i debriefing w procedurze
 
-## Praktyczne przykłady
+Jeżeli pełne ujawnienie celu przed eksperymentem zagraża trafności pomiaru, protokół powinien wskazywać dokładnie, czego nie ujawniono lub co przedstawiono niezgodnie z prawdą, dlaczego nie wystarcza metoda alternatywna oraz kiedy nastąpi debriefing. Nie wolno zatajać informacji o ryzyku, które mogłyby wpłynąć na decyzję o udziale.
 
-### Dobra praktyka
+Scenariusz debriefingu powinien:
 
-Przykład dobrej praktyki: formularz zgody jest testowany pod kątem zrozumiałości, uczestnik dostaje czas na pytania, a debriefing zawiera kontakt do wsparcia psychologicznego, gdy procedura była obciążająca.
+- ujawnić rzeczywisty cel i zastosowaną manipulację;
+- wyjaśnić metodologiczne uzasadnienie zatajenia;
+- sprawdzić stan uczestnika i przewidywać reakcję na dyskomfort;
+- ponownie przedstawić zasady dotyczące wycofania danych;
+- zawierać kontakt do zespołu, komisji i, gdy jest to adekwatne, źródeł wsparcia.
 
-**Konsekwencje:** wyższe bezpieczeństwo uczestników i mniejsze ryzyko etycznych naruszeń.
+## Próba pilotażowa i kontrola realizacji
 
-## Zła praktyka
-Przykład złej praktyki: skrótowe, niezrozumiałe formularze i brak realnej możliwości wycofania danych po debriefingu.
+Pilotaż służy nie tylko ocenie pomiaru. Powinien sprawdzić czas na przeczytanie informacji, rozumienie instrukcji, intensywność obciążenia, działanie ścieżki rezygnacji i adekwatność debriefingu. Uwagi uczestników pilotażu należy odnotować, a istotne zmiany przedstawić komisji zgodnie z jej regulaminem.
 
-**Konsekwencje:** osłabienie autonomii uczestnika, ryzyko skarg etycznych i utrata zaufania do zespołu.
+Podczas zbierania danych zespół prowadzi rejestr odstępstw, rezygnacji i zdarzeń niepożądanych. Powtarzające się trudności, na przykład niezrozumiała instrukcja lub silniejszy od przewidywanego dyskomfort, wymagają zatrzymania rekrutacji i ponownej oceny procedury, a nie jedynie korekty podczas kolejnej sesji.
 
-## Perspektywa nieoczywista
+## Lista kontrolna przed uruchomieniem
 
-W debacie metodologicznej deception bywa oceniane wyłącznie negatywnie. Alternatywna perspektywa wskazuje, że przy ścisłych warunkach (brak alternatywy, niskie ryzyko, pełny debriefing, zgoda komisji) może ono zwiększać trafność pomiaru zachowań podatnych na efekt oczekiwań.
+- Czy używana wersja protokołu jest wersją zaakceptowaną przez komisję?
+- Czy wszystkie kanały rekrutacji i formy wynagrodzenia zostały zatwierdzone?
+- Czy uczestnik może odmówić, pominąć dopuszczalne pytania i przerwać udział?
+- Czy kryteria zatrzymania oraz kontakty alarmowe są dostępne osobie prowadzącej sesję?
+- Czy system zapisuje tylko zaplanowane dane, a dostęp został przetestowany?
+- Czy debriefing odpowiada faktycznie zastosowanej manipulacji?
+- Czy zespół wie, jak raportować odstępstwa i zdarzenia niepożądane?
 
+## Bibliografia
 
-
-- Etyka i metodologia nie konkurują ze sobą, lecz wzajemnie się wzmacniają.
-- Świadoma zgoda musi być procesem komunikacyjnym, nie jednorazowym podpisem.
-- Najwyższy standard obejmuje jednocześnie ochronę uczestnika i transparentność danych.## Bibliografia
-
-1. American Psychological Association. (2017). *Ethical Principles of Psychologists and Code of Conduct*.
-2. Beauchamp, T. L., & Childress, J. F. (2019). *Principles of Biomedical Ethics* (8th ed.). Oxford University Press.
-3. Resnik, D. B. (2020). *The Ethics of Research with Human Subjects*. Springer.
-4. World Medical Association. (2013). *Declaration of Helsinki*.
+- American Psychological Association. (2017). *Ethical principles of psychologists and code of conduct* (Standards 8.01–8.08). https://www.apa.org/ethics/code
+- National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research. (1979). *The Belmont report*. U.S. Department of Health and Human Services. https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/
+- Resnik, D. B. (2020). *The ethics of research with human subjects: Protecting people, advancing science, promoting trust*. Springer.
+- World Medical Association. (2024). *Declaration of Helsinki: Ethical principles for medical research involving human participants*. https://www.wma.net/what-we-do/medical-ethics/declaration-of-helsinki/

@@ -1,59 +1,68 @@
-﻿---
-lastReviewed: 2026-04-01
+---
+lastReviewed: 2026-07-30
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
 
-# Profilaktyka samobójstw
+# Profilaktyka zachowań samobójczych
 
-Strategie zapobiegania samobójstwom - od interwencji populacyjnych po programy ukierunkowane i szkolenie strażników.
+Profilaktyka zachowań samobójczych obejmuje działania zmniejszające prawdopodobieństwo śmierci samobójczej, próby samobójczej i ponowienia zachowania po kryzysie. Nie sprowadza się do rozpoznawania „typu osoby zagrożonej”. Łączy zmiany w otoczeniu, bezpieczną komunikację, łatwo dostępną pomoc oraz ciągłość opieki.
 
-## Poziomy profilaktyki
+## Poziomy profilaktyki w skrócie
 
-Profilaktykę samobójstw dzieli się na trzy poziomy (model Gordona):
-- **Prewencja uniwersalna** - skierowana do całej populacji, niezależnie od ryzyka;
-- **Prewencja selektywna** - adresowana do grup podwyższonego ryzyka (młodzież po traumie, osoby po próbach);
-- **Prewencja wskazana** - intensywna pomoc dla konkretnych osób z identyfikowalnym ryzykiem.
+Podział na działania **uniwersalne** (dla całej populacji), **selektywne** (dla grup o podwyższonym ryzyku) i **wskazane** (dla osób z rozpoznawalnymi oznakami kryzysu) opisuje odbiorców, a nie skuteczność interwencji. W praktyce spójny system łączy wszystkie trzy poziomy (WHO, 2021).
 
-## Prewencja uniwersalna
+## Ograniczanie dostępu do metod
 
-**Ograniczanie dostępu do środków** (*means restriction*) to jeden z najlepiej udowodnionych środków prewencji - bariery na mostach, zmiana opakowań leków (mniejsze opakowania paracetamolu → mniej zgonów). **Zmiana norm medialnych** (*media guidelines*) - unikanie szczegółowych opisów metod i gloryfikacji, stosowanie standardów Papageno (opisy radzenia sobie z kryzysem) zamiast standardów Werthera (naśladowanie). **Edukacja zdrowotna** - zmniejszanie stygmatyzacji, wiedza o kryzyse i zasobach.
+Ograniczanie dostępu do metod o wysokiej śmiertelności wydłuża czas między impulsem a działaniem i zwiększa szansę na przerwanie kryzysu. Obejmuje między innymi zabezpieczanie miejsc publicznych, kontrolę dostępu do toksycznych pestycydów i broni palnej oraz ograniczanie ilości leków wydawanych jednorazowo. Przegląd systematyczny wykazał, że zabezpieczenia w miejscach częstych skoków wiążą się ze spadkiem liczby samobójstw w tych lokalizacjach; nie stwierdzono przy tym pełnego przeniesienia zgonów do pobliskich miejsc (Pirkis i in., 2015). Po ograniczeniu wielkości opakowań paracetamolu w Wielkiej Brytanii obserwowano długotrwałe zmniejszenie liczby zgonów i przeszczepów wątroby związanych z zatruciem tym lekiem, choć badanie obserwacyjne nie dowodzi samodzielnie związku przyczynowego (Hawton i in., 2013).
 
-> **Efekt Wertera** - wzrost samobójstw po nagłośnieniu w mediach (Phillipps, 1974). **Efekt Papageno** - przekazy o skutecznym radzeniu sobie z kryzysem *redukują* zachowania suicydalne.
+Interwencję należy dobierać do lokalnego profilu metod. Samo zalecenie osobie w kryzysie, aby „unikała zagrożenia”, nie zastępuje fizycznego zabezpieczenia ani uzgodnionego z nią planu bezpieczeństwa.
 
-## Szkolenie strażników (gatekeeper training)
+## Bezpieczna komunikacja medialna
 
-**Strażnicy bramki** (*gatekeepers*) to osoby z otoczenia przyszłego suicydanta - nauczyciele, fryzjerzy, farmaceuci, pracownicy służb, rodzina - którzy mogą rozpoznać sygnały ryzyka i skierować do pomocy.
+Relacje medialne nie powinny podawać instruktażowych szczegółów metody, eksponować miejsca ani przedstawiać samobójstwa jako nieuchronnego skutku jednego wydarzenia. Zaleca się neutralny język, informacje o sygnałach kryzysu i dostępnej pomocy oraz historie osób, które poradziły sobie z kryzysem (WHO, 2023).
 
-Programy szkolenia: **QPR** (Question, Persuade, Refer) - pytaj, przekonaj, skieruj; **Applied Suicide Intervention Skills Training (ASIST)** - 2-dniowe szkolenie dla profesjonalistów; **safeTALK** - 4-godzinne szkolenie dla nieprofesjonalistów.
+Badania obserwacyjne wskazują, że sensacyjne i szczegółowe relacje mogą wiązać się ze wzrostem zachowań naśladowczych, określanym jako **efekt Wertera**. Z kolei przekazy pokazujące konstruktywne radzenie sobie mogą działać ochronnie, co nazwano **efektem Papageno** (Niederkrotenthaler i in., 2010; Niederkrotenthaler i in., 2020). Nie oznacza to, że pojedynczy materiał wywołuje lub powstrzymuje konkretne zachowanie; znaczenie mają treść, zasięg, powtarzalność i podatność odbiorców.
 
-## Prewencja selektywna
+## Ciągłość opieki po kryzysie
 
-Programy dla grup ryzyka: dzieci i młodzież (profilaktyka szkolna, SOS Signs of Suicide), osoby po próbach (follow-up kontakt, terapia oparta na bezpiecznym planie), weterani (programy VA w USA), więźniowie.
+Okres po wypisie ze szpitala psychiatrycznego lub oddziału ratunkowego wymaga aktywnego przekazania opieki, a nie samego wręczenia skierowania. Minimalny standard obejmuje uzgodniony plan bezpieczeństwa, ograniczenie dostępu do metod, szybki termin wizyty, przekazanie informacji następnemu zespołowi oraz zaplanowany kontakt z osobą po wypisie.
 
-## Środowisko szkolne
+W badaniu kohortowym wdrożenie *Safety Planning Intervention* wraz z telefonicznym kontaktem kontrolnym wiązało się z mniejszą liczbą zachowań samobójczych w ciągu sześciu miesięcy i częstszym korzystaniem z leczenia niż zwykła opieka; nierandomizowany projekt ogranicza jednak pewność wnioskowania (Stanley i in., 2018). Meta-analiza badań randomizowanych wykazała również, że krótkie kontakty podtrzymujące zmniejszały liczbę ponawianych samouszkodzeń lub prób przypadających na osobę, ale nie wykazała zmniejszenia odsetka osób ponawiających takie zachowanie (Milner i in., 2015). Dlatego kontakt kontrolny jest elementem ciągłości opieki, a nie zamiennikiem leczenia.
 
-Programy profilaktyczne w szkołach są skuteczne przy spełnieniu kluczowych zasad: skupienie na budowaniu zasobów (nie tylko informacji o samobójstwie), szkolenie nauczycieli, jasne procedury reagowania, brak sensacjonalizacji.
+## Interwencje szkolne
 
-## Perspektywa nieoczywista
+Szkoła potrzebuje procedury obejmującej rozpoznanie sygnałów, rozmowę bez oceniania, ocenę bezpieczeństwa przez przygotowaną osobę, kontakt z opiekunami i służbami oraz działania po zdarzeniu. Program nie powinien ograniczać się do jednorazowego wykładu ani szczegółowego omawiania metod.
 
-Nieoczywista perspektywa na temat "Profilaktyka samobójstw" polega na tym, że w suicydologii najważniejsze jest odchodzenie od prostych wyjaśnień na rzecz wieloczynnikowego rozumienia kryzysu, podatności i dostępnych punktów interwencji.
+W dużym randomizowanym badaniu klastrowym program **Youth Aware of Mental Health (YAM)** po 12 miesiącach zmniejszył liczbę nowych prób samobójczych i nasilonych myśli samobójczych względem grupy kontrolnej; w tym samym badaniu szkolenie strażników **QPR** nie wykazało takiego efektu dla tych wyników (Wasserman i in., 2015). Wyniku YAM nie należy automatycznie przenosić na dowolny program „edukacyjny”: interwencja miała określony scenariusz, przeszkolonych prowadzących i procedury bezpieczeństwa.
 
-Dopiero wspólna analiza zagadnień takich jak poziomy profilaktyki, szkolenie strażników (gatekeeper training) oraz środowisko szkolne pokazuje pełny zakres omawianego zjawiska.
+## Szkolenie osób pierwszego kontaktu
 
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+Osobami pierwszego kontaktu mogą być nauczyciele, lekarze podstawowej opieki zdrowotnej, ratownicy, policjanci, pracownicy pomocy społecznej i inne osoby, które zawodowo spotykają ludzi w kryzysie. Szkolenie powinno uczyć bezpośredniego pytania o myśli i zamiar samobójczy, reagowania bez moralizowania, zapewnienia doraźnego bezpieczeństwa oraz skutecznego skierowania do pomocy.
 
-## Podsumowanie
+Szkolenia typu *gatekeeper training* poprawiają przede wszystkim wiedzę, postawy i deklarowaną pewność reagowania. Dowody, że same zmniejszają liczbę prób lub zgonów, pozostają ograniczone (Yonemoto i in., 2019). Z tego powodu kompetencje osób pierwszego kontaktu muszą być połączone z dostępną ścieżką konsultacji, możliwością pilnego przekazania pacjenta i nadzorem jakości.
 
-Temat "Profilaktyka samobójstw" pokazuje, że najbardziej praktyczne wnioski pojawiają się wtedy, gdy łączy się ocenę ryzyka z analizą funkcji zachowania, wsparcia i możliwości ochronnych.
+## Wspólne czynniki ryzyka i współpraca międzysektorowa
 
+Używanie alkoholu i innych substancji może zwiększać ryzyko poprzez odhamowanie, nasilenie impulsywności, zatrucie i pogorszenie przebiegu zaburzeń psychicznych. Nie jest jednak ani konieczną, ani wystarczającą przyczyną zachowania samobójczego. Działania wobec tego obszaru, w tym wczesne rozpoznawanie ryzykownego używania i redukcję szkód, szerzej omawia artykuł [Profilaktyka uzależnień](../uzaleznienia/profilaktyka.md). Współpraca jest szczególnie ważna przy planowaniu wypisu, ponieważ opieka nad kryzysem samobójczym i problemem używania substancji nie powinna przebiegać w dwóch odizolowanych ścieżkach (WHO, 2021).
 
-Dopiero wspólna analiza zagadnień takich jak poziomy profilaktyki, szkolenie strażników (gatekeeper training) oraz środowisko szkolne pokazuje pełny zakres omawianego zjawiska.
+## Ocena jakości działań
+
+Liczba przeszkolonych osób lub odsłon kampanii opisuje zasięg, nie skuteczność. Ewaluacja powinna osobno mierzyć wdrożenie, dostęp do dalszej pomocy, próby samobójcze, ponowne zgłoszenia oraz możliwe szkody. Rzadkie wyniki, takie jak zgony, wymagają odpowiednio dużych prób i długiej obserwacji. Przy projektach obserwacyjnych trzeba uwzględniać zmiany równoległe, trend historyczny i możliwość przeniesienia zachowań do innych metod lub miejsc.
+
+## Wnioski
+
+Najbardziej przekonujący model profilaktyki jest wieloelementowy: utrudnia dostęp do metod, kształtuje bezpieczną komunikację, nie traci kontaktu z osobą po kryzysie oraz daje szkołom i osobom pierwszego kontaktu realną ścieżkę działania. Każdy element wymaga osobnej oceny, ponieważ poprawa wiedzy lub zasięgu programu nie jest równoznaczna ze zmniejszeniem liczby zachowań samobójczych.
 
 ## Bibliografia
 
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+- Hawton, K., Bergen, H., Simkin, S., Dodd, S., Pocock, P., Bernal, W., Gunnell, D., & Kapur, N. (2013). Long term effect of reduced pack sizes of paracetamol on poisoning deaths and liver transplant activity in England and Wales: interrupted time series analyses. *BMJ, 346*, f403. https://doi.org/10.1136/bmj.f403
+- Milner, A. J., Carter, G., Pirkis, J., Robinson, J., & Spittal, M. J. (2015). Letters, green cards, telephone calls and postcards: systematic and meta-analytic review of brief contact interventions for reducing self-harm, suicide attempts and suicide. *British Journal of Psychiatry, 206*(3), 184–190. https://doi.org/10.1192/bjp.bp.114.147819
+- Niederkrotenthaler, T., Braun, M., Pirkis, J., Till, B., Stack, S., Sinyor, M., Tran, U. S., Voracek, M., Cheng, Q., Arendt, F., Scherr, S., Yip, P. S. F., & Spittal, M. J. (2020). Association between suicide reporting in the media and suicide: systematic review and meta-analysis. *BMJ, 368*, m575. https://doi.org/10.1136/bmj.m575
+- Niederkrotenthaler, T., Voracek, M., Herberth, A., Till, B., Strauss, M., Etzersdorfer, E., Eisenwort, B., & Sonneck, G. (2010). Role of media reports in completed and prevented suicide: Werther v. Papageno effects. *British Journal of Psychiatry, 197*(3), 234–243. https://doi.org/10.1192/bjp.bp.109.074633
+- Pirkis, J., Spittal, M. J., Cox, G., Robinson, J., Cheung, Y. T. D., & Studdert, D. (2015). The effectiveness of structural interventions at suicide hotspots: a meta-analysis. *International Journal of Epidemiology, 44*(2), 541–548. https://doi.org/10.1093/ije/dyu227
+- Stanley, B., Brown, G. K., Brenner, L. A., Galfalvy, H. C., Currier, G. W., Knox, K. L., Chaudhury, S. R., Bush, A. L., & Green, K. L. (2018). Comparison of the Safety Planning Intervention with follow-up vs usual care of suicidal patients treated in the emergency department. *JAMA Psychiatry, 75*(9), 894–900. https://doi.org/10.1001/jamapsychiatry.2018.1776
+- Wasserman, D., Hoven, C. W., Wasserman, C., Wall, M., Eisenberg, R., Hadlaczky, G., Kelleher, I., Sarchiapone, M., Apter, A., Balazs, J., Bobes, J., Brunner, R., Corcoran, P., Cosman, D., Guillemin, F., Haring, C., Iosue, M., Kaess, M., Kahn, J.-P., Keeley, H., Musa, G. J., Nemes, B., Postuvan, V., Saiz, P., Reiter-Theil, S., Varnik, A., Varnik, P., & Carli, V. (2015). School-based suicide prevention programmes: the SEYLE cluster-randomised, controlled trial. *The Lancet, 385*(9977), 1536–1544. https://doi.org/10.1016/S0140-6736(14)61213-7
+- World Health Organization. (2021). *Live life: an implementation guide for suicide prevention in countries*. WHO.
+- World Health Organization. (2023). *Preventing suicide: a resource for media professionals, update 2023*. WHO.
+- Yonemoto, N., Kawashima, Y., Endo, K., & Yamada, M. (2019). Gatekeeper training for suicidal behaviors: a systematic review. *Journal of Affective Disorders, 246*, 506–514. https://doi.org/10.1016/j.jad.2018.12.052

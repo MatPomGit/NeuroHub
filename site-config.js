@@ -801,17 +801,7 @@ window.SITE_CONFIG = {
       domainKey: 'porozumiewanie_sie_bez_przemocy',
       items: [
         { id: 'porozumiewanie_sie_bez_przemocy/wprowadzenie',              label: 'NVC',                    file: 'wiki/porozumiewanie_sie_bez_przemocy/wprowadzenie.md'              },
-        { id: 'porozumiewanie_sie_bez_przemocy/cztery_komponenty',         label: 'Cztery komponenty NVC',                 file: 'wiki/porozumiewanie_sie_bez_przemocy/cztery_komponenty.md'         },
-        { id: 'porozumiewanie_sie_bez_przemocy/obserwacja',                label: 'Obserwacja bez oceniania',              file: 'wiki/porozumiewanie_sie_bez_przemocy/obserwacja.md'                },
-        { id: 'porozumiewanie_sie_bez_przemocy/uczucia',                   label: 'Uczucia w NVC',                         file: 'wiki/porozumiewanie_sie_bez_przemocy/uczucia.md'                   },
-        { id: 'porozumiewanie_sie_bez_przemocy/potrzeby',                  label: 'Katalog potrzeb',                       file: 'wiki/porozumiewanie_sie_bez_przemocy/potrzeby.md'                  },
-        { id: 'porozumiewanie_sie_bez_przemocy/prosba_i_zadanie',          label: 'Prosba, a zadanie',                      file: 'wiki/porozumiewanie_sie_bez_przemocy/prosba_i_zadanie.md'          },
-        { id: 'porozumiewanie_sie_bez_przemocy/empatia_nvc',               label: 'Empatia w NVC',                         file: 'wiki/porozumiewanie_sie_bez_przemocy/empatia_nvc.md'               },
-        { id: 'porozumiewanie_sie_bez_przemocy/jezyk_szakala_i_zyrafy',    label: 'Jezyk szakala i zyrafy',                file: 'wiki/porozumiewanie_sie_bez_przemocy/jezyk_szakala_i_zyrafy.md'    },
-        { id: 'porozumiewanie_sie_bez_przemocy/autoempatia',               label: 'Autoempatia i samowspółczucie',         file: 'wiki/porozumiewanie_sie_bez_przemocy/autoempatia.md'               },
-        { id: 'porozumiewanie_sie_bez_przemocy/nvc_w_konfliktach',         label: 'NVC w rozwiązywaniu konfliktów',        file: 'wiki/porozumiewanie_sie_bez_przemocy/nvc_w_konfliktach.md'         },
-        { id: 'porozumiewanie_sie_bez_przemocy/nvc_w_wychowaniu',          label: 'NVC w wychowaniu i edukacji',           file: 'wiki/porozumiewanie_sie_bez_przemocy/nvc_w_wychowaniu.md'          },
-        { id: 'porozumiewanie_sie_bez_przemocy/praktyka_nvc',              label: 'Praktyka NVC w codziennym zyciu',       file: 'wiki/porozumiewanie_sie_bez_przemocy/praktyka_nvc.md'              },
+        { id: 'porozumiewanie_sie_bez_przemocy/nvc_w_praktyce',            label: 'NVC w praktyce',         file: 'wiki/porozumiewanie_sie_bez_przemocy/nvc_w_praktyce.md'            },
       ]
     },
     { /* Arteterapia */
@@ -1903,17 +1893,7 @@ window.SITE_CONFIG = {
     ],
     nvc: [
       { file: 'wiki/porozumiewanie_sie_bez_przemocy/wprowadzenie.md',            label: 'NVC',                                   status: 'live' },
-      { file: 'wiki/porozumiewanie_sie_bez_przemocy/cztery_komponenty.md',       label: 'Cztery komponenty NVC',                 status: 'live' },
-      { file: 'wiki/porozumiewanie_sie_bez_przemocy/obserwacja.md',              label: 'Obserwacja bez oceniania',              status: 'live' },
-      { file: 'wiki/porozumiewanie_sie_bez_przemocy/uczucia.md',                 label: 'Uczucia w NVC',                         status: 'live' },
-      { file: 'wiki/porozumiewanie_sie_bez_przemocy/potrzeby.md',                label: 'Katalog potrzeb',                       status: 'live' },
-      { file: 'wiki/porozumiewanie_sie_bez_przemocy/prosba_i_zadanie.md',        label: 'Prosba, a zadanie',                     status: 'live' },
-      { file: 'wiki/porozumiewanie_sie_bez_przemocy/empatia_nvc.md',             label: 'Empatia w NVC',                         status: 'live' },
-      { file: 'wiki/porozumiewanie_sie_bez_przemocy/jezyk_szakala_i_zyrafy.md',  label: 'Jezyk szakala i zyrafy',                status: 'live' },
-      { file: 'wiki/porozumiewanie_sie_bez_przemocy/autoempatia.md',             label: 'Autoempatia i samowspolczucie',         status: 'live' },
-      { file: 'wiki/porozumiewanie_sie_bez_przemocy/nvc_w_konfliktach.md',       label: 'NVC w rozwiazywaniu konfliktow',        status: 'live' },
-      { file: 'wiki/porozumiewanie_sie_bez_przemocy/nvc_w_wychowaniu.md',        label: 'NVC w wychowaniu i edukacji',           status: 'live' },
-      { file: 'wiki/porozumiewanie_sie_bez_przemocy/praktyka_nvc.md',            label: 'Praktyka NVC w codziennym zyciu',       status: 'live' },
+      { file: 'wiki/porozumiewanie_sie_bez_przemocy/nvc_w_praktyce.md',          label: 'NVC w praktyce',                       status: 'live' },
     ],
     ppd: [
       { file: 'wiki/seminarium_dyplomowe/wprowadzenie.md',           label: 'Seminarium dyplomowe',                  status: 'live' },
@@ -3297,38 +3277,13 @@ window.SITE_CONFIG = {
 
     nvc: {
       title: 'WIKI - Porozumiewanie się bez przemocy (NVC)',
-      intro: 'Nonviolent Communication (NVC) to metoda komunikacji opracowana przez Marshalla Rosenberga, oparta na empatii, obserwacji bez oceniania oraz identyfikacji uczuc i potrzeb. NVC uczy wyrazania siebie z autentycznoscia i sluchania innych z prawdziwa obecnoscia.',
+      intro: 'Porozumienie bez Przemocy (NVC) to model komunikacji opracowany przez Marshalla Rosenberga. Encyklopedia przedstawia jego założenia i cztery komponenty, zastosowania, granice oraz stan badań.',
       sections: [
         {
-          title: 'Podstawy NVC',
+          title: 'Porozumienie bez Przemocy',
           articles: [
-            { label: 'NVC',                         id: 'porozumiewanie_sie_bez_przemocy/wprowadzenie',        status: 'live', desc: 'Geneza, filozofia i zastosowania Porozumiewania sie bez przemocy.' },
-            { label: 'Cztery komponenty NVC',       id: 'porozumiewanie_sie_bez_przemocy/cztery_komponenty',   status: 'live', desc: 'Obserwacja, uczucie, potrzeba, prosba - struktura procesu NVC.' },
-            { label: 'Jezyk szakala i zyrafy',      id: 'porozumiewanie_sie_bez_przemocy/jezyk_szakala_i_zyrafy', status: 'live', desc: 'Dwa style komunikacji - oceniajacy i empatyczny.' },
-          ]
-        },
-        {
-          title: 'Cztery komponenty w praktyce',
-          articles: [
-            { label: 'Obserwacja bez oceniania',    id: 'porozumiewanie_sie_bez_przemocy/obserwacja',          status: 'live', desc: 'Jak opisywac zdarzenia bez ocen, etykietek i generalizacji.' },
-            { label: 'Uczucia w NVC',               id: 'porozumiewanie_sie_bez_przemocy/uczucia',             status: 'live', desc: 'Katalog uczuc, pseudouczucia i odpowiedzialność za emocje.' },
-            { label: 'Katalog potrzeb',             id: 'porozumiewanie_sie_bez_przemocy/potrzeby',            status: 'live', desc: 'Universalne ludzkie potrzeby i ich rola w NVC.' },
-            { label: 'Prosba, a zadanie',           id: 'porozumiewanie_sie_bez_przemocy/prosba_i_zadanie',    status: 'live', desc: 'Jak formułować prośby i czym różnią się od żądań.' },
-          ]
-        },
-        {
-          title: 'Empatia i wewnetrzna praca',
-          articles: [
-            { label: 'Empatia w NVC',                 id: 'porozumiewanie_sie_bez_przemocy/empatia_nvc',       status: 'live', desc: 'Empatyczne sluchanie, blokady empatii i cztery poziomy slyszenia.' },
-            { label: 'Autoempatia i samowspółczucie', id: 'porozumiewanie_sie_bez_przemocy/autoempatia',       status: 'live', desc: 'Sluchanie własnych uczuc i potrzeb z zyczliwoscia.' },
-          ]
-        },
-        {
-          title: 'Zastosowania NVC',
-          articles: [
-            { label: 'NVC w rozwiązywaniu konfliktów',  id: 'porozumiewanie_sie_bez_przemocy/nvc_w_konfliktach', status: 'live', desc: 'Mediacja NVC, trzy fazy rozwiazywania konfliktu.' },
-            { label: 'NVC w wychowaniu i edukacji',     id: 'porozumiewanie_sie_bez_przemocy/nvc_w_wychowaniu',  status: 'live', desc: 'Wychowanie bez kar i nagród, NVC w szkole.' },
-            { label: 'Praktyka NVC w codziennym zyciu', id: 'porozumiewanie_sie_bez_przemocy/praktyka_nvc',      status: 'live', desc: 'Codzienna praktyka NVC w domu, pracy i relacjach.' },
+            { label: 'Założenia i cztery komponenty', id: 'porozumiewanie_sie_bez_przemocy/wprowadzenie',   status: 'live', desc: 'Założenia NVC, obserwacja, uczucie, potrzeba, prośba oraz dydaktyczne metafory szakala i żyrafy.' },
+            { label: 'NVC w praktyce',                 id: 'porozumiewanie_sie_bez_przemocy/nvc_w_praktyce', status: 'live', desc: 'Słuchanie, autoempatia, konflikt, wychowanie, bezpieczeństwo i jakość dowodów.' },
           ]
         },
       ]

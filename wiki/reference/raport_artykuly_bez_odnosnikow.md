@@ -237,18 +237,8 @@ Poni9=ej znajdujďż˝& siďż˝" bezpo9:rednie odno9:niki do artyku9Bw bez li
 
 ### e_therapy
 
-- [`e_therapy/aplikacje_zdrowia_psychicznego.md`](../e_terapia/aplikacje_zdrowia_psychicznego.md)
-- [`e_therapy/chatboty_terapeutyczne.md`](../e_terapia/chatboty_terapeutyczne.md)
-- [`e_therapy/dostepnosc_cyfrowa.md`](../e_terapia/dostepnosc_cyfrowa.md)
-- [`e_therapy/e_terapia_dzieci.md`](../e_terapia/e_terapia_dzieci.md)
-- [`e_therapy/etyka_e_terapii.md`](../e_terapia/etyka_e_terapii.md)
-- [`e_therapy/historia_e_terapii.md`](../e_terapia/historia_e_terapii.md)
-- [`e_therapy/platformy_e_terapii.md`](../e_terapia/platformy_e_terapii.md)
-- [`e_therapy/przyszlosc_e_terapii.md`](../e_terapia/przyszlosc_e_terapii.md)
-- [`e_therapy/skutecznosc_e_terapii.md`](../e_terapia/skutecznosc_e_terapii.md)
 - [`e_therapy/terapia_online.md`](../e_terapia/terapia_online.md)
 - [`e_therapy/vr_terapia.md`](../e_terapia/vr_terapia.md)
-- [`e_therapy/wprowadzenie.md`](../e_terapia/wprowadzenie.md)
 
 ### eksperyment_psychologiczny
 
@@ -823,12 +813,19 @@ Poni9=ej znajdujďż˝& siďż˝" bezpo9:rednie odno9:niki do artyku9Bw bez li
 ## Uwagi metodologiczne
 
 - Raport uwzglďż˝"dnia wy9ďż˝&cznie odno9:niki Markdown w postaci `[etykieta](9:cie9=ka)` pomiďż˝"dzy plikami `.md` w `wiki/`.
-- Nie uwzglďż˝"dniono odwo9a9 generowanych dynamicznie przez kod aplikacji ani nawigacji budowanej poza tre9:ciďż˝& Markdown.
-- Wynik ďż˝~bez odno9:nikBwďż˝e oznacza brak linkBw **przychodzďż˝&cych** z innych artyku9Bw.
+- Nie uwzglďż˝"dniono odwo9a9
+ generowanych dynamicznie przez kod aplikacji ani nawigacji budowanej poza tre9:ciďż˝& Markdown.
+Temat tego artyku9u jest istotny dla praktyki psychologicznej, poniewa9= 9ďż˝&czy perspektywďż˝" teoretycznďż˝& z codziennymi decyzjami klinicznymi lub edukacyjnymi. W literaturze podkre9:la siďż˝", 9=e trafne rozumienie zjawiska wymaga uwzglďż˝"dnienia kontekstu biologicznego, spo9ecznego i kulturowego. W niniejszym opracowaniu przyjmujemy podej9:cie oparte na dowodach, oddzielajďż˝&c ustalenia empiryczne od interpretacji. Taki porzďż˝&dek u9atwia ocenďż˝" jako9:ci argumentBw i ogranicza ryzyko uproszcze9
+. Dziďż˝"ki temu czytelnik mo9=e prze9o9=yďż˝! wiedzďż˝" teoretycznďż˝& na bardziej 9:wiadome dzia9ania praktyczne.
+Dobrďż˝& praktykďż˝& jest rozpoczynanie pracy od jasnego celu, kryteriBw oceny postďż˝"pBw oraz wspBlnego jďż˝"zyka u9=ywanego przez specjalistďż˝" i odbiorcďż˝" interwencji. W praktyce oznacza to regularny monitoring efektBw, krBtkie cykle informacji zwrotnej i gotowo9:ďż˝! do modyfikacji planu dzia9ania. Wysokďż˝& skuteczno9:ďż˝! wspiera tak9=e psychoedukacja, ktBra zwiďż˝"ksza poczucie sprawstwa i rozumienie procesu zmiany. Istotne jest ponadto respektowanie granic etycznych oraz uwzglďż˝"dnianie rB9=nic indywidualnych. Konsekwencjďż˝& takiego podej9:cia jest wiďż˝"ksza trwa9o9:ďż˝! rezultatBw i mniejsze ryzyko dzia9a9
+ pozornych.
 
-## Wprowadzenie
+## PodsumowanieNieoczywista perspektywa polega na przesuniďż˝"ciu uwagi z pytania ďż˝~co jest nie takďż˝e na pytanie ďż˝~jakie warunki podtrzymujďż˝& aktualny wzorzec funkcjonowaniaďż˝e. Taki punkt widzenia pozwala dostrzec, 9=e czďż˝"9:ďż˝! zachowa9
+ ocenianych jako problemowe pe9ni funkcjďż˝" adaptacyjnďż˝& w krBtkim horyzoncie czasu. W badaniach oznacza to potrzebďż˝" analizy kosztBw i korzy9:ci z perspektywy uczestnika, a nie wy9ďż˝&cznie obserwatora. W praktyce mo9=e to prowadziďż˝! do bardziej realistycznych celBw i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudno9:ci, lecz porzďż˝&dkuje je w kategoriach funkcji i kontekstu.
 
-Temat tego artyku9u jest istotny dla praktyki psychologicznej, poniewa9= 9ďż˝&czy perspektywďż˝" teoretycznďż˝& z codziennymi decyzjami klinicznymi lub edukacyjnymi. W literaturze podkre9:la siďż˝", 9=e trafne rozumienie zjawiska wymaga uwzglďż˝"dnienia kontekstu biologicznego, spo9ecznego i kulturowego. W niniejszym opracowaniu przyjmujemy podej9:cie oparte na dowodach, oddzielajďż˝&c ustalenia empiryczne od interpretacji. Taki porzďż˝&dek u9atwia ocenďż˝" jako9:ci argumentBw i ogranicza ryzyko uproszcze9. Dziďż˝"ki temu czytelnik mo9=e prze9o9=yďż˝! wiedzďż˝" teoretycznďż˝& na bardziej 9:wiadome dzia9ania praktyczne.
+Najwa9=niejszy wniosek jest taki, 9=e rzetelne rozumienie omawianego tematu wymaga 9ďż˝&czenia definicji, danych empirycznych i konsekwencji praktycznych. Skuteczne dzia9ania opierajďż˝& siďż˝" na dopasowaniu metod do celu, monitorowaniu efektBw oraz 9:wiadomym zarzďż˝&dzaniu ograniczeniami. Jednocze9:nie nale9=y zachowaďż˝! ostro9=no9:ďż˝! wobec nadmiernych uogBlnie9
+, bo jako9:ďż˝! wnioskBw zale9=y od kontekstu i jako9:ci pomiaru. W9ďż˝&czenie perspektywy alternatywnej zwiďż˝"ksza trafno9:ďż˝! diagnozy i u9=yteczno9:ďż˝! interwencji. Ostatecznie to w9a9:nie integracja wiedzy teoretycznej z praktykďż˝& decyduje o warto9:ci edukacyjnej i klinicznej artyku9u.
+. Dziďż˝"ki temu czytelnik mo9=e prze9o9=yďż˝! wiedzďż˝" teoretycznďż˝& na bardziej 9:wiadome dzia9ania praktyczne.
 
 
 ## Definicje

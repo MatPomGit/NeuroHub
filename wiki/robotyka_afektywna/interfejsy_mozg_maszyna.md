@@ -88,23 +88,17 @@ BCI mogłyby być stosowane nie tylko terapeutycznie, lecz i w celu wzmocnienia 
 
 Interfejsy mózg–maszyna to jedna z najbardziej transformacyjnych technologii naszych czasów - łącząca inżynierię, neuronaukę i psychologię w projekcie bezpośredniego połączenia umysłu z maszyną. Ich kliniczne zastosowania już dziś zmieniają życie tysięcy pacjentów, a przyszłość przyniesie jeszcze głębszą integrację człowieka i technologii.
 
-## Perspektywa nieoczywista
+## Granice i wnioski
 
-Nieoczywista perspektywa na temat "Interfejsy mózg–maszyna (BCI)" polega na tym, że najciekawsze pytania o robotykę afektywną dotyczą nie tylko tego, czy maszyna rozpoznaje emocje, ale jak ludzie nadają temu rozpoznaniu znaczenie i zaufanie.
+BCI jest neurotechnologią, a nie ogólną nazwą interakcji człowiek–AI. Sygnał EEG lub aktywność pojedynczych neuronów jest zaszumionym pomiarem fizjologicznym; jego dekodowanie nie oznacza bezpośredniego „czytania myśli”. Trafność zależy od zadania, kalibracji, stabilności sygnału i aktywnego udziału użytkownika.
 
-Dopiero wspólna analiza zagadnień takich jak definicja i historia, zastosowania kliniczne oraz kwestie etyczne pokazuje pełny zakres omawianego zjawiska.
+Najlepiej udokumentowane zastosowania dotyczą przywracania komunikacji i sterowania osobom z ciężkimi ograniczeniami ruchowymi. Rozszerzanie wniosków na konsumenckie rozpoznawanie emocji albo swobodne odtwarzanie treści psychicznych wymaga osobnych dowodów. Wraz z postępem rośnie znaczenie świadomej zgody, bezpieczeństwa urządzenia, prywatności danych neuronalnych, długoterminowego wsparcia i sprawiedliwego dostępu.
 
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+## Bibliografia
 
-## Podsumowanie
-
-Temat "Interfejsy mózg–maszyna (BCI)" pokazuje, że największą wartość ma łączenie perspektywy technicznej z analizą relacji człowiek-maszyna, norm społecznych i odpowiedzialności projektowej.
-
-
-Dopiero wspólna analiza zagadnień takich jak definicja i historia, zastosowania kliniczne oraz kwestie etyczne pokazuje pełny zakres omawianego zjawiska.## Bibliografia
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+1. Chaudhary, U., Birbaumer, N., & Ramos-Murguialday, A. (2016). Brain–computer interfaces for communication and rehabilitation. *Nature Reviews Neurology, 12*, 513–525. https://doi.org/10.1038/nrneurol.2016.113
+2. Hochberg, L. R. i in. (2012). Reach and grasp by people with tetraplegia using a neurally controlled robotic arm. *Nature, 485*, 372–375. https://doi.org/10.1038/nature11076
+3. Moses, D. A. i in. (2021). Neuroprosthesis for decoding speech in a paralyzed person with anarthria. *New England Journal of Medicine, 385*, 217–227. https://doi.org/10.1056/NEJMoa2027540
+4. Nuyujukian, P. i in. (2018). Cortical control of a tablet computer by people with paralysis. *PLOS ONE, 13*(11), e0204566. https://doi.org/10.1371/journal.pone.0204566
+5. U.S. Food and Drug Administration. (2021). *Implanted Brain-Computer Interface (BCI) Devices for Patients with Paralysis or Amputation: Non-clinical Testing and Clinical Considerations*. Guidance for Industry and Food and Drug Administration Staff.
+6. UNESCO. (2023). *Report of the International Bioethics Committee of UNESCO (IBC) on the ethical issues of neurotechnology*. UNESCO.

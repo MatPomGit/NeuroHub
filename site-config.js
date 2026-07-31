@@ -803,13 +803,7 @@ window.SITE_CONFIG = {
       section: 'Animaloterapia',
       domainKey: 'animaloterapia',
       items: [
-        { id: 'animaloterapia/animaloterapia_wprowadzenie', label: 'Animaloterapia', file: 'wiki/animaloterapia/animaloterapia_wprowadzenie.md' },
-        { id: 'animaloterapia/dogoterapia',     label: 'Dogoterapia',            file: 'wiki/animaloterapia/dogoterapia.md'     },
-        { id: 'animaloterapia/hipoterapia',     label: 'Hipoterapia',            file: 'wiki/animaloterapia/hipoterapia.md'     },
-        { id: 'animaloterapia/felinoterapia',   label: 'Felinoterapia',          file: 'wiki/animaloterapia/felinoterapia.md'   },
-        { id: 'animaloterapia/aat_zastosowania',label: 'AAT - zastosowania',     file: 'wiki/animaloterapia/aat_zastosowania.md'},
-        { id: 'animaloterapia/etyka_aat',       label: 'Etyka i dobrostan',      file: 'wiki/animaloterapia/etyka_aat.md'       },
-        { id: 'animaloterapia/mechanizmy_aat',  label: 'Mechanizmy AAT',         file: 'wiki/animaloterapia/mechanizmy_aat.md'  },
+        { id: 'animaloterapia/animaloterapia_wprowadzenie', label: 'Interwencje wspomagane przez zwierzęta', file: 'wiki/animaloterapia/animaloterapia_wprowadzenie.md' },
       ]
     },
     { /* Odpornosc psychiczna i mobbing */
@@ -1649,13 +1643,7 @@ window.SITE_CONFIG = {
       { file: 'wiki/arteterapia/zastosowania.md', label: 'Zastosowania kliniczne arteterapii', status: 'live' },
     ],
     animaltherapy: [
-      { file: 'wiki/animaloterapia/animaloterapia_wprowadzenie.md', label: 'Animaloterapia', status: 'live' },
-      { file: 'wiki/animaloterapia/dogoterapia.md',     label: 'Dogoterapia',          status: 'live' },
-      { file: 'wiki/animaloterapia/hipoterapia.md',     label: 'Hipoterapia',          status: 'live' },
-      { file: 'wiki/animaloterapia/felinoterapia.md',   label: 'Felinoterapia',        status: 'live' },
-      { file: 'wiki/animaloterapia/aat_zastosowania.md',label: 'AAT - zastosowania',  status: 'live' },
-      { file: 'wiki/animaloterapia/etyka_aat.md',       label: 'Etyka i dobrostan',   status: 'live' },
-      { file: 'wiki/animaloterapia/mechanizmy_aat.md',  label: 'Mechanizmy AAT',      status: 'live' },
+      { file: 'wiki/animaloterapia/animaloterapia_wprowadzenie.md', label: 'Interwencje wspomagane przez zwierzęta', status: 'live' },
     ],
     health_psychology: [
       { file: 'wiki/psychologia_zdrowia/zdrowie_wprowadzenie.md',    label: 'Psychologia zdrowia',                status: 'live' },
@@ -2679,13 +2667,7 @@ window.SITE_CONFIG = {
         {
           title: 'Animaloterapia',
           articles: [
-            { label: 'Animaloterapia', id: 'animaloterapia/animaloterapia_wprowadzenie', status: 'live' },
-            { label: 'Dogoterapia', id: 'animaloterapia/dogoterapia', status: 'live' },
-            { label: 'Hipoterapia', id: 'animaloterapia/hipoterapia', status: 'live' },
-            { label: 'Felinoterapia', id: 'animaloterapia/felinoterapia', status: 'live' },
-            { label: 'Zastosowania AAT', id: 'animaloterapia/aat_zastosowania', status: 'live' },
-            { label: 'Etyka i dobrostan', id: 'animaloterapia/etyka_aat', status: 'live' },
-            { label: 'Mechanizmy AAT', id: 'animaloterapia/mechanizmy_aat', status: 'live' },
+            { label: 'Interwencje wspomagane przez zwierzęta', id: 'animaloterapia/animaloterapia_wprowadzenie', status: 'live' },
           ]
         },
       ]

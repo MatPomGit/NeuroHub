@@ -15,6 +15,13 @@ window.SITE_CONFIG = {
 
   // Zachowuje dawne adresy SPA po scaleniu lub przeniesieniu artykułów.
   articleRedirects: {
+    'arteterapia/art_therapy': 'arteterapia/arteterapia_wprowadzenie',
+    'arteterapia/muzykoterapia': 'arteterapia/arteterapia_wprowadzenie',
+    'arteterapia/biblioterapia': 'arteterapia/arteterapia_wprowadzenie',
+    'arteterapia/drameterapia': 'arteterapia/arteterapia_wprowadzenie',
+    'arteterapia/dmt': 'arteterapia/arteterapia_wprowadzenie',
+    'arteterapia/mechanizmy': 'arteterapia/arteterapia_wprowadzenie',
+    'arteterapia/zastosowania': 'arteterapia/arteterapia_wprowadzenie',
     'somatic_experiencing/dysocjacja_i_zawazenie_okna_tolerancji': 'somatic_experiencing/wprowadzenie_do_doswiadczenia_somatycznego',
     'somatic_experiencing/granice_zgoda_i_tempo_pracy': 'somatic_experiencing/wprowadzenie_do_doswiadczenia_somatycznego',
     'somatic_experiencing/integracja_z_innymi_terapiami_traumy': 'somatic_experiencing/wprowadzenie_do_doswiadczenia_somatycznego',
@@ -789,14 +796,12 @@ window.SITE_CONFIG = {
       section: 'Arteterapia',
       domainKey: 'arteterapia',
       items: [
-        { id: 'arteterapia/arteterapia_wprowadzenie', label: 'Arteterapia', file: 'wiki/arteterapia/arteterapia_wprowadzenie.md' },
-        { id: 'arteterapia/art_therapy',   label: 'Arteterapia plastyczna',    file: 'wiki/arteterapia/art_therapy.md'   },
-        { id: 'arteterapia/muzykoterapia', label: 'Muzykoterapia',             file: 'wiki/arteterapia/muzykoterapia.md' },
-        { id: 'arteterapia/dmt',           label: 'Choreoterapia (DMT)',       file: 'wiki/arteterapia/dmt.md'           },
-        { id: 'arteterapia/drameterapia',  label: 'Drameterapia',              file: 'wiki/arteterapia/drameterapia.md'  },
-        { id: 'arteterapia/biblioterapia', label: 'Biblioterapia',             file: 'wiki/arteterapia/biblioterapia.md' },
-        { id: 'arteterapia/mechanizmy',    label: 'Mechanizmy działania',      file: 'wiki/arteterapia/mechanizmy.md'    },
-        { id: 'arteterapia/zastosowania', label: 'Zastosowania kliniczne arteterapii', file: 'wiki/arteterapia/zastosowania.md' },
+        {
+          id: 'arteterapia/arteterapia_wprowadzenie',
+          label: 'Arteterapia i terapie wykorzystujące sztukę',
+          aliases: ['Arteterapia', 'Terapie wykorzystujące sztukę'],
+          file: 'wiki/arteterapia/arteterapia_wprowadzenie.md'
+        },
       ]
     },
     { /* Animaloterapia */
@@ -1633,14 +1638,7 @@ window.SITE_CONFIG = {
       { file: 'wiki/seksuologia/modele_odpowiedzi.md',  label: 'Modele odpowiedzi seksualnej', status: 'live' },
     ],
     artetherapy: [
-      { file: 'wiki/arteterapia/arteterapia_wprowadzenie.md', label: 'Arteterapia', status: 'live' },
-      { file: 'wiki/arteterapia/art_therapy.md',   label: 'Arteterapia plastyczna', status: 'live' },
-      { file: 'wiki/arteterapia/muzykoterapia.md', label: 'Muzykoterapia',          status: 'live' },
-      { file: 'wiki/arteterapia/dmt.md',           label: 'Choreoterapia (DMT)',    status: 'live' },
-      { file: 'wiki/arteterapia/drameterapia.md',  label: 'Drameterapia',           status: 'live' },
-      { file: 'wiki/arteterapia/biblioterapia.md', label: 'Biblioterapia',          status: 'live' },
-      { file: 'wiki/arteterapia/mechanizmy.md',    label: 'Mechanizmy działania',   status: 'live' },
-      { file: 'wiki/arteterapia/zastosowania.md', label: 'Zastosowania kliniczne arteterapii', status: 'live' },
+      { file: 'wiki/arteterapia/arteterapia_wprowadzenie.md', label: 'Arteterapia i terapie wykorzystujące sztukę', status: 'live' },
     ],
     animaltherapy: [
       { file: 'wiki/animaloterapia/animaloterapia_wprowadzenie.md', label: 'Interwencje wspomagane przez zwierzęta', status: 'live' },
@@ -2649,19 +2647,12 @@ window.SITE_CONFIG = {
 
     terapie_artystyczne: {
       title: 'WIKI - Terapie artystyczne i animaloterapia',
-      intro: 'Kreatywne i zwierzece metody terapeutyczne - arteterapia, muzykoterapia, dogoterapia i inne interwencje wspomagajace.',
+      intro: 'Terapie wykorzystujące sztukę oraz interwencje wspomagane przez zwierzęta: zakres, dowody i bezpieczne zastosowanie.',
       sections: [
         {
           title: 'Arteterapia',
           articles: [
-            { label: 'Arteterapia', id: 'arteterapia/arteterapia_wprowadzenie', status: 'live' },
-            { label: 'Art therapy (plastyczna)', id: 'arteterapia/art_therapy', status: 'live' },
-            { label: 'Muzykoterapia', id: 'arteterapia/muzykoterapia', status: 'live' },
-            { label: 'Drameterapia', id: 'arteterapia/drameterapia', status: 'live' },
-            { label: 'Taniec i ruch (DMT)', id: 'arteterapia/dmt', status: 'live' },
-            { label: 'Biblioterapia', id: 'arteterapia/biblioterapia', status: 'live' },
-            { label: 'Mechanizmy terapeutyczne', id: 'arteterapia/mechanizmy', status: 'live' },
-            { label: 'Zastosowania kliniczne arteterapii', id: 'arteterapia/zastosowania', status: 'live' },
+            { label: 'Arteterapia i terapie wykorzystujące sztukę', id: 'arteterapia/arteterapia_wprowadzenie', status: 'live' },
           ]
         },
         {

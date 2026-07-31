@@ -15,6 +15,18 @@ window.SITE_CONFIG = {
 
   // Zachowuje dawne adresy SPA po scaleniu lub przeniesieniu artykułów.
   articleRedirects: {
+    'somatic_experiencing/dysocjacja_i_zawazenie_okna_tolerancji': 'somatic_experiencing/wprowadzenie_do_doswiadczenia_somatycznego',
+    'somatic_experiencing/granice_zgoda_i_tempo_pracy': 'somatic_experiencing/wprowadzenie_do_doswiadczenia_somatycznego',
+    'somatic_experiencing/integracja_z_innymi_terapiami_traumy': 'somatic_experiencing/wprowadzenie_do_doswiadczenia_somatycznego',
+    'somatic_experiencing/interocepcja_i_propriocepcja_w_somatic_experiencing': 'somatic_experiencing/wprowadzenie_do_doswiadczenia_somatycznego',
+    'somatic_experiencing/neurofizjologia_traumy_i_autonomiczny_uklad_nerwowy': 'somatic_experiencing/wprowadzenie_do_doswiadczenia_somatycznego',
+    'somatic_experiencing/orientacja_i_uziemienie_w_somatic_experiencing': 'somatic_experiencing/wprowadzenie_do_doswiadczenia_somatycznego',
+    'somatic_experiencing/przewlekly_bol_i_objawy_somatyczne': 'somatic_experiencing/wprowadzenie_do_doswiadczenia_somatycznego',
+    'somatic_experiencing/reakcja_obronna_i_dokonczenie_ruchu': 'somatic_experiencing/wprowadzenie_do_doswiadczenia_somatycznego',
+    'somatic_experiencing/stabilizacja_i_sekwencjonowanie': 'somatic_experiencing/wprowadzenie_do_doswiadczenia_somatycznego',
+    'somatic_experiencing/titracja_i_pendulacja': 'somatic_experiencing/wprowadzenie_do_doswiadczenia_somatycznego',
+    'somatic_experiencing/trauma_zlozona_i_relacja_terapeutyczna': 'somatic_experiencing/wprowadzenie_do_doswiadczenia_somatycznego',
+    'somatic_experiencing/zasoby_i_poczucie_bezpieczenstwa': 'somatic_experiencing/wprowadzenie_do_doswiadczenia_somatycznego',
     'reagowanie_na_krytyke/czym_jest_krytyka_i_informacja_zwrotna': 'reagowanie_na_krytyke/jak_nie_brac_do_siebie_opinii_innych',
     'reagowanie_na_krytyke/granice_i_asertywnosc': 'reagowanie_na_krytyke/jak_nie_brac_do_siebie_opinii_innych',
     'reagowanie_na_krytyke/mentalizacja_i_intencje_nadawcy': 'reagowanie_na_krytyke/jak_nie_brac_do_siebie_opinii_innych',
@@ -1231,20 +1243,8 @@ window.SITE_CONFIG = {
       section: 'Somatic Experiencing',
       domainKey: 'somatic_experiencing',
       items: [
-        { id: 'somatic_experiencing/wprowadzenie_do_doswiadczenia_somatycznego', label: 'Wprowadzenie do Somatic Experiencing', file: 'wiki/doswiadczenie_somatyczne/wprowadzenie_do_doswiadczenia_somatycznego.md' },
-        { id: 'somatic_experiencing/neurofizjologia_traumy_i_autonomiczny_uklad_nerwowy', label: 'Neurofizjologia traumy i autonomiczny uklad nerwowy', file: 'wiki/doswiadczenie_somatyczne/neurofizjologia_traumy_i_autonomiczny_uklad_nerwowy.md' },
-        { id: 'somatic_experiencing/titracja_i_pendulacja', label: 'Titracja i pendulacja', file: 'wiki/doswiadczenie_somatyczne/titracja_i_pendulacja.md' },
-        { id: 'somatic_experiencing/zasoby_i_poczucie_bezpieczenstwa', label: 'Zasoby i poczucie bezpieczelstwa', file: 'wiki/doswiadczenie_somatyczne/zasoby_i_poczucie_bezpieczenstwa.md' },
-        { id: 'somatic_experiencing/orientacja_i_uziemienie_w_somatic_experiencing', label: 'Orientacja i uziemienie w Somatic Experiencing', file: 'wiki/doswiadczenie_somatyczne/orientacja_i_uziemienie_w_somatic_experiencing.md' },
-        { id: 'somatic_experiencing/dysocjacja_i_zawazenie_okna_tolerancji', label: 'Dysocjacja i zawezenie okna tolerancji', file: 'wiki/doswiadczenie_somatyczne/dysocjacja_i_zawazenie_okna_tolerancji.md' },
-        { id: 'somatic_experiencing/reakcja_obronna_i_dokonczenie_ruchu', label: 'Reakcja obronna i dokolczenie ruchu', file: 'wiki/doswiadczenie_somatyczne/reakcja_obronna_i_dokonczenie_ruchu.md' },
-        { id: 'somatic_experiencing/trauma_zlozona_i_relacja_terapeutyczna', label: 'Trauma zlozona i relacja terapeutyczna', file: 'wiki/doswiadczenie_somatyczne/trauma_zlozona_i_relacja_terapeutyczna.md' },
-        { id: 'somatic_experiencing/interocepcja_i_propriocepcja_w_somatic_experiencing', label: 'Interocepcja i propriocepcja w Somatic Experiencing', file: 'wiki/doswiadczenie_somatyczne/interocepcja_i_propriocepcja_w_somatic_experiencing.md' },
-        { id: 'somatic_experiencing/granice_zgoda_i_tempo_pracy', label: 'Granice, zgoda i tempo pracy', file: 'wiki/doswiadczenie_somatyczne/granice_zgoda_i_tempo_pracy.md' },
-        { id: 'somatic_experiencing/przewlekly_bol_i_objawy_somatyczne', label: 'Przewlekły ból i objawy somatyczne', file: 'wiki/doswiadczenie_somatyczne/przewlekly_bol_i_objawy_somatyczne.md' },
-        { id: 'somatic_experiencing/integracja_z_innymi_terapiami_traumy', label: 'Integracja Somatic Experiencing z innymi terapiami traumy', file: 'wiki/doswiadczenie_somatyczne/integracja_z_innymi_terapiami_traumy.md' },
-          { id: 'somatic_experiencing/stabilizacja_i_sekwencjonowanie', label: 'Stabilizacja i sekwencjonowanie w Somatic Experiencing', file: 'wiki/doswiadczenie_somatyczne/stabilizacja_i_sekwencjonowanie.md' },
-        ]
+        { id: 'somatic_experiencing/wprowadzenie_do_doswiadczenia_somatycznego', label: 'Somatic Experiencing: założenia, praktyka i stan badań', file: 'wiki/doswiadczenie_somatyczne/wprowadzenie_do_doswiadczenia_somatycznego.md' },
+      ]
     },
     { /* Systemy rodzinne */
       section: 'Systemy rodzinne',

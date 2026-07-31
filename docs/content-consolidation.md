@@ -40,6 +40,18 @@ Jedna zmiana powinna obejmować małą, spójną grupę artykułów. Pozwala to 
 
 | Data | Temat kanoniczny | Scalony adres |
 |---|---|---|
+| 2026-07-31 | `wiki/doswiadczenie_somatyczne/wprowadzenie_do_doswiadczenia_somatycznego.md` | `wiki/doswiadczenie_somatyczne/dysocjacja_i_zawazenie_okna_tolerancji.md` |
+| 2026-07-31 | `wiki/doswiadczenie_somatyczne/wprowadzenie_do_doswiadczenia_somatycznego.md` | `wiki/doswiadczenie_somatyczne/granice_zgoda_i_tempo_pracy.md` |
+| 2026-07-31 | `wiki/doswiadczenie_somatyczne/wprowadzenie_do_doswiadczenia_somatycznego.md` | `wiki/doswiadczenie_somatyczne/integracja_z_innymi_terapiami_traumy.md` |
+| 2026-07-31 | `wiki/doswiadczenie_somatyczne/wprowadzenie_do_doswiadczenia_somatycznego.md` | `wiki/doswiadczenie_somatyczne/interocepcja_i_propriocepcja_w_somatic_experiencing.md` |
+| 2026-07-31 | `wiki/doswiadczenie_somatyczne/wprowadzenie_do_doswiadczenia_somatycznego.md` | `wiki/doswiadczenie_somatyczne/neurofizjologia_traumy_i_autonomiczny_uklad_nerwowy.md` |
+| 2026-07-31 | `wiki/doswiadczenie_somatyczne/wprowadzenie_do_doswiadczenia_somatycznego.md` | `wiki/doswiadczenie_somatyczne/orientacja_i_uziemienie_w_somatic_experiencing.md` |
+| 2026-07-31 | `wiki/doswiadczenie_somatyczne/wprowadzenie_do_doswiadczenia_somatycznego.md` | `wiki/doswiadczenie_somatyczne/przewlekly_bol_i_objawy_somatyczne.md` |
+| 2026-07-31 | `wiki/doswiadczenie_somatyczne/wprowadzenie_do_doswiadczenia_somatycznego.md` | `wiki/doswiadczenie_somatyczne/reakcja_obronna_i_dokonczenie_ruchu.md` |
+| 2026-07-31 | `wiki/doswiadczenie_somatyczne/wprowadzenie_do_doswiadczenia_somatycznego.md` | `wiki/doswiadczenie_somatyczne/stabilizacja_i_sekwencjonowanie.md` |
+| 2026-07-31 | `wiki/doswiadczenie_somatyczne/wprowadzenie_do_doswiadczenia_somatycznego.md` | `wiki/doswiadczenie_somatyczne/titracja_i_pendulacja.md` |
+| 2026-07-31 | `wiki/doswiadczenie_somatyczne/wprowadzenie_do_doswiadczenia_somatycznego.md` | `wiki/doswiadczenie_somatyczne/trauma_zlozona_i_relacja_terapeutyczna.md` |
+| 2026-07-31 | `wiki/doswiadczenie_somatyczne/wprowadzenie_do_doswiadczenia_somatycznego.md` | `wiki/doswiadczenie_somatyczne/zasoby_i_poczucie_bezpieczenstwa.md` |
 | 2026-07-30 | `wiki/reagowanie_na_krytyke/jak_nie_brac_do_siebie_opinii_innych.md` | `wiki/reagowanie_na_krytyke/czym_jest_krytyka_i_informacja_zwrotna.md` |
 | 2026-07-30 | `wiki/reagowanie_na_krytyke/jak_nie_brac_do_siebie_opinii_innych.md` | `wiki/reagowanie_na_krytyke/granice_i_asertywnosc.md` |
 | 2026-07-30 | `wiki/reagowanie_na_krytyke/jak_nie_brac_do_siebie_opinii_innych.md` | `wiki/reagowanie_na_krytyke/mentalizacja_i_intencje_nadawcy.md` |
@@ -195,3 +207,10 @@ Dawne pliki pozostają przekierowaniami do właściwych sekcji, ich identyfikato
 Artykuł `wiki/resocjalizacja/podstawy_resocjalizacji.md` jest kanonicznym opracowaniem resocjalizacji, reintegracji społecznej i procesu zaprzestawania przestępczości. Zintegrowano w nim ocenę ryzyka i potrzeb, konkurencyjne modele zmiany, interwencje, specyfikę nieletnich, prawa człowieka oraz ewaluację. Dawne artykuły nie odpowiadały na samodzielne główne pytania bez powtarzania definicji i planu pracy, dlatego zachowano je jako przekierowania do właściwych sekcji.
 
 Nawigacja i plan domeny wskazują jeden artykuł. Dawne identyfikatory SPA obsługuje `articleRedirects`, natomiast przekierowania plikowe zachowują linki kotwicowe dla adresów generowanych jako HTML. Konsolidacja usuwa powtarzalne listy dobrych i złych praktyk; ich funkcję dydaktyczną przejęło jedno studium przypadku prowadzące od oceny potrzeb do readaptacji.
+
+
+## Konsolidacja Somatic Experiencing
+
+Artykuł `wiki/doswiadczenie_somatyczne/wprowadzenie_do_doswiadczenia_somatycznego.md` jest kanonicznym opracowaniem założeń, praktyki i stanu badań nad Somatic Experiencing. Dwanaście tekstów scalono w jeden wywód: od granic metody i jej modelu, przez techniki oraz bezpieczeństwo, po zastosowania, integrację i ocenę dowodów. Definicje autonomicznego układu nerwowego, dysocjacji i okna tolerancji występują tylko raz.
+
+W artykule oddzielono postulaty SE od szerszych ustaleń psychotraumatologii. „Uwięziona energia”, dokończenie reakcji obronnej i teoria poliwagalna nie są przedstawiane jako potwierdzone mechanizmy. Wspólne elementy stabilizacji, uważności, ekspozycji interoceptywnej i terapii skoncentrowanych na ciele zostały nazwane wprost, a ograniczoną bazę badań SE zestawiono z dowodami dla terapii PTSD skoncentrowanych na traumie. Dawne pliki przekierowują do odpowiednich sekcji, ich identyfikatory SPA obsługuje `articleRedirects`, a nawigacja domeny zawiera wyłącznie artykuł kanoniczny.

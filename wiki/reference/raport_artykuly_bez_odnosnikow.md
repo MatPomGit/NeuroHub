@@ -389,14 +389,14 @@ Poni9=ej znajdujďż˝& siďż˝" bezpo9:rednie odno9:niki do artyku9Bw bez li
 
 ### ekrany_ksiazki_i_natura
 
-- [`ekrany_ksiazki_i_natura/czas_ekranowy.md`](../ekrany_ksiazki_i_natura/czas_ekranowy.md)
+- [`ekrany_ksiazki_i_natura/ekrany_i_funkcjonowanie_psychiczne.md`](../ekrany_ksiazki_i_natura/ekrany_i_funkcjonowanie_psychiczne.md)
 - [`ekrany_ksiazki_i_natura/czytanie_fikcja_empatia.md`](../ekrany_ksiazki_i_natura/czytanie_fikcja_empatia.md)
-- [`ekrany_ksiazki_i_natura/czytanie_ksiazek.md`](../ekrany_ksiazki_i_natura/czytanie_ksiazek.md)
+- [`ekrany_ksiazki_i_natura/czytanie_i_psychologia.md`](../ekrany_ksiazki_i_natura/czytanie_i_psychologia.md)
 - [`ekrany_ksiazki_i_natura/ekrany_funkcje_poznawcze.md`](../ekrany_ksiazki_i_natura/ekrany_funkcje_poznawcze.md)
 - [`ekrany_ksiazki_i_natura/gleboke_czytanie.md`](../ekrany_ksiazki_i_natura/gleboke_czytanie.md)
 - [`ekrany_ksiazki_i_natura/gory_psychologia.md`](../ekrany_ksiazki_i_natura/gory_psychologia.md)
 - [`ekrany_ksiazki_i_natura/las_shinrin_yoku.md`](../ekrany_ksiazki_i_natura/las_shinrin_yoku.md)
-- [`ekrany_ksiazki_i_natura/natura_psychologia.md`](../ekrany_ksiazki_i_natura/natura_psychologia.md)
+- [`ekrany_ksiazki_i_natura/kontakt_z_natura_i_zdrowie_psychiczne.md`](../ekrany_ksiazki_i_natura/kontakt_z_natura_i_zdrowie_psychiczne.md)
 - [`ekrany_ksiazki_i_natura/smartfony_psychologia.md`](../ekrany_ksiazki_i_natura/smartfony_psychologia.md)
 - [`ekrany_ksiazki_i_natura/tablety_dzieci.md`](../ekrany_ksiazki_i_natura/tablety_dzieci.md)
 - [`ekrany_ksiazki_i_natura/telewizja_psychologia.md`](../ekrany_ksiazki_i_natura/telewizja_psychologia.md)

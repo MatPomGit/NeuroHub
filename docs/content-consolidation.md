@@ -40,6 +40,16 @@ Jedna zmiana powinna obejmować małą, spójną grupę artykułów. Pozwala to 
 
 | Data | Temat kanoniczny | Scalony adres |
 |---|---|---|
+| 2026-07-31 | `wiki/e_terapia/terapia_online.md` | `wiki/e_terapia/wprowadzenie.md` |
+| 2026-07-31 | `wiki/e_terapia/terapia_online.md` | `wiki/e_terapia/historia_e_terapii.md` |
+| 2026-07-31 | `wiki/e_terapia/terapia_online.md` | `wiki/e_terapia/skutecznosc_e_terapii.md` |
+| 2026-07-31 | `wiki/e_terapia/terapia_online.md` | `wiki/e_terapia/platformy_e_terapii.md` |
+| 2026-07-31 | `wiki/e_terapia/terapia_online.md` | `wiki/e_terapia/dostepnosc_cyfrowa.md` |
+| 2026-07-31 | `wiki/e_terapia/terapia_online.md` | `wiki/e_terapia/e_terapia_dzieci.md` |
+| 2026-07-31 | `wiki/e_terapia/terapia_online.md` | `wiki/e_terapia/etyka_e_terapii.md` |
+| 2026-07-31 | `wiki/e_terapia/cyfrowe_narzedzia_zdrowia_psychicznego.md` | `wiki/e_terapia/aplikacje_zdrowia_psychicznego.md` |
+| 2026-07-31 | `wiki/e_terapia/cyfrowe_narzedzia_zdrowia_psychicznego.md` | `wiki/e_terapia/chatboty_terapeutyczne.md` |
+| 2026-07-31 | trzy opracowania domeny `wiki/e_terapia/` | `wiki/e_terapia/przyszlosc_e_terapii.md` |
 | 2026-07-31 | `wiki/doswiadczenie_somatyczne/wprowadzenie_do_doswiadczenia_somatycznego.md` | `wiki/doswiadczenie_somatyczne/dysocjacja_i_zawazenie_okna_tolerancji.md` |
 | 2026-07-31 | `wiki/doswiadczenie_somatyczne/wprowadzenie_do_doswiadczenia_somatycznego.md` | `wiki/doswiadczenie_somatyczne/granice_zgoda_i_tempo_pracy.md` |
 | 2026-07-31 | `wiki/doswiadczenie_somatyczne/wprowadzenie_do_doswiadczenia_somatycznego.md` | `wiki/doswiadczenie_somatyczne/integracja_z_innymi_terapiami_traumy.md` |
@@ -214,3 +224,10 @@ Nawigacja i plan domeny wskazują jeden artykuł. Dawne identyfikatory SPA obsł
 Artykuł `wiki/doswiadczenie_somatyczne/wprowadzenie_do_doswiadczenia_somatycznego.md` jest kanonicznym opracowaniem założeń, praktyki i stanu badań nad Somatic Experiencing. Dwanaście tekstów scalono w jeden wywód: od granic metody i jej modelu, przez techniki oraz bezpieczeństwo, po zastosowania, integrację i ocenę dowodów. Definicje autonomicznego układu nerwowego, dysocjacji i okna tolerancji występują tylko raz.
 
 W artykule oddzielono postulaty SE od szerszych ustaleń psychotraumatologii. „Uwięziona energia”, dokończenie reakcji obronnej i teoria poliwagalna nie są przedstawiane jako potwierdzone mechanizmy. Wspólne elementy stabilizacji, uważności, ekspozycji interoceptywnej i terapii skoncentrowanych na ciele zostały nazwane wprost, a ograniczoną bazę badań SE zestawiono z dowodami dla terapii PTSD skoncentrowanych na traumie. Dawne pliki przekierowują do odpowiednich sekcji, ich identyfikatory SPA obsługuje `articleRedirects`, a nawigacja domeny zawiera wyłącznie artykuł kanoniczny.
+
+
+## Konsolidacja e-terapii
+
+Dwanaście dawnych tekstów domeny uporządkowano w trzy opracowania kanoniczne, rozdzielone według głównej funkcji technologii. `terapia_online.md` opisuje świadczenie prowadzone przez specjalistę, `cyfrowe_narzedzia_zdrowia_psychicznego.md` samodzielne i wspomagające oprogramowanie, a `vr_terapia.md` zastosowanie środowisk immersyjnych. Dziewięć wycofanych artykułów pozostaje przekierowaniami do właściwych sekcji. Przekrojowy plik `przyszlosc_e_terapii.md` usunięto po przeniesieniu empirycznie uzasadnionych kierunków rozwoju do trzech tekstów; dawny identyfikator SPA prowadzi do opracowania o terapii online.
+
+Treści marketingowe, nieudokumentowane liczby użytkowników i prognozy o zastąpieniu relacji terapeutycznej przez AI lub metawersum pominięto. Artykuł o narzędziach rozdziela status regulacyjny od funkcji klinicznej, natomiast tekst VR porównuje VRET z ekspozycją in vivo i odróżnia chorobę symulatorową od lęku będącego przedmiotem ekspozycji. Nawigacja, spis treści i dawne identyfikatory wskazują wyłącznie trzy opracowania kanoniczne.

@@ -15,6 +15,16 @@ window.SITE_CONFIG = {
 
   // Zachowuje dawne adresy SPA po scaleniu lub przeniesieniu artykułów.
   articleRedirects: {
+    'e_terapia/wprowadzenie': 'e_terapia/terapia_online',
+    'e_terapia/historia_e_terapii': 'e_terapia/terapia_online',
+    'e_terapia/skutecznosc_e_terapii': 'e_terapia/terapia_online',
+    'e_terapia/platformy_e_terapii': 'e_terapia/terapia_online',
+    'e_terapia/dostepnosc_cyfrowa': 'e_terapia/terapia_online',
+    'e_terapia/e_terapia_dzieci': 'e_terapia/terapia_online',
+    'e_terapia/etyka_e_terapii': 'e_terapia/terapia_online',
+    'e_terapia/aplikacje_zdrowia_psychicznego': 'e_terapia/cyfrowe_narzedzia_zdrowia_psychicznego',
+    'e_terapia/chatboty_terapeutyczne': 'e_terapia/cyfrowe_narzedzia_zdrowia_psychicznego',
+    'e_terapia/przyszlosc_e_terapii': 'e_terapia/terapia_online',
     'arteterapia/art_therapy': 'arteterapia/arteterapia_wprowadzenie',
     'arteterapia/muzykoterapia': 'arteterapia/arteterapia_wprowadzenie',
     'arteterapia/biblioterapia': 'arteterapia/arteterapia_wprowadzenie',
@@ -1099,18 +1109,9 @@ window.SITE_CONFIG = {
       section: 'E-terapia',
       domainKey: 'e_terapia',
       items: [
-        { id: 'e_terapia/wprowadzenie',                  label: 'E-terapia',              file: 'wiki/e_terapia/wprowadzenie.md'                  },
-        { id: 'e_terapia/historia_e_terapii',            label: 'Historia e-terapii',                    file: 'wiki/e_terapia/historia_e_terapii.md'            },
-        { id: 'e_terapia/terapia_online',                label: 'Terapia online (wideo, telefon, czat)',  file: 'wiki/e_terapia/terapia_online.md'                },
-        { id: 'e_terapia/platformy_e_terapii',           label: 'Platformy i narzedzia e-terapii',       file: 'wiki/e_terapia/platformy_e_terapii.md'           },
-        { id: 'e_terapia/skutecznosc_e_terapii',         label: 'Skutecznosc e-terapii',                 file: 'wiki/e_terapia/skutecznosc_e_terapii.md'         },
-        { id: 'e_terapia/etyka_e_terapii',               label: 'Etyka e-terapii',                       file: 'wiki/e_terapia/etyka_e_terapii.md'               },
-        { id: 'e_terapia/chatboty_terapeutyczne',        label: 'Chatboty terapeutyczne i AI',           file: 'wiki/e_terapia/chatboty_terapeutyczne.md'        },
-        { id: 'e_terapia/aplikacje_zdrowia_psychicznego',label: 'Aplikacje zdrowia psychicznego (mHealth)', file: 'wiki/e_terapia/aplikacje_zdrowia_psychicznego.md' },
-        { id: 'e_terapia/vr_terapia',                    label: 'Wirtualna rzeczywistość (VR) w terapii',file: 'wiki/e_terapia/vr_terapia.md'                    },
-        { id: 'e_terapia/e_terapia_dzieci',              label: 'E-terapia dzieci i mlodziezy',          file: 'wiki/e_terapia/e_terapia_dzieci.md'              },
-        { id: 'e_terapia/dostepnosc_cyfrowa',            label: 'Dostepnosc i wykluczenie cyfrowe',      file: 'wiki/e_terapia/dostepnosc_cyfrowa.md'            },
-        { id: 'e_terapia/przyszlosc_e_terapii',          label: 'Przyszlosc e-terapii',                  file: 'wiki/e_terapia/przyszlosc_e_terapii.md'          },
+        { id: 'e_terapia/terapia_online', label: 'Terapia online', file: 'wiki/e_terapia/terapia_online.md' },
+        { id: 'e_terapia/cyfrowe_narzedzia_zdrowia_psychicznego', label: 'Cyfrowe narzędzia zdrowia psychicznego', file: 'wiki/e_terapia/cyfrowe_narzedzia_zdrowia_psychicznego.md' },
+        { id: 'e_terapia/vr_terapia', label: 'Wirtualna rzeczywistość w terapii', file: 'wiki/e_terapia/vr_terapia.md' },
       ]
     },
     { /* Psychologia sztucznej inteligencji */
@@ -1884,18 +1885,9 @@ window.SITE_CONFIG = {
       { file: 'wiki/psychologia_sadowa/biegly_a_sad.md',            label: 'Biegly, a sad - komunikacja',           status: 'live' },
     ],
     e_therapy: [
-      { file: 'wiki/e_terapia/wprowadzenie.md',                   label: 'E-terapia',                              status: 'live' },
-      { file: 'wiki/e_terapia/historia_e_terapii.md',             label: 'Historia e-terapii',                     status: 'live' },
-      { file: 'wiki/e_terapia/terapia_online.md',                 label: 'Terapia online (wideo, telefon, czat)',  status: 'live' },
-      { file: 'wiki/e_terapia/platformy_e_terapii.md',            label: 'Platformy i narzedzia e-terapii',        status: 'live' },
-      { file: 'wiki/e_terapia/skutecznosc_e_terapii.md',          label: 'Skutecznosc e-terapii',                  status: 'live' },
-      { file: 'wiki/e_terapia/etyka_e_terapii.md',                label: 'Etyka e-terapii',                        status: 'live' },
-      { file: 'wiki/e_terapia/chatboty_terapeutyczne.md',         label: 'Chatboty terapeutyczne i AI',            status: 'live' },
-      { file: 'wiki/e_terapia/aplikacje_zdrowia_psychicznego.md', label: 'Aplikacje zdrowia psychicznego (mHealth)',status: 'live' },
-      { file: 'wiki/e_terapia/vr_terapia.md',                     label: 'Wirtualna rzeczywistość w terapii',      status: 'live' },
-      { file: 'wiki/e_terapia/e_terapia_dzieci.md',               label: 'E-terapia dzieci i mlodziezy',           status: 'live' },
-      { file: 'wiki/e_terapia/dostepnosc_cyfrowa.md',             label: 'Dostepnosc i wykluczenie cyfrowe',       status: 'live' },
-      { file: 'wiki/e_terapia/przyszlosc_e_terapii.md',           label: 'Przyszlosc e-terapii',                   status: 'live' },
+      { file: 'wiki/e_terapia/terapia_online.md', label: 'Terapia online', status: 'live' },
+      { file: 'wiki/e_terapia/cyfrowe_narzedzia_zdrowia_psychicznego.md', label: 'Cyfrowe narzędzia zdrowia psychicznego', status: 'live' },
+      { file: 'wiki/e_terapia/vr_terapia.md', label: 'Wirtualna rzeczywistość w terapii', status: 'live' },
     ],
     philosophy: [
       { file: 'wiki/filozofia/wprowadzenie.md',        label: 'Filozofia',                       status: 'live' },
@@ -3262,38 +3254,14 @@ window.SITE_CONFIG = {
 
     e_terapia: {
       title: 'WIKI - E-terapia',
-      intro: 'E-terapia (terapia online, telemedycyna psychologiczna) obejmuje swiadczenie pomocy psychologicznej i terapeutycznej za posrednictwem technologii cyfrowych - wideo, czatu, aplikacji mobilnych oraz rzeczywistośći wirtualnej. Encyklopedia opisuje historie, formy, skutecznosc, etykę oraz przyszłość zdalnej opieki psychologicznej.',
+      intro: 'E-terapia obejmuje pracę specjalisty na odległość, samodzielne cyfrowe narzędzia zdrowia psychicznego oraz interwencje wykorzystujące wirtualną rzeczywistość.',
       sections: [
         {
-          title: 'Podstawy i historia',
+          title: 'Opracowania kanoniczne',
           articles: [
-            { label: 'E-terapia',                         id: 'e_terapia/wprowadzenie',       status: 'live' },
-            { label: 'Historia e-terapii',                id: 'e_terapia/historia_e_terapii', status: 'live' },
-          ]
-        },
-        {
-          title: 'Formy i narzedzia',
-          articles: [
-            { label: 'Terapia online (wideo, telefon, czat)',      id: 'e_terapia/terapia_online',                 status: 'live' },
-            { label: 'Platformy i narzedzia e-terapii',            id: 'e_terapia/platformy_e_terapii',            status: 'live' },
-            { label: 'Chatboty terapeutyczne i AI',                id: 'e_terapia/chatboty_terapeutyczne',         status: 'live' },
-            { label: 'Aplikacje zdrowia psychicznego (mHealth)',   id: 'e_terapia/aplikacje_zdrowia_psychicznego', status: 'live' },
-            { label: 'Wirtualna rzeczywistość (VR) w terapii',     id: 'e_terapia/vr_terapia',                     status: 'live' },
-          ]
-        },
-        {
-          title: 'Skutecznosc i etyka',
-          articles: [
-            { label: 'Skutecznosc e-terapii',              id: 'e_terapia/skutecznosc_e_terapii', status: 'live' },
-            { label: 'Etyka e-terapii',                    id: 'e_terapia/etyka_e_terapii',       status: 'live' },
-            { label: 'Dostepnosc i wykluczenie cyfrowe',   id: 'e_terapia/dostepnosc_cyfrowa',    status: 'live' },
-          ]
-        },
-        {
-          title: 'Grupy szczególne i przyszłość',
-          articles: [
-            { label: 'E-terapia dzieci i mlodziezy', id: 'e_terapia/e_terapia_dzieci',     status: 'live' },
-            { label: 'Przyszlosc e-terapii',         id: 'e_terapia/przyszlosc_e_terapii', status: 'live' },
+            { label: 'Terapia online', id: 'e_terapia/terapia_online', status: 'live' },
+            { label: 'Cyfrowe narzędzia zdrowia psychicznego', id: 'e_terapia/cyfrowe_narzedzia_zdrowia_psychicznego', status: 'live' },
+            { label: 'Wirtualna rzeczywistość w terapii', id: 'e_terapia/vr_terapia', status: 'live' },
           ]
         },
       ]

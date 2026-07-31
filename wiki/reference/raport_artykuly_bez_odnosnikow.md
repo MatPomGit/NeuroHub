@@ -77,33 +77,9 @@ Poni9=ej znajdujďż˝& siďż˝" bezpo9:rednie odno9:niki do artyku9Bw bez li
 
 ### affective_robotics
 
-- [`affective_robotics/dolina_niesamowitosci.md`](../robotyka_afektywna/dolina_niesamowitosci.md)
-- [`affective_robotics/emocje_robotow.md`](../robotyka_afektywna/emocje_robotow.md)
-- [`affective_robotics/historia_robotyki_afektywnej.md`](../robotyka_afektywna/historia_robotyki_afektywnej.md)
-- [`affective_robotics/interfejsy_mozg_maszyna.md`](../robotyka_afektywna/interfejsy_mozg_maszyna.md)
-- [`affective_robotics/kognitywistyka_obliczeniowa.md`](../robotyka_afektywna/kognitywistyka_obliczeniowa.md)
-- [`affective_robotics/percepcja_robotow.md`](../robotyka_afektywna/percepcja_robotow.md)
-- [`affective_robotics/przyszlosc_robotyki_afektywnej.md`](../robotyka_afektywna/przyszlosc_robotyki_afektywnej.md)
-- [`affective_robotics/roboty_spoleczne.md`](../robotyka_afektywna/roboty_spoleczne.md)
-- [`affective_robotics/roboty_w_opiece.md`](../robotyka_afektywna/roboty_w_opiece.md)
-- [`affective_robotics/swiadomosc_maszyn.md`](../robotyka_afektywna/swiadomosc_maszyn.md)
-- [`affective_robotics/wprowadzenie.md`](../robotyka_afektywna/wprowadzenie.md)
-- [`affective_robotics/wspolpraca_czlowiek_robot.md`](../robotyka_afektywna/wspolpraca_czlowiek_robot.md)
 
 ### psychologia_ai
 
-- [`psychologia_ai/ai_emocje.md`](../psychologia_ai/ai_emocje.md)
-- [`psychologia_ai/ai_poznawcze.md`](../psychologia_ai/ai_poznawcze.md)
-- [`psychologia_ai/ai_w_terapii.md`](../psychologia_ai/ai_w_terapii.md)
-- [`psychologia_ai/antropomorfizacja_ai.md`](../psychologia_ai/antropomorfizacja_ai.md)
-- [`psychologia_ai/czlowiek_a_ai.md`](../psychologia_ai/czlowiek_a_ai.md)
-- [`psychologia_ai/decyzje_ai.md`](../psychologia_ai/decyzje_ai.md)
-- [`psychologia_ai/etyka_ai.md`](../psychologia_ai/etyka_ai.md)
-- [`psychologia_ai/historia_ai.md`](../psychologia_ai/historia_ai.md)
-- [`psychologia_ai/przyszlosc_ai.md`](../psychologia_ai/przyszlosc_ai.md)
-- [`psychologia_ai/uprzedzenia_ai.md`](../psychologia_ai/uprzedzenia_ai.md)
-- [`psychologia_ai/wprowadzenie.md`](../psychologia_ai/wprowadzenie.md)
-- [`psychologia_ai/zaufanie_do_ai.md`](../psychologia_ai/zaufanie_do_ai.md)
 
 ### animaltherapy
 
@@ -837,10 +813,14 @@ W tym artykule kluczowe pojďż˝"cia sďż˝& rozumiane w sposBb operacyjny, t
 
 
 ## Praktyczne przykłady
-Dobrďż˝& praktykďż˝& jest rozpoczynanie pracy od jasnego celu, kryteriBw oceny postďż˝"pBw oraz wspBlnego jďż˝"zyka u9=ywanego przez specjalistďż˝" i odbiorcďż˝" interwencji. W praktyce oznacza to regularny monitoring efektBw, krBtkie cykle informacji zwrotnej i gotowo9:ďż˝! do modyfikacji planu dzia9ania. Wysokďż˝& skuteczno9:ďż˝! wspiera tak9=e psychoedukacja, ktBra zwiďż˝"ksza poczucie sprawstwa i rozumienie procesu zmiany. Istotne jest ponadto respektowanie granic etycznych oraz uwzglďż˝"dnianie rB9=nic indywidualnych. Konsekwencjďż˝& takiego podej9:cia jest wiďż˝"ksza trwa9o9:ďż˝! rezultatBw i mniejsze ryzyko dzia9a9 pozornych.
+Dobrďż˝& praktykďż˝& jest rozpoczynanie pracy od jasnego celu, kryteriBw oceny postďż˝"pBw oraz wspBlnego jďż˝"zyka u9=ywanego przez specjalistďż˝" i odbiorcďż˝" interwencji. W praktyce oznacza to regularny monitoring efektBw, krBtkie cykle informacji zwrotnej i gotowo9:ďż˝! do modyfikacji planu dzia9ania. Wysokďż˝& skuteczno9:ďż˝! wspiera tak9=e psychoedukacja, ktBra zwiďż˝"ksza poczucie sprawstwa i rozumienie procesu zmiany. Istotne jest ponadto respektowanie granic etycznych oraz uwzglďż˝"dnianie rB9=nic indywidualnych. Konsekwencjďż˝& takiego podej9:cia jest wiďż˝"ksza trwa9o9:ďż˝! rezultatBw i mniejsze ryzyko dzia9a9
+ pozornych.
+## PodsumowanieNieoczywista perspektywa polega na przesuniďż˝"ciu uwagi z pytania ďż˝~co jest nie takďż˝e na pytanie ďż˝~jakie warunki podtrzymujďż˝& aktualny wzorzec funkcjonowaniaďż˝e. Taki punkt widzenia pozwala dostrzec, 9=e czďż˝"9:ďż˝! zachowa9
+ ocenianych jako problemowe pe9ni funkcjďż˝" adaptacyjnďż˝& w krBtkim horyzoncie czasu. W badaniach oznacza to potrzebďż˝" analizy kosztBw i korzy9:ci z perspektywy uczestnika, a nie wy9ďż˝&cznie obserwatora. W praktyce mo9=e to prowadziďż˝! do bardziej realistycznych celBw i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudno9:ci, lecz porzďż˝&dkuje je w kategoriach funkcji i kontekstu.
 
 
-## Z9a praktyka
+Najwa9=niejszy wniosek jest taki, 9=e rzetelne rozumienie omawianego tematu wymaga 9ďż˝&czenia definicji, danych empirycznych i konsekwencji praktycznych. Skuteczne dzia9ania opierajďż˝& siďż˝" na dopasowaniu metod do celu, monitorowaniu efektBw oraz 9:wiadomym zarzďż˝&dzaniu ograniczeniami. Jednocze9:nie nale9=y zachowaďż˝! ostro9=no9:ďż˝! wobec nadmiernych uogBlnie9
+, bo jako9:ďż˝! wnioskBw zale9=y od kontekstu i jako9:ci pomiaru. W9ďż˝&czenie perspektywy alternatywnej zwiďż˝"ksza trafno9:ďż˝! diagnozy i u9=yteczno9:ďż˝! interwencji. Ostatecznie to w9a9:nie integracja wiedzy teoretycznej z praktykďż˝& decyduje o warto9:ci edukacyjnej i klinicznej artyku9u.
 
 Czďż˝"stym b9ďż˝"dem jest stosowanie jednego schematu postďż˝"powania niezale9=nie od kontekstu, potrzeb i mo9=liwo9:ci danej osoby lub grupy. Problemem bywa rBwnie9= opieranie decyzji na intuicji bez sprawdzania jako9:ci danych i aktualnych rekomendacji. W praktyce prowadzi to do nietrafnych interwencji, spadku motywacji oraz utraty zaufania do procesu wsparcia. Z9ďż˝& praktykďż˝& jest tak9=e pomijanie czynnikBw systemowych, takich jak warunki 9:rodowiskowe czy bariery organizacyjne. Konsekwencje obejmujďż˝& nie tylko s9absze efekty, ale rBwnie9= ryzyko wtBrnej szkody psychologicznej.## Perspektywa nieoczywista
 

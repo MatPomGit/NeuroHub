@@ -1111,18 +1111,10 @@ window.SITE_CONFIG = {
       section: 'Psychologia sztucznej inteligencji',
       domainKey: 'psychologia_ai',
       items: [
-        { id: 'psychologia_ai/wprowadzenie',         label: 'Psychologia AI',             file: 'wiki/psychologia_ai/wprowadzenie.md'           },
-        { id: 'psychologia_ai/historia_ai',          label: 'Historia AI i psychologia',                 file: 'wiki/psychologia_ai/historia_ai.md'            },
-        { id: 'psychologia_ai/czlowiek_a_ai',        label: 'Interakcja czlowiek-AI',                    file: 'wiki/psychologia_ai/czlowiek_a_ai.md'          },
-        { id: 'psychologia_ai/zaufanie_do_ai',       label: 'Zaufanie do sztucznej inteligencji',        file: 'wiki/psychologia_ai/zaufanie_do_ai.md'         },
-        { id: 'psychologia_ai/uprzedzenia_ai',       label: 'Uprzedzenia i błędy poznawcze w AI',        file: 'wiki/psychologia_ai/uprzedzenia_ai.md'         },
-        { id: 'psychologia_ai/etyka_ai',             label: 'Etyka AI z perspektywy psychologicznej',    file: 'wiki/psychologia_ai/etyka_ai.md'               },
-        { id: 'psychologia_ai/ai_emocje',            label: 'AI, a emocje i rozumienie emocji',           file: 'wiki/psychologia_ai/ai_emocje.md'              },
-        { id: 'psychologia_ai/decyzje_ai',           label: 'AI, a podejmowanie decyzji',                 file: 'wiki/psychologia_ai/decyzje_ai.md'             },
-        { id: 'psychologia_ai/ai_w_terapii',         label: 'AI w psychoterapii i diagnostyce',          file: 'wiki/psychologia_ai/ai_w_terapii.md'           },
-        { id: 'psychologia_ai/ai_poznawcze',         label: 'Poznawcze aspekty działania AI',            file: 'wiki/psychologia_ai/ai_poznawcze.md'           },
-        { id: 'psychologia_ai/antropomorfizacja_ai', label: 'Antropomorfizacja AI',                      file: 'wiki/psychologia_ai/antropomorfizacja_ai.md'   },
-        { id: 'psychologia_ai/przyszlosc_ai',        label: 'Przyszlosc relacji czlowiek-AI',            file: 'wiki/psychologia_ai/przyszlosc_ai.md'          },
+        { id: 'psychologia_ai/psychologia_interakcji_czlowiek_ai', label: 'Psychologia interakcji człowiek–AI', file: 'wiki/psychologia_ai/psychologia_interakcji_czlowiek_ai.md' },
+        { id: 'psychologia_ai/ai_w_zdrowiu_psychicznym_i_opiece', label: 'AI w zdrowiu psychicznym i opiece', file: 'wiki/psychologia_ai/ai_w_zdrowiu_psychicznym_i_opiece.md' },
+        { id: 'psychologia_ai/mechanizmy_ograniczenia_i_etyka_ai', label: 'Mechanizmy, ograniczenia i etyka AI', file: 'wiki/psychologia_ai/mechanizmy_ograniczenia_i_etyka_ai.md' },
+        { id: 'robotyka_afektywna/interfejsy_mozg_maszyna', label: 'Interfejsy mózg–maszyna (neurotechnologia)', file: 'wiki/robotyka_afektywna/interfejsy_mozg_maszyna.md' },
       ]
     },
     { /* Psychologia technologii i dobrostan cyfrowy */
@@ -1140,24 +1132,6 @@ window.SITE_CONFIG = {
         { id: 'psychologia_technologii/zdrada_technologii', label: 'Zdrada technologii', file: 'wiki/psychologia_technologii/zdrada_technologii.md' },
         { id: 'dla_studentow/psycholog_w_it', label: 'Psycholog w IT', file: 'wiki/dla_studentow/psycholog_w_it.md' },
         { id: 'dla_studentow/psycholog_w_it_kompetencje_mierniki_i_portfolio', label: 'Psycholog w IT - kompetencje, mierniki i portfolio', file: 'wiki/dla_studentow/psycholog_w_it_kompetencje_mierniki_i_portfolio.md' },
-      ]
-    },
-    { /* Robotyka afektywna i kognitywistyka */
-      section: 'Robotyka afektywna i kognitywistyka',
-      domainKey: 'robotyka_afektywna',
-      items: [
-        { id: 'robotyka_afektywna/wprowadzenie',                   label: 'Robotyka afektywna',         file: 'wiki/robotyka_afektywna/wprowadzenie.md'                    },
-        { id: 'robotyka_afektywna/historia_robotyki_afektywnej',   label: 'Historia robotyki afektywnej',              file: 'wiki/robotyka_afektywna/historia_robotyki_afektywnej.md'    },
-        { id: 'robotyka_afektywna/emocje_robotow',                 label: 'Emocje w robotach',                         file: 'wiki/robotyka_afektywna/emocje_robotow.md'                  },
-        { id: 'robotyka_afektywna/dolina_niesamowitosci',          label: 'Dolina niesamowitosci',                     file: 'wiki/robotyka_afektywna/dolina_niesamowitosci.md'           },
-        { id: 'robotyka_afektywna/roboty_spoleczne',               label: 'Roboty społeczne i HRI',                    file: 'wiki/robotyka_afektywna/roboty_spoleczne.md'                },
-        { id: 'robotyka_afektywna/kognitywistyka_obliczeniowa',    label: 'Kognitywistyka obliczeniowa',               file: 'wiki/robotyka_afektywna/kognitywistyka_obliczeniowa.md'     },
-        { id: 'robotyka_afektywna/percepcja_robotow',              label: 'Percepcja i ocena robotów przez ludzi',     file: 'wiki/robotyka_afektywna/percepcja_robotow.md'               },
-        { id: 'robotyka_afektywna/roboty_w_opiece',                label: 'Roboty w opiece i terapii',                 file: 'wiki/robotyka_afektywna/roboty_w_opiece.md'                 },
-        { id: 'robotyka_afektywna/swiadomosc_maszyn',              label: 'Świadomość i podmiotowość maszyn',          file: 'wiki/robotyka_afektywna/swiadomosc_maszyn.md'               },
-        { id: 'robotyka_afektywna/wspolpraca_czlowiek_robot',      label: 'Współpraca człowiek–robot (HRC)',            file: 'wiki/robotyka_afektywna/wspolpraca_czlowiek_robot.md'       },
-        { id: 'robotyka_afektywna/interfejsy_mozg_maszyna',        label: 'Interfejsy mózg–maszyna (BCI)',              file: 'wiki/robotyka_afektywna/interfejsy_mozg_maszyna.md'         },
-        { id: 'robotyka_afektywna/przyszlosc_robotyki_afektywnej', label: 'Przyszlosc robotyki afektywnej',            file: 'wiki/robotyka_afektywna/przyszlosc_robotyki_afektywnej.md'  },
       ]
     },
     { /* Seminarium dyplomowe */
@@ -1775,18 +1749,10 @@ window.SITE_CONFIG = {
       { file: 'wiki/psychologia_pozytywna/interwencje_pozytywne.md',  label: 'Interwencje psychologii pozytywnej',     status: 'live' },
     ],
     ai_psychology: [
-      { file: 'wiki/psychologia_ai/wprowadzenie.md',          label: 'Psychologia AI',                            status: 'live' },
-      { file: 'wiki/psychologia_ai/historia_ai.md',           label: 'Historia AI i psychologia',                 status: 'live' },
-      { file: 'wiki/psychologia_ai/czlowiek_a_ai.md',         label: 'Interakcja czlowiek-AI',                    status: 'live' },
-      { file: 'wiki/psychologia_ai/zaufanie_do_ai.md',        label: 'Zaufanie do sztucznej inteligencji',        status: 'live' },
-      { file: 'wiki/psychologia_ai/uprzedzenia_ai.md',        label: 'Uprzedzenia i błędy poznawcze w AI',        status: 'live' },
-      { file: 'wiki/psychologia_ai/etyka_ai.md',              label: 'Etyka AI z perspektywy psychologicznej',    status: 'live' },
-      { file: 'wiki/psychologia_ai/ai_emocje.md',             label: 'AI, a emocje i rozumienie emocji',          status: 'live' },
-      { file: 'wiki/psychologia_ai/decyzje_ai.md',            label: 'AI, a podejmowanie decyzji',                status: 'live' },
-      { file: 'wiki/psychologia_ai/ai_w_terapii.md',          label: 'AI w psychoterapii i diagnostyce',          status: 'live' },
-      { file: 'wiki/psychologia_ai/ai_poznawcze.md',          label: 'Poznawcze aspekty działania AI',            status: 'live' },
-      { file: 'wiki/psychologia_ai/antropomorfizacja_ai.md',  label: 'Antropomorfizacja AI',                      status: 'live' },
-      { file: 'wiki/psychologia_ai/przyszlosc_ai.md',         label: 'Przyszlosc relacji czlowiek-AI',            status: 'live' },
+      { file: 'wiki/psychologia_ai/psychologia_interakcji_czlowiek_ai.md', label: 'Psychologia interakcji człowiek–AI', status: 'live' },
+      { file: 'wiki/psychologia_ai/ai_w_zdrowiu_psychicznym_i_opiece.md', label: 'AI w zdrowiu psychicznym i opiece', status: 'live' },
+      { file: 'wiki/psychologia_ai/mechanizmy_ograniczenia_i_etyka_ai.md', label: 'Mechanizmy, ograniczenia i etyka AI', status: 'live' },
+      { file: 'wiki/robotyka_afektywna/interfejsy_mozg_maszyna.md', label: 'Interfejsy mózg–maszyna (neurotechnologia)', status: 'live' },
     ],
     technology_psychology: [
       { file: 'wiki/psychologia_technologii/technostres.md',            label: 'Technostres - artykul naukowy',                      status: 'live' },
@@ -1799,18 +1765,10 @@ window.SITE_CONFIG = {
       { file: 'wiki/psychologia_technologii/psychoedukacja_rodzinna.md',label: 'Psychoedukacja rodzinna w erze ekranow',             status: 'live' },
     ],
     affective_robotics: [
-      { file: 'wiki/robotyka_afektywna/wprowadzenie.md',                    label: 'Robotyka afektywna',                        status: 'live' },
-      { file: 'wiki/robotyka_afektywna/historia_robotyki_afektywnej.md',    label: 'Historia robotyki afektywnej',              status: 'live' },
-      { file: 'wiki/robotyka_afektywna/emocje_robotow.md',                  label: 'Emocje w robotach',                         status: 'live' },
-      { file: 'wiki/robotyka_afektywna/dolina_niesamowitosci.md',           label: 'Dolina niesamowitosci',                     status: 'live' },
-      { file: 'wiki/robotyka_afektywna/roboty_spoleczne.md',                label: 'Roboty społeczne i HRI',                    status: 'live' },
-      { file: 'wiki/robotyka_afektywna/kognitywistyka_obliczeniowa.md',     label: 'Kognitywistyka obliczeniowa',               status: 'live' },
-      { file: 'wiki/robotyka_afektywna/percepcja_robotow.md',               label: 'Percepcja i ocena robotow przez ludzi',     status: 'live' },
-      { file: 'wiki/robotyka_afektywna/roboty_w_opiece.md',                 label: 'Roboty w opiece i terapii',                 status: 'live' },
-      { file: 'wiki/robotyka_afektywna/swiadomosc_maszyn.md',               label: 'Świadomość i podmiotowość maszyn',         status: 'live' },
-      { file: 'wiki/robotyka_afektywna/wspolpraca_czlowiek_robot.md',       label: 'Współpraca człowiek–robot (HRC)',         status: 'live' },
-      { file: 'wiki/robotyka_afektywna/interfejsy_mozg_maszyna.md',         label: 'Interfejsy mózg–maszyna (BCI)',           status: 'live' },
-      { file: 'wiki/robotyka_afektywna/przyszlosc_robotyki_afektywnej.md',  label: 'Przyszlosc robotyki afektywnej',            status: 'live' },
+      { file: 'wiki/psychologia_ai/psychologia_interakcji_czlowiek_ai.md', label: 'Psychologia interakcji człowiek–AI', status: 'live' },
+      { file: 'wiki/psychologia_ai/ai_w_zdrowiu_psychicznym_i_opiece.md', label: 'AI w zdrowiu psychicznym i opiece', status: 'live' },
+      { file: 'wiki/psychologia_ai/mechanizmy_ograniczenia_i_etyka_ai.md', label: 'Mechanizmy, ograniczenia i etyka AI', status: 'live' },
+      { file: 'wiki/robotyka_afektywna/interfejsy_mozg_maszyna.md', label: 'Interfejsy mózg–maszyna (neurotechnologia)', status: 'live' },
     ],
     school_psychology: [
       { file: 'wiki/psychologia_szkolna/wprowadzenie.md',                 label: 'Psychologia szkolna',                       status: 'live' },
@@ -2989,38 +2947,20 @@ window.SITE_CONFIG = {
 
     psych_ai: {
       title: 'WIKI - Psychologia sztucznej inteligencji',
-      intro: 'Psychologia sztucznej inteligencji bada psychologiczne aspekty systemów AI - od procesów poznawczych i antropomorfizacji po etykę, zaufanie i przyszłość relacji człowiek-maszyna. Encyklopedia obejmuje zarówno wplyw AI na człowieka, jak i psychologiczne mechanizmy projektowania i użytkowania systemów inteligentnych.',
+      intro: 'Trzy kanoniczne opracowania łączą psychologię interakcji człowiek–AI i robotów, zastosowania w zdrowiu i opiece oraz mechanizmy, ograniczenia i etykę AI. Interfejsy mózg–maszyna pozostają osobnym artykułem neurotechnologicznym.',
       sections: [
         {
-          title: 'Podstawy i historia',
+          title: 'Artykuły kanoniczne',
           articles: [
-            { label: 'Psychologia AI',   id: 'psychologia_ai/wprowadzenie',  status: 'live' },
-            { label: 'Historia AI i psychologia',       id: 'psychologia_ai/historia_ai',   status: 'live' },
+            { label: 'Psychologia interakcji człowiek–AI', id: 'psychologia_ai/psychologia_interakcji_czlowiek_ai', status: 'live' },
+            { label: 'AI w zdrowiu psychicznym i opiece', id: 'psychologia_ai/ai_w_zdrowiu_psychicznym_i_opiece', status: 'live' },
+            { label: 'Mechanizmy, ograniczenia i etyka AI', id: 'psychologia_ai/mechanizmy_ograniczenia_i_etyka_ai', status: 'live' },
           ]
         },
         {
-          title: 'Procesy poznawcze i decyzje',
+          title: 'Neurotechnologia',
           articles: [
-            { label: 'Poznawcze aspekty działania AI',  id: 'psychologia_ai/ai_poznawcze',  status: 'live' },
-            { label: 'AI, a podejmowanie decyzji',       id: 'psychologia_ai/decyzje_ai',    status: 'live' },
-          ]
-        },
-        {
-          title: 'Relacja czlowiek-AI',
-          articles: [
-            { label: 'Interakcja czlowiek-AI',                  id: 'psychologia_ai/czlowiek_a_ai',        status: 'live' },
-            { label: 'Zaufanie do sztucznej inteligencji',      id: 'psychologia_ai/zaufanie_do_ai',       status: 'live' },
-            { label: 'Antropomorfizacja AI',                    id: 'psychologia_ai/antropomorfizacja_ai', status: 'live' },
-            { label: 'AI, a emocje i rozumienie emocji',         id: 'psychologia_ai/ai_emocje',            status: 'live' },
-          ]
-        },
-        {
-          title: 'Etyka, uprzedzenia i zastosowania',
-          articles: [
-            { label: 'Uprzedzenia i błędy poznawcze w AI',      id: 'psychologia_ai/uprzedzenia_ai', status: 'live' },
-            { label: 'Etyka AI z perspektywy psychologicznej',  id: 'psychologia_ai/etyka_ai',       status: 'live' },
-            { label: 'AI w psychoterapii i diagnostyce',        id: 'psychologia_ai/ai_w_terapii',   status: 'live' },
-            { label: 'Przyszlosc relacji czlowiek-AI',          id: 'psychologia_ai/przyszlosc_ai',  status: 'live' },
+            { label: 'Interfejsy mózg–maszyna (BCI)', id: 'robotyka_afektywna/interfejsy_mozg_maszyna', status: 'xlink' },
           ]
         },
       ]
@@ -3053,39 +2993,16 @@ window.SITE_CONFIG = {
     },
 
     robotyka_afektywna: {
-      title: 'WIKI - Robotyka afektywna i kognitywistyka',
-      intro: 'Robotyka afektywna i kognitywistyka badaja emocjonalne i poznawcze aspekty maszyn oraz interakcji czlowiek-robot. Encyklopedia obejmuje zagadnienia od historii robotyki afektywnej, przez doliny niesamowitosci i roboty społeczne, po interfejsy mózg-maszyna i filozofie swiadomosci maszyn.',
+      title: 'WIKI - Psychologia sztucznej inteligencji',
+      intro: 'Treści robotyki afektywnej zostały włączone do trzech artykułów kanonicznych psychologii AI; osobno zachowano neurotechnologiczne opracowanie o interfejsach mózg–maszyna.',
       sections: [
         {
-          title: 'Podstawy i historia',
+          title: 'Nowa domena kanoniczna',
           articles: [
-            { label: 'Robotyka afektywna',  id: 'robotyka_afektywna/wprowadzenie',                 status: 'live' },
-            { label: 'Historia robotyki afektywnej',       id: 'robotyka_afektywna/historia_robotyki_afektywnej', status: 'live' },
-            { label: 'Kognitywistyka obliczeniowa',        id: 'robotyka_afektywna/kognitywistyka_obliczeniowa',  status: 'live' },
-          ]
-        },
-        {
-          title: 'Emocje i percepcja',
-          articles: [
-            { label: 'Emocje w robotach',                      id: 'robotyka_afektywna/emocje_robotow',           status: 'live' },
-            { label: 'Dolina niesamowitosci',                  id: 'robotyka_afektywna/dolina_niesamowitosci',    status: 'live' },
-            { label: 'Percepcja i ocena robotów przez ludzi',  id: 'robotyka_afektywna/percepcja_robotow',        status: 'live' },
-          ]
-        },
-        {
-          title: 'Interakcja i zastosowania',
-          articles: [
-            { label: 'Roboty społeczne i HRI',           id: 'robotyka_afektywna/roboty_spoleczne',          status: 'live' },
-            { label: 'Roboty w opiece i terapii',        id: 'robotyka_afektywna/roboty_w_opiece',           status: 'live' },
-            { label: 'Współpraca człowiek–robot (HRC)',  id: 'robotyka_afektywna/wspolpraca_czlowiek_robot', status: 'live' },
-          ]
-        },
-        {
-          title: 'Świadomość, BCI i przyszłość',
-          articles: [
-            { label: 'Świadomość i podmiotowość maszyn',  id: 'robotyka_afektywna/swiadomosc_maszyn',              status: 'live' },
-            { label: 'Interfejsy mózg–maszyna (BCI)',     id: 'robotyka_afektywna/interfejsy_mozg_maszyna',         status: 'live' },
-            { label: 'Przyszlosc robotyki afektywnej',    id: 'robotyka_afektywna/przyszlosc_robotyki_afektywnej',  status: 'live' },
+            { label: 'Psychologia interakcji człowiek–AI', id: 'psychologia_ai/psychologia_interakcji_czlowiek_ai', status: 'xlink' },
+            { label: 'AI w zdrowiu psychicznym i opiece', id: 'psychologia_ai/ai_w_zdrowiu_psychicznym_i_opiece', status: 'xlink' },
+            { label: 'Mechanizmy, ograniczenia i etyka AI', id: 'psychologia_ai/mechanizmy_ograniczenia_i_etyka_ai', status: 'xlink' },
+            { label: 'Interfejsy mózg–maszyna (BCI)', id: 'robotyka_afektywna/interfejsy_mozg_maszyna', status: 'live' },
           ]
         },
       ]

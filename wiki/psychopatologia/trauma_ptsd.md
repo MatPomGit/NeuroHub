@@ -10,7 +10,7 @@ evidenceCutoffDate: 2026-07-30
 
 # Trauma psychologiczna i zaburzenia pourazowe
 
-Ten artykuł porządkuje wspólne podstawy psychotraumatologii: czym są zdarzenie potencjalnie traumatyczne, ekspozycja i reakcja pourazowa oraz kiedy rozpoznaje się PTSD lub złożone PTSD. Szczegółowe następstwa określonych doświadczeń omawiają osobne artykuły o [traumie rozwojowej](../psychologia_rozwojowa/trauma_rozwojowa.md), [traumie seksualnej](../seksuologia/trauma_seksualna.md) i [traumie relacyjnej w systemie rodzinnym](../systemy_rodzinne/trauma_relacyjna_i_system.md).
+Ten artykuł porządkuje wspólne podstawy psychotraumatologii: czym są zdarzenie potencjalnie traumatyczne, ekspozycja i reakcja pourazowa oraz kiedy rozpoznaje się PTSD lub złożone PTSD. Szczegółowe następstwa określonych doświadczeń omawiają osobne artykuły o [traumie rozwojowej](../psychologia_rozwojowa/trauma_rozwojowa.md), [traumie seksualnej](../seksuologia/trauma_seksualna.md) i [traumie relacyjnej w terapii rodzinnej](../systemy_rodzinne/terapie_systemowe_i_rodzinne.md#trauma-relacyjna).
 
 ## Pięć pojęć, których nie należy utożsamiać
 

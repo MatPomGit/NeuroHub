@@ -40,6 +40,18 @@ Jedna zmiana powinna obejmować małą, spójną grupę artykułów. Pozwala to 
 
 | Data | Temat kanoniczny | Scalony adres |
 |---|---|---|
+| 2026-07-31 | `wiki/systemy_rodzinne/wprowadzenie_do_terapii_systemowej.md` | `wiki/systemy_rodzinne/cykl_zycia_rodziny.md` |
+| 2026-07-31 | `wiki/systemy_rodzinne/wprowadzenie_do_terapii_systemowej.md` | `wiki/systemy_rodzinne/genogram_i_przekaz_miedzygeneracyjny.md` |
+| 2026-07-31 | `wiki/systemy_rodzinne/wprowadzenie_do_terapii_systemowej.md` | `wiki/systemy_rodzinne/granice_subsystemow.md` |
+| 2026-07-31 | `wiki/systemy_rodzinne/wprowadzenie_do_terapii_systemowej.md` | `wiki/systemy_rodzinne/koalicje_i_trojkaty.md` |
+| 2026-07-31 | `wiki/systemy_rodzinne/wprowadzenie_do_terapii_systemowej.md` | `wiki/systemy_rodzinne/lojalnosci_rodzinne.md` |
+| 2026-07-31 | `wiki/systemy_rodzinne/wprowadzenie_do_terapii_systemowej.md` | `wiki/systemy_rodzinne/role_w_systemie_rodzinnym.md` |
+| 2026-07-31 | dwa opracowania kanoniczne domeny `wiki/systemy_rodzinne/` | `wiki/systemy_rodzinne/model_bowena.md` |
+| 2026-07-31 | `wiki/systemy_rodzinne/terapie_systemowe_i_rodzinne.md` | `wiki/systemy_rodzinne/terapia_strukturalna_minuchin.md` |
+| 2026-07-31 | `wiki/systemy_rodzinne/terapie_systemowe_i_rodzinne.md` | `wiki/systemy_rodzinne/terapia_narracyjna.md` |
+| 2026-07-31 | `wiki/systemy_rodzinne/terapie_systemowe_i_rodzinne.md` | `wiki/systemy_rodzinne/zastosowania_kliniczne.md` |
+| 2026-07-31 | `wiki/systemy_rodzinne/terapie_systemowe_i_rodzinne.md` | `wiki/systemy_rodzinne/rodzina_z_uzaleznieniem.md` |
+| 2026-07-31 | `wiki/systemy_rodzinne/terapie_systemowe_i_rodzinne.md` | `wiki/systemy_rodzinne/trauma_relacyjna_i_system.md` |
 | 2026-07-31 | `wiki/e_terapia/terapia_online.md` | `wiki/e_terapia/wprowadzenie.md` |
 | 2026-07-31 | `wiki/e_terapia/terapia_online.md` | `wiki/e_terapia/historia_e_terapii.md` |
 | 2026-07-31 | `wiki/e_terapia/terapia_online.md` | `wiki/e_terapia/skutecznosc_e_terapii.md` |
@@ -140,6 +152,12 @@ Jedna zmiana powinna obejmować małą, spójną grupę artykułów. Pozwala to 
 | 2026-07-29 | `wiki/psychofarmakologia/11_leki_w_terapii_uzaleznien.md` | `wiki/farmakologia/uzaleznienia_farm.md` |
 | 2026-07-29 | `wiki/diagnoza/formulowanie_przypadku.md` | `wiki/psychopatologia/formulowanie_przypadku.md` |
 | 2026-07-30 | `wiki/etyka/tajemnica_zawodowa_granice.md` | `wiki/diagnoza/tajemnica_zawodowa.md` |
+
+## Konsolidacja systemów rodzinnych
+
+Domena `wiki/systemy_rodzinne/` zawiera trzy opracowania kanoniczne odpowiadające na trzy odrębne pytania. `wprowadzenie_do_terapii_systemowej.md` wyjaśnia rodzinę jako system wzajemnych wpływów, `terapie_systemowe_i_rodzinne.md` porównuje szkoły i zastosowania kliniczne, natomiast `terapia_systemow_wewnetrznej_rodziny_ifs.md` opisuje model części intrapsychicznych. IFS zachowano oddzielnie, ponieważ „wewnętrzna rodzina” jest metaforą organizacji psychiki, a nie nazwą klasycznej terapii prowadzonej z rodziną.
+
+Dwanaście wycofanych tekstów przekierowuje do właściwych sekcji dwóch pierwszych opracowań. Treść modelu Bowena rozdzielono funkcjonalnie: konstrukty służące rozumieniu rodziny znalazły się w artykule teoretycznym, a pozycja terapeuty i interwencje w artykule klinicznym. Nawigacja pokazuje wyłącznie trzy teksty kanoniczne, a dawne identyfikatory SPA obsługuje `articleRedirects`. W artykułach oddzielono klasyczne hipotezy kliniczne od wyników badań, ograniczono normatywne typologie ról i podkreślono, że perspektywa systemowa nie rozmywa odpowiedzialności za przemoc.
 
 ## Konsolidacja reagowania na krytykę i informację zwrotną
 

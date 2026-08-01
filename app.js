@@ -1888,8 +1888,8 @@ function getDomainWikiIndexItem(sec) {
   return null;
 }
 
-/* Wskazuje pierwszy właściwy indeks lub artykuł działu na potrzeby strony głównej. */
-function getHomeDomainCardMeta(sec) {
+/* Wskazuje pierwszy właściwy indeks lub artykuł działu na potrzeby spisu treści. */
+function getHomeSectionTarget(sec) {
   const wikiIndexItem = getDomainWikiIndexItem(sec);
   const firstArticle = sec.items.find(item => item?.file && item?.id);
   return { navId: (wikiIndexItem || firstArticle)?.id || '' };
@@ -1900,17 +1900,20 @@ function renderHome() {
   const area = document.getElementById('content');
   setBreadcrumb(null);
   const topicGroups = buildSidebarTopicGroups();
-  const cardsByGroup = topicGroups.map(group => {
-    const target = group.sections
-      .map(getHomeDomainCardMeta)
-      .find(meta => meta.navId);
-    if (!target) return '';
-    const sectionCount = group.sections.length;
-    const sectionLabel = sectionCount === 1 ? 'dział' : [2, 3, 4].includes(sectionCount) ? 'działy' : 'działów';
-    return `<button type="button" role="link" class="domain-card modern-card ${group.colorClass}" onclick="navigate('${q(target.navId)}')">
-      <div class="domain-card-top"><span class="d-name">${q(group.label)}</span><span class="domain-card-arrow" aria-hidden="true">↗</span></div>
-      <span class="d-count">${sectionCount} ${sectionLabel}</span>
-    </button>`;
+  /* Jeden spis treści korzysta z tej samej hierarchii co panel boczny. */
+  const tableOfContentsHtml = topicGroups.map((group, groupIndex) => {
+    const sections = group.sections.map(sec => {
+      const { navId } = getHomeSectionTarget(sec);
+      if (!navId) return '';
+      return `<button type="button" class="site-toc-link" onclick="navigate('${q(navId)}')">
+        <span>${q(sec.section)}</span><span class="site-toc-arrow" aria-hidden="true">→</span>
+      </button>`;
+    }).filter(Boolean).join('');
+    if (!sections) return '';
+    return `<details class="site-toc-group ${group.colorClass}"${groupIndex < 2 ? ' open' : ''}>
+      <summary>${q(group.label)}<span class="site-toc-chevron" aria-hidden="true">⌄</span></summary>
+      <div class="site-toc-sections">${sections}</div>
+    </details>`;
   }).join('');
 
   /* Karty scenariuszy kierujące od razu do konkretnych modułów z SITE_CONFIG.nav. */
@@ -1985,10 +1988,10 @@ function renderHome() {
     <section class="home-block">
       <div class="home-block-head">
         <span class="section-kicker">Biblioteka wiedzy</span>
-        <h2>Przeglądaj dziedziny</h2>
-        <p>Od fundamentów po klinikę, neuronaukę i relację człowiek–technologia.</p>
+        <h2>Spis treści</h2>
+        <p>Wybierz obszar, a następnie dział. Każda pozycja prowadzi do właściwego indeksu lub artykułu wprowadzającego.</p>
       </div>
-      <div class="home-domain-groups">${cardsByGroup}</div>
+      <nav class="site-toc" aria-label="Spis treści PsyHub">${tableOfContentsHtml}</nav>
     </section>
   </div>`;
   window.scrollTo(0,0);
@@ -2724,7 +2727,7 @@ function animateContentIn() {
 
 function animateHomeCards() {
   anime({
-    targets: '.domain-card',
+    targets: '.site-toc-group',
     opacity: [0, 1],
     translateY: [24, 0],
     delay: anime.stagger(60, { start: 120 }),

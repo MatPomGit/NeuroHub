@@ -40,6 +40,9 @@ Jedna zmiana powinna obejmować małą, spójną grupę artykułów. Pozwala to 
 
 | Data | Temat kanoniczny | Scalony adres |
 |---|---|---|
+| 2026-08-01 | `wiki/psychologia_zdrowia/rehabilitacja.md` | `wiki/psychologia_niepelnosprawnosci/rehabilitacja_psychologiczna.md` |
+| 2026-08-01 | `wiki/systemy_rodzinne/terapie_systemowe_i_rodzinne.md` | `wiki/psychoterapia/systemowa.md` |
+| 2026-08-01 | `wiki/neuroroznorodnosc/spektrum_autyzmu.md` | `wiki/psychologia_niepelnosprawnosci/autyzm_niepelnosprawnosc.md` |
 | 2026-07-31 | `wiki/systemy_rodzinne/wprowadzenie_do_terapii_systemowej.md` | `wiki/systemy_rodzinne/cykl_zycia_rodziny.md` |
 | 2026-07-31 | `wiki/systemy_rodzinne/wprowadzenie_do_terapii_systemowej.md` | `wiki/systemy_rodzinne/genogram_i_przekaz_miedzygeneracyjny.md` |
 | 2026-07-31 | `wiki/systemy_rodzinne/wprowadzenie_do_terapii_systemowej.md` | `wiki/systemy_rodzinne/granice_subsystemow.md` |
@@ -158,6 +161,12 @@ Jedna zmiana powinna obejmować małą, spójną grupę artykułów. Pozwala to 
 Domena `wiki/systemy_rodzinne/` zawiera trzy opracowania kanoniczne odpowiadające na trzy odrębne pytania. `wprowadzenie_do_terapii_systemowej.md` wyjaśnia rodzinę jako system wzajemnych wpływów, `terapie_systemowe_i_rodzinne.md` porównuje szkoły i zastosowania kliniczne, natomiast `terapia_systemow_wewnetrznej_rodziny_ifs.md` opisuje model części intrapsychicznych. IFS zachowano oddzielnie, ponieważ „wewnętrzna rodzina” jest metaforą organizacji psychiki, a nie nazwą klasycznej terapii prowadzonej z rodziną.
 
 Dwanaście wycofanych tekstów przekierowuje do właściwych sekcji dwóch pierwszych opracowań. Treść modelu Bowena rozdzielono funkcjonalnie: konstrukty służące rozumieniu rodziny znalazły się w artykule teoretycznym, a pozycja terapeuty i interwencje w artykule klinicznym. Nawigacja pokazuje wyłącznie trzy teksty kanoniczne, a dawne identyfikatory SPA obsługuje `articleRedirects`. W artykułach oddzielono klasyczne hipotezy kliniczne od wyników badań, ograniczono normatywne typologie ról i podkreślono, że perspektywa systemowa nie rozmywa odpowiedzialności za przemoc.
+
+## Konsolidacja duplikatów między dziedzinami
+
+Artykuł `wiki/psychologia_zdrowia/rehabilitacja.md` jest kanonicznym opracowaniem rehabilitacji psychologicznej po chorobie, urazie i w życiu z niepełnosprawnością. Łączy perspektywę ICF, cele funkcjonalne, interwencje, pracę zespołową, dostępność i ocenę rezultatów. Odrębna pozostaje rehabilitacja neuropsychologiczna, ponieważ odpowiada na węższe pytanie o następstwa dysfunkcji mózgu.
+
+Kliniczne porównanie terapii systemowych i rodzinnych pozostaje w `wiki/systemy_rodzinne/terapie_systemowe_i_rodzinne.md`. Krótszy artykuł `wiki/psychoterapia/systemowa.md` powtarzał jego definicje, szkoły i techniki. Opracowanie `wiki/neuroroznorodnosc/spektrum_autyzmu.md` pozostaje jedynym artykułem o spektrum autyzmu, uwzględniającym zarówno możliwą niepełnosprawność i potrzeby wsparcia, jak i zróżnicowanie profili oraz mocne strony. Dawne adresy zachowano jako przekierowania, a działy tematyczne prowadzą bezpośrednio do artykułów kanonicznych.
 
 ## Konsolidacja reagowania na krytykę i informację zwrotną
 

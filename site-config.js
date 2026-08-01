@@ -1077,18 +1077,9 @@ window.SITE_CONFIG = {
       section: 'Psychologia gier wideo',
       domainKey: 'psychologia_gier',
       items: [
-        { id: 'psychologia_gier/wprowadzenie',         label: 'Psychologia gier wideo - wprow.', file: 'wiki/psychologia_gier/wprowadzenie.md'          },
-        { id: 'psychologia_gier/uzaleznienie_od_gier', label: 'Uzaleznienie od gier (IGD)',      file: 'wiki/psychologia_gier/uzaleznienie_od_gier.md'  },
-        { id: 'psychologia_gier/agresja_a_gry',        label: 'Agresja, a gry wideo',             file: 'wiki/psychologia_gier/agresja_a_gry.md'         },
-        { id: 'psychologia_gier/efekty_poznawcze',     label: 'Efekty poznawcze grania',         file: 'wiki/psychologia_gier/efekty_poznawcze.md'      },
-        { id: 'psychologia_gier/motywacja_gracza',     label: 'Motywacja gracza',                file: 'wiki/psychologia_gier/motywacja_gracza.md'      },
-        { id: 'psychologia_gier/flow_i_immersja',      label: 'Przeplyw (flow) i immersja',      file: 'wiki/psychologia_gier/flow_i_immersja.md'       },
-        { id: 'psychologia_gier/gry_spolecznosciowe',  label: 'Gry wieloosobowe i aspekty spol.',file: 'wiki/psychologia_gier/gry_spolecznosciowe.md'   },
-        { id: 'psychologia_gier/esport',               label: 'Esport i psychologia zawodnika',  file: 'wiki/psychologia_gier/esport.md'                },
-        { id: 'psychologia_gier/gry_a_dzieci',         label: 'Gry wideo, a dzieci i nastolatki', file: 'wiki/psychologia_gier/gry_a_dzieci.md'          },
-        { id: 'psychologia_gier/gender_w_grach',       label: 'Plec i tozsamosc w grach',        file: 'wiki/psychologia_gier/gender_w_grach.md'        },
-        { id: 'psychologia_gier/gry_terapeutyczne',    label: 'Gry w terapii i rehabilitacji',   file: 'wiki/psychologia_gier/gry_terapeutyczne.md'     },
-        { id: 'psychologia_gier/klasyfikacja_gier',    label: 'Klasyfikacja gier (PEGI, ESRB)',  file: 'wiki/psychologia_gier/klasyfikacja_gier.md'     },
+        { id: 'psychologia_gier/wprowadzenie', label: 'Motywacja i doświadczenie gracza', file: 'wiki/psychologia_gier/wprowadzenie.md' },
+        { id: 'psychologia_gier/skutki_grania_i_uzywanie_problemowe', label: 'Skutki grania i używanie problemowe', file: 'wiki/psychologia_gier/skutki_grania_i_uzywanie_problemowe.md' },
+        { id: 'psychologia_gier/zastosowania_gier_i_esport', label: 'Zastosowania gier i esport', file: 'wiki/psychologia_gier/zastosowania_gier_i_esport.md' },
       ]
     },
     { /* E-terapia */
@@ -1681,18 +1672,9 @@ window.SITE_CONFIG = {
       { file: 'wiki/geropsychologia/opieka_nad_opiekunami.md',      label: 'Wypalenie i wsparcie opiekunow',       status: 'live' },
     ],
     game_psychology: [
-      { file: 'wiki/psychologia_gier/wprowadzenie.md',         label: 'Psychologia gier wideo', status: 'live' },
-      { file: 'wiki/psychologia_gier/uzaleznienie_od_gier.md', label: 'Uzaleznienie od gier (IGD)',            status: 'live' },
-      { file: 'wiki/psychologia_gier/agresja_a_gry.md',        label: 'Agresja, a gry wideo',                  status: 'live' },
-      { file: 'wiki/psychologia_gier/efekty_poznawcze.md',     label: 'Efekty poznawcze grania',               status: 'live' },
-      { file: 'wiki/psychologia_gier/motywacja_gracza.md',     label: 'Motywacja gracza',                      status: 'live' },
-      { file: 'wiki/psychologia_gier/flow_i_immersja.md',      label: 'Przeplyw (flow) i immersja',            status: 'live' },
-      { file: 'wiki/psychologia_gier/gry_spolecznosciowe.md',  label: 'Gry wieloosobowe i aspekty społeczne',  status: 'live' },
-      { file: 'wiki/psychologia_gier/esport.md',               label: 'Esport i psychologia zawodnika',        status: 'live' },
-      { file: 'wiki/psychologia_gier/gry_a_dzieci.md',         label: 'Gry wideo, a dzieci i nastolatki',      status: 'live' },
-      { file: 'wiki/psychologia_gier/gender_w_grach.md',       label: 'Plec i tozsamosc w grach',              status: 'live' },
-      { file: 'wiki/psychologia_gier/gry_terapeutyczne.md',    label: 'Gry w terapii i rehabilitacji',         status: 'live' },
-      { file: 'wiki/psychologia_gier/klasyfikacja_gier.md',    label: 'Klasyfikacja gier (PEGI, ESRB)',        status: 'live' },
+      { file: 'wiki/psychologia_gier/wprowadzenie.md', label: 'Motywacja i doświadczenie gracza', status: 'live' },
+      { file: 'wiki/psychologia_gier/skutki_grania_i_uzywanie_problemowe.md', label: 'Skutki grania i używanie problemowe', status: 'live' },
+      { file: 'wiki/psychologia_gier/zastosowania_gier_i_esport.md', label: 'Zastosowania gier i esport', status: 'live' },
     ],
     resilience_mobbing: [
       { file: 'wiki/rezyliencja_i_mobbing/odpornosc_wprowadzenie.md',  label: 'Odpornosc psychiczna',      status: 'live' },
@@ -2757,43 +2739,14 @@ window.SITE_CONFIG = {
 
     gry_wideo: {
       title: 'WIKI - Psychologia gier wideo',
-      intro: 'Psychologia gier wideo bada wplyw gier komputerowych i elektronicznych na procesy poznawcze, emocjonalne i społeczne - od uzaleznien i agresji przez motywacje i flow po zastosowania terapeutyczne.',
+      intro: 'Trzy opracowania o motywacji i doświadczeniu gracza, skutkach grania i używaniu problemowym oraz zastosowaniach gier i esporcie.',
       sections: [
         {
-          title: 'Podstawy i wprowadzenie',
+          title: 'Psychologia gier',
           articles: [
-            { label: 'Psychologia gier wideo',          id: 'psychologia_gier/wprowadzenie',         status: 'live' },
-            { label: 'Klasyfikacja gier (PEGI, ESRB)',  id: 'psychologia_gier/klasyfikacja_gier',    status: 'live' },
-          ]
-        },
-        {
-          title: 'Efekty psychologiczne grania',
-          articles: [
-            { label: 'Agresja, a gry wideo',            id: 'psychologia_gier/agresja_a_gry',       status: 'live' },
-            { label: 'Efekty poznawcze grania',         id: 'psychologia_gier/efekty_poznawcze',    status: 'live' },
-            { label: 'Przeplyw (flow) i immersja',      id: 'psychologia_gier/flow_i_immersja',     status: 'live' },
-          ]
-        },
-        {
-          title: 'Motywacja i zachowanie gracza',
-          articles: [
-            { label: 'Motywacja gracza',                    id: 'psychologia_gier/motywacja_gracza',      status: 'live' },
-            { label: 'Uzaleznienie od gier (IGD)',           id: 'psychologia_gier/uzaleznienie_od_gier',  status: 'live' },
-            { label: 'Plec i tozsamosc w grach',            id: 'psychologia_gier/gender_w_grach',        status: 'live' },
-          ]
-        },
-        {
-          title: 'Kontekst spoleczny i wiekowy',
-          articles: [
-            { label: 'Gry wieloosobowe i aspekty społeczne', id: 'psychologia_gier/gry_spolecznosciowe',  status: 'live' },
-            { label: 'Esport i psychologia zawodnika',        id: 'psychologia_gier/esport',               status: 'live' },
-            { label: 'Gry wideo, a dzieci i nastolatki',       id: 'psychologia_gier/gry_a_dzieci',         status: 'live' },
-          ]
-        },
-        {
-          title: 'Zastosowania terapeutyczne',
-          articles: [
-            { label: 'Gry w terapii i rehabilitacji', id: 'psychologia_gier/gry_terapeutyczne', status: 'live' },
+            { label: 'Motywacja i doświadczenie gracza', id: 'psychologia_gier/wprowadzenie', status: 'live' },
+            { label: 'Skutki grania i używanie problemowe', id: 'psychologia_gier/skutki_grania_i_uzywanie_problemowe', status: 'live' },
+            { label: 'Zastosowania gier i esport', id: 'psychologia_gier/zastosowania_gier_i_esport', status: 'live' },
           ]
         },
       ]

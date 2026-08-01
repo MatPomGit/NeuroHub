@@ -1,111 +1,51 @@
-﻿---
-lastReviewed: 2026-04-01
+---
+lastReviewed: 2026-08-01
 reviewCycleMonths: 24
-evidenceCutoffDate: 2025-12-31
+evidenceCutoffDate: 2026-07-31
 ---
 
-# Myślenie i rozumowanie
+# Myślenie i podejmowanie decyzji
 
-Myślenie to najbardziej abstrakcyjna z ludzkich zdolności - pozwala nam planować przyszłość, rozwiązywać problemy, tworzyć pojęcia i wnioskować o nieobserwowanej rzeczywistości.
+Myślenie obejmuje tworzenie reprezentacji, rozumowanie, rozwiązywanie problemów i wybór działania. Teorie decyzji pytają zarówno, jak ludzie wybierają, jak i według jakiego kryterium wybór byłby racjonalny.
 
-## Czym jest myślenie?
+## Rozumowanie i rozwiązywanie problemów
 
-**Myślenie** to wewnętrzna aktywność poznawcza operująca na reprezentacjach mentalnych - pojęciach, obrazach, schematach, modelach - w celu rozwiązywania problemów, podejmowania decyzji, planowania lub tworzenia nowych idei. Jest procesem wysoce intencjonalnym, lecz obejmuje też procesy nieświadome.
+Rozumowanie dedukcyjne ocenia, co wynika z przesłanek, a indukcyjne uogólnia poza dostępne obserwacje. Ludzie korzystają z reguł, modeli umysłowych, analogii i heurystyk. Błąd logiczny nie zawsze świadczy o braku kompetencji: treść, sposób sformułowania oraz interpretacja pragmatyczna zmieniają reprezentację problemu.
 
-Klasyczne rozróżnienie wyróżnia:
-- **Myślenie konwergentne** - zmierza do jednego "poprawnego" rozwiązania (typowe w zadaniach logicznych i matematycznych);
-- **Myślenie dywergentne** - generuje wiele możliwych rozwiązań lub idei (kluczowe w twórczości).
+Rozwiązywanie problemu wymaga określenia stanu początkowego, celu i dopuszczalnych operacji. Wiedza ekspercka ułatwia rozpoznanie struktury, ale może też utrwalać nastawienie. Wgląd nie jest procesem magicznym; bywa końcowym doświadczeniem po restrukturyzacji reprezentacji.
 
-## Pojęcia i kategoryzacja
+## Modele normatywne i opisowe
 
-**Pojęcia** to mentalne reprezentacje kategorii przedmiotów, zdarzeń lub idei, które umożliwiają organizowanie wiedzy i generalizowanie z jednostkowych doświadczeń.
+Modele **normatywne** ustalają kryteria spójnego wyboru, na przykład maksymalizację oczekiwanej użyteczności przy określonych aksjomatach. Modele **opisowe** przewidują rzeczywiste wybory, także systematyczne odstępstwa od tych kryteriów. Trzeci poziom, preskryptywny, pyta, jak wspierać lepsze decyzje. Odstępstwo od modelu normatywnego może wynikać z ograniczeń informacji, czasu i obliczeń, a nie z globalnej irracjonalności.
 
-**Teoria prototypów** (Eleanor Rosch, 1975): kategorie nie mają ostrych granic - są zorganizowane wokół **prototypu** (najbardziej reprezentatywnego egzemplarza). Kanarek jest bardziej "typowym ptakiem" niż struś - choć oboje są ptakami. Efekt typowości: typowe egzemplarze są identyfikowane szybciej.
+## Rodzina teorii dwuprocesowych
 
-**Teoria egzemplarzy** - zamiast jednego prototypu, w pamięci przechowujemy konkretne przykłady (egzemplarze) i porównujemy nowe bodźce z zapamiętanymi przypadkami.
+Określenia „System 1” i „System 2” porządkują rodzinę teorii. Procesy typu 1 są zwykle szybkie, autonomiczne i mało obciążające pamięć roboczą; procesy typu 2 angażują kontrolę, reguły i możliwość hipotetycznego rozumowania. Właściwości te nie zawsze występują razem. Intuicja eksperta może być trafna, a rozumowanie świadome błędne.
 
-**Pojęcia kauzalne** - rozumienie kategorii oparte na mechanizmach przyczynowych ("ptak lata, bo ma skrzydła"). Wiedza przyczynowa głębiej strukturyzuje pojęcia niż sama lista cech.
+Nie są to dwa literalne narządy ani dwa rozłączne systemy w mózgu. Dychotomia jest użyteczna opisowo, lecz może przesłaniać kontinuum automatyzacji i wiele mechanizmów. Sam czas reakcji nie identyfikuje rodzaju procesu.
 
-## Rozumowanie dedukcyjne
+## Teoria perspektywy i ramowanie
 
-**Rozumowanie dedukcyjne** zmierza od przesłanek ogólnych do wniosków szczegółowych. Klasyczna forma: sylogizm.
+Teoria perspektywy opisuje wybór ryzykowny względem **punktu odniesienia**. Wartość jest zwykle bardziej czuła na straty niż równoważne zyski i wykazuje malejącą wrażliwość; prawdopodobieństwa są ważone nieliniowo. Kumulacyjna wersja teorii porządkuje ważenie wyników i lepiej radzi sobie z wieloma rezultatami.
 
-*Przykład:* "Wszyscy ludzie są śmiertelni. Sokrates jest człowiekiem. Zatem Sokrates jest śmiertelny."
+**Efekt ramowania** występuje, gdy równoważne informacyjnie opisy, na przykład liczba osób uratowanych i liczba zmarłych, zmieniają wybór. Teoria perspektywy wyjaśnia część efektów przez przesunięcie punktu odniesienia między domeną zysków i strat. Nie każde ramowanie jest jednak identyczne: ramy atrybutu, celu i ryzykownego wyboru mogą angażować odmienne procesy. Różnica odpowiedzi nie zawsze jest błędem, jeśli sformułowania niosą odmienne implikacje pragmatyczne.
 
-Jeśli przesłanki są prawdziwe i wniosek logicznie z nich wynika, wniosek jest koniecznie prawdziwy. Ludzie radzą sobie gorzej z rozumowaniem abstrakcyjnym niż z tym samym zadaniem w kontekście konkretnym i społecznym.
+## Kompromis eksploracja–eksploatacja
 
-**Zadanie Wasona (selection task):** Klasyczny test ukazujący trudności ludzi z dedukcją abstrakcyjną. Badani muszą falsyfikować regułę "jeśli p, to q" - intuicyjnie szukają potwierdzenia zamiast falsyfikacji (błąd potwierdzenia). Gdy ta sama reguła jest wyrażona w kontekście społecznym (np. "jeśli pijasz alkohol, musisz mieć 18 lat") - wskaźnik poprawnych odpowiedzi dramatycznie rośnie. To dowód, że mechanizmy rozumowania mogą być częściowo domenowo-specyficzne.
+**Eksploatacja** wybiera opcję dotąd najbardziej obiecującą, a **eksploracja** pozyskuje informację o alternatywach. Zbyt wczesna eksploatacja może utrwalić wybór gorszy, natomiast nieustanna eksploracja traci bieżące korzyści. Problem bada się między innymi zadaniami wielorękiego bandyty i uczeniem ze wzmocnieniem.
 
-## Rozumowanie indukcyjne
+Strategie obejmują losowy wybór zależny od wartości, premię za niepewność i eksplorację kierowaną informacją. Optymalny kompromis zależy od horyzontu, zmienności środowiska, kosztu błędu oraz celu. U ludzi zachowanie odzwierciedla jednocześnie uczenie wartości, niepewność, ciekawość i kontrolę wykonawczą, więc pojedynczy parametr modelu nie jest kompletną cechą osoby.
 
-**Rozumowanie indukcyjne** wychodzi od szczegółowych obserwacji do ogólnych wniosków. W przeciwieństwie do dedukcji, wniosek jest *prawdopodobny*, lecz nie *pewny*.
+## Poprawianie decyzji
 
-*Przykład:* "Wszystkie obserwowane kruki były czarne, więc wszystkie kruki są czarne." (Możliwy błąd - problem czarnych łabędzi Nassima Talebia.)
-
-Indukcja jest fundamentem metody naukowej i codziennego uczenia się na doświadczeniu. Jej ograniczenia ujawnia filozofia nauki (Hume, Popper): nigdy nie możemy *udowodnić* indukcyjnie - możemy jedynie gromadzić dowody potwierdzające lub obalające hipotezy.
-
-## Rozwiązywanie problemów
-
-### Typy problemów
-
-**Problem dobrze zdefiniowany** - jasno określony stan wyjściowy, stan docelowy i reguły przekształceń (np. zadanie matematyczne). **Problem źle zdefiniowany** - rozmyte granice i wiele możliwych "rozwiązań" (np. jak poprawić swoje relacje?).
-
-### Strategie rozwiązywania
-
-**Algorytm** - systematyczna procedura gwarantująca znalezienie rozwiązania (np. sortowanie tablicy). **Heurystyki** - reguły uproszczone, szybkie, lecz zawodne:
-- *Heurystyka prób i błędów* (generate-and-test) - generowanie rozwiązań i testowanie ich;
-- *Analiza środków i celów* (means-ends analysis) - stale redukuj różnicę między stanem aktualnym a docelowym;
-- *Praca wstecz* - zacznij od celu i cofaj się do stanu wyjściowego.
-
-### Insight (wgląd)
-
-"Aha!" - nagłe, nieoczekiwane rozwiązanie problemu po impasie. Mayer i in. opisali **efekt ciepłej wody**: ułatwienie rozwiązania przez dostrzeganie odległych skojarzeń. Neuronalnie wgląd wiąże się z nagłą synchronizacją gamma (ok. 40 Hz) w prawej skroniowej korze mózgowej ok. 300 ms przed świadomym rozwiązaniem.
-
-**Fiksacja funkcjonalna** - blokuje rozwiązywanie problemów: tendencja do widzenia obiektów tylko w ich typowej, zwykłej funkcji, uniemożliwiająca ich niekonwencjonalne użycie.
-
-## Heurystyki i błędy poznawcze
-
-Kahneman i Tversky opisali liczne systematyczne odchylenia od logiki racjonalnej w codziennym myśleniu:
-
-**Heurystyka dostępności** - łatwość przywołania przykładów wpływa na ocenę częstości lub prawdopodobieństwa. "Samolot jest niebezpieczny" - bo katastrofy są medialnie widoczne. W rzeczywistości samochód jest wielokrotnie niebezpieczniejszy.
-
-**Heurystyka reprezentatywności** - ocena prawdopodobieństwa przynależności do kategorii na podstawie podobieństwa do prototypu, z pominięciem częstości bazowych. Prowadzi do **błędu koniunkcji**: "Linda jest bankierką i działaczką feministyczną" jest uznawane za bardziej prawdopodobne niż "Linda jest bankierką" - co jest logicznie niemożliwe.
-
-**Zakotwiczenie** - nadmierny wpływ pierwszej napotkanej informacji (kotwicy) na końcową ocenę. Właściciele samochodów płacą więcej za naprawy, gdy mechanik poda wysoką wstępną wycenę.
-
-**Błąd potwierdzenia** - selektywne poszukiwanie i interpretacja informacji zgodnych z wcześniejszym przekonaniem.
-
-> **Przykład praktyczny:** Błędy poznawcze mają ogromne praktyczne znaczenie: w medycynie (błędna diagnoza), finansach (bańki spekulacyjne), wymiarze sprawiedliwości (fałszywe zeznania świadków), polityce. CBT bezpośrednio pracuje nad identyfikacją i modyfikacją zniekształceń poznawczych będących klinicznymi manifestacjami tych samych procesów.
-
-## System 1 i System 2 (Kahneman)
-
-Daniel Kahneman w "Thinking, Fast and Slow" (2011) spopularyzował model dualnego przetwarzania:
-
-**System 1** - szybki, automatyczny, intuicyjny, nieświadomy, skojarzeniowy, oparty na heurystykach. Działa bez wysiłku.
-
-**System 2** - wolny, świadomy, analityczny, wymagający wysiłku. Angażuje kontrolę poznawczą i zasoby uwagi.
-
-Większość codziennych decyzji podejmuje System 1; System 2 jest "leniwym" nadzorcą, który rzadko weryfikuje intuicje Systemu 1. To wyjaśnia, dlaczego jesteśmy skłonni do heurystyk i błędów poznawczych nawet gdy posiadamy wiedzę, która pozwoliłaby je uniknąć.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Myślenie i rozumowanie" polega na tym, że pojedynczy proces poznawczy najczęściej nie wyjaśnia zachowania samodzielnie; jego znaczenie ujawnia się w relacji do obciążenia, celu działania i innych systemów kontroli.
-
-Dopiero wspólna analiza zagadnień takich jak czym jest myślenie?, rozumowanie indukcyjne oraz system 1 i system 2 (kahneman) pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Myślenie i rozumowanie" pokazuje, że najbardziej użyteczne wnioski pojawiają się wtedy, gdy łączy się opis mechanizmu z ograniczeniami zasobów poznawczych i konsekwencjami praktycznymi.
-
-
-Dopiero wspólna analiza zagadnień takich jak czym jest myślenie?, rozumowanie indukcyjne oraz system 1 i system 2 (kahneman) pokazuje pełny zakres omawianego zjawiska.
+Pomagają: jawne określenie celu, rozdzielenie prawdopodobieństw od wartości skutków, prezentowanie częstości naturalnych, porównanie równoważnych ram oraz kalibracja prognoz. Interwencję należy oceniać według jakości procesu i wyniku w dłuższym okresie, ponieważ dobry wybór może przypadkiem dać zły rezultat.
 
 ## Bibliografia
 
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+1. Evans, J. St. B. T., & Stanovich, K. E. (2013). Dual-process theories of higher cognition. *Perspectives on Psychological Science, 8*, 223–241.
+2. Kahneman, D., & Tversky, A. (1979). Prospect theory. *Econometrica, 47*, 263–291.
+3. Levin, I. P., Schneider, S. L., & Gaeth, G. J. (1998). All frames are not created equal. *Organizational Behavior and Human Decision Processes, 76*, 149–188.
+4. Lieder, F., & Griffiths, T. L. (2020). Resource-rational analysis. *Behavioral and Brain Sciences, 43*, e1.
+5. Sutton, R. S., & Barto, A. G. (2018). *Reinforcement Learning* (2nd ed.). MIT Press.
+6. Tversky, A., & Kahneman, D. (1981). The framing of decisions and the psychology of choice. *Science, 211*, 453–458.
+7. Wilson, R. C. i in. (2014). Humans use directed and random exploration. *Journal of Experimental Psychology: General, 143*, 2074–2081.

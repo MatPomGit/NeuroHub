@@ -1,56 +1,56 @@
-﻿---
-lastReviewed: 2026-04-01
+---
+lastReviewed: 2026-08-01
 reviewCycleMonths: 24
-evidenceCutoffDate: 2025-12-31
+evidenceCutoffDate: 2026-07-31
 ---
 
-# Percepcja i gnozja
+# Percepcja i uwaga
 
-Przetwarzanie sensoryczne i rozpoznawanie - od szlaków wzrokowych What/Where po zaburzenia gnozji i apraksji.
+Percepcja nie jest wiernym zapisem bodźców, a uwaga nie działa jak pojedynczy reflektor. Oba procesy wspólnie wybierają dane istotne dla działania i tworzą z nich użyteczną interpretację otoczenia.
 
-## Szlaki przetwarzania wzrokowego
+## Selekcja informacji
 
-Po opuszczeniu kory wzrokowej pierwotnej (V1, BA 17) informacja wzrokowa rozdziela się na dwa główne szlaki. **Szlak wentralny („Co?")** biegnie od V1 przez V2, V4 do zakrętu poduszkowatego (FFA). Odpowiada za identyfikację obiektów, rozpoznawanie twarzy, analizę koloru i formy. Zaburzenia → *agnozja wzrokowa*, *prozopagnozja*. **Szlak dorsalny („Gdzie? / Jak?")** biegnie od V1 przez V2, MT/V5 do kory ciemieniowej. Odpowiada za lokalizację przestrzenną, analizę ruchu i kontrolę działania. Zaburzenia → *ataksja wzrokowa (optic ataxia)*.
+Układ nerwowy otrzymuje więcej informacji, niż może równocześnie wykorzystać. **Uwaga selektywna** zwiększa priorytet części sygnałów, natomiast czujność podtrzymuje gotowość do wykrywania rzadkich zdarzeń. Selekcja może zachodzić na wczesnych cechach sensorycznych i na późniejszym poziomie znaczenia; wyniki badań nie wspierają jednego, stałego „filtra”. Miejsce selekcji zależy od zadania i obciążenia percepcyjnego.
 
-> Model Goodale'a i Milnera sugeruje, że dorsalny szlak jest bardziej związany z **kontrolą działania** („Jak?") niż tylko z lokalizacją - to ważna rewizja klasycznego podziału What/Where.
+Pobudzenie nie jest tożsame z uwagą. Wstępujący układ siatkowaty pnia mózgu współtworzy poziom czuwania, lecz wybór celu angażuje rozproszone sieci korowe i podkorowe. Uszkodzenie układu siatkowatego może zaburzyć świadomość, nie dowodzi jednak istnienia jednego ośrodka uwagi.
 
-## Agnozja wzrokowa
+## Uwaga przestrzenna
 
-*Agnozja* (z gr. „bez poznania") to niemożność rozpoznania obiektów wzrokowych przy zachowanej percepcji i inteligencji. Teuber zdefiniował ją jako „percepcję bez poznania".
+Uwagę można przenieść ku miejscu bez ruchu oczu, czyli w sposób **ukryty**. Sieć grzbietowa, obejmująca okolice ciemieniowe i czołowe pola gałkoruchowe, uczestniczy w celowym kierowaniu uwagi. Sieć brzuszna, szczególnie w prawej półkuli, pomaga przerwać bieżące nastawienie po pojawieniu się ważnego, nieoczekiwanego sygnału. Podział ten jest funkcjonalnym uproszczeniem, ponieważ sieci współdziałają.
 
-**Agnozja appercepcyjna** - deficyt na poziomie percepcji. Pacjent nie może skonstruować spójnej reprezentacji percepcyjnej obiektu - widzi fragmenty, ale nie potrafi ich zintegrować. Związana z uszkodzeniem kory wzrokowej asocjacyjnej (V2, V4).
+## Uwaga oddolna i odgórna
 
-**Agnozja asocjacyjna** - percepcja zachowana, ale brak dostępu do pamięci semantycznej. Pacjent może narysować obiekt, ale go nie rozpozna. Związana z korą skroniową dolną.
+Sterowanie **odgórne** wynika z celu, oczekiwań i wiedzy, na przykład podczas szukania czerwonego segregatora. Sterowanie **oddolne** wiąże się z wyrazistością bodźca, na przykład nagłym błyskiem. „Uwaga mimowolna” nie oznacza procesu całkowicie niezależnego od celów: znaczenie bodźca, wyuczona wartość nagrody i aktualne nastawienie zmieniają prawdopodobieństwo przechwycenia uwagi.
 
-**Prozopagnozja** - specyficzny deficyt rozpoznawania twarzy. Związana z uszkodzeniem *zakrętu wrzecionowatego/poduszkowatego (FFA - Fusiform Face Area)*. Pacjent widzi oczy, nos i usta, ale nie może ich zintegrować w rozpoznawalną twarz.
+## Ograniczenia zasobów
 
-## Apraksja
+Wykonywanie dwóch zadań jednocześnie może powodować interferencję, gdy konkurują one o reprezentacje, wybór reakcji albo kontrolę wykonawczą. Teorie zasobów opisują tę prawidłowość, lecz „zasób” jest konstruktem wyjaśniającym, a nie zmierzoną substancją psychiczną. Automatyzacja zmniejsza koszt kontroli, ale nie usuwa ograniczeń. Ślepota nieuwagowa i ślepota na zmianę pokazują, że obiekt może pobudzić narządy zmysłów, a mimo to nie wejść do świadomego raportu.
 
-*Apraksja* to zaburzenie wykonywania celowych, wyuczonych ruchów przy braku niedowładu, zaburzeń czucia i niezrozumienia polecenia.
+## Percepcja jako wnioskowanie
 
-**Ideaomotoryczna** - niezdolność do wykonywania gestów na komendę (np. „pokaż, jak używasz młotka"), choć gesty spontaniczne zachowane. **Kinestetyczna** - trudności z manipulacją przedmiotami w przestrzeni. **Mowy** - trudności z artykulacją (dysarthria apraktyczna). **Konstrukcyjna** - trudności z konstruowaniem/rysowaniem (np. zegar).
+Sygnał sensoryczny jest niepełny i wieloznaczny. System percepcyjny łączy go z kontekstem, wcześniejszą wiedzą oraz przewidywanymi konsekwencjami działania. Można to formalizować jako wnioskowanie probabilistyczne, ale nie każda teoria percepcji przyjmuje dokładnie bayesowską implementację neuronalną. Rozróżnienie szlaku brzusznego, wspierającego rozpoznawanie, i grzbietowego, wspierającego wzrokową kontrolę działania, również nie jest prostym podziałem na „co” oraz „gdzie”.
 
-Neuroanatomia: uszkodzenie lewej kory ciemieniowej lub rozspojenie między czołowymi a ciemieniowymi obszarami (pęczek łukowaty).
+Zaburzenia rozpoznawania, takie jak agnozja apercepcyjna i asocjacyjna, pokazują różnicę między organizacją postaci a dostępem do wiedzy semantycznej. Nie należy ich mylić z pierwotnym ubytkiem wzroku.
 
-## Perspektywa nieoczywista
+## Złudzenia
 
-Nieoczywista perspektywa na temat "Percepcja i gnozja" polega na tym, że pojedynczy proces poznawczy najczęściej nie wyjaśnia zachowania samodzielnie; jego znaczenie ujawnia się w relacji do obciążenia, celu działania i innych systemów kontroli.
+**Złudzenie percepcyjne** jest systematyczną rozbieżnością między doświadczeniem a wybraną własnością bodźca, a nie dowodem ogólnej „nieracjonalności”. Złudzenia geometryczne (np. Müllera-Lyera), stałość jasności i wielkości oraz figury dwuznaczne ujawniają, jak kontekst i założenia o źródle sygnału kształtują spostrzeżenie. Siła złudzenia zależy od procedury, kultury i doświadczenia. Odrębne są omamy, w których doświadczenie pojawia się bez odpowiadającego mu bodźca zewnętrznego.
 
-Dopiero wspólna analiza zagadnień takich jak szlaki przetwarzania wzrokowego, agnozja wzrokowa oraz apraksja pokazuje pełny zakres omawianego zjawiska.
+## Paradygmat Posnera i zadanie Stroopa
 
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+W **paradygmacie wskazówek przestrzennych Posnera** wskazówka poprzedza cel. Po wskazówce trafnej reakcja jest zwykle szybsza niż po neutralnej, a po nietrafnej wolniejsza, ponieważ uwaga musi zostać oderwana i przeniesiona. Wskazówki centralne częściej badają orientowanie zależne od celu, a peryferyjne szybkie przyciąganie uwagi. Interpretacja wymaga kontroli ruchów oczu, proporcji prób i przedziału czasowego między wskazówką a celem.
 
-## Podsumowanie
+W **zadaniu Stroopa** badany nazywa barwę druku, ignorując znaczenie słowa. Wolniejsze lub mniej poprawne reakcje dla prób niezgodnych niż neutralnych lub zgodnych tworzą efekt interferencji. Paradygmat pokazuje konkurencję automatycznego czytania z celem zadania. Nie jest czystym testem jednego procesu: wynik zależy również od tempa, biegłości czytania, percepcji barw, strategii i sposobu obliczenia wskaźnika. Dlatego w diagnostyce interpretuje się go wraz z innymi miarami; pełne omówienie kontroli zawiera artykuł [Funkcje wykonawcze i obciążenie poznawcze](wiki/psychologia_poznawcza/funkcje_wykonawcze.md).
 
-Temat "Percepcja i gnozja" pokazuje, że najbardziej użyteczne wnioski pojawiają się wtedy, gdy łączy się opis mechanizmu z ograniczeniami zasobów poznawczych i konsekwencjami praktycznymi.
+## Wnioski
 
-
-Dopiero wspólna analiza zagadnień takich jak szlaki przetwarzania wzrokowego, agnozja wzrokowa oraz apraksja pokazuje pełny zakres omawianego zjawiska.
+Percepcja i uwaga tworzą układ selekcji podporządkowany działaniu. Eksperymenty Posnera i Stroopa operacjonalizują wybrane składniki tego układu, ale nie są bezpośrednimi „odczytami” uwagi z umysłu.
 
 ## Bibliografia
 
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+1. Corbetta, M., & Shulman, G. L. (2002). Control of goal-directed and stimulus-driven attention in the brain. *Nature Reviews Neuroscience, 3*, 201–215.
+2. Goodale, M. A., & Milner, A. D. (1992). Separate visual pathways for perception and action. *Trends in Neurosciences, 15*, 20–25.
+3. Lavie, N. (2005). Distracted and confused? Selective attention under load. *Trends in Cognitive Sciences, 9*, 75–82.
+4. Posner, M. I. (1980). Orienting of attention. *Quarterly Journal of Experimental Psychology, 32*, 3–25.
+5. Stroop, J. R. (1935). Studies of interference in serial verbal reactions. *Journal of Experimental Psychology, 18*, 643–662.
+6. Summerfield, C., & de Lange, F. P. (2014). Expectation in perceptual decision making. *Nature Reviews Neuroscience, 15*, 745–756.

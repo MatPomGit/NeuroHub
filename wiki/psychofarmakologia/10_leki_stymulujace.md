@@ -1,22 +1,6 @@
-# 10. Leki stymulujące
-
-## Definicja i zakres
-
-Leki stymulujące (np. metylofenidat, amfetaminy) zwiększają dostępność katecholamin w OUN i poprawiają uwagę, hamowanie reakcji oraz organizację zachowania, szczególnie w ADHD.
-
-## Mechanizm i przesłanki kliniczne
-
-Właściwe dawkowanie i monitorowanie tętna, ciśnienia, apetytu, snu i masy ciała są kluczowe dla bezpieczeństwa. Ryzyko nadużywania wymaga oceny czynników środowiskowych i psychoedukacji pacjenta oraz rodziny.
-
-## Wskazania, jakość dowodów i bezpieczeństwo
-
-Metylofenidat hamuje transportery dopaminy i noradrenaliny, a amfetaminy dodatkowo nasilają uwalnianie monoamin. Najlepsze dowody dotyczą podstawowych objawów ADHD; pobudzenie samo w sobie nie jest wskazaniem. Przed terapią ocenia się ciśnienie, tętno, wzrastanie u dzieci, sen, używanie substancji i wywiad sercowy, a następnie monitoruje efekt funkcjonalny oraz te parametry. Utrata apetytu, bezsenność i wzrost ciśnienia są częste; psychoza i mania rzadkie. Ryzyko niewłaściwego używania wymaga bezpiecznego przepisywania, nie automatycznego wykluczania skutecznego leczenia.
-
-## Monitorowanie i ograniczenia praktyczne
-
-Rozpoczynanie od małych dawek i regularna ocena funkcjonowania szkolnego/zawodowego. Leczenie bez równoległych interwencji behawioralnych i edukacyjnych jest błędem. Mniejsza trwałość efektu i większa frustracja pacjenta.
-
-## Bibliografia
-
-- Cortese, S. i in. (2018). Comparative efficacy and tolerability of medications for ADHD. *The Lancet Psychiatry*, 5(9), 727–738.
-- National Institute for Health and Care Excellence. (2018, aktualizacja 2019). *Attention deficit hyperactivity disorder: diagnosis and management (NG87)*.
+---
+layout: redirect
+title: 10 leki stymulujace
+redirect_to: /wiki/psychofarmakologia/klasy_lekow_psychotropowych.html#leki-stymulujące-i-niestymulujące-w-adhd
+sitemap: false
+---

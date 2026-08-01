@@ -1,48 +1,47 @@
-﻿---
-lastReviewed: 2026-04-19
+---
+lastReviewed: 2026-08-01
 reviewCycleMonths: 24
-evidenceCutoffDate: 2025-12-31
+evidenceCutoffDate: 2026-07-31
 ---
 
-# Język
+# Język, narracja i wyobraźnia
 
-## Wprowadzenie
-Neuropsychologia języka opisuje, jak mózg przetwarza fonologię, składnię, semantykę i pragmatykę. Współczesne modele odchodzą od prostego lokalizacjonizmu na rzecz ujęcia sieciowego, które lepiej wyjaśnia zróżnicowane profile kliniczne.
+Język pozwala tworzyć i rozumieć znaki według reguł, narracja organizuje zdarzenia w relacje czasowe i przyczynowe, a wyobraźnia symuluje stany niewystępujące aktualnie w danych zmysłowych. Procesy te współpracują, lecz nie są tym samym.
 
-## Definicje
-- **Fonologia** – przetwarzanie dźwięków mowy.
-- **Semantyka** – przetwarzanie znaczenia słów i zdań.
-- **Składnia** – reguły budowania struktury zdania.
-- **Pragmatyka** – użycie języka w kontekście społecznym.
+## Reprezentacja językowa
 
-## Mechanizmy i zależności
-W praktyce klinicznej użyteczne jest łączenie dwóch poziomów opisu:
-1. **Model klasyczny** (Broka–Wernicke–pęczek łukowaty), który ułatwia wstępne mapowanie objawów.
-2. **Model dual stream** (szlak grzbietowy i brzuszny), który lepiej tłumaczy współwystępowanie deficytów percepcyjno-produkcyjnych.
+Opis języka obejmuje fonologię, morfologię, składnię, semantykę i pragmatykę. Reprezentacje na tych poziomach nie muszą być przechowywane jako słownik i zestaw jawnych reguł; modele symboliczne, probabilistyczne i sieciowe wyjaśniają różne regularności. Znaczenie zależy zarówno od wiedzy leksykalnej, jak i kontekstu użycia.
 
-Lateralizacja języka jest najczęściej lewopółkulowa, ale prawa półkula uczestniczy m.in. w prozodii i pragmatyce.
+## Rozumienie
 
-## Praktyczne przykłady
+Słuchacz lub czytelnik identyfikuje formę, uaktywnia możliwe znaczenia, buduje strukturę zdania i integruje ją z wiedzą. Proces ma charakter przyrostowy: oczekiwania ułatwiają interpretację, lecz bywają źródłem błędów. Wnioskowania pragmatyczne pozwalają zrozumieć intencję wykraczającą poza sens dosłowny. Pamięć robocza wspiera integrację, ale rozumienie nie sprowadza się do jej pojemności.
 
-### Dobra praktyka
-Przykład dobrej praktyki: interpretowanie objawów językowych na podstawie profilu sieciowego (rozumienie, produkcja, powtarzanie, pragmatyka), a nie wyłącznie etykiety „typ afazji”.
+## Produkcja
 
-**Konsekwencje:** trafniejsze planowanie rehabilitacji i lepsze dopasowanie terapii.
+Mówienie obejmuje konceptualizację komunikatu, dobór słów, kodowanie gramatyczne i fonologiczne oraz artykulację. Etapy częściowo zachodzą na siebie i są monitorowane. Przejęzyczenia oraz zjawisko „mam to na końcu języka” ujawniają organizację procesu, lecz pojedynczy błąd nie lokalizuje osobnego modułu.
 
-## Zła praktyka
-Przykład złej praktyki: automatyczne przypisywanie każdego zaburzenia mowy do „obszaru Broki” bez analizy pozajęzykowych funkcji wykonawczych i pamięci roboczej.
+## Narracyjne organizowanie doświadczenia
 
-**Konsekwencje:** nadmierne uproszczenie diagnozy i ryzyko nieoptymalnej terapii.
+Narracja wiąże bohaterów, cele, zdarzenia i następstwa w strukturę rozciągniętą w czasie. Wspiera rozumienie cudzych działań, komunikację i konstruowanie pamięci autobiograficznej. **Narracyjność** oznacza określony sposób organizacji, a nie każdą wypowiedź o sobie: lista faktów autobiograficznych nie musi tworzyć narracji, a narracja może dotyczyć fikcji lub historii zbiorowej.
 
-## Perspektywa nieoczywista
-W edukacji dominuje mapa „ośrodek = funkcja”. Alternatywnie coraz silniejsze dowody wskazują, że objawy językowe wynikają z dysfunkcji całych sieci korowo-podkorowych, a nie pojedynczych punktów anatomicznych.
+Opowiadanie o przeszłości jest rekonstrukcją współtworzoną przez sytuację społeczną. Spójność narracyjna może wspierać orientację w doświadczeniu, ale nie gwarantuje prawdziwości ani zdrowia psychicznego. Kultury różnią się oczekiwaniami wobec autonomii bohatera, chronologii i puenty; nie należy narzucać jednego wzorca „dobrej opowieści”.
 
+## Wyobraźnia jako symulacja
 
-- Język jest funkcją sieciową, choć modele lokalizacyjne pozostają klinicznie użyteczne.
-- Diagnoza powinna integrować dane behawioralne i neuroobrazowe.
-- Najlepsze decyzje terapeutyczne wynikają z analizy profilu deficytów, nie tylko etykiety nozologicznej.## Bibliografia
-1. Friederici, A. D. (2011). The brain basis of language processing. *Physiological Reviews, 91*(4), 1357–1392.
-2. Hickok, G., & Poeppel, D. (2007). The cortical organization of speech processing. *Nature Reviews Neuroscience, 8*(5), 393–402.
-3. Price, C. J. (2012). A review and synthesis of the first 20 years of PET and fMRI studies of heard speech, spoken language and reading. *NeuroImage, 62*(2), 816–847.
-4. Tremblay, P., & Dick, A. S. (2016). Broca and Wernicke are dead, or moving past the classic model. *Brain and Language, 162*, 60–71.
+Wyobraźnia tworzy obrazy sensoryczne, scenariusze, działania i możliwości kontrfaktyczne. Korzysta z elementów [pamięci](wiki/psychologia_poznawcza/pamiec.md), przekształca je zgodnie z celem oraz przewiduje możliwe skutki. Konstrukcja przyszłych epizodów i odtwarzanie przeszłości częściowo angażują wspólną sieć obejmującą hipokamp i obszary sieci domyślnej. Wspólne podłoże nie znaczy, że wyobrażenie jest wspomnieniem.
 
+Symulacja może wspierać planowanie, twórczość, rozumienie opowieści i przygotowanie ruchu. Żywość obrazu różni się między osobami, od afantazji po bardzo wyraziste wyobrażenia, i nie jest tym samym co trafność. Wyobrażanie zdarzenia może zwiększać jego subiektywną dostępność, dlatego bywa także źródłem zniekształceń pamięci i przewidywania.
+
+## Granice wyjaśnień językowych
+
+Nie każde poznanie ma format zdaniowy: orientacja przestrzenna, kontrola ruchu i część kategoryzacji mogą opierać się na innych reprezentacjach. Z kolei wpływ etykiet językowych na rozróżnianie nie dowodzi, że język bezwzględnie wyznacza granice myśli. Najlepiej udokumentowane są wpływy zależne od zadania, dostępności słów i praktyki kulturowej.
+
+## Bibliografia
+
+1. Christiansen, M. H., & Chater, N. (2016). *Creating Language*. MIT Press.
+2. Clark, H. H. (1996). *Using Language*. Cambridge University Press.
+3. Dell, G. S. (1986). A spreading-activation theory of retrieval in sentence production. *Psychological Review, 93*, 283–321.
+4. Hassabis, D., & Maguire, E. A. (2007). Deconstructing episodic memory with construction. *Trends in Cognitive Sciences, 11*, 299–306.
+5. McAdams, D. P., & McLean, K. C. (2013). Narrative identity. *Current Directions in Psychological Science, 22*, 233–238.
+6. Pearson, J. (2019). The human imagination. *Nature Reviews Neuroscience, 20*, 624–634.
+7. Zwaan, R. A. (2016). Situation models, mental simulations, and abstract concepts. *Psychonomic Bulletin & Review, 23*, 1028–1034.

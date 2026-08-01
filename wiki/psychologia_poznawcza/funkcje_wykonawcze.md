@@ -1,100 +1,49 @@
-﻿---
-lastReviewed: 2026-04-01
+---
+lastReviewed: 2026-08-01
 reviewCycleMonths: 24
-evidenceCutoffDate: 2025-12-31
+evidenceCutoffDate: 2026-07-31
 ---
 
-# Funkcje wykonawcze
+# Funkcje wykonawcze i obciążenie poznawcze
 
-Najwyższe funkcje poznawcze - planowanie, hamowanie, elastyczność i kontrola, które czynią nas racjonalnymi agentami.
+Funkcje wykonawcze to mechanizmy regulujące zachowanie wtedy, gdy nawykowa odpowiedź nie wystarcza. Nie są jedną zdolnością ani prostym synonimem aktywności kory przedczołowej.
 
-## Co to są funkcje wykonawcze?
+## Główne składniki kontroli
 
-*Funkcje wykonawcze* to zespół procesów poznawczych odpowiedzialnych za celowe, kontrolowane zachowanie. Obejmują **inhibicję odpowiedzi** (hamowanie automatycznych odpowiedzi), **zmianę zestawu (set-shifting)** (elastyczne przełączanie między zadaniami), **aktualizację i monitorowanie** (śledzenie informacji w pamięci roboczej), **planowanie** (tworzenie sekwencji działań prowadzących do celu) oraz **teorię umysłu** (rozumienie stanów mentalnych innych osób).
+**Hamowanie** oznacza ograniczanie dominującej reakcji lub dystraktora. **Aktualizacja pamięci roboczej** polega na zastępowaniu nieaktualnej treści informacją istotną. **Przełączanie** zmienia zestaw reguł i zwykle wiąże się z kosztem czasu lub błędów. **Planowanie** tworzy oraz monitoruje sekwencję działań względem celu. Składniki korelują, lecz można je częściowo rozdzielić, co opisuje model „jedności i różnorodności”.
 
-> **Zimne vs. gorące funkcje wykonawcze (Stuss, Shallice)** - *zimne (cognitive)* są abstrakcyjne i pozbawione emocjonalnego kontekstu (np. sortowanie kart Wisconsin). *Gorące (emotional/social)* są związane z regulacją emocjonalną, motywacją i kontekstem społecznym (np. podejmowanie decyzji osobistych).
+Kontrola powstaje w sieciach czołowo-ciemieniowych, obręczy, zwojach podstawy i móżdżku. Lokalizacja aktywacji nie rozstrzyga, jaki mechanizm realizuje obszar, a podobny wynik zadania może wynikać z różnych strategii.
 
-## Neuroanatomia funkcji wykonawczych
+## Obciążenie, wysiłek i zmęczenie
 
-Różne podregiony kory przedczołowej (PFC) odpowiadają za różne aspekty. **dlPFC (grzbietowo-boczna)** zarządza pamięcią roboczą, kontrolą poznawczą i planowaniem. **vlPFC (boczna)** odpowiada za selekcję odpowiedzi i hamowanie. **vmPFC/OFC (brzuszna/orbitofrontalna)** reguluje podejmowanie decyzji, emocje i przetwarzanie nagród. **ACC (przednia kora obręczy)** monitoruje konflikty i wykrywa błędy.
+- **Obciążenie zadaniem** wynika z wymagań, takich jak liczba elementów, presja czasu i konflikt reakcji.
+- **Subiektywny wysiłek** jest odczuwaną ceną mobilizacji zasobów; nie musi rosnąć liniowo wraz z trudnością.
+- **Zmęczenie poznawcze** to rozwijający się w czasie stan obejmujący poczucie znużenia lub spadek gotowości, czasem także pogorszenie wykonania.
 
-> **Hipoteza somatycznych znaczników (Damasio)** - decyzje podejmujemy nie przez czyste rozumowanie, lecz przez powiązanie opcji z sygnałami somatyczno-emocjonalnymi. Uszkodzenie OFC niszczy te sygnały - stąd katastrofalne decyzje przy sprawnym rozumowaniu (pacjent Elliott).
+Te poziomy trzeba mierzyć osobno. Osoba może utrzymać wynik kosztem większego wysiłku, a monotonne zadanie może wywołać zmęczenie przy umiarkowanym obciążeniu. Senność, nuda, stres i zmęczenie fizyczne są powiązane, ale nie zamienne. HDA, jeśli rozumiane jako odsetek poprawnych decyzji człowieka, jest wskaźnikiem wykonania, nie samodzielnym konstruktem i nie dowodzi, który proces spowodował błąd.
 
-Sieć czołowo-ciemieniowa (fronto-parietal network) jest kluczowa dla kontroli poznawczej - obszary PFC współpracują z tylnym ciemieniowym (przetwarzanie przestrzenne i uwagowe) oraz ze zwojami podstawy (selekcja działań) i móżdżkiem (timing sekwencji ruchowych). Uszkodzenia PFC powodują *zespół dysegzekutywny* - trudności z planowaniem, elastycznością i samokontrolą, widoczne m.in. po urazach czołowych i w chorobie Alzheimera.
+## NASA-TLX
 
-## Model Miyakego - trzy podstawowe funkcje
+NASA Task Load Index jest wielowymiarową skalą samoopisową. Ocenia wymagania umysłowe, fizyczne i czasowe, wykonanie, wysiłek oraz frustrację. W wersji oryginalnej oceny ważono porównaniami parami; często stosowany Raw TLX jest średnią nieważoną. Wariant, język, moment pomiaru i sposób kodowania wykonania należy raportować.
 
-Akihiro Miyake i współpracownicy (2000) zaproponowali trzy czynniki funkcji wykonawczych. **Hamowanie (inhibition)** to zdolność do celowego powstrzymywania dominujących odpowiedzi - mierzona testem Stroopa i zadaniem stop-signal. **Przełączanie (shifting)** to elastyczność poznawcza przy zmianie reguł - mierzona TMT-B i WCST. **Aktualizacja (updating)** to monitorowanie i modyfikowanie informacji w pamięci roboczej - mierzona cyframi wspak i zadaniami N-back.
+NASA-TLX mierzy retrospektywną ocenę obciążenia, a nie pojemność pamięci roboczej ani obiektywną trudność. Na wynik wpływają oczekiwania i użycie skali. Warto łączyć go z trafnością, czasem reakcji oraz, gdy uzasadnia to pytanie, miarami fizjologicznymi.
 
-Czynniki Miyakego są **umiarkowanie skorelowane**, co oznacza, że dzielą wspólny komponent kontrolny (tzw. *unity*), a jednocześnie każdy jest odrębny (*diversity*). Badania potwierdziły ten model czynnikowy niezależnie w wielu kulturach i grupach wiekowych.
+## Zadanie Stroopa
 
-## Pamięć robocza jako fundament
+Klasyczna próba kolor-słowo wymaga nazwania barwy atramentu przy ignorowaniu treści słowa. Interferencję szacuje się różnicą lub proporcją czasu i błędów między próbami niezgodnymi a warunkiem odniesienia. Istnieją wersje kartkowe, komputerowe, emocjonalne i liczne reguły punktacji, dlatego etykieta „Stroop” nie gwarantuje porównywalności.
 
-**Pamięć robocza** (Baddeley & Hitch, 1974) stanowi centralny składnik funkcji wykonawczych - to system czasowego utrzymywania i manipulowania informacjami. Model Baddeleya wyróżnia **centralny wykonawca** (organ zarządzający uwagą i koordynujący zasoby), **pętla fonologiczna** (werbalne informacje i sekwencje), **szkicownik wzrokowo-przestrzenny** (wzorce, układy, obrazy) i **bufor epizodyczny** (integracja informacji z pamięcią długotrwałą).
+Zadanie angażuje utrzymanie celu, selekcję, tempo przetwarzania i rozwiązywanie konfliktu. Efekt zgodności nie jest czystą miarą hamowania. Na wynik wpływają wiek, wykształcenie, język, automatyzacja czytania, widzenie barw i kompromis szybkość–poprawność. Do diagnozy jednostki potrzebne są normy właściwe dla wersji i populacji, a test nie powinien samodzielnie przesądzać o uszkodzeniu płata czołowego. Podstawowy mechanizm percepcyjny opisano w artykule [Percepcja i uwaga](wiki/psychologia_poznawcza/percepcja.md).
 
-> Pojemność pamięci roboczej (*working memory capacity*, WMC) jest jednym z najlepszych predyktorów osiągnięć akademickich i inteligencji płynnej. Koreluje z wynikami SAT, rozumieniem tekstu i rozwiązywaniem problemów matematycznych.
+## Granice jednolitej „funkcji wykonawczej”
 
-## Kliniczne aspekty - kiedy funkcje wykonawcze zawodzą?
-
-Dysfunkcje wykonawcze są kluczowym objawem wielu zaburzeń neuropsychiatrycznych:
-
-**ADHD** - deficyt hamowania i aktualizacji pamięci roboczej to mechanizm wielu objawów ADHD według modelu Barkleya. Pacjenci mają trudności z powstrzymywaniem impulsów, planowaniem wieloetapowych działań i zarządzaniem czasem.
-
-**Schizofrenia** - dysfunkcja dlPFC prowadzi do zaburzeń pamięci roboczej i myślenia zdezorganizowanego. Objawy negatywne (apatia, alogia) są powiązane z hipofrontalnością - zmniejszoną aktywacją PFC.
-
-**Depresja** - w epizodach ciężkich obserwuje się spowolnienie przetwarzania, trudności z koncentracją i zaburzone hamowanie myśli negatywnych (tzw. *ruminacje*). Zaburzenia funkcji wykonawczych mogą utrzymywać się nawet w remisji.
-
-**Uszkodzenia płatów czołowych** - m.in. po TBI, nowotworach czy udarach. Mogą powodować **zespół czołowy**: odhamowanie (impulsywność, wulgaryzmy), perseweracje (powtarzanie tej samej odpowiedzi), utratę elastyczności, trudności z planowaniem i inicjowaniem działań. Zachowanie intelektu ogólnego przy dramatycznym upośledzeniu funkcjonowania społecznego.
-
-## Pomiar - narzędzia neuropsychologiczne
-
-**Test Stroopa** - czytanie kolorów vs. nazywanie koloru atramentu. Mierzy hamowanie dominującej odpowiedzi (czytania) na rzecz nazwy koloru. Efekt interferencji Stroopa jest jednym z najbardziej replikowanych efektów w psychologii.
-
-**Wisconsin Card Sorting Test (WCST)** - sortowanie kart wg reguł, które zmieniają się bez ostrzeżenia. Mierzy przełączanie i elastyczność; u pacjentów z uszkodzeniem PFC obserwuje się *perseweracje* - trwanie przy nieaktualnej regule.
-
-**Trail Making Test (TMT)** - TMT-A mierzy uwagę i przetwarzanie wzrokowo-przestrzenne (łączenie liczb), TMT-B mierzy elastyczność wykonawczą (naprzemienne łączenie liczb i liter).
-
-**Tower of London / Tower of Hanoi** - zadania wymagające planowania kolejności ruchów z wyprzedzeniem. Silnie angażują dlPFC.
-
-**Zadanie N-back** - uczestnik musi decydować, czy bieżący bodziec pojawił się N pozycji wcześniej. Szczególnie angażuje aktualizację w pamięci roboczej.
-
-## Rozwój i plastyczność funkcji wykonawczych
-
-Funkcje wykonawcze rozwijają się stosunkowo późno - **dojrzewają do ok. 25. roku życia**, co wiąże się z postępującą mielinizacją połączeń czołowo-ciemieniowych.
-
-W dzieciństwie kluczowym **predyktorem późniejszych osiągnięć** jest impulsywność i samokontrola. Słynny eksperyment z pianką (*marshmallow test*, Mischel, 1972) pokazał, że dzieci 4-letnie zdolne do opóźnienia nagrody osiągały lepsze wyniki edukacyjne i zawodowe w dorosłości - choć późniejsze badania sugerują, że efekt jest częściowo mediowany przez czynniki socjoekonomiczne.
-
-**Trening funkcji wykonawczych** jest aktywnym obszarem badań. Programy treningu pamięci roboczej (np. Cogmed) dają umiarkowane efekty specyficzne, ale ich generalizacja na inne funkcje jest kontrowersyjna. Ćwiczenia fizyczne (aerobik) i uważność (mindfulness) wykazują pozytywny, umiarkowany efekt na funkcje wykonawcze.
-
-> U seniorów funkcje wykonawcze są szczególnie wrażliwe na starzenie. Spowolnienie przetwarzania i redukcja objętości PFC (szczególnie dlPFC) widoczne po 60. r.ż. tłumaczą trudności ze skupieniem uwagi, wielozadaniowością i elastycznym reagowaniem na zmiany.
-
-## Funkcje wykonawcze a inteligencja
-
-Relacja między funkcjami wykonawczymi a inteligencją ogólną (g) jest złożona. Funkcje wykonawcze, szczególnie aktualizacja pamięci roboczej, **korelują silnie z inteligencją płynną** (Gf). Jednak uszkodzenia PFC mogą dramatycznie obniżyć zdolności wykonawcze przy zachowaniu IQ na poziomie normy - co pokazuje, że nie są tożsame.
-
-Pacjent **Phineas Gage** (1823–1860), który przeżył przebicie prętem żelaznym przez korę orbitofrontalną, zachował sprawność intelektualną i językową, ale doznał fundamentalnej zmiany osobowości i zdolności podejmowania decyzji społecznych - jeden z pierwszych dowodów na neurobiologię charakteru.
-
-**Powiązane zagadnienia:** pamięć robocza · kora przedczołowa · ADHD · hamowanie poznawcze · planowanie · test Stroopa · WCST
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Funkcje wykonawcze" polega na tym, że pojedynczy proces poznawczy najczęściej nie wyjaśnia zachowania samodzielnie; jego znaczenie ujawnia się w relacji do obciążenia, celu działania i innych systemów kontroli.
-
-Dopiero wspólna analiza zagadnień takich jak co to są funkcje wykonawcze?, kliniczne aspekty - kiedy funkcje wykonawcze zawodzą? oraz funkcje wykonawcze a inteligencja pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Funkcje wykonawcze" pokazuje, że najbardziej użyteczne wnioski pojawiają się wtedy, gdy łączy się opis mechanizmu z ograniczeniami zasobów poznawczych i konsekwencjami praktycznymi.
-
-
-Dopiero wspólna analiza zagadnień takich jak co to są funkcje wykonawcze?, kliniczne aspekty - kiedy funkcje wykonawcze zawodzą? oraz funkcje wykonawcze a inteligencja pokazuje pełny zakres omawianego zjawiska.
+Wspólna wariancja zadań może odzwierciedlać utrzymanie celu, ale każde zadanie zawiera domieszkę procesów niewykonawczych, czyli problem **nieczystości zadaniowej**. Niska rzetelność różnic między warunkami dodatkowo ogranicza wnioskowanie o osobie. Modele czynnikowe zależą od wieku i zestawu prób. Najbezpieczniej opisywać profil wyników oraz alternatywne wyjaśnienia, zamiast przypisywać wynik jednej nadrzędnej „centrali”.
 
 ## Bibliografia
 
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+1. Diamond, A. (2013). Executive functions. *Annual Review of Psychology, 64*, 135–168.
+2. Hart, S. G., & Staveland, L. E. (1988). Development of NASA-TLX. W: *Human Mental Workload*. North-Holland.
+3. Hockey, G. R. J. (2013). *The Psychology of Fatigue*. Cambridge University Press.
+4. Miyake, A. i in. (2000). The unity and diversity of executive functions. *Cognitive Psychology, 41*, 49–100.
+5. Paap, K. R., & Sawi, O. (2016). The role of test-retest reliability in measuring individual differences. *Frontiers in Psychology, 7*, 1037.
+6. Stroop, J. R. (1935). Studies of interference in serial verbal reactions. *Journal of Experimental Psychology, 18*, 643–662.
+7. Young, M. S. i in. (2015). State of science: Mental workload in ergonomics. *Ergonomics, 58*, 1–17.

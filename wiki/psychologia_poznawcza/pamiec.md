@@ -1,95 +1,53 @@
-﻿---
-lastReviewed: 2026-04-01
+---
+lastReviewed: 2026-08-01
 reviewCycleMonths: 24
-evidenceCutoffDate: 2025-12-31
+evidenceCutoffDate: 2026-07-31
 ---
 
-# Pamięć
+# Pamięć i uczenie się
 
-Systemy pamięci w mózgu - od krótkotrwałego przechowywania po długotrwałe wspomnienia, ich neurobiologia i kliniczne konsekwencje uszkodzeń.
+Pamięć oznacza utrzymywanie wpływu doświadczenia na późniejsze poznanie i działanie. Uczenie się opisuje zmianę powstającą dzięki doświadczeniu; pamięć jest zarazem warunkiem i wynikiem tej zmiany.
 
-## Modele pamięci
+## Systemy i procesy pamięci
 
-**Model Atkinsona-Shiffrina (1968)** - klasyczny model trójkomponentowy: *pamięć sensoryczna* (ultrakrótka, ikoniczna/echoiczna) → *pamięć krótkotrwała* (PKT, ~7±2 elementy, 15–30 s) → *pamięć długotrwała* (PDT, teoretycznie nieograniczona).
+Pamięć sensoryczna krótko podtrzymuje cechy bodźca. **Pamięć robocza** utrzymuje i przekształca informacje potrzebne aktualnemu zadaniu, korzystając z uwagi oraz wiedzy długotrwałej. W pamięci długotrwałej odróżnia się pamięć deklaratywną, czyli epizodyczną i semantyczną, od niejawnych zmian ujawnianych między innymi w umiejętnościach, torowaniu i warunkowaniu. Są to rozróżnienia funkcjonalne, nie osobne pojemniki.
 
-**Model Baddeleya-Hitcha (1974)** - *pamięć robocza* jako system wielokomponentowy: nadzorca centralny (kontrola uwagi), pętla fonologiczna (werbalna), szkicownik wzrokowo-przestrzenny oraz bufor epizodyczny (integracja).
+**Kodowanie** zależy od uwagi, znaczenia i organizacji materiału. **Konsolidacja synaptyczna** stabilizuje zmiany w skali godzin, a konsolidacja systemowa opisuje dłuższą reorganizację udziału hipokampa i kory. Sen sprzyja niektórym formom konsolidacji, lecz jego faz nie można przypisać po jednej do każdego rodzaju pamięci. **Wydobywanie** jest rekonstrukcją sterowaną wskazówkami; może też zmieniać ślad i uruchamiać rekonsolidację.
 
-### Podział pamięci długotrwałej (Tulving, Squire)
+Przypadek H.M. pokazał ciężkie zaburzenie tworzenia nowych wspomnień deklaratywnych przy zachowanym uczeniu niektórych umiejętności. Nie wynika z niego jednak, że hipokamp jest „magazynem wspomnień”: wspiera wiązanie relacji i epizodów w sieci współpracującej z korą.
 
-**Pamięć deklaratywna (świadoma)** dzieli się na *epizodyczną* - wspomnienia osobistych zdarzeń z kontekstem czasowym i przestrzennym - oraz *semantyczną*, czyli wiedzę ogólną o świecie (fakty, pojęcia).
+## Formy uczenia się
 
-**Pamięć nie-deklaratywna (nieświadoma)** obejmuje *proceduralną* (umiejętności ruchowe, jak jazda na rowerze), *pryming* (nieświadome wpływanie wcześniejszego doświadczenia) oraz *uczenie się warunkowe* (asocjacje bodźców).
+### Uczenie jawne i utajone
 
-> **Przypadek H.M.** (Henry Molaison) - po usunięciu hipokampów miał całkowitą amnezję anterogradną dla pamięci deklaratywnej, ale zachował pamięć proceduralną. To klasyczny dowód na odrębność systemów.
+W uczeniu **jawnym** osoba może świadomie odtwarzać fakty lub zdarzenia. Uczenie **utajone** rozpoznaje się po zmianie zachowania bez koniecznego świadomego raportu, na przykład w torowaniu lub przyswajaniu regularności. Granica zależy od czułości miary świadomości, dlatego brak deklaracji nie wystarcza do stwierdzenia całkowitej nieświadomości.
 
-## Neurobiologia pamięci
+### Warunkowanie
 
-*Formacja hipokampa* (właściwy hipokamp, zakręt zębaty i subiculum) jest kluczowa dla konsolidacji pamięci deklaratywnej, nawigacji przestrzennej i tworzenia map poznawczych. Neurony miejsca (*place cells*) kodują pozycję w przestrzeni.
+W warunkowaniu klasycznym organizm uczy się relacji między bodźcami; bodziec warunkowy zaczyna przewidywać biologicznie znaczące zdarzenie. W warunkowaniu instrumentalnym konsekwencje zmieniają prawdopodobieństwo działania. Wzmocnienie zwiększa zachowanie, a kara je zmniejsza; „pozytywne” i „negatywne” znaczą odpowiednio dodanie i usunięcie zdarzenia, nie jego wartość moralną.
 
-> **Nagroda Nobla 2014** dla Johna O'Keefe oraz May-Britt i Edvarda Moserów za odkrycie *komórek miejsca* (hipokamp) i *komórek siatki* (kora śródwęchowa) - systemu nawigacji przestrzennej w mózgu.
+### Uczenie przez obserwację
 
-*Przedczołowa kora grzbietowo-boczna (dlPFC)* utrzymuje informację w pamięci roboczej przez aktywność utrzymaną (persistent activity) - neurony pozostają aktywne przez cały okres opóźnienia w zadaniach pamięciowych.
+Obserwator może nabyć informację o działaniu i jego konsekwencjach bez bezpośredniego wzmocnienia każdej reakcji. Uwaga wobec modela, pamięć sekwencji, zdolność wykonania oraz motywacja wpływają na ujawnienie uczenia. Naśladownictwo nie wyczerpuje tego procesu, ponieważ obserwacja może służyć wnioskowaniu o celach i regułach.
 
-Zgodnie z modelem **uzupełniających się systemów uczenia się** hipokamp szybko uczy się szczegółów epizodów, a kora mózgowa powoli akumuluje struktury semantyczne. Z czasem wspomnienia stają się niezależne od hipokampa - ten proces trwa miesiące do lat.
+## Mały Albert: wynik, metodologia i etyka
 
-## Amnezje - zaburzenia pamięci
+Watson i Rayner (1920) zestawiali u niemowlęcia kontakt z białym szczurem z nagłym hałasem, po czym opisali reakcje lękowe wobec szczura i podobnych obiektów. Studium stało się ilustracją warunkowania emocjonalnego, ale było pojedynczym, słabo kontrolowanym przypadkiem. Dokumentacja nie pozwala pewnie ocenić siły nabycia, generalizacji ani trwałości reakcji; późniejsze próby ustalenia tożsamości i stanu zdrowia dziecka pozostają sporne.
 
-**Amnezja anterogradna** to niemożność tworzenia nowych wspomnień po uszkodzeniu. Typowa po uszkodzeniu hipokampów (niedokrwienie tylnej tętnicy mózgowej, zespół Korzakoffa, operacje).
+Według współczesnych standardów badanie naruszałoby wymogi minimalizacji szkody, świadomej zgody opiekuna i planu usunięcia wyuczonego lęku. Jego znaczenie jest zatem głównie historyczne: pokazuje zarazem rozwój badań nad uczeniem oraz konieczność ochrony uczestników. Nie stanowi wystarczającego dowodu, że złożone lęki człowieka mają jedno źródło.
 
-**Amnezja wsteczna (retrogradna)** to utrata wspomnień sprzed uszkodzenia. Zazwyczaj gradientna - bliższe wspomnienia są bardziej zaburzone (*gradient Ribot'a*).
+## Dlaczego pamięć nie jest magazynem
 
-**Zespół Korzakoffa** - amnezja następcza z konfabulacją i ataksją wynikająca z niedoboru tiaminy (witaminy B1), najczęściej w przebiegu alkoholizmu. Uszkodzenia: ciała suteczkowate, wzgórze.
+Metafora magazynu pomaga odróżnić kodowanie, utrzymanie i wydobycie, ale sugeruje niezmienne kopie oraz jedną lokalizację. Tymczasem pamiętanie zależy od celu, kontekstu, schematów i aktualnej wiedzy. Błędy źródła, podatność na sugestię i rekonsolidacja wskazują na konstrukcyjny charakter wspominania. Konstrukcyjność nie znaczy dowolności: trafność można badać, a część śladów jest stabilna.
 
-**Amnezja dysocjacyjna** - psychogenna utrata tożsamości lub wspomnień bez organicznego uszkodzenia mózgu. Związana z traumą lub stresem ekstremalnym.
-
-## Kodowanie, konsolidacja i wydobywanie
-
-**Kodowanie (encoding)** to etap, na którym informacja zostaje przekształcona do formatu możliwego do dalszego przechowania. Jakość kodowania rośnie, gdy materiał jest przetwarzany głęboko semantycznie (np. przez tworzenie skojarzeń i pytań "dlaczego"), a spada przy czysto powierzchownym powtarzaniu.
-
-**Konsolidacja** obejmuje stabilizację śladu pamięciowego w czasie. Wyróżnia się konsolidację synaptyczną (minuty–godziny) i systemową (dni–lata). Sen, zwłaszcza faza NREM (wolnofalowa), wspiera utrwalanie deklaratywne, a sen REM częściej wiąże się z integracją emocji i pamięci proceduralnej.
-
-**Wydobywanie (retrieval)** nie jest biernym "odczytem" wspomnienia, ale aktywną rekonstrukcją zależną od kontekstu. Dlatego pamięć bywa zawodna: ta sama informacja może być dostępna lub niedostępna w zależności od wskazówek wydobycia.
-
-## Dlaczego zapominamy? Najważniejsze mechanizmy
-
-- **Krzywa zapominania Ebbinghausa:** najszybsza utrata następuje krótko po nauce, potem tempo spadku maleje.
-- **Interferencja proaktywna:** stara wiedza utrudnia uczenie nowej.
-- **Interferencja retroaktywna:** nowa wiedza utrudnia przypomnienie starej.
-- **Nieadekwatne wskazówki wydobycia:** informacja jest w pamięci, ale brak właściwego klucza dostępu.
-- **Zapominanie motywowane:** unikanie treści obciążających emocjonalnie.
-
-W praktyce klinicznej i edukacyjnej oznacza to, że "zapomnienie" nie zawsze równa się trwałej utracie śladu pamięciowego.
-
-## Strategie poprawy pamięci o najwyższym poziomie dowodów
-
-1. **Powtórki rozłożone w czasie (spaced repetition)** zamiast "zakuwania" dzień przed egzaminem.
-2. **Praktyka wydobywania (retrieval practice)** - regularne odtwarzanie z pamięci (quizy, fiszki, pytania otwarte).
-3. **Przeplatanie materiału (interleaving)** - mieszanie typów zadań i tematów.
-4. **Podwójne kodowanie (dual coding)** - łączenie słów, schematów i obrazów.
-5. **Elaboracja semantyczna** - łączenie nowej wiedzy z wcześniejszym doświadczeniem.
-
-> **Wniosek praktyczny:** Najbardziej efektywna nauka to nie długie czytanie notatek, ale krótkie sesje aktywnego przypominania materiału rozłożone na wiele dni.
-
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Pamięć" polega na tym, że pojedynczy proces poznawczy najczęściej nie wyjaśnia zachowania samodzielnie; jego znaczenie ujawnia się w relacji do obciążenia, celu działania i innych systemów kontroli.
-
-Dopiero wspólna analiza zagadnień takich jak modele pamięci, kodowanie, konsolidacja i wydobywanie oraz strategie poprawy pamięci o najwyższym poziomie dowodów pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Pamięć" pokazuje, że najbardziej użyteczne wnioski pojawiają się wtedy, gdy łączy się opis mechanizmu z ograniczeniami zasobów poznawczych i konsekwencjami praktycznymi.
-
-
-Dopiero wspólna analiza zagadnień takich jak modele pamięci, kodowanie, konsolidacja i wydobywanie oraz strategie poprawy pamięci o najwyższym poziomie dowodów pokazuje pełny zakres omawianego zjawiska.
+W edukacji skuteczne są rozłożone w czasie powtórki i praktyka wydobywania. Ich korzyść zależy od odstępów, informacji zwrotnej i dopasowania ćwiczenia do późniejszego zastosowania; samo ponowne czytanie zwykle daje złudne poczucie płynności.
 
 ## Bibliografia
 
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+1. Baddeley, A. D. (2012). Working memory: Theories, models, and controversies. *Annual Review of Psychology, 63*, 1–29.
+2. Bandura, A. (1977). *Social Learning Theory*. Prentice Hall.
+3. Dudai, Y., Karni, A., & Born, J. (2015). The consolidation and transformation of memory. *Neuron, 88*, 20–32.
+4. Roediger, H. L., & Butler, A. C. (2011). The critical role of retrieval practice in long-term retention. *Trends in Cognitive Sciences, 15*, 20–27.
+5. Squire, L. R., & Dede, A. J. O. (2015). Conscious and unconscious memory systems. *Cold Spring Harbor Perspectives in Biology, 7*, a021667.
+6. Watson, J. B., & Rayner, R. (1920). Conditioned emotional reactions. *Journal of Experimental Psychology, 3*, 1–14.
+7. Fridlund, A. J., Beck, H. P., Goldie, W. D., & Irons, G. (2012). Little Albert: A neurologically impaired child. *History of Psychology, 15*, 302–327.

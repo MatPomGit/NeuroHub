@@ -261,18 +261,8 @@ Poni9=ej znajdujďż˝& siďż˝" bezpo9:rednie odno9:niki do artyku9Bw bez li
 
 ### forensic_psychology
 
-- [`forensic_psychology/biegly_a_sad.md`](../psychologia_sadowa/biegly_a_sad.md)
-- [`forensic_psychology/etyka_opiniowania.md`](../psychologia_sadowa/etyka_opiniowania.md)
-- [`forensic_psychology/metodologia_opinii.md`](../psychologia_sadowa/metodologia_opinii.md)
-- [`forensic_psychology/narzedzia_diagnostyczne.md`](../psychologia_sadowa/narzedzia_diagnostyczne.md)
-- [`forensic_psychology/ocena_wiarygodnosci.md`](../psychologia_sadowa/ocena_wiarygodnosci.md)
-- [`forensic_psychology/opinia_cywilna.md`](../psychologia_sadowa/opinia_cywilna.md)
-- [`forensic_psychology/opinia_karna.md`](../psychologia_sadowa/opinia_karna.md)
-- [`forensic_psychology/opinia_rodzinna.md`](../psychologia_sadowa/opinia_rodzinna.md)
-- [`forensic_psychology/opiniowanie_nieletnich.md`](../psychologia_sadowa/opiniowanie_nieletnich.md)
-- [`forensic_psychology/podstawy_prawne.md`](../psychologia_sadowa/podstawy_prawne.md)
-- [`forensic_psychology/rola_bieglego.md`](../psychologia_sadowa/rola_bieglego.md)
 - [`forensic_psychology/wprowadzenie.md`](../psychologia_sadowa/wprowadzenie.md)
+- [`forensic_psychology/zastosowania_opiniowania_sadowego.md`](../psychologia_sadowa/zastosowania_opiniowania_sadowego.md)
 
 ### game_psychology
 

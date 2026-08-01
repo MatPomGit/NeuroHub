@@ -116,7 +116,7 @@ Dowody dla ukierunkowanej CBT w redukcji napadów są **wysokiej lub umiarkowane
 
 ## Mindfulness jako interwencja uzupełniająca
 
-[Mindfulness](../psychologia_pozytywna/mindfulness.md) ćwiczy zauważanie doznań, emocji i impulsu bez natychmiastowej reakcji. W kontekście jedzenia może wspierać rozpoznawanie głodu i sytości, spowolnienie automatycznej sekwencji oraz tolerowanie pragnienia. „Uważne jedzenie” nie powinno stać się kolejną regułą perfekcyjnego jedzenia ani obietnicą natychmiastowego usunięcia impulsu.
+[Mindfulness](../psychologia_pozytywna/uwaznosc_przeplyw_i_samowspolczucie.md#uwaznosc) ćwiczy zauważanie doznań, emocji i impulsu bez natychmiastowej reakcji. W kontekście jedzenia może wspierać rozpoznawanie głodu i sytości, spowolnienie automatycznej sekwencji oraz tolerowanie pragnienia. „Uważne jedzenie” nie powinno stać się kolejną regułą perfekcyjnego jedzenia ani obietnicą natychmiastowego usunięcia impulsu.
 
 Metaanalizy wykazują poprawę nasilenia objadania i jedzenia emocjonalnego, ale badania są zwykle małe, zróżnicowane pod względem programu, grupy porównawczej i długości obserwacji; nie zawsze obejmują osoby z rozpoznanym BED. Ryzyko błędu publikacyjnego i brak zaślepienia dodatkowo ograniczają wnioski. Dlatego jakość dowodów jest **niska do umiarkowanej**, a pewność jest większa dla mindfulness jako dodatku niż zamiennika CBT. U części osób skupienie na ciele początkowo nasila dyskomfort lub objawy związane z traumą; praktykę należy dostosować z terapeutą.
 

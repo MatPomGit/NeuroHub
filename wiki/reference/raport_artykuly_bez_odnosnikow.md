@@ -281,17 +281,9 @@ Poni9=ej znajdujďż˝& siďż˝" bezpo9:rednie odno9:niki do artyku9Bw bez li
 
 ### geropsychologia
 
-- [`geropsychologia/adaptacja_do_starosci.md`](../geropsychologia/adaptacja_do_starosci.md)
-- [`geropsychologia/aktywnosc_poznawcza.md`](../geropsychologia/aktywnosc_poznawcza.md)
-- [`geropsychologia/demencja.md`](../geropsychologia/demencja.md)
-- [`geropsychologia/depresja_starszych.md`](../geropsychologia/depresja_starszych.md)
-- [`geropsychologia/interwencje_terapeutyczne.md`](../geropsychologia/interwencje_terapeutyczne.md)
-- [`geropsychologia/jakosc_zycia_starszych.md`](../geropsychologia/jakosc_zycia_starszych.md)
-- [`geropsychologia/opieka_nad_opiekunami.md`](../geropsychologia/opieka_nad_opiekunami.md)
-- [`geropsychologia/relacje_spoleczne_starszych.md`](../geropsychologia/relacje_spoleczne_starszych.md)
-- [`geropsychologia/starzenie_poznawcze.md`](../geropsychologia/starzenie_poznawcze.md)
-- [`geropsychologia/umieranie_smierc.md`](../geropsychologia/umieranie_smierc.md)
 - [`geropsychologia/wprowadzenie.md`](../geropsychologia/wprowadzenie.md)
+- [`geropsychologia/poznanie_i_zdrowie_psychiczne_w_starosci.md`](../geropsychologia/poznanie_i_zdrowie_psychiczne_w_starosci.md)
+- [`geropsychologia/pomoc_psychologiczna_i_opieka_w_starosci.md`](../geropsychologia/pomoc_psychologiczna_i_opieka_w_starosci.md)
 
 ### health_psychology
 

@@ -338,18 +338,7 @@ Poni9=ej znajdujďż˝& siďż˝" bezpo9:rednie odno9:niki do artyku9Bw bez li
 
 ### kulturowa
 
-- [`kulturowa/akulturacja.md`](../kulturowa/akulturacja.md)
-- [`kulturowa/indywidualizm_kolektywizm.md`](../kulturowa/indywidualizm_kolektywizm.md)
-- [`kulturowa/kultura_emocje.md`](../kulturowa/kultura_emocje.md)
-- [`kulturowa/kultura_jezyk.md`](../kulturowa/kultura_jezyk.md)
-- [`kulturowa/kultura_osobowosc.md`](../kulturowa/kultura_osobowosc.md)
-- [`kulturowa/kultura_percepcja.md`](../kulturowa/kultura_percepcja.md)
-- [`kulturowa/kultura_relacje.md`](../kulturowa/kultura_relacje.md)
-- [`kulturowa/kultura_zdrowie.md`](../kulturowa/kultura_zdrowie.md)
-- [`kulturowa/kulturowe_modele_ja.md`](../kulturowa/kulturowe_modele_ja.md)
-- [`kulturowa/metody.md`](../kulturowa/metody.md)
 - [`kulturowa/wprowadzenie.md`](../kulturowa/wprowadzenie.md)
-- [`kulturowa/wschodnia_zachodnia.md`](../kulturowa/wschodnia_zachodnia.md)
 
 ### ekrany_ksiazki_i_natura
 

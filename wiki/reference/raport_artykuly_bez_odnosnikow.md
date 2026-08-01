@@ -188,7 +188,6 @@ Poni9=ej znajdujďż˝& siďż˝" bezpo9:rednie odno9:niki do artyku9Bw bez li
 
 ### psychologia_niepelnosprawnosci
 
-- [`psychologia_niepelnosprawnosci/autyzm_niepelnosprawnosc.md`](../psychologia_niepelnosprawnosci/autyzm_niepelnosprawnosc.md)
 - [`psychologia_niepelnosprawnosci/inkluzja_spoleczna.md`](../psychologia_niepelnosprawnosci/inkluzja_spoleczna.md)
 - [`psychologia_niepelnosprawnosci/jakosc_zycia.md`](../psychologia_niepelnosprawnosci/jakosc_zycia.md)
 - [`psychologia_niepelnosprawnosci/modele_niepelnosprawnosci.md`](../psychologia_niepelnosprawnosci/modele_niepelnosprawnosci.md)
@@ -196,7 +195,6 @@ Poni9=ej znajdujďż˝& siďż˝" bezpo9:rednie odno9:niki do artyku9Bw bez li
 - [`psychologia_niepelnosprawnosci/niepelnosprawnosc_ruchowa.md`](../psychologia_niepelnosprawnosci/niepelnosprawnosc_ruchowa.md)
 - [`psychologia_niepelnosprawnosci/niepelnosprawnosc_sluchowa.md`](../psychologia_niepelnosprawnosci/niepelnosprawnosc_sluchowa.md)
 - [`psychologia_niepelnosprawnosci/niepelnosprawnosc_wzrokowa.md`](../psychologia_niepelnosprawnosci/niepelnosprawnosc_wzrokowa.md)
-- [`psychologia_niepelnosprawnosci/rehabilitacja_psychologiczna.md`](../psychologia_niepelnosprawnosci/rehabilitacja_psychologiczna.md)
 - [`psychologia_niepelnosprawnosci/rodzina_i_opiekunowie.md`](../psychologia_niepelnosprawnosci/rodzina_i_opiekunowie.md)
 - [`psychologia_niepelnosprawnosci/stres_i_adaptacja.md`](../psychologia_niepelnosprawnosci/stres_i_adaptacja.md)
 - [`psychologia_niepelnosprawnosci/wprowadzenie.md`](../psychologia_niepelnosprawnosci/wprowadzenie.md)
@@ -837,7 +835,6 @@ Najwa9=niejszy wniosek jest taki, 9=e rzetelne rozumienie omawianego tematu wyma
 3. Nďż˝"cka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
 4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
 5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
-
 
 
 

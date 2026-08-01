@@ -15,6 +15,9 @@ window.SITE_CONFIG = {
 
   // Zachowuje dawne adresy SPA po scaleniu lub przeniesieniu artykułów.
   articleRedirects: {
+    'psychologia_niepelnosprawnosci/autyzm_niepelnosprawnosc': 'neuroroznorodnosc/spektrum_autyzmu',
+    'psychologia_niepelnosprawnosci/rehabilitacja_psychologiczna': 'psychologia_zdrowia/rehabilitacja',
+    'psychoterapia/systemowa': 'systemy_rodzinne/terapie_systemowe_i_rodzinne',
     'e_terapia/wprowadzenie': 'e_terapia/terapia_online',
     'e_terapia/historia_e_terapii': 'e_terapia/terapia_online',
     'e_terapia/skutecznosc_e_terapii': 'e_terapia/terapia_online',
@@ -871,10 +874,8 @@ window.SITE_CONFIG = {
         { id: 'psychologia_niepelnosprawnosci/niepelnosprawnosc_ruchowa',     label: 'Niepelnosprawnosc ruchowa',              file: 'wiki/psychologia_niepelnosprawnosci/niepelnosprawnosc_ruchowa.md'     },
         { id: 'psychologia_niepelnosprawnosci/niepelnosprawnosc_wzrokowa',    label: 'Niepelnosprawnosc wzrokowa',             file: 'wiki/psychologia_niepelnosprawnosci/niepelnosprawnosc_wzrokowa.md'    },
         { id: 'psychologia_niepelnosprawnosci/niepelnosprawnosc_sluchowa',    label: 'Niepelnosprawnosc sluchowa',             file: 'wiki/psychologia_niepelnosprawnosci/niepelnosprawnosc_sluchowa.md'    },
-        { id: 'psychologia_niepelnosprawnosci/autyzm_niepelnosprawnosc',      label: 'Spektrum autyzmu i niepelnosprawnosc',   file: 'wiki/psychologia_niepelnosprawnosci/autyzm_niepelnosprawnosc.md'      },
         { id: 'psychologia_niepelnosprawnosci/stres_i_adaptacja',             label: 'Stres, adaptacja i radzenie sobie',      file: 'wiki/psychologia_niepelnosprawnosci/stres_i_adaptacja.md'             },
         { id: 'psychologia_niepelnosprawnosci/rodzina_i_opiekunowie',         label: 'Rodzina i opiekunowie',                  file: 'wiki/psychologia_niepelnosprawnosci/rodzina_i_opiekunowie.md'         },
-        { id: 'psychologia_niepelnosprawnosci/rehabilitacja_psychologiczna', label: 'Rehabilitacja psychologiczna osób z niepełnosprawnościami', file: 'wiki/psychologia_niepelnosprawnosci/rehabilitacja_psychologiczna.md' },
         { id: 'psychologia_niepelnosprawnosci/inkluzja_spoleczna',            label: 'Inkluzja spoleczna i prawa',             file: 'wiki/psychologia_niepelnosprawnosci/inkluzja_spoleczna.md'            },
       ]
     },
@@ -923,7 +924,6 @@ window.SITE_CONFIG = {
         { id: 'psychoterapia/dbt',        label: 'Terapia dialektyczna (DBT)',    file: 'wiki/psychoterapia/dbt.md'        },
         { id: 'psychoterapia/psychodyn',  label: 'Terapia psychodynamiczna',     file: 'wiki/psychoterapia/psychodyn.md'  },
         { id: 'psychoterapia/humanist',   label: 'Podejscie humanistyczne',      file: 'wiki/psychoterapia/humanist.md'   },
-        { id: 'psychoterapia/systemowa',  label: 'Terapia systemowa i rodzin.',  file: 'wiki/psychoterapia/systemowa.md'  },
         { id: 'psychoterapia/systemy_rodzinne', label: 'Systemy rodzinne', file: 'wiki/psychoterapia/systemy_rodzinne.md' },
         { id: 'psychoterapia/skutecznosc',label: 'Skutecznosc psychoterapii',    file: 'wiki/psychoterapia/skutecznosc.md'},
         { id: 'psychoterapia/sojusz',     label: 'Sojusz terapeutyczny',         file: 'wiki/psychoterapia/sojusz.md'    },
@@ -1529,7 +1529,6 @@ window.SITE_CONFIG = {
       { file: 'wiki/psychoterapia/dbt.md',         label: 'Terapia dialektyczna (DBT)',    status: 'live' },
       { file: 'wiki/psychoterapia/psychodyn.md',   label: 'Terapia psychodynamiczna',     status: 'live' },
       { file: 'wiki/psychoterapia/humanist.md',    label: 'Podejscie humanistyczne',      status: 'live' },
-      { file: 'wiki/psychoterapia/systemowa.md',   label: 'Terapia systemowa',            status: 'live' },
       { file: 'wiki/psychoterapia/systemy_rodzinne.md', label: 'Systemy rodzinne', status: 'live' },
       { file: 'wiki/psychoterapia/skutecznosc.md', label: 'Skutecznosc psychoterapii',    status: 'live' },
       { file: 'wiki/psychoterapia/sojusz.md',      label: 'Sojusz terapeutyczny',         status: 'live' },
@@ -1649,10 +1648,8 @@ window.SITE_CONFIG = {
       { file: 'wiki/psychologia_niepelnosprawnosci/niepelnosprawnosc_ruchowa.md',     label: 'Niepelnosprawnosc ruchowa',                     status: 'live' },
       { file: 'wiki/psychologia_niepelnosprawnosci/niepelnosprawnosc_wzrokowa.md',    label: 'Niepelnosprawnosc wzrokowa',                    status: 'live' },
       { file: 'wiki/psychologia_niepelnosprawnosci/niepelnosprawnosc_sluchowa.md',    label: 'Niepelnosprawnosc sluchowa',                    status: 'live' },
-      { file: 'wiki/psychologia_niepelnosprawnosci/autyzm_niepelnosprawnosc.md',      label: 'Spektrum autyzmu i niepelnosprawnosc',          status: 'live' },
       { file: 'wiki/psychologia_niepelnosprawnosci/stres_i_adaptacja.md',             label: 'Stres, adaptacja i radzenie sobie',             status: 'live' },
       { file: 'wiki/psychologia_niepelnosprawnosci/rodzina_i_opiekunowie.md',         label: 'Rodzina i opiekunowie',                        status: 'live' },
-      { file: 'wiki/psychologia_niepelnosprawnosci/rehabilitacja_psychologiczna.md', label: 'Rehabilitacja psychologiczna osób z niepełnosprawnościami', status: 'live' },
       { file: 'wiki/psychologia_niepelnosprawnosci/inkluzja_spoleczna.md',            label: 'Inkluzja spoleczna i prawa',                   status: 'live' },
     ],
     intro: [
@@ -2095,7 +2092,7 @@ window.SITE_CONFIG = {
             { label: 'DBT - terapia dialektyczna', id: 'psychoterapia/dbt', status: 'live' },
             { label: 'Terapia psychodynamiczna', id: 'psychoterapia/psychodyn', status: 'live' },
             { label: 'Podejscie humanistyczne', id: 'psychoterapia/humanist', status: 'live' },
-            { label: 'Terapia systemowa', id: 'psychoterapia/systemowa', status: 'live' },
+            { label: 'Terapie systemowe i rodzinne', id: 'systemy_rodzinne/terapie_systemowe_i_rodzinne', status: 'xlink' },
             { label: 'Systemy rodzinne', id: 'psychoterapia/systemy_rodzinne', status: 'live' },
             { label: 'Terapia akceptacji (ACT)', id: 'psychoterapia/act', status: 'live' },
             { label: 'Heksafleks ACT', id: 'psychoterapia/heksafleks_act', status: 'live' },
@@ -2737,7 +2734,7 @@ window.SITE_CONFIG = {
             { label: 'Niepelnosprawnosc ruchowa',        id: 'psychologia_niepelnosprawnosci/niepelnosprawnosc_ruchowa', status: 'live' },
             { label: 'Niepelnosprawnosc wzrokowa',       id: 'psychologia_niepelnosprawnosci/niepelnosprawnosc_wzrokowa', status: 'live' },
             { label: 'Niepelnosprawnosc sluchowa',       id: 'psychologia_niepelnosprawnosci/niepelnosprawnosc_sluchowa', status: 'live' },
-            { label: 'Spektrum autyzmu i niepelnosprawnosc', id: 'psychologia_niepelnosprawnosci/autyzm_niepelnosprawnosc', status: 'live' },
+            { label: 'Spektrum autyzmu', id: 'neuroroznorodnosc/spektrum_autyzmu', status: 'xlink' },
           ]
         },
         {
@@ -2751,7 +2748,7 @@ window.SITE_CONFIG = {
           title: 'Srodowisko i wsparcie',
           articles: [
             { label: 'Rodzina i opiekunowie',         id: 'psychologia_niepelnosprawnosci/rodzina_i_opiekunowie', status: 'live' },
-            { label: 'Rehabilitacja psychologiczna osób z niepełnosprawnościami', id: 'psychologia_niepelnosprawnosci/rehabilitacja_psychologiczna', status: 'live' },
+            { label: 'Rehabilitacja psychologiczna', id: 'psychologia_zdrowia/rehabilitacja', status: 'xlink' },
             { label: 'Inkluzja spoleczna i prawa',    id: 'psychologia_niepelnosprawnosci/inkluzja_spoleczna', status: 'live' },
           ]
         },

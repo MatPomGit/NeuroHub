@@ -1,4 +1,4 @@
-﻿ďż˝# Raport: artyku9y bez odno9:nikBw wewnďż˝"trznych
+ďż˝# Raport: artyku9y bez odno9:nikBw wewnďż˝"trznych
 
 Data analizy: 2026-04-29
 
@@ -471,19 +471,19 @@ Poni9=ej znajdujďż˝& siďż˝" bezpo9:rednie odno9:niki do artyku9Bw bez li
 
 ### positive_psychology
 
-- [`positive_psychology/3p_optymizmu_seligmana.md`](../psychologia_pozytywna/3p_optymizmu_seligmana.md)
+- [`positive_psychology/3p_optymizmu_seligmana.md`](../psychologia_pozytywna/interwencje_pozytywne.md#realistyczny-optymizm-i-styl-wyjasniania)
 - [`positive_psychology/interwencje_pozytywne.md`](../psychologia_pozytywna/interwencje_pozytywne.md)
-- [`positive_psychology/mindfulness.md`](../psychologia_pozytywna/mindfulness.md)
-- [`positive_psychology/model_perma.md`](../psychologia_pozytywna/model_perma.md)
-- [`positive_psychology/optymizm_nadzieja.md`](../psychologia_pozytywna/optymizm_nadzieja.md)
-- [`positive_psychology/przeplyw_flow.md`](../psychologia_pozytywna/przeplyw_flow.md)
-- [`positive_psychology/relacje_pozytywne.md`](../psychologia_pozytywna/relacje_pozytywne.md)
-- [`positive_psychology/sens_i_cel.md`](../psychologia_pozytywna/sens_i_cel.md)
-- [`positive_psychology/sily_charakteru.md`](../psychologia_pozytywna/sily_charakteru.md)
+- [`positive_psychology/mindfulness.md`](../psychologia_pozytywna/uwaznosc_przeplyw_i_samowspolczucie.md#uwaznosc)
+- [`positive_psychology/model_perma.md`](../psychologia_pozytywna/szczescie_dobrostan.md#perma-jako-jeden-z-modeli)
+- [`positive_psychology/optymizm_nadzieja.md`](../psychologia_pozytywna/szczescie_dobrostan.md#sens-cele-i-nadzieja)
+- [`positive_psychology/przeplyw_flow.md`](../psychologia_pozytywna/uwaznosc_przeplyw_i_samowspolczucie.md#przeplyw)
+- [`positive_psychology/relacje_pozytywne.md`](../psychologia_pozytywna/szczescie_dobrostan.md#relacje-i-warunki-zycia)
+- [`positive_psychology/sens_i_cel.md`](../psychologia_pozytywna/szczescie_dobrostan.md#sens-cele-i-nadzieja)
+- [`positive_psychology/sily_charakteru.md`](../psychologia_pozytywna/szczescie_dobrostan.md#sily-charakteru)
 - [`positive_psychology/szczescie_dobrostan.md`](../psychologia_pozytywna/szczescie_dobrostan.md)
-- [`positive_psychology/wdziecznosc.md`](../psychologia_pozytywna/wdziecznosc.md)
-- [`positive_psychology/wprowadzenie.md`](../psychologia_pozytywna/wprowadzenie.md)
-- [`positive_psychology/wspolczucie_dla_siebie.md`](../psychologia_pozytywna/wspolczucie_dla_siebie.md)
+- [`positive_psychology/wdziecznosc.md`](../psychologia_pozytywna/interwencje_pozytywne.md#wdziecznosc-bez-przymusu)
+- [`positive_psychology/wprowadzenie.md`](../psychologia_pozytywna/szczescie_dobrostan.md)
+- [`positive_psychology/wspolczucie_dla_siebie.md`](../psychologia_pozytywna/uwaznosc_przeplyw_i_samowspolczucie.md#wspolczucie-dla-siebie)
 
 ### ppd
 

@@ -2708,6 +2708,36 @@ function setupSearchInteractions() {
   });
 }
 
+/* Ogranicza liczbę stale widocznych kontrolek i zapamiętuje świadome wybory użytkownika. */
+function setupInterfaceSettings() {
+  const settings = {
+    showSpeechControls: {
+      storageKey: 'psyhub-show-speech-controls',
+      target: document.querySelector('.speech-controls')
+    },
+    showSearchFilters: {
+      storageKey: 'psyhub-show-search-filters',
+      target: document.getElementById('searchFilterShortcuts')
+    }
+  };
+
+  Object.entries(settings).forEach(([controlId, setting]) => {
+    const control = document.getElementById(controlId);
+    if (!control || !setting.target) return;
+
+    const applyVisibility = (isVisible) => {
+      setting.target.hidden = !isVisible;
+      control.checked = isVisible;
+    };
+
+    applyVisibility(localStorage.getItem(setting.storageKey) === '1');
+    control.addEventListener('change', () => {
+      applyVisibility(control.checked);
+      localStorage.setItem(setting.storageKey, control.checked ? '1' : '0');
+    });
+  });
+}
+
 /*  Progress bar  */
 window.addEventListener('scroll',()=>{
   const h=document.body.scrollHeight-window.innerHeight;
@@ -2925,6 +2955,7 @@ window.addEventListener('DOMContentLoaded', ()=>{
   void applySearchUi();
   void ensureFullTextSearchIndex();
   setupGlobalInteractions();
+  setupInterfaceSettings();
   setupMobileChaptersPanel();
   setupSpeechControls();
   void initMobilePsychologyReminders();

@@ -77,6 +77,17 @@
       <button type="button" class="font-btn" data-font-scale="large" title="Powiększona czcionka" aria-label="Powiększona czcionka">A+</button>
       <button type="button" class="font-btn" data-font-scale="xlarge" title="Bardzo duża czcionka" aria-label="Bardzo duża czcionka">A++</button>
     </div>
+    <details class="interface-settings">
+      <summary>Ustawienia interfejsu</summary>
+      <label class="interface-setting" for="showSpeechControls">
+        <span>Czytanie artykułu</span>
+        <input type="checkbox" id="showSpeechControls">
+      </label>
+      <label class="interface-setting" for="showSearchFilters">
+        <span>Skróty wyszukiwania</span>
+        <input type="checkbox" id="showSearchFilters">
+      </label>
+    </details>
     <span class="ver">bulbulgator</span>
   </div>
 </aside>
@@ -108,7 +119,7 @@
       <a href="#" id="breadcrumbHomeLink">PsyHub</a>
     </nav>
     <div class="topbar-next" id="topbarNextStep" aria-live="polite"></div>
-    <div class="speech-controls" aria-label="Czytanie treści na głos">
+    <div class="speech-controls" aria-label="Czytanie treści na głos" hidden>
       <button type="button" class="speech-btn" id="speechToggle" aria-pressed="false" aria-label="Rozpocznij czytanie bieżącego artykułu" title="Rozpocznij czytanie artykułu">▶ Czytaj artykuł</button>
       <button type="button" class="speech-btn speech-collapse-btn" id="speechOptionsToggle" aria-expanded="true" aria-controls="speechOptionsPanel" aria-label="Zwiń panel opcji czytania na głos" title="Zwiń lub rozwiń opcje czytania">Opcje ▲</button>
       <div class="speech-options-panel" id="speechOptionsPanel">

@@ -143,6 +143,16 @@ window.SITE_CONFIG = {
     'podstawy_pomocy/empatia_w_pomocy': 'emocje/wspolczucie',
     'podstawy_pomocy/empatia_kontra_sympatia_brene_brown': 'emocje/wspolczucie',
     'suicydologia/teorie': 'suicydologia/modele_suicydologiczne',
+    'geropsychologia/adaptacja_do_starosci': 'geropsychologia/wprowadzenie',
+    'geropsychologia/jakosc_zycia_starszych': 'geropsychologia/wprowadzenie',
+    'geropsychologia/relacje_spoleczne_starszych': 'geropsychologia/wprowadzenie',
+    'geropsychologia/aktywnosc_poznawcza': 'geropsychologia/poznanie_i_zdrowie_psychiczne_w_starosci',
+    'geropsychologia/starzenie_poznawcze': 'geropsychologia/poznanie_i_zdrowie_psychiczne_w_starosci',
+    'geropsychologia/demencja': 'geropsychologia/poznanie_i_zdrowie_psychiczne_w_starosci',
+    'geropsychologia/depresja_starszych': 'geropsychologia/poznanie_i_zdrowie_psychiczne_w_starosci',
+    'geropsychologia/interwencje_terapeutyczne': 'geropsychologia/pomoc_psychologiczna_i_opieka_w_starosci',
+    'geropsychologia/opieka_nad_opiekunami': 'geropsychologia/pomoc_psychologiczna_i_opieka_w_starosci',
+    'geropsychologia/umieranie_smierc': 'geropsychologia/pomoc_psychologiczna_i_opieka_w_starosci',
     'geropsychologia/samotnosc': 'relacje/samotnosc',
     'psychofarmakologia/09_leki_anksjolityczne_i_nasenne': 'psychofarmakologia/09_leki_przeciwlekowe_i_nasenne',
     'farmakologia/anxiolityki': 'psychofarmakologia/09_leki_przeciwlekowe_i_nasenne',
@@ -896,17 +906,9 @@ window.SITE_CONFIG = {
       section: 'Psychologia osob w podeszlym wieku',
       domainKey: 'geropsychologia',
       items: [
-        { id: 'geropsychologia/wprowadzenie',               label: 'Psychologia starości - wprow.',       file: 'wiki/geropsychologia/wprowadzenie.md'               },
-        { id: 'geropsychologia/starzenie_poznawcze',        label: 'Starzenie sie poznawcze',             file: 'wiki/geropsychologia/starzenie_poznawcze.md'        },
-        { id: 'geropsychologia/demencja',                   label: 'Demencja i ch. neurodegeneracyjne',   file: 'wiki/geropsychologia/demencja.md'                   },
-        { id: 'geropsychologia/depresja_starszych',         label: 'Depresja u osob starszych',           file: 'wiki/geropsychologia/depresja_starszych.md'         },
-        { id: 'geropsychologia/jakosc_zycia_starszych',     label: 'Jakosc zycia w starości',             file: 'wiki/geropsychologia/jakosc_zycia_starszych.md'     },
-        { id: 'geropsychologia/aktywnosc_poznawcza',        label: 'Aktywnosc poznawcza i trening umyslu',file: 'wiki/geropsychologia/aktywnosc_poznawcza.md'        },
-        { id: 'geropsychologia/umieranie_smierc',           label: 'Psychologia umierania i smierci',     file: 'wiki/geropsychologia/umieranie_smierc.md'           },
-        { id: 'geropsychologia/relacje_spoleczne_starszych',label: 'Relacje społeczne i wsparcie rodziny',file: 'wiki/geropsychologia/relacje_spoleczne_starszych.md'},
-        { id: 'geropsychologia/adaptacja_do_starosci',      label: 'Adaptacja do starości i rezyliencja', file: 'wiki/geropsychologia/adaptacja_do_starosci.md'      },
-        { id: 'geropsychologia/interwencje_terapeutyczne',  label: 'Interwencje terapeutyczne',           file: 'wiki/geropsychologia/interwencje_terapeutyczne.md'  },
-        { id: 'geropsychologia/opieka_nad_opiekunami',      label: 'Wypalenie i wsparcie opiekunów',      file: 'wiki/geropsychologia/opieka_nad_opiekunami.md'      },
+        { id: 'geropsychologia/wprowadzenie', label: 'Psychologia starzenia się i późnej dorosłości', file: 'wiki/geropsychologia/wprowadzenie.md' },
+        { id: 'geropsychologia/poznanie_i_zdrowie_psychiczne_w_starosci', label: 'Funkcje poznawcze i zdrowie psychiczne', file: 'wiki/geropsychologia/poznanie_i_zdrowie_psychiczne_w_starosci.md' },
+        { id: 'geropsychologia/pomoc_psychologiczna_i_opieka_w_starosci', label: 'Pomoc psychologiczna, opieka i koniec życia', file: 'wiki/geropsychologia/pomoc_psychologiczna_i_opieka_w_starosci.md' },
       ]
     },
     { /* Neuroroznorodnosc i neurodiversity */
@@ -1658,18 +1660,10 @@ window.SITE_CONFIG = {
       { file: 'wiki/reference/article_template.md', label: 'Zalecany wzorzec artykułu', status: 'live' },
     ],
     geropsychology: [
-      { file: 'wiki/geropsychologia/wprowadzenie.md',               label: 'Psychologia starości',  status: 'live' },
-      { file: 'wiki/geropsychologia/starzenie_poznawcze.md',        label: 'Starzenie sie poznawcze',              status: 'live' },
-      { file: 'wiki/geropsychologia/demencja.md',                   label: 'Demencja i choroby neurodegeneracyjne',status: 'live' },
-      { file: 'wiki/geropsychologia/depresja_starszych.md',         label: 'Depresja u osob starszych',            status: 'live' },
+      { file: 'wiki/geropsychologia/wprowadzenie.md', label: 'Psychologia starzenia się i późnej dorosłości', status: 'live' },
       { file: 'wiki/relacje/samotnosc.md', label: 'Samotność i izolacja społeczna w późnej dorosłości', status: 'xlink' },
-      { file: 'wiki/geropsychologia/jakosc_zycia_starszych.md',     label: 'Jakosc zycia w starości',              status: 'live' },
-      { file: 'wiki/geropsychologia/aktywnosc_poznawcza.md',        label: 'Aktywnosc poznawcza i trening umyslu', status: 'live' },
-      { file: 'wiki/geropsychologia/umieranie_smierc.md',           label: 'Psychologia umierania i smierci',      status: 'live' },
-      { file: 'wiki/geropsychologia/relacje_spoleczne_starszych.md',label: 'Relacje społeczne i wsparcie rodziny', status: 'live' },
-      { file: 'wiki/geropsychologia/adaptacja_do_starosci.md',      label: 'Adaptacja do starości i rezyliencja',  status: 'live' },
-      { file: 'wiki/geropsychologia/interwencje_terapeutyczne.md',  label: 'Interwencje terapeutyczne',            status: 'live' },
-      { file: 'wiki/geropsychologia/opieka_nad_opiekunami.md',      label: 'Wypalenie i wsparcie opiekunow',       status: 'live' },
+      { file: 'wiki/geropsychologia/poznanie_i_zdrowie_psychiczne_w_starosci.md', label: 'Funkcje poznawcze i zdrowie psychiczne', status: 'live' },
+      { file: 'wiki/geropsychologia/pomoc_psychologiczna_i_opieka_w_starosci.md', label: 'Pomoc psychologiczna, opieka i koniec życia', status: 'live' },
     ],
     game_psychology: [
       { file: 'wiki/psychologia_gier/wprowadzenie.md', label: 'Motywacja i doświadczenie gracza', status: 'live' },
@@ -2700,38 +2694,10 @@ window.SITE_CONFIG = {
         {
           title: 'Podstawy i wprowadzenie',
           articles: [
-            { label: 'Psychologia starości',                  id: 'geropsychologia/wprowadzenie',           status: 'live' },
-            { label: 'Starzenie sie poznawcze',               id: 'geropsychologia/starzenie_poznawcze',    status: 'live' },
-          ]
-        },
-        {
-          title: 'Zaburzenia i choroby',
-          articles: [
-            { label: 'Demencja i choroby neurodegeneracyjne', id: 'geropsychologia/demencja',               status: 'live' },
-            { label: 'Depresja u osob starszych',             id: 'geropsychologia/depresja_starszych',     status: 'live' },
-          ]
-        },
-        {
-          title: 'Funkcjonowanie społeczne i jakosc zycia',
-          articles: [
+            { label: 'Psychologia starzenia się i późnej dorosłości', id: 'geropsychologia/wprowadzenie', status: 'live' },
             { label: 'Samotność i izolacja społeczna w późnej dorosłości', id: 'relacje/samotnosc', status: 'xlink' },
-            { label: 'Jakosc zycia w starości',               id: 'geropsychologia/jakosc_zycia_starszych', status: 'live' },
-            { label: 'Relacje społeczne i wsparcie rodziny',  id: 'geropsychologia/relacje_spoleczne_starszych', status: 'live' },
-          ]
-        },
-        {
-          title: 'Aktywnosc i adaptacja',
-          articles: [
-            { label: 'Aktywnosc poznawcza i trening umyslu',  id: 'geropsychologia/aktywnosc_poznawcza',    status: 'live' },
-            { label: 'Adaptacja do starości i rezyliencja',   id: 'geropsychologia/adaptacja_do_starosci',  status: 'live' },
-          ]
-        },
-        {
-          title: 'Interwencje i opieka',
-          articles: [
-            { label: 'Interwencje terapeutyczne',             id: 'geropsychologia/interwencje_terapeutyczne', status: 'live' },
-            { label: 'Psychologia umierania i smierci',       id: 'geropsychologia/umieranie_smierc',       status: 'live' },
-            { label: 'Wypalenie i wsparcie opiekunów',        id: 'geropsychologia/opieka_nad_opiekunami',  status: 'live' },
+            { label: 'Funkcje poznawcze i zdrowie psychiczne', id: 'geropsychologia/poznanie_i_zdrowie_psychiczne_w_starosci', status: 'live' },
+            { label: 'Pomoc psychologiczna, opieka i koniec życia', id: 'geropsychologia/pomoc_psychologiczna_i_opieka_w_starosci', status: 'live' },
           ]
         },
       ]

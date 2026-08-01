@@ -37,7 +37,7 @@ Znaczenie mają zdarzenia życiowe, jakość wcześniejszych więzi, ubóstwo, d
 
 ### Związki korelacyjne
 
-Badania obserwacyjne wiążą samotność i izolację społeczną z objawami [depresji](/wiki/geropsychologia/depresja_starszych.html), gorszym snem, słabszym funkcjonowaniem poznawczym, chorobami sercowo-naczyniowymi i umieralnością. W metaanalizie Holt-Lunstad i współpracowników (2015) skorygowane ryzyko zgonu było wyższe o **26% dla samotności**, **29% dla izolacji społecznej** i **32% dla mieszkania w pojedynkę**. Są to wyniki zbiorcze dla badanych populacji, a nie prognoza dla konkretnej osoby; autorzy nie wykazali też, że te trzy wskaźniki są tym samym zjawiskiem.
+Badania obserwacyjne wiążą samotność i izolację społeczną z objawami [depresji](/wiki/geropsychologia/poznanie_i_zdrowie_psychiczne_w_starosci.html), gorszym snem, słabszym funkcjonowaniem poznawczym, chorobami sercowo-naczyniowymi i umieralnością. W metaanalizie Holt-Lunstad i współpracowników (2015) skorygowane ryzyko zgonu było wyższe o **26% dla samotności**, **29% dla izolacji społecznej** i **32% dla mieszkania w pojedynkę**. Są to wyniki zbiorcze dla badanych populacji, a nie prognoza dla konkretnej osoby; autorzy nie wykazali też, że te trzy wskaźniki są tym samym zjawiskiem.
 
 Takie zależności nie dowodzą samodzielnie przyczynowości. Choroba może ograniczać kontakt i zwiększać samotność, samotność może wpływać na zachowania zdrowotne i reakcje stresowe, a oba zjawiska mogą wynikać ze wspólnych uwarunkowań, na przykład ubóstwa lub utraty sprawności. Popularne porównania samotności z paleniem papierosów nadmiernie upraszczają różne rodzaje dowodów i nie powinny zastępować oceny bezwzględnego ryzyka.
 
@@ -86,7 +86,7 @@ Nie każda strata roli wywołuje samotność. Znaczenie ma to, czy osoba może z
 
 ### Sytuacja opiekunów
 
-Samotność dotyczy również opiekunów nieformalnych. Intensywna opieka nad osobą z chorobą przewlekłą lub [otępieniem](/wiki/geropsychologia/demencja.html) może ograniczać czas, mobilność i podtrzymywanie własnych relacji. Zmiana dotychczasowej wzajemności w relacji z bliskim może ponadto nasilać samotność emocjonalną mimo stałej fizycznej obecności podopiecznego. Ocena powinna więc obejmować sieć opiekuna, możliwość odpoczynku, dostęp do opieki zastępczej i [wsparcie opiekunów](/wiki/geropsychologia/opieka_nad_opiekunami.html), bez zakładania, że sama rodzina zapewnia wystarczającą pomoc (National Academies of Sciences, Engineering, and Medicine, 2016).
+Samotność dotyczy również opiekunów nieformalnych. Intensywna opieka nad osobą z chorobą przewlekłą lub [otępieniem](/wiki/geropsychologia/poznanie_i_zdrowie_psychiczne_w_starosci.html) może ograniczać czas, mobilność i podtrzymywanie własnych relacji. Zmiana dotychczasowej wzajemności w relacji z bliskim może ponadto nasilać samotność emocjonalną mimo stałej fizycznej obecności podopiecznego. Ocena powinna więc obejmować sieć opiekuna, możliwość odpoczynku, dostęp do opieki zastępczej i [wsparcie opiekunów](/wiki/geropsychologia/pomoc_psychologiczna_i_opieka_w_starosci.html), bez zakładania, że sama rodzina zapewnia wystarczającą pomoc (National Academies of Sciences, Engineering, and Medicine, 2016).
 
 ## Wnioski
 

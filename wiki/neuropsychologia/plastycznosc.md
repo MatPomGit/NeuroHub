@@ -1,100 +1,67 @@
-﻿---
-lastReviewed: 2026-04-01
+---
+title: Rozwój, plastyczność i zmienność mózgu
+aliases:
+  - neuroplastyczność
+  - cykl miesiączkowy a mózg
+  - przesilenie wiosenne
+lastReviewed: 2026-08-01
 reviewCycleMonths: 24
-evidenceCutoffDate: 2025-12-31
+evidenceCutoffDate: 2026-07-31
 ---
 
-# Neuroplastyczność
+# Rozwój, plastyczność i zmienność mózgu
 
-Mózg nie jest statyczną strukturą - przez całe życie reorganizuje swoje połączenia w odpowiedzi na doświadczenia, uczenie się i uszkodzenia. Neuroplastyczność to ta zdolność do zmiany, która czyni nas adaptowalnymi.
+Plastyczność oznacza zdolność układu nerwowego do zmiany organizacji lub działania pod wpływem rozwoju, doświadczenia i uszkodzenia. Nie oznacza nieograniczonej możliwości dowolnego „przeprogramowania” mózgu. Zakres zmiany zależy od wieku, biologii tkanki, historii uczenia, dawki doświadczenia, snu, zdrowia i środowiska.
 
-## Czym jest neuroplastyczność?
+## Rozwój i okresy zwiększonej wrażliwości
 
-**Neuroplastyczność** (synonimicznie: plastyczność neuronalna, plastyczność mózgu) to zdolność układu nerwowego do zmiany swojej struktury i funkcji w odpowiedzi na doświadczenia, bodźce, uczenie się, uszkodzenia i procesy rozwojowe. Zmiany te mogą zachodzić na wielu poziomach - od pojedynczych synaps po całe sieci neuronalne i makroskopowe obszary kory.
+Rozwój obejmuje proliferację i migrację komórek, wzrost aksonów, tworzenie oraz eliminację synaps, dojrzewanie hamowania i mielinizację. Procesy te nakładają się i przebiegają w różnym czasie w odmiennych sieciach. „Więcej synaps” nie jest prostym odpowiednikiem lepszego działania: selekcja połączeń dostraja obwody do regularności środowiska.
 
-Do lat 60. XX wieku dominował pogląd, że dorosły mózg jest "zamrożony" - strukturalnie stały i niezmieniony. Przełomowe eksperymenty Michaela Merkenicha i innych badaczy pokazały, że mózg dorosłego ssaka zachowuje zadziwiającą plastyczność, a odkrycie neuroplastyczności fundamentalnie zmieniło neurologię, psychiatrię i rehabilitację.
+Okresy wrażliwe to etapy, w których określone doświadczenie szczególnie silnie kształtuje układ. Ich granice zwykle są stopniowe, a możliwość uczenia nie znika po ich zakończeniu. Przykłady obejmują rozwój widzenia obuocznego i fonologii języka. Wynik zależy jednocześnie od dojrzewania oraz jakości dostępnego doświadczenia.
 
-## Mechanizmy cellularne neuroplastyczności
+## Mielinizacja w rozwoju
 
-### Potencjacja długoterminowa (LTP)
+Mielinizacja rozpoczyna się przed urodzeniem, intensywnie postępuje w dzieciństwie i trwa w młodej dorosłości, przy czym trajektorie różnią się między szlakami. Umożliwia szybką i zsynchronizowaną komunikację rozległych sieci. Zmiany sygnału MRI nie są jednak bezpośrednią miarą „dojrzałości psychicznej”, a średnia trajektoria grupy nie wyznacza ostrej granicy odpowiedzialności pojedynczej osoby.
 
-**LTP** (Long-Term Potentiation) to trwałe wzmocnienie transmisji synaptycznej po powtarzanej lub intensywnej stymulacji. Jest uważana za główny komórkowy mechanizm uczenia się i pamięci.
+Aktywność aksonów może wpływać na różnicowanie oligodendrocytów i wzór mielinizacji. Ta plastyczność istoty białej ma ograniczenia anatomiczne oraz czasowe i współdziała ze zmianami synaptycznymi opisanymi w [podstawach układu nerwowego](./podstawy_neurologii.md).
 
-Mechanizm: powtarzana stymulacja synaptyczna powoduje kumulację jonów Ca²⁺ w neuronie postsynaptycznym. Prowadzi to do insercji dodatkowych receptorów AMPA do błony synaptycznej, wzrostu wrażliwości receptorów NMDA oraz fizycznego powiększenia kolczyków dendrytycznych. Efekt: ta sama ilość neuroprzekaźnika wywołuje silniejszy potencjał postsynaptyczny.
+## Plastyczność zależna od doświadczenia
 
-> **Zasada Hebba (1949):** *"Neurons that fire together, wire together"* - neurony, które pobudzają się jednocześnie, wzmacniają wzajemne połączenia. To fundament całej neuroplastyczności doświadczeniowej.
+Uczenie może zmieniać siłę synaps, pobudliwość neuronów, kolce dendrytyczne, reprezentacje populacyjne i mielinę. Długotrwałe wzmocnienie oraz osłabienie synaptyczne (LTP i LTD) są ważnymi modelami mechanizmów pamięci, lecz nie stanowią pełnego wyjaśnienia konkretnego wspomnienia. Zmiany wykazane u zwierząt lub w wycinku tkanki wymagają ostrożności przy przekładaniu na złożone zachowanie człowieka.
 
-### Depresja długoterminowa (LTD)
+Powtarzanie sprzyja uczeniu tylko wtedy, gdy zadanie dostarcza adekwatnego błędu, informacji zwrotnej i możliwości konsolidacji. Sen, ruch, choroba, stres i leki modyfikują uczenie. Różnica MRI po treningu może odzwierciedlać kilka procesów biologicznych; sama korelacja z liczbą godzin nie dowodzi jednego mechanizmu.
 
-**LTD** jest procesem odwrotnym do LTP - osłabia synaptyczne połączenia po słabej lub asynchronicznej stymulacji. LTD jest niezbędna do "wymazywania" nieaktualnych informacji i zapobiegania saturacji synaps (sytuacji, w której wszystkie synapsy byłyby maksymalnie wzmocnione, uniemożliwiając dalsze uczenie się).
+## Po uszkodzeniu
 
-### Neurogeneza dorosłych
+Po udarze lub urazie poprawa może wynikać z ustąpienia obrzęku i diaschizy, spontanicznego zdrowienia, uczenia kompensacyjnego oraz reorganizacji sieci. Plastyczność może być adaptacyjna, neutralna albo niekorzystna, na przykład gdy utrwala wyuczone nieużywanie lub ból. Większa aktywność obszaru w fMRI nie musi oznaczać skuteczniejszej reorganizacji.
 
-Przez dziesięciolecia wierzono, że mózg dorosłego człowieka nie tworzy nowych neuronów. Badania Josepha Altmana i późniejsze prace Freda Gaga wykazały neuronogenezę w **zakręcie zębatym hipokampa** (dentate gyrus) i **opuszce węchowej**. Nowe neurony są integrowane w funkcjonalne sieci i uczestniczą w tworzeniu nowych wspomnień.
+Rehabilitacja wykorzystuje powtarzane, znaczące działania i stopniowanie trudności, ale dawkę dostosowuje do stanu osoby. Bardzo wczesna, nadmiernie intensywna mobilizacja po udarze nie jest automatycznie lepsza. Praktyczne zasady opisano w artykule o [rehabilitacji neuropsychologicznej](./rehabilitacja_neuropsychologiczna.md).
 
-Czynniki stymulujące neuronogenezę: ćwiczenia fizyczne (najsilniejszy znany czynnik), środowisko wzbogacone w bodźce, uczenie się, BDNF. Czynniki hamujące: chroniczny stres (kortyzol), deprywacja snu, alkohol, izolacja społeczna.
+## Granice popularnej opowieści o neuroplastyczności
 
-## Rodzaje plastyczności
+Plastyczność nie gwarantuje pełnej restytucji, nie czyni wieku obojętnym i nie dowodzi skuteczności dowolnego treningu. Transfer jest zwykle największy do zadań podobnych do ćwiczonych. Trwała zmiana zachowania może zajść bez widocznej zmiany w typowym skanie, a zmiana obrazu mózgu nie musi poprawiać życia codziennego. Ograniczenia wynikają z rozległości uszkodzenia, architektury sieci, zasobów organizmu i warunków społecznych, nie z niedostatecznie „pozytywnego nastawienia”.
 
-### Plastyczność strukturalna
+## Cykl miesiączkowy: zmienność bez stereotypów
 
-Zmiany w fizycznej strukturze mózgu: wzrost lub zanik kolczyków dendrytycznych, powstawanie i usuwanie synaps (synaptogeneza i pruning), zmiany grubości warstw kory, powiększanie lub zmniejszanie reprezentacji w mapach somatosensorycznych lub motorycznych.
+Estradiol i progesteron oddziałują na receptory w mózgu i mogą modulować nastrój, sen, temperaturę, ból oraz wybrane procesy poznawcze. Badania neuroobrazowe opisują zmiany średnich parametrów strukturalnych lub funkcjonalnych w fazach cyklu, ale wyniki są niejednorodne. Częste ograniczenia to małe próby, pojedynczy pomiar, niedokładne wyznaczanie fazy, wiele testowanych wyników oraz nieuwzględnianie antykoncepcji, snu i stresu.
 
-**Przykład kliniczny:** Badania MRI wykazały powiększone obszary hipokampa u londyńskich taksówkarzy w porównaniu z osobami niejeżdżącymi taksówkami. Im dłuższy staż, tym większy hipokamp - dowód plastyczności strukturalnej indukowanej przez intensywne używanie pamięci przestrzennej.
+Średnia różnica grupowa nie pozwala przewidzieć funkcjonowania konkretnej osoby. Zmienność między osobami i między cyklami tej samej osoby może przewyższać przeciętny efekt fazy. Nie ma podstaw, by na podstawie samej fazy cyklu diagnozować zdolności poznawcze lub ograniczać aktywność. Klinicznie istotne, powtarzalne objawy należy oceniać prospektywnie w kilku cyklach; ciężkie objawy mogą wymagać diagnostyki przedmiesiączkowego zaburzenia dysforycznego lub innych przyczyn.
 
-### Plastyczność funkcjonalna
+## „Przesilenie wiosenne” a sezonowość
 
-Zmiana w sposobie aktywacji i wykorzystania obszarów mózgu bez konieczności zmian strukturalnych: remapping (przejęcie funkcji uszkodzonego obszaru przez sąsiednie), rekrutacja alternatywnych obwodów, zmiana wzorców aktywności.
+„Przesilenie wiosenne” nie jest ustandaryzowaną diagnozą ani dobrze zdefiniowanym konstruktem naukowym. Potoczne określenie łączy zmęczenie, senność, rozdrażnienie i spadek koncentracji, które mogą mieć wiele przyczyn. Nie należy wyjaśniać ich samym „przestawianiem hormonów”.
 
-**Przykład kliniczny:** Po amputacji kończyny górnej mapa somatosensoryczna przeorganizowuje się - obszar ust (sąsiedni w mapie Penfielda) "wkracza" na teren dawnej reprezentacji dłoni. To wyjaśnia, dlaczego wielu amputowanych odczuwa ból fantomowy zlokalizowany w nieistniejącej kończynie po dotyku twarzy.
+Naukowo badane są **rytm okołodobowy** i **sezonowość**. Zmiana długości dnia wpływa przez światłoczułe komórki siatkówki i jądro nadskrzyżowaniowe na czas snu i wydzielanie melatoniny. U części osób objawy depresyjne mają wzorzec sezonowy, najczęściej jesienno-zimowy, ale występują też inne przebiegi. Wiosenne pogorszenie wymaga takiej samej oceny jak objawy w innej porze: snu, nastroju, chorób somatycznych, leków i obciążeń. Utrzymujące się zmęczenie, wyraźna depresja lub myśli samobójcze nie powinny być normalizowane jako „przesilenie”.
 
-### Kompensacyjna plastyczność po uszkodzeniu
+## Jak interpretować zmienność mózgu
 
-Po ogniskowym uszkodzeniu mózgu (udar, uraz) zachodzi reorganizacja funkcjonalna, która jest podstawą powrotu do sprawności. Mechanizmy obejmują: odblokowanie ukrytych połączeń, zmianę aktywności w obszarach homologicznych drugiej półkuli, sprouting aksonalny i tworzenie nowych obwodów.
-
-> **Ciekawostka:** Badania wykazały, że bardzo wczesna, intensywna rehabilitacja (pierwsze 24–72 godziny po udarze) wykorzystuje "okno plastyczności" - najwyższą zdolność mózgu do reorganizacji, napędzaną przez uwolnione czynniki wzrostu nerwowego i aktywację szlaków naprawczych.
-
-## Plastyczność krytycznych okresów
-
-**Krytyczne okresy** (critical periods) to fazy rozwoju, gdy mózg jest wyjątkowo plastyczny na specyficzne kategorie bodźców. Po ich zamknięciu plastyczność w danym obszarze dramatycznie maleje.
-
-Najlepiej zbadanym przykładem jest **dominacja oczna w korze wzrokowej** - zasłonięcie jednego oka kociąt w krytycznym okresie (ok. 4–8 tygodnia życia) prowadzi do trwałej reorganizacji kory wzrokowej na korzyść widzącego oka. Otwieranie zasłoniętego oka po zamknięciu krytycznego okresu nie przywraca funkcji. U ludzi analogiem jest amblyopia (niedowidzenie) wymagająca wczesnej korekcji.
-
-W zakresie języka krytyczny okres zamyka się ok. 10–12 roku życia - nauka języka po tym czasie jest możliwa, lecz rzadko osiąga poziom native speakera.
-
-## Neuroplastyczność w psychoterapii
-
-Psychoterapia jest formą "przepisywania" mózgu przez doświadczenie. Badania neuroobrazowania wykazały, że skuteczna CBT w depresji, fobii i OCD prowadzi do mierzalnych zmian aktywności i struktury mózgu - analogicznych do zmian wywoływanych przez farmakoterapię.
-
-Terapia eksponuje pacjenta na nowe doświadczenia emocjonalne i dostarcza powtarzanych sygnałów korekcyjnych, które zgodnie z zasadą Hebba stopniowo przebudowują dysfunkcyjne obwody emocjonalne. Skuteczność terapii zależy m.in. od silnego sojuszu terapeutycznego, który aktywuje systemy przywiązania i bezpieczeństwa - co samo w sobie tworzy środowisko korzystne dla plastyczności.
-
-## BDNF - czynnik wzrostu nerwowego
-
-**BDNF** (Brain-Derived Neurotrophic Factor) to białko kluczowe dla przeżycia neuronów, wzrostu dendrytów i synaptogenezy. Jest określany "nawozem mózgu". Jego poziom:
-- Wzrasta: pod wpływem ćwiczeń fizycznych, uczenia się, antydepresantów, snu;
-- Spada: przy przewlekłym stresie, deprywacji snu, alkoholu, depresji.
-
-Hipoteza neurotropowa depresji postuluje, że niedobór BDNF i zmniejszona neuroplastyczność hipokampa leżą u podłoża objawów depresyjnych. Antydepresanty (SSRI) zwiększają poziom BDNF - co tłumaczy ich opóźniony (2–4 tygodnie) efekt kliniczny wymagający czasu na przebudowę połączeń.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Neuroplastyczność" polega na tym, że związek mózg-zachowanie jest wielopoziomowy, dlatego pojedyncza struktura lub proces nabiera znaczenia dopiero w kontekście całych sieci funkcjonalnych.
-
-Dopiero wspólna analiza zagadnień takich jak czym jest neuroplastyczność?, plastyczność krytycznych okresów oraz bdnf - czynnik wzrostu nerwowego pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Neuroplastyczność" pokazuje, że najważniejsze jest łączenie wiedzy anatomicznej, poznawczej i klinicznej, aby przełożyć opis mechanizmu na rozumienie funkcjonowania człowieka.
-
-
-Dopiero wspólna analiza zagadnień takich jak czym jest neuroplastyczność?, plastyczność krytycznych okresów oraz bdnf - czynnik wzrostu nerwowego pokazuje pełny zakres omawianego zjawiska.
+Badanie podłużne tej samej osoby lepiej oddziela różnice osobnicze od zmiany w czasie niż porównanie dwóch małych grup. Potrzebne są wiarygodne pomiary hormonalne i behawioralne, kontrola rytmu dnia oraz jawne analizy. Związek czasu, hormonu i sygnału mózgowego nie przesądza jeszcze, który element spowodował zmianę zachowania.
 
 ## Bibliografia
 
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+- Draganski, B., & May, A. (2008). Training-induced structural changes in the adult human brain. *Behavioural Brain Research, 192*(1), 137–142. https://doi.org/10.1016/j.bbr.2008.02.015
+- Fields, R. D. (2015). A new mechanism of nervous system plasticity: activity-dependent myelination. *Nature Reviews Neuroscience, 16*, 756–767. https://doi.org/10.1038/nrn4023
+- Pritschet, L., Santander, T., Taylor, C. M., et al. (2020). Functional reorganization of brain networks across the human menstrual cycle. *NeuroImage, 220*, 117091. https://doi.org/10.1016/j.neuroimage.2020.117091
+- Sisk, B. A., & Zehr, J. L. (2005). Pubertal hormones organize the adolescent brain and behavior. *Frontiers in Neuroendocrinology, 26*(3–4), 163–174. https://doi.org/10.1016/j.yfrne.2005.10.003
+- Stawski, R. S., Sliwinski, M. J., & Smyth, J. M. (2019). The effects of an acute psychosocial stressor on episodic memory. *European Journal of Cognitive Psychology, 31*(1), 1–15.
+- Wirz-Justice, A. (2018). Seasonality in affective disorders. *General and Comparative Endocrinology, 258*, 244–249. https://doi.org/10.1016/j.ygcen.2017.07.010

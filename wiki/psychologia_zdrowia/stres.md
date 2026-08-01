@@ -1,93 +1,66 @@
 ---
-lastReviewed: 2026-07-30
+title: Stres, radzenie sobie i wsparcie społeczne
+aliases: [radzenie sobie ze stresem]
+lastReviewed: 2026-08-01
 reviewCycleMonths: 24
-evidenceCutoffDate: 2025-12-31
+evidenceCutoffDate: 2026-07-31
 ---
 
-# Stres i zdrowie
+# Stres, radzenie sobie i wsparcie społeczne
 
-Stres nie jest pojedynczym bodźcem ani synonimem zdenerwowania. To pojęcie obejmujące ocenę znaczenia wymagań, skoordynowaną odpowiedź psychofizjologiczną i proces adaptacji. Krótkotrwała mobilizacja może pomagać w działaniu; ryzyko zdrowotne wiąże się przede wszystkim z częstą, długą albo nieadekwatnie wygaszaną aktywacją oraz z brakiem regeneracji.
+**Stres** oznacza proces uruchamiany, gdy wymagania istotne dla dobrostanu są oceniane jako obciążające lub przekraczające zasoby. Nie jest ani samym bodźcem, ani wyłącznie reakcją organizmu. Model transakcyjny opisuje zmienną relację między osobą a otoczeniem (Lazarus i Folkman, 1984).
 
-## Cztery pojęcia, których nie należy utożsamiać
+## Ocena poznawcza i reakcja
 
-| Pojęcie | Znaczenie | Przykład |
-|---|---|---|
-| **Stresor** | Zdarzenie lub warunek stawiający wymagania organizmowi. Może być fizyczny, psychologiczny albo społeczny. | Ból, egzamin, konflikt lub hałas. |
-| **Reakcja stresowa** | Zespół zmian autonomicznych, hormonalnych, poznawczych, emocjonalnych i behawioralnych uruchamianych wobec wymagania. | Przyspieszenie tętna, wzrost czujności i chęć uniknięcia sytuacji. |
-| **Stres psychologiczny** | W modelu transakcyjnym: relacja osoby z otoczeniem oceniana jako obciążająca lub przekraczająca zasoby i zagrażająca dobrostanowi. | Ta sama rozmowa jest dla jednej osoby wyzwaniem, a dla innej zagrożeniem. |
-| **Obciążenie allostatyczne** | Skumulowany koszt wielokrotnego lub długotrwałego dostosowywania układów fizjologicznych. Jest konstruktem wieloukładowym, a nie nazwą pojedynczego objawu ani jednego wyniku kortyzolu. | Utrwalone zaburzenia regulacji ciśnienia, metabolizmu i odpowiedzi zapalnej oceniane łącznie za pomocą zestawu wskaźników. |
+W **ocenie pierwotnej** sytuacja może zostać uznana za krzywdę, zagrożenie, wyzwanie lub nieistotną. **Ocena wtórna** dotyczy możliwości działania: kontroli, umiejętności, czasu i pomocy. Ponowna ocena zachodzi, gdy napływają nowe informacje. „Poznawcza” nie oznacza chłodnej, w pełni świadomej kalkulacji; ocena obejmuje znaczenie emocjonalne i może być szybka.
 
-**Allostaza** oznacza osiąganie stabilności przez zmianę: organizm dostosowuje pracę układów do aktualnych wymagań. Obciążenie allostatyczne opisuje cenę nadmiernego używania tych mechanizmów, ich niedostatecznego wygaszania albo nieskoordynowanej odpowiedzi poszczególnych układów (McEwen, 1998; McEwen i Stellar, 1993).
+Reakcja stresowa angażuje autonomiczny układ nerwowy i oś podwzgórze–przysadka–nadnercza. Krótkotrwała mobilizacja wspiera działanie. Częste lub długie obciążenie bez regeneracji może współtworzyć obciążenie allostatyczne, lecz pojedynczy pomiar kortyzolu nie jest prostym „miernikiem stresu” (McEwen, 1998).
 
-## Model transakcyjny stresu
+## Cztery konteksty stresu
 
-Lazarus i Folkman (1984) ujmują stres jako dynamiczną transakcję między osobą a środowiskiem. Znaczenie ma nie tylko obiektywna właściwość sytuacji, lecz także cele jednostki, jej dotychczasowe doświadczenia, dostępne zasoby i możliwość wpływu. Ocena nie musi być w pełni świadoma i może zmieniać się wraz z napływem informacji.
+- **Stres ostry** pojawia się wobec krótkiego wymagania, np. zabiegu lub egzaminu, i zwykle ustępuje po zakończeniu sytuacji.
+- **Stres przewlekły** wiąże się z długotrwałym ubóstwem, opieką, konfliktem, dyskryminacją albo chorobą. Brak wyraźnego końca utrudnia regenerację.
+- **Stres traumatyczny** następuje po ekspozycji na śmierć, zagrożenie śmiercią, poważny uraz lub przemoc seksualną. Silna reakcja bezpośrednio po zdarzeniu może być zrozumiała i nie oznacza automatycznie PTSD; rozpoznanie wymaga określonego układu oraz czasu trwania objawów.
+- **Stres zawodowy** powstaje przy niedopasowaniu wymagań i zasobów pracy, m.in. małej kontroli, konflikcie ról, niepewności i niesprawiedliwości. Nie jest problemem wyłącznie indywidualnej odporności.
 
-### Ocena pierwotna
+Kategorie mogą się nakładać, lecz nie są wymienne. Interwencja po jednorazowym zdarzeniu różni się od zmiany chronicznie szkodliwej organizacji pracy.
 
-W ocenie pierwotnej osoba rozpoznaje, czy zdarzenie jest:
+## Radzenie sobie jako proces
 
-- **nieistotne** dla jej dobrostanu;
-- **sprzyjające** lub korzystne;
-- **stresujące**, ponieważ oznacza już poniesioną szkodę lub stratę, zapowiada zagrożenie albo stwarza wyzwanie.
+Radzenie sobie obejmuje zmienne wysiłki poznawcze i behawioralne służące zarządzaniu wymaganiami (Lazarus i Folkman, 1984):
 
-Zagrożenie i wyzwanie nie muszą się wykluczać. Wyzwanie oznacza dostrzeganie możliwości opanowania sytuacji, uczenia się lub zysku, nie zaś brak pobudzenia.
+- strategie ukierunkowane na problem zmieniają sytuację, np. zdobycie informacji lub negocjowanie obowiązków;
+- strategie ukierunkowane na emocje regulują przeżycie, np. nazwanie emocji, odpoczynek czy reinterpretacja;
+- strategie ukierunkowane na znaczenie pomagają podtrzymać wartości i cele;
+- unikanie może krótkotrwale chronić przed przeciążeniem, lecz utrwalone bywa kosztowne, gdy opóźnia leczenie albo rozwiązywanie problemu.
 
-### Ocena wtórna i ponowna ocena
+Nie ma strategii zawsze „dojrzałej”. Planowanie pomaga przy wymaganiu możliwym do zmiany, natomiast przy nieodwracalnej stracie ważniejsze mogą być regulacja emocji, akceptacja i wsparcie. O skuteczności świadczy dopasowanie do sytuacji, elastyczność oraz skutki krótko- i długoterminowe (Bonanno i Burton, 2013).
 
-Ocena wtórna dotyczy możliwości działania: „Co mogę zrobić, jakie mam zasoby i jakie będą skutki poszczególnych działań?”. Obejmuje postrzeganą kontrolę, własną skuteczność, czas, wiedzę, wsparcie społeczne i dostępne strategie radzenia sobie. Określenie „wtórna” nie oznacza, że zawsze zachodzi później; oceny pierwotna i wtórna wzajemnie na siebie oddziałują.
+## Wsparcie społeczne
 
-**Ponowna ocena** to aktualizacja znaczenia sytuacji pod wpływem nowych danych lub rezultatu radzenia sobie. Dzięki temu transakcja ma charakter pętli: ocena kieruje działaniem, działanie zmienia sytuację, a zmieniona sytuacja podlega kolejnej ocenie. Model nie głosi zatem, że „wszystko zależy od nastawienia”. Rzeczywiste zagrożenia, nierówności i ograniczenia zasobów pozostają istotnymi składnikami transakcji.
+Wsparcie może być emocjonalne, informacyjne, praktyczne lub polegać na towarzystwie. Należy rozróżnić zasoby sieci, wsparcie spostrzegane jako dostępne i pomoc rzeczywiście otrzymaną. Nie są to równoważne miary.
 
-## Dwa główne ramiona reakcji stresowej
+Hipoteza **efektu głównego** zakłada korzyści z integracji społecznej niezależnie od stresu. Hipoteza **buforowania** przewiduje, że wsparcie szczególnie chroni przy dużym obciążeniu (Cohen i Wills, 1985). Pomoc niedopasowana, kontrolująca lub naruszająca autonomię może nie pomagać. Warto więc pytać: „Jakiego rodzaju pomocy teraz potrzebujesz?”, zamiast zakładać, że każda interakcja jest wspierająca.
 
-Odpowiedź na stresor jest koordynowana przez mózg i nie sprowadza się do jednej liniowej „kaskady stresu”. Szczególne znaczenie mają szybki układ współczulno-nadnerczowy (SAM) oraz wolniejsza oś podwzgórze–przysadka–nadnercza (HPA).
+Samotność i izolacja nie są tym samym: pierwsza jest subiektywną rozbieżnością między oczekiwanymi a posiadanymi relacjami, druga opisuje ich obiektywny zakres. Interwencja powinna odpowiadać na właściwy problem.
 
-### Układ SAM: szybka mobilizacja
+## Stres zawodowy a wypalenie
 
-Pobudzenie współczulnego układu nerwowego aktywuje rdzeń nadnerczy i uwalnianie adrenaliny oraz noradrenaliny. W ciągu sekund rosną między innymi częstość pracy serca, ciśnienie i dostępność substratów energetycznych, a przepływ krwi zostaje dostosowany do działania. Jest to część reakcji obronnej, która może obejmować walkę, ucieczkę lub inne wzorce zależne od sytuacji. Równoległe wycofanie wpływu przywspółczulnego także współtworzy zmianę autonomiczną.
+[Wypalenie zawodowe](../rezyliencja_i_mobbing/wypalenie_zawodowe.md) jest odrębnym konstruktem związanym z chronicznym stresem w pracy, którego nie udało się skutecznie opanować. ICD-11 ujmuje je jako zjawisko zawodowe, a nie chorobę: wyczerpanie, dystans lub cynizm wobec pracy oraz obniżone poczucie skuteczności (WHO, 2019). Nie należy nazywać wypaleniem każdego zmęczenia ani stosować tego terminu do wszystkich dziedzin życia.
 
-### Oś HPA i kortyzol
+Pomoc indywidualna może wspierać regenerację i granice, ale nie naprawi trwale nadmiernego obciążenia, przemocy, braku personelu lub sprzecznych ról. Ocena powinna też uwzględniać depresję, zaburzenia lękowe, sen i stan somatyczny bez utożsamiania ich z wypaleniem.
 
-W uproszczonym schemacie neurony podwzgórza uwalniają kortykoliberynę (CRH) i wazopresynę, przysadka wydziela hormon adrenokortykotropowy (ACTH), a kora nadnerczy zwiększa wydzielanie kortyzolu. Kortyzol mobilizuje energię, wpływa na układ krążenia i moduluje aktywność odpornościową. Sprzężenie zwrotne przez receptory glikokortykoidowe pomaga następnie ograniczyć odpowiedź.
+## Dobór interwencji
 
-Kortyzol nie jest prostym „miernikiem ilości stresu”. Ma wyraźny rytm dobowy, zależy od pory pobrania, snu, leków, aktywności i rodzaju stresora. W przewlekłym stresie obserwowano zarówno podwyższenie, jak i spłaszczenie rytmu lub osłabienie reaktywności HPA; kierunek zmiany zależy między innymi od czasu trwania obciążenia i możliwości kontroli (Miller, Chen i Zhou, 2007). Pojedynczy pomiar nie pozwala więc rozpoznać przewlekłego stresu ani obciążenia allostatycznego.
+Najpierw określa się stresor, możliwość kontroli, zasoby i bezpieczeństwo. Przy problemie modyfikowalnym przydatne są planowanie i usuwanie barier; przy chronicznym stresorze społecznym potrzebna bywa zmiana organizacyjna lub pomoc prawna; po traumie priorytetem są bezpieczeństwo i ocena kliniczna. Techniki relaksacyjne mogą regulować pobudzenie, ale nie zastępują usunięcia zagrożenia.
 
-## Mobilizacja ostra a aktywacja przewlekła
-
-| Krótkotrwała odpowiedź | Powtarzana lub przewlekła aktywacja |
-|---|---|
-| Szybko dostarcza energię i zwiększa czujność. | Zwiększa koszt metaboliczny i sercowo-naczyniowy, zwłaszcza bez czasu na regenerację. |
-| Przejściowo zmienia rozmieszczenie komórek odpornościowych i może wspierać wczesną obronę w miejscu potencjalnego urazu. | Może rozregulować odporność: osłabiać niektóre odpowiedzi przeciwwirusowe, a równocześnie sprzyjać przewlekłej aktywności zapalnej lub oporności na sygnały glikokortykoidowe. |
-| Po ustaniu wymagania powinna zostać wygaszona, a zasoby uzupełnione. | Brak wygaszania, powtarzalne stresory lub niedostateczna odpowiedź mogą zwiększać obciążenie allostatyczne. |
-| Wpływ na wykonanie zależy od zadania, natężenia, czasu i interpretacji sytuacji; większe pobudzenie nie zawsze poprawia wynik. | Częściej współwystępuje z zaburzeniami snu, pogorszeniem regulacji emocji i zachowaniami ryzykownymi dla zdrowia. |
-
-Podział na stres „dobry” i „zły” jest zbyt prosty. Nawet silna odpowiedź ostra może być szkodliwa w określonym stanie zdrowia, a nie każda długotrwała trudność prowadzi do choroby. Liczą się dawka, przewidywalność i kontrolowalność stresora, okres rozwojowy, zasoby oraz możliwość odzyskania równowagi.
-
-## Odporność, choroby somatyczne i granice wnioskowania
-
-Metaanaliza badań nad stresem i odpornością wskazuje na zależność od czasu: krótkie stresory wiązały się z przejściowymi zmianami mobilizacyjnymi, natomiast stres długotrwały z szerszym pogorszeniem parametrów odporności komórkowej i humoralnej (Segerstrom i Miller, 2004). Nie oznacza to jednak, że kortyzol po prostu „wyłącza odporność”. Glikokortykoidy regulują odpowiedź immunologiczną, a w chronicznym obciążeniu mogą współistnieć słabsza kontrola niektórych zakażeń oraz nasilona sygnalizacja zapalna (Cohen i in., 2012).
-
-Przewlekły stres wiąże się prospektywnie z większym ryzykiem części chorób somatycznych, szczególnie sercowo-naczyniowych, oraz może wpływać na przebieg istniejących zaburzeń. Drogi oddziaływania są wielorakie: aktywność autonomiczna i hormonalna, zapalenie, sen, aktywność fizyczna, używanie substancji, dieta i dostęp do opieki. Siła i jakość dowodów różnią się między chorobami. Stres zwykle jest jednym z czynników ryzyka, a nie wystarczającą ani konieczną przyczyną nadciśnienia, cukrzycy, zespołu jelita drażliwego, bólu przewlekłego czy zakażenia (O'Connor, Thayer i Vedhara, 2021; Steptoe i Kivimäki, 2012). Takie ujęcie chroni przed obwinianiem chorej osoby za objawy.
-
-## Zasoby, radzenie sobie i regeneracja
-
-Radzenie sobie obejmuje zmienianie problemu, regulowanie emocji i dostosowywanie celów. Skuteczność strategii jest kontekstowa: planowanie pomaga przy sytuacji kontrolowalnej, natomiast akceptacja może być potrzebna przy nieodwracalnej stracie. Wsparcie społeczne, sen, regularny ruch, możliwość wpływu i przewidywalne okresy odpoczynku sprzyjają regeneracji, ale nie zastępują leczenia ani usunięcia rzeczywistego źródła zagrożenia.
-
-Związki stresu z powstawaniem i regulacją emocji omówiono osobno w artykule [Stres a procesy emocjonalne](../emocje/stres_emocje.md).
-
-## Wnioski
-
-Stres jest procesem adaptacyjnym łączącym wymagania środowiska, ocenę poznawczą, zachowanie i fizjologię. Układy SAM i HPA umożliwiają krótkotrwałą mobilizację, lecz ich powtarzana aktywacja bez regeneracji może dokładać się do obciążenia allostatycznego. Ocena ryzyka zdrowotnego wymaga spojrzenia na cały wzorzec ekspozycji i funkcjonowania, a nie na jeden stresor, objaw czy wynik kortyzolu.
+Utrzymujące się objawy, myśli samobójcze, przemoc, znaczne zaburzenie funkcjonowania albo reakcje pourazowe wymagają profesjonalnej oceny. Normalizowanie reakcji nie oznacza pozostawiania osoby bez pomocy.
 
 ## Bibliografia
 
-1. Cohen, S., Janicki-Deverts, D., Doyle, W. J., Miller, G. E., Frank, E., Rabin, B. S., & Turner, R. B. (2012). Chronic stress, glucocorticoid receptor resistance, inflammation, and disease risk. *Proceedings of the National Academy of Sciences, 109*(16), 5995–5999. https://doi.org/10.1073/pnas.1118355109
-2. Dhabhar, F. S. (2014). Effects of stress on immune function: The good, the bad, and the beautiful. *Immunologic Research, 58*, 193–210. https://doi.org/10.1007/s12026-014-8517-0
+1. Bonanno, G. A., & Burton, C. L. (2013). Regulatory flexibility. *Perspectives on Psychological Science, 8*, 591–612. https://doi.org/10.1177/1745691613504116
+2. Cohen, S., & Wills, T. A. (1985). Stress, social support, and the buffering hypothesis. *Psychological Bulletin, 98*, 310–357. https://doi.org/10.1037/0033-2909.98.2.310
 3. Lazarus, R. S., & Folkman, S. (1984). *Stress, Appraisal, and Coping*. Springer.
-4. McEwen, B. S. (1998). Stress, adaptation, and disease: Allostasis and allostatic load. *Annals of the New York Academy of Sciences, 840*, 33–44. https://doi.org/10.1111/j.1749-6632.1998.tb09546.x
-5. McEwen, B. S., & Stellar, E. (1993). Stress and the individual: Mechanisms leading to disease. *Archives of Internal Medicine, 153*(18), 2093–2101. https://doi.org/10.1001/archinte.1993.00410180039004
-6. Miller, G. E., Chen, E., & Zhou, E. S. (2007). If it goes up, must it come down? Chronic stress and the hypothalamic-pituitary-adrenocortical axis in humans. *Psychological Bulletin, 133*(1), 25–45. https://doi.org/10.1037/0033-2909.133.1.25
-7. O'Connor, D. B., Thayer, J. F., & Vedhara, K. (2021). Stress and health: A review of psychobiological processes. *Annual Review of Psychology, 72*, 663–688. https://doi.org/10.1146/annurev-psych-062520-122331
-8. Segerstrom, S. C., & Miller, G. E. (2004). Psychological stress and the human immune system: A meta-analytic study of 30 years of inquiry. *Psychological Bulletin, 130*(4), 601–630. https://doi.org/10.1037/0033-2909.130.4.601
-9. Steptoe, A., & Kivimäki, M. (2012). Stress and cardiovascular disease. *Nature Reviews Cardiology, 9*, 360–370. https://doi.org/10.1038/nrcardio.2012.45
+4. McEwen, B. S. (1998). Protective and damaging effects of stress mediators. *The New England Journal of Medicine, 338*, 171–179. https://doi.org/10.1056/NEJM199801153380307
+5. Southwick, S. M., i in. (2016). Why are some individuals more resilient than others? *World Psychiatry, 15*, 77–79. https://doi.org/10.1002/wps.20282
+6. World Health Organization. (2019). *ICD-11: Burn-out as an occupational phenomenon*.

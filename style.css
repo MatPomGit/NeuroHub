@@ -85,12 +85,12 @@ em{color:var(--goldl)}
 .s-logo-sub{font-size:.6rem;color:var(--t3);text-transform:uppercase;letter-spacing:.12em;margin-top:.05rem}
 
 /* search */
-.s-search{flex-shrink:0;padding:var(--space-2) .85rem;border-bottom:1px solid var(--border)}
+.s-search{flex-shrink:0;padding:.38rem .85rem;border-bottom:1px solid var(--border)}
 .s-search-wrap{position:relative}
 .s-search-wrap svg{position:absolute;left:.65rem;top:50%;transform:translateY(-50%);width:13px;height:13px;color:var(--t3);pointer-events:none}
 .s-search input{
   width:100%;background:var(--bg3);border:1px solid var(--border);border-radius:7px;
-  padding:.38rem .7rem .38rem 2rem;color:var(--t1);font-size:.79rem;font-family:var(--sans);
+  padding:.28rem .6rem .28rem 1.85rem;color:var(--t1);font-size:.74rem;font-family:var(--sans);
   outline:none;transition:border-color var(--ease);
 }
 .s-search input::placeholder{color:var(--t3)}
@@ -101,8 +101,8 @@ em{color:var(--goldl)}
   border:1px solid var(--border);
   color:var(--t2);
   border-radius:999px;
-  padding:.16rem .52rem;
-  font-size:.65rem;
+  padding:.1rem .42rem;
+  font-size:.6rem;
   cursor:pointer;
 }
 .s-filter-btn:hover{border-color:var(--gold);color:var(--t1)}
@@ -150,6 +150,14 @@ em{color:var(--goldl)}
   border-color:rgba(121,189,166,.5);
   background:rgba(121,189,166,.15);
 }
+
+/* Atrybut hidden ma pierwszeństwo przed układami flex kontrolek opcjonalnych. */
+.speech-controls[hidden],.s-filter-shortcuts[hidden]{display:none}
+
+.interface-settings{width:100%;font-size:.66rem;color:var(--t2)}
+.interface-settings summary{cursor:pointer;padding:.2rem 0;list-style-position:inside}
+.interface-setting{display:flex;align-items:center;justify-content:space-between;gap:.5rem;padding:.18rem 0;cursor:pointer}
+.interface-setting input{accent-color:var(--gold)}
 
 /* nav scroll */
 .s-nav{flex:1;overflow-y:auto;padding:.3rem 0 1.4rem;scrollbar-width:thin;scrollbar-color:var(--border) transparent}
@@ -262,7 +270,7 @@ em{color:var(--goldl)}
 /* footer */
 .s-footer{
   flex-shrink:0;padding:.55rem 1rem;border-top:1px solid var(--border);
-  display:flex;align-items:center;justify-content:space-between;
+  display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:.35rem;
   font-size:.6rem;color:var(--t3);
 }
 .ver{background:var(--goldt);color:var(--gold);border:1px solid rgba(201,162,39,.25);border-radius:99px;padding:.13rem .5rem;font-weight:700;font-size:.6rem}
@@ -1268,17 +1276,18 @@ body.psyhub-app::before{
   font-size:.61rem;
   letter-spacing:.16em;
 }
-.psyhub-app .s-search{padding:.85rem;border-bottom-color:var(--border)}
+.psyhub-app .s-search{padding:.5rem .85rem;border-bottom-color:var(--border)}
 .psyhub-app .s-search input{
-  min-height:44px;
-  padding:.7rem .8rem .7rem 2.35rem;
-  border-radius:13px;
+  min-height:34px;
+  padding:.42rem .7rem .42rem 2rem;
+  border-radius:10px;
   background:var(--surface-soft);
-  font-size:.82rem;
+  font-size:.75rem;
 }
-.psyhub-app .s-search-wrap svg{left:.85rem;width:15px;height:15px}
+.psyhub-app .s-search-wrap svg{left:.72rem;width:13px;height:13px}
 .psyhub-app .s-filter-btn{
-  padding:.25rem .6rem;
+  padding:.12rem .45rem;
+  font-size:.61rem;
   background:transparent;
   font-size:.63rem;
 }

@@ -1,90 +1,77 @@
 ---
-lastReviewed: 2026-04-01
+lastReviewed: 2026-08-01
 reviewCycleMonths: 24
-evidenceCutoffDate: 2025-12-31
+evidenceCutoffDate: 2026-08-01
+aliases:
+  - filozofia moralna
 ---
 
-# Etyka i filozofia moralna
+# Etyka cierpienia, dobrostanu i prokreacji
 
-## Czym jest etyka?
+## Mapa problemów
 
-**Etyka** (gr. *ethos* - obyczaj, charakter) to dział filozofii badający pytania dotyczące moralności: co jest dobre, a co złe? Jak powinniśmy postępować? Jakie cechy charakteru warto rozwijać? Co jest sprawiedliwe?
+Etyka cierpienia i prokreacji obejmuje kilka odrębnych pytań: jaką wagę ma zapobieganie cierpieniu, czy szkody i korzyści są symetryczne, czy można naruszyć zgodę osoby jeszcze nieistniejącej, kiedy prokreacja jest dopuszczalna oraz jaki status moralny mają istoty żywe. Antynatalizm i efilizm są stanowiskami normatywnymi. Badania dobrostanu opisują doświadczenia istniejących osób, ale same nie rozstrzygają, czy należy powoływać nowe osoby do życia.
 
-Etyka dzieli się tradycyjnie na trzy poziomy:
+## Wartość cierpienia i dobrostanu
 
-- **Metaetyka** - bada naturę samych sądów moralnych: czy twierdzenia etyczne mogą być prawdziwe lub fałszywe? Skąd biorą się wartości moralne?
-- **Etyka normatywna** - formułuje teorie określające, jak powinniśmy postępować.
-- **Etyka stosowana** - aplikuje teorie do konkretnych dziedzin: bioetyki, etyki zawodowej, etyki badań naukowych.
+Hedonizm dobrostanu ujmuje dobro i zło przez przyjemność oraz cierpienie. Teorie zaspokojenia pragnień odwołują się do realizacji poinformowanych preferencji, a teorie listy obiektywnej także do relacji, wiedzy, osiągnięć lub autonomii. Dlatego stwierdzenie, że życie zawiera cierpienie, nie wystarcza do oceny jego bilansu.
 
-Dla psychologa etyka nie jest jedynie zbiorem przepisów zawodowych - to fundament refleksji nad relacją z pacjentem, granicami interwencji i odpowiedzialnością wobec społeczeństwa.
+Negatywny utylitaryzm daje pierwszeństwo ograniczaniu cierpienia. Jego zaletą jest wrażliwość na ciężkie krzywdy; skrajna wersja może jednak prowadzić do wniosku, że eliminacja wszystkich czujących istot byłaby najlepsza, co pomija prawa, autonomię i dobra. Umiarkowane koncepcje przypisują cierpieniu szczególną wagę bez uznawania jej za absolutną.
 
-> **Fakt:** Kodeks etyczny Polskiego Towarzystwa Psychologicznego, podobnie jak APA Ethics Code, oparty jest na zasadach autonomii, dobroczynności, nieszkodzenia i sprawiedliwości - kategoriach zaczerpniętych wprost z filozofii moralnej, szczególnie z tradycji kantowskiej i pryncypializmu bioetycznego.
+Empiryczna ocena dobrostanu korzysta z samoopisu, wskaźników afektywnych i warunków obiektywnych. Adaptacja i błędy pamięci utrudniają pomiar, ale nie pozwalają arbitralnie odrzucać deklaracji osób zadowolonych ani cierpiących. Filozoficzny „pesymizm biologiczny”, czyli teza, że ewolucja strukturalnie czyni życie złym, nie jest ustalonym wynikiem biologii. Dobór naturalny maksymalizuje sukces reprodukcyjny, nie dobrostan, lecz z tego nie wynika ujemny bilans każdego życia.
 
-## Wielkie teorie etyczne
+## Asymetria szkody i korzyści
 
-### Etyka deontologiczna
+Benatar proponuje asymetrię: obecność bólu jest zła, obecność przyjemności dobra, brak bólu jest dobry nawet bez beneficjenta, a brak przyjemności nie jest zły, jeśli nikt nie jest jej pozbawiony. Na tej podstawie wnioskuje, że niepowstanie osoby jest lepsze niż jej powstanie.
 
-**Deontologia** (gr. *deon* - obowiązek) głosi, że moralność działania zależy od jego zgodności z regułami lub obowiązkami, niezależnie od skutków. Kluczową postacią jest Immanuel Kant i jego **imperatyw kategoryczny**: *„Postępuj tylko według tej zasady, którą mógłbyś chcieć uczynić powszechnym prawem"*.
+Argument nie jest prawdziwy na mocy definicji. Kontrowersyjna jest ocena braku bólu jako dobra bezosobowego przy jednoczesnym traktowaniu braku przyjemności jako neutralnego. Zwolennicy wskazują asymetrię obowiązków: mamy silny powód, by nie tworzyć życia pełnego cierpienia, ale nie obowiązek tworzenia każdej możliwej szczęśliwej osoby. Krytycy proponują symetrię, ujęcia zależne od osoby albo odrzucają porównanie istnienia z nieistnieniem dla tej samej osoby.
 
-Drugie sformułowanie imperatywu: *„Postępuj tak, byś człowieczeństwa tak w swojej osobie, jak w osobie każdego innego, używał zawsze zarazem jako celu, nigdy tylko jako środka"* - jest bezpośrednio stosowane w etyce psychologicznej: pacjent zawsze jest celem, nigdy narzędziem.
+Problem nieidentyczności pokazuje, że decyzja prokreacyjna często zmienia tożsamość przyszłej osoby. Nie wynika z tego, że każda decyzja jest dopuszczalna. Możliwe są zasady bezosobowe, progi godnego życia i obowiązki wobec przyszłych ludzi, które nie wymagają twierdzenia, że konkretna osoba miałaby się lepiej, nie istniejąc.
 
-### Konsekwencjalizm i utylitaryzm
+## Zgoda i prokreacja
 
-**Konsekwencjalizm** ocenia działania wyłącznie przez pryzmat ich skutków. Najbardziej wpływową odmianą jest **utylitaryzm** (Jeremy Bentham, John Stuart Mill): należy dążyć do maksymalizacji szczęścia (*utility*) jak największej liczby osób.
+Przyszła osoba nie może udzielić zgody przed poczęciem. Argument „braku zgody” głosi, że narzucenie poważnego, nieuniknionego ryzyka bez pozwolenia jest niedopuszczalne. Analogia ma siłę tam, gdzie sprawca dla własnych celów naraża inną osobę na znaczne szkody.
 
-Utylitaryzm ma atrakcyjną prostotę, lecz napotyka trudności: czy wolno skrzywdzić jedną osobę, by uratować pięć? Problem tramwaju (*trolley problem*) Philippy Foot i Judith Jarvis Thomson ilustruje napięcie między intuicjami moralnymi a konsekwencjalistyczną logiką.
+Przeciwna strona wskazuje, że niemożność uzyskania zgody nie tworzy automatycznego zakazu. W medycynie ratunkowej i opiece nad dziećmi działanie bez aktualnej zgody może być uzasadnione domniemanym interesem. Przed poczęciem nie istnieje podmiot autonomii, a „odmowa” i „zgoda” nie są dostępnymi opcjami. Zwolennik argumentu może odpowiedzieć, że właśnie dlatego należy stosować zasadę ostrożności; musi jednak niezależnie uzasadnić próg ryzyka i zakres tej zasady.
 
-### Etyka cnót
+Nie należy mówić, że narodziny z definicji naruszają zgodę. Trafniejsze pytanie brzmi, jakie ryzyko wolno nałożyć, gdy zgoda jest niemożliwa, oraz czy oczekiwane życie spełnia standard odpowiedzialnej troski.
 
-**Etyka cnót** (Arystoteles, MacIntyre) pyta nie „co powinienem zrobić?", lecz „jakim człowiekiem powinienem być?". Kluczowe pojęcie to **cnota** (*arete*) - trwała dyspozycja do działania w sposób odpowiedni dla danej sytuacji - oraz **eudajmonia** (*flourishing*) - rozkwit, dobre życie jako cel ludzki.
+## Prokreacja i antynatalizm
 
-Etyka cnót ma szczególne znaczenie dla psychoterapii: celem terapii jest często nie tyle usunięcie objawów, ile wzmocnienie cech charakteru (odporności, mądrości, umiarkowania) umożliwiających dobre życie.
+Antynatalizm przypisuje prokreacji ujemną lub co najmniej bardzo trudną do spełnienia ocenę moralną. Może opierać się na asymetrii Benatara, ryzyku poważnej krzywdy, zgodzie, środowisku albo obowiązkach wobec istniejących osób. Argumenty te nie są równoważne; obalenie jednego nie obala pozostałych.
 
-### Etyka troski
+Stanowiska pronatalistyczne i umiarkowane wskazują wartość relacji, projektów i przyszłych pokoleń, możliwość życia wartego przeżycia oraz wolność reprodukcyjną. Teza, że życie może być dobre dla żyjącej osoby, nie tworzy jednak ogólnego obowiązku prokreacji. Z kolei wolność reprodukcyjna nie usuwa obowiązku rozważenia przewidywalnych ciężkich szkód.
 
-**Etyka troski** (*care ethics*, Carol Gilligan, Nel Noddings) podkreśla znaczenie relacji, wrażliwości i wzajemnej zależności. Powstała jako odpowiedź na patriarchalny charakter klasycznych teorii etycznych, skupionych na abstrakcyjnych zasadach. Jest szczególnie bliska relacji terapeutycznej, opartej na empatii i uważnej obecności.
+Ocena przesłanek zależy od skali ryzyka, koncepcji dobrostanu i teorii obowiązków. Najsilniejsze, szeroko akceptowalne wnioski dotyczą unikania przewidywalnego życia poniżej minimalnego progu oraz zapewnienia warunków opieki. Powszechny zakaz prokreacji wymaga znacznie bardziej spornych przesłanek.
 
-> **Cytat:** „Pytanie etyki nie brzmi: 'Jakie jest moje obowiązki?', lecz 'Jak powinienem odpowiedzieć na potrzebę tego konkretnego człowieka przede mną?'" - Nel Noddings, *Caring* (1984)
+## Efilizm i moralny status życia
 
-## Dylematy etyczne w psychologii
+**Efilizm** to marginalny nurt internetowy, którego nazwa pochodzi od odwrócenia angielskiego słowa *life*. Nie jest ustaloną szkołą akademicką. Łączy skrajny negatywny utylitaryzm, pesymistyczną ocenę ewolucji oraz postulat zakończenia reprodukcji czującego życia. Poszczególni autorzy formułują go różnie, dlatego nie należy przedstawiać jednej wersji jako kanonu.
 
-### Poufność i obowiązek ostrzeżenia
+Jego mocną intuicją jest bezstronność wobec cierpienia zwierząt i przyszłych istot. Słabe punkty obejmują niepewność co do bilansu doświadczeń, przejście od opisu ewolucji do powinności, nieuwzględnianie praw i autonomii oraz ryzyko usprawiedliwiania przemocy. Nawet jeśli redukcja cierpienia jest pilna, nie wynika stąd moralne uprawnienie do unicestwiania życia wbrew interesom istniejących podmiotów.
 
-Zasada **poufności** jest fundamentem relacji terapeutycznej. Jednak sprawa *Tarasoff v. Regents of University of California* (1976) ustanowiła precedens: terapeuta ma obowiązek ostrzec identyfikowalną ofiarę zagrożenia ze strony pacjenta. Napięcie między poufnością a ochroną osób trzecich jest jednym z trudniejszych dylematów klinicznych.
+Moralny status może zależeć od zdolności do odczuwania, posiadania interesów, samoświadomości, relacji albo bycia żywym. Sentientyzm rozszerza krąg moralny na istoty zdolne do cierpienia, ale nie przypisuje każdemu organizmowi identycznych praw. Biocentryzm nadaje wartość życiu jako takiemu. Konflikt tych ujęć pokazuje, że „życie” i „dobrostan” nie są zamienne.
 
-### Zgoda poinformowana
+## Ocena argumentów w praktyce
 
-**Świadoma zgoda** (*informed consent*) wymaga, by pacjent był adekwatnie poinformowany o naturze interwencji, ryzyku i alternatywach - i dobrowolnie ją zaakceptował. Rodzi to pytania o kompetencję do wyrażenia zgody, szczególnie w pracy z osobami z zaburzeniami poznawczymi lub dziećmi.
+Rzetelna debata powinna:
 
-### Wielokrotne role
+1. wskazać, czy wniosek dotyczy konkretnej decyzji, polityki czy całej prokreacji;
+2. oddzielić prawdopodobieństwo szkody od jej wagi;
+3. nie traktować nieistniejącej osoby tak, jakby już posiadała preferencje;
+4. uwzględnić prawa i interesy istniejących osób;
+5. jawnie nazwać sporną teorię wartości;
+6. nie przedstawiać filozoficznego pesymizmu jako diagnozy psychologicznej.
 
-Terapeuta jest zarazem leczącym, obywatelem, naukowcem i członkiem instytucji. Konflikty ról mogą prowadzić do **konfliktu interesów** lub naruszenia granic terapeutycznych (*boundary violations*).
+Rozmowa o nieistnieniu może dotykać osób w kryzysie. Argument metafizyczny nie stanowi oceny wartości konkretnego życia ani porady klinicznej.
 
-## Moralna psychologia
+## Bibliografia
 
-**Moralna psychologia** to dziedzina badająca, jak ludzie faktycznie podejmują decyzje moralne - w odróżnieniu od normatywnej etyki, która bada, jak powinni. Jonathan Haidt w **teorii moralnych fundamentów** (*Moral Foundations Theory*) identyfikuje sześć systemów intuicji moralnych: troski/krzywdy, sprawiedliwości, lojalności, autorytetu, czystości i wolności. Moralność, zdaniem Haidta, jest w pierwszej kolejności emocjonalna i intuicyjna - racjonalne uzasadnienia pojawiają się *post hoc*.
-
-
-
-Etyka filozoficzna dostarcza psychologowi ram do świadomej refleksji nad własną praktyką. Deontologia przypomina o nienaruszalnej godności pacjenta, konsekwencjalizm nakazuje brać pod uwagę skutki działań, etyka cnót pyta o charakter terapeuty, a etyka troski przypomina, że relacja jest wartością samą w sobie. Dobry psycholog nie stosuje jednej teorii mechanicznie - potrafi poruszać się między nimi z mądrością i wrażliwością.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Etyka i filozofia moralna" polega na tym, że siła analizy filozoficznej polega nie tylko na obronie stanowiska, lecz także na ujawnianiu kosztów założeń, granic pojęć i konsekwencji intuicji.
-
-Dopiero wspólna analiza zagadnień takich jak czym jest etyka?, dylematy etyczne w psychologii oraz moralna psychologia pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Etyka i filozofia moralna" pokazuje, że najbardziej wartościowe podsumowanie wymaga odróżnienia tego, co logicznie możliwe, od tego, co epistemicznie uzasadnione i praktycznie doniosłe.
-
-
-Dopiero wspólna analiza zagadnień takich jak czym jest etyka?, dylematy etyczne w psychologii oraz moralna psychologia pokazuje pełny zakres omawianego zjawiska.## Bibliografia
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+1. Benatar, D. (2006). *Better Never to Have Been*. Oxford University Press.
+2. Boonin, D. (2014). *The Non-Identity Problem and the Ethics of Future People*. Oxford University Press.
+3. Broome, J. (2004). *Weighing Lives*. Oxford University Press.
+4. Griffin, J. (1986). *Well-Being*. Clarendon Press.
+5. Narveson, J. (1967). Utilitarianism and new generations. *Mind, 76*(301), 62–72.
+6. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
+7. Shiffrin, S. V. (1999). Wrongful life, procreative responsibility, and the significance of harm. *Legal Theory, 5*(2), 117–148. https://doi.org/10.1017/S1352325299052015
+8. Singer, P. (2011). *Practical Ethics* (3rd ed.). Cambridge University Press.

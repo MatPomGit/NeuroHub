@@ -1,91 +1,77 @@
 ---
-lastReviewed: 2026-04-01
+lastReviewed: 2026-08-01
 reviewCycleMonths: 24
-evidenceCutoffDate: 2025-12-31
+evidenceCutoffDate: 2026-08-01
+aliases:
+  - filozofia pierwsza
 ---
 
-# Filozofia - wprowadzenie
+# Podstawowe działy i metody filozofii
 
-## Czym jest filozofia?
+## Najważniejsze informacje
 
-**Filozofia** (gr. *philosophia* - umiłowanie mądrości) to najstarsza dziedzina systematycznego namysłu nad fundamentalnymi pytaniami dotyczącymi rzeczywistości, wiedzy, wartości i ludzkiego istnienia. W odróżnieniu od nauk empirycznych, filozofia nie ogranicza się do tego, co można zmierzyć lub zaobserwować - pyta o to, co leży u podstaw samego poznania, działania i bytu.
+Filozofia jest systematycznym namysłem nad najbardziej ogólnymi pytaniami o rzeczywistość, wiedzę, poprawne rozumowanie, wartości i ludzkie istnienie. Nie stanowi jednej metody ani zbioru niezmiennych tez. Łączy analizę pojęć, konstruowanie i ocenę argumentów, interpretację tekstów oraz opis doświadczenia. Wyniki nauk empirycznych mogą rozstrzygać przesłanki filozoficznych argumentów, lecz same nie przesądzają na przykład, co uznać za wiedzę albo jakie normy są słuszne.
 
-Filozofia jest zarówno dyscypliną akademicką, jak i postawą intelektualną: gotowością do stawiania trudnych pytań, kwestionowania założeń i poszukiwania uzasadnionych odpowiedzi. Dla psychologa filozofia stanowi niezbędne zaplecze pojęciowe - wiele kluczowych pytań psychologii (czym jest świadomość? co to znaczy działać racjonalnie? na czym polega dobrobyt psychiczny?) to w istocie pytania filozoficzne.
+W tym artykule przedstawiono ontologię, epistemologię, logikę, fenomenologię i hermeneutykę. Dwie ostatnie tradycje nie są odmianami logiki: badają odpowiednio sposób ukazywania się zjawisk w doświadczeniu oraz warunki rozumienia i interpretacji.
 
-> **Fakt:** Słowo *philosophia* po raz pierwszy użyte zostało przez Pitagorasa (ok. VI w. p.n.e.), który twierdził, że mądrość należy wyłącznie do bogów, a człowiekowi przystoi jedynie jej umiłowanie i poszukiwanie.
+## Ontologia i metafizyka
 
-## Główne działy filozofii
+**Ontologia** pyta, co istnieje i jakie są najbardziej ogólne kategorie bytu. **Metafizyka** bywa używana jako nazwa szersza, obejmująca również pytania o możliwość, konieczność, przyczynowość, czas i trwałość przedmiotów. Granica między terminami zależy od tradycji.
 
-### Ontologia i metafizyka
+Typowe spory dotyczą relacji rzeczy i własności, konkretów i obiektów abstrakcyjnych, zdarzeń i procesów oraz realizmu i antyrealizmu. Realista w danej dziedzinie uznaje, że jej przedmioty istnieją niezależnie od naszych opisów; antyrealizm może wiązać ich status z praktykami poznawczymi lub językiem. Nie wynika stąd jeden globalny wybór: ktoś może być realistą wobec elektronów, a antyrealistą wobec wartości moralnych.
 
-**Ontologia** zajmuje się pytaniem o naturę bytu: co istnieje? jakie są podstawowe kategorie rzeczywistości? Dla psychologii szczególnie istotny jest **problem umysł–ciało**: czy procesy psychiczne są tożsame z procesami neurologicznymi, czy też stanowią odrębny rodzaj rzeczywistości?
+Problem umysłu i ciała jest szczególnym pytaniem ontologicznym rozwijanym w [filozofii umysłu](filozofia_umyslu.md). Nie należy utożsamiać ontologicznej tezy, że stany psychiczne są fizyczne, z metodologicznym postulatem, by psychologię prowadzić empirycznie.
 
-### Epistemologia
+## Epistemologia: wiedza i uzasadnienie
 
-**Epistemologia** (teoria poznania) bada naturę, źródła i granice wiedzy. Pyta: skąd wiemy to, co wiemy? Na czym polega uzasadnione przekonanie? Jak odróżnić wiedzę od zwykłego mniemania? Pytania te mają bezpośrednie przełożenie na metodologię badań psychologicznych i ocenę wiarygodności wyników naukowych.
+**Epistemologia** bada naturę, źródła i granice wiedzy. Klasyczny schemat „uzasadnionego prawdziwego przekonania” ujmuje trzy warunki, ale przykłady Gettiera pokazują, że można przypadkowo dojść do prawdy na podstawie pozornie dobrego uzasadnienia. Dlatego współczesne teorie dodają warunki niezawodności, bezpieczeństwa albo właściwego związku przekonania z faktem.
 
-### Etyka
+Racjonalizm podkreśla rolę rozumu, empiryzm doświadczenia, a pragmatyzm praktyki badawczej i konsekwencji pojęć. Sceptycyzm może być globalnym stanowiskiem albo lokalnym narzędziem sprawdzania, czy deklarowana wiedza ma wystarczające podstawy. Spory internalizmu z eksternalizmem dotyczą tego, czy podmiot musi mieć refleksyjny dostęp do czynników uzasadniających przekonanie.
 
-**Etyka** to filozofia moralna - nauka o tym, co dobre, słuszne i wartościowe. Psycholodzy stykają się z dylematami etycznymi na co dzień: w relacji terapeutycznej, w projektowaniu badań, w stosowaniu interwencji. Znajomość teorii etycznych pozwala świadomie i krytycznie rozstrzygać te dylematy.
+Epistemologia społeczna przypomina, że duża część wiedzy pochodzi ze świadectwa innych osób i instytucji. Zaufanie nie jest przeciwieństwem krytycyzmu: racjonalna ocena świadectwa uwzględnia kompetencje źródła, jego niezależność, jawność metody oraz możliwość korekty. Normy tego obiegu omówiono szerzej w [filozofii nauki](filozofia_nauki.md).
 
-### Logika
+## Logika i analiza argumentów
 
-**Logika** dostarcza narzędzi do oceny poprawności rozumowań. Umiejętność wykrywania błędów logicznych (*fallacies*) jest niezbędna zarówno w debacie naukowej, jak i w pracy klinicznej - na przykład przy identyfikowaniu zniekształceń poznawczych u pacjentów.
+**Logika** bada relacje wynikania. Argument dedukcyjnie poprawny ma taką formę, że prawdziwość przesłanek wyklucza fałszywość wniosku. Poprawność formalna nie gwarantuje prawdziwości przesłanek; argument jest trafny dopiero wtedy, gdy jest poprawny i ma prawdziwe przesłanki.
 
-### Filozofia nauki
+Rozumowania indukcyjne i abdukcyjne nie zapewniają konkluzji, lecz mogą ją dobrze wspierać. Indukcja uogólnia na podstawie przypadków, a abdukcja wybiera najlepsze spośród konkurencyjnych wyjaśnień. Ocena obejmuje wówczas jakość danych, alternatywy, prostotę i przewidywania.
 
-**Filozofia nauki** (*filozofia przyrodoznawstwa*) analizuje metody, założenia i granice nauki. Pytania o falsyfikowalność teorii, kryteria naukowości czy rewolucje naukowe mają bezpośrednie znaczenie dla oceny statusu psychologii jako dyscypliny empirycznej.
+Logika formalna używa języków symbolicznych. Logika nieformalna bada argumenty w języku naturalnym, w tym przemilczane przesłanki i ciężar dowodu. Nazwy błędów, takich jak *ad hominem* czy fałszywa alternatywa, są skrótami diagnostycznymi, a nie automatami unieważniającymi wypowiedź. Kontekst decyduje, czy dana cecha rozumowania jest rzeczywiście wadą.
 
-## Filozofia a psychologia - związki historyczne
+Logiki modalne formalizują możliwość i konieczność; inne systemy opisują czas, obowiązek lub wiedzę. Ich modele nie przesądzają automatycznie, jaka ontologia jest prawdziwa.
 
-Przez wieki psychologia istniała jako część filozofii. Arystoteles pisał *De anima* - traktat o duszy, który można uznać za pierwszy systematyczny wykład psychologii. René Descartes sformułował dualizm umysł–ciało, którego echa obecne są w psychologii do dziś. John Locke i David Hume badali mechanizmy poznania i stowarzyszania idei, antycypując psychologię asocjacyjną i poznawczą.
+## Fenomenologia: opis sposobów doświadczania
 
-Dopiero w 1879 roku Wilhelm Wundt założył w Lipsku pierwsze laboratorium psychologiczne, inaugurując psychologię jako naukę empiryczną oddzieloną od filozofii. Jednak to rozdzielenie nigdy nie było zupełne - psychologia kliniczna, psychologia humanistyczna i egzystencjalna czerpią wprost z tradycji filozoficznej.
+**Fenomenologia** jest tradycją i rodziną metod zapoczątkowanych przez Edmunda Husserla. Pyta nie tylko, co istnieje, lecz jak coś ukazuje się podmiotowi: jako spostrzegane, wspominane, oczekiwane, wartościowe albo obce. **Intencjonalność** oznacza skierowanie świadomości ku czemuś, nie zamiar w potocznym sensie.
 
-> **Cytat:** „Psychologia ma długą przeszłość, lecz krótką historię." - Hermann Ebbinghaus (1908)
+Husserlowska *epoché* polega na metodycznym zawieszeniu potocznych rozstrzygnięć o istnieniu świata, aby opisać strukturę doświadczenia. Nie jest zaprzeczeniem świata. Analiza może obejmować perspektywiczność spostrzeżenia, czasowość, cielesność i intersubiektywność. Heidegger przekształcił fenomenologię w analizę bycia-w-świecie, a Merleau-Ponty podkreślał rolę żywego ciała.
 
-## Filozofia jako narzędzie psychologa
+W psychiatrii i psychologii opis fenomenologiczny pomaga rozróżniać formy przeżycia, lecz nie zastępuje pomiaru ani wyjaśnienia przyczynowego. Wywiad jakościowy inspirowany fenomenologią jest ponadto metodą badawczą odmienną od transcendentalnego projektu Husserla; podobieństwo nazwy nie oznacza tożsamości celów.
 
-Znajomość filozofii pozwala psychologowi:
+## Hermeneutyka: warunki rozumienia
 
-- **Krytycznie oceniać założenia** stojące za teoriami psychologicznymi - np. założenie o racjonalności człowieka w klasycznej teorii decyzji.
-- **Rozumieć ograniczenia metodologiczne** - np. problem indukcji (Hume) czy underdetermination of theory by evidence.
-- **Prowadzić refleksję etyczną** - nie tylko według kodeksów zawodowych, ale z głębszym rozumieniem uzasadnień moralnych.
-- **Komunikować się z pacjentami** - filozofia dostarcza języka do rozmowy o wartościach, sensie życia, wolnej woli i odpowiedzialności.
-- **Rozpoznawać zniekształcenia poznawcze** - wiele z nich to właśnie błędy logiczne (np. *ad hominem*, myślenie magiczne, potwierdzenie własnych przekonań).
+**Hermeneutyka** bada interpretację tekstów, działań, symboli i tradycji. Schleiermacher rozwijał reguły interpretacji językowej i psychologicznej, Dilthey wiązał rozumienie z naukami humanistycznymi, a Gadamer analizował historyczność poznającego. „Koło hermeneutyczne” opisuje wzajemną korektę rozumienia części i całości, nie błędne koło w dowodzie.
 
-## Główne nurty w historii filozofii
+Interpretator nie rozpoczyna bez założeń. Gadamerowskie „przesądy” to wstępne sądy odziedziczone z języka i historii; mogą umożliwiać rozumienie, ale podlegają rewizji w spotkaniu z tekstem i innymi perspektywami. Ricœur łączył wyjaśnianie i rozumienie oraz analizował wieloznaczność symbolu i narracji.
 
-Filozofia zachodnia ewoluowała przez ponad dwa i pół tysiąca lat. Kluczowe epoki to:
+Hermeneutyka nie sprowadza się do dowolności. Interpretacje można porównywać według zgodności z materiałem, spójności, zakresu wyjaśniania i odporności na kontrprzykłady. Nie jest ona podrozdziałem logiki, choć argumentacja o lepszej interpretacji oczywiście podlega ocenie logicznej.
 
-- **Starożytność** - Sokrates, Platon, Arystoteles; pytania o naturę rzeczywistości, dobrego życia i poznania.
-- **Średniowiecze** - scholastyka, synteza filozofii greckiej z teologią chrześcijańską (Tomasz z Akwinu).
-- **Nowożytność** - racjonalizm (Descartes, Leibniz, Spinoza) i empiryzm (Locke, Berkeley, Hume); narodziny nauki nowoczesnej.
-- **Oświecenie i idealizm** - Kant, Hegel; krytyczna analiza granic rozumu i dialektyka.
-- **XIX–XX wiek** - pozytywizm, pragmatyzm, fenomenologia, egzystencjalizm, filozofia analityczna.
-- **Współczesność** - filozofia umysłu, bioetyka, filozofia języka, posthumanizm.
+## Jak współpracują metody
 
+Jedno pytanie może wymagać kilku poziomów analizy. Badanie doświadczenia bólu może obejmować opis fenomenologiczny, interpretację jego znaczenia, empiryczne wyjaśnienie mechanizmów, analizę ontologicznego statusu doświadczenia i etyczną ocenę opieki. Konflikt pojawia się dopiero wtedy, gdy wnioski właściwe jednemu poziomowi bez uzasadnienia przenosi się na inny.
 
+Filozofia korzysta z eksperymentów myślowych, analizy przypadków, refleksyjnej równowagi i argumentacji transcendentalnej. Eksperyment myślowy sprawdza konsekwencje pojęć i intuicji; nie jest obserwacją empiryczną. Intuicje stanowią dane do wyjaśnienia, lecz mogą być zmienne kulturowo i podatne na sposób sformułowania problemu.
 
-Filozofia nie jest abstrakcyjnym luksusem - to fundament krytycznego myślenia, na którym opiera się zarówno nauka, jak i praktyka kliniczna. Psycholog świadomy tradycji filozoficznej lepiej rozumie założenia własnej dyscypliny, jest bardziej odporny na pseudonaukę i potrafi towarzyszyć pacjentom w ich egzystencjalnych pytaniach. Filozofia uczy przede wszystkim jednego: że warto pytać - i że sposób, w jaki pytamy, kształtuje to, co możemy znaleźć.
+## Filozofia i psychologia
 
-## Perspektywa nieoczywista
+Psychologia wyodrębniła się instytucjonalnie z filozofii, ale nadal zakłada określone pojęcia osoby, pomiaru i wyjaśnienia. Filozofia może ujawniać te założenia oraz porządkować wnioski normatywne. Nie uprawnia jednak do diagnozowania człowieka na podstawie samej teorii ani do zastępowania dowodów empirycznych analizą pojęciową.
 
-Nieoczywista perspektywa na temat "Filozofia - wprowadzenie" polega na tym, że siła analizy filozoficznej polega nie tylko na obronie stanowiska, lecz także na ujawnianiu kosztów założeń, granic pojęć i konsekwencji intuicji.
+## Bibliografia
 
-Dopiero wspólna analiza zagadnień takich jak czym jest filozofia?, filozofia a psychologia - związki historyczne oraz główne nurty w historii filozofii pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Filozofia - wprowadzenie" pokazuje, że najbardziej wartościowe podsumowanie wymaga odróżnienia tego, co logicznie możliwe, od tego, co epistemicznie uzasadnione i praktycznie doniosłe.
-
-
-Dopiero wspólna analiza zagadnień takich jak czym jest filozofia?, filozofia a psychologia - związki historyczne oraz główne nurty w historii filozofii pokazuje pełny zakres omawianego zjawiska.## Bibliografia
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+1. Audi, R. (2011). *Epistemology: A Contemporary Introduction to the Theory of Knowledge* (3rd ed.). Routledge.
+2. Gadamer, H.-G. (2004). *Truth and Method* (2nd rev. ed.). Continuum. (Oryginał opublikowano w 1960 r.).
+3. Gettier, E. L. (1963). Is justified true belief knowledge? *Analysis, 23*(6), 121–123. https://doi.org/10.1093/analys/23.6.121
+4. Husserl, E. (1982). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy, First Book*. Martinus Nijhoff. (Oryginał opublikowano w 1913 r.).
+5. Priest, G. (2017). *Logic: A Very Short Introduction* (2nd ed.). Oxford University Press.
+6. Sider, T. (2009). *Logic for Philosophy*. Oxford University Press.
+7. van Inwagen, P., & Sullivan, M. (2023). Metaphysics. W E. N. Zalta & U. Nodelman (red.), *The Stanford Encyclopedia of Philosophy*.

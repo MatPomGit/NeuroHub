@@ -1,86 +1,65 @@
 ---
-lastReviewed: 2026-04-01
+lastReviewed: 2026-08-01
 reviewCycleMonths: 24
-evidenceCutoffDate: 2025-12-31
+evidenceCutoffDate: 2026-08-01
+aliases:
+  - antropologia filozoficzna
 ---
 
-# Filozofia człowieka
+# Filozofia człowieka i egzystencji
 
-## Czym jest filozofia człowieka?
+## Człowiek jako problem filozoficzny
 
-**Filozofia człowieka** (*antropologia filozoficzna*) to dyscyplina filozoficzna stawiająca pytanie: **kim jest człowiek?** Co stanowi o specyfice ludzkiego bytu? Czym różni się człowiek od innych zwierząt, od maszyn, od bytów boskich? Na czym polega ludzka godność i wolność?
+Filozofia człowieka, nazywana antropologią filozoficzną, pyta, co wyróżnia osoby, jak biologiczne, społeczne i historyczne warunki współtworzą ludzkie życie oraz na czym polegają wolność, odpowiedzialność i sens. Nie konkuruje z antropologią lub psychologią empiryczną. Analizuje także pojęcia i normy, których same dane nie rozstrzygają.
 
-Pytania te są szczególnie doniosłe dla psychologa: każda teoria psychologiczna opiera się na milczącym lub jawnym obrazie człowieka. Behawioryzm widzi człowieka jako organizm kształtowany przez środowisko; psychoanaliza - jako istotę rządzoną przez nieświadome popędy; humanizm - jako istotę zdolną do wzrostu i samorealizacji. Refleksja filozoficzna pozwala uczynić te założenia świadomymi.
+Klasyczna definicja człowieka jako „zwierzęcia rozumnego” podkreśla zdolność podawania racji, lecz może zbyt łatwo pomijać cielesność, emocje, zależność i różnorodność zdolności. Darwinowski obraz ciągłości gatunkowej osłabia ostre biologiczne granice, nie przesądza jednak o prawach ani godności. Wniosek normatywny wymaga przesłanek etycznych.
 
-> **Fakt:** Max Scheler, twórca nowoczesnej antropologii filozoficznej, twierdził w *Miejscu człowieka w kosmosie* (1928), że człowiek jest jedyną istotą zdolną do „powiedzenia 'nie' życiu" - do dystansu wobec własnych popędów i do kwestionowania własnej egzystencji. To zdolność ta, nie rozum ani mowa, stanowi o wyjątkowości człowieka.
+## Jednostka w świecie
 
-## Człowiek jako animal rationale - tradycja klasyczna
+Fenomenologia i egzystencjalizm opisują człowieka nie jako izolowany umysł, lecz jako ucieleśnioną istotę zaangażowaną w świat, relacje i praktyki. Heideggerowskie „bycie-w-świecie” oznacza pierwotne praktyczne uwikłanie, a nie przestrzenne umieszczenie podmiotu w pojemniku. Beauvoir pokazuje, że wolność urzeczywistnia się w sytuacji społecznej, która może rozszerzać lub ograniczać możliwości działania.
 
-Arystoteles definiował człowieka jako **zoon politikon** (istotę polityczną, społeczną) i **zoon logikon** (istotę rozumną). Rozum (*logos*) odróżnia człowieka od zwierząt i umożliwia mu życie w polis - wspólnocie politycznej i moralnej.
+To koryguje **„egocentryczny dylemat”**, który jest autorską, nieutrwaloną nazwą problemu: skoro mamy bezpośredni dostęp do własnych reprezentacji, czy możemy znać świat i innych? Klasyczne odpowiedzi obejmują realizm pośredni, inferencję do najlepszego wyjaśnienia oraz podejścia ucieleśnione, w których percepcja jest aktywną relacją organizmu ze środowiskiem. Ograniczenie perspektywy nie dowodzi solipsyzmu.
 
-Tradycja chrześcijańska dodała do tego obrazu wymiar **imago Dei** - człowiek jako istota stworzona na obraz i podobieństwo Boga, wyróżniona godnością nieredukowalną do funkcji biologicznych. Ta tradycja jest źródłem europejskiej koncepcji godności osoby, która leży u podstaw współczesnych praw człowieka i etyki zawodowej.
+## Egzystencjalizm
 
-## Oświecenie i człowiek jako podmiot rozumny
+Egzystencjalizm to rodzina stanowisk, nie jednolita doktryna. Kierkegaard analizował wybór, rozpacz i religijne zaangażowanie; Nietzsche kryzys odziedziczonych wartości; Heidegger skończoność i autentyczność; Sartre wolność i złą wiarę; Camus absurd; Beauvoir etyczny oraz społeczny wymiar wolności.
 
-Immanuel Kant uczynił człowieka **autonomicznym podmiotem moralnym**: wartość człowieka nie pochodzi z zewnątrz - ani od Boga, ani od społeczeństwa - lecz z jego zdolności do kierowania się rozumem i nadawania sobie prawa moralnego. Człowiek jest zawsze **celem samym w sobie**, nigdy tylko środkiem.
+Sartre’owska teza, że „egzystencja poprzedza esencję”, dotyczy braku z góry ustalonego projektu człowieka, nie braku biologicznych uwarunkowań. Egzystencjalna wolność nie oznacza dowolności ani wszechmocy: działamy w sytuacji, której nie wybraliśmy. Autentyczność nie polega na odkryciu ukrytego, niezmiennego „prawdziwego ja”, lecz na uczciwym odniesieniu do własnych możliwości i ograniczeń.
 
-Ta kantowska perspektywa jest wprost zakorzeniona w psychologicznej etyce zawodowej: szanujemy autonomię pacjenta, unikamy paternalizmu, uznajemy jego prawo do decydowania o sobie.
+## Wolność i determinizm
 
-## Karol Darwin i naturalistyczny obraz człowieka
+**Determinizm** głosi, że przy ustalonym stanie świata i prawach natury możliwy jest tylko jeden dalszy bieg zdarzeń. Nie jest tym samym co fatalizm, według którego rezultat nastąpi niezależnie od działań. W świecie deterministycznym działanie może być właśnie przyczyną wyniku.
 
-**Karol Darwin** w *O pochodzeniu człowieka* (1871) zakwestionował ostrą granicę między człowiekiem a innymi zwierzętami: człowiek jest wytworem ewolucji, jego cechy fizyczne i psychiczne mają korzenie w adaptacji biologicznej. Ewolucjonizm doprowadził do narodzin **psychologii ewolucyjnej**: namiętności, altruizm, agresja, strategie doboru partnerów - wszystko to ma adaptacyjne wyjaśnienie.
+Libertarianizm w sporze o wolę uznaje wolność wymagającą alternatywnych możliwości i odrzuca determinizm. Twardy determinizm akceptuje determinizm i neguje wolną wolę. Kompatybilizm definiuje istotną wolność przez zdolność działania zgodnie z racjami i pragnieniami bez przymusu, nawet jeśli mają one przyczyny. Stanowiska sceptyczne mogą zawieszać rozstrzygnięcie determinizmu, a podważać odpowiedzialność zasługową z powodu braku ostatecznej kontroli nad sobą.
 
-Naturalistyczny obraz człowieka budzi jednak pytania filozoficzne: czy redukcja człowieka do wytworu doboru naturalnego nie zagraża rozumieniu wolności, odpowiedzialności i godności?
+**„Paradoksalny determinizm”** jest autorską etykietą, nie utrwalonym stanowiskiem. Argument, że determinizm „sam się obala”, bo przekonania są zdeterminowane, jest niekonkluzywny: przyczynowe powstanie przekonania nie wyklucza jego wrażliwości na dowody. Losowy początek decyzji również nie daje kontroli. Właściwe pytanie brzmi, jakie mechanizmy reagowania na racje są potrzebne do sprawstwa.
 
-## Wolna wola i odpowiedzialność
+## Odpowiedzialność
 
-**Wolna wola** to jedno z najtrudniejszych zagadnień filozofii człowieka. Trzy główne stanowiska:
+Odpowiedzialność można rozumieć jako zasługę na karę lub nagrodę, rozliczalność wobec innych, zdolność odpowiadania na racje albo obowiązek naprawienia skutków. Te sensy nie muszą mieć identycznych warunków. Zaburzenie kontroli może osłabiać winę bez usuwania potrzeby ochrony, leczenia lub naprawienia szkody.
 
-- **Determinizm twardy** - wszystkie zdarzenia, w tym ludzkie decyzje, są zdeterminowane przez poprzednie przyczyny; wolna wola jest iluzją.
-- **Libertarianizm metafizyczny** - człowiek jest zdolny do prawdziwej, indeterministycznej wolności; może działać wbrew przyczynowemu łańcuchowi.
-- **Kompatybilizm** - wolna wola i determinizm są zgodne: wolność to działanie zgodne z własną naturą, pragnieniami i wartościami, bez zewnętrznego przymusu (Frankfurt, Dennett).
+Argument manipulacji pyta, czy osoba zaprogramowana przez innych jest odpowiedzialna, a następnie porównuje manipulację ze zwykłym uwarunkowaniem przyczynowym. Kompatybiliści wskazują różnicę między historią obchodzącą zdolności osoby a historią, w której zdolności te normalnie reagują na racje. Spór pozostaje filozoficzny; neuronauka informuje o mechanizmach decyzji, lecz sama nie definiuje odpowiedzialności.
 
-> **Cytat:** „Człowiek jest skazany na wolność - nie może uciec przed wyborem, nawet odmowa wyboru jest wyborem." - Jean-Paul Sartre
+## Sens, absurd i nihilizm
 
-Dla psychologa kwestia wolnej woli ma bezpośrednie implikacje terapeutyczne: czy pacjent jest odpowiedzialny za swoje zachowanie? W jakim stopniu zaburzenie psychiczne ogranicza wolność? Jak rozumieć odpowiedzialność przy zaburzeniach osobowości lub schizofrenii?
+Sens życia może oznaczać cel, zrozumiałość narracji, wartość lub znaczenie dla innych. Te wymiary należy odróżniać. Nihilizm egzystencjalny neguje obiektywny sens, ale nie wynika z niego logicznie, że żaden projekt nie ma wartości subiektywnej lub relacyjnej. Camus odpowiada na absurd świadomym zaangażowaniem, Sartre tworzeniem zobowiązań, a Beauvoir wzajemnym wspieraniem wolności.
 
-## Godność ludzka i prawa człowieka
+**„Podświadomy nihilizm”** nie jest rozpoznaną kategorią kliniczną ani utrwalonym stanowiskiem filozoficznym. Można użyć tej frazy wyłącznie jako jawnie interpretacyjnej hipotezy o nieuświadomionej utracie zaufania do wartości. Teoria opanowywania trwogi bada związki przypominania o śmierci z obroną światopoglądu, lecz jej wyniki i replikowalność nie dowodzą nihilizmu ani powszechnej rozpaczy. Pesymistyczna interpretacja kondycji ludzkiej pozostaje oceną filozoficzną, nie wynikiem empirycznym psychologii.
 
-**Godność** (*dignitas*) to pojęcie uznające, że każdy człowiek posiada wartość nieredukowalną i niezbywalną - niezależnie od swoich osiągnięć, stanu zdrowia czy akceptacji społecznej. Pojęcie to jest fundamentem zarówno filozofii Kanta, jak i Powszechnej Deklaracji Praw Człowieka (1948).
+## Godność, kultura i przyszłość
 
-W psychologii klinicznej godność objawia się w zasadzie bezwarunkowej akceptacji (Rogers), w etyce troski i w sprzeciwie wobec dehumanizujących praktyk psychiatrycznych (Szasz, Laing).
+Godność bywa uzasadniana autonomią, zdolnością do dobra, relacyjnością lub równym statusem moralnym. Oparcie jej wyłącznie na aktualnej racjonalności grozi wykluczeniem dzieci i osób z niepełnosprawnościami poznawczymi. Koncepcja równego statusu może oddzielać godność od stopnia wykonania określonej funkcji.
 
-## Człowiek jako istota kulturowa i historyczna
+Język i kultura nie są dodatkiem do gotowej jednostki: współtworzą dostępne role, narracje i cele. Nie znaczy to, że człowiek jest dowolnym wytworem społecznym. Biologia wyznacza potrzeby i podatności, kultura organizuje ich znaczenie, a osoba może krytycznie odnosić się do obu.
 
-Hegel i hermeneutycy podkreślali, że człowiek jest istotą **historyczną i kulturową**: nie istnieje poza czasem, językiem i tradycją. Nie ma „nagiej" natury ludzkiej niezależnej od kontekstu - człowiek jest zawsze już ukształtowany przez kulturę, w której żyje.
+Transhumanizm pyta o moralną dopuszczalność technologicznego ulepszania człowieka. Zwolennicy wskazują autonomię i ograniczanie cierpienia; krytycy ryzyko nierówności, presji i zubożenia form życia. Spór wymaga osobnej oceny technologii, nie ogólnej deklaracji „za” lub „przeciw” naturze ludzkiej.
 
-**Konstruktywizm społeczny** (Berger, Luckmann) rozwinął tę tezę: to, czym jest „osoba", „emocja", „choroba psychiczna" jest po części konstruktem społecznym, zależnym od epoki i kultury. Implikacje dla psychiatrii transkultruowej i krytycznej są znaczące.
+## Bibliografia
 
-## Transhumanizm i pytanie o przyszłość człowieka
-
-**Transhumanizm** pyta: czy człowiek powinien i może przekraczać własne biologiczne ograniczenia za pomocą technologii (biotechnologia, neuromodulacja, sztuczna inteligencja)? Czy wzmocnienie poznawcze lub wydłużenie życia nie narusza „natury ludzkiej"? Odpowiedź na te pytania zakłada wcześniejsze rozstrzygnięcia filozoficzne o tym, czym owa „natura" jest.
-
-
-
-Filozofia człowieka jest fundamentem refleksji psychologicznej nad sensem własnej pracy. Każda decyzja kliniczna - diagnoza, interwencja, granice poufności - zakłada jakiś obraz człowieka: wolnego lub zdeterminowanego, godnego bezwarunkowego szacunku lub ocenianego wedle kryteriów normalności. Uświadomienie sobie własnej antropologii filozoficznej pozwala pracować bardziej spójnie, etycznie i humanistycznie.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Filozofia człowieka" polega na tym, że siła analizy filozoficznej polega nie tylko na obronie stanowiska, lecz także na ujawnianiu kosztów założeń, granic pojęć i konsekwencji intuicji.
-
-Dopiero wspólna analiza zagadnień takich jak czym jest filozofia człowieka?, wolna wola i odpowiedzialność oraz transhumanizm i pytanie o przyszłość człowieka pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Filozofia człowieka" pokazuje, że najbardziej wartościowe podsumowanie wymaga odróżnienia tego, co logicznie możliwe, od tego, co epistemicznie uzasadnione i praktycznie doniosłe.
-
-
-Dopiero wspólna analiza zagadnień takich jak czym jest filozofia człowieka?, wolna wola i odpowiedzialność oraz transhumanizm i pytanie o przyszłość człowieka pokazuje pełny zakres omawianego zjawiska.## Bibliografia
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+1. Beauvoir, S. de. (2011). *The Ethics of Ambiguity*. Open Road. (Oryginał opublikowano w 1947 r.).
+2. Camus, A. (1991). *The Myth of Sisyphus and Other Essays*. Vintage. (Oryginał opublikowano w 1942 r.).
+3. Frankfurt, H. G. (1969). Alternate possibilities and moral responsibility. *The Journal of Philosophy, 66*(23), 829–839. https://doi.org/10.2307/2023833
+4. Heidegger, M. (1962). *Being and Time*. Blackwell. (Oryginał opublikowano w 1927 r.).
+5. Pereboom, D. (2014). *Free Will, Agency, and Meaning in Life*. Oxford University Press.
+6. Sartre, J.-P. (2007). *Existentialism Is a Humanism*. Yale University Press. (Oryginał opublikowano w 1946 r.).
+7. Wolf, S. (2010). *Meaning in Life and Why It Matters*. Princeton University Press.

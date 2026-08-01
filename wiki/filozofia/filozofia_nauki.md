@@ -1,98 +1,81 @@
 ---
-lastReviewed: 2026-04-01
+lastReviewed: 2026-08-01
 reviewCycleMonths: 24
-evidenceCutoffDate: 2025-12-31
+evidenceCutoffDate: 2026-08-01
+aliases:
+  - metodologia nauk
 ---
 
-# Filozofia nauki
+# Wiedza, nauka i język
 
-## Czym jest filozofia nauki?
+## Zakres filozofii nauki
 
-**Filozofia nauki** (*epistemologia naukowa*, *metodologia nauki*) to dział filozofii analizujący strukturę, metody, założenia i granice wiedzy naukowej. Pyta: czym różni się nauka od innych form wiedzy? Jak teorie naukowe odnoszą się do rzeczywistości? Co to znaczy, że teoria jest potwierdzona lub obalona? Dlaczego nauka zmienia się w czasie?
+Filozofia nauki bada, czym różni się nauka od innych praktyk poznawczych, jak teorie wyjaśniają i przewidują, co uzasadnia wiarę w postulowane byty oraz jak język i instytucje kształtują wiedzę. Nie jest podręcznikiem jednej „metody naukowej”. Różne dyscypliny wykorzystują eksperyment, obserwację, modelowanie, badania historyczne i syntezę dowodów.
 
-Dla psychologa pytania te mają bezpośrednie znaczenie praktyczne: psychologia od dawna boryka się z pytaniem o własny status naukowy - czy jest nauką przyrodniczą, humanistyczną, czy może hybrydą? Jak odróżnić rzetelne badania od pseudonauki?
+## Demarkacja i falsyfikacja
 
-> **Fakt:** Psychologia jest jedną z dziedzin nauki najsilniej dotkniętych **kryzysem replikacji**: metaanalizy z lat 2011–2020 wykazały, że tylko ok. 36–50% kluczowych wyników badań psychologicznych udało się zreplikować w niezależnych laboratoriach, co wywołało głęboką dyskusję o metodach i standardach publikacji.
+Problem demarkacji dotyczy kryteriów odróżniania nauki od pseudonauki i innych racjonalnych aktywności. Popper proponował **falsyfikowalność**: teoria empiryczna powinna zakazywać możliwych stanów rzeczy, a więc dopuszczać test, który mógłby wykazać jej fałszywość. Wspiera to śmiałe przewidywania i krytyczne testowanie.
 
-## Falsyfikacjonizm Karla Poppera
+Pojedynczy niezgodny wynik rzadko obala samą teorię, ponieważ test obejmuje założenia pomocnicze, pomiar i warunki początkowe. Nauki probabilistyczne także nie przewidują każdego przypadku. Falsyfikacja jest zatem ważnym ideałem krytyki, lecz niewystarczającym mechanicznym kryterium. Ocenia się program badawczy, jakość reakcji na anomalie, powtarzalność i zdolność generowania nowej wiedzy.
 
-Karl Popper zaproponował **falsyfikacjonizm** jako kryterium demarkacji nauki od pseudonauki: teoria naukowa musi być **falsyfikowalna** - musi istnieć możliwe obserwacje, które mogłyby ją obalić.
+## Wyjaśnianie naukowe
 
-Popper krytykował psychoanalizę i marksizm jako niefalsyfikowalne: niezależnie od obserwacji, interpretacja zawsze mogła je wchłonąć. Tymczasem ogólna teoria względności Einsteina była ryzykowna - przewidywała ugięcie światła przez grawitację w sposób, który można było sprawdzić (i sprawdzono w 1919 roku).
+Model dedukcyjno-nomologiczny Hempla ujmuje wyjaśnienie jako wyprowadzenie zjawiska z praw i warunków początkowych. Modele przyczynowe wskazują mechanizmy i pokazują, co zmieniłaby interwencja. Wyjaśnienia unifikacyjne łączą wiele zjawisk niewielką liczbą zasad, a statystyczne określają zmianę prawdopodobieństwa. Żaden model nie pasuje do wszystkich dziedzin.
 
-Falsyfikacjonizm ma ważne implikacje dla psychologii:
+Dobre wyjaśnienie różni się od opisu i predykcji. Model może trafnie przewidywać bez realistycznego przedstawienia mechanizmu, a wyjaśnienie historyczne może być dobre mimo braku precyzyjnej prognozy. W psychologii szczególnego znaczenia nabierają trafność konstruktu, alternatywne mechanizmy i przenoszenie wyników między populacjami.
 
-- Teoria powinna generować **testowalne przepowiednie**.
-- Negatywny wynik badania jest tak samo wartościowy jak pozytywny.
-- Nauka postępuje przez eliminację fałszywych teorii, nie przez ich potwierdzanie.
+## Realizm naukowy
 
-> **Cytat:** „Kryterium naukowości teorii jest jej falsyfikowalność lub podważalność, lub sprawdzalność." - Karl Popper, *Logika odkrycia naukowego* (1934)
+Realizm naukowy w przybliżeniu głosi, że dojrzałe, skuteczne teorie są przynajmniej w przybliżeniu prawdziwe, także w odniesieniu do nieobserwowalnych bytów. Argument „z braku cudu” wskazuje, że sukces predykcyjny byłby zaskakujący, gdyby teorie nie trafiały w strukturę świata. Pesymistyczna metaindukcja przypomina jednak o dawnych skutecznych teoriach, których ontologie odrzucono.
 
-## Rewolucje naukowe Thomasa Kuhna
+Antyrealizm i empiryzm konstruktywny mogą traktować adekwatność empiryczną jako wystarczający cel. Realizm strukturalny wiąże ciągłość raczej z relacjami niż pełnym katalogiem bytów. Wybór nie sprowadza się do przeciwstawienia „wiary w naukę” sceptycyzmowi: dotyczy zakresu zobowiązań ontologicznych wynikających z sukcesu teorii.
 
-Thomas Kuhn w *Strukturze rewolucji naukowych* (1962) zaproponował alternatywny obraz nauki. Nauka nie postępuje kumulatywnie - przechodzi przez cykle:
+## Paradygmaty i zmiana teorii
 
-- **Nauka normalna**: uczeni pracują w ramach **paradygmatu** - uznanego zestawu teorii, metod i wartości (przykład: behawioryzm w psychologii XX w.).
-- **Anomalie**: gromadzą się obserwacje, których paradygmat nie potrafi wyjaśnić.
-- **Kryzys**: paradygmat ulega zakwestionowaniu.
-- **Rewolucja naukowa**: stary paradygmat zostaje zastąpiony nowym (przykład: rewolucja kognitywna lat 50.–60.).
-- **Nowa nauka normalna**: cykl się powtarza.
+Kuhn opisywał naukę normalną jako rozwiązywanie łamigłówek w ramach paradygmatu, a rewolucję jako zmianę standardów, przykładów i języka dyscypliny. Niewspółmierność nie oznacza, że paradygmatów nie można racjonalnie porównywać; wskazuje, że porównanie nie odbywa się za pomocą całkowicie neutralnego słownika.
 
-Kuhn twierdził, że paradygmaty są **niewspółmierne** (*incommensurable*): naukowcy pracujący w różnych paradygmatach żyją w różnych światach pojęciowych i nie mogą po prostu porównać swoich teorii.
+Lakatos analizował programy badawcze z „twardym rdzeniem” i pasem hipotez pomocniczych. Program postępowy przewiduje nowe fakty, degenerujący głównie dostosowuje się po fakcie. Historia nauki pokazuje, że badacze słusznie nie porzucają teorii po pierwszej anomalii, ale długotrwała immunizacja przed krytyką obniża wiarygodność.
 
-## Programy badawcze Imre Lakatosa
+## Pojęcia, znaczenie i język
 
-Imre Lakatos próbował pogodzić Poppera z Kuhnem. Jego koncepcja **programów badawczych** zakłada, że nauka operuje na poziomie całych programów, nie pojedynczych teorii. Każdy program ma:
+Język nie jest przezroczystą etykietą naklejaną na gotowe dane. Pojęcia wyznaczają, co mierzymy i jakie podobieństwa uznajemy za istotne. Operacjonalizacja łączy konstrukt, na przykład depresję albo inteligencję, ze wskaźnikami; wskaźnik nie staje się przez to tożsamy z konstruktem.
 
-- **Twardy rdzeń** (*hard core*): zasadnicze założenia chronione przed falsyfikacją przez konwencję.
-- **Pas ochronny** (*protective belt*): pomocnicze hipotezy, które są modyfikowane, gdy pojawiają się anomalie.
+Frege rozróżnił sens i odniesienie, pokazując, że dwa wyrażenia mogą wskazywać ten sam obiekt, a przekazywać inną treść poznawczą. Późny Wittgenstein podkreślał użycie słów w praktykach, czyli „grach językowych”. Quine kwestionował ostre oddzielenie zdań analitycznych od empirycznych, a Kuhn pokazał historyczne zmiany słowników naukowych. Nie wynika stąd, że fakty są dowolnie tworzone przez słowa. Język pośredniczy w dostępie do świata, a opór danych ogranicza dopuszczalne interpretacje.
 
-Program jest **postępowy**, gdy generuje nowe, sprawdzalne przewidywania; **degenerujący**, gdy jedynie broni rdzenia przez *ad hoc* modyfikacje.
+Akty mowy mogą nie tylko opisywać, lecz także obiecywać, klasyfikować lub ustanawiać procedury. W nauce definicje, nazwy kategorii i metafory wpływają na wnioskowanie oraz społeczne skutki klasyfikacji. Odpowiedzialne tworzenie pojęć wymaga precyzji, jawności wartości i sprawdzania, czy kategoria nie zaciera ważnych różnic.
 
-## Demarcation problem - problem demarkacji
+## Odpowiedzialność epistemiczna
 
-**Problem demarkacji** pyta o granicę między nauką a pseudonauką. Nie ma tu prostej odpowiedzi. Kryteria proponowane w historii filozofii to:
+Odpowiedzialność epistemiczna obejmuje normy tworzenia, podtrzymywania i przekazywania przekonań: proporcjonalność pewności do dowodów, poszukiwanie kontrargumentów, korygowanie błędów i jawność ograniczeń. Nie jest żądaniem nieomylności. Obowiązki zależą od roli i ryzyka: ekspert publicznie wypowiadający się o zdrowiu ma większy obowiązek weryfikacji niż osoba prowadząca prywatną rozmowę.
 
-- **Falsyfikowalność** (Popper) - zbyt rygorystyczna; wyklucza np. historię.
-- **Potwierdzalność** (Koło Wiedeńskie) - zbyt liberalna; wiele twierdzeń metafizycznych daje się potwierdzić.
-- **Progresywność programu badawczego** (Lakatos) - pragmatyczna, ale kontekstualna.
+Wiedza ma charakter społeczny. Recenzja, replikacja, udostępnianie danych i korekty rozdzielają pracę poznawczą, ale autorytet może być nadużywany. Fricker opisuje niesprawiedliwość testimonialną, gdy świadectwu przypisuje się zbyt małą wiarygodność z powodu uprzedzenia, oraz hermeneutyczną, gdy grupie brakuje wspólnych zasobów do nazwania doświadczenia.
 
-Dla psychologa problem demarkacji jest żywy: jak ocenić status EMDR, terapii MBCT, coaching'u, arteterapii? Pytanie o dowody empiryczne (*evidence-based practice*) jest bezpośrednią aplikacją filozofii nauki.
+Praktyczne normy obiegu informacji obejmują:
 
-## Realizm naukowy a instrumentalizm
+- odróżnianie danych, interpretacji i rekomendacji;
+- podawanie źródła pierwotnego zamiast łańcucha powtórzeń;
+- komunikowanie niepewności i konfliktów interesów;
+- aktualizowanie twierdzeń po korekcie lub nowych dowodach;
+- niewzmacnianie informacji jedynie dlatego, że jest angażująca.
 
-Spór o realizm naukowy pyta, czy teorie naukowe opisują rzeczywistość, czy są jedynie użytecznymi narzędziami:
+## Selekcja obserwatora i „cień antropiczny”
 
-- **Realizm naukowy** głosi, że dobre teorie naukowe są (w przybliżeniu) prawdziwe - elektrony, neurony, przekaźniki naprawdę istnieją.
-- **Instrumentalizm** twierdzi, że teorie to tylko narzędzia do przewidywania obserwacji - pytanie o ich prawdziwość nie ma sensu.
+Efekty selekcji obserwatora występują, gdy możliwość uzyskania danych zależy od istnienia obserwatora. Bostrom i Ćirković nazwali „cieniem antropicznym” potencjalne zaniżenie oceny katastrof naturalnych na podstawie samego zapisu przetrwania: zdarzenia, które unicestwiłyby obserwatorów, nie mogły zostać przez nich odnotowane. To argument o obciążeniu próby, nie dowód konkretnej częstości katastrof.
 
-Dla psychologa: czy konstrukty takie jak „osobowość", „inteligencja", „nieświadomość" odkrywamy czy tylko konstruujemy dla celów praktycznych?
+Wniosek metodologiczny jest umiarkowany: przy estymacji ryzyka trzeba modelować proces selekcji i korzystać z niezależnych danych geologicznych, astronomicznych oraz fizycznych. Szczegóły rozumowań antropicznych omawia [artykuł o argumentach antropicznych](argumenty_antropiczne_i_realizm_modalny.md).
 
-## Wartości w nauce
+## Granice i wartości
 
-Klasyczne podejście zakłada, że nauka jest lub powinna być **wolna od wartości** (*value-free*). Jednak filozofowie nauki (Longino, Kitcher) wskazują, że wartości epistemiczne i społeczne nieuchronnie wnikają w wybór problemów badawczych, metod i interpretację wyników. Psychologia ma tu szczególnie trudne pole: kategorie diagnostyczne i normy zdrowia psychicznego nie są neutralne - odzwierciedlają wartości kulturowe i polityczne.
+Wybór tematów, progów błędu i zastosowań zawiera wartości, ale nie oznacza to, że każdy wynik jest polityczną opinią. Jawne standardy, pluralizm krytyki i rozdzielenie pytań empirycznych od normatywnych pomagają kontrolować wpływ wartości. Filozofia nauki nie dostarcza pieczęci pewności; wyjaśnia, dlaczego krytykowalna i korygowalna wiedza może być racjonalna mimo omylności.
 
+## Bibliografia
 
-
-Filozofia nauki dostarcza psychologowi narzędzi do krytycznej oceny własnej dyscypliny: jak oceniać jakość badań, rozpoznawać pseudonaukę, rozumieć zmiany paradygmatów i refleksyjnie traktować własne założenia metodologiczne. W obliczu kryzysu replikacji i proliferacji terapii o niepotwierdzonym działaniu, filozofia nauki staje się nie luksusem, lecz koniecznością zawodową.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Filozofia nauki" polega na tym, że siła analizy filozoficznej polega nie tylko na obronie stanowiska, lecz także na ujawnianiu kosztów założeń, granic pojęć i konsekwencji intuicji.
-
-Dopiero wspólna analiza zagadnień takich jak czym jest filozofia nauki?, programy badawcze imre lakatosa oraz wartości w nauce pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Filozofia nauki" pokazuje, że najbardziej wartościowe podsumowanie wymaga odróżnienia tego, co logicznie możliwe, od tego, co epistemicznie uzasadnione i praktycznie doniosłe.
-
-
-Dopiero wspólna analiza zagadnień takich jak czym jest filozofia nauki?, programy badawcze imre lakatosa oraz wartości w nauce pokazuje pełny zakres omawianego zjawiska.## Bibliografia
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+1. Bostrom, N., & Ćirković, M. M. (2008). Global catastrophic risks. W N. Bostrom & M. M. Ćirković (red.), *Global Catastrophic Risks* (s. 1–29). Oxford University Press.
+2. Fricker, M. (2007). *Epistemic Injustice*. Oxford University Press.
+3. Hempel, C. G. (1965). *Aspects of Scientific Explanation*. Free Press.
+4. Kuhn, T. S. (2012). *The Structure of Scientific Revolutions* (4th ed.). University of Chicago Press.
+5. Lakatos, I. (1978). *The Methodology of Scientific Research Programmes*. Cambridge University Press.
+6. Longino, H. E. (1990). *Science as Social Knowledge*. Princeton University Press.
+7. Popper, K. R. (2002). *The Logic of Scientific Discovery*. Routledge. (Oryginał opublikowano w 1934 r.).
+8. van Fraassen, B. C. (1980). *The Scientific Image*. Oxford University Press.
+9. Wittgenstein, L. (2001). *Philosophical Investigations* (3rd ed.). Blackwell. (Oryginał opublikowano w 1953 r.).

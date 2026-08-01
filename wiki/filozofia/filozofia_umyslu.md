@@ -1,86 +1,77 @@
 ---
-lastReviewed: 2026-04-01
+lastReviewed: 2026-08-01
 reviewCycleMonths: 24
-evidenceCutoffDate: 2025-12-31
+evidenceCutoffDate: 2026-08-01
+aliases:
+  - filozofia świadomości
 ---
 
-# Filozofia umysłu
+# Filozofia umysłu i tożsamości osobowej
 
-## Czym zajmuje się filozofia umysłu?
+## Dwa odrębne problemy
 
-**Filozofia umysłu** to dział filozofii badający naturę stanów i procesów mentalnych: myśli, percepcji, emocji, pragnień, intencji i - przede wszystkim - **świadomości**. Jest ściśle powiązana z kognitywistyką, neuronauką i psychologią, choć stawia pytania, które wykraczają poza to, co można zbadać metodami empirycznymi.
+Filozofia umysłu pyta, czym są stany psychiczne, jak odnoszą się do ciała i dlaczego procesom mózgowym towarzyszy doświadczenie. Filozofia tożsamości osobowej pyta natomiast, na jakiej podstawie osobę z różnych chwil uznajemy za tę samą. Świadomość może być ważnym kryterium ciągłości, lecz wyjaśnienie jej natury nie rozstrzyga automatycznie, kto przetrwał utratę pamięci albo hipotetyczną teleportację.
 
-Centralne pytania filozofii umysłu to: Czym jest świadomość? Jak myśli odnoszą się do rzeczywistości (*intencjonalność*)? Czy stany mentalne są tożsame ze stanami mózgu? Czy maszyny mogą myśleć? Czy istnieje coś takiego jak „ja"?
+Trzeba też oddzielić trzy poziomy: ontologiczny (czym umysł jest), naukowy (jakie mechanizmy realizują funkcje psychiczne) oraz epistemiczny (skąd znamy cudze i własne stany). Wynik neuronauki może ograniczyć teorie ontologiczne, ale opis korelatu neuronalnego nie jest jeszcze kompletną teorią świadomości.
 
-> **Fakt:** Filozofia umysłu stała się jedną z najbardziej dynamicznych subdyscyplin filozofii po tzw. „rewolucji kognitywnej" lat 50.–60. XX wieku, kiedy psychologia odeszła od behawioryzmu i zaczęła badać wewnętrzne reprezentacje poznawcze - stawiając pytania, które filozofowie zadawali od wieków.
+## Świadomość, funkcje i doświadczenie
 
-## Świadomość i trudny problem
+Świadomość fenomenalna oznacza, że istnieje „jak to jest” widzieć czerwień lub czuć ból. Świadomość dostępu dotyczy informacji dostępnej rozumowaniu, raportowaniu i kontroli działania. Rozróżnienie to porządkuje debatę: teoria może dobrze wyjaśniać dostęp, a pozostawiać spór o jakościowy charakter przeżyć (*qualia*).
 
-David Chalmers rozróżnia **łatwe problemy świadomości** (*easy problems*) - wyjaśnienie mechanizmów percepcji, uwagi, raportowania stanów mentalnych - od **trudnego problemu** (*hard problem*): dlaczego w ogóle istnieje subiektywne, wewnętrzne doświadczenie?
+Chalmers nazwał wyjaśnianie funkcji poznawczych „łatwymi problemami”, a pytanie, dlaczego ich realizacji towarzyszy doświadczenie, „trudnym problemem”. „Łatwe” nie znaczy technicznie proste. Krytycy odpowiadają, że po pełnym wyjaśnieniu zdolności do rozróżniania, integracji i raportowania nie pozostanie osobny fakt wymagający wyjaśnienia.
 
-**Qualia** (l.p. *quale*) to subiektywne, jakościowe aspekty doświadczenia: redness of red, ból bólu, smak kawy. Nawet pełny opis neuronalny nie wydaje się wyjaśniać, *jak to jest* być istotą przeżywającą te stany. Argument **Mary** (Frank Jackson): Mary, wybitna neurolog, wie wszystko o fizyce barw, ale nigdy nie widziała czerwieni. Gdy wychodzi z czarno-białego pokoju - czy dowiaduje się czegoś nowego?
+## Główne stanowiska
 
-> **Cytat:** „Gdybyśmy mogli wyjaśnić wszystkie funkcjonalne właściwości świadomości, nadal nie wiedzielibyśmy, dlaczego mają one wewnętrzną stronę - dlaczego towarzyszą im odczucia." - David Chalmers, *The Conscious Mind* (1996)
+### Dualizm
 
-## Intencjonalność
+Dualizm substancji uznaje umysł i materię za odmienne rodzaje substancji; dualizm własności dopuszcza jedną substancję fizyczną, ale nieredukowalne własności psychiczne. Stanowiska te traktują doświadczenie poważnie, lecz mierzą się z pytaniem o oddziaływanie przyczynowe oraz zgodność z domknięciem fizycznym.
 
-**Intencjonalność** to własność stanów mentalnych polegająca na tym, że są one *o czymś* - są skierowane na przedmioty lub treści. Moja myśl może być o Paryżu, moje pragnienie - o wodzie, mój strach - o nadchodzącym egzaminie.
+### Fizykalizm
 
-Franz Brentano (1874) wprowadził intencjonalność jako wyróżnik stanów mentalnych. Problem polega na tym, że myśl może dotyczyć obiektów nieistniejących (Sherlock Holmes, złota góra) - jak to możliwe w ramach czysto materialistycznej teorii umysłu?
-
-## Główne stanowiska w filozofii umysłu
-
-### Fizykalizm redukcyjny i teoria tożsamości
-
-**Teoria tożsamości** (Place, Smart, Lewis) głosi, że stany mentalne są identyczne z określonymi stanami mózgu. Ból to C-fibres firing. Stanowisko to ma zaletę ontologiczną prostotę, lecz problem **wielokrotnej realizowalności** (*multiple realizability*): ten sam stan mentalny może być zrealizowany w różnych systemach fizycznych (ludzki mózg, krab, być może maszyna).
+Fizykalizm głosi, że wszystko, co istnieje, jest fizyczne lub zależy od tego, co fizyczne. Teoria identyczności utożsamia typy stanów psychicznych z typami stanów mózgu. Redukcyjny fizykalizm oczekuje wyjaśnienia psychiki w terminach niższego poziomu; nieredukcyjny dopuszcza autonomiczne opisy psychologiczne bez odrębnej substancji. Wieloraka realizowalność, czyli możliwość realizacji tej samej funkcji przez różne układy, utrudnia proste utożsamienie każdego typu stanu psychicznego z jednym typem neuronalnym.
 
 ### Funkcjonalizm
 
-**Funkcjonalizm** (Putnam, Fodor) definiuje stany mentalne przez ich rolę funkcjonalną - relacje z wejściami (bodźcami), wyjściami (zachowaniami) i innymi stanami mentalnymi - nie przez substrat fizyczny. Ból to to, co jest powodowane przez uszkodzenie tkanek, powoduje okrzyki i chęć ucieczki, i jest wywoływane przez takie zachowanie. Funkcjonalizm dopuszcza możliwość, że maszyny lub istoty o innej biologii mogą mieć stany mentalne.
+Funkcjonalizm określa stan psychiczny przez jego rolę przyczynową: relacje z bodźcami, innymi stanami i zachowaniem. Pozwala porównywać ludzi, zwierzęta i systemy sztuczne bez zakładania identycznego tworzywa. Zarzut brzmi, że sama organizacja funkcjonalna może nie wystarczać do wyjaśnienia jakości doświadczenia.
 
 ### Eliminatywizm
 
-**Eliminatywizm** (Paul i Patricia Churchland) twierdzi, że potoczna psychologia (*folk psychology*) - posługiwanie się pojęciami przekonań, pragnień, emocji - jest błędną teorią, która zostanie zastąpiona przez neuronauki. Przekonania nie „istnieją" w sensie ontologicznym - są jak „cieplik" przed odkryciem termodynamiki.
+Eliminatywny materializm Churchlandów przewiduje, że niektóre kategorie psychologii potocznej, na przykład przekonienia rozumiane jako jednolite wewnętrzne zdania, mogą zostać zastąpione przez dojrzalszą neuronaukę. To mocniejsza teza niż fizykalizm lub redukcja: nie mówi tylko, z czego stany są zbudowane, lecz kwestionuje trafność części potocznej taksonomii. Sukces codziennego wyjaśniania działań i ryzyko samoodniesieniowej trudności stanowią istotne kontrargumenty.
 
-### Własnościowy dualizm
+### Panpsychizm
 
-**Własnościowy dualizm** (Chalmers) odróżnia właściwości fizyczne od fenomenalnych: istnieje tylko jedna substancja (fizyczna), ale przysługują jej dwa rodzaje własności. Własności fenomenalne są nieredukowalne do fizycznych.
+Panpsychizm przypisuje fundamentalne własności doświadczeniowe bardzo szerokiej klasie składników natury. Ma uniknąć wyłaniania się świadomości z całkowicie nieświadomej podstawy, ale napotyka **problem kombinacji**: nie wiadomo, jak domniemane mikropodmioty miałyby tworzyć jednolitą świadomość osoby. Nie wynika z niego, że kamień myśli jak człowiek ani że wszystkie układy cierpią.
 
-## Świadomość a mózg: perspektywy neuronaukowe
+Określenie **„horror panpsychizmu”** nie jest utrwaloną nazwą stanowiska akademickiego. Oznacza autorską lub marginalną reakcję, według której powszechność doświadczenia mogłaby oznaczać powszechność cierpienia. Wniosek ten wymaga dodatkowych przesłanek: doświadczenie nie jest tym samym co ból, a panpsychizm nie dostarcza sam kryterium dobrostanu mikrosystemów.
 
-Współczesna neuronauka identyfikuje kilka kluczowych koncepcji:
+## Zombie filozoficzne jako argument
 
-- **Teoria globalnej przestrzeni roboczej** (Baars, Dehaene): świadome treści to te, które są szeroko dystrybuowane w sieciach korowych i dostępne różnym procesom poznawczym.
-- **Teoria zintegrowanej informacji** (Tononi): świadomość jest ilościowo mierzalna wskaźnikiem Φ (*phi*) - miarą zintegrowanej informacji w systemie.
-- **Predykcyjne przetwarzanie** (Clark, Friston): mózg jest maszyną predykcyjną, a percepcja to wynik konfrontacji prognoz z danymi sensorycznymi.
+**Zombie filozoficzne** to hipotetyczne istoty fizycznie i funkcjonalnie identyczne z człowiekiem, lecz pozbawione doświadczenia fenomenalnego. Nie są proponowanym gatunkiem ani hipotezą empiryczną. W argumencie z wyobrażalności mają pokazać, że jeśli taki świat jest idealnie pojmowalny, to jest metafizycznie możliwy, a fakty fenomenalne nie wynikają koniecznie z fizycznych.
 
-## Wolna wola i odpowiedzialność moralna
+Argument jest sporny na obu przejściach. Pojmowalność może odzwierciedlać lukę w naszych pojęciach, nie możliwość w rzeczywistości. Fizykalista może też twierdzić, że pełny duplikat fizyczny z definicji obejmuje wszystko, co wytwarza raporty i doświadczenie. Eksperyment nie dowodzi więc dualizmu; precyzyjnie ujawnia cenę konkurencyjnych teorii.
 
-Filozofia umysłu łączy się z pytaniem o **wolną wolę**: czy nasze decyzje są skutkiem przyczynowego łańcucha zdarzeń fizycznych, czy też mamy autentyczną sprawczość? Eksperymenty Benjamina Libeta (1983) sugerowały, że gotowość mózgu do działania poprzedza świadomą decyzję - co wywołało burzliwą debatę o tym, czy wolna wola jest iluzją.
+## Tożsamość osobowa
 
-**Kompatybilizm** (Frankfurt, Dennett) twierdzi, że wolna wola i determinizm mogą współistnieć: wolność to działanie zgodnie z własnymi pragnieniami i wartościami, nie zaś działanie niezdeterminowane.
+Kryterium cielesne wiąże osobę z ciągłością żywego organizmu, kryterium mózgowe z zachowaniem odpowiednich struktur mózgu, a kryterium psychologiczne z nakładającymi się łańcuchami pamięci, intencji i charakteru. Przypadki amnezji, podziału i hipotetycznego kopiowania pokazują, że kryteria mogą dawać różne odpowiedzi.
 
+Redukcjonizm Parfita głosi, że fakty o osobie polegają na faktach o ciągłości fizycznej i psychologicznej, bez dodatkowego kartezjańskiego ego. Tożsamość numeryczna jest relacją „wszystko albo nic”, ale psychologiczne połączenie może mieć stopnie. Parfit nie dowodzi przez to, że osoby nie istnieją; twierdzi, że w przetrwaniu może liczyć się relacja psychologiczna nawet tam, gdzie pytanie o identyczność nie ma oczekiwanej odpowiedzi.
 
+Nazwy **„pusty indywidualizm”** (*empty individualism*) używa się w części współczesnych dyskusji dla poglądu, że podmiot istnieje tylko chwilowo i nie ma tożsamości przez czas. Nie jest to standardowa nazwa redukcjonizmu Parfita, a źródła internetowe stosują ją niejednolicie. Należy ją traktować jako marginalną etykietę, nie ustalone rozstrzygnięcie.
 
-Filozofia umysłu dostarcza psychologowi pojęciowego rusztowania do rozumienia tego, czym zajmuje się jego dyscyplina. Pytania o świadomość, intencjonalność i wolną wolę nie są osobliwością gabinetową - wypływają z każdej rozmowy terapeutycznej, z każdego badania nad procesami poznawczymi. Bez refleksji filozoficznej ryzykujemy, że będziemy stosować pojęcia bez zrozumienia ich głębi i ograniczeń.
+## Nihilizm i trwałe „ja”
 
-## Perspektywa nieoczywista
+„Podświadomy nihilizm” nie jest utrwaloną kategorią w filozofii umysłu ani diagnozą psychologiczną. Może oznaczać interpretację, według której osłabienie wiary w trwałe „ja” prowadzi do utraty sensu. Taki związek nie wynika logicznie z redukcjonizmu. Parfit wyprowadzał z niego raczej mniejszą koncentrację na sobie i większą troskę o innych; tradycje buddyjskie również łączą krytykę trwałej jaźni z praktyką etyczną, choć ich pojęć nie należy utożsamiać z analizą Parfita.
 
-Nieoczywista perspektywa na temat "Filozofia umysłu" polega na tym, że siła analizy filozoficznej polega nie tylko na obronie stanowiska, lecz także na ujawnianiu kosztów założeń, granic pojęć i konsekwencji intuicji.
+## Konsekwencje i granice
 
-Dopiero wspólna analiza zagadnień takich jak czym zajmuje się filozofia umysłu?, główne stanowiska w filozofii umysłu oraz wolna wola i odpowiedzialność moralna pokazuje pełny zakres omawianego zjawiska.
+Teorie tożsamości wpływają na analizę odpowiedzialności, zobowiązań i dyrektyw medycznych. Nie można jednak bez dodatkowej argumentacji wnioskować, że osoba po zmianie charakteru traci prawa albo odpowiedzialność. Prawo i etyka posługują się praktycznymi progami ciągłości, które nie są prostą kopią metafizyki.
 
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+## Bibliografia
 
-## Podsumowanie
-
-Temat "Filozofia umysłu" pokazuje, że najbardziej wartościowe podsumowanie wymaga odróżnienia tego, co logicznie możliwe, od tego, co epistemicznie uzasadnione i praktycznie doniosłe.
-
-
-Dopiero wspólna analiza zagadnień takich jak czym zajmuje się filozofia umysłu?, główne stanowiska w filozofii umysłu oraz wolna wola i odpowiedzialność moralna pokazuje pełny zakres omawianego zjawiska.## Bibliografia
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+1. Block, N. (1995). On a confusion about a function of consciousness. *Behavioral and Brain Sciences, 18*(2), 227–247. https://doi.org/10.1017/S0140525X00038188
+2. Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
+3. Churchland, P. M. (1981). Eliminative materialism and the propositional attitudes. *The Journal of Philosophy, 78*(2), 67–90. https://doi.org/10.2307/2025900
+4. Goff, P., Seager, W., & Allen-Hermanson, S. (2022). Panpsychism. W E. N. Zalta (red.), *The Stanford Encyclopedia of Philosophy*.
+5. Olson, E. T. (2023). Personal identity. W E. N. Zalta & U. Nodelman (red.), *The Stanford Encyclopedia of Philosophy*.
+6. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
+7. Putnam, H. (1967). Psychological predicates. W W. H. Capitan & D. D. Merrill (red.), *Art, Mind, and Religion* (s. 37–48). University of Pittsburgh Press.

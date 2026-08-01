@@ -1,194 +1,91 @@
-﻿---
-lastReviewed: 2026-04-01
+---
+title: Diagnoza i rehabilitacja neuropsychologiczna
+aliases:
+  - rehabilitacja neuropsychologiczna
+  - ocena neuropsychologiczna
+lastReviewed: 2026-08-01
 reviewCycleMonths: 24
-evidenceCutoffDate: 2025-12-31
+evidenceCutoffDate: 2026-07-31
 ---
 
-# Rehabilitacja neuropsychologiczna
+# Diagnoza i rehabilitacja neuropsychologiczna
 
-Uszkodzenie mózgu zmienia człowieka - nie tylko jego zdolności poznawcze, lecz całą tożsamość, relacje i codzienne funkcjonowanie. Rehabilitacja neuropsychologiczna to systematyczny, oparty na nauce interwencji proces, który pomaga osobom po urazach i chorobach neurologicznych odzyskać sprawność lub nauczyć się żyć z trwałymi ograniczeniami.
+Diagnoza neuropsychologiczna opisuje, jak osoba funkcjonuje poznawczo, emocjonalnie i w codziennych rolach oraz jakie mechanizmy mogą wyjaśniać ten profil. Rehabilitacja pomaga osiągać ważne cele przez restytucję, kompensację i zmianę środowiska. Wynik testu jest jednym ze wskaźników, nie celem samym w sobie.
 
-## Czym jest rehabilitacja neuropsychologiczna?
+## Ocena funkcji i potrzeb
 
-**Rehabilitacja neuropsychologiczna** to wielowymiarowy proces terapeutyczny skierowany do osób z zaburzeniami funkcji poznawczych, emocjonalnych, behawioralnych i psychospołecznych spowodowanymi uszkodzeniem lub dysfunkcją ośrodkowego układu nerwowego (OUN).
+Proces zaczyna się od pytania klinicznego, wywiadu z osobą i, za jej zgodą, z bliskimi. Obejmuje historię choroby i edukacji, samodzielność przed zachorowaniem, leki, sen, ból, zmęczenie, nastrój, słuch, wzrok, język i kontekst kulturowy. Nagła zmiana stanu może wymagać pilnej oceny medycznej, nie kolejnego testu poznawczego.
 
-Celem jest nie tylko restytucja utraconych funkcji, lecz szerzej - maksymalizacja jakości życia poprzez:
+Testy dobiera się do hipotez. Ocenia się między innymi uwagę, tempo przetwarzania, uczenie i pamięć, język, praksję, funkcje wzrokowo-przestrzenne, społeczne i wykonawcze. Test przesiewowy nie zastępuje badania pogłębionego. Wynik interpretuje się względem odpowiednich norm, jakości wysiłku i zachowania podczas badania, ale także danych z obserwacji oraz realnych zadań. [Anatomia funkcjonalna](./anatomia.md) i obrazowanie mogą wspierać rozumowanie, lecz nie pozwalają mechanicznie wyprowadzić profilu osoby ze zmiany widocznej na skanie.
 
-- przywrócenie lub kompensację zaburzonych funkcji poznawczych;
-- poprawę samodzielności w życiu codziennym;
-- wsparcie psychologiczne pacjenta i jego rodziny;
-- reintegrację społeczną i zawodową.
+## Formułowanie celów
 
-Fundamentem rehabilitacji neuropsychologicznej jest **neuroplastyczność** - zdolność mózgu do reorganizacji i tworzenia nowych połączeń w odpowiedzi na uszkodzenie i intensywny trening. Im wcześniej rozpoczęta i bardziej intensywna rehabilitacja, tym większe szanse na efektywną reorganizację sieci neuronowych.
+Cele powinny być znaczące dla osoby, obserwowalne i osadzone w czasie, na przykład samodzielne przygotowanie leków z kontrolą bezpieczeństwa albo stopniowy powrót do dwóch godzin pracy. Goal Attainment Scaling może porządkować oczekiwany poziom i odchylenia od niego, o ile skala nie zastępuje rozmowy o jakości życia.
 
-## Wskazania kliniczne
+Plan uwzględnia mocne strony, rokowanie, ryzyko, zasoby rodziny i środowiska. Cel „poprawić pamięć” należy przełożyć na sytuacje, w których zapominanie ogranicza udział. Priorytety zmieniają się wraz ze zdrowieniem, dlatego wymagają regularnego przeglądu.
 
-Rehabilitacja neuropsychologiczna jest wskazana w szerokim spektrum schorzeń:
+## Trzy uzupełniające strategie
 
-### Nabyte uszkodzenia mózgu
+### Restytucja
 
-- **Udar mózgu** (udar niedokrwienny i krwotoczny) - najczęstsza przyczyna nabytych zaburzeń poznawczych u dorosłych; możliwe afazja, neglect, zaburzenia pamięci, funkcji wykonawczych;
-- **Urazowe uszkodzenie mózgu (TBI)** - od wstrząśnienia do ciężkiego urazu z trwałymi deficytami; szczególne wyzwanie stanowią zaburzenia samoświadomości (anosognozja);
-- **Guzy mózgu** - zarówno sam nowotwór, jak i leczenie (chirurgia, radioterapia, chemioterapia) mogą powodować deficyty poznawcze;
-- **Zapalenie mózgu i opon** - po przebyciu autoimmunologicznych i wirusowych zapaleń mogą pozostawać trwałe zaburzenia pamięci i uwagi.
+Restytucja ćwiczy zaburzony proces, na przykład selektywną uwagę lub nazywanie. Zadania powinny stopniować trudność, dostarczać informacji zwrotnej i pozostawać powiązane z pożądanym działaniem. Powtarzanie abstrakcyjnego ćwiczenia bez strategii transferu może poprawiać głównie wykonanie tego ćwiczenia.
 
-### Choroby neurodegeneracyjne
+### Kompensacja
 
-- **Choroba Alzheimera i inne otępienia** - rehabilitacja nakierowana na kompensację i utrzymanie funkcji jak najdłużej, wsparcie opiekunów;
-- **Choroba Parkinsona** - zaburzenia funkcji wykonawczych, uwagi i pamięci operacyjnej towarzyszące objawom motorycznym;
-- **Stwardnienie rozsiane (SM)** - zmęczenie poznawcze, spowolnienie przetwarzania, zaburzenia pamięci.
+Kompensacja wykorzystuje zachowane zdolności lub pomoce: kalendarz, alarmy, notatnik pamięci, instrukcję krok po kroku, samoinstrukcję, planowanie i przerwy. Pomoce dobiera się do nawyków osoby i ćwiczy w miejscu użycia. Najbardziej zaawansowana aplikacja jest nieskuteczna, jeśli osoba nie pamięta, by ją otworzyć.
 
-### Inne stany
+### Modyfikacja środowiska
 
-- **Hipoksja mózgu** (np. po zatrzymaniu krążenia);
-- **Choroby metaboliczne** (np. encefalopatia wątrobowa);
-- **Zaburzenia neurorozwojowe** u dzieci (ADHD, ASD, dysleksja) - rehabilitacja neuropsychologiczna jako element terapii.
+Zmiana otoczenia zmniejsza obciążenie: stałe miejsca przedmiotów, etykiety, ograniczenie dystraktorów, uproszczenie rutyn, automatyczne wyłączniki i nadzór nad ryzykownymi czynnościami. Nie jest „poddaniem się”, lecz sposobem zwiększania samodzielności i bezpieczeństwa. Należy zachować proporcję między ochroną a autonomią.
 
-## Modele i podejścia teoretyczne
+## Od wyniku testu do udziału w życiu
 
-### Model restytucji i kompensacji
+Efekt bliski oznacza poprawę w ćwiczonym zadaniu; transfer bliski dotyczy podobnego zadania, a transfer daleki: odmiennego zachowania lub codziennej roli. Poprawa testowa może wynikać z praktyki i nie przełożyć się na gotowanie, rozmowę czy pracę. Dlatego wynik rehabilitacji powinien obejmować co najmniej:
 
-Tradycyjny model wyróżnia dwa główne mechanizmy poprawy:
+- wykonanie celów w naturalnym środowisku;
+- samodzielność, bezpieczeństwo i udział społeczny;
+- obciążenie osoby i opiekuna;
+- jakość życia oraz utrzymanie efektu;
+- pomiary testowe, gdy odpowiadają ćwiczonemu mechanizmowi.
 
-- **Restytucja** - odtworzenie uszkodzonej funkcji poprzez przejęcie jej przez sąsiednie obszary kory lub odbudowę połączeń synaptycznych w ramach oryginalnego obwodu;
-- **Kompensacja** - wypracowanie alternatywnych strategii osiągania tego samego celu przy użyciu nienaruszonych systemów (np. zapamiętywanie wzrokowe zamiast werbalnego).
+Ocena ekologiczna może wykorzystywać obserwację zadania, dzienniczek, próbę w domu lub pracy i dane osoby bliskiej. Rozbieżność między testem a codziennością jest informacją kliniczną, a nie wynikiem do ukrycia.
 
-Współczesna neuropsychologia traktuje oba mechanizmy jako komplementarne i aktywnie wspierane przez terapię.
+## Zmęczenie, nastrój i zachowanie
 
-### Holistyczny model rehabilitacji
+Zmęczenie poznawcze, zaburzenia snu, ból, depresja, lęk i apatia wpływają na uczenie oraz udział w terapii. Wymagają pomiaru, leczenia lub dostosowania harmonogramu. Krótsze sesje z przerwami mogą być skuteczniejsze niż forsowanie intensywności. Objawów nie należy przypisywać „brakowi motywacji” bez oceny ich przyczyn.
 
-Opracowany przez **Yehudę Ben-Yishaya** i rozwinięty przez **George'a Priegatano**, model holistyczny zakłada, że samo ćwiczenie izolowanych funkcji poznawczych jest niewystarczające. Rehabilitacja musi obejmować:
+Trudności z samoświadomością, inicjowaniem i regulacją emocji mogą ograniczać korzystanie ze strategii. Pomagają informacje zwrotne oparte na konkretnych zadaniach, przewidywanie wyniku przed próbą oraz uczenie bez poniżania. Psychoterapia powinna być dostosowana do pamięci, języka i zdolności abstrahowania.
 
-- świadomość własnych ograniczeń (insight);
-- zaburzenia emocjonalne i osobowościowe;
-- relacje interpersonalne;
-- sens i cele życiowe.
+## Rodzina i bliscy
 
-Programy holistyczne łączą intensywną terapię grupową, indywidualną psychoterapię i trening funkcji poznawczych w jeden zintegrowany plan.
+Uszkodzenie mózgu zmienia role i komunikację całej rodziny. Psychoedukacja pomaga odróżnić objaw od intencji, uzgodnić wskazówki i reagować konsekwentnie. Bliscy mogą wspierać używanie pomocy i obserwować transfer, ale nie powinni automatycznie przejmować wszystkich czynności. Należy monitorować ich przeciążenie, sen, nastrój i dostęp do wytchnienia.
 
-### Podejście funkcjonalne (Goal Attainment Scaling)
+Cele osoby i rodziny mogą się różnić. Zespół powinien jawnie omawiać bezpieczeństwo, poufność, autonomię i realistyczne oczekiwania. W chorobach postępujących priorytetem bywa utrzymanie udziału i uprzedzające dostosowanie środowiska, nie restytucja.
 
-Zamiast zmierzać do abstrakcyjnego "poprawienia pamięci", rehabilitacja funkcjonalna wyznacza **konkretne, mierzalne cele** ważne dla pacjenta (np. samodzielne robienie zakupów, powrót do pracy, prowadzenie samochodu). Metoda **Goal Attainment Scaling (GAS)** umożliwia ilościowe śledzenie postępów wobec tych celów.
+## Powrót do aktywności
 
-## Techniki i metody rehabilitacji
+Powrót do nauki, pracy, prowadzenia pojazdu i opieki nad innymi wymaga oceny specyficznej dla roli. Stopniowane próby, dostosowanie godzin, ograniczenie wielozadaniowości i plan awaryjny pozwalają testować wydolność. Dobry wynik testu biurkowego nie przesądza o bezpieczeństwie prowadzenia pojazdu; obowiązują lokalne procedury medyczne i praktyczna ocena uprawnień.
 
-### Trening funkcji poznawczych
+Aktywność społeczna i rekreacyjna jest pełnoprawnym celem. Sukces nie zawsze oznacza powrót do stanu sprzed choroby, lecz możliwie autonomiczne i satysfakcjonujące życie przy aktualnych zasobach.
 
-Systematyczne ćwiczenie zaburzonych funkcji poprzez:
+## „Trening mózgu”: zakres dowodów
 
-- **Ćwiczenia uwagi** - hierarchia zadań uwagi (APT - Attention Process Training) według Sohlberga i Mateera; zadania od uwagi selektywnej przez podzielną po nadzorującą;
-- **Trening pamięci** - techniki mnemoniczne (metoda loci, historia łącząca), dzienniki zewnętrzne, alarmy i aplikacje jako protezy pamięci;
-- **Trening funkcji wykonawczych** - rozwiązywanie problemów, planowanie wieloetapowych zadań, elastyczność poznawcza;
-- **Terapia afazji** - CILT (Constraint-Induced Language Therapy), intensywny trening językowy, AAC (Augmentative and Alternative Communication).
+Komercyjne gry poznawcze zwykle poprawiają wykonywanie ćwiczonych albo bardzo podobnych zadań. Dowody na szeroki transfer do inteligencji, niezależności lub zapobiegania otępieniu są słabsze i niejednorodne. Aktywną grupę kontrolną trzeba porównywać z interwencją, ponieważ oczekiwania, kontakt i powtarzanie testów same zwiększają wyniki.
 
-> **Zasada intensywności:** Badania wykazują, że intensywność i specyficzność treningu (duże nasilenie, ćwiczenie bliskie codziennym zadaniom) jest ważniejsza niż czas trwania rehabilitacji. Mózg reorganizuje się w odpowiedzi na powtarzaną, wymagającą aktywację.
+Nie oznacza to, że ćwiczenia komputerowe są bezwartościowe. Mogą dostarczać ustrukturyzowanej praktyki jako część programu, jeżeli cel jest określony, trudność dostosowana, a transfer ćwiczony w realnej sytuacji. Nie powinny zastępować snu, aktywności fizycznej, leczenia nastroju, kontaktów społecznych ani terapii ukierunkowanej na codzienne zadania.
 
-### Strategie kompensacyjne
+## Ewaluacja i współpraca zespołu
 
-Gdy funkcja nie powraca, pacjent uczy się obchodzenia deficytu:
+Neuropsycholog współpracuje z neurologiem, lekarzem rehabilitacji, terapeutą zajęciowym, logopedą, fizjoterapeutą, pielęgniarką i pracownikiem socjalnym. Pomiar bazowy, okresowa ocena celu i plan utrzymania umożliwiają zmianę nieskutecznej strategii. Trzeba odróżnić spontaniczne zdrowienie od efektu interwencji, zwłaszcza krótko po uszkodzeniu.
 
-- **Zewnętrzne pomoce pamięci** - notatniki, białe tablice, smartfon z przypomnieniami;
-- **Rutyny i środowiskowe wskazówki** - stałe miejsca dla przedmiotów, kody kolorów;
-- **Strategie metapoznawcze** - samoopieka, planowanie w małych krokach, kontrola impulsywności.
-
-### Terapia wirtualnej rzeczywistości (VR)
-
-VR staje się coraz bardziej wartościowym narzędziem rehabilitacji. Umożliwia:
-
-- ćwiczenie w bezpiecznych, kontrolowanych symulacjach codziennych sytuacji (zakupy, gotowanie, ruch uliczny);
-- intensywne, powtarzane ekspozycje bez ryzyka;
-- obiektywny pomiar postępów;
-- leczenie neglect przestrzennego poprzez stymulację pryzmatyczną.
-
-### Neurofeedback
-
-Biofeedback oparty na sygnale EEG umożliwia pacjentowi świadome regulowanie wzorców aktywności mózgu. Stosowany w TBI, ADHD i po udarze w celu poprawy uwagi i redukcji fal wolnych (theta) w korze przedczołowej.
-
-### Farmakoterapia wspomagająca
-
-Leki nie zastępują rehabilitacji, lecz mogą tworzyć lepsze warunki neurobiologiczne:
-
-- **Amantadyna** - poprawia pobudzenie i inicjatywę po ciężkim TBI;
-- **Metylfenidat** - uwaga i tempo przetwarzania po TBI i udarze;
-- **Donepezil** - może wspomagać pamięć we wczesnym stadium TBI.
-
-## Ocena neuropsychologiczna w rehabilitacji
-
-Rehabilitacja neuropsychologiczna jest zawsze poprzedzona i monitorowana przez **kompleksową ocenę neuropsychologiczną**, która:
-
-- określa profil mocnych i słabych stron pacjenta (nie tylko diagnozuje deficyty);
-- wyznacza poziom wyjściowy do pomiaru postępów;
-- pomaga w ustaleniu realistycznych celów;
-- jest powtarzana regularnie w celu ewaluacji efektów.
-
-Używane narzędzia obejmują: Skalę Rankin (funkcjonowanie ogólne po udarze), MoCA i MMSE (przesiewowe), baterie neuropsychologiczne (RBANS, LNNB), specyficzne testy afazji (Boston Diagnostic Aphasia Examination), testy funkcji wykonawczych (WCST, TMT) i kwestionariusze jakości życia.
-
-## Czynniki prognostyczne
-
-Skuteczność rehabilitacji zależy od wielu czynników:
-
-| Czynnik | Wpływ na rokowanie |
-|---|---|
-| Wiek (młodszy) | Korzystny - większa plastyczność |
-| Czas od urazu (im wcześniej rehabilitacja) | Korzystny - okno plastyczności |
-| Rozległość uszkodzenia | Niekorzystny - większe uszkodzenie, trudniejszy powrót |
-| Edukacja i rezerwa poznawcza | Korzystny - wyższe wykształcenie sprzyja kompensacji |
-| Motywacja i insight | Korzystny - świadomość deficytów ułatwia terapię |
-| Wsparcie rodzinne | Korzystny - kontynuacja ćwiczeń w domu |
-| Współistniejące zaburzenia (depresja, lęk) | Niekorzystny - wymagają równoległego leczenia |
-
-> **Depresja jako bariera:** Depresja poudarowa dotyka 30–50% chorych po udarze i jest jednym z najsilniejszych predyktorów gorszych wyników rehabilitacji. Jej leczenie - farmakologiczne i psychoterapeutyczne - jest integralną częścią programu rehabilitacyjnego.
-
-## Rehabilitacja a neuroplastyczność
-
-Efektywna rehabilitacja neuropsychologiczna dosłownie przebudowuje mózg. Badania neuroobrazowania wykazują po intensywnej terapii:
-
-- wzrost grubości kory w obszarach trenowanych;
-- zwiększoną aktywność obszarów zastępujących uszkodzone;
-- poprawę integralności szlaków istoty białej (wskaźnik FA w DTI);
-- rekrutację kompensatorycznych obszarów ipsi- lub kontralateralnych.
-
-Mechanizmy neurobiologiczne obejmują wzmacnianie synaptyczne (LTP), sprouting aksonalny, wzrost poziomu BDNF i przyspieszenie remielinizacji. Trening behawioralny dostarcza powtarzanych, specyficznych sygnałów aktywujących odpowiednie obwody - dokładnie tego, czego mózg potrzebuje do reorganizacji.
-
-## Aspekty psychologiczne i rodzinne
-
-Uszkodzenie mózgu dotyka nie tylko pacjenta, lecz całą rodzinę. Opiekunowie narażeni są na:
-
-- **Wypalenie opiekuńcze** - chroniczne wyczerpanie emocjonalne;
-- **Żałobę ambiguistyczną** - poczucie straty osoby, która nadal żyje, lecz zmieniła się;
-- trudności w akceptacji zmian osobowości i behawioralnych pacjenta.
-
-Program rehabilitacji powinien obejmować **psychoedukację rodziny**, grupy wsparcia dla opiekunów, naukę technik radzenia sobie i jasną komunikację dotyczącą realistycznych oczekiwań.
-
-## Standardy i wytyczne
-
-Czołowe organizacje wydały wytyczne dotyczące rehabilitacji neuropsychologicznej:
-
-- **Europejska Federacja Towarzystw Neurologicznych (EFNS)** - wytyczne rehabilitacji poudarowej;
-- **Brain Injury Association of America** - standardy rehabilitacji TBI;
-- **American Academy of Neurology** - practice guidelines po udarze i TBI.
-
-Wspólny mianownik wytycznych: rehabilitacja powinna być **wczesna, intensywna, wielodyscyplinarna** (neuropsycholog, neurolog, fizjoterapeuta, logopeda, terapeuta zajęciowy, pracownik socjalny) i **skoncentrowana na celach pacjenta**.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Rehabilitacja neuropsychologiczna" polega na tym, że związek mózg-zachowanie jest wielopoziomowy, dlatego pojedyncza struktura lub proces nabiera znaczenia dopiero w kontekście całych sieci funkcjonalnych.
-
-Dopiero wspólna analiza zagadnień takich jak czym jest rehabilitacja neuropsychologiczna?, ocena neuropsychologiczna w rehabilitacji oraz standardy i wytyczne pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Rehabilitacja neuropsychologiczna" pokazuje, że najważniejsze jest łączenie wiedzy anatomicznej, poznawczej i klinicznej, aby przełożyć opis mechanizmu na rozumienie funkcjonowania człowieka.
-
-
-Dopiero wspólna analiza zagadnień takich jak czym jest rehabilitacja neuropsychologiczna?, ocena neuropsychologiczna w rehabilitacji oraz standardy i wytyczne pokazuje pełny zakres omawianego zjawiska.
+Zasady [plastyczności](./plastycznosc.md) uzasadniają praktykę i uczenie, ale nie gwarantują pełnego powrotu. Rzetelny plan łączy najlepsze dostępne dowody, wiedzę kliniczną, preferencje osoby i dane o jej funkcjonowaniu.
 
 ## Bibliografia
 
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+- Cicerone, K. D., Goldin, Y., Ganci, K., et al. (2019). Evidence-based cognitive rehabilitation: Systematic review of the literature from 2009 through 2014. *Archives of Physical Medicine and Rehabilitation, 100*(8), 1515–1533. https://doi.org/10.1016/j.apmr.2019.02.011
+- das Nair, R., Cogger, H., Worthington, E., & Lincoln, N. B. (2016). Cognitive rehabilitation for memory deficits after stroke. *Cochrane Database of Systematic Reviews*, CD002293. https://doi.org/10.1002/14651858.CD002293.pub3
+- Gorgoraptis, N., Zaw-Linn, J., Feeney, C., et al. (2019). Cognitive impairment and health-related quality of life following traumatic brain injury. *NeuroRehabilitation, 44*(3), 321–331.
+- National Institute for Health and Care Excellence. (2023). *Stroke rehabilitation in adults (NG236)*. NICE.
+- Sohlberg, M. M., & Mateer, C. A. (2001). *Cognitive rehabilitation: An integrative neuropsychological approach*. Guilford Press.
+- Simons, D. J., Boot, W. R., Charness, N., et al. (2016). Do “brain-training” programs work? *Psychological Science in the Public Interest, 17*(3), 103–186. https://doi.org/10.1177/1529100616661983
+- Wilson, B. A., Winegardner, J., van Heugten, C. M., & Ownsworth, T. (Eds.). (2017). *Neuropsychological rehabilitation: The international handbook*. Routledge.

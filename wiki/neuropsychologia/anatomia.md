@@ -1,74 +1,69 @@
-﻿---
-lastReviewed: 2026-04-01
+---
+title: Funkcjonalna anatomia mózgu
+aliases:
+  - anatomia mózgu
+  - lateralizacja funkcji
+lastReviewed: 2026-08-01
 reviewCycleMonths: 24
-evidenceCutoffDate: 2025-12-31
+evidenceCutoffDate: 2026-07-31
 ---
 
-# Anatomia mózgu
+# Funkcjonalna anatomia mózgu
 
-Podstawowa organizacja strukturalna układu nerwowego - od płatów mózgowych przez układ limbiczny po istotę białą i szlaki nerwowe.
+Anatomia dostarcza mapy, ale funkcja mózgu wynika z przepływu informacji przez połączone obszary. Kora, struktury podkorowe, pień mózgu, móżdżek i rdzeń tworzą pętle. Dlatego użyteczne pytanie brzmi nie tylko „gdzie?”, lecz także „w jakiej sieci, w którym momencie i w ramach jakiego zadania?”.
 
-## Płaty mózgowe
+## Plan strukturalny i połączenia
 
-Kora mózgowa (neocortex) jest podzielona na cztery główne płaty, każdy o specyficznej funkcji.
+Kora tworzy płaty czołowy, ciemieniowy, skroniowy, potyliczny oraz wyspę. Pierwotne pola sensoryczne i ruchowe mają względnie przewidywalną topografię, natomiast funkcje złożone angażują obszary kojarzeniowe wielu płatów. Pola Brodmanna opisują cytoarchitekturę, nie są gotową mapą procesów psychicznych.
 
-**Płat czołowy (frontalny)** obejmuje funkcje wykonawcze, planowanie, podejmowanie decyzji, kontrolę impulsów i mowę (obszar Broki). Zawiera pierwotną korę ruchową (BA 4).
+Istota biała obejmuje włókna rzutowe między korą a strukturami podkorowymi, włókna kojarzeniowe w obrębie półkuli oraz spoidła między półkulami. Ciało modzelowate wspiera wymianę i koordynację, a nie proste „łączenie dwóch osobowości”. Integralność połączeń jest równie ważna jak stan węzłów sieci.
 
-**Płat ciemieniowy (parietalny)** przetwarza informacje somatosensoryczne (czucie) i integruje dane wzrokowo-przestrzenne. Jest kluczowy dla uwagi przestrzennej. Zawiera pierwotną korę czuciową (BA 1–3).
+## Podtrzymywanie stanu organizmu i gotowości do działania
 
-**Płat skroniowy (temporalny)** obsługuje słuch, pamięć, język (obszar Wernickego) i rozpoznawanie twarzy. W głębi zawiera hipokamp i ciało migdałowate.
+![Przekrój pnia mózgu i móżdżku](/assets/pien-mozgu.jpg)
+*Pień mózgu i móżdżek. Schemat orientacyjny; granice widoczne na ilustracji nie wyznaczają odrębnych modułów psychicznych.*
 
-**Płat potyliczny (occipitalny)** jest całkowicie poświęcony przetwarzaniu wzrokowemu. Zawiera pierwotną korę wzrokową V1 (BA 17) i obszary asocjacyjne wizualne.
+Pień mózgu obejmuje śródmózgowie, most i rdzeń przedłużony. Jądra pnia uczestniczą w oddychaniu, krążeniu, odruchach czaszkowych, śnie i czuwaniu. Rozproszone układy neuromodulacyjne, między innymi noradrenergiczne miejsce sinawe, serotoninergiczne jądra szwu i cholinergiczne jądra mostu, wpływają na liczne obszary mózgu.
 
-> Poza głównymi czterema płatami wymienia się również **wyspę (Insula)** - ukrytą pod bruzdą boczną, kluczową dla świadomości trzewnej (interocepcji) oraz empatii.
+![Rdzeń przedłużony i sąsiednie struktury](/assets/Rdzen_Przedluzony.jpg)
+*Orientacyjny schemat rdzenia przedłużonego. Funkcje życiowe zależą od współpracujących jąder i połączeń, a nie od pojedynczego punktu.*
 
-### Pola Brodmanna
+Podwzgórze integruje sygnały hormonalne, autonomiczne i behawioralne związane z homeostazą. Wzgórze nie jest bierną „stacją przekaźnikową”: selekcjonuje i koordynuje wymianę między korą oraz układami podkorowymi. Móżdżek porównuje przewidywane i aktualne skutki działania, wspierając uczenie motoryczne, czasowanie i automatyzację; jego połączenia z korą wskazują również na udział w procesach poznawczych.
 
-W 1909 roku Korbinian Brodmann opublikował mapę kory mózgowej dzielącą ją na 52 obszary na podstawie *cytoarchitektoniki* - struktury warstw komórkowych. Najważniejsze to: BA 1–3 (kora somatosensoryczna), BA 4 (kora motoryczna pierwotna), BA 17 (kora wzrokowa), BA 41–42 (kora słuchowa), BA 44–45 (obszar Broki) i BA 22 (obszar Wernickego).
+## Sieci percepcji, uwagi i działania
 
-## Układ limbiczny
+Przetwarzanie wzrokowe rozpoczyna się w siatkówce i przez wzgórze dociera do kory potylicznej. Dalej rozgałęzia się na współdziałające szlaki ważne dla rozpoznawania obiektów i sterowania działaniem. Uwaga wzrokowo-przestrzenna angażuje sieć czołowo-ciemieniową, wzgórze i wzgórki górne. Uszkodzenie prawej półkuli może powodować częstsze lub cięższe zaniedbywanie lewej strony przestrzeni, ale nie oznacza to, że „uwaga znajduje się” w jednym płacie.
 
-*Układ limbiczny* to zespół struktur w głębi mózgu, kluczowych dla emocji, pamięci i motywacji. Nazwa pochodzi od łacińskiego *limbus* (brzeg), bo te struktury otaczają pień mózgu.
+Ruch powstaje w pętlach kory ruchowej i przedruchowej, jąder podstawy, wzgórza, móżdżku, pnia i rdzenia. Jądra podstawy uczestniczą w wyborze oraz uczeniu sekwencji działań; móżdżek w predykcji i korekcji błędu. Objaw ogniskowy bywa skutkiem uszkodzenia węzła, połączeń albo zmiany równowagi całej pętli.
 
-**Hipokamp** - struktura w kształcie konika morskiego w płacie skroniowym, kluczowa dla **konsolidacji pamięci deklaratywnej** (epizodycznej i semantycznej) oraz nawigacji przestrzennej. Uszkodzenie → amnezja anterogradna (niemożność tworzenia nowych wspomnień).
+## Sieci pamięci, emocji i regulacji
 
-**Ciało migdałowate (amygdala)** - migdałowata struktura przed hipokampem, centralna dla **przetwarzania emocji**, szczególnie strachu i zagrożenia. Moduluje pamięć emocjonalną. Obustronne uszkodzenie → zespół Klüvera-Bucy'ego.
+![Historycznie wyróżniane elementy „układu limbicznego”](/assets/uklad-limbiczny.jpg)
+*Historyczna mapa „układu limbicznego”. Współczesne modele rozdzielają wiele częściowo nakładających się sieci pamięci, wartościowania, interocepcji i regulacji.*
 
-**Zakręt obręczy (cingulate gyrus)** - obszar kory otaczający ciało modzelowate. *Zakręt obręczy przedni (ACC)* jest kluczowy dla monitorowania konfliktów, detekcji błędów i regulacji emocjonalnej.
+Określenie **„układ limbiczny”** ma znaczenie historyczne, ale nie wyznacza jednej spójnej jednostki anatomicznej ani wyłącznego „mózgu emocjonalnego”. Hipokamp i sąsiednia kora śródwęchowa są ważne dla pamięci epizodycznej i reprezentacji przestrzeni. Ciało migdałowate uczestniczy w uczeniu znaczenia biologicznego i wykrywaniu istotności, nie tylko w strachu. Podwzgórze, wyspa, zakręt obręczy, prążkowie i obszary przedczołowe współtworzą odmienne sieci zależnie od zadania.
 
-Inne struktury limbiczne to **podwzgórze** (regulacja hormonów, głód, pragnienie), **wzgórze** (przekaźnik zmysłów do kory) i **przysadka mózgowa** (hormony).
+Sieć trybu domyślnego, obejmująca między innymi przyśrodkową korę przedczołową, tylną korę obręczy i obszary ciemieniowe, wiąże się z pamięcią autobiograficzną i myśleniem niezależnym od bodźca. Sieć istotności z przednią wyspą i grzbietową przednią korą obręczy pomaga wykrywać informacje wymagające zmiany priorytetów. Sieci kontroli czołowo-ciemieniowej wspierają elastyczne utrzymanie celów. Nazwy te opisują statystyczne wzorce współdziałania, nie izolowane „ośrodki”.
 
-## Istota biała i szlaki nerwowe
+## Kora przedczołowa w sieciach kontroli
 
-*Istota biała* to obszary mózgu złożone z włókien aksonalnych (połączeń), w przeciwieństwie do *istoty szarej* (ciała neuronów). Włókna te tworzą trzy typy szlaków:
+Kora przedczołowa utrzymuje reguły, cele i informacje potrzebne do kierowania zachowaniem. Jej części boczne, oczodołowe i przyśrodkowe różnią się połączeniami, lecz żadna nie pracuje samodzielnie. Kontrola wykonawcza wynika z interakcji z korą ciemieniową, wzgórzem, prążkowiem, hipokampem i układami neuromodulacyjnymi. Uszkodzenie może zaburzać planowanie, hamowanie, inicjowanie lub ocenę konsekwencji, a profil zależy od lokalizacji i rozległości sieciowej.
 
-**Szlaki rzutowe (projection fibers)** łączą korę z podkorowymi strukturami i rdzeniem kręgowym (np. *piramidy* - szlak motoryczny).
+## Lateralizacja bez mitu dwóch typów ludzi
 
-**Szlaki komisyralne (commissural fibers)** łączą obie półkule. *Ciało modzelowate (corpus callosum)* to największa komisura (~200–250 mln włókien).
+Półkule nie są funkcjonalnie identyczne. U większości osób sieci językowe są silniej zlateralizowane do lewej półkuli, a pewne aspekty uwagi przestrzennej do prawej. Lateralizacja jest jednak stopniowalna, zależna od zadania i zmienna między osobami. Mowa, czytanie, muzyka, emocje i twórczość wykorzystują współpracę obu półkul.
 
-**Szlaki asocjacyjne (association fibers)** łączą obszary w obrębie jednej półkuli (np. *pęczek łukowaty* łączący Brokę z Wernickego).
+Badania osób po przecięciu ciała modzelowatego ujawniły szczególne warunki, w których informacja dostępna jednej półkuli nie może zostać łatwo przekazana drugiej. Nie dowodzą istnienia dwóch niezależnych stylów osobowości. Podział ludzi na „lewopółkulowych, logicznych” i „prawopółkulowych, kreatywnych” nie ma oparcia w badaniach całomózgowych. Preferencja ręki także nie pozwala wiarygodnie wywnioskować indywidualnej organizacji języka.
 
-> **DTI (obrazowanie tensora dyfuzji)** to technika MRI pozwalająca wizualizować szlaki istoty białej w żywym mózgu. Woda dyfunduje szybciej wzdłuż włókien nerwowych niż w poprzek, co pozwala komputerowo zrekonstruować trasy połączeń nerwowych (tzw. traktografia).
+## Znaczenie kliniczne i granice lokalizacji
 
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Anatomia mózgu" polega na tym, że związek mózg-zachowanie jest wielopoziomowy, dlatego pojedyncza struktura lub proces nabiera znaczenia dopiero w kontekście całych sieci funkcjonalnych.
-
-Dopiero wspólna analiza zagadnień takich jak płaty mózgowe, układ limbiczny oraz istota biała i szlaki nerwowe pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Anatomia mózgu" pokazuje, że najważniejsze jest łączenie wiedzy anatomicznej, poznawczej i klinicznej, aby przełożyć opis mechanizmu na rozumienie funkcjonowania człowieka.
-
-
-Dopiero wspólna analiza zagadnień takich jak płaty mózgowe, układ limbiczny oraz istota biała i szlaki nerwowe pokazuje pełny zakres omawianego zjawiska.
+Objawy pomagają lokalizować uszkodzenia, lecz diaschiza, obrzęk, uszkodzenia połączeń i reorganizacja mogą oddalać objaw od widocznej zmiany. Wynik obrazowania należy zestawiać z badaniem neurologicznym i [oceną neuropsychologiczną](./rehabilitacja_neuropsychologiczna.md). Mapy grupowe nie są diagnozą jednostki, a wzrost sygnału w obszarze nie dowodzi, że zachodzi jeden określony proces psychiczny.
 
 ## Bibliografia
 
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+- Barrett, L. F., & Satpute, A. B. (2013). Large-scale brain networks in affective and social neuroscience. *Current Opinion in Neurobiology, 23*(3), 361–372. https://doi.org/10.1016/j.conb.2012.12.012
+- Catani, M., Dell’Acqua, F., & Thiebaut de Schotten, M. (2013). A revised limbic system model for memory, emotion and behaviour. *Neuroscience & Biobehavioral Reviews, 37*(8), 1724–1737. https://doi.org/10.1016/j.neubiorev.2013.07.001
+- Corballis, M. C. (2014). Left brain, right brain: facts and fantasies. *PLOS Biology, 12*(1), e1001767. https://doi.org/10.1371/journal.pbio.1001767
+- Menon, V. (2011). Large-scale brain networks and psychopathology. *Trends in Cognitive Sciences, 15*(10), 483–506. https://doi.org/10.1016/j.tics.2011.08.003
+- Pessoa, L. (2017). A network model of the emotional brain. *Trends in Cognitive Sciences, 21*(5), 357–371. https://doi.org/10.1016/j.tics.2017.03.002
+- Raichle, M. E. (2015). The brain’s default mode network. *Annual Review of Neuroscience, 38*, 433–447. https://doi.org/10.1146/annurev-neuro-071013-014030

@@ -804,23 +804,27 @@ em{color:var(--goldl)}
 .home-hero{padding:3.2rem 0 2.8rem;border-bottom:1px solid var(--border);margin-bottom:2.8rem}
 .home-hero h1{font-family:var(--serif);font-size:2.9rem;font-weight:700;line-height:1.15;letter-spacing:-.03em;margin-bottom:1.1rem}
 .home-hero p{font-size:1.05rem;color:var(--t2);line-height:1.78;max-width:590px;margin-bottom:1.9rem;font-weight:300}
-/* KOMPONENTY: .domain-card */
 .domains-h2{font-family:var(--serif);font-size:1.35rem;font-weight:600;margin-bottom:1.1rem}
-.home-domain-groups{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1.2rem}
-.domain-card.topic-fundamenty{border-left:4px solid #c9a227}
-.domain-card.topic-procesy{border-left:4px solid #7c9fd2}
-.domain-card.topic-rozwoj{border-left:4px solid #62b08f}
-.domain-card.topic-klinika{border-left:4px solid #c26d7c}
-.domain-card.topic-neuro{border-left:4px solid #9f86d7}
-.domain-card.topic-specjalizacje{border-left:4px solid #d08a52}
-.domain-card.topic-technologia{border-left:4px solid #4fa6b5}
-.domain-card.topic-zasoby{border-left:4px solid #8a939f}
-.domain-card.topic-pozostale{border-left:4px solid #6f7885}
-.domain-card{background:var(--bg2);border:1px solid var(--border);border-radius:var(--r);padding:var(--space-4) 1.1rem;cursor:pointer;transition:border-color var(--ease),background var(--ease),transform var(--ease)}
-.domain-card[type="button"]{width:100%;text-align:left;color:inherit;font:inherit}
-.domain-card:hover{border-color:var(--gold);background:var(--goldt);transform:translateY(-2px)}
-.d-name{font-family:var(--serif);font-size:1.02rem;font-weight:600;margin-bottom:.3rem}
-.d-count{display:inline-block;font-size:.62rem;color:var(--gold);background:var(--goldt);border:1px solid rgba(201,162,39,.22);border-radius:99px;padding:.1rem .48rem;font-weight:600;margin-top:.45rem}
+.site-toc{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.85rem;align-items:start}
+.site-toc-group{border:1px solid var(--border);border-left:4px solid var(--t3);border-radius:var(--r);background:var(--bg2);overflow:hidden}
+.site-toc-group.topic-fundamenty{border-left-color:#c9a227}
+.site-toc-group.topic-procesy{border-left-color:#7c9fd2}
+.site-toc-group.topic-rozwoj{border-left-color:#62b08f}
+.site-toc-group.topic-klinika{border-left-color:#c26d7c}
+.site-toc-group.topic-neuro{border-left-color:#9f86d7}
+.site-toc-group.topic-specjalizacje{border-left-color:#d08a52}
+.site-toc-group.topic-technologia{border-left-color:#4fa6b5}
+.site-toc-group.topic-zasoby{border-left-color:#8a939f}
+.site-toc-group.topic-pozostale{border-left-color:#6f7885}
+.site-toc-group summary{display:flex;align-items:center;justify-content:space-between;gap:1rem;padding:1rem 1.1rem;cursor:pointer;list-style:none;color:var(--t1);font-family:var(--serif);font-size:1rem;font-weight:700}
+.site-toc-group summary::-webkit-details-marker{display:none}
+.site-toc-group summary:hover{background:var(--hover-subtle)}
+.site-toc-chevron{color:var(--t3);transition:transform var(--ease)}
+.site-toc-group[open] .site-toc-chevron{transform:rotate(180deg)}
+.site-toc-sections{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.35rem;padding:.25rem .7rem .8rem;border-top:1px solid var(--border)}
+.site-toc-link{display:flex;align-items:center;justify-content:space-between;gap:.75rem;min-height:42px;padding:.55rem .65rem;border:0;border-radius:8px;background:transparent;color:var(--t2);font:500 .78rem/1.35 var(--sans);text-align:left;cursor:pointer}
+.site-toc-link:hover{background:var(--goldt);color:var(--goldl)}
+.site-toc-arrow{flex:0 0 auto;color:var(--t3)}
 .home-block{margin-bottom:2rem}
 .home-block-head h2{font-family:var(--serif);font-size:1.35rem;font-weight:600;margin-bottom:.45rem}
 .home-block-head p{font-size:.84rem;color:var(--t3);margin-bottom:.9rem}
@@ -1011,7 +1015,8 @@ em{color:var(--goldl)}
   /* Spis artykułów: poprawa czytelności kart na mniejszych ekranach. */
   .wiki-sec{margin-bottom:1.9rem}
   .wiki-sec-title{font-size:1.15rem}
-  .home-domain-groups{grid-template-columns:1fr;gap:.85rem}
+  .site-toc{grid-template-columns:1fr}
+  .site-toc-sections{grid-template-columns:1fr}
   .art-card{
     padding:.85rem .9rem;
     gap:.65rem;
@@ -1091,7 +1096,7 @@ em{color:var(--goldl)}
   .page-hero h1.article-title-animated{animation:none}
   .plan-item:hover,
   .art-card:hover,
-  .domain-card:hover{
+  .site-toc-link:hover{
     transform:none;
   }
 }
@@ -1500,41 +1505,10 @@ body.psyhub-app::before{
   background:var(--surface);
   box-shadow:var(--shadow-sm);
 }
-.psyhub-app .home-domain-groups{gap:1rem}
-.psyhub-app .domain-card{
-  min-height:142px;
-  padding:1.1rem;
-  border-radius:16px;
-  background:var(--surface-strong);
-  box-shadow:none;
-}
-.psyhub-app .domain-card:hover{
-  border-color:color-mix(in srgb,var(--gold) 68%,var(--border));
-  background:color-mix(in srgb,var(--surface-strong) 92%,var(--gold) 8%);
-  transform:translateY(-3px);
-  box-shadow:var(--shadow-sm);
-}
-.psyhub-app .domain-card-top{display:flex;align-items:flex-start;justify-content:space-between;gap:.75rem}
-.psyhub-app .d-name{font-family:var(--serif);font-size:.94rem;font-weight:800;line-height:1.35}
-.psyhub-app .domain-card-arrow{
-  display:grid;
-  place-items:center;
-  width:28px;
-  height:28px;
-  flex:0 0 auto;
-  border:1px solid var(--border);
-  border-radius:9px;
-  color:var(--t3);
-  transition:color var(--ease),background var(--ease);
-}
-.psyhub-app .domain-card:hover .domain-card-arrow{color:#fff;background:var(--gold)}
-.psyhub-app .d-count{
-  margin-top:1rem;
-  border:0;
-  padding:.22rem .5rem;
-  background:var(--goldt);
-  color:var(--goldl);
-}
+.psyhub-app .site-toc{gap:1rem}
+.psyhub-app .site-toc-group{border-radius:16px;background:var(--surface-strong);box-shadow:var(--shadow-sm)}
+.psyhub-app .site-toc-group summary{padding:1.1rem 1.2rem;font-size:1.02rem}
+.psyhub-app .site-toc-sections{padding:.35rem .8rem .9rem}
 
 /* Article and subpage redesign */
 .psyhub-app .rendered:not(.home-view)>.page-hero,

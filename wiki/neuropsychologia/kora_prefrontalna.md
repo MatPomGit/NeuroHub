@@ -1,6 +1,6 @@
 ---
 layout: redirect
-title: Funkcjonalna anatomia mózgu
-redirect_to: /wiki/neuropsychologia/anatomia.html
+title: Kora przedczołowa
+redirect_to: /wiki/neuropsychologia/funkcjonalna_anatomia_mozgu.html#kora-przedczolowa-w-sieciach-kontroli
 sitemap: false
 ---

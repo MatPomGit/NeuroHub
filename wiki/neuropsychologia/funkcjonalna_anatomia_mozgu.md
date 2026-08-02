@@ -57,7 +57,7 @@ Badania osób po przecięciu ciała modzelowatego ujawniły szczególne warunki,
 
 ## Znaczenie kliniczne i granice lokalizacji
 
-Objawy pomagają lokalizować uszkodzenia, lecz diaschiza, obrzęk, uszkodzenia połączeń i reorganizacja mogą oddalać objaw od widocznej zmiany. Wynik obrazowania należy zestawiać z badaniem neurologicznym i [oceną neuropsychologiczną](./rehabilitacja_neuropsychologiczna.md). Mapy grupowe nie są diagnozą jednostki, a wzrost sygnału w obszarze nie dowodzi, że zachodzi jeden określony proces psychiczny.
+Objawy pomagają lokalizować uszkodzenia, lecz diaschiza, obrzęk, uszkodzenia połączeń i reorganizacja mogą oddalać objaw od widocznej zmiany. Wynik obrazowania należy zestawiać z badaniem neurologicznym i [oceną neuropsychologiczną](./diagnoza_i_rehabilitacja_neuropsychologiczna.md). Mapy grupowe nie są diagnozą jednostki, a wzrost sygnału w obszarze nie dowodzi, że zachodzi jeden określony proces psychiczny.
 
 ## Bibliografia
 

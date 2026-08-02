@@ -59,13 +59,13 @@ Bariera krew–mózg powstaje przede wszystkim dzięki ścisłym połączeniom �
 
 Mielina zwiększa opór i zmniejsza pojemność błony aksonu. Potencjał czynnościowy jest odnawiany głównie w przewężeniach Ranviera, co umożliwia **przewodzenie skokowe**. Szybkość zależy także od średnicy aksonu i właściwości kanałów. Jeden oligodendrocyt może mielinizować odcinki wielu aksonów, natomiast pojedyncza komórka Schwanna tworzy odcinek jednego aksonu.
 
-Mielinizacja zaczyna się prenatalnie i trwa długo po urodzeniu, w różnym tempie dla różnych szlaków. Nie jest jedynie bierną izolacją: zmiany mieliny zależne od aktywności mogą dostrajać czas dotarcia sygnałów w sieci. Demielinizacja zaburza szybkość i niezawodność transmisji, czego klinicznym przykładem jest stwardnienie rozsiane. Szczegółowy rozwój istoty białej omówiono w artykule o [plastyczności](./plastycznosc.md).
+Mielinizacja zaczyna się prenatalnie i trwa długo po urodzeniu, w różnym tempie dla różnych szlaków. Nie jest jedynie bierną izolacją: zmiany mieliny zależne od aktywności mogą dostrajać czas dotarcia sygnałów w sieci. Demielinizacja zaburza szybkość i niezawodność transmisji, czego klinicznym przykładem jest stwardnienie rozsiane. Szczegółowy rozwój istoty białej omówiono w artykule o [plastyczności](./rozwoj_plastycznosc_i_zmiennosc_mozgu.md).
 
 ## Szlaki i obwody sensomotoryczne
 
 Drogi wstępujące przenoszą informacje czuciowe, a zstępujące uczestniczą w kontroli ruchu. Sznury tylne pośredniczą w dotyku różnicującym, wibracji i propriocepcji; układ przednio-boczny w nocycepcji i temperaturze. Droga korowo-rdzeniowa jest ważna dla ruchów dowolnych, ale ruch wynika ze współdziałania kory, jąder podstawy, móżdżku, pnia i rdzenia. Nawet odruch nie jest całkowicie odizolowany od modulacji zstępującej.
 
-[Anatomia funkcjonalna](./anatomia.md) pokazuje, jak szlaki te łączą się w sieci uwagi, pamięci, regulacji i działania. Lokalizowanie uszkodzenia na podstawie wzorca objawów jest użyteczne klinicznie, lecz nie usprawiedliwia prostego przypisywania złożonej zdolności jednej strukturze.
+[Anatomia funkcjonalna](./funkcjonalna_anatomia_mozgu.md) pokazuje, jak szlaki te łączą się w sieci uwagi, pamięci, regulacji i działania. Lokalizowanie uszkodzenia na podstawie wzorca objawów jest użyteczne klinicznie, lecz nie usprawiedliwia prostego przypisywania złożonej zdolności jednej strukturze.
 
 ## Białka, utrzymanie komórki i neurodegeneracja
 

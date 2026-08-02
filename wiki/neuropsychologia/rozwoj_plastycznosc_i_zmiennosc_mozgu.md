@@ -23,7 +23,7 @@ Okresy wrażliwe to etapy, w których określone doświadczenie szczególnie sil
 
 Mielinizacja rozpoczyna się przed urodzeniem, intensywnie postępuje w dzieciństwie i trwa w młodej dorosłości, przy czym trajektorie różnią się między szlakami. Umożliwia szybką i zsynchronizowaną komunikację rozległych sieci. Zmiany sygnału MRI nie są jednak bezpośrednią miarą „dojrzałości psychicznej”, a średnia trajektoria grupy nie wyznacza ostrej granicy odpowiedzialności pojedynczej osoby.
 
-Aktywność aksonów może wpływać na różnicowanie oligodendrocytów i wzór mielinizacji. Ta plastyczność istoty białej ma ograniczenia anatomiczne oraz czasowe i współdziała ze zmianami synaptycznymi opisanymi w [podstawach układu nerwowego](./podstawy_neurologii.md).
+Aktywność aksonów może wpływać na różnicowanie oligodendrocytów i wzór mielinizacji. Ta plastyczność istoty białej ma ograniczenia anatomiczne oraz czasowe i współdziała ze zmianami synaptycznymi opisanymi w [podstawach układu nerwowego](./podstawy_ukladu_nerwowego.md).
 
 ## Plastyczność zależna od doświadczenia
 
@@ -35,7 +35,7 @@ Powtarzanie sprzyja uczeniu tylko wtedy, gdy zadanie dostarcza adekwatnego błę
 
 Po udarze lub urazie poprawa może wynikać z ustąpienia obrzęku i diaschizy, spontanicznego zdrowienia, uczenia kompensacyjnego oraz reorganizacji sieci. Plastyczność może być adaptacyjna, neutralna albo niekorzystna, na przykład gdy utrwala wyuczone nieużywanie lub ból. Większa aktywność obszaru w fMRI nie musi oznaczać skuteczniejszej reorganizacji.
 
-Rehabilitacja wykorzystuje powtarzane, znaczące działania i stopniowanie trudności, ale dawkę dostosowuje do stanu osoby. Bardzo wczesna, nadmiernie intensywna mobilizacja po udarze nie jest automatycznie lepsza. Praktyczne zasady opisano w artykule o [rehabilitacji neuropsychologicznej](./rehabilitacja_neuropsychologiczna.md).
+Rehabilitacja wykorzystuje powtarzane, znaczące działania i stopniowanie trudności, ale dawkę dostosowuje do stanu osoby. Bardzo wczesna, nadmiernie intensywna mobilizacja po udarze nie jest automatycznie lepsza. Praktyczne zasady opisano w artykule o [rehabilitacji neuropsychologicznej](./diagnoza_i_rehabilitacja_neuropsychologiczna.md).
 
 ## Granice popularnej opowieści o neuroplastyczności
 

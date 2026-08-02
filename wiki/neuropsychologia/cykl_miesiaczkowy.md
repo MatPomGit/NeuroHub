@@ -1,6 +1,6 @@
 ---
 layout: redirect
-title: Rozwój, plastyczność i zmienność mózgu
-redirect_to: /wiki/neuropsychologia/plastycznosc.html
+title: Cykl miesiączkowy a mózg
+redirect_to: /wiki/neuropsychologia/rozwoj_plastycznosc_i_zmiennosc_mozgu.html#cykl-miesiaczkowy-zmiennosc-bez-stereotypow
 sitemap: false
 ---

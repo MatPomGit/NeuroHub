@@ -1,6 +1,6 @@
 ---
 layout: redirect
-title: Funkcjonalna anatomia mózgu
-redirect_to: /wiki/neuropsychologia/anatomia.html
+title: Systemy i sieci funkcjonalne
+redirect_to: /wiki/neuropsychologia/funkcjonalna_anatomia_mozgu.html#sieci-pamieci-emocji-i-regulacji
 sitemap: false
 ---

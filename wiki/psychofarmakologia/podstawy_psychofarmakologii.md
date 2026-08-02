@@ -12,7 +12,7 @@ Randomizacja, zaślepienie, standaryzowane skale i farmakowigilancja przesunęł
 
 ## Mózg jako układ sieci
 
-Lek nie działa na abstrakcyjny „ośrodek depresji”, lecz na cele molekularne rozmieszczone w wielu komórkach i obwodach. Pętle korowo-prążkowiowo-wzgórzowe uczestniczą w kontroli działania, sieci czołowo-limbiczne w regulacji emocji, a podwzgórze i pień mózgu w śnie, apetycie i funkcjach autonomicznych. Ta sama struktura służy wielu procesom, a podobny objaw może powstawać w różnych sieciach. Pełniejsze podstawy zawiera kanoniczny dział [neuropsychologii](../neuropsychologia/anatomia.md); tutaj anatomia jest potrzebna jedynie do rozumienia działania i działań niepożądanych leków.
+Lek nie działa na abstrakcyjny „ośrodek depresji”, lecz na cele molekularne rozmieszczone w wielu komórkach i obwodach. Pętle korowo-prążkowiowo-wzgórzowe uczestniczą w kontroli działania, sieci czołowo-limbiczne w regulacji emocji, a podwzgórze i pień mózgu w śnie, apetycie i funkcjach autonomicznych. Ta sama struktura służy wielu procesom, a podobny objaw może powstawać w różnych sieciach. Pełniejsze podstawy zawiera kanoniczny dział [neuropsychologii](../neuropsychologia/funkcjonalna_anatomia_mozgu.md); tutaj anatomia jest potrzebna jedynie do rozumienia działania i działań niepożądanych leków.
 
 ## Neuroprzekaźnictwo, receptory i plastyczność
 

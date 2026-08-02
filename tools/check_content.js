@@ -359,10 +359,14 @@ function runInternalMarkdownLinksCheck(siteConfig, report) {
       const [pathPart] = href.split('#');
       if (knownIds.has(pathPart)) return;
 
-      let resolvedPath = pathPart;
-      if (pathPart.startsWith('./') || pathPart.startsWith('../')) {
-        resolvedPath = path.normalize(path.join(currentDir, pathPart)).replace(/\\/g, '/');
-      }
+      // Markdown resolves every relative path against the directory containing
+      // the document, not only paths explicitly beginning with "./" or "../".
+      // A leading slash denotes a route rooted at the generated site.
+      const resolvedPath = pathPart.startsWith('/')
+        ? pathPart.replace(/^\/+/, '')
+        : pathPart.startsWith('wiki/')
+          ? pathPart
+          : path.normalize(path.join(currentDir, pathPart)).replace(/\\/g, '/');
 
       if (!resolvedPath.endsWith('.md')) return;
       const absLinkedFile = path.join(repoRoot, resolvedPath);

@@ -1,39 +1,25 @@
-﻿---
-lastReviewed: 2026-04-20
+---
+lastReviewed: 2026-08-02
 reviewCycleMonths: 12
-evidenceCutoffDate: 2026-03-31
+evidenceCutoffDate: 2026-08-02
 ---
 
-# Mapa powiďż˝&za9: nowe artyku9y i istniejďż˝&ce dzia9y
-
-## Wprowadzenie
-
-Poni9=sza mapa porzďż˝&dkuje relacje miďż˝"dzy nowo dodanymi artyku9ami a aktualnymi dzia9ami PsyHub. Celem jest u9atwienie nawigacji, ograniczenie duplikacji tre9:ci i wzmocnienie spBjno9:ci merytorycznej ca9ego portalu.
-
-## Definicje
-
-- **Odno9:nik krzy9=owy** ďż˝ celowe po9ďż˝&czenie tematyczne miďż˝"dzy artyku9ami (identyfikatorami stron).
-- **Wďż˝"ze9 g9Bwny** ďż˝ nowy artyku9 stanowiďż˝&cy punkt wej9:cia do grupy tematBw.
-- **Wďż˝"ze9 wspierajďż˝&cy** ďż˝ istniejďż˝&cy artyku9, ktBry pog9ďż˝"bia wybrany aspekt tematu.
-
-## Analiza
-
-| Nowy artyku9 (wďż˝"ze9 g9Bwny) | Najbli9=sze dzia9y | Odno9:niki do istniejďż˝&cych artyku9Bw | Uzasadnienie powiďż˝&zania |
-| --- | --- | --- | --- |
-| [`doswiadczenie_somatyczne/wprowadzenie_do_doswiadczenia_somatycznego`](../doswiadczenie_somatyczne/wprowadzenie_do_doswiadczenia_somatycznego.md) | Somatic Experiencing, Psychopatologia, Psychologia zdrowia | [`psychotherapy/emdr`](../psychoterapia/emdr.md), [`psychotherapy/systemowa`](../psychoterapia/systemowa.md), [`psychopathology/trauma_ptsd`](../psychopatologia/trauma_ptsd.md), [`health_psychology/stres`](../psychologia_zdrowia/stres.md) | WspBlny rdze9: trauma, regulacja pobudzenia, interwencje kliniczne. |
-| [`psychotherapy/systemy_rodzinne`](../psychoterapia/systemy_rodzinne.md) | Psychoterapia, Relacje, Uzale9=nienia | [`psychotherapy/systemowa`](../psychoterapia/systemowa.md), [`relacje/relacje_rodzinne`](../relacje/relacje_rodzinne.md), [`uzaleznienia/rodzina_w_uzaleznieniach`](../uzaleznienia/rodzina_w_uzaleznieniach.md) | WspBlny rdze9: dynamika rodziny, role, granice, sprzďż˝"9=enia zwrotne. |
-| [`students/wystapienia_publiczne_autoprezentacja`](../dla_studentow/wystapienia_publiczne_autoprezentacja.md) | Dla studentBw, Psychologia spo9eczna | [`students/sciezki_kariery`](../dla_studentow/sciezki_kariery.md), [`spoleczna/perswazja`](../psychologia_spoleczna/perswazja.md), [`spoleczna/ja_i_samoocena`](../psychologia_spoleczna/ja_i_samoocena.md) | WspBlny rdze9: wp9yw spo9eczny, lďż˝"k przed ocenďż˝&, kompetencje zawodowe. |
-| [`students/psycholog_w_it`](../dla_studentow/psycholog_w_it.md) | Dla studentBw, Psychologia technologii i dobrostan cyfrowy | [`students/sciezki_kariery`](../dla_studentow/sciezki_kariery.md), [`technology_psychology/technologia_w_pracy`](../psychologia_technologii/technologia_w_pracy.md), [`technology_psychology/algorytmy_a_samoocena`](../psychologia_technologii/algorytmy_a_samoocena.md) | WspBlny rdze9: 9:cie9=ki kariery, metodologia bada9, etyka technologii. |
-| [`neuro/zachowanie_i_dwie_polkule_mozgu`](../neuropsychologia/zachowanie_i_dwie_polkule_mozgu.md) | Neurobiologia, Funkcje poznawcze, Przypadki kliniczne | [`neuro/lateralizacja`](../neuropsychologia/lateralizacja.md), [`przypadki_kliniczne/split_brain`](../przypadki_kliniczne/split_brain.md), [`cognitive/system1_system2`](../psychologia_poznawcza/system1_system2.md), [`neuro/neuronauka_poznawcza`](../neuropsychologia/neuronauka_poznawcza.md) | WspBlny rdze9: lateralizacja, integracja miďż˝"dzypB9kulowa, neuromity. |
-
-## Praktyczne przykłady
-Redaktor publikujďż˝&c nowy materia9 od razu dodaje 3ďż˝5 odno9:nikBw krzy9=owych do dzia9Bw pokrewnych i sprawdza, czy linkowane teksty nie powielajďż˝& definicji.
-
-**Konsekwencje:** krBtsza 9:cie9=ka nawigacji u9=ytkownika, wy9=sza spBjno9:ďż˝! pojďż˝"ciowa, mniej osieroconych artyku9Bw.
-
-## Z9a praktyka
-
-Nowe teksty sďż˝& publikowane bez mapy powiďż˝&za9, a podobne tre9:ci sďż˝& rozwijane rBwnolegle w kilku dzia9ach.
+# Mapa powiązań artykułów kanonicznych
+## Cel raportu
+Mapa wskazuje bezpośrednie połączenia między wybranymi artykułami kanonicznymi a sąsiednimi działami PsyHub. Służy do kontroli nawigacji i ograniczania duplikacji treści. Nie obejmuje wycofanych adresów, które są utrzymywane wyłącznie jako przekierowania zgodnościowe.
+## Aktualne powiązania
+| Artykuł kanoniczny | Powiązane dziedziny | Zalecane odnośniki |
+| --- | --- | --- |
+| [Somatic Experiencing: założenia, praktyka i stan badań](../doswiadczenie_somatyczne/wprowadzenie_do_doswiadczenia_somatycznego.md) | psychoterapia, psychopatologia, psychologia zdrowia | [EMDR](../psychoterapia/emdr.md), [terapie systemowe i rodzinne](../systemy_rodzinne/terapie_systemowe_i_rodzinne.md), [trauma i PTSD](../psychopatologia/trauma_ptsd.md), [stres i radzenie sobie](../psychologia_zdrowia/stres.md) |
+| [Systemowe rozumienie rodziny](../systemy_rodzinne/wprowadzenie_do_terapii_systemowej.md) | psychoterapia, relacje, uzależnienia | [terapie systemowe i rodzinne](../systemy_rodzinne/terapie_systemowe_i_rodzinne.md), [relacje rodzinne](../relacje/relacje_rodzinne.md), [rodzina w uzależnieniach](../uzaleznienia/rodzina_w_uzaleznieniach.md) |
+| [Wystąpienia publiczne i autoprezentacja](../dla_studentow/wystapienia_publiczne_autoprezentacja.md) | psychologia społeczna, rozwój zawodowy | [ścieżki kariery](../dla_studentow/sciezki_kariery.md), [wpływ społeczny i perswazja](../psychologia_spoleczna/wplyw_spoleczny_perswazja_i_posluszenstwo.md), [Ja i samoocena](../psychologia_spoleczna/ja_i_samoocena.md) |
+| [Psycholog w IT](../dla_studentow/psycholog_w_it.md) | psychologia technologii, metodologia, etyka | [ścieżki kariery](../dla_studentow/sciezki_kariery.md), [technologia w pracy](../psychologia_technologii/technologia_w_pracy.md), [algorytmy a samoocena](../psychologia_technologii/algorytmy_a_samoocena.md) |
+| [Anatomia układu nerwowego](../neuropsychologia/anatomia.md) | neuropsychologia, funkcje poznawcze, przypadki kliniczne | [przypadek split-brain](../przypadki_kliniczne/split_brain.md), [myślenie i podejmowanie decyzji](../psychologia_poznawcza/myslenie.md), [neuronauka poznawcza](../neuropsychologia/neuronauka_poznawcza.md) |
+## Zasada utrzymania
+Nowy artykuł powinien prowadzić do kilku najbliższych tematów kanonicznych, jeżeli takie połączenia pomagają czytelnikowi przejść od definicji do mechanizmów lub zastosowań. Odnośniki w kodzie, nawigacji i raportach powinny wskazywać bezpośrednio plik kanoniczny. Pliki przekierowujące pozostają warstwą zgodności dla historycznych adresów zewnętrznych i nie powinny trafiać do mapy ani do nawigacji.
+## Bibliografia
+1. American Psychological Association. (2020). *Publication Manual of the American Psychological Association* (7th ed.). American Psychological Association.
+, a podobne tre9:ci sďż˝& rozwijane rBwnolegle w kilku dzia9ach.
 
 **Konsekwencje:** duplikacje, niespBjno9:ďż˝! terminologiczna, trudniejsza aktualizacja 9_rBde9.
 

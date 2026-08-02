@@ -16,9 +16,7 @@
         "wiki/testy/testy_przeglad"
     ],
     "methodologyLinks": [
-        "wiki/psychometria/rzetelnosc",
-        "wiki/psychometria/trafnosc",
-        "wiki/psychometria/normalizacja"
+        "wiki/psychometria/psychometria_wprowadzenie"
     ],
     "reliability": "Wysoka spojnosc wewnetrzna i dobra stabilnosc dla pomiaru przesiewowego.",
     "validity": "Dobra trafnosc kryterialna wobec diagnozy depresji i wrazliwosc na zmiane objawow.",

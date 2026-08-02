@@ -655,6 +655,7 @@ window.SITE_CONFIG = {
         { id: 'filozofia/filozofia_nauki', label: 'Wiedza, nauka i język', file: 'wiki/filozofia/filozofia_nauki.md' },
         { id: 'filozofia/filozofia_czlowieka', label: 'Filozofia człowieka, wolność i sens', file: 'wiki/filozofia/filozofia_czlowieka.md' },
         { id: 'filozofia/argumenty_antropiczne_i_realizm_modalny', label: 'Argumenty antropiczne i realizm modalny', file: 'wiki/filozofia/argumenty_antropiczne_i_realizm_modalny.md' },
+        { id: 'filozofia/filozofioterapia', label: 'Filozofioterapia i poradnictwo filozoficzne', file: 'wiki/filozofia/filozofioterapia.md' },
       ]
     },
     { /* Biologiczne podstawy zachowania */
@@ -1747,6 +1748,7 @@ window.SITE_CONFIG = {
       { file: 'wiki/filozofia/filozofia_nauki.md', label: 'Wiedza, nauka i język', status: 'live' },
       { file: 'wiki/filozofia/filozofia_czlowieka.md', label: 'Filozofia człowieka, wolność i sens', status: 'live' },
       { file: 'wiki/filozofia/argumenty_antropiczne_i_realizm_modalny.md', label: 'Argumenty antropiczne i realizm modalny', status: 'live' },
+      { file: 'wiki/filozofia/filozofioterapia.md', label: 'Filozofioterapia i poradnictwo filozoficzne', status: 'live' },
     ],
     nvc: [
       { file: 'wiki/porozumiewanie_sie_bez_przemocy/wprowadzenie.md',            label: 'NVC',                                   status: 'live' },
@@ -2799,6 +2801,7 @@ window.SITE_CONFIG = {
             { label: 'Wiedza, nauka i język', id: 'filozofia/filozofia_nauki', status: 'live' },
             { label: 'Filozofia człowieka, wolność i sens', id: 'filozofia/filozofia_czlowieka', status: 'live' },
             { label: 'Argumenty antropiczne i realizm modalny', id: 'filozofia/argumenty_antropiczne_i_realizm_modalny', status: 'live' },
+            { label: 'Filozofioterapia i poradnictwo filozoficzne', id: 'filozofia/filozofioterapia', status: 'live' },
           ]
         },
       ]

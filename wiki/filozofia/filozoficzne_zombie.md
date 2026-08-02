@@ -1,3 +1,6 @@
 ---
-redirect: filozofia_umyslu.md
+layout: redirect
+title: Filozoficzne zombie
+redirect_to: /wiki/filozofia/filozofia_umyslu.html
+sitemap: false
 ---

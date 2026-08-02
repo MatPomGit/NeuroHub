@@ -1,8 +1,6 @@
 ---
-title: Przekierowanie: Metody neuronauki poznawczej
-redirect: neuronauka_poznawcza.md
+layout: redirect
+title: Metody neuronauki poznawczej
+redirect_to: /wiki/neuropsychologia/neuronauka_poznawcza.html
+sitemap: false
 ---
-
-# Przekierowanie
-
-Treść tego artykułu została włączona do opracowania [Metody neuronauki poznawczej](./neuronauka_poznawcza.md).

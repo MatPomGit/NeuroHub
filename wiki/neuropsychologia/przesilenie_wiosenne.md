@@ -1,8 +1,6 @@
 ---
-title: Przekierowanie: Rozwój, plastyczność i zmienność mózgu
-redirect: plastycznosc.md
+layout: redirect
+title: Rozwój, plastyczność i zmienność mózgu
+redirect_to: /wiki/neuropsychologia/plastycznosc.html
+sitemap: false
 ---
-
-# Przekierowanie
-
-Treść tego artykułu została włączona do opracowania [Rozwój, plastyczność i zmienność mózgu](./plastycznosc.md).

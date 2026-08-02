@@ -1,8 +1,6 @@
 ---
-title: Przekierowanie: Funkcjonalna anatomia mózgu
-redirect: anatomia.md
+layout: redirect
+title: Funkcjonalna anatomia mózgu
+redirect_to: /wiki/neuropsychologia/anatomia.html
+sitemap: false
 ---
-
-# Przekierowanie
-
-Treść tego artykułu została włączona do opracowania [Funkcjonalna anatomia mózgu](./anatomia.md).

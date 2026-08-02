@@ -1,8 +1,6 @@
 ---
-title: "Przekierowanie: Zaburzenia nastroju"
-redirect: zaburzenia_nastroju.md
+layout: redirect
+title: Zaburzenia nastroju
+redirect_to: /wiki/psychopatologia/zaburzenia_nastroju.html
+sitemap: false
 ---
-
-# Przekierowanie
-
-Treść tego artykułu została włączona do opracowania [Zaburzenia nastroju](./zaburzenia_nastroju.md).

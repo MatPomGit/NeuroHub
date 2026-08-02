@@ -1,8 +1,6 @@
 ---
-title: "Przekierowanie: Osobowość, psychopatia i socjopatia"
-redirect: zaburzenia_osobowosci.md
+layout: redirect
+title: Osobowość, psychopatia i socjopatia
+redirect_to: /wiki/psychopatologia/zaburzenia_osobowosci.html
+sitemap: false
 ---
-
-# Przekierowanie
-
-Treść tego artykułu została włączona do opracowania [Osobowość, psychopatia i socjopatia](./zaburzenia_osobowosci.md).

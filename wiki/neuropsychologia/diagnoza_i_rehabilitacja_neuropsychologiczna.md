@@ -16,7 +16,7 @@ Diagnoza neuropsychologiczna opisuje, jak osoba funkcjonuje poznawczo, emocjonal
 
 Proces zaczyna się od pytania klinicznego, wywiadu z osobą i, za jej zgodą, z bliskimi. Obejmuje historię choroby i edukacji, samodzielność przed zachorowaniem, leki, sen, ból, zmęczenie, nastrój, słuch, wzrok, język i kontekst kulturowy. Nagła zmiana stanu może wymagać pilnej oceny medycznej, nie kolejnego testu poznawczego.
 
-Testy dobiera się do hipotez. Ocenia się między innymi uwagę, tempo przetwarzania, uczenie i pamięć, język, praksję, funkcje wzrokowo-przestrzenne, społeczne i wykonawcze. Test przesiewowy nie zastępuje badania pogłębionego. Wynik interpretuje się względem odpowiednich norm, jakości wysiłku i zachowania podczas badania, ale także danych z obserwacji oraz realnych zadań. [Anatomia funkcjonalna](./anatomia.md) i obrazowanie mogą wspierać rozumowanie, lecz nie pozwalają mechanicznie wyprowadzić profilu osoby ze zmiany widocznej na skanie.
+Testy dobiera się do hipotez. Ocenia się między innymi uwagę, tempo przetwarzania, uczenie i pamięć, język, praksję, funkcje wzrokowo-przestrzenne, społeczne i wykonawcze. Test przesiewowy nie zastępuje badania pogłębionego. Wynik interpretuje się względem odpowiednich norm, jakości wysiłku i zachowania podczas badania, ale także danych z obserwacji oraz realnych zadań. [Anatomia funkcjonalna](./funkcjonalna_anatomia_mozgu.md) i obrazowanie mogą wspierać rozumowanie, lecz nie pozwalają mechanicznie wyprowadzić profilu osoby ze zmiany widocznej na skanie.
 
 ## Formułowanie celów
 
@@ -78,7 +78,7 @@ Nie oznacza to, że ćwiczenia komputerowe są bezwartościowe. Mogą dostarcza�
 
 Neuropsycholog współpracuje z neurologiem, lekarzem rehabilitacji, terapeutą zajęciowym, logopedą, fizjoterapeutą, pielęgniarką i pracownikiem socjalnym. Pomiar bazowy, okresowa ocena celu i plan utrzymania umożliwiają zmianę nieskutecznej strategii. Trzeba odróżnić spontaniczne zdrowienie od efektu interwencji, zwłaszcza krótko po uszkodzeniu.
 
-Zasady [plastyczności](./plastycznosc.md) uzasadniają praktykę i uczenie, ale nie gwarantują pełnego powrotu. Rzetelny plan łączy najlepsze dostępne dowody, wiedzę kliniczną, preferencje osoby i dane o jej funkcjonowaniu.
+Zasady [plastyczności](./rozwoj_plastycznosc_i_zmiennosc_mozgu.md) uzasadniają praktykę i uczenie, ale nie gwarantują pełnego powrotu. Rzetelny plan łączy najlepsze dostępne dowody, wiedzę kliniczną, preferencje osoby i dane o jej funkcjonowaniu.
 
 ## Bibliografia
 

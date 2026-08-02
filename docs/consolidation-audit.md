@@ -114,11 +114,11 @@ Kontrole strukturalne, powtórzenia akapitów, trzy wskazane frazy generyczne, c
 
 | Artykuł kanoniczny | Wynik |
 |---|---|
-| `wiki/neuropsychologia/anatomia.md` | 10/10 |
-| `wiki/neuropsychologia/neuronauka_poznawcza.md` | 10/10 |
-| `wiki/neuropsychologia/plastycznosc.md` | 10/10 |
-| `wiki/neuropsychologia/podstawy_neurologii.md` | 10/10 |
-| `wiki/neuropsychologia/rehabilitacja_neuropsychologiczna.md` | 10/10 |
+| `wiki/neuropsychologia/funkcjonalna_anatomia_mozgu.md` | 10/10 |
+| `wiki/neuropsychologia/metody_neuronauki_poznawczej.md` | 10/10 |
+| `wiki/neuropsychologia/rozwoj_plastycznosc_i_zmiennosc_mozgu.md` | 10/10 |
+| `wiki/neuropsychologia/podstawy_ukladu_nerwowego.md` | 10/10 |
+| `wiki/neuropsychologia/diagnoza_i_rehabilitacja_neuropsychologiczna.md` | 10/10 |
 
 ### `neuroroznorodnosc` (2)
 

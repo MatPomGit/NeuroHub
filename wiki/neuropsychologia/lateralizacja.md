@@ -1,6 +1,6 @@
 ---
 layout: redirect
-title: Funkcjonalna anatomia mózgu
-redirect_to: /wiki/neuropsychologia/anatomia.html
+title: Lateralizacja
+redirect_to: /wiki/neuropsychologia/funkcjonalna_anatomia_mozgu.html#lateralizacja-bez-mitu-dwoch-typow-ludzi
 sitemap: false
 ---

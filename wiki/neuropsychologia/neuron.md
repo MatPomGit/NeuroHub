@@ -1,6 +1,6 @@
 ---
 layout: redirect
-title: Podstawy układu nerwowego
-redirect_to: /wiki/neuropsychologia/podstawy_neurologii.html
+title: Neuron
+redirect_to: /wiki/neuropsychologia/podstawy_ukladu_nerwowego.html#neurony-budowa-i-przewodzenie
 sitemap: false
 ---

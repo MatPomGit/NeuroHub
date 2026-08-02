@@ -1,6 +1,6 @@
 ---
 layout: redirect
-title: Podstawy układu nerwowego
-redirect_to: /wiki/neuropsychologia/podstawy_neurologii.html
+title: Mielinizacja
+redirect_to: /wiki/neuropsychologia/podstawy_ukladu_nerwowego.html#mielina-i-istota-biala
 sitemap: false
 ---

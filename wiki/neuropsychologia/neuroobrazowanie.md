@@ -1,6 +1,6 @@
 ---
 layout: redirect
-title: Metody neuronauki poznawczej
-redirect_to: /wiki/neuropsychologia/neuronauka_poznawcza.html
+title: Neuroobrazowanie
+redirect_to: /wiki/neuropsychologia/metody_neuronauki_poznawczej.html#fmri-pet-i-metody-strukturalne
 sitemap: false
 ---

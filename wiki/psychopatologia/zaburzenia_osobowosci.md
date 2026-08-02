@@ -1,58 +1,49 @@
-﻿---
-lastReviewed: 2026-04-01
+---
+lastReviewed: 2026-08-02
 reviewCycleMonths: 24
-evidenceCutoffDate: 2025-12-31
+evidenceCutoffDate: 2026-08-02
 ---
 
-# Zaburzenia osobowości
+# Osobowość, psychopatia i socjopatia
 
-Trwałe, sztywne wzorce myślenia i zachowania zaburzające funkcjonowanie - klastrowa organizacja DSM-5.
+Osobowość opisuje względnie trwałe wzorce przeżywania i działania. Zaburzenie osobowości rozpoznaje się, gdy wzorzec jest utrwalony, nieelastyczny w wielu kontekstach oraz wiąże się z cierpieniem lub ograniczeniem funkcjonowania, po uwzględnieniu kultury, rozwoju, innych zaburzeń, substancji i chorób somatycznych.
 
-## Czym jest zaburzenie osobowości?
+## Kategorie i wymiary
 
-*Zaburzenie osobowości* to trwały, głęboko zakorzeniony wzorzec wewnętrznych doświadczeń i zachowań wyraźnie odbiegający od oczekiwań kulturowych, przenikający wiele dziedzin życia, sztywny, chroniczny i powodujący cierpienie lub zaburzenie funkcjonowania. Wzorce obecne od adolescencji, stabilne w czasie.
+Główny model DSM-5-TR zachowuje dziesięć kategorii pogrupowanych tradycyjnie w klastry A, B i C. Podział ułatwia komunikację, lecz współwystępowanie kategorii jest częste, a osoby z tym samym rozpoznaniem mogą mieć odmienne profile. Alternatywny model DSM opisuje upośledzenie funkcjonowania osobowości i patologiczne cechy.
 
-> DSM-5 grupuje 10 zaburzeń osobowości w **trzy klastry** na podstawie powierzchownego podobieństwa klinicznego.
+ICD-11 przyjmuje przede wszystkim podejście wymiarowe: określa nasilenie zaburzenia i profil domen cech, a wzorzec borderline można dodatkowo zaznaczyć kwalifikatorem. Wymiary lepiej pokazują stopień trudności i cele leczenia; progi kategorialne bywają jednak potrzebne do decyzji klinicznych i administracyjnych. Oba sposoby opisu są mapami, nie esencjami osoby.
 
-## Klaster A - „dziwne i ekscentryczne"
+## Antyspołeczne zaburzenie osobowości
 
-**Paranoidalne ZO** - nieufność, podejrzliwość, interpretowanie motywów innych jako złośliwe. **Schizoidalne ZO** - oderwanie od relacji, ograniczony zakres afektu, brak zainteresowania kontaktem społecznym. **Schizotypowe ZO** - dziwne przekonania, magiczne myślenie, niezwykłe spostrzeżenia, niekomfortowość w relacjach; bliskie kontinuum schizofrenii.
+Antyspołeczne zaburzenie osobowości w DSM-5-TR koncentruje się na trwałym naruszaniu praw innych i obejmuje wymagania rozwojowe. W ICD-11 podobne właściwości można opisać nasileniem i domenami, zwłaszcza dyssocjalnością oraz rozhamowaniem. Rozpoznanie wymaga szerokiego wywiadu; pojedyncze kłamstwo, konflikt z prawem lub brak sympatii nie wystarczają.
 
-## Klaster B - „dramatyczne, emocjonalne, chwiejne"
+Zachowanie przestępcze jest kategorią prawną, nie zaburzeniem psychicznym. Wiele osób popełniających przestępstwa nie spełnia kryteriów zaburzenia osobowości, a rozpoznanie antyspołecznego zaburzenia osobowości nie dowodzi popełnienia przestępstwa ani nie pozwala przewidzieć konkretnego czynu.
 
-**Antyspołeczne ZO** (ASPD) - wzorzec naruszania praw innych, brak empatii, impulsywność, kłamliwość. Wymaga historii CD przed 15 r.ż.
+## Psychopatia jako konstrukt badawczy
 
-**Borderline ZO** (BPD) - niestabilność tożsamości, nastroju i relacji; intensywny lęk przed porzuceniem; samookaleczenia; epizody dysocjacji. Biologicznie uwarunkowana labilność emocjonalna + wczesnodziecięce środowisko invalidujące.
+Psychopatia jest konstruktem badawczym i sądowo-klinicznym odnoszącym się do określonej konfiguracji cech interpersonalnych, afektywnych i behawioralnych. Operacjonalizuje się ją różnymi narzędziami, m.in. PCL-R, które wymaga specjalistycznego szkolenia, dokumentacji i wywiadu. Wyniku nie można wiarygodnie ustalać na podstawie medialnej „listy cech” ani obserwacji znajomego.
 
-**Histrioniczne ZO** - nadmierna emocjonalność, poszukiwanie uwagi, teatralność. **Narcystyczne ZO** - wielkościowość, brak empatii, potrzeba podziwu.
+Psychopatia częściowo nakłada się z antyspołecznym zaburzeniem osobowości, ale nie jest jego synonimem: kryteria ASPD mocniej akcentują zachowania, a część modeli psychopatii cechy interpersonalno-afektywne. Konstruktu nie należy również utożsamiać z przemocą. Ocena ryzyka wymaga osobnych, aktualnych danych.
 
-## Klaster C - „lękowe i bojaźliwe"
+## Dlaczego „socjopatia” jest nieprecyzyjna
 
-**Unikające ZO** - zahamowanie w relacjach z lęku przed odrzuceniem mimo pragnienia bliskości. **Zależne ZO** - nadmierna potrzeba opieki, trudność z decyzjami. **Obsesyjno-kompulsywne ZO** (OCPD) - perfekcjonizm, sztywność, kontrola (odrębne od OCD).
+„Socjopatia” nie jest formalnym, jednoznacznym rozpoznaniem w ICD-11 ani DSM-5-TR. Historycznie słowo podkreślało środowiskowe uwarunkowania zachowań antyspołecznych, a współcześnie bywa używane potocznie w wielu sprzecznych znaczeniach. W tekście naukowym lepiej wskazać konkretnie: rozpoznanie, mierzoną cechę, zachowanie lub hipotezę etiologiczną.
 
-## Leczenie
+Nie istnieje prosty podział, według którego „psychopata się rodzi, a socjopata powstaje”. Zachowanie i osobowość rozwijają się przez współdziałanie predyspozycji, uczenia się, relacji i warunków społecznych. Żaden pojedynczy marker mózgowy lub gen nie rozpoznaje osoby.
 
-Zaburzenia osobowości były historycznie postrzegane jako nieleczalne, jednak badania wykazują poprawę przy długoterminowej terapii. BPD: DBT (terapia pierwszego wyboru), MBT (Mentalization-Based Treatment); ASPD: programy zarządzania złością, społeczności terapeutyczne; klastr C: CBT i terapia psychodynamiczna.
+## Możliwość zmiany i leczenie
 
-## Perspektywa nieoczywista
+Określenie wzorca jako trwałego nie oznacza niezmienności ani „nieuleczalności”. Badania podłużne pokazują, że objawy i funkcjonowanie mogą się zmieniać. Leczenie dobiera się do problemów, ryzyka, motywacji i współchorobowości. Dla osobowości borderline potwierdzenie mają m.in. terapia dialektyczno-behawioralna i terapia oparta na mentalizacji; dla innych profili baza dowodowa jest mniej rozbudowana, ale uzasadnia ustrukturyzowane interwencje psychologiczne.
 
-Nieoczywista perspektywa na temat "Zaburzenia osobowości" polega na tym, że objawy nabierają znaczenia dopiero wtedy, gdy analizuje się je w przebiegu, kontekście funkcjonowania i relacji do mechanizmów podtrzymujących.
-
-Dopiero wspólna analiza zagadnień takich jak czym jest zaburzenie osobowości?, klaster b - „dramatyczne, emocjonalne, chwiejne" oraz leczenie pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Zaburzenia osobowości" pokazuje, że najbardziej użyteczna perspektywa łączy opis symptomów z rozumieniem procesu, różnicowaniem i planowaniem interwencji.
-
-
-Dopiero wspólna analiza zagadnień takich jak czym jest zaburzenie osobowości?, klaster b - „dramatyczne, emocjonalne, chwiejne" oraz leczenie pokazuje pełny zakres omawianego zjawiska.
+W przypadku cech antyspołecznych cele mogą obejmować ograniczenie przemocy i używania substancji, poprawę kontroli impulsów, funkcjonowania i odpowiedzialności za zachowanie. Realistyczna ostrożność kliniczna nie usprawiedliwia odbierania nadziei ani odmawiania pomocy na podstawie etykiety.
 
 ## Bibliografia
 
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+1. American Psychiatric Association. (2022). *Diagnostic and Statistical Manual of Mental Disorders* (5th ed., text rev.).
+2. Hare, R. D. (2003). *Manual for the Revised Psychopathy Checklist* (2nd ed.). Multi-Health Systems.
+3. Hopwood, C. J., et al. (2018). The time has come for dimensional personality disorder diagnosis. *Personality and Mental Health, 12*(1), 82–86. https://doi.org/10.1002/pmh.1408
+4. National Institute for Health and Care Excellence. (2009). *Antisocial personality disorder: prevention and management (CG77)*.
+5. National Institute for Health and Care Excellence. (2009). *Borderline personality disorder: recognition and management (CG78)*.
+6. Tyrer, P., Mulder, R., Kim, Y.-R., & Crawford, M. J. (2019). The development of the ICD-11 classification of personality disorders. *Personality and Mental Health, 13*(2), 58–72. https://doi.org/10.1002/pmh.1442
+7. World Health Organization. (2024). *Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders*.

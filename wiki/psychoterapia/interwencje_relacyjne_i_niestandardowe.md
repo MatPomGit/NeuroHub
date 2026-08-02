@@ -11,7 +11,7 @@ aliases:
 
 ## Zakres i kryterium oceny
 
-Wspólnym mianownikiem opisanych tu praktyk jest użycie relacji lub celu wykraczającego poza kanoniczny protokół. Nie tworzą jednej szkoły. Terapię prowokatywną można traktować jako model lub styl interwencji; przebaczenie jest możliwym procesem i celem klienta. Natomiast badania Philipa Zimbardo dotyczą głównie [psychologii sytuacji i ról społecznych](../psychologia_spoleczna/eksperyment_wiezienny.md), nie metody psychoterapii.
+Wspólnym mianownikiem opisanych tu praktyk jest użycie relacji lub celu wykraczającego poza kanoniczny protokół. Nie tworzą jednej szkoły. Terapię prowokatywną można traktować jako model lub styl interwencji; przebaczenie jest możliwym procesem i celem klienta. Natomiast badania Philipa Zimbardo dotyczą głównie [wpływu sytuacji i ról społecznych](../psychologia_spoleczna/wplyw_spoleczny_perswazja_i_posluszenstwo.md#stanfordzki-eksperyment-wiezienny-studium-historyczne-i-spor), nie metody psychoterapii.
 
 ## Terapia prowokatywna
 

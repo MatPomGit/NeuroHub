@@ -1,72 +1,67 @@
-﻿---
-lastReviewed: 2026-04-01
+---
+lastReviewed: 2026-08-02
 reviewCycleMonths: 24
-evidenceCutoffDate: 2025-12-31
+evidenceCutoffDate: 2026-08-02
+aliases:
+  - Psychopatologia ogólna
 ---
 
-# Psychopatologia - wprowadzenie
+# Podstawy psychopatologii i opis objawów
 
-Psychopatologia to nauka o zaburzeniach psychicznych - ich opisie, klasyfikacji, mechanizmach powstawania, przebiegu i konsekwencjach. Tworzy fundament całej psychologii klinicznej i psychiatrii: zanim można leczyć, trzeba rozumieć, co i dlaczego się zaburzyło.
+Psychopatologia opisuje nieprawidłowości przeżywania, myślenia i zachowania oraz bada ich uwarunkowania. Nie sprowadza człowieka do etykiety: ten sam obraz kliniczny może powstać różnymi drogami, a podobny mechanizm może uczestniczyć w wielu rozpoznaniach. Opis objawów, klasyfikacja i [formułowanie przypadku](../diagnoza/formulowanie_przypadku.md) odpowiadają zatem na różne pytania.
 
-## Czym jest psychopatologia?
+## Pięć poziomów opisu
 
-Słowo pochodzi od greckich *psyche* (dusza, umysł), *pathos* (cierpienie, choroba) i *logos* (nauka). Psychopatologia zajmuje się więc systematycznym badaniem stanów psychicznych, które wiążą się z cierpieniem, upośledzeniem funkcjonowania lub znacznym odchyleniem od normy kulturowej.
+| Pojęcie | Znaczenie |
+|---|---|
+| **Objaw** | Pojedyncze doświadczenie zgłaszane przez osobę (np. lęk) albo obserwowalny przejaw (np. spowolnienie). |
+| **Zespół** | Współwystępujący układ objawów, np. zespół psychotyczny; nie przesądza jeszcze o przyczynie. |
+| **Zaburzenie** | Klinicznie użyteczny wzorzec powiązany z cierpieniem, ryzykiem lub ograniczeniem funkcjonowania. |
+| **Rozpoznanie** | Wniosek kliniczny, że dostępne dane spełniają kryteria określonej kategorii, po uwzględnieniu różnicowania i kontekstu. |
+| **Niepełnosprawność** | Ograniczenie aktywności lub uczestnictwa powstające w relacji stanu zdrowia z barierami i zasobami środowiska; nie wynika automatycznie z rozpoznania. |
 
-Ważne jest rozróżnienie między **psychopatologią opisową** a **psychopatologią wyjaśniającą**. Psychopatologia opisowa - bliska tradycji Karla Jaspersa, który w *Allgemeine Psychopathologie* (1913) stworzył jej podwaliny - skupia się na precyzyjnym fenomenologicznym opisie objawów: jak wyglądają z perspektywy pierwszoosobowej i jak manifestują się w zachowaniu. Psychopatologia wyjaśniająca pyta natomiast o mechanizmy: genetyczne, neurobiologiczne, psychologiczne i społeczne, które powodują dane zaburzenie.
+Nasilenie cierpienia, sprawność i liczba objawów nie są wymienne. Osoba może mieć nasilone objawy bez trwałej niepełnosprawności albo znaczne ograniczenia przy objawach pozornie umiarkowanych.
 
-## Co jest normą, a co zaburzeniem?
+## Jak porządkować psychopatologię
 
-To jedno z najtrudniejszych pytań w całej psychologii klinicznej. Żadne jednoznaczne kryterium nie jest wystarczające samodzielnie. Kryteria statystyczne definiują patologię jako odchylenie od normy populacyjnej - ale wysoka inteligencja też jest statystycznie rzadka, a niekoniecznie zaburzona. Kryteria funkcjonalne pytają, czy stan upośledza codzienne funkcjonowanie - lecz granica między upośledzającym a wymagającym jest trudna do wyznaczenia. Kryteria subiektywne pytają o cierpienie - ale niektóre zaburzenia (np. mania, psychoza) nie wiążą się z subiektywnym cierpieniem, przynajmniej nie w ostrym epizodzie.
+**Podejście kategorialne** wyznacza progi i rozdziela rozpoznania. Ułatwia komunikację, organizację świadczeń i badania, lecz granice kategorii bywają umowne. **Podejście wymiarowe** ocenia nasilenie cech lub domen na kontinuum; lepiej ujmuje przypadki podprogowe i zmiany w czasie, ale nadal wymaga decyzji, kiedy interweniować. **Podejście transdiagnostyczne** bada procesy przekraczające kategorie, takie jak unikanie doświadczeń, ruminacje, zaburzenia snu czy trudności regulacji emocji. Pomaga planować terapię współchorobowości, lecz nie zastępuje różnicowania stanów o odmiennym ryzyku i leczeniu.
 
-Współczesna diagnoza łączy wszystkie te perspektywy. *DSM-5* definiuje zaburzenie psychiczne jako klinicznie znaczący zespół zaburzeń w zakresie poznania, regulacji emocji lub zachowania, który odzwierciedla dysfunkcję procesów psychologicznych, biologicznych lub rozwojowych leżących u podstaw funkcjonowania psychicznego. Wyraźnie wyklucza z tej definicji reakcje będące kulturowo usankcjonowanymi odpowiedziami na zdarzenia - np. żałoba po stracie bliskiej osoby nie jest sama w sobie zaburzeniem.
+Najbardziej rzetelna praktyka łączy te perspektywy: nazywa zespół i rozpoznanie, mierzy nasilenie oraz tworzy indywidualny model mechanizmów i zasobów.
 
-## Główne paradygmaty wyjaśniające
+## ICD-11 i DSM-5-TR
 
-**Model biologiczny** zakłada, że zaburzenia psychiczne są przede wszystkim zaburzeniami mózgu - wynikiem zmian neurochemicznych, strukturalnych, genetycznych lub wynikających z urazu czy choroby. Silnie wspierają go odkrycia w zakresie genetyki behawioralnej i neuronauki. Ograniczeniem jest ryzyko redukcjonizmu - sprowadzenia człowieka do mózgu, z pominięciem znaczenia, relacji i kontekstu życiowego.
+ICD-11 Światowej Organizacji Zdrowia służy międzynarodowemu raportowaniu zdrowotnemu i praktyce klinicznej. DSM-5-TR Amerykańskiego Towarzystwa Psychiatrycznego przedstawia operacyjne kryteria oraz tekstowe wskazówki diagnostyczne. Systemy częściowo różnią się organizacją i progami, dlatego kodu lub nazwy nie należy przenosić bez sprawdzenia właściwej klasyfikacji.
 
-**Model psychodynamiczny** widzi zaburzenia jako wyraz nierozwiązanych konfliktów wewnętrznych, deficytów w wczesnodziecięcym przywiązaniu lub mechanizmów obronnych, które chroniły kiedyś, a dziś ograniczają. Skupia się na historii życia, relacjach i procesach nieświadomych.
+Oba systemy są przede wszystkim **narzędziami opisu i podejmowania decyzji**, a nie pełnymi teoriami etiologii. Spełnienie kryteriów nie dowodzi pojedynczej przyczyny biologicznej ani psychologicznej. Rozpoznanie powinno uwzględniać przebieg, kulturę, rozwój, choroby somatyczne, leki i substancje oraz znaczenie objawów dla danej osoby. Dotyczy to także zaburzeń neurorozwojowych: ich rozpoznawanie wymaga historii rozwoju i oceny funkcjonowania w wielu środowiskach, nie tylko zestawienia aktualnych objawów.
 
-**Model poznawczo-behawioralny** wyjaśnia zaburzenia przez zniekształcone przekonania, dysfunkcyjne schematy i wyuczone wzorce zachowania. Szczególnie silny w wyjaśnianiu zaburzeń lękowych, depresji i OCD.
+## Badanie stanu psychicznego
 
-**Model biopsychospołeczny** (Engel, 1977) jest najbardziej syntetyczny i dominuje we współczesnej psychiatrii oraz psychologii klinicznej. Zaburzenie jest wynikiem interakcji czynników biologicznych (genetyka, neurobiologia, choroby somatyczne), psychologicznych (osobowość, historia uczenia się, strategie radzenia sobie) i społecznych (stres, traumy, relacje, kultura).
+Badanie stanu psychicznego (MSE) jest ustrukturyzowanym opisem aktualnego funkcjonowania podczas rozmowy. Zwykle obejmuje:
 
-## Klasyfikacje: ICD-11 i DSM-5-TR
+1. wygląd, zachowanie, kontakt i aktywność psychoruchową;
+2. mowę oraz subiektywny nastrój i obserwowany afekt;
+3. tok, formę i treść myślenia;
+4. spostrzeganie, świadomość i orientację;
+5. uwagę, pamięć i inne funkcje poznawcze, stosownie do sytuacji;
+6. wgląd, zdolność osądu oraz ocenę bezpieczeństwa.
 
-Dwa główne systemy klasyfikacyjne organizują wiedzę o zaburzeniach psychicznych. *ICD-11* (Międzynarodowa Klasyfikacja Chorób, WHO, wydanie 2022) jest obowiązującym narzędziem w Polsce i większości krajów świata. *DSM-5-TR* (Diagnostyczny i Statystyczny Podręcznik Zaburzeń Psychicznych, APA, aktualizacja 2022) jest dominującym systemem w badaniach naukowych i praktyce anglojęzycznej.
+MSE jest przekrojem jednego spotkania, a nie samodzielnym testem diagnostycznym. Cisza może oznaczać zahamowanie, lęk, różnicę językową albo świadomy wybór. Opis powinien oddzielać wypowiedź osoby od obserwacji i interpretacji klinicysty. Wyniki łączy się z wywiadem, informacjami za zgodą od bliskich, badaniem somatycznym i narzędziami psychometrycznymi.
 
-Oba systemy są **kategoryczne z elementami wymiarowymi** - przypisują diagnozę przy spełnieniu określonego zestawu kryteriów, ale coraz szerzej uznają, że wiele zaburzeń leży na continuum nasilenia. Krytyczne wobec czystego podejścia kategorycznego jest podejście **Research Domain Criteria (RDoC)** Narodowego Instytutu Zdrowia Psychicznego USA - proponuje ono klasyfikację opartą na wymiarach neurobiologicznych i behawioralnych, niezależnie od tradycyjnych granic diagnostycznych.
+## Ograniczenia diagnozy
 
-## Główne grupy zaburzeń
+**Trafność.** Rzetelne stosowanie kryteriów nie gwarantuje, że kategoria ma jednorodną przyczynę lub przebieg. Heterogeniczność sprawia, że dwie osoby z tym samym rozpoznaniem mogą dzielić niewiele objawów.
 
-Psychopatologia obejmuje szeroki spektrum zjawisk. **Zaburzenia lękowe** - lęk uogólniony, fobie, zaburzenie paniczne, lęk społeczny - cechuje nadmierna i utrwalona reakcja lęku, często z unikaniem. **Zaburzenia nastroju** - depresja, choroba afektywna dwubiegunowa, dystymia - dotyczą patologicznych zmian w podstawowym tonie emocjonalnym. **Zaburzenia psychotyczne** - schizofrenia, zaburzenia schizoafektywne - obejmują utratę kontaktu z rzeczywistością przez omamy, urojenia i dezorganizację. **Zaburzenia osobowości** to trwałe, sztywne wzorce doświadczania i reagowania powodujące cierpienie lub upośledzenie. **Zaburzenia neurorozwojowe** - ADHD, ASD, niepełnosprawność intelektualna - mają początki w dzieciństwie i odzwierciedlają atypowy rozwój układu nerwowego.
+**Współchorobowość.** Częste nakładanie się rozpoznań może odzwierciedlać wspólne czynniki ryzyka, częściowo sztuczne granice kategorii albo rzeczywiste współwystępowanie. Nie należy automatycznie wybierać jednego „głównego” wyjaśnienia kosztem pozostałych.
 
-## Wymiary transdiagnostyczne
+**Reifikacja.** Nazwa porządkuje obserwacje, lecz łatwo potraktować ją jak byt, który sam wyjaśnia objawy („zachowuje się tak, bo ma zaburzenie”). To rozumowanie kołowe. Rozpoznanie ma wartość, gdy prowadzi do dalszych pytań o przebieg, mechanizmy, potrzeby, ryzyko i mocne strony.
 
-Współczesna psychopatologia coraz więcej uwagi poświęca **konstruktom transdiagnostycznym** - czynnikom i procesom przekraczającym granice kategorii diagnostycznych. Neurotyczność/negatywna emocjonalność jest silnym predyktorem ryzyka zaburzeń zarówno internalizacyjnych (lęk, depresja), jak i eksternalizacyjnych (nadużywanie substancji). Dysregulacja emocjonalna, nietolerancja niepewności, perfekcjonizm czy unikanie doświadczeń pojawiają się w wielu zaburzeniach i stają się celami interwencji o szerokim zasięgu.
-
-## Stygmatyzacja i psychopatologia
-
-Wiedza psychopatologiczna może służyć leczeniu i wsparciu, ale może też być używana do etykietowania i wykluczania. Historia psychiatrii zawiera przykłady patologizowania normalnych ludzkich doświadczeń - homoseksualności, politycznego nonkonformizmu, żałoby. Współczesna psychopatologia ma obowiązek zachowania czujności wobec takich tendencji, a diagnoza zawsze powinna służyć osobie, nie instytucji.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Psychopatologia - wprowadzenie" polega na tym, że objawy nabierają znaczenia dopiero wtedy, gdy analizuje się je w przebiegu, kontekście funkcjonowania i relacji do mechanizmów podtrzymujących.
-
-Dopiero wspólna analiza zagadnień takich jak czym jest psychopatologia?, klasyfikacje: icd-11 i dsm-5-tr oraz stygmatyzacja i psychopatologia pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Psychopatologia - wprowadzenie" pokazuje, że najbardziej użyteczna perspektywa łączy opis symptomów z rozumieniem procesu, różnicowaniem i planowaniem interwencji.
-
-
-Dopiero wspólna analiza zagadnień takich jak czym jest psychopatologia?, klasyfikacje: icd-11 i dsm-5-tr oraz stygmatyzacja i psychopatologia pokazuje pełny zakres omawianego zjawiska.
+**Kontekst i nierówności.** Normy kulturowe, ubóstwo, dyskryminacja i dostęp do opieki wpływają zarówno na cierpienie, jak i na to, kto otrzymuje diagnozę. Kontekst nie unieważnia objawów, ale chroni przed patologizowaniem zrozumiałej reakcji na warunki życia.
 
 ## Bibliografia
 
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+1. American Psychiatric Association. (2022). *Diagnostic and Statistical Manual of Mental Disorders* (5th ed., text rev.).
+2. Borsboom, D. (2017). A network theory of mental disorders. *World Psychiatry, 16*(1), 5–13. https://doi.org/10.1002/wps.20375
+3. Hyman, S. E. (2010). The diagnosis of mental disorders: The problem of reification. *Annual Review of Clinical Psychology, 6*, 155–179. https://doi.org/10.1146/annurev.clinpsy.3.022806.091532
+4. Kotov, R., et al. (2022). The Hierarchical Taxonomy of Psychopathology (HiTOP) in psychiatric practice and research. *Psychological Medicine, 52*(2), 166–176. https://doi.org/10.1017/S0033291721001301
+5. World Health Organization. (2001). *International Classification of Functioning, Disability and Health (ICF)*.
+6. World Health Organization. (2024). *Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders*.

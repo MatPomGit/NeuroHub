@@ -1,78 +1,54 @@
 ---
-title: Trauma psychologiczna i zaburzenia pourazowe
-aliases:
-  - PTSD
-  - zaburzenie stresowe pourazowe
-lastReviewed: 2026-07-30
-reviewCycleMonths: 12
-evidenceCutoffDate: 2026-07-30
+lastReviewed: 2026-08-02
+reviewCycleMonths: 24
+evidenceCutoffDate: 2026-08-02
 ---
 
-# Trauma psychologiczna i zaburzenia pourazowe
+# Trauma, dysocjacja i wiktymizacja
 
-Ten artykuł porządkuje wspólne podstawy psychotraumatologii: czym są zdarzenie potencjalnie traumatyczne, ekspozycja i reakcja pourazowa oraz kiedy rozpoznaje się PTSD lub złożone PTSD. Szczegółowe następstwa określonych doświadczeń omawiają osobne artykuły o [traumie rozwojowej](../psychologia_rozwojowa/trauma_rozwojowa.md), [traumie seksualnej](../seksuologia/trauma_seksualna.md) i [traumie relacyjnej w terapii rodzinnej](../systemy_rodzinne/terapie_systemowe_i_rodzinne.md#trauma-relacyjna).
+Pojęcia traumy, wiktymizacji i PTSD opisują różne poziomy zjawiska. Ich rozdzielenie zapobiega zarówno patologizowaniu każdej reakcji na krzywdę, jak i bagatelizowaniu objawów wymagających pomocy.
 
-## Pięć pojęć, których nie należy utożsamiać
+## Zdarzenie, doświadczenie i rozpoznanie
 
-| Pojęcie | Znaczenie |
-|---|---|
-| **Zdarzenie potencjalnie traumatyczne** | Zdarzenie wiążące się ze śmiercią, zagrożeniem śmiercią, poważnym urazem albo przemocą seksualną. „Potencjalnie” podkreśla, że właściwości zdarzenia nie przesądzają o późniejszym zaburzeniu. |
-| **Ekspozycja na traumę** | Kontakt ze zdarzeniem w sposób określony przez daną klasyfikację. Kryterium A PTSD w DSM-5-TR obejmuje doświadczenie bezpośrednie, bycie świadkiem, wiadomość o takim zdarzeniu dotyczącym bliskiej osoby oraz powtarzaną lub skrajną ekspozycję zawodową na jego drastyczne szczegóły. Zwykła ekspozycja przez media nie wystarcza, chyba że wynika z pracy. |
-| **Reakcja pourazowa** | Odpowiedź po ekspozycji, na przykład przejściowe intruzje, unikanie, wzmożona czujność, obniżenie nastroju lub objawy dysocjacyjne. Może być bolesna, ale nie musi spełniać kryteriów żadnego zaburzenia. |
-| **PTSD** | Zaburzenie z określonym układem objawów, czasem trwania i klinicznie istotnym cierpieniem lub pogorszeniem funkcjonowania. Sama ekspozycja ani pojedynczy objaw nie wystarczają do rozpoznania. |
-| **Złożone PTSD (CPTSD)** | Rozpoznanie ICD-11, w którym spełnione są wszystkie wymagania PTSD, a ponadto występują trwałe zaburzenia organizacji siebie: regulacji emocji, obrazu siebie i relacji. CPTSD nie jest nazwą każdej przewlekłej reakcji na stres. |
+**Zdarzenie traumatyczne** oznacza ekspozycję o cechach określonych przez daną klasyfikację, zwykle związaną ze śmiercią, ciężkim urazem lub przemocą seksualną. W języku potocznym „trauma” obejmuje szerszy zakres bolesnych doświadczeń, dlatego w opisie klinicznym warto wskazać, co dokładnie się wydarzyło i jak osoba zareagowała.
 
-W języku klinicznym słowo „trauma” bywa używane zarówno na oznaczenie zdarzenia, jak i jego psychicznych następstw. W precyzyjnym opisie warto zawsze wskazać, o które znaczenie chodzi. **Trauma psychologiczna nie jest synonimem każdego silnego stresu, konfliktu, rozstania ani przykrego wspomnienia.** Takie doświadczenia mogą powodować znaczne cierpienie i inne zaburzenia, nawet gdy nie spełniają kryterium ekspozycji właściwego PTSD.
+**Wiktymizacja** jest doznaniem przestępstwa, przemocy, wykorzystania lub innej krzywdy. To pojęcie społeczne i prawne, nie diagnoza. Krzywda może prowadzić do PTSD, depresji, objawów somatycznych albo nie prowadzić do zaburzenia, nie przestając być krzywdą.
 
-## Ekspozycja nie przesądza o zaburzeniu
+**PTSD** obejmuje charakterystyczny układ ponownego przeżywania zdarzenia w teraźniejszości, unikania i utrzymującego się poczucia aktualnego zagrożenia; DSM-5-TR dodatkowo wyodrębnia negatywne zmiany poznawcze i nastroju. Wymagane są określony czas trwania oraz cierpienie lub ograniczenie funkcjonowania.
 
-Większość osób eksponowanych na zdarzenia potencjalnie traumatyczne nie rozwija przewlekłego PTSD. Przebieg może obejmować krótkotrwały dystres z późniejszym powrotem do równowagi, opóźnione lub utrzymujące się objawy, a czasem inne następstwa niż PTSD. Ryzyko modyfikują między innymi rodzaj i powtarzalność ekspozycji, wcześniejsze doświadczenia, aktualne zagrożenie, wsparcie społeczne i współwystępujące trudności. Brak PTSD nie oznacza, że zdarzenie było błahe; rozpoznanie opisuje określony zespół objawów, nie „miarę krzywdy”.
+**Złożone PTSD (CPTSD)** w ICD-11 obejmuje kryteria PTSD oraz trwałe zaburzenia organizacji siebie: regulacji afektu, negatywny obraz siebie i trudności relacyjne. Nie jest po prostu „cięższym PTSD” ani automatycznym skutkiem wielokrotnej traumy. DSM-5-TR nie ustanawia CPTSD jako osobnego rozpoznania.
 
-Bezpośrednio po zdarzeniu część reakcji alarmowych jest spodziewaną odpowiedzią adaptacyjną. DSM-5-TR odróżnia ostre zaburzenie stresowe w pierwszym miesiącu od PTSD, które wymaga utrzymywania się objawów ponad miesiąc. ICD-11 akcentuje trzy rdzenie PTSD: ponowne przeżywanie w teraźniejszości, unikanie oraz utrzymujące się poczucie aktualnego zagrożenia.
+**Dysocjacja** oznacza zakłócenie integracji świadomości, pamięci, tożsamości, emocji, spostrzegania lub kontroli zachowania. Może obejmować depersonalizację, derealizację i luki pamięciowe, występować przejściowo albo w różnych zaburzeniach. Nie każda dysocjacja oznacza PTSD, a „zamrożenie” w chwili zagrożenia nie jest zgodą na krzywdę.
 
-## PTSD: obraz kliniczny i rozpoznanie
+## Ryzyko i ochrona
 
-W DSM-5-TR, po potwierdzeniu ekspozycji, ocenia się cztery grupy objawów:
+Ryzyko długotrwałych objawów zwiększają m.in. nasilenie i powtarzalność ekspozycji, przemoc interpersonalna, wcześniejsze trudności psychiczne, uraz głowy, dalsze zagrożenie, brak wsparcia i stres po zdarzeniu. Znaczenie mają też subiektywna ocena zagrożenia, wstyd, samoobwinianie i unikanie. Są to zależności probabilistyczne, a nie wyrok.
 
-1. **intruzje**, między innymi niechciane wspomnienia, koszmary i dysocjacyjne retrospekcje;
-2. **unikanie** myśli, uczuć albo zewnętrznych przypomnień;
-3. **negatywne zmiany poznawcze i nastroju**, na przykład trwałe negatywne przekonania, obwinianie, odłączenie od innych i ograniczenie pozytywnych emocji;
-4. **zmiany pobudzenia i reaktywności**, w tym wzmożona czujność, nasilona reakcja przestrachu, drażliwość oraz problemy ze snem i koncentracją.
+Czynniki ochronne obejmują realne bezpieczeństwo, wspierające relacje, dostęp do opieki i sprawiedliwości, stabilne warunki mieszkaniowe, możliwość podejmowania decyzji oraz elastyczne strategie radzenia sobie. Odporność nie jest wyłącznie cechą jednostki: zależy także od reakcji rodziny, instytucji i społeczeństwa.
 
-Objawy muszą tworzyć wymagany układ, trwać dłużej niż miesiąc, powodować istotne cierpienie lub ograniczenie funkcjonowania i nie wynikać lepiej z substancji albo stanu medycznego. Rozpoznanie wymaga oceny klinicznej i diagnostyki różnicowej, między innymi z depresją, zaburzeniami lękowymi, żałobą, zaburzeniami dysocjacyjnymi, skutkami urazu mózgu i reakcjami na stresory niespełniające kryterium A.
+## Ponowna wiktymizacja bez obwiniania
 
-## Złożone PTSD w ICD-11
+Ponowna wiktymizacja oznacza doświadczenie kolejnej krzywdy. Jej statystyczne ryzyko może wiązać się z trwającym kontaktem ze sprawcą, zależnością ekonomiczną, bezdomnością, brakiem ochrony instytucjonalnej, dyskryminacją, używaniem substancji czy skutkami wcześniejszej traumy utrudniającymi rozpoznanie niebezpieczeństwa. Żaden z tych czynników nie przenosi odpowiedzialności ze sprawcy na osobę pokrzywdzoną.
 
-ICD-11 traktuje PTSD i CPTSD jako dwa odrębne rozpoznania, których nie stawia się jednocześnie. CPTSD wymaga rdzenia PTSD oraz trzech obszarów zaburzeń organizacji siebie: nasilonych trudności w regulacji afektu, utrwalonego negatywnego obrazu siebie i trwałych trudności relacyjnych. Objawy muszą powodować znaczące upośledzenie funkcjonowania.
+Interwencja powinna zwiększać bezpieczeństwo i sprawczość, a nie pytać, dlaczego osoba „na to pozwoliła”. Przydatne są: plan bezpieczeństwa, dostęp do pomocy prawnej i społecznej, leczenie objawów, ograniczanie barier materialnych oraz respektowanie tempa ujawniania informacji. Powtarzanie historii w wielu instytucjach może wtórnie ranić.
 
-Długotrwałe albo powtarzane zdarzenia, z których trudno było uciec, zwiększają prawdopodobieństwo CPTSD, lecz charakter ekspozycji sam nie ustala diagnozy. Zaniedbanie, przewlekła przemoc lub niestabilność opieki mogą także prowadzić do innych następstw rozwojowych; dlatego pojęć [traumy rozwojowej](../psychologia_rozwojowa/trauma_rozwojowa.md) i CPTSD nie należy stosować zamiennie.
+## „Przymus powtarzania”
 
-## Psychofizjologia, dysocjacja i pamięć
+Freudowska koncepcja przymusu powtarzania miała opisywać odtwarzanie bolesnych wzorców w zachowaniu, relacjach lub terapii. Jest historyczną hipotezą psychodynamiczną, która może służyć jako interpretacyjna metafora, ale nie stanowi ustalonego, uniwersalnego mechanizmu neurobiologicznego. Nie należy jej używać do twierdzenia, że osoba nieświadomie „wybiera” przemoc.
 
-Reakcja na zagrożenie angażuje współczulne i przywspółczulne gałęzie autonomicznego układu nerwowego, układy neuroendokrynne, uwagę i uczenie się. W badaniach grup z PTSD stwierdza się przeciętnie odmienną reaktywność na sygnały zagrożenia i trudności w wygaszaniu wyuczonego lęku. Wyniki są jednak zróżnicowane i nie stanowią indywidualnego testu diagnostycznego.
+Współczesne, testowalne wyjaśnienia konkretnych powtórzeń obejmują uczenie warunkowe, generalizację zagrożenia, unikanie, dysocjację, modele przywiązania, ograniczenia społeczne i ekspozycję na sprawców. Każde z nich wymaga danych z danego przypadku; podobny rezultat nie dowodzi tego samego mechanizmu.
 
-**Dysocjacja** oznacza zaburzenie zwykłej integracji świadomości, pamięci, tożsamości, emocji, percepcji lub reprezentacji ciała. Może wystąpić podczas zdarzenia albo później, ale nie jest koniecznym składnikiem każdej reakcji pourazowej. Należy ją oceniać odrębnie, zamiast wyjaśniać każde odrętwienie jednym mechanizmem „zamrożenia”.
+## Ocena i pomoc
 
-Pamięć traumatyczna nie jest wiernym zapisem zdarzenia. Jak każda pamięć autobiograficzna podlega rekonstrukcji, zapominaniu i modyfikacji. PTSD wiąże się często z mimowolnym przywoływaniem elementów doświadczenia oraz trudnością w osadzeniu ich w kontekście, ale popularne twierdzenie, że trauma jest zawsze „zapisana w ciele” i niedostępna pamięci słownej, wykracza poza dane. Fragmentaryczność relacji nie dowodzi ani prawdziwości, ani fałszywości konkretnego wspomnienia.
+Bezpośrednio po zdarzeniu priorytetami są bezpieczeństwo, potrzeby medyczne, praktyczne wsparcie i ochrona przed dalszą krzywdą. Rutynowe wymuszanie szczegółowego jednorazowego „odreagowania” nie zapobiega PTSD. Utrzymujące się objawy ocenia się wraz z depresją, używaniem substancji, bólem, snem, ryzykiem samobójczym i sytuacją społeczną.
 
-### „Okno tolerancji” i modele somatyczne
-
-„Okno tolerancji” jest kliniczną metaforą zakresu pobudzenia, w którym osoba może pozostawać zaangażowana bez skrajnego przeciążenia lub odcięcia. Pomaga rozmawiać o dawkowaniu interwencji, ale nie jest odrębnym, zwalidowanym biomarkerem ani powszechnie przyjętym modelem neurofizjologicznym.
-
-Podobnie teoria poliwagalna, „uwięziona energia przetrwania” i konieczność dokończenia przerwanej reakcji obronnej są modelami obecnymi w niektórych terapiach somatycznych, w tym Somatic Experiencing. Nie należy przedstawiać ich jako ustalonych mechanizmów wszystkich zaburzeń pourazowych. Badania nad warunkowaniem lęku, snem, uwagą i autonomiczną reaktywnością są szerszą bazą psychofizjologiczną; dowody swoiste dla mechanizmów i skuteczności Somatic Experiencing pozostają ograniczone.
-
-## Leczenie
-
-Wytyczne kliniczne zalecają przede wszystkim psychoterapie skoncentrowane na traumie, między innymi terapię poznawczo-behawioralną skoncentrowaną na traumie, przedłużoną ekspozycję, terapię przetwarzania poznawczego oraz EMDR. Dobór zależy od wieku, obrazu klinicznego, preferencji, bezpieczeństwa i dostępności. Farmakoterapia może być alternatywą albo uzupełnieniem; decyzja wymaga indywidualnej oceny lekarskiej.
-
-Stabilizacja i plan bezpieczeństwa są szczególnie ważne przy aktualnej przemocy, wysokim ryzyku samobójczym, znacznej dysocjacji lub braku podstawowych warunków bezpieczeństwa. Nie oznacza to jednak, że każda osoba z PTSD musi przejść długi, sztywny etap stabilizacji przed leczeniem skoncentrowanym na traumie. Plan powinien wynikać z oceny funkcjonalnej, a nie z jednej szkoły terapeutycznej.
+Najlepiej potwierdzone metody leczenia PTSD obejmują ukierunkowane na traumę terapie poznawczo-behawioralne i EMDR. Stabilizacja i tempo pracy muszą odpowiadać bezpieczeństwu, dysocjacji, współchorobowości i preferencjom. Leki mogą zmniejszać niektóre objawy, ale nie zastępują ochrony przed aktualną przemocą.
 
 ## Bibliografia
 
 1. American Psychiatric Association. (2022). *Diagnostic and Statistical Manual of Mental Disorders* (5th ed., text rev.).
-2. Brewin, C. R., Andrews, B., & Valentine, J. D. (2000). Meta-analysis of risk factors for posttraumatic stress disorder in trauma-exposed adults. *Journal of Consulting and Clinical Psychology, 68*(5), 748–766. https://doi.org/10.1037/0022-006X.68.5.748
-3. Brewin, C. R., Gregory, J. D., Lipton, M., & Burgess, N. (2010). Intrusive images in psychological disorders. *Psychological Review, 117*(1), 210–232. https://doi.org/10.1037/a0018113
-4. Cusack, K., Jonas, D. E., Forneris, C. A., et al. (2016). Psychological treatments for adults with posttraumatic stress disorder: A systematic review and meta-analysis. *Clinical Psychology Review, 43*, 128–141. https://doi.org/10.1016/j.cpr.2015.10.003
-5. National Institute for Health and Care Excellence. (2018). *Post-traumatic stress disorder (NG116)*. https://www.nice.org.uk/guidance/ng116
-6. Olff, M., Langeland, W., & Gersons, B. P. R. (2005). Effects of appraisal and coping on the neuroendocrine response to extreme stress. *Neuroscience & Biobehavioral Reviews, 29*(3), 457–467. https://doi.org/10.1016/j.neubiorev.2004.12.006
-7. World Health Organization. (2024). *Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders*.
+2. Cloitre, M., et al. (2013). Evidence for proposed ICD-11 PTSD and complex PTSD. *European Journal of Psychotraumatology, 4*, 20706. https://doi.org/10.3402/ejpt.v4i0.20706
+3. Freud, S. (1920/1955). Beyond the pleasure principle. In *The Standard Edition*, Vol. 18. Hogarth Press.
+4. National Institute for Health and Care Excellence. (2018). *Post-traumatic stress disorder (NG116)*.
+5. World Health Organization. (2013). *Guidelines for the management of conditions specifically related to stress*.
+6. World Health Organization. (2024). *Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders*.

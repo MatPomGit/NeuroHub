@@ -1,58 +1,8 @@
-﻿---
-lastReviewed: 2026-04-01
-reviewCycleMonths: 24
-evidenceCutoffDate: 2025-12-31
+---
+title: "Przekierowanie: Zaburzenia odżywiania i uzależnienia"
+redirect: zaburzenia_odzywiania_i_uzaleznienia.md
 ---
 
-# Zaburzenia odżywiania
+# Przekierowanie
 
-Anoreksja, bulimia, napadowe objadanie się i ARFID - kryteria DSM-5, etiopatogeneza i leczenie.
-
-## Spektrum zaburzeń odżywiania
-
-Zaburzenia odżywiania (*eating disorders*) obejmują szerokie spektrum problemów z jedzeniem, od restrykcji przez kompulsywne objadanie się po unikanie pokarmów sensorycznych. Łączy je zaburzenie relacji z jedzeniem, ciałem lub obu tych aspektów.
-
-## Jadłowstręt psychiczny (anoreksja, AN)
-
-**Anorexia nervosa** - restrykcja spożycia kalorii prowadząca do znacząco niskiej masy ciała (BMI < 17,5 lub poniżej 5. centyla u dzieci), silny lęk przed przytyciem i zaburzony obraz ciała (*body image distortion*). Typ restrykcyjny vs. typ z napadami objadania/przeczyszczaniem.
-
-> Anoreksja ma **najwyższą śmiertelność** spośród wszystkich zaburzeń psychicznych (~5–6% na dekadę) - zarówno z powikłań somatycznych (kacheksja, arytmie, osteoporoza), jak i samobójstwa.
-
-## Bulimia psychiczna (BN)
-
-Powtarzające się **epizody napadowego objadania** (zjedzenie dużej ilości jedzenia z utratą kontroli) połączone z **zachowaniami kompensacyjnymi** (wymioty, przeczyszczające, intensywne ćwiczenia, post). Poczucie własnej wartości nadmiernie zależne od kształtu i masy ciała. Masa ciała może być prawidłowa.
-
-## Napadowe objadanie się (BED)
-
-**Binge Eating Disorder** - epizody napadowego objadania bez regularnych zachowań kompensacyjnych, z poczuciem wstydu i utratą kontroli. Najczęstsze zaburzenie odżywiania w populacji ogólnej; często współwystępuje z otyłością i depresją.
-
-## ARFID
-
-**Avoidant/Restrictive Food Intake Disorder** - unikanie pokarmów z powodu sensorycznej wrażliwości (tekstura, zapach), lęku przed zakrztuszeniem/wymiotami lub braku zainteresowania jedzeniem. Bez zaburzeń obrazu ciała. Często u dzieci i przy ASD/ADHD.
-
-## Leczenie
-
-Anoreksja: hospitalizacja przy BMI < 14 lub szybkiej utracie masy, FBT (Family-Based Treatment) dla adolescentów, CBT i SSCM dla dorosłych. Bulimia: CBT-E (Enhanced CBT) i IPT; SSRI (fluoksetyna). BED: CBT, DBT, lisdeksamfetamina (jedyny zatwierdzony lek).
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Zaburzenia odżywiania" polega na tym, że objawy nabierają znaczenia dopiero wtedy, gdy analizuje się je w przebiegu, kontekście funkcjonowania i relacji do mechanizmów podtrzymujących.
-
-Dopiero wspólna analiza zagadnień takich jak spektrum zaburzeń odżywiania, napadowe objadanie się (bed) oraz leczenie pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Zaburzenia odżywiania" pokazuje, że najbardziej użyteczna perspektywa łączy opis symptomów z rozumieniem procesu, różnicowaniem i planowaniem interwencji.
-
-
-Dopiero wspólna analiza zagadnień takich jak spektrum zaburzeń odżywiania, napadowe objadanie się (bed) oraz leczenie pokazuje pełny zakres omawianego zjawiska.
-
-## Bibliografia
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+Treść tego artykułu została włączona do opracowania [Zaburzenia odżywiania i uzależnienia](./zaburzenia_odzywiania_i_uzaleznienia.md).

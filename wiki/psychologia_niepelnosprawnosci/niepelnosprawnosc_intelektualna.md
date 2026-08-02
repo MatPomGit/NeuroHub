@@ -56,7 +56,7 @@ Trudność diagnostyczna: objawy psychopatologiczne mogą być maskowane przez o
 - **Psychoedukacja rodziny:** strategie wsparcia w domu.
 - **Wsparcie edukacyjne:** indywidualne plany nauczania (IPE).
 
-## [Jakość życia i autonomia](../psychologia_zdrowia/jakosc_zycia.md#niepełnosprawność-osoba-w-relacji-ze-środowiskiem)
+## [Jakość życia i autonomia](../psychologia_zdrowia/choroby_przewlekle.md#jakość-życia-związana-ze-zdrowiem)
 
 Współczesne podejście podkreśla, że osoby z NI mają prawo do:
 

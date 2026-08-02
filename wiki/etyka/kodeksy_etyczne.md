@@ -133,23 +133,21 @@ Zasada **minimalna**: psycholog zawsze postępuje zgodnie z prawem. Zasada **doc
 
 Kodeksy etyczne - od APA przez PTP po Meta-Kodeks EFPA - tworzą wielopoziomową strukturę normatywną, która reguluje praktykę psychologiczną w różnych kontekstach kulturowych i prawnych. Ich znajomość i stosowanie nie jest jedynie wymogiem formalnym, lecz wyrazem szacunku dla klientów, współpracowników i zaufania społecznego, na którym opiera się cały zawód psychologa.
 
-## Perspektywa nieoczywista
+## Ograniczenia kodeksów
 
-Nieoczywista perspektywa na temat "Kodeksy etyczne w psychologii - przegląd" polega na tym, że etyka zawodowa nie sprowadza się do mechanicznego stosowania reguł, lecz wymaga ważenia dóbr, ryzyk i odpowiedzialności w warunkach niepewności.
+Kodeks porządkuje obowiązki, ale nie usuwa konfliktów między nimi. Ochrona poufności może na przykład pozostawać w napięciu z zapobieganiem poważnej szkodzie, a poszanowanie autonomii z oceną zdolności do świadomej zgody. W takim przypadku sama znajomość przepisu nie wystarcza: potrzebne są ustalenie faktów, rozważenie możliwych szkód, konsultacja oraz udokumentowanie przesłanek decyzji (Kitchener, 1984; Knapp i VandeCreek, 2012).
 
-Dopiero wspólna analiza zagadnień takich jak czym jest kodeks etyczny?, hierarchia norm etycznych i prawnych oraz znaczenie kodeksów w praktyce pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+Kodeks stowarzyszenia zawodowego nie jest też tożsamy z prawem powszechnie obowiązującym. Zakres odpowiedzialności i możliwość zastosowania sankcji zależą od jurysdykcji, miejsca pracy i członkostwa psychologa w danej organizacji. Dlatego przed decyzją należy sprawdzić równolegle aktualne przepisy, właściwy kodeks i regulacje instytucji, zamiast traktować przedstawioną wyżej hierarchię jako automatyczną kolejność rozstrzygającą każdy konflikt.
 
 ## Podsumowanie
 
-Temat "Kodeksy etyczne w psychologii - przegląd" pokazuje, że najbardziej dojrzałe wnioski etyczne wynikają z łączenia zasad, kontekstu sytuacyjnego i refleksji nad skutkami decyzji.
+Kodeksy dostarczają wspólnego języka wartości i minimalnych standardów postępowania. Ich odpowiedzialne użycie polega jednak nie na mechanicznym wyborze reguły, lecz na powiązaniu normy z faktami sprawy, prawem, oceną możliwych szkód oraz przejrzystym uzasadnieniem decyzji.
 
+## Bibliografia
 
-Dopiero wspólna analiza zagadnień takich jak czym jest kodeks etyczny?, hierarchia norm etycznych i prawnych oraz znaczenie kodeksów w praktyce pokazuje pełny zakres omawianego zjawiska.## Bibliografia
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+1. American Psychological Association. (2017). *Ethical principles of psychologists and code of conduct (2002, amended effective June 1, 2010, and January 1, 2017).* APA.
+2. European Federation of Psychologists' Associations. (2005). *Meta-code of ethics.* EFPA.
+3. International Union of Psychological Science. (2008). *Universal declaration of ethical principles for psychologists.* IUPsyS.
+4. Kitchener, K. S. (1984). Intuition, critical evaluation and ethical principles: The foundation for ethical decisions in counseling psychology. *The Counseling Psychologist, 12*(3), 43–55. https://doi.org/10.1177/0011000084123005
+5. Knapp, S. J., & VandeCreek, L. D. (2012). *Practical ethics for psychologists: A positive approach* (2nd ed.). American Psychological Association. https://doi.org/10.1037/13017-000
+6. Polskie Towarzystwo Psychologiczne. (2018). *Kodeks etyczny psychologa Polskiego Towarzystwa Psychologicznego.* PTP.

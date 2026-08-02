@@ -1,117 +1,56 @@
-﻿---
-lastReviewed: 2026-04-01
-reviewCycleMonths: 24
-evidenceCutoffDate: 2025-12-31
+---
+lastReviewed: 2026-08-01
+reviewCycleMonths: 18
+evidenceCutoffDate: 2026-08-01
+aliases:
+  - ACT
+  - heksafleks ACT
 ---
 
-# Terapia Akceptacji i Zaangażowania (ACT)
+# Terapia akceptacji i zaangażowania oraz terapie kontekstualne
 
-ACT proponuje radykalny przewrót: nie zmniejszanie negatywnych myśli i emocji, lecz zmiana relacji z nimi - tak by przestały rządzić życiem.
+## Czym jest ACT
 
-## Kontekst historyczny
+Terapia akceptacji i zaangażowania (ACT) należy do kontekstualnej tradycji behawioralnej. Jej celem jest **elastyczność psychologiczna**: zdolność kontaktu z bieżącym doświadczeniem i podejmowania działań służących wybranym wartościom, także w obecności trudnych myśli i uczuć. Akceptacja nie oznacza aprobaty krzywdy, rezygnacji ze zmiany otoczenia ani biernego znoszenia przemocy.
 
-**ACT** (Acceptance and Commitment Therapy) - wymawiaj "act", nie inicjały - opracował **Steven C. Hayes** wraz ze współpracownikami (Kirk Strosahl, Kelly Wilson) w latach 80.–90. Pierwsza monografia: Hayes, Strosahl, Wilson (1999). ACT należy do "trzeciej fali" CBT, obok DBT, MBCT i CFT.
+ACT odwołuje się do funkcjonalnego kontekstualizmu i teorii ram relacyjnych. Klinicznie ważniejsze od pytania, czy myśl jest literalnie prawdziwa, bywa pytanie, co dzieje się, gdy osoba podporządkowuje jej działanie.
 
-Podstawy teoretyczne: teoria relacyjnych ram (RFT - Relational Frame Theory) - behawioralna teoria języka i poznania twierdząca, że zdolność człowieka do symbolizowania i relacjonowania bodźców jest zarówno największą siłą, jak i źródłem cierpienia.
+## Heksafleks: centralny model
 
-## Model psychopatologiczny ACT: Sztywność psychologiczna
+Heksafleks porządkuje sześć współzależnych procesów, nie sześć etapów terapii:
 
-ACT postuluje, że cierpienie psychiczne nie wynika z treści myśli ani intensywności emocji, lecz z **sztywności psychologicznej** - wzorca obronnego unikania, fuzji z myślami i utratą kontaktu z wartościami.
+1. **Kontakt z chwilą obecną**: elastyczne kierowanie uwagi na aktualne doświadczenie.
+2. **Akceptacja**: gotowość do odczuwania tego, czego nie trzeba lub nie można teraz usunąć.
+3. **Defuzja poznawcza**: dostrzeganie myśli jako zdarzeń psychicznych, a nie automatycznych poleceń.
+4. **Ja jako kontekst**: perspektywa obserwująca, której nie wyczerpuje pojedyncza historia o sobie.
+5. **Wartości**: wybrane jakości działania, które nadają kierunek; nie cele do jednorazowego odhaczenia.
+6. **Zaangażowane działanie**: konkretne, stopniowane zachowanie zgodne z wartościami, korygowane po przeszkodach.
 
-**Sześć procesów sztywności** (model Hexaflex):
-1. **Fuzja poznawcza** - traktowanie myśli jako literalnych prawd, a nie produktów umysłu ("Jestem bezwartościowy" = fakt, nie myśl);
-2. **Unikanie doświadczeń** - unikanie negatywnych emocji, doznań, wspomnień (nasila cierpienie długoterminowo);
-3. **Dominacja konceptualizowanej przeszłości/przyszłości** - bycie "w głowie" zamiast w teraźniejszości;
-4. **Przywiązanie do konceptualizowanego Ja** - sztywna, defensywna narracja o sobie ("Jestem osobą lękową i to się nie zmieni");
-5. **Nieklarowność wartości** - utrata kontaktu z tym, co naprawdę ważne;
-6. **Nieaktywność/impulsywność** - brak zaangażowanych działań zgodnych z wartościami.
+Odpowiadają im procesy sztywności: dominacja przeszłości lub konceptualnej przyszłości, unikanie doświadczenia, fuzja, przywiązanie do konceptualnego Ja, brak kontaktu z wartościami oraz bezczynność lub impulsywność. Diagram jest mapą formulacji. Nie należy na jego podstawie zakładać, że każda osoba ma sześć niezależnych „deficytów”.
 
-Przeciwieństwem jest **elastyczność psychologiczna** - zdolność kontaktowania się z chwilą obecną, jako w pełni świadoma istota ludzka, zmieniania lub trwania przy zachowaniach służących wyznaczonym wartościom.
+## Defuzja, akceptacja, wartości i działanie
 
-## Sześć procesów elastyczności (model Hexaflex)
+Defuzja może polegać na nazwaniu procesu („pojawia się myśl, że…”), zmianie tempa wypowiedzi lub doświadczeniowej metaforze. Jej celem nie jest wyśmianie myśli ani udowodnienie jej fałszu. Akceptację ćwiczy się tylko wobec prywatnego doświadczenia, którego gotowość służy działaniu. Wartości wybiera klient; terapeuta pomaga odróżnić je od presji, norm i wyników. Zaangażowane działanie przekłada kierunek na zachowanie możliwe do zaobserwowania.
 
-### 1. Akceptacja
+## ACT, uważność i klasyczna terapia poznawcza
 
-Aktywne, niedefensywne przyjmowanie doświadczeń - emocji, myśli, wrażeń - bez zbędnego wysiłku zmieniania ich lub walki z nimi. Akceptacja ≠ rezygnacja ani bierne poddanie się: to aktywny wybór "czynienia miejsca" dla trudnych treści.
+**Uważność** jest szeroką rodziną praktyk uwagi i postawy wobec doświadczenia. W ACT służy elastycznemu działaniu i może być ćwiczona bez medytacji. ACT nie jest zatem ogólnym kursem uważności. Różni się także od terapii poznawczej skoncentrowanej na ocenie trafności i zmianie treści przekonań. Różnica nie jest absolutna: obie tradycje używają eksperymentów, ekspozycji i pracy behawioralnej, a współczesna CBT także bada funkcję myśli.
 
-*Metafora:* Zmaganie się z mokrym piaskiem (im bardziej walczysz, tym głębiej grzęźniesz) vs. zrobienie kroku na stały grunt.
+## Skuteczność i postulowane mediatory
 
-### 2. Defuzja poznawcza
+Metaanalizy wskazują, że ACT jest skuteczniejsze od warunków nieaktywnych w wielu obszarach, natomiast przewaga nad dobrze dobranymi aktywnymi terapiami jest zwykle mała lub niepewna. Nie uzasadnia to ani odrzucenia ACT, ani twierdzenia o jego ogólnej wyższości.
 
-Zmiana relacji z myślami - "patrzenie na myśli" zamiast "patrzenia przez myśli". Techniki defuzji: nazywanie myśli ("mam myśl, że..."), wyobrażanie myśli jako liści płynących po rzece, śpiewanie myśl do melodii, powtarzanie słowa aż straci znaczenie.
+Badania procesowe wiążą poprawę z elastycznością psychologiczną, akceptacją, defuzją i działaniem opartym na wartościach. Wiele badań mierzy jednak mediator i objawy w tych samych punktach czasowych, korzysta z samoopisu oraz skal częściowo nakładających się na dystres. Związek statystyczny nie dowodzi więc, że postulowany proces poprzedził i spowodował zmianę. Silniejszego testu dostarczają wielokrotne pomiary czasowe i eksperymentalna manipulacja procesem; ich wyniki są obiecujące, ale nierówne między procesami.
 
-Celem nie jest eliminowanie myśli, lecz zmniejszenie ich dosłownej siły - umożliwienie działania mimo ich obecności.
+## Granice i bezpieczeństwo
 
-### 3. Kontakt z chwilą obecną (Present Moment Awareness)
-
-Elastyczna, zrównoważona uwaga kierowana na teraźniejszość - chwilowe doświadczenie myśli, emocji i doznań ciała, bez oceniania. Nakłada się na praktyki mindfulness.
-
-### 4. Obserwujące Ja (Self-as-Context)
-
-Rozróżnienie między "myślącym Ja" (treściami, narracjami, oceną siebie) a "obserwującym Ja" - transcendentną perspektywą, z której można obserwować myśli i emocje bez utożsamiania się z nimi. Stałe, niezniszczalne "miejsce obserwacji".
-
-### 5. Klaryfikacja wartości
-
-Wartości w ACT to *kierunki*, nie cele - nie są nigdy "osiągane" na stałe, lecz cały czas realizowane. Odróżnienie wartości od celów (cel: ukończyć bieg maraton; wartość: zdrowie i aktywność). Kontakt z wartościami dostarcza kierunku i motywacji niezależnie od emocji i myśli.
-
-### 6. Zaangażowane działanie
-
-Działania zgodne z wartościami, pomimo obecności trudnych myśli i emocji. Wyznaczanie celów, ekspozycja jako działanie oparte na wartościach, przezwyciężanie prokrastynacji. Kluczowe: działanie *pomimo* lęku, nie *po zniknięciu* lęku.
-
-> **Metafora akceptacji i zaangażowania:** "Autobus jadący w stronę życia". Twoje wartości to kierunek jazdy. Na pokładzie są pasażerowie (myśli, emocje, wspomnienia) - niektórzy głośni i nieprzyjemni. Możesz zatrzymywać autobus i walczyć z nimi (tracąc czas i energię), albo jechać dalej, pozwalając im siedzieć na pokładzie, skupiając się na prowadzeniu.
-
-## Skuteczność kliniczna
-
-ACT jest poparta badaniami w szerokim spektrum problemów:
-- **Zaburzenia lękowe** (GAD, fobia społeczna, OCD) - porównywalna do CBT;
-- **Depresja** - szczególnie skuteczna w zapobieganiu nawrotom;
-- **Ból przewlekły** - jedno z najsilniejszych zastosowań ACT; zmiana relacji z bólem (akceptacja) zmniejsza cierpienie i funkcjonalne ograniczenia;
-- **Uzależnienia** - wartości jako motywacja do trzeźwości;
-- **Stres zawodowy i wypalenie** - wdrożenia organizacyjne (ACT w miejscu pracy);
-- **Choroby przewlekłe** - poprawia adherencję i jakość życia.
-
-## Techniki i ćwiczenia ACT
-
-**Ćwiczenie "liście na rzece":** Wyobraź sobie rzekę; obserwuj, jak każda myśl pojawia się jako liść i odpływa.
-
-**Ćwiczenie "autobus z pasażerami":** Jak wyżej - kierowca jedzie w wybranym kierunku.
-
-**Defuzja: "Mam myśl, że...":** Dodanie tej frazy przed każdą myślą dystansuje od jej dosłowności.
-
-**Matrix (ACT Matrix, Polk & Schoendorff):** Prosta, wizualna mapa czterech kwadrantów: (1) wartości, (2) działania wartościowe, (3) bariery wewnętrzne, (4) zachowania unikowe. Narzędzie psychoedukacyjne i terapeutyczne.
-
-**Mindfulness w ACT:** Praktyki uważności (oddech, body scan, obserwacja myśli) są użyte nie dla relaksacji, lecz dla rozwijania zdolności Obserwującego Ja i kontaktu z chwilą obecną.
-
-## ACT vs CBT - kluczowe różnice
-
-| Wymiar | CBT (Beck) | ACT |
-|--------|-----------|-----|
-| Cel | Zmiana treści myśli | Zmiana relacji z myślami |
-| Podejście do emocji | Redukcja negatywnych emocji | Akceptacja emocji, zmiana kontekstu |
-| Mechanizm | Restrukturyzacja poznawcza | Defuzja, akceptacja, wartości |
-| Wynik | Mniej symptomów | Elastyczność psychologiczna |
-
-ACT i CBT nie są konkurentami - wiele terapeutów integruje oba podejścia w zależności od potrzeb pacjenta.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Terapia Akceptacji i Zaangażowania (ACT)" polega na tym, że skuteczność psychoterapii zależy nie tylko od nazwy nurtu, ale od jakości konceptualizacji, przymierza, dawkowania interwencji i dopasowania do pacjenta.
-
-Dopiero wspólna analiza zagadnień takich jak kontekst historyczny, skuteczność kliniczna oraz act vs cbt - kluczowe różnice pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Terapia Akceptacji i Zaangażowania (ACT)" pokazuje, że najbardziej praktyczne wnioski wynikają z łączenia modelu teoretycznego z uważnością na proces zmiany, relację i ograniczenia danej metody.
-
-
-Dopiero wspólna analiza zagadnień takich jak kontekst historyczny, skuteczność kliniczna oraz act vs cbt - kluczowe różnice pokazuje pełny zakres omawianego zjawiska.
+Metafory trzeba dostosować językowo i kulturowo. Zachęcanie do „akceptacji” bez rozpoznania przemocy może utrwalać zagrożenie, a wartości nie są narzędziem moralizowania. Przy ciężkim kryzysie priorytetem pozostaje bezpieczeństwo i adekwatne leczenie, nie mechaniczne przejście przez heksafleks.
 
 ## Bibliografia
 
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+1. A-Tjak, J. G. L., et al. (2015). A meta-analysis of the efficacy of acceptance and commitment therapy. *Psychotherapy and Psychosomatics, 84*(1), 30–36. https://doi.org/10.1159/000365764
+2. Gloster, A. T., Walder, N., Levin, M. E., Twohig, M. P., & Karekla, M. (2020). The empirical status of ACT. *Journal of Contextual Behavioral Science, 18*, 181–192. https://doi.org/10.1016/j.jcbs.2020.09.009
+3. Hayes, S. C., Strosahl, K. D., & Wilson, K. G. (2012). *Acceptance and Commitment Therapy* (2nd ed.). Guilford Press.
+4. Hayes, S. C., Villatte, M., Levin, M., & Hildebrandt, M. (2011). Open, aware, and active. *Clinical Psychology Review, 31*(4), 676–691. https://doi.org/10.1016/j.cpr.2011.03.001
+5. Levin, M. E., Hildebrandt, M. J., Lillis, J., & Hayes, S. C. (2012). The impact of treatment components suggested by the psychological flexibility model. *Behavior Therapy, 43*(4), 741–756. https://doi.org/10.1016/j.beth.2012.05.003
+6. Stockton, D., Kellett, S., Berrios, R., Sirois, F., Wilkinson, N., & Miles, G. (2019). Identifying the underlying mechanisms of change during ACT. *Clinical Psychology Review, 72*, 101749. https://doi.org/10.1016/j.cpr.2019.101749

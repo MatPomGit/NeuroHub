@@ -129,7 +129,7 @@ Pomaga ograniczona w czasie analiza na piśmie: (1) co dokładnie powiedziano, (
 
 ## ACT i samowspółczucie w zastosowaniu do krytyki
 
-Z perspektywy [ACT](../psychoterapia/heksafleks_act.md) celem nie jest usunięcie wstydu lub myśli „zawiodłem”, lecz zmniejszenie ich automatycznego wpływu na działanie. Krótka defuzja brzmi: „Zauważam myśl, że ta uwaga definiuje całą moją wartość”. Potem można wybrać zachowanie zgodne z wartością, na przykład rzetelnością, szacunkiem lub odwagą.
+Z perspektywy [ACT](../psychoterapia/act.md) celem nie jest usunięcie wstydu lub myśli „zawiodłem”, lecz zmniejszenie ich automatycznego wpływu na działanie. Krótka defuzja brzmi: „Zauważam myśl, że ta uwaga definiuje całą moją wartość”. Potem można wybrać zachowanie zgodne z wartością, na przykład rzetelnością, szacunkiem lub odwagą.
 
 [Współczucie dla siebie](../psychologia_pozytywna/uwaznosc_przeplyw_i_samowspolczucie.md#wspolczucie-dla-siebie) nie polega na uniewinnianiu się. W chwili krytyki oznacza potraktowanie cierpienia bez pogardy, umieszczenie błędu w ludzkim kontekście i zachowanie odpowiedzialności. Zdanie „to trudne; mogę sprawdzić błąd bez poniżania siebie” sprzyja uczeniu się bardziej niż autoatak. Są to zastosowania pomocnicze, nie pełny wykład ani techniki właściwe dla każdej osoby.
 

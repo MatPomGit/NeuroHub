@@ -1,66 +1,64 @@
-﻿---
-lastReviewed: 2026-04-01
-reviewCycleMonths: 24
-evidenceCutoffDate: 2025-12-31
+---
+lastReviewed: 2026-08-01
+reviewCycleMonths: 12
+evidenceCutoffDate: 2026-08-01
+aliases:
+  - skuteczność psychoterapii
+  - sojusz terapeutyczny
+  - superwizja psychoterapii
 ---
 
-# Psychoterapia - wprowadzenie
+# Psychoterapia: podstawy, skuteczność i czynniki wspólne
 
-Psychoterapia to systematyczne, oparte na relacji oddziaływanie psychologiczne ukierunkowane na zmniejszenie cierpienia psychicznego, poprawę funkcjonowania i wspomaganie osobistego wzrostu. Odróżnia ją od innych form pomocy psychologicznej (poradnictwa, psychoedukacji, wsparcia) wyraźna teoria zmiany, systematyczna praca z mechanizmami leżącymi u podłoża trudności i zazwyczaj dłuższy czas trwania.
+## Definicja i granice psychoterapii
 
-## Czym jest psychoterapia?
+**Psychoterapia** jest planowanym oddziaływaniem psychologicznym prowadzonym w ramach uzgodnionej relacji, opartym na teorii problemu i zmiany oraz służącym ograniczeniu cierpienia lub poprawie funkcjonowania. Nie jest synonimem każdej pomocnej rozmowy. Od poradnictwa, psychoedukacji, coachingu i wsparcia kryzysowego odróżniają ją przede wszystkim kliniczna formulacja, cele leczenia, odpowiedzialność zawodowa i systematyczna ocena przebiegu. Nie zastępuje leczenia somatycznego ani farmakoterapii, kiedy są wskazane.
 
-Wbrew popularnym wyobrażeniom psychoterapia nie jest jedną metodą ani jedną teorią - jest rodziną podejść łączonych przez kilka wspólnych elementów. Jerome Frank w klasycznej analizie *Persuasion and Healing* wyróżnił cztery wspólne czynniki skuteczne we wszystkich psychoterapiach: relacja terapeutyczna nacechowana zaufaniem i nadzieją, wspólna interpretacja cierpienia (rationale), obrzęd leczniczy (zestaw procedur postrzeganych jako właściwy) i doświadczenie naprawcze (nowe doświadczenia korygujące stare przekonania i wzorce). Badania metaanalityczne konsekwentnie wskazują, że te *wspólne czynniki* odpowiadają za znaczną część wariancji wyników, niezależnie od nurtu terapeutycznego.
+## Główne szkoły
 
-## Główne nurty terapeutyczne
+Do najważniejszych rodzin należą [terapie poznawcze i behawioralne](./cbt.md), [ACT i podejścia kontekstualne](./act.md), [DBT](./dbt.md), [podejścia psychodynamiczne i humanistyczne](./podejscia_psychodynamiczne_i_humanistyczne.md), [terapie traumy](./emdr.md) oraz [terapie systemowe i rodzinne](../systemy_rodzinne/terapie_systemowe_i_rodzinne.md). Nazwa szkoły nie wystarcza do oceny leczenia: w obrębie jednej tradycji mieszczą się procedury o różnym celu i różnej sile dowodów.
 
-**Terapia psychodynamiczna** wywodzi się z psychoanalizy Freuda, choć współczesne podejścia psychodynamiczne (terapia relacji obiektów, terapia skoncentrowana na przeniesieniu, ISTDP) są znacznie zmodyfikowane. Centralnym mechanizmem zmiany jest uświadamianie nieświadomych konfliktów i wzorców relacyjnych, ich przepracowanie w relacji terapeutycznej (analiza przeniesienia i oporu) i integracja dysocjowanych aspektów doświadczenia. Terapia psychodynamiczna wykazuje szczególną skuteczność w zaburzeniach osobowości i przewlekłych problemach interpersonalnych.
+## Skuteczność bezwzględna i porównawcza
 
-**Terapia poznawczo-behawioralna (CBT)** integruje techniki behawioralne (ekspozycja, warunkowanie sprawcze) z pracą nad zniekształceniami poznawczymi i nieadaptacyjnymi przekonaniami. Aaron Beck zaobserwował, że depresja wiąże się z triadą poznawczą negatywnych przekonań o sobie, świecie i przyszłości. CBT jest najlepiej zbadanym empirycznie podejściem i wykazuje silne dowody skuteczności w zaburzeniach lękowych, depresji, OCD, PTSD i zaburzeniach odżywiania.
+Skuteczność **bezwzględna** odpowiada na pytanie, czy terapia daje lepszy wynik niż brak leczenia, lista oczekujących lub zwykła opieka. Liczne metaanalizy potwierdzają przeciętną korzyść psychoterapii, lecz wielkość efektu zależy od problemu, wyniku, grupy kontrolnej i ryzyka błędu publikacyjnego. Skuteczność **porównawcza** dotyczy różnic między aktywnymi terapiami. Różnice uśrednione bywają małe, ale dla określonych problemów i wyników procedury swoiste, na przykład ekspozycja w zaburzeniach lękowych, mają szczególne uzasadnienie.
 
-**Terapie trzeciej fali CBT** - DBT (Linehan), ACT (Hayes), CFT, MBCT - uzupełniają klasyczne CBT o techniki uważności (mindfulness), akceptacji i budowania elastyczności psychologicznej. DBT (dialektyczna terapia behawioralna) jest terapią pierwszego wyboru w zaburzeniu osobowości borderline.
+Tak zwany werdykt ptaka Dodo, streszczany jako „wszyscy wygrali”, pozostaje hipotezą interpretacyjną, a nie rozstrzygniętym prawem. Podobieństwo średnich wyników może odzwierciedlać wspólne mechanizmy, równoważne drogi zmiany, zbyt małą moc badań, szerokie kategorie diagnostyczne albo dobór kompetentnie prowadzonych terapii.
 
-**Terapia humanistyczno-egzystencjalna** - terapia skoncentrowana na kliencie (Rogers), terapia Gestalt, logoterapia Frankla - kładzie nacisk na autentyczność, wolność, odpowiedzialność i aktualizację potencjału. Koncepcja *bezwarunkowej akceptacji* Rogersa i *empatycznego rozumienia* stały się standardami pracy terapeutycznej niezależnie od nurtu.
+## Czynniki wspólne i techniki specyficzne
 
-**Terapia systemowa** postrzega problemy jednostki jako wyraz dysfunkcji systemu rodzinnego lub innego systemu społecznego, a nie jedynie jako patologię indywidualną. Techniki obejmują cyrkularne pytania, paradoksalne interwencje, rzeźbę rodziny i genogram.
+Czynniki wspólne obejmują wiarygodne wyjaśnienie problemu, nadzieję, współpracę, empatię, regularny kontakt i możliwość korekcyjnego uczenia się. Techniki specyficzne uruchamiają bardziej określone procesy, takie jak wygaszanie lęku przez ekspozycję, aktywizacja w depresji lub praca z traumatycznym wspomnieniem. Nie są to konkurencyjne wyjaśnienia: dobra procedura wymaga relacji, a dobra relacja nie zastępuje potrzebnej procedury.
 
-## Czynniki wspólne i specyficzne
+## Sojusz terapeutyczny
 
-Debata o tym, czy wyniki terapii są determinowane przez *czynniki wspólne* (relacja, sojusz terapeutyczny, nadzieja) czy *czynniki specyficzne* (techniki charakterystyczne dla danego nurtu), nie ma jednoznacznego rozstrzygnięcia. Metaanalizy wskazują, że różnice między uznanymi nurtami są zazwyczaj niewielkie (*dodo bird verdict* - wszyscy wygrali i wszyscy zasługują na nagrody), ale w przypadku specyficznych zaburzeń (np. fobia prosta, OCD, PTSD) techniki ekspozycji mają wyraźną przewagę nad innymi podejściami.
+W modelu Bordina sojusz obejmuje zgodę co do **celów**, zgodę co do **zadań** oraz **więź**. Jego związek z wynikiem jest powtarzalny, lecz korelacja nie dowodzi, że sama więź powoduje poprawę: wczesna poprawa może wzmacniać sojusz, a kompetentne zastosowanie techniki może budować zgodę co do zadań. Szczególnie ważne są rozpoznawanie i naprawa zerwań, na przykład wycofania, pozornej zgody albo otwartego sporu.
 
-Sojusz terapeutyczny - definiowany przez wspólne cele, wspólne zadania i emocjonalną więź - jest jednym z najlepiej udokumentowanych predyktorów wyniku terapii niezależnie od metody.
+## Kompetencje terapeuty
 
-## Mechanizmy zmiany terapeutycznej
+Kompetencja obejmuje wiedzę, umiejętność formulacji, wykonanie procedur, responsywność wobec informacji zwrotnej, etykę i rozpoznawanie granic własnych kwalifikacji. Wierność podręcznikowi bez dopasowania może być równie niewłaściwa jak improwizacja bez modelu. Monitorowanie objawów, funkcjonowania, ryzyka i doświadczenia klienta pomaga wykryć brak postępu, ale nie zastępuje osądu klinicznego.
 
-Jak właściwie terapia zmienia mózg? Badania neuroobrazowe pokazują, że skuteczna psychoterapia prowadzi do mierzalnych zmian neurobiologicznych - porównywalnych ze zmianami po farmakoterapii - w aktywności ciała migdałowatego, kory przedczołowej i hipokampa. CBT zmniejsza nadreaktywność ciała migdałowatego w zaburzeniach lękowych; terapia psychodynamiczna nasila aktywność kory przyśrodkowej czołowej odpowiedzialnej za mentalizację.
+## Superwizja
 
-Mechanizmy zmiany obejmują wykorzenienie starych skojarzeń (extinction learning i inhibitory learning w terapii ekspozycji), nabywanie nowych umiejętności regulacji emocji, zmianę narracji tożsamościowej, korektywne doświadczenia relacyjne i metapoznawczą zdolność do obserwowania własnych wzorców myślenia.
+**Superwizja** pełni funkcję formatywną (uczenie), normatywną (jakość i bezpieczeństwo) oraz wspierającą. Może opierać się na opisie przypadku, nagraniu, obserwacji lub odgrywaniu fragmentu sesji. Umowa powinna określać cele, poufność, sposób oceny i postępowanie przy zagrożeniu. Superwizja nie jest terapią terapeuty; osobiste reakcje omawia się tylko w zakresie istotnym dla pracy. Dowody, że superwizja poprawia kompetencje, są silniejsze niż bezpośrednie dowody jej wpływu na wyniki klientów, między innymi dlatego, że ten drugi związek trudno badać.
 
-## Psychoterapia oparta na dowodach
+## Dopasowanie do osoby i problemu
 
-*Evidence-based practice* w psychoterapii łączy trzy elementy: najlepsze dostępne dowody z badań naukowych, ekspertyzę kliniczną terapeuty i preferencje oraz wartości pacjenta. Żadna terapia nie jest skuteczna dla wszystkich i dla wszystkich problemów - dobór metody powinien uwzględniać diagnozę, profil objawowy, styl przywiązania, preferencje pacjenta i zasoby środowiskowe.
+Praktyka oparta na dowodach łączy najlepsze dostępne badania, kompetencje kliniczne oraz cechy, kulturę i preferencje osoby. Dobór obejmuje problem, jego nasilenie, choroby współwystępujące, etap zmiany, bezpieczeństwo, dostępność i akceptowalność metody. Dopasowanie nie oznacza spełniania każdej preferencji: terapeuta powinien jasno omówić korzyści, koszty i alternatywy.
 
-Kryteria *empirycznie podpartego leczenia* (ESTs) zostały opracowane przez APA i obejmują hierarchię dowodów: od badań z randomizowaną kontrolą (RCT) przez systematyczne przeglądy po opisy przypadków. Jednocześnie skuteczność w warunkach kontrolowanych badań (efficacy) może różnić się od skuteczności w codziennej praktyce klinicznej (effectiveness), gdzie pacjenci są bardziej złożeni i warunki mniej standaryzowane.
+## Zdarzenia niepożądane i pogorszenie
 
-## Perspektywa nieoczywista
+Możliwe są przejściowy wzrost napięcia podczas ekspozycji, konflikty w relacjach, zależność, naruszenie poufności, stygmatyzacja, opóźnienie skuteczniejszego leczenia i trwałe pogorszenie. Sam wzrost dyskomfortu nie jest dowodem szkody, a „trudna część procesu” nie może służyć do unieważniania zgłoszeń. Potrzebne są pomiar wyjściowy, regularna ocena, plan kryzysowy, świadoma zgoda i możliwość zmiany lub zakończenia leczenia.
 
-Nieoczywista perspektywa na temat "Psychoterapia - wprowadzenie" polega na tym, że skuteczność psychoterapii zależy nie tylko od nazwy nurtu, ale od jakości konceptualizacji, przymierza, dawkowania interwencji i dopasowania do pacjenta.
+## Ograniczenia badań
 
-Dopiero wspólna analiza zagadnień takich jak czym jest psychoterapia?, czynniki wspólne i specyficzne oraz psychoterapia oparta na dowodach pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Psychoterapia - wprowadzenie" pokazuje, że najbardziej praktyczne wnioski wynikają z łączenia modelu teoretycznego z uważnością na proces zmiany, relację i ograniczenia danej metody.
-
-
-Dopiero wspólna analiza zagadnień takich jak czym jest psychoterapia?, czynniki wspólne i specyficzne oraz psychoterapia oparta na dowodach pokazuje pełny zakres omawianego zjawiska.
+Badania różnią się definicją poprawy, długością obserwacji i jakością porównania. Próby często nie reprezentują osób z wieloma rozpoznaniami, a badania terapeutów i szkód są rzadsze niż badania objawów. Średnia skuteczność nie przewiduje wyniku konkretnej osoby. Wnioski powinny zatem dotyczyć określonego protokołu, populacji, komparatora i rezultatu, nie prestiżu całej szkoły.
 
 ## Bibliografia
 
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+1. Bordin, E. S. (1979). The generalizability of the psychoanalytic concept of the working alliance. *Psychotherapy, 16*(3), 252–260. https://doi.org/10.1037/h0085885
+2. Cuijpers, P., Karyotaki, E., de Wit, L., & Ebert, D. D. (2020). The effects of fifteen evidence-supported therapies for adult depression. *Psychotherapy Research, 30*(3), 279–293. https://doi.org/10.1080/10503307.2019.1649732
+3. Flückiger, C., Del Re, A. C., Wampold, B. E., & Horvath, A. O. (2018). The alliance in adult psychotherapy. *Psychotherapy, 55*(4), 316–340. https://doi.org/10.1037/pst0000172
+4. Lambert, M. J. (Ed.). (2013). *Bergin and Garfield’s Handbook of Psychotherapy and Behavior Change* (6th ed.). Wiley.
+5. Lilienfeld, S. O. (2007). Psychological treatments that cause harm. *Perspectives on Psychological Science, 2*(1), 53–70. https://doi.org/10.1111/j.1745-6916.2007.00029.x
+6. Norcross, J. C., & Wampold, B. E. (2019). Relationships and responsiveness in the psychological treatment of trauma. *Journal of Clinical Psychology, 75*(11), 1889–1898. https://doi.org/10.1002/jclp.22848
+7. Roth, A., & Pilling, S. (2008). Using an evidence-based methodology to identify the competences required to deliver effective CBT. *Behavioural and Cognitive Psychotherapy, 36*(2), 129–147. https://doi.org/10.1017/S1352465808004141
+8. Watkins, C. E. (2020). What do clinical supervision research reviews tell us? *American Journal of Psychotherapy, 73*(4), 115–124. https://doi.org/10.1176/appi.psychotherapy.20200017

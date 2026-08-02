@@ -497,20 +497,11 @@ Poni9=ej znajdujďż˝& siďż˝" bezpo9:rednie odno9:niki do artyku9Bw bez li
 
 ### psychometrics
 
-- [`psychometrics/ados.md`](../psychometria/ados.md)
-- [`psychometrics/bdi_2.md`](../psychometria/bdi_2.md)
-- [`psychometrics/cfa_efa.md`](../psychometria/cfa_efa.md)
-- [`psychometrics/diva.md`](../psychometria/diva.md)
-- [`psychometrics/invariancja.md`](../psychometria/invariancja.md)
-- [`psychometrics/irt.md`](../psychometria/irt.md)
-- [`psychometrics/mmpi.md`](../psychometria/mmpi.md)
-- [`psychometrics/narzedzia_kliniczne.md`](../psychometria/narzedzia_kliniczne.md)
-- [`psychometrics/normalizacja.md`](../psychometria/normalizacja.md)
-- [`psychometrics/psychometria_wprowadzenie.md`](../psychometria/psychometria_wprowadzenie.md)
-- [`psychometrics/rzetelnosc.md`](../psychometria/rzetelnosc.md)
-- [`psychometrics/teoria_ct.md`](../psychometria/teoria_ct.md)
-- [`psychometrics/test_matryc_ravena.md`](../psychometria/test_matryc_ravena.md)
-- [`psychometrics/trafnosc.md`](../psychometria/trafnosc.md)
+- [`psychometria/psychometria_wprowadzenie.md`](../psychometria/psychometria_wprowadzenie.md)
+- [`psychometria/modele_psychometryczne_i_struktura_testu.md`](../psychometria/modele_psychometryczne_i_struktura_testu.md)
+- [`psychometria/narzedzia_kliniczne.md`](../psychometria/narzedzia_kliniczne.md)
+- [`psychometria/narzedzia_diagnozy_neurorozwojowej.md`](../psychometria/narzedzia_diagnozy_neurorozwojowej.md)
+- [`psychometria/testy_osobowosci_i_zdolnosci.md`](../psychometria/testy_osobowosci_i_zdolnosci.md)
 
 ### psychopathology
 

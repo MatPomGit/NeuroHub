@@ -1,72 +1,73 @@
-﻿---
-lastReviewed: 2026-04-01
+---
+title: Podstawy pomiaru psychologicznego
+aliases: [Psychometria, Klasyczna teoria testu, CTT]
+lastReviewed: 2026-08-02
 reviewCycleMonths: 24
-evidenceCutoffDate: 2025-12-31
+evidenceCutoffDate: 2026-08-02
 ---
 
-# Psychometria - wprowadzenie
+# Podstawy pomiaru psychologicznego
 
-Psychometria to dział metodologii psychologicznej zajmujący się teorią i techniką pomiaru psychologicznego. Jej zadaniem jest odpowiedź na fundamentalne pytanie: czy i w jaki sposób można zmierzyć zjawiska psychiczne tak, żeby wyniki były rzetelne, trafne i porównywalne między osobami.
+Pomiar psychologiczny nie polega na bezpośrednim „odczytaniu” cechy. Na podstawie zachowania lub odpowiedzi uzyskuje się wynik, a następnie ocenia, czy jego **konkretna interpretacja i użycie** mają wystarczające uzasadnienie. Rzetelność, dowody trafności, błąd pomiaru i właściwy układ odniesienia są częściami jednego rozumowania, nie niezależnymi pieczęciami jakości.
 
-## Czym jest pomiar psychologiczny?
+## Wynik obserwowany, prawdziwy i błąd
 
-W naukach przyrodniczych pomiar polega na przypisaniu liczb właściwościom obiektów zgodnie z ustalonymi regułami. W psychologii jest to trudniejsze, bo **konstrukty psychologiczne** - takie jak inteligencja, lęk, neurotyczność czy pamięć robocza - nie mają fizycznej jednostki miary. Psychometria rozwiązuje ten problem przez operacjonalizację: konstrukt definiuje się przez zachowania lub odpowiedzi, które go wskazują, i przypisuje się im wartości liczbowe.
+W klasycznej teorii testu (CTT) zależność zapisuje się jako **X = T + E**. **Wynik obserwowany** (*X*) jest rezultatem uzyskanym w danym badaniu. **Wynik prawdziwy** (*T*) to teoretyczna wartość oczekiwana wyników tej osoby z nieskończenie wielu powtórzeń równoważnej procedury. Nie jest to „prawdziwa ilość” cechy istniejąca poza modelem. **Błąd pomiaru** (*E*) oznacza różnicę między wynikiem obserwowanym i prawdziwym. Może wiązać się między innymi z doborem pozycji, chwilowym stanem osoby, warunkami badania i oceną diagnosty.
 
-Skale pomiaru tworzą hierarchię od najsłabszych do najsilniejszych. Skala nominalna jedynie nazywa kategorie (np. płeć). Skala porządkowa wprowadza ranking, ale odległości między stopniami nie są równe (np. wyniki surowe wielu testów). Skala interwałowa ma równe odległości, lecz brak punktu zerowego. Skala ilorazowa ma prawdziwe zero (np. czas reakcji w milisekundach).
+CTT zakłada zwykle, że średnia błędu w powtórzeniach wynosi zero oraz że błąd nie koreluje z wynikiem prawdziwym. Systematyczna stronniczość, na przykład bariera językowa obniżająca wyniki określonej grupy, nie znika dzięki wielokrotnemu pomiarowi i stanowi przede wszystkim zagrożenie trafności.
 
-## Rzetelność
+## Rzetelność i błąd standardowy pomiaru
 
-**Rzetelność** (reliability) informuje o tym, na ile wyniki testu są stabilne, spójne i wolne od błędu pomiarowego. Wyróżnia się kilka jej rodzajów.
+**Rzetelność** opisuje precyzję wyników w określonej populacji, procedurze i celu. W CTT jest proporcją wariancji wyniku prawdziwego do wariancji wyniku obserwowanego. Nie jest stałą własnością nazwy testu. Należy dobrać dowód do źródła niepewności:
 
-*Rzetelność test-retest* to korelacja wyników z dwóch pomiarów wykonanych w różnym czasie na tej samej próbie. *Rzetelność połówkowa* polega na korelacji wyników dwóch losowo wybranych połów testu. *Spójność wewnętrzna* - najczęściej szacowana przez **alfę Cronbacha** - mierzy, w jakim stopniu pozycje testu mierzą ten sam konstrukt. *Zgodność między sędziami* (inter-rater reliability) dotyczy testów wymagających oceny obserwatora.
+- zgodność wewnętrzna dotyczy zależności między pozycjami; alfa Cronbacha wymaga mocniejszych założeń niż często się przyjmuje, dlatego przy modelu kongenerycznym warto rozważyć współczynnik omega;
+- stabilność test–retest dotyczy powtarzalności w czasie, o ile konstrukt powinien pozostać stabilny;
+- zgodność między oceniającymi ma znaczenie przy kodowaniu obserwacji lub wypowiedzi;
+- równoważność form dotyczy zamiennych wersji testu.
 
-Rzetelność wyraża się współczynnikiem korelacji w zakresie 0–1. Wartości powyżej 0,80 są uznawane za satysfakcjonujące dla celów badawczych, a powyżej 0,90 - dla celów klinicznych.
+**Błąd standardowy pomiaru** (SEM) wyraża niepewność w jednostkach skali. W prostym modelu CTT można go oszacować jako `SEM = SD × √(1 − r)`, gdzie `SD` i `r` powinny pochodzić z populacji adekwatnej dla badanego zastosowania. Ten wzór nie obejmuje wszystkich źródeł błędu i nie uprawnia do przenoszenia współczynnika rzetelności między populacjami.
 
-## Trafność
+## Przedział ufności wyniku
 
-**Trafność** (validity) odpowiada na pytanie: czy test rzeczywiście mierzy to, co ma mierzyć? Jest ważniejsza niż rzetelność - test może być wysoce rzetelny, a mimo to mierzyć coś zupełnie innego niż zakładano.
+Punkt bez informacji o precyzji daje pozorną dokładność. Przy przybliżeniu normalnym 95-procentowy przedział wokół wyniku ma postać `X ± 1,96 × SEM`. W serii analogicznych pomiarów około 95% tak obliczonych przedziałów obejmowałoby wynik prawdziwy. Nie oznacza to, że „z prawdopodobieństwem 95% cecha znajduje się w tym jednym przedziale”.
 
-*Trafność treściowa* sprawdza, czy pozycje testu reprezentują cały zakres mierzonego konstruktu. *Trafność kryterialna* jest oceniana przez korelację z zewnętrznym kryterium. *Trafność zbieżna* wymaga wysokiej korelacji z innymi testami mierzącymi ten sam konstrukt, a *trafność różnicowa* - niskiej korelacji z testami mierzącymi odmienne konstrukty. *Trafność czynnikowa* - weryfikowana przez analizę czynnikową - sprawdza, czy struktura wewnętrzna testu odpowiada zakładanej strukturze konstruktu.
+Przykład dydaktyczny: dla wyniku 50, `SD = 10` i rzetelności 0,84 otrzymujemy `SEM = 4`, a przybliżony przedział 95% od 42,2 do 57,8. Zaokrąglenie powinno odpowiadać rozdzielczości norm. Przy wyniku blisko progu decyzyjnego przedział może obejmować wartości po obu jego stronach, co przemawia za pozyskaniem dodatkowych danych, nie za arbitralnym zaokrągleniem.
 
-## Normalizacja i skale wyników
+## Trafność: ocenia się interpretację, nie test w próżni
 
-**Normalizacja** to proces wyznaczania norm - wartości odniesienia dla określonej populacji. Surowy wynik testu (np. 47 poprawnych odpowiedzi) nabiera sensu dopiero po porównaniu z rozkładem wyników w grupie normalizacyjnej. Najczęściej stosuje się wyniki standaryzowane Z (średnia 0, odchylenie 1), skalę T (średnia 50, odchylenie 10), skale stenowe (zakres 1–10, średnia 5,5) i percentyle.
+**Trafność** oznacza stopień, w jakim dowody i teoria wspierają proponowaną interpretację wyniku dla danego użycia. Obejmuje dowody oparte na treści, procesach odpowiadania, strukturze wewnętrznej, związkach z innymi zmiennymi oraz konsekwencjach stosowania. Korelacja z podobną skalą, zgodna struktura czynnikowa albo skuteczne przewidywanie kryterium to fragmenty argumentu, a nie samodzielny „dowód, że test jest trafny”.
 
-Grupy normalizacyjne muszą być reprezentatywne i aktualne. Normy wymagają regularnej renormalizacji, bo populacje zmieniają się w czasie - *efekt Flynna* opisuje wzrost przeciętnych wyników testów inteligencji o ~3 punkty IQ na dekadę.
+**Rzetelność jest konieczna, lecz niewystarczająca dla trafności.** Nieprecyzyjny wynik nie może mocno wspierać precyzyjnego wniosku. Zarazem bardzo powtarzalny pomiar może konsekwentnie mierzyć niezamierzony konstrukt albo działać stronniczo. Zwiększenie zgodności wewnętrznej przez powielanie podobnych pozycji może nawet zawęzić reprezentację treści.
 
-## Błąd pomiaru i teoria CTT
+## Trzy różne układy odniesienia
 
-Żaden wynik testowy nie jest dokładnym odzwierciedleniem prawdziwego poziomu mierzonej cechy - zawsze zawiera **błąd pomiarowy**. *Teoria klasyczna pomiaru (CTT)* zakłada: wynik obserwowany = wynik prawdziwy + błąd losowy. *Błąd standardowy pomiaru (SEM)* pozwala skonstruować przedział ufności wokół wyniku. Przykładowo, jeśli osoba uzyska IQ 112, a SEM testu wynosi 4, z 95% pewnością jej prawdziwy wynik mieści się między 104 a 120.
+| Układ | Pytanie | Poprawna interpretacja |
+|---|---|---|
+| **Normy populacyjne** | Jak wynik wypada na tle grupy odniesienia? | Centyl, sten lub wynik standaryzowany wymaga aktualnej, adekwatnej próby normatywnej. Nie jest rozpoznaniem. |
+| **Kryterium kliniczne** | Czy wynik przekracza próg wybrany dla określonej decyzji? | Próg wiąże się z kompromisem czułości i swoistości oraz zależy od populacji i kosztów błędów. |
+| **Istotna zmiana** | Czy różnica między pomiarami przekracza oczekiwany błąd i ma znaczenie dla osoby? | Wiarygodna zmiana statystyczna i minimalna zmiana ważna klinicznie odpowiadają na różne pytania. |
 
-## Teoria Odpowiedzi na Pozycje (IRT)
+Normalizacja obejmuje standaryzację procedury oraz przekształcenie wyników surowych względem określonej grupy. Normy starzeją się wskutek zmian kohortowych, edukacyjnych i kulturowych. Trzeba sprawdzić wiek, język, wykształcenie, reprezentatywność i datę badania normalizacyjnego. Wynik „poniżej normy” opisuje pozycję w rozkładzie, a nie przyczynę ani zaburzenie.
 
-Nowszym podejściem jest **Item Response Theory (IRT)**, która modeluje prawdopodobieństwo poprawnej odpowiedzi na daną pozycję jako funkcję zdolności osoby i parametrów pozycji (trudność, dyskryminacyjność, prawdopodobieństwo zgadnięcia). IRT umożliwia *adaptacyjne testowanie komputerowe (CAT)*: test dobiera kolejne pozycje na podstawie dotychczasowych odpowiedzi, skracając badanie przy zachowaniu precyzji.
+Kryterium kliniczne może być ustalone na podstawie badania diagnostycznego, analizy ROC lub konsensusu, lecz jego użyteczność zależy od kontekstu. Minimalna zmiana ważna klinicznie opisuje zmianę odczuwalną lub istotną funkcjonalnie. **Wskaźnik wiarygodnej zmiany** ocenia natomiast, czy różnica jest większa od błędu pomiaru. Poprawa może być wiarygodna, ale zbyt mała, by miała znaczenie dla codziennego funkcjonowania, albo ważna dla pacjenta, lecz jeszcze niepewna statystycznie.
 
-## Zastosowania i ograniczenia kliniczne
+## Proces odpowiedzialnej interpretacji
 
-W praktyce klinicznej wyniki powinny być zawsze interpretowane z uwzględnieniem grupy normalizacyjnej, błędu pomiaru (przedziały ufności, nie punktowe wartości), kontekstu (warunki badania, stan osoby) i wielu źródeł danych - żaden pojedynczy test nie jest wystarczającą podstawą diagnozy.
+1. Zdefiniuj konstrukt, populację, cel oraz konsekwencje decyzji.
+2. Sprawdź standaryzację badania i adekwatność norm albo kryterium.
+3. Oceń dowody rzetelności właściwe dla danego wyniku i oblicz jego niepewność.
+4. Oceń pełny argument trafności, w tym możliwe alternatywne wyjaśnienia i stronniczość.
+5. Zinterpretuj wynik jako przedział oraz zintegruj go z wywiadem, obserwacją i innymi danymi.
+6. Sformułuj wniosek proporcjonalny do jakości dowodów i opisz ograniczenia.
 
-> Ograniczenia psychometrii dotyczą redukcji złożonych zjawisk psychicznych do liczb, trudności z pomiarem konstruktów wielowymiarowych i ryzyka etykietowania. Wynik testu opisuje zachowanie osoby w określonych warunkach - nie jest jej niezmienną cechą.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Psychometria - wprowadzenie" polega na tym, że wartość narzędzia psychometrycznego nie wynika z samej popularności testu, lecz z jakości jego trafności, rzetelności i adekwatności do konkretnego celu decyzji.
-
-Dopiero wspólna analiza zagadnień takich jak czym jest pomiar psychologiczny?, normalizacja i skale wyników oraz zastosowania i ograniczenia kliniczne pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Psychometria - wprowadzenie" pokazuje, że najważniejsze pozostaje odróżnianie pomiaru od interpretacji oraz świadome uwzględnianie ograniczeń metodologicznych narzędzia.
-
-
-Dopiero wspólna analiza zagadnień takich jak czym jest pomiar psychologiczny?, normalizacja i skale wyników oraz zastosowania i ograniczenia kliniczne pokazuje pełny zakres omawianego zjawiska.
+Wynik pojedynczego testu nie powinien sam rozstrzygać decyzji wysokiej stawki. Precyzyjny pomiar, uzasadnione znaczenie oraz właściwy punkt odniesienia muszą wystąpić łącznie.
 
 ## Bibliografia
 
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+- American Educational Research Association, American Psychological Association, & National Council on Measurement in Education. (2014). *Standards for educational and psychological testing*. American Educational Research Association.
+- Cronbach, L. J., & Meehl, P. E. (1955). Construct validity in psychological tests. *Psychological Bulletin, 52*(4), 281–302. https://doi.org/10.1037/h0040957
+- Dunn, T. J., Baguley, T., & Brunsden, V. (2014). From alpha to omega: A practical solution to the pervasive problem of internal consistency estimation. *British Journal of Psychology, 105*(3), 399–412. https://doi.org/10.1111/bjop.12046
+- Jacobson, N. S., & Truax, P. (1991). Clinical significance: A statistical approach to defining meaningful change in psychotherapy research. *Journal of Consulting and Clinical Psychology, 59*(1), 12–19. https://doi.org/10.1037/0022-006X.59.1.12
+- Lord, F. M., & Novick, M. R. (1968). *Statistical theories of mental test scores*. Addison-Wesley.
+- Messick, S. (1989). Validity. In R. L. Linn (Ed.), *Educational measurement* (3rd ed., pp. 13–103). Macmillan.
+- Streiner, D. L., Norman, G. R., & Cairney, J. (2015). *Health measurement scales: A practical guide to their development and use* (5th ed.). Oxford University Press. https://doi.org/10.1093/med/9780199685219.001.0001

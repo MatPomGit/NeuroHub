@@ -1,8 +1,6 @@
 ---
-title: Przekierowanie: Podstawy układu nerwowego
-redirect: podstawy_neurologii.md
+layout: redirect
+title: Podstawy układu nerwowego
+redirect_to: /wiki/neuropsychologia/podstawy_neurologii.html
+sitemap: false
 ---
-
-# Przekierowanie
-
-Treść tego artykułu została włączona do opracowania [Podstawy układu nerwowego](./podstawy_neurologii.md).

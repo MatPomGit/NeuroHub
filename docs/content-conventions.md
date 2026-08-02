@@ -62,6 +62,44 @@ Stary adres należy zachować jako techniczne przekierowanie:
 
 Plik przekierowania nie jest artykułem i nie powinien zawierać kopii treści.
 
+### Kanoniczny format przekierowania
+
+Jedynym dopuszczalnym formatem pliku przekierowania jest pełny front matter:
+
+```yaml
+---
+layout: redirect
+title: Dawny tytuł artykułu
+redirect_to: /wiki/dziedzina/artykul_kanoniczny.html#opcjonalna-kotwica
+sitemap: false
+---
+```
+
+Pole `redirect:` nie jest obsługiwane przez generator i pozostawało formatem
+przejściowym. Nie należy go stosować. Generator `_plugins/wiki_pages_generator.rb`
+wczytuje cały front matter i przekazuje `layout`, `title`, `redirect_to` oraz
+`sitemap` do Jekylla. Layout `_layouts/redirect.html` wykonuje przekierowanie na
+wartość `redirect_to` za pomocą odświeżenia HTML i JavaScriptu, a ponadto tworzy
+odnośnik kanoniczny i odnośnik awaryjny.
+
+SPA nie wykonuje przekierowań na podstawie front matter. `app-md-loader.js`
+jedynie pobiera Markdown, a parser w `app.js` odczytuje metadane jako proste pary
+`klucz: wartość`; trasę zmienia wyłącznie `SITE_CONFIG.articleRedirects`. Dlatego
+każdy plik przekierowania musi mieć zgodny wpis w tej mapie. Cel mapy nie zawiera
+rozszerzenia `.html` ani kotwicy, ponieważ kotwica jest szczegółem adresu strony
+generowanej statycznie.
+
+Kontrolę wszystkich dziedzin wykonuje polecenie:
+
+- `node tools/check_redirects.js`
+
+Nazwy dziedzin można przekazać jako argumenty, na przykład
+`node tools/check_redirects.js psychometria psychopatologia`. Walidator sprawdza
+format, istnienie celu, ścieżkę HTML, kotwicę, zgodność z mapą SPA, cykle i
+przekierowania wieloetapowe. Raport podaje liczbę artykułów kanonicznych,
+przekierowań, przekierowań osieroconych, nieistniejących celów oraz łańcuchów
+dłuższych niż jeden krok.
+
 ## Zalecany wzorzec, nie obowiązkowy szablon
 
 Pełną propozycję opisuje [Zalecany wzorzec artykułu](../wiki/reference/article_template.md). Nie wymaga ona określonego zestawu nagłówków. Autor dobiera strukturę do problemu, materiału dowodowego i potrzeb czytelnika.

@@ -1,8 +1,6 @@
 ---
-title: "Przekierowanie: Zaburzenia odżywiania i uzależnienia"
-redirect: zaburzenia_odzywiania_i_uzaleznienia.md
+layout: redirect
+title: Zaburzenia odżywiania i uzależnienia
+redirect_to: /wiki/psychopatologia/zaburzenia_odzywiania_i_uzaleznienia.html
+sitemap: false
 ---
-
-# Przekierowanie
-
-Treść tego artykułu została włączona do opracowania [Zaburzenia odżywiania i uzależnienia](./zaburzenia_odzywiania_i_uzaleznienia.md).

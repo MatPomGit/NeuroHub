@@ -1,5 +1,6 @@
 ---
 layout: redirect
-permalink: /wiki/ekrany_ksiazki_i_natura/smartfony_psychologia.html
+title: Smartfony psychologia
 redirect_to: /wiki/ekrany_ksiazki_i_natura/ekrany_i_funkcjonowanie_psychiczne.html#komunikacja-społeczna
+sitemap: false
 ---

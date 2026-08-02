@@ -196,6 +196,9 @@ function runMinimumVolumeCheck(siteConfig, report, minChars) {
     }
 
     const content = fs.readFileSync(absPath, 'utf8');
+    if (isRedirectPage(content)) {
+      return;
+    }
     const size = countContentChars(content);
     checkedCount += 1;
 
@@ -335,6 +338,7 @@ function runInternalMarkdownLinksCheck(siteConfig, report) {
     const absFilePath = path.join(repoRoot, markdownFile);
     if (!fs.existsSync(absFilePath)) return;
     const content = fs.readFileSync(absFilePath, 'utf8');
+    if (isRedirectPage(content)) return;
     const links = extractMarkdownLinks(content);
     const currentDir = path.dirname(markdownFile);
 
@@ -401,6 +405,7 @@ function runBibliographyHeaderCheck(siteConfig, report) {
     if (!fs.existsSync(absFilePath)) return;
 
     const content = fs.readFileSync(absFilePath, 'utf8');
+    if (isRedirectPage(content)) return;
     checkedCount += 1;
 
     if (!requiredHeaderRegex.test(content)) {

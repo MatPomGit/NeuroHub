@@ -1,8 +1,6 @@
 ---
-title: "Przekierowanie: Zaburzenia lękowe i obsesyjno-kompulsyjne"
-redirect: zaburzenia_lekowe_i_obsesyjno_kompulsyjne.md
+layout: redirect
+title: Zaburzenia lękowe i obsesyjno-kompulsyjne
+redirect_to: /wiki/psychopatologia/zaburzenia_lekowe_i_obsesyjno_kompulsyjne.html
+sitemap: false
 ---
-
-# Przekierowanie
-
-Treść tego artykułu została włączona do opracowania [Zaburzenia lękowe i obsesyjno-kompulsyjne](./zaburzenia_lekowe_i_obsesyjno_kompulsyjne.md).

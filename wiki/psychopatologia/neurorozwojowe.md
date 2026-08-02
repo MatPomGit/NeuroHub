@@ -1,8 +1,6 @@
 ---
-title: "Przekierowanie: Podstawy psychopatologii i opis objawów"
-redirect: psychopatologia_wprowadzenie.md
+layout: redirect
+title: Podstawy psychopatologii i opis objawów
+redirect_to: /wiki/psychopatologia/psychopatologia_wprowadzenie.html
+sitemap: false
 ---
-
-# Przekierowanie
-
-Treść tego artykułu została włączona do opracowania [Podstawy psychopatologii i opis objawów](./psychopatologia_wprowadzenie.md).

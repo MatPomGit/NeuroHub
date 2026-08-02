@@ -656,20 +656,11 @@ Poni9=ej znajdujďż˝& siďż˝" bezpo9:rednie odno9:niki do artyku9Bw bez li
 
 ### sexology
 
-- [`sexology/dda_a_seksualnosc.md`](../seksuologia/dda_a_seksualnosc.md)
 - [`sexology/dysfunkcje.md`](../seksuologia/dysfunkcje.md)
-- [`sexology/emocjonalne_zaangazowanie_w_seksie.md`](../seksuologia/emocjonalne_zaangazowanie_w_seksie.md)
 - [`sexology/hiperseksualnosc_mechanizm.md`](../seksuologia/hiperseksualnosc_mechanizm.md)
-- [`sexology/modele_odpowiedzi.md`](../seksuologia/modele_odpowiedzi.md)
-- [`sexology/orientacja.md`](../seksuologia/orientacja.md)
-- [`sexology/przemoc_w_dziecinstwie_a_seksualnosc.md`](../seksuologia/przemoc_w_dziecinstwie_a_seksualnosc.md)
-- [`sexology/psychologia_seksu.md`](../seksuologia/psychologia_seksu.md)
-- [`sexology/rozw_seksualny.md`](../seksuologia/rozw_seksualny.md)
+- [`sexology/orientacja_seksualna_i_tozsamosc_plciowa.md`](../seksuologia/orientacja_seksualna_i_tozsamosc_plciowa.md)
 - [`sexology/seksuologia_wprowadzenie.md`](../seksuologia/seksuologia_wprowadzenie.md)
-- [`sexology/terapia_seksualna.md`](../seksuologia/terapia_seksualna.md)
-- [`sexology/tozsamosc_plciowa.md`](../seksuologia/tozsamosc_plciowa.md)
 - [`sexology/trauma_seksualna.md`](../seksuologia/trauma_seksualna.md)
-- [`sexology/wstyd_ciala_a_pozycje.md`](../seksuologia/wstyd_ciala_a_pozycje.md)
 
 ### spoleczna
 

@@ -1,227 +1,75 @@
-﻿---
-lastReviewed: 2026-04-01
+---
+lastReviewed: 2026-08-02
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
+aliases:
+  - percepcja społeczna i atrybucje
+  - postawy społeczne
 ---
 
-# Percepcja społeczna i atrybucje
+# Percepcja społeczna, postawy i atrybucje
 
-Kiedy spotykamy kogoś po raz pierwszy, w ułamkach sekund wyrabiamy sobie na jego temat pierwsze wrażenie: czy jest sympatyczny, inteligentny, godny zaufania? Jak to możliwe, że te błyskawiczne osądy są tak pewne - i dlaczego bywają tak błędne? Psychologia społeczna odpowiada na to pytanie, analizując **percepcję społeczną** - procesy, dzięki którym postrzegamy innych ludzi i wyjaśniamy ich zachowania.
+Percepcja społeczna obejmuje procesy, dzięki którym rozpoznajemy osoby, interpretujemy zachowania i przewidujemy reakcje. Nie jest biernym zapisem danych: wcześniejsza wiedza, cele, emocje i kontekst współtworzą interpretację. Postawa jest natomiast względnie trwałą oceną obiektu, osoby, grupy lub idei. Ocena może obejmować przekonania, emocje i gotowość do działania, lecz te składniki nie zawsze są zgodne.
 
-## Czym jest percepcja społeczna?
+## Od wrażenia do wyjaśnienia zachowania
 
-Percepcja społeczna (ang. *social perception*) to zbiór procesów poznawczych umożliwiających:
-- Formowanie **wrażeń** na temat innych ludzi (osądy cech, intencji, emocji)
-- Wyjaśnianie **przyczyn** cudzych zachowań (teorie atrybucji)
-- Przewidywanie **przyszłych zachowań** innych
+Pierwsze wrażenia powstają szybko, ale ich trafność zależy od rodzaju ocenianej cechy i dostępnych informacji. **Efekt aureoli** zachodzi, gdy jedna wyrazista cecha wpływa na oceny innych cech. Nie uprawnia to jednak do założenia, że każde pierwsze wrażenie jest błędne albo niezmienne.
 
-W odróżnieniu od percepcji przedmiotów, percepcja społeczna ma dwie unikalne cechy:
-1. **Wzajemność:** Obiekt percepcji (drugi człowiek) też postrzega i reaguje.
-2. **Ukrytość wnętrza:** Cechy, myśli i motywacje innych są nieobservowalne - musimy je *wnioskować*.
+**Atrybucja** jest wyjaśnieniem przyczyny zachowania. Wyjaśnienia mogą odnosić się do cech osoby, warunków sytuacyjnych, stabilności przyczyny oraz możliwości jej kontrolowania. W modelu Kelleya obserwator korzysta z informacji o:
 
-## Pierwsze wrażenia i efekt halo
+- **zgodności**, czyli zachowaniu innych w tej sytuacji;
+- **wybiórczości**, czyli zachowaniu aktora wobec innych bodźców;
+- **spójności**, czyli powtarzalności zachowania w czasie.
 
-### Jak szybko i trwale?
+W codzienności pełne dane rzadko są dostępne. Fundamentalny błąd atrybucji opisuje skłonność do niedoceniania sytuacji przy wyjaśnianiu zachowania innych, ale jego wielkość zależy od kultury, uwagi i rodzaju zadania. Asymetria aktor–obserwator nie jest równie silna w każdych warunkach, a metaanaliza podważyła jej status jako ogólnej reguły (Malle, 2006).
 
-Badania Todorov'a i współpracowników (2005) wykazały, że wystarczy **100 milisekund** ekspozycji na twarz, by oszacować kompetencje i wiarygodność osoby - z trafnością istotnie powyżej przypadku. Co więcej, te ultraszybkie oceny korelują z wynikami wyborów politycznych.
+## Schematy społeczne i kategoryzacja
 
-Pierwsze wrażenia są wyjątkowo **trudne do zmiany** - efekt *primacy* (pierwszeństwa) polega na tym, że informacje napotykane jako pierwsze mają nieproporcjonalnie duży wpływ na końcową ocenę.
+Schemat to uporządkowana wiedza o osobach, rolach i zdarzeniach. Przyspiesza rozumienie niepełnych danych, kieruje uwagą i pamięcią, lecz może utrwalać oczekiwania. Kategoryzacja grupuje osoby według dostrzeganych podobieństw. Jest podstawową operacją poznawczą, nie dowodem uprzedzenia, ale może wyostrzać różnice między kategoriami i pomniejszać różnice wewnątrz nich.
 
-### Efekt halo (halo effect)
+**Stereotyp** jest zespołem skojarzeń i przekonań przypisywanych kategorii społecznej. **Uprzedzenie** oznacza ocenę lub emocję wobec grupy, a **dyskryminacja** nierówne zachowanie ze względu na przynależność. Konstrukty są powiązane, ale jeden nie przesądza automatycznie o pozostałych. Mechanizmy wrogości i interwencje opisuje artykuł [Agresja, uprzedzenia i przemoc społeczna](../psychologia_spoleczna/agresja_uprzedzenia_i_przemoc_spoleczna.md).
 
-Odkryty przez Thorndike'a (1920): **ogólna pozytywna lub negatywna ocena osoby przenosi się na ocenę jej specyficznych cech**. Jeśli ktoś jest atrakcyjny fizycznie, automatycznie przypisujemy mu wyższe kompetencje, ciepło, uczciwość.
+## Jak powstają postawy
 
-Konsekwencje efektu halo:
-- **W edukacji:** Atrakcyjni uczniowie oceniani są jako bardziej zdolni
-- **W rekrutacji:** Efekt halo na rozmowach kwalifikacyjnych (wygląd → kompetencje)
-- **W sądach:** Atrakcyjność oskarżonego wpływa na orzeczenia (Blair i in., 2004)
-- **W mediach:** Celebryci postrzegani jako eksperci w sprawach niezwiązanych z ich domeną
+Postawy mogą tworzyć się przez warunkowanie, obserwowanie modeli, samą ekspozycję, wnioskowanie z własnego zachowania oraz przekaz perswazyjny. Ich źródło wpływa na funkcję: postawa może porządkować wiedzę, wyrażać wartości, chronić obraz siebie albo ułatwiać przynależność do grupy.
 
-> **Implikacja kliniczna:** Terapeuci mogą nieświadomie oceniać pacjentów przez pryzmat efektu halo. Superwizja i formalizowane narzędzia diagnostyczne pomagają ograniczyć ten bias.
+Dysonans poznawczy jest napięciem wynikającym z niezgodności istotnych przekonań, decyzji i działań. Ludzie mogą je ograniczać przez zmianę zachowania, zmianę oceny albo dodanie uzasadnienia. Nie każda niespójność wywołuje dysonans; istotne są znaczenie dla Ja i poczucie odpowiedzialności.
 
-## Teorie atrybucji
+### Od postawy do zachowania
 
-### Co to jest atrybucja?
+Ogólna deklaracja słabo przewiduje pojedyncze, konkretne działanie. Związek rośnie, gdy pomiar postawy odpowiada zachowaniu pod względem celu, kontekstu i czasu, postawa jest dostępna w pamięci, a osoba ma kontrolę nad działaniem. Normy społeczne i przewidywana kontrola stanowią osobne źródła intencji (Ajzen, 1991).
 
-**Atrybucja** (attribution) to proces przypisywania przyczyn zachowaniom - własnym i cudzym. Fritz Heider, ojciec teorii atrybucji, zauważył (1958), że ludzie zachowują się jak „naiwni naukowcy": szukają przyczyn zachowań, by kontrolować środowisko i przewidywać przyszłość.
+## Automatyczne skojarzenie a świadome poparcie
 
-Podstawowe pytanie atrybucyjne: **„Dlaczego ta osoba zachowała się tak, a nie inaczej?"**
+Bodziec związany z kategorią może szybko uaktywnić wyuczone skojarzenie. Sama automatyczna aktywacja nie jest równoznaczna ze świadomym uznaniem stereotypu za prawdziwy ani z intencją dyskryminowania. Późniejsza reakcja zależy m.in. od uwagi, celów, norm i możliwości kontroli. Z drugiej strony deklarowana bezstronność nie gwarantuje braku nierównego zachowania. Dlatego ocena powinna obejmować wiele rodzajów danych, zamiast moralnie etykietować osobę na podstawie pojedynczego czasu reakcji.
 
-### Wymiary atrybucji (Heider, Weiner)
+## Miary utajone: co mierzą i czego nie rozstrzygają
 
-| Wymiar | Biegun wewnętrzny | Biegun zewnętrzny |
-|--------|-------------------|-------------------|
-| **Lokalizacja** | Dyspozycja osoby (cechy, zdolności) | Sytuacja, otoczenie |
-| **Stałość** | Stała cecha (inteligencja) | Zmienny stan (wysiłek, nastrój) |
-| **Kontrola** | Intencjonalne, kontrolowalne | Niezamierzone, niekontrolowane |
+Zadania takie jak Test Utajonych Skojarzeń (IAT) mierzą względną łatwość kojarzenia kategorii z atrybutami. Określenie „utajone” nie oznacza bezpośredniego odczytu nieświadomego przekonania. Na wynik wpływają doświadczenie kulturowe, znajomość bodźców, kontekst badania, kolejność prób i właściwości procedury.
 
-Weiner zastosował te wymiary do wyjaśniania sukcesów i porażek w edukacji i sporcie:
-- „Oblałem egzamin, bo jestem głupi" → wewnętrzna, stała, niekontrolowalna (depresja, niska motywacja)
-- „Oblałem, bo nie uczyłem się" → wewnętrzna, zmienna, kontrolowalna (wzrost motywacji)
-- „Oblałem, bo egzamin był niesprawiedliwy" → zewnętrzna (gniew, poczucie bezsilności)
+Najważniejsze ograniczenia są następujące:
 
-### Teoria kowariantów Kelleya (1973)
+1. stabilność wyniku pojedynczej osoby bywa umiarkowana lub niska;
+2. związek z zachowaniem jest przeciętnie niewielki i zmienny między domenami;
+3. wynik względny nie wskazuje jednoznacznie, którego z dwóch obiektów dotyczy skojarzenie;
+4. grupowe różnice średnich nie uzasadniają diagnozowania intencji konkretnej osoby;
+5. zmiana wyniku w krótkiej interwencji nie musi oznaczać trwałej zmiany zachowania.
 
-Harold Kelley zaproponował, że przy wielokrotnych obserwacjach przypisujemy przyczyny według trzech kryteriów:
+Miary utajone są użyteczne w badaniach mechanizmów i różnic grupowych, gdy łączy się je z deklaracjami, obserwacją zachowania i analizą kontekstu. Nie są samodzielnym testem „ukrytego rasizmu” jednostki (Oswald i in., 2013; Gawronski i in., 2017).
 
-| Kryterium | Pytanie | Wysoki → atrybucja |
-|-----------|---------|-------------------|
-| **Wyrazistość** (distinctiveness) | Czy ta osoba zachowuje się tak tylko wobec tego obiektu? | Wysoka wyrazistość → zewnętrzna |
-| **Spójność** (consistency) | Czy ta osoba zawsze tak się zachowuje wobec tego obiektu? | Wysoka spójność → wewnętrzna/zewnętrzna |
-| **Consensus** | Czy inni też tak się zachowują wobec tego obiektu? | Wysoki consensus → zewnętrzna |
+## Zmiana postaw i korekta ocen
 
-**Przykład:** Anna śmieje się z komika X.
-- Czy śmieje się tylko z X? (wyrazistość wysoka)
-- Czy zawsze śmieje się z X? (spójność wysoka)
-- Czy wszyscy śmieją się z X? (consensus wysoki)
-→ Przyczyna zewnętrzna: X jest naprawdę śmieszny.
-
-Gdy consensus jest niski, a wyrazistość i spójność są wysokie → atrybucja wewnętrzna (Anna ma specyficzne poczucie humoru).
-
-## Błędy atrybucji
-
-Nasze atrybucje są systematycznie zniekształcone - poniżej najważniejsze błędy.
-
-### Fundamentalny błąd atrybucji (FAE)
-
-**Fundamental Attribution Error** (Ross, 1977): Tendencja do **przeceniania czynników dyspozycjonalnych** (cech osoby) i **niedoceniania czynników sytuacyjnych** przy ocenie zachowań innych.
-
-Słynny eksperyment Jonesa i Harrisa (1967):
-- Uczestnicy czytali eseje popierające lub krytykujące Castro
-- Nawet gdy powiedziano, że autor losowo przydzielony do stanowiska, czytający i tak przypisywali przekonania z eseju autorowi
-- „Musiał w to wierzyć" - mimo wiedzy, że nie miał wyboru
-
-**Dlaczego popełniamy FAE?**
-1. Osoba jest bardziej *figurą* percepcyjną niż tło (sytuacja)
-2. System 1 (intuicja) automatycznie generuje atrybucje dyspozycjonalne
-3. Kultura zachodnia akcentuje indywidualność i sprawczość
-
-> **Różnice kulturowe:** W kulturach kolektywistycznych (Azja Wschodnia) FAE jest mniejszy - ludzie bardziej świadomie uwzględniają kontekst sytuacyjny (Norenzayan i Nisbett, 2000).
-
-### Efekt aktora–obserwatora
-
-**Actor-Observer Effect** (Jones i Nisbett, 1971):
-- Gdy **jesteś aktorem**: „Spóźniłem się, bo korki były straszne" → atrybucja zewnętrzna
-- Gdy **obserwujesz**: „On się spóźnił, bo jest nieodpowiedzialny" → atrybucja wewnętrzna
-
-Wyjaśnienie: Aktor *widzi* sytuację (korki, stres), obserwator *widzi* aktora.
-
-### Samowiedna stronniczość (self-serving bias)
-
-Tendencja do przypisywania sukcesów sobie (dyspozycja wewnętrzna), a porażek czynnikom zewnętrznym. Funkcja: **ochrona poczucia własnej wartości**.
-
-Modyfikacje:
-- Przy **depresji** samowiedna stronniczość jest ograniczona lub odwrócona (depresyjny realizm - Alloy i Abramson, 1979) - pacjenci depresyjni oceniają przyczynowość realistyczniej, ale ta „trzeźwość" często jest symptomem, nie zaletą.
-- W **terapii:** Identyfikacja samowiednej stronniczości pomaga w pracy z perfekcjonizmem i samooceną.
-
-### Stronniczość potwierdzająca percepcji (confirmation bias)
-
-Po wyformowaniu wstępnego wrażenia szukamy danych je potwierdzających i ignorujemy sprzeczne. W percepcji społecznej:
-- **Self-fulfilling prophecy:** Jeśli podejrzewamy kogoś o wrogość, nasze zachowanie wobec niego prowokuje rzeczywiście wrogie reakcje.
-- **Efekt Pygmaliona** (Rosenthal i Jacobson, 1968): Oczekiwania nauczyciela wpływają na rzeczywiste wyniki ucznia.
-
-## Schematy i kategorie społeczne
-
-### Jak działają schematy?
-
-Schematy (social schemas) to **zorganizowane struktury wiedzy** o typach ludzi, rolach i sytuacjach. Działają jak szablony: przyspieszają przetwarzanie, ale też zniekształcają percepcję.
-
-Typy schematów społecznych:
-- **Schematy ról** (lekarz, nauczyciel, policjant)
-- **Schematy osób** (introwertyk, ekstrawertyk)
-- **Schematy zdarzeń** (scenariusze - co dzieje się na pierwszej randce)
-- **Schematy grup** (stereotypy)
-
-### Rola kategoryzacji
-
-Kategoryzowanie innych jako członków grup (wiek, płeć, etniczność, zawód) jest automatyczne i energooszczędne - ale prowadzi do:
-- **Stereotypizacji:** Przypisywanie cech grupowych jednostce
-- **Homogenizacji outgrupy:** „Oni wszyscy są tacy sami" - przy jednoczesnym dostrzeganiu różnorodności w swojej grupie
-- **Efekt outgrupy (outgroup homogeneity effect):** Wszyscy profesorowie wyglądają podobnie - do czasu, gdy samemu zostaniemy profesorem
-
-## Intencjonalność i teoria umysłu
-
-### Czytanie intencji
-
-Kluczowym elementem percepcji społecznej jest **przypisywanie intencji**. Eksperyment Heidera i Simmel (1944) z geometrycznymi figurami - trójkątem, kółkiem i prostokątem - wykazał, że ludzie spontanicznie interpretują ruch figur jako intencjonalne zachowanie społeczne: „duży trójkąt prześladuje małe kółko".
-
-### Teoria umysłu (ToM)
-
-**Theory of Mind** to zdolność przypisywania innym *stanów mentalnych* - przekonań, pragnień, intencji - różnych od własnych. Manifestuje się m.in. w teście fałszywych przekonań (zadanie Sally-Anne).
-
-ToM jest kluczowa dla percepcji społecznej: bez niej niemożliwe jest rozumienie cudzych motywacji, ironii, kłamstwa czy empatii.
-
-> **W ASD:** Trudności w ToM (Baron-Cohen, 1985) tłumaczą wiele wyzwań społecznych - nie jako brak empatii, lecz jako odmienny sposób jej przetwarzania (empatia poznawcza vs. afektywna).
-
-## Percepcja emocji - rozpoznawanie afektu
-
-Sygnały emocjonalne (mimika, ton głosu, postawa ciała) są kluczowym źródłem informacji społecznych. Paul Ekman (1969, 1992) zaproponował **sześć podstawowych emocji** o ekspresji uznawanej za kulturowo uniwersalną: strach, złość, wstręt, smutek, radość, zaskoczenie.
-
-Krytyka Ekmana (Barrett, 2017 - teoria konstruktywna emocji): Wyrazy twarzy nie są bezpośrednim *odczytem* stanu emocjonalnego - są *konstrukcją* na podstawie kontekstu kulturowego i indywidualnej historii.
-
-### Tendencja do tropienia emocji negatywnych
-
-Ewolucyjnie mózg jest „nastawiony" na rozpoznawanie zagrożeń (negativity bias): sygnały negatywnych emocji (strach, złość) są przetwarzane szybciej i dokładniej niż pozytywne.
-
-## Zastosowania kliniczne i terapeutyczne
-
-### Percepcja społeczna a diagnoza
-
-- **Paranoja:** Nadmierna tendencja do atrybucji wrogich intencji (intention attribution bias) - najczęstsza forma w łagodnej postaci to **hostile attribution bias** u dzieci z agresją.
-- **Depresja:** Tendencja do atrybucji przyczyn wewnętrznych, stałych i globalnych (pesymistyczny styl atrybucyjny, Abramson, Seligman, Teasdale, 1978).
-- **Lęk społeczny:** Nadmierne skupienie na rzekomych negatywnych ocenach ze strony innych (post-event rumination, social comparison).
-
-### Terapia poznawczo-behawioralna a atrybucje
-
-CBT bezpośrednio pracuje z atrybucjami przez:
-- **Techniki restrukturyzacji poznawczej:** Identyfikacja zniekształconych atrybucji (np. FAE o sobie)
-- **Techniki eksperymentalne:** Testowanie hipotez o intencjach innych
-- **Trening atrybucji:** Ćwiczenie realistycznych wyjaśnień zachowań (stosowane w depresji i agresji u dzieci)
-
-### Psychologia sądowa
-
-Atrybucje odgrywają kluczową rolę w zeznaniach świadków, orzeczeniach sądowych i ocenie wiarygodności. FAE może prowadzić do fałszywych skazań, gdy zachowanie oskarżonego jest atrybucjonowane do wewnętrznych cech (jest przestępcą), a nie do czynników sytuacyjnych (bieda, trauma).
-
-
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.: kluczowe idee
-
-| Koncepcja | Autor | Główne twierdzenie |
-|-----------|-------|-------------------|
-| Teorie atrybucji | Heider (1958) | Szukamy przyczyn zachowań; wewnętrzne vs. zewnętrzne |
-| Kowarianty | Kelley (1973) | Consensus, spójność, wyrazistość determinują atrybucję |
-| FAE | Ross (1977) | Przeceniamy dyspozycje, nie doceniamy sytuacji |
-| Efekt aktora–obserwatora | Jones, Nisbett (1971) | Mój błąd = sytuacja; twój błąd = charakter |
-| Samowiedna stronniczość | Zillner (1975) | Sukces → ja, porażka → los |
-| Efekt halo | Thorndike (1920) | Ogólna ocena zabarwia ocenę cech |
-| Teoria umysłu | Baron-Cohen (1985) | Przypisywanie stanów mentalnych innym |
-
-## Dalsze lektury
-
-- Heider, F. (1958). *The Psychology of Interpersonal Relations*. Wiley.
-- Ross, L. (1977). The intuitive psychologist and his shortcomings: Distortions in the attribution process. *Advances in Experimental Social Psychology*, 10, 173–220.
-- Kelley, H. H. (1973). The processes of causal attribution. *American Psychologist*, 28(2), 107–128.
-- Fiske, S. T., & Taylor, S. E. (2008). *Social Cognition: From Brains to Culture*. McGraw-Hill.
-- Aronson, E., Wilson, T. D., & Akert, R. M. (2020). *Social Psychology* (10th ed.). Pearson.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Percepcja społeczna i atrybucje" polega na tym, że wiele zjawisk społecznych wydaje się cechą jednostki, choć w rzeczywistości jest produktem norm, sytuacji i architektury relacji.
-
-Dopiero wspólna analiza zagadnień takich jak czym jest percepcja społeczna?, schematy i kategorie społeczne oraz dalsze lektury pokazuje pełny zakres omawianego zjawiska.
-
-Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
-
-## Podsumowanie
-
-Temat "Percepcja społeczna i atrybucje" pokazuje, że najważniejsze jest analizowanie jednocześnie procesów indywidualnych i warunków społecznych, które wzmacniają określone zachowania lub przekonania.
-
-
-Dopiero wspólna analiza zagadnień takich jak czym jest percepcja społeczna?, schematy i kategorie społeczne oraz dalsze lektury pokazuje pełny zakres omawianego zjawiska.
+Systematyczne przetwarzanie mocnych argumentów sprzyja zmianie bardziej trwałej niż oparcie wyłącznie na wskazówkach takich jak atrakcyjność nadawcy. Droga przetwarzania zależy od motywacji i możliwości namysłu. Korektę błędnej oceny wspiera szukanie danych sytuacyjnych, rozważenie alternatywnej hipotezy, kontakt z przypadkami przeczącymi schematowi i stworzenie warunków do spokojnego przetwarzania informacji. Zasady etycznego wpływu szerzej przedstawia artykuł [Wpływ społeczny, perswazja i posłuszeństwo](../psychologia_spoleczna/wplyw_spoleczny_perswazja_i_posluszenstwo.md).
 
 ## Bibliografia
 
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+- Ajzen, I. (1991). The theory of planned behavior. *Organizational Behavior and Human Decision Processes, 50*(2), 179–211.
+- Fazio, R. H. (2007). Attitudes as object–evaluation associations of varying strength. *Social Cognition, 25*(5), 603–637.
+- Gawronski, B., Morrison, M., Phills, C. E., & Galdi, S. (2017). Temporal stability of implicit and explicit measures. *Personality and Social Psychology Bulletin, 43*(3), 300–312.
+- Greenwald, A. G., McGhee, D. E., & Schwartz, J. L. K. (1998). Measuring individual differences in implicit cognition. *Journal of Personality and Social Psychology, 74*(6), 1464–1480.
+- Heider, F. (1958). *The Psychology of Interpersonal Relations*. Wiley.
+- Kelley, H. H. (1973). The processes of causal attribution. *American Psychologist, 28*(2), 107–128.
+- Malle, B. F. (2006). The actor–observer asymmetry in attribution: A (surprising) meta-analysis. *Psychological Bulletin, 132*(6), 895–919.
+- Oswald, F. L., Mitchell, G., Blanton, H., Jaccard, J., & Tetlock, P. E. (2013). Predicting ethnic and racial discrimination: A meta-analysis of IAT criterion studies. *Journal of Personality and Social Psychology, 105*(2), 171–192.
+- Petty, R. E., & Cacioppo, J. T. (1986). *Communication and Persuasion*. Springer.
+- Wood, W. (2000). Attitude change: Persuasion and social influence. *Annual Review of Psychology, 51*, 539–570.

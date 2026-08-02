@@ -1,138 +1,79 @@
 ---
-lastReviewed: 2026-04-01
+lastReviewed: 2026-08-02
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
+aliases:
+  - samoocena
+  - poczucie własnej wartości
+  - Ja społeczne
 ---
 
-# Ja i samoocena
+# Ja, samoocena i tożsamość społeczna
 
-Pojęcie „ja" (*self*) jest jednym z centralnych konstruktów psychologii. Obejmuje całość wiedzy, przekonań i ocen, jakie jednostka posiada na temat samej siebie - zarówno świadomych, jak i nieuświadomionych. Samoocena natomiast to emocjonalna, wartościująca strona obrazu siebie: stopień, w jakim jednostka siebie ceni i akceptuje. Badania nad „ja" sięgają Williama Jamesa (*The Principles of Psychology*, 1890), a ich współczesne rozwinięcia - od teorii Rosenberga po koncepcję Bandury - mają istotne zastosowania kliniczne i wychowawcze.
+Pojęcie Ja obejmuje wiedzę o sobie, ocenę własnej osoby oraz poczucie ciągłości między przeszłością, teraźniejszością i możliwą przyszłością. Nie jest wyłącznie prywatnym „rdzeniem”: rozwija się w relacjach, języku i grupach. Samoocena stanowi jeden z jego aspektów, a nie synonim pewności siebie, sprawczości ani narcyzmu.
 
-## Struktura Ja
+## Cztery konstrukty, których nie należy utożsamiać
 
-### Ja podmiotowe i Ja przedmiotowe
-
-William James rozróżnił dwa aspekty „ja":
-- **Ja podmiotowe** (*I*) - ja jako podmiot doświadczenia, aktywny obserwator własnych stanów
-- **Ja przedmiotowe** (*Me*) - ja jako obiekt refleksji, zbiór wiedzy o sobie samym
-
-James dalej wyróżnił w Ja przedmiotowym trzy składowe: Ja materialne (ciało, majątek), Ja społeczne (wizerunek w oczach innych) i Ja duchowe (wartości, przekonania).
-
-### Schemat Ja i wiedza o sobie
-
-Hazel Markus (1977) wprowadziła pojęcie **schematów Ja** - struktur poznawczych organizujących doświadczenia istotne dla tożsamości. Ludzie o dobrze ukształtowanych schematach w danej dziedzinie (np. niezależność) szybciej przetwarzają informacje z nią związane i lepiej je zapamiętują.
-
-### Możliwe Ja (possible selves)
-
-Markus i Nurius (1986) opisały **możliwe Ja** - wyobrażone wersje siebie w przyszłości: pożądane (Ja idealne, Ja powinnościowe) i niepożądane (Ja obawiane). Różnica między Ja realnym a idealnym generuje emocje i motywację do zmiany.
-
-| Typ Ja | Źródło | Emocja przy rozbieżności |
+| Konstrukcja | Pytanie, na które odpowiada | Zakres |
 |---|---|---|
-| Ja realne | aktualne cechy i zachowania | - |
-| Ja idealne | własne aspiracje | smutek, rozczarowanie |
-| Ja powinnościowe | zinternalizowane zobowiązania | wstyd, wina |
-| Ja obawiane | lęki i negatywne scenariusze | lęk |
+| **Samoocena globalna** | „Jak ogólnie oceniam własną wartość?” | względnie szeroka ocena osoby, mierzona m.in. Skalą Samooceny Rosenberga |
+| **Samoocena dziedzinowa** | „Jak oceniam siebie w tej dziedzinie?” | np. nauka, wygląd, relacje lub sport; profile ocen mogą być nierówne |
+| **Poczucie własnej skuteczności** | „Czy potrafię wykonać to działanie w tych warunkach?” | przekonanie zadaniowe i zależne od kontekstu |
+| **Narcyzm** | „Czy jestem szczególny i należy mi się wyjątkowe traktowanie?” | zespół cech obejmujący m.in. wielkościowość lub podatność na zranienie; nie jest po prostu „bardzo wysoką samooceną” |
 
-## Teorie samooceny
+Wysoka ocena globalna może współistnieć z niską oceną kompetencji matematycznych, a silne poczucie skuteczności zawodowej z niepewnością w relacjach. Narcyzm i samoocena korelują tylko częściowo: o narcyzmie decydują także roszczeniowość, poszukiwanie podziwu i sposób regulowania statusu (Brummelman i in., 2016).
 
-### Skala Rosenberga i samoocena globalna
+## Struktura i regulacja Ja
 
-Morris Rosenberg (1965) zaproponował koncepcję **globalnej samooceny** jako ogólnego poczucia własnej wartości. Jego 10-itemowa skala (RSE) jest najszerzej stosowanym narzędziem pomiaru samooceny na świecie. Rosenberg wykazał, że niska samoocena koreluje z depresją, lękiem i problemami z przystosowaniem społecznym.
+**Schematy Ja** porządkują informacje istotne dla obrazu siebie. Ułatwiają interpretację doświadczeń, lecz sprzyjają wybiórczemu zauważaniu danych zgodnych z dotychczasowym przekonaniem. **Możliwe Ja** opisują osoby, którymi ktoś może się stać, chciałby się stać albo obawia się zostać. Mogą ukierunkowywać działanie, jeśli łączą wyobrażenie przyszłości z wykonalnymi strategiami.
 
-### Teoria socjometru - Leary i Baumeister
+Ludzie często chronią spójność obrazu siebie przez atrybucje służące Ja, selektywną pamięć lub autoprezentację. Nie każda autoprezentacja jest oszustwem: dostosowanie ujawnianych informacji do roli i sytuacji jest zwykłym elementem życia społecznego. Problem powstaje, gdy utrzymanie pożądanego wizerunku wymaga systematycznego fałszowania faktów albo krzywdzenia innych.
 
-Mark Leary (1995) zaproponował rewolucyjne ujęcie: samoocena jest **socjometrem** - wewnętrznym czujnikiem akceptacji społecznej. Pełni funkcję systemu ostrzegawczego: gdy jesteśmy odrzucani lub zagrożeni wykluczeniem, samoocena spada, sygnalizując potrzebę działania. Według tej teorii samoocena nie jest celem samym w sobie, lecz wskaźnikiem statusu relacyjnego.
+### Stabilność, warunkowość i samowspółczucie
 
-> Implikacja kliniczna: interwencje nakierowane na bezpośrednie podnoszenie samooceny mogą być mniej skuteczne niż te, które budują rzeczywiste kompetencje i więzi społeczne.
+Nie istnieje jeden uniwersalny profil „zdrowej” samooceny właściwy każdej osobie i kulturze. Znaczenie wyniku zależy od dziedziny, wieku, norm kulturowych, stabilności oceny oraz tego, od czego jest ona warunkowana. Samoocena oparta wyłącznie na wyglądzie, osiągnięciach lub aprobacie może silnie reagować na porażkę. Z kolei samowspółczucie, czyli życzliwe i realistyczne odnoszenie się do siebie w trudności, jest konstruktem odrębnym od samooceny i nie wymaga uznawania siebie za lepszego od innych (Neff, 2003).
 
-### Samoocena jawna i niejawna
+## Skąd bierze się poczucie skuteczności
 
-Analogicznie do postaw, wyróżnia się:
-- **Samoocenę jawną** - świadoma, deklaratywna (mierzona skalami)
-- **Samoocenę niejawną** - automatyczna, nieuświadomiona (mierzona IAT, czasem reakcji)
+Bandura wyróżniał cztery ważne źródła: własne doświadczenia osiągnięć, obserwowanie podobnych osób, wiarygodną zachętę oraz interpretację pobudzenia fizjologicznego i emocji. Najmocniejszym dowodem dla uczącej się osoby bywa wykonanie stopniowo trudniejszego zadania. Ogólne pochwały nie zastępują informacji o strategii, wysiłku i warunkach wykonania.
 
-Rozbieżność między nimi (wysoka niejawna, niska jawna) wiąże się z defensywnością i kruchą samooceną.
+## Porównania społeczne
 
-## Zniekształcenia w postrzeganiu siebie
+Porównania pomagają oceniać zdolności i pozycję, zwłaszcza gdy brakuje obiektywnego kryterium (Festinger, 1954). Ich skutek nie jest stały:
 
-### Błąd służący Ja (self-serving bias)
+- porównanie „w górę” może inspirować, gdy cel wydaje się osiągalny, albo obniżać ocenę siebie, gdy różnica wydaje się nieusuwalna;
+- porównanie „w dół” może przynieść ulgę, ale także wzbudzić lęk lub utrwalać pogardę;
+- znaczenie ma podobieństwo osoby porównywanej, ważność dziedziny oraz selekcyjny charakter prezentowanych informacji, szczególnie w mediach społecznościowych.
 
-Ludzie mają tendencję do przypisywania sukcesów czynnikom wewnętrznym (własnym zdolnościom), a porażek - czynnikom zewnętrznym (pechowi, niesprzyjającym okolicznościom). Miller i Ross (1975) systematycznie dokumentowali ten wzorzec w dziesiątkach badań. Błąd służący Ja chroni samoocenę, ale może utrudniać uczenie się na błędach.
+Higiena porównań nie oznacza całkowitego ich unikania. Pomocne jest rozpoznanie niereprezentatywnej próby, oddzielenie opisu wyniku od oceny całej osoby i wybór punktu odniesienia adekwatnego do celu uczenia się.
 
-### Efekt ponadprzeciętności (better-than-average effect)
+## Przynależność grupowa i tożsamość społeczna
 
-Większość ludzi ocenia swoje umiejętności powyżej średniej - co matematycznie jest niemożliwe dla wszystkich. Szczególnie wyraźny w dziedzinach uważanych za ważne społecznie (Kruger & Dunning, 1999 - efekt Dunninga-Krugera).
+Według teorii tożsamości społecznej część obrazu siebie pochodzi z przynależności do kategorii społecznych. Kategoryzacja na „my” i „oni” może dostarczać znaczenia, wsparcia i poczucia ciągłości, ale w pewnych warunkach nasila faworyzowanie grupy własnej. Ta sama osoba ma wiele tożsamości, których ważność zmienia się wraz z kontekstem.
 
-### Blindspot taktyczny i samooszukiwanie
+Ocena akceptacji przez innych pełni również funkcję społeczną. Teoria socjometru ujmuje samoocenę jako wskaźnik dostrzeganego włączenia lub odrzucenia (Leary i in., 1995). Nie oznacza to, że każda zmiana samooceny wiernie mierzy realną akceptację: odczyt może być zniekształcony przez nastrój, wcześniejsze doświadczenia i niejednoznaczne sygnały.
 
-Roy Baumeister i in. (1998) opisali **samooszukiwanie** jako aktywny proces podtrzymywania korzystnego obrazu siebie. Mechanizmy obronne, selektywna pamięć i reinterpretacja faktów służą ochronie spójności i wartości Ja.
+### Status, płeć i spolaryzowane wspólnoty internetowe
 
-## Autoprezentacja - Goffman
+Narracje internetowe mogą wiązać wartość osoby z pozycją w hierarchii, wyglądem, sukcesem seksualnym albo zgodnością z rolą płciową. W części społeczności manosfery osobiste rozczarowania są interpretowane jako dowód niezmiennego konfliktu płci; takie ramy mogą chwilowo zapewniać przynależność i prostą odpowiedź, lecz także podtrzymywać porównania statusowe i wrogość. Nie należy na tej podstawie wnioskować o motywach każdego uczestnika ani utożsamiać trudności mężczyzn z ideologią manosfery. Szerszą analizę ideologii, społeczności i szkodliwych zachowań przedstawia artykuł [Agresja, uprzedzenia i przemoc społeczna](../psychologia_spoleczna/agresja_uprzedzenia_i_przemoc_spoleczna.md).
 
-Erving Goffman (1959) w *The Presentation of Self in Everyday Life* zaproponował dramaturgiczną metaforę życia społecznego: ludzie są **aktorami** odgrywającymi role na scenie życia codziennego. Wyróżnił:
-- **Scenę przednią** (*front stage*) - zachowania kontrolowane, przeznaczone dla publiczności
-- **Kulisy** (*back stage*) - zachowania autentyczne, nieeksponowane
+Feminizm jest zróżnicowanym ruchem społecznym i tradycją analizy nierówności płci, a nie typem osobowości ani przeciwnym biegunem narcyzmu. Tożsamość feministyczna, podobnie jak inne tożsamości społeczne, może mieć różne znaczenia dla obrazu siebie zależnie od osoby i kontekstu.
 
-Strategie autoprezentacji obejmują: **ingracjację** (budowanie sympatii), **autopromocję** (demonstrowanie kompetencji), **zastraszanie** i **błaganie**. Zbyt intensywna autoprezentacja może prowadzić do wyczerpania zasobów i poczucia autentyczności.
+## Wnioski praktyczne i granice pomiaru
 
-## Poczucie własnej skuteczności - Bandura
+Praca nad obrazem siebie powinna zaczynać się od ustalenia, czy trudność dotyczy oceny globalnej, konkretnej dziedziny, sprawczości czy relacji z grupą. Użyteczne są cele behawioralne, informacja zwrotna o strategii, ograniczanie warunkowej samooceny oraz rozpoznawanie norm grupowych. Skala samoopisowa nie jest diagnozą kliniczną, a wysoki wynik nie gwarantuje dobrostanu ani dobrego traktowania innych.
 
-Albert Bandura (1977, 1986) wprowadził pojęcie **poczucia własnej skuteczności** (*self-efficacy*) - przekonania o własnej zdolności do wykonania konkretnego zadania lub osiągnięcia określonego celu. W odróżnieniu od globalnej samooceny, poczucie skuteczności jest domenospecyficzne.
+Gdy negatywny obraz siebie utrzymuje się, ogranicza funkcjonowanie lub współwystępuje z depresją, lękiem, zaburzeniami odżywiania, autoagresją bądź doświadczeniem przemocy, zasadna jest konsultacja ze specjalistą. Celem pomocy nie musi być maksymalizacja samooceny, lecz bardziej trafne, elastyczne i mniej warunkowe odnoszenie się do siebie.
 
-### Źródła poczucia skuteczności
+## Bibliografia
 
-1. **Doświadczenia własne** - najbardziej wpływowe; sukces buduje, porażka osłabia
-2. **Modelowanie** - obserwacja podobnych osób osiągających cele
-3. **Perswazja werbalna** - opinie innych osób
-4. **Pobudzenie fizjologiczne** - interpretacja sygnałów ciała (tremę można odczytać jako ekscytację)
-
-Wysokie poczucie skuteczności wiąże się z wytrwałością, lepszym radzeniem sobie ze stresem i wyższymi osiągnięciami akademickimi oraz zawodowymi.
-
-## Kulturowe różnice w pojęciu Ja
-
-Hazel Markus i Shinobu Kitayama (1991) opisali dwa kulturowo uwarunkowane modele Ja:
-
-| Wymiar | Ja niezależne (kultury zachodnie) | Ja współzależne (kultury wschodnie) |
-|---|---|---|
-| Definicja siebie | autonomiczny, oddzielony od innych | zdefiniowany przez relacje i role |
-| Cel | wyrażenie wewnętrznych atrybutów | dopasowanie do grupy, harmonia |
-| Samoocena | na podstawie osobistych osiągnięć | na podstawie ocen grupy |
-| Emocje | skupione na Ja (duma, gniew) | skupione na relacjach (wstyd, sympatia) |
-
-Badania replikacyjne (np. Oyserman i in., 2002) potwierdzają te różnice, choć wskazują na duże zróżnicowanie wewnątrzkulturowe.
-
-
-
-Ja i samoocena to wielowymiarowe konstrukty łączące procesy poznawcze, emocjonalne i społeczne. Globalna samoocena (Rosenberg), poczucie skuteczności (Bandura) i teoria socjometru (Leary) dostarczają komplementarnych perspektyw. Autoprezentacja (Goffman) wskazuje, że obraz siebie jest zawsze negocjowany w kontekście społecznym, a różnice kulturowe (Markus & Kitayama) przypominają, że nawet tak podstawowe doświadczenie jak „poczucie siebie" jest częściowo konstruktem kulturowym.
-
----## Bibliografia
-
-- Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review, 84*(2), 191–215.
-- Baumeister, R. F. (1998). The self. W: D. T. Gilbert, S. T. Fiske & G. Lindzey (red.), *The Handbook of Social Psychology* (t. 1, s. 680–740). McGraw-Hill.
-- Goffman, E. (1959). *The Presentation of Self in Everyday Life*. Anchor Books.
-- James, W. (1890). *The Principles of Psychology*. Henry Holt.
-- Leary, M. R., & Baumeister, R. F. (2000). The nature and function of self-esteem: Sociometer theory. *Advances in Experimental Social Psychology, 32*, 1–62.
-- Markus, H., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation. *Psychological Review, 98*(2), 224–253.
+- Bandura, A. (1997). *Self-Efficacy: The Exercise of Control*. W.H. Freeman.
+- Brummelman, E., Thomaes, S., & Sedikides, C. (2016). Separating narcissism from self-esteem. *Current Directions in Psychological Science, 25*(1), 8–13.
+- Festinger, L. (1954). A theory of social comparison processes. *Human Relations, 7*(2), 117–140.
+- Kernis, M. H. (2003). Toward a conceptualization of optimal self-esteem. *Psychological Inquiry, 14*(1), 1–26.
+- Leary, M. R., Tambor, E. S., Terdal, S. K., & Downs, D. L. (1995). Self-esteem as an interpersonal monitor: The sociometer hypothesis. *Journal of Personality and Social Psychology, 68*(3), 518–530.
 - Markus, H., & Nurius, P. (1986). Possible selves. *American Psychologist, 41*(9), 954–969.
+- Neff, K. D. (2003). Self-compassion: An alternative conceptualization of a healthy attitude toward oneself. *Self and Identity, 2*(2), 85–101.
+- Orth, U., & Robins, R. W. (2014). The development of self-esteem. *Current Directions in Psychological Science, 23*(5), 381–387.
 - Rosenberg, M. (1965). *Society and the Adolescent Self-Image*. Princeton University Press.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Ja i samoocena" polega na tym, że wiele zjawisk społecznych wydaje się cechą jednostki, choć w rzeczywistości jest produktem norm, sytuacji i architektury relacji.
-
-Dopiero wspólna analiza zagadnień takich jak struktura ja, autoprezentacja - goffman oraz kulturowe różnice w pojęciu ja pokazuje pełny zakres omawianego zjawiska.
-
-Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
-
-## Podsumowanie
-
-Temat "Ja i samoocena" pokazuje, że najważniejsze jest analizowanie jednocześnie procesów indywidualnych i warunków społecznych, które wzmacniają określone zachowania lub przekonania.
-
-
-Dopiero wspólna analiza zagadnień takich jak struktura ja, autoprezentacja - goffman oraz kulturowe różnice w pojęciu ja pokazuje pełny zakres omawianego zjawiska.## Bibliografia
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+- Tajfel, H., & Turner, J. C. (1979). An integrative theory of intergroup conflict. W: W. G. Austin & S. Worchel (red.), *The Social Psychology of Intergroup Relations* (s. 33–47). Brooks/Cole.

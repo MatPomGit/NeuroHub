@@ -682,12 +682,12 @@ Poni9=ej znajdujďż˝& siďż˝" bezpo9:rednie odno9:niki do artyku9Bw bez li
 
 ### spoleczna
 
-- [`spoleczna/agresja.md`](../psychologia_spoleczna/agresja.md)
+- [`spoleczna/agresja_uprzedzenia_i_przemoc_spoleczna.md`](../psychologia_spoleczna/agresja_uprzedzenia_i_przemoc_spoleczna.md)
 - [`spoleczna/atrakcyjnosc.md`](../psychologia_spoleczna/atrakcyjnosc.md)
-- [`spoleczna/dynamika_grupowa.md`](../psychologia_spoleczna/dynamika_grupowa.md)
+- [`spoleczna/grupy_relacje_i_wspolpraca.md`](../psychologia_spoleczna/grupy_relacje_i_wspolpraca.md)
 - [`spoleczna/eksperyment_wiezienny.md`](../psychologia_spoleczna/eksperyment_wiezienny.md)
 - [`spoleczna/hejt_w_sieci.md`](../psychologia_spoleczna/hejt_w_sieci.md)
-- [`spoleczna/konformizm.md`](../psychologia_spoleczna/konformizm.md)
+- [`spoleczna/wplyw_spoleczny_perswazja_i_posluszenstwo.md`](../psychologia_spoleczna/wplyw_spoleczny_perswazja_i_posluszenstwo.md)
 - [`spoleczna/manipulacja.md`](../psychologia_spoleczna/manipulacja.md)
 - [`spoleczna/manosfera_feminizm.md`](../psychologia_spoleczna/manosfera_feminizm.md)
 - [`spoleczna/percepcja_spoleczna.md`](../psychologia_spoleczna/percepcja_spoleczna.md)
@@ -793,7 +793,7 @@ Najwa9=niejszy wniosek jest taki, 9=e rzetelne rozumienie omawianego tematu wyma
 
 Czďż˝"stym b9ďż˝"dem jest stosowanie jednego schematu postďż˝"powania niezale9=nie od kontekstu, potrzeb i mo9=liwo9:ci danej osoby lub grupy. Problemem bywa rBwnie9= opieranie decyzji na intuicji bez sprawdzania jako9:ci danych i aktualnych rekomendacji. W praktyce prowadzi to do nietrafnych interwencji, spadku motywacji oraz utraty zaufania do procesu wsparcia. Z9ďż˝& praktykďż˝& jest tak9=e pomijanie czynnikBw systemowych, takich jak warunki 9:rodowiskowe czy bariery organizacyjne. Konsekwencje obejmujďż˝& nie tylko s9absze efekty, ale rBwnie9= ryzyko wtBrnej szkody psychologicznej.## Perspektywa nieoczywista
 
-## PodsumowanieNieoczywista perspektywa polega na przesuniďż˝"ciu uwagi z pytania ďż˝~co jest nie takďż˝e na pytanie ďż˝~jakie warunki podtrzymujďż˝& aktualny wzorzec funkcjonowaniaďż˝e. Taki punkt widzenia pozwala dostrzec, 9=e czďż˝"9:ďż˝! zachowa9 ocenianych jako problemowe pe9ni funkcjďż˝" adaptacyjnďż˝& w krBtkim horyzoncie czasu. W badaniach oznacza to potrzebďż˝" analizy kosztBw i korzy9:ci z perspektywy uczestnika, a nie wy9ďż˝&cznie obserwatora. W praktyce mo9=e to prowadziďż˝! do bardziej realistycznych celBw i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudno9:ci, lecz porzďż˝&dkuje je w kategoriach funkcji i kontekstu.
+ ocenianych jako problemowe pe9ni funkcjďż˝" adaptacyjnďż˝& w krBtkim horyzoncie czasu. W badaniach oznacza to potrzebďż˝" analizy kosztBw i korzy9:ci z perspektywy uczestnika, a nie wy9ďż˝&cznie obserwatora. W praktyce mo9=e to prowadziďż˝! do bardziej realistycznych celBw i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudno9:ci, lecz porzďż˝&dkuje je w kategoriach funkcji i kontekstu.
 
 
 

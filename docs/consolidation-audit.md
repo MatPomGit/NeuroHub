@@ -258,6 +258,10 @@ Kontrole strukturalne, powtórzenia akapitów, trzy wskazane frazy generyczne, c
 
 ### `psychopatologia` (7)
 
+Klasyfikację wszystkich 23 zakresów źródłowych, kontrolę duplikatów między
+domenami oraz osobne przeglądy kliniczne i terminologiczne opisuje
+[`psychopatologia-scope-audit.md`](psychopatologia-scope-audit.md).
+
 | Artykuł kanoniczny | Wynik |
 |---|---|
 | `wiki/psychopatologia/psychopatologia_wprowadzenie.md` | 10/10 |

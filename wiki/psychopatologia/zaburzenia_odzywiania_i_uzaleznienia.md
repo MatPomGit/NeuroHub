@@ -10,7 +10,7 @@ Zaburzenia odżywiania i uzależnienia mogą angażować częściowo podobne pro
 
 ## Dwie odrębne grupy kliniczne
 
-**Zaburzenia odżywiania** obejmują m.in. jadłowstręt psychiczny, bulimię psychiczną, zaburzenie z napadami objadania się (BED) oraz zaburzenie polegające na unikaniu lub ograniczaniu przyjmowania pokarmów (ARFID). Różnią się rolą niskiej masy ciała, napadów utraty kontroli, zachowań kompensacyjnych i obrazu ciała. Szczegółowe różnicowanie BED i bulimii opisano w domenie [psychologii nadmiernego jedzenia](../psychologia_nadmiernego_jedzenia/diagnoza_roznicowa_bed_bulimia.md).
+**Zaburzenia odżywiania** obejmują m.in. jadłowstręt psychiczny, bulimię psychiczną, zaburzenie z napadami objadania się (BED) oraz zaburzenie polegające na unikaniu lub ograniczaniu przyjmowania pokarmów (ARFID). Różnią się rolą niskiej masy ciała, napadów utraty kontroli, zachowań kompensacyjnych i obrazu ciała. Szczegółowe różnicowanie BED i bulimii opisano w kanonicznym artykule o [psychologii nadmiernego jedzenia](../psychologia_nadmiernego_jedzenia/czym_jest_nadmierne_jedzenie.md#ocena-kliniczna-i-diagnoza-różnicowa).
 
 **Zaburzenia związane z używaniem substancji** rozpoznaje się na podstawie utraty kontroli, priorytetu nadawanego używaniu oraz kontynuowania mimo szkód, z uwzględnieniem tolerancji i odstawienia tam, gdzie są właściwe. ICD-11 i DSM-5-TR uznają także niektóre zaburzenia zachowań nałogowych, ale nie każde intensywne lub powtarzane zachowanie jest uzależnieniem. Kryteria i język diagnostyczny omawia domena [uzależnień](../uzaleznienia/kryteria_diagnostyczne.md).
 

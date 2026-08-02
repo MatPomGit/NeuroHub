@@ -56,25 +56,19 @@ W klasyfikacjach DSM-5 i ICD-11 pojawiły się nowe kategorie (np. *somatic symp
 
 > **Podsumowanie:** Od psychoanalizy do neuronauki - psychosomatyka przebyła drogę od spekulatywnych teorii do empirycznie ugruntowanej dziedziny łączącej wiedzę o mózgu, ciele i człowieku w relacjach.
 
-## Perspektywa nieoczywista
+## Znaczenie zmiany historycznej
 
-Nieoczywista perspektywa na temat "Historia psychosomatyki" polega na tym, że związek ciała i psychiki najtrafniej rozumieć jako dwukierunkową regulację, a nie prosty model psychicznej przyczyny objawu somatycznego.
-
-Dopiero wspólna analiza zagadnień takich jak starożytne i nowożytne korzenie, krytyka psychoanalizy i zwrot ku naukom biologicznym (lata 60.–80.) oraz współczesna psychosomatyka (od lat 90.) pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+Najważniejszą zmianą nie było zastąpienie „psychicznych” wyjaśnień biologicznymi. Było nią odejście od przypisywania określonej chorobie jednego konfliktu lub typu osobowości na rzecz badania wielu, wzajemnie oddziałujących szlaków. Stres, zachowanie, warunki społeczne i procesy fizjologiczne mogą współtworzyć przebieg choroby, ale stwierdzenie związku nie dowodzi psychicznej przyczyny objawu. Takie rozróżnienie ogranicza obwinianie osób chorych i pozwala oceniać hipotezy na poziomie, na którym zostały sformułowane.
 
 ## Podsumowanie
 
-Temat "Historia psychosomatyki" pokazuje, że największą wartość ma integrowanie danych biologicznych, emocjonalnych i relacyjnych bez redukcjonizmu w żadną stronę.
-
-
-Dopiero wspólna analiza zagadnień takich jak starożytne i nowożytne korzenie, krytyka psychoanalizy i zwrot ku naukom biologicznym (lata 60.–80.) oraz współczesna psychosomatyka (od lat 90.) pokazuje pełny zakres omawianego zjawiska.
+Historia psychosomatyki prowadzi od spekulatywnych powiązań konkretnych konfliktów z chorobami do modeli systemowych i badań nad mierzalnymi mechanizmami. Trwałym osiągnięciem dziedziny jest uwzględnienie osoby i jej środowiska w medycynie; trwałym ostrzeżeniem pozostaje ryzyko redukcjonizmu, niezależnie od tego, czy uprzywilejowuje on psychikę, czy biologię.
 
 ## Bibliografia
 
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+1. Ader, R., & Cohen, N. (1975). Behaviorally conditioned immunosuppression. *Psychosomatic Medicine, 37*(4), 333–340. https://doi.org/10.1097/00006842-197507000-00007
+2. Alexander, F. (1950). *Psychosomatic medicine: Its principles and applications.* W. W. Norton.
+3. Dunbar, H. F. (1935). *Emotions and bodily changes: A survey of literature on psychosomatic interrelationships, 1910–1933.* Columbia University Press.
+4. Engel, G. L. (1977). The need for a new medical model: A challenge for biomedicine. *Science, 196*(4286), 129–136. https://doi.org/10.1126/science.847460
+5. Fava, G. A., Cosci, F., & Sonino, N. (2017). Current psychosomatic practice. *Psychotherapy and Psychosomatics, 86*(1), 13–30. https://doi.org/10.1159/000448856
+6. Shorter, E. (1992). *From paralysis to fatigue: A history of psychosomatic illness in the modern era.* Free Press.

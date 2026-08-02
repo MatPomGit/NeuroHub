@@ -1,115 +1,50 @@
-﻿---
-lastReviewed: 2026-04-01
-reviewCycleMonths: 24
-evidenceCutoffDate: 2025-12-31
+---
+lastReviewed: 2026-08-01
+reviewCycleMonths: 12
+evidenceCutoffDate: 2026-08-01
+aliases:
+  - EMDR
+  - psychoterapia traumy
 ---
 
-# EMDR - Desensytyzacja i Reprocessing z Ruchami Oczu
+# Psychoterapia traumy i EMDR
 
-EMDR jest jedną z najbardziej skutecznych i jednocześnie najbardziej kontrowersyjnych metod terapii traumy - jej mechanizm nadal budzi debatę, lecz skuteczność kliniczna jest wyjątkowo dobrze udokumentowana.
+## Miejsce w leczeniu traumy
 
-## Historia i twórcy
+Leczenie zależy od rodzaju zdarzenia, objawów, czasu od ekspozycji, współwystępujących problemów i bezpieczeństwa. Ten artykuł dotyczy psychoterapii PTSD, nie całej [psychotraumatologii](../psychopatologia/trauma_ptsd.md). Obejmuje kontekst ekspozycji i przetwarzania wspomnień, aby właściwie umieścić EMDR. Podejście [Somatic Experiencing](../somatic_experiencing/wprowadzenie_do_doswiadczenia_somatycznego.md) ma osobne opracowanie.
 
-**Francine Shapiro** odkryła EMDR przypadkowo w 1987 roku: spacerując w parku, zauważyła, że spontaniczne ruchy oczu zmniejszają nasilenie niepokojących myśli. Przeprowadziła badania pilotażowe (1989, JCCP) na weteranach wojennych i ofiarach przemocy seksualnej - z pozytywnymi wynikami. Rozwinęła metodę w Adaptacyjne Przetwarzanie Informacji (AIP).
+Terapie skoncentrowane na traumie bezpośrednio pracują ze wspomnieniem lub jego znaczeniami. Przedłużona ekspozycja opiera się na stopniowanym kontakcie ze wspomnieniem i bezpiecznymi, unikanymi sytuacjami. Terapia przetwarzania poznawczego bada znaczenia dotyczące winy, zagrożenia i zaufania. Trauma-focused CBT dla dzieci łączy pracę dziecka, opiekuna i narrację traumy. Nie każda osoba potrzebuje szczegółowej narracji, ale uporczywe unikanie jest częstym celem leczenia.
 
-Nazwa ewoluowała: od EMD (Eye Movement Desensitization) do EMDR (Eye Movement Desensitization and Reprocessing) - podkreślając, że chodzi nie tylko o desensytyzację, ale głębsze przetworzenie wspomnień traumatycznych.
+## EMDR i standardowy protokół
 
-## Model AIP - Adaptacyjne Przetwarzanie Informacji
+EMDR Francine Shapiro jest ustrukturyzowaną terapią skoncentrowaną na traumatycznych wspomnieniach. Model adaptacyjnego przetwarzania informacji (AIP) zakłada, że część wspomnień pozostaje niedostatecznie zintegrowana; jest to teoria kliniczna, a nie ustalony opis przechowywania pamięci w mózgu.
 
-**Model AIP** (Adaptive Information Processing) jest podstawą teoretyczną EMDR:
+Osiem faz obejmuje: wywiad i plan, przygotowanie, ocenę wspomnienia, desensytyzację z dwustronną stymulacją, instalację adaptacyjnego przekonania, skan ciała, zamknięcie i ponowną ocenę. Terapeuta śledzi obraz, przekonanie, afekt i odczucia, dbając o podwójną uwagę: kontakt ze wspomnieniem i z bezpiecznym „tu i teraz”.
 
-**Założenie:** Mózg posiada naturalny system przetwarzania informacji adaptacyjnie transformujący doświadczenia w pamięć. Po normalnych doświadczeniach ten system przetwarza zdarzenie, integruje je z siecią wiedzy i "odkłada" bez patologicznego ładunku.
+## Skuteczność protokołu a ruchy oczu
 
-**Przy traumie:** Doświadczenie o wysokim nasileniu emocjonalnym jest "zablokowane" - przechowywane w niedostatecznie przetworzonym stanie, z wszystkimi oryginalnymi obrazami, emocjami, przekonaniami i doznaniami ciała. Za każdym razem, gdy wspomnienie jest aktywowane (wyzwalaczami), system ten "odtwarza" nieprzetworzony materiał - czego doświadczamy jako intruzje, flashbacki, unikanie i inne objawy PTSD.
+Badania i wytyczne wspierają **cały protokół EMDR** jako leczenie PTSD. To twierdzenie trzeba oddzielić od pytania o swoisty wkład ruchów oczu. Badania demontażowe i eksperymentalne sugerują, że obciążenie pamięci roboczej podczas przywołania może zmniejszać żywość i emocjonalność obrazu. Wielkość dodatkowej korzyści ruchów oczu w wynikach klinicznych oraz kompletność tego wyjaśnienia pozostają przedmiotem dyskusji. Skuteczność pakietu nie dowodzi wyjątkowości każdego komponentu, a niepewność mechanizmu nie unieważnia wyniku pakietu.
 
-**Cel EMDR:** Aktywacja nieprzetworzonego wspomnienia + stymulacja bilateralna → przetworzenie i integracja w sieć adaptacyjną.
+## Stabilizacja i kontenerowanie
 
-## Protokół standardowy - 8 faz
+Przygotowanie obejmuje psychoedukację, plan bezpieczeństwa, umiejętności orientowania się w teraźniejszości i ustalenie sposobu przerwania pracy. „Kontener” wyobrażeniowy może czasowo pomóc odłożyć materiał między sesjami, lecz nie powinien służyć do przewlekłego unikania. Relacyjne kontenerowanie oznacza utrzymanie ramy i współregulację, nie obietnicę usunięcia emocji.
 
-### Faza 1: Wywiad i planowanie
+Nie ma podstaw, by każdej osobie narzucać długi etap stabilizacji przed leczeniem skoncentrowanym na traumie. Tempo należy indywidualizować przy dysocjacji, niestabilności, zagrożeniu i braku zasobów, zarazem regularnie sprawdzając, czy przygotowanie nie stało się bezterminowym odkładaniem skutecznej procedury.
 
-Historia pacjenta, ocena traumy, zasobów, stabilności i gotowości. EMDR nie jest odpowiedni dla wszystkich - wymaga stabilności emocjonalnej i tolerancji dystresu.
+## Kwalifikacja, ryzyko i wybór
 
-### Faza 2: Przygotowanie
+Należy ocenić bieżącą przemoc, ryzyko samobójcze, psychozę, używanie substancji, stan somatyczny i zdolność pozostawania w podwójnej uwadze. Część tych czynników wymaga adaptacji i dodatkowej opieki, nie automatycznego wykluczenia. Klient powinien poznać alternatywy. EMDR nie służy do odzyskiwania rzekomo wypartej pamięci; sugestywne poszukiwanie wspomnień grozi zniekształceniem.
 
-Psychoedukacja o EMDR, model AIP, techniki stabilizacji (bezpieczne miejsce, container exercise), ćwiczenie BLS (bilateral stimulation).
+## Ograniczenia badań
 
-### Faza 3: Ocena (Assessment)
-
-Identyfikacja docelowego wspomnienia:
-- **Obraz** - najbardziej niepokojący fragment wspomnienia;
-- **Negatywne przekonanie (NC)** - irracjonalne przekonanie o sobie wynikające z traumy ("jestem bezsilny", "to moja wina");
-- **Pozytywne przekonanie (PC)** - pożądane przekonanie ("jestem bezpieczny", "mam wybór");
-- **VoC** (Validity of Cognition) - ocena prawdziwości PC w skali 1–7;
-- **Emocje** - identyfikacja emocji związanych z NC;
-- **SUD** (Subjective Units of Disturbance) - poziom dystresu 0–10;
-- **Lokalizacja w ciele** - gdzie odczuwany jest dyskomfort.
-
-### Faza 4: Desensytyzacja
-
-Pacjent skupia się na obrazie, NC, emocjach i odczuciach ciała, jednocześnie śledząc stymulację bilateralną (BLS). BLS typowo: ruchy oczu (śledzenie palca terapeuty), tapowanie naprzemienne kolan, bodźce słuchowe. Serie BLS po ok. 25–30 powtórzeń, przedzielone krótkimi przerwami i sprawdzeniem. Kontynuacja do SUD = 0.
-
-### Faza 5: Instalacja
-
-Wzmocnienie PC przez kojarzenie pozytywnego przekonania z przetworzonym wspomnieniem. Kontynuacja BLS do VoC = 7.
-
-### Faza 6: Skanowanie ciała
-
-Sprawdzenie, czy w ciele pozostają jakiekolwiek nieprzyjemne odczucia. BLS do ich ustąpienia.
-
-### Faza 7: Zamknięcie
-
-Ćwiczenia stabilizacji jeśli sesja jest niekompletna. Psychoedukacja o potencjalnych reakcjach między sesjami.
-
-### Faza 8: Ocena kolejnej sesji
-
-Sprawdzenie wyniku poprzedniej sesji, monitorowanie postępów.
-
-## Mechanizm działania - debata naukowa
-
-Mechanizm EMDR jest przedmiotem ożywionej debaty:
-
-**Hipoteza Working Memory (Gunter i Bodner):** BLS (szczególnie ruchy oczu) obciążają pamięć roboczą, przez co współaktywacja traumatycznego wspomnienia i BLS zmniejsza żywość i emocjonalność wspomnienia (podatność na modulację). Wspomnienia mają ograniczoną pojemność podczas rekonsolidacji.
-
-**Hipoteza rekonsolidacji pamięci:** Każde przywołanie wspomnienia otwiera "okno rekonsolidacji" - wspomnienie jest labilne i może być modyfikowane przed ponownym utrwaleniem. EMDR może aktywować ten mechanizm.
-
-**Hipoteza orientacyjna (Stickgold):** Ruchy oczu wywołują odpowiedź orientacyjną (OR) podobną do tej podczas snu REM (gdzie następuje przetwarzanie emocji). Aktywacja OR hamuje odpowiedź lękową przez aktywację układu parasympatycznego.
-
-**Kontrowersja:** Czy BLS jest niezbędna? Badania porównujące EMDR z standardowym BLS, nieruchomym wzrokiem lub "klepaniem" dają mieszane wyniki. Część badaczy sugeruje, że ekspozycja do traumatycznego materiału + przetworzenie poznawcze jest kluczowa, a BLS jest pomocna, lecz nie konieczna.
-
-> **Ciekawostka:** Pomimo trwającej debaty o mechanizmie, EMDR jest jedyną terapią zaakceptowaną przez WHO i APA jednocześnie dla PTSD, która *nie* opiera się na długotrwałej ekspozycji in vitro. Pacjenci często doświadczają szybkiej zmiany - efekty w 3–6 sesjach, podczas gdy tradycyjna trauma-focused CBT zajmuje 12–20 sesji.
-
-## Dowody kliniczne
-
-**PTSD:** EMDR jest terapią pierwszego wyboru w PTSD według WHO (2013), APA, NICE, VA/DoD. Meta-analizy wykazują silne efekty na objawy PTSD, porównywalne z trauma-focused CBT (tf-CBT), z szybszymi efektami i lepszą retencją w leczeniu.
-
-**Inne zastosowania:** Fobie, zaburzenia lękowe, depresja z traumatycznym podłożem, żałoba, zaburzenia dysocjacyjne, lęk przed bólem w onkologii.
-
-## Ograniczenia i przeciwwskazania
-
-**Ograniczenia:** Aktywna psychoza, ciężka dysocjacja, niestabilność psychiatryczna wymagają najpierw stabilizacji. Praca z traumą złożoną (complex PTSD, DID) wymaga modyfikacji protokołu i specjalistycznego szkolenia.
-
-**Ryzyko:** Aktywacja traumatycznego materiału między sesjami - wymaga umiejętności zarządzania przez pacjenta i wsparcia terapeutycznego.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "EMDR - Desensytyzacja i Reprocessing z Ruchami Oczu" polega na tym, że skuteczność psychoterapii zależy nie tylko od nazwy nurtu, ale od jakości konceptualizacji, przymierza, dawkowania interwencji i dopasowania do pacjenta.
-
-Dopiero wspólna analiza zagadnień takich jak historia i twórcy, mechanizm działania - debata naukowa oraz ograniczenia i przeciwwskazania pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "EMDR - Desensytyzacja i Reprocessing z Ruchami Oczu" pokazuje, że najbardziej praktyczne wnioski wynikają z łączenia modelu teoretycznego z uważnością na proces zmiany, relację i ograniczenia danej metody.
-
-
-Dopiero wspólna analiza zagadnień takich jak historia i twórcy, mechanizm działania - debata naukowa oraz ograniczenia i przeciwwskazania pokazuje pełny zakres omawianego zjawiska.
+Próby różnią się doświadczeniem terapeutów, komparatorami i populacją; mniej wiadomo o złożonych prezentacjach i odległych wynikach funkcjonalnych niż o krótkoterminowej zmianie objawów PTSD. Porównania z aktywną terapią są bardziej informacyjne niż z listą oczekujących. Wybór między uznanymi terapiami powinien uwzględniać dowody, preferencje, dostęp i przeciwwskazania sytuacyjne.
 
 ## Bibliografia
 
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+1. Bisson, J. I., et al. (2013). Psychological therapies for chronic PTSD in adults. *Cochrane Database of Systematic Reviews*, CD003388. https://doi.org/10.1002/14651858.CD003388.pub4
+2. Cusack, K., et al. (2016). Psychological treatments for adults with PTSD. *Annals of Internal Medicine, 165*(12), 897. https://doi.org/10.7326/L16-0510
+3. Lee, C. W., & Cuijpers, P. (2013). A meta-analysis of the contribution of eye movements in EMDR. *Journal of Behavior Therapy and Experimental Psychiatry, 44*(2), 231–239. https://doi.org/10.1016/j.jbtep.2012.11.001
+4. National Institute for Health and Care Excellence. (2018). *Post-traumatic stress disorder (NG116)*.
+5. Shapiro, F. (2018). *Eye Movement Desensitization and Reprocessing Therapy* (3rd ed.). Guilford Press.
+6. van Veen, S. C., van Schie, K., Wijngaards-de Meij, L. D. N. V., Littel, M., Engelhard, I. M., & van den Hout, M. A. (2015). Speed matters. *Memory, 23*(2), 223–231. https://doi.org/10.1080/09658211.2014.928662
+7. World Health Organization. (2013). *Guidelines for the Management of Conditions Specifically Related to Stress*. WHO.

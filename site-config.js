@@ -249,6 +249,16 @@ window.SITE_CONFIG = {
     'reference/etyka_psychologa': 'etyka/kodeksy_etyczne',
     'diagnoza/tajemnica_zawodowa': 'etyka/tajemnica_zawodowa_granice',
     'psychologia_szkolna/ocenianie_i_feedback': 'psychologia_szkolna/ocenianie_i_informacja_zwrotna',
+    'psychologia_szkolna/wprowadzenie': 'psychologia_szkolna/klimat_szkolny',
+    'psychologia_szkolna/neurodydaktyka': 'psychologia_szkolna/teorie_uczenia_sie',
+    'psychologia_szkolna/strefa_najblizszego_rozwoju': 'psychologia_szkolna/teorie_uczenia_sie',
+    'psychologia_szkolna/motywacja_szkolna': 'psychologia_szkolna/teorie_uczenia_sie',
+    'psychologia_szkolna/inteligencja_wieloraka': 'psychologia_szkolna/teorie_uczenia_sie',
+    'psychologia_szkolna/adhd_w_szkole': 'psychologia_szkolna/trudnosci_w_uczeniu_sie',
+    'psychologia_szkolna/relacje_nauczyciel_uczen': 'psychologia_szkolna/ocenianie_i_informacja_zwrotna',
+    'psychologia_szkolna/bullying': 'psychologia_szkolna/klimat_szkolny',
+    'psychologia_szkolna/stres_szkolny': 'psychologia_szkolna/klimat_szkolny',
+    'psychologia_szkolna/interwencje_szkolne': 'psychologia_szkolna/trudnosci_w_uczeniu_sie',
     'systemy_rodzinne/internal_family_systems_ifs': 'systemy_rodzinne/terapia_systemow_wewnetrznej_rodziny_ifs',
     'systemy_rodzinne/cykl_zycia_rodziny': 'systemy_rodzinne/wprowadzenie_do_terapii_systemowej',
     'systemy_rodzinne/genogram_i_przekaz_miedzygeneracyjny': 'systemy_rodzinne/wprowadzenie_do_terapii_systemowej',
@@ -873,20 +883,10 @@ window.SITE_CONFIG = {
       section: 'Psychologia szkolna i edukacyjna',
       domainKey: 'psychologia_szkolna',
       items: [
-        { id: 'psychologia_szkolna/wprowadzenie',                  label: 'Psych. szkolna',            file: 'wiki/psychologia_szkolna/wprowadzenie.md'                  },
-        { id: 'psychologia_szkolna/neurodydaktyka',                label: 'Neurodydaktyka',                           file: 'wiki/psychologia_szkolna/neurodydaktyka.md'                },
-        { id: 'psychologia_szkolna/teorie_uczenia_sie',            label: 'Teorie uczenia się',                       file: 'wiki/psychologia_szkolna/teorie_uczenia_sie.md'            },
-        { id: 'psychologia_szkolna/strefa_najblizszego_rozwoju',   label: 'Strefa najblizszego rozwoju (ZPD)',        file: 'wiki/psychologia_szkolna/strefa_najblizszego_rozwoju.md'   },
-        { id: 'psychologia_szkolna/motywacja_szkolna',             label: 'Motywacja szkolna',                        file: 'wiki/psychologia_szkolna/motywacja_szkolna.md'             },
-        { id: 'psychologia_szkolna/inteligencja_wieloraka',        label: 'Inteligencje wielorakie (Gardner)',        file: 'wiki/psychologia_szkolna/inteligencja_wieloraka.md'        },
-        { id: 'psychologia_szkolna/trudnosci_w_uczeniu_sie',       label: 'Trudnosci w uczeniu sie',                 file: 'wiki/psychologia_szkolna/trudnosci_w_uczeniu_sie.md'       },
-        { id: 'psychologia_szkolna/adhd_w_szkole',                 label: 'ADHD w szkole',                            file: 'wiki/psychologia_szkolna/adhd_w_szkole.md'                 },
-        { id: 'psychologia_szkolna/relacje_nauczyciel_uczen',      label: 'Relacje nauczyciel–uczeń',                file: 'wiki/psychologia_szkolna/relacje_nauczyciel_uczen.md'      },
-        { id: 'psychologia_szkolna/klimat_szkolny',                label: 'Klimat szkolny',                           file: 'wiki/psychologia_szkolna/klimat_szkolny.md'                },
-        { id: 'psychologia_szkolna/bullying',                      label: 'Bullying w szkole',                        file: 'wiki/psychologia_szkolna/bullying.md'                      },
-        { id: 'psychologia_szkolna/ocenianie_i_informacja_zwrotna', label: 'Ocenianie i informacja zwrotna', file: 'wiki/psychologia_szkolna/ocenianie_i_informacja_zwrotna.md' },
-        { id: 'psychologia_szkolna/stres_szkolny',                 label: 'Stres szkolny i lek egzaminacyjny',       file: 'wiki/psychologia_szkolna/stres_szkolny.md'                 },
-        { id: 'psychologia_szkolna/interwencje_szkolne',           label: 'Interwencje psychologiczne w szkole',      file: 'wiki/psychologia_szkolna/interwencje_szkolne.md'           },
+        { id: 'psychologia_szkolna/teorie_uczenia_sie',            label: 'Uczenie się i motywacja szkolna',                       file: 'wiki/psychologia_szkolna/teorie_uczenia_sie.md'            },
+        { id: 'psychologia_szkolna/trudnosci_w_uczeniu_sie',       label: 'Trudności w uczeniu i wsparcie szkolne',                 file: 'wiki/psychologia_szkolna/trudnosci_w_uczeniu_sie.md'       },
+        { id: 'psychologia_szkolna/klimat_szkolny',                label: 'Klimat szkolny, stres i przemoc',                           file: 'wiki/psychologia_szkolna/klimat_szkolny.md'                },
+        { id: 'psychologia_szkolna/ocenianie_i_informacja_zwrotna', label: 'Ocenianie, informacja zwrotna i relacja edukacyjna', file: 'wiki/psychologia_szkolna/ocenianie_i_informacja_zwrotna.md' },
       ]
     },
     { /* Psychologia osob z niepelnosprawnoscia */
@@ -1579,20 +1579,10 @@ window.SITE_CONFIG = {
       { file: 'wiki/robotyka_afektywna/interfejsy_mozg_maszyna.md', label: 'Interfejsy mózg–maszyna (neurotechnologia)', status: 'live' },
     ],
     school_psychology: [
-      { file: 'wiki/psychologia_szkolna/wprowadzenie.md',                 label: 'Psychologia szkolna',                       status: 'live' },
-      { file: 'wiki/psychologia_szkolna/neurodydaktyka.md',               label: 'Neurodydaktyka',                            status: 'live' },
-      { file: 'wiki/psychologia_szkolna/teorie_uczenia_sie.md',           label: 'Teorie uczenia się',                        status: 'live' },
-      { file: 'wiki/psychologia_szkolna/strefa_najblizszego_rozwoju.md',  label: 'Strefa najblizszego rozwoju (ZPD)',         status: 'live' },
-      { file: 'wiki/psychologia_szkolna/motywacja_szkolna.md',            label: 'Motywacja szkolna',                         status: 'live' },
-      { file: 'wiki/psychologia_szkolna/inteligencja_wieloraka.md',       label: 'Inteligencje wielorakie (Gardner)',         status: 'live' },
-      { file: 'wiki/psychologia_szkolna/trudnosci_w_uczeniu_sie.md',      label: 'Trudnosci w uczeniu sie',                   status: 'live' },
-      { file: 'wiki/psychologia_szkolna/adhd_w_szkole.md',                label: 'ADHD w srodowisku szkolnym',                status: 'live' },
-      { file: 'wiki/psychologia_szkolna/relacje_nauczyciel_uczen.md',     label: 'Relacje nauczyciel–uczeń',                status: 'live' },
-      { file: 'wiki/psychologia_szkolna/klimat_szkolny.md',               label: 'Klimat szkolny',                            status: 'live' },
-      { file: 'wiki/psychologia_szkolna/bullying.md',                     label: 'Bullying w szkole',                         status: 'live' },
-      { file: 'wiki/psychologia_szkolna/ocenianie_i_informacja_zwrotna.md', label: 'Ocenianie i informacja zwrotna', status: 'live' },
-      { file: 'wiki/psychologia_szkolna/stres_szkolny.md',                label: 'Stres szkolny i lek egzaminacyjny',         status: 'live' },
-      { file: 'wiki/psychologia_szkolna/interwencje_szkolne.md',          label: 'Interwencje psychologiczne w szkole',       status: 'live' },
+      { file: 'wiki/psychologia_szkolna/teorie_uczenia_sie.md',           label: 'Uczenie się i motywacja szkolna',                        status: 'live' },
+      { file: 'wiki/psychologia_szkolna/trudnosci_w_uczeniu_sie.md',      label: 'Trudności w uczeniu i wsparcie szkolne',                   status: 'live' },
+      { file: 'wiki/psychologia_szkolna/klimat_szkolny.md',               label: 'Klimat szkolny, stres i przemoc',                            status: 'live' },
+      { file: 'wiki/psychologia_szkolna/ocenianie_i_informacja_zwrotna.md', label: 'Ocenianie, informacja zwrotna i relacja edukacyjna', status: 'live' },
     ],
     neurodiversity: [
       { file: 'wiki/neuroroznorodnosc/wprowadzenie.md',               label: 'Neuroroznorodnosc',                    status: 'live' },
@@ -2595,40 +2585,15 @@ window.SITE_CONFIG = {
 
     psych_szkolna: {
       title: 'WIKI - Psychologia szkolna i edukacyjna',
-      intro: 'Psychologia szkolna i edukacyjna bada procesy uczenia się, nauczania i rozwoju w kontekście instytucji edukacyjnych. Encyklopedia obejmuje teorie uczenia się, motywację akademicką, trudności szkolne, relacje nauczyciel–uczeń, klimat szkolny oraz interwencje psychologiczne w placówkach oświatowych.',
+      intro: 'Cztery kanoniczne opracowania łączą wiedzę o uczeniu i motywacji, ocenianiu i relacji edukacyjnej, trudnościach i wsparciu oraz klimacie, stresie i przemocy szkolnej.',
       sections: [
         {
-          title: 'Podstawy i teorie',
+          title: 'Uczenie, wsparcie i środowisko szkoły',
           articles: [
-            { label: 'Psychologia szkolna',  id: 'psychologia_szkolna/wprowadzenie',                status: 'live' },
-            { label: 'Neurodydaktyka',                    id: 'psychologia_szkolna/neurodydaktyka',            status: 'live' },
-            { label: 'Teorie uczenia się',                  id: 'psychologia_szkolna/teorie_uczenia_sie',          status: 'live' },
-            { label: 'Strefa najblizszego rozwoju (ZPD)',   id: 'psychologia_szkolna/strefa_najblizszego_rozwoju', status: 'live' },
-          ]
-        },
-        {
-          title: 'Motywacja i zdolnosci',
-          articles: [
-            { label: 'Motywacja szkolna',               id: 'psychologia_szkolna/motywacja_szkolna',      status: 'live' },
-            { label: 'Inteligencje wielorakie (Gardner)', id: 'psychologia_szkolna/inteligencja_wieloraka', status: 'live' },
-          ]
-        },
-        {
-          title: 'Trudnosci i zaburzenia',
-          articles: [
-            { label: 'Trudnosci w uczeniu sie',  id: 'psychologia_szkolna/trudnosci_w_uczeniu_sie', status: 'live' },
-            { label: 'ADHD w srodowisku szkolnym', id: 'psychologia_szkolna/adhd_w_szkole',          status: 'live' },
-            { label: 'Stres szkolny i lek egzaminacyjny', id: 'psychologia_szkolna/stres_szkolny',   status: 'live' },
-          ]
-        },
-        {
-          title: 'larodowisko szkolne i interwencje',
-          articles: [
-            { label: 'Relacje nauczyciel–uczeń',           id: 'psychologia_szkolna/relacje_nauczyciel_uczen', status: 'live' },
-            { label: 'Klimat szkolny',                      id: 'psychologia_szkolna/klimat_szkolny',           status: 'live' },
-            { label: 'Bullying w szkole',                 id: 'psychologia_szkolna/bullying',                 status: 'live' },
-            { label: 'Ocenianie i informacja zwrotna', id: 'psychologia_szkolna/ocenianie_i_informacja_zwrotna', status: 'live' },
-            { label: 'Interwencje psychologiczne w szkole', id: 'psychologia_szkolna/interwencje_szkolne',      status: 'live' },
+            { label: 'Uczenie się i motywacja szkolna', id: 'psychologia_szkolna/teorie_uczenia_sie', status: 'live' },
+            { label: 'Ocenianie, informacja zwrotna i relacja edukacyjna', id: 'psychologia_szkolna/ocenianie_i_informacja_zwrotna', status: 'live' },
+            { label: 'Trudności w uczeniu i wsparcie szkolne', id: 'psychologia_szkolna/trudnosci_w_uczeniu_sie', status: 'live' },
+            { label: 'Klimat szkolny, stres i przemoc', id: 'psychologia_szkolna/klimat_szkolny', status: 'live' },
           ]
         },
       ]

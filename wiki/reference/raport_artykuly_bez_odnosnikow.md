@@ -649,19 +649,10 @@ Poni9=ej znajdujďż˝& siďż˝" bezpo9:rednie odno9:niki do artyku9Bw bez li
 
 ### school_psychology
 
-- [`school_psychology/adhd_w_szkole.md`](../psychologia_szkolna/adhd_w_szkole.md)
-- [`school_psychology/bullying.md`](../psychologia_szkolna/bullying.md)
-- [`school_psychology/inteligencja_wieloraka.md`](../psychologia_szkolna/inteligencja_wieloraka.md)
-- [`school_psychology/interwencje_szkolne.md`](../psychologia_szkolna/interwencje_szkolne.md)
 - [`school_psychology/klimat_szkolny.md`](../psychologia_szkolna/klimat_szkolny.md)
-- [`school_psychology/motywacja_szkolna.md`](../psychologia_szkolna/motywacja_szkolna.md)
 - [`school_psychology/ocenianie_i_informacja_zwrotna.md`](../psychologia_szkolna/ocenianie_i_informacja_zwrotna.md)
-- [`school_psychology/relacje_nauczyciel_uczen.md`](../psychologia_szkolna/relacje_nauczyciel_uczen.md)
-- [`school_psychology/strefa_najblizszego_rozwoju.md`](../psychologia_szkolna/strefa_najblizszego_rozwoju.md)
-- [`school_psychology/stres_szkolny.md`](../psychologia_szkolna/stres_szkolny.md)
 - [`school_psychology/teorie_uczenia_sie.md`](../psychologia_szkolna/teorie_uczenia_sie.md)
 - [`school_psychology/trudnosci_w_uczeniu_sie.md`](../psychologia_szkolna/trudnosci_w_uczeniu_sie.md)
-- [`school_psychology/wprowadzenie.md`](../psychologia_szkolna/wprowadzenie.md)
 
 ### sexology
 
@@ -798,7 +789,7 @@ Czďż˝"stym b9ďż˝"dem jest stosowanie jednego schematu postďż˝"powania 
 
 
 
-Najwa9=niejszy wniosek jest taki, 9=e rzetelne rozumienie omawianego tematu wymaga 9ďż˝&czenia definicji, danych empirycznych i konsekwencji praktycznych. Skuteczne dzia9ania opierajďż˝& siďż˝" na dopasowaniu metod do celu, monitorowaniu efektBw oraz 9:wiadomym zarzďż˝&dzaniu ograniczeniami. Jednocze9:nie nale9=y zachowaďż˝! ostro9=no9:ďż˝! wobec nadmiernych uogBlnie9, bo jako9:ďż˝! wnioskBw zale9=y od kontekstu i jako9:ci pomiaru. W9ďż˝&czenie perspektywy alternatywnej zwiďż˝"ksza trafno9:ďż˝! diagnozy i u9=yteczno9:ďż˝! interwencji. Ostatecznie to w9a9:nie integracja wiedzy teoretycznej z praktykďż˝& decyduje o warto9:ci edukacyjnej i klinicznej artyku9u.
+, bo jako9:ďż˝! wnioskBw zale9=y od kontekstu i jako9:ci pomiaru. W9ďż˝&czenie perspektywy alternatywnej zwiďż˝"ksza trafno9:ďż˝! diagnozy i u9=yteczno9:ďż˝! interwencji. Ostatecznie to w9a9:nie integracja wiedzy teoretycznej z praktykďż˝& decyduje o warto9:ci edukacyjnej i klinicznej artyku9u.
 ## Bibliografia
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).

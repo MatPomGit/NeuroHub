@@ -42,7 +42,7 @@ Eye tracking umożliwia analizę fiksacji, sakkad, czasu przebywania w obszarze 
 
 ## Muse jako przykład konsumenckiego EEG
 
-Muse i podobne opaski rejestrują EEG z niewielu suchych elektrod i zwykle oferują aplikacje do relaksacji lub neurofeedbacku. Mogą służyć do demonstracji rytmów, prostych projektów edukacyjnych i niektórych badań poza laboratorium. Mniejsza liczba kanałów, położenie elektrod, podatność na ruch oraz nieprzejrzyste algorytmy ograniczają jednak lokalizację źródeł i interpretację stanów psychicznych.
+Muse i podobne opaski rejestrują EEG z niewielu suchych elektrod i zwykle oferują aplikacje do relaksacji lub neurofeedbacku (Krigolson i in., 2017). Mogą służyć do demonstracji rytmów, prostych projektów edukacyjnych i niektórych badań poza laboratorium. Mniejsza liczba kanałów, położenie elektrod, podatność na ruch oraz nieprzejrzyste algorytmy ograniczają jednak lokalizację źródeł i interpretację stanów psychicznych.
 
 Konsumenckie EEG nie diagnozuje ADHD, depresji, padaczki ani „poziomu medytacji”. Informacja zwrotna może wspierać praktykę, lecz nie dowodzi specyficznej zmiany klinicznej. Muse jest urządzeniem pomiarowym o określonych parametrach, nie osobnym działem neuropsychologii ani zamiennikiem aparatury medycznej.
 
@@ -68,5 +68,5 @@ Metodę wybiera się do hipotezy. EEG odpowiada na pytania o czas, fMRI o rozkł
 - Luck, S. J. (2014). *An introduction to the event-related potential technique* (2nd ed.). MIT Press.
 - Poldrack, R. A. (2006). Can cognitive processes be inferred from neuroimaging data? *Trends in Cognitive Sciences, 10*(2), 59–63. https://doi.org/10.1016/j.tics.2005.12.004
 - Poldrack, R. A., Mumford, J. A., & Nichols, T. E. (2011). *Handbook of functional MRI data analysis*. Cambridge University Press.
-- Sarter, M., & Lustig, C. (2020). Forebrain cholinergic signaling: Wired and phasic, not tonic, and causing behavior. *Journal of Neuroscience, 40*(4), 712–719. https://doi.org/10.1523/JNEUROSCI.1305-19.2019
+- Krigolson, O. E., Williams, C. C., Norton, A., Hassall, C. D., & Colino, F. L. (2017). Choosing MUSE: Validation of a low-cost, portable EEG system for ERP research. *Frontiers in Neuroscience, 11*, 109. https://doi.org/10.3389/fnins.2017.00109
 - Yarkoni, T. (2022). The generalizability crisis. *Behavioral and Brain Sciences, 45*, e1. https://doi.org/10.1017/S0140525X20001685

@@ -365,3 +365,7 @@ Nie stwierdzono usuniętej informacji unikalnej, która nadal wymagałaby przywr
 - W `wiki/suicydologia/modele_suicydologiczne.md` usunięto generyczną perspektywę i powtórzone podsumowanie, skorygowano zamienione definicje dwóch konstruktów teorii interpersonalnej, wycofano arbitralny próg BHS oraz wprowadzono bibliografię odpowiadającą cytowanym modelom.
 - W `wiki/psychosomatyka/historia_psychosomatyki.md` usunięto generyczną perspektywę i powtórzone podsumowanie. Bibliografię ogólnych podręczników zastąpiono źródłami historycznymi i pracami bezpośrednio dokumentującymi rozwój psychosomatyki.
 - Dwa odnośniki prowadzące do wycofanych adresów zastąpiono linkami do odpowiednich sekcji artykułów kanonicznych o nadmiernym jedzeniu i chorobach przewlekłych.
+
+## Zamknięcie merytoryczne etapu
+
+Warstwową weryfikację 18 artykułów i 90 losowo wybranych twierdzeń, w tym kontrolę istnienia oraz adekwatności publikacji, opisano w raporcie [`layered-content-verification.md`](layered-content-verification.md). Po poprawieniu wykrytej niezgodności bibliograficznej próba nie zawiera otwartych błędów kategorii C ani D. Dotychczasowy etap konsolidacji jest zamknięty merytorycznie w zakresie tej bramki jakościowej; decyzja nie rozszerza ocen źródłowych na 101 artykułów spoza próby.

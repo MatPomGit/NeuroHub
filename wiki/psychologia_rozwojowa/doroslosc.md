@@ -1,136 +1,62 @@
 ---
-lastReviewed: 2026-04-01
+lastReviewed: 2026-08-08
 reviewCycleMonths: 24
-evidenceCutoffDate: 2025-12-31
+evidenceCutoffDate: 2026-08-08
+aliases:
+  - rozwój w dorosłości
+  - dorosłość i starzenie
 ---
 
-# Dorosłość i starzenie się
+# Dorosłość, starzenie i doświadczenia niekorzystne
 
-Dorosłość obejmuje najdłuższy okres ludzkiego życia - od ok. 20. do 80. roku życia lub dłużej. Przez długi czas psychologia traktowała dorosłość jako czas „gotowego" człowieka, skupiając badania na dzieciństwie i adolescencji. Dopiero od lat 70. XX wieku, za sprawą Eriksona, Levinsona, Neugartena i Baltes'a, psychologia biegu życia (*life-span psychology*) ugruntowała pogląd, że **zmiana i rozwój trwają przez całe życie**.
+Rozwój nie kończy się wraz z osiągnięciem pełnoletności. Dorosłość obejmuje wielokierunkowe zmiany zdolności, celów, relacji i ról, a ich czas zależy od historii osoby i instytucji społecznych. Podziały na wczesną, średnią i późną dorosłość są narzędziami opisu, nie uniwersalnymi etapami zaliczanymi w określonym wieku.
 
----
+## Relacje bliskie i przywiązanie w dorosłości
 
-## Eriksonowskie stadia dorosłości
+W dorosłych relacjach partner może pełnić funkcje bezpiecznej przystani w stresie i bazy dla eksploracji. Badania przywiązania dorosłych obejmują co najmniej dwa nurty: wywiady o reprezentacji wczesnych doświadczeń oraz samoopis lęku i unikania w relacjach romantycznych. Miary te nie są zamienne i nie tworzą prostego testu czterech niezmiennych typów osobowości (Fraley i Roisman, 2019).
 
-Erikson wyróżnił trzy kryzysy psychospołeczne przypadające na dorosłość:
+Oczekiwania wobec bliskości wykazują umiarkowaną ciągłość, ale zmieniają się pod wpływem kolejnych relacji, bezpieczeństwa, terapii i wydarzeń życia. Funkcjonowanie związku zależy również od komunikacji, zdrowia, stresu ekonomicznego, podziału pracy i przemocy. Wczesna relacja zwiększa prawdopodobieństwo pewnych wzorców, lecz nie wystarcza do przewidzenia konkretnego partnerstwa.
 
-| Stadium | Wiek (orientacyjnie) | Kryzys | Cnota |
-|---|---|---|---|
-| **Wczesna dorosłość** | 20–40 lat | Intymność vs. izolacja | Miłość |
-| **Środkowa dorosłość** | 40–65 lat | Generatywność vs. stagnacja | Troska |
-| **Późna dorosłość** | 65+ lat | Integralność vs. rozpacz | Mądrość |
+## Praca, troska i zmiana ról
 
-**Intymność** - zdolność do głębokiej wzajemności emocjonalnej i seksualnej bez utraty tożsamości. Wymaga wcześniej ukształtowanej stabilnej tożsamości; osoby z rozmytą tożsamością wchodzą w relacje zlewania się (*fusion*) lub unikają bliskości.
+Praca może zapewniać dochód, strukturę czasu, przynależność i sens, a także być źródłem przeciążenia, niepewności lub wykluczenia. Trajektorie zawodowe nie są liniowe: obejmują naukę, bezrobocie, migrację, zmianę zawodu, chorobę i opiekę nad bliskimi. Ocena rozwoju zawodowego powinna uwzględniać warunki rynku i nierówności, zamiast sprowadzać wynik do ambicji jednostki.
 
-**Generatywność** - troska o następne pokolenie: rodzicielstwo, mentorstwo, twórczość, obywatelskie zaangażowanie. McAdams i St. Aubin (1992) opracowali wielowymiarową skalę generatywności i wykazali jej powiązanie z dobrostanem i społecznym zaangażowaniem.
+Rodzicielstwo jest jedną z możliwych dróg dorosłości, nie koniecznym kryterium dojrzałości. Narodziny lub przyjęcie dziecka zmieniają sen, podział zadań, relację partnerską i tożsamość; znaczenie tych zmian zależy od zdrowia, wsparcia, polityki rodzinnej i temperamentu dziecka. Generatywność, czyli troskę o następne pokolenia, można realizować również przez mentoring, pracę, twórczość i działalność społeczną.
 
-**Integralność** - akceptacja swojego życia jako sensownej całości, bez potrzeby przepisywania historii. Jej brak objawia się jako lęk przed śmiercią i rozpacz nad zmarnowanymi szansami.
+Średnia dorosłość często łączy odpowiedzialność zawodową z pomocą dzieciom i starzejącym się bliskim. „Kryzys wieku średniego” nie jest powszechnym, biologicznie zaprogramowanym etapem. Bardziej trafne jest badanie konkretnych przejść, takich jak utrata pracy, menopauza, rozwód, choroba czy odejście dzieci z domu, oraz zasobów dostępnych w ich czasie.
 
----
+## Późna dorosłość bez powielania stereotypów
 
-## Debata o kryzysie połowy życia
+Późna dorosłość jest wewnętrznie zróżnicowana. Zmiany biologiczne współistnieją z uczeniem się, selekcją celów i kompensowaniem ograniczeń. Emerytura, wdowieństwo, opieka nad innymi i zmiana miejsca zamieszkania mogą oznaczać zarówno stratę, jak i nowe możliwości. Szczegółowy opis typowego starzenia, zdrowia psychicznego i różnicowania zaburzeń zawiera kanoniczne wprowadzenie do [geropsychologii](/wiki/geropsychologia/wprowadzenie.html) oraz artykuł o [poznaniu i zdrowiu psychicznym w starości](/wiki/geropsychologia/poznanie_i_zdrowie_psychiczne_w_starosci.html).
 
-Pojęcie **kryzysu połowy życia** (*midlife crisis*) spopularyzował Levinson (1978) na podstawie wywiadów z 40 mężczyznami w wieku 35–45 lat. Jednak badania empiryczne na dużych próbach kwestionują jego powszechność:
+Nie należy utożsamiać wieku z niesamodzielnością. Wiedza i kompetencje oparte na doświadczeniu mogą pozostawać stabilne, choć szybkość przetwarzania lub uczenie się nowych informacji przeciętnie się zmieniają. Ważniejsze od metryki są funkcjonowanie, cele osoby, stan sensoryczny i zdrowotny oraz dostępność środowiska.
 
-- Lachman (2004) w badaniu MIDUS (Midlife in the United States) wykazała, że tylko ok. 10–20% dorosłych Amerykanów zgłasza doświadczenie „kryzysu" w środkowej dorosłości.
-- Osoby, które opisują taki kryzys, wcześniej doświadczały częstszych stresujących wydarzeń życiowych - kryzys jest związany z historią stresu, nie z wiekiem biologicznym.
-- Kobiety rzadziej opisują kryzys połowy życia, choć więcej z nich wskazuje na przejście menopauzalne jako znaczące
+## Niekorzystne doświadczenia i „trauma rozwojowa”
 
-> Wniosek: „Kryzys połowy życia" jest bardziej kulturowym mitem niż uniwersalnym etapem rozwojowym, choć dla niektórych osób środkowa dorosłość jest istotnie trudnym przejściem.
+Określenie **trauma rozwojowa** opisuje możliwe skutki przewlekłego lub powtarzanego zagrożenia w okresie zależności od opiekunów, na przykład przemocy, zaniedbania albo nieprzewidywalnej opieki. Może pomagać w formułowaniu przypadku, gdy trudności obejmują regulację emocji, uwagę, obraz siebie, relacje i reakcje fizjologiczne. Nie oznacza, że każda przeciwność jest traumą ani że podobny profil ma jedną przyczynę.
 
----
+„Rozwojowe zaburzenie traumatyczne” nie jest odrębnym rozpoznaniem w DSM-5-TR ani ICD-11. Klasyfikacje pozwalają natomiast rozpoznawać, zależnie od spełnionych kryteriów, między innymi PTSD, a ICD-11 także złożone PTSD. Złożone PTSD obejmuje podstawowe objawy PTSD oraz trwałe trudności w regulacji afektu, negatywny obraz siebie i zaburzenia relacji (WHO, 2024). Formułowanie rozwojowe może uzupełniać diagnozę, lecz nie powinno jej zastępować ani rozszerzać kryteriów bez wyjaśnienia.
 
-## Zmiany poznawcze w procesie starzenia
+### Ryzyko nie jest przeznaczeniem
 
-Baltes i współpracownicy (1987) wprowadzili rozróżnienie między **inteligencją skrystalizowaną** i **płynną**, kluczowe dla rozumienia starzenia się poznawczego:
+Niekorzystne doświadczenia dziecięce są na poziomie populacji związane z większym ryzykiem problemów zdrowotnych i społecznych, ale badania obserwacyjne nie wyznaczają losu jednostki. Wynik zależy od rodzaju, czasu i kumulacji doświadczeń, predyspozycji, późniejszego środowiska i dostępu do wsparcia. Bezpieczna relacja, stabilne warunki, kompetencje samoregulacyjne i skuteczne leczenie mogą ograniczać ryzyko.
 
-| Rodzaj inteligencji | Definicja | Trajektoria w dorosłości |
-|---|---|---|
-| **Płynna** (*fluid*) | zdolność do rozwiązywania nowych problemów, szybkość przetwarzania, pamięć robocza | szczyt ok. 20–25 lat, stopniowy spadek |
-| **Skrystalizowana** (*crystallized*) | wiedza nabyta, słownictwo, rozumienie kulturowe | wzrost lub stabilizacja do późnej dorosłości |
+Suma zdarzeń ACE jest wskaźnikiem epidemiologicznym, a nie narzędziem do prognozowania przyszłości pojedynczej osoby. Zrównuje różne doświadczenia, zwykle nie mierzy ich nasilenia ani zasobów ochronnych i może prowadzić do determinizmu. Ocena kliniczna powinna dotyczyć aktualnych objawów, bezpieczeństwa, funkcjonowania, znaczeń nadawanych doświadczeniu i mocnych stron.
 
-**Mechanizmy spadku sprawności płynnej:**
-- Spowolnienie szybkości przetwarzania (Salthouse, 1996)
-- Zmniejszona pojemność pamięci roboczej
-- Trudności z hamowaniem nieistotnych informacji
-- Zmniejszona neuroplastyczność (choć nie jej zanik - patrz artykuł o plastyczności mózgu)
+## Pomoc w perspektywie biegu życia
 
-**Kompensacja:** Baltes i Baltes (1990) opisali strategię **Selektywnej Optymalizacji z Kompensacją (SOC)** - starsze osoby wybierają mniejszy zakres działań, optymalizują w nim zasoby i kompensują straty nowymi strategiami. Klasyczny przykład: pianista Arthur Rubinstein w późnej starości grał mniej utworów, ale ćwiczył je intensywniej i stosował wolniejsze tempo przed szybkimi fragmentami, by podkreślić kontrast.
+Pomoc powinna być dostosowana do problemu i etapu życia: może obejmować zapewnienie bezpieczeństwa, leczenie oparte na dowodach, wsparcie relacji, snu, zdrowia i warunków społecznych. Podejście uwzględniające traumę oznacza przejrzystość, współpracę, wybór i unikanie ponownego naruszania granic. Nie wymaga zakładania traumy u każdej osoby ani odtwarzania wspomnień bez wskazań.
 
----
+Perspektywa biegu życia kieruje uwagę jednocześnie na ciągłość i możliwość zmiany. Wczesne doświadczenia mają znaczenie, ale nowe relacje, role i środowiska pozostają źródłami rozwoju także w dorosłości.
 
-## Emocje i dobrostan w starości: teoria selektywności społeczno-emocjonalnej
+## Bibliografia
 
-Laura Carstensen (1992, 2006) zaproponowała **Teorię Selektywności Społeczno-Emocjonalnej (SST)**, jedną z najbardziej wpływowych teorii starzenia się emocjonalnego.
-
-**Kluczowe założenie:** Percepcja horyzontu czasowego determinuje motywację. Gdy czas jest postrzegany jako ograniczony (starość, choroba terminalna), ludzie priorytetyzują cele emocjonalne - kontakty z bliskimi, pozytywne doświadczenia - a odrzucają cele ekspansywne (poznawanie nowych ludzi, zdobywanie nowej wiedzy).
-
-**Paradoks starości:** Mimo obiektywnych strat (zdrowotnych, poznawczych, strat społecznych), starsze osoby zgłaszają **wyższe poczucie dobrostanu emocjonalnego** niż osoby w średnim wieku. Badania ESM (experience sampling) potwierdzają, że starsze osoby doświadczają więcej pozytywnych emocji i rzadziej negatywnych w codziennym życiu.
-
-**Efekt pozytywności** - starsze osoby lepiej zapamiętują i dłużej przetwarzają bodźce pozytywne niż negatywne (odwrotnie niż młodsze). Wyjaśniany przez kontrolę uwagi i preferencje przetwarzania.
-
----
-
-## Modele pomyślnego starzenia się
-
-| Model | Autorzy | Główne komponenty |
-|---|---|---|
-| Rowe & Kahn (1997) | MacArthur Study | Brak chorób, wysoka sprawność funkcjonalna, aktywne zaangażowanie |
-| SOC | Baltes & Baltes (1990) | Selekcja, Optymalizacja, Kompensacja |
-| Starzenie się produktywne | Butler (1987) | Aktywność zawodowa i wolontariat w starości |
-| Gerotranscendencja | Tornstam (2005) | Przesunięcie od materializmu do kosmicznej perspektywy |
-
----
-
-## Demencja vs. normalne starzenie się
-
-Nie wszystkie zmiany poznawcze towarzyszące starzeniu są patologiczne:
-
-| Cecha | Normalne starzenie | Demencja |
-|---|---|---|
-| Pamięć | Spowolnione przypominanie, ale fakty dostępne z podpowiedzią | Utrata informacji, których nie można odtworzyć |
-| Orientacja | Zachowana | Zaburzona (czas, miejsce, osoby) |
-| Język | Niewielkie trudności ze słowem (anomia) | Afazja, utrata spójności narracyjnej |
-| Codzienne funkcjonowanie | Niezależne | Postępowa utrata samodzielności |
-| Progresja | Brak lub minimalna | Postępująca |
-
-Alzheimer jest najczęstszą formą demencji (60–70% przypadków) - patologiczne złogi amyloidu beta i sploty neurofibrylaryczne prowadzą do utraty neuronów. Ryzyko podwaja się co 5 lat po 65. roku życia.
-
----
-
-
-
-Dorosłość i starzenie się to okresy obfitujące zarówno w straty, jak i w zyski. Psychologia biegu życia uczy nas, że trajektoria życia nie jest prostą linią regresji - zmiany mają charakter wielokierunkowy. Dane empiryczne konsekwentnie podważają pesymistyczny stereotyp starości jako etapu wyłącznej degradacji: emocjonalna mądrość, akceptacja skończoności i pogłębione relacje są autentycznymi osiągnięciami, do których wiele osób dochodzi właśnie w późnym etapie życia.
-
----## Bibliografia
-
-- Arnett, J. J. (2000). Emerging adulthood. *American Psychologist, 55*(5), 469–480.
-- Baltes, P. B., & Baltes, M. M. (1990). Psychological perspectives on successful aging. W: *Successful Human Aging*. Cambridge University Press.
-- Carstensen, L. L. (2006). The influence of a sense of time on human development. *Science, 312*, 1913–1915.
-- Erikson, E. H. (1959). *Identity and the Life Cycle*. International Universities Press.
-- Lachman, M. E. (2004). Development in midlife. *Annual Review of Psychology, 55*, 305–331.
-- Levinson, D. J. (1978). *The Seasons of a Man's Life*. Knopf.
-- McAdams, D. P., & St. Aubin, E. (1992). A theory of generativity. *Psychological Review, 99*(4), 1003–1023.
-- Rowe, J. W., & Kahn, R. L. (1997). Successful aging. *The Gerontologist, 37*(4), 433–440.
-- Salthouse, T. A. (1996). The processing-speed theory of adult age differences. *Psychological Review, 103*(3), 403–428.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Dorosłość i starzenie się" polega na tym, że rozwój nie jest prostą sekwencją etapów, lecz dynamiczną relacją między dojrzewaniem biologicznym, środowiskiem i doświadczeniem uczenia się.
-
-Dopiero wspólna analiza zagadnień takich jak eriksonowskie stadia dorosłości, emocje i dobrostan w starości: teoria selektywności społeczno-emocjonalnej oraz demencja vs. normalne starzenie się pokazuje pełny zakres omawianego zjawiska.
-
-Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
-
-## Podsumowanie
-
-Temat "Dorosłość i starzenie się" pokazuje, że najbardziej trafne podsumowanie wymaga łączenia perspektywy etapowej z analizą różnic indywidualnych, kontekstu i plastyczności.
-
-
-Dopiero wspólna analiza zagadnień takich jak eriksonowskie stadia dorosłości, emocje i dobrostan w starości: teoria selektywności społeczno-emocjonalnej oraz demencja vs. normalne starzenie się pokazuje pełny zakres omawianego zjawiska.## Bibliografia
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+- American Psychiatric Association. (2022). *Diagnostic and Statistical Manual of Mental Disorders* (wyd. 5, text rev.).
+- Baltes, P. B., & Baltes, M. M. (red.). (1990). *Successful Aging: Perspectives from the Behavioral Sciences*. Cambridge University Press.
+- Carstensen, L. L. (2006). The influence of a sense of time on human development. *Science, 312*(5782), 1913–1915.
+- Centers for Disease Control and Prevention. (2019). *Preventing Adverse Childhood Experiences: Leveraging the Best Available Evidence*.
+- Fraley, R. C., & Roisman, G. I. (2019). The development of adult attachment styles. *Current Opinion in Psychology, 25*, 68–71.
+- McAdams, D. P., & de St. Aubin, E. (1992). A theory of generativity and its assessment. *Journal of Personality and Social Psychology, 62*(6), 1003–1015.
+- Masten, A. S. (2021). Resilience of children in disasters. *Journal of Health Service Psychology, 47*, 215–225.
+- McEwen, C. A., & Gregerson, S. F. (2019). A critical assessment of the adverse childhood experiences study. *American Journal of Preventive Medicine, 56*(6), 790–794.
+- World Health Organization. (2024). *Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders*. WHO.

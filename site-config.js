@@ -558,16 +558,24 @@ window.SITE_CONFIG = {
     'poznawcza/zmeczenie_poznawcze': 'psychologia_poznawcza/funkcje_wykonawcze',
     'rozwojowa/adolescencja': 'psychologia_rozwojowa/adolescencja',
     'rozwojowa/doroslosc': 'psychologia_rozwojowa/doroslosc',
-    'rozwojowa/metody_podluzne': 'psychologia_rozwojowa/metody_podluzne',
+    'rozwojowa/metody_podluzne': 'psychologia_rozwojowa/teorie_rozwoju',
     'rozwojowa/niemowlectwo': 'psychologia_rozwojowa/niemowlectwo',
-    'rozwojowa/plastycznosc_mozgu': 'psychologia_rozwojowa/plastycznosc_mozgu',
-    'rozwojowa/przywiazanie': 'psychologia_rozwojowa/przywiazanie',
-    'rozwojowa/rodzicielstwo': 'psychologia_rozwojowa/rodzicielstwo',
-    'rozwojowa/rozwoj_jezyka': 'psychologia_rozwojowa/rozwoj_jezyka',
+    'rozwojowa/plastycznosc_mozgu': 'psychologia_rozwojowa/teorie_rozwoju',
+    'rozwojowa/przywiazanie': 'psychologia_rozwojowa/niemowlectwo',
+    'rozwojowa/rodzicielstwo': 'psychologia_rozwojowa/niemowlectwo',
+    'rozwojowa/rozwoj_jezyka': 'psychologia_rozwojowa/niemowlectwo',
     'rozwojowa/teorie_rozwoju': 'psychologia_rozwojowa/teorie_rozwoju',
-    'rozwojowa/tozsamosc': 'psychologia_rozwojowa/tozsamosc',
-    'rozwojowa/trauma_rozwojowa': 'psychologia_rozwojowa/trauma_rozwojowa',
-    'rozwojowa/wiek_szkolny': 'psychologia_rozwojowa/wiek_szkolny',
+    'rozwojowa/tozsamosc': 'psychologia_rozwojowa/adolescencja',
+    'rozwojowa/trauma_rozwojowa': 'psychologia_rozwojowa/doroslosc',
+    'rozwojowa/wiek_szkolny': 'psychologia_rozwojowa/niemowlectwo',
+    'psychologia_rozwojowa/metody_podluzne': 'psychologia_rozwojowa/teorie_rozwoju',
+    'psychologia_rozwojowa/plastycznosc_mozgu': 'psychologia_rozwojowa/teorie_rozwoju',
+    'psychologia_rozwojowa/wiek_szkolny': 'psychologia_rozwojowa/niemowlectwo',
+    'psychologia_rozwojowa/rozwoj_jezyka': 'psychologia_rozwojowa/niemowlectwo',
+    'psychologia_rozwojowa/przywiazanie': 'psychologia_rozwojowa/niemowlectwo',
+    'psychologia_rozwojowa/rodzicielstwo': 'psychologia_rozwojowa/niemowlectwo',
+    'psychologia_rozwojowa/tozsamosc': 'psychologia_rozwojowa/adolescencja',
+    'psychologia_rozwojowa/trauma_rozwojowa': 'psychologia_rozwojowa/doroslosc',
     'spoleczna/agresja': 'psychologia_spoleczna/agresja_uprzedzenia_i_przemoc_spoleczna',
     'spoleczna/atrakcyjnosc': 'psychologia_spoleczna/grupy_relacje_i_wspolpraca',
     'spoleczna/dynamika_grupowa': 'psychologia_spoleczna/grupy_relacje_i_wspolpraca',
@@ -714,18 +722,10 @@ window.SITE_CONFIG = {
       section: 'Psychologia rozwojowa',
       domainKey: 'rozwojowa',
       items: [
-        { id: 'psychologia_rozwojowa/teorie_rozwoju',     label: 'Glowne teorie rozwoju',                    file: 'wiki/psychologia_rozwojowa/teorie_rozwoju.md'     },
-        { id: 'psychologia_rozwojowa/metody_podluzne',    label: 'Metody badań podłużnych',                  file: 'wiki/psychologia_rozwojowa/metody_podluzne.md'    },
-        { id: 'psychologia_rozwojowa/niemowlectwo',       label: 'Niemowlęctwo i wczesne dzieciństwo',       file: 'wiki/psychologia_rozwojowa/niemowlectwo.md'       },
-        { id: 'psychologia_rozwojowa/wiek_szkolny',       label: 'Wiek szkolny',                             file: 'wiki/psychologia_rozwojowa/wiek_szkolny.md'       },
-        { id: 'psychologia_rozwojowa/adolescencja',       label: 'Adolescencja',                             file: 'wiki/psychologia_rozwojowa/adolescencja.md'       },
-        { id: 'psychologia_rozwojowa/doroslosc',          label: 'Dorosłość i starzenie się',                file: 'wiki/psychologia_rozwojowa/doroslosc.md'          },
-        { id: 'psychologia_rozwojowa/plastycznosc_mozgu', label: 'Plastycznosc mózgu, a okresy krytyczne',   file: 'wiki/psychologia_rozwojowa/plastycznosc_mozgu.md' },
-        { id: 'psychologia_rozwojowa/przywiazanie',       label: 'Teoria przywiazania',                      file: 'wiki/psychologia_rozwojowa/przywiazanie.md'       },
-        { id: 'psychologia_rozwojowa/rozwoj_jezyka',      label: 'Rozwoj jezyka i komunikacji',              file: 'wiki/psychologia_rozwojowa/rozwoj_jezyka.md'      },
-        { id: 'psychologia_rozwojowa/rodzicielstwo',      label: 'Style rodzicielskie',                      file: 'wiki/psychologia_rozwojowa/rodzicielstwo.md'      },
-        { id: 'psychologia_rozwojowa/trauma_rozwojowa',   label: 'Trauma rozwojowa',                         file: 'wiki/psychologia_rozwojowa/trauma_rozwojowa.md'   },
-        { id: 'psychologia_rozwojowa/tozsamosc',          label: 'Ksztaltowanie tozsamosci',                 file: 'wiki/psychologia_rozwojowa/tozsamosc.md'          },
+        { id: 'psychologia_rozwojowa/teorie_rozwoju', label: 'Teorie i metody badania rozwoju', file: 'wiki/psychologia_rozwojowa/teorie_rozwoju.md' },
+        { id: 'psychologia_rozwojowa/niemowlectwo',   label: 'Niemowlęctwo i dzieciństwo',      file: 'wiki/psychologia_rozwojowa/niemowlectwo.md'   },
+        { id: 'psychologia_rozwojowa/adolescencja',   label: 'Adolescencja i tożsamość',        file: 'wiki/psychologia_rozwojowa/adolescencja.md'   },
+        { id: 'psychologia_rozwojowa/doroslosc',      label: 'Dorosłość, starzenie i doświadczenia niekorzystne', file: 'wiki/psychologia_rozwojowa/doroslosc.md' },
       ]
     },
     { /* Psychologia społeczna */
@@ -1801,18 +1801,10 @@ window.SITE_CONFIG = {
       { file: 'wiki/diagnoza/diagnoza_stygmatyzacja.md',         label: 'Diagnoza, a stygmatyzacja',          status: 'live' },
     ],
     rozwojowa: [
-      { file: 'wiki/psychologia_rozwojowa/teorie_rozwoju.md',                label: 'Glowne teorie rozwoju',                   status: 'live' },
-      { file: 'wiki/psychologia_rozwojowa/metody_podluzne.md',               label: 'Metody badań podłużnych',                 status: 'live' },
-      { file: 'wiki/psychologia_rozwojowa/niemowlectwo.md',                  label: 'Niemowlęctwo i wczesne dzieciństwo',      status: 'live' },
-      { file: 'wiki/psychologia_rozwojowa/wiek_szkolny.md',                  label: 'Wiek szkolny',                            status: 'live' },
-      { file: 'wiki/psychologia_rozwojowa/adolescencja.md',                  label: 'Adolescencja',                            status: 'live' },
-      { file: 'wiki/psychologia_rozwojowa/doroslosc.md',                     label: 'Dorosłość i starzenie się',               status: 'live' },
-      { file: 'wiki/psychologia_rozwojowa/plastycznosc_mozgu.md',            label: 'Plastycznosc mózgu, a okresy krytyczne',  status: 'live' },
-      { file: 'wiki/psychologia_rozwojowa/przywiazanie.md',                  label: 'Teoria przywiazania',                     status: 'live' },
-      { file: 'wiki/psychologia_rozwojowa/rozwoj_jezyka.md',                 label: 'Rozwoj jezyka i komunikacji',             status: 'live' },
-      { file: 'wiki/psychologia_rozwojowa/rodzicielstwo.md',                 label: 'Style rodzicielskie',                     status: 'live' },
-      { file: 'wiki/psychologia_rozwojowa/trauma_rozwojowa.md',              label: 'Trauma rozwojowa',                        status: 'live' },
-      { file: 'wiki/psychologia_rozwojowa/tozsamosc.md',                     label: 'Ksztaltowanie tozsamosci',                status: 'live' },
+      { file: 'wiki/psychologia_rozwojowa/teorie_rozwoju.md', label: 'Teorie i metody badania rozwoju', status: 'live' },
+      { file: 'wiki/psychologia_rozwojowa/niemowlectwo.md',   label: 'Niemowlęctwo i dzieciństwo', status: 'live' },
+      { file: 'wiki/psychologia_rozwojowa/adolescencja.md',   label: 'Adolescencja i tożsamość', status: 'live' },
+      { file: 'wiki/psychologia_rozwojowa/doroslosc.md',      label: 'Dorosłość, starzenie i doświadczenia niekorzystne', status: 'live' },
     ],
     eksperyment_psychologiczny: [
       { file: 'wiki/eksperyment_psychologiczny/wprowadzenie.md', label: '1. Projektowanie eksperymentu psychologicznego', status: 'live' },
@@ -2043,44 +2035,15 @@ window.SITE_CONFIG = {
 
     rozwojowa: {
       title: 'WIKI - Psychologia rozwojowa',
-      intro: 'Zmiany w funkcjonowaniu psychicznym od okresu prenatalnego po pelna doroslosc - normatywne i atypowe sciezki.',
+      intro: 'Rozwój człowieka w biegu życia: mechanizmy, metody, relacje i zróżnicowane trajektorie.',
       sections: [
         {
-          title: 'Fundamenty',
+          title: 'Rozwój w biegu życia',
           articles: [
-            { label: 'Główne teorie rozwoju', id: 'psychologia_rozwojowa/teorie_rozwoju', status: 'live' },
-            { label: 'Metody badań podłużnych', id: 'psychologia_rozwojowa/metody_podluzne', status: 'live' },
-          ]
-        },
-        {
-          title: 'Etapy zycia',
-          articles: [
-            { label: 'Niemowlęctwo i wczesne dzieciństwo', id: 'psychologia_rozwojowa/niemowlectwo', status: 'live' },
-            { label: 'Wiek szkolny', id: 'psychologia_rozwojowa/wiek_szkolny', status: 'live' },
-            { label: 'Adolescencja', id: 'psychologia_rozwojowa/adolescencja', status: 'live' },
-            { label: 'Dorosłość i starzenie się', id: 'psychologia_rozwojowa/doroslosc', status: 'live' },
-          ]
-        },
-        {
-          title: 'Neurobiologia rozwoju',
-          articles: [
-            { label: 'Neurobiologia - podstawy', id: 'neuropsychologia/funkcjonalna_anatomia_mozgu', status: 'xlink' },
-            { label: 'Plastycznosc mózgu, a okresy krytyczne', id: 'psychologia_rozwojowa/plastycznosc_mozgu', status: 'live' },
-          ]
-        },
-        {
-          title: 'Relacje i srodowisko',
-          articles: [
-            { label: 'Teoria przywiazania', id: 'psychologia_rozwojowa/przywiazanie', status: 'live' },
-            { label: 'Style rodzicielskie', id: 'psychologia_rozwojowa/rodzicielstwo', status: 'live' },
-            { label: 'Trauma rozwojowa', id: 'psychologia_rozwojowa/trauma_rozwojowa', status: 'live' },
-          ]
-        },
-        {
-          title: 'Jezyk, tozsamosc i samoRozwoj',
-          articles: [
-            { label: 'Rozwoj jezyka i komunikacji', id: 'psychologia_rozwojowa/rozwoj_jezyka', status: 'live' },
-            { label: 'Ksztaltowanie tozsamosci', id: 'psychologia_rozwojowa/tozsamosc', status: 'live' },
+            { label: 'Teorie i metody badania rozwoju', id: 'psychologia_rozwojowa/teorie_rozwoju', status: 'live' },
+            { label: 'Niemowlęctwo i dzieciństwo', id: 'psychologia_rozwojowa/niemowlectwo', status: 'live' },
+            { label: 'Adolescencja i tożsamość', id: 'psychologia_rozwojowa/adolescencja', status: 'live' },
+            { label: 'Dorosłość, starzenie i doświadczenia niekorzystne', id: 'psychologia_rozwojowa/doroslosc', status: 'live' },
           ]
         },
       ]

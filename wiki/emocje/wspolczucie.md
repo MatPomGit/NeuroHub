@@ -1,13 +1,17 @@
 ---
-lastReviewed: 2026-07-30
+title: Emocje społeczne, empatia i współczucie
+description: Empatia, współczucie oraz samoświadome emocje społeczne w funkcjach normatywnych, relacyjnych i kulturowych.
+lastReviewed: 2026-08-08
 reviewCycleMonths: 24
-evidenceCutoffDate: 2025-12-31
+evidenceCutoffDate: 2026-08-08
 aliases:
   - Empatia
   - Współczucie
+  - Emocje społeczne
+  - Wstyd i wina
 ---
 
-# Empatia i współczucie
+# Emocje społeczne, empatia i współczucie
 
 Empatia nie jest jedną cechą ani synonimem dobroci. To rodzina procesów, dzięki którym człowiek może reagować na stan innej osoby: podzielać jej emocję, rozumieć jej perspektywę albo trafnie wnioskować, co przeżywa. **Współczucie** jest natomiast troskliwą odpowiedzią na dostrzeżone cierpienie, zwykle połączoną z motywacją, by je zmniejszyć. Rozdzielenie tych procesów wyjaśnia, dlaczego można dobrze odczytywać ludzi bez dzielenia ich uczuć, współodczuwać bez trafnego rozumienia, a także pomagać mimo niewielkiego rezonansu emocjonalnego (Davis, 1983; Decety i Jackson, 2004; Goetz, Keltner i Simon-Thomas, 2010).
 
@@ -80,6 +84,47 @@ Z przykładów można korzystać jako z pytań kontrolnych:
 
 Żadna fraza nie jest empatyczna niezależnie od kontekstu. Odzwierciedlenie może chybić, pytanie może być nie na czas, a rada może być potrzebna w sytuacji zagrożenia. Warto zatem sprawdzać trafność, pytać o potrzebę i dostosowywać reakcję, zamiast uczyć się „właściwych zdań” na pamięć.
 
+## Emocje społeczne i samoświadome
+
+Emocje społeczne zależą od rzeczywistej, wyobrażonej lub zinternalizowanej obecności innych ludzi. Część z nich jest **samoświadoma**: wymaga reprezentacji siebie i odniesienia działania lub cechy do standardu. Granice kategorii są umowne. Wstyd może być moralny, estetyczny albo statusowy, a zazdrość dotyczy relacji, niekoniecznie normy moralnej.
+
+| Emocja | Typowa ocena sytuacji | Możliwa funkcja | Ryzyko lub niejednoznaczność |
+|---|---|---|---|
+| **Wstyd** | „Ja zostało odsłonięte i ocenione jako wadliwe” | sygnalizuje zagrożenie reputacji i skłania do korekty autoprezentacji | może prowadzić do ukrywania, ataku, ruminacji lub globalnego potępienia siebie |
+| **Wina** | „Moje działanie naruszyło standard lub skrzywdziło” | sprzyja przeprosinom, naprawie i uczeniu się norm | może być nieproporcjonalna, oparta na fałszywej odpowiedzialności lub chroniczna |
+| **Duma** | „Osiągnięcie mówi dobrze o mnie lub mojej grupie” | wzmacnia wysiłek, status i komunikowanie kompetencji | duma zdominowana przez globalną wyższość może sprzyjać antagonizmowi |
+| **Zazdrość** | „Ważna relacja jest zagrożona przez rywala” | kieruje uwagę na więź i zagrożenie | może motywować troskę o relację albo kontrolę i agresję |
+| **Zawiść** | „Inna osoba ma cenione dobro, którego mi brakuje” | ujawnia aspirację i porównanie statusu | może inspirować rozwój albo chęć pomniejszenia drugiej osoby |
+| **Zakłopotanie** | „Naruszyłem konwencję lub popełniłem gafę przy świadkach” | gesty zakłopotania komunikują uznanie normy i łagodzą ocenę | nie zawsze wiąże się z winą ani globalną oceną siebie |
+
+Polskie słowa **zazdrość** i **zawiść** bywają używane zamiennie, jednak w literaturze rozróżnia się zazwyczaj trójkątną *jealousy* (osoba, ceniona relacja, rywal) oraz dwustronną *envy* (osoba porównuje się z posiadaczem dobra). Podobnie zakłopotanie nie jest łagodnym wstydem w każdej teorii: często dotyczy gafy i sygnalizuje innym, że sprawca zna konwencję.
+
+### Wstyd i wina bez moralnej czerni i bieli
+
+Rozróżnienie „jestem zły” (wstyd) oraz „zrobiłem coś złego” (wina) jest użytecznym prototypem, nie niezawodnym testem. Wina częściej wiąże się z przyjmowaniem perspektywy i naprawą, gdy dotyczy konkretnego, kontrolowalnego czynu i jest proporcjonalna do szkody. Nie jest jednak zawsze adaptacyjna: wina ocalałego, wina narzucona przez sprawcę przemocy lub depresyjne poczucie odpowiedzialności mogą utrwalać cierpienie bez realnej możliwości naprawy.
+
+Wstyd częściej uruchamia ukrycie, wycofanie albo obronny gniew, zwłaszcza gdy obejmuje całe Ja. Nie jest jednak zawsze patologiczny. Krótkotrwały, proporcjonalny wstyd może sygnalizować naruszenie oczekiwań grupy, skłonić do naprawy wizerunku i powstrzymać powtórzenie zachowania. O skutkach decydują nasilenie, przewlekłość, możliwość naprawy, reakcja otoczenia oraz to, czy norma jest sprawiedliwa. Zawstydzanie osoby nie jest konieczne do uczenia odpowiedzialności i może zamiast tego zwiększać ukrywanie.
+
+### Duma, status i porównanie
+
+Duma po konkretnym osiągnięciu może podtrzymywać wysiłek i komunikować kompetencję. Badania odróżniają ją od dumy hubrystycznej, opartej na globalnym poczuciu wyższości, choć pomiar tego podziału pozostaje dyskutowany. Zazdrość i zawiść nie są dowodem złego charakteru. Informują o ważnej więzi, zasobie lub pozycji; dopiero interpretacja i działanie rozstrzygają, czy reakcja będzie konstruktywna.
+
+## Funkcje normatywne i relacyjne
+
+Emocje społeczne pomagają koordynować życie zbiorowe na co najmniej trzech poziomach:
+
+1. **samoregulacja normatywna**: przewidywany wstyd lub wina mogą powstrzymywać naruszenie, a duma wzmacniać zachowanie cenione przez grupę;
+2. **komunikacja relacyjna**: zakłopotanie, przeprosiny, wdzięczność i współczucie przekazują uznanie normy, intencję naprawy albo gotowość wsparcia;
+3. **egzekwowanie norm**: oburzenie moralne i pogarda mogą mobilizować protest, ale także eskalować karanie, polaryzację i wykluczenie.
+
+Emocja nie jest dowodem moralnym. Silne oburzenie nie dowodzi naruszenia, poczucie winy nie dowodzi odpowiedzialności, a brak widocznego wstydu nie dowodzi jej braku wewnętrznego. Empatia również nie jest nieomylnym kompasem: łatwiej angażuje się wobec osób bliskich i wyrazistych, dlatego decyzje wymagają zasad sprawiedliwości oraz sprawdzania faktów.
+
+## Kultura: kształtowanie, nie prosty podział
+
+Kultury różnią się cenionymi celami, regułami ekspresji, pojęciami emocji i znaczeniem reputacji. W kontekście bardziej współzależnym wstyd może silniej odnosić się do obowiązków i „twarzy” rodziny; w bardziej indywidualistycznym eksponuje się osobistą odpowiedzialność. Klasyczny podział na „kultury wstydu” i „kultury winy” jest jednak zbyt sztywny: obie emocje występują w każdej populacji, a różnice wewnątrz kultur są znaczne.
+
+Norma może chronić współpracę, ale może też podtrzymywać nierówność. Dlatego adaptacyjności emocji nie wolno oceniać wyłącznie po zgodności z otoczeniem. W pomocy psychologicznej trzeba pytać, kto ustanawia standard, jakie są konsekwencje jego naruszenia i czy działanie rzeczywiście skrzywdziło innych. Wrażliwość kulturowa nie oznacza automatycznej akceptacji kontroli, przemocy lub stygmatyzacji.
+
 ## Pomiar i ograniczenia badań
 
 Kwestionariusze często mierzą deklarowane dyspozycje, na przykład przyjmowanie perspektywy, empatyczną troskę i dystres osobisty w *Interpersonal Reactivity Index* (Davis, 1983). Zadania trafności empatycznej porównują natomiast wnioski obserwatora z raportami osoby obserwowanej. Miary te nie są zamienne: samoopis może odzwierciedlać obraz siebie, zadanie zależy od dostępnych wskazówek, a ocena klienta może dotyczyć tego, czy terapeuta skutecznie zakomunikował rozumienie.
@@ -88,7 +133,7 @@ Terminologia także zmienia się między tradycjami badawczymi. „Empatyczna tr
 
 ## Wnioski
 
-Najważniejsze rozróżnienie dotyczy tego, **co dzieje się z obserwatorem** i **ku czemu kieruje go reakcja**. Może on rezonować emocjonalnie, rozumować o cudzej perspektywie, trafnie lub nietrafnie ją odczytać, troszczyć się o cierpiącą osobę albo skupiać się na własnym napięciu. Dobra pomoc łączy zaciekawione rozumienie, sprawdzanie trafności, regulację emocji, współczucie i granice. Nie wymaga przeżywania dokładnie tego samego co druga osoba.
+Najważniejsze rozróżnienie dotyczy tego, **co dzieje się z obserwatorem** i **ku czemu kieruje go reakcja**. Może on rezonować emocjonalnie, rozumować o cudzej perspektywie, trafnie lub nietrafnie ją odczytać, troszczyć się o cierpiącą osobę albo skupiać się na własnym napięciu. Wstyd, wina, duma, zazdrość i zakłopotanie regulują reputację, więzi i normy, lecz żadna z nich nie ma skutku zawsze dobrego albo zawsze patologicznego. Interpretacja wymaga uwzględnienia proporcji, działania, relacji i kultury.
 
 ## Bibliografia
 
@@ -107,3 +152,6 @@ Najważniejsze rozróżnienie dotyczy tego, **co dzieje się z obserwatorem** i 
 13. Strauss, C., Lever Taylor, B., Gu, J., Kuyken, W., Baer, R., Jones, F., & Cavanagh, K. (2016). What is compassion and how can we measure it? A review of definitions and measures. *Clinical Psychology Review, 47*, 15–27. https://doi.org/10.1016/j.cpr.2016.05.004
 14. The RSA. (2013, 10 grudnia). *Brené Brown on empathy* [animacja]. YouTube. https://www.youtube.com/watch?v=1Evwgu369Jw
 15. Wiseman, T. (1996). A concept analysis of empathy. *Journal of Advanced Nursing, 23*(6), 1162–1167. https://doi.org/10.1046/j.1365-2648.1996.12213.x
+16. Haidt, J. (2003). The moral emotions. W R. J. Davidson, K. R. Scherer i H. H. Goldsmith (red.), *Handbook of Affective Sciences* (s. 852–870). Oxford University Press.
+17. Tangney, J. P., Stuewig, J., & Mashek, D. J. (2007). Moral emotions and moral behavior. *Annual Review of Psychology, 58*, 345–372. https://doi.org/10.1146/annurev.psych.56.091103.070145
+18. Tracy, J. L., & Robins, R. W. (2004). Putting the self into self-conscious emotions. *Psychological Inquiry, 15*(2), 103–125. https://doi.org/10.1207/S15327965PLI1502_01

@@ -30,7 +30,7 @@ Wzrost liczby rozpoznań wiąże się między innymi z poszerzeniem kryteriów, 
 
 ## Zróżnicowanie i współwystępowanie
 
-Autyzm może współwystępować z ADHD, niepełnosprawnością intelektualną, padaczką, zaburzeniami snu, lękiem, depresją i trudnościami motorycznymi. Częsta jest także [aleksytymia](../emocje/aleksytymia.md), lecz nie stanowi ona kryterium autyzmu.
+Autyzm może współwystępować z ADHD, niepełnosprawnością intelektualną, padaczką, zaburzeniami snu, lękiem, depresją i trudnościami motorycznymi. Częsta jest także [aleksytymia](../emocje/regulacja.md#aleksytymia-trudnosc-przekladu-nie-brak-emocji), lecz nie stanowi ona kryterium autyzmu.
 
 Mocne strony również są indywidualne. U części osób obejmują długotrwałą koncentrację na zainteresowaniach, dostrzeganie szczegółów, pamięć w określonej domenie lub konsekwentne myślenie systemowe. Nie należy przypisywać ich wszystkim osobom autystycznym ani używać do pomniejszania realnej niepełnosprawności.
 

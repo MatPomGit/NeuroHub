@@ -1,80 +1,90 @@
-﻿---
-lastReviewed: 2026-04-01
+---
+lastReviewed: 2026-08-08
 reviewCycleMonths: 24
-evidenceCutoffDate: 2025-12-31
+evidenceCutoffDate: 2026-08-08
+aliases:
+  - psychosomatyka
+  - medycyna psychosomatyczna
 ---
 
-# Psychosomatyka - wprowadzenie
+# Podstawy i modele psychosomatyki
 
-Psychosomatyka (gr. *psyche* - dusza, *soma* - ciało) to dziedzina nauki i praktyki klinicznej badająca wzajemne relacje między procesami psychicznymi a funkcjonowaniem ciała. Stanowi pomost między psychiatrią, psychologią kliniczną a medycyną wewnętrzną.
+## Najważniejsze informacje
 
-## Definicja i zakres
+- Psychosomatyka bada **dwukierunkowe** zależności między procesami biologicznymi, psychicznymi i społecznymi. Określenie „psychosomatyczny” nie znaczy „urojony”, „wymyślony” ani „pozbawiony biologicznej podstawy”.
+- Współczesne modele nie przypisują pojedynczej chorobie jednego konfliktu ani jednej osobowości. Pytają, jak podatność biologiczna, środowisko, stres, sposób interpretacji objawów i zachowania zdrowotne współdziałają u konkretnej osoby.
+- Reakcja stresowa jest adaptacyjna. Jej długotrwałe lub powtarzane uruchamianie może zwiększać obciążenie fizjologiczne, ale **stres nie jest samodzielnym, uniwersalnym wyjaśnieniem chorób somatycznych**.
+- Wykazanie zmiany kortyzolu, tętna albo markera zapalnego potwierdza szlak fizjologiczny, nie dowodzi jeszcze, że zmniejszenie stresu wyleczy daną chorobę.
 
-Psychosomatyka zajmuje się:
+## Czym zajmuje się psychosomatyka
 
-- wpływem emocji, stresu i osobowości na powstawanie i przebieg chorób somatycznych
-- psychologicznymi reakcjami na chorobę ciała
-- rolą czynników psychospołecznych w podatności, przebiegu i leczeniu chorób
-- integrowaną opieką bio-psycho-społeczną
+Psychosomatyka, medycyna behawioralna i psychologia zdrowia opisują relacje między doświadczeniem człowieka a funkcjonowaniem organizmu. Obejmują między innymi reakcje psychiczne na chorobę, wpływ objawów na role społeczne, zachowania związane z leczeniem oraz biologiczne szlaki odpowiedzi na zagrożenie. Nie tworzą podziału na choroby „prawdziwe” i „psychiczne”. Choroba somatyczna może współwystępować z depresją, lękiem lub [somatyzacją](somatyzacja.md), a objaw może być realny mimo braku uchwytnej zmiany strukturalnej.
 
-Termin *choroba psychosomatyczna* coraz rzadziej stosuje się jako oddzielna kategoria diagnostyczna - zamiast tego psychosomatyczne spojrzenie traktuje się jako wymiar każdej choroby.
+Termin ma zatem sens jako **perspektywa kliniczna**, nie jako etykieta rozstrzygająca o przyczynie. Rozpoznawanie i leczenie konkretnych chorób pozostaje zadaniem odpowiednich specjalności medycznych. Rolę interwencji psychologicznych opisano w artykule [Pomoc psychologiczna w objawach somatycznych](terapia_psychosomatyczna.md).
 
-## Granica ciała i umysłu
+## Od jednej przyczyny do modelu wielopoziomowego
 
-Kartezjański dualizm ciało–umysł przez wieki dominował w medycynie zachodniej. Współczesna nauka odrzuca ten podział: układ nerwowy, immunologiczny i hormonalny tworzą niepodzielną, wzajemnie przenikającą się sieć, a doświadczenia psychiczne dosłownie zmieniają biologię organizmu.
+### Historyczne hipotezy specyficzności
 
-> **Kluczowy fakt:** Każda emocja ma swój odpowiednik fizjologiczny - strach przyspiesza serce, wstyd rumieni policzki, smutek ściska gardło. Psychosomatyka bada, co się dzieje, gdy te reakcje stają się długotrwałe lub patologiczne.
+W pierwszej połowie XX wieku Flanders Dunbar poszukiwała profili osobowości związanych z chorobami, a Franz Alexander łączył określone konflikty nieświadome z siedmioma chorobami, między innymi z astmą, nadciśnieniem i chorobą wrzodową. Koncepcje te pomagały przywrócić osobę do obrazu medycyny, lecz opierały się głównie na obserwacjach klinicznych, trudno je było falsyfikować, a późniejsze badania nie potwierdziły swoistych „osobowości chorobowych” (Alexander, 1950; Fava i in., 2017).
 
-## Klasyczne i nowoczesne rozumienie
+Hans Selye przeniósł uwagę na nieswoistą odpowiedź fizjologiczną na wymagania. Jego ogólny zespół adaptacyjny był ważnym krokiem, ale liniowy schemat „alarm, odporność, wyczerpanie” nie opisuje całej różnorodności reakcji ludzkiego organizmu. Ten sam stresor może mieć odmienne znaczenie, natężenie i następstwa zależnie od zasobów, wcześniejszych doświadczeń oraz sytuacji społecznej.
 
-W tradycyjnym ujęciu (Dunbar, Alexander, lata 30.–50. XX w.) psychosomatyka szukała specyficznych konfliktów emocjonalnych odpowiedzialnych za konkretne choroby (np. tłumiona wrogość → nadciśnienie). Dziś dominuje podejście niespecyficzne: przewlekły stres psychospołeczny ogólnie obniża odporność i nasila podatność na wiele chorób.
+### Model biopsychospołeczny
 
-Nowoczesna psychosomatyka opiera się na:
+George Engel zaproponował analizę choroby na powiązanych poziomach: biologicznym, psychologicznym i społecznym (Engel, 1977). Model nie głosi, że wszystkie trzy poziomy mają zawsze równą wagę. W zakażeniu kluczowy może być patogen, w chorobie monogenowej wariant genetyczny, a w utrzymywaniu niepełnosprawności także sen, lęk przed ruchem, warunki pracy i dostęp do rehabilitacji.
 
-- **Psychoneuroimmunologii** - badaniu wpływu psychiki na układ odpornościowy
-- **Neuroendokrynologii** - roli osi HPA i hormonów stresu
-- **Epigenetyce** - stres modyfikuje ekspresję genów
+Współczesne rozwinięcia obejmują pojęcie obciążenia allostatycznego, czyli kosztu wielokrotnego przystosowywania się organizmu do wymagań (McEwen, 1998), oraz psychoneuroimmunologię, która bada komunikację układu nerwowego, hormonalnego i odpornościowego. Są to ramy badawcze, nie uniwersalne diagnozy.
 
-## Psychosomatyka a pokrewne dziedziny
+## Mechanizmy łączące doświadczenie i ciało
 
-| Dziedzina | Relacja z psychosomatyką |
-|---|---|
-| Medycyna psychosomatyczna | synonim/rdzeń kliniczny |
-| Psychoneuroimmunologia | mechanizmy biologiczne |
-| Psychologia zdrowia | zachowania zdrowotne, stres |
-| Medycyna behawioralna | interwencje, modyfikacja zachowań |
-| Psychiatria konsultacyjna | opieka interdyscyplinarna |
+### Ocena zagrożenia i autonomiczny układ nerwowy
 
-## Znaczenie kliniczne
+Reakcja rozpoczyna się nie tylko od świadomej myśli, lecz także od szybkiego wykrywania zagrożenia. Część współczulna autonomicznego układu nerwowego zwiększa częstość pracy serca i dostępność energii, a rdzeń nadnerczy uwalnia adrenalinę i noradrenalinę. Część przywspółczulna uczestniczy w powrocie do równowagi, trawieniu i regeneracji. Zależność nie sprowadza się jednak do prostego równania „współczulny zły, przywspółczulny dobry”: oba układy są potrzebne, a ich aktywność zależy od narządu i sytuacji.
 
-Szacuje się, że 25–50% pacjentów ambulatoryjnych w POZ i specjalistycznych poradniach prezentuje dolegliwości o istotnym komponencie psychologicznym. Nierozpoznany wymiar psychosomatyczny prowadzi do:
+Ostre pobudzenie bywa korzystne, na przykład podczas wysiłku lub szybkiego działania. Znaczenie kliniczne może mieć częste pobudzenie, niedostateczna regeneracja albo współistnienie podatności, takiej jak choroba serca. Zmiana tętna podczas stresu jest **dobrze potwierdzoną fizjologią**; wniosek, że stres wyjaśnia konkretną arytmię, wymaga już indywidualnej diagnostyki.
 
-- nadmiernej diagnostyki i niepotrzebnych procedur medycznych
-- braku efektywności leczenia farmakologicznego
-- frustracji pacjenta i lekarza
-- chronifikacji objawów
+### Oś HPA
 
-> **W praktyce:** Pacjent zgłaszający „niewyjaśnione" bóle, zmęczenie czy kołatanie serca nie symuluje - jego objawy są prawdziwe. Zadaniem klinicysty jest rozumienie, jak przeżycia psychiczne przekładają się na dolegliwości somatyczne.
+Oś podwzgórze–przysadka–nadnercza (HPA) działa następująco:
 
-## Perspektywa nieoczywista
+1. podwzgórze uwalnia kortykoliberynę (CRH);
+2. przysadka wydziela hormon adrenokortykotropowy (ACTH);
+3. kora nadnerczy uwalnia kortyzol;
+4. kortyzol mobilizuje energię i reguluje wiele tkanek, a następnie hamuje wcześniejsze ogniwa osi w pętli sprzężenia zwrotnego.
 
-Nieoczywista perspektywa na temat "Psychosomatyka - wprowadzenie" polega na tym, że związek ciała i psychiki najtrafniej rozumieć jako dwukierunkową regulację, a nie prosty model psychicznej przyczyny objawu somatycznego.
+Kortyzol ma rytm dobowy i nie jest po prostu „hormonem szkodliwym”. W badaniach przewlekłego stresu obserwuje się różne wzorce, na przykład zmienioną reakcję poranną, spłaszczony rytm albo odmienną reaktywność. Nie należy na tej podstawie diagnozować „wyczerpania nadnerczy”, terminu nieuznawanego za rozpoznanie medyczne (Herman i in., 2016).
 
-Dopiero wspólna analiza zagadnień takich jak definicja i zakres, klasyczne i nowoczesne rozumienie oraz znaczenie kliniczne pokazuje pełny zakres omawianego zjawiska.
+Oś HPA oraz układ autonomiczny oddziałują z metabolizmem i odpornością. Przewlekłe zagrożenie społeczne bywa związane ze zmienioną regulacją zapalenia, lecz zależności są dwukierunkowe, zróżnicowane i podatne na czynniki zakłócające (Segerstrom i Miller, 2004). Marker laboratoryjny jest mechanizmem pośrednim, nie równoznacznym z klinicznym zachorowaniem.
 
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+### Zachowania zdrowotne i kontekst społeczny
 
-## Podsumowanie
+Część związku stresu ze zdrowiem przebiega przez codzienne działania: sen, aktywność, jedzenie, palenie, alkohol, przyjmowanie leków i korzystanie z opieki. Choroba może utrudniać te zachowania, a ubóstwo, praca zmianowa, opieka nad bliskimi lub dyskryminacja ograniczać realny wybór. Nie wolno więc przedstawiać zachowań wyłącznie jako kwestii silnej woli.
 
-Temat "Psychosomatyka - wprowadzenie" pokazuje, że największą wartość ma integrowanie danych biologicznych, emocjonalnych i relacyjnych bez redukcjonizmu w żadną stronę.
+Zachowania są często najbardziej dostępnym celem pomocy. Poprawa regularności leczenia może zmienić przebieg biologiczny choroby, natomiast praca nad snem czy unikaniem zwykle wpływa przede wszystkim na funkcjonowanie i nasilenie objawów. Zakres wniosków powinien odpowiadać wynikom badań.
 
+## Jak oceniać siłę wyjaśnienia
 
-Dopiero wspólna analiza zagadnień takich jak definicja i zakres, klasyczne i nowoczesne rozumienie oraz znaczenie kliniczne pokazuje pełny zakres omawianego zjawiska.
+| Poziom twierdzenia | Przykład | Co wolno wnioskować |
+|---|---|---|
+| dobrze potwierdzona fizjologia | stresor może uruchamiać układ współczulny i oś HPA | istnieje biologiczny szlak reakcji |
+| związek obserwacyjny | większy stres współwystępuje z gorszym snem i większym nasileniem objawów | nie wiadomo jeszcze, co jest przyczyną i jakie działają czynniki trzecie |
+| prawdopodobny mechanizm | sen i zachowania zdrowotne mogą pośredniczyć między obciążeniem a funkcjonowaniem | hipotezę trzeba badać osobno dla populacji i choroby |
+| efekt kliniczny interwencji | terapia zmniejsza dystres lub ból w badaniu kontrolowanym | dowód dotyczy mierzonego wyniku, nie automatycznie biologii choroby |
+
+Najczęstszy błąd polega na przeskoku od wiarygodnego mechanizmu do obietnicy leczenia. To, że relaksacja wpływa na pobudzenie autonomiczne, nie dowodzi, że zastępuje leki przeciwzapalne, onkologiczne czy kardiologiczne.
+
+## Wnioski
+
+Współczesna psychosomatyka odrzuca zarówno redukcjonizm biologiczny, który pomija doświadczenie osoby, jak i redukcjonizm psychologiczny, który każdą chorobę tłumaczy stresem. Jej użyteczność polega na stawianiu precyzyjnych pytań: jaki mechanizm jest możliwy, jaki został wykazany, którego wyniku dotyczy dowód i jak połączyć pomoc medyczną, psychologiczną oraz społeczną bez obwiniania pacjenta.
 
 ## Bibliografia
 
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+1. Alexander, F. (1950). *Psychosomatic medicine: Its principles and applications.* W. W. Norton.
+2. Ader, R., & Cohen, N. (1975). Behaviorally conditioned immunosuppression. *Psychosomatic Medicine, 37*(4), 333–340. https://doi.org/10.1097/00006842-197507000-00007
+3. Engel, G. L. (1977). The need for a new medical model: A challenge for biomedicine. *Science, 196*(4286), 129–136. https://doi.org/10.1126/science.847460
+4. Fava, G. A., Cosci, F., & Sonino, N. (2017). Current psychosomatic practice. *Psychotherapy and Psychosomatics, 86*(1), 13–30. https://doi.org/10.1159/000448856
+5. Herman, J. P., McKlveen, J. M., Ghosal, S., Kopp, B., Wulsin, A., Makinson, R., Scheimann, J., & Myers, B. (2016). Regulation of the hypothalamic-pituitary-adrenocortical stress response. *Comprehensive Physiology, 6*(2), 603–621. https://doi.org/10.1002/cphy.c150015
+6. McEwen, B. S. (1998). Protective and damaging effects of stress mediators. *The New England Journal of Medicine, 338*(3), 171–179. https://doi.org/10.1056/NEJM199801153380307
+7. Segerstrom, S. C., & Miller, G. E. (2004). Psychological stress and the human immune system: A meta-analytic study of 30 years of inquiry. *Psychological Bulletin, 130*(4), 601–630. https://doi.org/10.1037/0033-2909.130.4.601
+8. Selye, H. (1956). *The stress of life.* McGraw-Hill.

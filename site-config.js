@@ -365,7 +365,17 @@ window.SITE_CONFIG = {
     'psychologia_kliniczna_dziecka/regulacja_emocji_i_samokontrola': 'psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka',
     'psychologia_kliniczna_dziecka/wspolpraca_rodzina_szkola_system': 'psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka',
     'psychologia_kliniczna_dziecka/wywiad_kliniczny_z_dzieckiem_i_rodzina': 'psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka',
-    'psychosomatyka/historia': 'psychosomatyka/historia_psychosomatyki',
+    'psychosomatyka/historia': 'psychosomatyka/wprowadzenie',
+    'psychosomatyka/historia_psychosomatyki': 'psychosomatyka/wprowadzenie',
+    'psychosomatyka/modele_psychosomatyczne': 'psychosomatyka/wprowadzenie',
+    'psychosomatyka/os_hpa': 'psychosomatyka/wprowadzenie',
+    'psychosomatyka/diagnoza_psychosomatyczna': 'psychosomatyka/somatyzacja',
+    'psychosomatyka/bol_psychosomatyczny': 'psychosomatyka/somatyzacja',
+    'psychosomatyka/psychodermatologia': 'psychosomatyka/psychologiczne_aspekty_chorob_somatycznych',
+    'psychosomatyka/psychogastroenterologia': 'psychosomatyka/psychologiczne_aspekty_chorob_somatycznych',
+    'psychosomatyka/psychokardiologia': 'psychosomatyka/psychologiczne_aspekty_chorob_somatycznych',
+    'psychosomatyka/uklad_oddechowy': 'psychosomatyka/psychologiczne_aspekty_chorob_somatycznych',
+    'psychosomatyka/choroby_autoimmunologiczne': 'psychosomatyka/psychologiczne_aspekty_chorob_somatycznych',
     'instytucje_wsparcia_dziecka_i_rodziny/bledy_systemowe_i_dobre_praktyki': 'instytucje_wsparcia_dziecka_i_rodziny/system_wsparcia_dziecka_i_rodziny',
     'instytucje_wsparcia_dziecka_i_rodziny/interwencja_kryzysowa_i_niebieska_karta': 'instytucje_wsparcia_dziecka_i_rodziny/system_wsparcia_dziecka_i_rodziny',
     'instytucje_wsparcia_dziecka_i_rodziny/koordynacja_miedzyinstytucjonalna': 'instytucje_wsparcia_dziecka_i_rodziny/system_wsparcia_dziecka_i_rodziny',
@@ -986,19 +996,10 @@ window.SITE_CONFIG = {
       section: 'Psychosomatyka',
       domainKey: 'psychosomatyka',
       items: [
-        { id: 'psychosomatyka/wprowadzenie',               label: 'Psychosomatyka',    file: 'wiki/psychosomatyka/wprowadzenie.md'               },
-        { id: 'psychosomatyka/historia_psychosomatyki',                   label: 'Historia psychosomatyki',           file: 'wiki/psychosomatyka/historia_psychosomatyki.md'                  },
-        { id: 'psychosomatyka/modele_psychosomatyczne',    label: 'Modele psychosomatyczne',           file: 'wiki/psychosomatyka/modele_psychosomatyczne.md'   },
-        { id: 'psychosomatyka/os_hpa',                     label: 'Os HPA i mechanizmy stresu',        file: 'wiki/psychosomatyka/os_hpa.md'                    },
-        { id: 'psychosomatyka/somatyzacja',                label: 'Somatyzacja i zaburzenia somatyczne', file: 'wiki/psychosomatyka/somatyzacja.md'             },
-        { id: 'psychosomatyka/bol_psychosomatyczny',       label: 'Ból psychosomatyczny',              file: 'wiki/psychosomatyka/bol_psychosomatyczny.md'      },
-        { id: 'psychosomatyka/psychodermatologia',         label: 'Psychodermatologia',                file: 'wiki/psychosomatyka/psychodermatologia.md'        },
-        { id: 'psychosomatyka/psychogastroenterologia',    label: 'Psychogastroenterologia',           file: 'wiki/psychosomatyka/psychogastroenterologia.md'   },
-        { id: 'psychosomatyka/psychokardiologia',          label: 'Psychokardiologia',                 file: 'wiki/psychosomatyka/psychokardiologia.md'         },
-        { id: 'psychosomatyka/uklad_oddechowy',            label: 'Psychosomatyka ukladu oddechowego', file: 'wiki/psychosomatyka/uklad_oddechowy.md'           },
-        { id: 'psychosomatyka/choroby_autoimmunologiczne', label: 'Choroby autoimmunologiczne',        file: 'wiki/psychosomatyka/choroby_autoimmunologiczne.md'},
-        { id: 'psychosomatyka/diagnoza_psychosomatyczna',  label: 'Diagnoza psychosomatyczna',         file: 'wiki/psychosomatyka/diagnoza_psychosomatyczna.md' },
-        { id: 'psychosomatyka/terapia_psychosomatyczna',   label: 'Terapia psychosomatyczna',          file: 'wiki/psychosomatyka/terapia_psychosomatyczna.md'  },
+        { id: 'psychosomatyka/wprowadzenie', label: 'Podstawy i modele psychosomatyki', file: 'wiki/psychosomatyka/wprowadzenie.md' },
+        { id: 'psychosomatyka/somatyzacja', label: 'Somatyzacja i diagnoza', file: 'wiki/psychosomatyka/somatyzacja.md' },
+        { id: 'psychosomatyka/terapia_psychosomatyczna', label: 'Pomoc psychologiczna w objawach somatycznych', file: 'wiki/psychosomatyka/terapia_psychosomatyczna.md' },
+        { id: 'psychosomatyka/psychologiczne_aspekty_chorob_somatycznych', label: 'Psychologia w chorobach somatycznych', file: 'wiki/psychosomatyka/psychologiczne_aspekty_chorob_somatycznych.md' },
       ]
     },
     
@@ -1581,19 +1582,10 @@ window.SITE_CONFIG = {
       { file: 'wiki/psychologia_zdrowia/interwencje_zdrowotne.md', label: 'Komunikacja i interwencje w opiece zdrowotnej', status: 'live' },
     ],
     psychosomatics: [
-      { file: 'wiki/psychosomatyka/wprowadzenie.md',               label: 'Psychosomatyka',                      status: 'live' },
-      { file: 'wiki/psychosomatyka/historia_psychosomatyki.md',                   label: 'Historia psychosomatyki',             status: 'live' },
-      { file: 'wiki/psychosomatyka/modele_psychosomatyczne.md',    label: 'Modele psychosomatyczne',             status: 'live' },
-      { file: 'wiki/psychosomatyka/os_hpa.md',                     label: 'Os HPA i mechanizmy stresu',          status: 'live' },
-      { file: 'wiki/psychosomatyka/somatyzacja.md',                label: 'Somatyzacja i zaburzenia somatyczne', status: 'live' },
-      { file: 'wiki/psychosomatyka/bol_psychosomatyczny.md',       label: 'Ból psychosomatyczny',                status: 'live' },
-      { file: 'wiki/psychosomatyka/psychodermatologia.md',         label: 'Psychodermatologia',                  status: 'live' },
-      { file: 'wiki/psychosomatyka/psychogastroenterologia.md',    label: 'Psychogastroenterologia',             status: 'live' },
-      { file: 'wiki/psychosomatyka/psychokardiologia.md',          label: 'Psychokardiologia',                   status: 'live' },
-      { file: 'wiki/psychosomatyka/uklad_oddechowy.md',            label: 'Psychosomatyka ukladu oddechowego',   status: 'live' },
-      { file: 'wiki/psychosomatyka/choroby_autoimmunologiczne.md', label: 'Choroby autoimmunologiczne',          status: 'live' },
-      { file: 'wiki/psychosomatyka/diagnoza_psychosomatyczna.md',  label: 'Diagnoza psychosomatyczna',           status: 'live' },
-      { file: 'wiki/psychosomatyka/terapia_psychosomatyczna.md',   label: 'Terapia psychosomatyczna',            status: 'live' },
+      { file: 'wiki/psychosomatyka/wprowadzenie.md', label: 'Podstawy i modele psychosomatyki', status: 'live' },
+      { file: 'wiki/psychosomatyka/somatyzacja.md', label: 'Somatyzacja i diagnoza', status: 'live' },
+      { file: 'wiki/psychosomatyka/terapia_psychosomatyczna.md', label: 'Pomoc psychologiczna w objawach somatycznych', status: 'live' },
+      { file: 'wiki/psychosomatyka/psychologiczne_aspekty_chorob_somatycznych.md', label: 'Psychologia w chorobach somatycznych', status: 'live' },
     ],
     disability_psychology: [
       { file: 'wiki/psychologia_niepelnosprawnosci/wprowadzenie.md',                  label: 'Psychologia niepelnosprawnosci - wprow.',       status: 'live' },
@@ -2390,44 +2382,15 @@ window.SITE_CONFIG = {
 
     psychosomatics: {
       title: 'WIKI - Psychosomatyka',
-      intro: 'Psychosomatyka bada wzajemne relacje miedzy procesami psychicznymi, a cialem - od osi HPA i aleksytymii po psychodermatologie, psychokardiologie i terapie psychosomatyczna.',
+      intro: 'Rzetelne, biopsychospołeczne ujęcie relacji między objawami, chorobą somatyczną, stresem, diagnozą i pomocą psychologiczną.',
       sections: [
         {
-          title: 'Podstawy i historia',
+          title: 'Psychosomatyka',
           articles: [
-            { label: 'Psychosomatyka',                  id: 'psychosomatyka/wprowadzenie',            status: 'live' },
-            { label: 'Historia psychosomatyki',         id: 'psychosomatyka/historia_psychosomatyki',                status: 'live' },
-            { label: 'Modele psychosomatyczne',         id: 'psychosomatyka/modele_psychosomatyczne', status: 'live' },
-          ]
-        },
-        {
-          title: 'Mechanizmy biologiczne',
-          articles: [
-            { label: 'Os HPA i mechanizmy stresu',      id: 'psychosomatyka/os_hpa',                  status: 'live' },
-          ]
-        },
-        {
-          title: 'Zaburzenia i somatyzacja',
-          articles: [
-            { label: 'Somatyzacja i zaburzenia somatyczne', id: 'psychosomatyka/somatyzacja',         status: 'live' },
-            { label: 'Ból psychosomatyczny',            id: 'psychosomatyka/bol_psychosomatyczny',    status: 'live' },
-          ]
-        },
-        {
-          title: 'Uklady narzadowe',
-          articles: [
-            { label: 'Psychodermatologia',              id: 'psychosomatyka/psychodermatologia',      status: 'live' },
-            { label: 'Psychogastroenterologia',         id: 'psychosomatyka/psychogastroenterologia', status: 'live' },
-            { label: 'Psychokardiologia',               id: 'psychosomatyka/psychokardiologia',       status: 'live' },
-            { label: 'Psychosomatyka ukladu oddechowego', id: 'psychosomatyka/uklad_oddechowy',       status: 'live' },
-            { label: 'Choroby autoimmunologiczne',      id: 'psychosomatyka/choroby_autoimmunologiczne', status: 'live' },
-          ]
-        },
-        {
-          title: 'Praktyka kliniczna',
-          articles: [
-            { label: 'Diagnoza psychosomatyczna',       id: 'psychosomatyka/diagnoza_psychosomatyczna', status: 'live' },
-            { label: 'Terapia psychosomatyczna',        id: 'psychosomatyka/terapia_psychosomatyczna',  status: 'live' },
+            { label: 'Podstawy i modele psychosomatyki', id: 'psychosomatyka/wprowadzenie', status: 'live' },
+            { label: 'Somatyzacja i diagnoza', id: 'psychosomatyka/somatyzacja', status: 'live' },
+            { label: 'Pomoc psychologiczna w objawach somatycznych', id: 'psychosomatyka/terapia_psychosomatyczna', status: 'live' },
+            { label: 'Psychologia w chorobach somatycznych', id: 'psychosomatyka/psychologiczne_aspekty_chorob_somatycznych', status: 'live' },
           ]
         },
       ]

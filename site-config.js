@@ -15,6 +15,16 @@ window.SITE_CONFIG = {
 
   // Zachowuje dawne adresy SPA po scaleniu lub przeniesieniu artykułów.
   articleRedirects: {
+    'uzaleznienia/kryteria_diagnostyczne': 'uzaleznienia/mechanizmy_i_diagnoza_uzaleznien',
+    'uzaleznienia/neurobiologia_uzaleznien': 'uzaleznienia/mechanizmy_i_diagnoza_uzaleznien',
+    'uzaleznienia/internet_uzaleznienie': 'uzaleznienia/uzaleznienia_behawioralne',
+    'uzaleznienia/dialog_motywujacy': 'uzaleznienia/recovery',
+    'uzaleznienia/terapia_grupowa': 'uzaleznienia/recovery',
+    'uzaleznienia/zapobieganie_nawrotom': 'uzaleznienia/recovery',
+    'uzaleznienia/profilaktyka': 'uzaleznienia/recovery',
+    'uzaleznienia/rodzina_w_uzaleznieniach': 'uzaleznienia/uzaleznienie_w_rodzinie_i_u_mlodziezy',
+    'uzaleznienia/wspoluzaleznienie': 'uzaleznienia/uzaleznienie_w_rodzinie_i_u_mlodziezy',
+    'uzaleznienia/uzaleznienia_mlodziezy': 'uzaleznienia/uzaleznienie_w_rodzinie_i_u_mlodziezy',
     'temperament/biologia_temperamentu': 'temperament/biologia_rozwoj_i_pomiar_temperamentu',
     'temperament/eysenck': 'temperament/modele',
     'temperament/gray': 'temperament/modele',
@@ -758,22 +768,14 @@ window.SITE_CONFIG = {
         { id: 'psychologia_religii/metodologia_badan', label: 'Metodologia badań nad religią i moralnością', file: 'wiki/psychologia_religii/metodologia_badan.md' },
         ]
     },
-    { /* Psychologia uzaleznien */
-      section: 'Psychologia uzaleznien',
+    { /* Psychologia uzależnień */
+      section: 'Psychologia uzależnień',
       domainKey: 'uzaleznienia',
       items: [
-        { id: 'uzaleznienia/kryteria_diagnostyczne', label: 'Kryteria diagnostyczne', file: 'wiki/uzaleznienia/kryteria_diagnostyczne.md' },
-        { id: 'uzaleznienia/dialog_motywujacy', label: 'Dialog motywujacy', file: 'wiki/uzaleznienia/dialog_motywujacy.md' },
-        { id: 'uzaleznienia/zapobieganie_nawrotom', label: 'Zapobieganie nawrotom', file: 'wiki/uzaleznienia/zapobieganie_nawrotom.md' },
-        { id: 'uzaleznienia/uzaleznienia_mlodziezy', label: 'Uzależnienia u młodzieży', file: 'wiki/uzaleznienia/uzaleznienia_mlodziezy.md' },
-        { id: 'uzaleznienia/wspoluzaleznienie', label: 'Wspoluzaleznienie', file: 'wiki/uzaleznienia/wspoluzaleznienie.md' },
-        { id: 'uzaleznienia/profilaktyka', label: 'Profilaktyka uzależnień', file: 'wiki/uzaleznienia/profilaktyka.md' },
-        { id: 'uzaleznienia/uzaleznienia_behawioralne', label: 'Uzaleznienia behawioralne',              file: 'wiki/uzaleznienia/uzaleznienia_behawioralne.md' },
-        { id: 'uzaleznienia/neurobiologia_uzaleznien',  label: 'Neurobiologia uzalezniel',               file: 'wiki/uzaleznienia/neurobiologia_uzaleznien.md'  },
-        { id: 'uzaleznienia/rodzina_w_uzaleznieniach',  label: 'Rodzina w systemie uzaleznienia',        file: 'wiki/uzaleznienia/rodzina_w_uzaleznieniach.md'  },
-        { id: 'uzaleznienia/internet_uzaleznienie',     label: 'Uzaleznienie od internetu i technologii',file: 'wiki/uzaleznienia/internet_uzaleznienie.md'     },
-        { id: 'uzaleznienia/terapia_grupowa',           label: 'Terapia grupowa w uzaleznieniach',       file: 'wiki/uzaleznienia/terapia_grupowa.md'           },
-        { id: 'uzaleznienia/recovery',                  label: 'Recovery - droga do zdrowia',            file: 'wiki/uzaleznienia/recovery.md'                  },
+        { id: 'uzaleznienia/mechanizmy_i_diagnoza_uzaleznien', label: 'Mechanizmy i diagnoza uzależnień', file: 'wiki/uzaleznienia/mechanizmy_i_diagnoza_uzaleznien.md' },
+        { id: 'uzaleznienia/uzaleznienia_behawioralne', label: 'Uzależnienia behawioralne i technologie', file: 'wiki/uzaleznienia/uzaleznienia_behawioralne.md' },
+        { id: 'uzaleznienia/recovery', label: 'Leczenie, zdrowienie i nawroty', file: 'wiki/uzaleznienia/recovery.md' },
+        { id: 'uzaleznienia/uzaleznienie_w_rodzinie_i_u_mlodziezy', label: 'Uzależnienie w rodzinie i u młodzieży', file: 'wiki/uzaleznienia/uzaleznienie_w_rodzinie_i_u_mlodziezy.md' },
       ]
     },
     { /* Relacje i związki */
@@ -1748,18 +1750,10 @@ window.SITE_CONFIG = {
       { file: 'wiki/kulturowa/akulturacja_relacje_i_zdrowie.md', label: 'Akulturacja, relacje i zdrowie', status: 'live' },
     ],
     uzaleznienia: [
-      { file: 'wiki/uzaleznienia/kryteria_diagnostyczne.md',     label: 'Kryteria diagnostyczne',             status: 'live' },
-      { file: 'wiki/uzaleznienia/dialog_motywujacy.md',          label: 'Dialog motywujacy',                  status: 'live' },
-      { file: 'wiki/uzaleznienia/zapobieganie_nawrotom.md',      label: 'Zapobieganie nawrotom',              status: 'live' },
-      { file: 'wiki/uzaleznienia/uzaleznienia_mlodziezy.md',     label: 'Uzależnienia u młodzieży',           status: 'live' },
-      { file: 'wiki/uzaleznienia/wspoluzaleznienie.md',          label: 'Wspoluzaleznienie',                  status: 'live' },
-      { file: 'wiki/uzaleznienia/profilaktyka.md', label: 'Profilaktyka uzależnień', status: 'live' },
-      { file: 'wiki/uzaleznienia/uzaleznienia_behawioralne.md', label: 'Uzaleznienia behawioralne',              status: 'live' },
-      { file: 'wiki/uzaleznienia/neurobiologia_uzaleznien.md',  label: 'Neurobiologia uzalezniel',               status: 'live' },
-      { file: 'wiki/uzaleznienia/rodzina_w_uzaleznieniach.md',  label: 'Rodzina w systemie uzaleznienia',        status: 'live' },
-      { file: 'wiki/uzaleznienia/internet_uzaleznienie.md',     label: 'Uzaleznienie od internetu i technologii',status: 'live' },
-      { file: 'wiki/uzaleznienia/terapia_grupowa.md',           label: 'Terapia grupowa w uzaleznieniach',       status: 'live' },
-      { file: 'wiki/uzaleznienia/recovery.md',                  label: 'Recovery - droga do zdrowia',            status: 'live' },
+      { file: 'wiki/uzaleznienia/mechanizmy_i_diagnoza_uzaleznien.md', label: 'Mechanizmy i diagnoza uzależnień', status: 'live' },
+      { file: 'wiki/uzaleznienia/uzaleznienia_behawioralne.md', label: 'Uzależnienia behawioralne i technologie', status: 'live' },
+      { file: 'wiki/uzaleznienia/recovery.md', label: 'Leczenie, zdrowienie i nawroty', status: 'live' },
+      { file: 'wiki/uzaleznienia/uzaleznienie_w_rodzinie_i_u_mlodziezy.md', label: 'Uzależnienie w rodzinie i u młodzieży', status: 'live' },
     ],
     relacje: [
       { file: 'wiki/relacje/przywiezanie_doroslych.md',          label: 'Style przywiazania u doroslych',     status: 'live' },
@@ -2050,51 +2044,22 @@ window.SITE_CONFIG = {
     },
 
     uzaleznienia: {
-      title: 'WIKI - Psychologia uzaleznien',
-      intro: 'Mechanizmy uzaleznien, diagnoza, terapia i profilaktyka - od neurobiologii nalogu po prace z rodzina.',
+      title: 'WIKI - Psychologia uzależnień',
+      intro: 'Mechanizmy, diagnoza i zmiana w kontekście zachowań, technologii, rodziny oraz rozwoju.',
       sections: [
         {
-          title: 'Mechanizmy i diagnoza',
+          title: 'Cztery opracowania kanoniczne',
           articles: [
-            { label: 'Neurobiologia uzalezniel', id: 'farmakologia/neurofarmakologia', status: 'xlink' },
-            { label: 'Zaburzenia odżywiania i uzależnienia', id: 'psychopatologia/zaburzenia_odzywiania_i_uzaleznienia', status: 'xlink' },
-            { label: 'Kryteria diagnostyczne', id: 'uzaleznienia/kryteria_diagnostyczne', status: 'live' },
+            { label: 'Mechanizmy i diagnoza uzależnień', id: 'uzaleznienia/mechanizmy_i_diagnoza_uzaleznien', status: 'live' },
+            { label: 'Uzależnienia behawioralne i technologie', id: 'uzaleznienia/uzaleznienia_behawioralne', status: 'live' },
+            { label: 'Leczenie, zdrowienie i nawroty', id: 'uzaleznienia/recovery', status: 'live' },
+            { label: 'Uzależnienie w rodzinie i u młodzieży', id: 'uzaleznienia/uzaleznienie_w_rodzinie_i_u_mlodziezy', status: 'live' },
           ]
         },
         {
           title: 'Farmakoterapia',
           articles: [
-            { label: 'Neurofarmakologia', id: 'farmakologia/neurofarmakologia', status: 'live' },
-            { label: 'Główne klasy leków psychotropowych', id: 'psychofarmakologia/klasy_lekow_psychotropowych', status: 'live' },
-            { label: 'Farmakoterapia uzależnień', id: 'psychofarmakologia/11_leki_w_terapii_uzaleznien', status: 'live' },
-            { label: 'Psychodeliki w terapii', id: 'farmakologia/psychodeliki', status: 'live' },
-          ]
-        },
-        {
-          title: 'Terapia',
-          articles: [
-            { label: 'Dialog motywujacy', id: 'uzaleznienia/dialog_motywujacy', status: 'live' },
-            { label: 'CBT w uzaleznieniach', id: 'psychoterapia/cbt', status: 'xlink' },
-            { label: 'Zapobieganie nawrotom', id: 'uzaleznienia/zapobieganie_nawrotom', status: 'live' },
-          ]
-        },
-        {
-          title: 'Konteksty',
-          articles: [
-            { label: 'Uzależnienia u młodzieży', id: 'uzaleznienia/uzaleznienia_mlodziezy', status: 'live' },
-            { label: 'Wspoluzaleznienie', id: 'uzaleznienia/wspoluzaleznienie', status: 'live' },
-            { label: 'Profilaktyka uzależnień', id: 'uzaleznienia/profilaktyka', status: 'live' },
-          ]
-        },
-        {
-          title: 'Neurobiologia i zaawansowane zagadnienia',
-          articles: [
-            { label: 'Neurobiologia uzalezniel',               id: 'uzaleznienia/neurobiologia_uzaleznien',   status: 'live' },
-            { label: 'Uzaleznienia behawioralne',              id: 'uzaleznienia/uzaleznienia_behawioralne',  status: 'live' },
-            { label: 'Uzaleznienie od internetu i technologii',id: 'uzaleznienia/internet_uzaleznienie',      status: 'live' },
-            { label: 'Rodzina w systemie uzaleznienia',        id: 'uzaleznienia/rodzina_w_uzaleznieniach',   status: 'live' },
-            { label: 'Terapia grupowa w uzaleznieniach',       id: 'uzaleznienia/terapia_grupowa',            status: 'live' },
-            { label: 'Recovery - droga do zdrowia',           id: 'uzaleznienia/recovery',                   status: 'live' },
+            { label: 'Farmakoterapia uzależnień', id: 'psychofarmakologia/11_leki_w_terapii_uzaleznien', status: 'xlink' },
           ]
         },
       ]

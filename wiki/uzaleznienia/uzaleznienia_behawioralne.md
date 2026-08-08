@@ -1,170 +1,55 @@
-﻿---
-lastReviewed: 2026-04-01
+---
+lastReviewed: 2026-08-08
 reviewCycleMonths: 24
-evidenceCutoffDate: 2025-12-31
+evidenceCutoffDate: 2026-08-08
+aliases:
+  - nałogi behawioralne
 ---
 
-# Uzależnienia behawioralne
+# Uzależnienia behawioralne i technologie
 
-## Wprowadzenie
+Powtarzalna aktywność bez przyjmowania substancji może stać się źródłem poważnych szkód. Nie wynika z tego jednak, że każda przyjemna, częsta albo cyfrowa czynność jest uzależnieniem. Pojęcie wymaga ostrożności: o problemie klinicznym świadczą przede wszystkim utrata kontroli, rosnący priorytet zachowania, jego kontynuowanie mimo konsekwencji oraz istotne pogorszenie funkcjonowania.
 
-Przez dekady „uzależnienie" było utożsamiane wyłącznie z zależnością od substancji psychoaktywnych. Jednak obserwacje kliniczne i badania neurobiologiczne stopniowo ujawniały, że pewne zachowania - hazard, gry komputerowe, zakupy, seks, praca - mogą angażować te same mechanizmy mózgowe co narkotyki i prowadzić do wzorców funkcjonowania spełniających kryteria uzależnienia. Tak zrodziła się koncepcja **uzależnień behawioralnych** (*behavioral addictions*, *process addictions*).
+## Status diagnostyczny
 
----
+**Zaburzenie hazardowe** ma najsilniej ugruntowany status. DSM-5-TR klasyfikuje je wśród zaburzeń związanych z substancjami i uzależnieniowych, a ICD-11 wśród zaburzeń wynikających z zachowań uzależniających. Ocenia się uporczywy wzorzec, kontrolę, szkody finansowe i relacyjne, próby odzyskiwania strat oraz przebieg, a nie samą częstotliwość gry.
 
-## Definicja i klasyfikacja
+**Zaburzenie grania** (*gaming disorder*) jest formalnym rozpoznaniem ICD-11. Wymaga upośledzonej kontroli, pierwszeństwa nadawanego graniu i kontynuacji mimo negatywnych następstw, zwykle przez co najmniej 12 miesięcy, wraz ze znacznym pogorszeniem funkcjonowania. Może dotyczyć grania online albo offline. DSM-5-TR umieszcza *Internet Gaming Disorder* w sekcji stanów wymagających dalszych badań, nie jako pełnoprawne rozpoznanie głównej klasyfikacji.
 
-**Uzależnienie behawioralne** to stan, w którym powtarzające się angażowanie w określone zachowanie (aktywność nagradzającą) przejmuje kontrolę nad życiem jednostki, mimo negatywnych konsekwencji. Charakteryzuje się:
+Inne postulowane „uzależnienia”, na przykład od zakupów, pracy, mediów społecznościowych czy smartfona, nie tworzą obecnie odrębnych rozpoznań uzależnieniowych w DSM-5-TR ani ICD-11. ICD-11 klasyfikuje kompulsywne zachowania seksualne jako zaburzenie kontroli impulsów, a nie uzależnienie. Podobieństwo objawów lub aktywacji mózgu nie wystarcza do ustanowienia nowej jednostki: potrzebne są trafne kryteria, odróżnienie od normy i innych zaburzeń oraz dowody użyteczności klinicznej.
 
-- **Utratą kontroli** nad częstotliwością i intensywnością zachowania
-- **Nasileniem** - potrzebą coraz intensywniejszych bodźców (tolerancja)
-- **Głodem** (*craving*) - przymusem podjęcia zachowania
-- **Negatywnym afektem** przy próbie powstrzymania się (odpowiednik abstynencji)
-- **Kontynuowaniem** mimo szkód w relacjach, pracy, zdrowiu
+## Internet nie jest jednym zachowaniem
 
-### Status diagnostyczny
+„Uzależnienie od internetu” łączy odmienne aktywności: granie, hazard, pornografię, zakupy, kontakt społeczny, oglądanie materiałów, naukę i pracę. Internet bywa środowiskiem dostępu, a nie przedmiotem zaburzenia. Diagnozowanie ogólnej kategorii zaciera mechanizm i może prowadzić do złego leczenia. Należy ustalić, **co osoba robi**, jaką funkcję pełni aktywność, w jakich warunkach traci nad nią kontrolę i jakie powstają szkody.
 
-- **ICD-11**: *Hazard* i *zaburzenie gier* (*gaming disorder*) są jedynymi uzależnieniami behawioralnymi z pełnym statusem diagnostycznym; *kompulsywne zachowania seksualne* w osobnej kategorii
-- **DSM-5-TR**: Tylko *gambling disorder* jako formalne uzależnienie behawioralne; *internet gaming disorder* w sekcji do dalszych badań
+Projekt usług może wzmacniać powtarzanie przez zmienne nagrody, automatyczne odtwarzanie, powiadomienia, społeczne potwierdzenie lub zakupy wewnątrz gry. Nie tworzy to jednak jednej „pętli dopaminowej”, która jednakowo działa na wszystkich. Znaczenie mają również cele użytkownika, podatność, treść, normy grupy, alternatywy poza siecią i model biznesowy platformy.
 
----
+## Intensywne używanie, problemowe używanie i zaburzenie
 
-## Hazard
+- **Intensywne używanie** oznacza dużo czasu lub duże zaangażowanie. Może być celowe i zgodne z obowiązkami, na przykład podczas turnieju, nauki albo podtrzymywania więzi.
+- **Problemowe używanie** powoduje powtarzające się trudności lub ryzyko, lecz nie musi spełniać kryteriów formalnego zaburzenia. Jest wskazaniem do oceny i możliwej wczesnej interwencji.
+- **Zaburzenie** wymaga określonego, utrwalonego wzorca oraz klinicznie istotnego cierpienia lub pogorszenia funkcjonowania, nie samego wysokiego wyniku w skali przesiewowej.
 
-**Zaburzenie hazardowe** (*gambling disorder*) było pierwszym uzależnieniem behawioralnym uznanym przez DSM. Kryteria analogiczne do SUD:
+Czas przed ekranem jest zatem początkiem pytania, a nie diagnozą. Trzeba ocenić sen, zdrowie, naukę lub pracę, finanse, relacje, bezpieczeństwo i zdolność realizowania uzgodnionych ograniczeń. Krótkotrwały wzrost aktywności, zainteresowanie subkulturą czy irytacja po przerwaniu nie wystarczają do rozpoznania.
 
-- Preokupacja hazardem (planowanie kolejnych sesji, szukanie pieniędzy)
-- Potrzeba coraz wyższych stawek (tolerancja)
-- Nieudane próby ograniczenia lub zaprzestania
-- Niepokój lub drażliwość przy próbie ograniczenia (*withdrawal-like*)
-- Uciekanie od problemów przez hazard
-- Powrót po stratach (*chasing losses*)
-- Okłamywanie bliskich
-- Ryzykowanie lub utrata ważnych relacji/pracy z powodu hazardu
-- Poleganie na pomocy innych w spłacaniu długów
+## Funkcja aktywności i diagnoza różnicowa
 
-Prevalencja: 0,5–3% populacji dorosłych; wyższy wskaźnik u mężczyzn. Hazard online drastycznie obniżył progi dostępu i zwiększył ryzyko.
+Ta sama czynność może służyć rywalizacji, przynależności, regulacji emocji, unikaniu zagrożenia, redukcji samotności albo zarabianiu. Jeżeli granie jest jedynym dostępnym miejscem kontaktu społecznego, samo odebranie sprzętu może zwiększyć izolację. Plan pomocy powinien zachować funkcje adaptacyjne i budować bezpieczne alternatywy.
 
----
+Ocena różnicowa obejmuje depresję, lęk społeczny, ADHD, manię lub hipomanię, OCD, traumę, zaburzenia snu, autyzm oraz problemy rodzinne i szkolne. Aktywność może być przyczyną, konsekwencją albo sposobem radzenia sobie z inną trudnością. U młodszych osób wywiad warto zebrać z kilku źródeł, nie utożsamiając konfliktu o zasady domowe z dowodem choroby.
 
-## Uzależnienie od gier wideo - *gaming disorder*
+## Pomoc i redukcja szkód
 
-**Zaburzenie gier** (*gaming disorder*, ICD-11, 6C51) charakteryzuje się:
-- Osłabioną kontrolą nad graniem (czas, intensywność, częstotliwość)
-- Priorytetem grania ponad inne aktywności
-- Kontynuowaniem mimo negatywnych konsekwencji
-- Trwanie 12 miesięcy (lub krócej przy ciężkim nasileniu)
+Najlepiej zbadane interwencje psychologiczne wykorzystują elementy terapii poznawczo-behawioralnej: monitorowanie wzorca, pracę nad wyzwalaczami, planowanie alternatyw, ograniczanie dostępu do ryzykownych funkcji i leczenie problemów współwystępujących. W hazardzie ochronę zwiększają limity wydatków i czasu, samowykluczenie oraz utrudnienie dostępu do kredytu. Przy technologiach cel nie zawsze oznacza całkowitą abstynencję; częściej chodzi o odzyskanie kontroli i funkcjonowania.
 
-Debata akademicka jest żywa - Ferguson (2017) i inni krytycy wskazują na:
-- Brak spójnych kryteriów w badaniach
-- Ryzyko patologizowania normalnego hobby
-- Korelaty zaburzenia (depresja, ADHD) mogą być pierwotne, nie wtórne
-- Trudności z rozróżnieniem intensywnego grania od patologicznego
-
----
-
-## Zakupoholizm
-
-**Kompulsywne kupowanie** (*compulsive buying disorder*) - szacowana prevalencja 5–8% w krajach zachodnich. Cechy:
-
-- Natrętne myśli o zakupach; uczucie ulgi lub euforii podczas kupowania
-- Kupowanie jako regulacja emocji negatywnych
-- Ukrywanie zakupów przed bliskimi, zaciąganie długów
-- Poczucie winy po zakupach, mimo to nawrót
-
-Zakupoholizm jest silnie powiązany z materializmem, depresją i lękiem. Wyróżnia się dwa typy: **impulsywne** (nieplanowane zakupy pod wpływem chwili) i **kompulsywne** (rytualne, powtarzalne).
-
----
-
-## Pracoholizm
-
-**Pracoholizm** to nadmierne, przymusowe zaangażowanie w pracę, nieproporcjonalne do wymagań zawodowych i szkodliwe dla innych obszarów życia. Różni się od zaangażowania pracowniczego (*work engagement*) - pracoholicy nie odczuwają przyjemności z pracy, lecz niepokój gdy nie pracują.
-
-Skala WorkBAT (Spence & Robbins, 1992) mierzy trzy wymiary:
-1. **Zaangażowanie** (*work involvement*)
-2. **Napędzanie** (*driven to work*)
-3. **Przyjemność z pracy** (*work enjoyment*)
-
-Pracoholik ma wysokie wyniki na 1 i 2, niskie na 3.
-
----
-
-## Uzależnienie od seksu
-
-Mimo kontrowersji diagnostycznych (brak formalnego statusu w DSM-5), **kompulsywne zachowania seksualne** (*CSBD*) zostały uwzględnione w ICD-11. Obejmują:
-
-- Natrętne fantazje seksualne i zachowania trudne do kontroli
-- Seks jako odpowiedź na dysforię lub stres
-- Kontynuowanie mimo szkód relacyjnych i ryzyka
-- Nieudane próby ograniczenia
-
-Należy odróżnić CSBD od **hiperseksualności** jako objawu choroby afektywnej dwubiegunowej, ADHD lub neurobiologicznych skutków leków (dopaminomimetyki).
-
----
-
-## Uzależnienie od mediów społecznościowych
-
-Choć nie ma formalnego statusu diagnostycznego, **problematyczne używanie mediów społecznościowych** (*PSMU*) spełnia kryteria behawioralne uzależnienia:
-
-- Nadmierne zaangażowanie (scrollowanie przez kilka godzin)
-- Głód - dyskomfort bez dostępu
-- Negatywny afekt przy próbie rezygnacji
-- Konflikty z bliskimi, zaniedbywanie obowiązków
-- Poczucie winy i niemożność kontroli
-
-Powiązanie z dobrostanem jest jednak nieliniowe: niektóre badania wskazują krzywolinijną zależność - umiarkowane używanie mediów nie jest szkodliwe, a może być korzystne.
-
----
-
-## Wspólne mechanizmy z uzależnieniami od substancji
-
-| Mechanizm | Uzależnienie od substancji | Uzależnienie behawioralne |
-|-----------|---------------------------|--------------------------|
-| **Układ nagrody** | Bezpośrednia aktywacja przez substancję | Aktywacja przez zachowanie nagradzające |
-| **Dopamina** | Podwyższona przy ekspozycji | Podwyższona przy anticipacji nagrody |
-| **Tolerancja** | Potrzeba większych dawek | Potrzeba coraz intensywniejszych bodźców |
-| **Głód** | Trigger-induced craving | Craving wyzwalany przez cue (gra, sklep) |
-| **Abstynencja** | Objawy fizyczne i psychiczne | Drażliwość, lęk, dyskomfort |
-| **Utrata kontroli** | Niemożność zaprzestania | Niemożność zaprzestania |
-
----
-
-## Diagnoza i ocena kliniczna
-
-W diagnozie uzależnień behawioralnych należy wykluczyć lub uwzględnić:
-
-1. **Zaburzenia pierwotne** - ADHD, OCD, choroba afektywna dwubiegunowa jako etiologia
-2. **Nasilenie** - intensywne zaangażowanie nie jest patologią; kryterium jest utrata kontroli i szkody
-3. **Kontekst kulturowy** - intensywne granie w Azji Wschodniej ma inny kontekst społeczny niż na Zachodzie
-4. **Narzędzia przesiewowe**: Bergen Work Addiction Scale, Internet Gaming Disorder Scale, Yale-Brown Obsessive Compulsive Scale (modyfikacje dla zachowań)
-
----
-
-
-
-Uzależnienia behawioralne stawiają psychologię przed wyzwaniem rozszerzenia modelu uzależnienia poza substancje, zachowując precyzję diagnostyczną i unikając nadpatologizowania normalnych zachowań. Wspólne neurobiologiczne podłoże z uzależnieniami od substancji uzasadnia leczenie podobnymi podejściami: CBT, terapia dialektyczna, farmakoterapia (naltrekson).
-
----## Bibliografia
-
-- American Psychiatric Association. (2022). *Diagnostic and Statistical Manual of Mental Disorders* (5th ed., text rev.). APA Publishing.
-- Ferguson, C. J. (2017). Everything in moderation: Moderate use of screens unassociated with child behavior problems. *Psychiatric Quarterly, 88*(4), 797–805.
-- Griffiths, M. D. (2005). A 'components' model of addiction within a biopsychosocial framework. *Journal of Substance Use, 10*(4), 191–197.
-- Potenza, M. N. (2008). The neurobiology of pathological gambling and drug addiction. *Philosophical Transactions of the Royal Society B, 363*(1507), 3181–3189.
-- Spence, J. T., & Robbins, A. S. (1992). Workaholism: Definition, measurement, and preliminary results. *Journal of Personality Assessment, 58*(1), 160–178.
-- World Health Organization. (2019). *International Classification of Diseases* (11th rev.). WHO.
-
-
-
-
-
-
+Dowody dla wielu etykiet i metod pozostają niejednorodne. Pomoc nie powinna czekać na formalną diagnozę, gdy występują długi, przemoc, zaniedbanie podstawowych potrzeb, ryzyko samobójcze albo inne bezpośrednie zagrożenie.
 
 ## Bibliografia
 
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
-
-
+- American Psychiatric Association. (2022). *Diagnostic and Statistical Manual of Mental Disorders* (5th ed., text rev.).
+- Billieux, J., Schimmenti, A., Khazaal, Y., Maurage, P., & Heeren, A. (2015). Are we overpathologizing everyday life? *Journal of Behavioral Addictions, 4*(3), 119–123.
+- Brand, M., Rumpf, H.-J., Demetrovics, Z., et al. (2022). Which conditions should be considered as disorders in the ICD-11 designation of “other specified disorders due to addictive behaviors”? *Journal of Behavioral Addictions, 11*(2), 150–159.
+- Kardefelt-Winther, D., Heeren, A., Schimmenti, A., et al. (2017). How can we conceptualize behavioural addiction without pathologizing common behaviours? *Addiction, 112*(10), 1709–1715.
+- King, D. L., & Delfabbro, P. H. (2018). *Internet Gaming Disorder: Theory, Assessment, Treatment, and Prevention*. Academic Press.
+- Rumpf, H.-J., Achab, S., Billieux, J., et al. (2018). Including gaming disorder in the ICD-11. *Journal of Behavioral Addictions, 7*(3), 556–561.
+- World Health Organization. (2026). *ICD-11 for Mortality and Morbidity Statistics: Disorders due to addictive behaviours*.

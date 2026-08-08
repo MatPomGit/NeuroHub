@@ -282,3 +282,9 @@ Z materiału usunięto lokalizacjonizm „jedna struktura, jedna funkcja”, neu
 Dwanaście dotychczasowych tekstów domeny uporządkowano w cztery artykuły kanoniczne odpowiadające kolejnym pytaniom: jak wyjaśniać i badać rozwój, jak przebiega dzieciństwo, czym charakteryzuje się adolescencja oraz jak zmiana trwa w dorosłości. Osiem dawnych plików pozostaje bezpośrednimi przekierowaniami do właściwych sekcji, a nawigacja pokazuje wyłącznie cztery opracowania.
 
 Treść odróżnia kamienie milowe i modele etapowe od sztywnych norm. Przywiązanie przedstawiono jako system relacyjny, rozwój adolescenta bez redukowania zachowania do „niedojrzałego mózgu”, a skutki niekorzystnych doświadczeń bez determinizmu i z wyjaśnieniem statusu diagnostycznego. Opis późnej dorosłości prowadzi do kanonicznych opracowań geropsychologicznych zamiast je powtarzać. Każdy z czterech artykułów kończy odrębna bibliografia.
+
+## Konsolidacja psychologii uzależnień
+
+Dwanaście dotychczasowych tekstów domeny uporządkowano w cztery opracowania kanoniczne: mechanizmy i diagnozę, uzależnienia behawioralne i technologie, leczenie i zdrowienie oraz uzależnienie w rodzinie i u młodzieży. Osiem dawnych plików pozostaje bezpośrednimi przekierowaniami, a wcześniejsze identyfikatory wszystkich scalonych tematów obsługuje `articleRedirects`.
+
+Treść rozdziela używanie, ryzyko, szkodę i zaburzenie, nie redukuje mechanizmu do dopaminy ani relacji rodzinnych do przyczynowości. Status rozpoznań behawioralnych, cele leczenia i pojęcie współuzależnienia opisano z zaznaczeniem granic dowodów. Każde z czterech opracowań kończy odrębna bibliografia.

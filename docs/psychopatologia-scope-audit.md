@@ -60,7 +60,7 @@ rozpoznań.
 ### Uzależnienia
 
 `uzaleznienia_psych.md` powtarzał definicje i mechanizmy szerzej opisane w
-`wiki/uzaleznienia/kryteria_diagnostyczne.md` oraz
+`wiki/uzaleznienia/mechanizmy_i_diagnoza_uzaleznien.md` oraz
 `wiki/uzaleznienia/neurobiologia_uzaleznien.md`. Domena psychopatologii
 zachowuje tylko to, co jest potrzebne do porównania uzależnień z zaburzeniami
 odżywiania, oceny ostrych zagrożeń i wskazania współwystępowania. Szczegółowe

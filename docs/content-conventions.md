@@ -11,7 +11,7 @@ W całym katalogu `wiki/**` stosujemy **jedną konwencję**:
 
 Przykład poprawny:
 
-- `wiki/temperament/rozwoj.md`
+- `wiki/temperament/biologia_rozwoj_i_pomiar_temperamentu.md`
 - `wiki/reagowanie_na_krytyke/czym_jest_krytyka_i_informacja_zwrotna.md`
 
 Przykład niepoprawny:
@@ -21,7 +21,7 @@ Przykład niepoprawny:
 
 ## Mapa rename (pierwsza fala porządkowania)
 
-- `wiki/temperament/razvoj.md` → `wiki/temperament/rozwoj.md`
+- `wiki/temperament/razvoj.md` → `wiki/temperament/biologia_rozwoj_i_pomiar_temperamentu.md`
 - `wiki/reagowanie_na_krytyke/czym_jest_krytyka_i_feedback.md` → `wiki/reagowanie_na_krytyke/czym_jest_krytyka_i_informacja_zwrotna.md`
 
 ## Walidacja

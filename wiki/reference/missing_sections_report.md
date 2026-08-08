@@ -14,20 +14,6 @@
 - wiki/emocje/wspolczucie.md: ## Wprowadzenie; ## Analiza mechanizmow; ## Zł‚a praktyka / czesty bł‚ąd
 - wiki/emocje/wstyd_wina.md: ## Wprowadzenie; ## Analiza mechanizmow; ## Zł‚a praktyka / czesty bł‚ąd
 
-## wiki/temperament
-- wiki/temperament/biologia_temperamentu.md: ## Wprowadzenie; ## Analiza mechanizmow; ## Zł‚a praktyka / czesty bł‚ąd
-- wiki/temperament/eysenck.md: ## Wprowadzenie; ## Analiza mechanizmow; ## Zł‚a praktyka / czesty bł‚ąd
-- wiki/temperament/gray.md: ## Wprowadzenie; ## Analiza mechanizmow; ## Zł‚a praktyka / czesty bł‚ąd
-- wiki/temperament/kagan.md: ## Wprowadzenie; ## Analiza mechanizmow; ## Zł‚a praktyka / czesty bł‚ąd
-- wiki/temperament/kliniczne.md: ## Wprowadzenie; ## Analiza mechanizmow; ## Zł‚a praktyka / czesty bł‚ąd
-- wiki/temperament/modele.md: ## Wprowadzenie; ## Analiza mechanizmow; ## Zł‚a praktyka / czesty bł‚ąd
-- wiki/temperament/pomiar.md: ## Wprowadzenie; ## Analiza mechanizmow; ## Zł‚a praktyka / czesty bł‚ąd
-- wiki/temperament/razvoj.md: ## Wprowadzenie; ## Analiza mechanizmow; ## Zł‚a praktyka / czesty bł‚ąd
-- wiki/temperament/strelau.md: ## Wprowadzenie; ## Analiza mechanizmow; ## Zł‚a praktyka / czesty bł‚ąd
-- wiki/temperament/temperament_a_kariera.md: ## Wprowadzenie; ## Analiza mechanizmow; ## Zł‚a praktyka / czesty bł‚ąd
-- wiki/temperament/temperament_a_psychopat.md: ## Wprowadzenie; ## Analiza mechanizmow; ## Zł‚a praktyka / czesty bł‚ąd
-- wiki/temperament/temperament_wprowadzenie.md: ## Wprowadzenie; ## Analiza mechanizmow; ## Zł‚a praktyka / czesty bł‚ąd
-
 ## wiki/reagowanie_na_krytyke
 - wiki/reagowanie_na_krytyke/czym_jest_krytyka_i_feedback.md: ## Wprowadzenie; ## Analiza mechanizmow; ## Zł‚a praktyka / czesty bł‚ąd
 - wiki/reagowanie_na_krytyke/granice_i_asertywnosc.md: ## Wprowadzenie; ## Analiza mechanizmow; ## Zł‚a praktyka / czesty bł‚ąd
@@ -42,5 +28,4 @@
 - wiki/reagowanie_na_krytyke/schematy_poznawcze_i_znieksztalcenia.md: ## Wprowadzenie; ## Analiza mechanizmow; ## Zł‚a praktyka / czesty bł‚ąd
 - wiki/reagowanie_na_krytyke/style_reagowania_na_krytyke.md: ## Wprowadzenie; ## Analiza mechanizmow; ## Zł‚a praktyka / czesty bł‚ąd
 - wiki/reagowanie_na_krytyke/trudne_rozmowy_w_pracy.md: ## Wprowadzenie; ## Analiza mechanizmow; ## Zł‚a praktyka / czesty bł‚ąd
-
 

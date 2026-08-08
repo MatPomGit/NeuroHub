@@ -15,6 +15,15 @@ window.SITE_CONFIG = {
 
   // Zachowuje dawne adresy SPA po scaleniu lub przeniesieniu artykułów.
   articleRedirects: {
+    'temperament/biologia_temperamentu': 'temperament/biologia_rozwoj_i_pomiar_temperamentu',
+    'temperament/eysenck': 'temperament/modele',
+    'temperament/gray': 'temperament/modele',
+    'temperament/kagan': 'temperament/modele',
+    'temperament/pomiar': 'temperament/biologia_rozwoj_i_pomiar_temperamentu',
+    'temperament/rozwoj': 'temperament/biologia_rozwoj_i_pomiar_temperamentu',
+    'temperament/strelau': 'temperament/modele',
+    'temperament/temperament_a_kariera': 'temperament/kliniczne',
+    'temperament/temperament_a_psychopat': 'temperament/kliniczne',
     'eksperyment_psychologiczny/problemy_i_hipotezy': 'eksperyment_psychologiczny/wprowadzenie',
     'eksperyment_psychologiczny/operacjonalizacja': 'eksperyment_psychologiczny/wprowadzenie',
     'eksperyment_psychologiczny/proby_i_rekrutacja': 'eksperyment_psychologiczny/wprowadzenie',
@@ -842,18 +851,9 @@ window.SITE_CONFIG = {
       section: 'Temperament',
       domainKey: 'temperament',
       items: [
-        { id: 'temperament/temperament_wprowadzenie', label: 'Temperament', file: 'wiki/temperament/temperament_wprowadzenie.md' },
-        { id: 'temperament/modele',   label: 'Modele temperamentu',  file: 'wiki/temperament/modele.md'   },
-        { id: 'temperament/pomiar',   label: 'Pomiar temperamentu',  file: 'wiki/temperament/pomiar.md'   },
-        { id: 'temperament/kliniczne',label: 'Wymiar kliniczny',     file: 'wiki/temperament/kliniczne.md'},
-        { id: 'temperament/rozwoj',                  label: 'Temperament, a Rozwoj',                file: 'wiki/temperament/rozwoj.md'                   },
-        { id: 'temperament/strelau',                 label: 'RTT - teoria Strelaua',               file: 'wiki/temperament/strelau.md'                  },
-        { id: 'temperament/eysenck',                 label: 'Model Eysencka (PEN)',                file: 'wiki/temperament/eysenck.md'                  },
-        { id: 'temperament/gray',                    label: 'Teoria BIS/BAS Graya',                file: 'wiki/temperament/gray.md'                     },
-        { id: 'temperament/kagan',                   label: 'Zahamowanie behawioralne (Kagan)',    file: 'wiki/temperament/kagan.md'                    },
-        { id: 'temperament/temperament_a_psychopat', label: 'Temperament, a psychopatologia',       file: 'wiki/temperament/temperament_a_psychopat.md'  },
-        { id: 'temperament/biologia_temperamentu',   label: 'Biologiczne podloze temperamentu',    file: 'wiki/temperament/biologia_temperamentu.md'    },
-        { id: 'temperament/temperament_a_kariera',   label: 'Temperament, a kariera i praca',       file: 'wiki/temperament/temperament_a_kariera.md'    },
+        { id: 'temperament/modele', label: 'Teorie temperamentu', file: 'wiki/temperament/modele.md' },
+        { id: 'temperament/biologia_rozwoj_i_pomiar_temperamentu', label: 'Biologia, rozwój i pomiar temperamentu', file: 'wiki/temperament/biologia_rozwoj_i_pomiar_temperamentu.md' },
+        { id: 'temperament/kliniczne',label: 'Temperament w zdrowiu i funkcjonowaniu',     file: 'wiki/temperament/kliniczne.md'},
       ]
     },
     { /* Różnice indywidualne */
@@ -1507,18 +1507,9 @@ window.SITE_CONFIG = {
       { file: 'wiki/podstawy_pomocy/etyka_pomocy.md',                  label: 'Etyka pomocy psychologicznej',        status: 'live' },
     ],
     temperament: [
-      { file: 'wiki/temperament/temperament_wprowadzenie.md', label: 'Temperament',                          status: 'live' },
-      { file: 'wiki/temperament/modele.md',                   label: 'Modele temperamentu',                  status: 'live' },
-      { file: 'wiki/temperament/pomiar.md',                   label: 'Pomiar temperamentu',                  status: 'live' },
-      { file: 'wiki/temperament/kliniczne.md',                label: 'Temperament w klinice',                status: 'live' },
-      { file: 'wiki/temperament/rozwoj.md',                   label: 'Temperament, a Rozwoj',                status: 'live' },
-      { file: 'wiki/temperament/strelau.md',                  label: 'RTT - teoria Strelaua',                status: 'live' },
-      { file: 'wiki/temperament/eysenck.md',                  label: 'Model Eysencka (PEN)',                 status: 'live' },
-      { file: 'wiki/temperament/gray.md',                     label: 'Teoria BIS/BAS Graya',                 status: 'live' },
-      { file: 'wiki/temperament/kagan.md',                    label: 'Zahamowanie behawioralne (Kagan)',     status: 'live' },
-      { file: 'wiki/temperament/temperament_a_psychopat.md',  label: 'Temperament, a psychopatologia',       status: 'live' },
-      { file: 'wiki/temperament/biologia_temperamentu.md',    label: 'Biologiczne podloze temperamentu',     status: 'live' },
-      { file: 'wiki/temperament/temperament_a_kariera.md',    label: 'Temperament, a kariera i praca',       status: 'live' },
+      { file: 'wiki/temperament/modele.md', label: 'Teorie temperamentu', status: 'live' },
+      { file: 'wiki/temperament/biologia_rozwoj_i_pomiar_temperamentu.md', label: 'Biologia, rozwój i pomiar temperamentu', status: 'live' },
+      { file: 'wiki/temperament/kliniczne.md',                label: 'Temperament w zdrowiu i funkcjonowaniu',                status: 'live' },
     ],
     emotions: [
       { file: 'wiki/emocje/emocje_wprowadzenie.md', label: 'Emocje',           status: 'live' },
@@ -2326,18 +2317,9 @@ window.SITE_CONFIG = {
         {
           title: 'Temperament',
           articles: [
-            { label: 'Temperament',                        id: 'temperament/temperament_wprowadzenie', status: 'live' },
-            { label: 'Modele temperamentu',                id: 'temperament/modele',                   status: 'live' },
-            { label: 'Pomiar temperamentu',                id: 'temperament/pomiar',                   status: 'live' },
-            { label: 'Temperament, a klinika',             id: 'temperament/kliniczne',                status: 'live' },
-            { label: 'Rozwoj temperamentu',                id: 'temperament/rozwoj',                   status: 'live' },
-            { label: 'RTT - teoria Strelaua',              id: 'temperament/strelau',                  status: 'live' },
-            { label: 'Model Eysencka (PEN)',               id: 'temperament/eysenck',                  status: 'live' },
-            { label: 'Teoria BIS/BAS Graya',               id: 'temperament/gray',                     status: 'live' },
-            { label: 'Zahamowanie behawioralne (Kagan)',   id: 'temperament/kagan',                    status: 'live' },
-            { label: 'Temperament, a psychopatologia',     id: 'temperament/temperament_a_psychopat',  status: 'live' },
-            { label: 'Biologiczne podloze temperamentu',   id: 'temperament/biologia_temperamentu',    status: 'live' },
-            { label: 'Temperament, a kariera i praca',     id: 'temperament/temperament_a_kariera',    status: 'live' },
+            { label: 'Teorie temperamentu', id: 'temperament/modele', status: 'live' },
+            { label: 'Biologia, rozwój i pomiar temperamentu', id: 'temperament/biologia_rozwoj_i_pomiar_temperamentu', status: 'live' },
+            { label: 'Temperament w zdrowiu i funkcjonowaniu',             id: 'temperament/kliniczne',                status: 'live' },
           ]
         },
       ]

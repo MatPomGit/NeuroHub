@@ -2,6 +2,7 @@
 lastReviewed: 2026-04-19
 reviewCycleMonths: 24
 evidenceCutoffDate: 2026-03-31
+content_type: article
 ---
 
 # Higiena cyfrowa i profilaktyka przeciążenia
@@ -55,12 +56,19 @@ Nieoczywistym, ale ważnym wnioskiem jest to, że higiena cyfrowa ma wymiar **sp
 
 
 
-Higiena cyfrowa jest narzędziem profilaktyki zdrowia psychicznego, a nie jedynie „modą produktywności”. Najlepsze efekty daje połączenie: (1) zmian środowiska technologicznego, (2) nawyków samoregulacji i (3) norm społecznych respektujących granice.## Bibliografia
+Higiena cyfrowa jest narzędziem profilaktyki zdrowia psychicznego, a nie jedynie „modą produktywności”. Najlepsze efekty daje połączenie: (1) zmian środowiska technologicznego, (2) nawyków samoregulacji i (3) norm społecznych respektujących granice.
+
+## Podstawa źródłowa
+
+Oceny skutków technologii w artykule uwzględniają małe i zróżnicowane efekty oraz ograniczenia wnioskowania przyczynowego opisane przez Orben (2020), a w odniesieniu do snu także przegląd Hale i Guan (2015).
+
+## Bibliografia
+
+- Hale, L., & Guan, S. (2015). Screen time and sleep among school-aged children and adolescents: A systematic literature review. *Sleep Medicine Reviews, 21*, 50–58. [https://doi.org/10.1016/j.smrv.2014.07.007](https://doi.org/10.1016/j.smrv.2014.07.007)
+- Orben, A. (2020). Teenagers, screens and social media: A narrative review of reviews and key studies. *Social Psychiatry and Psychiatric Epidemiology, 55*, 407–414. [https://doi.org/10.1007/s00127-019-01825-4](https://doi.org/10.1007/s00127-019-01825-4)
 
 1. Eyal, N. (2019). *Indistractable: How to Control Your Attention and Choose Your Life*. BenBella Books.
 2. Mark, G., Gudith, D., & Klocke, U. (2008). The cost of interrupted work: More speed and stress. *Proceedings of CHI 2008*, 107–110.
 3. Montag, C., Wegmann, E., Sariyska, R., Demetrovics, Z., & Brand, M. (2021). How to overcome taxonomical problems in the study of internet use disorders and what to do with “smartphone addiction”? *Journal of Behavioral Addictions*, 9(4), 908–914.
 4. Przybylski, A. K., & Weinstein, N. (2017). A large-scale test of the Goldilocks hypothesis: Quantifying the relations between digital-screen use and the mental well-being of adolescents. *Psychological Science*, 28(2), 204–215.
 5. Tarafdar, M., Pullins, E. B., & Ragu-Nathan, T. S. (2015). Technostress: Negative effect on performance and possible mitigations. *Information Systems Journal*, 25(2), 103–132.
-
-

@@ -1,3 +1,7 @@
+---
+content_type: article
+---
+
 ﻿---
 lastReviewed: 2026-04-30
 reviewCycleMonths: 24
@@ -47,11 +51,17 @@ To argument za tym, by rehabilitację czytania traktować jak trening specjalist
 
 
 
-P.S. i podobne przypadki czystej aleksji są fundamentalne dla neuropsychologii języka pisanego. Pokazują, jak selektywne uszkodzenia połączeń wzrokowo-językowych mogą prowadzić do wyraźnej dysocjacji między czytaniem a innymi funkcjami językowymi.## Bibliografia
+P.S. i podobne przypadki czystej aleksji są fundamentalne dla neuropsychologii języka pisanego. Pokazują, jak selektywne uszkodzenia połączeń wzrokowo-językowych mogą prowadzić do wyraźnej dysocjacji między czytaniem a innymi funkcjami językowymi.
+
+## Podstawa źródłowa
+
+Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synteza psychologii naukowej VandenBos (2015) oraz właściwe dla rozpoznań kryteria ICD-11 (World Health Organization, 2022).
+
+## Bibliografia
+
+- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/14646-000](https://doi.org/10.1037/14646-000)
+- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
 
 1. Dejerine, J. (1892). Contribution à l’étude anatomo-pathologique et clinique des différentes variétés de cécité verbale. *Mémoires de la Société de Biologie*.
 2. Cohen, L., et al. (2003). Visual word recognition in the left and right hemispheres: Anatomical and functional correlates of pure alexia. *Annals of Neurology*, 53(2), 171–181.
 3. Gaillard, R., et al. (2006). Direct intracranial, fMRI, and lesion evidence for the causal role of left VWFA in reading. *Neuron*, 50(2), 191–204.
-
-
-

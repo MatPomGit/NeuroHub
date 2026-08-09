@@ -1,3 +1,7 @@
+---
+content_type: article
+---
+
 ﻿---
 lastReviewed: 2026-04-30
 reviewCycleMonths: 24
@@ -49,12 +53,18 @@ To przesuwa paradygmat z „emocje przeszkadzają myśleniu” na „emocje kali
 
 
 
-Elliot pozostaje jednym z najbardziej wpływowych przypadków neuropsychologii decyzji. Jego historia wskazuje, że integralność vmPFC/OFC jest krytyczna dla łączenia wiedzy z działaniem, a diagnoza kliniczna musi obejmować realne funkcjonowanie społeczne, nie tylko wyniki testowe.## Bibliografia
+Elliot pozostaje jednym z najbardziej wpływowych przypadków neuropsychologii decyzji. Jego historia wskazuje, że integralność vmPFC/OFC jest krytyczna dla łączenia wiedzy z działaniem, a diagnoza kliniczna musi obejmować realne funkcjonowanie społeczne, nie tylko wyniki testowe.
+
+## Podstawa źródłowa
+
+Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synteza psychologii naukowej VandenBos (2015) oraz właściwe dla rozpoznań kryteria ICD-11 (World Health Organization, 2022).
+
+## Bibliografia
+
+- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/14646-000](https://doi.org/10.1037/14646-000)
+- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
 
 1. Damasio, A. R. (1994). *Descartes’ Error: Emotion, Reason, and the Human Brain*. Putnam.
 2. Bechara, A., Damasio, H., Damasio, A. R., & Anderson, S. W. (1994). Insensitivity to future consequences following damage to human prefrontal cortex. *Cognition*, 50(1–3), 7–15.
 3. Bechara, A., Tranel, D., & Damasio, H. (2000). Characterization of the decision-making deficit of patients with ventromedial prefrontal cortex lesions. *Brain*, 123(11), 2189–2202.
 4. Fellows, L. K. (2007). The role of orbitofrontal cortex in decision making: A component process account. *Annals of the New York Academy of Sciences*, 1121, 421–430.
-
-
-

@@ -2,6 +2,7 @@
 lastReviewed: 2026-05-09
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
+content_type: article
 ---
 
 # Wywiad kognitywny (poznawczy)
@@ -83,7 +84,16 @@ Dominująca intuicja zakłada, że „im więcej szczegółów, tym lepiej”. P
 
 Wywiad kognitywny to skuteczna metoda zwiększania kompletności relacji o zdarzeniach, o ile jest stosowana zgodnie z zasadami psychologii pamięci i osadzona w szerszym procesie diagnostycznym. Daje najlepsze efekty, gdy diagnosta łączy techniki wydobywania wspomnień z dyscypliną metodologiczną: neutralnością pytań, oceną pewności informacji i triangulacją źródeł.
 
----## Bibliografia
+---
+
+## Podstawa źródłowa
+
+W opisie procesu diagnostycznego przyjęto standardy wielometodowej oceny i formułowania przypadku omawiane przez Grotha-Marnata i Wrighta (2016) oraz w klasyfikacji ICD-11 (World Health Organization, 2022).
+
+## Bibliografia
+
+- Groth-Marnat, G., & Wright, A. J. (2016). *Handbook of psychological assessment* (6th ed.). Wiley.
+- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
 
 1. Fisher, R. P., & Geiselman, R. E. (1992). *Memory-enhancing techniques for investigative interviewing: The Cognitive Interview*. Charles C Thomas.
 2. Memon, A., Meissner, C. A., & Fraser, J. (2010). The cognitive interview: A meta-analytic review and study space analysis of the past 25 years. *Psychology, Public Policy, and Law, 16*(4), 340–372.

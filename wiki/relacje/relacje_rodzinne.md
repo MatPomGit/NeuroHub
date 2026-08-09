@@ -2,6 +2,7 @@
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
+content_type: article
 ---
 
 # Relacje rodzinne - dynamika systemu
@@ -136,7 +137,18 @@ Terapia oparta na teorii Bowena koncentruje się na:
 
 Rodzina to system dynamiczny, który rządzi się własnymi prawami - nie jest prostą sumą jej członków. Rozumienie dynamiki rodzinnej jest kluczowe zarówno dla zdrowia psychicznego jej członków, jak i dla skutecznej terapii. Wzorce ukształtowane w rodzinie towarzyszą nam przez całe życie i wpływają na wszystkie nasze relacje.
 
----## Bibliografia (APA 7)
+---
+
+## Podstawa źródłowa
+
+Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synteza psychologii naukowej VandenBos (2015) oraz właściwe dla rozpoznań kryteria ICD-11 (World Health Organization, 2022).
+
+## Bibliografia
+
+- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/14646-000](https://doi.org/10.1037/14646-000)
+- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
+
+(APA 7)
 Wpisy bibliograficzne zapisuj konsekwentnie w APA 7 oraz dodawaj DOI/URL i oznaczenie typu źródła (`[Typ: ...]`) tam, gdzie to możliwe.
 
 

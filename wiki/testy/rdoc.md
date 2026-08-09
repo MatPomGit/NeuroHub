@@ -2,6 +2,7 @@
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
+content_type: article
 ---
 
 # Model RDoC w diagnozie psychologicznej i neuropsychologicznej
@@ -410,7 +411,18 @@ Dla specjalistów zdrowia psychicznego model RDoC oferuje kilka praktycznych zys
 - **Mierzalne miary wynikowe** - konstrukty można mierzyć obiektywnie, niezależnie od subiektywnego raportu pacjenta.
 - **Język naukowy** - ułatwia komunikację z badaczami i integrację wiedzy z neuronauki poznawczej.
 
-Wyzwaniem pozostaje translacja konstruktów badawczych do praktyki klinicznej oraz uwzględnienie czynników psychospołecznych i kulturowych, które tradycyjnie wykraczają poza model neuronaukowy. Integracja RDoC z wymiarowymi podejściami HiTOP i nowymi kryteriami ICD-11, a także rozwój neuropsychiatrii obliczeniowej, wyznaczają obiecującą perspektywę dla psychiatrii i psychologii klinicznej XXI wieku.## Bibliografia (APA 7)
+Wyzwaniem pozostaje translacja konstruktów badawczych do praktyki klinicznej oraz uwzględnienie czynników psychospołecznych i kulturowych, które tradycyjnie wykraczają poza model neuronaukowy. Integracja RDoC z wymiarowymi podejściami HiTOP i nowymi kryteriami ICD-11, a także rozwój neuropsychiatrii obliczeniowej, wyznaczają obiecującą perspektywę dla psychiatrii i psychologii klinicznej XXI wieku.
+
+## Podstawa źródłowa
+
+Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synteza psychologii naukowej VandenBos (2015) oraz właściwe dla rozpoznań kryteria ICD-11 (World Health Organization, 2022).
+
+## Bibliografia
+
+- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/14646-000](https://doi.org/10.1037/14646-000)
+- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
+
+(APA 7)
 Wpisy bibliograficzne zapisuj konsekwentnie w APA 7 oraz dodawaj DOI/URL i oznaczenie typu źródła (`[Typ: ...]`) tam, gdzie to możliwe.
 
 

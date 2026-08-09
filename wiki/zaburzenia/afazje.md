@@ -1,3 +1,7 @@
+---
+content_type: article
+---
+
 ﻿---
 lastReviewed: 2026-04-19
 reviewCycleMonths: 24
@@ -43,9 +47,18 @@ W praktyce często koncentruje się na deficytach językowych, pomijając czynni
 
 - Afazja to zaburzenie sieci językowych, nie tylko pojedynczego „ośrodka mowy”.
 - Największe korzyści daje wczesna i intensywna rehabilitacja.
-- Ocena kliniczna powinna łączyć testy formalne z obserwacją komunikacji funkcjonalnej.## Bibliografia
+- Ocena kliniczna powinna łączyć testy formalne z obserwacją komunikacji funkcjonalnej.
+
+## Podstawa źródłowa
+
+Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synteza psychologii naukowej VandenBos (2015) oraz właściwe dla rozpoznań kryteria ICD-11 (World Health Organization, 2022).
+
+## Bibliografia
+
+- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/14646-000](https://doi.org/10.1037/14646-000)
+- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
+
 1. Brady, M. C., et al. (2016). Speech and language therapy for aphasia following stroke. *Cochrane Database of Systematic Reviews, 6*, CD000425.
 2. Damasio, A. R. (1992). Aphasia. *New England Journal of Medicine, 326*(8), 531–539.
 3. Fridriksson, J., et al. (2018). Anatomy of aphasia revisited. *Brain, 141*(3), 848–862.
 4. Kertesz, A. (2007). *Western Aphasia Battery – Revised*. Pearson.
-

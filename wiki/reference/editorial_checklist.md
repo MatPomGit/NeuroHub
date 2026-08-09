@@ -1,3 +1,11 @@
+---
+content_type: editorial_documentation
+article_requirements: false
+sitemap: false
+public_navigation: false
+published: false
+---
+
 # Pomocnicza lista redakcyjna
 
 Lista pomaga ocenić artykuł przed publikacją. Nie wymaga obecności określonego zestawu rozdziałów. Zalecany, elastyczny układ opisano w artykule [Zalecany wzorzec artykułu](article_template.md).

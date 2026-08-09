@@ -2,6 +2,7 @@
 lastReviewed: 2026-04-19
 reviewCycleMonths: 24
 evidenceCutoffDate: 2026-03-31
+content_type: article
 ---
 
 # Technologia a sen i regeneracja psychiczna
@@ -55,12 +56,19 @@ Nieoczywista perspektywa podkreśla, że technologia może także wspierać sen,
 
 
 
-Wpływ technologii na sen jest istotny, ale modyfikowalny. Najlepsze rezultaty przynosi łączenie higieny snu, kontroli bodźców cyfrowych i realistycznej organizacji dnia. Ochrona snu powinna być traktowana jako element profilaktyki zdrowia psychicznego i jakości pracy poznawczej.## Bibliografia
+Wpływ technologii na sen jest istotny, ale modyfikowalny. Najlepsze rezultaty przynosi łączenie higieny snu, kontroli bodźców cyfrowych i realistycznej organizacji dnia. Ochrona snu powinna być traktowana jako element profilaktyki zdrowia psychicznego i jakości pracy poznawczej.
+
+## Podstawa źródłowa
+
+Oceny skutków technologii w artykule uwzględniają małe i zróżnicowane efekty oraz ograniczenia wnioskowania przyczynowego opisane przez Orben (2020), a w odniesieniu do snu także przegląd Hale i Guan (2015).
+
+## Bibliografia
+
+- Hale, L., & Guan, S. (2015). Screen time and sleep among school-aged children and adolescents: A systematic literature review. *Sleep Medicine Reviews, 21*, 50–58. [https://doi.org/10.1016/j.smrv.2014.07.007](https://doi.org/10.1016/j.smrv.2014.07.007)
+- Orben, A. (2020). Teenagers, screens and social media: A narrative review of reviews and key studies. *Social Psychiatry and Psychiatric Epidemiology, 55*, 407–414. [https://doi.org/10.1007/s00127-019-01825-4](https://doi.org/10.1007/s00127-019-01825-4)
 
 1. Cain, N., & Gradisar, M. (2010). Electronic media use and sleep in school-aged children and adolescents: A review. *Sleep Medicine*, 11(8), 735–742.
 2. Exelmans, L., & Van den Bulck, J. (2016). Bedtime mobile phone use and sleep in adults. *Social Science & Medicine*, 148, 93–101.
 3. Hale, L., & Guan, S. (2015). Screen time and sleep among school-aged children and adolescents: A systematic review. *Sleep Medicine Reviews*, 21, 50–58.
 4. Levenson, J. C., Shensa, A., Sidani, J. E., et al. (2017). The association between social media use and sleep disturbance among young adults. *Preventive Medicine*, 85, 36–41.
 5. Scott, H., Biello, S. M., & Woods, H. C. (2019). Social media use and adolescent sleep patterns. *Sleep Medicine Reviews*, 44, 47–58.
-
-

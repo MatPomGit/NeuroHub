@@ -1,3 +1,7 @@
+---
+content_type: article
+---
+
 ﻿---
 lastReviewed: 2026-05-09
 reviewCycleMonths: 12
@@ -53,11 +57,18 @@ Nieoczywiste, lecz praktyczne ujęcie mówi, że pierwszą przewagą psychologa 
 
 
 
-Wejście psychologa do IT jest najbardziej skuteczne, gdy łączy język człowieka z językiem metryk. Portfolio powinno dokumentować nie tyle „co zrobiono”, ile „jak podjęto decyzję i na jakiej jakości dowodach”.## Bibliografia
+Wejście psychologa do IT jest najbardziej skuteczne, gdy łączy język człowieka z językiem metryk. Portfolio powinno dokumentować nie tyle „co zrobiono”, ile „jak podjęto decyzję i na jakiej jakości dowodach”.
+
+## Podstawa źródłowa
+
+Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synteza psychologii naukowej VandenBos (2015) oraz właściwe dla rozpoznań kryteria ICD-11 (World Health Organization, 2022).
+
+## Bibliografia
+
+- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/14646-000](https://doi.org/10.1037/14646-000)
+- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
 
 1. Lazar, J., Feng, J. H., & Hochheiser, H. (2017). *Research Methods in Human-Computer Interaction* (2nd ed.). Morgan Kaufmann.
 2. Nielsen, J. (1994). *Usability Engineering*. Morgan Kaufmann.
 3. Forsgren, N., Humble, J., & Kim, G. (2018). *Accelerate*. IT Revolution.
 4. Shneiderman, B. (2022). *Human-Centered AI*. Oxford University Press.
-
-

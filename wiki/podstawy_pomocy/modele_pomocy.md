@@ -1,3 +1,7 @@
+---
+content_type: article
+---
+
 ﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
@@ -108,7 +112,16 @@ Przykłady integracji:
 Temat "Modele pomocy psychologicznej" pokazuje, że najważniejsze jest traktowanie pomocy jako procesu wymagającego zarówno empatii, jak i struktury, kompetencji oraz samoograniczenia.
 
 
-Dopiero wspólna analiza zagadnień takich jak model medyczny (biomedyczny), model systemowy oraz zobacz też pokazuje pełny zakres omawianego zjawiska.## Bibliografia
+Dopiero wspólna analiza zagadnień takich jak model medyczny (biomedyczny), model systemowy oraz zobacz też pokazuje pełny zakres omawianego zjawiska.
+
+## Podstawa źródłowa
+
+Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synteza psychologii naukowej VandenBos (2015) oraz właściwe dla rozpoznań kryteria ICD-11 (World Health Organization, 2022).
+
+## Bibliografia
+
+- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/14646-000](https://doi.org/10.1037/14646-000)
+- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

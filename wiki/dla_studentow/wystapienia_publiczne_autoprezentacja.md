@@ -2,6 +2,7 @@
 lastReviewed: 2026-04-20
 reviewCycleMonths: 24
 evidenceCutoffDate: 2026-03-31
+content_type: article
 ---
 
 # Wystąpienia publiczne i autoprezentacja: psychologia skutecznego przekazu
@@ -150,7 +151,16 @@ Nieoczywista perspektywa zakłada, że skuteczna autoprezentacja jest przede wsz
 
 
 
-Wystąpienia publiczne to umiejętność oparta na psychologii uwagi, pamięci i regulacji emocji. Najlepsze rezultaty daje połączenie struktury poznawczej, treningu wykonania i świadomej, etycznej autoprezentacji.## Bibliografia
+Wystąpienia publiczne to umiejętność oparta na psychologii uwagi, pamięci i regulacji emocji. Najlepsze rezultaty daje połączenie struktury poznawczej, treningu wykonania i świadomej, etycznej autoprezentacji.
+
+## Podstawa źródłowa
+
+Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synteza psychologii naukowej VandenBos (2015) oraz właściwe dla rozpoznań kryteria ICD-11 (World Health Organization, 2022).
+
+## Bibliografia
+
+- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/14646-000](https://doi.org/10.1037/14646-000)
+- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
 
 1. Schlenker, B. R. (1980). *Impression Management: The Self-Concept, Social Identity, and Interpersonal Relations*. Brooks/Cole.
 2. Leary, M. R., & Kowalski, R. M. (1990). Impression management: A literature review and two-component model. *Psychological Bulletin, 107*(1), 34–47.

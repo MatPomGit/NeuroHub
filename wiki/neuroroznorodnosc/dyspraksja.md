@@ -2,6 +2,7 @@
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
+content_type: article
 ---
 
 # Dyspraksja i DCD
@@ -95,7 +96,16 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 Temat "Dyspraksja i DCD" pokazuje, że kluczowe pozostaje łączenie wsparcia funkcjonalnego z redukowaniem barier środowiskowych i stygmatyzacji.
 
 
-Dopiero wspólna analiza zagadnień takich jak definicja, neurobiologia dcd oraz dcd i tożsamość pokazuje pełny zakres omawianego zjawiska.## Bibliografia
+Dopiero wspólna analiza zagadnień takich jak definicja, neurobiologia dcd oraz dcd i tożsamość pokazuje pełny zakres omawianego zjawiska.
+
+## Podstawa źródłowa
+
+Ramy pojęciowe i kliniczne w tym artykule oparto na krytycznej analizie paradygmatu neuroróżnorodności Pellicano i den Houting (2022) oraz kryteriach diagnostycznych American Psychiatric Association (2022).
+
+## Bibliografia
+
+- American Psychiatric Association. (2022). *Diagnostic and statistical manual of mental disorders* (5th ed., text rev.). American Psychiatric Association Publishing. [https://doi.org/10.1176/appi.books.9780890425787](https://doi.org/10.1176/appi.books.9780890425787)
+- Pellicano, E., & den Houting, J. (2022). Annual Research Review: Shifting from ‘normal science’ to neurodiversity in autism science. *Journal of Child Psychology and Psychiatry, 63*(4), 381–396. [https://doi.org/10.1111/jcpp.13534](https://doi.org/10.1111/jcpp.13534)
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

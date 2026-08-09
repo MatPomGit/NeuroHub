@@ -1,3 +1,11 @@
+---
+content_type: formatting_example
+article_requirements: false
+sitemap: false
+public_navigation: false
+published: false
+---
+
 ﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24

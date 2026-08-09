@@ -2,6 +2,7 @@
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
+content_type: article
 ---
 
 # Odporność psychiczna - wprowadzenie
@@ -75,7 +76,17 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 Temat "Odporność psychiczna - wprowadzenie" pokazuje, że najważniejsze jest łączenie profilaktyki indywidualnej z analizą środowiska pracy, procedur i kultury organizacyjnej.
 
 
-Dopiero wspólna analiza zagadnień takich jak czym jest odporność psychiczna?, główne modele odporności oraz przykład kliniczny pokazuje pełny zakres omawianego zjawiska.## Bibliografia
+Dopiero wspólna analiza zagadnień takich jak czym jest odporność psychiczna?, główne modele odporności oraz przykład kliniczny pokazuje pełny zakres omawianego zjawiska.
+
+## Podstawa źródłowa
+
+Ujęcie odporności psychicznej odwołuje się do analizy trajektorii adaptacji Bonanno (2004), opis wypalenia do modelu Maslach i Leiter (2016), a opis mobbingu do przeglądu Nielsen i Einarsena (2012).
+
+## Bibliografia
+
+- Bonanno, G. A. (2004). Loss, trauma, and human resilience. *American Psychologist, 59*(1), 20–28. [https://doi.org/10.1037/0003-066X.59.1.20](https://doi.org/10.1037/0003-066X.59.1.20)
+- Maslach, C., & Leiter, M. P. (2016). Understanding the burnout experience: Recent research and its implications for psychiatry. *World Psychiatry, 15*(2), 103–111. [https://doi.org/10.1002/wps.20311](https://doi.org/10.1002/wps.20311)
+- Nielsen, M. B., & Einarsen, S. (2012). Outcomes of exposure to workplace bullying: A meta-analytic review. *Work & Stress, 26*(4), 309–332. [https://doi.org/10.1080/02678373.2012.734709](https://doi.org/10.1080/02678373.2012.734709)
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

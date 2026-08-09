@@ -2,6 +2,7 @@
 lastReviewed: 2026-04-19
 reviewCycleMonths: 24
 evidenceCutoffDate: 2026-03-31
+content_type: article
 ---
 
 # Zmęczenie cyfrowe i przeciążenie informacyjne
@@ -55,12 +56,19 @@ Nieoczywiste, ale dobrze uzasadnione podejście zakłada, że problemem nie jest
 
 
 
-Zmęczenie cyfrowe jest zjawiskiem wieloczynnikowym: poznawczym, emocjonalnym i organizacyjnym. Skuteczna profilaktyka wymaga łączenia higieny indywidualnej z rozwiązaniami zespołowymi i instytucjonalnymi. Kluczowa jest redukcja fragmentacji uwagi oraz tworzenie środowiska, które wspiera domykanie zadań i regenerację.## Bibliografia
+Zmęczenie cyfrowe jest zjawiskiem wieloczynnikowym: poznawczym, emocjonalnym i organizacyjnym. Skuteczna profilaktyka wymaga łączenia higieny indywidualnej z rozwiązaniami zespołowymi i instytucjonalnymi. Kluczowa jest redukcja fragmentacji uwagi oraz tworzenie środowiska, które wspiera domykanie zadań i regenerację.
+
+## Podstawa źródłowa
+
+Oceny skutków technologii w artykule uwzględniają małe i zróżnicowane efekty oraz ograniczenia wnioskowania przyczynowego opisane przez Orben (2020), a w odniesieniu do snu także przegląd Hale i Guan (2015).
+
+## Bibliografia
+
+- Hale, L., & Guan, S. (2015). Screen time and sleep among school-aged children and adolescents: A systematic literature review. *Sleep Medicine Reviews, 21*, 50–58. [https://doi.org/10.1016/j.smrv.2014.07.007](https://doi.org/10.1016/j.smrv.2014.07.007)
+- Orben, A. (2020). Teenagers, screens and social media: A narrative review of reviews and key studies. *Social Psychiatry and Psychiatric Epidemiology, 55*, 407–414. [https://doi.org/10.1007/s00127-019-01825-4](https://doi.org/10.1007/s00127-019-01825-4)
 
 1. Eppler, M. J., & Mengis, J. (2004). The concept of information overload: A review of literature. *The Information Society*, 20(5), 325–344.
 2. Mark, G. (2023). *Attention Span: A Groundbreaking Way to Restore Balance, Happiness and Productivity*. Hanover Square Press.
 3. Ophir, E., Nass, C., & Wagner, A. D. (2009). Cognitive control in media multitaskers. *PNAS*, 106(37), 15583–15587.
 4. Sandi, C. (2013). Stress and cognition. *Wiley Interdisciplinary Reviews: Cognitive Science*, 4(3), 245–261.
 5. Tarafdar, M., Cooper, C. L., & Stich, J.-F. (2019). The technostress trifecta. *Information Systems Journal*, 29(1), 6–42.
-
-

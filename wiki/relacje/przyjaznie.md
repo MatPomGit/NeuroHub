@@ -2,6 +2,7 @@
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
+content_type: article
 ---
 
 # Przyjaźń - psychologia bliskich relacji nieromantycznych
@@ -112,7 +113,16 @@ Zamiast pytać „co jest nie tak”, warto przeanalizować, jakie warunki podtr
 
 
 
-Silna sieć przyjaciół działa jako **bufor stresowy**, obniżając ryzyko lęku i depresji oraz poprawiając odporność immunologiczną. Meta-analizy (np. Holt-Lunstad) potwierdzają, że jakość relacji społecznych bezpośrednio wydłuża życie. Ostatecznie, integracja wiedzy teoretycznej z praktyką pozwala na budowanie trwalszych i zdrowszych więzi.## Bibliografia
+Silna sieć przyjaciół działa jako **bufor stresowy**, obniżając ryzyko lęku i depresji oraz poprawiając odporność immunologiczną. Meta-analizy (np. Holt-Lunstad) potwierdzają, że jakość relacji społecznych bezpośrednio wydłuża życie. Ostatecznie, integracja wiedzy teoretycznej z praktyką pozwala na budowanie trwalszych i zdrowszych więzi.
+
+## Podstawa źródłowa
+
+Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synteza psychologii naukowej VandenBos (2015) oraz właściwe dla rozpoznań kryteria ICD-11 (World Health Organization, 2022).
+
+## Bibliografia
+
+- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/14646-000](https://doi.org/10.1037/14646-000)
+- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
 
 1. Aristotle. *Nicomachean Ethics*, Books VIII–IX. (tłum. pol.: *Etyka Nikomachejska*, PWN).
 2. Knapp, M. L. (1978). *Social Intercourse: From Greeting to Goodbye*. Allyn & Bacon.

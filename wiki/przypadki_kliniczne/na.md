@@ -1,3 +1,7 @@
+---
+content_type: article
+---
+
 ﻿---
 lastReviewed: 2026-04-30
 reviewCycleMonths: 24
@@ -49,12 +53,18 @@ Ta perspektywa sprzyja bardziej realistycznym modelom rehabilitacji: poprawa fun
 
 
 
-N.A. to przypadek fundamentalny dla rozumienia amnezji międzymózgowiowej i sieciowej architektury pamięci. Klinicznie wzmacnia potrzebę wielowymiarowej diagnozy i interwencji opartych na profilu funkcjonalnym, nie wyłącznie na lokalizacji pojedynczego uszkodzenia.## Bibliografia
+N.A. to przypadek fundamentalny dla rozumienia amnezji międzymózgowiowej i sieciowej architektury pamięci. Klinicznie wzmacnia potrzebę wielowymiarowej diagnozy i interwencji opartych na profilu funkcjonalnym, nie wyłącznie na lokalizacji pojedynczego uszkodzenia.
+
+## Podstawa źródłowa
+
+Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synteza psychologii naukowej VandenBos (2015) oraz właściwe dla rozpoznań kryteria ICD-11 (World Health Organization, 2022).
+
+## Bibliografia
+
+- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/14646-000](https://doi.org/10.1037/14646-000)
+- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
 
 1. Teuber, H.-L., Milner, B., & Vaughan, H. G. (1968). Persistent anterograde amnesia after stab wound of the basal brain. *Neuropsychologia*, 6, 267–282.
 2. Squire, L. R., & Zola-Morgan, S. (1991). The medial temporal lobe memory system. *Science*, 253, 1380–1386.
 3. Aggleton, J. P., & Brown, M. W. (1999). Episodic memory, amnesia, and the hippocampal–anterior thalamic axis. *Behavioral and Brain Sciences*, 22(3), 425–489.
 4. Vann, S. D., Aggleton, J. P., & Maguire, E. A. (2009). What does the retrosplenial cortex do? *Nature Reviews Neuroscience*, 10, 792–802.
-
-
-

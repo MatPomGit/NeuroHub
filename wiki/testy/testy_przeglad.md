@@ -1,3 +1,7 @@
+---
+content_type: article
+---
+
 ﻿---
 lastReviewed: 2026-04-19
 reviewCycleMonths: 24
@@ -41,9 +45,18 @@ Wysoki wynik globalny bywa interpretowany jako „brak problemu”. Alternatywni
 
 - Test jest narzędziem wspierającym diagnozę, a nie diagnozą samą w sobie.
 - Kluczowe są: standaryzacja, normy i integracja danych wieloźródłowych.
-- Największą wartość kliniczną daje profil funkcjonalny przekładalny na plan terapii.## Bibliografia
+- Największą wartość kliniczną daje profil funkcjonalny przekładalny na plan terapii.
+
+## Podstawa źródłowa
+
+Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synteza psychologii naukowej VandenBos (2015) oraz właściwe dla rozpoznań kryteria ICD-11 (World Health Organization, 2022).
+
+## Bibliografia
+
+- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/14646-000](https://doi.org/10.1037/14646-000)
+- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
+
 1. Lezak, M. D., et al. (2012). *Neuropsychological Assessment* (5th ed.). Oxford University Press.
 2. Strauss, E., Sherman, E. M. S., & Spreen, O. (2006). *A Compendium of Neuropsychological Tests* (3rd ed.). Oxford University Press.
 3. Mitrushina, M., Boone, K. B., Razani, J., & D’Elia, L. F. (2005). *Handbook of Normative Data for Neuropsychological Assessment* (2nd ed.). Oxford University Press.
 4. Petersen, R. C., et al. (2018). Practice guideline update summary: Mild cognitive impairment. *Neurology, 90*(3), 126–135.
-

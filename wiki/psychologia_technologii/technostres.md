@@ -1,211 +1,100 @@
-﻿---
-lastReviewed: 2026-04-01
+---
+lastReviewed: 2026-08-09
 reviewCycleMonths: 24
-evidenceCutoffDate: 2025-12-31
+evidenceCutoffDate: 2026-08-09
+content_type: article
+aliases:
+  - przeciążenie cyfrowe
+  - zmęczenie cyfrowe
 ---
 
-# Technostres: kompleksowe ujęcie naukowe
+# Przeciążenie cyfrowe, technostres i sen
 
-## Streszczenie
+## Najważniejsze informacje
 
-Technostres to szczególny przypadek [stresu psychologicznego](../psychologia_zdrowia/stres.md), wynikający z niedopasowania między wymaganiami środowiska technologicznego a zasobami jednostki. Współcześnie zjawisko to wykracza poza klasyczne środowisko pracy i obejmuje edukację, relacje społeczne oraz codzienne zarządzanie uwagą. Artykuł porządkuje swoiste dla technologii źródła obciążenia, mechanizmy poznawcze i emocjonalne, czynniki ryzyka i ochronne oraz profilaktykę na poziomie jednostki, zespołu, organizacji i polityki cyfrowej.
+Technostres, przeciążenie informacyjne, zmęczenie cyfrowe, FOMO i zaburzenia snu są powiązane, ale nie są nazwami tego samego zjawiska. Pierwsze opisuje proces stresowy wywołany niedopasowaniem wymagań technologicznych i zasobów, drugie relację między napływem informacji a zdolnością ich wykorzystania, a trzecie odczuwany skutek wysiłku. FOMO dotyczy obawy przed pominięciem ważnych doświadczeń innych osób. Zaburzenie snu jest natomiast problemem dotyczącym czasu, ciągłości, jakości lub skutków snu i wymaga odrębnej oceny.
 
-## 1. Wprowadzenie
+Nie istnieje jedna dawka „czasu ekranowego”, która jednakowo wyjaśnia te trudności. Znaczenie mają rodzaj aktywności, jej cel i treść, pora, kontekst społeczny, możliwość przerwania oraz to, czy korzystanie jest dobrowolne, czy wymagane przez szkołę albo pracę.
 
-Cyfryzacja zwiększa dostęp do informacji, automatyzuje pracę i rozszerza możliwości komunikacji, ale jednocześnie podnosi obciążenie poznawcze. Człowiek funkcjonuje dziś w środowisku ciągłych powiadomień, wielozadaniowości i presji natychmiastowej responsywności. W takich warunkach technologia przestaje być neutralnym narzędziem, a staje się aktywnym regulatorem tempa pracy, uwagi i rytmu dobowego.
+## Pojęcia, których nie należy utożsamiać
 
-Technostres nie oznacza „lęku przed komputerem”. To złożony syndrom obejmujący:
+| Pojęcie | Co opisuje | Typowy wskaźnik | Czego samo nie oznacza |
+| --- | --- | --- | --- |
+| **Technostres** | proces stresowy związany z technologią, np. przeciążeniem, złożonością, inwazją w życie prywatne lub niepewnością | napięcie, ocena braku zasobów, konflikt ról | choroby psychicznej ani niechęci do każdej technologii |
+| **Przeciążenie informacyjne** | sytuację, w której liczba, tempo albo niejednoznaczność informacji przekraczają zdolność selekcji i decyzji | trudność wyboru, pomijanie informacji, odraczanie decyzji | koniecznie długiej ekspozycji na ekran |
+| **Zmęczenie cyfrowe** | subiektywne wyczerpanie po aktywności cyfrowej | znużenie, drażliwość, spadek koncentracji | automatycznie technostresu lub zaburzenia klinicznego |
+| **FOMO** (*fear of missing out*) | obawę, że inni przeżywają satysfakcjonujące wydarzenia bez danej osoby, oraz potrzebę pozostawania w kontakcie | częste sprawdzanie kanałów społecznościowych | „uzależnienia od telefonu” |
+| **Trudności i zaburzenia snu** | problemy z porą, długością, ciągłością lub jakością snu i funkcjonowaniem w dzień | opóźnione zasypianie, wybudzenia, senność | że ekran jest jedyną przyczyną |
 
-- napięcie psychiczne,
-- zmęczenie poznawcze,
-- rozregulowanie emocjonalne,
-- trudności koncentracji,
-- spadek poczucia sprawczości,
-- wzrost ryzyka wypalenia.
+„Nomofobia” bywa w badaniach kwestionariuszowych nazwą lęku lub dyskomfortu związanego z brakiem dostępu do telefonu, sieci, baterii albo komunikacji. Nie jest jednak samodzielnym rozpoznaniem w DSM-5-TR ani ICD-11. Wyniku skali nomofobii nie należy więc przedstawiać jako diagnozy. W praktyce trzeba rozważyć funkcję telefonu, nasilenie cierpienia i ograniczenia funkcjonowania, a także inne możliwe wyjaśnienia, takie jak FOMO, lęk, wymagania zawodowe czy realna potrzeba bezpieczeństwa.
 
-## 2. Definicje i ramy pojęciowe
+## Jak powstaje obciążenie
 
-W literaturze technostres jest definiowany jako negatywny stan psychologiczny związany z używaniem technologii ICT, szczególnie wtedy, gdy wymagania techniczne przekraczają możliwości adaptacyjne użytkownika.
+### Wymagania, zasoby i poczucie kontroli
 
-W praktyce badawczej warto odróżnić trzy poziomy zjawiska:
+Klasyczne „kreatory” technostresu obejmują przeciążenie tempem pracy, inwazję technologii w czas prywatny, złożoność, niepewność zmian i zagrożenie pozycji zawodowej. Ten sam komunikator może być zasobem, gdy ułatwia uzyskanie wsparcia, albo wymaganiem, gdy narzuca natychmiastową odpowiedź. Autonomia, kompetencje, wsparcie i jasne normy dostępności zmieniają ocenę tej sytuacji.
 
-1. **Bodźce technologiczne (technostress creators)** - cechy środowiska cyfrowego, które generują presję.
-2. **Proces psychologiczny** - subiektywna ocena obciążenia, utraty kontroli i zasobów.
-3. **Skutki** - objawy afektywne, poznawcze, behawioralne i somatyczne.
+Poczucie kontroli nie sprowadza się do silnej woli. Pracownik zobowiązany odpowiadać wieczorem, uczeń zależny od wielu platform i opiekun pozostający w gotowości mają mniejszą możliwość odłączenia niż osoba korzystająca dla rozrywki. Dlatego interwencje organizacyjne mogą być ważniejsze niż indywidualne blokady aplikacji.
 
-Takie rozumienie pozwala projektować interwencje nie tylko „na użytkowniku”, ale także na architekturze systemu i kulturze organizacyjnej.
+### Informacja, przerwania i zmęczenie
 
-## 3. Kluczowe modele teoretyczne
+Przeciążenie zależy nie tylko od ilości danych, lecz także od ich jakości, tempa, złożoności oraz czasu dostępnego na decyzję. Powiadomienie może oderwać uwagę od celu, a powrót do zadania wymaga ponownego odtworzenia jego kontekstu. Wielokrotne przełączanie może podnosić odczuwany stres i zmęczenie, ale rezultat zależy od zadania. Rozmowa z bliską osobą nie jest psychologicznie równoważna z obsługą kilku służbowych kanałów.
 
-## 3.1. Model transakcyjny stresu (Lazarus i Folkman)
+Zmęczenie jest stanem po wysiłku, podczas gdy przeciążenie opisuje relację wymagań i zdolności przetwarzania. Można być zmęczonym po wymagającej, lecz dobrze kontrolowanej wideokonferencji bez przeciążenia informacyjnego. Można też szybko doświadczyć przeciążenia w krótkiej, chaotycznej sytuacji bez długotrwałego zmęczenia.
 
-Technostres można interpretować jako wynik oceny poznawczej: użytkownik ocenia, czy wymagania cyfrowe są zagrożeniem, wyzwaniem czy stratą. Kluczowa jest relacja między wymaganiami (np. liczba kanałów komunikacji) a zasobami (kompetencje, czas, wsparcie).
+### FOMO i pętla sprawdzania
 
-## 3.2. Model wymagania–zasoby pracy (JD-R)
+FOMO wiąże potrzebę przynależności z monitorowaniem tego, co robią inni. Nieprzewidywalne wiadomości i społeczne sygnały aprobaty mogą utrwalać sprawdzanie, ponieważ czasem przynosi ono nagrodę, a czasem chwilowo zmniejsza niepokój. Jest to opis mechanizmu uczenia się, nie dowód, że każda platforma lub każda osoba działa w ten sposób.
 
-W środowisku cyfrowym rosną wymagania (tempo, responsywność, niepewność narzędzi), a zasoby bywają niewystarczające (brak szkoleń, niejasne procedury, przeciążenie informacyjne). Gdy wymagania chronicznie przewyższają zasoby, narasta wyczerpanie i cynizm - dwa filary wypalenia.
+FOMO może podnosić pobudzenie wieczorem i skłaniać do reagowania w nocy. Może też sygnalizować samotność, niepewność relacji lub brak akceptowanych norm opóźnionej odpowiedzi. Samo skrócenie czasu korzystania nie rozwiąże tych problemów, jeśli nie zmieni się ich społeczny kontekst.
 
-## 3.3. Conservation of Resources (COR)
+## Technologia a sen
 
-Z perspektywy COR technostres jest procesem utraty zasobów: energii uwagi, czasu regeneracji, poczucia kontroli, granic między rolami życiowymi. Najbardziej kosztowna jest spirala strat: im większe przeciążenie, tym mniej zdolności do odbudowy zasobów.
+Relacja technologii ze snem może przebiegać kilkoma drogami:
 
-## 4. Główne źródła technostresu
+1. **wyparcie czasu snu**, gdy aktywność trwa dłużej niż planowano;
+2. **pobudzenie poznawcze i emocjonalne**, zależne od treści, np. konfliktu, pracy lub rywalizacji;
+3. **światło wieczorne**, którego wpływ zależy od pory, natężenia, widma i indywidualnej wrażliwości;
+4. **przerwanie snu** przez dźwięki, wibracje albo oczekiwanie wiadomości;
+5. **nieregularność rytmu**, gdy pory korzystania i snu zmieniają się między dniami.
 
-Najczęściej opisywane „kreatory technostresu” to:
+Badania obserwacyjne nad mediami ekranowymi i snem często nie pozwalają rozstrzygnąć kierunku zależności. Gorszy sen może sprzyjać późnemu korzystaniu, a wspólną przyczyną mogą być stres, depresyjność lub nieregularny plan dnia. Wyniku dotyczącego jednej platformy, grupy wieku lub konkretnej aktywności nie należy uogólniać na wszystkie technologie.
 
-- **Techno-overload** - nadmiar zadań i komunikatów wymuszających przyspieszenie pracy.
-- **Techno-invasion** - „wlewanie się” pracy i powiadomień do czasu prywatnego.
-- **Techno-complexity** - poczucie, że narzędzia są zbyt złożone lub stale się zmieniają.
-- **Techno-uncertainty** - niepewność wynikająca z ciągłych aktualizacji, zmian interfejsów i procedur.
-- **Techno-insecurity** - lęk przed utratą pozycji lub pracy z powodu automatyzacji i AI.
+Nie każda wieczorna aktywność jest równoważna. Spokojna rozmowa, czytnik o niewielkiej luminancji, słuchanie nagrania i emocjonująca gra różnią się światłem, pobudzeniem i możliwością zakończenia. Technologie mogą też wspierać leczenie, na przykład jako kanał terapii poznawczo-behawioralnej bezsenności, choć aplikacja nie zastępuje diagnozy, gdy trudności są uporczywe.
 
-Wspólnym mianownikiem tych czynników jest chroniczne poczucie braku domknięcia poznawczego: użytkownik „nigdy nie kończy”, tylko ciągle reaguje.
+## Higiena cyfrowa: zestaw strategii do sprawdzenia
 
-## 5. Mechanizmy psychologiczne
+Higiena cyfrowa nie jest wystandaryzowanym leczeniem ani uniwersalną receptą. To praktyczna nazwa modyfikacji środowiska i zachowania, które warto dobrać do rozpoznanego mechanizmu, możliwości osoby oraz kosztów ubocznych. Pomocne **mogą** być:
 
-## 5.1. Uwaga i koszt przełączania
+- ograniczenie niekrytycznych powiadomień lub zebranie ich w określonych porach;
+- ustalenie, które kanały służą sprawom pilnym i kiedy odpowiedź nie jest oczekiwana;
+- bloki pracy bez przełączania oraz rzeczywiste przerwy od tego samego rodzaju bodźców;
+- rytuał kończenia pracy i usunięcie służbowych urządzeń z miejsca odpoczynku;
+- ograniczenie szczególnie pobudzających aktywności przed snem, przyciemnienie światła i tryb „nie przeszkadzać”;
+- pozostawienie telefonu poza zasięgiem, jeżeli nocne sprawdzanie rzeczywiście przerywa sen;
+- świadome kształtowanie kanałów społecznościowych i rozmowę o FOMO, zamiast samego liczenia minut;
+- zmianę norm zespołu, szkoły lub rodziny, gdy źródłem obciążenia jest wymuszona dostępność.
 
-Ciągłe przełączanie kontekstu między mailami, komunikatorami, dokumentami i spotkaniami obniża wydajność poznawczą. Każde przerwanie wymaga ponownego uruchomienia reprezentacji zadania, co zwiększa zmęczenie umysłowe i liczbę błędów.
+Strategię należy potraktować jak mały eksperyment: określić problem, zmienić jeden istotny czynnik i ocenić po uzgodnionym czasie sen, napięcie, wykonanie zadań oraz relacje. Sztywna reguła może być nieskuteczna lub wykluczająca, na przykład gdy urządzenie zapewnia wsparcie społeczne, dostępność albo narzędzia kompensacyjne. „Detoks” nie naprawi źle zaprojektowanej pracy.
 
-## 5.2. Regulacja emocji
+## Ocena problemu i pomoc
 
-Technostres nasila drażliwość, frustrację i bezradność. Szczególnie obciążające są sytuacje niskiej przewidywalności (awarie, nagłe zmiany platform, przeciążenie kanałów). Emocjonalnie przypomina to mikrodawki chronicznego stresu, które kumulują się w ciągu dnia.
+W ocenie warto zapytać: **co** osoba robi, **po co**, **z kim**, **o jakiej porze**, **jak długo**, czy może przerwać oraz co traci wskutek tej aktywności. Dane z telefonu mogą uzupełniać, ale nie zastępują rozmowy; czas włączonego ekranu nie mówi, czy dana osoba tworzy, pracuje, otrzymuje wsparcie czy bezcelowo przegląda treści.
 
-## 5.3. Sen i regeneracja
+Konsultacja medyczna lub psychologiczna jest zasadna, gdy bezsenność, senność, lęk albo utrata kontroli utrzymują się i powodują wyraźne cierpienie lub pogorszenie funkcjonowania. Diagnostyka powinna uwzględnić inne przyczyny snu i lęku, a nie zakładać z góry winy urządzenia.
 
-Nadmierna ekspozycja na ekrany wieczorem oraz wysoka aktywacja poznawcza utrudniają „odklejenie się” od pracy. Skutkiem bywa opóźnienie zasypiania, płytszy sen i niższa regeneracja, co następnego dnia zwiększa podatność na kolejne stresory technologiczne.
+## Wnioski
 
-## 6. Objawy i konsekwencje
-
-### Objawy indywidualne
-
-- poczucie przytłoczenia technologią,
-- „mgła poznawcza”, spadek koncentracji,
-- napięcie mięśniowe i zmęczenie,
-- impulsywne sprawdzanie urządzeń,
-- trudność z odpoczynkiem bez bodźców cyfrowych.
-
-### Konsekwencje organizacyjne
-
-- spadek jakości pracy i wzrost liczby błędów,
-- większa absencja i prezenteizm,
-- konflikty interpersonalne wynikające z przeciążenia,
-- wyższe ryzyko wypalenia i rotacji pracowników.
-
-### Konsekwencje społeczne
-
-- erozja granic między pracą a życiem prywatnym,
-- osłabienie jakości kontaktów bezpośrednich,
-- normalizacja „stałej dostępności” jako normy kulturowej.
-
-## 7. Czynniki ryzyka i ochronne
-
-## 7.1. Czynniki ryzyka
-
-- wysoka liczba równoległych kanałów komunikacji,
-- niejasne zasady responsywności,
-- niski poziom autonomii i kontroli nad harmonogramem,
-- brak kompetencji cyfrowych lub wsparcia wdrożeniowego,
-- kultura organizacyjna premiująca natychmiastową odpowiedź.
-
-## 7.2. Czynniki ochronne
-
-- jasne reguły komunikacji asynchronicznej,
-- higiena powiadomień i praca blokami,
-- szkolenia cyfrowe i mentoring technologiczny,
-- wsparcie przełożonego i zespołu,
-- prawo do niedostępności po godzinach.
-
-## 8. Diagnostyka i pomiar
-
-Rzetelna ocena technostresu wymaga triangulacji metod:
-
-- **Kwestionariusze samoopisowe** (subiektywna ocena obciążenia),
-- **wskaźniki behawioralne** (np. liczba przełączeń, czas reakcji, liczba kanałów),
-- **dane organizacyjne** (absencja, błędy, rotacja),
-- **miary dobrostanu** (sen, zmęczenie, satysfakcja, wypalenie).
-
-W praktyce badawczej szczególnie ważne jest badanie podłużne, ponieważ technostres ma charakter dynamiczny i falujący.
-
-## 9. Interwencje oparte na dowodach
-
-## 9.1. Poziom jednostki
-
-- techniki zarządzania uwagą (single-tasking, time-boxing),
-- rytuały rozpoczęcia i zakończenia pracy,
-- okna bez powiadomień,
-- mikropauzy regeneracyjne,
-- psychoedukacja dotycząca przeciążenia poznawczego.
-
-## 9.2. Poziom zespołu
-
-- kontrakt komunikacyjny (kiedy synchronicznie, kiedy asynchronicznie),
-- ograniczenie liczby narzędzi o nakładającej się funkcji,
-- „quiet hours” na pracę głęboką,
-- standardy spotkań cyfrowych (agenda, czas, decyzje).
-
-## 9.3. Poziom organizacji
-
-- projektowanie pracy pod kątem obciążenia poznawczego,
-- okresowe audyty technostresu,
-- szkolenia z kompetencji cyfrowych i higieny pracy,
-- polityka prawa do bycia offline,
-- wdrażanie narzędzi z perspektywą UX i psychologii pracy.
-
-## 9.4. Poziom systemowy
-
-- standardy ergonomii cyfrowej,
-- rekomendacje zdrowia publicznego dot. higieny cyfrowej,
-- regulacje chroniące granice czasu pracy.
-
-## 10. Technostres a grupy szczególne
-
-- **Studenci i uczniowie**: ryzyko przeciążenia wielością platform edukacyjnych i presją ciągłej obecności online.
-- **Pracownicy wiedzy**: wysoki koszt przełączania kontekstu i „meeting fatigue”.
-- **Zawody pomocowe**: konflikt między dostępnością cyfrową a regeneracją emocjonalną.
-- **Osoby neuroróżnorodne**: jednocześnie podwyższona podatność na przeciążenie bodźcowe i potencjalnie duże korzyści z dobrze zaprojektowanych narzędzi.
-
-## 11. Kierunki dalszych badań
-
-1. Lepsze rozróżnienie jakości użycia technologii (tworzenie vs. bierna konsumpcja).
-2. Włączenie danych obiektywnych z urządzeń przy zachowaniu zasad etycznych.
-3. Badania międzykulturowe nad normami dostępności cyfrowej.
-4. Ocena wpływu systemów AI na poczucie autonomii i sprawstwa.
-5. Badania interwencyjne RCT nad skutecznością programów higieny cyfrowej.
-
-## 12. Wnioski praktyczne
-
-Technostres jest mierzalnym i modyfikowalnym ryzykiem psychospołecznym. Najskuteczniejsze strategie nie polegają na „odrzuceniu technologii”, ale na projektowaniu środowiska cyfrowego zgodnie z ograniczeniami ludzkiej uwagi, potrzebą regeneracji i zasadą kontroli użytkownika nad rytmem pracy.
-
-W praktyce oznacza to przesunięcie odpowiedzialności z wyłącznie indywidualnego „radzenia sobie” na współodpowiedzialność organizacji, projektantów systemów i kultury pracy.## Bibliografia orientacyjna
-
-- Ayyagari, Grover, Purvis - technostress i obciążenie poznawcze.
-- Tarafdar i współpracownicy - klasyczne kreatory technostresu.
-- Lazarus, Folkman - model transakcyjny stresu.
-- Bakker, Demerouti - model JD-R.
-- Hobfoll - Conservation of Resources.
-
-> Uwaga redakcyjna: sekcja bibliograficzna ma charakter orientacyjny i będzie rozwijana o pełne opisy APA w kolejnych aktualizacjach.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Technostres: kompleksowe ujęcie naukowe" polega na tym, że technologia oddziałuje psychologicznie nie tylko przez treść, lecz także przez tempo, dostępność, architekturę wyboru i sposób włączania jej w relacje.
-
-Dopiero wspólna analiza zagadnień takich jak streszczenie, czynniki ryzyka i ochronne oraz bibliografia orientacyjna pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Technostres: kompleksowe ujęcie naukowe" pokazuje, że najważniejsze jest traktowanie wpływu technologii jako skutku interakcji między projektem narzędzia a ludzkimi potrzebami i ograniczeniami.
-
-
-Dopiero wspólna analiza zagadnień takich jak streszczenie, czynniki ryzyka i ochronne oraz bibliografia orientacyjna pokazuje pełny zakres omawianego zjawiska.
+Wpływ technologii wynika z interakcji projektu narzędzia, aktywności, osoby i otoczenia. Trafna odpowiedź łączy odzyskiwanie kontroli przez użytkownika z ograniczaniem strukturalnych źródeł przeciążenia. Celem nie jest minimalizacja kontaktu z technologią za wszelką cenę, lecz takie jej użycie, które pozwala realizować cele bez trwałego kosztu dla uwagi, regeneracji i relacji.
 
 ## Bibliografia
 
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+- American Psychiatric Association. (2022). *Diagnostic and statistical manual of mental disorders* (5th ed., text rev.). American Psychiatric Association Publishing. [https://doi.org/10.1176/appi.books.9780890425787](https://doi.org/10.1176/appi.books.9780890425787)
+- Eppler, M. J., & Mengis, J. (2004). The concept of information overload: A review of literature from organization science, accounting, marketing, MIS, and related disciplines. *The Information Society, 20*(5), 325–344. [https://doi.org/10.1080/01972240490507974](https://doi.org/10.1080/01972240490507974)
+- Hale, L., & Guan, S. (2015). Screen time and sleep among school-aged children and adolescents: A systematic literature review. *Sleep Medicine Reviews, 21*, 50–58. [https://doi.org/10.1016/j.smrv.2014.07.007](https://doi.org/10.1016/j.smrv.2014.07.007)
+- Mark, G., Gudith, D., & Klocke, U. (2008). The cost of interrupted work: More speed and stress. In *Proceedings of the SIGCHI Conference on Human Factors in Computing Systems* (pp. 107–110). Association for Computing Machinery. [https://doi.org/10.1145/1357054.1357072](https://doi.org/10.1145/1357054.1357072)
+- Montag, C., Wegmann, E., Sariyska, R., Demetrovics, Z., & Brand, M. (2021). How to overcome taxonomical problems in the study of Internet use disorders and what to do with “smartphone addiction”? *Journal of Behavioral Addictions, 9*(4), 908–914. [https://doi.org/10.1556/2006.8.2019.59](https://doi.org/10.1556/2006.8.2019.59)
+- Przybylski, A. K., Murayama, K., DeHaan, C. R., & Gladwell, V. (2013). Motivational, emotional, and behavioral correlates of fear of missing out. *Computers in Human Behavior, 29*(4), 1841–1848. [https://doi.org/10.1016/j.chb.2013.02.014](https://doi.org/10.1016/j.chb.2013.02.014)
+- Ragu-Nathan, T. S., Tarafdar, M., Ragu-Nathan, B. S., & Tu, Q. (2008). The consequences of technostress for end users in organizations: Conceptual development and empirical validation. *Information Systems Research, 19*(4), 417–433. [https://doi.org/10.1287/isre.1070.0165](https://doi.org/10.1287/isre.1070.0165)
+- Scott, H., Biello, S. M., & Woods, H. C. (2019). Social media use and adolescent sleep patterns: Cross-sectional findings from the UK Millennium Cohort Study. *BMJ Open, 9*(9), e031161. [https://doi.org/10.1136/bmjopen-2019-031161](https://doi.org/10.1136/bmjopen-2019-031161)
+- Tarafdar, M., Cooper, C. L., & Stich, J.-F. (2019). The technostress trifecta: Techno eustress, techno distress and design. *Information Systems Journal, 29*(1), 6–42. [https://doi.org/10.1111/isj.12169](https://doi.org/10.1111/isj.12169)

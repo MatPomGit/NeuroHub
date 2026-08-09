@@ -15,6 +15,12 @@ window.SITE_CONFIG = {
 
   // Zachowuje dawne adresy SPA po scaleniu lub przeniesieniu artykułów.
   articleRedirects: {
+    'psychologia_technologii/zmeczenie_cyfrowe': 'psychologia_technologii/technostres',
+    'psychologia_technologii/fomo_i_nomofobia': 'psychologia_technologii/technostres',
+    'psychologia_technologii/higiena_cyfrowa': 'psychologia_technologii/technostres',
+    'psychologia_technologii/technologia_a_sen': 'psychologia_technologii/technostres',
+    'psychologia_technologii/zdrada_technologii': 'psychologia_technologii/algorytmy_samoocena_i_autonomia',
+    'psychologia_technologii/psychoedukacja_rodzinna': 'psychologia_technologii/technologia_w_rodzinie_i_pracy',
     'psychologia_niepelnosprawnosci/modele_niepelnosprawnosci': 'psychologia_niepelnosprawnosci/wprowadzenie',
     'psychologia_niepelnosprawnosci/inkluzja_spoleczna': 'psychologia_niepelnosprawnosci/wprowadzenie',
     'psychologia_niepelnosprawnosci/niepelnosprawnosc_intelektualna': 'psychologia_niepelnosprawnosci/funkcjonowanie_i_bariery',
@@ -1224,14 +1230,8 @@ window.SITE_CONFIG = {
       domainKey: 'psychologia_technologii',
       items: [
         { id: 'psychologia_technologii/technostres', label: 'Technostres - artykul naukowy', file: 'wiki/psychologia_technologii/technostres.md' },
-        { id: 'psychologia_technologii/zmeczenie_cyfrowe', label: 'Zmeczenie cyfrowe i przeciazenie informacyjne', file: 'wiki/psychologia_technologii/zmeczenie_cyfrowe.md' },
-        { id: 'psychologia_technologii/fomo_i_nomofobia', label: 'FOMO i nomofobia', file: 'wiki/psychologia_technologii/fomo_i_nomofobia.md' },
-        { id: 'psychologia_technologii/algorytmy_a_samoocena', label: 'Algorytmy personalizacji, a samoocena', file: 'wiki/psychologia_technologii/algorytmy_a_samoocena.md' },
-        { id: 'psychologia_technologii/higiena_cyfrowa', label: 'Higiena cyfrowa i profilaktyka przeciazenia', file: 'wiki/psychologia_technologii/higiena_cyfrowa.md' },
-        { id: 'psychologia_technologii/technologia_w_pracy', label: 'Technologia w pracy: granice, kontrola i autonomia', file: 'wiki/psychologia_technologii/technologia_w_pracy.md' },
-        { id: 'psychologia_technologii/technologia_a_sen', label: 'Technologia, a sen i regeneracja psychiczna', file: 'wiki/psychologia_technologii/technologia_a_sen.md' },
-        { id: 'psychologia_technologii/psychoedukacja_rodzinna', label: 'Psychoedukacja rodzinna w erze ekranów', file: 'wiki/psychologia_technologii/psychoedukacja_rodzinna.md' },
-        { id: 'psychologia_technologii/zdrada_technologii', label: 'Zdrada technologii', file: 'wiki/psychologia_technologii/zdrada_technologii.md' },
+        { id: 'psychologia_technologii/algorytmy_samoocena_i_autonomia', label: 'Algorytmy, samoocena i autonomia', file: 'wiki/psychologia_technologii/algorytmy_samoocena_i_autonomia.md' },
+        { id: 'psychologia_technologii/technologia_w_rodzinie_i_pracy', label: 'Technologia w rodzinie i pracy', file: 'wiki/psychologia_technologii/technologia_w_rodzinie_i_pracy.md' },
         { id: 'dla_studentow/psycholog_w_it', label: 'Psycholog w IT', file: 'wiki/dla_studentow/psycholog_w_it.md' },
         { id: 'dla_studentow/psycholog_w_it_kompetencje_mierniki_i_portfolio', label: 'Psycholog w IT - kompetencje, mierniki i portfolio', file: 'wiki/dla_studentow/psycholog_w_it_kompetencje_mierniki_i_portfolio.md' },
       ]
@@ -1668,13 +1668,8 @@ window.SITE_CONFIG = {
     ],
     technology_psychology: [
       { file: 'wiki/psychologia_technologii/technostres.md',            label: 'Technostres - artykul naukowy',                      status: 'live' },
-      { file: 'wiki/psychologia_technologii/zmeczenie_cyfrowe.md',      label: 'Zmeczenie cyfrowe i przeciazenie informacyjne',      status: 'live' },
-      { file: 'wiki/psychologia_technologii/fomo_i_nomofobia.md',       label: 'FOMO i nomofobia',                                   status: 'live' },
-      { file: 'wiki/psychologia_technologii/algorytmy_a_samoocena.md',  label: 'Algorytmy personalizacji, a samoocena',              status: 'live' },
-      { file: 'wiki/psychologia_technologii/higiena_cyfrowa.md',        label: 'Higiena cyfrowa i profilaktyka przeciazenia',        status: 'live' },
-      { file: 'wiki/psychologia_technologii/technologia_w_pracy.md',    label: 'Technologia w pracy: granice, kontrola i autonomia', status: 'live' },
-      { file: 'wiki/psychologia_technologii/technologia_a_sen.md',      label: 'Technologia, a sen i regeneracja psychiczna',        status: 'live' },
-      { file: 'wiki/psychologia_technologii/psychoedukacja_rodzinna.md',label: 'Psychoedukacja rodzinna w erze ekranow',             status: 'live' },
+      { file: 'wiki/psychologia_technologii/algorytmy_samoocena_i_autonomia.md', label: 'Algorytmy, samoocena i autonomia', status: 'live' },
+      { file: 'wiki/psychologia_technologii/technologia_w_rodzinie_i_pracy.md', label: 'Technologia w rodzinie i pracy', status: 'live' },
     ],
     affective_robotics: [
       { file: 'wiki/psychologia_ai/psychologia_interakcji_czlowiek_ai.md', label: 'Psychologia interakcji człowiek–AI', status: 'live' },
@@ -2474,19 +2469,8 @@ window.SITE_CONFIG = {
           title: 'Artykuly dostepne',
           articles: [
             { label: 'Technostres - artykul naukowy', id: 'psychologia_technologii/technostres', status: 'live' },
-          ]
-        },
-        {
-          title: 'Plan redakcyjny: wplyw technologii na psychologie człowieka',
-          articles: [
-            { label: 'Zmeczenie cyfrowe i przeciazenie informacyjne',    id: 'psychologia_technologii/zmeczenie_cyfrowe',     status: 'live' },
-            { label: 'FOMO i nomofobia',                                  id: 'psychologia_technologii/fomo_i_nomofobia',      status: 'live' },
-            { label: 'Algorytmy personalizacji, a samoocena',              id: 'psychologia_technologii/algorytmy_a_samoocena', status: 'live' },
-            { label: 'Higiena cyfrowa i profilaktyka przeciazenia',       id: 'psychologia_technologii/higiena_cyfrowa',       status: 'live' },
-            { label: 'Technologia w pracy: granice, kontrola i autonomia',id: 'psychologia_technologii/technologia_w_pracy',   status: 'live' },
-            { label: 'Technologia, a sen i regeneracja psychiczna',        id: 'psychologia_technologii/technologia_a_sen',     status: 'live' },
-            { label: 'Psychoedukacja rodzinna w erze ekranów',            id: 'psychologia_technologii/psychoedukacja_rodzinna', status: 'live' },
-            { label: 'Psycholog w IT',                                       id: 'dla_studentow/psycholog_w_it', status: 'xlink' },
+            { label: 'Algorytmy, samoocena i autonomia', id: 'psychologia_technologii/algorytmy_samoocena_i_autonomia', status: 'live' },
+            { label: 'Technologia w rodzinie i pracy', id: 'psychologia_technologii/technologia_w_rodzinie_i_pracy', status: 'live' },
           ]
         },
       ]

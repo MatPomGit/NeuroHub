@@ -42,13 +42,9 @@ Raport obejmuje wszystkie nieprzekierowujące pliki w `wiki/`, które przed klas
 | `wiki/psychologia_niepelnosprawnosci/adaptacja_rodzina_i_wsparcie.md` | publiczny artykuł merytoryczny |
 | `wiki/psychologia_niepelnosprawnosci/funkcjonowanie_i_bariery.md` | publiczny artykuł merytoryczny |
 | `wiki/psychologia_niepelnosprawnosci/wprowadzenie.md` | publiczny artykuł merytoryczny |
-| `wiki/psychologia_technologii/algorytmy_a_samoocena.md` | publiczny artykuł merytoryczny |
-| `wiki/psychologia_technologii/fomo_i_nomofobia.md` | publiczny artykuł merytoryczny |
-| `wiki/psychologia_technologii/higiena_cyfrowa.md` | publiczny artykuł merytoryczny |
-| `wiki/psychologia_technologii/psychoedukacja_rodzinna.md` | publiczny artykuł merytoryczny |
-| `wiki/psychologia_technologii/technologia_a_sen.md` | publiczny artykuł merytoryczny |
-| `wiki/psychologia_technologii/technologia_w_pracy.md` | publiczny artykuł merytoryczny |
-| `wiki/psychologia_technologii/zmeczenie_cyfrowe.md` | publiczny artykuł merytoryczny |
+| `wiki/psychologia_technologii/technostres.md` | publiczny artykuł merytoryczny |
+| `wiki/psychologia_technologii/algorytmy_samoocena_i_autonomia.md` | publiczny artykuł merytoryczny |
+| `wiki/psychologia_technologii/technologia_w_rodzinie_i_pracy.md` | publiczny artykuł merytoryczny |
 | `wiki/reference/bibliografia_portalu.md` | dokumentacja redakcyjna |
 | `wiki/reference/content_audit.md` | raport |
 | `wiki/reference/editorial_checklist.md` | dokumentacja redakcyjna |

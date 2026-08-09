@@ -35,7 +35,7 @@ Nie należy usuwać sesji automatycznie tylko dlatego, że wystąpiło odstępst
 
 ## Obserwacja jako metoda pomiaru
 
-Obserwacja badawcza przekształca zachowanie w dane według uprzednich reguł. Różni się od [obserwacji klinicznej](../diagnoza/obserwacja_kliniczna.md) celem i logiką wnioskowania. Schemat obserwacyjny określa sytuację, jednostkę kodowania, kategorie, sposób próbkowania osób, czasu lub zdarzeń oraz reguły dla materiału nieczytelnego.
+Obserwacja badawcza przekształca zachowanie w dane według uprzednich reguł. Różni się od [obserwacji klinicznej](../diagnoza/wywiad_psychologiczny.md#obserwacja-fakt-zapis-i-interpretacja) celem i logiką wnioskowania. Schemat obserwacyjny określa sytuację, jednostkę kodowania, kategorie, sposób próbkowania osób, czasu lub zdarzeń oraz reguły dla materiału nieczytelnego.
 
 Mierzyć można częstość, czas trwania, latencję, intensywność albo sekwencję zachowań. Próbkowanie ogniskowe śledzi jedną osobę, skanowe okresowo obejmuje grupę, zdarzeniowe rejestruje wskazane zajście, a interwałowe obecność zachowania w odcinkach czasu. Interwały tej samej osoby nie są niezależnymi uczestnikami.
 

@@ -197,6 +197,12 @@ window.SITE_CONFIG = {
     'psychologia_spoleczna/stereotypy': 'psychologia_spoleczna/percepcja_spoleczna',
     'psychologia_spoleczna/zachowania_prospoleczne': 'psychologia_spoleczna/grupy_relacje_i_wspolpraca',
     'psychologia_spoleczna/zdrowe_poczucie_wlasnej_wartosci': 'psychologia_spoleczna/ja_i_samoocena',
+    'diagnoza/diagnoza_stygmatyzacja': 'diagnoza/etapy_diagnozy',
+    'diagnoza/diagnoza_techniki_rozmowy_psychologicznej': 'diagnoza/wywiad_psychologiczny',
+    'diagnoza/obserwacja_kliniczna': 'diagnoza/wywiad_psychologiczny',
+    'diagnoza/opinia_psychologiczna': 'diagnoza/formulowanie_przypadku',
+    'diagnoza/techniki_projekcyjne': 'diagnoza/formulowanie_przypadku',
+    'diagnoza/wywiad_kognitywny_poznawczy': 'diagnoza/wywiad_psychologiczny',
     'psychopatologia/formulowanie_przypadku': 'diagnoza/formulowanie_przypadku',
     'robotyka_afektywna/dolina_niesamowitosci': 'psychologia_ai/psychologia_interakcji_czlowiek_ai',
     'robotyka_afektywna/emocje_robotow': 'psychologia_ai/mechanizmy_ograniczenia_i_etyka_ai',
@@ -820,15 +826,9 @@ window.SITE_CONFIG = {
       section: 'Diagnoza psychologiczna',
       domainKey: 'diagnoza',
       items: [
-        { id: 'diagnoza/etapy_diagnozy', label: 'Etapy i cele diagnozy', file: 'wiki/diagnoza/etapy_diagnozy.md' },
-        { id: 'diagnoza/wywiad_psychologiczny', label: 'Wywiad psychologiczny', file: 'wiki/diagnoza/wywiad_psychologiczny.md' },
-        { id: 'diagnoza/wywiad_kognitywny_poznawczy', label: 'Wywiad kognitywny (poznawczy)', file: 'wiki/diagnoza/wywiad_kognitywny_poznawczy.md' },
-        { id: 'diagnoza/diagnoza_techniki_rozmowy_psychologicznej', label: 'Techniki rozmowy psychologicznej', file: 'wiki/diagnoza/diagnoza_techniki_rozmowy_psychologicznej.md' },
-        { id: 'diagnoza/obserwacja_kliniczna', label: 'Obserwacja kliniczna', file: 'wiki/diagnoza/obserwacja_kliniczna.md' },
-        { id: 'diagnoza/formulowanie_przypadku', label: 'Formulowanie przypadku', file: 'wiki/diagnoza/formulowanie_przypadku.md' },
-        { id: 'diagnoza/techniki_projekcyjne', label: 'Techniki projekcyjne', file: 'wiki/diagnoza/techniki_projekcyjne.md' },
-        { id: 'diagnoza/opinia_psychologiczna', label: 'Opinia psychologiczna', file: 'wiki/diagnoza/opinia_psychologiczna.md' },
-        { id: 'diagnoza/diagnoza_stygmatyzacja', label: 'Diagnoza, a stygmatyzacja', file: 'wiki/diagnoza/diagnoza_stygmatyzacja.md' },
+        { id: 'diagnoza/etapy_diagnozy', label: 'Proces diagnozy psychologicznej', file: 'wiki/diagnoza/etapy_diagnozy.md' },
+        { id: 'diagnoza/wywiad_psychologiczny', label: 'Wywiad, rozmowa i obserwacja', file: 'wiki/diagnoza/wywiad_psychologiczny.md' },
+        { id: 'diagnoza/formulowanie_przypadku', label: 'Formułowanie, metody dodatkowe i opinia', file: 'wiki/diagnoza/formulowanie_przypadku.md' },
       ]
     },
     { /* Emocje i motywacje */
@@ -1784,15 +1784,9 @@ window.SITE_CONFIG = {
       { file: 'wiki/etyka/odpowiedzialnosc_zawodowa.md', label: 'Odpowiedzialnosc zawodowa',            status: 'live' },
     ],
     diagnoza: [
-      { file: 'wiki/diagnoza/etapy_diagnozy.md',                 label: 'Etapy i cele diagnozy',              status: 'live' },
-      { file: 'wiki/diagnoza/wywiad_psychologiczny.md',          label: 'Wywiad psychologiczny',              status: 'live' },
-      { file: 'wiki/diagnoza/wywiad_kognitywny_poznawczy.md',     label: 'Wywiad kognitywny (poznawczy)',       status: 'live' },
-      { file: 'wiki/diagnoza/diagnoza_techniki_rozmowy_psychologicznej.md', label: 'Techniki rozmowy psychologicznej', status: 'live' },
-      { file: 'wiki/diagnoza/obserwacja_kliniczna.md',           label: 'Obserwacja kliniczna',               status: 'live' },
-      { file: 'wiki/diagnoza/formulowanie_przypadku.md',         label: 'Formulowanie przypadku',             status: 'live' },
-      { file: 'wiki/diagnoza/techniki_projekcyjne.md',           label: 'Techniki projekcyjne',               status: 'live' },
-      { file: 'wiki/diagnoza/opinia_psychologiczna.md',          label: 'Opinia psychologiczna',              status: 'live' },
-      { file: 'wiki/diagnoza/diagnoza_stygmatyzacja.md',         label: 'Diagnoza, a stygmatyzacja',          status: 'live' },
+      { file: 'wiki/diagnoza/etapy_diagnozy.md',                 label: 'Proces diagnozy psychologicznej',              status: 'live' },
+      { file: 'wiki/diagnoza/wywiad_psychologiczny.md',          label: 'Wywiad, rozmowa i obserwacja',              status: 'live' },
+      { file: 'wiki/diagnoza/formulowanie_przypadku.md',         label: 'Formułowanie, metody dodatkowe i opinia',             status: 'live' },
     ],
     rozwojowa: [
       { file: 'wiki/psychologia_rozwojowa/teorie_rozwoju.md', label: 'Teorie i metody badania rozwoju', status: 'live' },
@@ -2122,11 +2116,9 @@ window.SITE_CONFIG = {
         {
           title: 'Proces diagnostyczny',
           articles: [
-            { label: 'Etapy i cele diagnozy', id: 'diagnoza/etapy_diagnozy', status: 'live' },
-            { label: 'Wywiad psychologiczny', id: 'diagnoza/wywiad_psychologiczny', status: 'live' },
-            { label: 'Techniki rozmowy psychologicznej', id: 'diagnoza/diagnoza_techniki_rozmowy_psychologicznej', status: 'live' },
-            { label: 'Obserwacja kliniczna', id: 'diagnoza/obserwacja_kliniczna', status: 'live' },
-            { label: 'Formulowanie przypadku', id: 'diagnoza/formulowanie_przypadku', status: 'live' },
+            { label: 'Proces diagnozy psychologicznej', id: 'diagnoza/etapy_diagnozy', status: 'live' },
+            { label: 'Wywiad, rozmowa i obserwacja', id: 'diagnoza/wywiad_psychologiczny', status: 'live' },
+            { label: 'Formułowanie, metody dodatkowe i opinia', id: 'diagnoza/formulowanie_przypadku', status: 'live' },
           ]
         },
         {
@@ -2140,7 +2132,6 @@ window.SITE_CONFIG = {
           articles: [
             { label: 'Psychometria - podstawy', id: 'psychometria/psychometria_wprowadzenie', status: 'xlink' },
             { label: 'Testy neuropsychologiczne', id: 'testy/testy_przeglad', status: 'xlink' },
-            { label: 'Techniki projekcyjne', id: 'diagnoza/techniki_projekcyjne', status: 'live' },
           ]
         },
         {
@@ -2156,9 +2147,7 @@ window.SITE_CONFIG = {
         {
           title: 'Etyka i prawo',
           articles: [
-            { label: 'Opinia psychologiczna', id: 'diagnoza/opinia_psychologiczna', status: 'live' },
             { label: 'Tajemnica zawodowa w diagnozie', id: 'etyka/tajemnica_zawodowa_granice', sectionId: 'tajemnica-zawodowa-w-diagnozie-psychologicznej', status: 'xlink' },
-            { label: 'Diagnoza, a stygmatyzacja', id: 'diagnoza/diagnoza_stygmatyzacja', status: 'live' },
           ]
         },
         {

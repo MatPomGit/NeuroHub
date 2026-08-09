@@ -1,158 +1,124 @@
-﻿---
-lastReviewed: 2026-04-01
+---
+lastReviewed: 2026-08-09
 reviewCycleMonths: 24
-evidenceCutoffDate: 2025-12-31
+evidenceCutoffDate: 2026-08-09
+content_type: article
+aliases:
+  - rozmowa diagnostyczna
+  - obserwacja kliniczna
 ---
 
-# Wywiad psychologiczny
+# Wywiad, rozmowa i obserwacja w diagnozie psychologicznej
 
-## Definicja i funkcja
+## Trzy różne procedury nazywane wywiadem
 
-Wywiad psychologiczny to **ustrukturyzowana lub swobodna rozmowa prowadzona przez psychologa** w celu zebrania informacji niezbędnych do postawienia diagnozy, zaplanowania terapii lub wydania opinii. Jest jedną z najstarszych i najszerzej stosowanych metod diagnostycznych - łączy walory jakościowe (głęboki opis) z możliwością standaryzacji.
+Wywiad jest źródłem danych opartych na relacji osoby badanej, ale jego wartość zależy od celu, struktury i sposobu prowadzenia. Nie należy mieszać trzech procedur:
 
-> „Wywiad jest oknem na świat wewnętrzny klienta - jego jakość zależy od umiejętności otwarcia odpowiednich okienek." - Morrison (2014)
+| Procedura | Cel | Struktura | Czego nie wolno z niej wnioskować? |
+|---|---|---|---|
+| **Wywiad kliniczny** | Zrozumienie problemu, przebiegu, funkcjonowania, ryzyka, zasobów i kontekstu | Zwykle elastyczna lub półustrukturyzowana rozmowa | Swobodna ocena kliniczna sama nie zapewnia rzetelności ani pełnego pokrycia kryteriów |
+| **Wywiad ustrukturyzowany** | Systematyczna ocena uprzednio określonych objawów lub kryteriów | Ustalona treść, reguły dopytywania, kodowania i często kolejność | Wynik nie zastępuje oceny funkcjonalnej, różnicowej ani medycznej; odstępstwa od instrukcji osłabiają standaryzację |
+| **Wywiad kognitywny** | Wspomaganie wydobywania wspomnień o zdarzeniu z pamięci epizodycznej | Procedura swobodnej relacji i niesugerujących technik przypominania | Nie jest psychoterapią poznawczą, testem neuropsychologicznym ani ogólną metodą diagnozowania zaburzeń |
 
----
+Każda relacja jest danymi o tym, co osoba pamięta, rozumie i chce lub może zakomunikować w danej sytuacji. Nie jest bezpośrednim zapisem zdarzeń. Dane z rozmowy należy integrować w ramach [procesu diagnozy psychologicznej](etapy_diagnozy.md).
 
-## Rodzaje wywiadu
+## Przygotowanie i otwarcie
 
-### Podział według stopnia strukturyzacji
+Przed rozmową psycholog określa pytanie diagnostyczne, obszary konieczne do omówienia i sposób reagowania na ryzyko. Na początku przedstawia swoją rolę, cel, przewidywany przebieg, zasady notowania lub nagrywania, odbiorców wyniku oraz poufność i jej granice. Pyta o potrzeby komunikacyjne, język, dostępność i zgodę na udział osób trzecich.
 
-| Typ wywiadu | Charakterystyka | Zastosowanie |
-|---|---|---|
-| **Niestrukturyzowany** | Swobodna rozmowa, otwarte pytania, brak z góry określonego schematu | Psychoterapia, wstępna ocena kliniczna |
-| **Półstrukturyzowany** | Ogólny schemat tematyczny, elastyczność w zadawaniu pytań | SCID, wywiad biograficzny |
-| **Ustrukturyzowany** | Ściśle określone pytania i kolejność, kwantyfikowalne odpowiedzi | MINI, DIA-X, badania naukowe |
+Kontrakt wpływa na dane. Osoba może odpowiadać inaczej w dobrowolnej konsultacji, badaniu pracowniczym i postępowaniu sądowym. Diagnosta powinien odnotować kontekst oraz możliwe interesy, nie zakładając z góry ani pełnej szczerości, ani celowego zniekształcania.
 
-### Podział według celu
+## Wywiad kliniczny: od narracji do hipotez
 
-- **Wywiad diagnostyczny** - identyfikacja zaburzeń i objawów
-- **Wywiad biograficzny** - historia życia, ważne wydarzenia
-- **Wywiad kliniczny** - bieżące funkcjonowanie, motywacja do terapii
-- **Wywiad środowiskowy** - kontekst rodzinny, społeczny, zawodowy
-- **Wywiad orzeczniczy** - na potrzeby opinii sądowej lub orzeczenia
+Rozmowę zwykle rozpoczyna zaproszenie do swobodnego opisu problemu. Następnie porządkuje się:
 
----
+- początek, przebieg, częstość, nasilenie i sytuacyjność trudności;
+- wpływ na relacje, naukę, pracę, samoopiekę i sen;
+- dotychczasową pomoc, leczenie, stan somatyczny, leki i używanie substancji;
+- rozwój, ważne doświadczenia i warunki życia, o ile są związane z pytaniem;
+- strategie radzenia sobie, wyjątki od problemu, zasoby i wsparcie;
+- aktualne bezpieczeństwo, w tym ryzyko samouszkodzenia, samobójstwa lub przemocy, gdy istnieją wskazania.
 
-## Kluczowe narzędzia
+Zakres nie jest listą do automatycznego „odhaczenia”. Pytania intymne muszą mieć diagnostyczne uzasadnienie, a tempo powinno uwzględniać obciążenie osoby. Wywiad nie staje się psychoterapią tylko dlatego, że rozmowa przynosi ulgę.
 
-### MINI International Neuropsychiatric Interview
+## Wywiad ustrukturyzowany
 
-MINI (Sheehan i in., 1998) to krótki, wysoce ustrukturyzowany wywiad diagnostyczny oparty na kryteriach DSM i ICD. Składa się z modułów odpowiadających poszczególnym zaburzeniom:
+Wywiady ustrukturyzowane i półustrukturyzowane, na przykład SCID-5 lub MINI, zwiększają powtarzalność dzięki jawnej operacjonalizacji pytań i reguł kodowania. Pomagają ograniczyć pomijanie objawów i różnice między osobami prowadzącymi, lecz wymagają szkolenia oraz stosowania właściwej wersji językowej i populacyjnej.
 
-- Moduł A: Epizod depresyjny
-- Moduł B: Dystymia
-- Moduł C/D: Myśli samobójcze / ryzyko
-- Moduł E: Epizod maniakalny / hipomaniakalny
-- Moduł F–K: Zaburzenia lękowe
-- Moduł N: Nadużywanie substancji
-- Moduł O: Zaburzenia psychotyczne
+Kodowanie odpowiedzi wymaga ustalenia przykładów, czasu trwania, nasilenia, dystresu i upośledzenia funkcjonowania zgodnie z instrukcją. Odpowiedź „tak” na pytanie wprowadzające nie musi oznaczać spełnienia kryterium. Trzeba również rozważyć wyjaśnienia medyczne, substancje, kontekst kulturowy i zaburzenia alternatywne. Struktura zwiększa spójność procedury, ale nie usuwa błędu pomiaru ani potrzeby osądu w granicach podręcznika.
 
-**Zalety:** szybkość (15–30 min), wysoka rzetelność między-oceniaczowa, standaryzacja. **Ograniczenia:** mało miejsca na niuanse kliniczne, ryzyko fałszywych pozytywów.
+## Techniki rozmowy podporządkowane celom
 
-### Wywiad biograficzny
+Technika jest dobra wtedy, gdy poprawia jakość danych lub bezpieczeństwo, a nie dlatego, że brzmi empatycznie. Jej użycie powinno być możliwe do powiązania z celem.
 
-Umożliwia poznanie **narracji życiowej** pacjenta - ciągłości tożsamości, kluczowych doświadczeń kształtujących osobowość, wzorców relacyjnych. Stosowany w podejściu psychodynamicznym i humanistycznym.
+### Uzyskanie własnej perspektywy osoby
 
-Obszary wywiadu biograficznego:
-1. Wczesne dzieciństwo i relacje z opiekunami
-2. Doświadczenia szkolne i rówieśnicze
-3. Relacje romantyczne i seksualne
-4. Praca, kariera, sukcesy i porażki
-5. Straty i traumy
-6. Aktualne relacje i sieć wsparcia
+Pytanie otwarte („Co skłoniło Panią do spotkania?”) daje pierwszeństwo spontanicznej narracji. Minimalne zachęty i cisza pozwalają jej wybrzmieć. **Parafraza** sprawdza rozumienie, nie dodając interpretacji: „Rozumiem, że trudność nasiliła się po zmianie pracy. Czy tak?”. **Odzwierciedlenie** przedstawia emocję jako propozycję do korekty, nie odczyt umysłu: „Kiedy Pani o tym mówi, słyszę napięcie. Jak Pani to nazywa?”.
 
----
+### Ustalenie przebiegu i funkcjonalnego znaczenia
 
-## Struktura klinicznego wywiadu diagnostycznego
+**Sondowanie** dotyczy czasu, kontekstu, częstości, konsekwencji i wyjątków: „Co działo się tuż przed?”, „Kiedy problem nie występuje?”. **Klaryfikacja** zamienia określenia ogólne w dane: „Co w tym przypadku znaczy «często»?”. Skalowanie może ułatwić monitorowanie, jeśli psycholog ustali kotwice skali i nie traktuje różnicy jednego punktu jako precyzyjnego pomiaru.
 
-Typowy wywiad kliniczny obejmuje następujące fazy:
+### Sprawdzenie niespójności i hipotez alternatywnych
 
-1. **Otwarcie** - nawiązanie relacji, omówienie zasad poufności, wyjaśnienie celu
-2. **Problem zgłoszeniowy** - „Co skłoniło Panią/Pana do wizyty?"
-3. **Historia obecnych trudności** - kiedy się pojawiły, przebieg, nasilenie
-4. **Historia psychiatryczna i psychologiczna** - wcześniejsze epizody, terapie, hospitalizacje
-5. **Historia medyczna** - choroby somatyczne, leki, substancje psychoaktywne
-6. **Historia rodzinna** - zaburzenia psychiczne w rodzinie, dynamika
-7. **Wywiad biograficzny** - kluczowe etapy życia
-8. **Ocena stanu aktualnego** - nastrój, funkcjonowanie, zasoby
-9. **Zamknięcie** - podsumowanie, pytania klienta, plan dalszego postępowania
+Podsumowanie etapowe pozwala osobie skorygować chronologię i znaczenie. Niespójność omawia się neutralnie: „W formularzu jest informacja o codziennych trudnościach, a dziś mówi Pan o dwóch dniach w tygodniu. Jak możemy rozumieć tę różnicę?”. Pytanie o dane niezgodne z wstępną hipotezą ogranicza potwierdzanie oczekiwań.
 
----
+### Regulacja obciążenia i domknięcie
 
-## Techniki aktywnego słuchania
+Walidacja uznaje doświadczenie, lecz nie potwierdza automatycznie faktów ani hipotezy. Normalizacja może zmniejszyć wstyd, ale użyta zbyt szybko banalizuje cierpienie. Psycholog monitoruje pobudzenie, proponuje przerwę i pod koniec podsumowuje ustalenia, braki oraz kolejne kroki. Uruchamianie wyobraźni nie jest neutralnym sposobem ustalania faktów i nie powinno służyć do „wydobywania” domniemanych ukrytych wspomnień.
 
-Skuteczny wywiad wymaga więcej niż zadawania pytań. Kluczowe techniki (Gordon, 1977; Miller & Rollnick, 2013):
+## Wywiad kognitywny: wspomaganie przypominania
 
-- **Odzwierciedlanie** (*reflection*) - parafrazowanie treści i emocji klienta
-- **Klaryfikacja** - prośba o doprecyzowanie niejasnych stwierdzeń
-- **Walidacja emocjonalna** - potwierdzenie, że odczucia klienta są zrozumiałe
-- **Otwarte pytania** - zachęcają do rozwinięcia, nie sugerują odpowiedzi
-- **Pytania sondujące** - „Co miał Pan/Pani na myśli mówiąc...?"
-- **Cisza terapeutyczna** - przestrzeń na refleksję klienta
+Wywiad kognitywny powstał jako procedura rozmowy ze świadkami. Wykorzystuje zasadę, że dostęp do pamięci epizodycznej może się zmieniać wraz ze wskazówkami wydobycia. Typowy przebieg obejmuje zbudowanie kontaktu i wyjaśnienie, że dopuszczalne jest „nie pamiętam”, swobodną relację bez przerywania, mentalne odtworzenie kontekstu oraz dopiero później otwarte pytania dotyczące treści już podanej przez rozmówcę (Fisher i Geiselman, 1992; Memon i in., 2010).
 
----
+Instrukcja zgłaszania wszystkiego może zwiększyć liczbę przywołanych szczegółów. Zmiana kolejności relacji bywa stosowana selektywnie. Prośba o przyjęcie cudzej perspektywy budzi większe ryzyko zgadywania i nie powinna zachęcać do wyobrażania sobie informacji, których osoba nie pamięta. Metaanalizy wskazują przeciętny wzrost liczby informacji poprawnych względem standardowych rozmów, ale również pewien wzrost informacji błędnych. Dlatego kompletność relacji nie jest równoznaczna z trafnością (Köhnken i in., 1999; Memon i in., 2010).
 
-## Budowanie relacji diagnostycznej (*rapport*)
+Wywiad kognitywny nie służy do leczenia przekonań ani restrukturyzacji poznawczej. W diagnozie może być metodą dodatkową, gdy pytanie dotyczy pamięci konkretnego zdarzenia. Nie rozstrzyga samodzielnie, czy zdarzenie nastąpiło, a pewność świadka nie stanowi wystarczającego wskaźnika poprawności.
 
-Rapport to **zaufanie i poczucie bezpieczeństwa** niezbędne do szczerego ujawniania informacji. Czynniki sprzyjające rapport (Rogers, 1957):
-- autentyczność (*congruence*),
-- bezwarunkowa akceptacja (*unconditional positive regard*),
-- empatyczne rozumienie (*empathic understanding*).
+## Podatność na sugestię i potwierdzanie hipotez
 
----
+Pamięć ma charakter rekonstrukcyjny. Pytania zawierające założenie („Jak szybko jechał samochód, kiedy uderzył?”), wielokrotne wymuszanie odpowiedzi, ujawnianie relacji innych osób oraz pochwała wybranej wersji mogą zmieniać późniejszą relację. Nie należy obiecywać, że relaks, hipnoza czy wyobrażenie „odzyskają” wierny zapis pamięci (Loftus, 2005).
 
-## Błędy i zniekształcenia w wywiadzie
+Zabezpieczenia obejmują:
 
-| Rodzaj błędu | Opis | Konsekwencja |
-|---|---|---|
-| **Efekt halo** | Globalna ocena zabarwia szczegółowe sądy | Przeoczenie symptomów |
-| **Błąd potwierdzenia** | Szukanie danych zgodnych z hipotezą | Przedwczesne zamknięcie diagnostyczne |
-| **Efekt kolejności** | Pierwsze informacje ważą więcej | Niedoszacowanie późniejszych danych |
-| **Wpływ kulturowy** | Normy kulturowe wpływają na interpretację objawów | Błędna diagnoza |
-| **Desirability bias** | Klient mówi to, czego oczekuje diagnosta | Fałszywe dane |
+1. swobodną relację przed pytaniami szczegółowymi;
+2. pytania otwarte przed zamkniętymi i unikanie założeń niepodanych przez osobę;
+3. zapisywanie brzmienia kluczowych pytań i spontanicznych korekt;
+4. jawne dopuszczenie niepewności i odpowiedzi „nie pamiętam”;
+5. rozdzielenie informacji uzyskanych przed i po ekspozycji na inne relacje;
+6. sprawdzanie danych przeciwnych wobec własnej hipotezy diagnosty.
 
----
+## Relacja jako warunek i źródło wpływu
 
-## Dokumentacja wywiadu
+Bezpieczna, szanująca relacja sprzyja ujawnianiu informacji. Jednocześnie oczekiwania psychologa, różnica statusu, podobieństwo kulturowe i reakcje niewerbalne wpływają na to, co zostaje powiedziane. Przymierze nie gwarantuje prawdziwości relacji, a chłodny dystans nie zapewnia obiektywizmu.
 
-Notatki z wywiadu powinny zawierać:
-- datę, czas trwania i miejsce spotkania,
-- obecność osób trzecich,
-- sposób przekazania informacji o poufności,
-- główne obszary omówione,
-- cytaty klienta istotne diagnostycznie,
-- wstępne hipotezy diagnosty.
+Psycholog powinien być empatyczny i proceduralnie neutralny: nie nagradzać jednej wersji zdarzeń, sprawdzać własne reakcje, pytać o znaczenia kulturowe oraz korzystać z konsultacji lub nagrania za zgodą. Dane o zachowaniu osoby wobec diagnosty opisują tę konkretną relację; przenoszenie ich wprost na wszystkie relacje wymaga dodatkowych dowodów.
 
-Dokumentacja jest objęta **tajemnicą zawodową** i podlega przepisom RODO (rozporządzenie UE 2016/679).
+## Obserwacja: fakt, zapis i interpretacja
 
----## Bibliografia
+Obserwacja kliniczna obejmuje zachowanie widoczne podczas rozmowy i wykonywania zadań. Jest próbką zależną od sytuacji, obecności diagnosty, warunków sensorycznych, języka, zmęczenia i stawki badania. Warto rozdzielić trzy poziomy:
 
-- Morrison, J. (2014). *Wywiad diagnostyczny. Podręcznik DSM-5*. Wydawnictwo UJ.
-- Sheehan, D. V. i in. (1998). The Mini-International Neuropsychiatric Interview. *Journal of Clinical Psychiatry, 59*(Suppl. 20), 22–33.
-- Miller, W. R., & Rollnick, S. (2013). *Wywiad motywujący* (wyd. 3). WUJ.
-- Rogers, C. R. (1957). The necessary and sufficient conditions of therapeutic personality change. *Journal of Consulting Psychology, 21*(2), 95–103.
-- Seligman, L., & Reichenberg, L. W. (2012). *Selecting Effective Treatments* (4th ed.). Wiley.
+| Poziom | Przykład poprawnego zapisu |
+|---|---|
+| **Fakt obserwowalny** | „Po pytaniu o szkołę osoba milczała 18 sekund, patrzyła w dół i powiedziała: «Nie chcę o tym mówić».” |
+| **Kontekst i źródło** | „Zachowanie wystąpiło podczas pierwszego spotkania, po około 70 minutach rozmowy.” |
+| **Interpretacja do sprawdzenia** | „Może wiązać się z napięciem, zmęczeniem, potrzebą prywatności lub innym czynnikiem; samo nie dowodzi unikania jako stałej cechy.” |
 
-## Perspektywa nieoczywista
+Określenia „manipulacyjny”, „nieszczery” czy „bez motywacji” mieszają obserwację z oceną intencji. Lepszy zapis podaje konkretne wypowiedzi, działania, częstość i warunki. Gdy zachowanie ma znaczenie dla decyzji, warto zaplanować obserwację w więcej niż jednym kontekście, zastosować jawne kategorie kodowania lub porównać niezależnych obserwatorów.
 
-Nieoczywista perspektywa na temat "Wywiad psychologiczny" polega na tym, że w diagnozie najwięcej błędów powstaje nie na poziomie pojedynczej techniki, lecz na etapie wnioskowania z danych o różnej jakości i pochodzeniu.
+## Dokumentowanie i integracja
 
-Dopiero wspólna analiza zagadnień takich jak definicja i funkcja, techniki aktywnego słuchania oraz dokumentacja wywiadu pokazuje pełny zakres omawianego zjawiska.
+Notatka wskazuje datę, miejsce, czas, uczestników, cel, warunki, użyty protokół i odstępstwa, istotne wypowiedzi oraz zachowania, a także hipotezy oznaczone jako interpretacje. Cytat zachowuje się tylko wtedy, gdy jest potrzebny. Dokumentacja nie powinna zawierać nieistotnych szczegółów intymnych.
 
-Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
-
-## Podsumowanie
-
-Temat "Wywiad psychologiczny" pokazuje, że najbardziej użyteczna diagnoza łączy precyzję metodologiczną z uważnością na kontekst, relację i ograniczenia interpretacji.
-
-
-Dopiero wspólna analiza zagadnień takich jak definicja i funkcja, techniki aktywnego słuchania oraz dokumentacja wywiadu pokazuje pełny zakres omawianego zjawiska.
+Wywiad, obserwacja, testy i dokumentacja mogą być rozbieżne. Zamiast wybierać wygodniejszą wersję, psycholog ustala różnice w czasie, kontekście i jakości źródła. Wnioski oraz sposób ich komunikowania rozwija artykuł [Formułowanie, metody dodatkowe i opinia](formulowanie_przypadku.md).
 
 ## Bibliografia
 
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+- Fisher, R. P., & Geiselman, R. E. (1992). *Memory-enhancing techniques for investigative interviewing: The cognitive interview*. Charles C Thomas.
+- Groth-Marnat, G., & Wright, A. J. (2016). *Handbook of psychological assessment* (6th ed.). Wiley.
+- Köhnken, G., Milne, R., Memon, A., & Bull, R. (1999). The cognitive interview: A meta-analysis. *Psychology, Crime & Law, 5*(1–2), 3–27. [https://doi.org/10.1080/10683169908414991](https://doi.org/10.1080/10683169908414991)
+- Loftus, E. F. (2005). Planting misinformation in the human mind: A 30-year investigation of the malleability of memory. *Learning & Memory, 12*(4), 361–366. [https://doi.org/10.1101/lm.94705](https://doi.org/10.1101/lm.94705)
+- Memon, A., Meissner, C. A., & Fraser, J. (2010). The cognitive interview: A meta-analytic review and study space analysis of the past 25 years. *Psychology, Public Policy, and Law, 16*(4), 340–372. [https://doi.org/10.1037/a0020518](https://doi.org/10.1037/a0020518)
+- Morrison, J. (2014). *The first interview* (4th ed.). Guilford Press.
+- Rogers, C. R. (1957). The necessary and sufficient conditions of therapeutic personality change. *Journal of Consulting Psychology, 21*(2), 95–103. [https://doi.org/10.1037/h0045357](https://doi.org/10.1037/h0045357)
+- Segal, D. L., & Hersen, M. (Eds.). (2010). *Diagnostic interviewing* (4th ed.). Springer.

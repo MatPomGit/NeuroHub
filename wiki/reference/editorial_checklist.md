@@ -16,5 +16,6 @@ Lista pomaga ocenić artykuł przed publikacją. Nie wymaga obecności określon
 - [ ] Usunięto powtórzenia, ogólniki i tekst służący wyłącznie zwiększeniu objętości.
 - [ ] Język jest poprawny, precyzyjny, niestygmatyzujący i niesensacyjny.
 - [ ] Dane liczbowe, wykresy i zestawienia mają wskazane źródła.
+- [ ] Pozycje bibliograficzne są zapisane zgodnie z APA 7, a dostępne DOI są aktywnymi odnośnikami `https://doi.org/...` do oryginalnych publikacji.
 - [ ] Sekcja `## Bibliografia` jest ostatnim rozdziałem artykułu.
 - [ ] Nazwa i lokalizacja pliku są zgodne z tematyką oraz konwencją `snake_case`.

@@ -68,6 +68,9 @@ Nie dodawaj sekcji tylko po to, aby spełnić schemat. Artykuł teoretyczny nie 
 4. Jeśli używasz danych liczbowych, wskaż ich źródło bezpośrednio w treści.
 5. Dla każdego wykresu, statystyki lub zestawienia danych podaj adekwatne źródło bezpośrednio przy elemencie albo w jego podpisie.
 6. Sekcja `## Bibliografia` musi znajdować się na końcu artykułu (ostatni rozdział).
+7. Wszystkie pozycje bibliograficzne zapisuj zgodnie ze standardem APA 7. Nie mieszaj w jednym artykule różnych stylów opisu bibliograficznego.
+8. Jeżeli publikacja ma DOI, umieść go na końcu opisu w kanonicznej postaci `https://doi.org/...` i zapisz jako aktywny odnośnik Markdown prowadzący przez resolver DOI do strony oryginalnej publikacji, np. `[https://doi.org/10.xxxx/xxxxx](https://doi.org/10.xxxx/xxxxx)`.
+9. Nie zapisuj DOI w przestarzałej postaci `doi:...` ani nie zastępuj go odnośnikiem do wyszukiwarki, rekordu wtórnego lub kopii artykułu. Jeżeli publikacja nie ma DOI, podaj stabilny URL tylko wtedy, gdy jest wymagany dla danego rodzaju źródła w APA 7.
 
 ## Zasady argumentacji
 
@@ -129,6 +132,7 @@ Nie dodawaj sekcji tylko po to, aby spełnić schemat. Artykuł teoretyczny nie 
 - [ ] Czy artykuł zawiera sekcję Bibliografia z wiarygodnymi źródłami?
 - [ ] Czy każdy wykres, statystyka lub zestawienie danych ma podane adekwatne źródło?
 - [ ] Czy sekcja „## Bibliografia” jest ostatnim rozdziałem artykułu?
+- [ ] Czy bibliografia zachowuje APA 7, a każdy dostępny DOI jest aktywnym odnośnikiem `https://doi.org/...` do oryginalnej publikacji?
 - [ ] Czy całość utrzymuje wysoki poziom jakościowy i edukacyjny?
 - [ ] Czy podczas edycji zachowano i zintegrowano wartościową treść istniejącą wcześniej?
 - [ ] Czy uniknięto generycznych akapitów niedopasowanych do tematu?

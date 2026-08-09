@@ -51,7 +51,7 @@ Podsumowanie powinno syntetyzować odpowiedź na główne pytanie. Nie powinno p
 
 ### Bibliografia
 
-Bibliografia kończy artykuł. Powinna zawierać źródła rzeczywiście wykorzystane w tekście, przede wszystkim metaanalizy, przeglądy systematyczne, badania pierwotne, podręczniki akademickie i dokumenty instytucji naukowych.
+Bibliografia kończy artykuł. Powinna zawierać źródła rzeczywiście wykorzystane w tekście, przede wszystkim metaanalizy, przeglądy systematyczne, badania pierwotne, podręczniki akademickie i dokumenty instytucji naukowych. Każdą pozycję należy zapisać zgodnie z APA 7. Dostępny DOI podaje się jako aktywny odnośnik w postaci `[https://doi.org/...](https://doi.org/...)`, prowadzący do oryginalnej publikacji.
 
 ## Schemat do skopiowania
 

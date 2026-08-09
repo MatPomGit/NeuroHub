@@ -59,6 +59,7 @@ function main() {
   runCommand(process.execPath, ['tools/test-md-loader-fallback.js']);
   runCommand(process.execPath, ['tools/test-article-links.js']);
   runCommand(process.execPath, ['tools/check_redirects.js']);
+  runCommand(process.execPath, ['tools/check-wiki-hygiene.js']);
   console.log('[PsyHub][node-tests] OK: testy Node zakończone sukcesem.');
 }
 

@@ -15,6 +15,12 @@ window.SITE_CONFIG = {
 
   // Zachowuje dawne adresy SPA po scaleniu lub przeniesieniu artykułów.
   articleRedirects: {
+    'psychologia_niepelnosprawnosci/modele_niepelnosprawnosci': 'psychologia_niepelnosprawnosci/wprowadzenie',
+    'psychologia_niepelnosprawnosci/inkluzja_spoleczna': 'psychologia_niepelnosprawnosci/wprowadzenie',
+    'psychologia_niepelnosprawnosci/niepelnosprawnosc_intelektualna': 'psychologia_niepelnosprawnosci/funkcjonowanie_i_bariery',
+    'psychologia_niepelnosprawnosci/niepelnosprawnosc_ruchowa': 'psychologia_niepelnosprawnosci/funkcjonowanie_i_bariery',
+    'psychologia_niepelnosprawnosci/niepelnosprawnosc_sluchowa': 'psychologia_niepelnosprawnosci/funkcjonowanie_i_bariery',
+    'psychologia_niepelnosprawnosci/niepelnosprawnosc_wzrokowa': 'psychologia_niepelnosprawnosci/funkcjonowanie_i_bariery',
     'uzaleznienia/kryteria_diagnostyczne': 'uzaleznienia/mechanizmy_i_diagnoza_uzaleznien',
     'uzaleznienia/neurobiologia_uzaleznien': 'uzaleznienia/mechanizmy_i_diagnoza_uzaleznien',
     'uzaleznienia/internet_uzaleznienie': 'uzaleznienia/uzaleznienia_behawioralne',
@@ -1064,15 +1070,9 @@ window.SITE_CONFIG = {
       section: 'Psychologia osob z niepelnosprawnoscia',
       domainKey: 'psychologia_niepelnosprawnosci',
       items: [
-        { id: 'psychologia_niepelnosprawnosci/wprowadzenie',                  label: 'Psychologia niepelnosprawnosci - wprow.', file: 'wiki/psychologia_niepelnosprawnosci/wprowadzenie.md'                  },
-        { id: 'psychologia_niepelnosprawnosci/modele_niepelnosprawnosci',     label: 'Modele niepelnosprawnosci',              file: 'wiki/psychologia_niepelnosprawnosci/modele_niepelnosprawnosci.md'     },
-        { id: 'psychologia_niepelnosprawnosci/niepelnosprawnosc_intelektualna', label: 'Niepelnosprawnosc intelektualna',      file: 'wiki/psychologia_niepelnosprawnosci/niepelnosprawnosc_intelektualna.md' },
-        { id: 'psychologia_niepelnosprawnosci/niepelnosprawnosc_ruchowa',     label: 'Niepelnosprawnosc ruchowa',              file: 'wiki/psychologia_niepelnosprawnosci/niepelnosprawnosc_ruchowa.md'     },
-        { id: 'psychologia_niepelnosprawnosci/niepelnosprawnosc_wzrokowa',    label: 'Niepelnosprawnosc wzrokowa',             file: 'wiki/psychologia_niepelnosprawnosci/niepelnosprawnosc_wzrokowa.md'    },
-        { id: 'psychologia_niepelnosprawnosci/niepelnosprawnosc_sluchowa',    label: 'Niepelnosprawnosc sluchowa',             file: 'wiki/psychologia_niepelnosprawnosci/niepelnosprawnosc_sluchowa.md'    },
-        { id: 'psychologia_niepelnosprawnosci/stres_i_adaptacja',             label: 'Stres, adaptacja i radzenie sobie',      file: 'wiki/psychologia_niepelnosprawnosci/stres_i_adaptacja.md'             },
-        { id: 'psychologia_niepelnosprawnosci/rodzina_i_opiekunowie',         label: 'Rodzina i opiekunowie',                  file: 'wiki/psychologia_niepelnosprawnosci/rodzina_i_opiekunowie.md'         },
-        { id: 'psychologia_niepelnosprawnosci/inkluzja_spoleczna',            label: 'Inkluzja spoleczna i prawa',             file: 'wiki/psychologia_niepelnosprawnosci/inkluzja_spoleczna.md'            },
+        { id: 'psychologia_niepelnosprawnosci/wprowadzenie',                 label: 'Modele, prawa i inkluzja',        file: 'wiki/psychologia_niepelnosprawnosci/wprowadzenie.md'                 },
+        { id: 'psychologia_niepelnosprawnosci/funkcjonowanie_i_bariery',      label: 'Funkcjonowanie i bariery',        file: 'wiki/psychologia_niepelnosprawnosci/funkcjonowanie_i_bariery.md'      },
+        { id: 'psychologia_niepelnosprawnosci/adaptacja_rodzina_i_wsparcie',  label: 'Adaptacja, rodzina i wsparcie',   file: 'wiki/psychologia_niepelnosprawnosci/adaptacja_rodzina_i_wsparcie.md'  },
       ]
     },
     { /* Psychologia osob w podeszlym wieku */
@@ -1590,15 +1590,9 @@ window.SITE_CONFIG = {
       { file: 'wiki/psychosomatyka/psychologiczne_aspekty_chorob_somatycznych.md', label: 'Psychologia w chorobach somatycznych', status: 'live' },
     ],
     disability_psychology: [
-      { file: 'wiki/psychologia_niepelnosprawnosci/wprowadzenie.md',                  label: 'Psychologia niepelnosprawnosci - wprow.',       status: 'live' },
-      { file: 'wiki/psychologia_niepelnosprawnosci/modele_niepelnosprawnosci.md',     label: 'Modele niepelnosprawnosci',                     status: 'live' },
-      { file: 'wiki/psychologia_niepelnosprawnosci/niepelnosprawnosc_intelektualna.md', label: 'Niepelnosprawnosc intelektualna',             status: 'live' },
-      { file: 'wiki/psychologia_niepelnosprawnosci/niepelnosprawnosc_ruchowa.md',     label: 'Niepelnosprawnosc ruchowa',                     status: 'live' },
-      { file: 'wiki/psychologia_niepelnosprawnosci/niepelnosprawnosc_wzrokowa.md',    label: 'Niepelnosprawnosc wzrokowa',                    status: 'live' },
-      { file: 'wiki/psychologia_niepelnosprawnosci/niepelnosprawnosc_sluchowa.md',    label: 'Niepelnosprawnosc sluchowa',                    status: 'live' },
-      { file: 'wiki/psychologia_niepelnosprawnosci/stres_i_adaptacja.md',             label: 'Stres, adaptacja i radzenie sobie',             status: 'live' },
-      { file: 'wiki/psychologia_niepelnosprawnosci/rodzina_i_opiekunowie.md',         label: 'Rodzina i opiekunowie',                        status: 'live' },
-      { file: 'wiki/psychologia_niepelnosprawnosci/inkluzja_spoleczna.md',            label: 'Inkluzja spoleczna i prawa',                   status: 'live' },
+      { file: 'wiki/psychologia_niepelnosprawnosci/wprowadzenie.md',                label: 'Modele, prawa i inkluzja',       status: 'live' },
+      { file: 'wiki/psychologia_niepelnosprawnosci/funkcjonowanie_i_bariery.md',     label: 'Funkcjonowanie i bariery',       status: 'live' },
+      { file: 'wiki/psychologia_niepelnosprawnosci/adaptacja_rodzina_i_wsparcie.md', label: 'Adaptacja, rodzina i wsparcie',  status: 'live' },
     ],
     intro: [
       { file: 'wiki/wstep_do_psychologii/definicja.md', label: 'Definicja i zakres',  status: 'live' },
@@ -2320,17 +2314,13 @@ window.SITE_CONFIG = {
         {
           title: 'Podstawy',
           articles: [
-            { label: 'Psychologia niepelnosprawnosci',     id: 'psychologia_niepelnosprawnosci/wprowadzenie', status: 'live' },
-            { label: 'Modele niepelnosprawnosci',          id: 'psychologia_niepelnosprawnosci/modele_niepelnosprawnosci', status: 'live' },
+            { label: 'Modele, prawa i inkluzja', id: 'psychologia_niepelnosprawnosci/wprowadzenie', status: 'live' },
           ]
         },
         {
           title: 'Rodzaje niepelnosprawnosci',
           articles: [
-            { label: 'Niepelnosprawnosc intelektualna',  id: 'psychologia_niepelnosprawnosci/niepelnosprawnosc_intelektualna', status: 'live' },
-            { label: 'Niepelnosprawnosc ruchowa',        id: 'psychologia_niepelnosprawnosci/niepelnosprawnosc_ruchowa', status: 'live' },
-            { label: 'Niepelnosprawnosc wzrokowa',       id: 'psychologia_niepelnosprawnosci/niepelnosprawnosc_wzrokowa', status: 'live' },
-            { label: 'Niepelnosprawnosc sluchowa',       id: 'psychologia_niepelnosprawnosci/niepelnosprawnosc_sluchowa', status: 'live' },
+            { label: 'Funkcjonowanie i bariery', id: 'psychologia_niepelnosprawnosci/funkcjonowanie_i_bariery', status: 'live' },
             { label: 'Spektrum autyzmu', id: 'neuroroznorodnosc/spektrum_autyzmu', status: 'xlink' },
           ]
         },
@@ -2338,15 +2328,13 @@ window.SITE_CONFIG = {
           title: 'Funkcjonowanie psychiczne',
           articles: [
             { label: 'Jakość życia',                          id: 'psychologia_zdrowia/jakosc_zycia',                  status: 'live' },
-            { label: 'Stres, adaptacja i radzenie sobie',       id: 'psychologia_niepelnosprawnosci/stres_i_adaptacja', status: 'live' },
+            { label: 'Adaptacja, rodzina i wsparcie', id: 'psychologia_niepelnosprawnosci/adaptacja_rodzina_i_wsparcie', status: 'live' },
           ]
         },
         {
           title: 'Srodowisko i wsparcie',
           articles: [
-            { label: 'Rodzina i opiekunowie',         id: 'psychologia_niepelnosprawnosci/rodzina_i_opiekunowie', status: 'live' },
             { label: 'Rehabilitacja psychologiczna', id: 'psychologia_zdrowia/choroby_przewlekle', status: 'xlink' },
-            { label: 'Inkluzja spoleczna i prawa',    id: 'psychologia_niepelnosprawnosci/inkluzja_spoleczna', status: 'live' },
           ]
         },
       ]

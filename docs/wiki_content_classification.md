@@ -39,14 +39,8 @@ Raport obejmuje wszystkie nieprzekierowujące pliki w `wiki/`, które przed klas
 | `wiki/psychofarmakologia/spis_tresci.md` | strona indeksowa albo spis treści |
 | `wiki/psychologia_gier/gender_w_grach.md` | publiczny artykuł merytoryczny |
 | `wiki/psychologia_gier/klasyfikacja_gier.md` | publiczny artykuł merytoryczny |
-| `wiki/psychologia_niepelnosprawnosci/inkluzja_spoleczna.md` | publiczny artykuł merytoryczny |
-| `wiki/psychologia_niepelnosprawnosci/modele_niepelnosprawnosci.md` | publiczny artykuł merytoryczny |
-| `wiki/psychologia_niepelnosprawnosci/niepelnosprawnosc_intelektualna.md` | publiczny artykuł merytoryczny |
-| `wiki/psychologia_niepelnosprawnosci/niepelnosprawnosc_ruchowa.md` | publiczny artykuł merytoryczny |
-| `wiki/psychologia_niepelnosprawnosci/niepelnosprawnosc_sluchowa.md` | publiczny artykuł merytoryczny |
-| `wiki/psychologia_niepelnosprawnosci/niepelnosprawnosc_wzrokowa.md` | publiczny artykuł merytoryczny |
-| `wiki/psychologia_niepelnosprawnosci/rodzina_i_opiekunowie.md` | publiczny artykuł merytoryczny |
-| `wiki/psychologia_niepelnosprawnosci/stres_i_adaptacja.md` | publiczny artykuł merytoryczny |
+| `wiki/psychologia_niepelnosprawnosci/adaptacja_rodzina_i_wsparcie.md` | publiczny artykuł merytoryczny |
+| `wiki/psychologia_niepelnosprawnosci/funkcjonowanie_i_bariery.md` | publiczny artykuł merytoryczny |
 | `wiki/psychologia_niepelnosprawnosci/wprowadzenie.md` | publiczny artykuł merytoryczny |
 | `wiki/psychologia_technologii/algorytmy_a_samoocena.md` | publiczny artykuł merytoryczny |
 | `wiki/psychologia_technologii/fomo_i_nomofobia.md` | publiczny artykuł merytoryczny |

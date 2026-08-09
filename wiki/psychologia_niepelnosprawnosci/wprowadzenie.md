@@ -1,82 +1,58 @@
 ---
-lastReviewed: 2026-04-01
+lastReviewed: 2026-08-09
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 content_type: article
+aliases:
+  - Modele niepełnosprawności
+  - Inkluzja społeczna i prawa
 ---
 
-# Psychologia niepełnosprawności - wprowadzenie
+# Niepełnosprawność: modele, prawa i inkluzja
 
-**Psychologia niepełnosprawności** to dział psychologii zajmujący się funkcjonowaniem psychicznym, emocjonalnym i społecznym osób z różnego rodzaju niepełnosprawnościami. Bada, jak niepełnosprawność wpływa na tożsamość, relacje i jakość życia, oraz dostarcza narzędzi wspierania dobrostanu i autonomii tych osób.
+Niepełnosprawność można opisywać jako stan zdrowia, wynik interakcji osoby ze środowiskiem, doświadczenie społeczne i kwestię praw człowieka. Każda z tych perspektyw odpowiada na inne pytanie. Dlatego nie należy traktować modeli jako konkurencyjnych teorii, z których tylko jedna może opisać każdą sytuację. W praktyce potrzebne jest zarazem leczenie bólu, usuwanie schodów, dostępna komunikacja i ochrona prawa osoby do decydowania o własnym życiu.
 
-## Czym jest niepełnosprawność?
+## Cztery uzupełniające się perspektywy
 
-Niepełnosprawność nie jest prostą cechą jednostki. Współczesne rozumienie niepełnosprawności uwzględnia trzy poziomy:
+| Perspektywa | Główne pytanie | Typowa odpowiedź | Ograniczenie stosowanej osobno |
+|---|---|---|---|
+| medyczna | Co dzieje się z organizmem i jak można pomóc? | diagnostyka, leczenie, rehabilitacja, sprzęt | może sprowadzać problem do ciała i przyjmować normę sprawności za jedyny cel |
+| społeczna | Jak otoczenie wytwarza ograniczenia? | usuwanie barier fizycznych, komunikacyjnych i postaw | może niedostatecznie ujmować ból, zmęczenie lub postępującą chorobę |
+| biopsychospołeczna (ICF) | Jak stan zdrowia, aktywność, uczestnictwo i kontekst oddziałują na siebie? | skoordynowane wsparcie osoby i zmiana środowiska | użyta jako sama klasyfikacja może nie wskazywać, kto odpowiada za zmianę |
+| praw człowieka | Jakie prawa i obowiązki instytucji są tu zagrożone? | niedyskryminacja, dostępność, racjonalne usprawnienia i równość wobec prawa | wyznacza standard normatywny, lecz nie zastępuje indywidualnej oceny klinicznej |
 
-- **Uszkodzenie** (*impairment*) - biologiczna różnica w funkcjonowaniu ciała lub umysłu.
-- **Ograniczenie aktywności** - trudności w wykonywaniu określonych czynności.
-- **Ograniczenie uczestnictwa** - bariery w pełnym udziale w życiu społecznym.
+Model medyczny jest użyteczny, gdy osoba chce leczenia, kontroli bólu lub rehabilitacji. Staje się redukcjonistyczny dopiero wtedy, gdy całą odpowiedzialność za uczestnictwo przenosi na jednostkę. Model społeczny trafnie ujawnia, że ten sam sposób funkcjonowania może być ograniczający w jednym środowisku, a neutralny w innym. ICF porządkuje te zależności: aktywność i uczestnictwo wynikają z dynamicznej relacji funkcji organizmu, czynników środowiskowych oraz osobistych (World Health Organization, 2001). Podejście praw człowieka dodaje zasadniczy element: dostęp i samostanowienie nie są nagrodą za rehabilitację, lecz prawami.
 
-Niepełnosprawność powstaje na styku cech jednostki i warunków otoczenia - fizycznych, społecznych i postaw.
+Perspektywa kulturowo-tożsamościowa, ważna między innymi w społeczności Głuchych, przypomina ponadto, że niepełnosprawność może być częścią pozytywnej tożsamości i wspólnoty, a nie wyłącznie stratą. Nie każda osoba przyjmuje jednak tę samą tożsamość.
 
-## Historia dyscypliny
+## Od integracji do inkluzji
 
-Psychologia niepełnosprawności kształtowała się od końca XX wieku, stopniowo odchodząc od modelu medycznego (patologia do naprawienia) ku modelowi społecznemu i biopsychospołecznemu. Ważnymi punktami był ruch self-advocacy osób z niepełnosprawnościami oraz uchwalenie ONZ Konwencji o Prawach Osób z Niepełnosprawnościami (2006).
+**Uczestnictwo** oznacza zaangażowanie w sytuacje życiowe, takie jak nauka, praca, relacje, kultura czy decyzje publiczne. Sama obecność nie wystarcza: uczeń może przebywać w klasie, a mimo to nie mieć dostępu do komunikacji ani wpływu na przebieg zajęć. Integracja zwykle oczekuje, że osoba dostosuje się do istniejącego systemu; inkluzja zmienia system tak, aby różne sposoby funkcjonowania były uwzględniane od początku.
 
-## Podstawowe pytania badawcze
+**Dostępność** ma charakter uprzedni i systemowy. Obejmuje projektowanie przestrzeni, transportu, usług, informacji i technologii tak, aby mogła z nich korzystać możliwie szeroka grupa osób. Przykładami są wejście bez stopni, napisy, tekst alternatywny, zgodność strony z czytnikiem ekranu oraz informacja w języku łatwym do czytania i rozumienia.
 
-- Jak osoby z niepełnosprawnościami budują tożsamość i poczucie własnej wartości?
-- Jakie czynniki chronią przed depresją i lękiem w tej grupie?
-- Jak rodzina i środowisko wpływają na funkcjonowanie osoby z niepełnosprawnością?
-- Co decyduje o satysfakcji z życia - stopień niepełnosprawności czy czynniki psychospołeczne?
+**Racjonalne usprawnienie** jest natomiast konieczną i odpowiednią modyfikacją w konkretnej sytuacji, która nie nakłada nieproporcjonalnego lub nadmiernego obciążenia. Może nim być zmiana sposobu egzaminowania, elastyczny czas pracy albo zapewnienie tłumacza. Zgodnie z Konwencją odmowa racjonalnego usprawnienia jest formą dyskryminacji (United Nations, 2006). Dostępność nie zwalnia z usprawnień indywidualnych, a usprawnienia nie usprawiedliwiają zaniedbania dostępności systemowej.
 
-## Rola psychologa w pracy z osobami z niepełnosprawnościami
+## Ableizm i bariery
 
-Psycholog może działać na wielu poziomach:
+**Ableizm** to przekonania i praktyki, które uznają określony poziom sprawności za miarę pełnej wartości człowieka. Może przyjmować postać jawnej dyskryminacji, lecz także niskich oczekiwań, infantylizacji, nadmiernej opiekuńczości albo projektowania usług bez udziału ich użytkowników. Bariery wynikają także z procedur i instytucji: niedostępnego formularza, sztywnych kryteriów pomocy, fragmentacji świadczeń czy braku czasu na komunikację.
 
-- **Diagnoza** - ocena funkcjonowania poznawczego, emocjonalnego i społecznego.
-- **Interwencja terapeutyczna** - praca z depresją, lękiem, adaptacją do choroby.
-- **Rehabilitacja** - wspieranie odbudowy funkcji i kompensacji.
-- **Wsparcie rodziny** - psychoedukacja i profilaktyka wypalenia opiekuna.
-- **Rzecznictwo** - działanie na rzecz warunków umożliwiających pełne uczestnictwo.
+Rozpoznanie ableizmu nie oznacza negowania ograniczeń funkcjonalnych. Pozwala oddzielić skutki stanu zdrowia od możliwych do zmiany kosztów narzuconych przez otoczenie. Ocena powinna pytać zarówno „jakiego wsparcia potrzeba?”, jak i „którą barierę można usunąć?”.
 
-## Kluczowe wartości w pracy z osobami z niepełnosprawnościami
+## Autonomia, wsparcie i sprawczość
 
-- **Autonomia** - prawo do podejmowania własnych decyzji.
-- **Godność** - traktowanie każdej osoby jako podmiotu, nie przedmiotu opieki.
-- **Inkluzja** - zapewnianie realnego dostępu do zasobów i uczestnictwa społecznego.
-- **Indywidualizacja** - unikanie homogenizacji grupy; każde doświadczenie niepełnosprawności jest inne.
+Autonomia nie oznacza wykonywania wszystkiego bez pomocy. Oznacza możliwość kształtowania własnego życia, również poprzez wybór osób, technologii i usług wspierających. Człowiek może potrzebować intensywnej pomocy w poruszaniu się lub komunikowaniu, a jednocześnie zachowywać preferencje, prawo do ryzyka oraz zdolność współdecydowania.
 
+Wsparcie należy organizować według woli i preferencji osoby, stosując dostępne sposoby komunikacji i decyzje wspomagane. Nie wolno wnioskować o braku zdolności poznawczych z mowy, słuchu, wzroku czy motoryki. Gdy prawo wymaga oceny zdolności do konkretnej decyzji, ocenia się ją indywidualnie i po zapewnieniu dostosowań, zamiast przypisywać całej grupie brak sprawczości.
 
+## Konsekwencje dla praktyki psychologicznej
 
-Psychologia niepełnosprawności to dynamicznie rozwijająca się dziedzina, w której punkt ciężkości przesuwa się od deficytu ku zasobom. Rozumienie niepełnosprawności jako interakcji cech jednostki i środowiska jest kluczem do skutecznego wsparcia i promowania pełnego uczestnictwa w życiu społecznym.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Psychologia niepełnosprawności - wprowadzenie" polega na tym, że najbardziej ograniczające bywają nie same deficyty, lecz bariery środowiskowe, organizacyjne i społeczne, które wzmacniają koszt codziennego funkcjonowania.
-
-Dopiero wspólna analiza zagadnień takich jak czym jest niepełnosprawność?, podstawowe pytania badawcze oraz kluczowe wartości w pracy z osobami z niepełnosprawnościami pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Psychologia niepełnosprawności - wprowadzenie" pokazuje, że najważniejsze jest łączenie perspektywy klinicznej z prawami, dostępnością i jakością uczestnictwa w życiu społecznym.
-
-
-Dopiero wspólna analiza zagadnień takich jak czym jest niepełnosprawność?, podstawowe pytania badawcze oraz kluczowe wartości w pracy z osobami z niepełnosprawnościami pokazuje pełny zakres omawianego zjawiska.
-
-## Podstawa źródłowa
-
-Rozróżnienie funkcji organizmu, aktywności, uczestnictwa i barier środowiskowych odpowiada modelowi ICF (World Health Organization, 2001); dane populacyjne należy interpretować w kontekście raportu WHO i Banku Światowego (World Health Organization & World Bank, 2011).
+Psycholog powinien uzgodnić z osobą cele pomocy, zapewnić dostępny format informacji i odróżnić cierpienie wymagające interwencji od dyskomfortu otoczenia wobec różnicy. Diagnoza oraz terapia nie zastępują rzecznictwa i modyfikacji środowiska. Z kolei eliminowanie barier nie wyklucza leczenia, jeśli osoba go potrzebuje i świadomie wybiera. Takie łączenie poziomów chroni przed dwoma błędami: medykalizacją problemów społecznych oraz romantyzowaniem realnego bólu lub ograniczeń.
 
 ## Bibliografia
 
-- World Health Organization. (2001). *International classification of functioning, disability and health: ICF.* World Health Organization.
-- World Health Organization, & World Bank. (2011). *World report on disability.* World Health Organization. https://www.who.int/publications/i/item/9789241564182
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+- Degener, T. (2016). Disability in a human rights context. *Laws, 5*(3), Article 35. [https://doi.org/10.3390/laws5030035](https://doi.org/10.3390/laws5030035)
+- Oliver, M. (1990). *The politics of disablement*. Macmillan Education. [https://doi.org/10.1007/978-1-349-20895-1](https://doi.org/10.1007/978-1-349-20895-1)
+- Shakespeare, T. (2014). *Disability rights and wrongs revisited* (2nd ed.). Routledge. [https://doi.org/10.4324/9781315887456](https://doi.org/10.4324/9781315887456)
+- United Nations. (2006). *Convention on the Rights of Persons with Disabilities*. https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-persons-disabilities
+- World Health Organization. (2001). *International classification of functioning, disability and health: ICF*. World Health Organization. https://iris.who.int/handle/10665/42407

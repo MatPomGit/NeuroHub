@@ -14,7 +14,7 @@ aliases:
 
 **Rezyliencja** oznacza względnie dobrą adaptację mimo poważnego zagrożenia dla rozwoju lub funkcjonowania. Nie jest niewrażliwością, obowiązkiem zachowania spokoju ani stałą „twardością psychiczną”. Można ją opisywać jako **proces** zachodzący w czasie, **wynik** oceniany w określonej dziedzinie oraz **względną zdolność** systemu do korzystania z zasobów. Te trzy znaczenia są powiązane, ale nie są zamienne.
 
-Rezyliencja powstaje w relacji osoby z otoczeniem. Zależy nie tylko od regulacji emocji czy sposobu myślenia, lecz także od bezpiecznych więzi, dochodu, mieszkania, praw pracowniczych, dostępności opieki i działania instytucji. Dlatego trening indywidualny nie może zastąpić usunięcia przemocy, dyskryminacji lub nadmiernego obciążenia pracą.
+Rezyliencja powstaje w relacji osoby z otoczeniem. Zależy nie tylko od regulacji emocji czy sposobu myślenia, lecz także od bezpiecznych więzi, dochodu, mieszkania, praw pracowniczych, dostępności opieki i działania instytucji. Dlatego trening indywidualny nie może zastąpić usunięcia [przemocy psychicznej i mobbingu](mobbing_definicja.md), dyskryminacji lub nadmiernego obciążenia pracą.
 
 ## Proces, wynik i względna zdolność
 

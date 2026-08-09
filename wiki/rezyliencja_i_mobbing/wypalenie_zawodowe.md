@@ -59,7 +59,7 @@ Teoria COR opisuje stres jako skutek zagrożenia utratą zasobów, ich rzeczywis
 - **Depresja** dotyczy wielu dziedzin życia i obejmuje określony zespół objawów klinicznych. Wypalenie i depresja są powiązane, lecz nie są pojęciami tożsamymi.
 - **Stres zawodowy** jest szerszy; może być krótkotrwały i nie prowadzić do wypalenia.
 - **Wtórny stres traumatyczny** wiąże się z pośrednią ekspozycją na traumę innych i ma profil pourazowy. Może współwystępować z wypaleniem w zawodach pomocowych.
-- **Mobbing** opisuje wzorzec negatywnych zachowań interpersonalnych, a nie stan pracownika; może być źródłem przewlekłego stresu i objawów.
+- **[Mobbing](mobbing_definicja.md)** opisuje wzorzec negatywnych zachowań interpersonalnych, a nie stan pracownika; może być źródłem przewlekłego stresu i objawów.
 
 Nagłe pogorszenie, ból w klatce piersiowej, znaczna bezsenność, myśli samobójcze lub utrata zdolności do codziennego funkcjonowania wymagają pilnej oceny medycznej. Nie należy przypisywać ich automatycznie wypaleniu.
 

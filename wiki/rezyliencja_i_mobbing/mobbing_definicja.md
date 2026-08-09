@@ -85,7 +85,7 @@ Pomoc powinna być dobrowolna i niezależna od postępowania wyjaśniającego. M
 - psychoterapię ukierunkowaną na objawy, odzyskanie sprawstwa, redukcję samoobwiniania i podjęcie decyzji;
 - wsparcie społeczne, prawne i zawodowe, w tym plan bezpiecznego pozostania lub odejścia z pracy.
 
-Terapeuta nie powinien zakładać, że problem wynika z „niskiej odporności”, nakłaniać do konfrontacji bez oceny ryzyka ani zastępować pełnomocnika prawnego. Terapia pomaga osobie, lecz nie nakłada sankcji, nie zmienia przełożonego i nie usuwa wadliwych norm. Organizacja nadal odpowiada za prewencję, wyjaśnienie i korektę środowiska.
+Terapeuta nie powinien zakładać, że problem wynika z „niskiej [rezyliencji](odpornosc_wprowadzenie.md)”, nakłaniać do konfrontacji bez oceny ryzyka ani zastępować pełnomocnika prawnego. Terapia pomaga osobie, lecz nie nakłada sankcji, nie zmienia przełożonego i nie usuwa wadliwych norm. Organizacja nadal odpowiada za prewencję, wyjaśnienie i korektę środowiska.
 
 Jeśli pojawiają się myśli samobójcze, zagrożenie przemocą lub niemożność zachowania bezpieczeństwa, potrzebna jest pilna pomoc pod numerem 112 albo w najbliższej izbie przyjęć lub szpitalnym oddziale ratunkowym.
 

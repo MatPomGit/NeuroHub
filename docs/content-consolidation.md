@@ -288,3 +288,10 @@ Treść odróżnia kamienie milowe i modele etapowe od sztywnych norm. Przywiąz
 Dwanaście dotychczasowych tekstów domeny uporządkowano w cztery opracowania kanoniczne: mechanizmy i diagnozę, uzależnienia behawioralne i technologie, leczenie i zdrowienie oraz uzależnienie w rodzinie i u młodzieży. Osiem dawnych plików pozostaje bezpośrednimi przekierowaniami, a wcześniejsze identyfikatory wszystkich scalonych tematów obsługuje `articleRedirects`.
 
 Treść rozdziela używanie, ryzyko, szkodę i zaburzenie, nie redukuje mechanizmu do dopaminy ani relacji rodzinnych do przyczynowości. Status rozpoznań behawioralnych, cele leczenia i pojęcie współuzależnienia opisano z zaznaczeniem granic dowodów. Każde z czterech opracowań kończy odrębna bibliografia.
+
+
+## Konsolidacja diagnozy psychologicznej
+
+Dziewięć dotychczasowych tekstów domeny uporządkowano w trzy artykuły kanoniczne odpowiadające odrębnym pytaniom: jak przebiega proces diagnozy, jak pozyskuje się dane w rozmowie i obserwacji oraz jak integruje się je w formułowaniu i opinii. Sześć tekstów źródłowych pozostaje przekierowaniami do właściwych sekcji, a ich identyfikatory aplikacji obsługuje `articleRedirects`. Nawigacja i plan domeny pokazują wyłącznie trzy opracowania kanoniczne.
+
+Treść rozdziela diagnozę psychologiczną, przesiew, rozpoznanie medyczne i formułowanie przypadku. Wywiad kognitywny opisano jako procedurę wspomagania przypominania, nie metodę psychoterapii. Obserwacje oddzielono od interpretacji, zaś techniki projekcyjne podporządkowano dowodom o rzetelności, trafności, standaryzacji i trafności przyrostowej. Każdy artykuł kończy odrębna bibliografia.

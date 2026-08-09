@@ -1,123 +1,113 @@
 ---
-lastReviewed: 2026-05-09
+lastReviewed: 2026-08-09
 reviewCycleMonths: 24
-evidenceCutoffDate: 2025-12-31
+evidenceCutoffDate: 2026-08-09
 content_type: article
+aliases:
+  - proces diagnozy psychologicznej
 ---
 
-# Etapy i cele diagnozy psychologicznej
+# Proces diagnozy psychologicznej
 
-## 1. Wprowadzenie
+## Najważniejsze rozróżnienia
 
-Diagnoza psychologiczna jest procesem naukowym, którego celem jest nie tylko klasyfikacja objawów, ale przede wszystkim **wyjaśnienie mechanizmów funkcjonowania człowieka w kontekście biologicznym, poznawczym i społecznym**. W nowoczesnych standardach oceny klinicznej podkreśla się zasadę *evidence-based assessment* (EBA), czyli łączenie danych z wielu źródeł oraz ciągłe testowanie hipotez diagnostycznych [1,2].
+**Diagnoza psychologiczna** jest celowym, iteracyjnym procesem zbierania i integrowania danych, który ma opisać lub wyjaśnić funkcjonowanie osoby i wesprzeć określoną decyzję. Nie jest synonimem pojedynczego testu ani samego przypisania kategorii.
 
-Warto pamiętać, że na świecie niemal **1 na 8 osób** żyje z zaburzeniem psychicznym, co nadaje diagnozie znaczenie nie tylko kliniczne, ale i zdrowia publicznego [3].
-
----
-
-## 2. Definicje
-
-- **Diagnoza psychologiczna** – uporządkowany proces zbierania, integracji i interpretacji danych o funkcjonowaniu osoby, prowadzony w celu opisu, wyjaśnienia, rokowania i planowania interwencji [1,4].
-- **Hipoteza diagnostyczna** – robocze wyjaśnienie obserwowanych trudności, które podlega empirycznej weryfikacji.
-- **Trafność kliniczna** – stopień, w jakim wnioski diagnostyczne wspierają adekwatne decyzje terapeutyczne, edukacyjne lub orzecznicze [2].
-- **Współchorobowość** – współwystępowanie więcej niż jednego zaburzenia; zjawisko częste w praktyce klinicznej i kluczowe dla diagnozy różnicowej [5].
-
----
-
-## 3. Etapy procesu diagnostycznego
-
-### 3.1. Sformułowanie pytania diagnostycznego
-
-Pierwszy etap obejmuje ustalenie celu badania, kontekstu skierowania oraz granic etyczno-prawnych (zgoda, poufność, zakres przekazywania danych). Błąd na tym etapie zwykle skutkuje „dobrymi danymi do złego pytania”.
-
-### 3.2. Tworzenie hipotez roboczych
-
-Diagnosta konstruuje hipotezy alternatywne (np. lęk vs ADHD vs zaburzenia snu), aby uniknąć efektu przedwczesnego domknięcia poznawczego. W praktyce to kluczowy element ograniczania błędów poznawczych diagnosty [6].
-
-### 3.3. Wielometodowe zbieranie danych
-
-| Obszar | Metoda | Co można ocenić? |
+| Pojęcie | Główne pytanie | Wynik i granice |
 |---|---|---|
-| Objawy i historia | wywiad kliniczny | początek, dynamika i kontekst trudności |
-| Poznanie | testy psychometryczne | uwaga, pamięć, funkcje wykonawcze |
-| Emocje i osobowość | kwestionariusze + wywiad pogłębiony | regulacja emocji, style radzenia sobie |
-| Zachowanie „tu i teraz” | obserwacja kliniczna | tempo pracy, tolerancja frustracji, kontakt |
-| Środowisko | dane od rodziny/szkoły/pracy | czynniki ryzyka i zasoby |
+| **Diagnoza psychologiczna** | Jak osoba funkcjonuje, jakie czynniki wiążą się z trudnościami i zasobami oraz jaka decyzja jest uzasadniona? | Wnioski psychologiczne o zakresie wyznaczonym pytaniem, danymi i kompetencjami diagnosty |
+| **Przesiew** | Czy występuje podwyższone prawdopodobieństwo problemu wymagającego dalszej oceny? | Wynik ryzyka; dodatni wynik nie jest rozpoznaniem, a ujemny nie wyklucza problemu bezwarunkowo |
+| **Rozpoznanie medyczne** | Czy spełnione są kryteria jednostki chorobowej i jakie postępowanie medyczne jest potrzebne? | Rozpoznanie należące do praktyki medycznej; badanie psychologiczne może dostarczać danych, lecz nie zastępuje oceny lekarskiej |
+| **[Formułowanie przypadku](formulowanie_przypadku.md)** | Dlaczego te trudności mogły powstać i utrzymywać się u tej osoby oraz co może je zmienić? | Indywidualna, teoretycznie uzasadniona i rewidowalna hipoteza, a nie etykieta klasyfikacyjna |
 
-Badania metodologiczne pokazują, że integracja wielu źródeł zwykle zwiększa trafność wniosków klinicznych względem pojedynczej metody [2,7].
+Zakres uprawnień zależy od kontekstu prawnego i roli zawodowej. Niezależnie od niego wynik skali przesiewowej nie upoważnia do kategorycznego rozpoznania, a klasyfikacja nie zastępuje funkcjonalnego opisu osoby.
 
-### 3.4. Integracja i falsyfikacja hipotez
+## 1. Cel i pytanie diagnostyczne
 
-Etap integracji polega na sprawdzeniu: (a) zgodności danych, (b) rozbieżności, (c) alternatywnych wyjaśnień. Dobrą praktyką jest zapisanie nie tylko „co wiemy”, ale również „czego jeszcze nie wiemy”.
+Proces rozpoczyna się od ustalenia, **kto pyta, o co, w jakim celu i jaka decyzja ma zależeć od odpowiedzi**. Inaczej projektuje się badanie służące planowaniu pomocy, inaczej ocenę potrzeb edukacyjnych, a inaczej opiniowanie dla instytucji. Psycholog wyjaśnia osobie badanej cel, dobrowolność lub podstawę badania, przewidywane wykorzystanie wyników, zasady poufności i jej ograniczenia oraz odbiorców dokumentu.
 
-### 3.5. Informacja zwrotna i rekomendacje
+Dobre pytanie jest ograniczone i rozstrzygalne na podstawie danych psychologicznych, na przykład: „Jakie procesy wiążą się z utrzymującymi się trudnościami w nauce i jakie dostosowania mogą pomóc?”. Pytanie „Jaki ten człowiek jest?” jest zbyt szerokie. Zbiera się wyłącznie informacje potrzebne do celu, a konflikt ról, presję zleceniodawcy i ograniczenia kompetencji rozpoznaje przed badaniem.
 
-Informacja zwrotna powinna być precyzyjna, zrozumiała i funkcjonalna: **jakie mechanizmy podtrzymują trudności oraz co konkretnie można zmienić**. To moment o wysokim potencjale terapeutycznym, jeśli komunikacja redukuje poczucie winy i wzmacnia sprawstwo [8].
+## 2. Hipotezy
 
-### 3.6. Dokumentacja końcowa
+Hipotezy przekładają pytanie na przewidywania możliwe do sprawdzenia. Powinny obejmować wyjaśnienia konkurencyjne, czynniki kontekstowe i możliwość, że dostępne dane nie pozwolą rozstrzygnąć pytania. Przykładowo trudności koncentracji mogą wiązać się z rozwojowym wzorcem nieuwagi, niedoborem snu, lękiem, obniżonym nastrojem, działaniem substancji lub wymaganiami niedopasowanymi do możliwości.
 
-Końcowym dokumentem bywa opinia psychologiczna zawierająca: cel, metody, wyniki, integrację, ograniczenia i rekomendacje. Wymóg ten wynika zarówno ze standardów zawodowych, jak i odpowiedzialności etycznej [4,9].
+Do każdej hipotezy warto zapisać:
 
----
+1. jakie dane przemawiałyby za nią, a jakie przeciw niej;
+2. w jakich sytuacjach przewidywane zjawisko powinno i nie powinno występować;
+3. które informacje są rozstrzygające, a które jedynie pomocnicze;
+4. co trzeba zrobić, aby ograniczyć **błąd potwierdzenia**, na przykład przez jawne poszukiwanie danych sprzecznych.
 
-## 4. Przykładowy proces diagnozy (przypadek kliniczny)
+Brak potwierdzenia jednej hipotezy nie dowodzi automatycznie prawdziwości innej. Hipotezy są narzędziem organizacji badania, nie werdyktem o osobie.
 
-**Opis przypadku:** 17-letni uczeń, spadek wyników, bezsenność, drażliwość i trudności koncentracji.
+## 3. Plan badania
 
-1. **Pytanie diagnostyczne:** czy głównym mechanizmem jest zaburzenie neurorozwojowe, zaburzenie lękowe, epizod depresyjny czy reakcja na przewlekły stres?
-2. **Dane:** wywiad z uczniem i rodzicem, obserwacja, kwestionariusze lęku i nastroju, testy funkcji uwagowych, analiza rytmu snu.
-3. **Integracja:** wysoka ruminacja i napięcie, osłabienie uwagi wtórne do bezsenności, brak pełnych przesłanek do rozpoznania ADHD.
-4. **Formulacja przypadku:** błędne koło stres → bezsenność → spadek kontroli uwagi → pogorszenie wyników → wzrost stresu.
-5. **Rekomendacje:** interwencja CBT-I/CBT, modyfikacja obciążeń szkolnych na 8–10 tygodni, monitoring objawów co 2–3 tygodnie.
+Plan łączy każdą hipotezę z metodą, źródłem i kryterium interpretacji. Określa kolejność działań, przewidywane obciążenie osoby, dostępność dostosowań, zasady dokumentowania oraz sytuacje wymagające przerwania badania lub pilnej interwencji. Metodę dobiera się do pytania i właściwości populacji, nie dlatego, że jest znana diagnoście.
 
-**Dlaczego to ważne?** Ten przykład pokazuje, że objaw „brak koncentracji” może mieć różne źródła; bez diagnozy różnicowej łatwo o nadrozpoznanie.
+Narzędzie powinno mieć adekwatną rzetelność, trafność i normy dla zamierzonego użycia. Próg przesiewowy wybiera się z uwzględnieniem kosztów wyników fałszywie dodatnich i fałszywie ujemnych oraz prawdopodobieństwa bazowego. Gdy stawka decyzji jest wysoka, szczególnie ważne są metody niezależne, analiza alternatyw i możliwość konsultacji.
 
----
+## 4. Dobór źródeł danych
 
-## 5. Dobra i zła praktyka
+Wielometodowość nie oznacza mechanicznego mnożenia testów. Źródła powinny wnosić różne, istotne informacje:
 
-### Dobra praktyka
+- [wywiad, rozmowa i obserwacja](wywiad_psychologiczny.md) opisują historię, znaczenia, kontekst oraz zachowanie w określonej sytuacji;
+- testy i kwestionariusze dostarczają wyników interpretowanych względem ich błędu pomiaru, norm i zakresu trafności;
+- dokumentacja pozwala odtworzyć przebieg w czasie, ale może zawierać cudze hipotezy lub dane powstałe do innego celu;
+- informacje od bliskich, szkoły lub pracy mogą pokazać funkcjonowanie w innych kontekstach, o ile istnieje podstawa do ich pozyskania;
+- dane medyczne są ważne, gdy możliwe są przyczyny somatyczne, wpływ leków lub potrzeba oceny lekarskiej.
 
-Psycholog oddziela dane od interpretacji, wskazuje ograniczenia i podaje rekomendacje mierzalne (czas, wskaźnik efektu, punkt kontroli).
+Rozbieżność źródeł nie jest „szumem” do usunięcia. Może wskazywać zależność zachowania od sytuacji, odmienne okresy obserwacji, różne interesy informatorów albo błąd pomiaru. Należy udokumentować pochodzenie danych i nie nadawać automatycznie pierwszeństwa relacji specjalisty nad relacją osoby badanej.
 
-**Konsekwencja:** większa trafność kliniczna i lepsza współpraca pacjent–zespół.
+## 5. Integracja wyników
 
-### Zła praktyka
+Integracja polega na odpowiedzi na pytanie, a nie na streszczeniu wyników kolejnych narzędzi. Psycholog:
 
-Psycholog opiera się na jednym narzędziu przesiewowym i formułuje kategoryczne rozpoznanie bez kontekstu środowiskowego.
+1. oddziela dane surowe, obserwacje, relacje informatorów i interpretacje;
+2. ocenia jakość każdego źródła, w tym błąd pomiaru i warunki badania;
+3. szuka zbieżności, sprzeczności i braków;
+4. porównuje hipotezy alternatywne oraz uwzględnia prawdopodobieństwo bazowe;
+5. formułuje wniosek proporcjonalny do danych i jawnie opisuje niepewność.
 
-**Konsekwencja:** wyższe ryzyko błędu diagnostycznego, nieadekwatnej interwencji i stygmatyzacji.
+Wynik testu nie „mówi sam za siebie”. Wysoki rezultat kwestionariusza może być zgodny z hipotezą, lecz jej nie dowodzi. Wniosek powinien pozostawiać ścieżkę od twierdzenia do źródeł, na których je oparto. Dokument będący odpowiedzią dla odbiorcy omówiono w artykule [Formułowanie, metody dodatkowe i opinia](formulowanie_przypadku.md).
 
----
+## 6. Informacja zwrotna
 
-## 6. Perspektywa nieoczywista
+Informacja zwrotna jest częścią badania, a nie jedynie przekazaniem gotowego orzeczenia. Powinna wrócić do uzgodnionego pytania, wyjaśnić wyniki przystępnym językiem, pokazać zasoby i trudności, omówić alternatywy i ograniczenia oraz przełożyć wnioski na wykonalne zalecenia. Osoba ma przestrzeń na pytania, sprostowanie danych faktycznych i wyrażenie odmiennej perspektywy.
 
-Diagnoza bywa postrzegana jako „etykietowanie”. Tymczasem w podejściu funkcjonalnym może działać odwrotnie: **od-etykietowuje**, ponieważ tłumaczy zachowanie przez mechanizmy i kontekst, a nie przez wartościujące opisy osoby. Taki język zwiększa szansę na zmianę zachowania i środowiska jednocześnie [8,10].
+Psycholog rozróżnia „wynik wskazuje”, „dane są zgodne z” i „nie można rozstrzygnąć” od kategorycznego „jest”. Wyjaśnia także, że wynik opisuje funkcjonowanie w określonych warunkach i czasie. W sytuacji ryzyka bezpieczeństwo i jasny plan dalszego działania mają pierwszeństwo przed rozbudowaną psychoedukacją.
 
----
+## 7. Monitorowanie i rewizja wniosków
 
-## 7. Podsumowanie
+Diagnoza jest migawką oraz początkiem sprawdzania przewidywań. Zalecenia powinny zawierać wskaźniki zmiany, termin ponownej oceny i okoliczności wymagające wcześniejszej rewizji. Nowe dane, zmiana kontekstu lub brak oczekiwanej reakcji na pomoc mogą osłabić pierwotną hipotezę.
 
-Naukowo prowadzona diagnoza psychologiczna wymaga: jasnego pytania, hipotez alternatywnych, wieloźródłowych danych, integracji i odpowiedzialnej informacji zwrotnej. Jej celem nie jest „nazwa problemu”, lecz klinicznie użyteczne zrozumienie mechanizmów.
+Rewizja nie jest porażką diagnosty. Jest konsekwencją traktowania wniosków jako stopniowalnych i podatnych na korektę. W dokumentacji należy odróżnić późniejszą aktualizację od pierwotnego zapisu oraz poinformować właściwych odbiorców w granicach zgody i podstawy prawnej.
 
----
+## 8. Ryzyko etykietowania oraz stygmatyzacji
 
-## Podstawa źródłowa
+Kategoria diagnostyczna może ułatwić dostęp do świadczeń, nazwać doświadczenie i usprawnić komunikację. Może też uruchomić **stereotypy, uprzedzenia i dyskryminację**, a po ich internalizacji obniżać sprawstwo i gotowość do szukania pomocy. Skutek nie wynika wyłącznie ze słowa: znaczenie mają sposób komunikacji, relacja władzy, odbiorcy dokumentu i bariery instytucjonalne (Corrigan, 2007; Link i Phelan, 2001).
 
-W opisie procesu diagnostycznego przyjęto standardy wielometodowej oceny i formułowania przypadku omawiane przez Grotha-Marnata i Wrighta (2016) oraz w klasyfikacji ICD-11 (World Health Organization, 2022).
+Ryzyko ogranicza się przez:
+
+- używanie kategorii tylko wtedy, gdy odpowiada celowi i istnieją wystarczające dane;
+- opis funkcjonowania, kontekstu i zasobów zamiast redukowania osoby do rozpoznania;
+- uzgadnianie preferowanego języka, ponieważ część osób wybiera język skoncentrowany na osobie, a część język tożsamościowy;
+- oddzielanie informacji koniecznych dla odbiorcy od prywatnych szczegółów bez związku z pytaniem;
+- wyjaśnienie korzyści, ograniczeń i możliwych konsekwencji ujawnienia wyniku;
+- wskazanie możliwości zmiany i dostępnego wsparcia bez składania nieuzasadnionych obietnic.
+
+Unikanie każdej nazwy nie zawsze chroni przed stygmatyzacją i może utrudnić dostęp do pomocy. Etyczne rozwiązanie polega na proporcjonalności: możliwie użyteczna informacja, możliwie mały niepotrzebny koszt.
+
+## Wnioski
+
+Rzetelna diagnoza łączy jasno określony cel, konkurencyjne hipotezy, plan adekwatny do stawki decyzji, wieloźródłowe dane i jawną niepewność. Kończy się nie etykietą, lecz zrozumiałą odpowiedzią, planem działania oraz warunkami ponownego sprawdzenia wniosków.
 
 ## Bibliografia
 
+- Corrigan, P. W. (2007). How clinical diagnosis might exacerbate the stigma of mental illness. *Social Work, 52*(1), 31–39. [https://doi.org/10.1093/sw/52.1.31](https://doi.org/10.1093/sw/52.1.31)
 - Groth-Marnat, G., & Wright, A. J. (2016). *Handbook of psychological assessment* (6th ed.). Wiley.
-- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
-
-1. Stemplewska-Żakowicz, K. (2009). *Diagnoza psychologiczna. Diagnozowanie jako kompetencja profesjonalna*. GWP.
-2. Hunsley, J., & Mash, E. J. (2007). Evidence-based assessment. *Annual Review of Clinical Psychology, 3*, 29–51.
-3. World Health Organization. (2022). *World Mental Health Report: Transforming Mental Health for All*.
-4. Paluchowski, W. J. (2007). *Diagnoza psychologiczna. Podejście ilościowe i jakościowe*. Scholar.
-5. American Psychiatric Association. (2022). *DSM-5-TR*.
-6. Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.
-7. Meyer, G. J., et al. (2001). Psychological testing and psychological assessment. *American Psychologist, 56*(2), 128–165.
-8. Kazdin, A. E. (2017). *Research Design in Clinical Psychology* (5th ed.). Pearson.
-9. Ustawa z dnia 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów (Dz.U. 2001 nr 73 poz. 763).
-10. Hayes, S. C., Strosahl, K., & Wilson, K. G. (2012). *Acceptance and Commitment Therapy* (2nd ed.). Guilford Press.
+- Hunsley, J., & Mash, E. J. (2007). Evidence-based assessment. *Annual Review of Clinical Psychology, 3*, 29–51. [https://doi.org/10.1146/annurev.clinpsy.3.022806.091419](https://doi.org/10.1146/annurev.clinpsy.3.022806.091419)
+- Link, B. G., & Phelan, J. C. (2001). Conceptualizing stigma. *Annual Review of Sociology, 27*, 363–385. [https://doi.org/10.1146/annurev.soc.27.1.363](https://doi.org/10.1146/annurev.soc.27.1.363)
+- Meyer, G. J., Finn, S. E., Eyde, L. D., Kay, G. G., Moreland, K. L., Dies, R. R., Eisman, E. J., Kubiszyn, T. W., & Reed, G. M. (2001). Psychological testing and psychological assessment: A review of evidence and issues. *American Psychologist, 56*(2), 128–165. [https://doi.org/10.1037/0003-066X.56.2.128](https://doi.org/10.1037/0003-066X.56.2.128)
+- Paluchowski, W. J. (2007). *Diagnoza psychologiczna: Proces, narzędzia, standardy*. Wydawnictwa Akademickie i Profesjonalne.
+- Stemplewska-Żakowicz, K. (2009). *Diagnoza psychologiczna: Diagnozowanie jako kompetencja profesjonalna*. Gdańskie Wydawnictwo Psychologiczne.

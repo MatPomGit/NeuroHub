@@ -1,20 +1,23 @@
 ---
-lastReviewed: 2026-07-29
+lastReviewed: 2026-08-09
 reviewCycleMonths: 24
-evidenceCutoffDate: 2025-12-31
+evidenceCutoffDate: 2026-08-09
 aliases:
   - formułowanie przypadku klinicznego
   - case formulation
   - case conceptualization
+  - opinia psychologiczna
 ---
 
-# Formułowanie przypadku w diagnozie psychologicznej
+# Formułowanie przypadku, metody dodatkowe i opinia psychologiczna
 
 ## Definicja i granice pojęcia
 
 Formułowanie przypadku (*case formulation*, *case conceptualization*) jest procesem integrowania danych o trudnościach, historii życia, aktualnym kontekście i zasobach osoby w **spójną, opartą na określonej teorii hipotezę wyjaśniającą**. Hipoteza ma odpowiadać na pytania, dlaczego problemy pojawiły się u tej osoby w tym okresie, co je podtrzymuje oraz jakie działania mogą przynieść zmianę (Eells, 2022; Johnstone i Dallos, 2014).
 
 Formułowanie nie zastępuje diagnozy klasyfikacyjnej. Klasyfikacja porządkuje obserwowane objawy według kryteriów i ułatwia komunikację, natomiast formułowanie indywidualizuje ich możliwe mechanizmy i znaczenie. Oba wyniki diagnozy mogą się uzupełniać. Formułowanie pozostaje jednak hipotezą roboczą: należy wskazywać stopień pewności wniosków, sprawdzać je wspólnie z osobą badaną i aktualizować wraz z napływem danych.
+
+Trzeba także odróżnić formułowanie od **opinii psychologicznej**. Formułowanie jest hipotezą wyjaśniającą, która organizuje rozumienie przypadku i plan pomocy. Opinia jest dokumentem komunikacyjnym: odpowiada określonemu odbiorcy na uzgodnione pytanie na podstawie przeprowadzonego badania. Opinia może zawierać zwięzłe elementy formułowania, gdy są potrzebne do odpowiedzi, ale nie powinna ujawniać całej roboczej konceptualizacji ani informacji niezwiązanych z celem.
 
 ## Funkcje formułowania
 
@@ -114,6 +117,72 @@ Etycznie prowadzone formułowanie wymaga:
 
 Współtworzenie nie oznacza wymuszonej zgody. Rozbieżności można zapisać jako różne hipotezy, a ograniczenia udziału, na przykład ostry kryzys lub trudności poznawcze, wymagają dostosowania sposobu komunikacji.
 
+## Integracja testów, wywiadu, obserwacji i dokumentacji
+
+Formułowanie i opinia powstają z tego samego materiału, lecz organizują go według innego celu. Szczegółowe zasady pozyskiwania danych opisują artykuły [Proces diagnozy psychologicznej](etapy_diagnozy.md) oraz [Wywiad, rozmowa i obserwacja](wywiad_psychologiczny.md). Integracja wymaga oceny tego, **co dane źródło rzeczywiście mierzy lub opisuje**, w jakich warunkach powstało i jak silny wniosek uzasadnia.
+
+| Źródło | Wkład | Pytania kontrolne przed wnioskiem |
+|---|---|---|
+| **Test lub kwestionariusz** | Standaryzowana próbka wykonania albo samoopisu | Czy narzędzie jest trafne dla tego celu i populacji? Jaki jest błąd pomiaru, układ odniesienia i wpływ warunków badania? |
+| **Wywiad** | Historia, znaczenia, chronologia, subiektywne doświadczenie i kontekst | Czy pytania były neutralne? Które informacje są spontaniczne, a które uzyskano po dopytywaniu? |
+| **Obserwacja** | Zachowanie w określonej sytuacji | Co było faktem obserwowalnym, a co interpretacją? Czy zachowanie może zależeć od relacji lub warunków? |
+| **Dokumentacja i dane od innych osób** | Przebieg w czasie oraz funkcjonowanie poza gabinetem | W jakim celu i przez kogo powstał zapis? Czy zawiera dane pierwotne, czy wcześniejsze interpretacje? Czy okresy i konteksty są porównywalne? |
+
+Zbieżność niezależnych źródeł może wzmacniać wniosek, ale powtórzenie tej samej relacji w kilku dokumentach nie tworzy niezależnego potwierdzenia. Rozbieżności należy wyjaśniać, a nie uśredniać. Samoopis trudności w domu i brak ich podczas krótkiego badania mogą na przykład wskazywać na zależność od wymagań, efekt struktury spotkania lub niepełną próbkę zachowania.
+
+Hierarchia dowodów zależy od twierdzenia. Standaryzowany test wykonania może być lepszy do oszacowania określonej zdolności w warunkach testowych, natomiast rozmowa i obserwacja środowiskowa mogą lepiej opisać codzienne bariery. Żaden wynik nie powinien automatycznie unieważniać pozostałych źródeł.
+
+## Metody o słabiej ustalonych właściwościach: techniki projekcyjne
+
+Termin **techniki projekcyjne** obejmuje niejednorodne zadania z wieloznacznym materiałem, takie jak interpretowanie plam atramentowych, układanie opowieści do obrazków lub wykonywanie rysunków. Założenie, że niejednoznaczny bodziec ujawnia ukryte cechy lub konflikty, samo w sobie nie zapewnia trafności interpretacji. Poszczególne systemy kodowania i wskaźniki trzeba oceniać oddzielnie, a nie przenosić dowodów z jednego narzędzia na całą grupę (Lilienfeld i in., 2000).
+
+Najważniejsze ograniczenia to:
+
+- **rzetelność**: swobodne interpretacje mogą znacznie różnić się między diagnostami; rzetelność wymaga jednoznacznych reguł kodowania i danych o zgodności;
+- **trafność**: sugestywna lub klinicznie przekonująca interpretacja nie dowodzi związku wskaźnika z cechą, rozpoznaniem ani wynikiem leczenia;
+- **standaryzacja**: zmiana instrukcji, sposobu dopytywania lub kodowania utrudnia porównanie z normami i badaniami;
+- **trafność przyrostowa**: metoda powinna wnosić użyteczną informację ponad wywiad, obserwację i narzędzia o lepiej ustalonych właściwościach, a nie jedynie opisywać ten sam materiał innym językiem;
+- **ryzyko nadinterpretacji**: wiele możliwych znaczeń sprzyja potwierdzaniu oczekiwań i tworzeniu twierdzeń odpornych na falsyfikację.
+
+Nie oznacza to, że każdy wystandaryzowany wskaźnik każdego narzędzia ma zerową wartość. Dowody są zróżnicowane, dlatego twierdzenie musi odpowiadać konkretnemu systemowi, wskaźnikowi, populacji i celowi. Technika może też ułatwić rozmowę lub dostarczyć materiału do dalszych pytań, ale odpowiedź osoby pozostaje wtedy punktem wyjścia do eksploracji, a nie „odszyfrowanym” faktem o osobowości.
+
+Jeżeli metoda projekcyjna jest używana, psycholog powinien podać jej cel, wersję, sposób standaryzacji, ograniczenia i rzeczywisty wkład do decyzji. **Interpretacja projekcyjna nie może przeważać nad wynikami metod o lepiej ustalonych właściwościach tylko dlatego, że wydaje się bardziej głęboka.** Nie należy na jej podstawie samodzielnie wnioskować o traumie, przemocy, intencjach, rozpoznaniu ani rokowaniu. W warunkach wysokiej stawki brak dowodów na trafność przyrostową przemawia za pominięciem metody.
+
+## Opinia psychologiczna jako odpowiedź na pytanie
+
+Opinia powinna być samodzielnie zrozumiałym, proporcjonalnym dokumentem. Jej zakres wyznaczają pytanie, rola psychologa, zgoda lub inna podstawa przekazania danych oraz potrzeby adresata. Nie jest kroniką całego badania ani miejscem na spekulacje bez znaczenia dla decyzji.
+
+### Zalecana struktura opinii
+
+1. **Dane identyfikacyjne i formalne**: osoba badana, autor, daty, miejsce oraz adresat, w zakresie wymaganym przez kontekst.
+2. **Cel i pytanie**: kto zlecił badanie, jaka była rola psychologa i na co dokument odpowiada.
+3. **Podstawa badania**: wykorzystane metody, źródła, dokumenty, informatorzy i warunki; wersje testów podaje się na tyle precyzyjnie, by ocenić podstawę wniosku, bez ujawniania chronionych pozycji testowych.
+4. **Istotne wyniki**: dane powiązane z pytaniem, z rozdzieleniem samoopisu, obserwacji, wyników pomiaru i informacji od innych osób.
+5. **Integracja i odpowiedź**: zwięzłe rozumowanie łączące dane z wnioskiem, hipotezy alternatywne oraz odpowiedź na każde pytanie.
+6. **Ograniczenia**: jakość i brakujące źródła, błąd pomiaru, warunki, rozbieżności, granice generalizacji i poziom pewności.
+7. **Zalecenia**: konkretne, wykonalne, związane z wynikami i kompetencjami psychologa; w razie potrzeby termin ponownej oceny.
+8. **Zakończenie formalne**: data, podpis i dane zawodowe zgodne z wymaganiami kontekstu.
+
+Nie każda opinia wymaga wszystkich śródtytułów, lecz odbiorca powinien móc odtworzyć drogę od pytania przez dane do odpowiedzi. Wynik liczbowy podaje się wraz z układem odniesienia i interpretacją, a nie jako pozornie dokładną liczbę bez informacji o niepewności.
+
+### Język probabilistyczny
+
+Stopień pewności powinien wynikać z jakości i zgodności danych. Pomocne sformułowania to:
+
+- „wyniki **są zgodne z hipotezą**, że...”, gdy istnieją dane wspierające, lecz nie rozstrzygające;
+- „na podstawie zebranych danych **bardziej prawdopodobne jest... niż...**”, gdy porównano alternatywy;
+- „wynik **zwiększa prawdopodobieństwo**, ale sam nie stanowi podstawy rozpoznania”, w odniesieniu do przesiewu;
+- „**nie uzyskano danych potwierdzających**” zamiast „udowodniono brak”, jeżeli metoda mogła czegoś nie wykryć;
+- „**nie można rozstrzygnąć** z powodu...”, gdy ograniczenie uniemożliwia odpowiedź.
+
+Język ostrożny nie może ukrywać odpowiedzi. Gdy dane są mocne, trzeba jasno podać wniosek; gdy są słabe, mnożenie słów „wydaje się” nie naprawia braku podstaw.
+
+### Komunikowanie ograniczeń
+
+Ograniczenie należy połączyć z jego wpływem: nie tylko „brak danych ze szkoły”, lecz „brak niezależnych danych ze szkoły ogranicza ocenę, czy trudność występuje w więcej niż jednym środowisku”. Warto wskazać, jaką informacją można zmniejszyć niepewność oraz czy ograniczenie zmienia zalecenia. Nie należy przerzucać odpowiedzialności na osobę przez wartościujące określenia „brak współpracy”; trzeba opisać, czego nie wykonano, z jakiego znanego powodu i jaki ma to skutek interpretacyjny.
+
+Przed przekazaniem dokumentu wyniki omawia się z osobą w granicach kontekstu badania. Sprostowanie błędu faktycznego różni się od nacisku na zmianę profesjonalnego wniosku. Rozbieżną perspektywę można odnotować, nie przedstawiając uzgodnienia jako warunku ważności danych.
+
 ## Ograniczenia i typowe błędy
 
 Badania nad formułowaniem wskazują problemy z rzetelnością między klinicystami oraz nierówną jakość dowodów na trafność poszczególnych hipotez. Użyteczność kliniczna nie może więc być utożsamiana z naukowym potwierdzeniem modelu (Bieling i Kuyken, 2003; Flinn i in., 2015).
@@ -131,19 +200,23 @@ Formułowanie może też stać się zbyt rozbudowane, by kierować decyzjami. Do
 
 ## Wnioski
 
-Formułowanie przypadku przekształca rozproszone dane w indywidualną, sprawdzalną mapę mechanizmów i zasobów. Modele 5P, Persons, psychodynamiczny i biopsychospołeczny organizują materiał z różnych perspektyw, lecz żaden nie zwalnia z krytycznej oceny dowodów. Największą wartość ma formułowanie współtworzone, wrażliwe kulturowo i etycznie, które prowadzi do konkretnych decyzji, a następnie zmienia się pod wpływem ich wyników.
+Formułowanie przypadku przekształca rozproszone dane w indywidualną, sprawdzalną mapę mechanizmów i zasobów. Opinia odpowiada natomiast na określone pytanie i ujawnia tylko dane potrzebne do uzasadnienia odpowiedzi. Oba zadania wymagają krytycznej integracji źródeł. Metoda dodatkowa może wnieść tyle, ile uzasadniają jej właściwości pomiarowe; sugestywna interpretacja projekcyjna nie zastępuje rzetelnego dowodu. Największą wartość ma rozumowanie jawne, probabilistyczne i podatne na rewizję.
 
 ## Bibliografia
 
 - American Psychiatric Association. (2022). *Diagnostic and Statistical Manual of Mental Disorders* (5th ed., text rev.). American Psychiatric Association Publishing.
-- Bieling, P. J., & Kuyken, W. (2003). Is cognitive case formulation science or science fiction? *Clinical Psychology: Science and Practice, 10*(1), 52–69. https://doi.org/10.1093/clipsy.10.1.52
-- Eells, T. D. (Ed.). (2022). *Handbook of Psychotherapy Case Formulation* (3rd ed.). Guilford Press.
-- Engel, G. L. (1977). The need for a new medical model: A challenge for biomedicine. *Science, 196*(4286), 129–136. https://doi.org/10.1126/science.847460
-- Flinn, L., Braham, L., & das Nair, R. (2015). How reliable are case formulations? A systematic literature review. *British Journal of Clinical Psychology, 54*(3), 266–290. https://doi.org/10.1111/bjc.12073
-- Johnstone, L., & Dallos, R. (Eds.). (2014). *Formulation in Psychology and Psychotherapy: Making Sense of People's Problems* (2nd ed.). Routledge.
+- Bieling, P. J., & Kuyken, W. (2003). Is cognitive case formulation science or science fiction? *Clinical Psychology: Science and Practice, 10*(1), 52–69. [https://doi.org/10.1093/clipsy.10.1.52](https://doi.org/10.1093/clipsy.10.1.52)
+- Eells, T. D. (Ed.). (2022). *Handbook of psychotherapy case formulation* (3rd ed.). Guilford Press.
+- Engel, G. L. (1977). The need for a new medical model: A challenge for biomedicine. *Science, 196*(4286), 129–136. [https://doi.org/10.1126/science.847460](https://doi.org/10.1126/science.847460)
+- Flinn, L., Braham, L., & das Nair, R. (2015). How reliable are case formulations? A systematic literature review. *British Journal of Clinical Psychology, 54*(3), 266–290. [https://doi.org/10.1111/bjc.12073](https://doi.org/10.1111/bjc.12073)
+- Groth-Marnat, G., & Wright, A. J. (2016). *Handbook of psychological assessment* (6th ed.). Wiley.
+- Johnstone, L., & Dallos, R. (Eds.). (2014). *Formulation in psychology and psychotherapy: Making sense of people's problems* (2nd ed.). Routledge.
 - Kleinman, A. (1980). *Patients and Healers in the Context of Culture*. University of California Press.
 - Luborsky, L., & Crits-Christoph, P. (1998). *Understanding Transference: The Core Conflictual Relationship Theme Method* (2nd ed.). American Psychological Association.
-- Macneil, C. A., Hasty, M. K., Conus, P., & Berk, M. (2012). Is diagnosis enough to guide interventions in mental health? Using case formulation in clinical practice. *BMC Medicine, 10*, 111. https://doi.org/10.1186/1741-7015-10-111
-- McWilliams, N. (2011). *Psychoanalytic Diagnosis: Understanding Personality Structure in the Clinical Process* (2nd ed.). Guilford Press.
-- Persons, J. B. (2008). *The Case Formulation Approach to Cognitive-Behavior Therapy*. Guilford Press.
-- Weerasekera, P. (1996). *Multiperspective Case Formulation: A Step Towards Treatment Integration*. Krieger Publishing.
+- Lilienfeld, S. O., Wood, J. M., & Garb, H. N. (2000). The scientific status of projective techniques. *Psychological Science in the Public Interest, 1*(2), 27–66. [https://doi.org/10.1111/1529-1006.002](https://doi.org/10.1111/1529-1006.002)
+- Macneil, C. A., Hasty, M. K., Conus, P., & Berk, M. (2012). Is diagnosis enough to guide interventions in mental health? Using case formulation in clinical practice. *BMC Medicine, 10*, Article 111. [https://doi.org/10.1186/1741-7015-10-111](https://doi.org/10.1186/1741-7015-10-111)
+- McWilliams, N. (2011). *Psychoanalytic diagnosis: Understanding personality structure in the clinical process* (2nd ed.). Guilford Press.
+- Meyer, G. J., Finn, S. E., Eyde, L. D., Kay, G. G., Moreland, K. L., Dies, R. R., Eisman, E. J., Kubiszyn, T. W., & Reed, G. M. (2001). Psychological testing and psychological assessment: A review of evidence and issues. *American Psychologist, 56*(2), 128–165. [https://doi.org/10.1037/0003-066X.56.2.128](https://doi.org/10.1037/0003-066X.56.2.128)
+- Paluchowski, W. J. (2007). *Diagnoza psychologiczna: Proces, narzędzia, standardy*. Wydawnictwa Akademickie i Profesjonalne.
+- Persons, J. B. (2008). *The case formulation approach to cognitive-behavior therapy*. Guilford Press.
+- Weerasekera, P. (1996). *Multiperspective case formulation: A step towards treatment integration*. Krieger Publishing.

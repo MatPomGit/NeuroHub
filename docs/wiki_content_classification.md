@@ -6,11 +6,7 @@ Raport obejmuje wszystkie nieprzekierowujące pliki w `wiki/`, które przed klas
 |---|---|
 | `wiki/biologia/chronopsychologia.md` | publiczny artykuł merytoryczny |
 | `wiki/biologia/mikrobiom.md` | publiczny artykuł merytoryczny |
-| `wiki/diagnoza/diagnoza_techniki_rozmowy_psychologicznej.md` | publiczny artykuł merytoryczny |
 | `wiki/diagnoza/etapy_diagnozy.md` | publiczny artykuł merytoryczny |
-| `wiki/diagnoza/opinia_psychologiczna.md` | publiczny artykuł merytoryczny |
-| `wiki/diagnoza/techniki_projekcyjne.md` | publiczny artykuł merytoryczny |
-| `wiki/diagnoza/wywiad_kognitywny_poznawczy.md` | publiczny artykuł merytoryczny |
 | `wiki/dla_studentow/psycholog_w_it.md` | publiczny artykuł merytoryczny |
 | `wiki/dla_studentow/psycholog_w_it_kompetencje_mierniki_i_portfolio.md` | publiczny artykuł merytoryczny |
 | `wiki/dla_studentow/wystapienia_publiczne_autoprezentacja.md` | publiczny artykuł merytoryczny |
@@ -103,7 +99,7 @@ Raport obejmuje wszystkie nieprzekierowujące pliki w `wiki/`, które przed klas
 
 ## Podsumowanie
 
-- publiczny artykuł merytoryczny: 85.
+- publiczny artykuł merytoryczny: 81.
 - dokumentacja redakcyjna: 7.
 - szablon lub demonstracja formatowania: 1.
 - raport: 2.

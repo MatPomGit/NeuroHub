@@ -1,3 +1,11 @@
+---
+content_type: report
+article_requirements: false
+sitemap: false
+public_navigation: false
+published: false
+---
+
 # Audyt treści wiki (content audit)
 
 ## Cel

@@ -1,3 +1,11 @@
+---
+content_type: index
+article_requirements: false
+sitemap: false
+public_navigation: false
+published: false
+---
+
 # Psychofarmakologia
 
 Dział został uporządkowany według siedmiu pytań kanonicznych. Najpierw wybierz artykuł odpowiadający celowi lektury: mechanizmy i ocenę dowodów, właściwości klas, plan leczenia określonej grupy zaburzeń albo bezpieczeństwo w szczególnej sytuacji. Charakterystyka klasy nie jest instrukcją leczenia rozpoznania, a artykuł kliniczny odsyła do niej zamiast powtarzać katalog działań niepożądanych.

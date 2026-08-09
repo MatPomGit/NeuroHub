@@ -2,6 +2,7 @@
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
+content_type: article
 ---
 
 # Psychologia niepełnosprawności - wprowadzenie
@@ -63,7 +64,16 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 Temat "Psychologia niepełnosprawności - wprowadzenie" pokazuje, że najważniejsze jest łączenie perspektywy klinicznej z prawami, dostępnością i jakością uczestnictwa w życiu społecznym.
 
 
-Dopiero wspólna analiza zagadnień takich jak czym jest niepełnosprawność?, podstawowe pytania badawcze oraz kluczowe wartości w pracy z osobami z niepełnosprawnościami pokazuje pełny zakres omawianego zjawiska.## Bibliografia
+Dopiero wspólna analiza zagadnień takich jak czym jest niepełnosprawność?, podstawowe pytania badawcze oraz kluczowe wartości w pracy z osobami z niepełnosprawnościami pokazuje pełny zakres omawianego zjawiska.
+
+## Podstawa źródłowa
+
+Rozróżnienie funkcji organizmu, aktywności, uczestnictwa i barier środowiskowych odpowiada modelowi ICF (World Health Organization, 2001); dane populacyjne należy interpretować w kontekście raportu WHO i Banku Światowego (World Health Organization & World Bank, 2011).
+
+## Bibliografia
+
+- World Health Organization. (2001). *International classification of functioning, disability and health: ICF.* World Health Organization.
+- World Health Organization, & World Bank. (2011). *World report on disability.* World Health Organization. https://www.who.int/publications/i/item/9789241564182
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

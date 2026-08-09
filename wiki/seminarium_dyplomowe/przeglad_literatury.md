@@ -2,6 +2,7 @@
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
+content_type: article
 ---
 
 # Przegląd literatury naukowej
@@ -127,7 +128,16 @@ Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale takż
 Temat "Przegląd literatury naukowej" pokazuje, że największą wartość daje traktowanie pracy badawczej jako procesu integrowania pytania, metody, analizy i argumentacji.
 
 
-Dopiero wspólna analiza zagadnień takich jak cele przeglądu literatury, ocena jakości źródeł oraz organizacja i synteza literatury pokazuje pełny zakres omawianego zjawiska.## Bibliografia
+Dopiero wspólna analiza zagadnień takich jak cele przeglądu literatury, ocena jakości źródeł oraz organizacja i synteza literatury pokazuje pełny zakres omawianego zjawiska.
+
+## Podstawa źródłowa
+
+Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synteza psychologii naukowej VandenBos (2015) oraz właściwe dla rozpoznań kryteria ICD-11 (World Health Organization, 2022).
+
+## Bibliografia
+
+- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/14646-000](https://doi.org/10.1037/14646-000)
+- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
 
 1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
 2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.

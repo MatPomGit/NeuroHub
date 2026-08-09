@@ -1,3 +1,7 @@
+---
+content_type: article
+---
+
 ﻿---
 lastReviewed: 2026-04-30
 reviewCycleMonths: 24
@@ -49,12 +53,18 @@ To rozróżnienie ma znaczenie etyczne i kliniczne: wsparcie pacjenta powinno ob
 
 
 
-K.C. jest jednym z kluczowych przypadków dla nowoczesnej nauki o pamięci. Dostarczył silnych dowodów na funkcjonalną odrębność pamięci epizodycznej i semantycznej oraz na związek pamięci autobiograficznej z myśleniem prospektywnym.## Bibliografia
+K.C. jest jednym z kluczowych przypadków dla nowoczesnej nauki o pamięci. Dostarczył silnych dowodów na funkcjonalną odrębność pamięci epizodycznej i semantycznej oraz na związek pamięci autobiograficznej z myśleniem prospektywnym.
+
+## Podstawa źródłowa
+
+Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synteza psychologii naukowej VandenBos (2015) oraz właściwe dla rozpoznań kryteria ICD-11 (World Health Organization, 2022).
+
+## Bibliografia
+
+- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/14646-000](https://doi.org/10.1037/14646-000)
+- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
 
 1. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1–12.
 2. Tulving, E. (2002). Episodic memory: From mind to brain. *Annual Review of Psychology*, 53, 1–25.
 3. Rosenbaum, R. S., et al. (2005). The case of K.C.: Contributions of a memory-impaired person to memory theory. *Neuropsychologia*, 43(7), 989–1021.
 4. Schacter, D. L., Addis, D. R., & Buckner, R. L. (2007). Remembering the past to imagine the future. *Nature Reviews Neuroscience*, 8, 657–661.
-
-
-

@@ -1,3 +1,7 @@
+---
+content_type: article
+---
+
 ﻿---
 lastReviewed: 2026-04-19
 reviewCycleMonths: 24
@@ -42,9 +46,18 @@ W dyskusji publicznej dominuje obraz TBI jako problemu sportowego. Alternatywnie
 
 - TBI to grupa heterogenicznych urazów o zróżnicowanej dynamice.
 - Diagnoza wymaga podejścia wielowymiarowego, nie tylko skali GCS.
-- Rehabilitacja powinna być etapowa i oparta na obiektywnych wskaźnikach poprawy.## Bibliografia
+- Rehabilitacja powinna być etapowa i oparta na obiektywnych wskaźnikach poprawy.
+
+## Podstawa źródłowa
+
+Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synteza psychologii naukowej VandenBos (2015) oraz właściwe dla rozpoznań kryteria ICD-11 (World Health Organization, 2022).
+
+## Bibliografia
+
+- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/14646-000](https://doi.org/10.1037/14646-000)
+- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
+
 1. McCrory, P., et al. (2017). Consensus statement on concussion in sport. *British Journal of Sports Medicine, 51*(11), 838–847.
 2. Menon, D. K., et al. (2010). Position statement: definition of traumatic brain injury. *Archives of Physical Medicine and Rehabilitation, 91*(11), 1637–1640.
 3. Maas, A. I. R., et al. (2017). Traumatic brain injury: integrated approaches to improve prevention, clinical care, and research. *The Lancet Neurology, 16*(12), 987–1048.
 4. Silver, J. M., McAllister, T. W., & Yudofsky, S. C. (2018). *Textbook of Traumatic Brain Injury* (3rd ed.). American Psychiatric Association Publishing.
-

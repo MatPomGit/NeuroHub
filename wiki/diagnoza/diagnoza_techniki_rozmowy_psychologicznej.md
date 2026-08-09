@@ -1,3 +1,7 @@
+---
+content_type: article
+---
+
 # Techniki rozmowy psychologicznej w diagnozie: parafraza, odzwierciedlenie, sondowanie, uruchamianie wyobraźni, klaryfikacja i interwencje pokrewne
 
 ## Abstrakt
@@ -183,7 +187,18 @@ Jakość rozmowy powinna być regularnie audytowana w superwizji, najlepiej z u�
 ## 12. Wnioski
 Techniki rozmowy psychologicznej są mikrointerwencjami o makroznaczeniu diagnostycznym. Parafraza, odzwierciedlenie, sondowanie, uruchamianie wyobraźni i klaryfikacja nie konkurują ze sobą, lecz tworzą komplementarny repertuar wspierający trafną i etyczną diagnozę. Najwyższą skuteczność osiąga się wtedy, gdy techniki są stosowane intencjonalnie, sekwencyjnie i elastycznie, przy jednoczesnym monitorowaniu obciążenia emocjonalnego oraz jakości danych.
 
----## Bibliografia orientacyjna (kierunkowa)
+---
+
+## Podstawa źródłowa
+
+W opisie procesu diagnostycznego przyjęto standardy wielometodowej oceny i formułowania przypadku omawiane przez Grotha-Marnata i Wrighta (2016) oraz w klasyfikacji ICD-11 (World Health Organization, 2022).
+
+## Bibliografia
+
+- Groth-Marnat, G., & Wright, A. J. (2016). *Handbook of psychological assessment* (6th ed.). Wiley.
+- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
+
+orientacyjna (kierunkowa)
 1. Rogers, C. R. (1951). *Client-Centered Therapy*.
 2. Miller, W. R., & Rollnick, S. (2013). *Motivational Interviewing*.
 3. Sommers-Flanagan, J., & Sommers-Flanagan, R. (2016). *Clinical Interviewing*.

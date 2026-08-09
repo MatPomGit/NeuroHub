@@ -2,6 +2,7 @@
 lastReviewed: 2026-05-09
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
+content_type: article
 ---
 
 # Opinia psychologiczna: standard naukowy, język kliniczny i użyteczność praktyczna
@@ -125,7 +126,17 @@ Język opinii może działać jak soczewka: albo zawęża człowieka do etykiety
 
 Rzetelna opinia psychologiczna to dokument, który łączy naukową dyscyplinę z praktyczną użytecznością. Powinna odpowiadać na konkretne pytanie, pokazywać tok rozumowania, ujawniać ograniczenia i prowadzić do mierzalnych działań pomocowych.
 
----## Bibliografia
+---
+
+## Podstawa źródłowa
+
+W opisie procesu diagnostycznego przyjęto standardy wielometodowej oceny i formułowania przypadku omawiane przez Grotha-Marnata i Wrighta (2016) oraz w klasyfikacji ICD-11 (World Health Organization, 2022).
+
+## Bibliografia
+
+- Groth-Marnat, G., & Wright, A. J. (2016). *Handbook of psychological assessment* (6th ed.). Wiley.
+- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
+
 3. Sattler, J. M. (2014). *Foundations of Behavioral, Social, and Clinical Assessment of Children*. Jerome M. Sattler Publisher.
 1. Paluchowski, W. J. (2007). *Diagnoza psychologiczna. Podejście ilościowe i jakościowe*. Scholar.
 2. Hunsley, J., & Mash, E. J. (2007). Evidence-based assessment. *Annual Review of Clinical Psychology, 3*, 29–51.

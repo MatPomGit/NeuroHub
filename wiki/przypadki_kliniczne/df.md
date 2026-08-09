@@ -1,3 +1,7 @@
+---
+content_type: article
+---
+
 ﻿---
 lastReviewed: 2026-04-29
 reviewCycleMonths: 24
@@ -49,12 +53,18 @@ To wspiera ucieleśnione podejście do poznania, w którym inteligencja nie jest
 
 
 
-D.F. dostarczyła jednych z najbardziej przekonujących danych na temat funkcjonalnego podziału przetwarzania wzrokowego. Klinicznie jej przypadek przypomina, że ocena pacjenta powinna obejmować zarówno to, co umie on opisać, jak i to, co potrafi skutecznie zrobić.## Bibliografia
+D.F. dostarczyła jednych z najbardziej przekonujących danych na temat funkcjonalnego podziału przetwarzania wzrokowego. Klinicznie jej przypadek przypomina, że ocena pacjenta powinna obejmować zarówno to, co umie on opisać, jak i to, co potrafi skutecznie zrobić.
+
+## Podstawa źródłowa
+
+Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synteza psychologii naukowej VandenBos (2015) oraz właściwe dla rozpoznań kryteria ICD-11 (World Health Organization, 2022).
+
+## Bibliografia
+
+- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/14646-000](https://doi.org/10.1037/14646-000)
+- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
 
 1. Milner, A. D., Goodale, M. A. (1995). *The Visual Brain in Action*. Oxford University Press.
 2. Goodale, M. A., Milner, A. D., Jakobson, L. S., & Carey, D. P. (1991). A neurological dissociation between perceiving objects and grasping them. *Nature*, 349, 154–156.
 3. Milner, A. D., & Goodale, M. A. (2008). Two visual systems re-viewed. *Neuropsychologia*, 46(3), 774–785.
 4. Whitwell, R. L., et al. (2015). The patient DF and the two visual systems debate. *Cortex*, 72, 4–23.
-
-
-

@@ -2,6 +2,7 @@
 lastReviewed: 2026-04-19
 reviewCycleMonths: 24
 evidenceCutoffDate: 2026-03-31
+content_type: article
 ---
 
 # Psychoedukacja rodzinna w erze ekranów
@@ -55,12 +56,19 @@ Nieoczywista perspektywa mówi, że celem psychoedukacji nie powinno być „wyc
 
 
 
-Skuteczna psychoedukacja rodzinna łączy wiedzę o mediach, komunikację opartą na zaufaniu i spójne normy domowe. Najsilniejszym czynnikiem ochronnym pozostaje jakość relacji rodzic–dziecko: technologia staje się wtedy narzędziem rozwoju, a nie źródłem przewlekłego konfliktu.## Bibliografia
+Skuteczna psychoedukacja rodzinna łączy wiedzę o mediach, komunikację opartą na zaufaniu i spójne normy domowe. Najsilniejszym czynnikiem ochronnym pozostaje jakość relacji rodzic–dziecko: technologia staje się wtedy narzędziem rozwoju, a nie źródłem przewlekłego konfliktu.
+
+## Podstawa źródłowa
+
+Oceny skutków technologii w artykule uwzględniają małe i zróżnicowane efekty oraz ograniczenia wnioskowania przyczynowego opisane przez Orben (2020), a w odniesieniu do snu także przegląd Hale i Guan (2015).
+
+## Bibliografia
+
+- Hale, L., & Guan, S. (2015). Screen time and sleep among school-aged children and adolescents: A systematic literature review. *Sleep Medicine Reviews, 21*, 50–58. [https://doi.org/10.1016/j.smrv.2014.07.007](https://doi.org/10.1016/j.smrv.2014.07.007)
+- Orben, A. (2020). Teenagers, screens and social media: A narrative review of reviews and key studies. *Social Psychiatry and Psychiatric Epidemiology, 55*, 407–414. [https://doi.org/10.1007/s00127-019-01825-4](https://doi.org/10.1007/s00127-019-01825-4)
 
 1. Domoff, S. E., Borgen, A. L., Foley, R. P., & Maffett, A. (2019). Excessive use of mobile devices and children’s physical health. *Human Behavior and Emerging Technologies*, 1(2), 169–175.
 2. Livingstone, S., & Helsper, E. J. (2008). Parental mediation of children’s internet use. *Journal of Broadcasting & Electronic Media*, 52(4), 581–599.
 3. Madigan, S., McArthur, B. A., Anhorn, C., Eirich, R., & Christakis, D. A. (2020). Associations between screen use and child language skills: A systematic review and meta-analysis. *JAMA Pediatrics*, 174(7), 665–675.
 4. Odgers, C. L., & Jensen, M. R. (2020). Annual Research Review: Adolescent mental health in the digital age. *Journal of Child Psychology and Psychiatry*, 61(3), 336–348.
 5. Valkenburg, P. M., Meier, A., & Beyens, I. (2022). Social media use and its impact on adolescent mental health. *Current Opinion in Psychology*, 44, 58–68.
-
-

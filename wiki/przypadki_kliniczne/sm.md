@@ -1,3 +1,7 @@
+---
+content_type: article
+---
+
 ﻿---
 lastReviewed: 2026-04-29
 reviewCycleMonths: 24
@@ -52,12 +56,18 @@ To przesuwa akcent z pytania „jak usunąć lęk?” na pytanie „jak przywró
 
 
 
-S.M. dostarczyła mocnych dowodów, że ciało migdałowate jest kluczowe dla detekcji zagrożeń zewnętrznych, ekspresji strachu i społecznej ostrożności. Jednocześnie panika wywołana CO₂ wskazuje, że architektura lęku jest sieciowa, a nie jednowęzłowa. Klinicznie oznacza to konieczność wielopoziomowej oceny ryzyka, łączącej neurobiologię, zachowanie i kontekst środowiskowy.## Bibliografia
+S.M. dostarczyła mocnych dowodów, że ciało migdałowate jest kluczowe dla detekcji zagrożeń zewnętrznych, ekspresji strachu i społecznej ostrożności. Jednocześnie panika wywołana CO₂ wskazuje, że architektura lęku jest sieciowa, a nie jednowęzłowa. Klinicznie oznacza to konieczność wielopoziomowej oceny ryzyka, łączącej neurobiologię, zachowanie i kontekst środowiskowy.
+
+## Podstawa źródłowa
+
+Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synteza psychologii naukowej VandenBos (2015) oraz właściwe dla rozpoznań kryteria ICD-11 (World Health Organization, 2022).
+
+## Bibliografia
+
+- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/14646-000](https://doi.org/10.1037/14646-000)
+- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
 
 1. Adolphs, R., Tranel, D., Damasio, H., & Damasio, A. R. (1994). Impaired recognition of emotion in facial expressions following bilateral damage to the human amygdala. *Nature*, 372, 669–672.
 2. Adolphs, R., Gosselin, F., Buchanan, T. W., Tranel, D., Schyns, P., & Damasio, A. R. (2005). A mechanism for impaired fear recognition after amygdala damage. *Nature*, 433, 68–72.
 3. Feinstein, J. S., Adolphs, R., Damasio, A., & Tranel, D. (2011). The human amygdala and the induction and experience of fear. *Current Biology*, 21(1), 34–38.
 4. LeDoux, J. E., & Pine, D. S. (2016). Using neuroscience to help understand fear and anxiety. *American Journal of Psychiatry*, 173(11), 1083–1093.
-
-
-

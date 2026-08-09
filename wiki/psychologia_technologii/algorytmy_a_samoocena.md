@@ -2,6 +2,7 @@
 lastReviewed: 2026-04-19
 reviewCycleMonths: 24
 evidenceCutoffDate: 2026-03-31
+content_type: article
 ---
 
 # Algorytmy personalizacji a samoocena
@@ -55,12 +56,19 @@ Nieoczywista perspektywa mówi, że algorytmy mogą również **wzmacniać samoo
 
 
 
-Algorytmy personalizacji wpływają na samoocenę przez selekcję bodźców, sprzężenia zwrotne i normy porównań społecznych. Ryzyko można istotnie ograniczać dzięki świadomemu zarządzaniu feedem, krytycznej analizie wskaźników społecznych i budowaniu samooceny opartej na wartościach wewnętrznych.## Bibliografia
+Algorytmy personalizacji wpływają na samoocenę przez selekcję bodźców, sprzężenia zwrotne i normy porównań społecznych. Ryzyko można istotnie ograniczać dzięki świadomemu zarządzaniu feedem, krytycznej analizie wskaźników społecznych i budowaniu samooceny opartej na wartościach wewnętrznych.
+
+## Podstawa źródłowa
+
+Oceny skutków technologii w artykule uwzględniają małe i zróżnicowane efekty oraz ograniczenia wnioskowania przyczynowego opisane przez Orben (2020), a w odniesieniu do snu także przegląd Hale i Guan (2015).
+
+## Bibliografia
+
+- Hale, L., & Guan, S. (2015). Screen time and sleep among school-aged children and adolescents: A systematic literature review. *Sleep Medicine Reviews, 21*, 50–58. [https://doi.org/10.1016/j.smrv.2014.07.007](https://doi.org/10.1016/j.smrv.2014.07.007)
+- Orben, A. (2020). Teenagers, screens and social media: A narrative review of reviews and key studies. *Social Psychiatry and Psychiatric Epidemiology, 55*, 407–414. [https://doi.org/10.1007/s00127-019-01825-4](https://doi.org/10.1007/s00127-019-01825-4)
 
 1. Fardouly, J., Diedrichs, P. C., Vartanian, L. R., & Halliwell, E. (2015). Social comparisons on social media: The impact of Facebook on young women’s body image concerns and mood. *Body Image*, 13, 38–45.
 2. Kross, E., Verduyn, P., Demiralp, E., et al. (2013). Facebook use predicts declines in subjective well-being in young adults. *PLOS ONE*, 8(8), e69841.
 3. Nesi, J., Choukas-Bradley, S., & Prinstein, M. J. (2018). Transformation of adolescent peer relations in the social media context. *Clinical Child and Family Psychology Review*, 21, 267–294.
 4. Pariser, E. (2011). *The Filter Bubble: What the Internet Is Hiding from You*. Penguin Press.
 5. Vogel, E. A., Rose, J. P., Roberts, L. R., & Eckles, K. (2014). Social comparison, social media, and self-esteem. *Psychology of Popular Media Culture*, 3(4), 206–222.
-
-

@@ -1,3 +1,7 @@
+---
+content_type: article
+---
+
 # Genetyczne i epigenetyczne uwarunkowania suicydalności
 
 ## Wprowadzenie
@@ -50,12 +54,20 @@ Rozwój genetyki psychiatrycznej bywa odbierany jako zagrożenie „biologicznym
 - Suicydalność ma poligeniczny i wieloczynnikowy charakter.
 - Epigenetyka stanowi kluczowy pomost między doświadczeniem a biologią.
 - Dane genetyczne nie są obecnie samodzielnym narzędziem predykcji klinicznej na poziomie jednostki.
-- Największą wartość ma model integracyjny: geny + środowisko + psychopatologia + kontekst społeczny.## Bibliografia
+- Największą wartość ma model integracyjny: geny + środowisko + psychopatologia + kontekst społeczny.
+
+## Podstawa źródłowa
+
+Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synteza psychologii naukowej VandenBos (2015) oraz właściwe dla rozpoznań kryteria ICD-11 (World Health Organization, 2022).
+
+## Bibliografia
+
+- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/14646-000](https://doi.org/10.1037/14646-000)
+- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
+
 1. Turecki, G., & Brent, D. A. (2016). Suicide and suicidal behaviour. *The Lancet*, 387(10024), 1227–1239.
 2. Mullins, N., Kang, J., Campos, A. I., et al. (2022). Dissecting the shared genetic architecture of suicide attempt, psychiatric disorders and known risk factors. *Biological Psychiatry*, 91(3), 313–327.
 3. Strawbridge, R. J., Ward, J., Ferguson, A., et al. (2019). Identification of novel genome-wide associations for suicidal behavior. *Molecular Psychiatry*, 24, 1324–1332.
 4. Labonté, B., Suderman, M., Maussion, G., et al. (2012). Genome-wide epigenetic regulation by early-life trauma. *Archives of General Psychiatry*, 69(7), 722–731.
 5. Klengel, T., & Binder, E. B. (2015). Epigenetics of stress-related psychiatric disorders and gene × environment interactions. *Neuron*, 86(6), 1343–1357.
 6. Coon, H., Darlington, T. M., DiBlasi, E., et al. (2020). Genome-wide significant regions in suicidal behavior. *American Journal of Medical Genetics Part B*, 183(2), 104–114.
-
-

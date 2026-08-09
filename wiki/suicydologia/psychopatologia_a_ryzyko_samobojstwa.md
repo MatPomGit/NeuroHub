@@ -1,3 +1,7 @@
+---
+content_type: article
+---
+
 # Psychopatologia a ryzyko samobójstwa: zaburzenia nastroju, psychotyczne i osobowości
 
 ## Wprowadzenie
@@ -59,12 +63,20 @@ W praktyce klinicznej często przecenia się kategorię nozologiczną, a niedoce
 - Zaburzenia nastroju, psychotyczne i osobowości istotnie zwiększają ryzyko suicydalne, ale nie determinują go automatycznie.
 - Najsilniejszym predyktorem pozostaje historia wcześniejszych prób samobójczych oraz aktualna dynamika objawów.
 - Ocena ryzyka musi być procesem ciągłym i kontekstowym, nie jednorazowym „screeningiem”.
-- Skuteczna profilaktyka łączy farmakoterapię, psychoterapię, plan bezpieczeństwa i pracę z rodziną/systemem wsparcia.## Bibliografia
+- Skuteczna profilaktyka łączy farmakoterapię, psychoterapię, plan bezpieczeństwa i pracę z rodziną/systemem wsparcia.
+
+## Podstawa źródłowa
+
+Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synteza psychologii naukowej VandenBos (2015) oraz właściwe dla rozpoznań kryteria ICD-11 (World Health Organization, 2022).
+
+## Bibliografia
+
+- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/14646-000](https://doi.org/10.1037/14646-000)
+- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
+
 1. Hawton, K., Casañas i Comabella, C., Haw, C., & Saunders, K. (2013). Risk factors for suicide in individuals with depression: A systematic review. *Journal of Affective Disorders*, 147(1–3), 17–28.
 2. Chesney, E., Goodwin, G. M., & Fazel, S. (2014). Risks of all-cause and suicide mortality in mental disorders: A meta-review. *World Psychiatry*, 13(2), 153–160.
 3. Pompili, M., Amador, X. F., Girardi, P., et al. (2007). Suicide risk in schizophrenia. *Schizophrenia Bulletin*, 33(4), 1005–1018.
 4. American Psychiatric Association. (2023). *Practice Guideline for the Assessment and Treatment of Patients With Suicidal Behaviors* (aktualizacja online).
 5. Gunderson, J. G., Herpertz, S. C., Skodol, A. E., et al. (2018). Borderline personality disorder. *Nature Reviews Disease Primers*, 4, 18029.
 6. Klonsky, E. D., Saffer, B. Y., & Bryan, C. J. (2018). Ideation-to-action theories of suicide: A conceptual and empirical update. *Current Opinion in Psychology*, 22, 38–43.
-
-

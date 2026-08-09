@@ -1,3 +1,7 @@
+---
+content_type: article
+---
+
 ﻿---
 lastReviewed: 2026-04-30
 reviewCycleMonths: 24
@@ -47,11 +51,17 @@ Ta perspektywa ma znaczenie dla etyki klinicznej: pacjent nie „udaje”, lecz 
 
 
 
-Przypadki somatoparafrenii, takie jak K.N., są kluczowe dla neuronauki Ja cielesnego. Klinicznie podkreślają wartość podejścia empatycznego i neurorehabilitacji opartej na integracji wielozmysłowej.## Bibliografia
+Przypadki somatoparafrenii, takie jak K.N., są kluczowe dla neuronauki Ja cielesnego. Klinicznie podkreślają wartość podejścia empatycznego i neurorehabilitacji opartej na integracji wielozmysłowej.
+
+## Podstawa źródłowa
+
+Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synteza psychologii naukowej VandenBos (2015) oraz właściwe dla rozpoznań kryteria ICD-11 (World Health Organization, 2022).
+
+## Bibliografia
+
+- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/14646-000](https://doi.org/10.1037/14646-000)
+- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
 
 1. Vallar, G., & Ronchi, R. (2009). Somatoparaphrenia: A body delusion. *A review of the neuropsychological literature*. *Experimental Brain Research*, 192, 533–551.
 2. Fotopoulou, A. (2010). The affective neuropsychology of confabulation and delusion. *Cognitive Neuropsychiatry*, 15(1-3), 38–63.
 3. Moro, V., et al. (2016). Ownership and agency in post-stroke patients. *Cortex*, 74, 133–146.
-
-
-

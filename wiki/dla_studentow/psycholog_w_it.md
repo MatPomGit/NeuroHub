@@ -2,6 +2,7 @@
 lastReviewed: 2026-05-02
 reviewCycleMonths: 12
 evidenceCutoffDate: 2026-04-30
+content_type: article
 ---
 
 # Psycholog w IT: role, kompetencje i granice wpływu
@@ -92,7 +93,16 @@ Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie 
 - `students/wystapienia_publiczne_autoprezentacja`
 - `technology_psychology/technologia_w_pracy`
 - `technology_psychology/algorytmy_a_samoocena`
-- `ethics/etyka_algorytmiczna`## Bibliografia
+- `ethics/etyka_algorytmiczna`
+
+## Podstawa źródłowa
+
+Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synteza psychologii naukowej VandenBos (2015) oraz właściwe dla rozpoznań kryteria ICD-11 (World Health Organization, 2022).
+
+## Bibliografia
+
+- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/14646-000](https://doi.org/10.1037/14646-000)
+- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
 
 1. Lazar, J., Feng, J. H., & Hochheiser, H. (2017). *Research Methods in Human-Computer Interaction* (2nd ed.). Morgan Kaufmann.
 2. Salas, E., Reyes, D. L., & McDaniel, S. H. (2018). The science of teamwork in organizations. *Annual Review of Organizational Psychology and Organizational Behavior, 5*, 1–36.

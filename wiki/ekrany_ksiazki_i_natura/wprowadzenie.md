@@ -1,6 +1,7 @@
 ---
 lastReviewed: 2026-07-31
 reviewCycleMonths: 24
+content_type: article
 ---
 
 # Ekrany, książki i natura
@@ -18,3 +19,12 @@ Dział opisuje, jak środowisko informacyjne i fizyczne wiąże się z uwagą, e
 ## Kontakt z naturą
 
 [Kontakt z naturą i zdrowie psychiczne](kontakt_z_natura_i_zdrowie_psychiczne.md) przedstawia stan badań nad zielenią, lasem i górami. Shinrin-yoku oraz wędrówki analizuje jako doświadczenia wieloskładnikowe, obejmujące także ruch, odpoczynek i kontakt społeczny.
+
+## Podstawa źródłowa
+
+Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synteza psychologii naukowej VandenBos (2015) oraz właściwe dla rozpoznań kryteria ICD-11 (World Health Organization, 2022).
+
+## Bibliografia
+
+- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/14646-000](https://doi.org/10.1037/14646-000)
+- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/

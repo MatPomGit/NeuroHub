@@ -389,19 +389,27 @@ function runInternalMarkdownLinksCheck(siteConfig, report) {
   pushOk(report, 'internal-markdown-links', `Sprawdzono linki markdown: ${checkedLinks}.`);
 }
 
-/* Sprawdza, czy pliki wiki zawierają obowiązkowy nagłówek "## Bibliografia". */
-function runBibliographyHeaderCheck(siteConfig, report) {
-  const collected = collectObjects(siteConfig);
-  const { idToFile } = buildFileIdIndexes(collected);
-  const candidateFiles = new Set();
-  const requiredHeaderRegex = /^##\s+Bibliografia\s*$/m;
+/* Odczytuje proste pola YAML z front matter bez wprowadzania zależności parsera. */
+function readFrontMatterField(content, fieldName) {
+  const frontMatter = String(content || '').match(/^\uFEFF?---\r?\n([\s\S]*?)\r?\n---(?:\r?\n|$)/);
+  if (!frontMatter) return null;
 
-  collected.forEach(({ value }) => {
-    const resolved = resolveEntryFile(value, idToFile);
-    if (resolved && resolved.endsWith('.md') && resolved.startsWith('wiki/')) {
-      candidateFiles.add(resolved);
-    }
+  const escapedName = fieldName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  const field = frontMatter[1].match(new RegExp(`^${escapedName}:\\s*([^#\\r\\n]+?)\\s*$`, 'm'));
+  return field ? field[1].trim().replace(/^['"]|['"]$/g, '') : null;
+}
+
+/* Bibliografia jest obowiązkowa wyłącznie w publicznych artykułach merytorycznych. */
+function runBibliographyHeaderCheck(_siteConfig, report) {
+  const wikiRoot = path.join(repoRoot, 'wiki');
+  const requiredHeaderRegex = /^##\s+Bibliografia\s*$/m;
+  const listFiles = directory => fs.readdirSync(directory, { withFileTypes: true }).flatMap(entry => {
+    const target = path.join(directory, entry.name);
+    return entry.isDirectory() ? listFiles(target) : [target];
   });
+  const candidateFiles = listFiles(wikiRoot)
+    .filter(file => file.endsWith('.md'))
+    .map(file => path.relative(repoRoot, file).replace(/\\/g, '/'));
 
   let checkedCount = 0;
   candidateFiles.forEach(markdownFile => {
@@ -410,10 +418,12 @@ function runBibliographyHeaderCheck(siteConfig, report) {
 
     const content = fs.readFileSync(absFilePath, 'utf8');
     if (isRedirectPage(content)) return;
+    if (readFrontMatterField(content, 'content_type') !== 'article') return;
     checkedCount += 1;
 
-    if (!requiredHeaderRegex.test(content)) {
-      pushWarning(
+    const contentWithoutCodeExamples = content.replace(/```[\s\S]*?```/g, '');
+    if (!requiredHeaderRegex.test(contentWithoutCodeExamples)) {
+      pushError(
         report,
         'bibliography-header',
         `Brak obowiązkowej sekcji "## Bibliografia" w pliku: ${markdownFile}`
@@ -421,7 +431,7 @@ function runBibliographyHeaderCheck(siteConfig, report) {
     }
   });
 
-  pushOk(report, 'bibliography-header', `Sprawdzono nagłówek bibliografii w plikach wiki: ${checkedCount}.`);
+  pushOk(report, 'bibliography-header', `Sprawdzono bibliografię artykułów merytorycznych: ${checkedCount}.`);
 }
 
 /* Rozpoznaje techniczny plik przekierowania Jekyll, który nie jest artykułem. */

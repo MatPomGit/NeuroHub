@@ -2,6 +2,7 @@
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
+content_type: article
 ---
 
 # Techniki projekcyjne
@@ -162,7 +163,18 @@ Techniki projekcyjne są **uzasadnione jako element wielometodowej baterii diagn
 
 Techniki projekcyjne stanowią wartościowy element arsenału diagnostycznego psychologa klinicznego - pod warunkiem stosowania znormalizowanych systemów kodowania, osadzenia wyników w kontekście wielometodowym oraz krytycznej świadomości ograniczeń empirycznych. Ich największą siłą jest dostęp do danych jakościowych i dynamicznych, których kwestionariusze samoopisu nie mogą dostarczyć.
 
----## Bibliografia zalecana
+---
+
+## Podstawa źródłowa
+
+W opisie procesu diagnostycznego przyjęto standardy wielometodowej oceny i formułowania przypadku omawiane przez Grotha-Marnata i Wrighta (2016) oraz w klasyfikacji ICD-11 (World Health Organization, 2022).
+
+## Bibliografia
+
+- Groth-Marnat, G., & Wright, A. J. (2016). *Handbook of psychological assessment* (6th ed.). Wiley.
+- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
+
+zalecana
 
 - Meyer, G. J., & Archer, R. P. (2001). *The hard science of Rorschach research*. Psychological Assessment, 13(4), 486–502.
 - Lilienfeld, S. O., Wood, J. M., & Garb, H. N. (2000). *The scientific status of projective techniques*. Psychological Science in the Public Interest, 1(2), 27–66.

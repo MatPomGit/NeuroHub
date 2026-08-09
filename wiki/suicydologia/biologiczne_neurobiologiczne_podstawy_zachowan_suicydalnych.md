@@ -1,3 +1,7 @@
+---
+content_type: article
+---
+
 # Biologiczne i neurobiologiczne podstawy zachowań suicydalnych
 
 ## Wprowadzenie
@@ -59,12 +63,20 @@ W debacie publicznej często przeciwstawia się „biologię” i „wolę czło
 - Suicydalność ma charakter sieciowy i wieloczynnikowy.
 - Kluczowe mechanizmy obejmują neurotransmisję, oś HPA, funkcjonowanie sieci mózgowych, neurozapalenie i sen.
 - Czynniki biologiczne zwiększają podatność, ale nie działają w próżni – ich wpływ zależy od kontekstu psychologicznego i społecznego.
-- Najlepsze efekty daje interwencja zintegrowana: biologiczna, psychologiczna i środowiskowa.## Bibliografia
+- Najlepsze efekty daje interwencja zintegrowana: biologiczna, psychologiczna i środowiskowa.
+
+## Podstawa źródłowa
+
+Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synteza psychologii naukowej VandenBos (2015) oraz właściwe dla rozpoznań kryteria ICD-11 (World Health Organization, 2022).
+
+## Bibliografia
+
+- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/14646-000](https://doi.org/10.1037/14646-000)
+- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
+
 1. Mann, J. J. (2003). Neurobiology of suicidal behaviour. *Nature Reviews Neuroscience*, 4(10), 819–828.
 2. Turecki, G., Brent, D. A., Gunnell, D., et al. (2019). Suicide and suicide risk. *Nature Reviews Disease Primers*, 5, 74.
 3. O'Connor, R. C., & Nock, M. K. (2014). The psychology of suicidal behaviour. *The Lancet Psychiatry*, 1(1), 73–85.
 4. Brundin, L., Bryleva, E. Y., & Rajamani, K. T. (2017). Role of inflammation in suicide: From mechanisms to treatment. *Neuropsychopharmacology*, 42, 271–283.
 5. Pompili, M., Serafini, G., Innamorati, M., et al. (2013). Sleep disturbances and suicide risk: A systematic review. *Sleep Medicine Reviews*, 17(6), 463–473.
 6. Courtet, P., Olié, E., Debien, C., & Vaiva, G. (2016). Keep socially connected and stay physically active: Two integrated strategies against suicide? *The Lancet Psychiatry*, 3(11), 1043–1044.
-
-

@@ -27,10 +27,12 @@ const genericFragments = [
   'jest istotny dla praktyki psychologicznej, poniewa',
   'W tym artykule kluczowe pojecia są rozumiane w sposob operacyjny',
   'Mechanizmy omawianego zjawiska najlepiej wyja',
-  'Dobrą praktyką jest rozpoczynanie pracy od jasnego celu, kryteri',
   'Czestym bł',
   'Nieoczywista perspektywa polega na przesuni',
   'Najważniejszy wniosek jest taki, że rzetelne rozumienie omawianego tematu'
+];
+const globallyForbiddenFragments = [
+  'Dobrą praktyką jest rozpoczynanie pracy od jasnego celu'
 ];
 const mojibakeFragments = ['ł›', 'ł‚', 'â€', 'ďż', 'Bz'];
 const invalidControlCharacter = /[\u0000-\u0008\u000B\u000C\u000E-\u001F\u007F]/g;
@@ -57,6 +59,10 @@ const encodingReport = { published: [], intentionalTestMaterial: [] };
 for (const file of markdownFiles(wikiRoot)) {
   const content = fs.readFileSync(file, 'utf8');
   const fileName = relative(file);
+
+  for (const fragment of globallyForbiddenFragments) {
+    if (content.includes(fragment)) genericFindings.push({ file: fileName, fragment });
+  }
 
   if (protectedArticles.has(fileName)) {
     for (const fragment of genericFragments) {

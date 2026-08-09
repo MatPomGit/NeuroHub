@@ -2,7 +2,7 @@
 
 ## Zakres i sposób weryfikacji
 
-Punktem odniesienia jest commit `23fc255` („Ustal zalecany wzorzec artykułu i linki kanoniczne”), po którym rozpoczęto właściwe scalanie. Listę utworzono z celów przekierowań dodanych lub zmienionych w zakresie `23fc255..HEAD`, a następnie uzupełniono o sześć nowych opracowań, które nie mają własnego dawnego adresu. Pliki zawierające `redirect:` albo `layout: redirect` zostały wykluczone. Wyniki dotyczą **119 właściwych artykułów**, a nie plików technicznych, planów domen ani spisów treści.
+Punktem odniesienia jest commit `23fc255` („Ustal zalecany wzorzec artykułu i linki kanoniczne”), po którym rozpoczęto właściwe scalanie. Listę utworzono z celów przekierowań dodanych lub zmienionych w zakresie `23fc255..HEAD`, a następnie uzupełniono o opracowania, które nie mają własnego dawnego adresu. Pliki zawierające `redirect:` albo `layout: redirect` zostały wykluczone. Po kontroli sześciu ostatnich domen wykaz obejmuje **141 właściwych artykułów**, w tym 22 opracowania z najnowszej fali konsolidacji, a nie pliki techniczne, plany domen ani spisy treści.
 
 Dla każdego artykułu zastosowano ten sam zestaw oznaczony w tabeli jako **10/10**:
 
@@ -18,6 +18,8 @@ Dla każdego artykułu zastosowano ten sam zestaw oznaczony w tabeli jako **10/1
 10. rozwiązywalne odnośniki Markdown do właściwych artykułów lub ich kotwic.
 
 Kontrole strukturalne, powtórzenia akapitów, trzy wskazane frazy generyczne, cele linków i różnice historyczne sprawdzono programowo. Zakres, tok wywodu, swoistość argumentacji, znaczenie usuniętych treści i to, czy tekst nie jest tylko streszczeniem, oceniono przez przegląd nagłówków, treści i zmian historycznych. `10/10` oznacza brak stwierdzonej usterki po tej weryfikacji, nie ocenę jakości dowodów w skali punktowej.
+
+Dla 22 najnowszych tekstów nie przenoszono automatycznie wyniku `10/10`. Każdy plik przeczytano osobno, porównano z rodzicem właściwego commitu scalającego i poddano siedmiu kontrolom: **P** (jedno główne pytanie), **U** (zachowanie unikalnej treści), **D** (brak powtórzonych definicji), **W** (jedno funkcjonalne podsumowanie lub jedno domknięcie wywodu), **B** (jedna końcowa bibliografia), **C** (zgodność cytowań z bibliografią) oraz **L** (rozwiązywalne linki i kotwice). Wynik `7/7` poniżej jest rezultatem siedmiu odnotowanych rozstrzygnięć, a nie domyślną oceną maksymalną.
 
 ## Lista artykułów i wynik
 
@@ -344,9 +346,40 @@ domenami oraz osobne przeglądy kliniczne i terminologiczne opisuje
 |---|---|
 | `wiki/wstep_do_psychologii/historia_psychologii.md` | 10/10 |
 
+## Kontrola sześciu ostatnich domen (22)
+
+Wartość „tak” oznacza, że dana kontrola została wykonana i nie ujawniła otwartej usterki. W kolumnie U porównano nie tylko liczbę akapitów, lecz także dawne mechanizmy, rozróżnienia, ograniczenia, zastosowania i źródła. Domknięcie wywodu bez nagłówka „Wnioski” uznano za jedno podsumowanie tylko wtedy, gdy pełniło tę funkcję i nie dublowało wcześniejszej sekcji.
+
+| Domena | Artykuł kanoniczny | P | U | D | W | B | C | L | Wynik |
+|---|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| eksperyment psychologiczny | `wiki/eksperyment_psychologiczny/wprowadzenie.md` | tak | tak | tak | tak | tak | tak | tak | 7/7 |
+| eksperyment psychologiczny | `wiki/eksperyment_psychologiczny/prowadzenie_badania_i_jakosc_danych.md` | tak | tak | tak | tak | tak | tak | tak | 7/7 |
+| eksperyment psychologiczny | `wiki/eksperyment_psychologiczny/analiza_raportowanie_i_replikacja.md` | tak | tak | tak | tak | tak | tak | tak | 7/7 |
+| temperament | `wiki/temperament/modele.md` | tak | tak | tak | tak | tak | tak | tak | 7/7 |
+| temperament | `wiki/temperament/biologia_rozwoj_i_pomiar_temperamentu.md` | tak | tak | tak | tak | tak | tak | tak | 7/7 |
+| temperament | `wiki/temperament/kliniczne.md` | tak | tak | tak | tak | tak | tak | tak | 7/7 |
+| emocje | `wiki/emocje/teorie_emocji.md` | tak | tak | tak | tak | tak | tak | tak | 7/7 |
+| emocje | `wiki/emocje/regulacja.md` | tak | tak | tak | tak | tak | tak | tak | 7/7 |
+| emocje | `wiki/emocje/motywacja.md` | tak | tak | tak | tak | tak | tak | tak | 7/7 |
+| emocje | `wiki/emocje/wspolczucie.md` | tak | tak | tak | tak | tak | tak | tak | 7/7 |
+| psychosomatyka | `wiki/psychosomatyka/wprowadzenie.md` | tak | tak | tak | tak | tak | tak | tak | 7/7 |
+| psychosomatyka | `wiki/psychosomatyka/somatyzacja.md` | tak | tak | tak | tak | tak | tak | tak | 7/7 |
+| psychosomatyka | `wiki/psychosomatyka/psychologiczne_aspekty_chorob_somatycznych.md` | tak | tak | tak | tak | tak | tak | tak | 7/7 |
+| psychosomatyka | `wiki/psychosomatyka/terapia_psychosomatyczna.md` | tak | tak | tak | tak | tak | tak | tak | 7/7 |
+| psychologia rozwojowa | `wiki/psychologia_rozwojowa/teorie_rozwoju.md` | tak | tak | tak | tak | tak | tak | tak | 7/7 |
+| psychologia rozwojowa | `wiki/psychologia_rozwojowa/niemowlectwo.md` | tak | tak | tak | tak | tak | tak | tak | 7/7 |
+| psychologia rozwojowa | `wiki/psychologia_rozwojowa/adolescencja.md` | tak | tak | tak | tak | tak | tak | tak | 7/7 |
+| psychologia rozwojowa | `wiki/psychologia_rozwojowa/doroslosc.md` | tak | tak | tak | tak | tak | tak | tak | 7/7 |
+| uzależnienia | `wiki/uzaleznienia/mechanizmy_i_diagnoza_uzaleznien.md` | tak | tak | tak | tak | tak | tak | tak | 7/7 |
+| uzależnienia | `wiki/uzaleznienia/uzaleznienia_behawioralne.md` | tak | tak | tak | tak | tak | tak | tak | 7/7 |
+| uzależnienia | `wiki/uzaleznienia/recovery.md` | tak | tak | tak | tak | tak | tak | tak | 7/7 |
+| uzależnienia | `wiki/uzaleznienia/uzaleznienie_w_rodzinie_i_u_mlodziezy.md` | tak | tak | tak | tak | tak | tak | tak | 7/7 |
+
+Kontrola historyczna objęła odpowiednio commity `70b76cc`, `4b2f034`, `3b4a149`, `bf4c304`, `5a08a75` i `1e72d71`. Usunięte fragmenty okazały się przekierowaniami, powtórzeniami albo treścią włączoną do jednego z celów; nie znaleziono unikalnego, udokumentowanego twierdzenia pozostawionego wyłącznie w dawnym pliku. Zastrzeżenia merytoryczne ujawnione w próbie źródłowej, choć nie obniżyły wyników strukturalnych, opisano w [`layered-content-verification.md`](layered-content-verification.md).
+
 ## Kontrola treści generycznych
 
-W żadnym z 119 artykułów nie pozostały zdania „W praktyce oznacza to potrzebę łączenia poziomu teorii…” ani „Dobrą praktyką jest rozpoczynanie pracy od jasnego celu…”. Nagłówek lub zwrot „Perspektywa nieoczywista” uznano za dopuszczalny wyłącznie wtedy, gdy następujący wywód dotyczy konkretnego sporu, mechanizmu albo ograniczenia dowodów. Podczas audytu usunięto generyczne „perspektywy” z artykułów o kodeksach etycznych, modelach suicydologicznych i historii psychosomatyki. Zastąpiono je swoistym omówieniem odpowiednio: konfliktów norm, granic predykcji ryzyka oraz przejścia od jednoprzyczynowych hipotez do modeli wielopoziomowych.
+W żadnym ze 141 artykułów nie pozostały zdania „W praktyce oznacza to potrzebę łączenia poziomu teorii…” ani „Dobrą praktyką jest rozpoczynanie pracy od jasnego celu…”. Nagłówek lub zwrot „Perspektywa nieoczywista” uznano za dopuszczalny wyłącznie wtedy, gdy następujący wywód dotyczy konkretnego sporu, mechanizmu albo ograniczenia dowodów. Podczas audytu usunięto generyczne „perspektywy” z artykułów o kodeksach etycznych, modelach suicydologicznych i historii psychosomatyki. Zastąpiono je swoistym omówieniem odpowiednio: konfliktów norm, granic predykcji ryzyka oraz przejścia od jednoprzyczynowych hipotez do modeli wielopoziomowych.
 
 ## Porównanie z wersją sprzed konsolidacji
 
@@ -368,4 +401,4 @@ Nie stwierdzono usuniętej informacji unikalnej, która nadal wymagałaby przywr
 
 ## Zamknięcie merytoryczne etapu
 
-Warstwową weryfikację 18 artykułów i 90 losowo wybranych twierdzeń, w tym kontrolę istnienia oraz adekwatności publikacji, opisano w raporcie [`layered-content-verification.md`](layered-content-verification.md). Po poprawieniu wykrytej niezgodności bibliograficznej próba nie zawiera otwartych błędów kategorii C ani D. Dotychczasowy etap konsolidacji jest zamknięty merytorycznie w zakresie tej bramki jakościowej; decyzja nie rozszerza ocen źródłowych na 101 artykułów spoza próby.
+Warstwową weryfikację 30 artykułów i 150 wybranych twierdzeń, w tym kontrolę istnienia oraz adekwatności publikacji, opisano w raporcie [`layered-content-verification.md`](layered-content-verification.md). Po poprawieniu wykrytej niezgodności bibliograficznej próba nie zawiera otwartych błędów kategorii C ani D. Dotychczasowy etap konsolidacji jest zamknięty merytorycznie w zakresie tej bramki jakościowej; decyzja nie rozszerza ocen źródłowych na 111 artykułów spoza próby.

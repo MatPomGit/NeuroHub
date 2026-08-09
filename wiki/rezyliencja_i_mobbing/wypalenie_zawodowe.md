@@ -1,79 +1,117 @@
 ---
-lastReviewed: 2026-07-29
-reviewCycleMonths: 18
-evidenceCutoffDate: 2026-07-29
+lastReviewed: 2026-08-09
+reviewCycleMonths: 24
+evidenceCutoffDate: 2025-12-31
+content_type: article
 aliases:
-  - burnout
-  - wypalenie
+  - Burnout
+  - Wypalenie w pracy
 ---
 
 # Wypalenie zawodowe
 
-Wypalenie zawodowe jest zespołem związanym z przewlekłym stresem w pracy, z którym nie udało się skutecznie poradzić. ICD-11 ujmuje je jako zjawisko zawodowe, a nie chorobę. To rozróżnienie ma znaczenie: opis wypalenia może pomóc rozpoznać problem, lecz nie zastępuje diagnozy medycznej ani psychologicznej.
+## Najważniejsze informacje
 
-## Trzy wymiary
+Wypalenie zawodowe jest zjawiskiem związanym z **kontekstem pracy**, a nie ogólną nazwą zmęczenia po intensywnym tygodniu. W ICD-11 Światowa Organizacja Zdrowia opisuje je jako zjawisko zawodowe wynikające z przewlekłego stresu w pracy, którym nie udało się skutecznie zarządzić. Obejmuje wyczerpanie, zwiększony dystans psychiczny lub cynizm wobec pracy oraz obniżone poczucie skuteczności zawodowej. WHO zastrzega, że pojęcie odnosi się do pracy i nie powinno opisywać doświadczeń z innych dziedzin życia.
 
-Definicja Światowej Organizacji Zdrowia obejmuje:
+Wypalenie nie jest w ICD-11 chorobą ani samodzielnym rozpoznaniem psychiatrycznym. Może jednak współwystępować z depresją, zaburzeniami lękowymi, bezsennością i chorobami somatycznymi. Utrzymujące się objawy wymagają profesjonalnej oceny, a nie diagnozy na podstawie internetowego testu.
 
-1. wyczerpanie lub poczucie utraty energii;
-2. zwiększony dystans psychiczny wobec pracy, negatywizm albo cynizm;
-3. obniżoną skuteczność zawodową.
+## Wymiary, nie obowiązkowe fazy
 
-Wypalenie odnosi się wyłącznie do kontekstu pracy. Określenia „wypalenie rodzicielskie” i „wypalenie szkolne” funkcjonują w badaniach jako odrębne konstrukty, ale nie mieszczą się w definicji zawodowej ICD-11.
+Klasyczny model Maslach obejmuje trzy powiązane wymiary:
+
+1. **wyczerpanie**, czyli utratę energii emocjonalnej i fizycznej;
+2. **cynizm lub depersonalizację**, czyli obronne dystansowanie się od pracy, odbiorców usług albo współpracowników;
+3. **obniżone poczucie skuteczności zawodowej**.
+
+Wyniki w tych wymiarach nie muszą zmieniać się równocześnie. Inne narzędzia inaczej wyznaczają konstrukt: Oldenburg Burnout Inventory mierzy wyczerpanie i wycofanie, a Copenhagen Burnout Inventory rozróżnia wyczerpanie osobiste, związane z pracą i związane z odbiorcami usług. Wynik zależy od przyjętej definicji i norm; kwestionariusz badawczy nie jest samodzielnym testem diagnostycznym.
+
+Popularne opisy etapów, takie jak entuzjazm, stagnacja, frustracja i apatia, mogą pomagać rozmawiać o zmianie w czasie. Nie zostały jednak potwierdzone jako jedna obowiązkowa sekwencja. Osoba nie musi przejść wszystkich „faz” ani w podanej kolejności. Lepszym podejściem jest śledzenie wymiarów, warunków pracy i funkcjonowania w kolejnych pomiarach.
 
 ## Modele wyjaśniające
 
-Historycznie Herbert Freudenberger opisywał wyczerpanie u silnie zaangażowanych pracowników i wolontariuszy. Christina Maslach i współpracownicy rozwinęli model obejmujący wyczerpanie, depersonalizację lub cynizm oraz poczucie skuteczności.
+### Obszary dopasowania człowieka i pracy
 
-Współczesne modele przesuwają uwagę z samej podatności jednostki na relację między wymaganiami a zasobami pracy. Do wymagań należą między innymi przeciążenie, presja czasu, konflikt ról, ekspozycja na cierpienie i brak przewidywalności. Zasoby to na przykład autonomia, sprawiedliwe traktowanie, wsparcie przełożonych, adekwatna obsada, możliwość regeneracji i wpływ na sposób wykonywania zadań.
+Maslach i Leiter wskazują sześć obszarów, w których trwałe niedopasowanie zwiększa ryzyko wypalenia:
 
-Wysokie wymagania nie prowadzą automatycznie do wypalenia. Ryzyko rośnie, gdy obciążenie jest przewlekłe, zasoby niewystarczające, a osoba ma małą możliwość zmiany warunków.
+- **obciążenie pracą**, gdy wymagania stale przekraczają czas i możliwości regeneracji;
+- **kontrola**, czyli realny wpływ na sposób i tempo wykonywania zadań;
+- **nagrody**, materialne i społeczne uznanie wysiłku;
+- **wspólnota**, a więc wsparcie, zaufanie i sposób rozwiązywania konfliktów;
+- **sprawiedliwość**, obejmująca przejrzyste decyzje, procedury i brak faworyzowania;
+- **wartości**, czyli zgodność między sensem pracy a praktykami organizacji.
 
-## Objawy i konsekwencje
+Model przesuwa pytanie z „co jest nie tak z pracownikiem?” na „jak wygląda relacja osoby z pracą?”. Nie neguje różnic indywidualnych, ale pokazuje punkty, które organizacja może zmienić.
 
-Wyczerpanie może obejmować brak energii przed pracą, trudność z regeneracją i narastające unikanie obowiązków. Dystans może przejawiać się zobojętnieniem, cynicznym językiem lub traktowaniem odbiorców pracy jak problemów. Obniżona skuteczność dotyczy poczucia, że wysiłek nie przynosi rezultatów.
+### Model wymagań i zasobów pracy
 
-Takie objawy mogą wpływać na absencję, rotację, relacje w zespole i bezpieczeństwo wykonywania pracy. Nie są jednak specyficzne wyłącznie dla wypalenia.
+W modelu JD-R wymagania to aspekty pracy wymagające stałego wysiłku, na przykład presja czasu, liczba spraw, konflikt ról, ekspozycja na cierpienie i agresję. Zasoby pomagają realizować cele, ograniczać koszty wymagań i rozwijać się: autonomia, odpowiednia obsada, wsparcie przełożonego, informacja zwrotna, sprawiedliwe procedury, narzędzia i bezpieczeństwo zatrudnienia.
 
-## Różnicowanie
+Nadmierne wymagania sprzyjają procesowi erozji zdrowia, natomiast zasoby wspierają motywację i zaangażowanie. Zasób na jednym poziomie nie zawsze kompensuje brak innego: życzliwy zespół nie naprawi niebezpiecznego grafiku, a autonomia nie zastąpi sprzętu i personelu.
 
-Wypalenie i depresja częściowo się nakładają, zwłaszcza w zakresie wyczerpania, obniżonego nastroju i poczucia nieskuteczności. Proste przeciwstawienie, według którego wypalenie dotyczy tylko pracy, a depresja wszystkich sfer życia, jest zbyt schematyczne. Objawy mogą się rozszerzać poza pracę, a oba problemy mogą współwystępować.
+### Teoria zachowania zasobów
 
-Ocena powinna uwzględniać także zaburzenia lękowe, zaburzenia snu, używanie substancji, choroby somatyczne, działania niepożądane leków oraz inne źródła przewlekłego zmęczenia. Utrata zainteresowań w wielu dziedzinach, myśli samobójcze lub wyraźne pogorszenie podstawowego funkcjonowania wymagają pilnej profesjonalnej oceny.
+Teoria COR opisuje stres jako skutek zagrożenia utratą zasobów, ich rzeczywistej utraty lub braku zwrotu po dużej inwestycji. Kolejne straty mogą tworzyć spiralę: wyczerpanie utrudnia regenerację i korzystanie ze wsparcia, co zwiększa podatność na następne straty. Wyjaśnia to, dlaczego samo szkolenie z radzenia sobie nie wystarcza, jeśli praca nadal zużywa zasoby szybciej, niż można je odtworzyć.
 
-## Pomiar
+## Wypalenie a podobne stany
 
-Kwestionariusze takie jak Maslach Burnout Inventory, Oldenburg Burnout Inventory i Copenhagen Burnout Inventory służą głównie badaniom oraz ocenie nasilenia wymiarów. Różnią się modelem teoretycznym i zakresem. Wynik nie powinien być traktowany jako samodzielna diagnoza.
+- **Zwykłe zmęczenie** zwykle słabnie po odpoczynku i nie musi obejmować cynizmu ani utraty skuteczności.
+- **Depresja** dotyczy wielu dziedzin życia i obejmuje określony zespół objawów klinicznych. Wypalenie i depresja są powiązane, lecz nie są pojęciami tożsamymi.
+- **Stres zawodowy** jest szerszy; może być krótkotrwały i nie prowadzić do wypalenia.
+- **Wtórny stres traumatyczny** wiąże się z pośrednią ekspozycją na traumę innych i ma profil pourazowy. Może współwystępować z wypaleniem w zawodach pomocowych.
+- **Mobbing** opisuje wzorzec negatywnych zachowań interpersonalnych, a nie stan pracownika; może być źródłem przewlekłego stresu i objawów.
 
-Porównywanie częstości wypalenia między badaniami jest trudne, ponieważ stosuje się odmienne narzędzia, progi i grupy zawodowe. Pojedynczy procent bez informacji o metodzie może wprowadzać w błąd.
+Nagłe pogorszenie, ból w klatce piersiowej, znaczna bezsenność, myśli samobójcze lub utrata zdolności do codziennego funkcjonowania wymagają pilnej oceny medycznej. Nie należy przypisywać ich automatycznie wypaleniu.
 
-## Profilaktyka i interwencja
+## Te same mechanizmy w różnych zawodach
 
-Ponieważ źródła problemu często leżą w organizacji pracy, odpowiedzialności nie należy przenosić wyłącznie na pracownika. Działania organizacyjne mogą obejmować:
+Zawód nie jest profilem psychicznym. Ryzyko wynika z konfiguracji pracy, która może wyglądać inaczej nawet na dwóch stanowiskach o tej samej nazwie.
 
-- dostosowanie obciążenia i obsady;
-- zwiększenie wpływu na sposób wykonywania pracy;
-- jasne role, procedury i priorytety;
-- ograniczenie zbędnych obowiązków administracyjnych;
-- sprawiedliwe zasady, kulturę szacunku i dostęp do wsparcia;
-- realną możliwość odpoczynku oraz bezpieczne zgłaszanie przeciążenia.
+| Środowisko pracy | Typowe wymagania | Zasoby szczególnie istotne |
+|---|---|---|
+| Ochrona zdrowia i ratownictwo | dyżury, odpowiedzialność za życie, cierpienie, niedobory kadrowe | bezpieczna obsada, odpoczynek, sprawne narzędzia, wsparcie zespołu i superwizja |
+| Edukacja | praca emocjonalna, duże grupy, konflikt oczekiwań, dokumentacja | wpływ na metody pracy, wsparcie dyrekcji, czas na przygotowanie, jasne procedury wobec agresji |
+| Pomoc społeczna i psychoterapia | duża liczba spraw, ekspozycja na traumę, odpowiedzialność relacyjna | limity obciążenia, regularna superwizja, różnorodność zadań, bezpieczeństwo |
+| Służby mundurowe | zagrożenie, zdarzenia traumatyczne, zmianowość, kultura niewyrażania trudności | odpoczynek po zdarzeniach, poufna pomoc, kompetentne dowództwo, wsparcie koleżeńskie |
+| Praca biurowa, usługowa i cyfrowa | presja wyników, stała dostępność, monitoring, niejasne priorytety | kontrola nad harmonogramem, prawo do odłączenia, przewidywalne cele, sprawiedliwa ocena |
 
-Działania indywidualne, takie jak odpoczynek, praca nad granicami, psychoterapia, trening umiejętności radzenia sobie czy wsparcie społeczne, mogą zmniejszać cierpienie i pomagać odzyskać sprawczość. Nie skompensują jednak trwale niebezpiecznych lub nadmiernych warunków pracy.
+Porównanie pokazuje, że nie „empatyczna osobowość pielęgniarki” ani „brak powołania nauczyciela” stanowią podstawowe wyjaśnienie. Istotne są intensywność i czas wymagań oraz możliwość korzystania z zasobów.
 
-Najlepszy plan odpowiada na zidentyfikowane przyczyny. Może wymagać czasowego ograniczenia obowiązków, konsultacji medycznej, wsparcia psychologicznego, zmian w zespole albo interwencji dotyczącej całej organizacji.
+## Profilaktyka: najpierw projekt pracy
 
-## Powrót do pracy
+### Działania organizacyjne
 
-Powrót po okresie nasilonych trudności powinien uwzględniać aktualny stan zdrowia i czynniki, które doprowadziły do przeciążenia. Sam urlop może przynieść przejściową ulgę, ale bez zmiany warunków problem może powrócić. Pomocne bywają stopniowe zwiększanie obciążenia, jasno ustalone priorytety, ograniczenie nadgodzin i regularna ocena planu z pracownikiem.
+Organizacja powinna:
 
-## Podsumowanie
+1. mierzyć wymagania i zasoby anonimowo oraz reagować na wyniki;
+2. ustalać realistyczne obciążenie, obsadę, czas pracy i przerwy;
+3. zwiększać wpływ pracowników na harmonogram i metody pracy;
+4. jasno określać role, priorytety oraz kryteria oceny;
+5. zapewniać sprawiedliwe wynagrodzenie, uznanie i procedury decyzji;
+6. szkolić przełożonych, przeciwdziałać przemocy i chronić osoby zgłaszające problemy;
+7. zapewniać poufne wsparcie, superwizję tam, gdzie jest potrzebna, i monitorować skutki zmian.
 
-Wypalenie zawodowe opisuje związek przewlekłego stresu w pracy z wyczerpaniem, dystansem i obniżoną skutecznością. Nie jest w ICD-11 chorobą ani prostym synonimem depresji. Rzetelna pomoc wymaga oceny stanu osoby oraz warunków pracy, a profilaktyka powinna łączyć działania organizacyjne z dobrowolnym wsparciem indywidualnym.
+Interwencje organizacyjne nie oznaczają jedynie oferowania aplikacji do medytacji. Mogą wymagać zmniejszenia liczby spraw, zatrudnienia personelu, zmiany grafiku, ograniczenia zbędnej dokumentacji lub przebudowy systemu celów. W metaanalizie interwencji wśród lekarzy zarówno działania indywidualne, jak i organizacyjne przynosiły niewielkie redukcje wypalenia, przy czym podejścia organizacyjne są niezbędne do zmiany źródeł ryzyka.
+
+### Wsparcie indywidualne
+
+Sen, aktywność fizyczna, odpoczynek, granice dostępności, techniki relaksacyjne, uważność, wsparcie bliskich i psychoterapia mogą wspomagać regenerację. Powinny być dobrowolne, dostępne również w czasie pracy i traktowane jako uzupełnienie, nie dowód odpowiedzialności pracownika za wadliwe warunki.
+
+Pracownik może zapisywać wzorce obciążenia, zgłosić potrzebę korekty zadań, skonsultować zdrowie z lekarzem i skorzystać ze związku zawodowego lub służby BHP. Jego możliwość negocjacji zależy jednak od pozycji i bezpieczeństwa zatrudnienia. Zalecenie „postaw granice” jest niewystarczające, gdy organizacja karze za ich stawianie.
+
+## Ocena i pomoc
+
+Rozmowa kliniczna powinna uwzględniać czas trwania objawów, ich związek z pracą i obecność w innych dziedzinach, sen, zdrowie fizyczne, leki, substancje oraz ryzyko samobójcze. Potrzebne może być czasowe ograniczenie obciążenia, leczenie współwystępującego zaburzenia lub zmiana warunków pracy. Powrót do tego samego niezmienionego środowiska może odtworzyć problem.
+
+## Wnioski
+
+Wypalenie jest wielowymiarowym zjawiskiem zawodowym, nie etykietą dla każdego wyczerpania ani liniową drogą przez obowiązkowe fazy. Najbardziej użyteczne modele łączą wymagania, kontrolę, sprawiedliwość, wspólnotę i zasoby. Profilaktyka zaczyna się od projektu i organizacji pracy; dbanie o siebie może ją wspierać, ale nie może jej zastąpić.
 
 ## Bibliografia
 
-1. Bakker, A. B., & Demerouti, E. (2017). Job demands-resources theory: Taking stock and looking forward. *Journal of Occupational Health Psychology, 22*(3), 273–285. https://doi.org/10.1037/ocp0000056
-2. Koutsimani, P., Montgomery, A., & Georganta, K. (2019). The relationship between burnout, depression, and anxiety: A systematic review and meta-analysis. *Frontiers in Psychology, 10*, 284. https://doi.org/10.3389/fpsyg.2019.00284
-3. Maslach, C., & Leiter, M. P. (2016). Understanding the burnout experience: Recent research and its implications for psychiatry. *World Psychiatry, 15*(2), 103–111. https://doi.org/10.1002/wps.20311
-4. Panagioti, M. i in. (2017). Controlled interventions to reduce burnout in physicians: A systematic review and meta-analysis. *JAMA Internal Medicine, 177*(2), 195–205. https://doi.org/10.1001/jamainternmed.2016.7674
-5. World Health Organization. (2019). *Burn-out an occupational phenomenon: International Classification of Diseases*. https://www.who.int/news/item/28-05-2019-burn-out-an-occupational-phenomenon-international-classification-of-diseases
+- Bakker, A. B., & Demerouti, E. (2017). Job demands–resources theory: Taking stock and looking forward. *Journal of Occupational Health Psychology, 22*(3), 273–285. [https://doi.org/10.1037/ocp0000056](https://doi.org/10.1037/ocp0000056)
+- Hobfoll, S. E. (1989). Conservation of resources: A new attempt at conceptualizing stress. *American Psychologist, 44*(3), 513–524. [https://doi.org/10.1037/0003-066X.44.3.513](https://doi.org/10.1037/0003-066X.44.3.513)
+- Koutsimani, P., Montgomery, A., & Georganta, K. (2019). The relationship between burnout, depression, and anxiety: A systematic review and meta-analysis. *Frontiers in Psychology, 10*, 284. [https://doi.org/10.3389/fpsyg.2019.00284](https://doi.org/10.3389/fpsyg.2019.00284)
+- Maslach, C., & Leiter, M. P. (2016). Understanding the burnout experience: Recent research and its implications for psychiatry. *World Psychiatry, 15*(2), 103–111. [https://doi.org/10.1002/wps.20311](https://doi.org/10.1002/wps.20311)
+- Panagioti, M., Panagopoulou, E., Bower, P., Lewith, G., Kontopantelis, E., Chew-Graham, C., Dawson, S., van Marwijk, H., Geraghty, K., & Esmail, A. (2017). Controlled interventions to reduce burnout in physicians: A systematic review and meta-analysis. *JAMA Internal Medicine, 177*(2), 195–205. [https://doi.org/10.1001/jamainternmed.2016.7674](https://doi.org/10.1001/jamainternmed.2016.7674)
+- World Health Organization. (2019, 28 maja). *Burn-out an “occupational phenomenon”: International Classification of Diseases*. [https://www.who.int/news/item/28-05-2019-burn-out-an-occupational-phenomenon-international-classification-of-diseases](https://www.who.int/news/item/28-05-2019-burn-out-an-occupational-phenomenon-international-classification-of-diseases)

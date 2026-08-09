@@ -1,148 +1,103 @@
 ---
-lastReviewed: 2026-04-01
-reviewCycleMonths: 24
-evidenceCutoffDate: 2025-12-31
+lastReviewed: 2026-08-09
+reviewCycleMonths: 12
+evidenceCutoffDate: 2026-08-09
 content_type: article
+aliases:
+  - Mobbing w pracy
+  - Przemoc psychiczna w pracy
 ---
 
-# Mobbing - definicja, rodzaje i fazy
+# Mobbing i przemoc psychiczna w pracy
 
-## Definicja mobbingu według Leymanna
+## Najważniejsze informacje
 
-Pojęcie **mobbingu** w kontekście miejsca pracy zostało wprowadzone przez szwedzkiego psychologa i lekarza **Heinza Leymanna** na początku lat 80. XX wieku. Leymann definiuje mobbing jako:
+Mobbing to nie etykieta dla każdej trudnej relacji zawodowej. W badaniach oznacza najczęściej powtarzalną ekspozycję na negatywne zachowania w pracy, trwającą przez pewien czas, wobec których osoba ma coraz mniejszą możliwość obrony. Polska definicja prawna ma odrębne przesłanki i służy rozstrzyganiu roszczeń. Ocena psychologiczna, postępowanie wewnętrzne i ocena sądu odpowiadają więc na różne pytania.
 
-> „Wrogie i nieetyczne zachowania komunikacyjne, systematycznie kierowane przez jedną lub kilka osób przeciwko innej osobie, utrzymujące się przez dłuższy czas i powodujące, że ofiara jest zepchnięta do pozycji bezsilności i pozbawiona możliwości obrony."
+Pojedynczy akt przemocy, molestowania lub dyskryminacji może wymagać natychmiastowej reakcji, nawet jeżeli nie spełnia przesłanek mobbingu. Pomoc psychologiczna może leczyć skutki i wspierać decyzje osoby pokrzywdzonej, ale nie zastępuje zatrzymania zachowań, bezstronnego wyjaśnienia sprawy i naprawy warunków pracy.
 
-Kluczowe elementy tej definicji to:
+## Konstrukt badawczy a definicja prawna
 
-- **systematyczność** - zachowania powtarzają się regularnie, nie są incydentalne
-- **długość trwania** - Leymann wskazywał na minimum 6 miesięcy, z częstotliwością co najmniej raz w tygodniu
-- **zamierzony cel** - działania mają na celu wyrządzenie szkody, wykluczenie lub zmusenie do odejścia
-- **asymetria sił** - ofiara jest w pozycji słabszej, niezdolna do skutecznej obrony
+### Mobbing w badaniach
 
-> **Fakt:** Leymann zidentyfikował 45 odrębnych zachowań mobbingowych, które sklasyfikował w pięciu kategoriach: oddziaływanie na możliwości komunikowania się, na stosunki społeczne, na postrzeganie społeczne, na jakość życia i sytuację zawodową oraz ataki na zdrowie ofiary.
+W literaturze używa się także określeń *workplace bullying* i *harassment*. Rdzeń konstruktu tworzą: powtarzalność negatywnych zachowań, ich utrzymywanie się w czasie oraz nierównowaga sił narastająca tak, że cel zachowań nie może łatwo się obronić. Zachowania mogą dotyczyć pracy, na przykład odbierania informacji lub zadań, albo osoby, na przykład ośmieszania, izolowania i rozpowszechniania plotek.
 
-## Polska definicja prawna
+Progi „raz w tygodniu przez sześć miesięcy”, wywodzące się z operacjonalizacji Leymanna, są użyteczną regułą badawczą, nie uniwersalnym testem klinicznym ani ustawowym. Współczesne pomiary badają częstotliwość i czas ekspozycji, czasem także samoidentyfikację. Zamiar sprawcy nie należy do koniecznego rdzenia większości definicji badawczych; ważne są wzorzec, kontekst i możliwość obrony.
 
-W polskim prawie pracy mobbing został zdefiniowany w art. 94³ § 2 Kodeksu pracy, obowiązującym od 2004 roku:
+### Mobbing w Kodeksie pracy
 
-„Mobbing oznacza działania lub zachowania dotyczące pracownika lub skierowane przeciwko pracownikowi, polegające na uporczywym i długotrwałym nękaniu lub zastraszaniu pracownika, wywołujące u niego zaniżoną ocenę przydatności zawodowej, powodujące lub mające na celu poniżenie lub ośmieszenie pracownika, izolowanie go lub wyeliminowanie z zespołu współpracowników."
+Według art. 94³ § 2 polskiego Kodeksu pracy mobbing oznacza działania lub zachowania dotyczące pracownika albo skierowane przeciwko pracownikowi, które polegają na uporczywym i długotrwałym nękaniu lub zastraszaniu oraz wywołują zaniżoną ocenę przydatności zawodowej, powodują albo mają na celu poniżenie lub ośmieszenie, izolowanie lub wyeliminowanie z zespołu. Ustawa nie ustanawia minimalnej liczby miesięcy ani częstotliwości; „uporczywość” i „długotrwałość” ocenia się w okolicznościach sprawy.
 
-Polska definicja, zbieżna z Leymannem, wymaga spełnienia wszystkich poniższych przesłanek:
+Stan prawny zweryfikowano 9 sierpnia 2026 r. na podstawie aktualnego tekstu Kodeksu pracy. Art. 94³ nakłada na pracodawcę obowiązek przeciwdziałania mobbingowi. Rozstrój zdrowia wywołany mobbingiem może uzasadniać odpowiednią sumę zadośćuczynienia (§ 3). Pracownik, który doznał mobbingu lub wskutek niego rozwiązał umowę, może dochodzić od pracodawcy odszkodowania nie niższego niż minimalne wynagrodzenie (§ 4); przy rozwiązaniu umowy przyczyna powinna zostać wskazana na piśmie (§ 5). To skrót informacyjny, nie indywidualna porada prawna. Aktualne brzmienie należy sprawdzić w [Internetowym Systemie Aktów Prawnych](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19740240141).
 
-1. zachowania mają charakter nękania lub zastraszania
-2. są uporczywe i długotrwałe
-3. wywołują określony skutek lub mają taki cel (zaniżona samoocena zawodowa, poniżenie, izolacja, eliminacja)
+Nie każde naruszenie prawa pracy jest mobbingiem, a niespełnienie jego kumulatywnych przesłanek nie legalizuje zachowania. Mogą mieć zastosowanie przepisy o równym traktowaniu, molestowaniu, dobrach osobistych, bezpieczeństwie pracy lub odpowiedzialności karnej.
 
-Pracownik, który wykazał te przesłanki, może dochodzić od pracodawcy odszkodowania lub zadośćuczynienia. Pracodawca ponosi odpowiedzialność nawet jeśli mobbingu dokonywał inny pracownik - o ile pracodawca o tym wiedział lub przy dochowaniu staranności powinien był wiedzieć.
+## Granice pojęć
 
-## Rodzaje mobbingu
+| Zjawisko | Co je wyróżnia | Relacja do mobbingu |
+|---|---|---|
+| **Konflikt** | Strony mają sprzeczne cele lub interesy i zwykle zachowują możliwość przedstawienia stanowiska. | Nierozwiązany konflikt może eskalować, ale sama różnica zdań, krytyka lub spór nie jest mobbingiem. |
+| **Nieuprzejmość** | Zachowanie o małej intensywności i często niejednoznacznej intencji, np. ostentacyjne ignorowanie powitania. | Powtarzalna nieuprzejmość może być elementem wzorca, lecz pojedynczy incydent zwykle nie wystarcza do nazwania mobbingu. |
+| **Dyskryminacja** | Niekorzystne traktowanie wiąże się z cechą prawnie chronioną lub inną zakazaną podstawą; prawo rozróżnia dyskryminację bezpośrednią i pośrednią. | Może być jednorazowa i nie wymaga długotrwałości. Ten sam ciąg zachowań może spełniać przesłanki obu zjawisk. |
+| **Molestowanie** | W prawie pracy jest niepożądanym zachowaniem związanym z chronioną podstawą, którego celem lub skutkiem jest naruszenie godności i stworzenie zastraszającej, wrogiej, poniżającej, upokarzającej lub uwłaczającej atmosfery. Molestowanie seksualne ma charakter seksualny lub odnosi się do płci. | Nie wymaga wielomiesięcznego wzorca. Nie należy czekać na powtarzalność przed reakcją. |
+| **Przemoc psychiczna** | Szeroka kategoria zachowań kontrolujących, grożących, poniżających, izolujących lub podważających postrzeganie rzeczywistości i sprawstwo. Może wystąpić w pracy, rodzinie i innych relacjach. | Mobbing jest węższym konstruktem dotyczącym pracy; nie każda przemoc psychiczna jest mobbingiem i odwrotnie. |
 
-### Mobbing pionowy (wertykalny)
+Prawidłowe zarządzanie obejmuje jasne wymagania, proporcjonalną kontrolę i rzeczową informację zwrotną. Staje się problematyczne, gdy krytyka jest poniżająca, selektywna, pozbawiona podstaw, połączona z izolacją albo używana systematycznie do podważania pozycji pracownika. O kwalifikacji nie decyduje wyłącznie nazwa nadana przez którąkolwiek stronę.
 
-**Mobbing zstępujący** (*top-down mobbing*) - najczęstsza forma; sprawcą jest przełożony, ofiarą podwładny. Przełożony może stosować mobbing w sposób bezpośredni (sam nęka pracownika) lub pośredni (inicjuje nękanie i toleruje je przez innych).
+## Skutki i ich ocena
 
-**Mobbing wstępujący** (*bottom-up mobbing*) - rzadziej opisywana, ale realnie istniejąca forma, w której podwładni lub współpracownicy stosują nękanie wobec przełożonego. Może być odpowiedzią na nieakceptowany styl zarządzania lub reakcją na zmiany organizacyjne.
+Ekspozycja na mobbing wiąże się w badaniach podłużnych i metaanalizach z większym ryzykiem objawów depresyjnych, lęku, problemów ze snem, dolegliwości somatycznych, absencji i zamiaru odejścia. Zależność może działać w obie strony w części badań, jednak nie unieważnia to szkodliwości ekspozycji. Reakcje różnią się między osobami; brak diagnozy psychiatrycznej nie dowodzi braku krzywdy.
 
-### Mobbing poziomy (horyzontalny)
+Ocena kliniczna powinna obejmować bezpieczeństwo, sen, nastrój, lęk, używanie substancji, ryzyko samobójcze i funkcjonowanie. Objawy nie rozstrzygają automatycznie, czy prawna definicja mobbingu została spełniona. Psycholog opisuje zdrowie i kontekst w granicach swoich kompetencji, a kwalifikacji prawnej dokonuje właściwy organ lub sąd.
 
-**Mobbing horyzontalny** - nękanie między osobami na tym samym szczeblu hierarchii. Często jest motywowany rywalizacją, zazdrością o sukcesy zawodowe lub dążeniem do wykluczenia osoby, która jest postrzegana jako odmieniec lub zagrożenie dla grupowych norm.
+## Dokumentowanie bez narażania bezpieczeństwa
 
-> **Fakt:** Badania Eurofound (2015) wskazują, że ok. 5% pracowników w UE doświadczyło mobbingu w ciągu poprzednich 12 miesięcy. W Polsce dane różnią się w zależności od przyjętej metodologii - szacunki wahają się od 5% do nawet 17% zatrudnionych.
+Dokumentacja pomaga odtworzyć wzorzec, lecz obowiązek wyjaśnienia sprawy nie powinien być przerzucany wyłącznie na zgłaszającego. Rozsądne działania to:
 
-### Cybermobbing
+1. prowadzenie chronologicznej notatki: data, miejsce, osoby, możliwie dokładny opis i skutek;
+2. zachowanie zgodnie z prawem wiadomości, poleceń, ocen, grafików i zmian zakresu obowiązków;
+3. zapisanie świadków oraz wcześniejszych prób zgłoszenia;
+4. przechowywanie dokumentów medycznych dotyczących skutków zdrowotnych;
+5. poznanie regulaminu, procedury antymobbingowej, zasad ochrony danych i tajemnicy przedsiębiorstwa;
+6. konsultacja ze związkiem zawodowym, społecznym inspektorem pracy, prawnikiem lub Państwową Inspekcją Pracy.
 
-Wraz z cyfryzacją środowisk pracy pojawił się **cybermobbing** - forma nękania przez e-mail, komunikatory, media społecznościowe lub inne narzędzia cyfrowe. Jego specyfika polega na możliwości oddziaływania poza godzinami pracy i zasięgu wykraczającym poza zamknięte środowisko zakładu pracy.
+Nie należy potajemnie pozyskiwać cudzych danych, wynosić dokumentów ani publikować oskarżeń bez konsultacji. Legalność nagrania i możliwość jego użycia zależą od okoliczności. Gdy istnieje bezpośrednie zagrożenie zdrowia lub życia, priorytetem jest bezpieczne oddalenie się i wezwanie służb, nie kompletowanie dowodów.
 
-## Fazy mobbingu według Leymanna
+## Interwencja organizacyjna
 
-Leymann opisał czterofazowy przebieg mobbingu, który stanowi dynamiczny proces eskalacji.
+Skuteczna procedura powinna być dostępna także wtedy, gdy zgłoszenie dotyczy przełożonego lub osoby z HR. Obejmuje:
 
-### Faza I - Zdarzenie krytyczne
+- kilka poufnych kanałów zgłoszenia i zakaz odwetu;
+- szybką ocenę ryzyka oraz proporcjonalne środki tymczasowe, które nie karzą osoby zgłaszającej;
+- bezstronne postępowanie prowadzone przez osoby bez konfliktu interesów;
+- możliwość wypowiedzenia się obu stron, zabezpieczenie materiału i pisemne ustalenia;
+- działania korygujące odpowiednie do ustaleń, ochronę zgłaszających i świadków;
+- kontrolę po zakończeniu sprawy oraz analizę obciążenia, stylu zarządzania i kultury zespołu.
 
-Mobbing najczęściej zaczyna się od konkretnego zdarzenia - konfliktu, rywalizacji, odmowy wykonania polecenia lub osobistej antypazji. Na tym etapie trudno jeszcze mówić o mobbingu; ważne jest, czy konflikt zostanie rozwiązany czy przerodzi się w systematyczne nękanie.
+Mediacja może służyć rozwiązywaniu symetrycznego konfliktu, lecz nie powinna być automatyczna ani przymusowa przy przemocy lub znacznej nierównowadze sił. Przeniesienie osoby zgłaszającej bez jej dobrowolnej, świadomej zgody może utrwalić krzywdę. Samo szkolenie albo podpisanie polityki nie wystarcza, jeśli organizacja toleruje odwet.
 
-### Faza II - Systematyczne nękanie
+## Pomoc psychologiczna i medyczna
 
-Zachowania mobbingowe zaczynają być systematyczne i powtarzalne. Ofiara jest izolowana, ośmieszana, dyskredytowana lub przeładowywana pracą. Na tym etapie ofiara często jeszcze wierzy, że sytuacja się poprawi i stara się zachowywać „poprawnie", co paradoksalnie może przedłużać stan nękania.
+Pomoc powinna być dobrowolna i niezależna od postępowania wyjaśniającego. Może obejmować:
 
-### Faza III - Włączenie kierownictwa lub administracji
+- interwencję kryzysową i plan bezpieczeństwa;
+- konsultację lekarską przy bezsenności, nasilonym lęku, depresji lub dolegliwościach somatycznych;
+- psychoterapię ukierunkowaną na objawy, odzyskanie sprawstwa, redukcję samoobwiniania i podjęcie decyzji;
+- wsparcie społeczne, prawne i zawodowe, w tym plan bezpiecznego pozostania lub odejścia z pracy.
 
-Ofiara zaczyna szukać pomocy u przełożonych, w dziale HR lub w związkach zawodowych. Niestety, na tym etapie często dochodzi do stygmatyzacji ofiary - jest ona postrzegana jako „problematyczna", „kłótliwa" lub „niezdolna do pracy w zespole". Kierownictwo może aktywnie uczestniczyć w mobbingu lub biernie go tolerować.
+Terapeuta nie powinien zakładać, że problem wynika z „niskiej odporności”, nakłaniać do konfrontacji bez oceny ryzyka ani zastępować pełnomocnika prawnego. Terapia pomaga osobie, lecz nie nakłada sankcji, nie zmienia przełożonego i nie usuwa wadliwych norm. Organizacja nadal odpowiada za prewencję, wyjaśnienie i korektę środowiska.
 
-### Faza IV - Usunięcie z miejsca pracy
+Jeśli pojawiają się myśli samobójcze, zagrożenie przemocą lub niemożność zachowania bezpieczeństwa, potrzebna jest pilna pomoc pod numerem 112 albo w najbliższej izbie przyjęć lub szpitalnym oddziale ratunkowym.
 
-Końcowy etap: ofiara jest zmuszona - przez pogorszenie zdrowia, zwolnienie dyscyplinarne lub własną rezygnację - do opuszczenia miejsca pracy. Leymann podkreślał, że na tym etapie szkody zdrowotne (często o charakterze PTSD) są już poważne i wymagają długotrwałej pomocy.
+## Wnioski
 
-## Zachowania mobbingowe - klasyfikacja Leymanna
-
-Leymann opracował **Leymann Inventory of Psychological Terror (LIPT)** - narzędzie diagnostyczne obejmujące 45 działań mobbingowych, podzielonych na pięć kategorii:
-
-**Kategoria 1 - Oddziaływanie na komunikację:**
-
-- przerywanie wypowiedzi, przekrzykiwanie
-- ciągła krytyka pracy i życia prywatnego
-- terroryzowanie przez telefon
-
-**Kategoria 2 - Oddziaływanie na relacje społeczne:**
-
-- bojkotowanie, ignorowanie
-- zakazywanie kontaktów ze współpracownikami
-- traktowanie jak niewidzialnego
-
-**Kategoria 3 - Naruszanie wizerunku społecznego:**
-
-- plotkowanie i pomówienia
-- ośmieszanie za niepełnosprawność, płeć, narodowość
-- kwestionowanie decyzji zawodowych publicznie
-
-**Kategoria 4 - Godzenie w pozycję zawodową:**
-
-- nieprzydzielanie zadań
-- przydzielanie zadań bezsensownych lub poniżej kwalifikacji
-- odbieranie kluczowych zadań bez wyjaśnienia
-
-**Kategoria 5 - Zagrożenie zdrowia fizycznego:**
-
-- zmuszanie do ciężkich fizycznie prac
-- napaści fizyczne lub zagrożenia
-- seksualne molestowanie
-
-## Przykład kliniczny
-
-Krzysztof, 42-letni inżynier w firmie produkcyjnej, przez 8 miesięcy doświadczał systematycznego mobbingu ze strony nowego przełożonego. Proces rozpoczął się od pominięcia go przy awansie (faza I), następnie przeszedł w ignorowanie na zebraniach, odbieranie kluczowych projektów i publiczne kwestionowanie jego kompetencji (faza II). Gdy Krzysztof zgłosił sytuację do HR, został uznany za „trudnego pracownika" (faza III). Ostatecznie złożył wypowiedzenie z powodów zdrowotnych - rozwinął objawy lękowe i bezsenność (faza IV). W późniejszej terapii zidentyfikowano klasyczny przebieg mobbingu pionowego zstępującego z elementami gaslightingu.
-
-
-
-Mobbing jest złożonym procesem psychospołecznym, który przebiega fazowo i eskaluje przy braku interwencji. Znajomość jego definicji, rodzajów i faz jest niezbędna zarówno dla ofiar szukających potwierdzenia swoich doświadczeń, jak i dla pracodawców, specjalistów HR oraz psychologów, którzy mają możliwość wczesnej interwencji.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Mobbing - definicja, rodzaje i fazy" polega na tym, że odporność psychiczna nie oznacza braku podatności na zranienie, lecz zdolność do odzyskiwania sprawstwa w warunkach przeciążenia i presji.
-
-Dopiero wspólna analiza zagadnień takich jak definicja mobbingu według leymanna, fazy mobbingu według leymanna oraz przykład kliniczny pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Mobbing - definicja, rodzaje i fazy" pokazuje, że najważniejsze jest łączenie profilaktyki indywidualnej z analizą środowiska pracy, procedur i kultury organizacyjnej.
-
-
-Dopiero wspólna analiza zagadnień takich jak definicja mobbingu według leymanna, fazy mobbingu według leymanna oraz przykład kliniczny pokazuje pełny zakres omawianego zjawiska.
-
-## Podstawa źródłowa
-
-Ujęcie odporności psychicznej odwołuje się do analizy trajektorii adaptacji Bonanno (2004), opis wypalenia do modelu Maslach i Leiter (2016), a opis mobbingu do przeglądu Nielsen i Einarsena (2012).
+Dobra reakcja nie zaczyna się od sporu o etykietę, lecz od ochrony ludzi i rzetelnego ustalenia faktów. Rozróżnienie konstruktu naukowego, definicji ustawowej i szerszej przemocy psychicznej zapobiega zarówno bagatelizowaniu pojedynczych poważnych naruszeń, jak i pochopnemu nazywaniu każdego konfliktu mobbingiem.
 
 ## Bibliografia
 
-- Bonanno, G. A. (2004). Loss, trauma, and human resilience. *American Psychologist, 59*(1), 20–28. [https://doi.org/10.1037/0003-066X.59.1.20](https://doi.org/10.1037/0003-066X.59.1.20)
-- Maslach, C., & Leiter, M. P. (2016). Understanding the burnout experience: Recent research and its implications for psychiatry. *World Psychiatry, 15*(2), 103–111. [https://doi.org/10.1002/wps.20311](https://doi.org/10.1002/wps.20311)
+- Einarsen, S. V., Hoel, H., Zapf, D., & Cooper, C. L. (Red.). (2020). *Bullying and harassment in the workplace: Theory, research and practice* (3. wyd.). CRC Press. [https://doi.org/10.1201/9780429462528](https://doi.org/10.1201/9780429462528)
+- Hershcovis, M. S. (2011). “Incivility, social undermining, bullying… oh my!”: A call to reconcile constructs within workplace aggression research. *Journal of Organizational Behavior, 32*(3), 499–519. [https://doi.org/10.1002/job.689](https://doi.org/10.1002/job.689)
 - Nielsen, M. B., & Einarsen, S. (2012). Outcomes of exposure to workplace bullying: A meta-analytic review. *Work & Stress, 26*(4), 309–332. [https://doi.org/10.1080/02678373.2012.734709](https://doi.org/10.1080/02678373.2012.734709)
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+- Nielsen, M. B., & Einarsen, S. V. (2018). What we know, what we do not know, and what we should and could have known about workplace bullying: An overview of the literature and agenda for future research. *Aggression and Violent Behavior, 42*, 71–83. [https://doi.org/10.1016/j.avb.2018.06.007](https://doi.org/10.1016/j.avb.2018.06.007)
+- Verkuil, B., Atasayi, S., & Molendijk, M. L. (2015). Workplace bullying and mental health: A meta-analysis on cross-sectional and longitudinal data. *PLOS ONE, 10*(8), e0135225. [https://doi.org/10.1371/journal.pone.0135225](https://doi.org/10.1371/journal.pone.0135225)
+- Ustawa z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277, z późn. zm.), art. 18³ᵃ–18³ᵉ i 94³. (2025). [https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19740240141](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19740240141)

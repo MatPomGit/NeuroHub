@@ -15,6 +15,15 @@ window.SITE_CONFIG = {
 
   // Zachowuje dawne adresy SPA po scaleniu lub przeniesieniu artykułów.
   articleRedirects: {
+    'rezyliencja_i_mobbing/budowanie_odpornosci': 'rezyliencja_i_mobbing/odpornosc_wprowadzenie',
+    'rezyliencja_i_mobbing/modele_odpornosci': 'rezyliencja_i_mobbing/odpornosc_wprowadzenie',
+    'rezyliencja_i_mobbing/mobbing_interwencja': 'rezyliencja_i_mobbing/mobbing_definicja',
+    'rezyliencja_i_mobbing/mobbing_skutki': 'rezyliencja_i_mobbing/mobbing_definicja',
+    'rezyliencja_i_mobbing/przemoc_psychiczna': 'rezyliencja_i_mobbing/mobbing_definicja',
+    'rezyliencja_i_mobbing/wsparcie_psychologiczne': 'rezyliencja_i_mobbing/mobbing_definicja',
+    'rezyliencja_i_mobbing/fazy_wypalenia': 'rezyliencja_i_mobbing/wypalenie_zawodowe',
+    'rezyliencja_i_mobbing/profilaktyka_wypalenia': 'rezyliencja_i_mobbing/wypalenie_zawodowe',
+    'rezyliencja_i_mobbing/wypalenie_zawody': 'rezyliencja_i_mobbing/wypalenie_zawodowe',
     'psychologia_technologii/zmeczenie_cyfrowe': 'psychologia_technologii/technostres',
     'psychologia_technologii/fomo_i_nomofobia': 'psychologia_technologii/technostres',
     'psychologia_technologii/higiena_cyfrowa': 'psychologia_technologii/technostres',
@@ -1048,18 +1057,9 @@ window.SITE_CONFIG = {
       section: 'Odpornosc psychiczna',
       domainKey: 'rezyliencja_i_mobbing',
       items: [
-        { id: 'rezyliencja_i_mobbing/odpornosc_wprowadzenie',   label: 'Odpornosc psychiczna - wprow.',        file: 'wiki/rezyliencja_i_mobbing/odpornosc_wprowadzenie.md'   },
-        { id: 'rezyliencja_i_mobbing/modele_odpornosci',        label: 'Modele i teorie odporności',           file: 'wiki/rezyliencja_i_mobbing/modele_odpornosci.md'        },
-        { id: 'rezyliencja_i_mobbing/budowanie_odpornosci',     label: 'Budowanie odporności psychicznej',     file: 'wiki/rezyliencja_i_mobbing/budowanie_odpornosci.md'     },
-        { id: 'rezyliencja_i_mobbing/przemoc_psychiczna',       label: 'Przemoc psychiczna - definicja',       file: 'wiki/rezyliencja_i_mobbing/przemoc_psychiczna.md'       },
-        { id: 'rezyliencja_i_mobbing/mobbing_definicja',        label: 'Mobbing - definicja, rodzaje, fazy',   file: 'wiki/rezyliencja_i_mobbing/mobbing_definicja.md'        },
-        { id: 'rezyliencja_i_mobbing/mobbing_skutki',           label: 'Skutki psychologiczne mobbingu',       file: 'wiki/rezyliencja_i_mobbing/mobbing_skutki.md'           },
-        { id: 'rezyliencja_i_mobbing/mobbing_interwencja',      label: 'Interwencja i zapobieganie mobbingowi',file: 'wiki/rezyliencja_i_mobbing/mobbing_interwencja.md'      },
-        { id: 'rezyliencja_i_mobbing/wypalenie_zawodowe',       label: 'Wypalenie zawodowe - definicja',       file: 'wiki/rezyliencja_i_mobbing/wypalenie_zawodowe.md'       },
-        { id: 'rezyliencja_i_mobbing/fazy_wypalenia',           label: 'Fazy i wymiary wypalenia',             file: 'wiki/rezyliencja_i_mobbing/fazy_wypalenia.md'           },
-        { id: 'rezyliencja_i_mobbing/wypalenie_zawody',         label: 'Wypalenie w wybranych zawodach',       file: 'wiki/rezyliencja_i_mobbing/wypalenie_zawody.md'         },
-        { id: 'rezyliencja_i_mobbing/profilaktyka_wypalenia',   label: 'Profilaktyka wypalenia zawodowego',    file: 'wiki/rezyliencja_i_mobbing/profilaktyka_wypalenia.md'   },
-        { id: 'rezyliencja_i_mobbing/wsparcie_psychologiczne',  label: 'Wsparcie psychologiczne ofiar',        file: 'wiki/rezyliencja_i_mobbing/wsparcie_psychologiczne.md'  },
+        { id: 'rezyliencja_i_mobbing/odpornosc_wprowadzenie', label: 'Rezyliencja i adaptacja', file: 'wiki/rezyliencja_i_mobbing/odpornosc_wprowadzenie.md' },
+        { id: 'rezyliencja_i_mobbing/mobbing_definicja', label: 'Mobbing i przemoc psychiczna w pracy', file: 'wiki/rezyliencja_i_mobbing/mobbing_definicja.md' },
+        { id: 'rezyliencja_i_mobbing/wypalenie_zawodowe', label: 'Wypalenie zawodowe', file: 'wiki/rezyliencja_i_mobbing/wypalenie_zawodowe.md' },
       ]
     },
     { /* Psychologia szkolna i edukacyjna */
@@ -1635,18 +1635,9 @@ window.SITE_CONFIG = {
       { file: 'wiki/psychologia_gier/zastosowania_gier_i_esport.md', label: 'Zastosowania gier i esport', status: 'live' },
     ],
     resilience_mobbing: [
-      { file: 'wiki/rezyliencja_i_mobbing/odpornosc_wprowadzenie.md',  label: 'Odpornosc psychiczna',      status: 'live' },
-      { file: 'wiki/rezyliencja_i_mobbing/modele_odpornosci.md',       label: 'Modele i teorie odporności',               status: 'live' },
-      { file: 'wiki/rezyliencja_i_mobbing/budowanie_odpornosci.md',    label: 'Budowanie odporności psychicznej',         status: 'live' },
-      { file: 'wiki/rezyliencja_i_mobbing/przemoc_psychiczna.md',      label: 'Przemoc psychiczna - definicja i formy',   status: 'live' },
-      { file: 'wiki/rezyliencja_i_mobbing/mobbing_definicja.md',       label: 'Mobbing - definicja, rodzaje i fazy',      status: 'live' },
-      { file: 'wiki/rezyliencja_i_mobbing/mobbing_skutki.md',          label: 'Skutki psychologiczne mobbingu',           status: 'live' },
-      { file: 'wiki/rezyliencja_i_mobbing/mobbing_interwencja.md',     label: 'Interwencja i zapobieganie mobbingowi',    status: 'live' },
-      { file: 'wiki/rezyliencja_i_mobbing/wypalenie_zawodowe.md',      label: 'Wypalenie zawodowe - definicja i modele',  status: 'live' },
-      { file: 'wiki/rezyliencja_i_mobbing/fazy_wypalenia.md',          label: 'Fazy i wymiary wypalenia zawodowego',      status: 'live' },
-      { file: 'wiki/rezyliencja_i_mobbing/wypalenie_zawody.md',        label: 'Wypalenie w wybranych zawodach',           status: 'live' },
-      { file: 'wiki/rezyliencja_i_mobbing/profilaktyka_wypalenia.md',  label: 'Profilaktyka wypalenia zawodowego',        status: 'live' },
-      { file: 'wiki/rezyliencja_i_mobbing/wsparcie_psychologiczne.md', label: 'Wsparcie psychologiczne ofiar',            status: 'live' },
+      { file: 'wiki/rezyliencja_i_mobbing/odpornosc_wprowadzenie.md', label: 'Rezyliencja i adaptacja', status: 'live' },
+      { file: 'wiki/rezyliencja_i_mobbing/mobbing_definicja.md', label: 'Mobbing i przemoc psychiczna w pracy', status: 'live' },
+      { file: 'wiki/rezyliencja_i_mobbing/wypalenie_zawodowe.md', label: 'Wypalenie zawodowe', status: 'live' },
     ],
 
     media_nature: [
@@ -2367,34 +2358,15 @@ window.SITE_CONFIG = {
     },
 
     odpornosc_mobbing: {
-      title: 'WIKI - Odpornosc psychiczna, mobbing i wypalenie zawodowe',
-      intro: 'Encyklopedia obejmuje trzy powiązane obszary: odporność psychiczna (resilience) jako zasób chroniący, psychologiczne aspekty przemocy psychicznej i mobbingu w miejscu pracy oraz wypalenie zawodowe - mechanizmy, skutki i profilaktykę.',
+      title: 'WIKI - Rezyliencja, mobbing i wypalenie zawodowe',
+      intro: 'Trzy kanoniczne opracowania o adaptacji wobec przeciwności, przemocy psychicznej w pracy oraz wypaleniu zawodowym.',
       sections: [
         {
-          title: 'Odpornosc psychiczna',
+          title: 'Artykuły kanoniczne',
           articles: [
-            { label: 'Odpornosc psychiczna',  id: 'rezyliencja_i_mobbing/odpornosc_wprowadzenie', status: 'live' },
-            { label: 'Modele i teorie odporności',            id: 'rezyliencja_i_mobbing/modele_odpornosci',      status: 'live' },
-            { label: 'Budowanie odporności psychicznej',      id: 'rezyliencja_i_mobbing/budowanie_odpornosci',   status: 'live' },
-          ]
-        },
-        {
-          title: 'Przemoc psychiczna i mobbing',
-          articles: [
-            { label: 'Przemoc psychiczna - definicja i formy',   id: 'rezyliencja_i_mobbing/przemoc_psychiczna',    status: 'live' },
-            { label: 'Mobbing - definicja, rodzaje i fazy',      id: 'rezyliencja_i_mobbing/mobbing_definicja',     status: 'live' },
-            { label: 'Skutki psychologiczne mobbingu',           id: 'rezyliencja_i_mobbing/mobbing_skutki',        status: 'live' },
-            { label: 'Interwencja i zapobieganie mobbingowi',    id: 'rezyliencja_i_mobbing/mobbing_interwencja',   status: 'live' },
-            { label: 'Wsparcie psychologiczne ofiar',            id: 'rezyliencja_i_mobbing/wsparcie_psychologiczne', status: 'live' },
-          ]
-        },
-        {
-          title: 'Wypalenie zawodowe',
-          articles: [
-            { label: 'Wypalenie zawodowe - definicja i modele',  id: 'rezyliencja_i_mobbing/wypalenie_zawodowe',    status: 'live' },
-            { label: 'Fazy i wymiary wypalenia zawodowego',      id: 'rezyliencja_i_mobbing/fazy_wypalenia',        status: 'live' },
-            { label: 'Wypalenie w wybranych zawodach',           id: 'rezyliencja_i_mobbing/wypalenie_zawody',      status: 'live' },
-            { label: 'Profilaktyka wypalenia zawodowego',        id: 'rezyliencja_i_mobbing/profilaktyka_wypalenia', status: 'live' },
+            { label: 'Rezyliencja i adaptacja', id: 'rezyliencja_i_mobbing/odpornosc_wprowadzenie', status: 'live' },
+            { label: 'Mobbing i przemoc psychiczna w pracy', id: 'rezyliencja_i_mobbing/mobbing_definicja', status: 'live' },
+            { label: 'Wypalenie zawodowe', id: 'rezyliencja_i_mobbing/wypalenie_zawodowe', status: 'live' },
           ]
         },
       ]

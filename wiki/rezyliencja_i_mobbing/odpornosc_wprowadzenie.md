@@ -1,95 +1,96 @@
 ---
-lastReviewed: 2026-04-01
+lastReviewed: 2026-08-09
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 content_type: article
+aliases:
+  - Rezyliencja
+  - Odporność psychiczna
 ---
 
-# Odporność psychiczna - wprowadzenie
+# Rezyliencja i adaptacja
 
-## Czym jest odporność psychiczna?
+## Najważniejsze informacje
 
-Odporność psychiczna (ang. *resilience*) to zdolność człowieka do skutecznego radzenia sobie z trudnościami, traumą, tragedią, zagrożeniami lub poważnymi źródłami stresu. Nie oznacza ona braku bólu, smutku czy trudności - wręcz przeciwnie, droga przez adversity jest nieuchronna. Odporność to raczej umiejętność adaptacji, powrotu do równowagi i - w wielu przypadkach - wyjścia z kryzysu silniejszym niż przed nim.
+**Rezyliencja** oznacza względnie dobrą adaptację mimo poważnego zagrożenia dla rozwoju lub funkcjonowania. Nie jest niewrażliwością, obowiązkiem zachowania spokoju ani stałą „twardością psychiczną”. Można ją opisywać jako **proces** zachodzący w czasie, **wynik** oceniany w określonej dziedzinie oraz **względną zdolność** systemu do korzystania z zasobów. Te trzy znaczenia są powiązane, ale nie są zamienne.
 
-Współczesne rozumienie odporności odeszło od modelu „człowieka niezniszczalnego" w kierunku dynamicznego procesu, który może być rozwijany przez całe życie. Odporność psychiczna nie jest stałą cechą osobowości, lecz rezultatem interakcji między jednostką, jej historią życia, zasobami społecznymi i kontekstem środowiskowym.
+Rezyliencja powstaje w relacji osoby z otoczeniem. Zależy nie tylko od regulacji emocji czy sposobu myślenia, lecz także od bezpiecznych więzi, dochodu, mieszkania, praw pracowniczych, dostępności opieki i działania instytucji. Dlatego trening indywidualny nie może zastąpić usunięcia przemocy, dyskryminacji lub nadmiernego obciążenia pracą.
 
-> **Fakt:** Badania longitudinalne pokazują, że około 65% osób, które doświadczyły poważnej traumy (np. katastrofy naturalnej, straty bliskiej osoby), wykazuje znaczącą odporność - powraca do poprzedniego poziomu funkcjonowania w ciągu 12–18 miesięcy bez profesjonalnej interwencji.
+## Proces, wynik i względna zdolność
 
-## Historia badań nad odpornością - od Ruttera do Richardsona
+### Rezyliencja jako proces
 
-Pierwsze systematyczne badania nad odpornością psychiczną prowadzono w latach 70. XX wieku. Pionierem tej dziedziny był brytyjski psychiatra **Michael Rutter**, który w swoich badaniach nad dziećmi z rodzin dysfunkcyjnych zauważył, że część z nich radzi sobie zaskakująco dobrze pomimo ekstremalnie niekorzystnych warunków życia. Rutter wprowadził pojęcie *czynników ochronnych* (ang. *protective factors*) - właściwości jednostki lub środowiska, które buforują negatywny wpływ stresorów.
+Ujęcie procesualne pyta, **jak** w zmieniających się warunkach współdziałają ryzyko i ochrona. Adaptacja może przebiegać nierówno: poprawa bywa przerywana pogorszeniem, a zasób skuteczny w jednej sytuacji może nie pomagać w innej. Proces obejmuje mobilizowanie pomocy, zmianę otoczenia, odpoczynek, nadawanie znaczenia doświadczeniu i uczenie się nowych sposobów działania.
 
-Równolegle **Emmy Werner** i Ruth Smith prowadziły przełomowe badania podłużne na Hawajach (tzw. *Kauai Longitudinal Study*), obserwując dzieci z grupy ryzyka przez ponad 40 lat. Ich wyniki potwierdziły, że silna więź z przynajmniej jedną stabilną, opiekuńczą osobą dorosłą jest kluczowym czynnikiem chroniącym rozwój dziecka.
+### Rezyliencja jako wynik
 
-W latach 90. **Glenn Richardson** zaproponował metateorię odporności, integrując dotychczasowe koncepcje w spójny model biopsychospirytualny. Według Richardsona odporność jest procesem adaptacyjnym, w którym człowiek - po zakłóceniu homeostazy - może odbudować się na wyższym, niższym lub analogicznym poziomie funkcjonowania.
+W badaniu wynik oznacza poziom funkcjonowania po ekspozycji na istotne przeciwności. Trzeba wskazać zarazem **rodzaj przeciwności, dziedzinę funkcjonowania i czas pomiaru**. Osoba może dobrze pracować, a jednocześnie mieć objawy pourazowe; może też przejściowo funkcjonować gorzej, po czym odzyskać równowagę. Brak widocznych objawów w jednym pomiarze nie dowodzi ani niewrażliwości, ani trwałej adaptacji.
 
-## Odporność a pokrewne pojęcia
+Trajektoria względnie stabilnego funkcjonowania jest tylko jedną z możliwych. Powrót do równowagi, opóźnione trudności i przewlekłe zaburzenie również występują, a ich rozpoznanie wymaga wielokrotnych pomiarów. „Wzrost potraumatyczny” nie jest koniecznym finałem cierpienia; deklarowana pozytywna zmiana może współistnieć z dystresem.
 
-Wiele pojęć z obszaru psychologii pozytywnej i psychologii stresu bywa mylonych lub stosowanych zamiennie. Warto je precyzyjnie odróżnić.
+### Rezyliencja jako względna zdolność
 
-**Radzenie sobie (coping)** to aktywny proces regulacji wymagań stawianych przez stresujące wydarzenie. Radzenie sobie jest *reakcją* na konkretny stresor - może być skoncentrowane na problemie (działanie naprawcze) lub na emocjach (regulacja przeżyć). Odporność jest natomiast szerszą właściwością - dyspozycją, która warunkuje skuteczność copingu w różnych sytuacjach.
+O zdolności można mówić jako o aktualnym potencjale osoby lub szerszego systemu do adaptacji. Jest ona **względna**, ponieważ zależy od rozwoju, rodzaju zagrożenia, dostępnych zasobów i kultury. Kwestionariusz samoopisowy mierzy wybrane przekonania lub zachowania, a nie niezmienną ilość „odporności” ukrytą w człowieku. Wynik nie pozwala przewidzieć każdej przyszłej reakcji.
 
-**Hartowność (hardiness)** to koncepcja Kobasy i Maddi, opisująca zestaw postaw poznawczych: zaangażowania (*commitment*), poczucia kontroli (*control*) i otwartości na wyzwania (*challenge*). Hartowność jest bardziej statyczną cechą osobowości niż dynamicznie rozumiana odporność.
+Tak rozumiana rezyliencja różni się od hartowności, czyli zespołu postaw obejmujących zaangażowanie, kontrolę i traktowanie zmiany jako wyzwania, oraz od radzenia sobie, czyli konkretnych działań podejmowanych wobec stresora. Nie jest też przeciwieństwem podatności na zranienie: korzystna adaptacja może obejmować lęk, żałobę, szukanie pomocy i czasową rezygnację z części zadań.
 
-**Prężność ego** (Block i Block) to stabilność i elastyczność w obliczu stresu - zbliżona do odporności, lecz silniej osadzona w psychoanalitycznej tradycji konceptualizacji jaźni.
+## Jak działają ryzyko i ochrona
 
-> **Fakt:** W metaanalizach (Hu i in., 2015) wykazano, że odporność psychiczna wyjaśnia istotnie więcej wariancji dobrostanu psychicznego niż sama hartowność czy styl copingu oceniane osobno.
+Czynniki ochronne mogą działać na kilka sposobów:
 
-## Główne modele odporności
+- **kompensować** ryzyko, na przykład stały dochód ogranicza część skutków kryzysu;
+- **buforować** jego wpływ, na przykład wsparcie przełożonego może mieć szczególne znaczenie przy dużym obciążeniu;
+- **uruchamiać kaskady rozwojowe**, gdy poprawa w jednej dziedzinie ułatwia poprawę w kolejnych;
+- **zmieniać ekspozycję**, na przykład procedura bezpieczeństwa usuwa zagrożenie zamiast jedynie pomagać je znosić.
 
-Wyróżnia się kilka kluczowych ujęć teoretycznych, które kształtują współczesne rozumienie odporności.
+Nie istnieje uniwersalna lista cech gwarantujących dobry wynik. Znaczenie zasobu zależy od kontekstu, a przewaga zasobów nie usuwa realności krzywdy.
 
-**Model kompensacyjny** zakłada, że czynniki ochronne bezpośrednio niwelują działanie czynników ryzyka. Im więcej zasobów (np. wsparcie społeczne, poczucie własnej skuteczności), tym mniejszy negatywny wpływ stresora - niezależnie od jego intensywności.
+## Zasoby na czterech poziomach
 
-**Model moderacyjny (buforujący)** sugeruje, że czynniki ochronne działają jedynie w obecności ryzyka - są swoistym buforem. Przykładowo wsparcie społeczne może nie różnicować osób w warunkach niskiego stresu, ale istotnie chronić w sytuacji wysokiego obciążenia.
+### Jednostkowe
 
-**Model konfiguracyjny** podkreśla wzajemne oddziaływanie wielu czynników - kombinacja zasobów i ryzyk tworzy unikalny „profil odporności" każdej osoby.
+Należą tu zdrowie, wiedza, poczucie skuteczności, elastyczność poznawcza, umiejętność regulowania emocji i rozwiązywania problemów. Pomocne strategie obejmują realistyczne przeformułowanie interpretacji, planowanie, regenerację i rozpoznawanie momentu, w którym potrzebna jest pomoc. Regulacja emocji nie oznacza tłumienia: elastyczne użycie strategii jest ważniejsze niż stałe zachowywanie spokoju.
 
-**Model procesualny** (np. Richardson, Bonanno) traktuje odporność jako dynamiczny, czasowy proces adaptacji, a nie statyczny zasób. Szczególnie podkreśla się fazę reintegracji po zakłóceniu homeostazy.
+### Relacyjne
 
-## Odporność w psychologii pozytywnej
+Bezpieczna więź z choć jedną dostępną osobą, wsparcie rodziny i przyjaciół, życzliwy zespół, mentoring oraz profesjonalna pomoc mogą ograniczać izolację i dostarczać informacji, opieki lub ochrony. O jakości wsparcia decyduje jego dopasowanie; nacisk na „pozytywne myślenie” może unieważniać doświadczenie.
 
-Psychologia pozytywna, rozwijana od końca lat 90. XX wieku przez Martina Seligmana i Mihalya Csikszentmihalyi, umieściła odporność w centrum zainteresowań badań nad dobrostanem, siłami charakteru i flourishingiem. W ramach modelu **PERMA** (Positive Emotions, Engagement, Relationships, Meaning, Accomplishment) odporność pojawia się jako meta-kompetencja, umożliwiająca kultywowanie każdego z pięciu elementów dobrostanu nawet w obliczu adversity.
+### Ekonomiczne
 
-Seligman rozwinął koncepcję **nauczanej bezradności** (*learned helplessness*) - i jej odwrotności: *learned optimism* - nauczanego optymizmu. Badania nad stylem wyjaśniania zdarzeń (*explanatory style*) wskazują, że osoby, które traktują trudności jako tymczasowe, zewnętrzne i specyficzne dla danej sytuacji, wykazują wyższą odporność niż te posługujące się trwałym, globalnym i wewnętrznym stylem wyjaśniania porażek.
+Dochód, oszczędności, stabilne mieszkanie, dostęp do transportu i możliwość wzięcia płatnego urlopu wpływają na realny zakres wyboru. Ubóstwa lub niepewnego zatrudnienia nie da się skompensować samą zmianą nastawienia. Transfery społeczne, dostępne usługi i stabilność zatrudnienia mogą być interwencjami wzmacniającymi adaptację.
 
-> **Fakt:** Program **Penn Resiliency Program** opracowany przez Seligmana i współpracowników wykazał skuteczność w redukcji objawów depresji u dzieci i młodzieży w randomizowanych badaniach kontrolowanych, co potwierdziło, że odporność można kształcić i wzmacniać.
+### Instytucjonalne i społeczne
 
-## Przykład kliniczny
+Znaczenie mają bezpieczne szkoły i miejsca pracy, dostępna ochrona zdrowia, sprawne procedury skargowe, reprezentacja pracownicza, niedyskryminujące prawo oraz instytucje reagujące na przemoc. W ujęciu multisystemowym zdolność jednostki do „nawigowania” ku zasobom zależy również od tego, czy otoczenie rzeczywiście je udostępnia w kulturowo sensownej formie.
 
-Marta, 38-letnia nauczycielka, zgłosiła się na psychoterapię po rozpadzie wieloletniego związku i jednoczesnej utracie pracy. W wywiadzie ujawniono, że w dzieciństwie wychowywała się w rodzinie z problemem alkoholowym ojca. Mimo to ukończyła studia, zbudowała sieć wsparcia społecznego i przez lata funkcjonowała ponadprzeciętnie. W chwili kryzysu zasoby, które przez lata były jej „buforami", zostały jednocześnie nadwyrężone. Praca terapeutyczna koncentrowała się na ponownym uruchomieniu zasobów odporności: eksploracji wartości, przeformułowaniu narracji o kryzysie i odbudowie sieci wsparcia. Po 8 miesiącach terapii Marta podjęła nowe zatrudnienie i oceniła kryzys jako punkt zwrotny w rozumieniu własnych priorytetów życiowych - klasyczny przykład wzrostu potraumatycznego.
+## Co można rozwijać
 
+Programy poznawczo-behawioralne, trening rozwiązywania problemów, uważność i ćwiczenie samowspółczucia mogą przynosić małe lub umiarkowane korzyści w niektórych grupach. Nie uzasadnia to obietnicy, że każdy dzięki treningowi uniknie zaburzeń. Jakość badań jest zróżnicowana, efekty zależą od programu i populacji, a sama nazwa „trening rezyliencji” nie gwarantuje skuteczności.
 
+Praktyczny plan powinien zaczynać się od diagnozy układu **wymagania–zasoby**:
 
-Odporność psychiczna jest wielowymiarowym, dynamicznym procesem, którego korzenie sięgają wczesnych badań Ruttera i Werner, a którego współczesne rozumienie integruje perspektywę biologiczną, psychologiczną, społeczną i egzystencjalną. Nie jest wyłącznym przywilejem „silnych jednostek" - jest zasobem potencjalnie dostępnym dla każdego człowieka, który można rozpoznać, rozwijać i wzmacniać w praktyce klinicznej oraz programach prewencyjnych.
+1. nazwać zagrożenie i ocenić bezpieczeństwo;
+2. ustalić, które wymagania można usunąć lub ograniczyć;
+3. zabezpieczyć zasoby materialne i instytucjonalne;
+4. wzmocnić relacje oraz dostęp do pomocy;
+5. dopiero potem dobrać dobrowolne strategie indywidualne;
+6. sprawdzać wynik w kilku dziedzinach i w czasie.
 
-## Perspektywa nieoczywista
+## Granica odpowiedzialności
 
-Nieoczywista perspektywa na temat "Odporność psychiczna - wprowadzenie" polega na tym, że odporność psychiczna nie oznacza braku podatności na zranienie, lecz zdolność do odzyskiwania sprawstwa w warunkach przeciążenia i presji.
+Pojęcie rezyliencji staje się szkodliwe, gdy służy ocenie charakteru osoby albo usprawiedliwia niebezpieczny system. Za mobbing odpowiada sprawca i organizacja zobowiązana do przeciwdziałania, nie osoba, u której pojawiły się objawy. Pracodawca nie naprawia chronicznego przeciążenia warsztatem uważności, jeśli jednocześnie utrzymuje nierealne normy i karze za zgłaszanie problemów.
 
-Dopiero wspólna analiza zagadnień takich jak czym jest odporność psychiczna?, główne modele odporności oraz przykład kliniczny pokazuje pełny zakres omawianego zjawiska.
+Interwencja indywidualna może pomóc odzyskać sen, sprawstwo i sieć wsparcia. Interwencja środowiskowa ma zatrzymać źródło szkody. Etyczne działanie zwykle wymaga obu poziomów, lecz nigdy nie wolno uzależniać ochrony przed przemocą od wykazania przez osobę wystarczającej „odporności”.
 
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+## Wnioski
 
-## Podsumowanie
-
-Temat "Odporność psychiczna - wprowadzenie" pokazuje, że najważniejsze jest łączenie profilaktyki indywidualnej z analizą środowiska pracy, procedur i kultury organizacyjnej.
-
-
-Dopiero wspólna analiza zagadnień takich jak czym jest odporność psychiczna?, główne modele odporności oraz przykład kliniczny pokazuje pełny zakres omawianego zjawiska.
-
-## Podstawa źródłowa
-
-Ujęcie odporności psychicznej odwołuje się do analizy trajektorii adaptacji Bonanno (2004), opis wypalenia do modelu Maslach i Leiter (2016), a opis mobbingu do przeglądu Nielsen i Einarsena (2012).
+Rezyliencja nie opisuje ludzi niezniszczalnych. Jest nazwą zmiennego procesu adaptacji, obserwowanego wyniku oraz kontekstowej zdolności korzystania z zasobów. Rzetelna analiza obejmuje osobę, relacje, warunki ekonomiczne i instytucje, a powodzenia w jednej dziedzinie nie rozciąga automatycznie na całe życie.
 
 ## Bibliografia
 
-- Bonanno, G. A. (2004). Loss, trauma, and human resilience. *American Psychologist, 59*(1), 20–28. [https://doi.org/10.1037/0003-066X.59.1.20](https://doi.org/10.1037/0003-066X.59.1.20)
-- Maslach, C., & Leiter, M. P. (2016). Understanding the burnout experience: Recent research and its implications for psychiatry. *World Psychiatry, 15*(2), 103–111. [https://doi.org/10.1002/wps.20311](https://doi.org/10.1002/wps.20311)
-- Nielsen, M. B., & Einarsen, S. (2012). Outcomes of exposure to workplace bullying: A meta-analytic review. *Work & Stress, 26*(4), 309–332. [https://doi.org/10.1080/02678373.2012.734709](https://doi.org/10.1080/02678373.2012.734709)
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+- Bonanno, G. A. (2004). Loss, trauma, and human resilience: Have we underestimated the human capacity to thrive after extremely aversive events? *American Psychologist, 59*(1), 20–28. [https://doi.org/10.1037/0003-066X.59.1.20](https://doi.org/10.1037/0003-066X.59.1.20)
+- Kalisch, R., Müller, M. B., & Tüscher, O. (2015). A conceptual framework for the neurobiological study of resilience. *Behavioral and Brain Sciences, 38*, e92. [https://doi.org/10.1017/S0140525X1400082X](https://doi.org/10.1017/S0140525X1400082X)
+- Luthar, S. S., Cicchetti, D., & Becker, B. (2000). The construct of resilience: A critical evaluation and guidelines for future work. *Child Development, 71*(3), 543–562. [https://doi.org/10.1111/1467-8624.00164](https://doi.org/10.1111/1467-8624.00164)
+- Masten, A. S. (2001). Ordinary magic: Resilience processes in development. *American Psychologist, 56*(3), 227–238. [https://doi.org/10.1037/0003-066X.56.3.227](https://doi.org/10.1037/0003-066X.56.3.227)
+- Masten, A. S., & Cicchetti, D. (2016). Resilience in development: Progress and transformation. W D. Cicchetti (Red.), *Developmental psychopathology: Risk, resilience, and intervention* (3. wyd., s. 271–333). Wiley. [https://doi.org/10.1002/9781119125556.devpsy406](https://doi.org/10.1002/9781119125556.devpsy406)
+- Ungar, M., & Theron, L. (2020). Resilience and mental health: How multisystemic processes contribute to positive outcomes. *The Lancet Psychiatry, 7*(5), 441–448. [https://doi.org/10.1016/S2215-0366(19)30434-1](https://doi.org/10.1016/S2215-0366(19)30434-1)

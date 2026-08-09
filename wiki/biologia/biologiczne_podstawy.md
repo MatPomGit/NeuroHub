@@ -42,41 +42,8 @@ Mozg generuje stany psychiczne przez skoordynowaną aktywność rozległych siec
 
 Zaburzenia psychiczne są w istotnej mierze zaburzeniami neurobiologicznymi - depresja wiąże się z dysregulacją osi HPA i zmniejszoną aktywnością układu serotoninergicznego i dopaminergicznego, schizofrenia z nadmierną aktywnością szlaku mezolimbicznego dopaminy, a zaburzenia lękowe z nadreaktywnością ciała migdałowatego i obniżoną kontrolą przedczołową. Rozumienie tych mechanizmów jest podstawą racjonalnej farmakoterapii i psychoterapii modyfikujących neurobiologię.
 
-## Wprowadzenie
-
-Temat tego artykułu jest istotny dla praktyki psychologicznej, ponieważ łączy perspektywę teoretyczną z codziennymi decyzjami klinicznymi lub edukacyjnymi. W literaturze podkreśla się, że trafne rozumienie zjawiska wymaga uwzględnienia kontekstu biologicznego, społecznego i kulturowego. W niniejszym opracowaniu przyjmujemy podejście oparte na dowodach, oddzielając ustalenia empiryczne od interpretacji. Taki porządek ułatwia ocenę jakości argumentów i ogranicza ryzyko uproszczeń. Dzięki temu czytelnik może przełożyć wiedzę teoretyczną na bardziej świadome działania praktyczne.
-
-
-
-
-## Praktyczne przykłady
-
-### Dobra praktyka
-Dobrą praktyką jest rozpoczynanie pracy od jasnego celu, kryteriów oceny postępów oraz wspólnego języka używanego przez specjalistę i odbiorcę interwencji. W praktyce oznacza to regularny monitoring efektów, krótkie cykle informacji zwrotnej i gotowość do modyfikacji planu działania. Wysoką skuteczność wspiera także psychoedukacja, która zwiększa poczucie sprawstwa i rozumienie procesu zmiany. Istotne jest ponadto respektowanie granic etycznych oraz uwzględnianie różnic indywidualnych. Konsekwencją takiego podejścia jest większa trwałość rezultatów i mniejsze ryzyko działań pozornych.
-
-### Zła praktyka
-Częstym błędem jest stosowanie jednego schematu postępowania niezależnie od kontekstu, potrzeb i możliwości danej osoby lub grupy. Problemem bywa również opieranie decyzji na intuicji bez sprawdzania jakości danych i aktualnych rekomendacji. W praktyce prowadzi to do nietrafnych interwencji, spadku motywacji oraz utraty zaufania do procesu wsparcia. Złą praktyką jest także pomijanie czynników systemowych, takich jak warunki środowiskowe czy bariery organizacyjne. Konsekwencje obejmują nie tylko słabsze efekty, ale również ryzyko wtórnej szkody psychologicznej.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Biologiczne podstawy zachowania - wprowadzenie" polega na tym, że mechanizmy biologiczne rzadko działają w izolacji; ich znaczenie ujawnia się dopiero w powiązaniu z rozwojem, środowiskiem i zachowaniem.
-
-Dopiero wspólna analiza zagadnień takich jak genetyka behawioralna, psychofizjologia oraz neurobiologiczne podłoże stanów psychicznych pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-
-
-## Podsumowanie
-
-Temat "Biologiczne podstawy zachowania - wprowadzenie" pokazuje, że kluczowe pozostaje łączenie poziomu biologicznego z funkcjonalnym, aby uniknąć uproszczenia złożonych zjawisk psychicznych do jednej przyczyny.
-
-
-Dopiero wspólna analiza zagadnień takich jak genetyka behawioralna, psychofizjologia oraz neurobiologiczne podłoże stanów psychicznych pokazuje pełny zakres omawianego zjawiska.
 ## Bibliografia
 
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+1. Gazzaniga, M. S., Ivry, R. B., & Mangun, G. R. (2018). *Cognitive Neuroscience: The Biology of the Mind*. W. W. Norton.
+2. Kalat, J. W. (2019). *Biological Psychology*. Cengage Learning.
+3. Purves, D. i in. (red.). (2018). *Neuroscience*. Oxford University Press.

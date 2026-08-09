@@ -49,28 +49,9 @@ TOC jest nie tylko narzedziem UX. W praktyce badawczej może sł‚użyć jako �
 Kluczowe kryteria akceptacyjne:
 - TOC tworzy sie automatycznie z `##` i `###`.
 - Aktywna sekcja podł›wietla sie podczas przewijania.
-- Linkowanie sekcji nie psuje routingu artykuł‚ow.## Bibliografia
+- Linkowanie sekcji nie psuje routingu artykuł‚ow.
+
+## Bibliografia
 1. Mozilla Developer Network. (2025). *Intersection Observer API*.
 2. WHATWG. (2025). *URL Standard*.
 3. Nielsen, J. (2020). *Web usability heuristics*.
-
-
-## Definicje
-
-W tym artykule kluczowe pojecia są rozumiane w sposob operacyjny, tak aby można je był‚o stosować w badaniach i praktyce. Definicja zjawiska obejmuje zarowno jego kryteria rozpoznania, jak i granice pojeciowe odrożniające je od konstruktow pokrewnych. Warto pamietać, że czeł›ć terminow ma kilka konkurencyjnych ujeć, zależnie od szkoł‚y teoretycznej. Dlatego podczas interpretacji wynikow należy zawsze wskazać, ktorą definicje przyjeto i dlaczego. Taka precyzja terminologiczna zwieksza porownywalnoł›ć danych oraz jakoł›ć wnioskowania.
-
-
-## Analiza
-
-Mechanizmy omawianego zjawiska najlepiej wyjał›niać na kilku poziomach: poznawczym, emocjonalnym, behawioralnym i ł›rodowiskowym. Dane empiryczne zwykle pokazują, że efekt koł„cowy wynika z interakcji wielu czynnikow, a nie z pojedynczej przyczyny. Z perspektywy metodologicznej warto uwzglednić zarowno wyniki badał„ przekrojowych, jak i podł‚użnych, ponieważ odpowiadają one na rożne pytania. Ograniczeniem bywa heterogenicznoł›ć prob i narzedzi pomiarowych, ktora utrudnia bezpoł›rednie porownania miedzy badaniami. Mimo tych ograniczeł„ spojny obraz zjawiska można uzyskać, ł‚ącząc dane iloł›ciowe, jakoł›ciowe i kliniczne.
-
-
-## Praktyczne przykłady
-Dobrą praktyką jest rozpoczynanie pracy od jasnego celu, kryteriow oceny postepow oraz wspolnego jezyka używanego przez specjaliste i odbiorce interwencji. W praktyce oznacza to regularny monitoring efektow, krotkie cykle informacji zwrotnej i gotowoł›ć do modyfikacji planu dział‚ania. Wysoką skutecznoł›ć wspiera także psychoedukacja, ktora zwieksza poczucie sprawstwa i rozumienie procesu zmiany. Istotne jest ponadto respektowanie granic etycznych oraz uwzglednianie rożnic indywidualnych. Konsekwencją takiego podejł›cia jest wieksza trwał‚oł›ć rezultatow i mniejsze ryzyko dział‚ał„ pozornych.
-
-
-## Zł‚a praktyka
-
-Czestym bł‚edem jest stosowanie jednego schematu postepowania niezależnie od kontekstu, potrzeb i możliwoł›ci danej osoby lub grupy. Problemem bywa rownież opieranie decyzji na intuicji bez sprawdzania jakoł›ci danych i aktualnych rekomendacji. W praktyce prowadzi to do nietrafnych interwencji, spadku motywacji oraz utraty zaufania do procesu wsparcia. Zł‚ą praktyką jest także pomijanie czynnikow systemowych, takich jak warunki ł›rodowiskowe czy bariery organizacyjne. Konsekwencje obejmują nie tylko sł‚absze efekty, ale rownież ryzyko wtornej szkody psychologicznej.
-
-

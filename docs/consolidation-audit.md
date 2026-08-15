@@ -302,7 +302,7 @@ domenami oraz osobne przeglądy kliniczne i terminologiczne opisuje
 
 | Artykuł kanoniczny | Wynik |
 |---|---|
-| `wiki/relacje/samotnosc.md` | 10/10 |
+| `wiki/relacje/przyjazn_rodzina_i_samotnosc.md` | 10/10 |
 
 ### `resocjalizacja` (1)
 

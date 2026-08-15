@@ -463,7 +463,15 @@ window.SITE_CONFIG = {
     'geropsychologia/interwencje_terapeutyczne': 'geropsychologia/pomoc_psychologiczna_i_opieka_w_starosci',
     'geropsychologia/opieka_nad_opiekunami': 'geropsychologia/pomoc_psychologiczna_i_opieka_w_starosci',
     'geropsychologia/umieranie_smierc': 'geropsychologia/pomoc_psychologiczna_i_opieka_w_starosci',
-    'geropsychologia/samotnosc': 'relacje/samotnosc',
+    'geropsychologia/samotnosc': 'relacje/przyjazn_rodzina_i_samotnosc',
+    'relacje/dobor_partnera': 'relacje/tworzenie_i_rozwoj_relacji_intymnej',
+    'relacje/trojkatna_teoria_milosci': 'relacje/tworzenie_i_rozwoj_relacji_intymnej',
+    'relacje/konflikty': 'relacje/komunikacja_para',
+    'relacje/glebia_relacji_a_traumy': 'relacje/komunikacja_para',
+    'relacje/zdrada': 'relacje/kryzys_zdrada_i_rozstanie',
+    'relacje/terapia_par': 'relacje/kryzys_zdrada_i_rozstanie',
+    'relacje/przyjaznie': 'relacje/przyjazn_rodzina_i_samotnosc',
+    'relacje/relacje_rodzinne': 'relacje/przyjazn_rodzina_i_samotnosc',
     'psychofarmakologia/01_rys_historyczny_psychofarmakologii_klinicznej': 'psychofarmakologia/podstawy_psychofarmakologii',
     'psychofarmakologia/02_anatomia_funkcjonalna_mozgu': 'psychofarmakologia/podstawy_psychofarmakologii',
     'psychofarmakologia/03_podstawy_neurochemii_oun': 'psychofarmakologia/podstawy_psychofarmakologii',
@@ -823,19 +831,11 @@ window.SITE_CONFIG = {
       section: 'Relacje i związki',
       domainKey: 'relacje',
       items: [
-        { id: 'relacje/przywiezanie_doroslych', label: 'Style przywiazania u doroslych', file: 'wiki/relacje/przywiezanie_doroslych.md' },
-        { id: 'relacje/trojkatna_teoria_milosci', label: 'Triangularna teoria milosci', file: 'wiki/relacje/trojkatna_teoria_milosci.md' },
-        { id: 'relacje/dobor_partnera', label: 'Dobor partnera', file: 'wiki/relacje/dobor_partnera.md' },
-        { id: 'relacje/komunikacja_para', label: 'Komunikacja w parze', file: 'wiki/relacje/komunikacja_para.md' },
-        { id: 'relacje/glebia_relacji_a_traumy', label: 'Głębia relacji a dzielenie się traumą', file: 'wiki/relacje/glebia_relacji_a_traumy.md' },
-        { id: 'relacje/konflikty', label: 'Konflikty i ich rozwiazywanie', file: 'wiki/relacje/konflikty.md' },
-        { id: 'relacje/zdrada', label: 'Zdrada i odbudowa zaufania', file: 'wiki/relacje/zdrada.md' },
-        { id: 'relacje/terapia_par', label: 'Terapia par', file: 'wiki/relacje/terapia_par.md' },
-        { id: 'relacje/przemoc_zwiazki',  label: 'Przemoc w związkach',             file: 'wiki/relacje/przemoc_zwiazki.md'  },
-        { id: 'relacje/samotnosc',        label: 'Samotność i izolacja społeczna',  file: 'wiki/relacje/samotnosc.md'        },
-        { id: 'relacje/przyjaznie',       label: 'Przyjaźń',                        file: 'wiki/relacje/przyjaznie.md'       },
-        { id: 'relacje/rozstanie',        label: 'Rozpad zwiazku i zaloba',         file: 'wiki/relacje/rozstanie.md'        },
-        { id: 'relacje/relacje_rodzinne', label: 'Relacje rodzinne - dynamika',     file: 'wiki/relacje/relacje_rodzinne.md' },
+        { id: 'relacje/tworzenie_i_rozwoj_relacji_intymnej', label: 'Tworzenie i rozwój relacji intymnej', file: 'wiki/relacje/tworzenie_i_rozwoj_relacji_intymnej.md' },
+        { id: 'relacje/komunikacja_para', label: 'Komunikacja i konflikty w parze', file: 'wiki/relacje/komunikacja_para.md' },
+        { id: 'relacje/kryzys_zdrada_i_rozstanie', label: 'Kryzys związku, zdrada i rozstanie', file: 'wiki/relacje/kryzys_zdrada_i_rozstanie.md' },
+        { id: 'relacje/przemoc_zwiazki', label: 'Przemoc w związku', file: 'wiki/relacje/przemoc_zwiazki.md' },
+        { id: 'relacje/przyjazn_rodzina_i_samotnosc', label: 'Przyjaźń, rodzina i samotność', file: 'wiki/relacje/przyjazn_rodzina_i_samotnosc.md' },
       ]
     },
     { /* Etyka zawodowa */
@@ -1627,7 +1627,7 @@ window.SITE_CONFIG = {
     ],
     geropsychology: [
       { file: 'wiki/geropsychologia/wprowadzenie.md', label: 'Psychologia starzenia się i późnej dorosłości', status: 'live' },
-      { file: 'wiki/relacje/samotnosc.md', label: 'Samotność i izolacja społeczna w późnej dorosłości', status: 'xlink' },
+      { file: 'wiki/relacje/przyjazn_rodzina_i_samotnosc.md', label: 'Przyjaźń, rodzina i samotność', status: 'xlink' },
       { file: 'wiki/geropsychologia/poznanie_i_zdrowie_psychiczne_w_starosci.md', label: 'Funkcje poznawcze i zdrowie psychiczne', status: 'live' },
       { file: 'wiki/geropsychologia/pomoc_psychologiczna_i_opieka_w_starosci.md', label: 'Pomoc psychologiczna, opieka i koniec życia', status: 'live' },
     ],
@@ -1738,18 +1738,11 @@ window.SITE_CONFIG = {
       { file: 'wiki/uzaleznienia/uzaleznienie_w_rodzinie_i_u_mlodziezy.md', label: 'Uzależnienie w rodzinie i u młodzieży', status: 'live' },
     ],
     relacje: [
-      { file: 'wiki/relacje/przywiezanie_doroslych.md',          label: 'Style przywiazania u doroslych',     status: 'live' },
-      { file: 'wiki/relacje/trojkatna_teoria_milosci.md',        label: 'Triangularna teoria milosci',        status: 'live' },
-      { file: 'wiki/relacje/dobor_partnera.md',                  label: 'Dobor partnera',                     status: 'live' },
-      { file: 'wiki/relacje/komunikacja_para.md',                label: 'Komunikacja w parze',                status: 'live' },
-      { file: 'wiki/relacje/konflikty.md',                       label: 'Konflikty i ich rozwiazywanie',      status: 'live' },
-      { file: 'wiki/relacje/zdrada.md',                          label: 'Zdrada i odbudowa zaufania',         status: 'live' },
-      { file: 'wiki/relacje/terapia_par.md',                     label: 'Terapia par',                        status: 'live' },
-      { file: 'wiki/relacje/przemoc_zwiazki.md',                 label: 'Przemoc w związkach',                status: 'live' },
-      { file: 'wiki/relacje/samotnosc.md',                       label: 'Samotność i izolacja społeczna',     status: 'live' },
-      { file: 'wiki/relacje/przyjaznie.md',                      label: 'Przyjaźń',                           status: 'live' },
-      { file: 'wiki/relacje/rozstanie.md',                       label: 'Rozpad zwiazku i zaloba relacyjna',  status: 'live' },
-      { file: 'wiki/relacje/relacje_rodzinne.md',                label: 'Relacje rodzinne - dynamika',        status: 'live' },
+      { file: 'wiki/relacje/tworzenie_i_rozwoj_relacji_intymnej.md', label: 'Tworzenie i rozwój relacji intymnej', status: 'live' },
+      { file: 'wiki/relacje/komunikacja_para.md', label: 'Komunikacja i konflikty w parze', status: 'live' },
+      { file: 'wiki/relacje/kryzys_zdrada_i_rozstanie.md', label: 'Kryzys związku, zdrada i rozstanie', status: 'live' },
+      { file: 'wiki/relacje/przemoc_zwiazki.md', label: 'Przemoc w związku', status: 'live' },
+      { file: 'wiki/relacje/przyjazn_rodzina_i_samotnosc.md', label: 'Przyjaźń, rodzina i samotność', status: 'live' },
     ],
     etyka: [
       { file: 'wiki/etyka/kodeksy_etyczne.md',                   label: 'Kodeksy etyczne - przeglad',         status: 'live' },
@@ -2040,30 +2033,16 @@ window.SITE_CONFIG = {
 
     relacje: {
       title: 'WIKI - Relacje i związki',
-      intro: 'Psychologia bliskich relacji - przywiazanie, milosc, komunikacja, konflikty i terapia par.',
+      intro: 'Psychologia relacji intymnych i nieromantycznych: rozwój więzi, komunikacja, kryzysy, bezpieczeństwo i wsparcie społeczne.',
       sections: [
         {
-          title: 'Podstawy',
+          title: 'Pięć opracowań kanonicznych',
           articles: [
-            { label: 'Style przywiazania u doroslych', id: 'relacje/przywiezanie_doroslych', status: 'live' },
-            { label: 'Triangularna teoria milosci', id: 'relacje/trojkatna_teoria_milosci', status: 'live' },
-            { label: 'Dobor partnera', id: 'relacje/dobor_partnera', status: 'live' },
-          ]
-        },
-        {
-          title: 'Dynamika zwiazku',
-          articles: [
-            { label: 'Komunikacja w parze', id: 'relacje/komunikacja_para', status: 'live' },
-            { label: 'Konflikty i ich rozwiazywanie', id: 'relacje/konflikty', status: 'live' },
-            { label: 'Zdrada i odbudowa zaufania', id: 'relacje/zdrada', status: 'live' },
-          ]
-        },
-        {
-          title: 'Terapia i trudne sytuacje',
-          articles: [
-            { label: 'Terapia par', id: 'relacje/terapia_par', status: 'live' },
-            { label: 'Przemoc w związkach', id: 'relacje/przemoc_zwiazki', status: 'live' },
-            { label: 'Psychologia seksualności', id: 'seksuologia/seksuologia_wprowadzenie', status: 'xlink' },
+            { label: 'Tworzenie i rozwój relacji intymnej', id: 'relacje/tworzenie_i_rozwoj_relacji_intymnej', status: 'live' },
+            { label: 'Komunikacja i konflikty w parze', id: 'relacje/komunikacja_para', status: 'live' },
+            { label: 'Kryzys związku, zdrada i rozstanie', id: 'relacje/kryzys_zdrada_i_rozstanie', status: 'live' },
+            { label: 'Przemoc w związku', id: 'relacje/przemoc_zwiazki', status: 'live' },
+            { label: 'Przyjaźń, rodzina i samotność', id: 'relacje/przyjazn_rodzina_i_samotnosc', status: 'live' },
           ]
         },
         {
@@ -2074,15 +2053,6 @@ window.SITE_CONFIG = {
             { label: 'Odpowiedź seksualna, trudności i terapia', id: 'seksuologia/dysfunkcje', status: 'live' },
             { label: 'Kompulsywne zachowania seksualne', id: 'seksuologia/hiperseksualnosc_mechanizm', status: 'live' },
             { label: 'Trauma seksualna i konsekwencje przemocy', id: 'seksuologia/trauma_seksualna', status: 'live' },
-          ]
-        },
-        {
-          title: 'Inne relacje i utrata',
-          articles: [
-            { label: 'Samotność i izolacja społeczna',    id: 'relacje/samotnosc',        status: 'live' },
-            { label: 'Przyjaźń',                          id: 'relacje/przyjaznie',        status: 'live' },
-            { label: 'Rozpad zwiazku i zaloba relacyjna', id: 'relacje/rozstanie',         status: 'live' },
-            { label: 'Relacje rodzinne - dynamika',       id: 'relacje/relacje_rodzinne',  status: 'live' },
           ]
         },
       ]
@@ -2333,7 +2303,7 @@ window.SITE_CONFIG = {
           title: 'Podstawy i wprowadzenie',
           articles: [
             { label: 'Psychologia starzenia się i późnej dorosłości', id: 'geropsychologia/wprowadzenie', status: 'live' },
-            { label: 'Samotność i izolacja społeczna w późnej dorosłości', id: 'relacje/samotnosc', status: 'xlink' },
+            { label: 'Przyjaźń, rodzina i samotność', id: 'relacje/przyjazn_rodzina_i_samotnosc', status: 'xlink' },
             { label: 'Funkcje poznawcze i zdrowie psychiczne', id: 'geropsychologia/poznanie_i_zdrowie_psychiczne_w_starosci', status: 'live' },
             { label: 'Pomoc psychologiczna, opieka i koniec życia', id: 'geropsychologia/pomoc_psychologiczna_i_opieka_w_starosci', status: 'live' },
           ]

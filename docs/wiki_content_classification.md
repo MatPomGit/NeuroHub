@@ -57,7 +57,7 @@ Raport obejmuje wszystkie nieprzekierowujące pliki w `wiki/`, które przed klas
 | `wiki/reference/zakres.md` | dokumentacja redakcyjna |
 | `wiki/relacje/przyjaznie.md` | publiczny artykuł merytoryczny |
 | `wiki/relacje/relacje_rodzinne.md` | publiczny artykuł merytoryczny |
-| `wiki/relacje/rozstanie.md` | publiczny artykuł merytoryczny |
+| `wiki/relacje/kryzys_zdrada_i_rozstanie.md` | publiczny artykuł merytoryczny |
 | `wiki/rezyliencja_i_mobbing/budowanie_odpornosci.md` | publiczny artykuł merytoryczny |
 | `wiki/rezyliencja_i_mobbing/fazy_wypalenia.md` | publiczny artykuł merytoryczny |
 | `wiki/rezyliencja_i_mobbing/mobbing_definicja.md` | publiczny artykuł merytoryczny |

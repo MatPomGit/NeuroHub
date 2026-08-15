@@ -138,7 +138,7 @@ Jedna zmiana powinna obejmować małą, spójną grupę artykułów. Pozwala to 
 | 2026-07-30 | `wiki/emocje/wspolczucie.md` | `wiki/podstawy_pomocy/empatia_kontra_sympatia_brene_brown.md` |
 | 2026-07-30 | `wiki/etyka/kodeksy_etyczne.md` | `wiki/reference/etyka_psychologa.md` |
 | 2026-07-29 | `wiki/psychologia_zdrowia/jakosc_zycia.md` | `wiki/psychologia_niepelnosprawnosci/jakosc_zycia.md` |
-| 2026-07-29 | `wiki/relacje/samotnosc.md` | `wiki/geropsychologia/samotnosc.md` |
+| 2026-08-15 | `wiki/relacje/przyjazn_rodzina_i_samotnosc.md` | `wiki/geropsychologia/samotnosc.md` |
 | 2026-07-29 | `wiki/emocje/aleksytymia.md` | `wiki/psychosomatyka/aleksytymia.md` |
 | 2026-07-29 | `wiki/neuroroznorodnosc/spektrum_autyzmu.md` | `wiki/zaburzenia/asd.md` |
 | 2026-07-29 | `wiki/etyka/etyka_badan.md` | `wiki/seminarium_dyplomowe/etyka_badan.md` |

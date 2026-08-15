@@ -16,7 +16,7 @@ Psychologia starzenia się bada rozwój człowieka w późnej dorosłości: zmia
 - Starzenie nie jest jednolitym ciągiem strat. Niektóre zdolności słabną, inne pozostają stabilne, a wiedza i strategie regulacji emocji mogą stanowić zasób.
 - Dobra adaptacja nie oznacza braku chorób ani nieustannej aktywności. Oznacza możliwie dobre dopasowanie celów, zasobów i wsparcia do sytuacji osoby.
 - Jakość życia jest subiektywna i wielowymiarowa. Nie można jej wiarygodnie wywnioskować wyłącznie z rozpoznania medycznego lub miejsca zamieszkania.
-- Liczy się jakość i dostępność relacji, nie tylko liczba kontaktów. [Samotność i izolacja społeczna](/wiki/relacje/samotnosc.html) są zjawiskami odrębnymi.
+- Liczy się jakość i dostępność relacji, nie tylko liczba kontaktów. [Samotność i izolacja społeczna](/wiki/relacje/przyjazn_rodzina_i_samotnosc.html#samotność-i-obiektywna-izolacja) są zjawiskami odrębnymi.
 - Ageizm może ograniczać autonomię, dostęp do świadczeń i uczestnictwo społeczne. Równie mylący jest obraz starości wyłącznie jako upadku, jak i nakaz „wiecznej młodości”.
 
 ## Heterogeniczność starzenia
@@ -49,7 +49,7 @@ Praktyczne wspieranie jakości życia zaczyna się od pytania: „co jest dla te
 
 ## Relacje, wsparcie i uczestnictwo społeczne
 
-**Izolacja społeczna** oznacza obiektywnie małą liczbę kontaktów lub ról społecznych, natomiast **samotność** jest subiektywnym poczuciem, że relacje nie odpowiadają potrzebom. Osoba mieszkająca sama może nie być samotna, a osoba otoczona rodziną może doświadczać braku bliskości. Pełniejsze omówienie, również skutków zdrowotnych i interwencji, znajduje się w artykule kanonicznym o [samotności i izolacji społecznej](/wiki/relacje/samotnosc.html).
+**Izolacja społeczna** oznacza obiektywnie małą liczbę kontaktów lub ról społecznych, natomiast **samotność** jest subiektywnym poczuciem, że relacje nie odpowiadają potrzebom. Osoba mieszkająca sama może nie być samotna, a osoba otoczona rodziną może doświadczać braku bliskości. Pełniejsze omówienie, również skutków zdrowotnych i interwencji, znajduje się w artykule kanonicznym o [przyjaźni, rodzinie i samotności](/wiki/relacje/przyjazn_rodzina_i_samotnosc.html).
 
 Wsparcie może być emocjonalne, informacyjne, instrumentalne i materialne. Powinno wzmacniać sprawczość, a nie automatycznie zastępować osobę w decyzjach. Nadmierne wyręczanie może pogłębiać zależność, podobnie jak niedostateczna pomoc może uniemożliwiać udział w życiu społecznym.
 

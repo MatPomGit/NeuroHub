@@ -1,68 +1,89 @@
 ---
-lastReviewed: 2026-07-30
-reviewCycleMonths: 24
-evidenceCutoffDate: 2025-12-31
+title: Profilaktyka samobójstw, media i postwencja
+lastReviewed: 2026-08-15
+reviewCycleMonths: 12
+evidenceCutoffDate: 2026-08-15
 ---
 
-# Profilaktyka zachowań samobójczych
+# Profilaktyka samobójstw, media i postwencja
 
-Profilaktyka zachowań samobójczych obejmuje działania zmniejszające prawdopodobieństwo śmierci samobójczej, próby samobójczej i ponowienia zachowania po kryzysie. Nie sprowadza się do rozpoznawania „typu osoby zagrożonej”. Ten artykuł omawia interwencje swoiste dla zapobiegania zachowaniom samobójczym, natomiast zapobieganie szkodom związanym z używaniem substancji pozostaje odrębnym zagadnieniem kanonicznym.
+> W bezpośrednim zagrożeniu życia zadzwoń pod 112 lub zgłoś się do izby przyjęć/SOR. Inne zweryfikowane kontakty znajdują się w artykule [Ocena i interwencja w kryzysie samobójczym](ocena_i_interwencja_w_kryzysie_samobojczym.md).
 
-## Poziomy profilaktyki w skrócie
+Skuteczna profilaktyka łączy działania populacyjne, pomoc grupom szczególnie narażonym i opiekę nad osobami z aktualnymi objawami. Nie opiera się na jednej kampanii ani na rozpoznawaniu „typu osoby samobójczej”.
 
-Działania **uniwersalne** obejmują całą populację, **selektywne** grupy podwyższonego ryzyka, a **wskazane** osoby z oznakami kryzysu; podział określa odbiorców, nie skuteczność interwencji (WHO, 2021).
+## Trzy poziomy profilaktyki
 
-## Ograniczanie dostępu do metod
+- **Uniwersalna** obejmuje całą populację: odpowiedzialne regulacje i komunikację medialną, rozwijanie dostępnej opieki, przeciwdziałanie przemocy i stygmatyzacji oraz ograniczanie dostępu do niebezpiecznych metod.
+- **Selektywna** odpowiada na potrzeby grup narażonych na określone warunki, np. osób po wypisie psychiatrycznym, w żałobie samobójczej, doświadczających przemocy lub dotkniętych kryzysem ekonomicznym. Przynależność do grupy nie oznacza, że jednostka podejmie próbę.
+- **Wskazująca** jest kierowana do osób z myślami, próbą lub NSSI i obejmuje bezpośrednią ocenę, plan bezpieczeństwa, leczenie oraz aktywną ciągłość opieki.
 
-Ograniczanie dostępu do metod o wysokiej śmiertelności wydłuża czas między impulsem a działaniem i zwiększa szansę na przerwanie kryzysu. Obejmuje między innymi zabezpieczanie miejsc publicznych, kontrolę dostępu do toksycznych pestycydów i broni palnej oraz ograniczanie ilości leków wydawanych jednorazowo. Przegląd systematyczny wykazał, że zabezpieczenia w miejscach częstych skoków wiążą się ze spadkiem liczby samobójstw w tych lokalizacjach; nie stwierdzono przy tym pełnego przeniesienia zgonów do pobliskich miejsc (Pirkis i in., 2015). Po ograniczeniu wielkości opakowań paracetamolu w Wielkiej Brytanii obserwowano długotrwałe zmniejszenie liczby zgonów i przeszczepów wątroby związanych z zatruciem tym lekiem, choć badanie obserwacyjne nie dowodzi samodzielnie związku przyczynowego (Hawton i in., 2013).
+Poziomy powinny działać jednocześnie. Program szkolny nie naprawi niedostępności leczenia, a dobra opieka kliniczna nie zastąpi bezpiecznego środowiska.
 
-Interwencję należy dobierać do lokalnego profilu metod. Samo zalecenie osobie w kryzysie, aby „unikała zagrożenia”, nie zastępuje fizycznego zabezpieczenia ani uzgodnionego z nią planu bezpieczeństwa.
+## Interwencje systemowe i kliniczne
 
-## Bezpieczna komunikacja medialna
+WHO wskazuje cztery filary LIVE LIFE: ograniczanie dostępu do środków samobójczych, odpowiedzialne informowanie w mediach, rozwijanie kompetencji społeczno-emocjonalnych młodzieży oraz wczesne rozpoznawanie, ocenę, leczenie i dalszy kontakt (World Health Organization, 2021).
 
-Relacje medialne nie powinny podawać instruktażowych szczegółów metody, eksponować miejsca ani przedstawiać samobójstwa jako nieuchronnego skutku jednego wydarzenia. Zaleca się neutralny język, informacje o sygnałach kryzysu i dostępnej pomocy oraz historie osób, które poradziły sobie z kryzysem (WHO, 2023).
+### Ograniczanie dostępu do metod
 
-Badania obserwacyjne wskazują, że sensacyjne i szczegółowe relacje mogą wiązać się ze wzrostem zachowań naśladowczych, określanym jako **efekt Wertera**. Z kolei przekazy pokazujące konstruktywne radzenie sobie mogą działać ochronnie, co nazwano **efektem Papageno** (Niederkrotenthaler i in., 2010; Niederkrotenthaler i in., 2020). Nie oznacza to, że pojedynczy materiał wywołuje lub powstrzymuje konkretne zachowanie; znaczenie mają treść, zasięg, powtarzalność i podatność odbiorców.
+Czasowe i strukturalne ograniczanie dostępu wydłuża czas między impulsem a działaniem i zmniejsza prawdopodobieństwo zgonu. Obejmuje regulacje, bezpieczne przechowywanie, zabezpieczenia miejsc oraz indywidualne uzgodnienia w planie bezpieczeństwa. Komunikacja publiczna powinna opisywać zasadę, nie techniczne właściwości metod. Dowody populacyjne wskazują, że zastąpienie jednej metody inną nie niweluje automatycznie efektu (Yip et al., 2012).
 
-## Ciągłość opieki po kryzysie
+### Szkolenie personelu
 
-Okres po wypisie ze szpitala psychiatrycznego lub oddziału ratunkowego wymaga aktywnego przekazania opieki, a nie samego wręczenia skierowania. Minimalny standard obejmuje uzgodniony plan bezpieczeństwa, ograniczenie dostępu do metod, szybki termin wizyty, przekazanie informacji następnemu zespołowi oraz zaplanowany kontakt z osobą po wypisie.
+Szkolenia pracowników ochrony zdrowia, szkół, służb i instytucji powinny uczyć pytania wprost, empatycznej odpowiedzi, rozpoznawania zmiany stanu, procedur przekazania oraz własnych granic. Jednorazowe szkolenie bez nadzoru, dostępnych usług i audytu ścieżki pomocy ma ograniczoną wartość. „Gatekeeper” nie diagnozuje i nie bierze samodzielnej odpowiedzialności za całe bezpieczeństwo.
 
-W badaniu kohortowym wdrożenie *Safety Planning Intervention* wraz z telefonicznym kontaktem kontrolnym wiązało się z mniejszą liczbą zachowań samobójczych w ciągu sześciu miesięcy i częstszym korzystaniem z leczenia niż zwykła opieka; nierandomizowany projekt ogranicza jednak pewność wnioskowania (Stanley i in., 2018). Meta-analiza badań randomizowanych wykazała również, że krótkie kontakty podtrzymujące zmniejszały liczbę ponawianych samouszkodzeń lub prób przypadających na osobę, ale nie wykazała zmniejszenia odsetka osób ponawiających takie zachowanie (Milner i in., 2015). Dlatego kontakt kontrolny jest elementem ciągłości opieki, a nie zamiennikiem leczenia.
+### Ciągłość opieki
 
-## Interwencje szkolne
+Ryzyko może nasilać się podczas przejść między usługami. Skuteczny system umawia konkretny kontakt przed wypisem, przekazuje informacje za zgodą i zgodnie z prawem, aktywnie reaguje na nieobecność oraz zapewnia krótki kontakt wspierający. Plan bezpieczeństwa powinien podróżować razem z osobą, a odpowiedzialność za następny krok musi być jawna.
 
-Szkoła potrzebuje procedury obejmującej rozpoznanie sygnałów, rozmowę bez oceniania, ocenę bezpieczeństwa przez przygotowaną osobę, kontakt z opiekunami i służbami oraz działania po zdarzeniu. Program nie powinien ograniczać się do jednorazowego wykładu ani szczegółowego omawiania metod.
+## Media: efekt Wertera i Papageno
 
-W dużym randomizowanym badaniu klastrowym program **Youth Aware of Mental Health (YAM)** po 12 miesiącach zmniejszył liczbę nowych prób samobójczych i nasilonych myśli samobójczych względem grupy kontrolnej; w tym samym badaniu szkolenie strażników **QPR** nie wykazało takiego efektu dla tych wyników (Wasserman i in., 2015). Wyniku YAM nie należy automatycznie przenosić na dowolny program „edukacyjny”: interwencja miała określony scenariusz, przeszkolonych prowadzących i procedury bezpieczeństwa.
+**Efekt Wertera** oznacza wzrost zachowań samobójczych po nagłośnieniu samobójstwa, szczególnie gdy przekaz romantyzuje śmierć, upraszcza przyczyny, eksponuje metodę lub umożliwia identyfikację z osobą. Metaanaliza doniesień o śmierci celebrytów potwierdza związek z późniejszym wzrostem liczby zgonów (Niederkrotenthaler et al., 2020). Jest to efekt populacyjny, nie nieuchronna reakcja odbiorcy.
 
-## Szkolenie osób pierwszego kontaktu
+**Efekt Papageno** opisuje możliwy ochronny wpływ historii osób, które przeszły przez kryzys i znalazły inne rozwiązania. Pierwotne badanie wykazało zależność między przekazami o konstruktywnym radzeniu sobie a spadkiem wskaźników (Niederkrotenthaler et al., 2010). Nie każda „pozytywna historia” chroni; przekaz powinien być realistyczny, nie obarczać bohatera obowiązkiem inspiracji i wskazywać różne drogi pomocy.
 
-Osobami pierwszego kontaktu mogą być nauczyciele, lekarze podstawowej opieki zdrowotnej, ratownicy, policjanci, pracownicy pomocy społecznej i inne osoby, które zawodowo spotykają ludzi w kryzysie. Szkolenie powinno uczyć bezpośredniego pytania o myśli i zamiar samobójczy, reagowania bez moralizowania, zapewnienia doraźnego bezpieczeństwa oraz skutecznego skierowania do pomocy.
+### Zasady odpowiedzialnego informowania
 
-Szkolenia typu *gatekeeper training* poprawiają przede wszystkim wiedzę, postawy i deklarowaną pewność reagowania. Dowody, że same zmniejszają liczbę prób lub zgonów, pozostają ograniczone (Yonemoto i in., 2019). Z tego powodu kompetencje osób pierwszego kontaktu muszą być połączone z dostępną ścieżką konsultacji, możliwością pilnego przekazania pacjenta i nadzorem jakości.
+WHO zaleca, aby:
 
-## Wspólne czynniki ryzyka i współpraca międzysektorowa
+- nie opisywać metody ani miejsca w sposób szczegółowy i nie publikować materiałów wizualnych z nimi związanych;
+- nie przedstawiać śmierci jako skutku jednego zdarzenia, rozwiązania problemu, aktu heroicznego ani nieuniknionego następstwa diagnozy;
+- unikać sensacyjnych nagłówków, powtarzania materiału i eksponowania treści;
+- stosować język niestygmatyzujący i szanować prywatność osób zmarłych oraz bliskich;
+- dołączać aktualne ścieżki pomocy i informacje o rozpoznawaniu kryzysu;
+- pokazywać historie szukania pomocy, zdrowienia i konstruktywnego radzenia sobie;
+- szczególnie ostrożnie relacjonować śmierć osoby publicznej i moderować treści użytkowników.
 
-Używanie alkoholu i innych substancji może zwiększać ryzyko poprzez odhamowanie, nasilenie impulsywności, zatrucie i pogorszenie przebiegu zaburzeń psychicznych. Nie jest jednak ani konieczną, ani wystarczającą przyczyną zachowania samobójczego. Wczesne rozpoznawanie ryzykownego używania i redukcję szkód szerzej omawia odrębna [Profilaktyka uzależnień](../uzaleznienia/profilaktyka.md). Współpraca jest szczególnie ważna przy planowaniu wypisu, ponieważ opieka nad kryzysem samobójczym i problemem używania substancji nie powinna przebiegać w dwóch odizolowanych ścieżkach (WHO, 2021).
+Wolność informacji nie wymaga publikowania szczegółów zwiększających ryzyko. Redakcja powinna mieć protokół, przeszkolony zespół i procedurę aktualizacji kontaktów pomocowych (World Health Organization, 2023).
 
-## Ocena jakości działań
+## Postwencja
 
-Liczba przeszkolonych osób lub odsłon kampanii opisuje zasięg, nie skuteczność. Ewaluacja powinna osobno mierzyć wdrożenie, dostęp do dalszej pomocy, próby samobójcze, ponowne zgłoszenia oraz możliwe szkody. Rzadkie wyniki, takie jak zgony, wymagają odpowiednio dużych prób i długiej obserwacji. Przy projektach obserwacyjnych trzeba uwzględniać zmiany równoległe, trend historyczny i możliwość przeniesienia zachowań do innych metod lub miejsc.
+Postwencja to zaplanowane wsparcie osób, rodzin, grup zawodowych, szkół i społeczności po zgonie samobójczym. Jej cele obejmują pomoc w żałobie i traumie, identyfikowanie osób potrzebujących pilnej oceny, ograniczanie stygmatyzacji i dezinformacji, bezpieczną komunikację oraz przywracanie funkcjonowania wspólnoty. Może zmniejszać dalsze szkody, ale przede wszystkim odpowiada na rzeczywiste potrzeby osób dotkniętych stratą.
 
-## Wnioski
+### Pierwsze działania
 
-Najbardziej przekonujący model profilaktyki jest wieloelementowy: utrudnia dostęp do metod, kształtuje bezpieczną komunikację, nie traci kontaktu z osobą po kryzysie oraz daje szkołom i osobom pierwszego kontaktu realną ścieżkę działania. Każdy element wymaga osobnej oceny, ponieważ poprawa wiedzy lub zasięgu programu nie jest równoznaczna ze zmniejszeniem liczby zachowań samobójczych.
+Koordynator powinien potwierdzić fakty, skontaktować się z bliskimi z poszanowaniem ich życzeń, uruchomić wsparcie i ustalić spójny komunikat. Pomoc oferuje się elastycznie: część osób potrzebuje informacji i obecności, inne konsultacji klinicznej lub leczenia. Należy uwzględnić świadków, osoby blisko związane ze zmarłym, osoby z własną historią prób oraz pracowników zaangażowanych w pomoc.
+
+Upamiętnienie powinno respektować żałobę, a zarazem nie romantyzować śmierci ani tworzyć trwałego, eksponowanego miejsca, które skupia szczegóły zdarzenia. Zasady powinny być spójne z upamiętnianiem innych zgonów. Monitorowanie mediów społecznościowych musi szanować prywatność i nie może zamieniać się w inwigilację.
+
+### Odpowiedzialność instytucji
+
+Postwencja nie jest zarządzaniem reputacją. Ukrywanie informacji, uciszanie krytyki lub nacisk na szybki powrót do normalności może pogłębiać krzywdę. Instytucja powinna zapewnić niezależny przegląd procedur i luk w opiece, komunikować to, co może ujawnić, oraz wdrożyć wnioski bez poszukiwania kozła ofiarnego. Przegląd służy uczeniu się i bezpieczeństwu, nie przypisywaniu jednej przyczyny ani jednej osobie.
+
+Wsparcie nie kończy się po pogrzebie. Rocznice, postępowania wyjaśniające i powroty do pracy lub nauki mogą ponownie nasilać cierpienie. Potrzebne są późniejsze kontakty i łatwa ścieżka ponownego zgłoszenia.
+
+## Ocena programów
+
+Programy należy oceniać za pomocą wskaźników wdrożenia, dostępności i bezpieczeństwa, nie tylko liczby zgonów w krótkim okresie. Ważne są m.in. czas do kontaktu po wypisie, odsetek aktywnych przekazań, korzystanie z pomocy, doświadczenie osób z kryzysem i bliskich oraz niezamierzone szkody. Ewaluacja powinna chronić dane i włączać osoby z doświadczeniem kryzysu.
+
+## Przegląd kliniczny i kontrola bezpieczeństwa
+
+Artykuł sprawdzono 15 sierpnia 2026 roku pod kątem zgodności z WHO, niewłączania szczegółów metod, rozróżnienia efektów Wertera i Papageno oraz traktowania postwencji jako wsparcia, a nie ochrony reputacji.
 
 ## Bibliografia
 
-- Hawton, K., Bergen, H., Simkin, S., Dodd, S., Pocock, P., Bernal, W., Gunnell, D., & Kapur, N. (2013). Long term effect of reduced pack sizes of paracetamol on poisoning deaths and liver transplant activity in England and Wales: interrupted time series analyses. *BMJ, 346*, f403. https://doi.org/10.1136/bmj.f403
-- Milner, A. J., Carter, G., Pirkis, J., Robinson, J., & Spittal, M. J. (2015). Letters, green cards, telephone calls and postcards: systematic and meta-analytic review of brief contact interventions for reducing self-harm, suicide attempts and suicide. *British Journal of Psychiatry, 206*(3), 184–190. https://doi.org/10.1192/bjp.bp.114.147819
-- Niederkrotenthaler, T., Braun, M., Pirkis, J., Till, B., Stack, S., Sinyor, M., Tran, U. S., Voracek, M., Cheng, Q., Arendt, F., Scherr, S., Yip, P. S. F., & Spittal, M. J. (2020). Association between suicide reporting in the media and suicide: systematic review and meta-analysis. *BMJ, 368*, m575. https://doi.org/10.1136/bmj.m575
-- Niederkrotenthaler, T., Voracek, M., Herberth, A., Till, B., Strauss, M., Etzersdorfer, E., Eisenwort, B., & Sonneck, G. (2010). Role of media reports in completed and prevented suicide: Werther v. Papageno effects. *British Journal of Psychiatry, 197*(3), 234–243. https://doi.org/10.1192/bjp.bp.109.074633
-- Pirkis, J., Spittal, M. J., Cox, G., Robinson, J., Cheung, Y. T. D., & Studdert, D. (2015). The effectiveness of structural interventions at suicide hotspots: a meta-analysis. *International Journal of Epidemiology, 44*(2), 541–548. https://doi.org/10.1093/ije/dyu227
-- Stanley, B., Brown, G. K., Brenner, L. A., Galfalvy, H. C., Currier, G. W., Knox, K. L., Chaudhury, S. R., Bush, A. L., & Green, K. L. (2018). Comparison of the Safety Planning Intervention with follow-up vs usual care of suicidal patients treated in the emergency department. *JAMA Psychiatry, 75*(9), 894–900. https://doi.org/10.1001/jamapsychiatry.2018.1776
-- Wasserman, D., Hoven, C. W., Wasserman, C., Wall, M., Eisenberg, R., Hadlaczky, G., Kelleher, I., Sarchiapone, M., Apter, A., Balazs, J., Bobes, J., Brunner, R., Corcoran, P., Cosman, D., Guillemin, F., Haring, C., Iosue, M., Kaess, M., Kahn, J.-P., Keeley, H., Musa, G. J., Nemes, B., Postuvan, V., Saiz, P., Reiter-Theil, S., Varnik, A., Varnik, P., & Carli, V. (2015). School-based suicide prevention programmes: the SEYLE cluster-randomised, controlled trial. *The Lancet, 385*(9977), 1536–1544. https://doi.org/10.1016/S0140-6736(14)61213-7
-- World Health Organization. (2021). *Live life: an implementation guide for suicide prevention in countries*. WHO.
-- World Health Organization. (2023). *Preventing suicide: a resource for media professionals, update 2023*. WHO.
-- Yonemoto, N., Kawashima, Y., Endo, K., & Yamada, M. (2019). Gatekeeper training for suicidal behaviors: a systematic review. *Journal of Affective Disorders, 246*, 506–514. https://doi.org/10.1016/j.jad.2018.12.052
+- Andriessen, K., Krysinska, K., & Grad, O. T. (Eds.). (2017). *Postvention in action: The international handbook of suicide bereavement support*. Hogrefe. [https://doi.org/10.1027/00424-000](https://doi.org/10.1027/00424-000)
+- Niederkrotenthaler, T., Braun, M., Pirkis, J., Till, B., Stack, S., Sinyor, M., Tran, U. S., Voracek, M., Cheng, Q., Arendt, F., Scherr, S., Yip, P. S. F., & Spittal, M. J. (2020). Association between suicide reporting in the media and suicide: Systematic review and meta-analysis. *BMJ, 368*, m575. [https://doi.org/10.1136/bmj.m575](https://doi.org/10.1136/bmj.m575)
+- Niederkrotenthaler, T., Voracek, M., Herberth, A., Till, B., Strauss, M., Etzersdorfer, E., Eisenwort, B., & Sonneck, G. (2010). Role of media reports in completed and prevented suicide: Werther v. Papageno effects. *British Journal of Psychiatry, 197*(3), 234–243. [https://doi.org/10.1192/bjp.bp.109.074633](https://doi.org/10.1192/bjp.bp.109.074633)
+- World Health Organization. (2021). *LIVE LIFE: An implementation guide for suicide prevention in countries*. https://www.who.int/publications/i/item/9789240026629
+- World Health Organization. (2023). *Preventing suicide: A resource for media professionals, update 2023*. https://www.who.int/publications/i/item/9789240076846
+- Yip, P. S. F., Caine, E., Yousuf, S., Chang, S.-S., Wu, K. C.-C., & Chen, Y.-Y. (2012). Means restriction for suicide prevention. *The Lancet, 379*(9834), 2393–2399. [https://doi.org/10.1016/S0140-6736(12)60521-2](https://doi.org/10.1016/S0140-6736(12)60521-2)

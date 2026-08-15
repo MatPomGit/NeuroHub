@@ -1,58 +1,69 @@
-﻿---
-lastReviewed: 2026-04-01
-reviewCycleMonths: 24
-evidenceCutoffDate: 2025-12-31
+---
+title: Samouszkodzenia bez intencji samobójczej (NSSI)
+aliases:
+  - NSSI
+lastReviewed: 2026-08-15
+reviewCycleMonths: 12
+evidenceCutoffDate: 2026-08-15
 ---
 
-# Samookaleczenia (NSSI)
+# Samouszkodzenia bez intencji samobójczej (NSSI)
 
-Niesuicydalne samookaleczenia - definicja, funkcje, rozpowszechnienie, ocena i metody leczenia.
+> Jeśli występuje zamiar śmierci, niemożność zachowania bezpieczeństwa, ciężki uraz lub zatrucie, potrzebna jest pilna pomoc: numer 112 albo izba przyjęć/SOR. Inne kontakty zawiera artykuł [Ocena i interwencja w kryzysie samobójczym](ocena_i_interwencja_w_kryzysie_samobojczym.md).
 
-## Czym jest NSSI?
+**Samouszkodzenie bez intencji samobójczej** (*non-suicidal self-injury*, NSSI) oznacza celowe, bezpośrednie uszkadzanie własnego ciała bez intencji spowodowania śmierci i bez społecznie akceptowanego celu. Definicja dotyczy intencji i funkcji w danym epizodzie, nie „typu osoby”. Artykuł świadomie nie wymienia ani nie porównuje metod.
 
-*Niesuicydalne samookaleczenia* (NSSI, *Non-Suicidal Self-Injury*) to celowe, bezpośrednie uszkadzanie własnej tkanki ciała bez zamiaru zakończenia życia. Najczęstsze metody: cięcie (cutting), przypalanie, uderzanie, drapanie, wyrywanie włosów. DSM-5 uwzględnia NSSI jako stan wymagający dalszych badań (Not Yet a Disorder).
+## NSSI a próba samobójcza
 
-> NSSI należy odróżniać od prób samobójczych: brak intencji śmierci, choć NSSI jest **istotnym czynnikiem ryzyka** późniejszej próby samobójczej. Współwystępowanie prób suicydalnych i NSSI wynosi ok. 50%.
+W próbie samobójczej występuje co najmniej częściowy zamiar śmierci; w NSSI go nie ma. Ciężkość urazu nie pozwala sama ustalić intencji: medycznie niewielki skutek może towarzyszyć zamiarowi śmierci, a NSSI może wymagać pilnego leczenia. Intencja bywa ambiwalentna, zmienna lub trudna do nazwania, dlatego każdy epizod wymaga spokojnego pytania o to, czego osoba oczekiwała i co chciała zmienić.
 
-## Epidemiologia
-
-Szacunkowa częstość NSSI w ciągu życia: **17–35% adolescentów**, **4–6% dorosłych**. Szczyt onset: wczesna adolescencja (12–15 lat). Historycznie wiązane głównie z dziewczętami, ale badania wskazują na wyrównywanie różnic płciowych.
+Rozróżnienie nie oznacza rozdzielenia opieki. NSSI i myśli lub próby samobójcze mogą występować u tej samej osoby, równocześnie albo w różnych okresach. Metaanaliza badań podłużnych wykazała, że wcześniejsze zachowania samouszkadzające są grupowym czynnikiem ryzyka późniejszych myśli i zachowań samobójczych, ale nie pozwalają przewidzieć losu konkretnej osoby (Ribeiro et al., 2016). NSSI nie należy więc ani automatycznie nazywać próbą, ani bagatelizować.
 
 ## Funkcje NSSI
 
-Model funkcjonalny Klatza i Fleischer wyróżnia dwie domeny:
-- **Regulacja emocjonalna intrapersonalna**: redukcja dyskomfortu emocjonalnego, wyrażenie bólu, samokaranie, generowanie poczucia realności (przy dysocjacji);
-- **Funkcje społeczne**: komunikacja cierpienia, szukanie wsparcia, integracja z grupą.
+Funkcja oznacza następstwo, które zwiększa prawdopodobieństwo powtórzenia zachowania. Ta sama osoba może doświadczać kilku funkcji, a funkcja może się zmieniać.
 
-Najczęstszą funkcją jest redukcja intensywnych, nieznośnych emocji - NSSI dostarcza krótkotrwałej ulgi (negatywne wzmocnienie), co tłumaczy trudność zaprzestania.
+### Regulacja wewnętrzna
 
-## Ocena kliniczna
+NSSI może krótkotrwale zmniejszać intensywne napięcie, lęk, złość, wstyd, natrętne myśli lub odrętwienie, a także przywracać poczucie kontroli. Krótkotrwała ulga wzmacnia zachowanie, choć długofalowo może zwiększać wstyd, urazy i zależność od tej strategii. To opis uczenia się, nie aprobata zachowania.
 
-Ocena NSSI powinna obejmować: metody i lokalizację ran, częstość, intensywność bólu, medyczne konsekwencje, kontekst (wyzwalacze, myśli), funkcje (co NSSI osiąga), obecność myśli suicydalnych, historię prób, zasoby wsparcia.
+### Funkcje interpersonalne
 
-## Leczenie
+Zachowanie może komunikować cierpienie, którego osoba nie potrafi wyrazić słowami, sygnalizować potrzebę pomocy, wpływać na dystans w relacji albo przerywać konflikt. Określenie go jako „manipulacji” upraszcza sytuację i karze za komunikowanie potrzeb. Trafniejsze jest pytanie, jaka potrzeba pozostaje niezaspokojona i jak można ją wyrazić bezpieczniej.
 
-**DBT** jest terapią pierwszego wyboru - techniki tolerancji dystresu (TIP, TIPP, ACCEPTS) oferują alternatywy dla NSSI jako regulacji emocji. **CBT**, **MBT** i **EMDR** (jeśli podłoże traumatyczne) są skutecznymi alternatywami. Nie ma leków zatwierdzonych specyficznie dla NSSI; farmakoterapia adresuje zaburzenia współwystępujące.
+### Funkcje kontekstowe i tożsamościowe
 
-## Perspektywa nieoczywista
+Znaczenie mogą mieć przemoc, unieważnianie emocji, konflikt rodzinny, presja rówieśnicza, treści internetowe, dyskryminacja, wymagania szkolne, ból lub trudności sensoryczne. U części osób zachowanie wiąże się z samokaraniem albo granicami własnego ciała. Kontekst wyjaśnia, ale nie obwinia rodziny ani osoby. Ekspozycja internetowa wymaga rozmowy o bezpieczeństwie bez zawstydzania i bez powtarzania szczegółowych treści.
 
-Nieoczywista perspektywa na temat "Samookaleczenia (NSSI)" polega na tym, że w suicydologii najważniejsze jest odchodzenie od prostych wyjaśnień na rzecz wieloczynnikowego rozumienia kryzysu, podatności i dostępnych punktów interwencji.
+Najlepiej potwierdzony model funkcjonalny grupuje następstwa według tego, czy regulują stan wewnętrzny czy otoczenie społeczne oraz czy usuwają doświadczenie awersyjne, czy dostarczają pożądanego (Nock, 2009). Model porządkuje pytania, lecz nie zastępuje indywidualnej formulacji.
 
-Dopiero wspólna analiza zagadnień takich jak czym jest nssi?, funkcje nssi oraz leczenie pokazuje pełny zakres omawianego zjawiska.
+## Profesjonalna ocena
 
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
+Ocena specjalisty jest wskazana zawsze, gdy NSSI się powtarza, nasila, powoduje urazy, pojawia się po raz pierwszy u dziecka lub nastolatka, współwystępuje z objawami psychicznymi, przemocą, używaniem substancji albo utrudnia codzienne funkcjonowanie. Pilna ocena jest konieczna przy niejasnej intencji, myślach o śmierci, zamiarze lub planie samobójczym, niedawnej próbie, ciężkim urazie, zatruciu, psychozie, silnym pobudzeniu lub braku możliwości zachowania bezpieczeństwa.
 
-## Podsumowanie
+Ocena obejmuje:
 
-Temat "Samookaleczenia (NSSI)" pokazuje, że najbardziej praktyczne wnioski pojawiają się wtedy, gdy łączy się ocenę ryzyka z analizą funkcji zachowania, wsparcia i możliwości ochronnych.
+- intencję w konkretnym epizodzie oraz aktualne myśli, zamiar i plan samobójczy;
+- funkcje, wyzwalacze, częstotliwość, zmianę wzorca i skutki medyczne, bez niepotrzebnego odtwarzania metod;
+- depresję, lęk, PTSD, zaburzenia odżywiania, używanie substancji, sen, ból i rozwój neuroróżnorodny;
+- przemoc, bezpieczeństwo domu, relacje, szkołę lub pracę i aktywność internetową;
+- strategie, które już pomagają, wspierające osoby i dostęp do profesjonalnej opieki.
 
+U młodej osoby opiekunów włącza się z uwzględnieniem bezpieczeństwa, rozwoju, poufności i obowiązków prawnych. Gdy opiekun może być źródłem przemocy, ujawnianie informacji wymaga szczególnego planu ochrony.
 
-Dopiero wspólna analiza zagadnień takich jak czym jest nssi?, funkcje nssi oraz leczenie pokazuje pełny zakres omawianego zjawiska.
+## Pomoc
+
+Pierwsza odpowiedź powinna łączyć troskę, leczenie urazu i ciekawość funkcji: „Dziękuję, że mi mówisz. Chcę zrozumieć, co działo się wcześniej i pomóc ci zachować bezpieczeństwo”. Kary, groźby, kontrole ciała bez wskazań i wymuszanie obietnic zwiększają wstyd i mogą przenieść zachowanie do ukrycia.
+
+Plan pomocy może obejmować rozpoznawanie sygnałów, bezpieczne strategie regulacji dopasowane do funkcji, umiejętności komunikowania potrzeb, modyfikację środowiska, leczenie współwystępujących trudności i plan bezpieczeństwa na wypadek myśli samobójczych. DBT ma potwierdzoną skuteczność w ograniczaniu samouszkodzeń u części młodzieży, a interwencję dobiera się do wieku, formulacji i dostępności (Kothgassner et al., 2021). Nie ma jednej „zamiennej czynności” odpowiedniej dla wszystkich.
+
+## Przegląd kliniczny i kontrola bezpieczeństwa
+
+Artykuł sprawdzono 15 sierpnia 2026 roku pod kątem wyraźnego rozdzielenia NSSI i próby, oceny współwystępującego ryzyka, języka niestygmatyzującego oraz usunięcia opisów mogących działać instruktażowo.
 
 ## Bibliografia
 
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+- International Society for the Study of Self-Injury. (2018). *What is self-injury?* https://www.itriples.org/what-is-nssi
+- Kothgassner, O. D., Goreis, A., Robinson, K., Huscsava, M. M., Schmahl, C., & Plener, P. L. (2021). Efficacy of dialectical behavior therapy for adolescent self-harm and suicidal ideation: A systematic review and meta-analysis. *Psychological Medicine, 51*(7), 1057–1067. [https://doi.org/10.1017/S0033291721001355](https://doi.org/10.1017/S0033291721001355)
+- Nock, M. K. (2009). Why do people hurt themselves? New insights into the nature and functions of self-injury. *Current Directions in Psychological Science, 18*(2), 78–83. [https://doi.org/10.1111/j.1467-8721.2009.01613.x](https://doi.org/10.1111/j.1467-8721.2009.01613.x)
+- Ribeiro, J. D., Franklin, J. C., Fox, K. R., Bentley, K. H., Kleiman, E. M., Chang, B. P., & Nock, M. K. (2016). Self-injurious thoughts and behaviors as risk factors for future suicide ideation, attempts, and death: A meta-analysis of longitudinal studies. *Psychological Medicine, 46*(2), 225–236. [https://doi.org/10.1017/S0033291715001804](https://doi.org/10.1017/S0033291715001804)

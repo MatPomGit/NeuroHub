@@ -15,6 +15,14 @@ window.SITE_CONFIG = {
 
   // Zachowuje dawne adresy SPA po scaleniu lub przeniesieniu artykułów.
   articleRedirects: {
+    'neuroroznorodnosc/identyfikacja_i_diagnoza': 'neuroroznorodnosc/wprowadzenie',
+    'neuroroznorodnosc/model_mocnych_stron': 'neuroroznorodnosc/wprowadzenie',
+    'neuroroznorodnosc/profil_sensoryczny': 'neuroroznorodnosc/spektrum_autyzmu',
+    'neuroroznorodnosc/dyskalkulia': 'neuroroznorodnosc/specyficzne_roznice_rozwojowe_i_tiki',
+    'neuroroznorodnosc/dyspraksja': 'neuroroznorodnosc/specyficzne_roznice_rozwojowe_i_tiki',
+    'neuroroznorodnosc/hiperleksja': 'neuroroznorodnosc/specyficzne_roznice_rozwojowe_i_tiki',
+    'neuroroznorodnosc/tourette': 'neuroroznorodnosc/specyficzne_roznice_rozwojowe_i_tiki',
+    'neuroroznorodnosc/neurozroznorodnosc_w_pracy': 'neuroroznorodnosc/wsparcie_interwencje',
     'rezyliencja_i_mobbing/budowanie_odpornosci': 'rezyliencja_i_mobbing/odpornosc_wprowadzenie',
     'rezyliencja_i_mobbing/modele_odpornosci': 'rezyliencja_i_mobbing/odpornosc_wprowadzenie',
     'rezyliencja_i_mobbing/mobbing_interwencja': 'rezyliencja_i_mobbing/mobbing_definicja',
@@ -1105,22 +1113,14 @@ window.SITE_CONFIG = {
       ]
     },
     { /* Neuroroznorodnosc i neurodiversity */
-      section: 'Neuroroznorodnosc',
+      section: 'Neuroróżnorodność',
       domainKey: 'neuroroznorodnosc',
       items: [
-        { id: 'neuroroznorodnosc/wprowadzenie',               label: 'Neuroroznorodnosc',                    file: 'wiki/neuroroznorodnosc/wprowadzenie.md'               },
-        { id: 'neuroroznorodnosc/adhd',                       label: 'ADHD jako wariant neuroroznorodnosci', file: 'wiki/neuroroznorodnosc/adhd.md'                       },
-        { id: 'neuroroznorodnosc/spektrum_autyzmu', label: 'Spektrum autyzmu (ASD)', aliases: ['Spektrum autyzmu', 'Autyzm', 'ASD'], file: 'wiki/neuroroznorodnosc/spektrum_autyzmu.md' },
-        { id: 'neuroroznorodnosc/dysleksja',                  label: 'Dysleksja',                            file: 'wiki/neuroroznorodnosc/dysleksja.md'                  },
-        { id: 'neuroroznorodnosc/dyskalkulia',                label: 'Dyskalkulia',                          file: 'wiki/neuroroznorodnosc/dyskalkulia.md'                },
-        { id: 'neuroroznorodnosc/dyspraksja',                 label: 'Dyspraksja i DCD',                     file: 'wiki/neuroroznorodnosc/dyspraksja.md'                 },
-        { id: 'neuroroznorodnosc/profil_sensoryczny',         label: 'Profil sensoryczny',                   file: 'wiki/neuroroznorodnosc/profil_sensoryczny.md'         },
-        { id: 'neuroroznorodnosc/tourette',                   label: "Zespół Tourette'a i tiki",            file: 'wiki/neuroroznorodnosc/tourette.md'                   },
-        { id: 'neuroroznorodnosc/hiperleksja',                label: 'Hiperleksja i wyjatkowe zdolnosci',    file: 'wiki/neuroroznorodnosc/hiperleksja.md'                },
-        { id: 'neuroroznorodnosc/model_mocnych_stron',        label: 'Model mocnych stron',                  file: 'wiki/neuroroznorodnosc/model_mocnych_stron.md'        },
-        { id: 'neuroroznorodnosc/wsparcie_interwencje',       label: 'Wsparcie i interwencje',               file: 'wiki/neuroroznorodnosc/wsparcie_interwencje.md'       },
-        { id: 'neuroroznorodnosc/neurozroznorodnosc_w_pracy', label: 'Neuroróżnorodność w miejscu pracy',   file: 'wiki/neuroroznorodnosc/neurozroznorodnosc_w_pracy.md' },
-        { id: 'neuroroznorodnosc/identyfikacja_i_diagnoza',   label: 'Identyfikacja i diagnoza',             file: 'wiki/neuroroznorodnosc/identyfikacja_i_diagnoza.md'   },
+        { id: 'neuroroznorodnosc/wprowadzenie', label: 'Neuroróżnorodność, identyfikacja i modele', file: 'wiki/neuroroznorodnosc/wprowadzenie.md' },
+        { id: 'neuroroznorodnosc/adhd', label: 'ADHD', file: 'wiki/neuroroznorodnosc/adhd.md' },
+        { id: 'neuroroznorodnosc/spektrum_autyzmu', label: 'Spektrum autyzmu i przetwarzanie sensoryczne', aliases: ['Spektrum autyzmu', 'Autyzm', 'ASD'], file: 'wiki/neuroroznorodnosc/spektrum_autyzmu.md' },
+        { id: 'neuroroznorodnosc/specyficzne_roznice_rozwojowe_i_tiki', label: 'Specyficzne różnice rozwojowe i tiki', file: 'wiki/neuroroznorodnosc/specyficzne_roznice_rozwojowe_i_tiki.md' },
+        { id: 'neuroroznorodnosc/wsparcie_interwencje', label: 'Wsparcie w edukacji, pracy i życiu codziennym', file: 'wiki/neuroroznorodnosc/wsparcie_interwencje.md' },
       ]
     },
     { /* Psychoterapia */
@@ -1677,19 +1677,11 @@ window.SITE_CONFIG = {
       { file: 'wiki/psychologia_szkolna/ocenianie_i_informacja_zwrotna.md', label: 'Ocenianie, informacja zwrotna i relacja edukacyjna', status: 'live' },
     ],
     neurodiversity: [
-      { file: 'wiki/neuroroznorodnosc/wprowadzenie.md',               label: 'Neuroroznorodnosc',                    status: 'live' },
-      { file: 'wiki/neuroroznorodnosc/adhd.md',                       label: 'ADHD jako wariant neuroroznorodnosci', status: 'live' },
-      { file: 'wiki/neuroroznorodnosc/spektrum_autyzmu.md',           label: 'Spektrum autyzmu (ASD)',               status: 'live' },
-      { file: 'wiki/neuroroznorodnosc/dysleksja.md',                  label: 'Dysleksja',                            status: 'live' },
-      { file: 'wiki/neuroroznorodnosc/dyskalkulia.md',                label: 'Dyskalkulia',                          status: 'live' },
-      { file: 'wiki/neuroroznorodnosc/dyspraksja.md',                 label: 'Dyspraksja i DCD',                     status: 'live' },
-      { file: 'wiki/neuroroznorodnosc/profil_sensoryczny.md',         label: 'Profil sensoryczny',                   status: 'live' },
-      { file: 'wiki/neuroroznorodnosc/tourette.md',                   label: "Zespol Tourette'a i tiki",             status: 'live' },
-      { file: 'wiki/neuroroznorodnosc/hiperleksja.md',                label: 'Hiperleksja i wyjatkowe zdolnosci',    status: 'live' },
-      { file: 'wiki/neuroroznorodnosc/model_mocnych_stron.md',        label: 'Model mocnych stron',                  status: 'live' },
-      { file: 'wiki/neuroroznorodnosc/wsparcie_interwencje.md',       label: 'Wsparcie i interwencje',               status: 'live' },
-      { file: 'wiki/neuroroznorodnosc/neurozroznorodnosc_w_pracy.md', label: 'Neuroroznorodnosc w miejscu pracy',    status: 'live' },
-      { file: 'wiki/neuroroznorodnosc/identyfikacja_i_diagnoza.md',   label: 'Identyfikacja i diagnoza',             status: 'live' },
+      { file: 'wiki/neuroroznorodnosc/wprowadzenie.md', label: 'Neuroróżnorodność, identyfikacja i modele', status: 'live' },
+      { file: 'wiki/neuroroznorodnosc/adhd.md', label: 'ADHD', status: 'live' },
+      { file: 'wiki/neuroroznorodnosc/spektrum_autyzmu.md', label: 'Spektrum autyzmu i przetwarzanie sensoryczne', status: 'live' },
+      { file: 'wiki/neuroroznorodnosc/specyficzne_roznice_rozwojowe_i_tiki.md', label: 'Specyficzne różnice rozwojowe i tiki', status: 'live' },
+      { file: 'wiki/neuroroznorodnosc/wsparcie_interwencje.md', label: 'Wsparcie w edukacji, pracy i życiu codziennym', status: 'live' },
     ],
     forensic_psychology: [
       { file: 'wiki/psychologia_sadowa/wprowadzenie.md', label: 'Opiniowanie psychologiczne dla sądu', status: 'live' },
@@ -2451,42 +2443,17 @@ window.SITE_CONFIG = {
 
     neurozroznorodnosc: {
       title: 'WIKI - Neuroróżnorodność',
-      intro: 'Neuroróżnorodność to koncepcja uznająca naturalne różnice neurologiczne - takie jak autyzm, ADHD, dysleksja, dyskalkulia czy dyspraksja - za warianty ludzkiego mózgu, a nie zaburzenia wymagające "naprawy". Encyklopedia obejmuje zagadnienia od podstaw teoretycznych neuroróżnorodności, przez poszczególne profile neurologiczne, po modele mocnych stron, wsparcie, interwencje i inkluzję zawodową.',
-      sections: [
-        {
-          title: 'Podstawy i profile',
-          articles: [
-            { label: 'Neuroróżnorodność',     id: 'neuroroznorodnosc/wprowadzenie',     status: 'live' },
-            { label: 'ADHD jako wariant neuroróżnorodności', id: 'neuroroznorodnosc/adhd',             status: 'live' },
-            { label: 'Spektrum autyzmu (ASD)',                id: 'neuroroznorodnosc/spektrum_autyzmu', status: 'live' },
-          ]
-        },
-        {
-          title: 'Trudnosci uczenia się',
-          articles: [
-            { label: 'Dysleksja',        id: 'neuroroznorodnosc/dysleksja',   status: 'live' },
-            { label: 'Dyskalkulia',      id: 'neuroroznorodnosc/dyskalkulia', status: 'live' },
-            { label: 'Dyspraksja i DCD', id: 'neuroroznorodnosc/dyspraksja',  status: 'live' },
-          ]
-        },
-        {
-          title: 'Inne profile i zdolnosci',
-          articles: [
-            { label: 'Profil sensoryczny',                 id: 'neuroroznorodnosc/profil_sensoryczny', status: 'live' },
-            { label: "Zespół Tourette'a i tiki",         id: 'neuroroznorodnosc/tourette',    status: 'live' },
-            { label: 'Hiperleksja i wyjatkowe zdolnosci', id: 'neuroroznorodnosc/hiperleksja', status: 'live' },
-          ]
-        },
-        {
-          title: 'Wsparcie i inkluzja',
-          articles: [
-            { label: 'Model mocnych stron',                id: 'neuroroznorodnosc/model_mocnych_stron',        status: 'live' },
-            { label: 'Wsparcie i interwencje',             id: 'neuroroznorodnosc/wsparcie_interwencje',       status: 'live' },
-            { label: 'Neuroróżnorodność w miejscu pracy', id: 'neuroroznorodnosc/neurozroznorodnosc_w_pracy', status: 'live' },
-            { label: 'Identyfikacja i diagnoza',           id: 'neuroroznorodnosc/identyfikacja_i_diagnoza',   status: 'live' },
-          ]
-        },
-      ]
+      intro: 'Rzetelne omówienie neuroróżnorodności, rozpoznawania profili neurorozwojowych oraz indywidualnie dobieranego wsparcia.',
+      sections: [{
+        title: 'Artykuły',
+        articles: [
+          { label: 'Neuroróżnorodność, identyfikacja i modele', id: 'neuroroznorodnosc/wprowadzenie', status: 'live' },
+          { label: 'ADHD', id: 'neuroroznorodnosc/adhd', status: 'live' },
+          { label: 'Spektrum autyzmu i przetwarzanie sensoryczne', id: 'neuroroznorodnosc/spektrum_autyzmu', status: 'live' },
+          { label: 'Specyficzne różnice rozwojowe i tiki', id: 'neuroroznorodnosc/specyficzne_roznice_rozwojowe_i_tiki', status: 'live' },
+          { label: 'Wsparcie w edukacji, pracy i życiu codziennym', id: 'neuroroznorodnosc/wsparcie_interwencje', status: 'live' },
+        ]
+      }]
     },
 
     psych_sadowa: {

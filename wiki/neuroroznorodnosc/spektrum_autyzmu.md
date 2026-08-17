@@ -6,7 +6,7 @@ reviewCycleMonths: 12
 evidenceCutoffDate: 2026-07-29
 ---
 
-# Spektrum autyzmu
+# Spektrum autyzmu i przetwarzanie sensoryczne
 
 Spektrum autyzmu jest neurorozwojowym zróżnicowaniem funkcjonowania, rozpoznawanym na podstawie trwałych różnic w komunikacji i interakcjach społecznych oraz ograniczonych lub powtarzalnych wzorców zachowania, zainteresowań i aktywności. Obraz funkcjonowania jest bardzo zróżnicowany. Obejmuje zarówno osoby wymagające stałego, intensywnego wsparcia, jak i osoby żyjące samodzielnie.
 
@@ -42,13 +42,17 @@ Przewidywalność i możliwość przygotowania się do zmiany mogą ograniczać 
 
 ## Przetwarzanie sensoryczne
 
+Sensoryka jest jednym z możliwych elementów kryterium powtarzalnych i ograniczonych wzorców, a nie odrębnym warunkiem wystarczającym do rozpoznania autyzmu. Różnice sensoryczne występują także w ADHD, migrenie, zaburzeniach lękowych i rozwojowym zaburzeniu koordynacji oraz u osób bez diagnozy. Sam kwestionariusz „profilu sensorycznego” nie rozstrzyga zatem, czy osoba jest autystyczna.
+
 Osoby autystyczne mogą wykazywać nadreaktywność, podreaktywność lub poszukiwanie bodźców. Różnice mogą dotyczyć dźwięku, światła, dotyku, smaku, zapachu, bólu, równowagi i sygnałów płynących z ciała. Ten sam bodziec może być neutralny w jednym kontekście, a przeciążający przy zmęczeniu lub nagromadzeniu wielu obciążeń.
 
-Przeciążenie może prowadzić do wycofania, utraty płynności komunikacji, gwałtownej reakcji albo czasowego ograniczenia zdolności wykonawczych. Pomocne bywają modyfikacje środowiska, możliwość przerwy, ochrona słuchu, przewidywalność i uzgodniony sposób komunikowania potrzeb.
+Przeciążenie może prowadzić do wycofania, utraty płynności komunikacji, gwałtownej reakcji albo czasowego ograniczenia zdolności wykonawczych. Pomocne bywają modyfikacje środowiska, możliwość przerwy, ochrona słuchu, przewidywalność i uzgodniony sposób komunikowania potrzeb. Ocena profilu powinna obejmować obserwację konkretnych czynności, preferencje osoby, porę i kontekst, nie tylko sumę w kwestionariuszu. Trzeba też wykluczyć uleczalne przyczyny, na przykład ubytek słuchu, ból lub działanie leku.
+
+Celem dostosowania nie jest wyeliminowanie każdej nietypowej reakcji. Należy sprawdzić, czy uzgodniona zmiana rzeczywiście poprawia udział w ważnej aktywności, zmniejsza ból lub przeciążenie i nie ogranicza niepotrzebnie autonomii. Dowody dla terapii integracji sensorycznej są zależne od populacji, sposobu realizacji i mierzonego wyniku; określenie „sensoryczna” nie stanowi samo w sobie gwarancji skuteczności.
 
 ## Komunikacja i problem podwójnej empatii
 
-Komunikacja autystyczna może być werbalna, pisemna albo wspomagana przez AAC. Brak mowy nie oznacza braku rozumienia. Ocena zdolności poznawczych nie powinna opierać się wyłącznie na płynności wypowiedzi, kontakcie wzrokowym lub typowej ekspresji mimicznej.
+Komunikacja autystyczna może być werbalna, pisemna albo wspomagana i alternatywna (AAC), między innymi za pomocą symboli, gestów lub urządzenia generującego mowę. Brak mowy nie oznacza braku rozumienia. Ocena zdolności poznawczych nie powinna opierać się wyłącznie na płynności wypowiedzi, kontakcie wzrokowym lub typowej ekspresji mimicznej.
 
 Problem podwójnej empatii opisuje wzajemne trudności w rozumieniu między osobami o odmiennych sposobach doświadczania i komunikacji. Rama ta koryguje założenie, że nieporozumienie jest zawsze jednostronnym deficytem osoby autystycznej. Nie neguje indywidualnych trudności społecznych, lecz uwzględnia dopasowanie partnerów i kontekstu.
 
@@ -84,11 +88,11 @@ Spektrum autyzmu łączy wspólne kryteria diagnostyczne z dużym zróżnicowani
 
 ## Bibliografia
 
-- American Psychiatric Association. (2022). *Diagnostic and statistical manual of mental disorders* (5th ed., text rev.).
+- American Psychiatric Association. (2022). *Diagnostic and statistical manual of mental disorders* (5th ed., text rev.). American Psychiatric Association Publishing. [https://doi.org/10.1176/appi.books.9780890425787](https://doi.org/10.1176/appi.books.9780890425787)
 - Centers for Disease Control and Prevention. (2025). *Data and statistics on autism spectrum disorder*. https://www.cdc.gov/autism/data-research/
-- Cook, J., Hull, L., Crane, L., & Mandy, W. (2021). Camouflaging in autism: A systematic review. *Clinical Psychology Review, 89*, 102080. https://doi.org/10.1016/j.cpr.2021.102080
-- Kinnaird, E., Stewart, C., & Tchanturia, K. (2019). Investigating alexithymia in autism: A systematic review and meta-analysis. *Journal of Autism and Developmental Disorders, 49*, 1621–1634. https://doi.org/10.1007/s10803-019-03828-2
-- Milton, D. E. M. (2012). On the ontological status of autism: The double empathy problem. *Disability & Society, 27*(6), 883–887. https://doi.org/10.1080/09687599.2012.710008
-- Murray, D., Lesser, M., & Lawson, W. (2005). Attention, monotropism and the diagnostic criteria for autism. *Autism, 9*(2), 139–156. https://doi.org/10.1177/1362361305051398
-- Robertson, C. E., & Baron-Cohen, S. (2017). Sensory perception in autism. *Nature Reviews Neuroscience, 18*, 671–684. https://doi.org/10.1038/nrn.2017.112
+- Cook, J., Hull, L., Crane, L., & Mandy, W. (2021). Camouflaging in autism: A systematic review. *Clinical Psychology Review, 89*, 102080. [https://doi.org/10.1016/j.cpr.2021.102080](https://doi.org/10.1016/j.cpr.2021.102080)
+- Kinnaird, E., Stewart, C., & Tchanturia, K. (2019). Investigating alexithymia in autism: A systematic review and meta-analysis. *Journal of Autism and Developmental Disorders, 49*, 1621–1634. [https://doi.org/10.1007/s10803-019-03828-2](https://doi.org/10.1007/s10803-019-03828-2)
+- Milton, D. E. M. (2012). On the ontological status of autism: The double empathy problem. *Disability & Society, 27*(6), 883–887. [https://doi.org/10.1080/09687599.2012.710008](https://doi.org/10.1080/09687599.2012.710008)
+- Murray, D., Lesser, M., & Lawson, W. (2005). Attention, monotropism and the diagnostic criteria for autism. *Autism, 9*(2), 139–156. [https://doi.org/10.1177/1362361305051398](https://doi.org/10.1177/1362361305051398)
+- Robertson, C. E., & Baron-Cohen, S. (2017). Sensory perception in autism. *Nature Reviews Neuroscience, 18*, 671–684. [https://doi.org/10.1038/nrn.2017.112](https://doi.org/10.1038/nrn.2017.112)
 - World Health Organization. (2025). *ICD-11 for mortality and morbidity statistics: Autism spectrum disorder (6A02)*. https://icd.who.int/browse/2025-01/mms/en#437815624

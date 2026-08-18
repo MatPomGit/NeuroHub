@@ -1,86 +1,80 @@
 ---
-lastReviewed: 2026-04-01
-reviewCycleMonths: 24
-evidenceCutoffDate: 2025-12-31
-content_type: article
+lastReviewed: 2026-08-17
+reviewCycleMonths: 18
+evidenceCutoffDate: 2026-08-17
+aliases:
+  - neuroróżnorodność
+  - neurodiversity
 ---
 
-# Neuroróżnorodność - wprowadzenie
+# Neuroróżnorodność, identyfikacja i modele
 
-## Czym jest neuroróżnorodność?
+## Najważniejsze informacje
 
-**Neuroróżnorodność** (ang. *neurodiversity*) to koncepcja uznająca naturalne różnice w budowie i funkcjonowaniu ludzkiego mózgu za warianty biologiczne, a nie za defekty wymagające „naprawy". Zgodnie z tym podejściem autyzm, ADHD, dysleksja, dyskalkulia, dyspraksja czy zespół Tourette'a nie są odchyleniami od „normalnego" mózgu - są po prostu innymi typami mózgu, które towarzyszą ludzkości od zawsze.
+- **Neuroróżnorodność** może oznaczać biologiczny fakt zmienności ludzkich układów nerwowych, paradygmat interpretowania tej zmienności albo ruch społeczny. Tych znaczeń nie należy utożsamiać.
+- Terminy „neurotypowy” i „neuroatypowy” opisują pozycję względem społecznie oczekiwanych wzorców. Nie są rozpoznaniami klinicznymi ani jednorodnymi typami mózgu.
+- Identyfikacja własnego profilu może być ważna tożsamościowo, lecz przesiew jedynie szacuje prawdopodobieństwo, a diagnoza odpowiada na określone pytanie kliniczne po szerszej ocenie.
+- Perspektywa mocnych stron nie usuwa bólu, niepełnosprawności ani potrzeby leczenia. Chroni natomiast przed redukowaniem osoby do katalogu deficytów.
 
-Termin *neurodiversity* po raz pierwszy pojawił się w 1998 roku za sprawą dziennikarza **Harvey'a Blume'a**, który w magazynie „The Atlantic" pisał o autyzmie jako wariancie ewolucyjnym człowieka. Równolegle australijska socjolożka **Judy Singer** - sama będąca w spektrum autyzmu - ukuła to pojęcie w swojej pracy dyplomowej, nadając mu szerszy, akademicki kontekst. W ciągu kolejnych dekad termin upowszechniły organizacje aktywistyczne, przede wszystkim ruch praw osób autystycznych, a w XXI wieku pojęcie to zyskało popularność w psychologii, pedagogice i zarządzaniu zasobami ludzkimi.
+## Trzy znaczenia neuroróżnorodności
 
-> **Fakt:** Szacuje się, że nawet 15–20% populacji ludzkiej wykazuje jakąś formę neuroróżnorodności - oznacza to, że co piąta osoba przetwarza świat w inny sposób niż typowa większość neurologiczna (*neuromajority*).
+Jako **fakt zróżnicowania** neuroróżnorodność odnosi się do tego, że uwaga, uczenie się, komunikacja, ruch i odbiór bodźców różnią się w całej populacji. W tym sensie neuroróżnorodna jest zbiorowość, a nie wyłącznie osoba z diagnozą.
 
-## Model medyczny a model społeczny
+Jako **paradygmat społeczny i badawczy** pojęcie kieruje uwagę na relację między profilem osoby a otoczeniem. Ograniczenie może wynikać równocześnie z właściwości organizmu, wymagań zadania i barier instytucjonalnych. Paradygmat nie przeczy biologii ani medycynie: sprzeciwia się założeniu, że odmienność sama w sobie dowodzi niższej wartości i zawsze powinna zostać usunięta.
 
-Tradycyjne podejście psychiatryczne i psychologiczne do neuroróżnorodności opiera się na **modelu medycznym niepełnosprawności**: trudności, jakich doświadczają osoby z ADHD czy autyzmem, są postrzegane jako objawy chorobowe wymagające diagnozy, leczenia i - jeśli to możliwe - wyleczenia. Model ten przyniósł realne korzyści: umożliwił dostęp do terapii, leków i wsparcia edukacyjnego.
+Jako **ruch społeczny** neuroróżnorodność obejmuje rzecznictwo na rzecz praw, dostępności, współdecydowania i niestygmatyzującego języka. Ruch nie jest jednolity. Toczą się w nim spory o granice pojęcia, rolę diagnozy i to, czy język różnicy dostatecznie opisuje osoby wymagające intensywnego, całodobowego wsparcia.
 
-Ruch neuroróżnorodności inspiruje się natomiast **modelem społecznym niepełnosprawności**, wypracowanym przez działaczy na rzecz praw osób niepełnosprawnych w latach 70. XX wieku. W tym ujęciu niepełnosprawność nie leży w osobie, lecz w barierach, jakie tworzy środowisko - architektonicznych, komunikacyjnych, instytucjonalnych. Dla osób neuroatypowych barierami są np. głośne biura otwarte, egzaminy oparte wyłącznie na czytaniu czy sztywna struktura godzin pracy.
+## Profile zamiast jednej listy cech
 
-## Paradygmat neuroróżnorodności
+Nie istnieje uniwersalny „profil neuroróżnorodny”. [ADHD](adhd.md) dotyczy rozwojowego wzorca regulacji uwagi, aktywności i impulsywności; [spektrum autyzmu](spektrum_autyzmu.md) obejmuje jakościowo swoiste cechy komunikacji społecznej oraz ograniczone lub powtarzalne wzorce zachowania i zainteresowań. Specyficzne zaburzenia uczenia się, rozwojowe zaburzenie koordynacji i tiki mają jeszcze inne definicje i kryteria, opisane w artykule o [specyficznych różnicach rozwojowych i tikach](specyficzne_roznice_rozwojowe_i_tiki.md).
 
-Psycholog i pisarka **Nick Walker** (autorka książki *Neuroqueer Heresies*, 2021) sformułowała tzw. **paradygmat neuroróżnorodności**, wyróżniając trzy kluczowe założenia:
+Nawet w ramach jednego rozpoznania profil jest nierównomierny i zmienia się z wiekiem, zdrowiem, wymaganiami oraz dostępem do pomocy. Przypisywanie całej grupie kreatywności, empatii, zdolności matematycznych albo trudności sensorycznych zastępuje jeden stereotyp drugim.
 
-1. **Różnorodność neurologiczna jest naturalną formą różnorodności ludzkiej** - tak jak istnieje różnorodność biologiczna gatunków, istnieje różnorodność mózgów ludzkich.
-2. **Nie istnieje jeden „normalny" lub „właściwy" sposób funkcjonowania mózgu.** Pojęcie normy neurologicznej jest konstruktem kulturowym i statystycznym, a nie biologicznym absolutem.
-3. **Etykiety diagnostyczne opisują pewne profile funkcjonalne, ale nie definiują wartości człowieka.** Słabości i mocne strony danego profilu są ze sobą nierozerwalnie splecione.
+## Identyfikacja, przesiew i diagnoza
 
-## Neurotypowość i neuroatypowość
+Te trzy procesy mogą się uzupełniać, ale służą innym celom:
 
-Osoby, których mózg funkcjonuje zgodnie z dominującą w danej kulturze normą, określa się mianem **neurotypowych** (*neurotypical*, NT). Termin ten - żartobliwie używany w społeczności autystycznej - wskazuje, że „typowość" jest cechą statystyczną, nie moralną. Osoby neuroatypowe, zwane też **neurodywergentami** (*neurodivergent*), doświadczają świata, przetwarzają informacje i komunikują się w odmienny sposób.
+1. **Identyfikacja lub samoidentyfikacja** oznacza rozpoznawanie we własnych doświadczeniach opisu danego profilu i niekiedy przyjęcie związanej z nim tożsamości. Może poprzedzać konsultację, ułatwiać poszukiwanie społeczności i podpowiadać doraźne dostosowania. Nie rozstrzyga jednak diagnozy różnicowej.
+2. **Przesiew** wykorzystuje krótkie pytania lub zadania, aby wyłonić osoby, u których wskazana jest pełniejsza ocena. Dodatni wynik nie potwierdza rozpoznania, a ujemny nie zawsze je wyklucza. Trafność zależy od populacji, progu i celu badania.
+3. **Diagnoza** jest integracją wywiadu rozwojowego, obecnego funkcjonowania, obserwacji, informacji z różnych źródeł i, gdy są potrzebne, standaryzowanych narzędzi. Ma ustalić, czy kryteria są spełnione, określić wpływ trudności, rozważyć inne wyjaśnienia i wskazać potrzeby. Żaden kwestionariusz, test genetyczny ani obrazowanie mózgu nie zastępuje tego procesu.
 
-Ważne zastrzeżenie: neuroróżnorodność nie jest synonimem braku trudności. Wiele osób neuroatypowych boryka się z poważnymi wyzwaniami funkcjonalnymi, które wymagają wsparcia. Paradygmat neuroróżnorodności nie neguje tych trudności - kwestionuje natomiast założenie, że jedynym właściwym celem interwencji jest upodobnienie neuroatypowej osoby do neurotypowej.
+Brak dostępu do diagnozy nie unieważnia doświadczeń osoby. Zarazem formalne rozpoznanie może być konieczne do bezpiecznego leczenia, diagnostyki stanów somatycznych lub uzyskania świadczeń. Zakres oceny powinien odpowiadać pytaniu, a osoba badana powinna otrzymać zrozumiałe wyjaśnienie wyniku i jego ograniczeń.
 
-## Neuroróżnorodność a tożsamość
+## Maskowanie i późna identyfikacja
 
-Dla wielu osób diagnoza - szczególnie późna - staje się punktem zwrotnym w rozumieniu własnej historii. Procesy takie jak wieloletni camouflaging (maskowanie autystycznych cech), poczucie bycia „nie z tej planety" czy wyczerpanie wynikające z ciągłego dostosowywania się do neurotypowych norm zyskują nagle sens i wyjaśnienie. Ruch neuroróżnorodności promuje **dumę neurologiczną** (*neurodiversity pride*) i tożsamościowe, a nie czysto medyczne, podejście do diagnoz.
+**Maskowanie** obejmuje świadome i automatyczne strategie ukrywania cech, naśladowania zachowań akceptowanych społecznie albo kompensowania trudności. Może ułatwiać krótkotrwałe uczestnictwo, lecz wymaga wysiłku i bywa związane z wyczerpaniem oraz gorszym zdrowiem psychicznym. Nie jest właściwością jednej płci ani dowodem konkretnego rozpoznania.
 
-> **Fakt:** Pojęcie „spektrum autyzmu" zostało wprowadzone do DSM-5 (2013), zastępując wcześniejsze oddzielne kategorie (autyzm Kannera, zespół Aspergera, całościowe zaburzenia rozwoju). Ruch neuroróżnorodności był jednym z głosów wpływających na tę zmianę klasyfikacyjną.
+Ocena wyłącznie zachowania widocznego podczas spokojnej konsultacji może pominąć koszt przygotowania, późniejsze przeciążenie i różnice między środowiskami. Przy późnej diagnozie pomocne są świadectwa szkolne, wspomnienia opiekunów i historia strategii kompensacyjnych, ale brak dokumentów z dzieciństwa nie powinien automatycznie kończyć oceny.
 
-## Krytyczna debata
+## Współwystępowanie i środowisko
 
-Koncepcja neuroróżnorodności nie jest wolna od kontrowersji. Krytycy wskazują, że:
+Jedna osoba może spełniać kryteria kilku zaburzeń neurorozwojowych, a także doświadczać lęku, depresji, zaburzeń snu, padaczki lub chorób przewlekłych. Objawy mogą się nakładać, wzajemnie nasilać albo mieć odmienne przyczyny. Dobre rozpoznanie nie pyta wyłącznie „która etykieta pasuje?”, lecz również „co wyjaśnia konkretne trudności i jaka pomoc będzie bezpieczna?”.
 
-- Skupienie na mocnych stronach i tożsamości może marginalizować osoby o wysokich potrzebach wsparcia, które same nie mogą bronić swoich interesów.
-- Idealizowanie neuroróżnorodności może prowadzić do niedofinansowania badań nad skutecznymi terapiami.
-- Niektóre stany, jak głęboki autyzm z niepełnosprawnością intelektualną, trudno opisać wyłącznie jako „inny styl myślenia".
+Hałas, niejednoznaczne instrukcje, presja czasu i brak możliwości odpoczynku mogą ujawniać lub nasilać ograniczenia. Przewidywalność, dostępna komunikacja i technologia wspomagająca mogą je zmniejszać. Reakcja na dostosowanie dostarcza informacji funkcjonalnej, ale sama nie potwierdza diagnozy.
 
-Zwolennicy ruchu odpowiadają, że oba podejścia - tożsamościowe i terapeutyczne - mogą współistnieć, a kluczem jest szanowanie autonomii osoby neuroatypowej w wyborze formy wsparcia.
+## Model mocnych stron bez pomijania potrzeb
 
+Model mocnych stron zaczyna ocenę od celów, kompetencji, zainteresowań i skutecznych strategii osoby, zamiast traktować je jako dodatek do listy deficytów. Jego użyteczność polega na budowaniu sprawczości i projektowaniu takich warunków, w których istniejące umiejętności mogą być wykorzystane.
 
+Nie należy jednak tworzyć „bilansu”, w którym talent ma usprawiedliwiać brak pomocy. Mocna strona w jednym kontekście może wiązać się z kosztem w innym, a część osób nie rozpoznaje u siebie cechy, którą kultura popularna przypisuje ich diagnozie. Ocena powinna więc obejmować jednocześnie:
 
-Neuroróżnorodność to zarówno termin naukowy, jak i ruch społeczny, który zmienia sposób, w jaki psychologia, pedagogika i pracodawcy myślą o ludzkim mózgu. Zamiast pytać „jak naprawić ten mózg?", paradygmat neuroróżnorodności pyta: „jak stworzyć środowisko, w którym ten mózg może rozkwitnąć?". To przesunięcie perspektywy ma dalekosiężne konsekwencje - od projektowania szkół, przez rynek pracy, aż po prawo i politykę społeczną.
+- ograniczenia codziennego funkcjonowania, cierpienie i ryzyko;
+- zasoby, zainteresowania i preferowane sposoby działania;
+- bariery oraz czynniki ochronne w środowisku;
+- cele wybrane przez osobę i potrzebny poziom wsparcia.
 
-## Perspektywa nieoczywista
+Tak rozumiany model jest zgodny z diagnozą i leczeniem. Nie chodzi o naprawianie tożsamości ani o romantyzowanie cierpienia, lecz o połączenie opieki klinicznej z [dostosowaniem edukacji, pracy i życia codziennego](wsparcie_interwencje.md).
 
-Nieoczywista perspektywa na temat "Neuroróżnorodność - wprowadzenie" polega na tym, że neuroróżnorodność najlepiej rozumieć nie jako prostą listę deficytów, lecz jako odmienny profil przetwarzania, który może generować zarówno trudności, jak i zasoby.
+## Granice i spory
 
-Dopiero wspólna analiza zagadnień takich jak czym jest neuroróżnorodność?, neurotypowość i neuroatypowość oraz krytyczna debata pokazuje pełny zakres omawianego zjawiska.
+Kategoria neuroróżnorodności jest szersza niż kategorie diagnostyczne, dlatego nie wyznacza sama kryteriów świadczeń ani leczenia. Model społeczny dobrze ujawnia bariery, lecz nie wyjaśnia całego bólu, napadów padaczkowych, ciężkich tików czy niemożności samodzielnego zaspokojenia potrzeb. Z kolei model wyłącznie medyczny może przeoczyć dyskryminację i fakt, że to samo funkcjonowanie staje się mniej ograniczające w dostępnym środowisku.
 
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Neuroróżnorodność - wprowadzenie" pokazuje, że kluczowe pozostaje łączenie wsparcia funkcjonalnego z redukowaniem barier środowiskowych i stygmatyzacji.
-
-
-Dopiero wspólna analiza zagadnień takich jak czym jest neuroróżnorodność?, neurotypowość i neuroatypowość oraz krytyczna debata pokazuje pełny zakres omawianego zjawiska.
-
-## Podstawa źródłowa
-
-Ramy pojęciowe i kliniczne w tym artykule oparto na krytycznej analizie paradygmatu neuroróżnorodności Pellicano i den Houting (2022) oraz kryteriach diagnostycznych American Psychiatric Association (2022).
+Najbardziej rzetelne podejście nie wymaga wyboru jednej z tych perspektyw. Łączy dane kliniczne, relację osoby z otoczeniem, jej język i prawo do współdecydowania.
 
 ## Bibliografia
 
 - American Psychiatric Association. (2022). *Diagnostic and statistical manual of mental disorders* (5th ed., text rev.). American Psychiatric Association Publishing. [https://doi.org/10.1176/appi.books.9780890425787](https://doi.org/10.1176/appi.books.9780890425787)
-- Pellicano, E., & den Houting, J. (2022). Annual Research Review: Shifting from ‘normal science’ to neurodiversity in autism science. *Journal of Child Psychology and Psychiatry, 63*(4), 381–396. [https://doi.org/10.1111/jcpp.13534](https://doi.org/10.1111/jcpp.13534)
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+- Chapman, R. (2021). Neurodiversity and the social ecology of mental functions. *Perspectives on Psychological Science, 16*(6), 1360–1372. [https://doi.org/10.1177/1745691620959833](https://doi.org/10.1177/1745691620959833)
+- Doyle, N. (2020). Neurodiversity at work: A biopsychosocial model and the impact on working adults. *British Medical Bulletin, 135*(1), 108–125. [https://doi.org/10.1093/bmb/ldaa021](https://doi.org/10.1093/bmb/ldaa021)
+- Pellicano, E., & den Houting, J. (2022). Annual research review: Shifting from ‘normal science’ to neurodiversity in autism science. *Journal of Child Psychology and Psychiatry, 63*(4), 381–396. [https://doi.org/10.1111/jcpp.13534](https://doi.org/10.1111/jcpp.13534)
+- World Health Organization. (2001). *International classification of functioning, disability and health: ICF*. https://iris.who.int/handle/10665/42407

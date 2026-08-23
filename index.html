@@ -5,8 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="theme-color" content="#070a12">
   <meta name="color-scheme" content="dark light">
-  <meta name="theme-color" content="#070a12">
-  <meta name="color-scheme" content="dark light">
   <meta name="google-site-verification" content="6rxzGHXJtmpyj20hBi0v7yX1h8KpN2fEgueFU1M8Flc" />
   <meta name="description" content="PsyHub - portal wiedzy psychologicznej z artykułami, testami i materiałami edukacyjnymi.">
   <meta property="og:title" content="PsyHub - Portal wiedzy psychologicznej">
@@ -19,6 +17,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;600;700;800&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="design-tokens.css">
   <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="academic-compact.css">
   <script src="anime.min.js" defer></script>
   <script src="site-config.js" defer></script>
   <script src="specialization-test.js" defer></script>
@@ -34,7 +33,6 @@
 <body class="psyhub-app">
 <a class="skip-link" href="#content">Przejdź do treści głównej</a>
 
-<!-- ══ SIDEBAR ══════════════════════════════ -->
 <aside class="sidebar" id="sidebar">
   <button type="button" class="s-logo" id="sidebarLogo" aria-label="Przejdź do strony głównej">
     <div class="s-logo-mark">🧠</div>
@@ -49,7 +47,7 @@
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
         <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
       </svg>
-      <label class="sr-only" for="searchInput">Wyszukaj artykuł</label>
+      <label class="sr-only" for="searchInput">Wyszukaj artył</label>
       <input type="text" id="searchInput" placeholder="Szukaj artykułu…" autocomplete="off" aria-describedby="searchResults">
     </div>
     <div class="s-filter-shortcuts" id="searchFilterShortcuts" aria-label="Skróty filtrów wyszukiwania">
@@ -65,12 +63,12 @@
   <div class="s-footer">
     <span>PsyHub v3.2</span>
     <div class="theme-btns">
-      <button class="theme-btn is-active" data-theme="dark"  title="Motyw ciemny" aria-label="Włącz motyw ciemny" aria-pressed="true"></button>
-      <button class="theme-btn"        data-theme="light" title="Motyw jasny" aria-label="Włącz motyw jasny" aria-pressed="false"></button>
-      <button class="theme-btn"        data-theme="sepia" title="Motyw sepia" aria-label="Włącz motyw sepia" aria-pressed="false"></button>
-      <button class="theme-btn"        data-theme="ocean" title="Motyw ocean" aria-label="Włącz motyw ocean" aria-pressed="false"></button>
-      <button class="theme-btn"        data-theme="forest" title="Motyw forest" aria-label="Włącz motyw forest" aria-pressed="false"></button>
-      <button class="theme-btn"        data-theme="sunset" title="Motyw sunset" aria-label="Włącz motyw sunset" aria-pressed="false"></button>
+      <button class="theme-btn is-active" data-theme="dark" title="Motyw ciemny" aria-label="Włącz motyw ciemny" aria-pressed="true"></button>
+      <button class="theme-btn" data-theme="light" title="Motyw jasny" aria-label="Włącz motyw jasny" aria-pressed="false"></button>
+      <button class="theme-btn" data-theme="sepia" title="Motyw sepia" aria-label="Włącz motyw sepia" aria-pressed="false"></button>
+      <button class="theme-btn" data-theme="ocean" title="Motyw ocean" aria-label="Włącz motyw ocean" aria-pressed="false"></button>
+      <button class="theme-btn" data-theme="forest" title="Motyw forest" aria-label="Włącz motyw forest" aria-pressed="false"></button>
+      <button class="theme-btn" data-theme="sunset" title="Motyw sunset" aria-label="Włącz motyw sunset" aria-pressed="false"></button>
     </div>
     <div class="font-size-controls" aria-label="Ustawienia wielkości czcionki">
       <button type="button" class="font-btn" data-font-scale="normal" title="Standardowa wielkość" aria-label="Standardowa wielkość">A</button>
@@ -94,27 +92,20 @@
 
 <div class="overlay" id="overlay"></div>
 
-<!-- ══ MAIN ═════════════════════════════════ -->
 <main class="main" id="mainContent">
   <div class="prog-bar"><div class="prog-fill" id="progFill"></div></div>
 
   <header class="topbar">
     <button class="btn-menu" id="mobileMenuButton" type="button" aria-label="Otwórz menu nawigacyjne">
       <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2">
-        <line x1="3" y1="6"  x2="21" y2="6"/>
+        <line x1="3" y1="6" x2="21" y2="6"/>
         <line x1="3" y1="12" x2="21" y2="12"/>
         <line x1="3" y1="18" x2="21" y2="18"/>
       </svg>
     </button>
-    <button class="btn-mobile-chapters" id="mobileChaptersButton" type="button" aria-label="Pokaż główne rozdziały" aria-expanded="false" aria-controls="mobileChaptersPanel">
-      Rozdziały
-    </button>
-    <button class="btn-mobile-toc" id="mobileWikiTocButton" type="button" aria-label="Pokaż spis treści artykułu wiki" aria-expanded="false" aria-controls="mobileWikiTocPanel" hidden>
-      Spis treści
-    </button>
-    <button class="btn-mobile-extra-pages" id="mobileExtraPagesButton" type="button" aria-label="Przejdź do listy dodatkowych stron">
-      Dodatkowe strony
-    </button>
+    <button class="btn-mobile-chapters" id="mobileChaptersButton" type="button" aria-label="Pokaż główne rozdziały" aria-expanded="false" aria-controls="mobileChaptersPanel">Rozdziały</button>
+    <button class="btn-mobile-toc" id="mobileWikiTocButton" type="button" aria-label="Pokaż spis treści artykułu wiki" aria-expanded="false" aria-controls="mobileWikiTocPanel" hidden>Spis treści</button>
+    <button class="btn-mobile-extra-pages" id="mobileExtraPagesButton" type="button" aria-label="Przejdź do listy dodatkowych stron">Dodatkowe strony</button>
     <nav class="breadcrumb" id="breadcrumb" aria-label="Okruszki nawigacji">
       <a href="#" id="breadcrumbHomeLink">PsyHub</a>
     </nav>
@@ -146,7 +137,5 @@
     <div class="loading"><div class="spinner"></div>Ładowanie…</div>
   </section>
 </main>
-
-
 </body>
 </html>

@@ -75,16 +75,16 @@ Jeżeli problemem jest automatyczna reakcja na myśl lub doznanie, pomocne może
 
 ## Bibliografia
 
-1. Baer, R. A., Smith, G. T., Hopkins, J., Krietemeyer, J., & Toney, L. (2006). Using self-report assessment methods to explore facets of mindfulness. *Assessment, 13*(1), 27–45. https://doi.org/10.1177/1073191105283504
-2. Bishop, S. R., et al. (2004). Mindfulness: A proposed operational definition. *Clinical Psychology: Science and Practice, 11*(3), 230–241. https://doi.org/10.1093/clipsy.bph077
-3. Breines, J. G., & Chen, S. (2012). Self-compassion increases self-improvement motivation. *Personality and Social Psychology Bulletin, 38*(9), 1133–1143. https://doi.org/10.1177/0146167212445599
+1. Baer, R. A., Smith, G. T., Hopkins, J., Krietemeyer, J., & Toney, L. (2006). Using self-report assessment methods to explore facets of mindfulness. *Assessment, 13*(1), 27–45. [https://doi.org/10.1177/1073191105283504](https://doi.org/10.1177/1073191105283504)
+2. Bishop, S. R., et al. (2004). Mindfulness: A proposed operational definition. *Clinical Psychology: Science and Practice, 11*(3), 230–241. [https://doi.org/10.1093/clipsy.bph077](https://doi.org/10.1093/clipsy.bph077)
+3. Breines, J. G., & Chen, S. (2012). Self-compassion increases self-improvement motivation. *Personality and Social Psychology Bulletin, 38*(9), 1133–1143. [https://doi.org/10.1177/0146167212445599](https://doi.org/10.1177/0146167212445599)
 4. Csikszentmihalyi, M. (1990). *Flow: The Psychology of Optimal Experience*. Harper & Row.
-5. Goldberg, S. B., Tucker, R. P., Greene, P. A., et al. (2018). Mindfulness-based interventions for psychiatric disorders. *Clinical Psychology Review, 59*, 52–60. https://doi.org/10.1016/j.cpr.2017.10.011
-6. Hanley, A. W., Abell, N., Osborn, D. S., Roehrig, A. D., & Canto, A. I. (2016). Mind the gaps. *Mindfulness, 7*, 176–186. https://doi.org/10.1007/s12671-015-0432-3
-7. Khoury, B., Sharma, M., Rush, S. E., & Fournier, C. (2015). Mindfulness-based stress reduction for healthy individuals. *Journal of Psychosomatic Research, 78*(6), 519–528. https://doi.org/10.1016/j.jpsychores.2015.03.009
-8. Lutz, A., Jha, A. P., Dunne, J. D., & Saron, C. D. (2015). Investigating the phenomenological matrix of mindfulness-related practices. *American Psychologist, 70*(7), 632–658. https://doi.org/10.1037/a0039585
-9. Neff, K. D. (2003). Self-compassion: An alternative conceptualization of a healthy attitude toward oneself. *Self and Identity, 2*(2), 85–101. https://doi.org/10.1080/15298860309032
-10. Rosedale, M., et al. (2022). Understanding the content and structure of flow experience. *Psychological Bulletin, 148*(7–8), 598–631. https://doi.org/10.1037/bul0000361
-11. Sedlmeier, P., Eberth, J., Schwarz, M., et al. (2012). The psychological effects of meditation. *Psychological Bulletin, 138*(6), 1139–1171. https://doi.org/10.1037/a0028168
-12. Van Dam, N. T., van Vugt, M. K., Vago, D. R., et al. (2018). Mind the hype. *Perspectives on Psychological Science, 13*(1), 36–61. https://doi.org/10.1177/1745691617709589
-13. Wilson, A. C., Mackintosh, K., Power, K., & Chan, S. W. Y. (2019). Effectiveness of self-compassion related therapies. *Mindfulness, 10*, 979–995. https://doi.org/10.1007/s12671-018-1037-6
+5. Goldberg, S. B., Tucker, R. P., Greene, P. A., et al. (2018). Mindfulness-based interventions for psychiatric disorders. *Clinical Psychology Review, 59*, 52–60. [https://doi.org/10.1016/j.cpr.2017.10.011](https://doi.org/10.1016/j.cpr.2017.10.011)
+6. Hanley, A. W., Abell, N., Osborn, D. S., Roehrig, A. D., & Canto, A. I. (2016). Mind the gaps. *Mindfulness, 7*, 176–186. [https://doi.org/10.1007/s12671-015-0432-3](https://doi.org/10.1007/s12671-015-0432-3)
+7. Khoury, B., Sharma, M., Rush, S. E., & Fournier, C. (2015). Mindfulness-based stress reduction for healthy individuals. *Journal of Psychosomatic Research, 78*(6), 519–528. [https://doi.org/10.1016/j.jpsychores.2015.03.009](https://doi.org/10.1016/j.jpsychores.2015.03.009)
+8. Lutz, A., Jha, A. P., Dunne, J. D., & Saron, C. D. (2015). Investigating the phenomenological matrix of mindfulness-related practices. *American Psychologist, 70*(7), 632–658. [https://doi.org/10.1037/a0039585](https://doi.org/10.1037/a0039585)
+9. Neff, K. D. (2003). Self-compassion: An alternative conceptualization of a healthy attitude toward oneself. *Self and Identity, 2*(2), 85–101. [https://doi.org/10.1080/15298860309032](https://doi.org/10.1080/15298860309032)
+10. Rosedale, M., et al. (2022). Understanding the content and structure of flow experience. *Psychological Bulletin, 148*(7–8), 598–631. [https://doi.org/10.1037/bul0000361](https://doi.org/10.1037/bul0000361)
+11. Sedlmeier, P., Eberth, J., Schwarz, M., et al. (2012). The psychological effects of meditation. *Psychological Bulletin, 138*(6), 1139–1171. [https://doi.org/10.1037/a0028168](https://doi.org/10.1037/a0028168)
+12. Van Dam, N. T., van Vugt, M. K., Vago, D. R., et al. (2018). Mind the hype. *Perspectives on Psychological Science, 13*(1), 36–61. [https://doi.org/10.1177/1745691617709589](https://doi.org/10.1177/1745691617709589)
+13. Wilson, A. C., Mackintosh, K., Power, K., & Chan, S. W. Y. (2019). Effectiveness of self-compassion related therapies. *Mindfulness, 10*, 979–995. [https://doi.org/10.1007/s12671-018-1037-6](https://doi.org/10.1007/s12671-018-1037-6)

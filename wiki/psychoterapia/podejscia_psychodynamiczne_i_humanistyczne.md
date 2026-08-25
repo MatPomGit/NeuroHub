@@ -56,7 +56,7 @@ Metaanalizy wspierają psychoterapie psychodynamiczne i humanistyczno-doświadcz
 2. Elliott, R., Greenberg, L. S., Watson, J. C., Timulak, L., & Freire, E. (2013). Research on humanistic-experiential psychotherapies. In M. J. Lambert (Ed.), *Bergin and Garfield’s Handbook* (6th ed.). Wiley.
 3. Frankl, V. E. (1959). *Man’s Search for Meaning*. Beacon Press.
 4. Fromm, E. (1941). *Escape from Freedom*. Farrar & Rinehart.
-5. Leichsenring, F., & Rabung, S. (2008). Effectiveness of long-term psychodynamic psychotherapy. *JAMA, 300*(13), 1551–1565. https://doi.org/10.1001/jama.300.13.1551
+5. Leichsenring, F., & Rabung, S. (2008). Effectiveness of long-term psychodynamic psychotherapy. *JAMA, 300*(13), 1551–1565. [https://doi.org/10.1001/jama.300.13.1551](https://doi.org/10.1001/jama.300.13.1551)
 6. Perls, F., Hefferline, R., & Goodman, P. (1951). *Gestalt Therapy*. Julian Press.
-7. Rogers, C. R. (1957). The necessary and sufficient conditions of therapeutic personality change. *Journal of Consulting Psychology, 21*(2), 95–103. https://doi.org/10.1037/h0045357
-8. Shedler, J. (2010). The efficacy of psychodynamic psychotherapy. *American Psychologist, 65*(2), 98–109. https://doi.org/10.1037/a0018378
+7. Rogers, C. R. (1957). The necessary and sufficient conditions of therapeutic personality change. *Journal of Consulting Psychology, 21*(2), 95–103. [https://doi.org/10.1037/h0045357](https://doi.org/10.1037/h0045357)
+8. Shedler, J. (2010). The efficacy of psychodynamic psychotherapy. *American Psychologist, 65*(2), 98–109. [https://doi.org/10.1037/a0018378](https://doi.org/10.1037/a0018378)

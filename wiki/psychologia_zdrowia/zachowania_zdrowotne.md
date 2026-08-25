@@ -58,11 +58,11 @@ Interwencję kliniczną dobiera się po ocenie stanu zdrowia i preferencji. Psyc
 
 ## Bibliografia
 
-1. Marmot, M., i in. (2008). Closing the gap in a generation. *The Lancet, 372*, 1661–1669. https://doi.org/10.1016/S0140-6736(08)61690-6
-2. Michie, S., van Stralen, M. M., & West, R. (2011). The behaviour change wheel. *Implementation Science, 6*, 42. https://doi.org/10.1186/1748-5908-6-42
-3. Qaseem, A., i in. (2016). Management of chronic insomnia disorder in adults. *Annals of Internal Medicine, 165*, 125–133. https://doi.org/10.7326/M15-2175
-4. Rubino, F., i in. (2020). Joint international consensus statement for ending stigma of obesity. *Nature Medicine, 26*, 485–497. https://doi.org/10.1038/s41591-020-0803-x
-5. Watson, N. F., i in. (2015). Recommended amount of sleep for a healthy adult. *Sleep, 38*, 843–844. https://doi.org/10.5665/sleep.4716
+1. Marmot, M., i in. (2008). Closing the gap in a generation. *The Lancet, 372*, 1661–1669. [https://doi.org/10.1016/S0140-6736(08)61690-6](https://doi.org/10.1016/S0140-6736(08)61690-6)
+2. Michie, S., van Stralen, M. M., & West, R. (2011). The behaviour change wheel. *Implementation Science, 6*, 42. [https://doi.org/10.1186/1748-5908-6-42](https://doi.org/10.1186/1748-5908-6-42)
+3. Qaseem, A., i in. (2016). Management of chronic insomnia disorder in adults. *Annals of Internal Medicine, 165*, 125–133. [https://doi.org/10.7326/M15-2175](https://doi.org/10.7326/M15-2175)
+4. Rubino, F., i in. (2020). Joint international consensus statement for ending stigma of obesity. *Nature Medicine, 26*, 485–497. [https://doi.org/10.1038/s41591-020-0803-x](https://doi.org/10.1038/s41591-020-0803-x)
+5. Watson, N. F., i in. (2015). Recommended amount of sleep for a healthy adult. *Sleep, 38*, 843–844. [https://doi.org/10.5665/sleep.4716](https://doi.org/10.5665/sleep.4716)
 6. World Health Organization. (1986). *Ottawa Charter for Health Promotion*.
 7. World Health Organization. (2020a). *WHO Guidelines on Physical Activity and Sedentary Behaviour*.
 8. World Health Organization. (2020b). *Healthy diet: Fact sheet*.

@@ -76,7 +76,7 @@ Takie podejście chroni przed dwoma błędami: medykalizowaniem każdej trudnej 
 ## Bibliografia
 
 1. American Psychological Association. (2024). *Guidelines for Psychological Practice With Older Adults*. *American Psychologist*.
-2. Cheng, S.-T., Au, A., Losada, A., Thompson, L. W., & Gallagher-Thompson, D. (2019). Psychological interventions for dementia caregivers: What we have achieved, what we have learned. *Current Psychiatry Reports, 21*, 59. https://doi.org/10.1007/s11920-019-1045-9
+2. Cheng, S.-T., Au, A., Losada, A., Thompson, L. W., & Gallagher-Thompson, D. (2019). Psychological interventions for dementia caregivers: What we have achieved, what we have learned. *Current Psychiatry Reports, 21*, 59. [https://doi.org/10.1007/s11920-019-1045-9](https://doi.org/10.1007/s11920-019-1045-9)
 3. Hall, S., Petkova, H., Tsouros, A. D., Costantini, M., & Higginson, I. J. (red.). (2011). *Palliative Care for Older People: Better Practices*. World Health Organization Regional Office for Europe.
 4. National Institute for Health and Care Excellence. (2019, aktualizacja 2024). *End of Life Care for Adults: Service Delivery (NG142)*.
 5. National Institute for Health and Care Excellence. (2020). *Supporting Adult Carers (NG150)*.

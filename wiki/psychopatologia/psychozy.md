@@ -39,8 +39,8 @@ Popularne utożsamienie psychozy z przemocą jest fałszywe i stygmatyzujące. B
 ## Bibliografia
 
 1. American Psychiatric Association. (2022). *Diagnostic and Statistical Manual of Mental Disorders* (5th ed., text rev.).
-2. Fazel, S., Gulati, G., Linsell, L., Geddes, J. R., & Grann, M. (2009). Schizophrenia and violence. *PLoS Medicine, 6*(8), e1000120. https://doi.org/10.1371/journal.pmed.1000120
+2. Fazel, S., Gulati, G., Linsell, L., Geddes, J. R., & Grann, M. (2009). Schizophrenia and violence. *PLoS Medicine, 6*(8), e1000120. [https://doi.org/10.1371/journal.pmed.1000120](https://doi.org/10.1371/journal.pmed.1000120)
 3. National Institute for Health and Care Excellence. (2014). *Psychosis and schizophrenia in adults (CG178)*.
-4. van Os, J., & Kapur, S. (2009). Schizophrenia. *The Lancet, 374*(9690), 635–645. https://doi.org/10.1016/S0140-6736(09)60995-8
+4. van Os, J., & Kapur, S. (2009). Schizophrenia. *The Lancet, 374*(9690), 635–645. [https://doi.org/10.1016/S0140-6736(09)60995-8](https://doi.org/10.1016/S0140-6736(09)60995-8)
 5. World Health Organization. (2023). *Mental Health Gap Action Programme (mhGAP) guideline* (3rd ed.).
 6. World Health Organization. (2024). *Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders*.

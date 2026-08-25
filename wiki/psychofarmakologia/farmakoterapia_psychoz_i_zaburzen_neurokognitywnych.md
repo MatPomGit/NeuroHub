@@ -34,8 +34,8 @@ Jeżeli lek zostaje użyty, dokumentuje się objaw docelowy, zgodę, najkrótszy
 
 ## Bibliografia
 
-- Keepers, G. A. i in. (2020). APA Practice Guideline for the Treatment of Patients With Schizophrenia. *American Journal of Psychiatry*, 177, 868–872. https://doi.org/10.1176/appi.ajp.2020.177901
+- Keepers, G. A. i in. (2020). APA Practice Guideline for the Treatment of Patients With Schizophrenia. *American Journal of Psychiatry*, 177, 868–872. [https://doi.org/10.1176/appi.ajp.2020.177901](https://doi.org/10.1176/appi.ajp.2020.177901)
 - National Institute for Health and Care Excellence. (2018). *Dementia: assessment, management and support (NG97)*.
 - National Institute for Health and Care Excellence. (2014, aktualizacja 2019). *Psychosis and schizophrenia in adults (CG178)*.
-- Siskind, D. i in. (2016). Clozapine v. other antipsychotics in treatment-refractory schizophrenia. *British Journal of Psychiatry*, 209, 385–392. https://doi.org/10.1192/bjp.bp.115.177261
-- Tampi, R. R. i in. (2016). Efficacy and tolerability of atypical antipsychotics for behavioral symptoms of dementia. *American Journal of Alzheimer's Disease & Other Dementias*, 31, 8–20. https://doi.org/10.1177/1533317515603503
+- Siskind, D. i in. (2016). Clozapine v. other antipsychotics in treatment-refractory schizophrenia. *British Journal of Psychiatry*, 209, 385–392. [https://doi.org/10.1192/bjp.bp.115.177261](https://doi.org/10.1192/bjp.bp.115.177261)
+- Tampi, R. R. i in. (2016). Efficacy and tolerability of atypical antipsychotics for behavioral symptoms of dementia. *American Journal of Alzheimer's Disease & Other Dementias*, 31, 8–20. [https://doi.org/10.1177/1533317515603503](https://doi.org/10.1177/1533317515603503)

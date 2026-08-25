@@ -67,10 +67,10 @@ Dobrze dopasowany model mówi, że określona reprezentacja matematyczna nie jes
 
 - American Educational Research Association, American Psychological Association, & National Council on Measurement in Education. (2014). *Standards for educational and psychological testing*. American Educational Research Association.
 - Brown, T. A. (2015). *Confirmatory factor analysis for applied research* (2nd ed.). Guilford Press.
-- Chen, F. F. (2007). Sensitivity of goodness of fit indexes to lack of measurement invariance. *Structural Equation Modeling, 14*(3), 464–504. https://doi.org/10.1080/10705510701301834
+- Chen, F. F. (2007). Sensitivity of goodness of fit indexes to lack of measurement invariance. *Structural Equation Modeling, 14*(3), 464–504. [https://doi.org/10.1080/10705510701301834](https://doi.org/10.1080/10705510701301834)
 - Embretson, S. E., & Reise, S. P. (2000). *Item response theory for psychologists*. Lawrence Erlbaum Associates.
 - Millsap, R. E. (2011). *Statistical approaches to measurement invariance*. Routledge.
 - Rasch, G. (1960). *Probabilistic models for some intelligence and attainment tests*. Danish Institute for Educational Research.
-- Reise, S. P., Ainsworth, A. T., & Haviland, M. G. (2005). Item response theory: Fundamentals, applications, and promise in psychological research. *Current Directions in Psychological Science, 14*(2), 95–101. https://doi.org/10.1111/j.0963-7214.2005.00342.x
-- Schmitt, T. A. (2011). Current methodological considerations in exploratory and confirmatory factor analysis. *Journal of Psychoeducational Assessment, 29*(4), 304–321. https://doi.org/10.1177/0734282911406653
-- Vandenberg, R. J., & Lance, C. E. (2000). A review and synthesis of the measurement invariance literature. *Organizational Research Methods, 3*(1), 4–70. https://doi.org/10.1177/109442810031002
+- Reise, S. P., Ainsworth, A. T., & Haviland, M. G. (2005). Item response theory: Fundamentals, applications, and promise in psychological research. *Current Directions in Psychological Science, 14*(2), 95–101. [https://doi.org/10.1111/j.0963-7214.2005.00342.x](https://doi.org/10.1111/j.0963-7214.2005.00342.x)
+- Schmitt, T. A. (2011). Current methodological considerations in exploratory and confirmatory factor analysis. *Journal of Psychoeducational Assessment, 29*(4), 304–321. [https://doi.org/10.1177/0734282911406653](https://doi.org/10.1177/0734282911406653)
+- Vandenberg, R. J., & Lance, C. E. (2000). A review and synthesis of the measurement invariance literature. *Organizational Research Methods, 3*(1), 4–70. [https://doi.org/10.1177/109442810031002](https://doi.org/10.1177/109442810031002)

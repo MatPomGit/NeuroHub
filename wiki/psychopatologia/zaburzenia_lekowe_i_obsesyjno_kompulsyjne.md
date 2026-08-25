@@ -47,8 +47,8 @@ W zaburzeniach lękowych podstawą psychoterapii jest zwykle terapia poznawczo-b
 ## Bibliografia
 
 1. American Psychiatric Association. (2022). *Diagnostic and Statistical Manual of Mental Disorders* (5th ed., text rev.).
-2. Craske, M. G., et al. (2014). Maximizing exposure therapy: An inhibitory learning approach. *Behaviour Research and Therapy, 58*, 10–23. https://doi.org/10.1016/j.brat.2014.04.006
+2. Craske, M. G., et al. (2014). Maximizing exposure therapy: An inhibitory learning approach. *Behaviour Research and Therapy, 58*, 10–23. [https://doi.org/10.1016/j.brat.2014.04.006](https://doi.org/10.1016/j.brat.2014.04.006)
 3. National Institute for Health and Care Excellence. (2011). *Generalised anxiety disorder and panic disorder in adults (CG113)*.
 4. National Institute for Health and Care Excellence. (2005). *Obsessive-compulsive disorder and body dysmorphic disorder (CG31)*.
-5. Rachman, S. (1997). A cognitive theory of obsessions. *Behaviour Research and Therapy, 35*(9), 793–802. https://doi.org/10.1016/S0005-7967(97)00040-5
+5. Rachman, S. (1997). A cognitive theory of obsessions. *Behaviour Research and Therapy, 35*(9), 793–802. [https://doi.org/10.1016/S0005-7967(97)00040-5](https://doi.org/10.1016/S0005-7967(97)00040-5)
 6. World Health Organization. (2024). *Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders*.

@@ -50,10 +50,10 @@ Praktyczny cykl obejmuje: wspólne określenie celów, ocenę objawów i konteks
 
 ## Bibliografia
 
-1. Albrecht, G. L., & Devlieger, P. J. (1999). The disability paradox. *Social Science & Medicine, 48*, 977–988. https://doi.org/10.1016/S0277-9536(98)00411-0
-2. May, C. R., i in. (2014). Rethinking the patient. *BMC Health Services Research, 14*, 281. https://doi.org/10.1186/1472-6963-14-281
-3. Nieuwlaat, R., i in. (2014). Interventions for enhancing medication adherence. *Cochrane Database of Systematic Reviews*, CD000011. https://doi.org/10.1002/14651858.CD000011.pub4
+1. Albrecht, G. L., & Devlieger, P. J. (1999). The disability paradox. *Social Science & Medicine, 48*, 977–988. [https://doi.org/10.1016/S0277-9536(98)00411-0](https://doi.org/10.1016/S0277-9536(98)00411-0)
+2. May, C. R., i in. (2014). Rethinking the patient. *BMC Health Services Research, 14*, 281. [https://doi.org/10.1186/1472-6963-14-281](https://doi.org/10.1186/1472-6963-14-281)
+3. Nieuwlaat, R., i in. (2014). Interventions for enhancing medication adherence. *Cochrane Database of Systematic Reviews*, CD000011. [https://doi.org/10.1002/14651858.CD000011.pub4](https://doi.org/10.1002/14651858.CD000011.pub4)
 4. Sabaté, E. (red.). (2003). *Adherence to Long-Term Therapies: Evidence for Action*. World Health Organization.
-5. Wade, D. T. (2020). What is rehabilitation? *Clinical Rehabilitation, 34*, 571–583. https://doi.org/10.1177/0269215520905112
-6. WHOQOL Group. (1995). The World Health Organization quality of life assessment. *Social Science & Medicine, 41*, 1403–1409. https://doi.org/10.1016/0277-9536(95)00112-K
+5. Wade, D. T. (2020). What is rehabilitation? *Clinical Rehabilitation, 34*, 571–583. [https://doi.org/10.1177/0269215520905112](https://doi.org/10.1177/0269215520905112)
+6. WHOQOL Group. (1995). The World Health Organization quality of life assessment. *Social Science & Medicine, 41*, 1403–1409. [https://doi.org/10.1016/0277-9536(95)00112-K](https://doi.org/10.1016/0277-9536(95)00112-K)
 7. World Health Organization. (2017). *Rehabilitation in Health Systems*.

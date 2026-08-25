@@ -50,8 +50,8 @@ Skuteczność oznacza nie tylko spadek wyniku skali, ale także sen, relacje, na
 
 ## Bibliografia
 
-- Goodwin, G. M. i in. (2016). Evidence-based guidelines for treating bipolar disorder. *Journal of Psychopharmacology*, 30, 495–553. https://doi.org/10.1177/0269881116636545
+- Goodwin, G. M. i in. (2016). Evidence-based guidelines for treating bipolar disorder. *Journal of Psychopharmacology*, 30, 495–553. [https://doi.org/10.1177/0269881116636545](https://doi.org/10.1177/0269881116636545)
 - National Institute for Health and Care Excellence. (2022). *Depression in adults: treatment and management (NG222)*.
 - National Institute for Health and Care Excellence. (2018). *Post-traumatic stress disorder (NG116)*.
-- Yatham, L. N. i in. (2018). CANMAT and ISBD guidelines for bipolar disorder. *Bipolar Disorders*, 20, 97–170. https://doi.org/10.1111/bdi.12609
+- Yatham, L. N. i in. (2018). CANMAT and ISBD guidelines for bipolar disorder. *Bipolar Disorders*, 20, 97–170. [https://doi.org/10.1111/bdi.12609](https://doi.org/10.1111/bdi.12609)
 - World Health Organization. (2023). *Mental Health Gap Action Programme (mhGAP) guideline* (3rd ed.). WHO.

@@ -71,9 +71,9 @@ Można formalnie pytać, którzy obserwatorzy istnieją w możliwych modelach, a
 
 ## Bibliografia
 
-1. Albrecht, A., & Sorbo, L. (2004). Can the universe afford inflation? *Physical Review D, 70*, 063528. https://doi.org/10.1103/PhysRevD.70.063528
+1. Albrecht, A., & Sorbo, L. (2004). Can the universe afford inflation? *Physical Review D, 70*, 063528. [https://doi.org/10.1103/PhysRevD.70.063528](https://doi.org/10.1103/PhysRevD.70.063528)
 2. Bostrom, N. (2002). *Anthropic Bias: Observation Selection Effects in Science and Philosophy*. Routledge.
-3. Ćirković, M. M., Sandberg, A., & Bostrom, N. (2010). Anthropic shadow: Observation selection effects and human extinction risks. *Risk Analysis, 30*(10), 1495–1506. https://doi.org/10.1111/j.1539-6924.2010.01460.x
+3. Ćirković, M. M., Sandberg, A., & Bostrom, N. (2010). Anthropic shadow: Observation selection effects and human extinction risks. *Risk Analysis, 30*(10), 1495–1506. [https://doi.org/10.1111/j.1539-6924.2010.01460.x](https://doi.org/10.1111/j.1539-6924.2010.01460.x)
 4. Carroll, S. M. (2017). Why Boltzmann brains are bad. W K. Chamcham i in. (red.), *Current Controversies in Philosophy of Science* (s. 7–20). Routledge.
 5. Lewis, D. (1973). *Counterfactuals*. Blackwell.
 6. Lewis, D. (1986). *On the Plurality of Worlds*. Blackwell.

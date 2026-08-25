@@ -103,16 +103,16 @@ Ocena AI wymaga równoczesnego rozumienia mechanizmu i systemu społecznego, w k
 
 ## Bibliografia
 
-1. Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021). On the dangers of stochastic parrots: Can language models be too big? *Proceedings of FAccT ’21*, 610–623. https://doi.org/10.1145/3442188.3445922
-2. Gebru, T. i in. (2021). Datasheets for datasets. *Communications of the ACM, 64*(12), 86–92. https://doi.org/10.1145/3458723
-3. Mitchell, M. i in. (2019). Model cards for model reporting. *Proceedings of FAT ’19*, 220–229. https://doi.org/10.1145/3287560.3287596
+1. Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021). On the dangers of stochastic parrots: Can language models be too big? *Proceedings of FAccT ’21*, 610–623. [https://doi.org/10.1145/3442188.3445922](https://doi.org/10.1145/3442188.3445922)
+2. Gebru, T. i in. (2021). Datasheets for datasets. *Communications of the ACM, 64*(12), 86–92. [https://doi.org/10.1145/3458723](https://doi.org/10.1145/3458723)
+3. Mitchell, M. i in. (2019). Model cards for model reporting. *Proceedings of FAT ’19*, 220–229. [https://doi.org/10.1145/3287560.3287596](https://doi.org/10.1145/3287560.3287596)
 4. Marr, D. (1982). *Vision: A Computational Investigation into the Human Representation and Processing of Visual Information*. W. H. Freeman.
 5. Picard, R. W. (1997). *Affective Computing*. MIT Press.
-6. Searle, J. R. (1980). Minds, brains, and programs. *Behavioral and Brain Sciences, 3*(3), 417–457. https://doi.org/10.1017/S0140525X00005756
-7. Turing, A. M. (1950). Computing machinery and intelligence. *Mind, 59*(236), 433–460. https://doi.org/10.1093/mind/LIX.236.433
-8. Butlin, P. i in. (2023). Consciousness in artificial intelligence: Insights from the science of consciousness. arXiv:2308.08708. https://doi.org/10.48550/arXiv.2308.08708
-9. National Institute of Standards and Technology. (2023). *Artificial Intelligence Risk Management Framework (AI RMF 1.0)*. NIST AI 100-1. https://doi.org/10.6028/NIST.AI.100-1
-10. National Institute of Standards and Technology. (2024). *Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile*. NIST AI 600-1. https://doi.org/10.6028/NIST.AI.600-1
+6. Searle, J. R. (1980). Minds, brains, and programs. *Behavioral and Brain Sciences, 3*(3), 417–457. [https://doi.org/10.1017/S0140525X00005756](https://doi.org/10.1017/S0140525X00005756)
+7. Turing, A. M. (1950). Computing machinery and intelligence. *Mind, 59*(236), 433–460. [https://doi.org/10.1093/mind/LIX.236.433](https://doi.org/10.1093/mind/LIX.236.433)
+8. Butlin, P. i in. (2023). Consciousness in artificial intelligence: Insights from the science of consciousness. arXiv:2308.08708. [https://doi.org/10.48550/arXiv.2308.08708](https://doi.org/10.48550/arXiv.2308.08708)
+9. National Institute of Standards and Technology. (2023). *Artificial Intelligence Risk Management Framework (AI RMF 1.0)*. NIST AI 100-1. [https://doi.org/10.6028/NIST.AI.100-1](https://doi.org/10.6028/NIST.AI.100-1)
+10. National Institute of Standards and Technology. (2024). *Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile*. NIST AI 600-1. [https://doi.org/10.6028/NIST.AI.600-1](https://doi.org/10.6028/NIST.AI.600-1)
 11. UNESCO. (2021). *Recommendation on the Ethics of Artificial Intelligence*. https://unesdoc.unesco.org/ark:/48223/pf0000381137
 12. Unia Europejska. (2024). *Rozporządzenie (UE) 2024/1689 w sprawie ustanowienia zharmonizowanych przepisów dotyczących sztucznej inteligencji*. *Dziennik Urzędowy Unii Europej*. http://data.europa.eu/eli/reg/2024/1689/oj
 13. ISO/IEC. (2023). *ISO/IEC 23894:2023 Information technology — Artificial intelligence — Guidance on risk management*. International Organization for Standardization.

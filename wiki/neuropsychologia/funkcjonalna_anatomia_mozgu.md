@@ -61,9 +61,9 @@ Objawy pomagają lokalizować uszkodzenia, lecz diaschiza, obrzęk, uszkodzenia 
 
 ## Bibliografia
 
-- Barrett, L. F., & Satpute, A. B. (2013). Large-scale brain networks in affective and social neuroscience. *Current Opinion in Neurobiology, 23*(3), 361–372. https://doi.org/10.1016/j.conb.2012.12.012
-- Catani, M., Dell’Acqua, F., & Thiebaut de Schotten, M. (2013). A revised limbic system model for memory, emotion and behaviour. *Neuroscience & Biobehavioral Reviews, 37*(8), 1724–1737. https://doi.org/10.1016/j.neubiorev.2013.07.001
-- Corballis, M. C. (2014). Left brain, right brain: facts and fantasies. *PLOS Biology, 12*(1), e1001767. https://doi.org/10.1371/journal.pbio.1001767
-- Menon, V. (2011). Large-scale brain networks and psychopathology. *Trends in Cognitive Sciences, 15*(10), 483–506. https://doi.org/10.1016/j.tics.2011.08.003
-- Pessoa, L. (2017). A network model of the emotional brain. *Trends in Cognitive Sciences, 21*(5), 357–371. https://doi.org/10.1016/j.tics.2017.03.002
-- Raichle, M. E. (2015). The brain’s default mode network. *Annual Review of Neuroscience, 38*, 433–447. https://doi.org/10.1146/annurev-neuro-071013-014030
+- Barrett, L. F., & Satpute, A. B. (2013). Large-scale brain networks in affective and social neuroscience. *Current Opinion in Neurobiology, 23*(3), 361–372. [https://doi.org/10.1016/j.conb.2012.12.012](https://doi.org/10.1016/j.conb.2012.12.012)
+- Catani, M., Dell’Acqua, F., & Thiebaut de Schotten, M. (2013). A revised limbic system model for memory, emotion and behaviour. *Neuroscience & Biobehavioral Reviews, 37*(8), 1724–1737. [https://doi.org/10.1016/j.neubiorev.2013.07.001](https://doi.org/10.1016/j.neubiorev.2013.07.001)
+- Corballis, M. C. (2014). Left brain, right brain: facts and fantasies. *PLOS Biology, 12*(1), e1001767. [https://doi.org/10.1371/journal.pbio.1001767](https://doi.org/10.1371/journal.pbio.1001767)
+- Menon, V. (2011). Large-scale brain networks and psychopathology. *Trends in Cognitive Sciences, 15*(10), 483–506. [https://doi.org/10.1016/j.tics.2011.08.003](https://doi.org/10.1016/j.tics.2011.08.003)
+- Pessoa, L. (2017). A network model of the emotional brain. *Trends in Cognitive Sciences, 21*(5), 357–371. [https://doi.org/10.1016/j.tics.2017.03.002](https://doi.org/10.1016/j.tics.2017.03.002)
+- Raichle, M. E. (2015). The brain’s default mode network. *Annual Review of Neuroscience, 38*, 433–447. [https://doi.org/10.1146/annurev-neuro-071013-014030](https://doi.org/10.1146/annurev-neuro-071013-014030)

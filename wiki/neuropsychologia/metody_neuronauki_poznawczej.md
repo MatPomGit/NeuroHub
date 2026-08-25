@@ -64,9 +64,9 @@ Metodę wybiera się do hipotezy. EEG odpowiada na pytania o czas, fMRI o rozkł
 
 ## Bibliografia
 
-- Eklund, A., Nichols, T. E., & Knutsson, H. (2016). Cluster failure: Why fMRI inferences for spatial extent have inflated false-positive rates. *PNAS, 113*(28), 7900–7905. https://doi.org/10.1073/pnas.1602413113
+- Eklund, A., Nichols, T. E., & Knutsson, H. (2016). Cluster failure: Why fMRI inferences for spatial extent have inflated false-positive rates. *PNAS, 113*(28), 7900–7905. [https://doi.org/10.1073/pnas.1602413113](https://doi.org/10.1073/pnas.1602413113)
 - Luck, S. J. (2014). *An introduction to the event-related potential technique* (2nd ed.). MIT Press.
-- Poldrack, R. A. (2006). Can cognitive processes be inferred from neuroimaging data? *Trends in Cognitive Sciences, 10*(2), 59–63. https://doi.org/10.1016/j.tics.2005.12.004
+- Poldrack, R. A. (2006). Can cognitive processes be inferred from neuroimaging data? *Trends in Cognitive Sciences, 10*(2), 59–63. [https://doi.org/10.1016/j.tics.2005.12.004](https://doi.org/10.1016/j.tics.2005.12.004)
 - Poldrack, R. A., Mumford, J. A., & Nichols, T. E. (2011). *Handbook of functional MRI data analysis*. Cambridge University Press.
-- Krigolson, O. E., Williams, C. C., Norton, A., Hassall, C. D., & Colino, F. L. (2017). Choosing MUSE: Validation of a low-cost, portable EEG system for ERP research. *Frontiers in Neuroscience, 11*, 109. https://doi.org/10.3389/fnins.2017.00109
-- Yarkoni, T. (2022). The generalizability crisis. *Behavioral and Brain Sciences, 45*, e1. https://doi.org/10.1017/S0140525X20001685
+- Krigolson, O. E., Williams, C. C., Norton, A., Hassall, C. D., & Colino, F. L. (2017). Choosing MUSE: Validation of a low-cost, portable EEG system for ERP research. *Frontiers in Neuroscience, 11*, 109. [https://doi.org/10.3389/fnins.2017.00109](https://doi.org/10.3389/fnins.2017.00109)
+- Yarkoni, T. (2022). The generalizability crisis. *Behavioral and Brain Sciences, 45*, e1. [https://doi.org/10.1017/S0140525X20001685](https://doi.org/10.1017/S0140525X20001685)

@@ -77,10 +77,10 @@ Przed zamknięciem zbioru zespół uzgadnia rejestr rekrutacji z zapisami sesji,
 
 ## Bibliografia
 
-- Altmann, J. (1974). Observational study of behavior: Sampling methods. *Behaviour, 49*(3–4), 227–267. https://doi.org/10.1163/156853974X00534
-- Hallgren, K. A. (2012). Computing inter-rater reliability for observational data: An overview and tutorial. *Tutorials in Quantitative Methods for Psychology, 8*(1), 23–34. https://doi.org/10.20982/tqmp.08.1.p023
+- Altmann, J. (1974). Observational study of behavior: Sampling methods. *Behaviour, 49*(3–4), 227–267. [https://doi.org/10.1163/156853974X00534](https://doi.org/10.1163/156853974X00534)
+- Hallgren, K. A. (2012). Computing inter-rater reliability for observational data: An overview and tutorial. *Tutorials in Quantitative Methods for Psychology, 8*(1), 23–34. [https://doi.org/10.20982/tqmp.08.1.p023](https://doi.org/10.20982/tqmp.08.1.p023)
 - Little, R. J. A., & Rubin, D. B. (2019). *Statistical Analysis with Missing Data* (3rd ed.). Wiley.
 - National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research. (1979). *The Belmont Report*. U.S. Department of Health and Human Services.
 - Shadish, W. R., Cook, T. D., & Campbell, D. T. (2002). *Experimental and Quasi-Experimental Designs for Generalized Causal Inference*. Houghton Mifflin.
-- Wilkinson, M. D., et al. (2016). The FAIR guiding principles for scientific data management and stewardship. *Scientific Data, 3*, 160018. https://doi.org/10.1038/sdata.2016.18
-- World Medical Association. (2024). Declaration of Helsinki: Ethical principles for medical research involving human participants. *JAMA, 333*(1), 71–74. https://doi.org/10.1001/jama.2024.21972
+- Wilkinson, M. D., et al. (2016). The FAIR guiding principles for scientific data management and stewardship. *Scientific Data, 3*, 160018. [https://doi.org/10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18)
+- World Medical Association. (2024). Declaration of Helsinki: Ethical principles for medical research involving human participants. *JAMA, 333*(1), 71–74. [https://doi.org/10.1001/jama.2024.21972](https://doi.org/10.1001/jama.2024.21972)

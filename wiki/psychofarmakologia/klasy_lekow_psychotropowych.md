@@ -44,8 +44,8 @@ Do tej niejednorodnej grupy należą leki używane do leczenia działań niepoż
 
 ## Bibliografia
 
-- Huhn, M. i in. (2019). Comparative efficacy and tolerability of 32 oral antipsychotics. *The Lancet*, 394, 939–951. https://doi.org/10.1016/S0140-6736(19)31135-3
-- Cipriani, A. i in. (2018). Comparative efficacy and acceptability of 21 antidepressant drugs. *The Lancet*, 391, 1357–1366. https://doi.org/10.1016/S0140-6736(17)32802-7
-- Cortese, S. i in. (2018). Comparative efficacy and tolerability of medications for ADHD. *The Lancet Psychiatry*, 5, 727–738. https://doi.org/10.1016/S2215-0366(18)30269-4
+- Huhn, M. i in. (2019). Comparative efficacy and tolerability of 32 oral antipsychotics. *The Lancet*, 394, 939–951. [https://doi.org/10.1016/S0140-6736(19)31135-3](https://doi.org/10.1016/S0140-6736(19)31135-3)
+- Cipriani, A. i in. (2018). Comparative efficacy and acceptability of 21 antidepressant drugs. *The Lancet*, 391, 1357–1366. [https://doi.org/10.1016/S0140-6736(17)32802-7](https://doi.org/10.1016/S0140-6736(17)32802-7)
+- Cortese, S. i in. (2018). Comparative efficacy and tolerability of medications for ADHD. *The Lancet Psychiatry*, 5, 727–738. [https://doi.org/10.1016/S2215-0366(18)30269-4](https://doi.org/10.1016/S2215-0366(18)30269-4)
 - National Institute for Health and Care Excellence. (2022). *Medicines associated with dependence or withdrawal symptoms: safe prescribing and withdrawal management for adults (NG215)*.
 - Taylor, D. M., Barnes, T. R. E. i Young, A. H. (2021). *The Maudsley Prescribing Guidelines in Psychiatry* (14th ed.). Wiley-Blackwell.

@@ -110,11 +110,11 @@ Badania różnią się definicjami, bazują często na samoopisie i szybko trac�
 
 ## Bibliografia
 
-1. American Academy of Pediatrics, Council on Communications and Media. (2016). Media and Young Minds. *Pediatrics, 138*(5), e20162591. https://doi.org/10.1542/peds.2016-2591
-2. Barr, R. (2013). Memory constraints on infant learning from picture books, television, and touchscreens. *Child Development Perspectives, 7*(4), 205–210. https://doi.org/10.1111/cdep.12041
-3. Hale, L., & Guan, S. (2015). Screen time and sleep among school-aged children and adolescents: A systematic literature review. *Sleep Medicine Reviews, 21*, 50–58. https://doi.org/10.1016/j.smrv.2014.07.007
-4. Kaye, L. K., Orben, A., Ellis, D. A., Hunter, S. C., & Houghton, S. (2020). The conceptual and methodological mayhem of “screen time”. *International Journal of Environmental Research and Public Health, 17*(10), 3661. https://doi.org/10.3390/ijerph17103661
-5. Odgers, C. L., & Jensen, M. R. (2020). Annual Research Review: Adolescent mental health in the digital age. *Journal of Child Psychology and Psychiatry, 61*(3), 336–348. https://doi.org/10.1111/jcpp.13190
-6. Orben, A., & Przybylski, A. K. (2019). The association between adolescent well-being and digital technology use. *Nature Human Behaviour, 3*, 173–182. https://doi.org/10.1038/s41562-018-0506-1
-7. Parry, D. A., Davidson, B. I., Sewall, C. J. R., Fisher, J. T., Mieczkowski, H., & Quintana, D. S. (2021). A systematic review and meta-analysis of discrepancies between logged and self-reported digital media use. *Nature Human Behaviour, 5*, 1535–1547. https://doi.org/10.1038/s41562-021-01117-5
+1. American Academy of Pediatrics, Council on Communications and Media. (2016). Media and Young Minds. *Pediatrics, 138*(5), e20162591. [https://doi.org/10.1542/peds.2016-2591](https://doi.org/10.1542/peds.2016-2591)
+2. Barr, R. (2013). Memory constraints on infant learning from picture books, television, and touchscreens. *Child Development Perspectives, 7*(4), 205–210. [https://doi.org/10.1111/cdep.12041](https://doi.org/10.1111/cdep.12041)
+3. Hale, L., & Guan, S. (2015). Screen time and sleep among school-aged children and adolescents: A systematic literature review. *Sleep Medicine Reviews, 21*, 50–58. [https://doi.org/10.1016/j.smrv.2014.07.007](https://doi.org/10.1016/j.smrv.2014.07.007)
+4. Kaye, L. K., Orben, A., Ellis, D. A., Hunter, S. C., & Houghton, S. (2020). The conceptual and methodological mayhem of “screen time”. *International Journal of Environmental Research and Public Health, 17*(10), 3661. [https://doi.org/10.3390/ijerph17103661](https://doi.org/10.3390/ijerph17103661)
+5. Odgers, C. L., & Jensen, M. R. (2020). Annual Research Review: Adolescent mental health in the digital age. *Journal of Child Psychology and Psychiatry, 61*(3), 336–348. [https://doi.org/10.1111/jcpp.13190](https://doi.org/10.1111/jcpp.13190)
+6. Orben, A., & Przybylski, A. K. (2019). The association between adolescent well-being and digital technology use. *Nature Human Behaviour, 3*, 173–182. [https://doi.org/10.1038/s41562-018-0506-1](https://doi.org/10.1038/s41562-018-0506-1)
+7. Parry, D. A., Davidson, B. I., Sewall, C. J. R., Fisher, J. T., Mieczkowski, H., & Quintana, D. S. (2021). A systematic review and meta-analysis of discrepancies between logged and self-reported digital media use. *Nature Human Behaviour, 5*, 1535–1547. [https://doi.org/10.1038/s41562-021-01117-5](https://doi.org/10.1038/s41562-021-01117-5)
 8. World Health Organization. (2019). *Guidelines on physical activity, sedentary behaviour and sleep for children under 5 years of age*. WHO.

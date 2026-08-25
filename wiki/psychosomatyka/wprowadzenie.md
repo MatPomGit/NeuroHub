@@ -81,10 +81,10 @@ Współczesna psychosomatyka odrzuca zarówno redukcjonizm biologiczny, który p
 ## Bibliografia
 
 1. Alexander, F. (1950). *Psychosomatic medicine: Its principles and applications.* W. W. Norton.
-2. Ader, R., & Cohen, N. (1975). Behaviorally conditioned immunosuppression. *Psychosomatic Medicine, 37*(4), 333–340. https://doi.org/10.1097/00006842-197507000-00007
-3. Engel, G. L. (1977). The need for a new medical model: A challenge for biomedicine. *Science, 196*(4286), 129–136. https://doi.org/10.1126/science.847460
-4. Fava, G. A., Cosci, F., & Sonino, N. (2017). Current psychosomatic practice. *Psychotherapy and Psychosomatics, 86*(1), 13–30. https://doi.org/10.1159/000448856
-5. Herman, J. P., McKlveen, J. M., Ghosal, S., Kopp, B., Wulsin, A., Makinson, R., Scheimann, J., & Myers, B. (2016). Regulation of the hypothalamic-pituitary-adrenocortical stress response. *Comprehensive Physiology, 6*(2), 603–621. https://doi.org/10.1002/cphy.c150015
-6. McEwen, B. S. (1998). Protective and damaging effects of stress mediators. *The New England Journal of Medicine, 338*(3), 171–179. https://doi.org/10.1056/NEJM199801153380307
-7. Segerstrom, S. C., & Miller, G. E. (2004). Psychological stress and the human immune system: A meta-analytic study of 30 years of inquiry. *Psychological Bulletin, 130*(4), 601–630. https://doi.org/10.1037/0033-2909.130.4.601
+2. Ader, R., & Cohen, N. (1975). Behaviorally conditioned immunosuppression. *Psychosomatic Medicine, 37*(4), 333–340. [https://doi.org/10.1097/00006842-197507000-00007](https://doi.org/10.1097/00006842-197507000-00007)
+3. Engel, G. L. (1977). The need for a new medical model: A challenge for biomedicine. *Science, 196*(4286), 129–136. [https://doi.org/10.1126/science.847460](https://doi.org/10.1126/science.847460)
+4. Fava, G. A., Cosci, F., & Sonino, N. (2017). Current psychosomatic practice. *Psychotherapy and Psychosomatics, 86*(1), 13–30. [https://doi.org/10.1159/000448856](https://doi.org/10.1159/000448856)
+5. Herman, J. P., McKlveen, J. M., Ghosal, S., Kopp, B., Wulsin, A., Makinson, R., Scheimann, J., & Myers, B. (2016). Regulation of the hypothalamic-pituitary-adrenocortical stress response. *Comprehensive Physiology, 6*(2), 603–621. [https://doi.org/10.1002/cphy.c150015](https://doi.org/10.1002/cphy.c150015)
+6. McEwen, B. S. (1998). Protective and damaging effects of stress mediators. *The New England Journal of Medicine, 338*(3), 171–179. [https://doi.org/10.1056/NEJM199801153380307](https://doi.org/10.1056/NEJM199801153380307)
+7. Segerstrom, S. C., & Miller, G. E. (2004). Psychological stress and the human immune system: A meta-analytic study of 30 years of inquiry. *Psychological Bulletin, 130*(4), 601–630. [https://doi.org/10.1037/0033-2909.130.4.601](https://doi.org/10.1037/0033-2909.130.4.601)
 8. Selye, H. (1956). *The stress of life.* McGraw-Hill.

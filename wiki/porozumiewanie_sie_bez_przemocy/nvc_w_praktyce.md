@@ -87,8 +87,8 @@ Rozsądny wniosek jest więc asymetryczny: elementy NVC mogą być praktycznie p
 
 ## Bibliografia
 
-1. Marlow, E., Nyamathi, A., Grajeda, W. T., Bailey, N., Weber, A., & Younger, J. (2012). Nonviolent Communication training and empathy in male parolees. *Journal of Correctional Health Care, 18*(1), 8–19. https://doi.org/10.1177/1078345811420979
-2. Museux, A.-C., Dumont, S., Careau, E., & Milot, É. (2016). Improving interprofessional collaboration: The effect of training in nonviolent communication. *Social Work in Health Care, 55*(6), 427–439. https://doi.org/10.1080/00981389.2016.1164270
-3. Nosek, M., Gifford, E., & Kober, B. (2014). Nonviolent Communication (NVC) training increases empathy in baccalaureate nursing students: A mixed method study. *Journal of Nursing Education and Practice, 4*(10), 1–15. https://doi.org/10.5430/jnep.v4n10p1
+1. Marlow, E., Nyamathi, A., Grajeda, W. T., Bailey, N., Weber, A., & Younger, J. (2012). Nonviolent Communication training and empathy in male parolees. *Journal of Correctional Health Care, 18*(1), 8–19. [https://doi.org/10.1177/1078345811420979](https://doi.org/10.1177/1078345811420979)
+2. Museux, A.-C., Dumont, S., Careau, E., & Milot, É. (2016). Improving interprofessional collaboration: The effect of training in nonviolent communication. *Social Work in Health Care, 55*(6), 427–439. [https://doi.org/10.1080/00981389.2016.1164270](https://doi.org/10.1080/00981389.2016.1164270)
+3. Nosek, M., Gifford, E., & Kober, B. (2014). Nonviolent Communication (NVC) training increases empathy in baccalaureate nursing students: A mixed method study. *Journal of Nursing Education and Practice, 4*(10), 1–15. [https://doi.org/10.5430/jnep.v4n10p1](https://doi.org/10.5430/jnep.v4n10p1)
 4. Rosenberg, M. B. (2015). *Nonviolent Communication: A Language of Life* (3rd ed.). PuddleDancer Press.
-5. Wacker, R., & Dziobek, I. (2018). Preventing empathic distress and social stressors at work through nonviolent communication training: A field study with health professionals. *Journal of Occupational Health Psychology, 23*(1), 141–150. https://doi.org/10.1037/ocp0000058
+5. Wacker, R., & Dziobek, I. (2018). Preventing empathic distress and social stressors at work through nonviolent communication training: A field study with health professionals. *Journal of Occupational Health Psychology, 23*(1), 141–150. [https://doi.org/10.1037/ocp0000058](https://doi.org/10.1037/ocp0000058)

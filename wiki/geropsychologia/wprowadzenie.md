@@ -83,11 +83,11 @@ Psychologia późnej dorosłości opisuje nie „typowego seniora”, lecz relac
 
 ## Bibliografia
 
-1. Baltes, P. B., & Baltes, M. M. (red.). (1990). *Successful Aging: Perspectives from the Behavioral Sciences*. Cambridge University Press. https://doi.org/10.1017/CBO9780511665684
-2. Carstensen, L. L., Isaacowitz, D. M., & Charles, S. T. (1999). Taking time seriously: A theory of socioemotional selectivity. *American Psychologist, 54*(3), 165–181. https://doi.org/10.1037/0003-066X.54.3.165
-3. National Academies of Sciences, Engineering, and Medicine. (2020). *Social Isolation and Loneliness in Older Adults: Opportunities for the Health Care System*. National Academies Press. https://doi.org/10.17226/25663
-4. Rowe, J. W., & Kahn, R. L. (1997). Successful aging. *The Gerontologist, 37*(4), 433–440. https://doi.org/10.1093/geront/37.4.433
-5. Steptoe, A., Deaton, A., & Stone, A. A. (2015). Subjective wellbeing, health, and ageing. *The Lancet, 385*(9968), 640–648. https://doi.org/10.1016/S0140-6736(13)61489-0
+1. Baltes, P. B., & Baltes, M. M. (red.). (1990). *Successful Aging: Perspectives from the Behavioral Sciences*. Cambridge University Press. [https://doi.org/10.1017/CBO9780511665684](https://doi.org/10.1017/CBO9780511665684)
+2. Carstensen, L. L., Isaacowitz, D. M., & Charles, S. T. (1999). Taking time seriously: A theory of socioemotional selectivity. *American Psychologist, 54*(3), 165–181. [https://doi.org/10.1037/0003-066X.54.3.165](https://doi.org/10.1037/0003-066X.54.3.165)
+3. National Academies of Sciences, Engineering, and Medicine. (2020). *Social Isolation and Loneliness in Older Adults: Opportunities for the Health Care System*. National Academies Press. [https://doi.org/10.17226/25663](https://doi.org/10.17226/25663)
+4. Rowe, J. W., & Kahn, R. L. (1997). Successful aging. *The Gerontologist, 37*(4), 433–440. [https://doi.org/10.1093/geront/37.4.433](https://doi.org/10.1093/geront/37.4.433)
+5. Steptoe, A., Deaton, A., & Stone, A. A. (2015). Subjective wellbeing, health, and ageing. *The Lancet, 385*(9968), 640–648. [https://doi.org/10.1016/S0140-6736(13)61489-0](https://doi.org/10.1016/S0140-6736(13)61489-0)
 6. World Health Organization. (2015). *World Report on Ageing and Health*. WHO.
 7. World Health Organization. (2021). *Global Report on Ageism*. WHO.
 8. World Health Organization. (2020). *Decade of Healthy Ageing: Baseline Report*. WHO.

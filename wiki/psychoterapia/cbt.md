@@ -54,10 +54,10 @@ CBT ma rozbudowaną bazę badań dla wielu problemów, ale etykieta obejmuje ró
 ## Bibliografia
 
 1. Beck, A. T., Rush, A. J., Shaw, B. F., & Emery, G. (1979). *Cognitive Therapy of Depression*. Guilford Press.
-2. Cuijpers, P., Karyotaki, E., de Wit, L., & Ebert, D. D. (2020). The effects of fifteen evidence-supported therapies for adult depression. *Psychotherapy Research, 30*(3), 279–293. https://doi.org/10.1080/10503307.2019.1649732
-3. Dimidjian, S., et al. (2006). Randomized trial of behavioral activation, cognitive therapy, and antidepressant medication. *Journal of Consulting and Clinical Psychology, 74*(4), 658–670. https://doi.org/10.1037/0022-006X.74.4.658
+2. Cuijpers, P., Karyotaki, E., de Wit, L., & Ebert, D. D. (2020). The effects of fifteen evidence-supported therapies for adult depression. *Psychotherapy Research, 30*(3), 279–293. [https://doi.org/10.1080/10503307.2019.1649732](https://doi.org/10.1080/10503307.2019.1649732)
+3. Dimidjian, S., et al. (2006). Randomized trial of behavioral activation, cognitive therapy, and antidepressant medication. *Journal of Consulting and Clinical Psychology, 74*(4), 658–670. [https://doi.org/10.1037/0022-006X.74.4.658](https://doi.org/10.1037/0022-006X.74.4.658)
 4. Ellis, A. (1962). *Reason and Emotion in Psychotherapy*. Lyle Stuart.
-5. Hofmann, S. G., Asnaani, A., Vonk, I. J. J., Sawyer, A. T., & Fang, A. (2012). The efficacy of cognitive behavioral therapy. *Cognitive Therapy and Research, 36*, 427–440. https://doi.org/10.1007/s10608-012-9476-1
-6. Kurtz, M. M., & Mueser, K. T. (2008). A meta-analysis of controlled research on social skills training for schizophrenia. *Journal of Consulting and Clinical Psychology, 76*(3), 491–504. https://doi.org/10.1037/0022-006X.76.3.491
+5. Hofmann, S. G., Asnaani, A., Vonk, I. J. J., Sawyer, A. T., & Fang, A. (2012). The efficacy of cognitive behavioral therapy. *Cognitive Therapy and Research, 36*, 427–440. [https://doi.org/10.1007/s10608-012-9476-1](https://doi.org/10.1007/s10608-012-9476-1)
+6. Kurtz, M. M., & Mueser, K. T. (2008). A meta-analysis of controlled research on social skills training for schizophrenia. *Journal of Consulting and Clinical Psychology, 76*(3), 491–504. [https://doi.org/10.1037/0022-006X.76.3.491](https://doi.org/10.1037/0022-006X.76.3.491)
 7. Martell, C. R., Dimidjian, S., & Herman-Dunn, R. (2010). *Behavioral Activation for Depression*. Guilford Press.
-8. Tolin, D. F. (2010). Is cognitive-behavioral therapy more effective than other therapies? *Clinical Psychology Review, 30*(6), 710–720. https://doi.org/10.1016/j.cpr.2010.05.003
+8. Tolin, D. F. (2010). Is cognitive-behavioral therapy more effective than other therapies? *Clinical Psychology Review, 30*(6), 710–720. [https://doi.org/10.1016/j.cpr.2010.05.003](https://doi.org/10.1016/j.cpr.2010.05.003)

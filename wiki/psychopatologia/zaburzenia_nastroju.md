@@ -48,8 +48,8 @@ W depresji skuteczne są m.in. psychoterapie poznawczo-behawioralne i interperso
 
 1. American Psychiatric Association. (2022). *Diagnostic and Statistical Manual of Mental Disorders* (5th ed., text rev.).
 2. Dąbrowski, K. (1964). *Positive Disintegration*. Little, Brown.
-3. Malhi, G. S., et al. (2021). The 2020 Royal Australian and New Zealand College of Psychiatrists clinical practice guidelines for mood disorders. *Australian & New Zealand Journal of Psychiatry, 55*(1), 7–117. https://doi.org/10.1177/0004867420979353
-4. Maier, S. F., & Seligman, M. E. P. (2016). Learned helplessness at fifty. *Psychological Review, 123*(4), 349–367. https://doi.org/10.1037/rev0000033
+3. Malhi, G. S., et al. (2021). The 2020 Royal Australian and New Zealand College of Psychiatrists clinical practice guidelines for mood disorders. *Australian & New Zealand Journal of Psychiatry, 55*(1), 7–117. [https://doi.org/10.1177/0004867420979353](https://doi.org/10.1177/0004867420979353)
+4. Maier, S. F., & Seligman, M. E. P. (2016). Learned helplessness at fifty. *Psychological Review, 123*(4), 349–367. [https://doi.org/10.1037/rev0000033](https://doi.org/10.1037/rev0000033)
 5. National Institute for Health and Care Excellence. (2022). *Depression in adults: treatment and management (NG222)*.
 6. National Institute for Health and Care Excellence. (2020). *Antenatal and postnatal mental health (CG192)*.
 7. World Health Organization. (2024). *Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders*.

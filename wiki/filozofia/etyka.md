@@ -73,5 +73,5 @@ Rozmowa o nieistnieniu może dotykać osób w kryzysie. Argument metafizyczny ni
 4. Griffin, J. (1986). *Well-Being*. Clarendon Press.
 5. Narveson, J. (1967). Utilitarianism and new generations. *Mind, 76*(301), 62–72.
 6. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
-7. Shiffrin, S. V. (1999). Wrongful life, procreative responsibility, and the significance of harm. *Legal Theory, 5*(2), 117–148. https://doi.org/10.1017/S1352325299052015
+7. Shiffrin, S. V. (1999). Wrongful life, procreative responsibility, and the significance of harm. *Legal Theory, 5*(2), 117–148. [https://doi.org/10.1017/S1352325299052015](https://doi.org/10.1017/S1352325299052015)
 8. Singer, P. (2011). *Practical Ethics* (3rd ed.). Cambridge University Press.

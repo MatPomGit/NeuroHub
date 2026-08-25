@@ -58,7 +58,7 @@ Transhumanizm pyta o moralną dopuszczalność technologicznego ulepszania czło
 
 1. Beauvoir, S. de. (2011). *The Ethics of Ambiguity*. Open Road. (Oryginał opublikowano w 1947 r.).
 2. Camus, A. (1991). *The Myth of Sisyphus and Other Essays*. Vintage. (Oryginał opublikowano w 1942 r.).
-3. Frankfurt, H. G. (1969). Alternate possibilities and moral responsibility. *The Journal of Philosophy, 66*(23), 829–839. https://doi.org/10.2307/2023833
+3. Frankfurt, H. G. (1969). Alternate possibilities and moral responsibility. *The Journal of Philosophy, 66*(23), 829–839. [https://doi.org/10.2307/2023833](https://doi.org/10.2307/2023833)
 4. Heidegger, M. (1962). *Being and Time*. Blackwell. (Oryginał opublikowano w 1927 r.).
 5. Pereboom, D. (2014). *Free Will, Agency, and Meaning in Life*. Oxford University Press.
 6. Sartre, J.-P. (2007). *Existentialism Is a Humanism*. Yale University Press. (Oryginał opublikowano w 1946 r.).

@@ -77,11 +77,11 @@ Czytanie jest praktyką osadzoną w relacji między tekstem, czytelnikiem i śro
 
 ## Bibliografia
 
-1. Bus, A. G., van IJzendoorn, M. H., & Pellegrini, A. D. (1995). Joint book reading makes for success in learning to read: A meta-analysis on intergenerational transmission of literacy. *Review of Educational Research, 65*(1), 1–21. https://doi.org/10.3102/00346543065001001
-2. Clinton, V. (2019). Reading from paper compared to screens: A systematic review and meta-analysis. *Journal of Research in Reading, 42*(2), 288–325. https://doi.org/10.1111/1467-9817.12269
+1. Bus, A. G., van IJzendoorn, M. H., & Pellegrini, A. D. (1995). Joint book reading makes for success in learning to read: A meta-analysis on intergenerational transmission of literacy. *Review of Educational Research, 65*(1), 1–21. [https://doi.org/10.3102/00346543065001001](https://doi.org/10.3102/00346543065001001)
+2. Clinton, V. (2019). Reading from paper compared to screens: A systematic review and meta-analysis. *Journal of Research in Reading, 42*(2), 288–325. [https://doi.org/10.1111/1467-9817.12269](https://doi.org/10.1111/1467-9817.12269)
 3. Dehaene, S. (2009). *Reading in the Brain*. Viking.
-4. Delgado, P., Vargas, C., Ackerman, R., & Salmerón, L. (2018). Don't throw away your printed books: A meta-analysis on the effects of reading media on reading comprehension. *Educational Research Review, 25*, 23–38. https://doi.org/10.1016/j.edurev.2018.09.003
-5. Dodell-Feder, D., & Tamir, D. I. (2018). Fiction reading has a small positive impact on social cognition: A meta-analysis. *Journal of Experimental Psychology: General, 147*(11), 1713–1727. https://doi.org/10.1037/xge0000395
-6. Mar, R. A. (2018). Evaluating whether stories can promote social cognition: Introducing the Social Processes and Content Entrained by Narrative model. *Discourse Processes, 55*(5–6), 454–479. https://doi.org/10.1080/0163853X.2018.1448209
-7. Mol, S. E., & Bus, A. G. (2011). To read or not to read: A meta-analysis of print exposure from infancy to early adulthood. *Psychological Bulletin, 137*(2), 267–296. https://doi.org/10.1037/a0021890
+4. Delgado, P., Vargas, C., Ackerman, R., & Salmerón, L. (2018). Don't throw away your printed books: A meta-analysis on the effects of reading media on reading comprehension. *Educational Research Review, 25*, 23–38. [https://doi.org/10.1016/j.edurev.2018.09.003](https://doi.org/10.1016/j.edurev.2018.09.003)
+5. Dodell-Feder, D., & Tamir, D. I. (2018). Fiction reading has a small positive impact on social cognition: A meta-analysis. *Journal of Experimental Psychology: General, 147*(11), 1713–1727. [https://doi.org/10.1037/xge0000395](https://doi.org/10.1037/xge0000395)
+6. Mar, R. A. (2018). Evaluating whether stories can promote social cognition: Introducing the Social Processes and Content Entrained by Narrative model. *Discourse Processes, 55*(5–6), 454–479. [https://doi.org/10.1080/0163853X.2018.1448209](https://doi.org/10.1080/0163853X.2018.1448209)
+7. Mol, S. E., & Bus, A. G. (2011). To read or not to read: A meta-analysis of print exposure from infancy to early adulthood. *Psychological Bulletin, 137*(2), 267–296. [https://doi.org/10.1037/a0021890](https://doi.org/10.1037/a0021890)
 8. Wolf, M. (2018). *Reader, Come Home: The Reading Brain in a Digital World*. Harper.

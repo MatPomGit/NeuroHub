@@ -58,4 +58,4 @@ Neisser, U. (1967). *Cognitive psychology*. Appleton-Century-Crofts.
 
 Pickren, W. E., & Rutherford, A. (2010). *A history of modern psychology in context*. Wiley.
 
-Watson, J. B. (1913). Psychology as the behaviorist views it. *Psychological Review, 20*(2), 158–177. https://doi.org/10.1037/h0074428
+Watson, J. B. (1913). Psychology as the behaviorist views it. *Psychological Review, 20*(2), 158–177. [https://doi.org/10.1037/h0074428](https://doi.org/10.1037/h0074428)

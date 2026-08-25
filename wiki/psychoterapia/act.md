@@ -48,9 +48,9 @@ Metafory trzeba dostosować językowo i kulturowo. Zachęcanie do „akceptacji�
 
 ## Bibliografia
 
-1. A-Tjak, J. G. L., et al. (2015). A meta-analysis of the efficacy of acceptance and commitment therapy. *Psychotherapy and Psychosomatics, 84*(1), 30–36. https://doi.org/10.1159/000365764
-2. Gloster, A. T., Walder, N., Levin, M. E., Twohig, M. P., & Karekla, M. (2020). The empirical status of ACT. *Journal of Contextual Behavioral Science, 18*, 181–192. https://doi.org/10.1016/j.jcbs.2020.09.009
+1. A-Tjak, J. G. L., et al. (2015). A meta-analysis of the efficacy of acceptance and commitment therapy. *Psychotherapy and Psychosomatics, 84*(1), 30–36. [https://doi.org/10.1159/000365764](https://doi.org/10.1159/000365764)
+2. Gloster, A. T., Walder, N., Levin, M. E., Twohig, M. P., & Karekla, M. (2020). The empirical status of ACT. *Journal of Contextual Behavioral Science, 18*, 181–192. [https://doi.org/10.1016/j.jcbs.2020.09.009](https://doi.org/10.1016/j.jcbs.2020.09.009)
 3. Hayes, S. C., Strosahl, K. D., & Wilson, K. G. (2012). *Acceptance and Commitment Therapy* (2nd ed.). Guilford Press.
-4. Hayes, S. C., Villatte, M., Levin, M., & Hildebrandt, M. (2011). Open, aware, and active. *Clinical Psychology Review, 31*(4), 676–691. https://doi.org/10.1016/j.cpr.2011.03.001
-5. Levin, M. E., Hildebrandt, M. J., Lillis, J., & Hayes, S. C. (2012). The impact of treatment components suggested by the psychological flexibility model. *Behavior Therapy, 43*(4), 741–756. https://doi.org/10.1016/j.beth.2012.05.003
-6. Stockton, D., Kellett, S., Berrios, R., Sirois, F., Wilkinson, N., & Miles, G. (2019). Identifying the underlying mechanisms of change during ACT. *Clinical Psychology Review, 72*, 101749. https://doi.org/10.1016/j.cpr.2019.101749
+4. Hayes, S. C., Villatte, M., Levin, M., & Hildebrandt, M. (2011). Open, aware, and active. *Clinical Psychology Review, 31*(4), 676–691. [https://doi.org/10.1016/j.cpr.2011.03.001](https://doi.org/10.1016/j.cpr.2011.03.001)
+5. Levin, M. E., Hildebrandt, M. J., Lillis, J., & Hayes, S. C. (2012). The impact of treatment components suggested by the psychological flexibility model. *Behavior Therapy, 43*(4), 741–756. [https://doi.org/10.1016/j.beth.2012.05.003](https://doi.org/10.1016/j.beth.2012.05.003)
+6. Stockton, D., Kellett, S., Berrios, R., Sirois, F., Wilkinson, N., & Miles, G. (2019). Identifying the underlying mechanisms of change during ACT. *Clinical Psychology Review, 72*, 101749. [https://doi.org/10.1016/j.cpr.2019.101749](https://doi.org/10.1016/j.cpr.2019.101749)

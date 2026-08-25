@@ -68,9 +68,9 @@ Teorie tożsamości wpływają na analizę odpowiedzialności, zobowiązań i dy
 
 ## Bibliografia
 
-1. Block, N. (1995). On a confusion about a function of consciousness. *Behavioral and Brain Sciences, 18*(2), 227–247. https://doi.org/10.1017/S0140525X00038188
+1. Block, N. (1995). On a confusion about a function of consciousness. *Behavioral and Brain Sciences, 18*(2), 227–247. [https://doi.org/10.1017/S0140525X00038188](https://doi.org/10.1017/S0140525X00038188)
 2. Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
-3. Churchland, P. M. (1981). Eliminative materialism and the propositional attitudes. *The Journal of Philosophy, 78*(2), 67–90. https://doi.org/10.2307/2025900
+3. Churchland, P. M. (1981). Eliminative materialism and the propositional attitudes. *The Journal of Philosophy, 78*(2), 67–90. [https://doi.org/10.2307/2025900](https://doi.org/10.2307/2025900)
 4. Goff, P., Seager, W., & Allen-Hermanson, S. (2022). Panpsychism. W E. N. Zalta (red.), *The Stanford Encyclopedia of Philosophy*.
 5. Olson, E. T. (2023). Personal identity. W E. N. Zalta & U. Nodelman (red.), *The Stanford Encyclopedia of Philosophy*.
 6. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.

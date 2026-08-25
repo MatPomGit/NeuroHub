@@ -49,7 +49,7 @@ Niestandardowość nie jest ani wadą, ani dowodem innowacyjności. Decydują ja
 
 1. Enright, R. D., & Fitzgibbons, R. P. (2015). *Forgiveness Therapy* (2nd ed.). American Psychological Association.
 2. Farrelly, F., & Brandsma, J. M. (1974). *Provocative Therapy*. Meta Publications.
-3. Wade, N. G., Hoyt, W. T., Kidwell, J. E. M., & Worthington, E. L. (2014). Efficacy of psychotherapeutic interventions to promote forgiveness. *Journal of Consulting and Clinical Psychology, 82*(1), 154–170. https://doi.org/10.1037/a0035268
+3. Wade, N. G., Hoyt, W. T., Kidwell, J. E. M., & Worthington, E. L. (2014). Efficacy of psychotherapeutic interventions to promote forgiveness. *Journal of Consulting and Clinical Psychology, 82*(1), 154–170. [https://doi.org/10.1037/a0035268](https://doi.org/10.1037/a0035268)
 4. Worthington, E. L. (2006). *Forgiveness and Reconciliation*. Routledge.
-5. Le Texier, T. (2019). Debunking the Stanford Prison Experiment. *American Psychologist, 74*(7), 823–839. https://doi.org/10.1037/amp0000401
-6. Haslam, S. A., & Reicher, S. D. (2012). Contesting the “nature” of conformity. *PLOS Biology, 10*(11), e1001426. https://doi.org/10.1371/journal.pbio.1001426
+5. Le Texier, T. (2019). Debunking the Stanford Prison Experiment. *American Psychologist, 74*(7), 823–839. [https://doi.org/10.1037/amp0000401](https://doi.org/10.1037/amp0000401)
+6. Haslam, S. A., & Reicher, S. D. (2012). Contesting the “nature” of conformity. *PLOS Biology, 10*(11), e1001426. [https://doi.org/10.1371/journal.pbio.1001426](https://doi.org/10.1371/journal.pbio.1001426)

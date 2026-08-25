@@ -60,8 +60,8 @@ MSE jest przekrojem jednego spotkania, a nie samodzielnym testem diagnostycznym.
 ## Bibliografia
 
 1. American Psychiatric Association. (2022). *Diagnostic and Statistical Manual of Mental Disorders* (5th ed., text rev.).
-2. Borsboom, D. (2017). A network theory of mental disorders. *World Psychiatry, 16*(1), 5–13. https://doi.org/10.1002/wps.20375
-3. Hyman, S. E. (2010). The diagnosis of mental disorders: The problem of reification. *Annual Review of Clinical Psychology, 6*, 155–179. https://doi.org/10.1146/annurev.clinpsy.3.022806.091532
-4. Kotov, R., et al. (2022). The Hierarchical Taxonomy of Psychopathology (HiTOP) in psychiatric practice and research. *Psychological Medicine, 52*(2), 166–176. https://doi.org/10.1017/S0033291721001301
+2. Borsboom, D. (2017). A network theory of mental disorders. *World Psychiatry, 16*(1), 5–13. [https://doi.org/10.1002/wps.20375](https://doi.org/10.1002/wps.20375)
+3. Hyman, S. E. (2010). The diagnosis of mental disorders: The problem of reification. *Annual Review of Clinical Psychology, 6*, 155–179. [https://doi.org/10.1146/annurev.clinpsy.3.022806.091532](https://doi.org/10.1146/annurev.clinpsy.3.022806.091532)
+4. Kotov, R., et al. (2022). The Hierarchical Taxonomy of Psychopathology (HiTOP) in psychiatric practice and research. *Psychological Medicine, 52*(2), 166–176. [https://doi.org/10.1017/S0033291721001301](https://doi.org/10.1017/S0033291721001301)
 5. World Health Organization. (2001). *International Classification of Functioning, Disability and Health (ICF)*.
 6. World Health Organization. (2024). *Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders*.

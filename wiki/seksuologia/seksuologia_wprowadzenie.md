@@ -69,10 +69,10 @@ Warto skonsultować się z lekarzem, gdy pojawia się nowy lub nasilający ból,
 ## Bibliografia
 
 1. Bancroft, J. (2009). *Human Sexuality and Its Problems* (3rd ed.). Churchill Livingstone Elsevier.
-2. Basson, R. (2000). The female sexual response: A different model. *Journal of Sex & Marital Therapy, 26*(1), 51–65. https://doi.org/10.1080/009262300278641
-3. Diamond, L. M., & Huebner, D. M. (2012). Is good sex good for you? Rethinking sexuality and health. *Social and Personality Psychology Compass, 6*(1), 54–69. https://doi.org/10.1111/j.1751-9004.2011.00408.x
+2. Basson, R. (2000). The female sexual response: A different model. *Journal of Sex & Marital Therapy, 26*(1), 51–65. [https://doi.org/10.1080/009262300278641](https://doi.org/10.1080/009262300278641)
+3. Diamond, L. M., & Huebner, D. M. (2012). Is good sex good for you? Rethinking sexuality and health. *Social and Personality Psychology Compass, 6*(1), 54–69. [https://doi.org/10.1111/j.1751-9004.2011.00408.x](https://doi.org/10.1111/j.1751-9004.2011.00408.x)
 4. Impett, E. A., Muise, A., & Peragine, D. (2014). Sexuality in the context of relationships. In D. L. Tolman & L. M. Diamond (Eds.), *APA Handbook of Sexuality and Psychology* (Vol. 1, pp. 269–315). American Psychological Association.
 5. Mikulincer, M., & Shaver, P. R. (2016). *Attachment in Adulthood* (2nd ed.). Guilford Press.
-6. Simpson, J. A., & Gangestad, S. W. (1991). Individual differences in sociosexuality. *Journal of Personality and Social Psychology, 60*(6), 870–883. https://doi.org/10.1037/0022-3514.60.6.870
+6. Simpson, J. A., & Gangestad, S. W. (1991). Individual differences in sociosexuality. *Journal of Personality and Social Psychology, 60*(6), 870–883. [https://doi.org/10.1037/0022-3514.60.6.870](https://doi.org/10.1037/0022-3514.60.6.870)
 7. Tolman, D. L., & Diamond, L. M. (Eds.). (2014). *APA Handbook of Sexuality and Psychology*. American Psychological Association.
 8. World Health Organization. (2010). *Developing sexual health programmes: A framework for action*.

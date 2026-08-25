@@ -174,21 +174,21 @@ Dobra resocjalizacja łączy proporcjonalną ochronę przed szkodą, rzetelną o
 
 ## Bibliografia
 
-- Andrews, D. A., Bonta, J., & Hoge, R. D. (1990). Classification for effective rehabilitation: Rediscovering psychology. *Criminal Justice and Behavior, 17*(1), 19–52. https://doi.org/10.1177/0093854890017001004
+- Andrews, D. A., Bonta, J., & Hoge, R. D. (1990). Classification for effective rehabilitation: Rediscovering psychology. *Criminal Justice and Behavior, 17*(1), 19–52. [https://doi.org/10.1177/0093854890017001004](https://doi.org/10.1177/0093854890017001004)
 - Bonta, J., & Andrews, D. A. (2017). *The Psychology of Criminal Conduct* (6th ed.). Routledge.
 - Council of Europe. (2020). *Recommendation Rec(2006)2-rev of the Committee of Ministers to member States on the European Prison Rules*.
-- Davis, L. M., Bozick, R., Steele, J. L., Saunders, J., & Miles, J. N. V. (2013). *Evaluating the Effectiveness of Correctional Education*. RAND Corporation. https://doi.org/10.7249/RR266
-- Gendreau, P., Little, T., & Goggin, C. (1996). A meta-analysis of the predictors of adult offender recidivism. *Criminology, 34*(4), 575–608. https://doi.org/10.1111/j.1745-9125.1996.tb01220.x
+- Davis, L. M., Bozick, R., Steele, J. L., Saunders, J., & Miles, J. N. V. (2013). *Evaluating the Effectiveness of Correctional Education*. RAND Corporation. [https://doi.org/10.7249/RR266](https://doi.org/10.7249/RR266)
+- Gendreau, P., Little, T., & Goggin, C. (1996). A meta-analysis of the predictors of adult offender recidivism. *Criminology, 34*(4), 575–608. [https://doi.org/10.1111/j.1745-9125.1996.tb01220.x](https://doi.org/10.1111/j.1745-9125.1996.tb01220.x)
 - Laub, J. H., & Sampson, R. J. (2003). *Shared Beginnings, Divergent Lives: Delinquent Boys to Age 70*. Harvard University Press.
-- Lipsey, M. W., Landenberger, N. A., & Wilson, S. J. (2007). Effects of cognitive-behavioral programs for criminal offenders. *Campbell Systematic Reviews, 3*(1), 1–27. https://doi.org/10.4073/csr.2007.6
-- Maruna, S. (2001). *Making Good: How Ex-Convicts Reform and Rebuild Their Lives*. American Psychological Association. https://doi.org/10.1037/10430-000
-- McNeill, F. (2012). Four forms of „offender” rehabilitation: Towards an interdisciplinary perspective. *Legal and Criminological Psychology, 17*(1), 18–36. https://doi.org/10.1111/j.2044-8333.2011.02039.x
-- National Research Council. (2014). *The Growth of Incarceration in the United States: Exploring Causes and Consequences*. National Academies Press. https://doi.org/10.17226/18613
+- Lipsey, M. W., Landenberger, N. A., & Wilson, S. J. (2007). Effects of cognitive-behavioral programs for criminal offenders. *Campbell Systematic Reviews, 3*(1), 1–27. [https://doi.org/10.4073/csr.2007.6](https://doi.org/10.4073/csr.2007.6)
+- Maruna, S. (2001). *Making Good: How Ex-Convicts Reform and Rebuild Their Lives*. American Psychological Association. [https://doi.org/10.1037/10430-000](https://doi.org/10.1037/10430-000)
+- McNeill, F. (2012). Four forms of „offender” rehabilitation: Towards an interdisciplinary perspective. *Legal and Criminological Psychology, 17*(1), 18–36. [https://doi.org/10.1111/j.2044-8333.2011.02039.x](https://doi.org/10.1111/j.2044-8333.2011.02039.x)
+- National Research Council. (2014). *The Growth of Incarceration in the United States: Exploring Causes and Consequences*. National Academies Press. [https://doi.org/10.17226/18613](https://doi.org/10.17226/18613)
 - Sherman, L. W., & Strang, H. (2007). *Restorative Justice: The Evidence*. Smith Institute.
-- Strang, H., Sherman, L. W., Mayo-Wilson, E., Woods, D., & Ariel, B. (2013). Restorative justice conferencing using face-to-face meetings of offenders and victims. *Campbell Systematic Reviews, 9*(1), 1–59. https://doi.org/10.4073/csr.2013.12
+- Strang, H., Sherman, L. W., Mayo-Wilson, E., Woods, D., & Ariel, B. (2013). Restorative justice conferencing using face-to-face meetings of offenders and victims. *Campbell Systematic Reviews, 9*(1), 1–59. [https://doi.org/10.4073/csr.2013.12](https://doi.org/10.4073/csr.2013.12)
 - United Nations. (1985). *United Nations Standard Minimum Rules for the Administration of Juvenile Justice (The Beijing Rules)*, A/RES/40/33.
 - United Nations. (1989). *Convention on the Rights of the Child*, Treaty Series, 1577, 3.
 - United Nations. (2015). *United Nations Standard Minimum Rules for the Treatment of Prisoners (the Nelson Mandela Rules)*, A/RES/70/175.
 - Ward, T., & Maruna, S. (2007). *Rehabilitation: Beyond the Risk Paradigm*. Routledge.
-- Ward, T., Mann, R. E., & Gannon, T. A. (2007). The Good Lives Model of offender rehabilitation: Clinical implications. *Aggression and Violent Behavior, 12*(1), 87–107. https://doi.org/10.1016/j.avb.2006.03.004
-- Wilson, D. B., Bouffard, L. A., & MacKenzie, D. L. (2005). A quantitative review of structured, group-oriented, cognitive-behavioral programs for offenders. *Criminal Justice and Behavior, 32*(2), 172–204. https://doi.org/10.1177/0093854804272889
+- Ward, T., Mann, R. E., & Gannon, T. A. (2007). The Good Lives Model of offender rehabilitation: Clinical implications. *Aggression and Violent Behavior, 12*(1), 87–107. [https://doi.org/10.1016/j.avb.2006.03.004](https://doi.org/10.1016/j.avb.2006.03.004)
+- Wilson, D. B., Bouffard, L. A., & MacKenzie, D. L. (2005). A quantitative review of structured, group-oriented, cognitive-behavioral programs for offenders. *Criminal Justice and Behavior, 32*(2), 172–204. [https://doi.org/10.1177/0093854804272889](https://doi.org/10.1177/0093854804272889)

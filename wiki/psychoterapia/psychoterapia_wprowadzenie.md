@@ -54,11 +54,11 @@ Badania różnią się definicją poprawy, długością obserwacji i jakością 
 
 ## Bibliografia
 
-1. Bordin, E. S. (1979). The generalizability of the psychoanalytic concept of the working alliance. *Psychotherapy, 16*(3), 252–260. https://doi.org/10.1037/h0085885
-2. Cuijpers, P., Karyotaki, E., de Wit, L., & Ebert, D. D. (2020). The effects of fifteen evidence-supported therapies for adult depression. *Psychotherapy Research, 30*(3), 279–293. https://doi.org/10.1080/10503307.2019.1649732
-3. Flückiger, C., Del Re, A. C., Wampold, B. E., & Horvath, A. O. (2018). The alliance in adult psychotherapy. *Psychotherapy, 55*(4), 316–340. https://doi.org/10.1037/pst0000172
+1. Bordin, E. S. (1979). The generalizability of the psychoanalytic concept of the working alliance. *Psychotherapy, 16*(3), 252–260. [https://doi.org/10.1037/h0085885](https://doi.org/10.1037/h0085885)
+2. Cuijpers, P., Karyotaki, E., de Wit, L., & Ebert, D. D. (2020). The effects of fifteen evidence-supported therapies for adult depression. *Psychotherapy Research, 30*(3), 279–293. [https://doi.org/10.1080/10503307.2019.1649732](https://doi.org/10.1080/10503307.2019.1649732)
+3. Flückiger, C., Del Re, A. C., Wampold, B. E., & Horvath, A. O. (2018). The alliance in adult psychotherapy. *Psychotherapy, 55*(4), 316–340. [https://doi.org/10.1037/pst0000172](https://doi.org/10.1037/pst0000172)
 4. Lambert, M. J. (Ed.). (2013). *Bergin and Garfield’s Handbook of Psychotherapy and Behavior Change* (6th ed.). Wiley.
-5. Lilienfeld, S. O. (2007). Psychological treatments that cause harm. *Perspectives on Psychological Science, 2*(1), 53–70. https://doi.org/10.1111/j.1745-6916.2007.00029.x
-6. Norcross, J. C., & Wampold, B. E. (2019). Relationships and responsiveness in the psychological treatment of trauma. *Journal of Clinical Psychology, 75*(11), 1889–1898. https://doi.org/10.1002/jclp.22848
-7. Roth, A., & Pilling, S. (2008). Using an evidence-based methodology to identify the competences required to deliver effective CBT. *Behavioural and Cognitive Psychotherapy, 36*(2), 129–147. https://doi.org/10.1017/S1352465808004141
-8. Watkins, C. E. (2020). What do clinical supervision research reviews tell us? *American Journal of Psychotherapy, 73*(4), 115–124. https://doi.org/10.1176/appi.psychotherapy.20200017
+5. Lilienfeld, S. O. (2007). Psychological treatments that cause harm. *Perspectives on Psychological Science, 2*(1), 53–70. [https://doi.org/10.1111/j.1745-6916.2007.00029.x](https://doi.org/10.1111/j.1745-6916.2007.00029.x)
+6. Norcross, J. C., & Wampold, B. E. (2019). Relationships and responsiveness in the psychological treatment of trauma. *Journal of Clinical Psychology, 75*(11), 1889–1898. [https://doi.org/10.1002/jclp.22848](https://doi.org/10.1002/jclp.22848)
+7. Roth, A., & Pilling, S. (2008). Using an evidence-based methodology to identify the competences required to deliver effective CBT. *Behavioural and Cognitive Psychotherapy, 36*(2), 129–147. [https://doi.org/10.1017/S1352465808004141](https://doi.org/10.1017/S1352465808004141)
+8. Watkins, C. E. (2020). What do clinical supervision research reviews tell us? *American Journal of Psychotherapy, 73*(4), 115–124. [https://doi.org/10.1176/appi.psychotherapy.20200017](https://doi.org/10.1176/appi.psychotherapy.20200017)

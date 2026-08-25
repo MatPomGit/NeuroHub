@@ -149,6 +149,6 @@ Kodeksy dostarczają wspólnego języka wartości i minimalnych standardów post
 1. American Psychological Association. (2017). *Ethical principles of psychologists and code of conduct (2002, amended effective June 1, 2010, and January 1, 2017).* APA.
 2. European Federation of Psychologists' Associations. (2005). *Meta-code of ethics.* EFPA.
 3. International Union of Psychological Science. (2008). *Universal declaration of ethical principles for psychologists.* IUPsyS.
-4. Kitchener, K. S. (1984). Intuition, critical evaluation and ethical principles: The foundation for ethical decisions in counseling psychology. *The Counseling Psychologist, 12*(3), 43–55. https://doi.org/10.1177/0011000084123005
-5. Knapp, S. J., & VandeCreek, L. D. (2012). *Practical ethics for psychologists: A positive approach* (2nd ed.). American Psychological Association. https://doi.org/10.1037/13017-000
+4. Kitchener, K. S. (1984). Intuition, critical evaluation and ethical principles: The foundation for ethical decisions in counseling psychology. *The Counseling Psychologist, 12*(3), 43–55. [https://doi.org/10.1177/0011000084123005](https://doi.org/10.1177/0011000084123005)
+5. Knapp, S. J., & VandeCreek, L. D. (2012). *Practical ethics for psychologists: A positive approach* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/13017-000](https://doi.org/10.1037/13017-000)
 6. Polskie Towarzystwo Psychologiczne. (2018). *Kodeks etyczny psychologa Polskiego Towarzystwa Psychologicznego.* PTP.

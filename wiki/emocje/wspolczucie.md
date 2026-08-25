@@ -137,21 +137,21 @@ Najważniejsze rozróżnienie dotyczy tego, **co dzieje się z obserwatorem** i 
 
 ## Bibliografia
 
-1. Batson, C. D. (2011). *Altruism in Humans*. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780195341065.001.0001
-2. Davis, M. H. (1983). Measuring individual differences in empathy: Evidence for a multidimensional approach. *Journal of Personality and Social Psychology, 44*(1), 113–126. https://doi.org/10.1037/0022-3514.44.1.113
-3. Decety, J., & Jackson, P. L. (2004). The functional architecture of human empathy. *Behavioral and Cognitive Neuroscience Reviews, 3*(2), 71–100. https://doi.org/10.1177/1534582304267187
-4. Elliott, R., Bohart, A. C., Watson, J. C., & Murphy, D. (2018). Therapist empathy and client outcome: An updated meta-analysis. *Psychotherapy, 55*(4), 399–410. https://doi.org/10.1037/pst0000175
-5. Goetz, J. L., Keltner, D., & Simon-Thomas, E. (2010). Compassion: An evolutionary analysis and empirical review. *Psychological Bulletin, 136*(3), 351–374. https://doi.org/10.1037/a0018807
-6. Ickes, W. (1993). Empathic accuracy. *Journal of Personality, 61*(4), 587–610. https://doi.org/10.1111/j.1467-6494.1993.tb00783.x
-7. Neff, K. D. (2003). Self-compassion: An alternative conceptualization of a healthy attitude toward oneself. *Self and Identity, 2*(2), 85–101. https://doi.org/10.1080/15298860309032
-8. Rogers, C. R. (1957). The necessary and sufficient conditions of therapeutic personality change. *Journal of Consulting Psychology, 21*(2), 95–103. https://doi.org/10.1037/h0045357
-9. Klimecki, O. M., Leiberg, S., Ricard, M., & Singer, T. (2014). Differential pattern of functional brain plasticity after compassion and empathy training. *Social Cognitive and Affective Neuroscience, 9*(6), 873–879. https://doi.org/10.1093/scan/nst060
-10. Sinclair, S., Raffin-Bouchal, S., Venturato, L., Mijovic-Kondejewski, J., & Smith-MacDonald, L. (2017). Compassion fatigue: A meta-narrative review of the healthcare literature. *International Journal of Nursing Studies, 69*, 9–24. https://doi.org/10.1016/j.ijnurstu.2017.01.003
-11. Singer, T., & Klimecki, O. M. (2014). Empathy and compassion. *Current Biology, 24*(18), R875–R878. https://doi.org/10.1016/j.cub.2014.06.054
-12. Singer, T., Seymour, B., O’Doherty, J., Kaube, H., Dolan, R. J., & Frith, C. D. (2004). Empathy for pain involves the affective but not sensory components of pain. *Science, 303*(5661), 1157–1162. https://doi.org/10.1126/science.1093535
-13. Strauss, C., Lever Taylor, B., Gu, J., Kuyken, W., Baer, R., Jones, F., & Cavanagh, K. (2016). What is compassion and how can we measure it? A review of definitions and measures. *Clinical Psychology Review, 47*, 15–27. https://doi.org/10.1016/j.cpr.2016.05.004
+1. Batson, C. D. (2011). *Altruism in Humans*. Oxford University Press. [https://doi.org/10.1093/acprof:oso/9780195341065.001.0001](https://doi.org/10.1093/acprof:oso/9780195341065.001.0001)
+2. Davis, M. H. (1983). Measuring individual differences in empathy: Evidence for a multidimensional approach. *Journal of Personality and Social Psychology, 44*(1), 113–126. [https://doi.org/10.1037/0022-3514.44.1.113](https://doi.org/10.1037/0022-3514.44.1.113)
+3. Decety, J., & Jackson, P. L. (2004). The functional architecture of human empathy. *Behavioral and Cognitive Neuroscience Reviews, 3*(2), 71–100. [https://doi.org/10.1177/1534582304267187](https://doi.org/10.1177/1534582304267187)
+4. Elliott, R., Bohart, A. C., Watson, J. C., & Murphy, D. (2018). Therapist empathy and client outcome: An updated meta-analysis. *Psychotherapy, 55*(4), 399–410. [https://doi.org/10.1037/pst0000175](https://doi.org/10.1037/pst0000175)
+5. Goetz, J. L., Keltner, D., & Simon-Thomas, E. (2010). Compassion: An evolutionary analysis and empirical review. *Psychological Bulletin, 136*(3), 351–374. [https://doi.org/10.1037/a0018807](https://doi.org/10.1037/a0018807)
+6. Ickes, W. (1993). Empathic accuracy. *Journal of Personality, 61*(4), 587–610. [https://doi.org/10.1111/j.1467-6494.1993.tb00783.x](https://doi.org/10.1111/j.1467-6494.1993.tb00783.x)
+7. Neff, K. D. (2003). Self-compassion: An alternative conceptualization of a healthy attitude toward oneself. *Self and Identity, 2*(2), 85–101. [https://doi.org/10.1080/15298860309032](https://doi.org/10.1080/15298860309032)
+8. Rogers, C. R. (1957). The necessary and sufficient conditions of therapeutic personality change. *Journal of Consulting Psychology, 21*(2), 95–103. [https://doi.org/10.1037/h0045357](https://doi.org/10.1037/h0045357)
+9. Klimecki, O. M., Leiberg, S., Ricard, M., & Singer, T. (2014). Differential pattern of functional brain plasticity after compassion and empathy training. *Social Cognitive and Affective Neuroscience, 9*(6), 873–879. [https://doi.org/10.1093/scan/nst060](https://doi.org/10.1093/scan/nst060)
+10. Sinclair, S., Raffin-Bouchal, S., Venturato, L., Mijovic-Kondejewski, J., & Smith-MacDonald, L. (2017). Compassion fatigue: A meta-narrative review of the healthcare literature. *International Journal of Nursing Studies, 69*, 9–24. [https://doi.org/10.1016/j.ijnurstu.2017.01.003](https://doi.org/10.1016/j.ijnurstu.2017.01.003)
+11. Singer, T., & Klimecki, O. M. (2014). Empathy and compassion. *Current Biology, 24*(18), R875–R878. [https://doi.org/10.1016/j.cub.2014.06.054](https://doi.org/10.1016/j.cub.2014.06.054)
+12. Singer, T., Seymour, B., O’Doherty, J., Kaube, H., Dolan, R. J., & Frith, C. D. (2004). Empathy for pain involves the affective but not sensory components of pain. *Science, 303*(5661), 1157–1162. [https://doi.org/10.1126/science.1093535](https://doi.org/10.1126/science.1093535)
+13. Strauss, C., Lever Taylor, B., Gu, J., Kuyken, W., Baer, R., Jones, F., & Cavanagh, K. (2016). What is compassion and how can we measure it? A review of definitions and measures. *Clinical Psychology Review, 47*, 15–27. [https://doi.org/10.1016/j.cpr.2016.05.004](https://doi.org/10.1016/j.cpr.2016.05.004)
 14. The RSA. (2013, 10 grudnia). *Brené Brown on empathy* [animacja]. YouTube. https://www.youtube.com/watch?v=1Evwgu369Jw
-15. Wiseman, T. (1996). A concept analysis of empathy. *Journal of Advanced Nursing, 23*(6), 1162–1167. https://doi.org/10.1046/j.1365-2648.1996.12213.x
+15. Wiseman, T. (1996). A concept analysis of empathy. *Journal of Advanced Nursing, 23*(6), 1162–1167. [https://doi.org/10.1046/j.1365-2648.1996.12213.x](https://doi.org/10.1046/j.1365-2648.1996.12213.x)
 16. Haidt, J. (2003). The moral emotions. W R. J. Davidson, K. R. Scherer i H. H. Goldsmith (red.), *Handbook of Affective Sciences* (s. 852–870). Oxford University Press.
-17. Tangney, J. P., Stuewig, J., & Mashek, D. J. (2007). Moral emotions and moral behavior. *Annual Review of Psychology, 58*, 345–372. https://doi.org/10.1146/annurev.psych.56.091103.070145
-18. Tracy, J. L., & Robins, R. W. (2004). Putting the self into self-conscious emotions. *Psychological Inquiry, 15*(2), 103–125. https://doi.org/10.1207/S15327965PLI1502_01
+17. Tangney, J. P., Stuewig, J., & Mashek, D. J. (2007). Moral emotions and moral behavior. *Annual Review of Psychology, 58*, 345–372. [https://doi.org/10.1146/annurev.psych.56.091103.070145](https://doi.org/10.1146/annurev.psych.56.091103.070145)
+18. Tracy, J. L., & Robins, R. W. (2004). Putting the self into self-conscious emotions. *Psychological Inquiry, 15*(2), 103–125. [https://doi.org/10.1207/S15327965PLI1502_01](https://doi.org/10.1207/S15327965PLI1502_01)

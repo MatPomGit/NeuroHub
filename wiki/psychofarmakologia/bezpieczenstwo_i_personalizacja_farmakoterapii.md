@@ -54,8 +54,8 @@ Znieczulenie i zwiotczenie wymagają oceny anestezjologicznej oraz chorób serca
 
 ## Bibliografia
 
-- Bousman, C. A. i in. (2023). CPIC guideline for serotonin reuptake inhibitor antidepressants. *Clinical Pharmacology & Therapeutics*, 114, 51–68. https://doi.org/10.1002/cpt.2903
-- Hiemke, C. i in. (2018). Consensus guidelines for therapeutic drug monitoring in neuropsychopharmacology. *Pharmacopsychiatry*, 51, 9–62. https://doi.org/10.1055/s-0043-116492
+- Bousman, C. A. i in. (2023). CPIC guideline for serotonin reuptake inhibitor antidepressants. *Clinical Pharmacology & Therapeutics*, 114, 51–68. [https://doi.org/10.1002/cpt.2903](https://doi.org/10.1002/cpt.2903)
+- Hiemke, C. i in. (2018). Consensus guidelines for therapeutic drug monitoring in neuropsychopharmacology. *Pharmacopsychiatry*, 51, 9–62. [https://doi.org/10.1055/s-0043-116492](https://doi.org/10.1055/s-0043-116492)
 - National Institute for Health and Care Excellence. (2020). *Antenatal and postnatal mental health (CG192)*.
 - Taylor, D. M., Barnes, T. R. E. i Young, A. H. (2021). *The Maudsley Prescribing Guidelines in Psychiatry* (14th ed.). Wiley-Blackwell.
-- van Diermen, L. i in. (2018). Prediction of ECT response and remission in major depression. *British Journal of Psychiatry*, 212, 71–80. https://doi.org/10.1192/bjp.2017.28
+- van Diermen, L. i in. (2018). Prediction of ECT response and remission in major depression. *British Journal of Psychiatry*, 212, 71–80. [https://doi.org/10.1192/bjp.2017.28](https://doi.org/10.1192/bjp.2017.28)

@@ -81,10 +81,10 @@ Przekazanie powinno zawierać czas początku i tempo zmian, konkretne przykłady
 ## Bibliografia
 
 1. American Psychiatric Association. (2022). *Diagnostic and Statistical Manual of Mental Disorders* (5th ed., text rev.). American Psychiatric Association Publishing.
-2. Livingston, G., Huntley, J., Liu, K. Y., i in. (2024). Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission. *The Lancet, 404*(10452), 572–628. https://doi.org/10.1016/S0140-6736(24)01296-0
+2. Livingston, G., Huntley, J., Liu, K. Y., i in. (2024). Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission. *The Lancet, 404*(10452), 572–628. [https://doi.org/10.1016/S0140-6736(24)01296-0](https://doi.org/10.1016/S0140-6736(24)01296-0)
 3. National Institute for Health and Care Excellence. (2018, aktualizacja 2025). *Dementia: Assessment, Management and Support for People Living with Dementia and Their Carers (NG97)*.
 4. National Institute for Health and Care Excellence. (2010, aktualizacja 2023). *Delirium: Prevention, Diagnosis and Management in Hospital and Long-term Care (CG103)*.
-5. Petersen, R. C., Lopez, O., Armstrong, M. J., i in. (2018). Practice guideline update summary: Mild cognitive impairment. *Neurology, 90*(3), 126–135. https://doi.org/10.1212/WNL.0000000000004826
-6. Simons, D. J., Boot, W. R., Charness, N., i in. (2016). Do “brain-training” programs work? *Psychological Science in the Public Interest, 17*(3), 103–186. https://doi.org/10.1177/1529100616661983
+5. Petersen, R. C., Lopez, O., Armstrong, M. J., i in. (2018). Practice guideline update summary: Mild cognitive impairment. *Neurology, 90*(3), 126–135. [https://doi.org/10.1212/WNL.0000000000004826](https://doi.org/10.1212/WNL.0000000000004826)
+6. Simons, D. J., Boot, W. R., Charness, N., i in. (2016). Do “brain-training” programs work? *Psychological Science in the Public Interest, 17*(3), 103–186. [https://doi.org/10.1177/1529100616661983](https://doi.org/10.1177/1529100616661983)
 7. World Health Organization. (2019). *Risk Reduction of Cognitive Decline and Dementia: WHO Guidelines*. WHO.
 8. World Health Organization. (2023). *Mental Health of Older Adults*. WHO.

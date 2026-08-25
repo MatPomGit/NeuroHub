@@ -59,9 +59,9 @@ Badanie podłużne tej samej osoby lepiej oddziela różnice osobnicze od zmiany
 
 ## Bibliografia
 
-- Draganski, B., & May, A. (2008). Training-induced structural changes in the adult human brain. *Behavioural Brain Research, 192*(1), 137–142. https://doi.org/10.1016/j.bbr.2008.02.015
-- Fields, R. D. (2015). A new mechanism of nervous system plasticity: activity-dependent myelination. *Nature Reviews Neuroscience, 16*, 756–767. https://doi.org/10.1038/nrn4023
-- Pritschet, L., Santander, T., Taylor, C. M., et al. (2020). Functional reorganization of brain networks across the human menstrual cycle. *NeuroImage, 220*, 117091. https://doi.org/10.1016/j.neuroimage.2020.117091
-- Sisk, B. A., & Zehr, J. L. (2005). Pubertal hormones organize the adolescent brain and behavior. *Frontiers in Neuroendocrinology, 26*(3–4), 163–174. https://doi.org/10.1016/j.yfrne.2005.10.003
+- Draganski, B., & May, A. (2008). Training-induced structural changes in the adult human brain. *Behavioural Brain Research, 192*(1), 137–142. [https://doi.org/10.1016/j.bbr.2008.02.015](https://doi.org/10.1016/j.bbr.2008.02.015)
+- Fields, R. D. (2015). A new mechanism of nervous system plasticity: activity-dependent myelination. *Nature Reviews Neuroscience, 16*, 756–767. [https://doi.org/10.1038/nrn4023](https://doi.org/10.1038/nrn4023)
+- Pritschet, L., Santander, T., Taylor, C. M., et al. (2020). Functional reorganization of brain networks across the human menstrual cycle. *NeuroImage, 220*, 117091. [https://doi.org/10.1016/j.neuroimage.2020.117091](https://doi.org/10.1016/j.neuroimage.2020.117091)
+- Sisk, B. A., & Zehr, J. L. (2005). Pubertal hormones organize the adolescent brain and behavior. *Frontiers in Neuroendocrinology, 26*(3–4), 163–174. [https://doi.org/10.1016/j.yfrne.2005.10.003](https://doi.org/10.1016/j.yfrne.2005.10.003)
 - Stawski, R. S., Sliwinski, M. J., & Smyth, J. M. (2019). The effects of an acute psychosocial stressor on episodic memory. *European Journal of Cognitive Psychology, 31*(1), 1–15.
-- Wirz-Justice, A. (2018). Seasonality in affective disorders. *General and Comparative Endocrinology, 258*, 244–249. https://doi.org/10.1016/j.ygcen.2017.07.010
+- Wirz-Justice, A. (2018). Seasonality in affective disorders. *General and Comparative Endocrinology, 258*, 244–249. [https://doi.org/10.1016/j.ygcen.2017.07.010](https://doi.org/10.1016/j.ygcen.2017.07.010)

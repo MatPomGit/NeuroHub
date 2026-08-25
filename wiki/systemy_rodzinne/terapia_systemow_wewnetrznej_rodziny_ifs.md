@@ -77,8 +77,8 @@ Z tych danych można wyprowadzić hipotezę, że IFS bywa akceptowalnym i pomocn
 
 ## Bibliografia
 
-1. Haddock, S. A., Weiler, L. M., Trump, L. J., & Henry, K. L. (2017). The efficacy of Internal Family Systems therapy in the treatment of depression among female college students: A pilot study. *Journal of Marital and Family Therapy, 43*(1), 131–144. https://doi.org/10.1111/jmft.12184
-2. Shadick, N. A., Sowell, N. F., Frits, M. L., et al. (2013). A randomized controlled trial of an Internal Family Systems-based psychotherapeutic intervention on outcomes in rheumatoid arthritis. *The Journal of Rheumatology, 40*(11), 1831–1841. https://doi.org/10.3899/jrheum.121465
+1. Haddock, S. A., Weiler, L. M., Trump, L. J., & Henry, K. L. (2017). The efficacy of Internal Family Systems therapy in the treatment of depression among female college students: A pilot study. *Journal of Marital and Family Therapy, 43*(1), 131–144. [https://doi.org/10.1111/jmft.12184](https://doi.org/10.1111/jmft.12184)
+2. Shadick, N. A., Sowell, N. F., Frits, M. L., et al. (2013). A randomized controlled trial of an Internal Family Systems-based psychotherapeutic intervention on outcomes in rheumatoid arthritis. *The Journal of Rheumatology, 40*(11), 1831–1841. [https://doi.org/10.3899/jrheum.121465](https://doi.org/10.3899/jrheum.121465)
 3. Schwartz, R. C. (1995). *Internal Family Systems Therapy*. Guilford Press.
 4. Schwartz, R. C., & Sweezy, M. (2020). *Internal Family Systems Therapy* (2nd ed.). Guilford Press.
 5. Sweezy, M., & Ziskind, E. L. (Eds.). (2013). *Innovations and Elaborations in Internal Family Systems Therapy*. Routledge.

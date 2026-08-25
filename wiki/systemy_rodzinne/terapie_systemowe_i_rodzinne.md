@@ -90,15 +90,15 @@ Rodzina zgłasza konflikty z nastolatką, która przestała chodzić do szkoły.
 
 ## Bibliografia
 
-1. Carr, A. (2019). Family therapy and systemic interventions for child-focused problems: The current evidence base. *Journal of Family Therapy, 41*(2), 153–213. https://doi.org/10.1111/1467-6427.12226
-2. Eisler, I., Simic, M., Russell, G. F. M., & Dare, C. (2007). A randomised controlled treatment trial of two forms of family therapy in adolescent anorexia nervosa. *Psychological Medicine, 37*(9), 1213–1225. https://doi.org/10.1017/S0033291707000566
-3. Jewell, T., Downing, D., & McFarlane, W. R. (2009). Partnering with families: Multiple family group psychoeducation for schizophrenia. *Journal of Clinical Psychology, 65*(8), 868–878. https://doi.org/10.1002/jclp.20610
+1. Carr, A. (2019). Family therapy and systemic interventions for child-focused problems: The current evidence base. *Journal of Family Therapy, 41*(2), 153–213. [https://doi.org/10.1111/1467-6427.12226](https://doi.org/10.1111/1467-6427.12226)
+2. Eisler, I., Simic, M., Russell, G. F. M., & Dare, C. (2007). A randomised controlled treatment trial of two forms of family therapy in adolescent anorexia nervosa. *Psychological Medicine, 37*(9), 1213–1225. [https://doi.org/10.1017/S0033291707000566](https://doi.org/10.1017/S0033291707000566)
+3. Jewell, T., Downing, D., & McFarlane, W. R. (2009). Partnering with families: Multiple family group psychoeducation for schizophrenia. *Journal of Clinical Psychology, 65*(8), 868–878. [https://doi.org/10.1002/jclp.20610](https://doi.org/10.1002/jclp.20610)
 4. Minuchin, S. (1974). *Families and Family Therapy*. Harvard University Press.
 5. Minuchin, S., & Fishman, H. C. (1981). *Family Therapy Techniques*. Harvard University Press.
 6. Nichols, M. P., & Davis, S. D. (2020). *Family Therapy: Concepts and Methods* (12th ed.). Pearson.
-7. O’Farrell, T. J., & Clements, K. (2012). Review of outcome research on marital and family therapy in treatment for alcoholism. *Journal of Marital and Family Therapy, 38*(1), 122–144. https://doi.org/10.1111/j.1752-0606.2011.00242.x
-8. Pinquart, M., Oslejsek, B., & Teubert, D. (2016). Efficacy of systemic therapy on adults with mental disorders: A meta-analysis. *Psychotherapy Research, 26*(2), 241–257. https://doi.org/10.1080/10503307.2014.935830
-9. Shadish, W. R., & Baldwin, S. A. (2003). Meta-analysis of MFT interventions. *Journal of Marital & Family Therapy, 29*(4), 547–570. https://doi.org/10.1111/j.1752-0606.2003.tb01694.x
+7. O’Farrell, T. J., & Clements, K. (2012). Review of outcome research on marital and family therapy in treatment for alcoholism. *Journal of Marital and Family Therapy, 38*(1), 122–144. [https://doi.org/10.1111/j.1752-0606.2011.00242.x](https://doi.org/10.1111/j.1752-0606.2011.00242.x)
+8. Pinquart, M., Oslejsek, B., & Teubert, D. (2016). Efficacy of systemic therapy on adults with mental disorders: A meta-analysis. *Psychotherapy Research, 26*(2), 241–257. [https://doi.org/10.1080/10503307.2014.935830](https://doi.org/10.1080/10503307.2014.935830)
+9. Shadish, W. R., & Baldwin, S. A. (2003). Meta-analysis of MFT interventions. *Journal of Marital & Family Therapy, 29*(4), 547–570. [https://doi.org/10.1111/j.1752-0606.2003.tb01694.x](https://doi.org/10.1111/j.1752-0606.2003.tb01694.x)
 10. White, M. (2007). *Maps of Narrative Practice*. W. W. Norton.
 11. White, M., & Epston, D. (1990). *Narrative Means to Therapeutic Ends*. W. W. Norton.
-12. Yehuda, R., & Lehrner, A. (2018). Intergenerational transmission of trauma effects: Putative role of epigenetic mechanisms. *World Psychiatry, 17*(3), 243–257. https://doi.org/10.1002/wps.20568
+12. Yehuda, R., & Lehrner, A. (2018). Intergenerational transmission of trauma effects: Putative role of epigenetic mechanisms. *World Psychiatry, 17*(3), 243–257. [https://doi.org/10.1002/wps.20568](https://doi.org/10.1002/wps.20568)

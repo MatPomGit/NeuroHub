@@ -15,7 +15,7 @@ Rytm okołodobowy jest endogenną oscylacją o okresie zbliżonym do 24 godzin. 
 
 U ssaków nadrzędny zegar znajduje się w jądrze nadskrzyżowaniowym (SCN) podwzgórza. Światło dociera do niego drogą siatkówkowo-podwzgórzową, w której ważną rolę odgrywają komórki zwojowe siatkówki zawierające melanopsynę. SCN koordynuje zegary obwodowe w narządach, ale nie jest ich jedynym źródłem. Na poziomie komórki rytm powstaje dzięki pętlom transkrypcyjno-translacyjnym białek zegarowych, między innymi CLOCK, BMAL1, PER i CRY (Takahashi, 2017).
 
-Wpływ światła zależy od jego natężenia, widma, czasu ekspozycji i wcześniejszych warunków oświetlenia. Dlatego nie można przypisać każdemu użyciu ekranu stałego „przesunięcia zegara”. Wieczorne światło może opóźniać fazę i hamować melatoninę, lecz wielkość efektu jest zmienna (Chang et al., 2015).
+Wpływ światła zależy od jego natężenia, widma, czasu ekspozycji i wcześniejszych warunków oświetlenia. Dlatego nie można przypisać każdemu użyciu ekranu stałego „przesunięcia zegara”. Wieczorne światło może opóźniać fazę i hamować [melatoninę](hormony.md), lecz wielkość efektu jest zmienna (Chang et al., 2015).
 
 ## Melatonina i faza dobowa
 
@@ -31,7 +31,7 @@ W zapisie polisomnograficznym wyróżnia się sen NREM (stadia N1, N2 i N3) oraz
 
 ## Fizjologia i funkcje snu
 
-Sen uczestniczy w plastyczności synaptycznej i konsolidacji pamięci. Związek nie sprowadza się do prostego przypisania jednego rodzaju pamięci jednemu stadium: znaczenie mają cechy zadania, kolejność stadiów i ich wzajemne oddziaływanie (Rasch & Born, 2013).
+Sen uczestniczy w plastyczności synaptycznej i konsolidacji [pamięci](../psychologia_poznawcza/pamiec.md). Związek nie sprowadza się do prostego przypisania jednego rodzaju pamięci jednemu stadium: znaczenie mają cechy zadania, kolejność stadiów i ich wzajemne oddziaływanie (Rasch & Born, 2013).
 
 Podczas snu zmieniają się również gospodarka autonomiczna, hormonalna, metaboliczna i immunologiczna. Badania na myszach wykazały zwiększony przepływ płynu śródmiąższowego i usuwanie części metabolitów podczas snu (Xie et al., 2013). Wynik ten zapoczątkował intensywne badania układu glimfatycznego, ale nie uzasadnia liczbowego przenoszenia zmian z modelu zwierzęcego na człowieka ani przedstawiania snu jako kompletnego „oczyszczania mózgu”.
 

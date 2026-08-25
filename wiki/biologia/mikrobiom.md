@@ -14,7 +14,7 @@ Brzuch jest dosłownie naszym "drugim mózgiem" - a mikrobiom jelitowy okazuje s
 **Oś jelita–mózg (gut-brain axis)** to sieć dwukierunkowej komunikacji między jelitowym układem nerwowym (JUN), centralnym układem nerwowym (CUN) i mikrobiomem jelitowym. Komunikacja odbywa się przez kilka równoległych kanałów:
 
 1. **Nerw błędny (vagus)** - ok. 80% włókien nerwu błędnego prowadzi informacje z jelit do mózgu (aferentnie), nie odwrotnie. Jelita "mówią" do mózgu, nie tylko słuchają.
-2. **Oś HPA** - stres aktywuje kortyzolem zmiany w składzie mikrobiomu;
+2. **Oś HPA** - stres poprzez [kortyzol](hormony.md#kortyzol---hormon-stresu) wywołuje zmiany w składzie mikrobiomu;
 3. **Układ immunologiczny** - mikrobiom reguluje immunologię, która wpływa na neuroinflamację;
 4. **Endokrynologia jelitowa** - enterochromaffinowe komórki jelit wytwarzają ok. **90% serotoniny organizmu**;
 5. **Krótkołańcuchowe kwasy tłuszczowe (SCFA)** - produkty metabolizmu bakteryjnego wpływają na integralność bariery krew-mózg i neuroinflammację.
@@ -41,9 +41,9 @@ Najbardziej dramatyczne dowody: szczury i myszy w stanie **germ-free** (bez jaki
 
 ### Badania ludzkie
 
-Korelacyjne badania epidemiologiczne wykazują związki między składem mikrobiomu a depresją, lękiem, autyzmem. Np. zmniejszona liczebność *Lactobacillus* i *Bifidobacterium* w depresji; dominacja *Akkermansia* w anoreksji.
+Korelacyjne badania epidemiologiczne wykazują związki między składem mikrobiomu a depresją, lękiem i [autyzmem](../neuroroznorodnosc/spektrum_autyzmu.md). Np. zmniejszona liczebność *Lactobacillus* i *Bifidobacterium* w depresji; dominacja *Akkermansia* w anoreksji.
 
-**Badania interwencyjne z probiotykami ("psychobiotyki"):** Termin "psychobiotyk" ukuł John Cryan (2013) - dla żywych mikroorganizmów przynoszących korzyści dla zdrowia psychicznego. Meta-analizy (2019, 2021): probiotyki zmniejszają nasilenie depresji i lęku w badaniach klinicznych o umiarkowanym efekcie. Nie zastępują farmakoterapii ani psychoterapii, lecz stanowią obiecujące uzupełnienie.
+**Badania interwencyjne z probiotykami ("psychobiotyki"):** Termin "psychobiotyk" ukuł John Cryan (2013) - dla żywych mikroorganizmów przynoszących korzyści dla zdrowia psychicznego. Meta-analizy (2019, 2021): probiotyki zmniejszają nasilenie depresji i lęku w badaniach klinicznych o umiarkowanym efekcie. Nie zastępują farmakoterapii ani [psychoterapii](../psychoterapia/psychoterapia_wprowadzenie.md), lecz stanowią obiecujące uzupełnienie.
 
 > **Ciekawostka:** Badanie Tillisch et al. (UCLA, 2013) wykazało, że kobiety spożywające fermentowane produkty mleczne (jogurt z probiotykami) przez 4 tygodnie wykazywały zmienioną aktywność mózgową w spoczynkowym fMRI - mniejszą reaktywność w obszarach przetwarzania emocji. Pierwszy dowód, że "bakterie w brzuchu zmieniają mózg" u zdrowych ludzi.
 

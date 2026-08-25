@@ -6,7 +6,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Genetyka behawioralna
 
-Genetyka behawioralna bada dziedziczne podłoże zachowania, osobowości, zdolności poznawczych i zaburzeń psychicznych. Łączy genetykę, psychologię i statystykę w celu wyjaśnienia, w jakim stopniu różnice między ludźmi wynikają z genów, a w jakim - ze środowiska.
+Genetyka behawioralna bada dziedziczne podłoże zachowania, [osobowości](../roznice_indywidualne/osobowosc.md), zdolności poznawczych i zaburzeń psychicznych. Łączy genetykę, psychologię i statystykę w celu wyjaśnienia, w jakim stopniu różnice między ludźmi wynikają z genów, a w jakim - ze środowiska.
 
 ## Podstawowe metody badawcze
 
@@ -16,7 +16,7 @@ Genetyka behawioralna bada dziedziczne podłoże zachowania, osobowości, zdolno
 
 Kluczowe odkrycia z badań bliźniąt:
 
-- Odziedziczalność inteligencji: ~50% u dzieci, ~70–80% u dorosłych
+- Odziedziczalność [inteligencji](../roznice_indywidualne/inteligencja.md): ~50% u dzieci, ~70–80% u dorosłych
 - Odziedziczalność cech osobowości (Wielka Piątka): ~40–60%
 - Odziedziczalność depresji: ~40%, schizofrenii: ~80%
 
@@ -40,7 +40,7 @@ Eric Turkheimer (2000) sformułował empiryczne prawa:
 
 ## Epigenetyka
 
-**Epigenetyka** bada zmiany w ekspresji genów bez zmian w sekwencji DNA. Mechanizmy obejmują metylację DNA i modyfikacje histonów. Niektóre zmiany mogą być dziedziczone.
+**[Epigenetyka](epigenetyka.md)** bada zmiany w ekspresji genów bez zmian w sekwencji DNA. Mechanizmy obejmują metylację DNA i modyfikacje histonów. Niektóre zmiany mogą być dziedziczone.
 
 - Traumy mogą powodować epigenetyczne zmiany wpływające na regulację osi HPA i reaktywność stresową
 - Skrajne zaniedbanie we wczesnym dzieciństwie pozostawia epigenetyczne "blizny" wpływające na długoterminowe funkcjonowanie
@@ -60,7 +60,7 @@ Genetyczne predyspozycje i środowisko nie działają niezależnie:
 
 ## Genetyka zaburzeń psychicznych
 
-**Schizofrenia:** Odziedziczalność ~80%. Ryzyko wzrasta z pokrewieństwem: populacja ~1%, rodzeństwo ~10%, bliźniak DZ ~17%, MZ ~48%.
+[Transmisję genetyczną zaburzeń psychicznych](transmisja_genetyczna_zaburzen_psychicznych.md) ilustrują między innymi badania nad schizofrenią. **Schizofrenia:** Odziedziczalność ~80%. Ryzyko wzrasta z pokrewieństwem: populacja ~1%, rodzeństwo ~10%, bliźniak DZ ~17%, MZ ~48%.
 
 **Zaburzenia afektywne:** Odziedziczalność depresji ~40%, choroby afektywnej dwubiegunowej ~60–80%. Nakładanie się genetyczne między depresją a lękiem sugeruje wspólne podłoże.
 

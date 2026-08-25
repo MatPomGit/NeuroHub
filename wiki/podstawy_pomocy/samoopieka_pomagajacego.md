@@ -95,3 +95,9 @@ Sygnały wskazujące na potrzebę działania:
 - Granice w relacji pomocowej
 - Empatia w pomocy psychologicznej
 - Etyka pomocy psychologicznej
+
+## Bibliografia
+
+- Maslach, C., & Leiter, M. P. (2016). Understanding the burnout experience: Recent research and its implications for psychiatry. *World Psychiatry, 15*(2), 103–111. [https://doi.org/10.1002/wps.20311](https://doi.org/10.1002/wps.20311)
+- McCormack, H. M., MacIntyre, T. E., O’Shea, D., Herring, M. P., & Campbell, M. J. (2018). The prevalence and cause(s) of burnout among applied psychologists: A systematic review. *Frontiers in Psychology, 9*, Article 1897. [https://doi.org/10.3389/fpsyg.2018.01897](https://doi.org/10.3389/fpsyg.2018.01897)
+- Posluns, K., & Gall, T. L. (2020). Dear mental health practitioners, take care of yourselves: A literature review on self-care. *International Journal for the Advancement of Counselling, 42*, 1–20. [https://doi.org/10.1007/s10447-019-09382-w](https://doi.org/10.1007/s10447-019-09382-w)

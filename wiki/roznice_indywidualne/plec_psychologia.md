@@ -91,3 +91,9 @@ Kliniczne, edukacyjne i zawodowe podejście do różnic płciowych wymaga:
 2. **Unikania esencjalizacji** - nie każda różnica grupowa jest niezmienną, biologiczną;
 3. **Wrażliwości na stereotypy** - świadomość efektu zagrożenia stereotypem;
 4. **Indywidualnego podejścia** - różnice grupowe nie determinują różnic jednostkowych.
+
+## Bibliografia
+
+- Hyde, J. S. (2005). The gender similarities hypothesis. *American Psychologist, 60*(6), 581–592. [https://doi.org/10.1037/0003-066X.60.6.581](https://doi.org/10.1037/0003-066X.60.6.581)
+- Zell, E., Krizan, Z., & Teeter, S. R. (2015). Evaluating gender similarities and differences using metasynthesis. *American Psychologist, 70*(1), 10–20. [https://doi.org/10.1037/a0038208](https://doi.org/10.1037/a0038208)
+- Wood, W., & Eagly, A. H. (2012). Biosocial construction of sex differences and similarities in behavior. *Advances in Experimental Social Psychology, 46*, 55–123. [https://doi.org/10.1016/B978-0-12-394281-4.00002-7](https://doi.org/10.1016/B978-0-12-394281-4.00002-7)

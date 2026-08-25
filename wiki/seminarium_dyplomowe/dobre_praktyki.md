@@ -139,3 +139,9 @@ Nie pisz w izolacji. Sieć wsparcia:
 - **Przyjaciele i rodzina** - emocjonalne wsparcie
 
 Dobre praktyki w pisaniu pracy naukowej to połączenie dyscypliny, organizacji i samoświadomości. Student, który dba zarówno o jakość naukową, jak i o własny dobrostan, ma największe szanse na ukończenie pracy na czas i z satysfakcją. Praca magisterska jest wyzwaniem - ale też jedną z najbardziej rozwijających intelektualnie przygód w życiu akademickim.
+
+## Bibliografia
+
+- American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th ed.).
+- Appelbaum, M., Cooper, H., Kline, R. B., Mayo-Wilson, E., Nezu, A. M., & Rao, S. M. (2018). Journal article reporting standards for quantitative research in psychology. *American Psychologist, 73*(1), 3–25. [https://doi.org/10.1037/amp0000191](https://doi.org/10.1037/amp0000191)
+- Shadish, W. R., Cook, T. D., & Campbell, D. T. (2002). *Experimental and quasi-experimental designs for generalized causal inference*. Houghton Mifflin.

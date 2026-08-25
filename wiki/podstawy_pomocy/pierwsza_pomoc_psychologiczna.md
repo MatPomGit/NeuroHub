@@ -83,3 +83,9 @@ Podstawowe szkolenia PPP dostępne są m.in. poprzez WHO, Czerwony Krzyż i orga
 - Kryzys psychologiczny i interwencja
 - Wsparcie społeczne
 - Komunikacja wspierająca
+
+## Bibliografia
+
+- Hobfoll, S. E., Watson, P., Bell, C. C., Bryant, R. A., Brymer, M. J., Friedman, M. J., Friedman, M., Gersons, B. P. R., de Jong, J. T. V. M., Layne, C. M., Maguen, S., Neria, Y., Norwood, A. E., Pynoos, R. S., Reissman, D., Ruzek, J. I., Shalev, A. Y., Solomon, Z., Steinberg, A. M., & Ursano, R. J. (2007). Five essential elements of immediate and mid-term mass trauma intervention. *Psychiatry, 70*(4), 283–315. [https://doi.org/10.1521/psyc.2007.70.4.283](https://doi.org/10.1521/psyc.2007.70.4.283)
+- World Health Organization, War Trauma Foundation, & World Vision International. (2011). *Psychological first aid: Guide for field workers*. World Health Organization. https://www.who.int/publications/i/item/9789241548205
+- Roberts, A. R., & Ottens, A. J. (2005). The seven-stage crisis intervention model. *Brief Treatment and Crisis Intervention, 5*(4), 329–339. [https://doi.org/10.1093/brief-treatment/mhi030](https://doi.org/10.1093/brief-treatment/mhi030)

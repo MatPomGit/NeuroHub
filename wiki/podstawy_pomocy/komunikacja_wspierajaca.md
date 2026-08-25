@@ -89,3 +89,9 @@ Przy trudnych tematach (samookaleczenie, myśli samobójcze, trauma, uzależnien
 - Aktywne słuchanie
 - Empatia w pomocy psychologicznej
 - Pierwsza pomoc psychologiczna
+
+## Bibliografia
+
+- Elliott, R., Bohart, A. C., Watson, J. C., & Murphy, D. (2018). Therapist empathy and client outcome: An updated meta-analysis. *Psychotherapy, 55*(4), 399–410. [https://doi.org/10.1037/pst0000175](https://doi.org/10.1037/pst0000175)
+- Hill, C. E. (2020). *Helping skills: Facilitating exploration, insight, and action* (5th ed.). American Psychological Association. [https://doi.org/10.1037/0000147-000](https://doi.org/10.1037/0000147-000)
+- Rogers, C. R. (1957). The necessary and sufficient conditions of therapeutic personality change. *Journal of Consulting Psychology, 21*(2), 95–103. [https://doi.org/10.1037/h0045357](https://doi.org/10.1037/h0045357)

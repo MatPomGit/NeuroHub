@@ -86,3 +86,9 @@ Popularna koncepcja "szaleńczego geniusza" ma pewne empiryczne podstawy: zaburz
 **Metody biograficzne:** Analiza historii życia twórczych jednostek; identyfikacja czynników środowiskowych i osobowościowych.
 
 > **Podsumowanie:** Kreatywność nie jest tajemniczym darem nielicznych - ma udokumentowane korelaty psychologiczne i neuronalne, jest podatna na warunki środowiskowe i w pewnym stopniu trenowalna. Kluczowe jest zrozumienie, że twórcze myślenie wymaga zarówno swobody generowania, jak i zdyscyplinowanej weryfikacji.
+
+## Bibliografia
+
+- Kaufman, J. C., & Sternberg, R. J. (Eds.). (2019). *The Cambridge handbook of creativity* (2nd ed.). Cambridge University Press. [https://doi.org/10.1017/9781316979839](https://doi.org/10.1017/9781316979839)
+- Plucker, J. A., Beghetto, R. A., & Dow, G. T. (2004). Why isn’t creativity more important to educational psychologists? *Educational Psychologist, 39*(2), 83–96. [https://doi.org/10.1207/S15326985EP3902_1](https://doi.org/10.1207/S15326985EP3902_1)
+- Runco, M. A., & Jaeger, G. J. (2012). The standard definition of creativity. *Creativity Research Journal, 24*(1), 92–96. [https://doi.org/10.1080/10400419.2012.650092](https://doi.org/10.1080/10400419.2012.650092)

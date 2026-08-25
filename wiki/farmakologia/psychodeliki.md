@@ -69,3 +69,9 @@ Klasyczne psychodeliki mają **niski potencjał toksyczności somatycznej** i **
 - Trwałe zaburzenia percepcji (HPPD - Hallucinogen Persisting Perception Disorder) - rzadkie;
 - Destabilizacja u osób z predyspozycją do psychozy lub choroby afektywnej dwubiegunowej (bezwzględne przeciwwskazanie);
 - Interakcje farmakologiczne (MAOI + psylocybina = ryzyko zespołu serotoninowego).
+
+## Bibliografia
+
+- Goodwin, G. M., Aaronson, S. T., Alvarez, O., Arden, P. C., Baker, A., Bennett, J. C., Bird, C., Blom, R. E., Brennan, C., Brusch, D., Burke, L., Campbell-Coker, K., Carhart-Harris, R., Cattell, J., Daniel, A., DeBattista, C., Dunlop, B. W., Eisen, K., Feifel, D., ... Malievskaia, E. (2022). Single-dose psilocybin for a treatment-resistant episode of major depression. *The New England Journal of Medicine, 387*(18), 1637–1648. [https://doi.org/10.1056/NEJMoa2206443](https://doi.org/10.1056/NEJMoa2206443)
+- Mitchell, J. M., Bogenschutz, M., Lilienstein, A., Harrison, C., Kleiman, S., Parker-Guilbert, K., Ot’alora G., M., Garas, W., Paleos, C., Gorman, I., Nicholas, C., Mithoefer, M., Carlin, S., Poulter, B., Mithoefer, A., Quevedo, S., Wells, G., Klaire, S. S., van der Kolk, B., ... Doblin, R. (2021). MDMA-assisted therapy for severe PTSD: A randomized, double-blind, placebo-controlled phase 3 study. *Nature Medicine, 27*, 1025–1033. [https://doi.org/10.1038/s41591-021-01336-3](https://doi.org/10.1038/s41591-021-01336-3)
+- Reiff, C. M., Richman, E. E., Nemeroff, C. B., Carpenter, L. L., Widge, A. S., Rodriguez, C. I., Kalin, N. H., & McDonald, W. M. (2020). Psychedelics and psychedelic-assisted psychotherapy. *American Journal of Psychiatry, 177*(5), 391–410. [https://doi.org/10.1176/appi.ajp.2019.19010035](https://doi.org/10.1176/appi.ajp.2019.19010035)

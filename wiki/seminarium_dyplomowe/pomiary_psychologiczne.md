@@ -107,3 +107,9 @@ W badaniach klinicznych i longitudinalnych stosuje się pomiary wielokrotne:
 - Różnica istotna statystycznie nie zawsze jest **różnicą klinicznie znaczącą** - sprawdź błąd pomiaru (SEM) i najistotniejszą różnicę (*RCI - Reliable Change Index*)
 
 Prowadzenie pomiarów psychologicznych to więcej niż rozsyłanie kwestionariuszy. Wymaga świadomości właściwości narzędzi, kontroli warunków, czystości danych i właściwego odniesienia do norm. Solidny pomiar jest fundamentem każdego rzetelnego badania psychologicznego.
+
+## Bibliografia
+
+- American Educational Research Association, American Psychological Association, & National Council on Measurement in Education. (2014). *Standards for educational and psychological testing*. American Educational Research Association.
+- DeVellis, R. F., & Thorpe, C. T. (2021). *Scale development: Theory and applications* (5th ed.). SAGE.
+- Flake, J. K., Pek, J., & Hehman, E. (2017). Construct validation in social and personality research. *Social Psychological and Personality Science, 8*(4), 370–378. [https://doi.org/10.1177/1948550617693063](https://doi.org/10.1177/1948550617693063)

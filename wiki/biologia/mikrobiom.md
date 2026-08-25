@@ -71,7 +71,7 @@ Korelacyjne badania epidemiologiczne wykazują związki między składem mikrobi
 
 **Dieta śródziemnomorska** (bogata w błonnik, polifenole, fermentowane produkty, uboga w ultra-przetworzone produkty) jest związana z niższym ryzykiem depresji w dużych badaniach epidemiologicznych.
 
-**Badanie SMILES (2017):** Pierwsze RCT żywieniowe w psychiatrii. Interwencja dietetyczna (dieta śródziemnomorska) zmniejszyła objawy depresji istotnie bardziej niż wsparcie społeczne. NNT=8 - porównywalny z efektem antydepresantów w RCT.
+**Badanie SMILES (2017):** Pierwsze RCT żywieniowe w psychiatrii. Interwencja dietetyczna (dieta śródziemnomorska) zmniejszyła objawy depresji istotnie bardziej niż wsparcie społeczne. W badaniu odnotowano NNT = 4,1 dla remisji definiowanej skalą MADRS (Jacka i in., 2017).
 
 **Błonnik prebiotyczny:** Fruktooligosacharydy, inulina, skrobia oporna stymulują wzrost korzystnych bakterii. Badania wykazują zmniejszoną reaktywność na stres i niższy kortyzol poranny przy suplementacji prebiotyków.
 
@@ -79,3 +79,8 @@ Korelacyjne badania epidemiologiczne wykazują związki między składem mikrobi
 
 Oś jelita–mózg otwiera nowe ścieżki terapeutyczne: probiotyki, prebiotyki, dieta, FMT w psychiatrii. To obszar intensywnych badań, gdzie liczne pytania pozostają otwarte - lecz już teraz wiadomo, że holistyczne podejście do zdrowia psychicznego obejmuje uwagę na florę jelitową, dietę i stan zapalny.
 
+## Bibliografia
+
+- Cryan, J. F., O’Riordan, K. J., Cowan, C. S. M., Sandhu, K. V., Bastiaanssen, T. F. S., Boehme, M., Codagnone, M. G., Cussotto, S., Fulling, C., Golubeva, A. V., Guzzetta, K. E., Jaggar, M., Long-Smith, C. M., Lyte, J. M., Martin, J. A., Molinero-Perez, A., Moloney, G., Morelli, E., Morillas, E., O’Connor, R., ... Dinan, T. G. (2019). The microbiota-gut-brain axis. *Physiological Reviews, 99*(4), 1877–2013. [https://doi.org/10.1152/physrev.00018.2018](https://doi.org/10.1152/physrev.00018.2018)
+- Jacka, F. N., O’Neil, A., Opie, R., Itsiopoulos, C., Cotton, S., Mohebbi, M., Castle, D., Dash, S., Mihalopoulos, C., Chatterton, M. L., Brazionis, L., Dean, O. M., Hodge, A. M., & Berk, M. (2017). A randomised controlled trial of dietary improvement for adults with major depression (the ‘SMILES’ trial). *BMC Medicine, 15*, Article 23. [https://doi.org/10.1186/s12916-017-0791-y](https://doi.org/10.1186/s12916-017-0791-y)
+- Nikolova, V. L., Cleare, A. J., Young, A. H., & Stone, J. M. (2021). Updated review and meta-analysis of probiotics for the treatment of clinical depression. *Journal of Personalized Medicine, 11*(5), Article 330. [https://doi.org/10.3390/jpm11050330](https://doi.org/10.3390/jpm11050330)

@@ -77,3 +77,9 @@ RMP jest narzędziem przydatnym rozwojowo, ale warto zachować ostrożność met
 4. Unikaj wartościowania („wysoki” ≠ „lepszy”, „niski” ≠ „gorszy”).
 
 Reiss Motivation Profile porządkuje różnice indywidualne w zakresie potrzeb motywacyjnych i bywa użyteczny w rozwoju osobistym oraz pracy zespołowej. Największą wartość daje wtedy, gdy jest stosowany jako narzędzie **refleksji i dialogu**, a nie jako samodzielna podstawa decyzji diagnostycznych.
+
+## Bibliografia
+
+- Reiss, S. (2004). Multifaceted nature of intrinsic motivation: The theory of 16 basic desires. *Review of General Psychology, 8*(3), 179–193. [https://doi.org/10.1037/1089-2680.8.3.179](https://doi.org/10.1037/1089-2680.8.3.179)
+- Reiss, S., & Havercamp, S. M. (1998). Toward a comprehensive assessment of fundamental motivation: Factor structure of the Reiss Profiles. *Psychological Assessment, 10*(2), 97–106. [https://doi.org/10.1037/1040-3590.10.2.97](https://doi.org/10.1037/1040-3590.10.2.97)
+- Ryan, R. M., & Deci, E. L. (2020). Intrinsic and extrinsic motivation from a self-determination theory perspective. *Contemporary Educational Psychology, 61*, Article 101860. [https://doi.org/10.1016/j.cedpsych.2020.101860](https://doi.org/10.1016/j.cedpsych.2020.101860)

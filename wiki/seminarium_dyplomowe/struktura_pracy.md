@@ -109,6 +109,12 @@ Aneksy zawierają materiały pomocnicze: użyte kwestionariusze, zgody etyczne, 
 
 ## Formatowanie i objętość
 
-Typowa praca magisterska w psychologii liczy **60–100 stron** tekstu (bez aneksów). Marginesy, interlinia, krój i rozmiar czcionki określa uczelnia - najczęściej jest to Times New Roman 12 pt, interlinia 1,5, marginesy 2,5 cm.
+Wymagana objętość, marginesy, interlinia oraz krój i rozmiar pisma zależą od regulaminu właściwej uczelni. Przed formatowaniem należy sprawdzić aktualne wytyczne jednostki prowadzącej seminarium.
 
 > **Wskazówka:** Zacznij pisać jak najwcześniej - nawet niedoskonały szkic możesz poprawić. Oczekiwanie na „gotowość" to najczęstszy powód opóźnień.
+
+## Bibliografia
+
+- American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th ed.).
+- Appelbaum, M., Cooper, H., Kline, R. B., Mayo-Wilson, E., Nezu, A. M., & Rao, S. M. (2018). Journal article reporting standards for quantitative research in psychology. *American Psychologist, 73*(1), 3–25. [https://doi.org/10.1037/amp0000191](https://doi.org/10.1037/amp0000191)
+- Shadish, W. R., Cook, T. D., & Campbell, D. T. (2002). *Experimental and quasi-experimental designs for generalized causal inference*. Houghton Mifflin.

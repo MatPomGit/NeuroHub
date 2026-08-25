@@ -139,3 +139,9 @@ Kilka zasad stylistycznych:
 - Spójność terminologiczna - nie mieszaj synonimów dla tego samego pojęcia
 
 Dobra prezentacja wyników i rzetelna dyskusja to nie tylko kwestia techniczna - to sztuka naukowej komunikacji. Student, który potrafi precyzyjnie opisać wyniki i uczciwie je zinterpretować, zdobywa jedną z najważniejszych kompetencji badacza - niezależnie od tego, czy w przyszłości zostanie naukowcem, klinicystą, czy konsultantem.
+
+## Bibliografia
+
+- American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th ed.).
+- Appelbaum, M., Cooper, H., Kline, R. B., Mayo-Wilson, E., Nezu, A. M., & Rao, S. M. (2018). Journal article reporting standards for quantitative research in psychology. *American Psychologist, 73*(1), 3–25. [https://doi.org/10.1037/amp0000191](https://doi.org/10.1037/amp0000191)
+- Shadish, W. R., Cook, T. D., & Campbell, D. T. (2002). *Experimental and quasi-experimental designs for generalized causal inference*. Houghton Mifflin.

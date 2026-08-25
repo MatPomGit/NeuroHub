@@ -76,3 +76,9 @@ Uszkodzenie w dowolnym punkcie tej sieci - lub przerwanie szlaków łączących 
 **Pierwszorzędowa postępująca apraksja mowy (PPAOS)** - rzadka postać demencji czołowo-skroniowej z izolowaną apraksją mowy (zaburzenia produkcji fonologicznej i motoryki mowy).
 
 **Rehabilitacja:** Terapia apraksji opiera się na intensywnym, wielokrotnym ćwiczeniu zaburzonych ruchów w różnych kontekstach (generalizacja), technikach kompensacyjnych i adaptacji środowiska.
+
+## Bibliografia
+
+- Kolb, B., & Whishaw, I. Q. (2021). *Fundamentals of human neuropsychology* (8th ed.). Worth Publishers.
+- Lezak, M. D., Howieson, D. B., Bigler, E. D., & Tranel, D. (2012). *Neuropsychological assessment* (5th ed.). Oxford University Press.
+- Vallar, G. (2007). Spatial neglect, Balint-Homes’ and Gerstmann’s syndrome, and other spatial disorders. *CNS Spectrums, 12*(7), 527–536. [https://doi.org/10.1017/S1092852900021271](https://doi.org/10.1017/S1092852900021271)

@@ -103,3 +103,9 @@ W ostatnich dekadach efekt Flynna zatrzymał się lub odwrócił w niektórych k
 **IQ a sukces życiowy:** IQ wyjaśnia ok. 25% wariancji osiągnięć szkolnych i ok. 10–15% dochodów. Pozostałe czynniki (cechy osobowości, motywacja, EQ, szczęście, środowisko) są równie lub bardziej istotne.
 
 **Inteligencja emocjonalna, praktyczna, twórcza:** Sternberg (triarchic theory) i Gardner (multiple intelligences) wskazują, że WAIS mierzy wąski wycinek tego, co rozumiemy potocznie przez "inteligencję". Nie mierzy: inteligencji emocjonalnej, muzycznej, kinestetycznej, interpersonalnej.
+
+## Bibliografia
+
+- Lezak, M. D., Howieson, D. B., Bigler, E. D., & Tranel, D. (2012). *Neuropsychological assessment* (5th ed.). Oxford University Press.
+- Mitrushina, M., Boone, K. B., Razani, J., & D’Elia, L. F. (2005). *Handbook of normative data for neuropsychological assessment* (2nd ed.). Oxford University Press. [https://doi.org/10.1093/acprof:oso/9780195169300.001.0001](https://doi.org/10.1093/acprof:oso/9780195169300.001.0001)
+- Strauss, E., Sherman, E. M. S., & Spreen, O. (2006). *A compendium of neuropsychological tests* (3rd ed.). Oxford University Press.

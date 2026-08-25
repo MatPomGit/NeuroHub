@@ -33,4 +33,10 @@ Howard Gardner (1983) zaproponował **8 inteligencji**: językową, logiczno-mat
 
 ## Testy IQ
 
-Współczesne testy inteligencji (WAIS-IV, WISC-V, Stanford-Binet 5) są zbudowane zgodnie z modelem CHC. Skala IQ ma średnią 100 i SD = 15. Iloraz inteligencji ma wysoką predykcję osiągnięć akademickich i zawodowych, ale wyjaśnia tylko część wariancji.
+Współczesne testy inteligencji (WAIS-IV, WISC-V, Stanford-Binet 5) są zbudowane zgodnie z modelem CHC. W najczęściej stosowanych skalach wynik IQ jest standaryzowany do średniej 100 i odchylenia standardowego 15 (Deary, 2012). Iloraz inteligencji ma wysoką predykcję osiągnięć akademickich i zawodowych, ale wyjaśnia tylko część wariancji.
+
+## Bibliografia
+
+- Carroll, J. B. (1993). *Human cognitive abilities: A survey of factor-analytic studies*. Cambridge University Press. [https://doi.org/10.1017/CBO9780511571312](https://doi.org/10.1017/CBO9780511571312)
+- Deary, I. J. (2012). Intelligence. *Annual Review of Psychology, 63*, 453–482. [https://doi.org/10.1146/annurev-psych-120710-100353](https://doi.org/10.1146/annurev-psych-120710-100353)
+- Nisbett, R. E., Aronson, J., Blair, C., Dickens, W., Flynn, J., Halpern, D. F., & Turkheimer, E. (2012). Intelligence: New findings and theoretical developments. *American Psychologist, 67*(2), 130–159. [https://doi.org/10.1037/a0026699](https://doi.org/10.1037/a0026699)

@@ -32,3 +32,9 @@ Lewa półkula dominuje w mowie, logice i analizie sekwencyjnej. Co ważne - two
 **Sperry otrzymał w 1981 r. Nagrodę Nobla** za swoje odkrycia.
 
 **Powiązane zagadnienia:** ciało modzelowate · lateralizacja półkul · callosotomia
+
+## Bibliografia
+
+- Gazzaniga, M. S. (2005). Forty-five years of split-brain research and still going strong. *Nature Reviews Neuroscience, 6*, 653–659. [https://doi.org/10.1038/nrn1723](https://doi.org/10.1038/nrn1723)
+- Sperry, R. W. (1968). Hemisphere deconnection and unity in conscious awareness. *American Psychologist, 23*(10), 723–733. [https://doi.org/10.1037/h0026839](https://doi.org/10.1037/h0026839)
+- Wolman, D. (2012). A tale of two halves. *Nature, 483*, 260–263. [https://doi.org/10.1038/483260a](https://doi.org/10.1038/483260a)

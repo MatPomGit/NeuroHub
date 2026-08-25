@@ -34,3 +34,9 @@ Historia neuropsychologii to historia sporu o to, jak funkcje psychiczne są zor
 > **Holizm / Ekwipotencjalność** - pogląd głoszący, że mózg działa jako całość i każdy jego fragment może przejąć funkcje innych. Reprezentanci: Pierre Flourens (ekwipotencjalność), Karl Lashley (masa akcji). Współczesna wersja: plastyczność i redundancja sieciowa.
 
 Współczesna neuropsychologia przyjmuje podejście syntetyczne: funkcje są **lokalizowane** (określone obszary są specjalizowane), ale realizowane przez **sieci** (wiele obszarów współpracuje), z możliwością **plastycznej reorganizacji** po uszkodzeniu.
+
+## Bibliografia
+
+- Kolb, B., & Whishaw, I. Q. (2021). *Fundamentals of human neuropsychology* (8th ed.). Worth Publishers.
+- Lezak, M. D., Howieson, D. B., Bigler, E. D., & Tranel, D. (2012). *Neuropsychological assessment* (5th ed.). Oxford University Press.
+- Vallar, G. (2007). Spatial neglect, Balint-Homes’ and Gerstmann’s syndrome, and other spatial disorders. *CNS Spectrums, 12*(7), 527–536. [https://doi.org/10.1017/S1092852900021271](https://doi.org/10.1017/S1092852900021271)

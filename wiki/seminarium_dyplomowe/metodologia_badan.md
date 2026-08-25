@@ -124,3 +124,9 @@ Rozdział metody powinien być tak szczegółowy, by możliwa była **replikacja
 5. Informacje o uzyskaniu zgód etycznych
 
 Solidna metodologia to podstawa wiarygodnej pracy magisterskiej. Decyzje metodologiczne należy podejmować świadomie, z pełnym zrozumieniem ich konsekwencji dla interpretacji wyników. Ograniczenia metodologiczne nie dyskwalifikują badania - ważne, by zostały uczciwie opisane w dyskusji.
+
+## Bibliografia
+
+- American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th ed.).
+- Appelbaum, M., Cooper, H., Kline, R. B., Mayo-Wilson, E., Nezu, A. M., & Rao, S. M. (2018). Journal article reporting standards for quantitative research in psychology. *American Psychologist, 73*(1), 3–25. [https://doi.org/10.1037/amp0000191](https://doi.org/10.1037/amp0000191)
+- Shadish, W. R., Cook, T. D., & Campbell, D. T. (2002). *Experimental and quasi-experimental designs for generalized causal inference*. Houghton Mifflin.

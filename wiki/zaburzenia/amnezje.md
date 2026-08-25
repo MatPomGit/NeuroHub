@@ -91,3 +91,9 @@ Ocena amnezji wymaga systematycznego badania różnych komponentów pamięci:
 Kluczowe jest rozróżnienie: **kodowanie vs. przechowywanie vs. wydobywanie** - benzodiazepiny zaburzają kodowanie, w depresji zaburzone jest wydobywanie (lepiej po wskazówkach), w chorobie Alzheimera zaburzone jest przechowywanie.
 
 **Powiązane zagadnienia:** hipokamp · konsolidacja pamięci · pamięć epizodyczna · zespół Korsakoffa · H.M. · TGA · dysocjacja
+
+## Bibliografia
+
+- Kolb, B., & Whishaw, I. Q. (2021). *Fundamentals of human neuropsychology* (8th ed.). Worth Publishers.
+- Lezak, M. D., Howieson, D. B., Bigler, E. D., & Tranel, D. (2012). *Neuropsychological assessment* (5th ed.). Oxford University Press.
+- Vallar, G. (2007). Spatial neglect, Balint-Homes’ and Gerstmann’s syndrome, and other spatial disorders. *CNS Spectrums, 12*(7), 527–536. [https://doi.org/10.1017/S1092852900021271](https://doi.org/10.1017/S1092852900021271)

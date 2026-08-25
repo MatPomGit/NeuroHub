@@ -118,3 +118,9 @@ Nie referuj artykułów jeden po drugim. Grupuj je **tematycznie lub problemowo*
 > **Przykład dobrego podejścia:** „Liczne badania wskazują, że lęk separacyjny wiąże się z pozabezpiecznym stylem przywiązania (Smith, 2015; Jones, 2017), przy czym efekt ten jest silniejszy u chłopców niż u dziewcząt (Brown, 2019)."
 
 Dobry przegląd literatury jest systematyczny, krytyczny i syntetyczny. Nie jest katalogiem artykułów - jest argumentem budowanym z wiedzy innych, który prowadzi do pytania badawczego. Czas inwestowany w rzetelny przegląd literaturowy procentuje na każdym kolejnym etapie pracy.
+
+## Bibliografia
+
+- American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th ed.).
+- Appelbaum, M., Cooper, H., Kline, R. B., Mayo-Wilson, E., Nezu, A. M., & Rao, S. M. (2018). Journal article reporting standards for quantitative research in psychology. *American Psychologist, 73*(1), 3–25. [https://doi.org/10.1037/amp0000191](https://doi.org/10.1037/amp0000191)
+- Shadish, W. R., Cook, T. D., & Campbell, D. T. (2002). *Experimental and quasi-experimental designs for generalized causal inference*. Houghton Mifflin.

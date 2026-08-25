@@ -36,3 +36,9 @@ Dzieci adoptowane porównuje się z biologicznymi i adoptującymi rodzicami. Bad
 ## Interakcja genotyp–środowisko
 
 Caspi i Moffitt (2003) opisali interakcję G×E: wariant genu MAO-A moderował skutki maltretowania w dzieciństwie dla agresji. Koncepcja *niche picking* - osoby aktywnie wybierają środowisko zgodne z genotypem, wzmacniając genetyczne tendencje.
+
+## Bibliografia
+
+- Plomin, R., DeFries, J. C., Knopik, V. S., & Neiderhiser, J. M. (2016). Top 10 replicated findings from behavioral genetics. *Perspectives on Psychological Science, 11*(1), 3–23. [https://doi.org/10.1177/1745691615617439](https://doi.org/10.1177/1745691615617439)
+- Turkheimer, E. (2000). Three laws of behavior genetics and what they mean. *Current Directions in Psychological Science, 9*(5), 160–164. [https://doi.org/10.1111/1467-8721.00084](https://doi.org/10.1111/1467-8721.00084)
+- Visscher, P. M., Wray, N. R., Zhang, Q., Sklar, P., McCarthy, M. I., Brown, M. A., & Yang, J. (2017). 10 years of GWAS discovery: Biology, function, and translation. *The American Journal of Human Genetics, 101*(1), 5–22. [https://doi.org/10.1016/j.ajhg.2017.06.005](https://doi.org/10.1016/j.ajhg.2017.06.005)

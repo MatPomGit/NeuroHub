@@ -75,3 +75,9 @@ Wiele współczesnych problemów wynika z **niedopasowania** między środowiski
 - Lęk i depresja - układ stresu aktywowany przez zagrożenia społeczne, nie drapieżniki
 - Uzależnienia - układy nagrody eksploatowane przez sztuczne supersygnały (narkotyki, gry)
 - Samotność - potrzeba głębokich relacji w sieci powierzchownych kontaktów
+
+## Bibliografia
+
+- Buss, D. M. (2019). *Evolutionary psychology: The new science of the mind* (6th ed.). Routledge.
+- Confer, J. C., Easton, J. A., Fleischman, D. S., Goetz, C. D., Lewis, D. M. G., Perilloux, C., & Buss, D. M. (2010). Evolutionary psychology: Controversies, questions, prospects, and limitations. *American Psychologist, 65*(2), 110–126. [https://doi.org/10.1037/a0018413](https://doi.org/10.1037/a0018413)
+- Tooby, J., & Cosmides, L. (1992). The psychological foundations of culture. In J. H. Barkow, L. Cosmides, & J. Tooby (Eds.), *The adapted mind* (pp. 19–136). Oxford University Press.

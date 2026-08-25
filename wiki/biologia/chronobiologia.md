@@ -102,3 +102,9 @@ Sen i zdrowie psychiczne są głęboko sprzężone:
 - **Depresja:** Zaburzenia snu (bezsenność lub hipersomnia) to niemal universalny objaw; skrócony czas latencji REM jest biologicznym markerem depresji;
 - **Lęk:** Aktywacja układu lękowego hamuje zasypianie; niedobór snu nasila lękliwość;
 - **CBT-I (Terapia poznawczo-behawioralna bezsenności):** Złoty standard leczenia bezsenności chronicznej - skuteczniejsza i bezpieczniejsza niż leki nasenne długoterminowo.
+
+## Bibliografia
+
+- Borbély, A. A., Daan, S., Wirz-Justice, A., & Deboer, T. (2016). The two-process model of sleep regulation: A reappraisal. *Journal of Sleep Research, 25*(2), 131–143. [https://doi.org/10.1111/jsr.12371](https://doi.org/10.1111/jsr.12371)
+- Roenneberg, T., Wirz-Justice, A., & Merrow, M. (2003). Life between clocks: Daily temporal patterns of human chronotypes. *Journal of Biological Rhythms, 18*(1), 80–90. [https://doi.org/10.1177/0748730402239679](https://doi.org/10.1177/0748730402239679)
+- Walker, M. P. (2009). The role of sleep in cognition and emotion. *Annals of the New York Academy of Sciences, 1156*(1), 168–197. [https://doi.org/10.1111/j.1749-6632.2009.04416.x](https://doi.org/10.1111/j.1749-6632.2009.04416.x)

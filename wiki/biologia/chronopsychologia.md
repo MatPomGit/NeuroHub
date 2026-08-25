@@ -8,139 +8,47 @@ evidenceCutoffDate: 2025-12-31
 
 # Chronopsychologia
 
-Chronopsychologia bada, **jak rytmy biologiczne oraz subiektywne odczuwanie czasu wpływają na funkcjonowanie psychiczne**: uwagę, pamięć, emocje, motywację, podejmowanie decyzji i zachowanie społeczne. To obszar na styku chronobiologii, psychologii poznawczej, psychologii zdrowia i neuronauki.
+**Chronopsychologia** bada psychologiczne konsekwencje czasu: zależność funkcjonowania od pory dnia, chronotypu i synchronizacji z otoczeniem, a także subiektywne postrzeganie trwania. Molekularne zegary, fizjologię rytmów i architekturę snu opisuje [chronobiologia](chronobiologia.md).
 
-## Czym różni się od chronobiologii?
+## Chronotyp i pora wykonywania zadania
 
-- **Chronobiologia** opisuje mechanizmy zegara biologicznego (np. SCN, melatonina, rytmy okołodobowe).
-- **Chronopsychologia** analizuje, jak te mechanizmy przekładają się na przeżycia psychiczne i codzienne działanie.
+Chronotyp to względnie trwała skłonność do wcześniejszych albo późniejszych pór snu i aktywności. Nie tworzy trzech ostrych kategorii „skowronków”, „sów” i osób pośrednich, lecz kontinuum zależne między innymi od wieku, genów, ekspozycji na światło i obowiązków społecznych (Roenneberg et al., 2003). Preferowana pora nie jest tym samym co dowolnie wybrany styl życia.
 
-W praktyce odpowiada na pytania: *o której najlepiej się uczyć, kiedy jesteśmy bardziej impulsywni, dlaczego czasem „czas leci”, a czasem „ciągnie się w nieskończoność”, oraz jak czas psychologiczny kształtuje nastrój i decyzje?*
+Wynik poznawczy zależy zarówno od chronotypu, jak i rodzaju zadania. **Efekt synchronii** oznacza przeciętnie lepsze wykonanie niektórych zadań o porze zgodnej z własnym chronotypem, szczególnie gdy zadanie wymaga kontroli poznawczej. Efekt nie występuje jednak jednakowo we wszystkich funkcjach i badaniach; znaczenie mają senność, praktyka, motywacja oraz wymagania zadania (Schmidt et al., 2007). Z tego powodu nie ma jednej uniwersalnej „najlepszej godziny” na naukę, egzamin czy terapię.
 
-## Rytmy psychiczne w ciągu doby
+## Niedopasowanie czasu biologicznego i społecznego
 
-U większości osób występują przewidywalne wahania:
+**Społeczny jet lag** opisuje rozbieżność między czasem snu w dni robocze i wolne, używaną jako przybliżenie niedopasowania zegara biologicznego do harmonogramu społecznego (Wittmann et al., 2006). Miara jest użyteczna w badaniach populacyjnych, lecz nie stanowi diagnozy i może odzwierciedlać także niedobór snu w dni pracy.
 
-- **Uwaga i szybkość reakcji** zwykle rosną po pełnym przebudzeniu i spadają wieczorem.
-- **Pamięć robocza** bywa najwyższa w „oknie” największej czujności.
-- **Kontrola poznawcza** (hamowanie impulsywnych reakcji) pogarsza się przy zmęczeniu i niedoborze snu.
-- **Reaktywność emocjonalna** rośnie, gdy rytm dobowy jest rozregulowany.
+Późniejszy chronotyp i większe niedopasowanie czasowe korelują z niektórymi problemami nastroju, zachowaniami zdrowotnymi i słabszym funkcjonowaniem. Duża część tych danych ma charakter obserwacyjny. Nie pozwala więc uznać chronotypu za pojedynczą przyczynę ani obiecać, że samo dopasowanie planu dnia usunie objawy kliniczne. W praktyce warto rozróżnić preferencję czasową, niewystarczającą długość snu, nieregularność rytmu oraz zaburzenie wymagające oceny klinicznej.
 
-To, *kiedy* obserwujemy najlepsze wyniki, zależy od **chronotypu**.
+## Subiektywny czas
 
-## Chronotyp: skowronek, sowa i spektrum pośrednie
+Czas psychologiczny nie jest jednym zmysłem ani wierną kopią czasu zegarowego. Ocena trwania zależy od tego, czy człowiek wie z góry, że będzie oceniał czas (**ocena prospektywna**), czy robi to dopiero po zdarzeniu (**ocena retrospektywna**).
 
-Chronotyp określa preferowaną porę aktywności i snu:
+W ocenie prospektywnej skierowanie uwagi na upływ czasu zwykle zwiększa szacowane trwanie, natomiast angażujące zadanie może odciągać uwagę od czasu. W ocenie retrospektywnej ważniejsze stają się zawartość pamięci i liczba zmian kontekstowych. Dlatego zajęty okres może wydawać się krótki w trakcie, a bogaty i długi we wspomnieniu. Modele „wewnętrznego zegara” są użytecznymi opisami części wyników, nie zaś dowodem istnienia jednego anatomicznego czasomierza (Block & Gruber, 2014).
 
-- **Typ poranny (skowronek)** - lepsze funkcjonowanie poznawcze wcześnie.
-- **Typ wieczorny (sowa)** - szczyt wydajności przesunięty na późniejsze godziny.
-- **Typ pośredni** - bardziej elastyczny profil dzienny.
+Pobudzenie emocjonalne, uwaga i właściwości bodźca mogą zniekształcać ocenę krótkich odcinków. Nie każda emocja działa jednak w tym samym kierunku: wynik zależy od jej pobudzenia, motywacji do zbliżenia lub unikania, czasu prezentacji i metody pomiaru (Droit-Volet & Meck, 2007). Kategoryczne reguły, że lęk zawsze „wydłuża”, a przyjemność zawsze „skraca” czas, są zatem nieuzasadnione.
 
-Problem pojawia się wtedy, gdy wymagania społeczne (np. bardzo wczesne godziny zajęć) są niezgodne z chronotypem. To zjawisko nazywa się **społecznym jet lagiem** i wiąże się z gorszym nastrojem, koncentracją, wydolnością poznawczą i regeneracją.
+## Czas w pamięci i decyzjach
 
-## Jak człowiek odczuwa czas? (czas psychologiczny)
+Pamięć zdarzeń zachowuje kolejność i kontekst niedoskonale. Nowość, granice zdarzeń i dostępność śladów pamięciowych wpływają na retrospektywne poczucie długości okresu. Sen może wspierać konsolidację, lecz jest to mechanizm pamięci, a nie osobna miara czasu psychologicznego.
 
-Człowiek nie odbiera czasu jak zegar. W psychologii mówi się o **czasie psychologicznym** - subiektywnym poczuciu trwania, tempa i kolejności zdarzeń.
+W wyborach między nagrodą wcześniejszą i późniejszą ludzie często dyskontują wartość odroczenia. Tempo dyskontowania różni się między osobami i sytuacjami; nie jest prostą miarą impulsywności ani stałą cechą charakteru. Wyczerpanie i niedobór snu mogą zmieniać decyzje, ale wyniki zależą od zadania oraz rodzaju ryzyka, więc nie należy zakładać jednolitego przesunięcia ku „tu i teraz” (Kable, 2014).
 
-### 1) Szacowanie krótkich odcinków czasu
+## Zastosowania i ograniczenia
 
-Przy ocenianiu sekund i minut mózg korzysta z uwagi, pamięci roboczej i przewidywania. Gdy uwaga jest przeciążona bodźcami, oszacowanie bywa mniej trafne. Dlatego ta sama minuta może wydawać się inna podczas:
+Uwzględnianie pory dnia może poprawić projekt badań, planowanie nauki i organizację pracy. Rozsądna zasada polega na obserwowaniu własnego profilu czujności i, gdy to możliwe, planowaniu wymagających zadań na porę sprawnego funkcjonowania. Nie zastępuje to odpowiedniej ilości snu ani diagnozy trudności utrzymujących się mimo regularnego harmonogramu.
 
-- czekania w napięciu,
-- wykonywania nudnego zadania,
-- angażującej aktywności poznawczej.
+W edukacji i pracy rozwiązania organizacyjne należy oceniać na poziomie grupy oraz jednostki: późniejsze rozpoczęcie zajęć może pomagać części młodzieży, ale harmonogram ma również skutki rodzinne i społeczne. W psychoterapii stabilizacja rytmu aktywności jest elementem niektórych interwencji, zwłaszcza w zaburzeniach nastroju, lecz nie należy przedstawiać „życia zgodnie z chronotypem” jako samodzielnego leczenia.
 
-### 2) Emocje a poczucie czasu
-
-- **Lęk i ból** zwykle wydłużają subiektywny czas („to trwało wieczność”).
-- **Pozytywne zaangażowanie** może skracać odczuwanie czasu („nie wiem, kiedy minęły 2 godziny”).
-- **Nuda** często powoduje spowolnienie czasu psychologicznego.
-
-Silna aktywacja emocjonalna zmienia tempo „wewnętrznego zegara”, dlatego czas bywa odczuwany szybciej lub wolniej niż obiektywnie.
-
-### 3) Uwaga i „bramkowanie” czasu
-
-Jedno z podejść zakłada, że im więcej zasobów uwagi kierujemy na upływ czasu, tym dłuższy wydaje się odcinek. Kiedy uwaga jest pochłonięta zadaniem, mniej „monitorujemy” czas i odczuwamy jego szybszy bieg.
-
-## Czas, a umysł
-
-## 1. Czas i pamięć
-
-Pamięć porządkuje doświadczenia chronologicznie, ale nie jest „nagraną taśmą”. Długość i jakość wspomnień zależą od:
-
-- liczby nowych bodźców,
-- poziomu emocji,
-- snu po zdarzeniu,
-- uwagi podczas kodowania.
-
-Dlatego okresy monotonne często „kurczą się” we wspomnieniach, a okresy pełne nowości wydają się retrospektywnie dłuższe.
-
-## 2. Czas i podejmowanie decyzji
-
-Ludzie zwykle **dyskontują przyszłość** - nagrody odroczone bywają mniej atrakcyjne niż natychmiastowe. To wpływa na:
-
-- oszczędzanie i planowanie,
-- nawyki zdrowotne,
-- prokrastynację,
-- ryzykowne wybory.
-
-Niewyspanie i rozregulowany rytm dobowy dodatkowo nasilają impulsywność i preferencję „tu i teraz”.
-
-## 3. Czas i poczucie tożsamości
-
-Umysł łączy przeszłość, teraźniejszość i przyszłość w narrację „ja”. Zaburzenia tej integracji (np. przewlekły stres, trauma, depresja) mogą zmieniać perspektywę czasową:
-
-- dominacja przeszłości (ruminacje),
-- zawężenie do „tu i teraz” (trudność planowania),
-- pesymistyczna wizja przyszłości.
-
-Praca terapeutyczna często obejmuje porządkowanie osi czasu życia i odbudowę realistycznej perspektywy przyszłości.
-
-## Chronopsychologia uczenia się
-
-Planowanie nauki zgodnie z rytmem dobowym może poprawiać efekty:
-
-1. Najtrudniejsze zadania poznawcze wykonuj w okresie najwyższej czujności.
-2. Powtórki materiału rozkładaj na kilka dni i łącz z regularnym snem.
-3. Unikaj nauki „do oporu” kosztem snu - konsolidacja pamięci zachodzi głównie podczas snu.
-4. Stosuj bloki pracy z przerwami, bo subiektywnie „krótsze” sesje łatwiej utrzymać bez spadku koncentracji.
-
-## Chronopsychologia emocji i zdrowia psychicznego
-
-Rozregulowany rytm sen–czuwanie może nasilać:
-
-- drażliwość i chwiejność emocjonalną,
-- objawy lękowe,
-- obniżenie nastroju,
-- trudności z samokontrolą,
-- poczucie „utraty czasu” i chaosu dnia.
-
-Z tego powodu interwencje psychologiczne coraz częściej obejmują **higienę rytmu dobowego**: stałe pory snu, poranną ekspozycję na światło, ograniczanie światła niebieskiego wieczorem, regularność aktywności oraz planowanie dnia zgodnie z własnym chronotypem.
-
-## Perspektywa czasu w psychologii
-
-W badaniach psychologicznych wyróżnia się orientacje czasowe, np. przewaga:
-
-- **przeszłości** (wspomnienia, żal, idealizacja),
-- **teraźniejszości** (impuls, przyjemność, reagowanie na bodźce),
-- **przyszłości** (planowanie, odraczanie gratyfikacji, cele).
-
-Najkorzystniejsza bywa **zrównoważona perspektywa czasowa**: umiejętność uczenia się z przeszłości, działania tu i teraz oraz myślenia długoterminowego.
-
-## Zastosowania praktyczne
-
-Chronopsychologia ma zastosowanie m.in. w:
-
-- edukacji (planowanie nauki i egzaminów zgodnie z profilem czujności),
-- psychologii pracy (harmonogramy zmianowe, profilaktyka błędów i wypalenia),
-- sporcie (optymalizacja pory treningu, regeneracji i snu),
-- terapii (stabilizacja rytmu w zaburzeniach nastroju i bezsenności),
-- coachingu i rozwoju osobistym (praca z prokrastynacją i planowaniem celów).
-
-Chronopsychologia pokazuje, że dobrostan psychiczny i skuteczność poznawcza zależą nie tylko od *tego, co robimy*, ale też od *kiedy to robimy* i *jak odczuwamy upływ czasu*. Dostosowanie zadań do chronotypu, regularny sen oraz świadome zarządzanie perspektywą czasową to interwencje o dużym znaczeniu klinicznym, edukacyjnym i społecznym.
+Chronopsychologia pokazuje zatem, że *kiedy* wykonujemy zadanie i *jak* reprezentujemy czas, może modyfikować funkcjonowanie. Jej wnioski są probabilistyczne: wymagają uwzględnienia chronotypu, snu, kontekstu i sposobu pomiaru.
 
 ## Bibliografia
 
-- Borbély, A. A., Daan, S., Wirz-Justice, A., & Deboer, T. (2016). The two-process model of sleep regulation: A reappraisal. *Journal of Sleep Research, 25*(2), 131–143. [https://doi.org/10.1111/jsr.12371](https://doi.org/10.1111/jsr.12371)
+- Block, R. A., & Gruber, R. P. (2014). Time perception, attention, and memory: A selective review. *Acta Psychologica, 149*, 129–133. [https://doi.org/10.1016/j.actpsy.2013.11.003](https://doi.org/10.1016/j.actpsy.2013.11.003)
+- Droit-Volet, S., & Meck, W. H. (2007). How emotions colour our perception of time. *Trends in Cognitive Sciences, 11*(12), 504–513. [https://doi.org/10.1016/j.tics.2007.09.008](https://doi.org/10.1016/j.tics.2007.09.008)
+- Kable, J. W. (2014). Valuation, intertemporal choice, and self-control. *Neuroeconomics*, 173–192. [https://doi.org/10.1016/B978-0-12-416008-8.00010-3](https://doi.org/10.1016/B978-0-12-416008-8.00010-3)
 - Roenneberg, T., Wirz-Justice, A., & Merrow, M. (2003). Life between clocks: Daily temporal patterns of human chronotypes. *Journal of Biological Rhythms, 18*(1), 80–90. [https://doi.org/10.1177/0748730402239679](https://doi.org/10.1177/0748730402239679)
-- Walker, M. P. (2009). The role of sleep in cognition and emotion. *Annals of the New York Academy of Sciences, 1156*(1), 168–197. [https://doi.org/10.1111/j.1749-6632.2009.04416.x](https://doi.org/10.1111/j.1749-6632.2009.04416.x)
+- Schmidt, C., Collette, F., Cajochen, C., & Peigneux, P. (2007). A time to think: Circadian rhythms in human cognition. *Cognitive Neuropsychology, 24*(7), 755–789. [https://doi.org/10.1080/02643290701754158](https://doi.org/10.1080/02643290701754158)
+- Wittmann, M., Dinich, J., Merrow, M., & Roenneberg, T. (2006). Social jetlag: Misalignment of biological and social time. *Chronobiology International, 23*(1–2), 497–509. [https://doi.org/10.1080/07420520500545979](https://doi.org/10.1080/07420520500545979)

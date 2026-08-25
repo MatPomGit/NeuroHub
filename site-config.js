@@ -15,6 +15,7 @@ window.SITE_CONFIG = {
 
   // Zachowuje dawne adresy SPA po scaleniu lub przeniesieniu artykułów.
   articleRedirects: {
+    'dla_studentow/psycholog_w_it_kompetencje_mierniki_i_portfolio': 'dla_studentow/psycholog_w_it',
     'neuroroznorodnosc/identyfikacja_i_diagnoza': 'neuroroznorodnosc/wprowadzenie',
     'neuroroznorodnosc/model_mocnych_stron': 'neuroroznorodnosc/wprowadzenie',
     'neuroroznorodnosc/profil_sensoryczny': 'neuroroznorodnosc/spektrum_autyzmu',
@@ -1239,7 +1240,6 @@ window.SITE_CONFIG = {
         { id: 'psychologia_technologii/algorytmy_samoocena_i_autonomia', label: 'Algorytmy, samoocena i autonomia', file: 'wiki/psychologia_technologii/algorytmy_samoocena_i_autonomia.md' },
         { id: 'psychologia_technologii/technologia_w_rodzinie_i_pracy', label: 'Technologia w rodzinie i pracy', file: 'wiki/psychologia_technologii/technologia_w_rodzinie_i_pracy.md' },
         { id: 'dla_studentow/psycholog_w_it', label: 'Psycholog w IT', file: 'wiki/dla_studentow/psycholog_w_it.md' },
-        { id: 'dla_studentow/psycholog_w_it_kompetencje_mierniki_i_portfolio', label: 'Psycholog w IT - kompetencje, mierniki i portfolio', file: 'wiki/dla_studentow/psycholog_w_it_kompetencje_mierniki_i_portfolio.md' },
       ]
     },
     { /* Seminarium dyplomowe */

@@ -50,11 +50,11 @@ body.psyhub-app::before{display:none}
   background:var(--bg);
 }
 .psyhub-app .s-search input:focus{border-color:var(--gold)}
-.psyhub-app .s-nav{padding:.28rem .4rem .8rem}
-.psyhub-app .sidebar-topic{margin:.18rem 0 .3rem;border-radius:8px}
-.psyhub-app .sidebar-topic-header{padding:.4rem .6rem .2rem}
-.psyhub-app .nav-group-hdr{min-height:26px;padding:.24rem .6rem;border-radius:7px}
-.psyhub-app .nav-item{padding:.2rem .55rem .2rem .9rem;border-radius:6px}
+.psyhub-app .s-nav{padding:.18rem .4rem .65rem}
+.psyhub-app .sidebar-topic{margin:.1rem 0 .18rem;border-radius:8px}
+.psyhub-app .sidebar-topic-header{padding:.28rem .55rem .12rem}
+.psyhub-app .nav-group-hdr{min-height:22px;padding:.12rem .55rem;border-radius:6px}
+.psyhub-app .nav-item{padding:.1rem .5rem .1rem .85rem;border-radius:5px}
 .psyhub-app .s-footer{background:var(--bg2);border-top:1px solid var(--border)}
 .psyhub-app .interface-settings{width:100%}
 .psyhub-app .interface-settings summary{padding:.28rem 0}
@@ -88,6 +88,7 @@ body.psyhub-app::before{display:none}
 .psyhub-app .next-step-label{display:none}
 .psyhub-app .next-step-title{max-width:240px}
 .psyhub-app .content{padding:2rem clamp(1rem,4vw,4rem) 5rem}
+.psyhub-app .content:has(.rendered:not(.home-view)){padding-top:.55rem}
 .psyhub-app .rendered{width:min(100%,var(--content-max))}
 
 /* Home page: concise introduction followed by predictable content sections. */
@@ -146,14 +147,17 @@ body.psyhub-app::before{display:none}
 /* Reading surface: a single document plane, restrained metadata and TOC. */
 .psyhub-app .rendered:not(.home-view)>.page-hero,
 .psyhub-app .wiki-hdr{
-  margin-bottom:.65rem;
-  padding:.65rem 0 .55rem;
+  width:100%;
+  margin:0 0 .75rem;
+  padding:.78rem clamp(1rem,2.5vw,1.65rem);
   overflow:visible;
-  border:0;
-  border-bottom:1px solid var(--border);
-  border-radius:0;
-  background:none;
+  border:1px solid var(--border);
+  border-radius:10px;
+  background:var(--bg2);
+  box-shadow:none;
 }
+.psyhub-app .rendered:not(.home-view)>.page-hero h1,
+.psyhub-app .wiki-hdr h1{max-width:none;margin:0;font-family:var(--serif);font-weight:800}
 .psyhub-app .chapter-lbl{
   padding:0;
   border:0;

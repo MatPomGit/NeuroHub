@@ -859,7 +859,6 @@ async function loadMd(id, item) {
     const measurementToolsHtml = renderMeasurementTools(domainKey, id);
     area.innerHTML = `<div class="rendered">
       <div class="page-hero">
-        <span class="chapter-lbl">${item.section||''}</span>
         <h1>${title}</h1>
       </div>
       ${EMPTY_BANNER_HTML}
@@ -913,7 +912,6 @@ function renderMd(text, id, item) {
 
   area.innerHTML = `<div class="rendered">
     <div class="page-hero">
-      <span class="chapter-lbl">${item.section||''}</span>
       <h1 class="article-title-animated">${title}</h1>
       ${articleReviewMetaHtml}
     </div>

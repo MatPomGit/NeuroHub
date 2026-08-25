@@ -48,15 +48,19 @@ body{line-height:var(--leading-body)}
 .psyhub-app .page-hero h1,
 .psyhub-app .wiki-hdr h1{font-size:var(--type-title);line-height:var(--leading-tight)}
 .psyhub-app .md{font-size:var(--type-body);line-height:var(--leading-body)}
+.psyhub-app .md>h1{font-size:var(--type-title);line-height:var(--leading-tight)}
 .psyhub-app .md>h2{font-size:var(--type-h2);line-height:var(--leading-heading)}
 .psyhub-app .md>h3{font-size:var(--type-h3);line-height:var(--leading-heading)}
+.psyhub-app .md>h4{font-size:var(--type-ui);line-height:var(--leading-heading)}
+.psyhub-app .md p,
+.psyhub-app .md li{line-height:var(--leading-body)}
 .psyhub-app .md code{font-size:.85em;line-height:1.5}
+.psyhub-app .md pre code{font-size:.86rem;line-height:1.5}
 .psyhub-app .md table{font-size:.88rem;line-height:1.5}
 
 .wiki-topbar{font-size:var(--type-ui);line-height:var(--leading-ui)}
 .wiki-brand{font-size:1rem;line-height:var(--leading-tight)}
 .wiki-nav a,
-.wiki-context,
 .wiki-source{font-size:var(--type-sm);line-height:var(--leading-ui)}
 .wiki-article{font-size:var(--type-body);line-height:var(--leading-body)}
 .wiki-article>h1:first-child{font-size:var(--type-title);line-height:1.06}

@@ -3,7 +3,7 @@
 ═══════════════════════════════════════════ */
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
 html{scroll-behavior:smooth;font-size:var(--root-font-size)}
-body{font-family:var(--sans);background:var(--bg);color:var(--t1);line-height:1.7;overflow-x:hidden}
+body{font-family:var(--sans);background:var(--bg);color:var(--t1);overflow-x:hidden}
 [data-font-scale="large"]{font-size:var(--root-font-size-large)}
 [data-font-scale="xlarge"]{font-size:var(--root-font-size-xlarge)}
 a{color:var(--blue);text-decoration:none}
@@ -165,7 +165,7 @@ em{color:var(--goldl)}
 /* topik sidebaru */
 .sidebar-topic{margin:.3rem .6rem .6rem;border:1px solid var(--border);border-radius:10px;background:rgba(255,255,255,.015);overflow:hidden}
 .sidebar-topic-header{padding:.48rem .72rem;border-bottom:1px solid rgba(255,255,255,.05)}
-.sidebar-topic-label{font-size:.48rem;letter-spacing:.12em;text-transform:uppercase;font-weight:800;color:var(--t2)}
+.sidebar-topic-label{letter-spacing:.12em;text-transform:uppercase;font-weight:800;color:var(--t2)}
 .sidebar-topic .nav-group-hdr{padding:.4rem .7rem .26rem}
 .sidebar-topic .nav-item{padding:.24rem .7rem .24rem 1.00rem}
 
@@ -196,7 +196,6 @@ em{color:var(--goldl)}
 /* Nagłówki sekcji są większe i bardziej kontrastowe niż tytuły artykułów. */
 .ng-label{
   flex:1;
-  font-size:.48rem;
   text-transform:uppercase;
   letter-spacing:.09em;
   color:var(--goldl);
@@ -214,7 +213,7 @@ em{color:var(--goldl)}
 .nav-item{
   display:flex;align-items:center;
   padding:.26rem 1rem .26rem 1.35rem;
-  color:var(--t2);font-size:.48rem;line-height:1.25;
+  color:var(--t2);
   /* Wymusza czytelne wyrównanie tytułów artykułów do lewej. */
   text-align:left;
   cursor:pointer;border-left:2px solid transparent;
@@ -263,7 +262,7 @@ em{color:var(--goldl)}
   background:rgba(201,162,39,.36);
   border-color:rgba(201,162,39,.5);
 }
-.nav-item.is-wiki{font-size:.7rem;color:var(--t3);padding-left:1.65rem}
+.nav-item.is-wiki{color:var(--t3);padding-left:1.65rem}
 .nav-item.is-wiki:hover{color:var(--goldl)}
 .nav-item.is-wiki:is(.is-active,.active){color:var(--gold);border-left-color:var(--gold)}
 
@@ -458,11 +457,11 @@ em{color:var(--goldl)}
 ═══════════════════════════════════════════ */
 .article-layout{display:grid;grid-template-columns:minmax(0,1fr);gap:1.4rem;align-items:start}
 .article-toc{position:sticky;top:5.3rem;align-self:start;background:var(--bg2);border:1px solid var(--border);border-radius:var(--r);padding:.8rem .85rem}
-.article-toc-title{font-size:.78rem;letter-spacing:.08em;text-transform:uppercase;color:var(--t3);margin:0 0 .55rem}
+.article-toc-title{letter-spacing:.08em;text-transform:uppercase;color:var(--t3);margin:0 0 .55rem}
 .article-toc-list{list-style:none;margin:0;padding:0;display:grid;gap:.2rem}
 .article-toc-item{margin:0}
 .article-toc-item.is-sub{padding-left:.7rem}
-.article-toc-link{display:block;padding:.22rem .35rem;border-radius:6px;color:var(--t2);text-decoration:none;font-size:.82rem;line-height:1.45}
+.article-toc-link{display:block;padding:.22rem .35rem;border-radius:6px;color:var(--t2);text-decoration:none}
 .article-toc-link:hover{color:var(--t1);background:var(--bg3)}
 .article-toc-link.is-active{background:var(--goldt);color:var(--goldl);font-weight:600}
 
@@ -479,34 +478,18 @@ em{color:var(--goldl)}
 .article-toc-mobile-summary::-webkit-details-marker{display:none}
 .article-toc-mobile-summary::after{content:'▾';float:right;opacity:.75}
 .article-toc-mobile[open] .article-toc-mobile-summary::after{content:'▴'}
-.article-hero-actions{display:flex;justify-content:flex-end;margin:.45rem 0 .2rem}
-.btn-copy-link{
-  border:1px solid var(--border);
-  background:var(--bg2);
-  color:var(--t2);
-  border-radius:8px;
-  padding:.35rem .65rem;
-  font-size:.64rem;
-  cursor:pointer;
-}
-.btn-copy-link:hover{border-color:var(--gold);color:var(--t1)}
-.btn-copy-link.is-copied{
-  border-color:rgba(121,189,166,.5);
-  color:#79bda6;
-  background:rgba(121,189,166,.15);
-}
-.md h1{font-family:var(--serif);font-size:2.2rem;font-weight:700;line-height:1.2;letter-spacing:-.025em;margin-bottom:.8rem}
-.md h2{font-family:var(--serif);font-size:1.4rem;font-weight:600;margin:2.6rem 0 .9rem;padding-bottom:.45rem;border-bottom:1px solid var(--border)}
-.md h3{font-family:var(--serif);font-size:1.10rem;font-weight:600;margin:1.9rem 0 .65rem}
-.md h4{font-size:.8rem;font-weight:600;margin:1.4rem 0 .45rem;text-transform:uppercase;letter-spacing:.06em;color:var(--t2)}
-.md p{margin-bottom:.75rem;color:var(--t2);line-height:1.54}
+.md h1{font-family:var(--serif);font-weight:700;letter-spacing:-.025em;margin-bottom:.8rem}
+.md h2{font-family:var(--serif);font-weight:600;margin:2.6rem 0 .9rem;padding-bottom:.45rem;border-bottom:1px solid var(--border)}
+.md h3{font-family:var(--serif);font-weight:600;margin:1.9rem 0 .65rem}
+.md h4{font-weight:600;margin:1.4rem 0 .45rem;text-transform:uppercase;letter-spacing:.06em;color:var(--t2)}
+.md p{margin-bottom:.75rem;color:var(--t2)}
 .md ul,.md ol{margin:.7rem 0 1.2rem 1.5rem;color:var(--t2)}
-.md li{margin-bottom:.32rem;line-height:1.54}
+.md li{margin-bottom:.32rem}
 .md blockquote{border-left:3px solid var(--gold);background:var(--goldt);padding:.85rem 1.2rem;margin:1.4rem 0;border-radius:0 var(--r) var(--r) 0}
 .md blockquote p{margin:0;color:var(--t2)}
 .md code{background:var(--bg3);border:1px solid var(--border);border-radius:4px;padding:.1em .38em;font-family:var(--mono);font-size:.84em;color:var(--goldl)}
 .md pre{background:var(--bg3);border:1px solid var(--border);border-radius:var(--r);padding:.9rem 1.1rem;overflow-x:auto;margin:1.2rem 0}
-.md pre code{background:none;border:none;padding:0;font-size:.86rem;color:var(--t2)}
+.md pre code{background:none;border:none;padding:0;color:var(--t2)}
 .md hr{border:none;border-top:1px solid var(--border);margin:2.3rem 0}
 .md table{width:100%;border-collapse:collapse;font-size:.87rem;margin:1.4rem 0}
 .md th{background:var(--bg3);font-weight:600;color:var(--t1);padding:.6rem .9rem;text-align:left;font-size:.76rem;text-transform:uppercase;letter-spacing:.05em;border-bottom:1px solid var(--border)}
@@ -690,7 +673,7 @@ em{color:var(--goldl)}
 /* page hero */
 .page-hero{padding-bottom:1.9rem;margin-bottom:2.3rem;border-bottom:1px solid var(--border)}
 .chapter-lbl{display:block;font-size:.54rem;text-transform:uppercase;letter-spacing:.18em;color:var(--gold);font-weight:600;margin-bottom:.54rem}
-.page-hero h1{font-family:var(--serif);font-size:2.2rem;font-weight:600;line-height:1.18;letter-spacing:-.025em;margin-bottom:.80rem}
+.page-hero h1{font-family:var(--serif);font-weight:600;letter-spacing:-.025em;margin-bottom:.80rem}
 
 /* Klasa opt-in dla animowanego tytułu artykułu, dodawana wyłącznie podczas renderu Markdown. */
 .page-hero h1.article-title-animated{
@@ -741,7 +724,7 @@ em{color:var(--goldl)}
    WIKI INDEX
 ═══════════════════════════════════════════ */
 .wiki-hdr{padding-bottom:1.8rem;margin-bottom:2.0rem;border-bottom:1px solid var(--border)}
-.wiki-hdr h1{font-family:var(--serif);font-size:2.0rem;font-weight:600;letter-spacing:-.025em;margin-bottom:.64rem}
+.wiki-hdr h1{font-family:var(--serif);font-weight:600;letter-spacing:-.025em;margin-bottom:.64rem}
 .wiki-hdr .intro{font-size:1rem;color:var(--t2);line-height:1.75;max-width:670px}
 .wiki-sec{margin-bottom:2.0rem}
 .wiki-sec-title{font-family:var(--serif);font-size:1.15rem;font-weight:600;margin-bottom:.8rem;padding-bottom:.4rem;border-bottom:1px solid var(--border)}
@@ -1531,115 +1514,9 @@ body.psyhub-app::before{
 .psyhub-app .site-toc-group summary{padding:1.1rem 1.2rem;font-size:1.02rem}
 .psyhub-app .site-toc-sections{padding:.35rem .8rem .9rem}
 
-/* Article and subpage redesign */
-.psyhub-app .rendered:not(.home-view)>.page-hero,
-.psyhub-app .wiki-hdr{
-  position:relative;
-  overflow:hidden;
-  margin-bottom:1.25rem;
-  padding:clamp(1.6rem,4vw,3rem);
-  border:1px solid var(--border);
-  border-radius:var(--r-xl);
-  background:linear-gradient(135deg,var(--surface-strong),color-mix(in srgb,var(--bg3) 82%,var(--gold) 18%));
-  box-shadow:var(--shadow-sm);
-}
-.psyhub-app .rendered:not(.home-view)>.page-hero::after,
-.psyhub-app .wiki-hdr::after{
-  content:"";
-  position:absolute;
-  width:240px;
-  height:240px;
-  right:-90px;
-  top:-120px;
-  border-radius:50%;
-  background:var(--accent-gradient);
-  opacity:.18;
-  filter:blur(1px);
-}
-.psyhub-app .chapter-lbl{
-  display:inline-flex;
-  padding:.36rem .62rem;
-  border:1px solid var(--border);
-  border-radius:999px;
-  background:var(--surface-soft);
-  color:var(--goldl);
-  font:800 .54rem var(--sans);
-  letter-spacing:.12em;
-  text-transform:uppercase;
-}
-.psyhub-app .page-hero h1,
-.psyhub-app .wiki-hdr h1{
-  max-width:980px;
-  margin:.9rem 0 0;
-  font-family:var(--serif);
-  font-size:clamp(2.1rem,5vw,4.6rem);
-  font-weight:800;
-  line-height:1.03;
-  letter-spacing:-.06em;
-}
-.psyhub-app .article-hero-actions{justify-content:flex-start}
-.psyhub-app .btn-copy-link{
-  min-height:32px;
-  padding:.45rem .75rem;
-  border-radius:11px;
-  background:var(--surface-soft);
-}
-.psyhub-app .article-layout{
-  grid-template-columns:240px minmax(0,1fr);
-  gap:1rem;
-}
-.psyhub-app .article-toc{
-  top:96px;
-  padding:1rem;
-  border-radius:18px;
-  background:var(--surface);
-  box-shadow:var(--shadow-sm);
-}
-.psyhub-app .article-toc-title{font-size:.54rem;font-weight:800}
-.psyhub-app .article-toc-link{padding:.38rem .5rem;border-radius:9px;font-size:.72rem}
-.psyhub-app .md{
-  min-width:0;
-  padding:clamp(1.32rem,4vw,3.4rem);
-  border:1px solid var(--border);
-  border-radius:var(--r-xl);
-  background:var(--surface);
-  box-shadow:var(--shadow-sm);
-  font-size:clamp(.98rem,1.1vw,1.08rem);
-  line-height:1.82;
-}
-.psyhub-app .md>h2{
-  margin-top:3rem;
-  padding-bottom:.65rem;
-  border-bottom:1px solid var(--border);
-  font-family:var(--serif);
-  font-size:clamp(1.24rem,2.5vw,2.25rem);
-  letter-spacing:-.035em;
-}
-.psyhub-app .md>h3{margin-top:2.2rem;font-family:var(--serif);font-size:1.1rem;letter-spacing:-.02em}
-.psyhub-app .md p{max-width:78ch}
-.psyhub-app .md blockquote{
-  border-left:3px solid var(--gold);
-  border-radius:0 16px 16px 0;
-  background:linear-gradient(90deg,var(--goldt),transparent);
-  padding:1rem 1.25rem;
-}
-.psyhub-app .md table{border-radius:14px;overflow:hidden}
-.psyhub-app .md img{border-radius:18px;box-shadow:var(--shadow-sm)}
-.psyhub-app .page-nav{gap:.8rem;margin-top:1rem}
-.psyhub-app .pnav-btn{
-  min-height:72px;
-  border-radius:16px;
-  background:var(--surface);
-  box-shadow:var(--shadow-sm);
-}
-
 /* Responsive behavior */
 @media (max-width:1280px){
   .psyhub-app .start-grid{grid-template-columns:repeat(3,minmax(0,1fr))}
-}
-@media (max-width:1120px){
-  .psyhub-app .article-layout{grid-template-columns:minmax(0,1fr)}
-  .psyhub-app .article-toc{position:relative;top:auto}
 }
 @media (max-width:900px){
   .psyhub-app .sidebar{
@@ -1655,8 +1532,6 @@ body.psyhub-app::before{
   .psyhub-app .home-hero{min-height:auto;padding:2rem 1.25rem}
   .psyhub-app .home-hero::after{right:-2rem;top:5rem;font-size:6rem;opacity:.2}
   .psyhub-app .start-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
-  .psyhub-app .rendered:not(.home-view)>.page-hero,.psyhub-app .wiki-hdr{border-radius:22px}
-  .psyhub-app .md{border-radius:22px}
 }
 @media (max-width:560px){
   .psyhub-app .home-hero{border-radius:22px}
@@ -1667,6 +1542,4 @@ body.psyhub-app::before{
   .psyhub-app .start-card-title{font-size:1.00rem}
   .psyhub-app .start-card-subtitle{font-size:.64rem}
   .psyhub-app .start-card-goal{font-size:.72rem}
-  .psyhub-app .page-hero h1,.psyhub-app .wiki-hdr h1{font-size:2.0rem}
-  .psyhub-app .md{padding:1.15rem}
 }

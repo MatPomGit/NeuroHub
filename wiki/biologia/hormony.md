@@ -1,102 +1,49 @@
 ---
-lastReviewed: 2026-04-01
+lastReviewed: 2026-08-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
+content_type: article
 ---
 
 # Hormony i zachowanie
 
-Wśród [biologicznych podstaw zachowania](biologiczne_podstawy.md) hormony są chemicznymi posłańcami wydzielanymi przez gruczoły dokrewne, przenoszonymi przez krew i wywierającymi wpływ na odległe tkanki, w tym mózg. Odgrywają kluczową rolę w regulacji zachowania, emocji, poznania i zdrowia psychicznego.
+Hormony są cząsteczkami sygnałowymi wydzielanymi do krążenia i działającymi przez swoiste receptory. Ich związek z zachowaniem jest zwykle **dwukierunkowy**: hormon może zmieniać prawdopodobieństwo reakcji, a sytuacja i zachowanie zmieniają jego wydzielanie. Efekt zależy od dawki, rytmu, czasu ekspozycji, receptora, płci, wieku i kontekstu. Pojedynczy pomiar rzadko wyjaśnia złożony stan psychiczny.
 
-## Układ hormonalny - podstawy
+## Osie regulacyjne
 
-**Endokrynologia** bada gruczoły wydzielania wewnętrznego i ich wydzielane substancje. Kluczowe gruczoły to:
+Podwzgórze integruje sygnały nerwowe i hormonalne. W osi podwzgórze–przysadka–nadnercza (HPA) CRH pobudza wydzielanie ACTH, a ACTH kortyzolu; glukokortykoidy uczestniczą w ujemnym sprzężeniu zwrotnym. Kortyzol ma rytm dobowy opisany szerzej w [chronobiologii](chronobiologia.md) i mobilizuje energię podczas wyzwania. Krótkotrwale wspiera adaptację, natomiast przewlekła lub niedostosowana aktywacja wiąże się z obciążeniem wielu układów (McEwen, 2007; Sapolsky et al., 2000).
 
-- Podwzgórze - centrum integracji układu nerwowego i hormonalnego; wydziela hormony uwalniające i hamujące
-- Przysadka mózgowa - "master gland"; kontroluje wiele innych gruczołów
-- Nadnercza - kortyzol, adrenalina, androgeny
-- Tarczyca - tyroksyna (T4), trijodotyronina (T3)
-- Trzustka - insulina, glukagon
-- Gonady - estrogeny, progesteron (jajniki); testosteron (jądra)
-- Szyszynka - melatonina
+Nie jest poprawne twierdzenie, że przewlekle podwyższony kortyzol po prostu „zabija neurony hipokampa”. U ludzi mniejsza objętość hipokampa i zaburzenia osi HPA są wynikami grupowymi, zależnymi od choroby, leczenia i historii stresu; korelacja nie ustala kierunku przyczynowego. W PTSD wyniki dotyczące podstawowego stężenia kortyzolu są heterogeniczne, dlatego „niski kortyzol” nie jest testem diagnostycznym.
 
-> **Oś HPA:** Podwzgórze → przysadka → nadnercza to kluczowy układ regulacji [stresu](../psychologia_zdrowia/stres.md). Podwzgórze wydziela CRH, przysadka - ACTH, nadnercza - kortyzol. Kortyzol w pętli ujemnej zwrotnej hamuje wydzielanie CRH i ACTH.
+## Hormony płciowe i rozwój
 
-## Kortyzol - hormon stresu
+Testosteron, estradiol i progesteron działają w mózgu oraz tkankach obwodowych. W rozwoju mogą organizować dojrzewanie obwodów, a później modulować ich aktywność (Sisk & Zehr, 2005). Związek testosteronu z agresją jest mały i zależny od sytuacji. Metaanaliza eksperymentalnych podań testosteronu wykazała mały efekt na agresję, a w badaniach korelacyjnych związek również był słaby; wyniki nie wspierają prostego modelu „hormonu agresji” (Geniole et al., 2020).
 
-**Kortyzol** (hydrokortyzol) jest glukokortykoidem wydzielanym przez korę nadnerczy w odpowiedzi na stres. Jego funkcje adaptacyjne:
+Zmiany hormonów jajnikowych mogą wpływać na nastrój u części osób wrażliwych, lecz typowe wahania nie wywołują automatycznie zaburzenia. W przedmiesiączkowym zaburzeniu dysforycznym znaczenie ma nieprawidłowa wrażliwość na prawidłowe zmiany steroidów, a rozpoznanie wymaga prospektywnego śledzenia objawów. Ryzyko depresji okołoporodowej jest wieloczynnikowe, nie stanowi prostego skutku „spadku estrogenu”.
 
-- Podniesienie poziomu glukozy we krwi (energia dla mięśni)
-- Zahamowanie trawienia, układu immunologicznego i reprodukcji
-- Konsolidacja [pamięci](../psychologia_poznawcza/pamiec.md) emocjonalnej (dlatego stresujące zdarzenia dobrze się zapamiętuje)
+## Oksytocyna
 
-**Dysregulacja kortyzolu:**
+Oksytocyna uczestniczy w porodzie, laktacji i regulacji zachowań społecznych. Nie jest uniwersalnym „hormonem miłości”: efekt podania donosowego zależy od osoby, zadania i kontekstu, a pomiar obwodowy nie jest prostym odczytem stężenia w mózgu. Duże, 24-tygodniowe badanie 290 dzieci i nastolatków w spektrum autyzmu nie wykazało poprawy interakcji społecznych po donosowej oksytocynie względem placebo (Sikich et al., 2021). Jest to dowód przeciw rutynowemu zastosowaniu w tym wskazaniu, nie przeciw wszystkim funkcjom biologicznym oksytocyny.
 
-- Przewlekle podwyższony kortyzol uszkadza neurony hipokampa i zmniejsza jego objętość
-- Jest związany z zaburzeniami depresyjnymi, PTSD i zaburzeniami lękowymi
-- Hipokortyzolizm (niski kortyzol) jest paradoksalnie obserwowany w chronicznym PTSD
+## Melatonina, tarczyca i metabolizm
 
-## Testosteron
+[Melatonina](chronobiologia.md#melatonina-i-faza-dobowa) sygnalizuje biologiczną noc i może przesuwać fazę rytmu zależnie od pory podania. Nie jest prostym „wyłącznikiem snu”. Hormony tarczycy wpływają na tempo metabolizmu; zarówno niedoczynność, jak i nadczynność mogą dawać objawy poznawcze i nastrojowe. Wynik TSH interpretuje się wraz z hormonami tarczycy, objawami i stanem somatycznym, a nie jako samodzielny test depresji.
 
-**Testosteron** jest androgenem syntetyzowanym głównie przez jądra (u mężczyzn) i w mniejszych ilościach przez jajniki i nadnercza (u kobiet).
+Insulina reguluje metabolizm i ma receptory w mózgu, lecz określenie choroby Alzheimera jako „cukrzycy typu 3” nie jest rozpoznaniem klinicznym i upraszcza złożoną patofizjologię. Hormon wzrostu jest wydzielany pulsacyjnie, ze znaczącymi wyrzutami podczas snu wolnofalowego; pojedynczy pomiar nie wystarcza do oceny niedoboru.
 
-Związek z zachowaniem:
+## Jak interpretować badania hormonalne?
 
-- **Dominacja i status:** Testosteron wzrasta po wygraniu rywalizacji (efekt zwycięzcy), a spada po przegranej - tworząc pętlę zwrotną między statusem a biologią
-- **[Agresja](../psychologia_spoleczna/agresja_uprzedzenia_i_przemoc_spoleczna.md):** Związek jest słabszy niż się popularnie sądzi; testosteron raczej moduluje wrażliwość na status i prowokację niż bezpośrednio powoduje agresję
-- **Podejmowanie ryzyka:** Wyższy poziom testosteronu koreluje z większą skłonnością do ryzyka
-- **Efekt ojcostwa:** Poziom testosteronu spada u mężczyzn po narodzinach dziecka, co może ułatwiać zachowania opiekuńcze
+1. Rozróżniaj stężenie podstawowe, reaktywność na bodziec i rytm dobowy.
+2. Uwzględniaj porę pobrania, leki, cykl, posiłek, wysiłek i metodę oznaczenia.
+3. Oddzielaj korelację od efektu eksperymentalnego oraz wynik grupowy od diagnozy jednostki.
+4. Nie przypisuj jednemu hormonowi etykiety jednej emocji lub zachowania.
 
-## Estrogeny i progesteron
-
-**Estrogeny** (głównie estradiol) pełnią rolę nie tylko reprodukcyjną, ale i neuroprotekcyjną - wpływają na plastyczność synaptyczną, nastrój i funkcje poznawcze.
-
-Wahania estrogenu w cyklu menstruacyjnym korelują ze zmianami nastroju, wrażliwości na stres i niektórych aspektów poznania. Gwałtowny spadek estrogenów po porodzie jest jednym z czynników ryzyka depresji poporodowej.
-
-Menopauza i związany z nią spadek estrogenu jest czynnikiem ryzyka objawów depresyjnych i problemów poznawczych.
-
-**Progesteron** ma działanie przeciwlękowe (moduluje receptory GABA-A), co wyjaśnia zmienność nastroju w fazie lutealnej cyklu.
-
-## Oksytocyna - hormon więzi
-
-**Oksytocyna** jest peptydem wydzielanym przez tylną przysadkę, popularnie zwanym "hormonem miłości" lub "hormonem więzi".
-
-Udokumentowane efekty:
-
-- Ułatwia tworzenie przywiązania (matka-dziecko, partnerzy romantyczni)
-- Zmniejsza reaktywność ciała migdałowatego na zagrożenia
-- Zwiększa ufność i współpracę *w grupie własnej*
-
-> **Ciemna strona oksytocyny:** Zwiększa nieufność i agresję wobec *outgroupów* (obcych). Efekty są wysoce kontekstowe - oksytocyna nie jest "lekiem na miłość". Doniesienia o jej skuteczności w terapii [autyzmu](../neuroroznorodnosc/spektrum_autyzmu.md) są niereplikowalne.
-
-## Hormon wzrostu i IGF-1
-
-**Hormon wzrostu (GH)** wydzielany przez przysadkę - głównie podczas [głębokiego snu](chronobiologia.md#regulacja-snu) (NREM N3) i po ćwiczeniach fizycznych - stymuluje wzrost i regenerację tkanek. Niedobór GH u dorosłych wiąże się z obniżonym nastrojem, zmęczeniem i zaburzeniami poznawczymi.
-
-## Hormony tarczycy
-
-**Niedoczynność tarczycy** (hipotyreoza) objawia się: zmęczeniem, spowolnieniem psychomotorycznym, obniżonym nastrojem, zaburzeniami pamięci. Często mylona z depresją. **Nadczynność** (hipertyreoza) - niepokojem, drażliwością, zaburzeniami snu.
-
-Badanie TSH jest standardem w diagnostyce różnicowej zaburzeń nastroju.
-
-## Insulina i funkcje poznawcze
-
-**Insulina** nie tylko reguluje metabolizm glukozy - receptory insulinowe są obecne w mózgu, gdzie regulują apetyt, nastrój i pamięć. Insulinooporność mózgu jest powiązana z chorobą Alzheimera (nazywaną czasem "cukrzycą typu 3").
-
-## Hormonalne podłoże zaburzeń psychicznych
-
-| Zaburzenie | Hormony w tle |
-|---|---|
-| Depresja | Hiperkortyzolizm, obniżone hormony tarczycy |
-| PTSD | Hipokortyzolizm (paradoks), dysregulacja osi HPA |
-| PMS/PMDD | Wahania estrogenów i progesteronu |
-| Zaburzenia lękowe | Nadaktywna oś HPA, epizody hipoglikemii |
-| Zaburzenia odżywiania | Dysregulacja greliny, leptyny, kortyzolu |
-
-> **Podejście integracyjne:** Zaburzenia psychiczne rzadko mają czysto hormonalne lub czysto psychologiczne podłoże. Hormony i psychologia wzajemnie się kształtują - stres psychologiczny zmienia hormony, a hormony zmieniają percepcję i reagowanie na stres.
+Hormony są częścią sieci regulacyjnej, a nie niezależnymi przyczynami psychicznymi. Rozpoznanie kliniczne wymaga objawów i kontekstu; oznaczenie laboratoryjne ma sens wtedy, gdy odpowiada na określone pytanie medyczne.
 
 ## Bibliografia
 
+- Geniole, S. N., Bird, B. M., Ruddick, E. L., & Carré, J. M. (2020). Effects of testosterone on human aggression: A meta-analysis. *Hormones and Behavior, 123*, Article 104644. [https://doi.org/10.1016/j.yhbeh.2019.104644](https://doi.org/10.1016/j.yhbeh.2019.104644)
 - McEwen, B. S. (2007). Physiology and neurobiology of stress and adaptation: Central role of the brain. *Physiological Reviews, 87*(3), 873–904. [https://doi.org/10.1152/physrev.00041.2006](https://doi.org/10.1152/physrev.00041.2006)
 - Sapolsky, R. M., Romero, L. M., & Munck, A. U. (2000). How do glucocorticoids influence stress responses? *Endocrine Reviews, 21*(1), 55–89. [https://doi.org/10.1210/edrv.21.1.0389](https://doi.org/10.1210/edrv.21.1.0389)
+- Sikich, L., Kolevzon, A., King, B. H., McDougle, C. J., Sanders, K. B., Kim, S.-J., Spanos, M., Chandrasekhar, T., Trelles, M. P., Rockhill, C. M., Palumbo, M. L., Witters Cundiff, A., Makela, E. H., & Veenstra-VanderWeele, J. (2021). Intranasal oxytocin in children and adolescents with autism spectrum disorder. *The New England Journal of Medicine, 385*(16), 1462–1473. [https://doi.org/10.1056/NEJMoa2103583](https://doi.org/10.1056/NEJMoa2103583)
 - Sisk, C. L., & Zehr, J. L. (2005). Pubertal hormones organize the adolescent brain and behavior. *Frontiers in Neuroendocrinology, 26*(3–4), 163–174. [https://doi.org/10.1016/j.yfrne.2005.10.003](https://doi.org/10.1016/j.yfrne.2005.10.003)

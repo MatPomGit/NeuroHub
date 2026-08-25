@@ -1,4 +1,4 @@
-﻿---
+---
 lastReviewed: 2026-08-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31

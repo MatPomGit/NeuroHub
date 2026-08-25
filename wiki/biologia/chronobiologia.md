@@ -1,4 +1,4 @@
-﻿---
+---
 content_type: article
 lastReviewed: 2026-08-25
 reviewCycleMonths: 24

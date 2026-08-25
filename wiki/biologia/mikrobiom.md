@@ -1,86 +1,48 @@
 ---
-lastReviewed: 2026-04-01
+lastReviewed: 2026-08-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 content_type: article
 ---
 
-# Oś jelita–mózg (microbiome–gut–brain axis)
+# Mikrobiota jelitowa i oś jelito–mózg
 
-Brzuch jest dosłownie naszym "drugim mózgiem" - a mikrobiom jelitowy okazuje się jednym z najbardziej zaskakujących odkryć neurobiologii ostatnich dekad.
+**Mikrobiota jelitowa** to zbiorowisko mikroorganizmów zasiedlających przewód pokarmowy, a **mikrobiom** oznacza ich materiał genetyczny i warunki środowiskowe. Oś jelito–mózg obejmuje dwukierunkową komunikację układu nerwowego, odpornościowego, hormonalnego i metabolicznego. Określenie jelit jako „drugiego mózgu” jest metaforą: jelitowy układ nerwowy steruje wieloma funkcjami lokalnie, lecz nie ma funkcji poznawczych mózgu.
 
-## Oś jelita–mózg: podstawy
+## Skala ekosystemu i układu nerwowego
 
-**Oś jelita–mózg (gut-brain axis)** to sieć dwukierunkowej komunikacji między jelitowym układem nerwowym (JUN), centralnym układem nerwowym (CUN) i mikrobiomem jelitowym. Komunikacja odbywa się przez kilka równoległych kanałów:
+Zaktualizowane oszacowanie dla „referencyjnego” dorosłego mężczyzny wynosi około **3,8 × 10¹³ komórek bakteryjnych** w całym organizmie, głównie w okrężnicy, wobec około 3,0 × 10¹³ komórek ludzkich. Niepewność oszacowania jest rzędu 25%, a wartości różnią się między osobami; popularna liczba „100 bilionów bakterii” i proporcja 10:1 nie są aktualnym punktem odniesienia (Sender et al., 2016). Nie należy też podawać jednej masy „mikrobiomu”, ponieważ zależy ona od definicji i zawartości jelita.
 
-1. **Nerw błędny (vagus)** - ok. 80% włókien nerwu błędnego prowadzi informacje z jelit do mózgu (aferentnie), nie odwrotnie. Jelita "mówią" do mózgu, nie tylko słuchają.
-2. **Oś HPA** - stres poprzez [kortyzol](hormony.md#kortyzol---hormon-stresu) wywołuje zmiany w składzie mikrobiomu;
-3. **Układ immunologiczny** - mikrobiom reguluje immunologię, która wpływa na neuroinflamację;
-4. **Endokrynologia jelitowa** - enterochromaffinowe komórki jelit wytwarzają ok. **90% serotoniny organizmu**;
-5. **Krótkołańcuchowe kwasy tłuszczowe (SCFA)** - produkty metabolizmu bakteryjnego wpływają na integralność bariery krew-mózg i neuroinflammację.
+Ludzki jelitowy układ nerwowy zawiera w przybliżeniu **200–600 mln neuronów**. Szeroki przedział odzwierciedla różnice metod i badanych odcinków przewodu pokarmowego, dlatego wartość „500 mln” nie jest dokładną stałą dla każdej osoby (Furness et al., 2014). Około 80% włókien nerwu błędnego ma charakter aferentny, ale liczba ta dotyczy całego nerwu, nie wyłącznie informacji z jelit (Bonaz et al., 2018).
 
-## Jelitowy układ nerwowy (JUN)
+## Drogi komunikacji
 
-**JUN** (enteric nervous system) zawiera ok. 500 milionów neuronów - więcej niż rdzeń kręgowy. Jest zdolny do autonomicznego działania bez centralnej kontroli mózgu (stąd "drugi mózg").
+- **Drogi nerwowe:** aferenty błędne i rdzeniowe przekazują informacje o rozciągnięciu, stanie zapalnym i sygnałach chemicznych; mózg reguluje motorykę i wydzielanie drogami autonomicznymi.
+- **Odporność:** produkty drobnoustrojów wpływają na barierę jelitową i komórki immunologiczne. Związek z procesami w mózgu zależy od dawki, miejsca i stanu gospodarza.
+- **Metabolity:** krótkołańcuchowe kwasy tłuszczowe powstają podczas fermentacji błonnika i działają lokalnie oraz ogólnoustrojowo. Wyników z hodowli komórkowych i gryzoni nie można bezpośrednio przeliczać na efekt psychologiczny u człowieka.
+- **Tryptofan i serotonina:** większość serotoniny obwodowej powstaje w przewodzie pokarmowym, głównie w komórkach enterochromafinowych. Serotonina ta nie przekracza swobodnie bariery krew–mózg, więc liczba „około 90%” nie oznacza, że jelita dostarczają mózgowi 90% serotoniny (Yano et al., 2015).
+- **Oś podwzgórze–przysadka–nadnercza:** stres zmienia fizjologię jelit, a sygnały trzewne mogą modyfikować odpowiedź stresową. Szczegóły regulacji [hormonalnej](hormony.md) opisano osobno.
 
-JUN reguluje perystaltykę, wydzielanie, przepływ krwi przez jelita i interakcje z mikrobiomem. Komunikuje się z CUN przez nerw błędny, rdzeniowe nerwy aferentne i endokrynologię jelitową.
+## Co rzeczywiście wynika z badań?
 
-## Mikrobiom jelitowy
+Modele zwierząt pozbawionych mikrobioty, antybiotykoterapia i transfery mikrobioty wykazują, że drobnoustroje mogą wpływać na rozwój odporności, metabolizm i zachowanie gryzoni. Zwierzęta *germ-free* mają jednak liczne nieprawidłowości rozwojowe i fizjologiczne, a ich środowisko laboratoryjne jest skrajne. Taki eksperyment wskazuje możliwość mechanizmu, nie dowodzi, że określona bakteria wywołuje depresję u człowieka (Cryan et al., 2019).
 
-**Mikrobiom jelitowy** to ekosystem ok. 100 bilionów mikroorganizmów (bakterie, wirusy, grzyby, pierwotniaki) zamieszkujący jelita. Łączna masa: ok. 1–2 kg. Liczba genów mikrobiomu (~3,3 miliona) ok. 150-krotnie przewyższa liczbę genów ludzkiego genomu.
+U ludzi wiele badań ma charakter przekrojowy. Dieta, leki, wiek, geografia, konsystencja stolca i sama choroba mogą zmieniać skład próbki. Nie istnieje jeden „zdrowy profil” ani swoisty profil depresji, autyzmu czy choroby Parkinsona. Termin **dysbioza** powinien opisywać określone zaburzenie funkcji lub składu względem jawnie zdefiniowanej grupy, a nie dowolną różnicę.
 
-Dominujące typy bakterii: *Firmicutes* i *Bacteroidetes* (łącznie ok. 90%); ważne rodzaje: *Lactobacillus*, *Bifidobacterium* (probiotyki), *Faecalibacterium prausnitzii*, *Akkermansia muciniphila*.
+## Interwencje i efekty kliniczne
 
-**Mikrobiom jest wysoce indywidualny** - jak odcisk palca. Kształtowany przez: poród (cesarskie cięcie vs. naturalne - różne inokulacje bakteryjne), karmienie piersią, dietę, antybiotyki, środowisko, styl życia.
+Metaanalizy prób probiotyków w depresji wskazują możliwe zmniejszenie objawów, zwłaszcza jako uzupełnienie leczenia, ale badania są małe i heterogeniczne pod względem szczepu, dawki, czasu oraz ryzyka błędu systematycznego. Nie pozwala to traktować „psychobiotyku” jako zamiennika psychoterapii lub farmakoterapii ani przenosić wyniku jednego szczepu na wszystkie probiotyki (Nikolova et al., 2021).
 
-## Mikrobiom a zdrowie psychiczne - dysbioza i "psychobiotyki"
+W badaniu SMILES 67 osób z depresją przydzielono do wsparcia dietetycznego albo kontroli społecznej na 12 tygodni. Remisję według MADRS uzyskało 32,3% wobec 8,0%, co odpowiadało NNT 4,2 w tej małej próbie (Jacka et al., 2017). Badanie dotyczyło całej interwencji dietetycznej, a nie dowodziło, że efekt pośredniczyła mikrobiota. Wynik wymaga interpretacji wraz z brakiem zaślepienia i szerokimi przedziałami niepewności.
 
-### Dowody z badań na zwierzętach
-
-Najbardziej dramatyczne dowody: szczury i myszy w stanie **germ-free** (bez jakichkolwiek bakterii jelitowych) wykazują zmienione zachowania emocjonalne, stresowe i społeczne. Przeszczep mikrobiomu od zaniepokojonych szczurów do zdrowych przenosi lękowość - i odwrotnie.
-
-### Badania ludzkie
-
-Korelacyjne badania epidemiologiczne wykazują związki między składem mikrobiomu a depresją, lękiem i [autyzmem](../neuroroznorodnosc/spektrum_autyzmu.md). Np. zmniejszona liczebność *Lactobacillus* i *Bifidobacterium* w depresji; dominacja *Akkermansia* w anoreksji.
-
-**Badania interwencyjne z probiotykami ("psychobiotyki"):** Termin "psychobiotyk" ukuł John Cryan (2013) - dla żywych mikroorganizmów przynoszących korzyści dla zdrowia psychicznego. Meta-analizy (2019, 2021): probiotyki zmniejszają nasilenie depresji i lęku w badaniach klinicznych o umiarkowanym efekcie. Nie zastępują farmakoterapii ani [psychoterapii](../psychoterapia/psychoterapia_wprowadzenie.md), lecz stanowią obiecujące uzupełnienie.
-
-> **Ciekawostka:** Badanie Tillisch et al. (UCLA, 2013) wykazało, że kobiety spożywające fermentowane produkty mleczne (jogurt z probiotykami) przez 4 tygodnie wykazywały zmienioną aktywność mózgową w spoczynkowym fMRI - mniejszą reaktywność w obszarach przetwarzania emocji. Pierwszy dowód, że "bakterie w brzuchu zmieniają mózg" u zdrowych ludzi.
-
-## Mechanizmy wpływu mikrobiomu na mózg
-
-**Serotonina:** 90% serotoniny organizmu jest wytwarzane przez komórki enterochromaffinowe jelita, stymulowane przez metabolity bakteryjne (SCFA, spermidyna). Jelitowa serotonina nie przekracza bariery krew-mózg, lecz reguluje motylność jelit i komunikuje się z aferentami nerwu błędnego.
-
-**Krótkołańcuchowe kwasy tłuszczowe (SCFA - maślan, propionian, octan):** Produkty fermentacji błonnika przez bakterie jelitowe. Wpływ na barierę krew-mózg (zwiększają jej integralność), mikroglia (modulacja neuroinflammacji), transkrypcję genów w OUN (inhibitory HDAC).
-
-**Tryptofan i kynurenina:** Mikrobiom reguluje metabolizm tryptofanu - prekursora serotoniny. Dysbiotyczny mikrobiom może przesunąć metabolizm w stronę szlaku kynureninowego (prowadzącego do kynureniny i kwasu chinolinowego, neurotoksycznych), kosztem szlaku serotoninowego.
-
-**Neuroinflammacja:** Dysbiotyczny mikrobiom zwiększa przepuszczalność bariery jelitowej ("leaky gut") - lipopolisacharydy bakteryjne (LPS) przedostają się do krwi i aktywują mikroglię przez Toll-like receptory → przewlekła neuroinflammacja → depresja i neurodegeneracja.
-
-## Oś jelita–mózg a konkretne stany
-
-**Depresja:** Zmniejszona różnorodność mikrobiomu, zmniejszona *Faecalibacterium prausnitzii* (produkty przeciwzapalne), zwiększona *Eggerthella*. Antydepresanty mają też bezpośredni wpływ przeciwbakteryjny - to może być jeden z mechanizmów efektu.
-
-**ASD:** Charakterystyczny skład mikrobiomu (zwiększona *Clostridium*, zmniejszona *Akkermansia*), silna korelacja z nasileniem GI symptoms. Interwencje mikrobiomowe (FMT - fekalna transplantacja mikrobiomu) wykazały w badaniach pilotażowych poprawę objawów GI i pewne zachowania ASD.
-
-**IBS i zaburzenia czynnościowe jelit:** Oś jelita–mózg jest centralnym modelem patofizjologicznym IBS - stres psychiczny nasila IBS, a IBS wywołuje lęk i depresję. Antydepresanty (szczególnie TCA i SSRI) mają udowodnioną skuteczność w IBS przez neurobiologię osi.
-
-**Choroba Parkinsona:** Kontrowersyjna lecz rosnąca hipoteza: alfa-synukleina (białko tworzące ciałka Lewy'ego) może być pierwotnie patologicznie zmieniona w jelitach i transportowana nerwem błędnym do mózgu - hipoteza Braaka "jelitowego początku" PD.
-
-## Dieta a mikrobiom i zdrowie psychiczne
-
-**Dieta śródziemnomorska** (bogata w błonnik, polifenole, fermentowane produkty, uboga w ultra-przetworzone produkty) jest związana z niższym ryzykiem depresji w dużych badaniach epidemiologicznych.
-
-**Badanie SMILES (2017):** Pierwsze RCT żywieniowe w psychiatrii. Interwencja dietetyczna (dieta śródziemnomorska) zmniejszyła objawy depresji istotnie bardziej niż wsparcie społeczne. W badaniu odnotowano NNT = 4,1 dla remisji definiowanej skalą MADRS (Jacka i in., 2017).
-
-**Błonnik prebiotyczny:** Fruktooligosacharydy, inulina, skrobia oporna stymulują wzrost korzystnych bakterii. Badania wykazują zmniejszoną reaktywność na stres i niższy kortyzol poranny przy suplementacji prebiotyków.
-
-## Implikacje kliniczne
-
-Oś jelita–mózg otwiera nowe ścieżki terapeutyczne: probiotyki, prebiotyki, dieta, FMT w psychiatrii. To obszar intensywnych badań, gdzie liczne pytania pozostają otwarte - lecz już teraz wiadomo, że holistyczne podejście do zdrowia psychicznego obejmuje uwagę na florę jelitową, dietę i stan zapalny.
+Przeszczep mikrobioty kałowej ma ustalone wskazania przede wszystkim w nawracającym zakażeniu *Clostridioides difficile*. Zastosowania psychiatryczne i w spektrum autyzmu pozostają eksperymentalne; procedura niesie ryzyko transmisji patogenów. Osoba z objawami psychicznymi lub jelitowymi powinna otrzymać diagnostykę opartą na wskazaniach, nie komercyjny „test dysbiozy” o nieustalonej wartości klinicznej.
 
 ## Bibliografia
 
+- Bonaz, B., Bazin, T., & Pellissier, S. (2018). The vagus nerve at the interface of the microbiota-gut-brain axis. *Frontiers in Neuroscience, 12*, Article 49. [https://doi.org/10.3389/fnins.2018.00049](https://doi.org/10.3389/fnins.2018.00049)
 - Cryan, J. F., O’Riordan, K. J., Cowan, C. S. M., Sandhu, K. V., Bastiaanssen, T. F. S., Boehme, M., Codagnone, M. G., Cussotto, S., Fulling, C., Golubeva, A. V., Guzzetta, K. E., Jaggar, M., Long-Smith, C. M., Lyte, J. M., Martin, J. A., Molinero-Perez, A., Moloney, G., Morelli, E., Morillas, E., O’Connor, R., ... Dinan, T. G. (2019). The microbiota-gut-brain axis. *Physiological Reviews, 99*(4), 1877–2013. [https://doi.org/10.1152/physrev.00018.2018](https://doi.org/10.1152/physrev.00018.2018)
+- Furness, J. B., Callaghan, B. P., Rivera, L. R., & Cho, H.-J. (2014). The enteric nervous system and gastrointestinal innervation: Integrated local and central control. *Advances in Experimental Medicine and Biology, 817*, 39–71. [https://doi.org/10.1007/978-1-4939-0897-4_3](https://doi.org/10.1007/978-1-4939-0897-4_3)
 - Jacka, F. N., O’Neil, A., Opie, R., Itsiopoulos, C., Cotton, S., Mohebbi, M., Castle, D., Dash, S., Mihalopoulos, C., Chatterton, M. L., Brazionis, L., Dean, O. M., Hodge, A. M., & Berk, M. (2017). A randomised controlled trial of dietary improvement for adults with major depression (the ‘SMILES’ trial). *BMC Medicine, 15*, Article 23. [https://doi.org/10.1186/s12916-017-0791-y](https://doi.org/10.1186/s12916-017-0791-y)
 - Nikolova, V. L., Cleare, A. J., Young, A. H., & Stone, J. M. (2021). Updated review and meta-analysis of probiotics for the treatment of clinical depression. *Journal of Personalized Medicine, 11*(5), Article 330. [https://doi.org/10.3390/jpm11050330](https://doi.org/10.3390/jpm11050330)
+- Sender, R., Fuchs, S., & Milo, R. (2016). Revised estimates for the number of human and bacteria cells in the body. *PLOS Biology, 14*(8), e1002533. [https://doi.org/10.1371/journal.pbio.1002533](https://doi.org/10.1371/journal.pbio.1002533)
+- Yano, J. M., Yu, K., Donaldson, G. P., Shastri, G. G., Ann, P., Ma, L., Nagler, C. R., Ismagilov, R. F., Mazmanian, S. K., & Hsiao, E. Y. (2015). Indigenous bacteria from the gut microbiota regulate host serotonin biosynthesis. *Cell, 161*(2), 264–276. [https://doi.org/10.1016/j.cell.2015.02.047](https://doi.org/10.1016/j.cell.2015.02.047)

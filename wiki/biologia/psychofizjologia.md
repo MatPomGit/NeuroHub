@@ -1,111 +1,56 @@
-﻿---
+---
 title: Psychofizjologia
 content_type: article
-lastReviewed: 2026-08-025
+lastReviewed: 2026-08-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
 
 # Psychofizjologia
 
-Psychofizjologia bada relacje między procesami psychologicznymi (myślami, emocjami, zachowaniami) a mierzonymi wskaźnikami fizjologicznymi. Pozwala "zajrzeć" do ciała podczas doświadczeń psychicznych, dostarczając obiektywnych danych uzupełniających subiektywne raporty.
+**Psychofizjologia** bada zależności między procesami psychicznymi a rejestrowanymi sygnałami fizjologicznymi. Sygnał nie jest bezpośrednim odczytem emocji lub myśli. Wnioskowanie wymaga modelu źródła, jakości pomiaru, porównania warunków i kontroli alternatywnych wyjaśnień.
 
 ## Autonomiczny układ nerwowy
 
-**Autonomiczny układ nerwowy (AUN)** reguluje funkcje narządów wewnętrznych niezależnie od woli. Składa się z:
+Część współczulna i przywspółczulna autonomicznego układu nerwowego regulują narządy równolegle; nie są prostymi przełącznikami „walcz albo uciekaj” oraz „odpoczywaj”. Reakcja serca, gruczołów potowych i naczyń może mieć odmienny przebieg. Dlatego pobudzenie nie ma jednej uniwersalnej miary.
 
-**Układu współczulnego (SNS):** Aktywowany przez zagrożenie lub wysiłek ("walka lub ucieczka"). Przyspiesza tętno, podnosi ciśnienie, rozszerza źrenice, zwiększa pocenie, hamuje trawienie. Neurochemicznie: adrenalina i noradrenalina.
+Teoria poliwagalna zainspirowała badania regulacji społecznej, ale jej twierdzenia o hierarchicznych obwodach i ewolucji nerwu błędnego są przedmiotem sporu. Nie jest samodzielnym narzędziem diagnozy PTSD ani dysocjacji. Bezpieczniej oddzielać dobrze ustalone pomiary autonomiczne od klinicznych interpretacji teorii.
 
-**Układu przywspółczulnego (PNS):** Dominuje w spoczynku ("odpoczynek i trawienie"). Zwalnia tętno, sprzyja trawieniu, regeneracji. Neurochemicznie: acetylocholina.
+## EEG i potencjały związane ze zdarzeniem
 
-> **Model polyvagal (Porges):** Ludzki AUN ma trzy hierarchiczne stopnie: układ społeczno-angażujący (nerw błędny, kontakt społeczny), układ współczulny (mobilizacja) i układ zamrożenia (immobilizacja). PTSD i dysocjacja mogą być wyjaśniane przez "zamknięcie się" w niższych stopniach.
+Elektroencefalografia (EEG) rejestruje różnice potencjałów na skórze głowy, powstające głównie wskutek zsynchronizowanych prądów postsynaptycznych populacji neuronów korowych. Ma rozdzielczość czasową rzędu milisekund, lecz lokalizacja źródła jest problemem odwrotnym i wymaga założeń.
 
-## Elektroencefalografia (EEG)
+Nazwy pasm, takich jak delta, theta, alfa, beta i gamma, opisują zakresy częstotliwości, których granice różnią się między laboratoriami. Nie odpowiadają one jednoznacznie stanom typu „kreatywność” czy „intensywne myślenie”. Moc zależy od miejsca, zadania, wieku, artefaktów i sposobu wyznaczenia indywidualnego pasma.
 
-**EEG** rejestruje sumaryczną aktywność elektryczną mózgu za pomocą elektrod na skórze głowy. Odzwierciedla synchronizowane postsynaptyczne potencjały w dużych populacjach neuronów korowych.
+Potencjały związane ze zdarzeniem (ERP) otrzymuje się przez czasowe odniesienie EEG do bodźca lub reakcji i zwykle uśrednianie prób. P3 wiąże się z przetwarzaniem istotności i aktualizacją kontekstu, N400 z dostępem do znaczenia w kontekście, a mismatch negativity z wykrywaniem regularności słuchowych. Etykiety komponentów nie są nazwami pojedynczych procesów, a ich latencja nie zawsze wynosi dokładnie 300 lub 400 ms (Luck, 2014).
 
-### Pasma częstotliwości
+## Aktywność elektrodermalna
 
-| Pasmo | Hz | Stan |
-|---|---|---|
-| Delta (δ) | 0.5–4 | Głęboki sen, śpiączka |
-| Theta (θ) | 4–8 | Senność, medytacja, kreatywność |
-| Alfa (α) | 8–13 | Relaks z zamkniętymi oczami |
-| Beta (β) | 13–30 | Aktywna koncentracja, myślenie analityczne |
-| Gamma (γ) | >30 | Intensywne przetwarzanie, integracja informacji |
+Aktywność elektrodermalna (EDA) odzwierciedla zmianę przewodnictwa skóry zależną przede wszystkim od współczulnej aktywacji gruczołów potowych. Rozróżnia się wolnozmienny poziom toniczny i reakcje fazowe. Temperatura, ruch, umiejscowienie elektrod, leki oraz indywidualna potliwość wpływają na wynik.
 
-### Potencjały wywołane (ERP)
+EDA wskazuje pobudzenie, lecz nie określa jego znaku ani przyczyny. Nie odróżnia wiarygodnie lęku od ekscytacji i nie jest wykrywaczem kłamstwa. Wariograf rejestruje nieswoiste reakcje na pytania, a jego trafność zależy od procedury i badanego kontekstu.
 
-**ERP** to uśrednione odpowiedzi EEG na powtarzane bodźce. Pozwalają mierzyć czas trwania poszczególnych etapów przetwarzania informacji z milisekundową rozdzielczością.
+## Serce i zmienność rytmu serca
 
-Kluczowe komponenty:
+Zmienność rytmu serca (HRV) opisuje zmiany odstępów między kolejnymi pobudzeniami zatokowymi. Nie jest jedną wielkością: wskaźniki czasowe, częstotliwościowe i nieliniowe mają odmienne właściwości. Krótkookresowa RMSSD i moc w paśmie wysokich częstotliwości są w odpowiednich warunkach używane jako wskaźniki modulacji przywspółczulnej, ale całkowita HRV nie oznacza po prostu „napięcia nerwu błędnego” (Berntson et al., 1997).
 
-- **P300** - pozytywna fala ~300 ms po rzadkim, istotnym bodźcu; marker uwagi i aktualizacji pamięci roboczej
-- **N400** - negatywna fala ~400 ms po semantycznie niespójnym słowie; marker przetwarzania semantycznego
-- **MMN (Mismatch Negativity)** - odpowiedź na odchylenie od standardowego bodźca; nie wymaga uwagi; marker automatycznego przetwarzania słuchowego
+Wynik zależy od oddechu, pozycji, pory dnia, wieku, aktywności, leków i długości zapisu. Wyższa wartość nie jest zawsze lepsza, na przykład arytmia może sztucznie ją zwiększać. Oddychanie około sześciu razy na minutę może nasilać oscylacje przez rezonans układu krążenia; wzrost podczas ćwiczenia nie dowodzi trwałej poprawy zdrowia psychicznego.
 
-## Odpowiedź skórno-galwaniczna (EDA/GSR)
+## EMG, oddech i odruch zaskoczenia
 
-**Elektrodermalana aktywność (EDA)** mierzy przewodnictwo elektryczne skóry, które rośnie wraz z poceniem się. Jest wskaźnikiem aktywacji układu współczulnego i ogólnego pobudzenia emocjonalnego.
+Elektromiografia powierzchniowa (EMG) rejestruje sumaryczną aktywność jednostek ruchowych. EMG mięśnia jarzmowego większego i marszczącego brwi może różnicować reakcje afektywne na poziomie grupy, ale nie odczytuje ukrytej emocji u osoby. EMG mięśnia okrężnego oka służy między innymi do pomiaru odruchu zaskoczenia. Ruch, ułożenie elektrod i przenikanie sygnału z sąsiednich mięśni są ważnymi artefaktami.
 
-Zastosowania:
+Rejestracja oddechu jest potrzebna nie tylko jako osobny wynik, lecz także do interpretacji HRV i EDA. Psychofizjologia często zyskuje na jednoczesnym pomiarze kilku układów, pod warunkiem że analizy określono z wyprzedzeniem i kontroluje się wielokrotne testowanie.
 
-- Badanie reakcji lękowych (ekspozycja na bodźce fobiczne)
-- Wykrywanie kłamstw (wariograf - kontrowersyjne)
-- Badanie warunkowania lękowego
-- Biofeedback w terapii zaburzeń lękowych
+## Zastosowania kliniczne i biofeedback
 
-> **Ograniczenie:** EDA jest miarą ogólnego pobudzenia, nie specyficznych emocji. Nie można odróżnić strachu od podniecenia seksualnego ani radości od gniewu na podstawie samej EDA.
+Polisomnografia łączy EEG, elektrookulografię, EMG i sygnały oddechowo-krążeniowe; stadia i fizjologię snu omawia [chronobiologia](chronobiologia.md). Biofeedback prezentuje osobie sygnał, aby ułatwić uczenie jego regulacji. Skuteczność zależy od wskazania, protokołu i punktu odniesienia. Nie należy uogólniać dowodów dla jednego rodzaju treningu na dowolny „neurofeedback”.
 
-## Zmienność rytmu serca (HRV)
-
-**HRV** (Heart Rate Variability) mierzy zmienność odstępów między kolejnymi uderzeniami serca. Zdrowe serce nie bije w metronomiowym rytmie - elastycznie reaguje na oddech i wymagania ciała.
-
-Wysoka HRV oznacza dominację przywspółczulną (vagal tone) i jest związana z:
-
-- Zdolnością do regulacji emocji
-- Elastycznością poznawczą
-- Mniejszym ryzykiem chorób sercowo-naczyniowych
-- Lepszym zdrowiem psychicznym
-
-**Niski HRV** koreluje z zaburzeniami lękowymi, depresją, PTSD i chorobami sercowo-naczyniowymi.
-
-Ćwiczenia fizyczne, medytacja, biofeedback HRV i oddychanie kohezyjne (ok. 6 oddechów/minutę) podnoszą HRV.
-
-## Odpowiedzi mięśniowe - EMG
-
-**Elektromiografia (EMG)** mierzy aktywność elektryczną mięśni. W psychofizjologii najczęściej stosowana do pomiaru:
-
-**Wyrazów twarzy:** Elektrody umieszczone na mięśniach twarzy (m. corrugator supercilii - zmarszczenie brwi, m. zygomaticus major - uśmiech) pozwalają mierzyć mikroekspresje nierejestrowane przez kamery. Badania Cacioppo i Petty wykazały, że czytanie tekstu niezgodnego z postawami aktywuje corrugator, nawet przy braku widocznych emocji.
-
-**Napięcie mięśniowe:** Przewlekłe napięcie mięśni karku i ramion jest biomarkerem stresu chronicznego.
-
-## Biologiczne sprzężenie zwrotne (biofeedback)
-
-**Biofeedback** to technika, w której pacjent uczy się kontrolować sygnały fizjologiczne (EDA, HRV, EEG, napięcie mięśni) w czasie rzeczywistym, obserwując je na ekranie.
-
-**Neurofeedback (EEG biofeedback):** Pacjent modyfikuje własne pasma mózgowe. Stosowany w: ADHD (trening beta i SMR), lęku (trening alfa), epilepsji.
-
-**HRV biofeedback:** Nauka oddychania kohezyjnego synchronizującego oscylacje sercowe i oddechowe. Skuteczny w zaburzeniach lękowych, depresji, bólu przewlekłym.
-
-## Psychofizjologia emocji
-
-Emocje mają charakterystyczne profile fizjologiczne, choć nakładają się i nie pozwalają na jednoznaczną identyfikację:
-
-- **Strach:** Przyspieszenie tętna, wzrost EDA, rozszerzenie źrenic, zwężenie naczyń obwodowych
-- **Gniew:** Przyspieszenie tętna, wzrost ciśnienia krwi
-- **Wstręt:** Obniżenie tętna, wzrost EDA, aktywacja corrugator
-- **Smutek:** Spowolnienie tętna, płacz, aktywacja corrugator
-
-> **Teoria Jamesa-Langego:** Emocje to świadomość zmian fizjologicznych ("biegnę, bo się boję - boję się, bo biegnę"). Nowoczesne badania pokazują, że ciało i umysł kształtują emocje nawzajem - w modelu predykcyjnym mózg interpretuje sygnały ciała przez pryzmat kontekstu i przewidywań.
-
-## Zastosowania kliniczne
-
-Psychofizjologia dostarcza biomarkerów pomocnych w diagnozie i ocenie terapii:
-
-- Ocena reaktywności w PTSD (odpowiedź na bodźce traumatyczne)
-- Monitorowanie poziomu stresu w badaniach pracowniczych
-- Ocena skuteczności terapii ekspozycyjnych (desensytyzacja widoczna w EDA)
-- Diagnostyka zaburzeń snu (polisomnografia = EEG + EMG + EOG + EKG + SpO2)
+Miary psychofizjologiczne mogą wspierać badanie mechanizmu lub monitorowanie reakcji, ale rzadko są wystarczająco swoiste do samodzielnego rozpoznania zaburzenia. Wiarygodny raport powinien podawać aparaturę, częstotliwość próbkowania, filtrację, odrzucanie artefaktów, przedział analizy i wszystkie badane wyniki.
 
 ## Bibliografia
+
+- Berntson, G. G., Bigger, J. T., Jr., Eckberg, D. L., Grossman, P., Kaufmann, P. G., Malik, M., Nagaraja, H. N., Porges, S. W., Saul, J. P., Stone, P. H., & van der Molen, M. W. (1997). Heart rate variability: Origins, methods, and interpretive caveats. *Psychophysiology, 34*(6), 623–648. [https://doi.org/10.1111/j.1469-8986.1997.tb02140.x](https://doi.org/10.1111/j.1469-8986.1997.tb02140.x)
+- Cacioppo, J. T., Tassinary, L. G., & Berntson, G. G. (Eds.). (2007). *Handbook of psychophysiology* (3rd ed.). Cambridge University Press. [https://doi.org/10.1017/CBO9780511546396](https://doi.org/10.1017/CBO9780511546396)
+- Luck, S. J. (2014). *An introduction to the event-related potential technique* (2nd ed.). MIT Press.
+- Quintana, D. S., Alvares, G. A., & Heathers, J. A. J. (2016). Guidelines for reporting articles on psychiatry and heart rate variability. *Translational Psychiatry, 6*(5), e803. [https://doi.org/10.1038/tp.2016.73](https://doi.org/10.1038/tp.2016.73)

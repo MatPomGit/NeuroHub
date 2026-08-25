@@ -1,0 +1,72 @@
+/* Kanoniczna typografia PsyHub.
+   Wielkości tekstu i wysokości wierszy dla SPA oraz stron Jekyll są utrzymywane tutaj. */
+
+:root{
+  --type-xs:.58rem;
+  --type-sm:.68rem;
+  --type-ui:.76rem;
+  --type-body:clamp(.96rem,1vw,1.04rem);
+  --type-lead:clamp(1rem,1.4vw,1.15rem);
+  --type-h3:1.2rem;
+  --type-h2:clamp(1.4rem,2.2vw,1.85rem);
+  --type-title:clamp(1.65rem,3.4vw,2.6rem);
+  --type-hero:clamp(2.25rem,5vw,4.5rem);
+  --leading-tight:1.18;
+  --leading-heading:1.28;
+  --leading-ui:1.3;
+  --leading-body:1.72;
+}
+
+body{line-height:var(--leading-body)}
+
+.psyhub-app .s-logo-name{font-size:1rem;line-height:var(--leading-tight)}
+.psyhub-app .s-logo-sub,
+.psyhub-app .sidebar-topic-label,
+.psyhub-app .ng-label,
+.psyhub-app .section-kicker,
+.psyhub-app .chapter-lbl,
+.psyhub-app .review-meta-badge,
+.psyhub-app .article-toc-title,
+.psyhub-app .interface-setting-title{font-size:var(--type-xs);line-height:var(--leading-ui)}
+.psyhub-app .s-search input,
+.psyhub-app .s-filter-btn,
+.psyhub-app .nav-item,
+.psyhub-app .s-search-snippet,
+.psyhub-app .breadcrumb,
+.psyhub-app .next-step-title,
+.psyhub-app .article-toc-link,
+.psyhub-app .interface-settings{font-size:var(--type-sm);line-height:var(--leading-ui)}
+.psyhub-app .nav-item.is-wiki,
+.psyhub-app .font-btn{font-size:var(--type-ui);line-height:var(--leading-ui)}
+.psyhub-app .home-hero h1{font-size:var(--type-hero);line-height:1.02}
+.psyhub-app .home-hero>p{font-size:var(--type-lead);line-height:1.65}
+.psyhub-app .home-block-head h2,
+.psyhub-app .domains-h2{font-size:var(--type-h2);line-height:var(--leading-heading)}
+.psyhub-app .start-card-title{font-size:.88rem;line-height:var(--leading-tight)}
+.psyhub-app .start-card-goal{font-size:var(--type-sm);line-height:var(--leading-ui)}
+.psyhub-app .site-toc-group summary{font-size:var(--type-ui);line-height:var(--leading-ui)}
+.psyhub-app .page-hero h1,
+.psyhub-app .wiki-hdr h1{font-size:var(--type-title);line-height:var(--leading-tight)}
+.psyhub-app .md{font-size:var(--type-body);line-height:var(--leading-body)}
+.psyhub-app .md>h2{font-size:var(--type-h2);line-height:var(--leading-heading)}
+.psyhub-app .md>h3{font-size:var(--type-h3);line-height:var(--leading-heading)}
+.psyhub-app .md code{font-size:.85em;line-height:1.5}
+.psyhub-app .md table{font-size:.88rem;line-height:1.5}
+
+.wiki-topbar{font-size:var(--type-ui);line-height:var(--leading-ui)}
+.wiki-brand{font-size:1rem;line-height:var(--leading-tight)}
+.wiki-nav a,
+.wiki-context,
+.wiki-source{font-size:var(--type-sm);line-height:var(--leading-ui)}
+.wiki-article{font-size:var(--type-body);line-height:var(--leading-body)}
+.wiki-article>h1:first-child{font-size:var(--type-title);line-height:1.06}
+.wiki-article h2{font-size:var(--type-h2);line-height:var(--leading-heading)}
+.wiki-article h3{font-size:var(--type-h3);line-height:var(--leading-heading)}
+.wiki-article code{font-size:.85em;line-height:1.5}
+
+@media (max-width:560px){
+  :root{
+    --type-title:1.55rem;
+    --type-hero:2.2rem;
+  }
+}

@@ -106,3 +106,9 @@ Leczenie otępień obejmuje komponent farmakologiczny (inhibitory AChE, memantyn
 **Opieka nad opiekunami** jest integralną częścią leczenia otępień. Opiekunowie doświadczają wysokiego obciążenia (caregiver burden) - interwencje psychoedukacyjne, grupy wsparcia i przerwy w opiece (respite care) redukują wypalenie i poprawiają jakość opieki.
 
 **Powiązane zagadnienia:** choroba Alzheimera · MCI · biomarkery · białko tau · β-amyloid · ciałka Lewy'ego · FTD · otępienie naczyniopochodne · MMSE · MoCA
+
+## Bibliografia
+
+- Livingston, G., Huntley, J., Sommerlad, A., Ames, D., Ballard, C., Banerjee, S., Brayne, C., Burns, A., Cohen-Mansfield, J., Cooper, C., Costafreda, S. G., Dias, A., Fox, N., Gitlin, L. N., Howard, R., Kales, H. C., Kivimäki, M., Larson, E. B., Ogunniyi, A., ... Mukadam, N. (2020). Dementia prevention, intervention, and care: 2020 report of the Lancet Commission. *The Lancet, 396*(10248), 413–446. [https://doi.org/10.1016/S0140-6736(20)30367-6](https://doi.org/10.1016/S0140-6736(20)30367-6)
+- McKhann, G. M., Knopman, D. S., Chertkow, H., Hyman, B. T., Jack, C. R., Jr., Kawas, C. H., Klunk, W. E., Koroshetz, W. J., Manly, J. J., Mayeux, R., Mohs, R. C., Morris, J. C., Rossor, M. N., Scheltens, P., Carrillo, M. C., Thies, B., Weintraub, S., & Phelps, C. H. (2011). The diagnosis of dementia due to Alzheimer’s disease. *Alzheimer’s & Dementia, 7*(3), 263–269. [https://doi.org/10.1016/j.jalz.2011.03.005](https://doi.org/10.1016/j.jalz.2011.03.005)
+- World Health Organization. (2019). *Risk reduction of cognitive decline and dementia: WHO guidelines*. https://www.who.int/publications/i/item/9789241550543

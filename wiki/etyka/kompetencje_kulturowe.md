@@ -127,11 +127,12 @@ APA opublikowało w 2017 roku zaktualizowane **Multicultural Guidelines: An Ecol
 
 Kimberlé Crenshaw (1989) wprowadziła pojęcie **intersekscjonalności** - tożsamość jest wielowymiarowa, a opresja działa na przecięciach ras, płci, klasy, seksualności. Kobieta czarna doświadcza świata inaczej niż kobieta biała i inaczej niż czarny mężczyzna - nie jako suma, lecz unikalną konfigurację.
 
----## Bibliografia
 
-1. Sue, D. W., Arredondo, P., & McDavis, R. J. (1992). Multicultural counseling competencies and standards. *Journal of Counseling and Development, 70*(4), 477–486.
-2. Sue, D. W., Capodilupo, C. M., Torino, G. C., Bucceri, J. M., Holder, A. M. B., Nadal, K. L., & Esquilin, M. (2007). Racial microaggressions in everyday life. *American Psychologist, 62*(4), 271–286.
-3. Meyer, I. H. (2003). Prejudice, social stress, and mental health in lesbian, gay, and bisexual populations. *Psychological Bulletin, 129*(5), 674–697.
-4. APA (2017). *Multicultural Guidelines: An Ecological Approach to Context, Identity, and Intersectionality*. APA.
-5. Crenshaw, K. (1989). Demarginalizing the intersection of race and sex. *University of Chicago Legal Forum, 1989*(1), 139–167.
-6. Hook, J. N., Davis, D. E., Owen, J., Worthington, E. L., & Utsey, S. O. (2013). Cultural humility: Measuring openness to culturally diverse clients. *Journal of Counseling Psychology, 60*(3), 353–366.
+## Bibliografia
+
+- Sue, D. W., Arredondo, P., & McDavis, R. J. (1992). Multicultural counseling competencies and standards. *Journal of Counseling and Development, 70*(4), 477–486. [https://doi.org/10.1002/j.1556-6676.1992.tb01642.x](https://doi.org/10.1002/j.1556-6676.1992.tb01642.x)
+- Sue, D. W., Capodilupo, C. M., Torino, G. C., Bucceri, J. M., Holder, A. M. B., Nadal, K. L., & Esquilin, M. (2007). Racial microaggressions in everyday life. *American Psychologist, 62*(4), 271–286. [https://doi.org/10.1037/0003-066X.62.4.271](https://doi.org/10.1037/0003-066X.62.4.271)
+- Meyer, I. H. (2003). Prejudice, social stress, and mental health in lesbian, gay, and bisexual populations. *Psychological Bulletin, 129*(5), 674–697. [https://doi.org/10.1037/0033-2909.129.5.674](https://doi.org/10.1037/0033-2909.129.5.674)
+- American Psychological Association. (2017). *Multicultural Guidelines: An Ecological Approach to Context, Identity, and Intersectionality*. APA.
+- Crenshaw, K. (1989). Demarginalizing the intersection of race and sex. *University of Chicago Legal Forum, 1989*(1), 139–167.
+- Hook, J. N., Davis, D. E., Owen, J., Worthington, E. L., & Utsey, S. O. (2013). Cultural humility: Measuring openness to culturally diverse clients. *Journal of Counseling Psychology, 60*(3), 353–366. [https://doi.org/10.1037/a0032595](https://doi.org/10.1037/a0032595)

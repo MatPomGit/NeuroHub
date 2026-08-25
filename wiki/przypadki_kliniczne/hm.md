@@ -27,6 +27,12 @@ Brenda Milner i Suzanne Corkin badały H.M. przez ponad 50 lat. Ich odkrycia obe
 
 Przypadek H.M. dostarczył kluczowych dowodów na odrębność systemów pamięci (deklaratywna vs. nie-deklaratywna), rolę hipokampa w konsolidacji nowych wspomnień - nie w ich długotrwałym przechowywaniu - oraz na konsolidację systemową, dzięki której wspomnienia z czasem stają się niezależne od hipokampa.
 
-H.M. był najsłynniejszym pacjentem w historii neuropsychologii. Po jego śmierci w 2008 roku mózg został poddany szczegółowej analizie - trwała ona 53 godziny i była transmitowana na żywo w internecie.
+H.M. był najsłynniejszym pacjentem w historii neuropsychologii. Po jego śmierci w 2008 roku mózg został poddany szczegółowej analizie - obejmowała ciągłą, trwającą około 53 godzin procedurę histologiczną (Annese i in., 2014).
 
 **Powiązane zagadnienia:** amnezja anterogradna · hipokamp · pamięć deklaratywna · pamięć proceduralna
+
+## Bibliografia
+
+- Annese, J., Schenker-Ahmed, N. M., Bartsch, H., Maechler, P., Sheh, C., Thomas, N., Kayano, J., Ghatan, A., Bresler, N., Frosch, M. P., Klaming, R., & Corkin, S. (2014). Postmortem examination of patient H.M.’s brain based on histological sectioning and digital 3D reconstruction. *Nature Communications, 5*, Article 3122. [https://doi.org/10.1038/ncomms4122](https://doi.org/10.1038/ncomms4122)
+- Corkin, S. (2002). What’s new with the amnesic patient H.M.? *Nature Reviews Neuroscience, 3*, 153–160. [https://doi.org/10.1038/nrn726](https://doi.org/10.1038/nrn726)
+- Scoville, W. B., & Milner, B. (1957). Loss of recent memory after bilateral hippocampal lesions. *Journal of Neurology, Neurosurgery & Psychiatry, 20*(1), 11–21. [https://doi.org/10.1136/jnnp.20.1.11](https://doi.org/10.1136/jnnp.20.1.11)

@@ -53,7 +53,9 @@ Nieoczywiste, lecz praktyczne ujęcie mówi, że pierwszą przewagą psychologa 
 - `students/psycholog_w_it` - role i kompetencje psychologa w technologii.
 - `students/sciezki_kariery` - ścieżki rozwoju zawodowego.
 
-1. Lazar, J., Feng, J. H., & Hochheiser, H. (2017). *Research Methods in Human-Computer Interaction* (2nd ed.). Morgan Kaufmann.
-2. Nielsen, J. (1994). *Usability Engineering*. Morgan Kaufmann.
-3. Forsgren, N., Humble, J., & Kim, G. (2018). *Accelerate*. IT Revolution.
-4. Shneiderman, B. (2022). *Human-Centered AI*. Oxford University Press.
+## Bibliografia
+
+- Lazar, J., Feng, J. H., & Hochheiser, H. (2017). *Research Methods in Human-Computer Interaction* (2nd ed.). Morgan Kaufmann.
+- Nielsen, J. (1994). *Usability Engineering*. Morgan Kaufmann.
+- Forsgren, N., Humble, J., & Kim, G. (2018). *Accelerate*. IT Revolution.
+- Shneiderman, B. (2022). *Human-Centered AI*. Oxford University Press.

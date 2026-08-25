@@ -32,3 +32,9 @@ António Damasio i Hannah Damasio przeprowadzili rekonstrukcję trajektorii prę
 Czaszka i pręt Gage'a są do dziś eksponowane w Warren Anatomical Museum przy Harvard Medical School.
 
 **Powiązane zagadnienia:** płat czołowy · OFC · podejmowanie decyzji · osobowość
+
+## Bibliografia
+
+- Damasio, H., Grabowski, T., Frank, R., Galaburda, A. M., & Damasio, A. R. (1994). The return of Phineas Gage: Clues about the brain from the skull of a famous patient. *Science, 264*(5162), 1102–1105. [https://doi.org/10.1126/science.8178168](https://doi.org/10.1126/science.8178168)
+- Harlow, J. M. (1868). Recovery from the passage of an iron bar through the head. *Publications of the Massachusetts Medical Society, 2*, 327–347.
+- Ratiu, P., Talos, I.-F., Haker, S., Lieberman, D., & Everett, P. (2004). The tale of Phineas Gage, digitally remastered. *Journal of Neurotrauma, 21*(5), 637–643. [https://doi.org/10.1089/089771504774129964](https://doi.org/10.1089/089771504774129964)

@@ -83,3 +83,9 @@ Testy: Boston Naming Test, Test Rozpoznawania Twarzy (Benton), VOSP (Visual Obje
 ## Znaczenie dla teorii percepcji
 
 Agnozje wzrokowe są "naturalnym eksperymentem" testującym teorie percepcji i reprezentacji wiedzy. Pokazują, że widzenie to nie naiwne rejestrowanie - to aktywna, wieloetapowa rekonstrukcja, w której percepcja i wiedza semantyczna są odrębnymi procesami, które mogą ulec selektywnym uszkodzeniom.
+
+## Bibliografia
+
+- Kolb, B., & Whishaw, I. Q. (2021). *Fundamentals of human neuropsychology* (8th ed.). Worth Publishers.
+- Lezak, M. D., Howieson, D. B., Bigler, E. D., & Tranel, D. (2012). *Neuropsychological assessment* (5th ed.). Oxford University Press.
+- Vallar, G. (2007). Spatial neglect, Balint-Homes’ and Gerstmann’s syndrome, and other spatial disorders. *CNS Spectrums, 12*(7), 527–536. [https://doi.org/10.1017/S1092852900021271](https://doi.org/10.1017/S1092852900021271)

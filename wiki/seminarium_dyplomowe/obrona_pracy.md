@@ -119,3 +119,9 @@ Obrona jest stresującym wydarzeniem - ale mieści się w normie. Kilka strategi
 - Zapisz surowe dane i materiały badawcze - będą potrzebne, jeśli kiedykolwiek wrócisz do tematu lub będziesz chciał/chciała opublikować wyniki
 
 Obrona pracy magisterskiej to finałowy etap długiego procesu naukowego. Dobrze przygotowany dyplomant, który rozumie swoją pracę, zna jej ograniczenia i potrafi ją zdefendować przed komisją, wychodzi z sali nie tylko z dyplomem - ale też z poczuciem kompetencji badawczej.
+
+## Bibliografia
+
+- American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th ed.).
+- Appelbaum, M., Cooper, H., Kline, R. B., Mayo-Wilson, E., Nezu, A. M., & Rao, S. M. (2018). Journal article reporting standards for quantitative research in psychology. *American Psychologist, 73*(1), 3–25. [https://doi.org/10.1037/amp0000191](https://doi.org/10.1037/amp0000191)
+- Shadish, W. R., Cook, T. D., & Campbell, D. T. (2002). *Experimental and quasi-experimental designs for generalized causal inference*. Houghton Mifflin.

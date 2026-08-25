@@ -58,3 +58,9 @@ Ketamina - antagonista receptorów NMDA - jest środkiem anestezjologicznym i w 
 ## Farmakologia uzależnień
 
 Uzależnienie jest zaburzeniem układu nagrody, związanym ze szlakiem mezolimbicznym (VTA → nucleus accumbens). Każda substancja psychoaktywna - bezpośrednio lub pośrednio - powoduje **uwalnianie dopaminy** w tym szlaku. Chroniczne stosowanie prowadzi do *neuroadaptacji* - zmian liczby i czułości receptorów - powodując tolerancję i objawy abstynencyjne przy odstawieniu.
+
+## Bibliografia
+
+- Brunton, L. L., Knollmann, B. C., & Hilal-Dandan, R. (Eds.). (2023). *Goodman & Gilman’s the pharmacological basis of therapeutics* (14th ed.). McGraw Hill.
+- Nestler, E. J., Hyman, S. E., Holtzman, D. M., & Malenka, R. C. (2020). *Molecular neuropharmacology: A foundation for clinical neuroscience* (4th ed.). McGraw Hill.
+- Sweeney, M. D., Zhao, Z., Montagne, A., Nelson, A. R., & Zlokovic, B. V. (2019). Blood-brain barrier: From physiology to disease and back. *Physiological Reviews, 99*(1), 21–78. [https://doi.org/10.1152/physrev.00050.2017](https://doi.org/10.1152/physrev.00050.2017)

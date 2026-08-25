@@ -83,3 +83,9 @@ Badania edukacyjne (m.in. Riding i Rayner, 1998) sugerują, że efektywne naucza
 ## Style poznawcze w psychoterapii
 
 Styl poznawczy klienta wpływa na jego reakcje na różne interwencje terapeutyczne. Np.: osoby o silnym stylu analitycznym mogą potrzebować więcej psychoedukacji i struktury (jak w CBT); osoby holistyczne i intuicyjne mogą lepiej reagować na narracyjne, metaforyczne podejście. Znajomość stylu poznawczego pacjenta może pomóc terapeucie dostosować interwencje.
+
+## Bibliografia
+
+- John, O. P., Naumann, L. P., & Soto, C. J. (2008). Paradigm shift to the integrative Big Five trait taxonomy. In O. P. John, R. W. Robins, & L. A. Pervin (Eds.), *Handbook of personality: Theory and research* (3rd ed., pp. 114–158). Guilford Press.
+- McCrae, R. R., & Costa, P. T., Jr. (2008). The five-factor theory of personality. In O. P. John, R. W. Robins, & L. A. Pervin (Eds.), *Handbook of personality: Theory and research* (3rd ed., pp. 159–181). Guilford Press.
+- Roberts, B. W., Walton, K. E., & Viechtbauer, W. (2006). Patterns of mean-level change in personality traits across the life course. *Psychological Bulletin, 132*(1), 1–25. [https://doi.org/10.1037/0033-2909.132.1.1](https://doi.org/10.1037/0033-2909.132.1.1)

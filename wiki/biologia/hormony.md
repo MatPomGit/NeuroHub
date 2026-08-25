@@ -94,3 +94,9 @@ Badanie TSH jest standardem w diagnostyce różnicowej zaburzeń nastroju.
 | Zaburzenia odżywiania | Dysregulacja greliny, leptyny, kortyzolu |
 
 > **Podejście integracyjne:** Zaburzenia psychiczne rzadko mają czysto hormonalne lub czysto psychologiczne podłoże. Hormony i psychologia wzajemnie się kształtują - stres psychologiczny zmienia hormony, a hormony zmieniają percepcję i reagowanie na stres.
+
+## Bibliografia
+
+- McEwen, B. S. (2007). Physiology and neurobiology of stress and adaptation: Central role of the brain. *Physiological Reviews, 87*(3), 873–904. [https://doi.org/10.1152/physrev.00041.2006](https://doi.org/10.1152/physrev.00041.2006)
+- Sapolsky, R. M., Romero, L. M., & Munck, A. U. (2000). How do glucocorticoids influence stress responses? *Endocrine Reviews, 21*(1), 55–89. [https://doi.org/10.1210/edrv.21.1.0389](https://doi.org/10.1210/edrv.21.1.0389)
+- Sisk, C. L., & Zehr, J. L. (2005). Pubertal hormones organize the adolescent brain and behavior. *Frontiers in Neuroendocrinology, 26*(3–4), 163–174. [https://doi.org/10.1016/j.yfrne.2005.10.003](https://doi.org/10.1016/j.yfrne.2005.10.003)

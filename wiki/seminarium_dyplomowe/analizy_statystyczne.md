@@ -121,3 +121,9 @@ Przykład: *Uczestnicy w grupie eksperymentalnej uzyskali istotnie wyższe wynik
 Alternatywa dla klasycznych testów istotności - Bayesian Factor (BF) mówi, ile razy bardziej prawdopodobna jest hipoteza badawcza niż zerowa przy zaobserwowanych danych. BF > 3 wspiera H1, BF < 1/3 wspiera H0. Dostępne w JASP.
 
 Analiza statystyczna wymaga planowania, znajomości założeń i odpowiedniego raportowania. Nie wystarczy „wrzucić danych do SPSS-a" - każda decyzja analityczna powinna być świadoma i uzasadniona. Wyniki należy interpretować nie tylko przez pryzmat *p*, ale też wielkości efektu, przedziałów ufności i kontekstu teoretycznego.
+
+## Bibliografia
+
+- Munafò, M. R., Nosek, B. A., Bishop, D. V. M., Button, K. S., Chambers, C. D., du Sert, N. P., Simonsohn, U., Wagenmakers, E.-J., Ware, J. J., & Ioannidis, J. P. A. (2017). A manifesto for reproducible science. *Nature Human Behaviour, 1*, Article 0021. [https://doi.org/10.1038/s41562-016-0021](https://doi.org/10.1038/s41562-016-0021)
+- Open Science Collaboration. (2015). Estimating the reproducibility of psychological science. *Science, 349*(6251), Article aac4716. [https://doi.org/10.1126/science.aac4716](https://doi.org/10.1126/science.aac4716)
+- Simmons, J. P., Nelson, L. D., & Simonsohn, U. (2011). False-positive psychology. *Psychological Science, 22*(11), 1359–1366. [https://doi.org/10.1177/0956797611417632](https://doi.org/10.1177/0956797611417632)

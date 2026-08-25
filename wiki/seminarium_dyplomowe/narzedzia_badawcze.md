@@ -109,3 +109,9 @@ Gdy stosujesz wiele narzędzi jednocześnie:
 - Zadbaj o wskazówki debriefu (szczególnie jeśli temat jest drażliwy)
 
 Dobre narzędzie badawcze to takie, które jest trafne, rzetelne, dostosowane do grupy i poprawnie zastosowane. Wybór narzędzia powinien wynikać z pytania badawczego, nie z wygody dostępu. Staranność na etapie planowania narzędzi procentuje wiarygodnymi wynikami i przekonującą dyskusją.
+
+## Bibliografia
+
+- American Educational Research Association, American Psychological Association, & National Council on Measurement in Education. (2014). *Standards for educational and psychological testing*. American Educational Research Association.
+- DeVellis, R. F., & Thorpe, C. T. (2021). *Scale development: Theory and applications* (5th ed.). SAGE.
+- Flake, J. K., Pek, J., & Hehman, E. (2017). Construct validation in social and personality research. *Social Psychological and Personality Science, 8*(4), 370–378. [https://doi.org/10.1177/1948550617693063](https://doi.org/10.1177/1948550617693063)

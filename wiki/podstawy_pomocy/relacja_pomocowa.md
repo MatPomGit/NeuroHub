@@ -77,3 +77,9 @@ Relacja pomocowa różni się od przyjaźni, mentoringu czy relacji rodzic–dzi
 - Empatia w pomocy psychologicznej
 - Granice w relacji pomocowej
 - Etyka pomocy psychologicznej
+
+## Bibliografia
+
+- Bordin, E. S. (1979). The generalizability of the psychoanalytic concept of the working alliance. *Psychotherapy: Theory, Research & Practice, 16*(3), 252–260. [https://doi.org/10.1037/h0085885](https://doi.org/10.1037/h0085885)
+- Flückiger, C., Del Re, A. C., Wampold, B. E., & Horvath, A. O. (2018). The alliance in adult psychotherapy: A meta-analytic synthesis. *Psychotherapy, 55*(4), 316–340. [https://doi.org/10.1037/pst0000172](https://doi.org/10.1037/pst0000172)
+- Norcross, J. C., & Lambert, M. J. (Eds.). (2019). *Psychotherapy relationships that work: Volume 1: Evidence-based therapist contributions* (3rd ed.). Oxford University Press. [https://doi.org/10.1093/med-psych/9780190843953.001.0001](https://doi.org/10.1093/med-psych/9780190843953.001.0001)

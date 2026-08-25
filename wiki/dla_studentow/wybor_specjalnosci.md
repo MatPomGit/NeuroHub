@@ -70,3 +70,8 @@ Zanim wybierzesz specjalność, przejdź przez krótką checklistę decyzyjną:
 - Odkładanie decyzji o superwizji i własnym rozwoju osobistym
 - Traktowanie wyboru jako nieodwracalnego - wiele kompetencji można łączyć i rozwijać etapowo
 
+## Bibliografia
+
+- Lent, R. W., Brown, S. D., & Hackett, G. (1994). Toward a unifying social cognitive theory of career and academic interest, choice, and performance. *Journal of Vocational Behavior, 45*(1), 79–122. [https://doi.org/10.1006/jvbe.1994.1027](https://doi.org/10.1006/jvbe.1994.1027)
+- Savickas, M. L. (2013). Career construction theory and practice. In S. D. Brown & R. W. Lent (Eds.), *Career development and counseling* (2nd ed., pp. 147–183). Wiley.
+- Whiston, S. C., Li, Y., Goodrich Mitts, N., & Wright, L. (2017). Effectiveness of career choice interventions: A meta-analytic replication and extension. *Journal of Vocational Behavior, 100*, 175–184. [https://doi.org/10.1016/j.jvb.2017.03.010](https://doi.org/10.1016/j.jvb.2017.03.010)

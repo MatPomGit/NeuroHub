@@ -138,3 +138,9 @@ Chronopsychologia ma zastosowanie m.in. w:
 - coachingu i rozwoju osobistym (praca z prokrastynacją i planowaniem celów).
 
 Chronopsychologia pokazuje, że dobrostan psychiczny i skuteczność poznawcza zależą nie tylko od *tego, co robimy*, ale też od *kiedy to robimy* i *jak odczuwamy upływ czasu*. Dostosowanie zadań do chronotypu, regularny sen oraz świadome zarządzanie perspektywą czasową to interwencje o dużym znaczeniu klinicznym, edukacyjnym i społecznym.
+
+## Bibliografia
+
+- Borbély, A. A., Daan, S., Wirz-Justice, A., & Deboer, T. (2016). The two-process model of sleep regulation: A reappraisal. *Journal of Sleep Research, 25*(2), 131–143. [https://doi.org/10.1111/jsr.12371](https://doi.org/10.1111/jsr.12371)
+- Roenneberg, T., Wirz-Justice, A., & Merrow, M. (2003). Life between clocks: Daily temporal patterns of human chronotypes. *Journal of Biological Rhythms, 18*(1), 80–90. [https://doi.org/10.1177/0748730402239679](https://doi.org/10.1177/0748730402239679)
+- Walker, M. P. (2009). The role of sleep in cognition and emotion. *Annals of the New York Academy of Sciences, 1156*(1), 168–197. [https://doi.org/10.1111/j.1749-6632.2009.04416.x](https://doi.org/10.1111/j.1749-6632.2009.04416.x)

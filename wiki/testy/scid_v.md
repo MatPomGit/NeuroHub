@@ -158,3 +158,9 @@ Warto raportować: wersję SCID, sposób szkolenia raterów, procedurę superwiz
 ## 11. Podsumowanie
 
 SCID-5 (SCID-V) to jedno z najważniejszych narzędzi porządkujących diagnozę według DSM-5. Jego największą siłą jest standaryzacja, a największym ryzykiem - pokusa nadmiernego uproszczenia obrazu klinicznego. Najlepsze rezultaty daje stosowanie SCID jako części **wielometodowej, wieloźródłowej** diagnozy, osadzonej w relacji klinicznej i kontekście życia pacjenta.
+
+## Bibliografia
+
+- First, M. B., Williams, J. B. W., Karg, R. S., & Spitzer, R. L. (2016). *Structured Clinical Interview for DSM-5 Disorders, Clinician Version (SCID-5-CV)*. American Psychiatric Association Publishing.
+- Regier, D. A., Narrow, W. E., Clarke, D. E., Kraemer, H. C., Kuramoto, S. J., Kuhl, E. A., & Kupfer, D. J. (2013). DSM-5 field trials in the United States and Canada, Part II: Test-retest reliability of selected categorical diagnoses. *American Journal of Psychiatry, 170*(1), 59–70. [https://doi.org/10.1176/appi.ajp.2012.12070999](https://doi.org/10.1176/appi.ajp.2012.12070999)
+- Shankman, S. A., Funkhouser, C. J., Klein, D. N., Davila, J., Lerner, D., & Hee, D. (2018). Reliability and validity of severity dimensions of psychopathology assessed using the Structured Clinical Interview for DSM-5 (SCID). *International Journal of Methods in Psychiatric Research, 27*(1), Article e1590. [https://doi.org/10.1002/mpr.1590](https://doi.org/10.1002/mpr.1590)

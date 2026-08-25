@@ -135,3 +135,9 @@ Psycholog pracuje z ludźmi o różnym pochodzeniu, wyznaniu, orientacji seksual
 - Kwestionuj ramy kulturowe, w których osadzony jest materiał akademicki - psychologia zachodnia nie opisuje wszystkich doświadczeń ludzkich wyczerpująco.
 
 Bycie studentem psychologii to nie tylko rola uczącego się - to już bycie częścią profesji. Nawyki etyczne kształtowane na studiach (uczciwość akademicka, szacunek dla granic, ostrożność w stosowaniu wiedzy, troska o siebie i innych) stają się fundamentem późniejszej praktyki zawodowej. Wybierając psychologię, wybierasz odpowiedzialność - i warto zacząć ją traktować poważnie od pierwszego roku.
+
+## Bibliografia
+
+- American Psychological Association. (2017). *Ethical principles of psychologists and code of conduct* (2002, amended effective June 1, 2010, and January 1, 2017). https://www.apa.org/ethics/code
+- American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th ed.).
+- National Academies of Sciences, Engineering, and Medicine. (2017). *Fostering integrity in research*. The National Academies Press. [https://doi.org/10.17226/21896](https://doi.org/10.17226/21896)

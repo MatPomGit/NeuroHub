@@ -56,6 +56,7 @@ function assertBrowserOnlyMessageInPureNode() {
 function main() {
   runCommand(process.execPath, ['tools/check-safe-repository-paths.js']);
   runCommand(process.execPath, ['tools/test-ui-shell-config.js']);
+  runCommand(process.execPath, ['tools/test-css-architecture.js']);
   runCommand(process.execPath, ['tools/lint-measurement-tools-config.js', '--strict']);
   assertBrowserOnlyMessageInPureNode();
   runCommand(process.execPath, ['tools/test-md-loader-fallback.js']);

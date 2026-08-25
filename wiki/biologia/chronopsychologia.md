@@ -26,7 +26,7 @@ Późniejszy chronotyp i większe niedopasowanie czasowe korelują z niektórymi
 
 Czas psychologiczny nie jest jednym zmysłem ani wierną kopią czasu zegarowego. Ocena trwania zależy od tego, czy człowiek wie z góry, że będzie oceniał czas (**ocena prospektywna**), czy robi to dopiero po zdarzeniu (**ocena retrospektywna**).
 
-W ocenie prospektywnej skierowanie uwagi na upływ czasu zwykle zwiększa szacowane trwanie, natomiast angażujące zadanie może odciągać uwagę od czasu. W ocenie retrospektywnej ważniejsze stają się zawartość pamięci i liczba zmian kontekstowych. Dlatego zajęty okres może wydawać się krótki w trakcie, a bogaty i długi we wspomnieniu. Modele „wewnętrznego zegara” są użytecznymi opisami części wyników, nie zaś dowodem istnienia jednego anatomicznego czasomierza (Block & Gruber, 2014).
+W ocenie prospektywnej skierowanie uwagi na upływ czasu zwykle zwiększa szacowane trwanie, natomiast angażujące zadanie może odciągać uwagę od czasu. W ocenie retrospektywnej ważniejsze stają się zawartość [pamięci](../psychologia_poznawcza/pamiec.md) i liczba zmian kontekstowych. Dlatego zajęty okres może wydawać się krótki w trakcie, a bogaty i długi we wspomnieniu. Modele „wewnętrznego zegara” są użytecznymi opisami części wyników, nie zaś dowodem istnienia jednego anatomicznego czasomierza (Block & Gruber, 2014).
 
 Pobudzenie emocjonalne, uwaga i właściwości bodźca mogą zniekształcać ocenę krótkich odcinków. Nie każda emocja działa jednak w tym samym kierunku: wynik zależy od jej pobudzenia, motywacji do zbliżenia lub unikania, czasu prezentacji i metody pomiaru (Droit-Volet & Meck, 2007). Kategoryczne reguły, że lęk zawsze „wydłuża”, a przyjemność zawsze „skraca” czas, są zatem nieuzasadnione.
 
@@ -40,7 +40,7 @@ W wyborach między nagrodą wcześniejszą i późniejszą ludzie często dyskon
 
 Uwzględnianie pory dnia może poprawić projekt badań, planowanie nauki i organizację pracy. Rozsądna zasada polega na obserwowaniu własnego profilu czujności i, gdy to możliwe, planowaniu wymagających zadań na porę sprawnego funkcjonowania. Nie zastępuje to odpowiedniej ilości snu ani diagnozy trudności utrzymujących się mimo regularnego harmonogramu.
 
-W edukacji i pracy rozwiązania organizacyjne należy oceniać na poziomie grupy oraz jednostki: późniejsze rozpoczęcie zajęć może pomagać części młodzieży, ale harmonogram ma również skutki rodzinne i społeczne. W psychoterapii stabilizacja rytmu aktywności jest elementem niektórych interwencji, zwłaszcza w zaburzeniach nastroju, lecz nie należy przedstawiać „życia zgodnie z chronotypem” jako samodzielnego leczenia.
+W edukacji i pracy rozwiązania organizacyjne należy oceniać na poziomie grupy oraz jednostki: późniejsze rozpoczęcie zajęć może pomagać części młodzieży, ale harmonogram ma również skutki rodzinne i społeczne. W [psychoterapii](../psychoterapia/psychoterapia_wprowadzenie.md) stabilizacja rytmu aktywności jest elementem niektórych interwencji, zwłaszcza w zaburzeniach nastroju, lecz nie należy przedstawiać „życia zgodnie z chronotypem” jako samodzielnego leczenia.
 
 Chronopsychologia pokazuje zatem, że *kiedy* wykonujemy zadanie i *jak* reprezentujemy czas, może modyfikować funkcjonowanie. Jej wnioski są probabilistyczne: wymagają uwzględnienia chronotypu, snu, kontekstu i sposobu pomiaru.
 

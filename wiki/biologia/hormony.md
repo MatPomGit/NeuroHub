@@ -6,7 +6,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Hormony i zachowanie
 
-Hormony to chemiczni posłańcy wydzielani przez gruczoły dokrewne, przenoszone przez krew i wywierający wpływ na odległe tkanki, w tym mózg. Odgrywają kluczową rolę w regulacji zachowania, emocji, poznania i zdrowia psychicznego.
+Wśród [biologicznych podstaw zachowania](biologiczne_podstawy.md) hormony są chemicznymi posłańcami wydzielanymi przez gruczoły dokrewne, przenoszonymi przez krew i wywierającymi wpływ na odległe tkanki, w tym mózg. Odgrywają kluczową rolę w regulacji zachowania, emocji, poznania i zdrowia psychicznego.
 
 ## Układ hormonalny - podstawy
 
@@ -20,7 +20,7 @@ Hormony to chemiczni posłańcy wydzielani przez gruczoły dokrewne, przenoszone
 - Gonady - estrogeny, progesteron (jajniki); testosteron (jądra)
 - Szyszynka - melatonina
 
-> **Oś HPA:** Podwzgórze → przysadka → nadnercza to kluczowy układ regulacji stresu. Podwzgórze wydziela CRH, przysadka - ACTH, nadnercza - kortyzol. Kortyzol w pętli ujemnej zwrotnej hamuje wydzielanie CRH i ACTH.
+> **Oś HPA:** Podwzgórze → przysadka → nadnercza to kluczowy układ regulacji [stresu](../psychologia_zdrowia/stres.md). Podwzgórze wydziela CRH, przysadka - ACTH, nadnercza - kortyzol. Kortyzol w pętli ujemnej zwrotnej hamuje wydzielanie CRH i ACTH.
 
 ## Kortyzol - hormon stresu
 
@@ -28,7 +28,7 @@ Hormony to chemiczni posłańcy wydzielani przez gruczoły dokrewne, przenoszone
 
 - Podniesienie poziomu glukozy we krwi (energia dla mięśni)
 - Zahamowanie trawienia, układu immunologicznego i reprodukcji
-- Konsolidacja pamięci emocjonalnej (dlatego stresujące zdarzenia dobrze się zapamiętuje)
+- Konsolidacja [pamięci](../psychologia_poznawcza/pamiec.md) emocjonalnej (dlatego stresujące zdarzenia dobrze się zapamiętuje)
 
 **Dysregulacja kortyzolu:**
 
@@ -43,7 +43,7 @@ Hormony to chemiczni posłańcy wydzielani przez gruczoły dokrewne, przenoszone
 Związek z zachowaniem:
 
 - **Dominacja i status:** Testosteron wzrasta po wygraniu rywalizacji (efekt zwycięzcy), a spada po przegranej - tworząc pętlę zwrotną między statusem a biologią
-- **Agresja:** Związek jest słabszy niż się popularnie sądzi; testosteron raczej moduluje wrażliwość na status i prowokację niż bezpośrednio powoduje agresję
+- **[Agresja](../psychologia_spoleczna/agresja_uprzedzenia_i_przemoc_spoleczna.md):** Związek jest słabszy niż się popularnie sądzi; testosteron raczej moduluje wrażliwość na status i prowokację niż bezpośrednio powoduje agresję
 - **Podejmowanie ryzyka:** Wyższy poziom testosteronu koreluje z większą skłonnością do ryzyka
 - **Efekt ojcostwa:** Poziom testosteronu spada u mężczyzn po narodzinach dziecka, co może ułatwiać zachowania opiekuńcze
 
@@ -67,11 +67,11 @@ Udokumentowane efekty:
 - Zmniejsza reaktywność ciała migdałowatego na zagrożenia
 - Zwiększa ufność i współpracę *w grupie własnej*
 
-> **Ciemna strona oksytocyny:** Zwiększa nieufność i agresję wobec *outgroupów* (obcych). Efekty są wysoce kontekstowe - oksytocyna nie jest "lekiem na miłość". Doniesienia o jej skuteczności w terapii autyzmu są niereplikowalne.
+> **Ciemna strona oksytocyny:** Zwiększa nieufność i agresję wobec *outgroupów* (obcych). Efekty są wysoce kontekstowe - oksytocyna nie jest "lekiem na miłość". Doniesienia o jej skuteczności w terapii [autyzmu](../neuroroznorodnosc/spektrum_autyzmu.md) są niereplikowalne.
 
 ## Hormon wzrostu i IGF-1
 
-**Hormon wzrostu (GH)** wydzielany przez przysadkę - głównie podczas głębokiego snu (NREM N3) i po ćwiczeniach fizycznych - stymuluje wzrost i regenerację tkanek. Niedobór GH u dorosłych wiąże się z obniżonym nastrojem, zmęczeniem i zaburzeniami poznawczymi.
+**Hormon wzrostu (GH)** wydzielany przez przysadkę - głównie podczas [głębokiego snu](chronobiologia.md#regulacja-snu) (NREM N3) i po ćwiczeniach fizycznych - stymuluje wzrost i regenerację tkanek. Niedobór GH u dorosłych wiąże się z obniżonym nastrojem, zmęczeniem i zaburzeniami poznawczymi.
 
 ## Hormony tarczycy
 

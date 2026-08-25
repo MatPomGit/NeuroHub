@@ -1942,7 +1942,6 @@ function renderHome() {
     .map((scenario, index) => `<button type="button" class="start-card modern-card" onclick="navigate('${scenario.id}')">
       <span class="start-card-title">${scenario.title}</span>
       <span class="start-card-goal">${scenario.goal}</span>
-      <span class="start-card-benefit">${scenario.benefit}</span>
     </button>`)
     .join('');
 
@@ -1962,7 +1961,6 @@ function renderHome() {
   area.innerHTML = `<div class="rendered home-view">
     <div class="home-hero">
       <h1>Encyklopedia psychologii</h1>
-      <p>Zacznij od podstaw i rozwijaj wiedzę w uporządkowany sposób.</p>
       <div class="home-hero-actions">
         <button type="button" class="home-cta home-cta-primary" onclick="navigate('wstep_do_psychologii/definicja')">Rozpocznij naukę <span>→</span></button>
         <button type="button" class="home-cta home-cta-secondary" onclick="navigate('dla_studentow/testy_teoretyczne')">Sprawdź się testem</button>
@@ -1970,25 +1968,19 @@ function renderHome() {
     </div>
     <section class="home-block">
       <div class="home-block-head">
-        <span class="section-kicker">Szybki start</span>
         <h2>Co chcesz dziś zrobić?</h2>
-        <p>Wybierz scenariusz dopasowany do celu na teraz</p>
       </div>
       <div class="start-grid">${startCardsHtml}</div>
     </section>
     <section class="home-block">
       <div class="home-block-head">
-        <span class="section-kicker">Kontynuuj</span>
         <h2>Ostatnio odwiedzane</h2>
-        <p>Wróć do materiałów, które już przeglądałeś</p>
       </div>
       ${recentHtml}
     </section>
     <section class="home-block">
       <div class="home-block-head">
-        <span class="section-kicker">Biblioteka wiedzy</span>
         <h2>Spis treści</h2>
-        <p>Wybierz obszar, a następnie dział. Każda pozycja prowadzi do właściwego indeksu lub artykułu wprowadzającego</p>
       </div>
       <nav class="site-toc" aria-label="Spis treści encyklopedii psychologii">${tableOfContentsHtml}</nav>
     </section>

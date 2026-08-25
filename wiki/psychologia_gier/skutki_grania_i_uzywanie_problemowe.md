@@ -10,7 +10,7 @@ aliases:
 
 # Gry, rozwój, funkcje poznawcze i używanie problemowe
 
-## Najważniejsze informacje
+## Wprowadzenie
 
 - Wynik uzyskany bezpośrednio po krótkiej sesji laboratoryjnej nie dowodzi trwałej zmiany poznawczej ani zachowania poza laboratorium.
 - Gracze nie są losowo przydzielani do swoich wieloletnich nawyków. Zdolności, osobowość, zdrowie i środowisko mogą wpływać zarówno na wybór gry, jak i późniejszy wynik.

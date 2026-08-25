@@ -1,8 +1,8 @@
 ---
-lastReviewed: 2026-04-01
+content_type: article
+lastReviewed: 2026-05-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
-content_type: article
 ---
 
 # Przegląd literatury naukowej
@@ -39,6 +39,7 @@ Sprawny przegląd literatury wymaga znajomości właściwych źródeł. W psycho
 ### Słowa kluczowe i operatory boolowskie
 
 Dobry przegląd zaczyna się od przemyślanego zestawu słów kluczowych:
+
 - Używaj terminologii anglojęzycznej (dominuje w literaturze naukowej)
 - Stosuj **operatory boolowskie**: AND (zawęża), OR (poszerza), NOT (wyklucza)
 - Korzystaj z **cudzysłowów** przy frazach: `"attachment theory"` zamiast `attachment theory`
@@ -47,6 +48,7 @@ Dobry przegląd zaczyna się od przemyślanego zestawu słów kluczowych:
 ### Filtrowanie wyników
 
 Ogranicz wyniki do:
+
 - Artykułów recenzowanych (*peer-reviewed*)
 - Odpowiedniego zakresu lat (zazwyczaj ostatnie 10–15 lat, z klasycznymi tekstami bez limitu)
 - Badań na odpowiedniej próbie (wiek, diagnoza, kultura)
@@ -74,6 +76,7 @@ Dla pracy magisterskiej celem jest opieranie się **głównie na źródłach rec
 ### Style cytowania
 
 W polskiej psychologii akademickiej dominuje styl **APA (American Psychological Association)**:
+
 - W tekście: (Autor, rok) lub Autor (rok)
 - Cytowanie bezpośrednie: (Autor, rok, s. XX)
 - Lista referencyjna: alfabetycznie według nazwiska pierwszego autora
@@ -81,6 +84,7 @@ W polskiej psychologii akademickiej dominuje styl **APA (American Psychological 
 ### Menedżery bibliografii
 
 Korzystaj z narzędzi takich jak **Zotero** (darmowy), **Mendeley**, lub **EndNote**, by:
+
 - Automatycznie generować cytowania i bibliografię
 - Organizować pliki PDF
 - Synchronizować bibliotekę w chmurze
@@ -88,6 +92,7 @@ Korzystaj z narzędzi takich jak **Zotero** (darmowy), **Mendeley**, lub **EndNo
 ### Plagiat i autoplagialy
 
 **Plagiat** (przywłaszczenie cudzych słów lub idei bez przypisania) jest naruszeniem zasad akademickich. Pamiętaj:
+
 - Każde dosłowne cytowanie wymaga cudzysłowu i wskazania strony
 - Parafraza nie jest darmową kartą - idee innych nadal wymagają cytowania
 - Autoplagiat (wielokrotne użycie własnych wcześniejszych prac bez wskazania) też jest nieakceptowalny
@@ -97,6 +102,7 @@ Korzystaj z narzędzi takich jak **Zotero** (darmowy), **Mendeley**, lub **EndNo
 ### Matryca literatury
 
 Zanim zaczniesz pisać, stwórz **tabelę lub arkusz**, w której dla każdego artykułu zapisujesz:
+
 - Autorów, rok, tytuł
 - Cel badania
 - Metodę (próba, narzędzia)
@@ -111,36 +117,4 @@ Nie referuj artykułów jeden po drugim. Grupuj je **tematycznie lub problemowo*
 >
 > **Przykład dobrego podejścia:** „Liczne badania wskazują, że lęk separacyjny wiąże się z pozabezpiecznym stylem przywiązania (Smith, 2015; Jones, 2017), przy czym efekt ten jest silniejszy u chłopców niż u dziewcząt (Brown, 2019)."
 
-
-
 Dobry przegląd literatury jest systematyczny, krytyczny i syntetyczny. Nie jest katalogiem artykułów - jest argumentem budowanym z wiedzy innych, który prowadzi do pytania badawczego. Czas inwestowany w rzetelny przegląd literaturowy procentuje na każdym kolejnym etapie pracy.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Przegląd literatury naukowej" polega na tym, że najczęstsze trudności w pracy dyplomowej wynikają nie z braku pojedynczej informacji, lecz z jakości planowania, konsekwencji metodologicznej i dyscypliny redakcyjnej.
-
-Dopiero wspólna analiza zagadnień takich jak cele przeglądu literatury, ocena jakości źródeł oraz organizacja i synteza literatury pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Przegląd literatury naukowej" pokazuje, że największą wartość daje traktowanie pracy badawczej jako procesu integrowania pytania, metody, analizy i argumentacji.
-
-
-Dopiero wspólna analiza zagadnień takich jak cele przeglądu literatury, ocena jakości źródeł oraz organizacja i synteza literatury pokazuje pełny zakres omawianego zjawiska.
-
-## Podstawa źródłowa
-
-Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synteza psychologii naukowej VandenBos (2015) oraz właściwe dla rozpoznań kryteria ICD-11 (World Health Organization, 2022).
-
-## Bibliografia
-
-- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/14646-000](https://doi.org/10.1037/14646-000)
-- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.

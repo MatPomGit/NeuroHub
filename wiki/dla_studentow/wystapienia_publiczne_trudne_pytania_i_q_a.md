@@ -1,8 +1,6 @@
 ---
 content_type: article
----
 
-﻿---
 lastReviewed: 2026-05-09
 reviewCycleMonths: 18
 evidenceCutoffDate: 2026-05-01
@@ -48,26 +46,17 @@ Prelegent odpowiada impulsywnie, przerywa pytającemu i przedstawia pewne wniosk
 
 **Konsekwencje:** spadek zaufania, eskalacja napięcia i większe ryzyko błędnych decyzji odbiorców.
 
-## Perspektywa nieoczywista
-
-Najtrudniejsze pytania bywają nie zagrożeniem, lecz sygnałem jakości audytorium. Krytyczne pytanie zwiększa wartość wystąpienia, jeśli mówca potraktuje je jako okazję do doprecyzowania granic wiedzy, a nie walkę o status.
-## Powiązane artykuły (cross-linki)
+## Powiązane artykuły
 
 - `students/wystapienia_publiczne_autoprezentacja` - psychologia skutecznego przekazu.
 - `spoleczna/perswazja` - mechanizmy wpływu społecznego.
 
-
-
 Profesjonalne Q&A to umiejętność regulacji emocji i precyzyjnej argumentacji. Dobre odpowiedzi nie udają wszechwiedzy - pokazują jakość myślenia, transparentność ograniczeń i szacunek dla rozmówcy.
 
-## Podstawa źródłowa
 
-Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synteza psychologii naukowej VandenBos (2015) oraz właściwe dla rozpoznań kryteria ICD-11 (World Health Organization, 2022).
 
 ## Bibliografia
 
-- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/14646-000](https://doi.org/10.1037/14646-000)
-- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
 
 1. Leary, M. R. (2019). *The Self and Social Anxiety*. Guilford Press.
 2. Sweller, J., Ayres, P., & Kalyuga, S. (2011). *Cognitive Load Theory*. Springer.

@@ -1,6 +1,6 @@
 # Nadmierne jedzenie i jedzenie kompulsywne
 
-## Najważniejsze informacje
+## Wprowadzenie
 
 - **Nadmierne jedzenie** opisuje zachowanie, a nie rozpoznanie: ilość pokarmu jest większa, niż dana osoba w tych okolicznościach potrzebuje lub zamierza zjeść. Pojedynczy taki epizod nie oznacza zaburzenia psychicznego.
 - Klinicznie ważniejsza od samej ilości bywa **utrata kontroli**, czyli subiektywne poczucie, że nie można przestać jeść ani decydować, co lub ile się je. Może wystąpić zarówno przy obiektywnie dużej, jak i zwyczajnej ilości pokarmu.

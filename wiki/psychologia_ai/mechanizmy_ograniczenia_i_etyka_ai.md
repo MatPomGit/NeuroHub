@@ -9,7 +9,7 @@ aliases:
 
 # Mechanizmy, ograniczenia i etyka AI
 
-## Najważniejsze informacje
+## Wprowadzenie
 
 Sztuczna inteligencja jest zbiorem metod tworzących wyniki na podstawie reguł, optymalizacji i danych. System może trafnie klasyfikować, przewidywać lub generować treść bez rozumienia jej w ludzkim sensie. Ocena wymaga zatem powiązania mechanizmu z konkretnym zadaniem, populacją i konsekwencją błędu.
 

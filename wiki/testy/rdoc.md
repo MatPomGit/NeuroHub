@@ -1,11 +1,11 @@
 ---
-lastReviewed: 2026-04-01
+content_type: article
+lastReviewed: 2026-05-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
-content_type: article
 ---
 
-# Model RDoC w diagnozie psychologicznej i neuropsychologicznej
+# Model RDoC w diagnozie psychologicznej
 
 Research Domain Criteria (RDoC) to oparty na neurobiologii i nauce o zachowaniu ramowy system klasyfikacji zaburzeń psychicznych, opracowany przez National Institute of Mental Health (NIMH) jako alternatywa wobec kategorycznych systemów DSM i ICD. Artykuł stanowi wyczerpujące omówienie modelu przeznaczone dla psychologów klinicznych, neuropsychologów, psychiatrów i badaczy zdrowia psychicznego.
 
@@ -34,6 +34,8 @@ RDoC opiera się na czterech fundamentalnych założeniach:
 4. **Neutralność nozologiczna** - badania powinny definiować próby na podstawie konstruktów, nie kategorii DSM.
 
 > RDoC traktuje zaburzenia psychiczne jako **zaburzenia funkcji mózgu** - dlatego podstawową jednostką analizy jest konstrukt neurobiologiczny, a nie syndrom kliniczny.
+
+---
 
 ## Struktura macierzy RDoC
 
@@ -78,6 +80,8 @@ Każda domena zawiera zestaw szczegółowych **konstruktów** oraz **podkonstruk
 | **Zachowanie** | Zadania laboratoryjne (Go/No-Go, IGT, BART, dot-probe, face-emotion matching), obserwacja behawioralna |
 | **Samoopis** | Kwestionariusze (STAI, BIS/BAS, SHAPS, PHQ-9), ESM, dzienniki kliniczne |
 | **Paradygmaty** | Standardowe paradygmaty eksperymentalne rekomendowane przez NIMH jako narzędzia pomiarowe konstruktów |
+
+---
 
 ## Domeny i konstrukty - szczegółowe omówienie
 
@@ -145,6 +149,7 @@ Najnowsza, szósta domena RDoC (dodana w 2019 r.). Obejmuje:
 
 **Poczucie agencji i własności ciała** - prawostronny TPJ i wyspa. Depersonalizacja, zaburzenia dysocjacyjne, zjawisko somatycznych przeżyć w traumie.
 
+---
 
 ## Implikacje dla diagnozy psychologicznej
 
@@ -192,6 +197,7 @@ Dla praktyków dysponujących ograniczonymi zasobami technicznymi wiele narzędz
 **Przypadek 1 - TBI (uraz czaszkowo-mózgowy, ogniskowe uszkodzenie czołowe)**
 
 Mężczyzna, 34 lata, wypadek komunikacyjny, uszkodzenie grzbietowo-bocznej kory przedczołowej prawej. Profil RDoC:
+
 - Systemy poznawcze: pamięć robocza↓ (N-Back 2: d' = 0,4 vs norma ≥ 1,8), funkcje wykonawcze↓ (TMT-B: 210 s, błędy persewracyjne w WCST)
 - Walencja pozytywna: motywacja do nagrody↓ (IGT: preferencja niesatysfakcjonujących kart mimo informacji zwrotnej)
 - Pobudzenie: labilność emocjonalna, drażliwość (frustrative nonreward↑)
@@ -201,6 +207,7 @@ Hipoteza neurobiologiczna: dysfunkcja obwodu DLPFC–prążkowie, obniżona modu
 **Przypadek 2 - Schizofrenia z dominującymi objawami negatywnymi**
 
 Kobieta, 28 lat, diagnoza DSM-5: schizofrenia. Profil RDoC:
+
 - Walencja pozytywna: anhedonia przewidywana (wanting)↓ przy zachowanej anhedonii konsumpcyjnej (liking względnie zachowane); EEfRT: wybiera niskie wysiłki 80% prób
 - Systemy poznawcze: pamięć robocza↓ (d' DLPFC-dependent), ToM↓ (RMET: 18/36)
 - Regulacja społeczna: komunikacja afiliacyjna↓ (obniżony wskaźnik podążania wzrokiem)
@@ -210,6 +217,7 @@ Hipoteza: hipoaktywność dopaminergiczna VTA→NAc (deficyt wanting bez deficyt
 **Przypadek 3 - PTSD po traumie relacyjnej**
 
 Kobieta, 42 lata, PTSD po przemocy domowej. Profil RDoC:
+
 - Walencja negatywna: strach↑ (fear-potentiated startle wzmożony), lęk↑ (STAI-C: 68 sten), frustrative nonreward↑ (labilność)
 - Pobudzenie: arousal↑ (HRV obniżona, kortyzol poranny podwyższony), czuwanie/sen↓ (PSQI = 17)
 - Regulacja społeczna: przywiązanie↓ (FearFul/Disorganized: ECR-R Anxiety = 82, Avoidance = 74), percepcja społeczna zaburzona selektywnie dla sygnałów złości (face-emotion matching: sensitivity dla angry↑ z bias)
@@ -219,6 +227,7 @@ Hipoteza: nadaktywne ciało migdałowate (selektywna reaktywność na sygnały z
 **Przypadek 4 - Zaburzenie afektywne dwubiegunowe typ II**
 
 Mężczyzna, 38 lat, BD-II. Profil RDoC:
+
 - Walencja pozytywna: hiperreaktywność na nagrodę (BAS-RR↑ w hipomanii), wanting drive↑, habit↑ (kompulsywne zakupy w epizodach hipomaniakalnych)
 - Walencja negatywna: frustracyjna nienagroda↑ między epizodami (drażliwość), utrata↑ (dystymia)
 - Pobudzenie: rytm dobowy zaburzony (DLMO przesunięte, sen nieregularny), arousal labilny
@@ -228,6 +237,7 @@ Hipoteza: dysregulacja obwodu nagrody (za wysoka wrażliwość D2 podczas hipoma
 **Przypadek 5 - Zaburzenia ze spektrum autyzmu u dorosłej kobiety**
 
 Kobieta, 31 lat, późna diagnoza ASD (Asperger). Profil RDoC:
+
 - Regulacja społeczna: ToM↓ (RMET: 16/36), percepcja twarzy atypowa (FFA słaba aktywacja w fMRI), przywiązanie zaburzone (trudności regulacji emocji w kontekście społecznym)
 - Procesy sensoryczno-motoryczne: nadwrażliwość dotykowa i słuchowa (próg sensoryczny↓), propriocepcja zaburzona (trudności w sporcie)
 - Systemy poznawcze: hiperfokus i selektywność uwagi (wąski kąt uwagi; słaby ToM ale silne rozumowanie systemowe)
@@ -235,7 +245,9 @@ Kobieta, 31 lat, późna diagnoza ASD (Asperger). Profil RDoC:
 
 Hipoteza: atypowa aktywność FFA i TPJ (percepcja społeczna), nadwrażliwość sensoryczna (wyspa), odmienne profilowanie regulacji osi HPA. Implikacja: trening rozpoznawania emocji (RMET-based), integracja sensoryczna (terapia SI), coaching umiejętności społecznych kontekstualnych (nie standaryzowanych skryptów).
 
-## RDoC a psychofarmakologia - stratyfikacja leczenia
+---
+
+## RDoC a psychofarmakologia
 
 Jedną z kluczowych aplikacji RDoC jest pomoc w stratyfikacji leczenia farmakologicznego na podstawie profilu neurobiologicznego, a nie kategorii diagnozowania:
 
@@ -254,10 +266,13 @@ Jedną z kluczowych aplikacji RDoC jest pomoc w stratyfikacji leczenia farmakolo
 > Tabela ma charakter poglądowy i nie zastępuje indywidualnej oceny klinicznej. Stratyfikacja farmakologiczna na podstawie konstruktów RDoC jest nadal przedmiotem badań.
 
 Przykład translacji klinicznej: dwa pacjenci z diagnozą DSM-5 „epizod depresyjny" mają odmienne profile RDoC:
+
 - Pacjent A: dominuje obniżenie wanting (DA↓) + zaburzenia snu (rytm dobowy) → preferowany: bupropion + agomelatyna.
 - Pacjent B: dominuje lęk/ruminacje (BNST aktywne) + somatyczne napięcie → preferowany: SSRI/SNRI + psychoterapia ukierunkowana na tolerancję niepewności.
 
-## RDoC a psychoterapia oparta na procesach (Process-Based Therapy)
+---
+
+## RDoC, a psychoterapia oparta na procesach (Process-Based Therapy)
 
 **Psychoterapia oparta na procesach** (PBT; Hayes & Hofmann, 2018) jest bezpośrednią kliniczną aplikacją logiki transdiagnostycznej zbieżnej z RDoC. PBT zakłada, że interwencje powinny być celowane w **mechanizmy zmiany** (tzw. procesy lecznicze), a nie w kategorie diagnostyczne.
 
@@ -310,11 +325,14 @@ Jednym z pierwotnych celów RDoC była reforma metodologii badań klinicznych. N
 **Badania mechanizmów** (*experimental medicine approach*) - RDoC sprzyja badaniom, w których cel jest udowodnienie mechanizmu zmiany (np. lek X podnosi sygnał RPE → co wtórnie poprawia motywację → co przekłada się na zmniejszenie anhedonii). Jest to bardziej informacyjne niż demonstracja efektu w kategorii DSM.
 
 **Przykłady projektów RDoC-inspirowanych:**
+
 - NIMH FAST-MAS (badanie modulacji sygnału strachu przez D-cykloserynę w fobii społecznej)
 - Beacon Project (stratyfikacja depresji na podtypy: inflammatory vs. anhedonic vs. anxious-distressed)
 - UK Biobank Mental Health (GWAS konstruktów walencji negatywnej i pozytywnej)
 
-## RDoC a formulacja przypadku
+---
+
+## RDoC. a formulacja przypadku
 
 ### Integracja z formulacją CBT
 
@@ -331,6 +349,7 @@ Taki opis pozwala uzasadnić, dlaczego ekspozycja jest konieczna (reaktywuje obw
 ### Integracja z formulacją psychodynamiczną
 
 W psychoanalitycznie zorientowanej formulacji przypadku RDoC może uzupełniać opis o neurobiologiczny odpowiednik mechanizmów obronnych:
+
 - Represja / tłumienie → wzmożona aktywność mPFC hamująca ciało migdałowate
 - Projekcja → nadaktywna sieć saliency interpretująca neutralne sygnały jako zagrożenie
 - Dysocjacja → odłączenie kory wyspy od obwodów autobiograficznej pamięci
@@ -343,6 +362,8 @@ Kompleksowa formulacja przypadku oparta na RDoC integruje cztery poziomy:
 2. **Psychologiczny** - profil konstruktów RDoC (wyniki zadań laboratoryjnych i kwestionariuszy)
 3. **Społeczny** - stresory środowiskowe jako moderatory nasilenia konstruktów (np. przemoc domowa moduluje konstrukt strachu)
 4. **Czasowy** - trajektoria konstruktów w czasie (kiedy zaczął się deficyt, jak ewoluował)
+
+---
 
 ## Porównanie RDoC z systemami kategorycznymi
 
@@ -360,6 +381,8 @@ Kompleksowa formulacja przypadku oparta na RDoC integruje cztery poziomy:
 
 > RDoC i DSM/ICD nie są wzajemnie wykluczające - w praktyce klinicznej można stosować DSM do celów komunikacyjnych i refundacyjnych, jednocześnie formułując hipotezy neurobiologiczne w języku RDoC.
 
+---
+
 ## Ograniczenia i krytyka
 
 **Redukcjonizm biologiczny.** Krytycy (m.in. Wakefield, Bentall) wskazują, że RDoC może niedoceniać czynników psychospołecznych, kulturowych i egzystencjalnych. Konstrukty są definiowane w terminach obwodów nerwowych, co pomija narrację pacjenta, kontekst społeczny i znaczenie cierpienia. Podejście to traci z oczu, że te same obwody mogą odpowiadać na odmienne bodźce środowiskowe w zależności od kultury i historii życiowej.
@@ -376,6 +399,8 @@ Kompleksowa formulacja przypadku oparta na RDoC integruje cztery poziomy:
 
 **Brak integracji z perspektywą opartą na mocnych stronach.** RDoC koncentruje się na deficytach i dysfunkcji. Nie oferuje ram dla opisu zasobów, rezyliencji i pozytywnego zdrowia psychicznego.
 
+---
+
 ## Kierunki rozwoju i perspektywy
 
 **Biomarkery i precyzyjna psychiatria.** Długoterminowym celem RDoC jest identyfikacja biomarkerów (np. wzorców EEG, wskaźników fMRI) pozwalających stratyfikować pacjentów i dobierać leczenie celowane. Inicjatywa *Precision Medicine in Mental Health* NIMH (projekt PRISM, STRATIFY) bezpośrednio nawiązuje do logiki RDoC. W 2023 r. konsorcjum ENIGMA opublikowało metaanalizę neuroobrazową potwierdzającą transdiagnostyczne deficyty struktury hipokampa korelujące z konstruktem lęku, a nie z kategorią DSM.
@@ -387,6 +412,8 @@ Kompleksowa formulacja przypadku oparta na RDoC integruje cztery poziomy:
 **Machine learning i RDoC.** Algorytmy uczenia maszynowego (klasterowanie, t-SNE, autoencodery, grafowe sieci neuronowe) zastosowane do danych z wielu poziomów analizy (genetycznych, neurobiologicznych, behawioralnych) mogą prowadzić do empirycznej redefinicji podtypów zaburzeń zgodnej z logiką RDoC. Przykładowe projekty: Compass Pathways (profil anhedonii + neuroimaging do predykcji odpowiedzi na psychedeliki), Columbia Suicide Severity w połączeniu z profilem frustrative nonreward.
 
 **Neuropsychiatria obliczeniowa.** Modele obliczeniowe (Bayesian brain, Rescorla-Wagner, aktywna inferencja Fristona) pozwalają parametryzować konstrukty RDoC jako zmienne obliczeniowe (np. błąd predykcji bayesowskiej zamiast subiektywnego raportu lęku). To umożliwia precyzyjne mapowanie parametrów modelu na mechanizmy neurobiologiczne.
+
+---
 
 ## Praktyczne zastosowanie w procesie diagnostycznym
 
@@ -401,11 +428,12 @@ Choć RDoC nie zastępuje DSM/ICD w codziennej pracy diagnostycznej, może być 
 
 Dla psychiatry pracującego w Polsce praktycznym krokiem startowym jest **formulacja RDoC-inspirowana**: po postawieniu rozpoznania DSM/ICD dodatkowo opisuje się dominujące profile dysregulacji konstruktów i hipotezę mechanizmu - bez konieczności formalnego odejścia od kategorii.
 
-
+---
 
 Model RDoC stanowi istotną zmianę paradygmatu w psychopatologii i diagnozie psychologicznej. Odchodząc od opisowych kategorii w kierunku wymiarów biologicznie zakotwiczonych, otwiera drogę do precyzyjnej diagnostyki i spersonalizowanego leczenia. Jego wartość jest szczególnie wysoka w neuropsychologii, gdzie mapowanie deficytów na konkretne obwody nerwowe jest zarówno możliwe, jak i klinicznie użyteczne.
 
 Dla specjalistów zdrowia psychicznego model RDoC oferuje kilka praktycznych zysków:
+
 - **Wyjaśnienie komorbidowości** - nakładające się profile konstruktów zastępują sztuczne granice kategorii.
 - **Celowane interwencje** - dobór psychoterapii i farmakoterapii oparty na mechanizmie, a nie etykiecie diagnostycznej.
 - **Mierzalne miary wynikowe** - konstrukty można mierzyć obiektywnie, niezależnie od subiektywnego raportu pacjenta.
@@ -413,18 +441,9 @@ Dla specjalistów zdrowia psychicznego model RDoC oferuje kilka praktycznych zys
 
 Wyzwaniem pozostaje translacja konstruktów badawczych do praktyki klinicznej oraz uwzględnienie czynników psychospołecznych i kulturowych, które tradycyjnie wykraczają poza model neuronaukowy. Integracja RDoC z wymiarowymi podejściami HiTOP i nowymi kryteriami ICD-11, a także rozwój neuropsychiatrii obliczeniowej, wyznaczają obiecującą perspektywę dla psychiatrii i psychologii klinicznej XXI wieku.
 
-## Podstawa źródłowa
-
-Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synteza psychologii naukowej VandenBos (2015) oraz właściwe dla rozpoznań kryteria ICD-11 (World Health Organization, 2022).
+---
 
 ## Bibliografia
-
-- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/14646-000](https://doi.org/10.1037/14646-000)
-- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
-
-(APA 7)
-Wpisy bibliograficzne zapisuj konsekwentnie w APA 7 oraz dodawaj DOI/URL i oznaczenie typu źródła (`[Typ: ...]`) tam, gdzie to możliwe.
-
 
 ### Prace źródłowe i teoretyczne
 
@@ -467,24 +486,3 @@ Wpisy bibliograficzne zapisuj konsekwentnie w APA 7 oraz dodawaj DOI/URL i oznac
 
 - Wakefield, J.C. (2014). Wittgenstein's nightmare: Why the RDoC grid needs a conceptual dimension. *World Psychiatry*, 13(1), 38–40.
 - Weinberger, D.R. et al. (2015). Schizophrenia as a disorder of prefrontal-temporal network failure: a model of network dysfunction. *Schizophrenia Bulletin*, 41(6), 1211–1227.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Model RDoC w diagnozie psychologicznej i neuropsychologicznej" polega na tym, że wynik testu ma wartość tylko wtedy, gdy jest interpretowany w kontekście celu badania, ograniczeń narzędzia i pozostałych danych o osobie badanej.
-
-Dopiero wspólna analiza zagadnień takich jak geneza i kontekst historyczny, rdoc w badaniach klinicznych - zastosowania metodologiczne oraz bibliografia (apa 7) pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Model RDoC w diagnozie psychologicznej i neuropsychologicznej" pokazuje, że najważniejsze pozostaje odróżnianie pomiaru od decyzji diagnostycznej oraz łączenie danych testowych z obserwacją i wywiadem.
-
-
-Dopiero wspólna analiza zagadnień takich jak geneza i kontekst historyczny, rdoc w badaniach klinicznych - zastosowania metodologiczne oraz bibliografia (apa 7) pokazuje pełny zakres omawianego zjawiska.## Bibliografia
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.

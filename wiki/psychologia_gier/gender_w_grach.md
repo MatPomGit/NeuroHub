@@ -1,13 +1,14 @@
 ---
-lastReviewed: 2026-04-01
+title: Płeć i tożsamość w grach
+content_type: article
+lastReviewed: 2026-05-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
-content_type: article
 ---
 
 # Płeć i tożsamość w grach
 
-## Płeć w przestrzeni gier - zarys problemu
+## Płeć w przestrzeni gier
 
 Przez dziesięciolecia gry wideo były postrzegane jako domena mężczyzn - zarówno pod względem graczy, twórców, jak i treści gier. Ten obraz jest jednak coraz mniej aktualny. Według danych ESA (Entertainment Software Association) z 2023 roku, w USA kobiety stanowią 48% graczy, a w Polsce odsetek kobiet grających regularnie przekracza 40%. Pomimo tego, kultura gamingowa wciąż zmaga się z nierównościami w reprezentacji, nasilonym nękaniem kobiet online i stereotypami dotyczącymi „prawdziwego gracza" (*gamer identity*).
 
@@ -129,36 +130,6 @@ Badania nad efektem reprezentacji wskazują, że widząc w grze postać, z któr
 
 Dla kobiet i osób z mniejszości, obecność znacząco buduje poczucie akceptacji i przynależności w środowisku tradycyjnie wykluczającym.
 
-
-
 Płeć i tożsamość w grach wideo to złożony obszar, w którym przecinają się kwestie reprezentacji medialnej, psychologii tożsamości, dynamiki społeczności online i nierówności strukturalnych. Klinicysta powinien być świadomy, że gry mogą być zarówno przestrzenią eksploracji i akceptacji tożsamości, jak i źródłem poważnych traum dla osób narażonych na online harassment. Budowanie inkluzywnych i bezpiecznych przestrzeni w kulturze gamingowej jest wspólnym zadaniem badaczy, twórców gier i społeczności graczy.
 
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Płeć i tożsamość w grach" polega na tym, że gry oddziałują nie przez sam fakt istnienia medium, lecz przez strukturę reguł, motywacji, relacji i czasu zaangażowania.
-
-Dopiero wspólna analiza zagadnień takich jak płeć w przestrzeni gier - zarys problemu, nękanie kobiet w grach online oraz wpływ reprezentacji na graczy pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Płeć i tożsamość w grach" pokazuje, że najbardziej trafne wnioski wymagają odróżnienia efektów samej gry od efektów kontekstu używania, podatności indywidualnych i funkcji, jaką gra pełni dla użytkownika.
-
-
-Dopiero wspólna analiza zagadnień takich jak płeć w przestrzeni gier - zarys problemu, nękanie kobiet w grach online oraz wpływ reprezentacji na graczy pokazuje pełny zakres omawianego zjawiska.
-
-## Podstawa źródłowa
-
-Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synteza psychologii naukowej VandenBos (2015) oraz właściwe dla rozpoznań kryteria ICD-11 (World Health Organization, 2022).
-
 ## Bibliografia
-
-- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/14646-000](https://doi.org/10.1037/14646-000)
-- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.

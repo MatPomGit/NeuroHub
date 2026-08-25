@@ -1,5 +1,6 @@
 ﻿---
-lastReviewed: 2026-04-01
+content_type: article
+lastReviewed: 2026-05-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
@@ -13,6 +14,7 @@ Dynamiczny rozwój technologii cyfrowych zmienił oblicze praktyki psychologiczn
 ### Specyfika danych psychologicznych
 
 Dane terapeutyczne należą do **szczególnych kategorii danych osobowych** (art. 9 RODO) - danych dotyczących zdrowia. Ich przetwarzanie wymaga:
+
 - Wyraźnej zgody osoby, której dane dotyczą
 - Lub innej podstawy prawnej (np. ochrona żywotnych interesów)
 - Ścisłego przestrzegania zasad minimalizacji i ograniczenia celu
@@ -67,6 +69,7 @@ Relacja terapeutyczna przez ekran różni się od kontaktu bezpośredniego:
 ### Kwestie sojuszu terapeutycznego
 
 Badania (Simpson i in., 2021) wskazują, że **sojusz terapeutyczny w e-terapii jest porównywalny** do kontaktu bezpośredniego, ale wymaga:
+
 - Explicite omawiania wyzwań technologicznych
 - Regularnej oceny jakości połączenia i przestrzeni
 - Kreatywnego budowania obecności terapeutycznej
@@ -76,6 +79,7 @@ Badania (Simpson i in., 2021) wskazują, że **sojusz terapeutyczny w e-terapii 
 ### Media społecznościowe
 
 Psycholog i klient mogą być „znajomymi" w mediach społecznościowych. Etyczne problemy:
+
 - Klient widzi prywatne posty terapeuty - zaciera granice między rolami
 - Terapeuta może przypadkowo zobaczyć profil klienta - informacje poza kontekstem terapeutycznym
 - **Zasada ogólna**: relacje w mediach społecznościowych z klientami są **niedopuszczalne** w trakcie terapii
@@ -83,6 +87,7 @@ Psycholog i klient mogą być „znajomymi" w mediach społecznościowych. Etycz
 ### Selfie z klientem
 
 Klient prosi o wspólne zdjęcie po sesji. Terapeuta może czuć społeczną presję do akceptacji.
+
 - Narusza granice relacji terapeutycznej
 - Może prowadzić do udostępnienia w mediach - naruszenie poufności
 - Zachowanie jasnych granic jest profesjonalne i chroni obie strony
@@ -90,6 +95,7 @@ Klient prosi o wspólne zdjęcie po sesji. Terapeuta może czuć społeczną pre
 ### Komunikacja między sesjami
 
 Czy klient może pisać do terapeuty między sesjami? E-mail, SMS, WhatsApp - każde medium ma inne implikacje:
+
 - Pilne kryzysy wymagają jasnych procedur (numer telefonu kryzysowego)
 - Zwykła komunikacja między sesjami - uzgodniona z góry, z jasnymi granicami czasowymi
 - Brak jasnych granic prowadzi do przekroczenia granic roli i wypalenia terapeuty
@@ -125,12 +131,14 @@ Czy klient może pisać do terapeuty między sesjami? E-mail, SMS, WhatsApp - ka
 ### Dylemat tożsamości
 
 Czy można prowadzić terapię z osobą, której tożsamości nie znamy? W Polsce - prawnie problematyczne. Etycznie:
+
 - Anonimowość może ułatwiać ujawnienie (mniej wstydu, mniejsze ryzyko stygmatyzacji)
 - Ale uniemożliwia interwencję kryzysową, weryfikację wieku, ocenę ryzyka
 
 ### Kryzysy online
 
 Co gdy klient w trakcie sesji online ujawnia myśli suicydalne i nagle się rozłącza? Psycholog powinien mieć **protokół kryzysowy online**:
+
 - Numer telefonu kontaktowego klienta (przed pierwszą sesją)
 - Lokalny numer pogotowia kryzysowego klienta
 - Jasna procedura dla sytuacji utraty kontaktu
@@ -146,7 +154,9 @@ Pojawienie się platform takich jak BetterHelp, Talkspace (za granicą) lub Mind
 
 **Zasada**: psycholog wybierając platformę jest odpowiedzialny za weryfikację, że spełnia standardy etyczne i prawne.
 
----## Bibliografia
+---
+
+## Bibliografia
 
 1. American Psychological Association (2020). *Guidelines for the Practice of Telepsychology*. APA.
 2. Simpson, S. G., & Reid, C. L. (2014). Therapeutic alliance in videoconferencing psychotherapy: A review. *Australian Journal of Rural Health, 22*(6), 280–299.
@@ -154,26 +164,3 @@ Pojawienie się platform takich jak BetterHelp, Talkspace (za granicą) lub Mind
 4. Stoll, J., Müller, J. A., & Trachsel, M. (2020). Ethical issues in online psychotherapy: A narrative review. *Frontiers in Psychiatry, 10*, 993.
 5. Luxton, D. D., Nelson, E. L., & Maheu, M. M. (2016). *A Practitioner's Guide to Telemental Health*. APA.
 6. Bickman, L., Kelley, S. D., & Athay, M. (2012). The technology of measurement feedback systems. *Couple and Family Psychology, 1*(4), 274–284.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Etyka w psychologii cyfrowej i e-terapii" polega na tym, że etyka zawodowa nie sprowadza się do mechanicznego stosowania reguł, lecz wymaga ważenia dóbr, ryzyk i odpowiedzialności w warunkach niepewności.
-
-Dopiero wspólna analiza zagadnień takich jak prywatność i rodo w terapii online, granice w terapii online oraz platformy komercyjne vs. profesjonalne pokazuje pełny zakres omawianego zjawiska.
-
-Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
-
-## Podsumowanie
-
-Temat "Etyka w psychologii cyfrowej i e-terapii" pokazuje, że najbardziej dojrzałe wnioski etyczne wynikają z łączenia zasad, kontekstu sytuacyjnego i refleksji nad skutkami decyzji.
-
-
-Dopiero wspólna analiza zagadnień takich jak prywatność i rodo w terapii online, granice w terapii online oraz platformy komercyjne vs. profesjonalne pokazuje pełny zakres omawianego zjawiska.
-
-## Bibliografia
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.

@@ -1,8 +1,9 @@
 ---
-lastReviewed: 2026-04-01
+title: Chronopsychologia
+content_type: article
+lastReviewed: 2026-08-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
-content_type: article
 ---
 
 # Chronopsychologia
@@ -61,7 +62,7 @@ Silna aktywacja emocjonalna zmienia tempo „wewnętrznego zegara”, dlatego cz
 
 Jedno z podejść zakłada, że im więcej zasobów uwagi kierujemy na upływ czasu, tym dłuższy wydaje się odcinek. Kiedy uwaga jest pochłonięta zadaniem, mniej „monitorujemy” czas i odczuwamy jego szybszy bieg.
 
-## Czas a umysł: najważniejsze mechanizmy
+## Czas, a umysł
 
 ## 1. Czas i pamięć
 
@@ -136,36 +137,4 @@ Chronopsychologia ma zastosowanie m.in. w:
 - terapii (stabilizacja rytmu w zaburzeniach nastroju i bezsenności),
 - coachingu i rozwoju osobistym (praca z prokrastynacją i planowaniem celów).
 
-
-
 Chronopsychologia pokazuje, że dobrostan psychiczny i skuteczność poznawcza zależą nie tylko od *tego, co robimy*, ale też od *kiedy to robimy* i *jak odczuwamy upływ czasu*. Dostosowanie zadań do chronotypu, regularny sen oraz świadome zarządzanie perspektywą czasową to interwencje o dużym znaczeniu klinicznym, edukacyjnym i społecznym.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Chronopsychologia" polega na tym, że mechanizmy biologiczne rzadko działają w izolacji; ich znaczenie ujawnia się dopiero w powiązaniu z rozwojem, środowiskiem i zachowaniem.
-
-Dopiero wspólna analiza zagadnień takich jak czym różni się od chronobiologii?, czas i podejmowanie decyzji oraz zastosowania praktyczne pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Chronopsychologia" pokazuje, że kluczowe pozostaje łączenie poziomu biologicznego z funkcjonalnym, aby uniknąć uproszczenia złożonych zjawisk psychicznych do jednej przyczyny.
-
-
-Dopiero wspólna analiza zagadnień takich jak czym różni się od chronobiologii?, czas i podejmowanie decyzji oraz zastosowania praktyczne pokazuje pełny zakres omawianego zjawiska.
-
-## Podstawa źródłowa
-
-Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synteza psychologii naukowej VandenBos (2015) oraz właściwe dla rozpoznań kryteria ICD-11 (World Health Organization, 2022).
-
-## Bibliografia
-
-- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/14646-000](https://doi.org/10.1037/14646-000)
-- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.

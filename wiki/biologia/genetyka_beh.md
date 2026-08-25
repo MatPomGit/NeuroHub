@@ -1,5 +1,5 @@
 ﻿---
-lastReviewed: 2026-04-01
+lastReviewed: 2026-08-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
@@ -15,6 +15,7 @@ Genetyka behawioralna bada dziedziczne podłoże zachowania, osobowości, zdolno
 **Bliźnięta jednojajowe (MZ)** dzielą 100% DNA, **dwujajowe (DZ)** - ok. 50%, podobnie jak rodzeństwo. Porównując podobieństwo MZ i DZ w danej cesze, można oszacować **odziedziczalność**.
 
 Kluczowe odkrycia z badań bliźniąt:
+
 - Odziedziczalność inteligencji: ~50% u dzieci, ~70–80% u dorosłych
 - Odziedziczalność cech osobowości (Wielka Piątka): ~40–60%
 - Odziedziczalność depresji: ~40%, schizofrenii: ~80%
@@ -41,7 +42,6 @@ Eric Turkheimer (2000) sformułował empiryczne prawa:
 
 **Epigenetyka** bada zmiany w ekspresji genów bez zmian w sekwencji DNA. Mechanizmy obejmują metylację DNA i modyfikacje histonów. Niektóre zmiany mogą być dziedziczone.
 
-Znaczenie kliniczne:
 - Traumy mogą powodować epigenetyczne zmiany wpływające na regulację osi HPA i reaktywność stresową
 - Skrajne zaniedbanie we wczesnym dzieciństwie pozostawia epigenetyczne "blizny" wpływające na długoterminowe funkcjonowanie
 - Badania nad dziećmi ofiar Holokaustu sugerują transpokoleniowe przekazywanie śladów stresu
@@ -53,6 +53,7 @@ Genetyczne predyspozycje i środowisko nie działają niezależnie:
 **Interakcja G×E:** Efekt środowiska jest różny u osób z różnymi genotypami. Przykład: osoby z określonymi polimorfizmami genów serotoninergicznych reagują silniej na stresujące życiowe wydarzenia rozwojem depresji.
 
 **Korelacja G-E** (Scarr i McCartney):
+
 - *Pasywna* - rodzice przekazują zarówno geny, jak i środowisko (czytelne rodziny kupują książki i mają zdolne dzieci)
 - *Reaktywna* - środowisko reaguje na cechy jednostki (inteligentne dziecko dostaje trudniejsze zadania)
 - *Aktywna* - jednostka aktywnie poszukuje środowisk zgodnych z genotypem
@@ -74,26 +75,3 @@ Genetyka behawioralna rodzi ważne pytania: Czy wiedza o ryzyku genetycznym moż
 Ważne: odziedziczalność opisuje populację, nie jednostkę. Wysoka odziedziczalność cechy nie oznacza, że interwencje środowiskowe są bezcelowe - jodowanie soli zredukowało niedobory jodu mimo wysokiej odziedziczalności inteligencji.
 
 > **Podsumowanie:** Zarówno natura, jak i wychowanie są niezbędne - ich wpływy są subtelnie splecione przez całe życie. Geny nie są przeznaczeniem; są wyposażeniem startowym kształtowanym przez doświadczenia.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Genetyka behawioralna" polega na tym, że mechanizmy biologiczne rzadko działają w izolacji; ich znaczenie ujawnia się dopiero w powiązaniu z rozwojem, środowiskiem i zachowaniem.
-
-Dopiero wspólna analiza zagadnień takich jak podstawowe metody badawcze, interakcja genotyp-środowisko oraz implikacje etyczne pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Genetyka behawioralna" pokazuje, że kluczowe pozostaje łączenie poziomu biologicznego z funkcjonalnym, aby uniknąć uproszczenia złożonych zjawisk psychicznych do jednej przyczyny.
-
-
-Dopiero wspólna analiza zagadnień takich jak podstawowe metody badawcze, interakcja genotyp-środowisko oraz implikacje etyczne pokazuje pełny zakres omawianego zjawiska.
-
-## Bibliografia
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.

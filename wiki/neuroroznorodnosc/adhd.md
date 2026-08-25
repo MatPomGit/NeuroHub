@@ -1,17 +1,20 @@
 ---
-lastReviewed: 2026-07-29
+title: ADHD
+content_type: article
+lastReviewed: 2026-08-25
 reviewCycleMonths: 18
 evidenceCutoffDate: 2026-07-29
 aliases:
   - zespół nadpobudliwości psychoruchowej z deficytem uwagi
   - attention-deficit/hyperactivity disorder
+  - adhd
 ---
 
 # ADHD
 
 ADHD jest zaburzeniem neurorozwojowym, w którym utrwalone trudności z regulacją uwagi, aktywności lub impulsywności są nieadekwatne do etapu rozwoju i istotnie utrudniają funkcjonowanie. Perspektywa neuroróżnorodności uzupełnia opis kliniczny o wpływ środowiska, indywidualny profil potrzeb i zasobów. Nie znosi jednak kryterium cierpienia albo ograniczenia funkcjonowania, które uzasadnia diagnozę i pomoc.
 
-## Najważniejsze informacje
+## Wprowadzenie
 
 - ADHD może występować u dzieci, młodzieży i dorosłych, a jego obraz zmienia się z wiekiem.
 - Rozpoznanie jest kliniczne. Nie istnieje pojedynczy test psychologiczny, neurologiczny ani laboratoryjny, który sam potwierdza ADHD.
@@ -76,7 +79,7 @@ Leki stymulujące i niestymulujące mogą zmniejszać objawy, ale wymagają kwal
 
 ## Perspektywa neuroróżnorodności
 
-Perspektywa neuroróżnorodności zwraca uwagę, że ograniczenie może powstawać w relacji między profilem osoby a wymaganiami otoczenia. Sprzyja niestygmatyzującemu językowi, współdecydowaniu i poszukiwaniu dostosowań. Nie uzasadnia jednak przypisywania wszystkim osobom z ADHD takich samych „mocnych stron”. Kreatywność, skłonność do podejmowania ryzyka czy intensywne zaangażowanie w zainteresowania są zmienne i nie stanowią kryteriów ADHD.
+Ograniczenie może powstawać w relacji między profilem osoby a wymaganiami otoczenia. Sprzyja niestygmatyzującemu językowi, współdecydowaniu i poszukiwaniu dostosowań. Nie uzasadnia jednak przypisywania wszystkim osobom z ADHD takich samych „mocnych stron”. Kreatywność, skłonność do podejmowania ryzyka czy intensywne zaangażowanie w zainteresowania są zmienne i nie stanowią kryteriów ADHD.
 
 Najbardziej użyteczne podejście łączy uznanie realnych trudności z poszanowaniem autonomii. Celem nie jest ujednolicenie zachowania, lecz zmniejszenie cierpienia, ryzyka i barier oraz poprawa możliwości działania zgodnie z własnymi celami.
 
@@ -90,6 +93,12 @@ Najbardziej użyteczne podejście łączy uznanie realnych trudności z poszanow
 ## Podsumowanie
 
 ADHD jest zróżnicowanym zaburzeniem neurorozwojowym wymagającym wieloźródłowej oceny. Diagnoza ma wyjaśniać trudności i prowadzić do adekwatnej pomocy, a nie redukować osobę do etykiety. Połączenie wiedzy klinicznej z perspektywą neuroróżnorodności pozwala jednocześnie uwzględnić ograniczenia, zasoby i bariery środowiskowe.
+
+## Zobacz również
+
+- [pages/adhd_2.html](Strona o ADHD)
+- [pages/asd.html](Strona o ASD)
+- [pages/Raport_neuroroznorodnosci.html](Neuroróżnorodność na rynku pracy)
 
 ## Bibliografia
 

@@ -8,7 +8,7 @@ aliases:
 
 # Teorie temperamentu
 
-## Najważniejsze informacje
+## Wprowadzenie
 
 Temperament oznacza względnie trwałe różnice indywidualne w **reaktywności** oraz **samoregulacji**, widoczne już wcześnie w rozwoju i uwarunkowane biologicznie, lecz kształtujące się w transakcjach z otoczeniem. Opisuje przede wszystkim formalne cechy zachowania: jak łatwo, jak silnie i jak długo człowiek reaguje oraz jak reguluje pobudzenie. Nie wyznacza konkretnej treści przekonań ani losu jednostki.
 

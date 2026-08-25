@@ -9,7 +9,7 @@ aliases:
 
 # Gry w terapii, rehabilitacji i esporcie
 
-## Najważniejsze informacje
+## Wprowadzenie
 
 - Gra projektowana jako interwencja, produkt komercyjny użyty pomocniczo i gamifikacja to trzy różne rozwiązania. Dowodów na jedno z nich nie wolno przenosić automatycznie na pozostałe.
 - Wynik zależy od diagnozy, mechaniki, dawki, wsparcia specjalisty, komparatora i badanego rezultatu. „Gry terapeutyczne” nie są jednorodną metodą.

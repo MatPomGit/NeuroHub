@@ -9,7 +9,7 @@ aliases:
 
 # Terapie systemowe i rodzinne
 
-## Najważniejsze informacje
+## Wprowadzenie
 
 **Terapie systemowe i rodzinne** to rodzina podejść, które ujmują trudność w kontekście relacji, rozwoju i środowiska społecznego. Nie tworzą jednej metody. Szkoły strukturalna, bowenowska i narracyjna różnią się teorią zmiany, pozycją terapeuty i technikami, a współczesne programy o najlepszym wsparciu badawczym często łączą interwencje rodzinne z procedurami swoistymi dla problemu.
 

@@ -1,5 +1,6 @@
 ﻿---
-lastReviewed: 2026-04-01
+content_type: article
+lastReviewed: 2026-05-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
@@ -11,6 +12,7 @@ Praktyka psychologiczna rzadko przebiega według prostych reguł. **Dylemat etyc
 ## Czym jest dylemat etyczny?
 
 Dylemat etyczny różni się od **problemu etycznego**:
+
 - **Problem etyczny** - sytuacja, w której nie wiemy, co jest właściwe, bo brakuje nam informacji lub wiedzy o zasadach
 - **Dylemat etyczny** - sytuacja, w której wiemy, jakie zasady są relewantne, ale są one ze sobą **sprzeczne**
 
@@ -21,15 +23,19 @@ Klasyczny dylemat: klient wyjawia zamiar skrzywdzenia osoby trzeciej. Zasada pou
 Karen Kitchener (1984) - jeden z najbardziej wpływowych modeli rozwiązywania dylematów etycznych, rozwinięty przez Beauchamp i Childress:
 
 ### Krok 1: Identyfikacja problemu
+
 Czy to problem etyczny czy tylko trudna sytuacja kliniczna? Jakie wartości lub zasady są zaangażowane?
 
 ### Krok 2: Zebranie faktów
+
 Jakie informacje są znane? Co jest niepewne? Kto jest zaangażowany?
 
 ### Krok 3: Identyfikacja możliwych działań
+
 Jakie opcje postępowania są dostępne? (Bez oceny na tym etapie)
 
 ### Krok 4: Rozważenie zasad etycznych
+
 Które zasady są relewantne?
 
 | Zasada | Treść | Zastosowanie |
@@ -41,15 +47,19 @@ Które zasady są relewantne?
 | **Wierność** | Dotrzymywanie obietnic | Poufność, kontrakty terapeutyczne |
 
 ### Krok 5: Konsultacja
+
 Superwizja, opinia prawna, kolega z doświadczeniem w danym obszarze, komisja etyczna.
 
 ### Krok 6: Rozważenie praw, przepisów i polityk
+
 Ustawa o zawodzie psychologa (2001), RODO, Kodeks PTP, regulaminy instytucji.
 
 ### Krok 7: Podjęcie decyzji i działanie
+
 Wybór opcji z najlepszym uzasadnieniem etycznym i udokumentowanie procesu decyzyjnego.
 
 ### Krok 8: Refleksja i ocena
+
 Po zakończeniu - czy decyzja przyniosła zamierzony efekt? Czego nauczyłem się na przyszłość?
 
 ## Dylematy wielorelacyjne (*dual relationships*)
@@ -71,6 +81,7 @@ Podwójna rola pojawia się, gdy psycholog pozostaje z klientem **zarówno w rel
 ### Zasada zarządzania, nie eliminacji
 
 Nie każda podwójna rola jest nieetyczna. Szczególnie w małych społecznościach lub wąskich środowiskach (LGBTQ+, mniejszości etniczne, wiejskie wspólnoty) całkowite unikanie jest niemożliwe. Kluczowe pytania:
+
 - Czy rola szkodzi klientowi?
 - Czy zaburza obiektywizm?
 - Czy klient wyraził świadomą zgodę?
@@ -97,6 +108,7 @@ Przykład: klient w trakcie terapii wyznaje, że kilka lat temu dopuścił się 
 ### Kto jest klientem?
 
 Gdy terapia dotyczy dziecka:
+
 - Rodzice mają prawa opiekuńcze, w tym prawo do informacji
 - Dziecko ma prawo do autonomii i intymności (rośnie z wiekiem)
 - Interes dziecka może być sprzeczny z oczekiwaniami rodziców
@@ -119,6 +131,7 @@ W terapii par lub rodzin psycholog pracuje z systemem - nie indywidualnym klient
 ## Dokumentacja i ochrona psychologa
 
 W każdym dylemacie etycznym **dokumentacja procesu decyzyjnego** jest kluczowa:
+
 - Zapis rozważanych opcji
 - Źródła konsultowane
 - Uzasadnienie podjętej decyzji
@@ -135,25 +148,7 @@ Dokumentacja chroni zarówno klienta (transparentność), jak i psychologa (wyka
 5. Knapp, S. J., & VandeCreek, L. D. (2012). *Practical Ethics for Psychologists: A Positive Approach* (2nd ed.). APA.
 6. Polskie Towarzystwo Psychologiczne (2018). *Kodeks Etyczno-Zawodowy Psychologa*. PTP.
 
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Dylematy etyczne w praktyce psychologa" polega na tym, że etyka zawodowa nie sprowadza się do mechanicznego stosowania reguł, lecz wymaga ważenia dóbr, ryzyk i odpowiedzialności w warunkach niepewności.
-
-Dopiero wspólna analiza zagadnień takich jak czym jest dylemat etyczny?, dylematy konfidencjalności oraz dokumentacja i ochrona psychologa pokazuje pełny zakres omawianego zjawiska.
-
-Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
-
-## Podsumowanie
-
-Temat "Dylematy etyczne w praktyce psychologa" pokazuje, że najbardziej dojrzałe wnioski etyczne wynikają z łączenia zasad, kontekstu sytuacyjnego i refleksji nad skutkami decyzji.
-
-
-Dopiero wspólna analiza zagadnień takich jak czym jest dylemat etyczny?, dylematy konfidencjalności oraz dokumentacja i ochrona psychologa pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+

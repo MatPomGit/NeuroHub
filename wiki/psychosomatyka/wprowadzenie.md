@@ -9,7 +9,7 @@ aliases:
 
 # Podstawy i modele psychosomatyki
 
-## Najważniejsze informacje
+## Wprowadzenie
 
 - Psychosomatyka bada **dwukierunkowe** zależności między procesami biologicznymi, psychicznymi i społecznymi. Określenie „psychosomatyczny” nie znaczy „urojony”, „wymyślony” ani „pozbawiony biologicznej podstawy”.
 - Współczesne modele nie przypisują pojedynczej chorobie jednego konfliktu ani jednej osobowości. Pytają, jak podatność biologiczna, środowisko, stres, sposób interpretacji objawów i zachowania zdrowotne współdziałają u konkretnej osoby.

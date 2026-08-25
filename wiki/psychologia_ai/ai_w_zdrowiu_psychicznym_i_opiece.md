@@ -1,5 +1,7 @@
 ---
-lastReviewed: 2026-07-31
+title: AI w zdrowiu psychicznym
+content_type: article
+lastReviewed: 2026-08-25
 reviewCycleMonths: 12
 evidenceCutoffDate: 2026-07-31
 aliases:
@@ -7,9 +9,9 @@ aliases:
   - AI w opiece psychologicznej
 ---
 
-# AI w zdrowiu psychicznym i opiece
+# AI w zdrowiu psychicznym
 
-## Najważniejsze informacje
+## Wprowadzenie
 
 Systemy AI mogą wspierać przesiew, dokumentację, psychoedukację, trening umiejętności, monitorowanie objawów i opiekę społeczną. Dowody są jednak nierówne: wynik kontrolowanego badania konkretnej interwencji nie uprawnia do wnioskowania o każdym chatbocie ani o systemie zmienionym po badaniu.
 

@@ -1,8 +1,5 @@
 ---
 content_type: article
----
-
-﻿---
 lastReviewed: 2026-04-29
 reviewCycleMonths: 24
 evidenceCutoffDate: 2026-04-01
@@ -41,28 +38,20 @@ W rehabilitacji neuropsychologicznej warto rozdzielać trening percepcyjny od tr
 **Konsekwencja:** lepsze wykorzystanie zachowanych zasobów działania przy jednoczesnym kompensowaniu deficytów rozpoznawania.
 
 ### Zła praktyka
+
 Założenie, że jeśli pacjent nie umie nazwać obiektu, to nie będzie w stanie funkcjonalnie manipulować nim w codziennych czynnościach.
 
 **Konsekwencja:** zbyt pesymistyczna prognoza i niepotrzebne ograniczanie samodzielności.
 
-## Perspektywa nieoczywista
+## Nieoczywiste spojrzenie
 
 W edukacji popularnej często przeciwstawia się „umysł” i „ciało”. Przypadek D.F. pokazuje, że sprawne działanie może wyprzedzać świadome rozpoznanie: ciało „wie”, jak wykonać ruch, nawet gdy opis słowny bodźca jest niepełny.
 
 To wspiera ucieleśnione podejście do poznania, w którym inteligencja nie jest wyłącznie reprezentacją symboliczną, ale także dynamiczną kontrolą sensomotoryczną.
 
-
-
 D.F. dostarczyła jednych z najbardziej przekonujących danych na temat funkcjonalnego podziału przetwarzania wzrokowego. Klinicznie jej przypadek przypomina, że ocena pacjenta powinna obejmować zarówno to, co umie on opisać, jak i to, co potrafi skutecznie zrobić.
 
-## Podstawa źródłowa
-
-Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synteza psychologii naukowej VandenBos (2015) oraz właściwe dla rozpoznań kryteria ICD-11 (World Health Organization, 2022).
-
 ## Bibliografia
-
-- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/14646-000](https://doi.org/10.1037/14646-000)
-- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
 
 1. Milner, A. D., Goodale, M. A. (1995). *The Visual Brain in Action*. Oxford University Press.
 2. Goodale, M. A., Milner, A. D., Jakobson, L. S., & Carey, D. P. (1991). A neurological dissociation between perceiving objects and grasping them. *Nature*, 349, 154–156.

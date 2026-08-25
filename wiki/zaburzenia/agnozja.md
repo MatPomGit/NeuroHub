@@ -1,5 +1,6 @@
 ﻿---
-lastReviewed: 2026-04-01
+content_type: article
+lastReviewed: 2026-05-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
@@ -15,6 +16,8 @@ Agnozja to jeden z najbardziej intrygujących fenomenów neuropsychologii: pacje
 **Agnozja wzrokowa** - pacjent widzi kształty, kolory, kontury, lecz nie może rozpoznać i nazwać przedmiotów, twarzy czy innych bodźców wzrokowych. Identyfikacja jest możliwa przez inne zmysły (dotyk, słuch).
 
 Klasyczny opis neurolog Oliver Sacks: Pacjent "Człowiek, który pomylił żonę z kapeluszem" (P.D.) - profesor muzyki, który nie mógł rozpoznać twarzy żony, kapeluszy, własnej głowy, lecz opisywał szczegółowe cechy wzrokowe obiektów, których nie identyfikował.
+
+---
 
 ## Dwa szlaki wzrokowe i typy agnozji
 
@@ -34,17 +37,22 @@ Percepcja jest zachowana (pacjent kopiuje rysunki poprawnie), lecz zerwane jest 
 
 Agnozja asocjacyjna wiąże się z uszkodzeniami połączeń między korą skroniową dolną (percepcja) a obszarami semantycznymi.
 
-## Prozopagnozja - agnozja twarzy
+---
+
+## Prozopagnozja (agnozja twarzy)
 
 **Prozopagnozja** (gr. *prosopon* - twarz) to selektywna niemożność rozpoznawania twarzy. Pacjent nie rozpoznaje twarzy bliskich, sławnych osób, własnej twarzy w lustrze - mimo zachowanego rozpoznawania innych obiektów wzrokowych.
 
 **Dlaczego twarze są wyjątkowe?** Twarz to klasa obiektów, dla których mózg ewolucyjnie rozwinął wyspecjalizowany system przetwarzania - **Twarzowy Obszar Wrzecionowaty (FFA, fusiform face area)** w zakręcie wrzecionowatym. FFA reaguje silniej na twarze niż na inne obiekty i przetwarzaje je holistycznie (całościowo), nie jako sumę cech.
 
 Prozopagnozja może być:
+
 - **Nabyta** - po uszkodzeniu dwustronnego zakrętu wrzecionowatego i okolic (udar, TBI, zapalenie mózgu);
 - **Wrodzona (developmental prosopagnosia)** - szacuje się, że dotyka ok. 2–2,5% populacji; genetycznie uwarunkowana, bez uszkodzenia mózgu. Wiele takich osób przez całe życie nie wie, że cokolwiek jest z nimi "nie tak" - myśli, że wszyscy mają podobne trudności z rozpoznawaniem twarzy.
 
 > **Ciekawostka:** Prosopagnozja i "super-rozpoznawacze" (super-recognizers) to dwa krańce kontinuum. Super-recognizers - ok. 1–2% populacji - mają wyjątkową zdolność rozpoznawania twarzy nawet po wielu latach, z profilu, w złym oświetleniu. Policja metropolitarna w Londynie aktywnie rekrutuje super-recognizers do analizy nagrań z kamer.
+
+---
 
 ## Inne typy agnozji wzrokowej
 
@@ -56,9 +64,12 @@ Prozopagnozja może być:
 
 **Agnozja wzrokowo-werbalna (alexia sine agraphia)** - niemożność czytania przy zachowanej zdolności pisania. Wzrokowe obrazy liter nie są "rozpoznawane" jako litery.
 
+---
+
 ## Diagnostyka
 
 Ocena obejmuje:
+
 - Identyfikacja przedmiotów (obrazki, obiekty) i twarzy;
 - Porównywanie podobieństwa figur;
 - Kopiowanie rysunków;
@@ -67,29 +78,8 @@ Ocena obejmuje:
 
 Testy: Boston Naming Test, Test Rozpoznawania Twarzy (Benton), VOSP (Visual Object and Space Perception Battery).
 
+---
+
 ## Znaczenie dla teorii percepcji
 
 Agnozje wzrokowe są "naturalnym eksperymentem" testującym teorie percepcji i reprezentacji wiedzy. Pokazują, że widzenie to nie naiwne rejestrowanie - to aktywna, wieloetapowa rekonstrukcja, w której percepcja i wiedza semantyczna są odrębnymi procesami, które mogą ulec selektywnym uszkodzeniom.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Agnozja wzrokowa" polega na tym, że opis zaburzenia jest użyteczny dopiero wtedy, gdy łączy kryteria rozpoznania z mechanizmami, funkcjonowaniem i zróżnicowaniem przebiegu.
-
-Dopiero wspólna analiza zagadnień takich jak definicja, inne typy agnozji wzrokowej oraz znaczenie dla teorii percepcji pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Agnozja wzrokowa" pokazuje, że najbardziej wartościowe podsumowanie wymaga połączenia obrazu klinicznego z różnicowaniem, rokowaniem i implikacjami dla wsparcia.
-
-
-Dopiero wspólna analiza zagadnień takich jak definicja, inne typy agnozji wzrokowej oraz znaczenie dla teorii percepcji pokazuje pełny zakres omawianego zjawiska.
-
-## Bibliografia
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.

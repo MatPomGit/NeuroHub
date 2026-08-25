@@ -1,5 +1,6 @@
 ﻿---
-lastReviewed: 2026-04-01
+content_type: article
+lastReviewed: 2026-05-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
@@ -17,6 +18,7 @@ Praca powinna zawierać: tytuł, imię i nazwisko autora, imię i nazwisko promo
 ### Streszczenie (abstrakt)
 
 Streszczenie (150–300 słów) zawiera **skondensowaną informację** o:
+
 - celu i pytaniach badawczych
 - metodzie (próba, narzędzia, procedura)
 - wynikach
@@ -31,6 +33,7 @@ Automatycznie generowany w edytorze tekstów, zgodny z numeracją rozdziałów. 
 ### Wstęp
 
 Wstęp pełni kilka funkcji:
+
 1. **Wprowadzenie w temat** - ogólna prezentacja problemu badawczego
 2. **Uzasadnienie ważności badań** - dlaczego temat jest istotny (teoretycznie i/lub praktycznie)
 3. **Cel i zakres pracy** - czego dotyczy praca i co obejmuje
@@ -41,6 +44,7 @@ Wstęp powinien zachęcić czytelnika do lektury. Unika się w nim tez, które n
 ### Część teoretyczna (przegląd literatury)
 
 To najobszerniejsza część w pracach ilościowych i przeglądowych. Jej zadaniem jest:
+
 - **Zdefiniowanie kluczowych pojęć** - każdy termin używany w badaniu powinien być zdefiniowany
 - **Prezentacja teorii i modeli** - jakie wyjaśnienia istnieją dla badanego zjawiska?
 - **Przegląd dotychczasowych badań** - jakie wyniki zostały już uzyskane?
@@ -51,6 +55,7 @@ Przegląd literatury prowadzi logicznie do sformułowania pytań badawczych lub 
 ### Pytania badawcze i hipotezy
 
 W oddzielnym podrozdziale lub na końcu części teoretycznej student formułuje:
+
 - **Główne pytanie badawcze** (ew. kilka pytań szczegółowych)
 - **Hipotezy** - sformułowane jako twierdzenia o spodziewanych wynikach (H1: ..., H2: ...) lub hipotezy zerowe (H0)
 
@@ -69,6 +74,7 @@ Rozdział metodologiczny opisuje, **jak** zrealizowano badanie. Powinien być ta
 ### Wyniki
 
 Rozdział wyników zawiera **opis faktycznych danych** bez ich interpretacji. Standardowe elementy:
+
 - Statystyki opisowe (M, SD, min, max, rozkłady)
 - Wyniki analiz inferensyjnych (testy t, ANOVA, regresja, korelacje - z wartościami statystyk testowych, df, p i miarami efektu)
 - Tabele i wykresy z pełnymi podpisami
@@ -79,6 +85,7 @@ Wyniki prezentuje się obiektywnie, bez wyprzedzającego interpretowania.
 ### Dyskusja
 
 Dyskusja to serce pracy naukowej - tu student wykazuje **zrozumienie** wyników:
+
 - **Potwierdzenie lub odrzucenie hipotez** - co oznaczają wyniki?
 - **Porównanie z literaturą** - czy wyniki są zgodne z poprzednimi badaniami? Jeśli nie - dlaczego?
 - **Wyjaśnienie rozbieżności** - arterfakty metodologiczne, różnice kulturowe, specyfika próby
@@ -86,10 +93,8 @@ Dyskusja to serce pracy naukowej - tu student wykazuje **zrozumienie** wyników:
 - **Implikacje teoretyczne i praktyczne** - co daje to badanie nauce i praktyce?
 - **Kierunki przyszłych badań** - jakie pytania pozostają otwarte?
 
-#
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu. i wnioski
-
 Krótkie zakończenie (1–2 strony), zawierające:
+
 - Syntetyczne podsumowanie wyników
 - Odpowiedź na pytanie badawcze
 - Główny wniosek i jego znaczenie
@@ -107,26 +112,3 @@ Aneksy zawierają materiały pomocnicze: użyte kwestionariusze, zgody etyczne, 
 Typowa praca magisterska w psychologii liczy **60–100 stron** tekstu (bez aneksów). Marginesy, interlinia, krój i rozmiar czcionki określa uczelnia - najczęściej jest to Times New Roman 12 pt, interlinia 1,5, marginesy 2,5 cm.
 
 > **Wskazówka:** Zacznij pisać jak najwcześniej - nawet niedoskonały szkic możesz poprawić. Oczekiwanie na „gotowość" to najczęstszy powód opóźnień.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Struktura pracy magisterskiej" polega na tym, że najczęstsze trudności w pracy dyplomowej wynikają nie z braku pojedynczej informacji, lecz z jakości planowania, konsekwencji metodologicznej i dyscypliny redakcyjnej.
-
-Dopiero zestawienie takich obszarów jak standardowe rozdziały pracy magisterskiej oraz formatowanie i objętość pokazuje pełny ciężar omawianego zagadnienia.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Struktura pracy magisterskiej" pokazuje, że największą wartość daje traktowanie pracy badawczej jako procesu integrowania pytania, metody, analizy i argumentacji.
-
-
-Dopiero zestawienie takich obszarów jak standardowe rozdziały pracy magisterskiej oraz formatowanie i objętość pokazuje pełny ciężar omawianego zagadnienia.
-
-## Bibliografia
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.

@@ -1,11 +1,13 @@
 ---
-lastReviewed: 2026-07-31
-reviewCycleMonths: 24
-evidenceCutoffDate: 2025-12-31
+title: Interwencje wspomagane przez zwierzęta
 aliases:
   - animaloterapia
   - interwencje wspomagane przez zwierzęta
   - AAI
+content_type: article
+lastReviewed: 2026-07-31
+reviewCycleMonths: 24
+evidenceCutoffDate: 2025-12-31
 ---
 
 # Interwencje wspomagane przez zwierzęta

@@ -1,8 +1,5 @@
 ---
 content_type: article
----
-
-﻿---
 lastReviewed: 2026-04-30
 reviewCycleMonths: 24
 evidenceCutoffDate: 2026-04-01
@@ -41,28 +38,20 @@ W planowaniu diagnostyki łączyć dane neuroobrazowe z pogłębionym profilem n
 **Konsekwencja:** bardziej trafne różnicowanie między amnezją hipokampową, czołową i międzymózgowiową.
 
 ### Zła praktyka
+
 Wyciąganie wniosku, że „brak rozległego uszkodzenia hipokampa wyklucza poważną amnezję”.
 
 **Konsekwencja:** niedoszacowanie deficytu i opóźnienie wdrożenia wsparcia poznawczego.
 
-## Perspektywa nieoczywista
+## Podsumowanie
 
 W nauczaniu pamięci dominuje narracja „hipokampocentryczna”. N.A. przypomina, że pamięć deklaratywna jest własnością obwodów, a nie pojedynczego „centrum”.
 
 Ta perspektywa sprzyja bardziej realistycznym modelom rehabilitacji: poprawa funkcjonowania może wynikać z kompensacji sieciowej, nawet przy trwałym uszkodzeniu kluczowych węzłów.
 
-
-
 N.A. to przypadek fundamentalny dla rozumienia amnezji międzymózgowiowej i sieciowej architektury pamięci. Klinicznie wzmacnia potrzebę wielowymiarowej diagnozy i interwencji opartych na profilu funkcjonalnym, nie wyłącznie na lokalizacji pojedynczego uszkodzenia.
 
-## Podstawa źródłowa
-
-Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synteza psychologii naukowej VandenBos (2015) oraz właściwe dla rozpoznań kryteria ICD-11 (World Health Organization, 2022).
-
 ## Bibliografia
-
-- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/14646-000](https://doi.org/10.1037/14646-000)
-- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
 
 1. Teuber, H.-L., Milner, B., & Vaughan, H. G. (1968). Persistent anterograde amnesia after stab wound of the basal brain. *Neuropsychologia*, 6, 267–282.
 2. Squire, L. R., & Zola-Morgan, S. (1991). The medial temporal lobe memory system. *Science*, 253, 1380–1386.

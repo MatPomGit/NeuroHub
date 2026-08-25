@@ -9,7 +9,7 @@ aliases:
 
 # Psychologia interakcji człowiek–AI
 
-## Najważniejsze informacje
+## Wprowadzenie
 
 Interakcja człowiek–AI obejmuje kontakt z systemami językowymi, rekomendacyjnymi, decyzyjnymi oraz robotami. Jej jakość zależy nie tylko od trafności obliczeń, lecz także od tego, jak człowiek rozumie możliwości systemu, przypisuje mu intencje i kalibruje zaufanie.
 

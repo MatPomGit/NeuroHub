@@ -1,8 +1,5 @@
 ---
 content_type: article
----
-
-﻿---
 lastReviewed: 2026-04-29
 reviewCycleMonths: 24
 evidenceCutoffDate: 2026-04-01
@@ -44,28 +41,20 @@ W pracy klinicznej z osobami po urazach neurologicznych warto oddzielać deficyt
 **Konsekwencja:** trafniejsze planowanie psychoedukacji bezpieczeństwa i wsparcia środowiskowego.
 
 ### Zła praktyka
+
 Utożsamianie pojedynczego przypadku z uniwersalną regułą „amygdala = cały lęk” i przenoszenie tego uproszczenia bezpośrednio na psychoterapię lub farmakoterapię.
 
 **Konsekwencja:** błędne modele wyjaśniające, zbyt wąskie interwencje i pomijanie roli procesów poznawczych oraz interocepcji.
 
-## Perspektywa nieoczywista
+## Podsumowanie
 
 Dominująca narracja mówi, że lęk jest wyłącznie problemem klinicznym, który należy „wygasić”. Przypadek S.M. pokazuje odwrotną stronę: adekwatny lęk pełni funkcję ochronną i społeczną. Zbyt niski poziom reakcji strachu może zwiększać ekspozycję na przemoc, oszustwa i ryzykowne decyzje.
 
 To przesuwa akcent z pytania „jak usunąć lęk?” na pytanie „jak przywrócić proporcję między bezpieczeństwem a autonomią?”.
 
-
-
 S.M. dostarczyła mocnych dowodów, że ciało migdałowate jest kluczowe dla detekcji zagrożeń zewnętrznych, ekspresji strachu i społecznej ostrożności. Jednocześnie panika wywołana CO₂ wskazuje, że architektura lęku jest sieciowa, a nie jednowęzłowa. Klinicznie oznacza to konieczność wielopoziomowej oceny ryzyka, łączącej neurobiologię, zachowanie i kontekst środowiskowy.
 
-## Podstawa źródłowa
-
-Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synteza psychologii naukowej VandenBos (2015) oraz właściwe dla rozpoznań kryteria ICD-11 (World Health Organization, 2022).
-
 ## Bibliografia
-
-- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/14646-000](https://doi.org/10.1037/14646-000)
-- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
 
 1. Adolphs, R., Tranel, D., Damasio, H., & Damasio, A. R. (1994). Impaired recognition of emotion in facial expressions following bilateral damage to the human amygdala. *Nature*, 372, 669–672.
 2. Adolphs, R., Gosselin, F., Buchanan, T. W., Tranel, D., Schyns, P., & Damasio, A. R. (2005). A mechanism for impaired fear recognition after amygdala damage. *Nature*, 433, 68–72.

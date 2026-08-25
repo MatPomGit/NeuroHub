@@ -1,8 +1,5 @@
 ---
 content_type: article
----
-
-﻿---
 lastReviewed: 2026-04-30
 reviewCycleMonths: 24
 evidenceCutoffDate: 2026-04-01
@@ -41,28 +38,20 @@ W opiniowaniu neuropsychologicznym łączyć testy poznawcze z oceną funkcjonow
 **Konsekwencja:** mniejsze ryzyko fałszywie pozytywnego wniosku „funkcjonowanie prawidłowe”, gdy deficyt ujawnia się głównie w realnym życiu.
 
 ### Zła praktyka
+
 Opieranie oceny sprawności decyzyjnej wyłącznie na IQ i krótkich testach gabinetowych.
 
 **Konsekwencja:** przeoczenie dyseksekutywności społecznej oraz błędne rekomendacje dotyczące samodzielności zawodowej i finansowej.
 
-## Perspektywa nieoczywista
+## Podsumowanie
 
 W dyskursie publicznym emocje bywają przeciwstawiane „rozsądkowi”. Elliot pokazał odwrotność: adekwatna emocjonalność jest warunkiem skutecznego rozsądku w warunkach niepewności.
 
 To przesuwa paradygmat z „emocje przeszkadzają myśleniu” na „emocje kalibrują myślenie do realnych konsekwencji”.
 
-
-
 Elliot pozostaje jednym z najbardziej wpływowych przypadków neuropsychologii decyzji. Jego historia wskazuje, że integralność vmPFC/OFC jest krytyczna dla łączenia wiedzy z działaniem, a diagnoza kliniczna musi obejmować realne funkcjonowanie społeczne, nie tylko wyniki testowe.
 
-## Podstawa źródłowa
-
-Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synteza psychologii naukowej VandenBos (2015) oraz właściwe dla rozpoznań kryteria ICD-11 (World Health Organization, 2022).
-
 ## Bibliografia
-
-- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/14646-000](https://doi.org/10.1037/14646-000)
-- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
 
 1. Damasio, A. R. (1994). *Descartes’ Error: Emotion, Reason, and the Human Brain*. Putnam.
 2. Bechara, A., Damasio, H., Damasio, A. R., & Anderson, S. W. (1994). Insensitivity to future consequences following damage to human prefrontal cortex. *Cognition*, 50(1–3), 7–15.

@@ -4,7 +4,7 @@ reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
 
-# Kodeksy etyczne w psychologii - przegląd
+# Kodeksy etyczne
 
 Kodeksy etyczne stanowią fundament profesjonalnej praktyki psychologicznej. Definiują zobowiązania moralne psychologów wobec klientów, współpracowników, nauki i całego społeczeństwa. Poniższy przegląd obejmuje najważniejsze kodeksy obowiązujące na poziomie międzynarodowym i krajowym.
 
@@ -36,6 +36,7 @@ Kodeksy nie zastępują osobistego osądu moralnego - są narzędziem wspomagaj�
 | **Standardy etyczne (1–10)** | Egzekwowalne reguły w 10 obszarach: rozwiązywanie dylematów, kompetencje, relacje ludzkie, prywatność, reklama, zapis danych, edukacja, badania, ocena psychologiczna, terapia |
 
 Kluczowe standardy egzekwowalne dotyczą m.in.:
+
 - **Świadomej zgody** (3.10, 8.02, 9.03, 10.01)
 - **Poufności i jej granic** (4.01–4.06)
 - **Zakazu relacji seksualnych** z klientami (10.05–10.08)
@@ -129,19 +130,19 @@ Zasada **minimalna**: psycholog zawsze postępuje zgodnie z prawem. Zasada **doc
 
 ---
 
-
-
-Kodeksy etyczne - od APA przez PTP po Meta-Kodeks EFPA - tworzą wielopoziomową strukturę normatywną, która reguluje praktykę psychologiczną w różnych kontekstach kulturowych i prawnych. Ich znajomość i stosowanie nie jest jedynie wymogiem formalnym, lecz wyrazem szacunku dla klientów, współpracowników i zaufania społecznego, na którym opiera się cały zawód psychologa.
-
 ## Ograniczenia kodeksów
 
 Kodeks porządkuje obowiązki, ale nie usuwa konfliktów między nimi. Ochrona poufności może na przykład pozostawać w napięciu z zapobieganiem poważnej szkodzie, a poszanowanie autonomii z oceną zdolności do świadomej zgody. W takim przypadku sama znajomość przepisu nie wystarcza: potrzebne są ustalenie faktów, rozważenie możliwych szkód, konsultacja oraz udokumentowanie przesłanek decyzji (Kitchener, 1984; Knapp i VandeCreek, 2012).
 
 Kodeks stowarzyszenia zawodowego nie jest też tożsamy z prawem powszechnie obowiązującym. Zakres odpowiedzialności i możliwość zastosowania sankcji zależą od jurysdykcji, miejsca pracy i członkostwa psychologa w danej organizacji. Dlatego przed decyzją należy sprawdzić równolegle aktualne przepisy, właściwy kodeks i regulacje instytucji, zamiast traktować przedstawioną wyżej hierarchię jako automatyczną kolejność rozstrzygającą każdy konflikt.
 
+---
+
 ## Podsumowanie
 
-Kodeksy dostarczają wspólnego języka wartości i minimalnych standardów postępowania. Ich odpowiedzialne użycie polega jednak nie na mechanicznym wyborze reguły, lecz na powiązaniu normy z faktami sprawy, prawem, oceną możliwych szkód oraz przejrzystym uzasadnieniem decyzji.
+Kodeksy dostarczają wspólnego języka wartości i minimalnych standardów postępowania. Ich odpowiedzialne użycie polega jednak nie na mechanicznym wyborze reguły, lecz na powiązaniu normy z faktami sprawy, prawem, oceną możliwych szkód oraz przejrzystym uzasadnieniem decyzji. Kodeksy etyczne - od APA przez PTP po Meta-Kodeks EFPA - tworzą wielopoziomową strukturę normatywną, która reguluje praktykę psychologiczną w różnych kontekstach kulturowych i prawnych. Ich znajomość i stosowanie nie jest jedynie wymogiem formalnym, lecz wyrazem szacunku dla klientów, współpracowników i zaufania społecznego, na którym opiera się cały zawód psychologa.
+
+---
 
 ## Bibliografia
 

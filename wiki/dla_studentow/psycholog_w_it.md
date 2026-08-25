@@ -1,11 +1,13 @@
 ---
+title: Psycholog w IT
+content_type: article
 lastReviewed: 2026-05-02
 reviewCycleMonths: 12
 evidenceCutoffDate: 2026-04-30
-content_type: article
+
 ---
 
-# Psycholog w IT: role, kompetencje i granice wpływu
+# Psycholog w IT
 
 ## Wprowadzenie
 
@@ -63,6 +65,7 @@ Obszar HCI/UX charakteryzuje się wysoką dynamiką metodologiczną, co wymaga c
 ### Dobra praktyka
 
 Zespół projektujący aplikację zdrowotną wdraża protokół „evidence gate”:
+
 - każda decyzja o nowej funkcji wymaga minimum dwóch źródeł danych (np. test użyteczności + telemetria),
 - dla funkcji angażujących emocjonalnie prowadzi się analizę ryzyka szkody,
 - wynik badania kończy się rekomendacją z poziomem pewności.
@@ -75,19 +78,16 @@ Psycholog przedstawia „raport insightów” bez kryteriów jakości danych, be
 
 **Konsekwencje:** rekomendacje nie są wdrażane, rośnie konflikt między zespołem badawczym a inżynierskim, decyzje wracają do intuicji lub presji biznesowej.
 
-## Perspektywa nieoczywista
+## Podsumowanie
 
 Dominująca narracja mówi, że psycholog w IT „zmiękcza” komunikację i dba o dobrostan. To ważne, ale niepełne. Nieoczywista, a praktycznie użyteczna perspektywa brzmi: psycholog jest **inżynierem jakości inferencji**. Jego rdzeniową kompetencją nie jest tylko empatia, lecz kontrola poprawności wnioskowania z danych o człowieku. W organizacjach o wysokiej dojrzałości ta rola ogranicza koszt błędnych decyzji bardziej niż pojedyncze „miękkie” szkolenia.
-
-
-Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu. głównych wniosków
 
 - Psycholog w IT tworzy największą wartość tam, gdzie łączy metodologię naukową z decyzjami produktowymi.
 - Odpowiedzialność etyczna dotyczy nie tylko relacji w zespole, ale też architektury interfejsu i mechanizmów wpływu.
 - Trwała pozycja zawodowa psychologa w IT zależy od umiejętności: operacjonalizacji, walidacji i jasnej translacji wyników na działanie.
 - Dane procesowe (czas cyklu, rework, wskaźniki błędów, obciążenie poznawcze) są praktycznymi wskaźnikami jakości pracy zespołu.
 
-## Powiązane artykuły (cross-linki)
+## Powiązane artykuły
 
 - `students/sciezki_kariery`
 - `students/wystapienia_publiczne_autoprezentacja`
@@ -95,14 +95,7 @@ Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie 
 - `technology_psychology/algorytmy_a_samoocena`
 - `ethics/etyka_algorytmiczna`
 
-## Podstawa źródłowa
-
-Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synteza psychologii naukowej VandenBos (2015) oraz właściwe dla rozpoznań kryteria ICD-11 (World Health Organization, 2022).
-
 ## Bibliografia
-
-- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/14646-000](https://doi.org/10.1037/14646-000)
-- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
 
 1. Lazar, J., Feng, J. H., & Hochheiser, H. (2017). *Research Methods in Human-Computer Interaction* (2nd ed.). Morgan Kaufmann.
 2. Salas, E., Reyes, D. L., & McDaniel, S. H. (2018). The science of teamwork in organizations. *Annual Review of Organizational Psychology and Organizational Behavior, 5*, 1–36.

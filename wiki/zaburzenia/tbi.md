@@ -1,8 +1,6 @@
 ---
 content_type: article
----
 
-﻿---
 lastReviewed: 2026-04-19
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -11,16 +9,20 @@ evidenceCutoffDate: 2025-12-31
 # Urazy głowy (TBI)
 
 ## Wprowadzenie
+
 Traumatyczne uszkodzenie mózgu (TBI) obejmuje szerokie spektrum: od łagodnego wstrząśnienia po ciężkie urazy z trwałą niepełnosprawnością. W neuropsychologii kluczowe jest różnicowanie objawów ostrych i długoterminowych.
 
 ## Definicje
+
 - **TBI** – uszkodzenie mózgu spowodowane siłą mechaniczną działającą z zewnątrz.
 - **mTBI (łagodne TBI)** – zwykle GCS 13–15, często bez zmian w standardowym obrazowaniu.
 - **DAI** – rozlane uszkodzenie aksonalne wynikające z sił przyspieszenia–opóźnienia.
 - **PCS** – zespół objawów utrzymujących się po wstrząśnieniu.
 
 ## Mechanizmy i zależności
+
 Objawy zależą od mechanizmu urazu, lokalizacji uszkodzenia i przebiegu neurozapalnego. Najczęstsze konsekwencje poznawcze to:
+
 1. spowolnienie przetwarzania,
 2. deficyty uwagi i pamięci roboczej,
 3. osłabienie funkcji wykonawczych,
@@ -31,31 +33,25 @@ W ocenie klinicznej należy integrować dane neurologiczne, neuroobrazowe i neur
 ## Praktyczne przykłady
 
 ### Dobra praktyka
+
 Przykład dobrej praktyki: stopniowy powrót do aktywności (return-to-learn/return-to-play), monitorowanie objawów i kontrola obciążenia poznawczego według protokołu interdyscyplinarnego.
 
 **Konsekwencje:** mniejsze ryzyko nawrotu objawów i bezpieczniejszy powrót do funkcjonowania.
 
 ## Zła praktyka
+
 Przykład złej praktyki: szybki powrót do pełnej aktywności po ustąpieniu pierwszych objawów bez monitorowania neurokognitywnego.
 
 **Konsekwencje:** wydłużenie rekonwalescencji i wyższe ryzyko wtórnych komplikacji.
 
-## Perspektywa nieoczywista
+## Podsumowanie
 W dyskusji publicznej dominuje obraz TBI jako problemu sportowego. Alternatywnie dane epidemiologiczne pokazują istotny udział upadków i wypadków komunikacyjnych, szczególnie u osób starszych, co wymaga innej strategii profilaktyki.
-
 
 - TBI to grupa heterogenicznych urazów o zróżnicowanej dynamice.
 - Diagnoza wymaga podejścia wielowymiarowego, nie tylko skali GCS.
 - Rehabilitacja powinna być etapowa i oparta na obiektywnych wskaźnikach poprawy.
 
-## Podstawa źródłowa
-
-Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synteza psychologii naukowej VandenBos (2015) oraz właściwe dla rozpoznań kryteria ICD-11 (World Health Organization, 2022).
-
 ## Bibliografia
-
-- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/14646-000](https://doi.org/10.1037/14646-000)
-- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
 
 1. McCrory, P., et al. (2017). Consensus statement on concussion in sport. *British Journal of Sports Medicine, 51*(11), 838–847.
 2. Menon, D. K., et al. (2010). Position statement: definition of traumatic brain injury. *Archives of Physical Medicine and Rehabilitation, 91*(11), 1637–1640.

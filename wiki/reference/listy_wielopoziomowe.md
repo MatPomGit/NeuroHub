@@ -43,7 +43,6 @@ Konsekwencja: użytkownik otrzymuje niejednoznaczną strukture i trudniej ł›l
 ### Perspektywa nieoczywista
 W praktyce edukacyjnej listy peł‚nią role â€žmikro-struktury argumentuâ€ť. To nie tylko formatowanie, ale narzedzie epistemiczne: dobrze uł‚ożona lista porządkuje relacje przyczynowo-skutkowe i obniża koszt poznawczy analizy tekstu.
 
-
 Parser powinien poprawnie obsł‚użyć:
 - 2â€“3 poziomy zagnieżdżeł„,
 - zmiane typu listy (UL â†” OL),

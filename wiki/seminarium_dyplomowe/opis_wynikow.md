@@ -1,15 +1,15 @@
 ---
-lastReviewed: 2026-04-01
+content_type: article
+lastReviewed: 2026-05-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
-content_type: article
 ---
 
-# Pisanie i interpretacja wyników
+# Interpretacja wyników
 
 Rozdział wyników i dyskusja to serce pracy magisterskiej. To tutaj dane zamieniają się w wiedzę, a liczby - w argumenty naukowe. Umiejętność przejrzystego i precyzyjnego pisania wyników jest kompetencją, którą warto rozwijać od początku pracy.
 
-## Rozdział wyników - zasady
+## Rozdział dotyczący wyników
 
 ### Co powinien zawierać, a czego nie
 
@@ -26,6 +26,7 @@ Rozdział wyników i dyskusja to serce pracy magisterskiej. To tutaj dane zamien
 ### Kolejność prezentacji
 
 Wyniki prezentuj w kolejności odpowiadającej kolejności pytań/hipotez badawczych:
+
 1. Opis próby (statystyki demograficzne)
 2. Rzetelność zastosowanych narzędzi (α Cronbacha)
 3. Statystyki opisowe zmiennych głównych
@@ -53,6 +54,7 @@ Wyniki prezentuj w kolejności odpowiadającej kolejności pytań/hipotez badawc
 ## Tabele
 
 Tabele powinny być:
+
 - **Ponumerowane** (Tabela 1, Tabela 2) z **opisem nad tabelą**
 - Czytelne bez czytania tekstu (nagłówki kolumn i wierszy jasno opisane)
 - Bez pionowych linii; linie poziome tylko przy nagłówku, podgrupach i stopce
@@ -65,6 +67,7 @@ Przykład nagłówka tabeli:
 ## Wykresy
 
 Dobre wykresy:
+
 - Mają tytuł **pod wykresem** (Rycina 1. Zależność między...)
 - Opisane osie X i Y z jednostkami
 - Czytelną legendę
@@ -72,6 +75,7 @@ Dobre wykresy:
 - Nie zawierają tzw. *chart junk* (zbędnych linii siatki, efektów 3D, gradientów)
 
 Najczęstsze typy wykresów w psychologii:
+
 - **Wykres słupkowy** - porównania grup
 - **Wykres rozproszenia** (scatterplot) - korelacje
 - **Box plot** - rozkład zmiennej i wartości odstające
@@ -92,21 +96,25 @@ Najczęstsze typy wykresów w psychologii:
 ### Interpretacja wyników pozytywnych i negatywnych
 
 **Wyniki potwierdzające hipotezy:**
+
 - Nie nadinterpretuj - potwierdzenie hipotezy to przesłanka, nie dowód
 - Omów alternatywne wyjaśnienia (zmienne zakłócające, specyfika próby)
 
 **Wyniki nieistotne statystycznie:**
+
 - Nie pisz „hipoteza została odrzucona, więc związek nie istnieje"
 - Napisz: brak istotności przy danej mocy badania nie wyklucza małego efektu
 - Przytocz analizę mocy *post hoc* i skomentuj znaczenie praktyczne
 
 **Wyniki nieoczekiwane:**
+
 - Traktuj jako cenne dane, nie błąd
 - Szukaj wyjaśnień: efekty kontekstowe, moderatory, specyfika próby
 
 ### Ograniczenia badania
 
 Sekcja ograniczeń nie jest wyznaniem klęski - to wyraz dojrzałości naukowej. Typowe ograniczenia w pracach magisterskich:
+
 - Próba wygodowa (studenci) - ograniczona reprezentatywność
 - Samoopis jako jedyne źródło danych - wspólna wariancja metody
 - Przekrojowy design - brak możliwości wnioskowania przyczynowego
@@ -123,42 +131,11 @@ Nie każde badanie ma natychmiastowe implikacje praktyczne - i to jest w porząd
 ## Pisanie językiem naukowym
 
 Kilka zasad stylistycznych:
+
 - **Precyzja** > kwiecistość - wybieraj jasne, proste sformułowania
 - Unikaj **żargonu bez definicji** - każdy termin techniczny powinien być wyjaśniony przy pierwszym użyciu
 - Używaj **strony biernej lub bezosobowej** w metodzie: *Przeprowadzono...*, *Obliczono...*; aktywnej w dyskusji: *Wyniki sugerują...*
 - Unikaj absolutnych sformułowań: nie „udowodniono", a „wyniki wskazują"
 - Spójność terminologiczna - nie mieszaj synonimów dla tego samego pojęcia
 
-
-
 Dobra prezentacja wyników i rzetelna dyskusja to nie tylko kwestia techniczna - to sztuka naukowej komunikacji. Student, który potrafi precyzyjnie opisać wyniki i uczciwie je zinterpretować, zdobywa jedną z najważniejszych kompetencji badacza - niezależnie od tego, czy w przyszłości zostanie naukowcem, klinicystą, czy konsultantem.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Pisanie i interpretacja wyników" polega na tym, że najczęstsze trudności w pracy dyplomowej wynikają nie z braku pojedynczej informacji, lecz z jakości planowania, konsekwencji metodologicznej i dyscypliny redakcyjnej.
-
-Dopiero wspólna analiza zagadnień takich jak rozdział wyników - zasady, wykresy oraz pisanie językiem naukowym pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Pisanie i interpretacja wyników" pokazuje, że największą wartość daje traktowanie pracy badawczej jako procesu integrowania pytania, metody, analizy i argumentacji.
-
-
-Dopiero wspólna analiza zagadnień takich jak rozdział wyników - zasady, wykresy oraz pisanie językiem naukowym pokazuje pełny zakres omawianego zjawiska.
-
-## Podstawa źródłowa
-
-Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synteza psychologii naukowej VandenBos (2015) oraz właściwe dla rozpoznań kryteria ICD-11 (World Health Organization, 2022).
-
-## Bibliografia
-
-- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/14646-000](https://doi.org/10.1037/14646-000)
-- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.

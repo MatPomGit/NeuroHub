@@ -10,7 +10,7 @@ aliases:
 
 # Rezyliencja i adaptacja
 
-## Najważniejsze informacje
+## Wprowadzenie
 
 **Rezyliencja** oznacza względnie dobrą adaptację mimo poważnego zagrożenia dla rozwoju lub funkcjonowania. Nie jest niewrażliwością, obowiązkiem zachowania spokoju ani stałą „twardością psychiczną”. Można ją opisywać jako **proces** zachodzący w czasie, **wynik** oceniany w określonej dziedzinie oraz **względną zdolność** systemu do korzystania z zasobów. Te trzy znaczenia są powiązane, ale nie są zamienne.
 

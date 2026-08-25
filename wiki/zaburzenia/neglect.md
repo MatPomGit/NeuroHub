@@ -1,24 +1,27 @@
 ﻿---
-lastReviewed: 2026-04-01
+content_type: article
+lastReviewed: 2026-05-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
 
-# Neglect przestrzenny
+# Zespół zaniedbywania połowiczego
 
-Neglect to zaburzenie, w którym połowa świata dosłownie przestaje istnieć dla pacjenta - nie dlatego, że jej nie widzi, lecz dlatego, że mózg nie przetwarza jej jako czegoś istniejącego.
+Zespół zaniedbywania połowiczego to zaburzenie, w którym połowa świata dosłownie przestaje istnieć dla pacjenta - nie dlatego, że jej nie widzi, lecz dlatego, że mózg nie przetwarza jej jako czegoś istniejącego.
 
 ## Definicja i istota
 
-**Neglect przestrzenny** (zaniedbywanie stronnicze, heminegligence, hemineglect) to zaburzenie polegające na niemożności zwrócenia uwagi, reagowania na, lub raportowania bodźców po jednej stronie przestrzeni - *mimo braku uszkodzenia pierwotnych narządów zmysłów i dróg sensorycznych*.
+**Zespół zaniedbywania połowiczego** (zespół nieuwagi stronnej, hemispatial neglect, heminegligence, hemineglect) to zaburzenie polegające na niemożności zwrócenia uwagi, reagowania na, lub raportowania bodźców po jednej stronie przestrzeni - *mimo braku uszkodzenia pierwotnych narządów zmysłów i dróg sensorycznych*.
 
 Kluczowe jest rozróżnienie: pacjent z hemianopsją (utratą połowy pola widzenia) nie widzi bodźców po chorą stronę - to problem sensoryczny. Pacjent z neglectem *może* widzieć bodźce po zaniedbanej stronie (jeśli przyciągną uwagę), lecz spontanicznie ich *ignoruje* - to problem uwagowo-reprezentacyjny.
 
-Neglect jest najczęściej **lewostronny** (po uszkodzeniu *prawej* półkuli) - prawa półkula obsługuje uwagę skierowaną na *obie* strony przestrzeni, lewa - głównie prawą. Dlatego uszkodzenie prawej półkuli pozbawia uwagi skierowanej na lewą stronę.
+Zespół ten jest najczęściej **lewostronny** (po uszkodzeniu *prawej* półkuli) - prawa półkula obsługuje uwagę skierowaną na *obie* strony przestrzeni, lewa - głównie prawą. Dlatego uszkodzenie prawej półkuli pozbawia uwagi skierowanej na lewą stronę.
+
+---
 
 ## Objawy kliniczne
 
-Przejawy neglectu są spektakularne i wielorakie:
+Przejawy zaniedbywania są spektakularne i wielorakie:
 
 **Pominięcia sensoryczne:** Jedzenie tylko prawej połowy talerza. Golenie tylko prawej strony twarzy. Ubieranie tylko prawej strony ciała. Czytanie tylko prawej części tekstu (lub prawych liter w słowach).
 
@@ -28,38 +31,44 @@ Przejawy neglectu są spektakularne i wielorakie:
 
 **Test zegara:** Pacjenci z neglectem rysują zegar z wszystkimi cyframi na prawej połowie - "upychają" 1–12 po prawej stronie.
 
-> **Ciekawostka:** Pacjenci z neglectem często zaprzeczają posiadaniu problemu (**anozognozja**) - nie są świadomi swojego deficytu. To wynika z uszkodzenia prawostronnych sieci monitorowania własnego funkcjonowania. Klasyczny opis: pacjent "nie uznaje" własnej lewej ręki za swoją i próbuje ją wyrzucić z łóżka.
+> **Ciekawostka:** Pacjenci z zespołem zaniedbywania połowiczego często zaprzeczają posiadaniu problemu (**anozognozja**) - nie są świadomi swojego deficytu. To wynika z uszkodzenia prawostronnych sieci monitorowania własnego funkcjonowania. Klasyczny opis: pacjent "nie uznaje" własnej lewej ręki za swoją i próbuje ją wyrzucić z łóżka.
 
-## Rodzaje neglectu
+---
 
-**Neglect osobisty (peripersonal)** - zaniedbywanie własnego ciała po stronie lewej.
+## Rodzaje zaniedbywania
 
-**Neglect okołoosobisty (peripersonal space)** - zaniedbywanie przestrzeni w zasięgu rąk.
+**Nieuwaga osobista (peripersonal)** - zaniedbywanie własnego ciała po stronie lewej.
 
-**Neglect dalekiej przestrzeni (extrapersonal)** - zaniedbywanie przestrzeni dalszej (np. na sali, na ekranie).
+**Nieuwaga okołoosobista (peripersonal space)** - zaniedbywanie przestrzeni w zasięgu rąk.
 
-**Neglect wzrokowy, słuchowy, dotykowy** - mogą wystąpić osobno lub łącznie.
+**Nieuwaga dalekiej przestrzeni (extrapersonal)** - zaniedbywanie przestrzeni dalszej (np. na sali, na ekranie).
 
-**Neglect motoryczny (directional hypokinesia)** - niezdolność do inicjowania ruchów w stronę lewą, mimo zachowanej siły.
+**Nieuwaga wzrokowa, słuchowa, dotykowa** - mogą wystąpić osobno lub łącznie.
+
+**Nieuwaga motoryczna (directional hypokinesia)** - niezdolność do inicjowania ruchów w stronę lewą, mimo zachowanej siły.
 
 **Allochiria** - mylenie stron: bodźce z lewej strony są odbierane jako z prawej.
+
+---
 
 ## Zjawisko wygaszania (extinction)
 
 **Wygaszanie (extinction)** to łagodniejsza forma neglectu: pacjent reaguje na bodźce po lewej stronie, gdy pojawiają się *samotnie*, lecz ignoruje je, gdy jednocześnie pojawia się bodziec po prawej stronie. Wynika z rywalizacji o zasoby uwagi - prawa strona "wygrywa" tę rywalizację.
 
-## Neurobiologia neglectu
+---
 
-Neglect po uszkodzeniu prawej półkuli jest trzykrotnie częstszy i cięższy niż neglect lewy po uszkodzeniu lewej. Wynika to z asymetrii uwagowej: prawa półkula obsługuje uwagę bilateralnie, lewa - głównie kontrlateralnie.
+## Neurobiologia zespołu zaniedbywania połowiczego
+
+Zespół zaniedbywania połowiczego po uszkodzeniu prawej półkuli jest trzykrotnie częstszy i cięższy niż neglect lewy po uszkodzeniu lewej. Wynika to z asymetrii uwagowej: prawa półkula obsługuje uwagę bilateralnie, lewa - głównie kontrlateralnie.
 
 Kluczowe obszary: **dolna kora ciemieniowa prawa** (szczególnie zakręt kątowy i nadbrzeżny), **skroniowo-ciemieniowy węzeł (TPJ)** - centrum reorientacji uwagi. Uszkodzenia przyległej istoty białej (szlaki grzbietowej sieci uwagowej) nasilają ciężkość i spowalniają powrót.
 
-**Sieć uwagowa grzbietowa (DAN)** - wolicjonalna, odgórna orientacja uwagi (intraparietal sulcus, frontal eye fields).  
+**Sieć uwagowa grzbietowa (DAN)** - wolicjonalna, odgórna orientacja uwagi (intraparietal sulcus, frontal eye fields).
 **Sieć uwagowa brzuszna (VAN)** - mimowolna reorientacja uwagi na niespodziewane bodźce (TPJ, inferior frontal gyrus). Neglect wynika głównie z uszkodzenia VAN prawej półkuli.
 
 ## Rokowanie i rehabilitacja
 
-Neglect jest jednym z najsilniejszych predyktorów złego rokowania po udarze - upośledza rehabilitację ruchową, samodzielność i powrót do pracy.
+Zespół zaniedbywania połowiczego jest jednym z najsilniejszych predyktorów złego rokowania po udarze - upośledza rehabilitację ruchową, samodzielność i powrót do pracy.
 
 **Metody rehabilitacji:**
 
@@ -73,25 +82,8 @@ Neglect jest jednym z najsilniejszych predyktorów złego rokowania po udarze - 
 
 *Rehabilitacja środowiskowa:* Ustawianie ważnych obiektów (jedzenie, TV) po stronie lewej, markery uwagi (taśmy, kolory) po lewej stronie.
 
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Neglect przestrzenny" polega na tym, że opis zaburzenia jest użyteczny dopiero wtedy, gdy łączy kryteria rozpoznania z mechanizmami, funkcjonowaniem i zróżnicowaniem przebiegu.
-
-Dopiero wspólna analiza zagadnień takich jak definicja i istota, zjawisko wygaszania (extinction) oraz rokowanie i rehabilitacja pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Neglect przestrzenny" pokazuje, że najbardziej wartościowe podsumowanie wymaga połączenia obrazu klinicznego z różnicowaniem, rokowaniem i implikacjami dla wsparcia.
-
-
-Dopiero wspólna analiza zagadnień takich jak definicja i istota, zjawisko wygaszania (extinction) oraz rokowanie i rehabilitacja pokazuje pełny zakres omawianego zjawiska.
+---
 
 ## Bibliografia
 
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.
+- Osobliwości w działaniu mózgu; s. 66, 67. W: Anna Herzyk: Neuronalny świat umysłu. Kraków: Oficyna Wydawnicza „Impuls”, 2005. ISBN 83-7308-560-2.

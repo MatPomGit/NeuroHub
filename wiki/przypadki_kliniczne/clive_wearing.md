@@ -1,8 +1,5 @@
 ---
 content_type: article
----
-
-﻿---
 lastReviewed: 2026-04-29
 reviewCycleMonths: 24
 evidenceCutoffDate: 2026-04-01
@@ -41,28 +38,20 @@ W opiece nad osobami z ciężką amnezją warto projektować stałe rutyny środ
 **Konsekwencja:** mniejszy poziom dezorientacji i lepsze funkcjonowanie mimo trwałego deficytu pamięci deklaratywnej.
 
 ### Zła praktyka
+
 Wymaganie od pacjenta z amnezją anterogradną, aby „zapamiętał na przyszłość” pojedyncze instrukcje przekazane werbalnie bez wsparcia środowiskowego.
 
 **Konsekwencja:** narastająca frustracja pacjenta i opiekunów oraz błędna interpretacja deficytu jako „braku współpracy”.
 
-## Perspektywa nieoczywista
+## Podsumowanie
 
 W debatach społecznych pamięć bywa traktowana jako fundament tożsamości osobowej. Przypadek Wearinga pokazuje, że tożsamość może być częściowo podtrzymywana relacyjnie i ucieleśnieniowo: poprzez więzi, nawyki, ekspresję muzyczną i styl reagowania - nawet przy dramatycznie ograniczonej pamięci epizodycznej.
 
 To argument za modelem „tożsamości rozproszonej”, współtworzonej przez mózg, ciało, bliskich i środowisko.
 
-
-
 Clive Wearing pozostaje jednym z najmocniejszych dowodów na wielosystemową naturę pamięci. Jego historia łączy neurobiologię (uszkodzenia hipokampa), psychologię poznawczą (dysocjacja pamięci) i praktykę kliniczną (opieka oparta na strukturze środowiska i zachowanych umiejętnościach proceduralnych).
 
-## Podstawa źródłowa
-
-Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synteza psychologii naukowej VandenBos (2015) oraz właściwe dla rozpoznań kryteria ICD-11 (World Health Organization, 2022).
-
 ## Bibliografia
-
-- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/14646-000](https://doi.org/10.1037/14646-000)
-- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
 
 1. Wilson, B. A., Baddeley, A. D., & Kapur, N. (1995). Dense amnesia in a professional musician following herpes simplex virus encephalitis. *Journal of Clinical and Experimental Neuropsychology*, 17(5), 668–681.
 2. Baddeley, A., & Wilson, B. A. (2002). Prose recall and amnesia: Implications for the structure of working memory. *Neuropsychologia*, 40(10), 1737–1743.

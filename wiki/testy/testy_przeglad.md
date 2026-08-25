@@ -1,26 +1,27 @@
 ---
 content_type: article
----
 
-﻿---
 lastReviewed: 2026-04-19
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
 
-# Testy neuropsychologiczne - przegląd
+# Testy neuropsychologiczne
 
 ## Wprowadzenie
 Testy neuropsychologiczne służą do opisu profilu funkcji poznawczych, planowania rehabilitacji i monitorowania zmian w czasie. Ich interpretacja wymaga łączenia wyniku testowego z wywiadem, obserwacją kliniczną i danymi medycznymi.
 
 ## Definicje
+
 - **Standaryzacja** – jednolita procedura przeprowadzania i oceniania testu.
 - **Normalizacja** – opracowanie norm dla określonych grup populacyjnych.
 - **Rzetelność testu** – stabilność i powtarzalność wyniku.
 - **Trafność kliniczna** – użyteczność testu dla określonej decyzji diagnostycznej.
 
 ## Mechanizmy i zależności
+
 W praktyce diagnostycznej kluczowe jest dopasowanie narzędzia do pytania klinicznego:
+
 1. Testy przesiewowe (np. MMSE, MoCA) – szybkie wykrywanie ryzyka deficytu.
 2. Testy domenowe – pogłębiona analiza pamięci, uwagi, języka, funkcji wykonawczych.
 3. Baterie kompleksowe – całościowy profil funkcjonowania.
@@ -30,31 +31,26 @@ Wynik surowy powinien być interpretowany względem norm demograficznych i konte
 ## Praktyczne przykłady
 
 ### Dobra praktyka
+
 Przykład dobrej praktyki: budowanie „hipotez diagnostycznych” przed badaniem, dobór testów do tych hipotez i raportowanie zarówno deficytów, jak i zasobów pacjenta.
 
 **Konsekwencje:** trafniejsze rekomendacje terapeutyczne i mniejsze ryzyko nadrozpoznawalności.
 
 ## Zła praktyka
+
 Przykład złej praktyki: traktowanie pojedynczego wyniku przesiewowego jako rozstrzygającej diagnozy neuropsychologicznej.
 
 **Konsekwencje:** uproszczona interpretacja i ryzyko błędnych decyzji klinicznych.
 
-## Perspektywa nieoczywista
-Wysoki wynik globalny bywa interpretowany jako „brak problemu”. Alternatywnie pacjent może mieć wyraźne deficyty wybiórcze (np. funkcje wykonawcze) maskowane przez dobre wyniki w innych domenach, dlatego profil domenowy jest ważniejszy niż jeden wskaźnik sumaryczny.
+## Podsumowanie
 
+Wysoki wynik globalny bywa interpretowany jako „brak problemu”. Alternatywnie pacjent może mieć wyraźne deficyty wybiórcze (np. funkcje wykonawcze) maskowane przez dobre wyniki w innych domenach, dlatego profil domenowy jest ważniejszy niż jeden wskaźnik sumaryczny.
 
 - Test jest narzędziem wspierającym diagnozę, a nie diagnozą samą w sobie.
 - Kluczowe są: standaryzacja, normy i integracja danych wieloźródłowych.
 - Największą wartość kliniczną daje profil funkcjonalny przekładalny na plan terapii.
 
-## Podstawa źródłowa
-
-Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synteza psychologii naukowej VandenBos (2015) oraz właściwe dla rozpoznań kryteria ICD-11 (World Health Organization, 2022).
-
 ## Bibliografia
-
-- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/14646-000](https://doi.org/10.1037/14646-000)
-- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
 
 1. Lezak, M. D., et al. (2012). *Neuropsychological Assessment* (5th ed.). Oxford University Press.
 2. Strauss, E., Sherman, E. M. S., & Spreen, O. (2006). *A Compendium of Neuropsychological Tests* (3rd ed.). Oxford University Press.

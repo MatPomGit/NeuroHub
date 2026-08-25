@@ -10,7 +10,7 @@ aliases:
 
 # Mobbing i przemoc psychiczna w pracy
 
-## Najważniejsze informacje
+## Wprowadzenie
 
 Mobbing to nie etykieta dla każdej trudnej relacji zawodowej. W badaniach oznacza najczęściej powtarzalną ekspozycję na negatywne zachowania w pracy, trwającą przez pewien czas, wobec których osoba ma coraz mniejszą możliwość obrony. Polska definicja prawna ma odrębne przesłanki i służy rozstrzyganiu roszczeń. Ocena psychologiczna, postępowanie wewnętrzne i ocena sądu odpowiadają więc na różne pytania.
 

@@ -1,5 +1,7 @@
 ﻿---
-lastReviewed: 2026-04-01
+title: Psychofizjologia
+content_type: article
+lastReviewed: 2026-08-025
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
@@ -37,6 +39,7 @@ Psychofizjologia bada relacje między procesami psychologicznymi (myślami, emoc
 **ERP** to uśrednione odpowiedzi EEG na powtarzane bodźce. Pozwalają mierzyć czas trwania poszczególnych etapów przetwarzania informacji z milisekundową rozdzielczością.
 
 Kluczowe komponenty:
+
 - **P300** - pozytywna fala ~300 ms po rzadkim, istotnym bodźcu; marker uwagi i aktualizacji pamięci roboczej
 - **N400** - negatywna fala ~400 ms po semantycznie niespójnym słowie; marker przetwarzania semantycznego
 - **MMN (Mismatch Negativity)** - odpowiedź na odchylenie od standardowego bodźca; nie wymaga uwagi; marker automatycznego przetwarzania słuchowego
@@ -46,6 +49,7 @@ Kluczowe komponenty:
 **Elektrodermalana aktywność (EDA)** mierzy przewodnictwo elektryczne skóry, które rośnie wraz z poceniem się. Jest wskaźnikiem aktywacji układu współczulnego i ogólnego pobudzenia emocjonalnego.
 
 Zastosowania:
+
 - Badanie reakcji lękowych (ekspozycja na bodźce fobiczne)
 - Wykrywanie kłamstw (wariograf - kontrowersyjne)
 - Badanie warunkowania lękowego
@@ -58,6 +62,7 @@ Zastosowania:
 **HRV** (Heart Rate Variability) mierzy zmienność odstępów między kolejnymi uderzeniami serca. Zdrowe serce nie bije w metronomiowym rytmie - elastycznie reaguje na oddech i wymagania ciała.
 
 Wysoka HRV oznacza dominację przywspółczulną (vagal tone) i jest związana z:
+
 - Zdolnością do regulacji emocji
 - Elastycznością poznawczą
 - Mniejszym ryzykiem chorób sercowo-naczyniowych
@@ -86,6 +91,7 @@ Wysoka HRV oznacza dominację przywspółczulną (vagal tone) i jest związana z
 ## Psychofizjologia emocji
 
 Emocje mają charakterystyczne profile fizjologiczne, choć nakładają się i nie pozwalają na jednoznaczną identyfikację:
+
 - **Strach:** Przyspieszenie tętna, wzrost EDA, rozszerzenie źrenic, zwężenie naczyń obwodowych
 - **Gniew:** Przyspieszenie tętna, wzrost ciśnienia krwi
 - **Wstręt:** Obniżenie tętna, wzrost EDA, aktywacja corrugator
@@ -96,30 +102,10 @@ Emocje mają charakterystyczne profile fizjologiczne, choć nakładają się i n
 ## Zastosowania kliniczne
 
 Psychofizjologia dostarcza biomarkerów pomocnych w diagnozie i ocenie terapii:
+
 - Ocena reaktywności w PTSD (odpowiedź na bodźce traumatyczne)
 - Monitorowanie poziomu stresu w badaniach pracowniczych
 - Ocena skuteczności terapii ekspozycyjnych (desensytyzacja widoczna w EDA)
 - Diagnostyka zaburzeń snu (polisomnografia = EEG + EMG + EOG + EKG + SpO2)
 
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Psychofizjologia" polega na tym, że mechanizmy biologiczne rzadko działają w izolacji; ich znaczenie ujawnia się dopiero w powiązaniu z rozwojem, środowiskiem i zachowaniem.
-
-Dopiero wspólna analiza zagadnień takich jak autonomiczny układ nerwowy, odpowiedzi mięśniowe - emg oraz zastosowania kliniczne pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Psychofizjologia" pokazuje, że kluczowe pozostaje łączenie poziomu biologicznego z funkcjonalnym, aby uniknąć uproszczenia złożonych zjawisk psychicznych do jednej przyczyny.
-
-
-Dopiero wspólna analiza zagadnień takich jak autonomiczny układ nerwowy, odpowiedzi mięśniowe - emg oraz zastosowania kliniczne pokazuje pełny zakres omawianego zjawiska.
-
 ## Bibliografia
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.

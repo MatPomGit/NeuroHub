@@ -9,7 +9,7 @@ aliases:
 
 # Systemowe rozumienie rodziny
 
-## Najważniejsze informacje
+## Wprowadzenie
 
 Systemowe rozumienie rodziny nie szuka jednej osoby będącej „przyczyną” trudności. Bada, jak zachowania członków rodziny wzajemnie się warunkują, jak system reguluje bliskość i władzę oraz jak reaguje na zmianę. Jednostkowe objawy są realne i wymagają właściwej diagnozy; perspektywa systemowa dodaje pytanie o relacyjny kontekst ich powstania, znaczenia i podtrzymywania.
 

@@ -10,7 +10,7 @@ aliases:
 
 # Wypalenie zawodowe
 
-## Najważniejsze informacje
+## Wprowadzenie
 
 Wypalenie zawodowe jest zjawiskiem związanym z **kontekstem pracy**, a nie ogólną nazwą zmęczenia po intensywnym tygodniu. W ICD-11 Światowa Organizacja Zdrowia opisuje je jako zjawisko zawodowe wynikające z przewlekłego stresu w pracy, którym nie udało się skutecznie zarządzić. Obejmuje wyczerpanie, zwiększony dystans psychiczny lub cynizm wobec pracy oraz obniżone poczucie skuteczności zawodowej. WHO zastrzega, że pojęcie odnosi się do pracy i nie powinno opisywać doświadczeń z innych dziedzin życia.
 

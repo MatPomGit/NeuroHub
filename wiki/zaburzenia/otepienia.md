@@ -37,6 +37,7 @@ Najczęstsza przyczyna otępienia (60–70% przypadków). Charakteryzuje się po
 **Wariant behawioralny (bvFTD):** zmiany osobowości (odhamowanie, impulsywność, grubiaństwo), apatia, kompulsje i stereotypie, zaburzenia empatii i teorii umysłu, hiperoralność. Pacjenci tracą społeczną wrażliwość przy zachowanym orientowaniu i pamięci - co prowadzi do późnych diagnoz.
 
 **Warianty językowe - PPA (Primary Progressive Aphasia):**
+
 - *Wariant semantyczny (svPPA)* - utrata wiedzy semantycznej (znaczeń słów i pojęć), mowa płynna ale z anomią i błędami semantycznymi.
 - *Wariant niegramatyczny (nfvPPA)* - mowa wysiłkowa, agramatyczna, podobna do afazji Broki.
 - *Wariant logopeniczny (lvPPA)* - trudności z przypominaniem słów i powtarzaniem długich zdań; najczęściej związany z patologią AD.
@@ -46,6 +47,7 @@ Najczęstsza przyczyna otępienia (60–70% przypadków). Charakteryzuje się po
 ## Otępienie z ciałkami Lewy'ego (DLB)
 
 **Tetrada diagnostyczna DLB:**
+
 1. **Fluktuująca świadomość** - epizody dezorientacji, senności lub nieobecności naprzemiennie z okresami jasnego kontaktu.
 2. **Omamy wzrokowe** - szczegółowe, złożone, często kolorowe. Zwykle są dobrze opisywane przez pacjenta.
 3. **Parkinsonizm** - spowolnienie, sztywność, drżenie spoczynkowe.
@@ -70,6 +72,7 @@ Najczęstsza przyczyna otępienia (60–70% przypadków). Charakteryzuje się po
 **Otępienie mieszane** (AD + VaD) jest częstsze niż czyste formy - u wielu pacjentów patolodzy stwierdzają współistnienie obu procesów.
 
 **Inne przyczyny otępienia:**
+
 - *Choroba Huntingtona* - otępienie podkorowe w przebiegu choroby genetycznej (HTT), z chorea i zaburzeniami psychiatrycznymi.
 - *Choroba Creutzfeldta-Jakoba (CJD)* - prionowa, szybko postępująca (miesiące), z miokloniami i zmianami EEG.
 - *Otępienie alkoholowe* - przewlekłe uszkodzenie mózgu przez alkohol, przypominające zespół Korsakoffa.
@@ -103,26 +106,3 @@ Leczenie otępień obejmuje komponent farmakologiczny (inhibitory AChE, memantyn
 **Opieka nad opiekunami** jest integralną częścią leczenia otępień. Opiekunowie doświadczają wysokiego obciążenia (caregiver burden) - interwencje psychoedukacyjne, grupy wsparcia i przerwy w opiece (respite care) redukują wypalenie i poprawiają jakość opieki.
 
 **Powiązane zagadnienia:** choroba Alzheimera · MCI · biomarkery · białko tau · β-amyloid · ciałka Lewy'ego · FTD · otępienie naczyniopochodne · MMSE · MoCA
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Otępienia" polega na tym, że opis zaburzenia jest użyteczny dopiero wtedy, gdy łączy kryteria rozpoznania z mechanizmami, funkcjonowaniem i zróżnicowaniem przebiegu.
-
-Dopiero wspólna analiza zagadnień takich jak definicja i kryteria diagnostyczne, otępienie naczyniopochodne (vad) oraz postępowanie i opieka pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Otępienia" pokazuje, że najbardziej wartościowe podsumowanie wymaga połączenia obrazu klinicznego z różnicowaniem, rokowaniem i implikacjami dla wsparcia.
-
-
-Dopiero wspólna analiza zagadnień takich jak definicja i kryteria diagnostyczne, otępienie naczyniopochodne (vad) oraz postępowanie i opieka pokazuje pełny zakres omawianego zjawiska.
-
-## Bibliografia
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.

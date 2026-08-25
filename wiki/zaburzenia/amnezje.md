@@ -1,5 +1,6 @@
 ﻿---
-lastReviewed: 2026-04-01
+content_type: article
+lastReviewed: 2026-05-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
@@ -8,13 +9,15 @@ evidenceCutoffDate: 2025-12-31
 
 Zaburzenia pamięci - od amnezji hipokampalnych po zespół Korsakoffa i amnezję dysocjacyjną.
 
-## Rodzaje pamięci a amnezje
+## Rodzaje pamięci, a amnezje
 
 Aby zrozumieć amnezje, trzeba znać organizację pamięci. **Pamięć deklaratywna (jawna)** obejmuje fakty i zdarzenia - jest wrażliwa na uszkodzenia hipokampa. Dzieli się na **epizodyczną** (osobiste zdarzenia z przeszłości, zlokalizowane w czasie i miejscu) i **semantyczną** (wiedza ogólna, fakty bez kontekstu autobiograficznego).
 
 **Pamięć niedeklaratywna (niejawna, proceduralna)** obejmuje umiejętności motoryczne, nawyki i efekty torowania - jest zachowana przy amnezji hipokampalnej, gdyż zależy od zwojów podstawy i móżdżku.
 
 > Ta dysocjacja była spektakularnie widoczna u pacjenta H.M.: potrafił nauczyć się nowych umiejętności motorycznych (np. pisania w lustrze) z sesji na sesję, lecz nie pamiętał, że kiedykolwiek ćwiczył to zadanie.
+
+--
 
 ## Amnezja anterogradna
 
@@ -26,6 +29,8 @@ Mechanizm amnezji anterogradnej polega na zaburzeniu **konsolidacji pamięci** -
 
 Oprócz uszkodzeń hipokampa, amnezja anterogradna może wynikać z uszkodzeń **jąder wzgórzowych** (szczególnie jądro grzbietowo-przyśrodkowe, mamillothalamic tract), **ciał suteczkowatych** oraz **kory śródwęchowej (entorhinal cortex)** - głównej bramy wejściowej do hipokampa.
 
+---
+
 ## Amnezja wsteczna (retrogradna)
 
 *Amnezja wsteczna* to utrata wspomnień sprzed uszkodzenia. Zazwyczaj wykazuje **gradient Ribota** - bliższe wspomnienia (sprzed tygodni/miesięcy) są bardziej zaburzone niż wspomnienia odległe. Wynika to z postępującej konsolidacji systemowej: stare wspomnienia są stopniowo przenoszone do kory asocjacyjnej i stają się niezależne od hipokampa.
@@ -33,6 +38,8 @@ Oprócz uszkodzeń hipokampa, amnezja anterogradna może wynikać z uszkodzeń *
 > **Gradient Ribota** nie jest absolutny - ciężkie uszkodzenia hipokampa mogą spowodować amnezję retrogradną obejmującą całe dekady. Pacjent K.C. (zbadany przez Tulvinga) miał całkowite wymazanie pamięci epizodycznej przy zachowanej semantycznej.
 
 **Tymczasowa amnezja globalna (TGA)** to nagły epizod głębokiej amnezji anterogradnej i wstecznej, który ustępuje w ciągu 24 godzin. Mechanizm: prawdopodobnie przemijające niedokrwienie hipokampa lub spreading depolarisation. Pacjent zachowuje tożsamość i umiejętności, lecz pyta wielokrotnie te same pytania.
+
+---
 
 ## Amnezja psychogenna (dysocjacyjna)
 
@@ -46,6 +53,8 @@ Oprócz uszkodzeń hipokampa, amnezja anterogradna może wynikać z uszkodzeń *
 
 > Amnezja dysocjacyjna jest wciąż kontrowersyjnym obszarem: badania fMRI sugerują aktywne *hamowanie* dostępu do wspomnień (hiperaktywacja kory przedczołowej nad hipokampem), a nie ich destrukcję.
 
+---
+
 ## Zespół Korsakoffa
 
 *Zespół Korsakoffa* wynika z przewlekłego niedoboru **tiaminy (witaminy B1)**, najczęściej w przebiegu alkoholizmu, lecz również w bulimii, nowotworach lub po operacjach bariatrycznych.
@@ -58,6 +67,8 @@ Poprzedza go często **encefalopatia Wernickego** - ostra postać niedoboru tiam
 
 > Leczenie: natychmiastowe dożylne podanie tiaminy (przed glukozą - podanie glukozy bez tiaminy może przyspieszyć uszkodzenie). Wczesne leczenie może w pełni odwrócić encefalopatię Wernickego; zespół Korsakoffa jest często trwały.
 
+---
+
 ## Amnezja polekowa i ekotoksyczna
 
 **Benzodiazepiny** (np. midazolam, lorazepam) powodują amnezję anterogradną - mechanizm: nasilenie GABA-A, co zaburza kodowanie nowych wspomnień. Stosowane celowo przed procedurami medycznymi.
@@ -65,6 +76,8 @@ Poprzedza go często **encefalopatia Wernickego** - ostra postać niedoboru tiam
 **MDMA (ecstasy)** w badaniach długoterminowych wiąże się z deficytami pamięci episodycznej i wykonawczej, prawdopodobnie przez neurotoksyczność serotoninergiczną.
 
 **Hipnoza i sugestia** mogą wywoływać przejściową amnezję dla sugerowanych treści, lecz mechanizm różni się od organicznego uszkodzenia.
+
+---
 
 ## Diagnoza i ocena neuropsychologiczna
 
@@ -78,26 +91,3 @@ Ocena amnezji wymaga systematycznego badania różnych komponentów pamięci:
 Kluczowe jest rozróżnienie: **kodowanie vs. przechowywanie vs. wydobywanie** - benzodiazepiny zaburzają kodowanie, w depresji zaburzone jest wydobywanie (lepiej po wskazówkach), w chorobie Alzheimera zaburzone jest przechowywanie.
 
 **Powiązane zagadnienia:** hipokamp · konsolidacja pamięci · pamięć epizodyczna · zespół Korsakoffa · H.M. · TGA · dysocjacja
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Amnezje" polega na tym, że opis zaburzenia jest użyteczny dopiero wtedy, gdy łączy kryteria rozpoznania z mechanizmami, funkcjonowaniem i zróżnicowaniem przebiegu.
-
-Dopiero wspólna analiza zagadnień takich jak rodzaje pamięci a amnezje, amnezja psychogenna (dysocjacyjna) oraz diagnoza i ocena neuropsychologiczna pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Amnezje" pokazuje, że najbardziej wartościowe podsumowanie wymaga połączenia obrazu klinicznego z różnicowaniem, rokowaniem i implikacjami dla wsparcia.
-
-
-Dopiero wspólna analiza zagadnień takich jak rodzaje pamięci a amnezje, amnezja psychogenna (dysocjacyjna) oraz diagnoza i ocena neuropsychologiczna pokazuje pełny zakres omawianego zjawiska.
-
-## Bibliografia
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.

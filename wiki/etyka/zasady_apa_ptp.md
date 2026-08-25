@@ -1,8 +1,8 @@
 ---
-lastReviewed: 2026-04-01
+content_type: article
+lastReviewed: 2026-05-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
-content_type: article
 ---
 
 # Zasady etyczne APA i PTP
@@ -56,6 +56,7 @@ Kodeks Etyczno-Zawodowy Psychologa PTP (aktualizacja 2018) opiera się na podobn
 ### APA Ethics Committee
 
 W USA naruszenia standardów APA rozpatruje **Komitet ds. Etyki APA**. Postępowanie może zakończyć się:
+
 - pouczeniem i wymaganiem szkolenia etycznego,
 - zawieszeniem członkostwa w APA,
 - wykluczeniem z towarzystwa.
@@ -65,6 +66,7 @@ Równolegle działają **stanowe rady licencyjne**, które mogą odebrać licenc
 ### Polska - Izby Psychologów i PTP
 
 W Polsce dyscyplinę zawodową sprawują:
+
 - **Regionalne Izby Psychologów** (na mocy ustawy z 2001 r.) - mogą stosować upomnienie, naganę, zawieszenie lub pozbawienie prawa wykonywania zawodu,
 - **Sąd Koleżeński PTP** - dla członków towarzystwa, w sprawach naruszenia Kodeksu PTP.
 
@@ -85,44 +87,15 @@ Kluczową rolę odgrywa **superwizja etyczna** - regularne konsultacje z doświa
 
 ---
 
-
-
 Zarówno kodeks APA, jak i kodeks PTP wyrażają wspólne wartości etyki zawodowej: dobro klienta, uczciwość, szacunek dla autonomii i odpowiedzialność społeczną. Różnią się mechanizmami egzekwowania i osadzeniem w lokalnym kontekście prawnym. Znajomość obu dokumentów jest szczególnie istotna dla psychologów pracujących w środowiskach międzynarodowych lub stosujących narzędzia i metody opracowane w USA.
 
 ---
 
-## Podstawa źródłowa
-
-Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synteza psychologii naukowej VandenBos (2015) oraz właściwe dla rozpoznań kryteria ICD-11 (World Health Organization, 2022).
-
 ## Bibliografia
 
-- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/14646-000](https://doi.org/10.1037/14646-000)
-- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
 
 - American Psychological Association. (2017). *Ethical principles of psychologists and code of conduct*. APA.
 - Polskie Towarzystwo Psychologiczne. (2018). *Kodeks Etyczno-Zawodowy Psychologa*. PTP.
 - Ustawa z dnia 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów. Dz.U. 2001 nr 73 poz. 763.
 - Knapp, S. J., & VandeCreek, L. D. (2012). *Practical ethics for psychologists: A positive approach* (2nd ed.). APA.
 - Pope, K. S., & Vasquez, M. J. T. (2016). *Ethics in psychotherapy and counseling: A practical guide* (5th ed.). Wiley.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Zasady etyczne APA i PTP" polega na tym, że etyka zawodowa nie sprowadza się do mechanicznego stosowania reguł, lecz wymaga ważenia dóbr, ryzyk i odpowiedzialności w warunkach niepewności.
-
-Dopiero wspólna analiza zagadnień takich jak pięć zasad generalnych apa (2017), porównanie apa i ptp oraz kodeksy w codziennej praktyce pokazuje pełny zakres omawianego zjawiska.
-
-Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
-
-## Podsumowanie
-
-Temat "Zasady etyczne APA i PTP" pokazuje, że najbardziej dojrzałe wnioski etyczne wynikają z łączenia zasad, kontekstu sytuacyjnego i refleksji nad skutkami decyzji.
-
-
-Dopiero wspólna analiza zagadnień takich jak pięć zasad generalnych apa (2017), porównanie apa i ptp oraz kodeksy w codziennej praktyce pokazuje pełny zakres omawianego zjawiska.## Bibliografia
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.

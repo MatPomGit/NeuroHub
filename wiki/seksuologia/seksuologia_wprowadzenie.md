@@ -10,7 +10,7 @@ evidenceCutoffDate: 2026-08-02
 
 # Psychologia seksualności w cyklu życia
 
-## Najważniejsze informacje
+## Wprowadzenie
 
 Seksualność obejmuje ciało, pożądanie, przyjemność, znaczenia nadawane bliskości, zachowania, relacje oraz sposób rozumienia siebie. Nie jest prostym skutkiem hormonów ani stałą cechą „ustaloną” raz na zawsze. Powstaje w dynamicznym układzie czynników biologicznych, psychologicznych, relacyjnych i kulturowych, a ich znaczenie zmienia się w ciągu życia.
 

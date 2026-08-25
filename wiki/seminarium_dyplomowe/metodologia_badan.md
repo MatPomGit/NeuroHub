@@ -1,5 +1,6 @@
 ---
-lastReviewed: 2026-04-01
+content_type: article
+lastReviewed: 2026-05-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
@@ -13,6 +14,7 @@ Metodologia badań jest kręgosłupem pracy naukowej. Bez solidnego projektu naw
 ### Podejście ilościowe
 
 Badania ilościowe opierają się na **pomiarze liczbowym** i analizie statystycznej. Celem jest wykrycie prawidłowości, testowanie hipotez i - niekiedy - uogólnienie wyników na populację. Kluczowe cechy:
+
 - Standaryzowane narzędzia (kwestionariusze, testy)
 - Duże lub umiarkowane próby
 - Dane wyrażone liczbowo (skale, częstości, czasy reakcji)
@@ -21,6 +23,7 @@ Badania ilościowe opierają się na **pomiarze liczbowym** i analizie statystyc
 ### Podejście jakościowe
 
 Badania jakościowe eksplorują **znaczenia, doświadczenia i procesy** z perspektywy uczestników. Kluczowe cechy:
+
 - Wywiady pogłębione, obserwacja, analiza dokumentów
 - Małe celowe próby (8–30 osób)
 - Dane w formie tekstu (transkrypty, notatki terenowe)
@@ -65,10 +68,12 @@ Stosowane, gdy temat jest mało zbadany. Celem jest generowanie hipotez, nie ich
 ## Operacjonalizacja zmiennych
 
 **Operacjonalizacja** to przekształcenie abstrakcyjnych pojęć w mierzalne wskaźniki. Przykład:
+
 - Pojęcie: „depresja"
 - Operacjonalizacja: wynik w skali BDI-II (Beck Depression Inventory)
 
 Dobra operacjonalizacja jest:
+
 - **Trafna** - mierzy to, co zamierzamy mierzyć
 - **Rzetelna** - daje stabilne wyniki przy ponownym pomiarze
 - **Uzasadniona** - wynika z przyjętej definicji pojęcia
@@ -76,11 +81,13 @@ Dobra operacjonalizacja jest:
 ## Dobór próby
 
 ### Metody probabilistyczne
+
 - **Losowanie proste** - każda osoba z populacji ma równą szansę wyboru
 - **Losowanie warstwowe** - populacja dzielona na warstwy, losowanie w każdej warstwie
 - **Losowanie grupowe (klastrowe)** - losowanie grup (np. szkół), badanie wszystkich członków
 
 ### Metody nieprobabilistyczne (najczęstsze w pracach magisterskich)
+
 - **Próba wygodowa** - osoby łatwo dostępne (studenci, znajomi, grupy online)
 - **Celowa** - dobór ze względu na spełnienie kryterium (np. diagnoza kliniczna)
 - **Kulkowa śniegowa** - uczestnicy rekrutują kolejnych uczestników
@@ -92,6 +99,7 @@ Dobra operacjonalizacja jest:
 **Moc statystyczna** (1−β) to prawdopodobieństwo wykrycia efektu, gdy naprawdę istnieje. Standardowo dąży się do mocy ≥ 0,80.
 
 Przed badaniem wykonaj **analizę mocy** (np. w programie G\*Power), by ustalić minimalną potrzebną liczebność próby. Czynniki wpływające na wymaganą liczebność:
+
 - Oczekiwana wielkość efektu (mała = potrzeba więcej osób)
 - Poziom istotności α (zazwyczaj 0,05)
 - Typ testu statystycznego
@@ -99,6 +107,7 @@ Przed badaniem wykonaj **analizę mocy** (np. w programie G\*Power), by ustalić
 ## Wybór narzędzi pomiaru
 
 Przy wyborze narzędzia sprawdź:
+
 - Czy narzędzie ma **polską adaptację**?
 - Czy dysponuje dobrymi właściwościami psychometrycznymi (α Cronbacha > 0,70, rzetelność test-retest)?
 - Czy wykazuje **trafność** (treściową, kryterialną, konstruktową)?
@@ -107,35 +116,11 @@ Przy wyborze narzędzia sprawdź:
 ## Pisanie rozdziału metodologicznego
 
 Rozdział metody powinien być tak szczegółowy, by możliwa była **replikacja** badania. Zawiera:
+
 1. Charakterystykę uczestników i procedurę rekrutacji
 2. Opis narzędzi z właściwościami psychometrycznymi
 3. Opis procedury zbierania danych
 4. Opis zaplanowanych analiz statystycznych
 5. Informacje o uzyskaniu zgód etycznych
 
-
-
 Solidna metodologia to podstawa wiarygodnej pracy magisterskiej. Decyzje metodologiczne należy podejmować świadomie, z pełnym zrozumieniem ich konsekwencji dla interpretacji wyników. Ograniczenia metodologiczne nie dyskwalifikują badania - ważne, by zostały uczciwie opisane w dyskusji.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Metodologia badań psychologicznych" polega na tym, że najczęstsze trudności w pracy dyplomowej wynikają nie z braku pojedynczej informacji, lecz z jakości planowania, konsekwencji metodologicznej i dyscypliny redakcyjnej.
-
-Dopiero wspólna analiza zagadnień takich jak paradygmaty badawcze, dobór próby oraz pisanie rozdziału metodologicznego pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Metodologia badań psychologicznych" pokazuje, że największą wartość daje traktowanie pracy badawczej jako procesu integrowania pytania, metody, analizy i argumentacji.
-
-
-Dopiero wspólna analiza zagadnień takich jak paradygmaty badawcze, dobór próby oraz pisanie rozdziału metodologicznego pokazuje pełny zakres omawianego zjawiska.
-
-## Bibliografia
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.

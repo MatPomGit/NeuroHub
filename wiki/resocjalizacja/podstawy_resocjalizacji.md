@@ -12,7 +12,7 @@ aliases:
 
 Resocjalizacja nie jest pojedynczą terapią ani prostym „naprawianiem sprawcy”. Obejmuje skoordynowane działania, które mają ograniczyć kolejne naruszenia prawa, zwiększyć zdolność do życia bez krzywdzenia innych oraz stworzyć realne warunki uczestnictwa społecznego. **Readaptacja** dotyczy ponownego podejmowania ról i więzi po okresie izolacji lub wykluczenia, natomiast **zaprzestawanie przestępczości** (*desistance*) oznacza rozwijający się w czasie proces odchodzenia od działalności przestępczej. Te trzy perspektywy łączą bezpieczeństwo publiczne, zmianę psychologiczną i zmianę warunków życia, ale żadna nie daje się zredukować do pozostałych (Maruna, 2001; McNeill, 2012).
 
-## Najważniejsze informacje
+## Wprowadzenie
 
 - Kara i kontrola wyznaczają prawne granice zachowania, lecz same nie uczą umiejętności, nie leczą zaburzeń ani nie zapewniają mieszkania, pracy i wspierających relacji.
 - Ocena ryzyka służy oszacowaniu prawdopodobieństwa określonego zdarzenia w określonym czasie. Formułowanie potrzeb wyjaśnia, **co można zmienić, w jaki sposób i w jakich warunkach**. Nie są to zadania zamienne.

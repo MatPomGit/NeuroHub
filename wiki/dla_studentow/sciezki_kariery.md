@@ -1,5 +1,5 @@
 ---
-lastReviewed: 2026-04-01
+lastReviewed: 2026-08-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
@@ -11,26 +11,32 @@ Współczesny rynek pracy dla absolwentów psychologii jest zróżnicowany i wie
 ## 1. Główne segmenty rynku pracy
 
 ## Ochrona zdrowia i klinika
+
 Obszary: poradnie zdrowia psychicznego, szpitale, oddziały dzienne, interwencja kryzysowa, rehabilitacja neuropsychologiczna.
 
 **Kompetencje krytyczne:**
+
 - diagnoza kliniczna i psychometryczna,
 - dokumentacja medyczna,
 - współpraca interdyscyplinarna (psychiatra, neurolog, fizjoterapeuta),
 - standardy etyczne i prawne.
 
 ## Edukacja i psychologia szkolna
+
 Obszary: szkoły, poradnie psychologiczno-pedagogiczne, programy profilaktyczne.
 
 **Kompetencje krytyczne:**
+
 - diagnoza trudności rozwojowych i edukacyjnych,
 - projektowanie interwencji środowiskowych,
 - współpraca z rodziną i kadrą pedagogiczną.
 
 ## Biznes, HR i UX
+
 Obszary: rekrutacja, ocena kompetencji, rozwój talentów, wellbeing, badania UX i zachowań użytkowników.
 
 **Kompetencje krytyczne:**
+
 - metodologia badań i analiza danych,
 - kompetencje komunikacyjne i facylitacja,
 - podstawy psychometrii i walidacji narzędzi.
@@ -39,6 +45,7 @@ Obszary: rekrutacja, ocena kompetencji, rozwój talentów, wellbeing, badania UX
 Obszary: uczelnie, think tanki, badania kliniczne, laboratoria kognitywne i neuronaukowe.
 
 **Kompetencje krytyczne:**
+
 - metodologia badań ilościowych i jakościowych,
 - statystyka (np. modele regresyjne, SEM, analizy podłużne),
 - rzetelne raportowanie i replikowalność wyników.
@@ -46,26 +53,30 @@ Obszary: uczelnie, think tanki, badania kliniczne, laboratoria kognitywne i neur
 ## 2. Przykładowe profile kariery
 
 ### Profil A - psycholog kliniczny
-1. Studia magisterskie z psychologii.  
-2. Staże i praktyki kliniczne.  
-3. Specjalizacja/kształcenie podyplomowe oraz superwizja.  
-4. Budowanie niszy (np. zaburzenia lękowe, neuropsychologia, psychotraumatologia).
+
+1. Studia magisterskie z psychologii
+2. Staże i praktyki kliniczne
+3. Specjalizacja/kształcenie podyplomowe oraz superwizja
+4. Budowanie niszy (np. zaburzenia lękowe, neuropsychologia, psychotraumatologia)
 
 ### Profil B - psycholog w HR/organizacji
-1. Staż w dziale HR lub firmie doradczej.  
-2. Szkolenia z AC/DC, interview behawioralnego, analityki HR.  
-3. Rozwój kompetencji biznesowych (KPI, efektywność interwencji).  
-4. Specjalizacja w obszarze talent management, learning & development albo employer branding.
+
+1. Staż w dziale HR lub firmie doradczej
+2. Szkolenia z AC/DC, interview behawioralnego, analityki HR
+3. Rozwój kompetencji biznesowych (KPI, efektywność interwencji)
+4. Specjalizacja w obszarze talent management, learning & development albo employer branding
 
 ### Profil C - psycholog badacz (R&D)
-1. Zaangażowanie w koła naukowe i projekty badawcze.  
-2. Umiejętności analizy danych (R/Python/SPSS).  
-3. Publikacje i udział w konferencjach.  
-4. Szkoła doktorska lub praca w zespole badawczo-rozwojowym.
+
+1. Zaangażowanie w koła naukowe i projekty badawcze
+2. Umiejętności analizy danych (R/Python/SPSS)
+3. Publikacje i udział w konferencjach
+4. Szkoła doktorska lub praca w zespole badawczo-rozwojowym
 
 ## 3. Jak podjąć decyzję: model 3D
 
 Użyteczny model decyzyjny:
+
 - **Domena** - z jaką populacją i problemami chcesz pracować?
 - **Działanie** - czy bliższa jest Ci diagnoza, terapia, edukacja, badania czy projektowanie rozwiązań?
 - **Dynamika pracy** - preferujesz pracę indywidualną, zespołową, projektową czy dyżurową?
@@ -75,44 +86,31 @@ Im większa zgodność tych trzech wymiarów, tym większa szansa na stabilny ro
 ## 4. Praktyczne przykłady planowania kariery
 
 ### Przykład 1: Studentka zainteresowana psychoterapią
+
 Plan na 12 miesięcy:
-1. Wolontariat/interwencja kryzysowa (minimum 4 godz./tydzień).  
-2. Kurs z podstaw CBT lub ACT.  
-3. Regularna superwizja grupowa dla początkujących.  
+
+1. Wolontariat/interwencja kryzysowa (minimum 4 godz./tydzień).
+2. Kurs z podstaw CBT lub ACT.
+3. Regularna superwizja grupowa dla początkujących.
 4. Portfolio przypadków edukacyjnych (zanonimizowane opisy procesu diagnostycznego).
 
 ### Przykład 2: Student zainteresowany UX i AI
+
 Plan na 12 miesięcy:
-1. Udział w 2 projektach badań użytkowników.  
-2. Nauka narzędzi analitycznych (np. SQL + podstawy Python).  
-3. Projekt własny: badanie obciążenia poznawczego interfejsu i rekomendacje redesignu.  
+
+1. Udział w 2 projektach badań użytkowników.
+2. Nauka narzędzi analitycznych (np. SQL + podstawy Python).
+3. Projekt własny: badanie obciążenia poznawczego interfejsu i rekomendacje redesignu.
 4. Publiczna prezentacja wyników (case study do portfolio).
 
 ## 5. Typowe błędy na starcie
 
-1. Wybór ścieżki wyłącznie na podstawie mody lub opinii otoczenia.  
-2. Zbieranie certyfikatów bez praktyki i superwizji.  
-3. Brak dokumentowania kompetencji (portfolio, raporty, projekty).  
+1. Wybór ścieżki wyłącznie na podstawie mody lub opinii otoczenia.
+2. Zbieranie certyfikatów bez praktyki i superwizji.
+3. Brak dokumentowania kompetencji (portfolio, raporty, projekty).
 4. Pomijanie kompetencji transferowalnych: komunikacji, pracy zespołowej, etyki danych.
 
-
-
 Kariera po psychologii nie jest pojedynczą decyzją, lecz sekwencją dobrze zaplanowanych kroków. Najbardziej efektywny model to: **wczesna eksploracja → ukierunkowana praktyka → superwizja i feedback → specjalizacja**.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Ścieżki kariery po psychologii - przewodnik praktyczny" polega na tym, że skuteczne przygotowanie zawodowe nie polega wyłącznie na zdobyciu wiedzy deklaratywnej, ale na uczeniu się podejmowania decyzji w realnym kontekście pracy.
-
-Dopiero wspólna analiza zagadnień takich jak główne segmenty rynku pracy, r&d i nauka oraz typowe błędy na starcie pokazuje pełny zakres omawianego zjawiska.
-
-Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
-
-## Podsumowanie
-
-Temat "Ścieżki kariery po psychologii - przewodnik praktyczny" pokazuje, że największą wartość daje przekładanie wiedzy akademickiej na konkretne kompetencje, standardy i nawyki profesjonalne.
-
-
-Dopiero wspólna analiza zagadnień takich jak główne segmenty rynku pracy, r&d i nauka oraz typowe błędy na starcie pokazuje pełny zakres omawianego zjawiska.
 
 ## Bibliografia
 

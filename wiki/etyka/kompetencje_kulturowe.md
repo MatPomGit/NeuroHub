@@ -1,5 +1,6 @@
 ﻿---
-lastReviewed: 2026-04-01
+content_type: article
+lastReviewed: 2026-05-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
@@ -21,6 +22,7 @@ Kompetencja kulturowa obejmuje trzy wymiary:
 3. **Umiejętności** - stosowanie odpowiednich technik i interwencji
 
 Brak kompetencji kulturowych prowadzi do:
+
 - Błędów diagnostycznych (patologizacja normalnych kulturowo zachowań)
 - Gorszych wyników terapeutycznych
 - Przedwczesnego kończenia terapii przez klientów z mniejszości
@@ -40,6 +42,7 @@ Model Sue, Arredondo i McDavis tworzy siatkę 3 × 2:
 ### Świadomość - krytyczny punkt wyjścia
 
 Psycholog musi rozpoznać:
+
 - Własne **uprzywilejowanie kulturowe** - np. zakładanie, że euro-centryczny model Ja (indywidualny, niezależny) jest normą
 - **Nieświadome uprzedzenia** - preferencje kulturowe działające poniżej progu świadomości
 - **Etnocentryzm** - ocenianie innych kultur przez pryzmat własnej
@@ -132,26 +135,3 @@ Kimberlé Crenshaw (1989) wprowadziła pojęcie **intersekscjonalności** - toż
 4. APA (2017). *Multicultural Guidelines: An Ecological Approach to Context, Identity, and Intersectionality*. APA.
 5. Crenshaw, K. (1989). Demarginalizing the intersection of race and sex. *University of Chicago Legal Forum, 1989*(1), 139–167.
 6. Hook, J. N., Davis, D. E., Owen, J., Worthington, E. L., & Utsey, S. O. (2013). Cultural humility: Measuring openness to culturally diverse clients. *Journal of Counseling Psychology, 60*(3), 353–366.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Kompetencje kulturowe w psychologii" polega na tym, że etyka zawodowa nie sprowadza się do mechanicznego stosowania reguł, lecz wymaga ważenia dóbr, ryzyk i odpowiedzialności w warunkach niepewności.
-
-Dopiero wspólna analiza zagadnień takich jak definicja i znaczenie, lgbtq+ w praktyce psychologicznej oraz apa multicultural guidelines (2017) pokazuje pełny zakres omawianego zjawiska.
-
-Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
-
-## Podsumowanie
-
-Temat "Kompetencje kulturowe w psychologii" pokazuje, że najbardziej dojrzałe wnioski etyczne wynikają z łączenia zasad, kontekstu sytuacyjnego i refleksji nad skutkami decyzji.
-
-
-Dopiero wspólna analiza zagadnień takich jak definicja i znaczenie, lgbtq+ w praktyce psychologicznej oraz apa multicultural guidelines (2017) pokazuje pełny zakres omawianego zjawiska.
-
-## Bibliografia
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.

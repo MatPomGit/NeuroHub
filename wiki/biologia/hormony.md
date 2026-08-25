@@ -11,6 +11,7 @@ Hormony to chemiczni posłańcy wydzielani przez gruczoły dokrewne, przenoszone
 ## Układ hormonalny - podstawy
 
 **Endokrynologia** bada gruczoły wydzielania wewnętrznego i ich wydzielane substancje. Kluczowe gruczoły to:
+
 - Podwzgórze - centrum integracji układu nerwowego i hormonalnego; wydziela hormony uwalniające i hamujące
 - Przysadka mózgowa - "master gland"; kontroluje wiele innych gruczołów
 - Nadnercza - kortyzol, adrenalina, androgeny
@@ -24,11 +25,13 @@ Hormony to chemiczni posłańcy wydzielani przez gruczoły dokrewne, przenoszone
 ## Kortyzol - hormon stresu
 
 **Kortyzol** (hydrokortyzol) jest glukokortykoidem wydzielanym przez korę nadnerczy w odpowiedzi na stres. Jego funkcje adaptacyjne:
+
 - Podniesienie poziomu glukozy we krwi (energia dla mięśni)
 - Zahamowanie trawienia, układu immunologicznego i reprodukcji
 - Konsolidacja pamięci emocjonalnej (dlatego stresujące zdarzenia dobrze się zapamiętuje)
 
 **Dysregulacja kortyzolu:**
+
 - Przewlekle podwyższony kortyzol uszkadza neurony hipokampa i zmniejsza jego objętość
 - Jest związany z zaburzeniami depresyjnymi, PTSD i zaburzeniami lękowymi
 - Hipokortyzolizm (niski kortyzol) jest paradoksalnie obserwowany w chronicznym PTSD
@@ -38,6 +41,7 @@ Hormony to chemiczni posłańcy wydzielani przez gruczoły dokrewne, przenoszone
 **Testosteron** jest androgenem syntetyzowanym głównie przez jądra (u mężczyzn) i w mniejszych ilościach przez jajniki i nadnercza (u kobiet).
 
 Związek z zachowaniem:
+
 - **Dominacja i status:** Testosteron wzrasta po wygraniu rywalizacji (efekt zwycięzcy), a spada po przegranej - tworząc pętlę zwrotną między statusem a biologią
 - **Agresja:** Związek jest słabszy niż się popularnie sądzi; testosteron raczej moduluje wrażliwość na status i prowokację niż bezpośrednio powoduje agresję
 - **Podejmowanie ryzyka:** Wyższy poziom testosteronu koreluje z większą skłonnością do ryzyka
@@ -58,6 +62,7 @@ Menopauza i związany z nią spadek estrogenu jest czynnikiem ryzyka objawów de
 **Oksytocyna** jest peptydem wydzielanym przez tylną przysadkę, popularnie zwanym "hormonem miłości" lub "hormonem więzi".
 
 Udokumentowane efekty:
+
 - Ułatwia tworzenie przywiązania (matka-dziecko, partnerzy romantyczni)
 - Zmniejsza reaktywność ciała migdałowatego na zagrożenia
 - Zwiększa ufność i współpracę *w grupie własnej*
@@ -89,26 +94,3 @@ Badanie TSH jest standardem w diagnostyce różnicowej zaburzeń nastroju.
 | Zaburzenia odżywiania | Dysregulacja greliny, leptyny, kortyzolu |
 
 > **Podejście integracyjne:** Zaburzenia psychiczne rzadko mają czysto hormonalne lub czysto psychologiczne podłoże. Hormony i psychologia wzajemnie się kształtują - stres psychologiczny zmienia hormony, a hormony zmieniają percepcję i reagowanie na stres.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Hormony i zachowanie" polega na tym, że mechanizmy biologiczne rzadko działają w izolacji; ich znaczenie ujawnia się dopiero w powiązaniu z rozwojem, środowiskiem i zachowaniem.
-
-Dopiero wspólna analiza zagadnień takich jak układ hormonalny - podstawy, oksytocyna - hormon więzi oraz hormonalne podłoże zaburzeń psychicznych pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-
-## Podsumowanie
-
-Temat "Hormony i zachowanie" pokazuje, że kluczowe pozostaje łączenie poziomu biologicznego z funkcjonalnym, aby uniknąć uproszczenia złożonych zjawisk psychicznych do jednej przyczyny.
-
-
-Dopiero wspólna analiza zagadnień takich jak układ hormonalny - podstawy, oksytocyna - hormon więzi oraz hormonalne podłoże zaburzeń psychicznych pokazuje pełny zakres omawianego zjawiska.
-## Bibliografia
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.

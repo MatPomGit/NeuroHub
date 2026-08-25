@@ -1,8 +1,5 @@
 ---
 content_type: article
----
-
-﻿---
 lastReviewed: 2026-04-30
 reviewCycleMonths: 24
 evidenceCutoffDate: 2026-04-01
@@ -39,28 +36,20 @@ Projektować terapię z wykorzystaniem zachowanych kanałów: trening czytania l
 **Konsekwencja:** poprawa funkcjonalnej samodzielności mimo utrzymujących się ograniczeń szybkości czytania.
 
 ### Zła praktyka
+
 Traktowanie pacjenta jako „globalnie afatycznego” wyłącznie na podstawie słabego czytania.
 
 **Konsekwencja:** niedocenienie zachowanych zasobów językowych i źle dobrany plan terapii.
 
-## Perspektywa nieoczywista
+## Podsumowanie
 
 Pismo bywa postrzegane jako „naturalne przedłużenie mowy”. Czysta aleksja pokazuje, że czytanie jest kulturowo nabytym, neurobiologicznie złożonym „recyklingiem” systemów wzrokowych.
 
 To argument za tym, by rehabilitację czytania traktować jak trening specjalistycznej umiejętności, a nie prosty powrót do stanu sprzed uszkodzenia.
 
-
-
 P.S. i podobne przypadki czystej aleksji są fundamentalne dla neuropsychologii języka pisanego. Pokazują, jak selektywne uszkodzenia połączeń wzrokowo-językowych mogą prowadzić do wyraźnej dysocjacji między czytaniem a innymi funkcjami językowymi.
 
-## Podstawa źródłowa
-
-Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synteza psychologii naukowej VandenBos (2015) oraz właściwe dla rozpoznań kryteria ICD-11 (World Health Organization, 2022).
-
 ## Bibliografia
-
-- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/14646-000](https://doi.org/10.1037/14646-000)
-- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
 
 1. Dejerine, J. (1892). Contribution à l’étude anatomo-pathologique et clinique des différentes variétés de cécité verbale. *Mémoires de la Société de Biologie*.
 2. Cohen, L., et al. (2003). Visual word recognition in the left and right hemispheres: Anatomical and functional correlates of pure alexia. *Annals of Neurology*, 53(2), 171–181.

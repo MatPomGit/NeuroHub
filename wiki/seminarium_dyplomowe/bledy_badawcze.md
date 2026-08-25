@@ -1,11 +1,11 @@
 ---
-lastReviewed: 2026-04-01
+content_type: article
+lastReviewed: 2026-05-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
-content_type: article
 ---
 
-# Typowe błędy badawcze - czego unikać
+# Czego unikać prowadząc badania
 
 Błędy w badaniach psychologicznych mogą pojawić się na każdym etapie - od sformułowania pytania badawczego, przez zbieranie i analizę danych, aż po interpretację wyników. Świadomość typowych pułapek to podstawa rzetelnej pracy naukowej.
 
@@ -169,36 +169,4 @@ Błędy w badaniach psychologicznych mogą pojawić się na każdym etapie - od 
 
 **Rozwiązanie:** Precyzyjnie opisuj, na kogo wyniki są możliwe do uogólnienia i jakie są ograniczenia ekologicznej trafności.
 
-
-
 Znajomość typowych błędów badawczych nie ma na celu demotywowania - żadne badanie nie jest idealne. Chodzi o to, by popełniać błędy *świadomie* i *uczciwie je raportować*. Praca, która rzetelnie opisuje swoje ograniczenia, jest wartościowsza niż ta, która udaje perfekcję.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Typowe błędy badawcze - czego unikać" polega na tym, że najczęstsze trudności w pracy dyplomowej wynikają nie z braku pojedynczej informacji, lecz z jakości planowania, konsekwencji metodologicznej i dyscypliny redakcyjnej.
-
-Dopiero wspólna analiza zagadnień takich jak błędy na etapie projektowania badania, błędy w zbieraniu danych oraz błędy interpretacyjne pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Typowe błędy badawcze - czego unikać" pokazuje, że największą wartość daje traktowanie pracy badawczej jako procesu integrowania pytania, metody, analizy i argumentacji.
-
-
-Dopiero wspólna analiza zagadnień takich jak błędy na etapie projektowania badania, błędy w zbieraniu danych oraz błędy interpretacyjne pokazuje pełny zakres omawianego zjawiska.
-
-## Podstawa źródłowa
-
-Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synteza psychologii naukowej VandenBos (2015) oraz właściwe dla rozpoznań kryteria ICD-11 (World Health Organization, 2022).
-
-## Bibliografia
-
-- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/14646-000](https://doi.org/10.1037/14646-000)
-- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.

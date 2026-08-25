@@ -1,5 +1,7 @@
 ---
-lastReviewed: 2026-07-29
+title: Wsparcie społeczne
+content_type: article
+lastReviewed: 2026-08-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2026-07-29
 aliases:
@@ -11,7 +13,7 @@ aliases:
 
 Wsparcie społeczne obejmuje zasoby dostępne w relacjach z innymi ludźmi, które pomagają zaspokajać potrzeby, radzić sobie z obciążeniem i uczestniczyć w życiu społecznym. Nie oznacza po prostu liczby znajomych. Znaczenie mają struktura sieci, jakość relacji, rodzaj dostępnej pomocy oraz to, czy odpowiada ona aktualnej potrzebie.
 
-## Najważniejsze rozróżnienia
+## Wprowadzenie
 
 Badania rozdzielają kilka powiązanych, ale niezamiennych pojęć:
 

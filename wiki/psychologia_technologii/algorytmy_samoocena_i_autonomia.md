@@ -9,7 +9,7 @@ aliases:
 
 # Algorytmy, samoocena i autonomia
 
-## Najważniejsze informacje
+## Wprowadzenie
 
 System rekomendacyjny porządkuje lub dobiera treści na podstawie określonego celu obliczeniowego i dostępnych danych. Nie „chce” uzależnić, zawstydzić ani zdradzić użytkownika. Psychologiczne skutki mogą jednak powstawać, gdy cel optymalizacji, interfejs, model biznesowy i praktyki społeczne zwiększają ekspozycję na porównania, nagrody społeczne albo utrudniają świadome zakończenie aktywności.
 

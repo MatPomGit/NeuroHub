@@ -1,5 +1,7 @@
 ---
-lastReviewed: 2026-08-01
+title: Kultura a poznanie
+content_type: article
+lastReviewed: 2026-08-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2026-07-31
 aliases:
@@ -9,7 +11,7 @@ aliases:
 
 # Kultura a poznanie, emocje i Ja
 
-## Najważniejsze informacje
+## Wprowadzenie
 
 Kultura wiąże się z percepcją, uwagą, językiem, emocjami, osobowością i rozumieniem siebie, ponieważ dostarcza praktyk, kategorii oraz norm używanych w rozwoju. Nie działa jednak jak pojedyncza przyczyna przypisana do narodu. Procesy biologiczne, historia uczenia się, sytuacja, klasa społeczna, region, pokolenie i migracja współtworzą zachowanie. Różnica średnich między grupami nie mówi jeszcze, jaki mechanizm ją wywołał ani jak zachowa się konkretna osoba.
 

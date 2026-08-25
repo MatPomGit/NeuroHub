@@ -1,5 +1,6 @@
 ﻿---
-lastReviewed: 2026-04-01
+content_type: article
+lastReviewed: 2026-05-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
@@ -37,6 +38,7 @@ Kryzys nie jest patologią - jest **normalną reakcją na nienormalną sytuację
 ## Interwencja kryzysowa
 
 **Interwencja kryzysowa** to natychmiastowa, krótkoterminowa pomoc udzielana osobom w stanie kryzysu. Jej celem jest:
+
 - Przywrócenie bezpieczeństwa i stabilizacji
 - Zmniejszenie intensywności cierpienia
 - Przywrócenie zdolności do radzenia sobie
@@ -79,29 +81,7 @@ Interwencja kryzysowa **nie jest psychoterapią** - różni się celem, długoś
 ---
 
 ## Zobacz też
+
 - Pierwsza pomoc psychologiczna
 - Pomoc psychologiczna - wprowadzenie
 - Komunikacja wspierająca
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Kryzys psychologiczny i interwencja" polega na tym, że skuteczna pomoc nie wynika z samej dobrej intencji, ale z jakości kontaktu, granic, regulacji emocji i adekwatności interwencji do sytuacji osoby wspieranej.
-
-Dopiero wspólna analiza zagadnień takich jak czym jest kryzys psychologiczny?, interwencja kryzysowa oraz zobacz też pokazuje pełny zakres omawianego zjawiska.
-
-Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
-
-## Podsumowanie
-
-Temat "Kryzys psychologiczny i interwencja" pokazuje, że najważniejsze jest traktowanie pomocy jako procesu wymagającego zarówno empatii, jak i struktury, kompetencji oraz samoograniczenia.
-
-
-Dopiero wspólna analiza zagadnień takich jak czym jest kryzys psychologiczny?, interwencja kryzysowa oraz zobacz też pokazuje pełny zakres omawianego zjawiska.
-
-## Bibliografia
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.

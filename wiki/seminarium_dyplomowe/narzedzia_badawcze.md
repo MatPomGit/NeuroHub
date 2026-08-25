@@ -1,8 +1,8 @@
 ---
-lastReviewed: 2026-04-01
+content_type: article
+lastReviewed: 2026-05-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
-content_type: article
 ---
 
 # Narzędzia badawcze i kwestionariusze
@@ -75,11 +75,13 @@ Jeśli korzystasz z narzędzia zaadaptowanego przez kogoś innego, cytuj **artyk
 ## Skale Likerta i inne formaty odpowiedzi
 
 Skale Likerta są najpopularniejszym formatem w kwestionariuszach:
+
 - **5-stopniowa** (1–5) - klasyczna, popularna, intuicyjna
 - **7-stopniowa** (1–7) - wyższa czułość pomiaru
 - **6-stopniowa** (1–6) - brak opcji środkowej, wymuszenie wyboru kierunku
 
 Inne formaty:
+
 - **VAS** (Visual Analogue Scale) - zaznaczanie punktu na linii (0–100 mm)
 - **Wielokrotny wybór** - test zdolności lub wiedzy
 - **Sortowanie** (Q-sort) - uczestnik układa twierdzenia według ważności
@@ -101,40 +103,9 @@ Inne formaty:
 ## Bateria testów i zbieranie danych
 
 Gdy stosujesz wiele narzędzi jednocześnie:
+
 - Pilnuj łącznego czasu wypełniania (optymalnie < 45 min)
 - Ustal kolejność strategicznie - narzędzia budzące emocje umieszczaj na końcu
 - Zadbaj o wskazówki debriefu (szczególnie jeśli temat jest drażliwy)
 
-
-
 Dobre narzędzie badawcze to takie, które jest trafne, rzetelne, dostosowane do grupy i poprawnie zastosowane. Wybór narzędzia powinien wynikać z pytania badawczego, nie z wygody dostępu. Staranność na etapie planowania narzędzi procentuje wiarygodnymi wynikami i przekonującą dyskusją.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Narzędzia badawcze i kwestionariusze" polega na tym, że najczęstsze trudności w pracy dyplomowej wynikają nie z braku pojedynczej informacji, lecz z jakości planowania, konsekwencji metodologicznej i dyscypliny redakcyjnej.
-
-Dopiero wspólna analiza zagadnień takich jak klasyfikacja narzędzi badawczych w psychologii, adaptacja narzędzi zagranicznych oraz bateria testów i zbieranie danych pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Narzędzia badawcze i kwestionariusze" pokazuje, że największą wartość daje traktowanie pracy badawczej jako procesu integrowania pytania, metody, analizy i argumentacji.
-
-
-Dopiero wspólna analiza zagadnień takich jak klasyfikacja narzędzi badawczych w psychologii, adaptacja narzędzi zagranicznych oraz bateria testów i zbieranie danych pokazuje pełny zakres omawianego zjawiska.
-
-## Podstawa źródłowa
-
-Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synteza psychologii naukowej VandenBos (2015) oraz właściwe dla rozpoznań kryteria ICD-11 (World Health Organization, 2022).
-
-## Bibliografia
-
-- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/14646-000](https://doi.org/10.1037/14646-000)
-- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.

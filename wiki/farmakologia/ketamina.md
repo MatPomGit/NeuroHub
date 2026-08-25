@@ -1,5 +1,6 @@
 ﻿---
-lastReviewed: 2026-04-01
+content_type: article
+lastReviewed: 2026-05-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
@@ -106,7 +107,7 @@ Ketamina i esketamina są ważnymi interwencjami w nowoczesnej psychiatrii, ale 
 
 Dla neuropsychologa oznacza to potrzebę monitorowania funkcji poznawczych w sposób dynamiczny i kontekstowy. Dla terapeuty oznacza to możliwość wykorzystania okresu poprawy do pogłębienia pracy psychologicznej, ale bez przeceniania samego efektu farmakologicznego. Najbardziej dojrzałe klinicznie podejście polega na łączeniu ostrożnej farmakoterapii, monitorowania bezpieczeństwa, oceny funkcjonalnej i dobrze osadzonej interwencji psychoterapeutycznej.
 
-## Najważniejsza bibliografia
+## Bibliografia
 
 Araújo-de-Freitas, L., et al. (2021). Neurocognitive aspects of ketamine and esketamine on subjects with treatment-resistant depression: A comparative, randomized and double-blind study. *Psychiatry Research, 302*, 114058.
 
@@ -127,25 +128,3 @@ Nikayin, S., Murphy, E., Krystal, J. H., & Wilkinson, S. T. (2022). Long-term sa
 Sobreiro, M. F. M., et al. (2025). Long-term cognitive outcomes of esketamine nasal spray in treatment-resistant depression: A preliminary report. *Pharmaceuticals, 18*(2), 173.
 
 Wolfson, P., & Vaid, G. (2024). Ketamine-assisted psychotherapy, psychedelic methodologies, and the value of the subjective. *Frontiers in Psychiatry, 15*, 1209419.
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Ketamina" polega na tym, że o wartości leczenia farmakologicznego decyduje nie sama znajomość mechanizmu działania leku, lecz umiejętność dopasowania terapii do profilu objawów, ryzyka i funkcjonowania pacjenta.
-
-Dopiero wspólna analiza zagadnień takich jak streszczenie, dysocjacja, doświadczenie subiektywne i znaczenie psychoterapeutyczne oraz najważniejsza bibliografia pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Ketamina" pokazuje, że najważniejsze jest łączenie wiedzy o mechanizmach działania z monitorowaniem skuteczności, bezpieczeństwa i współpracy terapeutycznej.
-
-
-Dopiero wspólna analiza zagadnień takich jak streszczenie, dysocjacja, doświadczenie subiektywne i znaczenie psychoterapeutyczne oraz najważniejsza bibliografia pokazuje pełny zakres omawianego zjawiska.
-
-## Bibliografia
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.

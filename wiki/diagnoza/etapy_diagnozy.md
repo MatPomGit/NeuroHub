@@ -1,15 +1,19 @@
 ---
+title: Diagnoza psychologiczna
+aliases:
+  - proces diagnozy psychologicznej
+  - Proces diagnozy psychologicznej
+  - diagnoza psychologiczna
+content_type: article
 lastReviewed: 2026-08-09
 reviewCycleMonths: 24
 evidenceCutoffDate: 2026-08-09
-content_type: article
-aliases:
-  - proces diagnozy psychologicznej
+
 ---
 
-# Proces diagnozy psychologicznej
+# Diagnoza psychologiczna
 
-## Najważniejsze rozróżnienia
+## Wprowadzenie
 
 **Diagnoza psychologiczna** jest celowym, iteracyjnym procesem zbierania i integrowania danych, który ma opisać lub wyjaśnić funkcjonowanie osoby i wesprzeć określoną decyzję. Nie jest synonimem pojedynczego testu ani samego przypisania kategorii.
 

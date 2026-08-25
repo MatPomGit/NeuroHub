@@ -1,16 +1,18 @@
 ﻿---
-lastReviewed: 2026-04-01
+content_type: article
+lastReviewed: 2026-05-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
 
-# Testy pamięci w neuropsychologii
+# Testy pamięci
 
 Pamięć jest wielosystemowa - testy neuropsychologiczne muszą rozróżniać jej komponenty, aby precyzyjnie lokalizować deficyt i planować rehabilitację.
 
 ## Dlaczego potrzebujemy testów pamięci?
 
 Subiektywne skargi na pamięć są powszechne - "zapominam, gdzie zostawiłem klucze" dotyczy prawie każdego. Lecz nie każda subiektywna skarga odzwierciedla obiektywny deficyt. Testy neuropsychologiczne pozwalają:
+
 - Odróżnić normalne starzenie od patologicznego;
 - Określić, który system pamięci jest uszkodzony;
 - Śledzić postępy rehabilitacji lub progresję choroby;
@@ -21,6 +23,7 @@ Subiektywne skargi na pamięć są powszechne - "zapominam, gdzie zostawiłem kl
 ### Testy pamięci werbalnej
 
 **WMS-IV (Wechsler Memory Scale - Fourth Edition)** - najszerzej stosowana bateria pamięci. Obejmuje indeksy:
+
 - *Immediate Memory* - bezpośrednie uczenie się;
 - *Delayed Memory* - odroczone przywoływanie po 20–30 min;
 - *Auditory Memory* - pamięć werbalna (listy słów, opowieści);
@@ -71,26 +74,3 @@ Wzorzec deficytów dostarcza informacji diagnostycznej:
 **Efekty praktyki:** Powtarzane badanie tymi samymi testami zawyża wyniki. Ważne przy ocenie leczenia/rehabilitacji - stosuj alternatywne wersje lub uwzględniaj efekt praktyki.
 
 **Rzetelność i trafność:** Każdy test ma określoną rzetelność test-retest i trafność diagnostyczną dla konkretnych schorzeń - wybór testu powinien być adekwatny do pytania klinicznego.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Testy pamięci w neuropsychologii" polega na tym, że wynik testu ma wartość tylko wtedy, gdy jest interpretowany w kontekście celu badania, ograniczeń narzędzia i pozostałych danych o osobie badanej.
-
-Dopiero wspólna analiza zagadnień takich jak dlaczego potrzebujemy testów pamięci?, analiza profilu pamięciowego oraz zasady interpretacji testów pamięci pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Testy pamięci w neuropsychologii" pokazuje, że najważniejsze pozostaje odróżnianie pomiaru od decyzji diagnostycznej oraz łączenie danych testowych z obserwacją i wywiadem.
-
-
-Dopiero wspólna analiza zagadnień takich jak dlaczego potrzebujemy testów pamięci?, analiza profilu pamięciowego oraz zasady interpretacji testów pamięci pokazuje pełny zakres omawianego zjawiska.
-
-## Bibliografia
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.

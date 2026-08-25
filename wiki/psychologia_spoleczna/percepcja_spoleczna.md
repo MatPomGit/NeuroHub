@@ -1,4 +1,6 @@
 ---
+title: Percepcja społeczna
+content_type: article
 lastReviewed: 2026-08-02
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -7,7 +9,7 @@ aliases:
   - postawy społeczne
 ---
 
-# Percepcja społeczna, postawy i atrybucje
+# Percepcja społeczna
 
 Percepcja społeczna obejmuje procesy, dzięki którym rozpoznajemy osoby, interpretujemy zachowania i przewidujemy reakcje. Nie jest biernym zapisem danych: wcześniejsza wiedza, cele, emocje i kontekst współtworzą interpretację. Postawa jest natomiast względnie trwałą oceną obiektu, osoby, grupy lub idei. Ocena może obejmować przekonania, emocje i gotowość do działania, lecz te składniki nie zawsze są zgodne.
 

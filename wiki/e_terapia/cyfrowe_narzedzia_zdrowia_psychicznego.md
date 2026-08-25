@@ -1,15 +1,18 @@
 ---
-lastReviewed: 2026-07-31
-reviewCycleMonths: 18
-evidenceCutoffDate: 2025-12-31
+title: Cyfrowe narzędzia zdrowia psychicznego
 aliases:
   - aplikacje zdrowia psychicznego
   - mHealth
+content_type: article
+lastReviewed: 2026-08-25
+reviewCycleMonths: 18
+evidenceCutoffDate: 2025-12-31
+
 ---
 
 # Cyfrowe narzędzia zdrowia psychicznego
 
-## Najważniejsze informacje
+## Wprowadzenie
 
 Cyfrowe narzędzie zdrowia psychicznego może prowadzić ćwiczenia, monitorować objawy, wspierać kontakt ze specjalistą albo rozmawiać z użytkownikiem. Podobny wygląd aplikacji nie oznacza jednak podobnej funkcji, odpowiedzialności ani poziomu dowodów. Ocenę należy zaczynać od deklarowanego przeznaczenia, populacji i roli człowieka, a dopiero potem od technologii.
 

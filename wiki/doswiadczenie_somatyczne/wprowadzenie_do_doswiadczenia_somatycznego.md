@@ -1,14 +1,15 @@
 ---
-title: "Somatic Experiencing: założenia, praktyka i stan badań"
+title: Somatic Experiencing
 aliases:
   - Somatic Experiencing
   - SE
-lastReviewed: 2026-07-31
-reviewCycleMonths: 12
-evidenceCutoffDate: 2026-07-31
+content_type: article
+lastReviewed: 2026-05-25
+reviewCycleMonths: 24
+evidenceCutoffDate: 2025-12-31
 ---
 
-# Somatic Experiencing: założenia, praktyka i stan badań
+# Somatic Experiencing
 
 Somatic Experiencing (SE) jest opracowanym przez Petera A. Levine’a podejściem do pracy z następstwami stresu i traumy. Kieruje uwagę na doznania cielesne, pobudzenie, impulsy ruchowe i bieżące poczucie bezpieczeństwa, a trudny materiał dawkuje zamiast odtwarzać go od razu w pełnej intensywności. Jest to spójny model kliniczny, lecz jego swoiste wyjaśnienia mechanizmu zmiany i skuteczność mają znacznie słabsze potwierdzenie niż terapie PTSD skoncentrowane na traumie.
 
@@ -171,12 +172,12 @@ Rzetelne stosowanie SE oznacza odróżnianie modelu od faktów, bieżącą zgod�
 ## Bibliografia
 
 1. American Psychological Association. (2017). *Clinical practice guideline for the treatment of posttraumatic stress disorder (PTSD) in adults*.
-2. Andersen, T. E., Lahav, Y., Ellegaard, H., & Manniche, C. (2017). A randomized controlled trial of brief Somatic Experiencing for chronic low back pain and comorbid post-traumatic stress disorder symptoms. *European Journal of Psychotraumatology, 8*(1), 1331108. https://doi.org/10.1080/20008198.2017.1331108
+2. Andersen, T. E., Lahav, Y., Ellegaard, H., & Manniche, C. (2017). A randomized controlled trial of brief Somatic Experiencing for chronic low back pain and comorbid post-traumatic stress disorder symptoms. *European Journal of Psychotraumatology, 8*(1), 1331108, doi: <a href="https://doi.org/10.1080/20008198.2017.1331108">10.1080/20008198.2017.1331108</a>
 3. Brom, D., Stokar, Y., Lawi, C., Nuriel-Porat, V., Ziv, Y., Lerner, K., & Ross, G. (2017). Somatic Experiencing for posttraumatic stress disorder: A randomized controlled outcome study. *Journal of Traumatic Stress, 30*(3), 304–312. https://doi.org/10.1002/jts.22189
-4. Craig, A. D. (2009). How do you feel now? The anterior insula and human awareness. *Nature Reviews Neuroscience, 10*(1), 59–70. https://doi.org/10.1038/nrn2555
-5. Grossman, P. (2023). Fundamental challenges and likely refutations of the five basic premises of the polyvagal theory. *Biological Psychology, 180*, 108589. https://doi.org/10.1016/j.biopsycho.2023.108589
-6. Hansen, M., Ross, J., & Armour, C. (2017). Evidence of the dissociative PTSD subtype: A systematic literature review of latent class and profile analytic studies. *Journal of Affective Disorders, 213*, 59–69. https://doi.org/10.1016/j.jad.2017.02.004
-7. Koch, C., Wilhelm, M., Salzmann, S., Rief, W., & Euteneuer, F. (2019). A meta-analysis of heart rate variability in posttraumatic stress disorder. *Psychological Medicine, 49*(12), 1948–1957. https://doi.org/10.1017/S003329171900207X
+4. Craig, A. D. (2009). How do you feel now? The anterior insula and human awareness. *Nature Reviews Neuroscience, 10*(1), 59–70, doi: <a href="https://doi.org/10.1038/nrn2555">10.1038/nrn2555</a>
+5. Grossman, P. (2023). Fundamental challenges and likely refutations of the five basic premises of the polyvagal theory. *Biological Psychology, 180*, 108589, doi: <a href="https://doi.org/10.1016/j.biopsycho.2023.108589">10.1016/j.biopsycho.2023.108589</a>
+6. Hansen, M., Ross, J., & Armour, C. (2017). Evidence of the dissociative PTSD subtype: A systematic literature review of latent class and profile analytic studies. *Journal of Affective Disorders, 213*, 59–69, doi: <a href="https://doi.org/10.1016/j.jad.2017.02.004">10.1016/j.jad.2017.02.004</a>
+7. Koch, C., Wilhelm, M., Salzmann, S., Rief, W., & Euteneuer, F. (2019). A meta-analysis of heart rate variability in osttraumatic stress disorder. *Psychological Medicine, 49*(12), 1948–1957. https://doi.org/10.1017/S003329171900207X
 8. Kuhfuß, M., Maldei, T., Hetmanek, A., & Baumann, N. (2021). Somatic experiencing: Using interoception and proprioception as core elements of trauma therapy. A scoping literature review. *European Journal of Psychotraumatology, 12*(1), 1929023. https://doi.org/10.1080/20008198.2021.1929023
 9. Levine, P. A. (2010). *In an unspoken voice: How the body releases trauma and restores goodness*. North Atlantic Books.
 10. Lewis, C., Roberts, N. P., Andrew, M., Starling, E., & Bisson, J. I. (2020). Psychological therapies for post-traumatic stress disorder in adults: Systematic review and meta-analysis. *European Journal of Psychotraumatology, 11*(1), 1729633. https://doi.org/10.1080/20008198.2020.1729633

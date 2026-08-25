@@ -1,5 +1,6 @@
 ---
-lastReviewed: 2026-07-31
+title: Kontakt z naturą
+lastReviewed: 2026-08-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 aliases:
@@ -10,7 +11,7 @@ aliases:
 
 # Kontakt z naturą i zdrowie psychiczne
 
-## Najważniejsze informacje
+## Wprowadzenie
 
 Kontakt z zielenią i wodą wiąże się przeciętnie z lepszym dobrostanem, mniejszym nasileniem stresu i korzystniejszym funkcjonowaniem poznawczym. Wyniki obejmują eksperymenty krótkoterminowe oraz badania obserwacyjne, ale ich jakość jest nierówna. Nie każda przestrzeń naturalna jest dostępna, bezpieczna lub odbierana jako kojąca.
 

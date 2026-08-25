@@ -1,4 +1,6 @@
 ---
+title: Religijność, duchowość i rozwój
+content_type: article
 lastReviewed: 2026-08-01
 reviewCycleMonths: 18
 evidenceCutoffDate: 2026-08-01
@@ -9,7 +11,7 @@ aliases:
 
 # Religijność, duchowość i rozwój
 
-## Najważniejsze informacje
+## Wprowadzenie
 
 Psychologia religii opisuje przekonania, praktyki, doświadczenia i więzi związane z tym, co ludzie uznają za święte lub ostatecznie ważne. Nie rozstrzyga prawdziwości twierdzeń teologicznych. Religijność nie jest pojedynczą cechą: afiliacja, wiara, praktyka, doświadczenie i przynależność mogą układać się w różne profile. Duchowość częściowo się z nią pokrywa, lecz może rozwijać się także poza instytucją religijną.
 

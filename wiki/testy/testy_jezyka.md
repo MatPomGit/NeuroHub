@@ -1,5 +1,6 @@
 ﻿---
-lastReviewed: 2026-04-01
+content_type: article
+lastReviewed: 2026-05-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
@@ -11,6 +12,7 @@ Język jest oknem do funkcjonowania półkuli dominującej - diagnostyka afazji,
 ## Komponenty języka i ich ocena
 
 Kompleksowa ocena języka obejmuje sześć głównych komponentów:
+
 1. **Ekspresja mowy** - płynność, artykulacja, prozodia;
 2. **Rozumienie mowy** - podążanie za poleceniami, rozumienie złożonych struktur;
 3. **Powtarzanie** - odtwarzanie słów, zdań i nielogicznych sekwencji;
@@ -60,6 +62,7 @@ Wzorzec różnicowy: Fluencja fonemiczna > semantyczna przy uszkodzeniach czoło
 ## Badanie mowy spontanicznej
 
 Analiza próbek spontanicznej mowy (np. opis obrazka "Cookie Theft" z BDAE) dostarcza informacji o:
+
 - **Fluencji** - liczba słów, długość "runs" bez pauz;
 - **Proporcji treściwości** - Correct Information Units (CIU);
 - **Strukturze gramatycznej** - agramatyzm vs. jargon;
@@ -70,31 +73,9 @@ Analiza mowy spontanicznej jest klinicznie trudniejsza, lecz ekologicznie trafni
 ## Diagnostyka afazji pierwotnej postępującej (PPA)
 
 **PPA** to rzadka forma demencji z izolowanym (początkowo) uszkodzeniem mowy i języka. Trzy warianty:
+
 - *Wariant semantyczny (sv-PPA)*: Utrata wiedzy o słowach i obiektach; fluencja zachowana, rozumienie pojęć zaburzone;
 - *Wariant niefluentny/agramatyczny (nfv-PPA)*: Mowa wysilona, agramatyczna, niepłynna; zachowane rozumienie;
 - *Wariant logopeniczny (lv-PPA)*: Trudności ze znajdowaniem słów, wydłużone pauzy, utrudnione powtarzanie; często patologia Alzheimerowska.
 
 Baterie diagnostyczne (np. Philadelphia Naming Test, Peabody Picture Vocabulary Test) pomagają profilować typy PPA.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Testy językowe w neuropsychologii" polega na tym, że wynik testu ma wartość tylko wtedy, gdy jest interpretowany w kontekście celu badania, ograniczeń narzędzia i pozostałych danych o osobie badanej.
-
-Dopiero wspólna analiza zagadnień takich jak komponenty języka i ich ocena, testy czytania i pisania oraz diagnostyka afazji pierwotnej postępującej (ppa) pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Testy językowe w neuropsychologii" pokazuje, że najważniejsze pozostaje odróżnianie pomiaru od decyzji diagnostycznej oraz łączenie danych testowych z obserwacją i wywiadem.
-
-
-Dopiero wspólna analiza zagadnień takich jak komponenty języka i ich ocena, testy czytania i pisania oraz diagnostyka afazji pierwotnej postępującej (ppa) pokazuje pełny zakres omawianego zjawiska.
-
-## Bibliografia
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.

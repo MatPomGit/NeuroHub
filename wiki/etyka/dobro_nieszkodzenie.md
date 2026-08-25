@@ -1,5 +1,5 @@
 ---
-lastReviewed: 2026-04-01
+lastReviewed: 2026-08-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 content_type: article
@@ -68,6 +68,7 @@ Psycholog ma prawny i etyczny obowiązek opieki (*duty of care*) wobec klientów
 ### Granice kompetencji
 
 Kodeks PTP (2018) i standardy APA (2017) wyraźnie nakładają obowiązek pracy wyłącznie w obszarach, w których psycholog:
+
 - ukończył odpowiednie szkolenie akademickie i podyplomowe,
 - posiada doświadczenie praktyczne pod superwizją,
 - regularnie aktualizuje wiedzę w danej dziedzinie.
@@ -77,6 +78,7 @@ Przekroczenie granic kompetencji - np. prowadzenie terapii traumy bez certyfikac
 ### Obowiązek skierowania
 
 Gdy potrzeby klienta przekraczają kompetencje psychologa, pojawia się **obowiązek skierowania** (*referral obligation*):
+
 1. Poinformowanie klienta o ograniczeniach własnych kompetencji
 2. Wskazanie odpowiednich specjalistów lub placówek
 3. Zapewnienie ciągłości opieki w trakcie przekazania
@@ -89,6 +91,7 @@ Gdy potrzeby klienta przekraczają kompetencje psychologa, pojawia się **obowi�
 ### Terapie o nieudowodnionej lub szkodliwej skuteczności
 
 Psycholog zobowiązany jest stosować metody o **udowodnionej skuteczności** (*evidence-based practice*). Stosowanie interwencji pseudonaukowych (np. terapia regresji do poprzednich wcieleń, terapia pól energetycznych) narusza zasadę nieszkodzenia, ponieważ:
+
 - opóźnia dostęp do skutecznej pomocy,
 - może wyrządzić bezpośrednią szkodę psychologiczną,
 - podważa zaufanie do zawodu.
@@ -98,8 +101,6 @@ Psycholog zobowiązany jest stosować metody o **udowodnionej skuteczności** (*
 Ocena ryzyka samobójczego (*suicide risk assessment*) jest obszarem, w którym zasada nieszkodzenia ma szczególne znaczenie. Zaniedbanie przeprowadzenia oceny lub błędna ocena może prowadzić do śmierci klienta - z poważnymi konsekwencjami prawnymi i etycznymi dla psychologa.
 
 ---
-
-
 
 | Obowiązek | Podstawa | Konsekwencja naruszenia |
 |---|---|---|
@@ -111,14 +112,8 @@ Ocena ryzyka samobójczego (*suicide risk assessment*) jest obszarem, w którym 
 
 ---
 
-## Podstawa źródłowa
-
-Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synteza psychologii naukowej VandenBos (2015) oraz właściwe dla rozpoznań kryteria ICD-11 (World Health Organization, 2022).
-
 ## Bibliografia
 
-- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/14646-000](https://doi.org/10.1037/14646-000)
-- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
 
 - Beauchamp, T. L., & Childress, J. F. (2019). *Principles of biomedical ethics* (8th ed.). Oxford University Press.
 - Dimidjian, S., & Hollon, S. D. (2010). How would we know if psychotherapy were harmful? *American Psychologist, 65*(1), 21–33.
@@ -126,23 +121,3 @@ Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synte
 - Polskie Towarzystwo Psychologiczne. (2018). *Kodeks Etyczno-Zawodowy Psychologa*. PTP.
 - Ustawa z dnia 8 czerwca 2001 r. o zawodzie psychologa. Dz.U. 2001 nr 73 poz. 763.
 
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Dobro i nieszkodzenie w etyce psychologa" polega na tym, że etyka zawodowa nie sprowadza się do mechanicznego stosowania reguł, lecz wymaga ważenia dóbr, ryzyk i odpowiedzialności w warunkach niepewności.
-
-Dopiero wspólna analiza zagadnień takich jak definicje i rozróżnienie, szkody jatrogenne w psychologii oraz szczególne obszary ryzyka pokazuje pełny zakres omawianego zjawiska.
-
-Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
-
-## Podsumowanie
-
-Temat "Dobro i nieszkodzenie w etyce psychologa" pokazuje, że najbardziej dojrzałe wnioski etyczne wynikają z łączenia zasad, kontekstu sytuacyjnego i refleksji nad skutkami decyzji.
-
-
-Dopiero wspólna analiza zagadnień takich jak definicje i rozróżnienie, szkody jatrogenne w psychologii oraz szczególne obszary ryzyka pokazuje pełny zakres omawianego zjawiska.## Bibliografia
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.

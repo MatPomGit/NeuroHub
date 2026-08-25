@@ -1,8 +1,8 @@
 ---
-lastReviewed: 2026-04-19
+content_type: article
+lastReviewed: 2026-05-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
-content_type: article
 ---
 
 # Reiss Motivation Profile (RMP)
@@ -76,36 +76,4 @@ RMP jest narzędziem przydatnym rozwojowo, ale warto zachować ostrożność met
 3. Analizuj motywy w kontekście sytuacyjnym (rola zawodowa, etap życia, stresory).
 4. Unikaj wartościowania („wysoki” ≠ „lepszy”, „niski” ≠ „gorszy”).
 
-
-
 Reiss Motivation Profile porządkuje różnice indywidualne w zakresie potrzeb motywacyjnych i bywa użyteczny w rozwoju osobistym oraz pracy zespołowej. Największą wartość daje wtedy, gdy jest stosowany jako narzędzie **refleksji i dialogu**, a nie jako samodzielna podstawa decyzji diagnostycznych.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Reiss Motivation Profile (RMP)" polega na tym, że różnice indywidualne mają znaczenie praktyczne dopiero wtedy, gdy opisuje się ich konsekwencje dla uczenia się, relacji i środowiska działania, a nie tylko sam wynik pomiaru.
-
-Dopiero wspólna analiza zagadnień takich jak czym jest reiss motivation profile?, obszary zastosowań oraz dobre praktyki użycia pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Reiss Motivation Profile (RMP)" pokazuje, że najważniejsze jest ujmowanie zmienności psychologicznej jako źródła zarówno ryzyka, jak i potencjalnych zasobów.
-
-
-Dopiero wspólna analiza zagadnień takich jak czym jest reiss motivation profile?, obszary zastosowań oraz dobre praktyki użycia pokazuje pełny zakres omawianego zjawiska.
-
-## Podstawa źródłowa
-
-Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synteza psychologii naukowej VandenBos (2015) oraz właściwe dla rozpoznań kryteria ICD-11 (World Health Organization, 2022).
-
-## Bibliografia
-
-- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/14646-000](https://doi.org/10.1037/14646-000)
-- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.

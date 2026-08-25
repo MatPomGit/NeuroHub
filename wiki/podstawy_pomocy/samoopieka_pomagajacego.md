@@ -1,5 +1,6 @@
 ﻿---
-lastReviewed: 2026-04-01
+content_type: article
+lastReviewed: 2026-05-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
@@ -29,6 +30,7 @@ W zawodach pomocowych wypalenie pojawia się częściej niż w innych profesjach
 ## Wtórna traumatyzacja i współczujące zmęczenie
 
 **Wtórna traumatyzacja** (*secondary traumatic stress*, STS) to specyficzny zespół objawów przypominający PTSD, wynikający z regularnego słuchania o traumatycznych doświadczeniach innych. Obejmuje:
+
 - Intruzywne myśli i obrazy z opowieści klientów
 - Unikanie tematów związanych z traumą
 - Nadmierne pobudzenie i drażliwość
@@ -40,23 +42,27 @@ W zawodach pomocowych wypalenie pojawia się częściej niż w innych profesjach
 ## Filary samoopieki
 
 ### Obszar fizyczny
+
 - Regularny sen (7–9 godzin)
 - Aktywność fizyczna
 - Odżywianie i nawodnienie
 - Przerwy w ciągu dnia
 
 ### Obszar emocjonalny
+
 - Rozpoznawanie i nazywanie własnych emocji
 - Regularne superwizje
 - Psychoterapia własna (wskazana lub obowiązkowa w wielu nurtach)
 - Kontakt z bliskimi poza rolą zawodową
 
 ### Obszar poznawczy
+
 - Wyznaczanie granic psychologicznych między pracą a odpoczynkiem
 - Refleksja nad własną pracą i reakcjami kontrprzeniesieniowymi
 - Udział w szkoleniach i konferencjach (zapobieganie stagnacji)
 
 ### Obszar zawodowy
+
 - Superwizja indywidualna i grupowa
 - Jasne granice czasu pracy
 - Balans między przypadkami wymagającymi a mniej obciążającymi
@@ -85,29 +91,7 @@ Sygnały wskazujące na potrzebę działania:
 ---
 
 ## Zobacz też
+
 - Granice w relacji pomocowej
 - Empatia w pomocy psychologicznej
 - Etyka pomocy psychologicznej
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Samoopieka pomagającego" polega na tym, że skuteczna pomoc nie wynika z samej dobrej intencji, ale z jakości kontaktu, granic, regulacji emocji i adekwatności interwencji do sytuacji osoby wspieranej.
-
-Dopiero wspólna analiza zagadnień takich jak dlaczego samoopieka jest konieczna?, filary samoopieki oraz zobacz też pokazuje pełny zakres omawianego zjawiska.
-
-Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
-
-## Podsumowanie
-
-Temat "Samoopieka pomagającego" pokazuje, że najważniejsze jest traktowanie pomocy jako procesu wymagającego zarówno empatii, jak i struktury, kompetencji oraz samoograniczenia.
-
-
-Dopiero wspólna analiza zagadnień takich jak dlaczego samoopieka jest konieczna?, filary samoopieki oraz zobacz też pokazuje pełny zakres omawianego zjawiska.
-
-## Bibliografia
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.

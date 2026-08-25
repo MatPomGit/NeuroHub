@@ -1,5 +1,6 @@
 ﻿---
-lastReviewed: 2026-04-01
+content_type: article
+lastReviewed: 2026-05-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
@@ -11,13 +12,16 @@ Kreatywność to zdolność do tworzenia idei, rozwiązań lub produktów, któr
 ## Definicje i modele kreatywności
 
 ### Cztery P kreatywności (Rhodes, 1961)
+
 Klasyczny podział wyróżnia cztery aspekty:
+
 - **Osoba (Person):** Cechy twórcy - otwartość na doświadczenia, tolerancja na wieloznaczność, ciekawość, skłonność do ryzyka
 - **Proces (Process):** Mechanizmy psychologiczne - generowanie idei, weryfikacja, inkubacja, olśnienie
 - **Produkt (Product):** Efekty - innowacje, dzieła sztuki, rozwiązania problemów
 - **Środowisko (Press/Place):** Warunki sprzyjające lub hamujące - wolność, nagrody, kultura organizacyjna
 
 ### Model etapów twórczych (Wallas, 1926)
+
 1. **Przygotowanie** - intensywna praca nad problemem, zebranie informacji
 2. **Inkubacja** - "odkładanie" problemu; podświadome przetwarzanie
 3. **Olśnienie** - nagłe pojawienie się rozwiązania (aha-moment, insight)
@@ -60,12 +64,14 @@ Popularna koncepcja "szaleńczego geniusza" ma pewne empiryczne podstawy: zaburz
 ## Środowisko i wspieranie kreatywności
 
 **Czynniki sprzyjające:**
+
 - Wolność doboru metod (autonomia proceduralna)
 - Wewnętrzna motywacja (zainteresowanie, ciekawość)
 - Klimat psychologicznego bezpieczeństwa (brak strachu przed oceną)
 - Czas na inkubację i eksperymentowanie
 
 **Czynniki hamujące:**
+
 - Nadzór i kontrola (efekt overjustification)
 - Zewnętrzne nagrody finansowe za "bycie kreatywnym"
 - Limity czasowe i presja produktywności
@@ -80,26 +86,3 @@ Popularna koncepcja "szaleńczego geniusza" ma pewne empiryczne podstawy: zaburz
 **Metody biograficzne:** Analiza historii życia twórczych jednostek; identyfikacja czynników środowiskowych i osobowościowych.
 
 > **Podsumowanie:** Kreatywność nie jest tajemniczym darem nielicznych - ma udokumentowane korelaty psychologiczne i neuronalne, jest podatna na warunki środowiskowe i w pewnym stopniu trenowalna. Kluczowe jest zrozumienie, że twórcze myślenie wymaga zarówno swobody generowania, jak i zdyscyplinowanej weryfikacji.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Kreatywność" polega na tym, że różnice indywidualne mają znaczenie praktyczne dopiero wtedy, gdy opisuje się ich konsekwencje dla uczenia się, relacji i środowiska działania, a nie tylko sam wynik pomiaru.
-
-Dopiero wspólna analiza zagadnień takich jak definicje i modele kreatywności, korelaty indywidualne oraz pomiar kreatywności pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Kreatywność" pokazuje, że najważniejsze jest ujmowanie zmienności psychologicznej jako źródła zarówno ryzyka, jak i potencjalnych zasobów.
-
-
-Dopiero wspólna analiza zagadnień takich jak definicje i modele kreatywności, korelaty indywidualne oraz pomiar kreatywności pokazuje pełny zakres omawianego zjawiska.
-
-## Bibliografia
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.

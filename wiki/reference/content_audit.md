@@ -9,6 +9,7 @@ published: false
 # Audyt treści wiki (content audit)
 
 ## Cel
+
 Ten dokument porządkuje proces przeglądu jakości artykułów i wyznacza priorytety aktualizacji.
 
 ## Tabela audytowa
@@ -28,11 +29,13 @@ Ten dokument porządkuje proces przeglądu jakości artykułów i wyznacza prior
 ## Plan prac etapowych
 
 ### Etap 1: standaryzacja nazw
+
 - Weryfikacja, czy wszystkie pliki i katalogi w `wiki/**` są zapisane w konwencji `snake_case`.
 - Korekta nazw plików niezgodnych ze standardem.
 - Aktualizacja odwołań po zmianach (linki wewnętrzne, `site-config.js`, pliki referencyjne).
 
 ### Etap 2: uzupełnienie struktury
+
 - Uzupełnienie brakujących sekcji wymaganych standardem redakcyjnym:
   - wprowadzenie,
   - definicje,
@@ -45,11 +48,13 @@ Ten dokument porządkuje proces przeglądu jakości artykułów i wyznacza prior
 - Integracja wartościowych istniejących treści bez nadpisywania sensu merytorycznego.
 
 ### Etap 3: cytaty + bibliografia
+
 - Dodanie co najmniej jednego cytatu badacza (krótkiego, kontekstowego i poprawnie opisanego) do każdego aktualizowanego artykułu.
 - Uzupełnienie sekcji `## Bibliografia` o źródła recenzowane i/lub podręcznikowe.
 - Weryfikacja aktualności źródeł oraz równowagi między klasycznymi i nowszymi publikacjami.
 
 ### Etap 4: walidacja automatyczna
+
 - Uruchomienie walidatora struktury artykułów:
   - `python3 tools/konwerter.py validate-article wiki/**/*.md`
 - Uruchomienie zintegrowanej kontroli treści:
@@ -57,6 +62,7 @@ Ten dokument porządkuje proces przeglądu jakości artykułów i wyznacza prior
 - Naprawa błędów i ponowna walidacja do momentu uzyskania wyniku pozytywnego.
 
 ## Definition of Done (DoD) dla artykułu
+
 Artykuł uznaje się za gotowy, gdy łącznie spełnia poniższe kryteria:
 
 1. Ma komplet sekcji wymaganych standardem redakcyjnym projektu.

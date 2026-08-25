@@ -1,5 +1,7 @@
 ---
-lastReviewed: 2026-08-01
+title: Filozofia
+content_type: article
+lastReviewed: 2026-08-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2026-08-01
 aliases:
@@ -8,7 +10,7 @@ aliases:
 
 # Podstawowe działy i metody filozofii
 
-## Najważniejsze informacje
+## Wprowadzenie
 
 Filozofia jest systematycznym namysłem nad najbardziej ogólnymi pytaniami o rzeczywistość, wiedzę, poprawne rozumowanie, wartości i ludzkie istnienie. Nie stanowi jednej metody ani zbioru niezmiennych tez. Łączy analizę pojęć, konstruowanie i ocenę argumentów, interpretację tekstów oraz opis doświadczenia. Wyniki nauk empirycznych mogą rozstrzygać przesłanki filozoficznych argumentów, lecz same nie przesądzają na przykład, co uznać za wiedzę albo jakie normy są słuszne.
 

@@ -1,8 +1,5 @@
 ---
 content_type: article
----
-
-﻿---
 lastReviewed: 2026-04-30
 reviewCycleMonths: 24
 evidenceCutoffDate: 2026-04-01
@@ -41,28 +38,20 @@ W diagnostyce neuropsychologicznej należy oddzielnie oceniać pamięć epizodyc
 **Konsekwencja:** dokładniejszy profil deficytów i lepiej dobrana rehabilitacja.
 
 ### Zła praktyka
+
 Uznawanie, że skoro pacjent zna fakty o sobie, to jego pamięć autobiograficzna jest zachowana.
 
 **Konsekwencja:** przeoczenie głębokich trudności tożsamościowych i adaptacyjnych związanych z utratą pamięci epizodycznej.
 
-## Perspektywa nieoczywista
+## Podsumowanie
 
 W kulturze popularnej tożsamość często sprowadza się do narracji autobiograficznej. K.C. pokazuje, że tożsamość ma warstwową strukturę: można zachować „słownik faktów o sobie”, a utracić doświadczeniowy rdzeń własnej biografii.
 
 To rozróżnienie ma znaczenie etyczne i kliniczne: wsparcie pacjenta powinno obejmować nie tylko trening poznawczy, ale także rekonstrukcję sensu życia „tu i teraz”.
 
-
-
 K.C. jest jednym z kluczowych przypadków dla nowoczesnej nauki o pamięci. Dostarczył silnych dowodów na funkcjonalną odrębność pamięci epizodycznej i semantycznej oraz na związek pamięci autobiograficznej z myśleniem prospektywnym.
 
-## Podstawa źródłowa
-
-Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synteza psychologii naukowej VandenBos (2015) oraz właściwe dla rozpoznań kryteria ICD-11 (World Health Organization, 2022).
-
 ## Bibliografia
-
-- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/14646-000](https://doi.org/10.1037/14646-000)
-- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
 
 1. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1–12.
 2. Tulving, E. (2002). Episodic memory: From mind to brain. *Annual Review of Psychology*, 53, 1–25.

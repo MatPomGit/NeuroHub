@@ -1,6 +1,14 @@
-# Podstawy psychofarmakologii
+---
+title: Psychofarmakologia
+content_type: article
+lastReviewed: 2026-08-25
+aliases:
+ - farmakologia
+---
 
-## Najważniejsze informacje
+# Psychofarmakologia
+
+## Wprowadzenie
 
 Psychofarmakologia bada, jak substancje lecznicze zmieniają funkcjonowanie układu nerwowego oraz jak przekłada się to na objawy, sprawność i jakość życia. Mechanizm molekularny nie jest jednak diagnozą ani obietnicą odpowiedzi. Racjonalna decyzja łączy farmakologię, wyniki badań, stan somatyczny, wcześniejszy przebieg leczenia i preferencje osoby leczonej.
 
@@ -44,7 +52,7 @@ Wynik należy czytać jako odpowiedź na ściśle określone pytanie o populacj�
 
 Średni efekt grupowy nie wyznacza losu jednostki. Krótkie badania rejestracyjne słabiej opisują nawroty, późne szkody, ciążę, wielochorobowość i rzeczywiste przyjmowanie leków. Metaanaliza dziedziczy jakość badań składowych, a porównania sieciowe wymagają dostatecznie podobnych populacji i metod.
 
-## Wniosek
+## Wnioski
 
 Dobra psychofarmakologia nie polega na dopasowaniu etykiety receptora do etykiety rozpoznania. Polega na postawieniu mierzalnego celu, wyborze dowodów odnoszących się do konkretnej osoby, uzgodnieniu bilansu korzyści i szkód oraz zaplanowaniu monitorowania i zakończenia próby.
 

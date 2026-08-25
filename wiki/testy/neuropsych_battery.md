@@ -1,5 +1,6 @@
 ﻿---
-lastReviewed: 2026-04-01
+content_type: article
+lastReviewed: 2026-05-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
@@ -13,6 +14,7 @@ Kompleksowe baterie neuropsychologiczne pozwalają ocenić wiele funkcji poznawc
 **Bateria neuropsychologiczna** to zestaw wystandaryzowanych testów mierzących wiele domen funkcji poznawczych: pamięć, uwagę, język, funkcje wykonawcze, percepcję wzrokowo-przestrzenną i inne. Baterie umożliwiają porównanie różnych zdolności w ramach jednej sesji badania z użyciem wspólnych norm.
 
 Zalety baterii vs. testów selektywnych:
+
 - Profil obejmujący wiele domen → diagnoza miejsca i rozległości uszkodzenia;
 - Standaryzacja procedury;
 - Porównanie z normami dla danej populacji;
@@ -21,6 +23,7 @@ Zalety baterii vs. testów selektywnych:
 ## Halstead-Reitan Neuropsychological Battery (HRNB)
 
 **HRNB** (Ward Halstead, 1947; Ralph Reitan, lata 50.) to najstarsza i niegdyś najpowszechniej stosowana bateria w USA. Składa się z ok. 10 testów, z których najważniejsze:
+
 - *Category Test* - indukcyjne wydobywanie reguł (funkcje wykonawcze);
 - *Tactual Performance Test* - wypełnianie planszy kształtami z zawiązanymi oczami (dotyk, motoryka, pamięć przestrzenna);
 - *Speech Sounds Perception Test* i *Seashore Rhythm Test* - percepcja słuchowa;
@@ -36,6 +39,7 @@ Zalety baterii vs. testów selektywnych:
 ## Repeatable Battery for the Assessment of Neuropsychological Status (RBANS)
 
 **RBANS** (Randolph, 1998) - krótka (ok. 30 min), wielodomenowa bateria z pięcioma indeksami:
+
 - *Immediate Memory* - uczenie listy słów i historii;
 - *Visuospatial/Constructional* - kopiowanie figury, orientacja linii;
 - *Language* - nazywanie rysunków, generowanie słów;
@@ -47,6 +51,7 @@ Silne strony: krótka, z dwiema równoległymi formami (A i B), znormalizowana o
 ## Cambridge Neuropsychological Test Automated Battery (CANTAB)
 
 **CANTAB** to skomputeryzowana, dotykowa bateria testów oparta na klasycznych paradygmatach poznawczych. Obejmuje ponad 100 modułów mierzących pamięć, uwagę, funkcje wykonawcze, prędkość reakcji. Szczególne zalety:
+
 - Niezależna od języka (bodźce wzrokowe) - dobra w badaniach wielokulturowych;
 - Precyzyjny pomiar czasu reakcji;
 - Normy od 4 do 90+ lat;
@@ -81,26 +86,3 @@ Kompleksowa ocena neuropsychologiczna to więcej niż stosowanie baterii - obejm
 | ADHD | CPT, TMT, testy EF + WAIS |
 | Planowanie neurochirurgiczne | Wada test + specyficzne testy (pamięć, język) |
 | Badania kliniczne | CANTAB lub RBANS (standaryzacja, równoległe formy) |
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Baterie neuropsychologiczne" polega na tym, że wynik testu ma wartość tylko wtedy, gdy jest interpretowany w kontekście celu badania, ograniczeń narzędzia i pozostałych danych o osobie badanej.
-
-Dopiero wspólna analiza zagadnień takich jak czym jest bateria neuropsychologiczna?, cambridge neuropsychological test automated battery (cantab) oraz wybór baterii do kontekstu klinicznego pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Baterie neuropsychologiczne" pokazuje, że najważniejsze pozostaje odróżnianie pomiaru od decyzji diagnostycznej oraz łączenie danych testowych z obserwacją i wywiadem.
-
-
-Dopiero wspólna analiza zagadnień takich jak czym jest bateria neuropsychologiczna?, cambridge neuropsychological test automated battery (cantab) oraz wybór baterii do kontekstu klinicznego pokazuje pełny zakres omawianego zjawiska.
-
-## Bibliografia
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.

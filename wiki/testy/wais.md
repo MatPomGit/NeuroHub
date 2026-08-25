@@ -1,5 +1,6 @@
 ﻿---
-lastReviewed: 2026-04-01
+content_type: article
+lastReviewed: 2026-05-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
@@ -15,6 +16,7 @@ Skale Wechslera są najpowszechniej stosowanymi narzędziami psychometrycznymi n
 Wechsler zdefiniował inteligencję jako "*globalną zdolność jednostki do celowego działania, racjonalnego myślenia i efektywnego radzenia sobie ze środowiskiem*" - szerszą niż Binetowska "zdolność akademicka".
 
 **Ewolucja skal:**
+
 - **WAIS** (Wechsler Adult Intelligence Scale, 1955) → WAIS-R, WAIS-III, WAIS-IV, WAIS-V (2024)
 - **WISC** (Wechsler Intelligence Scale for Children, 1949) → WISC-IV, WISC-V
 - **WPPSI** (Wechsler Preschool and Primary Scale of Intelligence) - dla dzieci 2,5–7 lat
@@ -24,6 +26,7 @@ Wechsler zdefiniował inteligencję jako "*globalną zdolność jednostki do cel
 WAIS-IV (2008) mierzy inteligencję przez **cztery indeksy** i ogólny wynik IQ:
 
 ### 1. Rozumowanie werbalne (VCI - Verbal Comprehension Index)
+
 - *Podobieństwa (Similarities)* - co wspólnego mają dwa pojęcia: "jabłko i pomarańcza";
 - *Słownik (Vocabulary)* - definiowanie słów;
 - *Informacje (Information)* - wiedza ogólna.
@@ -31,6 +34,7 @@ WAIS-IV (2008) mierzy inteligencję przez **cztery indeksy** i ogólny wynik IQ:
 Mierzy: rozumowanie werbalne, zdolność tworzenia pojęć, bogactwo słownictwa, wiedzę ogólną. Silnie związane z wykształceniem i środowiskiem kulturowym.
 
 ### 2. Rozumowanie percepcyjne (PRI - Perceptual Reasoning Index)
+
 - *Klocki (Block Design)* - odwzorowanie wzoru z klocków;
 - *Matryce (Matrix Reasoning)* - uzupełnianie wzorów (analogie geometryczne);
 - *Puzzle wizualne (Visual Puzzles)*.
@@ -38,12 +42,14 @@ Mierzy: rozumowanie werbalne, zdolność tworzenia pojęć, bogactwo słownictwa
 Mierzy: rozumowanie indukcyjne, wizualno-przestrzenne, percepcję wzorców, myślenie abstrakcyjne. Mniej zależne od edukacji i kultury niż VCI.
 
 ### 3. Pamięć robocza (WMI - Working Memory Index)
+
 - *Powtarzanie cyfr (Digit Span)* - wprost i wspak;
 - *Arytmetyka*.
 
 Mierzy: pamięć roboczą, uwagę, koncentrację, przetwarzanie liczbowe. Szczególnie wrażliwe na uszkodzenia PFC i zaburzenia uwagi.
 
 ### 4. Szybkość przetwarzania (PSI - Processing Speed Index)
+
 - *Symbol Coding* - szybkie kodowanie symboli pod cyframi;
 - *Przeszukiwanie symboli (Symbol Search)*.
 
@@ -52,6 +58,7 @@ Mierzy: szybkość przetwarzania informacji, uwagę, pracę ręczną. Obniżana 
 ### Ogólny IQ (FSIQ)
 
 **Pełnoskalowy IQ (FSIQ)** - ważona kombinacja wszystkich czterech indeksów. Znormalizowany na M=100, SD=15. Interpretacja:
+
 - 130+ = Bardzo wysoki (top 2,3%)
 - 120–129 = Wysoki
 - 110–119 = Powyżej przeciętnej
@@ -85,6 +92,7 @@ W ostatnich dekadach efekt Flynna zatrzymał się lub odwrócił w niektórych k
 *Processing Speed Index* systematycznie obniża się w uszkodzeniach istoty białej, depresji, wczesnej demencji.
 
 **Estimated Premorbid IQ:** Gdy chcemy ocenić "ile utracił" pacjent, szacujemy premorbidowe IQ przez:
+
 - *Testowe wskaźniki:* NART (National Adult Reading Test) - czytanie nieregularnych słów, oporne na uszkodzenie;
 - *Demograficzne równania* (wiek, wykształcenie, zawód, płeć).
 
@@ -95,26 +103,3 @@ W ostatnich dekadach efekt Flynna zatrzymał się lub odwrócił w niektórych k
 **IQ a sukces życiowy:** IQ wyjaśnia ok. 25% wariancji osiągnięć szkolnych i ok. 10–15% dochodów. Pozostałe czynniki (cechy osobowości, motywacja, EQ, szczęście, środowisko) są równie lub bardziej istotne.
 
 **Inteligencja emocjonalna, praktyczna, twórcza:** Sternberg (triarchic theory) i Gardner (multiple intelligences) wskazują, że WAIS mierzy wąski wycinek tego, co rozumiemy potocznie przez "inteligencję". Nie mierzy: inteligencji emocjonalnej, muzycznej, kinestetycznej, interpersonalnej.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Skale Wechslera - WAIS, WISC i WPPSI" polega na tym, że wynik testu ma wartość tylko wtedy, gdy jest interpretowany w kontekście celu badania, ograniczeń narzędzia i pozostałych danych o osobie badanej.
-
-Dopiero wspólna analiza zagadnień takich jak historia i twórca, efekt flynna oraz ograniczenia i kontrowersje pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Skale Wechslera - WAIS, WISC i WPPSI" pokazuje, że najważniejsze pozostaje odróżnianie pomiaru od decyzji diagnostycznej oraz łączenie danych testowych z obserwacją i wywiadem.
-
-
-Dopiero wspólna analiza zagadnień takich jak historia i twórca, efekt flynna oraz ograniczenia i kontrowersje pokazuje pełny zakres omawianego zjawiska.
-
-## Bibliografia
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.

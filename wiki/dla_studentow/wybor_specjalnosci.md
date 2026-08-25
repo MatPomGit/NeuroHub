@@ -1,14 +1,12 @@
 ﻿---
-lastReviewed: 2026-04-01
+lastReviewed: 2026-08-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
 
-# Wybór specjalności na psychologii
+## Specjalizacja, a specjalność
 
 W toku studiów psychologicznych często pojawiają się dwa podobnie brzmiące pojęcia: **specjalizacja** i **specjalność**. Choć bywają używane zamiennie, na uczelniach zazwyczaj oznaczają coś innego.
-
-## Specjalizacja a specjalność - najważniejsze różnice
 
 - **Specjalność (na studiach)** to ścieżka kształcenia wybierana zwykle na późniejszym etapie studiów. Określa zestaw przedmiotów kierunkowych, praktyk i profil kompetencji absolwenta.
 - **Specjalizacja (zawodowa / podyplomowa)** to najczęściej dalsze, bardziej precyzyjne ukierunkowanie już po studiach - np. certyfikacja psychoterapeutyczna, neuropsychologia kliniczna, seksuologia kliniczna.
@@ -50,47 +48,25 @@ Jeżeli chcesz zaplanować rozwój zawodowy po studiach (ścieżki kariery, wymo
 
 Zanim wybierzesz specjalność, przejdź przez krótką checklistę decyzyjną:
 
-1. **Rynek i miejsca stażowe**  
+1. **Rynek i miejsca stażowe**
    Sprawdź, czy w Twoim mieście i regionie realnie działają placówki, w których zdobędziesz doświadczenie w danym obszarze.
 
-2. **Koszt ścieżki po studiach**  
+2. **Koszt ścieżki po studiach**
    Uwzględnij koszty kursów, superwizji, certyfikacji i dodatkowych szkoleń (często rozłożonych na kilka lat).
 
-3. **Styl pracy**  
+3. **Styl pracy**
    Oceń, czy preferujesz pracę szybką i interwencyjną (np. kryzys, szpital), czy długoterminową i procesową (np. psychoterapia).
 
-4. **Obciążenie emocjonalne i odpowiedzialność prawna**  
+4. **Obciążenie emocjonalne i odpowiedzialność prawna**
    Im więcej decyzji wysokiego ryzyka (np. orzecznictwo, interwencja kryzysowa), tym większa potrzeba superwizji i higieny pracy.
 
-5. **Możliwość łączenia kompetencji**  
+5. **Możliwość łączenia kompetencji**
    Dobra strategia to łączenie dwóch osi, np. diagnoza + psychoterapia albo kliniczna + neuropsychologia.
 
 ## Najczęstsze błędy przy wyborze specjalności
 
-- Wybór „modnego” obszaru bez sprawdzenia codziennych realiów pracy.  
-- Ignorowanie kosztów i czasu certyfikacji podyplomowej.  
-- Odkładanie decyzji o superwizji i własnym rozwoju osobistym.  
-- Traktowanie wyboru jako nieodwracalnego - wiele kompetencji można łączyć i rozwijać etapowo.
+- Wybór „modnego” obszaru bez sprawdzenia codziennych realiów pracy
+- Ignorowanie kosztów i czasu certyfikacji podyplomowej
+- Odkładanie decyzji o superwizji i własnym rozwoju osobistym
+- Traktowanie wyboru jako nieodwracalnego - wiele kompetencji można łączyć i rozwijać etapowo
 
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Wybór specjalności na psychologii" polega na tym, że skuteczne przygotowanie zawodowe nie polega wyłącznie na zdobyciu wiedzy deklaratywnej, ale na uczeniu się podejmowania decyzji w realnym kontekście pracy.
-
-Dopiero wspólna analiza zagadnień takich jak specjalizacja a specjalność - najważniejsze różnice, test dopasowania specjalności oraz najczęstsze błędy przy wyborze specjalności pokazuje pełny zakres omawianego zjawiska.
-
-Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
-
-## Podsumowanie
-
-Temat "Wybór specjalności na psychologii" pokazuje, że największą wartość daje przekładanie wiedzy akademickiej na konkretne kompetencje, standardy i nawyki profesjonalne.
-
-
-Dopiero wspólna analiza zagadnień takich jak specjalizacja a specjalność - najważniejsze różnice, test dopasowania specjalności oraz najczęstsze błędy przy wyborze specjalności pokazuje pełny zakres omawianego zjawiska.
-
-## Bibliografia
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.

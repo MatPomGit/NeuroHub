@@ -1,5 +1,7 @@
 ---
-lastReviewed: 2026-08-02
+title: Agresja społeczna
+content_type: article
+lastReviewed: 2026-08-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 aliases:

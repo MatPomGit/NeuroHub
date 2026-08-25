@@ -8,7 +8,7 @@ aliases:
 
 # Komunikacja i konflikty w parze
 
-## Najważniejsze informacje
+## Wprowadzenie
 
 Komunikacja w parze nie polega na unikaniu różnic, lecz na takim regulowaniu rozmowy, aby obie osoby mogły rozumieć problem, wyrażać potrzeby i podejmować dobrowolne decyzje. Wyniki badań nad parami opisują **prawdopodobieństwa w grupach**, nie pozwalają przewidzieć losu konkretnego związku ani rozstrzygnąć, kto ma rację w pojedynczym sporze.
 

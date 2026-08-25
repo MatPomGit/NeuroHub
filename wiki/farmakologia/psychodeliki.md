@@ -1,5 +1,6 @@
 ﻿---
-lastReviewed: 2026-04-01
+content_type: article
+lastReviewed: 2026-05-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
@@ -63,30 +64,8 @@ Psychodeliki są aktywne - ich efekty zależą w ogromnym stopniu od "set" (nast
 ## Bezpieczeństwo i ryzyko
 
 Klasyczne psychodeliki mają **niski potencjał toksyczności somatycznej** i **brak fizycznej tolerancji**. Główne ryzyka:
+
 - Reakcje trudne psychologicznie (dysforyczne "bad trip") - zarządzane przez przygotowanie i wsparcie terapeutyczne;
 - Trwałe zaburzenia percepcji (HPPD - Hallucinogen Persisting Perception Disorder) - rzadkie;
 - Destabilizacja u osób z predyspozycją do psychozy lub choroby afektywnej dwubiegunowej (bezwzględne przeciwwskazanie);
 - Interakcje farmakologiczne (MAOI + psylocybina = ryzyko zespołu serotoninowego).
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Psychodeliki w terapii" polega na tym, że o wartości leczenia farmakologicznego decyduje nie sama znajomość mechanizmu działania leku, lecz umiejętność dopasowania terapii do profilu objawów, ryzyka i funkcjonowania pacjenta.
-
-Dopiero wspólna analiza zagadnień takich jak historia i kontekst, mdma w ptsd oraz bezpieczeństwo i ryzyko pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Psychodeliki w terapii" pokazuje, że najważniejsze jest łączenie wiedzy o mechanizmach działania z monitorowaniem skuteczności, bezpieczeństwa i współpracy terapeutycznej.
-
-
-Dopiero wspólna analiza zagadnień takich jak historia i kontekst, mdma w ptsd oraz bezpieczeństwo i ryzyko pokazuje pełny zakres omawianego zjawiska.
-
-## Bibliografia
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.

@@ -1,5 +1,7 @@
 ---
-lastReviewed: 2026-08-01
+title: Psychologia kulturowa
+content_type: article
+lastReviewed: 2026-08-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2026-07-31
 aliases:
@@ -7,9 +9,9 @@ aliases:
   - podejście emic i etic
 ---
 
-# Podstawy i metodologia psychologii kulturowej
+# Psychologia kulturowa
 
-## Najważniejsze informacje
+## Wprowadzenie
 
 Psychologia kulturowa bada wzajemne kształtowanie się psychiki i środowisk znaczeń, praktyk oraz instytucji. Nie wystarczy zatem dodać „kultury” jako kolejnej cechy osoby. Trzeba sprawdzić, co dane pojęcie znaczy lokalnie, czy narzędzie mierzy w porównywanych grupach ten sam konstrukt i jakie procesy mogły wytworzyć obserwowaną różnicę. Kraj zamieszkania może być użyteczną informacją o kontekście, lecz nie jest bezpośrednim odpowiednikiem kultury.
 

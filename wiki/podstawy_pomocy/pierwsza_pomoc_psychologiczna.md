@@ -1,5 +1,6 @@
 ﻿---
-lastReviewed: 2026-04-01
+content_type: article
+lastReviewed: 2026-05-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
@@ -30,6 +31,7 @@ PPP **nie jest terapią** - to humanitarna, ludzka interwencja skierowana na zas
 ## Co robić, a czego unikać
 
 ### Robić ✅
+
 - Być spokojnym, obecnym, dostępnym
 - Słuchać aktywnie, bez oceniania
 - Pytać o konkretne potrzeby
@@ -37,6 +39,7 @@ PPP **nie jest terapią** - to humanitarna, ludzka interwencja skierowana na zas
 - Normalizować reakcje stresowe („To normalna reakcja na nienormalną sytuację")
 
 ### Unikać ❌
+
 - Zmuszania do mówienia o traumatycznym wydarzeniu
 - Obietnic bez pokrycia
 - Diagnozowania lub interpretowania zachowania
@@ -48,6 +51,7 @@ PPP **nie jest terapią** - to humanitarna, ludzka interwencja skierowana na zas
 ## Komu udzielamy PPP?
 
 PPP jest przeznaczona dla:
+
 - Bezpośrednich ofiar zdarzenia
 - Świadków (szczególnie tych, którzy ingerowali)
 - Ratowników i personelu pomocowego (którzy sami mogą doświadczać stresu)
@@ -64,6 +68,7 @@ Przez lata powszechnie stosowany był **debriefing psychologiczny** (CISD) - ust
 ## Szkolenie z PPP
 
 PPP może być stosowana przez:
+
 - Psychologów i psychiatrów
 - Ratowników medycznych i pracowników socjalnych
 - Wolontariuszy przeszkolonych przez organizacje humanitarne
@@ -74,29 +79,7 @@ Podstawowe szkolenia PPP dostępne są m.in. poprzez WHO, Czerwony Krzyż i orga
 ---
 
 ## Zobacz też
+
 - Kryzys psychologiczny i interwencja
 - Wsparcie społeczne
 - Komunikacja wspierająca
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Pierwsza pomoc psychologiczna" polega na tym, że skuteczna pomoc nie wynika z samej dobrej intencji, ale z jakości kontaktu, granic, regulacji emocji i adekwatności interwencji do sytuacji osoby wspieranej.
-
-Dopiero wspólna analiza zagadnień takich jak czym jest pierwsza pomoc psychologiczna?, komu udzielamy ppp? oraz zobacz też pokazuje pełny zakres omawianego zjawiska.
-
-Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
-
-## Podsumowanie
-
-Temat "Pierwsza pomoc psychologiczna" pokazuje, że najważniejsze jest traktowanie pomocy jako procesu wymagającego zarówno empatii, jak i struktury, kompetencji oraz samoograniczenia.
-
-
-Dopiero wspólna analiza zagadnień takich jak czym jest pierwsza pomoc psychologiczna?, komu udzielamy ppp? oraz zobacz też pokazuje pełny zakres omawianego zjawiska.
-
-## Bibliografia
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.

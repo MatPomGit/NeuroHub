@@ -9,7 +9,7 @@ aliases:
 
 # Czytanie i psychologia
 
-## Najważniejsze informacje
+## Wprowadzenie
 
 Czytanie nie jest jedną czynnością. Obejmuje rozpoznawanie słów, budowanie modelu znaczenia, wnioskowanie, monitorowanie rozumienia i odnoszenie tekstu do wiedzy. Tekst literacki, instrukcja, wiadomość i lektura terapeutyczna stawiają odmienne wymagania.
 

@@ -1,4 +1,6 @@
 ---
+title: Religia, zdrowie psychiczne i radzenie sobie
+content_type: article
 lastReviewed: 2026-08-01
 reviewCycleMonths: 18
 evidenceCutoffDate: 2026-08-01
@@ -9,7 +11,7 @@ aliases:
 
 # Religia, zdrowie psychiczne i radzenie sobie
 
-## Najważniejsze informacje
+## Wprowadzenie
 
 Religia nie jest pojedynczą „ekspozycją”, która zawsze chroni albo zawsze szkodzi. Związki ze zdrowiem psychicznym powstają przez konkretne mechanizmy: relacje społeczne, interpretację zdarzeń, normy zachowania, rytuały, sposoby regulowania winy i konflikty religijne. Ten sam mechanizm może działać odmiennie zależnie od osoby i otoczenia.
 

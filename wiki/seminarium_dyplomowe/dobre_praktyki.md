@@ -1,8 +1,8 @@
 ---
-lastReviewed: 2026-04-01
+content_type: article
+lastReviewed: 2026-05-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
-content_type: article
 ---
 
 # Dobre praktyki w pisaniu pracy naukowej
@@ -39,33 +39,21 @@ Praca magisterska to projekt rozciągnięty na dwa semestry. Podziel go na mierz
 ### Struktura folderów
 
 Przykładowa organizacja folderu projektu:
+
 ```bash
 magisterka/
-
 ├── literatura/
-
 │   ├── artykuly_pdf/
-
 │   └── notatki_literatury.docx
-
 ├── dane/
-
 │   ├── surowe/ (nigdy nie modyfikuj)
-
 │   └── przetworzone/
-
 ├── analizy/
-
 │   └── skrypt_R.R / plik_SPSS.sav
-
 ├── praca_magisterska/
-
 │   └── wersje/
-
 │       ├── rozdz1_v1.docx
-
 │       └── praca_FINALNA.docx
-
 └── prezentacja_obrona/
 ```
 
@@ -96,6 +84,7 @@ Nie czekaj, aż masz „gotowy rozdział". Wstępne wersje, zarys struktury, naw
 ### Przyjmowanie feedbacku
 
 Komentarze promotora to nie atak - to narzędzie do poprawy. Dobra strategia:
+
 1. Przeczytaj wszystkie uwagi zanim zaczniesz reagować
 2. Grupuj podobne uwagi (np. wszystkie dotyczące cytowań)
 3. Przyjmij co możesz, a gdy nie rozumiesz uwagi - zapytaj na następnym spotkaniu
@@ -126,6 +115,7 @@ Komentarze promotora to nie atak - to narzędzie do poprawy. Dobra strategia:
 ### Radzenie sobie z prokrastynacją
 
 Prokrastynacja w pisaniu pracy ma często źródło w lęku przed nieidealnym rezultatem lub poczuciu przytłoczenia. Strategie:
+
 - Rozbijaj zadania na małe, konkretne kroki (*„Napiszę metodę: opis próby"*)
 - Usuwaj bodźce rozpraszające (telefon, social media)
 - Nagradzaj się za wykonane zadania
@@ -134,6 +124,7 @@ Prokrastynacja w pisaniu pracy ma często źródło w lęku przed nieidealnym re
 ### Syndrom imposta i perfekcjonizm
 
 Wielu studentów czuje, że ich praca *nie jest wystarczająco dobra*. Pamiętaj:
+
 - Praca magisterska ma być *poprawna*, nie *rewolucyjna*
 - Wszyscy, którzy obronili prace, też mieli wątpliwości
 - Promotor by nie dopuścił do obrony, gdyby praca była dyskwalifikująca
@@ -141,41 +132,10 @@ Wielu studentów czuje, że ich praca *nie jest wystarczająco dobra*. Pamiętaj
 ### Wsparcie i sieć
 
 Nie pisz w izolacji. Sieć wsparcia:
+
 - **Promotor** - źródło merytoryczne i strukturyzujące
 - **Inni dyplomanci** - normalizacja, wymiana strategii
 - **Biuro kariery lub centrum wsparcia studenta** - pomoc w kryzysie
 - **Przyjaciele i rodzina** - emocjonalne wsparcie
 
-
-
 Dobre praktyki w pisaniu pracy naukowej to połączenie dyscypliny, organizacji i samoświadomości. Student, który dba zarówno o jakość naukową, jak i o własny dobrostan, ma największe szanse na ukończenie pracy na czas i z satysfakcją. Praca magisterska jest wyzwaniem - ale też jedną z najbardziej rozwijających intelektualnie przygód w życiu akademickim.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Dobre praktyki w pisaniu pracy naukowej" polega na tym, że najczęstsze trudności w pracy dyplomowej wynikają nie z braku pojedynczej informacji, lecz z jakości planowania, konsekwencji metodologicznej i dyscypliny redakcyjnej.
-
-Dopiero wspólna analiza zagadnień takich jak organizacja czasu i zarządzanie projektem, relacja z promotorem oraz dobrostan psychiczny podczas pisania pracy pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Dobre praktyki w pisaniu pracy naukowej" pokazuje, że największą wartość daje traktowanie pracy badawczej jako procesu integrowania pytania, metody, analizy i argumentacji.
-
-
-Dopiero wspólna analiza zagadnień takich jak organizacja czasu i zarządzanie projektem, relacja z promotorem oraz dobrostan psychiczny podczas pisania pracy pokazuje pełny zakres omawianego zjawiska.
-
-## Podstawa źródłowa
-
-Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synteza psychologii naukowej VandenBos (2015) oraz właściwe dla rozpoznań kryteria ICD-11 (World Health Organization, 2022).
-
-## Bibliografia
-
-- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/14646-000](https://doi.org/10.1037/14646-000)
-- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.

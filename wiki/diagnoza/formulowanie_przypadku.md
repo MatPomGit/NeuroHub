@@ -1,15 +1,18 @@
 ---
-lastReviewed: 2026-08-09
-reviewCycleMonths: 24
-evidenceCutoffDate: 2026-08-09
+title: Formułowanie przypadku i opinia psychologiczna
 aliases:
   - formułowanie przypadku klinicznego
   - case formulation
   - case conceptualization
   - opinia psychologiczna
+content_type: article
+lastReviewed: 2026-08-09
+reviewCycleMonths: 24
+evidenceCutoffDate: 2026-08-09
+
 ---
 
-# Formułowanie przypadku, metody dodatkowe i opinia psychologiczna
+# Formułowanie przypadku i opinia psychologiczna
 
 ## Definicja i granice pojęcia
 
@@ -18,6 +21,8 @@ Formułowanie przypadku (*case formulation*, *case conceptualization*) jest proc
 Formułowanie nie zastępuje diagnozy klasyfikacyjnej. Klasyfikacja porządkuje obserwowane objawy według kryteriów i ułatwia komunikację, natomiast formułowanie indywidualizuje ich możliwe mechanizmy i znaczenie. Oba wyniki diagnozy mogą się uzupełniać. Formułowanie pozostaje jednak hipotezą roboczą: należy wskazywać stopień pewności wniosków, sprawdzać je wspólnie z osobą badaną i aktualizować wraz z napływem danych.
 
 Trzeba także odróżnić formułowanie od **opinii psychologicznej**. Formułowanie jest hipotezą wyjaśniającą, która organizuje rozumienie przypadku i plan pomocy. Opinia jest dokumentem komunikacyjnym: odpowiada określonemu odbiorcy na uzgodnione pytanie na podstawie przeprowadzonego badania. Opinia może zawierać zwięzłe elementy formułowania, gdy są potrzebne do odpowiedzi, ale nie powinna ujawniać całej roboczej konceptualizacji ani informacji niezwiązanych z celem.
+
+---
 
 ## Funkcje formułowania
 
@@ -29,6 +34,8 @@ Dobre formułowanie pełni cztery powiązane funkcje:
 - **ewaluacyjną**: dostarcza przewidywań, których sprawdzanie pozwala ocenić hipotezę i korygować plan.
 
 Samo przedstawienie zrozumiałej, niestygmatyzującej hipotezy może porządkować doświadczenie osoby. Nie należy jednak traktować tego możliwego efektu jako dowodu trafności formułowania.
+
+---
 
 ## Modele formułowania
 
@@ -72,6 +79,8 @@ Wyliczenie trzech grup nie wystarcza. Warto opisać ich interakcje, na przykład
 
 Podejścia systemowe analizują funkcję trudności w relacjach i wzorce komunikacji. Podejścia humanistyczne podkreślają doświadczenie osoby, potrzeby, wartości i warunki autentycznego rozwoju. Każda rama oświetla część danych, dlatego integracja nie powinna zacierać różnic między ich założeniami.
 
+---
+
 ## Etapy procesu
 
 1. **Ustalenie celu i zebranie danych.** Określa się pytanie diagnostyczne, uzyskuje zgodę i korzysta z adekwatnych źródeł: wywiadu, obserwacji, pomiarów, dokumentacji oraz, za zgodą, informacji od innych osób.
@@ -91,6 +100,8 @@ Poniższy, fikcyjny przykład pokazuje sposób rozumowania, a nie gotowy szablon
 
 Hipoteza przewiduje, że stopniowe podejmowanie wartościowych aktywności oraz testowanie perfekcjonistycznych przewidywań powinny ograniczać błędne koło wycofania. Przed wyborem pomocy trzeba jednak uzupełnić ocenę między innymi o stan somatyczny, używanie substancji, objawy manii lub hipomanii i ryzyko samobójcze. Dane te mogą zmienić zarówno formułowanie, jak i priorytety działania.
 
+---
+
 ## Zastosowanie w planowaniu pomocy
 
 Formułowanie łączy mechanizm z decyzją, ale nie zastępuje dowodów o skuteczności interwencji ani preferencji osoby. Pomaga:
@@ -102,6 +113,8 @@ Formułowanie łączy mechanizm z decyzją, ale nie zastępuje dowodów o skutec
 5. określić obserwowalne wskaźniki postępu i moment ponownej oceny.
 
 W przykładzie Jana aktywizacja behawioralna odpowiada hipotezie o utracie wzmocnień, a eksperymenty behawioralne mogą sprawdzać przewidywania związane z oceną. Konsultacja medyczna lub psychiatryczna jest zasadna, jeżeli wskazują na nią wyniki oceny; nie wynika automatycznie z samego modelu 5P.
+
+---
 
 ## Kultura i etyka
 
@@ -116,6 +129,8 @@ Etycznie prowadzone formułowanie wymaga:
 - **świadomości pozycji i uprzedzeń**: klinicysta sprawdza, czy norm kultury dominującej, ubóstwa, niepełnosprawności lub doświadczeń dyskryminacji nie interpretuje błędnie jako cech jednostki.
 
 Współtworzenie nie oznacza wymuszonej zgody. Rozbieżności można zapisać jako różne hipotezy, a ograniczenia udziału, na przykład ostry kryzys lub trudności poznawcze, wymagają dostosowania sposobu komunikacji.
+
+---
 
 ## Integracja testów, wywiadu, obserwacji i dokumentacji
 
@@ -132,6 +147,8 @@ Zbieżność niezależnych źródeł może wzmacniać wniosek, ale powtórzenie 
 
 Hierarchia dowodów zależy od twierdzenia. Standaryzowany test wykonania może być lepszy do oszacowania określonej zdolności w warunkach testowych, natomiast rozmowa i obserwacja środowiskowa mogą lepiej opisać codzienne bariery. Żaden wynik nie powinien automatycznie unieważniać pozostałych źródeł.
 
+---
+
 ## Metody o słabiej ustalonych właściwościach: techniki projekcyjne
 
 Termin **techniki projekcyjne** obejmuje niejednorodne zadania z wieloznacznym materiałem, takie jak interpretowanie plam atramentowych, układanie opowieści do obrazków lub wykonywanie rysunków. Założenie, że niejednoznaczny bodziec ujawnia ukryte cechy lub konflikty, samo w sobie nie zapewnia trafności interpretacji. Poszczególne systemy kodowania i wskaźniki trzeba oceniać oddzielnie, a nie przenosić dowodów z jednego narzędzia na całą grupę (Lilienfeld i in., 2000).
@@ -147,6 +164,8 @@ Najważniejsze ograniczenia to:
 Nie oznacza to, że każdy wystandaryzowany wskaźnik każdego narzędzia ma zerową wartość. Dowody są zróżnicowane, dlatego twierdzenie musi odpowiadać konkretnemu systemowi, wskaźnikowi, populacji i celowi. Technika może też ułatwić rozmowę lub dostarczyć materiału do dalszych pytań, ale odpowiedź osoby pozostaje wtedy punktem wyjścia do eksploracji, a nie „odszyfrowanym” faktem o osobowości.
 
 Jeżeli metoda projekcyjna jest używana, psycholog powinien podać jej cel, wersję, sposób standaryzacji, ograniczenia i rzeczywisty wkład do decyzji. **Interpretacja projekcyjna nie może przeważać nad wynikami metod o lepiej ustalonych właściwościach tylko dlatego, że wydaje się bardziej głęboka.** Nie należy na jej podstawie samodzielnie wnioskować o traumie, przemocy, intencjach, rozpoznaniu ani rokowaniu. W warunkach wysokiej stawki brak dowodów na trafność przyrostową przemawia za pominięciem metody.
+
+---
 
 ## Opinia psychologiczna jako odpowiedź na pytanie
 
@@ -182,6 +201,8 @@ Język ostrożny nie może ukrywać odpowiedzi. Gdy dane są mocne, trzeba jasno
 Ograniczenie należy połączyć z jego wpływem: nie tylko „brak danych ze szkoły”, lecz „brak niezależnych danych ze szkoły ogranicza ocenę, czy trudność występuje w więcej niż jednym środowisku”. Warto wskazać, jaką informacją można zmniejszyć niepewność oraz czy ograniczenie zmienia zalecenia. Nie należy przerzucać odpowiedzialności na osobę przez wartościujące określenia „brak współpracy”; trzeba opisać, czego nie wykonano, z jakiego znanego powodu i jaki ma to skutek interpretacyjny.
 
 Przed przekazaniem dokumentu wyniki omawia się z osobą w granicach kontekstu badania. Sprostowanie błędu faktycznego różni się od nacisku na zmianę profesjonalnego wniosku. Rozbieżną perspektywę można odnotować, nie przedstawiając uzgodnienia jako warunku ważności danych.
+
+---
 
 ## Ograniczenia i typowe błędy
 

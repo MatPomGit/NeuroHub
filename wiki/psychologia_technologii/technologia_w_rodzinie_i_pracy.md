@@ -10,7 +10,7 @@ aliases:
 
 # Technologia w rodzinie i pracy
 
-## Najważniejsze informacje
+## Wprowadzenie
 
 Rodzina i miejsce pracy są środowiskami, w których powstają normy cyfrowej dostępności, prywatności i kontroli. To samo urządzenie może zwiększać autonomię, ułatwiając kontakt lub elastyczną pracę, i jednocześnie przenosić wymagania jednej roli do drugiej. Skutków nie wyjaśnia sam czas ekranowy. Ważne są treść i funkcja aktywności, relacje władzy, wiek i potrzeby rozwojowe, pora, możliwość odmowy oraz jakość kontaktu bezpośredniego.
 

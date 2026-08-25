@@ -1,12 +1,18 @@
 ---
-lastReviewed: 2026-07-31
+title: Porozumienie bez przemocy
+content_type: article
 reviewCycleMonths: 24
 evidenceCutoffDate: 2026-07-31
+aliases:
+  - nvc
+  - NVC
+  - Nonviolent Communication
+  - porozumienie bez przemocy
 ---
 
-# Porozumienie bez Przemocy: założenia i cztery komponenty
+# Porozumienie bez przemocy
 
-## Najważniejsze informacje
+## Wprowadzenie
 
 **Porozumienie bez Przemocy** (ang. *Nonviolent Communication*, NVC) jest opracowanym przez Marshalla B. Rosenberga modelem prowadzenia rozmowy i namysłu nad własną reakcją. Uczy rozdzielania opisu zdarzenia od jego oceny, nazywania uczuć i potrzeb oraz formułowania wykonalnych próśb. Nie jest teorią osobowości, metodą diagnozy ani samodzielną psychoterapią.
 

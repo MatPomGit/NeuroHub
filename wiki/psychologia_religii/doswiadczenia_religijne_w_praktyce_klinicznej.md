@@ -1,4 +1,6 @@
 ---
+title: Doświadczenia religijne w praktyce klinicznej
+content_type: article
 lastReviewed: 2026-08-01
 reviewCycleMonths: 18
 evidenceCutoffDate: 2026-08-01
@@ -7,9 +9,9 @@ aliases:
   - skrupulatyzm
 ---
 
-# Doświadczenia religijne w praktyce klinicznej
+# Doświadczenia religijne
 
-## Najważniejsze informacje
+## Wprowadzenie
 
 Treść religijna nie przesądza o patologii. Głos Boga może być figurą w modlitwie, doświadczeniem akceptowanym w danej tradycji, objawem psychotycznym albo metaforą. Powtarzana modlitwa może być dobrowolną praktyką lub kompulsją. Różnicowanie opiera się na formie doświadczenia, kontroli, cierpieniu, wpływie na funkcjonowanie i kontekście kulturowym, a nie na zgodności przekonania z poglądami specjalisty.
 

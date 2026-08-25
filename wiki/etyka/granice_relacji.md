@@ -1,5 +1,6 @@
 ﻿---
-lastReviewed: 2026-04-01
+content_type: article
+lastReviewed: 2026-05-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
@@ -15,6 +16,7 @@ Granice relacji terapeutycznej (*therapeutic boundaries*) to ramy strukturalne i
 Thomas Gutheil i Glen Gabbard, autorzy kanonicznego artykułu *The concept of boundaries in clinical practice* (1993, *American Journal of Psychiatry*), definiują granice jako **parametry roli terapeutycznej**, które odróżniają relację terapeutyczną od każdej innej relacji interpersonalnej.
 
 Granice pełnią trzy funkcje:
+
 1. **Ochronna** - chronią klienta przed nadużyciem władzy i zaufania
 2. **Terapeutyczna** - tworzą bezpieczną przestrzeń do eksploracji
 3. **Modelująca** - uczą klienta zdrowego ustalania granic w relacjach
@@ -62,6 +64,7 @@ Kontakt seksualny między terapeutą a klientem jest **bezwzględnym naruszeniem
 ### Dane epidemiologiczne
 
 Badania przytaczane przez Pope (1994) i późniejsze metaanalizy wskazują, że:
+
 - ok. **7–12% terapeutów płci męskiej** i **1–3% terapeutek** przyznało w badaniach anonimowych do kontaktu seksualnego z klientem,
 - **ok. 90% klientów** doświadczających seksualnych nadużyć ponosi poważną, długotrwałą szkodę psychologiczną,
 - skutki obejmują: PTSD, depresję, trudności w zaufaniu, zaburzenia seksualne, próby samobójcze.
@@ -104,12 +107,14 @@ Spotkania przypadkowe (np. w sklepie) powinny być omówione z wyprzedzeniem. Te
 ### Media społecznościowe
 
 Nowe wyzwania etyczne związane z mediami społecznościowymi obejmują:
+
 - zakaz „śledzenia" profili klientów,
 - niedopuszczalność nawiązywania kontaktu przez media społecznościowe z inicjatywy terapeuty,
 - konieczność posiadania polityki mediów społecznościowych omawianej z klientem.
 
 ---
 
+## Podsumowanie
 
 Nieoczywista perspektywa polega na przesunięciu uwagi z pytania „co jest nie tak” na pytanie „jakie warunki podtrzymują aktualny wzorzec funkcjonowania”. Taki punkt widzenia pozwala dostrzec, że część zachowań ocenianych jako problemowe pełni funkcję adaptacyjną w krótkim horyzoncie czasu. W badaniach oznacza to potrzebę analizy kosztów i korzyści z perspektywy uczestnika, a nie wyłącznie obserwatora. W praktyce może to prowadzić do bardziej realistycznych celów i mniejszego oporu wobec zmiany. Ta rama interpretacyjna nie neguje trudności, lecz porządkuje je w kategoriach funkcji i kontekstu.: Model Gutheila i Gabbarda
 
@@ -120,7 +125,9 @@ Gutheil i Gabbard proponują analizę granic przez pryzmat **kontinuum** - od ry
 3. Czy jest to wzorzec stopniowego „osuwania się granic" (*slippery slope*)?
 4. Czy klient wyraził na to świadomą zgodę?
 
----## Bibliografia
+---
+
+## Bibliografia
 
 - Gutheil, T. G., & Gabbard, G. O. (1993). The concept of boundaries in clinical practice. *American Journal of Psychiatry, 150*(2), 188–196.
 - Pope, K. S. (1994). *Sexual involvement with therapists*. APA.
@@ -128,26 +135,3 @@ Gutheil i Gabbard proponują analizę granic przez pryzmat **kontinuum** - od ry
 - American Psychological Association. (2017). *Ethical principles of psychologists and code of conduct*. APA. (Standards 10.05–10.08)
 - Polskie Towarzystwo Psychologiczne. (2018). *Kodeks Etyczno-Zawodowy Psychologa*. PTP.
 - Zur, O. (2007). *Boundaries in psychotherapy: Ethical and clinical explorations*. APA.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Granice relacji terapeutycznej" polega na tym, że etyka zawodowa nie sprowadza się do mechanicznego stosowania reguł, lecz wymaga ważenia dóbr, ryzyk i odpowiedzialności w warunkach niepewności.
-
-Dopiero wspólna analiza zagadnień takich jak definicja i funkcja granic, seksualne nadużycia w relacji terapeutycznej oraz upominki, kontakt poza gabinetem, media społecznościowe pokazuje pełny zakres omawianego zjawiska.
-
-Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
-
-## Podsumowanie
-
-Temat "Granice relacji terapeutycznej" pokazuje, że najbardziej dojrzałe wnioski etyczne wynikają z łączenia zasad, kontekstu sytuacyjnego i refleksji nad skutkami decyzji.
-
-
-Dopiero wspólna analiza zagadnień takich jak definicja i funkcja granic, seksualne nadużycia w relacji terapeutycznej oraz upominki, kontakt poza gabinetem, media społecznościowe pokazuje pełny zakres omawianego zjawiska.
-
-## Bibliografia
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.

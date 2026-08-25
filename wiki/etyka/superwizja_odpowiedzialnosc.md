@@ -1,13 +1,15 @@
 ---
-lastReviewed: 2026-04-01
+content_type: article
+lastReviewed: 2026-05-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
-content_type: article
 ---
 
 # Superwizja i odpowiedzialność zawodowa psychologa
 
-Superwizja jest kluczowym mechanizmem podtrzymywania jakości i bezpieczeństwa praktyki psychologicznej. Jednocześnie wpisuje się w szerszy system **odpowiedzialności zawodowej** - etycznej, dyscyplinarnej i prawnej - który chroni klientów i buduje zaufanie do profesji.
+Superwizja jest kluczowym mechanizmem podtrzymywania jakości i bezpieczeństwa praktyki psychologicznej. Jednocześnie wpisuje się w szerszy system **odpowiedzialności zawodowej** (etycznej, dyscyplinarnej i prawnej) który chroni klientów i buduje zaufanie do profesji.
+
+Superwizja i odpowiedzialność zawodowa tworzą wzajemnie wzmacniający się system jakości w psychologii. Superwizja jest mechanizmem prewencji - pozwala wychwycić problemy etyczne zanim staną się naruszeniami. Systemy odpowiedzialności (etyczna, dyscyplinarna, cywilna, karna) stanowią mechanizmy korekcyjne - gdy prewencja zawiedzie. Psycholog świadomy obu wymiarów buduje praktykę, która jest bezpieczna dla klientów i satysfakcjonująca zawodowo dla niego samego.
 
 ---
 
@@ -115,6 +117,7 @@ Rzetelna dokumentacja jest **fundamentem odpowiedzialności zawodowej**:
 - **Zapis incydentów krytycznych** - dokumentacja sytuacji kryzysowych i podjętych działań
 
 Dokumentacja powinna być:
+
 - **Obiektywna** - fakty, a nie interpretacje bez podstaw
 - **Terminowa** - tworzona na bieżąco, nie z pamięci po tygodniach
 - **Bezpieczna** - przechowywana zgodnie z RODO i wymaganiami krajowymi (w Polsce min. 20 lat)
@@ -122,36 +125,6 @@ Dokumentacja powinna być:
 
 ---
 
-
-
-Superwizja i odpowiedzialność zawodowa tworzą wzajemnie wzmacniający się system jakości w psychologii. Superwizja jest mechanizmem prewencji - pozwala wychwycić problemy etyczne zanim staną się naruszeniami. Systemy odpowiedzialności (etyczna, dyscyplinarna, cywilna, karna) stanowią mechanizmy korekcyjne - gdy prewencja zawiedzie. Psycholog świadomy obu wymiarów buduje praktykę, która jest bezpieczna dla klientów i satysfakcjonująca zawodowo dla niego samego.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Superwizja i odpowiedzialność zawodowa psychologa" polega na tym, że etyka zawodowa nie sprowadza się do mechanicznego stosowania reguł, lecz wymaga ważenia dóbr, ryzyk i odpowiedzialności w warunkach niepewności.
-
-Dopiero wspólna analiza zagadnień takich jak czym jest superwizja w kontekście etycznym?, obowiązki superwizora oraz dokumentacja jako element odpowiedzialności pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Superwizja i odpowiedzialność zawodowa psychologa" pokazuje, że najbardziej dojrzałe wnioski etyczne wynikają z łączenia zasad, kontekstu sytuacyjnego i refleksji nad skutkami decyzji.
-
-
-Dopiero wspólna analiza zagadnień takich jak czym jest superwizja w kontekście etycznym?, obowiązki superwizora oraz dokumentacja jako element odpowiedzialności pokazuje pełny zakres omawianego zjawiska.
-
-## Podstawa źródłowa
-
-Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synteza psychologii naukowej VandenBos (2015) oraz właściwe dla rozpoznań kryteria ICD-11 (World Health Organization, 2022).
-
 ## Bibliografia
 
-- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/14646-000](https://doi.org/10.1037/14646-000)
-- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
 
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.

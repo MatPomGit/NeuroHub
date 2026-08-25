@@ -1,5 +1,7 @@
 ---
-lastReviewed: 2026-08-01
+title: Akulturacja
+content_type: article
+lastReviewed: 2026-08-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2026-07-31
 aliases:
@@ -7,9 +9,9 @@ aliases:
   - zdrowie psychiczne a kultura
 ---
 
-# Akulturacja, relacje i zdrowie
+# Akulturacja
 
-## Najważniejsze informacje
+## Wprowadzenie
 
 Akulturacja jest zmianą zachodzącą wskutek długotrwałego kontaktu osób i grup o odmiennych repertuarach kulturowych. Nie jest jednokierunkowym „przystosowaniem migranta”, lecz procesem zależnym także od dyskryminacji, polityki państwa, statusu prawnego, języka, zasobów oraz gotowości społeczeństwa przyjmującego do włączenia. Te warunki wpływają na relacje, rozumienie zdrowia, ekspresję objawów i dostęp do pomocy.
 
@@ -108,4 +110,3 @@ Akulturacja przebiega w relacji między osobą a warunkami społecznymi. Zdrowie
 - Sam, D. L., & Berry, J. W. (2010). Acculturation. *Perspectives on Psychological Science, 5*(4), 472–481.
 - Tervalon, M., & Murray-García, J. (1998). Cultural humility versus cultural competence. *Journal of Health Care for the Poor and Underserved, 9*(2), 117–125.
 - World Health Organization. (2022). *World Mental Health Report: Transforming Mental Health for All*.
-

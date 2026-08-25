@@ -1,5 +1,6 @@
 ﻿---
-lastReviewed: 2026-04-01
+content_type: article
+lastReviewed: 2026-05-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
@@ -13,6 +14,8 @@ Apraksja to zaburzenie ruchu, które nie wynika z osłabienia mięśni, drżenia
 **Apraksja** (gr. *apraxia* - niedziałanie) to nabyte zaburzenie celowych, wyuczonych ruchów, niewyjaśnione przez osłabienie mięśniowe, niekoordynację móżdżkową, zaburzenia czucia, brak rozumienia polecenia ani brak współpracy pacjenta. Inaczej mówiąc: *układ motoryczny jest sprawny, lecz "program" ruchu jest niedostępny lub uszkodzony*.
 
 Pacjent z apraksją może normalnie trzymać szczoteczkę do zębów, lecz na polecenie "poczyszcz zęby" wykona serię chaotycznych, nieskoordynowanych ruchów. To dramatyczny kontrast z zachowaną siłą i koordynacją w codziennych, automatycznych działaniach - lecz niemożnością wykonania tych samych ruchów na żądanie lub w nowym kontekście.
+
+---
 
 ## Rodzaje apraksji
 
@@ -38,9 +41,12 @@ Pacjent z apraksją może normalnie trzymać szczoteczkę do zębów, lecz na po
 
 **Apraksja chodu** (frontalna) - zaburzenie chodzenia przy zachowanej sile mięśniowej i koordynacji. Pacjent "klei się do podłogi" (*magnetic gait*), chód jest niepewny, drobnymi kroczkami. Typowa dla wodogłowia normotensyjnego (normal pressure hydrocephalus), otępienia czołowego i uszkodzeń czołowo-ciemieniowych.
 
+---
+
 ## Diagnostyka apraksji
 
 Ocena apraksji obejmuje:
+
 1. **Test imitacji ruchów** - pacjent naśladuje badającego (powtórzenie gestu);
 2. **Test wykonania na polecenie werbalne** - "pokaż jak używa się młotka";
 3. **Test użycia przedmiotu** - ocena użycia rzeczywistego przedmiotu;
@@ -49,9 +55,12 @@ Ocena apraksji obejmuje:
 
 Baterie neuropsychologiczne (np. Florida Apraxia Battery) pozwalają na ilościową ocenę ciężkości apraksji.
 
+---
+
 ## Neurobiologia apraksji
 
 Apraksja ideomotoryczna wiąże się z przerwaniem **sieci apraksji** (praxis network):
+
 - **Lewa dolna kora ciemieniowa (supramarginalis, BA 40)** - przechowuje "formuły" ruchów (engrams);
 - **Lewa kora przedruchowa i suplementarna obszar ruchowy (SMA)** - translacja engrams na programy motoryczne;
 - **Szlaki istoty białej** (pęczek łukowaty, korona promienista) - łączą ciemieniowe engrams z ośrodkami frontalnymi.
@@ -67,26 +76,3 @@ Uszkodzenie w dowolnym punkcie tej sieci - lub przerwanie szlaków łączących 
 **Pierwszorzędowa postępująca apraksja mowy (PPAOS)** - rzadka postać demencji czołowo-skroniowej z izolowaną apraksją mowy (zaburzenia produkcji fonologicznej i motoryki mowy).
 
 **Rehabilitacja:** Terapia apraksji opiera się na intensywnym, wielokrotnym ćwiczeniu zaburzonych ruchów w różnych kontekstach (generalizacja), technikach kompensacyjnych i adaptacji środowiska.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Apraksja" polega na tym, że opis zaburzenia jest użyteczny dopiero wtedy, gdy łączy kryteria rozpoznania z mechanizmami, funkcjonowaniem i zróżnicowaniem przebiegu.
-
-Dopiero wspólna analiza zagadnień takich jak definicja i istota problemu, diagnostyka apraksji oraz apraksja w kontekście klinicznym pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Apraksja" pokazuje, że najbardziej wartościowe podsumowanie wymaga połączenia obrazu klinicznego z różnicowaniem, rokowaniem i implikacjami dla wsparcia.
-
-
-Dopiero wspólna analiza zagadnień takich jak definicja i istota problemu, diagnostyka apraksji oraz apraksja w kontekście klinicznym pokazuje pełny zakres omawianego zjawiska.
-
-## Bibliografia
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.

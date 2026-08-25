@@ -1,5 +1,6 @@
 ﻿---
-lastReviewed: 2026-04-01
+content_type: article
+lastReviewed: 2026-05-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
@@ -17,10 +18,14 @@ WISC-V (2014) to piąta edycja skali Wechslera dla dzieci - jedno z najczęście
 
 WISC-V zastąpił WISC-IV, rozszerzając model o piąty indeks - Rozumowanie Przestrzenne (VSI) - i zmieniając strukturę baterii podstawowej z 10 na 10 podtestów w nowym układzie pięciu domenowych indeksów.
 
-## Struktura testu - pięć indeksów
+---
+
+## Struktura testu
 
 ### 1. Rozumowanie werbalne (VCI - Verbal Comprehension Index)
+
 Podtesty podstawowe:
+
 - **Podobieństwa (Similarities)** - wskazanie cech wspólnych dwóch pojęć (np. „co wspólnego mają pies i kot?");
 - **Słownik (Vocabulary)** - definiowanie słów o rosnącej trudności.
 
@@ -29,9 +34,10 @@ Podtesty uzupełniające: *Informacje, Rozumienie*.
 Mierzy: rozumowanie pojęciowe, zdolność werbalizacji, wiedzę ogólną, bogactwo słownictwa. Silnie skorelowany z poziomem wykształcenia środowiska i kompetencjami językowymi.
 
 ### 2. Wzrokowe przetwarzanie przestrzenne (VSI - Visual Spatial Index)
-*(nowy indeks w WISC-V)*
 
+*(nowy indeks w WISC-V)*
 Podtesty podstawowe:
+
 - **Klocki (Block Design)** - odwzorowanie wzoru z klocków w wyznaczonym czasie;
 - **Puzzle wizualne (Visual Puzzles)** - wybór trzech elementów tworzących pokazany wzór.
 
@@ -40,6 +46,7 @@ Mierzy: analizę i syntezę wzrokowo-przestrzenną, myślenie i rotację przestr
 ### 3. Rozumowanie płynne (FRI - Fluid Reasoning Index)
 
 Podtesty podstawowe:
+
 - **Matryce (Matrix Reasoning)** - uzupełnianie wzorów o charakterze analogii (figury geometryczne);
 - **Wagi (Figure Weights)** - rozwiązywanie równań z symbolami na szalkach wagi.
 
@@ -50,6 +57,7 @@ Mierzy: indukcyjne i dedukcyjne rozumowanie abstrakcyjne, myślenie analogiczne,
 ### 4. Pamięć robocza (WMI - Working Memory Index)
 
 Podtesty podstawowe:
+
 - **Powtarzanie cyfr (Digit Span)** - wprost, wspak i rosnąco (nowy warunek w WISC-V);
 - **Zakres pamięci obrazkowej (Picture Span)** - zapamiętywanie i wskazywanie sekwencji obrazków.
 
@@ -60,12 +68,15 @@ Mierzy: pamięć roboczą werbalną i wzrokową, uwagę, koncentrację i manipul
 ### 5. Szybkość przetwarzania (PSI - Processing Speed Index)
 
 Podtesty podstawowe:
+
 - **Kodowanie (Coding)** - szybkie uzupełnianie symboli według klucza;
 - **Wyszukiwanie symboli (Symbol Search)** - skanowanie rzędów i identyfikacja symbolu docelowego.
 
 Podtesty uzupełniające: *Skreślanie (Cancellation)*.
 
 Mierzy: szybkość i dokładność przetwarzania prostych informacji wzrokowych, uwagę i koordynację wzrokowo-ruchową. Obniżony przez uszkodzenia istoty białej, depresję i ADHD.
+
+---
 
 ## Ogólny wynik - Pełnoskalowe IQ (FSIQ)
 
@@ -82,6 +93,8 @@ Mierzy: szybkość i dokładność przetwarzania prostych informacji wzrokowych,
 | < 70 | Niepełnosprawność intelektualna* | ≤ 2. centyl |
 
 \* Diagnoza niepełnosprawności intelektualnej wymaga potwierdzenia deficytów w funkcjonowaniu adaptacyjnym (DSM-5, ICD-11).
+
+---
 
 ## Wskaźniki uzupełniające (Ancillary Composite Scores)
 
@@ -108,6 +121,8 @@ WISC-V wprowadził dodatkowe wskaźniki dla bardziej szczegółowej interpretacj
 
 > **Przykład kliniczny:** Chłopiec 9-letni skierowany z powodu trudności szkolnych. FSIQ = 96 (przeciętny). Profil: VCI = 112, VSI = 108, FRI = 104 - ale WMI = 78, PSI = 76. Wynik sugeruje deficyty uwagi i pamięci roboczej przy zachowanym potencjale intelektualnym. Kluczowe są WMI i PSI, nie FSIQ.
 
+---
+
 ## Interpretacja profilowa
 
 Sam FSIQ nie wystarcza - konieczna jest analiza:
@@ -116,6 +131,8 @@ Sam FSIQ nie wystarcza - konieczna jest analiza:
 2. **Siły i słabości wewnątrz indeksu** - rozbieżność między podtestami tego samego indeksu sugeruje specyficzne uwarunkowania;
 3. **Porównanie z premorbidowym funkcjonowaniem** - wywiad szkolny, wyniki historyczne;
 4. **Obserwacja behawioralna** - poziom wysiłku, lęk testowy, strategie rozwiązywania zadań.
+
+---
 
 ## Właściwości psychometryczne
 
@@ -136,6 +153,8 @@ Sam FSIQ nie wystarcza - konieczna jest analiza:
 
 **Wymagania dotyczące administratora:** Badanie musi być przeprowadzone przez licencjonowanego psychologa, który ukończył szkolenie z narzędzi Wechslera.
 
+---
+
 ## Porównanie z WISC-IV
 
 | Aspekt | WISC-IV | WISC-V |
@@ -148,32 +167,11 @@ Sam FSIQ nie wystarcza - konieczna jest analiza:
 | Czas badania | 45–65 min | 45–65 min (podstawowe) |
 | Normy | 2003 | 2014 (PL: 2020) |
 
-## Piśmiennictwo
+---
+
+## Bibliografia
 
 - Wechsler, D. (2014). *WISC-V: Wechsler Intelligence Scale for Children - Fifth Edition*. Pearson.
 - Raiford, S. E., & Coalson, D. L. (2014). *Essentials of WISC-V Assessment*. Wiley.
 - Weiss, L. G., Saklofske, D. H., Holdnack, J. A., & Prifitera, A. (2015). *WISC-V Assessment and Interpretation*. Academic Press.
 - Pracownia Testów Psychologicznych PTP (2020). *WISC-V. Skala Inteligencji Wechslera dla Dzieci - Wersja V. Podręcznik*. PTP, Warszawa.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "WISC-V - Wechsler Intelligence Scale for Children" polega na tym, że wynik testu ma wartość tylko wtedy, gdy jest interpretowany w kontekście celu badania, ograniczeń narzędzia i pozostałych danych o osobie badanej.
-
-Dopiero wspólna analiza zagadnień takich jak informacje ogólne, interpretacja profilowa oraz piśmiennictwo pokazuje pełny zakres omawianego zjawiska.
-
-Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
-
-## Podsumowanie
-
-Temat "WISC-V - Wechsler Intelligence Scale for Children" pokazuje, że najważniejsze pozostaje odróżnianie pomiaru od decyzji diagnostycznej oraz łączenie danych testowych z obserwacją i wywiadem.
-
-
-Dopiero wspólna analiza zagadnień takich jak informacje ogólne, interpretacja profilowa oraz piśmiennictwo pokazuje pełny zakres omawianego zjawiska.
-
-## Bibliografia
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.

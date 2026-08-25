@@ -1,8 +1,4 @@
 ---
-content_type: article
----
-
-﻿---
 lastReviewed: 2026-04-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
@@ -87,6 +83,7 @@ Uwzględnia wielopoziomowy kontekst - jednostkę, rodzinę, społeczność, kult
 Większość współczesnych pomagających pracuje eklektycznie - łączy elementy różnych podejść w zależności od potrzeb klienta, etapu pracy i badań empirycznych.
 
 Przykłady integracji:
+
 - **DBT** (Dialectical Behavior Therapy) - CBT + mindfulness + podejście akceptacji
 - **EMDR** - elementy ekspozycji + procesowanie traumy
 - **Terapia schematów** - CBT + psychodynamika + humanizm
@@ -94,37 +91,7 @@ Przykłady integracji:
 ---
 
 ## Zobacz też
+
 - Pomoc psychologiczna - wprowadzenie
 - Relacja pomocowa
 - Etyka pomocy psychologicznej
-
-
-
-
-
-
-
-
-
-
-## Podsumowanie
-
-Temat "Modele pomocy psychologicznej" pokazuje, że najważniejsze jest traktowanie pomocy jako procesu wymagającego zarówno empatii, jak i struktury, kompetencji oraz samoograniczenia.
-
-
-Dopiero wspólna analiza zagadnień takich jak model medyczny (biomedyczny), model systemowy oraz zobacz też pokazuje pełny zakres omawianego zjawiska.
-
-## Podstawa źródłowa
-
-Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synteza psychologii naukowej VandenBos (2015) oraz właściwe dla rozpoznań kryteria ICD-11 (World Health Organization, 2022).
-
-## Bibliografia
-
-- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/14646-000](https://doi.org/10.1037/14646-000)
-- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.

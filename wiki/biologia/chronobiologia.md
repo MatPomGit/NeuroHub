@@ -1,10 +1,11 @@
 ﻿---
-lastReviewed: 2026-04-01
+content_type: article
+lastReviewed: 2026-05-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
 
-# Chronobiologia i sen
+# Chronobiologia
 
 Mózg i ciało działają według rytmu, którego nie widać, lecz którego zakłócenie natychmiast odczuwamy. Chronobiologia bada te wewnętrzne zegary - a badania snu ujawniają, że sen to nie pasywny odpoczynek, lecz aktywna praca mózgu kluczowa dla zdrowia i życia.
 
@@ -18,6 +19,8 @@ Mózg i ciało działają według rytmu, którego nie widać, lecz którego zak�
 
 > **Dlaczego ekrany zaburzają sen?** Urządzenia cyfrowe emitują niebieskie światło o spektrum skutecznie hamującym wydzielanie melatoniny. Korzystanie z telefonów przed snem "przesuwa" zegar biologiczny o 1–2 godziny - dlatego trudniej zasnąć i wstać o planowanej godzinie.
 
+---
+
 ## Melatonina - hormon ciemności
 
 **Melatonina** jest syntetyzowana przez szyszynkę z serotoniny, *wyłącznie w ciemności*. Jest sygnałem "jest noc" dla organizmu, lecz nie jest środkiem nasennym per se - synchronizuje rytmy dobowe i ułatwia zasypianie przez obniżenie temperatury ciała i optymal zasypianie.
@@ -25,6 +28,8 @@ Mózg i ciało działają według rytmu, którego nie widać, lecz którego zak�
 Poziom melatoniny wzrasta 1–2 godziny przed naturalnym zasypianiem (DLMO - dim light melatonin onset), a spada z nastaniem światła. U osób starszych wydzielanie melatoniny maleje - to jeden z mechanizmów zaburzeń snu w starzeniu.
 
 Suplementacja melatoniną (0,5–2 mg) jest skuteczna w resetowaniu zegara (jet lag, praca zmianowa) i ułatwianiu zasypiania u osób z opóźnionym rytmem, lecz nie jest "lekiem nasennym" - nie wydłuża snu ani nie poprawia jego struktury.
+
+---
 
 ## Fazy snu
 
@@ -44,6 +49,8 @@ Sen nie jest jednorodny - przechodzi przez charakterystyczne fazy w cyklach ok. 
 
 Proporcja REM rośnie w ciągu nocy - ostatni cykl jest niemal w całości REM. Dlatego "odcięcie" ostatnich 1–2 godzin snu nieproporcjonalnie redukuje REM.
 
+---
+
 ## Układ glimfatyczny - "myjnia mózgu"
 
 **Układ glimfatyczny** (Maiken Nedergaard, 2013) to sieć perineurono-waskularnych kanałów, przez które płyn mózgowo-rdzeniowy płynie przez śpiący mózg, usuwając metabolity - w tym **beta-amyloid** (złogi tworzące blaszki w chorobie Alzheimera).
@@ -51,6 +58,8 @@ Proporcja REM rośnie w ciągu nocy - ostatni cykl jest niemal w całości REM. 
 Aktywność układu glimfatycznego wzrasta **10-krotnie** podczas głębokiego snu NREM (N3). To jeden z mechanizmów, dla których przewlekły niedobór snu jest czynnikiem ryzyka choroby Alzheimera.
 
 > **Ciekawostka:** Badania z użyciem śledzenia kontrastowego wykazały, że podczas snu przestrzenie międzykomórkowe mózgu *powiększają się o ok. 60%*, umożliwiając efektywniejszy przepływ płynu mózgowo-rdzeniowego. To fizyczna zmiana struktury mózgu podczas snu - na żywo.
+
+---
 
 ## Funkcje snu
 
@@ -64,6 +73,8 @@ Aktywność układu glimfatycznego wzrasta **10-krotnie** podczas głębokiego s
 
 **Odporność:** Podczas snu wydzielane są cytokiny prozapalne wspierające odpowiedź immunologiczną.
 
+---
+
 ## Deprywacja snu
 
 **Konsekwencje ostrej deprywacji snu:** Już jedna noc bez snu powoduje: 40% gorsze zapamiętywanie nowych informacji, obniżenie zdolności uwagowych, drażliwość, zwiększoną reaktywność amygdali (o 60%!), upośledzenie oceny własnej wydajności.
@@ -71,6 +82,8 @@ Aktywność układu glimfatycznego wzrasta **10-krotnie** podczas głębokiego s
 **Przewlekły niedobór snu (<7 godzin):** Wzrost ryzyka: chorób serca, cukrzycy t.2, otyłości, depresji, chorób autoimmunologicznych, wypadków, zmniejszona oczekiwana długość życia.
 
 **Efekty subiektywne vs. obiektywne:** Osoby śpiące 6 godzin/noc adaptują się subjektywnie ("mam energię"), lecz ich obiektywne wykonanie zadań nadal spada. Nie "przyzwyczajamy się" do niedoboru snu - tylko tracimy zdolność oceny własnej sprawności.
+
+---
 
 ## Zaburzenia rytmu dobowego
 
@@ -80,32 +93,12 @@ Aktywność układu glimfatycznego wzrasta **10-krotnie** podczas głębokiego s
 
 **Praca zmianowa:** Chroniczne desynchornizowanie rytmu dobowego. Zwiększone ryzyko chorób sercowo-naczyniowych, raka, cukrzycy, zaburzeń nastroju.
 
-## Sen a zdrowie psychiczne
+---
+
+## Sen, a zdrowie psychiczne
 
 Sen i zdrowie psychiczne są głęboko sprzężone:
+
 - **Depresja:** Zaburzenia snu (bezsenność lub hipersomnia) to niemal universalny objaw; skrócony czas latencji REM jest biologicznym markerem depresji;
 - **Lęk:** Aktywacja układu lękowego hamuje zasypianie; niedobór snu nasila lękliwość;
 - **CBT-I (Terapia poznawczo-behawioralna bezsenności):** Złoty standard leczenia bezsenności chronicznej - skuteczniejsza i bezpieczniejsza niż leki nasenne długoterminowo.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Chronobiologia i sen" polega na tym, że mechanizmy biologiczne rzadko działają w izolacji; ich znaczenie ujawnia się dopiero w powiązaniu z rozwojem, środowiskiem i zachowaniem.
-
-Dopiero wspólna analiza zagadnień takich jak zegary biologiczne - rytmy dobowe, funkcje snu oraz sen a zdrowie psychiczne pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Chronobiologia i sen" pokazuje, że kluczowe pozostaje łączenie poziomu biologicznego z funkcjonalnym, aby uniknąć uproszczenia złożonych zjawisk psychicznych do jednej przyczyny.
-
-
-Dopiero wspólna analiza zagadnień takich jak zegary biologiczne - rytmy dobowe, funkcje snu oraz sen a zdrowie psychiczne pokazuje pełny zakres omawianego zjawiska.
-
-## Bibliografia
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.

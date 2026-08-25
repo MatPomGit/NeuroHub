@@ -8,7 +8,7 @@ aliases:
 
 # Biologia, rozwój i pomiar temperamentu
 
-## Najważniejsze informacje
+## Wprowadzenie
 
 Temperament wyłania się ze współdziałania predyspozycji biologicznych, dojrzewania i doświadczenia. Jego cechy są względnie stabilne, ale ich przejawy, znaczenie i sposoby regulacji zmieniają się z wiekiem. Najlepsza ocena łączy kilka pomiarów i źródeł informacji. Ani gen, ani poziom hormonu, obraz mózgu czy pojedynczy kwestionariusz nie pozwala wiarygodnie „odczytać” temperamentu konkretnej osoby.
 

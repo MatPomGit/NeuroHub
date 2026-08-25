@@ -41,7 +41,7 @@ W projekcie obowiązuje zasada **jeden temat, jeden artykuł kanoniczny**:
 
 [Zalecany wzorzec artykułu](wiki/reference/article_template.md) jest pomocą redakcyjną, a nie obowiązkowym formularzem. Dobieraj sekcje do tematu. Typowy tok wywodu może obejmować:
 
-1. najważniejsze informacje;
+1. Wprowadzenie;
 2. definicję i granice pojęcia;
 3. mechanizmy, modele i uwarunkowania;
 4. stan badań;

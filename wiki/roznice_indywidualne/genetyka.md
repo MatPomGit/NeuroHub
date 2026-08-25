@@ -1,5 +1,6 @@
 ﻿---
-lastReviewed: 2026-04-01
+content_type: article
+lastReviewed: 2026-05-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
@@ -35,26 +36,3 @@ Dzieci adoptowane porównuje się z biologicznymi i adoptującymi rodzicami. Bad
 ## Interakcja genotyp–środowisko
 
 Caspi i Moffitt (2003) opisali interakcję G×E: wariant genu MAO-A moderował skutki maltretowania w dzieciństwie dla agresji. Koncepcja *niche picking* - osoby aktywnie wybierają środowisko zgodne z genotypem, wzmacniając genetyczne tendencje.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Uwarunkowania genetyczne zachowania" polega na tym, że różnice indywidualne mają znaczenie praktyczne dopiero wtedy, gdy opisuje się ich konsekwencje dla uczenia się, relacji i środowiska działania, a nie tylko sam wynik pomiaru.
-
-Dopiero wspólna analiza zagadnień takich jak genetyka behawioralna, badania adopcyjne oraz interakcja genotyp–środowisko pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Uwarunkowania genetyczne zachowania" pokazuje, że najważniejsze jest ujmowanie zmienności psychologicznej jako źródła zarówno ryzyka, jak i potencjalnych zasobów.
-
-
-Dopiero wspólna analiza zagadnień takich jak genetyka behawioralna, badania adopcyjne oraz interakcja genotyp–środowisko pokazuje pełny zakres omawianego zjawiska.
-
-## Bibliografia
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.

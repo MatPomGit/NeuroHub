@@ -1,8 +1,5 @@
 ---
 content_type: article
----
-
-﻿---
 lastReviewed: 2026-04-30
 reviewCycleMonths: 24
 evidenceCutoffDate: 2026-04-01
@@ -39,28 +36,20 @@ Przy podejrzeniu deficytów pamięci po incydentach niedotlenienia warto planowa
 **Konsekwencja:** wcześniejsze wdrożenie strategii kompensacyjnych i realne wsparcie pacjenta oraz rodziny.
 
 ### Zła praktyka
+
 Bagatelizowanie umiarkowanych trudności pamięciowych, gdy obraz MRI nie pokazuje rozległego uszkodzenia mózgu.
 
 **Konsekwencja:** opóźniona diagnoza funkcjonalna i wzrost obciążenia psychospołecznego.
 
-## Perspektywa nieoczywista
+## Podsumowanie
 
 W praktyce medycznej „brak dramatycznego obrazu” bywa mylony z „brakiem istotnego problemu”. R.B. pokazuje, że niewielkie, ale strategiczne uszkodzenie węzła sieci pamięci może znacząco zaburzać życie codzienne.
 
 To argument za łączeniem danych obrazowych z oceną funkcjonalną zamiast hierarchizowania ich jako konkurencyjnych.
 
-
-
 R.B. jest jednym z najważniejszych przypadków dla zrozumienia roli CA1 w pamięci deklaratywnej. Wzmacnia podejście sieciowo-lokalizacyjne: liczy się zarówno lokalizacja uszkodzenia, jak i jego wpływ na działanie całego systemu pamięci.
 
-## Podstawa źródłowa
-
-Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synteza psychologii naukowej VandenBos (2015) oraz właściwe dla rozpoznań kryteria ICD-11 (World Health Organization, 2022).
-
 ## Bibliografia
-
-- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/14646-000](https://doi.org/10.1037/14646-000)
-- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
 
 1. Zola-Morgan, S., Squire, L. R., & Amaral, D. G. (1986). Human amnesia and the medial temporal region: Enduring memory impairment following a bilateral lesion limited to field CA1 of the hippocampus. *Journal of Neuroscience*, 6(10), 2950–2967.
 2. Squire, L. R. (1992). Memory and the hippocampus: A synthesis from findings with rats, monkeys, and humans. *Psychological Review*, 99(2), 195–231.

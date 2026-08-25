@@ -1,5 +1,5 @@
 ﻿---
-lastReviewed: 2026-04-01
+lastReviewed: 2026-08-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
@@ -7,6 +7,7 @@ evidenceCutoffDate: 2025-12-31
 # Genetyczna transmisja zaburzeń psychicznych: odziedziczalność i ryzyko rodzinne
 
 ## Abstrakt
+
 Genetyczna transmisja zaburzeń psychicznych opisuje, w jakim stopniu ryzyko wystąpienia objawów jest związane z dziedziczoną podatnością biologiczną. Najczęściej używa się dwóch wskaźników: **odziedziczalności** (heritability, h²) oraz **ryzyka rodzinnego** (wzrost prawdopodobieństwa u krewnych I stopnia). Artykuł prezentuje praktyczne wartości procentowe dla najczęstszych kategorii klinicznych oraz wyjaśnia, jak poprawnie interpretować dane z badań bliźniąt, adopcyjnych i GWAS.
 
 **Słowa kluczowe:** odziedziczalność, ryzyko rodzinne, genetyka psychiatryczna, transmisja międzypokoleniowa, zaburzenia psychiczne.
@@ -48,6 +49,7 @@ Poniższe wartości pochodzą z metaanaliz i dużych badań rodzinnych/bliźniac
 3. Występują **mechanizmy ochronne**: odporność psychiczna, dobre leczenie, profilaktyka nawrotów.
 
 ### 3.2. Dlaczego bez obciążenia rodzinnego też można zachorować?
+
 - mutacje *de novo*,
 - ekspozycje środowiskowe o dużej sile (np. trauma, przewlekła deprywacja snu, używki),
 - złożone interakcje genotyp–środowisko (G×E).
@@ -69,32 +71,12 @@ Poniższe wartości pochodzą z metaanaliz i dużych badań rodzinnych/bliźniac
 - Różne kryteria diagnostyczne i metody rekrutacji mogą zmieniać oszacowania.
 - Odziedziczalność zależy od kontekstu środowiskowego danej populacji.
 
----## Bibliografia (wybór)
+---
+
+## Bibliografia
+
 1. Sullivan, P. F., Kendler, K. S., & Neale, M. C. (2003). Schizophrenia as a complex trait: evidence from a meta-analysis of twin studies.
 2. Polderman, T. J. C., et al. (2015). Meta-analysis of the heritability of human traits based on fifty years of twin studies.
 3. Wray, N. R., et al. (2018). Genome-wide association analyses identify 44 risk variants and refine the genetic architecture of major depression.
 4. Faraone, S. V., & Larsson, H. (2019). Genetics of attention deficit hyperactivity disorder.
 5. Nöthen, M. M., et al. (2022). Psychiatric genetics and the future of risk prediction.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Genetyczna transmisja zaburzeń psychicznych: odziedziczalność i ryzyko rodzinne" polega na tym, że mechanizmy biologiczne rzadko działają w izolacji; ich znaczenie ujawnia się dopiero w powiązaniu z rozwojem, środowiskiem i zachowaniem.
-
-Dopiero wspólna analiza zagadnień takich jak jak rozumieć „genetyczną transmisję”, wnioski kliniczne oraz bibliografia (wybór) pokazuje pełny zakres omawianego zjawiska.
-
-Taka perspektywa przesuwa akcent z prostego opisu na rozumienie procesu, co zwykle prowadzi do ostrożniejszych i praktycznie lepszych wniosków.
-
-## Podsumowanie
-
-Temat "Genetyczna transmisja zaburzeń psychicznych: odziedziczalność i ryzyko rodzinne" pokazuje, że kluczowe pozostaje łączenie poziomu biologicznego z funkcjonalnym, aby uniknąć uproszczenia złożonych zjawisk psychicznych do jednej przyczyny.
-
-
-Dopiero wspólna analiza zagadnień takich jak jak rozumieć „genetyczną transmisję”, wnioski kliniczne oraz bibliografia (wybór) pokazuje pełny zakres omawianego zjawiska.
-
-## Bibliografia
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.

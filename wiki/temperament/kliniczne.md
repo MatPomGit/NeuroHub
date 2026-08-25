@@ -9,7 +9,7 @@ aliases:
 
 # Temperament w zdrowiu i funkcjonowaniu
 
-## Najważniejsze informacje
+## Wprowadzenie
 
 Temperament nie jest rozpoznaniem klinicznym ani instrukcją wyboru zawodu. Może działać jako **czynnik ryzyka**, **czynnik ochronny** lub **modyfikator** przebiegu funkcjonowania, ponieważ wpływa na prawdopodobieństwo ekspozycji na sytuacje, siłę reakcji i dobór strategii regulacji. Znaczenie profilu zależy od wieku, zdrowia, zasobów, kultury i wymagań środowiska.
 

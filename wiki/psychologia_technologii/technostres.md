@@ -10,7 +10,7 @@ aliases:
 
 # Przeciążenie cyfrowe, technostres i sen
 
-## Najważniejsze informacje
+## Wprowadzenie
 
 Technostres, przeciążenie informacyjne, zmęczenie cyfrowe, FOMO i zaburzenia snu są powiązane, ale nie są nazwami tego samego zjawiska. Pierwsze opisuje proces stresowy wywołany niedopasowaniem wymagań technologicznych i zasobów, drugie relację między napływem informacji a zdolnością ich wykorzystania, a trzecie odczuwany skutek wysiłku. FOMO dotyczy obawy przed pominięciem ważnych doświadczeń innych osób. Zaburzenie snu jest natomiast problemem dotyczącym czasu, ciągłości, jakości lub skutków snu i wymaga odrębnej oceny.
 

@@ -1,14 +1,16 @@
 ---
-lastReviewed: 2026-08-08
+title: Somatyzacja
+content_type: article
+lastReviewed: 2026-08-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2026-08-08
 aliases:
   - somatyzacja
 ---
 
-# Somatyzacja i diagnoza
+# Somatyzacja
 
-## Najważniejsze rozróżnienia
+## Wprowadzenie
 
 **Objaw somatyczny** to odczucie dotyczące ciała, na przykład ból, duszność, zawroty głowy lub zmęczenie. Może wynikać z rozpoznanej choroby, zaburzenia funkcjonowania bez uchwytnej zmiany strukturalnej, działania leku albo kilku procesów jednocześnie.
 

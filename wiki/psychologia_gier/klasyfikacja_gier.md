@@ -1,8 +1,8 @@
 ---
-lastReviewed: 2026-04-01
+content_type: article
+lastReviewed: 2026-05-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
-content_type: article
 ---
 
 # Klasyfikacja i ocena gier (PEGI, ESRB)
@@ -134,36 +134,7 @@ Systemy klasyfikacji gier stoją przed nowymi wyzwaniami:
 - **Sztuczna inteligencja**: gry z AI generującą dialogi mogą produkować treści nieobecne w oryginale
 - **Globalizacja**: różne kultury mają różne progi tolerancji dla przemocy, seksu i innych treści
 
-
-
 Systemy klasyfikacji gier takie jak PEGI i ESRB są ważnymi narzędziami ochrony konsumentów, szczególnie dzieci i rodziców. Ich skuteczność zależy jednak od edukacji i zaangażowania rodziców, egzekwowania przez sprzedawców i regulacji dotyczących dystrybucji cyfrowej. Klinicysta pracujący z dziećmi i rodzinami powinien znać system PEGI i aktywnie edukować rodziców w jego zakresie. Rosnące wyzwania związane z loot boxami, VR i AI wymagają ciągłej aktualizacji ram klasyfikacyjnych.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Klasyfikacja i ocena gier (PEGI, ESRB)" polega na tym, że gry oddziałują nie przez sam fakt istnienia medium, lecz przez strukturę reguł, motywacji, relacji i czasu zaangażowania.
-
-Dopiero wspólna analiza zagadnień takich jak dlaczego klasyfikacja gier jest ważna?, loot boxy - kwestia klasyfikacji hazardu oraz przyszłość klasyfikacji gier pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Klasyfikacja i ocena gier (PEGI, ESRB)" pokazuje, że najbardziej trafne wnioski wymagają odróżnienia efektów samej gry od efektów kontekstu używania, podatności indywidualnych i funkcji, jaką gra pełni dla użytkownika.
-
-
-Dopiero wspólna analiza zagadnień takich jak dlaczego klasyfikacja gier jest ważna?, loot boxy - kwestia klasyfikacji hazardu oraz przyszłość klasyfikacji gier pokazuje pełny zakres omawianego zjawiska.
-
-## Podstawa źródłowa
-
-Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synteza psychologii naukowej VandenBos (2015) oraz właściwe dla rozpoznań kryteria ICD-11 (World Health Organization, 2022).
 
 ## Bibliografia
 
-- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/14646-000](https://doi.org/10.1037/14646-000)
-- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.

@@ -1,15 +1,18 @@
 ---
-lastReviewed: 2026-07-31
-reviewCycleMonths: 24
-evidenceCutoffDate: 2025-12-31
+title: Terapia online
 aliases:
   - e-terapia
   - telepsychologia
+content_type: article
+lastReviewed: 2026-08-25
+reviewCycleMonths: 24
+evidenceCutoffDate: 2025-12-31
+
 ---
 
 # Terapia online
 
-## Najważniejsze informacje
+## Wprowadzenie
 
 **Terapia online** to pomoc psychologiczna prowadzona na odległość przez specjalistę za pomocą środków łączności elektronicznej. Obejmuje spotkania wideo, rozmowy telefoniczne i kontakt tekstowy, ale nie jest nazwą zbiorczą dla każdej aplikacji dotyczącej dobrostanu. Samodzielne programy, aplikacje i chatboty opisano jako [cyfrowe narzędzia zdrowia psychicznego](wiki/e_terapia/cyfrowe_narzedzia_zdrowia_psychicznego.md), a interwencje immersyjne jako [terapię z użyciem wirtualnej rzeczywistości](wiki/e_terapia/vr_terapia.md).
 

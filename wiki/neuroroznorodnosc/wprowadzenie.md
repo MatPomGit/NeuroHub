@@ -1,5 +1,7 @@
 ---
-lastReviewed: 2026-08-17
+title: Neuroróżnorodność
+content_type: article
+lastReviewed: 2026-08-25
 reviewCycleMonths: 18
 evidenceCutoffDate: 2026-08-17
 aliases:
@@ -7,9 +9,9 @@ aliases:
   - neurodiversity
 ---
 
-# Neuroróżnorodność, identyfikacja i modele
+# Neuroróżnorodność
 
-## Najważniejsze informacje
+## Wprowadzenie
 
 - **Neuroróżnorodność** może oznaczać biologiczny fakt zmienności ludzkich układów nerwowych, paradygmat interpretowania tej zmienności albo ruch społeczny. Tych znaczeń nie należy utożsamiać.
 - Terminy „neurotypowy” i „neuroatypowy” opisują pozycję względem społecznie oczekiwanych wzorców. Nie są rozpoznaniami klinicznymi ani jednorodnymi typami mózgu.

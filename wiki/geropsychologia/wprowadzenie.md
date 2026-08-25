@@ -1,5 +1,7 @@
 ---
-lastReviewed: 2026-08-01
+title: Psychologia starzenia się
+content_type: article
+lastReviewed: 2026-08-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 aliases:
@@ -11,7 +13,7 @@ aliases:
 
 Psychologia starzenia się bada rozwój człowieka w późnej dorosłości: zmiany funkcjonowania, sposoby przystosowania, relacje oraz warunki dobrego życia. Sam wiek kalendarzowy opisuje czas od urodzenia, lecz słabo wyjaśnia możliwości konkretnej osoby. W praktyce trzeba uwzględniać także zdrowie, sprawność funkcjonalną, historię życia, warunki materialne, kulturę i środowisko.
 
-## Najważniejsze informacje
+## Wprowadzenie
 
 - Starzenie nie jest jednolitym ciągiem strat. Niektóre zdolności słabną, inne pozostają stabilne, a wiedza i strategie regulacji emocji mogą stanowić zasób.
 - Dobra adaptacja nie oznacza braku chorób ani nieustannej aktywności. Oznacza możliwie dobre dopasowanie celów, zasobów i wsparcia do sytuacji osoby.

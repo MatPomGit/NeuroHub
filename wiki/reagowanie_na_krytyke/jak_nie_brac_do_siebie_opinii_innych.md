@@ -9,7 +9,7 @@ aliases:
 
 # Jak konstruktywnie reagować na krytykę i informację zwrotną
 
-## Najważniejsze informacje
+## Wprowadzenie
 
 Konstruktywna reakcja nie polega ani na bezwarunkowym przyjęciu cudzej oceny, ani na natychmiastowej obronie. Obejmuje pięć kolejnych decyzji: **zatrzymaj reakcję, doprecyzuj komunikat, oceń jego treść, wybierz odpowiedź i zaplanuj działanie**. Można uznać trafną część wypowiedzi, odrzucić etykietę, poprosić o dane albo wyznaczyć granicę.
 

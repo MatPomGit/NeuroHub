@@ -21,7 +21,7 @@ Nie należy wydzielać tekstu tylko dlatego, że stanowi kolejną teorię, mecha
 
 ## Proponowany tok wywodu
 
-### Najważniejsze informacje
+### Wprowadzenie
 
 Na początku warto podać krótką odpowiedź na pytanie, którego dotyczy artykuł. Może to być jeden akapit albo od trzech do pięciu tez. Ta część nie powinna powtarzać późniejszego podsumowania.
 

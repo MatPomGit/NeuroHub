@@ -9,7 +9,7 @@ aliases:
 
 # Psychologia gier: motywacja i doświadczenie gracza
 
-## Najważniejsze informacje
+## Wprowadzenie
 
 - Nie istnieje jeden „typ gracza”. Ta sama mechanika może wspierać dobrowolne zaangażowanie jednej osoby, a u innej wywoływać presję lub poczucie wykluczenia.
 - Teoria autodeterminacji pozwala rozróżnić **motywację autonomiczną**, zgodną z zainteresowaniami i wartościami osoby, od **motywacji kontrolowanej**, podtrzymywanej przez nagrody, kary, presję lub poczucie winy.

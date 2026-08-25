@@ -1,5 +1,7 @@
 ---
-lastReviewed: 2026-08-17
+title: Specyficzne różnice rozwojowe i tiki
+content_type: article
+lastReviewed: 2026-08-25
 reviewCycleMonths: 18
 evidenceCutoffDate: 2026-08-17
 aliases:
@@ -10,7 +12,7 @@ aliases:
 
 # Specyficzne różnice rozwojowe i tiki
 
-## Najważniejsze rozróżnienia
+## Wprowadzenie
 
 Ten artykuł zestawia kilka zjawisk ze względu na ich rozwojowy początek i praktyczne znaczenie w edukacji. Nie tworzą one jednego zespołu ani nie mają wykazanego wspólnego mechanizmu.
 

@@ -1,8 +1,8 @@
 ---
-lastReviewed: 2026-04-01
+content_type: article
+lastReviewed: 2026-05-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
-content_type: article
 ---
 
 # Analizy statystyczne w badaniach psychologicznych
@@ -14,6 +14,7 @@ Statystyki są narzędziem - nie celem pracy magisterskiej. Celem jest odpowied�
 **Preregistracja analiz** (przed zebraniem danych) to rosnący standard w psychologii. Polega na publicznym zapisaniu planowanych hipotez, metody i analiz (np. w OSF - Open Science Framework) przed zebraniem danych. Chroni przed **p-hackingiem** i zwiększa wiarygodność wyników.
 
 Nawet bez preregistracji warto przed badaniem zaplanować:
+
 - Jakie testy zastosujemy do każdej hipotezy?
 - Jakie będą zmienne niezależne, zależne i kontrolne?
 - Czy będziemy przeprowadzać analizy moderacji/mediacji?
@@ -22,6 +23,7 @@ Nawet bez preregistracji warto przed badaniem zaplanować:
 ## Statystyki opisowe
 
 Zawsze zacznij od statystyk opisowych. Dla każdej zmiennej ciągłej oblicz:
+
 - **Średnią arytmetyczną (M)**
 - **Odchylenie standardowe (SD)**
 - **Minimum i maksimum**
@@ -118,36 +120,4 @@ Przykład: *Uczestnicy w grupie eksperymentalnej uzyskali istotnie wyższe wynik
 
 Alternatywa dla klasycznych testów istotności - Bayesian Factor (BF) mówi, ile razy bardziej prawdopodobna jest hipoteza badawcza niż zerowa przy zaobserwowanych danych. BF > 3 wspiera H1, BF < 1/3 wspiera H0. Dostępne w JASP.
 
-
-
 Analiza statystyczna wymaga planowania, znajomości założeń i odpowiedniego raportowania. Nie wystarczy „wrzucić danych do SPSS-a" - każda decyzja analityczna powinna być świadoma i uzasadniona. Wyniki należy interpretować nie tylko przez pryzmat *p*, ale też wielkości efektu, przedziałów ufności i kontekstu teoretycznego.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Analizy statystyczne w badaniach psychologicznych" polega na tym, że najczęstsze trudności w pracy dyplomowej wynikają nie z braku pojedynczej informacji, lecz z jakości planowania, konsekwencji metodologicznej i dyscypliny redakcyjnej.
-
-Dopiero wspólna analiza zagadnień takich jak planowanie analiz przed zbieraniem danych, przedziały ufności oraz statystyki bayesowskie pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Analizy statystyczne w badaniach psychologicznych" pokazuje, że największą wartość daje traktowanie pracy badawczej jako procesu integrowania pytania, metody, analizy i argumentacji.
-
-
-Dopiero wspólna analiza zagadnień takich jak planowanie analiz przed zbieraniem danych, przedziały ufności oraz statystyki bayesowskie pokazuje pełny zakres omawianego zjawiska.
-
-## Podstawa źródłowa
-
-Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synteza psychologii naukowej VandenBos (2015) oraz właściwe dla rozpoznań kryteria ICD-11 (World Health Organization, 2022).
-
-## Bibliografia
-
-- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/14646-000](https://doi.org/10.1037/14646-000)
-- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.

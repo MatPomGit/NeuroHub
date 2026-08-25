@@ -1940,7 +1940,6 @@ function renderHome() {
   const startCardsHtml = startScenarios
     .filter(scenario => pageMap.has(scenario.id))
     .map((scenario, index) => `<button type="button" class="start-card modern-card" onclick="navigate('${scenario.id}')">
-      <span class="start-card-index">${String(index + 1).padStart(2, '0')}</span>
       <span class="start-card-title">${scenario.title}</span>
       <span class="start-card-goal">${scenario.goal}</span>
       <span class="start-card-benefit">${scenario.benefit}</span>
@@ -1955,14 +1954,14 @@ function renderHome() {
     .filter(Boolean);
   const recentHtml = recentItems.length
     ? `<div class="recent-list">${recentItems.map(item => `<button type="button" class="recent-link" onclick="navigate('${item.id}')">
-        <span class="recent-section">${item.section || 'PsyHub'}</span>
+        <span class="recent-section">${item.section || 'Encyklopedia psychologii'}</span>
         <span class="recent-title">${item.label}</span>
       </button>`).join('')}</div>`
     : `<p class="recent-empty">Tu pojawią się ostatnio otwierane strony. Zacznij od jednej karty „Start tutaj”.</p>`;
 
   area.innerHTML = `<div class="rendered home-view">
     <div class="home-hero">
-      <h1>Psychologia krok po kroku</h1>
+      <h1>Encyklopedia psychologii</h1>
       <p>Zacznij od podstaw i rozwijaj wiedzę w uporządkowany sposób.</p>
       <div class="home-hero-actions">
         <button type="button" class="home-cta home-cta-primary" onclick="navigate('wstep_do_psychologii/definicja')">Rozpocznij naukę <span>→</span></button>
@@ -1973,7 +1972,7 @@ function renderHome() {
       <div class="home-block-head">
         <span class="section-kicker">Szybki start</span>
         <h2>Co chcesz dziś zrobić?</h2>
-        <p>Wybierz scenariusz dopasowany do celu na teraz.</p>
+        <p>Wybierz scenariusz dopasowany do celu na teraz</p>
       </div>
       <div class="start-grid">${startCardsHtml}</div>
     </section>
@@ -1981,7 +1980,7 @@ function renderHome() {
       <div class="home-block-head">
         <span class="section-kicker">Kontynuuj</span>
         <h2>Ostatnio odwiedzane</h2>
-        <p>Wróć do materiałów, które już przeglądałeś.</p>
+        <p>Wróć do materiałów, które już przeglądałeś</p>
       </div>
       ${recentHtml}
     </section>
@@ -1989,9 +1988,9 @@ function renderHome() {
       <div class="home-block-head">
         <span class="section-kicker">Biblioteka wiedzy</span>
         <h2>Spis treści</h2>
-        <p>Wybierz obszar, a następnie dział. Każda pozycja prowadzi do właściwego indeksu lub artykułu wprowadzającego.</p>
+        <p>Wybierz obszar, a następnie dział. Każda pozycja prowadzi do właściwego indeksu lub artykułu wprowadzającego</p>
       </div>
-      <nav class="site-toc" aria-label="Spis treści PsyHub">${tableOfContentsHtml}</nav>
+      <nav class="site-toc" aria-label="Spis treści encyklopedii psychologii">${tableOfContentsHtml}</nav>
     </section>
   </div>`;
   window.scrollTo(0,0);
@@ -2003,7 +2002,7 @@ function setBreadcrumb(item) {
   const bc = document.getElementById('breadcrumb');
   if (!bc) return;
   if (!item) {
-    bc.innerHTML = `<a href="#" data-nav-id="${q(SITE_CONFIG.defaultPage)}">PsyHub</a>`;
+    bc.innerHTML = `<a href="#" data-nav-id="${q(SITE_CONFIG.defaultPage)}">Encyklopedia psychologii</a>`;
     updateTopbarNextStep(SITE_CONFIG.defaultPage);
     return;
   }
@@ -2017,7 +2016,7 @@ function setBreadcrumb(item) {
       ? `<span class="bsep">/</span><a href="#" data-nav-id="${q(firstId)}">${s}</a>`
       : `<span class="bsep">/</span><span>${s}</span>`;
   }
-  bc.innerHTML = `<a href="#" data-nav-id="${q(SITE_CONFIG.defaultPage)}">PsyHub</a>`
+  bc.innerHTML = `<a href="#" data-nav-id="${q(SITE_CONFIG.defaultPage)}">Encyklopedia psychologii</a>`
     + sHtml
     +(l?`<span class="bsep">/</span><span class="bcur">${l}</span>`:'');
   updateTopbarNextStep(item.id);

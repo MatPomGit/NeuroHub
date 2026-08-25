@@ -1,8 +1,5 @@
 ---
 content_type: article
----
-
-﻿---
 lastReviewed: 2026-05-09
 reviewCycleMonths: 12
 evidenceCutoffDate: 2026-05-01
@@ -47,26 +44,14 @@ Kandydat przedstawia wyłącznie ogólne hasła („umiem komunikację”, „ro
 
 **Konsekwencje:** rekruterzy nie potrafią oszacować wartości kompetencji, co obniża szansę zatrudnienia.
 
-## Perspektywa nieoczywista
+## Podsumowanie
 
 Nieoczywiste, lecz praktyczne ujęcie mówi, że pierwszą przewagą psychologa w IT nie jest „czytanie emocji”, ale **redukcja kosztu błędnej decyzji**. Osoba, która umie powstrzymać zespół przed nadinterpretacją danych, często wnosi większą wartość niż osoba generująca efektowne, lecz słabo zwalidowane pomysły.
-## Powiązane artykuły (cross-linki)
+
+## Powiązane artykuły
 
 - `students/psycholog_w_it` - role i kompetencje psychologa w technologii.
 - `students/sciezki_kariery` - ścieżki rozwoju zawodowego.
-
-
-
-Wejście psychologa do IT jest najbardziej skuteczne, gdy łączy język człowieka z językiem metryk. Portfolio powinno dokumentować nie tyle „co zrobiono”, ile „jak podjęto decyzję i na jakiej jakości dowodach”.
-
-## Podstawa źródłowa
-
-Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synteza psychologii naukowej VandenBos (2015) oraz właściwe dla rozpoznań kryteria ICD-11 (World Health Organization, 2022).
-
-## Bibliografia
-
-- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/14646-000](https://doi.org/10.1037/14646-000)
-- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
 
 1. Lazar, J., Feng, J. H., & Hochheiser, H. (2017). *Research Methods in Human-Computer Interaction* (2nd ed.). Morgan Kaufmann.
 2. Nielsen, J. (1994). *Usability Engineering*. Morgan Kaufmann.

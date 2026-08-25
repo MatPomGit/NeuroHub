@@ -1,5 +1,6 @@
 ﻿---
-lastReviewed: 2026-04-01
+content_type: article
+lastReviewed: 2026-05-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
@@ -23,6 +24,7 @@ Różnice płciowe w psychologii - co jest wrodzone, co wyuczone, a co jest efek
 **Janet Hyde (2005)** sformułowała **Hipotezę Podobieństw Płciowych** (Gender Similarities Hypothesis): mężczyźni i kobiety są psychologicznie *bardziej podobni niż różni* w zdecydowanej większości cech. Meta-analizy wykazują, że 78% efektów jest małych (d < 0.35) lub bliskich zeru.
 
 Obszary, gdzie różnice *są* empirycznie potwierdzone i umiarkowane:
+
 - **Rotacja mentalna przestrzenna** - mężczyźni umiarkowanie lepsi (d ≈ 0.5–0.9);
 - **Agresja fizyczna** - mężczyźni wyżsi (d ≈ 0.6);
 - **Ekspresja emocjonalna** - kobiety wyrażają więcej emocji werbalnie i niewerbalnie;
@@ -34,6 +36,7 @@ Obszary, gdzie różnice *są* empirycznie potwierdzone i umiarkowane:
 ## Biologiczne podłoże różnic
 
 **Hormony płciowe:** Testosteron, estrogeny i progesteron wpływają na mózg przez całe życie:
+
 - *Prenatalne androgeny* różnicują struktury mózgowe (ośrodki przedwzgórzowe regulujące cykliczność hormonalną vs. toniczne);
 - *Dojrzewanie:* testosteron u chłopców → wzrost agresji, libido; estrogeny u dziewczynek → zmiany nastroju, spójność emocjonalna;
 - *Dorosłość:* cykl miesiączkowy moduluje nastrój, poznanie (efekty progesteronu i estrogenów na serotonergię).
@@ -70,6 +73,7 @@ Różnice w rozmiarze mózgu (mężczyźni ~10% większy mózg, lecz proporcjona
 ## Płeć psychologiczna - androginia i Bem
 
 **Sandra Bem (1974)** zaproponowała, że psychologiczna płciowość jest wymiarem niezależnym od biologicznej płci:
+
 - *Sfeminizowanie* - wysoka na typowo kobiecych cechach, niska na męskich;
 - *Zmaskulinizowanie* - wysoko na typowo męskich, nisko na żeńskich;
 - *Androgyniczne* - wysoko na obu wymiarach;
@@ -82,30 +86,8 @@ Bem i liczne badania potwierdziły, że **androgeniczne jednostki** wykazują wy
 ## Implikacje dla praktyki
 
 Kliniczne, edukacyjne i zawodowe podejście do różnic płciowych wymaga:
+
 1. **Uwzględniania zarówno biologii, jak i środowiska** - interakcja gen-środowisko;
 2. **Unikania esencjalizacji** - nie każda różnica grupowa jest niezmienną, biologiczną;
 3. **Wrażliwości na stereotypy** - świadomość efektu zagrożenia stereotypem;
 4. **Indywidualnego podejścia** - różnice grupowe nie determinują różnic jednostkowych.
-
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Psychologia płci" polega na tym, że różnice indywidualne mają znaczenie praktyczne dopiero wtedy, gdy opisuje się ich konsekwencje dla uczenia się, relacji i środowiska działania, a nie tylko sam wynik pomiaru.
-
-Dopiero wspólna analiza zagadnień takich jak terminologia i rozróżnienia, środowiskowe i kulturowe determinanty różnic oraz implikacje dla praktyki pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Psychologia płci" pokazuje, że najważniejsze jest ujmowanie zmienności psychologicznej jako źródła zarówno ryzyka, jak i potencjalnych zasobów.
-
-
-Dopiero wspólna analiza zagadnień takich jak terminologia i rozróżnienia, środowiskowe i kulturowe determinanty różnic oraz implikacje dla praktyki pokazuje pełny zakres omawianego zjawiska.
-
-## Bibliografia
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.

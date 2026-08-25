@@ -79,32 +79,3 @@ Korelacyjne badania epidemiologiczne wykazują związki między składem mikrobi
 
 Oś jelita–mózg otwiera nowe ścieżki terapeutyczne: probiotyki, prebiotyki, dieta, FMT w psychiatrii. To obszar intensywnych badań, gdzie liczne pytania pozostają otwarte - lecz już teraz wiadomo, że holistyczne podejście do zdrowia psychicznego obejmuje uwagę na florę jelitową, dietę i stan zapalny.
 
-## Perspektywa nieoczywista
-
-Nieoczywista perspektywa na temat "Oś jelita–mózg (microbiome–gut–brain axis)" polega na tym, że mechanizmy biologiczne rzadko działają w izolacji; ich znaczenie ujawnia się dopiero w powiązaniu z rozwojem, środowiskiem i zachowaniem.
-
-Dopiero wspólna analiza zagadnień takich jak oś jelita–mózg: podstawy, mechanizmy wpływu mikrobiomu na mózg oraz implikacje kliniczne pokazuje pełny zakres omawianego zjawiska.
-
-Z tego powodu trafna interpretacja wymaga nie tylko nazwania zjawiska, ale także oceny jego funkcji, ograniczeń i długofalowych skutków dla osoby lub systemu, którego dotyczy.
-
-## Podsumowanie
-
-Temat "Oś jelita–mózg (microbiome–gut–brain axis)" pokazuje, że kluczowe pozostaje łączenie poziomu biologicznego z funkcjonalnym, aby uniknąć uproszczenia złożonych zjawisk psychicznych do jednej przyczyny.
-
-
-Dopiero wspólna analiza zagadnień takich jak oś jelita–mózg: podstawy, mechanizmy wpływu mikrobiomu na mózg oraz implikacje kliniczne pokazuje pełny zakres omawianego zjawiska.
-
-## Podstawa źródłowa
-
-Podstawę klasyfikacji i interpretacji przedstawionej w artykule stanowią synteza psychologii naukowej VandenBos (2015) oraz właściwe dla rozpoznań kryteria ICD-11 (World Health Organization, 2022).
-
-## Bibliografia
-
-- VandenBos, G. R. (Ed.). (2015). *APA dictionary of psychology* (2nd ed.). American Psychological Association. [https://doi.org/10.1037/14646-000](https://doi.org/10.1037/14646-000)
-- World Health Organization. (2022). *ICD-11: International classification of diseases (11th revision).* https://icd.who.int/
-
-1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).
-2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-3. Nęcka, E., Orzechowski, J., & Szymura, B. (2020). Psychologia poznawcza. PWN.
-4. World Health Organization. (2022). World Mental Health Report: Transforming mental health for all.
-5. Zimbardo, P. G., Johnson, R. L., & McCann, V. (2021). Psychologia: kluczowe koncepcje. PWN.

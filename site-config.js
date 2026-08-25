@@ -1373,12 +1373,10 @@ window.SITE_CONFIG = {
       // - wiki/reference/katalog_narzedzi_zasady.md
       // - wiki/reference/toc_dlugi_artykul.md
       items: [
-        { id: 'reference/zakres',             label: 'Zakres wiedzy',                      file: 'wiki/reference/zakres.md'             },
         { id: 'reference/literatura',         label: 'Literatura',                         file: 'wiki/reference/literatura.md'         },
         { id: 'reference/bibliografia_portalu', label: 'Bibliografia portalu',             file: 'wiki/reference/bibliografia_portalu.md' },
         { id: 'reference/skale_i_akronimy',   label: 'Skale i akronimy diagnostyczne',    file: 'wiki/reference/skale_i_akronimy.md'   },
         { id: 'reference/przepisy_zawod',     label: 'Przepisy i zasady pracy psychologa', file: 'wiki/reference/przepisy_zawod.md'     },
-        { id: 'reference/mapa_powiazan_nowe_artykuly', label: 'Mapa powiazal nowych artykulow', file: 'wiki/reference/mapa_powiazan_nowe_artykuly.md' },
         {
           id: 'reference/article_template',
           label: 'Zalecany wzorzec artykułu',
@@ -1617,12 +1615,10 @@ window.SITE_CONFIG = {
       { file: 'wiki/przypadki_kliniczne/sm.md',            label: 'Pacjentka S.M. (uszkodzenie ciala migdalowatego)', status: 'live' },
     ],
     reference: [
-      { file: 'wiki/reference/zakres.md',               label: 'Zakres wiedzy',                               status: 'live' },
       { file: 'wiki/reference/literatura.md',           label: 'Literatura',                                  status: 'live' },
       { file: 'wiki/reference/bibliografia_portalu.md', label: 'Bibliografia portalu',                        status: 'live' },
       { file: 'wiki/reference/skale_i_akronimy.md',     label: 'Skale i akronimy diagnostyczne',              status: 'live' },
       { file: 'wiki/reference/przepisy_zawod.md',       label: 'Przepisy i zasady pracy psychologa',          status: 'live' },
-      { file: 'wiki/reference/mapa_powiazan_nowe_artykuly.md', label: 'Mapa powiazal nowych artykulow', status: 'live' },
       { file: 'wiki/reference/article_template.md', label: 'Zalecany wzorzec artykułu', status: 'live' },
     ],
     geropsychology: [
@@ -2094,7 +2090,6 @@ window.SITE_CONFIG = {
         {
           title: 'Literatura i zasoby',
           articles: [
-            { label: 'Zakres wiedzy', id: 'reference/zakres', status: 'live' },
             { label: 'Literatura', id: 'reference/literatura', status: 'live' },
             { label: 'Bibliografia portalu', id: 'reference/bibliografia_portalu', status: 'live' },
             { label: 'Skale i akronimy diagnostyczne', id: 'reference/skale_i_akronimy', status: 'live' },

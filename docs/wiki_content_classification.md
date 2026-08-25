@@ -49,7 +49,6 @@ Raport obejmuje wszystkie nieprzekierowujące pliki w `wiki/`, które przed klas
 | `wiki/reference/przepisy_zawod.md` | dokumentacja redakcyjna |
 | `wiki/reference/skale_i_akronimy.md` | dokumentacja redakcyjna |
 | `wiki/reference/standard_przypisow.md` | szablon lub demonstracja formatowania |
-| `wiki/reference/zakres.md` | dokumentacja redakcyjna |
 | `wiki/relacje/przyjaznie.md` | publiczny artykuł merytoryczny |
 | `wiki/relacje/relacje_rodzinne.md` | publiczny artykuł merytoryczny |
 | `wiki/relacje/kryzys_zdrada_i_rozstanie.md` | publiczny artykuł merytoryczny |

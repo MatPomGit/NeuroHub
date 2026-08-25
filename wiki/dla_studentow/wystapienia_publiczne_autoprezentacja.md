@@ -142,13 +142,12 @@ Powstają napięcia w zespole, rośnie ryzyko kosztownych decyzji opartych na fa
 
 Autoprezentacja jest przede wszystkim **formą etycznej odpowiedzialności za odbiorcę**, a nie narzędziem autopromocji. Psycholog, który porządkuje przekaz i dba o język niestygmatyzujący, zwiększa dostępność wiedzy i bezpieczeństwo psychologiczne słuchaczy.
 
-## Powiązane artykuły (cross-linki)
+## Powiązane artykuły
 
 - `students/sciezki_kariery` - kompetencje transferowalne na rynku pracy.
 - `spoleczna/perswazja` - mechanizmy wpływu i etyka komunikacji.
 - `spoleczna/ja_i_samoocena` - poczucie własnej wartości a ekspozycja społeczna.
 - `students/psycholog_w_it` - prezentacja wyników badań i komunikacja z zespołami technicznymi.
-- `reference/mapa_powiazan_nowe_artykuly` - mapa relacji między nowymi tekstami.
 
 Wystąpienia publiczne to umiejętność oparta na psychologii uwagi, pamięci i regulacji emocji. Najlepsze rezultaty daje połączenie struktury poznawczej, treningu wykonania i świadomej, etycznej autoprezentacji.
 

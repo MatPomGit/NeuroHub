@@ -239,7 +239,6 @@ call :mkmd "wiki\animaloterapia\etyka_aat.md"        "Etyka i dobrostan"   "Anim
 call :mkmd "wiki\animaloterapia\mechanizmy_aat.md"   "Mechanizmy AAT"      "Animaloterapia"
 
 :: â”€â”€ REFERENCJE â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
-call :mkmd "wiki\reference\zakres.md"    "Zakres wiedzy" "Referencje"
 call :mkmd "wiki\reference\literatura.md" "Literatura"   "Referencje"
 
 :: â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•

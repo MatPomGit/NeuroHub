@@ -4,10 +4,6 @@ content_type: article
 lastReviewed: 2026-08-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
-aliases:
-  - dynamika grupowa
-  - atrakcyjność interpersonalna
-  - zachowania prospołeczne
 ---
 
 # Grupy, relacje i współpraca

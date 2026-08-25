@@ -1,6 +1,5 @@
 ---
 title: Komunikacja i interwencje w opiece zdrowotnej
-aliases: [komunikacja medyczna, efekt placebo, psychoonkologia]
 lastReviewed: 2026-08-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2026-07-31

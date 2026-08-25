@@ -1,9 +1,10 @@
 ---
 title: Podstawy pomiaru psychologicznego
-aliases: [Psychometria, Klasyczna teoria testu, CTT]
 lastReviewed: 2026-08-02
 reviewCycleMonths: 24
 evidenceCutoffDate: 2026-08-02
+aliases:
+  - psychometria
 ---
 
 # Podstawy pomiaru psychologicznego

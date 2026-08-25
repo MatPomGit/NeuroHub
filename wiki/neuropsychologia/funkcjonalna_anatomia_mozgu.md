@@ -1,11 +1,10 @@
 ---
 title: Funkcjonalna anatomia mózgu
-aliases:
-  - anatomia mózgu
-  - lateralizacja funkcji
 lastReviewed: 2026-08-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2026-07-31
+aliases:
+  - anatomia funkcjonalna mózgu
 ---
 
 # Funkcjonalna anatomia mózgu

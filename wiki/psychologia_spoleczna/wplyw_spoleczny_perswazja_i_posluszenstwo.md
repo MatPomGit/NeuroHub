@@ -6,8 +6,6 @@ reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 aliases:
   - wpływ społeczny
-  - perswazja i propaganda
-  - konformizm i posłuszeństwo
 ---
 
 # Wpływ społeczny, perswazja i posłuszeństwo

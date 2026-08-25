@@ -1,12 +1,10 @@
 ---
 title: Rozwój, plastyczność i zmienność mózgu
-aliases:
-  - neuroplastyczność
-  - cykl miesiączkowy a mózg
-  - przesilenie wiosenne
 lastReviewed: 2026-08-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2026-07-31
+aliases:
+  - neuroplastyczność
 ---
 
 # Rozwój, plastyczność i zmienność mózgu

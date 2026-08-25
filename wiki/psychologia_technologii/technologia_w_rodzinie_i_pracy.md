@@ -14,7 +14,7 @@ aliases:
 
 Rodzina i miejsce pracy są środowiskami, w których powstają normy cyfrowej dostępności, prywatności i kontroli. To samo urządzenie może zwiększać autonomię, ułatwiając kontakt lub elastyczną pracę, i jednocześnie przenosić wymagania jednej roli do drugiej. Skutków nie wyjaśnia sam czas ekranowy. Ważne są treść i funkcja aktywności, relacje władzy, wiek i potrzeby rozwojowe, pora, możliwość odmowy oraz jakość kontaktu bezpośredniego.
 
-Szersze omówienie sposobów korzystania z urządzeń znajduje się w artykułach o [ekranach i funkcjonowaniu psychicznym](../ekrany_ksiazki_i_natura/ekrany_i_funkcjonowanie_psychiczne.md), [smartfonach](../ekrany_ksiazki_i_natura/smartfony_psychologia.md) i [tabletach w rozwoju dzieci](../ekrany_ksiazki_i_natura/tablety_dzieci.md). Systemy wykorzystujące uczenie maszynowe wymagają dodatkowo rozróżnień opisanych w kanonicznym opracowaniu o [psychologii interakcji człowiek–AI](../psychologia_ai/psychologia_interakcji_czlowiek_ai.md).
+Szersze omówienie sposobów korzystania z urządzeń znajduje się w artykułach o [ekranach i funkcjonowaniu psychicznym](../ekrany_ksiazki_i_natura/ekrany_i_funkcjonowanie_psychiczne.md), [smartfonach](../ekrany_ksiazki_i_natura/ekrany_i_funkcjonowanie_psychiczne.md#komunikacja-spoleczna) i [tabletach w rozwoju dzieci](../ekrany_ksiazki_i_natura/ekrany_i_funkcjonowanie_psychiczne.md#niemowleta-i-male-dzieci). Systemy wykorzystujące uczenie maszynowe wymagają dodatkowo rozróżnień opisanych w kanonicznym opracowaniu o [psychologii interakcji człowiek–AI](../psychologia_ai/psychologia_interakcji_czlowiek_ai.md).
 
 ## Wspólny problem: kto ustala granice i po co
 

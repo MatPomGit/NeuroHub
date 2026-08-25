@@ -2,9 +2,6 @@
 lastReviewed: 2026-08-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
-aliases:
-  - Motywacja gracza
-  - Doświadczenie gracza
 ---
 
 # Psychologia gier: motywacja i doświadczenie gracza

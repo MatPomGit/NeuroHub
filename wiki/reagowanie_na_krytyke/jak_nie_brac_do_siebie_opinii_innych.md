@@ -119,7 +119,7 @@ W takich sytuacjach przydatne mogą być:
 3. konsultacja z zaufaną osobą, przedstawicielem pracowników, związkiem zawodowym lub odpowiednim specjalistą;
 4. użycie właściwej procedury organizacyjnej lub prawnej.
 
-Nie należy przerzucać odpowiedzialności na odbiorcę przez zalecenie, aby „nie brał tego do siebie”. Zobacz osobne opracowania: [Mobbing: definicja i kryteria](../rezyliencja_i_mobbing/mobbing_definicja.md), [Przemoc psychiczna](../rezyliencja_i_mobbing/przemoc_psychiczna.md) oraz [Interwencja w przypadku mobbingu](../rezyliencja_i_mobbing/mobbing_interwencja.md). Asertywność może wspierać ochronę granic, lecz nie zastępuje odpowiedzialności organizacji ani ochrony prawnej.
+Nie należy przerzucać odpowiedzialności na odbiorcę przez zalecenie, aby „nie brał tego do siebie”. Zobacz osobne opracowania: [Mobbing: definicja i kryteria](../rezyliencja_i_mobbing/mobbing_definicja.md), [Przemoc psychiczna](../rezyliencja_i_mobbing/mobbing_definicja.md#granice-pojec) oraz [Interwencja w przypadku mobbingu](../rezyliencja_i_mobbing/mobbing_definicja.md#interwencja-organizacyjna). Asertywność może wspierać ochronę granic, lecz nie zastępuje odpowiedzialności organizacji ani ochrony prawnej.
 
 ## Ruminacja, autoatak i unikanie po krytyce
 

@@ -4,9 +4,6 @@ description: Motywacja, cele, nagrody i afekt pozytywny, teoria autodeterminacji
 lastReviewed: 2026-08-08
 reviewCycleMonths: 24
 evidenceCutoffDate: 2026-08-08
-aliases:
-  - Pozytywne emocje
-  - Broaden-and-build
 ---
 
 # Motywacja i emocje pozytywne

@@ -1,83 +1,44 @@
-﻿---
+---
 content_type: article
-lastReviewed: 2026-05-25
+lastReviewed: 2026-08-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
 
-# Psychologia ewolucyjna
+# Ewolucyjne wyjaśnianie zachowania
 
-Psychologia ewolucyjna traktuje ludzki umysł jako produkt doboru naturalnego - zestaw mechanizmów adaptacyjnych ukształtowanych przez miliony lat ewolucji w środowisku plejstoceńskim. Zrozumienie ewolucyjnych korzeni zachowania pozwala wyjaśnić, dlaczego pewne wzorce myślenia i działania są powszechne, a inne zaskakująco trudne do zmiany.
+Psychologia ewolucyjna wykorzystuje teorię ewolucji do formułowania i testowania hipotez o mechanizmach psychicznych. Nie zakłada, że każde zachowanie jest adaptacją ani że ludzie świadomie maksymalizują sukces reprodukcyjny. Wyjaśnienie funkcji ewolucyjnej uzupełnia, a nie zastępuje opis mechanizmu, rozwoju i sytuacji jednostki.
 
-## Dobór naturalny jako mechanizm ewolucji
+## Mechanizmy ewolucji
 
-**Dobór naturalny** (Karol Darwin, 1859) działa przez trzy warunki: zmienność cech w populacji, dziedziczność tych cech i różnicowe przeżycie/rozmnażanie się osobników z korzystniejszymi cechami. Nie ma "celu" ani "kierunku" - jest ślepym filtrem eliminującym cechy zmniejszające zdatność do reprodukcji.
+Dobór naturalny wymaga zróżnicowania cech, ich dziedzicznej składowej oraz związku z przeżyciem lub rozrodem. Dobór płciowy dotyczy różnic w sukcesie kojarzenia, a dobór krewniaczy ujmuje skutki działania dla reprodukcji krewnych. Dryf genetyczny, mutacje, migracja i ograniczenia rozwojowe także kształtują populacje. Ewolucja nie ma celu i nie tworzy rozwiązań optymalnych w każdym środowisku.
 
-Oprócz doboru naturalnego na kształt gatunków wpływają:
+Reguła Hamiltona (*rB > C*) określa warunek, w którym kosztowne działanie może być faworyzowane ze względu na korzyść dla genetycznie spokrewnionego odbiorcy. Jest modelem zmiany częstości cechy, nie opisem świadomej kalkulacji. Współpracę między osobami niespokrewnionymi wyjaśniają między innymi wzajemność, reputacja, normy i instytucje, a względne znaczenie mechanizmów zależy od warunków.
 
-- **Dobór płciowy** - preferencje partnerów prowadzą do cech atrakcyjnych dla płci przeciwnej (np. pawi ogon)
-- **Dobór krewniaczy** (W.D. Hamilton) - zachowania altruistyczne wobec krewnych są adaptacyjne, jeśli podnoszą *inclusive fitness* (kopiowanie wspólnych genów przez krewnych)
-- **Dobór grupowy** - kontrowersyjny; możliwy przy ekstremalnie małych, izolowanych populacjach
+## Cztery pytania zamiast jednej opowieści
 
-> **Kluczowa zasada:** Ewolucja optymalizuje *sukces reprodukcyjny*, nie dobrostan ani szczęście. Dlatego wiele mechanizmów psychologicznych jest suboptymalne z perspektywy współczesnego życia (np. głód słodkiego - adaptacja w środowisku ubogim w cukry, problem w supermarkecie).
+[Tinbergenowski podział poziomów](biologiczne_podstawy.md#jak-integrować-poziomy-wyjaśniania) rozróżnia mechanizm bezpośredni, rozwój osobniczy, funkcję i historię filogenetyczną. Hipoteza, że wstręt ogranicza kontakt z patogenami, dotyczy funkcji; nie mówi jeszcze, jakie obwody wywołują reakcję, jak dziecko się jej uczy ani jak zmienia ją kultura. Pełne wyjaśnienie wymaga połączenia tych pytań.
 
-## Środowisko ewolucyjnego dopasowania (EEA)
+Adaptacja to cecha ukształtowana przez dobór ze względu na określony skutek. **Egzaptacja** pełni dziś funkcję inną niż ta, dla której powstała, a **produkt uboczny** wynika z budowy innej cechy. Sama powszechność, przyjemność lub pozorna użyteczność nie dowodzą adaptacyjności (Buss et al., 1998).
 
-Ludzka psychologia była kształtowana w tzw. **środowisku ewolucyjnego dopasowania (EEA)** - małych grupach łowiecko-zbierackich plejstocenu, ok. 100–200 osobników, na afrykańskiej sawannie. Nasze umysły są "zaprojektowane" do rozwiązywania problemów tamtego środowiska.
+## Modułowość i środowiska przeszłości
 
-Konsekwencje:
+Hipotezy o wyspecjalizowanych mechanizmach przetwarzania należy odróżniać od twierdzenia, że umysł jest zbiorem sztywno odizolowanych modułów. Specjalizacja może mieć różny stopień, rozwijać się w interakcji z doświadczeniem i wykorzystywać mechanizmy ogólne. Dowód wymaga przewidywań, które odróżniają proponowaną specjalizację od uczenia i alternatywnych modeli.
 
-- Silna wrażliwość na twarze (rozpoznawanie sojuszników i wrogów)
-- Preferencja dla kalorycznych pokarmów (adaptacja przy niedoborach)
-- Lęki przed wężami i pająkami (groźne w EEA), ale nie przed samochodami (nowe zagrożenie)
-- Tendencja do myślenia w kategoriach "my vs. oni" (koalicje w małych grupach)
+„Środowisko adaptacji ewolucyjnej” nie było jednym miejscem na sawannie ani jedną grupą o stałej liczebności. Oznacza statystyczny zbiór presji selekcyjnych w różnych okresach i środowiskach. Dane archeologiczne, antropologiczne i porównawcze ograniczają hipotezy, lecz nie pozwalają odtworzyć każdej dawnej presji. Opowieść zgodna z intuicją nie jest jeszcze testem.
 
-## Moduły umysłowe
+## Niedopasowanie
 
-Tooby i Cosmides argumentują, że umysł składa się z **wyspecjalizowanych modułów funkcjonalnych** - analogicznie do specjalistycznych narzędzi szwajcarskiego scyzoryka, a nie ogólnego procesora. Każdy moduł rozwiązuje konkretny, powtarzający się problem adaptacyjny.
+Niedopasowanie zachodzi, gdy mechanizm ukształtowany w dawnych warunkach daje odmienne skutki w środowisku współczesnym. Hipotezy dotyczące żywności wysokoprzetworzonej lub sztucznie silnych bodźców nagradzających mogą być płodne, jeśli wskazują konkretny mechanizm i porównanie. Nie wolno jednak uznawać otyłości, depresji czy uzależnienia za prosty skutek „życia niezgodnego z naturą”; każde z tych zjawisk ma wieloczynnikową etiologię.
 
-Przykłady proponowanych modułów:
+## Jak testować hipotezy ewolucyjne?
 
-- Moduł wykrywania zdradliwości (detekcja oszustów w grach społecznych)
-- Moduł oceny wartości partnerskiej (szacowanie zdolności reprodukcyjnych)
-- Moduł rozpoznawania twarzy (prozopagnozja przy jego uszkodzeniu)
-- Mechanizmy przywiązania (Bowlby)
-- System awersji do skażenia (ochrona przed patogenami)
+Używa się porównań międzygatunkowych, danych międzykulturowych, modeli formalnych, badań rozwojowych i eksperymentów. Mocna hipoteza określa bodźce wejściowe, przewidywaną reakcję, warunki graniczne i konkurencyjne wyjaśnienie. Badanie międzykulturowe może ograniczać interpretację lokalną, ale podobieństwo kultur nie dowodzi samo w sobie genetycznej adaptacji; wspólne środowisko lub dyfuzja kulturowa mogą dać podobny wzorzec.
 
-## Altruizm i współpraca
-
-**Altruizm krewniaczy:** Hamiltonowska reguła *rb > c* mówi, że gen altruizmu się rozprzestrzeni, gdy korzyść (b) dla beneficjenta, ważona stopniem pokrewieństwa (r), przekracza koszt (c) dla altruisty. Dlatego poświęcamy się bardziej dla bliskich krewnych niż obcych.
-
-**Wzajemność (reciprocal altruism, Trivers):** Altruizm wobec niespokrewnionych jest adaptacyjny, gdy istnieje prawdopodobieństwo odwzajemnienia. Wymaga mechanizmów śledzenia długów społecznych i karania oszustów. Stąd silna ludzka wrażliwość na niesprawiedliwość.
-
-## Psychologia reprodukcyjna
-
-**Dobór płciowy** wyjaśnia różnice między płciami w preferencjach partnerskich. Kobiety (wyższy minimalny koszt rodzicielski: 9 miesięcy ciąży) powinny preferować: zasoby, status społeczny, wskaźniki dobrego zdrowia genetycznego (symetria twarzy) i lojalność. Mężczyźni (niższy minimalny koszt) - sygnały płodności (wiek, proporcje ciała, oznaki zdrowia).
-
-Te hipotezy mają empiryczne wsparcie w badaniach cross-kulturowych, ale też wiele wyjątków i modyfikatorów kulturowych.
-
-> **Ważna uwaga:** Wyjaśnienie ewolucyjne nie jest uzasadnieniem moralnym. "To ewolucyjnie adaptacyjne" nie znaczy "to dobre" ani "tego nie można zmieniać" - błąd naturalistyczny.
-
-## Ewolucja emocji
-
-Emocje są adaptacyjnymi mechanizmami motywacyjnymi ukształtowanymi przez ewolucję:
-
-- **Strach** - mobilizacja do ucieczki przed drapieżnikami
-- **Wstręt** - ochrona przed skażonymi pokarmami i patogenami
-- **Zazdrość** - ochrona przed stratą partnera i inwestycji rodzicielskich
-- **Gniew** - egzekwowanie praw i kontraktów społecznych
-
-## Niedopasowanie ewolucyjne (mismatch)
-
-Wiele współczesnych problemów wynika z **niedopasowania** między środowiskiem EEA, a środowiskiem współczesnym:
-
-- Otyłość - apetyt na tłuszcze i cukry w środowisku ich nadmiaru
-- Lęk i depresja - układ stresu aktywowany przez zagrożenia społeczne, nie drapieżniki
-- Uzależnienia - układy nagrody eksploatowane przez sztuczne supersygnały (narkotyki, gry)
-- Samotność - potrzeba głębokich relacji w sieci powierzchownych kontaktów
+Wyjaśnienie pochodzenia nie stanowi normy moralnej. Z faktu, że zachowanie mogło zwiększać dostosowanie, nie wynika, że jest dobre, nieuniknione albo odporne na zmianę. Ostrożność jest szczególnie potrzebna przy różnicach płciowych: rozkłady zwykle silnie się nakładają, strategie są zależne od warunków, a role społeczne współtworzą obserwowane wyniki (Confer et al., 2010).
 
 ## Bibliografia
 
-- Buss, D. M. (2019). *Evolutionary psychology: The new science of the mind* (6th ed.). Routledge.
+- Buss, D. M., Haselton, M. G., Shackelford, T. K., Bleske, A. L., & Wakefield, J. C. (1998). Adaptations, exaptations, and spandrels. *American Psychologist, 53*(5), 533–548. [https://doi.org/10.1037/0003-066X.53.5.533](https://doi.org/10.1037/0003-066X.53.5.533)
 - Confer, J. C., Easton, J. A., Fleischman, D. S., Goetz, C. D., Lewis, D. M. G., Perilloux, C., & Buss, D. M. (2010). Evolutionary psychology: Controversies, questions, prospects, and limitations. *American Psychologist, 65*(2), 110–126. [https://doi.org/10.1037/a0018413](https://doi.org/10.1037/a0018413)
-- Tooby, J., & Cosmides, L. (1992). The psychological foundations of culture. In J. H. Barkow, L. Cosmides, & J. Tooby (Eds.), *The adapted mind* (pp. 19–136). Oxford University Press.
+- Tinbergen, N. (1963). On aims and methods of ethology. *Zeitschrift für Tierpsychologie, 20*(4), 410–433. [https://doi.org/10.1111/j.1439-0310.1963.tb01161.x](https://doi.org/10.1111/j.1439-0310.1963.tb01161.x)

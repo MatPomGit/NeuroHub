@@ -1,6 +1,6 @@
-﻿---
+---
 content_type: article
-lastReviewed: 2026-05-25
+lastReviewed: 2026-08-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
@@ -9,7 +9,7 @@ evidenceCutoffDate: 2025-12-31
 
 ## Abstrakt
 
-Epigenetyka opisuje dziedziczne i odwracalne zmiany regulacji ekspresji genów, które nie wynikają ze zmian sekwencji DNA. W psychologii i psychiatrii epigenetyka dostarcza ramy wyjaśniającej, w jaki sposób doświadczenia środowiskowe (np. przewlekły stres, trauma, zaniedbanie, dieta, sen) mogą modulować funkcjonowanie osi HPA, plastyczność synaptyczną i podatność na zaburzenia psychiczne. Celem artykułu jest syntetyczne omówienie głównych mechanizmów epigenetycznych, metod badawczych oraz aktualnych dowodów dotyczących depresji, PTSD, schizofrenii i zaburzeń neurorozwojowych. Przedstawiono również ograniczenia interpretacyjne (heterogeniczność próbek, problem tkanki obwodowej vs OUN, confounding) oraz kierunki translacji do praktyki klinicznej.
+Epigenetyka opisuje względnie trwałe zmiany aktywności genomu, które nie wynikają ze zmiany sekwencji DNA. Nie każda zmiana musi być odwracalna ani dziedziczona przez potomstwo. W psychologii i psychiatrii dziedzina ta bada, jak rozwój i ekspozycje wiążą się z regulacją transkrypcji. Większość wyników u ludzi jest obserwacyjna, dlatego „ślad epigenetyczny” nie dowodzi, że doświadczenie spowodowało zaburzenie.
 
 **Słowa kluczowe:** epigenetyka, metylacja DNA, modyfikacje histonów, zdrowie psychiczne, stres, trauma, neuroplastyczność.
 
@@ -101,8 +101,7 @@ Epigenetyka stanowi kluczowy pomost między doświadczeniem a biologią zachowan
 
 ## Bibliografia
 
-1. Meaney, M. J. (2010). Epigenetics and the biological definition of gene × environment interactions. *Child Development*, 81(1), 41–79.
-2. Klengel, T., & Binder, E. B. (2015). Epigenetics of stress-related psychiatric disorders and gene × environment interactions. *Neuron*, 86(6), 1343–1357.
-3. Zannas, A. S., Provencal, N., & Binder, E. B. (2015). Epigenetics of posttraumatic stress disorder: current evidence, challenges, and future directions. *Biological Psychiatry*, 78(5), 327–335.
-4. Tsankova, N., Renthal, W., Kumar, A., & Nestler, E. J. (2007). Epigenetic regulation in psychiatric disorders. *Nature Reviews Neuroscience*, 8, 355–367.
-5. Vinkers, C. H., et al. (2021). Stress exposure across the life span cumulatively increases DNA methylation age in healthy and PTSD cohorts. *Molecular Psychiatry*, 26, 7215–7226.
+- Klengel, T., & Binder, E. B. (2015). Epigenetics of stress-related psychiatric disorders and gene × environment interactions. *Neuron, 86*(6), 1343–1357. [https://doi.org/10.1016/j.neuron.2015.05.036](https://doi.org/10.1016/j.neuron.2015.05.036)
+- Meaney, M. J. (2010). Epigenetics and the biological definition of gene × environment interactions. *Child Development, 81*(1), 41–79. [https://doi.org/10.1111/j.1467-8624.2009.01381.x](https://doi.org/10.1111/j.1467-8624.2009.01381.x)
+- Tsankova, N., Renthal, W., Kumar, A., & Nestler, E. J. (2007). Epigenetic regulation in psychiatric disorders. *Nature Reviews Neuroscience, 8*(5), 355–367. [https://doi.org/10.1038/nrn2132](https://doi.org/10.1038/nrn2132)
+- Zannas, A. S., Provençal, N., & Binder, E. B. (2015). Epigenetics of posttraumatic stress disorder: Current evidence, challenges, and future directions. *Biological Psychiatry, 78*(5), 327–335. [https://doi.org/10.1016/j.biopsych.2015.04.003](https://doi.org/10.1016/j.biopsych.2015.04.003)

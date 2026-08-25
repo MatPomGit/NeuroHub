@@ -41,8 +41,8 @@ body.psyhub-app::before{display:none}
   box-shadow:none;
 }
 
-.psyhub-app .s-logo-name{font-size:1.0rem;letter-spacing:-.025em}
-.psyhub-app .s-logo-sub{font-size:.54rem;letter-spacing:.12em}
+.psyhub-app .s-logo-name{letter-spacing:-.025em}
+.psyhub-app .s-logo-sub{letter-spacing:.12em}
 .psyhub-app .s-search{padding:.64rem .72rem}
 .psyhub-app .s-search input{
   min-height:32px;
@@ -50,12 +50,18 @@ body.psyhub-app::before{display:none}
   background:var(--bg);
 }
 .psyhub-app .s-search input:focus{border-color:var(--gold)}
-.psyhub-app .s-nav{padding:.5rem .45rem 1.25rem}
-.psyhub-app .sidebar-topic{margin-bottom:.35rem;border-radius:8px}
-.psyhub-app .sidebar-topic-header{padding:.65rem .65rem .3rem}
-.psyhub-app .nav-group-hdr{min-height:32px;border-radius:8px}
-.psyhub-app .nav-item{padding:.42rem .65rem .42rem 1rem;border-radius:8px}
+.psyhub-app .s-nav{padding:.28rem .4rem .8rem}
+.psyhub-app .sidebar-topic{margin:.18rem 0 .3rem;border-radius:8px}
+.psyhub-app .sidebar-topic-header{padding:.4rem .6rem .2rem}
+.psyhub-app .nav-group-hdr{min-height:26px;padding:.24rem .6rem;border-radius:7px}
+.psyhub-app .nav-item{padding:.2rem .55rem .2rem .9rem;border-radius:6px}
 .psyhub-app .s-footer{background:var(--bg2);border-top:1px solid var(--border)}
+.psyhub-app .interface-settings{width:100%}
+.psyhub-app .interface-settings summary{padding:.28rem 0}
+.psyhub-app .interface-setting-group{padding:.45rem 0;border-top:1px solid var(--border)}
+.psyhub-app .interface-setting-title{display:block;margin-bottom:.35rem;color:var(--t3)}
+.psyhub-app .interface-settings .theme-btns,
+.psyhub-app .interface-settings .font-size-controls{justify-content:flex-start}
 
 .psyhub-app .main{margin-left:var(--sw)}
 .psyhub-app .prog-bar{left:var(--sw)}
@@ -71,7 +77,7 @@ body.psyhub-app::before{display:none}
   background:color-mix(in srgb,var(--bg) 94%,transparent);
   box-shadow:none;
 }
-.psyhub-app .breadcrumb{font-size:.72rem}
+.psyhub-app .breadcrumb{min-width:0}
 .psyhub-app .next-step-btn{
   flex-direction:row;
   align-items:center;
@@ -80,7 +86,7 @@ body.psyhub-app::before{display:none}
   border-radius:6px;
 }
 .psyhub-app .next-step-label{display:none}
-.psyhub-app .next-step-title{max-width:240px;font-size:.64rem}
+.psyhub-app .next-step-title{max-width:240px}
 .psyhub-app .content{padding:2rem clamp(1rem,4vw,4rem) 5rem}
 .psyhub-app .rendered{width:min(100%,var(--content-max))}
 
@@ -101,15 +107,11 @@ body.psyhub-app::before{display:none}
 .psyhub-app .home-hero h1{
   max-width:760px;
   margin-bottom:.9rem;
-  font-size:clamp(2.25rem,5vw,4.5rem);
-  line-height:1.02;
   letter-spacing:-.055em;
 }
 .psyhub-app .home-hero>p{
   max-width:680px;
   margin-bottom:1.25rem;
-  font-size:clamp(1rem,1.4vw,1.15rem);
-  line-height:1.65;
 }
 .psyhub-app .home-hero-actions{margin-bottom:0}
 .psyhub-app .home-cta{
@@ -123,8 +125,8 @@ body.psyhub-app::before{display:none}
 .psyhub-app .home-block{margin-bottom:2.00rem}
 .psyhub-app .home-block-head{margin-bottom:1rem}
 .psyhub-app .home-block-head h2,
-.psyhub-app .domains-h2{font-size:clamp(1.25rem,2.5vw,2rem);letter-spacing:-.03em}
-.psyhub-app .section-kicker{margin-bottom:.3rem;font-size:.54rem}
+.psyhub-app .domains-h2{letter-spacing:-.03em}
+.psyhub-app .section-kicker{margin-bottom:.3rem}
 .psyhub-app .start-grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:.60rem}
 .psyhub-app .modern-card,
 .psyhub-app .recent-link,
@@ -134,20 +136,18 @@ body.psyhub-app::before{display:none}
   background:var(--bg2);
   box-shadow:none;
 }
-.psyhub-app .start-card{min-height:120px;padding:1.00rem}
+.psyhub-app .start-card{min-height:72px;padding:.65rem .75rem}
 .psyhub-app .start-card:hover,
 .psyhub-app .recent-link:hover{border-color:var(--bord2);background:var(--bg3)}
-.psyhub-app .start-card-title{font-size:.64rem}
-.psyhub-app .start-card-goal{font-size:.42rem}
 .psyhub-app .site-toc{gap:.64rem}
-.psyhub-app .site-toc-group summary{padding:.85rem 1rem;font-size:.54rem}
+.psyhub-app .site-toc-group summary{padding:.62rem .8rem}
 .psyhub-app .site-toc-sections{padding:.24rem .64rem .7rem}
 
 /* Reading surface: a single document plane, restrained metadata and TOC. */
 .psyhub-app .rendered:not(.home-view)>.page-hero,
 .psyhub-app .wiki-hdr{
-  margin-bottom:1rem;
-  padding:1.25rem 0 1rem;
+  margin-bottom:.65rem;
+  padding:.65rem 0 .55rem;
   overflow:visible;
   border:0;
   border-bottom:1px solid var(--border);
@@ -159,17 +159,7 @@ body.psyhub-app::before{display:none}
   border:0;
   background:none;
   color:var(--t3);
-  font-size:.54rem;
   letter-spacing:.06em;
-}
-.psyhub-app .article-hero-actions{position:absolute;top:.85rem;right:0;margin:0}
-.psyhub-app .btn-copy-link{
-  min-height:24px;
-  padding:.24rem .48rem;
-  border:0;
-  background:transparent;
-  color:var(--t3);
-  font-size:.54rem;
 }
 .psyhub-app .review-meta-badges{margin:.5rem 0 0;gap:.32rem}
 .psyhub-app .review-meta-badge{
@@ -177,7 +167,6 @@ body.psyhub-app::before{display:none}
   border:0;
   background:none;
   color:var(--t3);
-  font-size:.54rem;
 }
 .psyhub-app .review-meta-badge + .review-meta-badge::before{
   content:'·';
@@ -202,15 +191,12 @@ body.psyhub-app::before{display:none}
 .psyhub-app .article-toc-title{
   margin-bottom:.54rem;
   color:var(--t3);
-  font-size:.54rem;
   letter-spacing:.06em;
 }
 .psyhub-app .article-toc-link{
   padding:.3rem .45rem;
   border-radius:6px;
   color:var(--t3);
-  font-size:.64rem;
-  line-height:1.0;
 }
 .psyhub-app .article-toc-link:hover,
 .psyhub-app .article-toc-link.is-active{
@@ -225,8 +211,6 @@ body.psyhub-app::before{display:none}
   border-radius:0;
   background:transparent;
   box-shadow:none;
-  font-size:clamp(.96rem,1vw,1.04rem);
-  line-height:1.72;
 }
 .psyhub-app .md p,
 .psyhub-app .md>ul,
@@ -237,18 +221,12 @@ body.psyhub-app::before{display:none}
 .psyhub-app .md>h2{
   max-width:var(--reading-max);
   margin-top:2.65rem;
-  font-size:clamp(1.45rem,2.2vw,1.9rem);
-  line-height:1.25;
 }
 .psyhub-app .md>h3{
   max-width:var(--reading-max);
   margin-top:2rem;
-  font-size:1.2rem;
-  line-height:1.32;
 }
 .psyhub-app .md a{text-underline-offset:.18em}
-.psyhub-app .md code{font-size:.85rem}
-.psyhub-app .md table{font-size:.8rem;line-height:1.}
 .psyhub-app .md blockquote{border-radius:0 8px 8px 0}
 .psyhub-app .md img{border-radius:8px;box-shadow:none}
 .psyhub-app .pnav-btn{border-radius:8px;box-shadow:none}
@@ -291,17 +269,15 @@ body.psyhub-app::before{display:none}
   .psyhub-app .home-hero{padding:1.4rem 0 1.72rem}
   .psyhub-app .start-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
   .psyhub-app .rendered:not(.home-view)>.page-hero,
-  .psyhub-app .wiki-hdr{padding:.9rem 0}
-  .psyhub-app .article-hero-actions{display:none}
+  .psyhub-app .wiki-hdr{padding:.55rem 0 .45rem}
   .psyhub-app .md{padding:0 0 2.5rem}
   .psyhub-app .mobile-chapters-panel,
   .psyhub-app .mobile-wiki-toc-panel{top:42px}
 }
 
 @media (max-width:560px){
-  .psyhub-app .home-hero h1{font-size:2.20rem}
   .psyhub-app .start-grid{grid-template-columns:1fr}
-  .psyhub-app .start-card{min-height:120px}
+  .psyhub-app .start-card{min-height:68px}
 }
 
 @media (prefers-reduced-motion:reduce){

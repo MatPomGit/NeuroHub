@@ -915,9 +915,6 @@ function renderMd(text, id, item) {
     <div class="page-hero">
       <span class="chapter-lbl">${item.section||''}</span>
       <h1 class="article-title-animated">${title}</h1>
-      <div class="article-hero-actions">
-        <button type="button" class="btn-copy-link" id="copyArticleLinkButton" data-page-id="${q(id)}">Kopiuj link</button>
-      </div>
       ${articleReviewMetaHtml}
     </div>
     ${emptyBanner}
@@ -934,7 +931,6 @@ function renderMd(text, id, item) {
   if (isEmpty) updateEmptyIndicators();
   addCanonicalTopicLinksToRenderedArticle(area.querySelector('.md'), id);
   setupArticleToc(area, id);
-  setupCopyLinkButton(area, id);
   setupMeasurementToolsSection(area);
   animateContentIn();
 }
@@ -1018,32 +1014,6 @@ function scrollToArticleSection(sectionId) {
   if (!target) return;
   target.scrollIntoView({ behavior: 'smooth', block: 'start' });
   setActiveTocItem(sectionId);
-}
-
-/* Konfiguruje przycisk kopiowania bezpośredniego linku do aktualnie otwartego artykułu. */
-function setupCopyLinkButton(area, pageId) {
-  const copyBtn = area.querySelector('#copyArticleLinkButton');
-  if (!copyBtn) return;
-  copyBtn.addEventListener('click', async () => {
-    const { pageId: hashPageId, sectionId } = parseRouteHash(window.location.hash);
-    const safeSectionId = hashPageId === pageId ? sectionId : '';
-    const articleUrl = new URL(window.location.href);
-    articleUrl.hash = buildRouteHash(pageId, safeSectionId);
-    try {
-      await navigator.clipboard.writeText(articleUrl.toString());
-      trackCopyLinkUsage();
-      const originalLabel = copyBtn.textContent;
-      copyBtn.textContent = 'Skopiowano';
-      copyBtn.classList.add('is-copied');
-      setTimeout(() => {
-        copyBtn.textContent = originalLabel;
-        copyBtn.classList.remove('is-copied');
-      }, 1200);
-    } catch (_) {
-      /* Gdy Clipboard API zawiedzie, robimy fallback przez prompt dla kompatybilności. */
-      window.prompt('Skopiuj link recznie:', articleUrl.toString());
-    }
-  });
 }
 
 /* Buduje TOC z nagłówkow H2/H3 i aktywuje podświetlanie sekcji podczas przewijania. */
@@ -2267,13 +2237,6 @@ function trackSearchResultClick() {
   writeSearchMetrics(metrics);
 }
 
-/* Rejestruje użycie akcji "kopiuj link" jako osobny wskaźnik adopcji funkcji. */
-function trackCopyLinkUsage() {
-  const metrics = readSearchMetrics();
-  metrics.copyLinkUses += 1;
-  writeSearchMetrics(metrics);
-}
-
 /* Aktualizuje liste wynikow i fallback "Nie znaleziono" wraz z podpowiedziami. */
 async function applySearchUi() {
   const input = document.getElementById('searchInput');
@@ -2958,8 +2921,8 @@ window.addEventListener('DOMContentLoaded', ()=>{
 
 /*  Theme switcher  */
 (function() {
-  const DEFAULT_THEME = 'dark';
-  const THEMES = [DEFAULT_THEME, 'light', 'sepia', 'ocean', 'forest', 'sunset'];
+  const DEFAULT_THEME = 'light';
+  const THEMES = [DEFAULT_THEME, 'dark', 'sepia', 'ocean', 'forest', 'sunset'];
   const stored = localStorage.getItem('psyhub-theme') || DEFAULT_THEME;
   const active  = THEMES.includes(stored) ? stored : DEFAULT_THEME;
   const DEFAULT_FONT_SCALE = 'normal';
@@ -2967,7 +2930,7 @@ window.addEventListener('DOMContentLoaded', ()=>{
   const storedFontScale = localStorage.getItem('psyhub-font-scale') || DEFAULT_FONT_SCALE;
   const activeFontScale = FONT_SCALES.includes(storedFontScale) ? storedFontScale : DEFAULT_FONT_SCALE;
 
-  function themeAttr(theme) { return theme === DEFAULT_THEME ? '' : theme; }
+  function themeAttr(theme) { return theme === 'dark' ? '' : theme; }
   /* Ustawia atrybut skali czcionki i zapamietuje wybor użytkownika w localStorage. */
   function applyFontScale(scale) {
     if (scale === DEFAULT_FONT_SCALE) {

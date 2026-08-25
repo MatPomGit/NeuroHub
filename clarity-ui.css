@@ -6,6 +6,7 @@
   --sw:288px;
   --hh:52px;
   --content-max:1280px;
+  --reading-max:74ch;
 }
 
 body.psyhub-app{
@@ -181,36 +182,86 @@ body.psyhub-app::before{display:none}
   content:'·';
   margin-right:.35rem;
 }
-.psyhub-app .article-layout{grid-template-columns:220px minmax(0,1fr);gap:1.5rem}
+.psyhub-app .article-layout{
+  grid-template-columns:minmax(0,820px) 210px;
+  justify-content:center;
+  align-items:start;
+  gap:clamp(1.5rem,3vw,2.5rem);
+}
 .psyhub-app .article-toc{
+  grid-column:2;
+  grid-row:1;
   top:68px;
-  padding:.4rem .65rem .6rem 0;
+  padding:.4rem 0 .6rem 1rem;
   border:0;
-  border-right:1px solid var(--border);
+  border-left:1px solid var(--border);
   border-radius:0;
   background:transparent;
 }
+.psyhub-app .article-toc-title{
+  margin-bottom:.55rem;
+  color:var(--t3);
+  font-size:.62rem;
+  letter-spacing:.1em;
+}
+.psyhub-app .article-toc-link{
+  padding:.3rem .45rem;
+  border-radius:6px;
+  color:var(--t3);
+  font-size:.72rem;
+  line-height:1.4;
+}
+.psyhub-app .article-toc-link:hover,
+.psyhub-app .article-toc-link.is-active{
+  background:var(--surface-soft);
+  color:var(--t1);
+}
 .psyhub-app .md{
+  grid-column:1;
+  grid-row:1;
   padding:0 0 3rem;
   border:0;
   border-radius:0;
   background:transparent;
   box-shadow:none;
   font-size:clamp(.96rem,1vw,1.04rem);
-  line-height:1.75;
+  line-height:1.72;
 }
-.psyhub-app .md>h2{margin-top:2.5rem}
+.psyhub-app .md p,
+.psyhub-app .md>ul,
+.psyhub-app .md>ol,
+.psyhub-app .md>blockquote{max-width:var(--reading-max)}
+.psyhub-app .md p{margin-bottom:1rem;color:var(--t2)}
+.psyhub-app .md li{margin:.28rem 0}
+.psyhub-app .md>h2{
+  max-width:var(--reading-max);
+  margin-top:2.65rem;
+  font-size:clamp(1.45rem,2.2vw,1.9rem);
+  line-height:1.25;
+}
+.psyhub-app .md>h3{
+  max-width:var(--reading-max);
+  margin-top:2rem;
+  font-size:1.2rem;
+  line-height:1.32;
+}
+.psyhub-app .md a{text-underline-offset:.18em}
+.psyhub-app .md table{font-size:.9rem;line-height:1.5}
+.psyhub-app .md blockquote{border-radius:0 8px 8px 0}
 .psyhub-app .md img{border-radius:8px;box-shadow:none}
 .psyhub-app .pnav-btn{border-radius:9px;box-shadow:none}
 
 @media (max-width:1120px){
   .psyhub-app .article-layout{grid-template-columns:minmax(0,1fr)}
   .psyhub-app .article-toc{
+    grid-column:1;
+    grid-row:1;
     padding:.65rem;
     border:1px solid var(--border);
     border-radius:8px;
     background:var(--bg2);
   }
+  .psyhub-app .md{grid-column:1;grid-row:2}
 }
 
 @media (max-width:900px){

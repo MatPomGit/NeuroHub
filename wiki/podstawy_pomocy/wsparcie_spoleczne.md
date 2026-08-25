@@ -78,8 +78,8 @@ Wsparcie społeczne jest procesem dopasowania zasobów relacyjnych do potrzeb os
 
 ## Bibliografia
 
-1. Cohen, S., & Wills, T. A. (1985). Stress, social support, and the buffering hypothesis. *Psychological Bulletin, 98*(2), 310–357. https://doi.org/10.1037/0033-2909.98.2.310
-2. Holt-Lunstad, J., Smith, T. B., & Layton, J. B. (2010). Social relationships and mortality risk: A meta-analytic review. *PLoS Medicine, 7*(7), e1000316. https://doi.org/10.1371/journal.pmed.1000316
-3. Holt-Lunstad, J., Smith, T. B., Baker, M., Harris, T., & Stephenson, D. (2015). Loneliness and social isolation as risk factors for mortality: A meta-analytic review. *Perspectives on Psychological Science, 10*(2), 227–237. https://doi.org/10.1177/1745691614568352
-4. Thoits, P. A. (2011). Mechanisms linking social ties and support to physical and mental health. *Journal of Health and Social Behavior, 52*(2), 145–161. https://doi.org/10.1177/0022146510395592
-5. Uchino, B. N. (2006). Social support and health: A review of physiological processes potentially underlying links to disease outcomes. *Journal of Behavioral Medicine, 29*(4), 377–387. https://doi.org/10.1007/s10865-006-9056-5
+1. Cohen, S., & Wills, T. A. (1985). Stress, social support, and the buffering hypothesis. *Psychological Bulletin, 98*(2), 310–357. [https://doi.org/10.1037/0033-2909.98.2.310](https://doi.org/10.1037/0033-2909.98.2.310)
+2. Holt-Lunstad, J., Smith, T. B., & Layton, J. B. (2010). Social relationships and mortality risk: A meta-analytic review. *PLoS Medicine, 7*(7), e1000316. [https://doi.org/10.1371/journal.pmed.1000316](https://doi.org/10.1371/journal.pmed.1000316)
+3. Holt-Lunstad, J., Smith, T. B., Baker, M., Harris, T., & Stephenson, D. (2015). Loneliness and social isolation as risk factors for mortality: A meta-analytic review. *Perspectives on Psychological Science, 10*(2), 227–237. [https://doi.org/10.1177/1745691614568352](https://doi.org/10.1177/1745691614568352)
+4. Thoits, P. A. (2011). Mechanisms linking social ties and support to physical and mental health. *Journal of Health and Social Behavior, 52*(2), 145–161. [https://doi.org/10.1177/0022146510395592](https://doi.org/10.1177/0022146510395592)
+5. Uchino, B. N. (2006). Social support and health: A review of physiological processes potentially underlying links to disease outcomes. *Journal of Behavioral Medicine, 29*(4), 377–387. [https://doi.org/10.1007/s10865-006-9056-5](https://doi.org/10.1007/s10865-006-9056-5)

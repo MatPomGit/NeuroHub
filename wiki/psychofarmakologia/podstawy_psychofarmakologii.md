@@ -59,7 +59,7 @@ Dobra psychofarmakologia nie polega na dopasowaniu etykiety receptora do etykiet
 ## Bibliografia
 
 - Brunton, L. L. i Knollmann, B. C. (red.). (2023). *Goodman & Gilman's The Pharmacological Basis of Therapeutics* (14th ed.). McGraw Hill.
-- Cipriani, A. i in. (2018). Comparative efficacy and acceptability of 21 antidepressant drugs. *The Lancet*, 391, 1357–1366. https://doi.org/10.1016/S0140-6736(17)32802-7
-- Moncrieff, J. i in. (2022). The serotonin theory of depression: a systematic umbrella review. *Molecular Psychiatry*, 28, 3243–3256. https://doi.org/10.1038/s41380-022-01661-0
-- Nutt, D. J. i Blier, P. (2016). Neuroscience-based nomenclature. *Journal of Psychopharmacology*, 30, 413–415. https://doi.org/10.1177/0269881116634876
+- Cipriani, A. i in. (2018). Comparative efficacy and acceptability of 21 antidepressant drugs. *The Lancet*, 391, 1357–1366. [https://doi.org/10.1016/S0140-6736(17)32802-7](https://doi.org/10.1016/S0140-6736(17)32802-7)
+- Moncrieff, J. i in. (2022). The serotonin theory of depression: a systematic umbrella review. *Molecular Psychiatry*, 28, 3243–3256. [https://doi.org/10.1038/s41380-022-01661-0](https://doi.org/10.1038/s41380-022-01661-0)
+- Nutt, D. J. i Blier, P. (2016). Neuroscience-based nomenclature. *Journal of Psychopharmacology*, 30, 413–415. [https://doi.org/10.1177/0269881116634876](https://doi.org/10.1177/0269881116634876)
 - World Health Organization. (2023). *Mental Health Gap Action Programme (mhGAP) guideline* (3rd ed.). WHO.

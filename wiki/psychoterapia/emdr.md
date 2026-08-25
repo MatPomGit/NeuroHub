@@ -41,10 +41,10 @@ Próby różnią się doświadczeniem terapeutów, komparatorami i populacją; m
 
 ## Bibliografia
 
-1. Bisson, J. I., et al. (2013). Psychological therapies for chronic PTSD in adults. *Cochrane Database of Systematic Reviews*, CD003388. https://doi.org/10.1002/14651858.CD003388.pub4
-2. Cusack, K., et al. (2016). Psychological treatments for adults with PTSD. *Annals of Internal Medicine, 165*(12), 897. https://doi.org/10.7326/L16-0510
-3. Lee, C. W., & Cuijpers, P. (2013). A meta-analysis of the contribution of eye movements in EMDR. *Journal of Behavior Therapy and Experimental Psychiatry, 44*(2), 231–239. https://doi.org/10.1016/j.jbtep.2012.11.001
+1. Bisson, J. I., et al. (2013). Psychological therapies for chronic PTSD in adults. *Cochrane Database of Systematic Reviews*, CD003388. [https://doi.org/10.1002/14651858.CD003388.pub4](https://doi.org/10.1002/14651858.CD003388.pub4)
+2. Cusack, K., et al. (2016). Psychological treatments for adults with PTSD. *Annals of Internal Medicine, 165*(12), 897. [https://doi.org/10.7326/L16-0510](https://doi.org/10.7326/L16-0510)
+3. Lee, C. W., & Cuijpers, P. (2013). A meta-analysis of the contribution of eye movements in EMDR. *Journal of Behavior Therapy and Experimental Psychiatry, 44*(2), 231–239. [https://doi.org/10.1016/j.jbtep.2012.11.001](https://doi.org/10.1016/j.jbtep.2012.11.001)
 4. National Institute for Health and Care Excellence. (2018). *Post-traumatic stress disorder (NG116)*.
 5. Shapiro, F. (2018). *Eye Movement Desensitization and Reprocessing Therapy* (3rd ed.). Guilford Press.
-6. van Veen, S. C., van Schie, K., Wijngaards-de Meij, L. D. N. V., Littel, M., Engelhard, I. M., & van den Hout, M. A. (2015). Speed matters. *Memory, 23*(2), 223–231. https://doi.org/10.1080/09658211.2014.928662
+6. van Veen, S. C., van Schie, K., Wijngaards-de Meij, L. D. N. V., Littel, M., Engelhard, I. M., & van den Hout, M. A. (2015). Speed matters. *Memory, 23*(2), 223–231. [https://doi.org/10.1080/09658211.2014.928662](https://doi.org/10.1080/09658211.2014.928662)
 7. World Health Organization. (2013). *Guidelines for the Management of Conditions Specifically Related to Stress*. WHO.

@@ -58,8 +58,8 @@ Nie publikujemy pozycji MMPI, bodźców Matryc Ravena, poprawnych odpowiedzi, pe
 
 - Ben-Porath, Y. S., & Tellegen, A. (2020). *MMPI-3 technical manual*. University of Minnesota Press.
 - Butcher, J. N., Dahlstrom, W. G., Graham, J. R., Tellegen, A., & Kaemmer, B. (1989). *MMPI-2: Manual for administration and scoring*. University of Minnesota Press.
-- Flynn, J. R. (1987). Massive IQ gains in 14 nations: What IQ tests really measure. *Psychological Bulletin, 101*(2), 171–191. https://doi.org/10.1037/0033-2909.101.2.171
-- Raven, J. (2000). The Raven’s Progressive Matrices: Change and stability over culture and time. *Cognitive Psychology, 41*(1), 1–48. https://doi.org/10.1006/cogp.1999.0735
+- Flynn, J. R. (1987). Massive IQ gains in 14 nations: What IQ tests really measure. *Psychological Bulletin, 101*(2), 171–191. [https://doi.org/10.1037/0033-2909.101.2.171](https://doi.org/10.1037/0033-2909.101.2.171)
+- Raven, J. (2000). The Raven’s Progressive Matrices: Change and stability over culture and time. *Cognitive Psychology, 41*(1), 1–48. [https://doi.org/10.1006/cogp.1999.0735](https://doi.org/10.1006/cogp.1999.0735)
 - Raven, J. C., Raven, J., & Court, J. H. (1998). *Manual for Raven’s Progressive Matrices and Vocabulary Scales*. Oxford Psychologists Press.
-- van de Vijver, F. J. R., & Tanzer, N. K. (2004). Bias and equivalence in cross-cultural assessment. *European Review of Applied Psychology, 54*(2), 119–135. https://doi.org/10.1016/j.erap.2003.12.004
-- Youngstrom, E. A., & Archer, R. P. (2016). A survey of practitioners about diagnostic and personality test use. *Assessment, 23*(3), 321–333. https://doi.org/10.1177/1073191115593168
+- van de Vijver, F. J. R., & Tanzer, N. K. (2004). Bias and equivalence in cross-cultural assessment. *European Review of Applied Psychology, 54*(2), 119–135. [https://doi.org/10.1016/j.erap.2003.12.004](https://doi.org/10.1016/j.erap.2003.12.004)
+- Youngstrom, E. A., & Archer, R. P. (2016). A survey of practitioners about diagnostic and personality test use. *Assessment, 23*(3), 321–333. [https://doi.org/10.1177/1073191115593168](https://doi.org/10.1177/1073191115593168)

@@ -54,9 +54,9 @@ Wsparcie psychologiczne może dotyczyć stresu mniejszościowego, relacji, proce
 ## Bibliografia
 
 1. American Psychiatric Association. (2022). *Diagnostic and Statistical Manual of Mental Disorders* (5th ed., text rev.).
-2. American Psychological Association. (2021). APA resolution on sexual orientation change efforts. *American Psychologist, 76*(6), 1002–1004. https://doi.org/10.1037/amp0000866
-3. Bailey, J. M., Vasey, P. L., Diamond, L. M., Breedlove, S. M., Vilain, E., & Epprecht, M. (2016). Sexual orientation, controversy, and science. *Psychological Science in the Public Interest, 17*(2), 45–101. https://doi.org/10.1177/1529100616637616
-4. Hyde, J. S., Bigler, R. S., Joel, D., Tate, C. C., & van Anders, S. M. (2019). The future of sex and gender in psychology. *American Psychologist, 74*(2), 171–193. https://doi.org/10.1037/amp0000307
-5. Meyer, I. H. (2003). Prejudice, social stress, and mental health in lesbian, gay, and bisexual populations. *Psychological Bulletin, 129*(5), 674–697. https://doi.org/10.1037/0033-2909.129.5.674
-6. National Academies of Sciences, Engineering, and Medicine. (2020). *Understanding the Well-Being of LGBTQI+ Populations*. National Academies Press. https://doi.org/10.17226/25877
+2. American Psychological Association. (2021). APA resolution on sexual orientation change efforts. *American Psychologist, 76*(6), 1002–1004. [https://doi.org/10.1037/amp0000866](https://doi.org/10.1037/amp0000866)
+3. Bailey, J. M., Vasey, P. L., Diamond, L. M., Breedlove, S. M., Vilain, E., & Epprecht, M. (2016). Sexual orientation, controversy, and science. *Psychological Science in the Public Interest, 17*(2), 45–101. [https://doi.org/10.1177/1529100616637616](https://doi.org/10.1177/1529100616637616)
+4. Hyde, J. S., Bigler, R. S., Joel, D., Tate, C. C., & van Anders, S. M. (2019). The future of sex and gender in psychology. *American Psychologist, 74*(2), 171–193. [https://doi.org/10.1037/amp0000307](https://doi.org/10.1037/amp0000307)
+5. Meyer, I. H. (2003). Prejudice, social stress, and mental health in lesbian, gay, and bisexual populations. *Psychological Bulletin, 129*(5), 674–697. [https://doi.org/10.1037/0033-2909.129.5.674](https://doi.org/10.1037/0033-2909.129.5.674)
+6. National Academies of Sciences, Engineering, and Medicine. (2020). *Understanding the Well-Being of LGBTQI+ Populations*. National Academies Press. [https://doi.org/10.17226/25877](https://doi.org/10.17226/25877)
 7. World Health Organization. (2019). *International Classification of Diseases 11th Revision: Gender incongruence*.

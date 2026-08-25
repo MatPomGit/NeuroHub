@@ -58,9 +58,9 @@ Utrzymujące się objawy, myśli samobójcze, przemoc, znaczne zaburzenie funkcj
 
 ## Bibliografia
 
-1. Bonanno, G. A., & Burton, C. L. (2013). Regulatory flexibility. *Perspectives on Psychological Science, 8*, 591–612. https://doi.org/10.1177/1745691613504116
-2. Cohen, S., & Wills, T. A. (1985). Stress, social support, and the buffering hypothesis. *Psychological Bulletin, 98*, 310–357. https://doi.org/10.1037/0033-2909.98.2.310
+1. Bonanno, G. A., & Burton, C. L. (2013). Regulatory flexibility. *Perspectives on Psychological Science, 8*, 591–612. [https://doi.org/10.1177/1745691613504116](https://doi.org/10.1177/1745691613504116)
+2. Cohen, S., & Wills, T. A. (1985). Stress, social support, and the buffering hypothesis. *Psychological Bulletin, 98*, 310–357. [https://doi.org/10.1037/0033-2909.98.2.310](https://doi.org/10.1037/0033-2909.98.2.310)
 3. Lazarus, R. S., & Folkman, S. (1984). *Stress, Appraisal, and Coping*. Springer.
-4. McEwen, B. S. (1998). Protective and damaging effects of stress mediators. *The New England Journal of Medicine, 338*, 171–179. https://doi.org/10.1056/NEJM199801153380307
-5. Southwick, S. M., i in. (2016). Why are some individuals more resilient than others? *World Psychiatry, 15*, 77–79. https://doi.org/10.1002/wps.20282
+4. McEwen, B. S. (1998). Protective and damaging effects of stress mediators. *The New England Journal of Medicine, 338*, 171–179. [https://doi.org/10.1056/NEJM199801153380307](https://doi.org/10.1056/NEJM199801153380307)
+5. Southwick, S. M., i in. (2016). Why are some individuals more resilient than others? *World Psychiatry, 15*, 77–79. [https://doi.org/10.1002/wps.20282](https://doi.org/10.1002/wps.20282)
 6. World Health Organization. (2019). *ICD-11: Burn-out as an occupational phenomenon*.

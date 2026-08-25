@@ -77,7 +77,7 @@ Instytucja szkoleniowa używa pojedynczego wyniku 3D-WS do rankingowania kandyda
 
 ## Bibliografia
 
-1. Ardelt, M. (2003). Empirical assessment of a three-dimensional wisdom scale. *Research on Aging, 25*(3), 275–324. https://doi.org/10.1177/0164027503025003004
+1. Ardelt, M. (2003). Empirical assessment of a three-dimensional wisdom scale. *Research on Aging, 25*(3), 275–324. [https://doi.org/10.1177/0164027503025003004](https://doi.org/10.1177/0164027503025003004)
 2. Steuden, S., Brudek, A., & Janowski, P. (2016). Polska adaptacja Trójwymiarowej Skali Mądrości (3D-WS) Moniki Ardelt. *Roczniki Psychologiczne, 19*(4), 709–728. https://www.kul.pl/files/1479/194/roczniki_psychologiczne_t._19_nr_4_pl._art._s._steuden.pdf
 3. American Educational Research Association, American Psychological Association, & National Council on Measurement in Education. (2014). *Standards for Educational and Psychological Testing*. AERA.
 4. American Psychological Association. (2017). *Ethical Principles of Psychologists and Code of Conduct*. APA.

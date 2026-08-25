@@ -50,7 +50,7 @@ Ważna świadoma zgoda wymaga zdolności, dobrowolności, odpowiedniej informacj
 ## Bibliografia
 
 - American Psychological Association. (2017). *Ethical principles of psychologists and code of conduct* (Standard 3.10, 8.02). https://www.apa.org/ethics/code
-- Appelbaum, P. S. (2007). Assessment of patients’ competence to consent to treatment. *New England Journal of Medicine, 357*(18), 1834–1840. https://doi.org/10.1056/NEJMcp074045
+- Appelbaum, P. S. (2007). Assessment of patients’ competence to consent to treatment. *New England Journal of Medicine, 357*(18), 1834–1840. [https://doi.org/10.1056/NEJMcp074045](https://doi.org/10.1056/NEJMcp074045)
 - Beauchamp, T. L., & Childress, J. F. (2019). *Principles of biomedical ethics* (8th ed.). Oxford University Press.
 - Faden, R. R., & Beauchamp, T. L. (1986). *A history and theory of informed consent*. Oxford University Press.
 - Fisher, C. B. (2017). *Decoding the ethics code: A practical guide for psychologists* (4th ed.). SAGE.

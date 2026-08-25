@@ -91,12 +91,12 @@ Najmocniejsze wnioski dotyczą istnienia wymiarowych, częściowo dziedzicznych 
 
 ## Bibliografia
 
-1. Carver, C. S., & White, T. L. (1994). Behavioral inhibition, behavioral activation, and affective responses to impending reward and punishment: The BIS/BAS Scales. *Journal of Personality and Social Psychology, 67*(2), 319–333. https://doi.org/10.1037/0022-3514.67.2.319
+1. Carver, C. S., & White, T. L. (1994). Behavioral inhibition, behavioral activation, and affective responses to impending reward and punishment: The BIS/BAS Scales. *Journal of Personality and Social Psychology, 67*(2), 319–333. [https://doi.org/10.1037/0022-3514.67.2.319](https://doi.org/10.1037/0022-3514.67.2.319)
 2. Eysenck, H. J., & Eysenck, M. W. (1985). *Personality and Individual Differences: A Natural Science Approach*. Plenum Press.
-3. Kagan, J., Reznick, J. S., & Snidman, N. (1988). Biological bases of childhood shyness. *Science, 240*(4849), 167–171. https://doi.org/10.1126/science.3353713
+3. Kagan, J., Reznick, J. S., & Snidman, N. (1988). Biological bases of childhood shyness. *Science, 240*(4849), 167–171. [https://doi.org/10.1126/science.3353713](https://doi.org/10.1126/science.3353713)
 4. Kagan, J., & Snidman, N. (2004). *The Long Shadow of Temperament*. Belknap Press.
-5. McNaughton, N., & Corr, P. J. (2004). A two-dimensional neuropsychology of defense: Fear/anxiety and defensive distance. *Neuroscience & Biobehavioral Reviews, 28*(3), 285–305. https://doi.org/10.1016/j.neubiorev.2004.03.005
+5. McNaughton, N., & Corr, P. J. (2004). A two-dimensional neuropsychology of defense: Fear/anxiety and defensive distance. *Neuroscience & Biobehavioral Reviews, 28*(3), 285–305. [https://doi.org/10.1016/j.neubiorev.2004.03.005](https://doi.org/10.1016/j.neubiorev.2004.03.005)
 6. Rothbart, M. K., & Derryberry, D. (1981). Development of individual differences in temperament. W: M. E. Lamb & A. L. Brown (red.), *Advances in Developmental Psychology* (t. 1, s. 37–86). Erlbaum.
 7. Strelau, J. (2008). *Temperament as a Regulator of Behavior: After Fifty Years of Research*. Eliot Werner Publications.
-8. Strelau, J., & Zawadzki, B. (1993). The Formal Characteristics of Behaviour–Temperament Inventory (FCB–TI): Theoretical assumptions and scale construction. *European Journal of Personality, 7*(5), 313–336. https://doi.org/10.1002/per.2410070504
+8. Strelau, J., & Zawadzki, B. (1993). The Formal Characteristics of Behaviour–Temperament Inventory (FCB–TI): Theoretical assumptions and scale construction. *European Journal of Personality, 7*(5), 313–336. [https://doi.org/10.1002/per.2410070504](https://doi.org/10.1002/per.2410070504)
 9. Thomas, A., & Chess, S. (1977). *Temperament and Development*. Brunner/Mazel.

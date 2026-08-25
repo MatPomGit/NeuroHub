@@ -169,10 +169,10 @@ Konkluzja „nie można odpowiedzieć na podstawie dostępnych danych” bywa na
 
 ## Bibliografia
 
-1. American Psychological Association. (2013). *Specialty guidelines for forensic psychology*. *American Psychologist, 68*(1), 7–19. https://doi.org/10.1037/a0029889
+1. American Psychological Association. (2013). *Specialty guidelines for forensic psychology*. *American Psychologist, 68*(1), 7–19. [https://doi.org/10.1037/a0029889](https://doi.org/10.1037/a0029889)
 2. Heilbrun, K., Grisso, T., & Goldstein, A. M. (2009). *Foundations of forensic mental health assessment*. Oxford University Press.
 3. International Test Commission. (2017). *The ITC guidelines for translating and adapting tests* (2nd ed.). https://www.intestcom.org/page/16
-4. Neal, T. M. S., Martire, K. A., Johan, J. L., Mathers, E. M., & Otto, R. K. (2022). The law meets psychological expertise: Eight best practices to improve forensic psychological assessment. *Annual Review of Law and Social Science, 18*, 169–192. https://doi.org/10.1146/annurev-lawsocsci-050420-010148
+4. Neal, T. M. S., Martire, K. A., Johan, J. L., Mathers, E. M., & Otto, R. K. (2022). The law meets psychological expertise: Eight best practices to improve forensic psychological assessment. *Annual Review of Law and Social Science, 18*, 169–192. [https://doi.org/10.1146/annurev-lawsocsci-050420-010148](https://doi.org/10.1146/annurev-lawsocsci-050420-010148)
 5. Otto, R. K., & Heilbrun, K. (2014). *The practice of forensic psychology: A look toward the future in light of the past* (2nd ed.). Routledge.
 6. Polskie Towarzystwo Psychologiczne. (2018). *Kodeks etyczny psychologa*. https://psych.org.pl/dla-psychologow/kodeks-etyczny
 7. Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/679 z 27 kwietnia 2016 r., w szczególności art. 5, 9 i 32. https://eur-lex.europa.eu/eli/reg/2016/679/oj

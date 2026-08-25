@@ -47,7 +47,7 @@ Najlepiej potwierdzone metody leczenia PTSD obejmują ukierunkowane na traumę t
 ## Bibliografia
 
 1. American Psychiatric Association. (2022). *Diagnostic and Statistical Manual of Mental Disorders* (5th ed., text rev.).
-2. Cloitre, M., et al. (2013). Evidence for proposed ICD-11 PTSD and complex PTSD. *European Journal of Psychotraumatology, 4*, 20706. https://doi.org/10.3402/ejpt.v4i0.20706
+2. Cloitre, M., et al. (2013). Evidence for proposed ICD-11 PTSD and complex PTSD. *European Journal of Psychotraumatology, 4*, 20706. [https://doi.org/10.3402/ejpt.v4i0.20706](https://doi.org/10.3402/ejpt.v4i0.20706)
 3. Freud, S. (1920/1955). Beyond the pleasure principle. In *The Standard Edition*, Vol. 18. Hogarth Press.
 4. National Institute for Health and Care Excellence. (2018). *Post-traumatic stress disorder (NG116)*.
 5. World Health Organization. (2013). *Guidelines for the management of conditions specifically related to stress*.

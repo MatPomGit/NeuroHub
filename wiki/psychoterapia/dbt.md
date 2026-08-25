@@ -51,9 +51,9 @@ Badania wspierają pełną DBT przede wszystkim w redukcji zachowań samobójczy
 
 ## Bibliografia
 
-1. DeCou, C. R., Comtois, K. A., & Landes, S. J. (2019). Dialectical behavior therapy is effective for the treatment of suicidal behavior. *Behavior Therapy, 50*(1), 60–72. https://doi.org/10.1016/j.beth.2018.03.009
+1. DeCou, C. R., Comtois, K. A., & Landes, S. J. (2019). Dialectical behavior therapy is effective for the treatment of suicidal behavior. *Behavior Therapy, 50*(1), 60–72. [https://doi.org/10.1016/j.beth.2018.03.009](https://doi.org/10.1016/j.beth.2018.03.009)
 2. Linehan, M. M. (1993). *Cognitive-Behavioral Treatment of Borderline Personality Disorder*. Guilford Press.
 3. Linehan, M. M. (2015). *DBT Skills Training Manual* (2nd ed.). Guilford Press.
-4. Linehan, M. M., et al. (2006). Two-year randomized controlled trial and follow-up of DBT. *Archives of General Psychiatry, 63*(7), 757–766. https://doi.org/10.1001/archpsyc.63.7.757
-5. McMain, S. F., et al. (2009). A randomized trial of DBT versus general psychiatric management. *American Journal of Psychiatry, 166*(12), 1365–1374. https://doi.org/10.1176/appi.ajp.2009.09010039
-6. Valentine, S. E., Bankoff, S. M., Poulin, R. M., Reidler, E. B., & Pantalone, D. W. (2015). The use of DBT skills training as stand-alone treatment. *Journal of Clinical Psychology, 71*(1), 1–20. https://doi.org/10.1002/jclp.22114
+4. Linehan, M. M., et al. (2006). Two-year randomized controlled trial and follow-up of DBT. *Archives of General Psychiatry, 63*(7), 757–766. [https://doi.org/10.1001/archpsyc.63.7.757](https://doi.org/10.1001/archpsyc.63.7.757)
+5. McMain, S. F., et al. (2009). A randomized trial of DBT versus general psychiatric management. *American Journal of Psychiatry, 166*(12), 1365–1374. [https://doi.org/10.1176/appi.ajp.2009.09010039](https://doi.org/10.1176/appi.ajp.2009.09010039)
+6. Valentine, S. E., Bankoff, S. M., Poulin, R. M., Reidler, E. B., & Pantalone, D. W. (2015). The use of DBT skills training as stand-alone treatment. *Journal of Clinical Psychology, 71*(1), 1–20. [https://doi.org/10.1002/jclp.22114](https://doi.org/10.1002/jclp.22114)

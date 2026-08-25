@@ -44,8 +44,8 @@ Miary obejmują zgony i przedawkowania, hospitalizacje, ciężkie dni używania,
 
 ## Bibliografia
 
-- British Association for Psychopharmacology. (2012). Evidence-based guidelines for the pharmacological management of substance abuse. *Journal of Psychopharmacology*, 26, 899–952. https://doi.org/10.1177/0269881112444324
+- British Association for Psychopharmacology. (2012). Evidence-based guidelines for the pharmacological management of substance abuse. *Journal of Psychopharmacology*, 26, 899–952. [https://doi.org/10.1177/0269881112444324](https://doi.org/10.1177/0269881112444324)
 - National Institute for Health and Care Excellence. (2011). *Alcohol-use disorders: diagnosis, assessment and management (CG115)*.
-- Sordo, L. i in. (2017). Mortality risk during and after opioid substitution treatment. *BMJ*, 357, j1550. https://doi.org/10.1136/bmj.j1550
+- Sordo, L. i in. (2017). Mortality risk during and after opioid substitution treatment. *BMJ*, 357, j1550. [https://doi.org/10.1136/bmj.j1550](https://doi.org/10.1136/bmj.j1550)
 - World Health Organization. (2009). *Guidelines for the psychosocially assisted pharmacological treatment of opioid dependence*. WHO.
 - World Health Organization. (2023). *Clinical treatment of tobacco cessation in adults*. WHO.

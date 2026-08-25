@@ -96,9 +96,9 @@ Najlepiej udokumentowane zastosowania dotyczą przywracania komunikacji i sterow
 
 ## Bibliografia
 
-1. Chaudhary, U., Birbaumer, N., & Ramos-Murguialday, A. (2016). Brain–computer interfaces for communication and rehabilitation. *Nature Reviews Neurology, 12*, 513–525. https://doi.org/10.1038/nrneurol.2016.113
-2. Hochberg, L. R. i in. (2012). Reach and grasp by people with tetraplegia using a neurally controlled robotic arm. *Nature, 485*, 372–375. https://doi.org/10.1038/nature11076
-3. Moses, D. A. i in. (2021). Neuroprosthesis for decoding speech in a paralyzed person with anarthria. *New England Journal of Medicine, 385*, 217–227. https://doi.org/10.1056/NEJMoa2027540
-4. Nuyujukian, P. i in. (2018). Cortical control of a tablet computer by people with paralysis. *PLOS ONE, 13*(11), e0204566. https://doi.org/10.1371/journal.pone.0204566
+1. Chaudhary, U., Birbaumer, N., & Ramos-Murguialday, A. (2016). Brain–computer interfaces for communication and rehabilitation. *Nature Reviews Neurology, 12*, 513–525. [https://doi.org/10.1038/nrneurol.2016.113](https://doi.org/10.1038/nrneurol.2016.113)
+2. Hochberg, L. R. i in. (2012). Reach and grasp by people with tetraplegia using a neurally controlled robotic arm. *Nature, 485*, 372–375. [https://doi.org/10.1038/nature11076](https://doi.org/10.1038/nature11076)
+3. Moses, D. A. i in. (2021). Neuroprosthesis for decoding speech in a paralyzed person with anarthria. *New England Journal of Medicine, 385*, 217–227. [https://doi.org/10.1056/NEJMoa2027540](https://doi.org/10.1056/NEJMoa2027540)
+4. Nuyujukian, P. i in. (2018). Cortical control of a tablet computer by people with paralysis. *PLOS ONE, 13*(11), e0204566. [https://doi.org/10.1371/journal.pone.0204566](https://doi.org/10.1371/journal.pone.0204566)
 5. U.S. Food and Drug Administration. (2021). *Implanted Brain-Computer Interface (BCI) Devices for Patients with Paralysis or Amputation: Non-clinical Testing and Clinical Considerations*. Guidance for Industry and Food and Drug Administration Staff.
 6. UNESCO. (2023). *Report of the International Bioethics Committee of UNESCO (IBC) on the ethical issues of neurotechnology*. UNESCO.

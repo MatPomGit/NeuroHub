@@ -159,18 +159,18 @@ Psychologia kliniczna dzieci i młodzieży łączy trzy perspektywy: objawową, 
 ## Bibliografia
 
 - American Psychological Association. (2017). *Ethical principles of psychologists and code of conduct* (2002, amended effective June 1, 2010, and January 1, 2017).
-- Asarnow, J. R., Rozenman, M., Wiblin, J., & Zeltzer, L. (2015). Integrated medical-behavioral care compared with usual primary care for child and adolescent behavioral health: A meta-analysis. *JAMA Pediatrics, 169*(10), 929–937. https://doi.org/10.1001/jamapediatrics.2015.1141
+- Asarnow, J. R., Rozenman, M., Wiblin, J., & Zeltzer, L. (2015). Integrated medical-behavioral care compared with usual primary care for child and adolescent behavioral health: A meta-analysis. *JAMA Pediatrics, 169*(10), 929–937. [https://doi.org/10.1001/jamapediatrics.2015.1141](https://doi.org/10.1001/jamapediatrics.2015.1141)
 - Cassidy, J., & Shaver, P. R. (Eds.). (2016). *Handbook of attachment: Theory, research, and clinical applications* (3rd ed.). Guilford Press.
 - Cicchetti, D. (Ed.). (2016). *Developmental psychopathology* (3rd ed.). Wiley.
 - Eells, T. D. (Ed.). (2022). *Handbook of psychotherapy case formulation* (3rd ed.). Guilford Press.
-- Kaminski, J. W., & Claussen, A. H. (2017). Evidence base update for psychosocial treatments for disruptive behaviors in children. *Journal of Clinical Child & Adolescent Psychology, 46*(4), 477–499. https://doi.org/10.1080/15374416.2017.1310044
+- Kaminski, J. W., & Claussen, A. H. (2017). Evidence base update for psychosocial treatments for disruptive behaviors in children. *Journal of Clinical Child & Adolescent Psychology, 46*(4), 477–499. [https://doi.org/10.1080/15374416.2017.1310044](https://doi.org/10.1080/15374416.2017.1310044)
 - Mash, E. J., & Barkley, R. A. (Eds.). (2014). *Child psychopathology* (3rd ed.). Guilford Press.
-- Masten, A. S., & Barnes, A. J. (2018). Resilience in children: Developmental perspectives. *Children, 5*(7), 98. https://doi.org/10.3390/children5070098
+- Masten, A. S., & Barnes, A. J. (2018). Resilience in children: Developmental perspectives. *Children, 5*(7), 98. [https://doi.org/10.3390/children5070098](https://doi.org/10.3390/children5070098)
 - National Institute for Health and Care Excellence. (2017). *Antisocial behaviour and conduct disorders in children and young people: Recognition and management* (CG158; updated 2017).
 - National Institute for Health and Care Excellence. (2019). *Depression in children and young people: Identification and management* (NG134).
 - National Institute for Health and Care Excellence. (2021). *Autism spectrum disorder in under 19s: Recognition, referral and diagnosis* (CG128; updated 2021).
 - National Institute for Health and Care Excellence. (2025). *Attention deficit hyperactivity disorder: Diagnosis and management* (NG87; updated 2025).
-- Thompson, R. A. (2019). Emotion dysregulation: A theme in search of definition. *Development and Psychopathology, 31*(3), 805–815. https://doi.org/10.1017/S0954579419000282
+- Thompson, R. A. (2019). Emotion dysregulation: A theme in search of definition. *Development and Psychopathology, 31*(3), 805–815. [https://doi.org/10.1017/S0954579419000282](https://doi.org/10.1017/S0954579419000282)
 - United Nations. (1989). *Convention on the Rights of the Child*.
 - Weisz, J. R., & Kazdin, A. E. (Eds.). (2017). *Evidence-based psychotherapies for children and adolescents* (3rd ed.). Guilford Press.
 - World Health Organization. (2024). *Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders*. World Health Organization.

@@ -48,8 +48,8 @@ Konsultacja jest wskazana, gdy próby odzyskania kontroli powtarzalnie zawodzą,
 ## Bibliografia
 
 1. American Psychiatric Association. (2022). *Diagnostic and Statistical Manual of Mental Disorders* (5th ed., text rev.).
-2. Antons, S., Engel, J., Briken, P., Krüger, T. H. C., Brand, M., & Stark, R. (2022). Treatments and interventions for compulsive sexual behavior disorder with a focus on problematic pornography use: A preregistered systematic review. *Journal of Behavioral Addictions, 11*(3), 643–666. https://doi.org/10.1556/2006.2022.00061
-3. Grubbs, J. B., Perry, S. L., Wilt, J. A., & Reid, R. C. (2019). Pornography problems due to moral incongruence. *Archives of Sexual Behavior, 48*, 397–415. https://doi.org/10.1007/s10508-018-1248-x
-4. Kraus, S. W., Krueger, R. B., Briken, P., et al. (2018). Compulsive sexual behaviour disorder in the ICD-11. *World Psychiatry, 17*(1), 109–110. https://doi.org/10.1002/wps.20499
-5. Walton, M. T., Cantor, J. M., Bhullar, N., & Lykins, A. D. (2017). Hypersexuality: A critical review and introduction to the “sexhavior cycle”. *Archives of Sexual Behavior, 46*, 2231–2251. https://doi.org/10.1007/s10508-017-0991-8
+2. Antons, S., Engel, J., Briken, P., Krüger, T. H. C., Brand, M., & Stark, R. (2022). Treatments and interventions for compulsive sexual behavior disorder with a focus on problematic pornography use: A preregistered systematic review. *Journal of Behavioral Addictions, 11*(3), 643–666. [https://doi.org/10.1556/2006.2022.00061](https://doi.org/10.1556/2006.2022.00061)
+3. Grubbs, J. B., Perry, S. L., Wilt, J. A., & Reid, R. C. (2019). Pornography problems due to moral incongruence. *Archives of Sexual Behavior, 48*, 397–415. [https://doi.org/10.1007/s10508-018-1248-x](https://doi.org/10.1007/s10508-018-1248-x)
+4. Kraus, S. W., Krueger, R. B., Briken, P., et al. (2018). Compulsive sexual behaviour disorder in the ICD-11. *World Psychiatry, 17*(1), 109–110. [https://doi.org/10.1002/wps.20499](https://doi.org/10.1002/wps.20499)
+5. Walton, M. T., Cantor, J. M., Bhullar, N., & Lykins, A. D. (2017). Hypersexuality: A critical review and introduction to the “sexhavior cycle”. *Archives of Sexual Behavior, 46*, 2231–2251. [https://doi.org/10.1007/s10508-017-0991-8](https://doi.org/10.1007/s10508-017-0991-8)
 6. World Health Organization. (2024). *ICD-11 for Mortality and Morbidity Statistics: Compulsive sexual behaviour disorder (6C72)*.

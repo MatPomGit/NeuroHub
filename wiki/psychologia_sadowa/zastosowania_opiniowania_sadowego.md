@@ -164,11 +164,11 @@ W różnych postępowaniach zmieniają się prawne pytania, ale standard rozumow
 
 ## Bibliografia
 
-1. Brubacher, S. P., Powell, M. B., & Roberts, K. P. (2014). Recommendations for interviewing children about repeated experiences. *Psychology, Public Policy, and Law, 20*(3), 325–335. https://doi.org/10.1037/law0000011
-2. Goodman, G. S., & Melinder, A. (2007). Child witness research and forensic interviews of young children: A review. *Legal and Criminological Psychology, 12*(1), 1–19. https://doi.org/10.1348/135532506X156620
+1. Brubacher, S. P., Powell, M. B., & Roberts, K. P. (2014). Recommendations for interviewing children about repeated experiences. *Psychology, Public Policy, and Law, 20*(3), 325–335. [https://doi.org/10.1037/law0000011](https://doi.org/10.1037/law0000011)
+2. Goodman, G. S., & Melinder, A. (2007). Child witness research and forensic interviews of young children: A review. *Legal and Criminological Psychology, 12*(1), 1–19. [https://doi.org/10.1348/135532506X156620](https://doi.org/10.1348/135532506X156620)
 3. Lamb, M. E., Brown, D. A., Hershkowitz, I., Orbach, Y., & Esplin, P. W. (2018). *Tell me what happened: Questioning children about abuse* (2nd ed.). Wiley.
-4. Lyon, T. D. (2014). Interviewing children. *Annual Review of Law and Social Science, 10*, 73–89. https://doi.org/10.1146/annurev-lawsocsci-110413-030913
-5. Otgaar, H., Howe, M. L., Merckelbach, H., & Muris, P. (2018). Who is the better eyewitness? Sometimes adults but at other times children. *Current Directions in Psychological Science, 27*(5), 378–385. https://doi.org/10.1177/0963721418770998
+4. Lyon, T. D. (2014). Interviewing children. *Annual Review of Law and Social Science, 10*, 73–89. [https://doi.org/10.1146/annurev-lawsocsci-110413-030913](https://doi.org/10.1146/annurev-lawsocsci-110413-030913)
+5. Otgaar, H., Howe, M. L., Merckelbach, H., & Muris, P. (2018). Who is the better eyewitness? Sometimes adults but at other times children. *Current Directions in Psychological Science, 27*(5), 378–385. [https://doi.org/10.1177/0963721418770998](https://doi.org/10.1177/0963721418770998)
 6. Vrij, A. (2008). *Detecting lies and deceit: Pitfalls and opportunities* (2nd ed.). Wiley.
 7. Ustawa z 6 czerwca 1997 r. – Kodeks karny (tekst jedn. Dz.U. 2025 poz. 383, z późn. zm.), art. 31. https://eli.gov.pl/eli/DU/2025/383/ogl
 8. Ustawa z 6 czerwca 1997 r. – Kodeks postępowania karnego (tekst jedn. Dz.U. 2025 poz. 46, z późn. zm.), w szczególności art. 192, 193, 202 i 185a–185c. https://eli.gov.pl/eli/DU/2025/46/ogl

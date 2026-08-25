@@ -83,9 +83,9 @@ Brak poprawy nie jest dowodem braku potencjału. Najpierw sprawdza się wiernoś
 - American Psychiatric Association. (2022). *Diagnostic and statistical manual of mental disorders* (5th ed., text rev.). American Psychiatric Association Publishing.
 - Cortiella, C., & Horowitz, S. H. (2014). *The state of learning disabilities: Facts, trends and emerging issues* (3rd ed.). National Center for Learning Disabilities.
 - DuPaul, G. J., & Stoner, G. (2014). *ADHD in the schools: Assessment and intervention strategies* (3rd ed.). Guilford Press.
-- Faraone, S. V., Banaschewski, T., Coghill, D., et al. (2021). The World Federation of ADHD International Consensus Statement. *Neuroscience & Biobehavioral Reviews, 128*, 789–818. https://doi.org/10.1016/j.neubiorev.2021.01.022
+- Faraone, S. V., Banaschewski, T., Coghill, D., et al. (2021). The World Federation of ADHD International Consensus Statement. *Neuroscience & Biobehavioral Reviews, 128*, 789–818. [https://doi.org/10.1016/j.neubiorev.2021.01.022](https://doi.org/10.1016/j.neubiorev.2021.01.022)
 - Fletcher, J. M., Lyon, G. R., Fuchs, L. S., & Barnes, M. A. (2019). *Learning disabilities: From identification to intervention* (2nd ed.). Guilford Press.
-- Gersten, R., Chard, D. J., Jayanthi, M., Baker, S. K., Morphy, P., & Flojo, J. (2009). Mathematics instruction for students with learning disabilities. *Review of Educational Research, 79*(3), 1202–1242. https://doi.org/10.3102/0034654309334431
+- Gersten, R., Chard, D. J., Jayanthi, M., Baker, S. K., Morphy, P., & Flojo, J. (2009). Mathematics instruction for students with learning disabilities. *Review of Educational Research, 79*(3), 1202–1242. [https://doi.org/10.3102/0034654309334431](https://doi.org/10.3102/0034654309334431)
 - Institute of Education Sciences. (2022). *Providing reading interventions for students in grades 4–9*. U.S. Department of Education.
 - National Institute of Child Health and Human Development. (2000). *Report of the National Reading Panel: Teaching children to read*. U.S. Government Printing Office.
 - World Health Organization. (2022). *International classification of diseases for mortality and morbidity statistics* (11th Revision).

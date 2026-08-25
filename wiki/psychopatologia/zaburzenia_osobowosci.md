@@ -42,8 +42,8 @@ W przypadku cech antyspołecznych cele mogą obejmować ograniczenie przemocy i 
 
 1. American Psychiatric Association. (2022). *Diagnostic and Statistical Manual of Mental Disorders* (5th ed., text rev.).
 2. Hare, R. D. (2003). *Manual for the Revised Psychopathy Checklist* (2nd ed.). Multi-Health Systems.
-3. Hopwood, C. J., et al. (2018). The time has come for dimensional personality disorder diagnosis. *Personality and Mental Health, 12*(1), 82–86. https://doi.org/10.1002/pmh.1408
+3. Hopwood, C. J., et al. (2018). The time has come for dimensional personality disorder diagnosis. *Personality and Mental Health, 12*(1), 82–86. [https://doi.org/10.1002/pmh.1408](https://doi.org/10.1002/pmh.1408)
 4. National Institute for Health and Care Excellence. (2009). *Antisocial personality disorder: prevention and management (CG77)*.
 5. National Institute for Health and Care Excellence. (2009). *Borderline personality disorder: recognition and management (CG78)*.
-6. Tyrer, P., Mulder, R., Kim, Y.-R., & Crawford, M. J. (2019). The development of the ICD-11 classification of personality disorders. *Personality and Mental Health, 13*(2), 58–72. https://doi.org/10.1002/pmh.1442
+6. Tyrer, P., Mulder, R., Kim, Y.-R., & Crawford, M. J. (2019). The development of the ICD-11 classification of personality disorders. *Personality and Mental Health, 13*(2), 58–72. [https://doi.org/10.1002/pmh.1442](https://doi.org/10.1002/pmh.1442)
 7. World Health Organization. (2024). *Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders*.

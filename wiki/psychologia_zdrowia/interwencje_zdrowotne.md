@@ -63,9 +63,9 @@ Program powinien określać cel, grupę, kompetencje osoby prowadzącej, ryzyko 
 ## Bibliografia
 
 1. American Diabetes Association Professional Practice Committee. (2026). Standards of Care in Diabetes. *Diabetes Care, 49*(Suppl. 1).
-2. Coyne, J. C., Stefanek, M., & Palmer, S. C. (2007). Psychotherapy and survival in cancer. *Psychological Bulletin, 133*, 367–394. https://doi.org/10.1037/0033-2909.133.3.367
-3. Elwyn, G., i in. (2012). Shared decision making: A model for clinical practice. *Journal of General Internal Medicine, 27*, 1361–1367. https://doi.org/10.1007/s11606-012-2077-6
-4. Finniss, D. G., Kaptchuk, T. J., Miller, F., & Benedetti, F. (2010). Biological, clinical, and ethical advances of placebo effects. *The Lancet, 375*, 686–695. https://doi.org/10.1016/S0140-6736(09)61706-2
-5. Hoffmann, T. C., i in. (2014). Shared decision making: What do clinicians need to know and why should they bother? *Medical Journal of Australia, 201*, 35–39. https://doi.org/10.5694/mja14.00002
-6. Trevena, L. J., i in. (2013). Presenting quantitative information about decision outcomes. *BMC Medical Informatics and Decision Making, 13*(Suppl. 2), S7. https://doi.org/10.1186/1472-6947-13-S2-S7
+2. Coyne, J. C., Stefanek, M., & Palmer, S. C. (2007). Psychotherapy and survival in cancer. *Psychological Bulletin, 133*, 367–394. [https://doi.org/10.1037/0033-2909.133.3.367](https://doi.org/10.1037/0033-2909.133.3.367)
+3. Elwyn, G., i in. (2012). Shared decision making: A model for clinical practice. *Journal of General Internal Medicine, 27*, 1361–1367. [https://doi.org/10.1007/s11606-012-2077-6](https://doi.org/10.1007/s11606-012-2077-6)
+4. Finniss, D. G., Kaptchuk, T. J., Miller, F., & Benedetti, F. (2010). Biological, clinical, and ethical advances of placebo effects. *The Lancet, 375*, 686–695. [https://doi.org/10.1016/S0140-6736(09)61706-2](https://doi.org/10.1016/S0140-6736(09)61706-2)
+5. Hoffmann, T. C., i in. (2014). Shared decision making: What do clinicians need to know and why should they bother? *Medical Journal of Australia, 201*, 35–39. [https://doi.org/10.5694/mja14.00002](https://doi.org/10.5694/mja14.00002)
+6. Trevena, L. J., i in. (2013). Presenting quantitative information about decision outcomes. *BMC Medical Informatics and Decision Making, 13*(Suppl. 2), S7. [https://doi.org/10.1186/1472-6947-13-S2-S7](https://doi.org/10.1186/1472-6947-13-S2-S7)
 7. World Health Organization. (2016). *Framework on Integrated, People-Centred Health Services*.

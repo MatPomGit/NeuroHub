@@ -95,13 +95,13 @@ Zdrowy klimat nie polega na braku każdego konfliktu ani stresu. Polega na tym, 
 
 ## Bibliografia
 
-- Aldridge, J. M., & McChesney, K. (2018). The relationships between school climate and adolescent mental health and wellbeing. *International Journal of Educational Research, 88*, 121–145. https://doi.org/10.1016/j.ijer.2018.01.012
-- Arseneault, L. (2018). Annual Research Review: The persistent and pervasive impact of being bullied in childhood and adolescence. *Journal of Child Psychology and Psychiatry, 59*(4), 405–421. https://doi.org/10.1111/jcpp.12841
+- Aldridge, J. M., & McChesney, K. (2018). The relationships between school climate and adolescent mental health and wellbeing. *International Journal of Educational Research, 88*, 121–145. [https://doi.org/10.1016/j.ijer.2018.01.012](https://doi.org/10.1016/j.ijer.2018.01.012)
+- Arseneault, L. (2018). Annual Research Review: The persistent and pervasive impact of being bullied in childhood and adolescence. *Journal of Child Psychology and Psychiatry, 59*(4), 405–421. [https://doi.org/10.1111/jcpp.12841](https://doi.org/10.1111/jcpp.12841)
 - Cohen, J., McCabe, E. M., Michelli, N. M., & Pickeral, T. (2009). School climate: Research, policy, practice, and teacher education. *Teachers College Record, 111*(1), 180–213.
-- Cornell, D., & Limber, S. P. (2015). Law and policy on the concept of bullying at school. *American Psychologist, 70*(4), 333–343. https://doi.org/10.1037/a0038558
-- Gaffney, H., Ttofi, M. M., & Farrington, D. P. (2021). Effectiveness of school-based programs to reduce bullying perpetration and victimization. *Campbell Systematic Reviews, 17*(2), e1143. https://doi.org/10.1002/cl2.1143
+- Cornell, D., & Limber, S. P. (2015). Law and policy on the concept of bullying at school. *American Psychologist, 70*(4), 333–343. [https://doi.org/10.1037/a0038558](https://doi.org/10.1037/a0038558)
+- Gaffney, H., Ttofi, M. M., & Farrington, D. P. (2021). Effectiveness of school-based programs to reduce bullying perpetration and victimization. *Campbell Systematic Reviews, 17*(2), e1143. [https://doi.org/10.1002/cl2.1143](https://doi.org/10.1002/cl2.1143)
 - Lazarus, R. S., & Folkman, S. (1984). *Stress, appraisal, and coping*. Springer.
-- Menesini, E., & Salmivalli, C. (2017). Bullying in schools: The state of knowledge and effective interventions. *Psychology, Health & Medicine, 22*(sup1), 240–253. https://doi.org/10.1080/13548506.2017.1279740
-- National Academies of Sciences, Engineering, and Medicine. (2016). *Preventing bullying through science, policy, and practice*. National Academies Press. https://doi.org/10.17226/23482
-- Thapa, A., Cohen, J., Guffey, S., & Higgins-D'Alessandro, A. (2013). A review of school climate research. *Review of Educational Research, 83*(3), 357–385. https://doi.org/10.3102/0034654313483907
-- Ttofi, M. M., & Farrington, D. P. (2011). Effectiveness of school-based programs to reduce bullying. *Journal of Experimental Criminology, 7*, 27–56. https://doi.org/10.1007/s11292-010-9109-1
+- Menesini, E., & Salmivalli, C. (2017). Bullying in schools: The state of knowledge and effective interventions. *Psychology, Health & Medicine, 22*(sup1), 240–253. [https://doi.org/10.1080/13548506.2017.1279740](https://doi.org/10.1080/13548506.2017.1279740)
+- National Academies of Sciences, Engineering, and Medicine. (2016). *Preventing bullying through science, policy, and practice*. National Academies Press. [https://doi.org/10.17226/23482](https://doi.org/10.17226/23482)
+- Thapa, A., Cohen, J., Guffey, S., & Higgins-D'Alessandro, A. (2013). A review of school climate research. *Review of Educational Research, 83*(3), 357–385. [https://doi.org/10.3102/0034654313483907](https://doi.org/10.3102/0034654313483907)
+- Ttofi, M. M., & Farrington, D. P. (2011). Effectiveness of school-based programs to reduce bullying. *Journal of Experimental Criminology, 7*, 27–56. [https://doi.org/10.1007/s11292-010-9109-1](https://doi.org/10.1007/s11292-010-9109-1)

@@ -74,7 +74,7 @@ Praktyczne użycie dialogu filozoficznego do badania światopoglądu, wartości 
 
 1. Audi, R. (2011). *Epistemology: A Contemporary Introduction to the Theory of Knowledge* (3rd ed.). Routledge.
 2. Gadamer, H.-G. (2004). *Truth and Method* (2nd rev. ed.). Continuum. (Oryginał opublikowano w 1960 r.).
-3. Gettier, E. L. (1963). Is justified true belief knowledge? *Analysis, 23*(6), 121–123. https://doi.org/10.1093/analys/23.6.121
+3. Gettier, E. L. (1963). Is justified true belief knowledge? *Analysis, 23*(6), 121–123. [https://doi.org/10.1093/analys/23.6.121](https://doi.org/10.1093/analys/23.6.121)
 4. Husserl, E. (1982). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy, First Book*. Martinus Nijhoff. (Oryginał opublikowano w 1913 r.).
 5. Priest, G. (2017). *Logic: A Very Short Introduction* (2nd ed.). Oxford University Press.
 6. Sider, T. (2009). *Logic for Philosophy*. Oxford University Press.

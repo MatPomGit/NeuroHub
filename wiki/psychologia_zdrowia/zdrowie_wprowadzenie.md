@@ -60,11 +60,11 @@ Dobre zastosowanie modelu przebiega od pytania do mechanizmu, pomiaru i interwen
 ## Bibliografia
 
 1. Ader, R. (red.). (2007). *Psychoneuroimmunology* (4. wyd.). Elsevier Academic Press.
-2. Bolton, D., & Gillett, G. (2019). *The Biopsychosocial Model of Health and Disease*. Palgrave Pivot. https://doi.org/10.1007/978-3-030-11899-0
-3. Dantzer, R., O’Connor, J. C., Freund, G. G., Johnson, R. W., & Kelley, K. W. (2008). From inflammation to sickness and depression. *Nature Reviews Neuroscience, 9*, 46–56. https://doi.org/10.1038/nrn2297
-4. Engel, G. L. (1977). The need for a new medical model. *Science, 196*(4286), 129–136. https://doi.org/10.1126/science.847460
-5. Ghaemi, S. N. (2009). The rise and fall of the biopsychosocial model. *The British Journal of Psychiatry, 195*(1), 3–4. https://doi.org/10.1192/bjp.bp.109.063859
-6. Huber, M., i in. (2011). How should we define health? *BMJ, 343*, d4163. https://doi.org/10.1136/bmj.d4163
-7. McLeroy, K. R., Bibeau, D., Steckler, A., & Glanz, K. (1988). An ecological perspective on health promotion programs. *Health Education Quarterly, 15*(4), 351–377. https://doi.org/10.1177/109019818801500401
-8. Segerstrom, S. C., & Miller, G. E. (2004). Psychological stress and the human immune system. *Psychological Bulletin, 130*(4), 601–630. https://doi.org/10.1037/0033-2909.130.4.601
+2. Bolton, D., & Gillett, G. (2019). *The Biopsychosocial Model of Health and Disease*. Palgrave Pivot. [https://doi.org/10.1007/978-3-030-11899-0](https://doi.org/10.1007/978-3-030-11899-0)
+3. Dantzer, R., O’Connor, J. C., Freund, G. G., Johnson, R. W., & Kelley, K. W. (2008). From inflammation to sickness and depression. *Nature Reviews Neuroscience, 9*, 46–56. [https://doi.org/10.1038/nrn2297](https://doi.org/10.1038/nrn2297)
+4. Engel, G. L. (1977). The need for a new medical model. *Science, 196*(4286), 129–136. [https://doi.org/10.1126/science.847460](https://doi.org/10.1126/science.847460)
+5. Ghaemi, S. N. (2009). The rise and fall of the biopsychosocial model. *The British Journal of Psychiatry, 195*(1), 3–4. [https://doi.org/10.1192/bjp.bp.109.063859](https://doi.org/10.1192/bjp.bp.109.063859)
+6. Huber, M., i in. (2011). How should we define health? *BMJ, 343*, d4163. [https://doi.org/10.1136/bmj.d4163](https://doi.org/10.1136/bmj.d4163)
+7. McLeroy, K. R., Bibeau, D., Steckler, A., & Glanz, K. (1988). An ecological perspective on health promotion programs. *Health Education Quarterly, 15*(4), 351–377. [https://doi.org/10.1177/109019818801500401](https://doi.org/10.1177/109019818801500401)
+8. Segerstrom, S. C., & Miller, G. E. (2004). Psychological stress and the human immune system. *Psychological Bulletin, 130*(4), 601–630. [https://doi.org/10.1037/0033-2909.130.4.601](https://doi.org/10.1037/0033-2909.130.4.601)
 9. World Health Organization. (1948). *Constitution of the World Health Organization*.

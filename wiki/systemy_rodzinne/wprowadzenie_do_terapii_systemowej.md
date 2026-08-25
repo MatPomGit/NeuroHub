@@ -90,11 +90,11 @@ Pojęcia systemowe dobrze porządkują złożone interakcje, ale wiele klasyczny
 2. Bowen, M. (1978). *Family Therapy in Clinical Practice*. Jason Aronson.
 3. Boszormenyi-Nagy, I., & Spark, G. M. (1973). *Invisible Loyalties: Reciprocity in Intergenerational Family Therapy*. Harper & Row.
 4. Carter, B., & McGoldrick, M. (Eds.). (1980). *The Family Life Cycle: A Framework for Family Therapy*. Gardner Press.
-5. Kerig, P. K. (1995). Triangles in the family circle: Effects of family structure on marriage, parenting, and child adjustment. *Journal of Family Psychology, 9*(1), 28–43. https://doi.org/10.1037/0893-3200.9.1.28
+5. Kerig, P. K. (1995). Triangles in the family circle: Effects of family structure on marriage, parenting, and child adjustment. *Journal of Family Psychology, 9*(1), 28–43. [https://doi.org/10.1037/0893-3200.9.1.28](https://doi.org/10.1037/0893-3200.9.1.28)
 6. Kerr, M. E., & Bowen, M. (1988). *Family Evaluation*. W. W. Norton.
 7. McGoldrick, M., Garcia Preto, N., & Carter, B. (Eds.). (2016). *The Expanding Family Life Cycle* (5th ed.). Pearson.
 8. McGoldrick, M., Gerson, R., & Petry, S. (2008). *Genograms: Assessment and Intervention* (3rd ed.). W. W. Norton.
 9. Minuchin, S. (1974). *Families and Family Therapy*. Harvard University Press.
 10. Nichols, M. P., & Davis, S. D. (2020). *Family Therapy: Concepts and Methods* (12th ed.). Pearson.
 11. Walsh, F. (2016). *Strengthening Family Resilience* (3rd ed.). Guilford Press.
-12. Yehuda, R., & Lehrner, A. (2018). Intergenerational transmission of trauma effects: Putative role of epigenetic mechanisms. *World Psychiatry, 17*(3), 243–257. https://doi.org/10.1002/wps.20568
+12. Yehuda, R., & Lehrner, A. (2018). Intergenerational transmission of trauma effects: Putative role of epigenetic mechanisms. *World Psychiatry, 17*(3), 243–257. [https://doi.org/10.1002/wps.20568](https://doi.org/10.1002/wps.20568)

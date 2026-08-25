@@ -92,6 +92,6 @@ Rogers, C. R. (1961). *On becoming a person*. Houghton Mifflin.
 
 Skinner, B. F. (1953). *Science and human behavior*. Macmillan.
 
-Watson, J. B. (1913). Psychology as the behaviorist views it. *Psychological Review, 20*(2), 158–177. https://doi.org/10.1037/h0074428
+Watson, J. B. (1913). Psychology as the behaviorist views it. *Psychological Review, 20*(2), 158–177. [https://doi.org/10.1037/h0074428](https://doi.org/10.1037/h0074428)
 
-Westen, D. (1998). The scientific legacy of Sigmund Freud: Toward a psychodynamically informed psychological science. *Psychological Bulletin, 124*(3), 333–371. https://doi.org/10.1037/0033-2909.124.3.333
+Westen, D. (1998). The scientific legacy of Sigmund Freud: Toward a psychodynamically informed psychological science. *Psychological Bulletin, 124*(3), 333–371. [https://doi.org/10.1037/0033-2909.124.3.333](https://doi.org/10.1037/0033-2909.124.3.333)

@@ -52,9 +52,9 @@ Nie publikujemy zastrzeżonych bodźców, zadań, reguł kodowania ADOS-2 ani tr
 
 ## Bibliografia
 
-- American Psychiatric Association. (2022). *Diagnostic and statistical manual of mental disorders* (5th ed., text rev.). https://doi.org/10.1176/appi.books.9780890425787
-- Hus, V., & Lord, C. (2014). The Autism Diagnostic Observation Schedule, Module 4: Revised algorithm and standardized severity scores. *Journal of Autism and Developmental Disorders, 44*, 1996–2012. https://doi.org/10.1007/s10803-014-2080-3
-- Kamp-Becker, I., Albertowski, K., Becker, J., et al. (2018). Diagnostic accuracy of the ADOS and ADOS-2 in clinical practice. *European Child & Adolescent Psychiatry, 27*, 1193–1207. https://doi.org/10.1007/s00787-018-1143-y
+- American Psychiatric Association. (2022). *Diagnostic and statistical manual of mental disorders* (5th ed., text rev.). [https://doi.org/10.1176/appi.books.9780890425787](https://doi.org/10.1176/appi.books.9780890425787)
+- Hus, V., & Lord, C. (2014). The Autism Diagnostic Observation Schedule, Module 4: Revised algorithm and standardized severity scores. *Journal of Autism and Developmental Disorders, 44*, 1996–2012. [https://doi.org/10.1007/s10803-014-2080-3](https://doi.org/10.1007/s10803-014-2080-3)
+- Kamp-Becker, I., Albertowski, K., Becker, J., et al. (2018). Diagnostic accuracy of the ADOS and ADOS-2 in clinical practice. *European Child & Adolescent Psychiatry, 27*, 1193–1207. [https://doi.org/10.1007/s00787-018-1143-y](https://doi.org/10.1007/s00787-018-1143-y)
 - Kooij, J. J. S., Francken, M. H., & Bron, T. I. (2019). *Diagnostic Interview for ADHD in Adults, third edition (DIVA-5)*. DIVA Foundation.
 - Lord, C., Rutter, M., DiLavore, P. C., Risi, S., Gotham, K., & Bishop, S. L. (2012). *Autism Diagnostic Observation Schedule, second edition (ADOS-2) manual*. Western Psychological Services.
 - National Institute for Health and Care Excellence. (2018, updated 2019). *Attention deficit hyperactivity disorder: Diagnosis and management (NG87)*. https://www.nice.org.uk/guidance/ng87

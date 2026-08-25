@@ -77,8 +77,8 @@ Zdanie „ten neuron odpowiada za zachowanie” zwykle myli poziomy opisu. Aktyw
 
 ## Bibliografia
 
-- Fields, R. D. (2015). A new mechanism of nervous system plasticity: activity-dependent myelination. *Nature Reviews Neuroscience, 16*, 756–767. https://doi.org/10.1038/nrn4023
-- Jäkel, S., & Dimou, L. (2017). Glial cells and their function in the adult brain. *Archives of Toxicology, 91*, 1273–1285. https://doi.org/10.1007/s00204-017-1913-y
+- Fields, R. D. (2015). A new mechanism of nervous system plasticity: activity-dependent myelination. *Nature Reviews Neuroscience, 16*, 756–767. [https://doi.org/10.1038/nrn4023](https://doi.org/10.1038/nrn4023)
+- Jäkel, S., & Dimou, L. (2017). Glial cells and their function in the adult brain. *Archives of Toxicology, 91*, 1273–1285. [https://doi.org/10.1007/s00204-017-1913-y](https://doi.org/10.1007/s00204-017-1913-y)
 - Kandel, E. R., Koester, J. D., Mack, S. H., & Siegelbaum, S. A. (Eds.). (2021). *Principles of neural science* (6th ed.). McGraw Hill.
 - Purves, D., Augustine, G. J., Fitzpatrick, D., Hall, W. C., LaMantia, A.-S., Mooney, R. D., Platt, M. L., & White, L. E. (Eds.). (2018). *Neuroscience* (6th ed.). Oxford University Press.
-- Seeley, W. W., Crawford, R. K., Zhou, J., Miller, B. L., & Greicius, M. D. (2009). Neurodegenerative diseases target large-scale human brain networks. *Neuron, 62*(1), 42–52. https://doi.org/10.1016/j.neuron.2009.03.024
+- Seeley, W. W., Crawford, R. K., Zhou, J., Miller, B. L., & Greicius, M. D. (2009). Neurodegenerative diseases target large-scale human brain networks. *Neuron, 62*(1), 42–52. [https://doi.org/10.1016/j.neuron.2009.03.024](https://doi.org/10.1016/j.neuron.2009.03.024)

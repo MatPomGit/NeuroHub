@@ -44,8 +44,8 @@ Większość takich prób jest poza wskazaniami. Trzeba uwzględnić toksycznoś
 
 ## Bibliografia
 
-- Cortese, S. i in. (2018). Comparative efficacy and tolerability of medications for ADHD. *The Lancet Psychiatry*, 5, 727–738. https://doi.org/10.1016/S2215-0366(18)30269-4
+- Cortese, S. i in. (2018). Comparative efficacy and tolerability of medications for ADHD. *The Lancet Psychiatry*, 5, 727–738. [https://doi.org/10.1016/S2215-0366(18)30269-4](https://doi.org/10.1016/S2215-0366(18)30269-4)
 - National Institute for Health and Care Excellence. (2018). *Attention deficit hyperactivity disorder (NG87)*.
 - National Institute for Health and Care Excellence. (2020). *Eating disorders: recognition and treatment (NG69)*.
 - National Institute for Health and Care Excellence. (2021). *Autism spectrum disorder in adults (CG142)*.
-- Stoffers-Winterling, J. M. i in. (2022). Pharmacological interventions for people with borderline personality disorder. *Cochrane Database of Systematic Reviews*, CD012956. https://doi.org/10.1002/14651858.CD012956.pub2
+- Stoffers-Winterling, J. M. i in. (2022). Pharmacological interventions for people with borderline personality disorder. *Cochrane Database of Systematic Reviews*, CD012956. [https://doi.org/10.1002/14651858.CD012956.pub2](https://doi.org/10.1002/14651858.CD012956.pub2)

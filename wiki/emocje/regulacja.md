@@ -82,15 +82,15 @@ Powstawanie, rozpoznawanie, nazywanie i regulowanie emocji tworzą powiązany, l
 
 ## Bibliografia
 
-1. Aldao, A., Nolen-Hoeksema, S., & Schweizer, S. (2010). Emotion-regulation strategies across psychopathology: A meta-analytic review. *Clinical Psychology Review, 30*(2), 217–237. https://doi.org/10.1016/j.cpr.2009.11.004
-2. Bagby, R. M., Parker, J. D. A., & Taylor, G. J. (1994). The twenty-item Toronto Alexithymia Scale, I. *Journal of Psychosomatic Research, 38*(1), 23–32. https://doi.org/10.1016/0022-3999(94)90005-1
-3. Bonanno, G. A., & Burton, C. L. (2013). Regulatory flexibility. *Perspectives on Psychological Science, 8*(6), 591–612. https://doi.org/10.1177/1745691613504116
-4. Gross, J. J. (1998). The emerging field of emotion regulation. *Review of General Psychology, 2*(3), 271–299. https://doi.org/10.1037/1089-2680.2.3.271
-5. Gross, J. J. (2015). Emotion regulation: Current status and future prospects. *Psychological Inquiry, 26*(1), 1–26. https://doi.org/10.1080/1047840X.2014.940781
-6. Gross, J. J., & John, O. P. (2003). Individual differences in two emotion regulation processes. *Journal of Personality and Social Psychology, 85*(2), 348–362. https://doi.org/10.1037/0022-3514.85.2.348
-7. Kinnaird, E., Stewart, C., & Tchanturia, K. (2019). Investigating alexithymia in autism: A systematic review and meta-analysis. *Journal of Autism and Developmental Disorders, 49*, 1621–1634. https://doi.org/10.1007/s10803-019-03828-2
+1. Aldao, A., Nolen-Hoeksema, S., & Schweizer, S. (2010). Emotion-regulation strategies across psychopathology: A meta-analytic review. *Clinical Psychology Review, 30*(2), 217–237. [https://doi.org/10.1016/j.cpr.2009.11.004](https://doi.org/10.1016/j.cpr.2009.11.004)
+2. Bagby, R. M., Parker, J. D. A., & Taylor, G. J. (1994). The twenty-item Toronto Alexithymia Scale, I. *Journal of Psychosomatic Research, 38*(1), 23–32. [https://doi.org/10.1016/0022-3999(94)90005-1](https://doi.org/10.1016/0022-3999(94)90005-1)
+3. Bonanno, G. A., & Burton, C. L. (2013). Regulatory flexibility. *Perspectives on Psychological Science, 8*(6), 591–612. [https://doi.org/10.1177/1745691613504116](https://doi.org/10.1177/1745691613504116)
+4. Gross, J. J. (1998). The emerging field of emotion regulation. *Review of General Psychology, 2*(3), 271–299. [https://doi.org/10.1037/1089-2680.2.3.271](https://doi.org/10.1037/1089-2680.2.3.271)
+5. Gross, J. J. (2015). Emotion regulation: Current status and future prospects. *Psychological Inquiry, 26*(1), 1–26. [https://doi.org/10.1080/1047840X.2014.940781](https://doi.org/10.1080/1047840X.2014.940781)
+6. Gross, J. J., & John, O. P. (2003). Individual differences in two emotion regulation processes. *Journal of Personality and Social Psychology, 85*(2), 348–362. [https://doi.org/10.1037/0022-3514.85.2.348](https://doi.org/10.1037/0022-3514.85.2.348)
+7. Kinnaird, E., Stewart, C., & Tchanturia, K. (2019). Investigating alexithymia in autism: A systematic review and meta-analysis. *Journal of Autism and Developmental Disorders, 49*, 1621–1634. [https://doi.org/10.1007/s10803-019-03828-2](https://doi.org/10.1007/s10803-019-03828-2)
 8. Lazarus, R. S., & Folkman, S. (1984). *Stress, Appraisal, and Coping*. Springer.
-9. Lumley, M. A., Neely, L. C., & Burger, A. J. (2007). The assessment of alexithymia in medical settings. *Journal of Personality Assessment, 89*(3), 230–246. https://doi.org/10.1080/00223890701629698
-10. Mayer, J. D., Salovey, P., & Caruso, D. R. (2004). Emotional intelligence: Theory, findings, and implications. *Psychological Inquiry, 15*(3), 197–215. https://doi.org/10.1207/S15327965PLI1503_01
-11. Ochsner, K. N., Silvers, J. A., & Buhle, J. T. (2012). Functional imaging studies of emotion regulation. *Annals of the New York Academy of Sciences, 1251*(1), E1–E24. https://doi.org/10.1111/j.1749-6632.2012.06751.x
-12. Salovey, P., & Mayer, J. D. (1990). Emotional intelligence. *Imagination, Cognition and Personality, 9*(3), 185–211. https://doi.org/10.2190/DUGG-P24E-52WK-6CDG
+9. Lumley, M. A., Neely, L. C., & Burger, A. J. (2007). The assessment of alexithymia in medical settings. *Journal of Personality Assessment, 89*(3), 230–246. [https://doi.org/10.1080/00223890701629698](https://doi.org/10.1080/00223890701629698)
+10. Mayer, J. D., Salovey, P., & Caruso, D. R. (2004). Emotional intelligence: Theory, findings, and implications. *Psychological Inquiry, 15*(3), 197–215. [https://doi.org/10.1207/S15327965PLI1503_01](https://doi.org/10.1207/S15327965PLI1503_01)
+11. Ochsner, K. N., Silvers, J. A., & Buhle, J. T. (2012). Functional imaging studies of emotion regulation. *Annals of the New York Academy of Sciences, 1251*(1), E1–E24. [https://doi.org/10.1111/j.1749-6632.2012.06751.x](https://doi.org/10.1111/j.1749-6632.2012.06751.x)
+12. Salovey, P., & Mayer, J. D. (1990). Emotional intelligence. *Imagination, Cognition and Personality, 9*(3), 185–211. [https://doi.org/10.2190/DUGG-P24E-52WK-6CDG](https://doi.org/10.2190/DUGG-P24E-52WK-6CDG)

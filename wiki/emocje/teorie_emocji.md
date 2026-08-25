@@ -75,14 +75,14 @@ Emocje są ucieleśnionymi, kontekstowymi procesami organizującymi uwagę, ucze
 
 ## Bibliografia
 
-1. Barrett, L. F. (2017). *The theory of constructed emotion: An active inference account of interoception and categorization*. *Social Cognitive and Affective Neuroscience, 12*(1), 1–23. https://doi.org/10.1093/scan/nsw154
-2. Cannon, W. B. (1927). The James-Lange theory of emotions: A critical examination and an alternative theory. *The American Journal of Psychology, 39*(1/4), 106–124. https://doi.org/10.2307/1415404
-3. Ekman, P. (1992). An argument for basic emotions. *Cognition and Emotion, 6*(3–4), 169–200. https://doi.org/10.1080/02699939208411068
-4. James, W. (1884). What is an emotion? *Mind, 9*(34), 188–205. https://doi.org/10.1093/mind/os-IX.34.188
-5. Kober, H., Barrett, L. F., Joseph, J., Bliss-Moreau, E., Lindquist, K., & Wager, T. D. (2008). Functional grouping and cortical-subcortical interactions in emotion: A meta-analysis of neuroimaging studies. *NeuroImage, 42*(2), 998–1031. https://doi.org/10.1016/j.neuroimage.2008.03.059
-6. Lindquist, K. A., Wager, T. D., Kober, H., Bliss-Moreau, E., & Barrett, L. F. (2012). The brain basis of emotion: A meta-analytic review. *Behavioral and Brain Sciences, 35*(3), 121–143. https://doi.org/10.1017/S0140525X11000446
-7. Pessoa, L. (2008). On the relationship between emotion and cognition. *Nature Reviews Neuroscience, 9*(2), 148–158. https://doi.org/10.1038/nrn2317
-8. Pessoa, L., & Adolphs, R. (2010). Emotion processing and the amygdala: From a “low road” to “many roads” of evaluating biological significance. *Nature Reviews Neuroscience, 11*(11), 773–783. https://doi.org/10.1038/nrn2920
-9. Russell, J. A. (1994). Is there universal recognition of emotion from facial expression? *Psychological Bulletin, 115*(1), 102–141. https://doi.org/10.1037/0033-2909.115.1.102
-10. Schachter, S., & Singer, J. E. (1962). Cognitive, social, and physiological determinants of emotional state. *Psychological Review, 69*(5), 379–399. https://doi.org/10.1037/h0046234
+1. Barrett, L. F. (2017). *The theory of constructed emotion: An active inference account of interoception and categorization*. *Social Cognitive and Affective Neuroscience, 12*(1), 1–23. [https://doi.org/10.1093/scan/nsw154](https://doi.org/10.1093/scan/nsw154)
+2. Cannon, W. B. (1927). The James-Lange theory of emotions: A critical examination and an alternative theory. *The American Journal of Psychology, 39*(1/4), 106–124. [https://doi.org/10.2307/1415404](https://doi.org/10.2307/1415404)
+3. Ekman, P. (1992). An argument for basic emotions. *Cognition and Emotion, 6*(3–4), 169–200. [https://doi.org/10.1080/02699939208411068](https://doi.org/10.1080/02699939208411068)
+4. James, W. (1884). What is an emotion? *Mind, 9*(34), 188–205. [https://doi.org/10.1093/mind/os-IX.34.188](https://doi.org/10.1093/mind/os-IX.34.188)
+5. Kober, H., Barrett, L. F., Joseph, J., Bliss-Moreau, E., Lindquist, K., & Wager, T. D. (2008). Functional grouping and cortical-subcortical interactions in emotion: A meta-analysis of neuroimaging studies. *NeuroImage, 42*(2), 998–1031. [https://doi.org/10.1016/j.neuroimage.2008.03.059](https://doi.org/10.1016/j.neuroimage.2008.03.059)
+6. Lindquist, K. A., Wager, T. D., Kober, H., Bliss-Moreau, E., & Barrett, L. F. (2012). The brain basis of emotion: A meta-analytic review. *Behavioral and Brain Sciences, 35*(3), 121–143. [https://doi.org/10.1017/S0140525X11000446](https://doi.org/10.1017/S0140525X11000446)
+7. Pessoa, L. (2008). On the relationship between emotion and cognition. *Nature Reviews Neuroscience, 9*(2), 148–158. [https://doi.org/10.1038/nrn2317](https://doi.org/10.1038/nrn2317)
+8. Pessoa, L., & Adolphs, R. (2010). Emotion processing and the amygdala: From a “low road” to “many roads” of evaluating biological significance. *Nature Reviews Neuroscience, 11*(11), 773–783. [https://doi.org/10.1038/nrn2920](https://doi.org/10.1038/nrn2920)
+9. Russell, J. A. (1994). Is there universal recognition of emotion from facial expression? *Psychological Bulletin, 115*(1), 102–141. [https://doi.org/10.1037/0033-2909.115.1.102](https://doi.org/10.1037/0033-2909.115.1.102)
+10. Schachter, S., & Singer, J. E. (1962). Cognitive, social, and physiological determinants of emotional state. *Psychological Review, 69*(5), 379–399. [https://doi.org/10.1037/h0046234](https://doi.org/10.1037/h0046234)
 11. Scherer, K. R. (2001). Appraisal considered as a process of multilevel sequential checking. W K. R. Scherer, A. Schorr i T. Johnstone (red.), *Appraisal Processes in Emotion* (s. 92–120). Oxford University Press.

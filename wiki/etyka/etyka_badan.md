@@ -124,9 +124,9 @@ Etyka badań polega na projektowaniu procedury, w której wartość naukowa jest
 ## Bibliografia
 
 - American Psychological Association. (2017). *Ethical principles of psychologists and code of conduct*. https://www.apa.org/ethics/code
-- Le Texier, T. (2019). Debunking the Stanford Prison Experiment. *American Psychologist, 74*(7), 823–839. https://doi.org/10.1037/amp0000401
-- Milgram, S. (1963). Behavioral study of obedience. *Journal of Abnormal and Social Psychology, 67*(4), 371–378. https://doi.org/10.1037/h0040525
+- Le Texier, T. (2019). Debunking the Stanford Prison Experiment. *American Psychologist, 74*(7), 823–839. [https://doi.org/10.1037/amp0000401](https://doi.org/10.1037/amp0000401)
+- Milgram, S. (1963). Behavioral study of obedience. *Journal of Abnormal and Social Psychology, 67*(4), 371–378. [https://doi.org/10.1037/h0040525](https://doi.org/10.1037/h0040525)
 - National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research. (1979). *The Belmont report*. U.S. Department of Health and Human Services. https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/
-- Nosek, B. A., Ebersole, C. R., DeHaven, A. C., & Mellor, D. T. (2018). The preregistration revolution. *Proceedings of the National Academy of Sciences, 115*(11), 2600–2606. https://doi.org/10.1073/pnas.1708274114
-- Open Science Collaboration. (2015). Estimating the reproducibility of psychological science. *Science, 349*(6251), aac4716. https://doi.org/10.1126/science.aac4716
+- Nosek, B. A., Ebersole, C. R., DeHaven, A. C., & Mellor, D. T. (2018). The preregistration revolution. *Proceedings of the National Academy of Sciences, 115*(11), 2600–2606. [https://doi.org/10.1073/pnas.1708274114](https://doi.org/10.1073/pnas.1708274114)
+- Open Science Collaboration. (2015). Estimating the reproducibility of psychological science. *Science, 349*(6251), aac4716. [https://doi.org/10.1126/science.aac4716](https://doi.org/10.1126/science.aac4716)
 - World Medical Association. (2024). *Declaration of Helsinki: Ethical principles for medical research involving human participants*. https://www.wma.net/what-we-do/medical-ethics/declaration-of-helsinki/

@@ -47,9 +47,9 @@ Zaburzenie odżywiania i uzależnienie mogą współwystępować. Alkohol lub st
 ## Bibliografia
 
 1. American Psychiatric Association. (2022). *Diagnostic and Statistical Manual of Mental Disorders* (5th ed., text rev.).
-2. Hebebrand, J., et al. (2014). “Eating addiction”, rather than “food addiction”, better captures addictive-like eating behavior. *Neuroscience & Biobehavioral Reviews, 47*, 295–306. https://doi.org/10.1016/j.neubiorev.2014.08.016
+2. Hebebrand, J., et al. (2014). “Eating addiction”, rather than “food addiction”, better captures addictive-like eating behavior. *Neuroscience & Biobehavioral Reviews, 47*, 295–306. [https://doi.org/10.1016/j.neubiorev.2014.08.016](https://doi.org/10.1016/j.neubiorev.2014.08.016)
 3. National Institute for Health and Care Excellence. (2017). *Eating disorders: recognition and treatment (NG69)*.
 4. National Institute for Health and Care Excellence. (2011). *Alcohol-use disorders: diagnosis, assessment and management (CG115)*.
-5. Treasure, J., Duarte, T. A., & Schmidt, U. (2020). Eating disorders. *The Lancet, 395*(10227), 899–911. https://doi.org/10.1016/S0140-6736(20)30059-3
+5. Treasure, J., Duarte, T. A., & Schmidt, U. (2020). Eating disorders. *The Lancet, 395*(10227), 899–911. [https://doi.org/10.1016/S0140-6736(20)30059-3](https://doi.org/10.1016/S0140-6736(20)30059-3)
 6. World Health Organization. (2023). *Mental Health Gap Action Programme (mhGAP) guideline* (3rd ed.).
 7. World Health Organization. (2024). *Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders*.

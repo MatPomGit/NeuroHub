@@ -56,9 +56,9 @@ Stygmatyzujące są też określenia sugerujące winę, poszukiwanie korzyści l
 
 ## Bibliografia
 
-1. Cohen, S. P., Vase, L., & Hooten, W. M. (2021). Chronic pain. *The Lancet, 397*, 2082–2097. https://doi.org/10.1016/S0140-6736(21)00393-7
-2. Kosek, E., i in. (2016). Do we need a third mechanistic descriptor for chronic pain states? *Pain, 157*, 1382–1386. https://doi.org/10.1097/j.pain.0000000000000507
-3. Raja, S. N., i in. (2020). The revised IASP definition of pain. *Pain, 161*, 1976–1982. https://doi.org/10.1097/j.pain.0000000000001939
-4. Vlaeyen, J. W. S., & Linton, S. J. (2000). Fear-avoidance and its consequences in chronic musculoskeletal pain. *Pain, 85*, 317–332. https://doi.org/10.1016/S0304-3959(99)00242-0
-5. Williams, A. C. de C., Fisher, E., Hearn, L., & Eccleston, C. (2020). Psychological therapies for chronic pain in adults. *Cochrane Database of Systematic Reviews*, CD007407. https://doi.org/10.1002/14651858.CD007407.pub4
+1. Cohen, S. P., Vase, L., & Hooten, W. M. (2021). Chronic pain. *The Lancet, 397*, 2082–2097. [https://doi.org/10.1016/S0140-6736(21)00393-7](https://doi.org/10.1016/S0140-6736(21)00393-7)
+2. Kosek, E., i in. (2016). Do we need a third mechanistic descriptor for chronic pain states? *Pain, 157*, 1382–1386. [https://doi.org/10.1097/j.pain.0000000000000507](https://doi.org/10.1097/j.pain.0000000000000507)
+3. Raja, S. N., i in. (2020). The revised IASP definition of pain. *Pain, 161*, 1976–1982. [https://doi.org/10.1097/j.pain.0000000000001939](https://doi.org/10.1097/j.pain.0000000000001939)
+4. Vlaeyen, J. W. S., & Linton, S. J. (2000). Fear-avoidance and its consequences in chronic musculoskeletal pain. *Pain, 85*, 317–332. [https://doi.org/10.1016/S0304-3959(99)00242-0](https://doi.org/10.1016/S0304-3959(99)00242-0)
+5. Williams, A. C. de C., Fisher, E., Hearn, L., & Eccleston, C. (2020). Psychological therapies for chronic pain in adults. *Cochrane Database of Systematic Reviews*, CD007407. [https://doi.org/10.1002/14651858.CD007407.pub4](https://doi.org/10.1002/14651858.CD007407.pub4)
 6. World Health Organization. (2023). *WHO guideline for non-surgical management of chronic primary low back pain in adults*.

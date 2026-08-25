@@ -73,6 +73,6 @@ Najbardziej praktyczną funkcją czterech komponentów jest spowolnienie automat
 
 ## Bibliografia
 
-1. Rogers, C. R. (1957). The necessary and sufficient conditions of therapeutic personality change. *Journal of Consulting Psychology, 21*(2), 95–103. https://doi.org/10.1037/h0045357
+1. Rogers, C. R. (1957). The necessary and sufficient conditions of therapeutic personality change. *Journal of Consulting Psychology, 21*(2), 95–103. [https://doi.org/10.1037/h0045357](https://doi.org/10.1037/h0045357)
 2. Rosenberg, M. B. (2015). *Nonviolent Communication: A Language of Life* (3rd ed.). PuddleDancer Press.
 3. Rosenberg, M. B. (2016). *Porozumienie bez przemocy. O języku życia* (wyd. 3 rozszerzone). Czarna Owca.

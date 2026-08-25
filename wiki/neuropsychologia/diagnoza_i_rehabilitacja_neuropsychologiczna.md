@@ -82,10 +82,10 @@ Zasady [plastyczności](./rozwoj_plastycznosc_i_zmiennosc_mozgu.md) uzasadniają
 
 ## Bibliografia
 
-- Cicerone, K. D., Goldin, Y., Ganci, K., et al. (2019). Evidence-based cognitive rehabilitation: Systematic review of the literature from 2009 through 2014. *Archives of Physical Medicine and Rehabilitation, 100*(8), 1515–1533. https://doi.org/10.1016/j.apmr.2019.02.011
-- das Nair, R., Cogger, H., Worthington, E., & Lincoln, N. B. (2016). Cognitive rehabilitation for memory deficits after stroke. *Cochrane Database of Systematic Reviews*, CD002293. https://doi.org/10.1002/14651858.CD002293.pub3
+- Cicerone, K. D., Goldin, Y., Ganci, K., et al. (2019). Evidence-based cognitive rehabilitation: Systematic review of the literature from 2009 through 2014. *Archives of Physical Medicine and Rehabilitation, 100*(8), 1515–1533. [https://doi.org/10.1016/j.apmr.2019.02.011](https://doi.org/10.1016/j.apmr.2019.02.011)
+- das Nair, R., Cogger, H., Worthington, E., & Lincoln, N. B. (2016). Cognitive rehabilitation for memory deficits after stroke. *Cochrane Database of Systematic Reviews*, CD002293. [https://doi.org/10.1002/14651858.CD002293.pub3](https://doi.org/10.1002/14651858.CD002293.pub3)
 - Gorgoraptis, N., Zaw-Linn, J., Feeney, C., et al. (2019). Cognitive impairment and health-related quality of life following traumatic brain injury. *NeuroRehabilitation, 44*(3), 321–331.
 - National Institute for Health and Care Excellence. (2023). *Stroke rehabilitation in adults (NG236)*. NICE.
 - Sohlberg, M. M., & Mateer, C. A. (2001). *Cognitive rehabilitation: An integrative neuropsychological approach*. Guilford Press.
-- Simons, D. J., Boot, W. R., Charness, N., et al. (2016). Do “brain-training” programs work? *Psychological Science in the Public Interest, 17*(3), 103–186. https://doi.org/10.1177/1529100616661983
+- Simons, D. J., Boot, W. R., Charness, N., et al. (2016). Do “brain-training” programs work? *Psychological Science in the Public Interest, 17*(3), 103–186. [https://doi.org/10.1177/1529100616661983](https://doi.org/10.1177/1529100616661983)
 - Wilson, B. A., Winegardner, J., van Heugten, C. M., & Ownsworth, T. (Eds.). (2017). *Neuropsychological rehabilitation: The international handbook*. Routledge.

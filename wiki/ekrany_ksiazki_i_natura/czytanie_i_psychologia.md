@@ -1,5 +1,5 @@
 ---
-lastReviewed: 2026-07-31
+lastReviewed: 2026-08-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 aliases:
@@ -10,6 +10,9 @@ aliases:
 # Czytanie i psychologia
 
 ## Wprowadzenie
+
+**Główne pytanie klastra brzmi: jak praktyka czytania, w tym czytanie głębokie i lektura fikcji, wiąże się z rozumieniem, uwagą oraz poznaniem społecznym?** Pytania o nośnik cyfrowy są rozpatrywane tu tylko wtedy, gdy dotyczą procesu lektury; szerszy wpływ mediów ekranowych omawia artykuł [Ekrany i funkcjonowanie psychiczne](./ekrany_i_funkcjonowanie_psychiczne.md).
+
 
 Czytanie nie jest jedną czynnością. Obejmuje rozpoznawanie słów, budowanie modelu znaczenia, wnioskowanie, monitorowanie rozumienia i odnoszenie tekstu do wiedzy. Tekst literacki, instrukcja, wiadomość i lektura terapeutyczna stawiają odmienne wymagania.
 

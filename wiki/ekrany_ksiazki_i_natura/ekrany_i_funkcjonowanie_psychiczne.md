@@ -1,7 +1,7 @@
 ---
 title: Ekrany i funkcjonowanie psychiczne
 content_type: article
-lastReviewed: 2026-07-31
+lastReviewed: 2026-08-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 aliases:
@@ -12,6 +12,9 @@ aliases:
 # Ekrany i funkcjonowanie psychiczne
 
 ## Wprowadzenie
+
+**Główne pytanie klastra brzmi: jak treść, kontekst i sposób używania ekranów wiążą się ze snem, emocjami oraz funkcjami poznawczymi na różnych etapach rozwoju?** Smartfon, telewizor i tablet nie wyznaczają tu osobnych zjawisk psychologicznych, dlatego dawne ścieżki urządzeń prowadzą do odpowiednich części tego artykułu.
+
 
 „Czas ekranowy” sumuje czynności, które mają odmienne cele i wymagania: rozmowę z bliską osobą, lekcję, grę, pracę oraz automatyczne przewijanie krótkich filmów. Sama liczba godzin jest więc słabym opisem ekspozycji. Trafniejsza ocena uwzględnia **aktywność, treść, kontekst, wiek i sposób używania**, a także to, co korzystanie z ekranu zastępuje.
 

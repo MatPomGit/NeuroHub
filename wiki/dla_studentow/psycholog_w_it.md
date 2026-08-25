@@ -1,7 +1,7 @@
 ---
 title: Psycholog w IT
 content_type: article
-lastReviewed: 2026-05-02
+lastReviewed: 2026-08-25
 reviewCycleMonths: 12
 evidenceCutoffDate: 2026-04-30
 
@@ -10,6 +10,9 @@ evidenceCutoffDate: 2026-04-30
 # Psycholog w IT
 
 ## Wprowadzenie
+
+**Główne pytanie artykułu brzmi: w jakich rolach psycholog może tworzyć wartość w IT, jakich kompetencji potrzebuje i jak może udokumentować je przy wejściu do branży?**
+
 
 Rynek technologiczny od kilku lat wyraźnie przesuwa rolę psychologa z obszaru wyłącznie HR w stronę pracy produktowej, badawczej i systemowej. Psycholog jest dziś potrzebny tam, gdzie zespół musi rozumieć zachowanie użytkownika, ograniczać błędy decyzyjne i projektować rozwiązania bezpieczne poznawczo. W praktyce oznacza to udział w UX Research, service design, people analytics, badaniach nad zaufaniem do AI oraz projektowaniu procesów pracy zespołowej.
 
@@ -44,6 +47,55 @@ W praktyce IT psycholog styka się z projektowaniem mechanizmów retencji, perso
 ### 4) Aktualizacja źródeł w obszarze HCI/UX
 
 Obszar HCI/UX charakteryzuje się wysoką dynamiką metodologiczną, co wymaga corocznej weryfikacji źródeł. Proces ten obejmuje uwzględnianie nowych wytycznych instytucjonalnych, replikacji badań oraz raportów dotyczących ryzyka projektowego i etycznego, co pozwala zachować operacyjną wartość rekomendacji dla zespołów produktowych.
+
+## Jak udokumentować kompetencje i wejść do branży
+
+Nie istnieje jeden zestaw wymagań wspólny dla wszystkich stanowisk. UX research, human factors i people analytics różnią się zadaniami, narzędziami oraz oczekiwanym poziomem analizy danych. Przed przygotowaniem portfolio trzeba więc przeanalizować opisy konkretnych ról.
+
+### Od kompetencji do dowodu
+
+Sama deklaracja „rozumiem ludzi” nie pozwala ocenić warsztatu. Studium przypadku powinno pokazać:
+
+1. **problem i odbiorcę decyzji**, czyli kto i co miał rozstrzygnąć;
+2. **hipotezę oraz operacjonalizację**, czyli jakie obserwacje miałyby ją wesprzeć lub osłabić;
+3. **metodę**, rekrutację uczestników i sposób analizy;
+4. **wynik oddzielony od interpretacji**;
+5. **rekomendację**, jej poziom pewności i możliwy następny test;
+6. **ograniczenia**, kwestie etyczne i sposób ochrony danych.
+
+Taki układ demonstruje trzy przenośne kompetencje: formułowanie pytań, rzetelny pomiar i przekładanie wyników na decyzję. Nie należy przedstawiać ćwiczenia studenckiego jako projektu komercyjnego ani ujawniać poufnych danych uczestników.
+
+### Co mierzyć
+
+Miernik dobiera się do pytania, a nie odwrotnie. W projekcie użyteczności mogą to być czas ukończenia zadania, odsetek ukończeń, błędy krytyczne i jakościowy opis miejsca trudności. W projekcie organizacyjnym miary mogą dotyczyć procesu pracy, lecz nie uprawniają automatycznie do wnioskowania o dobrostanie lub cechach pracowników.
+
+Warto rozróżnić **miernik wiodący**, który wcześnie sygnalizuje zmianę procesu, od **miernika wynikowego**, opisującego późniejszy rezultat. Zbieżność wywiadu, obserwacji i danych behawioralnych może zwiększać wiarygodność wniosku, ale samo użycie wielu metod nie usuwa wspólnych źródeł błędu.
+
+| Pytanie projektowe | Przykładowy miernik | Ważne ograniczenie |
+|---|---|---|
+| Czy użytkownik kończy zadanie? | odsetek ukończeń, błędy krytyczne | wynik zależy od scenariusza i doboru próby |
+| Gdzie pojawia się trudność? | obserwacja, komentarz uczestnika | wypowiedź nie jest bezpośrednim pomiarem procesu poznawczego |
+| Czy zmiana pomaga? | porównanie wersji według wcześniej ustalonego kryterium | bez randomizacji inne różnice mogą wyjaśniać wynik |
+| Czy rekomendację wdrożono? | decyzja zespołu i wynik kolejnej iteracji | wdrożenie nie dowodzi trafności rekomendacji |
+
+### Portfolio bez doświadczenia komercyjnego
+
+Można wykorzystać projekt studencki, ocenę publicznie dostępnego interfejsu albo badanie prototypu przygotowanego specjalnie do portfolio. Najuczciwsza etykieta jasno określa zakres: „ćwiczenie badawcze”, „niezlecony audyt” lub „projekt koncepcyjny”. Audyt heurystyczny jest oceną ekspercką, nie substytutem badania z użytkownikami; prototypowy eksperyment nie jest dowodem wpływu na rzeczywisty produkt.
+
+Dwa lub trzy dopracowane studia przypadku zwykle lepiej pokazują rozumowanie niż długa galeria ekranów. Każde powinno dać się streścić w formule: **problem → metoda → dane → decyzja → ograniczenia**. Materiały należy zanonimizować, a zgodę uczestnika na badanie odróżnić od zgody na publiczne udostępnienie jego wypowiedzi lub wizerunku.
+
+### Jak czytać siłę zaleceń
+
+Zalecenia dotyczące przejrzystego raportowania, testowania użyteczności i ochrony uczestników wynikają z metodologii HCI oraz etyki badań. Natomiast sugestie dotyczące liczby studiów przypadku, ich formy i oczekiwań rekrutera są **praktyczną interpretacją**, zależną od stanowiska i organizacji. Literatura nie daje podstaw do obietnicy, że określony format portfolio zwiększy prawdopodobieństwo zatrudnienia o stałą wartość.
+
+### Lista kontrolna portfolio
+
+- Czy portfolio odpowiada wymaganiom wybranej roli?
+- Czy w każdym projekcie wiadomo, jaka decyzja miała zostać podjęta?
+- Czy dane, interpretacje i rekomendacje są wyraźnie rozdzielone?
+- Czy opisano dobór próby, niepewność i alternatywne wyjaśnienia?
+- Czy usunięto dane poufne i uzyskano potrzebne zgody?
+- Czy kandydat potrafi powiedzieć, czego projekt **nie** wykazał?
 
 ## Statystyki i dane, które warto znać
 
@@ -106,3 +158,4 @@ Dominująca narracja mówi, że psycholog w IT „zmiękcza” komunikację i db
 7. World Health Organization. (2019). *Burn-out an occupational phenomenon: International Classification of Diseases (ICD-11)*.
 8. Forsgren, N., Humble, J., & Kim, G. (2018). *Accelerate: The Science of Lean Software and DevOps*. IT Revolution.
 9. Nielsen, J., & Landauer, T. K. (1993). A mathematical model of the finding of usability problems. *Proceedings of INTERCHI*.
+10. Nielsen, J. (1994). *Usability engineering*. Morgan Kaufmann.

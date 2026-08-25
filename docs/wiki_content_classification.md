@@ -8,9 +8,9 @@ Raport obejmuje wszystkie nieprzekierowujące pliki w `wiki/`, które przed klas
 | `wiki/biologia/mikrobiom.md` | publiczny artykuł merytoryczny |
 | `wiki/diagnoza/etapy_diagnozy.md` | publiczny artykuł merytoryczny |
 | `wiki/dla_studentow/psycholog_w_it.md` | publiczny artykuł merytoryczny |
-| `wiki/dla_studentow/psycholog_w_it_kompetencje_mierniki_i_portfolio.md` | publiczny artykuł merytoryczny |
+| `wiki/dla_studentow/psycholog_w_it_kompetencje_mierniki_i_portfolio.md` | przekierowanie do artykułu kanonicznego |
 | `wiki/dla_studentow/wystapienia_publiczne_autoprezentacja.md` | publiczny artykuł merytoryczny |
-| `wiki/dla_studentow/wystapienia_publiczne_trudne_pytania_i_q_a.md` | publiczny artykuł merytoryczny |
+| `wiki/dla_studentow/wystapienia_publiczne_trudne_pytania_i_q_a.md` | przekierowanie do artykułu kanonicznego |
 | `wiki/ekrany_ksiazki_i_natura/wprowadzenie.md` | publiczny artykuł merytoryczny |
 | `wiki/etyka/dobro_nieszkodzenie.md` | publiczny artykuł merytoryczny |
 | `wiki/etyka/polska_adaptacja_3d_ws.md` | publiczny artykuł merytoryczny |

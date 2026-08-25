@@ -70,6 +70,16 @@ body.psyhub-app::before{display:none}
   background:color-mix(in srgb,var(--bg) 94%,transparent);
   box-shadow:none;
 }
+.psyhub-app .breadcrumb{font-size:.72rem}
+.psyhub-app .next-step-btn{
+  flex-direction:row;
+  align-items:center;
+  gap:.35rem;
+  padding:.28rem .48rem;
+  border-radius:7px;
+}
+.psyhub-app .next-step-label{display:none}
+.psyhub-app .next-step-title{max-width:170px;font-size:.68rem}
 .psyhub-app .content{padding:2rem clamp(1rem,4vw,4rem) 5rem}
 .psyhub-app .rendered{width:min(100%,var(--content-max))}
 
@@ -142,6 +152,35 @@ body.psyhub-app::before{display:none}
   border-radius:0;
   background:none;
 }
+.psyhub-app .chapter-lbl{
+  padding:0;
+  border:0;
+  background:none;
+  color:var(--t3);
+  font-size:.62rem;
+  letter-spacing:.08em;
+}
+.psyhub-app .article-hero-actions{position:absolute;top:.85rem;right:0;margin:0}
+.psyhub-app .btn-copy-link{
+  min-height:30px;
+  padding:.24rem .48rem;
+  border:0;
+  background:transparent;
+  color:var(--t3);
+  font-size:.66rem;
+}
+.psyhub-app .review-meta-badges{margin:.5rem 0 0;gap:.35rem}
+.psyhub-app .review-meta-badge{
+  padding:0;
+  border:0;
+  background:none;
+  color:var(--t3);
+  font-size:.64rem;
+}
+.psyhub-app .review-meta-badge + .review-meta-badge::before{
+  content:'·';
+  margin-right:.35rem;
+}
 .psyhub-app .article-layout{grid-template-columns:220px minmax(0,1fr);gap:1.5rem}
 .psyhub-app .article-toc{
   top:68px;
@@ -186,10 +225,21 @@ body.psyhub-app::before{display:none}
     border-radius:0;
   }
   .psyhub-app .content{padding:1.25rem .9rem 5rem}
+  .psyhub-app .btn-mobile-chapters,
+  .psyhub-app .btn-mobile-extra-pages,
+  .psyhub-app .topbar-next{display:none!important}
+  .psyhub-app .breadcrumb{
+    display:flex;
+    min-width:0;
+    overflow:hidden;
+  }
+  .psyhub-app .breadcrumb a:not(:last-child),
+  .psyhub-app .breadcrumb .bsep{display:none}
   .psyhub-app .home-hero{padding:1.5rem 0 1.75rem}
   .psyhub-app .start-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
   .psyhub-app .rendered:not(.home-view)>.page-hero,
   .psyhub-app .wiki-hdr{padding:.9rem 0}
+  .psyhub-app .article-hero-actions{display:none}
   .psyhub-app .md{padding:0 0 2.5rem}
   .psyhub-app .mobile-chapters-panel,
   .psyhub-app .mobile-wiki-toc-panel{top:48px}

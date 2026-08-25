@@ -1,6 +1,6 @@
 ---
 title: Wystąpienia publiczne i autoprezentacja
-lastReviewed: 2026-04-20
+lastReviewed: 2026-08-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2026-03-31
 content_type: article
@@ -9,6 +9,9 @@ content_type: article
 # Wystąpienia publiczne i autoprezentacja
 
 ## Wprowadzenie
+
+**Główne pytanie tej grupy brzmi: jak przygotować i przeprowadzić zrozumiałe, rzetelne wystąpienie oraz regulować własne pobudzenie?** Postępowanie w konkretnej części pytań opisuje artykuł [Trudne pytania po wystąpieniu: procedura Q&A](./wystapienia_publiczne_trudne_pytania_i_q_a.md).
+
 
 Kompetencje wystąpień publicznych są kluczowe dla psychologów: w psychoedukacji, szkoleniach, obronach prac dyplomowych, komunikacji z zespołem klinicznym i popularyzacji wiedzy. Dobra autoprezentacja nie oznacza „udawania”, lecz świadome zarządzanie uwagą odbiorcy i jasnością przekazu.
 

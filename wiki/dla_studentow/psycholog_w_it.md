@@ -1,7 +1,7 @@
 ---
 title: Psycholog w IT
 content_type: article
-lastReviewed: 2026-05-02
+lastReviewed: 2026-08-25
 reviewCycleMonths: 12
 evidenceCutoffDate: 2026-04-30
 
@@ -10,6 +10,9 @@ evidenceCutoffDate: 2026-04-30
 # Psycholog w IT
 
 ## Wprowadzenie
+
+**Główne pytanie tej grupy brzmi: w jakich rolach psycholog może tworzyć wartość w IT i jakich kompetencji potrzebuje?** Praktyczną ścieżkę dokumentowania tych kompetencji opisuje osobny poradnik [Psycholog w IT: kompetencje, mierniki i portfolio wejścia do branży](./psycholog_w_it_kompetencje_mierniki_i_portfolio.md).
+
 
 Rynek technologiczny od kilku lat wyraźnie przesuwa rolę psychologa z obszaru wyłącznie HR w stronę pracy produktowej, badawczej i systemowej. Psycholog jest dziś potrzebny tam, gdzie zespół musi rozumieć zachowanie użytkownika, ograniczać błędy decyzyjne i projektować rozwiązania bezpieczne poznawczo. W praktyce oznacza to udział w UX Research, service design, people analytics, badaniach nad zaufaniem do AI oraz projektowaniu procesów pracy zespołowej.
 

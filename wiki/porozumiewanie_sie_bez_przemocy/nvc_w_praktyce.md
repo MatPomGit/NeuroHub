@@ -1,5 +1,5 @@
 ---
-lastReviewed: 2026-07-31
+lastReviewed: 2026-08-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2026-07-31
 ---
@@ -7,6 +7,9 @@ evidenceCutoffDate: 2026-07-31
 # NVC w praktyce
 
 ## Od modelu do rozmowy
+
+**Główne pytanie praktycznego klastra brzmi: jak zastosować NVC w rozmowie, nie traktując empatii, autoempatii i czterech komponentów jako odrębnych metod?** Dawne ścieżki artykułów o empatii i autoempatii prowadzą do odpowiednich części tego opracowania, natomiast artykuł nadrzędny wyjaśnia [założenia i strukturę modelu](./wprowadzenie.md).
+
 
 Praktyka Porozumienia bez Przemocy (NVC) polega na rozpoznaniu tego, co się wydarzyło, własnej reakcji i możliwego następnego działania, a następnie na słuchaniu odpowiedzi drugiej osoby. Założenia oraz strukturę modelu przedstawia artykuł [Porozumienie bez Przemocy: założenia i cztery komponenty](./wprowadzenie.md). Wypowiedź nie musi brzmieć jak formularz. Zdanie „Martwię się o termin. Czy powiesz mi dziś, czy zdążysz?” może pełnić tę samą funkcję co rozbudowany komunikat.
 

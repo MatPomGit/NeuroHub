@@ -1,15 +1,19 @@
-﻿---
+---
 content_type: article
-lastReviewed: 2026-05-25
+lastReviewed: 2026-08-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
 ---
 
 # Komunikacja wspierająca
 
+## Zakres artykułu
+
+**Główne pytanie użytkownika brzmi: jak odpowiadać, aby rozmowa wspierała rozumienie, bezpieczeństwo i sprawczość osoby szukającej pomocy?** Artykuł [Aktywne słuchanie](./aktywne_sluchanie.md) uczy węższej procedury sprawdzania rozumienia, a [relacja pomocowa](./relacja_pomocowa.md) opisuje ramy dłuższej współpracy.
+
 ## Czym jest komunikacja wspierająca?
 
-**Komunikacja wspierająca** to styl porozumiewania się, który służy budowaniu relacji, redukowaniu napięcia i wzmacnianiu poczucia wartości rozmówcy. W kontekście pomocy psychologicznej jest to podstawowe narzędzie pracy - zarówno w procesie diagnozy, jak i interwencji.
+**Komunikacja wspierająca** to styl porozumiewania się, który służy budowaniu relacji, redukowaniu napięcia i wzmacnianiu poczucia wartości rozmówcy. W kontekście pomocy psychologicznej jest to sposób prowadzenia rozmowy stosowany podczas rozpoznawania sytuacji i uzgodnionych działań.
 
 Komunikacja wspierająca nie jest zestawem technik do mechanicznego stosowania - to wyraz **autentycznej troski** i **nastawienia na rozumienie**, a nie na ocenianie.
 
@@ -84,11 +88,11 @@ Przy trudnych tematach (samookaleczenie, myśli samobójcze, trauma, uzależnien
 
 ---
 
-## Zobacz też
+## Granice zaleceń i dowodów
 
-- Aktywne słuchanie
-- Empatia w pomocy psychologicznej
-- Pierwsza pomoc psychologiczna
+Zalecenia o parafrazie, pytaniach i udzielaniu informacji są elementami szerszego warsztatu pomagania, nie algorytmem gwarantującym ulgę. Metaanaliza wiąże empatię terapeuty z wynikami psychoterapii (Elliott i in., 2018), ale badania te nie izolują skutku każdej frazy i nie uzasadniają przenoszenia wyniku na wszystkie rozmowy. Przykładowe sformułowania poniżej i wyżej są **interpretacją praktyczną**: trzeba je dostosować do celu, kultury, wieku i sposobu komunikacji rozmówcy.
+
+Walidacja przeżycia nie oznacza potwierdzenia faktów, aprobaty zachowania ani rezygnacji z granic. Normalizacja powinna opisywać możliwą reakcję bez bagatelizowania i bez diagnozowania. W sytuacji zagrożenia komunikacja wspierająca uzupełnia, lecz nie zastępuje [pierwszej pomocy psychologicznej](./pierwsza_pomoc_psychologiczna.md), oceny ryzyka i odpowiedniej pomocy specjalistycznej.
 
 ## Bibliografia
 

@@ -4,9 +4,6 @@ content_type: article
 lastReviewed: 2026-08-25
 reviewCycleMonths: 12
 evidenceCutoffDate: 2026-07-31
-aliases:
-  - AI w psychoterapii
-  - AI w opiece psychologicznej
 ---
 
 # AI w zdrowiu psychicznym

@@ -5,8 +5,7 @@ lastReviewed: 2026-08-08
 reviewCycleMonths: 24
 evidenceCutoffDate: 2026-08-08
 aliases:
-  - Teorie emocji
-  - Neurobiologia emocji
+  - teorie emocji
 ---
 
 # Teorie i neurobiologia emocji
@@ -57,7 +56,7 @@ Szczegółową anatomię, zasady interpretacji badań obrazowych oraz konsekwenc
 
 ## „Układ limbiczny”: użyteczna historia, słaba granica
 
-Pojęcie układu limbicznego rozwijane przez Papeza i MacLeana miało wielkie znaczenie historyczne, ponieważ połączyło emocje z obwodami mózgu zamiast z pojedynczym punktem. Współcześnie lista zaliczanych do niego struktur jest niespójna, struktury te realizują także pamięć, orientację i funkcje autonomiczne, a emocje angażują obszary poza „limbicznymi”. Dlatego przeciwstawienie emocjonalnego układu limbicznego racjonalnej korze jest historycznym uproszczeniem. Szerszy kontekst zawiera artykuł [Układ limbiczny](../neuropsychologia/uklad_limbiczny.md).
+Pojęcie układu limbicznego rozwijane przez Papeza i MacLeana miało wielkie znaczenie historyczne, ponieważ połączyło emocje z obwodami mózgu zamiast z pojedynczym punktem. Współcześnie lista zaliczanych do niego struktur jest niespójna, struktury te realizują także pamięć, orientację i funkcje autonomiczne, a emocje angażują obszary poza „limbicznymi”. Dlatego przeciwstawienie emocjonalnego układu limbicznego racjonalnej korze jest historycznym uproszczeniem. Szerszy kontekst zawiera artykuł [Układ limbiczny](../neuropsychologia/funkcjonalna_anatomia_mozgu.md#sieci-pamieci-emocji-i-regulacji).
 
 ## Ciało, poznanie i kultura
 

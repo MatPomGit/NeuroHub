@@ -63,7 +63,7 @@ for (const file of selected) {
   if (meta.redirect || meta.layout === 'redirect') redirects.set(idFor(file), { file, meta });
 }
 const spa = loadRedirectMap();
-let missingTargets = 0; let orphaned = 0; let longChains = 0;
+let missingTargets = 0; let orphaned = 0; let longChains = 0; let indirectLinks = 0;
 for (const [id, redirect] of redirects) {
   const { meta, file } = redirect;
   if (meta.redirect || meta.layout !== 'redirect' || !meta.title || !meta.redirect_to || meta.sitemap !== 'false') {
@@ -81,6 +81,21 @@ for (const [id, redirect] of redirects) {
 for (const [source, target] of Object.entries(spa)) {
   if (selected.some(file => idFor(file) === source) && !redirects.has(source)) errors.push(`${source}: mapa SPA wskazuje ${target}, ale plik nie jest przekierowaniem.`);
 }
+for (const file of selected) {
+  const text = fs.readFileSync(file, 'utf8');
+  for (const match of text.matchAll(/(?<!!)\[[^\]]*\]\(([^\s)]+)(?:\s+['"][^'"]*['"])?\)/g)) {
+    const href = decodeURIComponent(match[1]).split(/[?#]/, 1)[0];
+    let linkedFile = null;
+    if (href.startsWith('/wiki/') && href.endsWith('.html')) linkedFile = path.join(root, href.slice(1).replace(/\.html$/, '.md'));
+    else if (href.endsWith('.md')) linkedFile = path.resolve(path.dirname(file), href);
+    if (!linkedFile || !linkedFile.startsWith(`${wikiRoot}${path.sep}`)) continue;
+    const linkedId = idFor(linkedFile);
+    if (redirects.has(linkedId)) {
+      indirectLinks += 1;
+      errors.push(`${idFor(file)}: link ${match[1]} prowadzi przez przekierowanie ${linkedId}.`);
+    }
+  }
+}
 const canonical = selected.length - redirects.size;
 console.log('=== RAPORT PRZEKIEROWAŃ WIKI ===');
 console.log(`dziedziny: ${requested.length ? requested.join(', ') : 'wszystkie'}`);
@@ -89,5 +104,6 @@ console.log(`przekierowania: ${redirects.size}`);
 console.log(`osierocone przekierowania: ${orphaned}`);
 console.log(`cele nieistniejące: ${missingTargets}`);
 console.log(`łańcuchy dłuższe niż jeden krok: ${longChains}`);
+console.log(`linki wewnętrzne przez przekierowanie: ${indirectLinks}`);
 errors.forEach(error => console.error(`[ERROR] ${error}`));
 process.exitCode = errors.length ? 1 : 0;

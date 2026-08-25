@@ -4,9 +4,7 @@ reviewCycleMonths: 18
 evidenceCutoffDate: 2026-08-01
 aliases:
   - CBT
-  - aktywacja behawioralna
-  - REBT
-  - trening umiejętności społecznych
+  - terapia poznawczo-behawioralna
 ---
 
 # Terapie poznawcze i behawioralne

@@ -2,10 +2,6 @@
 lastReviewed: 2026-08-01
 reviewCycleMonths: 12
 evidenceCutoffDate: 2026-08-01
-aliases:
-  - skuteczność psychoterapii
-  - sojusz terapeutyczny
-  - superwizja psychoterapii
 ---
 
 # Psychoterapia: podstawy, skuteczność i czynniki wspólne

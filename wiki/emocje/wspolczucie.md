@@ -4,11 +4,6 @@ description: Empatia, współczucie oraz samoświadome emocje społeczne w funkc
 lastReviewed: 2026-08-08
 reviewCycleMonths: 24
 evidenceCutoffDate: 2026-08-08
-aliases:
-  - Empatia
-  - Współczucie
-  - Emocje społeczne
-  - Wstyd i wina
 ---
 
 # Emocje społeczne, empatia i współczucie

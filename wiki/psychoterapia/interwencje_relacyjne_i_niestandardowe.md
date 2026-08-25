@@ -2,9 +2,6 @@
 lastReviewed: 2026-08-01
 reviewCycleMonths: 18
 evidenceCutoffDate: 2026-08-01
-aliases:
-  - terapia prowokatywna
-  - interwencje przebaczenia
 ---
 
 # Interwencje relacyjne i niestandardowe

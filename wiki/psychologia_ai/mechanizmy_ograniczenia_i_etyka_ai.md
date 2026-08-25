@@ -2,9 +2,6 @@
 lastReviewed: 2026-07-31
 reviewCycleMonths: 12
 evidenceCutoffDate: 2026-07-31
-aliases:
-  - Mechanizmy AI
-  - Ograniczenia i etyka AI
 ---
 
 # Mechanizmy, ograniczenia i etyka AI

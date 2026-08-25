@@ -4,10 +4,6 @@ content_type: article
 lastReviewed: 2026-08-25
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
-aliases:
-  - agresja społeczna
-  - uprzedzenia i dyskryminacja
-  - przemoc internetowa
 ---
 
 # Agresja, uprzedzenia i przemoc społeczna

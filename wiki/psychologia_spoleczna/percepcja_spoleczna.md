@@ -4,9 +4,6 @@ content_type: article
 lastReviewed: 2026-08-02
 reviewCycleMonths: 24
 evidenceCutoffDate: 2025-12-31
-aliases:
-  - percepcja społeczna i atrybucje
-  - postawy społeczne
 ---
 
 # Percepcja społeczna

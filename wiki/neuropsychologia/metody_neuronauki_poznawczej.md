@@ -1,12 +1,10 @@
 ---
 title: Metody neuronauki poznawczej
-aliases:
-  - neuronauka poznawcza
-  - neuroobrazowanie
-  - eye tracking
 lastReviewed: 2026-08-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2026-07-31
+aliases:
+  - neuronauka poznawcza
 ---
 
 # Metody neuronauki poznawczej

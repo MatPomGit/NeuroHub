@@ -3,9 +3,7 @@ lastReviewed: 2026-08-01
 reviewCycleMonths: 12
 evidenceCutoffDate: 2025-12-31
 aliases:
-  - Skutki grania
-  - Używanie problemowe gier
-  - Gaming disorder
+  - gaming disorder
 ---
 
 # Gry, rozwój, funkcje poznawcze i używanie problemowe

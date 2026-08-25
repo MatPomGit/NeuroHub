@@ -2,9 +2,6 @@
 lastReviewed: 2026-08-01
 reviewCycleMonths: 12
 evidenceCutoffDate: 2025-12-31
-aliases:
-  - Gry terapeutyczne
-  - Esport
 ---
 
 # Gry w terapii, rehabilitacji i esporcie

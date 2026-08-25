@@ -1,9 +1,10 @@
 ---
 title: Choroba przewlekła, rehabilitacja i jakość życia
-aliases: [rehabilitacja psychologiczna, jakość życia związana ze zdrowiem, adherencja]
 lastReviewed: 2026-08-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2026-07-31
+aliases:
+  - jakość życia związana ze zdrowiem
 ---
 
 # Choroba przewlekła, rehabilitacja i jakość życia

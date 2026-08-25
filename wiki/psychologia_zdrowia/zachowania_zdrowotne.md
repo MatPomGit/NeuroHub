@@ -1,6 +1,5 @@
 ---
 title: Zachowania zdrowotne i styl życia
-aliases: [styl życia, promocja zdrowia]
 lastReviewed: 2026-08-01
 reviewCycleMonths: 24
 evidenceCutoffDate: 2026-07-31

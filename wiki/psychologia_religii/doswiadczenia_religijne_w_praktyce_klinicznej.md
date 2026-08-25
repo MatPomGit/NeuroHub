@@ -4,9 +4,6 @@ content_type: article
 lastReviewed: 2026-08-01
 reviewCycleMonths: 18
 evidenceCutoffDate: 2026-08-01
-aliases:
-  - religia w psychoterapii
-  - skrupulatyzm
 ---
 
 # Doświadczenia religijne

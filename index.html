@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="pl">
+<html lang="pl" data-theme="light">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="theme-color" content="#070a12">
+  <meta name="theme-color" content="#f5f7fb">
   <meta name="color-scheme" content="dark light">
   <meta name="google-site-verification" content="6rxzGHXJtmpyj20hBi0v7yX1h8KpN2fEgueFU1M8Flc" />
   <meta name="description" content="PsyHub - portal wiedzy psychologicznej z artykułami, testami i materiałami edukacyjnymi.">
@@ -18,6 +18,7 @@
   <link rel="stylesheet" href="design-tokens.css">
   <link rel="stylesheet" href="style.css">
   <link rel="stylesheet" href="clarity-ui.css">
+  <link rel="stylesheet" href="typography.css">
   <script src="anime.min.js" defer></script>
   <script src="site-config.js" defer></script>
   <script src="specialization-test.js" defer></script>
@@ -61,22 +62,27 @@
   <nav class="s-nav" id="sidebarNav" aria-label="Nawigacja boczna"></nav>
 
   <div class="s-footer">
-    <span>PsyHub v3.2</span>
-    <div class="theme-btns">
-      <button class="theme-btn is-active" data-theme="dark" title="Motyw ciemny" aria-label="Włącz motyw ciemny" aria-pressed="true"></button>
-      <button class="theme-btn" data-theme="light" title="Motyw jasny" aria-label="Włącz motyw jasny" aria-pressed="false"></button>
-      <button class="theme-btn" data-theme="sepia" title="Motyw sepia" aria-label="Włącz motyw sepia" aria-pressed="false"></button>
-      <button class="theme-btn" data-theme="ocean" title="Motyw ocean" aria-label="Włącz motyw ocean" aria-pressed="false"></button>
-      <button class="theme-btn" data-theme="forest" title="Motyw forest" aria-label="Włącz motyw forest" aria-pressed="false"></button>
-      <button class="theme-btn" data-theme="sunset" title="Motyw sunset" aria-label="Włącz motyw sunset" aria-pressed="false"></button>
-    </div>
-    <div class="font-size-controls" aria-label="Ustawienia wielkości czcionki">
-      <button type="button" class="font-btn" data-font-scale="normal" title="Standardowa wielkość" aria-label="Standardowa wielkość">A</button>
-      <button type="button" class="font-btn" data-font-scale="large" title="Powiększona czcionka" aria-label="Powiększona czcionka">A+</button>
-      <button type="button" class="font-btn" data-font-scale="xlarge" title="Bardzo duża czcionka" aria-label="Bardzo duża czcionka">A++</button>
-    </div>
     <details class="interface-settings">
       <summary>Ustawienia interfejsu</summary>
+      <div class="interface-setting-group">
+        <span class="interface-setting-title">Motyw</span>
+        <div class="theme-btns" aria-label="Wybór motywu">
+          <button class="theme-btn" data-theme="dark" title="Motyw ciemny" aria-label="Włącz motyw ciemny" aria-pressed="false"></button>
+          <button class="theme-btn is-active" data-theme="light" title="Motyw jasny" aria-label="Włącz motyw jasny" aria-pressed="true"></button>
+          <button class="theme-btn" data-theme="sepia" title="Motyw sepia" aria-label="Włącz motyw sepia" aria-pressed="false"></button>
+          <button class="theme-btn" data-theme="ocean" title="Motyw ocean" aria-label="Włącz motyw ocean" aria-pressed="false"></button>
+          <button class="theme-btn" data-theme="forest" title="Motyw leśny" aria-label="Włącz motyw leśny" aria-pressed="false"></button>
+          <button class="theme-btn" data-theme="sunset" title="Motyw zachodu słońca" aria-label="Włącz motyw zachodu słońca" aria-pressed="false"></button>
+        </div>
+      </div>
+      <div class="interface-setting-group">
+        <span class="interface-setting-title">Wielkość tekstu</span>
+        <div class="font-size-controls" aria-label="Ustawienia wielkości czcionki">
+          <button type="button" class="font-btn" data-font-scale="normal" title="Standardowa wielkość" aria-label="Standardowa wielkość">A</button>
+          <button type="button" class="font-btn" data-font-scale="large" title="Powiększona czcionka" aria-label="Powiększona czcionka">A+</button>
+          <button type="button" class="font-btn" data-font-scale="xlarge" title="Bardzo duża czcionka" aria-label="Bardzo duża czcionka">A++</button>
+        </div>
+      </div>
       <label class="interface-setting" for="showSpeechControls">
         <span>Czytanie artykułu</span>
         <input type="checkbox" id="showSpeechControls">
@@ -86,7 +92,6 @@
         <input type="checkbox" id="showSearchFilters">
       </label>
     </details>
-    <span class="ver">bulbulgator</span>
   </div>
 </aside>
 

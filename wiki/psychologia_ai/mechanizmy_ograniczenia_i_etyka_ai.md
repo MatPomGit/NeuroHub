@@ -15,7 +15,7 @@ Sztuczna inteligencja jest zbiorem metod tworzących wyniki na podstawie reguł,
 
 Nie należy utożsamiać zachowania z wnętrzem systemu. Rozpoznawanie afektu jest estymacją sygnału, symulowanie ekspresji jest funkcją interfejsu, a przypisanie intencji procesem po stronie obserwatora. Filozoficzna teza o świadomości wymaga osobnej argumentacji. Płynność dialogu, użycie pierwszej osoby i deklaracja modelu nie dowodzą emocji, intencji ani doświadczenia.
 
-## Jedna historia rozwoju: od modeli umysłu do systemów uczących się
+## Od modelu umysłu do uczących się systemów
 
 Współczesna AI powstała na styku logiki, statystyki, cybernetyki, neuronauki i psychologii poznawczej. Turing opisał operacyjne pytanie o inteligentne zachowanie, a konferencja w Dartmouth w 1956 roku utrwaliła nazwę dziedziny. Wczesna AI symboliczna reprezentowała wiedzę za pomocą reguł. Cybernetyka i koneksjonizm rozwijały uczenie oraz sprzężenie zwrotne; perceptron Rosenblatta był wczesnym modelem sieciowym.
 
@@ -87,7 +87,7 @@ Podstawowe wartości obejmują autonomię, nieszkodzenie, sprawiedliwość, pryw
 
 Ramy NIST AI RMF porządkują działania jako zarządzanie, mapowanie, pomiar i kontrolę ryzyka. Rekomendacja UNESCO ujmuje je w perspektywie praw człowieka, środowiska i różnorodności. Unijny akt w sprawie AI stosuje podejście zależne od ryzyka, w tym szczególne obowiązki dla systemów wysokiego ryzyka i ograniczenia niektórych zastosowań rozpoznawania emocji. Standard lub zgodność formalna są punktem wyjścia, nie dowodem społecznej zasadności wdrożenia.
 
-## Przyszłość: scenariusze zamiast przepowiedni
+## Scenariusze przyszłości zamiast przepowiedni
 
 Rozwój może przynieść bardziej multimodalne systemy, roboty uczące się w świecie fizycznym, narzędzia osobiste i automatyzację badań. Prognozy są obarczone dużą niepewnością. Warto oddzielić zdolność zademonstrowaną w kontrolowanym teście od niezawodnej usługi, ekonomicznej opłacalności i społecznej akceptacji.
 

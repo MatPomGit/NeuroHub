@@ -15,6 +15,7 @@ window.SITE_CONFIG = {
 
   // Zachowuje dawne adresy SPA po scaleniu lub przeniesieniu artykułów.
   articleRedirects: {
+    'dla_studentow/wystapienia_publiczne_trudne_pytania_i_q_a': 'dla_studentow/wystapienia_publiczne_autoprezentacja',
     'dla_studentow/psycholog_w_it_kompetencje_mierniki_i_portfolio': 'dla_studentow/psycholog_w_it',
     'neuroroznorodnosc/identyfikacja_i_diagnoza': 'neuroroznorodnosc/wprowadzenie',
     'neuroroznorodnosc/model_mocnych_stron': 'neuroroznorodnosc/wprowadzenie',
@@ -1258,7 +1259,6 @@ window.SITE_CONFIG = {
         { id: 'seminarium_dyplomowe/obrona_pracy',             label: 'Obrona pracy magisterskiej',            file: 'wiki/seminarium_dyplomowe/obrona_pracy.md'             },
         { id: 'seminarium_dyplomowe/dobre_praktyki',           label: 'Dobre praktyki w pisaniu pracy',        file: 'wiki/seminarium_dyplomowe/dobre_praktyki.md'           },
         { id: 'dla_studentow/wystapienia_publiczne_autoprezentacja', label: 'Wystapienia publiczne i autoprezentacja', file: 'wiki/dla_studentow/wystapienia_publiczne_autoprezentacja.md' },
-        { id: 'dla_studentow/wystapienia_publiczne_trudne_pytania_i_q_a', label: 'Wystapienia publiczne - trudne pytania i Q&A', file: 'wiki/dla_studentow/wystapienia_publiczne_trudne_pytania_i_q_a.md' },
       ]
     },
     { /* Eksperyment psychologiczny */

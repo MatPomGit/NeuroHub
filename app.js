@@ -399,20 +399,6 @@ function buildPageMap() {
         domainKey: item.domainKey || sec.domainKey || inferDomainKeyFromId(item.id),
       });
 
-  /* Tworzy syntetyczne strony przeglądowe dla indeksów WIKI istniejących poza jawna sekcja wiki-index. */
-  Object.entries(SITE_CONFIG.wikis || {}).forEach(([wikiKey, cfg]) => {
-    const alreadyRegistered = Array.from(pageMap.values()).some(item => item.wiki === wikiKey);
-    const syntheticId = `wiki-index/${wikiKey}`;
-    if (!alreadyRegistered && !pageMap.has(syntheticId)) {
-      pageMap.set(syntheticId, {
-        id: syntheticId,
-        label: cfg?.title || `WIKI - ${wikiKey}`,
-        wiki: wikiKey,
-        section: 'Encyklopedie',
-        domainKey: 'wiki-index',
-      });
-    }
-  });
 }
 
 /* Wyznacza klucz dziedziny z identyfikatora strony jako mechanizm zgodności wstecznej. */
@@ -1837,8 +1823,8 @@ function renderHome() {
     },
     {
       title: 'Przejrzyj Wiki',
-      id: 'wiki-index/slownik',
-      goal: 'Znajdź temat lub termin w kilka sekund.',
+      id: 'wstep_do_psychologii/definicja',
+      goal: 'Poznaj zakres psychologii i jej podstawowe pojęcia.',
       benefit: 'Skrócisz czas szukania potrzebnej informacji.'
     }
   ];

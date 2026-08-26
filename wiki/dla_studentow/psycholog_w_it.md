@@ -103,6 +103,18 @@ Zalecenia dotyczące przejrzystego raportowania, testowania użyteczności i och
 2. **Wypalenie zawodowe ma w ICD-11 status zjawiska zawodowego, a nie choroby.** Światowa Organizacja Zdrowia wiąże je z przewlekłym stresem w miejscu pracy, z którym nie poradzono sobie skutecznie (World Health Organization, 2019). Nie należy więc traktować pojedynczego wyniku ankiety jako diagnozy klinicznej.
 3. **Praktyki dostarczania oprogramowania trzeba oceniać łącznie.** Badania opisane przez Forsgren et al. (2018) łączą wydajność dostarczania z częstotliwością wdrożeń, czasem realizacji zmiany, czasem przywrócenia usługi i odsetkiem zmian powodujących awarię. Są to miary procesu technicznego, a nie bezpośrednie wskaźniki dobrostanu pracowników.
 
+### Model wykrywania problemów użyteczności
+
+![Wykres trzech krzywych modelu wykrywania problemów użyteczności, pokazujący malejący przyrost wykrytych problemów wraz z każdym kolejnym uczestnikiem](/assets/images/psycholog_w_it/model_wykrywania_problemow.svg)
+
+*Wykres 1. Teoretyczny skumulowany odsetek wykrytych problemów, obliczony ze wzoru L(n) = 1 - (1 - p)ⁿ dla trzech przykładowych wartości prawdopodobieństwa p, że jeden uczestnik ujawni dany problem. Krzywe ilustrują własność modelu, a nie wyniki konkretnego badania ani zalecaną liczebność próby. Opracowanie własne na podstawie: Nielsen i Landauer (1993).*
+
+### Miary tempa i stabilności dostarczania
+
+![Schemat czterech miar dostarczania oprogramowania, podzielonych na tempo dostarczania i stabilność usługi](/assets/images/psycholog_w_it/metryki_dostarczania.svg)
+
+*Wykres 2. Cztery uzupełniające się miary wydajności dostarczania oprogramowania. Schemat nie przedstawia wartości liczbowych ani norm; porządkuje wskaźniki, które należy interpretować łącznie. Opracowanie własne na podstawie: Forsgren et al. (2018).*
+
 > **Wniosek praktyczny:** psycholog w IT powinien monitorować nie tylko satysfakcję zespołu, ale też metryki procesu (czas cyklu, liczba poprawek, obciążenie poznawcze, jakość komunikacji).
 
 ## Ciekawostki naukowe i zawodowe

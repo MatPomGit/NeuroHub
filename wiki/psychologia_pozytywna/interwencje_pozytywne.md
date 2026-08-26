@@ -12,7 +12,7 @@ evidenceCutoffDate: 2026-08-01
 
 Metaanalizy randomizowanych badań wskazują przeciętnie **małe efekty** dla dobrostanu oraz objawów depresyjnych. Carr i współpracownicy (2021) oszacowali standaryzowane efekty około *g* = 0,20–0,34 zależnie od wyniku i momentu pomiaru. Heterogeniczność była znaczna, a po korektach związanych z jakością i błędem publikacyjnym oszacowania malały. Liczba tygodni ćwiczenia nie jest gwarancją zmiany: efekt zależy od próby, warunku kontrolnego, dopasowania, adherencji i sposobu pomiaru.
 
-> **Granica kliniczna:** PPI mogą wspierać profilaktykę, samopomoc lub leczenie, ale **nie zastępują diagnozy ani leczenia zaburzeń psychicznych**. Nasilona depresja, mania, psychoza, trauma, uzależnienie lub ryzyko samobójcze wymagają adekwatnej oceny i opieki. Ćwiczenie nie powinno opóźniać kontaktu ze specjalistą.
+> **Granica kliniczna:** PPI mogą wspierać profilaktykę, samopomoc lub leczenie, ale **nie zastępują diagnozy ani leczenia zaburzeń psychicznych**. Nasilona depresja, mania, psychoza, [trauma](../psychopatologia/trauma_ptsd.md), [uzależnienie](../uzaleznienia/mechanizmy_i_diagnoza_uzaleznien.md) lub ryzyko samobójcze wymagają adekwatnej oceny i opieki. Ćwiczenie nie powinno opóźniać kontaktu ze specjalistą.
 
 ## Jak czytać wyniki
 

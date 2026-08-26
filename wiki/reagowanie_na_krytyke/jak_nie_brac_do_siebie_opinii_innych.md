@@ -13,7 +13,7 @@ aliases:
 
 Konstruktywna reakcja nie polega ani na bezwarunkowym przyjęciu cudzej oceny, ani na natychmiastowej obronie. Obejmuje pięć kolejnych decyzji: **zatrzymaj reakcję, doprecyzuj komunikat, oceń jego treść, wybierz odpowiedź i zaplanuj działanie**. Można uznać trafną część wypowiedzi, odrzucić etykietę, poprosić o dane albo wyznaczyć granicę.
 
-Ocena społeczna może wywołać stres, szczególnie gdy jest publiczna, nieprzewidywalna lub dotyczy ważnej roli. Reakcja emocjonalna nie dowodzi jednak ani prawdziwości, ani fałszywości komunikatu. Najpierw warto obniżyć pobudzenie, a następnie oddzielić obserwację od interpretacji i ocenę zachowania od oceny osoby.
+Ocena społeczna może wywołać [stres](../psychologia_zdrowia/stres.md), szczególnie gdy jest publiczna, nieprzewidywalna lub dotyczy ważnej roli. Reakcja emocjonalna nie dowodzi jednak ani prawdziwości, ani fałszywości komunikatu. Najpierw warto obniżyć pobudzenie, a następnie oddzielić obserwację od interpretacji i ocenę zachowania od oceny osoby.
 
 Zwykła krytyka jest czym innym niż nękanie, mobbing, przemoc psychiczna lub dyskryminacja. W tych sytuacjach problem nie sprowadza się do sposobu myślenia odbiorcy. Potrzebne mogą być zabezpieczenie dowodów, wsparcie społeczne, procedura organizacyjna albo specjalistyczna pomoc.
 

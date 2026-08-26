@@ -22,7 +22,7 @@ Pojęcia traumy, wiktymizacji i PTSD opisują różne poziomy zjawiska. Ich rozd
 
 ## Ryzyko i ochrona
 
-Ryzyko długotrwałych objawów zwiększają m.in. nasilenie i powtarzalność ekspozycji, przemoc interpersonalna, wcześniejsze trudności psychiczne, uraz głowy, dalsze zagrożenie, brak wsparcia i stres po zdarzeniu. Znaczenie mają też subiektywna ocena zagrożenia, wstyd, samoobwinianie i unikanie. Są to zależności probabilistyczne, a nie wyrok.
+Ryzyko długotrwałych objawów zwiększają m.in. nasilenie i powtarzalność ekspozycji, przemoc interpersonalna, wcześniejsze trudności psychiczne, uraz głowy, dalsze zagrożenie, brak wsparcia i [stres](../psychologia_zdrowia/stres.md) po zdarzeniu. Znaczenie mają też subiektywna ocena zagrożenia, wstyd, samoobwinianie i unikanie. Są to zależności probabilistyczne, a nie wyrok.
 
 Czynniki ochronne obejmują realne bezpieczeństwo, wspierające relacje, dostęp do opieki i sprawiedliwości, stabilne warunki mieszkaniowe, możliwość podejmowania decyzji oraz elastyczne strategie radzenia sobie. Odporność nie jest wyłącznie cechą jednostki: zależy także od reakcji rodziny, instytucji i społeczeństwa.
 

@@ -9,7 +9,7 @@ evidenceCutoffDate: 2025-12-31
 
 ## Streszczenie
 
-Ketamina i esketamina zajmują dziś szczególne miejsce w psychiatrii i neuropsychofarmakologii, ponieważ należą do nielicznych interwencji o względnie szybkim działaniu przeciwdepresyjnym, zwłaszcza u pacjentów z depresją lekooporną. Z perspektywy neuropsychologii ich znaczenie wykracza jednak poza sam efekt przeciwdepresyjny. Substancje te wpływają na uwagę, szybkość przetwarzania, pamięć roboczą, hamowanie reakcji, doświadczenie dysocjacyjne, przetwarzanie emocjonalne i plastyczność neuronalną. W praktyce terapeutycznej rodzi to podwójne pytanie: po pierwsze, jak wykorzystywać ich potencjał kliniczny, a po drugie, jak monitorować poznawcze i psychologiczne koszty oraz korzyści leczenia. Artykuł omawia ketaminę i esketaminę z perspektywy neurobiologii, skuteczności klinicznej, bezpieczeństwa, funkcjonowania poznawczego oraz możliwych zastosowań w psychoterapii i opiece neuropsychologicznej.
+Ketamina i esketamina zajmują dziś szczególne miejsce w psychiatrii i neuropsychofarmakologii, ponieważ należą do nielicznych interwencji o względnie szybkim działaniu przeciwdepresyjnym, zwłaszcza u pacjentów z depresją lekooporną. Z perspektywy [neuropsychologii](../neuropsychologia/diagnoza_i_rehabilitacja_neuropsychologiczna.md) ich znaczenie wykracza jednak poza sam efekt przeciwdepresyjny. Substancje te wpływają na uwagę, szybkość przetwarzania, pamięć roboczą, hamowanie reakcji, doświadczenie dysocjacyjne, przetwarzanie emocjonalne i plastyczność neuronalną. W praktyce terapeutycznej rodzi to podwójne pytanie: po pierwsze, jak wykorzystywać ich potencjał kliniczny, a po drugie, jak monitorować poznawcze i psychologiczne koszty oraz korzyści leczenia. Artykuł omawia ketaminę i esketaminę z perspektywy neurobiologii, skuteczności klinicznej, bezpieczeństwa, funkcjonowania poznawczego oraz możliwych zastosowań w [psychoterapii](../psychoterapia/psychoterapia_wprowadzenie.md) i opiece neuropsychologicznej.
 
 ## 1. Wprowadzenie
 
@@ -19,7 +19,7 @@ Z perspektywy klinicznej kluczowe jest odróżnienie ketaminy racemicznej od esk
 
 ## 2. Mechanizm działania: od receptora NMDA do zmiany funkcjonowania psychicznego
 
-Najczęściej opisywany mechanizm działania ketaminy i esketaminy obejmuje niekompetycyjną blokadę receptora NMDA, co wtórnie prowadzi do wzrostu przekaźnictwa glutaminergicznego, aktywacji receptorów AMPA i uruchomienia procesów związanych z plastycznością synaptyczną. W uproszczeniu oznacza to, że efekt terapeutyczny nie jest rozumiany jako klasyczne, stopniowe zwiększanie stężenia monoamin, lecz jako szybsza modulacja sieci neuronalnych, szczególnie w układach korowo-limbicznych związanych z nastrojem, stresem i poznaniem. To odróżnia ketaminę i esketaminę od tradycyjnych leków przeciwdepresyjnych i stanowi jeden z głównych powodów ich znaczenia w leczeniu depresji lekoopornej. (Robbins & Murphy, 2006; EMA, 2025)
+Najczęściej opisywany mechanizm działania ketaminy i esketaminy obejmuje niekompetycyjną blokadę receptora NMDA, co wtórnie prowadzi do wzrostu przekaźnictwa glutaminergicznego, aktywacji receptorów AMPA i uruchomienia procesów związanych z plastycznością synaptyczną. W uproszczeniu oznacza to, że efekt terapeutyczny nie jest rozumiany jako klasyczne, stopniowe zwiększanie stężenia monoamin, lecz jako szybsza modulacja sieci neuronalnych, szczególnie w układach korowo-limbicznych związanych z nastrojem, [stresem](../psychologia_zdrowia/stres.md) i poznaniem. To odróżnia ketaminę i esketaminę od tradycyjnych leków przeciwdepresyjnych i stanowi jeden z głównych powodów ich znaczenia w leczeniu depresji lekoopornej. (Robbins & Murphy, 2006; EMA, 2025)
 
 W ujęciu neuropsychologicznym istotne jest, że mechanizm ten nie działa wyłącznie na nastrój. Wpływa także na procesy związane z saliencją bodźców, sztywnością poznawczą, negatywnym biasem emocjonalnym, uczeniem się na podstawie informacji zwrotnej i regulacją stresu. Z tego powodu ketamina i esketamina nie powinny być rozumiane wyłącznie jako „szybkie antydepresanty”. Bardziej trafne jest traktowanie ich jako interwencji modulujących stan mózgu, w którym u części pacjentów rośnie zdolność do przerwania patologicznej inercji afektywnej i poznawczej. (Rogers, 2011; Lima et al., 2022)
 
@@ -79,7 +79,7 @@ U części pacjentów z ciężką depresją podstawowym problemem nie jest brak 
 
 ### 8.2. Pacjent z silną ruminacją i sztywnością poznawczą
 
-Jeżeli po leczeniu pacjent doświadcza choćby częściowego przerwania nawykowych pętli ruminacyjnych, psychoterapia może wykorzystać ten moment do pracy nad alternatywnymi strategiami regulacji emocji, defuzją poznawczą, aktywizacją i reorganizacją dnia.
+Jeżeli po leczeniu pacjent doświadcza choćby częściowego przerwania nawykowych pętli ruminacyjnych, psychoterapia może wykorzystać ten moment do pracy nad alternatywnymi strategiami [regulacji emocji](../emocje/regulacja.md), defuzją poznawczą, aktywizacją i reorganizacją dnia.
 
 ### 8.3. Pacjent z traumą i dużą unikowością
 

@@ -21,7 +21,7 @@ Rozwój ruchowy nie jest wyłącznie realizacją biologicznego programu. Kontrol
 
 Piaget trafnie podkreślał aktywność dziecka, jednak współczesne badania nie potwierdzają jednolitych, sztywnych stadiów dla wszystkich kompetencji. W okresie przedszkolnym rozwijają się zabawa symboliczna, pamięć autobiograficzna, rozumienie liczby i **teoria umysłu**, czyli wnioskowanie, że inni mogą mieć odmienne przekonania i pragnienia. Wynik w zadaniu zależy także od języka instrukcji, znajomości sytuacji i wymagań wykonawczych.
 
-W wieku szkolnym nauczanie i praktyka wspierają czytanie, pisanie, rozumowanie matematyczne, strategie pamięciowe i myślenie o własnym uczeniu się. Funkcje wykonawcze nadal się rozwijają, lecz osiągnięcia szkolne współtworzą jakość nauczania, język edukacji, zdrowie, stres, zasoby rodziny i relacje rówieśnicze. Różnicy wyniku nie należy automatycznie przypisywać zdolności dziecka.
+W wieku szkolnym nauczanie i praktyka wspierają czytanie, pisanie, rozumowanie matematyczne, strategie pamięciowe i myślenie o własnym uczeniu się. Funkcje wykonawcze nadal się rozwijają, lecz osiągnięcia szkolne współtworzą jakość nauczania, język edukacji, zdrowie, [stres](../psychologia_zdrowia/stres.md), zasoby rodziny i relacje rówieśnicze. Różnicy wyniku nie należy automatycznie przypisywać zdolności dziecka.
 
 ## Rozwój języka i komunikacji
 

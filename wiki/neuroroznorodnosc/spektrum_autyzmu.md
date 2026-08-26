@@ -36,7 +36,7 @@ Mocne strony również są indywidualne. U części osób obejmują długotrwał
 
 ## Uwaga, przewidywalność i monotropizm
 
-Monotropizm opisuje skłonność do intensywnego angażowania zasobów uwagi w ograniczoną liczbę aktywności lub zainteresowań. Model może wyjaśniać głęboką koncentrację, trudność przełączania uwagi i stres wywołany nieoczekiwanym przerwaniem działania. Jest użyteczną ramą teoretyczną, nie kryterium diagnostycznym ani wyjaśnieniem całego spektrum.
+Monotropizm opisuje skłonność do intensywnego angażowania zasobów uwagi w ograniczoną liczbę aktywności lub zainteresowań. Model może wyjaśniać głęboką koncentrację, trudność przełączania uwagi i [stres](../psychologia_zdrowia/stres.md) wywołany nieoczekiwanym przerwaniem działania. Jest użyteczną ramą teoretyczną, nie kryterium diagnostycznym ani wyjaśnieniem całego spektrum.
 
 Przewidywalność i możliwość przygotowania się do zmiany mogą ograniczać obciążenie. Wsparcie nie powinno jednak sprowadzać się do całkowitego unikania zmian. Celem jest zwiększenie poczucia bezpieczeństwa, komunikowanie planu i stopniowe rozwijanie elastyczności w zakresie dostosowanym do osoby.
 
@@ -66,7 +66,7 @@ Przeglądy badań wiążą intensywne maskowanie z wyczerpaniem, trudnościami w
 
 Ocena diagnostyczna integruje informacje z wywiadu rozwojowego, obserwacji, funkcjonowania w różnych środowiskach oraz oceny stanów współwystępujących. ADOS-2 i ADI-R są narzędziami wspierającymi proces, a nie samodzielnymi testami rozstrzygającymi.
 
-W diagnozie osób dorosłych i maskujących ważne są dane z całego życia, strategie kompensacyjne oraz koszt funkcjonowania. Rozpoznanie różnicowe może obejmować ADHD, zaburzenia językowe, niepełnosprawność intelektualną, lęk społeczny, OCD i skutki traumy. Stany te mogą również współwystępować.
+W diagnozie osób dorosłych i maskujących ważne są dane z całego życia, strategie kompensacyjne oraz koszt funkcjonowania. Rozpoznanie różnicowe może obejmować ADHD, zaburzenia językowe, niepełnosprawność intelektualną, lęk społeczny, OCD i skutki [traumy](../psychopatologia/trauma_ptsd.md). Stany te mogą również współwystępować.
 
 ## Zasady wsparcia
 

@@ -47,7 +47,7 @@ Nie istnieje uniwersalna lista strategii „dobrych” i „złych”. Przewarto
 
 ## Stres jako relacja osoby z wymaganiami
 
-W modelu Lazarusa i Folkman stres psychologiczny powstaje, gdy wymagania są oceniane jako obciążające lub przekraczające zasoby. **Ocena pierwotna** dotyczy stawki: szkody, zagrożenia albo wyzwania. **Ocena wtórna** dotyczy możliwości wpływu i poradzenia sobie. Oceny te mogą zachodzić szybko, zmieniają się wraz z informacją i są bliskie mechanizmom opisywanym przez teorie emocji typu *appraisal*.
+W modelu Lazarusa i Folkman [stres](../psychologia_zdrowia/stres.md) psychologiczny powstaje, gdy wymagania są oceniane jako obciążające lub przekraczające zasoby. **Ocena pierwotna** dotyczy stawki: szkody, zagrożenia albo wyzwania. **Ocena wtórna** dotyczy możliwości wpływu i poradzenia sobie. Oceny te mogą zachodzić szybko, zmieniają się wraz z informacją i są bliskie mechanizmom opisywanym przez teorie emocji typu *appraisal*.
 
 Stres nie jest jedną emocją. Zagrożenie przy niepewności może wiązać się z lękiem, utrata ze smutkiem, przeszkoda przypisana komuś ze złością, a odzyskanie bezpieczeństwa z ulgą. Emocja następnie zmienia uwagę i ponowną ocenę, tworząc sprzężenie zwrotne.
 
@@ -61,7 +61,7 @@ Aleksytymia jest konstruktem **wymiarowym**, obejmującym trudności w identyfik
 
 Najczęściej używana TAS-20 mierzy nasilenie cechy, nie stawia diagnozy. Samoopis ma szczególne ograniczenie: wymaga wglądu właśnie w obszar, który może sprawiać trudność. W badaniach i ocenie klinicznej warto łączyć go z wywiadem, opisem funkcjonowania i, gdy to zasadne, oceną obserwatora.
 
-Aleksytymia wiąże się z niektórymi wymiarami interocepcji oraz występuje częściej w wielu problemach zdrowia psychicznego i w [spektrum autyzmu](../neuroroznorodnosc/spektrum_autyzmu.md), ale nie jest uniwersalną cechą żadnej z tych grup. Zależności mogą być dwukierunkowe: trudność rozpoznania utrudnia regulację, zaś depresja, trauma lub przewlekły stres mogą ograniczać dostęp do uczuć. Obrazowanie mózgu nie pozwala rozpoznawać aleksytymii u jednostki.
+Aleksytymia wiąże się z niektórymi wymiarami interocepcji oraz występuje częściej w wielu problemach zdrowia psychicznego i w [spektrum autyzmu](../neuroroznorodnosc/spektrum_autyzmu.md), ale nie jest uniwersalną cechą żadnej z tych grup. Zależności mogą być dwukierunkowe: trudność rozpoznania utrudnia regulację, zaś depresja, [trauma](../psychopatologia/trauma_ptsd.md) lub przewlekły stres mogą ograniczać dostęp do uczuć. Obrazowanie mózgu nie pozwala rozpoznawać aleksytymii u jednostki.
 
 Wsparcie może obejmować rozwijanie słownika, łączenie sygnałów cielesnych z sytuacją i potrzebami, sprawdzanie hipotez emocjonalnych oraz leczenie współwystępujących problemów. Celem nie jest wymuszenie rozbudowanych zwierzeń, lecz zwiększenie użytecznej orientacji we własnym doświadczeniu i komunikacji.
 

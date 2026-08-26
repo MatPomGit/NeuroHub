@@ -6,7 +6,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Pomoc psychologiczna, opieka i koniec życia w starości
 
-Pomoc osobie starszej wymaga tych samych podstaw co pomoc dorosłym w innym wieku: trafnej diagnozy problemu, uzgodnionych celów, relacji terapeutycznej, metody opartej na dowodach i monitorowania efektów. Wiek sam w sobie nie uzasadnia całkowicie odmiennej psychoterapii ani obniżania oczekiwań. Adaptacji wymagają konkretne potrzeby poznawcze, sensoryczne, zdrowotne, komunikacyjne i społeczne.
+Pomoc osobie starszej wymaga tych samych podstaw co pomoc dorosłym w innym wieku: trafnej diagnozy problemu, uzgodnionych celów, relacji terapeutycznej, metody opartej na dowodach i monitorowania efektów. Wiek sam w sobie nie uzasadnia całkowicie odmiennej [psychoterapii](../psychoterapia/psychoterapia_wprowadzenie.md) ani obniżania oczekiwań. Adaptacji wymagają konkretne potrzeby poznawcze, sensoryczne, zdrowotne, komunikacyjne i społeczne.
 
 ## Psychoterapia bez stereotypów wieku
 
@@ -39,7 +39,7 @@ Szczególne znaczenie mają intensywność i nieprzewidywalność opieki, nocne 
 
 **Proces umierania** oznacza kliniczny i osobisty przebieg zbliżania się śmierci. Nie istnieje obowiązkowa sekwencja psychologicznych „etapów”. Osoba może doświadczać lęku, smutku, złości, spokoju, ambiwalencji albo zmiennych reakcji. Zadaniem profesjonalisty jest kontrola objawów, obecność, uczciwa komunikacja dostosowana do gotowości oraz pomoc w sprawach ważnych dla pacjenta, nie narzucanie sposobu przeżywania.
 
-**Żałoba** jest naturalną, zróżnicowaną reakcją po stracie. Sama intensywność smutku krótko po śmierci nie świadczy o chorobie. Pomoc jest wskazana, gdy osoba jej potrzebuje; diagnostyki wymaga między innymi długotrwałe, nasilone zaburzenie funkcjonowania, utrwalone pragnienie śmierci, objawy depresji, psychozy, zespołu stresu pourazowego lub ryzyko samobójcze. Żałoba i zaburzenie psychiczne mogą współistnieć, ale nie są tym samym.
+**Żałoba** jest naturalną, zróżnicowaną reakcją po stracie. Sama intensywność smutku krótko po śmierci nie świadczy o chorobie. Pomoc jest wskazana, gdy osoba jej potrzebuje; diagnostyki wymaga między innymi długotrwałe, nasilone zaburzenie funkcjonowania, utrwalone pragnienie śmierci, objawy depresji, psychozy, zespołu [stresu](../psychologia_zdrowia/stres.md) pourazowego lub ryzyko samobójcze. Żałoba i zaburzenie psychiczne mogą współistnieć, ale nie są tym samym.
 
 **Majaczenie** u kresu życia jest zaburzeniem medycznym świadomości i uwagi, a nie „pogodzeniem się ze śmiercią” ani wyłącznie reakcją emocjonalną. Nagła dezorientacja wymaga oceny klinicznej, rozpoznania możliwych przyczyn i leczenia zgodnego z celami opieki.
 

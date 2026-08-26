@@ -38,7 +38,7 @@ Dopiero na tym tle liczba godzin może informować o skali ekspozycji. Samoopisy
 
 Telewizja, transmisje i krótkie filmy mogą służyć rozrywce, odpoczynkowi oraz uczestnictwu w kulturze. Skutki zależą od treści i wzorca oglądania. Wielogodzinne sesje późnym wieczorem mogą przesuwać porę snu; telewizja w tle może przerywać zabawę małego dziecka i ograniczać rozmowę z opiekunem. Wspólne oglądanie oraz rozmowa o treści zmieniają doświadczenie z biernego odbioru w okazję do uczenia się.
 
-Nie należy utożsamiać chwilowego odprężenia z trwałą poprawą regulacji emocji. Oglądanie używane stale do unikania problemów może podtrzymywać trudności, lecz zależność ta nie pozwala automatycznie ustalić kierunku przyczynowego.
+Nie należy utożsamiać chwilowego odprężenia z trwałą poprawą [regulacji emocji](../emocje/regulacja.md). Oglądanie używane stale do unikania problemów może podtrzymywać trudności, lecz zależność ta nie pozwala automatycznie ustalić kierunku przyczynowego.
 
 ### Komunikacja społeczna
 
@@ -60,7 +60,7 @@ U małych dzieci występuje **deficyt transferu**: trudniej zastosować informac
 
 Używanie problemowe oznacza utratę kontroli, uporczywość mimo szkód oraz wyraźne pogorszenie funkcjonowania. Nie jest synonimem częstego używania. Mechanizmy podtrzymujące mogą obejmować zmienne nagrody, powiadomienia, regulowanie przykrych emocji i presję społeczną. Potoczne wyjaśnienie, że każda interakcja z telefonem jest „zastrzykiem dopaminy”, nadmiernie upraszcza działanie układu nagrody.
 
-Ocena powinna obejmować funkcję zachowania, nastrój, sen, obowiązki i relacje. Nagłe nasilenie korzystania może być sygnałem stresu lub kryzysu, a nie pierwotną przyczyną problemu.
+Ocena powinna obejmować funkcję zachowania, nastrój, sen, obowiązki i relacje. Nagłe nasilenie korzystania może być sygnałem [stresu](../psychologia_zdrowia/stres.md) lub kryzysu, a nie pierwotną przyczyną problemu.
 
 ## Treść, kontekst i sposób używania
 

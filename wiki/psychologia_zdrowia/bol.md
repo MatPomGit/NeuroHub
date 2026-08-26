@@ -24,7 +24,7 @@ Nocyplastyczny nie znaczy „wyobrażony” ani wyłącznie psychiczny. Klasyfik
 
 ## Modulacja nie jest negowaniem bólu
 
-Sygnały są modulowane na obwodzie, w rdzeniu i mózgu przez procesy hamujące oraz ułatwiające. Uwaga, oczekiwania, uczenie, sen, stres i poczucie bezpieczeństwa mogą zmieniać natężenie oraz uciążliwość bólu. Oznacza to biologiczną modulację doświadczenia, nie dowód, że ból jest „tylko w głowie”.
+Sygnały są modulowane na obwodzie, w rdzeniu i mózgu przez procesy hamujące oraz ułatwiające. Uwaga, oczekiwania, uczenie, sen, [stres](stres.md) i poczucie bezpieczeństwa mogą zmieniać natężenie oraz uciążliwość bólu. Oznacza to biologiczną modulację doświadczenia, nie dowód, że ból jest „tylko w głowie”.
 
 Model unikania z lęku opisuje jeden z możliwych mechanizmów przewlekłej niesprawności: katastroficzna interpretacja może zwiększać lęk, prowadzić do unikania ruchu, spadku kondycji i ograniczenia aktywności (Vlaeyen i Linton, 2000). Nie wyjaśnia każdego przypadku i nie powinien zastępować diagnostyki nowych lub zmieniających się objawów.
 

@@ -42,7 +42,7 @@ W pracy klinicznej z osobami po urazach neurologicznych warto oddzielać deficyt
 
 ### Zła praktyka
 
-Utożsamianie pojedynczego przypadku z uniwersalną regułą „amygdala = cały lęk” i przenoszenie tego uproszczenia bezpośrednio na psychoterapię lub farmakoterapię.
+Utożsamianie pojedynczego przypadku z uniwersalną regułą „amygdala = cały lęk” i przenoszenie tego uproszczenia bezpośrednio na [psychoterapię](../psychoterapia/psychoterapia_wprowadzenie.md) lub farmakoterapię.
 
 **Konsekwencja:** błędne modele wyjaśniające, zbyt wąskie interwencje i pomijanie roli procesów poznawczych oraz interocepcji.
 

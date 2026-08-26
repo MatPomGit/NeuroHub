@@ -49,7 +49,7 @@ Zwracanie klientowi tego, co pomagający słyszy i obserwuje:
 ### Udzielanie informacji
 
 Psychoedukacja - przekazywanie wiedzy o procesach psychologicznych w sposób przystępny, bez narzucania:
-> „Czy wiesz, że to, co opisujesz, może być objawem reakcji na stres? Chcesz, żebym wyjaśnił, jak to działa?"
+> „Czy wiesz, że to, co opisujesz, może być objawem reakcji na [stres](../psychologia_zdrowia/stres.md)? Chcesz, żebym wyjaśnił, jak to działa?"
 
 ---
 
@@ -80,7 +80,7 @@ Niespójność między tymi kanałami podważa autentyczność i może dezorient
 
 ## Komunikacja wspierająca a trudne tematy
 
-Przy trudnych tematach (samookaleczenie, myśli samobójcze, trauma, uzależnienia) komunikacja wymaga dodatkowej wrażliwości:
+Przy trudnych tematach (samookaleczenie, myśli samobójcze, [trauma](../psychopatologia/trauma_ptsd.md), [uzależnienia](../uzaleznienia/mechanizmy_i_diagnoza_uzaleznien.md)) komunikacja wymaga dodatkowej wrażliwości:
 
 - Spokój i brak paniki w reakcji pomagającego
 - Bezpośrednie, ale łagodne pytania (pytanie o samobójstwo **nie zwiększa** jego ryzyka)
@@ -90,7 +90,7 @@ Przy trudnych tematach (samookaleczenie, myśli samobójcze, trauma, uzależnien
 
 ## Granice zaleceń i dowodów
 
-Zalecenia o parafrazie, pytaniach i udzielaniu informacji są elementami szerszego warsztatu pomagania, nie algorytmem gwarantującym ulgę. Metaanaliza wiąże empatię terapeuty z wynikami psychoterapii (Elliott i in., 2018), ale badania te nie izolują skutku każdej frazy i nie uzasadniają przenoszenia wyniku na wszystkie rozmowy. Przykładowe sformułowania poniżej i wyżej są **interpretacją praktyczną**: trzeba je dostosować do celu, kultury, wieku i sposobu komunikacji rozmówcy.
+Zalecenia o parafrazie, pytaniach i udzielaniu informacji są elementami szerszego warsztatu pomagania, nie algorytmem gwarantującym ulgę. Metaanaliza wiąże empatię terapeuty z wynikami [psychoterapii](../psychoterapia/psychoterapia_wprowadzenie.md) (Elliott i in., 2018), ale badania te nie izolują skutku każdej frazy i nie uzasadniają przenoszenia wyniku na wszystkie rozmowy. Przykładowe sformułowania poniżej i wyżej są **interpretacją praktyczną**: trzeba je dostosować do celu, kultury, wieku i sposobu komunikacji rozmówcy.
 
 Walidacja przeżycia nie oznacza potwierdzenia faktów, aprobaty zachowania ani rezygnacji z granic. Normalizacja powinna opisywać możliwą reakcję bez bagatelizowania i bez diagnozowania. W sytuacji zagrożenia komunikacja wspierająca uzupełnia, lecz nie zastępuje [pierwszej pomocy psychologicznej](./pierwsza_pomoc_psychologiczna.md), oceny ryzyka i odpowiedniej pomocy specjalistycznej.
 

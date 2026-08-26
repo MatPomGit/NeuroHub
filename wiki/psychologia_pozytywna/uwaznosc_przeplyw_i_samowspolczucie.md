@@ -32,7 +32,7 @@ Kwestionariusze, takie jak FFMQ, mierzą samoocenę obserwowania, opisywania, ś
 
 Programy MBSR i MBCT łączą medytację, psychoedukację i ćwiczenia domowe. Metaanalizy w populacjach klinicznych wskazują zwykle małe do umiarkowanych korzyści dla lęku, depresji i bólu względem kontroli nieswoistych; przewaga nad aktywnymi terapiami bywa mniejsza lub nieobecna. MBCT ma określone zastosowanie w zapobieganiu nawrotom depresji i nie należy przenosić tego wyniku na wszystkie osoby i cele.
 
-Praktyka może przejściowo nasilić lęk, dysocjację, wspomnienia urazowe lub dyskomfort cielesny. Dłuższa albo intensywniejsza nie zawsze znaczy lepsza. Potrzebne są świadoma zgoda, możliwość przerwania, modyfikacja kotwicy uwagi i pomoc kompetentnej osoby, szczególnie przy traumie lub ostrych objawach.
+Praktyka może przejściowo nasilić lęk, dysocjację, wspomnienia urazowe lub dyskomfort cielesny. Dłuższa albo intensywniejsza nie zawsze znaczy lepsza. Potrzebne są świadoma zgoda, możliwość przerwania, modyfikacja kotwicy uwagi i pomoc kompetentnej osoby, szczególnie przy [traumie](../psychopatologia/trauma_ptsd.md) lub ostrych objawach.
 
 ## Przepływ
 
@@ -57,13 +57,13 @@ W modelu Neff konstrukt obejmuje trzy pary procesów: życzliwość zamiast samo
 - **Nie jest unikaniem odpowiedzialności.** Oddzielenie błędu od potępienia całej osoby może zmniejszyć defensywność. Eksperymenty Breines i Chen wskazały wzrost motywacji naprawczej po krótkiej indukcji, ale nie dowodzą trwałej zmiany zachowania w każdej sytuacji.
 - **Nie jest wyłącznie „byciem miłym dla siebie”.** Obejmuje trafne rozpoznanie bólu i działanie chroniące dobro własne oraz innych.
 
-Silne ujemne korelacje samowspółczucia z depresją, lękiem i stresem nie ustalają przyczynowości, a część związku może wynikać z negatywnie sformułowanych pozycji skali SCS. Metaanalizy interwencji wskazują obiecujące, zwykle małe do umiarkowanych efekty, ale obejmują zróżnicowane programy, próby samowybrane i wiele samoopisów. MSC jest programem psychoedukacyjno-treningowym, a CFT terapią kliniczną o szerszym modelu; nazw nie należy używać zamiennie.
+Silne ujemne korelacje samowspółczucia z depresją, lękiem i [stresem](../psychologia_zdrowia/stres.md) nie ustalają przyczynowości, a część związku może wynikać z negatywnie sformułowanych pozycji skali SCS. Metaanalizy interwencji wskazują obiecujące, zwykle małe do umiarkowanych efekty, ale obejmują zróżnicowane programy, próby samowybrane i wiele samoopisów. MSC jest programem psychoedukacyjno-treningowym, a CFT terapią kliniczną o szerszym modelu; nazw nie należy używać zamiennie.
 
 ## Od źródeł kontemplacyjnych do interwencji świeckich
 
 Współczesna uważność korzysta szczególnie z buddyjskich tradycji *sati* i medytacji wglądu, ale jej świeckie programy współtworzyły także medycyna behawioralna, psychologia poznawcza, joga i edukacja dorosłych. Buddyzm sam obejmuje liczne tradycje, w których uważność współwystępuje z etyką, mądrością i współczuciem; redukowanie go do techniki uwagowej zniekształca źródła.
 
-Praktyki współczucia i życzliwości mają ważne odpowiedniki buddyjskie (*karuṇā*, *mettā*), lecz współczesne programy samowspółczucia czerpią również z teorii przywiązania, psychologii społecznej, ewolucyjnych modeli regulacji emocji i psychoterapii. Absorpcję oraz czynności autoteliczne opisywały różne kultury, natomiast flow jest nowoczesnym konstruktem psychologicznym sformułowanym na podstawie badań doświadczenia. Nie ma podstaw, by wszystkie trzy konstrukty przypisać jednej szkole kontemplacyjnej.
+Praktyki współczucia i życzliwości mają ważne odpowiedniki buddyjskie (*karuṇā*, *mettā*), lecz współczesne programy samowspółczucia czerpią również z teorii przywiązania, psychologii społecznej, ewolucyjnych modeli [regulacji emocji](../emocje/regulacja.md) i [psychoterapii](../psychoterapia/psychoterapia_wprowadzenie.md). Absorpcję oraz czynności autoteliczne opisywały różne kultury, natomiast flow jest nowoczesnym konstruktem psychologicznym sformułowanym na podstawie badań doświadczenia. Nie ma podstaw, by wszystkie trzy konstrukty przypisać jednej szkole kontemplacyjnej.
 
 Sekularyzacja ułatwia badanie i dostęp, ale może usuwać etykę i kontekst wspólnotowy albo komercjalizować praktykę jako narzędzie produktywności. Z drugiej strony wymaganie religijnej interpretacji ograniczałoby autonomię uczestnika. Odpowiedzialny program jawnie opisuje pochodzenie, współczesne modyfikacje, zamierzony mechanizm, możliwe działania niepożądane i granice dowodów.
 

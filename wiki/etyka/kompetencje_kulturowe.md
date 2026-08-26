@@ -84,7 +84,7 @@ Do 1973 roku **homoseksualność** była w DSM sklasyfikowana jako zaburzenie. A
 
 1. **Afirmatywne podejście** - seksualna i genderowa różnorodność jest normalna, nie patologiczna
 2. **Zakaz terapii konwersyjnej** - APA (2009), PTP (2020) i wiele kodeksów krajowych jednoznacznie potępia praktyki zmiany orientacji jako szkodliwe i nieskuteczne
-3. **Znajomość specyficznych stresów mniejszościowych** - **model stresu mniejszościowego** (Meyer, 2003): stygma, uprzedzenia, dyskryminacja i ukrywanie tożsamości to unikalne źródła dystresu
+3. **Znajomość specyficznych stresów mniejszościowych** - **model [stresu](../psychologia_zdrowia/stres.md) mniejszościowego** (Meyer, 2003): stygma, uprzedzenia, dyskryminacja i ukrywanie tożsamości to unikalne źródła dystresu
 4. **Język i terminologia** - używanie odpowiednich zaimków i terminów zgodnych z tożsamością klienta
 5. **Specyfika Coming Out** - rozumienie etapów i kontekstów ujawniania tożsamości
 

@@ -125,7 +125,7 @@ W pracy psychologicznej facylitacja bywa pomostem między „nauczaniem” a „
 Przykładowe zastosowania:
 
 - grupa wsparcia dla opiekunów osób chorych przewlekle,
-- warsztat radzenia sobie ze stresem w szkole lub organizacji,
+- warsztat radzenia sobie ze [stresem](../psychologia_zdrowia/stres.md) w szkole lub organizacji,
 - spotkanie zespołu pomagającego po zdarzeniu kryzysowym,
 - konsultacje społeczne dotyczące dobrostanu psychicznego.
 
@@ -136,7 +136,7 @@ Przykładowe zastosowania:
 - **Pseudo-neutralność**: facylitator deklaruje neutralność, ale subtelnie steruje wynikiem.
 - **Przefacylitowanie**: nadmiar technik obniża autentyczny kontakt.
 - **Brak kontraktu**: niejasne zasady zwiększają chaos i konfliktowość.
-- **Mylenie facylitacji z terapią**: grupa facylitowana nie zastępuje psychoterapii indywidualnej lub grupowej.
+- **Mylenie facylitacji z terapią**: grupa facylitowana nie zastępuje [psychoterapii](../psychoterapia/psychoterapia_wprowadzenie.md) indywidualnej lub grupowej.
 
 ---
 

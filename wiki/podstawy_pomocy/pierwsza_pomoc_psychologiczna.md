@@ -9,7 +9,7 @@ evidenceCutoffDate: 2025-12-31
 
 ## Czym jest pierwsza pomoc psychologiczna?
 
-**Pierwsza pomoc psychologiczna** (PPP; ang. *Psychological First Aid*, PFA) to opartą na dowodach metodę wsparcia dla osób doświadczających ostrego stresu po wydarzeniach traumatycznych lub katastrofach. Opracowana m.in. przez WHO, NCTSN i inne organizacje, stanowi standard reagowania w sytuacjach masowych - klęskach żywiołowych, aktach terroru, wypadkach i katastrofach przemysłowych.
+**Pierwsza pomoc psychologiczna** (PPP; ang. *Psychological First Aid*, PFA) to opartą na dowodach metodę wsparcia dla osób doświadczających ostrego [stresu](../psychologia_zdrowia/stres.md) po wydarzeniach traumatycznych lub katastrofach. Opracowana m.in. przez WHO, NCTSN i inne organizacje, stanowi standard reagowania w sytuacjach masowych - klęskach żywiołowych, aktach terroru, wypadkach i katastrofach przemysłowych.
 
 PPP **nie jest terapią** - to humanitarna, ludzka interwencja skierowana na zaspokojenie podstawowych potrzeb i przywrócenie poczucia bezpieczeństwa.
 

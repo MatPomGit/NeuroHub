@@ -68,7 +68,7 @@ Filozofia korzysta z eksperymentów myślowych, analizy przypadków, refleksyjne
 
 Psychologia wyodrębniła się instytucjonalnie z filozofii, ale nadal zakłada określone pojęcia osoby, pomiaru i wyjaśnienia. Filozofia może ujawniać te założenia oraz porządkować wnioski normatywne. Nie uprawnia jednak do diagnozowania człowieka na podstawie samej teorii ani do zastępowania dowodów empirycznych analizą pojęciową.
 
-Praktyczne użycie dialogu filozoficznego do badania światopoglądu, wartości i decyzji opisuje artykuł o [filozofioterapii i poradnictwie filozoficznym](filozofioterapia.md). Taka praktyka nie jest automatycznie psychoterapią i nie zastępuje pomocy klinicznej.
+Praktyczne użycie dialogu filozoficznego do badania światopoglądu, wartości i decyzji opisuje artykuł o [filozofioterapii i poradnictwie filozoficznym](filozofioterapia.md). Taka praktyka nie jest automatycznie [psychoterapią](../psychoterapia/psychoterapia_wprowadzenie.md) i nie zastępuje pomocy klinicznej.
 
 ## Bibliografia
 

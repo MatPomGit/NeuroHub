@@ -8,7 +8,7 @@ Przed przepisaniem leku trzeba określić rozpoznanie, nasilenie, ryzyko samobó
 
 ### Leczenie ostre
 
-W łagodniejszej depresji pierwszym wyborem może być psychoterapia, aktywizacja behawioralna, kierowana samopomoc lub wspólna decyzja o farmakoterapii. Przy depresji umiarkowanej i ciężkiej, nawrotowej, psychotycznej albo znacznie upośledzającej funkcjonowanie lek częściej jest leczeniem pierwszego wyboru, zwykle wraz z psychoterapią. Wybór opiera się na wcześniejszej odpowiedzi, profilu szkód, chorobach współistniejących i preferencjach, nie na domniemanym „niedoborze przekaźnika”.
+W łagodniejszej depresji pierwszym wyborem może być [psychoterapia](../psychoterapia/psychoterapia_wprowadzenie.md), aktywizacja behawioralna, kierowana samopomoc lub wspólna decyzja o farmakoterapii. Przy depresji umiarkowanej i ciężkiej, nawrotowej, psychotycznej albo znacznie upośledzającej funkcjonowanie lek częściej jest leczeniem pierwszego wyboru, zwykle wraz z psychoterapią. Wybór opiera się na wcześniejszej odpowiedzi, profilu szkód, chorobach współistniejących i preferencjach, nie na domniemanym „niedoborze przekaźnika”.
 
 Na początku ustala się mierzalny cel i termin oceny. Brak poprawy wymaga sprawdzenia diagnozy, regularności, dawki, czasu, substancji i stresorów, zanim zmieni się lek. Ciężka depresja z bezpośrednim zagrożeniem życia, katatonią lub objawami psychotycznymi może wymagać pilnego leczenia szpitalnego i rozważenia ECT.
 
@@ -40,9 +40,9 @@ Po remisji leczenie trwa wystarczająco długo, aby ograniczyć nawrót; równol
 
 ## Zaburzenia związane ze stresem i traumą
 
-W PTSD pierwszeństwo mają psychoterapie skoncentrowane na traumie. SSRI lub SNRI można wybrać, gdy pacjent preferuje lek, terapia jest niedostępna, współwystępuje depresja lub objawy uniemożliwiają udział w psychoterapii. Lek nie zastępuje przepracowania utrwalonego unikania. Benzodiazepiny nie mają dobrych dowodów dla PTSD i mogą przynosić szkody. Farmakoterapia pojedynczych objawów, na przykład koszmarów, wymaga ostrożnego omówienia niepewności.
+W PTSD pierwszeństwo mają psychoterapie skoncentrowane na [traumie](../psychopatologia/trauma_ptsd.md). SSRI lub SNRI można wybrać, gdy pacjent preferuje lek, terapia jest niedostępna, współwystępuje depresja lub objawy uniemożliwiają udział w psychoterapii. Lek nie zastępuje przepracowania utrwalonego unikania. Benzodiazepiny nie mają dobrych dowodów dla PTSD i mogą przynosić szkody. Farmakoterapia pojedynczych objawów, na przykład koszmarów, wymaga ostrożnego omówienia niepewności.
 
-W ostrej reakcji na stres rutynowa farmakologiczna „profilaktyka PTSD” nie jest uzasadniona. Priorytetem są bezpieczeństwo, praktyczne wsparcie, sen i obserwacja. Leczenie podtrzymujące dotyczy utrwalonego zaburzenia i współchorobowości, a nie samego faktu ekspozycji na traumę.
+W ostrej reakcji na [stres](../psychologia_zdrowia/stres.md) rutynowa farmakologiczna „profilaktyka PTSD” nie jest uzasadniona. Priorytetem są bezpieczeństwo, praktyczne wsparcie, sen i obserwacja. Leczenie podtrzymujące dotyczy utrwalonego zaburzenia i współchorobowości, a nie samego faktu ekspozycji na traumę.
 
 ## Wspólna ocena wyniku
 

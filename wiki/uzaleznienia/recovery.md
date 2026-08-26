@@ -33,7 +33,7 @@ MI może być samodzielną krótką interwencją w niektórych mniej nasilonych 
 
 Do metod o podstawach empirycznych należą zależnie od problemu między innymi terapia poznawczo-behawioralna, zarządzanie wzmocnieniami, terapia par lub rodzin oraz ustrukturyzowane zapobieganie nawrotom. Leczenie powinno obejmować także sen, zdrowie somatyczne, sytuację mieszkaniową, zatrudnienie i współwystępujące zaburzenia.
 
-Grupa terapeutyczna pozwala ćwiczyć umiejętności, uzyskiwać informację zwrotną i zmniejszać izolację. Musi mieć jasne zasady poufności, bezpieczeństwa i reagowania na przemoc. Grupy wzajemnej pomocy, takie jak AA/NA lub SMART Recovery, mogą dostarczać wspólnoty i ciągłości, ale nie są tym samym co psychoterapia prowadzona przez wykwalifikowaną osobę. Dobór formatu zależy od preferencji, ryzyka i dostępności; brak dopasowania do jednej wspólnoty nie oznacza braku motywacji.
+Grupa terapeutyczna pozwala ćwiczyć umiejętności, uzyskiwać informację zwrotną i zmniejszać izolację. Musi mieć jasne zasady poufności, bezpieczeństwa i reagowania na przemoc. Grupy wzajemnej pomocy, takie jak AA/NA lub SMART Recovery, mogą dostarczać wspólnoty i ciągłości, ale nie są tym samym co [psychoterapia](../psychoterapia/psychoterapia_wprowadzenie.md) prowadzona przez wykwalifikowaną osobę. Dobór formatu zależy od preferencji, ryzyka i dostępności; brak dopasowania do jednej wspólnoty nie oznacza braku motywacji.
 
 ## Zdrowienie jako proces
 

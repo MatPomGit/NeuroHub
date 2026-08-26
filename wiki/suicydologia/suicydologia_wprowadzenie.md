@@ -49,7 +49,7 @@ IMV rozróżnia tło przedmotywacyjne, powstawanie myśli oraz fazę wolicjonaln
 
 ### Modele poznawcze
 
-Modele poznawcze akcentują beznadziejność, sztywność poznawczą, selektywną uwagę na porażkę, poczucie braku wyjścia oraz aktywację „trybu samobójczego” w stresie. Pozwalają wiązać analizę mechanizmu z terapią i planem bezpieczeństwa (Wenzel & Beck, 2008). Nie wolno jednak redukować kryzysu do „błędnego myślenia”: poznanie pozostaje osadzone w relacjach, zdrowiu i realnych warunkach życia.
+Modele poznawcze akcentują beznadziejność, sztywność poznawczą, selektywną uwagę na porażkę, poczucie braku wyjścia oraz aktywację „trybu samobójczego” w [stresie](../psychologia_zdrowia/stres.md). Pozwalają wiązać analizę mechanizmu z terapią i planem bezpieczeństwa (Wenzel & Beck, 2008). Nie wolno jednak redukować kryzysu do „błędnego myślenia”: poznanie pozostaje osadzone w relacjach, zdrowiu i realnych warunkach życia.
 
 ### Podatność–stres
 

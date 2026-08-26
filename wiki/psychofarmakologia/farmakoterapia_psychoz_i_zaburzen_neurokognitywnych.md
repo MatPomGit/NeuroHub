@@ -16,7 +16,7 @@ Przed uznaniem lekooporności sprawdza się rozpoznanie, dawkę, czas, ekspozycj
 
 ## Leczenie podtrzymujące i preparaty długodziałające
 
-Celem jest zapobieganie nawrotom przy zachowaniu funkcjonowania i minimalizacji szkód. Preparaty długodziałające (LAI) stabilizują ekspozycję i ujawniają pominięcie dawki; nie są karą ani odrębną klasą mechanistyczną. Należy je omawiać także wcześnie, a nie dopiero po przymusie lub wielu nawrotach. Wybór uwzględnia preferencje, tolerancję postaci doustnej, odstępy podań i fakt, że działania niepożądane iniekcji nie znikają natychmiast. Psychoterapia, rehabilitacja poznawcza i społeczna pozostają konieczne, bo leki słabiej wpływają na pierwotne objawy negatywne i funkcje poznawcze.
+Celem jest zapobieganie nawrotom przy zachowaniu funkcjonowania i minimalizacji szkód. Preparaty długodziałające (LAI) stabilizują ekspozycję i ujawniają pominięcie dawki; nie są karą ani odrębną klasą mechanistyczną. Należy je omawiać także wcześnie, a nie dopiero po przymusie lub wielu nawrotach. Wybór uwzględnia preferencje, tolerancję postaci doustnej, odstępy podań i fakt, że działania niepożądane iniekcji nie znikają natychmiast. [Psychoterapia](../psychoterapia/psychoterapia_wprowadzenie.md), rehabilitacja poznawcza i społeczna pozostają konieczne, bo leki słabiej wpływają na pierwotne objawy negatywne i funkcje poznawcze.
 
 ## Zaburzenia neurokognitywne
 

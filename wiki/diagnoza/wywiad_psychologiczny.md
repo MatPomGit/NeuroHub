@@ -39,7 +39,7 @@ Rozmowę zwykle rozpoczyna zaproszenie do swobodnego opisu problemu. Następnie 
 - strategie radzenia sobie, wyjątki od problemu, zasoby i wsparcie;
 - aktualne bezpieczeństwo, w tym ryzyko samouszkodzenia, samobójstwa lub przemocy, gdy istnieją wskazania.
 
-Zakres nie jest listą do automatycznego „odhaczenia”. Pytania intymne muszą mieć diagnostyczne uzasadnienie, a tempo powinno uwzględniać obciążenie osoby. Wywiad nie staje się psychoterapią tylko dlatego, że rozmowa przynosi ulgę.
+Zakres nie jest listą do automatycznego „odhaczenia”. Pytania intymne muszą mieć diagnostyczne uzasadnienie, a tempo powinno uwzględniać obciążenie osoby. Wywiad nie staje się [psychoterapią](../psychoterapia/psychoterapia_wprowadzenie.md) tylko dlatego, że rozmowa przynosi ulgę.
 
 ## Wywiad ustrukturyzowany
 

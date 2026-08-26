@@ -24,7 +24,7 @@ Lit ma wąskie okno terapeutyczne: wymaga kontroli stężenia, nerek, tarczycy i
 
 ## Leki przeciwlękowe i nasenne
 
-Długoterminowe leczenie wielu zaburzeń lękowych opiera się na SSRI lub SNRI i psychoterapii. Benzodiazepiny nasilają sygnalizację GABA-A, działają w ciągu minut lub godzin, ale powodują tolerancję, zależność, zaburzenia pamięci, upadki i wypadki. Leki „Z” mają podobne ryzyka w leczeniu bezsenności. Buspiron działa wolniej i ma węższy zakres wskazań; sedujące leki przeciwhistaminowe i niektóre leki przeciwdepresyjne nie są obojętne metabolicznie ani cholinolitycznie.
+Długoterminowe leczenie wielu zaburzeń lękowych opiera się na SSRI lub SNRI i [psychoterapii](../psychoterapia/psychoterapia_wprowadzenie.md). Benzodiazepiny nasilają sygnalizację GABA-A, działają w ciągu minut lub godzin, ale powodują tolerancję, zależność, zaburzenia pamięci, upadki i wypadki. Leki „Z” mają podobne ryzyka w leczeniu bezsenności. Buspiron działa wolniej i ma węższy zakres wskazań; sedujące leki przeciwhistaminowe i niektóre leki przeciwdepresyjne nie są obojętne metabolicznie ani cholinolitycznie.
 
 Nie łączy się środków sedujących lekkomyślnie z alkoholem lub opioidami. Przed leczeniem snu ocenia się bezdech, pracę zmianową, zespół niespokojnych nóg i substancje. U osób starszych, w ciąży, chorobach oddechowych i przy ryzyku upadków próg stosowania benzodiazepin powinien być wysoki. Monitoruje się senność dzienną, prowadzenie pojazdów, eskalację używania i funkcjonowanie. Po regularnym stosowaniu odstawianie musi być stopniowe, ponieważ nagła redukcja może wywołać ciężkie objawy, w tym drgawki. Dowody dla leków nasennych dotyczą głównie krótkich okresów; w przewlekłej bezsenności pierwszeństwo ma CBT-I.
 

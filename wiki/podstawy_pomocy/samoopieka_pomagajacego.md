@@ -32,7 +32,7 @@ W zawodach pomocowych wypalenie pojawia się częściej niż w innych profesjach
 **Wtórna traumatyzacja** (*secondary traumatic stress*, STS) to specyficzny zespół objawów przypominający PTSD, wynikający z regularnego słuchania o traumatycznych doświadczeniach innych. Obejmuje:
 
 - Intruzywne myśli i obrazy z opowieści klientów
-- Unikanie tematów związanych z traumą
+- Unikanie tematów związanych z [traumą](../psychopatologia/trauma_ptsd.md)
 - Nadmierne pobudzenie i drażliwość
 
 **Współczujące zmęczenie** (*compassion fatigue*) to szersza kategoria - obniżenie zdolności do empatii i troski w wyniku kumulacji obciążenia emocjonalnego.
@@ -52,7 +52,7 @@ W zawodach pomocowych wypalenie pojawia się częściej niż w innych profesjach
 
 - Rozpoznawanie i nazywanie własnych emocji
 - Regularne superwizje
-- Psychoterapia własna (wskazana lub obowiązkowa w wielu nurtach)
+- [Psychoterapia](../psychoterapia/psychoterapia_wprowadzenie.md) własna (wskazana lub obowiązkowa w wielu nurtach)
 - Kontakt z bliskimi poza rolą zawodową
 
 ### Obszar poznawczy

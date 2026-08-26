@@ -14,7 +14,7 @@ ADOS-2 i DIVA-5 wspierają diagnozę różnych stanów neurorozwojowych i wykorz
 
 ADOS-2 obejmuje pięć modułów dobieranych głównie według poziomu języka ekspresyjnego i wieku. Diagnosta stwarza standaryzowane sytuacje pozwalające obserwować komunikację społeczną, wzajemność interakcji, zabawę lub wyobraźnię oraz ograniczone i powtarzalne zachowania. Algorytm porządkuje obserwacje i może dostarczyć klasyfikacji lub zakresu niepokoju, zależnie od modułu.
 
-Badanie przedstawia próbkę zachowania w konkretnym czasie i relacji. Lęk, nieznajomość języka, niepełnosprawność intelektualna, trudności sensoryczne, psychoza, trauma i inne stany mogą wpływać na zachowanie. Z kolei osoba dobrze maskująca trudności może nie ujawnić pełnego obrazu podczas jednej sesji. Metaanalizy wskazują dobrą, lecz nie doskonałą trafność diagnostyczną oraz gorsze parametry w niektórych złożonych próbach klinicznych niż w badaniach opracowujących narzędzie.
+Badanie przedstawia próbkę zachowania w konkretnym czasie i relacji. Lęk, nieznajomość języka, niepełnosprawność intelektualna, trudności sensoryczne, psychoza, [trauma](../psychopatologia/trauma_ptsd.md) i inne stany mogą wpływać na zachowanie. Z kolei osoba dobrze maskująca trudności może nie ujawnić pełnego obrazu podczas jednej sesji. Metaanalizy wskazują dobrą, lecz nie doskonałą trafność diagnostyczną oraz gorsze parametry w niektórych złożonych próbach klinicznych niż w badaniach opracowujących narzędzie.
 
 ADOS-2 powinien prowadzić przeszkolony specjalista kompetentny zarówno w standaryzowanej administracji i kodowaniu, jak i w diagnostyce autyzmu. Sam kurs nie zastępuje uprawnień zawodowych, superwizji, ćwiczenia zgodności kodowania ani znajomości rozwoju i diagnozy różnicowej.
 

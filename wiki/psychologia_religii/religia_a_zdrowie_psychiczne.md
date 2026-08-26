@@ -19,7 +19,7 @@ Badania obserwacyjne najczęściej wykazują niewielkie, zróżnicowane związki
 
 ## Religijne radzenie sobie
 
-**Religijne radzenie sobie** (religious coping) to używanie przekonań, praktyk, relacji z sacrum i wspólnoty w odpowiedzi na stres. Określenia „pozytywne” i „negatywne” opisują wzorce oraz ich typowe korelaty, a nie moralną wartość osoby.
+**Religijne radzenie sobie** (religious coping) to używanie przekonań, praktyk, relacji z sacrum i wspólnoty w odpowiedzi na [stres](../psychologia_zdrowia/stres.md). Określenia „pozytywne” i „negatywne” opisują wzorce oraz ich typowe korelaty, a nie moralną wartość osoby.
 
 - **Pozytywne radzenie sobie** obejmuje życzliwą reinterpretację, poszukiwanie wsparcia duchowego, współpracę z Bogiem, przebaczenie i więź ze wspólnotą. Może sprzyjać nadziei i działaniu, ale nie zastępuje opieki medycznej ani rozwiązania materialnego problemu.
 - **Negatywne radzenie sobie** obejmuje poczucie opuszczenia lub ukarania przez Boga, demoniczne wyjaśnianie trudności, konflikt we wspólnocie oraz trwawe zwątpienie przeżywane jako zagrożenie. Termin nie znaczy, że każda wątpliwość jest szkodliwa; krótkotrwałe zmaganie może prowadzić do zmiany i integracji.

@@ -34,7 +34,7 @@ Radzenie sobie obejmuje zmienne wysiłki poznawcze i behawioralne służące zar
 - strategie ukierunkowane na znaczenie pomagają podtrzymać wartości i cele;
 - unikanie może krótkotrwale chronić przed przeciążeniem, lecz utrwalone bywa kosztowne, gdy opóźnia leczenie albo rozwiązywanie problemu.
 
-Nie ma strategii zawsze „dojrzałej”. Planowanie pomaga przy wymaganiu możliwym do zmiany, natomiast przy nieodwracalnej stracie ważniejsze mogą być regulacja emocji, akceptacja i wsparcie. O skuteczności świadczy dopasowanie do sytuacji, elastyczność oraz skutki krótko- i długoterminowe (Bonanno i Burton, 2013).
+Nie ma strategii zawsze „dojrzałej”. Planowanie pomaga przy wymaganiu możliwym do zmiany, natomiast przy nieodwracalnej stracie ważniejsze mogą być [regulacja emocji](../emocje/regulacja.md), akceptacja i wsparcie. O skuteczności świadczy dopasowanie do sytuacji, elastyczność oraz skutki krótko- i długoterminowe (Bonanno i Burton, 2013).
 
 ## Wsparcie społeczne
 
@@ -52,7 +52,7 @@ Pomoc indywidualna może wspierać regenerację i granice, ale nie naprawi trwal
 
 ## Dobór interwencji
 
-Najpierw określa się stresor, możliwość kontroli, zasoby i bezpieczeństwo. Przy problemie modyfikowalnym przydatne są planowanie i usuwanie barier; przy chronicznym stresorze społecznym potrzebna bywa zmiana organizacyjna lub pomoc prawna; po traumie priorytetem są bezpieczeństwo i ocena kliniczna. Techniki relaksacyjne mogą regulować pobudzenie, ale nie zastępują usunięcia zagrożenia.
+Najpierw określa się stresor, możliwość kontroli, zasoby i bezpieczeństwo. Przy problemie modyfikowalnym przydatne są planowanie i usuwanie barier; przy chronicznym stresorze społecznym potrzebna bywa zmiana organizacyjna lub pomoc prawna; po [traumie](../psychopatologia/trauma_ptsd.md) priorytetem są bezpieczeństwo i ocena kliniczna. Techniki relaksacyjne mogą regulować pobudzenie, ale nie zastępują usunięcia zagrożenia.
 
 Utrzymujące się objawy, myśli samobójcze, przemoc, znaczne zaburzenie funkcjonowania albo reakcje pourazowe wymagają profesjonalnej oceny. Normalizowanie reakcji nie oznacza pozostawiania osoby bez pomocy.
 

@@ -2,7 +2,7 @@
 
 ## Zakres i język leczenia
 
-Neuroróżnorodność opisuje zróżnicowanie rozwoju i funkcjonowania, nie jedną chorobę wymagającą usunięcia. Brak leku „na całe rozpoznanie” nie oznacza braku skutecznej pomocy. Leki mogą zmniejszać określone objawy lub leczyć współwystępujące zaburzenie; interwencje psychologiczne, edukacyjne, środowiskowe, żywieniowe i somatyczne często pozostają podstawą. Informacje o mechanizmach zawiera artykuł [Główne klasy leków psychotropowych](./klasy_lekow_psychotropowych.md).
+[Neuroróżnorodność](../neuroroznorodnosc/wprowadzenie.md) opisuje zróżnicowanie rozwoju i funkcjonowania, nie jedną chorobę wymagającą usunięcia. Brak leku „na całe rozpoznanie” nie oznacza braku skutecznej pomocy. Leki mogą zmniejszać określone objawy lub leczyć współwystępujące zaburzenie; interwencje psychologiczne, edukacyjne, środowiskowe, żywieniowe i somatyczne często pozostają podstawą. Informacje o mechanizmach zawiera artykuł [Główne klasy leków psychotropowych](./klasy_lekow_psychotropowych.md).
 
 **Wskazanie zarejestrowane** zależy od preparatu, wieku, kraju i aktualnej charakterystyki produktu. **Stosowanie poza wskazaniami rejestracyjnymi (off-label)** może być racjonalne, ale wymaga jawnego omówienia dowodów, alternatyw i niepewności; nie jest ani automatycznie błędem, ani dowodem skuteczności.
 
@@ -20,7 +20,7 @@ Przed leczeniem ocenia się serce, ciśnienie, tętno, sen, tik, nastrój, psych
 
 ## Zaburzenia odżywiania
 
-W jadłowstręcie psychicznym żaden lek nie zastępuje odżywienia, monitorowania somatycznego i psychoterapii. Odwodnienie, zaburzenia elektrolitowe, bradykardia i wydłużenie QT zmieniają bezpieczeństwo psychotropów. Wybrane leki mogą dotyczyć współwystępującej depresji lub lęku, lecz ich działanie bywa ograniczone przy ciężkim niedożywieniu.
+W jadłowstręcie psychicznym żaden lek nie zastępuje odżywienia, monitorowania somatycznego i [psychoterapii](../psychoterapia/psychoterapia_wprowadzenie.md). Odwodnienie, zaburzenia elektrolitowe, bradykardia i wydłużenie QT zmieniają bezpieczeństwo psychotropów. Wybrane leki mogą dotyczyć współwystępującej depresji lub lęku, lecz ich działanie bywa ograniczone przy ciężkim niedożywieniu.
 
 W bulimii i zaburzeniu z napadami objadania niektóre leki mają dowody i, zależnie od kraju, rejestrację, zawsze jako część szerszego leczenia. Bupropion jest przeciwwskazany w jadłowstręcie i bulimii z powodu ryzyka drgawek. Lisdexamfetamina stosowana w zaburzeniu z napadami objadania wymaga oceny sercowej i ryzyka niewłaściwego używania. Wynik obejmuje stan odżywienia, zachowania kompensacyjne i funkcjonowanie, nie samą zmianę masy.
 

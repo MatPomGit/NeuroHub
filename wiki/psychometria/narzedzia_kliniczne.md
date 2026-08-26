@@ -24,7 +24,7 @@ PHQ-9 opisuje częstość dziewięciu grup objawów depresyjnych w ostatnich dw�
 
 ### GAD-7
 
-GAD-7 ocenia nasilenie objawów lęku w ostatnich dwóch tygodniach. W badaniu walidacyjnym próg 10 osiągnął czułość 89% i swoistość 82% dla zaburzenia lękowego uogólnionego. Podwyższony wynik nie odróżnia jednak automatycznie GAD od innych zaburzeń lękowych, depresji, reakcji na stres, działania substancji czy przyczyn somatycznych.
+GAD-7 ocenia nasilenie objawów lęku w ostatnich dwóch tygodniach. W badaniu walidacyjnym próg 10 osiągnął czułość 89% i swoistość 82% dla zaburzenia lękowego uogólnionego. Podwyższony wynik nie odróżnia jednak automatycznie GAD od innych zaburzeń lękowych, depresji, reakcji na [stres](../psychologia_zdrowia/stres.md), działania substancji czy przyczyn somatycznych.
 
 ### PCL-5
 

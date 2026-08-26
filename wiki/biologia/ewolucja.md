@@ -29,7 +29,7 @@ Hipotezy o wyspecjalizowanych mechanizmach przetwarzania należy odróżniać od
 
 ## Niedopasowanie
 
-Niedopasowanie zachodzi, gdy mechanizm ukształtowany w dawnych warunkach daje odmienne skutki w środowisku współczesnym. Hipotezy dotyczące żywności wysokoprzetworzonej lub sztucznie silnych bodźców nagradzających mogą być płodne, jeśli wskazują konkretny mechanizm i porównanie. Nie wolno jednak uznawać otyłości, depresji czy uzależnienia za prosty skutek „życia niezgodnego z naturą”; każde z tych zjawisk ma wieloczynnikową etiologię.
+Niedopasowanie zachodzi, gdy mechanizm ukształtowany w dawnych warunkach daje odmienne skutki w środowisku współczesnym. Hipotezy dotyczące żywności wysokoprzetworzonej lub sztucznie silnych bodźców nagradzających mogą być płodne, jeśli wskazują konkretny mechanizm i porównanie. Nie wolno jednak uznawać otyłości, depresji czy [uzależnienia](../uzaleznienia/mechanizmy_i_diagnoza_uzaleznien.md) za prosty skutek „życia niezgodnego z naturą”; każde z tych zjawisk ma wieloczynnikową etiologię.
 
 ## Jak testować hipotezy ewolucyjne?
 

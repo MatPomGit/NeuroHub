@@ -39,7 +39,7 @@ Poziom potrzeb określa przede wszystkim funkcjonowanie adaptacyjne, a nie sama 
 
 ### Stres i zdrowie psychiczne
 
-Przewlekły stres może ograniczać uwagę, przypominanie i elastyczność poznawczą; depresja wiąże się między innymi ze spadkiem energii i tempa, a lęk egzaminacyjny zajmuje zasoby pamięci roboczej. Nagła zmiana wyników, absencja, dolegliwości somatyczne lub wycofanie wymagają rozmowy i oceny bezpieczeństwa, nie automatycznej diagnozy dysleksji czy ADHD. Gdy trudności mogą wynikać z [przemocy lub klimatu szkoły](klimat_szkolny.md), interwencja nie może ograniczać się do „wzmacniania odporności” ucznia.
+Przewlekły [stres](../psychologia_zdrowia/stres.md) może ograniczać uwagę, przypominanie i elastyczność poznawczą; depresja wiąże się między innymi ze spadkiem energii i tempa, a lęk egzaminacyjny zajmuje zasoby pamięci roboczej. Nagła zmiana wyników, absencja, dolegliwości somatyczne lub wycofanie wymagają rozmowy i oceny bezpieczeństwa, nie automatycznej diagnozy dysleksji czy ADHD. Gdy trudności mogą wynikać z [przemocy lub klimatu szkoły](klimat_szkolny.md), interwencja nie może ograniczać się do „wzmacniania odporności” ucznia.
 
 ## Ocena funkcjonalna zamiast kolekcjonowania etykiet
 

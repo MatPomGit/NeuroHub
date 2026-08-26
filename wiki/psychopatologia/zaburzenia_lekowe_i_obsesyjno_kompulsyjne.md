@@ -35,14 +35,14 @@ Ocena obejmuje czas, bodźce wyzwalające, funkcję rytuałów, stopień wglądu
 - realistyczne obawy i reakcje na przewlekłe zagrożenie;
 - OCD z zaburzeniem psychotycznym (obsesja nie jest tym samym co urojenie), depresją, tikami i zachowaniami powtarzalnymi w autyzmie;
 - napady paniki z zaburzeniami rytmu serca, chorobami tarczycy, padaczką oraz działaniem substancji;
-- lęk społeczny z trudnościami komunikacji wynikającymi z neuroróżnorodności;
+- lęk społeczny z trudnościami komunikacji wynikającymi z [neuroróżnorodności](../neuroroznorodnosc/wprowadzenie.md);
 - gromadzenie z kolekcjonowaniem, ubóstwem i zaburzeniami poznawczymi.
 
 Współwystępowanie jest częste, a ocenę ryzyka samobójczego prowadzi się przy znacznym cierpieniu, depresji lub utracie funkcjonowania.
 
 ## Leczenie
 
-W zaburzeniach lękowych podstawą psychoterapii jest zwykle terapia poznawczo-behawioralna z odpowiednio planowaną ekspozycją. W OCD metodą pierwszego wyboru jest ekspozycja z powstrzymaniem reakcji (ERP), która wymaga wspólnego ustalenia hierarchii i nie polega na przymusowym zalewaniu lękiem. Skuteczne bywają SSRI; OCD często wymaga innej strategii dawkowania i dłuższej próby niż depresja. Dobór leczenia zależy od rozpoznania, nasilenia, preferencji i współchorobowości.
+W zaburzeniach lękowych podstawą [psychoterapii](../psychoterapia/psychoterapia_wprowadzenie.md) jest zwykle terapia poznawczo-behawioralna z odpowiednio planowaną ekspozycją. W OCD metodą pierwszego wyboru jest ekspozycja z powstrzymaniem reakcji (ERP), która wymaga wspólnego ustalenia hierarchii i nie polega na przymusowym zalewaniu lękiem. Skuteczne bywają SSRI; OCD często wymaga innej strategii dawkowania i dłuższej próby niż depresja. Dobór leczenia zależy od rozpoznania, nasilenia, preferencji i współchorobowości.
 
 ## Bibliografia
 

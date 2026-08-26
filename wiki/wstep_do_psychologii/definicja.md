@@ -7,7 +7,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Neuropsychologia
 
-Neuropsychologia to dziedzina nauki zajmująca się badaniem relacji między strukturą i funkcją mózgu a procesami poznawczymi, emocjonalnymi i zachowaniem. Jej celem jest zrozumienie, jak uszkodzenia mózgu wpływają na funkcjonowanie psychiczne człowieka.
+[Neuropsychologia](../neuropsychologia/diagnoza_i_rehabilitacja_neuropsychologiczna.md) to dziedzina nauki zajmująca się badaniem relacji między strukturą i funkcją mózgu a procesami poznawczymi, emocjonalnymi i zachowaniem. Jej celem jest zrozumienie, jak uszkodzenia mózgu wpływają na funkcjonowanie psychiczne człowieka.
 
 Wąskie rozumienie neuropsychologii ogranicza się do **neuropsychologii klinicznej** - diagnozowania i rehabilitacji pacjentów z uszkodzeniami mózgu. Szersze podejście obejmuje także **neuropsychologię eksperymentalną** (badania na zdrowych osobach), **neuropsychologię rozwojową** oraz **kognitywistykę**.
 

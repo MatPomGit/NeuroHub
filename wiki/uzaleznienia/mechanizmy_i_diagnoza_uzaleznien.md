@@ -34,13 +34,13 @@ Na początku zachowanie bywa wrażliwe na oczekiwany wynik. Powtarzanie w stabil
 
 ## Głód, stres i kontrola
 
-**Głód substancji** to zmienne w czasie, subiektywne pragnienie użycia. Może obejmować myśli, emocje i reakcje cielesne, ale nie musi prowadzić do działania. Nasilają go wskazówki skojarzone z używaniem, dostępność, stres i oczekiwanie ulgi. Strategie radzenia sobie powinny uwzględniać tę falową naturę, zamiast przedstawiać głód jako dowód porażki.
+**Głód substancji** to zmienne w czasie, subiektywne pragnienie użycia. Może obejmować myśli, emocje i reakcje cielesne, ale nie musi prowadzić do działania. Nasilają go wskazówki skojarzone z używaniem, dostępność, [stres](../psychologia_zdrowia/stres.md) i oczekiwanie ulgi. Strategie radzenia sobie powinny uwzględniać tę falową naturę, zamiast przedstawiać głód jako dowód porażki.
 
 Kontrola nie mieści się w jednym „ośrodku”. Planowanie, hamowanie, pamięć robocza i monitorowanie skutków zależą od sieci przedczołowych współpracujących z układami motywacji i pamięci. Sen, stres, zatrucie, zespół abstynencyjny i silne emocje mogą czasowo osłabiać wykonanie zamiaru. Różnice te nie znoszą sprawczości, lecz wyjaśniają, dlaczego sama instrukcja „przestań” bywa nieskuteczna.
 
 ## Kontekst społeczny i rozwój
 
-Dostępność i cena substancji, reklama, normy grupowe, nierówności, wykluczenie, trauma, warunki mieszkaniowe oraz dostęp do opieki kształtują ekspozycję i możliwość zmiany. Relacje mogą dostarczać substancji i wzmacniać używanie, ale mogą też zapewniać bezpieczeństwo, sens i pomoc. Wyjaśnienie neurobiologiczne bez tego kontekstu jest niepełne; wyjaśnienie wyłącznie społeczne pomija natomiast działanie farmakologiczne i neuroadaptację.
+Dostępność i cena substancji, reklama, normy grupowe, nierówności, wykluczenie, [trauma](../psychopatologia/trauma_ptsd.md), warunki mieszkaniowe oraz dostęp do opieki kształtują ekspozycję i możliwość zmiany. Relacje mogą dostarczać substancji i wzmacniać używanie, ale mogą też zapewniać bezpieczeństwo, sens i pomoc. Wyjaśnienie neurobiologiczne bez tego kontekstu jest niepełne; wyjaśnienie wyłącznie społeczne pomija natomiast działanie farmakologiczne i neuroadaptację.
 
 ## Tolerancja i zespół abstynencyjny
 

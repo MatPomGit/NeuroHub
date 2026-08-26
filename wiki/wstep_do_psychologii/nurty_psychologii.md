@@ -35,7 +35,7 @@ Psychoanaliza (S. Freud) i podejścia psychodynamiczne zakładają, że część
 
 ### Przykład praktyczny
 
-U pacjenta z nawracającymi konfliktami w relacjach analizuje się powtarzające się wzorce przywiązaniowe i mechanizmy obronne (np. dewaluacja po idealizacji), aby zwiększyć mentalizację i poprawić regulację emocji.
+U pacjenta z nawracającymi konfliktami w relacjach analizuje się powtarzające się wzorce przywiązaniowe i mechanizmy obronne (np. dewaluacja po idealizacji), aby zwiększyć mentalizację i poprawić [regulację emocji](../emocje/regulacja.md).
 
 ## 4. Psychologia humanistyczna i egzystencjalna - podmiotowość i sens
 

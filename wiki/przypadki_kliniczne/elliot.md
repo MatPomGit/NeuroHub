@@ -49,7 +49,7 @@ W dyskursie publicznym emocje bywają przeciwstawiane „rozsądkowi”. Elliot 
 
 To przesuwa paradygmat z „emocje przeszkadzają myśleniu” na „emocje kalibrują myślenie do realnych konsekwencji”.
 
-Elliot pozostaje jednym z najbardziej wpływowych przypadków neuropsychologii decyzji. Jego historia wskazuje, że integralność vmPFC/OFC jest krytyczna dla łączenia wiedzy z działaniem, a diagnoza kliniczna musi obejmować realne funkcjonowanie społeczne, nie tylko wyniki testowe.
+Elliot pozostaje jednym z najbardziej wpływowych przypadków [neuropsychologii](../neuropsychologia/diagnoza_i_rehabilitacja_neuropsychologiczna.md) decyzji. Jego historia wskazuje, że integralność vmPFC/OFC jest krytyczna dla łączenia wiedzy z działaniem, a diagnoza kliniczna musi obejmować realne funkcjonowanie społeczne, nie tylko wyniki testowe.
 
 ## Bibliografia
 

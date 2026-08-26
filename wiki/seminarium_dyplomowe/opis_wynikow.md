@@ -37,7 +37,7 @@ Wyniki prezentuj w kolejności odpowiadającej kolejności pytań/hipotez badawc
 
 ### t-test
 
-*Uczniowie z grupy interwencyjnej uzyskali istotnie wyższe wyniki w zakresie radzenia sobie ze stresem (M = 38,4, SD = 7,2) niż uczniowie z grupy kontrolnej (M = 32,1, SD = 8,9), t(148) = 4,21, p < .001, d = 0,77, 95% CI [3,3, 9,3].*
+*Uczniowie z grupy interwencyjnej uzyskali istotnie wyższe wyniki w zakresie radzenia sobie ze [stresem](../psychologia_zdrowia/stres.md) (M = 38,4, SD = 7,2) niż uczniowie z grupy kontrolnej (M = 32,1, SD = 8,9), t(148) = 4,21, p < .001, d = 0,77, 95% CI [3,3, 9,3].*
 
 ### Korelacja
 

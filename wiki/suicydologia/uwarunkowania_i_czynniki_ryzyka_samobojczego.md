@@ -13,7 +13,7 @@ Zachowania samobójcze powstają w wyniku zmiennej interakcji podatności, aktua
 
 ## Od badania populacji do oceny osoby
 
-Metaanalizy wskazują liczne korelaty, ale ich zdolność przewidywania rzadkiego zachowania jest ograniczona (Franklin et al., 2017). W praktyce klinicznej informacja o diagnozie, traumie, genie czy biomarkerze nabiera znaczenia dopiero w połączeniu z aktualnymi myślami, zamiarem, planem, dostępem do środków, historią zachowań, zmianą stanu, wsparciem i możliwością zapewnienia bezpieczeństwa. Czynniki długoterminowe pomagają tworzyć formulację; decyzje pilne wymagają danych aktualnych i dynamicznych.
+Metaanalizy wskazują liczne korelaty, ale ich zdolność przewidywania rzadkiego zachowania jest ograniczona (Franklin et al., 2017). W praktyce klinicznej informacja o diagnozie, [traumie](../psychopatologia/trauma_ptsd.md), genie czy biomarkerze nabiera znaczenia dopiero w połączeniu z aktualnymi myślami, zamiarem, planem, dostępem do środków, historią zachowań, zmianą stanu, wsparciem i możliwością zapewnienia bezpieczeństwa. Czynniki długoterminowe pomagają tworzyć formulację; decyzje pilne wymagają danych aktualnych i dynamicznych.
 
 ## Czynniki biologiczne
 
@@ -25,11 +25,11 @@ Wyniki są heterogeniczne i często nieswoiste. Nie istnieje pojedynczy test lab
 
 Badania rodzinne i bliźniąt wskazują na częściową odziedziczalność podatności na zachowania samobójcze, częściowo niezależną od dziedziczenia zaburzeń psychicznych. Jest to architektura wielogenowa: liczne warianty mają bardzo małe efekty, zależne od środowiska. Wynik poligeniczny nie jest obecnie samodzielnym narzędziem klinicznego przewidywania.
 
-Zmiany epigenetyczne opisują regulację ekspresji genów powiązaną m.in. ze stresem. Badania pośmiertne nie pozwalają łatwo odróżnić przyczyny od skutku, wpływu leczenia, choroby i warunków życia. Epigenetyka nie oznacza, że doświadczenie przemocy biologicznie „naznacza na zawsze”; plastyczność i środowisko ochronne pozostają istotne (Turecki & Meaney, 2016).
+Zmiany epigenetyczne opisują regulację ekspresji genów powiązaną m.in. ze [stresem](../psychologia_zdrowia/stres.md). Badania pośmiertne nie pozwalają łatwo odróżnić przyczyny od skutku, wpływu leczenia, choroby i warunków życia. Epigenetyka nie oznacza, że doświadczenie przemocy biologicznie „naznacza na zawsze”; plastyczność i środowisko ochronne pozostają istotne (Turecki & Meaney, 2016).
 
 ## Czynniki psychologiczne i kliniczne
 
-Znaczenie mogą mieć beznadziejność, poczucie uwięzienia, gwałtowne pobudzenie, impulsywność w określonym kontekście, sztywność poznawcza, trudności regulacji emocji i utrata poczucia przynależności. Są to mechanizmy możliwe do zmiany, a nie cechy charakteru.
+Znaczenie mogą mieć beznadziejność, poczucie uwięzienia, gwałtowne pobudzenie, impulsywność w określonym kontekście, sztywność poznawcza, trudności [regulacji emocji](../emocje/regulacja.md) i utrata poczucia przynależności. Są to mechanizmy możliwe do zmiany, a nie cechy charakteru.
 
 Depresja, choroba afektywna dwubiegunowa, zaburzenia związane z używaniem substancji, psychozy, PTSD, zaburzenia odżywiania i niektóre zaburzenia osobowości wiążą się grupowo z podwyższonym ryzykiem. Diagnoza sama nie określa aktualnego zagrożenia; większość osób z rozpoznaniem nie umrze samobójczo. Należy oceniać nasilenie i zmianę objawów, współchorobowość, bezsenność, pobudzenie, używanie substancji, ból, niedawne wypisy i przerwy w leczeniu. Redukowanie osoby do diagnozy zwiększa stygmatyzację i może utrudniać szukanie pomocy.
 

@@ -68,7 +68,7 @@ Po otrzymaniu postanowienia biegły:
 4. określa, jakie dane mogłyby każdą hipotezę potwierdzić albo podważyć;
 5. występuje do organu o doprecyzowanie zlecenia, jeśli jest niejednoznaczne lub wykracza poza kompetencje psychologa.
 
-Przykładowo rozbieżność między relacją a dokumentacją może wynikać z celowego zniekształcania, ale także z upływu czasu, stresu, sposobu zadawania pytań, zaburzeń pamięci, różnic językowych lub błędu dokumentacji. Hipoteza wygodna nie może stać się hipotezą domyślną.
+Przykładowo rozbieżność między relacją a dokumentacją może wynikać z celowego zniekształcania, ale także z upływu czasu, [stresu](../psychologia_zdrowia/stres.md), sposobu zadawania pytań, zaburzeń pamięci, różnic językowych lub błędu dokumentacji. Hipoteza wygodna nie może stać się hipotezą domyślną.
 
 ## 4. Źródła danych, dobór metod i analiza akt
 

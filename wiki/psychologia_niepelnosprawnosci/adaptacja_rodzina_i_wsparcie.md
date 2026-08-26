@@ -16,7 +16,7 @@ Adaptacja do niepełnosprawności jest dynamicznym procesem dopasowywania celów
 
 Po nabyciu niepełnosprawności mogą pojawić się smutek, złość, lęk, ulga, dezorientacja albo żałoba po utraconych funkcjach i rolach. Nie tworzą one jednak uniwersalnej sekwencji. Modele obowiązkowych etapów mogą błędnie przedstawiać powrót trudnych emocji jako regres i skłaniać specjalistę do oczekiwania „akceptacji” według narzuconego harmonogramu. Badania nad przystosowaniem wskazują raczej na wiele trajektorii oraz na wpływ procesów poznawczych, zasobów i kontekstu (Livneh & Martz, 2012).
 
-W ujęciu transakcyjnym stres zależy od oceny wymagań oraz możliwości poradzenia sobie z nimi. Strategie skoncentrowane na problemie mogą służyć zmianie dostępnej sytuacji, a strategie skoncentrowane na emocjach pomagają regulować reakcję na to, czego obecnie zmienić się nie da. Żadna strategia nie jest zawsze dobra lub zła: unikanie może dać krótką przerwę, lecz utrzymywane długo może ograniczać życie; akceptacja nie powinna oznaczać rezygnacji z praw.
+W ujęciu transakcyjnym [stres](../psychologia_zdrowia/stres.md) zależy od oceny wymagań oraz możliwości poradzenia sobie z nimi. Strategie skoncentrowane na problemie mogą służyć zmianie dostępnej sytuacji, a strategie skoncentrowane na emocjach pomagają regulować reakcję na to, czego obecnie zmienić się nie da. Żadna strategia nie jest zawsze dobra lub zła: unikanie może dać krótką przerwę, lecz utrzymywane długo może ograniczać życie; akceptacja nie powinna oznaczać rezygnacji z praw.
 
 ## Źródła stresu i zasoby
 
@@ -38,7 +38,7 @@ Rodzeństwo i dzieci nie powinny automatycznie przejmować obowiązków przekrac
 
 ### Wsparcie osoby z niepełnosprawnością
 
-Plan ustala się bezpośrednio z osobą, w dostępnym sposobie komunikacji. Może obejmować leczenie wybranych objawów, psychoterapię, rehabilitację, AAC, asystencję osobistą, mieszkalnictwo wspomagane, pomoc w nauce lub pracy oraz usuwanie barier. Celem jest realizacja jej własnych wartości i uczestnictwo, nie wygoda otoczenia. Poufności nie należy automatycznie rozszerzać na rodzinę; zakres udziału bliskich uzgadnia się z osobą, z uwzględnieniem obowiązujących zasad bezpieczeństwa.
+Plan ustala się bezpośrednio z osobą, w dostępnym sposobie komunikacji. Może obejmować leczenie wybranych objawów, [psychoterapię](../psychoterapia/psychoterapia_wprowadzenie.md), rehabilitację, AAC, asystencję osobistą, mieszkalnictwo wspomagane, pomoc w nauce lub pracy oraz usuwanie barier. Celem jest realizacja jej własnych wartości i uczestnictwo, nie wygoda otoczenia. Poufności nie należy automatycznie rozszerzać na rodzinę; zakres udziału bliskich uzgadnia się z osobą, z uwzględnieniem obowiązujących zasad bezpieczeństwa.
 
 ### Wsparcie opiekuna
 
@@ -48,7 +48,7 @@ Potrzeby obu osób mogą być zgodne, ale nie są tożsame. Gdy pojawia się kon
 
 ## Pomoc psychologiczna i systemowa
 
-Pomoc zaczyna się od oceny nastroju, ryzyka, bólu, snu, relacji, zasobów materialnych, dostępności usług oraz celów osoby. Psychoterapia może wspierać elastyczne radzenie sobie, pracę z traumą, zmianę katastrofizujących przekonań i działanie zgodne z wartościami. Grupy rówieśnicze mogą dostarczać wiedzy i przeciwdziałać izolacji. Doniesienia o wzroście po trudnym doświadczeniu należy przyjmować bez narzucania narracji heroicznej: brak „wzrostu potraumatycznego” nie jest niepowodzeniem.
+Pomoc zaczyna się od oceny nastroju, ryzyka, bólu, snu, relacji, zasobów materialnych, dostępności usług oraz celów osoby. Psychoterapia może wspierać elastyczne radzenie sobie, pracę z [traumą](../psychopatologia/trauma_ptsd.md), zmianę katastrofizujących przekonań i działanie zgodne z wartościami. Grupy rówieśnicze mogą dostarczać wiedzy i przeciwdziałać izolacji. Doniesienia o wzroście po trudnym doświadczeniu należy przyjmować bez narzucania narracji heroicznej: brak „wzrostu potraumatycznego” nie jest niepowodzeniem.
 
 Skuteczny plan łączy interwencję indywidualną z działaniami środowiskowymi. Niekiedy ważniejsza od kolejnej sesji terapii będzie dostępna komunikacja, świadczenie, asystencja albo zmiana organizacji pracy. Rezultaty warto oceniać według celów osoby, obciążenia opiekuna, uczestnictwa i [jakości życia](../psychologia_zdrowia/choroby_przewlekle.md#jakosc-zycia-zwiazana-ze-zdrowiem), a nie wyłącznie według redukcji objawów.
 

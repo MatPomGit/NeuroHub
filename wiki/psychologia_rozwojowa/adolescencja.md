@@ -15,7 +15,7 @@ Adolescencja rozpoczyna się wraz z dojrzewaniem biologicznym, ale jej koniec za
 
 Aktywacja osi hormonalnych prowadzi do zmian ciała, dojrzewania płciowego i przebudowy rytmu snu. Znaczenie psychologiczne zależy od tempa zmian, obrazu ciała, zdrowia, reakcji otoczenia i zgodności doświadczenia z oczekiwaniami dotyczącymi płci. Wczesne lub późne dojrzewanie może zwiększać ryzyko trudności w pewnych grupach, lecz nie przesądza wyniku. Presja wyglądu, stygmatyzacja i molestowanie są mechanizmami społecznymi, a nie ubocznym detalem biologii.
 
-Przesunięcie rytmu okołodobowego sprzyja późniejszemu zasypianiu, podczas gdy wczesne rozpoczynanie lekcji skraca sen. Niewyspanie pogarsza uwagę i regulację emocji, dlatego zachowanie w szkole nie powinno być interpretowane wyłącznie jako brak motywacji.
+Przesunięcie rytmu okołodobowego sprzyja późniejszemu zasypianiu, podczas gdy wczesne rozpoczynanie lekcji skraca sen. Niewyspanie pogarsza uwagę i [regulację emocji](../emocje/regulacja.md), dlatego zachowanie w szkole nie powinno być interpretowane wyłącznie jako brak motywacji.
 
 ## Mózg, funkcje wykonawcze i podejmowanie decyzji
 

@@ -12,7 +12,7 @@ evidenceCutoffDate: 2025-12-31
 - Wynik zależy od diagnozy, mechaniki, dawki, wsparcia specjalisty, komparatora i badanego rezultatu. „Gry terapeutyczne” nie są jednorodną metodą.
 - Najbardziej wiarygodne zastosowania wymagają zdefiniowanego mechanizmu działania i pomiaru funkcjonowania poza grą, nie tylko wyniku w grze.
 - Esport obejmuje różne dyscypliny, poziomy zawodnictwa i warunki zatrudnienia. Trening gracza strzelanki zespołowej nie jest odpowiednikiem treningu zawodnika gry strategicznej lub sportowej.
-- Sen, obciążenie, stres, urazy przeciążeniowe i dynamika drużyny są elementami przygotowania, a nie dodatkami do treningu mechanicznemu.
+- Sen, obciążenie, [stres](../psychologia_zdrowia/stres.md), urazy przeciążeniowe i dynamika drużyny są elementami przygotowania, a nie dodatkami do treningu mechanicznemu.
 
 ## Trzy sposoby użycia mechanik gier
 

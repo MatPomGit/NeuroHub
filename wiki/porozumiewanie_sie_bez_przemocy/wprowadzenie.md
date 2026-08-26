@@ -14,7 +14,7 @@ aliases:
 
 ## Wprowadzenie
 
-**Porozumienie bez Przemocy** (ang. *Nonviolent Communication*, NVC) jest opracowanym przez Marshalla B. Rosenberga modelem prowadzenia rozmowy i namysłu nad własną reakcją. Uczy rozdzielania opisu zdarzenia od jego oceny, nazywania uczuć i potrzeb oraz formułowania wykonalnych próśb. Nie jest teorią osobowości, metodą diagnozy ani samodzielną psychoterapią.
+**Porozumienie bez Przemocy** (ang. *Nonviolent Communication*, NVC) jest opracowanym przez Marshalla B. Rosenberga modelem prowadzenia rozmowy i namysłu nad własną reakcją. Uczy rozdzielania opisu zdarzenia od jego oceny, nazywania uczuć i potrzeb oraz formułowania wykonalnych próśb. Nie jest teorią osobowości, metodą diagnozy ani samodzielną [psychoterapią](../psychoterapia/psychoterapia_wprowadzenie.md).
 
 Nazwa „bez przemocy” odwołuje się do tradycji niestosowania przemocy i do ograniczania przymusu, zawstydzania, moralizowania oraz obwiniania w komunikacji. Model wyrósł między innymi z psychologii humanistycznej i podejścia skoncentrowanego na osobie Carla Rogersa. Założenia NVC są jednak propozycjami normatywnymi Rosenberga, a nie zbiorem praw psychologicznych potwierdzonych w całości badaniami.
 
@@ -61,11 +61,11 @@ Odmowa nie kończy negocjacji. Można zapytać o przeszkodę, zmienić termin lu
 
 Rosenberg używał pacynek szakala i żyrafy, aby obrazowo przeciwstawiać komunikację opartą na ocenach, żądaniach i obwinianiu komunikacji skupionej na uczuciach, potrzebach i prośbach. Żyrafa symbolizowała dla niego „język serca”, a szakal utrwalone nawyki odcinające od kontaktu.
 
-Są to **metafory dydaktyczne**, a nie naukowa typologia stylów komunikacji, cech osobowości ani rodzajów ludzi. Nazywanie kogoś „szakalem” przeczyłoby funkcji ćwiczenia i mogłoby stać się kolejną etykietą. Ta sama osoba, zależnie od stresu i sytuacji, może oceniać, bronić się, słuchać z ciekawością lub mówić wprost o swoich potrzebach. Metafora ma pomóc przełożyć komunikat, na przykład „jesteś nieodpowiedzialny”, na sprawdzalną obserwację i prośbę, nie służy do klasyfikowania rozmówcy.
+Są to **metafory dydaktyczne**, a nie naukowa typologia stylów komunikacji, cech osobowości ani rodzajów ludzi. Nazywanie kogoś „szakalem” przeczyłoby funkcji ćwiczenia i mogłoby stać się kolejną etykietą. Ta sama osoba, zależnie od [stresu](../psychologia_zdrowia/stres.md) i sytuacji, może oceniać, bronić się, słuchać z ciekawością lub mówić wprost o swoich potrzebach. Metafora ma pomóc przełożyć komunikat, na przykład „jesteś nieodpowiedzialny”, na sprawdzalną obserwację i prośbę, nie służy do klasyfikowania rozmówcy.
 
 ## Granice pojęciowe
 
-NVC łączy elementy znane z szerszej wiedzy o komunikacji, regulacji emocji i słuchaniu. Nie należy z podobieństwa wnioskować, że cały model ma taki sam status empiryczny jak każdy z tych konstruktów. Szczególnie ostrożnie trzeba traktować mocne twierdzenia, że wszystkie zachowania są próbami zaspokojenia potrzeb albo że właściwe nazwanie potrzeb samo rozwiąże konflikt. W sporze liczą się także zasoby, normy, interesy, historia krzywdy i rozkład władzy.
+NVC łączy elementy znane z szerszej wiedzy o komunikacji, [regulacji emocji](../emocje/regulacja.md) i słuchaniu. Nie należy z podobieństwa wnioskować, że cały model ma taki sam status empiryczny jak każdy z tych konstruktów. Szczególnie ostrożnie trzeba traktować mocne twierdzenia, że wszystkie zachowania są próbami zaspokojenia potrzeb albo że właściwe nazwanie potrzeb samo rozwiąże konflikt. W sporze liczą się także zasoby, normy, interesy, historia krzywdy i rozkład władzy.
 
 ## Wnioski
 

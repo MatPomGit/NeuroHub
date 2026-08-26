@@ -10,7 +10,7 @@ aliases:
 
 ## Cel i granice pomocy
 
-Pomoc psychologiczna może zmniejszać cierpienie, poprawiać funkcjonowanie i wspierać leczenie zarówno przy objawach bez ustalonej przyczyny, jak i przy rozpoznanej chorobie somatycznej. Nie jest testem na to, czy objaw jest „prawdziwy”. Korzystanie z psychoterapii nie oznacza rezygnacji z diagnostyki ani leczenia medycznego.
+Pomoc psychologiczna może zmniejszać cierpienie, poprawiać funkcjonowanie i wspierać leczenie zarówno przy objawach bez ustalonej przyczyny, jak i przy rozpoznanej chorobie somatycznej. Nie jest testem na to, czy objaw jest „prawdziwy”. Korzystanie z [psychoterapii](../psychoterapia/psychoterapia_wprowadzenie.md) nie oznacza rezygnacji z diagnostyki ani leczenia medycznego.
 
 Trzeba rozdzielać cztery rodzaje wyniku:
 
@@ -25,7 +25,7 @@ Poprawa jednego wyniku nie dowodzi poprawy pozostałych. Psychoterapia może pom
 
 Przed rozpoczęciem pracy potrzebna jest [adekwatna ocena medyczna](somatyzacja.md), a podczas terapii czujność na nowe lub zmieniające się objawy. Psycholog nie powinien interpretować bólu w klatce piersiowej, omdlenia czy objawu neurologicznego wyłącznie jako lęku bez odpowiedniej oceny lekarskiej.
 
-Psychoedukacja ma przedstawiać dodatni, zrozumiały model: układ nerwowy może wzmacniać lub osłabiać sygnały, uwaga wpływa na odczuwanie, unikanie zmniejsza sprawność, a sen i napięcie zmieniają tolerancję objawów. Nie powinna sprowadzać się do komunikatu „badania nic nie wykazały, więc to stres”. Wspólny model ustala się z pacjentem, uwzględniając niepewność i jego doświadczenie.
+Psychoedukacja ma przedstawiać dodatni, zrozumiały model: układ nerwowy może wzmacniać lub osłabiać sygnały, uwaga wpływa na odczuwanie, unikanie zmniejsza sprawność, a sen i napięcie zmieniają tolerancję objawów. Nie powinna sprowadzać się do komunikatu „badania nic nie wykazały, więc to [stres](../psychologia_zdrowia/stres.md)”. Wspólny model ustala się z pacjentem, uwzględniając niepewność i jego doświadczenie.
 
 ## Główne elementy postępowania
 
@@ -41,9 +41,9 @@ W przewlekłym bólu CBT pomaga ograniczać dystres i niepełnosprawność; nie 
 
 ### Stres i regulacja emocji
 
-Trening rozwiązywania problemów, uważność, relaksacja, praca nad snem i identyfikowanie emocji mogą zmniejszać pobudzenie i ułatwiać radzenie sobie. Terapia traumy jest wskazana przy rozpoznanym PTSD lub innych następstwach traumy, nie dlatego, że każdy objaw somatyczny jest „zapisem traumy w ciele”. Dowody dla poszczególnych metod i chorób są nierówne.
+Trening rozwiązywania problemów, uważność, relaksacja, praca nad snem i identyfikowanie emocji mogą zmniejszać pobudzenie i ułatwiać radzenie sobie. Terapia [traumy](../psychopatologia/trauma_ptsd.md) jest wskazana przy rozpoznanym PTSD lub innych następstwach traumy, nie dlatego, że każdy objaw somatyczny jest „zapisem traumy w ciele”. Dowody dla poszczególnych metod i chorób są nierówne.
 
-Regulacja emocji nie polega na stałym uspokajaniu się ani na tłumieniu złości. Obejmuje rozpoznanie stanu, wybór odpowiedzi i tolerowanie przejściowego dyskomfortu. Ćwiczenia oddechowe mogą pomagać przy lęku i dysfunkcyjnym oddychaniu, lecz u części osób skupienie na oddechu nasila panikę; wtedy potrzebna jest modyfikacja techniki.
+[Regulacja emocji](../emocje/regulacja.md) nie polega na stałym uspokajaniu się ani na tłumieniu złości. Obejmuje rozpoznanie stanu, wybór odpowiedzi i tolerowanie przejściowego dyskomfortu. Ćwiczenia oddechowe mogą pomagać przy lęku i dysfunkcyjnym oddychaniu, lecz u części osób skupienie na oddechu nasila panikę; wtedy potrzebna jest modyfikacja techniki.
 
 ### Rehabilitacja i stopniowanie aktywności
 

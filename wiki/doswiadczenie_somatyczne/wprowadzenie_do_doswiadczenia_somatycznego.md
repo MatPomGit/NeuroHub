@@ -11,7 +11,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Somatic Experiencing
 
-Somatic Experiencing (SE) jest opracowanym przez Petera A. Levine’a podejściem do pracy z następstwami stresu i traumy. Kieruje uwagę na doznania cielesne, pobudzenie, impulsy ruchowe i bieżące poczucie bezpieczeństwa, a trudny materiał dawkuje zamiast odtwarzać go od razu w pełnej intensywności. Jest to spójny model kliniczny, lecz jego swoiste wyjaśnienia mechanizmu zmiany i skuteczność mają znacznie słabsze potwierdzenie niż terapie PTSD skoncentrowane na traumie.
+Somatic Experiencing (SE) jest opracowanym przez Petera A. Levine’a podejściem do pracy z następstwami [stresu](../psychologia_zdrowia/stres.md) i [traumy](../psychopatologia/trauma_ptsd.md). Kieruje uwagę na doznania cielesne, pobudzenie, impulsy ruchowe i bieżące poczucie bezpieczeństwa, a trudny materiał dawkuje zamiast odtwarzać go od razu w pełnej intensywności. Jest to spójny model kliniczny, lecz jego swoiste wyjaśnienia mechanizmu zmiany i skuteczność mają znacznie słabsze potwierdzenie niż terapie PTSD skoncentrowane na traumie.
 
 > **Najważniejsze rozróżnienie:** obserwacja, że stres wiąże się z reakcjami autonomicznymi, napięciem mięśni i zmianami uwagi, nie dowodzi automatycznie teorii SE. „Uwięziona energia przetrwania”, konieczność dokończenia reakcji obronnej oraz poliwagalne objaśnienia stanów klinicznych są hipotezami lub metaforami modelu, a nie bezspornie potwierdzonymi mechanizmami PTSD ani zdrowienia.
 
@@ -37,7 +37,7 @@ Artykuł służy edukacji, nie diagnozie ani instruktażowi samodzielnego leczen
 
 Levine rozwijał SE od lat 70. XX wieku, czerpiąc z obserwacji zachowania zwierząt, fizjologii stresu i praktyk pracy z ciałem. Opis metody został upowszechniony w książkach i systemie szkoleń, a artykuł Payne’a, Levine’a i Crane-Godreau przedstawia jej postulowany model. Źródła te dokumentują **to, co zakłada podejście**, ale same nie stanowią niezależnego testu jego skuteczności.
 
-SE nie jest rozpoznaniem, kompletną teorią wszystkich następstw traumy ani nazwą każdej interwencji wykorzystującej ciało. Nie należy utożsamiać go z fizjoterapią, rehabilitacją, treningiem uważności, terapią sensomotoryczną ani ogółem psychoterapii somatycznych. „Somatyczne” oznacza tu sposób kierowania uwagi i prowadzenia sesji, nie twierdzenie, że wspomnienie jest dosłownie magazynowane w tkankach.
+SE nie jest rozpoznaniem, kompletną teorią wszystkich następstw traumy ani nazwą każdej interwencji wykorzystującej ciało. Nie należy utożsamiać go z fizjoterapią, rehabilitacją, treningiem uważności, terapią sensomotoryczną ani ogółem [psychoterapii](../psychoterapia/psychoterapia_wprowadzenie.md) somatycznych. „Somatyczne” oznacza tu sposób kierowania uwagi i prowadzenia sesji, nie twierdzenie, że wspomnienie jest dosłownie magazynowane w tkankach.
 
 Zakres kompetencji zależy od podstawowego zawodu i miejscowego prawa. Ukończenie szkolenia SE nie zastępuje kwalifikacji do diagnozowania PTSD, leczenia bólu, prowadzenia psychoterapii ani wykonywania zawodu medycznego. Trwająca przemoc, ryzyko samobójcze, psychoza, ciężkie używanie substancji lub niewyjaśnione objawy somatyczne wymagają postępowania właściwego dla problemu, a nie wyłącznie regulacji pobudzenia.
 
@@ -51,7 +51,7 @@ To użyteczna mapa prowadzenia sesji dla części terapeutów i osób korzystaj�
 
 ### Co wynika z szerszych badań
 
-Badania psychotraumatologiczne wspierają wieloczynnikowe modele PTSD. Obejmują one uczenie się zagrożenia i bezpieczeństwa, unikanie, negatywne przekonania, pamięć kontekstową, sen, regulację emocji oraz zróżnicowaną reaktywność autonomiczną. Nie istnieje jeden profil fizjologiczny wspólny wszystkim osobom po traumie. Związek PTSD ze średnio obniżoną zmiennością rytmu serca na poziomie grupowym nie pozwala diagnozować pojedynczej osoby ani potwierdzić swoistego modelu SE.
+Badania psychotraumatologiczne wspierają wieloczynnikowe modele PTSD. Obejmują one uczenie się zagrożenia i bezpieczeństwa, unikanie, negatywne przekonania, pamięć kontekstową, sen, [regulację emocji](../emocje/regulacja.md) oraz zróżnicowaną reaktywność autonomiczną. Nie istnieje jeden profil fizjologiczny wspólny wszystkim osobom po traumie. Związek PTSD ze średnio obniżoną zmiennością rytmu serca na poziomie grupowym nie pozwala diagnozować pojedynczej osoby ani potwierdzić swoistego modelu SE.
 
 Teoria poliwagalna bywa używana do opisu mobilizacji, kontaktu społecznego i znieruchomienia. Część jej tez anatomicznych i ewolucyjnych jest jednak krytykowana, a proste przypisywanie zachowania do „brzusznego” lub „grzbietowego” nerwu błędnego wykracza poza dostępne dane. Można mówić o autonomicznej regulacji bez przyjmowania całej teorii poliwagalnej.
 

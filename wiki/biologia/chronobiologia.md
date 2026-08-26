@@ -41,7 +41,7 @@ Ograniczenie lub utrata snu przeciętnie pogarsza czujność, czas reakcji i nie
 
 Zaburzenia rytmu okołodobowego snu i czuwania rozpoznaje się wtedy, gdy utrzymujące się niedopasowanie czasu snu do zegara wewnętrznego lub środowiska powoduje bezsenność, nadmierną senność albo istotne ograniczenie funkcjonowania. Obejmują one między innymi zaburzenie z opóźnioną fazą snu i czuwania, zaburzenia związane z pracą zmianową oraz jet lag. Sama późna pora snu nie wystarcza do rozpoznania. Interwencje, takie jak odpowiednio zaplanowane światło lub melatonina, wymagają uwzględnienia fazy dobowej, ponieważ zastosowane o niewłaściwej porze mogą działać słabiej albo przesuwać rytm w niepożądanym kierunku.
 
-Zbyt krótki i nieregularny sen wiąże się obserwacyjnie z wieloma niekorzystnymi wynikami zdrowotnymi. Takie zależności nie dowodzą jednak w każdym przypadku prostego związku przyczynowego: znaczenie mogą mieć choroby współistniejące, warunki pracy, stres i status społeczno-ekonomiczny. W przewlekłej bezsenności terapia poznawczo-behawioralna bezsenności (CBT-I) jest zalecanym leczeniem pierwszego wyboru, a dobór postępowania powinien uwzględniać diagnozę i stan pacjenta (Riemann et al., 2017).
+Zbyt krótki i nieregularny sen wiąże się obserwacyjnie z wieloma niekorzystnymi wynikami zdrowotnymi. Takie zależności nie dowodzą jednak w każdym przypadku prostego związku przyczynowego: znaczenie mogą mieć choroby współistniejące, warunki pracy, [stres](../psychologia_zdrowia/stres.md) i status społeczno-ekonomiczny. W przewlekłej bezsenności terapia poznawczo-behawioralna bezsenności (CBT-I) jest zalecanym leczeniem pierwszego wyboru, a dobór postępowania powinien uwzględniać diagnozę i stan pacjenta (Riemann et al., 2017).
 
 ## Bibliografia
 

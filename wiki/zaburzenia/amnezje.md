@@ -43,7 +43,7 @@ Oprócz uszkodzeń hipokampa, amnezja anterogradna może wynikać z uszkodzeń *
 
 ## Amnezja psychogenna (dysocjacyjna)
 
-*Amnezja dysocjacyjna* to utrata pamięci bez organicznego uszkodzenia mózgu, związana z traumą lub stresem ekstremalnym. Wyróżnia się:
+*Amnezja dysocjacyjna* to utrata pamięci bez organicznego uszkodzenia mózgu, związana z [traumą](../psychopatologia/trauma_ptsd.md) lub [stresem](../psychologia_zdrowia/stres.md) ekstremalnym. Wyróżnia się:
 
 **Amnezja dysocjacyjna zlokalizowana** - utrata wspomnień z konkretnego okresu (np. zdarzenia traumatycznego i kilku godzin/dni wokół niego). Najczęstsza postać.
 

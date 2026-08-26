@@ -59,7 +59,7 @@ Lista aplikacji polecanych raz na zawsze szybko się dezaktualizuje. Bardziej od
 
 ## Prywatność, nierówności i ryzyko szkody
 
-Dziennik nastroju, rozmowa o traumie i wnioski algorytmu mogą ujawniać dane szczególnie wrażliwe. Ryzyko powstaje nie tylko przy wycieku: obejmuje profilowanie reklamowe, udostępnianie podwykonawcom, wtórne użycie danych, błędną inferencję i niemożność ich pełnego usunięcia. Zgoda ukryta w długim regulaminie nie daje użytkownikowi sensownej kontroli.
+Dziennik nastroju, rozmowa o [traumie](../psychopatologia/trauma_ptsd.md) i wnioski algorytmu mogą ujawniać dane szczególnie wrażliwe. Ryzyko powstaje nie tylko przy wycieku: obejmuje profilowanie reklamowe, udostępnianie podwykonawcom, wtórne użycie danych, błędną inferencję i niemożność ich pełnego usunięcia. Zgoda ukryta w długim regulaminie nie daje użytkownikowi sensownej kontroli.
 
 Modele trenowane na niereprezentatywnych danych mogą gorzej rozpoznawać język, dialekt, niepełnosprawność i kulturowe sposoby wyrażania cierpienia. Narzędzie wymagające nowego telefonu, stałej transmisji lub wysokiej sprawności czytania może pogłębiać nierówności. Automatyzacja nie usuwa kosztu opieki, lecz przenosi go na moderację, nadzór, obsługę fałszywych alarmów i dostęp do człowieka.
 

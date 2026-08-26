@@ -12,7 +12,7 @@ evidenceCutoffDate: 2026-08-01
 
 Treść religijna nie przesądza o patologii. Głos Boga może być figurą w modlitwie, doświadczeniem akceptowanym w danej tradycji, objawem psychotycznym albo metaforą. Powtarzana modlitwa może być dobrowolną praktyką lub kompulsją. Różnicowanie opiera się na formie doświadczenia, kontroli, cierpieniu, wpływie na funkcjonowanie i kontekście kulturowym, a nie na zgodności przekonania z poglądami specjalisty.
 
-Religijnie zintegrowana psychoterapia oznacza dostosowanie pracy do wartości klienta za jego zgodą. Nie daje terapeucie mandatu do nauczania religii ani prowadzenia klienta ku wierze lub niewierze.
+Religijnie zintegrowana [psychoterapia](../psychoterapia/psychoterapia_wprowadzenie.md) oznacza dostosowanie pracy do wartości klienta za jego zgodą. Nie daje terapeucie mandatu do nauczania religii ani prowadzenia klienta ku wierze lub niewierze.
 
 ## Podstawowe rozróżnienia
 
@@ -33,7 +33,7 @@ Najpierw należy zapytać, jak osoba nazywa doświadczenie, co ono dla niej znac
 
 ### 2. Opis fenomenologiczny
 
-Trzeba ustalić początek, czas trwania, częstość, modalność, stopień dobrowolności, pewność przekonania i możliwość rozważenia alternatywnych wyjaśnień. Pytania o sen, substancje, leki, stan neurologiczny, nastrój i traumę zapobiegają redukowaniu wszystkiego do światopoglądu.
+Trzeba ustalić początek, czas trwania, częstość, modalność, stopień dobrowolności, pewność przekonania i możliwość rozważenia alternatywnych wyjaśnień. Pytania o sen, substancje, leki, stan neurologiczny, nastrój i [traumę](../psychopatologia/trauma_ptsd.md) zapobiegają redukowaniu wszystkiego do światopoglądu.
 
 ### 3. Kontekst i odniesienie kulturowe
 

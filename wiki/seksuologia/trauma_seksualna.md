@@ -13,11 +13,11 @@ evidenceCutoffDate: 2026-08-02
 
 **Przemoc seksualna** obejmuje czynności seksualne bez dobrowolnej, świadomej, konkretnej i aktualnej zgody, w tym wykorzystanie osoby, która nie może jej udzielić. Wobec dziecka znaczenie mają także niedojrzałość, nierównowaga władzy i wykorzystywanie zaufania. Przemoc może przyjmować postać kontaktową, bezkontaktową, cyfrową, partnerską lub obejmować przymus reprodukcyjny.
 
-**Inne formy przemocy w dzieciństwie**, takie jak przemoc fizyczna lub emocjonalna, zaniedbanie i bycie świadkiem przemocy domowej, nie są przemocą seksualną. Mogą jednak wpływać na bezpieczeństwo, przywiązanie, regulację emocji i późniejszą intymność. Kategorie te mogą współwystępować, dlatego trzeba je rozpoznawać oddzielnie, zamiast przypisywać im jednakowy mechanizm.
+**Inne formy przemocy w dzieciństwie**, takie jak przemoc fizyczna lub emocjonalna, zaniedbanie i bycie świadkiem przemocy domowej, nie są przemocą seksualną. Mogą jednak wpływać na bezpieczeństwo, przywiązanie, [regulację emocji](../emocje/regulacja.md) i późniejszą intymność. Kategorie te mogą współwystępować, dlatego trzeba je rozpoznawać oddzielnie, zamiast przypisywać im jednakowy mechanizm.
 
 **Dorastanie w rodzinie z problemem alkoholowym** opisuje kontekst narażenia na nieprzewidywalność, zaniedbanie lub konflikt, lecz nie przesądza, że wystąpiła przemoc. Określenie „DDA” funkcjonuje w samopomocy i praktyce jako nazwa doświadczenia osób dorosłych, ale nie jest formalnym rozpoznaniem w DSM-5-TR ani ICD-11 i nie oznacza jednorodnego profilu osobowości.
 
-„Trauma seksualna” jest nazwą obszaru doświadczeń i możliwych następstw, a nie samodzielną diagnozą. [PTSD i złożone PTSD](../psychopatologia/trauma_ptsd.md) mają określone kryteria. Nie każda osoba po przemocy rozwinie zaburzenie, a brak objawów nie pomniejsza krzywdy ani odpowiedzialności sprawcy.
+„[Trauma](../psychopatologia/trauma_ptsd.md) seksualna” jest nazwą obszaru doświadczeń i możliwych następstw, a nie samodzielną diagnozą. [PTSD i złożone PTSD](../psychopatologia/trauma_ptsd.md) mają określone kryteria. Nie każda osoba po przemocy rozwinie zaburzenie, a brak objawów nie pomniejsza krzywdy ani odpowiedzialności sprawcy.
 
 ## Zróżnicowane konsekwencje
 

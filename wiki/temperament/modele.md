@@ -69,7 +69,7 @@ W wersji mierzonej Formalną Charakterystyką Zachowania – Kwestionariuszem Te
 
 Nowsza rewizja RTT i FCZ-KT(R) porządkuje cechy w obszarze czasowym (żwawość, perseweratywność, rytmiczność) oraz energetycznym (wrażliwość sensoryczna, wytrzymałość, reaktywność emocjonalna, aktywność). Zmiana narzędzia oznacza, że wyników ze starszej i zrewidowanej wersji nie należy mechanicznie zestawiać.
 
-RTT zakłada regulacyjne znaczenie cech w relacji do sytuacji. Konfiguracja wysokiej reaktywności i niskiej wytrzymałości może podnosić koszt długotrwałej intensywnej stymulacji, natomiast aktywność może służyć zwiększaniu jej dopływu. „Zapotrzebowanie na stymulację” jest interpretacją funkcjonalną profilu, nie osobną etykietą biologiczną. Teoria ma mocne zaplecze psychometryczne i bogaty program badań nad stresem oraz funkcjonowaniem, ale jej postulaty fizjologiczne nie tworzą swoistego biomarkera RTT.
+RTT zakłada regulacyjne znaczenie cech w relacji do sytuacji. Konfiguracja wysokiej reaktywności i niskiej wytrzymałości może podnosić koszt długotrwałej intensywnej stymulacji, natomiast aktywność może służyć zwiększaniu jej dopływu. „Zapotrzebowanie na stymulację” jest interpretacją funkcjonalną profilu, nie osobną etykietą biologiczną. Teoria ma mocne zaplecze psychometryczne i bogaty program badań nad [stresem](../psychologia_zdrowia/stres.md) oraz funkcjonowaniem, ale jej postulaty fizjologiczne nie tworzą swoistego biomarkera RTT.
 
 ## Porównanie modeli
 

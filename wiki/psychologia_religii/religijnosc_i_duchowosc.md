@@ -62,7 +62,7 @@ Kryzys nie jest warunkiem koniecznym, a wpływ grupy nie oznacza automatycznie m
 
 Teoria przywiązania dostarczyła dwóch niewykluczających się hipotez. Według hipotezy **korespondencji** relacja religijna często odzwierciedla wcześniejsze wzorce bezpieczeństwa. Według hipotezy **kompensacji** wyobrażenie dostępnej figury boskiej może częściowo równoważyć brak bezpieczeństwa interpersonalnego. Wyniki zależą od sposobu pomiaru i kontekstu; nie wolno na podstawie jednego obrazu Boga rekonstruować historii rodzinnej ani oceniać autentyczności wiary.
 
-Obrazy Boga mogą się zmieniać pod wpływem relacji, nauczania, traumy i praktyki. Ich funkcje zdrowotne, w tym religijne zmagania i poczucie kary, omówiono w artykule [religia a zdrowie psychiczne](religia_a_zdrowie_psychiczne.md).
+Obrazy Boga mogą się zmieniać pod wpływem relacji, nauczania, [traumy](../psychopatologia/trauma_ptsd.md) i praktyki. Ich funkcje zdrowotne, w tym religijne zmagania i poczucie kary, omówiono w artykule [religia a zdrowie psychiczne](religia_a_zdrowie_psychiczne.md).
 
 ## Wspólnota, przynależność i tożsamość grupowa
 

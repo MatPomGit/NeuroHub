@@ -10,7 +10,7 @@ evidenceCutoffDate: 2025-12-31
 
 ## Wprowadzenie
 
-Traumatyczne uszkodzenie mózgu (TBI) obejmuje szerokie spektrum: od łagodnego wstrząśnienia po ciężkie urazy z trwałą niepełnosprawnością. W neuropsychologii kluczowe jest różnicowanie objawów ostrych i długoterminowych.
+Traumatyczne uszkodzenie mózgu (TBI) obejmuje szerokie spektrum: od łagodnego wstrząśnienia po ciężkie urazy z trwałą niepełnosprawnością. W [neuropsychologii](../neuropsychologia/diagnoza_i_rehabilitacja_neuropsychologiczna.md) kluczowe jest różnicowanie objawów ostrych i długoterminowych.
 
 ## Definicje
 

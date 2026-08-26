@@ -42,7 +42,7 @@ Eye tracking umożliwia analizę fiksacji, sakkad, czasu przebywania w obszarze 
 
 Muse i podobne opaski rejestrują EEG z niewielu suchych elektrod i zwykle oferują aplikacje do relaksacji lub neurofeedbacku (Krigolson i in., 2017). Mogą służyć do demonstracji rytmów, prostych projektów edukacyjnych i niektórych badań poza laboratorium. Mniejsza liczba kanałów, położenie elektrod, podatność na ruch oraz nieprzejrzyste algorytmy ograniczają jednak lokalizację źródeł i interpretację stanów psychicznych.
 
-Konsumenckie EEG nie diagnozuje ADHD, depresji, padaczki ani „poziomu medytacji”. Informacja zwrotna może wspierać praktykę, lecz nie dowodzi specyficznej zmiany klinicznej. Muse jest urządzeniem pomiarowym o określonych parametrach, nie osobnym działem neuropsychologii ani zamiennikiem aparatury medycznej.
+Konsumenckie EEG nie diagnozuje ADHD, depresji, padaczki ani „poziomu medytacji”. Informacja zwrotna może wspierać praktykę, lecz nie dowodzi specyficznej zmiany klinicznej. Muse jest urządzeniem pomiarowym o określonych parametrach, nie osobnym działem [neuropsychologii](diagnoza_i_rehabilitacja_neuropsychologiczna.md) ani zamiennikiem aparatury medycznej.
 
 ## Od sygnału do wniosku
 

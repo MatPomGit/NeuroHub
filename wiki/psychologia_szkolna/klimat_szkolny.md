@@ -25,7 +25,7 @@ Badania wykazują związki pozytywnego klimatu z osiągnięciami, frekwencją i 
 
 ## Stres szkolny i presja osiągnięć
 
-Stres powstaje, gdy uczeń ocenia wymagania jako przekraczające dostępne zasoby. Krótkie pobudzenie może mobilizować przy zadaniu dostosowanym do umiejętności. Zagrożeniem jest stres silny, przewlekły lub niekontrolowalny, zwłaszcza gdy łączy się z brakiem wsparcia, snem niewystarczającym do regeneracji albo przemocą.
+[Stres](../psychologia_zdrowia/stres.md) powstaje, gdy uczeń ocenia wymagania jako przekraczające dostępne zasoby. Krótkie pobudzenie może mobilizować przy zadaniu dostosowanym do umiejętności. Zagrożeniem jest stres silny, przewlekły lub niekontrolowalny, zwłaszcza gdy łączy się z brakiem wsparcia, snem niewystarczającym do regeneracji albo przemocą.
 
 Źródłem obciążenia mogą być jednocześnie:
 

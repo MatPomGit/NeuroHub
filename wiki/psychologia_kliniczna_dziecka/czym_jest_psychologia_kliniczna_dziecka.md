@@ -14,7 +14,7 @@ Psychologia kliniczna dzieci i młodzieży bada rozwój zdrowia psychicznego, ro
 
 ## Zakres dyscypliny i granice kompetencji
 
-Psycholog kliniczny opisuje funkcjonowanie poznawcze, emocjonalne, behawioralne i relacyjne, prowadzi diagnozę psychologiczną, formułuje przypadek, przekazuje informację zwrotną oraz realizuje interwencje mieszczące się w jego kwalifikacjach. Ocenia również rozwój, zasoby rodziny i wpływ środowiska. Zakres konkretnego świadczenia zależy od kompetencji zawodowych, miejsca pracy i obowiązujących przepisów; nazwa stanowiska nie zastępuje udokumentowanego przygotowania do danej metody.
+Psycholog kliniczny opisuje funkcjonowanie poznawcze, emocjonalne, behawioralne i relacyjne, prowadzi [diagnozę psychologiczną](../diagnoza/etapy_diagnozy.md), formułuje przypadek, przekazuje informację zwrotną oraz realizuje interwencje mieszczące się w jego kwalifikacjach. Ocenia również rozwój, zasoby rodziny i wpływ środowiska. Zakres konkretnego świadczenia zależy od kompetencji zawodowych, miejsca pracy i obowiązujących przepisów; nazwa stanowiska nie zastępuje udokumentowanego przygotowania do danej metody.
 
 Należy odróżnić cztery działania:
 
@@ -46,7 +46,7 @@ Rozbieżności między informatorami nie są automatycznie błędem. Dziecko mo�
 
 Rozwój samoregulacji zaczyna się jako współregulacja. Opiekun rozpoznaje pobudzenie niemowlęcia, pomaga je obniżyć i stopniowo nadaje stanom emocjonalnym znaczenie. Powtarzalnie dostępna, wrażliwa opieka sprzyja bezpiecznemu przywiązaniu: dziecko może szukać ochrony, a po uspokojeniu wracać do eksploracji. Wraz z rozwojem języka, funkcji wykonawczych i uczenia społecznego zewnętrzne wsparcie jest częściowo uwewnętrzniane jako nazywanie emocji, hamowanie reakcji, zmiana uwagi i wybór strategii (Cassidy i Shaver, 2016; Thompson, 2019).
 
-Nie jest to prosty łańcuch przyczynowy. Temperament dziecka wpływa na interakcje, stres i zdrowie opiekuna zmieniają jego dostępność, a szkoła i rówieśnicy rozszerzają środowisko regulacji. Wzorzec przywiązania nie jest diagnozą zaburzenia ani nie pozwala samodzielnie wnioskować o jakości rodzicielstwa. Samokontrola również zależy od sytuacji: głód, brak snu, przeciążenie sensoryczne, lęk lub wymaganie przekraczające możliwości mogą czasowo ograniczyć wykonanie umiejętności, którą dziecko posiada.
+Nie jest to prosty łańcuch przyczynowy. Temperament dziecka wpływa na interakcje, [stres](../psychologia_zdrowia/stres.md) i zdrowie opiekuna zmieniają jego dostępność, a szkoła i rówieśnicy rozszerzają środowisko regulacji. Wzorzec przywiązania nie jest diagnozą zaburzenia ani nie pozwala samodzielnie wnioskować o jakości rodzicielstwa. Samokontrola również zależy od sytuacji: głód, brak snu, przeciążenie sensoryczne, lęk lub wymaganie przekraczające możliwości mogą czasowo ograniczyć wykonanie umiejętności, którą dziecko posiada.
 
 **Czynniki ryzyka** zwiększają prawdopodobieństwo niekorzystnego wyniku, **czynniki ochronne** osłabiają wpływ ryzyka lub wspierają adaptację, a **odporność psychiczna (rezyliencja)** oznacza względnie dobre przystosowanie pomimo istotnego zagrożenia. Nie jest stałą cechą ani niewrażliwością. Powstaje dynamicznie z zasobów dziecka i systemu: co najmniej jednej stabilnej relacji, przewidywalnych rutyn, bezpieczeństwa, poczucia sprawstwa, możliwości uczenia się i dostępnej pomocy (Masten i Barnes, 2018).
 
@@ -75,7 +75,7 @@ Na początku uzgadnia się, jakie informacje pozostają między dzieckiem a psyc
 
 ## Diagnoza różnicowa trudności emocjonalnych i neurorozwojowych
 
-Ogólny proces tworzenia i falsyfikowania hipotez opisują [Etapy i cele diagnozy psychologicznej](../diagnoza/etapy_diagnozy.md). U dziecka szczególnie ważne są **początek rozwojowy, przebieg oraz zależność od kontekstu**. ADHD, autyzm i specyficzne zaburzenia uczenia się mają charakter rozwojowy, choć mogą zostać rozpoznane późno. Lęk, depresja, trauma, zaburzenia snu, trudności sensoryczne i stres rodzinny mogą naśladować lub nasilać problemy uwagi, wycofanie, drażliwość i sztywność. Współwystępowanie jest częste, więc różnicowanie nie powinno przyjmować formy fałszywego wyboru „emocje albo neurorozwój”.
+Ogólny proces tworzenia i falsyfikowania hipotez opisują [Etapy i cele diagnozy psychologicznej](../diagnoza/etapy_diagnozy.md). U dziecka szczególnie ważne są **początek rozwojowy, przebieg oraz zależność od kontekstu**. ADHD, autyzm i specyficzne zaburzenia uczenia się mają charakter rozwojowy, choć mogą zostać rozpoznane późno. Lęk, depresja, [trauma](../psychopatologia/trauma_ptsd.md), zaburzenia snu, trudności sensoryczne i stres rodzinny mogą naśladować lub nasilać problemy uwagi, wycofanie, drażliwość i sztywność. Współwystępowanie jest częste, więc różnicowanie nie powinno przyjmować formy fałszywego wyboru „emocje albo neurorozwój”.
 
 Minimalna mapa hipotez obejmuje:
 
@@ -128,7 +128,7 @@ Wybór interwencji wynika z formulacji, bezpieczeństwa, preferencji rodziny, do
 
 **Trening umiejętności rodzicielskich** (*parent management training*, PMT) jest uzasadniony zwłaszcza wtedy, gdy dominują zachowania opozycyjne, agresywne, impulsywne lub nieprzestrzeganie poleceń, a analiza wskazuje, że codzienne reakcje dorosłych i konsekwencje zachowania są ważnym miejscem zmiany. Może być elementem pomocy w ADHD i zaburzeniach zachowania, szczególnie u młodszych dzieci (Kaminski i Claussen, 2017; NICE, 2017).
 
-Kwalifikacja obejmuje gotowość opiekuna do regularnego ćwiczenia, możliwość obserwacji zachowania, cele ważne dla rodziny i ocenę bezpieczeństwa. PMT uczy m.in. pozytywnej uwagi, jasnych poleceń, wzmacniania pożądanych zachowań, przewidywalnych konsekwencji i wspólnego rozwiązywania problemów. Nie jest szkoleniem „winnego rodzica”. Terapeuta uwzględnia stres, zdrowie psychiczne opiekuna, neuroróżnorodność, kulturę, przemoc i ubóstwo. Aktywna przemoc lub poważne zagrożenie wymaga najpierw planu ochrony; same techniki konsekwencji nie naprawią niebezpiecznego środowiska.
+Kwalifikacja obejmuje gotowość opiekuna do regularnego ćwiczenia, możliwość obserwacji zachowania, cele ważne dla rodziny i ocenę bezpieczeństwa. PMT uczy m.in. pozytywnej uwagi, jasnych poleceń, wzmacniania pożądanych zachowań, przewidywalnych konsekwencji i wspólnego rozwiązywania problemów. Nie jest szkoleniem „winnego rodzica”. Terapeuta uwzględnia stres, zdrowie psychiczne opiekuna, [neuroróżnorodność](../neuroroznorodnosc/wprowadzenie.md), kulturę, przemoc i ubóstwo. Aktywna przemoc lub poważne zagrożenie wymaga najpierw planu ochrony; same techniki konsekwencji nie naprawią niebezpiecznego środowiska.
 
 ### Kiedy kwalifikować do CBT
 

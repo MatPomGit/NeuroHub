@@ -70,7 +70,7 @@ Pomocne wyjaśnienie łączy trzy komunikaty:
 2. „Nie widzimy obecnie cech wskazujących na konkretną groźną chorobę; wyjaśnię, co sprawdzono i jakie są granice badań”.
 3. „Mamy dodatnią hipotezę mechanizmu i plan leczenia oraz ponownej oceny”.
 
-Nie należy mówić: „to tylko stres”, „nic pani/panu nie jest” albo „skoro badania są prawidłowe, przyczyna musi być psychiczna”. Taki język pogarsza przymierze terapeutyczne i może opóźnić zarówno pomoc psychologiczną, jak i rozpoznanie medyczne.
+Nie należy mówić: „to tylko [stres](../psychologia_zdrowia/stres.md)”, „nic pani/panu nie jest” albo „skoro badania są prawidłowe, przyczyna musi być psychiczna”. Taki język pogarsza przymierze terapeutyczne i może opóźnić zarówno pomoc psychologiczną, jak i rozpoznanie medyczne.
 
 ## Wnioski
 

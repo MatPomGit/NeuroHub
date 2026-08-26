@@ -7,7 +7,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Psychodeliki w terapii
 
-Substancje, które przez dekady były zakazane i stygmatyzowane, przeżywają renesans naukowy - badania kliniczne wykazują ich wyjątkowy potencjał terapeutyczny w depresji, uzależnieniach i lęku egzystencjalnym.
+Substancje, które przez dekady były zakazane i stygmatyzowane, przeżywają renesans naukowy - badania kliniczne wykazują ich wyjątkowy potencjał terapeutyczny w depresji, [uzależnieniach](../uzaleznienia/mechanizmy_i_diagnoza_uzaleznien.md) i lęku egzystencjalnym.
 
 ## Historia i kontekst
 
@@ -45,7 +45,7 @@ Czas działania: 4–6 godzin. Brak potencjału uzależniającego (brak fizyczne
 
 **MDMA** (3,4-metylodietoksyfentaminoamfetamina, "ekstrazo") nie jest klasycznym psychodelikiem - działa głównie przez uwalnianie serotoniny, dopaminy i noradrenaliny. Wywołuje euforię, poczucie bliskości, empatii i zmniejszenie strachu.
 
-**Terapia wspomagana MDMA (MDMA-AT):** MAPS (Multidisciplinary Association for Psychedelic Studies) przeprowadziło trzy fazy badań klinicznych. Wyniki Phase III (Mitchell et al., 2023, NEJM): 67% uczestników MDMA-AT przestało spełniać kryteria PTSD (vs 32% placebo). MDMA jest traktowane jako katalizator otwierający dostęp do traumatycznych wspomnień bez przytłaczającego strachu - umożliwia przetwarzanie traumy z psychoterapeutą.
+**Terapia wspomagana MDMA (MDMA-AT):** MAPS (Multidisciplinary Association for Psychedelic Studies) przeprowadziło trzy fazy badań klinicznych. Wyniki Phase III (Mitchell et al., 2023, NEJM): 67% uczestników MDMA-AT przestało spełniać kryteria PTSD (vs 32% placebo). MDMA jest traktowane jako katalizator otwierający dostęp do traumatycznych wspomnień bez przytłaczającego strachu - umożliwia przetwarzanie [traumy](../psychopatologia/trauma_ptsd.md) z psychoterapeutą.
 
 **FDA Advisory Committee (2024):** Komitet doradczy nie rekomendował zatwierdzenia MDMA-AT z powodu metodologicznych zastrzeżeń (brak blindingu, heterogeniczność pracy terapeutów) - debata trwa. Rozpatrywanie trwa.
 

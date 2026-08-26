@@ -38,7 +38,7 @@ Rozpoznanie etiologiczne ma znaczenie dla leczenia, bezpieczeństwa i poradnictw
 
 Depresja nie jest naturalną konsekwencją starzenia. Oprócz smutku i utraty zainteresowań mogą wystąpić drażliwość, lęk, dolegliwości cielesne, spowolnienie, zaburzenia snu, zaniedbanie samoopieki i skargi na pamięć. Ryzyko zwiększają między innymi wcześniejsze epizody, ból, choroby przewlekłe, niesprawność, osamotnienie i utrata ważnych ról.
 
-Ocena obejmuje nastrój, zdolność odczuwania przyjemności, czas trwania, wpływ na funkcjonowanie, używanie substancji, choroby i leki. Trzeba zapytać wprost o myśli o śmierci, rezygnacyjne i samobójcze, zamiar, plan oraz dostęp do środków. Bezpośrednie zagrożenie wymaga niezwłocznego zapewnienia bezpieczeństwa i pilnej pomocy medycznej. Psychoterapia i farmakoterapia mogą być skuteczne; dobór leczenia powinien uwzględniać preferencje, współchorobowość i interakcje lekowe.
+Ocena obejmuje nastrój, zdolność odczuwania przyjemności, czas trwania, wpływ na funkcjonowanie, używanie substancji, choroby i leki. Trzeba zapytać wprost o myśli o śmierci, rezygnacyjne i samobójcze, zamiar, plan oraz dostęp do środków. Bezpośrednie zagrożenie wymaga niezwłocznego zapewnienia bezpieczeństwa i pilnej pomocy medycznej. [Psychoterapia](../psychoterapia/psychoterapia_wprowadzenie.md) i farmakoterapia mogą być skuteczne; dobór leczenia powinien uwzględniać preferencje, współchorobowość i interakcje lekowe.
 
 ## Co zniekształca ocenę poznawczą
 

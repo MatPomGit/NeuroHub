@@ -99,7 +99,7 @@ Konstrukt **lęku** opisuje antycypację niepewnego lub odległego zagrożenia -
 
 **Motywacja do nagrody** opisuje inicjowanie i podtrzymywanie zachowania zbliżeniowego. Powiązana z dopaminergicznym układem mezolimbicznym (VTA→NAc, D1/D2 receptory). Rozróżnia się *inicjację* (dążenie do nagrody, „wanting") od *konsumpcji* nagrody (hedonic pleasure, „liking"; angażuje endogenne opioidy w NAc shell). To rozróżnienie, zaproponowane przez Berridge'a, wyjaśnia, dlaczego pacjenci z depresją mogą odczuwać pewną przyjemność z nagrody (zachowane liking), lecz nie inicjują zachowania (zaburzone wanting).
 
-**Uczenie się nagrody** obejmuje predykcję nagrody opartą na RPE (reward prediction error) i aktualizację wartości w orbitofrontalnej korze i prążkowiu. Deficyty RPE widoczne w schizofrenii (tępe sygnały dopaminergiczne) i uzależnieniach (przetrenowane nawyki przy zaburzonej aktualizacji wartości).
+**Uczenie się nagrody** obejmuje predykcję nagrody opartą na RPE (reward prediction error) i aktualizację wartości w orbitofrontalnej korze i prążkowiu. Deficyty RPE widoczne w schizofrenii (tępe sygnały dopaminergiczne) i [uzależnieniach](../uzaleznienia/mechanizmy_i_diagnoza_uzaleznien.md) (przetrenowane nawyki przy zaburzonej aktualizacji wartości).
 
 **Habit** - przejście od zachowania celowego (goal-directed; angażującego asocjacyjne jądro ogoniaste i mPFC) do automatycznego nawyku (angażującego sensoryczno-motoryczne prążkowie i grzbietowo-boczne prążkowie). W OCD i uzależnieniach następuje przedwczesne „zamrożenie" w stadium habit, nawet gdy wartość nagrody spadła.
 
@@ -147,7 +147,7 @@ Najnowsza, szósta domena RDoC (dodana w 2019 r.). Obejmuje:
 
 **Integrację sensoryczno-motoryczną** - sterowanie ruchem i propriocepcją przez móżdżek i jądra podstawy. Zaburzenia w dyspraksji, chorobie Huntingtona, OCD-like kompulsje.
 
-**Poczucie agencji i własności ciała** - prawostronny TPJ i wyspa. Depersonalizacja, zaburzenia dysocjacyjne, zjawisko somatycznych przeżyć w traumie.
+**Poczucie agencji i własności ciała** - prawostronny TPJ i wyspa. Depersonalizacja, zaburzenia dysocjacyjne, zjawisko somatycznych przeżyć w [traumie](../psychopatologia/trauma_ptsd.md).
 
 ---
 
@@ -222,7 +222,7 @@ Kobieta, 42 lata, PTSD po przemocy domowej. Profil RDoC:
 - Pobudzenie: arousal↑ (HRV obniżona, kortyzol poranny podwyższony), czuwanie/sen↓ (PSQI = 17)
 - Regulacja społeczna: przywiązanie↓ (FearFul/Disorganized: ECR-R Anxiety = 82, Avoidance = 74), percepcja społeczna zaburzona selektywnie dla sygnałów złości (face-emotion matching: sensitivity dla angry↑ z bias)
 
-Hipoteza: nadaktywne ciało migdałowate (selektywna reaktywność na sygnały złości), zaburzona regulacja mPFC, dysregulacja osi HPA i ANS, dezorganizacja systemu przywiązania. Implikacja: EMDR (wygaszanie śladu strachu), Somatic Experiencing (regulacja pobudzenia autonomicznego), psychoterapia oparta na mentalizacji (MBT) dla przywiązania, prazosin na nocne koszmary.
+Hipoteza: nadaktywne ciało migdałowate (selektywna reaktywność na sygnały złości), zaburzona regulacja mPFC, dysregulacja osi HPA i ANS, dezorganizacja systemu przywiązania. Implikacja: EMDR (wygaszanie śladu strachu), Somatic Experiencing (regulacja pobudzenia autonomicznego), [psychoterapia](../psychoterapia/psychoterapia_wprowadzenie.md) oparta na mentalizacji (MBT) dla przywiązania, prazosin na nocne koszmary.
 
 **Przypadek 4 - Zaburzenie afektywne dwubiegunowe typ II**
 
@@ -238,7 +238,7 @@ Hipoteza: dysregulacja obwodu nagrody (za wysoka wrażliwość D2 podczas hipoma
 
 Kobieta, 31 lat, późna diagnoza ASD (Asperger). Profil RDoC:
 
-- Regulacja społeczna: ToM↓ (RMET: 16/36), percepcja twarzy atypowa (FFA słaba aktywacja w fMRI), przywiązanie zaburzone (trudności regulacji emocji w kontekście społecznym)
+- Regulacja społeczna: ToM↓ (RMET: 16/36), percepcja twarzy atypowa (FFA słaba aktywacja w fMRI), przywiązanie zaburzone (trudności [regulacji emocji](../emocje/regulacja.md) w kontekście społecznym)
 - Procesy sensoryczno-motoryczne: nadwrażliwość dotykowa i słuchowa (próg sensoryczny↓), propriocepcja zaburzona (trudności w sporcie)
 - Systemy poznawcze: hiperfokus i selektywność uwagi (wąski kąt uwagi; słaby ToM ale silne rozumowanie systemowe)
 - Pobudzenie: niski poziom kortyzolu dobowego (hiporesponsywność osi HPA w sytuacjach społecznych)
@@ -430,7 +430,7 @@ Dla psychiatry pracującego w Polsce praktycznym krokiem startowym jest **formul
 
 ---
 
-Model RDoC stanowi istotną zmianę paradygmatu w psychopatologii i diagnozie psychologicznej. Odchodząc od opisowych kategorii w kierunku wymiarów biologicznie zakotwiczonych, otwiera drogę do precyzyjnej diagnostyki i spersonalizowanego leczenia. Jego wartość jest szczególnie wysoka w neuropsychologii, gdzie mapowanie deficytów na konkretne obwody nerwowe jest zarówno możliwe, jak i klinicznie użyteczne.
+Model RDoC stanowi istotną zmianę paradygmatu w psychopatologii i diagnozie psychologicznej. Odchodząc od opisowych kategorii w kierunku wymiarów biologicznie zakotwiczonych, otwiera drogę do precyzyjnej diagnostyki i spersonalizowanego leczenia. Jego wartość jest szczególnie wysoka w [neuropsychologii](../neuropsychologia/diagnoza_i_rehabilitacja_neuropsychologiczna.md), gdzie mapowanie deficytów na konkretne obwody nerwowe jest zarówno możliwe, jak i klinicznie użyteczne.
 
 Dla specjalistów zdrowia psychicznego model RDoC oferuje kilka praktycznych zysków:
 

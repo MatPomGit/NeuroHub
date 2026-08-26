@@ -51,7 +51,7 @@ Granica opisuje to, na co dana osoba się zgadza i co zrobi, aby o siebie zadba�
 
 ## Ujawnianie trudnych doświadczeń
 
-Stopniowe, dobrowolne ujawnianie osobistych doświadczeń może sprzyjać intymności, jeśli spotyka się z responsywnością, czyli poczuciem bycia rozumianym, akceptowanym i otoczonym troską. Ujawnienie traumy nie jest jednak dowodem zaufania, warunkiem „prawdziwej bliskości” ani obowiązkiem wobec partnera.
+Stopniowe, dobrowolne ujawnianie osobistych doświadczeń może sprzyjać intymności, jeśli spotyka się z responsywnością, czyli poczuciem bycia rozumianym, akceptowanym i otoczonym troską. Ujawnienie [traumy](../psychopatologia/trauma_ptsd.md) nie jest jednak dowodem zaufania, warunkiem „prawdziwej bliskości” ani obowiązkiem wobec partnera.
 
 Osoba ujawniająca może określić zakres i tempo, pominąć szczegóły oraz przerwać. Osoba słuchająca może uczciwie powiedzieć, że potrzebuje przerwy lub nie ma zasobów na szczegółową rozmowę. Pomocne pytania brzmią: „Czy chcesz, żebym tylko słuchał, czy szukamy rozwiązania?” oraz „Czy teraz jest bezpieczny moment?”. Nacisk, przesłuchiwanie, późniejsze wykorzystywanie informacji w sporze i żądanie relacji ze szczegółami są naruszeniem granic. Partner nie zastępuje psychoterapeuty ani interwencji kryzysowej.
 

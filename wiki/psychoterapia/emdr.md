@@ -11,9 +11,9 @@ aliases:
 
 ## Miejsce w leczeniu traumy
 
-Leczenie zależy od rodzaju zdarzenia, objawów, czasu od ekspozycji, współwystępujących problemów i bezpieczeństwa. Ten artykuł dotyczy psychoterapii PTSD, nie całej [psychotraumatologii](../psychopatologia/trauma_ptsd.md). Obejmuje kontekst ekspozycji i przetwarzania wspomnień, aby właściwie umieścić EMDR. Podejście [Somatic Experiencing](../doswiadczenie_somatyczne/wprowadzenie_do_doswiadczenia_somatycznego.md) ma osobne opracowanie.
+Leczenie zależy od rodzaju zdarzenia, objawów, czasu od ekspozycji, współwystępujących problemów i bezpieczeństwa. Ten artykuł dotyczy [psychoterapii](psychoterapia_wprowadzenie.md) PTSD, nie całej [psychotraumatologii](../psychopatologia/trauma_ptsd.md). Obejmuje kontekst ekspozycji i przetwarzania wspomnień, aby właściwie umieścić EMDR. Podejście [Somatic Experiencing](../doswiadczenie_somatyczne/wprowadzenie_do_doswiadczenia_somatycznego.md) ma osobne opracowanie.
 
-Terapie skoncentrowane na traumie bezpośrednio pracują ze wspomnieniem lub jego znaczeniami. Przedłużona ekspozycja opiera się na stopniowanym kontakcie ze wspomnieniem i bezpiecznymi, unikanymi sytuacjami. Terapia przetwarzania poznawczego bada znaczenia dotyczące winy, zagrożenia i zaufania. Trauma-focused CBT dla dzieci łączy pracę dziecka, opiekuna i narrację traumy. Nie każda osoba potrzebuje szczegółowej narracji, ale uporczywe unikanie jest częstym celem leczenia.
+Terapie skoncentrowane na [traumie](../psychopatologia/trauma_ptsd.md) bezpośrednio pracują ze wspomnieniem lub jego znaczeniami. Przedłużona ekspozycja opiera się na stopniowanym kontakcie ze wspomnieniem i bezpiecznymi, unikanymi sytuacjami. Terapia przetwarzania poznawczego bada znaczenia dotyczące winy, zagrożenia i zaufania. Trauma-focused CBT dla dzieci łączy pracę dziecka, opiekuna i narrację traumy. Nie każda osoba potrzebuje szczegółowej narracji, ale uporczywe unikanie jest częstym celem leczenia.
 
 ## EMDR i standardowy protokół
 

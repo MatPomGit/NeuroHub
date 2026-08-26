@@ -13,7 +13,7 @@ aliases:
 
 ## Wprowadzenie
 
-Kontakt z zielenią i wodą wiąże się przeciętnie z lepszym dobrostanem, mniejszym nasileniem stresu i korzystniejszym funkcjonowaniem poznawczym. Wyniki obejmują eksperymenty krótkoterminowe oraz badania obserwacyjne, ale ich jakość jest nierówna. Nie każda przestrzeń naturalna jest dostępna, bezpieczna lub odbierana jako kojąca.
+Kontakt z zielenią i wodą wiąże się przeciętnie z lepszym dobrostanem, mniejszym nasileniem [stresu](../psychologia_zdrowia/stres.md) i korzystniejszym funkcjonowaniem poznawczym. Wyniki obejmują eksperymenty krótkoterminowe oraz badania obserwacyjne, ale ich jakość jest nierówna. Nie każda przestrzeń naturalna jest dostępna, bezpieczna lub odbierana jako kojąca.
 
 **Shinrin-yoku** i wędrówka górska są formami kontaktu z naturą, w których jednocześnie działają inne składniki: ruch, przerwa od obowiązków, oczekiwanie poprawy, kontakt społeczny i mniejszy hałas. Nie należy przedstawiać ich jako odrębnych terapii o swoistym mechanizmie, dopóki badanie nie porówna ich z wiarygodnymi warunkami kontrolnymi.
 

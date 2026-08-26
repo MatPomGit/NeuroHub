@@ -27,7 +27,7 @@ Te same warianty mogą wiązać się z wieloma cechami, a korelacje genetyczne p
 
 ### Środowisko i dobór do środowiska
 
-Ekspozycje prenatalne, stres, substancje psychoaktywne, warunki społeczne i dostęp do leczenia mogą zmieniać ryzyko oraz przebieg. Związek rodzinny może też częściowo wynikać z korelacji genotyp–środowisko. Klinicznie użyteczna ocena łączy zatem wywiad rodzinny z rozwojem, objawami, ekspozycjami i funkcjonowaniem, zamiast przeciwstawiać geny środowisku.
+Ekspozycje prenatalne, [stres](../psychologia_zdrowia/stres.md), substancje psychoaktywne, warunki społeczne i dostęp do leczenia mogą zmieniać ryzyko oraz przebieg. Związek rodzinny może też częściowo wynikać z korelacji genotyp–środowisko. Klinicznie użyteczna ocena łączy zatem wywiad rodzinny z rozwojem, objawami, ekspozycjami i funkcjonowaniem, zamiast przeciwstawiać geny środowisku.
 
 ## Co mówią oszacowania dla wybranych rozpoznań?
 

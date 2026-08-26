@@ -13,7 +13,7 @@ Rozwój nie kończy się wraz z osiągnięciem pełnoletności. Dorosłość obe
 
 ## Relacje bliskie i przywiązanie w dorosłości
 
-W dorosłych relacjach partner może pełnić funkcje bezpiecznej przystani w stresie i bazy dla eksploracji. Badania przywiązania dorosłych obejmują co najmniej dwa nurty: wywiady o reprezentacji wczesnych doświadczeń oraz samoopis lęku i unikania w relacjach romantycznych. Miary te nie są zamienne i nie tworzą prostego testu czterech niezmiennych typów osobowości (Fraley i Roisman, 2019).
+W dorosłych relacjach partner może pełnić funkcje bezpiecznej przystani w [stresie](../psychologia_zdrowia/stres.md) i bazy dla eksploracji. Badania przywiązania dorosłych obejmują co najmniej dwa nurty: wywiady o reprezentacji wczesnych doświadczeń oraz samoopis lęku i unikania w relacjach romantycznych. Miary te nie są zamienne i nie tworzą prostego testu czterech niezmiennych typów osobowości (Fraley i Roisman, 2019).
 
 Oczekiwania wobec bliskości wykazują umiarkowaną ciągłość, ale zmieniają się pod wpływem kolejnych relacji, bezpieczeństwa, terapii i wydarzeń życia. Funkcjonowanie związku zależy również od komunikacji, zdrowia, stresu ekonomicznego, podziału pracy i przemocy. Wczesna relacja zwiększa prawdopodobieństwo pewnych wzorców, lecz nie wystarcza do przewidzenia konkretnego partnerstwa.
 
@@ -33,7 +33,7 @@ Nie należy utożsamiać wieku z niesamodzielnością. Wiedza i kompetencje opar
 
 ## Niekorzystne doświadczenia i „trauma rozwojowa”
 
-Określenie **trauma rozwojowa** opisuje możliwe skutki przewlekłego lub powtarzanego zagrożenia w okresie zależności od opiekunów, na przykład przemocy, zaniedbania albo nieprzewidywalnej opieki. Może pomagać w formułowaniu przypadku, gdy trudności obejmują regulację emocji, uwagę, obraz siebie, relacje i reakcje fizjologiczne. Nie oznacza, że każda przeciwność jest traumą ani że podobny profil ma jedną przyczynę.
+Określenie **[trauma](../psychopatologia/trauma_ptsd.md) rozwojowa** opisuje możliwe skutki przewlekłego lub powtarzanego zagrożenia w okresie zależności od opiekunów, na przykład przemocy, zaniedbania albo nieprzewidywalnej opieki. Może pomagać w formułowaniu przypadku, gdy trudności obejmują [regulację emocji](../emocje/regulacja.md), uwagę, obraz siebie, relacje i reakcje fizjologiczne. Nie oznacza, że każda przeciwność jest traumą ani że podobny profil ma jedną przyczynę.
 
 „Rozwojowe zaburzenie traumatyczne” nie jest odrębnym rozpoznaniem w DSM-5-TR ani ICD-11. Klasyfikacje pozwalają natomiast rozpoznawać, zależnie od spełnionych kryteriów, między innymi PTSD, a ICD-11 także złożone PTSD. Złożone PTSD obejmuje podstawowe objawy PTSD oraz trwałe trudności w regulacji afektu, negatywny obraz siebie i zaburzenia relacji (WHO, 2024). Formułowanie rozwojowe może uzupełniać diagnozę, lecz nie powinno jej zastępować ani rozszerzać kryteriów bez wyjaśnienia.
 

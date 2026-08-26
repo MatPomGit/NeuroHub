@@ -6,7 +6,7 @@ evidenceCutoffDate: 2026-08-02
 
 # Zaburzenia odżywiania i uzależnienia
 
-Zaburzenia odżywiania i uzależnienia mogą angażować częściowo podobne procesy uczenia się, lecz pozostają odrębnymi grupami rozpoznań. Jedzenie jest niezbędną i wielorako regulowaną czynnością, a określenie „uzależnienie od jedzenia” nie jest formalnym odpowiednikiem jadłowstrętu, bulimii ani napadowego objadania się.
+Zaburzenia odżywiania i [uzależnienia](../uzaleznienia/mechanizmy_i_diagnoza_uzaleznien.md) mogą angażować częściowo podobne procesy uczenia się, lecz pozostają odrębnymi grupami rozpoznań. Jedzenie jest niezbędną i wielorako regulowaną czynnością, a określenie „uzależnienie od jedzenia” nie jest formalnym odpowiednikiem jadłowstrętu, bulimii ani napadowego objadania się.
 
 ## Dwie odrębne grupy kliniczne
 

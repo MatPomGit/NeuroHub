@@ -66,7 +66,7 @@ const spa = loadRedirectMap();
 let missingTargets = 0; let orphaned = 0; let longChains = 0; let indirectLinks = 0;
 for (const [id, redirect] of redirects) {
   const { meta, file } = redirect;
-  if (meta.redirect || meta.layout !== 'redirect' || !meta.title || !meta.redirect_to || meta.sitemap !== 'false') {
+  if (meta.redirect || meta.layout !== 'redirect' || !meta.redirect_to || meta.sitemap !== 'false') {
     errors.push(`${id}: front matter nie odpowiada formatowi kanonicznemu.`); continue;
   }
   const target = targetFor(meta.redirect_to);
@@ -79,6 +79,17 @@ for (const [id, redirect] of redirects) {
   else if (spa[id] !== target.id) errors.push(`${id}: mapa SPA wskazuje ${spa[id]}, a front matter ${target.id}.`);
 }
 for (const [source, target] of Object.entries(spa)) {
+  const targetFile = path.join(wikiRoot, `${target}.md`);
+  if (!fs.existsSync(targetFile)) {
+    missingTargets += 1;
+    errors.push(`${source}: cel mapy SPA nie istnieje (${target}).`);
+  } else {
+    const targetMeta = frontMatter(fs.readFileSync(targetFile, 'utf8'));
+    if (targetMeta.redirect || targetMeta.layout === 'redirect') {
+      longChains += 1;
+      errors.push(`${source}: cel mapy SPA ${target} jest przekierowaniem.`);
+    }
+  }
   if (selected.some(file => idFor(file) === source) && !redirects.has(source)) errors.push(`${source}: mapa SPA wskazuje ${target}, ale plik nie jest przekierowaniem.`);
 }
 for (const file of selected) {

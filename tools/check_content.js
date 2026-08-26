@@ -7,6 +7,7 @@
 const fs = require('fs');
 const path = require('path');
 const vm = require('vm');
+const childProcess = require('child_process');
 
 const repoRoot = path.resolve(__dirname, '..');
 const siteConfigPath = path.join(repoRoot, 'site-config.js');
@@ -632,6 +633,16 @@ function main() {
     runWikiNamingConventionCheck(report);
     runBibliographyHeaderCheck(siteConfig, report);
     runResearcherQuoteBibliographyCheck(siteConfig, report);
+
+    const configCheck = childProcess.spawnSync('python3', ['tools/check_config.py', '--strict-nav-plan'], {
+      cwd: repoRoot,
+      encoding: 'utf8'
+    });
+    if (configCheck.status !== 0) {
+      pushError(report, 'canonical-navigation', (configCheck.stdout || configCheck.stderr).trim());
+    } else {
+      pushOk(report, 'canonical-navigation', 'Publiczna nawigacja zawiera wyłącznie istniejące pliki kanoniczne.');
+    }
 
     printReport(report);
     process.exit(report.errors.length > 0 ? 1 : 0);

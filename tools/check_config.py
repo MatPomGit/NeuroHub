@@ -19,6 +19,7 @@ import json
 import subprocess
 import sys
 import unicodedata
+import re
 from collections import Counter, defaultdict
 from pathlib import Path
 from typing import Any
@@ -81,6 +82,20 @@ def article_body_without_frontmatter(text: str) -> str:
     return text.strip()
 
 
+def markdown_metadata(path: Path) -> dict[str, str]:
+    """Odczytuje proste pola front matter potrzebne do kontroli nawigacji."""
+    text = path.read_text(encoding="utf-8-sig")
+    match = re.match(r"^---\r?\n([\s\S]*?)\r?\n---(?:\r?\n|$)", text)
+    if not match:
+        return {}
+    metadata: dict[str, str] = {}
+    for line in match.group(1).splitlines():
+        key, separator, value = line.partition(":")
+        if separator:
+            metadata[key.strip()] = value.strip().strip("'\"")
+    return metadata
+
+
 def validate(config: dict[str, Any], strict_nav_plan: bool = False) -> dict[str, list[dict[str, str]]]:
     issues: dict[str, list[dict[str, str]]] = {"errors": [], "warnings": []}
 
@@ -109,7 +124,7 @@ def validate(config: dict[str, Any], strict_nav_plan: bool = False) -> dict[str,
         section_name = str(section.get("section") or f"#{sec_index}")
         domain_key = section.get("domainKey")
         if not domain_key:
-            warning(f"nav[{sec_index}]", f"Sekcja '{section_name}' nie ma domainKey")
+            error(f"nav[{sec_index}]", f"Sekcja '{section_name}' nie jest przypisana do kategorii (brak domainKey)")
         items = section.get("items")
         if not isinstance(items, list):
             error(f"nav[{sec_index}].items", f"Sekcja '{section_name}' nie ma tablicy items")
@@ -161,10 +176,31 @@ def validate(config: dict[str, Any], strict_nav_plan: bool = False) -> dict[str,
                     error(path, f"Plik artykułu nie istnieje: {file_path}")
                 elif article.suffix.lower() != ".md":
                     warning(path, f"Plik artykułu nie ma rozszerzenia .md: {file_path}")
+                else:
+                    metadata = markdown_metadata(article)
+                    if metadata.get("layout") == "redirect" or "redirect_to" in metadata:
+                        error(path, f"Publiczna pozycja prowadzi do pliku przekierowania: {file_path}")
+                    if metadata.get("public_navigation", "").lower() == "false":
+                        error(path, f"Osobna pozycja publiczna wskazuje plik z public_navigation: false: {file_path}")
 
     duplicates = [item_id for item_id, count in Counter(nav_ids).items() if count > 1]
     for item_id in duplicates:
         error("SITE_CONFIG.nav", f"Zduplikowane id strony: {item_id}")
+
+    nav_files = {
+        str(item.get("file"))
+        for section in nav if isinstance(section, dict)
+        for item in section.get("items", []) if isinstance(item, dict) and item.get("file")
+    }
+    for article in sorted((ROOT / "wiki").rglob("*.md")):
+        metadata = markdown_metadata(article)
+        if metadata.get("layout") == "redirect" or "redirect_to" in metadata:
+            continue
+        if metadata.get("public_navigation", "").lower() == "false":
+            continue
+        article_path = rel(article)
+        if article_path not in nav_files:
+            error("SITE_CONFIG.nav", f"Plik kanoniczny nie występuje w nawigacji: {article_path}")
 
     for term, owners in canonical_term_owners.items():
         if len(owners) > 1:
@@ -173,6 +209,18 @@ def validate(config: dict[str, Any], strict_nav_plan: bool = False) -> dict[str,
                 "SITE_CONFIG.nav",
                 f"Niejednoznaczna nazwa kanoniczna lub alias „{labels}” występuje w: {', '.join(sorted(owners))}",
             )
+
+    for wiki_key, wiki in (config.get("wikis") or {}).items():
+        public_ids: list[str] = []
+        for section_index, section in enumerate(wiki.get("sections", [])):
+            if not isinstance(section, dict) or (not section.get("title") and not section.get("isGlossary")):
+                error(f"SITE_CONFIG.wikis.{wiki_key}.sections[{section_index}]", "Sekcja nie jest przypisana do nazwanej kategorii")
+                continue
+            for article in section.get("articles", []):
+                if isinstance(article, dict) and isinstance(article.get("id"), str):
+                    public_ids.append(article["id"])
+        for duplicate in sorted(item_id for item_id, count in Counter(public_ids).items() if count > 1):
+            error(f"SITE_CONFIG.wikis.{wiki_key}", f"Zduplikowane id artykułu publicznego: {duplicate}")
 
     redirects = config.get("articleRedirects", {})
     if not isinstance(redirects, dict):

@@ -1,4 +1,4 @@
-# PsyHub — baza wiedzy dla studentów psychologii
+# Encyklopedia psychologiczna
 
 PsyHub to uporządkowana baza wiedzy, która pomaga studiować psychologię w sposób systematyczny: od definicji po zastosowania praktyczne. Serwis łączy artykuły wiki, słownik pojęć oraz wybrane materiały interaktywne.
 

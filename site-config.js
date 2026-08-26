@@ -779,22 +779,6 @@ window.SITE_CONFIG = {
         { id: 'wstep_do_psychologii/nurty_psychologii', label: 'Główne nurty psychologii', file: 'wiki/wstep_do_psychologii/nurty_psychologii.md'  },
       ]
     },
-    {
-      section: 'Dla studentów',
-      domainKey: 'dla_studentow',
-      items: [
-        { id: 'dla_studentow/etyka_studenta',     label: 'Etyka studenta psychologii', file: 'wiki/dla_studentow/etyka_studenta.md' },
-        { id: 'dla_studentow/wybor_specjalnosci', label: 'Wybór specjalności', file: 'wiki/dla_studentow/wybor_specjalnosci.md' },
-        { id: 'dla_studentow/sciezki_kariery', label: 'Ścieżki kariery po psychologii', file: 'wiki/dla_studentow/sciezki_kariery.md' },
-        { id: 'dla_studentow/psychologia_codziennej', label: 'Psychologia codzienna',    custom: 'daily_psychology' },
-        /**{ id: 'dla_studentow/monopoly_psychologiczne', href: 'https://matpomgit.github.io/Psychopoly/', label: 'Monopoly Psychologiczne' },*/
-        { id: 'dla_studentow/wspolna_gra_kahoot',    label: 'Wspólna gra testowa (Kahoot)', custom: 'kahoot_game', kind: 'test' },
-        { id: 'dla_studentow/test_specjalnosci',  label: 'Test wyboru specjalności', custom: 'specialization_test', kind: 'test' },
-        { id: 'dla_studentow/testy_teoretyczne',      label: 'Testy teoretyczne',         custom: 'theoretical_test', kind: 'test' },
-        { id: 'dla_studentow/winietki_kliniczne',     label: 'Winietki kliniczne',        custom: 'theoretical_test', presetTopic: 'winiety_kliniczne', kind: 'test' },
-        { id: 'dla_studentow/testy_dyplomowe',        label: 'Testy dyplomowe',           custom: 'theoretical_test', presetTopic: 'egzamin_dyplomowy', kind: 'test' },
-        ]
-    },
     { /** Filozofia */
       section: 'Filozofia',
       domainKey: 'filozofia',
@@ -808,109 +792,26 @@ window.SITE_CONFIG = {
         { id: 'filozofia/filozofioterapia', label: 'Filozofioterapia i poradnictwo filozoficzne', file: 'wiki/filozofia/filozofioterapia.md' },
       ]
     },
-    { /* Biologiczne podstawy zachowania */
-      section: 'Biologiczne podstawy zachowania',
-      domainKey: 'biology',
+    { /* Eksperyment psychologiczny */
+      section: 'Eksperyment psychologiczny',
+      domainKey: 'eksperyment_psychologiczny',
       items: [
-        { id: 'biologia/biologiczne_podstawy', label: 'Biologiczne podstawy - wprow.',  file: 'wiki/biologia/biologiczne_podstawy.md'  },
-        { id: 'biologia/genetyka_beh',         label: 'Genetyka behawioralna',          file: 'wiki/biologia/genetyka_beh.md'          },
-        { id: 'biologia/transmisja_genetyczna_zaburzen_psychicznych', label: 'Transmisja genetyczna zaburzen', file: 'wiki/biologia/transmisja_genetyczna_zaburzen_psychicznych.md' },
-        { id: 'biologia/epigenetyka',          label: 'Epigenetyka',                    file: 'wiki/biologia/epigenetyka.md'           },
-        { id: 'biologia/hormony',              label: 'Hormony i zachowanie',           file: 'wiki/biologia/hormony.md'               },
-        { id: 'biologia/ewolucja',             label: 'Ewolucja i psychologia ewol.',   file: 'wiki/biologia/ewolucja.md'              },
-        { id: 'biologia/psychofizjologia',     label: 'Psychofizjologia',               file: 'wiki/biologia/psychofizjologia.md'      },
-        { id: 'biologia/chronobiologia',       label: 'Chronobiologia i sen',           file: 'wiki/biologia/chronobiologia.md'        },
-        { id: 'biologia/chronopsychologia',    label: 'Chronopsychologia',              file: 'wiki/biologia/chronopsychologia.md'     },
-        { id: 'biologia/mikrobiom',            label: 'Oś jelita-mózg',               file: 'wiki/biologia/mikrobiom.md'             },
+        { id: 'eksperyment_psychologiczny/wprowadzenie', label: '1. Projektowanie eksperymentu psychologicznego', file: 'wiki/eksperyment_psychologiczny/wprowadzenie.md' },
+        { id: 'eksperyment_psychologiczny/prowadzenie_badania_i_jakosc_danych', label: '2. Prowadzenie badania i jakość danych', file: 'wiki/eksperyment_psychologiczny/prowadzenie_badania_i_jakosc_danych.md' },
+        { id: 'eksperyment_psychologiczny/analiza_raportowanie_i_replikacja', label: '3. Analiza, raportowanie i otwarta nauka', file: 'wiki/eksperyment_psychologiczny/analiza_raportowanie_i_replikacja.md' },
       ]
     },
-    { /* Psychologia rozwojowa */
-      section: 'Psychologia rozwojowa',
-      domainKey: 'rozwojowa',
+    { /* Funkcje poznawcze */
+      section: 'Funkcje poznawcze',
+      domainKey: 'poznawcza',
       items: [
-        { id: 'psychologia_rozwojowa/teorie_rozwoju', label: 'Teorie i metody badania rozwoju', file: 'wiki/psychologia_rozwojowa/teorie_rozwoju.md' },
-        { id: 'psychologia_rozwojowa/niemowlectwo',   label: 'Niemowlęctwo i dzieciństwo',      file: 'wiki/psychologia_rozwojowa/niemowlectwo.md'   },
-        { id: 'psychologia_rozwojowa/adolescencja',   label: 'Adolescencja i tożsamość',        file: 'wiki/psychologia_rozwojowa/adolescencja.md'   },
-        { id: 'psychologia_rozwojowa/doroslosc',      label: 'Dorosłość, starzenie i doświadczenia niekorzystne', file: 'wiki/psychologia_rozwojowa/doroslosc.md' },
-      ]
-    },
-    { /* Psychologia społeczna */
-      section: 'Psychologia społeczna',
-      domainKey: 'spoleczna',
-      items: [
-        { id: 'psychologia_spoleczna/ja_i_samoocena', label: 'Ja, samoocena i tożsamość społeczna', file: 'wiki/psychologia_spoleczna/ja_i_samoocena.md' },
-        { id: 'psychologia_spoleczna/percepcja_spoleczna', label: 'Percepcja społeczna, postawy i atrybucje', file: 'wiki/psychologia_spoleczna/percepcja_spoleczna.md' },
-        { id: 'psychologia_spoleczna/wplyw_spoleczny_perswazja_i_posluszenstwo', label: 'Wpływ społeczny, perswazja i posłuszeństwo', file: 'wiki/psychologia_spoleczna/wplyw_spoleczny_perswazja_i_posluszenstwo.md' },
-        { id: 'psychologia_spoleczna/grupy_relacje_i_wspolpraca', label: 'Grupy, relacje i współpraca', file: 'wiki/psychologia_spoleczna/grupy_relacje_i_wspolpraca.md' },
-        { id: 'psychologia_spoleczna/agresja_uprzedzenia_i_przemoc_spoleczna', label: 'Agresja, uprzedzenia i przemoc społeczna', file: 'wiki/psychologia_spoleczna/agresja_uprzedzenia_i_przemoc_spoleczna.md' },
-      ]
-    },
-    { /* Psychologia kulturowa */
-      section: 'Psychologia kulturowa',
-      domainKey: 'kulturowa',
-      items: [
-        { id: 'kulturowa/wprowadzenie', label: 'Podstawy i metodologia psychologii kulturowej', file: 'wiki/kulturowa/wprowadzenie.md' },
-        { id: 'kulturowa/kultura_a_procesy_psychiczne', label: 'Kultura a poznanie, emocje i Ja', file: 'wiki/kulturowa/kultura_a_procesy_psychiczne.md' },
-        { id: 'kulturowa/akulturacja_relacje_i_zdrowie', label: 'Akulturacja, relacje i zdrowie', file: 'wiki/kulturowa/akulturacja_relacje_i_zdrowie.md' },
-      ]
-    },
-    { /* Psychologia religii */
-      section: 'Psychologia religii',
-      domainKey: 'psychologia_religii',
-      items: [
-        { id: 'psychologia_religii/religijnosc_i_duchowosc', label: 'Religijność, duchowość i rozwój', file: 'wiki/psychologia_religii/religijnosc_i_duchowosc.md' },
-        { id: 'psychologia_religii/religia_a_zdrowie_psychiczne', label: 'Religia, zdrowie psychiczne i radzenie sobie', file: 'wiki/psychologia_religii/religia_a_zdrowie_psychiczne.md' },
-        { id: 'psychologia_religii/doswiadczenia_religijne_w_praktyce_klinicznej', label: 'Doświadczenia religijne w praktyce klinicznej', file: 'wiki/psychologia_religii/doswiadczenia_religijne_w_praktyce_klinicznej.md' },
-        { id: 'psychologia_religii/metodologia_badan', label: 'Metodologia badań nad religią i moralnością', file: 'wiki/psychologia_religii/metodologia_badan.md' },
-        ]
-    },
-    { /* Psychologia uzależnień */
-      section: 'Psychologia uzależnień',
-      domainKey: 'uzaleznienia',
-      items: [
-        { id: 'uzaleznienia/mechanizmy_i_diagnoza_uzaleznien', label: 'Mechanizmy i diagnoza uzależnień', file: 'wiki/uzaleznienia/mechanizmy_i_diagnoza_uzaleznien.md' },
-        { id: 'uzaleznienia/uzaleznienia_behawioralne', label: 'Uzależnienia behawioralne i technologie', file: 'wiki/uzaleznienia/uzaleznienia_behawioralne.md' },
-        { id: 'uzaleznienia/recovery', label: 'Leczenie, zdrowienie i nawroty', file: 'wiki/uzaleznienia/recovery.md' },
-        { id: 'uzaleznienia/uzaleznienie_w_rodzinie_i_u_mlodziezy', label: 'Uzależnienie w rodzinie i u młodzieży', file: 'wiki/uzaleznienia/uzaleznienie_w_rodzinie_i_u_mlodziezy.md' },
-      ]
-    },
-    { /* Relacje i związki */
-      section: 'Relacje i związki',
-      domainKey: 'relacje',
-      items: [
-        { id: 'relacje/tworzenie_i_rozwoj_relacji_intymnej', label: 'Tworzenie i rozwój relacji intymnej', file: 'wiki/relacje/tworzenie_i_rozwoj_relacji_intymnej.md' },
-        { id: 'relacje/komunikacja_para', label: 'Komunikacja i konflikty w parze', file: 'wiki/relacje/komunikacja_para.md' },
-        { id: 'relacje/kryzys_zdrada_i_rozstanie', label: 'Kryzys związku, zdrada i rozstanie', file: 'wiki/relacje/kryzys_zdrada_i_rozstanie.md' },
-        { id: 'relacje/przemoc_zwiazki', label: 'Przemoc w związku', file: 'wiki/relacje/przemoc_zwiazki.md' },
-        { id: 'relacje/przyjazn_rodzina_i_samotnosc', label: 'Przyjaźń, rodzina i samotność', file: 'wiki/relacje/przyjazn_rodzina_i_samotnosc.md' },
-      ]
-    },
-    { /* Etyka zawodowa */
-      section: 'Etyka zawodowa',
-      domainKey: 'etyka',
-      items: [
-        { id: 'etyka/kodeksy_etyczne', label: 'Kodeksy etyczne - przeglad', file: 'wiki/etyka/kodeksy_etyczne.md' },
-        { id: 'etyka/zasady_apa_ptp', label: 'Zasady APA i PTP', file: 'wiki/etyka/zasady_apa_ptp.md' },
-        { id: 'etyka/dobro_nieszkodzenie', label: 'Dobro i nieszkodzenie', file: 'wiki/etyka/dobro_nieszkodzenie.md' },
-        { id: 'etyka/tajemnica_zawodowa_granice', label: 'Tajemnica zawodowa i jej granice', aliases: ['Tajemnica zawodowa psychologa', 'Poufność w pracy psychologa'], file: 'wiki/etyka/tajemnica_zawodowa_granice.md' },
-        { id: 'etyka/swiadoma_zgoda', label: 'Świadoma zgoda', file: 'wiki/etyka/swiadoma_zgoda.md' },
-        { id: 'etyka/granice_relacji', label: 'Granice relacji terapeutycznej', file: 'wiki/etyka/granice_relacji.md' },
-        { id: 'etyka/superwizja_odpowiedzialnosc', label: 'Superwizja i odpowiedzialność', file: 'wiki/etyka/superwizja_odpowiedzialnosc.md' },
-        { id: 'etyka/dylematy_etyczne',          label: 'Dylematy etyczne w praktyce',           file: 'wiki/etyka/dylematy_etyczne.md'          },
-        { id: 'etyka/kompetencje_kulturowe',     label: 'Kompetencje kulturowe',                 file: 'wiki/etyka/kompetencje_kulturowe.md'     },
-        { id: 'etyka/etyka_badan',               label: 'Etyka badań naukowych',                 file: 'wiki/etyka/etyka_badan.md'               },
-        { id: 'etyka/etyka_cyfrowa',             label: 'Etyka w psychologii cyfrowej',          file: 'wiki/etyka/etyka_cyfrowa.md'             },
-        { id: 'etyka/odpowiedzialnosc_zawodowa', label: 'Odpowiedzialnosc zawodowa',             file: 'wiki/etyka/odpowiedzialnosc_zawodowa.md' },
-          { id: 'etyka/polska_adaptacja_3d_ws', label: 'Polska adaptacja 3D-WS', file: 'wiki/etyka/polska_adaptacja_3d_ws.md' },
-        ]
-    },
-    { /* Diagnoza psychologiczna */
-      section: 'Diagnoza psychologiczna',
-      domainKey: 'diagnoza',
-      items: [
-        { id: 'diagnoza/etapy_diagnozy', label: 'Proces diagnozy psychologicznej', file: 'wiki/diagnoza/etapy_diagnozy.md' },
-        { id: 'diagnoza/wywiad_psychologiczny', label: 'Wywiad, rozmowa i obserwacja', file: 'wiki/diagnoza/wywiad_psychologiczny.md' },
-        { id: 'diagnoza/formulowanie_przypadku', label: 'Formułowanie, metody dodatkowe i opinia', file: 'wiki/diagnoza/formulowanie_przypadku.md' },
+        { id: 'psychologia_poznawcza/percepcja',          label: 'Percepcja i uwaga',                            file: 'wiki/psychologia_poznawcza/percepcja.md'          },
+        { id: 'psychologia_poznawcza/pamiec',             label: 'Pamięć i uczenie się',                          file: 'wiki/psychologia_poznawcza/pamiec.md'             },
+        { id: 'psychologia_poznawcza/funkcje_wykonawcze', label: 'Funkcje wykonawcze i obciążenie poznawcze',     file: 'wiki/psychologia_poznawcza/funkcje_wykonawcze.md' },
+        { id: 'psychologia_poznawcza/myslenie',           label: 'Myślenie i podejmowanie decyzji',               file: 'wiki/psychologia_poznawcza/myslenie.md'           },
+        { id: 'psychologia_poznawcza/jezyk',              label: 'Język, narracja i wyobraźnia',                  file: 'wiki/psychologia_poznawcza/jezyk.md'              },
+        { id: 'psychologia_poznawcza/swiadomosc',         label: 'Świadomość, ucieleśnienie i predykcja',         file: 'wiki/psychologia_poznawcza/swiadomosc.md'         },
+        { id: 'psychologia_poznawcza/nauki_kognitywne',   label: 'Nauki kognitywne i architektury poznawcze',    file: 'wiki/psychologia_poznawcza/nauki_kognitywne.md'   },
       ]
     },
     { /* Emocje i motywacje */
@@ -921,24 +822,6 @@ window.SITE_CONFIG = {
         { id: 'emocje/regulacja',           label: 'Regulacja emocji, stres i aleksytymia',    file: 'wiki/emocje/regulacja.md'           },
         { id: 'emocje/motywacja',           label: 'Motywacja i emocje pozytywne',                file: 'wiki/emocje/motywacja.md'           },
         { id: 'emocje/wspolczucie',         label: 'Emocje społeczne, empatia i współczucie',    file: 'wiki/emocje/wspolczucie.md'         },
-      ]
-    },
-    { /* Podstawy pomocy psychologicznej */
-      section: 'Podstawy pomocy psychologicznej',
-      domainKey: 'podstawy_pomocy',
-      items: [
-        { id: 'podstawy_pomocy/wprowadzenie',                   label: 'Pomoc psychologiczna',  file: 'wiki/podstawy_pomocy/wprowadzenie.md'                   },
-        { id: 'podstawy_pomocy/relacja_pomocowa',               label: 'Relacja pomocowa',                     file: 'wiki/podstawy_pomocy/relacja_pomocowa.md'               },
-        { id: 'podstawy_pomocy/aktywne_sluchanie',              label: 'Aktywne sluchanie',                    file: 'wiki/podstawy_pomocy/aktywne_sluchanie.md'              },
-        { id: 'podstawy_pomocy/granice_w_pomocy',               label: 'Granice w relacji pomocowej',          file: 'wiki/podstawy_pomocy/granice_w_pomocy.md'               },
-        { id: 'podstawy_pomocy/kryzys_psychologiczny',          label: 'Kryzys psychologiczny i interwencja',  file: 'wiki/podstawy_pomocy/kryzys_psychologiczny.md'          },
-        { id: 'podstawy_pomocy/pierwsza_pomoc_psychologiczna',  label: 'Pierwsza pomoc psychologiczna',        file: 'wiki/podstawy_pomocy/pierwsza_pomoc_psychologiczna.md'  },
-        { id: 'podstawy_pomocy/modele_pomocy',                  label: 'Modele pomocy psychologicznej',        file: 'wiki/podstawy_pomocy/modele_pomocy.md'                  },
-        { id: 'podstawy_pomocy/komunikacja_wspierajaca',        label: 'Komunikacja wspierajaca',              file: 'wiki/podstawy_pomocy/komunikacja_wspierajaca.md'        },
-        { id: 'podstawy_pomocy/wsparcie_spoleczne',             label: 'Wsparcie społeczne',                   file: 'wiki/podstawy_pomocy/wsparcie_spoleczne.md'             },
-        { id: 'podstawy_pomocy/facylitacja',                    label: 'Facylitacja w pracy pomocowej',        file: 'wiki/podstawy_pomocy/facylitacja.md'                    },
-        { id: 'podstawy_pomocy/samoopieka_pomagajacego',        label: 'Samoopieka pomagajacego',              file: 'wiki/podstawy_pomocy/samoopieka_pomagajacego.md'        },
-        { id: 'podstawy_pomocy/etyka_pomocy',                   label: 'Etyka pomocy psychologicznej',         file: 'wiki/podstawy_pomocy/etyka_pomocy.md'                   },
       ]
     },
     { /* Temperament */
@@ -965,26 +848,112 @@ window.SITE_CONFIG = {
         { id: 'roznice_indywidualne/ciemna_triada',        label: 'Ciemna Triada',               file: 'wiki/roznice_indywidualne/ciemna_triada.md'          },
       ]
     },
-    { /* Psychometria */
-      section: 'Psychometria',
-      domainKey: 'psychometria',
+    { /* Psychologia społeczna */
+      section: 'Psychologia społeczna',
+      domainKey: 'spoleczna',
       items: [
-        { id: 'psychometria/psychometria_wprowadzenie', label: 'Podstawy pomiaru psychologicznego', file: 'wiki/psychometria/psychometria_wprowadzenie.md' },
-        { id: 'psychometria/modele_psychometryczne_i_struktura_testu', label: 'Modele psychometryczne i struktura testu', file: 'wiki/psychometria/modele_psychometryczne_i_struktura_testu.md' },
-        { id: 'psychometria/narzedzia_kliniczne', label: 'Narzędzia przesiewowe i kliniczne', file: 'wiki/psychometria/narzedzia_kliniczne.md' },
-        { id: 'psychometria/narzedzia_diagnozy_neurorozwojowej', label: 'Narzędzia diagnozy neurorozwojowej', file: 'wiki/psychometria/narzedzia_diagnozy_neurorozwojowej.md' },
-        { id: 'psychometria/testy_osobowosci_i_zdolnosci', label: 'Testy osobowości i zdolności', file: 'wiki/psychometria/testy_osobowosci_i_zdolnosci.md' },
+        { id: 'psychologia_spoleczna/ja_i_samoocena', label: 'Ja, samoocena i tożsamość społeczna', file: 'wiki/psychologia_spoleczna/ja_i_samoocena.md' },
+        { id: 'psychologia_spoleczna/percepcja_spoleczna', label: 'Percepcja społeczna, postawy i atrybucje', file: 'wiki/psychologia_spoleczna/percepcja_spoleczna.md' },
+        { id: 'psychologia_spoleczna/wplyw_spoleczny_perswazja_i_posluszenstwo', label: 'Wpływ społeczny, perswazja i posłuszeństwo', file: 'wiki/psychologia_spoleczna/wplyw_spoleczny_perswazja_i_posluszenstwo.md' },
+        { id: 'psychologia_spoleczna/grupy_relacje_i_wspolpraca', label: 'Grupy, relacje i współpraca', file: 'wiki/psychologia_spoleczna/grupy_relacje_i_wspolpraca.md' },
+        { id: 'psychologia_spoleczna/agresja_uprzedzenia_i_przemoc_spoleczna', label: 'Agresja, uprzedzenia i przemoc społeczna', file: 'wiki/psychologia_spoleczna/agresja_uprzedzenia_i_przemoc_spoleczna.md' },
       ]
     },
-    { /* Neurobiologia i neuropsychologia */
-      section: 'Neurobiologia',
-      domainKey: 'neuro',
+    { /* Psychologia pozytywna */
+      section: 'Psychologia pozytywna',
+      domainKey: 'psychologia_pozytywna',
       items: [
-        { id: 'neuropsychologia/podstawy_ukladu_nerwowego', label: 'Podstawy układu nerwowego', file: 'wiki/neuropsychologia/podstawy_ukladu_nerwowego.md' },
-        { id: 'neuropsychologia/funkcjonalna_anatomia_mozgu', label: 'Funkcjonalna anatomia mózgu', file: 'wiki/neuropsychologia/funkcjonalna_anatomia_mozgu.md' },
-        { id: 'neuropsychologia/metody_neuronauki_poznawczej', label: 'Metody neuronauki poznawczej', file: 'wiki/neuropsychologia/metody_neuronauki_poznawczej.md' },
-        { id: 'neuropsychologia/rozwoj_plastycznosc_i_zmiennosc_mozgu', label: 'Rozwój, plastyczność i zmienność mózgu', file: 'wiki/neuropsychologia/rozwoj_plastycznosc_i_zmiennosc_mozgu.md' },
-        { id: 'neuropsychologia/diagnoza_i_rehabilitacja_neuropsychologiczna', label: 'Diagnoza i rehabilitacja neuropsychologiczna', file: 'wiki/neuropsychologia/diagnoza_i_rehabilitacja_neuropsychologiczna.md' },
+        { id: 'psychologia_pozytywna/szczescie_dobrostan', label: 'Dobrostan psychiczny', file: 'wiki/psychologia_pozytywna/szczescie_dobrostan.md' },
+        { id: 'psychologia_pozytywna/interwencje_pozytywne', label: 'Interwencje psychologii pozytywnej', file: 'wiki/psychologia_pozytywna/interwencje_pozytywne.md' },
+        { id: 'psychologia_pozytywna/uwaznosc_przeplyw_i_samowspolczucie', label: 'Uważność, przepływ i samowspółczucie', file: 'wiki/psychologia_pozytywna/uwaznosc_przeplyw_i_samowspolczucie.md' },
+      ]
+    },
+    { /* Odpornosc psychiczna i mobbing */
+      section: 'Odporność psychiczna',
+      domainKey: 'rezyliencja_i_mobbing',
+      items: [
+        { id: 'rezyliencja_i_mobbing/odpornosc_wprowadzenie', label: 'Rezyliencja i adaptacja', file: 'wiki/rezyliencja_i_mobbing/odpornosc_wprowadzenie.md' },
+        { id: 'rezyliencja_i_mobbing/mobbing_definicja', label: 'Mobbing i przemoc psychiczna w pracy', file: 'wiki/rezyliencja_i_mobbing/mobbing_definicja.md' },
+        { id: 'rezyliencja_i_mobbing/wypalenie_zawodowe', label: 'Wypalenie zawodowe', file: 'wiki/rezyliencja_i_mobbing/wypalenie_zawodowe.md' },
+      ]
+    },
+    { /* Reagowanie na krytykę */
+      section: 'Reagowanie na krytykę',
+      domainKey: 'reagowanie_na_krytyke',
+      items: [
+        { id: 'reagowanie_na_krytyke/jak_nie_brac_do_siebie_opinii_innych', label: 'Jak konstruktywnie reagować na krytykę i informację zwrotną', file: 'wiki/reagowanie_na_krytyke/jak_nie_brac_do_siebie_opinii_innych.md' },
+      ]
+    },
+    { /* Psychologia rozwojowa */
+      section: 'Psychologia rozwojowa',
+      domainKey: 'rozwojowa',
+      items: [
+        { id: 'psychologia_rozwojowa/teorie_rozwoju', label: 'Teorie i metody badania rozwoju', file: 'wiki/psychologia_rozwojowa/teorie_rozwoju.md' },
+        { id: 'psychologia_rozwojowa/niemowlectwo',   label: 'Niemowlęctwo i dzieciństwo',      file: 'wiki/psychologia_rozwojowa/niemowlectwo.md'   },
+        { id: 'psychologia_rozwojowa/adolescencja',   label: 'Adolescencja i tożsamość',        file: 'wiki/psychologia_rozwojowa/adolescencja.md'   },
+        { id: 'psychologia_rozwojowa/doroslosc',      label: 'Dorosłość, starzenie i doświadczenia niekorzystne', file: 'wiki/psychologia_rozwojowa/doroslosc.md' },
+      ]
+    },
+    { /* Psychologia szkolna i edukacyjna */
+      section: 'Psychologia szkolna i edukacyjna',
+      domainKey: 'psychologia_szkolna',
+      items: [
+        { id: 'psychologia_szkolna/teorie_uczenia_sie',            label: 'Uczenie się i motywacja szkolna',                       file: 'wiki/psychologia_szkolna/teorie_uczenia_sie.md'            },
+        { id: 'psychologia_szkolna/trudnosci_w_uczeniu_sie',       label: 'Trudności w uczeniu i wsparcie szkolne',                 file: 'wiki/psychologia_szkolna/trudnosci_w_uczeniu_sie.md'       },
+        { id: 'psychologia_szkolna/klimat_szkolny',                label: 'Klimat szkolny, stres i przemoc',                           file: 'wiki/psychologia_szkolna/klimat_szkolny.md'                },
+        { id: 'psychologia_szkolna/ocenianie_i_informacja_zwrotna', label: 'Ocenianie, informacja zwrotna i relacja edukacyjna', file: 'wiki/psychologia_szkolna/ocenianie_i_informacja_zwrotna.md' },
+      ]
+    },
+    { /* Relacje i związki */
+      section: 'Relacje i związki',
+      domainKey: 'relacje',
+      items: [
+        { id: 'relacje/tworzenie_i_rozwoj_relacji_intymnej', label: 'Tworzenie i rozwój relacji intymnej', file: 'wiki/relacje/tworzenie_i_rozwoj_relacji_intymnej.md' },
+        { id: 'relacje/komunikacja_para', label: 'Komunikacja i konflikty w parze', file: 'wiki/relacje/komunikacja_para.md' },
+        { id: 'relacje/kryzys_zdrada_i_rozstanie', label: 'Kryzys związku, zdrada i rozstanie', file: 'wiki/relacje/kryzys_zdrada_i_rozstanie.md' },
+        { id: 'relacje/przemoc_zwiazki', label: 'Przemoc w związku', file: 'wiki/relacje/przemoc_zwiazki.md' },
+        { id: 'relacje/przyjazn_rodzina_i_samotnosc', label: 'Przyjaźń, rodzina i samotność', file: 'wiki/relacje/przyjazn_rodzina_i_samotnosc.md' },
+      ]
+    },
+    { /* Systemy rodzinne */
+      section: 'Systemy rodzinne',
+      domainKey: 'systemy_rodzinne',
+      items: [
+        { id: 'systemy_rodzinne/wprowadzenie_do_terapii_systemowej', label: 'Systemowe rozumienie rodziny', file: 'wiki/systemy_rodzinne/wprowadzenie_do_terapii_systemowej.md' },
+        { id: 'systemy_rodzinne/terapia_systemow_wewnetrznej_rodziny_ifs', label: 'Terapia systemów wewnętrznej rodziny (IFS)', file: 'wiki/systemy_rodzinne/terapia_systemow_wewnetrznej_rodziny_ifs.md' },
+        { id: 'systemy_rodzinne/terapie_systemowe_i_rodzinne', label: 'Terapie systemowe i rodzinne', file: 'wiki/systemy_rodzinne/terapie_systemowe_i_rodzinne.md' },
+      ]
+    },
+    { /* Psychologia kulturowa */
+      section: 'Psychologia kulturowa',
+      domainKey: 'kulturowa',
+      items: [
+        { id: 'kulturowa/wprowadzenie', label: 'Podstawy i metodologia psychologii kulturowej', file: 'wiki/kulturowa/wprowadzenie.md' },
+        { id: 'kulturowa/kultura_a_procesy_psychiczne', label: 'Kultura a poznanie, emocje i Ja', file: 'wiki/kulturowa/kultura_a_procesy_psychiczne.md' },
+        { id: 'kulturowa/akulturacja_relacje_i_zdrowie', label: 'Akulturacja, relacje i zdrowie', file: 'wiki/kulturowa/akulturacja_relacje_i_zdrowie.md' },
+      ]
+    },
+    { /* Psychologia religii */
+      section: 'Psychologia religii',
+      domainKey: 'psychologia_religii',
+      items: [
+        { id: 'psychologia_religii/religijnosc_i_duchowosc', label: 'Religijność, duchowość i rozwój', file: 'wiki/psychologia_religii/religijnosc_i_duchowosc.md' },
+        { id: 'psychologia_religii/religia_a_zdrowie_psychiczne', label: 'Religia, zdrowie psychiczne i radzenie sobie', file: 'wiki/psychologia_religii/religia_a_zdrowie_psychiczne.md' },
+        { id: 'psychologia_religii/doswiadczenia_religijne_w_praktyce_klinicznej', label: 'Doświadczenia religijne w praktyce klinicznej', file: 'wiki/psychologia_religii/doswiadczenia_religijne_w_praktyce_klinicznej.md' },
+        { id: 'psychologia_religii/metodologia_badan', label: 'Metodologia badań nad religią i moralnością', file: 'wiki/psychologia_religii/metodologia_badan.md' },
+        ]
+    },
+    { /* Psychopatologia */
+      section: 'Psychopatologia',
+      domainKey: 'psychopatologia',
+      items: [
+        { id: 'psychopatologia/psychopatologia_wprowadzenie', label: 'Podstawy psychopatologii', file: 'wiki/psychopatologia/psychopatologia_wprowadzenie.md' },
+        { id: 'psychopatologia/zaburzenia_nastroju', label: 'Zaburzenia nastroju', file: 'wiki/psychopatologia/zaburzenia_nastroju.md' },
+        { id: 'psychopatologia/zaburzenia_lekowe_i_obsesyjno_kompulsyjne', label: 'Zaburzenia lękowe i OCD', file: 'wiki/psychopatologia/zaburzenia_lekowe_i_obsesyjno_kompulsyjne.md' },
+        { id: 'psychopatologia/psychozy', label: 'Psychozy', file: 'wiki/psychopatologia/psychozy.md' },
+        { id: 'psychopatologia/trauma_ptsd', label: 'Trauma, dysocjacja i wiktymizacja', file: 'wiki/psychopatologia/trauma_ptsd.md' },
+        { id: 'psychopatologia/zaburzenia_osobowosci', label: 'Osobowość, psychopatia i socjopatia', file: 'wiki/psychopatologia/zaburzenia_osobowosci.md' },
+        { id: 'psychopatologia/zaburzenia_odzywiania_i_uzaleznienia', label: 'Zaburzenia odżywiania i uzależnienia', file: 'wiki/psychopatologia/zaburzenia_odzywiania_i_uzaleznienia.md' },
       ]
     },
     { /* Zaburzenia kliniczne */
@@ -998,6 +967,44 @@ window.SITE_CONFIG = {
         { id: 'zaburzenia/apraksja',  label: 'Apraksja',              file: 'wiki/zaburzenia/apraksja.md'  },
         { id: 'zaburzenia/agnozja',   label: 'Agnozja wzrokowa',      file: 'wiki/zaburzenia/agnozja.md'   },
         { id: 'zaburzenia/neglect',   label: 'Neglect przestrzenny',  file: 'wiki/zaburzenia/neglect.md'   },
+      ]
+    },
+    { /* Diagnoza psychologiczna */
+      section: 'Diagnoza psychologiczna',
+      domainKey: 'diagnoza',
+      items: [
+        { id: 'diagnoza/etapy_diagnozy', label: 'Proces diagnozy psychologicznej', file: 'wiki/diagnoza/etapy_diagnozy.md' },
+        { id: 'diagnoza/wywiad_psychologiczny', label: 'Wywiad, rozmowa i obserwacja', file: 'wiki/diagnoza/wywiad_psychologiczny.md' },
+        { id: 'diagnoza/formulowanie_przypadku', label: 'Formułowanie, metody dodatkowe i opinia', file: 'wiki/diagnoza/formulowanie_przypadku.md' },
+      ]
+    },
+    { /* Psychometria */
+      section: 'Psychometria',
+      domainKey: 'psychometria',
+      items: [
+        { id: 'psychometria/psychometria_wprowadzenie', label: 'Podstawy pomiaru psychologicznego', file: 'wiki/psychometria/psychometria_wprowadzenie.md' },
+        { id: 'psychometria/modele_psychometryczne_i_struktura_testu', label: 'Modele psychometryczne i struktura testu', file: 'wiki/psychometria/modele_psychometryczne_i_struktura_testu.md' },
+        { id: 'psychometria/narzedzia_kliniczne', label: 'Narzędzia przesiewowe i kliniczne', file: 'wiki/psychometria/narzedzia_kliniczne.md' },
+        { id: 'psychometria/narzedzia_diagnozy_neurorozwojowej', label: 'Narzędzia diagnozy neurorozwojowej', file: 'wiki/psychometria/narzedzia_diagnozy_neurorozwojowej.md' },
+        { id: 'psychometria/testy_osobowosci_i_zdolnosci', label: 'Testy osobowości i zdolności', file: 'wiki/psychometria/testy_osobowosci_i_zdolnosci.md' },
+      ]
+    },
+    { /* Testy psychologiczne */
+      section: 'Testy psychologiczne',
+      domainKey: 'tests',
+      items: [
+        { id: 'testy/testy_przeglad',    label: 'Testy - przeglad',           file: 'wiki/testy/testy_przeglad.md'    },
+        { id: 'testy/mmse_moca',         label: 'Testy przesiewowe',          file: 'wiki/testy/mmse_moca.md'         },
+        { id: 'testy/testy_wykonawcze',  label: 'Testy wyk. - przeglad',      file: 'wiki/testy/testy_wykonawcze.md'  },
+        { id: 'testy/testy_pamieci',     label: 'Testy pamieci',              file: 'wiki/testy/testy_pamieci.md'     },
+        { id: 'testy/testy_uwagi',       label: 'Testy uwagi',                file: 'wiki/testy/testy_uwagi.md'       },
+        { id: 'testy/testy_jezyka',      label: 'Testy jezykowe',             file: 'wiki/testy/testy_jezyka.md'      },
+        { id: 'testy/wais',              label: 'Skale Wechslera (WAIS/WISC)',file: 'wiki/testy/wais.md'              },
+        { id: 'testy/wisc_v',            label: 'WISC-V - opis testu',        file: 'wiki/testy/wisc_v.md'            },
+        { id: 'testy/neuropsych_battery',label: 'Baterie neuropsychologiczne',file: 'wiki/testy/neuropsych_battery.md'},
+        { id: 'testy/rdoc',              label: 'Model RDoC',                  file: 'wiki/testy/rdoc.md'              },
+        { id: 'testy/scid_v',            label: 'SCID-5 / SCID-V',             file: 'wiki/testy/scid_v.md'            },
+        { id: 'testy/apis_zr',           label: 'APIS-ZR - zastosowanie w diagnozie', file: 'wiki/testy/apis_zr.md' },
       ]
     },
     { /* Przypadki kliniczne */
@@ -1019,63 +1026,13 @@ window.SITE_CONFIG = {
         { id: 'przypadki_kliniczne/sm',            label: 'Pacjentka S.M. (uszkodzenie ciala migdalowatego)', file: 'wiki/przypadki_kliniczne/sm.md' },
       ]
     },
-    { /* Psychopatologia */
-      section: 'Psychopatologia',
-      domainKey: 'psychopatologia',
+    { /* Psychologia kliniczna dzieci i młodzieży */
+      section: 'Psychologia kliniczna dzieci i młodzieży',
+      domainKey: 'psychologia_kliniczna_dziecka',
       items: [
-        { id: 'psychopatologia/psychopatologia_wprowadzenie', label: 'Podstawy psychopatologii', file: 'wiki/psychopatologia/psychopatologia_wprowadzenie.md' },
-        { id: 'psychopatologia/zaburzenia_nastroju', label: 'Zaburzenia nastroju', file: 'wiki/psychopatologia/zaburzenia_nastroju.md' },
-        { id: 'psychopatologia/zaburzenia_lekowe_i_obsesyjno_kompulsyjne', label: 'Zaburzenia lękowe i OCD', file: 'wiki/psychopatologia/zaburzenia_lekowe_i_obsesyjno_kompulsyjne.md' },
-        { id: 'psychopatologia/psychozy', label: 'Psychozy', file: 'wiki/psychopatologia/psychozy.md' },
-        { id: 'psychopatologia/trauma_ptsd', label: 'Trauma, dysocjacja i wiktymizacja', file: 'wiki/psychopatologia/trauma_ptsd.md' },
-        { id: 'psychopatologia/zaburzenia_osobowosci', label: 'Osobowość, psychopatia i socjopatia', file: 'wiki/psychopatologia/zaburzenia_osobowosci.md' },
-        { id: 'psychopatologia/zaburzenia_odzywiania_i_uzaleznienia', label: 'Zaburzenia odżywiania i uzależnienia', file: 'wiki/psychopatologia/zaburzenia_odzywiania_i_uzaleznienia.md' },
+        { id: 'psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka', label: 'Psychologia kliniczna dzieci i młodzieży', file: 'wiki/psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka.md', aliases: ['psychologia kliniczna dziecka', 'psychologia kliniczna dzieci'] },
       ]
     },
-    { /* Testy psychologiczne */
-      section: 'Testy psychologiczne',
-      domainKey: 'tests',
-      items: [
-        { id: 'testy/testy_przeglad',    label: 'Testy - przeglad',           file: 'wiki/testy/testy_przeglad.md'    },
-        { id: 'testy/mmse_moca',         label: 'Testy przesiewowe',          file: 'wiki/testy/mmse_moca.md'         },
-        { id: 'testy/testy_wykonawcze',  label: 'Testy wyk. - przeglad',      file: 'wiki/testy/testy_wykonawcze.md'  },
-        { id: 'testy/testy_pamieci',     label: 'Testy pamieci',              file: 'wiki/testy/testy_pamieci.md'     },
-        { id: 'testy/testy_uwagi',       label: 'Testy uwagi',                file: 'wiki/testy/testy_uwagi.md'       },
-        { id: 'testy/testy_jezyka',      label: 'Testy jezykowe',             file: 'wiki/testy/testy_jezyka.md'      },
-        { id: 'testy/wais',              label: 'Skale Wechslera (WAIS/WISC)',file: 'wiki/testy/wais.md'              },
-        { id: 'testy/wisc_v',            label: 'WISC-V - opis testu',        file: 'wiki/testy/wisc_v.md'            },
-        { id: 'testy/neuropsych_battery',label: 'Baterie neuropsychologiczne',file: 'wiki/testy/neuropsych_battery.md'},
-        { id: 'testy/rdoc',              label: 'Model RDoC',                  file: 'wiki/testy/rdoc.md'              },
-        { id: 'testy/scid_v',            label: 'SCID-5 / SCID-V',             file: 'wiki/testy/scid_v.md'            },
-        { id: 'testy/apis_zr',           label: 'APIS-ZR - zastosowanie w diagnozie', file: 'wiki/testy/apis_zr.md' },
-      ]
-    },
-    { /* Funkcje poznawcze */
-      section: 'Funkcje poznawcze',
-      domainKey: 'poznawcza',
-      items: [
-        { id: 'psychologia_poznawcza/percepcja',          label: 'Percepcja i uwaga',                            file: 'wiki/psychologia_poznawcza/percepcja.md'          },
-        { id: 'psychologia_poznawcza/pamiec',             label: 'Pamięć i uczenie się',                          file: 'wiki/psychologia_poznawcza/pamiec.md'             },
-        { id: 'psychologia_poznawcza/funkcje_wykonawcze', label: 'Funkcje wykonawcze i obciążenie poznawcze',     file: 'wiki/psychologia_poznawcza/funkcje_wykonawcze.md' },
-        { id: 'psychologia_poznawcza/myslenie',           label: 'Myślenie i podejmowanie decyzji',               file: 'wiki/psychologia_poznawcza/myslenie.md'           },
-        { id: 'psychologia_poznawcza/jezyk',              label: 'Język, narracja i wyobraźnia',                  file: 'wiki/psychologia_poznawcza/jezyk.md'              },
-        { id: 'psychologia_poznawcza/swiadomosc',         label: 'Świadomość, ucieleśnienie i predykcja',         file: 'wiki/psychologia_poznawcza/swiadomosc.md'         },
-        { id: 'psychologia_poznawcza/nauki_kognitywne',   label: 'Nauki kognitywne i architektury poznawcze',    file: 'wiki/psychologia_poznawcza/nauki_kognitywne.md'   },
-      ]
-    },
-    { /* Psychologia zdrowia */
-      section: 'Psychologia zdrowia',
-      domainKey: 'psychologia_zdrowia',
-      items: [
-        { id: 'psychologia_zdrowia/zdrowie_wprowadzenie', label: 'Modele zdrowia i choroby', file: 'wiki/psychologia_zdrowia/zdrowie_wprowadzenie.md' },
-        { id: 'psychologia_zdrowia/zachowania_zdrowotne', label: 'Zachowania i styl życia', file: 'wiki/psychologia_zdrowia/zachowania_zdrowotne.md' },
-        { id: 'psychologia_zdrowia/stres', label: 'Stres, radzenie sobie i wsparcie', file: 'wiki/psychologia_zdrowia/stres.md' },
-        { id: 'psychologia_zdrowia/choroby_przewlekle', label: 'Choroba przewlekła, rehabilitacja i jakość życia', file: 'wiki/psychologia_zdrowia/choroby_przewlekle.md' },
-        { id: 'psychologia_zdrowia/bol', label: 'Psychologia bólu', file: 'wiki/psychologia_zdrowia/bol.md' },
-        { id: 'psychologia_zdrowia/interwencje_zdrowotne', label: 'Komunikacja i interwencje w opiece zdrowotnej', file: 'wiki/psychologia_zdrowia/interwencje_zdrowotne.md' },
-      ]
-    },
-    
     { /* Psychosomatyka */
       section: 'Psychosomatyka',
       domainKey: 'psychosomatyka',
@@ -1086,80 +1043,33 @@ window.SITE_CONFIG = {
         { id: 'psychosomatyka/psychologiczne_aspekty_chorob_somatycznych', label: 'Psychologia w chorobach somatycznych', file: 'wiki/psychosomatyka/psychologiczne_aspekty_chorob_somatycznych.md' },
       ]
     },
-    
-    { /* Porozumiewanie się bez przemocy (NVC) */
-      section: 'Porozumiewanie się bez przemocy (NVC)',
-      domainKey: 'porozumiewanie_sie_bez_przemocy',
+    { /* Suicydologia */
+      section: 'Suicydologia',
+      domainKey: 'suicydologia',
       items: [
-        { id: 'porozumiewanie_sie_bez_przemocy/wprowadzenie',              label: 'NVC',                    file: 'wiki/porozumiewanie_sie_bez_przemocy/wprowadzenie.md'              },
-        { id: 'porozumiewanie_sie_bez_przemocy/nvc_w_praktyce',            label: 'NVC w praktyce',         file: 'wiki/porozumiewanie_sie_bez_przemocy/nvc_w_praktyce.md'            },
+        { id: 'suicydologia/suicydologia_wprowadzenie', label: 'Podstawy, epidemiologia i modele', file: 'wiki/suicydologia/suicydologia_wprowadzenie.md' },
+        { id: 'suicydologia/uwarunkowania_i_czynniki_ryzyka_samobojczego', label: 'Uwarunkowania i czynniki ryzyka', file: 'wiki/suicydologia/uwarunkowania_i_czynniki_ryzyka_samobojczego.md' },
+        { id: 'suicydologia/ocena_i_interwencja_w_kryzysie_samobojczym', label: 'Ocena i interwencja w kryzysie', file: 'wiki/suicydologia/ocena_i_interwencja_w_kryzysie_samobojczym.md' },
+        { id: 'suicydologia/profilaktyka', label: 'Profilaktyka, media i postwencja', file: 'wiki/suicydologia/profilaktyka.md' },
+        { id: 'suicydologia/nssi', label: 'Samouszkodzenia bez intencji samobójczej (NSSI)', file: 'wiki/suicydologia/nssi.md' },
       ]
     },
-    { /* Arteterapia */
-      section: 'Arteterapia',
-      domainKey: 'arteterapia',
+    { /* Podstawy pomocy psychologicznej */
+      section: 'Podstawy pomocy psychologicznej',
+      domainKey: 'podstawy_pomocy',
       items: [
-        {
-          id: 'arteterapia/arteterapia_wprowadzenie',
-          label: 'Arteterapia i terapie wykorzystujące sztukę',
-          aliases: ['Arteterapia', 'Terapie wykorzystujące sztukę'],
-          file: 'wiki/arteterapia/arteterapia_wprowadzenie.md'
-        },
-      ]
-    },
-    { /* Animaloterapia */
-      section: 'Animaloterapia',
-      domainKey: 'animaloterapia',
-      items: [
-        { id: 'animaloterapia/animaloterapia_wprowadzenie', label: 'Interwencje wspomagane przez zwierzęta', file: 'wiki/animaloterapia/animaloterapia_wprowadzenie.md' },
-      ]
-    },
-    { /* Odpornosc psychiczna i mobbing */
-      section: 'Odporność psychiczna',
-      domainKey: 'rezyliencja_i_mobbing',
-      items: [
-        { id: 'rezyliencja_i_mobbing/odpornosc_wprowadzenie', label: 'Rezyliencja i adaptacja', file: 'wiki/rezyliencja_i_mobbing/odpornosc_wprowadzenie.md' },
-        { id: 'rezyliencja_i_mobbing/mobbing_definicja', label: 'Mobbing i przemoc psychiczna w pracy', file: 'wiki/rezyliencja_i_mobbing/mobbing_definicja.md' },
-        { id: 'rezyliencja_i_mobbing/wypalenie_zawodowe', label: 'Wypalenie zawodowe', file: 'wiki/rezyliencja_i_mobbing/wypalenie_zawodowe.md' },
-      ]
-    },
-    { /* Psychologia szkolna i edukacyjna */
-      section: 'Psychologia szkolna i edukacyjna',
-      domainKey: 'psychologia_szkolna',
-      items: [
-        { id: 'psychologia_szkolna/teorie_uczenia_sie',            label: 'Uczenie się i motywacja szkolna',                       file: 'wiki/psychologia_szkolna/teorie_uczenia_sie.md'            },
-        { id: 'psychologia_szkolna/trudnosci_w_uczeniu_sie',       label: 'Trudności w uczeniu i wsparcie szkolne',                 file: 'wiki/psychologia_szkolna/trudnosci_w_uczeniu_sie.md'       },
-        { id: 'psychologia_szkolna/klimat_szkolny',                label: 'Klimat szkolny, stres i przemoc',                           file: 'wiki/psychologia_szkolna/klimat_szkolny.md'                },
-        { id: 'psychologia_szkolna/ocenianie_i_informacja_zwrotna', label: 'Ocenianie, informacja zwrotna i relacja edukacyjna', file: 'wiki/psychologia_szkolna/ocenianie_i_informacja_zwrotna.md' },
-      ]
-    },
-    { /* Psychologia osob z niepelnosprawnoscia */
-      section: 'Psychologia osób z niepełnosprawnością',
-      domainKey: 'psychologia_niepelnosprawnosci',
-      items: [
-        { id: 'psychologia_niepelnosprawnosci/wprowadzenie',                 label: 'Modele, prawa i inkluzja',        file: 'wiki/psychologia_niepelnosprawnosci/wprowadzenie.md'                 },
-        { id: 'psychologia_niepelnosprawnosci/funkcjonowanie_i_bariery',      label: 'Funkcjonowanie i bariery',        file: 'wiki/psychologia_niepelnosprawnosci/funkcjonowanie_i_bariery.md'      },
-        { id: 'psychologia_niepelnosprawnosci/adaptacja_rodzina_i_wsparcie',  label: 'Adaptacja, rodzina i wsparcie',   file: 'wiki/psychologia_niepelnosprawnosci/adaptacja_rodzina_i_wsparcie.md'  },
-      ]
-    },
-    { /* Psychologia osob w podeszlym wieku */
-      section: 'Psychologia osób w podeszłym wieku',
-      domainKey: 'geropsychologia',
-      items: [
-        { id: 'geropsychologia/wprowadzenie', label: 'Psychologia starzenia się i późnej dorosłości', file: 'wiki/geropsychologia/wprowadzenie.md' },
-        { id: 'geropsychologia/poznanie_i_zdrowie_psychiczne_w_starosci', label: 'Funkcje poznawcze i zdrowie psychiczne', file: 'wiki/geropsychologia/poznanie_i_zdrowie_psychiczne_w_starosci.md' },
-        { id: 'geropsychologia/pomoc_psychologiczna_i_opieka_w_starosci', label: 'Pomoc psychologiczna, opieka i koniec życia', file: 'wiki/geropsychologia/pomoc_psychologiczna_i_opieka_w_starosci.md' },
-      ]
-    },
-    { /* Neuroroznorodnosc i neurodiversity */
-      section: 'Neuroróżnorodność',
-      domainKey: 'neuroroznorodnosc',
-      items: [
-        { id: 'neuroroznorodnosc/wprowadzenie', label: 'Neuroróżnorodność, identyfikacja i modele', file: 'wiki/neuroroznorodnosc/wprowadzenie.md' },
-        { id: 'neuroroznorodnosc/adhd', label: 'ADHD', file: 'wiki/neuroroznorodnosc/adhd.md' },
-        { id: 'neuroroznorodnosc/spektrum_autyzmu', label: 'Spektrum autyzmu i przetwarzanie sensoryczne', aliases: ['Spektrum autyzmu', 'Autyzm', 'ASD'], file: 'wiki/neuroroznorodnosc/spektrum_autyzmu.md' },
-        { id: 'neuroroznorodnosc/specyficzne_roznice_rozwojowe_i_tiki', label: 'Specyficzne różnice rozwojowe i tiki', file: 'wiki/neuroroznorodnosc/specyficzne_roznice_rozwojowe_i_tiki.md' },
-        { id: 'neuroroznorodnosc/wsparcie_interwencje', label: 'Wsparcie w edukacji, pracy i życiu codziennym', file: 'wiki/neuroroznorodnosc/wsparcie_interwencje.md' },
+        { id: 'podstawy_pomocy/wprowadzenie',                   label: 'Pomoc psychologiczna',  file: 'wiki/podstawy_pomocy/wprowadzenie.md'                   },
+        { id: 'podstawy_pomocy/relacja_pomocowa',               label: 'Relacja pomocowa',                     file: 'wiki/podstawy_pomocy/relacja_pomocowa.md'               },
+        { id: 'podstawy_pomocy/aktywne_sluchanie',              label: 'Aktywne sluchanie',                    file: 'wiki/podstawy_pomocy/aktywne_sluchanie.md'              },
+        { id: 'podstawy_pomocy/granice_w_pomocy',               label: 'Granice w relacji pomocowej',          file: 'wiki/podstawy_pomocy/granice_w_pomocy.md'               },
+        { id: 'podstawy_pomocy/kryzys_psychologiczny',          label: 'Kryzys psychologiczny i interwencja',  file: 'wiki/podstawy_pomocy/kryzys_psychologiczny.md'          },
+        { id: 'podstawy_pomocy/pierwsza_pomoc_psychologiczna',  label: 'Pierwsza pomoc psychologiczna',        file: 'wiki/podstawy_pomocy/pierwsza_pomoc_psychologiczna.md'  },
+        { id: 'podstawy_pomocy/modele_pomocy',                  label: 'Modele pomocy psychologicznej',        file: 'wiki/podstawy_pomocy/modele_pomocy.md'                  },
+        { id: 'podstawy_pomocy/komunikacja_wspierajaca',        label: 'Komunikacja wspierajaca',              file: 'wiki/podstawy_pomocy/komunikacja_wspierajaca.md'        },
+        { id: 'podstawy_pomocy/wsparcie_spoleczne',             label: 'Wsparcie społeczne',                   file: 'wiki/podstawy_pomocy/wsparcie_spoleczne.md'             },
+        { id: 'podstawy_pomocy/facylitacja',                    label: 'Facylitacja w pracy pomocowej',        file: 'wiki/podstawy_pomocy/facylitacja.md'                    },
+        { id: 'podstawy_pomocy/samoopieka_pomagajacego',        label: 'Samoopieka pomagajacego',              file: 'wiki/podstawy_pomocy/samoopieka_pomagajacego.md'        },
+        { id: 'podstawy_pomocy/etyka_pomocy',                   label: 'Etyka pomocy psychologicznej',         file: 'wiki/podstawy_pomocy/etyka_pomocy.md'                   },
       ]
     },
     { /* Psychoterapia */
@@ -1173,6 +1083,57 @@ window.SITE_CONFIG = {
         { id: 'psychoterapia/podejscia_psychodynamiczne_i_humanistyczne', label: 'Podejścia psychodynamiczne i humanistyczne', file: 'wiki/psychoterapia/podejscia_psychodynamiczne_i_humanistyczne.md' },
         { id: 'psychoterapia/emdr', label: 'Psychoterapia traumy i EMDR', file: 'wiki/psychoterapia/emdr.md' },
         { id: 'psychoterapia/interwencje_relacyjne_i_niestandardowe', label: 'Interwencje relacyjne i niestandardowe', file: 'wiki/psychoterapia/interwencje_relacyjne_i_niestandardowe.md' },
+      ]
+    },
+    { /* E-terapia */
+      section: 'E-terapia',
+      domainKey: 'e_terapia',
+      items: [
+        { id: 'e_terapia/terapia_online', label: 'Terapia online', file: 'wiki/e_terapia/terapia_online.md' },
+        { id: 'e_terapia/cyfrowe_narzedzia_zdrowia_psychicznego', label: 'Cyfrowe narzędzia zdrowia psychicznego', file: 'wiki/e_terapia/cyfrowe_narzedzia_zdrowia_psychicznego.md' },
+        { id: 'e_terapia/vr_terapia', label: 'Wirtualna rzeczywistość w terapii', file: 'wiki/e_terapia/vr_terapia.md' },
+      ]
+    },
+    { /* Porozumiewanie się bez przemocy (NVC) */
+      section: 'Porozumiewanie się bez przemocy (NVC)',
+      domainKey: 'porozumiewanie_sie_bez_przemocy',
+      items: [
+        { id: 'porozumiewanie_sie_bez_przemocy/wprowadzenie',              label: 'NVC',                    file: 'wiki/porozumiewanie_sie_bez_przemocy/wprowadzenie.md'              },
+        { id: 'porozumiewanie_sie_bez_przemocy/nvc_w_praktyce',            label: 'NVC w praktyce',         file: 'wiki/porozumiewanie_sie_bez_przemocy/nvc_w_praktyce.md'            },
+      ]
+    },
+    { /* Doświadczenie somatyczne (Somatic Experiencing) */
+      section: 'Doświadczenie somatyczne (Somatic Experiencing)',
+      domainKey: 'somatic_experiencing',
+      items: [
+        { id: 'doswiadczenie_somatyczne/wprowadzenie_do_doswiadczenia_somatycznego', label: 'Somatic Experiencing: założenia, praktyka i stan badań', file: 'wiki/doswiadczenie_somatyczne/wprowadzenie_do_doswiadczenia_somatycznego.md' },
+      ]
+    },
+    { /* Biologiczne podstawy zachowania */
+      section: 'Biologiczne podstawy zachowania',
+      domainKey: 'biology',
+      items: [
+        { id: 'biologia/biologiczne_podstawy', label: 'Biologiczne podstawy - wprow.',  file: 'wiki/biologia/biologiczne_podstawy.md'  },
+        { id: 'biologia/genetyka_beh',         label: 'Genetyka behawioralna',          file: 'wiki/biologia/genetyka_beh.md'          },
+        { id: 'biologia/transmisja_genetyczna_zaburzen_psychicznych', label: 'Transmisja genetyczna zaburzen', file: 'wiki/biologia/transmisja_genetyczna_zaburzen_psychicznych.md' },
+        { id: 'biologia/epigenetyka',          label: 'Epigenetyka',                    file: 'wiki/biologia/epigenetyka.md'           },
+        { id: 'biologia/hormony',              label: 'Hormony i zachowanie',           file: 'wiki/biologia/hormony.md'               },
+        { id: 'biologia/ewolucja',             label: 'Ewolucja i psychologia ewol.',   file: 'wiki/biologia/ewolucja.md'              },
+        { id: 'biologia/psychofizjologia',     label: 'Psychofizjologia',               file: 'wiki/biologia/psychofizjologia.md'      },
+        { id: 'biologia/chronobiologia',       label: 'Chronobiologia i sen',           file: 'wiki/biologia/chronobiologia.md'        },
+        { id: 'biologia/chronopsychologia',    label: 'Chronopsychologia',              file: 'wiki/biologia/chronopsychologia.md'     },
+        { id: 'biologia/mikrobiom',            label: 'Oś jelita-mózg',               file: 'wiki/biologia/mikrobiom.md'             },
+      ]
+    },
+    { /* Neurobiologia i neuropsychologia */
+      section: 'Neurobiologia',
+      domainKey: 'neuro',
+      items: [
+        { id: 'neuropsychologia/podstawy_ukladu_nerwowego', label: 'Podstawy układu nerwowego', file: 'wiki/neuropsychologia/podstawy_ukladu_nerwowego.md' },
+        { id: 'neuropsychologia/funkcjonalna_anatomia_mozgu', label: 'Funkcjonalna anatomia mózgu', file: 'wiki/neuropsychologia/funkcjonalna_anatomia_mozgu.md' },
+        { id: 'neuropsychologia/metody_neuronauki_poznawczej', label: 'Metody neuronauki poznawczej', file: 'wiki/neuropsychologia/metody_neuronauki_poznawczej.md' },
+        { id: 'neuropsychologia/rozwoj_plastycznosc_i_zmiennosc_mozgu', label: 'Rozwój, plastyczność i zmienność mózgu', file: 'wiki/neuropsychologia/rozwoj_plastycznosc_i_zmiennosc_mozgu.md' },
+        { id: 'neuropsychologia/diagnoza_i_rehabilitacja_neuropsychologiczna', label: 'Diagnoza i rehabilitacja neuropsychologiczna', file: 'wiki/neuropsychologia/diagnoza_i_rehabilitacja_neuropsychologiczna.md' },
       ]
     },
     { /* Farmakologia i psychofarmakologia */
@@ -1193,24 +1154,44 @@ window.SITE_CONFIG = {
           { id: 'psychofarmakologia/bezpieczenstwo_i_personalizacja_farmakoterapii', label: 'Bezpieczeństwo i personalizacja farmakoterapii', file: 'wiki/psychofarmakologia/bezpieczenstwo_i_personalizacja_farmakoterapii.md' },
         ]
     },
-    { /* Psychologia pozytywna */
-      section: 'Psychologia pozytywna',
-      domainKey: 'psychologia_pozytywna',
+    { /* Neuroroznorodnosc i neurodiversity */
+      section: 'Neuroróżnorodność',
+      domainKey: 'neuroroznorodnosc',
       items: [
-        { id: 'psychologia_pozytywna/szczescie_dobrostan', label: 'Dobrostan psychiczny', file: 'wiki/psychologia_pozytywna/szczescie_dobrostan.md' },
-        { id: 'psychologia_pozytywna/interwencje_pozytywne', label: 'Interwencje psychologii pozytywnej', file: 'wiki/psychologia_pozytywna/interwencje_pozytywne.md' },
-        { id: 'psychologia_pozytywna/uwaznosc_przeplyw_i_samowspolczucie', label: 'Uważność, przepływ i samowspółczucie', file: 'wiki/psychologia_pozytywna/uwaznosc_przeplyw_i_samowspolczucie.md' },
+        { id: 'neuroroznorodnosc/wprowadzenie', label: 'Neuroróżnorodność, identyfikacja i modele', file: 'wiki/neuroroznorodnosc/wprowadzenie.md' },
+        { id: 'neuroroznorodnosc/adhd', label: 'ADHD', file: 'wiki/neuroroznorodnosc/adhd.md' },
+        { id: 'neuroroznorodnosc/spektrum_autyzmu', label: 'Spektrum autyzmu i przetwarzanie sensoryczne', aliases: ['Spektrum autyzmu', 'Autyzm', 'ASD'], file: 'wiki/neuroroznorodnosc/spektrum_autyzmu.md' },
+        { id: 'neuroroznorodnosc/specyficzne_roznice_rozwojowe_i_tiki', label: 'Specyficzne różnice rozwojowe i tiki', file: 'wiki/neuroroznorodnosc/specyficzne_roznice_rozwojowe_i_tiki.md' },
+        { id: 'neuroroznorodnosc/wsparcie_interwencje', label: 'Wsparcie w edukacji, pracy i życiu codziennym', file: 'wiki/neuroroznorodnosc/wsparcie_interwencje.md' },
       ]
     },
-    { /* Suicydologia */
-      section: 'Suicydologia',
-      domainKey: 'suicydologia',
+    { /* Psychologia zdrowia */
+      section: 'Psychologia zdrowia',
+      domainKey: 'psychologia_zdrowia',
       items: [
-        { id: 'suicydologia/suicydologia_wprowadzenie', label: 'Podstawy, epidemiologia i modele', file: 'wiki/suicydologia/suicydologia_wprowadzenie.md' },
-        { id: 'suicydologia/uwarunkowania_i_czynniki_ryzyka_samobojczego', label: 'Uwarunkowania i czynniki ryzyka', file: 'wiki/suicydologia/uwarunkowania_i_czynniki_ryzyka_samobojczego.md' },
-        { id: 'suicydologia/ocena_i_interwencja_w_kryzysie_samobojczym', label: 'Ocena i interwencja w kryzysie', file: 'wiki/suicydologia/ocena_i_interwencja_w_kryzysie_samobojczym.md' },
-        { id: 'suicydologia/profilaktyka', label: 'Profilaktyka, media i postwencja', file: 'wiki/suicydologia/profilaktyka.md' },
-        { id: 'suicydologia/nssi', label: 'Samouszkodzenia bez intencji samobójczej (NSSI)', file: 'wiki/suicydologia/nssi.md' },
+        { id: 'psychologia_zdrowia/zdrowie_wprowadzenie', label: 'Modele zdrowia i choroby', file: 'wiki/psychologia_zdrowia/zdrowie_wprowadzenie.md' },
+        { id: 'psychologia_zdrowia/zachowania_zdrowotne', label: 'Zachowania i styl życia', file: 'wiki/psychologia_zdrowia/zachowania_zdrowotne.md' },
+        { id: 'psychologia_zdrowia/stres', label: 'Stres, radzenie sobie i wsparcie', file: 'wiki/psychologia_zdrowia/stres.md' },
+        { id: 'psychologia_zdrowia/choroby_przewlekle', label: 'Choroba przewlekła, rehabilitacja i jakość życia', file: 'wiki/psychologia_zdrowia/choroby_przewlekle.md' },
+        { id: 'psychologia_zdrowia/bol', label: 'Psychologia bólu', file: 'wiki/psychologia_zdrowia/bol.md' },
+        { id: 'psychologia_zdrowia/interwencje_zdrowotne', label: 'Komunikacja i interwencje w opiece zdrowotnej', file: 'wiki/psychologia_zdrowia/interwencje_zdrowotne.md' },
+      ]
+    },
+    { /* Psychologia uzależnień */
+      section: 'Psychologia uzależnień',
+      domainKey: 'uzaleznienia',
+      items: [
+        { id: 'uzaleznienia/mechanizmy_i_diagnoza_uzaleznien', label: 'Mechanizmy i diagnoza uzależnień', file: 'wiki/uzaleznienia/mechanizmy_i_diagnoza_uzaleznien.md' },
+        { id: 'uzaleznienia/uzaleznienia_behawioralne', label: 'Uzależnienia behawioralne i technologie', file: 'wiki/uzaleznienia/uzaleznienia_behawioralne.md' },
+        { id: 'uzaleznienia/recovery', label: 'Leczenie, zdrowienie i nawroty', file: 'wiki/uzaleznienia/recovery.md' },
+        { id: 'uzaleznienia/uzaleznienie_w_rodzinie_i_u_mlodziezy', label: 'Uzależnienie w rodzinie i u młodzieży', file: 'wiki/uzaleznienia/uzaleznienie_w_rodzinie_i_u_mlodziezy.md' },
+      ]
+    },
+    { /* Psychologia nadmiernego jedzenia */
+      section: 'Psychologia nadmiernego jedzenia',
+      domainKey: 'psychologia_nadmiernego_jedzenia',
+      items: [
+        { id: 'psychologia_nadmiernego_jedzenia/czym_jest_nadmierne_jedzenie', label: 'Nadmierne jedzenie i jedzenie kompulsywne', file: 'wiki/psychologia_nadmiernego_jedzenia/czym_jest_nadmierne_jedzenie.md' },
       ]
     },
     { /* Seksuologia */
@@ -1232,6 +1213,57 @@ window.SITE_CONFIG = {
         { id: 'psychologia_sadowa/zastosowania_opiniowania_sadowego', label: 'Opiniowanie w różnych postępowaniach', file: 'wiki/psychologia_sadowa/zastosowania_opiniowania_sadowego.md' },
       ]
     },
+    { /* Resocjalizacja */
+      section: 'Resocjalizacja',
+      domainKey: 'resocjalizacja',
+      items: [
+        { id: 'resocjalizacja/podstawy_resocjalizacji', label: 'Resocjalizacja, readaptacja i zaprzestawanie przestępczości', file: 'wiki/resocjalizacja/podstawy_resocjalizacji.md' },
+      ]
+    },
+    { /* Instytucje pomocy dziecku i rodzinie */
+      section: 'Instytucje pomocy dziecku i rodzinie',
+      domainKey: 'instytucje_wsparcia_dziecka_i_rodziny',
+      items: [
+        { id: 'instytucje_wsparcia_dziecka_i_rodziny/system_wsparcia_dziecka_i_rodziny', label: 'System wsparcia dziecka i rodziny', file: 'wiki/instytucje_wsparcia_dziecka_i_rodziny/system_wsparcia_dziecka_i_rodziny.md' },
+      ]
+    },
+    { /* Psychologia osob z niepelnosprawnoscia */
+      section: 'Psychologia osób z niepełnosprawnością',
+      domainKey: 'psychologia_niepelnosprawnosci',
+      items: [
+        { id: 'psychologia_niepelnosprawnosci/wprowadzenie',                 label: 'Modele, prawa i inkluzja',        file: 'wiki/psychologia_niepelnosprawnosci/wprowadzenie.md'                 },
+        { id: 'psychologia_niepelnosprawnosci/funkcjonowanie_i_bariery',      label: 'Funkcjonowanie i bariery',        file: 'wiki/psychologia_niepelnosprawnosci/funkcjonowanie_i_bariery.md'      },
+        { id: 'psychologia_niepelnosprawnosci/adaptacja_rodzina_i_wsparcie',  label: 'Adaptacja, rodzina i wsparcie',   file: 'wiki/psychologia_niepelnosprawnosci/adaptacja_rodzina_i_wsparcie.md'  },
+      ]
+    },
+    { /* Psychologia osob w podeszlym wieku */
+      section: 'Psychologia osób w podeszłym wieku',
+      domainKey: 'geropsychologia',
+      items: [
+        { id: 'geropsychologia/wprowadzenie', label: 'Psychologia starzenia się i późnej dorosłości', file: 'wiki/geropsychologia/wprowadzenie.md' },
+        { id: 'geropsychologia/poznanie_i_zdrowie_psychiczne_w_starosci', label: 'Funkcje poznawcze i zdrowie psychiczne', file: 'wiki/geropsychologia/poznanie_i_zdrowie_psychiczne_w_starosci.md' },
+        { id: 'geropsychologia/pomoc_psychologiczna_i_opieka_w_starosci', label: 'Pomoc psychologiczna, opieka i koniec życia', file: 'wiki/geropsychologia/pomoc_psychologiczna_i_opieka_w_starosci.md' },
+      ]
+    },
+    { /* Arteterapia */
+      section: 'Arteterapia',
+      domainKey: 'arteterapia',
+      items: [
+        {
+          id: 'arteterapia/arteterapia_wprowadzenie',
+          label: 'Arteterapia i terapie wykorzystujące sztukę',
+          aliases: ['Arteterapia', 'Terapie wykorzystujące sztukę'],
+          file: 'wiki/arteterapia/arteterapia_wprowadzenie.md'
+        },
+      ]
+    },
+    { /* Animaloterapia */
+      section: 'Animaloterapia',
+      domainKey: 'animaloterapia',
+      items: [
+        { id: 'animaloterapia/animaloterapia_wprowadzenie', label: 'Interwencje wspomagane przez zwierzęta', file: 'wiki/animaloterapia/animaloterapia_wprowadzenie.md' },
+      ]
+    },
     { /* Ekrany, ksiazki i natura */
       section: 'Ekrany, książki i natura',
       domainKey: 'ekrany_ksiazki_i_natura',
@@ -1248,15 +1280,6 @@ window.SITE_CONFIG = {
         { id: 'psychologia_gier/wprowadzenie', label: 'Motywacja i doświadczenie gracza', file: 'wiki/psychologia_gier/wprowadzenie.md' },
         { id: 'psychologia_gier/skutki_grania_i_uzywanie_problemowe', label: 'Skutki grania i używanie problemowe', file: 'wiki/psychologia_gier/skutki_grania_i_uzywanie_problemowe.md' },
         { id: 'psychologia_gier/zastosowania_gier_i_esport', label: 'Zastosowania gier i esport', file: 'wiki/psychologia_gier/zastosowania_gier_i_esport.md' },
-      ]
-    },
-    { /* E-terapia */
-      section: 'E-terapia',
-      domainKey: 'e_terapia',
-      items: [
-        { id: 'e_terapia/terapia_online', label: 'Terapia online', file: 'wiki/e_terapia/terapia_online.md' },
-        { id: 'e_terapia/cyfrowe_narzedzia_zdrowia_psychicznego', label: 'Cyfrowe narzędzia zdrowia psychicznego', file: 'wiki/e_terapia/cyfrowe_narzedzia_zdrowia_psychicznego.md' },
-        { id: 'e_terapia/vr_terapia', label: 'Wirtualna rzeczywistość w terapii', file: 'wiki/e_terapia/vr_terapia.md' },
       ]
     },
     { /* Psychologia sztucznej inteligencji */
@@ -1279,6 +1302,22 @@ window.SITE_CONFIG = {
         { id: 'dla_studentow/psycholog_w_it', label: 'Psycholog w IT', file: 'wiki/dla_studentow/psycholog_w_it.md' },
       ]
     },
+    {
+      section: 'Dla studentów',
+      domainKey: 'dla_studentow',
+      items: [
+        { id: 'dla_studentow/etyka_studenta',     label: 'Etyka studenta psychologii', file: 'wiki/dla_studentow/etyka_studenta.md' },
+        { id: 'dla_studentow/wybor_specjalnosci', label: 'Wybór specjalności', file: 'wiki/dla_studentow/wybor_specjalnosci.md' },
+        { id: 'dla_studentow/sciezki_kariery', label: 'Ścieżki kariery po psychologii', file: 'wiki/dla_studentow/sciezki_kariery.md' },
+        { id: 'dla_studentow/psychologia_codziennej', label: 'Psychologia codzienna',    custom: 'daily_psychology' },
+        /**{ id: 'dla_studentow/monopoly_psychologiczne', href: 'https://matpomgit.github.io/Psychopoly/', label: 'Monopoly Psychologiczne' },*/
+        { id: 'dla_studentow/wspolna_gra_kahoot',    label: 'Wspólna gra testowa (Kahoot)', custom: 'kahoot_game', kind: 'test' },
+        { id: 'dla_studentow/test_specjalnosci',  label: 'Test wyboru specjalności', custom: 'specialization_test', kind: 'test' },
+        { id: 'dla_studentow/testy_teoretyczne',      label: 'Testy teoretyczne',         custom: 'theoretical_test', kind: 'test' },
+        { id: 'dla_studentow/winietki_kliniczne',     label: 'Winietki kliniczne',        custom: 'theoretical_test', presetTopic: 'winiety_kliniczne', kind: 'test' },
+        { id: 'dla_studentow/testy_dyplomowe',        label: 'Testy dyplomowe',           custom: 'theoretical_test', presetTopic: 'egzamin_dyplomowy', kind: 'test' },
+        ]
+    },
     { /* Seminarium dyplomowe */
       section: 'Seminarium dyplomowe',
       domainKey: 'seminarium_dyplomowe',
@@ -1297,67 +1336,25 @@ window.SITE_CONFIG = {
         { id: 'dla_studentow/wystapienia_publiczne_autoprezentacja', label: 'Wystapienia publiczne i autoprezentacja', file: 'wiki/dla_studentow/wystapienia_publiczne_autoprezentacja.md' },
       ]
     },
-    { /* Eksperyment psychologiczny */
-      section: 'Eksperyment psychologiczny',
-      domainKey: 'eksperyment_psychologiczny',
+    { /* Etyka zawodowa */
+      section: 'Etyka zawodowa',
+      domainKey: 'etyka',
       items: [
-        { id: 'eksperyment_psychologiczny/wprowadzenie', label: '1. Projektowanie eksperymentu psychologicznego', file: 'wiki/eksperyment_psychologiczny/wprowadzenie.md' },
-        { id: 'eksperyment_psychologiczny/prowadzenie_badania_i_jakosc_danych', label: '2. Prowadzenie badania i jakość danych', file: 'wiki/eksperyment_psychologiczny/prowadzenie_badania_i_jakosc_danych.md' },
-        { id: 'eksperyment_psychologiczny/analiza_raportowanie_i_replikacja', label: '3. Analiza, raportowanie i otwarta nauka', file: 'wiki/eksperyment_psychologiczny/analiza_raportowanie_i_replikacja.md' },
-      ]
+        { id: 'etyka/kodeksy_etyczne', label: 'Kodeksy etyczne - przeglad', file: 'wiki/etyka/kodeksy_etyczne.md' },
+        { id: 'etyka/zasady_apa_ptp', label: 'Zasady APA i PTP', file: 'wiki/etyka/zasady_apa_ptp.md' },
+        { id: 'etyka/dobro_nieszkodzenie', label: 'Dobro i nieszkodzenie', file: 'wiki/etyka/dobro_nieszkodzenie.md' },
+        { id: 'etyka/tajemnica_zawodowa_granice', label: 'Tajemnica zawodowa i jej granice', aliases: ['Tajemnica zawodowa psychologa', 'Poufność w pracy psychologa'], file: 'wiki/etyka/tajemnica_zawodowa_granice.md' },
+        { id: 'etyka/swiadoma_zgoda', label: 'Świadoma zgoda', file: 'wiki/etyka/swiadoma_zgoda.md' },
+        { id: 'etyka/granice_relacji', label: 'Granice relacji terapeutycznej', file: 'wiki/etyka/granice_relacji.md' },
+        { id: 'etyka/superwizja_odpowiedzialnosc', label: 'Superwizja i odpowiedzialność', file: 'wiki/etyka/superwizja_odpowiedzialnosc.md' },
+        { id: 'etyka/dylematy_etyczne',          label: 'Dylematy etyczne w praktyce',           file: 'wiki/etyka/dylematy_etyczne.md'          },
+        { id: 'etyka/kompetencje_kulturowe',     label: 'Kompetencje kulturowe',                 file: 'wiki/etyka/kompetencje_kulturowe.md'     },
+        { id: 'etyka/etyka_badan',               label: 'Etyka badań naukowych',                 file: 'wiki/etyka/etyka_badan.md'               },
+        { id: 'etyka/etyka_cyfrowa',             label: 'Etyka w psychologii cyfrowej',          file: 'wiki/etyka/etyka_cyfrowa.md'             },
+        { id: 'etyka/odpowiedzialnosc_zawodowa', label: 'Odpowiedzialnosc zawodowa',             file: 'wiki/etyka/odpowiedzialnosc_zawodowa.md' },
+          { id: 'etyka/polska_adaptacja_3d_ws', label: 'Polska adaptacja 3D-WS', file: 'wiki/etyka/polska_adaptacja_3d_ws.md' },
+        ]
     },
-    { /* Psychologia kliniczna dzieci i młodzieży */
-      section: 'Psychologia kliniczna dzieci i młodzieży',
-      domainKey: 'psychologia_kliniczna_dziecka',
-      items: [
-        { id: 'psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka', label: 'Psychologia kliniczna dzieci i młodzieży', file: 'wiki/psychologia_kliniczna_dziecka/czym_jest_psychologia_kliniczna_dziecka.md', aliases: ['psychologia kliniczna dziecka', 'psychologia kliniczna dzieci'] },
-      ]
-    },
-    { /* Reagowanie na krytykę */
-      section: 'Reagowanie na krytykę',
-      domainKey: 'reagowanie_na_krytyke',
-      items: [
-        { id: 'reagowanie_na_krytyke/jak_nie_brac_do_siebie_opinii_innych', label: 'Jak konstruktywnie reagować na krytykę i informację zwrotną', file: 'wiki/reagowanie_na_krytyke/jak_nie_brac_do_siebie_opinii_innych.md' },
-      ]
-    },
-    { /* Psychologia nadmiernego jedzenia */
-      section: 'Psychologia nadmiernego jedzenia',
-      domainKey: 'psychologia_nadmiernego_jedzenia',
-      items: [
-        { id: 'psychologia_nadmiernego_jedzenia/czym_jest_nadmierne_jedzenie', label: 'Nadmierne jedzenie i jedzenie kompulsywne', file: 'wiki/psychologia_nadmiernego_jedzenia/czym_jest_nadmierne_jedzenie.md' },
-      ]
-    },
-    { /* Instytucje pomocy dziecku i rodzinie */
-      section: 'Instytucje pomocy dziecku i rodzinie',
-      domainKey: 'instytucje_wsparcia_dziecka_i_rodziny',
-      items: [
-        { id: 'instytucje_wsparcia_dziecka_i_rodziny/system_wsparcia_dziecka_i_rodziny', label: 'System wsparcia dziecka i rodziny', file: 'wiki/instytucje_wsparcia_dziecka_i_rodziny/system_wsparcia_dziecka_i_rodziny.md' },
-      ]
-    },
-    { /* Resocjalizacja */
-      section: 'Resocjalizacja',
-      domainKey: 'resocjalizacja',
-      items: [
-        { id: 'resocjalizacja/podstawy_resocjalizacji', label: 'Resocjalizacja, readaptacja i zaprzestawanie przestępczości', file: 'wiki/resocjalizacja/podstawy_resocjalizacji.md' },
-      ]
-    },
-    { /* Doświadczenie somatyczne (Somatic Experiencing) */
-      section: 'Doświadczenie somatyczne (Somatic Experiencing)',
-      domainKey: 'somatic_experiencing',
-      items: [
-        { id: 'doswiadczenie_somatyczne/wprowadzenie_do_doswiadczenia_somatycznego', label: 'Somatic Experiencing: założenia, praktyka i stan badań', file: 'wiki/doswiadczenie_somatyczne/wprowadzenie_do_doswiadczenia_somatycznego.md' },
-      ]
-    },
-    { /* Systemy rodzinne */
-      section: 'Systemy rodzinne',
-      domainKey: 'systemy_rodzinne',
-      items: [
-        { id: 'systemy_rodzinne/wprowadzenie_do_terapii_systemowej', label: 'Systemowe rozumienie rodziny', file: 'wiki/systemy_rodzinne/wprowadzenie_do_terapii_systemowej.md' },
-        { id: 'systemy_rodzinne/terapia_systemow_wewnetrznej_rodziny_ifs', label: 'Terapia systemów wewnętrznej rodziny (IFS)', file: 'wiki/systemy_rodzinne/terapia_systemow_wewnetrznej_rodziny_ifs.md' },
-        { id: 'systemy_rodzinne/terapie_systemowe_i_rodzinne', label: 'Terapie systemowe i rodzinne', file: 'wiki/systemy_rodzinne/terapie_systemowe_i_rodzinne.md' },
-      ]
-    },
-    
     { /* Referencje */
       section: 'Referencje',
       domainKey: 'reference',
@@ -1375,7 +1372,7 @@ window.SITE_CONFIG = {
           file: 'wiki/reference/article_template.md'
         },
       ]
-    },
+    }
   ],
 
   // 

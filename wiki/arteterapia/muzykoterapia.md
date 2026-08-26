@@ -1,6 +1,5 @@
 ---
 layout: redirect
-title: Muzykoterapia
 redirect_to: /wiki/arteterapia/arteterapia_wprowadzenie.html#muzykoterapia
 sitemap: false
 ---

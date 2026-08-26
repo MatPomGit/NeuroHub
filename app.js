@@ -2540,7 +2540,7 @@ function setupGlobalInteractions() {
 
   logo?.addEventListener('click', () => navigate(SITE_CONFIG.defaultPage));
   menuBtn?.addEventListener('click', openSidebar);
-  extraPagesBtn?.addEventListener('click', () => navigate('wiki-index/dodatkowe_strony'));
+  extraPagesBtn?.addEventListener('click', () => navigate('wstep_do_psychologii/definicja'));
   overlay?.addEventListener('click', closeSidebar);
   breadcrumb?.addEventListener('click', (event) => {
     const target = event.target.closest('[data-nav-id]');

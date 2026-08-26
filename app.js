@@ -575,8 +575,12 @@ function updateEmptyIndicators() {
 /* Wspólna dla strony głównej i panelu bocznego mapa obszarów wiedzy. */
 const SIDEBAR_TOPIC_GROUPS = [
   {
-    id: 'fundamenty', label: 'Fundamenty', colorClass: 'topic-fundamenty',
+    id: 'fundamenty', label: 'Podstawy psychologii i badań', colorClass: 'topic-fundamenty',
     sections: ['Wprowadzenie', 'Filozofia', 'Eksperyment psychologiczny']
+  },
+  {
+    id: 'mozg-biologia', label: 'Biologiczne podstawy zachowania', colorClass: 'topic-neuro',
+    sections: ['Biologiczne podstawy zachowania', 'Neurobiologia', 'Farmakologia', 'Neuroróżnorodność']
   },
   {
     id: 'procesy-psychiczne', label: 'Procesy psychiczne', colorClass: 'topic-procesy',
@@ -587,23 +591,19 @@ const SIDEBAR_TOPIC_GROUPS = [
     sections: ['Psychologia rozwojowa', 'Psychologia szkolna i edukacyjna', 'Relacje i związki', 'Systemy rodzinne', 'Psychologia kulturowa', 'Psychologia religii']
   },
   {
-    id: 'klinika-pomoc', label: 'Klinika i pomoc', colorClass: 'topic-klinika',
-    sections: ['Psychopatologia', 'Zaburzenia kliniczne', 'Diagnoza psychologiczna', 'Psychometria', 'Testy psychologiczne', 'Przypadki kliniczne', 'Psychologia kliniczna dzieci i młodzieży', 'Psychosomatyka', 'Suicydologia', 'Podstawy pomocy psychologicznej', 'Psychoterapia', 'E-terapia', 'Porozumiewanie się bez przemocy (NVC)', 'Doświadczenie somatyczne (Somatic Experiencing)']
+    id: 'klinika-pomoc', label: 'Psychologia kliniczna i pomoc', colorClass: 'topic-klinika',
+    sections: ['Psychopatologia', 'Zaburzenia kliniczne', 'Psychologia kliniczna dzieci i młodzieży', 'Diagnoza psychologiczna', 'Psychometria', 'Testy psychologiczne', 'Przypadki kliniczne', 'Psychosomatyka', 'Suicydologia', 'Podstawy pomocy psychologicznej', 'Psychoterapia', 'E-terapia', 'Porozumiewanie się bez przemocy (NVC)', 'Doświadczenie somatyczne (Somatic Experiencing)']
   },
   {
-    id: 'mozg-biologia', label: 'Mózg i biologia', colorClass: 'topic-neuro',
-    sections: ['Biologiczne podstawy zachowania', 'Neurobiologia', 'Farmakologia', 'Neuroróżnorodność']
-  },
-  {
-    id: 'specjalizacje', label: 'Specjalizacje', colorClass: 'topic-specjalizacje',
+    id: 'specjalizacje', label: 'Zdrowie i specjalizacje stosowane', colorClass: 'topic-specjalizacje',
     sections: ['Psychologia zdrowia', 'Psychologia uzależnień', 'Psychologia nadmiernego jedzenia', 'Seksuologia', 'Psychologia sądowa i opiniowanie', 'Resocjalizacja', 'Instytucje pomocy dziecku i rodzinie', 'Psychologia osób z niepełnosprawnością', 'Psychologia osób w podeszłym wieku', 'Arteterapia', 'Animaloterapia']
   },
   {
-    id: 'technologia', label: 'Technologia', colorClass: 'topic-technologia',
+    id: 'technologia', label: 'Psychologia technologii', colorClass: 'topic-technologia',
     sections: ['Ekrany, książki i natura', 'Psychologia gier wideo', 'Psychologia sztucznej inteligencji', 'Psychologia technologii i dobrostan cyfrowy']
   },
   {
-    id: 'zasoby', label: 'Zasoby', colorClass: 'topic-zasoby',
+    id: 'zasoby', label: 'Nauka i praktyka akademicka', colorClass: 'topic-zasoby',
     sections: ['Dla studentów', 'Seminarium dyplomowe', 'Etyka zawodowa', 'Referencje']
   }
 ];
@@ -622,7 +622,7 @@ function buildSidebarTopicGroups() {
   SIDEBAR_TOPIC_GROUPS.forEach(topic => {
     const topicSections = topic.sections
       .map(sectionName => sectionMap.get(sectionName))
-      .filter(Boolean);
+      .filter(section => section && !consumed.has(section.section));
 
     topicSections.forEach(section => consumed.add(section.section));
     if (topicSections.length > 0) {

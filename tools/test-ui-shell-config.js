@@ -18,6 +18,11 @@ assert(!indexHtml.includes('PsyHub v'), 'Numer wersji nie powinien być widoczny
 assert(!indexHtml.includes('bulbulgator'), 'Nazwa wydania nie powinna być widoczna w interfejsie.');
 assert(!appJs.includes('copyArticleLinkButton'), 'Przycisk kopiowania linku nadal jest generowany.');
 assert(appJs.includes("const DEFAULT_THEME = 'light';"), 'Domyślny motyw aplikacji nie jest jasny.');
+assert(!appJs.includes("navigate('wiki-index/"), 'Interfejs nie powinien prowadzić do wycofanych stron katalogowych.');
+assert(
+  appJs.includes("extraPagesBtn?.addEventListener('click', () => navigate('wstep_do_psychologii/definicja'))"),
+  'Przycisk dodatkowych stron powinien prowadzić bezpośrednio do artykułu kanonicznego.'
+);
 
 const settingsStart = indexHtml.indexOf('<details class="interface-settings">');
 const settingsEnd = indexHtml.indexOf('</details>', settingsStart);

@@ -4,7 +4,7 @@ article_requirements: false
 sitemap: false
 public_navigation: false
 published: false
-lastReviewed: 2026-08-25
+lastReviewed: 2026-08-26
 ---
 
 # Audyt kanoniczności treści wiki
@@ -42,6 +42,83 @@ Audyt służy jednoznacznemu śledzeniu decyzji o kanoniczności. Nie ocenia kom
 | 4. Istniejące przekierowanie | 530 |
 | 5. Materiał nawigacyjny albo referencyjny | 1 |
 | **Łącznie** | **790** |
+
+## Status kontroli działów
+
+Status **Ukończony** wolno nadać dopiero po przejściu całej kontroli końcowej. Wykrycie choć jednej niezgodności pozostawia status **W toku** do czasu jej usunięcia i ponownego sprawdzenia działu. Status **Do weryfikacji** oznacza, że komplet kontroli nie został jeszcze udokumentowany. Sama klasyfikacja plików w tabelach roboczych nie stanowi ukończenia działu.
+
+Dla każdego działu należy potwierdzić kolejno:
+
+1. każdy temat ma dokładnie jeden indeksowany artykuł kanoniczny;
+2. dawne ścieżki, które muszą pozostać dla zgodności linków, są przekierowaniami;
+3. podczas scalania zachowano wszystkie wartościowe fragmenty i źródła;
+4. artykuł kanoniczny ma spójną strukturę i nie zawiera powtórzeń;
+5. `## Bibliografia` jest ostatnim rozdziałem każdego artykułu;
+6. wszystkie DOI są aktywnymi odnośnikami Markdown w postaci `https://doi.org/...`;
+7. pierwsze znaczące wystąpienia innych tematów są podlinkowane;
+8. wszystkie linki względne, cele przekierowań i kotwice są poprawne;
+9. konfiguracja nawigacji nie zawiera dawnych artykułów jako osobnych pozycji;
+10. nazwy zachowanych plików i katalogów spełniają konwencję `snake_case`.
+
+Po każdej kontroli należy zaktualizować poniższą tabelę, podając zwięzły wynik lub przyczynę pozostawienia działu w toku.
+
+| Dział | Liczba plików | Status | Wynik ostatniej kontroli |
+|---|---:|---|---|
+| `animaloterapia` | 7 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `arteterapia` | 8 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `biologia` | 10 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `diagnoza` | 10 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `dla_studentow` | 7 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `doswiadczenie_somatyczne` | 13 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `e_terapia` | 12 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `ekrany_ksiazki_i_natura` | 12 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `eksperyment_psychologiczny` | 12 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `emocje` | 13 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `etyka` | 13 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `farmakologia` | 10 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `filozofia` | 30 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `geropsychologia` | 14 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `instytucje_wsparcia_dziecka_i_rodziny` | 13 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `kulturowa` | 14 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `neuropsychologia` | 19 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `neuroroznorodnosc` | 13 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `podstawy_pomocy` | 14 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `porozumiewanie_sie_bez_przemocy` | 12 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `przypadki_kliniczne` | 13 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `psychofarmakologia` | 44 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `psychologia_ai` | 16 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `psychologia_gier` | 14 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `psychologia_kliniczna_dziecka` | 12 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `psychologia_nadmiernego_jedzenia` | 12 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `psychologia_niepelnosprawnosci` | 12 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `psychologia_poznawcza` | 30 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `psychologia_pozytywna` | 14 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `psychologia_religii` | 17 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `psychologia_rozwojowa` | 12 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `psychologia_sadowa` | 13 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `psychologia_spoleczna` | 15 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `psychologia_szkolna` | 15 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `psychologia_technologii` | 9 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `psychologia_zdrowia` | 25 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `psychometria` | 17 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `psychopatologia` | 23 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `psychosomatyka` | 15 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `psychoterapia` | 26 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `reagowanie_na_krytyke` | 13 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `relacje` | 13 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `resocjalizacja` | 12 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `rezyliencja_i_mobbing` | 12 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `robotyka_afektywna` | 12 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `roznice_indywidualne` | 9 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `seksuologia` | 15 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `seminarium_dyplomowe` | 12 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `suicydologia` | 16 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `systemy_rodzinne` | 16 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `temperament` | 12 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `testy` | 12 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `uzaleznienia` | 12 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `wstep_do_psychologii` | 5 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
+| `zaburzenia` | 9 | **Do weryfikacji** | Nie przeprowadzono jeszcze pełnego zestawu 10 kontroli. |
 
 ## Tabele robocze według działów
 

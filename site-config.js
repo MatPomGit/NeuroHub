@@ -1078,7 +1078,7 @@ window.SITE_CONFIG = {
       ]
     },
     { /* Odpornosc psychiczna i mobbing */
-      section: 'Odpornosc psychiczna',
+      section: 'Odporność psychiczna',
       domainKey: 'rezyliencja_i_mobbing',
       items: [
         { id: 'rezyliencja_i_mobbing/odpornosc_wprowadzenie', label: 'Rezyliencja i adaptacja', file: 'wiki/rezyliencja_i_mobbing/odpornosc_wprowadzenie.md' },
@@ -1097,7 +1097,7 @@ window.SITE_CONFIG = {
       ]
     },
     { /* Psychologia osob z niepelnosprawnoscia */
-      section: 'Psychologia osob z niepelnosprawnoscia',
+      section: 'Psychologia osób z niepełnosprawnością',
       domainKey: 'psychologia_niepelnosprawnosci',
       items: [
         { id: 'psychologia_niepelnosprawnosci/wprowadzenie',                 label: 'Modele, prawa i inkluzja',        file: 'wiki/psychologia_niepelnosprawnosci/wprowadzenie.md'                 },
@@ -1106,7 +1106,7 @@ window.SITE_CONFIG = {
       ]
     },
     { /* Psychologia osob w podeszlym wieku */
-      section: 'Psychologia osob w podeszlym wieku',
+      section: 'Psychologia osób w podeszłym wieku',
       domainKey: 'geropsychologia',
       items: [
         { id: 'geropsychologia/wprowadzenie', label: 'Psychologia starzenia się i późnej dorosłości', file: 'wiki/geropsychologia/wprowadzenie.md' },
@@ -1147,7 +1147,6 @@ window.SITE_CONFIG = {
         { id: 'farmakologia/ketamina',                    label: 'Ketamina w psychiatrii',           file: 'wiki/farmakologia/ketamina.md'                    },
         { id: 'farmakologia/psychodeliki',                label: 'Psychodeliki w terapii',           file: 'wiki/farmakologia/psychodeliki.md'                },
           // PSYCHOFARMAKOLOGIA - artykuły kanoniczne
-          { id: 'psychofarmakologia/spis_tresci', label: 'Psychofarmakologia - spis treści', file: 'wiki/psychofarmakologia/spis_tresci.md' },
           { id: 'psychofarmakologia/podstawy_psychofarmakologii', label: 'Podstawy psychofarmakologii', file: 'wiki/psychofarmakologia/podstawy_psychofarmakologii.md' },
           { id: 'psychofarmakologia/klasy_lekow_psychotropowych', label: 'Główne klasy leków psychotropowych', file: 'wiki/psychofarmakologia/klasy_lekow_psychotropowych.md' },
           { id: 'psychofarmakologia/farmakoterapia_nastroju_leku_i_stresu', label: 'Farmakoterapia nastroju, lęku i stresu', file: 'wiki/psychofarmakologia/farmakoterapia_nastroju_leku_i_stresu.md' },
@@ -1189,7 +1188,7 @@ window.SITE_CONFIG = {
       ]
     },
     { /* Psychologia sadowa i opiniowanie */
-      section: 'Psychologia sadowa i opiniowanie',
+      section: 'Psychologia sądowa i opiniowanie',
       domainKey: 'psychologia_sadowa',
       items: [
         { id: 'psychologia_sadowa/wprowadzenie', label: 'Opiniowanie psychologiczne dla sądu', file: 'wiki/psychologia_sadowa/wprowadzenie.md' },
@@ -1373,10 +1372,6 @@ window.SITE_CONFIG = {
       // - wiki/reference/katalog_narzedzi_zasady.md
       // - wiki/reference/toc_dlugi_artykul.md
       items: [
-        { id: 'reference/literatura',         label: 'Literatura',                         file: 'wiki/reference/literatura.md'         },
-        { id: 'reference/bibliografia_portalu', label: 'Bibliografia portalu',             file: 'wiki/reference/bibliografia_portalu.md' },
-        { id: 'reference/skale_i_akronimy',   label: 'Skale i akronimy diagnostyczne',    file: 'wiki/reference/skale_i_akronimy.md'   },
-        { id: 'reference/przepisy_zawod',     label: 'Przepisy i zasady pracy psychologa', file: 'wiki/reference/przepisy_zawod.md'     },
         {
           id: 'reference/article_template',
           label: 'Zalecany wzorzec artykułu',

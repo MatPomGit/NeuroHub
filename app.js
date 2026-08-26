@@ -590,49 +590,49 @@ function updateEmptyIndicators() {
 const SIDEBAR_TOPIC_GROUPS = [
   {
     id: 'fundamenty',
-    label: 'Fundamenty psychologii',
+    label: 'Fundamenty',
     colorClass: 'topic-fundamenty',
     sections: ['Wprowadzenie', 'Filozofia', 'Dla studentów', 'Seminarium dyplomowe', 'Eksperyment psychologiczny']
   },
   {
     id: 'procesy',
-    label: 'Procesy psychiczne i różnice indywidualne',
+    label: 'Procesy psychiczne',
     colorClass: 'topic-procesy',
     sections: ['Funkcje poznawcze', 'Emocje i motywacje', 'Temperament', 'Różnice indywidualne', 'Psychologia pozytywna', 'Odporność psychiczna']
   },
   {
     id: 'rozwoj-spoleczenstwo',
-    label: 'Rozwój, relacje i społeczeństwo',
+    label: 'Rozwój i edukacja',
     colorClass: 'topic-rozwoj',
     sections: ['Psychologia rozwojowa', 'Psychologia społeczna', 'Psychologia kulturowa', 'Psychologia religii', 'Relacje i związki', 'Psychologia szkolna i edukacyjna', 'Psychologia osób z niepełnosprawnością', 'Psychologia osób w podeszłym wieku']
   },
   {
     id: 'klinika',
-    label: 'Klinika, zdrowie i pomoc',
+    label: 'Klinika i pomoc',
     colorClass: 'topic-klinika',
-    sections: ['Psychopatologia', 'Zaburzenia kliniczne', 'Przypadki kliniczne', 'Diagnoza psychologiczna', 'Psychometria', 'Testy psychologiczne', 'Psychoterapia', 'Psychologia zdrowia', 'Psychosomatyka', 'Podstawy pomocy psychologicznej', 'Suicydologia', 'Wstęp do psychologii klinicznej dziecka', 'Somatic Experiencing', 'Systemy rodzinne']
+    sections: ['Psychopatologia', 'Zaburzenia kliniczne', 'Przypadki kliniczne', 'Diagnoza psychologiczna', 'Psychometria', 'Testy psychologiczne', 'Psychoterapia', 'Psychologia zdrowia', 'Psychosomatyka', 'Podstawy pomocy psychologicznej', 'Suicydologia', 'Psychologia kliniczna dzieci i młodzieży', 'Somatic Experiencing', 'Systemy rodzinne']
   },
   {
     id: 'neuro',
-    label: 'Neuro i biologiczne podstawy',
+    label: 'Mózg i biologia',
     colorClass: 'topic-neuro',
-    sections: ['Biologiczne podstawy zachowania', 'Neurobiologia', 'Farmakologia', 'Neuroroznorodnosc']
+    sections: ['Biologiczne podstawy zachowania', 'Neurobiologia', 'Farmakologia', 'Neuroróżnorodność']
   },
   {
     id: 'specjalizacje',
-    label: 'Specjalizacje i konteksty stosowane',
+    label: 'Specjalizacje',
     colorClass: 'topic-specjalizacje',
     sections: ['Psychologia uzależnień', 'Etyka zawodowa', 'Psychologia sądowa i opiniowanie', 'Seksuologia', 'Resocjalizacja', 'Instytucje pomocy dziecku i rodzinie', 'Reagowanie na krytykę', 'Psychologia nadmiernego jedzenia']
   },
   {
     id: 'technologia',
-    label: 'Technologia, media i nowe obszary',
+    label: 'Technologia',
     colorClass: 'topic-technologia',
-    sections: ['Psychologia gier wideo', 'Psychologia sztucznej inteligencji', 'Psychologia technologii i dobrostan cyfrowy', 'Robotyka afektywna i kognitywistyka', 'E-terapia', 'Ekrany, książki, a natura', 'Porozumiewanie się bez przemocy (NVC)', 'Arteterapia', 'Animaloterapia']
+    sections: ['Psychologia gier wideo', 'Psychologia sztucznej inteligencji', 'Psychologia technologii i dobrostan cyfrowy', 'Robotyka afektywna i kognitywistyka', 'E-terapia', 'Ekrany, książki i natura', 'Porozumiewanie się bez przemocy (NVC)', 'Arteterapia', 'Animaloterapia']
   },
   {
     id: 'zasoby',
-    label: 'Zasoby i słowniki',
+    label: 'Zasoby',
     colorClass: 'topic-zasoby',
     sections: ['Encyklopedie', 'Referencje']
   }
@@ -1788,81 +1788,6 @@ window.filterGloss = function(l){
   document.querySelectorAll('.gloss-group').forEach(g=>{ g.style.display=(l==='Wszystkie'||g.dataset.letter===l)?'':'none'; });
 };
 
-const DOMAIN_WIKI_INDEX_ALIASES = {
-  animaloterapia: 'terapie_artystyczne',
-  arteterapia: 'terapie_artystyczne',
-  biology: 'biologia',
-  ekrany_ksiazki_i_natura: 'media_natura',
-  geropsychologia: 'geropsychology',
-  neuro: 'neuropsychologia',
-  porozumiewanie_sie_bez_przemocy: 'nvc',
-  psychologia_ai: 'psych_ai',
-  psychologia_gier: 'gry_wideo',
-  psychologia_niepelnosprawnosci: 'niepelnosprawnosc',
-  psychologia_pozytywna: 'psych_pozytywna',
-  psychologia_rozwojowa: 'rozwojowa',
-  psychologia_sadowa: 'psych_sadowa',
-  psychologia_szkolna: 'psych_szkolna',
-  psychologia_zdrowia: 'zdrowie',
-  psychosomatyka: 'psychosomatics',
-  rezyliencja_i_mobbing: 'odpornosc_mobbing',
-  roznice_indywidualne: 'roznice_ind',
-};
-
-function addUniqueWikiCandidate(candidates, value) {
-  if (!value) return;
-  const normalized = String(value).trim();
-  if (!normalized || candidates.includes(normalized)) return;
-  candidates.push(normalized);
-}
-
-function getWikiIndexItemByKey(wikiIndexSection, wikiKey) {
-  if (!wikiKey) return null;
-  const indexItem = wikiIndexSection?.items?.find(item =>
-    item?.id && (item.wiki === wikiKey || item.id === `wiki-index/${wikiKey}` || item.id.endsWith(`/${wikiKey}`))
-  );
-  if (indexItem) return indexItem;
-  if (SITE_CONFIG.wikis?.[wikiKey]) {
-    const syntheticId = `wiki-index/${wikiKey}`;
-    return pageMap.has(syntheticId) ? pageMap.get(syntheticId) : { id: syntheticId, wiki: wikiKey };
-  }
-  return null;
-}
-
-/* Zwraca skonfigurowany indeks WIKI powiązany z działem strony głównej. */
-function getDomainWikiIndexItem(sec) {
-  if (!sec) return null;
-  const wikiIndexSection = SITE_CONFIG.nav.find(section => section.domainKey === 'wiki-index' || section.section === 'Encyklopedie');
-  const candidates = [];
-  addUniqueWikiCandidate(candidates, sec.domainKey);
-  addUniqueWikiCandidate(candidates, DOMAIN_WIKI_INDEX_ALIASES[sec.domainKey]);
-  for (const item of sec.items || []) {
-    const idDomain = inferDomainKeyFromId(item?.id);
-    const fileDomain = item?.file?.match(/^wiki\/([^/]+)\//)?.[1];
-    addUniqueWikiCandidate(candidates, item?.wiki);
-    addUniqueWikiCandidate(candidates, idDomain);
-    addUniqueWikiCandidate(candidates, DOMAIN_WIKI_INDEX_ALIASES[idDomain]);
-    addUniqueWikiCandidate(candidates, fileDomain);
-    addUniqueWikiCandidate(candidates, DOMAIN_WIKI_INDEX_ALIASES[fileDomain]);
-  }
-
-  for (const wikiKey of candidates) {
-    const indexItem = getWikiIndexItemByKey(wikiIndexSection, wikiKey);
-    if (indexItem) return indexItem;
-  }
-
-  const directWikiItem = (sec.items || []).find(item => item?.wiki && item?.id);
-  if (directWikiItem) return directWikiItem;
-  return null;
-}
-
-/* Wskazuje pierwszy właściwy indeks lub artykuł działu na potrzeby spisu treści. */
-function getHomeSectionTarget(sec) {
-  const wikiIndexItem = getDomainWikiIndexItem(sec);
-  const firstArticle = sec.items.find(item => item?.file && item?.id);
-  return { navId: (wikiIndexItem || firstArticle)?.id || '' };
-}
-
 /*  Home  */
 function renderHome() {
   const area = document.getElementById('content');
@@ -1871,11 +1796,14 @@ function renderHome() {
   /* Jeden spis treści korzysta z tej samej hierarchii co panel boczny. */
   const tableOfContentsHtml = topicGroups.map((group, groupIndex) => {
     const sections = group.sections.map(sec => {
-      const { navId } = getHomeSectionTarget(sec);
-      if (!navId) return '';
-      return `<button type="button" class="site-toc-link" onclick="navigate('${q(navId)}')">
-        <span>${q(sec.section)}</span><span class="site-toc-arrow" aria-hidden="true">→</span>
-      </button>`;
+      const items = sec.items.map(item => `<button type="button" class="site-toc-link" onclick="navigate('${q(item.id)}')">
+        <span>${q(item.label)}</span><span class="site-toc-arrow" aria-hidden="true">→</span>
+      </button>`).join('');
+      if (!items) return '';
+      return `<section class="site-toc-section">
+        <h3>${q(sec.section)}</h3>
+        <div class="site-toc-items">${items}</div>
+      </section>`;
     }).filter(Boolean).join('');
     if (!sections) return '';
     return `<details class="site-toc-group ${group.colorClass}"${groupIndex < 2 ? ' open' : ''}>

@@ -464,3 +464,11 @@ Audyt wykonano dla każdego wpisu `articleRedirects`. Artykuł docelowy wskazany
 | `wiki/uzaleznienia/uzaleznienia_behawioralne.md` | `uzaleznienia/internet_uzaleznienie.md` | `internet_uzaleznienie` | Pliki były już minimalnymi przekierowaniami; nie zawierały źródeł do migracji. |
 | `wiki/uzaleznienia/uzaleznienie_w_rodzinie_i_u_mlodziezy.md` | `uzaleznienia/rodzina_w_uzaleznieniach.md`<br>`uzaleznienia/wspoluzaleznienie.md`<br>`uzaleznienia/uzaleznienia_mlodziezy.md` | `rodzina_w_uzaleznieniach`<br>`wspoluzaleznienie`<br>`uzaleznienia_mlodziezy` | Nie przenoszono źródeł z przekierowań. Odtworzono minimalne pliki zgodności adresów (liczba: 1). |
 | `wiki/wstep_do_psychologii/historia_psychologii.md` | `wstep_do_psychologii/historia.md` | `historia` | Pliki były już minimalnymi przekierowaniami; nie zawierały źródeł do migracji. |
+
+### Ponowna weryfikacja kompletności przekierowań (26 sierpnia 2026 r.)
+
+Ponownie porównano wszystkie 680 wpisów `articleRedirects` z drzewem `wiki/` i artykułami docelowymi. W 645 przypadkach dawnemu identyfikatorowi odpowiada plik Markdown. Każdy z tych plików był już przekierowaniem bez treści artykułowej, dlatego nie było fragmentów, źródeł ani odnośników wymagających kolejnej migracji. Potwierdzono, że cele istnieją, a wskazane kotwice odpowiadają sekcjom zachowującym zakres dawnego tekstu. Front matter uproszczono do trzech wymaganych pól: `layout: redirect`, bezpośredniego `redirect_to` i `sitemap: false`.
+
+Pozostałych 35 wpisów ma postać `wiki-index/*`. Są to dawne identyfikatory widoków katalogowych aplikacji, a nie dawne pliki `wiki/**/*.md`, dlatego nie utworzono dla nich pozornych artykułów. Kierują bezpośrednio do istniejących opracowań wprowadzających. W całym rejestrze nie występuje przekierowanie do innego dawnego identyfikatora, zatem nie powstają łańcuchy przekierowań.
+
+**Decyzja o treści i źródłach:** zachowano zakresy tematyczne i bibliografie opisane w tabeli audytu oraz we wcześniejszych wpisach rejestru. Ponieważ w dawnych plikach nie pozostała treść artykułowa, nie dodawano wtórnie pozycji bibliograficznych ani nie modyfikowano artykułów kanonicznych bez podstawy merytorycznej.

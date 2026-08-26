@@ -1,6 +1,5 @@
 ---
 layout: redirect
-title: Dramaterapia
 redirect_to: /wiki/arteterapia/arteterapia_wprowadzenie.html#dramaterapia
 sitemap: false
 ---

@@ -1,6 +1,5 @@
 ---
 layout: redirect
-title: Stabilizacja i sekwencjonowanie w Somatic Experiencing
 redirect_to: /wiki/doswiadczenie_somatyczne/wprowadzenie_do_doswiadczenia_somatycznego.html#zasoby-poczucie-bezpieczenstwa-i-stabilizacja
 sitemap: false
 ---

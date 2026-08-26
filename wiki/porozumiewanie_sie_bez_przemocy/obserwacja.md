@@ -1,6 +1,5 @@
 ---
 layout: redirect
-title: Obserwacja
 redirect_to: /wiki/porozumiewanie_sie_bez_przemocy/wprowadzenie.html#obserwacja-bez-oceniania
 sitemap: false
 ---

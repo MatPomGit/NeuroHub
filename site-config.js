@@ -6,7 +6,6 @@
  *   live    - plik MD istnieje, artykul dostepny
  *   planned - artykul zaplanowany, plik jeszcze nie istnieje
  *   xlink   - artykul wspoldzielony z innym dzialem (jeden plik MD)
- *   wiki    - odnosnik do strony indeksu WIKI
  */
 
 window.SITE_CONFIG = {
@@ -761,13 +760,13 @@ window.SITE_CONFIG = {
     'porozumiewanie_sie_bez_przemocy', 'farmakologia', 'filozofia', 'podstawy_pomocy', 'psychologia_religii',
     'psychologia_pozytywna', 'seminarium_dyplomowe', 'psychopatologia', 'psychosomatyka', 'psychoterapia',
     'reference', 'relacje', 'rezyliencja_i_mobbing', 'psychologia_rozwojowa', 'psychologia_szkolna', 'seksuologia',
-    'dla_studentow', 'suicydologia', 'psychologia_technologii', 'temperament', 'uzaleznienia', 'wiki-index'
+    'dla_studentow', 'suicydologia', 'psychologia_technologii', 'temperament', 'uzaleznienia'
   ],
 
   //
   //  NAWIGACJA BOCZNA
   //  Kazda sekcja to zwijany blok w sidebarze.
-  //  Klucz "file" -> ladowanie MD; "wiki" -> strona indeksu WIKI.
+  //  Klucz "file" wskazuje artykuł Markdown ładowany w aplikacji.
   //
   nav: [
     {
@@ -1416,7 +1415,6 @@ window.SITE_CONFIG = {
     resocialization: [
       { id: 'resocjalizacja/podstawy_resocjalizacji', label: 'Resocjalizacja, readaptacja i zaprzestawanie przestępczości', file: 'wiki/resocjalizacja/podstawy_resocjalizacji.md', status: 'live' },
     ],
-    'wiki-index': [],
     neuro: [
       { file: 'wiki/neuropsychologia/podstawy_ukladu_nerwowego.md', label: 'Podstawy układu nerwowego', status: 'live' },
       { file: 'wiki/neuropsychologia/funkcjonalna_anatomia_mozgu.md', label: 'Funkcjonalna anatomia mózgu', status: 'live' },

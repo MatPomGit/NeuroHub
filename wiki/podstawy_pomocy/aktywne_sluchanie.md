@@ -44,7 +44,7 @@ W profesjonalnej pomocy słuchanie służy sojuszowi i rozpoznaniu sytuacji, ale
 
 ## Co wynika z badań, a co jest praktyczną interpretacją
 
-Metaanaliza badań psychoterapii wskazuje dodatni związek empatii terapeuty z wynikiem terapii (Elliott i in., 2018). Nie dowodzi to, że pojedyncza parafraza sama powoduje poprawę ani że wyniki psychoterapii można bezpośrednio przenieść na każdą rozmowę prywatną. Podręczniki umiejętności pomagania wspierają przedstawiony mikrocykl jako ramę szkoleniową; kolejność sześciu kroków jest **praktyczną syntezą**, a nie zwalidowanym testem kompetencji.
+Metaanaliza badań [psychoterapii](../psychoterapia/psychoterapia_wprowadzenie.md) wskazuje dodatni związek empatii terapeuty z wynikiem terapii (Elliott i in., 2018). Nie dowodzi to, że pojedyncza parafraza sama powoduje poprawę ani że wyniki psychoterapii można bezpośrednio przenieść na każdą rozmowę prywatną. Podręczniki umiejętności pomagania wspierają przedstawiony mikrocykl jako ramę szkoleniową; kolejność sześciu kroków jest **praktyczną syntezą**, a nie zwalidowanym testem kompetencji.
 
 Znaczenie zachowań zależy od kontekstu, relacji, kultury i sposobu komunikacji. Oceniając skuteczność, warto pytać nie „czy zastosowano technikę?”, lecz „czy rozmówca mógł sprostować rozumienie i czy rozmowa przybliżyła go do uzgodnionego celu?”.
 

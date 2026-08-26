@@ -30,7 +30,7 @@ Psychozę mogą powodować m.in. majaczenie, padaczka, zapalenie mózgu, otępie
 
 Ocena obejmuje bezpieczeństwo, ryzyko samobójcze i zaniedbanie potrzeb, stan świadomości, używanie substancji, leki, badanie somatyczne oraz dostęp do wsparcia. Agitacja nie jest synonimem przemocy. Stosuje się najmniej restrykcyjną skuteczną interwencję, spokojną komunikację i ograniczanie bodźców; przymus jest środkiem ostatecznym regulowanym prawem.
 
-W pierwszym epizodzie ważne są szybki dostęp do specjalistycznej opieki, możliwie mała skuteczna dawka leku, interwencje rodzinne, psychoedukacja, wsparcie nauki lub pracy oraz leczenie używania substancji. Wspólne podejmowanie decyzji obejmuje korzyści i działania niepożądane leków. Psychoterapia może wspierać radzenie sobie z głosami i przekonaniami, lecz nie zastępuje leczenia stanu ostrego.
+W pierwszym epizodzie ważne są szybki dostęp do specjalistycznej opieki, możliwie mała skuteczna dawka leku, interwencje rodzinne, psychoedukacja, wsparcie nauki lub pracy oraz leczenie używania substancji. Wspólne podejmowanie decyzji obejmuje korzyści i działania niepożądane leków. [Psychoterapia](../psychoterapia/psychoterapia_wprowadzenie.md) może wspierać radzenie sobie z głosami i przekonaniami, lecz nie zastępuje leczenia stanu ostrego.
 
 ## Psychoza a przemoc
 

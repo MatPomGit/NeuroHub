@@ -32,7 +32,7 @@ Te działania odpowiadają na różne pytania i mogą być łączone:
 - **leczenie** zmniejsza objawy, cierpienie albo ryzyko, na przykład bolesne tiki, ADHD, depresję czy bezsenność;
 - **technologia wspomagająca** zapewnia alternatywną drogę wykonania czynności, w tym syntezę mowy, klawiaturę, przypomnienia lub AAC.
 
-Perspektywa środowiskowa nie oznacza odrzucenia leczenia, a leczenie nie zwalnia instytucji z usuwania barier. Farmakoterapia wymaga indywidualnej kwalifikacji medycznej i monitorowania; nie istnieje lek na neuroróżnorodność jako całość.
+Perspektywa środowiskowa nie oznacza odrzucenia leczenia, a leczenie nie zwalnia instytucji z usuwania barier. Farmakoterapia wymaga indywidualnej kwalifikacji medycznej i monitorowania; nie istnieje lek na [neuroróżnorodność](wprowadzenie.md) jako całość.
 
 ## Edukacja
 

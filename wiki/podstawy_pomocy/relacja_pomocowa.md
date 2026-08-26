@@ -15,7 +15,7 @@ evidenceCutoffDate: 2025-12-31
 
 **Relacja pomocowa** (ang. *helping relationship*) to szczególny rodzaj więzi między osobą pomagającą a klientem, który odgrywa kluczową rolę w skuteczności każdej formy wsparcia psychologicznego. Carl Rogers określił ją jako relację, w której jedna ze stron zamierza wspierać wzrost, dojrzałość i lepsze radzenie sobie drugiej.
 
-Metaanalizy wskazują na umiarkowany związek jakości sojuszu z wynikiem psychoterapii (Flückiger i in., 2018). Związek nie pozwala jednak prostą miarą rozdzielić przyczyn: dobry sojusz może wspierać zmianę, a wczesna poprawa może wzmacniać sojusz. Nie uzasadnia też wniosku, że technika lub dopasowanie leczenia są nieistotne.
+Metaanalizy wskazują na umiarkowany związek jakości sojuszu z wynikiem [psychoterapii](../psychoterapia/psychoterapia_wprowadzenie.md) (Flückiger i in., 2018). Związek nie pozwala jednak prostą miarą rozdzielić przyczyn: dobry sojusz może wspierać zmianę, a wczesna poprawa może wzmacniać sojusz. Nie uzasadnia też wniosku, że technika lub dopasowanie leczenia są nieistotne.
 
 ---
 

@@ -115,7 +115,7 @@ Rodzic albo pełnoletni uczeń składa wniosek i przedstawia posiadaną dokument
 
 ## Ochrona zdrowia i pomoc psychologiczna
 
-Lekarz podstawowej opieki zdrowotnej lub pediatra jest właściwym kontaktem, gdy objawy psychiczne mogą mieć somatyczne podłoże, wymagają oceny rozwoju lub współwystępują z leczeniem innych chorób. Psycholog dokonuje oceny psychologicznej i prowadzi oddziaływania w granicach swoich kwalifikacji; psychoterapeuta prowadzi psychoterapię, a lekarz psychiatra rozpoznaje choroby, kwalifikuje do leczenia medycznego i może przepisywać leki. Te role mogą się uzupełniać, lecz nie są zamienne.
+Lekarz podstawowej opieki zdrowotnej lub pediatra jest właściwym kontaktem, gdy objawy psychiczne mogą mieć somatyczne podłoże, wymagają oceny rozwoju lub współwystępują z leczeniem innych chorób. Psycholog dokonuje oceny psychologicznej i prowadzi oddziaływania w granicach swoich kwalifikacji; psychoterapeuta prowadzi [psychoterapię](../psychoterapia/psychoterapia_wprowadzenie.md), a lekarz psychiatra rozpoznaje choroby, kwalifikuje do leczenia medycznego i może przepisywać leki. Te role mogą się uzupełniać, lecz nie są zamienne.
 
 Publiczny model opieki psychiatrycznej dzieci i młodzieży ma trzy poziomy referencyjne:
 

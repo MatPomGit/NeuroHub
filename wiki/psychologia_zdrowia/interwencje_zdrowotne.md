@@ -53,7 +53,7 @@ Cukrzyca wymaga licznych codziennych decyzji. **Dystres cukrzycowy** oznacza obc
 
 ### Choroby układu krążenia
 
-Po zawale lub w niewydolności serca ważne są wyjaśnienie objawów alarmowych, uzgodnienie leków, rehabilitacja kardiologiczna, zaprzestanie palenia i stopniowy powrót do aktywności. Depresja i lęk mogą utrudniać funkcjonowanie i wymagają leczenia. Redukowanie choroby serca do „osobowości” albo stresu jest błędem; interwencje psychologiczne uzupełniają kontrolę ciśnienia, lipidów, cukrzycy i leczenie kardiologiczne.
+Po zawale lub w niewydolności serca ważne są wyjaśnienie objawów alarmowych, uzgodnienie leków, rehabilitacja kardiologiczna, zaprzestanie palenia i stopniowy powrót do aktywności. Depresja i lęk mogą utrudniać funkcjonowanie i wymagają leczenia. Redukowanie choroby serca do „osobowości” albo [stresu](stres.md) jest błędem; interwencje psychologiczne uzupełniają kontrolę ciśnienia, lipidów, cukrzycy i leczenie kardiologiczne.
 
 ## Granice i jakość opieki
 

@@ -9,13 +9,13 @@ aliases:
 
 # Uzależnienie w rodzinie i u młodzieży
 
-Uzależnienie rozwija się w relacji między osobą, substancją lub zachowaniem i środowiskiem. Rodzina może zwiększać albo zmniejszać ryzyko, ponosić szkody i wspierać zmianę, ale nie jest jedyną przyczyną zaburzenia. U młodzieży ocenę trzeba dodatkowo osadzić w rozwoju, relacjach rówieśniczych, szkole i dostępności substancji.
+[Uzależnienie](mechanizmy_i_diagnoza_uzaleznien.md) rozwija się w relacji między osobą, substancją lub zachowaniem i środowiskiem. Rodzina może zwiększać albo zmniejszać ryzyko, ponosić szkody i wspierać zmianę, ale nie jest jedyną przyczyną zaburzenia. U młodzieży ocenę trzeba dodatkowo osadzić w rozwoju, relacjach rówieśniczych, szkole i dostępności substancji.
 
 ## Rodzina jako system wsparcia i obciążenia
 
 Problem jednej osoby może zmieniać finanse, podział obowiązków, opiekę nad dziećmi, komunikację i poczucie bezpieczeństwa wszystkich domowników. Bliscy często jednocześnie kochają, boją się, złoszczą i próbują ograniczyć szkody. Takie reakcje nie dowodzą rodzinnej „patologii”; bywają adaptacją do nieprzewidywalnej sytuacji.
 
-Podejście systemowe bada wzajemne reakcje, ale nie może rozmywać odpowiedzialności osoby stosującej przemoc ani sugerować, że bliscy wywołali uzależnienie. Znaczenie mają również geny, rozwój, działanie substancji, trauma, ubóstwo, normy społeczne, dostępność i jakość opieki. Interwencje rodzinne mogą poprawiać zaangażowanie i wyniki leczenia, jeżeli są bezpieczne i dopasowane.
+Podejście systemowe bada wzajemne reakcje, ale nie może rozmywać odpowiedzialności osoby stosującej przemoc ani sugerować, że bliscy wywołali uzależnienie. Znaczenie mają również geny, rozwój, działanie substancji, [trauma](../psychopatologia/trauma_ptsd.md), ubóstwo, normy społeczne, dostępność i jakość opieki. Interwencje rodzinne mogą poprawiać zaangażowanie i wyniki leczenia, jeżeli są bezpieczne i dopasowane.
 
 ## „Współuzależnienie”: użyteczny opis czy etykieta?
 
@@ -49,7 +49,7 @@ U nastolatka objawy, cele i konsekwencje ocenia się względem wieku i środowis
 
 ### Rozwój i zdrowie
 
-Znaczenie mają impulsywność, trudności z regulacją emocji, ADHD, depresja, lęk, trauma, sen i wcześniejsze zachowania ryzykowne. Czynniki te nie są winą młodej osoby. Leczenie współwystępujących trudności i wzmacnianie umiejętności może zmniejszać potrzebę używania jako samoleczenia.
+Znaczenie mają impulsywność, trudności z [regulacją emocji](../emocje/regulacja.md), ADHD, depresja, lęk, trauma, sen i wcześniejsze zachowania ryzykowne. Czynniki te nie są winą młodej osoby. Leczenie współwystępujących trudności i wzmacnianie umiejętności może zmniejszać potrzebę używania jako samoleczenia.
 
 ### Rodzina
 

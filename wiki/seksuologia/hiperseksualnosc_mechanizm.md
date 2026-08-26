@@ -11,7 +11,7 @@ evidenceCutoffDate: 2026-08-02
 
 ## Status diagnostyczny
 
-**Zaburzenie kompulsywnych zachowań seksualnych** (*compulsive sexual behaviour disorder*, CSBD) występuje w ICD-11 jako zaburzenie kontroli impulsów. Rozpoznanie dotyczy utrwalonej niemożności kontrolowania intensywnych, powtarzających się impulsów lub popędów seksualnych, która prowadzi do powtarzalnych zachowań i przez dłuższy czas powoduje znaczne cierpienie albo szkody w ważnych obszarach funkcjonowania. DSM-5-TR nie zawiera odrębnego rozpoznania „hiperseksualności” ani „uzależnienia od seksu”.
+**Zaburzenie kompulsywnych zachowań seksualnych** (*compulsive sexual behaviour disorder*, CSBD) występuje w ICD-11 jako zaburzenie kontroli impulsów. Rozpoznanie dotyczy utrwalonej niemożności kontrolowania intensywnych, powtarzających się impulsów lub popędów seksualnych, która prowadzi do powtarzalnych zachowań i przez dłuższy czas powoduje znaczne cierpienie albo szkody w ważnych obszarach funkcjonowania. DSM-5-TR nie zawiera odrębnego rozpoznania „hiperseksualności” ani „[uzależnienia](../uzaleznienia/mechanizmy_i_diagnoza_uzaleznien.md) od seksu”.
 
 Terminy „uzależnienie od seksu” i „hiperseksualność” bywają używane potocznie i w części modeli terapeutycznych, ale nie są wymienne z kryteriami ICD-11. Umieszczenie CSBD wśród zaburzeń kontroli impulsów oznacza również, że nie należy automatycznie stosować modelu uzależnienia od substancji.
 
@@ -29,7 +29,7 @@ Nie istnieje jeden mechanizm wyjaśniający wszystkie przypadki. U części osó
 
 Wstyd może pełnić dwie role. Bywa skutkiem utraty kontroli i szkód, ale może też nasilać tajemnicę, izolację i kolejny epizod regulowania emocji. Dlatego zawstydzanie zwykle nie poprawia samokontroli. Jednocześnie redukcja wstydu nie oznacza pomijania odpowiedzialności za naruszenie ustaleń lub krzywdę innych.
 
-Na przebieg wpływają dostępność bodźców, uczenie się, impulsywność, samotność, stres relacyjny i strategie regulacji emocji. Historia traumy może mieć znaczenie u niektórych osób, lecz nie jest konieczną przyczyną i nie wolno jej zakładać.
+Na przebieg wpływają dostępność bodźców, uczenie się, impulsywność, samotność, [stres](../psychologia_zdrowia/stres.md) relacyjny i strategie [regulacji emocji](../emocje/regulacja.md). Historia [traumy](../psychopatologia/trauma_ptsd.md) może mieć znaczenie u niektórych osób, lecz nie jest konieczną przyczyną i nie wolno jej zakładać.
 
 ## Różnicowanie i współwystępowanie
 
@@ -41,7 +41,7 @@ Ważne jest rozróżnienie szkody funkcjonalnej od samego konfliktu partnerskieg
 
 Rzetelna ocena obejmuje ramy czasowe, wyzwalacze, nieudane próby ograniczenia, konsekwencje dla zdrowia, pracy, finansów i relacji, ryzyko zakażeń, zgodę innych osób oraz wpływ norm religijnych lub moralnych. Pomocne jest funkcjonalne pytanie: co poprzedza zachowanie, jaką krótką korzyść przynosi i jaką długą cenę ma dla osoby?
 
-Psychoterapia może obejmować analizę nawyku, rozpoznawanie wyzwalaczy, strategie regulacji emocji, planowanie dostępu do bodźców, pracę nad wstydem i naprawą szkód. Badania nad leczeniem nadal są mniej liczne niż w wielu innych zaburzeniach; istnieją obiecujące dane dla interwencji poznawczo-behawioralnych, ale nie ma jednej metody właściwej dla wszystkich. Farmakoterapia bywa rozważana przez lekarza w zależności od obrazu klinicznego i współwystępowania.
+[Psychoterapia](../psychoterapia/psychoterapia_wprowadzenie.md) może obejmować analizę nawyku, rozpoznawanie wyzwalaczy, strategie regulacji emocji, planowanie dostępu do bodźców, pracę nad wstydem i naprawą szkód. Badania nad leczeniem nadal są mniej liczne niż w wielu innych zaburzeniach; istnieją obiecujące dane dla interwencji poznawczo-behawioralnych, ale nie ma jednej metody właściwej dla wszystkich. Farmakoterapia bywa rozważana przez lekarza w zależności od obrazu klinicznego i współwystępowania.
 
 Konsultacja jest wskazana, gdy próby odzyskania kontroli powtarzalnie zawodzą, zachowanie naraża osobę lub innych, prowadzi do naruszania zgody, poważnych strat albo występuje wraz z objawami manii, depresji czy używaniem substancji. Celem leczenia zwykle nie jest narzucona abstynencja od całej seksualności, lecz odzyskanie wyboru, bezpieczeństwa i zgodności zachowania z dobrowolnie przyjętymi wartościami.
 

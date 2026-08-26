@@ -11,11 +11,11 @@ aliases:
 
 ## Wprowadzenie
 
-**Internal Family Systems (IFS)**, po polsku terapia systemów wewnętrznej rodziny, to model psychoterapii opracowany przez Richarda Schwartza. Opisuje psychikę za pomocą metafory systemu „części” oraz Jaźni (*Self*). Terapeuta pomaga osobie rozpoznawać ochronne funkcje części, zmniejszać ich skrajne obciążenia i podchodzić do bolesnych doświadczeń z ciekawością oraz współczuciem.
+**Internal Family Systems (IFS)**, po polsku terapia systemów wewnętrznej rodziny, to model [psychoterapii](../psychoterapia/psychoterapia_wprowadzenie.md) opracowany przez Richarda Schwartza. Opisuje psychikę za pomocą metafory systemu „części” oraz Jaźni (*Self*). Terapeuta pomaga osobie rozpoznawać ochronne funkcje części, zmniejszać ich skrajne obciążenia i podchodzić do bolesnych doświadczeń z ciekawością oraz współczuciem.
 
 Słowo „rodzina” w nazwie jest metaforą organizacji **intrapsychicznej**. IFS nie jest tym samym co [terapie systemowe i rodzinne](../systemy_rodzinne/terapie_systemowe_i_rodzinne.md), które analizują interakcje między członkami rzeczywistej rodziny. Model wyrósł z inspiracji myśleniem systemowym i może uwzględniać relacje, lecz typowa praca IFS odbywa się z wewnętrznym doświadczeniem jednej osoby. Zbieżność terminów nie dowodzi wspólnego mechanizmu ani równoważności dowodów.
 
-Badania IFS są rozwijane, ale ich baza jest wyraźnie mniejsza niż baza metod pierwszego wyboru dla wielu rozpoznań. Obiecujące wyniki małych badań nie uzasadniają przedstawiania IFS jako uniwersalnej lub lepiej potwierdzonej terapii traumy.
+Badania IFS są rozwijane, ale ich baza jest wyraźnie mniejsza niż baza metod pierwszego wyboru dla wielu rozpoznań. Obiecujące wyniki małych badań nie uzasadniają przedstawiania IFS jako uniwersalnej lub lepiej potwierdzonej terapii [traumy](../psychopatologia/trauma_ptsd.md).
 
 ## Model części i Jaźni
 

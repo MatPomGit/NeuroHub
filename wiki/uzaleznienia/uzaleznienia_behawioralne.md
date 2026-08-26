@@ -16,7 +16,7 @@ Powtarzalna aktywność bez przyjmowania substancji może stać się źródłem 
 
 **Zaburzenie grania** (*gaming disorder*) jest formalnym rozpoznaniem ICD-11. Wymaga upośledzonej kontroli, pierwszeństwa nadawanego graniu i kontynuacji mimo negatywnych następstw, zwykle przez co najmniej 12 miesięcy, wraz ze znacznym pogorszeniem funkcjonowania. Może dotyczyć grania online albo offline. DSM-5-TR umieszcza *Internet Gaming Disorder* w sekcji stanów wymagających dalszych badań, nie jako pełnoprawne rozpoznanie głównej klasyfikacji.
 
-Inne postulowane „uzależnienia”, na przykład od zakupów, pracy, mediów społecznościowych czy smartfona, nie tworzą obecnie odrębnych rozpoznań uzależnieniowych w DSM-5-TR ani ICD-11. ICD-11 klasyfikuje kompulsywne zachowania seksualne jako zaburzenie kontroli impulsów, a nie uzależnienie. Podobieństwo objawów lub aktywacji mózgu nie wystarcza do ustanowienia nowej jednostki: potrzebne są trafne kryteria, odróżnienie od normy i innych zaburzeń oraz dowody użyteczności klinicznej.
+Inne postulowane „[uzależnienia](mechanizmy_i_diagnoza_uzaleznien.md)”, na przykład od zakupów, pracy, mediów społecznościowych czy smartfona, nie tworzą obecnie odrębnych rozpoznań uzależnieniowych w DSM-5-TR ani ICD-11. ICD-11 klasyfikuje kompulsywne zachowania seksualne jako zaburzenie kontroli impulsów, a nie uzależnienie. Podobieństwo objawów lub aktywacji mózgu nie wystarcza do ustanowienia nowej jednostki: potrzebne są trafne kryteria, odróżnienie od normy i innych zaburzeń oraz dowody użyteczności klinicznej.
 
 ## Internet nie jest jednym zachowaniem
 
@@ -34,9 +34,9 @@ Czas przed ekranem jest zatem początkiem pytania, a nie diagnozą. Trzeba oceni
 
 ## Funkcja aktywności i diagnoza różnicowa
 
-Ta sama czynność może służyć rywalizacji, przynależności, regulacji emocji, unikaniu zagrożenia, redukcji samotności albo zarabianiu. Jeżeli granie jest jedynym dostępnym miejscem kontaktu społecznego, samo odebranie sprzętu może zwiększyć izolację. Plan pomocy powinien zachować funkcje adaptacyjne i budować bezpieczne alternatywy.
+Ta sama czynność może służyć rywalizacji, przynależności, [regulacji emocji](../emocje/regulacja.md), unikaniu zagrożenia, redukcji samotności albo zarabianiu. Jeżeli granie jest jedynym dostępnym miejscem kontaktu społecznego, samo odebranie sprzętu może zwiększyć izolację. Plan pomocy powinien zachować funkcje adaptacyjne i budować bezpieczne alternatywy.
 
-Ocena różnicowa obejmuje depresję, lęk społeczny, ADHD, manię lub hipomanię, OCD, traumę, zaburzenia snu, autyzm oraz problemy rodzinne i szkolne. Aktywność może być przyczyną, konsekwencją albo sposobem radzenia sobie z inną trudnością. U młodszych osób wywiad warto zebrać z kilku źródeł, nie utożsamiając konfliktu o zasady domowe z dowodem choroby.
+Ocena różnicowa obejmuje depresję, lęk społeczny, ADHD, manię lub hipomanię, OCD, [traumę](../psychopatologia/trauma_ptsd.md), zaburzenia snu, autyzm oraz problemy rodzinne i szkolne. Aktywność może być przyczyną, konsekwencją albo sposobem radzenia sobie z inną trudnością. U młodszych osób wywiad warto zebrać z kilku źródeł, nie utożsamiając konfliktu o zasady domowe z dowodem choroby.
 
 ## Pomoc i redukcja szkód
 

@@ -38,7 +38,7 @@ Poczucie kontroli nie sprowadza się do silnej woli. Pracownik zobowiązany odpo
 
 ### Informacja, przerwania i zmęczenie
 
-Przeciążenie zależy nie tylko od ilości danych, lecz także od ich jakości, tempa, złożoności oraz czasu dostępnego na decyzję. Powiadomienie może oderwać uwagę od celu, a powrót do zadania wymaga ponownego odtworzenia jego kontekstu. Wielokrotne przełączanie może podnosić odczuwany stres i zmęczenie, ale rezultat zależy od zadania. Rozmowa z bliską osobą nie jest psychologicznie równoważna z obsługą kilku służbowych kanałów.
+Przeciążenie zależy nie tylko od ilości danych, lecz także od ich jakości, tempa, złożoności oraz czasu dostępnego na decyzję. Powiadomienie może oderwać uwagę od celu, a powrót do zadania wymaga ponownego odtworzenia jego kontekstu. Wielokrotne przełączanie może podnosić odczuwany [stres](../psychologia_zdrowia/stres.md) i zmęczenie, ale rezultat zależy od zadania. Rozmowa z bliską osobą nie jest psychologicznie równoważna z obsługą kilku służbowych kanałów.
 
 Zmęczenie jest stanem po wysiłku, podczas gdy przeciążenie opisuje relację wymagań i zdolności przetwarzania. Można być zmęczonym po wymagającej, lecz dobrze kontrolowanej wideokonferencji bez przeciążenia informacyjnego. Można też szybko doświadczyć przeciążenia w krótkiej, chaotycznej sytuacji bez długotrwałego zmęczenia.
 

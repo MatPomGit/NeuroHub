@@ -13,7 +13,7 @@ aliases:
 
 Temperament nie jest rozpoznaniem klinicznym ani instrukcją wyboru zawodu. Może działać jako **czynnik ryzyka**, **czynnik ochronny** lub **modyfikator** przebiegu funkcjonowania, ponieważ wpływa na prawdopodobieństwo ekspozycji na sytuacje, siłę reakcji i dobór strategii regulacji. Znaczenie profilu zależy od wieku, zdrowia, zasobów, kultury i wymagań środowiska.
 
-Względna stabilność dyspozycji nie oznacza niezmienności zachowania. Człowiek może nauczyć się planowania obciążenia, regulacji emocji, komunikowania potrzeb, stopniowej ekspozycji na trudne sytuacje i korzystania ze wsparcia. Celem pomocy nie jest „zmiana temperamentu”, lecz poszerzenie repertuaru strategii oraz poprawa dopasowania.
+Względna stabilność dyspozycji nie oznacza niezmienności zachowania. Człowiek może nauczyć się planowania obciążenia, [regulacji emocji](../emocje/regulacja.md), komunikowania potrzeb, stopniowej ekspozycji na trudne sytuacje i korzystania ze wsparcia. Celem pomocy nie jest „zmiana temperamentu”, lecz poszerzenie repertuaru strategii oraz poprawa dopasowania.
 
 ## Temperament a zdrowie psychiczne
 
@@ -32,9 +32,9 @@ Samo współwystępowanie nie rozstrzyga między tymi możliwościami. Korelacja
 
 Wysoka negatywna emocjonalność lub neurotyzm wiążą się przekrojowo i podłużnie z szerokim zakresem problemów internalizacyjnych, między innymi lękiem i depresją. Jest to czynnik **transdiagnostyczny**, a więc ma małą swoistość: nie wskazuje konkretnego rozpoznania. Zahamowanie behawioralne w dzieciństwie zwiększa prawdopodobieństwo późniejszego lęku społecznego, lecz większości ostrożnych dzieci nie można na tej podstawie uznać za chore. Ryzyko zależy między innymi od trwałości zahamowania, uwagi kierowanej ku zagrożeniu, relacji rówieśniczych i reakcji opiekunów.
 
-Niska kontrola wysiłkowa, impulsywność i silna reaktywność na nagrodę bywają związane z problemami eksternalizacyjnymi i używaniem substancji. Te same dyspozycje mogą jednak sprzyjać szybkiemu działaniu lub eksploracji w bezpiecznych warunkach. Kontrola wysiłkowa jest tylko jednym z procesów związanych z samoregulacją i nie stanowi testu ADHD. Z kolei BAS z teorii Graya nie jest synonimem uzależnienia ani hipomanii.
+Niska kontrola wysiłkowa, impulsywność i silna reaktywność na nagrodę bywają związane z problemami eksternalizacyjnymi i używaniem substancji. Te same dyspozycje mogą jednak sprzyjać szybkiemu działaniu lub eksploracji w bezpiecznych warunkach. Kontrola wysiłkowa jest tylko jednym z procesów związanych z samoregulacją i nie stanowi testu ADHD. Z kolei BAS z teorii Graya nie jest synonimem [uzależnienia](../uzaleznienia/mechanizmy_i_diagnoza_uzaleznien.md) ani hipomanii.
 
-W Regulacyjnej Teorii Temperamentu wysoka reaktywność emocjonalna i niska wytrzymałość mogą zwiększać koszt długotrwałej intensywnej stymulacji. Badania osób narażonych na traumę wskazują na związek tych cech z nasileniem objawów pourazowych, lecz temperament nie zastępuje oceny rodzaju i dawki ekspozycji, wsparcia, wcześniejszych trudności ani procesów zachodzących po zdarzeniu.
+W Regulacyjnej Teorii Temperamentu wysoka reaktywność emocjonalna i niska wytrzymałość mogą zwiększać koszt długotrwałej intensywnej stymulacji. Badania osób narażonych na [traumę](../psychopatologia/trauma_ptsd.md) wskazują na związek tych cech z nasileniem objawów pourazowych, lecz temperament nie zastępuje oceny rodzaju i dawki ekspozycji, wsparcia, wcześniejszych trudności ani procesów zachodzących po zdarzeniu.
 
 ### Ryzyko i ochrona są kontekstowe
 
@@ -57,7 +57,7 @@ Najważniejsze ograniczenia to:
 
 W praktyce należy wyjaśnić cel badania i granice interpretacji, stosować zwalidowane narzędzie, integrować wynik z innymi danymi i opisywać wnioski probabilistycznie. Powtarzanie testu w ostrym epizodzie i po poprawie może ujawnić wpływ stanu, ale nie powinno służyć do wybierania „korzystniejszego” wyniku.
 
-Nie ma wystarczających podstaw, by dobierać konkretną psychoterapię wyłącznie do profilu temperamentu. Można ostrożnie dostosować tempo, strukturę i sposób realizacji interwencji, pod warunkiem że nie osłabia to metod o najlepszych dowodach dla danego problemu. Przykładowo stopniowanie ekspozycji może uwzględniać reaktywność, lecz nie powinno utrwalać unikania.
+Nie ma wystarczających podstaw, by dobierać konkretną [psychoterapię](../psychoterapia/psychoterapia_wprowadzenie.md) wyłącznie do profilu temperamentu. Można ostrożnie dostosować tempo, strukturę i sposób realizacji interwencji, pod warunkiem że nie osłabia to metod o najlepszych dowodach dla danego problemu. Przykładowo stopniowanie ekspozycji może uwzględniać reaktywność, lecz nie powinno utrwalać unikania.
 
 ## Funkcjonowanie w nauce i pracy
 

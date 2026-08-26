@@ -43,7 +43,7 @@ Jest to adaptacja kliniczna, nie część pierwotnego modelu Ellisa. Terapeuta o
 
 **Trening umiejętności społecznych (TUS/SST)** jest procedurą uczenia konkretnych zachowań przez instrukcję, modelowanie, odgrywanie ról, informację zwrotną, wzmacnianie i praktykę w naturalnym środowisku. Cel może dotyczyć inicjowania rozmowy, asertywnej odmowy, rozpoznawania sygnałów lub rozwiązywania konfliktu.
 
-Deficyt wykonania trzeba odróżnić od braku wiedzy, lęku, przeciążenia sensorycznego, niebezpiecznego otoczenia i odmiennych norm kulturowych. TUS ma wsparcie w wybranych zastosowaniach, między innymi rehabilitacji osób z psychozami, lecz nie jest uniwersalną psychoterapią każdego problemu interpersonalnego. W pracy z osobami neuroróżnorodnymi celem nie powinno być maskowanie nieszkodliwych cech ani jednostronne dostosowanie do większości.
+Deficyt wykonania trzeba odróżnić od braku wiedzy, lęku, przeciążenia sensorycznego, niebezpiecznego otoczenia i odmiennych norm kulturowych. TUS ma wsparcie w wybranych zastosowaniach, między innymi rehabilitacji osób z psychozami, lecz nie jest uniwersalną [psychoterapią](psychoterapia_wprowadzenie.md) każdego problemu interpersonalnego. W pracy z osobami neuroróżnorodnymi celem nie powinno być maskowanie nieszkodliwych cech ani jednostronne dostosowanie do większości.
 
 ## Skuteczność i ograniczenia
 

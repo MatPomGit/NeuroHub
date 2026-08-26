@@ -83,7 +83,7 @@ Samo zalecenie pracownikowi, by wyłączył powiadomienia, nie rozwiązuje probl
 
 ### Monitoring i autonomia pracownika
 
-Monitoring aktywności, czasu, lokalizacji lub komunikacji może być uzasadniany bezpieczeństwem i rozliczalnością. Gdy jest nieprzejrzysty, nadmierny albo oderwany od jakości pracy, może sygnalizować brak zaufania, zwiększać stres i prowokować optymalizację pod wskaźnik, na przykład sztuczną aktywność kursora zamiast wartościowego rezultatu.
+Monitoring aktywności, czasu, lokalizacji lub komunikacji może być uzasadniany bezpieczeństwem i rozliczalnością. Gdy jest nieprzejrzysty, nadmierny albo oderwany od jakości pracy, może sygnalizować brak zaufania, zwiększać [stres](../psychologia_zdrowia/stres.md) i prowokować optymalizację pod wskaźnik, na przykład sztuczną aktywność kursora zamiast wartościowego rezultatu.
 
 Przed wdrożeniem należy ustalić konkretny problem i sprawdzić, czy mniej inwazyjna metoda go nie rozwiąże. Pracownik powinien wiedzieć, jakie dane powstają, jak wpływają na decyzje i jak poprawić błąd. Metryka zachowania nie jest tożsama z produktywnością, a model statystyczny nie zna intencji pracownika.
 

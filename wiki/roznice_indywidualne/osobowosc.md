@@ -31,7 +31,7 @@ Pięcioczynnikowy model osobowości jako dominujące ramy opisu różnic indywid
 
 ## Stabilność i zmiana osobowości
 
-Osobowość jest względnie stabilna po 30. roku życia, ale nie niezmienna. Dojrzewanie wiąże się ze wzrostem sumienności i ugodowości oraz spadkiem neurotyczności. Plastyczność osobowości jest podstawą psychoterapii zaburzeń osobowości.
+Osobowość jest względnie stabilna po 30. roku życia, ale nie niezmienna. Dojrzewanie wiąże się ze wzrostem sumienności i ugodowości oraz spadkiem neurotyczności. Plastyczność osobowości jest podstawą [psychoterapii](../psychoterapia/psychoterapia_wprowadzenie.md) zaburzeń osobowości.
 
 ## Inne teorie osobowości
 

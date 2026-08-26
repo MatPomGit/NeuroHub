@@ -22,7 +22,7 @@ Deklaracja Helsińska dotyczy badań medycznych z udziałem ludzi, w tym badań 
 
 ## Ocena ryzyka i korzyści
 
-Ryzyko obejmuje nie tylko uraz fizyczny. Może dotyczyć stresu, ujawnienia danych, stygmatyzacji, konsekwencji społecznych, ekonomicznych lub prawnych. Należy oceniać prawdopodobieństwo szkody, jej dotkliwość, odwracalność oraz możliwości ograniczenia.
+Ryzyko obejmuje nie tylko uraz fizyczny. Może dotyczyć [stresu](../psychologia_zdrowia/stres.md), ujawnienia danych, stygmatyzacji, konsekwencji społecznych, ekonomicznych lub prawnych. Należy oceniać prawdopodobieństwo szkody, jej dotkliwość, odwracalność oraz możliwości ograniczenia.
 
 Wartość naukowa jest warunkiem etycznym. Badanie źle zaprojektowane naraża uczestników bez realnej szansy uzyskania wiarygodnej wiedzy. Wielkość próby, jakość pomiaru, plan analizy i kompetencje zespołu należą zatem również do oceny etycznej.
 
@@ -70,7 +70,7 @@ Zgoda uczestnika na udział w badaniu nie zawsze jest tożsama z podstawą prawn
 
 Dodatkowe zabezpieczenia mogą być potrzebne w badaniach z dziećmi, osobami zależnymi od badacza, osobami w kryzysie, więźniami, pacjentami oraz grupami narażonymi na stygmatyzację. Ochrona nie powinna jednak prowadzić do automatycznego wykluczania tych grup z badań, ponieważ pogłębiałoby to luki w wiedzy.
 
-Badania dotyczące traumy, samouszkodzeń lub samobójstwa wymagają przygotowanej procedury bezpieczeństwa. Powinna ona określać kryteria reakcji, zakres poufności, sposób oceny bezpośredniego zagrożenia, kompetencje personelu oraz dostępne formy pomocy.
+Badania dotyczące [traumy](../psychopatologia/trauma_ptsd.md), samouszkodzeń lub samobójstwa wymagają przygotowanej procedury bezpieczeństwa. Powinna ona określać kryteria reakcji, zakres poufności, sposób oceny bezpośredniego zagrożenia, kompetencje personelu oraz dostępne formy pomocy.
 
 ## Badania internetowe
 

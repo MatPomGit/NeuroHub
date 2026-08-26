@@ -14,7 +14,7 @@ evidenceCutoffDate: 2025-12-31
 
 **Interwencje wspomagane przez zwierzęta** (ang. *animal-assisted interventions*, AAI) to planowe działania, w których kontakt z odpowiednio dobranym zwierzęciem służy osiąganiu celów zdrowotnych, edukacyjnych lub wspierających. Zwierzę nie jest „terapeutą” i nie zastępuje leczenia o potwierdzonej skuteczności. Jest elementem interwencji prowadzonej przez człowieka, a jego obecność powinna mieć uzasadnioną funkcję, nie tylko atrakcyjną nazwę.
 
-Najważniejsze rozróżnienie dotyczy nie gatunku zwierzęcia, lecz **celu, kwalifikacji prowadzącego i sposobu oceny wyniku**. Sesja z psem może być formalną psychoterapią, ćwiczeniem fizjoterapeutycznym albo rekreacyjną wizytą. Sam udział psa nie przesądza, z którą z tych sytuacji mamy do czynienia.
+Najważniejsze rozróżnienie dotyczy nie gatunku zwierzęcia, lecz **celu, kwalifikacji prowadzącego i sposobu oceny wyniku**. Sesja z psem może być formalną [psychoterapią](../psychoterapia/psychoterapia_wprowadzenie.md), ćwiczeniem fizjoterapeutycznym albo rekreacyjną wizytą. Sam udział psa nie przesądza, z którą z tych sytuacji mamy do czynienia.
 
 ## Terminologia i granice pojęć
 
@@ -56,7 +56,7 @@ W pediatrii szpitalnej i stomatologii krótkie wizyty bada się jako sposób ogr
 
 ### Dorośli w opiece psychiatrycznej i somatycznej
 
-AAI badano jako wsparcie w redukcji lęku sytuacyjnego, objawów depresyjnych, [stresu pourazowego](../psychopatologia/trauma_ptsd.md), bólu i izolacji społecznej. Wyniki przeglądów dotyczących traumy są obiecujące, lecz badania często obejmują małe próby, łączą AAT z wieloma innymi elementami programu i nie pozwalają oddzielić efektu zwierzęcia od dodatkowej uwagi personelu (O'Haire i in., 2015). Psa asystującego osobie z PTSD nie należy przy tym utożsamiać z AAT.
+AAI badano jako wsparcie w redukcji lęku sytuacyjnego, objawów depresyjnych, [stresu pourazowego](../psychopatologia/trauma_ptsd.md), bólu i izolacji społecznej. Wyniki przeglądów dotyczących [traumy](../psychopatologia/trauma_ptsd.md) są obiecujące, lecz badania często obejmują małe próby, łączą AAT z wieloma innymi elementami programu i nie pozwalają oddzielić efektu zwierzęcia od dodatkowej uwagi personelu (O'Haire i in., 2015). Psa asystującego osobie z PTSD nie należy przy tym utożsamiać z AAT.
 
 W rehabilitacji somatycznej zwierzę może motywować do chodu, sięgania, planowania ruchu lub wykonywania powtórzeń. Celem klinicznym jest wówczas konkretna funkcja, np. równowaga lub użycie kończyny, a nie ogólna „poprawa dzięki zwierzęciu”. W opiece onkologicznej i paliatywnej częściej chodzi o krótkotrwały komfort, kontakt społeczny i jakość doświadczenia niż o wpływ na przebieg choroby.
 

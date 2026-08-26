@@ -20,7 +20,7 @@ Kontrola powstaje w sieciach czołowo-ciemieniowych, obręczy, zwojach podstawy 
 - **Subiektywny wysiłek** jest odczuwaną ceną mobilizacji zasobów; nie musi rosnąć liniowo wraz z trudnością.
 - **Zmęczenie poznawcze** to rozwijający się w czasie stan obejmujący poczucie znużenia lub spadek gotowości, czasem także pogorszenie wykonania.
 
-Te poziomy trzeba mierzyć osobno. Osoba może utrzymać wynik kosztem większego wysiłku, a monotonne zadanie może wywołać zmęczenie przy umiarkowanym obciążeniu. Senność, nuda, stres i zmęczenie fizyczne są powiązane, ale nie zamienne. HDA, jeśli rozumiane jako odsetek poprawnych decyzji człowieka, jest wskaźnikiem wykonania, nie samodzielnym konstruktem i nie dowodzi, który proces spowodował błąd.
+Te poziomy trzeba mierzyć osobno. Osoba może utrzymać wynik kosztem większego wysiłku, a monotonne zadanie może wywołać zmęczenie przy umiarkowanym obciążeniu. Senność, nuda, [stres](../psychologia_zdrowia/stres.md) i zmęczenie fizyczne są powiązane, ale nie zamienne. HDA, jeśli rozumiane jako odsetek poprawnych decyzji człowieka, jest wskaźnikiem wykonania, nie samodzielnym konstruktem i nie dowodzi, który proces spowodował błąd.
 
 ## NASA-TLX
 

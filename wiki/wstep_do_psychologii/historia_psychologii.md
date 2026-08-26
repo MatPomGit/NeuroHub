@@ -24,11 +24,11 @@ Wundt badał przede wszystkim podstawowe procesy świadome w kontrolowanych waru
 
 Na przełomie XIX i XX wieku psychologia zaczęła służyć edukacji, pracy i diagnozie. Francis Galton rozwijał pomiar różnic indywidualnych, Alfred Binet i Théodore Simon przygotowali skalę do oceny funkcjonowania poznawczego dzieci, a Charles Spearman wprowadzał metody statystyczne do badania zdolności.
 
-Rozwój testów przyniósł zarówno korzyści, jak i nadużycia. Wyniki bywały interpretowane bez uwzględnienia języka, kultury, warunków edukacyjnych i błędu pomiaru. Historia psychometrii pokazuje, że narzędzie może być technicznie użyteczne, a jednocześnie stosowane w sposób społecznie niesprawiedliwy. Współczesna diagnoza wymaga więc danych o rzetelności, trafności, normach oraz ograniczeniach interpretacji.
+Rozwój testów przyniósł zarówno korzyści, jak i nadużycia. Wyniki bywały interpretowane bez uwzględnienia języka, kultury, warunków edukacyjnych i błędu pomiaru. Historia [psychometrii](../psychometria/psychometria_wprowadzenie.md) pokazuje, że narzędzie może być technicznie użyteczne, a jednocześnie stosowane w sposób społecznie niesprawiedliwy. Współczesna diagnoza wymaga więc danych o rzetelności, trafności, normach oraz ograniczeniach interpretacji.
 
 ## Psychoanaliza, behawioryzm i psychologia postaci
 
-Psychoanaliza Zygmunta Freuda rozwijała model psychiki oparty na procesach nieświadomych, konflikcie i znaczeniu doświadczeń wczesnodziecięcych. Jej wpływ na kulturę i psychoterapię był znaczny, lecz wiele klasycznych twierdzeń trudno poddawało się testowaniu eksperymentalnemu.
+Psychoanaliza Zygmunta Freuda rozwijała model psychiki oparty na procesach nieświadomych, konflikcie i znaczeniu doświadczeń wczesnodziecięcych. Jej wpływ na kulturę i [psychoterapię](../psychoterapia/psychoterapia_wprowadzenie.md) był znaczny, lecz wiele klasycznych twierdzeń trudno poddawało się testowaniu eksperymentalnemu.
 
 Behawioryzm przesunął przedmiot badań na obserwowalne zachowanie. W manifeście z 1913 roku John B. Watson postulował psychologię jako obiektywną naukę eksperymentalną, której celem jest przewidywanie i kontrola zachowania (Watson, 1913). Późniejsze badania nad warunkowaniem, prowadzone między innymi przez B. F. Skinnera, dostarczyły precyzyjnych modeli uczenia się oraz praktycznych metod modyfikacji zachowania.
 

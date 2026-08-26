@@ -27,7 +27,7 @@ W testach percepcyjnych D.F. nie potrafiła poprawnie opisywać orientacji szcze
 
 Ta dysocjacja wsparła model Milner i Goodale: mózg wykorzystuje częściowo odrębne systemy do świadomego rozpoznawania obiektów oraz do sterowania działaniem w czasie rzeczywistym.
 
-Późniejsze badania doprecyzowały obraz: przewaga działania nad percepcją nie jest absolutna i zależy od warunków zadania (czas, sprzężenie zwrotne wzrokowe, opóźnienie ruchu). Mimo to przypadek D.F. pozostaje kanoniczny dla neuropsychologii wzrokowej.
+Późniejsze badania doprecyzowały obraz: przewaga działania nad percepcją nie jest absolutna i zależy od warunków zadania (czas, sprzężenie zwrotne wzrokowe, opóźnienie ruchu). Mimo to przypadek D.F. pozostaje kanoniczny dla [neuropsychologii](../neuropsychologia/diagnoza_i_rehabilitacja_neuropsychologiczna.md) wzrokowej.
 
 ## Praktyczne przykłady
 

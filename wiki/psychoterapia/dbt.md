@@ -37,7 +37,7 @@ Brak jednego elementu nie musi czynić pomocy bezwartościową, ale nie należy 
 
 ## Umiejętności i relacja
 
-Moduły obejmują uważność, tolerancję dystresu, regulację emocji oraz skuteczność interpersonalną. Trening społeczny jest tutaj podporządkowany konkretnym celom, takim jak proszenie, odmawianie i zachowanie szacunku do siebie. Kontenerowanie silnego afektu można rozumieć jako funkcję walidującej relacji i struktury leczenia: terapeuta pomaga utrzymać pobudzenie w granicach umożliwiających analizę, ale nie „przejmuje” emocji ani nie zastępuje nauki samoregulacji.
+Moduły obejmują uważność, tolerancję dystresu, [regulację emocji](../emocje/regulacja.md) oraz skuteczność interpersonalną. Trening społeczny jest tutaj podporządkowany konkretnym celom, takim jak proszenie, odmawianie i zachowanie szacunku do siebie. Kontenerowanie silnego afektu można rozumieć jako funkcję walidującej relacji i struktury leczenia: terapeuta pomaga utrzymać pobudzenie w granicach umożliwiających analizę, ale nie „przejmuje” emocji ani nie zastępuje nauki samoregulacji.
 
 DBT nie redukuje się do kart pracy. Walidacja, strategie dialektyczne, zarządzanie wzmocnieniami, ekspozycja na emocje, analiza zachowania i relacja terapeutyczna tworzą spójny program.
 

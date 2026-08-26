@@ -11,7 +11,7 @@ evidenceCutoffDate: 2025-12-31
 
 APIS-Z(R) (Bateria Testów APIS-Z(R)) jest polskim, wielowymiarowym narzędziem do diagnozy inteligencji ogólnej, przeznaczonym przede wszystkim dla starszej młodzieży oraz osób dorosłych. Celem niniejszego artykułu jest syntetyczne opracowanie podstaw teoretycznych, konstrukcji narzędzia, przesłanek psychometrycznych i praktycznych zastosowań APIS-Z(R) w kontekście współczesnej diagnostyki psychologicznej. Analiza opiera się na publicznie dostępnych informacjach wydawcy testu oraz na literaturze dotyczącej hierarchicznych modeli inteligencji i metodologii pomiaru zdolności poznawczych. Wnioski wskazują, że APIS-Z(R) może stanowić wartościowe narzędzie do oceny zróżnicowanego profilu zdolności, pod warunkiem ścisłego przestrzegania standardów stosowania testów, właściwej interpretacji wyników i integracji danych testowych z szerszym procesem diagnozy.
 
-**Słowa kluczowe:** APIS-Z(R), inteligencja ogólna, diagnoza psychologiczna, psychometria, zdolności poznawcze, testy inteligencji.
+**Słowa kluczowe:** APIS-Z(R), inteligencja ogólna, [diagnoza psychologiczna](../diagnoza/etapy_diagnozy.md), [psychometria](../psychometria/psychometria_wprowadzenie.md), zdolności poznawcze, testy inteligencji.
 
 ---
 

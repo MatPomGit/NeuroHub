@@ -15,7 +15,7 @@ Psychologia starzenia się bada rozwój człowieka w późnej dorosłości: zmia
 
 ## Wprowadzenie
 
-- Starzenie nie jest jednolitym ciągiem strat. Niektóre zdolności słabną, inne pozostają stabilne, a wiedza i strategie regulacji emocji mogą stanowić zasób.
+- Starzenie nie jest jednolitym ciągiem strat. Niektóre zdolności słabną, inne pozostają stabilne, a wiedza i strategie [regulacji emocji](../emocje/regulacja.md) mogą stanowić zasób.
 - Dobra adaptacja nie oznacza braku chorób ani nieustannej aktywności. Oznacza możliwie dobre dopasowanie celów, zasobów i wsparcia do sytuacji osoby.
 - Jakość życia jest subiektywna i wielowymiarowa. Nie można jej wiarygodnie wywnioskować wyłącznie z rozpoznania medycznego lub miejsca zamieszkania.
 - Liczy się jakość i dostępność relacji, nie tylko liczba kontaktów. [Samotność i izolacja społeczna](/wiki/relacje/przyjazn_rodzina_i_samotnosc.html#samotność-i-obiektywna-izolacja) są zjawiskami odrębnymi.

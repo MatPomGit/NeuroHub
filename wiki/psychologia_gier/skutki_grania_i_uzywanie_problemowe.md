@@ -79,7 +79,7 @@ Szczególnie użyteczne pytania dotyczą:
 - wydatków oraz mechanik losowych;
 - okresów poprawy, wyzwalaczy i realnych konsekwencji.
 
-Kwestionariusz przesiewowy nie zastępuje wywiadu klinicznego. Celem pomocy nie zawsze musi być całkowita abstynencja; zależnie od obrazu problemu można pracować nad kontrolą bodźców, snem, planem dnia, regulacją emocji, alternatywnymi źródłami kompetencji i relacji oraz leczeniem zaburzeń współwystępujących.
+Kwestionariusz przesiewowy nie zastępuje wywiadu klinicznego. Celem pomocy nie zawsze musi być całkowita abstynencja; zależnie od obrazu problemu można pracować nad kontrolą bodźców, snem, planem dnia, [regulacją emocji](../emocje/regulacja.md), alternatywnymi źródłami kompetencji i relacji oraz leczeniem zaburzeń współwystępujących.
 
 ## PEGI i ESRB: informacja o produkcie
 

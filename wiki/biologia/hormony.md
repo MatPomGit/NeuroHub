@@ -13,7 +13,7 @@ Hormony są cząsteczkami sygnałowymi wydzielanymi do krążenia i działający
 
 Podwzgórze integruje sygnały nerwowe i hormonalne. W osi podwzgórze–przysadka–nadnercza (HPA) CRH pobudza wydzielanie ACTH, a ACTH kortyzolu; glukokortykoidy uczestniczą w ujemnym sprzężeniu zwrotnym. Kortyzol ma rytm dobowy opisany szerzej w [chronobiologii](chronobiologia.md) i mobilizuje energię podczas wyzwania. Krótkotrwale wspiera adaptację, natomiast przewlekła lub niedostosowana aktywacja wiąże się z obciążeniem wielu układów (McEwen, 2007; Sapolsky et al., 2000).
 
-Nie jest poprawne twierdzenie, że przewlekle podwyższony kortyzol po prostu „zabija neurony hipokampa”. U ludzi mniejsza objętość hipokampa i zaburzenia osi HPA są wynikami grupowymi, zależnymi od choroby, leczenia i historii stresu; korelacja nie ustala kierunku przyczynowego. W PTSD wyniki dotyczące podstawowego stężenia kortyzolu są heterogeniczne, dlatego „niski kortyzol” nie jest testem diagnostycznym.
+Nie jest poprawne twierdzenie, że przewlekle podwyższony kortyzol po prostu „zabija neurony hipokampa”. U ludzi mniejsza objętość hipokampa i zaburzenia osi HPA są wynikami grupowymi, zależnymi od choroby, leczenia i historii [stresu](../psychologia_zdrowia/stres.md); korelacja nie ustala kierunku przyczynowego. W PTSD wyniki dotyczące podstawowego stężenia kortyzolu są heterogeniczne, dlatego „niski kortyzol” nie jest testem diagnostycznym.
 
 ## Hormony płciowe i rozwój
 

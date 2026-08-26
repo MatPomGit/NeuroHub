@@ -72,7 +72,7 @@ Wnioski o procesach nieświadomych wymagają szczególnej ostrożności. Powinny
 Model biopsychospołeczny Engela (1977) przeciwstawia się redukowaniu problemu do jednego poziomu. Formułowanie bada wzajemne oddziaływanie czynników:
 
 - **biologicznych**, takich jak zdrowie somatyczne, sen, leki, używanie substancji i podatności rozwojowe;
-- **psychologicznych**, takich jak uczenie się, regulacja emocji, przekonania, doświadczenia traumatyczne i mechanizmy obronne;
+- **psychologicznych**, takich jak uczenie się, [regulacja emocji](../emocje/regulacja.md), przekonania, doświadczenia traumatyczne i mechanizmy obronne;
 - **społecznych**, takich jak relacje, warunki życia, praca, dyskryminacja, kultura i dostęp do opieki.
 
 Wyliczenie trzech grup nie wystarcza. Warto opisać ich interakcje, na przykład w jaki sposób przewlekły ból ogranicza aktywność, izolacja obniża nastrój, a obniżony nastrój utrudnia rehabilitację.
@@ -163,7 +163,7 @@ Najważniejsze ograniczenia to:
 
 Nie oznacza to, że każdy wystandaryzowany wskaźnik każdego narzędzia ma zerową wartość. Dowody są zróżnicowane, dlatego twierdzenie musi odpowiadać konkretnemu systemowi, wskaźnikowi, populacji i celowi. Technika może też ułatwić rozmowę lub dostarczyć materiału do dalszych pytań, ale odpowiedź osoby pozostaje wtedy punktem wyjścia do eksploracji, a nie „odszyfrowanym” faktem o osobowości.
 
-Jeżeli metoda projekcyjna jest używana, psycholog powinien podać jej cel, wersję, sposób standaryzacji, ograniczenia i rzeczywisty wkład do decyzji. **Interpretacja projekcyjna nie może przeważać nad wynikami metod o lepiej ustalonych właściwościach tylko dlatego, że wydaje się bardziej głęboka.** Nie należy na jej podstawie samodzielnie wnioskować o traumie, przemocy, intencjach, rozpoznaniu ani rokowaniu. W warunkach wysokiej stawki brak dowodów na trafność przyrostową przemawia za pominięciem metody.
+Jeżeli metoda projekcyjna jest używana, psycholog powinien podać jej cel, wersję, sposób standaryzacji, ograniczenia i rzeczywisty wkład do decyzji. **Interpretacja projekcyjna nie może przeważać nad wynikami metod o lepiej ustalonych właściwościach tylko dlatego, że wydaje się bardziej głęboka.** Nie należy na jej podstawie samodzielnie wnioskować o [traumie](../psychopatologia/trauma_ptsd.md), przemocy, intencjach, rozpoznaniu ani rokowaniu. W warunkach wysokiej stawki brak dowodów na trafność przyrostową przemawia za pominięciem metody.
 
 ---
 

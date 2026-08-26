@@ -12,7 +12,7 @@ aliases:
 
 ## Wprowadzenie
 
-Wypalenie zawodowe jest zjawiskiem związanym z **kontekstem pracy**, a nie ogólną nazwą zmęczenia po intensywnym tygodniu. W ICD-11 Światowa Organizacja Zdrowia opisuje je jako zjawisko zawodowe wynikające z przewlekłego stresu w pracy, którym nie udało się skutecznie zarządzić. Obejmuje wyczerpanie, zwiększony dystans psychiczny lub cynizm wobec pracy oraz obniżone poczucie skuteczności zawodowej. WHO zastrzega, że pojęcie odnosi się do pracy i nie powinno opisywać doświadczeń z innych dziedzin życia.
+Wypalenie zawodowe jest zjawiskiem związanym z **kontekstem pracy**, a nie ogólną nazwą zmęczenia po intensywnym tygodniu. W ICD-11 Światowa Organizacja Zdrowia opisuje je jako zjawisko zawodowe wynikające z przewlekłego [stresu](../psychologia_zdrowia/stres.md) w pracy, którym nie udało się skutecznie zarządzić. Obejmuje wyczerpanie, zwiększony dystans psychiczny lub cynizm wobec pracy oraz obniżone poczucie skuteczności zawodowej. WHO zastrzega, że pojęcie odnosi się do pracy i nie powinno opisywać doświadczeń z innych dziedzin życia.
 
 Wypalenie nie jest w ICD-11 chorobą ani samodzielnym rozpoznaniem psychiatrycznym. Może jednak współwystępować z depresją, zaburzeniami lękowymi, bezsennością i chorobami somatycznymi. Utrzymujące się objawy wymagają profesjonalnej oceny, a nie diagnozy na podstawie internetowego testu.
 
@@ -58,7 +58,7 @@ Teoria COR opisuje stres jako skutek zagrożenia utratą zasobów, ich rzeczywis
 - **Zwykłe zmęczenie** zwykle słabnie po odpoczynku i nie musi obejmować cynizmu ani utraty skuteczności.
 - **Depresja** dotyczy wielu dziedzin życia i obejmuje określony zespół objawów klinicznych. Wypalenie i depresja są powiązane, lecz nie są pojęciami tożsamymi.
 - **Stres zawodowy** jest szerszy; może być krótkotrwały i nie prowadzić do wypalenia.
-- **Wtórny stres traumatyczny** wiąże się z pośrednią ekspozycją na traumę innych i ma profil pourazowy. Może współwystępować z wypaleniem w zawodach pomocowych.
+- **Wtórny stres traumatyczny** wiąże się z pośrednią ekspozycją na [traumę](../psychopatologia/trauma_ptsd.md) innych i ma profil pourazowy. Może współwystępować z wypaleniem w zawodach pomocowych.
 - **[Mobbing](mobbing_definicja.md)** opisuje wzorzec negatywnych zachowań interpersonalnych, a nie stan pracownika; może być źródłem przewlekłego stresu i objawów.
 
 Nagłe pogorszenie, ból w klatce piersiowej, znaczna bezsenność, myśli samobójcze lub utrata zdolności do codziennego funkcjonowania wymagają pilnej oceny medycznej. Nie należy przypisywać ich automatycznie wypaleniu.
@@ -95,7 +95,7 @@ Interwencje organizacyjne nie oznaczają jedynie oferowania aplikacji do medytac
 
 ### Wsparcie indywidualne
 
-Sen, aktywność fizyczna, odpoczynek, granice dostępności, techniki relaksacyjne, uważność, wsparcie bliskich i psychoterapia mogą wspomagać regenerację. Powinny być dobrowolne, dostępne również w czasie pracy i traktowane jako uzupełnienie, nie dowód odpowiedzialności pracownika za wadliwe warunki.
+Sen, aktywność fizyczna, odpoczynek, granice dostępności, techniki relaksacyjne, uważność, wsparcie bliskich i [psychoterapia](../psychoterapia/psychoterapia_wprowadzenie.md) mogą wspomagać regenerację. Powinny być dobrowolne, dostępne również w czasie pracy i traktowane jako uzupełnienie, nie dowód odpowiedzialności pracownika za wadliwe warunki.
 
 Pracownik może zapisywać wzorce obciążenia, zgłosić potrzebę korekty zadań, skonsultować zdrowie z lekarzem i skorzystać ze związku zawodowego lub służby BHP. Jego możliwość negocjacji zależy jednak od pozycji i bezpieczeństwa zatrudnienia. Zalecenie „postaw granice” jest niewystarczające, gdy organizacja karze za ich stawianie.
 

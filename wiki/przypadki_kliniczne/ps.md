@@ -47,7 +47,7 @@ Pismo bywa postrzegane jako „naturalne przedłużenie mowy”. Czysta aleksja 
 
 To argument za tym, by rehabilitację czytania traktować jak trening specjalistycznej umiejętności, a nie prosty powrót do stanu sprzed uszkodzenia.
 
-P.S. i podobne przypadki czystej aleksji są fundamentalne dla neuropsychologii języka pisanego. Pokazują, jak selektywne uszkodzenia połączeń wzrokowo-językowych mogą prowadzić do wyraźnej dysocjacji między czytaniem a innymi funkcjami językowymi.
+P.S. i podobne przypadki czystej aleksji są fundamentalne dla [neuropsychologii](../neuropsychologia/diagnoza_i_rehabilitacja_neuropsychologiczna.md) języka pisanego. Pokazują, jak selektywne uszkodzenia połączeń wzrokowo-językowych mogą prowadzić do wyraźnej dysocjacji między czytaniem a innymi funkcjami językowymi.
 
 ## Bibliografia
 

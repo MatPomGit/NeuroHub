@@ -20,7 +20,7 @@ Zakłada, że trudności psychiczne są wynikiem zaburzeń biologicznych - genet
 
 - **Fokus**: diagnoza, klasyfikacja (DSM, ICD), farmakoterapia
 - **Rola pomagającego**: ekspert i lekarz
-- **Zastosowanie**: psychiatria, neuropsychologia kliniczna
+- **Zastosowanie**: psychiatria, [neuropsychologia](../neuropsychologia/diagnoza_i_rehabilitacja_neuropsychologiczna.md) kliniczna
 - **Ograniczenia**: pomija kontekst społeczny i subiektywne przeżycia
 
 ---
@@ -31,7 +31,7 @@ Wywodzący się z psychoanalizy Freuda, akcentuje rolę nieświadomych konflikt�
 
 - **Fokus**: relacje z przeszłości, przeniesienie, wzorce nieświadome
 - **Rola pomagającego**: interpretator, świadek procesu
-- **Zastosowanie**: psychoterapia długoterminowa, zaburzenia osobowości
+- **Zastosowanie**: [psychoterapia](../psychoterapia/psychoterapia_wprowadzenie.md) długoterminowa, zaburzenia osobowości
 - **Ograniczenia**: długotrwały i kosztowny; trudny do ewaluacji empirycznej
 
 ---
@@ -85,7 +85,7 @@ Większość współczesnych pomagających pracuje eklektycznie - łączy elemen
 Przykłady integracji:
 
 - **DBT** (Dialectical Behavior Therapy) - CBT + mindfulness + podejście akceptacji
-- **EMDR** - elementy ekspozycji + procesowanie traumy
+- **EMDR** - elementy ekspozycji + procesowanie [traumy](../psychopatologia/trauma_ptsd.md)
 - **Terapia schematów** - CBT + psychodynamika + humanizm
 
 ---

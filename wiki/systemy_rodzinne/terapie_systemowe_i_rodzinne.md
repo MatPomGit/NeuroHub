@@ -64,7 +64,7 @@ Zmiana abstynencyjna lub redukcja używania reorganizuje obowiązki i zaufanie. 
 
 ### Trauma relacyjna
 
-Trauma jednej osoby może wpływać na sen, pobudzenie, komunikację, opiekę i poczucie bezpieczeństwa całej rodziny. Możliwa jest transmisja przez uczenie się, milczenie, warunki życia i relacje opiekuńcze; proste twierdzenie o biologicznym „dziedziczeniu traumy” przekracza obecne dane.
+[Trauma](../psychopatologia/trauma_ptsd.md) jednej osoby może wpływać na sen, pobudzenie, komunikację, opiekę i poczucie bezpieczeństwa całej rodziny. Możliwa jest transmisja przez uczenie się, milczenie, warunki życia i relacje opiekuńcze; proste twierdzenie o biologicznym „dziedziczeniu traumy” przekracza obecne dane.
 
 Najpierw ustala się, czy zagrożenie nadal trwa. Przy kontroli przymusowej lub przemocy wspólna terapia może zwiększyć ryzyko, ujawnić informacje sprawcy i fałszywie rozdzielić odpowiedzialność. Po zapewnieniu bezpieczeństwa pomoc może łączyć leczenie traumy z pracą nad rodzicielstwem, komunikacją i przewidywalnością. Bezpieczny opiekun bywa ważnym uczestnikiem terapii dziecka.
 
@@ -86,7 +86,7 @@ Ocena postępu powinna obejmować uzgodniony objaw lub cel funkcjonalny, relacje
 
 ## Przykład porównawczy
 
-Rodzina zgłasza konflikty z nastolatką, która przestała chodzić do szkoły. Terapeuta strukturalny może obserwować rozmowę, ograniczyć wciąganie rodzeństwa i pomóc opiekunom utworzyć spójny zespół. Terapeuta bowenowski zbada sekwencję lęku i kontroli, trójkąty oraz podobne przejścia w historii rodziny. Terapeuta narracyjny oddzieli młodą osobę od etykiety „leniwej”, zbada wpływ „lęku przed szkołą” i wyjątki. Każdy powinien równolegle ocenić depresję, lęk, neuroróżnorodność, przemoc rówieśniczą, ryzyko samobójcze i bariery szkolne. Różna mapa relacji nie zwalnia z diagnostyki różnicowej.
+Rodzina zgłasza konflikty z nastolatką, która przestała chodzić do szkoły. Terapeuta strukturalny może obserwować rozmowę, ograniczyć wciąganie rodzeństwa i pomóc opiekunom utworzyć spójny zespół. Terapeuta bowenowski zbada sekwencję lęku i kontroli, trójkąty oraz podobne przejścia w historii rodziny. Terapeuta narracyjny oddzieli młodą osobę od etykiety „leniwej”, zbada wpływ „lęku przed szkołą” i wyjątki. Każdy powinien równolegle ocenić depresję, lęk, [neuroróżnorodność](../neuroroznorodnosc/wprowadzenie.md), przemoc rówieśniczą, ryzyko samobójcze i bariery szkolne. Różna mapa relacji nie zwalnia z diagnostyki różnicowej.
 
 ## Bibliografia
 

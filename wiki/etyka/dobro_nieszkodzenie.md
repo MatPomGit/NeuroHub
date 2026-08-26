@@ -50,7 +50,7 @@ Sara Dimidjian i Steven Hollon w przełomowym artykule *How would we know if psy
 
 - brak jest systematycznej kultury monitorowania negatywnych efektów terapii,
 - część metod stosowanych klinicznie wykazuje **efekty szkodliwe** w badaniach kontrolowanych,
-- wśród udokumentowanych szkodliwych interwencji znalazły się m.in.: grupy krytycznej interwencji po traumie (CISD w nieodpowiednich warunkach), terapia konwersyjna, pewne techniki konfrontacyjne w leczeniu uzależnień.
+- wśród udokumentowanych szkodliwych interwencji znalazły się m.in.: grupy krytycznej interwencji po [traumie](../psychopatologia/trauma_ptsd.md) (CISD w nieodpowiednich warunkach), terapia konwersyjna, pewne techniki konfrontacyjne w leczeniu uzależnień.
 
 ### Kategorie szkód jatrogennnych
 

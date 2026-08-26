@@ -70,7 +70,7 @@ Ocena obejmuje przede wszystkim:
 - jakość i historię relacji dziecka z każdą osobą opiekującą się;
 - zdolność opiekuna do rozpoznawania potrzeb, ochrony i wspierania autonomii;
 - stabilność i wykonalność proponowanej organizacji opieki;
-- przemoc, zaniedbanie, uzależnienie lub inne ryzyko, oceniane na podstawie danych, nie stereotypu;
+- przemoc, zaniedbanie, [uzależnienie](../uzaleznienia/mechanizmy_i_diagnoza_uzaleznien.md) lub inne ryzyko, oceniane na podstawie danych, nie stereotypu;
 - zdolność rodziców do ochrony dziecka przed konfliktem i wspierania bezpiecznych relacji;
 - zdanie dziecka, z uwzględnieniem wieku, rozwoju, swobody wypowiedzi i ciężaru, jakiego nie wolno na nie przenosić.
 
@@ -125,7 +125,7 @@ Nie powinien natomiast pisać: „świadek jest wiarygodny”, „zeznania są p
 
 Ustrukturyzowane metody analizy treści, takie jak *Criteria-Based Content Analysis* w ramach *Statement Validity Assessment*, mogą porządkować hipotezy jedynie po spełnieniu warunków metody. Nie działają jak wykrywacz kłamstwa, ich trafność zależy od wieku, rodzaju zdarzenia, jakości wywiadu i alternatywnych hipotez. Nie należy stosować listy kryteriów mechanicznie ani przedstawiać wyniku jako werdyktu o prawdziwości.
 
-Testy osobowości, testy projekcyjne, rysunki, pomiary objawów i pojedyncze zachowania niewerbalne nie są zwalidowanymi narzędziami ustalania, czy konkretna relacja jest prawdziwa. Objawy stresu mogą współwystępować z doświadczeniem krzywdzenia, ale nie identyfikują jego źródła ani sprawcy. Brak objawów także nie wyklucza zdarzenia.
+Testy osobowości, testy projekcyjne, rysunki, pomiary objawów i pojedyncze zachowania niewerbalne nie są zwalidowanymi narzędziami ustalania, czy konkretna relacja jest prawdziwa. Objawy [stresu](../psychologia_zdrowia/stres.md) mogą współwystępować z doświadczeniem krzywdzenia, ale nie identyfikują jego źródła ani sprawcy. Brak objawów także nie wyklucza zdarzenia.
 
 ## Dziecko jako źródło informacji
 

@@ -7,7 +7,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Louis Victor Leborgne - „Tan"
 
-Człowiek, który przez 21 lat mówił tylko jedno słowo, a jego śmierć dała neuropsychologii jej fundamenty.
+Człowiek, który przez 21 lat mówił tylko jedno słowo, a jego śmierć dała [neuropsychologii](../neuropsychologia/diagnoza_i_rehabilitacja_neuropsychologiczna.md) jej fundamenty.
 
 *Szpital Bicêtre, Paryż, 1840–1861*
 

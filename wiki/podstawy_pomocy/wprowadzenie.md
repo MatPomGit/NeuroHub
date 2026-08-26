@@ -9,7 +9,7 @@ evidenceCutoffDate: 2025-12-31
 
 ## Czym jest pomoc psychologiczna?
 
-**Pomoc psychologiczna** to zorganizowana forma wsparcia udzielanego osobom doświadczającym trudności emocjonalnych, problemów życiowych, kryzysów lub zaburzeń psychicznych. Jej celem jest przywrócenie lub wzmocnienie dobrostanu psychicznego, zdolności do radzenia sobie ze stresem oraz jakości funkcjonowania w życiu codziennym.
+**Pomoc psychologiczna** to zorganizowana forma wsparcia udzielanego osobom doświadczającym trudności emocjonalnych, problemów życiowych, kryzysów lub zaburzeń psychicznych. Jej celem jest przywrócenie lub wzmocnienie dobrostanu psychicznego, zdolności do radzenia sobie ze [stresem](../psychologia_zdrowia/stres.md) oraz jakości funkcjonowania w życiu codziennym.
 
 Pomoc psychologiczna różni się od codziennego wsparcia społecznego - opiera się na **wiedzy naukowej**, **etyce zawodowej** i **ustrukturyzowanej relacji** między pomagającym a osobą korzystającą z pomocy.
 
@@ -19,7 +19,7 @@ Pomoc psychologiczna różni się od codziennego wsparcia społecznego - opiera 
 
 ### Interwencja kryzysowa
 
-Krótkoterminowe działanie ukierunkowane na stabilizację stanu osoby w ostrej fazie kryzysu (np. po traumie, stracie, próbie samobójczej). Priorytetem jest bezpieczeństwo i przywrócenie zdolności do radzenia sobie.
+Krótkoterminowe działanie ukierunkowane na stabilizację stanu osoby w ostrej fazie kryzysu (np. po [traumie](../psychopatologia/trauma_ptsd.md), stracie, próbie samobójczej). Priorytetem jest bezpieczeństwo i przywrócenie zdolności do radzenia sobie.
 
 ### Poradnictwo psychologiczne
 

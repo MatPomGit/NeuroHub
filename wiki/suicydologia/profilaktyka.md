@@ -57,7 +57,7 @@ Wolność informacji nie wymaga publikowania szczegółów zwiększających ryzy
 
 ## Postwencja
 
-Postwencja to zaplanowane wsparcie osób, rodzin, grup zawodowych, szkół i społeczności po zgonie samobójczym. Jej cele obejmują pomoc w żałobie i traumie, identyfikowanie osób potrzebujących pilnej oceny, ograniczanie stygmatyzacji i dezinformacji, bezpieczną komunikację oraz przywracanie funkcjonowania wspólnoty. Może zmniejszać dalsze szkody, ale przede wszystkim odpowiada na rzeczywiste potrzeby osób dotkniętych stratą.
+Postwencja to zaplanowane wsparcie osób, rodzin, grup zawodowych, szkół i społeczności po zgonie samobójczym. Jej cele obejmują pomoc w żałobie i [traumie](../psychopatologia/trauma_ptsd.md), identyfikowanie osób potrzebujących pilnej oceny, ograniczanie stygmatyzacji i dezinformacji, bezpieczną komunikację oraz przywracanie funkcjonowania wspólnoty. Może zmniejszać dalsze szkody, ale przede wszystkim odpowiada na rzeczywiste potrzeby osób dotkniętych stratą.
 
 ### Pierwsze działania
 

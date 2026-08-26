@@ -27,7 +27,7 @@ Aktywność aksonów może wpływać na różnicowanie oligodendrocytów i wzór
 
 Uczenie może zmieniać siłę synaps, pobudliwość neuronów, kolce dendrytyczne, reprezentacje populacyjne i mielinę. Długotrwałe wzmocnienie oraz osłabienie synaptyczne (LTP i LTD) są ważnymi modelami mechanizmów pamięci, lecz nie stanowią pełnego wyjaśnienia konkretnego wspomnienia. Zmiany wykazane u zwierząt lub w wycinku tkanki wymagają ostrożności przy przekładaniu na złożone zachowanie człowieka.
 
-Powtarzanie sprzyja uczeniu tylko wtedy, gdy zadanie dostarcza adekwatnego błędu, informacji zwrotnej i możliwości konsolidacji. Sen, ruch, choroba, stres i leki modyfikują uczenie. Różnica MRI po treningu może odzwierciedlać kilka procesów biologicznych; sama korelacja z liczbą godzin nie dowodzi jednego mechanizmu.
+Powtarzanie sprzyja uczeniu tylko wtedy, gdy zadanie dostarcza adekwatnego błędu, informacji zwrotnej i możliwości konsolidacji. Sen, ruch, choroba, [stres](../psychologia_zdrowia/stres.md) i leki modyfikują uczenie. Różnica MRI po treningu może odzwierciedlać kilka procesów biologicznych; sama korelacja z liczbą godzin nie dowodzi jednego mechanizmu.
 
 ## Po uszkodzeniu
 

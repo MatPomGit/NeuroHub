@@ -60,7 +60,7 @@ Nazwy **„pusty indywidualizm”** (*empty individualism*) używa się w częś
 
 ## Nihilizm i trwałe „ja”
 
-„Podświadomy nihilizm” nie jest utrwaloną kategorią w filozofii umysłu ani diagnozą psychologiczną. Może oznaczać interpretację, według której osłabienie wiary w trwałe „ja” prowadzi do utraty sensu. Taki związek nie wynika logicznie z redukcjonizmu. Parfit wyprowadzał z niego raczej mniejszą koncentrację na sobie i większą troskę o innych; tradycje buddyjskie również łączą krytykę trwałej jaźni z praktyką etyczną, choć ich pojęć nie należy utożsamiać z analizą Parfita.
+„Podświadomy nihilizm” nie jest utrwaloną kategorią w filozofii umysłu ani [diagnozą psychologiczną](../diagnoza/etapy_diagnozy.md). Może oznaczać interpretację, według której osłabienie wiary w trwałe „ja” prowadzi do utraty sensu. Taki związek nie wynika logicznie z redukcjonizmu. Parfit wyprowadzał z niego raczej mniejszą koncentrację na sobie i większą troskę o innych; tradycje buddyjskie również łączą krytykę trwałej jaźni z praktyką etyczną, choć ich pojęć nie należy utożsamiać z analizą Parfita.
 
 ## Konsekwencje i granice
 

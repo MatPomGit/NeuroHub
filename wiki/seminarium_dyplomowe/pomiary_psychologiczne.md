@@ -7,7 +7,7 @@ evidenceCutoffDate: 2025-12-31
 
 # Zasady prowadzenia pomiarów psychologicznych
 
-Pomiar psychologiczny jest procesem precyzyjnego przypisywania liczb lub kategorii do właściwości psychicznych osób zgodnie z określonymi regułami. Rzetelne prowadzenie pomiarów wymaga znajomości podstaw psychometrii, zasad standaryzacji i świadomości ograniczeń.
+Pomiar psychologiczny jest procesem precyzyjnego przypisywania liczb lub kategorii do właściwości psychicznych osób zgodnie z określonymi regułami. Rzetelne prowadzenie pomiarów wymaga znajomości podstaw [psychometrii](../psychometria/psychometria_wprowadzenie.md), zasad standaryzacji i świadomości ograniczeń.
 
 ## Podstawy pomiaru psychologicznego
 

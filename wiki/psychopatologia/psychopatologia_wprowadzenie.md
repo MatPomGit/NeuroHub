@@ -24,7 +24,7 @@ Nasilenie cierpienia, sprawność i liczba objawów nie są wymienne. Osoba moż
 
 ## Jak porządkować psychopatologię
 
-**Podejście kategorialne** wyznacza progi i rozdziela rozpoznania. Ułatwia komunikację, organizację świadczeń i badania, lecz granice kategorii bywają umowne. **Podejście wymiarowe** ocenia nasilenie cech lub domen na kontinuum; lepiej ujmuje przypadki podprogowe i zmiany w czasie, ale nadal wymaga decyzji, kiedy interweniować. **Podejście transdiagnostyczne** bada procesy przekraczające kategorie, takie jak unikanie doświadczeń, ruminacje, zaburzenia snu czy trudności regulacji emocji. Pomaga planować terapię współchorobowości, lecz nie zastępuje różnicowania stanów o odmiennym ryzyku i leczeniu.
+**Podejście kategorialne** wyznacza progi i rozdziela rozpoznania. Ułatwia komunikację, organizację świadczeń i badania, lecz granice kategorii bywają umowne. **Podejście wymiarowe** ocenia nasilenie cech lub domen na kontinuum; lepiej ujmuje przypadki podprogowe i zmiany w czasie, ale nadal wymaga decyzji, kiedy interweniować. **Podejście transdiagnostyczne** bada procesy przekraczające kategorie, takie jak unikanie doświadczeń, ruminacje, zaburzenia snu czy trudności [regulacji emocji](../emocje/regulacja.md). Pomaga planować terapię współchorobowości, lecz nie zastępuje różnicowania stanów o odmiennym ryzyku i leczeniu.
 
 Najbardziej rzetelna praktyka łączy te perspektywy: nazywa zespół i rozpoznanie, mierzy nasilenie oraz tworzy indywidualny model mechanizmów i zasobów.
 

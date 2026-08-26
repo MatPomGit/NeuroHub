@@ -69,7 +69,7 @@ Model **Risk-Need-Responsivity** porządkuje projektowanie interwencji trzema g�
 - **ryzyka**: intensywność usług ukierunkowanych na recydywę powinna odpowiadać oszacowanemu ryzyku; nadmiernie intensywny program dla osób o niskim ryzyku może zakłócać ich prospołeczne role;
 - **potrzeb**: należy kierować pracę na dynamiczne potrzeby kryminogenne powiązane z zachowaniem przestępczym;
 - **ogólnej responsywności**: aktywne metody społecznego uczenia się i poznawczo-behawioralne są zwykle skuteczniejsze niż sam wykład lub nieustrukturyzowana rozmowa;
-- **szczególnej responsywności**: sposób, tempo i środowisko pracy trzeba dopasować do zdolności poznawczych, języka, motywacji, kultury, płci, neuroróżnorodności, traumy i zdrowia psychicznego.
+- **szczególnej responsywności**: sposób, tempo i środowisko pracy trzeba dopasować do zdolności poznawczych, języka, motywacji, kultury, płci, [neuroróżnorodności](../neuroroznorodnosc/wprowadzenie.md), [traumy](../psychopatologia/trauma_ptsd.md) i zdrowia psychicznego.
 
 Metaanalizy programów korekcyjnych wspierają podstawowe zasady RNR, ale wielkość efektów zależy od projektu badań, grupy, rodzaju czynu i jakości wdrożenia. Krytyka dotyczy między innymi koncentracji na deficytach, niedostatecznego opisu sprawczości i relacji terapeutycznej oraz ryzyka mechanicznego przekształcania korelatów w cele leczenia. RNR jest użyteczną ramą redukcji ryzyka, nie pełną teorią dobrego życia ani całego procesu zmiany.
 

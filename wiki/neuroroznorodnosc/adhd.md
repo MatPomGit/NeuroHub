@@ -12,7 +12,7 @@ aliases:
 
 # ADHD
 
-ADHD jest zaburzeniem neurorozwojowym, w którym utrwalone trudności z regulacją uwagi, aktywności lub impulsywności są nieadekwatne do etapu rozwoju i istotnie utrudniają funkcjonowanie. Perspektywa neuroróżnorodności uzupełnia opis kliniczny o wpływ środowiska, indywidualny profil potrzeb i zasobów. Nie znosi jednak kryterium cierpienia albo ograniczenia funkcjonowania, które uzasadnia diagnozę i pomoc.
+ADHD jest zaburzeniem neurorozwojowym, w którym utrwalone trudności z regulacją uwagi, aktywności lub impulsywności są nieadekwatne do etapu rozwoju i istotnie utrudniają funkcjonowanie. Perspektywa [neuroróżnorodności](wprowadzenie.md) uzupełnia opis kliniczny o wpływ środowiska, indywidualny profil potrzeb i zasobów. Nie znosi jednak kryterium cierpienia albo ograniczenia funkcjonowania, które uzasadnia diagnozę i pomoc.
 
 ## Wprowadzenie
 
@@ -65,7 +65,7 @@ Rzetelna diagnoza obejmuje:
 3. ocenę wpływu objawów na naukę, pracę, relacje i codzienną organizację;
 4. analizę innych możliwych wyjaśnień oraz stanów współwystępujących.
 
-Kwestionariusze i testy uwagi mogą wspierać ocenę, lecz nie zastępują diagnozy klinicznej. W różnicowaniu uwzględnia się między innymi zaburzenia snu, zaburzenia lękowe i nastroju, następstwa traumy, skutki używania substancji i leków, trudności w uczeniu się, [spektrum autyzmu](spektrum_autyzmu.md), choroby somatyczne oraz nowe zaburzenia poznawcze. Podobny objaw może mieć różną historię: rozproszenie pojawiające się dopiero podczas epizodu depresji nie jest tym samym co wzorzec obecny od dzieciństwa.
+Kwestionariusze i testy uwagi mogą wspierać ocenę, lecz nie zastępują diagnozy klinicznej. W różnicowaniu uwzględnia się między innymi zaburzenia snu, zaburzenia lękowe i nastroju, następstwa [traumy](../psychopatologia/trauma_ptsd.md), skutki używania substancji i leków, trudności w uczeniu się, [spektrum autyzmu](spektrum_autyzmu.md), choroby somatyczne oraz nowe zaburzenia poznawcze. Podobny objaw może mieć różną historię: rozproszenie pojawiające się dopiero podczas epizodu depresji nie jest tym samym co wzorzec obecny od dzieciństwa.
 
 Współwystępowanie jest częste, dlatego wykrycie innego problemu nie musi automatycznie wykluczać ADHD. Ocena powinna ustalić, czy każdy stan wnosi niezależną informację i zmienia plan pomocy. Trzeba też ocenić ryzyko wypadków, używania substancji, samouszkodzeń oraz trudności szkolnych lub zawodowych, bez zakładania, że wystąpią u każdej osoby.
 
@@ -73,7 +73,7 @@ Współwystępowanie jest częste, dlatego wykrycie innego problemu nie musi aut
 
 Plan pomocy powinien odpowiadać na konkretne ograniczenia funkcjonowania. Psychoedukacja pomaga zrozumieć wzorzec trudności i zaplanować strategie. Dostosowania szkolne lub zawodowe mogą obejmować pisemne instrukcje, podział pracy na etapy, zewnętrzne przypomnienia i ograniczenie bodźców rozpraszających.
 
-Oddziaływania behawioralne i trening umiejętności rodzicielskich mają istotne miejsce w pomocy dzieciom. U dorosłych terapia poznawczo-behawioralna może wspierać organizację, zarządzanie czasem, regulację emocji i pracę z następstwami wieloletnich niepowodzeń.
+Oddziaływania behawioralne i trening umiejętności rodzicielskich mają istotne miejsce w pomocy dzieciom. U dorosłych terapia poznawczo-behawioralna może wspierać organizację, zarządzanie czasem, [regulację emocji](../emocje/regulacja.md) i pracę z następstwami wieloletnich niepowodzeń.
 
 Leki stymulujące i niestymulujące mogą zmniejszać objawy, ale wymagają kwalifikacji medycznej, monitorowania skuteczności i działań niepożądanych. Dobór preparatu zależy od wieku, stanu zdrowia, współwystępujących problemów i lokalnych zaleceń. Farmakoterapia nie zastępuje zmian środowiskowych, gdy źródłem części obciążenia są niedostosowane warunki nauki albo pracy.
 

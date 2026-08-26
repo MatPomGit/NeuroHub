@@ -15,7 +15,7 @@ Choroba ciała wpływa na emocje, uwagę, relacje i role społeczne. Te z kolei 
 W każdej grupie chorób warto osobno oceniać sześć obszarów:
 
 1. **objawy**, ich mechanizm, zmienność i znaczenie dla pacjenta;
-2. **stres**, zarówno jako możliwy czynnik nasilający, jak i następstwo chorowania;
+2. **[stres](../psychologia_zdrowia/stres.md)**, zarówno jako możliwy czynnik nasilający, jak i następstwo chorowania;
 3. **zachowania**, w tym leczenie, sen, ruch, używki, unikanie i szukanie pomocy;
 4. **leczenie medyczne**, które pozostaje podstawą opieki nad chorobą;
 5. **jakość życia**, role, relacje, obraz ciała i piętno społeczne;
@@ -35,7 +35,7 @@ Nie istnieje wiarygodnie potwierdzona „osobowość łuszczycowa”, „wieńco
 
 Widoczność zmian może prowadzić do unikania bliskości, sportu lub pracy z klientem. Świąd i bezsenność utrudniają regularne stosowanie preparatów. Współpraca obejmuje uproszczenie schematu leczenia, plan radzenia sobie ze świądem, ocenę depresji i przeciwdziałanie stygmatyzacji.
 
-Interwencje psychologiczne, między innymi CBT, trening odwracania nawyku i techniki redukcji stresu, mogą poprawiać dystres, zachowania związane z drapaniem oraz jakość życia. Metaanaliza randomizowanych badań w chorobach skóry wykazała korzystne wyniki psychologiczne i pewne wyniki skórne, ale badania były zróżnicowane i zwykle małe; nie uzasadnia to zastępowania leczenia dermatologicznego psychoterapią (Lavda i in., 2012).
+Interwencje psychologiczne, między innymi CBT, trening odwracania nawyku i techniki redukcji stresu, mogą poprawiać dystres, zachowania związane z drapaniem oraz jakość życia. Metaanaliza randomizowanych badań w chorobach skóry wykazała korzystne wyniki psychologiczne i pewne wyniki skórne, ale badania były zróżnicowane i zwykle małe; nie uzasadnia to zastępowania leczenia dermatologicznego [psychoterapią](../psychoterapia/psychoterapia_wprowadzenie.md) (Lavda i in., 2012).
 
 ## Przewód pokarmowy: psychogastroenterologia
 

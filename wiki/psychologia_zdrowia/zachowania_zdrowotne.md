@@ -33,7 +33,7 @@ Dorośli zwykle potrzebują co najmniej siedmiu godzin snu, ale zapotrzebowanie 
 
 ## Substancje, profilaktyka i korzystanie z opieki
 
-Zachowania zdrowotne obejmują także niepalenie lub zaprzestanie palenia, ograniczanie ryzyka związanego z alkoholem i innymi substancjami, szczepienia, badania przesiewowe o udowodnionym bilansie korzyści i szkód, bezpieczniejsze zachowania seksualne oraz reagowanie na objawy. Skuteczna pomoc w zaprzestaniu palenia może łączyć poradnictwo i farmakoterapię; uzależnienie nie jest brakiem charakteru.
+Zachowania zdrowotne obejmują także niepalenie lub zaprzestanie palenia, ograniczanie ryzyka związanego z alkoholem i innymi substancjami, szczepienia, badania przesiewowe o udowodnionym bilansie korzyści i szkód, bezpieczniejsze zachowania seksualne oraz reagowanie na objawy. Skuteczna pomoc w zaprzestaniu palenia może łączyć poradnictwo i farmakoterapię; [uzależnienie](../uzaleznienia/mechanizmy_i_diagnoza_uzaleznien.md) nie jest brakiem charakteru.
 
 Badanie przesiewowe dotyczy osób bez objawów i może przynosić korzyści oraz szkody, w tym wyniki fałszywe i nadrozpoznawalność. Dobór zależy od wieku, ryzyka i krajowych programów. Objaw wymagający oceny nie powinien czekać na termin przesiewu.
 
@@ -53,7 +53,7 @@ Ewaluacja powinna pytać nie tylko, czy średni wynik się poprawił, lecz takż
 
 Pomocny proces obejmuje wybór zachowania ważnego dla osoby, rozpoznanie barier, ustalenie małego działania, monitorowanie i korektę. Cele mogą dotyczyć procesu, np. spaceru po obiedzie, a nie wyłącznie wyniku biologicznego. Nawrót dawnego wzorca dostarcza informacji o warunkach, nie dowodu porażki moralnej.
 
-Interwencję kliniczną dobiera się po ocenie stanu zdrowia i preferencji. Psychoterapia, fizjoterapia, leczenie uzależnienia, dietoterapia i farmakoterapia mają określone wskazania. Uniwersalny poradnik nie powinien zastępować diagnozy ani dostosowanego leczenia.
+Interwencję kliniczną dobiera się po ocenie stanu zdrowia i preferencji. [Psychoterapia](../psychoterapia/psychoterapia_wprowadzenie.md), fizjoterapia, leczenie uzależnienia, dietoterapia i farmakoterapia mają określone wskazania. Uniwersalny poradnik nie powinien zastępować diagnozy ani dostosowanego leczenia.
 
 ## Bibliografia
 

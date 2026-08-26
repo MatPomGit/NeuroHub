@@ -82,7 +82,7 @@ Pomoc powinna być dobrowolna i niezależna od postępowania wyjaśniającego. M
 
 - interwencję kryzysową i plan bezpieczeństwa;
 - konsultację lekarską przy bezsenności, nasilonym lęku, depresji lub dolegliwościach somatycznych;
-- psychoterapię ukierunkowaną na objawy, odzyskanie sprawstwa, redukcję samoobwiniania i podjęcie decyzji;
+- [psychoterapię](../psychoterapia/psychoterapia_wprowadzenie.md) ukierunkowaną na objawy, odzyskanie sprawstwa, redukcję samoobwiniania i podjęcie decyzji;
 - wsparcie społeczne, prawne i zawodowe, w tym plan bezpiecznego pozostania lub odejścia z pracy.
 
 Terapeuta nie powinien zakładać, że problem wynika z „niskiej [rezyliencji](odpornosc_wprowadzenie.md)”, nakłaniać do konfrontacji bez oceny ryzyka ani zastępować pełnomocnika prawnego. Terapia pomaga osobie, lecz nie nakłada sankcji, nie zmienia przełożonego i nie usuwa wadliwych norm. Organizacja nadal odpowiada za prewencję, wyjaśnienie i korektę środowiska.

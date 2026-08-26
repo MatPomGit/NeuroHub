@@ -12,13 +12,13 @@ aliases:
 ## Wprowadzenie
 
 - Psychosomatyka bada **dwukierunkowe** zależności między procesami biologicznymi, psychicznymi i społecznymi. Określenie „psychosomatyczny” nie znaczy „urojony”, „wymyślony” ani „pozbawiony biologicznej podstawy”.
-- Współczesne modele nie przypisują pojedynczej chorobie jednego konfliktu ani jednej osobowości. Pytają, jak podatność biologiczna, środowisko, stres, sposób interpretacji objawów i zachowania zdrowotne współdziałają u konkretnej osoby.
+- Współczesne modele nie przypisują pojedynczej chorobie jednego konfliktu ani jednej osobowości. Pytają, jak podatność biologiczna, środowisko, [stres](../psychologia_zdrowia/stres.md), sposób interpretacji objawów i zachowania zdrowotne współdziałają u konkretnej osoby.
 - Reakcja stresowa jest adaptacyjna. Jej długotrwałe lub powtarzane uruchamianie może zwiększać obciążenie fizjologiczne, ale **stres nie jest samodzielnym, uniwersalnym wyjaśnieniem chorób somatycznych**.
 - Wykazanie zmiany kortyzolu, tętna albo markera zapalnego potwierdza szlak fizjologiczny, nie dowodzi jeszcze, że zmniejszenie stresu wyleczy daną chorobę.
 
 ## Czym zajmuje się psychosomatyka
 
-Psychosomatyka, medycyna behawioralna i psychologia zdrowia opisują relacje między doświadczeniem człowieka a funkcjonowaniem organizmu. Obejmują między innymi reakcje psychiczne na chorobę, wpływ objawów na role społeczne, zachowania związane z leczeniem oraz biologiczne szlaki odpowiedzi na zagrożenie. Nie tworzą podziału na choroby „prawdziwe” i „psychiczne”. Choroba somatyczna może współwystępować z depresją, lękiem lub [somatyzacją](somatyzacja.md), a objaw może być realny mimo braku uchwytnej zmiany strukturalnej.
+Psychosomatyka, medycyna behawioralna i [psychologia zdrowia](../psychologia_zdrowia/zdrowie_wprowadzenie.md) opisują relacje między doświadczeniem człowieka a funkcjonowaniem organizmu. Obejmują między innymi reakcje psychiczne na chorobę, wpływ objawów na role społeczne, zachowania związane z leczeniem oraz biologiczne szlaki odpowiedzi na zagrożenie. Nie tworzą podziału na choroby „prawdziwe” i „psychiczne”. Choroba somatyczna może współwystępować z depresją, lękiem lub [somatyzacją](somatyzacja.md), a objaw może być realny mimo braku uchwytnej zmiany strukturalnej.
 
 Termin ma zatem sens jako **perspektywa kliniczna**, nie jako etykieta rozstrzygająca o przyczynie. Rozpoznawanie i leczenie konkretnych chorób pozostaje zadaniem odpowiednich specjalności medycznych. Rolę interwencji psychologicznych opisano w artykule [Pomoc psychologiczna w objawach somatycznych](terapia_psychosomatyczna.md).
 

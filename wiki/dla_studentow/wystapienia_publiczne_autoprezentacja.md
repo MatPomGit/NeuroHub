@@ -26,7 +26,7 @@ Kompetencje wystąpień publicznych są kluczowe dla psychologów: w psychoeduka
 
 ### 1. Krzywa pobudzenia i jakość występu
 
-Umiarkowane pobudzenie poprawia koncentrację i energię przekazu, lecz nadmierny stres obniża pamięć roboczą i płynność mówienia. Celem treningu nie jest „brak stresu”, ale regulacja pobudzenia do poziomu funkcjonalnego.
+Umiarkowane pobudzenie poprawia koncentrację i energię przekazu, lecz nadmierny [stres](../psychologia_zdrowia/stres.md) obniża pamięć roboczą i płynność mówienia. Celem treningu nie jest „brak stresu”, ale regulacja pobudzenia do poziomu funkcjonalnego.
 
 ### 2. Struktura poznawcza wystąpienia
 
@@ -197,7 +197,7 @@ Autoprezentacja jest przede wszystkim **formą etycznej odpowiedzialności za od
 - `spoleczna/ja_i_samoocena` - poczucie własnej wartości a ekspozycja społeczna.
 - `students/psycholog_w_it` - prezentacja wyników badań i komunikacja z zespołami technicznymi.
 
-Wystąpienia publiczne to umiejętność oparta na psychologii uwagi, pamięci i regulacji emocji. Najlepsze rezultaty daje połączenie struktury poznawczej, treningu wykonania i świadomej, etycznej autoprezentacji.
+Wystąpienia publiczne to umiejętność oparta na psychologii uwagi, pamięci i [regulacji emocji](../emocje/regulacja.md). Najlepsze rezultaty daje połączenie struktury poznawczej, treningu wykonania i świadomej, etycznej autoprezentacji.
 
 ## Bibliografia
 

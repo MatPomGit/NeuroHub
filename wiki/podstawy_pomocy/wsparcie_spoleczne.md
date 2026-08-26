@@ -34,11 +34,11 @@ Najczęściej wyróżnia się:
 3. **wsparcie instrumentalne**, czyli konkretną pomoc, na przykład opiekę, transport lub przejęcie zadania;
 4. **wsparcie wartościujące**, czyli informację zwrotną pomagającą ocenić sytuację, kompetencje i możliwe działania.
 
-Jedno zachowanie może pełnić różne funkcje. Rozmowa z bliską osobą bywa jednocześnie źródłem informacji, regulacji emocji i potwierdzenia przynależności.
+Jedno zachowanie może pełnić różne funkcje. Rozmowa z bliską osobą bywa jednocześnie źródłem informacji, [regulacji emocji](../emocje/regulacja.md) i potwierdzenia przynależności.
 
 ## Jak wsparcie wiąże się ze zdrowiem
 
-Model efektu głównego zakłada, że stabilne relacje wspierają zdrowie niezależnie od aktualnego poziomu stresu. Mogą wzmacniać poczucie przynależności, sprzyjać zachowaniom prozdrowotnym i ułatwiać dostęp do zasobów.
+Model efektu głównego zakłada, że stabilne relacje wspierają zdrowie niezależnie od aktualnego poziomu [stresu](../psychologia_zdrowia/stres.md). Mogą wzmacniać poczucie przynależności, sprzyjać zachowaniom prozdrowotnym i ułatwiać dostęp do zasobów.
 
 Model buforowy przewiduje, że wsparcie jest szczególnie ważne podczas silnego obciążenia. Może zmieniać ocenę zagrożenia, zwiększać repertuar sposobów radzenia sobie i ograniczać następstwa fizjologiczne stresu. Oba mechanizmy mogą działać równocześnie.
 
@@ -68,7 +68,7 @@ Nie każdą relację należy podtrzymywać w imię wsparcia. W sytuacji przemocy
 
 ## Grupy wsparcia i pomoc wzajemna
 
-Grupy skupiające osoby o podobnych doświadczeniach mogą dostarczać wiedzy praktycznej, normalizować reakcje i ograniczać poczucie izolacji. Nie każda grupa jest psychoterapią. Warto sprawdzić zasady poufności, sposób moderacji, kwalifikacje prowadzących i reguły reagowania na kryzys.
+Grupy skupiające osoby o podobnych doświadczeniach mogą dostarczać wiedzy praktycznej, normalizować reakcje i ograniczać poczucie izolacji. Nie każda grupa jest [psychoterapią](../psychoterapia/psychoterapia_wprowadzenie.md). Warto sprawdzić zasady poufności, sposób moderacji, kwalifikacje prowadzących i reguły reagowania na kryzys.
 
 Wsparcie internetowe zwiększa dostępność pomocy, lecz jakość informacji i bezpieczeństwo społeczności są nierówne. Anonimowość może ułatwiać ujawnienie trudności, ale nie chroni przed dezinformacją, nadużyciem ani ujawnieniem danych.
 

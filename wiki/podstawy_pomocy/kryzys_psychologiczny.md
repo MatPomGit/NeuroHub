@@ -69,7 +69,7 @@ W interwencji kryzysowej pomocne jest szybkie rozpoznanie:
 
 ## Interwencja kryzysowa a psychoterapia
 
-Interwencja kryzysowa **nie jest psychoterapią** - różni się celem, długością i zakresem:
+Interwencja kryzysowa **nie jest [psychoterapią](../psychoterapia/psychoterapia_wprowadzenie.md)** - różni się celem, długością i zakresem:
 
 | Aspekt | Interwencja kryzysowa | Psychoterapia |
 |---|---|---|

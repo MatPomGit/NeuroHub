@@ -13,7 +13,7 @@ Błędy w badaniach psychologicznych mogą pojawić się na każdym etapie - od 
 
 ### 1. Niejasne lub niefalsyfikowalne pytanie badawcze
 
-**Problem:** Pytanie jest zbyt ogólne (*Jak stres wpływa na człowieka?*) albo sformułowane tak, że każdy wynik je potwierdza.
+**Problem:** Pytanie jest zbyt ogólne (*Jak [stres](../psychologia_zdrowia/stres.md) wpływa na człowieka?*) albo sformułowane tak, że każdy wynik je potwierdza.
 
 **Rozwiązanie:** Pytanie badawcze powinno być konkretne, operacjonalne i falsyfikowalne. Dobra hipoteza określa spodziewany kierunek i siłę efektu oraz jest możliwa do odrzucenia przez dane.
 

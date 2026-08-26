@@ -35,7 +35,7 @@ Pomoc obejmuje wspólne podejmowanie decyzji, technikę teach-back, uproszczenie
 
 Rehabilitacja ma optymalizować funkcjonowanie w relacji osoby z otoczeniem, a nie tylko „naprawiać deficyt”. Może łączyć medycynę, fizjoterapię, terapię zajęciową, psychologię, logopedię, pielęgniarstwo i pracę socjalną. Cele powinny być znaczące dla osoby, konkretne i okresowo aktualizowane.
 
-Psycholog może wspierać rozumienie diagnozy, regulację emocji, stopniowy powrót do aktywności, komunikację z bliskimi i pracą oraz leczenie współwystępujących zaburzeń. W bólu przewlekłym rehabilitacja koncentruje się także na funkcjonowaniu mimo objawu; szczegóły opisuje [Psychologia bólu](bol.md). Barierami są kolejki, fragmentacja opieki, niedostępny transport, architektura, brak tłumaczenia i elastyczności zatrudnienia.
+Psycholog może wspierać rozumienie diagnozy, [regulację emocji](../emocje/regulacja.md), stopniowy powrót do aktywności, komunikację z bliskimi i pracą oraz leczenie współwystępujących zaburzeń. W bólu przewlekłym rehabilitacja koncentruje się także na funkcjonowaniu mimo objawu; szczegóły opisuje [Psychologia bólu](bol.md). Barierami są kolejki, fragmentacja opieki, niedostępny transport, architektura, brak tłumaczenia i elastyczności zatrudnienia.
 
 ## Jakość życia związana ze zdrowiem
 

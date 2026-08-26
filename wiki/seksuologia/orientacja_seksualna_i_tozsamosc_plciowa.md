@@ -36,7 +36,7 @@ Tożsamość płciowa może być zgodna albo niezgodna z płcią przypisaną prz
 
 ## Stres mniejszościowy i dyskryminacja
 
-Wyższe ryzyko niektórych trudności psychicznych w grupach mniejszościowych nie dowodzi patologii orientacji ani tożsamości. Model stresu mniejszościowego opisuje dodatkowe obciążenia społeczne:
+Wyższe ryzyko niektórych trudności psychicznych w grupach mniejszościowych nie dowodzi patologii orientacji ani tożsamości. Model [stresu](../psychologia_zdrowia/stres.md) mniejszościowego opisuje dodatkowe obciążenia społeczne:
 
 - przemoc, odrzucenie, nierówne traktowanie i bariery w opiece;
 - oczekiwanie odrzucenia i konieczność monitorowania otoczenia;

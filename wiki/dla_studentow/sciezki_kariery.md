@@ -39,7 +39,7 @@ Obszary: rekrutacja, ocena kompetencji, rozwój talentów, wellbeing, badania UX
 
 - metodologia badań i analiza danych,
 - kompetencje komunikacyjne i facylitacja,
-- podstawy psychometrii i walidacji narzędzi.
+- podstawy [psychometrii](../psychometria/psychometria_wprowadzenie.md) i walidacji narzędzi.
 
 ## R&D i nauka
 Obszary: uczelnie, think tanki, badania kliniczne, laboratoria kognitywne i neuronaukowe.
@@ -57,7 +57,7 @@ Obszary: uczelnie, think tanki, badania kliniczne, laboratoria kognitywne i neur
 1. Studia magisterskie z psychologii
 2. Staże i praktyki kliniczne
 3. Specjalizacja/kształcenie podyplomowe oraz superwizja
-4. Budowanie niszy (np. zaburzenia lękowe, neuropsychologia, psychotraumatologia)
+4. Budowanie niszy (np. zaburzenia lękowe, [neuropsychologia](../neuropsychologia/diagnoza_i_rehabilitacja_neuropsychologiczna.md), psychotraumatologia)
 
 ### Profil B - psycholog w HR/organizacji
 

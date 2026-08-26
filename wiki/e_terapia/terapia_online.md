@@ -20,7 +20,7 @@ Wynik leczenia zależy nie tylko od kanału komunikacji, lecz także od rozpozna
 
 ## Definicja, granice i historia
 
-Telepsychologia obejmuje świadczenia psychologiczne z użyciem telekomunikacji, w tym konsultację, diagnozę, psychoterapię i nadzór nad leczeniem. W tym artykule „terapia online” oznacza interwencję, za którą odpowiada konkretny specjalista. Należy ją odróżnić od samopomocy bez udziału klinicysty oraz od zwykłej komunikacji organizacyjnej, na przykład ustalania terminu wizyty.
+Telepsychologia obejmuje świadczenia psychologiczne z użyciem telekomunikacji, w tym konsultację, diagnozę, [psychoterapię](../psychoterapia/psychoterapia_wprowadzenie.md) i nadzór nad leczeniem. W tym artykule „terapia online” oznacza interwencję, za którą odpowiada konkretny specjalista. Należy ją odróżnić od samopomocy bez udziału klinicysty oraz od zwykłej komunikacji organizacyjnej, na przykład ustalania terminu wizyty.
 
 Korzenie zdalnej opieki sięgają poradnictwa telefonicznego i telepsychiatrii prowadzonej od połowy XX wieku. W latach 90. internet umożliwił poradnictwo e-mailowe i pierwsze kliniki internetowe. W następnej dekadzie rozwinęły się badane, ustrukturyzowane programy internetowej terapii poznawczo-behawioralnej (iCBT), często ze wsparciem terapeuty. Upowszechnienie szerokopasmowego internetu i szyfrowanych wideorozmów zbliżyło przebieg sesji zdalnej do gabinetowej. Pandemia COVID-19 gwałtownie zwiększyła skalę świadczeń, lecz nie stworzyła samej metody. Jej skutkiem było raczej przejście telepsychologii z niszy do rutynowej opieki oraz ujawnienie problemów dostępu, regulacji i gotowości kryzysowej.
 

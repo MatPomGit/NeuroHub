@@ -8,7 +8,7 @@ evidenceCutoffDate: 2026-08-01
 
 ## Zakres i kryterium oceny
 
-Wspólnym mianownikiem opisanych tu praktyk jest użycie relacji lub celu wykraczającego poza kanoniczny protokół. Nie tworzą jednej szkoły. Terapię prowokatywną można traktować jako model lub styl interwencji; przebaczenie jest możliwym procesem i celem klienta. Natomiast badania Philipa Zimbardo dotyczą głównie [wpływu sytuacji i ról społecznych](../psychologia_spoleczna/wplyw_spoleczny_perswazja_i_posluszenstwo.md#stanfordzki-eksperyment-wiezienny-studium-historyczne-i-spor), nie metody psychoterapii.
+Wspólnym mianownikiem opisanych tu praktyk jest użycie relacji lub celu wykraczającego poza kanoniczny protokół. Nie tworzą jednej szkoły. Terapię prowokatywną można traktować jako model lub styl interwencji; przebaczenie jest możliwym procesem i celem klienta. Natomiast badania Philipa Zimbardo dotyczą głównie [wpływu sytuacji i ról społecznych](../psychologia_spoleczna/wplyw_spoleczny_perswazja_i_posluszenstwo.md#stanfordzki-eksperyment-wiezienny-studium-historyczne-i-spor), nie metody [psychoterapii](psychoterapia_wprowadzenie.md).
 
 ## Terapia prowokatywna
 
@@ -18,7 +18,7 @@ Klasyczna terapia prowokatywna ma przede wszystkim literaturę opisową i klinic
 
 ### Warunki i ryzyko szkody
 
-Przed użyciem trzeba ustalić cel, zgodę na styl, znaczenie humoru w kulturze osoby oraz zdolność naprawy zerwania. Szczególna ostrożność jest potrzebna przy traumie relacyjnej, silnym wstydzie, psychozie, manii, ryzyku samobójczym, nierównowadze władzy i wcześniejszym poniżaniu. Terapeuta monitoruje reakcję i natychmiast wycofuje interwencję, gdy pojawia się zamrożenie, uległość lub utrata bezpieczeństwa. „Klient nie zrozumiał żartu” nie jest wystarczającym wyjaśnieniem szkody.
+Przed użyciem trzeba ustalić cel, zgodę na styl, znaczenie humoru w kulturze osoby oraz zdolność naprawy zerwania. Szczególna ostrożność jest potrzebna przy [traumie](../psychopatologia/trauma_ptsd.md) relacyjnej, silnym wstydzie, psychozie, manii, ryzyku samobójczym, nierównowadze władzy i wcześniejszym poniżaniu. Terapeuta monitoruje reakcję i natychmiast wycofuje interwencję, gdy pojawia się zamrożenie, uległość lub utrata bezpieczeństwa. „Klient nie zrozumiał żartu” nie jest wystarczającym wyjaśnieniem szkody.
 
 ## Przebaczenie jako możliwy proces
 

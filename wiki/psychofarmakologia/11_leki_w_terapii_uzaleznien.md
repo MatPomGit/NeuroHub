@@ -10,7 +10,7 @@ Stan ostrego zatrucia, majaczenie, drgawki, zaburzenia oddychania lub świadomo�
 
 ### Stan ostry i zapobieganie powikłaniom
 
-W odstawieniu alkoholu benzodiazepiny zmniejszają ryzyko drgawek i majaczenia, ale wymagają oceny nasilenia, oddychania, wątroby i równoległych substancji. Tiaminę podaje się w celu zapobiegania lub leczenia encefalopatii Wernickego, szczególnie przy niedożywieniu; wyrównuje się płyny i elektrolity. Samo przejście odstawienia nie leczy uzależnienia, dlatego plan dalszej opieki zaczyna się jeszcze w fazie ostrej.
+W odstawieniu alkoholu benzodiazepiny zmniejszają ryzyko drgawek i majaczenia, ale wymagają oceny nasilenia, oddychania, wątroby i równoległych substancji. Tiaminę podaje się w celu zapobiegania lub leczenia encefalopatii Wernickego, szczególnie przy niedożywieniu; wyrównuje się płyny i elektrolity. Samo przejście odstawienia nie leczy [uzależnienia](../uzaleznienia/mechanizmy_i_diagnoza_uzaleznien.md), dlatego plan dalszej opieki zaczyna się jeszcze w fazie ostrej.
 
 ### Ograniczanie używania i wspieranie abstynencji
 

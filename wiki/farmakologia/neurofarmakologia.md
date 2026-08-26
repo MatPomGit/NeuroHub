@@ -27,7 +27,7 @@ Nauka o tym, jak substancje chemiczne - leki, neuroprzekaźniki i substancje psy
 
 ### Układ dopaminergiczny
 
-Dopamina działa przez receptory D1–D5 w kluczowych szlakach. *Szlak mezolimbiczny* (VTA → jądro półleżące) to układ nagrody - kluczowy w uzależnieniach i psychozach. *Szlak nigrostriatalny* (istota czarna → prążkowie) kontroluje ruch - jego degeneracja powoduje chorobę Parkinsona.
+Dopamina działa przez receptory D1–D5 w kluczowych szlakach. *Szlak mezolimbiczny* (VTA → jądro półleżące) to układ nagrody - kluczowy w [uzależnieniach](../uzaleznienia/mechanizmy_i_diagnoza_uzaleznien.md) i psychozach. *Szlak nigrostriatalny* (istota czarna → prążkowie) kontroluje ruch - jego degeneracja powoduje chorobę Parkinsona.
 
 > **Hipoteza dopaminowa schizofrenii:** nadmierna aktywność szlaku mezolimbicznego leży u podłoża objawów wytwórczych. Leki przeciwpsychotyczne blokują receptory D2.
 

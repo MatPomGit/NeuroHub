@@ -61,7 +61,7 @@ Rzetelna debata powinna:
 3. nie traktować nieistniejącej osoby tak, jakby już posiadała preferencje;
 4. uwzględnić prawa i interesy istniejących osób;
 5. jawnie nazwać sporną teorię wartości;
-6. nie przedstawiać filozoficznego pesymizmu jako diagnozy psychologicznej.
+6. nie przedstawiać filozoficznego pesymizmu jako [diagnozy psychologicznej](../diagnoza/etapy_diagnozy.md).
 
 Rozmowa o nieistnieniu może dotykać osób w kryzysie. Argument metafizyczny nie stanowi oceny wartości konkretnego życia ani porady klinicznej.
 

@@ -44,7 +44,7 @@ Dlatego porównanie „strategii” bez pomiaru tych warunków może przypisać 
 
 ## Stres akulturacyjny, zasoby i przebieg w czasie
 
-Stres akulturacyjny obejmuje obciążenia bezpośrednio związane z kontaktem kulturowym: wysiłek komunikacyjny, żałobę po utraconym środowisku, konflikty wartości, rozdzielenie rodziny i dyskryminację. Nie jest sam w sobie zaburzeniem. Może jednak zwiększać ryzyko cierpienia psychicznego, zwłaszcza gdy jest przewlekły i łączy się z niepewnością materialną lub prawną.
+[Stres](../psychologia_zdrowia/stres.md) akulturacyjny obejmuje obciążenia bezpośrednio związane z kontaktem kulturowym: wysiłek komunikacyjny, żałobę po utraconym środowisku, konflikty wartości, rozdzielenie rodziny i dyskryminację. Nie jest sam w sobie zaburzeniem. Może jednak zwiększać ryzyko cierpienia psychicznego, zwłaszcza gdy jest przewlekły i łączy się z niepewnością materialną lub prawną.
 
 Zasobami bywają wsparcie rodziny i diaspory, bezpieczny status, znajomość języków, ciągłość praktyk religijnych lub kulturowych i responsywne instytucje. Dwukulturowa tożsamość może poszerzać repertuar działania, lecz łączenie repertuarów jest trudniejsze, gdy otoczenie przedstawia je jako niezgodne.
 

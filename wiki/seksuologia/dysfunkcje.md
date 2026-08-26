@@ -34,7 +34,7 @@ Ocena nie polega wyłącznie na przypisaniu trudności do fazy cyklu. Obejmuje:
 - **zdrowie somatyczne:** choroby naczyniowe, neurologiczne i endokrynne, zdrowie dna miednicy, ciąża, połóg i menopauza;
 - **leki i substancje:** m.in. część leków przeciwdepresyjnych, przeciwpsychotycznych, przeciwnadciśnieniowych i hormonalnych; leku nie należy odstawiać bez konsultacji;
 - **ból:** miejsce, czas, nasilenie i czynniki wyzwalające; ból nie jest obowiązkową ceną aktywności ani wskazaniem do forsowania penetracji;
-- **psychikę:** stres, nastrój, lęk przed oceną, traumę, uwagę i oczekiwania;
+- **psychikę:** [stres](../psychologia_zdrowia/stres.md), nastrój, lęk przed oceną, [traumę](../psychopatologia/trauma_ptsd.md), uwagę i oczekiwania;
 - **relację i kontekst:** zgodę, bezpieczeństwo, przemoc, komunikację, konflikt, prywatność, rodzaj stymulacji i rozbieżność potrzeb;
 - **obraz ciała:** samoocenę, wstyd, dysforię, doświadczenie choroby lub zmian ciała i normy wyglądu.
 
@@ -48,7 +48,7 @@ Wybór oświetlenia, ubrania lub pozycji bywa neutralną preferencją i nie wyma
 
 ## Terapia seksualna
 
-Plan leczenia wynika z rozpoznanych mechanizmów. Może łączyć leczenie choroby podstawowej lub modyfikację farmakoterapii przez lekarza, fizjoterapię dna miednicy, psychoedukację, psychoterapię indywidualną albo terapię par.
+Plan leczenia wynika z rozpoznanych mechanizmów. Może łączyć leczenie choroby podstawowej lub modyfikację farmakoterapii przez lekarza, fizjoterapię dna miednicy, psychoedukację, [psychoterapię](../psychoterapia/psychoterapia_wprowadzenie.md) indywidualną albo terapię par.
 
 Model **PLISSIT** porządkuje interwencje od przyzwolenia na rozmowę i ograniczonej informacji, przez konkretne sugestie, do intensywnej terapii specjalistycznej. Nie oznacza automatycznego przechodzenia przez wszystkie poziomy. Techniki poznawczo-behawioralne pomagają pracować z lękiem, uwagą i unikaniem. **Ogniskowanie na doznaniach** (*sensate focus*) może zmniejszać presję na wynik przez uzgodniony kontakt bez obowiązku penetracji lub orgazmu. Ćwiczenie wymaga zgody, możliwości zatrzymania i dostosowania do bólu, traumy oraz stanu relacji; nie stosuje się go w warunkach przymusu lub przemocy.
 

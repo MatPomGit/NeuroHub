@@ -54,7 +54,7 @@ Ocena ekologiczna może wykorzystywać obserwację zadania, dzienniczek, próbę
 
 Zmęczenie poznawcze, zaburzenia snu, ból, depresja, lęk i apatia wpływają na uczenie oraz udział w terapii. Wymagają pomiaru, leczenia lub dostosowania harmonogramu. Krótsze sesje z przerwami mogą być skuteczniejsze niż forsowanie intensywności. Objawów nie należy przypisywać „brakowi motywacji” bez oceny ich przyczyn.
 
-Trudności z samoświadomością, inicjowaniem i regulacją emocji mogą ograniczać korzystanie ze strategii. Pomagają informacje zwrotne oparte na konkretnych zadaniach, przewidywanie wyniku przed próbą oraz uczenie bez poniżania. Psychoterapia powinna być dostosowana do pamięci, języka i zdolności abstrahowania.
+Trudności z samoświadomością, inicjowaniem i [regulacją emocji](../emocje/regulacja.md) mogą ograniczać korzystanie ze strategii. Pomagają informacje zwrotne oparte na konkretnych zadaniach, przewidywanie wyniku przed próbą oraz uczenie bez poniżania. [Psychoterapia](../psychoterapia/psychoterapia_wprowadzenie.md) powinna być dostosowana do pamięci, języka i zdolności abstrahowania.
 
 ## Rodzina i bliscy
 

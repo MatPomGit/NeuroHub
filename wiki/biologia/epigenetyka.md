@@ -11,7 +11,7 @@ evidenceCutoffDate: 2025-12-31
 
 Epigenetyka opisuje względnie trwałe zmiany aktywności genomu, które nie wynikają ze zmiany sekwencji DNA. Nie każda zmiana musi być odwracalna ani dziedziczona przez potomstwo. W psychologii i psychiatrii dziedzina ta bada, jak rozwój i ekspozycje wiążą się z regulacją transkrypcji. Większość wyników u ludzi jest obserwacyjna, dlatego „ślad epigenetyczny” nie dowodzi, że doświadczenie spowodowało zaburzenie.
 
-**Słowa kluczowe:** epigenetyka, metylacja DNA, modyfikacje histonów, zdrowie psychiczne, stres, trauma, neuroplastyczność.
+**Słowa kluczowe:** epigenetyka, metylacja DNA, modyfikacje histonów, zdrowie psychiczne, [stres](../psychologia_zdrowia/stres.md), [trauma](../psychopatologia/trauma_ptsd.md), neuroplastyczność.
 
 ---
 
@@ -87,7 +87,7 @@ Epigenetyka może w przyszłości wspierać:
 
 - **stratyfikację ryzyka** (w połączeniu z danymi klinicznymi i poligenicznymi),
 - **monitorowanie odpowiedzi na leczenie** (biomarkery dynamiczne),
-- **projektowanie interwencji spersonalizowanych** (styl życia, psychoterapia, farmakoterapia).
+- **projektowanie interwencji spersonalizowanych** (styl życia, [psychoterapia](../psychoterapia/psychoterapia_wprowadzenie.md), farmakoterapia).
 
 Na obecnym etapie nie ma jednak pojedynczego, klinicznie wystarczającego biomarkera epigenetycznego dla rutynowej diagnostyki psychiatrycznej. Najbardziej obiecujące jest podejście multimodalne, łączące dane biologiczne, psychologiczne i środowiskowe.
 

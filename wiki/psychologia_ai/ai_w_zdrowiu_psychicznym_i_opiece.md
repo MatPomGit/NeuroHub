@@ -17,7 +17,7 @@ Podstawowe rozróżnienie dotyczy roli systemu:
 - **narzędzie wspierające specjalistę** dostarcza pomiaru, szkicu, alertu lub rekomendacji, które człowiek ocenia w kontekście klinicznym;
 - **system autonomiczny** sam rozpoznaje problem, wybiera interwencję albo podejmuje decyzję wpływającą na dostęp do świadczenia.
 
-Autonomia zwiększa wymagania dotyczące dowodów, walidacji, nadzoru, odpowiedzialności i drogi odwoławczej. Etykieta „AI” nie zmienia programu dobrostanowego w psychoterapię ani urządzenia konsumenckiego w wyrób medyczny.
+Autonomia zwiększa wymagania dotyczące dowodów, walidacji, nadzoru, odpowiedzialności i drogi odwoławczej. Etykieta „AI” nie zmienia programu dobrostanowego w [psychoterapię](../psychoterapia/psychoterapia_wprowadzenie.md) ani urządzenia konsumenckiego w wyrób medyczny.
 
 ## Mapa zastosowań
 

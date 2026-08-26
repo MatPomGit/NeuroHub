@@ -27,7 +27,7 @@ Brenda Milner i Suzanne Corkin badały H.M. przez ponad 50 lat. Ich odkrycia obe
 
 Przypadek H.M. dostarczył kluczowych dowodów na odrębność systemów pamięci (deklaratywna vs. nie-deklaratywna), rolę hipokampa w konsolidacji nowych wspomnień - nie w ich długotrwałym przechowywaniu - oraz na konsolidację systemową, dzięki której wspomnienia z czasem stają się niezależne od hipokampa.
 
-H.M. był najsłynniejszym pacjentem w historii neuropsychologii. Po jego śmierci w 2008 roku mózg został poddany szczegółowej analizie - obejmowała ciągłą, trwającą około 53 godzin procedurę histologiczną (Annese i in., 2014).
+H.M. był najsłynniejszym pacjentem w historii [neuropsychologii](../neuropsychologia/diagnoza_i_rehabilitacja_neuropsychologiczna.md). Po jego śmierci w 2008 roku mózg został poddany szczegółowej analizie - obejmowała ciągłą, trwającą około 53 godzin procedurę histologiczną (Annese i in., 2014).
 
 **Powiązane zagadnienia:** amnezja anterogradna · hipokamp · pamięć deklaratywna · pamięć proceduralna
 

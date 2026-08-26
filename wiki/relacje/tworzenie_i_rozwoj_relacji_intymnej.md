@@ -26,7 +26,7 @@ Pary bywają podobne pod względem wieku, wykształcenia, religii i wartości cz
 
 ## Przywiązanie jako system regulacji, nie etykieta osoby
 
-W dorosłej więzi partner może pełnić funkcję bezpiecznej przystani w stresie i bezpiecznej bazy dla eksploracji. Badania samoopisowe opisują przede wszystkim dwa ciągłe wymiary: **lęk przywiązaniowy** (obawy o dostępność i odrzucenie) oraz **unikanie przywiązaniowe** (dyskomfort wobec zależności i bliskości). Natężenie może różnić się między relacjami i zmieniać wraz z doświadczeniem.
+W dorosłej więzi partner może pełnić funkcję bezpiecznej przystani w [stresie](../psychologia_zdrowia/stres.md) i bezpiecznej bazy dla eksploracji. Badania samoopisowe opisują przede wszystkim dwa ciągłe wymiary: **lęk przywiązaniowy** (obawy o dostępność i odrzucenie) oraz **unikanie przywiązaniowe** (dyskomfort wobec zależności i bliskości). Natężenie może różnić się między relacjami i zmieniać wraz z doświadczeniem.
 
 Popularne „style przywiązania” są skrótami opisującymi układ wyników, a nie sztywnymi typami partnerów, diagnozami ani usprawiedliwieniem krzywdzenia. Kwestionariusz grupowy nie mówi sam w sobie, dlaczego konkretna osoba nie odpisała, czy związek przetrwa ani z kim należy się związać. Do rozumienia sytuacji potrzebne są zachowanie, kontekst, historia relacji i perspektywa obu osób.
 

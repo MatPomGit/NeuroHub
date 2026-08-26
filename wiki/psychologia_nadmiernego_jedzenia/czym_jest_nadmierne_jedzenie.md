@@ -5,7 +5,7 @@
 - **Nadmierne jedzenie** opisuje zachowanie, a nie rozpoznanie: ilość pokarmu jest większa, niż dana osoba w tych okolicznościach potrzebuje lub zamierza zjeść. Pojedynczy taki epizod nie oznacza zaburzenia psychicznego.
 - Klinicznie ważniejsza od samej ilości bywa **utrata kontroli**, czyli subiektywne poczucie, że nie można przestać jeść ani decydować, co lub ile się je. Może wystąpić zarówno przy obiektywnie dużej, jak i zwyczajnej ilości pokarmu.
 - **Zaburzenie z napadami objadania się** (ang. *binge-eating disorder*, BED) i bulimia psychiczna są odrębnymi zaburzeniami odżywiania. Nie rozpoznaje się ich na podstawie wyglądu ani masy ciała.
-- Zachowanie może być podtrzymywane przez niedojadanie, stres, uczenie nagradzające, dostępność jedzenia, nawyki, wstyd oraz sztywną ocenę ciała. Nie jest miarą charakteru ani „silnej woli”.
+- Zachowanie może być podtrzymywane przez niedojadanie, [stres](../psychologia_zdrowia/stres.md), uczenie nagradzające, dostępność jedzenia, nawyki, wstyd oraz sztywną ocenę ciała. Nie jest miarą charakteru ani „silnej woli”.
 - Leczeniem pierwszego wyboru w BED są ukierunkowane interwencje psychologiczne, zwłaszcza samopomoc kierowana i terapia poznawczo-behawioralna. Leki wymagają kwalifikacji lekarskiej i nie powinny być jedyną formą leczenia.
 
 Jeżeli występują omdlenia, ból w klatce piersiowej, krwawienie z przewodu pokarmowego, ciężkie odwodnienie, zaburzenia świadomości, myśli samobójcze albo częste wymioty czy używanie środków przeczyszczających, potrzebna jest pilna ocena medyczna.
@@ -49,7 +49,7 @@ Pokarm może działać jako nagroda na co najmniej dwóch poziomach: przyjemnoś
 
 ### Czy istnieje „uzależnienie od jedzenia”?
 
-„Uzależnienie od jedzenia” nie jest rozpoznaniem w DSM-5-TR ani ICD-11. Badania z użyciem Yale Food Addiction Scale wykazują u części osób cechy podobne do uzależnień, na przykład silne pragnienie i kontynuowanie zachowania mimo szkód. Nie ustalono jednak, czy przedmiotem zależności jest określona substancja w żywności, wzorzec jedzenia, czy nakładanie się BED i innych trudności. Jedzenie, w przeciwieństwie do substancji psychoaktywnych, jest konieczne do życia, a progi ekspozycji i swoisty zespół odstawienny nie zostały uzgodnione.
+„[Uzależnienie](../uzaleznienia/mechanizmy_i_diagnoza_uzaleznien.md) od jedzenia” nie jest rozpoznaniem w DSM-5-TR ani ICD-11. Badania z użyciem Yale Food Addiction Scale wykazują u części osób cechy podobne do uzależnień, na przykład silne pragnienie i kontynuowanie zachowania mimo szkód. Nie ustalono jednak, czy przedmiotem zależności jest określona substancja w żywności, wzorzec jedzenia, czy nakładanie się BED i innych trudności. Jedzenie, w przeciwieństwie do substancji psychoaktywnych, jest konieczne do życia, a progi ekspozycji i swoisty zespół odstawienny nie zostały uzgodnione.
 
 Jakość dowodów jest **niska do umiarkowanej**: istnieją powtarzalne korelacje i częściowo wspólne mechanizmy nagrody, lecz dominują badania przekrojowe, wyniki zależą od przyjętej miary, a swoistość konstruktu jest sporna. Termin może opisywać doświadczenie osoby, ale przedstawianie go jako ustalonej diagnozy lub uzasadnienia restrykcji wykracza poza dowody.
 
@@ -92,7 +92,7 @@ Rozpoznanie stawia lekarz lub uprawniony specjalista zdrowia psychicznego na pod
 - opis reprezentatywnych epizodów, ilość, czas, utratę kontroli, cierpienie i przebieg w czasie;
 - wszystkie zachowania kompensacyjne oraz okresy restrykcji, także te, których osoba nie uważa za ważne;
 - wzorzec jedzenia nocnego, sen, używanie substancji, leki oraz choroby mogące wpływać na apetyt;
-- objawy depresji, lęku, traumy, ADHD, zaburzeń obsesyjno-kompulsyjnych, choroby afektywnej dwubiegunowej i ryzyko samobójcze;
+- objawy depresji, lęku, [traumy](../psychopatologia/trauma_ptsd.md), ADHD, zaburzeń obsesyjno-kompulsyjnych, choroby afektywnej dwubiegunowej i ryzyko samobójcze;
 - stan somatyczny odpowiednio do objawów: parametry życiowe, nawodnienie i wskazane badania, bez uzależniania dostępu do pomocy od BMI;
 - wpływ obrazu ciała, sytuacji rodzinnej, bezpieczeństwa żywnościowego i stygmatyzacji.
 
@@ -100,7 +100,7 @@ Standaryzowany wywiad, na przykład Eating Disorder Examination, zwiększa spój
 
 ## Interwencje poznawczo-behawioralne
 
-Wytyczne NICE zalecają dorosłym z BED najpierw ukierunkowaną samopomoc kierowaną, a przy braku wystarczającego efektu grupową lub indywidualną CBT-ED. APA zaleca u dorosłych psychoterapię skoncentrowaną na zaburzeniu, przede wszystkim CBT lub terapię interpersonalną. Dobór uwzględnia wiek, nasilenie, preferencje, dostępność i współwystępujące trudności.
+Wytyczne NICE zalecają dorosłym z BED najpierw ukierunkowaną samopomoc kierowaną, a przy braku wystarczającego efektu grupową lub indywidualną CBT-ED. APA zaleca u dorosłych [psychoterapię](../psychoterapia/psychoterapia_wprowadzenie.md) skoncentrowaną na zaburzeniu, przede wszystkim CBT lub terapię interpersonalną. Dobór uwzględnia wiek, nasilenie, preferencje, dostępność i współwystępujące trudności.
 
 Typowa praca poznawczo-behawioralna obejmuje:
 

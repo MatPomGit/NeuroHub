@@ -13,7 +13,7 @@ Muzykolog i dyrygent, u którego wirusowe zapalenie mózgu doprowadziło do jedn
 
 ## Wprowadzenie
 
-Clive Wearing po przebytym opryszczkowym zapaleniu mózgu utracił zdolność trwałego zapisywania nowych wspomnień oraz znaczną część pamięci autobiograficznej sprzed choroby. Jego przypadek jest klasycznym materiałem do nauczania neuropsychologii pamięci.
+Clive Wearing po przebytym opryszczkowym zapaleniu mózgu utracił zdolność trwałego zapisywania nowych wspomnień oraz znaczną część pamięci autobiograficznej sprzed choroby. Jego przypadek jest klasycznym materiałem do nauczania [neuropsychologii](../neuropsychologia/diagnoza_i_rehabilitacja_neuropsychologiczna.md) pamięci.
 
 ## Definicje
 

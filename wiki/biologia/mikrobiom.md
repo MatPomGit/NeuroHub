@@ -21,7 +21,7 @@ Ludzki jelitowy układ nerwowy zawiera w przybliżeniu **200–600 mln neuronów
 - **Odporność:** produkty drobnoustrojów wpływają na barierę jelitową i komórki immunologiczne. Związek z procesami w mózgu zależy od dawki, miejsca i stanu gospodarza.
 - **Metabolity:** krótkołańcuchowe kwasy tłuszczowe powstają podczas fermentacji błonnika i działają lokalnie oraz ogólnoustrojowo. Wyników z hodowli komórkowych i gryzoni nie można bezpośrednio przeliczać na efekt psychologiczny u człowieka.
 - **Tryptofan i serotonina:** większość serotoniny obwodowej powstaje w przewodzie pokarmowym, głównie w komórkach enterochromafinowych. Serotonina ta nie przekracza swobodnie bariery krew–mózg, więc liczba „około 90%” nie oznacza, że jelita dostarczają mózgowi 90% serotoniny (Yano et al., 2015).
-- **Oś podwzgórze–przysadka–nadnercza:** stres zmienia fizjologię jelit, a sygnały trzewne mogą modyfikować odpowiedź stresową. Szczegóły regulacji [hormonalnej](hormony.md) opisano osobno.
+- **Oś podwzgórze–przysadka–nadnercza:** [stres](../psychologia_zdrowia/stres.md) zmienia fizjologię jelit, a sygnały trzewne mogą modyfikować odpowiedź stresową. Szczegóły regulacji [hormonalnej](hormony.md) opisano osobno.
 
 ## Co rzeczywiście wynika z badań?
 
@@ -31,7 +31,7 @@ U ludzi wiele badań ma charakter przekrojowy. Dieta, leki, wiek, geografia, kon
 
 ## Interwencje i efekty kliniczne
 
-Metaanalizy prób probiotyków w depresji wskazują możliwe zmniejszenie objawów, zwłaszcza jako uzupełnienie leczenia, ale badania są małe i heterogeniczne pod względem szczepu, dawki, czasu oraz ryzyka błędu systematycznego. Nie pozwala to traktować „psychobiotyku” jako zamiennika psychoterapii lub farmakoterapii ani przenosić wyniku jednego szczepu na wszystkie probiotyki (Nikolova et al., 2021).
+Metaanalizy prób probiotyków w depresji wskazują możliwe zmniejszenie objawów, zwłaszcza jako uzupełnienie leczenia, ale badania są małe i heterogeniczne pod względem szczepu, dawki, czasu oraz ryzyka błędu systematycznego. Nie pozwala to traktować „psychobiotyku” jako zamiennika [psychoterapii](../psychoterapia/psychoterapia_wprowadzenie.md) lub farmakoterapii ani przenosić wyniku jednego szczepu na wszystkie probiotyki (Nikolova et al., 2021).
 
 W badaniu SMILES 67 osób z depresją przydzielono do wsparcia dietetycznego albo kontroli społecznej na 12 tygodni. Remisję według MADRS uzyskało 32,3% wobec 8,0%, co odpowiadało NNT 4,2 w tej małej próbie (Jacka et al., 2017). Badanie dotyczyło całej interwencji dietetycznej, a nie dowodziło, że efekt pośredniczyła mikrobiota. Wynik wymaga interpretacji wraz z brakiem zaślepienia i szerokimi przedziałami niepewności.
 

@@ -53,7 +53,7 @@ Emocjonalne odcięcie może zmniejszyć bieżące napięcie, lecz nie zawsze roz
 
 **Genogram** porządkuje dane co najmniej kilku pokoleń: związki, dzieci, ważne straty, migracje, choroby, zasoby oraz jakość relacji. Pomaga zauważyć powtarzalne konfiguracje i momenty przejścia, ale nie dowodzi przyczynowości. Powtórzenie zdarzeń może wynikać z przypadku, wspólnych warunków społecznych, uczenia się, podatności genetycznej lub wielu mechanizmów naraz.
 
-Genogram tworzy się wspólnie, zaznaczając niepewność danych i pytając także o odporność, opiekę i zerwanie szkodliwego wzorca. Informacje o osobach nieobecnych pozostają relacją rozmówcy, nie ich diagnozą. Hipotez o „dziedziczonej traumie” nie należy sprowadzać do prostego przekazywania zmian epigenetycznych: badania ludzi nie pozwalają łatwo oddzielić wpływu biologicznego od wychowania i wspólnego środowiska.
+Genogram tworzy się wspólnie, zaznaczając niepewność danych i pytając także o odporność, opiekę i zerwanie szkodliwego wzorca. Informacje o osobach nieobecnych pozostają relacją rozmówcy, nie ich diagnozą. Hipotez o „dziedziczonej [traumie](../psychopatologia/trauma_ptsd.md)” nie należy sprowadzać do prostego przekazywania zmian epigenetycznych: badania ludzi nie pozwalają łatwo oddzielić wpływu biologicznego od wychowania i wspólnego środowiska.
 
 ### Lojalności, sprawiedliwość i role
 

@@ -46,7 +46,7 @@ Psychoneuroimmunologia bada dwukierunkową komunikację układu nerwowego, hormo
 
 W stanie zapalnym cytokiny mogą współtworzyć tak zwane zachowanie chorobowe: zmęczenie, mniejszy apetyt, wycofanie i zmianę snu. Z kolei stresory laboratoryjne i przewlekłe obciążenia wiążą się ze zmianami wybranych wskaźników odporności. Wielkość i znaczenie kliniczne efektu zależą jednak od rodzaju stresora, wieku, snu, leków, chorób współistniejących oraz metody pomiaru (Segerstrom i Miller, 2004).
 
-Z korelacji między stresem, nastrojem i markerem zapalnym nie wynika, że określona myśl lub emocja bezpośrednio wywołuje dowolną chorobę. Markery immunologiczne są zmienne, a wiele badań obserwacyjnych nie rozstrzyga kierunku przyczynowości. Psychoneuroimmunologia dostarcza hipotez o określonych szlakach, nie naukowego uzasadnienia dla obwiniania chorych za ich stan psychiczny.
+Z korelacji między [stresem](stres.md), nastrojem i markerem zapalnym nie wynika, że określona myśl lub emocja bezpośrednio wywołuje dowolną chorobę. Markery immunologiczne są zmienne, a wiele badań obserwacyjnych nie rozstrzyga kierunku przyczynowości. Psychoneuroimmunologia dostarcza hipotez o określonych szlakach, nie naukowego uzasadnienia dla obwiniania chorych za ich stan psychiczny.
 
 ## Choroba przewlekła jako test modeli
 

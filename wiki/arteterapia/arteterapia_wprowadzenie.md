@@ -36,7 +36,7 @@ Rekreacyjna aktywność artystyczna nie jest „gorszą arteterapią”. Ma inny
 2. **Technika pomocnicza** jest elementem innego leczenia. Psychoterapeuta może użyć kolażu do sformułowania celów albo odgrywania roli w terapii poznawczo-behawioralnej, o ile ma kompetencje do bezpiecznego zastosowania techniki. Nie staje się przez to arteterapeutą lub dramaterapeutą.
 3. **Rehabilitacja, aktywizacja i rekreacja** służą odzyskiwaniu funkcji, uczestnictwu społecznemu lub dobrostanowi. Zajęcia może prowadzić artysta, pedagog albo terapeuta zajęciowy zgodnie ze swoim zakresem praktyki. Nie należy obiecywać leczenia objawów, jeśli program nie ma klinicznego protokołu i wykwalifikowanej kadry.
 
-Granice zawodów zależą od prawa państwa. W Wielkiej Brytanii tytuły *art therapist*, *music therapist* i *dramatherapist* są chronione, a praktycy podlegają rejestracji HCPC. Amerykańskie AATA/ATCB, AMTA/CBMT i ADTA oraz europejskie organizacje zawodowe określają odrębne ścieżki edukacji i praktyki. W Polsce ukończenie kursu artystycznego lub używanie sztuki w edukacji nie daje automatycznie kompetencji do psychoterapii, diagnozy ani leczenia. Przed rozpoczęciem pracy warto sprawdzić wykształcenie bazowe, szkolenie w modalności, praktykę kliniczną, superwizję, ubezpieczenie i zasady odpowiedzialności zawodowej.
+Granice zawodów zależą od prawa państwa. W Wielkiej Brytanii tytuły *art therapist*, *music therapist* i *dramatherapist* są chronione, a praktycy podlegają rejestracji HCPC. Amerykańskie AATA/ATCB, AMTA/CBMT i ADTA oraz europejskie organizacje zawodowe określają odrębne ścieżki edukacji i praktyki. W Polsce ukończenie kursu artystycznego lub używanie sztuki w edukacji nie daje automatycznie kompetencji do [psychoterapii](../psychoterapia/psychoterapia_wprowadzenie.md), diagnozy ani leczenia. Przed rozpoczęciem pracy warto sprawdzić wykształcenie bazowe, szkolenie w modalności, praktykę kliniczną, superwizję, ubezpieczenie i zasady odpowiedzialności zawodowej.
 
 ## Jak mogą działać interwencje wykorzystujące sztukę
 
@@ -52,7 +52,7 @@ Rytm, powtarzalny gest, przewidywalna forma i ukierunkowanie uwagi mogą zmienia
 
 ### Ekspozycja i uczenie korekcyjne
 
-Obrazowanie zdarzenia, odegranie sceny albo praca z tekstem może służyć stopniowanemu kontaktowi z unikanym bodźcem oraz uczeniu nowej reakcji. Ekspozycja wymaga jednak konceptualizacji, zgody, kontroli intensywności i planu radzenia sobie; samo przywołanie trudnego materiału może utrwalić unikanie albo zwiększyć pobudzenie. W leczeniu traumy technika artystyczna nie zastępuje protokołu o potwierdzonej skuteczności tylko dlatego, że jest mniej werbalna.
+Obrazowanie zdarzenia, odegranie sceny albo praca z tekstem może służyć stopniowanemu kontaktowi z unikanym bodźcem oraz uczeniu nowej reakcji. Ekspozycja wymaga jednak konceptualizacji, zgody, kontroli intensywności i planu radzenia sobie; samo przywołanie trudnego materiału może utrwalić unikanie albo zwiększyć pobudzenie. W leczeniu [traumy](../psychopatologia/trauma_ptsd.md) technika artystyczna nie zastępuje protokołu o potwierdzonej skuteczności tylko dlatego, że jest mniej werbalna.
 
 ### Mentalizacja i przyjmowanie perspektywy
 

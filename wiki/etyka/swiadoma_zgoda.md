@@ -29,7 +29,7 @@ W praktyce warto odróżnić zdolność do podjęcia decyzji, ocenianą funkcjon
 
 **Ciągły proces uzgadniania** obejmuje rozmowę przed rozpoczęciem usługi oraz ponawianie ustaleń, gdy zmieniają się cel, metoda, ryzyko, sposób kontaktu, zasady poufności lub sytuacja klienta. Psycholog zwraca uwagę również na ambiwalencję i niewerbalne oznaki wycofania. Przy nowej, istotnej interwencji nie zakłada automatycznie, że początkowa zgoda obejmowała każdy późniejszy krok.
 
-Oba elementy się uzupełniają: dokumentacja zwiększa przejrzystość, a rozmowa umożliwia pytania, sprawdzenie zrozumienia i rzeczywiste negocjowanie zakresu współpracy. Zgoda ogólna na psychoterapię nie zastępuje osobnego uzgodnienia szczególnie wrażliwych działań, takich jak dotyk, nagrywanie sesji, udział osób trzecich lub przekazanie informacji poza zwykły zakres poufności.
+Oba elementy się uzupełniają: dokumentacja zwiększa przejrzystość, a rozmowa umożliwia pytania, sprawdzenie zrozumienia i rzeczywiste negocjowanie zakresu współpracy. Zgoda ogólna na [psychoterapię](../psychoterapia/psychoterapia_wprowadzenie.md) nie zastępuje osobnego uzgodnienia szczególnie wrażliwych działań, takich jak dotyk, nagrywanie sesji, udział osób trzecich lub przekazanie informacji poza zwykły zakres poufności.
 
 ## Zastosowanie w różnych usługach
 

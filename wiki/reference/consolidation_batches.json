@@ -1,0 +1,112 @@
+[
+  {
+    "id": "01_emocje_eksperyment",
+    "directories": ["emocje", "eksperyment_psychologiczny"],
+    "canonical_articles": [
+      "wiki/emocje/emocje_wprowadzenie.md",
+      "wiki/emocje/motywacja.md",
+      "wiki/emocje/regulacja.md",
+      "wiki/emocje/teorie_emocji.md",
+      "wiki/emocje/wspolczucie.md",
+      "wiki/eksperyment_psychologiczny/analiza_raportowanie_i_replikacja.md",
+      "wiki/eksperyment_psychologiczny/protokol_i_pilotaz.md",
+      "wiki/eksperyment_psychologiczny/prowadzenie_badania_i_jakosc_danych.md",
+      "wiki/eksperyment_psychologiczny/wprowadzenie.md"
+    ],
+    "allowed_standalone": []
+  },
+  {
+    "id": "02_biologia",
+    "directories": ["biologia"],
+    "canonical_articles": [
+      "wiki/biologia/biologiczne_podstawy.md",
+      "wiki/biologia/chronobiologia.md",
+      "wiki/biologia/chronopsychologia.md",
+      "wiki/biologia/epigenetyka.md",
+      "wiki/biologia/ewolucja.md",
+      "wiki/biologia/genetyka_beh.md",
+      "wiki/biologia/hormony.md",
+      "wiki/biologia/mikrobiom.md",
+      "wiki/biologia/psychofizjologia.md",
+      "wiki/biologia/transmisja_genetyczna_zaburzen_psychicznych.md"
+    ],
+    "allowed_standalone": []
+  },
+  {
+    "id": "03_syntezy_specjalistyczne",
+    "directories": ["psychologia_ai", "psychologia_gier", "geropsychologia", "kulturowa"],
+    "canonical_articles": [
+      "wiki/psychologia_ai/ai_w_zdrowiu_psychicznym_i_opiece.md",
+      "wiki/psychologia_ai/mechanizmy_ograniczenia_i_etyka_ai.md",
+      "wiki/psychologia_ai/psychologia_interakcji_czlowiek_ai.md",
+      "wiki/psychologia_gier/skutki_grania_i_uzywanie_problemowe.md",
+      "wiki/psychologia_gier/wprowadzenie.md",
+      "wiki/psychologia_gier/zastosowania_gier_i_esport.md",
+      "wiki/geropsychologia/pomoc_psychologiczna_i_opieka_w_starosci.md",
+      "wiki/geropsychologia/poznanie_i_zdrowie_psychiczne_w_starosci.md",
+      "wiki/geropsychologia/wprowadzenie.md",
+      "wiki/kulturowa/akulturacja_relacje_i_zdrowie.md",
+      "wiki/kulturowa/kultura_a_procesy_psychiczne.md",
+      "wiki/kulturowa/wprowadzenie.md"
+    ],
+    "allowed_standalone": [
+      "wiki/psychologia_gier/gender_w_grach.md",
+      "wiki/psychologia_gier/klasyfikacja_gier.md"
+    ]
+  },
+  {
+    "id": "04_psychofarmakologia",
+    "directories": ["psychofarmakologia", "farmakologia"],
+    "canonical_articles": [
+      "wiki/psychofarmakologia/11_leki_w_terapii_uzaleznien.md",
+      "wiki/psychofarmakologia/bezpieczenstwo_i_personalizacja_farmakoterapii.md",
+      "wiki/psychofarmakologia/farmakoterapia_nastroju_leku_i_stresu.md",
+      "wiki/psychofarmakologia/farmakoterapia_neurorozwojowa_i_objawowa.md",
+      "wiki/psychofarmakologia/farmakoterapia_psychoz_i_zaburzen_neurokognitywnych.md",
+      "wiki/psychofarmakologia/klasy_lekow_psychotropowych.md",
+      "wiki/psychofarmakologia/podstawy_psychofarmakologii.md"
+    ],
+    "allowed_standalone": [
+      "wiki/psychofarmakologia/spis_tresci.md",
+      "wiki/farmakologia/ketamina.md",
+      "wiki/farmakologia/neurofarmakologia.md",
+      "wiki/farmakologia/neurofarmakologia_behawioralna.md",
+      "wiki/farmakologia/psychodeliki.md"
+    ]
+  },
+  {
+    "id": "05_dzialy_uzytkowe",
+    "directories": ["podstawy_pomocy", "dla_studentow", "ekrany_ksiazki_i_natura"],
+    "canonical_articles": [
+      "wiki/podstawy_pomocy/aktywne_sluchanie.md",
+      "wiki/podstawy_pomocy/etyka_pomocy.md",
+      "wiki/podstawy_pomocy/facylitacja.md",
+      "wiki/podstawy_pomocy/granice_w_pomocy.md",
+      "wiki/podstawy_pomocy/komunikacja_wspierajaca.md",
+      "wiki/podstawy_pomocy/kryzys_psychologiczny.md",
+      "wiki/podstawy_pomocy/modele_pomocy.md",
+      "wiki/podstawy_pomocy/pierwsza_pomoc_psychologiczna.md",
+      "wiki/podstawy_pomocy/relacja_pomocowa.md",
+      "wiki/podstawy_pomocy/samoopieka_pomagajacego.md",
+      "wiki/podstawy_pomocy/wprowadzenie.md",
+      "wiki/podstawy_pomocy/wsparcie_spoleczne.md",
+      "wiki/dla_studentow/etyka_studenta.md",
+      "wiki/dla_studentow/psycholog_w_it.md",
+      "wiki/dla_studentow/sciezki_kariery.md",
+      "wiki/dla_studentow/wybor_specjalnosci.md",
+      "wiki/dla_studentow/wystapienia_publiczne_autoprezentacja.md",
+      "wiki/ekrany_ksiazki_i_natura/czytanie_i_psychologia.md",
+      "wiki/ekrany_ksiazki_i_natura/ekrany_i_funkcjonowanie_psychiczne.md",
+      "wiki/ekrany_ksiazki_i_natura/kontakt_z_natura_i_zdrowie_psychiczne.md",
+      "wiki/ekrany_ksiazki_i_natura/wprowadzenie.md"
+    ],
+    "allowed_standalone": []
+  },
+  {
+    "id": "06_audyt_przekrojowy",
+    "directories": [],
+    "canonical_articles": [],
+    "allowed_standalone": [],
+    "cross_wiki": true
+  }
+]

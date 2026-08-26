@@ -24,17 +24,17 @@ Kompetencje wystąpień publicznych są kluczowe dla psychologów: w psychoeduka
 
 ## Analiza
 
-### 1. Krzywa pobudzenia i jakość występu
+### 1. Pobudzenie i jakość występu
 
-Umiarkowane pobudzenie poprawia koncentrację i energię przekazu, lecz nadmierny [stres](../psychologia_zdrowia/stres.md) obniża pamięć roboczą i płynność mówienia. Celem treningu nie jest „brak stresu”, ale regulacja pobudzenia do poziomu funkcjonalnego.
+[Lęk związany z wystąpieniem](../psychologia_zdrowia/stres.md) może obejmować reakcje fizjologiczne, poznawcze i behawioralne, a jego natężenie zmienia się przed wystąpieniem, w jego trakcie i po nim (Bodie, 2010). Zależność między pobudzeniem a jakością wykonania nie ma jednej, uniwersalnej krzywej dla wszystkich osób i zadań. Celem treningu nie jest zatem „brak stresu”, lecz rozpoznawanie własnej reakcji i utrzymanie zdolności do realizacji zadania.
 
 ### 2. Struktura poznawcza wystąpienia
 
-Wystąpienia oceniane jako klarowne mają zwykle prosty szkielet: teza → argumenty → przykład → wniosek. Taka organizacja redukuje przeciążenie poznawcze odbiorcy i wzmacnia zapamiętywanie treści.
+Prosty szkielet, na przykład teza → argumenty → przykład → wniosek, ułatwia odbiorcy rozpoznanie hierarchii informacji. Zgodnie z teorią obciążenia poznawczego sposób prezentowania materiału może zwiększać albo ograniczać obciążenie niezwiązane bezpośrednio z uczeniem się; nie oznacza to jednak, że jeden układ prezentacji będzie optymalny dla każdej treści i grupy (Sweller et al., 2011; van Merriënboer & Sweller, 2005).
 
 ### 3. Efekt autentyczności
 
-Badania nad wiarygodnością mówcy wskazują, że odbiorcy lepiej reagują na prelegenta, który łączy kompetencję z autentycznością. Nadmiernie „wytrenowana”, sztuczna ekspresja obniża zaufanie.
+Autoprezentacja obejmuje zarówno motywację do wywarcia określonego wrażenia, jak i dobór sposobu jego konstruowania (Leary & Kowalski, 1990). Z tego modelu nie wynika prosta zasada, że spontaniczność zawsze buduje większe zaufanie niż przygotowanie. Wiarygodność zależy również od kompetencji, zgodności komunikatu z dowodami i oczekiwań odbiorców.
 
 ### 4. Sztuczny obraz siebie a autentyczna profesjonalność
 
@@ -43,7 +43,7 @@ W autoprezentacji warto odróżnić dwie strategie:
 - **Strategia „maski” (sztuczny obraz siebie)** - mówca buduje personę idealną: zawsze pewną, bezbłędną, emocjonalnie „wypolerowaną”
 - **Strategia „autentycznej profesjonalności”** - mówca pokazuje realny styl myślenia, granice wiedzy i sposób dochodzenia do wniosków, przy zachowaniu standardu zawodowego
 
-Pierwsza strategia bywa skuteczna krótkoterminowo (silne pierwsze wrażenie), ale kosztowna psychologicznie: zwiększa samomonitorowanie, lęk przed „zdemaskowaniem” i sztywność reakcji na pytania. Druga strategia częściej buduje trwałe zaufanie, bo odbiorcy widzą nie tylko „wynik”, lecz także proces rozumowania i etykę pracy.
+Strategia „maski” może zwiększać samomonitorowanie i wymagać podtrzymywania pożądanego obrazu siebie. Autentyczna profesjonalność nie gwarantuje natomiast zaufania: jest tu zaleceniem etycznym, polegającym na zachowaniu zgodności między deklaracjami, dowodami i granicami własnej wiedzy, a nie techniką o uniwersalnie potwierdzonej skuteczności (Leary & Kowalski, 1990; Schlenker, 1980).
 
 ## Jak przygotować się psychologicznie do wystąpienia? (konkretne wskazówki)
 
@@ -63,7 +63,7 @@ Pierwsza strategia bywa skuteczna krótkoterminowo (silne pierwsze wrażenie), a
   - „Jeśli padnie trudne pytanie, to najpierw parafrazuję pytanie, potem oddzielam dane od hipotezy”.
 - Zdefiniuj minimalne kryterium sukcesu (np. „odbiorcy rozumieją 3 kluczowe wnioski”), zamiast kryterium perfekcjonistycznego („muszę wypaść bezbłędnie”).
 
-**Dlaczego działa:** mózg traktuje plan „jeśli–to” jak gotową ścieżkę działania, co zmniejsza chaos decyzyjny pod stresem.
+**Dlaczego może pomagać:** plany „jeśli–to”, nazywane intencjami implementacyjnymi, łączą rozpoznawalną sytuację z wcześniej wybraną reakcją. Metaanaliza 94 niezależnych badań wykazała średni do dużego wpływ takich planów na osiąganie celów (*d* = 0,65; Gollwitzer & Sheeran, 2006). Wynik dotyczy wielu rodzajów celów, nie tylko wystąpień publicznych, dlatego nie jest gwarancją poprawy konkretnej prezentacji.
 
 ### 3. Trening ekspozycyjny: stopniowanie trudności
 
@@ -201,11 +201,16 @@ Wystąpienia publiczne to umiejętność oparta na psychologii uwagi, pamięci i
 
 ## Bibliografia
 
-1. Schlenker, B. R. (1980). *Impression Management: The Self-Concept, Social Identity, and Interpersonal Relations*. Brooks/Cole.
-2. Leary, M. R., & Kowalski, R. M. (1990). Impression management: A literature review and two-component model. *Psychological Bulletin, 107*(1), 34–47.
-3. Ayres, J., Hopf, T., & Peterson, E. (2000). A test of communication apprehension in performance studies. *Communication Research Reports, 17*(4), 343–350.
-4. Sweller, J. (2011). Cognitive load theory. *Psychology of Learning and Motivation, 55*, 37–76.
-5. Gallo, C. (2014). *Talk like TED*. St. Martin’s Press.
-6. Leary, M. R., & Kowalski, R. M. (1995). *Social anxiety*. Guilford Press.
-7. Sweller, J., Ayres, P., & Kalyuga, S. (2011). *Cognitive load theory*. Springer. [https://doi.org/10.1007/978-1-4419-8126-4](https://doi.org/10.1007/978-1-4419-8126-4)
-8. van Merriënboer, J. J. G., & Sweller, J. (2005). Cognitive load theory and complex learning: Recent developments and future directions. *Educational Psychology Review, 17*, 147–177. [https://doi.org/10.1007/s10648-005-3951-0](https://doi.org/10.1007/s10648-005-3951-0)
+Bodie, G. D. (2010). A racing heart, rattling knees, and ruminative thoughts: Defining, explaining, and treating public speaking anxiety. *Communication Education, 59*(1), 70–105. [https://doi.org/10.1080/03634520903443849](https://doi.org/10.1080/03634520903443849)
+
+Gollwitzer, P. M., & Sheeran, P. (2006). Implementation intentions and goal achievement: A meta-analysis of effects and processes. *Advances in Experimental Social Psychology, 38*, 69–119. [https://doi.org/10.1016/S0065-2601(06)38002-1](https://doi.org/10.1016/S0065-2601(06)38002-1)
+
+Leary, M. R., & Kowalski, R. M. (1990). Impression management: A literature review and two-component model. *Psychological Bulletin, 107*(1), 34–47. [https://doi.org/10.1037/0033-2909.107.1.34](https://doi.org/10.1037/0033-2909.107.1.34)
+
+Leary, M. R., & Kowalski, R. M. (1995). *Social anxiety*. Guilford Press.
+
+Schlenker, B. R. (1980). *Impression management: The self-concept, social identity, and interpersonal relations*. Brooks/Cole.
+
+Sweller, J., Ayres, P., & Kalyuga, S. (2011). *Cognitive load theory*. Springer. [https://doi.org/10.1007/978-1-4419-8126-4](https://doi.org/10.1007/978-1-4419-8126-4)
+
+van Merriënboer, J. J. G., & Sweller, J. (2005). Cognitive load theory and complex learning: Recent developments and future directions. *Educational Psychology Review, 17*(2), 147–177. [https://doi.org/10.1007/s10648-005-3951-0](https://doi.org/10.1007/s10648-005-3951-0)

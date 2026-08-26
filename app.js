@@ -575,52 +575,36 @@ function updateEmptyIndicators() {
 /* Wspólna dla strony głównej i panelu bocznego mapa obszarów wiedzy. */
 const SIDEBAR_TOPIC_GROUPS = [
   {
-    id: 'podstawy-metodologia',
-    label: 'Podstawy i metodologia',
-    colorClass: 'topic-fundamenty',
+    id: 'fundamenty', label: 'Fundamenty', colorClass: 'topic-fundamenty',
     sections: ['Wprowadzenie', 'Filozofia', 'Eksperyment psychologiczny']
   },
   {
-    id: 'procesy',
-    label: 'Procesy psychiczne',
-    colorClass: 'topic-procesy',
-    sections: ['Funkcje poznawcze', 'Emocje i motywacje', 'Temperament', 'Różnice indywidualne', 'Psychologia pozytywna', 'Odporność psychiczna', 'Reagowanie na krytykę']
+    id: 'procesy-psychiczne', label: 'Procesy psychiczne', colorClass: 'topic-procesy',
+    sections: ['Funkcje poznawcze', 'Emocje i motywacje', 'Temperament', 'Różnice indywidualne', 'Psychologia społeczna', 'Psychologia pozytywna', 'Odporność psychiczna', 'Reagowanie na krytykę']
   },
   {
-    id: 'rozwoj-relacje-spoleczenstwo',
-    label: 'Rozwój, relacje i społeczeństwo',
-    colorClass: 'topic-rozwoj',
-    sections: ['Psychologia rozwojowa', 'Psychologia społeczna', 'Psychologia kulturowa', 'Psychologia religii', 'Relacje i związki', 'Systemy rodzinne', 'Psychologia szkolna i edukacyjna', 'Psychologia osób z niepełnosprawnością', 'Psychologia osób w podeszłym wieku']
+    id: 'rozwoj-edukacja', label: 'Rozwój i edukacja', colorClass: 'topic-rozwoj',
+    sections: ['Psychologia rozwojowa', 'Psychologia szkolna i edukacyjna', 'Relacje i związki', 'Systemy rodzinne', 'Psychologia kulturowa', 'Psychologia religii']
   },
   {
-    id: 'biologia-neuronauka',
-    label: 'Biologia i neuronauka',
-    colorClass: 'topic-neuro',
+    id: 'klinika-pomoc', label: 'Klinika i pomoc', colorClass: 'topic-klinika',
+    sections: ['Psychopatologia', 'Zaburzenia kliniczne', 'Diagnoza psychologiczna', 'Psychometria', 'Testy psychologiczne', 'Przypadki kliniczne', 'Psychologia kliniczna dzieci i młodzieży', 'Psychosomatyka', 'Suicydologia', 'Podstawy pomocy psychologicznej', 'Psychoterapia', 'E-terapia', 'Porozumiewanie się bez przemocy (NVC)', 'Doświadczenie somatyczne (Somatic Experiencing)']
+  },
+  {
+    id: 'mozg-biologia', label: 'Mózg i biologia', colorClass: 'topic-neuro',
     sections: ['Biologiczne podstawy zachowania', 'Neurobiologia', 'Farmakologia', 'Neuroróżnorodność']
   },
   {
-    id: 'diagnoza-klinika',
-    label: 'Diagnoza i psychologia kliniczna',
-    colorClass: 'topic-klinika',
-    sections: ['Psychopatologia', 'Zaburzenia kliniczne', 'Diagnoza psychologiczna', 'Psychometria', 'Testy psychologiczne', 'Przypadki kliniczne', 'Psychologia kliniczna dzieci i młodzieży', 'Psychosomatyka', 'Suicydologia']
+    id: 'specjalizacje', label: 'Specjalizacje', colorClass: 'topic-specjalizacje',
+    sections: ['Psychologia zdrowia', 'Psychologia uzależnień', 'Psychologia nadmiernego jedzenia', 'Seksuologia', 'Psychologia sądowa i opiniowanie', 'Resocjalizacja', 'Instytucje pomocy dziecku i rodzinie', 'Psychologia osób z niepełnosprawnością', 'Psychologia osób w podeszłym wieku', 'Arteterapia', 'Animaloterapia']
   },
   {
-    id: 'pomoc-terapia',
-    label: 'Pomoc i oddziaływania terapeutyczne',
-    colorClass: 'topic-specjalizacje',
-    sections: ['Podstawy pomocy psychologicznej', 'Psychoterapia', 'E-terapia', 'Porozumiewanie się bez przemocy (NVC)', 'Arteterapia', 'Animaloterapia', 'Doświadczenie somatyczne (Somatic Experiencing)']
+    id: 'technologia', label: 'Technologia', colorClass: 'topic-technologia',
+    sections: ['Ekrany, książki i natura', 'Psychologia gier wideo', 'Psychologia sztucznej inteligencji', 'Psychologia technologii i dobrostan cyfrowy']
   },
   {
-    id: 'obszary-zastosowan',
-    label: 'Obszary zastosowań psychologii',
-    colorClass: 'topic-technologia',
-    sections: ['Psychologia zdrowia', 'Psychologia uzależnień', 'Psychologia nadmiernego jedzenia', 'Seksuologia', 'Psychologia sądowa i opiniowanie', 'Resocjalizacja', 'Instytucje pomocy dziecku i rodzinie', 'Psychologia technologii i dobrostan cyfrowy', 'Psychologia sztucznej inteligencji', 'Psychologia gier wideo', 'Ekrany, książki i natura']
-  },
-  {
-    id: 'nauka-zasoby',
-    label: 'Nauka i zasoby',
-    colorClass: 'topic-zasoby',
-    sections: ['Dla studentów', 'Seminarium dyplomowe', 'Etyka zawodowa', 'Encyklopedie', 'Referencje']
+    id: 'zasoby', label: 'Zasoby', colorClass: 'topic-zasoby',
+    sections: ['Dla studentów', 'Seminarium dyplomowe', 'Etyka zawodowa', 'Referencje']
   }
 ];
 

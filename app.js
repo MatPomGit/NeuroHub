@@ -1807,8 +1807,8 @@ function renderHome() {
     },
     {
       title: 'Przejrzyj Wiki',
-      id: 'wstep_do_psychologii/definicja',
-      goal: 'Poznaj zakres psychologii i jej podstawowe pojęcia.',
+      id: 'psychologia_poznawcza/percepcja',
+      goal: 'Przejdź do kanonicznego opracowania percepcji i uwagi.',
       benefit: 'Skrócisz czas szukania potrzebnej informacji.'
     }
   ];

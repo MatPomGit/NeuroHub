@@ -1,39 +1,21 @@
 #!/usr/bin/env python3
-import re
-from pathlib import Path
+"""Kontrola przypisania publicznych sekcji nawigacji do kategorii."""
+from check_config import load_site_config
 
-REPO_ROOT = Path(__file__).resolve().parent.parent
+config = load_site_config()
+errors = []
+sections = config.get("nav", [])
+for index, section in enumerate(sections):
+    if not isinstance(section, dict):
+        errors.append(f"nav[{index}]: sekcja nie jest obiektem")
+        continue
+    if not section.get("domainKey"):
+        errors.append(f"nav[{index}] ({section.get('section', 'bez nazwy')}): brak kategorii domainKey")
+    if not isinstance(section.get("items"), list) or not section["items"]:
+        errors.append(f"nav[{index}] ({section.get('section', 'bez nazwy')}): brak pozycji")
 
-with (REPO_ROOT / 'site-config.js').open('r', encoding='utf-8') as f:
-    config_content = f.read()
-
-# Szukaj sekcji 'resocjalizacja' i 'systemy_rodzinne'
-if 'resocjalizacja' in config_content.lower():
-    print('✓ Sekcja resocjalizacja znaleziona w nav')
-    
-if 'systemy_rodzinne' in config_content.lower():
-    print('✓ Sekcja systemy_rodzinne znaleziona w nav')
-
-# Przeszukaj pliki do tych sekcji
-resocjalizacja_files = []
-systemy_files = []
-
-for match in re.finditer(r"id:\s*['\"]([^'\"]*resocjalizacja[^'\"]*)['\"]", config_content):
-    resocjalizacja_files.append(match.group(1))
-    
-for match in re.finditer(r"id:\s*['\"]([^'\"]*systemy_rodzinne[^'\"]*)['\"]", config_content):
-    systemy_files.append(match.group(1))
-
-print(f'Artykuły resocjalizacji w konfigu: {len(resocjalizacja_files)}')
-print(f'Artykuły systemów rodzinnych w konfigu: {len(systemy_files)}')
-
-# Szukaj psychofarmakologii w nav - czy jest w nav ale nie w zmiennej plans?
-print('\nSzukanie psychofarmakologii w konfigu...')
-pharmaco_count = config_content.lower().count('psychofarmakologia')
-print(f'Wzmianki psychofarmakologii: {pharmaco_count}')
-
-# Szukaj czy są wpisy dla psychofarmakologi w nav
-if 'psychofarmakologia' in config_content:
-    print('✓ Psychofarmakologia jest w site-config.js')
-else:
-    print('✗ Psychofarmakologia nie jest w site-config.js')
+print(f"Sekcje publiczne: {len(sections)}")
+print(f"Sekcje bez kategorii: {sum('domainKey' in error for error in errors)}")
+for error in errors:
+    print(f"[ERROR] {error}")
+raise SystemExit(1 if errors else 0)

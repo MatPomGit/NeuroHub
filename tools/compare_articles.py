@@ -1,63 +1,30 @@
 #!/usr/bin/env python3
-import re
-import os
+"""Porównuje kanoniczne pliki wiki z publiczną nawigacją."""
 from pathlib import Path
+from check_config import ROOT, load_site_config, markdown_metadata, rel
 
-REPO_ROOT = Path(__file__).resolve().parent.parent
-
-# Wczytaj site-config.js
-with (REPO_ROOT / 'site-config.js').open('r', encoding='utf-8') as f:
-    config_content = f.read()
-
-# Wyszukaj wszystkie wpisy file: w konfigu
-referenced_files = set()
-for match in re.finditer(r"file:\s*['\"]([^'\"]+)['\"]", config_content):
-    file_path = match.group(1)
-    referenced_files.add(file_path)
-
-print(f'Artykuły wymienione w site-config.js: {len(referenced_files)}')
-
-# Wygeneruj listę artykułów z wiki
-wiki_articles = set()
-for root, dirs, files in os.walk(REPO_ROOT / 'wiki'):
-    for file in files:
-        if file.endswith('.md'):
-            path = os.path.join(root, file)
-            relative_path = Path(path).relative_to(REPO_ROOT).as_posix()
-            wiki_articles.add(relative_path)
-
-print(f'Artykuły w wiki: {len(wiki_articles)}')
-print()
-
-# Znajdź artykuły nie wymienione w konfigu
-missing = []
-for article in sorted(wiki_articles):
-    if article not in referenced_files:
-        missing.append(article)
-
-print(f'Artykuły nie wymienione w konfigu: {len(missing)}')
-print()
-print('Lista artykułów do kategoryzacji:')
-print('-' * 100)
-for article in sorted(missing):
-    parts = article.split('/')
-    folder = parts[1]
-    filename = parts[-1].replace('.md', '')
-    print(f'Ścieżka: {article:<60} | Temat: {filename:<40} | Folder: {folder}')
-
-print()
-print('-' * 100)
-print(f'Razem brakujących artykułów: {len(missing)}')
-
-# Poszukaj sekcji "remaining" lub "pozostale" w konfigu
-print()
-print('Szukanie sekcji "remaining" lub "pozostale" w site-config.js...')
-if 'remaining' in config_content.lower() or 'pozostale' in config_content.lower():
-    print('✓ Znaleziono sekcję o nazwie "remaining" lub "pozostale"')
-    # Wyznacz pozycję
-    if 'remaining' in config_content.lower():
-        pos = config_content.lower().find('remaining')
-        snippet = config_content[max(0, pos-200):min(len(config_content), pos+500)]
-        print(f'\nSnippet:\n{snippet}')
-else:
-    print('✗ Sekcja "remaining" lub "pozostale" nie znaleziona')
+config = load_site_config()
+nav_entries = [item for section in config.get("nav", []) if isinstance(section, dict)
+               for item in section.get("items", []) if isinstance(item, dict) and item.get("file")]
+nav_files = [str(item["file"]) for item in nav_entries]
+canonical = []
+internal = []
+redirects = []
+for article in sorted((ROOT / "wiki").rglob("*.md")):
+    metadata = markdown_metadata(article)
+    if metadata.get("layout") == "redirect" or "redirect_to" in metadata:
+        redirects.append(rel(article))
+    elif metadata.get("public_navigation", "").lower() == "false":
+        internal.append(rel(article))
+    else:
+        canonical.append(rel(article))
+missing = sorted(set(canonical) - set(nav_files))
+unknown = sorted(set(nav_files) - set(canonical))
+duplicates = sorted({path for path in nav_files if nav_files.count(path) > 1})
+print(f"Artykuły kanoniczne publiczne: {len(canonical)}")
+print(f"Materiały wewnętrzne: {len(internal)}")
+print(f"Przekierowania historyczne: {len(redirects)}")
+for label, values in (("brak w nawigacji", missing), ("niekanoniczny wpis nawigacji", unknown), ("duplikat", duplicates)):
+    for value in values:
+        print(f"[ERROR] {label}: {value}")
+raise SystemExit(1 if missing or unknown or duplicates else 0)

@@ -1267,6 +1267,7 @@ window.SITE_CONFIG = {
       section: 'Ekrany, książki i natura',
       domainKey: 'ekrany_ksiazki_i_natura',
       items: [
+        { id: 'ekrany_ksiazki_i_natura/wprowadzenie', label: 'Wprowadzenie: ekrany, książki i natura', file: 'wiki/ekrany_ksiazki_i_natura/wprowadzenie.md' },
         { id: 'ekrany_ksiazki_i_natura/ekrany_i_funkcjonowanie_psychiczne', label: 'Ekrany i funkcjonowanie psychiczne', file: 'wiki/ekrany_ksiazki_i_natura/ekrany_i_funkcjonowanie_psychiczne.md' },
         { id: 'ekrany_ksiazki_i_natura/czytanie_i_psychologia', label: 'Czytanie i psychologia', file: 'wiki/ekrany_ksiazki_i_natura/czytanie_i_psychologia.md' },
         { id: 'ekrany_ksiazki_i_natura/kontakt_z_natura_i_zdrowie_psychiczne', label: 'Kontakt z naturą i zdrowie psychiczne', file: 'wiki/ekrany_ksiazki_i_natura/kontakt_z_natura_i_zdrowie_psychiczne.md' },
@@ -1279,6 +1280,8 @@ window.SITE_CONFIG = {
         { id: 'psychologia_gier/wprowadzenie', label: 'Motywacja i doświadczenie gracza', file: 'wiki/psychologia_gier/wprowadzenie.md' },
         { id: 'psychologia_gier/skutki_grania_i_uzywanie_problemowe', label: 'Skutki grania i używanie problemowe', file: 'wiki/psychologia_gier/skutki_grania_i_uzywanie_problemowe.md' },
         { id: 'psychologia_gier/zastosowania_gier_i_esport', label: 'Zastosowania gier i esport', file: 'wiki/psychologia_gier/zastosowania_gier_i_esport.md' },
+        { id: 'psychologia_gier/klasyfikacja_gier', label: 'Klasyfikacja i ocena gier', file: 'wiki/psychologia_gier/klasyfikacja_gier.md' },
+        { id: 'psychologia_gier/gender_w_grach', label: 'Płeć i tożsamość w grach', file: 'wiki/psychologia_gier/gender_w_grach.md' },
       ]
     },
     { /* Psychologia sztucznej inteligencji */
@@ -1816,7 +1819,6 @@ window.SITE_CONFIG = {
         {
           title: 'Rehabilitacja neuropsychologiczna',
           articles: [
-            { label: 'Rehabilitacja neuropsychologiczna', id: 'neuropsychologia/diagnoza_i_rehabilitacja_neuropsychologiczna', status: 'live', desc: 'Metody, modele i praktyka rehabilitacji po uszkodzeniach mózgu.' },
           ]
         },
         {
@@ -1872,7 +1874,6 @@ window.SITE_CONFIG = {
           articles: [
             { label: 'Podstawy, epidemiologia i modele', id: 'suicydologia/suicydologia_wprowadzenie', status: 'live' },
             { label: 'Uwarunkowania i czynniki ryzyka', id: 'suicydologia/uwarunkowania_i_czynniki_ryzyka_samobojczego', status: 'live' },
-            { label: 'Ocena i interwencja w kryzysie', id: 'suicydologia/ocena_i_interwencja_w_kryzysie_samobojczym', status: 'live' },
             { label: 'Profilaktyka, media i postwencja', id: 'suicydologia/profilaktyka', status: 'live' },
             { label: 'Samouszkodzenia bez intencji samobójczej (NSSI)', id: 'suicydologia/nssi', status: 'live' },
           ]
@@ -1931,34 +1932,24 @@ window.SITE_CONFIG = {
           title: 'Podstawy',
           articles: [
             { label: 'Czym jest psychologia kulturowa?', id: 'kulturowa/wprowadzenie', status: 'live' },
-            { label: 'Metody: emic vs. etic', id: 'kulturowa/metody', status: 'live' },
-            { label: 'Wymiar indywidualizm kolektywizm', id: 'kulturowa/indywidualizm_kolektywizm', status: 'live' },
           ]
         },
         {
           title: 'Kultura, a procesy psychiczne',
           articles: [
-            { label: 'Kultura, a percepcja i uwaga', id: 'kulturowa/kultura_percepcja', status: 'live' },
+            { label: 'Kultura, a percepcja i uwaga', id: 'kulturowa/kultura_a_procesy_psychiczne', status: 'live' },
             { label: 'Kultura, a emocje', id: 'emocje/teorie_emocji', status: 'xlink' },
-            { label: 'Kulturowe modele Ja', id: 'kulturowa/kulturowe_modele_ja', status: 'live' },
-            { label: 'Kultura, a zdrowie psychiczne', id: 'kulturowa/kultura_zdrowie', status: 'live' },
+            { label: 'Kultura, a zdrowie psychiczne', id: 'kulturowa/akulturacja_relacje_i_zdrowie', status: 'live' },
           ]
         },
         {
           title: 'Kultura i tozsamosc',
           articles: [
-            { label: 'Kultura, a emocje',                  id: 'kulturowa/kultura_emocje',     status: 'live' },
-            { label: 'Akulturacja i adaptacja kulturowa', id: 'kulturowa/akulturacja',         status: 'live' },
-            { label: 'Kultura, a jezyk (Sapir-Whorf)',     id: 'kulturowa/kultura_jezyk',       status: 'live' },
-            { label: 'Kultura, a osobowosc',               id: 'kulturowa/kultura_osobowosc',   status: 'live' },
-            { label: 'Psychologia Wschodu i Zachodu',     id: 'kulturowa/wschodnia_zachodnia', status: 'live' },
-            { label: 'Kultura, a relacje interpersonalne', id: 'kulturowa/kultura_relacje',     status: 'live' },
           ]
         },
         {
           title: 'Emocje i motywacja',
           articles: [
-            { label: 'Teorie i neurobiologia emocji', id: 'emocje/teorie_emocji', status: 'live' },
             { label: 'Regulacja emocji, stres i aleksytymia', id: 'emocje/regulacja', status: 'live' },
             { label: 'Motywacja i emocje pozytywne', id: 'emocje/motywacja', status: 'live' },
             { label: 'Emocje społeczne, empatia i współczucie', id: 'emocje/wspolczucie', status: 'live' },
@@ -2060,7 +2051,6 @@ window.SITE_CONFIG = {
         {
           title: 'Psychometria',
           articles: [
-            { label: 'Podstawy pomiaru psychologicznego', id: 'psychometria/psychometria_wprowadzenie', status: 'live' },
             { label: 'Modele psychometryczne i struktura testu', id: 'psychometria/modele_psychometryczne_i_struktura_testu', status: 'live' },
             { label: 'Narzędzia przesiewowe i kliniczne', id: 'psychometria/narzedzia_kliniczne', status: 'live' },
             { label: 'Narzędzia diagnozy neurorozwojowej', id: 'psychometria/narzedzia_diagnozy_neurorozwojowej', status: 'live' },
@@ -2255,14 +2245,13 @@ window.SITE_CONFIG = {
         {
           title: 'Funkcjonowanie psychiczne',
           articles: [
-            { label: 'Jakość życia',                          id: 'psychologia_zdrowia/jakosc_zycia',                  status: 'live' },
+            { label: 'Jakość życia',                          id: 'psychologia_zdrowia/choroby_przewlekle',                  status: 'live' },
             { label: 'Adaptacja, rodzina i wsparcie', id: 'psychologia_niepelnosprawnosci/adaptacja_rodzina_i_wsparcie', status: 'live' },
           ]
         },
         {
           title: 'Srodowisko i wsparcie',
           articles: [
-            { label: 'Rehabilitacja psychologiczna', id: 'psychologia_zdrowia/choroby_przewlekle', status: 'xlink' },
           ]
         },
       ]
@@ -2445,27 +2434,17 @@ window.SITE_CONFIG = {
           title: 'Podstawy i rola bieglego',
           articles: [
             { label: 'Biegly psycholog',                 id: 'psychologia_sadowa/wprowadzenie',   status: 'live' },
-            { label: 'Rola i status bieglego',           id: 'psychologia_sadowa/rola_bieglego',  status: 'live' },
-            { label: 'Podstawy prawne opiniowania',      id: 'psychologia_sadowa/podstawy_prawne', status: 'live' },
-            { label: 'Metodologia sporzadzania opinii',  id: 'psychologia_sadowa/metodologia_opinii', status: 'live' },
           ]
         },
         {
           title: 'Ocena i opiniowanie',
           articles: [
-            { label: 'Ocena wiarygodnosci zeznal',         id: 'psychologia_sadowa/ocena_wiarygodnosci',    status: 'live' },
-            { label: 'Opiniowanie w sprawach karnych',     id: 'psychologia_sadowa/opinia_karna',           status: 'live' },
-            { label: 'Opiniowanie w sprawach cywilnych',   id: 'psychologia_sadowa/opinia_cywilna',         status: 'live' },
-            { label: 'Opiniowanie w sprawach rodzinnych',  id: 'psychologia_sadowa/opinia_rodzinna',        status: 'live' },
-            { label: 'Opiniowanie nieletnich i dzieci',    id: 'psychologia_sadowa/opiniowanie_nieletnich', status: 'live' },
+            { label: 'Ocena wiarygodnosci zeznal',         id: 'psychologia_sadowa/zastosowania_opiniowania_sadowego',    status: 'live' },
           ]
         },
         {
           title: 'Narzedzia i etyka',
           articles: [
-            { label: 'Narzedzia diagnostyczne (sadowe)',  id: 'psychologia_sadowa/narzedzia_diagnostyczne', status: 'live' },
-            { label: 'Etyka opiniowania sadowego',        id: 'psychologia_sadowa/etyka_opiniowania',       status: 'live' },
-            { label: 'Biegly, a sad - komunikacja',       id: 'psychologia_sadowa/biegly_a_sad',            status: 'live' },
           ]
         },
       ]

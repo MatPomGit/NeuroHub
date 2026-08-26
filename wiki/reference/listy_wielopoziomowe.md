@@ -1,4 +1,8 @@
-﻿# Referencja parsera: listy wielopoziomowe
+---
+public_navigation: false
+---
+
+# Referencja parsera: listy wielopoziomowe
 
 ## Kontekst testu
 Ten artykuł‚ referencyjny zawiera przypadki graniczne dla parsera Markdown w PsyHub. Celem jest sprawdzenie, czy zagnieżdżone listy numerowane i nienumerowane renderują sie stabilnie.

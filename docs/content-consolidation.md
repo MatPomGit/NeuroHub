@@ -472,3 +472,11 @@ Ponownie porównano wszystkie 680 wpisów `articleRedirects` z drzewem `wiki/` i
 Pozostałych 35 wpisów ma postać `wiki-index/*`. Są to dawne identyfikatory widoków katalogowych aplikacji, a nie dawne pliki `wiki/**/*.md`, dlatego nie utworzono dla nich pozornych artykułów. Kierują bezpośrednio do istniejących opracowań wprowadzających. W całym rejestrze nie występuje przekierowanie do innego dawnego identyfikatora, zatem nie powstają łańcuchy przekierowań.
 
 **Decyzja o treści i źródłach:** zachowano zakresy tematyczne i bibliografie opisane w tabeli audytu oraz we wcześniejszych wpisach rejestru. Ponieważ w dawnych plikach nie pozostała treść artykułowa, nie dodawano wtórnie pozycji bibliograficznych ani nie modyfikowano artykułów kanonicznych bez podstawy merytorycznej.
+
+## Ostateczny bilans nawigacji kanonicznej (26 sierpnia 2026 r.)
+
+Po migracji odnośników i uruchomieniu pełnej walidacji repozytorium zawiera **269 plików kanonicznych** oraz **645 minimalnych przekierowań historycznych**. Z puli kanonicznej **258 artykułów jest publicznych** i każdy z nich ma dokładnie jedną pozycję w głównej nawigacji. Pozostałych **11 plików kanonicznych** to materiały redakcyjne i testowe w `wiki/reference/`, oznaczone `public_navigation: false`; nie mają osobnych pozycji publicznych.
+
+Publiczna nawigacja składa się z **54 sekcji przypisanych do kategorii** (`domainKey`). Poza 258 artykułami zawiera trzy moduły użytkowe, które nie są artykułami Markdown: test wiedzy, test specjalizacyjny i codzienną ciekawostkę psychologiczną. Dawne identyfikatory nie są już używane przez pozycje nawigacji, plany domen, indeksy Wiki ani scenariusze startowe. Mapa `articleRedirects` i odpowiadające jej pliki pozostają wyłącznie warstwą zgodności dla zewnętrznych zakładek oraz historycznych adresów.
+
+Walidacja potwierdziła brak zduplikowanych identyfikatorów w głównej nawigacji, brak brakujących plików, brak publicznych pozycji prowadzących do przekierowań lub materiałów prywatnych, brak kanonicznych artykułów pominiętych w nawigacji, a także poprawność wszystkich celów i kotwic przekierowań. Linki w `wiki/**/*.md` prowadzą bezpośrednio do artykułów kanonicznych; liczba linków przechodzących przez plik przekierowania wynosi **0**.

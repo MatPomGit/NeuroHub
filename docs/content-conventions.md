@@ -64,12 +64,11 @@ Plik przekierowania nie jest artykułem i nie powinien zawierać kopii treści.
 
 ### Kanoniczny format przekierowania
 
-Jedynym dopuszczalnym formatem pliku przekierowania jest pełny front matter:
+Jedynym dopuszczalnym formatem pliku przekierowania jest minimalny front matter:
 
 ```yaml
 ---
 layout: redirect
-title: Dawny tytuł artykułu
 redirect_to: /wiki/dziedzina/artykul_kanoniczny.html#opcjonalna-kotwica
 sitemap: false
 ---
@@ -77,7 +76,7 @@ sitemap: false
 
 Pole `redirect:` nie jest obsługiwane przez generator i pozostawało formatem
 przejściowym. Nie należy go stosować. Generator `_plugins/wiki_pages_generator.rb`
-wczytuje cały front matter i przekazuje `layout`, `title`, `redirect_to` oraz
+wczytuje cały front matter i przekazuje `layout`, `redirect_to` oraz
 `sitemap` do Jekylla. Layout `_layouts/redirect.html` wykonuje przekierowanie na
 wartość `redirect_to` za pomocą odświeżenia HTML i JavaScriptu, a ponadto tworzy
 odnośnik kanoniczny i odnośnik awaryjny.
@@ -99,6 +98,13 @@ format, istnienie celu, ścieżkę HTML, kotwicę, zgodność z mapą SPA, cykle
 przekierowania wieloetapowe. Raport podaje liczbę artykułów kanonicznych,
 przekierowań, przekierowań osieroconych, nieistniejących celów oraz łańcuchów
 dłuższych niż jeden krok.
+
+`python3 tools/check_config.py` uzupełnia tę kontrolę o spójność publicznego
+spisu: wykrywa zduplikowane identyfikatory, brakujące pliki, sekcje bez
+`domainKey`, pliki przekierowań i materiały z `public_navigation: false` dodane
+do nawigacji, a także kanoniczne artykuły, których w nawigacji zabrakło.
+Materiały techniczne należy oznaczać `public_navigation: false`; nie wolno dla
+nich tworzyć osobnej pozycji publicznej.
 
 ## Zalecany wzorzec, nie obowiązkowy szablon
 

@@ -863,8 +863,8 @@ window.SITE_CONFIG = {
       domainKey: 'psychologia_pozytywna',
       items: [
         { id: 'psychologia_pozytywna/szczescie_dobrostan', label: 'Dobrostan psychiczny', file: 'wiki/psychologia_pozytywna/szczescie_dobrostan.md' },
-        { id: 'psychologia_pozytywna/interwencje_pozytywne', label: 'Interwencje psychologii pozytywnej', file: 'wiki/psychologia_pozytywna/interwencje_pozytywne.md' },
         { id: 'psychologia_pozytywna/uwaznosc_przeplyw_i_samowspolczucie', label: 'Uważność, przepływ i samowspółczucie', file: 'wiki/psychologia_pozytywna/uwaznosc_przeplyw_i_samowspolczucie.md' },
+        { id: 'psychologia_pozytywna/interwencje_pozytywne', label: 'Interwencje psychologii pozytywnej', file: 'wiki/psychologia_pozytywna/interwencje_pozytywne.md' },
       ]
     },
     { /* Odpornosc psychiczna i mobbing */
@@ -936,10 +936,10 @@ window.SITE_CONFIG = {
       section: 'Psychologia religii',
       domainKey: 'psychologia_religii',
       items: [
+        { id: 'psychologia_religii/metodologia_badan', label: 'Metodologia badań nad religią i moralnością', file: 'wiki/psychologia_religii/metodologia_badan.md' },
         { id: 'psychologia_religii/religijnosc_i_duchowosc', label: 'Religijność, duchowość i rozwój', file: 'wiki/psychologia_religii/religijnosc_i_duchowosc.md' },
         { id: 'psychologia_religii/religia_a_zdrowie_psychiczne', label: 'Religia, zdrowie psychiczne i radzenie sobie', file: 'wiki/psychologia_religii/religia_a_zdrowie_psychiczne.md' },
         { id: 'psychologia_religii/doswiadczenia_religijne_w_praktyce_klinicznej', label: 'Doświadczenia religijne w praktyce klinicznej', file: 'wiki/psychologia_religii/doswiadczenia_religijne_w_praktyce_klinicznej.md' },
-        { id: 'psychologia_religii/metodologia_badan', label: 'Metodologia badań nad religią i moralnością', file: 'wiki/psychologia_religii/metodologia_badan.md' },
         ]
     },
     { /* Psychopatologia */
@@ -1139,17 +1139,17 @@ window.SITE_CONFIG = {
       section: 'Farmakologia',
       domainKey: 'farmakologia',
       items: [
+        { id: 'psychofarmakologia/podstawy_psychofarmakologii', label: 'Podstawy psychofarmakologii', file: 'wiki/psychofarmakologia/podstawy_psychofarmakologii.md' },
         { id: 'farmakologia/neurofarmakologia',           label: 'Neurofarmakologia',                file: 'wiki/farmakologia/neurofarmakologia.md'           },
         { id: 'farmakologia/neurofarmakologia_behawioralna', label: 'Neurofarmakologia behawioralna', file: 'wiki/farmakologia/neurofarmakologia_behawioralna.md' },
-        { id: 'farmakologia/ketamina',                    label: 'Ketamina w psychiatrii',           file: 'wiki/farmakologia/ketamina.md'                    },
-        { id: 'farmakologia/psychodeliki',                label: 'Psychodeliki w terapii',           file: 'wiki/farmakologia/psychodeliki.md'                },
-          // PSYCHOFARMAKOLOGIA - artykuły kanoniczne
-          { id: 'psychofarmakologia/podstawy_psychofarmakologii', label: 'Podstawy psychofarmakologii', file: 'wiki/psychofarmakologia/podstawy_psychofarmakologii.md' },
-          { id: 'psychofarmakologia/klasy_lekow_psychotropowych', label: 'Główne klasy leków psychotropowych', file: 'wiki/psychofarmakologia/klasy_lekow_psychotropowych.md' },
+        // PSYCHOFARMAKOLOGIA - artykuły kanoniczne
+        { id: 'psychofarmakologia/klasy_lekow_psychotropowych', label: 'Główne klasy leków psychotropowych', file: 'wiki/psychofarmakologia/klasy_lekow_psychotropowych.md' },
           { id: 'psychofarmakologia/farmakoterapia_nastroju_leku_i_stresu', label: 'Farmakoterapia nastroju, lęku i stresu', file: 'wiki/psychofarmakologia/farmakoterapia_nastroju_leku_i_stresu.md' },
           { id: 'psychofarmakologia/farmakoterapia_psychoz_i_zaburzen_neurokognitywnych', label: 'Farmakoterapia psychoz i zaburzeń neurokognitywnych', file: 'wiki/psychofarmakologia/farmakoterapia_psychoz_i_zaburzen_neurokognitywnych.md' },
           { id: 'psychofarmakologia/farmakoterapia_neurorozwojowa_i_objawowa', label: 'Farmakoterapia neurorozwojowa i objawowa', file: 'wiki/psychofarmakologia/farmakoterapia_neurorozwojowa_i_objawowa.md' },
           { id: 'psychofarmakologia/11_leki_w_terapii_uzaleznien', label: 'Farmakoterapia uzależnień', file: 'wiki/psychofarmakologia/11_leki_w_terapii_uzaleznien.md' },
+          { id: 'farmakologia/ketamina', label: 'Ketamina w psychiatrii', file: 'wiki/farmakologia/ketamina.md' },
+          { id: 'farmakologia/psychodeliki', label: 'Psychodeliki w terapii', file: 'wiki/farmakologia/psychodeliki.md' },
           { id: 'psychofarmakologia/bezpieczenstwo_i_personalizacja_farmakoterapii', label: 'Bezpieczeństwo i personalizacja farmakoterapii', file: 'wiki/psychofarmakologia/bezpieczenstwo_i_personalizacja_farmakoterapii.md' },
         ]
     },
@@ -1286,8 +1286,8 @@ window.SITE_CONFIG = {
       domainKey: 'psychologia_ai',
       items: [
         { id: 'psychologia_ai/psychologia_interakcji_czlowiek_ai', label: 'Psychologia interakcji człowiek–AI', file: 'wiki/psychologia_ai/psychologia_interakcji_czlowiek_ai.md' },
-        { id: 'psychologia_ai/ai_w_zdrowiu_psychicznym_i_opiece', label: 'AI w zdrowiu psychicznym i opiece', file: 'wiki/psychologia_ai/ai_w_zdrowiu_psychicznym_i_opiece.md' },
         { id: 'psychologia_ai/mechanizmy_ograniczenia_i_etyka_ai', label: 'Mechanizmy, ograniczenia i etyka AI', file: 'wiki/psychologia_ai/mechanizmy_ograniczenia_i_etyka_ai.md' },
+        { id: 'psychologia_ai/ai_w_zdrowiu_psychicznym_i_opiece', label: 'AI w zdrowiu psychicznym i opiece', file: 'wiki/psychologia_ai/ai_w_zdrowiu_psychicznym_i_opiece.md' },
         { id: 'robotyka_afektywna/interfejsy_mozg_maszyna', label: 'Interfejsy mózg–maszyna (neurotechnologia)', file: 'wiki/robotyka_afektywna/interfejsy_mozg_maszyna.md' },
       ]
     },

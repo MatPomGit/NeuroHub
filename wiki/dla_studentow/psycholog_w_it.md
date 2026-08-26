@@ -14,7 +14,7 @@ evidenceCutoffDate: 2026-04-30
 **Główne pytanie artykułu brzmi: w jakich rolach psycholog może tworzyć wartość w IT, jakich kompetencji potrzebuje i jak może udokumentować je przy wejściu do branży?**
 
 
-Rynek technologiczny od kilku lat wyraźnie przesuwa rolę psychologa z obszaru wyłącznie HR w stronę pracy produktowej, badawczej i systemowej. Psycholog jest dziś potrzebny tam, gdzie zespół musi rozumieć zachowanie użytkownika, ograniczać błędy decyzyjne i projektować rozwiązania bezpieczne poznawczo. W praktyce oznacza to udział w UX Research, service design, people analytics, badaniach nad zaufaniem do AI oraz projektowaniu procesów pracy zespołowej.
+Kompetencje psychologiczne znajdują zastosowanie nie tylko w HR, lecz także w pracy produktowej, badawczej i systemowej. Psycholog może wspierać zespół tam, gdzie trzeba rozumieć zachowanie użytkownika, ograniczać błędy decyzyjne i projektować rozwiązania uwzględniające możliwości poznawcze człowieka. W praktyce obejmuje to między innymi UX Research, service design, people analytics, badania nad zaufaniem do AI oraz projektowanie procesów pracy zespołowej (Lazar et al., 2017; Shneiderman, 2022).
 
 ## Definicje
 
@@ -97,12 +97,23 @@ Zalecenia dotyczące przejrzystego raportowania, testowania użyteczności i och
 - Czy usunięto dane poufne i uzyskano potrzebne zgody?
 - Czy kandydat potrafi powiedzieć, czego projekt **nie** wykazał?
 
-## Statystyki i dane, które warto znać
+## Wyniki badań i dane, które warto znać
 
-1. **Koszt błędów użyteczności rośnie wraz z etapem wdrożenia.** W praktyce inżynierskiej stosuje się heurystykę „1:10:100”: naprawa błędu po wdrożeniu bywa wielokrotnie droższa niż na etapie projektowym.
-2. **5 użytkowników testowych zwykle wykrywa dużą część problemów UX.** Model Nielsena i Landauera pokazał, że małe, iteracyjne testy potrafią ujawnić większość najważniejszych defektów użyteczności.
-3. **Wypalenie zawodowe jest opisane w ICD-11 jako zjawisko zawodowe.** Z perspektywy organizacyjnej oznacza to, że długotrwałe przeciążenie poznawcze i emocjonalne należy traktować jako mierzalne ryzyko procesowe.
-4. **Wysokowydajne zespoły technologiczne korzystają z krótkich pętli feedbacku.** Badania DORA i prace nad modelem Accelerate wskazują, że częstsze, mniejsze wdrożenia wiążą się z lepszą niezawodnością i mniejszym kosztem błędów.
+1. **Liczebność badania użyteczności zależy od celu i częstości problemu.** Model Nielsena i Landauera (1993) opisuje malejący przyrost liczby wykrywanych problemów wraz z każdym kolejnym uczestnikiem. Nie uzasadnia jednak uniwersalnej reguły, że dokładnie pięć osób zawsze ujawni „większość” problemów: wynik zależy między innymi od prawdopodobieństwa wykrycia konkretnego problemu, różnorodności użytkowników i liczby iteracji.
+2. **Wypalenie zawodowe ma w ICD-11 status zjawiska zawodowego, a nie choroby.** Światowa Organizacja Zdrowia wiąże je z przewlekłym stresem w miejscu pracy, z którym nie poradzono sobie skutecznie (World Health Organization, 2019). Nie należy więc traktować pojedynczego wyniku ankiety jako diagnozy klinicznej.
+3. **Praktyki dostarczania oprogramowania trzeba oceniać łącznie.** Badania opisane przez Forsgren et al. (2018) łączą wydajność dostarczania z częstotliwością wdrożeń, czasem realizacji zmiany, czasem przywrócenia usługi i odsetkiem zmian powodujących awarię. Są to miary procesu technicznego, a nie bezpośrednie wskaźniki dobrostanu pracowników.
+
+### Model wykrywania problemów użyteczności
+
+![Wykres trzech krzywych modelu wykrywania problemów użyteczności, pokazujący malejący przyrost wykrytych problemów wraz z każdym kolejnym uczestnikiem](/assets/images/psycholog_w_it/model_wykrywania_problemow.svg)
+
+*Wykres 1. Teoretyczny skumulowany odsetek wykrytych problemów, obliczony ze wzoru L(n) = 1 - (1 - p)ⁿ dla trzech przykładowych wartości prawdopodobieństwa p, że jeden uczestnik ujawni dany problem. Krzywe ilustrują własność modelu, a nie wyniki konkretnego badania ani zalecaną liczebność próby. Opracowanie własne na podstawie: Nielsen i Landauer (1993).*
+
+### Miary tempa i stabilności dostarczania
+
+![Schemat czterech miar dostarczania oprogramowania, podzielonych na tempo dostarczania i stabilność usługi](/assets/images/psycholog_w_it/metryki_dostarczania.svg)
+
+*Wykres 2. Cztery uzupełniające się miary wydajności dostarczania oprogramowania. Schemat nie przedstawia wartości liczbowych ani norm; porządkuje wskaźniki, które należy interpretować łącznie. Opracowanie własne na podstawie: Forsgren et al. (2018).*
 
 > **Wniosek praktyczny:** psycholog w IT powinien monitorować nie tylko satysfakcję zespołu, ale też metryki procesu (czas cyklu, liczba poprawek, obciążenie poznawcze, jakość komunikacji).
 
@@ -149,13 +160,22 @@ Dominująca narracja mówi, że psycholog w IT „zmiękcza” komunikację i db
 
 ## Bibliografia
 
-1. Lazar, J., Feng, J. H., & Hochheiser, H. (2017). *Research Methods in Human-Computer Interaction* (2nd ed.). Morgan Kaufmann.
-2. Salas, E., Reyes, D. L., & McDaniel, S. H. (2018). The science of teamwork in organizations. *Annual Review of Organizational Psychology and Organizational Behavior, 5*, 1–36.
-3. Gray, C. M., Kou, Y., Battles, B., Hoggatt, J., & Toombs, A. L. (2018). The dark (patterns) side of UX design. *Proceedings of the CHI Conference on Human Factors in Computing Systems*, 1–14.
-4. Shneiderman, B. (2022). *Human-Centered AI*. Oxford University Press.
-5. OECD. (2019). *OECD Recommendation of the Council on Artificial Intelligence*.
-6. NIST. (2023). *Artificial Intelligence Risk Management Framework (AI RMF 1.0)*.
-7. World Health Organization. (2019). *Burn-out an occupational phenomenon: International Classification of Diseases (ICD-11)*.
-8. Forsgren, N., Humble, J., & Kim, G. (2018). *Accelerate: The Science of Lean Software and DevOps*. IT Revolution.
-9. Nielsen, J., & Landauer, T. K. (1993). A mathematical model of the finding of usability problems. *Proceedings of INTERCHI*.
-10. Nielsen, J. (1994). *Usability engineering*. Morgan Kaufmann.
+Forsgren, N., Humble, J., & Kim, G. (2018). *Accelerate: The science of lean software and DevOps*. IT Revolution.
+
+Gray, C. M., Kou, Y., Battles, B., Hoggatt, J., & Toombs, A. L. (2018). The dark (patterns) side of UX design. In *Proceedings of the 2018 CHI conference on human factors in computing systems* (Paper 534, pp. 1–14). Association for Computing Machinery. [https://doi.org/10.1145/3173574.3174108](https://doi.org/10.1145/3173574.3174108)
+
+Lazar, J., Feng, J. H., & Hochheiser, H. (2017). *Research methods in human-computer interaction* (2nd ed.). Morgan Kaufmann.
+
+National Institute of Standards and Technology. (2023). *Artificial intelligence risk management framework (AI RMF 1.0)* (NIST AI 100-1). U.S. Department of Commerce. [https://doi.org/10.6028/NIST.AI.100-1](https://doi.org/10.6028/NIST.AI.100-1)
+
+Nielsen, J. (1994). *Usability engineering*. Morgan Kaufmann.
+
+Nielsen, J., & Landauer, T. K. (1993). A mathematical model of the finding of usability problems. In *Proceedings of the INTERCHI '93 conference on human factors in computing systems* (pp. 206–213). Association for Computing Machinery. [https://doi.org/10.1145/169059.169166](https://doi.org/10.1145/169059.169166)
+
+Organisation for Economic Co-operation and Development. (2019). *Recommendation of the Council on artificial intelligence* (OECD/LEGAL/0449). https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0449
+
+Salas, E., Reyes, D. L., & McDaniel, S. H. (2018). The science of teamwork: Progress, reflections, and the road ahead. *American Psychologist, 73*(4), 593–600. [https://doi.org/10.1037/amp0000334](https://doi.org/10.1037/amp0000334)
+
+Shneiderman, B. (2022). *Human-centered AI*. Oxford University Press.
+
+World Health Organization. (2019, May 28). *Burn-out an occupational phenomenon: International Classification of Diseases*. https://www.who.int/news/item/28-05-2019-burn-out-an-occupational-phenomenon

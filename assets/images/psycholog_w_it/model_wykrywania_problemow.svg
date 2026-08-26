@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 540" role="img" aria-labelledby="title desc">
+  <title id="title">Model wykrywania problemów użyteczności</title>
+  <desc id="desc">Trzy krzywe pokazują przewidywany skumulowany odsetek wykrytych problemów dla prawdopodobieństwa wykrycia pojedynczego problemu przez jednego uczestnika równego 0,1, 0,2 oraz 0,3. Przyrost maleje wraz z kolejnymi uczestnikami.</desc>
+  <rect width="900" height="540" rx="18" fill="#f8fafc"/>
+  <text x="450" y="42" text-anchor="middle" font-family="system-ui, sans-serif" font-size="24" font-weight="700" fill="#172033">Przewidywany odsetek wykrytych problemów</text>
+  <g stroke="#d9e1ec" stroke-width="1">
+    <path d="M100 450H840M100 370H840M100 290H840M100 210H840M100 130H840M100 50H840"/>
+    <path d="M100 50V450M285 50V450M470 50V450M655 50V450M840 50V450"/>
+  </g>
+  <g stroke="#344054" stroke-width="2"><path d="M100 50V450H840"/></g>
+  <g font-family="system-ui, sans-serif" font-size="15" fill="#475467">
+    <text x="82" y="455" text-anchor="end">0%</text><text x="82" y="375" text-anchor="end">20%</text><text x="82" y="295" text-anchor="end">40%</text><text x="82" y="215" text-anchor="end">60%</text><text x="82" y="135" text-anchor="end">80%</text><text x="82" y="55" text-anchor="end">100%</text>
+    <text x="100" y="476" text-anchor="middle">0</text><text x="285" y="476" text-anchor="middle">5</text><text x="470" y="476" text-anchor="middle">10</text><text x="655" y="476" text-anchor="middle">15</text><text x="840" y="476" text-anchor="middle">20</text>
+    <text x="470" y="515" text-anchor="middle" font-size="17">Liczba uczestników badania (n)</text>
+    <text transform="translate(25 250) rotate(-90)" text-anchor="middle" font-size="17">Skumulowany odsetek problemów</text>
+  </g>
+  <!-- L(n) = 1 - (1-p)^n; n = 0..20 -->
+  <polyline fill="none" stroke="#7f56d9" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" points="100,450 137,410 174,374 211,342 248,312 285,286 322,262 359,241 396,222 433,205 470,189 507,175 544,163 581,151 618,141 655,132 692,124 729,116 766,110 803,104 840,99"/>
+  <polyline fill="none" stroke="#1570ef" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" points="100,450 137,370 174,306 211,255 248,214 285,181 322,155 359,134 396,117 433,104 470,93 507,84 544,77 581,72 618,67 655,64 692,61 729,59 766,57 803,56 840,55"/>
+  <polyline fill="none" stroke="#039855" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" points="100,450 137,330 174,246 211,187 248,146 285,117 322,97 359,83 396,73 433,66 470,61 507,58 544,55 581,54 618,52 655,52 692,51 729,51 766,50 803,50 840,50"/>
+  <g font-family="system-ui, sans-serif" font-size="16" font-weight="700">
+    <rect x="600" y="330" width="208" height="98" rx="10" fill="#ffffff" stroke="#d0d5dd"/>
+    <path d="M620 353h30" stroke="#039855" stroke-width="5"/><text x="662" y="359" fill="#344054">p = 0,30</text>
+    <path d="M620 379h30" stroke="#1570ef" stroke-width="5"/><text x="662" y="385" fill="#344054">p = 0,20</text>
+    <path d="M620 405h30" stroke="#7f56d9" stroke-width="5"/><text x="662" y="411" fill="#344054">p = 0,10</text>
+  </g>
+</svg>

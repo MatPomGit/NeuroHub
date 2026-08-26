@@ -1,6 +1,5 @@
 ---
 layout: redirect
-title: Piecza zastepcza i asysta rodziny
 redirect_to: /wiki/instytucje_wsparcia_dziecka_i_rodziny/system_wsparcia_dziecka_i_rodziny.html#piecza-zastepcza
 sitemap: false
 ---

@@ -1304,8 +1304,8 @@ window.SITE_CONFIG = {
         { id: 'resocjalizacja/podstawy_resocjalizacji', label: 'Resocjalizacja, readaptacja i zaprzestawanie przestępczości', file: 'wiki/resocjalizacja/podstawy_resocjalizacji.md' },
       ]
     },
-    { /* Somatic Experiencing */
-      section: 'Somatic Experiencing',
+    { /* Doświadczenie somatyczne (Somatic Experiencing) */
+      section: 'Doświadczenie somatyczne (Somatic Experiencing)',
       domainKey: 'somatic_experiencing',
       items: [
         { id: 'doswiadczenie_somatyczne/wprowadzenie_do_doswiadczenia_somatycznego', label: 'Somatic Experiencing: założenia, praktyka i stan badań', file: 'wiki/doswiadczenie_somatyczne/wprowadzenie_do_doswiadczenia_somatycznego.md' },

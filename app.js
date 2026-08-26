@@ -586,59 +586,64 @@ function updateEmptyIndicators() {
 }
 
 
-/* Mapa topikow porządkująca sekcje w bardziej czytelną, hierarchiczną nawigacje boczną. */
+/* Wspólna dla strony głównej i panelu bocznego mapa obszarów wiedzy. */
 const SIDEBAR_TOPIC_GROUPS = [
   {
-    id: 'fundamenty',
-    label: 'Fundamenty',
+    id: 'podstawy-metodologia',
+    label: 'Podstawy i metodologia',
     colorClass: 'topic-fundamenty',
-    sections: ['Wprowadzenie', 'Filozofia', 'Dla studentów', 'Seminarium dyplomowe', 'Eksperyment psychologiczny']
+    sections: ['Wprowadzenie', 'Filozofia', 'Eksperyment psychologiczny']
   },
   {
     id: 'procesy',
     label: 'Procesy psychiczne',
     colorClass: 'topic-procesy',
-    sections: ['Funkcje poznawcze', 'Emocje i motywacje', 'Temperament', 'Różnice indywidualne', 'Psychologia pozytywna', 'Odporność psychiczna']
+    sections: ['Funkcje poznawcze', 'Emocje i motywacje', 'Temperament', 'Różnice indywidualne', 'Psychologia pozytywna', 'Odporność psychiczna', 'Reagowanie na krytykę']
   },
   {
-    id: 'rozwoj-spoleczenstwo',
-    label: 'Rozwój i edukacja',
+    id: 'rozwoj-relacje-spoleczenstwo',
+    label: 'Rozwój, relacje i społeczeństwo',
     colorClass: 'topic-rozwoj',
-    sections: ['Psychologia rozwojowa', 'Psychologia społeczna', 'Psychologia kulturowa', 'Psychologia religii', 'Relacje i związki', 'Psychologia szkolna i edukacyjna', 'Psychologia osób z niepełnosprawnością', 'Psychologia osób w podeszłym wieku']
+    sections: ['Psychologia rozwojowa', 'Psychologia społeczna', 'Psychologia kulturowa', 'Psychologia religii', 'Relacje i związki', 'Systemy rodzinne', 'Psychologia szkolna i edukacyjna', 'Psychologia osób z niepełnosprawnością', 'Psychologia osób w podeszłym wieku']
   },
   {
-    id: 'klinika',
-    label: 'Klinika i pomoc',
-    colorClass: 'topic-klinika',
-    sections: ['Psychopatologia', 'Zaburzenia kliniczne', 'Przypadki kliniczne', 'Diagnoza psychologiczna', 'Psychometria', 'Testy psychologiczne', 'Psychoterapia', 'Psychologia zdrowia', 'Psychosomatyka', 'Podstawy pomocy psychologicznej', 'Suicydologia', 'Psychologia kliniczna dzieci i młodzieży', 'Somatic Experiencing', 'Systemy rodzinne']
-  },
-  {
-    id: 'neuro',
-    label: 'Mózg i biologia',
+    id: 'biologia-neuronauka',
+    label: 'Biologia i neuronauka',
     colorClass: 'topic-neuro',
     sections: ['Biologiczne podstawy zachowania', 'Neurobiologia', 'Farmakologia', 'Neuroróżnorodność']
   },
   {
-    id: 'specjalizacje',
-    label: 'Specjalizacje',
+    id: 'diagnoza-klinika',
+    label: 'Diagnoza i psychologia kliniczna',
+    colorClass: 'topic-klinika',
+    sections: ['Psychopatologia', 'Zaburzenia kliniczne', 'Diagnoza psychologiczna', 'Psychometria', 'Testy psychologiczne', 'Przypadki kliniczne', 'Psychologia kliniczna dzieci i młodzieży', 'Psychosomatyka', 'Suicydologia']
+  },
+  {
+    id: 'pomoc-terapia',
+    label: 'Pomoc i oddziaływania terapeutyczne',
     colorClass: 'topic-specjalizacje',
-    sections: ['Psychologia uzależnień', 'Etyka zawodowa', 'Psychologia sądowa i opiniowanie', 'Seksuologia', 'Resocjalizacja', 'Instytucje pomocy dziecku i rodzinie', 'Reagowanie na krytykę', 'Psychologia nadmiernego jedzenia']
+    sections: ['Podstawy pomocy psychologicznej', 'Psychoterapia', 'E-terapia', 'Porozumiewanie się bez przemocy (NVC)', 'Arteterapia', 'Animaloterapia', 'Doświadczenie somatyczne (Somatic Experiencing)']
   },
   {
-    id: 'technologia',
-    label: 'Technologia',
+    id: 'obszary-zastosowan',
+    label: 'Obszary zastosowań psychologii',
     colorClass: 'topic-technologia',
-    sections: ['Psychologia gier wideo', 'Psychologia sztucznej inteligencji', 'Psychologia technologii i dobrostan cyfrowy', 'Robotyka afektywna i kognitywistyka', 'E-terapia', 'Ekrany, książki i natura', 'Porozumiewanie się bez przemocy (NVC)', 'Arteterapia', 'Animaloterapia']
+    sections: ['Psychologia zdrowia', 'Psychologia uzależnień', 'Psychologia nadmiernego jedzenia', 'Seksuologia', 'Psychologia sądowa i opiniowanie', 'Resocjalizacja', 'Instytucje pomocy dziecku i rodzinie', 'Psychologia technologii i dobrostan cyfrowy', 'Psychologia sztucznej inteligencji', 'Psychologia gier wideo', 'Ekrany, książki i natura']
   },
   {
-    id: 'zasoby',
-    label: 'Zasoby',
+    id: 'nauka-zasoby',
+    label: 'Nauka i zasoby',
     colorClass: 'topic-zasoby',
-    sections: ['Encyklopedie', 'Referencje']
+    sections: ['Dla studentów', 'Seminarium dyplomowe', 'Etyka zawodowa', 'Encyklopedie', 'Referencje']
   }
 ];
 
-/* Grupuje sekcje konfiguracji nawigacji do topikow; sekcje nieprzypisane trafiają do grupy Pozostałe. */
+function isDevelopmentEnvironment() {
+  return window.location.protocol === 'file:'
+    || ['localhost', '127.0.0.1', '[::1]'].includes(window.location.hostname);
+}
+
+/* Grupuje sekcje nawigacji; nieprzypisane sekcje pozostają widoczne jako zabezpieczenie. */
 function buildSidebarTopicGroups() {
   const sectionMap = new Map(SITE_CONFIG.nav.map(section => [section.section, section]));
   const consumed = new Set();
@@ -657,6 +662,10 @@ function buildSidebarTopicGroups() {
 
   const leftoverSections = SITE_CONFIG.nav.filter(section => !consumed.has(section.section));
   if (leftoverSections.length > 0) {
+    if (isDevelopmentEnvironment()) {
+      const sectionNames = leftoverSections.map(section => section.section).join(', ');
+      console.warn(`[PsyHub] Nieprzypisane sekcje SITE_CONFIG.nav: ${sectionNames}.`);
+    }
     groups.push({
       id: 'pozostale',
       label: 'Pozostałe',

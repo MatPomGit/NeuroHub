@@ -12,17 +12,22 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Pobranie kodu źródłowego repozytorium do środowiska joba.
       - name: Checkout repository
         uses: actions/checkout@v7
 
-      # Konfiguracja Node.js do uruchomienia narzędzi lint/test.
       - name: Setup Node.js
         uses: actions/setup-node@v7
         with:
           node-version: '20'
 
-      # Uruchamiamy wyłącznie testy i walidacje działające w czystym Node.
+      - name: Setup Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: '3.x'
+
+      - name: Validate site configuration
+        run: python tools/check_config.py
+
       - name: Run Node-only config checks
         run: node tools/run-node-tests.js
 
@@ -32,18 +37,13 @@ jobs:
     needs: config-lint
 
     steps:
-      # Pobranie kodu źródłowego repozytorium do środowiska joba.
       - name: Checkout repository
         uses: actions/checkout@v7
 
-      # Konfiguracja Node.js pod runner jsdom.
       - name: Setup Node.js
         uses: actions/setup-node@v7
         with:
           node-version: '20'
 
-      # Uruchamiamy testy modułów wymagających window/document.
-      # Runner ma wbudowany minimalny adapter DOM, więc nie wymaga pobierania
-      # opcjonalnego jsdom podczas budowania w środowiskach bez dostępu do npm.
       - name: Run browser-only tests in jsdom
         run: node tools/run-ui-tests-jsdom.js

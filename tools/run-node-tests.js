@@ -58,6 +58,8 @@ function main() {
   runCommand(process.execPath, ['tools/test-ui-shell-config.js']);
   runCommand(process.execPath, ['tools/test-css-architecture.js']);
   runCommand(process.execPath, ['tools/lint-measurement-tools-config.js', '--strict']);
+  runCommand(process.execPath, ['tools/check-consolidation-batches.js']);
+  runCommand(process.execPath, ['tools/check-consolidated-navigation.js']);
   assertBrowserOnlyMessageInPureNode();
   runCommand(process.execPath, ['tools/test-md-loader-fallback.js']);
   runCommand(process.execPath, ['tools/test-article-links.js']);

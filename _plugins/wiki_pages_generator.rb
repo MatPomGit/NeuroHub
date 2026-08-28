@@ -26,6 +26,7 @@ module PsyHub
       self.data["description"] ||= first_paragraph(body)
       self.data["source_path"] = source_path
       self.data["permalink"] ||= "/#{output_path}"
+      self.data["canonical_url"] = self.data["permalink"].to_s.split("#", 2).first
     end
 
     private

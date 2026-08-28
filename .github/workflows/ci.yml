@@ -35,6 +35,8 @@ jobs:
     name: browser-tests
     runs-on: ubuntu-latest
     needs: config-lint
+    env:
+      PSYHUB_REQUIRE_JSDOM: '1'
 
     steps:
       - name: Checkout repository
@@ -44,6 +46,9 @@ jobs:
         uses: actions/setup-node@v7
         with:
           node-version: '20'
+
+      - name: Install Node.js dependencies
+        run: npm ci
 
       - name: Run browser-only tests in jsdom
         run: node tools/run-ui-tests-jsdom.js

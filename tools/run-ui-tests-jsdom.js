@@ -10,6 +10,7 @@ const { createRequire } = require('node:module');
 const fs = require('node:fs');
 const path = require('node:path');
 const vm = require('node:vm');
+const requireJsdom = process.env.PSYHUB_REQUIRE_JSDOM === '1';
 
 function createElementStub(tagName) {
   return {
@@ -60,7 +61,7 @@ function createMinimalDom() {
     removeEventListener() {},
     scrollTo() {}
   };
-  return { window, document, source: 'minimalny adapter DOM' };
+  return { window, document, source: 'atrapy minimalnego adaptera DOM' };
 }
 
 async function createDomRuntime() {
@@ -75,8 +76,14 @@ async function createDomRuntime() {
     if (error && error.code !== 'MODULE_NOT_FOUND') {
       throw error;
     }
+    if (requireJsdom) {
+      throw new Error(
+        '[PsyHub][UI] Tryb ścisły wymaga zależności "jsdom", ale nie jest ona zainstalowana.',
+        { cause: error }
+      );
+    }
     console.warn('[PsyHub][UI] Brakuje opcjonalnej zależności "jsdom".');
-    console.warn('[PsyHub][UI] Używam minimalnego adaptera DOM do smoke testu importu.');
+    console.warn('[PsyHub][UI] Używam atrap z minimalnego adaptera DOM do smoke testu importu.');
     return createMinimalDom();
   }
 }
@@ -177,5 +184,6 @@ async function assertDailyPsychologyEscapesUntrustedText() {
 
   await assertDailyPsychologyEscapesUntrustedText();
 
-  console.log(`[PsyHub][UI] OK: moduł tests-ui.js załadowany poprawnie (${runtime.source}).`);
+  console.log(`[PsyHub][UI] OK: test wykonany w środowisku: ${runtime.source}.`);
+  console.log('[PsyHub][UI] OK: moduł tests-ui.js załadowany poprawnie.');
 })();

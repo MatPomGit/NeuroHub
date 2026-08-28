@@ -7,7 +7,11 @@
   <meta name="color-scheme" content="dark light">
   <title>{{ page.title | escape }} · {{ site.title | escape }}</title>
   <meta name="description" content="{{ page.description | default: site.description | strip_html | normalize_whitespace | escape }}">
-  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <link rel="canonical" href="{{ page.canonical_url | absolute_url }}">
+  <meta property="og:title" content="{{ page.title | escape }} · {{ site.title | escape }}">
+  <meta property="og:description" content="{{ page.description | default: site.description | strip_html | normalize_whitespace | escape }}">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="{{ page.canonical_url | absolute_url }}">
   <link rel="icon" href="{{ '/assets/brain.ico' | relative_url }}" type="image/x-icon">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

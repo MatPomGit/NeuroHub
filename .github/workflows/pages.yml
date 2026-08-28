@@ -52,6 +52,9 @@ jobs:
           du -sh _site
           find _site -type f | wc -l
 
+      - name: Validate article canonical URLs
+        run: node tools/check-generated-wiki-seo.js
+
       - name: Upload Pages artifact
         if: github.event_name != 'pull_request'
         uses: actions/upload-pages-artifact@v5

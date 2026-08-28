@@ -19,6 +19,29 @@
     return element;
   }
 
+  function ensureLink(selector, attributes) {
+    let element = document.head.querySelector(selector);
+    if (!element) {
+      element = document.createElement('link');
+      Object.entries(attributes).forEach(([name, value]) => element.setAttribute(name, value));
+      document.head.appendChild(element);
+    }
+    return element;
+  }
+
+  function buildCanonicalUrl() {
+    const url = new URL(window.location.href);
+    const articleId = url.hash.slice(1);
+    const entries = (window.SITE_CONFIG?.nav || []).flatMap(section => section.items || []);
+    const article = entries.find(entry => entry.id === articleId);
+
+    url.hash = '';
+    if (!article?.file) return url.href;
+
+    const siteRoot = new URL('.', url);
+    return new URL(article.file.replace(/\.md$/i, '.html'), siteRoot).href;
+  }
+
   function cleanText(value) {
     return String(value || '').replace(/\s+/g, ' ').trim();
   }
@@ -43,7 +66,7 @@
     );
     const title = titleText ? `${titleText} - PsyHub` : DEFAULT_TITLE;
     const description = buildDescription(content);
-    const canonicalUrl = window.location.href;
+    const canonicalUrl = buildCanonicalUrl();
 
     document.title = title;
     ensureMeta('meta[name="description"]', { name: 'description' }).setAttribute('content', description);
@@ -51,6 +74,7 @@
     ensureMeta('meta[property="og:description"]', { property: 'og:description' }).setAttribute('content', description);
     ensureMeta('meta[property="og:type"]', { property: 'og:type' }).setAttribute('content', 'website');
     ensureMeta('meta[property="og:url"]', { property: 'og:url' }).setAttribute('content', canonicalUrl);
+    ensureLink('link[rel="canonical"]', { rel: 'canonical' }).setAttribute('href', canonicalUrl);
   }
 
   function startObserver() {

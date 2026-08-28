@@ -284,6 +284,7 @@ var testCurrentIndex = 0;
 var testAttemptState = { started: false, completed: false };
 var theoreticalTestState = null;
 var current = null;
+var loadMdRequestNumber = 0;
 var articleTocObserver = null;
 var articleTocHeadings = [];
 var articleTocCurrentPageId = null;
@@ -800,14 +801,20 @@ function navigate(id, replaceHistory, sectionId = '') {
 
 /*  Load markdown */
 async function loadMd(id, item) {
+  const requestedPageId = id;
+  const requestNumber = ++loadMdRequestNumber;
+  const isCurrentRequest = () => current === requestedPageId && loadMdRequestNumber === requestNumber;
   const area = document.getElementById('content');
+  if (!isCurrentRequest()) return;
   area.innerHTML = '<div class="loading"><div class="spinner"></div>Ładowanie…</div>';
   setBreadcrumb(item);
   if (mdCache.has(item.file)) {
     try {
+      if (!isCurrentRequest()) return;
       renderMd(mdCache.get(item.file), id, item);
       prefetch(id);
     } catch (e) {
+      if (!isCurrentRequest()) return;
       console.error('[PsyHub] Błąd renderowania artykułu z cache:', item.file, e);
       area.innerHTML = '<div class="error-box"><h2>Błąd renderowania treści</h2><p>Artykuł istnieje, ale wystąpił błąd podczas wyświetlania. Sprawdź konsolę deweloperską.</p></div>';
     }
@@ -820,9 +827,11 @@ async function loadMd(id, item) {
     const fetched = await fetchArticleMarkdown(item.file);
     markdownText = fetched.text;
     mdCache.set(item.file, markdownText);
+    if (!isCurrentRequest()) return;
     const parsed = parseArticleFrontmatter(markdownText);
     if (isBodyEmpty(parsed.body)) { emptyArticles.add(id); updateEmptyIndicators(); }
   } catch (e) {
+    if (!isCurrentRequest()) return;
     /* Brak pliku/HTTP błąd - traktujemy jako artykuł w przygotowaniu */
     emptyArticles.add(id);
     updateEmptyIndicators();
@@ -852,9 +861,11 @@ async function loadMd(id, item) {
   }
 
   try {
+    if (!isCurrentRequest()) return;
     renderMd(markdownText, id, item);
     prefetch(id);
   } catch (e) {
+    if (!isCurrentRequest()) return;
     /* Awaria renderowania nie oznacza braku pliku - pokazujemy precyzyjny komunikat. */
     console.error('[PsyHub] Błąd renderowania artykułu:', item.file, e);
     area.innerHTML = '<div class="error-box"><h2>Błąd renderowania treści</h2><p>Artykuł został wczytany, ale nie udało się go wyrenderować. Sprawdź konsolę deweloperską.</p></div>';

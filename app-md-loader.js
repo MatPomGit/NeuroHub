@@ -63,44 +63,4 @@
     throw lastError || new Error(`Nie udało się pobrać pliku: ${normalized}`);
   };
 
-  window.prefetch = function prefetchWithMarkdownLoader(id) {
-    if (typeof prevNext !== 'function' || typeof parseArticleFrontmatter !== 'function' || typeof isBodyEmpty !== 'function') return;
-    const { prev, next } = prevNext(id);
-    for (const it of [prev, next]) {
-      if (!it?.file || mdCache.has(it.file)) continue;
-      window.fetchArticleMarkdown(it.file)
-        .then(result => {
-          mdCache.set(it.file, result.text);
-          const parsed = parseArticleFrontmatter(result.text);
-          if (isBodyEmpty(parsed.body)) {
-            emptyArticles.add(it.id);
-            updateEmptyIndicators();
-          }
-        })
-        .catch(() => {
-          emptyArticles.add(it.id);
-          updateEmptyIndicators();
-        });
-    }
-  };
-
-  function reloadCurrentEmptyArticleOnce() {
-    const alreadyRetriedKey = 'psyhub-md-loader-retried';
-    if (sessionStorage.getItem(alreadyRetriedKey) === window.location.hash) return;
-    const renderedEmptyBanner = document.querySelector('.empty-banner');
-    if (!renderedEmptyBanner || typeof parseRouteHash !== 'function' || typeof navigate !== 'function') return;
-
-    const { pageId } = parseRouteHash(window.location.hash);
-    const item = pageMap?.get(pageId);
-    if (!item?.file) return;
-
-    sessionStorage.setItem(alreadyRetriedKey, window.location.hash);
-    navigate(pageId, true);
-  }
-
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', reloadCurrentEmptyArticleOnce, { once: true });
-  } else {
-    reloadCurrentEmptyArticleOnce();
-  }
 })();

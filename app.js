@@ -685,11 +685,14 @@ function renderSidebar() {
   });
   nav.innerHTML = html;
 }
-/* Bezpiecznie escapuje tekst do atrybutow HTML; akceptuje także wartości niebedące stringiem. */
+/* Bezpiecznie koduje tekst i wartości atrybutów HTML; akceptuje także wartości niebędące stringiem. */
 function q(value){
   return String(value ?? '')
     .replace(/&/g,'&amp;')
-    .replace(/"/g,'&quot;');
+    .replace(/</g,'&lt;')
+    .replace(/>/g,'&gt;')
+    .replace(/"/g,'&quot;')
+    .replace(/'/g,'&#39;');
 }
 
 function toggleGroup(group) {
@@ -1215,38 +1218,39 @@ function renderDailyPsychology(id, item) {
     reflection: 'Refleksja', challenge: 'Wyzwanie', bodyscan: 'Skan ciała',
     writing: 'Pisanie', mindfulness: 'Uważność', social: 'Wyzwanie społeczne', creative: 'Kreatywność'
   };
+  const exerciseType = Object.hasOwn(typeLabels, exercise.type) ? exercise.type : 'reflection';
 
   const navBtns = orderedData.map(e => {
     const isToday = e.day === today;
     const isActive = e.day === displayDay;
     const todayMark = isToday ? `<span class="daily-today-label">dziś</span>` : '';
-    return `<button class="daily-day-btn${isActive ? ' is-active' : ''}" onclick="selectDailyDay(${e.day})">${e.emoji} ${e.dayName}${todayMark}</button>`;
+    return `<button class="daily-day-btn${isActive ? ' is-active' : ''}" onclick="selectDailyDay(${Number(e.day)})">${q(e.emoji)} ${q(e.dayName)}${todayMark}</button>`;
   }).join('');
 
   const stepsHtml = exercise.steps.map((step, i) =>
-    `<li><span class="daily-step-num">${i + 1}</span><span>${step}</span></li>`
+    `<li><span class="daily-step-num">${i + 1}</span><span>${q(step)}</span></li>`
   ).join('');
 
-  const bodyParas = curiosity.body.map(p => `<p>${p}</p>`).join('');
+  const bodyParas = curiosity.body.map(p => `<p>${q(p)}</p>`).join('');
 
   area.innerHTML = `<div class="rendered daily-wrap">
     <div class="page-hero">
-      <span class="chapter-lbl">${item.section || ''}</span>
+      <span class="chapter-lbl">${q(item.section || '')}</span>
       <h1>Psychologia Codzienna</h1>
       <p class="lead">Codzienna dawka wiedzy psychologicznej i pracy nad sobą - zależnie od dnia tygodnia.</p>
     </div>
     <div class="daily-nav">${navBtns}</div>
-    <div class="daily-day-badge">${entry.emoji} ${entry.dayName}</div>
-    <div class="daily-theme">Temat dnia: <strong>${entry.theme}</strong></div>
+    <div class="daily-day-badge">${q(entry.emoji)} ${q(entry.dayName)}</div>
+    <div class="daily-theme">Temat dnia: <strong>${q(entry.theme)}</strong></div>
 
     <div class="daily-card">
       <div class="daily-card-hdr">
         <span class="daily-card-icon">- </span>
         <span class="daily-card-label curiosity">Ciekawostka psychologiczna</span>
       </div>
-      <div class="daily-card-title">${(weeklyFactFallback?.title || curiosity.title)}</div>
-      <div class="daily-card-lead">${(weeklyFactFallback?.message || curiosity.lead)}</div>
-      <div class="daily-card-body">${weeklyFactFallback?.body ? `<p>${weeklyFactFallback.body}</p>` : bodyParas}${weeklyFactFallback?.source ? `<p><strong>źródło:</strong> ${weeklyFactFallback.source}</p>` : ''}</div>
+      <div class="daily-card-title">${q(weeklyFactFallback?.title || curiosity.title)}</div>
+      <div class="daily-card-lead">${q(weeklyFactFallback?.message || curiosity.lead)}</div>
+      <div class="daily-card-body">${weeklyFactFallback?.body ? `<p>${q(weeklyFactFallback.body)}</p>` : bodyParas}${weeklyFactFallback?.source ? `<p><strong>źródło:</strong> ${q(weeklyFactFallback.source)}</p>` : ''}</div>
     </div>
 
     <div class="daily-card">
@@ -1254,9 +1258,9 @@ function renderDailyPsychology(id, item) {
         <span class="daily-card-icon">-</span>
         <span class="daily-card-label exercise">Praca nad sobą</span>
       </div>
-      <div class="daily-card-title">${exercise.title}</div>
-      <span class="daily-exercise-type ${exercise.type}">${typeLabels[exercise.type] || exercise.type}</span>
-      <div class="daily-card-lead">${exercise.intro}</div>
+      <div class="daily-card-title">${q(exercise.title)}</div>
+      <span class="daily-exercise-type ${exerciseType}">${q(typeLabels[exerciseType])}</span>
+      <div class="daily-card-lead">${q(exercise.intro)}</div>
       <ol class="daily-steps">${stepsHtml}</ol>
     </div>
   </div>`;
@@ -1275,7 +1279,17 @@ function renderDailyPsychology(id, item) {
       if (!titleNode || !leadNode || !bodyNode) return;
       titleNode.textContent = fact.title;
       leadNode.textContent = fact.message;
-      bodyNode.innerHTML = `${fact.body ? `<p>${fact.body}</p>` : ''}${fact.source ? `<p><strong>źródło:</strong> ${fact.source}</p>` : ''}`;
+      bodyNode.replaceChildren();
+      if (fact.body) {
+        const paragraph = document.createElement('p');
+        paragraph.textContent = fact.body;
+        bodyNode.appendChild(paragraph);
+      }
+      if (fact.source) {
+        const paragraph = document.createElement('p');
+        paragraph.textContent = `źródło: ${fact.source}`;
+        bodyNode.appendChild(paragraph);
+      }
     })
     .catch(() => {
       /* Cichy fallback: gdy JSON nie jest dostępny, pozostaje treść lokalna z daily-psychology.js. */

@@ -62,6 +62,7 @@ function main() {
   runCommand(process.execPath, ['tools/check-consolidated-navigation.js']);
   assertBrowserOnlyMessageInPureNode();
   runCommand(process.execPath, ['tools/test-md-loader-fallback.js']);
+  runCommand(process.execPath, ['tools/test-md-load-race.js']);
   runCommand(process.execPath, ['tools/test-article-links.js']);
   runCommand(process.execPath, ['tools/check_redirects.js']);
   runCommand(process.execPath, ['tools/check-wiki-hygiene.js']);

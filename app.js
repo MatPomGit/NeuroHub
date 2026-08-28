@@ -1614,11 +1614,19 @@ function prefetch(id) {
   const {prev,next} = prevNext(id);
   for (const it of [prev,next]) {
     if (it?.file && !mdCache.has(it.file))
-      fetch(it.file).then(r=>r.ok?r.text():Promise.reject()).then(t=>{
-        mdCache.set(it.file,t);
-        const parsed = parseArticleFrontmatter(t);
-        if (isBodyEmpty(parsed.body)) { emptyArticles.add(it.id); updateEmptyIndicators(); }
-      }).catch(()=>{ emptyArticles.add(it.id); updateEmptyIndicators(); });
+      fetchArticleMarkdown(it.file).then(result=>{
+        mdCache.set(it.file,result.text);
+        const parsed = parseArticleFrontmatter(result.text);
+        const isEmpty = isBodyEmpty(parsed.body);
+        let stateChanged = false;
+        if (isEmpty && !emptyArticles.has(it.id)) {
+          emptyArticles.add(it.id);
+          stateChanged = true;
+        } else if (!isEmpty) {
+          stateChanged = emptyArticles.delete(it.id);
+        }
+        if (stateChanged) updateEmptyIndicators();
+      }).catch(()=>{});
   }
 }
 

@@ -16,7 +16,8 @@ function configValue(name) {
 function filesBelow(directory) {
   return fs.readdirSync(directory, { withFileTypes: true }).flatMap(entry => {
     const target = path.join(directory, entry.name);
-    return entry.isDirectory() ? filesBelow(target) : [target];
+    if (entry.isDirectory()) return filesBelow(target);
+    return entry.isFile() ? [target] : [];
   });
 }
 
@@ -28,12 +29,13 @@ function singleValue(html, expression, label, relativePath, errors) {
   return values[0];
 }
 
-if (!fs.existsSync(outputRoot)) {
-  throw new Error(`[PsyHub][wiki-seo] Brak katalogu wynikowego: ${outputRoot}. Najpierw uruchom Jekylla.`);
-}
-
 const publicRoot = `${configValue('url').replace(/\/$/, '')}/${configValue('baseurl').replace(/^\//, '').replace(/\/$/, '')}`.replace(/\/$/, '');
 const wikiRoot = path.join(outputRoot, 'wiki');
+if (!fs.existsSync(wikiRoot) || !fs.statSync(wikiRoot).isDirectory()) {
+  console.error('[PsyHub][wiki-seo] BŁĄD: build nie wygenerował _site/wiki.');
+  process.exit(1);
+}
+
 const errors = [];
 let checked = 0;
 

@@ -60,6 +60,7 @@ function main() {
   runCommand(process.execPath, ['tools/lint-measurement-tools-config.js', '--strict']);
   runCommand(process.execPath, ['tools/check-consolidation-batches.js']);
   runCommand(process.execPath, ['tools/check-consolidated-navigation.js']);
+  runCommand(process.execPath, ['tools/test-generated-wiki-seo.js']);
   assertBrowserOnlyMessageInPureNode();
   runCommand(process.execPath, ['tools/test-md-loader-fallback.js']);
   runCommand(process.execPath, ['tools/test-md-load-race.js']);

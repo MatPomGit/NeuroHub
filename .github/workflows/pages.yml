@@ -1,5 +1,6 @@
 name: Build and deploy Jekyll to GitHub Pages
 
+# GitHub-maintained actions are pinned to release commits; comments record the corresponding tags.
 on:
   push:
     branches: [main]
